@@ -7,7 +7,7 @@ keywords:
   - inflation hedge
   - real yield
   - treasury inflation
-image: "https://picsum.photos/seed/tips/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **Treasury Inflation-Protected Security** — or **TIPS** — is a Treasury security whose principal value is adjusted semi-annually based on changes in the Consumer Price Index. Unlike conventional Treasury bonds, which pay a fixed coupon on a fixed principal, TIPS pay a fixed real [coupon](/coupon-rate) on a principal that rises (or falls) with [inflation](/inflation).*
@@ -22,7 +22,7 @@ For conventional Treasury securities with fixed coupon and principal, see [Treas
 
 <div class="wiki-infobox-title">TIPS — key facts</div>
 
-<img src="https://picsum.photos/seed/tips/900/600" alt="A U.S. Treasury security with inflation adjustment indicators and security features" />
+<img src="/svg/fixed-income.svg" alt="A U.S. Treasury security with inflation adjustment indicators and security features" />
 
 <div class="wiki-infobox-caption">TIPS adjust their principal for inflation, ensuring real returns are protected.</div>
 

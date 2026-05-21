@@ -7,7 +7,7 @@ keywords:
   - uptrend
   - downtrend
   - technical analysis
-image: "https://picsum.photos/seed/trendline/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **trendline** is a straight line drawn across a chart connecting two or more price points. In an uptrend, the line connects rising lows (supports); in a downtrend, it connects falling highs (resistances). Trendlines reveal the slope and direction of a price move and provide dynamic [support and resistance](/technical-analysis/support-and-resistance). When price bounces off a trendline, it reinforces the trend; when price breaks through, the trend may be ending. Trendlines are one of the oldest and simplest tools in technical analysis, yet they are remarkably useful for identifying trends and potential reversals.*
@@ -22,7 +22,7 @@ For support and resistance levels broadly, see [support and resistance](/technic
 
 <div class="wiki-infobox-title">Trendline — key facts</div>
 
-<img src="https://picsum.photos/seed/trendline/900/600" alt="A price chart showing uptrend and downtrend lines connecting swing points" />
+<img src="/svg/technical-analysis.svg" alt="A price chart showing uptrend and downtrend lines connecting swing points" />
 
 <div class="wiki-infobox-caption">Trendlines: uptrend connects rising lows; downtrend connects falling highs; breaks signal reversals.</div>
 

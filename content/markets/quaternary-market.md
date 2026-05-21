@@ -8,7 +8,7 @@ keywords:
   - fixed income
   - OTC market
   - institutional trading
-image: "https://picsum.photos/seed/quaternary-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **quaternary market** is the largely institutional marketplace for debt instruments, [derivatives](/option), and other complex securities. It encompasses the [bond](/bond) market, where trillions of dollars of corporate and government debt trade; the [derivatives](/option) market, where interest-rate swaps, credit derivatives, and other instruments are traded; and the [over-the-counter](/over-the-counter-market) market in general. It is less visible to retail investors than the [stock market](/stock-market), but far larger by dollar volume.*
@@ -23,7 +23,7 @@ This entry is about the institutional debt and derivatives market. For the equit
 
 <div class="wiki-infobox-title">Quaternary Market — key facts</div>
 
-<img src="https://picsum.photos/seed/quaternary-market/900/600" alt="Institutional traders monitoring multiple screens showing bond yields and interest rate swap prices" />
+<img src="/svg/markets.svg" alt="Institutional traders monitoring multiple screens showing bond yields and interest rate swap prices" />
 
 <div class="wiki-infobox-caption">The quaternary market is where institutions manage interest-rate risk and credit exposure.</div>
 

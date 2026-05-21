@@ -7,7 +7,7 @@ keywords:
   - permanent insurance
   - flexible premiums
   - cash value
-image: "https://picsum.photos/seed/universal-life-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **universal-life (UL)** insurance policy is permanent life insurance with more flexibility than [whole-life](/whole-life-insurance). You can adjust your premiums and death benefit over time. Cash value accumulates and is credited with interest (typically linked to market indexes). UL is more affordable than whole-life but riskier if interest rates fall.*
@@ -22,7 +22,7 @@ For fixed whole-life, see [whole-life insurance](/whole-life-insurance); for inv
 
 <div class="wiki-infobox-title">Universal-Life Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/universal-life-insurance/900/600" alt="A universal-life policy document with flexible premium and benefit options" />
+<img src="/svg/personal-finance.svg" alt="A universal-life policy document with flexible premium and benefit options" />
 
 <div class="wiki-infobox-caption">The model: permanent coverage with flexible structure.</div>
 

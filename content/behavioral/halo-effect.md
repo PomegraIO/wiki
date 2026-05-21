@@ -7,7 +7,7 @@ keywords:
   - positive impression
   - overvaluation
   - CEO charisma
-image: "https://picsum.photos/seed/halo-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Halo effect is the tendency for a single positive trait to color your entire judgment of a person or company. A CEO is charismatic, so you assume the company will succeed. A stock has performed well recently, so you assume its future is bright. A company is innovative, so you assume it will be profitable. One positive signal overwhelms all other information.*
@@ -22,7 +22,7 @@ Related to representativeness heuristic. For the inverse, see confirmation bias 
 
 <div class="wiki-infobox-title">Halo effect — key facts</div>
 
-<img src="https://picsum.photos/seed/halo-effect/900/600" alt="A bright light around a single object, dimming the view of its surroundings" />
+<img src="/svg/behavioral.svg" alt="A bright light around a single object, dimming the view of its surroundings" />
 
 <div class="wiki-infobox-caption">One bright feature illuminates the whole, hiding flaws.</div>
 

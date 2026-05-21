@@ -7,7 +7,7 @@ keywords:
   - economic collapse
   - unemployment
   - global recession
-image: "https://picsum.photos/seed/great-depression/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Great Depression** was the most severe economic crisis of the modern era, lasting from 1929 through the late 1930s. Triggered by the stock market crash, it was amplified by contractionary policies, the inflexibility of the gold standard, and the absence of automatic stabilizers. Global output fell by roughly one-quarter; unemployment in the United States reached 25%. It reshaped the relationship between government and the economy forever.*
@@ -22,7 +22,7 @@ This entry covers the Great Depression as a whole. For the stock market crash th
 
 <div class="wiki-infobox-title">Great Depression — key facts</div>
 
-<img src="https://picsum.photos/seed/great-depression/900/600" alt="A photograph of unemployed men outside a breadline during the 1930s" />
+<img src="/svg/history.svg" alt="A photograph of unemployed men outside a breadline during the 1930s" />
 
 <div class="wiki-infobox-caption">Breadlines and public works became defining images of the 1930s.</div>
 

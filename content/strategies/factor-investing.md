@@ -8,7 +8,7 @@ keywords:
   - multi-factor portfolio
   - factor returns
   - style factors
-image: "https://picsum.photos/seed/factor-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Factor investing is a systematic approach to [portfolio](/asset-allocation/) construction that targets specific, repeatable drivers of returns called factors — value, momentum, quality, size, and others — rather than relying on individual stock picking or broad [index](/index-fund/) exposure.*
@@ -23,7 +23,7 @@ For the index-based version, see [smart-beta](/smart-beta/). For specific factor
 
 <div class="wiki-infobox-title">Factor investing — key facts</div>
 
-<img src="https://picsum.photos/seed/factor-investing/900/600" alt="A diagram showing multiple factors combining into portfolio returns" />
+<img src="/svg/strategies.svg" alt="A diagram showing multiple factors combining into portfolio returns" />
 
 <div class="wiki-infobox-caption">Factor investors isolate and systematically tilt toward return drivers that persist across time and markets.</div>
 

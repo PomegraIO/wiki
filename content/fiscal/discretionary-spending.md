@@ -7,7 +7,7 @@ keywords:
   - government spending
   - defense spending
   - budget control
-image: "https://picsum.photos/seed/discretionary-spending/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **discretionary spending** program requires Congress to explicitly appropriate funds each year before the agency can spend them. It includes defense, infrastructure, education, scientific research, and other programs Congress chooses to fund annually, as opposed to [mandatory spending](/mandatory-spending) which operates on autopilot.*
@@ -22,7 +22,7 @@ This entry covers annual appropriated spending. For automatic spending, see [man
 
 <div class="wiki-infobox-title">Discretionary Spending — key facts</div>
 
-<img src="https://picsum.photos/seed/discretionary-spending/900/600" alt="Discretionary spending" />
+<img src="/svg/fiscal.svg" alt="Discretionary spending" />
 
 <div class="wiki-infobox-caption">Discretionary spending requires annual Congressional appropriation.</div>
 

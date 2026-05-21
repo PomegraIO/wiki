@@ -7,7 +7,7 @@ keywords:
   - eurozone
   - European Central Bank
   - monetary union
-image: "https://picsum.photos/seed/euro/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **euro** is the common currency of the eurozone, a monetary union comprising 20 EU member states (as of 2024). Adopted in 1999 (in electronic form) and circulated in physical form from 2002, the [euro](/euro) is the second-most important reserve currency after the [US dollar](/us-dollar). It is managed by the [European Central Bank](/central-bank) and facilitates trade and investment within Europe by eliminating exchange-rate volatility.*
@@ -22,7 +22,7 @@ For the anchor currency of the eurozone, see [US dollar](/us-dollar); for the sy
 
 <div class="wiki-infobox-title">Euro — key facts</div>
 
-<img src="https://picsum.photos/seed/euro/900/600" alt="Euro coins and banknotes" />
+<img src="/svg/forex.svg" alt="Euro coins and banknotes" />
 
 <div class="wiki-infobox-caption">The second-largest reserve currency; the currency of 20 EU states.</div>
 

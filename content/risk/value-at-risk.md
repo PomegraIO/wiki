@@ -7,7 +7,7 @@ keywords:
   - risk measure
   - tail loss
   - confidence level
-image: "https://picsum.photos/seed/value-at-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Value-at-risk (VaR) is a statistical measure estimating the maximum loss a portfolio could experience over a defined period (e.g., one day) at a specified confidence level (e.g., 95% or 99%). It answers the question: "What is the worst loss I can expect with X% confidence over Y days?" Despite its limitations, VaR is the dominant risk metric in finance.*
@@ -22,7 +22,7 @@ This entry covers VaR measurement and use. For the average loss in tail events b
 
 <div class="wiki-infobox-title">Value-at-Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/value-at-risk/900/600" alt="A portfolio value graph with a downside threshold marked at 95% confidence" />
+<img src="/svg/risk.svg" alt="A portfolio value graph with a downside threshold marked at 95% confidence" />
 
 <div class="wiki-infobox-caption">VaR is the loss threshold at a given confidence level.</div>
 

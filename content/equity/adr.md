@@ -7,7 +7,7 @@ keywords:
   - depositary shares
   - foreign stock
   - cross-listing
-image: "https://picsum.photos/seed/adr/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An American depositary receipt (ADR) is a US-traded security that represents shares of a foreign company held in custody by a bank. ADRs allow US investors to own foreign stock without opening accounts in foreign markets. Each ADR represents one or more shares of the underlying foreign company. ADRs are denominated in US dollars and trade on US exchanges (NYSE, NASDAQ) or over-the-counter, making foreign stock accessible to American investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/adr/900/600"
 
 <div class="wiki-infobox-title">ADR — key facts</div>
 
-<img src="https://picsum.photos/seed/adr/900/600" alt="An ADR certificate showing deposited shares and conversion ratio" />
+<img src="/svg/equity.svg" alt="An ADR certificate showing deposited shares and conversion ratio" />
 
 <div class="wiki-infobox-caption">Foreign shares wrapped for US market trading.</div>
 

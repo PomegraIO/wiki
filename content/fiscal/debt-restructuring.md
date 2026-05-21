@@ -7,7 +7,7 @@ keywords:
   - debt reduction
   - sovereign debt
   - financial crisis
-image: "https://picsum.photos/seed/debt-restructuring/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **debt restructuring** is a negotiated agreement between a government and its creditors to modify debt terms. The government may secure lower [interest rates](/interest-rate), longer repayment periods, or reduction in principal (a "haircut"), allowing it to service debt without severe [austerity](/austerity) or [default](/sovereign-default).*
@@ -22,7 +22,7 @@ This entry covers debt modification. For the situation that triggers restructuri
 
 <div class="wiki-infobox-title">Debt Restructuring — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-restructuring/900/600" alt="Debt restructuring" />
+<img src="/svg/fiscal.svg" alt="Debt restructuring" />
 
 <div class="wiki-infobox-caption">Debt restructuring modifies terms to make debt sustainable.</div>
 

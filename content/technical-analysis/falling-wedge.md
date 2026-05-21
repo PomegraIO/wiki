@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/falling-wedge/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **falling wedge** is a chart pattern consisting of two downward-sloping lines that converge toward each other. Both the upper line (resistance, declining) and lower line (support, declining) slope downward, but at different rates, narrowing the range as they approach. The pattern visually resembles a falling knife or wedge shape. A falling wedge appearing within a downtrend is often interpreted as a bearish continuation pattern—further downside is expected. However, a falling wedge at the bottom of a sharp downtrend is often a bullish reversal signal: the narrowing range suggests sellers are exhausting, and a break above the upper line signals buying is taking over.*
@@ -22,7 +22,7 @@ For wedges broadly, see [wedge-pattern](/technical-analysis/wedge-pattern). The 
 
 <div class="wiki-infobox-title">Falling wedge — key facts</div>
 
-<img src="https://picsum.photos/seed/falling-wedge/900/600" alt="A falling wedge: two downward-sloping converging lines" />
+<img src="/svg/technical-analysis.svg" alt="A falling wedge: two downward-sloping converging lines" />
 
 <div class="wiki-infobox-caption">Falling wedge: both lines slope down but converge; bullish if at downtrend bottom.</div>
 

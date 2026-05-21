@@ -7,7 +7,7 @@ keywords:
   - home loan
   - interest rate
   - loan term
-image: "https://picsum.photos/seed/fixed-rate-mortgage/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **fixed-rate mortgage** is a home loan with an interest rate locked in for the entire loan term, typically 15 or 30 years. The monthly payment (principal + interest) remains constant throughout the loan, providing payment certainty and protection against interest rate increases.*
@@ -22,7 +22,7 @@ For alternatives, see [adjustable-rate-mortgage](/adjustable-rate-mortgage), [in
 
 <div class="wiki-infobox-title">Fixed-Rate Mortgage — key facts</div>
 
-<img src="https://picsum.photos/seed/fixed-rate-mortgage/900/600" alt="A mortgage payment schedule showing fixed payments" />
+<img src="/svg/real-estate.svg" alt="A mortgage payment schedule showing fixed payments" />
 
 <div class="wiki-infobox-caption">Fixed-rate mortgages lock in the interest rate for the loan's life.</div>
 

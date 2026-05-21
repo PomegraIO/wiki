@@ -6,7 +6,7 @@ keywords:
   - qsbs
   - section 1202
   - small business
-image: "https://picsum.photos/seed/qualified-small-business-stock/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Section 1202 exclusion** (Qualified Small Business Stock or QSBS) is a tax benefit allowing investors to exclude a large portion of gains from the sale of qualifying small business [stock](/stock/)—up to 50% (or 75%-100% depending on when acquired)—if the [stock](/stock/) is held for at least five years. This can reduce effective tax rates from 20% [long-term capital gains](/long-term-capital-gain-tax/) rates to 10% or less. QSBS is a major incentive for early-stage investors and startup employees.*
@@ -21,7 +21,7 @@ For the statutory basis, see [Section 1202 stock](/section-1202-stock/). For rea
 
 <div class="wiki-infobox-title">Qualified small business stock — key facts</div>
 
-<img src="https://picsum.photos/seed/qualified-small-business-stock/900/600" alt="A startup stock certificate" />
+<img src="/svg/taxes.svg" alt="A startup stock certificate" />
 
 <div class="wiki-infobox-caption">QSBS can exclude 50-100% of gains if held 5+ years.</div>
 

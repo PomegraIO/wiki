@@ -7,7 +7,7 @@ keywords:
   - stock options
   - restricted stock
   - executive retention
-image: "https://picsum.photos/seed/golden-handcuffs/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **golden handcuff** is a form of executive compensation, typically equity-based, that is designed to retain executives by tying their financial gain to their continued employment. The most common golden handcuffs are restricted stock awards or stock options that vest over several years, meaning the executive only receives the full value if they remain with the company. Golden handcuffs create a financial incentive to stay and are commonly used alongside [golden parachutes](/golden-parachute) — parachutes protect executives if they leave involuntarily (via change of control); handcuffs reward them for staying voluntarily.*
@@ -22,7 +22,7 @@ This entry covers golden handcuffs as executive retention tools. For the opposit
 
 <div class="wiki-infobox-title">Golden handcuffs — key facts</div>
 
-<img src="https://picsum.photos/seed/golden-handcuffs/900/600" alt="An executive tied to the company by compensation" />
+<img src="/svg/corporate.svg" alt="An executive tied to the company by compensation" />
 
 <div class="wiki-infobox-caption">Golden handcuffs incentivize executives to remain.</div>
 

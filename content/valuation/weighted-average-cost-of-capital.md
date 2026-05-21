@@ -7,7 +7,7 @@ keywords:
   - cost of capital
   - discount rate
   - valuation
-image: "https://picsum.photos/seed/weighted-average-cost-of-capital/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **weighted average cost of capital (WACC)** is the average rate of return a company must earn to satisfy all of its investors—both debt holders and equity holders. It is the discount rate used in nearly every [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation). Getting WACC right is critical; getting it wrong swings valuations by 20% or more.*

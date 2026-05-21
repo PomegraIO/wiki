@@ -8,7 +8,7 @@ keywords:
   - bitcoin
   - hash puzzle
   - difficulty
-image: "https://picsum.photos/seed/proof-of-work/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **proof-of-work** is a consensus mechanism used in [blockchains](/blockchain-fundamentals) where [miners](/mining-bitcoin) compete to solve difficult cryptographic puzzles to propose the next block. The first miner to solve the puzzle broadcasts the solution (the "proof of work") to the network; if valid, other nodes accept the block. Miners are rewarded with newly minted cryptocurrency and transaction fees.*
@@ -23,7 +23,7 @@ This entry covers proof-of-work as a consensus mechanism. For its implementation
 
 <div class="wiki-infobox-title">Proof-of-Work — key characteristics</div>
 
-<img src="https://picsum.photos/seed/proof-of-work/900/600" alt="Miners solving puzzles to produce valid blocks" />
+<img src="/svg/crypto.svg" alt="Miners solving puzzles to produce valid blocks" />
 
 <div class="wiki-infobox-caption">Proof-of-work: security through computational effort.</div>
 

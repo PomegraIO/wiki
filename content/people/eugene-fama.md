@@ -7,7 +7,7 @@ keywords:
   - market efficiency
   - random walk
   - stock market
-image: "https://picsum.photos/seed/eugene-fama/900/600"
+image: "/svg/people.svg"
 ---
 
 *Eugene Fama proved through rigorous empirical analysis that past [stock market](/stock-market) performance does not predict future returns — a finding that implied markets are efficient and that professional managers cannot beat them consistently.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/eugene-fama/900/600"
 
 <div class="wiki-infobox-title">Eugene Fama — key facts</div>
 
-<img src="https://picsum.photos/seed/eugene-fama/900/600" alt="Statistical analysis of price patterns and historical returns" />
+<img src="/svg/people.svg" alt="Statistical analysis of price patterns and historical returns" />
 
 <div class="wiki-infobox-caption">The data that revealed efficiency — where patterns vanish under scrutiny.</div>
 

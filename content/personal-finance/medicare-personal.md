@@ -7,7 +7,7 @@ keywords:
   - age 65
   - federal insurance
   - senior health care
-image: "https://picsum.photos/seed/medicare-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **Medicare** system is a federal health insurance program available to people age 65 and older, as well as some younger people with disabilities or end-stage renal disease. It is funded through payroll taxes (part of FICA) and provides coverage for hospital care, medical services, and prescription drugs.*
@@ -22,7 +22,7 @@ For the retirement income side, see [Social Security](/social-security-personal)
 
 <div class="wiki-infobox-title">Medicare — key facts</div>
 
-<img src="https://picsum.photos/seed/medicare-personal/900/600" alt="A Medicare card and enrollment form" />
+<img src="/svg/personal-finance.svg" alt="A Medicare card and enrollment form" />
 
 <div class="wiki-infobox-caption">The system: four parts (A, B, D, and Supplements).</div>
 

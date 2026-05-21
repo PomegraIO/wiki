@@ -8,7 +8,7 @@ keywords:
   - clearinghouse
   - Europe
   - clearing
-image: "https://picsum.photos/seed/lch-clearnet/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **LCH** (consisting of LCH Ltd and LCH SA) is Europe's largest clearinghouse, providing central counterparty clearing for equities, [bonds](/bond), derivatives, and commodities. Operating under different legal entities to serve different jurisdictions and asset classes, LCH is essential infrastructure for European financial markets.*
@@ -23,7 +23,7 @@ LCH is majority-owned by the London Stock Exchange Group; historically LCH Ltd a
 
 <div class="wiki-infobox-title">LCH — key facts</div>
 
-<img src="https://picsum.photos/seed/lch-clearnet/900/600" alt="LCH offices in London" />
+<img src="/svg/institutions.svg" alt="LCH offices in London" />
 
 <div class="wiki-infobox-caption">LCH headquarters in the City of London.</div>
 

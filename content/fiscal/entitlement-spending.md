@@ -7,7 +7,7 @@ keywords:
   - social security
   - medicare
   - government transfer
-image: "https://picsum.photos/seed/entitlement-spending/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **entitlement spending** program provides payments to individuals who meet legal eligibility requirements. The government is obligated by law to pay eligible recipients; spending is thus [mandatory](/mandatory-spending), growing with eligible population size and benefit formulas rather than Congressional appropriations.*
@@ -22,7 +22,7 @@ This entry covers eligibility-based payments. For mandatory spending broadly, se
 
 <div class="wiki-infobox-title">Entitlement Spending — key facts</div>
 
-<img src="https://picsum.photos/seed/entitlement-spending/900/600" alt="Entitlement spending" />
+<img src="/svg/fiscal.svg" alt="Entitlement spending" />
 
 <div class="wiki-infobox-caption">Entitlement spending is the fastest-growing part of the federal budget.</div>
 

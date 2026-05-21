@@ -8,7 +8,7 @@ keywords:
   - bet against consensus
   - investor psychology
   - contrarian value
-image: "https://picsum.photos/seed/contrarian-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Contrarian investing is a philosophical approach to [stock](/stock/) selection rooted in the belief that the market often reaches extreme consensus views — both bullish and bearish — and that betting against those extremes can be profitable. When the crowd is euphoric, a contrarian sells; when the crowd is panicked, a contrarian buys.*
@@ -23,7 +23,7 @@ For the systematic factor, see [momentum-factor](/momentum-factor/) and its reve
 
 <div class="wiki-infobox-title">Contrarian investing — key facts</div>
 
-<img src="https://picsum.photos/seed/contrarian-investing/900/600" alt="A crowd moving one direction; a lone investor walking the opposite way" />
+<img src="/svg/strategies.svg" alt="A crowd moving one direction; a lone investor walking the opposite way" />
 
 <div class="wiki-infobox-caption">Contrarians buy when the crowd sells in panic, sell when the crowd buys in euphoria.</div>
 

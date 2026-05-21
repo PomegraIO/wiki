@@ -7,7 +7,7 @@ keywords:
   - short-term debt
   - working capital
   - corporate borrowing
-image: "https://picsum.photos/seed/commercial-paper/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **commercial paper** — or **CP** — is a short-term debt security issued by a corporation to raise cash for immediate operating needs. Maturities are typically 1 to 270 days, making CP a money market instrument. Unlike [bonds](/bond), which pay semi-annual coupons, commercial paper is issued at a discount and redeemed at face value, with the discount representing the investor's return.*
@@ -22,7 +22,7 @@ For longer-term corporate debt, see [corporate bond](/corporate-bond). For other
 
 <div class="wiki-infobox-title">Commercial Paper — key facts</div>
 
-<img src="https://picsum.photos/seed/commercial-paper/900/600" alt="A chart showing commercial paper issuance and rates over time" />
+<img src="/svg/fixed-income.svg" alt="A chart showing commercial paper issuance and rates over time" />
 
 <div class="wiki-infobox-caption">Commercial paper provides rapid, flexible short-term funding for corporations.</div>
 

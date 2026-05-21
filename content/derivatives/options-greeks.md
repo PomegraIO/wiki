@@ -10,7 +10,7 @@ keywords:
   - rho
   - option greeks
   - risk metrics
-image: "https://picsum.photos/seed/options-greeks/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **Greeks** are a set of partial derivatives—mathematical measures of sensitivity—that quantify how an option's price responds to changes in five key factors: the underlying asset price ([delta](/delta)), the rate of delta change ([gamma](/gamma)), time passage ([theta](/theta)), [volatility](/historical-volatility) ([vega](/vega)), and interest rates ([rho](/rho)). Together, the Greeks provide traders and risk managers with a complete toolkit for understanding option behavior, hedging positions, and pricing derivatives.*
@@ -19,7 +19,7 @@ image: "https://picsum.photos/seed/options-greeks/900/600"
 
 <div class="wiki-infobox-title">Options Greeks — key facts</div>
 
-<img src="https://picsum.photos/seed/options-greeks/900/600" alt="The five Greek letters representing risk metrics" />
+<img src="/svg/derivatives.svg" alt="The five Greek letters representing risk metrics" />
 
 <div class="wiki-infobox-caption">The Greeks quantify option price sensitivities.</div>
 

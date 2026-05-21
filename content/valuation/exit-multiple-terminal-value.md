@@ -7,7 +7,7 @@ keywords:
   - exit assumption
   - multiples terminal value
   - valuation endpoint
-image: "https://picsum.photos/seed/exit-multiple-terminal-value/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *An **exit multiple terminal value** values a company's cash flows beyond the explicit forecast period by assuming the company will be sold (or valued) at a given multiple of year-N earnings or EBITDA. Instead of using a [perpetuity growth formula](/perpetuity-growth-terminal-value), you project year 10 EBITDA (say, 100 million), assume it will trade at 10x EBITDA on exit (1 billion), and discount that 1 billion back to today. This approach feels more grounded in market reality and is often preferred by practitioners.*

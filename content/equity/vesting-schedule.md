@@ -7,7 +7,7 @@ keywords:
   - equity grant
   - time lock
   - cliff vesting
-image: "https://picsum.photos/seed/vesting-schedule/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A vesting schedule is the timeline over which equity compensation (stock options, restricted stock, or RSUs) becomes the employee's property. Unvested shares are typically forfeited if the employee leaves; vested shares remain the employee's property. Vesting schedules align employee and shareholder interests by creating an incentive for the employee to remain with the company and build long-term value.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/vesting-schedule/900/600"
 
 <div class="wiki-infobox-title">Vesting schedule — key facts</div>
 
-<img src="https://picsum.photos/seed/vesting-schedule/900/600" alt="A timeline showing vesting schedules over four years" />
+<img src="/svg/equity.svg" alt="A timeline showing vesting schedules over four years" />
 
 <div class="wiki-infobox-caption">Equity unlock timeline, aligning retention with value creation.</div>
 

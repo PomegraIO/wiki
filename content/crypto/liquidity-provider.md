@@ -8,7 +8,7 @@ keywords:
   - yield farming
   - trading fees
   - impermanent loss
-image: "https://picsum.photos/seed/liquidity-provider/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **liquidity provider** (**LP**) is a user who deposits cryptocurrency into a [liquidity pool](/liquidity-pool) and earns a portion of trading fees. LPs are essential to decentralised exchanges, supplying the capital that allows trades to occur. In return, LPs earn fees but face [impermanent loss](/impermanent-loss) if token prices diverge.*
@@ -23,7 +23,7 @@ This entry covers liquidity providers. For the pools they contribute to, see [li
 
 <div class="wiki-infobox-title">Liquidity Provider — key facts</div>
 
-<img src="https://picsum.photos/seed/liquidity-provider/900/600" alt="LP earning trading fees from pool" />
+<img src="/svg/crypto.svg" alt="LP earning trading fees from pool" />
 
 <div class="wiki-infobox-caption">A liquidity provider: earning fees from decentralised trading.</div>
 

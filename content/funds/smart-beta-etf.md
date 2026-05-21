@@ -8,7 +8,7 @@ keywords:
   - dividend yield
   - value factor
   - fund
-image: "https://picsum.photos/seed/smart-beta-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **smart beta ETF** is an [ETF](/etf) that weights its [stock](/stock) holdings by criteria other than market capitalization — dividend yield, earnings, value metrics, momentum, quality, or equal weighting. Smart beta strategies aim to outperform traditional [index funds](/index-fund) at similar cost by systematically favoring stocks with certain characteristics.*
@@ -23,7 +23,7 @@ This entry covers smart beta ETFs as a category. For individual smart beta facto
 
 <div class="wiki-infobox-title">Smart Beta ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/smart-beta-etf/900/600" alt="A portfolio dashboard showing factor allocation and risk metrics" />
+<img src="/svg/funds.svg" alt="A portfolio dashboard showing factor allocation and risk metrics" />
 
 <div class="wiki-infobox-caption">Smart beta applies systematic factor criteria to improve returns at index cost.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - securities purchases
   - monetary policy
   - money supply
-image: "https://picsum.photos/seed/open-market-operations/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *An **open-market operation** (or **OMO**) is a purchase or sale of securities — typically government [bonds](/bond), mortgage-backed securities, or other financial instruments — by a central bank. Through these operations, the central bank injects money into or drains it from the financial system, guiding interest rates toward its target and influencing the broad money supply.*
@@ -22,7 +22,7 @@ This entry covers the general mechanics. For expansionary-era OMOs focused on gr
 
 <div class="wiki-infobox-title">Open-Market Operations — key facts</div>
 
-<img src="https://picsum.photos/seed/open-market-operations/900/600" alt="Central bank trading floor with securities" />
+<img src="/svg/monetary.svg" alt="Central bank trading floor with securities" />
 
 <div class="wiki-infobox-caption">Central banks conduct open-market operations to steer interest rates and the money supply.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - change of control
   - executive compensation
   - takeover
-image: "https://picsum.photos/seed/golden-parachute/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **golden parachute** is a contractual provision that requires a company to pay large severance payments and benefits to its executives if they lose their positions following a [change of control](/change-of-control-provision) — typically a [merger](/merger), [acquisition](/acquisition), or hostile takeover. The payments are designed to protect executives from job loss and to provide them with financial security to accept a transaction that may not be in their individual interest. Golden parachutes are common in large public companies but are controversial because they can be extremely expensive and may incentivize executives to accept low-ball bids.*
@@ -22,7 +22,7 @@ This entry covers golden parachutes as executive compensation. For related benef
 
 <div class="wiki-infobox-title">Golden parachute — key facts</div>
 
-<img src="https://picsum.photos/seed/golden-parachute/900/600" alt="An executive departing with substantial payment" />
+<img src="/svg/corporate.svg" alt="An executive departing with substantial payment" />
 
 <div class="wiki-infobox-caption">A golden parachute provides severance upon a takeover.</div>
 

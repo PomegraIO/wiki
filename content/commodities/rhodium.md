@@ -7,7 +7,7 @@ keywords:
   - catalyst
   - rare metal
   - precious metal
-image: "https://picsum.photos/seed/rhodium/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **rhodium** — one of the rarest elements in Earth's crust, more scarce than gold by a factor of 100 — is a silvery metal whose extreme chemical inertness and catalytic properties make it invaluable in specialty industrial applications, yet whose extreme illiquidity and thin supply make it inaccessible to all but the most dedicated commodity investors. In catalytic converters, rhodium plays a minority but essential role alongside [palladium](/palladium/) and [platinum](/platinum/).*
@@ -22,7 +22,7 @@ This entry covers rhodium as a commodity. Rhodium is not widely held as a moneta
 
 <div class="wiki-infobox-title">Rhodium — key facts</div>
 
-<img src="https://picsum.photos/seed/rhodium/900/600" alt="Rhodium crystal or ingot" />
+<img src="/svg/commodities.svg" alt="Rhodium crystal or ingot" />
 
 <div class="wiki-infobox-caption">Rhodium in its pure elemental form — extremely rare in physical form outside industry.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - leverage
   - capital structure
   - financial risk
-image: "https://picsum.photos/seed/debt-to-equity-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **debt-to-equity ratio** — or **D/E ratio** — divides total debt by total shareholder equity. A D/E of 1.0 means the company has $1 of debt for every $1 of equity; a D/E of 2.0 means $2 of debt per $1 of equity. This ratio measures financial leverage and risk. Higher leverage amplifies returns in good times and amplifies losses in downturns.*
@@ -22,7 +22,7 @@ This entry covers the fundamental leverage metric. For alternative leverage meas
 
 <div class="wiki-infobox-title">Debt-to-Equity Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-to-equity-ratio/900/600" alt="Debt balanced against equity capital" />
+<img src="/svg/ratios.svg" alt="Debt balanced against equity capital" />
 
 <div class="wiki-infobox-caption">The balance between borrowed and owned capital.</div>
 

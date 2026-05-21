@@ -7,7 +7,7 @@ keywords:
   - beneficiary
   - conflict of interest
   - trust
-image: "https://picsum.photos/seed/fiduciary-duty/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Fiduciary duty is the legal obligation of a fiduciary — a person or firm entrusted with power over another's interests — to act solely in that other person's best interest and to avoid conflicts of interest. Investment advisers, trustees, and some brokers owe fiduciary duties. The duty is the highest standard of care in commercial law. A fiduciary cannot profit from its position except as transparently agreed. Breach of fiduciary duty is the basis for many securities and trust litigation claims.*
@@ -22,7 +22,7 @@ Fiduciary duty applies to advisers, trustees, and some brokers. [Suitability sta
 
 <div class="wiki-infobox-title">Fiduciary Duty — key facts</div>
 
-<img src="https://picsum.photos/seed/fiduciary-duty/900/600" alt="A fiduciary managing client assets" />
+<img src="/svg/regulation.svg" alt="A fiduciary managing client assets" />
 
 <div class="wiki-infobox-caption">An investment adviser managing client assets under fiduciary duty.</div>
 

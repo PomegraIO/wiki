@@ -7,7 +7,7 @@ keywords:
   - thematic investing
   - disruptive innovation
   - etf
-image: "https://picsum.photos/seed/cathie-wood/900/600"
+image: "/svg/people.svg"
 ---
 
 *Cathie Wood built ARK Invest into a multi-billion-dollar asset manager by making a contrarian bet on disruptive innovation — concentrating in emerging technologies years before consensus, then scaling the approach into popular ETFs.*
@@ -22,7 +22,7 @@ This entry is about the investor. For her investment company, see ARK Invest.
 
 <div class="wiki-infobox-title">Cathie Wood — key facts</div>
 
-<img src="https://picsum.photos/seed/cathie-wood/900/600" alt="A laboratory or tech workspace filled with innovation symbols" />
+<img src="/svg/people.svg" alt="A laboratory or tech workspace filled with innovation symbols" />
 
 <div class="wiki-infobox-caption">The domain of her focus — where disruption is incubated.</div>
 

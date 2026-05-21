@@ -8,7 +8,7 @@ keywords:
   - market capitalization
   - debt
   - cash
-image: "https://picsum.photos/seed/enterprise-value/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **enterprise value** — or **EV** — of a company is the total cost required to acquire it. It is calculated as the [market capitalization](/market-capitalization) plus total debt minus total cash (and equivalents). Enterprise value is the price a buyer would need to pay: the equity holders get the market cap, but the buyer also assumes all the company's liabilities.*
@@ -23,7 +23,7 @@ This entry covers a fundamental valuation measure. For ratios built on enterpris
 
 <div class="wiki-infobox-title">Enterprise Value — key facts</div>
 
-<img src="https://picsum.photos/seed/enterprise-value/900/600" alt="A company's total economic value including all liabilities" />
+<img src="/svg/ratios.svg" alt="A company's total economic value including all liabilities" />
 
 <div class="wiki-infobox-caption">The true cost of owning a company — equity plus net debt.</div>
 

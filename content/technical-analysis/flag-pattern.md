@@ -7,7 +7,7 @@ keywords:
   - continuation
   - consolidation
   - technical analysis
-image: "https://picsum.photos/seed/flag-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **flag pattern** is a bullish or bearish continuation pattern consisting of two parts: the **pole** (a sharp, nearly vertical price move) and the **flag** (a small, tight consolidation forming a parallelogram or rectangle). The flag is tilted slightly against the prior move's direction—an uptrend flag slopes slightly downward; a downtrend flag slopes slightly upward. After the flag consolidates, price breaks out in the original direction of the pole, continuing the trend. Flags signal that a trend is strong but temporarily pausing for profit-taking or consolidation. They are one of the most reliable continuation patterns because they form after genuine, substantial moves and resolve decisively.*
@@ -22,7 +22,7 @@ For continuation patterns broadly, see [candlestick pattern](/technical-analysis
 
 <div class="wiki-infobox-title">Flag pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/flag-pattern/900/600" alt="A flag pattern: a sharp vertical pole and a tight rectangular flag" />
+<img src="/svg/technical-analysis.svg" alt="A flag pattern: a sharp vertical pole and a tight rectangular flag" />
 
 <div class="wiki-infobox-caption">Flag: vertical pole, tight flag consolidation, breakout in pole direction.</div>
 

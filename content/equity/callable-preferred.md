@@ -7,7 +7,7 @@ keywords:
   - redemption
   - preferred stock
   - call provision
-image: "https://picsum.photos/seed/callable-preferred/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Callable preferred stock is a variant of [preferred stock](/equity/preferred-stock/) that includes a call provision allowing the company to repurchase (redeem) the shares at a pre-set price, typically par value plus accrued dividends. Callable preferred is useful for companies that expect to refinance at lower rates; they can call in the old preferred and issue new preferred at lower dividend rates, saving on dividend payments.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/callable-preferred/900/600"
 
 <div class="wiki-infobox-title">Callable preferred stock — key facts</div>
 
-<img src="https://picsum.photos/seed/callable-preferred/900/600" alt="A callable preferred prospectus showing call date and price" />
+<img src="/svg/equity.svg" alt="A callable preferred prospectus showing call date and price" />
 
 <div class="wiki-infobox-caption">Issuer can repurchase at fixed price, capping upside.</div>
 

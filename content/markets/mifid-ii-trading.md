@@ -8,7 +8,7 @@ keywords:
   - best execution
   - trading regulation
   - European markets
-image: "https://picsum.photos/seed/mifid-ii-trading/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **Markets in Financial Instruments Directive II (MiFID II)** is the European regulatory framework governing financial market structure, adopted in 2018. It requires best execution, fair access to trading venues, detailed pre- and post-trade transparency, and regular market data reporting. MiFID II is the EU's equivalent to US [Reg NMS](/reg-nms-detail) but features stricter transparency requirements and distinct venue classifications.*
@@ -23,7 +23,7 @@ This entry is about EU market structure. For US equivalent, see [Reg NMS](/reg-n
 
 <div class="wiki-infobox-title">MiFID II — key facts</div>
 
-<img src="https://picsum.photos/seed/mifid-ii-trading/900/600" alt="A list of MiFID II requirements in a compliance document" />
+<img src="/svg/markets.svg" alt="A list of MiFID II requirements in a compliance document" />
 
 <div class="wiki-infobox-caption">MiFID II created stricter transparency standards than US Reg NMS.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - proof-of-stake
   - consensus
   - subnet
-image: "https://picsum.photos/seed/avalanche/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Avalanche** (**AVAX**) is a blockchain platform and cryptocurrency designed to deliver fast transaction finality and high throughput using a novel consensus protocol. It uses [proof-of-stake](/proof-of-stake) and supports "subnets" — custom blockchains that inherit security from Avalanche's main network.*
@@ -23,7 +23,7 @@ This entry covers the Avalanche network and platform. For similar platforms, see
 
 <div class="wiki-infobox-title">Avalanche — key facts</div>
 
-<img src="https://picsum.photos/seed/avalanche/900/600" alt="Avalanche logo and consensus diagram" />
+<img src="/svg/crypto.svg" alt="Avalanche logo and consensus diagram" />
 
 <div class="wiki-infobox-caption">Avalanche: a platform emphasising speed and finality.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - order matching
   - trading platform
   - market infrastructure
-image: "https://picsum.photos/seed/alternative-trading-system/900/600"
+image: "/svg/markets.svg"
 ---
 
 *An **Alternative Trading System (ATS)** is a venue for trading securities that is not a registered stock exchange but operates under SEC Rule 10b-2. An ATS matches customer orders electronically without displaying quotes or operating a visible order book (if it is a [dark pool](/dark-pool-detail)) or with full transparency (if it is a [lit venue](/lit-venue-detail)). ATSs are a heterogeneous category encompassing hundreds of platforms and account for approximately 30% of US equity trading volume.*
@@ -23,7 +23,7 @@ This entry is about the regulatory category. For transparent ATSs, see [lit venu
 
 <div class="wiki-infobox-title">Alternative Trading System — key facts</div>
 
-<img src="https://picsum.photos/seed/alternative-trading-system/900/600" alt="A system architecture diagram showing an ATS matching orders across different clients" />
+<img src="/svg/markets.svg" alt="A system architecture diagram showing an ATS matching orders across different clients" />
 
 <div class="wiki-infobox-caption">ATSs are the fastest-growing component of US market structure.</div>
 

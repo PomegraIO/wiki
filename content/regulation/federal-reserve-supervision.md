@@ -7,7 +7,7 @@ keywords:
   - bank examination
   - prudential regulation
   - safety and soundness
-image: "https://picsum.photos/seed/federal-reserve-supervision/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Federal Reserve** supervises state-chartered banks that are members of the Federal Reserve system and all bank holding companies, regardless of their bank's charter type. This supervision involves on-site examinations to assess safety and soundness, capital adequacy, asset quality, and management competence.*
@@ -22,7 +22,7 @@ Federal Reserve supervision focuses on banking organizations. The [SEC](/securit
 
 <div class="wiki-infobox-title">Federal Reserve Supervision — key facts</div>
 
-<img src="https://picsum.photos/seed/federal-reserve-supervision/900/600" alt="A bank headquarters" />
+<img src="/svg/regulation.svg" alt="A bank headquarters" />
 
 <div class="wiki-infobox-caption">A bank holding company supervised by the Federal Reserve.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - equity compensation
   - vesting
   - stock grants
-image: "https://picsum.photos/seed/restricted-stock-units/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A restricted stock unit (RSU) is a promise to issue [shares](/stock/) to an employee or executive upon vesting. Unlike [restricted stock](/equity/restricted-stock/), the holder owns nothing until vesting; they receive no [dividends](/dividend/), no votes, and no legal claim until the company settles shares. Upon vesting, shares are issued, and the holder recognizes income tax on the grant-date fair market value.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/restricted-stock-units/900/600"
 
 <div class="wiki-infobox-title">Restricted stock units — key facts</div>
 
-<img src="https://picsum.photos/seed/restricted-stock-units/900/600" alt="A vesting schedule showing RSU milestones" />
+<img src="/svg/equity.svg" alt="A vesting schedule showing RSU milestones" />
 
 <div class="wiki-infobox-caption">Promise of shares upon vesting, with no ownership rights beforehand.</div>
 

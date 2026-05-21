@@ -7,7 +7,7 @@ keywords:
   - staple food
   - geopolitics
   - Russia
-image: "https://picsum.photos/seed/wheat/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **wheat** — the world's second-largest grain crop, supplying over 700 million tonnes annually — is a commodity whose price is dominated by Russian and Ukrainian supply (which together produce 25–30% of global wheat). Unlike [corn](/corn/), which is primarily animal feed, wheat is a staple human food; price spikes trigger food-security concerns and social unrest in importing countries.*
@@ -22,7 +22,7 @@ This entry covers wheat as a traded commodity. For other grains, see [corn](/cor
 
 <div class="wiki-infobox-title">Wheat — key facts</div>
 
-<img src="https://picsum.photos/seed/wheat/900/600" alt="Wheat field and harvesting" />
+<img src="/svg/commodities.svg" alt="Wheat field and harvesting" />
 
 <div class="wiki-infobox-caption">Wheat harvest — feeding over 1.5 billion people globally.</div>
 

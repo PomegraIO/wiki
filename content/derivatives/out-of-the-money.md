@@ -7,7 +7,7 @@ keywords:
   - option value
   - time value
   - moneyness
-image: "https://picsum.photos/seed/out-of-the-money/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An option is **out-of-the-money (OTM)** when exercising it would not be immediately profitable. For a [call option](/call-option), this means the [stock](/stock) price is below the [strike price](/strike-price). For a [put option](/put-option), this means the stock price is above the strike. Out-of-the-money options have zero [intrinsic value](/intrinsic-value) and are worth only their [time value](/time-value), reflecting the probability and magnitude of becoming [in-the-money](/in-the-money) before [expiration date](/expiration-date).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/out-of-the-money/900/600"
 
 <div class="wiki-infobox-title">Out-of-the-Money — key facts</div>
 
-<img src="https://picsum.photos/seed/out-of-the-money/900/600" alt="A stock price line below a strike level" />
+<img src="/svg/derivatives.svg" alt="A stock price line below a strike level" />
 
 <div class="wiki-infobox-caption">Out-of-the-money options have zero intrinsic value.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - debt default
   - credit crisis
   - financial collapse
-image: "https://picsum.photos/seed/sovereign-default/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **sovereign default** occurs when a government fails to pay [interest](/interest-rate) or principal on [debt](/sovereign-debt) owed to creditors. It can be a deliberate choice (refusing to pay) or forced by inability to pay, and triggers financial crisis, loss of market access, and often severe economic damage.*
@@ -22,7 +22,7 @@ This entry covers government payment failure. For the renegotiation that sometim
 
 <div class="wiki-infobox-title">Sovereign Default — key facts</div>
 
-<img src="https://picsum.photos/seed/sovereign-default/900/600" alt="Sovereign default" />
+<img src="/svg/fiscal.svg" alt="Sovereign default" />
 
 <div class="wiki-infobox-caption">Sovereign default is the failure of a government to pay its debt.</div>
 

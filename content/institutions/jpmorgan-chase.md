@@ -7,7 +7,7 @@ keywords:
   - investment bank
   - Wall Street
   - financial services
-image: "https://picsum.photos/seed/jpmorgan-chase/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **JPMorgan Chase & Co.** is the largest [bank](/broker) in the United States by assets and a leading global financial institution. Operating through consumer banking, commercial banking, investment banking, and wealth management divisions, JPMorgan Chase serves millions of individual customers, millions of small and medium businesses, large corporations, and institutional investors worldwide.*
@@ -22,7 +22,7 @@ JPMorgan Chase was formed in 2000 through the merger of Chase Manhattan Bank and
 
 <div class="wiki-infobox-title">JPMorgan Chase — key facts</div>
 
-<img src="https://picsum.photos/seed/jpmorgan-chase/900/600" alt="JPMorgan Chase headquarters in New York" />
+<img src="/svg/institutions.svg" alt="JPMorgan Chase headquarters in New York" />
 
 <div class="wiki-infobox-caption">JPMorgan Chase headquarters in Midtown Manhattan.</div>
 

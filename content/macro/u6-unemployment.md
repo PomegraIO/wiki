@@ -7,7 +7,7 @@ keywords:
   - labor slack
   - discouraged workers
   - unemployment measure
-image: "https://picsum.photos/seed/u6-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *U-6 unemployment is the broadest official measure of labor market slack. It includes everyone counted in the [U-3 unemployment](/u3-unemployment) rate, plus discouraged workers who have given up looking, marginally attached workers who want a job but are not actively searching, and involuntary part-time workers who want full-time employment.*
@@ -22,7 +22,7 @@ U-6 = [U-3](/u3-unemployment) + discouraged workers + marginally attached + invo
 
 <div class="wiki-infobox-title">U-6 Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/u6-unemployment/900/600" alt="U-6 versus U-3 unemployment" />
+<img src="/svg/macro.svg" alt="U-6 versus U-3 unemployment" />
 
 <div class="wiki-infobox-caption">U-6 is much broader, capturing underemployment and labor force dropouts.</div>
 

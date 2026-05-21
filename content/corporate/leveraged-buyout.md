@@ -7,7 +7,7 @@ keywords:
   - private equity
   - debt financing
   - M&A
-image: "https://picsum.photos/seed/leveraged-buyout/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **leveraged buyout** (or **LBO**) is an [acquisition](/acquisition) where the buyer uses debt (leverage) to finance most of the purchase price, not equity. The target company's future cash flows and assets are pledged as collateral for the debt. By financing with debt rather than equity, a small investor can acquire a much larger company, and if the company performs well and cash flows grow, the equity investor can realize outsized returns. Leveraged buyouts are the bread and butter of private equity firms and have transformed American corporate ownership since the 1980s.*
@@ -22,7 +22,7 @@ This entry covers LBOs as an acquisition and financing structure. For related st
 
 <div class="wiki-infobox-title">Leveraged buyout — key facts</div>
 
-<img src="https://picsum.photos/seed/leveraged-buyout/900/600" alt="A company acquired with heavy debt" />
+<img src="/svg/corporate.svg" alt="A company acquired with heavy debt" />
 
 <div class="wiki-infobox-caption">An LBO finances an acquisition with debt and minimal equity.</div>
 

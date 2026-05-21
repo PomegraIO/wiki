@@ -7,7 +7,7 @@ keywords:
   - inflation protection
   - treasury savings
   - accrued interest
-image: "https://picsum.photos/seed/i-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **Series I Savings Bond** — or **I-Bond** — is a Treasury-issued savings security designed for long-term holding by individuals. The return consists of a fixed rate set at issuance plus a variable inflation component adjusted semi-annually based on the Consumer Price Index. I-Bonds cannot be sold or transferred, must be held for at least one year, and incur a penalty if redeemed within the first five years.*
@@ -22,7 +22,7 @@ For Treasury securities traded in secondary markets, see [Treasury note](/treasu
 
 <div class="wiki-infobox-title">Series I Savings Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/i-bond/900/600" alt="A Series I Savings Bond certificate with security features and inflation adjustment rate information" />
+<img src="/svg/fixed-income.svg" alt="A Series I Savings Bond certificate with security features and inflation adjustment rate information" />
 
 <div class="wiki-infobox-caption">I-Bonds combine a fixed base rate with a semi-annual inflation adjustment, making them a dynamic savings tool.</div>
 

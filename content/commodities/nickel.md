@@ -7,7 +7,7 @@ keywords:
   - stainless steel
   - battery
   - electric vehicle
-image: "https://picsum.photos/seed/nickel/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **nickel** — a hard, silver-white metal whose primary use is the production of stainless steel — is a commodity experiencing a structural demand boom as electric vehicles and grid-storage batteries ramp production. The shift from [palladium](/palladium/) autocatalysts to nickel-based batteries is creating an existential shortage of supply and has made nickel one of the most volatile industrial metals.*
@@ -22,7 +22,7 @@ This entry covers nickel as a traded commodity. For nickel-producing mining stoc
 
 <div class="wiki-infobox-title">Nickel — key facts</div>
 
-<img src="https://picsum.photos/seed/nickel/900/600" alt="Nickel ore and refined nickel sheets" />
+<img src="/svg/commodities.svg" alt="Nickel ore and refined nickel sheets" />
 
 <div class="wiki-infobox-caption">Nickel in ore and refined sheet forms.</div>
 

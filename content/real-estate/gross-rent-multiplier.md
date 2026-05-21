@@ -7,7 +7,7 @@ keywords:
   - valuation
   - rent multiple
   - quick appraisal
-image: "https://picsum.photos/seed/gross-rent-multiplier/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *The **gross rent multiplier** (GRM) is the property purchase price divided by annual gross rental income. It is a simple, quick valuation shortcut comparing what an investor pays for a property to how much rent it generates. A property with a 10x GRM costs 10 times its annual gross rent.*
@@ -22,7 +22,7 @@ For a more rigorous metric, see [cap-rate](/cap-rate), which divides net operati
 
 <div class="wiki-infobox-title">Gross Rent Multiplier — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-rent-multiplier/900/600" alt="A real estate valuation calculation using GRM" />
+<img src="/svg/real-estate.svg" alt="A real estate valuation calculation using GRM" />
 
 <div class="wiki-infobox-caption">GRM is a quick way to compare property prices relative to rent.</div>
 

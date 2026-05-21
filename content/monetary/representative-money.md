@@ -7,7 +7,7 @@ keywords:
   - gold standard
   - redemption
   - currency
-image: "https://picsum.photos/seed/representative-money/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **representative money** is a token or certificate that represents a fixed claim on a commodity, typically gold or silver. A representative-money system allows governments to issue paper currency or tokens while promising that each note is redeemable for a specific quantity of the commodity. This combines the convenience of paper money with the stability of [commodity money](/commodity-money).*
@@ -22,7 +22,7 @@ This entry covers representative money's mechanics and history. For alternatives
 
 <div class="wiki-infobox-title">Representative Money — key facts</div>
 
-<img src="https://picsum.photos/seed/representative-money/900/600" alt="Dollar bill redeemable for gold at fixed rate" />
+<img src="/svg/monetary.svg" alt="Dollar bill redeemable for gold at fixed rate" />
 
 <div class="wiki-infobox-caption">Representative money is paper backed by a promise to redeem for commodity.</div>
 

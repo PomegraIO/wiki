@@ -7,7 +7,7 @@ keywords:
   - preference for current state
   - inertia
   - reference point
-image: "https://picsum.photos/seed/status-quo-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Status quo bias is the preference for the current state of affairs. If your portfolio is 60% stocks and 40% bonds, moving to 50/50 feels like a loss (you are giving up stock upside) rather than a reallocation. Changing your investment strategy feels risky, even if the new strategy is objectively better. The current state is treated as the baseline, and any change is viewed with suspicion and loss-aversion.*
@@ -22,7 +22,7 @@ Related to loss aversion and default bias. For the opposite tendency (excessive 
 
 <div class="wiki-infobox-title">Status quo bias — key facts</div>
 
-<img src="https://picsum.photos/seed/status-quo-bias/900/600" alt="A signpost pointing backward to where the path currently leads" />
+<img src="/svg/behavioral.svg" alt="A signpost pointing backward to where the path currently leads" />
 
 <div class="wiki-infobox-caption">The current path feels safest, even if others lead further.</div>
 

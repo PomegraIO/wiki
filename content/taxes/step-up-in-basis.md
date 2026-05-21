@@ -6,7 +6,7 @@ keywords:
   - inherited assets
   - fair market value
   - estate planning
-image: "https://picsum.photos/seed/step-up-in-basis/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **step-up in basis** occurs when you inherit an asset. Instead of taking on the deceased owner's [cost basis](/cost-basis/), your new basis is the fair market value on the date of death. If a [stock](/stock/) was worth $100 when purchased and $1,000 when inherited, your basis is reset to $1,000—erasing all embedded gains. You could sell immediately with zero [capital gains tax](/capital-gains-tax-investor/). This is sometimes called the "step-up loophole" and is one of the largest tax advantages in US law.*
@@ -21,7 +21,7 @@ For the inverse rule applied to gifts (which do not receive a step-up), see [car
 
 <div class="wiki-infobox-title">Step-up in basis — key facts</div>
 
-<img src="https://picsum.photos/seed/step-up-in-basis/900/600" alt="A comparison of old cost basis and stepped-up fair market value" />
+<img src="/svg/taxes.svg" alt="A comparison of old cost basis and stepped-up fair market value" />
 
 <div class="wiki-infobox-caption">Inherited assets reset to fair market value at death, eliminating embedded gains.</div>
 

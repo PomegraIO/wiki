@@ -7,7 +7,7 @@ keywords:
   - supplementary capital
   - capital reserve
   - hybrid capital
-image: "https://picsum.photos/seed/tier-2-capital/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Tier 2 capital is the secondary layer of a bank's capital structure, comprising subordinated debt, loan loss reserves, and other instruments that are junior to [Tier 1 capital](/tier-1-capital) but senior to unsecured creditors and depositors. It is part of total regulatory capital under [Basel capital](/basel-capital) standards but is not as loss-absorbing as Tier 1.*
@@ -22,7 +22,7 @@ This entry covers Tier 2 capital specifically. For [Tier 1 capital](/tier-1-capi
 
 <div class="wiki-infobox-title">Tier 2 Capital — key facts</div>
 
-<img src="https://picsum.photos/seed/tier-2-capital/900/600" alt="A pyramid showing Tier 2 below Tier 1, above other liabilities" />
+<img src="/svg/risk.svg" alt="A pyramid showing Tier 2 below Tier 1, above other liabilities" />
 
 <div class="wiki-infobox-caption">Tier 2 is the secondary buffer, subordinated in bankruptcy.</div>
 

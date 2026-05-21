@@ -7,7 +7,7 @@ keywords:
   - blank-check company
   - IPO alternative
   - de-SPAC
-image: "https://picsum.photos/seed/special-purpose-acquisition-company/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **special-purpose acquisition company** (or **SPAC**) is a blank-check company created specifically to acquire a private operating company and take it public. A SPAC raises capital through a traditional [IPO](/initial-public-offering) without a specific business plan, holds the proceeds in trust, and then uses them to acquire and merge with a private company. The private company's shareholders become shareholders of the combined public entity. SPACs became a popular alternative to traditional IPOs in the 2010s and 2020s, though they have also attracted regulatory scrutiny and criticism.*
@@ -22,7 +22,7 @@ This entry covers SPACs as a public market entry mechanism. For traditional IPOs
 
 <div class="wiki-infobox-title">Special-purpose acquisition company — key facts</div>
 
-<img src="https://picsum.photos/seed/special-purpose-acquisition-company/900/600" alt="A blank-check company awaiting acquisition target" />
+<img src="/svg/corporate.svg" alt="A blank-check company awaiting acquisition target" />
 
 <div class="wiki-infobox-caption">A SPAC is created to acquire a private company and take it public.</div>
 

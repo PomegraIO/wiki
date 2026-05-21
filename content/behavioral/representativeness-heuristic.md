@@ -7,7 +7,7 @@ keywords:
   - cognitive bias
   - stereotyping
   - base rate neglect
-image: "https://picsum.photos/seed/representativeness-heuristic/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The representativeness heuristic is the tendency to judge the probability that something belongs to a category based on how similar it is to your image of a typical member of that category. If a company fits your mental template of a "growth stock," you judge it as more likely to grow, even if the base rate of growth stocks that actually deliver is low. You neglect the relevant statistical baseline in favor of the similarity judgment.*
@@ -22,7 +22,7 @@ Related to base-rate neglect and conjunction fallacy. For the failure to account
 
 <div class="wiki-infobox-title">Representativeness heuristic — key facts</div>
 
-<img src="https://picsum.photos/seed/representativeness-heuristic/900/600" alt="A businessman figure standing among identical paper cutouts" />
+<img src="/svg/behavioral.svg" alt="A businessman figure standing among identical paper cutouts" />
 
 <div class="wiki-infobox-caption">The template shapes judgment more than the actual odds do.</div>
 

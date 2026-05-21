@@ -7,7 +7,7 @@ keywords:
   - valuation asymmetry
   - loss aversion
   - status quo bias
-image: "https://picsum.photos/seed/endowment-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Endowment effect is the tendency to value something more highly because you own it. A stock in your portfolio is worth more to you than an identical stock not in your portfolio, simply because you own the first. You demand a higher price to sell it than you would pay to buy it. This asymmetry in valuation is driven by [loss aversion](/loss-aversion): losing something you own feels more painful than gaining something you do not own.*
@@ -22,7 +22,7 @@ Related to status quo bias and loss aversion. For preference to keep things as t
 
 <div class="wiki-infobox-title">Endowment effect — key facts</div>
 
-<img src="https://picsum.photos/seed/endowment-effect/900/600" alt="A hand holding an object that glows brighter than identical objects outside the hand" />
+<img src="/svg/behavioral.svg" alt="A hand holding an object that glows brighter than identical objects outside the hand" />
 
 <div class="wiki-infobox-caption">Ownership changes valuation; something owned shines brighter.</div>
 

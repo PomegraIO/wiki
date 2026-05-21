@@ -7,7 +7,7 @@ keywords:
   - reverse takeover
   - hostile takeover
   - takeover defence
-image: "https://picsum.photos/seed/pac-man-defense/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **Pac-Man defense** is an aggressive takeover defence in which a target company launches its own [hostile takeover](/hostile-takeover) bid for the would-be acquirer. Rather than defending passively with a [poison pill](/poison-pill) or [white knight](/white-knight), the target turns the tables and attempts to acquire its attacker. Named after the arcade game where the protagonist eats its pursuers, a Pac-Man defense is rare and risky — the target must be large enough and well-capitalized enough to credibly threaten the acquirer.*
@@ -22,7 +22,7 @@ This entry covers the Pac-Man defense as a counterattack strategy. For other tak
 
 <div class="wiki-infobox-title">Pac-Man defense — key facts</div>
 
-<img src="https://picsum.photos/seed/pac-man-defense/900/600" alt="A company attacking its attacker" />
+<img src="/svg/corporate.svg" alt="A company attacking its attacker" />
 
 <div class="wiki-infobox-caption">A Pac-Man defense flips the power dynamic by bidding for the bidder.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - cognitive biases
   - prospect theory
   - judgment
-image: "https://picsum.photos/seed/daniel-kahneman/900/600"
+image: "/svg/people.svg"
 ---
 
 *Daniel Kahneman demonstrated through rigorous experiments that human judgment is subject to predictable biases and heuristics that lead to systematic errors in decision-making — insights that transformed how economists understand markets and human behavior.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/daniel-kahneman/900/600"
 
 <div class="wiki-infobox-title">Daniel Kahneman — key facts</div>
 
-<img src="https://picsum.photos/seed/daniel-kahneman/900/600" alt="Experimental psychology laboratory with decision-making tasks" />
+<img src="/svg/people.svg" alt="Experimental psychology laboratory with decision-making tasks" />
 
 <div class="wiki-infobox-caption">The tools of his research — where biases appear under scrutiny.</div>
 

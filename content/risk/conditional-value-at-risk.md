@@ -7,7 +7,7 @@ keywords:
   - expected shortfall
   - tail loss average
   - risk measure
-image: "https://picsum.photos/seed/conditional-value-at-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Conditional value-at-risk (CVaR) — also called **expected shortfall** or **expected tail loss** — is the average loss incurred in the worst scenarios, specifically the average loss when losses exceed the [value-at-risk](/value-at-risk) threshold. It directly measures the severity of tail events, addressing the key limitation of [value-at-risk](/value-at-risk).*
@@ -22,7 +22,7 @@ This entry covers the tail-loss average metric. For the VaR threshold itself, se
 
 <div class="wiki-infobox-title">Conditional Value-at-Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/conditional-value-at-risk/900/600" alt="A distribution curve with the tail highlighted, showing average of tail outcomes" />
+<img src="/svg/risk.svg" alt="A distribution curve with the tail highlighted, showing average of tail outcomes" />
 
 <div class="wiki-infobox-caption">CVaR is the average loss in the tail, beyond VaR.</div>
 

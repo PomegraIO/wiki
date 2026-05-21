@@ -7,7 +7,7 @@ keywords:
   - currency peg
   - gold standard
   - bretton woods
-image: "https://picsum.photos/seed/fixed-exchange-rate/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **fixed exchange rate** is an exchange-rate system in which the [central bank](/central-bank) commits to maintain a constant exchange rate between its currency and another currency (or basket) by buying and selling as needed. In a fixed system, the exchange rate does not move freely; it is set by policy. Most major economies abandoned fixed rates in the 1970s, but some small economies and some regional currency unions maintain them.*
@@ -22,7 +22,7 @@ For the opposite, see [floating exchange rate](/floating-exchange-rate); for int
 
 <div class="wiki-infobox-title">Fixed Exchange Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/fixed-exchange-rate/900/600" alt="A fixed exchange rate pegged at a constant level" />
+<img src="/svg/forex.svg" alt="A fixed exchange rate pegged at a constant level" />
 
 <div class="wiki-infobox-caption">Fixed rates are maintained by central-bank intervention.</div>
 

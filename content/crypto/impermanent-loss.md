@@ -8,7 +8,7 @@ keywords:
   - amm
   - divergence loss
   - price impact
-image: "https://picsum.photos/seed/impermanent-loss/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **impermanent loss** is a reduction in the value held by a [liquidity provider](/liquidity-provider) in an [AMM](/automated-market-maker) [liquidity pool](/liquidity-pool) compared to simply holding the tokens separately. It occurs when token prices diverge, forcing the pool to auto-balance and LPs to own less of the appreciated asset.*
@@ -23,7 +23,7 @@ This entry covers impermanent loss as a concept. For liquidity provision general
 
 <div class="wiki-infobox-title">Impermanent Loss — key facts</div>
 
-<img src="https://picsum.photos/seed/impermanent-loss/900/600" alt="Impermanent loss graph showing loss by price change" />
+<img src="/svg/crypto.svg" alt="Impermanent loss graph showing loss by price change" />
 
 <div class="wiki-infobox-caption">Impermanent loss: the cost of providing liquidity to price-moving assets.</div>
 

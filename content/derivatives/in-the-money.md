@@ -7,7 +7,7 @@ keywords:
   - option value
   - intrinsic value
   - moneyness
-image: "https://picsum.photos/seed/in-the-money/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An option is **in-the-money (ITM)** when exercising it would immediately be profitable. For a [call option](/call-option), this means the [stock](/stock) price is above the [strike price](/strike-price). For a [put option](/put-option), this means the stock price is below the strike. In-the-money options have positive [intrinsic value](/intrinsic-value) and are worth more than otherwise-identical out-of-the-money options, all else equal.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/in-the-money/900/600"
 
 <div class="wiki-infobox-title">In-the-Money — key facts</div>
 
-<img src="https://picsum.photos/seed/in-the-money/900/600" alt="A stock price line above a strike level" />
+<img src="/svg/derivatives.svg" alt="A stock price line above a strike level" />
 
 <div class="wiki-infobox-caption">In-the-money options have positive intrinsic value.</div>
 

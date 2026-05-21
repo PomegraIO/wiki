@@ -7,7 +7,7 @@ keywords:
   - financial reporting
   - accrual basis
   - SEC compliance
-image: "https://picsum.photos/seed/generally-accepted-accounting-principles/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *Publicly traded companies in the United States must prepare financial statements using **GAAP** — **Generally Accepted Accounting Principles**. GAAP is not a single rule book but a set of conventions, standards, and practices that have evolved over decades. It governs how revenue is recognized, how assets are valued, how liabilities are measured, and how the [income statement](/income-statement), [balance sheet](/balance-sheet), and [cash flow statement](/cash-flow-statement) are constructed. GAAP exists to make financial statements comparable across companies and verifiable by auditors.*
@@ -22,7 +22,7 @@ This entry covers GAAP in general. For the international equivalent, see [IFRS](
 
 <div class="wiki-infobox-title">GAAP — key facts</div>
 
-<img src="https://picsum.photos/seed/generally-accepted-accounting-principles/900/600" alt="A formal financial statement document with standard disclosures and footnotes" />
+<img src="/svg/accounting.svg" alt="A formal financial statement document with standard disclosures and footnotes" />
 
 <div class="wiki-infobox-caption">GAAP standardizes what goes into a 10-K and ensures auditors can verify it.</div>
 

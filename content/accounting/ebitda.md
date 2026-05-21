@@ -7,7 +7,7 @@ keywords:
   - earnings metric
   - multiples valuation
   - non-GAAP measure
-image: "https://picsum.photos/seed/ebitda/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[EBITDA](/ebitda) stands for **Earnings Before Interest, Taxes, Depreciation, and Amortization**. It is a widely used metric that starts with net income and adds back the four items to isolate operating profitability. [EBITDA](/ebitda) strips out the effects of capital structure (interest), tax jurisdiction (taxes), and accounting choices ([depreciation](/depreciation) and [amortization](/amortization)). This makes it useful for comparing companies with different leverage, tax positions, or asset bases. However, [EBITDA](/ebitda) is not a [GAAP](/generally-accepted-accounting-principles) measure, and it can obscure real economic differences. Companies often disclose [EBITDA](/ebitda) as a non-gaap-measure to support valuations.*
@@ -22,7 +22,7 @@ This entry covers [EBITDA](/ebitda) as a metric. For adjusted versions, see adju
 
 <div class="wiki-infobox-title">EBITDA — key facts</div>
 
-<img src="https://picsum.photos/seed/ebitda/900/600" alt="A calculation showing net income plus back four items to arrive at EBITDA" />
+<img src="/svg/accounting.svg" alt="A calculation showing net income plus back four items to arrive at EBITDA" />
 
 <div class="wiki-infobox-caption">EBITDA adds back four non-cash or financing items.</div>
 

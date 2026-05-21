@@ -7,7 +7,7 @@ keywords:
   - government borrowing
   - fiscal policy
   - congressional limit
-image: "https://picsum.photos/seed/debt-ceiling/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **debt ceiling** is a legal cap Congress imposes on how much money the US government can borrow. When the government approaches this limit, Congress must vote to raise it, or the Treasury runs out of cash to pay its bills — creating a showdown with the potential for financial crisis.*
@@ -22,7 +22,7 @@ This entry covers the legal borrowing limit. For the debt-ceiling crisis itself,
 
 <div class="wiki-infobox-title">Debt Ceiling — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-ceiling/900/600" alt="Debt ceiling" />
+<img src="/svg/fiscal.svg" alt="Debt ceiling" />
 
 <div class="wiki-infobox-caption">The debt ceiling is a legal limit Congress imposes on government borrowing.</div>
 

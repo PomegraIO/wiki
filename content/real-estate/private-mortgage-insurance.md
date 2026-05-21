@@ -7,7 +7,7 @@ keywords:
   - mortgage insurance
   - down payment insurance
   - loan protection
-image: "https://picsum.photos/seed/private-mortgage-insurance/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *Private mortgage insurance (PMI) is insurance that borrowers must pay when they put down less than 20% on a home purchase. PMI protects the lender against losses if the borrower defaults; it does not protect the borrower. Once the borrower has built 20% equity, they can request PMI removal.*
@@ -22,7 +22,7 @@ For government insurance alternatives, see [fha-loan](/fha-loan) (FHA mortgage i
 
 <div class="wiki-infobox-title">Private Mortgage Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/private-mortgage-insurance/900/600" alt="A mortgage statement showing PMI costs" />
+<img src="/svg/real-estate.svg" alt="A mortgage statement showing PMI costs" />
 
 <div class="wiki-infobox-caption">PMI is required when down payment is less than 20%.</div>
 

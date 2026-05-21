@@ -7,7 +7,7 @@ keywords:
   - share buyback
   - repurchased shares
   - retired shares
-image: "https://picsum.photos/seed/treasury-stock/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Treasury stock consists of shares that a company has repurchased from the open market and holds in its own treasury rather than retired or reissued. These shares no longer participate in [dividends](/dividend/) or [earnings per share](/earnings-per-share/) calculations, though the company may reissue them later for [acquisitions](/initial-public-offering/), [employee compensation](/equity/restricted-stock-units/), or other purposes.*
@@ -22,7 +22,7 @@ This entry covers treasury stock held as a balance-sheet item. For the economic 
 
 <div class="wiki-infobox-title">Treasury stock — key facts</div>
 
-<img src="https://picsum.photos/seed/treasury-stock/900/600" alt="A corporate balance sheet with treasury stock line item" />
+<img src="/svg/equity.svg" alt="A corporate balance sheet with treasury stock line item" />
 
 <div class="wiki-infobox-caption">Repurchased shares held in company reserves, deducted from equity.</div>
 

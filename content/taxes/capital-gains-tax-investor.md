@@ -6,7 +6,7 @@ keywords:
   - investment taxation
   - realized gains
   - tax rate
-image: "https://picsum.photos/seed/capital-gains-tax-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **capital gains tax** is the federal levy on the profit you realize when you sell an investment for more than you paid for it. The tax rate depends on how long you held the asset: gains on assets held longer than a year receive preferential rates, while gains on assets held under a year are taxed as ordinary [income](/). Tax treatment varies by jurisdiction; this entry describes US federal treatment.*
@@ -21,7 +21,7 @@ For the broader concept of how [capital gains](/)-earning assets fit into a port
 
 <div class="wiki-infobox-title">Capital gains tax — key facts</div>
 
-<img src="https://picsum.photos/seed/capital-gains-tax-investor/900/600" alt="A portfolio statement showing realized and unrealized gains" />
+<img src="/svg/taxes.svg" alt="A portfolio statement showing realized and unrealized gains" />
 
 <div class="wiki-infobox-caption">The difference between purchase and sale price is taxable profit.</div>
 

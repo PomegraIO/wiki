@@ -7,7 +7,7 @@ keywords:
   - income allocation
   - spending plan
   - monthly budget
-image: "https://picsum.photos/seed/budgeting-methods/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **budgeting method** is a structured system for allocating your income across spending categories, savings goals, and debt repayment. The goal is neither to deprive yourself nor to drift aimlessly, but to align your monthly outflows with your values and financial priorities.*
@@ -22,7 +22,7 @@ For specific budget rules, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-r
 
 <div class="wiki-infobox-title">Budgeting Methods — key facts</div>
 
-<img src="https://picsum.photos/seed/budgeting-methods/900/600" alt="A notebook open to a handwritten budget with income and expense categories" />
+<img src="/svg/personal-finance.svg" alt="A notebook open to a handwritten budget with income and expense categories" />
 
 <div class="wiki-infobox-caption">The paper form: explicit allocation of every dollar (or euro, or pound).</div>
 

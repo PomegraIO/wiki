@@ -8,7 +8,7 @@ keywords:
   - arbitrage
   - NAV
   - fund
-image: "https://picsum.photos/seed/etf-creation-redemption/900/600"
+image: "/svg/funds.svg"
 ---
 
 *The **creation and redemption** mechanism is the mechanical heart of how [ETFs](/etf) function. It allows [authorized participants](/authorized-participant) (large institutions like market makers and brokers) to exchange baskets of [stocks](/stock) (or [bonds](/bond)) for newly created ETF shares, or to exchange existing ETF shares back into baskets of securities. This mechanism keeps [ETF](/etf) prices aligned with the underlying value of holdings and enables the tax efficiency that ETFs are famous for.*
@@ -23,7 +23,7 @@ This entry covers the creation and redemption process mechanically. For who part
 
 <div class="wiki-infobox-title">ETF Creation and Redemption — key facts</div>
 
-<img src="https://picsum.photos/seed/etf-creation-redemption/900/600" alt="A diagram showing the exchange of stocks for ETF shares" />
+<img src="/svg/funds.svg" alt="A diagram showing the exchange of stocks for ETF shares" />
 
 <div class="wiki-infobox-caption">Creation and redemption keep ETF prices aligned with underlying value.</div>
 

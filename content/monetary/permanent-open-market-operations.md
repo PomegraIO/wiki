@@ -7,7 +7,7 @@ keywords:
   - outright purchases
   - balance sheet
   - central bank
-image: "https://picsum.photos/seed/permanent-open-market-operations/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **permanent open-market operation** (or **POMO**) is an outright purchase or sale of a security by a central bank with no agreement to reverse it. Once the central bank buys a [bond](/bond), it holds it until maturity—or until it later decides to sell—allowing the asset to permanently alter the size and composition of the central bank's balance sheet.*
@@ -22,7 +22,7 @@ This entry covers outright purchases and sales. For temporary operations that re
 
 <div class="wiki-infobox-title">Permanent Open-Market Operations — key facts</div>
 
-<img src="https://picsum.photos/seed/permanent-open-market-operations/900/600" alt="Central bank securities trading desk" />
+<img src="/svg/monetary.svg" alt="Central bank securities trading desk" />
 
 <div class="wiki-infobox-caption">Permanent operations change the central bank's balance sheet durably, not temporarily.</div>
 

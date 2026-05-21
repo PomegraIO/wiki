@@ -7,7 +7,7 @@ keywords:
   - in-the-money
   - exercise value
   - derivative pricing
-image: "https://picsum.photos/seed/intrinsic-value/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **intrinsic value** of an option is the profit that would be realized if the option were exercised immediately. For a [call option](/call-option), intrinsic value is max(stock price − [strike price](/strike-price), 0). For a [put option](/put-option), it is max([strike price](/strike-price) − stock price, 0). Intrinsic value represents the [in-the-money](/in-the-money) amount and is the floor below which an option's market price cannot fall (excluding transaction costs).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/intrinsic-value/900/600"
 
 <div class="wiki-infobox-title">Intrinsic Value — key facts</div>
 
-<img src="https://picsum.photos/seed/intrinsic-value/900/600" alt="Immediate profit from option exercise" />
+<img src="/svg/derivatives.svg" alt="Immediate profit from option exercise" />
 
 <div class="wiki-infobox-caption">Intrinsic value is the profit from immediate exercise.</div>
 

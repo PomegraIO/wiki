@@ -7,7 +7,7 @@ keywords:
   - export
   - spot market
   - global trade
-image: "https://picsum.photos/seed/lng/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *An **LNG** (Liquefied Natural Gas) — natural gas cooled to -162°C to transform it into a liquid for ocean transport — is the mechanism that enables [natural gas](/natural-gas/) to be traded globally. Unlike oil, which flows in pipelines and ships, [natural gas](/natural-gas/) must be liquefied (shrinking its volume 600x) to be shipped long distances. This constraint makes LNG prices regional and often 2–3x higher than US [natural gas](/natural-gas/) prices.*
@@ -22,7 +22,7 @@ This entry covers LNG as a traded commodity and strategic asset. For [natural ga
 
 <div class="wiki-infobox-title">LNG — key facts</div>
 
-<img src="https://picsum.photos/seed/lng/900/600" alt="LNG tanker ship and regasification terminal" />
+<img src="/svg/commodities.svg" alt="LNG tanker ship and regasification terminal" />
 
 <div class="wiki-infobox-caption">LNG tanker and regasification terminal — enabling global gas trade.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - seasoned offering
   - equity offering
   - secondary public offering
-image: "https://picsum.photos/seed/follow-on-offering/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A follow-on offering (also called a seasoned equity offering or FPO) is an offering of newly issued [shares](/stock/) by a [public company](/public-company/) after its [IPO](/initial-public-offering/). Unlike a [secondary offering](/equity/secondary-offering/) (where existing shareholders sell), a follow-on offering issues new shares, dilutes existing shareholders' ownership, and raises capital for the company. Follow-on offerings are used to fund growth, acquisitions, debt repayment, or general corporate purposes.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/follow-on-offering/900/600"
 
 <div class="wiki-infobox-title">Follow-on offering — key facts</div>
 
-<img src="https://picsum.photos/seed/follow-on-offering/900/600" alt="A follow-on offering prospectus with company financial information" />
+<img src="/svg/equity.svg" alt="A follow-on offering prospectus with company financial information" />
 
 <div class="wiki-infobox-caption">New share issuance by public company, capital to company.</div>
 

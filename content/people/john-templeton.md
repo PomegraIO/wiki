@@ -7,7 +7,7 @@ keywords:
   - value investing
   - global investing
   - contrarian
-image: "https://picsum.photos/seed/john-templeton/900/600"
+image: "/svg/people.svg"
 ---
 
 *John Templeton proved that a disciplined, globally-minded investor could identify the world's cheapest assets and compound wealth at exceptional rates by buying when others despaired and selling when they were greedy.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/john-templeton/900/600"
 
 <div class="wiki-infobox-title">John Templeton — key facts</div>
 
-<img src="https://picsum.photos/seed/john-templeton/900/600" alt="A world map with investment pins marking emerging markets" />
+<img src="/svg/people.svg" alt="A world map with investment pins marking emerging markets" />
 
 <div class="wiki-infobox-caption">The domain of his search — global value waiting to be discovered.</div>
 

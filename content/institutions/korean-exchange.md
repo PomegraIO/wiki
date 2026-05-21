@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - South Korea
   - Seoul
-image: "https://picsum.photos/seed/korean-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Korea Exchange** (KRX) is South Korea's primary [stock exchange](/stock-exchange), headquartered in Seoul. Home to Samsung Electronics, Hyundai Motor, SK Hynix, and other global technology and manufacturing leaders, the KRX is a major venue for East Asian equities and serves as a window into South Korean industrial prowess and technological innovation.*
@@ -22,7 +22,7 @@ The Korea Exchange consolidated the Seoul Stock Exchange and the Korea Futures E
 
 <div class="wiki-infobox-title">Korea Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/korean-exchange/900/600" alt="The Korea Exchange trading facility in Seoul" />
+<img src="/svg/institutions.svg" alt="The Korea Exchange trading facility in Seoul" />
 
 <div class="wiki-infobox-caption">The Korea Exchange headquarters in Seoul's business district.</div>
 

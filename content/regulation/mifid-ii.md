@@ -7,7 +7,7 @@ keywords:
   - best execution
   - investor protection
   - market transparency
-image: "https://picsum.photos/seed/mifid-ii/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[MiFID II](/mifid-ii) is the Markets in Financial Instruments Directive II, the European Union's comprehensive regulation of securities markets. Implemented in 2018, it replaces and expands the original MiFID (2007). MiFID II harmonizes rules across EU member states, imposing requirements on brokers to execute trades at best prices, disclose fees transparently, categorize clients (and provide corresponding protection), and maintain systems to prevent market abuse. It is the European equivalent of [SEC](/securities-and-exchange-commission) and FINRA regulation in the US.*
@@ -22,7 +22,7 @@ MiFID II applies in the European Union and European Economic Area. The UK left t
 
 <div class="wiki-infobox-title">MiFID II — key facts</div>
 
-<img src="https://picsum.photos/seed/mifid-ii/900/600" alt="MiFID II compliance" />
+<img src="/svg/regulation.svg" alt="MiFID II compliance" />
 
 <div class="wiki-infobox-caption">MiFID II regulation across EU member states.</div>
 

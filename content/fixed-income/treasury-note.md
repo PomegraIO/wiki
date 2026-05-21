@@ -7,7 +7,7 @@ keywords:
   - intermediate-term debt
   - coupon security
   - yield curve
-image: "https://picsum.photos/seed/treasury-note/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **Treasury note** — or **T-Note** — is an intermediate-term debt security issued by the U.S. government with a maturity between 2 and 10 years. Unlike [Treasury bills](/treasury-bill), which are zero-coupon discount securities, Treasury notes pay a fixed semi-annual [coupon](/coupon-rate) and are the most widely followed portion of the Treasury [yield curve](/yield-curve).*
@@ -22,7 +22,7 @@ For short-term Treasury debt, see [Treasury bill](/treasury-bill). For long-term
 
 <div class="wiki-infobox-title">Treasury Note — key facts</div>
 
-<img src="https://picsum.photos/seed/treasury-note/900/600" alt="A U.S. Treasury bond certificate with security features and denomination markings" />
+<img src="/svg/fixed-income.svg" alt="A U.S. Treasury bond certificate with security features and denomination markings" />
 
 <div class="wiki-infobox-caption">Treasury securities across all maturities form the foundation of global fixed income.</div>
 

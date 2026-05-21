@@ -7,7 +7,7 @@ keywords:
   - lodging
   - vacation rental
   - travel
-image: "https://picsum.photos/seed/hotel-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **hotel REIT** owns and operates hotel and hospitality properties. Hotel REITs generate returns from room revenue and are highly cyclical — benefiting from strong travel demand but suffering sharply in recessions, pandemics, and economic downturns.*
@@ -22,7 +22,7 @@ This entry focuses on hotel REITs as a property sector. For the broader REIT str
 
 <div class="wiki-infobox-title">Hotel REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/hotel-reit/900/600" alt="A hotel property or hospitality facility" />
+<img src="/svg/real-estate.svg" alt="A hotel property or hospitality facility" />
 
 <div class="wiki-infobox-caption">Hotel REITs own the properties where travelers stay.</div>
 

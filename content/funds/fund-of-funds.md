@@ -7,7 +7,7 @@ keywords:
   - wrapper structure
   - fee layering
   - fund
-image: "https://picsum.photos/seed/fund-of-funds/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **fund of funds** is a pooled investment vehicle that invests in other funds rather than directly in [stocks](/stock), [bonds](/bond), or other securities. A fund of funds might hold 10–30 [hedge funds](/hedge-fund), [private equity funds](/private-equity-fund), or [mutual funds](/mutual-fund), providing diversification across managers and strategies. However, fund of funds incur multiple layers of fees, making them expensive.*
@@ -22,7 +22,7 @@ This entry covers fund of funds as a wrapper. For the underlying vehicles, see [
 
 <div class="wiki-infobox-title">Fund of Funds — key facts</div>
 
-<img src="https://picsum.photos/seed/fund-of-funds/900/600" alt="A pyramid showing multiple funds nested within a master fund" />
+<img src="/svg/funds.svg" alt="A pyramid showing multiple funds nested within a master fund" />
 
 <div class="wiki-infobox-caption">Fund of funds layers multiple managers into a single investment.</div>
 

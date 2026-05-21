@@ -7,7 +7,7 @@ keywords:
   - multilateral lender
   - bilateral creditor
   - sovereign debt
-image: "https://picsum.photos/seed/official-creditor/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **official creditor** is a government, central bank, or international organization (such as the IMF or World Bank) that has extended credit to another government. They are distinguished from private creditors (banks and investors) and usually have priority in [debt restructuring](/debt-restructuring).*
@@ -22,7 +22,7 @@ This entry covers government and multilateral lenders. For the broader concept, 
 
 <div class="wiki-infobox-title">Official Creditor — key facts</div>
 
-<img src="https://picsum.photos/seed/official-creditor/900/600" alt="Official creditor" />
+<img src="/svg/fiscal.svg" alt="Official creditor" />
 
 <div class="wiki-infobox-caption">Official creditors are governments and multilateral lenders.</div>
 

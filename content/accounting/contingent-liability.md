@@ -7,7 +7,7 @@ keywords:
   - accrued liability
   - lawsuit
   - disclosure
-image: "https://picsum.photos/seed/contingent-liability/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *A **contingent liability** is a potential obligation that arises from a past event but depends on the outcome of a future, uncertain event. Common examples include pending lawsuits, product warranties, environmental obligations, and tax disputes. Contingent liabilities are not recorded as definite liabilities on the [balance sheet](/balance-sheet) unless they are both **probable** and **estimable**. Otherwise, they are disclosed in footnotes. The distinction between recording and disclosure is a judgment call that requires careful assessment of likelihood and magnitude, and is a common source of variation in reported earnings and balance sheets.*
@@ -22,7 +22,7 @@ This entry covers contingent liabilities in general. For specific types, see lit
 
 <div class="wiki-infobox-title">Contingent liability — key facts</div>
 
-<img src="https://picsum.photos/seed/contingent-liability/900/600" alt="A balance sheet with a footnote disclosure of uncertain future obligation" />
+<img src="/svg/accounting.svg" alt="A balance sheet with a footnote disclosure of uncertain future obligation" />
 
 <div class="wiki-infobox-caption">Contingent liabilities may be recorded or disclosed in footnotes.</div>
 

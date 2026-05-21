@@ -8,7 +8,7 @@ keywords:
   - NASDAQ-100
   - stock market index
   - technology index
-image: "https://picsum.photos/seed/nasdaq-composite/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **NASDAQ Composite** is a market-capitalization-weighted index of all stocks traded on the NASDAQ exchange, comprising approximately 3,000 companies. It is much broader than the NASDAQ 100 (which includes only the largest 100 stocks). The NASDAQ Composite is heavily weighted toward technology and growth stocks, reflecting NASDAQ's origins as an electronic network for technology companies. It is more volatile than the [S&P 500](/sp-500-index) but offers greater exposure to innovation and high-growth sectors.*
@@ -23,7 +23,7 @@ This entry is about the NASDAQ Composite. For the top 100, see NASDAQ 100; for t
 
 <div class="wiki-infobox-title">NASDAQ Composite — key facts</div>
 
-<img src="https://picsum.photos/seed/nasdaq-composite/900/600" alt="A long-term chart of the NASDAQ Composite showing volatility and growth" />
+<img src="/svg/markets.svg" alt="A long-term chart of the NASDAQ Composite showing volatility and growth" />
 
 <div class="wiki-infobox-caption">The NASDAQ Composite skews toward tech and high-growth companies.</div>
 

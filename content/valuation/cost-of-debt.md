@@ -7,7 +7,7 @@ keywords:
   - interest rate
   - tax shield
   - WACC
-image: "https://picsum.photos/seed/cost-of-debt/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **cost of debt** is the interest rate a company pays on its borrowed funds. Unlike [cost of equity](/cost-of-equity), which must be estimated using models like the [capital asset pricing model](/capital-asset-pricing-model), cost of debt is often directly observable from bond yields or loan rates. Its key peculiarity is that interest is tax-deductible, creating a tax shield that lowers the true cost to the company.*

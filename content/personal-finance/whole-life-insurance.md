@@ -7,7 +7,7 @@ keywords:
   - life insurance
   - death benefit
   - cash value
-image: "https://picsum.photos/seed/whole-life-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **whole-life insurance** policy provides permanent life insurance coverage for your entire lifetime. Unlike [term insurance](/term-life-insurance), which expires after a set period, whole-life never expires. Premiums are fixed, death benefit is guaranteed, and the policy builds cash value that you can borrow against.*
@@ -22,7 +22,7 @@ For temporary, cheaper coverage, see [term-life insurance](/term-life-insurance)
 
 <div class="wiki-infobox-title">Whole-Life Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/whole-life-insurance/900/600" alt="A whole-life insurance policy document with cash value illustration" />
+<img src="/svg/personal-finance.svg" alt="A whole-life insurance policy document with cash value illustration" />
 
 <div class="wiki-infobox-caption">The model: permanent coverage with built-in savings.</div>
 

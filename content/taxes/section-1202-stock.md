@@ -6,7 +6,7 @@ keywords:
   - small business stock
   - gain exclusion
   - startup investment
-image: "https://picsum.photos/seed/section-1202-stock/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Internal Revenue Code Section 1202** provides the legal basis for the gain exclusion on [qualified small business stock](/qualified-small-business-stock/). "Section 1202 stock" is informal shorthand for stock that qualifies for this exclusion. The statute allows individual investors to exclude gains from the sale of qualifying small business [stock](/stock/) held for at least five years, with exclusion percentages ranging from 50% to 100% depending on acquisition date. For stock acquired after 2014 and before 2027, the exclusion is 100%.*
@@ -21,7 +21,7 @@ For practical details, see [qualified small business stock](/qualified-small-bus
 
 <div class="wiki-infobox-title">Section 1202 stock — key facts</div>
 
-<img src="https://picsum.photos/seed/section-1202-stock/900/600" alt="Tax code excerpt showing Section 1202" />
+<img src="/svg/taxes.svg" alt="Tax code excerpt showing Section 1202" />
 
 <div class="wiki-infobox-caption">Section 1202 is the statutory foundation for QSBS gain exclusions.</div>
 

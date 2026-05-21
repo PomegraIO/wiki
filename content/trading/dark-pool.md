@@ -6,7 +6,7 @@ keywords:
   - private venue
   - hidden liquidity
   - institutional trading
-image: "https://picsum.photos/seed/dark-pool/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **dark pool** is a private trading venue where orders are not displayed on the public order book. Buyers and sellers meet in the dark, match at mutually agreed prices (often the midpoint of the lit-market spread), and complete their trades away from public view. Dark pools handle about 10–15% of all U.S. stock trading and are most useful for institutions executing large blocks without moving the market.*
@@ -21,7 +21,7 @@ For public trading, see [lit venue](/lit-venue). For hidden orders on a lit venu
 
 <div class="wiki-infobox-title">Dark pool — key facts</div>
 
-<img src="https://picsum.photos/seed/dark-pool/900/600" alt="A silhouette representing hidden trading activity" />
+<img src="/svg/trading.svg" alt="A silhouette representing hidden trading activity" />
 
 <div class="wiki-infobox-caption">Dark pools match buyers and sellers away from public view, minimizing price impact.</div>
 

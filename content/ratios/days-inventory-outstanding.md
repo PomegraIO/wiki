@@ -7,7 +7,7 @@ keywords:
   - inventory
   - working capital
   - supply chain efficiency
-image: "https://picsum.photos/seed/days-inventory-outstanding/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **days inventory outstanding** — or **DIO** — equals 365 divided by [inventory turnover](/inventory-turnover). A DIO of 30 means inventory sits for 30 days on average before sale. Lower DIO signals faster turnover and less working capital tied up.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/days-inventory-outstanding/900/600"
 
 <div class="wiki-infobox-title">Days Inventory Outstanding — key facts</div>
 
-<img src="https://picsum.photos/seed/days-inventory-outstanding/900/600" alt="Inventory holding period in days" />
+<img src="/svg/ratios.svg" alt="Inventory holding period in days" />
 
 <div class="wiki-infobox-caption">Days inventory sits before conversion to sales.</div>
 

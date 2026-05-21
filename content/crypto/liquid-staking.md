@@ -8,7 +8,7 @@ keywords:
   - steth
   - yield farming
   - delegated staking
-image: "https://picsum.photos/seed/liquid-staking/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **liquid staking** service allows users to stake cryptocurrency without locking it up. Users deposit coins and receive a liquid token (e.g., stETH) that automatically accumulates staking rewards. The token can be traded, lent, or used in [decentralised applications](/decentralized-exchange), providing liquidity while earning yield.*
@@ -23,7 +23,7 @@ This entry covers liquid staking services. For regular staking, see [staking](/s
 
 <div class="wiki-infobox-title">Liquid Staking — key facts</div>
 
-<img src="https://picsum.photos/seed/liquid-staking/900/600" alt="Liquid staking token and derivative flows" />
+<img src="/svg/crypto.svg" alt="Liquid staking token and derivative flows" />
 
 <div class="wiki-infobox-caption">Liquid staking: earn rewards while maintaining liquidity.</div>
 

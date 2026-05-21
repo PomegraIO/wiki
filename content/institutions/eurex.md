@@ -8,7 +8,7 @@ keywords:
   - options
   - Europe
   - Frankfurt
-image: "https://picsum.photos/seed/eurex/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Eurex** is Europe's largest derivatives exchange, operating futures and [option](/option) contracts on equities, indices, interest rates, and other underlyings. Headquartered in Frankfurt and operated by [Deutsche Börse Group](/frankfurt-stock-exchange-deutsche-borse), Eurex is the primary venue for European risk management and serves institutional investors, [hedge funds](/hedge-fund), and market makers across the continent and globally.*
@@ -23,7 +23,7 @@ Eurex is a subsidiary of Deutsche Börse Group, which also operates the Frankfur
 
 <div class="wiki-infobox-title">Eurex — key facts</div>
 
-<img src="https://picsum.photos/seed/eurex/900/600" alt="Eurex trading operations in Frankfurt" />
+<img src="/svg/institutions.svg" alt="Eurex trading operations in Frankfurt" />
 
 <div class="wiki-infobox-caption">Eurex trading facilities at Deutsche Börse in Frankfurt.</div>
 

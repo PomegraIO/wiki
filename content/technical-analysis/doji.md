@@ -7,7 +7,7 @@ keywords:
   - indecision
   - reversal
   - technical analysis
-image: "https://picsum.photos/seed/doji/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **doji** is a candlestick shape in which the opening and closing prices are nearly identical, leaving little or no rectangular body. The wicks extend significantly above and below, creating a cross, plus sign, or t-shape depending on whether the movement is balanced or weighted. The doji is universally interpreted as a signal of indecision: buyers and sellers fought during the period, neither side won decisively, and the market closed near where it opened. Whether a doji truly predicts what comes next is disputed, but its presence marks a moment of uncertainty.*
@@ -22,7 +22,7 @@ For the broader framework of candlestick interpretation, see [candlestick patter
 
 <div class="wiki-infobox-title">Doji — key facts</div>
 
-<img src="https://picsum.photos/seed/doji/900/600" alt="A doji candlestick with thin body and wicks extending equally above and below" />
+<img src="/svg/technical-analysis.svg" alt="A doji candlestick with thin body and wicks extending equally above and below" />
 
 <div class="wiki-infobox-caption">A classic doji: open and close prices are nearly equal, wicks show the full range of intraday trading.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - liquidity facility
   - repurchase agreement
   - central bank
-image: "https://picsum.photos/seed/standing-repo-facility/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **standing repo facility** (or **SRF**) is a standing offer by a central bank to lend reserves to [banks](/broker) through repurchase agreements, available at any time at a fixed rate. Unlike the [discount window](/discount-window), which carries stigma and requires collateral evaluation, the standing repo facility is designed to be used routinely and without embarrassment. It provides a reliable, transparent backstop for short-term liquidity needs.*
@@ -22,7 +22,7 @@ This entry covers the standing offer. For temporary repo operations, see [tempor
 
 <div class="wiki-infobox-title">Standing Repo Facility — key facts</div>
 
-<img src="https://picsum.photos/seed/standing-repo-facility/900/600" alt="Central bank standing repo offering liquidity" />
+<img src="/svg/monetary.svg" alt="Central bank standing repo offering liquidity" />
 
 <div class="wiki-infobox-caption">The standing repo facility is a stigma-free way for banks to access overnight liquidity.</div>
 

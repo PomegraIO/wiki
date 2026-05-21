@@ -7,7 +7,7 @@ keywords:
   - futures pricing
   - storage
   - financing
-image: "https://picsum.photos/seed/cost-of-carry/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **cost of carry** is the sum of all costs (and sometimes benefits) of owning and holding an underlying asset from today until a future settlement date. It includes storage fees, insurance, financing costs (interest), and may subtract convenience yield or dividend income. The cost of carry directly determines the [forward-contract](/forward-contract) price and the [basis](/basis/) between spot and [futures contract](/futures-contract) prices. Higher cost of carry raises futures prices above spot prices, creating [contango](/contango/).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/cost-of-carry/900/600"
 
 <div class="wiki-infobox-title">Cost of Carry — key facts</div>
 
-<img src="https://picsum.photos/seed/cost-of-carry/900/600" alt="Components of holding an asset over time" />
+<img src="/svg/derivatives.svg" alt="Components of holding an asset over time" />
 
 <div class="wiki-infobox-caption">Cost of carry determines futures premium.</div>
 

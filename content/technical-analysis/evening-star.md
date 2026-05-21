@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/evening-star/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *An **evening star** is a three-candle reversal pattern that often appears at the top of uptrends. The first candle is a large bullish candle (green), showing buying pressure. The second candle gaps up and is small, showing indecision. The third candle is a large bearish candle (red) that closes well into the first candle's body. The pattern visually mirrors the [morning star](/technical-analysis/morning-star), except inverted: the evening star marks the end of a rally and the arrival of selling pressure. In traditional technical analysis, it is regarded as a bearish reversal signal, though empirical support is disputed.*
@@ -22,7 +22,7 @@ For three-candle patterns and broader candlestick analysis, see [candlestick pat
 
 <div class="wiki-infobox-title">Evening star — key facts</div>
 
-<img src="https://picsum.photos/seed/evening-star/900/600" alt="An evening star pattern: large green candle, small gap-up candle, large red candle" />
+<img src="/svg/technical-analysis.svg" alt="An evening star pattern: large green candle, small gap-up candle, large red candle" />
 
 <div class="wiki-infobox-caption">A classic evening star: three candles that signal the end of a rally and the arrival of selling pressure.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - continuation
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/three-white-soldiers/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **three white soldiers** pattern consists of three consecutive bullish candles, ideally of similar size or progressively larger, each opening within the previous candle's body and closing near its high. The pattern shows steady, unrelenting buying pressure: buyers are in control every single session, and the price marches higher with consistency. The name evokes three soldiers advancing in formation, each step solidifying the line's progress. While less dramatic than a three-candle reversal like the [morning star](/technical-analysis/morning-star), the three white soldiers is a pure bullish signal—it confirms that an uptrend is strong and disciplined.*
@@ -22,7 +22,7 @@ For three-candle patterns broadly, see [candlestick pattern](/technical-analysis
 
 <div class="wiki-infobox-title">Three white soldiers — key facts</div>
 
-<img src="https://picsum.photos/seed/three-white-soldiers/900/600" alt="Three white soldiers: three green candles, each opening inside the prior body, each closing near its high" />
+<img src="/svg/technical-analysis.svg" alt="Three white soldiers: three green candles, each opening inside the prior body, each closing near its high" />
 
 <div class="wiki-infobox-caption">Classic three white soldiers: steady buying pressure, disciplined uptrend, no rejection at higher levels.</div>
 

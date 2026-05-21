@@ -7,7 +7,7 @@ keywords:
   - frontier markets
   - international investing
   - fund
-image: "https://picsum.photos/seed/emerging-markets-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **emerging markets fund** is an [ETF](/etf) or [mutual fund](/mutual-fund) that concentrates on [stocks](/stock) from developing countries experiencing rapid economic growth and industrialization — China, India, Brazil, Mexico, South Korea, and others. Emerging markets funds offer higher expected returns than developed markets but with higher [volatility](/option), political risk, and currency risk.*
@@ -22,7 +22,7 @@ This entry covers emerging markets as an asset class. For developed-market alter
 
 <div class="wiki-infobox-title">Emerging Markets Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/emerging-markets-fund/900/600" alt="A skyline of a rapidly developing emerging market city" />
+<img src="/svg/funds.svg" alt="A skyline of a rapidly developing emerging market city" />
 
 <div class="wiki-infobox-caption">Emerging markets offer growth potential but with higher risk and volatility.</div>
 

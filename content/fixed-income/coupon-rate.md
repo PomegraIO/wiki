@@ -7,7 +7,7 @@ keywords:
   - bond interest
   - bond yield
   - fixed income
-image: "https://picsum.photos/seed/coupon-rate/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **coupon rate** — also called the **nominal yield** or **stated rate** — is the fixed annual interest rate that a bond issuer promises to pay to bondholders. Expressed as a percentage of face value, the coupon is paid (typically semi-annually) regardless of the bond's market price. A bond with a 5% coupon and $1,000 face value pays $50 annually to its holder.*
@@ -22,7 +22,7 @@ For the current yield on a bond trading at a different price, see [current yield
 
 <div class="wiki-infobox-title">Coupon Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/coupon-rate/900/600" alt="A bond certificate showing the coupon rate and payment schedule" />
+<img src="/svg/fixed-income.svg" alt="A bond certificate showing the coupon rate and payment schedule" />
 
 <div class="wiki-infobox-caption">The coupon rate determines the fixed income stream from a bond.</div>
 

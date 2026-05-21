@@ -7,7 +7,7 @@ keywords:
   - technical analysis
   - price-based chart
   - volatility
-image: "https://picsum.photos/seed/renko-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **renko chart** is a price-based charting method that displays price movement as uniform rectangular "bricks." Each brick represents a fixed price increment (e.g., $1, $5, or 2% depending on the security). A new brick is drawn only when price moves by at least that amount; time plays no role in the chart. The result is a highly filtered view of price action that removes intraday noise and focuses purely on significant price moves. The name comes from the Japanese word "renga," meaning brick. Renko charts are favored by traders seeking to filter out chop and identify clean support, resistance, and trend.*
@@ -22,7 +22,7 @@ For time-based charts, see [candlestick chart](/technical-analysis/candlestick-c
 
 <div class="wiki-infobox-title">Renko chart — key facts</div>
 
-<img src="https://picsum.photos/seed/renko-chart/900/600" alt="A renko chart showing uniform rectangular bricks of green and red" />
+<img src="/svg/technical-analysis.svg" alt="A renko chart showing uniform rectangular bricks of green and red" />
 
 <div class="wiki-infobox-caption">Renko bricks: uniform size, pure price focus, no time axis—ideal for filtering noise.</div>
 

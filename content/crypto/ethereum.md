@@ -8,7 +8,7 @@ keywords:
   - eth
   - dapp
   - virtual machine
-image: "https://picsum.photos/seed/ethereum/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Ethereum** (Ξ or **ETH**) is a decentralised platform and cryptocurrency that extends the capabilities of [blockchain](/blockchain-fundamentals) beyond simple transactions. It enables smart contracts — programs that execute automatically when certain conditions are met — and hosts tens of thousands of decentralised applications, from DeFi protocols to non-fungible tokens.*
@@ -23,7 +23,7 @@ This entry covers the Ethereum network and its cryptocurrency. For the smart con
 
 <div class="wiki-infobox-title">Ethereum — key facts</div>
 
-<img src="https://picsum.photos/seed/ethereum/900/600" alt="Ethereum logo and smart contract visualization" />
+<img src="/svg/crypto.svg" alt="Ethereum logo and smart contract visualization" />
 
 <div class="wiki-infobox-caption">Ethereum: the blockchain platform for decentralised applications.</div>
 

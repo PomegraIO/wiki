@@ -7,7 +7,7 @@ keywords:
   - CAPM
   - equity risk premium
   - discount rate
-image: "https://picsum.photos/seed/cost-of-equity/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **cost of equity** is the minimum return that shareholders demand for holding a company's stock, given its riskiness. It is a crucial input to every equity valuation model and a key component of the [weighted average cost of capital](/weighted-average-cost-of-capital). Despite decades of academic work, estimating it remains more art than science.*

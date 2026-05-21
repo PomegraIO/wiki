@@ -8,7 +8,7 @@ keywords:
   - technical trading
   - chart-based trading
   - momentum on breakout
-image: "https://picsum.photos/seed/breakout-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Breakout trading is a technical strategy of entering positions when a [stock](/stock/) price breaks above previous resistance (bullish breakout) or below previous support (bearish breakdown), betting that the price movement will continue as traders recognize the breakout and pile in.*
@@ -23,7 +23,7 @@ For range-trading (the opposite), see [range-trading](/range-trading/). For tren
 
 <div class="wiki-infobox-title">Breakout trading — key facts</div>
 
-<img src="https://picsum.photos/seed/breakout-trading/900/600" alt="A stock chart showing a resistance level being broken through with volume" />
+<img src="/svg/strategies.svg" alt="A stock chart showing a resistance level being broken through with volume" />
 
 <div class="wiki-infobox-caption">Breakout traders buy as prices escape from historical resistance, riding the momentum.</div>
 

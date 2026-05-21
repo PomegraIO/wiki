@@ -7,7 +7,7 @@ keywords:
   - extreme loss
   - black swan
   - fat tails
-image: "https://picsum.photos/seed/tail-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Tail risk is the probability and magnitude of extreme losses that occur in the tails of a return distribution — far from the average. While [value-at-risk](/value-at-risk) and other risk metrics focus on the typical loss, tail risk captures the catastrophic outliers that happen rarely but devastatingly.*
@@ -22,7 +22,7 @@ This entry covers extreme loss exposure. For the fatter-than-normal tails that m
 
 <div class="wiki-infobox-title">Tail Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/tail-risk/900/600" alt="A bell curve with the far right tail highlighted and darkened in red" />
+<img src="/svg/risk.svg" alt="A bell curve with the far right tail highlighted and darkened in red" />
 
 <div class="wiki-infobox-caption">Tail risk is exposure to extreme events far from the mean.</div>
 

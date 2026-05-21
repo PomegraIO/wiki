@@ -7,7 +7,7 @@ keywords:
   - bank
   - Wall Street
   - financial services
-image: "https://picsum.photos/seed/goldman-sachs/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Goldman Sachs Group Inc.** is one of the world's leading [investment banks](/broker), headquartered in New York. Goldman Sachs advises corporations and governments on mergers and acquisitions, raises capital for firms through [initial public offerings](/initial-public-offering) and [bond](/bond) issuances, trades securities, and manages billions in assets for institutional investors and [hedge funds](/hedge-fund).*
@@ -22,7 +22,7 @@ Goldman Sachs was founded in 1869 and remained a partnership until its 2008 conv
 
 <div class="wiki-infobox-title">Goldman Sachs — key facts</div>
 
-<img src="https://picsum.photos/seed/goldman-sachs/900/600" alt="Goldman Sachs headquarters in New York" />
+<img src="/svg/institutions.svg" alt="Goldman Sachs headquarters in New York" />
 
 <div class="wiki-infobox-caption">Goldman Sachs headquarters at 200 West Street in Lower Manhattan.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - short seller
   - subprime
   - financial crisis
-image: "https://picsum.photos/seed/michael-burry/900/600"
+image: "/svg/people.svg"
 ---
 
 *Michael Burry gained legend status by analyzing subprime mortgage securities in meticulous detail, concluding they were mispriced and would collapse, then building a massive short position that profited enormously when the 2008 financial crisis unfolded.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/michael-burry/900/600"
 
 <div class="wiki-infobox-title">Michael Burry — key facts</div>
 
-<img src="https://picsum.photos/seed/michael-burry/900/600" alt="Mortgage-backed security prospectuses and bond documents" />
+<img src="/svg/people.svg" alt="Mortgage-backed security prospectuses and bond documents" />
 
 <div class="wiki-infobox-caption">The details of the crisis — where he found rot beneath surface.</div>
 

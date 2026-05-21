@@ -7,7 +7,7 @@ keywords:
   - spending increase
   - income growth
   - spending habits
-image: "https://picsum.photos/seed/lifestyle-creep/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *"**Lifestyle creep**" (also called "lifestyle inflation") is the tendency for your spending to rise automatically as your income rises, consuming your raises and bonuses, so that your savings rate remains flat. The higher income is absorbed entirely into higher spending.*
@@ -22,7 +22,7 @@ For the strategy to prevent this, see [pay yourself first](/pay-yourself-first);
 
 <div class="wiki-infobox-title">Lifestyle Creep — key facts</div>
 
-<img src="https://picsum.photos/seed/lifestyle-creep/900/600" alt="A line chart showing income rising and spending rising in parallel, while savings remains flat" />
+<img src="/svg/personal-finance.svg" alt="A line chart showing income rising and spending rising in parallel, while savings remains flat" />
 
 <div class="wiki-infobox-caption">The pattern: money in, money out, little left over.</div>
 

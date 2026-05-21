@@ -8,7 +8,7 @@ keywords:
   - futures markets
   - commodity trading
   - swaps
-image: "https://picsum.photos/seed/commodity-futures-trading-commission/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Commodity Futures Trading Commission** (CFTC) is the federal agency that regulates commodity futures, options, and swaps in the United States. Created in 1974, it oversees everything from wheat and crude oil futures to currency swaps to derivatives used by hedge funds. Its primary goal is to prevent fraud, excessive speculation, and market manipulation in commodity derivatives.*
@@ -23,7 +23,7 @@ The CFTC regulates commodities and derivatives. The [SEC](/securities-and-exchan
 
 <div class="wiki-infobox-title">CFTC — key facts</div>
 
-<img src="https://picsum.photos/seed/commodity-futures-trading-commission/900/600" alt="A trading floor with screens" />
+<img src="/svg/regulation.svg" alt="A trading floor with screens" />
 
 <div class="wiki-infobox-caption">A commodity derivatives trading floor.</div>
 

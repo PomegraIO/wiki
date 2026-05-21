@@ -8,7 +8,7 @@ keywords:
   - active-passive blend
   - core allocation
   - satellite bets
-image: "https://picsum.photos/seed/core-satellite-portfolio/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A core-satellite portfolio combines a large passive index-fund core (70–90% of assets) with smaller active-management satellite positions (10–30%), balancing the stability and low costs of passive [index investing](/index-fund/) with the upside potential and active [stock-picking](/fundamental-investing/) of active management.*
@@ -23,7 +23,7 @@ For pure passive, see [three-fund portfolio](/three-fund-portfolio/) or [lazy po
 
 <div class="wiki-infobox-title">Core-satellite portfolio — key facts</div>
 
-<img src="https://picsum.photos/seed/core-satellite-portfolio/900/600" alt="A core of index funds surrounded by satellite positions in individual stocks or active funds" />
+<img src="/svg/strategies.svg" alt="A core of index funds surrounded by satellite positions in individual stocks or active funds" />
 
 <div class="wiki-infobox-caption">Core-satellite balances stability of passive with potential of active management.</div>
 

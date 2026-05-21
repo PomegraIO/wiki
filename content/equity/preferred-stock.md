@@ -7,7 +7,7 @@ keywords:
   - hybrid security
   - fixed dividend
   - senior equity
-image: "https://picsum.photos/seed/preferred-stock/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Preferred stock is a senior form of [equity](/stock/) that sits structurally between [bonds](/bond/) and [common stock](/equity/common-stock/), paying a fixed dividend ahead of common shareholders and claiming priority in liquidation, but typically offering no voting rights and limited upside.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/preferred-stock/900/600"
 
 <div class="wiki-infobox-title">Preferred stock — key facts</div>
 
-<img src="https://picsum.photos/seed/preferred-stock/900/600" alt="A financial document showing preferred share terms" />
+<img src="/svg/equity.svg" alt="A financial document showing preferred share terms" />
 
 <div class="wiki-infobox-caption">Hybrid instrument combining bond-like stability with equity-like features.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - measurement basis
   - valuation
   - GAAP
-image: "https://picsum.photos/seed/fair-value/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Fair value](/fair-value) is an accounting measurement basis: the price at which an asset (or liability) would be exchanged between knowledgeable, willing parties in a current transaction. It contrasts with [historical cost](/historical-cost), which is what was actually paid. Most accounting standards require certain assets to be measured at [historical cost](/historical-cost), but others — particularly financial instruments, investments, and derivatives — must be measured at [fair value](/fair-value) on each reporting date. [Fair value](/fair-value) measurement introduces both more current information and more volatility into financial statements. It is governed by specific standards that define the hierarchy of inputs (fair-value-level-1, fair-value-level-2, fair-value-level-3).*
@@ -22,7 +22,7 @@ This entry covers fair value as a measurement basis. For the three-level hierarc
 
 <div class="wiki-infobox-title">Fair value — key facts</div>
 
-<img src="https://picsum.photos/seed/fair-value/900/600" alt="A scale balancing historical cost and fair value measurement" />
+<img src="/svg/accounting.svg" alt="A scale balancing historical cost and fair value measurement" />
 
 <div class="wiki-infobox-caption">Fair value is current market price; historical cost is original purchase price.</div>
 

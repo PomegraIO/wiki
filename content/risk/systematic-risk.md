@@ -7,7 +7,7 @@ keywords:
   - non-diversifiable risk
   - beta
   - factor exposure
-image: "https://picsum.photos/seed/systematic-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Systematic risk — also called **market risk** — is exposure to broad economic factors that move entire markets, sectors, or asset classes. It is the risk you cannot diversify away no matter how many securities you hold, because nearly all assets respond to the same macroeconomic shocks in the same direction.*
@@ -22,7 +22,7 @@ This entry is a formal treatment of market risk. For the practical portfolio ang
 
 <div class="wiki-infobox-title">Systematic Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/systematic-risk/900/600" alt="A chart showing multiple asset classes falling in sync during a market crash" />
+<img src="/svg/risk.svg" alt="A chart showing multiple asset classes falling in sync during a market crash" />
 
 <div class="wiki-infobox-caption">Systematic risk affects all assets; diversification cannot prevent it.</div>
 

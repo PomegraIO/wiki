@@ -7,7 +7,7 @@ keywords:
   - consortium blockchain
   - enterprise
   - hyperledger
-image: "https://picsum.photos/seed/private-blockchain/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **private blockchain** is a [distributed ledger](/distributed-ledger) where participation and validation are restricted to approved entities. Access, transaction visibility, and governance are controlled by the operators. Private blockchains are often called "permissioned" blockchains and are used in enterprise settings.*
@@ -22,7 +22,7 @@ This entry covers private blockchains as a category. For public blockchains, see
 
 <div class="wiki-infobox-title">Private Blockchain — characteristics</div>
 
-<img src="https://picsum.photos/seed/private-blockchain/900/600" alt="Private blockchain with restricted nodes" />
+<img src="/svg/crypto.svg" alt="Private blockchain with restricted nodes" />
 
 <div class="wiki-infobox-caption">A private blockchain: controlled access, centralised governance.</div>
 

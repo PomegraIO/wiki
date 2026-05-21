@@ -8,7 +8,7 @@ keywords:
   - hash
   - block reward
   - mining pool
-image: "https://picsum.photos/seed/mining-bitcoin/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Bitcoin miner** is a participant in the [Bitcoin](/bitcoin) network that validates transactions and creates new blocks using [proof-of-work](/proof-of-work) consensus. Miners compete to solve difficult cryptographic puzzles; the first to solve a puzzle gets to propose the next block and receives a reward of newly minted Bitcoin plus transaction fees.*
@@ -23,7 +23,7 @@ This entry covers the mechanics of Bitcoin mining. For the broader technology, s
 
 <div class="wiki-infobox-title">Bitcoin Mining — key facts</div>
 
-<img src="https://picsum.photos/seed/mining-bitcoin/900/600" alt="Bitcoin mining operation with ASICs" />
+<img src="/svg/crypto.svg" alt="Bitcoin mining operation with ASICs" />
 
 <div class="wiki-infobox-caption">Bitcoin mining: solving puzzles to earn Bitcoin.</div>
 

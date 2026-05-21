@@ -7,7 +7,7 @@ keywords:
   - hostile takeover
   - asset sale
   - extreme defence
-image: "https://picsum.photos/seed/scorched-earth-defense/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **scorched-earth defense** is a takeover defence in which the target company deliberately takes actions that damage itself or reduce its value, with the sole purpose of making a hostile acquisition uneconomical or unappealing. This might include selling valuable assets, taking on large amounts of debt, paying special dividends to shareholders, or other actions that "scorch" the company — destroying its economic attractiveness so that a hostile acquirer would be unwilling or unable to complete the acquisition. Scorched-earth defences are extreme and are typically a last resort.*
@@ -22,7 +22,7 @@ This entry covers scorched-earth defense as an extreme takeover strategy. For ot
 
 <div class="wiki-infobox-title">Scorched-earth defense — key facts</div>
 
-<img src="https://picsum.photos/seed/scorched-earth-defense/900/600" alt="A company damaging itself to repel acquirers" />
+<img src="/svg/corporate.svg" alt="A company damaging itself to repel acquirers" />
 
 <div class="wiki-infobox-caption">A scorched-earth defense damages the company to deter acquirers.</div>
 

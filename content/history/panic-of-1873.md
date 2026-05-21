@@ -7,7 +7,7 @@ keywords:
   - financial crisis
   - banking collapse
   - gold standard
-image: "https://picsum.photos/seed/panic-of-1873/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Panic of 1873** was a catastrophic financial crisis that began in Vienna and New York and rippled across the world. It triggered the Long Depression, a multi-year deflationary spiral that lasted into the 1880s. The panic exposed the dangers of overleveraged banking, rampant railroad speculation, and an international monetary system with no shock absorbers.*
@@ -22,7 +22,7 @@ This entry covers the panic of 1873. For the ensuing prolonged depression, see [
 
 <div class="wiki-infobox-title">Panic of 1873 — key facts</div>
 
-<img src="https://picsum.photos/seed/panic-of-1873/900/600" alt="A contemporary newspaper front page announcing bank failures during the 1873 panic" />
+<img src="/svg/history.svg" alt="A contemporary newspaper front page announcing bank failures during the 1873 panic" />
 
 <div class="wiki-infobox-caption">News of the banking collapse spread rapidly through newspapers and telegraph.</div>
 

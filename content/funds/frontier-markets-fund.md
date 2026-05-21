@@ -8,7 +8,7 @@ keywords:
   - Pakistan
   - high growth risk
   - fund
-image: "https://picsum.photos/seed/frontier-markets-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **frontier markets fund** is an [ETF](/etf) or [mutual fund](/mutual-fund) that invests in [stocks](/stock) from the world's least-developed but functioning stock markets — Vietnam, Pakistan, Bangladesh, Kenya, Nigeria, and others. Frontier markets are earlier in development than [emerging markets](/emerging-markets-fund) but offer extreme growth potential paired with extreme risk: political instability, currency volatility, low liquidity, and limited investor protections.*
@@ -23,7 +23,7 @@ This entry covers frontier markets specifically. For more developed emerging mar
 
 <div class="wiki-infobox-title">Frontier Markets Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/frontier-markets-fund/900/600" alt="A rapidly urbanizing city in a frontier market nation" />
+<img src="/svg/funds.svg" alt="A rapidly urbanizing city in a frontier market nation" />
 
 <div class="wiki-infobox-caption">Frontier markets offer extreme growth and extreme risk.</div>
 

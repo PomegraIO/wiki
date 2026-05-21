@@ -7,7 +7,7 @@ keywords:
   - fixed obligations
   - debt capacity
   - operating income
-image: "https://picsum.photos/seed/fixed-charge-coverage-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **fixed-charge coverage ratio** divides operating income (EBIT) by total fixed charges (interest, rent, debt principal, and other committed obligations). It is broader than [interest-coverage-ratio](/interest-coverage-ratio) because it includes all non-negotiable payments.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/fixed-charge-coverage-ratio/900/600"
 
 <div class="wiki-infobox-title">Fixed-Charge Coverage — key facts</div>
 
-<img src="https://picsum.photos/seed/fixed-charge-coverage-ratio/900/600" alt="EBIT covering all fixed obligations" />
+<img src="/svg/ratios.svg" alt="EBIT covering all fixed obligations" />
 
 <div class="wiki-infobox-caption">Can operating income cover all fixed payments?</div>
 

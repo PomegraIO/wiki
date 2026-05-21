@@ -7,7 +7,7 @@ keywords:
   - vulnerability assessment
   - risk identification
   - tail scenario
-image: "https://picsum.photos/seed/reverse-stress-test/900/600"
+image: "/svg/risk.svg"
 ---
 
 *A reverse stress test is an analytical method that works backwards: rather than choosing a scenario and calculating the loss, you start with an unacceptable loss (or insolvency) and identify the scenarios that would cause it. This reveals hidden vulnerabilities and concentration risks that forward-looking stress tests might miss.*
@@ -22,7 +22,7 @@ This entry covers reverse stress testing methodology. For forward stress testing
 
 <div class="wiki-infobox-title">Reverse Stress Test — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-stress-test/900/600" alt="An arrow pointing backwards from a catastrophic outcome to the scenarios causing it" />
+<img src="/svg/risk.svg" alt="An arrow pointing backwards from a catastrophic outcome to the scenarios causing it" />
 
 <div class="wiki-infobox-caption">Reverse stress tests identify the scenarios that would break you.</div>
 

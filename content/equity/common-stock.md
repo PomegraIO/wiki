@@ -7,7 +7,7 @@ keywords:
   - share
   - voting stock
   - residual claimant
-image: "https://picsum.photos/seed/common-stock/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Common stock is the default class of [equity](/stock/) issued by a public company, entitling the holder to a proportional slice of profits, one vote per share on key corporate decisions, and a claim on whatever remains after creditors are paid in liquidation.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/common-stock/900/600"
 
 <div class="wiki-infobox-title">Common stock — key facts</div>
 
-<img src="https://picsum.photos/seed/common-stock/900/600" alt="A spreadsheet showing stock holdings and prices" />
+<img src="/svg/equity.svg" alt="A spreadsheet showing stock holdings and prices" />
 
 <div class="wiki-infobox-caption">Ownership stake in a company, expressed and traded in shares.</div>
 

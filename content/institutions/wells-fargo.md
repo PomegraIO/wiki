@@ -7,7 +7,7 @@ keywords:
   - financial services
   - American bank
   - San Francisco
-image: "https://picsum.photos/seed/wells-fargo/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Wells Fargo & Company** is one of the largest [banks](/broker) in the United States, headquartered in San Francisco. Operating through consumer banking, commercial banking, and investment banking divisions, Wells Fargo serves millions of individuals, small and medium businesses, large corporations, and institutional investors across the US and globally.*
@@ -22,7 +22,7 @@ Wells Fargo was formed in 1998 through the merger of Wells Fargo and Norwest Cor
 
 <div class="wiki-infobox-title">Wells Fargo — key facts</div>
 
-<img src="https://picsum.photos/seed/wells-fargo/900/600" alt="Wells Fargo headquarters in San Francisco" />
+<img src="/svg/institutions.svg" alt="Wells Fargo headquarters in San Francisco" />
 
 <div class="wiki-infobox-caption">Wells Fargo headquarters in downtown San Francisco.</div>
 

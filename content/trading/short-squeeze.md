@@ -6,7 +6,7 @@ keywords:
   - short selling
   - gamma squeeze
   - feedback loop
-image: "https://picsum.photos/seed/short-squeeze/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **short squeeze** is a market phenomenon where a heavily shorted stock begins to rise, triggering a feedback loop: short-sellers start buying back (covering) their positions to cut losses, pushing the price higher, which panics more short-sellers into covering, pushing the price even higher. The result is a rapid, explosive rally that can far exceed the stock's fundamental value. Short squeezes are unpredictable and dangerous for both short-sellers and naive longs.*
@@ -21,7 +21,7 @@ For the basics of shorting, see [short selling](/short-selling). For gamma-drive
 
 <div class="wiki-infobox-title">Short squeeze — key facts</div>
 
-<img src="https://picsum.photos/seed/short-squeeze/900/600" alt="A stock price chart showing explosive rally driven by short covering" />
+<img src="/svg/trading.svg" alt="A stock price chart showing explosive rally driven by short covering" />
 
 <div class="wiki-infobox-caption">Short squeeze: rising price forces short-sellers to cover; covering drives prices higher.</div>
 

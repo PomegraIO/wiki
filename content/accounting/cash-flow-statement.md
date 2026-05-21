@@ -7,7 +7,7 @@ keywords:
   - free cash flow
   - cash generation
   - statement of cash flows
-image: "https://picsum.photos/seed/cash-flow-statement/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **cash flow statement** — also called the **statement of cash flows** — bridges the gap between accrual-based profit and actual cash movement. It shows where a company obtained cash and where it spent it, divided into three categories: operations (the core business), investing (acquisition of assets), and financing (raising or repaying capital). A company can report profit but generate no cash; conversely, it can lose money on the income statement while strong operations bring in cash. The cash flow statement is where the truth emerges.*
@@ -22,7 +22,7 @@ This entry covers the structure and interpretation of the cash flow statement. F
 
 <div class="wiki-infobox-title">Cash flow statement — key facts</div>
 
-<img src="https://picsum.photos/seed/cash-flow-statement/900/600" alt="A three-section cash flow statement showing operating, investing, and financing cash flows converging to net change in cash" />
+<img src="/svg/accounting.svg" alt="A three-section cash flow statement showing operating, investing, and financing cash flows converging to net change in cash" />
 
 <div class="wiki-infobox-caption">Three sections reconcile to the change in cash: operations, investments, and financing.</div>
 

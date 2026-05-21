@@ -7,7 +7,7 @@ keywords:
   - investment company
   - fund governance
   - investment adviser
-image: "https://picsum.photos/seed/investment-company-act-of-1940/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Investment Company Act of 1940** is the law that regulates investment companies — entities that pool investor money to buy securities. The Act requires [mutual funds](/mutual-fund) and [ETFs](/etf) to register with the [SEC](/securities-and-exchange-commission), disclose holdings and fees, limit leverage, and restrict transactions that benefit management at the expense of investors. It is the backbone of regulatory oversight for the $50 trillion mutual fund industry.*
@@ -22,7 +22,7 @@ The Investment Company Act regulates investment companies (mutual funds, ETFs). 
 
 <div class="wiki-infobox-title">Investment Company Act — key facts</div>
 
-<img src="https://picsum.photos/seed/investment-company-act-of-1940/900/600" alt="A mutual fund prospectus" />
+<img src="/svg/regulation.svg" alt="A mutual fund prospectus" />
 
 <div class="wiki-infobox-caption">A mutual fund prospectus disclosing holdings and fees.</div>
 

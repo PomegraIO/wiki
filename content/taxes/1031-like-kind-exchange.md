@@ -6,7 +6,7 @@ keywords:
   - like-kind exchange
   - capital gains deferral
   - real estate
-image: "https://picsum.photos/seed/1031-like-kind-exchange/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **1031 exchange** (named after IRC Section 1031) is a deferral mechanism allowing real estate investors to sell a property and buy a similar replacement property while deferring all [capital gains](/capital-gains-tax-investor/) and [depreciation recapture](/depreciation-recapture-investor/) taxes indefinitely. The exchange must follow strict timing requirements (45 days to identify, 180 days to close on the replacement property). This is one of the most powerful tax tools for real estate investors.*
@@ -21,7 +21,7 @@ For depreciation effects, see [depreciation recapture for investors](/depreciati
 
 <div class="wiki-infobox-title">1031 like-kind exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/1031-like-kind-exchange/900/600" alt="Two properties being exchanged in a 1031 transaction" />
+<img src="/svg/taxes.svg" alt="Two properties being exchanged in a 1031 transaction" />
 
 <div class="wiki-infobox-caption">Sell one property, buy a replacement, defer all capital gains indefinitely.</div>
 

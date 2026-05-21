@@ -7,7 +7,7 @@ keywords:
   - collateralized borrowing
   - money market
   - overnight repo
-image: "https://picsum.photos/seed/repurchase-agreement/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **repurchase agreement** — or **repo** — is a short-term collateralized borrowing transaction. Party A sells securities to Party B with an agreement to repurchase them at a specified future date (typically next day to a few weeks) at a higher price. The difference in prices is the implied interest rate. Repos are core to banking and money markets, providing short-term [liquidity](/stock-exchange) backed by collateral.*
@@ -22,7 +22,7 @@ For the opposite transaction, see [reverse repo](/reverse-repo). For other money
 
 <div class="wiki-infobox-title">Repurchase Agreement — key facts</div>
 
-<img src="https://picsum.photos/seed/repurchase-agreement/900/600" alt="A chart showing repo rates and volumes in the money market" />
+<img src="/svg/fixed-income.svg" alt="A chart showing repo rates and volumes in the money market" />
 
 <div class="wiki-infobox-caption">Repos are the primary vehicle for short-term collateralized borrowing in global markets.</div>
 

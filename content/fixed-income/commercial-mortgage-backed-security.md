@@ -7,7 +7,7 @@ keywords:
   - real estate securitization
   - commercial property
   - loan pool
-image: "https://picsum.photos/seed/commercial-mortgage-backed-security/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **commercial mortgage-backed security** — or **CMBS** — is a debt security collateralized by a pool of mortgages on commercial real estate (office buildings, retail centers, hotels, apartments, industrial properties). CMBS are structured with multiple [tranches](/collateralized-debt-obligation), with senior tranches receiving priority claims on cash flows and [default](/default-rate) losses.*
@@ -22,7 +22,7 @@ For residential mortgage securitization, see [mortgage-backed security](/mortgag
 
 <div class="wiki-infobox-title">CMBS — key facts</div>
 
-<img src="https://picsum.photos/seed/commercial-mortgage-backed-security/900/600" alt="A portfolio of commercial real estate properties backing CMBS securities" />
+<img src="/svg/fixed-income.svg" alt="A portfolio of commercial real estate properties backing CMBS securities" />
 
 <div class="wiki-infobox-caption">CMBS pool mortgages on office, retail, and industrial properties with varying risk profiles.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - commodity futures
   - standardized contract
   - derivative
-image: "https://picsum.photos/seed/futures-contract/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **futures contract** is a standardized derivative agreement obligating the buyer to purchase and the seller to deliver a specified quantity of an underlying asset (stock index, commodity, currency, interest-rate instrument) at a predetermined [price](/strike-price) on a specified future date. Unlike [option](/option)s, futures carry symmetric obligations for both parties. Futures are [mark-to-market](/mark-to-market) daily, meaning gains and losses are settled every trading day, and both parties post [margin](/initial-margin) to guarantee performance.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/futures-contract/900/600"
 
 <div class="wiki-infobox-title">Futures Contract — key facts</div>
 
-<img src="https://picsum.photos/seed/futures-contract/900/600" alt="Futures exchange contract specifications" />
+<img src="/svg/derivatives.svg" alt="Futures exchange contract specifications" />
 
 <div class="wiki-infobox-caption">Futures obligate both parties; options give rights.</div>
 

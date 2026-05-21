@@ -7,7 +7,7 @@ keywords:
   - 1980s–1990s
   - bank failure
   - deregulation
-image: "https://picsum.photos/seed/savings-and-loan-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Savings and Loan Crisis** was a wave of failures of savings and loan institutions across the United States from the 1980s through the early 1990s. Triggered by deregulation that allowed thrifts to take excessive risks, rising interest rates that eroded their traditional business model, and outright fraud, over 1,000 savings and loan associations failed. The government bailout cost roughly $125 billion — one of the costliest financial disasters in American history.*
@@ -22,7 +22,7 @@ This entry covers the savings and loan crisis. For the related banking industry 
 
 <div class="wiki-infobox-title">Savings and Loan Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/savings-and-loan-crisis/900/600" alt="A photograph of a shuttered savings and loan building with an FDIC closure notice" />
+<img src="/svg/history.svg" alt="A photograph of a shuttered savings and loan building with an FDIC closure notice" />
 
 <div class="wiki-infobox-caption">Over 1,000 thrift institutions failed, costing taxpayers over $100 billion.</div>
 

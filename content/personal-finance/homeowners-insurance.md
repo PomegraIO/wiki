@@ -7,7 +7,7 @@ keywords:
   - property insurance
   - liability insurance
   - dwelling coverage
-image: "https://picsum.photos/seed/homeowners-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **homeowners insurance** policy protects your home and personal property against damage (fire, theft, weather, vandalism) and provides liability coverage if someone is injured on your property. It is required by most mortgage lenders.*
@@ -22,7 +22,7 @@ For renters, see [renters insurance](/renters-insurance); for auto coverage, see
 
 <div class="wiki-infobox-title">Homeowners Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/homeowners-insurance/900/600" alt="A house with insurance documents and a damage claim form" />
+<img src="/svg/personal-finance.svg" alt="A house with insurance documents and a damage claim form" />
 
 <div class="wiki-infobox-caption">The basics: coverage for your home, belongings, and liability.</div>
 

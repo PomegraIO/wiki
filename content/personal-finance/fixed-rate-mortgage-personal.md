@@ -7,7 +7,7 @@ keywords:
   - home loan
   - stable interest rate
   - mortgage rate
-image: "https://picsum.photos/seed/fixed-rate-mortgage-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **fixed-rate mortgage** is a home loan where your interest rate stays the same for the entire loan term. Whether the term is 15, 20, or 30 years, you pay the same interest rate and the same monthly payment every single month, providing certainty and protection against rate increases.*
@@ -22,7 +22,7 @@ For adjustable-rate mortgages, see [adjustable-rate mortgage](/adjustable-rate-m
 
 <div class="wiki-infobox-title">Fixed-Rate Mortgage — key facts</div>
 
-<img src="https://picsum.photos/seed/fixed-rate-mortgage-personal/900/600" alt="A fixed-rate mortgage payment schedule showing stable monthly payments over 30 years" />
+<img src="/svg/personal-finance.svg" alt="A fixed-rate mortgage payment schedule showing stable monthly payments over 30 years" />
 
 <div class="wiki-infobox-caption">The guarantee: interest rate locked for the entire term.</div>
 

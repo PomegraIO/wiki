@@ -7,7 +7,7 @@ keywords:
   - positive thinking
   - risk underestimation
   - unrealistic forecasts
-image: "https://picsum.photos/seed/optimism-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Optimism bias is the tendency to see the future as more favorable than the present warrants. Investors expect strong returns when valuations are stretched. Companies forecast earnings growth without accounting for competitive pressure. Individuals expect their own performance to exceed the average. This systematic optimism leads to overconfident forecasts, under-hedged risk, and inevitable disappointment.*
@@ -22,7 +22,7 @@ The opposite of pessimism bias. Related to overconfidence bias. For systematic u
 
 <div class="wiki-infobox-title">Optimism bias — key facts</div>
 
-<img src="https://picsum.photos/seed/optimism-bias/900/600" alt="A person looking at a sunrise with rosy-tinted glasses" />
+<img src="/svg/behavioral.svg" alt="A person looking at a sunrise with rosy-tinted glasses" />
 
 <div class="wiki-infobox-caption">The rose tints the view of what is ahead.</div>
 

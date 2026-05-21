@@ -7,7 +7,7 @@ keywords:
   - takeover defence
   - hostile takeover
   - flip-in
-image: "https://picsum.photos/seed/poison-pill/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **poison pill** is a shareholder rights plan that a company's board of directors can adopt to prevent a [hostile takeover](/hostile-takeover). When an acquirer accumulates shares above a threshold (typically 15–20% of outstanding), the rights plan is triggered and existing shareholders receive the right to buy additional shares at a steep discount, massively diluting the acquirer's stake and making the acquisition economically unviable. Poison pills are now nearly universal among large public companies and have fundamentally altered the landscape of hostile takeovers.*
@@ -22,7 +22,7 @@ This entry covers the mechanics and history of poison pills. For other takeover 
 
 <div class="wiki-infobox-title">Poison pill — key facts</div>
 
-<img src="https://picsum.photos/seed/poison-pill/900/600" alt="A company repelling a hostile bidder" />
+<img src="/svg/corporate.svg" alt="A company repelling a hostile bidder" />
 
 <div class="wiki-infobox-caption">A poison pill dilutes a hostile acquirer's ownership.</div>
 

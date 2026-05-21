@@ -7,7 +7,7 @@ keywords:
   - fee simple ownership
   - HOA
   - shared ownership
-image: "https://picsum.photos/seed/condominium/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **condominium** is a residential property divided into individually owned units with shared common areas. Each unit owner holds fee simple title to their unit and a proportional share of common areas (hallways, lobbies, courtyards, parking). Condo owners pay homeowners association fees to maintain common areas.*
@@ -22,7 +22,7 @@ This entry covers condominium ownership. For alternatives, see [residential-real
 
 <div class="wiki-infobox-title">Condominium — key facts</div>
 
-<img src="https://picsum.photos/seed/condominium/900/600" alt="A condominium building with multiple units" />
+<img src="/svg/real-estate.svg" alt="A condominium building with multiple units" />
 
 <div class="wiki-infobox-caption">Condos offer home ownership with shared common areas and collective responsibility.</div>
 

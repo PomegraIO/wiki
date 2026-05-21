@@ -7,7 +7,7 @@ keywords:
   - segment valuation
   - conglomerate valuation
   - breakup value
-image: "https://picsum.photos/seed/sum-of-the-parts-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **sum-of-the-parts (SOTP)** valuation recognizes that a diversified company with multiple business segments often has segments with different growth rates, risk profiles, and multiples. Rather than value the whole at a single multiple or discount rate, you value each segment separately using appropriate metrics and multiples, then add them together. The result is often higher than valuing the company as a whole—highlighting the [conglomerate discount](/conglomerate-discount).*

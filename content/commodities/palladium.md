@@ -7,7 +7,7 @@ keywords:
   - autocatalyst
   - gasoline
   - catalytic converter
-image: "https://picsum.photos/seed/palladium/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **palladium** — a silver-white platinum-group metal that is 15 times rarer than gold yet far cheaper than [platinum](/platinum/) — has emerged as the dominant precious metal in modern environmental technology. Over 80% of palladium supply is consumed in catalytic converters for gasoline engines, making its price a barometer of global vehicle production and emissions regulation severity.*
@@ -22,7 +22,7 @@ This entry covers palladium as a commodity. Palladium's role in automotive exhau
 
 <div class="wiki-infobox-title">Palladium — key facts</div>
 
-<img src="https://picsum.photos/seed/palladium/900/600" alt="Palladium ingot and powder" />
+<img src="/svg/commodities.svg" alt="Palladium ingot and powder" />
 
 <div class="wiki-infobox-caption">Palladium in ingot and fine powder form for catalytic applications.</div>
 

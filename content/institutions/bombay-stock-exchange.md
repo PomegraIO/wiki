@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - India
   - Mumbai
-image: "https://picsum.photos/seed/bombay-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Bombay Stock Exchange** (BSE) is one of Asia's oldest and largest [stock exchanges](/stock-exchange), headquartered in Mumbai (formerly Bombay). Founded in 1875 during British colonial rule, the BSE is the primary listing venue for Indian [public companies](/public-company) and serves as the gateway through which global investors access the Indian economy.*
@@ -22,7 +22,7 @@ India also operates the National Stock Exchange of India (NSE), which has grown 
 
 <div class="wiki-infobox-title">Bombay Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/bombay-stock-exchange/900/600" alt="The Bombay Stock Exchange building in Mumbai" />
+<img src="/svg/institutions.svg" alt="The Bombay Stock Exchange building in Mumbai" />
 
 <div class="wiki-infobox-caption">The historic BSE building in Mumbai's financial district.</div>
 

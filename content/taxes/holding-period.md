@@ -7,7 +7,7 @@ keywords:
   - long-term
   - one year
   - capital gains
-image: "https://picsum.photos/seed/holding-period/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **holding period** is the length of time between when you acquire an investment and when you sell it. This simple measure has enormous tax consequences: assets held longer than one year receive preferential long-term tax treatment; those held under a year are taxed at ordinary rates. The distinction can reduce your tax bill by hundreds of thousands of dollars over a lifetime.*
@@ -22,7 +22,7 @@ For tax treatment based on holding period, see [short-term capital gain tax](/sh
 
 <div class="wiki-infobox-title">Holding period — key facts</div>
 
-<img src="https://picsum.photos/seed/holding-period/900/600" alt="A calendar showing the one-year threshold" />
+<img src="/svg/taxes.svg" alt="A calendar showing the one-year threshold" />
 
 <div class="wiki-infobox-caption">The one-year mark separates short-term and long-term tax treatment.</div>
 

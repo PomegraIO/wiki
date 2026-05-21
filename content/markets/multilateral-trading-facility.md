@@ -8,7 +8,7 @@ keywords:
   - MiFID II
   - alternative trading system
   - European markets
-image: "https://picsum.photos/seed/multilateral-trading-facility/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **Multilateral Trading Facility (MTF)** is a trading venue regulated under the EU's [MiFID II](/mifid-ii-trading) framework. MTFs match buy and sell orders from multiple participants using a transparent, non-discretionary order-matching system (typically strict price-time priority). MTFs are the EU equivalent of US [alternative trading systems](/alternative-trading-system), commonly used for equities, commodities, and other securities.*
@@ -23,7 +23,7 @@ This entry is about EU trading venues. For US equivalent, see [alternative tradi
 
 <div class="wiki-infobox-title">Multilateral Trading Facility — key facts</div>
 
-<img src="https://picsum.photos/seed/multilateral-trading-facility/900/600" alt="A trading terminal showing MTF order book with price-time priority" />
+<img src="/svg/markets.svg" alt="A trading terminal showing MTF order book with price-time priority" />
 
 <div class="wiki-infobox-caption">MTFs provide transparent, regulated alternatives to EU regulated markets.</div>
 

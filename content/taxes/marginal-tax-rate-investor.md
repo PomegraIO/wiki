@@ -6,7 +6,7 @@ keywords:
   - tax bracket
   - next dollar of income
   - effective rate
-image: "https://picsum.photos/seed/marginal-tax-rate-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *Your **marginal tax rate** is the federal [income tax](/tax-bracket-investor/) rate applied to your last (highest) dollar of income. It ranges from 10% to 37% depending on your [income and filing status](/tax-bracket-investor/). Your marginal rate determines the tax cost of [short-term capital gains](/short-term-capital-gain-tax/) and [ordinary dividends](/ordinary-dividend/) and affects estimated tax payments. Understanding your marginal rate is essential for [tax-efficient investing](/tax-bracket-investor/) decisions.*
@@ -21,7 +21,7 @@ For your overall average rate, see [effective tax rate investor](/effective-tax-
 
 <div class="wiki-infobox-title">Marginal tax rate for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/marginal-tax-rate-investor/900/600" alt="Tax brackets showing marginal rates" />
+<img src="/svg/taxes.svg" alt="Tax brackets showing marginal rates" />
 
 <div class="wiki-infobox-caption">Your marginal rate is the rate on your next dollar of income.</div>
 

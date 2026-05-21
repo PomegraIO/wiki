@@ -7,7 +7,7 @@ keywords:
   - patents
   - trademarks
   - amortization
-image: "https://picsum.photos/seed/intangible-assets/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Intangible assets](/intangible-assets) are assets without physical form but with measurable economic value. Common examples include patents, trademarks, copyrights, software, customer lists acquired in a business acquisition, and franchise agreements. Unlike [goodwill](/goodwill), which is a catch-all for unidentifiable value, [intangible assets](/intangible-assets) are separately identified and valued. Those with finite useful lives are [amortized](/amortization) over that life; those with indefinite lives are tested for impairment. [Intangible assets](/intangible-assets) are increasingly important in modern economies where brand, intellectual property, and technology drive value.*
@@ -22,7 +22,7 @@ This entry covers intangible assets in general. For the specific impairment proc
 
 <div class="wiki-infobox-title">Intangible assets — key facts</div>
 
-<img src="https://picsum.photos/seed/intangible-assets/900/600" alt="Examples of intangible assets: patents, trademarks, and software licenses" />
+<img src="/svg/accounting.svg" alt="Examples of intangible assets: patents, trademarks, and software licenses" />
 
 <div class="wiki-infobox-caption">Intangible assets are non-physical but valuable.</div>
 

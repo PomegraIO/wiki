@@ -7,7 +7,7 @@ keywords:
   - option pricing
   - expiration
   - derivative
-image: "https://picsum.photos/seed/european-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **European option** is a [call option](/call-option) or [put option](/put-option) that can be exercised only on its [expiration date](/expiration-date), not at any point before. This restriction makes European options simpler to price and trade, particularly for index and currency derivatives. European options are common on stock indices and currency pairs; [american-option](/american-option) options are the norm for single stocks.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/european-option/900/600"
 
 <div class="wiki-infobox-title">European Option — key facts</div>
 
-<img src="https://picsum.photos/seed/european-option/900/600" alt="A calendar marking a single expiration date" />
+<img src="/svg/derivatives.svg" alt="A calendar marking a single expiration date" />
 
 <div class="wiki-infobox-caption">European options can be exercised only on one specific date.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - financial crisis
   - quantitative easing
   - great depression
-image: "https://picsum.photos/seed/ben-bernanke/900/600"
+image: "/svg/people.svg"
 ---
 
 *Ben Bernanke prevented the 2008 financial crisis from becoming a second Great Depression through aggressive policy interventions, proving that central bank tools and willingness to act decisively could prevent economic catastrophe.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/ben-bernanke/900/600"
 
 <div class="wiki-infobox-title">Ben Bernanke — key facts</div>
 
-<img src="https://picsum.photos/seed/ben-bernanke/900/600" alt="Federal Reserve emergency measures and crisis response documents" />
+<img src="/svg/people.svg" alt="Federal Reserve emergency measures and crisis response documents" />
 
 <div class="wiki-infobox-caption">The toolkit of crisis response — where theory meets emergency action.</div>
 

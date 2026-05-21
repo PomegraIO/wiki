@@ -7,7 +7,7 @@ keywords:
   - vice chairman
   - capital allocation
   - investing philosophy
-image: "https://picsum.photos/seed/charlie-munger/900/600"
+image: "/svg/people.svg"
 ---
 
 *Charlie Munger spent over sixty years as Warren Buffett's partner, proving that a sharp mind willing to say "no" and think across disciplines is worth more than a thousand consultants and that the best investments often come from asking uncomfortable questions others avoid.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/charlie-munger/900/600"
 
 <div class="wiki-infobox-title">Charlie Munger — key facts</div>
 
-<img src="https://picsum.photos/seed/charlie-munger/900/600" alt="A room lined with books and legal documents, representing a life of study" />
+<img src="/svg/people.svg" alt="A room lined with books and legal documents, representing a life of study" />
 
 <div class="wiki-infobox-caption">The library of a thinking investor — where rigor and curiosity converge.</div>
 

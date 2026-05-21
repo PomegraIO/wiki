@@ -7,7 +7,7 @@ keywords:
   - exotic option
   - portfolio derivative
   - correlation
-image: "https://picsum.photos/seed/basket-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **basket option** is an exotic derivative whose payoff is based on a weighted portfolio (basket) of multiple underlying assets—stocks, indices, currencies, or commodities—rather than a single asset. The holder is exposed to the basket's performance as a whole, and the option is typically cheaper than owning individual [call option](/call-option) or [put option](/put-option) contracts on each underlying due to diversification and [correlation](/diversification) effects.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/basket-option/900/600"
 
 <div class="wiki-infobox-title">Basket Option — key facts</div>
 
-<img src="https://picsum.photos/seed/basket-option/900/600" alt="Multiple stocks aggregated into one basket representation" />
+<img src="/svg/derivatives.svg" alt="Multiple stocks aggregated into one basket representation" />
 
 <div class="wiki-infobox-caption">A basket option combines multiple assets into a single contract.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - stock market crash
   - Dow Jones
   - program trading
-image: "https://picsum.photos/seed/black-monday-1987/900/600"
+image: "/svg/history.svg"
 ---
 
 *On **October 19, 1987**, stocks crashed in the largest single-day decline in market history. The Dow Jones Index fell 22.6% — nearly $1 trillion in market value was erased. The crash was not triggered by a single catastrophic news event, but rather by a combination of technical factors: program trading algorithms, margin calls, and a feedback loop between equity and futures markets.*
@@ -22,7 +22,7 @@ This entry covers Black Monday 1987. For other major stock crashes, see [Wall St
 
 <div class="wiki-infobox-title">Black Monday 1987 — key facts</div>
 
-<img src="https://picsum.photos/seed/black-monday-1987/900/600" alt="A photograph of frantic traders on the floor of the New York Stock Exchange on October 19, 1987" />
+<img src="/svg/history.svg" alt="A photograph of frantic traders on the floor of the New York Stock Exchange on October 19, 1987" />
 
 <div class="wiki-infobox-caption">Trading floor chaos as the Dow plunged 22.6% in a single day.</div>
 

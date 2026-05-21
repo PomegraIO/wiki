@@ -6,7 +6,7 @@ keywords:
   - national best bid and offer
   - best price
   - market quotation
-image: "https://picsum.photos/seed/nbbo/900/600"
+image: "/svg/trading.svg"
 ---
 
 *The **NBBO** (national best bid and offer) is the highest bid and lowest ask across all U.S. stock exchanges and venues at a given instant. If NASDAQ quotes Apple at $150.00 bid / $150.01 ask, and NYSE quotes $150.005 bid / $150.02 ask, the NBBO is $150.00 bid (best NASDAQ bid) and $150.01 ask (best NASDAQ ask). The NBBO is the law: Reg NMS requires that your order cannot execute at a worse price than the NBBO, and brokers must route to achieve NBBO (or better).*
@@ -21,7 +21,7 @@ For price discovery, see [lit venue](/lit-venue). For routing to achieve NBBO, s
 
 <div class="wiki-infobox-title">NBBO — key facts</div>
 
-<img src="https://picsum.photos/seed/nbbo/900/600" alt="Multiple exchange quotes converging to NBBO" />
+<img src="/svg/trading.svg" alt="Multiple exchange quotes converging to NBBO" />
 
 <div class="wiki-infobox-caption">NBBO: the best bid and ask across all U.S. venues, updated in real time.</div>
 

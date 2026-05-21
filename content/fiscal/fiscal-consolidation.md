@@ -7,7 +7,7 @@ keywords:
   - debt stabilization
   - fiscal reform
   - spending control
-image: "https://picsum.photos/seed/fiscal-consolidation/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **fiscal consolidation** is a sustained reduction in government [budget deficits](/budget-deficit) through spending control, tax increases, or both. It is pursued to stabilize [national debt](/national-debt) and improve long-term fiscal sustainability, often following a [fiscal crisis](/fiscal-cliff) or when [debt-to-GDP ratios](/debt-to-gdp-ratio) become unsustainable.*
@@ -22,7 +22,7 @@ This entry covers sustained deficit reduction. For forced deficit reduction, see
 
 <div class="wiki-infobox-title">Fiscal Consolidation — key facts</div>
 
-<img src="https://picsum.photos/seed/fiscal-consolidation/900/600" alt="Fiscal consolidation" />
+<img src="/svg/fiscal.svg" alt="Fiscal consolidation" />
 
 <div class="wiki-infobox-caption">Fiscal consolidation reduces deficits to stabilize debt.</div>
 

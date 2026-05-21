@@ -7,7 +7,7 @@ keywords:
   - Tokyo Stock Exchange
   - stock exchange
   - Japan
-image: "https://picsum.photos/seed/jpx-japan-exchange-group/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Japan Exchange Group** (JPX) is Japan's primary exchange operator, overseeing the [Tokyo Stock Exchange](/tokyo-stock-exchange), the Osaka Exchange, and associated derivatives and clearing venues. JPX lists Japanese corporations across manufacturing, finance, technology, and utilities, and serves as the principal venue through which international investors access Japanese equities and derivatives.*
@@ -22,7 +22,7 @@ JPX was formed in 2013 through the consolidation of the Tokyo Stock Exchange and
 
 <div class="wiki-infobox-title">Japan Exchange Group — key facts</div>
 
-<img src="https://picsum.photos/seed/jpx-japan-exchange-group/900/600" alt="JPX headquarters in Tokyo" />
+<img src="/svg/institutions.svg" alt="JPX headquarters in Tokyo" />
 
 <div class="wiki-infobox-caption">JPX headquarters in the Ariake district of Tokyo.</div>
 

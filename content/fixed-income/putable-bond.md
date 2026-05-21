@@ -7,7 +7,7 @@ keywords:
   - bond redemption
   - holder option
   - embedded put
-image: "https://picsum.photos/seed/putable-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **putable bond** is a debt security with an embedded option that grants the bondholder (not the issuer) the right to redeem the bond at par (or above) on specified dates before maturity. This provides the bondholder an exit from a deteriorating credit or a rising-rate environment without having to sell at a market discount.*
@@ -22,7 +22,7 @@ For bonds with issuer redemption rights, see [callable bond](/callable-bond). Fo
 
 <div class="wiki-infobox-title">Putable Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/putable-bond/900/600" alt="A graph showing the payoff profile of a putable bond vs. straight bond" />
+<img src="/svg/fixed-income.svg" alt="A graph showing the payoff profile of a putable bond vs. straight bond" />
 
 <div class="wiki-infobox-caption">Putable bonds protect holders from market decline through embedded put options.</div>
 

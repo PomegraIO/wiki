@@ -7,7 +7,7 @@ keywords:
   - dividend valuation
   - dividend growth
   - terminal value
-image: "https://picsum.photos/seed/multi-stage-ddm/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **multi-stage dividend discount model** refines the overly simple [Gordon growth model](/gordon-growth-model) by explicitly modeling different phases of dividend growth. A company might grow dividends at 15% while building market share, 8% as it matures, 4% as the industry stabilizes, and finally 2% in perpetuity. Each stage gets its own explicit forecast period; the final stage collapses into a [perpetuity](/perpetuity-growth-terminal-value) using Gordon growth.*

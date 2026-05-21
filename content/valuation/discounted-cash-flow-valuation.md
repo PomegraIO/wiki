@@ -7,7 +7,7 @@ keywords:
   - discounted cash flow
   - intrinsic value
   - free cash flow
-image: "https://picsum.photos/seed/discounted-cash-flow-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **discounted cash flow (DCF)** model is the most theoretically rigorous valuation method in finance. It projects a company's future cash flows, discounts each one back to today using a rate that reflects the risk of those cash flows, and sums them to arrive at an intrinsic value. The method rests on a single principle: a dollar earned tomorrow is worth less than a dollar earned today.*

@@ -8,7 +8,7 @@ keywords:
   - SEC filing
   - transparent OTC
   - high-quality unlisted
-image: "https://picsum.photos/seed/otc-otcqx/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **OTCQX** market is the premier tier of over-the-counter trading in the US, operated by OTC Markets Group. Companies trading on OTCQX must file audited financial reports with the SEC, meet minimum financial standards (at least $5M tangible net worth), and maintain a bid price of at least $4.00. OTCQX is substantially more transparent and regulated than [OTC Pink](/otc-pink) or [OTCQB](/otc-otcqb), though still not equivalent to a major [stock exchange](/stock-exchange).*
@@ -23,7 +23,7 @@ This entry is about the highest OTC tier. For lower-standard OTC markets, see [O
 
 <div class="wiki-infobox-title">OTCQX — key facts</div>
 
-<img src="https://picsum.photos/seed/otc-otcqx/900/600" alt="An OTCQX-listed company announcement on a financial news platform" />
+<img src="/svg/markets.svg" alt="An OTCQX-listed company announcement on a financial news platform" />
 
 <div class="wiki-infobox-caption">OTCQX is the professional-grade OTC market, with requirements approaching those of major exchanges.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - put option
   - forced purchase
   - option risk
-image: "https://picsum.photos/seed/put-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Put risk is the risk that an embedded put option in a security is exercised, typically by the security holder, forcing you into an unfavourable transaction or preventing a profitable exit. It is less common than [call-risk](/call-risk) but occurs in some [bonds](/bond), preferred [stocks](/stock), and structured products.*
@@ -22,7 +22,7 @@ This entry covers risks from embedded put options. For the opposite risk from ca
 
 <div class="wiki-infobox-title">Put Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/put-risk/900/600" alt="An investor rejecting an unwanted asset being forced back into a portfolio" />
+<img src="/svg/risk.svg" alt="An investor rejecting an unwanted asset being forced back into a portfolio" />
 
 <div class="wiki-infobox-caption">Put options transfer risk from the security holder to the issuer.</div>
 

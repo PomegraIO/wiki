@@ -7,7 +7,7 @@ keywords:
   - share repurchase
   - buyback program
   - return capital
-image: "https://picsum.photos/seed/share-buyback/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A share buyback (also called a share repurchase) is a corporate action in which a [public company](/public-company/) buys back its own outstanding [shares](/stock/) from the market. The company spends cash to purchase shares, reducing the total share count and [earnings per share](/earnings-per-share/) mechanically. Buybacks are an alternative to [dividends](/dividend/) for returning cash to shareholders, and they are a significant component of total equity returns.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/share-buyback/900/600"
 
 <div class="wiki-infobox-title">Share buyback — key facts</div>
 
-<img src="https://picsum.photos/seed/share-buyback/900/600" alt="A chart showing share count declining over time due to buybacks" />
+<img src="/svg/equity.svg" alt="A chart showing share count declining over time due to buybacks" />
 
 <div class="wiki-infobox-caption">Cash-for-shares exchange reducing share count.</div>
 

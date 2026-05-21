@@ -7,7 +7,7 @@ keywords:
   - speculative grade
   - sub-investment-grade
   - yield enhancement
-image: "https://picsum.photos/seed/high-yield-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **high-yield bond** — sometimes called a **junk bond** — is a debt security rated below investment-grade (BB or lower from S&P/Fitch, Ba or lower from Moody's). These bonds carry material default risk but compensate investors through substantially higher yields. They are used by leveraged companies, distressed issuers, and growth-stage firms unable to access investment-grade capital markets.*
@@ -22,7 +22,7 @@ For investment-grade bonds, see [investment-grade bond](/investment-grade-bond).
 
 <div class="wiki-infobox-title">High-Yield Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/high-yield-bond/900/600" alt="A chart showing high-yield bond returns and credit spreads over time" />
+<img src="/svg/fixed-income.svg" alt="A chart showing high-yield bond returns and credit spreads over time" />
 
 <div class="wiki-infobox-caption">High-yield bonds offer returns several times higher than Treasuries, attracting return-seeking investors.</div>
 

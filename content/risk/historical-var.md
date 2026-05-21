@@ -7,7 +7,7 @@ keywords:
   - empirical VaR
   - historical simulation
   - past returns
-image: "https://picsum.photos/seed/historical-var/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Historical value-at-risk (also called empirical or non-parametric VaR) is a method of estimating portfolio loss by examining actual historical returns, sorting them from worst to best, and selecting the percentile loss corresponding to the desired confidence level. It makes no assumptions about the distribution of returns.*
@@ -22,7 +22,7 @@ This entry covers historical VaR calculation. For alternative VaR methods, see [
 
 <div class="wiki-infobox-title">Historical VaR — key facts</div>
 
-<img src="https://picsum.photos/seed/historical-var/900/600" alt="A histogram of actual returns with a marked tail threshold" />
+<img src="/svg/risk.svg" alt="A histogram of actual returns with a marked tail threshold" />
 
 <div class="wiki-infobox-caption">Historical VaR is grounded in real market outcomes, not assumptions.</div>
 

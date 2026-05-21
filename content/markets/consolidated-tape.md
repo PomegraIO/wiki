@@ -8,7 +8,7 @@ keywords:
   - real-time data
   - market transparency
   - SIP
-image: "https://picsum.photos/seed/consolidated-tape/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **consolidated tape** is the official, real-time record of all trades executed in US-listed stocks across all venues — exchanges, [alternative trading systems](/alternative-trading-system), and [over-the-counter](/over-the-counter-market) markets. It is produced by the [Securities Information Processor (SIP)](/sip-securities-information-processor) and shows each trade's price, volume, and exact time. The consolidated tape is the source of truth for what has traded.*
@@ -23,7 +23,7 @@ This entry is about the official trade reporting system. For the price quotation
 
 <div class="wiki-infobox-title">Consolidated Tape — key facts</div>
 
-<img src="https://picsum.photos/seed/consolidated-tape/900/600" alt="A stock ticker displaying trades in real time from multiple venues" />
+<img src="/svg/markets.svg" alt="A stock ticker displaying trades in real time from multiple venues" />
 
 <div class="wiki-infobox-caption">The consolidated tape is the permanent record of all market trades.</div>
 

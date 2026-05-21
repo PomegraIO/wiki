@@ -7,7 +7,7 @@ keywords:
   - bid-ask spread
   - market depth
   - fire sale
-image: "https://picsum.photos/seed/liquidity-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Liquidity risk is the risk that you cannot sell an asset quickly without accepting a severe discount to fair value. It arises when few buyers are available, the market is thin, or the bid-ask spread is wide — forcing you to choose between holding an unwanted position or selling at a loss.*
@@ -22,7 +22,7 @@ This entry covers the difficulty of converting an asset to cash. For the risk th
 
 <div class="wiki-infobox-title">Liquidity Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/liquidity-risk/900/600" alt="A sparse order book showing few bids and offers" />
+<img src="/svg/risk.svg" alt="A sparse order book showing few bids and offers" />
 
 <div class="wiki-infobox-caption">Thin order books mean large price moves to clear trades.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - repurchase agreement
   - repo
   - central bank
-image: "https://picsum.photos/seed/temporary-open-market-operations/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **temporary open-market operation** (or **TOMO**) is a repurchase agreement, or **repo**, in which a central bank buys a security from a dealer or institution and simultaneously agrees to sell it back on a near-term date—usually the next day, a week, or a few weeks later. The operation injects money temporarily and is designed to reverse automatically, leaving the central bank's balance sheet unchanged.*
@@ -22,7 +22,7 @@ This entry covers short-term repos. For outright purchases with no repurchase ag
 
 <div class="wiki-infobox-title">Temporary Open-Market Operations — key facts</div>
 
-<img src="https://picsum.photos/seed/temporary-open-market-operations/900/600" alt="Trading floor with overnight repo transactions" />
+<img src="/svg/monetary.svg" alt="Trading floor with overnight repo transactions" />
 
 <div class="wiki-infobox-caption">Temporary operations inject and drain cash on a daily cycle, leaving no permanent mark on the balance sheet.</div>
 

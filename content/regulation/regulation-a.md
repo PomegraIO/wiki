@@ -7,7 +7,7 @@ keywords:
   - mini-IPO
   - small offering
   - securities exemption
-image: "https://picsum.photos/seed/regulation-a/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation A](/regulation-a) is an exemption from full [Securities Act of 1933](/securities-act-of-1933) registration that allows companies to offer securities to the public with reduced disclosure and review. Originally capped at $1 million, the [JOBS Act](/jobs-act) expanded it to $75 million (now called "Regulation A+" or "Reg A Plus"). Companies file an offering statement with the [SEC](/securities-and-exchange-commission) and state regulators but receive faster review than a full IPO and with lighter disclosure burdens.*
@@ -22,7 +22,7 @@ Regulation A is an exemption from full registration. For private offerings to ac
 
 <div class="wiki-infobox-title">Regulation A — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-a/900/600" alt="A company conducting a Reg A offering" />
+<img src="/svg/regulation.svg" alt="A company conducting a Reg A offering" />
 
 <div class="wiki-infobox-caption">A Reg A+ offering notice.</div>
 

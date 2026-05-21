@@ -7,7 +7,7 @@ keywords:
   - callable bond
   - bond return
   - refinancing
-image: "https://picsum.photos/seed/yield-to-call/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **yield to call** — or **YTC** — is the total annual return an investor earns on a [callable bond](/callable-bond) if the bond is called (redeemed early) on the first call date at the call price. YTC is typically lower than [yield to maturity](/yield-to-maturity) because callable bonds are usually called when interest rates fall, limiting the bondholder's upside. YTC is the relevant return metric for premium (above-par) callable bonds where calling is likely.*
@@ -22,7 +22,7 @@ For the return to maturity, see [yield to maturity](/yield-to-maturity). For bon
 
 <div class="wiki-infobox-title">Yield to Call — key facts</div>
 
-<img src="https://picsum.photos/seed/yield-to-call/900/600" alt="A chart comparing yield to maturity vs. yield to call for premium bonds" />
+<img src="/svg/fixed-income.svg" alt="A chart comparing yield to maturity vs. yield to call for premium bonds" />
 
 <div class="wiki-infobox-caption">YTC is typically lower than YTM for premium bonds due to call risk.</div>
 

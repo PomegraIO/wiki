@@ -7,7 +7,7 @@ keywords:
   - founder control
   - Class A Class B
   - voting structure
-image: "https://picsum.photos/seed/dual-class-shares/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Dual-class shares are a two-tier structure in which a company issues shares with unequal voting power — typically Class A shares with lower voting rights held by public investors, and Class B shares with superior voting rights held by the founder or founding family. This structure allows founders to capture the economic benefits of a public listing while retaining voting control.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/dual-class-shares/900/600"
 
 <div class="wiki-infobox-title">Dual-class shares — key facts</div>
 
-<img src="https://picsum.photos/seed/dual-class-shares/900/600" alt="A governance diagram showing dual-class voting structures" />
+<img src="/svg/equity.svg" alt="A governance diagram showing dual-class voting structures" />
 
 <div class="wiki-infobox-caption">Two tiers of stock with different voting power enable founder retention of control.</div>
 

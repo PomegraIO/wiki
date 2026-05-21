@@ -7,7 +7,7 @@ keywords:
   - Ecuador
   - El Salvador
   - currency substitution
-image: "https://picsum.photos/seed/dollarization/900/600"
+image: "/svg/forex.svg"
 ---
 
 *[Dollarization](/dollarization) is the use of the [US dollar](/us-dollar) (or another foreign currency) as a country's official medium of exchange. **Official dollarization** means the central bank has abandoned its own currency entirely; **unofficial dollarization** (or currency substitution) occurs when residents use dollars alongside or instead of the domestic currency, often during crises. Ecuador and El Salvador are officially dollarized; [Yugoslavia](/central-bank) unofficially dollarized before its collapse.*
@@ -22,7 +22,7 @@ For a currency pegged to the dollar, see [hard peg](/hard-peg) and [currency boa
 
 <div class="wiki-infobox-title">Dollarization — key facts</div>
 
-<img src="https://picsum.photos/seed/dollarization/900/600" alt="An official dollarization transition from domestic currency to US dollar" />
+<img src="/svg/forex.svg" alt="An official dollarization transition from domestic currency to US dollar" />
 
 <div class="wiki-infobox-caption">Official dollarization surrenders monetary policy and seigniorage.</div>
 

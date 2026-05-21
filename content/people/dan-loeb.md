@@ -7,7 +7,7 @@ keywords:
   - activist investing
   - hedge fund
   - shareholder activism
-image: "https://picsum.photos/seed/dan-loeb/900/600"
+image: "/svg/people.svg"
 ---
 
 *Dan Loeb built Third Point into a multi-billion-dollar hedge fund through concentrated bets, opportunistic investing, and aggressive activist campaigns that pressure management to improve performance or change direction.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/dan-loeb/900/600"
 
 <div class="wiki-infobox-title">Dan Loeb — key facts</div>
 
-<img src="https://picsum.photos/seed/dan-loeb/900/600" alt="Corporate offices with shareholder activism signage" />
+<img src="/svg/people.svg" alt="Corporate offices with shareholder activism signage" />
 
 <div class="wiki-infobox-caption">The arena of his pressure — where shareholder rights are asserted.</div>
 

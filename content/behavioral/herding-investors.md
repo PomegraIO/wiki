@@ -7,7 +7,7 @@ keywords:
   - portfolio flow
   - synchronized trading
   - market cycles
-image: "https://picsum.photos/seed/herding-investors/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Herding investors is the empirically observed behavior where large numbers of institutional and retail investors buy and sell similar assets at similar times, amplifying price movements. When a sector is in favor, all portfolio managers overweight it; when it falls out of favor, they underweight it simultaneously. The result is exaggerated cycles, bubbles, and crashes that exceed what fundamental analysis would predict.*
@@ -22,7 +22,7 @@ An observed phenomenon, distinct from the individual psychology of [herd behavio
 
 <div class="wiki-infobox-title">Herding investors — key facts</div>
 
-<img src="https://picsum.photos/seed/herding-investors/900/600" alt="Multiple arrows pointing in the same direction with varying intensity" />
+<img src="/svg/behavioral.svg" alt="Multiple arrows pointing in the same direction with varying intensity" />
 
 <div class="wiki-infobox-caption">Institutional flows can overwhelm fundamental forces.</div>
 

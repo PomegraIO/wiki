@@ -7,7 +7,7 @@ keywords:
   - extrinsic value
   - decay
   - theta
-image: "https://picsum.photos/seed/time-value/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **time value** of an option is the amount by which its market price exceeds its [intrinsic value](/intrinsic-value). It represents the market's bet that the underlying asset will move enough to make the option more profitable before [expiration date](/expiration-date). Time value decays toward zero as expiration approaches, a process captured by the Greek [theta](/theta). For [at-the-money](/at-the-money) or [out-of-the-money](/out-of-the-money) options, time value is the entire option price.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/time-value/900/600"
 
 <div class="wiki-infobox-title">Time Value — key facts</div>
 
-<img src="https://picsum.photos/seed/time-value/900/600" alt="Countdown to option expiration" />
+<img src="/svg/derivatives.svg" alt="Countdown to option expiration" />
 
 <div class="wiki-infobox-caption">Time value decays as expiration nears.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - overestimating influence
   - behavioral bias
   - action bias
-image: "https://picsum.photos/seed/illusion-of-control/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The illusion of control is the tendency to overestimate your ability to influence outcomes that are actually determined by chance. An investor who closely monitors a stock and trades it frequently feels she is controlling its destiny, when in reality the stock's price is determined by millions of other traders and fundamental forces beyond her influence. This illusion leads to excessive action and overconfidence.*
@@ -22,7 +22,7 @@ Related to overconfidence bias and action bias. For the inverse problem, see [om
 
 <div class="wiki-infobox-title">Illusion of control — key facts</div>
 
-<img src="https://picsum.photos/seed/illusion-of-control/900/600" alt="Hands at a control panel with switches that have no connection to anything" />
+<img src="/svg/behavioral.svg" alt="Hands at a control panel with switches that have no connection to anything" />
 
 <div class="wiki-infobox-caption">The switches are connected to nothing, but the illusion of control is powerful.</div>
 

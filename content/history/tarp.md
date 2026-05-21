@@ -7,7 +7,7 @@ keywords:
   - 2008
   - bank bailout
   - financial crisis
-image: "https://picsum.photos/seed/tarp/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Troubled Asset Relief Program (TARP)** was a $700 billion government intervention program enacted in October 2008 to stabilize the financial system during the crisis. Originally conceived as a program to purchase "troubled assets" (toxic mortgage-backed securities), TARP evolved into a program through which the Treasury directly purchased equity stakes in banks and financial institutions, effectively recapitalizing the banking system. It was the largest government financial intervention since the Great Depression.*
@@ -22,7 +22,7 @@ This entry covers TARP. For the broader crisis, see 2008 Financial Crisis; for t
 
 <div class="wiki-infobox-title">TARP — key facts</div>
 
-<img src="https://picsum.photos/seed/tarp/900/600" alt="A photograph of the US Treasury building where TARP was administered" />
+<img src="/svg/history.svg" alt="A photograph of the US Treasury building where TARP was administered" />
 
 <div class="wiki-infobox-caption">TARP was the Treasury's primary tool for stabilizing the financial system in 2008–2009.</div>
 

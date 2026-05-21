@@ -7,7 +7,7 @@ keywords:
   - M0
   - central bank reserves
   - high-powered money
-image: "https://picsum.photos/seed/monetary-base/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **monetary base** (also called **M0** or **base money**) is the most fundamental measure of money in an economy—all the money created and controlled directly by a central bank. It comprises cash in circulation and the electronic reserves that [banks](/broker) hold at the central bank. Everything else in the broader [money supply](/m1) is built on top of the monetary base through the [money multiplier](/money-multiplier).*
@@ -22,7 +22,7 @@ This entry is an overview of the concept. For the aggregate measure, see [m0](/m
 
 <div class="wiki-infobox-title">Monetary Base — key facts</div>
 
-<img src="https://picsum.photos/seed/monetary-base/900/600" alt="Central bank currency vault and reserve accounts" />
+<img src="/svg/monetary.svg" alt="Central bank currency vault and reserve accounts" />
 
 <div class="wiki-infobox-caption">The monetary base is central bank money—the foundation of all money in circulation.</div>
 

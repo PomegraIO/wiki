@@ -8,7 +8,7 @@ keywords:
   - final bell
   - end of day
   - settlement price
-image: "https://picsum.photos/seed/closing-auction-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **closing auction** is the mechanism by which stock exchanges finalize trading at the end of each day. In the US, the closing auction occurs at exactly 4:00 PM Eastern Time. Similar to the [opening auction](/opening-auction-detail), it matches accumulated buy and sell orders to find a clearing price. The closing price is used for benchmark reporting, index calculations, [mutual fund](/mutual-fund) pricing, and portfolio statements.*
@@ -23,7 +23,7 @@ This entry is about the mechanism closing each trading day. For the opening mech
 
 <div class="wiki-infobox-title">Closing Auction — key facts</div>
 
-<img src="https://picsum.photos/seed/closing-auction-detail/900/600" alt="The final bell at a stock exchange signaling the end of trading" />
+<img src="/svg/markets.svg" alt="The final bell at a stock exchange signaling the end of trading" />
 
 <div class="wiki-infobox-caption">The closing auction is the final match of the day, used to establish benchmark closing prices.</div>
 

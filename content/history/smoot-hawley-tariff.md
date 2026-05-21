@@ -7,7 +7,7 @@ keywords:
   - protectionism
   - trade war
   - Great Depression
-image: "https://picsum.photos/seed/smoot-hawley-tariff/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Smoot-Hawley Tariff** was a misguided piece of American legislation passed in June 1930 that raised tariffs on thousands of imported goods. Intended to protect American workers and farmers from foreign competition, it instead triggered a global trade war. Other nations retaliated with their own tariffs, international commerce collapsed, and the Depression was deepened. It is widely regarded as one of the worst policy mistakes of the twentieth century.*
@@ -22,7 +22,7 @@ This entry covers the Smoot-Hawley Tariff. For the broader context of the Depres
 
 <div class="wiki-infobox-title">Smoot-Hawley Tariff — key facts</div>
 
-<img src="https://picsum.photos/seed/smoot-hawley-tariff/900/600" alt="A newspaper headline announcing the passage of Smoot-Hawley" />
+<img src="/svg/history.svg" alt="A newspaper headline announcing the passage of Smoot-Hawley" />
 
 <div class="wiki-infobox-caption">The bill was passed with expectations it would protect American industry; instead it triggered global retaliation.</div>
 

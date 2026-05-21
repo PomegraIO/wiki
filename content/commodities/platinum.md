@@ -7,7 +7,7 @@ keywords:
   - rare metal
   - catalytic converter
   - autocatalyst
-image: "https://picsum.photos/seed/platinum/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **platinum** — the rarest and most chemically inert of the precious metals — is a commodity whose price is driven less by monetary demand than by its indispensable role in catalytic converters for vehicles and in industrial and jewelry applications. Platinum's scarcity, high density, and resistance to corrosion make it the most expensive precious metal per ounce, but also the least liquid for retail investors.*
@@ -22,7 +22,7 @@ This entry covers platinum as a commodity. The vast majority of industrial plati
 
 <div class="wiki-infobox-title">Platinum — key facts</div>
 
-<img src="https://picsum.photos/seed/platinum/900/600" alt="Platinum ingots and coins" />
+<img src="/svg/commodities.svg" alt="Platinum ingots and coins" />
 
 <div class="wiki-infobox-caption">Platinum in refined ingot and coin form.</div>
 

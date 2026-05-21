@@ -7,7 +7,7 @@ keywords:
   - levered valuation
   - equity valuation
   - cost of equity
-image: "https://picsum.photos/seed/free-cash-flow-to-equity-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **free cash flow to equity (FCFE)** valuation values a company's equity by discounting the cash available to equity holders—after the company has paid interest and principal to debt holders—at the [cost of equity](/cost-of-equity). It is the levered cousin of [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation), and it is more restrictive but sometimes more direct when debt levels are complex or shifting.*

@@ -8,7 +8,7 @@ keywords:
   - fund performance
   - expense ratio
   - fund
-image: "https://picsum.photos/seed/etf-tracking-error/900/600"
+image: "/svg/funds.svg"
 ---
 
 *[ETF tracking error](/etf-tracking-error) is the difference between the actual return of an [ETF](/etf) and the return of the index it is meant to replicate. A passively managed [index fund](/index-fund) aiming to track the S&P 500 should deliver very close to the S&P 500's return, but does not quite because of [expenses](/expense-ratio), transaction costs, and cash drag. The annual shortfall — typically 0.03% to 0.20% — is tracking error.*
@@ -23,7 +23,7 @@ This entry covers tracking error as a measurement. For what causes it, see [expe
 
 <div class="wiki-infobox-title">ETF Tracking Error — key facts</div>
 
-<img src="https://picsum.photos/seed/etf-tracking-error/900/600" alt="A chart showing an ETF return line tracking closely alongside an index line" />
+<img src="/svg/funds.svg" alt="A chart showing an ETF return line tracking closely alongside an index line" />
 
 <div class="wiki-infobox-caption">Tracking error measures how closely an ETF follows its underlying index.</div>
 

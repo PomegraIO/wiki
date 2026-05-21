@@ -7,7 +7,7 @@ keywords:
   - hostile takeover
   - competing bid
   - takeover defence
-image: "https://picsum.photos/seed/white-knight/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **white knight** is a friendly acquirer invited by a target company's board of directors to make a competing bid against a hostile takeover attempt. The white knight offers an alternative to the hostile bidder, usually at a higher price or on more favorable terms. By choosing the white knight, shareholders can accept a premium to their current stock price while avoiding the uncertainty and disruption of a hostile takeover. White knights were central to takeover defence strategy in the 1980s and remain an important option.*
@@ -22,7 +22,7 @@ This entry covers white knights as a takeover defence. For other defences, see [
 
 <div class="wiki-infobox-title">White knight — key facts</div>
 
-<img src="https://picsum.photos/seed/white-knight/900/600" alt="A friendly bidder defeating a hostile one" />
+<img src="/svg/corporate.svg" alt="A friendly bidder defeating a hostile one" />
 
 <div class="wiki-infobox-caption">A white knight offers a friendlier alternative to hostile takeover.</div>
 

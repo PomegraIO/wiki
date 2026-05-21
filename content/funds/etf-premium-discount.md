@@ -7,7 +7,7 @@ keywords:
   - NAV divergence
   - pricing
   - fund
-image: "https://picsum.photos/seed/etf-premium-discount/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **ETF premium** occurs when an [ETF](/etf)'s market trading price exceeds its [NAV](/etf-premium-discount) — the underlying value of its holdings. An **ETF discount** occurs when the trading price falls below [NAV](/etf-premium-discount). For large, liquid [ETFs](/etf), premiums and discounts are usually tiny (0.01%–0.05%). But for specialized [ETFs](/etf) or during market stress, they can widen dramatically, creating investment risks.*
@@ -22,7 +22,7 @@ This entry covers the pricing phenomenon. For what causes premiums and discounts
 
 <div class="wiki-infobox-title">ETF Premium and Discount — key facts</div>
 
-<img src="https://picsum.photos/seed/etf-premium-discount/900/600" alt="A chart showing ETF price above and below NAV line" />
+<img src="/svg/funds.svg" alt="A chart showing ETF price above and below NAV line" />
 
 <div class="wiki-infobox-caption">Premiums and discounts measure the gap between market price and intrinsic value.</div>
 

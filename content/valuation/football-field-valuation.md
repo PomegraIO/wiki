@@ -7,7 +7,7 @@ keywords:
   - waterfall chart
   - valuation methods
   - price target
-image: "https://picsum.photos/seed/football-field-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **football field valuation** is a presentation format rather than a valuation method. Instead of claiming a single intrinsic value of 50 dollars per share, you show multiple methods and scenarios as overlapping bars: DCF might yield 45–60, comps might yield 40–55, precedent transactions might yield 50–70. The overlapping bars resemble an American football field (wide at top and bottom, narrower in the middle), hence the name.*

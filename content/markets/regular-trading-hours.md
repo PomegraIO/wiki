@@ -8,7 +8,7 @@ keywords:
   - market open
   - market close
   - stock exchange
-image: "https://picsum.photos/seed/regular-trading-hours/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **regular trading hours** of a stock exchange are the officially designated times when the venue is open for trading and using its order-matching system. In the US, [regular trading hours](/regular-trading-hours) for equities are 9:30 AM to 4:00 PM Eastern Time, Monday through Friday. This eight-and-a-half-hour session is when the bulk of volume occurs and when [price discovery](/stock-market) is most efficient. Trading outside these hours occurs in [pre-market](/pre-market-trading) and [after-hours](/after-hours-trading) sessions.*
@@ -23,7 +23,7 @@ This entry is about the official exchange trading day. For trading before the op
 
 <div class="wiki-infobox-title">Regular Trading Hours — key facts</div>
 
-<img src="https://picsum.photos/seed/regular-trading-hours/900/600" alt="A clock showing 9:30 AM, the moment the stock market opens" />
+<img src="/svg/markets.svg" alt="A clock showing 9:30 AM, the moment the stock market opens" />
 
 <div class="wiki-infobox-caption">Regular trading hours are when institutional investors and the broadest market participate.</div>
 

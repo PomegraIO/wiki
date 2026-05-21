@@ -7,7 +7,7 @@ keywords:
   - what-if analysis
   - case analysis
   - conditional loss
-image: "https://picsum.photos/seed/scenario-analysis/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Scenario analysis is a systematic method for assessing portfolio risk by constructing and evaluating multiple named scenarios — specific, internally consistent descriptions of future states — and calculating portfolio losses in each. It is more structured than open-ended [stress-testing](/stress-testing) and complements quantitative risk measures like [value-at-risk](/value-at-risk).*
@@ -22,7 +22,7 @@ This entry covers structured scenario analysis. For exploratory stress testing w
 
 <div class="wiki-infobox-title">Scenario Analysis — key facts</div>
 
-<img src="https://picsum.photos/seed/scenario-analysis/900/600" alt="Three branching paths from a starting point, each labeled with a different future state" />
+<img src="/svg/risk.svg" alt="Three branching paths from a starting point, each labeled with a different future state" />
 
 <div class="wiki-infobox-caption">Scenario analysis defines multiple plausible futures and their implications.</div>
 

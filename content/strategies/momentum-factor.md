@@ -8,7 +8,7 @@ keywords:
   - relative strength factor
   - momentum premium
   - trend-following factor
-image: "https://picsum.photos/seed/momentum-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The momentum factor is a systematic investment approach that systematically buys [stocks](/stock/) that have recently outperformed and sells those that have underperformed, seeking to capture the "momentum premium" — the tendency for relative performance to persist in the near to medium term.*
@@ -23,7 +23,7 @@ For discretionary momentum investing, see [momentum investing](/momentum-investi
 
 <div class="wiki-infobox-title">Momentum-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/momentum-factor/900/600" alt="A chart showing momentum stocks outperforming over 6–12 month periods" />
+<img src="/svg/strategies.svg" alt="A chart showing momentum stocks outperforming over 6–12 month periods" />
 
 <div class="wiki-infobox-caption">Momentum-factor captures the tendency for trends to persist in the medium term.</div>
 

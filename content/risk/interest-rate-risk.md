@@ -7,7 +7,7 @@ keywords:
   - bond price risk
   - duration risk
   - yield curve risk
-image: "https://picsum.photos/seed/interest-rate-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Interest-rate risk is the exposure of a fixed-income portfolio to losses (or gains) from movements in interest rates. When interest rates rise, existing [bond](/bond) prices fall because new bonds offer higher coupons; when rates fall, existing bonds become more valuable. This inverse relationship is the defining characteristic of interest-rate risk.*
@@ -22,7 +22,7 @@ This entry covers how rate changes affect bond prices. For the risk that a borro
 
 <div class="wiki-infobox-title">Interest-Rate Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-rate-risk/900/600" alt="A yield curve chart with arrows showing upward and downward movements" />
+<img src="/svg/risk.svg" alt="A yield curve chart with arrows showing upward and downward movements" />
 
 <div class="wiki-infobox-caption">Rising rates hurt bond prices; falling rates help them.</div>
 

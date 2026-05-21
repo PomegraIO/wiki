@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Funds">
+<rect width="900" height="600" fill="#f4ede2"/>
+<line x1="60" y1="60" x2="60" y2="540" stroke="#d4cdbd" stroke-width="1"/>
+<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="#0f0f10" font-weight="600">Funds</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">POOLED INVESTMENT VEHICLES</text>
+<g transform="translate(140,200)">
+<rect x="0" y="0" width="120" height="300" fill="#0f0f10" opacity="0.85"/>
+<rect x="0" y="0" width="120" height="120" fill="#c0392b"/>
+<rect x="0" y="120" width="120" height="80" fill="#5b5b63"/>
+<rect x="160" y="60" width="120" height="240" fill="#0f0f10" opacity="0.85"/>
+<rect x="160" y="60" width="120" height="90" fill="#c0392b"/>
+<rect x="160" y="150" width="120" height="60" fill="#5b5b63"/>
+<rect x="320" y="30" width="120" height="270" fill="#0f0f10" opacity="0.85"/>
+<rect x="320" y="30" width="120" height="100" fill="#c0392b"/>
+<rect x="320" y="130" width="120" height="70" fill="#5b5b63"/>
+<rect x="480" y="100" width="120" height="200" fill="#0f0f10" opacity="0.85"/>
+<rect x="480" y="100" width="120" height="70" fill="#c0392b"/>
+<rect x="480" y="170" width="120" height="50" fill="#5b5b63"/>
+<line x1="-10" y1="300" x2="610" y2="300" stroke="#d4cdbd" stroke-width="1"/>
+</g>
+<text x="840" y="570" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" letter-spacing="2" text-anchor="end" opacity="0.7">POMEGRA WIKI</text></svg>

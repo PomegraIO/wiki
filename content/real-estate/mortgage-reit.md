@@ -7,7 +7,7 @@ keywords:
   - mortgage backed security
   - interest rate risk
   - dividend yield
-image: "https://picsum.photos/seed/mortgage-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **mortgage REIT** is a publicly traded company that holds mortgages or mortgage-backed securities ([MBS](/mortgage-backed-security)) and distributes its interest income to shareholders. Unlike an [equity REIT](/equity-reit), which owns physical buildings, a mortgage REIT is a financial intermediary — it borrows at one rate and lends at another, capturing the spread.*
@@ -22,7 +22,7 @@ For context on the broader REIT structure and requirements, see [real estate inv
 
 <div class="wiki-infobox-title">Mortgage REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/mortgage-reit/900/600" alt="A mortgage REIT balance sheet or bond portfolio" />
+<img src="/svg/real-estate.svg" alt="A mortgage REIT balance sheet or bond portfolio" />
 
 <div class="wiki-infobox-caption">Mortgage REITs hold mortgages and mortgage-backed securities, not buildings.</div>
 

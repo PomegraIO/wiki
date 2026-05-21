@@ -7,7 +7,7 @@ keywords:
   - IFRS 15
   - performance obligations
   - contract revenue
-image: "https://picsum.photos/seed/revenue-recognition/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *Revenue recognition is one of the most important principles in [accrual-accounting](/accrual-accounting). It determines when revenue appears on the [income statement](/income-statement) — not when cash is received, but when the company has satisfied its obligation to the customer. The standard, [ASC 606](/asc-606) in the US (IFRS 15 internationally), says revenue is recognized when a customer obtains control of promised goods or services. The timing of this recognition can have enormous effects on reported profit, which is why it is a frequent focus of audits and a source of earnings management.*
@@ -22,7 +22,7 @@ This entry covers the principle. For the specific standard, see [ASC 606](/asc-6
 
 <div class="wiki-infobox-title">Revenue recognition — key facts</div>
 
-<img src="https://picsum.photos/seed/revenue-recognition/900/600" alt="A timeline showing a sale from contract to customer control to revenue recognition" />
+<img src="/svg/accounting.svg" alt="A timeline showing a sale from contract to customer control to revenue recognition" />
 
 <div class="wiki-infobox-caption">Revenue is recognized when the customer gets control, not when cash arrives.</div>
 

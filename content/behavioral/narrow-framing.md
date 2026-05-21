@@ -7,7 +7,7 @@ keywords:
   - portfolio context
   - behavioral bias
   - decision-making
-image: "https://picsum.photos/seed/narrow-framing/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Narrow framing is the tendency to focus on a decision or an outcome as an isolated event rather than as part of a larger whole. You evaluate a stock investment in isolation, ignoring its [correlation](/beta) with the rest of your portfolio. You agonize over a $1,000 loss, ignoring that it represents 0.2% of your total wealth. You optimize a single aspect of your finances (minimizing fees) while suboptimizing the whole. The narrow frame prevents you from seeing the forest.*
@@ -22,7 +22,7 @@ Related to mental accounting and isolation effect. For framing as gains vs. loss
 
 <div class="wiki-infobox-title">Narrow framing — key facts</div>
 
-<img src="https://picsum.photos/seed/narrow-framing/900/600" alt="A magnifying glass focusing intensely on a single small object" />
+<img src="/svg/behavioral.svg" alt="A magnifying glass focusing intensely on a single small object" />
 
 <div class="wiki-infobox-caption">The magnified detail obscures the overall picture.</div>
 

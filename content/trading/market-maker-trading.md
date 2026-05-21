@@ -6,7 +6,7 @@ keywords:
   - liquidity provider
   - bid-ask spread
   - trading
-image: "https://picsum.photos/seed/market-maker-trading/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **market maker** is a trading firm or individual that continuously quotes both a **bid** (buy price) and an **ask** (sell price) for a security. When you place a [market order](/market-order), a market maker is usually the counterparty — they sell you shares if you are buying, or buy your shares if you are selling. They profit from the bid-ask spread (the gap between their buy and sell prices) and lose when the price moves against them. Market makers are essential: they provide liquidity and enable trading to happen.*
@@ -21,7 +21,7 @@ For the role of market makers in exchanges, see [lit venue](/lit-venue). For ord
 
 <div class="wiki-infobox-title">Market maker — key facts</div>
 
-<img src="https://picsum.photos/seed/market-maker-trading/900/600" alt="A trader surrounded by bid and ask quotes" />
+<img src="/svg/trading.svg" alt="A trader surrounded by bid and ask quotes" />
 
 <div class="wiki-infobox-caption">Market makers continuously quote bid and ask, profiting from the spread.</div>
 

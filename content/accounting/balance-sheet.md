@@ -7,7 +7,7 @@ keywords:
   - liabilities
   - equity
   - statement of financial position
-image: "https://picsum.photos/seed/balance-sheet/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **balance sheet** — also called the **statement of financial position** — is a snapshot of a company's financial condition on a single date: what it owns (assets), what it owes (liabilities), and what is left for shareholders (equity). The name comes from its fundamental rule: assets must equal liabilities plus equity. It is the still photograph to the income statement's movie.*
@@ -22,7 +22,7 @@ This entry covers the balance sheet structure and purpose. For how items are mea
 
 <div class="wiki-infobox-title">Balance sheet — key facts</div>
 
-<img src="https://picsum.photos/seed/balance-sheet/900/600" alt="A balance sheet formatted as two columns: assets on the left, liabilities and equity on the right" />
+<img src="/svg/accounting.svg" alt="A balance sheet formatted as two columns: assets on the left, liabilities and equity on the right" />
 
 <div class="wiki-infobox-caption">The balance sheet always balances: assets = liabilities + equity.</div>
 

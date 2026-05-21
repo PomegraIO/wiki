@@ -8,7 +8,7 @@ keywords:
   - NAV divergence
   - authorized participant
   - fund
-image: "https://picsum.photos/seed/etf-arbitrage/900/600"
+image: "/svg/funds.svg"
 ---
 
 *[ETF arbitrage](/etf-arbitrage) is the profit opportunity that arises when an [ETF](/etf)'s trading price diverges from the [NAV](/etf-premium-discount) — the true underlying value of its holdings. When this gap emerges, [authorized participants](/authorized-participant) can buy one asset (either the ETF shares or the underlying basket of securities) and simultaneously sell the other, locking in a risk-free profit. This arbitrage process keeps [ETF](/etf) prices aligned with value.*
@@ -23,7 +23,7 @@ This entry covers ETF arbitrage mechanically. For the pricing mechanism, see [ET
 
 <div class="wiki-infobox-title">ETF Arbitrage — key facts</div>
 
-<img src="https://picsum.photos/seed/etf-arbitrage/900/600" alt="A price chart showing an ETF price briefly diverging from NAV" />
+<img src="/svg/funds.svg" alt="A price chart showing an ETF price briefly diverging from NAV" />
 
 <div class="wiki-infobox-caption">Arbitrage opportunities enforce pricing discipline in ETF markets.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - temporary coverage
   - death benefit
   - insurance
-image: "https://picsum.photos/seed/term-life-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **term life insurance** policy provides life insurance coverage for a fixed period (the "term") — typically 10, 20, or 30 years. If you die during the term, the insurance company pays a tax-free death benefit to your beneficiaries. Term insurance is the cheapest and simplest form of life insurance.*
@@ -22,7 +22,7 @@ For permanent insurance alternatives, see [whole-life insurance](/whole-life-ins
 
 <div class="wiki-infobox-title">Term Life Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/term-life-insurance/900/600" alt="A life insurance policy document and beneficiary form" />
+<img src="/svg/personal-finance.svg" alt="A life insurance policy document and beneficiary form" />
 
 <div class="wiki-infobox-caption">The model: affordable temporary coverage for dependents.</div>
 

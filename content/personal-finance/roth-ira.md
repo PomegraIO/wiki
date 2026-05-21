@@ -7,7 +7,7 @@ keywords:
   - tax-free growth
   - after-tax contribution
   - retirement account
-image: "https://picsum.photos/seed/roth-ira/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **Roth IRA** is a retirement account where you contribute after-tax income and receive no immediate tax deduction. In return, the account grows tax-free and all withdrawals in retirement are tax-free, with no required minimum distributions.*
@@ -22,7 +22,7 @@ For the pre-tax alternative, see [traditional IRA](/traditional-ira); for high-i
 
 <div class="wiki-infobox-title">Roth IRA — key facts</div>
 
-<img src="https://picsum.photos/seed/roth-ira/900/600" alt="A chart showing tax-free growth and withdrawals from a Roth IRA account" />
+<img src="/svg/personal-finance.svg" alt="A chart showing tax-free growth and withdrawals from a Roth IRA account" />
 
 <div class="wiki-infobox-caption">The value: withdrawals are tax-free, with no required minimum.</div>
 

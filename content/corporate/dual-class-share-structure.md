@@ -7,7 +7,7 @@ keywords:
   - founder control
   - voting rights
   - share structure
-image: "https://picsum.photos/seed/dual-class-share-structure/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **dual-class share structure** (or **multi-class share structure**) is when a company issues different classes of common stock with different voting rights. The most common form is Class A shares (10 votes per share, held by founders) and Class B shares (1 vote per share, held by public investors). This structure allows founders to retain voting control and veto power over major decisions despite owning less than 50% of the economic equity. Dual-class structures are controversial — supporters see them as protecting founder vision; critics see them as anti-democratic and harmful to minority shareholders.*
@@ -22,7 +22,7 @@ This entry covers dual-class structures as a control mechanism. For board contro
 
 <div class="wiki-infobox-title">Dual-class share structure — key facts</div>
 
-<img src="https://picsum.photos/seed/dual-class-share-structure/900/600" alt="Two classes of shares with different voting power" />
+<img src="/svg/corporate.svg" alt="Two classes of shares with different voting power" />
 
 <div class="wiki-infobox-caption">Dual-class shares give founders disproportionate voting control.</div>
 

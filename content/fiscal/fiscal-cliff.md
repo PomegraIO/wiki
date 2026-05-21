@@ -7,7 +7,7 @@ keywords:
   - tax increases
   - spending cuts
   - automatic policy change
-image: "https://picsum.photos/seed/fiscal-cliff/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **fiscal cliff** is a situation where government fiscal policy automatically tightens sharply on a set date unless Congress acts. Tax cuts expire, [mandatory spending](/mandatory-spending) cuts trigger, or a [debt ceiling](/debt-ceiling) is reached, creating a sudden, large contraction in the [budget deficit](/budget-deficit).*
@@ -22,7 +22,7 @@ This entry covers fiscal deadline crises. For the scheduled deficit reduction me
 
 <div class="wiki-infobox-title">Fiscal Cliff — key facts</div>
 
-<img src="https://picsum.photos/seed/fiscal-cliff/900/600" alt="Fiscal cliff" />
+<img src="/svg/fiscal.svg" alt="Fiscal cliff" />
 
 <div class="wiki-infobox-caption">Fiscal cliffs force automatic deficit reduction on a set date.</div>
 

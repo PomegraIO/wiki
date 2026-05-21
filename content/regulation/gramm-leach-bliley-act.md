@@ -7,7 +7,7 @@ keywords:
   - universal banking
   - Glass-Steagall repeal
   - privacy rule
-image: "https://picsum.photos/seed/gramm-leach-bliley-act/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Gramm-Leach-Bliley Act** (GLBA), enacted in 1999, is the Financial Services Modernization Act. It repealed key provisions of the [Glass-Steagall Act](/glass-steagall-act), allowing financial institutions to combine commercial banking, investment banking, and insurance under one holding company. GLBA also created a privacy rule protecting consumer financial information and updated regulations for a new era of "financial services" supermarkets.*
@@ -22,7 +22,7 @@ Gramm-Leach-Bliley repealed Glass-Steagall. The [Dodd-Frank Act](/dodd-frank-act
 
 <div class="wiki-infobox-title">Gramm-Leach-Bliley Act — key facts</div>
 
-<img src="https://picsum.photos/seed/gramm-leach-bliley-act/900/600" alt="The Gramm-Leach-Bliley Act text" />
+<img src="/svg/regulation.svg" alt="The Gramm-Leach-Bliley Act text" />
 
 <div class="wiki-infobox-caption">The Gramm-Leach-Bliley Act of 1999.</div>
 

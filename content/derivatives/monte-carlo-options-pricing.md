@@ -7,7 +7,7 @@ keywords:
   - option valuation
   - path simulation
   - exotic options
-image: "https://picsum.photos/seed/monte-carlo-options-pricing/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **Monte Carlo option pricing** method values [option](/option)s by simulating thousands (or millions) of possible price paths from today to [expiration date](/expiration-date), calculating the option payoff on each path, and averaging to find expected value. Monte Carlo is particularly suited to exotic options ([asian-option](/asian-option), [barrier-option](/barrier-option)) with path-dependent payoffs that [Black-Scholes model](/black-scholes-model) cannot handle analytically. It is more flexible than [binomial-option-pricing](/binomial-option-pricing) but computationally intensive.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/monte-carlo-options-pricing/900/600"
 
 <div class="wiki-infobox-title">Monte Carlo Options Pricing — key facts</div>
 
-<img src="https://picsum.photos/seed/monte-carlo-options-pricing/900/600" alt="Simulated price paths branching to outcomes" />
+<img src="/svg/derivatives.svg" alt="Simulated price paths branching to outcomes" />
 
 <div class="wiki-infobox-caption">Thousands of simulated paths → average payoff.</div>
 

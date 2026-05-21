@@ -7,7 +7,7 @@ keywords:
   - decision inconsistency
   - behavioral bias
   - choice architecture
-image: "https://picsum.photos/seed/isolation-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The isolation effect is the tendency to ignore information that is common to all options under consideration and focus only on the features that differ between them. This causes the same underlying choice to be made differently depending on which features are highlighted and which are suppressed, making preferences unstable and subject to framing.*
@@ -22,7 +22,7 @@ Related to framing effect and cascade effect. For choices influenced by how opti
 
 <div class="wiki-infobox-title">Isolation effect — key facts</div>
 
-<img src="https://picsum.photos/seed/isolation-effect/900/600" alt="A spotlight on one feature while others fade into shadow" />
+<img src="/svg/behavioral.svg" alt="A spotlight on one feature while others fade into shadow" />
 
 <div class="wiki-infobox-caption">What stands out shapes choice; what is common fades away.</div>
 

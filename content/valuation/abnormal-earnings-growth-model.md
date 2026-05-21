@@ -7,7 +7,7 @@ keywords:
   - earnings growth
   - equity valuation
   - terminal value
-image: "https://picsum.photos/seed/abnormal-earnings-growth-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **abnormal earnings growth (AEG) model** is a variant of the [residual income model](/residual-income-model) that shifts focus from the level of abnormal earnings to the growth in abnormal earnings. Instead of forecasting earnings and subtracting cost of equity, you forecast how earnings growth will evolve and value the company based on its capacity to grow earnings beyond the cost of capital. It is less widely used than RIM but offers an elegant framework for thinking about growth.*

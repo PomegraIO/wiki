@@ -9,7 +9,7 @@ keywords:
   - trading platform
   - binance
   - coinbase
-image: "https://picsum.photos/seed/centralized-exchange/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **centralised exchange** (**CEX**) is a cryptocurrency trading platform operated by a company that manages user accounts and holds cryptocurrency in custody. Users deposit funds and trade through the exchange's order book. CEX platforms prioritise speed, liquidity, and ease of use but introduce custody risk.*
@@ -24,7 +24,7 @@ This entry covers centralised exchanges. For peer-to-peer trading, see [decentra
 
 <div class="wiki-infobox-title">Centralised Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/centralized-exchange/900/600" alt="CEX trading interface and order book" />
+<img src="/svg/crypto.svg" alt="CEX trading interface and order book" />
 
 <div class="wiki-infobox-caption">A centralised exchange: fast, liquid, but custodial.</div>
 

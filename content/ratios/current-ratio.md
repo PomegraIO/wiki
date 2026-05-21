@@ -7,7 +7,7 @@ keywords:
   - working capital
   - short-term debt
   - financial health
-image: "https://picsum.photos/seed/current-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **current ratio** divides a company's current assets (cash, receivables, inventory, and other assets expected to convert to cash within a year) by current liabilities (debts and obligations due within a year). A current ratio of 1.5 means the company has $1.50 in liquid assets for every $1.00 of short-term obligations. It is the broadest measure of near-term financial solvency.*
@@ -22,7 +22,7 @@ This entry covers near-term liquidity. For a stricter liquidity test, see [quick
 
 <div class="wiki-infobox-title">Current Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/current-ratio/900/600" alt="Current assets balanced against current liabilities" />
+<img src="/svg/ratios.svg" alt="Current assets balanced against current liabilities" />
 
 <div class="wiki-infobox-caption">The classic liquidity stress test.</div>
 

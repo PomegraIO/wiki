@@ -8,7 +8,7 @@ keywords:
   - alternative venue
   - automated trading
   - ATS
-image: "https://picsum.photos/seed/ecn-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *An **Electronic Communication Network (ECN)** is a computerized trading system that automatically matches buy and sell orders without human intermediaries. ECNs are a type of [alternative trading system](/alternative-trading-system) and pioneered the shift toward electronic, automated order matching. Major ECNs have become fully integrated into broader market infrastructure; some have evolved into exchanges or been acquired by larger venues.*
@@ -23,7 +23,7 @@ This entry is about automated order-matching systems. For the broader category, 
 
 <div class="wiki-infobox-title">Electronic Communication Network — key facts</div>
 
-<img src="https://picsum.photos/seed/ecn-detail/900/600" alt="A computer network diagram showing order flow through an ECN" />
+<img src="/svg/markets.svg" alt="A computer network diagram showing order flow through an ECN" />
 
 <div class="wiki-infobox-caption">ECNs were the technology pioneers of automated order matching.</div>
 

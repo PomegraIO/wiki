@@ -7,7 +7,7 @@ keywords:
   - mortgage refinancing
   - call optionality
   - reinvestment risk
-image: "https://picsum.photos/seed/prepayment-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Prepayment risk is the risk that a borrower will repay a loan or mortgage before the maturity date — typically when interest rates fall — forcing the lender to reinvest the principal at lower rates, reducing expected returns. It is the inverse of [extension-risk](/extension-risk) and represents the asymmetry inherent in mortgages and callable [bonds](/bond).*
@@ -22,7 +22,7 @@ This entry covers the risk that borrowers repay early. For the risk that they ho
 
 <div class="wiki-infobox-title">Prepayment Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/prepayment-risk/900/600" alt="A calendar with an early red circle marking an unexpected mortgage payment date" />
+<img src="/svg/risk.svg" alt="A calendar with an early red circle marking an unexpected mortgage payment date" />
 
 <div class="wiki-infobox-caption">Prepayment robs lenders of high-coupon income when rates fall.</div>
 

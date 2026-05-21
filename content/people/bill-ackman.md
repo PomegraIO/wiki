@@ -7,7 +7,7 @@ keywords:
   - activist investing
   - short selling
   - hedge fund
-image: "https://picsum.photos/seed/bill-ackman/900/600"
+image: "/svg/people.svg"
 ---
 
 *Bill Ackman built Pershing Square Capital into a multi-billion-dollar hedge fund through concentrated value bets and activist campaigns against management, proving that an investor with conviction and public presence could move markets.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/bill-ackman/900/600"
 
 <div class="wiki-infobox-title">Bill Ackman — key facts</div>
 
-<img src="https://picsum.photos/seed/bill-ackman/900/600" alt="A corporate headquarters with protest signs representing activism" />
+<img src="/svg/people.svg" alt="A corporate headquarters with protest signs representing activism" />
 
 <div class="wiki-infobox-caption">The arena of his campaigns — where conviction meets public pressure.</div>
 

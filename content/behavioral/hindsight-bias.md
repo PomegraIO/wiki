@@ -7,7 +7,7 @@ keywords:
   - false memory
   - predictability illusion
   - overconfidence
-image: "https://picsum.photos/seed/hindsight-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Hindsight bias is the tendency to look back at past events and believe they were more predictable than they actually were. A stock crashes and you think "I should have seen that coming." A market rallies and you think "it was obvious the crash was temporary." Hindsight bias distorts your memory of past beliefs, making you overconfident in your ability to predict future events.*
@@ -22,7 +22,7 @@ Related to overconfidence bias and selective memory. See also [illusion of skill
 
 <div class="wiki-infobox-title">Hindsight bias — key facts</div>
 
-<img src="https://picsum.photos/seed/hindsight-bias/900/600" alt="A rear-view mirror showing a clear, obvious road that was unknown before" />
+<img src="/svg/behavioral.svg" alt="A rear-view mirror showing a clear, obvious road that was unknown before" />
 
 <div class="wiki-infobox-caption">In hindsight, the path was obvious; in real time, it was shrouded in fog.</div>
 

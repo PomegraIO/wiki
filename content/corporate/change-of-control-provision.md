@@ -7,7 +7,7 @@ keywords:
   - acquisition
   - takeover
   - contract trigger
-image: "https://picsum.photos/seed/change-of-control-provision/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **change of control provision** is a contractual clause that is triggered when a company undergoes a material change in ownership or board control. The most common change of control provisions are in executive employment contracts (triggering [golden parachutes](/golden-parachute) or equity acceleration), but they also appear in bonds, credit facilities, supplier contracts, and licensing agreements. Change of control provisions affect the economics of [mergers](/merger) and [acquisitions](/acquisition) and are a key negotiation point in any transaction.*
@@ -22,7 +22,7 @@ This entry covers change of control provisions as contractual mechanisms. For ex
 
 <div class="wiki-infobox-title">Change of control provision — key facts</div>
 
-<img src="https://picsum.photos/seed/change-of-control-provision/900/600" alt="A contract triggered by ownership change" />
+<img src="/svg/corporate.svg" alt="A contract triggered by ownership change" />
 
 <div class="wiki-infobox-caption">Change of control provisions activate when a company changes hands.</div>
 

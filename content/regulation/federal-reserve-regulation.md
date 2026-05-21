@@ -8,7 +8,7 @@ keywords:
   - reserve requirements
   - discount rate
   - interest rates
-image: "https://picsum.photos/seed/federal-reserve-regulation/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Federal Reserve** has two distinct roles in banking: monetary policy and bank regulation. As the central bank, it sets [interest rates](/interest-rate), manages the money supply, and implements policies during financial crises. As a regulator, it supervises state-chartered banks that are members of the Fed system and all bank holding companies.*
@@ -23,7 +23,7 @@ The Federal Reserve's monetary policy role is separate from its regulatory role.
 
 <div class="wiki-infobox-title">Federal Reserve — key facts</div>
 
-<img src="https://picsum.photos/seed/federal-reserve-regulation/900/600" alt="The Federal Reserve headquarters" />
+<img src="/svg/regulation.svg" alt="The Federal Reserve headquarters" />
 
 <div class="wiki-infobox-caption">The Federal Reserve's headquarters in Washington, DC.</div>
 

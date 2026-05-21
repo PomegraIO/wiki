@@ -7,7 +7,7 @@ keywords:
   - 1944
   - fixed exchange rates
   - IMF World Bank
-image: "https://picsum.photos/seed/bretton-woods/900/600"
+image: "/svg/forex.svg"
 ---
 
 *[Bretton Woods](/bretton-woods) was an international monetary agreement signed in 1944 near the end of WWII. It established a system of [fixed exchange rates](/fixed-exchange-rate) anchored by the [US dollar](/us-dollar), which was pegged to gold at $35 per ounce. Other currencies were pegged to the dollar. The system created the International Monetary Fund (IMF) and the World Bank. It collapsed in 1971 when the US abandoned gold convertibility.*
@@ -22,7 +22,7 @@ For the post-1971 floating-rate system, see [floating exchange rate](/floating-e
 
 <div class="wiki-infobox-title">Bretton Woods — key facts</div>
 
-<img src="https://picsum.photos/seed/bretton-woods/900/600" alt="Bretton Woods conference delegates in 1944" />
+<img src="/svg/forex.svg" alt="Bretton Woods conference delegates in 1944" />
 
 <div class="wiki-infobox-caption">The foundation of post-WWII international finance.</div>
 

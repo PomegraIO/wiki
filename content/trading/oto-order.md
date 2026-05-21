@@ -6,7 +6,7 @@ keywords:
   - one-triggers-other
   - order types
   - conditional orders
-image: "https://picsum.photos/seed/oto-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **one-triggers-other (OTO) order** is a pair of conditional orders where the second order is dormant until the first order fills. Once the trigger order executes, the second order is automatically placed. Used to automate sequences: enter a position, then automatically place exit orders.*
@@ -21,7 +21,7 @@ For two orders where one fill cancels the other, see [one-cancels-other](/oco-or
 
 <div class="wiki-infobox-title">One-triggers-other order — key facts</div>
 
-<img src="https://picsum.photos/seed/oto-order/900/600" alt="A chart showing order sequence: trigger order, then second order activates" />
+<img src="/svg/trading.svg" alt="A chart showing order sequence: trigger order, then second order activates" />
 
 <div class="wiki-infobox-caption">OTO: first order fills, then second order is automatically placed.</div>
 

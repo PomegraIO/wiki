@@ -7,7 +7,7 @@ keywords:
   - NSO
   - equity compensation
   - ordinary income
-image: "https://picsum.photos/seed/nqso/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A non-qualified stock option (NQSO), also called a non-statutory option, is an [employee stock option](/equity/employee-stock-options/) that does not qualify for the preferential tax treatment of [ISOs](/equity/iso/). Upon exercise, the gain (fair market value at exercise minus strike price) is taxed as ordinary income. NQSOs have no strike-price restriction and no annual grant limit, making them more flexible than ISOs for large compensation packages.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/nqso/900/600"
 
 <div class="wiki-infobox-title">Non-qualified stock option — key facts</div>
 
-<img src="https://picsum.photos/seed/nqso/900/600" alt="An NQSO grant agreement and stock option plan" />
+<img src="/svg/equity.svg" alt="An NQSO grant agreement and stock option plan" />
 
 <div class="wiki-infobox-caption">Unlimited equity option with ordinary income taxation.</div>
 

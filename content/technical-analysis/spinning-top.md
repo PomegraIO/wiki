@@ -7,7 +7,7 @@ keywords:
   - indecision
   - consolidation
   - technical analysis
-image: "https://picsum.photos/seed/spinning-top/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **spinning top** is a candlestick with a small rectangular body positioned near the middle of the candle's range, with wicks extending both above and below to create a shape resembling a spinning top or a lollipop. The small body (close and open near each other) signals that the period closed near where it opened, with neither buyers nor sellers winning decisively. The wicks above and below show that prices travelled in both directions but settled nowhere specific. It is the visual embodiment of indecision and consolidation.*
@@ -22,7 +22,7 @@ For single-candle patterns broadly, see [candlestick pattern](/technical-analysi
 
 <div class="wiki-infobox-title">Spinning top — key facts</div>
 
-<img src="https://picsum.photos/seed/spinning-top/900/600" alt="A spinning top candlestick with small body and wicks extending both directions" />
+<img src="/svg/technical-analysis.svg" alt="A spinning top candlestick with small body and wicks extending both directions" />
 
 <div class="wiki-infobox-caption">A spinning top: the small body shows indecision, wicks show prices moved but found no floor or ceiling.</div>
 

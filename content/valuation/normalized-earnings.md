@@ -7,7 +7,7 @@ keywords:
   - sustainable earnings
   - run-rate
   - recurring earnings
-image: "https://picsum.photos/seed/normalized-earnings/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A company's reported earnings in any given year are a mix of three things: recurring, sustainable operating performance; one-time items (gains, losses, writedowns, restructuring charges); and cyclical effects. **Normalized earnings** strip away the noise to reveal what the business sustainably earns. They are essential for [multiples valuation](/multiples-valuation) and for forecasting future earnings in [DCF models](/discounted-cash-flow-valuation).*

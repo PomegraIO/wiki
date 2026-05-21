@@ -7,7 +7,7 @@ keywords:
   - interest rates
   - private investment
   - fiscal policy
-image: "https://picsum.photos/seed/crowding-out/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **crowding out** effect occurs when government borrowing raises [interest rates](/interest-rate), making it more expensive for private business and households to borrow for investment and consumption. The rise in government demand for credit "crowds out" private borrowing, reducing private [investment](/stock) and partially offsetting the stimulus from government spending.*
@@ -22,7 +22,7 @@ This entry covers the borrowing competition effect. For the opposite effect, see
 
 <div class="wiki-infobox-title">Crowding Out — key facts</div>
 
-<img src="https://picsum.photos/seed/crowding-out/900/600" alt="Crowding out" />
+<img src="/svg/fiscal.svg" alt="Crowding out" />
 
 <div class="wiki-infobox-caption">Government borrowing bids up interest rates, crowding out private borrowing.</div>
 

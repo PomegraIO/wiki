@@ -7,7 +7,7 @@ keywords:
   - cost of equity
   - beta
   - market risk premium
-image: "https://picsum.photos/seed/capital-asset-pricing-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **capital asset pricing model (CAPM)** is perhaps the most important formula in modern finance: cost of equity equals the risk-free rate plus beta times the market risk premium. It is simple, testable, and ubiquitous. It is also imperfect, which is why academics and practitioners have been tinkering with it for decades.*

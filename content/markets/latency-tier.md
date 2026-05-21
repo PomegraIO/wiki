@@ -8,7 +8,7 @@ keywords:
   - millisecond
   - high-frequency trading
   - execution speed
-image: "https://picsum.photos/seed/latency-tier/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **latency tier** of a trader refers to the speed at which market information reaches them and orders are executed. Latency is measured in microseconds (μs), milliseconds (ms), and seconds. High-frequency traders operate in the 10–1,000 microsecond range; institutions typically experience 1–100 millisecond latencies; retail investors may see second-level delays. Reducing latency by even microseconds can mean the difference between profit and loss.*
@@ -23,7 +23,7 @@ This entry is about speed tiers in trading. For the infrastructure enabling it, 
 
 <div class="wiki-infobox-title">Latency Tier — key facts</div>
 
-<img src="https://picsum.photos/seed/latency-tier/900/600" alt="A latency timeline showing microseconds to seconds on a logarithmic scale" />
+<img src="/svg/markets.svg" alt="A latency timeline showing microseconds to seconds on a logarithmic scale" />
 
 <div class="wiki-infobox-caption">Latency determines trading advantage in modern markets.</div>
 

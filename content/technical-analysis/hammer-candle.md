@@ -7,7 +7,7 @@ keywords:
   - reversal
   - support
   - technical analysis
-image: "https://picsum.photos/seed/hammer-candle/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **hammer** is a single-candle pattern in which the body (the distance between open and close) sits in the upper half of the candle's range, while a long wick extends downward. The shape resembles a hammer or lollipop: a small head (body) on a long stick (lower wick). The interpretation is that sellers pushed the price down during the period, but buyers stepped in to defend that lower level, and the price closed well above the session low. When a hammer forms after a downtrend or at a [support level](/technical-analysis/support-and-resistance), it is widely read as a bullish reversal signal.*
@@ -22,7 +22,7 @@ For single-candle patterns more broadly, see [candlestick pattern](/technical-an
 
 <div class="wiki-infobox-title">Hammer candle — key facts</div>
 
-<img src="https://picsum.photos/seed/hammer-candle/900/600" alt="A hammer candlestick with small body at top and long lower wick" />
+<img src="/svg/technical-analysis.svg" alt="A hammer candlestick with small body at top and long lower wick" />
 
 <div class="wiki-infobox-caption">A classic hammer: the long lower wick shows buyers defending a lower level, closing well above the low.</div>
 

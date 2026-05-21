@@ -7,7 +7,7 @@ keywords:
   - New York
   - US equity market
   - listed companies
-image: "https://picsum.photos/seed/new-york-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **New York Stock Exchange** (NYSE) is the largest [stock exchange](/stock-exchange) in the world by market capitalization. Home to the vast majority of the largest American corporations and many of the world's blue-chip multinational firms, the NYSE serves as the primary venue where equities of [public companies](/public-company) change hands and investors discover price discovery in the broadest liquidity market on Earth.*
@@ -22,7 +22,7 @@ For the index that includes the 30 largest NYSE-listed companies, see the [Dow J
 
 <div class="wiki-infobox-title">New York Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/new-york-stock-exchange/900/600" alt="The trading floor of the New York Stock Exchange with traders and terminals" />
+<img src="/svg/institutions.svg" alt="The trading floor of the New York Stock Exchange with traders and terminals" />
 
 <div class="wiki-infobox-caption">The iconic trading floor at 11 Wall Street in Lower Manhattan.</div>
 

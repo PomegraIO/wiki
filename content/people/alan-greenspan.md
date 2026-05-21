@@ -7,7 +7,7 @@ keywords:
   - monetary policy
   - deregulation
   - financial crisis
-image: "https://picsum.photos/seed/alan-greenspan/900/600"
+image: "/svg/people.svg"
 ---
 
 *Alan Greenspan led the [Federal Reserve](/federal-reserve) through the 1990s and 2000s with a philosophy that markets self-correct and regulation should be light — a philosophy that proved problematic when financial crisis erupted.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/alan-greenspan/900/600"
 
 <div class="wiki-infobox-title">Alan Greenspan — key facts</div>
 
-<img src="https://picsum.photos/seed/alan-greenspan/900/600" alt="Federal Reserve headquarters and central banking operations" />
+<img src="/svg/people.svg" alt="Federal Reserve headquarters and central banking operations" />
 
 <div class="wiki-infobox-caption">The institution he led — where monetary policy was set for decades.</div>
 

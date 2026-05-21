@@ -7,7 +7,7 @@ keywords:
   - continuity assumption
   - business continuity
   - audit opinion
-image: "https://picsum.photos/seed/going-concern/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Going concern](/going-concern) is a fundamental assumption in [accrual-accounting](/accrual-accounting): that a company will continue operating indefinitely, allowing assets to be valued based on expected future use rather than liquidation value. Without this assumption, every asset would need to be valued at forced-sale price, and estimates of useful lives would be invalid. If auditors believe there is **substantial doubt** about [going concern](/going-concern), they must qualify their audit opinion and the company must disclose the concern. This typically signals serious financial distress and can trigger covenant violations, credit downgrades, and loss of customer and supplier confidence.*
@@ -22,7 +22,7 @@ This entry covers the going concern concept. For the audit opinion impact, see [
 
 <div class="wiki-infobox-title">Going concern — key facts</div>
 
-<img src="https://picsum.photos/seed/going-concern/900/600" alt="A company balance sheet with a footnote disclosure of going concern doubt" />
+<img src="/svg/accounting.svg" alt="A company balance sheet with a footnote disclosure of going concern doubt" />
 
 <div class="wiki-infobox-caption">Going concern doubts require audit qualification and disclosure.</div>
 

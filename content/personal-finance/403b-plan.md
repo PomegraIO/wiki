@@ -7,7 +7,7 @@ keywords:
   - tax-exempt organization
   - retirement account
   - teacher retirement
-image: "https://picsum.photos/seed/403b-plan/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **403(b) plan** is a retirement account available to employees of tax-exempt organizations — schools, universities, nonprofits, hospitals, and religious institutions. It operates similarly to a [401(k)](/401k-plan), but with slightly higher contribution limits and traditionally lower administrative costs.*
@@ -22,7 +22,7 @@ For private-sector employees, see [401(k) plan](/401k-plan); for public-sector e
 
 <div class="wiki-infobox-title">403(b) Plan — key facts</div>
 
-<img src="https://picsum.photos/seed/403b-plan/900/600" alt="A teacher at a blackboard with a 403b plan document in the foreground" />
+<img src="/svg/personal-finance.svg" alt="A teacher at a blackboard with a 403b plan document in the foreground" />
 
 <div class="wiki-infobox-caption">The audience: employees of schools, nonprofits, and hospitals.</div>
 

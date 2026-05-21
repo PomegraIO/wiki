@@ -7,7 +7,7 @@ keywords:
   - 100 percent reserve
   - Hong Kong Monetary Authority
   - Estonia
-image: "https://picsum.photos/seed/currency-board/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **currency board** is an institutional framework that locks a country's [currency](/floating-exchange-rate) to another currency through a [hard peg](/hard-peg) backed by law. The central bank (or currency board) must hold foreign-exchange reserves equal to 100% of the monetary base. This mechanical constraint makes it impossible to devalue unilaterally — and impossible to pursue independent monetary policy. Hong Kong and Estonia use currency boards.*
@@ -22,7 +22,7 @@ For a soft peg without institutional constraint, see [soft peg](/soft-peg); for 
 
 <div class="wiki-infobox-title">Currency Board — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-board/900/600" alt="A currency board backing domestic currency with foreign reserves" />
+<img src="/svg/forex.svg" alt="A currency board backing domestic currency with foreign reserves" />
 
 <div class="wiki-infobox-caption">100% reserve backing ensures the peg cannot be broken.</div>
 

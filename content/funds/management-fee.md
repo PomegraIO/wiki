@@ -8,7 +8,7 @@ keywords:
   - expense ratio
   - fund costs
   - fund
-image: "https://picsum.photos/seed/management-fee/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **management fee** is a flat annual charge that a fund manager levies on assets under management (AUM), expressed as a percentage. A [mutual fund](/mutual-fund) charging a 0.75% management fee takes $750 annually from every $100,000 invested, regardless of how the fund performs. Management fees are the primary component of a fund's [expense ratio](/expense-ratio).*
@@ -23,7 +23,7 @@ This entry covers management fees specifically. For the broader cost picture, se
 
 <div class="wiki-infobox-title">Management Fee — key facts</div>
 
-<img src="https://picsum.photos/seed/management-fee/900/600" alt="A fee disclosure page from a fund prospectus" />
+<img src="/svg/funds.svg" alt="A fee disclosure page from a fund prospectus" />
 
 <div class="wiki-infobox-caption">Management fees are annual charges regardless of fund performance.</div>
 

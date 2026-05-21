@@ -8,7 +8,7 @@ keywords:
   - mechanical strategy
   - predetermined rules
   - algorithmic investing
-image: "https://picsum.photos/seed/systematic-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Systematic investing is an approach to managing [portfolios](/asset-allocation/) that relies on explicit, predetermined rules for selection, weighting, and rebalancing, rather than on the discretion of a human manager. The goal is to enforce discipline and remove emotional decision-making from the process.*
@@ -23,7 +23,7 @@ For quantitative implementations, see [quantitative investing](/quantitative-inv
 
 <div class="wiki-infobox-title">Systematic investing — key facts</div>
 
-<img src="https://picsum.photos/seed/systematic-investing/900/600" alt="A flowchart showing systematic rules applied consistently across time" />
+<img src="/svg/strategies.svg" alt="A flowchart showing systematic rules applied consistently across time" />
 
 <div class="wiki-infobox-caption">Systematic investors codify rules once, then execute them relentlessly, removing emotion from the process.</div>
 

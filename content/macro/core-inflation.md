@@ -7,7 +7,7 @@ keywords:
   - ex-food and energy
   - inflation measure
   - sticky prices
-image: "https://picsum.photos/seed/core-inflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Core inflation excludes the most volatile components of the [Consumer Price Index](/consumer-price-index) — food and energy — to reveal the underlying [inflation](/inflation) trend. Policymakers, especially the [Federal Reserve](/federal-reserve), focus on core [inflation](/inflation) because headline [inflation](/inflation) can be distorted by temporary commodity shocks that are not driven by demand-side pressures.*
@@ -22,7 +22,7 @@ Core [inflation](/inflation) = Headline [inflation](/inflation) − (Food and en
 
 <div class="wiki-infobox-title">Core Inflation — key facts</div>
 
-<img src="https://picsum.photos/seed/core-inflation/900/600" alt="Core versus headline inflation" />
+<img src="/svg/macro.svg" alt="Core versus headline inflation" />
 
 <div class="wiki-infobox-caption">Core inflation smooths out oil and food shocks, revealing underlying demand pressure.</div>
 

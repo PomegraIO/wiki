@@ -8,7 +8,7 @@ keywords:
   - algorithmic trading
   - factor models
   - data-driven investing
-image: "https://picsum.photos/seed/quantitative-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Quantitative investing is an approach to [stock](/stock/) selection that relies on mathematical models, statistical analysis, and computational power to identify opportunities, rather than on qualitative judgment, research calls, or analyst reports. The core bet is that systematic, rules-based selection will outperform discretionary human judgment.*
@@ -23,7 +23,7 @@ For factor-based systematic approaches, see [factor investing](/factor-investing
 
 <div class="wiki-infobox-title">Quantitative investing — key facts</div>
 
-<img src="https://picsum.photos/seed/quantitative-investing/900/600" alt="A computer screen showing stock selection model outputs" />
+<img src="/svg/strategies.svg" alt="A computer screen showing stock selection model outputs" />
 
 <div class="wiki-infobox-caption">Quant investors build models to remove emotion and codify repeatable patterns.</div>
 

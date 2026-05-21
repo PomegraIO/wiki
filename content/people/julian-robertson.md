@@ -7,7 +7,7 @@ keywords:
   - hedge fund
   - long-short
   - tiger cubs
-image: "https://picsum.photos/seed/julian-robertson/900/600"
+image: "/svg/people.svg"
 ---
 
 *Julian Robertson built Tiger Management into a $22 billion juggernaut by proving that a hedge fund combining long and short positions, global macro insight, and intense stock-specific research could outpace the market consistently — and by spawning a dynasty of successful investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/julian-robertson/900/600"
 
 <div class="wiki-infobox-title">Julian Robertson — key facts</div>
 
-<img src="https://picsum.photos/seed/julian-robertson/900/600" alt="A coastal New Zealand landscape, Robertson's adopted country" />
+<img src="/svg/people.svg" alt="A coastal New Zealand landscape, Robertson's adopted country" />
 
 <div class="wiki-infobox-caption">The home of retirement — where Robertson withdrew to preserve his legacy.</div>
 

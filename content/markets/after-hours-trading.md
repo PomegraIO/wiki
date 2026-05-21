@@ -8,7 +8,7 @@ keywords:
   - extended hours
   - earnings trading
   - post-market
-image: "https://picsum.photos/seed/after-hours-trading/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **after-hours** session is an extended trading period that occurs after a stock exchange's official closing. In the US, [after-hours trading](/after-hours-trading) typically runs from 4:00 PM to 8:00 PM Eastern Time, after the NYSE and NASDAQ close at 4:00 PM. It allows investors to trade based on earnings results and other after-hours news, but with substantially lower volume and wider bid-ask spreads than [regular trading hours](/regular-trading-hours).*
@@ -23,7 +23,7 @@ This entry is about evening trading after the close. For trading during the offi
 
 <div class="wiki-infobox-title">After-Hours Trading — key facts</div>
 
-<img src="https://picsum.photos/seed/after-hours-trading/900/600" alt="A trader monitoring earnings results during the after-hours session" />
+<img src="/svg/markets.svg" alt="A trader monitoring earnings results during the after-hours session" />
 
 <div class="wiki-infobox-caption">After-hours trading is when companies release earnings and investors react.</div>
 

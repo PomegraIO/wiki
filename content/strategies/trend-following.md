@@ -8,7 +8,7 @@ keywords:
   - moving averages
   - systematic trends
   - momentum factor
-image: "https://picsum.photos/seed/trend-following/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Trend-following is a systematic strategy of buying [stocks](/stock/) or assets in established uptrends and selling those in downtrends, based on the observation that price trends tend to persist. It can be applied at multiple time horizons — from weeks to years — and is both a trading method and a longer-term investment approach.*
@@ -23,7 +23,7 @@ For mean reversion (the opposite), see [mean-reversion investing](/mean-reversio
 
 <div class="wiki-infobox-title">Trend-following — key facts</div>
 
-<img src="https://picsum.photos/seed/trend-following/900/600" alt="A price chart showing clear uptrend and downtrend identification" />
+<img src="/svg/strategies.svg" alt="A price chart showing clear uptrend and downtrend identification" />
 
 <div class="wiki-infobox-caption">Trend-followers buy when trends are established, exit when trends break.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - FX rate
   - currency price
   - immediate settlement
-image: "https://picsum.photos/seed/spot-exchange-rate/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **spot exchange rate** is the price at which two currencies trade with immediate, or near-immediate, settlement. It is the price you see when you search "EUR/USD rate" on your phone or watch on a financial news channel — the real-time transaction price for a [currency pair](/currency-pair) handed over in two business days.*
@@ -22,7 +22,7 @@ For a rate locked in today but settled at a future date, see [forward exchange r
 
 <div class="wiki-infobox-title">Spot Exchange Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/spot-exchange-rate/900/600" alt="A currency trading terminal showing live spot rates" />
+<img src="/svg/forex.svg" alt="A currency trading terminal showing live spot rates" />
 
 <div class="wiki-infobox-caption">Live spot rates on a trading screen — updated continuously during market hours.</div>
 

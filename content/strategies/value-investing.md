@@ -8,7 +8,7 @@ keywords:
   - margin of safety
   - fundamental analysis
   - Benjamin Graham
-image: "https://picsum.photos/seed/value-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Value investing is the practice of buying a [stock](/stock) believed to trade below what a thoughtful analysis says it is actually worth — the bet being that the market's pessimism or inattention will eventually correct, delivering a [capital gain](/stock/) to the patient owner.*
@@ -23,7 +23,7 @@ For the disciplined extreme version, see [deep-value investing](/deep-value-inve
 
 <div class="wiki-infobox-title">Value investing — key facts</div>
 
-<img src="https://picsum.photos/seed/value-investing/900/600" alt="A stock chart showing a deeply discounted price relative to fundamental metrics" />
+<img src="/svg/strategies.svg" alt="A stock chart showing a deeply discounted price relative to fundamental metrics" />
 
 <div class="wiki-infobox-caption">The value investor hunts where fear and neglect have driven prices down.</div>
 

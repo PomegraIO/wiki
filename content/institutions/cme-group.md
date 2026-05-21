@@ -8,7 +8,7 @@ keywords:
   - derivatives
   - Chicago
   - commodity trading
-image: "https://picsum.photos/seed/cme-group/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **CME Group** is the world's largest derivatives exchange operator and the primary venue for global futures and [option](/option) trading. Headquartered in Chicago and operating through multiple subsidiaries (CME, CBOT, NYMEX, COMEX), CME Group trades contracts on equities, commodities, currencies, [interest rates](/interest-rate), and cryptocurrencies, serving institutional investors, [hedge funds](/hedge-fund), corporations, and governments managing risk globally.*
@@ -23,7 +23,7 @@ CME Group is itself publicly listed and is the result of multiple mergers combin
 
 <div class="wiki-infobox-title">CME Group — key facts</div>
 
-<img src="https://picsum.photos/seed/cme-group/900/600" alt="The CME Group trading floor in Chicago" />
+<img src="/svg/institutions.svg" alt="The CME Group trading floor in Chicago" />
 
 <div class="wiki-infobox-caption">The CME Group trading floor in Chicago's Loop district.</div>
 

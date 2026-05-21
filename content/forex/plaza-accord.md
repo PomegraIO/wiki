@@ -7,7 +7,7 @@ keywords:
   - 1985
   - dollar depreciation
   - G5 agreement
-image: "https://picsum.photos/seed/plaza-accord/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **Plaza Accord** (1985) was a landmark agreement by the Group of Five — the US, Japan, Germany, France, and the UK — to coordinate currency intervention and weaken the overvalued [US dollar](/us-dollar). The dollar had appreciated 50% in the early 1980s, making US exports expensive and imports cheap. The accord succeeded in depreciating the dollar ~50% over two years, providing relief to US manufacturers and signaling the start of coordinated international economic policy.*
@@ -22,7 +22,7 @@ For a later coordinated intervention, see Louvre Accord; for the unilateral endi
 
 <div class="wiki-infobox-title">Plaza Accord — key facts</div>
 
-<img src="https://picsum.photos/seed/plaza-accord/900/600" alt="A newspaper headline announcing the Plaza Accord agreement" />
+<img src="/svg/forex.svg" alt="A newspaper headline announcing the Plaza Accord agreement" />
 
 <div class="wiki-infobox-caption">The first successful coordinated currency intervention.</div>
 

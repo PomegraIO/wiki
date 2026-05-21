@@ -7,7 +7,7 @@ keywords:
   - nursing home insurance
   - care insurance
   - elderly care
-image: "https://picsum.photos/seed/long-term-care-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **long-term care (LTC) insurance** policy covers costs of extended care if you become unable to perform daily living activities (bathing, dressing, eating) due to age, illness, or disability. It pays for nursing home, assisted living, adult day care, or in-home care services.*
@@ -22,7 +22,7 @@ For health insurance at age 65, see [Medicare](/medicare-personal); for life ins
 
 <div class="wiki-infobox-title">Long-Term Care Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/long-term-care-insurance/900/600" alt="An elderly person receiving care at home or in a facility" />
+<img src="/svg/personal-finance.svg" alt="An elderly person receiving care at home or in a facility" />
 
 <div class="wiki-infobox-caption">The coverage: costs of extended care in old age or illness.</div>
 

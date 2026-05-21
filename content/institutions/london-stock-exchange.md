@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - UK equity market
   - European exchange
-image: "https://picsum.photos/seed/london-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **London Stock Exchange** (LSE) is the largest [stock exchange](/stock-exchange) in Europe and one of the oldest continuously operating exchanges in the world. Headquartered in the City of London, the LSE has served as the primary venue for British, Irish, and Commonwealth equities since its founding in 1801, and remains home to multinational corporations from across the globe seeking access to European capital.*
@@ -22,7 +22,7 @@ For the main LSE index of large-cap companies, see FTSE 100; for the broader mar
 
 <div class="wiki-infobox-title">London Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/london-stock-exchange/900/600" alt="The ornate historic façade of the London Stock Exchange building" />
+<img src="/svg/institutions.svg" alt="The ornate historic façade of the London Stock Exchange building" />
 
 <div class="wiki-infobox-caption">The iconic building on Paternoster Row in the City of London.</div>
 

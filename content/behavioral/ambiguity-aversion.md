@@ -7,7 +7,7 @@ keywords:
   - known vs unknown
   - Ellsberg paradox
   - decision-making
-image: "https://picsum.photos/seed/ambiguity-aversion/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Ambiguity aversion is the preference for known risks over unknown risks. You prefer a stock with a 50% probability of rising (clear odds) over a stock where the probability is unknown (could be 10%, could be 90%). Even if the unknown probability is actually 60%, you prefer the known 50%. This preference for clarity over actual probability leads to undiversification and missed opportunities.*
@@ -22,7 +22,7 @@ Illustrated by the Ellsberg paradox. Related to overconfidence (known probabilit
 
 <div class="wiki-infobox-title">Ambiguity aversion — key facts</div>
 
-<img src="https://picsum.photos/seed/ambiguity-aversion/900/600" alt="Two paths: one clearly marked, one shrouded in fog" />
+<img src="/svg/behavioral.svg" alt="Two paths: one clearly marked, one shrouded in fog" />
 
 <div class="wiki-infobox-caption">The clear path is chosen, even if the foggy path leads further.</div>
 

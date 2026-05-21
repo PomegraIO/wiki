@@ -7,7 +7,7 @@ keywords:
   - high interest rates
   - inflation control
   - rate hike
-image: "https://picsum.photos/seed/contractionary-monetary-policy/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **contractionary monetary policy** — also called **monetary tightening** — is a central bank's effort to raise interest rates, reduce the money supply, and restrict credit availability in order to cool demand, rein in [inflation](/inflation), and prevent the economy from overheating. It is the standard policy response when prices are rising too fast.*
@@ -22,7 +22,7 @@ This entry covers the general posture. For the specific tools a central bank use
 
 <div class="wiki-infobox-title">Contractionary Monetary Policy — key facts</div>
 
-<img src="https://picsum.photos/seed/contractionary-monetary-policy/900/600" alt="Interest rate gauge pointing upward" />
+<img src="/svg/monetary.svg" alt="Interest rate gauge pointing upward" />
 
 <div class="wiki-infobox-caption">Contractionary policy raises interest rates to cool inflation and prevent overheating.</div>
 

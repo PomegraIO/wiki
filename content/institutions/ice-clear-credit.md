@@ -7,7 +7,7 @@ keywords:
   - credit derivatives
   - credit default swaps
   - central counterparty
-image: "https://picsum.photos/seed/ice-clear-credit/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **ICE Clear Credit** is a clearinghouse operated by Intercontinental Exchange that specializes in credit derivatives — contracts that trade credit risk. The clearinghouse acts as central counterparty for [credit default swaps](/credit-default-swap) and other credit derivatives, allowing investors to hedge credit exposure or speculate on credit conditions.*
@@ -22,7 +22,7 @@ ICE Clear Credit is part of the broader ICE clearing ecosystem; ICE Clear US han
 
 <div class="wiki-infobox-title">ICE Clear Credit — key facts</div>
 
-<img src="https://picsum.photos/seed/ice-clear-credit/900/600" alt="ICE Clear offices in New York" />
+<img src="/svg/institutions.svg" alt="ICE Clear offices in New York" />
 
 <div class="wiki-infobox-caption">ICE Clear operations in New York's financial district.</div>
 

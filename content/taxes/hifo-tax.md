@@ -6,7 +6,7 @@ keywords:
   - highest in first out
   - cost basis
   - tax efficiency
-image: "https://picsum.photos/seed/hifo-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **HIFO** method (Highest In, First Out) is a [cost basis](/cost-basis/) approach where you sell the highest-cost [tax lot](/tax-lot/) first, minimising your [capital gain](/capital-gains-tax-investor/) and tax bill. HIFO is effectively the same as choosing [specific identification](/specific-identification-basis/) by always selecting the highest-cost [lot](/tax-lot/). It offers excellent tax efficiency and is increasingly popular with tax-conscious investors.*
@@ -21,7 +21,7 @@ For alternatives, see [specific identification](/specific-identification-basis/)
 
 <div class="wiki-infobox-title">HIFO tax basis — key facts</div>
 
-<img src="https://picsum.photos/seed/hifo-tax/900/600" alt="A cost basis chart showing the highest-cost lot selected first" />
+<img src="/svg/taxes.svg" alt="A cost basis chart showing the highest-cost lot selected first" />
 
 <div class="wiki-infobox-caption">Always sell the highest-cost lot to minimise gain and taxes.</div>
 

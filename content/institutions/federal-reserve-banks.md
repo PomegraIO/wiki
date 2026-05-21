@@ -7,7 +7,7 @@ keywords:
   - Federal Reserve Banks
   - monetary policy
   - banking supervision
-image: "https://picsum.photos/seed/federal-reserve-banks/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Federal Reserve Banks** are the twelve regional central banks that comprise the US [central bank](/central-bank) system. Operating under the governance of the Federal Reserve Board in Washington, DC, the regional Federal Reserve Banks implement [monetary policy](/central-bank), supervise and regulate member banks, operate the US payments system, and act as banker to the US government and other central banks.*
@@ -22,7 +22,7 @@ The Federal Reserve System was created in 1913 as a decentralized central bank, 
 
 <div class="wiki-infobox-title">Federal Reserve Banks — key facts</div>
 
-<img src="https://picsum.photos/seed/federal-reserve-banks/900/600" alt="Federal Reserve District boundaries map" />
+<img src="/svg/institutions.svg" alt="Federal Reserve District boundaries map" />
 
 <div class="wiki-infobox-caption">The twelve Federal Reserve Districts covering the United States.</div>
 

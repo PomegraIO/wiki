@@ -6,7 +6,7 @@ keywords:
   - ordinary income tax
   - holding period
   - tax rate
-image: "https://picsum.photos/seed/short-term-capital-gain-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **short-term capital gain** is the profit from selling an investment—[stock](/stock/), [bond](/bond/), or other asset—that you held for one year or less. These gains are taxed at your ordinary [marginal income tax rate](/marginal-tax-rate-investor/), not at the preferential long-term rate. For most investors, short-term gains are the least tax-efficient way to realise returns.*
@@ -21,7 +21,7 @@ For assets held longer than one year, see [long-term capital gain tax](/long-ter
 
 <div class="wiki-infobox-title">Short-term capital gain tax — key facts</div>
 
-<img src="https://picsum.photos/seed/short-term-capital-gain-tax/900/600" alt="A calendar marking the one-year holding period" />
+<img src="/svg/taxes.svg" alt="A calendar marking the one-year holding period" />
 
 <div class="wiki-infobox-caption">Short-term gains are taxed at ordinary income rates; the long-term threshold is one year from purchase date.</div>
 

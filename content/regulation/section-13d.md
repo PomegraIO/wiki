@@ -7,7 +7,7 @@ keywords:
   - beneficial ownership
   - 5% threshold
   - acquisition disclosure
-image: "https://picsum.photos/seed/section-13d/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Section 13(d)](/section-13d) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) requires that any person acquiring 5% or more of a public company's stock must file a Schedule 13D with the [SEC](/securities-and-exchange-commission) within 10 calendar days. The filing discloses the acquirer's identity, the stake size, the source of funds, and the acquirer's plans (whether it intends to seek control, sell the stake, etc.). Section 13(d) flings are the starting point for identifying activist investors and potential acquisitions.*
@@ -22,7 +22,7 @@ Section 13(d) applies to voluntary acquisitions. Insiders already holding 5%+ fi
 
 <div class="wiki-infobox-title">Section 13(d) — key facts</div>
 
-<img src="https://picsum.photos/seed/section-13d/900/600" alt="A Schedule 13D filing" />
+<img src="/svg/regulation.svg" alt="A Schedule 13D filing" />
 
 <div class="wiki-infobox-caption">A Schedule 13D disclosure of a major stake.</div>
 

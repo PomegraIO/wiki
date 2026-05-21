@@ -7,7 +7,7 @@ keywords:
   - protein
   - livestock
   - commodity
-image: "https://picsum.photos/seed/soybean-meal/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **soybean meal** — the protein-rich residue left after extracting oil from soybeans — is the world's largest single source of animal feed protein. Global livestock production depends on soybean meal; a shortage or price spike immediately affects [cattle](/live-cattle/) and [hog](/lean-hogs/) prices. Soybean meal prices are driven by the same factors as [soybeans](/soybeans/) but with additional volatility from processing margins.*
@@ -22,7 +22,7 @@ This entry covers soybean meal as a commodity. For the parent crop, see [soybean
 
 <div class="wiki-infobox-title">Soybean Meal — key facts</div>
 
-<img src="https://picsum.photos/seed/soybean-meal/900/600" alt="Soybean meal pellets" />
+<img src="/svg/commodities.svg" alt="Soybean meal pellets" />
 
 <div class="wiki-infobox-caption">Soybean meal in pellet form for livestock feed.</div>
 

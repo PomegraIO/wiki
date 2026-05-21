@@ -7,7 +7,7 @@ keywords:
   - value investing
   - business quality
   - scuttlebutt
-image: "https://picsum.photos/seed/philip-fisher/900/600"
+image: "/svg/people.svg"
 ---
 
 *Philip Fisher demonstrated that a disciplined investor could focus on high-quality growing businesses and still maintain value discipline by requiring reasonable prices — a synthesis that influenced a generation of growth-oriented value investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/philip-fisher/900/600"
 
 <div class="wiki-infobox-title">Philip Fisher — key facts</div>
 
-<img src="https://picsum.photos/seed/philip-fisher/900/600" alt="A growing technology company's campus or facilities" />
+<img src="/svg/people.svg" alt="A growing technology company's campus or facilities" />
 
 <div class="wiki-infobox-caption">The target of his focus — quality, growing businesses with durable competitive advantages.</div>
 

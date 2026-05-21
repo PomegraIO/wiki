@@ -6,7 +6,7 @@ keywords:
   - income bracket
   - tax rate
   - federal tax
-image: "https://picsum.photos/seed/tax-bracket-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **tax bracket** is a range of [taxable income](/tax-bracket-investor/) taxed at a single federal rate. The US has seven brackets ranging from 10% to 37%. Your bracket determines your [marginal tax rate](/marginal-tax-rate-investor/)—the rate applied to [short-term capital gains](/short-term-capital-gain-tax/) and [ordinary dividends](/ordinary-dividend/). Brackets are adjusted annually for inflation. Investors often overestimate their bracket; understand yours to make [tax-efficient investing](/capital-gains-tax-investor/) decisions.*
@@ -21,7 +21,7 @@ For your average rate across all brackets, see [effective tax rate investor](/ef
 
 <div class="wiki-infobox-title">Tax bracket for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/tax-bracket-investor/900/600" alt="A table of federal tax brackets" />
+<img src="/svg/taxes.svg" alt="A table of federal tax brackets" />
 
 <div class="wiki-infobox-caption">Seven federal brackets, each with rising rates as income rises.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - oil ETF
   - commodity exposure
   - fund
-image: "https://picsum.photos/seed/commodity-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **commodity ETF** is an [ETF](/etf) that gives investors exposure to commodities — gold, oil, natural gas, wheat, copper, and other raw materials. Most commodity ETFs hold [futures contracts](/option) rather than physical commodities, providing a liquid, exchange-traded way to bet on commodity prices without storing bars of gold in a vault.*
@@ -22,7 +22,7 @@ This entry covers commodity ETFs as portfolio tools. For commodities as an asset
 
 <div class="wiki-infobox-title">Commodity ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/commodity-etf/900/600" alt="A barrel of oil and gold bars in a trading environment" />
+<img src="/svg/funds.svg" alt="A barrel of oil and gold bars in a trading environment" />
 
 <div class="wiki-infobox-caption">Commodity ETFs provide price exposure without physical storage or delivery.</div>
 

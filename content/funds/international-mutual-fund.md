@@ -7,7 +7,7 @@ keywords:
   - developed markets
   - geographic diversification
   - fund
-image: "https://picsum.photos/seed/international-mutual-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **international mutual fund** (or **international ETF**) is a pooled investment vehicle holding [stocks](/stock) from developed countries outside the United States — Europe, Japan, Canada, Australia, and other established markets. International funds provide [geographic diversification](/diversification) but introduce [currency risk](/option) and lower [liquidity](/etf-bid-ask-spread) compared to US [stocks](/stock).*
@@ -22,7 +22,7 @@ This entry covers developed-market international funds. For emerging markets, se
 
 <div class="wiki-infobox-title">International Mutual Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/international-mutual-fund/900/600" alt="A world map highlighting developed international markets" />
+<img src="/svg/funds.svg" alt="A world map highlighting developed international markets" />
 
 <div class="wiki-infobox-caption">International funds diversify beyond US borders to established developed markets.</div>
 

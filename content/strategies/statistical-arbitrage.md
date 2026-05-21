@@ -8,7 +8,7 @@ keywords:
   - mean reversion
   - quantitative arbitrage
   - basket trading
-image: "https://picsum.photos/seed/statistical-arbitrage/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Statistical arbitrage (stat-arb) is a quantitative investment strategy of identifying statistical mispricings among multiple [stocks](/stock/) or assets — using regression models, correlation analysis, or other statistical techniques — then establishing offsetting long and short positions to exploit those mispricings while hedging market risk.*
@@ -23,7 +23,7 @@ For pairs trading, see [pairs trading](/pairs-trading/). For merger arbitrage, s
 
 <div class="wiki-infobox-title">Statistical arbitrage — key facts</div>
 
-<img src="https://picsum.photos/seed/statistical-arbitrage/900/600" alt="A basket of stocks identified as statistically mispriced relative to a model" />
+<img src="/svg/strategies.svg" alt="A basket of stocks identified as statistically mispriced relative to a model" />
 
 <div class="wiki-infobox-caption">Stat-arb strategies identify statistical patterns and exploit them via neutral portfolios.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - non-conforming loan
   - high-value property
   - expensive home
-image: "https://picsum.photos/seed/jumbo-loan/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **jumbo loan** is a mortgage that exceeds the conforming loan limits set by Fannie Mae and Freddie Mac (2024 baseline: >$766,550 for single-family homes). Jumbo loans have stricter underwriting requirements, higher interest rates, and larger down-payment minimums because they cannot be easily sold to the government-sponsored enterprises.*
@@ -22,7 +22,7 @@ For conforming loans, see [conforming-loan](/conforming-loan). For government pr
 
 <div class="wiki-infobox-title">Jumbo Loan — key facts</div>
 
-<img src="https://picsum.photos/seed/jumbo-loan/900/600" alt="An expensive residential property financed with a jumbo loan" />
+<img src="/svg/real-estate.svg" alt="An expensive residential property financed with a jumbo loan" />
 
 <div class="wiki-infobox-caption">Jumbo loans finance high-value properties in expensive markets.</div>
 

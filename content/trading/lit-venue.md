@@ -6,7 +6,7 @@ keywords:
   - public exchange
   - order book
   - price transparency
-image: "https://picsum.photos/seed/lit-venue/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **lit venue** is a public trading exchange — like the NYSE, NASDAQ, or regional exchanges — where orders are transparent and visible in the public order book. Buyers and sellers see exactly what sizes are available at each price, trades occur at the best available prices, and all transactions are reported immediately. Lit venues are the backbone of price discovery.*
@@ -21,7 +21,7 @@ For hidden trading venues, see [dark pool](/dark-pool). For orders hidden on a l
 
 <div class="wiki-infobox-title">Lit venue — key facts</div>
 
-<img src="https://picsum.photos/seed/lit-venue/900/600" alt="A trading terminal showing a transparent lit order book" />
+<img src="/svg/trading.svg" alt="A trading terminal showing a transparent lit order book" />
 
 <div class="wiki-infobox-caption">Lit venues: full transparency, real-time reporting, price discovery.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - standard vs itemized
   - deduction amount
   - taxable income
-image: "https://picsum.photos/seed/standard-deduction-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **standard deduction** is a fixed annual deduction from income that reduces your [taxable income](/tax-bracket-investor/). For 2024, it is $14,600 (single) or $29,200 (married filing jointly). Most taxpayers take the standard deduction rather than [itemizing deductions](/itemized-deduction-investor/). The standard deduction is adjusted annually for inflation. Understanding this amount is essential for calculating your [tax bracket](/tax-bracket-investor/) and effective tax rate.*
@@ -21,7 +21,7 @@ For cases where you itemize instead, see [itemized deduction investor](/itemized
 
 <div class="wiki-infobox-title">Standard deduction for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/standard-deduction-investor/900/600" alt="A table showing standard deduction amounts by filing status" />
+<img src="/svg/taxes.svg" alt="A table showing standard deduction amounts by filing status" />
 
 <div class="wiki-infobox-caption">Standard deduction reduces taxable income for most taxpayers.</div>
 

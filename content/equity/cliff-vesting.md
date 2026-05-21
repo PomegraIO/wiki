@@ -7,7 +7,7 @@ keywords:
   - vesting cliff
   - equity vesting
   - retention
-image: "https://picsum.photos/seed/cliff-vesting/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Cliff vesting is a type of [vesting schedule](/equity/vesting-schedule/) in which equity remains completely forfeit until a specified date (the "cliff"), at which point a large tranche vests all at once, after which remaining equity vests gradually. The classic structure is 4 years with a 1-year cliff: nothing vests for 1 year, then 25% vests immediately, then monthly thereafter. The cliff is a key retention mechanism because employees who leave before reaching it forfeit everything.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/cliff-vesting/900/600"
 
 <div class="wiki-infobox-title">Cliff vesting — key facts</div>
 
-<img src="https://picsum.photos/seed/cliff-vesting/900/600" alt="A chart showing cliff vesting over four years" />
+<img src="/svg/equity.svg" alt="A chart showing cliff vesting over four years" />
 
 <div class="wiki-infobox-caption">All-or-nothing vesting until the cliff, then gradual unlock.</div>
 

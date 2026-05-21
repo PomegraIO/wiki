@@ -7,7 +7,7 @@ keywords:
   - development
   - high return
   - speculative real estate
-image: "https://picsum.photos/seed/opportunistic-real-estate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **opportunistic** real estate strategy targets high-risk, high-reward investments: distressed properties facing default, ground-up development projects, major repositioning (converting office to residential), or market dislocations. Opportunistic investments target 20%+ annual returns but carry significant execution and market risk.*
@@ -22,7 +22,7 @@ For comparison, see [core-real-estate](/core-real-estate) (stable, low-return) a
 
 <div class="wiki-infobox-title">Opportunistic Real Estate — key facts</div>
 
-<img src="https://picsum.photos/seed/opportunistic-real-estate/900/600" alt="A distressed property or development site" />
+<img src="/svg/real-estate.svg" alt="A distressed property or development site" />
 
 <div class="wiki-infobox-caption">Opportunistic investors target high-risk bets for outsized returns.</div>
 

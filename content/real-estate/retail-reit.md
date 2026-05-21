@@ -7,7 +7,7 @@ keywords:
   - mall
   - strip mall
   - e-commerce impact
-image: "https://picsum.photos/seed/retail-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **retail REIT** owns and operates shopping centers, malls, high-street retail properties, and other commercial spaces where retailers operate. Retail REITs have been among the weakest-performing REIT sectors, facing structural headwinds from e-commerce adoption and the decline of traditional brick-and-mortar retail.*
@@ -22,7 +22,7 @@ This entry focuses on retail REITs as a property sector. For the broader REIT st
 
 <div class="wiki-infobox-title">Retail REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/retail-reit/900/600" alt="A shopping center or retail property" />
+<img src="/svg/real-estate.svg" alt="A shopping center or retail property" />
 
 <div class="wiki-infobox-caption">Retail REITs own the shopping centers and malls facing pressure from online retail.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - valuation risk
   - tornado chart
   - one-way table
-image: "https://picsum.photos/seed/sensitivity-analysis-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **sensitivity analysis** in valuation asks: if my assumption about growth is wrong by 1%, how much does the valuation change? What if discount rate is wrong? Which assumptions move the needle on value the most? It is an essential part of any rigorous DCF or multiples analysis, exposing which assumptions are fragile and which are robust.*

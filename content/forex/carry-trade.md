@@ -7,7 +7,7 @@ keywords:
   - funding currency
   - yen carry trade
   - unwinding
-image: "https://picsum.photos/seed/carry-trade/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **carry trade** is a forex strategy in which a trader borrows in a low-[interest-rate](/interest-rate) currency (the funding currency) and invests in a higher-interest-rate currency (the investment currency), profiting from the interest-rate differential. For decades, borrowing in [Japanese yen](/japanese-yen) (at near-zero rates) and investing in US dollars or emerging-market bonds (at 3–6% rates) was the canonical carry trade. Carry trades are profitable in calm markets but unwind violently when risk appetite collapses.*
@@ -22,7 +22,7 @@ For the mechanics of interest-rate differentials, see interest-rate parity; for 
 
 <div class="wiki-infobox-title">Carry Trade — key facts</div>
 
-<img src="https://picsum.photos/seed/carry-trade/900/600" alt="A carry trade diagram showing borrowing and investing across currencies" />
+<img src="/svg/forex.svg" alt="A carry trade diagram showing borrowing and investing across currencies" />
 
 <div class="wiki-infobox-caption">Profit from interest-rate differentials; suffer from unwinding crashes.</div>
 

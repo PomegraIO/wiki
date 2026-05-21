@@ -8,7 +8,7 @@ keywords:
   - dual-slashing
   - middleware
   - yield
-image: "https://picsum.photos/seed/restaking/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **restaking** mechanism allows users to use cryptocurrency already staked in a [proof-of-stake](/proof-of-stake) network (like [Ethereum](/ethereum)) to also secure other applications, sidechains, or services. Restaking increases yield but introduces additional slashing risks: if the restaked application is compromised, the original stake could be slashed.*
@@ -23,7 +23,7 @@ This entry covers restaking as a concept. For the underlying staking, see [staki
 
 <div class="wiki-infobox-title">Restaking — key facts</div>
 
-<img src="https://picsum.photos/seed/restaking/900/600" alt="Restaking architecture with multiple layers" />
+<img src="/svg/crypto.svg" alt="Restaking architecture with multiple layers" />
 
 <div class="wiki-infobox-caption">Restaking: earning yield on staking by securing multiple applications.</div>
 

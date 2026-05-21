@@ -8,7 +8,7 @@ keywords:
   - staggered maturity
   - timing hedge
   - income ladder
-image: "https://picsum.photos/seed/ladder-strategy/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A ladder strategy is an investment approach of purchasing fixed-income securities (such as [bonds](/bond/) or CDs) with maturity dates spaced evenly across time — one maturing in 1 year, one in 2 years, one in 3 years, etc. The result is a **ladder** of maturities, reducing timing risk and creating predictable income and principal repayment.*
@@ -23,7 +23,7 @@ For single-maturity concentration, see [bullet strategy](/bullet-strategy/). For
 
 <div class="wiki-infobox-title">Ladder strategy — key facts</div>
 
-<img src="https://picsum.photos/seed/ladder-strategy/900/600" alt="Bonds with staggered maturity dates from 1 year to 10 years" />
+<img src="/svg/strategies.svg" alt="Bonds with staggered maturity dates from 1 year to 10 years" />
 
 <div class="wiki-infobox-caption">Ladder investors receive principal in predictable chunks, reducing timing and reinvestment risk.</div>
 

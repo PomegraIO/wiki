@@ -8,7 +8,7 @@ keywords:
   - dividend traps
   - REITs
   - yield
-image: "https://picsum.photos/seed/high-yield-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *High-yield investing prioritizes stocks paying the highest possible [dividends](/dividend/), typically 5–12% or more, seeking to generate maximum current income from a portfolio. It is most attractive to investors needing cash flow and willing to accept higher risk for it.*
@@ -23,7 +23,7 @@ For rising dividends over time, see [dividend-growth investing](/dividend-growth
 
 <div class="wiki-infobox-title">High-yield investing — key facts</div>
 
-<img src="https://picsum.photos/seed/high-yield-investing/900/600" alt="A high-yield dividend payment announement" />
+<img src="/svg/strategies.svg" alt="A high-yield dividend payment announement" />
 
 <div class="wiki-infobox-caption">High-yield hunters accept volatility and risk for maximum cash payouts.</div>
 

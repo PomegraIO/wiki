@@ -7,7 +7,7 @@ keywords:
   - excess liability
   - personal liability
   - liability coverage
-image: "https://picsum.photos/seed/umbrella-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *An **umbrella insurance** policy is liability insurance that provides coverage above the limits of your homeowner's and auto insurance. For a small premium ($150–$300/year), it covers major liability claims that would otherwise drain personal assets.*
@@ -22,7 +22,7 @@ For home and auto liability, see [homeowners insurance](/homeowners-insurance) a
 
 <div class="wiki-infobox-title">Umbrella Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/umbrella-insurance/900/600" alt="A person with an umbrella covering multiple insurance policies" />
+<img src="/svg/personal-finance.svg" alt="A person with an umbrella covering multiple insurance policies" />
 
 <div class="wiki-infobox-caption">The model: broad liability coverage above primary policies.</div>
 

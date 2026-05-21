@@ -7,7 +7,7 @@ keywords:
   - benchmark rate
   - Bank of England
   - interest rate
-image: "https://picsum.photos/seed/sonia/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **SONIA** (Sterling Overnight Index Average) is a benchmark [interest rate](/interest-rate) that measures the cost of overnight unsecured borrowing in sterling (British pounds). Calculated as a volume-weighted average of actual overnight lending transactions, SONIA is more reliable than its panel-based predecessor and has become the Bank of England's preferred replacement for GBP [LIBOR](/libor).*
@@ -22,7 +22,7 @@ This entry covers SONIA's mechanics and role. For parallel rates in other curren
 
 <div class="wiki-infobox-title">SONIA — key facts</div>
 
-<img src="https://picsum.photos/seed/sonia/900/600" alt="Sterling overnight lending transactions" />
+<img src="/svg/monetary.svg" alt="Sterling overnight lending transactions" />
 
 <div class="wiki-infobox-caption">SONIA is based on actual observed transactions in the sterling overnight market.</div>
 

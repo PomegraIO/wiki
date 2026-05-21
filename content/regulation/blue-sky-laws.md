@@ -6,7 +6,7 @@ keywords:
   - state securities regulation
   - securities registration
   - state compliance
-image: "https://picsum.photos/seed/blue-sky-laws/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Blue-sky laws are state securities laws enacted by each state to regulate securities offerings within that state. The name supposedly comes from the phrase "as much value as a patch of blue sky," referring to worthless securities. They predate the federal [Securities Act of 1933](/securities-act-of-1933) and require companies to register securities offerings with state regulators and disclose information to prevent fraud. While the federal government is the primary regulator of securities, blue-sky laws remain a patchwork of state-level requirements.*
@@ -21,7 +21,7 @@ Blue-sky laws are state-level regulation. The [Securities Act of 1933](/securiti
 
 <div class="wiki-infobox-title">Blue-Sky Laws — key facts</div>
 
-<img src="https://picsum.photos/seed/blue-sky-laws/900/600" alt="State securities regulators" />
+<img src="/svg/regulation.svg" alt="State securities regulators" />
 
 <div class="wiki-infobox-caption">State securities administrators apply blue-sky laws.</div>
 

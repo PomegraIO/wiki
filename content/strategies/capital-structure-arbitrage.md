@@ -8,7 +8,7 @@ keywords:
   - structural mispricing
   - bond-equity spread
   - credit arbitrage
-image: "https://picsum.photos/seed/capital-structure-arbitrage/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Capital-structure arbitrage is a strategy of simultaneously trading a company's [stock](/stock/) and [bonds](/bond/) (or other capital-structure instruments) to exploit relative mispricings. The arbitrageur bets that when equity and debt are mispriced relative to each other, their values will converge.*
@@ -23,7 +23,7 @@ For merger arbitrage, see [merger arbitrage](/merger-arbitrage/). For broader ar
 
 <div class="wiki-infobox-title">Capital-structure arbitrage — key facts</div>
 
-<img src="https://picsum.photos/seed/capital-structure-arbitrage/900/600" alt="A company's stock and bonds with divergent implied default probabilities" />
+<img src="/svg/strategies.svg" alt="A company's stock and bonds with divergent implied default probabilities" />
 
 <div class="wiki-infobox-caption">Capital-structure arbitrageurs profit when equity and debt mispricing converges.</div>
 

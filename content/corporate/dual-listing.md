@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - multiple exchanges
   - international listing
-image: "https://picsum.photos/seed/dual-listing/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **dual listing** (or **cross-listing**) is when a company lists its shares on stock exchanges in multiple jurisdictions, typically in two or more countries. The company issues one class of shares that trade simultaneously on multiple exchanges, allowing investors in different markets to buy and sell the same security. Dual listings enable companies to access capital from multiple countries, increase liquidity, and broaden their investor base. A dual listing differs from a [dual-class share structure](/dual-class-share-structure), which refers to different classes of shares with different voting rights.*
@@ -22,7 +22,7 @@ This entry covers dual listings as a multi-exchange listing strategy. For dual-c
 
 <div class="wiki-infobox-title">Dual listing — key facts</div>
 
-<img src="https://picsum.photos/seed/dual-listing/900/600" alt="Shares trading on multiple exchanges" />
+<img src="/svg/corporate.svg" alt="Shares trading on multiple exchanges" />
 
 <div class="wiki-infobox-caption">A dual listing allows trading on exchanges in different countries.</div>
 

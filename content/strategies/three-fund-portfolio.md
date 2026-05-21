@@ -8,7 +8,7 @@ keywords:
   - passive investing
   - low-cost investing
   - lazy portfolio
-image: "https://picsum.photos/seed/three-fund-portfolio/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A three-fund portfolio is a minimalist [asset-allocation](/asset-allocation/) strategy using just three [index funds](/index-fund/): a total US [stock](/stock/) market fund, an international stock fund, and a bond fund. It provides broad global diversification, minimal costs, and simplicity, making it ideal for buy-and-hold investors who want no-fuss investing.*
@@ -23,7 +23,7 @@ For simpler approaches, see [lazy portfolio](/lazy-portfolio/). For more complex
 
 <div class="wiki-infobox-title">Three-fund portfolio — key facts</div>
 
-<img src="https://picsum.photos/seed/three-fund-portfolio/900/600" alt="Three index funds representing US stocks, international stocks, and bonds" />
+<img src="/svg/strategies.svg" alt="Three index funds representing US stocks, international stocks, and bonds" />
 
 <div class="wiki-infobox-caption">Three-fund investors achieve global diversification with three funds and annual rebalancing.</div>
 

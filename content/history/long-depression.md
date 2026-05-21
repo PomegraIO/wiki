@@ -7,7 +7,7 @@ keywords:
   - 1870s–1890s
   - gold standard
   - economic history
-image: "https://picsum.photos/seed/long-depression/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Long Depression** was not a single panic but a prolonged era of deflation, stagnation, and social hardship spanning roughly 1873 to 1896. Starting with the Panic of 1873, prices fell year after year, wages stagnated, and growth stuttered. The gold standard prevented policymakers from expanding the money supply to counteract the deflation, leaving the era's working poor with no relief.*
@@ -22,7 +22,7 @@ This entry covers the Long Depression as a whole. For the panic that triggered i
 
 <div class="wiki-infobox-title">Long Depression — key facts</div>
 
-<img src="https://picsum.photos/seed/long-depression/900/600" alt="A photograph of a shuttered factory from the 1880s, symbolizing industrial stagnation" />
+<img src="/svg/history.svg" alt="A photograph of a shuttered factory from the 1880s, symbolizing industrial stagnation" />
 
 <div class="wiki-infobox-caption">Industrial capacity stood idle as demand collapsed and stayed depressed for over a decade.</div>
 

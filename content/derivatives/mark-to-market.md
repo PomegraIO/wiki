@@ -7,7 +7,7 @@ keywords:
   - daily settlement
   - derivatives accounting
   - futures settlement
-image: "https://picsum.photos/seed/mark-to-market/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **mark-to-market (MTM)** process revalues [futures contract](/futures-contract)s and other derivatives to current market prices at the end of each trading day. Gains and losses are calculated and immediately credited or debited to the trader's account. This daily settlement—unique to futures and some exchange-traded options—differs from [forward contract](/forward-contract)s, which settle only at [expiration date](/expiration-date). Mark-to-market reduces counterparty risk and forces traders to post [margin](/initial-margin) to maintain positions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/mark-to-market/900/600"
 
 <div class="wiki-infobox-title">Mark-to-Market — key facts</div>
 
-<img src="https://picsum.photos/seed/mark-to-market/900/600" alt="Daily settlement of gains and losses" />
+<img src="/svg/derivatives.svg" alt="Daily settlement of gains and losses" />
 
 <div class="wiki-infobox-caption">MTM settles positions daily at market prices.</div>
 

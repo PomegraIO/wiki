@@ -7,7 +7,7 @@ keywords:
   - currency denomination
   - supranational bond
   - offshore bond
-image: "https://picsum.photos/seed/eurobond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **eurobond** is a debt security issued internationally outside the home country of the issuer, denominated in a currency different from the currency of the country where it is sold. The term "euro" refers to the international nature (not the EUR currency). Eurobonds are issued by corporations, governments, and supranational institutions and trade in an unregulated, over-the-counter secondary market.*
@@ -22,7 +22,7 @@ For domestic bonds, see [corporate bond](/corporate-bond) and [municipal bond](/
 
 <div class="wiki-infobox-title">Eurobond — key facts</div>
 
-<img src="https://picsum.photos/seed/eurobond/900/600" alt="A world map showing international bond markets and currencies" />
+<img src="/svg/fixed-income.svg" alt="A world map showing international bond markets and currencies" />
 
 <div class="wiki-infobox-caption">Eurobonds facilitate international capital flows across currencies and borders.</div>
 

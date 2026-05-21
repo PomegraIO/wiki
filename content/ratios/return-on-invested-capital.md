@@ -7,7 +7,7 @@ keywords:
   - capital efficiency
   - profitability
   - invested capital
-image: "https://picsum.photos/seed/return-on-invested-capital/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on invested capital** — or **ROIC** — divides after-tax operating profit by invested capital (equity plus debt) and expresses it as a percentage. It measures how much profit the company generates on all capital, regardless of whether that capital came from equity holders or debt holders. A ROIC above the cost of capital signals value creation; below it signals value destruction.*
@@ -22,7 +22,7 @@ This entry covers capital efficiency across all investors. For equity-only retur
 
 <div class="wiki-infobox-title">Return on Invested Capital — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-invested-capital/900/600" alt="Profit generated from all investor capital" />
+<img src="/svg/ratios.svg" alt="Profit generated from all investor capital" />
 
 <div class="wiki-infobox-caption">How well all capital is deployed, equity and debt combined.</div>
 

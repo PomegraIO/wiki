@@ -7,7 +7,7 @@ keywords:
   - credit risk
   - coupon bond
   - bond maturity
-image: "https://picsum.photos/seed/corporate-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **corporate bond** is a debt security issued by a company (usually a public company) to raise capital for operations, expansion, acquisitions, or refinancing. Unlike [stocks](/stock), which confer ownership, bonds are liabilities of the company and promise regular coupon payments and return of principal at maturity. Bondholders are [creditors](/broker), standing ahead of shareholders in claims on assets during distress.*
@@ -22,7 +22,7 @@ For government debt, see [Treasury bond](/treasury-bond) and [municipal bond](/m
 
 <div class="wiki-infobox-title">Corporate Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/corporate-bond/900/600" alt="A corporate office building representing a company issuing bonds" />
+<img src="/svg/fixed-income.svg" alt="A corporate office building representing a company issuing bonds" />
 
 <div class="wiki-infobox-caption">Corporations use bonds to raise capital for growth and operations.</div>
 

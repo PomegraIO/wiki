@@ -7,7 +7,7 @@ keywords:
   - cloud computing
   - computing infrastructure
   - colocation
-image: "https://picsum.photos/seed/data-center-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **data-center REIT** owns and operates server farms, colocation facilities, and computing infrastructure, leasing space and power to hyperscalers (cloud providers like Amazon and Microsoft), technology companies, and internet services. This is among the fastest-growing REIT sectors, driven by explosive demand for cloud computing and artificial intelligence infrastructure.*
@@ -22,7 +22,7 @@ This entry focuses on data-center REITs as a sector. For the broader REIT struct
 
 <div class="wiki-infobox-title">Data Center REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/data-center-reit/900/600" alt="A data center facility with server racks and cooling systems" />
+<img src="/svg/real-estate.svg" alt="A data center facility with server racks and cooling systems" />
 
 <div class="wiki-infobox-caption">Data centers house the computing infrastructure behind cloud services and artificial intelligence.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - small business lending
   - closed-end fund
   - fund
-image: "https://picsum.photos/seed/business-development-company/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **Business Development Company (BDC)** is a closed-end investment company registered under the Investment Company Act of 1940 that invests at least 70% of its assets in small and mid-sized private companies. BDCs make loans to, take equity stakes in, and provide consulting to private companies in exchange for high yields and equity upside. BDCs are publicly traded on exchanges, offering 7–10% yields to individual investors.*
@@ -23,7 +23,7 @@ This entry covers BDCs as a vehicle. For the broader private credit market, see 
 
 <div class="wiki-infobox-title">Business Development Company — key facts</div>
 
-<img src="https://picsum.photos/seed/business-development-company/900/600" alt="A lending agreement between a BDC and a private company" />
+<img src="/svg/funds.svg" alt="A lending agreement between a BDC and a private company" />
 
 <div class="wiki-infobox-caption">BDCs provide capital and expertise to small and mid-market private firms.</div>
 

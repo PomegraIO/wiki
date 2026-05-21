@@ -6,7 +6,7 @@ keywords:
   - good-til-date
   - time-in-force
   - order expiration
-image: "https://picsum.photos/seed/gtd-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **GTD order** (good-til-date) is an order that remains active until a date you specify. If the order does not fill by that date, it is automatically canceled. GTD is a middle ground: longer-lived than a [day order](/day-order), but with a known expiration date (unlike a [GTC order](/gtc-order) that relies on the broker's auto-expiration).*
@@ -21,7 +21,7 @@ For orders that expire at day's end, see [day order](/day-order). For open-ended
 
 <div class="wiki-infobox-title">GTD order — key facts</div>
 
-<img src="https://picsum.photos/seed/gtd-order/900/600" alt="A calendar showing a GTD order expiring on a chosen date" />
+<img src="/svg/trading.svg" alt="A calendar showing a GTD order expiring on a chosen date" />
 
 <div class="wiki-infobox-caption">You choose the expiration date; the order lives until that day at market close.</div>
 

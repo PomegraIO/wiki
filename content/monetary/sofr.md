@@ -7,7 +7,7 @@ keywords:
   - benchmark rate
   - repo
   - LIBOR replacement
-image: "https://picsum.photos/seed/sofr/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **SOFR** (Secured Overnight Financing Rate) is a benchmark [interest rate](/interest-rate) based on the volume-weighted median rate of secured overnight repo transactions in the US Treasury market. Published daily by the Federal Reserve, SOFR is designed to be a reliable, transaction-based replacement for [LIBOR](/libor) and is rapidly becoming the standard reference rate for USD-denominated financial contracts.*
@@ -22,7 +22,7 @@ This entry covers SOFR's mechanics and role. For its international counterparts,
 
 <div class="wiki-infobox-title">SOFR — key facts</div>
 
-<img src="https://picsum.photos/seed/sofr/900/600" alt="SOFR rate calculation based on Treasury repo trades" />
+<img src="/svg/monetary.svg" alt="SOFR rate calculation based on Treasury repo trades" />
 
 <div class="wiki-infobox-caption">SOFR measures the actual cost of borrowing against Treasury collateral overnight.</div>
 

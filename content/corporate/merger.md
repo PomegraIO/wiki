@@ -7,7 +7,7 @@ keywords:
   - consolidation
   - acquisition
   - combination
-image: "https://picsum.photos/seed/merger/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **merger** is a corporate transaction in which two companies combine into a single legal entity. The acquisition of one company by another, though structurally distinct, achieves the same economic outcome and is often called a merger in common parlance. Mergers are the most visible form of corporate restructuring and are central to the machinery of capital allocation in modern markets.*
@@ -22,7 +22,7 @@ This entry covers the general mechanics of a merger. For hostile combinations, s
 
 <div class="wiki-infobox-title">Merger — key facts</div>
 
-<img src="https://picsum.photos/seed/merger/900/600" alt="Two companies converging into one" />
+<img src="/svg/corporate.svg" alt="Two companies converging into one" />
 
 <div class="wiki-infobox-caption">A merger unites two separate entities into one.</div>
 

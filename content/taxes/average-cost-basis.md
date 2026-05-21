@@ -6,7 +6,7 @@ keywords:
   - cost basis method
   - basis averaging
   - tax efficiency
-image: "https://picsum.photos/seed/average-cost-basis/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **average cost basis** method calculates your [cost basis](/cost-basis/) by averaging the purchase price you paid across all [shares](/stock/) you own of a given holding. If you bought 100 [shares](/stock/) at $50, then 100 at $100, your average basis is $75. When you sell, all [shares](/stock/) are treated as sold at that average price. It is simple but rarely the most tax-efficient [basis method](/cost-basis/).*
@@ -21,7 +21,7 @@ For alternatives, see [specific identification](/specific-identification-basis/)
 
 <div class="wiki-infobox-title">Average cost basis — key facts</div>
 
-<img src="https://picsum.photos/seed/average-cost-basis/900/600" alt="A calculation showing averaged purchase prices" />
+<img src="/svg/taxes.svg" alt="A calculation showing averaged purchase prices" />
 
 <div class="wiki-infobox-caption">Average all your purchases and treat each share as if bought at that average price.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - Regulation A+
   - emerging growth company
   - securities exemption
-image: "https://picsum.photos/seed/jobs-act/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **JOBS Act** (Jumpstart Our Business Startups Act), enacted in 2012, eased securities regulations to help small companies and startups raise capital more easily. It created [Regulation Crowdfunding](/regulation-cf) (allowing companies to raise up to $5 million from many small investors online), expanded [Regulation A](/regulation-a) (allowing bigger small offerings), reduced reporting burdens for "emerging growth companies," and created exemptions for online fundraising platforms. The Act was meant to free capital for entrepreneurship.*
@@ -23,7 +23,7 @@ The JOBS Act applies to securities offerings by smaller companies. The [Securiti
 
 <div class="wiki-infobox-title">JOBS Act — key facts</div>
 
-<img src="https://picsum.photos/seed/jobs-act/900/600" alt="The JOBS Act text" />
+<img src="/svg/regulation.svg" alt="The JOBS Act text" />
 
 <div class="wiki-infobox-caption">The JOBS Act of 2012.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - option contract
   - strike price
   - bullish strategy
-image: "https://picsum.photos/seed/call-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **call option** is a contract granting the holder the right—but not the obligation—to purchase an underlying [stock](/stock) (or other asset) at a predetermined [strike price](/strike-price) on or before an [expiration date](/expiration-date). The buyer pays an [option premium](/option-premium) upfront for that right, betting that the asset's price will rise above the strike price before expiration.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/call-option/900/600"
 
 <div class="wiki-infobox-title">Call Option — key facts</div>
 
-<img src="https://picsum.photos/seed/call-option/900/600" alt="A contract document with upward price arrow" />
+<img src="/svg/derivatives.svg" alt="A contract document with upward price arrow" />
 
 <div class="wiki-infobox-caption">A call option grants the right to buy at a locked-in price.</div>
 

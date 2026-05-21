@@ -7,7 +7,7 @@ keywords:
   - capital ratio
   - liquidity coverage ratio
   - international banking regulation
-image: "https://picsum.photos/seed/basel-iii/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Basel III](/basel-iii) is an international banking regulation established by the Basel Committee on Banking Supervision (a group of central banks) in response to the 2008 financial crisis. It sets minimum capital ratios, liquidity standards, and leverage limits for banks globally. Banks must hold capital equal to 7–10.5% of risk-weighted assets (depending on the type of capital) and maintain liquid assets covering 30 days of outflows. Basel III dramatically increased capital requirements compared to predecessor Basel II.*
@@ -22,7 +22,7 @@ Basel III is international regulation. The [Federal Reserve](/federal-reserve-re
 
 <div class="wiki-infobox-title">Basel III — key facts</div>
 
-<img src="https://picsum.photos/seed/basel-iii/900/600" alt="A Basel III compliance document" />
+<img src="/svg/regulation.svg" alt="A Basel III compliance document" />
 
 <div class="wiki-infobox-caption">Basel III capital standards for banks.</div>
 

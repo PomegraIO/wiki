@@ -7,7 +7,7 @@ keywords:
   - time decay
   - daily decay
   - option value erosion
-image: "https://picsum.photos/seed/theta/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **theta** of an option is the rate at which its [time value](/time-value) decays as one day passes. Theta is negative for [option](/option) buyers (the option loses value daily) and positive for option sellers (the decay works in your favor). Theta accelerates as [expiration date](/expiration-date) approaches, with the steepest decay occurring in the final week. All else equal, theta favors the seller and penalizes the buyer.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/theta/900/600"
 
 <div class="wiki-infobox-title">Theta — key facts</div>
 
-<img src="https://picsum.photos/seed/theta/900/600" alt="Decay curve showing accelerating time value loss" />
+<img src="/svg/derivatives.svg" alt="Decay curve showing accelerating time value loss" />
 
 <div class="wiki-infobox-caption">Theta quantifies daily time value decay.</div>
 

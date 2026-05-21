@@ -7,7 +7,7 @@ keywords:
   - cash flow
   - valuation
   - operating cash flow
-image: "https://picsum.photos/seed/price-to-cash-flow-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **price-to-cash flow ratio** — or **P/CF ratio** — divides market capitalization by a company's annual operating cash flow. It answers the question: how much are investors paying per dollar of actual cash the business generates? Because it uses cash rather than accounting earnings, it is immune to many earnings-manipulation tricks.*
@@ -22,7 +22,7 @@ This entry covers a cash-flow-based valuation metric. For earnings-based alterna
 
 <div class="wiki-infobox-title">Price-to-Cash Flow Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/price-to-cash-flow-ratio/900/600" alt="Cash flowing through a business pipeline" />
+<img src="/svg/ratios.svg" alt="Cash flowing through a business pipeline" />
 
 <div class="wiki-infobox-caption">Actual cash moving through the business — the most reliable truth.</div>
 

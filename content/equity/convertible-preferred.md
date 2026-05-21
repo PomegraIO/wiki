@@ -7,7 +7,7 @@ keywords:
   - conversion feature
   - hybrid security
   - preferred stock
-image: "https://picsum.photos/seed/convertible-preferred/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Convertible preferred stock is a security that shares characteristics of both [preferred stock](/equity/preferred-stock/) and [common stock](/equity/common-stock/). The holder receives a fixed [dividend](/dividend/) (like preferred stock) and retains the priority in liquidation (senior to common), but also has the option to convert shares into [common stock](/equity/common-stock/) at a pre-set ratio, allowing the holder to capture upside if the company does well.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/convertible-preferred/900/600"
 
 <div class="wiki-infobox-title">Convertible preferred stock — key facts</div>
 
-<img src="https://picsum.photos/seed/convertible-preferred/900/600" alt="A preferred stock certificate showing conversion terms" />
+<img src="/svg/equity.svg" alt="A preferred stock certificate showing conversion terms" />
 
 <div class="wiki-infobox-caption">Fixed income with embedded upside option.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - stochastic simulation
   - Monte Carlo simulation
   - risk simulation
-image: "https://picsum.photos/seed/monte-carlo-var/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Monte Carlo value-at-risk (Monte Carlo VaR) is a risk measurement method that simulates thousands or millions of possible future market scenarios using probabilistic models of price movements, correlations, and volatility. The [value-at-risk](/value-at-risk) is then calculated from the distribution of simulated portfolio losses.*
@@ -22,7 +22,7 @@ This entry covers Monte Carlo VaR calculation. For alternative VaR methods, see 
 
 <div class="wiki-infobox-title">Monte Carlo VaR — key facts</div>
 
-<img src="https://picsum.photos/seed/monte-carlo-var/900/600" alt="A simulation showing many possible price paths branching from an initial point" />
+<img src="/svg/risk.svg" alt="A simulation showing many possible price paths branching from an initial point" />
 
 <div class="wiki-infobox-caption">Monte Carlo VaR simulates thousands of future paths to estimate tail losses.</div>
 

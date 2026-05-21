@@ -7,7 +7,7 @@ keywords:
   - insider sale
   - shareholder offering
   - block sale
-image: "https://picsum.photos/seed/secondary-offering/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A secondary offering is the sale of [shares](/stock/) by existing shareholders (such as founders, early investors, or employees) into the public market. Unlike a [primary offering](/initial-public-offering/), in which the company issues new shares and raises capital for itself, a secondary offering issues no new shares; the company does not receive proceeds. Instead, proceeds go to the selling shareholders, who use them to diversify, pay taxes, or achieve liquidity. Secondary offerings are common after IPOs and in mature public companies.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/secondary-offering/900/600"
 
 <div class="wiki-infobox-title">Secondary offering — key facts</div>
 
-<img src="https://picsum.photos/seed/secondary-offering/900/600" alt="A secondary offering prospectus showing selling shareholder info" />
+<img src="/svg/equity.svg" alt="A secondary offering prospectus showing selling shareholder info" />
 
 <div class="wiki-infobox-caption">Shareholder sale into public market, capital to seller not company.</div>
 

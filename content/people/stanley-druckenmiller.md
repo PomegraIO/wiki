@@ -7,7 +7,7 @@ keywords:
   - hedge fund
   - conviction trading
   - quantum fund
-image: "https://picsum.photos/seed/stanley-druckenmiller/900/600"
+image: "/svg/people.svg"
 ---
 
 *Stanley Druckenmiller spent four decades compounding capital through a combination of macro analysis, disciplined risk management, and the courage to place outsized bets when the crowd was wrong, posting returns that rival the greats.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/stanley-druckenmiller/900/600"
 
 <div class="wiki-infobox-title">Stanley Druckenmiller — key facts</div>
 
-<img src="https://picsum.photos/seed/stanley-druckenmiller/900/600" alt="A trading screen with global market data flowing across it" />
+<img src="/svg/people.svg" alt="A trading screen with global market data flowing across it" />
 
 <div class="wiki-infobox-caption">The trader's domain — where pattern and conviction converge.</div>
 

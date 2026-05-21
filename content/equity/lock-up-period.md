@@ -7,7 +7,7 @@ keywords:
   - trading restriction
   - insider selling
   - post-IPO restriction
-image: "https://picsum.photos/seed/lock-up-period/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A lock-up period is a contractual prohibition on selling shares held by company insiders, employees, and early investors, typically lasting six months after an [initial public offering](/initial-public-offering/). Lock-up agreements are standard in IPOs to prevent mass insider selling immediately after the stock goes public, which would depress the price and signal insider pessimism. Upon expiration, insiders are free to sell, which often causes a temporary stock price dip.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/lock-up-period/900/600"
 
 <div class="wiki-infobox-title">Lock-up period — key facts</div>
 
-<img src="https://picsum.photos/seed/lock-up-period/900/600" alt="A timeline showing lock-up expiration and post-expiration selling" />
+<img src="/svg/equity.svg" alt="A timeline showing lock-up expiration and post-expiration selling" />
 
 <div class="wiki-infobox-caption">Contractual restriction on insider selling for a defined period.</div>
 

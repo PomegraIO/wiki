@@ -6,7 +6,7 @@ keywords:
   - government revenue
   - fiscal policy
   - debt reduction
-image: "https://picsum.photos/seed/budget-surplus/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **budget surplus** occurs when a government collects more in revenue than it spends during a fiscal year. The surplus is the opposite of a [budget deficit](/budget-deficit) and represents excess money that can be used to reduce [national debt](/national-debt) or saved for future contingencies.*
@@ -21,7 +21,7 @@ This entry covers the annual fiscal excess. For the reduction of the cumulative 
 
 <div class="wiki-infobox-title">Budget Surplus — key facts</div>
 
-<img src="https://picsum.photos/seed/budget-surplus/900/600" alt="Government budget surplus concepts" />
+<img src="/svg/fiscal.svg" alt="Government budget surplus concepts" />
 
 <div class="wiki-infobox-caption">Budget surpluses reduce national debt and accumulate government reserves.</div>
 

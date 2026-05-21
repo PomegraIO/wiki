@@ -7,7 +7,7 @@ keywords:
   - short-term debt
   - discount security
   - money market
-image: "https://picsum.photos/seed/treasury-bill/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **Treasury bill** — or **T-Bill** — is a short-term debt security issued by the [U.S. Department of the Treasury](/federal-reserve) with a maturity of one year or less. Rather than paying periodic [coupon](/coupon-rate) payments, T-Bills are issued at a discount to [par value](/par-value) and redeemed at face value at maturity, with the difference constituting the investor's return.*
@@ -22,7 +22,7 @@ For longer-dated Treasury securities, see [Treasury note](/treasury-note) and [T
 
 <div class="wiki-infobox-title">Treasury Bill — key facts</div>
 
-<img src="https://picsum.photos/seed/treasury-bill/900/600" alt="A closeup of a U.S. Treasury note showing security features and denomination" />
+<img src="/svg/fixed-income.svg" alt="A closeup of a U.S. Treasury note showing security features and denomination" />
 
 <div class="wiki-infobox-caption">U.S. Treasury securities form the backbone of global money markets.</div>
 

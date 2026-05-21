@@ -7,7 +7,7 @@ keywords:
   - holding losers
   - behavioral bias
   - loss realization
-image: "https://picsum.photos/seed/disposition-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Disposition effect is the tendency to sell winners (realizing gains) and hold losers (deferring losses), even though the optimal strategy is usually to let winners run and cut losers. This bias has been observed repeatedly in market data and is one of the most costly behavioral mistakes.*
@@ -22,7 +22,7 @@ An empirical finding with deep roots in loss aversion and mental accounting. Rel
 
 <div class="wiki-infobox-title">Disposition effect — key facts</div>
 
-<img src="https://picsum.photos/seed/disposition-effect/900/600" alt="A hand dropping a trophy while gripping a broken item tightly" />
+<img src="/svg/behavioral.svg" alt="A hand dropping a trophy while gripping a broken item tightly" />
 
 <div class="wiki-infobox-caption">Quick to release winners; slow to release losers.</div>
 

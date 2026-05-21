@@ -7,7 +7,7 @@ keywords:
   - government spending
   - legislative package
   - budget authorization
-image: "https://picsum.photos/seed/omnibus-spending-bill/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **omnibus spending bill** is a single legislative package combining many separate [appropriations bills](/appropriations-bill) into one massive statute. Congress uses omnibus bills to authorize spending across dozens of agencies and departments at once, often including [discretionary spending](/discretionary-spending), policy riders, and other provisions.*
@@ -22,7 +22,7 @@ This entry covers comprehensive appropriations packages. For individual appropri
 
 <div class="wiki-infobox-title">Omnibus Spending Bill — key facts</div>
 
-<img src="https://picsum.photos/seed/omnibus-spending-bill/900/600" alt="Omnibus spending bill" />
+<img src="/svg/fiscal.svg" alt="Omnibus spending bill" />
 
 <div class="wiki-infobox-caption">Omnibus bills combine many appropriations into one vote.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - private equity
   - buyout
   - asset management
-image: "https://picsum.photos/seed/stephen-schwarzman/900/600"
+image: "/svg/people.svg"
 ---
 
 *Stephen Schwarzman built Blackstone into the world's largest alternative asset manager by scaling the private equity model and diversifying into other strategies, making him the public face of modern private equity.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/stephen-schwarzman/900/600"
 
 <div class="wiki-infobox-title">Stephen Schwarzman — key facts</div>
 
-<img src="https://picsum.photos/seed/stephen-schwarzman/900/600" alt="Blackstone's Manhattan headquarters and corporate offices" />
+<img src="/svg/people.svg" alt="Blackstone's Manhattan headquarters and corporate offices" />
 
 <div class="wiki-infobox-caption">The center of a financial empire — built on acquisition and scale.</div>
 

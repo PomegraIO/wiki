@@ -6,7 +6,7 @@ keywords:
   - qoz
   - capital gains deferral
   - opportunity fund
-image: "https://picsum.photos/seed/qualified-opportunity-zone-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **qualified opportunity zone** (QOZ) investor defers [capital gains](/capital-gains-tax-investor/) tax by investing in a qualified opportunity fund, which develops real estate or businesses in economically disadvantaged areas. The investor defers tax on the original [capital gain](/capital-gains-tax-investor/), receives a step-up in basis after five years (5% per year), and potentially excludes all gains on the fund investment if held for 10+ years. This structure is attractive for investors with large [capital gains](/capital-gains-tax-investor/) who want to defer and eventually avoid tax.*
@@ -21,7 +21,7 @@ For the fund structure, see qualified opportunity fund. For comparable small bus
 
 <div class="wiki-infobox-title">Qualified opportunity zone investor — key facts</div>
 
-<img src="https://picsum.photos/seed/qualified-opportunity-zone-investor/900/600" alt="A map showing qualified opportunity zones" />
+<img src="/svg/taxes.svg" alt="A map showing qualified opportunity zones" />
 
 <div class="wiki-infobox-caption">QOZ investments defer capital gains and may exclude gains if held 10+ years.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - public listing
   - private to public
   - business combination
-image: "https://picsum.photos/seed/de-spac-transaction/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **de-SPAC transaction** is a [merger](/merger) between a [special-purpose acquisition company](/special-purpose-acquisition-company) (SPAC) and a private operating company. The private company becomes the operating business of the merged entity, which retains or is relisted under a new name on public exchanges. De-SPAC transactions are the mechanism by which SPACs achieve their purpose and have become a major route for private companies to access public capital markets, particularly in technology, consumer, and healthcare sectors.*
@@ -22,7 +22,7 @@ This entry covers de-SPAC mergers as a public market entry mechanism. For the SP
 
 <div class="wiki-infobox-title">De-SPAC transaction — key facts</div>
 
-<img src="https://picsum.photos/seed/de-spac-transaction/900/600" alt="SPAC merging with private company" />
+<img src="/svg/corporate.svg" alt="SPAC merging with private company" />
 
 <div class="wiki-infobox-caption">A de-SPAC merger takes a private company public.</div>
 

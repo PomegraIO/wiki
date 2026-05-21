@@ -7,7 +7,7 @@ keywords:
   - tender offer
   - proxy fight
   - M&A
-image: "https://picsum.photos/seed/hostile-takeover/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **hostile takeover** is an acquisition attempt that the target's board opposes or refuses to support. Rather than negotiate with the board, the acquirer bypasses it and appeals directly to the target's shareholders through a [tender offer](/tender-offer) (to buy shares) or a [proxy fight](/proxy-fight) (to elect a new board that will approve the deal). Hostile takeovers are rare, expensive, and frequently fail — but when they succeed, they can dramatically reshape an industry.*
@@ -22,7 +22,7 @@ This entry covers hostile takeovers as mechanisms. For the defences companies de
 
 <div class="wiki-infobox-title">Hostile takeover — key facts</div>
 
-<img src="https://picsum.photos/seed/hostile-takeover/900/600" alt="Two companies in opposition" />
+<img src="/svg/corporate.svg" alt="Two companies in opposition" />
 
 <div class="wiki-infobox-caption">A hostile takeover bypasses the board and goes directly to shareholders.</div>
 

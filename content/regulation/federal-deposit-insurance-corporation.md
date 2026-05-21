@@ -8,7 +8,7 @@ keywords:
   - bank failure
   - bank safety
   - deposit guarantee
-image: "https://picsum.photos/seed/federal-deposit-insurance-corporation/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Federal Deposit Insurance Corporation** (FDIC) is the agency that insures bank deposits and supervises banks to prevent failures. Created in 1933 in response to the Depression, the FDIC guarantees that if a bank fails, depositors will be paid in full up to $250,000 per account. It also acts as the receiver — the liquidator — when a bank becomes insolvent.*
@@ -23,7 +23,7 @@ FDIC insurance covers bank deposits only. Investment securities, brokerage accou
 
 <div class="wiki-infobox-title">FDIC — key facts</div>
 
-<img src="https://picsum.photos/seed/federal-deposit-insurance-corporation/900/600" alt="A bank entrance" />
+<img src="/svg/regulation.svg" alt="A bank entrance" />
 
 <div class="wiki-infobox-caption">A typical insured bank.</div>
 

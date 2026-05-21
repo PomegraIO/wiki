@@ -7,7 +7,7 @@ keywords:
   - financial assets
   - debt measurement
   - fiscal position
-image: "https://picsum.photos/seed/net-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **net debt** is a government's [gross debt](/gross-debt) reduced by its financial assets — cash, securities, reserves, and other liquid holdings. It reveals the government's true net financial position: the amount it owes **after** accounting for what it owns.*
@@ -22,7 +22,7 @@ This entry covers the adjusted debt measure. For debt without asset adjustment, 
 
 <div class="wiki-infobox-title">Net Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/net-debt/900/600" alt="Net debt" />
+<img src="/svg/fiscal.svg" alt="Net debt" />
 
 <div class="wiki-infobox-caption">Net debt accounts for government assets, showing true net liabilities.</div>
 

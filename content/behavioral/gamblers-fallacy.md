@@ -7,7 +7,7 @@ keywords:
   - randomness
   - probability misconception
   - regression to the mean
-image: "https://picsum.photos/seed/gamblers-fallacy/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Gamblers fallacy is the belief that past results in a random sequence make certain future results more likely. If a coin has landed on heads five times in a row, the gambler believes tails is now "due" — more likely on the next flip. In reality, each flip is independent, and the probability of tails is always 50%. The past results do not change the future probability. Yet the fallacy is pervasive in investing.*
@@ -22,7 +22,7 @@ Related to hot-hand fallacy (the opposite error) and regression to the mean (the
 
 <div class="wiki-infobox-title">Gamblers fallacy — key facts</div>
 
-<img src="https://picsum.photos/seed/gamblers-fallacy/900/600" alt="A dice showing five consecutive sixes, with number five marked as overdue" />
+<img src="/svg/behavioral.svg" alt="A dice showing five consecutive sixes, with number five marked as overdue" />
 
 <div class="wiki-infobox-caption">The dice do not remember; each roll is independent.</div>
 

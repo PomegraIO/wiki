@@ -7,7 +7,7 @@ keywords:
   - price
   - ohlc
   - technical analysis
-image: "https://picsum.photos/seed/candlestick-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **candlestick chart** is a style of price chart that shows four pieces of price data for each time period—the open, high, low, and close—stacked into a single visual unit called a candle. The rectangular body shows the distance between open and close; thin vertical lines (wicks) extending above and below show the period's high and low. This format, developed in Japan in the 18th century, has become the dominant way to visualize price action in modern trading.*
@@ -22,7 +22,7 @@ For discussion of interpretable patterns that form across multiple candles, see 
 
 <div class="wiki-infobox-title">Candlestick chart — key facts</div>
 
-<img src="https://picsum.photos/seed/candlestick-chart/900/600" alt="A candlestick chart showing multiple red and green candles over time" />
+<img src="/svg/technical-analysis.svg" alt="A candlestick chart showing multiple red and green candles over time" />
 
 <div class="wiki-infobox-caption">A typical candlestick chart, with red (bearish) and green (bullish) candles showing the flow of price action.</div>
 

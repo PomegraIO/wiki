@@ -7,7 +7,7 @@ keywords:
   - tech crash
   - bear market
   - dot-com bust
-image: "https://picsum.photos/seed/nasdaq-crash-2000/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **NASDAQ Crash of 2000–2002** was a severe and prolonged bear market in technology and growth stocks, representing the unwinding of the dot-com bubble. Beginning with the NASDAQ's peak of 5,048 in March 2000, the index fell 78% over the next two-and-a-half years. The crash destroyed trillions in wealth, rendered thousands of internet companies worthless, and triggered a recession in 2001.*
@@ -22,7 +22,7 @@ This entry covers the NASDAQ crash. For the bubble that preceded it, see [Dot-Co
 
 <div class="wiki-infobox-title">NASDAQ Crash of 2000 — key facts</div>
 
-<img src="https://picsum.photos/seed/nasdaq-crash-2000/900/600" alt="A NASDAQ quote terminal showing the steep decline in index value" />
+<img src="/svg/history.svg" alt="A NASDAQ quote terminal showing the steep decline in index value" />
 
 <div class="wiki-infobox-caption">The NASDAQ's decline from 5,048 to 1,139 was one of the sharpest bear markets in US history.</div>
 

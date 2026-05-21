@@ -7,7 +7,7 @@ keywords:
   - childcare savings
   - pre-tax childcare
   - day care expenses
-image: "https://picsum.photos/seed/dependent-care-fsa/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **dependent care FSA** (or dependent care account) is an employer-sponsored savings account in which you set aside pre-tax income to pay for childcare, preschool, after-school care, or adult eldercare. Like a medical [FSA](/fsa), it has a use-it-or-lose-it rule: unused funds are forfeited at year-end.*
@@ -22,7 +22,7 @@ For medical or vision expenses, see [FSA](/fsa); for health savings, see [HSA](/
 
 <div class="wiki-infobox-title">Dependent Care FSA — key facts</div>
 
-<img src="https://picsum.photos/seed/dependent-care-fsa/900/600" alt="A parent dropping a child at daycare with a receipt marked FSA" />
+<img src="/svg/personal-finance.svg" alt="A parent dropping a child at daycare with a receipt marked FSA" />
 
 <div class="wiki-infobox-caption">The purpose: pre-tax childcare funding.</div>
 

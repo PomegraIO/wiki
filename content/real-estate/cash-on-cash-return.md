@@ -7,7 +7,7 @@ keywords:
   - real estate return
   - equity return
   - cash profit
-image: "https://picsum.photos/seed/cash-on-cash-return/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *The **cash-on-cash return** is the annual cash profit from a real estate property divided by the cash down payment the investor made. It measures the investor's annual return on their actual equity investment, accounting for leverage.*
@@ -22,7 +22,7 @@ For the unleveraged return on a property, see [cap-rate](/cap-rate). For total r
 
 <div class="wiki-infobox-title">Cash-on-Cash Return — key facts</div>
 
-<img src="https://picsum.photos/seed/cash-on-cash-return/900/600" alt="A real estate investment showing cash flow and returns" />
+<img src="/svg/real-estate.svg" alt="A real estate investment showing cash flow and returns" />
 
 <div class="wiki-infobox-caption">Cash-on-cash return shows annual yield on the investor's equity.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - representativeness
   - logical error
   - judgment bias
-image: "https://picsum.photos/seed/conjunction-fallacy/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Conjunction fallacy is the logical error of judging that a specific conjunction of events is more probable than a single event. If a company is described as a "tech startup with a brilliant founder in a huge market," the conjunction (a successful tech startup) feels more probable than the individual event (a successful startup). But a conjunction can never be more probable than its components — it is a logical impossibility. Yet this fallacy is widespread.*
@@ -22,7 +22,7 @@ A consequence of representativeness heuristic. Related to base-rate neglect.
 
 <div class="wiki-infobox-title">Conjunction fallacy — key facts</div>
 
-<img src="https://picsum.photos/seed/conjunction-fallacy/900/600" alt="Two overlapping circles with the intersection labeled as larger than the individual circles" />
+<img src="/svg/behavioral.svg" alt="Two overlapping circles with the intersection labeled as larger than the individual circles" />
 
 <div class="wiki-infobox-caption">The overlap cannot be larger than either component.</div>
 

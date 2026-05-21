@@ -6,7 +6,7 @@ keywords:
   - niit
   - 3.8% tax
   - high earner tax
-image: "https://picsum.photos/seed/net-investment-income-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Net Investment Income Tax** (NIIT), also called the **3.8% tax**, is an additional federal tax on [investment income](/capital-gains-tax-investor/) for high earners. If your income exceeds $200,000 (single) or $250,000 (married filing jointly), you must pay a 3.8% tax on the lesser of (a) your [net investment income](/dividend/) or (b) the excess of your total income over the threshold. The tax applies to [capital gains](/capital-gains-tax-investor/), [dividends](/dividend/), [interest](/interest-rate/), and [passive income](/hedge-fund/), but not wages.*
@@ -21,7 +21,7 @@ For marginal rate context, see [marginal tax rate investor](/marginal-tax-rate-i
 
 <div class="wiki-infobox-title">Net investment income tax — key facts</div>
 
-<img src="https://picsum.photos/seed/net-investment-income-tax/900/600" alt="A threshold showing when NIIT applies" />
+<img src="/svg/taxes.svg" alt="A threshold showing when NIIT applies" />
 
 <div class="wiki-infobox-caption">3.8% tax on net investment income above the threshold.</div>
 

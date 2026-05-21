@@ -6,7 +6,7 @@ keywords:
   - capital structure
   - leverage
   - financial risk
-image: "https://picsum.photos/seed/debt-to-capital-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **debt-to-capital ratio** divides total debt by total capital (debt plus equity). A ratio of 0.33 means debt is 33% of total capital; equity is 67%. It shows the company's funding mix.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/debt-to-capital-ratio/900/600"
 
 <div class="wiki-infobox-title">Debt-to-Capital — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-to-capital-ratio/900/600" alt="Debt as percentage of total capital" />
+<img src="/svg/ratios.svg" alt="Debt as percentage of total capital" />
 
 <div class="wiki-infobox-caption">The share of capital from borrowing.</div>
 

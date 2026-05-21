@@ -7,7 +7,7 @@ keywords:
   - takeover defence
   - hostile takeover
   - divestiture
-image: "https://picsum.photos/seed/crown-jewel-defense/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **crown jewel defense** is a takeover defence in which the target company threatens to sell its most valuable or strategically important asset (the "crown jewel") to a third party if the hostile bidder succeeds in acquiring the company. By removing the crown jewel, the target becomes much less attractive to the hostile acquirer, potentially making the bid economically unviable. The defence is most credible when the target has actually found a buyer for the jewel and is prepared to execute the sale.*
@@ -22,7 +22,7 @@ This entry covers crown jewel defense as a takeover strategy. For other defences
 
 <div class="wiki-infobox-title">Crown jewel defense — key facts</div>
 
-<img src="https://picsum.photos/seed/crown-jewel-defense/900/600" alt="A company protecting its most valuable asset" />
+<img src="/svg/corporate.svg" alt="A company protecting its most valuable asset" />
 
 <div class="wiki-infobox-caption">A crown jewel defense threatens to sell the company's most prized asset.</div>
 

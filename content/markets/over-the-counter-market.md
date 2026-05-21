@@ -8,7 +8,7 @@ keywords:
   - unlisted securities
   - bonds
   - derivatives
-image: "https://picsum.photos/seed/over-the-counter-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **over-the-counter (OTC) market** is a decentralized, dealer-based trading system where securities change hands directly between buyers and sellers, typically through intermediaries called dealers or [brokers](/broker). It includes the vast markets for [bonds](/bond), currencies, derivatives, and [commodities](/stock), as well as smaller [unlisted](/unlisted-market) stocks. It is the oldest form of securities trading and remains vastly larger than centralized [stock exchanges](/stock-exchange) by dollar volume.*
@@ -23,7 +23,7 @@ This entry is about decentralized dealer-based trading. For centralized exchange
 
 <div class="wiki-infobox-title">Over-the-Counter Market — key facts</div>
 
-<img src="https://picsum.photos/seed/over-the-counter-market/900/600" alt="A broker at a desk with multiple phones and screens, negotiating with counterparties" />
+<img src="/svg/markets.svg" alt="A broker at a desk with multiple phones and screens, negotiating with counterparties" />
 
 <div class="wiki-infobox-caption">OTC trading is negotiated directly between dealer and client, not on an exchange.</div>
 

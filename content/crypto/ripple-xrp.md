@@ -8,7 +8,7 @@ keywords:
   - settlement
   - ledger
   - remittance
-image: "https://picsum.photos/seed/ripple-xrp/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Ripple** network and its native **XRP** cryptocurrency form a real-time payment settlement and currency exchange system. Unlike [Bitcoin](/bitcoin) or [Ethereum](/ethereum), Ripple was designed from inception as a payment network for financial institutions, using a [proof-of-stake](/proof-of-stake)-based consensus called the XRP Ledger.*
@@ -23,7 +23,7 @@ This entry covers Ripple the payment network and XRP the cryptocurrency. For gen
 
 <div class="wiki-infobox-title">Ripple XRP — key facts</div>
 
-<img src="https://picsum.photos/seed/ripple-xrp/900/600" alt="Ripple network and currency diagram" />
+<img src="/svg/crypto.svg" alt="Ripple network and currency diagram" />
 
 <div class="wiki-infobox-caption">Ripple: a payment network designed for financial institutions.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - self-employed retirement
   - high contribution
   - business retirement
-image: "https://picsum.photos/seed/solo-401k/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **solo 401(k)** (also called a one-participant [401(k)](/401k-plan)) is a retirement plan for self-employed people with no employees. It combines the advantages of a [401(k)](/401k-plan) — high contributions, loan options — with simplicity suitable for solo operators.*
@@ -22,7 +22,7 @@ For self-employed with employees, see [SEP IRA](/sep-ira) and [SIMPLE IRA](/simp
 
 <div class="wiki-infobox-title">Solo 401(k) — key facts</div>
 
-<img src="https://picsum.photos/seed/solo-401k/900/600" alt="A freelancer working at a desk with a solo 401k document on the wall" />
+<img src="/svg/personal-finance.svg" alt="A freelancer working at a desk with a solo 401k document on the wall" />
 
 <div class="wiki-infobox-caption">The setup: high savings potential for solo operators.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - halted stocks
   - auction replay
   - market order
-image: "https://picsum.photos/seed/intraday-auction/900/600"
+image: "/svg/markets.svg"
 ---
 
 *An **intraday auction** is a special auction mechanism that stock exchanges can trigger during [regular trading hours](/regular-trading-hours) to restart trading after a halt or to manage an extreme order imbalance. Unlike the [opening](/opening-auction-detail) and [closing](/closing-auction-detail) auctions, which occur routinely, intraday auctions are exceptional events signaling a disruption in normal market operations.*
@@ -23,7 +23,7 @@ This entry is about emergency auctions during the trading day. For routine aucti
 
 <div class="wiki-infobox-title">Intraday Auction — key facts</div>
 
-<img src="https://picsum.photos/seed/intraday-auction/900/600" alt="A trading halted notice displayed on a stock exchange screen" />
+<img src="/svg/markets.svg" alt="A trading halted notice displayed on a stock exchange screen" />
 
 <div class="wiki-infobox-caption">Intraday auctions occur when normal trading is disrupted and must be restarted.</div>
 

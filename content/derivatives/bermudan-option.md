@@ -7,7 +7,7 @@ keywords:
   - option style
   - hybrid option
   - derivative
-image: "https://picsum.photos/seed/bermudan-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **Bermuda option** (also **Bermudan option**) is a [call option](/call-option) or [put option](/put-option) that can be exercised on a set of predefined dates, typically quarterly or semi-annually, rather than on any date like an [american-option](/american-option) or on a single date like a [european-option](/european-option). Bermuda options are common in interest-rate products and represent a middle ground between exercise flexibility and pricing simplicity.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/bermudan-option/900/600"
 
 <div class="wiki-infobox-title">Bermuda Option — key facts</div>
 
-<img src="https://picsum.photos/seed/bermudan-option/900/600" alt="A calendar showing specific predetermined exercise dates" />
+<img src="/svg/derivatives.svg" alt="A calendar showing specific predetermined exercise dates" />
 
 <div class="wiki-infobox-caption">Bermuda options allow exercise on specific scheduled dates.</div>
 

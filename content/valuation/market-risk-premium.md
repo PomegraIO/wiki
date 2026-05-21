@@ -7,7 +7,7 @@ keywords:
   - cost of equity
   - CAPM
   - required return
-image: "https://picsum.photos/seed/market-risk-premium/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **market risk premium** is the extra annual return investors demand for holding the overall stock market (equities) instead of risk-free government bonds. It is synonymous with the [equity risk premium](/equity-risk-premium) and is a critical input to the [capital asset pricing model](/capital-asset-pricing-model). Estimating it is more art than science, yet small errors swing valuations by 20% or more.*

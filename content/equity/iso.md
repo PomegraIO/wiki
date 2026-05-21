@@ -7,7 +7,7 @@ keywords:
   - tax-qualified option
   - employee option
   - capital gains
-image: "https://picsum.photos/seed/iso/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An incentive stock option (ISO) is a type of [employee stock option](/equity/employee-stock-options/) that qualifies for favorable tax treatment under the US Internal Revenue Code. If the employee meets certain holding periods (2+ years from grant, 1+ year from exercise), the gain on exercise is taxed as long-term capital gain (15–20% top rate) rather than ordinary income (37% top rate). This tax advantage makes ISOs attractive to employees but subject to strict rules and limitations.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/iso/900/600"
 
 <div class="wiki-infobox-title">Incentive stock option — key facts</div>
 
-<img src="https://picsum.photos/seed/iso/900/600" alt="An ISO grant agreement showing strike price and vesting" />
+<img src="/svg/equity.svg" alt="An ISO grant agreement showing strike price and vesting" />
 
 <div class="wiki-infobox-caption">Tax-qualified stock option with capital gains treatment if held long enough.</div>
 

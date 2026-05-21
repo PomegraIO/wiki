@@ -8,7 +8,7 @@ keywords:
   - economic prediction
   - tactical trading
   - cycle trading
-image: "https://picsum.photos/seed/market-timing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Market timing is an investment approach of attempting to predict when the [stock market](/stock-market/) will rise (bull phase) or fall ([bear phase](/bear-market/)), adjusting portfolio positioning — between [stocks](/stock/) and cash — accordingly. The goal is to be fully invested before rallies and in cash before crashes.*
@@ -23,7 +23,7 @@ For the alternative (staying invested), see [dollar-cost averaging](/dollar-cost
 
 <div class="wiki-infobox-title">Market timing — key facts</div>
 
-<img src="https://picsum.photos/seed/market-timing/900/600" alt="A trader attempting to buy at market troughs and sell at peaks" />
+<img src="/svg/strategies.svg" alt="A trader attempting to buy at market troughs and sell at peaks" />
 
 <div class="wiki-infobox-caption">Market timers hunt for the Holy Grail: predicting turns and capturing gains while avoiding losses.</div>
 

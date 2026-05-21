@@ -7,7 +7,7 @@ keywords:
   - 2010–2012
   - Greece
   - sovereign default risk
-image: "https://picsum.photos/seed/european-sovereign-debt-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **European Sovereign Debt Crisis** was a wave of sovereign debt concerns across the eurozone from 2010 to 2012 and beyond. Beginning with Greece's revelation of vastly larger-than-disclosed budget deficits, the crisis metastasized across the peripheral eurozone (Portugal, Ireland, Spain, Italy, Cyprus) as investors questioned whether governments could service their debts. The crisis exposed fundamental weaknesses in the eurozone's structure and required multiple rescues and policy shifts.*
@@ -22,7 +22,7 @@ This entry covers the broad crisis. For the Greek crisis specifically, see [Gree
 
 <div class="wiki-infobox-title">European Sovereign Debt Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/european-sovereign-debt-crisis/900/600" alt="A photograph of a protest in Athens during the Greek debt crisis" />
+<img src="/svg/history.svg" alt="A photograph of a protest in Athens during the Greek debt crisis" />
 
 <div class="wiki-infobox-caption">Public protests erupted across the periphery as austerity measures were imposed.</div>
 

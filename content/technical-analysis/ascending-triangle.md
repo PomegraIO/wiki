@@ -7,7 +7,7 @@ keywords:
   - bullish
   - technical analysis
   - breakout
-image: "https://picsum.photos/seed/ascending-triangle/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *An **ascending triangle** is a bullish chart pattern consisting of a rising lower trendline (connecting higher lows) and a flat upper trendline (connecting highs that do not rise). As the pattern develops, the price range narrows—the lower line rises while the upper line stays flat—until the lines converge. At the convergence point, price is expected to break out above the upper trendline (the resistance), initiating a sharp upward move. The ascending triangle reveals a market where buyers are gaining strength (rising lows) while sellers remain dug in at a specific level (flat highs); eventually, buying pressure overwhelms selling pressure.*
@@ -22,7 +22,7 @@ For converging patterns broadly, see [symmetrical triangle](/technical-analysis/
 
 <div class="wiki-infobox-title">Ascending triangle — key facts</div>
 
-<img src="https://picsum.photos/seed/ascending-triangle/900/600" alt="An ascending triangle with rising lows and flat highs converging" />
+<img src="/svg/technical-analysis.svg" alt="An ascending triangle with rising lows and flat highs converging" />
 
 <div class="wiki-infobox-caption">Ascending triangle: buyers gaining strength, sellers defending a flat level; breakout expected above.</div>
 

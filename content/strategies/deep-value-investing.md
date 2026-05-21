@@ -8,7 +8,7 @@ keywords:
   - deep discount
   - value trap
   - margin of safety
-image: "https://picsum.photos/seed/deep-value-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Deep-value investing is an aggressive variation of [value investing](/value-investing/) that targets stocks trading at extreme discounts — often unpopular, ignored, or despised by the market — betting that the market has overshot on the downside and that a business is worth more than its current price suggests.*
@@ -23,7 +23,7 @@ For the standard version of value investing, see [value investing](/value-invest
 
 <div class="wiki-infobox-title">Deep-value investing — key facts</div>
 
-<img src="https://picsum.photos/seed/deep-value-investing/900/600" alt="A stock trading at an exceptionally low price multiple" />
+<img src="/svg/strategies.svg" alt="A stock trading at an exceptionally low price multiple" />
 
 <div class="wiki-infobox-caption">Deep-value investors buy where fear has pushed valuations to historic lows.</div>
 

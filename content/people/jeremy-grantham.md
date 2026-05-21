@@ -7,7 +7,7 @@ keywords:
   - asset allocation
   - valuation
   - bubbles
-image: "https://picsum.photos/seed/jeremy-grantham/900/600"
+image: "/svg/people.svg"
 ---
 
 *Jeremy Grantham built GMO into a major asset management firm by maintaining conviction in long-term valuation frameworks even when they diverged sharply from market sentiment, positioning to profit from mean reversion.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/jeremy-grantham/900/600"
 
 <div class="wiki-infobox-title">Jeremy Grantham — key facts</div>
 
-<img src="https://picsum.photos/seed/jeremy-grantham/900/600" alt="Charts of asset class valuations spanning decades" />
+<img src="/svg/people.svg" alt="Charts of asset class valuations spanning decades" />
 
 <div class="wiki-infobox-caption">The data of his conviction — where cycles appear with mathematical precision.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - CVaR
   - tail loss
   - average of tail losses
-image: "https://picsum.photos/seed/expected-shortfall/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Expected shortfall (ES) — synonymous with [conditional-value-at-risk](/conditional-value-at-risk) — is the average loss a portfolio experiences in its worst-case scenarios, specifically the mean of losses when they exceed the [value-at-risk](/value-at-risk) threshold. It directly addresses the key weakness of [value-at-risk](/value-at-risk) by measuring the magnitude of tail losses, not just the probability.*
@@ -22,7 +22,7 @@ This entry is a synonym and detailed treatment of expected shortfall. For the Va
 
 <div class="wiki-infobox-title">Expected Shortfall — key facts</div>
 
-<img src="https://picsum.photos/seed/expected-shortfall/900/600" alt="A graph showing a distribution curve with the tail highlighted and labeled with an average line" />
+<img src="/svg/risk.svg" alt="A graph showing a distribution curve with the tail highlighted and labeled with an average line" />
 
 <div class="wiki-infobox-caption">Expected shortfall captures the average loss in tail scenarios.</div>
 

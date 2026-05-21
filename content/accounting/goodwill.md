@@ -7,7 +7,7 @@ keywords:
   - intangible asset
   - business combination
   - impairment testing
-image: "https://picsum.photos/seed/goodwill/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Goodwill](/goodwill) is an intangible asset recorded when a company acquires another business for more than the fair market value of its identifiable assets and liabilities. The excess is [goodwill](/goodwill) — a catch-all for the value of customer relationships, brand reputation, synergies, and other factors that made the target valuable. Unlike other intangible assets with definable lives, [goodwill](/goodwill) has an indefinite useful life. It is not [amortized](/amortization) but is tested for impairment at least annually. If the fair value of the acquired business falls below the amount paid, [goodwill](/goodwill) must be written down, sometimes resulting in large charges.*
@@ -22,7 +22,7 @@ This entry covers goodwill as an accounting concept. For the write-down process,
 
 <div class="wiki-infobox-title">Goodwill — key facts</div>
 
-<img src="https://picsum.photos/seed/goodwill/900/600" alt="A balance sheet showing goodwill as an asset after a business acquisition" />
+<img src="/svg/accounting.svg" alt="A balance sheet showing goodwill as an asset after a business acquisition" />
 
 <div class="wiki-infobox-caption">Goodwill is the premium paid above fair value in an acquisition.</div>
 

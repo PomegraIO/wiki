@@ -7,7 +7,7 @@ keywords:
   - stable growth
   - dividend valuation
   - terminal value
-image: "https://picsum.photos/seed/gordon-growth-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **Gordon growth model** is the most elegant and dangerous formula in equity valuation. It states that an asset worth paying for a perpetual stream of cash flows growing at a constant rate is equal to next year's cash flow divided by the required rate of return minus the growth rate. It is used daily by practitioners, often without adequate skepticism about its assumptions.*

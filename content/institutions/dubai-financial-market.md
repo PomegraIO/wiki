@@ -8,7 +8,7 @@ keywords:
   - UAE
   - United Arab Emirates
   - Dubai
-image: "https://picsum.photos/seed/dubai-financial-market/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Dubai Financial Market** (DFM) is the primary [stock exchange](/stock-exchange) of the United Arab Emirates, headquartered in Dubai's International Financial Centre. Alongside the Abu Dhabi Securities Exchange, the DFM serves as the venue for UAE equities trading and has grown into a significant Middle Eastern financial hub for international investors seeking exposure to Gulf region growth.*
@@ -23,7 +23,7 @@ The DFM and the Abu Dhabi Securities Exchange (ADX) are the two major stock exch
 
 <div class="wiki-infobox-title">Dubai Financial Market — key facts</div>
 
-<img src="https://picsum.photos/seed/dubai-financial-market/900/600" alt="The Dubai Financial Market trading floor" />
+<img src="/svg/institutions.svg" alt="The Dubai Financial Market trading floor" />
 
 <div class="wiki-infobox-caption">The DFM trading facility in Dubai's International Financial Centre.</div>
 

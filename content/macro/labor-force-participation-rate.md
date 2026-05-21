@@ -7,7 +7,7 @@ keywords:
   - workforce
   - employment rate
   - economically active
-image: "https://picsum.photos/seed/labor-force-participation-rate/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The labor force participation rate is the percentage of the working-age population (typically ages 16 and above) that is either employed or actively looking for work. It differs from the [unemployment rate](/unemployment-rate) because it measures what fraction of the population is in the labor force at all, not how many are unemployed within that force.*
@@ -22,7 +22,7 @@ Participation rate = Labor force ÷ Working-age population. It has declined sign
 
 <div class="wiki-infobox-title">Labor Force Participation Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/labor-force-participation-rate/900/600" alt="US participation rate over time" />
+<img src="/svg/macro.svg" alt="US participation rate over time" />
 
 <div class="wiki-infobox-caption">US participation has declined from a peak of 67.3% in early 2000 to about 63% in 2026.</div>
 

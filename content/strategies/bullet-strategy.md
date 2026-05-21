@@ -8,7 +8,7 @@ keywords:
   - single maturity
   - targeted maturity
   - immunization
-image: "https://picsum.photos/seed/bullet-strategy/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A bullet strategy is a fixed-income investment approach of purchasing [bonds](/bond/) that all (or predominantly) mature on the same target date — e.g., all maturing in 2035. The strategy concentrates principal repayment at a single point, aligning the investment with a known future need (retirement, college funding, liability maturity).*
@@ -23,7 +23,7 @@ For staggered maturities, see [ladder strategy](/ladder-strategy/). For broader 
 
 <div class="wiki-infobox-title">Bullet strategy — key facts</div>
 
-<img src="https://picsum.photos/seed/bullet-strategy/900/600" alt="Bonds all maturing at a single target date" />
+<img src="/svg/strategies.svg" alt="Bonds all maturing at a single target date" />
 
 <div class="wiki-infobox-caption">Bullet investors concentrate principal repayment at a known future date, aligning with liabilities.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - full capacity
   - output gap
   - non-accelerating inflation
-image: "https://picsum.photos/seed/potential-gdp/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Potential GDP is the level of [real GDP](/real-gdp) that an economy can sustain in the long run without triggering accelerating [inflation](/inflation). It is an unobservable trend that economists estimate by looking at growth in the [labor force](/labor-force-participation-rate), [productivity](/productivity), and capital. The difference between actual and potential GDP is the [output gap](/output-gap).*
@@ -22,7 +22,7 @@ Potential GDP is also called trend output, full-capacity output, or the natural 
 
 <div class="wiki-infobox-title">Potential GDP — key facts</div>
 
-<img src="https://picsum.photos/seed/potential-gdp/900/600" alt="Actual versus potential GDP" />
+<img src="/svg/macro.svg" alt="Actual versus potential GDP" />
 
 <div class="wiki-infobox-caption">Actual GDP fluctuates around its potential; the gap tells whether the economy is booming or slack.</div>
 

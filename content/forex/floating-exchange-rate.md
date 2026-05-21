@@ -7,7 +7,7 @@ keywords:
   - market-determined rate
   - freely floating
   - supply and demand
-image: "https://picsum.photos/seed/floating-exchange-rate/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **floating exchange rate** is an exchange-rate system in which a currency's value is determined by market supply and demand, free from central-bank enforcement of a specific target level. The [spot exchange rate](/spot-exchange-rate) moves continuously as traders buy and sell. Most major currencies — the [US dollar](/us-dollar), [euro](/euro), [British pound](/british-pound), [Japanese yen](/japanese-yen) — float freely. Floating replaced fixed rates for most economies after the collapse of [Bretton Woods](/bretton-woods) in 1971.*
@@ -22,7 +22,7 @@ For exchange rates set by policy, see [fixed exchange rate](/fixed-exchange-rate
 
 <div class="wiki-infobox-title">Floating Exchange Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/floating-exchange-rate/900/600" alt="A floating exchange rate moving freely over time" />
+<img src="/svg/forex.svg" alt="A floating exchange rate moving freely over time" />
 
 <div class="wiki-infobox-caption">Market supply and demand set the rate; it moves continuously.</div>
 

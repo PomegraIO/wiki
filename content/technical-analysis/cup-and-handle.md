@@ -7,7 +7,7 @@ keywords:
   - bullish
   - continuation
   - technical analysis
-image: "https://picsum.photos/seed/cup-and-handle/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **cup and handle** is a bullish continuation pattern that forms within uptrends. The pattern consists of two parts: a **cup** (a rounded bottom resembling a U-shape) and a **handle** (a shallow pullback on the right side). The cup shows a decline and recovery within the uptrend, forming support at the bottom. The handle is a minor consolidation before price breaks above the rim (the top of the cup) and continues upward. Unlike reversal patterns (which signal a trend change), the cup and handle signals that the uptrend is pausing and about to resume, making it a continuation pattern.*
@@ -22,7 +22,7 @@ For continuation patterns and broader technical analysis, see [candlestick patte
 
 <div class="wiki-infobox-title">Cup and handle — key facts</div>
 
-<img src="https://picsum.photos/seed/cup-and-handle/900/600" alt="A cup and handle pattern: rounded U-shaped cup with shallow handle on right" />
+<img src="/svg/technical-analysis.svg" alt="A cup and handle pattern: rounded U-shaped cup with shallow handle on right" />
 
 <div class="wiki-infobox-caption">Cup and handle: rounded recovery within uptrend, shallow pullback, then continuation higher.</div>
 

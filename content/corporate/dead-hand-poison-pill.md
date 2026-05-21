@@ -7,7 +7,7 @@ keywords:
   - shareholder rights plan
   - poison pill
   - hostile takeover
-image: "https://picsum.photos/seed/dead-hand-poison-pill/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **dead-hand poison pill** is a variation on the standard [poison pill](/poison-pill) that removes the ability of a new board (elected through a hostile acquisition or [proxy fight](/proxy-fight)) to redeem the pill. Only the original, pre-acquisition board can cancel the shareholders' rights. This makes the pill essentially permanent unless the hostile acquirer negotiates with the original board or acquires the company at a price that compensates shareholders for the ongoing dilution.*
@@ -22,7 +22,7 @@ This entry covers dead-hand pills as an extreme takeover defence. For the standa
 
 <div class="wiki-infobox-title">Dead-hand poison pill — key facts</div>
 
-<img src="https://picsum.photos/seed/dead-hand-poison-pill/900/600" alt="A pill that survives a board change" />
+<img src="/svg/corporate.svg" alt="A pill that survives a board change" />
 
 <div class="wiki-infobox-caption">A dead-hand pill cannot be redeemed by a new board.</div>
 

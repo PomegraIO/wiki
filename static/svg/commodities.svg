@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Commodities">
+<rect width="900" height="600" fill="#f4ede2"/>
+<line x1="60" y1="60" x2="60" y2="540" stroke="#d4cdbd" stroke-width="1"/>
+<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="#0f0f10" font-weight="600">Commodities</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">METALS, ENERGY, AGRICULTURE</text>
+<g transform="translate(180,220)">
+<rect x="0" y="120" width="100" height="180" fill="#0f0f10" opacity="0.85"/>
+<text x="50" y="325" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" text-anchor="middle">CRUDE</text>
+<rect x="120" y="60" width="100" height="240" fill="#c0392b" opacity="1"/>
+<text x="170" y="325" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" text-anchor="middle">GOLD</text>
+<rect x="240" y="160" width="100" height="140" fill="#5b5b63" opacity="1"/>
+<text x="290" y="325" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" text-anchor="middle">COPPER</text>
+<rect x="360" y="100" width="100" height="200" fill="#0f0f10" opacity="0.85"/>
+<text x="410" y="325" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" text-anchor="middle">WHEAT</text>
+<rect x="480" y="30" width="100" height="270" fill="#c0392b" opacity="0.85"/>
+<text x="530" y="325" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" text-anchor="middle">NAT GAS</text>
+<line x1="-10" y1="300" x2="590" y2="300" stroke="#d4cdbd" stroke-width="1"/>
+</g>
+<text x="840" y="570" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" letter-spacing="2" text-anchor="end" opacity="0.7">POMEGRA WIKI</text></svg>

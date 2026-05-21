@@ -7,7 +7,7 @@ keywords:
   - total equity change
   - unrealized gains
   - accounting standard
-image: "https://picsum.photos/seed/comprehensive-income/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Comprehensive income](/comprehensive-income) is the total economic change in shareholders' equity during a period from all sources. It includes net income (from the [income statement](/income-statement)) plus **other comprehensive income** — items that bypass the [income statement](/income-statement) and flow directly to equity. Common examples are unrealized gains and losses on certain investments, foreign currency translation adjustments, and certain hedging gains and losses. [Comprehensive income](/comprehensive-income) is broader than net income and is the true measure of economic change in equity during a period. It is disclosed in a separate statement, often called the **Statement of Comprehensive Income**.*
@@ -22,7 +22,7 @@ This entry covers comprehensive income as a concept. For the specific items, see
 
 <div class="wiki-infobox-title">Comprehensive income — key facts</div>
 
-<img src="https://picsum.photos/seed/comprehensive-income/900/600" alt="A statement showing net income plus other comprehensive income items equaling comprehensive income" />
+<img src="/svg/accounting.svg" alt="A statement showing net income plus other comprehensive income items equaling comprehensive income" />
 
 <div class="wiki-infobox-caption">Comprehensive income includes all changes to equity, not just profit.</div>
 

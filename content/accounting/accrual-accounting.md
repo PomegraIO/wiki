@@ -7,7 +7,7 @@ keywords:
   - revenue recognition
   - matching principle
   - financial reporting
-image: "https://picsum.photos/seed/accrual-accounting/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *In **accrual accounting**, revenue is recognized when it is earned (not when cash is received), and expenses are recognized when they are incurred (not when paid). This is the opposite of [cash-basis-accounting](/cash-basis-accounting), which only counts transactions when money changes hands. Accrual accounting is mandatory for public companies under [GAAP](/generally-accepted-accounting-principles) and [IFRS](/international-financial-reporting-standards) because it provides a more accurate picture of economic performance: the [income statement](/income-statement) shows profit from the work done in the period, regardless of the timing of cash.*
@@ -22,7 +22,7 @@ This entry covers accrual accounting in general. For the alternative, see [cash-
 
 <div class="wiki-infobox-title">Accrual accounting — key facts</div>
 
-<img src="https://picsum.photos/seed/accrual-accounting/900/600" alt="A timeline showing the difference between when events occur, when revenue is recorded, and when cash is received" />
+<img src="/svg/accounting.svg" alt="A timeline showing the difference between when events occur, when revenue is recorded, and when cash is received" />
 
 <div class="wiki-infobox-caption">Accrual accounting separates economic events from cash timing.</div>
 

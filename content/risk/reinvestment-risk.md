@@ -7,7 +7,7 @@ keywords:
   - rate uncertainty
   - principal reinvestment
   - locked-in return
-image: "https://picsum.photos/seed/reinvestment-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Reinvestment risk is the probability that cash flows from a [bond](/bond) — coupons and principal — will be reinvested at rates lower than the bond's current yield, reducing the total return you actually achieve. When interest rates fall, reinvestment risk materializes: you were promised a certain nominal yield, but you will earn less due to lower reinvestment rates.*
@@ -22,7 +22,7 @@ This entry covers the risk that reinvestment rates are lower than expected. For 
 
 <div class="wiki-infobox-title">Reinvestment Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/reinvestment-risk/900/600" alt="A stream of arrows flowing from a bond coupon into downward-trending interest rates" />
+<img src="/svg/risk.svg" alt="A stream of arrows flowing from a bond coupon into downward-trending interest rates" />
 
 <div class="wiki-infobox-caption">Falling reinvestment rates reduce the total return locked in at purchase.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - sale of subsidiary
   - corporate restructuring
   - spin-off
-image: "https://picsum.photos/seed/divestiture/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **divestiture** is the sale or disposal of a company's subsidiary, division, business unit, or asset. Divestitures are used to raise capital, exit underperforming or non-core businesses, comply with regulatory requirements (particularly antitrust rulings), or refocus the company on core operations. A divestiture differs from a [spinoff](/spinoff), where a company distributes a subsidiary to shareholders — in a divestiture, the company receives cash from the sale and the buyer becomes the new owner.*
@@ -22,7 +22,7 @@ This entry covers divestitures as capital and strategic moves. For distributions
 
 <div class="wiki-infobox-title">Divestiture — key facts</div>
 
-<img src="https://picsum.photos/seed/divestiture/900/600" alt="A company selling a division" />
+<img src="/svg/corporate.svg" alt="A company selling a division" />
 
 <div class="wiki-infobox-caption">A divestiture transfers ownership of a division to a buyer.</div>
 

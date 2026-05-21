@@ -7,7 +7,7 @@ keywords:
   - overconfidence in stories
   - chance vs skill
   - confirmation bias
-image: "https://picsum.photos/seed/narrative-fallacy/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Narrative fallacy is the tendency to believe a compelling story even when evidence does not support it strongly. A company has a great product, visionary CEO, and big market opportunity — a compelling narrative. You assign high probability to its success based on the story, even though historical data shows 90% of startups fail. The narrative overrides base rates.*
@@ -22,7 +22,7 @@ Related to representativeness heuristic and base-rate neglect. For stories that 
 
 <div class="wiki-infobox-title">Narrative fallacy — key facts</div>
 
-<img src="https://picsum.photos/seed/narrative-fallacy/900/600" alt="A book page glowing with light while data sheets remain in shadow" />
+<img src="/svg/behavioral.svg" alt="A book page glowing with light while data sheets remain in shadow" />
 
 <div class="wiki-infobox-caption">The best story often beats the best statistics.</div>
 

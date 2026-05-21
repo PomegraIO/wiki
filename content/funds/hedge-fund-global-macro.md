@@ -8,7 +8,7 @@ keywords:
   - currency trading
   - commodity bets
   - fund
-image: "https://picsum.photos/seed/hedge-fund-global-macro/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **global macro hedge fund** is a [hedge fund](/hedge-fund) that makes top-down bets on broad macroeconomic trends — [interest rates](/interest-rate), currency movements, geopolitical events, [inflation](/inflation), [recession](/recession) — rather than analyzing individual companies. A global macro manager might short the yuan (betting on Chinese currency weakness), go long 10-year Treasury bonds (betting on rate cuts), or buy commodities (betting on inflation). Global macro is speculative and requires significant expertise.*
@@ -23,7 +23,7 @@ This entry covers global macro strategy. For alternatives, see [hedge fund long/
 
 <div class="wiki-infobox-title">Global Macro Hedge Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/hedge-fund-global-macro/900/600" alt="A world map with economic indicators and currency movements" />
+<img src="/svg/funds.svg" alt="A world map with economic indicators and currency movements" />
 
 <div class="wiki-infobox-caption">Global macro bets on macroeconomic trends across borders.</div>
 

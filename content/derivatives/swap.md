@@ -7,7 +7,7 @@ keywords:
   - currency swap
   - cash flow exchange
   - otc derivative
-image: "https://picsum.photos/seed/swap/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **swap** is an over-the-counter (OTC) [derivative](/option) agreement where two parties exchange cash flows over time based on different terms or references. The most common type is the [interest-rate-swap](/interest-rate-swap), where one party pays fixed interest and receives floating interest, while the counterparty does the opposite. Swaps are used to manage interest-rate risk, currency risk, and credit risk. They are customizable, settled at maturity (no daily [mark-to-market](/mark-to-market)), and typically require no [margin](/initial-margin).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/swap/900/600"
 
 <div class="wiki-infobox-title">Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/swap/900/600" alt="Two-party periodic cash flow exchange" />
+<img src="/svg/derivatives.svg" alt="Two-party periodic cash flow exchange" />
 
 <div class="wiki-infobox-caption">Swaps exchange cash flows over time.</div>
 

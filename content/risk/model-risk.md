@@ -7,7 +7,7 @@ keywords:
   - valuation error
   - assumption risk
   - parameter risk
-image: "https://picsum.photos/seed/model-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Model risk is the exposure to losses stemming from errors in financial models — whether from flawed logic, faulty assumptions, poor data, incorrect calibration, or misapplication of an otherwise sound model. It is a form of [operational-risk](/operational-risk) and is one of the most insidious risks in finance.*
@@ -22,7 +22,7 @@ This entry covers risks from models themselves. For risks from incorrect input p
 
 <div class="wiki-infobox-title">Model Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/model-risk/900/600" alt="A complex equation on a screen with a red X through it" />
+<img src="/svg/risk.svg" alt="A complex equation on a screen with a red X through it" />
 
 <div class="wiki-infobox-caption">Models are simplifications; reality often deviates from the simplification.</div>
 

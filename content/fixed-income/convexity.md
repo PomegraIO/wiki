@@ -7,7 +7,7 @@ keywords:
   - positive convexity
   - negative convexity
   - duration
-image: "https://picsum.photos/seed/convexity/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **convexity** of a bond measures the curvature in the relationship between its price and [yield](/yield-to-maturity). The relationship is not linear — bonds with positive convexity gain more in price when yields fall than they lose when yields rise (by the same amount). Negative convexity (seen in [callable bonds](/callable-bond)) means the opposite.*
@@ -22,7 +22,7 @@ For the linear sensitivity measure, see [duration](/duration). For callable bond
 
 <div class="wiki-infobox-title">Convexity — key facts</div>
 
-<img src="https://picsum.photos/seed/convexity/900/600" alt="A graph showing the curved relationship between bond price and yield" />
+<img src="/svg/fixed-income.svg" alt="A graph showing the curved relationship between bond price and yield" />
 
 <div class="wiki-infobox-caption">Positive convexity creates asymmetric gains: bonds gain more from rate falls than they lose from rate rises.</div>
 

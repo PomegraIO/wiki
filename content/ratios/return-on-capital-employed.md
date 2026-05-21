@@ -7,7 +7,7 @@ keywords:
   - capital efficiency
   - invested capital
   - profitability
-image: "https://picsum.photos/seed/return-on-capital-employed/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on capital employed** — or **ROCE** — is similar to [return-on-invested-capital](/return-on-invested-capital), dividing NOPAT (net operating profit after tax) by capital employed (equity plus debt minus cash). ROCE above the cost of capital signals value creation.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/return-on-capital-employed/900/600"
 
 <div class="wiki-infobox-title">Return on Capital Employed — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-capital-employed/900/600" alt="Profit on all long-term capital" />
+<img src="/svg/ratios.svg" alt="Profit on all long-term capital" />
 
 <div class="wiki-infobox-caption">Returns on all investor capital.</div>
 

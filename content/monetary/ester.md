@@ -7,7 +7,7 @@ keywords:
   - benchmark rate
   - eurozone
   - ECB
-image: "https://picsum.photos/seed/ester/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **ESTER** (Euro Short-Term Rate) is a benchmark [interest rate](/interest-rate) that measures the cost of overnight unsecured borrowing in euros. Published by the European Central Bank and based on actual, observed overnight lending transactions, ESTER is the transaction-based successor to [EURIBOR](/euribor) and [LIBOR](/libor) in euro denominations.*
@@ -22,7 +22,7 @@ This entry covers ESTER's mechanics and role. For parallel rates in other curren
 
 <div class="wiki-infobox-title">ESTER — key facts</div>
 
-<img src="https://picsum.photos/seed/ester/900/600" alt="Euro overnight unsecured lending transactions" />
+<img src="/svg/monetary.svg" alt="Euro overnight unsecured lending transactions" />
 
 <div class="wiki-infobox-caption">ESTER is based on actual observed overnight unsecured euro lending.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - legal tender
   - government money
   - intrinsic value
-image: "https://picsum.photos/seed/fiat-money/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **fiat money** (or **fiat currency**) is money that has value because a government declares it to be legal tender, not because it is backed by a commodity like gold or silver. The term comes from the Latin *fiat*, meaning "let it be done." Fiat money's value rests entirely on confidence in the government and its central bank; if confidence collapses, the currency can become worthless.*
@@ -22,7 +22,7 @@ This entry covers fiat money's nature and implications. For alternatives, see [c
 
 <div class="wiki-infobox-title">Fiat Money — key facts</div>
 
-<img src="https://picsum.photos/seed/fiat-money/900/600" alt="Paper currency declared legal tender by government" />
+<img src="/svg/monetary.svg" alt="Paper currency declared legal tender by government" />
 
 <div class="wiki-infobox-caption">Fiat money has value only by government declaration and public confidence.</div>
 

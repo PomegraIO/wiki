@@ -7,7 +7,7 @@ keywords:
   - passive investor
   - beneficial ownership
   - 5% disclosure
-image: "https://picsum.photos/seed/section-13g/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Section 13(g)](/section-13g) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) provides a simplified disclosure regime for passive investors holding 5% or more of a company's stock. Instead of filing the lengthy Schedule 13D (which requires disclosure of plans and intentions), a passive investor can file a Schedule 13G, a shorter form requiring only basic information. The investor must certify that it is acquiring the securities for investment purposes and does not intend to acquire control.*
@@ -22,7 +22,7 @@ Section 13(g) applies to passive investors. [Section 13(d)](/section-13d) applie
 
 <div class="wiki-infobox-title">Section 13(g) — key facts</div>
 
-<img src="https://picsum.photos/seed/section-13g/900/600" alt="A Schedule 13G filing" />
+<img src="/svg/regulation.svg" alt="A Schedule 13G filing" />
 
 <div class="wiki-infobox-caption">A Schedule 13G for a passive stake.</div>
 

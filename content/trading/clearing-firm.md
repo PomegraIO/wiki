@@ -6,7 +6,7 @@ keywords:
   - clearinghouse member
   - settlement
   - risk management
-image: "https://picsum.photos/seed/clearing-firm/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **clearing firm** is a financial institution (usually a large bank or broker) that is a member of a [clearinghouse](/clearing-firm) (like the NSCC for stocks or CME for futures). When you execute a trade, the clearing firm processes it through the clearinghouse, ensures both parties meet their obligations, manages risk, and settles the trade by moving cash and securities between accounts. Clearing firms are essential intermediaries that guarantee trade settlement.*
@@ -21,7 +21,7 @@ For the organization managing clearing, see [clearinghouse](/clearing-firm). For
 
 <div class="wiki-infobox-title">Clearing firm — key facts</div>
 
-<img src="https://picsum.photos/seed/clearing-firm/900/600" alt="A clearing firm processing trades through the clearinghouse" />
+<img src="/svg/trading.svg" alt="A clearing firm processing trades through the clearinghouse" />
 
 <div class="wiki-infobox-caption">Clearing firms process trades, manage risk, and guarantee settlement.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - productivity growth
   - wages
   - efficiency
-image: "https://picsum.photos/seed/labor-productivity/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Labor productivity is [output](/gross-domestic-product) per unit of labor input, typically measured as [real GDP](/real-gdp) divided by total hours worked. It is the most widely watched [productivity](/productivity) metric because wages are ultimately paid out of what workers produce — sustained wage growth requires sustained productivity growth.*
@@ -22,7 +22,7 @@ Labor productivity = [Real GDP](/real-gdp) ÷ Total hours worked. It captures ho
 
 <div class="wiki-infobox-title">Labor Productivity — key facts</div>
 
-<img src="https://picsum.photos/seed/labor-productivity/900/600" alt="Labor productivity growth by sector" />
+<img src="/svg/macro.svg" alt="Labor productivity growth by sector" />
 
 <div class="wiki-infobox-caption">Manufacturing productivity rises faster than services; technology has different impacts across sectors.</div>
 

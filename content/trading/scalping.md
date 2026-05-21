@@ -6,7 +6,7 @@ keywords:
   - day trading
   - intraday trading
   - fast trading
-image: "https://picsum.photos/seed/scalping/900/600"
+image: "/svg/trading.svg"
 ---
 
 *Scalping is an extremely short-term trading style where a trader holds positions for seconds to minutes, aiming to profit on small price moves ($0.01–$0.10 per share). A scalper might execute 50–200 trades per day, each with minimal profit, and rely on volume and consistency to build returns. Scalping requires speed, focus, discipline, and low commissions. It is exhausting and typically only profitable for a small percentage of traders.*
@@ -21,7 +21,7 @@ For day trading (minutes to hours), see [day trading](/day-order). For multi-day
 
 <div class="wiki-infobox-title">Scalping — key facts</div>
 
-<img src="https://picsum.photos/seed/scalping/900/600" alt="A fast-paced trading screen with rapid entry and exit signals" />
+<img src="/svg/trading.svg" alt="A fast-paced trading screen with rapid entry and exit signals" />
 
 <div class="wiki-infobox-caption">Scalping: buy, hold for seconds, sell for pennies. Repeat hundreds of times.</div>
 

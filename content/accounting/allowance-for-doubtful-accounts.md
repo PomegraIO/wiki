@@ -7,7 +7,7 @@ keywords:
   - bad debt reserve
   - uncollectible accounts
   - CECL
-image: "https://picsum.photos/seed/allowance-for-doubtful-accounts/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **allowance for doubtful accounts** is a reserve on the [balance sheet](/balance-sheet) that reduces [accounts receivable](/accounts-receivable) to its net realizable value — the amount the company actually expects to collect. When revenue is recognized under [accrual-accounting](/accrual-accounting), some customers inevitably fail to pay. Rather than waiting to know exactly which amounts will not be collected, accounting standards require companies to estimate the uncollectible percentage upfront and create a reserve. The difference between the allowance and what is actually uncollected is the bad-debt-expense on the [income statement](/income-statement).*
@@ -22,7 +22,7 @@ This entry covers the allowance reserve. For the income statement charge, see ba
 
 <div class="wiki-infobox-title">Allowance for doubtful accounts — key facts</div>
 
-<img src="https://picsum.photos/seed/allowance-for-doubtful-accounts/900/600" alt="A balance sheet showing accounts receivable reduced by the allowance" />
+<img src="/svg/accounting.svg" alt="A balance sheet showing accounts receivable reduced by the allowance" />
 
 <div class="wiki-infobox-caption">The allowance reduces receivables to net realizable value.</div>
 

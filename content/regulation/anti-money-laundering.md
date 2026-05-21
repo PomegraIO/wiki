@@ -7,7 +7,7 @@ keywords:
   - money laundering
   - financial crime
   - suspicious activity
-image: "https://picsum.photos/seed/anti-money-laundering/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Anti-money laundering (**AML**) laws are regulations requiring financial institutions to detect and report suspicious financial activity that might indicate money laundering, terrorism financing, or other financial crimes. Enacted in nearly every jurisdiction, AML laws impose [Know Your Customer](/kyc) (KYC) requirements, suspicious activity reporting, and customer monitoring on banks, brokers, casinos, and other regulated entities. The goal is to starve criminals of the ability to hide proceeds and finance terrorism.*
@@ -22,7 +22,7 @@ AML is global regulation. The US enforces it through the Bank Secrecy Act and OF
 
 <div class="wiki-infobox-title">Anti-Money Laundering — key facts</div>
 
-<img src="https://picsum.photos/seed/anti-money-laundering/900/600" alt="AML compliance training" />
+<img src="/svg/regulation.svg" alt="AML compliance training" />
 
 <div class="wiki-infobox-caption">Financial institutions conduct AML compliance training.</div>
 

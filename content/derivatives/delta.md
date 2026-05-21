@@ -7,7 +7,7 @@ keywords:
   - price sensitivity
   - hedge ratio
   - derivative risk
-image: "https://picsum.photos/seed/delta/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **delta** of an option is the rate of change of the option's price with respect to the underlying asset's price. A delta of 0.5 means the option moves $0.50 for each $1 move in the stock. [Call option](/call-option) deltas range from 0 (deep [out-of-the-money](/out-of-the-money)) to 1.0 (deep [in-the-money](/in-the-money)); [put option](/put-option) deltas range from -1.0 to 0. Delta is also the hedge ratio—the number of shares needed to hedge an option position.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/delta/900/600"
 
 <div class="wiki-infobox-title">Delta — key facts</div>
 
-<img src="https://picsum.photos/seed/delta/900/600" alt="Price sensitivity slope chart" />
+<img src="/svg/derivatives.svg" alt="Price sensitivity slope chart" />
 
 <div class="wiki-infobox-caption">Delta quantifies option price moves with stock moves.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - fixed costs
   - profitability
   - break-even analysis
-image: "https://picsum.photos/seed/contribution-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **contribution margin** divides revenue minus variable costs by revenue. A 60% contribution margin means each sales dollar leaves 60 cents to cover fixed costs and profit. It is useful for break-even analysis and understanding operating leverage.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/contribution-margin/900/600"
 
 <div class="wiki-infobox-title">Contribution Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/contribution-margin/900/600" alt="Revenue minus variable costs" />
+<img src="/svg/ratios.svg" alt="Revenue minus variable costs" />
 
 <div class="wiki-infobox-caption">What each sale contributes after variable costs.</div>
 

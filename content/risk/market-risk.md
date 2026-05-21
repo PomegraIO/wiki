@@ -7,7 +7,7 @@ keywords:
   - price volatility
   - portfolio loss
   - beta
-image: "https://picsum.photos/seed/market-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Market risk — also called **systematic risk** — is the exposure of an investment portfolio to losses stemming from broad, economy-wide movements in asset prices, interest rates, or exchange rates. It affects most securities in the same direction simultaneously, making it impossible to eliminate through [diversification](/diversification) alone.*
@@ -22,7 +22,7 @@ This entry covers the broad exposure every portfolio faces to macro price moveme
 
 <div class="wiki-infobox-title">Market Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/market-risk/900/600" alt="A digital display of falling red price indices" />
+<img src="/svg/risk.svg" alt="A digital display of falling red price indices" />
 
 <div class="wiki-infobox-caption">Market risk affects entire asset classes, not individual holdings.</div>
 

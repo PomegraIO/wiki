@@ -7,7 +7,7 @@ keywords:
   - securities registration
   - public offering
   - prospectus
-image: "https://picsum.photos/seed/securities-act-of-1933/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Securities Act of 1933** is the foundational US law governing the [initial public offering](/initial-public-offering) of securities. It requires that any company wanting to sell securities to the public must first register with the [SEC](/securities-and-exchange-commission), disclose material information, and issue a prospectus. The Act's core principle is transparency: let the buyer beware, but only after the seller has told the truth.*
@@ -22,7 +22,7 @@ The Securities Act of 1933 governs the offer and sale of new securities (primary
 
 <div class="wiki-infobox-title">Securities Act of 1933 — key facts</div>
 
-<img src="https://picsum.photos/seed/securities-act-of-1933/900/600" alt="The original Act of 1933" />
+<img src="/svg/regulation.svg" alt="The original Act of 1933" />
 
 <div class="wiki-infobox-caption">The Securities Act of 1933, signed into law in May.</div>
 

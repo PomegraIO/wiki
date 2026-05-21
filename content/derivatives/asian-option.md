@@ -7,7 +7,7 @@ keywords:
   - average price option
   - path-dependent
   - derivative
-image: "https://picsum.photos/seed/asian-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An **Asian option** is an exotic derivative whose payoff is based on the average price of the underlying asset over a specified period, rather than its price on the [expiration date](/expiration-date). This averaging smooths out short-term price spikes and makes the option cheaper and less sensitive to manipulation than a standard [call option](/call-option) or [put option](/put-option) struck on the spot price.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/asian-option/900/600"
 
 <div class="wiki-infobox-title">Asian Option — key facts</div>
 
-<img src="https://picsum.photos/seed/asian-option/900/600" alt="A chart showing average price calculation over time" />
+<img src="/svg/derivatives.svg" alt="A chart showing average price calculation over time" />
 
 <div class="wiki-infobox-caption">Asian options smooth volatility by averaging price over a period.</div>
 

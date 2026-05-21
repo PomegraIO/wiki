@@ -7,7 +7,7 @@ keywords:
   - automation
   - saving strategy
   - financial priority
-image: "https://picsum.photos/seed/pay-yourself-first/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *"**Pay yourself first**" means moving money to savings or investment *before* you allocate it to spending. Instead of spending and saving what is left over, you save a fixed amount and spend what remains. This reverses the typical order and makes savings the priority, not the afterthought.*
@@ -22,7 +22,7 @@ For the percentage of income to allocate, see [savings rate](/savings-rate); for
 
 <div class="wiki-infobox-title">Pay Yourself First — key facts</div>
 
-<img src="https://picsum.photos/seed/pay-yourself-first/900/600" alt="A paycheck being split with an arrow pointing to a savings account and another pointing to a spending account" />
+<img src="/svg/personal-finance.svg" alt="A paycheck being split with an arrow pointing to a savings account and another pointing to a spending account" />
 
 <div class="wiki-infobox-caption">The flow: income → savings → spending, not income → spending → savings.</div>
 

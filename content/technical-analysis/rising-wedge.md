@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/rising-wedge/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **rising wedge** is a chart pattern consisting of two upward-sloping lines that converge toward each other. Both the upper line (resistance, rising) and lower line (support, rising) slope upward, but at different rates, narrowing the range as they approach. The pattern visually resembles an upward-pointing wedge or knife. A rising wedge appearing within an uptrend is often interpreted as a bearish reversal signal: the price is making higher highs and higher lows, but the range is narrowing, suggesting momentum is exhausting. A break below the lower line signals a downward reversal. Conversely, a rising wedge within a downtrend can signal continuation lower—the consolidation precedes further decline.*
@@ -22,7 +22,7 @@ For wedges broadly, see [wedge-pattern](/technical-analysis/wedge-pattern). The 
 
 <div class="wiki-infobox-title">Rising wedge — key facts</div>
 
-<img src="https://picsum.photos/seed/rising-wedge/900/600" alt="A rising wedge: two upward-sloping converging lines" />
+<img src="/svg/technical-analysis.svg" alt="A rising wedge: two upward-sloping converging lines" />
 
 <div class="wiki-infobox-caption">Rising wedge: both lines slope up but converge; bearish if in uptrend.</div>
 

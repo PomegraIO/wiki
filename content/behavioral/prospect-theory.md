@@ -7,7 +7,7 @@ keywords:
   - decision-making
   - utility function
   - value function
-image: "https://picsum.photos/seed/prospect-theory/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Prospect theory describes how people actually make decisions under uncertainty, as opposed to how rational economic theory says they should. It incorporates three key empirical findings: losses loom larger than gains ([loss aversion](/loss-aversion)), people weight probabilities nonlinearly (overweighting small probabilities and underweighting large ones), and choices are evaluated relative to a reference point rather than in absolute terms.*
@@ -22,7 +22,7 @@ Developed by Kahneman & Tversky (1979). The foundation of behavioral finance. Fo
 
 <div class="wiki-infobox-title">Prospect theory — key facts</div>
 
-<img src="https://picsum.photos/seed/prospect-theory/900/600" alt="A value function curve bent asymmetrically around an origin point" />
+<img src="/svg/behavioral.svg" alt="A value function curve bent asymmetrically around an origin point" />
 
 <div class="wiki-infobox-caption">The value function of prospect theory: steeper for losses than gains, and bends in both directions.</div>
 

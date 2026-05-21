@@ -7,7 +7,7 @@ keywords:
   - upside surprise
   - forecasting error
   - bullish surprise
-image: "https://picsum.photos/seed/white-swan/900/600"
+image: "/svg/risk.svg"
 ---
 
 *A white swan is a positive surprise or unexpectedly favorable outcome that stems from foreseeable conditions that developed better than expected. Unlike [black swans](/black-swan) and [gray swans](/gray-swan), which are downside catastrophes, white swans are upside surprises that benefit investors or the economy.*
@@ -22,7 +22,7 @@ This entry covers upside surprises. For downside catastrophes that are unpredict
 
 <div class="wiki-infobox-title">White Swan — key facts</div>
 
-<img src="https://picsum.photos/seed/white-swan/900/600" alt="A white swan in sunlight with a bright background" />
+<img src="/svg/risk.svg" alt="A white swan in sunlight with a bright background" />
 
 <div class="wiki-infobox-caption">White swans are positive surprises; fewer are anticipated than should be.</div>
 

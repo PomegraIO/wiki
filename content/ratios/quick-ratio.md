@@ -7,7 +7,7 @@ keywords:
   - liquidity
   - working capital
   - solvency
-image: "https://picsum.photos/seed/quick-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **quick ratio** — also called the **acid-test ratio** — divides the most liquid current assets by current liabilities. It includes cash and accounts receivable but excludes inventory (which may be slow to convert). A quick ratio of 1.0 means the company has $1.00 in cash and receivables for every $1.00 of short-term obligations. It is a stricter test of liquidity than the [current ratio](/current-ratio).*
@@ -22,7 +22,7 @@ This entry covers a stricter liquidity measure. For the broader test, see [curre
 
 <div class="wiki-infobox-title">Quick Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/quick-ratio/900/600" alt="Liquid assets against current liabilities" />
+<img src="/svg/ratios.svg" alt="Liquid assets against current liabilities" />
 
 <div class="wiki-infobox-caption">The acid test: can you pay obligations from liquid assets alone?</div>
 

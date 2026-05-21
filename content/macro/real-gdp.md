@@ -7,7 +7,7 @@ keywords:
   - inflation-adjusted
   - economic growth
   - constant prices
-image: "https://picsum.photos/seed/real-gdp/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Real GDP is [gross domestic product](/gross-domestic-product) adjusted for inflation. It expresses all output at the prices of a fixed base year — usually 2012 or 2017 — so that the numbers reflect genuine changes in the quantity of goods and services produced, not price movements.*
@@ -22,7 +22,7 @@ Contrast with [nominal GDP](/nominal-gdp), which uses current prices and conflat
 
 <div class="wiki-infobox-title">Real GDP — key facts</div>
 
-<img src="https://picsum.photos/seed/real-gdp/900/600" alt="Real vs nominal GDP growth" />
+<img src="/svg/macro.svg" alt="Real vs nominal GDP growth" />
 
 <div class="wiki-infobox-caption">Real GDP growth isolates the growth in actual production from price increases.</div>
 

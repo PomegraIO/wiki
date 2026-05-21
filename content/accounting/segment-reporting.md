@@ -7,7 +7,7 @@ keywords:
   - FASB standard
   - disclosure requirements
   - geographic segments
-image: "https://picsum.photos/seed/segment-reporting/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Segment reporting](/segment-reporting) requires public companies to disclose financial information for individual business segments — the company's divisions, product lines, or geographic regions. The purpose is to let investors analyze the company's overall performance by breaking down results into meaningful parts. A conglomerate with electronics, automotive, and defense divisions can confuse investors; [segment reporting](/segment-reporting) shows how each performs separately. [Segment reporting](/segment-reporting) is governed by [FASB](/fasb) standard ASC 280 (IFRS 8 internationally). The required disclosures include segment revenue, operating income, assets, and other metrics, plus a reconciliation to consolidated results.*
@@ -22,7 +22,7 @@ This entry covers segment reporting requirements. For the consolidated statement
 
 <div class="wiki-infobox-title">Segment reporting — key facts</div>
 
-<img src="https://picsum.photos/seed/segment-reporting/900/600" alt="A table showing revenue and profit by business segment" />
+<img src="/svg/accounting.svg" alt="A table showing revenue and profit by business segment" />
 
 <div class="wiki-infobox-caption">Segment reporting breaks down company performance by division.</div>
 

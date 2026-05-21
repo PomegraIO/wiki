@@ -8,7 +8,7 @@ keywords:
   - small-cap stocks
   - alternative venue
   - OTC market
-image: "https://picsum.photos/seed/unlisted-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *An **unlisted market** is any trading venue for securities that do not meet the listing standards of a major [stock exchange](/stock-exchange). Unlisted securities may trade on alternative platforms, through [over-the-counter](/over-the-counter-market) networks, or through [electronic communication networks](/ecn-detail). They typically have fewer disclosure requirements, smaller trading volumes, and wider bid-ask spreads than [listed](/listed-market) securities.*
@@ -23,7 +23,7 @@ This entry is about securities that do not trade on major exchanges. For the ven
 
 <div class="wiki-infobox-title">Unlisted Market — key facts</div>
 
-<img src="https://picsum.photos/seed/unlisted-market/900/600" alt="A small-cap stock trading screen showing limited order book depth and wide spreads" />
+<img src="/svg/markets.svg" alt="A small-cap stock trading screen showing limited order book depth and wide spreads" />
 
 <div class="wiki-infobox-caption">Unlisted markets often show the thinness and illiquidity typical of smaller or younger companies.</div>
 

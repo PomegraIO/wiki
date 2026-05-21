@@ -7,7 +7,7 @@ keywords:
   - buyback
   - M&A
   - public offer
-image: "https://picsum.photos/seed/tender-offer/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **tender offer** is a public invitation by one company to another company's shareholders to sell (tender) their shares at a specified price within a stated period. Tender offers are the mechanism by which an acquirer attempts to accumulate a controlling stake in a public company, either with the target's board support ([friendly takeover](/friendly-takeover)) or against its opposition ([hostile takeover](/hostile-takeover)). A company may also make a tender offer for its own shares — a [share buyback](/share-buyback) — to return capital to shareholders or support the stock price.*
@@ -22,7 +22,7 @@ This entry covers tender offers as a share-purchase mechanism. For hostile conte
 
 <div class="wiki-infobox-title">Tender offer — key facts</div>
 
-<img src="https://picsum.photos/seed/tender-offer/900/600" alt="An offer extended to shareholders" />
+<img src="/svg/corporate.svg" alt="An offer extended to shareholders" />
 
 <div class="wiki-infobox-caption">A tender offer invites shareholders to sell at a set price and timeline.</div>
 

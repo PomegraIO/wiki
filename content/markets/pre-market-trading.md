@@ -8,7 +8,7 @@ keywords:
   - extended hours trading
   - overnight news
   - gap opening
-image: "https://picsum.photos/seed/pre-market-trading/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **pre-market** is an extended trading session that occurs before a stock exchange's official opening. In the US, [pre-market trading](/pre-market-trading) typically begins at 4:00 AM Eastern Time and lasts until the [regular trading hours](/regular-trading-hours) begin at 9:30 AM. It allows investors to react to overnight earnings releases, economic data, and international news, but trading volume and liquidity are substantially lower than during regular hours.*
@@ -23,7 +23,7 @@ This entry is about early trading before the official open. For trading during t
 
 <div class="wiki-infobox-title">Pre-Market Trading — key facts</div>
 
-<img src="https://picsum.photos/seed/pre-market-trading/900/600" alt="A trader monitoring global markets before the US stock market opens" />
+<img src="/svg/markets.svg" alt="A trader monitoring global markets before the US stock market opens" />
 
 <div class="wiki-infobox-caption">Pre-market trading allows early reactions to overnight news and events.</div>
 

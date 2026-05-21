@@ -8,7 +8,7 @@ keywords:
   - benchmark
   - large-cap stocks
   - market capitalization
-image: "https://picsum.photos/seed/sp-500-index/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **S&P 500 Index** (often written SPX) is a market-capitalization-weighted index of 500 large-cap US companies selected by Standard & Poor's. It is the most widely used benchmark for the US [stock market](/stock-market) and represents approximately 80% of the US market's total capitalization. Movements in the S&P 500 are considered a primary indicator of the health of the US economy. Trillions of dollars are invested in passive [index funds](/index-fund) and [ETFs](/etf) tracking the S&P 500.*
@@ -23,7 +23,7 @@ This entry is about the S&P 500 benchmark. For alternative indices, see [Dow Jon
 
 <div class="wiki-infobox-title">S&P 500 — key facts</div>
 
-<img src="https://picsum.photos/seed/sp-500-index/900/600" alt="A chart showing the long-term performance of the S&P 500 from 1980 to present" />
+<img src="/svg/markets.svg" alt="A chart showing the long-term performance of the S&P 500 from 1980 to present" />
 
 <div class="wiki-infobox-caption">The S&P 500 is the most widely tracked stock market benchmark.</div>
 

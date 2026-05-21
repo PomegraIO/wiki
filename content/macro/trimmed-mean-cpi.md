@@ -7,7 +7,7 @@ keywords:
   - CPI
   - underlying inflation
   - volatility reduction
-image: "https://picsum.photos/seed/trimmed-mean-cpi/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Trimmed-mean CPI is calculated by removing items with the most extreme price changes (highest and lowest 10–20%) each month, then averaging the remainder. This approach aims to capture underlying [inflation](/inflation) trends better than [core inflation](/core-inflation) by filtering out both temporary commodity shocks and unusual demand spikes.*
@@ -22,7 +22,7 @@ Trimmed-mean CPI usually falls between headline and [core inflation](/core-infla
 
 <div class="wiki-infobox-title">Trimmed-Mean CPI — key facts</div>
 
-<img src="https://picsum.photos/seed/trimmed-mean-cpi/900/600" alt="Trimmed-mean versus core inflation" />
+<img src="/svg/macro.svg" alt="Trimmed-mean versus core inflation" />
 
 <div class="wiki-infobox-caption">Trimmed-mean (red) often tracks between headline and core inflation, revealing underlying trends.</div>
 

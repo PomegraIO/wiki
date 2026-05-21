@@ -7,7 +7,7 @@ keywords:
   - political risk
   - currency crisis
   - expropriation
-image: "https://picsum.photos/seed/country-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Country risk is the risk of economic loss on an investment due to events in a specific country — political instability, expropriation of assets, currency controls, capital flight restrictions, war, civil unrest, or default by the government. It is a form of [systemic-risk](/systemic-risk) concentrated in a single nation.*
@@ -22,7 +22,7 @@ This entry covers risks specific to a country's political and economic stability
 
 <div class="wiki-infobox-title">Country Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/country-risk/900/600" alt="A map with one country highlighted in red and marked with warning symbols" />
+<img src="/svg/risk.svg" alt="A map with one country highlighted in red and marked with warning symbols" />
 
 <div class="wiki-infobox-caption">Country risk materializes when governments or political conditions deteriorate.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - bullish
   - u-shaped
   - technical analysis
-image: "https://picsum.photos/seed/rounding-bottom/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **rounding bottom** is a bullish reversal pattern characterized by a smooth, U-shaped price formation. Unlike sharp reversals (which occur over days or weeks), a rounding bottom develops gradually over weeks or months. Price declines in a downtrend, reaches a low, then gradually climbs in a rounded arc back to the level where the decline began, signalling a complete reversal of direction. The pattern is also called a **saucer** bottom. The gradual, rounded shape shows that selling pressure is exhausting gradually and buying interest is building methodically—the opposite of panic moves. Rounding bottoms are considered relatively reliable reversal patterns because they reveal patient, fundamental-driven reversals rather than speculative overshoots.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Rounding bottom — key facts</div>
 
-<img src="https://picsum.photos/seed/rounding-bottom/900/600" alt="A rounding bottom pattern: smooth U-shaped recovery from downtrend" />
+<img src="/svg/technical-analysis.svg" alt="A rounding bottom pattern: smooth U-shaped recovery from downtrend" />
 
 <div class="wiki-infobox-caption">Rounding bottom: gradual reversal, rounded low, steady climb; no sharp reversals.</div>
 

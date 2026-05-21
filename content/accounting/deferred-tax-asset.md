@@ -7,7 +7,7 @@ keywords:
   - tax deduction
   - future tax benefit
   - balance sheet
-image: "https://picsum.photos/seed/deferred-tax-asset/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *A **deferred tax asset** is an asset on the [balance sheet](/balance-sheet) representing a future tax deduction or tax payment reduction. It arises when a company's financial statement (book) accounting differs from its tax accounting, and the difference is temporary — meaning it will reverse in the future. Common sources are bad debt expenses (deducted for tax years after provision), [depreciation](/depreciation) differences (book vs. tax depreciation methods), loss carryforwards, and pension accruals. The [deferred tax asset](/deferred-tax-asset) reduces the company's future tax bills. A deferred tax liability is the opposite: a future tax obligation.*
@@ -22,7 +22,7 @@ This entry covers deferred tax assets. For the opposite, see deferred-tax-liabil
 
 <div class="wiki-infobox-title">Deferred tax asset — key facts</div>
 
-<img src="https://picsum.photos/seed/deferred-tax-asset/900/600" alt="A balance sheet showing deferred tax asset among non-current assets" />
+<img src="/svg/accounting.svg" alt="A balance sheet showing deferred tax asset among non-current assets" />
 
 <div class="wiki-infobox-caption">Deferred tax assets reduce future tax payments.</div>
 

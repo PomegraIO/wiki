@@ -7,7 +7,7 @@ keywords:
   - financial restatement
   - prior period
   - auditor correction
-image: "https://picsum.photos/seed/restatement/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *A **restatement** is the revision and re-release of prior-period financial statements because they contained material errors (unintentional mistakes) or violated [GAAP](/generally-accepted-accounting-principles) or [IFRS](/international-financial-reporting-standards). A company might discover that revenue was recognized prematurely, [depreciation](/depreciation) was calculated incorrectly, or a [contingent liability](/contingent-liability) was omitted. The company must correct the statements by issuing a restatement, which updates all affected periods. Restatements are a sign of internal control failures and often trigger regulatory scrutiny, shareholder lawsuits, and auditor changes. Frequent restatements signal low earnings quality and weak governance.*
@@ -22,7 +22,7 @@ This entry covers restatements in general. For how the auditor responds, see [au
 
 <div class="wiki-infobox-title">Restatement — key facts</div>
 
-<img src="https://picsum.photos/seed/restatement/900/600" alt="A press release announcing a financial restatement" />
+<img src="/svg/accounting.svg" alt="A press release announcing a financial restatement" />
 
 <div class="wiki-infobox-caption">Restatements correct prior periods for errors or accounting violations.</div>
 

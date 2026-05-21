@@ -8,7 +8,7 @@ keywords:
   - public quotes
   - visible liquidity
   - ATS
-image: "https://picsum.photos/seed/lit-venue-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **lit venue** is a trading platform that publicly displays available buying and selling interest in real time. Orders, quotes, and execution prices are visible to market participants. Lit venues include stock [exchanges](/stock-exchange), most [alternative trading systems](/alternative-trading-system), and some broker-operated platforms. They contrast with [dark pools](/dark-pool-detail), which hide pre-trade information.*
@@ -23,7 +23,7 @@ This entry is about transparent trading venues. For private venues, see [dark po
 
 <div class="wiki-infobox-title">Lit Venue — key facts</div>
 
-<img src="https://picsum.photos/seed/lit-venue-detail/900/600" alt="A trading screen showing visible order book with bid-ask prices and quantities" />
+<img src="/svg/markets.svg" alt="A trading screen showing visible order book with bid-ask prices and quantities" />
 
 <div class="wiki-infobox-caption">Lit venues display all available liquidity in real time.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - listing standards
   - transparency
   - exchange trading
-image: "https://picsum.photos/seed/listed-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **listed market** is a [stock exchange](/stock-exchange) or other regulated venue where securities meeting strict listing standards are traded. To be listed, a company must meet financial thresholds (minimum market capitalization, profitability, or trading volume), comply with disclosure rules, and agree to ongoing reporting. Listed markets are the most transparent and heavily regulated trading venues.*
@@ -23,7 +23,7 @@ This entry is about trading venues that enforce listing standards. For securitie
 
 <div class="wiki-infobox-title">Listed Market — key facts</div>
 
-<img src="https://picsum.photos/seed/listed-market/900/600" alt="The trading floor of a major stock exchange with electronic displays showing stock prices" />
+<img src="/svg/markets.svg" alt="The trading floor of a major stock exchange with electronic displays showing stock prices" />
 
 <div class="wiki-infobox-caption">Listed markets are the most formal and transparent trading venues, with rigorous admission standards.</div>
 

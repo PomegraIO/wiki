@@ -7,7 +7,7 @@ keywords:
   - speculative grade
   - sub-investment-grade
   - distressed debt
-image: "https://picsum.photos/seed/junk-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **junk bond** is a debt security rated below investment-grade, typically BB or lower, with material or high default risk. The term "junk" reflects the low credit quality and elevated risk; the bonds compensate investors with substantially higher yields. Junk bonds are issued by highly leveraged companies, distressed firms, or entities in troubled industries.*
@@ -22,7 +22,7 @@ The term "junk bond" is synonymous with [high-yield bond](/high-yield-bond). For
 
 <div class="wiki-infobox-title">Junk Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/junk-bond/900/600" alt="A chart showing spreads and defaults of junk bonds during economic cycles" />
+<img src="/svg/fixed-income.svg" alt="A chart showing spreads and defaults of junk bonds during economic cycles" />
 
 <div class="wiki-infobox-caption">Junk bonds offer extreme risk-return tradeoffs, behaving very differently than safe bonds in crises.</div>
 

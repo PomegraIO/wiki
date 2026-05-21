@@ -7,7 +7,7 @@ keywords:
   - economic capacity
   - labor market
   - output gap
-image: "https://picsum.photos/seed/full-employment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Full employment does not mean zero [unemployment](/unemployment-rate). Rather, it is the state when the economy has no [cyclical slack](/cyclical-unemployment) — when actual [unemployment](/unemployment-rate) equals the [natural rate](/natural-rate-of-unemployment), the [output gap](/output-gap) is zero, and [inflation](/inflation) is stable. In full employment, remaining [unemployment](/unemployment-rate) is purely [frictional](/frictional-unemployment) and [structural](/structural-unemployment).*
@@ -22,7 +22,7 @@ Full employment typically corresponds to an [unemployment rate](/unemployment-ra
 
 <div class="wiki-infobox-title">Full Employment — key facts</div>
 
-<img src="https://picsum.photos/seed/full-employment/900/600" alt="Unemployment rate near full employment" />
+<img src="/svg/macro.svg" alt="Unemployment rate near full employment" />
 
 <div class="wiki-infobox-caption">Full employment is characterized by low unemployment, tight labor markets, and stable inflation.</div>
 

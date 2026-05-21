@@ -7,7 +7,7 @@ keywords:
   - useful life
   - goodwill amortization
   - cost allocation
-image: "https://picsum.photos/seed/amortization/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Amortization](/amortization) is the accounting practice of spreading the cost of an intangible asset — one without physical form, like a patent, trademark, customer list, or software — across its useful life. Conceptually, [amortization](/amortization) is identical to [depreciation](/depreciation); the only difference is that [depreciation](/depreciation) applies to tangible assets (buildings, equipment) and [amortization](/amortization) applies to intangible assets. Like [depreciation](/depreciation), [amortization](/amortization) is a non-cash expense that reduces reported earnings. Not all intangible assets are amortized; [goodwill](/goodwill), for example, is tested for impairment rather than amortized.*
@@ -22,7 +22,7 @@ This entry covers amortization in general. For specific intangible assets, see [
 
 <div class="wiki-infobox-title">Amortization — key facts</div>
 
-<img src="https://picsum.photos/seed/amortization/900/600" alt="A timeline showing an intangible asset cost being allocated over years via amortization" />
+<img src="/svg/accounting.svg" alt="A timeline showing an intangible asset cost being allocated over years via amortization" />
 
 <div class="wiki-infobox-caption">Amortization spreads intangible asset cost over its useful life.</div>
 

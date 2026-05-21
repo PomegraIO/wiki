@@ -8,7 +8,7 @@ keywords:
   - SEC filing
   - venture market
   - mid-tier OTC
-image: "https://picsum.photos/seed/otc-otcqb/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **OTCQB** market is the middle tier of over-the-counter trading in the US, operated by OTC Markets Group. It requires companies to file with the SEC and meet a minimum tangible net worth requirement, but allows a minimum bid price of $0.01 (compared to $4.00 for [OTCQX](/otc-otcqx)). OTCQB serves as a stepping-stone: it is substantially safer than [OTC Pink](/otc-pink) due to SEC filing requirements, but with lower standards than [OTCQX](/otc-otcqx).*
@@ -23,7 +23,7 @@ This entry is about the middle OTC tier. For higher standards, see [OTCQX](/otc-
 
 <div class="wiki-infobox-title">OTCQB — key facts</div>
 
-<img src="https://picsum.photos/seed/otc-otcqb/900/600" alt="An OTCQB listing showing company filings and current disclosure status" />
+<img src="/svg/markets.svg" alt="An OTCQB listing showing company filings and current disclosure status" />
 
 <div class="wiki-infobox-caption">OTCQB requires SEC filing and financial standards, but permits lower stock prices than OTCQX.</div>
 

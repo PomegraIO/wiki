@@ -7,7 +7,7 @@ keywords:
   - behavioral economics
   - bubbles
   - crisis
-image: "https://picsum.photos/seed/hyman-minsky/900/600"
+image: "/svg/people.svg"
 ---
 
 *Hyman Minsky developed a theory of financial systems that emphasized their instability, arguing that the pursuit of profit and the use of leverage inevitably led to bubbles, crashes, and crises — a theory largely ignored until the 2008 financial crisis validated it.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/hyman-minsky/900/600"
 
 <div class="wiki-infobox-title">Hyman Minsky — key facts</div>
 
-<img src="https://picsum.photos/seed/hyman-minsky/900/600" alt="Charts of credit expansion and financial crises over time" />
+<img src="/svg/people.svg" alt="Charts of credit expansion and financial crises over time" />
 
 <div class="wiki-infobox-caption">The pattern he identified — boom, bust, and the cycle again.</div>
 

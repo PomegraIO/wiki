@@ -7,7 +7,7 @@ keywords:
   - merger
   - M&A
   - board approval
-image: "https://picsum.photos/seed/friendly-takeover/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **friendly takeover** is an [acquisition](/acquisition) that proceeds with the consent and active support of the target company's board of directors. The acquirer and target negotiate terms directly, the board endorses the transaction, and shareholders vote to approve it. Nearly all completed acquisitions are friendly in structure, though the term is used more to distinguish from [hostile takeovers](/hostile-takeover) than to convey any genuine warmth.*
@@ -22,7 +22,7 @@ This entry covers the mechanics and process of a friendly takeover. For hostile 
 
 <div class="wiki-infobox-title">Friendly takeover — key facts</div>
 
-<img src="https://picsum.photos/seed/friendly-takeover/900/600" alt="Two parties in agreement" />
+<img src="/svg/corporate.svg" alt="Two parties in agreement" />
 
 <div class="wiki-infobox-caption">A friendly takeover is negotiated and approved by both boards.</div>
 

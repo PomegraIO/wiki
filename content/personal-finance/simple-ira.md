@@ -7,7 +7,7 @@ keywords:
   - employee matching
   - employer contribution
   - retirement plan
-image: "https://picsum.photos/seed/simple-ira/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **SIMPLE IRA** (Savings Incentive Match Plan for Employees) is a retirement plan for small businesses and self-employed people. Employees contribute pre-tax salary, and the employer makes mandatory or matching contributions, all with minimal administrative overhead.*
@@ -22,7 +22,7 @@ For self-employed only, see [SEP IRA](/sep-ira); for larger businesses or more c
 
 <div class="wiki-infobox-title">SIMPLE IRA — key facts</div>
 
-<img src="https://picsum.photos/seed/simple-ira/900/600" alt="An employer and employee shaking hands over a retirement plan document" />
+<img src="/svg/personal-finance.svg" alt="An employer and employee shaking hands over a retirement plan document" />
 
 <div class="wiki-infobox-caption">The model: employer-employee retirement plan for small firms.</div>
 

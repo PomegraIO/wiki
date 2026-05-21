@@ -7,7 +7,7 @@ keywords:
   - interest rate
   - monetary policy
   - bank lending
-image: "https://picsum.photos/seed/interest-on-excess-reserves/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **interest on excess reserves** (or **IOER**) is the rate a central bank pays on reserve balances held by [banks](/broker) above their minimum [reserve requirements](/reserve-requirements). By varying this rate, the central bank encourages or discourages [banks](/broker) from holding surplus reserves rather than lending them out, making IOER a direct lever on money creation and credit expansion.*
@@ -22,7 +22,7 @@ This entry covers excess-reserves rates specifically. For the broader framework,
 
 <div class="wiki-infobox-title">Interest on Excess Reserves — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-on-excess-reserves/900/600" alt="Bank excess reserves earning interest at central bank" />
+<img src="/svg/monetary.svg" alt="Bank excess reserves earning interest at central bank" />
 
 <div class="wiki-infobox-caption">IOER sets the return on discretionary reserves, controlling lending incentives.</div>
 

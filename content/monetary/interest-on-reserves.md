@@ -7,7 +7,7 @@ keywords:
   - reserve balances
   - central bank
   - monetary policy
-image: "https://picsum.photos/seed/interest-on-reserves/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **interest on reserves** (or **IOR**) is the rate a central bank pays to [banks](/broker) on the reserve balances they hold in their accounts at the central bank. By setting this rate, the central bank influences how much [banks](/broker) are willing to lend and how they manage their liquidity, making IOR a powerful tool of [monetary policy](/monetary-policy).*
@@ -22,7 +22,7 @@ This entry covers the general concept. For the interest paid on required reserve
 
 <div class="wiki-infobox-title">Interest on Reserves — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-on-reserves/900/600" alt="Bank reserve account earning interest" />
+<img src="/svg/monetary.svg" alt="Bank reserve account earning interest" />
 
 <div class="wiki-infobox-caption">Interest on reserves incentivizes or discourages bank lending and liquidity creation.</div>
 

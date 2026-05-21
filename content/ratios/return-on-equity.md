@@ -7,7 +7,7 @@ keywords:
   - profitability
   - shareholder return
   - equity return
-image: "https://picsum.photos/seed/return-on-equity/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on equity** — or **ROE** — divides a company's annual net income by the average shareholder equity (assets minus liabilities) and expresses the result as a percentage. A company with ROE of 15% generates $0.15 per year for every dollar of shareholder capital. High ROE signals efficient management and strong competitive position; low ROE suggests the company is destroying value.*
@@ -22,7 +22,7 @@ This entry covers shareholder-level returns. For asset-level returns, see [retur
 
 <div class="wiki-infobox-title">Return on Equity — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-equity/900/600" alt="Profit generated from shareholder investment" />
+<img src="/svg/ratios.svg" alt="Profit generated from shareholder investment" />
 
 <div class="wiki-infobox-caption">The return shareholders earn on their capital employed.</div>
 

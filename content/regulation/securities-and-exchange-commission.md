@@ -8,7 +8,7 @@ keywords:
   - fraud enforcement
   - disclosure
   - investment adviser
-image: "https://picsum.photos/seed/securities-and-exchange-commission/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Securities and Exchange Commission** (SEC) is the primary federal agency responsible for policing US securities markets. Established in 1934, the SEC has a dual mandate: protect investors by requiring corporate honesty and market integrity, and maintain fair and efficient markets. It does this by setting rules, reviewing company disclosures, and prosecuting fraud.*
@@ -23,7 +23,7 @@ For the statute that created the SEC, see [Securities Exchange Act of 1934](/sec
 
 <div class="wiki-infobox-title">SEC — key facts</div>
 
-<img src="https://picsum.photos/seed/securities-and-exchange-commission/900/600" alt="A government building" />
+<img src="/svg/regulation.svg" alt="A government building" />
 
 <div class="wiki-infobox-caption">The SEC's headquarters in Washington, DC.</div>
 

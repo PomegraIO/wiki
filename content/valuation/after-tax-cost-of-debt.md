@@ -7,7 +7,7 @@ keywords:
   - cost of debt
   - WACC
   - tax rate
-image: "https://picsum.photos/seed/after-tax-cost-of-debt/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **after-tax cost of debt** is what debt truly costs a company on an after-tax basis. A company might pay 5% interest, but if it has a 25% tax rate, the after-tax cost is only 3.75%. The difference—1.25 percentage points—is the tax shield: the government is effectively subsidizing the debt. This tax effect is why [weighted average cost of capital](/weighted-average-cost-of-capital) always uses after-tax cost of debt, not the bare interest rate.*

@@ -7,7 +7,7 @@ keywords:
   - interest rate sensitivity
   - option pricing
   - derivative risk
-image: "https://picsum.photos/seed/rho/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **rho** of an option is the amount by which its price changes for each 1% change in interest rates. [Call option](/call-option)s have positive rho (higher rates increase call value); [put option](/put-option)s have negative rho (higher rates decrease put value). Rho is typically the smallest of the five Greeks for short-dated options and becomes meaningful only for long-dated options or in high-rate environments. Rho captures the time-value-of-money effect on option pricing.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/rho/900/600"
 
 <div class="wiki-infobox-title">Rho — key facts</div>
 
-<img src="https://picsum.photos/seed/rho/900/600" alt="Interest rate chart showing option sensitivity" />
+<img src="/svg/derivatives.svg" alt="Interest rate chart showing option sensitivity" />
 
 <div class="wiki-infobox-caption">Rho measures interest rate sensitivity.</div>
 

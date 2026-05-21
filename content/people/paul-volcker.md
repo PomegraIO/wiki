@@ -7,7 +7,7 @@ keywords:
   - inflation
   - monetary policy
   - interest rates
-image: "https://picsum.photos/seed/paul-volcker/900/600"
+image: "/svg/people.svg"
 ---
 
 *Paul Volcker proved that a central banker willing to accept short-term pain for long-term stability could break the back of runaway inflation and reset market expectations about the commitment to price stability.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/paul-volcker/900/600"
 
 <div class="wiki-infobox-title">Paul Volcker — key facts</div>
 
-<img src="https://picsum.photos/seed/paul-volcker/900/600" alt="Federal Reserve Board room with interest rate policy charts" />
+<img src="/svg/people.svg" alt="Federal Reserve Board room with interest rate policy charts" />
 
 <div class="wiki-infobox-caption">The command center of monetary policy — where rates are set.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/triple-top/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **triple top** is a bearish reversal pattern consisting of three peaks at approximately the same price level, separated by two valleys. The pattern shows that price has tested a resistance level three times and failed to break above it all three times, revealing mounting exhaustion among buyers. Each failed rally at the same level represents another failed attempt by bulls to overcome resistance. When price finally breaks decisively below both valley lows, the pattern is complete, and a sustained downtrend often follows. Triple tops are rarer and more significant than [double tops](/technical-analysis/double-top) because the triple failure to break resistance signals exhaustion more definitively.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Triple top — key facts</div>
 
-<img src="https://picsum.photos/seed/triple-top/900/600" alt="A triple top pattern: three peaks at similar heights with two valleys between them" />
+<img src="/svg/technical-analysis.svg" alt="A triple top pattern: three peaks at similar heights with two valleys between them" />
 
 <div class="wiki-infobox-caption">Triple top: three failed attempts at resistance; break below valleys signals reversal.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - block time
   - network security
   - mining difficulty
-image: "https://picsum.photos/seed/difficulty-adjustment/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **difficulty adjustment** is an automatic mechanism in [proof-of-work](/proof-of-work) blockchains that regulates puzzle difficulty to maintain consistent block creation times. On [Bitcoin](/bitcoin), difficulty adjusts every 2,016 blocks (roughly every two weeks) based on the actual block times. This ensures blocks arrive at ~10-minute intervals regardless of how much [hash rate](/hash-rate) joins or leaves the network.*
@@ -23,7 +23,7 @@ This entry covers difficulty adjustment as a mechanism. For mining, see [mining 
 
 <div class="wiki-infobox-title">Difficulty Adjustment — key facts</div>
 
-<img src="https://picsum.photos/seed/difficulty-adjustment/900/600" alt="Difficulty target over time" />
+<img src="/svg/crypto.svg" alt="Difficulty target over time" />
 
 <div class="wiki-infobox-caption">Difficulty adjustment: keeping block times steady.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - uncertainty
   - doubt
   - panic selling
-image: "https://picsum.photos/seed/fud/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *FUD — fear, uncertainty, and doubt — refers to the spread of negative information, whether factual or speculative, that triggers panic selling and market declines. In its worst form, FUD is pure psychology disconnected from fundamentals; in its milder form, it is the overweighting of bad news relative to its actual importance. FUD is the opposite of [FOMO](/fomo), but equally destructive.*
@@ -22,7 +22,7 @@ The converse of FOMO. Related to panic and [bear markets](/bear-market).
 
 <div class="wiki-infobox-title">FUD — key facts</div>
 
-<img src="https://picsum.photos/seed/fud/900/600" alt="A dark cloud descending over a sunny landscape" />
+<img src="/svg/behavioral.svg" alt="A dark cloud descending over a sunny landscape" />
 
 <div class="wiki-infobox-caption">Fear and doubt can darken the brightest outlook.</div>
 

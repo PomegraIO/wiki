@@ -8,7 +8,7 @@ keywords:
   - bank separation
   - financial regulation
   - Gramm-Leach-Bliley Act
-image: "https://picsum.photos/seed/glass-steagall-act/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Glass-Steagall Act** of 1933 was the law that separated commercial banking from investment banking. A bank could either take deposits and make loans, or underwrite securities and trade for its own account, but not both. The Act was meant to prevent conflicts of interest and excessive risk-taking. It was repealed in 1999 by the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act), allowing the re-merger of commercial and investment banking. The question of whether the repeal contributed to the 2008 financial crisis remains contentious.*
@@ -23,7 +23,7 @@ Glass-Steagall (1933) was repealed by Gramm-Leach-Bliley (1999). The [Volcker Ru
 
 <div class="wiki-infobox-title">Glass-Steagall Act — key facts</div>
 
-<img src="https://picsum.photos/seed/glass-steagall-act/900/600" alt="The Glass-Steagall Act of 1933" />
+<img src="/svg/regulation.svg" alt="The Glass-Steagall Act of 1933" />
 
 <div class="wiki-infobox-caption">The Glass-Steagall Act, enacted in 1933 as a Depression-era safeguard.</div>
 

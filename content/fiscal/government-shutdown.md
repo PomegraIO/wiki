@@ -7,7 +7,7 @@ keywords:
   - appropriations failure
   - fiscal crisis
   - government operations
-image: "https://picsum.photos/seed/government-shutdown/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **government shutdown** is a temporary suspension of non-essential federal government operations that occurs when Congress fails to pass [appropriations bills](/appropriations-bill) or a [continuing resolution](/continuing-resolution) by the deadline. Essential functions like national defense and Social Security continue, but many agencies halt or curtail services.*
@@ -22,7 +22,7 @@ This entry covers the operational halt. For the temporary funding that prevents 
 
 <div class="wiki-infobox-title">Government Shutdown — key facts</div>
 
-<img src="https://picsum.photos/seed/government-shutdown/900/600" alt="Government shutdown" />
+<img src="/svg/fiscal.svg" alt="Government shutdown" />
 
 <div class="wiki-infobox-caption">Government shutdowns halt non-essential services until Congress acts.</div>
 

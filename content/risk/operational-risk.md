@@ -7,7 +7,7 @@ keywords:
   - fraud risk
   - system failure
   - control risk
-image: "https://picsum.photos/seed/operational-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Operational risk is the risk of loss arising from inadequate or failed internal processes, people, systems, or external events. It encompasses fraud, unauthorized activity, business disruption, legal or regulatory action, data breaches, and any loss that does not stem from [market-risk](/market-risk) or [credit-risk](/credit-risk).*
@@ -22,7 +22,7 @@ This entry covers losses from processes and events within an institution. For th
 
 <div class="wiki-infobox-title">Operational Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/operational-risk/900/600" alt="A computer screen with error messages and warning alerts" />
+<img src="/svg/risk.svg" alt="A computer screen with error messages and warning alerts" />
 
 <div class="wiki-infobox-caption">Operational risk materializes when systems, processes, or people fail.</div>
 

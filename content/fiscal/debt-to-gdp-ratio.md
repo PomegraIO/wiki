@@ -7,7 +7,7 @@ keywords:
   - fiscal sustainability
   - national debt
   - economic indicators
-image: "https://picsum.photos/seed/debt-to-gdp-ratio/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **debt-to-GDP ratio** is a government's [national debt](/national-debt) expressed as a percentage of the country's annual economic output. It is the single most important metric for assessing fiscal sustainability, because it shows whether debt is growing faster or slower than the economy can service.*
@@ -22,7 +22,7 @@ This entry covers the key sustainability metric. For the absolute amount of debt
 
 <div class="wiki-infobox-title">Debt-to-GDP Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-to-gdp-ratio/900/600" alt="Debt to GDP ratio" />
+<img src="/svg/fiscal.svg" alt="Debt to GDP ratio" />
 
 <div class="wiki-infobox-caption">The debt-to-GDP ratio is the standard measure of fiscal sustainability.</div>
 

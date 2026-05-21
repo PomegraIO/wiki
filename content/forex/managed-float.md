@@ -7,7 +7,7 @@ keywords:
   - guided float
   - central bank intervention
   - partial float
-image: "https://picsum.photos/seed/managed-float/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **managed float** (or **dirty float**) is a middle ground between [floating](/floating-exchange-rate) and [fixed exchange rates](/fixed-exchange-rate). The currency floats freely most of the time, but the [central bank](/central-bank) intervenes intermittently to smooth excessive volatility, lean against large moves, or defend an implicit target level. Most real-world floating currencies are, in practice, managed floats.*
@@ -22,7 +22,7 @@ For pure floating, see [floating exchange rate](/floating-exchange-rate); for ha
 
 <div class="wiki-infobox-title">Managed Float — key facts</div>
 
-<img src="https://picsum.photos/seed/managed-float/900/600" alt="An exchange rate that drifts with occasional central-bank moves" />
+<img src="/svg/forex.svg" alt="An exchange rate that drifts with occasional central-bank moves" />
 
 <div class="wiki-infobox-caption">Float with occasional intervention to manage extremes.</div>
 

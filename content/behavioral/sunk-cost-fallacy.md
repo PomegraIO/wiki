@@ -7,7 +7,7 @@ keywords:
   - past investment
   - throwing good money after bad
   - escalation of commitment
-image: "https://picsum.photos/seed/sunk-cost-fallacy/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The sunk-cost fallacy is the tendency to throw good money after bad, continuing to invest in a losing position because you have already invested so much. The $10,000 you paid for a stock is gone, whether you hold or sell. Yet the sunk cost psychologically "anchors" you, making you reluctant to sell and accept the loss. Rationally, only future prospects matter; the past cost should be irrelevant.*
@@ -22,7 +22,7 @@ Related to loss aversion and mental accounting. For the psychology of holding lo
 
 <div class="wiki-infobox-title">Sunk-cost fallacy — key facts</div>
 
-<img src="https://picsum.photos/seed/sunk-cost-fallacy/900/600" alt="Coins dropping into a dark well with no hope of retrieval" />
+<img src="/svg/behavioral.svg" alt="Coins dropping into a dark well with no hope of retrieval" />
 
 <div class="wiki-infobox-caption">Money spent is gone; it should not dictate future decisions.</div>
 

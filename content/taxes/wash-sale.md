@@ -6,7 +6,7 @@ keywords:
   - loss harvesting
   - capital loss
   - tax-loss harvesting
-image: "https://picsum.photos/seed/wash-sale/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **wash-sale rule** is an IRS restriction on [capital loss](/capital-gains-tax-investor/) deductions. If you sell a security at a loss and repurchase the same or a substantially identical security within 30 days (before or after the sale), the loss is disallowed and added to the [cost basis](/cost-basis/) of the new purchase. This rule prevents investors from selling losers purely for tax deductions while maintaining their market exposure.*
@@ -21,7 +21,7 @@ For loss harvesting techniques that work around wash-sales, see [wash-sale 30-da
 
 <div class="wiki-infobox-title">Wash-sale rule — key facts</div>
 
-<img src="https://picsum.photos/seed/wash-sale/900/600" alt="A timeline showing the 30-day wash-sale window" />
+<img src="/svg/taxes.svg" alt="A timeline showing the 30-day wash-sale window" />
 
 <div class="wiki-infobox-caption">The 30-day window prevents loss harvesting while maintaining the same position.</div>
 

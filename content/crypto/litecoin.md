@@ -8,7 +8,7 @@ keywords:
   - peer-to-peer
   - scrypt
   - charlie lee
-image: "https://picsum.photos/seed/litecoin/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Litecoin** (Ł or **LTC**) is a [peer-to-peer cryptocurrency](/blockchain-fundamentals) created by former Google engineer Charlie Lee in 2011. Often described as "the silver to Bitcoin's gold," Litecoin was designed to offer faster transaction confirmation times and a different mining algorithm intended to be more accessible to ordinary computers.*
@@ -23,7 +23,7 @@ This entry covers Litecoin the network and asset. For the broader cryptocurrency
 
 <div class="wiki-infobox-title">Litecoin — key facts</div>
 
-<img src="https://picsum.photos/seed/litecoin/900/600" alt="Litecoin logo and mining network" />
+<img src="/svg/crypto.svg" alt="Litecoin logo and mining network" />
 
 <div class="wiki-infobox-caption">Litecoin: a faster blockchain designed as a complement to Bitcoin.</div>
 

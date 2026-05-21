@@ -7,7 +7,7 @@ keywords:
   - technology ETF
   - healthcare ETF
   - fund
-image: "https://picsum.photos/seed/sector-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **sector ETF** is an [ETF](/etf) holding stocks from a single industry or economic sector — technology, healthcare, financials, industrials, consumer goods, energy, materials, utilities, real estate, communications. Sector ETFs let investors tilt their portfolios toward industries they expect to outperform, or toward defensive sectors during downturns.*
@@ -22,7 +22,7 @@ This entry covers sector ETFs as portfolio tools. For the mechanics of how ETFs 
 
 <div class="wiki-infobox-title">Sector ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/sector-etf/900/600" alt="Multiple stock charts representing different industries" />
+<img src="/svg/funds.svg" alt="Multiple stock charts representing different industries" />
 
 <div class="wiki-infobox-caption">Sector ETFs concentrate exposure in specific industries within the stock market.</div>
 

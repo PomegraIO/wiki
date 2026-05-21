@@ -7,7 +7,7 @@ keywords:
   - business cycle
   - fiscal policy
   - budget adjustment
-image: "https://picsum.photos/seed/cyclically-adjusted-deficit/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **cyclically adjusted deficit** is a [budget deficit](/budget-deficit) that has been modified to strip out temporary effects of booms and busts. It represents what the [deficit](/budget-deficit) would be if the economy were operating at its normal, potential level of output — revealing the true underlying fiscal stance independent of where the business cycle sits.*
@@ -22,7 +22,7 @@ This entry covers cyclical adjustment of the deficit. For the related concept of
 
 <div class="wiki-infobox-title">Cyclically Adjusted Deficit — key facts</div>
 
-<img src="https://picsum.photos/seed/cyclically-adjusted-deficit/900/600" alt="Cyclically adjusted deficit" />
+<img src="/svg/fiscal.svg" alt="Cyclically adjusted deficit" />
 
 <div class="wiki-infobox-caption">Cyclical adjustment reveals structural fiscal stance beneath economic noise.</div>
 

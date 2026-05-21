@@ -7,7 +7,7 @@ keywords:
   - retirement planning
   - portfolio withdrawal
   - retirement spending
-image: "https://picsum.photos/seed/the-four-percent-rule/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **four-percent rule** is a retirement planning guideline: in your first year of retirement, withdraw 4% of your portfolio. In subsequent years, withdraw the same amount adjusted for inflation. This rule (based on historical analysis) has a high success rate of not running out of money over a 30-year retirement.*
@@ -22,7 +22,7 @@ For personalized withdrawal rates, see [safe withdrawal rate](/safe-withdrawal-r
 
 <div class="wiki-infobox-title">The Four-Percent Rule — key facts</div>
 
-<img src="https://picsum.photos/seed/the-four-percent-rule/900/600" alt="A portfolio value chart showing sustainable withdrawals over a 30-year retirement" />
+<img src="/svg/personal-finance.svg" alt="A portfolio value chart showing sustainable withdrawals over a 30-year retirement" />
 
 <div class="wiki-infobox-caption">The principle: 4% withdrawal rate sustains 30-year retirement.</div>
 

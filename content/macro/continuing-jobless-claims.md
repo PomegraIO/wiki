@@ -7,7 +7,7 @@ keywords:
   - ongoing joblessness
   - labor market
   - weekly claims
-image: "https://picsum.photos/seed/continuing-jobless-claims/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Continuing jobless claims measure the number of people receiving [unemployment insurance](/unemployment-rate) benefits in a given week. Unlike [initial jobless claims](/initial-jobless-claims), which count new filings, continuing claims count ongoing beneficiaries. This metric reveals how quickly [unemployed](/unemployment-rate) workers find jobs and how long joblessness persists.*
@@ -22,7 +22,7 @@ Continuing claims are always much higher than initial claims. In normal times, c
 
 <div class="wiki-infobox-title">Continuing Jobless Claims — key facts</div>
 
-<img src="https://picsum.photos/seed/continuing-jobless-claims/900/600" alt="Continuing jobless claims levels" />
+<img src="/svg/macro.svg" alt="Continuing jobless claims levels" />
 
 <div class="wiki-infobox-caption">Continuing claims peaked at 19 million in 2020; normal levels are 1.5-2 million.</div>
 

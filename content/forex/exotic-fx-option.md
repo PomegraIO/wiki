@@ -7,7 +7,7 @@ keywords:
   - knockout option
   - lookback option
   - Asian option
-image: "https://picsum.photos/seed/exotic-fx-option/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **exotic FX option** is any [currency option](/currency-option) that is not a simple vanilla call or put. Exotic options have special features — barriers, lookbacks, Asian averages — that change how they pay off. Exotics are typically cheaper than [vanilla options](/vanilla-fx-option) (the feature usually reduces value) and are tailored to specific hedging needs.*
@@ -22,7 +22,7 @@ For standard options, see [vanilla FX option](/vanilla-fx-option); for the broad
 
 <div class="wiki-infobox-title">Exotic FX Option — key facts</div>
 
-<img src="https://picsum.photos/seed/exotic-fx-option/900/600" alt="Payoff diagrams for various exotic options" />
+<img src="/svg/forex.svg" alt="Payoff diagrams for various exotic options" />
 
 <div class="wiki-infobox-caption">Exotic options customize payoffs to specific hedging situations.</div>
 

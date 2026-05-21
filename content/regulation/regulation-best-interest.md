@@ -7,7 +7,7 @@ keywords:
   - broker standard of care
   - customer protection
   - fiduciary duty
-image: "https://picsum.photos/seed/regulation-best-interest/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation Best Interest](/regulation-best-interest) (Reg BI), adopted by the [SEC](/securities-and-exchange-commission) in 2019 and implemented in 2020, is a rule requiring brokers to act in their customers' best interest when providing investment advice. It raises the standard of care for brokers above the historical "suitability" standard (investment must be suitable for the customer) toward a "best interest" standard (the adviser recommends the best option or discloses why it is recommending something else).*
@@ -22,7 +22,7 @@ Regulation Best Interest applies to brokers (broker-dealers). The [Investment Ad
 
 <div class="wiki-infobox-title">Regulation Best Interest — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-best-interest/900/600" alt="A broker providing advice" />
+<img src="/svg/regulation.svg" alt="A broker providing advice" />
 
 <div class="wiki-infobox-caption">A broker giving customer advice under Reg BI.</div>
 

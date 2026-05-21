@@ -7,7 +7,7 @@ keywords:
   - FX costs
   - pip spread
   - variable spread
-image: "https://picsum.photos/seed/forex-spread/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **spread** in FX is the gap between the bid price (what the broker will pay for a [currency pair](/currency-pair)) and the ask price (what the broker will charge). The spread is measured in [pips](/pip) and represents the immediate cost of opening a trade. A [major pair](/major-currency-pair) might spread 1 [pip](/pip); an [exotic pair](/exotic-currency-pair) might spread 10–20 pips or more.*
@@ -22,7 +22,7 @@ For the collateral backing the leverage to trade at these spreads, see [forex ma
 
 <div class="wiki-infobox-title">Spread — key facts</div>
 
-<img src="https://picsum.photos/seed/forex-spread/900/600" alt="A bid-ask spread showing EUR/USD 1.0850-1.0851" />
+<img src="/svg/forex.svg" alt="A bid-ask spread showing EUR/USD 1.0850-1.0851" />
 
 <div class="wiki-infobox-caption">Spreads are the difference between bid and ask, measured in pips.</div>
 

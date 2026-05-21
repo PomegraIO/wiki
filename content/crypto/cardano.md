@@ -8,7 +8,7 @@ keywords:
   - proof-of-stake
   - smart contract
   - plutus
-image: "https://picsum.photos/seed/cardano/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Cardano** (**ADA**) is a [blockchain](/blockchain-fundamentals) platform and cryptocurrency created by Charles Hoskinson (co-founder of [Ethereum](/ethereum)) and formally established through the Cardano Foundation. It prioritises academic rigour and formal verification, using [proof-of-stake](/proof-of-stake) consensus to secure the network.*
@@ -23,7 +23,7 @@ This entry covers the Cardano network and its cryptocurrency. For its native tok
 
 <div class="wiki-infobox-title">Cardano — key facts</div>
 
-<img src="https://picsum.photos/seed/cardano/900/600" alt="Cardano logo and network diagram" />
+<img src="/svg/crypto.svg" alt="Cardano logo and network diagram" />
 
 <div class="wiki-infobox-caption">Cardano: a research-driven blockchain with formal verification and academic foundations.</div>
 

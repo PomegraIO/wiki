@@ -6,7 +6,7 @@ keywords:
   - integrated view
   - portfolio perspective
   - decision context
-  - counterbiasimage: "https://picsum.photos/seed/broad-framing/900/600"
+  - counterbiasimage: "/svg/behavioral.svg"
 ---
 
 *Broad framing is the cognitive discipline of evaluating decisions in their full context rather than in isolation. Instead of asking "will this stock gain 15%?", the broad-frame investor asks "will this stock reduce my portfolio's overall volatility while providing adequate expected return?" Instead of agonizing over a 5% quarterly loss, she views it as part of a 25-year investment horizon. Broad framing is the direct antidote to [narrow framing](/narrow-framing).*
@@ -21,7 +21,7 @@ The counterforce to narrow framing. For context-blind decision-making, see [narr
 
 <div class="wiki-infobox-title">Broad framing — key facts</div>
 
-<img src="https://picsum.photos/seed/broad-framing/900/600" alt="A wide-angle view of interconnected components in a system" />
+<img src="/svg/behavioral.svg" alt="A wide-angle view of interconnected components in a system" />
 
 <div class="wiki-infobox-caption">Seeing the system, not just the parts.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - income allocation
   - financial independence
   - wealth building
-image: "https://picsum.photos/seed/savings-rate/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *Your **savings rate** is the percentage of your after-tax (net) income that you save and invest rather than spend. A person earning $4,000 monthly after taxes who saves $1,000 has a 25% savings rate.*
@@ -22,7 +22,7 @@ For methods to allocate and track income, see [budgeting methods](/budgeting-met
 
 <div class="wiki-infobox-title">Savings Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/savings-rate/900/600" alt="A chart showing income divided into spent (larger portion) and saved (smaller portion)" />
+<img src="/svg/personal-finance.svg" alt="A chart showing income divided into spent (larger portion) and saved (smaller portion)" />
 
 <div class="wiki-infobox-caption">The split: income into consumption and accumulation.</div>
 

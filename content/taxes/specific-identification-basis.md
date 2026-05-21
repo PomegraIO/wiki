@@ -6,7 +6,7 @@ keywords:
   - cost basis
   - lot selection
   - tax efficiency
-image: "https://picsum.photos/seed/specific-identification-basis/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **specific identification** method (or **SpecID**) allows you to choose which specific [tax lot](/tax-lot/) to sell when you liquidate shares, usually choosing the highest-cost [lot](/tax-lot/) to minimize your [capital gain](/capital-gains-tax-investor/) and tax bill. It requires written instruction to your [broker](/broker/) at the time of sale but offers the greatest tax flexibility of any [basis](/cost-basis/) method.*
@@ -21,7 +21,7 @@ For alternatives, see [FIFO](/fifo-tax/), [LIFO](/lifo-tax/), and [average cost]
 
 <div class="wiki-infobox-title">Specific identification — key facts</div>
 
-<img src="https://picsum.photos/seed/specific-identification-basis/900/600" alt="A selection of purchase lots to minimize capital gain" />
+<img src="/svg/taxes.svg" alt="A selection of purchase lots to minimize capital gain" />
 
 <div class="wiki-infobox-caption">Choose which lot to sell, usually the highest-cost to minimize gain.</div>
 

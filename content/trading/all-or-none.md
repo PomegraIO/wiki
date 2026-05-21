@@ -6,7 +6,7 @@ keywords:
   - AON order
   - order types
   - execution condition
-image: "https://picsum.photos/seed/all-or-none/900/600"
+image: "/svg/trading.svg"
 ---
 
 *An **all-or-none (AON) order** is an instruction that your entire position must fill, or none of it fills. Unlike a [limit order](/limit-order) that can partially fill, an AON order sits in the order book waiting for enough liquidity to appear at your price such that your entire size can trade at once. If the full size never appears, the order can sit for days.*
@@ -21,7 +21,7 @@ For immediate execution with partial fills, see [immediate-or-cancel](/immediate
 
 <div class="wiki-infobox-title">All-or-none order — key facts</div>
 
-<img src="https://picsum.photos/seed/all-or-none/900/600" alt="An order book showing an AON order waiting for full size" />
+<img src="/svg/trading.svg" alt="An order book showing an AON order waiting for full size" />
 
 <div class="wiki-infobox-caption">AON order sits dormant until full size is available; then executes completely or remains waiting.</div>
 

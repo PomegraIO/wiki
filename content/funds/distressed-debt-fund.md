@@ -8,7 +8,7 @@ keywords:
   - high yield bonds
   - private investment
   - fund
-image: "https://picsum.photos/seed/distressed-debt-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **distressed debt fund** is a pooled investment vehicle that buys the [bonds](/bond) and loans of financially distressed companies at steeply discounted prices, betting on recovery or restructuring. A bond trading at 50 cents on the dollar offers significant upside if the company avoids bankruptcy or successfully restructures. Distressed debt funds are illiquid, require accredited investors, and carry substantial risk.*
@@ -23,7 +23,7 @@ This entry covers distressed debt as a strategy. For the underlying bonds, see [
 
 <div class="wiki-infobox-title">Distressed Debt Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/distressed-debt-fund/900/600" alt="A bond trading at a steep discount in a financial restructuring" />
+<img src="/svg/funds.svg" alt="A bond trading at a steep discount in a financial restructuring" />
 
 <div class="wiki-infobox-caption">Distressed debt offers high yields at the cost of substantial restructuring risk.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - bank
   - Wall Street
   - financial services
-image: "https://picsum.photos/seed/morgan-stanley/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Morgan Stanley Group Inc.** is one of the world's leading [investment banks](/broker) and wealth management firms, headquartered in New York. Morgan Stanley advises corporations and governments on major transactions, raises capital through [initial public offerings](/initial-public-offering) and debt issuances, operates major trading operations, and manages substantial assets for institutional investors and ultra-high-net-worth individuals.*
@@ -22,7 +22,7 @@ Morgan Stanley was founded in 1935 following the Glass-Steagall Act's separation
 
 <div class="wiki-infobox-title">Morgan Stanley — key facts</div>
 
-<img src="https://picsum.photos/seed/morgan-stanley/900/600" alt="Morgan Stanley headquarters in New York" />
+<img src="/svg/institutions.svg" alt="Morgan Stanley headquarters in New York" />
 
 <div class="wiki-infobox-caption">Morgan Stanley headquarters in Midtown Manhattan.</div>
 

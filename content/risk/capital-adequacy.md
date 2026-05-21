@@ -7,7 +7,7 @@ keywords:
   - capital buffer
   - solvency
   - capital standards
-image: "https://picsum.photos/seed/capital-adequacy/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Capital adequacy is the requirement and practice that financial institutions — primarily banks — maintain a minimum level of capital sufficient to absorb potential losses from [market-risk](/market-risk), [credit-risk](/credit-risk), and [operational-risk](/operational-risk), and to remain solvent even under severe stress. It is the foundation of financial regulation.*
@@ -22,7 +22,7 @@ This entry covers the capital adequacy concept. For the international regulatory
 
 <div class="wiki-infobox-title">Capital Adequacy — key facts</div>
 
-<img src="https://picsum.photos/seed/capital-adequacy/900/600" alt="A fortress of shields representing layers of capital protection" />
+<img src="/svg/risk.svg" alt="A fortress of shields representing layers of capital protection" />
 
 <div class="wiki-infobox-caption">Capital is the buffer protecting against losses.</div>
 

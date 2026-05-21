@@ -7,7 +7,7 @@ keywords:
   - fuel cycle
   - energy
   - geopolitics
-image: "https://picsum.photos/seed/uranium/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *An **uranium** — a heavy, naturally radioactive metal whose fissile isotope (U-235) releases enormous energy when split — is a commodity experiencing a structural resurgence as governments embrace nuclear power as a carbon-free baseload energy source. Supply is concentrated, prices have tripled since 2020, and a new cycle of nuclear-plant construction could drive sustained demand growth.*
@@ -22,7 +22,7 @@ This entry covers uranium as a traded commodity. For uranium's role in nuclear w
 
 <div class="wiki-infobox-title">Uranium — key facts</div>
 
-<img src="https://picsum.photos/seed/uranium/900/600" alt="Uranium ore and uranium oxide powder (yellowcake)" />
+<img src="/svg/commodities.svg" alt="Uranium ore and uranium oxide powder (yellowcake)" />
 
 <div class="wiki-infobox-caption">Uranium in ore and oxide (yellowcake) forms used in the fuel cycle.</div>
 

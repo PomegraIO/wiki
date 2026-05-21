@@ -8,7 +8,7 @@ keywords:
   - mean reversion
   - oscillation trading
   - technical trading
-image: "https://picsum.photos/seed/range-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Range trading is a strategy of identifying [stocks](/stock/) or assets trading within established price ranges and profiting from oscillations within those ranges. A range trader buys near support (the range's floor) and sells near resistance (the range's ceiling), betting that price will bounce between them repeatedly.*
@@ -23,7 +23,7 @@ For breakout trading (when ranges break), see [breakout trading](/breakout-tradi
 
 <div class="wiki-infobox-title">Range trading — key facts</div>
 
-<img src="https://picsum.photos/seed/range-trading/900/600" alt="A stock bouncing between support and resistance levels repeatedly" />
+<img src="/svg/strategies.svg" alt="A stock bouncing between support and resistance levels repeatedly" />
 
 <div class="wiki-infobox-caption">Range traders buy weakness at support, sell strength at resistance, capturing the oscillations.</div>
 

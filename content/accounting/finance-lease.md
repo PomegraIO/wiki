@@ -7,7 +7,7 @@ keywords:
   - lease accounting
   - ASC 842
   - asset ownership
-image: "https://picsum.photos/seed/finance-lease/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *A **finance lease** (also called a **capital lease**) is a lease agreement where the lessee (renter) effectively owns the leased asset and bears substantially all the risks and rewards of ownership. The lessor is primarily a financing source. [Finance leases](/finance-lease) are recorded on the [balance sheet](/balance-sheet) as assets and liabilities — they are accounted for as if the lessee had borrowed money to buy the asset. This is true under both the old standards and ASC 842. The key difference is that [operating leases](/operating-lease), once [off-balance-sheet](/off-balance-sheet), are now mostly recorded under ASC 842, narrowing the distinction between [finance leases](/finance-lease) and [operating leases](/operating-lease).*
@@ -22,7 +22,7 @@ This entry covers finance leases. For the alternative, see [operating-lease](/op
 
 <div class="wiki-infobox-title">Finance lease — key facts</div>
 
-<img src="https://picsum.photos/seed/finance-lease/900/600" alt="A lease agreement where the lessee effectively owns the asset" />
+<img src="/svg/accounting.svg" alt="A lease agreement where the lessee effectively owns the asset" />
 
 <div class="wiki-infobox-caption">Finance leases are recorded as owned assets with financing liabilities.</div>
 

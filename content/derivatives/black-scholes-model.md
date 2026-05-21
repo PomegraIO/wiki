@@ -7,7 +7,7 @@ keywords:
   - valuation model
   - derivatives pricing
   - european option
-image: "https://picsum.photos/seed/black-scholes-model/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **Black-Scholes model** is a closed-form mathematical formula that prices [European option](/european-option)s on non-dividend-paying stocks. Published in 1973 by Fischer Black, Myron Scholes, and Robert Merton, it revolutionized derivatives markets by providing an instant, analytically tractable method to compute option values. The model takes five inputs—[stock](/stock) price, [strike price](/strike-price), time to [expiration](/expiration-date), [volatility](/historical-volatility), and interest rates—and outputs the fair value of [call](/call-option) and [put option](/put-option)s, plus the [options Greeks](/options-greeks).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/black-scholes-model/900/600"
 
 <div class="wiki-infobox-title">Black-Scholes Model — key facts</div>
 
-<img src="https://picsum.photos/seed/black-scholes-model/900/600" alt="Mathematical formula on financial charts" />
+<img src="/svg/derivatives.svg" alt="Mathematical formula on financial charts" />
 
 <div class="wiki-infobox-caption">Black-Scholes pricing: the foundation of modern options trading.</div>
 

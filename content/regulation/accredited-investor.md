@@ -7,7 +7,7 @@ keywords:
   - income threshold
   - sophisticated investor
   - securities exemption
-image: "https://picsum.photos/seed/accredited-investor/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *An **accredited investor** is defined by the [SEC](/securities-and-exchange-commission) as a person who meets income or net worth thresholds and is presumed to have the knowledge and sophistication to understand investment risks. Companies can sell unregistered securities to accredited investors under [Regulation D](/regulation-d) without full SEC review. The accredited investor concept is central to US securities exemptions, allowing startups and alternative investments to access capital without the expense of full registration.*
@@ -22,7 +22,7 @@ Accredited investors are a regulatory category. [Qualified institutional buyers]
 
 <div class="wiki-infobox-title">Accredited Investor — key facts</div>
 
-<img src="https://picsum.photos/seed/accredited-investor/900/600" alt="An accredited investor" />
+<img src="/svg/regulation.svg" alt="An accredited investor" />
 
 <div class="wiki-infobox-caption">An accredited investor meeting wealth thresholds.</div>
 

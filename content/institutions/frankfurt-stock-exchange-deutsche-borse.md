@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Germany
   - Europe
-image: "https://picsum.photos/seed/frankfurt-stock-exchange-deutsche-borse/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Frankfurt Stock Exchange**, operated by **Deutsche Börse** Group, is the largest [stock exchange](/stock-exchange) in Germany and a major venue for continental European equities. Headquartered in Frankfurt am Main — the financial capital of the Eurozone — Deutsche Börse operates not only the equity exchange but also Europe's primary futures market, clearing infrastructure, and market data services.*
@@ -22,7 +22,7 @@ For the clearing and derivatives components, see [Eurex](/eurex) (derivatives) a
 
 <div class="wiki-infobox-title">Frankfurt Stock Exchange / Deutsche Börse — key facts</div>
 
-<img src="https://picsum.photos/seed/frankfurt-stock-exchange-deutsche-borse/900/600" alt="The trading floor at Deutsche Börse in Frankfurt" />
+<img src="/svg/institutions.svg" alt="The trading floor at Deutsche Börse in Frankfurt" />
 
 <div class="wiki-infobox-caption">The modern trading floor at Deutsche Börse's headquarters in Frankfurt.</div>
 

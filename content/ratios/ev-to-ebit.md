@@ -6,7 +6,7 @@ keywords:
   - enterprise value
   - operating income
   - valuation multiple
-image: "https://picsum.photos/seed/ev-to-ebit/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EV/EBIT ratio** divides enterprise value by operating income (EBIT). It is a stricter alternative to [EV/EBITDA](/ev-to-ebitda), including the cost of depreciation and amortization. A lower EV/EBIT can signal either cheaper valuation or a company with newer, more rapidly depreciating assets.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/ev-to-ebit/900/600"
 
 <div class="wiki-infobox-title">EV/EBIT — key facts</div>
 
-<img src="https://picsum.photos/seed/ev-to-ebit/900/600" alt="Enterprise value relative to operating income" />
+<img src="/svg/ratios.svg" alt="Enterprise value relative to operating income" />
 
 <div class="wiki-infobox-caption">A stricter multiple than EV/EBITDA.</div>
 

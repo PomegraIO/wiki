@@ -8,7 +8,7 @@ keywords:
   - trend-based trading
   - technical trading
   - multi-week trading
-image: "https://picsum.photos/seed/position-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Position trading is a trading strategy occupying the middle ground between short-term [swing trading](/swing-trading/) and long-term [investing](/stock/). Position traders hold [stocks](/stock/) for weeks to months, riding medium-term price trends based on technical analysis and momentum, rather than fundamental analysis.*
@@ -23,7 +23,7 @@ For shorter holding periods, see [swing trading](/swing-trading/) or [day tradin
 
 <div class="wiki-infobox-title">Position trading — key facts</div>
 
-<img src="https://picsum.photos/seed/position-trading/900/600" alt="A multi-week or multi-month price chart showing trend positions" />
+<img src="/svg/strategies.svg" alt="A multi-week or multi-month price chart showing trend positions" />
 
 <div class="wiki-infobox-caption">Position traders ride medium-term trends for weeks to months, exiting at technical breaks.</div>
 

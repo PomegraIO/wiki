@@ -7,7 +7,7 @@ keywords:
   - tax increases
   - fiscal consolidation
   - deficit reduction
-image: "https://picsum.photos/seed/austerity/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **austerity** policy involves deliberate cuts to government spending and/or increases to taxes with the goal of reducing the [budget deficit](/budget-deficit) and slowing [national debt](/national-debt) growth. Austerity is typically pursued during fiscal crises or when [debt-to-GDP ratios](/debt-to-gdp-ratio) become unsustainable.*
@@ -22,7 +22,7 @@ This entry covers deficit reduction through spending/tax adjustment. For volunta
 
 <div class="wiki-infobox-title">Austerity — key facts</div>
 
-<img src="https://picsum.photos/seed/austerity/900/600" alt="Austerity" />
+<img src="/svg/fiscal.svg" alt="Austerity" />
 
 <div class="wiki-infobox-caption">Austerity reduces deficits but can slow growth and raise unemployment.</div>
 

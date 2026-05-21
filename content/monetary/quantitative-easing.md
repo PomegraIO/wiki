@@ -7,7 +7,7 @@ keywords:
   - asset purchases
   - zero rates
   - monetary easing
-image: "https://picsum.photos/seed/quantitative-easing/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **quantitative easing** (or **QE**) program is a central bank's sustained, large-scale purchase of long-term securities—Treasury bonds, mortgage-backed securities, corporate [bonds](/bond)—when its traditional tool (lowering short-term interest rates) has hit the zero lower bound. By injecting vast sums of money into the financial system, QE aims to lower longer-term interest rates, encourage lending and investment, and stimulate [inflation](/inflation) and growth.*
@@ -22,7 +22,7 @@ This entry covers the general concept and mechanism. For the inverse operation�
 
 <div class="wiki-infobox-title">Quantitative Easing — key facts</div>
 
-<img src="https://picsum.photos/seed/quantitative-easing/900/600" alt="Central bank balance sheet expanding with large asset purchases" />
+<img src="/svg/monetary.svg" alt="Central bank balance sheet expanding with large asset purchases" />
 
 <div class="wiki-infobox-caption">QE injects trillions of dollars into the financial system when conventional tools are exhausted.</div>
 

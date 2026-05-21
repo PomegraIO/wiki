@@ -8,7 +8,7 @@ keywords:
   - hands-off investing
   - set and forget
   - passive investing
-image: "https://picsum.photos/seed/lazy-portfolio/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A lazy portfolio is the simplest possible investment approach: holding one or two [index funds](/index-fund/) on complete autopilot, requiring no decisions, no rebalancing, and minimal attention. The investor contributes regularly and ignores market noise, letting compound growth work over decades.*
@@ -23,7 +23,7 @@ For slightly more sophistication, see [three-fund portfolio](/three-fund-portfol
 
 <div class="wiki-infobox-title">Lazy portfolio — key facts</div>
 
-<img src="https://picsum.photos/seed/lazy-portfolio/900/600" alt="A single total-market index fund or two-fund portfolio held for decades" />
+<img src="/svg/strategies.svg" alt="A single total-market index fund or two-fund portfolio held for decades" />
 
 <div class="wiki-infobox-caption">Lazy investors hold one or two funds, rebalance never, and let compounding work.</div>
 

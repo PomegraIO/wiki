@@ -7,7 +7,7 @@ keywords:
   - emerging market currency
   - illiquid FX
   - USD/BRL
-image: "https://picsum.photos/seed/exotic-currency-pair/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **exotic currency pair** is a [currency pair](/currency-pair) involving a major currency — typically the [US dollar](/us-dollar) — paired with a currency from a smaller economy, an emerging market, or a less-developed financial system. Examples include USD/BRL (US dollar/Brazilian real), USD/MXN (US dollar/Mexican peso), and AUD/SGD (Australian dollar/Singapore dollar). Exotics are thinly traded, have wide [spreads](/forex-spread), and are accessible primarily to institutional traders.*
@@ -22,7 +22,7 @@ For the most liquid pairs, see [major currency pair](/major-currency-pair); for 
 
 <div class="wiki-infobox-title">Exotic Currency Pair — key facts</div>
 
-<img src="https://picsum.photos/seed/exotic-currency-pair/900/600" alt="Exotic currency pairs including USD/BRL, USD/MXN, AUD/SGD" />
+<img src="/svg/forex.svg" alt="Exotic currency pairs including USD/BRL, USD/MXN, AUD/SGD" />
 
 <div class="wiki-infobox-caption">Currencies from smaller or emerging economies trade as exotics with tight spreads.</div>
 

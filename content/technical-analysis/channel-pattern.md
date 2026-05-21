@@ -7,7 +7,7 @@ keywords:
   - support
   - resistance
   - technical analysis
-image: "https://picsum.photos/seed/channel-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **channel pattern** consists of two parallel [trendlines](/technical-analysis/trendline)—one connecting swing lows (the lower line, or support) and one connecting swing highs (the upper line, or resistance). Price oscillates between the two lines, bouncing off support and turning down at resistance repeatedly. Channels can be ascending (higher lows and higher highs = uptrend), descending (lower lows and lower highs = downtrend), or horizontal (flat highs and flat lows = ranging market). When price breaks out of a channel decisively, it often signals the end of the sideways move and the beginning of a new trend in the breakout direction.*
@@ -22,7 +22,7 @@ For single trendlines, see [trendline](/technical-analysis/trendline). For suppo
 
 <div class="wiki-infobox-title">Channel pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/channel-pattern/900/600" alt="A price chart showing two parallel trendlines forming a channel" />
+<img src="/svg/technical-analysis.svg" alt="A price chart showing two parallel trendlines forming a channel" />
 
 <div class="wiki-infobox-caption">A channel: price oscillates between two parallel lines; breaks signal trend changes.</div>
 

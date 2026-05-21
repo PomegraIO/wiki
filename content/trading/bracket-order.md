@@ -6,7 +6,7 @@ keywords:
   - order types
   - entry and exit
   - conditional orders
-image: "https://picsum.photos/seed/bracket-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **bracket order** is a bundle of three linked orders: a primary entry order plus two child orders for exits. Once the entry fills, both exit orders (a profit target and a stop-loss) become active simultaneously. Whichever exit fills first automatically cancels the other, ensuring you exit the position with a defined profit or loss. The most popular way to automate entry and exit risk management.*
@@ -21,7 +21,7 @@ For manually linking two exit orders to an entry, see [one-triggers-other](/oto-
 
 <div class="wiki-infobox-title">Bracket order — key facts</div>
 
-<img src="https://picsum.photos/seed/bracket-order/900/600" alt="A bracket order diagram showing entry with take-profit and stop-loss" />
+<img src="/svg/trading.svg" alt="A bracket order diagram showing entry with take-profit and stop-loss" />
 
 <div class="wiki-infobox-caption">Entry order surrounded by profit target (upper) and stop-loss (lower) — the bracket.</div>
 

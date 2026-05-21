@@ -7,7 +7,7 @@ keywords:
   - LBO
   - buyout
   - executive acquisition
-image: "https://picsum.photos/seed/management-buyout/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **management buyout** (or **MBO**) is an [acquisition](/acquisition) in which the company's current management team buys the company from its current owners. The managers are typically backed by private equity investors or other financial sponsors who provide the capital and debt financing. An MBO allows management to take the company private, implement its own vision without public market pressure, and build equity ownership. It is a subset of [leveraged buyouts](/leveraged-buyout) where the buyer happens to be the incumbent management.*
@@ -22,7 +22,7 @@ This entry covers management buyouts as an acquisition mechanism. For the broade
 
 <div class="wiki-infobox-title">Management buyout — key facts</div>
 
-<img src="https://picsum.photos/seed/management-buyout/900/600" alt="Managers acquiring their own company" />
+<img src="/svg/corporate.svg" alt="Managers acquiring their own company" />
 
 <div class="wiki-infobox-caption">A management buyout puts ownership in the hands of operators.</div>
 

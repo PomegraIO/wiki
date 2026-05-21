@@ -7,7 +7,7 @@ keywords:
   - budget authority
   - fiscal policy
   - congress funding
-image: "https://picsum.photos/seed/appropriations-bill/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **appropriations bill** is a law Congress passes to authorize government spending for specific agencies and purposes during the fiscal year. Congress passes (or attempts to pass) 12 appropriations bills each year, covering Defense, Interior, Labor, Health and Human Services, and other major functions.*
@@ -22,7 +22,7 @@ This entry covers spending authorization. For temporary funding when appropriati
 
 <div class="wiki-infobox-title">Appropriations Bill — key facts</div>
 
-<img src="https://picsum.photos/seed/appropriations-bill/900/600" alt="Appropriations bill" />
+<img src="/svg/fiscal.svg" alt="Appropriations bill" />
 
 <div class="wiki-infobox-caption">Appropriations bills authorize government agency spending.</div>
 

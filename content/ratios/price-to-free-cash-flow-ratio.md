@@ -7,7 +7,7 @@ keywords:
   - free cash flow
   - valuation
   - cash available
-image: "https://picsum.photos/seed/price-to-free-cash-flow-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **price-to-free cash flow ratio** — or **P/FCF ratio** — divides market capitalization by annual free cash flow. Free cash flow is operating cash flow minus capital expenditures — the actual cash available for dividends, debt paydown, and reinvestment. It is the truest picture of what shareholders actually own.*
@@ -22,7 +22,7 @@ This entry covers the most shareholder-centric cash-flow valuation metric. For o
 
 <div class="wiki-infobox-title">Price-to-Free Cash Flow Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/price-to-free-cash-flow-ratio/900/600" alt="Cash available for shareholder distribution" />
+<img src="/svg/ratios.svg" alt="Cash available for shareholder distribution" />
 
 <div class="wiki-infobox-caption">The cash that actually belongs to shareholders — after all obligations.</div>
 

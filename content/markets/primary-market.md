@@ -8,7 +8,7 @@ keywords:
   - IPO
   - bond issuance
   - capital raising
-image: "https://picsum.photos/seed/primary-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **primary market** is the mechanism by which new securities enter circulation. When a company issues [stock](/stock) for the first time or an existing company sells new shares to raise capital, those securities are offered in the primary market. It is the only place where the issuer itself receives the cash proceeds; every subsequent transaction occurs in the [secondary market](/secondary-market).*
@@ -23,7 +23,7 @@ This entry is about the market where new securities are born. For the vast, liqu
 
 <div class="wiki-infobox-title">Primary Market — key facts</div>
 
-<img src="https://picsum.photos/seed/primary-market/900/600" alt="Underwriters and company executives discussing a new securities offering" />
+<img src="/svg/markets.svg" alt="Underwriters and company executives discussing a new securities offering" />
 
 <div class="wiki-infobox-caption">The primary market is where capital flows directly from investors to the issuer.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - interest rate
   - interbank lending
   - rate manipulation
-image: "https://picsum.photos/seed/libor/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **LIBOR** (London Interbank Offered Rate) is a benchmark [interest rate](/interest-rate) at which major [banks](/broker) lend to each other in wholesale markets. Calculated daily for multiple currencies and maturities, LIBOR serves as a reference rate for trillions of dollars in [bonds](/bond), mortgages, derivatives, and other financial contracts. Despite its dominance for decades, LIBOR faces manipulation scandals and is being phased out in favor of risk-free rates like [SOFR](/sofr).*
@@ -22,7 +22,7 @@ This entry covers LIBOR's structure and role. For its replacements, see [sofr](/
 
 <div class="wiki-infobox-title">LIBOR — key facts</div>
 
-<img src="https://picsum.photos/seed/libor/900/600" alt="LIBOR rate setting floor of major global banks" />
+<img src="/svg/monetary.svg" alt="LIBOR rate setting floor of major global banks" />
 
 <div class="wiki-infobox-caption">LIBOR was long considered the world's most important interest-rate benchmark.</div>
 

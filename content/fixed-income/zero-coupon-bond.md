@@ -7,7 +7,7 @@ keywords:
   - discount bond
   - pure discount
   - accrual bond
-image: "https://picsum.photos/seed/zero-coupon-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **zero-coupon bond** is a debt security that makes no periodic coupon payments. Instead, it is issued at a steep discount to its face value and redeemed at full value at maturity, with the entire return coming from the discount. Zero-coupon bonds are common among Treasury securities (Treasury bills, [STRIPS](/treasury-bond)), corporate issuers, and investment funds.*
@@ -22,7 +22,7 @@ For bonds that pay periodic coupons, see [coupon rate](/coupon-rate). For Treasu
 
 <div class="wiki-infobox-title">Zero-Coupon Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/zero-coupon-bond/900/600" alt="A comparison chart showing zero-coupon vs. coupon bond returns over time" />
+<img src="/svg/fixed-income.svg" alt="A comparison chart showing zero-coupon vs. coupon bond returns over time" />
 
 <div class="wiki-infobox-caption">Zero-coupon bonds accumulate return through compound growth, with no interim cash payments.</div>
 

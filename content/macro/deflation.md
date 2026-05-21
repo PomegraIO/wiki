@@ -7,7 +7,7 @@ keywords:
   - deflation risk
   - disinflation
   - price decline
-image: "https://picsum.photos/seed/deflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Deflation is a situation where the general price level falls — goods and services become cheaper over time. Unlike [disinflation](/disinflation) (a slowdown in [inflation](/inflation)), deflation is an absolute decline. Deflation is rare in developed economies, usually accompanying severe [recessions](/recession) or depressions, and poses special policy challenges because [nominal interest rates](/interest-rate) cannot go below zero.*
@@ -22,7 +22,7 @@ Modern deflation is rare. The last significant US deflation occurred in the Grea
 
 <div class="wiki-infobox-title">Deflation — key facts</div>
 
-<img src="https://picsum.photos/seed/deflation/900/600" alt="Deflation and recession" />
+<img src="/svg/macro.svg" alt="Deflation and recession" />
 
 <div class="wiki-infobox-caption">Deflation is associated with economic weakness, declining demand, and rising unemployment.</div>
 

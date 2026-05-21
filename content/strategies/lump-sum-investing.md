@@ -8,7 +8,7 @@ keywords:
   - single purchase
   - buy and hold
   - capital deployment
-image: "https://picsum.photos/seed/lump-sum-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Lump-sum investing is an investment approach where an investor deploys available capital into [stocks](/stock/), [funds](/mutual-fund/), or other investments all at once, rather than gradually over time. The bet is that the market's long-term upward drift justifies immediate full investment despite short-term volatility.*
@@ -23,7 +23,7 @@ For the alternative (fixed-amount regular investing), see [dollar-cost averaging
 
 <div class="wiki-infobox-title">Lump-sum investing — key facts</div>
 
-<img src="https://picsum.photos/seed/lump-sum-investing/900/600" alt="Capital deployed in full, immediately, then held through time" />
+<img src="/svg/strategies.svg" alt="Capital deployed in full, immediately, then held through time" />
 
 <div class="wiki-infobox-caption">Lump-sum investors deploy capital immediately, accepting short-term risk for long-term compounding.</div>
 

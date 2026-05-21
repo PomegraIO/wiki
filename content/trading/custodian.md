@@ -6,7 +6,7 @@ keywords:
   - asset custody
   - asset safekeeping
   - settlement
-image: "https://picsum.photos/seed/custodian/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **custodian** is a regulated financial institution (typically a large bank) that holds securities and cash on behalf of its clients and manages settlements, record-keeping, dividends, and other administrative tasks. Unlike a [broker](/broker) or trading firm, custodians do not execute trades; they provide safekeeping and operational infrastructure. Large institutional investors, [hedge funds](/hedge-fund), and asset managers typically use custodians to ensure independent asset safety.*
@@ -21,7 +21,7 @@ For trading and execution, see [broker](/broker). For clearing and leverage, see
 
 <div class="wiki-infobox-title">Custodian — key facts</div>
 
-<img src="https://picsum.photos/seed/custodian/900/600" alt="A secure vault representing asset safekeeping by a custodian" />
+<img src="/svg/trading.svg" alt="A secure vault representing asset safekeeping by a custodian" />
 
 <div class="wiki-infobox-caption">Custodians safeguard assets and handle operational infrastructure independently.</div>
 

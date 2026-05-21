@@ -6,7 +6,7 @@ keywords:
   - order types
   - stop-loss
   - dynamic
-image: "https://picsum.photos/seed/trailing-stop-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **trailing stop order** is a [stop order](/stop-order) with an automatic adjustment. Instead of a fixed stop price, you specify a **trailing distance** — a dollar amount or percentage. As the price moves in your favor, the stop price moves with it, maintaining a constant distance. If the price reverses, the stop is triggered. It is the standard tool for locking in profits while staying exposed to further gains.*
@@ -21,7 +21,7 @@ For a fixed stop price, see [stop order](/stop-order). For fine control over exe
 
 <div class="wiki-infobox-title">Trailing stop order — key facts</div>
 
-<img src="https://picsum.photos/seed/trailing-stop-order/900/600" alt="A price chart showing a trailing stop moving higher as price rises" />
+<img src="/svg/trading.svg" alt="A price chart showing a trailing stop moving higher as price rises" />
 
 <div class="wiki-infobox-caption">The trailing stop (red line) follows the price up but only falls when price reverses.</div>
 

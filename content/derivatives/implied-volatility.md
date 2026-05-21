@@ -7,7 +7,7 @@ keywords:
   - option pricing
   - volatility forecast
   - market expectation
-image: "https://picsum.photos/seed/implied-volatility/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **implied volatility (IV)** of an option is the [volatility](/historical-volatility) level that, when plugged into the [Black-Scholes model](/black-scholes-model) or other pricing formula, produces the option's current market price. IV is not directly observable; it is derived by inverting the pricing formula. High IV means the market expects large price moves; low IV means the market expects calm. IV is the market's consensus forecast of [volatility](/historical-volatility) over the option's remaining life.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/implied-volatility/900/600"
 
 <div class="wiki-infobox-title">Implied Volatility — key facts</div>
 
-<img src="https://picsum.photos/seed/implied-volatility/900/600" alt="Option market prices reflecting future volatility expectations" />
+<img src="/svg/derivatives.svg" alt="Option market prices reflecting future volatility expectations" />
 
 <div class="wiki-infobox-caption">Implied volatility encodes the market's volatility forecast.</div>
 

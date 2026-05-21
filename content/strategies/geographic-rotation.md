@@ -8,7 +8,7 @@ keywords:
   - emerging markets
   - developed markets
   - currency exposure
-image: "https://picsum.photos/seed/geographic-rotation/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Geographic rotation is a tactical strategy that shifts portfolio weight between geographic regions — developed markets (US, Europe, Japan), emerging markets (China, India, Brazil), and frontier markets — based on economic growth forecasts, valuation differences, and currency expectations.*
@@ -23,7 +23,7 @@ For sector rotation, see [sector-rotation](/sector-rotation/). For style rotatio
 
 <div class="wiki-infobox-title">Geographic rotation — key facts</div>
 
-<img src="https://picsum.photos/seed/geographic-rotation/900/600" alt="A world map showing regional valuation and growth divergences" />
+<img src="/svg/strategies.svg" alt="A world map showing regional valuation and growth divergences" />
 
 <div class="wiki-infobox-caption">Geographic rotators move capital to the most attractive regions based on valuation, growth, and currency.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - winter demand
   - futures
   - seasonal
-image: "https://picsum.photos/seed/heating-oil/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **heating oil** — a refined petroleum product derived from crude oil distillation — is essential to residential and commercial heating in cold climates and is a widely traded futures commodity on NYMEX. Heating oil prices are highly seasonal (rising sharply as winter approaches) and weather-sensitive (cold spells drive spot demand sharply higher), making the contract a popular hedge for energy companies and a speculative vehicle for traders.*
@@ -22,7 +22,7 @@ This entry covers heating oil as a commodity and futures contract. For crude oil
 
 <div class="wiki-infobox-title">Heating Oil — key facts</div>
 
-<img src="https://picsum.photos/seed/heating-oil/900/600" alt="Heating oil delivery truck and storage tanks" />
+<img src="/svg/commodities.svg" alt="Heating oil delivery truck and storage tanks" />
 
 <div class="wiki-infobox-caption">Heating oil delivery — essential for winter comfort in northern climates.</div>
 

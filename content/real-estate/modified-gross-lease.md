@@ -7,7 +7,7 @@ keywords:
   - commercial lease
   - base rent
   - operating costs
-image: "https://picsum.photos/seed/modified-gross-lease/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **modified gross lease** is a commercial real estate lease in which the landlord pays a base rent plus covers some operating costs (property taxes, insurance, utilities), while the tenant pays the base rent and reimburses the landlord for costs above a baseline or threshold. It is a compromise between full-service and triple-net structures.*
@@ -22,7 +22,7 @@ For other lease structures, see [triple-net-lease](/triple-net-lease) (tenant pa
 
 <div class="wiki-infobox-title">Modified Gross Lease — key facts</div>
 
-<img src="https://picsum.photos/seed/modified-gross-lease/900/600" alt="A commercial property with a modified gross lease" />
+<img src="/svg/real-estate.svg" alt="A commercial property with a modified gross lease" />
 
 <div class="wiki-infobox-caption">Modified gross leases split operating costs between landlord and tenant.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - electricity
   - steel
   - thermal coal
-image: "https://picsum.photos/seed/coal/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **coal** — a solid fossil fuel formed from ancient plant matter — is burned for electricity generation (~65% of coal use) and steel production (~25% via coking coal). Coal is the dirtiest fossil fuel on a carbon-per-BTU basis, and its use is declining in developed economies as renewables and [natural gas](/natural-gas/) supplant it, but consumption continues to grow in emerging markets, particularly China and India.*
@@ -22,7 +22,7 @@ This entry covers coal as a commodity. Coal exists in two forms: thermal coal (f
 
 <div class="wiki-infobox-title">Coal — key facts</div>
 
-<img src="https://picsum.photos/seed/coal/900/600" alt="Coal mine and power plant" />
+<img src="/svg/commodities.svg" alt="Coal mine and power plant" />
 
 <div class="wiki-infobox-caption">Coal extraction and combustion — electricity generation and steel.</div>
 

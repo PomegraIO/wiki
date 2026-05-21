@@ -7,7 +7,7 @@ keywords:
   - magic formula
   - value investing
   - systematic investing
-image: "https://picsum.photos/seed/joel-greenblatt/900/600"
+image: "/svg/people.svg"
 ---
 
 *Joel Greenblatt proved that a systematic, rules-based approach to value investing — finding cheap, profitable businesses — could beat the market and could be taught to ordinary investors through accessible books and online tools.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/joel-greenblatt/900/600"
 
 <div class="wiki-infobox-title">Joel Greenblatt — key facts</div>
 
-<img src="https://picsum.photos/seed/joel-greenblatt/900/600" alt="A spreadsheet of sorted companies by valuation and returns" />
+<img src="/svg/people.svg" alt="A spreadsheet of sorted companies by valuation and returns" />
 
 <div class="wiki-infobox-caption">The method of his screening — where data becomes investment decisions.</div>
 

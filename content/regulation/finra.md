@@ -8,7 +8,7 @@ keywords:
   - broker-dealer
   - arbitration
   - suitability
-image: "https://picsum.photos/seed/finra/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Financial Industry Regulatory Authority** (FINRA) is the primary self-regulatory organisation (SRO) for US stock brokers and dealers. While FINRA is a private entity, the [SEC](/securities-and-exchange-commission) delegates much day-to-day supervision to it. FINRA sets conduct rules, tests broker competence, handles customer complaints, and disciplines or expels members who break the rules.*
@@ -23,7 +23,7 @@ FINRA regulates brokers and dealers. For the regulation of investment advisers, 
 
 <div class="wiki-infobox-title">FINRA — key facts</div>
 
-<img src="https://picsum.photos/seed/finra/900/600" alt="An office building in a financial district" />
+<img src="/svg/regulation.svg" alt="An office building in a financial district" />
 
 <div class="wiki-infobox-caption">FINRA headquarters in Washington, DC.</div>
 

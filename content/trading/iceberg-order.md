@@ -6,7 +6,7 @@ keywords:
   - hidden order
   - large order
   - execution
-image: "https://picsum.photos/seed/iceberg-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *An **iceberg order** is a large [limit order](/limit-order) on a lit order book with only a small visible portion. When that visible portion fills, more shares are automatically revealed, like an iceberg with most of its mass below the water's surface. It allows large traders to accumulate or distribute size while keeping the market mostly unaware of their full intent.*
@@ -21,7 +21,7 @@ For fully visible orders, see [lit order](/lit-order). For fully hidden orders i
 
 <div class="wiki-infobox-title">Iceberg order — key facts</div>
 
-<img src="https://picsum.photos/seed/iceberg-order/900/600" alt="An iceberg with most of its mass underwater, representing a large hidden order" />
+<img src="/svg/trading.svg" alt="An iceberg with most of its mass underwater, representing a large hidden order" />
 
 <div class="wiki-infobox-caption">Like an iceberg, most of the order's size stays hidden beneath the surface.</div>
 

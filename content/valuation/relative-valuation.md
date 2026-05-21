@@ -7,7 +7,7 @@ keywords:
   - market-based valuation
   - multiples
   - trading comps
-image: "https://picsum.photos/seed/relative-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **relative valuation** values a company not by estimating its intrinsic cash flows, but by seeing what the market pays for similar companies. If software companies trade at 25x EBITDA and your company has 50 million EBITDA, it is worth 1.25 billion. It is faster and more market-grounded than [discounted cash flow](/discounted-cash-flow-valuation), but it is also circular: it assumes the market is right.*

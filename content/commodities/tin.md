@@ -7,7 +7,7 @@ keywords:
   - solder
   - electronics
   - tinplate
-image: "https://picsum.photos/seed/tin/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **tin** — a silvery-white metal whose primary role is solder for electronics and coating for steel (tinplate) — is a commodity distinguished by extreme supply concentration and a relatively small, specialized demand base. Tin is rare, supply-constrained, and subject to dramatic price swings, making it a commodity for specialists rather than generalists.*
@@ -22,7 +22,7 @@ This entry covers tin as a traded commodity. For tin-mining companies, see minin
 
 <div class="wiki-infobox-title">Tin — key facts</div>
 
-<img src="https://picsum.photos/seed/tin/900/600" alt="Tin ore and refined tin ingots" />
+<img src="/svg/commodities.svg" alt="Tin ore and refined tin ingots" />
 
 <div class="wiki-infobox-caption">Tin in ore and refined form.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - dividend valuation
   - intrinsic value
   - equity valuation
-image: "https://picsum.photos/seed/dividend-discount-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **dividend discount model (DDM)** is a class of equity valuations based on a simple premise: a stock is worth the sum of all dividends it will ever pay, discounted to the present. If a company never pays a dividend, the model suggests it is worthless—which has spawned decades of philosophical debate. Despite its limitations, DDM remains the textbook foundation for understanding equity value.*

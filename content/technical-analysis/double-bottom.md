@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/double-bottom/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **double bottom** is a bullish reversal pattern consisting of two lows at approximately the same price level separated by a rally (the peak). The pattern reveals that price has tested a support level twice and bounced both times, showing persistent buying interest. The first bottom exhausts sellers; the price rallies. Sellers try again, pushing price down toward the prior bottom, but buying intensity halts the decline. When price then rallies above the peak's high, the pattern is complete, and a sustained uptrend often follows. The double bottom is the bullish mirror of the [double-top](/technical-analysis/double-top) and is similarly common but considered less reliable than the [inverse head and shoulders](/technical-analysis/inverse-head-and-shoulders).*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Double bottom — key facts</div>
 
-<img src="https://picsum.photos/seed/double-bottom/900/600" alt="A double bottom pattern: two troughs at similar levels with a peak between them" />
+<img src="/svg/technical-analysis.svg" alt="A double bottom pattern: two troughs at similar levels with a peak between them" />
 
 <div class="wiki-infobox-caption">Double bottom: two troughs at support; peak between; breakabove peak signals reversal.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - multifamily
   - rental housing
   - apartment building
-image: "https://picsum.photos/seed/residential-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **residential REIT** owns and operates apartment buildings, multifamily complexes, and housing communities. Residential REITs generate returns from rental income and benefit from demographic tailwinds, housing undersupply in many markets, and the structural shift toward renting over owning.*
@@ -22,7 +22,7 @@ This entry focuses on residential REITs broadly. For distinctions between apartm
 
 <div class="wiki-infobox-title">Residential REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/residential-reit/900/600" alt="An apartment building or multifamily complex" />
+<img src="/svg/real-estate.svg" alt="An apartment building or multifamily complex" />
 
 <div class="wiki-infobox-caption">Residential REITs own the apartments where people live.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - debt service
   - financial risk
   - interest coverage
-image: "https://picsum.photos/seed/debt-to-ebitda-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **debt-to-EBITDA ratio** divides total debt by annual EBITDA. A ratio of 3.0 means the company has 3 years' worth of EBITDA in debt outstanding. It measures leverage relative to cash-generating ability and is a key metric for assessing loan covenants and refinancing risk.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/debt-to-ebitda-ratio/900/600"
 
 <div class="wiki-infobox-title">Debt-to-EBITDA — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-to-ebitda-ratio/900/600" alt="Debt relative to annual EBITDA" />
+<img src="/svg/ratios.svg" alt="Debt relative to annual EBITDA" />
 
 <div class="wiki-infobox-caption">Years of EBITDA required to pay off debt.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - cognitive bias
   - probability neglect
   - Bayesian reasoning
-image: "https://picsum.photos/seed/base-rate-neglect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Base-rate neglect is the tendency to overlook the actual statistical baseline — the prior probability of a category — when evaluating the likelihood of a specific case. Instead of starting with "90% of companies that pursue this strategy fail," you focus on the individual company's appealing features and estimate its success as likely, ignoring the base rate entirely.*
@@ -22,7 +22,7 @@ Related to representativeness heuristic. For similarity-based judgment, see [rep
 
 <div class="wiki-infobox-title">Base-rate neglect — key facts</div>
 
-<img src="https://picsum.photos/seed/base-rate-neglect/900/600" alt="A pyramid with most of the base obscured and the tip highlighted" />
+<img src="/svg/behavioral.svg" alt="A pyramid with most of the base obscured and the tip highlighted" />
 
 <div class="wiki-infobox-caption">The foundation matters more than the peak, but focus lands on the peak.</div>
 

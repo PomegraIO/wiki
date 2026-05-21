@@ -7,7 +7,7 @@ keywords:
   - bank lending rate
   - federal funds
   - interest rate
-image: "https://picsum.photos/seed/prime-rate/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **prime rate** (or **prime lending rate**) is the interest rate that commercial [banks](/broker) charge their most creditworthy customers for short-term loans. It is typically set at a fixed spread (usually 3%) above the [federal funds rate](/federal-funds-rate-target) and moves in lockstep whenever the Fed changes its policy rate. For retail borrowers, the prime rate is the baseline from which credit-card, auto, and home-equity borrowing rates are derived.*
@@ -22,7 +22,7 @@ This entry covers the prime rate's role in bank lending. For rates based on over
 
 <div class="wiki-infobox-title">Prime Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/prime-rate/900/600" alt="Bank loan rate chart showing prime rate" />
+<img src="/svg/monetary.svg" alt="Bank loan rate chart showing prime rate" />
 
 <div class="wiki-infobox-caption">The prime rate is the basis for most consumer and business lending.</div>
 

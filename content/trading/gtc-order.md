@@ -6,7 +6,7 @@ keywords:
   - good-til-canceled
   - time-in-force
   - persistent order
-image: "https://picsum.photos/seed/gtc-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **GTC order** (good-til-canceled) is an order that stays active indefinitely until you manually cancel it or your broker imposes a cutoff. Most brokers implement a "hard stop" — the order auto-expires after 30, 60, or 90 days — to prevent forgotten orders from lingering forever. A GTC order is ideal for patient investors who want to buy or sell at a specific price and are willing to wait.*
@@ -21,7 +21,7 @@ For orders that expire at day's end, see [day order](/day-order). For orders tha
 
 <div class="wiki-infobox-title">GTC order — key facts</div>
 
-<img src="https://picsum.photos/seed/gtc-order/900/600" alt="A calendar showing a GTC order persisting across days" />
+<img src="/svg/trading.svg" alt="A calendar showing a GTC order persisting across days" />
 
 <div class="wiki-infobox-caption">A GTC order persists across trading days until you cancel it or it auto-expires.</div>
 

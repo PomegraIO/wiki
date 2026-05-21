@@ -7,7 +7,7 @@ keywords:
   - permanent insurance
   - investment-linked insurance
   - cash value
-image: "https://picsum.photos/seed/variable-life-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **variable-life (VL)** insurance policy is permanent life insurance where you direct the cash value into investment accounts (similar to [mutual funds](/mutual-fund)). Unlike [whole-life](/whole-life-insurance) or [universal-life](/universal-life-insurance), the cash value and death benefit fluctuate with investment performance. If investments do well, you build cash value and can increase death benefit; if they perform poorly, cash value declines.*
@@ -22,7 +22,7 @@ For fixed permanent insurance, see [whole-life insurance](/whole-life-insurance)
 
 <div class="wiki-infobox-title">Variable-Life Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/variable-life-insurance/900/600" alt="A variable-life policy statement showing investment account performance" />
+<img src="/svg/personal-finance.svg" alt="A variable-life policy statement showing investment account performance" />
 
 <div class="wiki-infobox-caption">The model: permanent insurance with investment component.</div>
 

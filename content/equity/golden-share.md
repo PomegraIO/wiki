@@ -7,7 +7,7 @@ keywords:
   - veto share
   - special share
   - blocking share
-image: "https://picsum.photos/seed/golden-share/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A golden share is a single share (or small dedicated class) that carries special blocking rights or veto power over corporate actions, such as mergers, asset sales, or charter changes. Golden shares are used by founders, families, and particularly by governments in privatization transactions to retain veto power over strategic decisions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/golden-share/900/600"
 
 <div class="wiki-infobox-title">Golden share — key facts</div>
 
-<img src="https://picsum.photos/seed/golden-share/900/600" alt="A certificate representing a golden share" />
+<img src="/svg/equity.svg" alt="A certificate representing a golden share" />
 
 <div class="wiki-infobox-caption">Single share with veto power over major corporate actions.</div>
 

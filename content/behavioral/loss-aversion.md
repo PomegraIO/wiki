@@ -7,7 +7,7 @@ keywords:
   - behavioral finance
   - emotional reaction
   - prospect theory
-image: "https://picsum.photos/seed/loss-aversion/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Loss aversion is the tendency to feel the pain of losing $100 roughly twice as intensely as the pleasure of gaining $100. This asymmetry in emotional response causes people to avoid risks with favorable expected value, prefer the status quo even when change is beneficial, and hold losing positions too long in hopes of breaking even.*
@@ -22,7 +22,7 @@ Central to prospect theory. For the bias toward the existing state, see [status 
 
 <div class="wiki-infobox-title">Loss aversion — key facts</div>
 
-<img src="https://picsum.photos/seed/loss-aversion/900/600" alt="A scale tipping sharply to one side under the same weight" />
+<img src="/svg/behavioral.svg" alt="A scale tipping sharply to one side under the same weight" />
 
 <div class="wiki-infobox-caption">Losses weigh more heavily than equivalent gains.</div>
 

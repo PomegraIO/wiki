@@ -6,7 +6,7 @@ keywords:
   - prime brokerage
   - clearing
   - financing
-image: "https://picsum.photos/seed/prime-broker/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **prime broker** is a large investment bank or financial institution that provides bundled services to hedge funds, large traders, and institutional investors. These services include trade execution, [clearing](/clearing-firm), margin lending, securities lending, cash management, and reporting. A prime broker enables institutions to trade large positions with leverage, across multiple venues and asset classes, from a single relationship.*
@@ -21,7 +21,7 @@ For clearing alone, see [clearing firm](/clearing-firm). For retail brokerage, s
 
 <div class="wiki-infobox-title">Prime broker — key facts</div>
 
-<img src="https://picsum.photos/seed/prime-broker/900/600" alt="A prime broker's operations spanning trading, clearing, and financing" />
+<img src="/svg/trading.svg" alt="A prime broker's operations spanning trading, clearing, and financing" />
 
 <div class="wiki-infobox-caption">Prime brokers offer clearing, margin, securities lending, and full-service execution.</div>
 

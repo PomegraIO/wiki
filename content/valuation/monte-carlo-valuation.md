@@ -7,7 +7,7 @@ keywords:
   - probabilistic valuation
   - scenario analysis
   - uncertainty
-image: "https://picsum.photos/seed/monte-carlo-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **Monte Carlo valuation** replaces the single point estimate of a standard [discounted cash flow](/discounted-cash-flow-valuation) model with a distribution of possible outcomes. Instead of assuming revenue grows at exactly 10%, you assume it is normally distributed with a 10% mean and 3% standard deviation. Then you run 10,000 simulations, each with different random draws of revenue, margins, and other variables. The result is a distribution of intrinsic values, not a single number.*

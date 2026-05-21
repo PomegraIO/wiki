@@ -7,7 +7,7 @@ keywords:
   - stocks and bonds
   - fixed allocation
   - fund
-image: "https://picsum.photos/seed/balanced-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **balanced fund** is a [mutual fund](/mutual-fund) or [ETF](/etf) that holds both [stocks](/stock) and [bonds](/bond) in a fixed, published allocation — typically 60% [stocks](/stock) and 40% [bonds](/bond). Balanced funds aim to offer a single, simple investment solution for investors who want both growth and stability without having to manage separate holdings.*
@@ -22,7 +22,7 @@ This entry covers balanced funds as a category. For automatic rebalancing, see [
 
 <div class="wiki-infobox-title">Balanced Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/balanced-fund/900/600" alt="A pie chart showing 60% stocks and 40% bonds allocation" />
+<img src="/svg/funds.svg" alt="A pie chart showing 60% stocks and 40% bonds allocation" />
 
 <div class="wiki-infobox-caption">Balanced funds combine stocks and bonds in a stable allocation.</div>
 

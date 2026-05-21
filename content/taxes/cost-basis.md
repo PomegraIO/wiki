@@ -6,7 +6,7 @@ keywords:
   - adjusted purchase price
   - capital gain calculation
   - basis methods
-image: "https://picsum.photos/seed/cost-basis/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *Your **cost basis** is the adjusted purchase price of an investment, used to calculate your [capital gain](/capital-gains-tax-investor/) when you sell. The amount you paid for an asset minus any adjustments (dividends, splits, return of capital) is the starting point; the difference between your sale price and your cost basis is your taxable gain. The method you use to calculate basis can make a six-figure difference in your tax bill.*
@@ -21,7 +21,7 @@ For specific methods, see [specific identification](/specific-identification-bas
 
 <div class="wiki-infobox-title">Cost basis — key facts</div>
 
-<img src="https://picsum.photos/seed/cost-basis/900/600" alt="An investment statement showing purchase price and current basis" />
+<img src="/svg/taxes.svg" alt="An investment statement showing purchase price and current basis" />
 
 <div class="wiki-infobox-caption">Cost basis is the anchor for calculating what you owe in taxes when you sell.</div>
 

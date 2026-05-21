@@ -7,7 +7,7 @@ keywords:
   - Rule 144A
   - institutional investor
   - restricted securities
-image: "https://picsum.photos/seed/qualified-institutional-buyer/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *A **qualified institutional buyer** (QIB) is an institutional investor that meets asset thresholds and is presumed sophisticated enough to invest in restricted securities. The [SEC](/securities-and-exchange-commission) created the QIB category in Rule 144A to allow companies to issue unregistered securities to large institutions without full registration. QIBs are typically pension funds, funds of funds, investment advisers managing $100M+, and insurance companies. Rule 144A QIB offerings allow companies to raise capital without SEC review.*
@@ -22,7 +22,7 @@ QIBs are defined in Rule 144A. [Accredited investors](/accredited-investor) are 
 
 <div class="wiki-infobox-title">Qualified Institutional Buyer — key facts</div>
 
-<img src="https://picsum.photos/seed/qualified-institutional-buyer/900/600" alt="A QIB institutional investor" />
+<img src="/svg/regulation.svg" alt="A QIB institutional investor" />
 
 <div class="wiki-infobox-caption">A pension fund as a QIB investor.</div>
 

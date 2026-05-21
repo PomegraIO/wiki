@@ -7,7 +7,7 @@ keywords:
   - medical savings
   - health insurance
   - triple tax advantage
-image: "https://picsum.photos/seed/hsa/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *An **HSA** (Health Savings Account) is a savings account available to people enrolled in high-deductible health insurance plans. It offers a unique "triple tax advantage": contributions are tax-deductible, growth is tax-free, and withdrawals for qualified medical expenses are tax-free.*
@@ -22,7 +22,7 @@ For the alternative FSA account for medical expenses, see [FSA](/fsa); for depen
 
 <div class="wiki-infobox-title">HSA — key facts</div>
 
-<img src="https://picsum.photos/seed/hsa/900/600" alt="A health savings account card and medical receipt" />
+<img src="/svg/personal-finance.svg" alt="A health savings account card and medical receipt" />
 
 <div class="wiki-infobox-caption">The benefit: tax-free savings for medical costs.</div>
 

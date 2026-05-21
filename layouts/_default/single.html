@@ -1,15 +1,61 @@
 {{ define "main" }}
-<article class="wiki-article">
-  <div class="wiki-article-layout">
+{{/* Identify the article's category from the parent directory under content/.
+     Used for the sister-articles widget and any category-typed UI. */}}
+{{ $section := .Section }}
+{{ $category := default "default" $section }}
 
-    {{/* Sidebar — short, just the article title + TOC. Kept light so it scales to 10k articles without rendering a full sidebar list. */}}
+{{/* Sister entries: other RegularPages in the same section (same content
+     subdirectory). For 1000+ pages this stays fast — Hugo materialises
+     .Site.RegularPages once and we filter to a slice per page. We cap the
+     display list at 10 and pick a slug-stable subset for variety. */}}
+{{ $sisters := slice }}
+{{ if $section }}
+  {{ $sisters = where (where .Site.RegularPages "Section" $section) "Permalink" "!=" .Permalink }}
+{{ end }}
+
+{{/* Backlinks: pages whose RawContent literally mentions /:slug/ — Hugo
+     does this in-memory once per build. Cap at 8 for the sidebar widget. */}}
+{{ $self := printf "/%s/" .File.ContentBaseName }}
+{{ $back := where .Site.RegularPages "Permalink" "!=" .Permalink }}
+{{ $backlinks := slice }}
+{{ range $back }}
+  {{ if and (in .RawContent $self) (ne .Section "") }}
+    {{ $backlinks = $backlinks | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Reading time: ~225 words per minute, never below 1. */}}
+{{ $rt := math.Max 1 (math.Ceil (div (float .WordCount) 225.0)) }}
+
+<article class="wiki-article">
+  <div class="wiki-article-layout-3col">
+
+    {{/* LEFT RAIL — TOC + reading metadata */}}
     <aside class="wiki-toc">
+      <div class="wiki-meta">
+        <div class="wiki-meta-row">
+          <span class="wiki-meta-label">Reading time</span>
+          <span class="wiki-meta-value">{{ $rt }} min</span>
+        </div>
+        <div class="wiki-meta-row">
+          <span class="wiki-meta-label">Words</span>
+          <span class="wiki-meta-value">{{ lang.FormatNumber 0 .WordCount }}</span>
+        </div>
+        {{ if $section }}
+        <div class="wiki-meta-row">
+          <span class="wiki-meta-label">Category</span>
+          <span class="wiki-meta-value"><span class="wiki-cat-pill">{{ humanize $category }}</span></span>
+        </div>
+        {{ end }}
+      </div>
+
       {{ if .TableOfContents }}
         <div class="wiki-toc-label">Contents</div>
         {{ .TableOfContents }}
       {{ end }}
     </aside>
 
+    {{/* CENTER — article body */}}
     <div class="wiki-article-body">
       <h1 class="wiki-title">{{ .Title }}</h1>
 
@@ -21,26 +67,18 @@
         <div class="wiki-hatnote">{{ . | markdownify }}</div>
       {{ end }}
 
-      {{ if or .Params.image .Params.infobox }}
+      {{/* Front-matter-driven infobox: only renders when the article supplies
+           structured `infobox:` rows (the canonical new-entry pattern).
+           The inline `<aside class="wiki-infobox">` written into article
+           bodies by the swarm continues to render via goldmark unsafe HTML. */}}
+      {{ if .Params.infobox }}
         <aside class="wiki-infobox">
-          {{ with .Params.infobox_title | default .Title }}
-            <div class="wiki-infobox-title">{{ . }} — key facts</div>
-          {{ end }}
-          {{ with .Params.image }}
-            <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy" />
-          {{ end }}
-          {{ with .Params.image_caption }}
-            <div class="wiki-infobox-caption">{{ . | markdownify }}</div>
-          {{ end }}
-          {{ with .Params.infobox }}
-            <table>
-              <tbody>
-              {{ range . }}
-                <tr><th>{{ .key }}</th><td>{{ .value | markdownify }}</td></tr>
-              {{ end }}
-              </tbody>
-            </table>
-          {{ end }}
+          <div class="wiki-infobox-title">{{ default .Title .Params.infobox_title }} — key facts</div>
+          {{ with .Params.image }}<img src="{{ . | relURL }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy" />{{ end }}
+          {{ with .Params.image_caption }}<div class="wiki-infobox-caption">{{ . | markdownify }}</div>{{ end }}
+          <table><tbody>
+            {{ range .Params.infobox }}<tr><th>{{ .key }}</th><td>{{ .value | markdownify }}</td></tr>{{ end }}
+          </tbody></table>
         </aside>
       {{ end }}
 
@@ -70,6 +108,40 @@
         </div>
       {{ end }}
     </div>
+
+    {{/* RIGHT RAIL — sister entries + backlinks (graph rendering of the wiki) */}}
+    <aside class="wiki-rightrail">
+      {{ if gt (len $sisters) 0 }}
+        <section class="wiki-widget">
+          <div class="wiki-widget-kicker">Sister entries</div>
+          <div class="wiki-widget-title">More in <em>{{ humanize $category }}</em></div>
+          <ul class="wiki-widget-list">
+            {{ range first 10 (sort $sisters "Title") }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+          {{ if gt (len $sisters) 10 }}
+            <div class="wiki-widget-more">{{ sub (len $sisters) 10 }} more →</div>
+          {{ end }}
+        </section>
+      {{ end }}
+
+      {{ if gt (len $backlinks) 0 }}
+        <section class="wiki-widget">
+          <div class="wiki-widget-kicker">What links here</div>
+          <div class="wiki-widget-title">{{ len $backlinks }} {{ cond (eq (len $backlinks) 1) "entry references" "entries reference" }} this one</div>
+          <ul class="wiki-widget-list">
+            {{ range first 8 (sort $backlinks "Title") }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+          {{ if gt (len $backlinks) 8 }}
+            <div class="wiki-widget-more">+{{ sub (len $backlinks) 8 }} more</div>
+          {{ end }}
+        </section>
+      {{ end }}
+    </aside>
+
   </div>
 </article>
 {{ end }}

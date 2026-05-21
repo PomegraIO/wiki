@@ -7,7 +7,7 @@ keywords:
   - rental income
   - residential investment
   - apartment complex
-image: "https://picsum.photos/seed/multifamily-property/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **multifamily property** is a residential building containing multiple independent dwelling units — typically apartment complexes with 5 to 500+ units. Multifamily properties generate returns through rental income and property appreciation, and are a dominant holding for residential REITs and institutional real estate investors.*
@@ -22,7 +22,7 @@ This entry covers multifamily properties broadly. For single-family rental alter
 
 <div class="wiki-infobox-title">Multifamily Property — key facts</div>
 
-<img src="https://picsum.photos/seed/multifamily-property/900/600" alt="An apartment complex or multifamily residential building" />
+<img src="/svg/real-estate.svg" alt="An apartment complex or multifamily residential building" />
 
 <div class="wiki-infobox-caption">Multifamily properties provide housing and generate rental income.</div>
 

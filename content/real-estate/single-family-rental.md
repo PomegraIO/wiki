@@ -7,7 +7,7 @@ keywords:
   - SFR
   - single house rental
   - residential investment
-image: "https://picsum.photos/seed/single-family-rental/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **single-family rental** is a detached house rented to a tenant, held by an investor for rental income and property appreciation. Single-family rentals offer more control and customization than multifamily properties but lack operational leverage and require more hands-on management.*
@@ -22,7 +22,7 @@ This entry covers single-family rentals broadly. For apartment alternatives, see
 
 <div class="wiki-infobox-title">Single-Family Rental — key facts</div>
 
-<img src="https://picsum.photos/seed/single-family-rental/900/600" alt="A residential house rented to tenants" />
+<img src="/svg/real-estate.svg" alt="A residential house rented to tenants" />
 
 <div class="wiki-infobox-caption">Single-family rentals offer more control but less operational leverage than multifamily.</div>
 

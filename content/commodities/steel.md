@@ -7,7 +7,7 @@ keywords:
   - construction
   - automotive
   - alloy
-image: "https://picsum.photos/seed/steel/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **steel** — an alloy of iron and [carbon](/wheat/), plus trace elements for specific properties — is the structural metal of industrial civilization. Steel beams frame buildings; steel plates form ships; steel tubing supplies automotive frames; steel cables hang bridges. Its price is set by the cost of raw materials ([iron ore](/iron-ore/), [coal](/coal/)), manufacturing, and global supply-demand balance, making it a barometer of construction and manufacturing health.*
@@ -22,7 +22,7 @@ This entry covers steel as a traded commodity. Steel also exists in dozens of sp
 
 <div class="wiki-infobox-title">Steel — key facts</div>
 
-<img src="https://picsum.photos/seed/steel/900/600" alt="Steel beams, plates, and coils" />
+<img src="/svg/commodities.svg" alt="Steel beams, plates, and coils" />
 
 <div class="wiki-infobox-caption">Steel in structural beam, plate, and coil forms.</div>
 

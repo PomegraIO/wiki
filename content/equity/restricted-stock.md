@@ -7,7 +7,7 @@ keywords:
   - RSA
   - equity compensation
   - vesting
-image: "https://picsum.photos/seed/restricted-stock/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Restricted stock is [common stock](/equity/common-stock/) granted to employees or executives as compensation, subject to a [vesting schedule](/equity/vesting-schedule/) and typically transfer restrictions until vesting. Unlike [options](/equity/employee-stock-options/), restricted stock is actual shares from day one, so the holder votes and receives [dividends](/dividend/) on unvested shares; however, the shares are forfeitable if the employee leaves before vesting.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/restricted-stock/900/600"
 
 <div class="wiki-infobox-title">Restricted stock — key facts</div>
 
-<img src="https://picsum.photos/seed/restricted-stock/900/600" alt="An equity grant letter for restricted stock" />
+<img src="/svg/equity.svg" alt="An equity grant letter for restricted stock" />
 
 <div class="wiki-infobox-caption">Real shares, locked in time, convertible on vesting.</div>
 

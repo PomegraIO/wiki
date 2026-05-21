@@ -7,7 +7,7 @@ keywords:
   - government liabilities
   - debt measurement
   - national debt
-image: "https://picsum.photos/seed/gross-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **gross debt** is the total of all government borrowing and liabilities, measured without subtracting any financial assets the government holds. It is the broadest measure of what a government owes, providing the highest estimate of total debt burden.*
@@ -22,7 +22,7 @@ This entry covers the total debt measure. For debt adjusted for government finan
 
 <div class="wiki-infobox-title">Gross Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-debt/900/600" alt="Gross debt" />
+<img src="/svg/fiscal.svg" alt="Gross debt" />
 
 <div class="wiki-infobox-caption">Gross debt includes all government liabilities without offsetting assets.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - interest rate
   - option on swap
   - derivatives
-image: "https://picsum.photos/seed/swaption/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **swaption** is an [option](/option) contract giving the holder the right—but not obligation—to enter a [swap](/swap) (usually an [interest-rate-swap](/interest-rate-swap)) at a predetermined rate on a future date. Swaptions are used by corporates and bond investors to obtain optional interest-rate protection: if rates move unfavorably, the holder exercises and locks in the predetermined rate; if rates move favorably, the holder lets the option expire. A swaption has an [option premium](/option-premium) upfront and the [strike](/strike-price) is the fixed swap rate.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/swaption/900/600"
 
 <div class="wiki-infobox-title">Swaption — key facts</div>
 
-<img src="https://picsum.photos/seed/swaption/900/600" alt="Right to enter swap at predetermined rate" />
+<img src="/svg/derivatives.svg" alt="Right to enter swap at predetermined rate" />
 
 <div class="wiki-infobox-caption">Swaption: optional interest-rate hedge.</div>
 

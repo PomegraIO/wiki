@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - South Africa
   - Africa
-image: "https://picsum.photos/seed/johannesburg-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Johannesburg Stock Exchange** (JSE) is Africa's largest [stock exchange](/stock-exchange) and one of the world's oldest, headquartered in Johannesburg, South Africa. Home to South African mining, banking, industrial, and utility companies, the JSE serves as the primary equity venue for South Africa and a gateway for international investors seeking exposure to African growth and resource wealth.*
@@ -22,7 +22,7 @@ The JSE is regulated by the Financial Sector Conduct Authority (FSCA) and operat
 
 <div class="wiki-infobox-title">Johannesburg Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/johannesburg-stock-exchange/900/600" alt="The JSE trading floor in Johannesburg" />
+<img src="/svg/institutions.svg" alt="The JSE trading floor in Johannesburg" />
 
 <div class="wiki-infobox-caption">The JSE trading floor in the Johannesburg CBD.</div>
 

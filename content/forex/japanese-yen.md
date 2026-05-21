@@ -7,7 +7,7 @@ keywords:
   - yen
   - safe haven
   - carry trade funding
-image: "https://picsum.photos/seed/japanese-yen/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **Japanese yen** is the currency of Japan and the third-most important [reserve currency](/floating-exchange-rate) globally (after the [US dollar](/us-dollar) and [euro](/euro)). The yen is notorious as a **safe-haven currency** — investors flee to it during crises — and is the premier **funding currency** for [carry trades](/carry-trade) because Japanese [interest rates](/interest-rate) are historically among the world's lowest.*
@@ -22,7 +22,7 @@ For other major currencies, see [US Dollar](/us-dollar) and [euro](/euro); for t
 
 <div class="wiki-infobox-title">Japanese Yen — key facts</div>
 
-<img src="https://picsum.photos/seed/japanese-yen/900/600" alt="Japanese yen banknotes and coins" />
+<img src="/svg/forex.svg" alt="Japanese yen banknotes and coins" />
 
 <div class="wiki-infobox-caption">Safe-haven currency; favorite funding currency for carry trades.</div>
 

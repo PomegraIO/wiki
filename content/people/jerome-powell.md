@@ -7,7 +7,7 @@ keywords:
   - interest rates
   - inflation
   - monetary policy
-image: "https://picsum.photos/seed/jerome-powell/900/600"
+image: "/svg/people.svg"
 ---
 
 *Jerome Powell led the Federal Reserve through unprecedented challenges: the pandemic crisis requiring extreme accommodation, followed by inflation requiring sharp tightening — a shifting landscape that tested his flexibility.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/jerome-powell/900/600"
 
 <div class="wiki-infobox-title">Jerome Powell — key facts</div>
 
-<img src="https://picsum.photos/seed/jerome-powell/900/600" alt="Federal Reserve headquarters during pandemic and inflation era" />
+<img src="/svg/people.svg" alt="Federal Reserve headquarters during pandemic and inflation era" />
 
 <div class="wiki-infobox-caption">The center of crisis response — where rapid policy shifts occurred.</div>
 

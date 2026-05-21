@@ -8,7 +8,7 @@ keywords:
   - parachain
   - interoperability
   - relay chain
-image: "https://picsum.photos/seed/polkadot/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Polkadot** (**DOT**) is a multi-chain blockchain platform designed to enable interoperability between different blockchains. It connects specialised "parachains" to a central "relay chain," allowing tokens and data to move between chains while sharing security provided by validators on the relay chain.*
@@ -23,7 +23,7 @@ This entry covers the Polkadot network architecture. For its native token, see t
 
 <div class="wiki-infobox-title">Polkadot — key facts</div>
 
-<img src="https://picsum.photos/seed/polkadot/900/600" alt="Polkadot relay chain and parachain architecture" />
+<img src="/svg/crypto.svg" alt="Polkadot relay chain and parachain architecture" />
 
 <div class="wiki-infobox-caption">Polkadot: a heterogeneous multi-chain network with shared security.</div>
 

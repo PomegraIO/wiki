@@ -7,7 +7,7 @@ keywords:
   - regret pain
   - selling too early
   - holding losers
-image: "https://picsum.photos/seed/regret-aversion/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Regret aversion is the tendency to make decisions that minimize the pain of possible future regret, even if those decisions are suboptimal. You hold a losing stock because selling it would mean regretting the original purchase. You sell a winning stock prematurely because holding it longer creates the risk of regret if it falls. The fear of regret guides decisions more than expected value.*
@@ -22,7 +22,7 @@ Related to loss aversion and disposition effect. For the pain of realizing losse
 
 <div class="wiki-infobox-title">Regret aversion — key facts</div>
 
-<img src="https://picsum.photos/seed/regret-aversion/900/600" alt="A person looking back over their shoulder with anguish" />
+<img src="/svg/behavioral.svg" alt="A person looking back over their shoulder with anguish" />
 
 <div class="wiki-infobox-caption">The pain of regret pulls decisions away from optimal choices.</div>
 

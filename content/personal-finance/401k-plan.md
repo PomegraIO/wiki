@@ -7,7 +7,7 @@ keywords:
   - employer match
   - tax-deferred
   - pension alternative
-image: "https://picsum.photos/seed/401k-plan/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **401(k) plan** is an employer-sponsored retirement account in which you contribute a portion of your pre-tax salary, and your employer often adds matching contributions. The money grows tax-deferred until you withdraw it, usually in retirement.*
@@ -22,7 +22,7 @@ For the principle of employer matching, see [401(k) match](/401k-match); for ves
 
 <div class="wiki-infobox-title">401(k) Plan — key facts</div>
 
-<img src="https://picsum.photos/seed/401k-plan/900/600" alt="A paycheck with an arrow showing a percentage being diverted to a 401k account" />
+<img src="/svg/personal-finance.svg" alt="A paycheck with an arrow showing a percentage being diverted to a 401k account" />
 
 <div class="wiki-infobox-caption">The flow: payroll deduction into a retirement account.</div>
 

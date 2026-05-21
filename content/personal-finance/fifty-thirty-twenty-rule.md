@@ -7,7 +7,7 @@ keywords:
   - income allocation
   - spending rule
   - budget formula
-image: "https://picsum.photos/seed/fifty-thirty-twenty-rule/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **fifty-thirty-twenty rule** is a straightforward budgeting formula: allocate 50% of your after-tax income to necessities (housing, food, utilities, insurance), 30% to discretionary wants (entertainment, dining out, hobbies), and 20% to savings and debt repayment.*
@@ -22,7 +22,7 @@ For broader budgeting approaches, see [budgeting methods](/budgeting-methods); f
 
 <div class="wiki-infobox-title">Fifty-Thirty-Twenty Rule — key facts</div>
 
-<img src="https://picsum.photos/seed/fifty-thirty-twenty-rule/900/600" alt="A pie chart dividing income into three sections: 50%, 30%, and 20%" />
+<img src="/svg/personal-finance.svg" alt="A pie chart dividing income into three sections: 50%, 30%, and 20%" />
 
 <div class="wiki-infobox-caption">Visual partition of income: needs, wants, and future.</div>
 

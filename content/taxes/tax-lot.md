@@ -6,7 +6,7 @@ keywords:
   - purchase lot
   - cost basis
   - lot identification
-image: "https://picsum.photos/seed/tax-lot/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **tax lot** is a single purchase of a [stock](/stock/), [bond](/bond/), or other security at a specific price on a specific date. When you own multiple [tax lots](/tax-lot/) of the same holding—bought at different prices or times—you can choose which [lot](/tax-lot/) to sell when you liquidate, controlling the size of your [capital gain](/capital-gains-tax-investor/) and your tax bill. This choice is the foundation of tax-efficient investing.*
@@ -21,7 +21,7 @@ For the adjustments to cost basis, see [cost basis](/cost-basis/). For the metho
 
 <div class="wiki-infobox-title">Tax lot — key facts</div>
 
-<img src="https://picsum.photos/seed/tax-lot/900/600" alt="A portfolio statement showing multiple purchase lots" />
+<img src="/svg/taxes.svg" alt="A portfolio statement showing multiple purchase lots" />
 
 <div class="wiki-infobox-caption">Each purchase is a separate lot; you choose which to sell for tax efficiency.</div>
 

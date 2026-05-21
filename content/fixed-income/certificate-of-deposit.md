@@ -7,7 +7,7 @@ keywords:
   - bank savings
   - fixed rate
   - FDIC insured
-image: "https://picsum.photos/seed/certificate-of-deposit/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **certificate of deposit** — or **CD** — is a bank-issued savings instrument in which you deposit money for a specified term (3 months to 5 years or longer) and receive a fixed rate of interest. CDs are FDIC-insured up to $250,000, making them one of the safest savings vehicles available. In exchange for safety and [liquidity](/stock-exchange) restrictions, CDs offer higher rates than savings accounts.*
@@ -22,7 +22,7 @@ For money market alternatives, see [commercial paper](/commercial-paper) and [Tr
 
 <div class="wiki-infobox-title">Certificate of Deposit — key facts</div>
 
-<img src="https://picsum.photos/seed/certificate-of-deposit/900/600" alt="A bank branch showing CD offerings and interest rates" />
+<img src="/svg/fixed-income.svg" alt="A bank branch showing CD offerings and interest rates" />
 
 <div class="wiki-infobox-caption">CDs offer safety and predictability for conservative savers.</div>
 

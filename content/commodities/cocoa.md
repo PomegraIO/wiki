@@ -7,7 +7,7 @@ keywords:
   - chocolate
   - commodity
   - West Africa
-image: "https://picsum.photos/seed/cocoa/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **cocoa** — the commodity processed from cacao beans to produce cocoa powder and cocoa butter used in chocolate — is a tropical crop commodity with extreme supply concentration in West Africa (80%+ from Côte d'Ivoire and Ghana). Cocoa prices are highly volatile, driven by disease outbreaks (frosty pod disease), weather, and disease-related supply shocks.*
@@ -22,7 +22,7 @@ This entry covers cocoa as a commodity. Cocoa is a speciality crop for chocolate
 
 <div class="wiki-infobox-title">Cocoa — key facts</div>
 
-<img src="https://picsum.photos/seed/cocoa/900/600" alt="Cacao pod and cocoa beans" />
+<img src="/svg/commodities.svg" alt="Cacao pod and cocoa beans" />
 
 <div class="wiki-infobox-caption">Cacao pod and cocoa beans — the source of chocolate.</div>
 

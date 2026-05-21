@@ -8,7 +8,7 @@ keywords:
   - stock market index
   - large-cap stocks
   - industrial average
-image: "https://picsum.photos/seed/dow-jones-industrial-average/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **Dow Jones Industrial Average (DJIA)**, often called "the Dow," is a price-weighted index of 30 blue-chip US companies. Founded in 1896 by Charles Dow and Edward Jones, it is the oldest and one of the most famous stock market indices. Despite representing only 30 stocks compared to the [S&P 500](/sp-500-index)'s 500, the Dow receives enormous media attention and is often used as the benchmark for the overall health of the US [stock market](/stock-market).*
@@ -23,7 +23,7 @@ This entry is about the Dow Jones Industrial Average. For broader market indices
 
 <div class="wiki-infobox-title">Dow Jones Industrial Average — key facts</div>
 
-<img src="https://picsum.photos/seed/dow-jones-industrial-average/900/600" alt="A historical chart of the Dow Jones from 1900 to the present day" />
+<img src="/svg/markets.svg" alt="A historical chart of the Dow Jones from 1900 to the present day" />
 
 <div class="wiki-infobox-caption">The Dow Jones is the most historically significant stock market index.</div>
 

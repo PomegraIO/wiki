@@ -7,7 +7,7 @@ keywords:
   - peer selection
   - comps
   - valuation
-image: "https://picsum.photos/seed/peer-group-selection/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The success of [comparable company analysis](/comparable-company-analysis) and [relative valuation](/relative-valuation) depends almost entirely on peer group selection. A poor peer group (companies that are not truly comparable) ruins the analysis. A good peer group (companies that are similar in all material respects) grounds the valuation in reality. Peer group selection is the most critical and most overlooked step in multiples analysis.*

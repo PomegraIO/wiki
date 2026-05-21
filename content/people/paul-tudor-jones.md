@@ -7,7 +7,7 @@ keywords:
   - tudor investment corporation
   - hedge fund
   - crisis trading
-image: "https://picsum.photos/seed/paul-tudor-jones/900/600"
+image: "/svg/people.svg"
 ---
 
 *Paul Tudor Jones II proved that a trader armed with deep research, respect for risk, and the ability to read market sentiment could navigate every crisis of the past four decades and emerge richer — consistently and methodically.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/paul-tudor-jones/900/600"
 
 <div class="wiki-infobox-title">Paul Tudor Jones — key facts</div>
 
-<img src="https://picsum.photos/seed/paul-tudor-jones/900/600" alt="A commodity trading floor with wheat prices and contract books" />
+<img src="/svg/people.svg" alt="A commodity trading floor with wheat prices and contract books" />
 
 <div class="wiki-infobox-caption">The arena of his start — where commodity prices and sentiment live.</div>
 

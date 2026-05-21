@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - derivatives
   - Hong Kong
-image: "https://picsum.photos/seed/hong-kong-exchanges-and-clearing/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Hong Kong Exchanges and Clearing Limited** (HKEx) is the parent company operating the [Hong Kong Stock Exchange](/hong-kong-stock-exchange), the Hong Kong Futures Exchange, and associated clearing venues. HKEx is a publicly listed, vertically integrated exchange operator serving the Greater China region and global investors seeking exposure to Chinese and Hong Kong equities and derivatives.*
@@ -22,7 +22,7 @@ HKEx listed on its own exchange (the Hong Kong Stock Exchange) in 2000, making i
 
 <div class="wiki-infobox-title">Hong Kong Exchanges and Clearing — key facts</div>
 
-<img src="https://picsum.photos/seed/hong-kong-exchanges-and-clearing/900/600" alt="HKEx headquarters in Hong Kong" />
+<img src="/svg/institutions.svg" alt="HKEx headquarters in Hong Kong" />
 
 <div class="wiki-infobox-caption">The HKEx headquarters in the Central district of Hong Kong.</div>
 

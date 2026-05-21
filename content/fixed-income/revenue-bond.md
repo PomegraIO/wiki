@@ -7,7 +7,7 @@ keywords:
   - municipal debt
   - utility bond
   - toll revenue
-image: "https://picsum.photos/seed/revenue-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **revenue bond** is a [municipal bond](/municipal-bond) secured only by the revenue generated from a specific project, utility, or facility — not by the full taxing power of the issuing government. Repayment depends entirely on the project's economic success and the ability to raise user fees or tolls to meet debt obligations.*
@@ -22,7 +22,7 @@ For municipal bonds backed by taxing power, see [general obligation bond](/gener
 
 <div class="wiki-infobox-title">Revenue Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/revenue-bond/900/600" alt="A water treatment or utility facility financed by revenue bonds" />
+<img src="/svg/fixed-income.svg" alt="A water treatment or utility facility financed by revenue bonds" />
 
 <div class="wiki-infobox-caption">Revenue bonds finance self-supporting projects like utilities, tolls, and parking systems.</div>
 

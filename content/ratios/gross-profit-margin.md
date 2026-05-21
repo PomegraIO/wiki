@@ -7,7 +7,7 @@ keywords:
   - profitability
   - markup
   - cost of goods sold
-image: "https://picsum.photos/seed/gross-profit-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **gross profit margin** — or **gross margin** — divides gross profit by total revenue and expresses it as a percentage. Gross profit is revenue minus cost of goods sold (COGS). A company with 60% gross margin keeps 60 cents of every sales dollar after paying for the direct costs of production or acquisition. Gross margin reveals pricing power and production efficiency.*
@@ -22,7 +22,7 @@ This entry covers the highest-level profitability margin. For margins after oper
 
 <div class="wiki-infobox-title">Gross Profit Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-profit-margin/900/600" alt="Revenue minus cost of goods sold" />
+<img src="/svg/ratios.svg" alt="Revenue minus cost of goods sold" />
 
 <div class="wiki-infobox-caption">The markup after direct production costs — the starting point for profit.</div>
 

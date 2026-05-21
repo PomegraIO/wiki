@@ -7,7 +7,7 @@ keywords:
   - class A shares
   - class B shares
   - share structure
-image: "https://picsum.photos/seed/share-class/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A share class is a distinct category of [equity](/stock/) issued by the same company, usually distinguished by differences in voting power, [dividend](/dividend/) priority, conversion features, or transferability. Different classes of stock allow a company to separate economic interest from voting control.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/share-class/900/600"
 
 <div class="wiki-infobox-title">Share class — key facts</div>
 
-<img src="https://picsum.photos/seed/share-class/900/600" alt="A corporate capitalization table showing multiple share classes" />
+<img src="/svg/equity.svg" alt="A corporate capitalization table showing multiple share classes" />
 
 <div class="wiki-infobox-caption">Multi-class structure separates economic participation from voting power.</div>
 

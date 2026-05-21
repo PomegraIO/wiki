@@ -8,7 +8,7 @@ keywords:
   - Golden Age
   - Netherlands
   - financial history
-image: "https://picsum.photos/seed/tulip-mania/900/600"
+image: "/svg/history.svg"
 ---
 
 *Tulip mania, or **tulipmania**, was a speculative frenzy in the Dutch Golden Age during the 1630s when prices for certain rare tulip bulbs soared to extraordinary levels. Some prized varieties were traded for sums equal to the cost of a grand Amsterdam mansion. Though once cited as the canonical first financial bubble, modern historians have questioned the extent and severity of the panic.*
@@ -23,7 +23,7 @@ This entry covers the historical market episode. For the broader phenomenon of s
 
 <div class="wiki-infobox-title">Tulip Mania — key facts</div>
 
-<img src="https://picsum.photos/seed/tulip-mania/900/600" alt="Ornate red and white striped tulips in a period painting" />
+<img src="/svg/history.svg" alt="Ornate red and white striped tulips in a period painting" />
 
 <div class="wiki-infobox-caption">Variegated tulips, highly prized in 17th-century Holland, commanded prices that exceeded those of wealthy estates.</div>
 

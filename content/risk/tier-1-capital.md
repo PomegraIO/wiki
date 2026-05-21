@@ -7,7 +7,7 @@ keywords:
   - core capital
   - primary capital
   - regulatory capital
-image: "https://picsum.photos/seed/tier-1-capital/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Tier 1 capital is the primary, highest-quality capital held by a bank, composed mainly of common stock (equity) and retained earnings. Under [Basel capital](/basel-capital) standards, it is further divided into Common Equity Tier 1 (CET1) — the most loss-absorbing — and Additional Tier 1 (AT1) — like contingent convertible bonds that convert to equity in a crisis.*
@@ -22,7 +22,7 @@ This entry covers Tier 1 capital specifically. For [Tier 2 capital](/tier-2-capi
 
 <div class="wiki-infobox-title">Tier 1 Capital — key facts</div>
 
-<img src="https://picsum.photos/seed/tier-1-capital/900/600" alt="A pyramid with the top layer highlighted, showing priority in absorbing losses" />
+<img src="/svg/risk.svg" alt="A pyramid with the top layer highlighted, showing priority in absorbing losses" />
 
 <div class="wiki-infobox-caption">Tier 1 capital is the first line of defense against losses.</div>
 

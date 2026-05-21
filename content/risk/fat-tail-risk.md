@@ -7,7 +7,7 @@ keywords:
   - distribution tail
   - extreme events
   - kurtosis
-image: "https://picsum.photos/seed/fat-tail-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Fat-tail risk is the reality that financial market returns exhibit **fat tails** — extreme price moves happen much more frequently and intensely than a normal (Gaussian) distribution would predict. A fat-tailed distribution has a higher probability of extreme outcomes, captured mathematically by excess kurtosis.*
@@ -22,7 +22,7 @@ This entry covers the statistical reality of market tail thickness. For the broa
 
 <div class="wiki-infobox-title">Fat-Tail Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/fat-tail-risk/900/600" alt="Two distribution curves overlaid, one normal and one with visibly thicker tails" />
+<img src="/svg/risk.svg" alt="Two distribution curves overlaid, one normal and one with visibly thicker tails" />
 
 <div class="wiki-infobox-caption">Real returns (red) have fatter tails than a normal distribution (blue).</div>
 

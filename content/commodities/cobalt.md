@@ -7,7 +7,7 @@ keywords:
   - battery
   - electric vehicle
   - DRC
-image: "https://picsum.photos/seed/cobalt/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **cobalt** — a hard, silvery metal whose demand has exploded as electric-vehicle batteries require cobalt cathodes — is a commodity whose supply is dominated by a single country (the Democratic Republic of Congo) to such an extent that Western governments now classify it as "critical." Cobalt prices are volatile, supply is unreliable, and new battery chemistries that reduce cobalt content are under active development.*
@@ -22,7 +22,7 @@ This entry covers cobalt as a traded commodity. The geopolitical concentration o
 
 <div class="wiki-infobox-title">Cobalt — key facts</div>
 
-<img src="https://picsum.photos/seed/cobalt/900/600" alt="Cobalt ore and cobalt oxide powder" />
+<img src="/svg/commodities.svg" alt="Cobalt ore and cobalt oxide powder" />
 
 <div class="wiki-infobox-caption">Cobalt in ore and oxide forms used in battery chemistry.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - professional option
   - at-the-money
   - in-the-money
-image: "https://picsum.photos/seed/fx-option/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **FX option** is a [currency option](/currency-option) in the institutional over-the-counter market, as opposed to the standardized, exchange-traded options on currency futures. FX options are customized to size and expiration, priced using volatility models (particularly the Black-Scholes framework), and are available in both vanilla and exotic structures. They are the primary tool for corporate currency hedging with payoff flexibility.*
@@ -22,7 +22,7 @@ For standardized exchange-traded contracts, see [currency future](/currency-futu
 
 <div class="wiki-infobox-title">FX Option — key facts</div>
 
-<img src="https://picsum.photos/seed/fx-option/900/600" alt="FX option Greeks: delta, gamma, vega, theta" />
+<img src="/svg/forex.svg" alt="FX option Greeks: delta, gamma, vega, theta" />
 
 <div class="wiki-infobox-caption">OTC options priced using advanced volatility models.</div>
 

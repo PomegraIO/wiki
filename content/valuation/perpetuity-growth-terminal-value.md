@@ -7,7 +7,7 @@ keywords:
   - Gordon growth
   - perpetual growth rate
   - DCF
-image: "https://picsum.photos/seed/perpetuity-growth-terminal-value/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **perpetuity growth terminal value** is the workhorse endpoint in every [discounted cash flow](/discounted-cash-flow-valuation) model. It assumes that in year N plus one and beyond, a company's free cash flow grows at a constant rate forever, and it uses the [Gordon growth model](/gordon-growth-model) formula to collapse that infinite stream into a present value. Despite its theoretical beauty, this approach rests on an assumption—perpetual growth rate—that is easier to state than to defend.*

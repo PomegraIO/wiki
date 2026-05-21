@@ -7,7 +7,7 @@ keywords:
   - fear
   - risk aversion
   - missed opportunities
-image: "https://picsum.photos/seed/pessimism-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Pessimism bias is the tendency to see the future as worse than present conditions warrant. During [bear markets](/bear-market), investors believe the decline will continue. When valuations are low and opportunities abound, pessimism prevents buying. Some investors assume their investments will fail and avoid equity allocation altogether. This systematic pessimism leads to overly conservative portfolios and significant lost wealth.*
@@ -22,7 +22,7 @@ The opposite of optimism bias. Related to loss aversion. For excessive caution i
 
 <div class="wiki-infobox-title">Pessimism bias — key facts</div>
 
-<img src="https://picsum.photos/seed/pessimism-bias/900/600" alt="A person looking at a sunset through dark glasses" />
+<img src="/svg/behavioral.svg" alt="A person looking at a sunset through dark glasses" />
 
 <div class="wiki-infobox-caption">The darkness tints the view of what is ahead.</div>
 

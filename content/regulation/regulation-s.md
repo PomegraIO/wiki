@@ -7,7 +7,7 @@ keywords:
   - offshore offering
   - foreign offering
   - securities exemption
-image: "https://picsum.photos/seed/regulation-s/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation S](/regulation-s) is an exemption from [Securities Act of 1933](/securities-act-of-1933) registration for offshore securities offerings. It allows companies to sell securities to foreign investors outside the United States without complying with US disclosure rules, provided the offering is designed to avoid resale into the US market. Reg S is heavily used by multinational companies and foreign issuers raising capital abroad.*
@@ -22,7 +22,7 @@ Regulation S is for offshore offerings. [Regulation D](/regulation-d) is for pri
 
 <div class="wiki-infobox-title">Regulation S — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-s/900/600" alt="International capital markets" />
+<img src="/svg/regulation.svg" alt="International capital markets" />
 
 <div class="wiki-infobox-caption">Regulation S enables global capital raising.</div>
 

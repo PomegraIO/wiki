@@ -7,7 +7,7 @@ keywords:
   - weekly claims
   - labor market
   - economic indicator
-image: "https://picsum.photos/seed/initial-jobless-claims/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Initial jobless claims measure the number of workers filing for [unemployment](/unemployment-rate) insurance for the first time in a week. Released weekly by the Department of Labor, it is the most timely labor market indicator available, with essentially no lag. Claims spikes signal economic weakness; low and stable claims indicate a healthy labor market.*
@@ -22,7 +22,7 @@ Initial claims are weekly data, highly volatile, and best interpreted as 4-week 
 
 <div class="wiki-infobox-title">Initial Jobless Claims — key facts</div>
 
-<img src="https://picsum.photos/seed/initial-jobless-claims/900/600" alt="Initial jobless claims trends" />
+<img src="/svg/macro.svg" alt="Initial jobless claims trends" />
 
 <div class="wiki-infobox-caption">Claims spiked to 6.9 million in April 2020; normal level is 200-300k weekly.</div>
 

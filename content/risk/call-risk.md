@@ -7,7 +7,7 @@ keywords:
   - bond redemption
   - early call
   - callable bond
-image: "https://picsum.photos/seed/call-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Call risk is the probability that a [bond](/bond) issuer will exercise a call option — repaying the [bond](/bond) before its stated maturity — typically when interest rates fall and the issuer can refinance at lower rates. Call risk is a form of [prepayment-risk](/prepayment-risk) specific to corporate and municipal [bonds](/bond).*
@@ -22,7 +22,7 @@ This entry covers callable [bonds](/bond) and the option held by issuers. For th
 
 <div class="wiki-infobox-title">Call Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/call-risk/900/600" alt="A ringing bell with an arrow showing a bond being recalled" />
+<img src="/svg/risk.svg" alt="A ringing bell with an arrow showing a bond being recalled" />
 
 <div class="wiki-infobox-caption">Issuers call bonds when rates fall, robbing holders of high coupons.</div>
 

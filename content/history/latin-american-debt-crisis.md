@@ -7,7 +7,7 @@ keywords:
   - sovereign debt
   - sovereign default
   - Mexico
-image: "https://picsum.photos/seed/latin-american-debt-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Latin American Debt Crisis** was a cascade of sovereign defaults and debt restructurings across Latin America in the 1980s. Triggered by the sharp rise in US [interest rates](/interest-rate) under Federal Reserve Chair Paul Volcker and by falling commodity prices, Latin American nations faced a sudden inability to service their debts. Mexico's 1982 default was the flash point; Brazil, Argentina, Peru, and others followed. The crisis lasted nearly a decade and reshaped emerging market finance.*
@@ -22,7 +22,7 @@ This entry covers the Latin American crisis. For the Mexican crisis specifically
 
 <div class="wiki-infobox-title">Latin American Debt Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/latin-american-debt-crisis/900/600" alt="A newspaper headline announcing Mexico's debt crisis and default" />
+<img src="/svg/history.svg" alt="A newspaper headline announcing Mexico's debt crisis and default" />
 
 <div class="wiki-infobox-caption">Mexico's 1982 default on foreign debt sent shockwaves through global finance.</div>
 

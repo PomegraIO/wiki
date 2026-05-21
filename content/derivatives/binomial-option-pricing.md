@@ -7,7 +7,7 @@ keywords:
   - option valuation
   - discrete pricing
   - american options
-image: "https://picsum.photos/seed/binomial-option-pricing/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **binomial option pricing model** values [option](/option)s by constructing a discrete tree where at each time step, the underlying [stock](/stock) can move up or down. Starting from expiration and working backward, the model calculates option value at each node as the probability-weighted average of future values, discounted to present value. The binomial model can handle [american-option](/american-option)s (early exercise), dividends, and other features [Black-Scholes model](/black-scholes-model) cannot, making it more flexible though less elegant.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/binomial-option-pricing/900/600"
 
 <div class="wiki-infobox-title">Binomial Option Pricing — key facts</div>
 
-<img src="https://picsum.photos/seed/binomial-option-pricing/900/600" alt="Tree structure of future stock prices" />
+<img src="/svg/derivatives.svg" alt="Tree structure of future stock prices" />
 
 <div class="wiki-infobox-caption">Binomial tree: branching paths to all outcomes.</div>
 

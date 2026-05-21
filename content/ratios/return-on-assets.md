@@ -7,7 +7,7 @@ keywords:
   - profitability
   - asset efficiency
   - capital efficiency
-image: "https://picsum.photos/seed/return-on-assets/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on assets** — or **ROA** — divides a company's annual net income by its average total assets (both equity-financed and debt-financed) and expresses it as a percentage. A bank or utility with ROA of 1% is considered strong; a capital-light software company with ROA of 5% is modest. ROA measures how efficiently management uses all assets, regardless of how they are financed.*
@@ -22,7 +22,7 @@ This entry covers asset-based profitability. For equity-based returns, see [retu
 
 <div class="wiki-infobox-title">Return on Assets — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-assets/900/600" alt="Assets deployed to generate profit" />
+<img src="/svg/ratios.svg" alt="Assets deployed to generate profit" />
 
 <div class="wiki-infobox-caption">How much profit every dollar of assets generates.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - public sector retirement
   - deferred compensation
   - government pension
-image: "https://picsum.photos/seed/457-plan/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **457 plan** is a retirement account available to employees of state and local governments and some nonprofits. Like a [401(k)](/401k-plan), it allows pre-tax contributions, but with unique advantages: the same contribution limit as a [401(k)](/401k-plan), plus the ability to withdraw funds upon separation from service without the typical 10% early-withdrawal penalty.*
@@ -22,7 +22,7 @@ For federal employees, see the Thrift Savings Plan (not covered here); for priva
 
 <div class="wiki-infobox-title">457 Plan — key facts</div>
 
-<img src="https://picsum.photos/seed/457-plan/900/600" alt="A municipal building with the 457 plan name visible" />
+<img src="/svg/personal-finance.svg" alt="A municipal building with the 457 plan name visible" />
 
 <div class="wiki-infobox-caption">The base: public-sector and some nonprofit employees.</div>
 

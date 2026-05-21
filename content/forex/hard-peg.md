@@ -7,7 +7,7 @@ keywords:
   - institutional peg
   - currency board
   - Hong Kong dollar
-image: "https://picsum.photos/seed/hard-peg/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **hard peg** is a [currency peg](/currency-peg) backed by such credible commitment from the [central bank](/central-bank) that markets trust it will not be broken. The Hong Kong dollar has been pegged at 7.80 to the [US dollar](/us-dollar) since 1983 without devaluation. Traders know that if they bet against a hard peg, they will lose. Hard pegs remove exchange-rate uncertainty but at the cost of surrendering monetary policy autonomy.*
@@ -22,7 +22,7 @@ For pegs that can be adjusted, see [soft peg](/soft-peg); for gradual adjustment
 
 <div class="wiki-infobox-title">Hard Peg — key facts</div>
 
-<img src="https://picsum.photos/seed/hard-peg/900/600" alt="Hong Kong dollar fixed at 7.80 per USD" />
+<img src="/svg/forex.svg" alt="Hong Kong dollar fixed at 7.80 per USD" />
 
 <div class="wiki-infobox-caption">Hard pegs endure decades without devaluation; credibility is everything.</div>
 

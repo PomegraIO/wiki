@@ -7,7 +7,7 @@ keywords:
   - government-insured mortgage
   - low down payment
   - federal housing
-image: "https://picsum.photos/seed/fha-loan/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **FHA loan** is a mortgage insured by the Federal Housing Administration, a government agency. FHA loans allow borrowers to put down as little as 3.5% and approve borrowers with lower credit scores, making homeownership accessible to first-time buyers and those with limited down-payment savings.*
@@ -22,7 +22,7 @@ For government mortgage programs, see [va-loan](/va-loan), [usda-loan](/usda-loa
 
 <div class="wiki-infobox-title">FHA Loan — key facts</div>
 
-<img src="https://picsum.photos/seed/fha-loan/900/600" alt="An FHA mortgage document and application" />
+<img src="/svg/real-estate.svg" alt="An FHA mortgage document and application" />
 
 <div class="wiki-infobox-caption">FHA loans make homeownership accessible to first-time buyers.</div>
 

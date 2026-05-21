@@ -8,7 +8,7 @@ keywords:
   - yield
   - collateral
   - rewards
-image: "https://picsum.photos/seed/staking/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **staking** is the process of locking cryptocurrency (called a "stake") in a [proof-of-stake](/proof-of-stake) [blockchain](/blockchain-fundamentals) to participate in consensus and earn rewards. Stakers become [validators](/validator) and propose or attest to blocks. In return, they earn interest on their staked coins, typically 3–10% annually.*
@@ -23,7 +23,7 @@ This entry covers staking as a mechanism. For proof-of-stake consensus, see [pro
 
 <div class="wiki-infobox-title">Staking — key facts</div>
 
-<img src="https://picsum.photos/seed/staking/900/600" alt="Staking rewards accumulation" />
+<img src="/svg/crypto.svg" alt="Staking rewards accumulation" />
 
 <div class="wiki-infobox-caption">Staking: earning rewards by securing the network.</div>
 

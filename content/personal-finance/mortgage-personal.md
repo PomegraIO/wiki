@@ -7,7 +7,7 @@ keywords:
   - property loan
   - fixed-rate mortgage
   - adjustable-rate mortgage
-image: "https://picsum.photos/seed/mortgage-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **mortgage** is a long-term loan secured by real estate. You borrow money to buy a home and repay the lender (principal plus interest) monthly over 15–30 years. The home itself is the collateral — if you default, the lender can foreclose and sell the property.*
@@ -22,7 +22,7 @@ For fixed-rate mortgages, see [fixed-rate mortgage](/fixed-rate-mortgage-persona
 
 <div class="wiki-infobox-title">Mortgage — key facts</div>
 
-<img src="https://picsum.photos/seed/mortgage-personal/900/600" alt="A mortgage document with a house in the background" />
+<img src="/svg/personal-finance.svg" alt="A mortgage document with a house in the background" />
 
 <div class="wiki-infobox-caption">The structure: long-term debt secured by property.</div>
 

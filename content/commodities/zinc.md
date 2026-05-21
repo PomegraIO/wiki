@@ -7,7 +7,7 @@ keywords:
   - galvanizing
   - brass
   - construction
-image: "https://picsum.photos/seed/zinc/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **zinc** — a bluish-white metal whose primary role is protecting steel from corrosion through galvanizing — is a commodity whose demand is tightly coupled to construction activity and infrastructure cycles. The coating of zinc on steel ('hot dip galvanizing') is the most cost-effective corrosion-prevention method known, and zinc's relatively low cost means a building boom in China or India can dramatically increase global zinc demand.*
@@ -22,7 +22,7 @@ This entry covers zinc as a traded commodity. For zinc-mining producers, see min
 
 <div class="wiki-infobox-title">Zinc — key facts</div>
 
-<img src="https://picsum.photos/seed/zinc/900/600" alt="Zinc ore and refined zinc ingots" />
+<img src="/svg/commodities.svg" alt="Zinc ore and refined zinc ingots" />
 
 <div class="wiki-infobox-caption">Zinc in ore and refined ingot forms.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - option contract
   - exercise deadline
   - derivative
-image: "https://picsum.photos/seed/expiration-date/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **expiration date** (also **maturity date** or **maturity**) is the final day on which an option can be exercised. At the close of business on the expiration date, any option not exercised ceases to exist. An [in-the-money](/in-the-money) option will typically be automatically exercised if not sold beforehand; an [out-of-the-money](/out-of-the-money) option expires worthless. The expiration date is the other key parameter (alongside [strike price](/strike-price)) that defines an option contract.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/expiration-date/900/600"
 
 <div class="wiki-infobox-title">Expiration Date — key facts</div>
 
-<img src="https://picsum.photos/seed/expiration-date/900/600" alt="A calendar showing a final deadline circled" />
+<img src="/svg/derivatives.svg" alt="A calendar showing a final deadline circled" />
 
 <div class="wiki-infobox-caption">The expiration date is the option's ultimate deadline.</div>
 

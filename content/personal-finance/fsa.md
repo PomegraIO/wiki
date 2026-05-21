@@ -7,7 +7,7 @@ keywords:
   - medical expenses
   - pre-tax
   - use-it-or-lose-it
-image: "https://picsum.photos/seed/fsa/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *An **FSA** (Flexible Spending Account) is an employer-sponsored account in which you set aside pre-tax income to pay for qualified medical or dependent care expenses. Contributions are tax-deductible, but unused funds must be spent within the plan year or are forfeited (the "use-it-or-lose-it" rule).*
@@ -22,7 +22,7 @@ For a similar account without the forfeiture rule, see [HSA](/hsa); for dependen
 
 <div class="wiki-infobox-title">FSA — key facts</div>
 
-<img src="https://picsum.photos/seed/fsa/900/600" alt="A healthcare receipt with a debit card marked FSA" />
+<img src="/svg/personal-finance.svg" alt="A healthcare receipt with a debit card marked FSA" />
 
 <div class="wiki-infobox-caption">The limit: use it by year-end or lose it.</div>
 

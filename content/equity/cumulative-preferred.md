@@ -7,7 +7,7 @@ keywords:
   - dividend arrears
   - preferred stock
   - senior dividend
-image: "https://picsum.photos/seed/cumulative-preferred/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Cumulative preferred stock is a variant of [preferred stock](/equity/preferred-stock/) in which unpaid dividends accumulate and must be paid to preferred shareholders before any dividends go to [common shareholders](/equity/common-stock/). If a company skips its preferred dividend for three years, all three years of dividends accrue (cumulate) and must be paid in full before the company can pay common dividends. Cumulative preferred is the market standard; non-cumulative preferred is rare.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/cumulative-preferred/900/600"
 
 <div class="wiki-infobox-title">Cumulative preferred stock — key facts</div>
 
-<img src="https://picsum.photos/seed/cumulative-preferred/900/600" alt="A statement showing accumulated unpaid preferred dividends" />
+<img src="/svg/equity.svg" alt="A statement showing accumulated unpaid preferred dividends" />
 
 <div class="wiki-infobox-caption">Unpaid dividends accumulate, must be paid in arrears.</div>
 

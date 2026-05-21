@@ -1,17 +1,62 @@
 {{ define "main" }}
+{{/* All non-system pages — used for counts, sampling, featured entry, etc. */}}
+{{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" }}
+{{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
+{{ $totalEntries := len $entries }}
+
+{{/* Category counts, sorted descending */}}
+{{ $cats := dict }}
+{{ range $entries }}
+  {{ $s := .Section }}
+  {{ if $s }}
+    {{ $existing := index $cats $s | default 0 }}
+    {{ $cats = merge $cats (dict $s (add $existing 1)) }}
+  {{ end }}
+{{ end }}
+{{ $catCount := len $cats }}
+
+{{/* Pre-counted total cross-link figure baked at build time. Hugo can't
+     trivially compute this without re-parsing every body, so we expose
+     it via a top-level site param (see hugo.toml). */}}
+{{ $linkCount := default 10553 site.Params.linkCount }}
+
+{{/* Featured entry — pin to stock-market */}}
+{{ $featured := index (where .Site.RegularPages "Title" "Stock market") 0 }}
+
 <div class="wiki-home">
+
   <header class="wiki-home-masthead">
     <h1>Pomegra Wiki</h1>
     <p class="wiki-home-tagline">{{ .Site.Params.tagline }} — markets, instruments, institutions, and the ideas that move them. Every entry is plain-language and densely cross-linked, so one click leads to the next.</p>
   </header>
 
+  {{/* STATS TILES ──────────────────────────────────────────────────────── */}}
+  <section class="wiki-home-stats" aria-label="Wiki statistics">
+    <div class="wiki-stat-tile">
+      <div class="wiki-stat-num">{{ lang.FormatNumber 0 $totalEntries }}</div>
+      <div class="wiki-stat-label">Entries</div>
+    </div>
+    <div class="wiki-stat-tile">
+      <div class="wiki-stat-num">{{ $catCount }}</div>
+      <div class="wiki-stat-label">Categories</div>
+    </div>
+    <div class="wiki-stat-tile">
+      <div class="wiki-stat-num">{{ lang.FormatNumber 0 $linkCount }}</div>
+      <div class="wiki-stat-label">Cross-links</div>
+    </div>
+    <div class="wiki-stat-tile">
+      <div class="wiki-stat-num">100%</div>
+      <div class="wiki-stat-label">Free &amp; open</div>
+    </div>
+  </section>
+
+  {{/* HERO ─────────────────────────────────────────────────────────────── */}}
   <section class="wiki-home-hero">
-    {{ $featured := index (where .Site.RegularPages "Title" "Stock market") 0 }}
     {{ if $featured }}
       <article class="wiki-home-featured">
         <div class="wiki-home-kicker">Featured entry</div>
         {{ with $featured.Params.image }}
-          <img src="{{ . }}" alt="" class="wiki-home-featured-img" />
+          <img src="{{ . | relURL }}" alt="" class="wiki-home-featured-img" />
         {{ end }}
         <h2><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h2>
         <p>{{ $featured.Description | markdownify }}</p>
@@ -27,35 +72,108 @@
         <li>… that more than half of all US household stock ownership is now held through low-cost <a href="{{ "/index-fund/" | relURL }}">index funds</a> and <a href="{{ "/etf/" | relURL }}">ETFs</a> — a structural shift only a generation old?</li>
         <li>… that the average individual <a href="{{ "/hedge-fund/" | relURL }}">hedge fund</a> charges roughly twenty times what an <a href="{{ "/index-fund/" | relURL }}">index fund</a> does, yet most fail to beat the market over a full cycle?</li>
       </ul>
+      <p class="wiki-home-random"><a href="#" id="pom-random-home">Show me a random entry →</a></p>
     </aside>
   </section>
 
-  <h2 class="wiki-home-section-h">Browse by theme</h2>
-  <section class="wiki-home-themes">
-    {{ range site.Data.themes.themes }}
-      <article class="wiki-home-theme">
-        <h3>{{ .title }}</h3>
-        <p>{{ .blurb }}</p>
-        <ul>
-          {{ range .lines }}
-            <li>
-            {{ range $i, $e := .entries }}
-              {{ if $i }} · {{ end }}<a href="/{{ .slug }}/">{{ .label }}</a>
-            {{ end }}
-            </li>
+  {{/* CATEGORIES ───────────────────────────────────────────────────────── */}}
+  <h2 class="wiki-home-section-h">Browse by category</h2>
+  <p class="wiki-home-section-sub">Twenty-seven editorial categories, from the instruments traded in markets to the people who built modern finance. Pick any one to start exploring.</p>
+
+  <section class="wiki-home-catgrid">
+    {{ $catBlurbs := dict
+      "equity"             "Stock and shareholder-equity instruments — share classes, voting rights, buybacks, employee equity."
+      "fixed-income"       "Treasury securities, corporate bonds, structured credit, money-market instruments, credit ratings."
+      "derivatives"        "Options, futures, forwards, swaps — and the Greeks and pricing models that price them."
+      "funds"              "Every flavour of pooled vehicle: ETFs, mutual funds, hedge funds, PE, sovereign-wealth, endowments."
+      "forex"              "Currency pairs, exchange-rate regimes, FX derivatives, intervention, the major reserve currencies."
+      "commodities"        "Metals, energy, agriculture and livestock — the futures curve, contango, storage, indices."
+      "macro"              "Macroeconomic concepts that move markets: output, prices, employment, the business cycle."
+      "monetary"           "Central banking, monetary policy and money-supply mechanics — rates, QE, aggregates, currencies."
+      "fiscal"             "Government finance — budgets, debt, sovereign default, taxes at the sovereign level."
+      "ratios"             "Valuation, profitability, liquidity, solvency, efficiency, market-risk ratios — when each helps and when it lies."
+      "accounting"         "The three financial statements, GAAP/IFRS, key line items, the analytical bridges between statements."
+      "strategies"         "Value, growth, momentum, factor, quantitative — and tactical practices like rebalancing and tax-loss harvesting."
+      "risk"               "Types of risk, measurement (VaR, CVaR, expected shortfall), stress testing, hedging."
+      "behavioral"         "Cognitive biases, prospect theory, mental accounting, market-sentiment phenomena."
+      "history"            "Crises, bubbles, panics, structural shifts — from tulip mania to the COVID crash."
+      "people"             "Famous investors, economists, and financial thinkers — focused on their ideas and influence."
+      "regulation"         "Securities laws, regulators, regulatory frameworks — Dodd-Frank, MiFID, Basel, KYC."
+      "corporate"          "M&amp;A, takeover defences, leveraged buyouts, governance, dividend and buyback policy."
+      "personal-finance"   "Household-level money management — saving, budgeting, retirement vehicles, insurance, credit."
+      "taxes"              "Investor-facing tax concepts: capital gains, qualified dividends, cost basis, tax-advantaged structures."
+      "real-estate"        "Real-estate as asset class and as financing — REITs, mortgages, real-estate metrics."
+      "trading"            "Order types, execution, market microstructure, settlement and clearing, intraday phenomena."
+      "crypto"             "Major chains, consensus mechanisms, on-chain instruments, DeFi primitives, custody, exchanges."
+      "technical-analysis" "Chart-based analysis — candles, support/resistance, patterns, indicators, oscillators."
+      "institutions"       "Major financial firms, exchanges, clearing utilities, indices providers, rating agencies."
+      "valuation"          "DCF, multiples, residual income, real options — the methods and their inputs."
+      "markets"            "Market structure and venue mechanics — primary vs secondary, exchanges, dark pools, indices."
+    }}
+    {{ range $cat, $n := $cats }}
+      {{ $label := humanize $cat }}
+      {{ if eq $cat "fixed-income" }}{{ $label = "Fixed income" }}{{ end }}
+      {{ if eq $cat "real-estate" }}{{ $label = "Real estate" }}{{ end }}
+      {{ if eq $cat "technical-analysis" }}{{ $label = "Technical analysis" }}{{ end }}
+      {{ if eq $cat "personal-finance" }}{{ $label = "Personal finance" }}{{ end }}
+      <a class="wiki-catcard" href="#cat-{{ $cat }}">
+        <img class="wiki-catcard-art" src="{{ printf "/svg/%s.svg" $cat | relURL }}" alt="" />
+        <div class="wiki-catcard-body">
+          <div class="wiki-catcard-count">{{ $n }} entries</div>
+          <div class="wiki-catcard-title">{{ $label }}</div>
+          <p class="wiki-catcard-blurb">{{ index $catBlurbs $cat | default "" }}</p>
+        </div>
+      </a>
+    {{ end }}
+  </section>
+
+  {{/* DEEP CATEGORY LISTS — anchor targets from the cards above ───────── */}}
+  <section class="wiki-home-deep">
+    {{ range $cat, $n := $cats }}
+      {{ $label := humanize $cat }}
+      {{ if eq $cat "fixed-income" }}{{ $label = "Fixed income" }}{{ end }}
+      {{ if eq $cat "real-estate" }}{{ $label = "Real estate" }}{{ end }}
+      {{ if eq $cat "technical-analysis" }}{{ $label = "Technical analysis" }}{{ end }}
+      {{ if eq $cat "personal-finance" }}{{ $label = "Personal finance" }}{{ end }}
+      {{ $catPages := sort (where $.Site.RegularPages "Section" $cat) "Title" }}
+      <section class="wiki-home-cat" id="cat-{{ $cat }}">
+        <header class="wiki-home-cat-h">
+          <h3>{{ $label }}</h3>
+          <span class="wiki-home-cat-count">{{ $n }}</span>
+        </header>
+        <ul class="wiki-home-cat-list">
+          {{ range first 24 $catPages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
         </ul>
-      </article>
+        {{ if gt $n 24 }}
+          <div class="wiki-home-cat-more">+{{ sub $n 24 }} more entries in this category</div>
+        {{ end }}
+      </section>
     {{ end }}
   </section>
 
   <section class="wiki-home-howto">
     <h2 class="wiki-home-section-h">How to use this wiki</h2>
-    <p>This is a reading wiki, not a textbook. Click any link to follow the thread you're curious about — every entry was written assuming you might arrive cold. Use the <a href="{{ "/index-a-z/" | relURL }}">A–Z index</a> to browse all entries, the search box to find a specific term.</p>
+    <p>This is a reading wiki, not a textbook. Click any link to follow the thread you're curious about — every entry was written assuming you might arrive cold. Use the <a href="{{ "/index-a-z/" | relURL }}">A–Z index</a> to browse all entries, the search box to find a specific term, or the <strong>Random</strong> button up top to discover something new.</p>
     <p>For long-form learning paths, see the sibling project <a href="{{ .Site.Params.learnURL }}">Pomegra Learn</a> — a 30-book curriculum that takes the same ground in chapter form.</p>
   </section>
 
   <hr class="wiki-home-rule" />
   <p class="wiki-home-disclaimer">Pomegra Wiki is part of <a href="{{ .Site.Params.homeURL }}">Pomegra</a>'s free financial-education effort. All entries are written for general readers; nothing here is investment advice.</p>
 </div>
+
+<script>
+  // Random-entry link on the home page (mirrors the navbar's Random link)
+  (function() {
+    var link = document.getElementById('pom-random-home');
+    if (!link) return;
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      fetch('{{ "index.json" | absURL }}')
+        .then(function(r){ return r.json(); })
+        .then(function(j){ if (j.length) window.location.href = j[Math.floor(Math.random()*j.length)].u; });
+    });
+  })();
+</script>
 {{ end }}

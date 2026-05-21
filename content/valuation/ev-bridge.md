@@ -7,7 +7,7 @@ keywords:
   - equity value
   - net debt
   - valuation bridge
-image: "https://picsum.photos/seed/ev-bridge/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *An **EV bridge** (or enterprise-value bridge) is a simple but essential worksheet that converts between enterprise value and equity value. Most valuation models (DCF, [sum-of-the-parts](/sum-of-the-parts-valuation)) produce enterprise value. But equity investors care about equity value—what they can actually own. The bridge fills the gap.*

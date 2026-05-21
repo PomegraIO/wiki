@@ -7,7 +7,7 @@ keywords:
   - yen
   - benchmark rate
   - Japan
-image: "https://picsum.photos/seed/tonar/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **TONAR** (Tokyo Overnight Average Rate) is a benchmark [interest rate](/interest-rate) that measures the cost of overnight unsecured borrowing in Japanese yen. Calculated as a volume-weighted average of actual overnight lending transactions, TONAR has replaced JPY [LIBOR](/libor) as the primary reference rate for yen-denominated financial instruments.*
@@ -22,7 +22,7 @@ This entry covers TONAR's role as a benchmark. For parallel rates in other curre
 
 <div class="wiki-infobox-title">TONAR — key facts</div>
 
-<img src="https://picsum.photos/seed/tonar/900/600" alt="Tokyo overnight unsecured yen lending market" />
+<img src="/svg/monetary.svg" alt="Tokyo overnight unsecured yen lending market" />
 
 <div class="wiki-infobox-caption">TONAR is based on actual overnight yen lending transactions in Tokyo markets.</div>
 

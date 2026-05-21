@@ -7,7 +7,7 @@ keywords:
   - employment rate
   - workforce participation
   - labor statistics
-image: "https://picsum.photos/seed/employment-population-ratio/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The employment-population ratio is the percentage of the working-age population (typically ages 16 and above) that is currently employed. Unlike the [unemployment rate](/unemployment-rate), which only counts those actively seeking work, the employment ratio captures the share of the entire working-age population with a job.*
@@ -22,7 +22,7 @@ Employment-to-population ratio = Employed ÷ Working-age population. It is in so
 
 <div class="wiki-infobox-title">Employment-Population Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/employment-population-ratio/900/600" alt="Employment ratio versus unemployment rate" />
+<img src="/svg/macro.svg" alt="Employment ratio versus unemployment rate" />
 
 <div class="wiki-infobox-caption">The employment ratio captures both unemployment and labor force participation changes.</div>
 

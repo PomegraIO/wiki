@@ -7,7 +7,7 @@ keywords:
   - United States
   - gold standard
   - railroad failure
-image: "https://picsum.photos/seed/panic-of-1893/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Panic of 1893** was a severe banking and industrial crisis in the United States triggered by the failure of the Reading Railroad and compounded by a drain on the nation's gold reserves. It led to widespread bank failures, unemployment, and a run on the US Treasury — an event that required private bankers, most notably J.P. Morgan, to organize a rescue of government solvency.*
@@ -22,7 +22,7 @@ This entry covers the 1893 crisis. For the institutional reforms that eventually
 
 <div class="wiki-infobox-title">Panic of 1893 — key facts</div>
 
-<img src="https://picsum.photos/seed/panic-of-1893/900/600" alt="A period engraving of panicked depositors outside a bank during the 1893 crisis" />
+<img src="/svg/history.svg" alt="A period engraving of panicked depositors outside a bank during the 1893 crisis" />
 
 <div class="wiki-infobox-caption">Bank runs across America as depositors withdrew deposits in gold during the 1893 panic.</div>
 

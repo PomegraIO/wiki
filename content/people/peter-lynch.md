@@ -7,7 +7,7 @@ keywords:
   - growth stocks
   - mutual fund
   - active management
-image: "https://picsum.photos/seed/peter-lynch/900/600"
+image: "/svg/people.svg"
 ---
 
 *Peter Lynch managed the Magellan Fund to legendary returns by combining deep analysis, an obsession with business quality, and the discipline to buy what he understood and avoid what he didn't — proving that a skilled active manager could beat the market even at multi-billion-dollar scale.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/peter-lynch/900/600"
 
 <div class="wiki-infobox-title">Peter Lynch — key facts</div>
 
-<img src="https://picsum.photos/seed/peter-lynch/900/600" alt="A thriving growth company with expansion underway" />
+<img src="/svg/people.svg" alt="A thriving growth company with expansion underway" />
 
 <div class="wiki-infobox-caption">The domain of his focus — quality growing businesses at reasonable prices.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - pound sterling
   - sterling
   - Bank of England
-image: "https://picsum.photos/seed/british-pound/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **British pound** (or pound sterling) is the currency of the United Kingdom and a major global [reserve currency](/floating-exchange-rate). Historically the world's dominant currency (until WWII displaced it with the [US dollar](/us-dollar)), the pound remains highly traded and is held as a reserve by many [central banks](/central-bank). The pound is known for volatility, particularly around Bank of England policy shifts and Brexit-related uncertainty.*
@@ -22,7 +22,7 @@ For other major currencies, see [US Dollar](/us-dollar), [euro](/euro), and [Jap
 
 <div class="wiki-infobox-title">British Pound — key facts</div>
 
-<img src="https://picsum.photos/seed/british-pound/900/600" alt="British pound banknotes and coins" />
+<img src="/svg/forex.svg" alt="British pound banknotes and coins" />
 
 <div class="wiki-infobox-caption">Legacy reserve currency; volatile in modern times.</div>
 

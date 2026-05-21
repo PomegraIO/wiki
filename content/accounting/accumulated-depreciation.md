@@ -7,7 +7,7 @@ keywords:
   - book value
   - depreciation reserve
   - asset reduction
-image: "https://picsum.photos/seed/accumulated-depreciation/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Accumulated depreciation](/accumulated-depreciation) is the cumulative total of [depreciation](/depreciation) expense recorded since an asset was acquired. On the [balance sheet](/balance-sheet), it is shown as a **contra-asset** — it reduces the gross value of assets to show net book value. For example, if a company bought equipment for $100,000 and has recorded $30,000 of [depreciation](/depreciation) to date, the [balance sheet](/balance-sheet) shows gross equipment of $100,000, accumulated depreciation of ($30,000), and net equipment of $70,000. [Accumulated depreciation](/accumulated-depreciation) is not cash; it is an accounting entry that tracks how much of an asset's cost has been recognized as an expense.*
@@ -22,7 +22,7 @@ This entry covers accumulated depreciation as a balance sheet item. For the annu
 
 <div class="wiki-infobox-title">Accumulated depreciation — key facts</div>
 
-<img src="https://picsum.photos/seed/accumulated-depreciation/900/600" alt="A balance sheet excerpt showing gross asset, accumulated depreciation, and net book value" />
+<img src="/svg/accounting.svg" alt="A balance sheet excerpt showing gross asset, accumulated depreciation, and net book value" />
 
 <div class="wiki-infobox-caption">Accumulated depreciation reduces gross assets to net book value.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Canada
   - Toronto
-image: "https://picsum.photos/seed/toronto-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Toronto Stock Exchange** (TSX) is the largest [stock exchange](/stock-exchange) in Canada and the primary venue for Canadian equities. Home to Canadian multinational corporations in mining, energy, banking, utilities, and technology, the TSX serves as the gateway for international investors seeking exposure to Canadian natural resources and stable financial institutions.*
@@ -22,7 +22,7 @@ The TSX is operated by TMX Group, which also runs the TSX Venture Exchange for e
 
 <div class="wiki-infobox-title">Toronto Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/toronto-stock-exchange/900/600" alt="The Toronto Stock Exchange building in the financial district" />
+<img src="/svg/institutions.svg" alt="The Toronto Stock Exchange building in the financial district" />
 
 <div class="wiki-infobox-caption">The trading floor of TMX Group in Toronto's financial district.</div>
 

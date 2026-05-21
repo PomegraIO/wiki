@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Japanese equity market
   - Asia
-image: "https://picsum.photos/seed/tokyo-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Tokyo Stock Exchange** (TSE), a division of the Japan Exchange Group (JPX), is the largest [stock exchange](/stock-exchange) in Asia and the primary venue for Japanese equities. Home to Toyota, Honda, Sony, Toyota Financial Services, and thousands of other Japanese firms, the TSE has served as the hub of Japanese capital markets since 1878 and remains central to Asia's financial infrastructure.*
@@ -22,7 +22,7 @@ The TSE was reorganized in 2013 into the Japan Exchange Group; for that parent e
 
 <div class="wiki-infobox-title">Tokyo Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/tokyo-stock-exchange/900/600" alt="The modern Tokyo Stock Exchange trading floor" />
+<img src="/svg/institutions.svg" alt="The modern Tokyo Stock Exchange trading floor" />
 
 <div class="wiki-infobox-caption">The trading floor of the Japan Exchange Group in Tokyo.</div>
 

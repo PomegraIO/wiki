@@ -7,7 +7,7 @@ keywords:
   - Russian default
   - ruble devaluation
   - emerging market crisis
-image: "https://picsum.photos/seed/russian-financial-crisis-1998/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Russian Financial Crisis of 1998** was a sudden default by the Russian government on its domestic debt and a sharp devaluation of the ruble. Triggered by falling oil prices, the contagion from the Asian Financial Crisis, and unsustainable government finances, the crisis demonstrated that even a large country with natural resource wealth could face a debt squeeze. It also nearly triggered a systemic crisis in global finance through the near-collapse of a major hedge fund.*
@@ -22,7 +22,7 @@ This entry covers the 1998 Russian crisis. For the related hedge fund near-colla
 
 <div class="wiki-infobox-title">Russian Financial Crisis of 1998 — key facts</div>
 
-<img src="https://picsum.photos/seed/russian-financial-crisis-1998/900/600" alt="A photograph of the Russian central bank building during the crisis" />
+<img src="/svg/history.svg" alt="A photograph of the Russian central bank building during the crisis" />
 
 <div class="wiki-infobox-caption">Russia's financial system nearly collapsed under the weight of unsustainable debt and capital flight.</div>
 

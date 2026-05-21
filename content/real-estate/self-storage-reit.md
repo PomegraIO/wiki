@@ -7,7 +7,7 @@ keywords:
   - storage rental
   - mini storage
   - unit economics
-image: "https://picsum.photos/seed/self-storage-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **self-storage REIT** owns and operates self-storage facilities leased to individual and business customers. Self-storage has become one of the most attractive REIT sectors, offering strong unit economics, pricing power, and relatively defensive revenue streams.*
@@ -22,7 +22,7 @@ This entry focuses on self-storage REITs as a property sector. For the broader R
 
 <div class="wiki-infobox-title">Self-Storage REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/self-storage-reit/900/600" alt="A self-storage facility with rental units" />
+<img src="/svg/real-estate.svg" alt="A self-storage facility with rental units" />
 
 <div class="wiki-infobox-caption">Self-storage REITs own facilities renting space to individual and commercial customers.</div>
 

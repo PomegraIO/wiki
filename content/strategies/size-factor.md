@@ -8,7 +8,7 @@ keywords:
   - market-cap tilt
   - small-cap outperformance
   - size effect
-image: "https://picsum.photos/seed/size-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The size factor is a systematic investment approach that overweights smaller companies and underweights larger ones, betting that [small-cap stocks](/stock/) deliver superior long-term returns to compensate investors for their higher risk and lower liquidity.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Size-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/size-factor/900/600" alt="A chart comparing small-cap versus large-cap returns over time" />
+<img src="/svg/strategies.svg" alt="A chart comparing small-cap versus large-cap returns over time" />
 
 <div class="wiki-infobox-caption">Small-cap stocks offer growth potential and volatility; the size premium is real but inconsistent.</div>
 

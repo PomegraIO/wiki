@@ -7,7 +7,7 @@ keywords:
   - risk premium
   - additive method
   - valuation
-image: "https://picsum.photos/seed/build-up-method-cost-of-equity/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **build-up method** (or "build-up approach") for estimating cost of equity is additive and transparent. Rather than using regression to estimate a single beta (as in CAPM), you explicitly identify risk premiums and add them: start with the risk-free rate, add an [equity risk premium](/equity-risk-premium), add a size premium for small companies, add a company-specific premium for unique risks. The result is a cost of equity grounded in logic rather than backward-looking regression.*

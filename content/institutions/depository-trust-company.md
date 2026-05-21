@@ -7,7 +7,7 @@ keywords:
   - depository
   - custody
   - securities
-image: "https://picsum.photos/seed/depository-trust-company/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Depository Trust Company** (DTC) is the central securities depository for the United States, holding stocks and bonds in electronic form on behalf of financial institutions worldwide. A subsidiary of [DTCC](/dtcc), the DTC is the reason that securities no longer exist as physical certificates; shares and bonds now exist only as electronic entries in the DTC's systems.*
@@ -22,7 +22,7 @@ The DTC is part of the broader DTCC infrastructure; for the settlement and clear
 
 <div class="wiki-infobox-title">Depository Trust Company — key facts</div>
 
-<img src="https://picsum.photos/seed/depository-trust-company/900/600" alt="DTC operations facility in New York" />
+<img src="/svg/institutions.svg" alt="DTC operations facility in New York" />
 
 <div class="wiki-infobox-caption">DTC systems and operations in Lower Manhattan.</div>
 

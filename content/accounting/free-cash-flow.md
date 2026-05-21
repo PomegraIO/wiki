@@ -7,7 +7,7 @@ keywords:
   - capital expenditure
   - cash available
   - cash generation
-image: "https://picsum.photos/seed/free-cash-flow/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Free cash flow](/free-cash-flow) (FCF) is the cash a company generates from operations, minus the capital expenditures needed to maintain and expand its asset base. It is the cash available to the company to repay debt, pay dividends, repurchase shares, or pursue strategic investments. [Free cash flow](/free-cash-flow) = Operating cash flow - Capital expenditure. [Free cash flow](/free-cash-flow) is arguably more reliable than reported earnings for valuing a company, because earnings can be distorted by accounting choices, but [free cash flow](/free-cash-flow) is based on actual cash. A company with strong [free cash flow](/free-cash-flow) can sustain itself, invest, and weather downturns. A company with weak [free cash flow](/free-cash-flow) despite reported profit is burning cash and faces sustainability risks.*
@@ -22,7 +22,7 @@ This entry covers free cash flow as a metric. For the components, see operating-
 
 <div class="wiki-infobox-title">Free cash flow — key facts</div>
 
-<img src="https://picsum.photos/seed/free-cash-flow/900/600" alt="A calculation showing operating cash flow minus capex equals free cash flow" />
+<img src="/svg/accounting.svg" alt="A calculation showing operating cash flow minus capex equals free cash flow" />
 
 <div class="wiki-infobox-caption">Free cash flow is what's left after funding the business.</div>
 

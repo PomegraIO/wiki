@@ -7,7 +7,7 @@ keywords:
   - securitization
   - tranched structure
   - credit exposure
-image: "https://picsum.photos/seed/collateralized-debt-obligation/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **collateralized debt obligation** — or **CDO** — is a securitized debt instrument backed by a pool of bonds, loans, or other debt obligations. CDOs are structured with tranches that prioritize cash flows and losses, with AAA-rated senior tranches bearing minimal loss risk and lower-rated subordinated tranches bearing substantial risk. CDOs became infamous during the 2008 financial crisis when highly-rated CDOs backed by subprime mortgages defaulted.*
@@ -22,7 +22,7 @@ For mortgage-backed securitization, see [mortgage-backed security](/mortgage-bac
 
 <div class="wiki-infobox-title">CDO — key facts</div>
 
-<img src="https://picsum.photos/seed/collateralized-debt-obligation/900/600" alt="A waterfall structure showing tranches and loss allocation in a CDO" />
+<img src="/svg/fixed-income.svg" alt="A waterfall structure showing tranches and loss allocation in a CDO" />
 
 <div class="wiki-infobox-caption">CDOs prioritize cash flows by tranche, concentrating risk in lower-rated slices.</div>
 

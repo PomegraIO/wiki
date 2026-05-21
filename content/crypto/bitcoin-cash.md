@@ -7,7 +7,7 @@ keywords:
   - cryptocurrency
   - hard fork
   - block size
-image: "https://picsum.photos/seed/bitcoin-cash/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Bitcoin Cash** (**BCH**) is a cryptocurrency that originated as a hard fork of [Bitcoin](/bitcoin) in August 2017. Bitcoin Cash increased the block size limit from 1 MB to 8 MB (later increased further), aiming to reduce transaction fees and enable higher throughput for everyday payments.*
@@ -22,7 +22,7 @@ This entry covers Bitcoin Cash the asset and network. For the original Bitcoin, 
 
 <div class="wiki-infobox-title">Bitcoin Cash — key facts</div>
 
-<img src="https://picsum.photos/seed/bitcoin-cash/900/600" alt="Bitcoin Cash logo" />
+<img src="/svg/crypto.svg" alt="Bitcoin Cash logo" />
 
 <div class="wiki-infobox-caption">Bitcoin Cash: a larger-block fork of Bitcoin created to optimise for transaction throughput.</div>
 

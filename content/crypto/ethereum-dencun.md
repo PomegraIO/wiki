@@ -8,7 +8,7 @@ keywords:
   - layer-2
   - eip-4844
   - scaling
-image: "https://picsum.photos/seed/ethereum-dencun/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Ethereum Dencun** upgrade was deployed on 13 March 2024, introducing **blobs** — a new temporary data type that stores information for 18 days before being deleted. This dramatically reduced costs for layer-2 solutions, which use blobs instead of calldata to post transactions, reducing fees by 10–100 times.*
@@ -23,7 +23,7 @@ This entry covers Ethereum Dencun as an upgrade. For Ethereum broadly, see [Ethe
 
 <div class="wiki-infobox-title">Ethereum Dencun — key facts</div>
 
-<img src="https://picsum.photos/seed/ethereum-dencun/900/600" alt="Blob data structure for layer-2 compression" />
+<img src="/svg/crypto.svg" alt="Blob data structure for layer-2 compression" />
 
 <div class="wiki-infobox-caption">Dencun: blobs enable cheap data availability for layer-2.</div>
 

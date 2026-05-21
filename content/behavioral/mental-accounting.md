@@ -7,7 +7,7 @@ keywords:
   - behavioral finance
   - portfolio structure
   - loss aversion
-image: "https://picsum.photos/seed/mental-accounting/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Mental accounting is the tendency to organize money and financial activities into separate mental categories or accounts, often with different decision rules applied to each. A dollar in your "retirement account" is treated as more precious and loss-averse than a dollar in your "speculation account," even though they are economically identical. These artificial silos lead to decisions that are irrational when the portfolio is considered as a whole.*
@@ -22,7 +22,7 @@ Developed by Richard Thaler. Related to mental budgeting and narrow framing. For
 
 <div class="wiki-infobox-title">Mental accounting — key facts</div>
 
-<img src="https://picsum.photos/seed/mental-accounting/900/600" alt="A wallet divided into separate labeled compartments" />
+<img src="/svg/behavioral.svg" alt="A wallet divided into separate labeled compartments" />
 
 <div class="wiki-infobox-caption">Money in different mental buckets is treated as if it has different properties.</div>
 

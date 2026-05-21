@@ -7,7 +7,7 @@ keywords:
   - growth
   - price-to-earnings
   - earnings growth
-image: "https://picsum.photos/seed/peg-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **PEG ratio** — price/earnings-to-growth — divides a company's [price-to-earnings ratio](/price-to-earnings-ratio) by its expected annual earnings growth rate, expressed as a percentage. It strips away the distortion of growth from valuation, letting you compare expensive fast-growers to cheap slow-growers on an apples-to-apples basis.*
@@ -22,7 +22,7 @@ This entry covers a relative valuation metric. For the absolute valuation ratio 
 
 <div class="wiki-infobox-title">PEG Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/peg-ratio/900/600" alt="A growth chart superimposed with financial data" />
+<img src="/svg/ratios.svg" alt="A growth chart superimposed with financial data" />
 
 <div class="wiki-infobox-caption">Growth and valuation intertwined — the PEG ratio's central question.</div>
 

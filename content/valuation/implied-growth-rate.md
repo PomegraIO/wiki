@@ -7,7 +7,7 @@ keywords:
   - perpetual growth
   - growth assumptions
   - valuation
-image: "https://picsum.photos/seed/implied-growth-rate/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *An **implied growth rate** is the perpetual growth rate embedded in a current market price. If a stock trades at 50 dollars and you know the company's free cash flow, cost of capital, and current earnings, you can solve for the growth rate the market is pricing in. This backward-engineered growth rate reveals market expectations and helps identify if a stock is over- or underpriced relative to consensus.*

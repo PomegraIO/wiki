@@ -7,7 +7,7 @@ keywords:
   - social proof
   - information cascade
   - bubbles and crashes
-image: "https://picsum.photos/seed/herd-behavior/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Herd behavior is the tendency to follow the crowd — to buy what others are buying, sell what others are selling, and believe what others believe — even when your own analysis suggests otherwise. This creates self-reinforcing cycles where the crowd's momentum becomes a force unto itself, inflating bubbles and deepening crashes regardless of fundamental value.*
@@ -22,7 +22,7 @@ Related to [herding investors](/herding-investors), [fomo](/fomo), and informati
 
 <div class="wiki-infobox-title">Herd behavior — key facts</div>
 
-<img src="https://picsum.photos/seed/herd-behavior/900/600" alt="Silhouettes of individuals walking in the same direction as a large group" />
+<img src="/svg/behavioral.svg" alt="Silhouettes of individuals walking in the same direction as a large group" />
 
 <div class="wiki-infobox-caption">The crowd pulls in one direction; individuals follow, even alone they might not.</div>
 

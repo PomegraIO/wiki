@@ -6,7 +6,7 @@ keywords:
   - order types
   - price protection
   - execution
-image: "https://picsum.photos/seed/limit-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **limit order** is an instruction to buy or sell a security, but only if the price reaches a threshold you set in advance. If you are willing to buy a stock at $50 or less, you place a buy limit order at $50; it will sit in the order book until the price drops to that level (or better) and your order matches a seller, or until you cancel it. The price is certain; execution is not.*
@@ -21,7 +21,7 @@ For immediate execution at any price, see [market order](/market-order). For aut
 
 <div class="wiki-infobox-title">Limit order — key facts</div>
 
-<img src="https://picsum.photos/seed/limit-order/900/600" alt="An order book showing limit orders at different price tiers" />
+<img src="/svg/trading.svg" alt="An order book showing limit orders at different price tiers" />
 
 <div class="wiki-infobox-caption">Limit orders form the foundation of the order book, queued and waiting for price thresholds to be hit.</div>
 

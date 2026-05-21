@@ -7,7 +7,7 @@ keywords:
   - education account
   - tax-free education
   - college savings
-image: "https://picsum.photos/seed/coverdell-esa/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **Coverdell Education Savings Account (ESA)**, formerly called an Education IRA, is a tax-advantaged account for education expenses with an annual contribution limit of $2,000 per beneficiary. Contributions grow tax-free, and withdrawals for qualified education costs are tax-free. Income limits apply.*
@@ -22,7 +22,7 @@ For a more generous education plan, see [529 plan](/529-college-savings-plan); f
 
 <div class="wiki-infobox-title">Coverdell ESA — key facts</div>
 
-<img src="https://picsum.photos/seed/coverdell-esa/900/600" alt="A student with books and a savings account statement" />
+<img src="/svg/personal-finance.svg" alt="A student with books and a savings account statement" />
 
 <div class="wiki-infobox-caption">The model: modest education savings with tax-free growth.</div>
 

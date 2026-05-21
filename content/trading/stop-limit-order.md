@@ -6,7 +6,7 @@ keywords:
   - order types
   - price protection
   - conditional order
-image: "https://picsum.photos/seed/stop-limit-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **stop-limit order** is an instruction with two price thresholds: a **stop price** that triggers the order, and a **limit price** that constrains the execution. Once the stop price is crossed, the order becomes a [limit order](/limit-order) at your specified limit price, not a [market order](/market-order). This shields you from catastrophic fills but introduces the risk that the order never fills at all.*
@@ -21,7 +21,7 @@ For a simple stop that becomes a market order, see [stop order](/stop-order). Fo
 
 <div class="wiki-infobox-title">Stop-limit order — key facts</div>
 
-<img src="https://picsum.photos/seed/stop-limit-order/900/600" alt="A price chart showing stop and limit prices on a stop-limit order" />
+<img src="/svg/trading.svg" alt="A price chart showing stop and limit prices on a stop-limit order" />
 
 <div class="wiki-infobox-caption">Two thresholds: the stop price triggers the order; the limit price sets the execution bound.</div>
 

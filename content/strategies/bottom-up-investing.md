@@ -8,7 +8,7 @@ keywords:
   - fundamental analysis
   - company selection
   - microeconomic focus
-image: "https://picsum.photos/seed/bottom-up-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Bottom-up investing is an approach that centers on analyzing individual companies, their competitive position, financials, and prospects, with minimal regard for macroeconomic forecasts or broad market themes. The strategy assumes that great companies will outperform regardless of the macro environment.*
@@ -23,7 +23,7 @@ For the macro-first alternative, see [top-down investing](/top-down-investing/).
 
 <div class="wiki-infobox-title">Bottom-up investing — key facts</div>
 
-<img src="https://picsum.photos/seed/bottom-up-investing/900/600" alt="A deep dive into individual company analysis starting from the ground up" />
+<img src="/svg/strategies.svg" alt="A deep dive into individual company analysis starting from the ground up" />
 
 <div class="wiki-infobox-caption">Bottom-up investors hunt for exceptional individual companies, ignoring broader macro winds.</div>
 

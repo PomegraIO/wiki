@@ -7,7 +7,7 @@ keywords:
   - benchmark rate
   - eurozone
   - interest rate
-image: "https://picsum.photos/seed/euribor/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **EURIBOR** (Euro Interbank Offered Rate) is a benchmark [interest rate](/interest-rate) at which eurozone [banks](/broker) lend unsecured funds to each other. Published daily for multiple maturities (overnight to 12 months), EURIBOR serves as the reference rate for trillions of euros in mortgages, [bonds](/bond), and derivatives across the eurozone. Like [LIBOR](/libor), EURIBOR is based on panel submissions, though it is being transitioned to the transaction-based [ESTER](/ester) standard.*
@@ -22,7 +22,7 @@ This entry covers EURIBOR's structure and use. For its replacement, see [ester](
 
 <div class="wiki-infobox-title">EURIBOR — key facts</div>
 
-<img src="https://picsum.photos/seed/euribor/900/600" alt="EURIBOR rate settings across eurozone banks" />
+<img src="/svg/monetary.svg" alt="EURIBOR rate settings across eurozone banks" />
 
 <div class="wiki-infobox-caption">EURIBOR is the primary benchmark for eurozone interbank lending.</div>
 

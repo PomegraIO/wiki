@@ -6,7 +6,7 @@ keywords:
   - PDT
   - day trading rules
   - SEC regulation
-image: "https://picsum.photos/seed/pattern-day-trader/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **pattern day trader (PDT)** is a trader who executes four or more day trades (round-trip buy-and-sell of the same security in a single trading day) within a rolling five business day period. The SEC requires PDTs to maintain a minimum account balance of $25,000 and restricts their buying power to no more than four times their account equity. These rules aim to protect retail traders from excessive leverage and risk.*
@@ -21,7 +21,7 @@ For longer-term trading, see [swing trading](/swing-trading). For faster trading
 
 <div class="wiki-infobox-title">Pattern day trader — key facts</div>
 
-<img src="https://picsum.photos/seed/pattern-day-trader/900/600" alt="A calendar showing trading days and the five-day rolling window" />
+<img src="/svg/trading.svg" alt="A calendar showing trading days and the five-day rolling window" />
 
 <div class="wiki-infobox-caption">PDT rule: 4+ day trades in 5 business days triggers restrictions.</div>
 

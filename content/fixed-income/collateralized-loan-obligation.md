@@ -7,7 +7,7 @@ keywords:
   - leveraged loan securitization
   - loan pool
   - tranched structure
-image: "https://picsum.photos/seed/collateralized-loan-obligation/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **collateralized loan obligation** — or **CLO** — is a securitized debt instrument backed by a pool of corporate loans, typically [high-yield](/high-yield-bond) leveraged loans from private equity buyouts. Like other securitized structures, CLOs are divided into tranches with different priority claims on cash flows and losses, with AAA-rated senior tranches bearing minimal risk and equity tranches bearing substantial risk.*
@@ -22,7 +22,7 @@ For broader securitization, see [collateralized debt obligation](/collateralized
 
 <div class="wiki-infobox-title">CLO — key facts</div>
 
-<img src="https://picsum.photos/seed/collateralized-loan-obligation/900/600" alt="A portfolio of leveraged corporate loans backing a CLO security" />
+<img src="/svg/fixed-income.svg" alt="A portfolio of leveraged corporate loans backing a CLO security" />
 
 <div class="wiki-infobox-caption">CLOs pool hundreds of leveraged loans from private equity-backed companies into securitized tranches.</div>
 

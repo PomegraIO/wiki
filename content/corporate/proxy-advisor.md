@@ -7,7 +7,7 @@ keywords:
   - institutional investor
   - corporate governance
   - ISS
-image: "https://picsum.photos/seed/proxy-advisor/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **proxy advisor** is a firm that analyzes corporate governance issues and provides voting recommendations to institutional investors (pension funds, mutual funds, hedge funds) on how to vote their shares. The two largest US proxy advisors, Institutional Shareholder Services (ISS) and Glass Lewis, collectively influence trillions of dollars in shareholder voting. Their recommendations on board elections, executive compensation, and mergers often swing outcomes, making proxy advisors critical gatekeepers in modern corporate governance.*
@@ -22,7 +22,7 @@ This entry covers proxy advisors as influential voting intermediaries. For share
 
 <div class="wiki-infobox-title">Proxy advisor — key facts</div>
 
-<img src="https://picsum.photos/seed/proxy-advisor/900/600" alt="Advisors influencing voting decisions" />
+<img src="/svg/corporate.svg" alt="Advisors influencing voting decisions" />
 
 <div class="wiki-infobox-caption">Proxy advisors guide institutional investors on shareholder votes.</div>
 

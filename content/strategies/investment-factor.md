@@ -8,7 +8,7 @@ keywords:
   - asset growth
   - capital allocation
   - reinvestment rate
-image: "https://picsum.photos/seed/investment-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The investment factor is a systematic investment strategy that emphasizes [stocks](/stock/) of companies that invest conservatively relative to their earnings — those that deploy capital disciplinedly rather than pursuing every growth opportunity — betting that capital discipline drives superior returns.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Investment-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/investment-factor/900/600" alt="A chart comparing low-investment versus high-investment companies' returns" />
+<img src="/svg/strategies.svg" alt="A chart comparing low-investment versus high-investment companies' returns" />
 
 <div class="wiki-infobox-caption">Investment-factor investors reward disciplined capital allocation; they penalize empire-building.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - bankruptcy
   - investment bank
   - financial crisis
-image: "https://picsum.photos/seed/lehman-brothers-collapse/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Lehman Brothers collapse** of September 15, 2008, was the largest bankruptcy in US history. Lehman, a 158-year-old investment bank that had survived the Great Depression, was crippled by enormous losses on mortgage-backed securities. Unable to raise capital or find a merger partner and with the Federal Reserve unwilling to provide a rescue, Lehman filed for bankruptcy. The collapse sent shockwaves through global financial markets and accelerated the financial crisis.*
@@ -22,7 +22,7 @@ This entry covers Lehman's collapse. For the broader financial crisis, see 2008 
 
 <div class="wiki-infobox-title">Lehman Brothers Collapse — key facts</div>
 
-<img src="https://picsum.photos/seed/lehman-brothers-collapse/900/600" alt="A photograph of the Lehman Brothers building in New York" />
+<img src="/svg/history.svg" alt="A photograph of the Lehman Brothers building in New York" />
 
 <div class="wiki-infobox-caption">Lehman Brothers was unable to survive the mortgage-backed security crisis despite its 158-year history.</div>
 

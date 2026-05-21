@@ -7,7 +7,7 @@ keywords:
   - call price
   - put price
   - derivative pricing
-image: "https://picsum.photos/seed/option-premium/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **option premium** is the upfront price an option buyer pays the seller for the right to buy (in a [call option](/call-option)) or sell (in a [put option](/put-option)) the underlying asset. The premium is the total value of the option, comprising [intrinsic value](/intrinsic-value) and [time value](/time-value). Premiums are quoted in dollars per share (for stocks) or per contract unit, and they move continuously throughout the trading day based on supply, demand, and changes in the underlying asset.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/option-premium/900/600"
 
 <div class="wiki-infobox-title">Option Premium — key facts</div>
 
-<img src="https://picsum.photos/seed/option-premium/900/600" alt="Price quote for option contract" />
+<img src="/svg/derivatives.svg" alt="Price quote for option contract" />
 
 <div class="wiki-infobox-caption">The premium is the market-quoted option price.</div>
 

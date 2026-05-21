@@ -7,7 +7,7 @@ keywords:
   - enterprise value
   - unlevered valuation
   - WACC
-image: "https://picsum.photos/seed/free-cash-flow-to-firm-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **free cash flow to firm (FCFF)** valuation is the canonical [discounted cash flow](/discounted-cash-flow-valuation) model. It values the entire enterprise—all the cash available to all investors, debt and equity holders alike—by discounting at the [weighted average cost of capital](/weighted-average-cost-of-capital). From enterprise value, you subtract net debt to arrive at equity value. It is the most widely used approach in professional valuation work.*

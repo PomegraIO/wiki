@@ -7,7 +7,7 @@ keywords:
   - margin leverage
   - notional exposure
   - 50:1 leverage
-image: "https://picsum.photos/seed/forex-leverage/900/600"
+image: "/svg/forex.svg"
 ---
 
 *[Leverage](/forex-leverage) in the FX market is the ratio of the notional value of a [currency pair](/currency-pair) position to the [margin](/forex-margin) required to hold it. A trader using 50:1 leverage controls $50 of exposure for every $1 of capital. Leverage makes FX attractive to traders with small accounts — you can trade meaningful amounts with minimal deposit — but it also makes losses catastrophic.*
@@ -22,7 +22,7 @@ For the actual capital required to hold a position, see [forex margin](/forex-ma
 
 <div class="wiki-infobox-title">Leverage — key facts</div>
 
-<img src="https://picsum.photos/seed/forex-leverage/900/600" alt="A diagram showing 50:1 leverage multiplication" />
+<img src="/svg/forex.svg" alt="A diagram showing 50:1 leverage multiplication" />
 
 <div class="wiki-infobox-caption">Leverage magnifies both gains and losses proportionally.</div>
 

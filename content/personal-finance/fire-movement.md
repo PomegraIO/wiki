@@ -8,7 +8,7 @@ keywords:
   - retire early
   - lean FIRE
   - fat FIRE
-image: "https://picsum.photos/seed/fire-movement/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **FIRE movement** is a lifestyle philosophy where people aim for **Financial Independence, Retire Early** — accumulating enough wealth to live off investment returns and retire decades before traditional retirement age. Adherents typically maintain very high [savings rates](/savings-rate) (50%+), invest in low-cost index funds, and use the [four-percent rule](/the-four-percent-rule) to determine when they can stop working.*
@@ -23,7 +23,7 @@ For retirement planning generally, see [the four-percent rule](/the-four-percent
 
 <div class="wiki-infobox-title">FIRE Movement — key facts</div>
 
-<img src="https://picsum.photos/seed/fire-movement/900/600" alt="A person with calendar marking early retirement date" />
+<img src="/svg/personal-finance.svg" alt="A person with calendar marking early retirement date" />
 
 <div class="wiki-infobox-caption">The goal: accumulate enough to retire early.</div>
 

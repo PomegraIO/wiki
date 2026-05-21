@@ -6,7 +6,7 @@ keywords:
   - regulatory obligation
   - order routing
   - trading
-image: "https://picsum.photos/seed/best-execution/900/600"
+image: "/svg/trading.svg"
 ---
 
 *Best execution is a fundamental rule: brokers must obtain the best possible prices and terms for their customers' orders. In the U.S., this is mandated by Reg NMS and [FINRA](/finra) rules. It means checking multiple venues (exchanges, dark pools, market makers), routing orders to achieve the best price, and regularly auditing whether the execution quality is truly best. Brokers that fail to provide best execution face regulatory penalties.*
@@ -21,7 +21,7 @@ For how routing works, see [smart order router](/smart-order-router). For venues
 
 <div class="wiki-infobox-title">Best execution — key facts</div>
 
-<img src="https://picsum.photos/seed/best-execution/900/600" alt="A trading terminal showing multiple venues and prices" />
+<img src="/svg/trading.svg" alt="A trading terminal showing multiple venues and prices" />
 
 <div class="wiki-infobox-caption">Best execution: broker checks multiple venues to find the best price.</div>
 

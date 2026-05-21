@@ -7,7 +7,7 @@ keywords:
   - shareholder activism
   - board control
   - dissident slate
-image: "https://picsum.photos/seed/proxy-fight/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **proxy fight** (also called a **proxy contest**) is a battle for control of a board of directors. An activist investor or hostile bidder solicits proxy votes from the company's shareholders, aiming to elect its own slate of directors who will implement the activist's strategy or approve a [merger](/merger). Proxy fights are less direct than [hostile takeovers](/hostile-takeover) — instead of immediately acquiring all shares, the activist aims to gain board control and then reshape the company's strategy or open it to acquisition.*
@@ -22,7 +22,7 @@ This entry covers proxy fights as a governance battle. For hostile acquisitions 
 
 <div class="wiki-infobox-title">Proxy fight — key facts</div>
 
-<img src="https://picsum.photos/seed/proxy-fight/900/600" alt="Shareholders voting over board control" />
+<img src="/svg/corporate.svg" alt="Shareholders voting over board control" />
 
 <div class="wiki-infobox-caption">A proxy fight is won by persuading shareholders to vote for your directors.</div>
 

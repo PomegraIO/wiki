@@ -8,7 +8,7 @@ keywords:
   - hash
   - cryptography
   - consensus
-image: "https://picsum.photos/seed/blockchain-fundamentals/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **blockchain** is a [distributed ledger](/distributed-ledger) — a database maintained across many independent computers without a central authority. Data is grouped into blocks, each cryptographically referencing the previous block, creating an immutable chain. Blockchains use consensus mechanisms to ensure agreement across the network about which transactions are valid.*
@@ -23,7 +23,7 @@ This entry covers the core technology of blockchains. For specific consensus mec
 
 <div class="wiki-infobox-title">Blockchain — core concepts</div>
 
-<img src="https://picsum.photos/seed/blockchain-fundamentals/900/600" alt="Blockchain structure with chained blocks" />
+<img src="/svg/crypto.svg" alt="Blockchain structure with chained blocks" />
 
 <div class="wiki-infobox-caption">A blockchain: blocks of transactions linked cryptographically into an immutable chain.</div>
 

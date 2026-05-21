@@ -7,7 +7,7 @@ keywords:
   - delisting
   - public to private
   - leveraged buyout
-image: "https://picsum.photos/seed/take-private/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **take-private** (also called a **go-private** transaction) is an [acquisition](/acquisition) that results in a public company being delisted and converted to private ownership. The transaction removes the company from public stock exchanges, typically involves a significant premium to the public share price, and is often financed as a [leveraged buyout](/leveraged-buyout). Take-private transactions are motivated by founders or management seeking to implement long-term strategy without public market pressure, by activists seeking value, or by strategic buyers acquiring the company.*
@@ -22,7 +22,7 @@ This entry covers take-private transactions as an exit or ownership transition. 
 
 <div class="wiki-infobox-title">Take-private — key facts</div>
 
-<img src="https://picsum.photos/seed/take-private/900/600" alt="A public company going private" />
+<img src="/svg/corporate.svg" alt="A public company going private" />
 
 <div class="wiki-infobox-caption">A take-private delists a company from public markets.</div>
 

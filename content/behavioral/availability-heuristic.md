@@ -7,7 +7,7 @@ keywords:
   - cognitive bias
   - judgment
   - probability
-image: "https://picsum.photos/seed/availability-heuristic/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The availability heuristic is the tendency to estimate the probability or frequency of an event based on how easily examples of that event come to mind. If examples are vivid, recent, or emotionally memorable, you judge the event as more likely than it actually is. If examples are hard to recall, you judge it as less likely, even if the objective probability is high.*
@@ -22,7 +22,7 @@ Related to recency bias and representativeness. For a specific starting-point bi
 
 <div class="wiki-infobox-title">Availability heuristic — key facts</div>
 
-<img src="https://picsum.photos/seed/availability-heuristic/900/600" alt="A bright spotlight shining on a single object among many" />
+<img src="/svg/behavioral.svg" alt="A bright spotlight shining on a single object among many" />
 
 <div class="wiki-infobox-caption">What comes easily to mind feels more important than it is.</div>
 

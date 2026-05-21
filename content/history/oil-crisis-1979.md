@@ -7,7 +7,7 @@ keywords:
   - Iranian Revolution
   - energy shock
   - stagflation
-image: "https://picsum.photos/seed/oil-crisis-1979/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Oil Crisis of 1979**, also called the Second Energy Crisis, was a sharp surge in oil prices triggered by the Iranian Revolution. Iran, then the world's second-largest oil producer, cut exports as the Shah's regime collapsed. Global oil supply fell by about 6%, and prices doubled to over $100 per barrel (in nominal terms). The shock revived stagflation and deepened the economic and political malaise of the 1970s.*
@@ -22,7 +22,7 @@ This entry covers the 1979 crisis. For the preceding energy shock, see [Oil Cris
 
 <div class="wiki-infobox-title">Oil Crisis of 1979 — key facts</div>
 
-<img src="https://picsum.photos/seed/oil-crisis-1979/900/600" alt="A photograph of Iranian oil workers during the revolution that disrupted global energy markets" />
+<img src="/svg/history.svg" alt="A photograph of Iranian oil workers during the revolution that disrupted global energy markets" />
 
 <div class="wiki-infobox-caption">The Iranian Revolution disrupted oil supplies and sent prices soaring globally.</div>
 

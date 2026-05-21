@@ -8,7 +8,7 @@ keywords:
   - theme-based investing
   - sector positioning
   - asset allocation
-image: "https://picsum.photos/seed/top-down-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Top-down investing is an approach that begins with macroeconomic forecasts and broad asset-class positioning, then narrows down to sectors, industries, and individual [stocks](/stock/) expected to benefit from those macro themes. The strategy assumes that macro trends drive returns more powerfully than individual company analysis.*
@@ -23,7 +23,7 @@ For the opposite approach, see [bottom-up investing](/bottom-up-investing/). For
 
 <div class="wiki-infobox-title">Top-down investing — key facts</div>
 
-<img src="https://picsum.photos/seed/top-down-investing/900/600" alt="A pyramid showing macro themes flowing down to sector and stock selection" />
+<img src="/svg/strategies.svg" alt="A pyramid showing macro themes flowing down to sector and stock selection" />
 
 <div class="wiki-infobox-caption">Top-down investors start with macro forecasts, then identify beneficiaries below.</div>
 

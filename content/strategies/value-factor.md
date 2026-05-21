@@ -8,7 +8,7 @@ keywords:
   - cheap stocks
   - value premium
   - factor-based value
-image: "https://picsum.photos/seed/value-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The value factor is a systematic investment strategy that systematically buys [stocks](/stock/) trading at low valuations and sells those trading at high valuations, seeking to capture the "value premium" — the documented historical outperformance of cheap stocks — in a transparent, rules-based approach.*
@@ -23,7 +23,7 @@ For discretionary value investing, see [value investing](/value-investing/). For
 
 <div class="wiki-infobox-title">Value-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/value-factor/900/600" alt="A chart showing value stocks outperforming over decades" />
+<img src="/svg/strategies.svg" alt="A chart showing value stocks outperforming over decades" />
 
 <div class="wiki-infobox-caption">Value-factor delivers long-term outperformance via systematic cheap-stock selection.</div>
 

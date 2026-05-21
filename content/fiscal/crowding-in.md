@@ -7,7 +7,7 @@ keywords:
   - private investment
   - fiscal stimulus
   - economic growth
-image: "https://picsum.photos/seed/crowding-in/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **crowding in** effect occurs when government spending stimulates private investment. This happens when government expenditure on infrastructure, education, or other productive areas makes private business ventures more profitable, or when government spending boosts [aggregate demand](/central-bank) and business confidence, encouraging private [investment](/stock).*
@@ -22,7 +22,7 @@ This entry covers the complementary effect to crowding out. For when government 
 
 <div class="wiki-infobox-title">Crowding In — key facts</div>
 
-<img src="https://picsum.photos/seed/crowding-in/900/600" alt="Crowding in" />
+<img src="/svg/fiscal.svg" alt="Crowding in" />
 
 <div class="wiki-infobox-caption">Government spending can encourage additional private investment.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - banking reform
   - alternative system
   - no fractional lending
-image: "https://picsum.photos/seed/full-reserve-banking/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **full-reserve banking** system is an alternative to [fractional-reserve banking](/fractional-reserve-banking) in which [banks](/broker) hold 100% reserves against customer deposits. Deposits are fully backed by cash or central-bank reserves at all times; [banks](/broker) cannot lend out deposits and must fund all loans from capital or other sources. While theoretically safer (no bank-run risk), full-reserve banking has never been widely adopted because it would shrink the money supply and credit available for productive investment.*
@@ -22,7 +22,7 @@ This entry covers the alternative system. For the standard system, see [fraction
 
 <div class="wiki-infobox-title">Full-Reserve Banking — key facts</div>
 
-<img src="https://picsum.photos/seed/full-reserve-banking/900/600" alt="Bank vault holding 100% reserves against deposits" />
+<img src="/svg/monetary.svg" alt="Bank vault holding 100% reserves against deposits" />
 
 <div class="wiki-infobox-caption">Full-reserve banking eliminates fractional lending but constrains credit expansion.</div>
 

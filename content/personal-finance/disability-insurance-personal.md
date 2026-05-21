@@ -7,7 +7,7 @@ keywords:
   - disability benefit
   - inability to work
   - income replacement
-image: "https://picsum.photos/seed/disability-insurance-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **disability insurance** policy replaces a portion of your income if you become unable to work due to illness or injury. Short-term disability (STD) typically covers 3–6 months; long-term disability (LTD) covers months or years until retirement age. Most workers underestimate the risk; a serious disability is far more likely than death in your working years.*
@@ -22,7 +22,7 @@ For protection against death, see [term-life insurance](/term-life-insurance); f
 
 <div class="wiki-infobox-title">Disability Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/disability-insurance-personal/900/600" alt="A worker unable to work due to injury, with insurance documents nearby" />
+<img src="/svg/personal-finance.svg" alt="A worker unable to work due to injury, with insurance documents nearby" />
 
 <div class="wiki-infobox-caption">The protection: income if unable to work.</div>
 

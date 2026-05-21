@@ -7,7 +7,7 @@ keywords:
   - NOI
   - unleveraged return
   - property valuation
-image: "https://picsum.photos/seed/cap-rate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *The **cap rate** (capitalization rate) is the annual [net operating income](/net-operating-income) (NOI) of a property divided by its purchase price or current market value. Cap rate is the fundamental valuation metric in real estate, representing the unleveraged return an investor would earn on an all-cash purchase.*
@@ -22,7 +22,7 @@ For context on NOI, see [net-operating-income](/net-operating-income). For lever
 
 <div class="wiki-infobox-title">Cap Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/cap-rate/900/600" alt="A real estate financial analysis showing cap rate calculation" />
+<img src="/svg/real-estate.svg" alt="A real estate financial analysis showing cap rate calculation" />
 
 <div class="wiki-infobox-caption">Cap rate is the fundamental metric linking property value to annual operating income.</div>
 

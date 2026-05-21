@@ -7,7 +7,7 @@ keywords:
   - onshore offshore
   - CNH
   - emerging market FX
-image: "https://picsum.photos/seed/ndf/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **NDF** — non-deliverable forward — is a [forward contract](/fx-forward) on a currency pair that is settled in cash rather than through physical exchange of the two currencies. A company with exposure to Chinese renminbi (CNH) or Indian rupee (INR) — currencies that are not freely convertible or are restricted to certain counterparties — uses NDFs to hedge without needing to actually take possession of the currency.*
@@ -22,7 +22,7 @@ For the delivery-based alternative, see [FX Forward](/fx-forward); for options-b
 
 <div class="wiki-infobox-title">Non-Deliverable Forward — key facts</div>
 
-<img src="https://picsum.photos/seed/ndf/900/600" alt="A comparison of NDF settlement vs. FX forward settlement" />
+<img src="/svg/forex.svg" alt="A comparison of NDF settlement vs. FX forward settlement" />
 
 <div class="wiki-infobox-caption">NDFs settle in dollars (or other hard currency), not the restricted currency itself.</div>
 

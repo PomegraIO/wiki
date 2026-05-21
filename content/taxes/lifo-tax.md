@@ -6,7 +6,7 @@ keywords:
   - cost basis
   - last in first out
   - tax efficiency
-image: "https://picsum.photos/seed/lifo-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **LIFO** method (Last In, First Out) is a [cost basis](/cost-basis/) approach where the newest [tax lot](/tax-lot/) is sold first. LIFO can be more tax-efficient than [FIFO](/fifo-tax/) when recent purchases are at higher prices, allowing you to realise smaller gains. It is most useful during volatile or rising markets, though it requires explicit election and careful documentation.*
@@ -21,7 +21,7 @@ For alternatives, see [specific identification](/specific-identification-basis/)
 
 <div class="wiki-infobox-title">LIFO tax basis — key facts</div>
 
-<img src="https://picsum.photos/seed/lifo-tax/900/600" alt="A timeline showing the newest lot sold first" />
+<img src="/svg/taxes.svg" alt="A timeline showing the newest lot sold first" />
 
 <div class="wiki-infobox-caption">LIFO sells newest, usually highest-cost lots first.</div>
 

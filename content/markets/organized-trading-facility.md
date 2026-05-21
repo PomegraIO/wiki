@@ -8,7 +8,7 @@ keywords:
   - MiFID II
   - derivatives trading
   - European markets
-image: "https://picsum.photos/seed/organized-trading-facility/900/600"
+image: "/svg/markets.svg"
 ---
 
 *An **Organized Trading Facility (OTF)** is a type of trading venue defined under the EU's [MiFID II](/mifid-ii-trading) regulation. OTFs are less strictly regulated than [regulated markets](/stock-exchange) but more flexible than [multilateral trading facilities](/multilateral-trading-facility). They are commonly used for trading [derivatives](/option), fixed-income securities, and complex instruments, and allow the operator to use discretion in order matching.*
@@ -23,7 +23,7 @@ This entry is about EU trading venues. For US equivalent, see [swap execution fa
 
 <div class="wiki-infobox-title">Organized Trading Facility — key facts</div>
 
-<img src="https://picsum.photos/seed/organized-trading-facility/900/600" alt="A trading screen showing OTF quotes for European securities" />
+<img src="/svg/markets.svg" alt="A trading screen showing OTF quotes for European securities" />
 
 <div class="wiki-infobox-caption">OTFs balance flexibility with regulatory oversight in European markets.</div>
 

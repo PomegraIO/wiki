@@ -8,7 +8,7 @@ keywords:
   - quits
   - hires
   - labor statistics
-image: "https://picsum.photos/seed/jolts-report/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The JOLTS report (Job Openings and Labor Turnover Survey) is a monthly Bureau of Labor Statistics survey tracking job openings, hires, quits, separations, and layoffs. It provides a granular view of labor market dynamics — revealing whether weakness is on the demand side (fewer job openings) or supply side (workers quitting).*
@@ -23,7 +23,7 @@ JOLTS data started in 2000. It has become essential for policymakers to distingu
 
 <div class="wiki-infobox-title">JOLTS Report — key facts</div>
 
-<img src="https://picsum.photos/seed/jolts-report/900/600" alt="Job openings and unemployment rate" />
+<img src="/svg/macro.svg" alt="Job openings and unemployment rate" />
 
 <div class="wiki-infobox-caption">Job openings minus unemployment (the Beveridge curve) reveals labor market tightness.</div>
 

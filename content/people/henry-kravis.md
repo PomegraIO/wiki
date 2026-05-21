@@ -7,7 +7,7 @@ keywords:
   - leveraged buyout
   - private equity
   - acquisition
-image: "https://picsum.photos/seed/henry-kravis/900/600"
+image: "/svg/people.svg"
 ---
 
 *Henry Kravis pioneered the leveraged buyout as a business model, building KKR into a powerhouse that has defined private equity for five decades by acquiring companies, improving operations, and selling them for large gains.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/henry-kravis/900/600"
 
 <div class="wiki-infobox-title">Henry Kravis — key facts</div>
 
-<img src="https://picsum.photos/seed/henry-kravis/900/600" alt="A large corporate headquarters undergoing restructuring" />
+<img src="/svg/people.svg" alt="A large corporate headquarters undergoing restructuring" />
 
 <div class="wiki-infobox-caption">The target of his deals — where operational improvement drives returns.</div>
 

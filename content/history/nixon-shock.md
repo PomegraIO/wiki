@@ -7,7 +7,7 @@ keywords:
   - gold standard
   - Bretton Woods
   - floating exchange rate
-image: "https://picsum.photos/seed/nixon-shock/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Nixon Shock** was a dramatic policy reversal announced on August 15, 1971, when President Richard Nixon declared that the United States would no longer exchange dollars for gold at the fixed rate of $35 per ounce. This decision, largely unanticipated by markets, ended the Bretton Woods system of fixed exchange rates that had governed world finance for 27 years and ushered in an era of floating currencies.*
@@ -22,7 +22,7 @@ This entry covers the 1971 announcement and its immediate consequences. For the 
 
 <div class="wiki-infobox-title">Nixon Shock — key facts</div>
 
-<img src="https://picsum.photos/seed/nixon-shock/900/600" alt="A photograph of President Richard Nixon announcing the end of dollar-gold convertibility" />
+<img src="/svg/history.svg" alt="A photograph of President Richard Nixon announcing the end of dollar-gold convertibility" />
 
 <div class="wiki-infobox-caption">Nixon's August 15 address announced an end to nearly 30 years of fixed dollar-gold parity.</div>
 

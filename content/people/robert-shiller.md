@@ -7,7 +7,7 @@ keywords:
   - irrational exuberance
   - volatility
   - asset prices
-image: "https://picsum.photos/seed/robert-shiller/900/600"
+image: "/svg/people.svg"
 ---
 
 *Robert Shiller proved through data that [stock market](/stock-market) prices exhibit far more volatility than fundamental values can explain — evidence that psychology and emotion drive markets more than pure rationality.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/robert-shiller/900/600"
 
 <div class="wiki-infobox-title">Robert Shiller — key facts</div>
 
-<img src="https://picsum.photos/seed/robert-shiller/900/600" alt="Historical stock price charts overlaid with valuation metrics" />
+<img src="/svg/people.svg" alt="Historical stock price charts overlaid with valuation metrics" />
 
 <div class="wiki-infobox-caption">The data that revealed psychology — where emotion exceeds fundamentals.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - equity and debt
   - diversified REIT
   - balanced real estate
-image: "https://picsum.photos/seed/hybrid-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **hybrid REIT** combines elements of [equity REITs](/equity-reit) and [mortgage REITs](/mortgage-reit), holding both physical real estate properties and mortgages or mortgage-backed securities. This strategy aims to capture stability from property ownership while capturing higher yield from mortgage interest.*
@@ -22,7 +22,7 @@ Hybrid REITs are less common than pure equity REITs. For the broader REIT struct
 
 <div class="wiki-infobox-title">Hybrid REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/hybrid-reit/900/600" alt="A mixed portfolio of buildings and financial instruments" />
+<img src="/svg/real-estate.svg" alt="A mixed portfolio of buildings and financial instruments" />
 
 <div class="wiki-infobox-caption">Hybrid REITs diversify across both property ownership and mortgage lending.</div>
 

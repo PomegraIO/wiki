@@ -7,7 +7,7 @@ keywords:
   - planned savings
   - budget category
   - prorated expense
-image: "https://picsum.photos/seed/sinking-fund/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **sinking fund** is money you allocate and save monthly for an expense you know is coming but occurs infrequently — car insurance, annual vehicle registration, property tax, home maintenance, gifts. You divide the annual or one-time cost by 12 and set aside that amount each month, so the lump sum does not blow a hole in a future month's budget.*
@@ -22,7 +22,7 @@ For the budgeting method this fits into, see [budgeting methods](/budgeting-meth
 
 <div class="wiki-infobox-title">Sinking Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/sinking-fund/900/600" alt="A piggy bank with coins being added to it regularly" />
+<img src="/svg/personal-finance.svg" alt="A piggy bank with coins being added to it regularly" />
 
 <div class="wiki-infobox-caption">The concept: gradual accumulation for a predictable future need.</div>
 

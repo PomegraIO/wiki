@@ -7,7 +7,7 @@ keywords:
   - veteran affairs
   - zero down payment
   - military mortgage
-image: "https://picsum.photos/seed/va-loan/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **VA loan** is a mortgage guaranteed by the U.S. Department of Veterans Affairs for eligible military service members, veterans, and surviving spouses. VA loans offer zero down payment, no mortgage insurance, and favorable terms, making them one of the most generous homeownership programs.*
@@ -22,7 +22,7 @@ For other government programs, see [fha-loan](/fha-loan), [usda-loan](/usda-loan
 
 <div class="wiki-infobox-title">VA Loan — key facts</div>
 
-<img src="https://picsum.photos/seed/va-loan/900/600" alt="A VA loan certificate and military service documentation" />
+<img src="/svg/real-estate.svg" alt="A VA loan certificate and military service documentation" />
 
 <div class="wiki-infobox-caption">VA loans provide favorable terms to military veterans.</div>
 

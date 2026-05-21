@@ -7,7 +7,7 @@ keywords:
   - rental property
   - owner-occupied
   - single-family home
-image: "https://picsum.photos/seed/residential-real-estate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *Residential real estate is any property held as a dwelling — apartments, houses, condominiums, townhouses, and manufactured homes — either for personal occupancy or for investment (rental). It accounts for roughly 40% of all real estate value globally and is the primary wealth-building asset for most households.*
@@ -22,7 +22,7 @@ This entry covers residential real estate broadly. For specific property types, 
 
 <div class="wiki-infobox-title">Residential Real Estate — key facts</div>
 
-<img src="https://picsum.photos/seed/residential-real-estate/900/600" alt="A residential home or apartment building" />
+<img src="/svg/real-estate.svg" alt="A residential home or apartment building" />
 
 <div class="wiki-infobox-caption">Residential real estate is the primary store of wealth for most households.</div>
 

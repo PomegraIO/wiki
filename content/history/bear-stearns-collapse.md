@@ -7,7 +7,7 @@ keywords:
   - investment bank
   - mortgage crisis
   - Fed rescue
-image: "https://picsum.photos/seed/bear-stearns-collapse/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Bear Stearns collapse** of March 2008 was the first major casualty of the financial crisis. The investment bank, which had survived the Great Depression and numerous market crises, was crippled by enormous losses on mortgage-backed securities. Unable to meet liquidity demands and with its stock price in freefall, Bear Stearns was sold to JPMorgan Chase in an emergency transaction orchestrated by the Federal Reserve. It was a harbinger of worse to come.*
@@ -22,7 +22,7 @@ This entry covers the Bear Stearns collapse. For the broader crisis, see 2008 Fi
 
 <div class="wiki-infobox-title">Bear Stearns Collapse — key facts</div>
 
-<img src="https://picsum.photos/seed/bear-stearns-collapse/900/600" alt="A photograph of the Bear Stearns building in New York" />
+<img src="/svg/history.svg" alt="A photograph of the Bear Stearns building in New York" />
 
 <div class="wiki-infobox-caption">Bear Stearns, once a dominant investment bank, failed to survive the mortgage-backed security crisis.</div>
 

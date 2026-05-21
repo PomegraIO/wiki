@@ -8,7 +8,7 @@ keywords:
   - market data
   - order routing
   - standardization
-image: "https://picsum.photos/seed/fix-protocol/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **FIX (Financial Information Exchange) Protocol** is an open, standardized protocol used for electronic communications between market participants — brokers, exchanges, trading systems, and investors. FIX messages convey orders, executions, confirmations, and market data in a machine-readable, standardized format. It has been the de facto standard for electronic trading since the 1990s.*
@@ -23,7 +23,7 @@ This entry is about the trading communication standard. For market data protocol
 
 <div class="wiki-infobox-title">FIX Protocol — key facts</div>
 
-<img src="https://picsum.photos/seed/fix-protocol/900/600" alt="A FIX protocol message showing tag-value pairs for an order" />
+<img src="/svg/markets.svg" alt="A FIX protocol message showing tag-value pairs for an order" />
 
 <div class="wiki-infobox-caption">FIX Protocol enables standardized trading communication across the market.</div>
 

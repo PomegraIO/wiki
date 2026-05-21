@@ -7,7 +7,7 @@ keywords:
   - beverage
   - tropical crop
   - arabica
-image: "https://picsum.photos/seed/coffee/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **coffee** — the world's second-most-traded commodity by value, derived from roasted coffee beans — is consumed by over 2 billion people daily and supplies a critical morning ritual in developed countries. Coffee prices are highly volatile, driven by frosts in Brazil (world's largest producer), by El Niño cycles that affect rainfall, and by speculative trading.*
@@ -22,7 +22,7 @@ This entry covers coffee as a traded commodity. Two primary species exist: Arabi
 
 <div class="wiki-infobox-title">Coffee — key facts</div>
 
-<img src="https://picsum.photos/seed/coffee/900/600" alt="Coffee beans and coffee plantation" />
+<img src="/svg/commodities.svg" alt="Coffee beans and coffee plantation" />
 
 <div class="wiki-infobox-caption">Coffee plantation and roasted beans — the world's second-largest commodity.</div>
 

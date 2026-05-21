@@ -8,7 +8,7 @@ keywords:
   - misbehaviour
   - collateral loss
   - consensus enforcement
-image: "https://picsum.photos/seed/slashing/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **slashing** is a penalty in [proof-of-stake](/proof-of-stake) blockchains where a [validator](/validator) loses part or all of their staked collateral for violating protocol rules. Slashing is the enforcement mechanism that keeps validators honest, making attacks economically irrational.*
@@ -23,7 +23,7 @@ This entry covers slashing as a mechanism. For the staking process, see [staking
 
 <div class="wiki-infobox-title">Slashing — key facts</div>
 
-<img src="https://picsum.photos/seed/slashing/900/600" alt="Validator collateral being slashed" />
+<img src="/svg/crypto.svg" alt="Validator collateral being slashed" />
 
 <div class="wiki-infobox-caption">Slashing: automatic penalties for protocol violations.</div>
 

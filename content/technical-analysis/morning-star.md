@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/morning-star/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **morning star** is a three-candle reversal pattern that often appears at the bottom of downtrends. The first candle is a large bearish candle (red), showing selling pressure. The second candle gaps down and is small, showing indecision. The third candle is a large bullish candle (green) that closes well into the first candle's body. The pattern resembles a celestial dawn—the first candle is darkness, the small middle candle is twilight, and the final candle is the bright sun rising. In traditional technical analysis, the morning star is regarded as a bullish reversal signal, though academic research has not found it to be reliably predictive.*
@@ -22,7 +22,7 @@ For three-candle patterns and broader candlestick analysis, see [candlestick pat
 
 <div class="wiki-infobox-title">Morning star — key facts</div>
 
-<img src="https://picsum.photos/seed/morning-star/900/600" alt="A morning star pattern: large red candle, small gap-down candle, large green candle" />
+<img src="/svg/technical-analysis.svg" alt="A morning star pattern: large red candle, small gap-down candle, large green candle" />
 
 <div class="wiki-infobox-caption">A classic morning star: three candles that tell a story of selling exhaustion, indecision, and buying arrival.</div>
 

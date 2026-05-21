@@ -6,7 +6,7 @@ keywords:
   - central bank communication
   - policy expectations
   - interest rate guidance
-image: "https://picsum.photos/seed/forward-guidance/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **forward guidance** is a central bank's public statement about its future [monetary-policy](/monetary-policy) intentions—typically about the path of interest rates, asset purchases, or tightening. By signaling what it plans to do, a central bank can influence market expectations and economic behavior *today*, without actually raising or lowering rates yet. Forward guidance is especially powerful when interest rates are at or near zero and conventional policy levers are exhausted.*
@@ -21,7 +21,7 @@ This entry covers the communication strategy. For the interest rate being guided
 
 <div class="wiki-infobox-title">Forward Guidance — key facts</div>
 
-<img src="https://picsum.photos/seed/forward-guidance/900/600" alt="Central bank press conference announcing future policy" />
+<img src="/svg/monetary.svg" alt="Central bank press conference announcing future policy" />
 
 <div class="wiki-infobox-caption">Forward guidance shapes expectations before policy actually changes.</div>
 

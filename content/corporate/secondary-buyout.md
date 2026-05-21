@@ -7,7 +7,7 @@ keywords:
   - LBO
   - PE-to-PE sale
   - leveraged buyout
-image: "https://picsum.photos/seed/secondary-buyout/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **secondary buyout** is a [leveraged buyout](/leveraged-buyout) in which the seller is another private equity firm, rather than a strategic buyer, public shareholders, or a founder. In a secondary buyout, a PE firm acquires a company from another PE firm's portfolio. This has become an increasingly common exit strategy for private equity, as growing numbers of PE firms must deploy capital and are willing to buy from competitors. Secondary buyouts represent the recycling of capital and deal activity within the private equity industry.*
@@ -22,7 +22,7 @@ This entry covers secondary buyouts as a transaction type and PE exit mechanism.
 
 <div class="wiki-infobox-title">Secondary buyout — key facts</div>
 
-<img src="https://picsum.photos/seed/secondary-buyout/900/600" alt="PE firm selling to another PE firm" />
+<img src="/svg/corporate.svg" alt="PE firm selling to another PE firm" />
 
 <div class="wiki-infobox-caption">A secondary buyout transfers PE ownership from one firm to another.</div>
 

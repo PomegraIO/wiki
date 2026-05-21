@@ -7,7 +7,7 @@ keywords:
   - M&A multiples
   - transaction multiples
   - valuation analysis
-image: "https://picsum.photos/seed/comparable-transaction-analysis/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **comparable transaction analysis** (or "precedent transactions") values a company by looking at the prices paid in recent M&A deals for similar businesses. A competitor was acquired last year at 12x EBITDA; therefore, your target company is worth 12x EBITDA. The method is straightforward and credit-

@@ -7,7 +7,7 @@ keywords:
   - bond price risk
   - rate sensitivity
   - maturity risk
-image: "https://picsum.photos/seed/bond-duration-risk/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **bond duration risk** — also called **interest-rate risk** — is the risk that a bond's value will decline if interest rates rise. A bond's exposure to this risk is measured by its [duration](/duration), which approximates the percentage price change for each 1% move in yields. A bond with a 7-year duration loses approximately 7% in value when interest rates rise 1%; it gains approximately 7% when rates fall 1%.*
@@ -22,7 +22,7 @@ For the measure of this risk, see [duration](/duration). For bonds with options 
 
 <div class="wiki-infobox-title">Bond Duration Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/bond-duration-risk/900/600" alt="A graph showing the inverse relationship between bond prices and interest rates" />
+<img src="/svg/fixed-income.svg" alt="A graph showing the inverse relationship between bond prices and interest rates" />
 
 <div class="wiki-infobox-caption">Interest rate risk is the primary risk for long-term bondholders.</div>
 

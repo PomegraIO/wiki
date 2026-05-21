@@ -7,7 +7,7 @@ keywords:
   - liquidity draining
   - repurchase agreement
   - money market
-image: "https://picsum.photos/seed/reverse-repo-facility/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **reverse repo facility** (or **RRP**) is a central bank's standing offer to *borrow* cash from financial institutions—[banks](/broker), money-market funds, and others—by posting securities as collateral and agreeing to repay at a slightly higher rate the next day (or over a longer term). While the [standing-repo-facility](/standing-repo-facility) *lends* liquidity to institutions in need, the reverse facility *absorbs* liquidity from institutions with excess cash, helping the central bank manage the money supply.*
@@ -22,7 +22,7 @@ This entry covers the reverse facility's mechanics. For the inverse operation—
 
 <div class="wiki-infobox-title">Reverse Repo Facility — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-repo-facility/900/600" alt="Central bank reverse repo draining liquidity" />
+<img src="/svg/monetary.svg" alt="Central bank reverse repo draining liquidity" />
 
 <div class="wiki-infobox-caption">The reverse repo facility absorbs excess cash when the financial system has too much liquidity.</div>
 

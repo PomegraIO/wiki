@@ -7,7 +7,7 @@ keywords:
   - retirement spending
   - sustainable withdrawal
   - portfolio withdrawal
-image: "https://picsum.photos/seed/safe-withdrawal-rate/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **safe withdrawal rate (SWR)** is the percentage of your investment portfolio you can withdraw annually without running out of money over your expected retirement. While the [four-percent rule](/the-four-percent-rule) is a one-size-fits-all guideline, your personal safe withdrawal rate depends on your specific situation: retirement length, market expectations, portfolio composition, and risk tolerance.*
@@ -22,7 +22,7 @@ For the standard guideline, see [the four-percent rule](/the-four-percent-rule);
 
 <div class="wiki-infobox-title">Safe Withdrawal Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/safe-withdrawal-rate/900/600" alt="A retirement plan calculation showing personalized withdrawal rates" />
+<img src="/svg/personal-finance.svg" alt="A retirement plan calculation showing personalized withdrawal rates" />
 
 <div class="wiki-infobox-caption">The calculation: retirement duration, market returns, and risk tolerance drive SWR.</div>
 

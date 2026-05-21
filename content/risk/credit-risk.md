@@ -7,7 +7,7 @@ keywords:
   - counterparty risk
   - bond default
   - credit spread
-image: "https://picsum.photos/seed/credit-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Credit risk — also called **default risk** — is the probability and impact of a borrower's failure to pay principal or interest on a debt obligation. It is the primary risk borne by lenders, bondholders, and anyone with a [counterparty](/counterparty-risk) on the other side of a contract.*
@@ -22,7 +22,7 @@ This entry covers the risk that a borrower fails to pay. For the broader risk th
 
 <div class="wiki-infobox-title">Credit Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/credit-risk/900/600" alt="A red warning light atop stacked financial documents" />
+<img src="/svg/risk.svg" alt="A red warning light atop stacked financial documents" />
 
 <div class="wiki-infobox-caption">Credit risk is the risk that a promise to pay is broken.</div>
 

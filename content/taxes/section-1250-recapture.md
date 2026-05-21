@@ -6,7 +6,7 @@ keywords:
   - real estate
   - recapture
   - depreciation
-image: "https://picsum.photos/seed/section-1250-recapture/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Section 1250 recapture** rule applies to depreciation deductions taken on real estate. When you sell a rental property or commercial building, gains attributable to depreciation are taxed at a preferential 25% federal rate (for straight-line depreciation on residential real estate) rather than ordinary [income tax](/tax-bracket-investor/) rates up to 37%. This is a major advantage of real estate investment—the recapture rate is capped at 25%, often lower than [long-term capital gains](/long-term-capital-gain-tax/) for the wealthiest investors.*
@@ -21,7 +21,7 @@ For personal property recapture (higher rates), see [Section 1245 recapture](/se
 
 <div class="wiki-infobox-title">Section 1250 recapture — key facts</div>
 
-<img src="https://picsum.photos/seed/section-1250-recapture/900/600" alt="A rental property showing depreciation and recapture tax" />
+<img src="/svg/taxes.svg" alt="A rental property showing depreciation and recapture tax" />
 
 <div class="wiki-infobox-caption">Real estate receives a preferential 25% recapture rate, encouraging rental property investment.</div>
 

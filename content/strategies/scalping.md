@@ -8,7 +8,7 @@ keywords:
   - tick trading
   - market maker
   - high-frequency trading
-image: "https://picsum.photos/seed/scalping/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Scalping is an extreme intraday trading strategy where positions are held for very brief periods — often just seconds to a few minutes — with the goal of profiting from tiny price movements (often 1–5 cents per share) and bid-ask spread narrowing. Scalpers typically trade high volumes to build small profits into meaningful returns.*
@@ -23,7 +23,7 @@ For slightly longer holding periods, see [day-trading](/day-trading/). For short
 
 <div class="wiki-infobox-title">Scalping — key facts</div>
 
-<img src="https://picsum.photos/seed/scalping/900/600" alt="A high-speed trader capturing small tick movements" />
+<img src="/svg/strategies.svg" alt="A high-speed trader capturing small tick movements" />
 
 <div class="wiki-infobox-caption">Scalpers hunt tiny price differences, often with leverage and high-speed technology.</div>
 

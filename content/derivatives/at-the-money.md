@@ -7,7 +7,7 @@ keywords:
   - option value
   - strike price
   - volatility sensitivity
-image: "https://picsum.photos/seed/at-the-money/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An option is **at-the-money (ATM)** when the [strike price](/strike-price) equals (or is very close to) the underlying [stock](/stock)'s current market price. An at-the-money option has zero [intrinsic value](/intrinsic-value) and is worth entirely its [time value](/time-value). ATM options are the most sensitive to changes in [volatility](/historical-volatility) and have the highest [gamma](/gamma) (convexity), making them useful barometers of market uncertainty.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/at-the-money/900/600"
 
 <div class="wiki-infobox-title">At-the-Money — key facts</div>
 
-<img src="https://picsum.photos/seed/at-the-money/900/600" alt="Stock price exactly aligned with strike level" />
+<img src="/svg/derivatives.svg" alt="Stock price exactly aligned with strike level" />
 
 <div class="wiki-infobox-caption">ATM options have zero intrinsic value.</div>
 

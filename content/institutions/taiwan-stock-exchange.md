@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Taiwan
   - Taipei
-image: "https://picsum.photos/seed/taiwan-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Taiwan Stock Exchange** (TWSE) is Taiwan's primary [stock exchange](/stock-exchange), headquartered in Taipei. Home to Taiwan Semiconductor Manufacturing Company (TSMC), MediaTek, and other global semiconductor and electronics leaders, the TWSE is one of the world's most important venues for technology and chip manufacturing investment.*
@@ -22,7 +22,7 @@ Taiwan also operates the Taiwan OTC Exchange for smaller and earlier-stage compa
 
 <div class="wiki-infobox-title">Taiwan Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/taiwan-stock-exchange/900/600" alt="The Taiwan Stock Exchange building in Taipei" />
+<img src="/svg/institutions.svg" alt="The Taiwan Stock Exchange building in Taipei" />
 
 <div class="wiki-infobox-caption">The Taiwan Stock Exchange headquarters in Taipei's financial district.</div>
 

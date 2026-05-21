@@ -8,7 +8,7 @@ keywords:
   - tax optimization
   - loss selling
   - tax deferral
-image: "https://picsum.photos/seed/tax-loss-harvesting/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Tax-loss harvesting is a strategy of deliberately selling [securities](/stock/) that have declined in value to realize losses, which can offset capital gains elsewhere in the portfolio or offset ordinary income. The investor then immediately reinvests in similar (but not identical) securities to maintain desired exposure, converting unrealized losses into actual tax deductions.*
@@ -23,7 +23,7 @@ For the opposite strategy, see [tax-gain harvesting](/tax-gain-harvesting/). For
 
 <div class="wiki-infobox-title">Tax-loss harvesting — key facts</div>
 
-<img src="https://picsum.photos/seed/tax-loss-harvesting/900/600" alt="A losing position sold for a tax loss, then reinvested in a similar security" />
+<img src="/svg/strategies.svg" alt="A losing position sold for a tax loss, then reinvested in a similar security" />
 
 <div class="wiki-infobox-caption">Tax-loss harvesters convert paper losses into tax deductions, improving after-tax returns.</div>
 

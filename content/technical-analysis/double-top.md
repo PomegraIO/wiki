@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/double-top/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **double top** is a bearish reversal pattern consisting of two peaks at approximately the same price level separated by a dip (the valley). The pattern reveals that price has tested a resistance level twice and failed both times to break above it, showing waning buying pressure. The first peak exhausts buyers; the price retraces. Buyers try again, pushing price to roughly the same level as the first peak, but selling intensity halts the rally. When price then dips below the valley's low, the pattern is complete, and a sustained downtrend often follows. The double top is simpler and more common than the [head and shoulders](/technical-analysis/head-and-shoulders) but is considered less reliable.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Double top — key facts</div>
 
-<img src="https://picsum.photos/seed/double-top/900/600" alt="A double top pattern: two peaks at similar heights with a valley between them" />
+<img src="/svg/technical-analysis.svg" alt="A double top pattern: two peaks at similar heights with a valley between them" />
 
 <div class="wiki-infobox-caption">Double top: two peaks at resistance; valley between; breakbelow valley signals reversal.</div>
 

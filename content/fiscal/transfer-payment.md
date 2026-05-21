@@ -7,7 +7,7 @@ keywords:
   - income transfer
   - entitlement
   - welfare
-image: "https://picsum.photos/seed/transfer-payment/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **transfer payment** is a government payment to individuals that does not compensate them for producing a good or service. It is simply a redistribution of income — money taken from taxes and given to recipients who meet eligibility criteria, such as Social Security recipients or unemployed workers.*
@@ -22,7 +22,7 @@ This entry covers income-transfer payments. For broader benefit programs, see [e
 
 <div class="wiki-infobox-title">Transfer Payment — key facts</div>
 
-<img src="https://picsum.photos/seed/transfer-payment/900/600" alt="Transfer payment" />
+<img src="/svg/fiscal.svg" alt="Transfer payment" />
 
 <div class="wiki-infobox-caption">Transfer payments redistribute income to eligible recipients.</div>
 

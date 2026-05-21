@@ -8,7 +8,7 @@ keywords:
   - institutional trading
   - off-exchange
   - transparency
-image: "https://picsum.photos/seed/dark-pool-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **dark pool** is a private, non-transparent trading venue where institutions can trade securities without publicly displaying orders. Dark pools do not publish pre-trade quotes or post-trade data immediately; trades are reported with a delay or not at all until regulatory filing. Dark pools account for approximately 10–15% of US stock trading volume and are preferred by institutions executing large orders because they avoid the market impact of publicly announcing large buy or sell intentions.*
@@ -23,7 +23,7 @@ This entry is about private trading venues. For transparent venues, see [lit ven
 
 <div class="wiki-infobox-title">Dark Pool — key facts</div>
 
-<img src="https://picsum.photos/seed/dark-pool-detail/900/600" alt="A trading desk with dimmed lighting, symbolizing opacity of dark pools" />
+<img src="/svg/markets.svg" alt="A trading desk with dimmed lighting, symbolizing opacity of dark pools" />
 
 <div class="wiki-infobox-caption">Dark pools trade orders privately, away from public view.</div>
 

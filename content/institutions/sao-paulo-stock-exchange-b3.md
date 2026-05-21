@@ -8,7 +8,7 @@ keywords:
   - BOVESPA
   - Brazil
   - stock exchange
-image: "https://picsum.photos/seed/sao-paulo-stock-exchange-b3/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **B3 – Brasil Bolsa Balcão** (formerly the Bolsa de Valores de São Paulo, or BOVESPA) is Brazil's primary [stock exchange](/stock-exchange) and one of the largest and most active in the world by trading volume. Headquartered in São Paulo, B3 lists Brazilian corporations across natural resources, financial services, utilities, and technology, and serves as the gateway through which international investors access Latin America's largest economy.*
@@ -23,7 +23,7 @@ B3 rebranded from BOVESPA to Brasil Bolsa Balcão in 2017 to reflect its expansi
 
 <div class="wiki-infobox-title">B3 — key facts</div>
 
-<img src="https://picsum.photos/seed/sao-paulo-stock-exchange-b3/900/600" alt="The B3 trading floor in São Paulo" />
+<img src="/svg/institutions.svg" alt="The B3 trading floor in São Paulo" />
 
 <div class="wiki-infobox-caption">The B3 trading facility in São Paulo's Paulista Avenue financial district.</div>
 

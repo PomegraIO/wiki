@@ -8,7 +8,7 @@ keywords:
   - level 3
   - market depth
   - liquidity display
-image: "https://picsum.photos/seed/full-order-depth/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **order book depth** (or **market depth**) refers to the quantity of buy and sell orders available at each price level. **Full order depth** is the complete list of all orders, from the best bid to the worst bid (lowest to highest prices) and from the best ask to the worst ask (highest to lowest). Level 1 data shows only the best bid-ask; Level 2 shows top 5–10 levels; Level 3 shows all orders. Deeper visibility improves traders' understanding of liquidity but requires more data to transmit.*
@@ -23,7 +23,7 @@ This entry is about order book visibility. For trading data more broadly, see [m
 
 <div class="wiki-infobox-title">Full Order Depth — key facts</div>
 
-<img src="https://picsum.photos/seed/full-order-depth/900/600" alt="A Level 3 order book showing all bids and asks at each price level" />
+<img src="/svg/markets.svg" alt="A Level 3 order book showing all bids and asks at each price level" />
 
 <div class="wiki-infobox-caption">Full order depth provides complete liquidity visibility.</div>
 

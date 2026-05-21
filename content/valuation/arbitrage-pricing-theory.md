@@ -7,7 +7,7 @@ keywords:
   - multi-factor model
   - cost of equity
   - systematic risk
-image: "https://picsum.photos/seed/arbitrage-pricing-theory/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **Arbitrage Pricing Theory (APT)** is a multi-factor framework for estimating cost of equity, developed by Stephen Ross as an alternative to the single-factor [CAPM](/capital-asset-pricing-model). Rather than assuming cost of equity depends only on market beta, APT says it depends on multiple systematic risk factors: interest rate risk, inflation risk, industry risk, etc. The theory is elegant, but in practice, identifying and measuring the factors is subjective.*

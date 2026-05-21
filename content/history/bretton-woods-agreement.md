@@ -7,7 +7,7 @@ keywords:
   - gold standard
   - fixed exchange rates
   - International Monetary Fund
-image: "https://picsum.photos/seed/bretton-woods-agreement/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Bretton Woods Agreement**, negotiated in July 1944 at a conference in New Hampshire, established the institutional and monetary framework for the postwar world. Under Bretton Woods, the US dollar was pegged to gold at $35 per ounce, and all other currencies were pegged to the dollar. It was an attempt to combine the discipline of the [gold standard](/gold-standard) with enough flexibility to avoid the rigidity that had worsened the Great Depression.*
@@ -22,7 +22,7 @@ This entry covers the Bretton Woods system. For its collapse, see [Nixon Shock](
 
 <div class="wiki-infobox-title">Bretton Woods Agreement — key facts</div>
 
-<img src="https://picsum.photos/seed/bretton-woods-agreement/900/600" alt="A photograph of the Bretton Woods Conference with delegates from allied nations" />
+<img src="/svg/history.svg" alt="A photograph of the Bretton Woods Conference with delegates from allied nations" />
 
 <div class="wiki-infobox-caption">The conference that designed the postwar monetary order took place at a resort in rural New Hampshire.</div>
 

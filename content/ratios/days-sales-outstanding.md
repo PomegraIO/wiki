@@ -7,7 +7,7 @@ keywords:
   - receivables
   - collection period
   - working capital
-image: "https://picsum.photos/seed/days-sales-outstanding/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **days sales outstanding** — or **DSO** — equals 365 divided by [accounts-receivable-turnover](/accounts-receivable-turnover). A DSO of 45 means it takes an average of 45 days to collect payment from customers. Lower DSO signals faster collection and stronger cash flow.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/days-sales-outstanding/900/600"
 
 <div class="wiki-infobox-title">Days Sales Outstanding — key facts</div>
 
-<img src="https://picsum.photos/seed/days-sales-outstanding/900/600" alt="Collection period in days" />
+<img src="/svg/ratios.svg" alt="Collection period in days" />
 
 <div class="wiki-infobox-caption">Days to collect from customers.</div>
 

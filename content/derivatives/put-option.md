@@ -7,7 +7,7 @@ keywords:
   - option contract
   - downside protection
   - bearish strategy
-image: "https://picsum.photos/seed/put-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **put option** is a contract granting the holder the right—but not the obligation—to sell an underlying [stock](/stock) at a predetermined [strike price](/strike-price) on or before an [expiration date](/expiration-date). The buyer pays an [option premium](/option-premium) upfront, betting that the asset's price will fall below the strike, making the right to sell at the higher fixed price valuable.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/put-option/900/600"
 
 <div class="wiki-infobox-title">Put Option — key facts</div>
 
-<img src="https://picsum.photos/seed/put-option/900/600" alt="A downward pointing arrow on a financial chart" />
+<img src="/svg/derivatives.svg" alt="A downward pointing arrow on a financial chart" />
 
 <div class="wiki-infobox-caption">A put option grants the right to sell at a locked-in price.</div>
 

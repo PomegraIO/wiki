@@ -7,7 +7,7 @@ keywords:
   - index ETF
   - passive investing
   - fund
-image: "https://picsum.photos/seed/equity-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **equity ETF** — or **stock ETF** — is a [pooled investment vehicle](/etf) that holds a basket of [stocks](/stock) and trades on a [stock exchange](/stock-exchange) throughout the day, just like an individual share. An equity ETF gives you exposure to dozens, hundreds, or thousands of companies in a single transaction, making [diversification](/diversification) mechanical and cheap.*
@@ -22,7 +22,7 @@ This entry covers equity ETFs broadly. For the mechanics of how ETFs function, s
 
 <div class="wiki-infobox-title">Equity ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/equity-etf/900/600" alt="Multiple stock price charts on a digital display" />
+<img src="/svg/funds.svg" alt="Multiple stock price charts on a digital display" />
 
 <div class="wiki-infobox-caption">Equity ETFs bundle stocks into single, tradable securities.</div>
 

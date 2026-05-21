@@ -7,7 +7,7 @@ keywords:
   - conditional option
   - activation
   - exotic option
-image: "https://picsum.photos/seed/knock-in-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **knock-in option** is a [barrier option](/barrier-option) that does not exist (has zero value) until the underlying asset's price crosses a predetermined barrier level. Once the barrier is breached, the option is "activated" and behaves like a vanilla [call](/call-option) or [put](/put-option) for the remainder of its life. There are two types: **down-and-in** (activated when price falls below the barrier) and **up-and-in** (activated when price rises above the barrier). Knock-in options are cheaper than vanilla options because activation is uncertain.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/knock-in-option/900/600"
 
 <div class="wiki-infobox-title">Knock-In Option — key facts</div>
 
-<img src="https://picsum.photos/seed/knock-in-option/900/600" alt="Price path crossing barrier to activate option" />
+<img src="/svg/derivatives.svg" alt="Price path crossing barrier to activate option" />
 
 <div class="wiki-infobox-caption">Option activates when barrier is crossed.</div>
 

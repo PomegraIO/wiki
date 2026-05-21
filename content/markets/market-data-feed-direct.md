@@ -8,7 +8,7 @@ keywords:
   - real-time quotes
   - low latency
   - trading data
-image: "https://picsum.photos/seed/market-data-feed-direct/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **direct market data feed** is a real-time data stream offered by a stock exchange, providing quotes, trades, and order book information to subscribers. Direct feeds are faster than consolidated market data (the [SIP](/sip-securities-information-processor)) and show more detail (full order book), but come with subscription costs. Institutional investors and high-frequency traders rely on direct feeds.*
@@ -23,7 +23,7 @@ This entry is about exchange-provided data feeds. For the consolidated system, s
 
 <div class="wiki-infobox-title">Direct Market Data Feed — key facts</div>
 
-<img src="https://picsum.photos/seed/market-data-feed-direct/900/600" alt="A high-performance trading terminal receiving direct market data feeds" />
+<img src="/svg/markets.svg" alt="A high-performance trading terminal receiving direct market data feeds" />
 
 <div class="wiki-infobox-caption">Direct feeds are the premium data source for serious traders.</div>
 

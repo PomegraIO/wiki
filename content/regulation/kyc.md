@@ -7,7 +7,7 @@ keywords:
   - customer identification
   - anti-money laundering
   - compliance
-image: "https://picsum.photos/seed/kyc/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Know Your Customer (**KYC**) is a core compliance requirement for financial institutions. Banks, brokers, investment advisers, and other regulated entities must verify customer identity, understand their financial situation and business, and monitor their activity for suspicious patterns that might indicate money laundering or fraud. KYC is mandated by [anti-money laundering](/anti-money-laundering) laws worldwide and is a foundational component of financial system integrity.*
@@ -22,7 +22,7 @@ KYC is part of anti-money laundering (AML) compliance. Customer Due Diligence is
 
 <div class="wiki-infobox-title">KYC — key facts</div>
 
-<img src="https://picsum.photos/seed/kyc/900/600" alt="A KYC verification process" />
+<img src="/svg/regulation.svg" alt="A KYC verification process" />
 
 <div class="wiki-infobox-caption">A financial institution performing KYC verification.</div>
 

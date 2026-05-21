@@ -7,7 +7,7 @@ keywords:
   - bank regulation
   - market making
   - bank risk
-image: "https://picsum.photos/seed/volcker-rule/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Volcker Rule** is Section 619 of the [Dodd-Frank Act](/dodd-frank-act), named after former Federal Reserve Chairman Paul Volcker. It prohibits banks from engaging in proprietary trading — trading securities for their own account and profit — while preserving their ability to trade for customers (market-making) and to hold securities to manage risk. The rule is meant to prevent banks from taking large speculative positions that could blow them up.*
@@ -22,7 +22,7 @@ The Volcker Rule applies to banks and is part of the [Dodd-Frank Act](/dodd-fran
 
 <div class="wiki-infobox-title">Volcker Rule — key facts</div>
 
-<img src="https://picsum.photos/seed/volcker-rule/900/600" alt="A trading floor" />
+<img src="/svg/regulation.svg" alt="A trading floor" />
 
 <div class="wiki-infobox-caption">A bank trading floor where the Volcker Rule applies.</div>
 

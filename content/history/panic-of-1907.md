@@ -7,7 +7,7 @@ keywords:
   - trust company
   - Federal Reserve
   - financial regulation
-image: "https://picsum.photos/seed/panic-of-1907/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Panic of 1907** was the last major financial crisis of the pre-Federal Reserve era and the one that finally forced the creation of a central bank. Triggered by the failure of a trust company in New York, it metastasized into a system-wide credit freeze. Private bankers, led by J.P. Morgan, were mobilized to restore confidence — but their intervention only underscored the need for an official central authority.*
@@ -22,7 +22,7 @@ This entry covers the 1907 panic. For the institutional response, see [Federal R
 
 <div class="wiki-infobox-title">Panic of 1907 — key facts</div>
 
-<img src="https://picsum.photos/seed/panic-of-1907/900/600" alt="A contemporary photograph of anxious crowds outside a bank during the 1907 panic" />
+<img src="/svg/history.svg" alt="A contemporary photograph of anxious crowds outside a bank during the 1907 panic" />
 
 <div class="wiki-infobox-caption">Depositors lined the streets, desperate to withdraw their money before banks failed.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - repositioning
   - value creation
   - real estate strategy
-image: "https://picsum.photos/seed/value-add-real-estate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **value-add** real estate strategy involves purchasing underperforming or undermanaged properties, implementing operational improvements and/or capital upgrades, and then exiting at a higher valuation. Value-add is the middle ground between [core](/core-real-estate) (buy and hold stable assets) and [opportunistic](/opportunistic-real-estate) (speculative, high-risk bets).*
@@ -22,7 +22,7 @@ For comparison, see [core-real-estate](/core-real-estate) (stable hold) and [opp
 
 <div class="wiki-infobox-title">Value-Add Real Estate — key facts</div>
 
-<img src="https://picsum.photos/seed/value-add-real-estate/900/600" alt="A property improvement or renovation project" />
+<img src="/svg/real-estate.svg" alt="A property improvement or renovation project" />
 
 <div class="wiki-infobox-caption">Value-add investors buy underperforming properties and improve them.</div>
 

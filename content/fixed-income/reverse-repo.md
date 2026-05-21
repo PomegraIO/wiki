@@ -7,7 +7,7 @@ keywords:
   - collateralized lending
   - securities lending
   - cash management
-image: "https://picsum.photos/seed/reverse-repo/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **reverse repurchase agreement** — or **reverse repo** — is the opposite side of a [repurchase agreement](/repurchase-agreement). Rather than borrowing cash by selling securities, a party lends cash by purchasing securities with an agreement to sell them back at a higher price on a future date. Reverse repos are used to deploy excess cash earning a modest return, or by central banks to drain [liquidity](/stock-exchange) from the banking system.*
@@ -22,7 +22,7 @@ For the opposite transaction, see [repurchase agreement](/repurchase-agreement).
 
 <div class="wiki-infobox-title">Reverse Repurchase Agreement — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-repo/900/600" alt="A flow diagram showing cash and securities exchanged in reverse repos" />
+<img src="/svg/fixed-income.svg" alt="A flow diagram showing cash and securities exchanged in reverse repos" />
 
 <div class="wiki-infobox-caption">Reverse repos allow investors to lend cash and earn returns on safe collateral.</div>
 

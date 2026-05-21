@@ -7,7 +7,7 @@ keywords:
   - depositary shares
   - international stock
   - cross-listing
-image: "https://picsum.photos/seed/gdr/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A global depositary receipt (GDR) is a security similar to an [ADR](/equity/adr/) but issued in international markets (London, Luxembourg, etc.) and denominated in currencies other than USD. GDRs allow global investors (outside the US) to hold shares of foreign companies. A company can issue both [ADRs](/equity/adr/) (for the US market) and GDRs (for international markets) simultaneously, broadening its shareholder base across regions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/gdr/900/600"
 
 <div class="wiki-infobox-title">Global depositary receipt — key facts</div>
 
-<img src="https://picsum.photos/seed/gdr/900/600" alt="A GDR certificate showing global depositary structure" />
+<img src="/svg/equity.svg" alt="A GDR certificate showing global depositary structure" />
 
 <div class="wiki-infobox-caption">International security for global investor access.</div>
 

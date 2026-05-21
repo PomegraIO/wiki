@@ -6,7 +6,7 @@ keywords:
   - high-frequency trading
   - algorithmic trading
   - latency arbitrage
-image: "https://picsum.photos/seed/high-frequency-trading/900/600"
+image: "/svg/trading.svg"
 ---
 
 *High-frequency trading (HFT) is [algorithmic trading](/algorithmic-trading) at extreme speed. HFT firms use custom-built computers and fiber-optic cables to execute thousands of trades per second, exploiting tiny price discrepancies that last only milliseconds. HFT accounts for roughly 50% of U.S. equity trading volume and is controversial: proponents credit it with tighter spreads and greater liquidity; critics worry it causes flash crashes and harms retail traders.*
@@ -21,7 +21,7 @@ For slow algorithmic trading, see [algorithmic trading](/algorithmic-trading). F
 
 <div class="wiki-infobox-title">High-frequency trading — key facts</div>
 
-<img src="https://picsum.photos/seed/high-frequency-trading/900/600" alt="A server farm representing the infrastructure behind HFT" />
+<img src="/svg/trading.svg" alt="A server farm representing the infrastructure behind HFT" />
 
 <div class="wiki-infobox-caption">HFT firms use specialized hardware and software to trade at millisecond speeds.</div>
 

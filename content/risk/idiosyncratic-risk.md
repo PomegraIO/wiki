@@ -7,7 +7,7 @@ keywords:
   - firm-specific risk
   - company-unique risk
   - diversifiable risk
-image: "https://picsum.photos/seed/idiosyncratic-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Idiosyncratic risk — also called **unsystematic** or **firm-specific** risk — is the portion of a security's risk that is unique to that company and uncorrelated with broad market movements. It can be substantially reduced or eliminated through [diversification](/diversification), unlike [systematic-risk](/systematic-risk), which affects all assets.*
@@ -22,7 +22,7 @@ This entry covers company-specific risks. For the broad market risks you cannot 
 
 <div class="wiki-infobox-title">Idiosyncratic Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/idiosyncratic-risk/900/600" alt="A single company building sitting apart from a broad market landscape" />
+<img src="/svg/risk.svg" alt="A single company building sitting apart from a broad market landscape" />
 
 <div class="wiki-infobox-caption">Idiosyncratic risk is unique to a single firm; diversification eliminates it.</div>
 

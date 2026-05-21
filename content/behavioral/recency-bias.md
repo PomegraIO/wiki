@@ -7,7 +7,7 @@ keywords:
   - temporal bias
   - overweighting
   - recent evidence
-image: "https://picsum.photos/seed/recency-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Recency bias is the tendency to weigh recent events or data much more heavily than older information when forming judgments or making decisions. The last thing you saw feels more important than the average of everything that came before, even when the older information is more statistically reliable or more representative of the underlying reality.*
@@ -22,7 +22,7 @@ Related to availability heuristic. For distorted memory of past events, see [hin
 
 <div class="wiki-infobox-title">Recency bias — key facts</div>
 
-<img src="https://picsum.photos/seed/recency-bias/900/600" alt="A timeline with the recent section highlighted and enlarged" />
+<img src="/svg/behavioral.svg" alt="A timeline with the recent section highlighted and enlarged" />
 
 <div class="wiki-infobox-caption">Recent events loom larger in the mind than they should.</div>
 

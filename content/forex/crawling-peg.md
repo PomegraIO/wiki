@@ -7,7 +7,7 @@ keywords:
   - automatic adjustment
   - inflation offset
   - Chile
-image: "https://picsum.photos/seed/crawling-peg/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **crawling peg** is a [currency peg](/currency-peg) that adjusts in small, predetermined steps at regular intervals — for example, depreciating 0.5% per month (6% per year) to match a higher inflation rate. Instead of allowing the currency to become overvalued and then suddenly devaluing (a traumatic shock), a crawling peg degrades gradually. It reduces the speculative pressure that builds in [soft pegs](/soft-peg) because devaluation is expected and predictable.*
@@ -22,7 +22,7 @@ For pegs that do not adjust, see [hard peg](/hard-peg); for pegs that adjust irr
 
 <div class="wiki-infobox-title">Crawling Peg — key facts</div>
 
-<img src="https://picsum.photos/seed/crawling-peg/900/600" alt="A crawling peg line sloping downward in small steps" />
+<img src="/svg/forex.svg" alt="A crawling peg line sloping downward in small steps" />
 
 <div class="wiki-infobox-caption">Gradual depreciation by design; reduces shock of sudden devaluation.</div>
 

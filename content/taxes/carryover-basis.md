@@ -6,7 +6,7 @@ keywords:
   - gift basis
   - cost basis
   - inherited assets
-image: "https://picsum.photos/seed/carryover-basis/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **carryover basis** rule applies to gifts: when you receive an asset as a gift, your [cost basis](/cost-basis/) is the same as the donor's original [cost basis](/cost-basis/), not the fair market value at the time of the gift. If your parent bought [stock](/stock/) for $100 and gifted it to you when it was worth $500, your basis is $100—not $500. You inherit all embedded gains and all embedded losses. Carryover basis contrasts sharply with [step-up in basis](/step-up-in-basis/), which applies to inherited assets.*
@@ -21,7 +21,7 @@ For inherited assets (which receive [step-up in basis](/step-up-in-basis/) inste
 
 <div class="wiki-infobox-title">Carryover basis — key facts</div>
 
-<img src="https://picsum.photos/seed/carryover-basis/900/600" alt="A gift of stock showing original and gifted basis" />
+<img src="/svg/taxes.svg" alt="A gift of stock showing original and gifted basis" />
 
 <div class="wiki-infobox-caption">Gifts carry forward the donor's original cost basis, not fair market value.</div>
 

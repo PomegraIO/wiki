@@ -7,7 +7,7 @@ keywords:
   - operating profit
   - real estate cash flow
   - property income
-image: "https://picsum.photos/seed/net-operating-income/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *The **net operating income** (NOI) of a real estate property is its annual gross revenue minus operating expenses. It represents the profit available to pay debt service and provide returns to investors. NOI is the foundation of real estate valuation and the [cap rate](/cap-rate) calculation.*
@@ -22,7 +22,7 @@ For how NOI is used in valuation, see [cap-rate](/cap-rate). For real estate inv
 
 <div class="wiki-infobox-title">Net Operating Income — key facts</div>
 
-<img src="https://picsum.photos/seed/net-operating-income/900/600" alt="A real estate financial statement showing NOI calculation" />
+<img src="/svg/real-estate.svg" alt="A real estate financial statement showing NOI calculation" />
 
 <div class="wiki-infobox-caption">NOI is the profit from operating a property, before debt service and taxes.</div>
 

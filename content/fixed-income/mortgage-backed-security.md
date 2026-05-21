@@ -7,7 +7,7 @@ keywords:
   - residential mortgage
   - pool securitization
   - pass-through security
-image: "https://picsum.photos/seed/mortgage-backed-security/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **mortgage-backed security** — or **MBS** — is a debt instrument secured by a pool of residential mortgages. When homeowners make monthly mortgage payments (principal and interest), those payments flow through to MBS investors. The security provides [diversification](/diversification) across many borrowers, reducing any single borrower's default risk, though the pool remains exposed to housing market risk.*
@@ -22,7 +22,7 @@ For non-residential mortgage pools, see [commercial mortgage-backed security](/c
 
 <div class="wiki-infobox-title">Mortgage-Backed Security — key facts</div>
 
-<img src="https://picsum.photos/seed/mortgage-backed-security/900/600" alt="A residential neighborhood representing the underlying mortgages in an MBS pool" />
+<img src="/svg/fixed-income.svg" alt="A residential neighborhood representing the underlying mortgages in an MBS pool" />
 
 <div class="wiki-infobox-caption">MBS pools diversify mortgage credit risk across hundreds or thousands of properties.</div>
 

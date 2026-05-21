@@ -7,7 +7,7 @@ keywords:
   - recession
   - economic cycle
   - cycle phases
-image: "https://picsum.photos/seed/business-cycle/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The business cycle is the recurring pattern of expansion and contraction in overall economic activity — output, employment, [inflation](/inflation), and [interest rates](/interest-rate). It is fundamental to macroeconomics and determines whether the economy is growing robustly or weakening. The cycle has four phases: expansion (recovery), peak, contraction ([recession](/recession)), and trough.*
@@ -22,7 +22,7 @@ Business cycles are not predictable in timing but are inevitable. Expansions do 
 
 <div class="wiki-infobox-title">Business Cycle — key facts</div>
 
-<img src="https://picsum.photos/seed/business-cycle/900/600" alt="Business cycle phases" />
+<img src="/svg/macro.svg" alt="Business cycle phases" />
 
 <div class="wiki-infobox-caption">Actual GDP (red) fluctuates around potential GDP (blue trend); the gap defines where in the cycle we are.</div>
 

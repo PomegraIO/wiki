@@ -6,7 +6,7 @@ keywords:
   - preferential tax rate
   - holding period
   - asset holding
-image: "https://picsum.photos/seed/long-term-capital-gain-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **long-term capital gain** is the profit from selling an investment—[stock](/stock/), [bond](/bond/), [real estate](/), or other asset—held longer than one year. These gains receive preferential federal tax treatment: rates are fixed at 0%, 15%, or 20%, far lower than the ordinary [income tax rate](/tax-bracket-investor/) that can reach 37%. Long-term gains are the most tax-efficient way for most investors to generate returns.*
@@ -21,7 +21,7 @@ For assets held one year or less, see [short-term capital gain tax](/short-term-
 
 <div class="wiki-infobox-title">Long-term capital gain tax — key facts</div>
 
-<img src="https://picsum.photos/seed/long-term-capital-gain-tax/900/600" alt="A long-term investment portfolio showing compound growth" />
+<img src="/svg/taxes.svg" alt="A long-term investment portfolio showing compound growth" />
 
 <div class="wiki-infobox-caption">Long-term holding enables preferential tax treatment and compound wealth growth.</div>
 

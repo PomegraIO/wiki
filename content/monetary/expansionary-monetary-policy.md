@@ -7,7 +7,7 @@ keywords:
   - low interest rates
   - recession
   - stimulus
-image: "https://picsum.photos/seed/expansionary-monetary-policy/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *An **expansionary monetary policy** — also called **monetary easing** — is a central bank's effort to lower interest rates, increase the money supply, and make credit cheaper and more available in order to spur borrowing, spending, investment, and economic growth. It is the standard policy response to a [recession](/recession) or when unemployment is unacceptably high.*
@@ -22,7 +22,7 @@ This entry covers the general posture. For the specific tools a central bank use
 
 <div class="wiki-infobox-title">Expansionary Monetary Policy — key facts</div>
 
-<img src="https://picsum.photos/seed/expansionary-monetary-policy/900/600" alt="Interest rate gauge pointing downward" />
+<img src="/svg/monetary.svg" alt="Interest rate gauge pointing downward" />
 
 <div class="wiki-infobox-caption">Expansionary policy lowers interest rates to stimulate growth and employment.</div>
 

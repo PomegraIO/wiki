@@ -7,7 +7,7 @@ keywords:
   - battery
   - automotive
   - recycling
-image: "https://picsum.photos/seed/lead/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **lead** — a soft, dense, blue-gray metal whose toxicity is well-known but whose utility persists — is a commodity whose demand is dominated by automotive starting batteries and industrial-battery production. Lead is the world's most recycled major metal, with roughly 85% of lead supply coming from recycled scrap batteries, making the lead market largely a closed-loop system.*
@@ -22,7 +22,7 @@ This entry covers lead as a traded commodity. For lead mining and battery stocks
 
 <div class="wiki-infobox-title">Lead — key facts</div>
 
-<img src="https://picsum.photos/seed/lead/900/600" alt="Lead ore and refined lead ingots" />
+<img src="/svg/commodities.svg" alt="Lead ore and refined lead ingots" />
 
 <div class="wiki-infobox-caption">Lead in ore and refined ingot forms.</div>
 

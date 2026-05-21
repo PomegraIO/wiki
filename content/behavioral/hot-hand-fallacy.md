@@ -7,7 +7,7 @@ keywords:
   - streak
   - momentum
   - overextension
-image: "https://picsum.photos/seed/hot-hand-fallacy/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Hot-hand fallacy is the belief that a successful streak in recent performance predicts continued success in the immediate future. A fund manager beats the market for three years, and the fallacy says she will beat it in the fourth year. A stock has risen 15% in the past month, and the fallacy says it will continue rising. In reality, past success does not predict future success; in fact, extreme past performance is often followed by reversion to average.*
@@ -22,7 +22,7 @@ The opposite of gamblers fallacy. Related to momentum effect and representativen
 
 <div class="wiki-infobox-title">Hot-hand fallacy — key facts</div>
 
-<img src="https://picsum.photos/seed/hot-hand-fallacy/900/600" alt="A performer mid-jump with momentum carrying upward" />
+<img src="/svg/behavioral.svg" alt="A performer mid-jump with momentum carrying upward" />
 
 <div class="wiki-infobox-caption">The hand is hot, but heat does not persist.</div>
 

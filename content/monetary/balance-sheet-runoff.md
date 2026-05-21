@@ -7,7 +7,7 @@ keywords:
   - redemptions
   - quantitative tightening
   - maturity
-image: "https://picsum.photos/seed/balance-sheet-runoff/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **balance-sheet runoff** is a central bank's passive reduction of its assets by allowing securities to mature and paying down the principal without reinvesting the proceeds. Rather than actively selling [bonds](/bond), the central bank simply lets the principal flow back when maturing securities are redeemed. Over months or years, this shrinks the balance sheet and drains money from the financial system—a key part of [quantitative tightening](/quantitative-tightening).*
@@ -22,7 +22,7 @@ This entry covers passive runoff (no reinvestment). For active shrinkage through
 
 <div class="wiki-infobox-title">Balance-Sheet Runoff — key facts</div>
 
-<img src="https://picsum.photos/seed/balance-sheet-runoff/900/600" alt="Central bank securities maturing and not being replaced" />
+<img src="/svg/monetary.svg" alt="Central bank securities maturing and not being replaced" />
 
 <div class="wiki-infobox-caption">Runoff shrinks the balance sheet slowly but reliably as securities mature.</div>
 

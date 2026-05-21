@@ -7,7 +7,7 @@ keywords:
   - commercial real estate
   - downtown office
   - hybrid work
-image: "https://picsum.photos/seed/office-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **office REIT** owns and operates office buildings, corporate parks, and commercial workspace. Historically, office was a stable and large REIT sector, but pandemic-driven adoption of remote and hybrid work has created structural headwinds, with declining occupancy, rent pressure, and valuations under pressure.*
@@ -22,7 +22,7 @@ This entry focuses on office REITs as a property sector. For the broader REIT st
 
 <div class="wiki-infobox-title">Office REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/office-reit/900/600" alt="A modern office building or downtown corporate campus" />
+<img src="/svg/real-estate.svg" alt="A modern office building or downtown corporate campus" />
 
 <div class="wiki-infobox-caption">Office REITs own buildings where professional work traditionally happened.</div>
 

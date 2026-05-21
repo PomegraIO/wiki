@@ -7,7 +7,7 @@ keywords:
   - IFRS
   - standards-setter
   - global accounting
-image: "https://picsum.photos/seed/iasb/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **International Accounting Standards Board** (IASB) is the independent, not-for-profit organization that develops and maintains [IFRS](/international-financial-reporting-standards) — the accounting standards used by public companies in over 140 countries. The IASB is the global equivalent of the US [FASB](/fasb). It is funded by contributions from governments, companies, and regulators to ensure independence. The IASB works with national regulators, auditors, and companies to develop standards that facilitate international comparability of financial statements.*
@@ -22,7 +22,7 @@ This entry covers the IASB's role. For the standards it develops, see [IFRS](/in
 
 <div class="wiki-infobox-title">IASB — key facts</div>
 
-<img src="https://picsum.photos/seed/iasb/900/600" alt="A global view of the IASB's influence, representing standards across multiple continents" />
+<img src="/svg/accounting.svg" alt="A global view of the IASB's influence, representing standards across multiple continents" />
 
 <div class="wiki-infobox-caption">The IASB sets accounting standards used in over 140 countries.</div>
 

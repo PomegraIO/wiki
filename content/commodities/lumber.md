@@ -7,7 +7,7 @@ keywords:
   - construction
   - housing
   - commodity
-image: "https://picsum.photos/seed/lumber/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **lumber** — softwood timber used as structural framing in residential and commercial construction — is a commodity whose price is tightly coupled to housing starts and construction activity. Lumber prices are highly cyclical, spiking during building booms and crashing during housing downturns. Geographic separation of North American lumber markets (US, Canada, Western US) creates regional price variation.*
@@ -22,7 +22,7 @@ This entry covers lumber as a commodity. Lumber prices are regional and dependen
 
 <div class="wiki-infobox-title">Lumber — key facts</div>
 
-<img src="https://picsum.photos/seed/lumber/900/600" alt="Lumber mill and construction site" />
+<img src="/svg/commodities.svg" alt="Lumber mill and construction site" />
 
 <div class="wiki-infobox-caption">Lumber — the backbone of residential construction.</div>
 

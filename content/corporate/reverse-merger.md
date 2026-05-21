@@ -7,7 +7,7 @@ keywords:
   - private to public
   - shell company
   - SPAC alternative
-image: "https://picsum.photos/seed/reverse-merger/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **reverse merger** (or **reverse takeover**) is a transaction in which a private company acquires a public company and takes control of it. The private company's owners end up controlling the combined entity, which retains the public company's public listing. Reverse mergers allow private companies to access public capital markets and become publicly traded without undergoing a traditional [initial public offering](/initial-public-offering). They are less regulated than IPOs but are also riskier, and have been associated with fraud and accounting irregularities.*
@@ -22,7 +22,7 @@ This entry covers reverse mergers as a public market entry mechanism. For tradit
 
 <div class="wiki-infobox-title">Reverse merger — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-merger/900/600" alt="Private company taking over public company" />
+<img src="/svg/corporate.svg" alt="Private company taking over public company" />
 
 <div class="wiki-infobox-caption">A reverse merger gives a private company public market access.</div>
 

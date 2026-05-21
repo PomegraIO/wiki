@@ -6,7 +6,7 @@ keywords:
   - volume-weighted average price
   - algorithmic order
   - execution
-image: "https://picsum.photos/seed/vwap-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **VWAP order** (volume-weighted average price) is an [algorithmic order](/algorithmic-trading) that automatically breaks your large trade into small pieces and executes them throughout the trading day. The algorithm targets an execution price equal to or better than the day's VWAP — the price that accounts for trading volume at each level. Institutional traders use VWAP to execute large positions with minimal market impact.*
@@ -21,7 +21,7 @@ For a simpler time-based slicing, see [TWAP order](/twap-order). For manual size
 
 <div class="wiki-infobox-title">VWAP order — key facts</div>
 
-<img src="https://picsum.photos/seed/vwap-order/900/600" alt="A price chart showing VWAP line and sliced executions" />
+<img src="/svg/trading.svg" alt="A price chart showing VWAP line and sliced executions" />
 
 <div class="wiki-infobox-caption">VWAP order (red line) targets the volume-weighted average price for the day.</div>
 

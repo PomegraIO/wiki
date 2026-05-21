@@ -7,7 +7,7 @@ keywords:
   - economic recovery
   - spending increase
   - tax cut
-image: "https://picsum.photos/seed/stimulus-package/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **stimulus package** is a temporary fiscal program — usually combining spending increases and/or tax cuts — enacted in response to a [recession](/recession), financial crisis, or severe economic shock. The goal is to boost [aggregate demand](/central-bank), prevent [unemployment](/central-bank) from rising further, and stabilize economic growth.*
@@ -22,7 +22,7 @@ This entry covers emergency fiscal response. For the broader policy framework, s
 
 <div class="wiki-infobox-title">Stimulus Package — key facts</div>
 
-<img src="https://picsum.photos/seed/stimulus-package/900/600" alt="Stimulus package" />
+<img src="/svg/fiscal.svg" alt="Stimulus package" />
 
 <div class="wiki-infobox-caption">Stimulus packages boost demand during economic crises.</div>
 

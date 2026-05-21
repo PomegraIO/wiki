@@ -7,7 +7,7 @@ keywords:
   - United States
   - banking panic
   - deflation
-image: "https://picsum.photos/seed/panic-of-1837/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Panic of 1837** was the first major financial crisis of the United States in the nineteenth century. Triggered by speculative excess in western land, overextension by unregulated banks, and the failure of a major cotton merchant, it sent the economy into deep contraction. Unemployment soared and the panic exposed the fragility of a banking system with no central authority to backstop confidence.*
@@ -22,7 +22,7 @@ This entry covers the 1837 panic. For the subsequent Long Depression, see [Long 
 
 <div class="wiki-infobox-title">Panic of 1837 — key facts</div>
 
-<img src="https://picsum.photos/seed/panic-of-1837/900/600" alt="A woodcut depicting crowds at a bank demanding their deposits during the 1837 panic" />
+<img src="/svg/history.svg" alt="A woodcut depicting crowds at a bank demanding their deposits during the 1837 panic" />
 
 <div class="wiki-infobox-caption">Bank runs during the Panic of 1837 left depositors and speculators ruined.</div>
 

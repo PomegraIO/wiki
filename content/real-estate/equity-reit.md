@@ -7,7 +7,7 @@ keywords:
   - rental income
   - real estate ownership
   - dividend
-image: "https://picsum.photos/seed/equity-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **equity REIT** owns and operates income-producing properties and distributes most of its profit as dividends. Unlike [mortgage REITs](/mortgage-reit), which hold mortgages and mortgage-backed securities, equity REITs are actual landlords — they collect rents, manage buildings, and benefit from property appreciation.*
@@ -22,7 +22,7 @@ This entry focuses on equity REITs broadly. For specific property types — indu
 
 <div class="wiki-infobox-title">Equity REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/equity-reit/900/600" alt="An apartment or office building owned by an equity REIT" />
+<img src="/svg/real-estate.svg" alt="An apartment or office building owned by an equity REIT" />
 
 <div class="wiki-infobox-caption">Equity REITs own physical properties and collect rents from tenants.</div>
 

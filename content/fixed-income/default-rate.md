@@ -7,7 +7,7 @@ keywords:
   - credit risk
   - bond default
   - default statistics
-image: "https://picsum.photos/seed/default-rate/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **default rate** is the percentage of bond issuers that default on their obligations within a specified period (typically one year). Default rates vary significantly by [credit rating](/credit-rating), economic cycle, and industry. Investment-grade default rates are typically under 1% annually; [high-yield](/high-yield-bond) default rates are 2–4% in normal periods but can spike to 8%+ in severe recessions.*
@@ -22,7 +22,7 @@ For recovery after default, see [recovery rate](/option-adjusted-spread). For cr
 
 <div class="wiki-infobox-title">Default Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/default-rate/900/600" alt="A graph showing default rates by credit rating over economic cycles" />
+<img src="/svg/fixed-income.svg" alt="A graph showing default rates by credit rating over economic cycles" />
 
 <div class="wiki-infobox-caption">Default rates spike in recessions, revealing the cyclical nature of credit risk.</div>
 

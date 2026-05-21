@@ -7,7 +7,7 @@ keywords:
   - founders' equity
   - founder control
   - founder vesting
-image: "https://picsum.photos/seed/founder-shares/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Founder shares are the equity holdings granted to company founders, typically granted upon incorporation or shortly after. They may be subject to [vesting schedules](/equity/vesting-schedule/) (especially in venture-backed startups), carry superior voting rights (in [dual-class](/equity/dual-class-shares/) or [multi-class structures](/equity/share-class/)), or include other protective provisions, but generally represent the founder's ownership stake and the engine of their long-term wealth.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/founder-shares/900/600"
 
 <div class="wiki-infobox-title">Founder shares — key facts</div>
 
-<img src="https://picsum.photos/seed/founder-shares/900/600" alt="A founders' cap table showing vested and unvested equity" />
+<img src="/svg/equity.svg" alt="A founders' cap table showing vested and unvested equity" />
 
 <div class="wiki-infobox-caption">Early equity stakes, often subject to vesting and protective provisions.</div>
 

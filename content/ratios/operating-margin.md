@@ -7,7 +7,7 @@ keywords:
   - profitability
   - operating income
   - core business
-image: "https://picsum.photos/seed/operating-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **operating margin** — or **operating profit margin** — divides operating income (EBIT) by revenue and expresses it as a percentage. Operating income is revenue minus all operating expenses — cost of goods sold, selling expenses, general and administrative costs, and R&D — but before interest and taxes. A 15% operating margin means the business generates 15 cents of operating profit for every dollar of sales.*
@@ -22,7 +22,7 @@ This entry covers the core profitability metric. For gross profitability, see [g
 
 <div class="wiki-infobox-title">Operating Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/operating-margin/900/600" alt="Operating profit as a percentage of revenue" />
+<img src="/svg/ratios.svg" alt="Operating profit as a percentage of revenue" />
 
 <div class="wiki-infobox-caption">The profit from core business operations, before financing and taxes.</div>
 

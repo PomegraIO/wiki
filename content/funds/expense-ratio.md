@@ -8,7 +8,7 @@ keywords:
   - annual fee
   - basis points
   - fund
-image: "https://picsum.photos/seed/expense-ratio/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **expense ratio** is the annual percentage cost of owning a [mutual fund](/mutual-fund) or [ETF](/etf). It covers [management fees](/management-fee), administrative costs, custody fees, legal fees, and other operating expenses. The [expense ratio](/expense-ratio) is deducted from the fund's returns before calculating the return you see. An [expense ratio](/expense-ratio) of 0.10% on a $100,000 investment costs $100 per year.*
@@ -23,7 +23,7 @@ This entry covers expense ratios broadly. For the [management fee](/management-f
 
 <div class="wiki-infobox-title">Expense Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/expense-ratio/900/600" alt="A chart showing how expense ratios compound and erode returns over time" />
+<img src="/svg/funds.svg" alt="A chart showing how expense ratios compound and erode returns over time" />
 
 <div class="wiki-infobox-caption">Expense ratios are annual drains on investment returns.</div>
 

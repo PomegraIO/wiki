@@ -8,7 +8,7 @@ keywords:
   - order matching
   - price discovery
   - first trade
-image: "https://picsum.photos/seed/opening-auction-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **opening auction** is the mechanism by which stock exchanges transition from [pre-market](/pre-market-trading) trading to [regular trading hours](/regular-trading-hours). Investors submit orders overnight; at 9:30 AM Eastern Time (in the US), the exchange runs an auction to match buy and sell orders at a single opening price. The opening auction is crucial for [price discovery](/stock-market) because it aggregates overnight demand and supply into one transaction.*
@@ -23,7 +23,7 @@ This entry is about the mechanism opening each trading day. For the mechanism cl
 
 <div class="wiki-infobox-title">Opening Auction — key facts</div>
 
-<img src="https://picsum.photos/seed/opening-auction-detail/900/600" alt="A stock exchange trading floor at 9:30 AM as the opening bell rings" />
+<img src="/svg/markets.svg" alt="A stock exchange trading floor at 9:30 AM as the opening bell rings" />
 
 <div class="wiki-infobox-caption">The opening auction aggregates overnight orders into a single opening price.</div>
 

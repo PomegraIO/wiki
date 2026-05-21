@@ -7,7 +7,7 @@ keywords:
   - emerging market
   - sovereign debt
   - developing country
-image: "https://picsum.photos/seed/brady-bond/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **Brady bond** is a US-dollar denominated [bond](/bond) issued by an emerging-market or developing country as part of a [debt restructuring](/debt-restructuring) deal. Named after the 1989 Brady Plan, these bonds gave creditors a tradeable claim on restructured debt and allowed countries to return to capital markets after [default](/sovereign-default) or [fiscal crisis](/fiscal-consolidation).*
@@ -22,7 +22,7 @@ This entry covers the restructuring instrument. For the broader process, see [de
 
 <div class="wiki-infobox-title">Brady Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/brady-bond/900/600" alt="Brady bond" />
+<img src="/svg/fiscal.svg" alt="Brady bond" />
 
 <div class="wiki-infobox-caption">Brady bonds restructured emerging-market debt in the 1990s.</div>
 

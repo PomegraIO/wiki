@@ -7,7 +7,7 @@ keywords:
   - credit exposure
   - derivative risk
   - bilateral risk
-image: "https://picsum.photos/seed/counterparty-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Counterparty risk is the risk that the other party to a financial contract — a borrower, broker, [bond](/bond) issuer, or derivatives counterparty — will fail to deliver on its obligations. It is a form of [credit-risk](/credit-risk) but extends beyond simple lending to include all financial contracts with future cash flows or settlements.*
@@ -22,7 +22,7 @@ This entry covers the risk that any counterparty fails to perform. For the speci
 
 <div class="wiki-infobox-title">Counterparty Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/counterparty-risk/900/600" alt="Two hands reaching to shake, one suddenly disappearing, leaving a broken bridge" />
+<img src="/svg/risk.svg" alt="Two hands reaching to shake, one suddenly disappearing, leaving a broken bridge" />
 
 <div class="wiki-infobox-caption">Counterparty risk materializes when the other party fails to perform.</div>
 

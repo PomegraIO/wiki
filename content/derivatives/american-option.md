@@ -7,7 +7,7 @@ keywords:
   - option pricing
   - flexible exercise
   - derivative
-image: "https://picsum.photos/seed/american-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An **American option** is a [call option](/call-option) or [put option](/put-option) that can be exercised at any time up to and including the [expiration date](/expiration-date), not just on that final day. This flexibility makes American options more valuable than otherwise identical [european-option](/european-option) options, particularly when early exercise can be advantageous. American options are the standard contract on individual [stock](/stock) options in the United States.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/american-option/900/600"
 
 <div class="wiki-infobox-title">American Option — key facts</div>
 
-<img src="https://picsum.photos/seed/american-option/900/600" alt="Multiple calendar dates showing flexible exercise timing" />
+<img src="/svg/derivatives.svg" alt="Multiple calendar dates showing flexible exercise timing" />
 
 <div class="wiki-infobox-caption">American options offer the flexibility to exercise at any time before expiration.</div>
 

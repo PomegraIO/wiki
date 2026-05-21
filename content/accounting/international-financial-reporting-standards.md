@@ -7,7 +7,7 @@ keywords:
   - accounting convergence
   - public company accounting
   - global standards
-image: "https://picsum.photos/seed/international-financial-reporting-standards/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *Publicly traded companies in most countries outside the United States use **IFRS** — **International Financial Reporting Standards** — to prepare financial statements. IFRS is issued by the [IASB](/iasb), an independent standards-setter, and is used by over 140 countries. It is similar in spirit to [GAAP](/generally-accepted-accounting-principles) but differs in important ways: IFRS is more principle-based, with less detailed guidance, and it emphasizes the substance of transactions over their legal form.*
@@ -22,7 +22,7 @@ This entry covers IFRS in general. For the US standard, see [GAAP](/generally-ac
 
 <div class="wiki-infobox-title">IFRS — key facts</div>
 
-<img src="https://picsum.photos/seed/international-financial-reporting-standards/900/600" alt="A globally scaled financial statement document with IFRS disclosures" />
+<img src="/svg/accounting.svg" alt="A globally scaled financial statement document with IFRS disclosures" />
 
 <div class="wiki-infobox-caption">IFRS standardizes accounting across over 140 countries.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - core inflation
   - underlying inflation
   - price rigidity
-image: "https://picsum.photos/seed/sticky-price-cpi/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Sticky-price CPI measures [inflation](/inflation) in items with infrequent price changes — rents, healthcare, insurance, subscriptions — that tend to adjust slowly even when economic conditions change. It is often more persistent than [core inflation](/core-inflation) and can be a better leading indicator of future [inflation](/inflation) pressures.*
@@ -22,7 +22,7 @@ Sticky-price CPI typically runs 0.5–1.0 percentage points above [core CPI](/co
 
 <div class="wiki-infobox-title">Sticky-Price CPI — key facts</div>
 
-<img src="https://picsum.photos/seed/sticky-price-cpi/900/600" alt="Sticky-price inflation trends" />
+<img src="/svg/macro.svg" alt="Sticky-price inflation trends" />
 
 <div class="wiki-infobox-caption">Sticky-price CPI often turns faster than core in response to wage pressures.</div>
 

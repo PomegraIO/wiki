@@ -8,7 +8,7 @@ keywords:
   - fixed income
   - FX trading
   - dealer
-image: "https://picsum.photos/seed/single-dealer-platform/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **single-dealer platform (SDP)** is an electronic trading venue operated by a single bank or broker-dealer, allowing clients to trade with that dealer directly. Common in the [fixed-income](/bond) and [foreign exchange](/stock-market) markets, SDPs show only the dealer's prices and available inventory. They contrast with [swap execution facilities](/swap-execution-facility), which are multi-dealer platforms. SDPs provide convenience but limit price competition compared to shopping across multiple dealers.*
@@ -23,7 +23,7 @@ This entry is about single-dealer venues. For multi-dealer platforms, see [swap 
 
 <div class="wiki-infobox-title">Single-Dealer Platform — key facts</div>
 
-<img src="https://picsum.photos/seed/single-dealer-platform/900/600" alt="A trading terminal showing prices and inventory from a single dealer" />
+<img src="/svg/markets.svg" alt="A trading terminal showing prices and inventory from a single dealer" />
 
 <div class="wiki-infobox-caption">SDPs offer convenience but lack the price competition of multi-dealer platforms.</div>
 

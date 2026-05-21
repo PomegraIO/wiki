@@ -6,7 +6,7 @@ keywords:
   - FOK order
   - order types
   - execution condition
-image: "https://picsum.photos/seed/fill-or-kill/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **fill-or-kill (FOK) order** is an instruction that must execute completely and immediately at your specified price, or be canceled entirely. No partial fills, no waiting. If 10,000 shares are not available to buy or sell right now at your price, the entire order is killed. FOK is used by traders who want all-or-nothing execution or prefer to move on rather than split a large order.*
@@ -21,7 +21,7 @@ For immediate execution with partial fills allowed, see [immediate-or-cancel](/i
 
 <div class="wiki-infobox-title">Fill-or-kill order — key facts</div>
 
-<img src="https://picsum.photos/seed/fill-or-kill/900/600" alt="A trading terminal showing a FOK order result" />
+<img src="/svg/trading.svg" alt="A trading terminal showing a FOK order result" />
 
 <div class="wiki-infobox-caption">FOK: all-or-nothing, now-or-never execution.</div>
 

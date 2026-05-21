@@ -7,7 +7,7 @@ keywords:
   - stock discount
   - qualified plan
   - employee purchase
-image: "https://picsum.photos/seed/espp/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An employee stock purchase plan (ESPP) is a qualified retirement plan that allows employees to purchase [company stock](/stock/) at a discount — typically 10–15% below the current market price. Funds are usually withheld from payroll over a 6–24 month "offering period," and at the end of the period, the employee buys shares at the discounted price. ESPPs are tax-advantaged and nearly universal in large public companies.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/espp/900/600"
 
 <div class="wiki-infobox-title">ESPP — key facts</div>
 
-<img src="https://picsum.photos/seed/espp/900/600" alt="An employee payroll deduction authorization for ESPP" />
+<img src="/svg/equity.svg" alt="An employee payroll deduction authorization for ESPP" />
 
 <div class="wiki-infobox-caption">Payroll-deducted equity purchase at guaranteed discount.</div>
 

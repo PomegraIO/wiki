@@ -7,7 +7,7 @@ keywords:
   - conviction
   - momentum
   - technical analysis
-image: "https://picsum.photos/seed/marubozu/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **marubozu** is a candlestick that lacks both upper and lower wicks, creating a pure rectangle from open to high (or from close to low, depending on direction). The Japanese term means "bald" or "without eyebrows," reflecting the absence of the thin wick lines. A marubozu signals strong conviction: for the entire period, one side (buyers or sellers) maintained complete control, pushing prices in one direction from opening to closing (or from the extreme to the open) with no rejection or consolidation. It is one of the few candlestick patterns that academics and technicians both recognize as statistically meaningful.*
@@ -22,7 +22,7 @@ For the basic structure of candlesticks, see [candlestick chart](/technical-anal
 
 <div class="wiki-infobox-title">Marubozu — key facts</div>
 
-<img src="https://picsum.photos/seed/marubozu/900/600" alt="A marubozu candlestick with no upper or lower wicks, a pure rectangle" />
+<img src="/svg/technical-analysis.svg" alt="A marubozu candlestick with no upper or lower wicks, a pure rectangle" />
 
 <div class="wiki-infobox-caption">A classic marubozu: a pure rectangle with no wicks, showing complete directional control throughout the period.</div>
 

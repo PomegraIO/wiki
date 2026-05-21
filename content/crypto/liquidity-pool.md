@@ -8,7 +8,7 @@ keywords:
   - liquidity provider
   - trading fee
   - impermanent loss
-image: "https://picsum.photos/seed/liquidity-pool/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **liquidity pool** is a smart contract that holds paired cryptocurrency tokens and enables peer-to-peer trading through an [automated market maker](/automated-market-maker) mechanism. Users (called [liquidity providers](/liquidity-provider)) deposit equal values of two tokens and earn trading fees. Pool prices adjust automatically based on the ratio of tokens in the pool.*
@@ -23,7 +23,7 @@ This entry covers liquidity pools. For the AMM mechanism, see [automated market 
 
 <div class="wiki-infobox-title">Liquidity Pool — key facts</div>
 
-<img src="https://picsum.photos/seed/liquidity-pool/900/600" alt="Liquidity pool with token deposit and withdrawal" />
+<img src="/svg/crypto.svg" alt="Liquidity pool with token deposit and withdrawal" />
 
 <div class="wiki-infobox-caption">A liquidity pool: earn fees by providing liquidity.</div>
 

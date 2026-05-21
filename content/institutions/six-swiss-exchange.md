@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Switzerland
   - Zurich
-image: "https://picsum.photos/seed/six-swiss-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **SIX Swiss Exchange** is Switzerland's primary [stock exchange](/stock-exchange), headquartered in Zurich and serving as the venue for equities trading in Switzerland and a gateway for international investors seeking exposure to Swiss and broader Alpine economy firms. The exchange is part of SIX Group, a vertically integrated financial infrastructure company that also operates derivatives markets, clearing, and settlement services.*
@@ -22,7 +22,7 @@ SIX is both the exchange operator and a major clearing and custody provider for 
 
 <div class="wiki-infobox-title">SIX Swiss Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/six-swiss-exchange/900/600" alt="The SIX Swiss Exchange trading floor in Zurich" />
+<img src="/svg/institutions.svg" alt="The SIX Swiss Exchange trading floor in Zurich" />
 
 <div class="wiki-infobox-caption">The SIX Group's headquarters and trading operations in Zurich.</div>
 

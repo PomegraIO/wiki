@@ -7,7 +7,7 @@ keywords:
   - dividend
   - liquidity
   - real estate equity
-image: "https://picsum.photos/seed/real-estate-investment-trust/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **REIT** — real estate investment trust — is a publicly traded company that owns, finances, or manages income-producing real estate and distributes the vast majority of its profits to shareholders as dividends. REITs offer direct exposure to real estate assets without the capital intensity, illiquidity, and operational burden of owning a building outright.*
@@ -22,7 +22,7 @@ This entry covers REITs broadly. For specific strategies — equity REITs, mortg
 
 <div class="wiki-infobox-title">REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/real-estate-investment-trust/900/600" alt="A REIT company headquarters or office building" />
+<img src="/svg/real-estate.svg" alt="A REIT company headquarters or office building" />
 
 <div class="wiki-infobox-caption">REITs own, operate, and finance income-producing properties on behalf of shareholders.</div>
 

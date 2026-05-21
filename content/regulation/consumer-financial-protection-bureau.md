@@ -8,7 +8,7 @@ keywords:
   - financial regulation
   - fair lending
   - predatory lending
-image: "https://picsum.photos/seed/consumer-financial-protection-bureau/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Consumer Financial Protection Bureau** (CFPB) is a federal agency created by the [Dodd-Frank Act](/dodd-frank-act) in 2010 to protect consumers from unfair, deceptive, or abusive practices in financial services. It writes rules, examines lenders and servicers, and brings enforcement actions against firms that harm consumers through fraud, predatory lending, or hidden fees.*
@@ -23,7 +23,7 @@ The CFPB protects consumers. The [SEC](/securities-and-exchange-commission) prot
 
 <div class="wiki-infobox-title">CFPB — key facts</div>
 
-<img src="https://picsum.photos/seed/consumer-financial-protection-bureau/900/600" alt="A consumer financial services office" />
+<img src="/svg/regulation.svg" alt="A consumer financial services office" />
 
 <div class="wiki-infobox-caption">A consumer lending office typical of those overseen by the CFPB.</div>
 

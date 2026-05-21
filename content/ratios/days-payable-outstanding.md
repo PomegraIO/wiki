@@ -7,7 +7,7 @@ keywords:
   - accounts payable
   - payment period
   - working capital
-image: "https://picsum.photos/seed/days-payable-outstanding/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **days payable outstanding** — or **DPO** — equals 365 divided by [accounts-payable-turnover](/accounts-payable-turnover). A DPO of 60 means the company takes an average of 60 days to pay suppliers. Higher DPO improves working capital but can strain supplier relationships.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/days-payable-outstanding/900/600"
 
 <div class="wiki-infobox-title">Days Payable Outstanding — key facts</div>
 
-<img src="https://picsum.photos/seed/days-payable-outstanding/900/600" alt="Payment period to suppliers in days" />
+<img src="/svg/ratios.svg" alt="Payment period to suppliers in days" />
 
 <div class="wiki-infobox-caption">Days to pay suppliers on average.</div>
 

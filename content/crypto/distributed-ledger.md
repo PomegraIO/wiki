@@ -8,7 +8,7 @@ keywords:
   - blockchain
   - peer-to-peer
   - consensus
-image: "https://picsum.photos/seed/distributed-ledger/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **distributed ledger** is a database that is replicated and synchronised across multiple independent computers without a central authority. Each computer (called a node) holds a full or partial copy of the ledger, and the network uses a consensus mechanism to ensure all copies agree on the state of accounts and transactions.*
@@ -23,7 +23,7 @@ This entry covers distributed ledgers as a concept. For blockchains specifically
 
 <div class="wiki-infobox-title">Distributed Ledger — core characteristics</div>
 
-<img src="https://picsum.photos/seed/distributed-ledger/900/600" alt="Distributed network of nodes maintaining copies of ledger" />
+<img src="/svg/crypto.svg" alt="Distributed network of nodes maintaining copies of ledger" />
 
 <div class="wiki-infobox-caption">A distributed ledger: many copies, no central authority.</div>
 

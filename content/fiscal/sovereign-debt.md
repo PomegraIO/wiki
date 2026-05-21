@@ -7,7 +7,7 @@ keywords:
   - treasury securities
   - national debt
   - public debt
-image: "https://picsum.photos/seed/sovereign-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **sovereign debt** is any financial obligation issued by a government — typically bonds, bills, or notes that investors purchase. It is the mechanism by which governments borrow money to finance [budget deficits](/budget-deficit) and refinance maturing debt.*
@@ -22,7 +22,7 @@ This entry covers government debt instruments. For the total accumulated stock, 
 
 <div class="wiki-infobox-title">Sovereign Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/sovereign-debt/900/600" alt="Sovereign debt" />
+<img src="/svg/fiscal.svg" alt="Sovereign debt" />
 
 <div class="wiki-infobox-caption">Sovereign debt is the instrument of government borrowing.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - bank
   - financial services
   - American bank
-image: "https://picsum.photos/seed/bank-of-america/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Bank of America Corp.** is one of the largest [banks](/broker) in the United States, headquartered in Charlotte, North Carolina. Operating through consumer banking, global banking and markets, and wealth management divisions, Bank of America serves millions of individuals, small and medium businesses, large corporations, and institutional investors globally.*
@@ -22,7 +22,7 @@ Bank of America was formed in 1998 through the merger of BankAmerica Corporation
 
 <div class="wiki-infobox-title">Bank of America — key facts</div>
 
-<img src="https://picsum.photos/seed/bank-of-america/900/600" alt="Bank of America headquarters in Charlotte" />
+<img src="/svg/institutions.svg" alt="Bank of America headquarters in Charlotte" />
 
 <div class="wiki-infobox-caption">Bank of America's headquarters in Charlotte, North Carolina.</div>
 

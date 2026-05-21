@@ -7,7 +7,7 @@ keywords:
   - share split
   - 2-for-1 split
   - per-share price
-image: "https://picsum.photos/seed/stock-split/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A stock split is a corporate action in which a company divides each outstanding [share](/stock/) into a fixed number of new shares. In a 2-for-1 split, one share becomes two shares; in a 3-for-1 split, one becomes three. The total value of a shareholder's position is unchanged — if you owned $10,000 worth of stock before the split, you still own $10,000 worth afterward. The split is a mechanical adjustment with no economic impact, but it changes the number of shares and the per-share price.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/stock-split/900/600"
 
 <div class="wiki-infobox-title">Stock split — key facts</div>
 
-<img src="https://picsum.photos/seed/stock-split/900/600" alt="A chart showing a 2-for-1 stock split" />
+<img src="/svg/equity.svg" alt="A chart showing a 2-for-1 stock split" />
 
 <div class="wiki-infobox-caption">Share multiplication with proportional price reduction.</div>
 

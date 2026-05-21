@@ -7,7 +7,7 @@ keywords:
   - inflation
   - price index
   - inflation measure
-image: "https://picsum.photos/seed/consumer-price-index/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The Consumer Price Index (CPI) is the most widely cited [inflation](/inflation) metric in the US. It measures the average change in prices that households pay for goods and services, from gasoline to haircuts to healthcare. The Bureau of Labor Statistics publishes CPI monthly, making it a timely inflation gauge.*
@@ -22,7 +22,7 @@ CPI comes in two main variants: [headline CPI](/headline-inflation) (all items) 
 
 <div class="wiki-infobox-title">Consumer Price Index — key facts</div>
 
-<img src="https://picsum.photos/seed/consumer-price-index/900/600" alt="CPI and inflation rate" />
+<img src="/svg/macro.svg" alt="CPI and inflation rate" />
 
 <div class="wiki-infobox-caption">CPI spiked to 9.1% year-over-year in June 2022, the highest in 40 years.</div>
 

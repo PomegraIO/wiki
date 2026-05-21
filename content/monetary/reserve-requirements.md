@@ -7,7 +7,7 @@ keywords:
   - banking regulation
   - monetary policy
   - fractional reserve banking
-image: "https://picsum.photos/seed/reserve-requirements/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **reserve requirement** is a regulatory rule mandating that [banks](/broker) hold a minimum fraction of their deposits as cash or as balances at the central bank. For decades, reserve requirements were a primary tool of [monetary policy](/monetary-policy): lowering the requirement let [banks](/broker) lend more, easing credit; raising it forced them to hold more cash idle, tightening credit. Today, the tool is used sparingly, as most central banks prefer [interest rates](/interest-rate) and asset purchases.*
@@ -22,7 +22,7 @@ This entry covers the rules and their role in policy. For the economic model und
 
 <div class="wiki-infobox-title">Reserve Requirements — key facts</div>
 
-<img src="https://picsum.photos/seed/reserve-requirements/900/600" alt="Bank vault with required reserves" />
+<img src="/svg/monetary.svg" alt="Bank vault with required reserves" />
 
 <div class="wiki-infobox-caption">Reserve requirements limit how much banks can lend relative to their deposits.</div>
 

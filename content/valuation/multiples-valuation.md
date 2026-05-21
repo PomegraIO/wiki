@@ -7,7 +7,7 @@ keywords:
   - price-to-earnings
   - valuation multiple
   - relative valuation
-image: "https://picsum.photos/seed/multiples-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **multiples valuation** answers a simple question: if similar companies trade at 10x earnings, and this company earns 50 million, it is worth 500 million. It is faster than [discounted cash flow](/discounted-cash-flow-valuation), requires fewer assumptions, and is often more credible in M&A because it is anchored to observable market prices. But it is also a shortcut that can hide poor thinking.*

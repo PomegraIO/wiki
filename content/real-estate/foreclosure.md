@@ -7,7 +7,7 @@ keywords:
   - repossession
   - mortgage default
   - property seizure
-image: "https://picsum.photos/seed/foreclosure/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **foreclosure** is a legal process in which a lender repossesses a property after a borrower defaults on mortgage payments and fails to cure the default. The property is sold (often at auction), and proceeds pay the lender. Foreclosure is the ultimate enforcement tool for lenders but is costly and disruptive for borrowers.*
@@ -22,7 +22,7 @@ For alternatives to foreclosure, see short-sale-real-estate and deed-in-lieu-of-
 
 <div class="wiki-infobox-title">Foreclosure — key facts</div>
 
-<img src="https://picsum.photos/seed/foreclosure/900/600" alt="A foreclosed property at auction" />
+<img src="/svg/real-estate.svg" alt="A foreclosed property at auction" />
 
 <div class="wiki-infobox-caption">Foreclosure is the process by which lenders recover defaulted properties.</div>
 

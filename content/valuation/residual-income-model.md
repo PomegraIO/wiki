@@ -7,7 +7,7 @@ keywords:
   - excess earnings
   - RIM
   - equity valuation
-image: "https://picsum.photos/seed/residual-income-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **residual income model (RIM)** values equity by asking: what is the book value of the company's equity, plus the present value of the excess earnings it will generate beyond its cost of equity? It is a theoretically elegant alternative to [dividend discount models](/dividend-discount-model) and [free cash flow valuation](/free-cash-flow-to-equity-valuation) that emphasizes the spread between return on equity and cost of equity.*

@@ -8,7 +8,7 @@ keywords:
   - tolerance bands
   - bands rebalancing
   - dynamic rebalancing
-image: "https://picsum.photos/seed/threshold-rebalancing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Threshold rebalancing is an approach of rebalancing a [portfolio](/asset-allocation/) only when [asset-class](/asset-allocation/) weights drift beyond predetermined tolerance bands or thresholds. Unlike [calendar rebalancing](/calendar-rebalancing/), which rebalances on a fixed schedule, threshold rebalancing rebalances opportunistically, only when needed.*
@@ -23,7 +23,7 @@ For time-based rebalancing, see [calendar-rebalancing](/calendar-rebalancing/). 
 
 <div class="wiki-infobox-title">Threshold rebalancing — key facts</div>
 
-<img src="https://picsum.photos/seed/threshold-rebalancing/900/600" alt="Tolerance bands showing when rebalancing is triggered" />
+<img src="/svg/strategies.svg" alt="Tolerance bands showing when rebalancing is triggered" />
 
 <div class="wiki-infobox-caption">Threshold rebalancers act only when allocations cross predetermined bands, minimizing costs and trading frequency.</div>
 

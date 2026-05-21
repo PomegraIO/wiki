@@ -7,7 +7,7 @@ keywords:
   - derivatives exchange
   - commodities
   - Atlanta
-image: "https://picsum.photos/seed/ice-intercontinental-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Intercontinental Exchange** (ICE) is one of the world's largest derivatives, commodities, and financial data companies, headquartered in Atlanta. Operating multiple trading venues for energy, agricultural commodities, and financial derivatives, ICE also owns the [New York Stock Exchange](/new-york-stock-exchange), making it a dominant player in global financial market infrastructure.*
@@ -22,7 +22,7 @@ ICE acquired the NYSE in 2012 after the collapse of the NYSE-Euronext merger, se
 
 <div class="wiki-infobox-title">ICE – Intercontinental Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/ice-intercontinental-exchange/900/600" alt="ICE headquarters in Atlanta" />
+<img src="/svg/institutions.svg" alt="ICE headquarters in Atlanta" />
 
 <div class="wiki-infobox-caption">ICE headquarters in downtown Atlanta.</div>
 

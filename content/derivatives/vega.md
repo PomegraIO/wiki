@@ -7,7 +7,7 @@ keywords:
   - volatility sensitivity
   - implied volatility
   - option pricing
-image: "https://picsum.photos/seed/vega/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **vega** of an option is the amount by which its price changes for each 1% increase or decrease in [implied volatility](/implied-volatility). A vega of 0.2 means a 1% rise in implied volatility increases the option's value by $0.20. Both [call option](/call-option)s and [put option](/put-option)s have positive vega; higher [volatility](/historical-volatility) makes both more valuable because there is greater probability of [in-the-money](/in-the-money) finish. Vega is highest for [at-the-money](/at-the-money) options and nearly zero for deep [in-the-money](/in-the-money) or [out-of-the-money](/out-of-the-money) options.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/vega/900/600"
 
 <div class="wiki-infobox-title">Vega — key facts</div>
 
-<img src="https://picsum.photos/seed/vega/900/600" alt="Volatility chart showing option price sensitivity" />
+<img src="/svg/derivatives.svg" alt="Volatility chart showing option price sensitivity" />
 
 <div class="wiki-infobox-caption">Vega measures volatility sensitivity.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - share buyback
   - acceleration mechanism
   - repurchase program
-image: "https://picsum.photos/seed/accelerated-share-repurchase/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An accelerated share repurchase (ASR) is a structured transaction between a company and an investment bank in which the bank buys a large block of the company's shares in the open market or borrows shares, and immediately delivers them to the company for its [treasury](/equity/treasury-stock/). The company then pays the bank over time or the bank hedges its position. ASRs allow companies to execute large [buyback](/equity/share-buyback/) programs quickly without moving the market price as much as gradual open-market repurchases would.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/accelerated-share-repurchase/900/600"
 
 <div class="wiki-infobox-title">Accelerated share repurchase — key facts</div>
 
-<img src="https://picsum.photos/seed/accelerated-share-repurchase/900/600" alt="A timeline of an ASR transaction showing bank acceleration and company repayment" />
+<img src="/svg/equity.svg" alt="A timeline of an ASR transaction showing bank acceleration and company repayment" />
 
 <div class="wiki-infobox-caption">Immediate buyback with deferred settlement structure.</div>
 

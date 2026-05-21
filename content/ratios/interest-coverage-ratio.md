@@ -7,7 +7,7 @@ keywords:
   - debt service
   - solvency
   - financial health
-image: "https://picsum.photos/seed/interest-coverage-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **interest coverage ratio** — also called **times interest earned** — divides operating income (EBIT) by annual interest expense. A ratio of 5.0 means the company generates $5 of operating profit for every $1 of interest it owes. It is the fundamental measure of whether a company can comfortably service its debt. A ratio below 2.0 is a red flag.*
@@ -22,7 +22,7 @@ This entry covers the core debt service metric. For broader solvency measures, s
 
 <div class="wiki-infobox-title">Interest Coverage Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-coverage-ratio/900/600" alt="Operating income covering interest expense" />
+<img src="/svg/ratios.svg" alt="Operating income covering interest expense" />
 
 <div class="wiki-infobox-caption">Can profits cover the interest bill?</div>
 

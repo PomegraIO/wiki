@@ -8,7 +8,7 @@ keywords:
   - market structure
   - best execution
   - trade-through rule
-image: "https://picsum.photos/seed/reg-nms-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **Regulation National Market System (RegNMS)** is a comprehensive SEC framework adopted in 2007 that modernized US stock market structure. It mandates that orders be routed to achieve the best available prices, prohibits trades that bypass better prices at other venues (trade-through rule), requires fair access to exchanges, and establishes standards for market data and [alternative trading systems](/alternative-trading-system). RegNMS is the foundation of today's multi-venue market structure.*
@@ -23,7 +23,7 @@ This entry is about market structure regulation. For international equivalents, 
 
 <div class="wiki-infobox-title">Reg NMS — key facts</div>
 
-<img src="https://picsum.photos/seed/reg-nms-detail/900/600" alt="SEC rulebook pages showing RegNMS provisions" />
+<img src="/svg/markets.svg" alt="SEC rulebook pages showing RegNMS provisions" />
 
 <div class="wiki-infobox-caption">Reg NMS created the modern fragmented-yet-fair market structure.</div>
 

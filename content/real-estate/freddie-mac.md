@@ -7,7 +7,7 @@ keywords:
   - mortgage-backed securities
   - GSE
   - secondary market
-image: "https://picsum.photos/seed/freddie-mac/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *Freddie Mac (Federal Home Loan Mortgage Corporation) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security), and provides liquidity to the mortgage market. Freddie Mac is one of two dominant players in the U.S. secondary mortgage market (alongside [Fannie Mae](/fannie-mae)).*
@@ -22,7 +22,7 @@ For the parallel GSE, see [fannie-mae](/fannie-mae). For the government insurer 
 
 <div class="wiki-infobox-title">Freddie Mac — key facts</div>
 
-<img src="https://picsum.photos/seed/freddie-mac/900/600" alt="Freddie Mac headquarters and logo" />
+<img src="/svg/real-estate.svg" alt="Freddie Mac headquarters and logo" />
 
 <div class="wiki-infobox-caption">Freddie Mac is a cornerstone of the U.S. mortgage system.</div>
 

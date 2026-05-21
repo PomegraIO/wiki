@@ -7,7 +7,7 @@ keywords:
   - brokerage insurance
   - investor protection
   - broker failure
-image: "https://picsum.photos/seed/securities-investor-protection-corporation/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Securities Investor Protection Corporation** (SIPC) is a non-profit corporation created in 1970 to protect customers of brokerage firms. If a broker fails, SIPC steps in to recover customer securities and cash from the firm's assets. SIPC protection covers up to $500,000 per customer account — $250,000 for securities and $250,000 for cash.*
@@ -22,7 +22,7 @@ SIPC protects customers of brokers. The [FDIC](/federal-deposit-insurance-corpor
 
 <div class="wiki-infobox-title">SIPC — key facts</div>
 
-<img src="https://picsum.photos/seed/securities-investor-protection-corporation/900/600" alt="A brokerage office" />
+<img src="/svg/regulation.svg" alt="A brokerage office" />
 
 <div class="wiki-infobox-caption">A brokerage firm insured by SIPC.</div>
 

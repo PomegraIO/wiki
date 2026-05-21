@@ -6,7 +6,7 @@ keywords:
   - pegged order
   - order types
   - dynamic price
-image: "https://picsum.photos/seed/peg-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **peg order** is a [limit order](/limit-order) with a dynamic price that automatically adjusts to maintain a fixed distance from a moving reference price. If you place a buy peg order "1 cent below the bid," your limit price continuously adjusts to stay 1 cent below the current bid. When the bid moves, your order price moves with it.*
@@ -21,7 +21,7 @@ For a fixed limit price, see [limit order](/limit-order). For an automatic offse
 
 <div class="wiki-infobox-title">Peg order — key facts</div>
 
-<img src="https://picsum.photos/seed/peg-order/900/600" alt="A price chart showing a pegged order tracking the bid" />
+<img src="/svg/trading.svg" alt="A price chart showing a pegged order tracking the bid" />
 
 <div class="wiki-infobox-caption">Peg order: limit price moves with the reference (bid, ask, or midpoint).</div>
 

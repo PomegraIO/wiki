@@ -8,7 +8,7 @@ keywords:
   - minimal disclosure
   - shell companies
   - high-risk securities
-image: "https://picsum.photos/seed/otc-pink/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **OTC Pink** market (operated by OTC Markets Group) is the lowest tier of US over-the-counter trading. Companies trading on OTC Pink have minimal or no SEC filing requirements and need not maintain any financial standards. This tier is home to penny stocks, shell companies, and highly speculative securities. It carries substantial fraud risk and is suitable only for investors with expert knowledge and high risk tolerance.*
@@ -23,7 +23,7 @@ This entry is about the loosest tier of OTC trading. For higher-standard tiers, 
 
 <div class="wiki-infobox-title">OTC Pink — key facts</div>
 
-<img src="https://picsum.photos/seed/otc-pink/900/600" alt="A screen showing OTC Pink stock listings with low prices and wide spreads" />
+<img src="/svg/markets.svg" alt="A screen showing OTC Pink stock listings with low prices and wide spreads" />
 
 <div class="wiki-infobox-caption">OTC Pink offers the widest access but the fewest safeguards for issuers and investors.</div>
 

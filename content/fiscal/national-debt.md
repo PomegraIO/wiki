@@ -7,7 +7,7 @@ keywords:
   - public debt
   - debt accumulation
   - treasury bonds
-image: "https://picsum.photos/seed/national-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **national debt** is the total stock of money a government has borrowed from investors, foreign governments, and its own agencies. It accumulates whenever a [budget deficit](/budget-deficit) forces the government to borrow, and shrinks only when [budget surpluses](/budget-surplus) allow debt repayment.*
@@ -22,7 +22,7 @@ This entry covers the total debt stock. For the annual shortfall that increases 
 
 <div class="wiki-infobox-title">National Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/national-debt/900/600" alt="National debt accumulation" />
+<img src="/svg/fiscal.svg" alt="National debt accumulation" />
 
 <div class="wiki-infobox-caption">National debt grows with persistent budget deficits and shrinks only with surpluses.</div>
 

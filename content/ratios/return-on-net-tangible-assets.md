@@ -7,7 +7,7 @@ keywords:
   - profitability
   - net asset value
   - tangible assets
-image: "https://picsum.photos/seed/return-on-net-tangible-assets/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on net tangible assets** — or **RONTA** — divides net income by (tangible assets minus current liabilities). It measures returns on the net tangible value available to shareholders, excluding short-term obligations and intangible assets.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/return-on-net-tangible-assets/900/600"
 
 <div class="wiki-infobox-title">Return on Net Tangible Assets — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-net-tangible-assets/900/600" alt="Profit relative to net tangible value" />
+<img src="/svg/ratios.svg" alt="Profit relative to net tangible value" />
 
 <div class="wiki-infobox-caption">Returns on net real assets after obligations.</div>
 

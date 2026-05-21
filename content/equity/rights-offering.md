@@ -7,7 +7,7 @@ keywords:
   - subscription right
   - shareholder rights
   - pro-rata offering
-image: "https://picsum.photos/seed/rights-offering/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A rights offering is an offering of newly issued [shares](/stock/) to existing shareholders, giving them the right (not obligation) to purchase shares at a discount to the current market price, usually at a fixed ratio (e.g., one new share for every five shares held). Rights offerings allow existing shareholders to maintain their ownership percentage if they exercise, or to choose not to participate and accept dilution. They are less common in the US but standard in other countries.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/rights-offering/900/600"
 
 <div class="wiki-infobox-title">Rights offering — key facts</div>
 
-<img src="https://picsum.photos/seed/rights-offering/900/600" alt="A rights offering subscription form showing subscription ratio" />
+<img src="/svg/equity.svg" alt="A rights offering subscription form showing subscription ratio" />
 
 <div class="wiki-infobox-caption">Right to buy new shares, protecting ownership percentage.</div>
 

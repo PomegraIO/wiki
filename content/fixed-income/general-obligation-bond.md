@@ -7,7 +7,7 @@ keywords:
   - municipal debt
   - government backed
   - tax backed
-image: "https://picsum.photos/seed/general-obligation-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **general obligation bond** — or **GO bond** — is a [municipal bond](/municipal-bond) secured by the full faith, credit, and taxing power of the issuing government entity. Rather than relying on revenue from a specific project, GO bonds are backed by all revenues and the government's power to raise taxes, making them senior to all other local government debt.*
@@ -22,7 +22,7 @@ For municipal bonds backed by revenue from a specific project, see [revenue bond
 
 <div class="wiki-infobox-title">General Obligation Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/general-obligation-bond/900/600" alt="A municipal government building representing the issuance of general obligation bonds" />
+<img src="/svg/fixed-income.svg" alt="A municipal government building representing the issuance of general obligation bonds" />
 
 <div class="wiki-infobox-caption">GO bonds are backed by the full taxing power of municipal governments.</div>
 

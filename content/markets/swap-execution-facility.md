@@ -8,7 +8,7 @@ keywords:
   - standardized swaps
   - transparent venue
   - derivatives market
-image: "https://picsum.photos/seed/swap-execution-facility/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **Swap Execution Facility (SEF)** is a regulated trading venue where certain standardized [derivatives](/option), particularly interest-rate swaps and credit default swaps, must be executed under US law. SEFs were mandated by the Dodd-Frank Act (2010) to bring transparency and centralized clearing to the [derivatives](/option) market, which had been opaque and conducted over-the-counter. Major SEFs include Bloomberg SEF, Tradeweb, and others.*
@@ -23,7 +23,7 @@ This entry is about regulated derivatives venues. For international equivalents,
 
 <div class="wiki-infobox-title">Swap Execution Facility — key facts</div>
 
-<img src="https://picsum.photos/seed/swap-execution-facility/900/600" alt="A trading terminal displaying interest-rate swap quotes on a SEF" />
+<img src="/svg/markets.svg" alt="A trading terminal displaying interest-rate swap quotes on a SEF" />
 
 <div class="wiki-infobox-caption">SEFs are the mandated venue for standardized derivatives trading.</div>
 

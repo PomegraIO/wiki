@@ -7,7 +7,7 @@ keywords:
   - call option
   - put option
   - option premium
-image: "https://picsum.photos/seed/currency-option/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **currency option** gives the buyer the right — but not the obligation — to buy or sell a [currency pair](/currency-pair) at an agreed-upon rate on or before an agreed-upon date. The buyer pays a premium upfront; the seller (writer) receives that premium and accepts the obligation if the option is exercised. Currency options are more flexible than [forwards](/fx-forward) but more expensive.*
@@ -22,7 +22,7 @@ For binding obligations without choice, see [FX Forward](/fx-forward) and [curre
 
 <div class="wiki-infobox-title">Currency Option — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-option/900/600" alt="Payoff diagrams for call and put currency options" />
+<img src="/svg/forex.svg" alt="Payoff diagrams for call and put currency options" />
 
 <div class="wiki-infobox-caption">Options are rights, not obligations; payoffs are flexible.</div>
 

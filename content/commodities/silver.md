@@ -7,7 +7,7 @@ keywords:
   - industrial demand
   - volatility
   - bullion
-image: "https://picsum.photos/seed/silver/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **silver** — less culturally storied than [gold](/gold) but far more widely consumed in manufacturing — is a precious metal whose high electrical and thermal conductivity make it indispensable to electronics, while its store-of-value character and cultural cache ensure it trades as a hedge alongside gold. The combination of large industrial demand and small speculative flows makes silver far more volatile than its older cousin.*
@@ -22,7 +22,7 @@ This entry covers silver as a commodity. For silver's role in historical monetar
 
 <div class="wiki-infobox-title">Silver — key facts</div>
 
-<img src="https://picsum.photos/seed/silver/900/600" alt="Silver bars and coins stacked" />
+<img src="/svg/commodities.svg" alt="Silver bars and coins stacked" />
 
 <div class="wiki-infobox-caption">Silver bullion in bar and coin form.</div>
 

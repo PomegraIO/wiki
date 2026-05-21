@@ -7,7 +7,7 @@ keywords:
   - presentation bias
   - decision framing
   - behavioral bias
-image: "https://picsum.photos/seed/framing-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The framing effect is the tendency to make different decisions about the same underlying problem depending on whether it is presented as a potential gain or a potential loss, or whether it is decomposed into components or presented as a whole. How the choice is *framed* changes which option is chosen, even though the objective facts are identical.*
@@ -22,7 +22,7 @@ Central to prospect theory. For the tendency to view decisions in isolation, see
 
 <div class="wiki-infobox-title">Framing effect — key facts</div>
 
-<img src="https://picsum.photos/seed/framing-effect/900/600" alt="The same scene viewed through two different-colored lenses" />
+<img src="/svg/behavioral.svg" alt="The same scene viewed through two different-colored lenses" />
 
 <div class="wiki-infobox-caption">The frame determines what stands out and what is invisible.</div>
 

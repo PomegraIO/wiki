@@ -7,7 +7,7 @@ keywords:
   - first-in first-out
   - cost of goods sold
   - inventory method
-image: "https://picsum.photos/seed/fifo/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[FIFO](/fifo) stands for **First-In, First-Out**. It is an inventory accounting method where the oldest inventory is assumed to be sold first. When prices are rising, [FIFO](/fifo) produces higher reported profit (because older, lower-cost inventory is expensed) and higher taxes. [FIFO](/fifo) is permitted under both [GAAP](/generally-accepted-accounting-principles) and [IFRS](/international-financial-reporting-standards) and is the most commonly used inventory method globally. [FIFO](/fifo) is administratively simpler than [LIFO](/lifo) and produces inventory values closer to current replacement cost.*
@@ -22,7 +22,7 @@ This entry covers [FIFO](/fifo) as an inventory method. For the alternative, see
 
 <div class="wiki-infobox-title">FIFO — key facts</div>
 
-<img src="https://picsum.photos/seed/fifo/900/600" alt="A line of inventory boxes with the oldest in front, representing FIFO" />
+<img src="/svg/accounting.svg" alt="A line of inventory boxes with the oldest in front, representing FIFO" />
 
 <div class="wiki-infobox-caption">FIFO assumes the oldest inventory is sold first.</div>
 

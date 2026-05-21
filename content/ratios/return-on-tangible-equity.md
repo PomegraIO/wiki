@@ -7,7 +7,7 @@ keywords:
   - profitability
   - tangible assets
   - intangible assets
-image: "https://picsum.photos/seed/return-on-tangible-equity/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **return on tangible equity** — or **ROTE** — divides net income by tangible shareholder equity (total equity minus intangible assets, goodwill, and deferred tax assets). It measures returns on real, physical assets only, excluding accounting abstractions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/return-on-tangible-equity/900/600"
 
 <div class="wiki-infobox-title">Return on Tangible Equity — key facts</div>
 
-<img src="https://picsum.photos/seed/return-on-tangible-equity/900/600" alt="Profit relative to real assets" />
+<img src="/svg/ratios.svg" alt="Profit relative to real assets" />
 
 <div class="wiki-infobox-caption">Returns on tangible capital only.</div>
 

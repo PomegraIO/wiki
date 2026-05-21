@@ -7,7 +7,7 @@ keywords:
   - delta-normal VaR
   - normal distribution
   - analytical VaR
-image: "https://picsum.photos/seed/parametric-var/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Parametric value-at-risk (also called variance-covariance VaR or delta-normal VaR) is a method of estimating portfolio loss by assuming returns follow a known statistical distribution — typically the normal (Gaussian) distribution — and deriving the loss threshold from the distribution's mean and standard deviation.*
@@ -22,7 +22,7 @@ This entry covers parametric VaR calculation. For alternative VaR methods, see [
 
 <div class="wiki-infobox-title">Parametric VaR — key facts</div>
 
-<img src="https://picsum.photos/seed/parametric-var/900/600" alt="A bell curve distribution with a marked confidence interval on the left tail" />
+<img src="/svg/risk.svg" alt="A bell curve distribution with a marked confidence interval on the left tail" />
 
 <div class="wiki-infobox-caption">Parametric VaR uses the distribution's parameters to calculate the threshold.</div>
 

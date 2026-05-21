@@ -7,7 +7,7 @@ keywords:
   - quantitative trading
   - algorithmic trading
   - hedge fund
-image: "https://picsum.photos/seed/kenneth-griffin/900/600"
+image: "/svg/people.svg"
 ---
 
 *Kenneth Griffin built Citadel into a multi-billion-dollar powerhouse by combining deep mathematical talent with systematic trading strategies, proving that quant-driven approaches could outpace traditional hedge funds at scale.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/kenneth-griffin/900/600"
 
 <div class="wiki-infobox-title">Kenneth Griffin — key facts</div>
 
-<img src="https://picsum.photos/seed/kenneth-griffin/900/600" alt="A high-speed trading floor with multiple screens and data streams" />
+<img src="/svg/people.svg" alt="A high-speed trading floor with multiple screens and data streams" />
 
 <div class="wiki-infobox-caption">The domain of systematic execution — where mathematics meets markets.</div>
 

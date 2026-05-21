@@ -7,7 +7,7 @@ keywords:
   - debt securities
   - passive bond investing
   - fund
-image: "https://picsum.photos/seed/bond-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **bond ETF** is an [ETF](/etf) that holds a basket of [bonds](/bond) — government, corporate, or a mix — and trades on a [stock exchange](/stock-exchange) throughout the day. Bond ETFs give individual investors access to diversified fixed-income portfolios with low cost and the daily liquidity of an exchange-traded security.*
@@ -22,7 +22,7 @@ This entry covers bond ETFs broadly. For the mechanics of how ETFs function, see
 
 <div class="wiki-infobox-title">Bond ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/bond-etf/900/600" alt="A chart showing bond yields and credit spreads" />
+<img src="/svg/funds.svg" alt="A chart showing bond yields and credit spreads" />
 
 <div class="wiki-infobox-caption">Bond ETFs provide fixed-income exposure in a liquid, tradable wrapper.</div>
 

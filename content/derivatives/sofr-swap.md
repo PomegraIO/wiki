@@ -7,7 +7,7 @@ keywords:
   - interest rate swap
   - overnight rate
   - derivatives
-image: "https://picsum.photos/seed/sofr-swap/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **SOFR swap** is an [interest-rate-swap](/interest-rate-swap/) where one party pays fixed and receives SOFR (Secured Overnight Financing Rate), a transaction-based overnight borrowing rate. SOFR replaced LIBOR (London Interbank Offered Rate) globally as the benchmark interest rate for derivatives. SOFR swaps are now the standard interest-rate [swap](/swap/) instrument and are more transparent, less subject to manipulation, and better anchored in actual market transactions than LIBOR.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/sofr-swap/900/600"
 
 <div class="wiki-infobox-title">SOFR Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/sofr-swap/900/600" alt="SOFR rate vs. historical LIBOR" />
+<img src="/svg/derivatives.svg" alt="SOFR rate vs. historical LIBOR" />
 
 <div class="wiki-infobox-caption">SOFR replaced LIBOR as the benchmark rate.</div>
 

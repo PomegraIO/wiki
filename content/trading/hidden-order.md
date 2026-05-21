@@ -6,7 +6,7 @@ keywords:
   - stealth order
   - order book
   - execution
-image: "https://picsum.photos/seed/hidden-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **hidden order** is a [limit order](/limit-order) placed on a public exchange (a lit venue) but with most or all of its size concealed from the public order book. When the visible portion fills, a new visible slice is revealed. Hidden orders let large traders avoid tipping off the market to their full intent, while still getting the price-time priority of a public order.*
@@ -21,7 +21,7 @@ For orders visible to everyone, see [lit order](/lit-order). For orders hidden i
 
 <div class="wiki-infobox-title">Hidden order — key facts</div>
 
-<img src="https://picsum.photos/seed/hidden-order/900/600" alt="An order book showing a hidden order's visible tip" />
+<img src="/svg/trading.svg" alt="An order book showing a hidden order's visible tip" />
 
 <div class="wiki-infobox-caption">Hidden order: only the visible size is shown; true size is concealed.</div>
 

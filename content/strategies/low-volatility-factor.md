@@ -8,7 +8,7 @@ keywords:
   - low-beta
   - volatility factor
   - risk-adjusted returns
-image: "https://picsum.photos/seed/low-volatility-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The low-volatility factor is a systematic investment strategy that emphasizes [stocks](/stock/) with historically low price [volatility](/alpha/), betting that stable, less-volatile companies deliver superior risk-adjusted returns and weather downturns better than high-volatility peers.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Low-volatility-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/low-volatility-factor/900/600" alt="A chart showing low-volatility stocks with smoother returns and lower drawdowns" />
+<img src="/svg/strategies.svg" alt="A chart showing low-volatility stocks with smoother returns and lower drawdowns" />
 
 <div class="wiki-infobox-caption">Low-volatility investors accept lower absolute returns for smoother rides and smaller losses.</div>
 

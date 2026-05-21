@@ -7,7 +7,7 @@ keywords:
   - small business retirement
   - high contribution limit
   - tax-deductible
-image: "https://picsum.photos/seed/sep-ira/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **SEP IRA** (Simplified Employee Pension IRA) is a retirement account designed for self-employed people and small business owners. It allows contributions of up to 25% of net self-employment income, far exceeding the $7,000 standard [IRA](/traditional-ira) limit, with the entire amount tax-deductible.*
@@ -22,7 +22,7 @@ For traditional and Roth alternatives, see [traditional IRA](/traditional-ira) a
 
 <div class="wiki-infobox-title">SEP IRA — key facts</div>
 
-<img src="https://picsum.photos/seed/sep-ira/900/600" alt="A self-employed worker depositing a large sum into a retirement account" />
+<img src="/svg/personal-finance.svg" alt="A self-employed worker depositing a large sum into a retirement account" />
 
 <div class="wiki-infobox-caption">The model: high annual contributions for the self-employed.</div>
 

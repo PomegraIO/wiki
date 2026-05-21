@@ -7,7 +7,7 @@ keywords:
   - business cycle
   - recession unemployment
   - unemployment
-image: "https://picsum.photos/seed/cyclical-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Cyclical unemployment is [unemployment](/unemployment-rate) caused by weak aggregate demand — it rises sharply in [recessions](/recession) and falls as the [business cycle](/business-cycle) expands. Unlike [structural](/structural-unemployment) or [frictional](/frictional-unemployment) unemployment, which persist even in booming economies, cyclical unemployment is zero (by definition) when the economy is at [potential GDP](/potential-gdp).*
@@ -22,7 +22,7 @@ Cyclical unemployment = Actual [unemployment](/unemployment-rate) − [Natural r
 
 <div class="wiki-infobox-title">Cyclical Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/cyclical-unemployment/900/600" alt="Cyclical unemployment spikes" />
+<img src="/svg/macro.svg" alt="Cyclical unemployment spikes" />
 
 <div class="wiki-infobox-caption">Cyclical unemployment disappeared in 2019; spiked to 10+% in April 2020.</div>
 

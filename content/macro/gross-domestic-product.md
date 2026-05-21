@@ -7,7 +7,7 @@ keywords:
   - economic output
   - national accounts
   - economic growth
-image: "https://picsum.photos/seed/gross-domestic-product/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Gross Domestic Product — abbreviated **GDP** — is the total market value of all goods and services produced within a country's borders in a specific period, usually a year or a quarter. It is the single most important number in macroeconomics, used to measure economic growth, compare countries, and assess recessions.*
@@ -22,7 +22,7 @@ GDP is reported in three variants: [nominal GDP](/nominal-gdp), which uses curre
 
 <div class="wiki-infobox-title">Gross Domestic Product — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-domestic-product/900/600" alt="A chart showing GDP growth over time" />
+<img src="/svg/macro.svg" alt="A chart showing GDP growth over time" />
 
 <div class="wiki-infobox-caption">Real GDP growth is the standard measure of how fast an economy is expanding.</div>
 

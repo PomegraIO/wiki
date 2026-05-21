@@ -7,7 +7,7 @@ keywords:
   - currency contract
   - exchange-traded
   - CME
-image: "https://picsum.photos/seed/currency-future/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **currency future** is a standardized, exchange-traded contract to exchange two currencies at a predetermined rate on a specific future date. Unlike an over-the-counter [forward](/fx-forward), a currency future trades on an exchange (like the [CME](/federal-reserve)), is marked to market daily, requires margin, and is enforceable through the exchange's clearinghouse. A trader can exit by taking an opposite position without negotiating with the original counterparty.*
@@ -22,7 +22,7 @@ For the OTC alternative, see [FX Forward](/fx-forward); for options on the under
 
 <div class="wiki-infobox-title">Currency Future — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-future/900/600" alt="A currency futures contract specification" />
+<img src="/svg/forex.svg" alt="A currency futures contract specification" />
 
 <div class="wiki-infobox-caption">Standardized contracts trading on exchanges like the CME.</div>
 

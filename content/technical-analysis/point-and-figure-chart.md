@@ -7,7 +7,7 @@ keywords:
   - technical analysis
   - price-based chart
   - x's and o's
-image: "https://picsum.photos/seed/point-and-figure-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **point-and-figure chart** (or **P&F chart**) displays price movement as a two-dimensional grid where X's represent upward price moves and O's represent downward moves. Each column of X's or O's represents a single up or down movement; a new column starts only when price reverses by a specified amount. Time is irrelevant; the chart focuses entirely on price levels and reversals. Point-and-figure charts are prized for identifying support, resistance, [breakouts](/technical-analysis/channel-pattern), and clean chart patterns. They are one of the oldest technical analysis tools, dating back to the 1800s.*
@@ -22,7 +22,7 @@ For time-based charts, see [candlestick chart](/technical-analysis/candlestick-c
 
 <div class="wiki-infobox-title">Point-and-figure chart — key facts</div>
 
-<img src="https://picsum.photos/seed/point-and-figure-chart/900/600" alt="A point-and-figure grid with X's and O's showing price movement" />
+<img src="/svg/technical-analysis.svg" alt="A point-and-figure grid with X's and O's showing price movement" />
 
 <div class="wiki-infobox-caption">Point-and-figure grid: X's up, O's down; time absent; reversals trigger new columns; patterns are geometrically clear.</div>
 

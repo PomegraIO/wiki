@@ -7,7 +7,7 @@ keywords:
   - currency crisis
   - contagion
   - emerging markets
-image: "https://picsum.photos/seed/asian-financial-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Asian Financial Crisis** of 1997–1998 was a devastating wave of currency crashes and financial collapses across Southeast Asia, spreading to South Korea, Russia, and beyond. Starting with Thailand's devaluation in July 1997, the crisis revealed fundamental weaknesses in emerging market banking systems, currency regimes, and corporate governance. It was the first global financial crisis of the modern era, demonstrating how quickly contagion could spread across borders.*
@@ -22,7 +22,7 @@ This entry covers the Asian crisis. For the subsequent contagion, see [Russian F
 
 <div class="wiki-infobox-title">Asian Financial Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/asian-financial-crisis/900/600" alt="A photograph of the Bangkok stock exchange during the crisis, showing panicked trading" />
+<img src="/svg/history.svg" alt="A photograph of the Bangkok stock exchange during the crisis, showing panicked trading" />
 
 <div class="wiki-infobox-caption">Stock exchanges across Asia fell sharply as the crisis metastasized from Thailand to regional neighbours.</div>
 

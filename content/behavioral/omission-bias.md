@@ -7,7 +7,7 @@ keywords:
   - failure to act
   - status quo
   - decision avoidance
-image: "https://picsum.photos/seed/omission-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Omission bias is the tendency to prefer inaction over action, even when action would produce better outcomes. You hold a losing investment too long rather than selling (inaction). You fail to rebalance a drifting portfolio (inaction). You do not act on a clearly superior investment opportunity (inaction). The harm from inaction feels less "your fault" than harm from action, so inaction is preferred.*
@@ -22,7 +22,7 @@ The opposite of action bias. Related to status quo bias. For harmful inaction in
 
 <div class="wiki-infobox-title">Omission bias — key facts</div>
 
-<img src="https://picsum.photos/seed/omission-bias/900/600" alt="A fork in the road with one path left untaken, overgrown" />
+<img src="/svg/behavioral.svg" alt="A fork in the road with one path left untaken, overgrown" />
 
 <div class="wiki-infobox-caption">The path not taken feels safer, even if it leads backward.</div>
 

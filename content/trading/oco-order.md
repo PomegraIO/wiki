@@ -6,7 +6,7 @@ keywords:
   - one-cancels-other
   - order types
   - conditional orders
-image: "https://picsum.photos/seed/oco-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **one-cancels-other (OCO) order** is a pair of conditional orders linked so that if one fills, the other is automatically canceled. Typically used to handle two mutually exclusive outcomes: you place a profit-target [limit order](/limit-order) above the market and a stop-loss [stop order](/stop-order) below, then wait for one to trigger. Whichever fills first automatically cancels the other.*
@@ -21,7 +21,7 @@ For a single profit target plus stop as a unified order, see [bracket order](/br
 
 <div class="wiki-infobox-title">One-cancels-other order — key facts</div>
 
-<img src="https://picsum.photos/seed/oco-order/900/600" alt="A price chart showing two conditional orders, one above and one below" />
+<img src="/svg/trading.svg" alt="A price chart showing two conditional orders, one above and one below" />
 
 <div class="wiki-infobox-caption">An OCO order: place two orders, one wins and the other is automatically canceled.</div>
 

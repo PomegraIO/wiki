@@ -7,7 +7,7 @@ keywords:
   - peer group
   - trading multiples
   - relative valuation
-image: "https://picsum.photos/seed/comparable-company-analysis/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **comparable company analysis** (or "comps" analysis) is the most practical application of [multiples valuation](/multiples-valuation) in M&A and equity research. You identify publicly traded peers, calculate their trading multiples (EV/EBITDA, PE, EV/Sales), apply a median multiple to your target company's financial metrics, and arrive at an implied valuation range. The method is fast, market-based, and credible—if you can find truly comparable companies.*

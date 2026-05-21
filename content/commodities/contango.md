@@ -7,7 +7,7 @@ keywords:
   - storage costs
   - roll yield
   - commodity trading
-image: "https://picsum.photos/seed/contango/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **contango** — a market structure where future commodity prices are higher than spot prices — is the normal state for most commodities and reflects the cost of storage and financing. Investors holding commodity futures contracts through expiration face "[roll yield](/contango/)" risk: they must sell expiring contracts at lower prices and buy deferred contracts at higher prices, locking in storage costs as losses. This roll yield drag is why commodity indices and funds often underperform spot prices.*
@@ -22,7 +22,7 @@ This entry covers contango as a market structure. For the opposite structure (wh
 
 <div class="wiki-infobox-title">Contango — key facts</div>
 
-<img src="https://picsum.photos/seed/contango/900/600" alt="Futures curve in contango structure" />
+<img src="/svg/commodities.svg" alt="Futures curve in contango structure" />
 
 <div class="wiki-infobox-caption">A contango futures curve — future prices higher than spot.</div>
 

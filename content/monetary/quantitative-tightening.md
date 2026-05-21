@@ -7,7 +7,7 @@ keywords:
   - balance sheet reduction
   - asset runoff
   - monetary tightening
-image: "https://picsum.photos/seed/quantitative-tightening/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **quantitative tightening** (or **QT**) program is a central bank's deliberate reduction of its balance sheet by allowing securities to mature without replacement, or by selling assets outright. After years of [quantitative easing](/quantitative-easing), when the economy has recovered and [inflation](/inflation) is rising, QT shrinks the money supply and tightens financial conditions, working in concert with higher interest rates to cool demand.*
@@ -22,7 +22,7 @@ This entry covers balance-sheet shrinkage. For the opposite operation—injectin
 
 <div class="wiki-infobox-title">Quantitative Tightening — key facts</div>
 
-<img src="https://picsum.photos/seed/quantitative-tightening/900/600" alt="Central bank balance sheet shrinking as securities mature" />
+<img src="/svg/monetary.svg" alt="Central bank balance sheet shrinking as securities mature" />
 
 <div class="wiki-infobox-caption">QT drains money from the financial system by shrinking the central bank's holdings.</div>
 

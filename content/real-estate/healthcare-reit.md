@@ -7,7 +7,7 @@ keywords:
   - senior living
   - assisted living
   - nursing homes
-image: "https://picsum.photos/seed/healthcare-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **healthcare REIT** owns and operates medical facilities, assisted-living communities, nursing homes, medical office buildings, hospitals, and post-acute care properties. Healthcare REITs benefit from aging demographics, the relative stability of healthcare spending, and the mission-critical nature of their tenants.*
@@ -22,7 +22,7 @@ This entry focuses on healthcare REITs as a property sector. For the broader REI
 
 <div class="wiki-infobox-title">Healthcare REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/healthcare-reit/900/600" alt="A healthcare facility or senior living community" />
+<img src="/svg/real-estate.svg" alt="A healthcare facility or senior living community" />
 
 <div class="wiki-infobox-caption">Healthcare REITs own and lease properties essential to medical care and senior living.</div>
 

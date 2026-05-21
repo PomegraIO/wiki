@@ -7,7 +7,7 @@ keywords:
   - commodity scarcity
   - future prices
   - market structure
-image: "https://picsum.photos/seed/backwardation/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *In **backwardation**, futures prices decrease with the delivery date. A [futures contract](/futures-contract) expiring in 3 months is more expensive than one expiring in 6 months, which is more expensive than one expiring in 12 months. Backwardation occurs when immediate supply is scarce or in high demand, commanding a premium. It signals market tightness and creates costs for long-only investors rolling positions forward—the opposite economic signal of [contango](/contango).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/backwardation/900/600"
 
 <div class="wiki-infobox-title">Backwardation — key facts</div>
 
-<img src="https://picsum.photos/seed/backwardation/900/600" alt="Downward sloping futures curve" />
+<img src="/svg/derivatives.svg" alt="Downward sloping futures curve" />
 
 <div class="wiki-infobox-caption">Backwardation: futures prices fall into the future.</div>
 

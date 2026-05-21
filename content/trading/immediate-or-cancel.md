@@ -6,7 +6,7 @@ keywords:
   - IOC order
   - order types
   - execution condition
-image: "https://picsum.photos/seed/immediate-or-cancel/900/600"
+image: "/svg/trading.svg"
 ---
 
 *An **immediate-or-cancel (IOC) order** is an instruction that must execute right now, for whatever size is available at your price. Any portion that cannot fill immediately is automatically canceled. IOC is the middle ground: you want quick execution and will accept partial fills, but you will not wait.*
@@ -21,7 +21,7 @@ For all-or-nothing execution, see [fill-or-kill](/fill-or-kill) and [all-or-none
 
 <div class="wiki-infobox-title">Immediate-or-cancel order — key facts</div>
 
-<img src="https://picsum.photos/seed/immediate-or-cancel/900/600" alt="A trading terminal showing partial fill and remainder canceled" />
+<img src="/svg/trading.svg" alt="A trading terminal showing partial fill and remainder canceled" />
 
 <div class="wiki-infobox-caption">IOC: execute now for whatever is available, or cancel the rest.</div>
 

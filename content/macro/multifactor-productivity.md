@@ -7,7 +7,7 @@ keywords:
   - TFP
   - technological progress
   - Solow residual
-image: "https://picsum.photos/seed/multifactor-productivity/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Multifactor productivity — also called **total-factor productivity** (TFP) or the **Solow residual** — is the portion of [productivity](/productivity) growth that cannot be attributed to increases in labor and capital inputs. It captures the improvement in how efficiently an economy combines inputs, typically attributed to technological progress and organizational innovation.*
@@ -22,7 +22,7 @@ The key insight: if output grew 3% but labor inputs grew 1% and capital inputs g
 
 <div class="wiki-infobox-title">Multifactor Productivity — key facts</div>
 
-<img src="https://picsum.photos/seed/multifactor-productivity/900/600" alt="Solow residual over time" />
+<img src="/svg/macro.svg" alt="Solow residual over time" />
 
 <div class="wiki-infobox-caption">Multifactor productivity captures the true technological contribution to growth.</div>
 

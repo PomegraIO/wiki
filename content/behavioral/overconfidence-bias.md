@@ -7,7 +7,7 @@ keywords:
   - hubris
   - illusion of skill
   - miscalibration
-image: "https://picsum.photos/seed/overconfidence-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Overconfidence bias is the tendency to have excessive faith in the accuracy of your knowledge and predictions. You overestimate how much you know, how reliable your information is, and how likely you are to outperform. Studies show that roughly 90% of investors believe they are above average, an impossibility that reveals the depth of overconfidence.*
@@ -22,7 +22,7 @@ Related to illusion of skill and illusion of control. For hubris in professional
 
 <div class="wiki-infobox-title">Overconfidence bias — key facts</div>
 
-<img src="https://picsum.photos/seed/overconfidence-bias/900/600" alt="A figure standing tall, arms crossed, casting a long shadow" />
+<img src="/svg/behavioral.svg" alt="A figure standing tall, arms crossed, casting a long shadow" />
 
 <div class="wiki-infobox-caption">Confidence outpaces competence.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - crawling peg
   - flexible peg
   - target zone
-image: "https://picsum.photos/seed/soft-peg/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **soft peg** is a [currency peg](/currency-peg) that the [central bank](/central-bank) commits to defend but reserves the right to adjust if needed. Unlike a [hard peg](/hard-peg), which is presented as permanent and non-negotiable, a soft peg is explicitly adjustable. Most emerging-market pegs are soft, and many broke during the 1990s and 2000s crises when economies deteriorated and political will to defend them eroded.*
@@ -22,7 +22,7 @@ For non-adjustable pegs, see [hard peg](/hard-peg); for systematic gradual adjus
 
 <div class="wiki-infobox-title">Soft Peg — key facts</div>
 
-<img src="https://picsum.photos/seed/soft-peg/900/600" alt="A soft-peg exchange rate showing gradual devaluation" />
+<img src="/svg/forex.svg" alt="A soft-peg exchange rate showing gradual devaluation" />
 
 <div class="wiki-infobox-caption">Soft pegs can be adjusted; credibility is limited.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - delta change
   - convexity
   - hedging risk
-image: "https://picsum.photos/seed/gamma/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **gamma** of an option is the second derivative—the rate of change of [delta](/delta) with respect to the underlying asset's price. Gamma is always positive for long options (you own them) and always negative for short options (you sold them). Gamma is highest for [at-the-money](/at-the-money) options and falls to near-zero for deep [in-the-money](/in-the-money) or [out-of-the-money](/out-of-the-money) options. Gamma quantifies the instability and rehedging cost of [delta-hedged](/call-option) positions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/gamma/900/600"
 
 <div class="wiki-infobox-title">Gamma — key facts</div>
 
-<img src="https://picsum.photos/seed/gamma/900/600" alt="Convex delta curve showing acceleration" />
+<img src="/svg/derivatives.svg" alt="Convex delta curve showing acceleration" />
 
 <div class="wiki-infobox-caption">Gamma measures how delta itself changes.</div>
 

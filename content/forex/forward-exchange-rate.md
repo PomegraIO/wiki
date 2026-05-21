@@ -7,7 +7,7 @@ keywords:
   - FX forward
   - future exchange rate
   - interest rate parity
-image: "https://picsum.photos/seed/forward-exchange-rate/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **forward exchange rate** is the price at which two currencies will trade on a specified future date, locked in today. Unlike the [spot exchange rate](/spot-exchange-rate) — which is settled in two business days — a forward rate is typically fixed for a date weeks, months, or even years away. It is the fundamental building block of [FX hedging](/fx-forward) and [carry trades](/carry-trade).*
@@ -22,7 +22,7 @@ For an exchange rate settled immediately, see [spot exchange rate](/spot-exchang
 
 <div class="wiki-infobox-title">Forward Exchange Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/forward-exchange-rate/900/600" alt="A forward-rate curve showing rates for different settlement dates" />
+<img src="/svg/forex.svg" alt="A forward-rate curve showing rates for different settlement dates" />
 
 <div class="wiki-infobox-caption">Forward rates for EUR/USD at various maturities — rates lock in today, settlement in the future.</div>
 

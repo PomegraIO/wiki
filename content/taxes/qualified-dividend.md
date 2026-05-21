@@ -6,7 +6,7 @@ keywords:
   - dividend taxation
   - preferential rate
   - dividend income
-image: "https://picsum.photos/seed/qualified-dividend/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *A **qualified dividend** is a [dividend](/dividend/) payment from a US or qualifying foreign [corporation](/public-company/) that is taxed at long-term [capital gains](/capital-gains-tax-investor/) rates (0%, 15%, or 20%) rather than ordinary [income tax](/tax-bracket-investor/) rates. Most [dividends](/dividend/) from US stocks held in a typical brokerage account qualify, making them far more tax-efficient than ordinary dividends or [interest](/1099-int/).*
@@ -21,7 +21,7 @@ For dividends that do not qualify for preferential treatment, see [ordinary divi
 
 <div class="wiki-infobox-title">Qualified dividend — key facts</div>
 
-<img src="https://picsum.photos/seed/qualified-dividend/900/600" alt="A stock statement showing qualified and ordinary dividends" />
+<img src="/svg/taxes.svg" alt="A stock statement showing qualified and ordinary dividends" />
 
 <div class="wiki-infobox-caption">Most regular dividends from US stocks qualify for preferential tax treatment.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - charitable deduction
   - qualified charity
   - itemized deduction
-image: "https://picsum.photos/seed/charitable-contribution-deduction/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **charitable contribution deduction** allows taxpayers to deduct donations to qualified charities, nonprofits, and educational institutions. You must [itemize deductions](/itemized-deduction-investor/) to claim them. Donations of cash are generally deductible at 50% of adjusted gross income; appreciated securities receive higher limits (60%) if held long-term. Wealthy investors often use appreciated [stocks](/stock/) and [donor-advised funds](/charitable-contribution-deduction/) to maximize deductions while optimizing [capital gains taxes](/capital-gains-tax-investor/).*
@@ -21,7 +21,7 @@ To claim the deduction, you must [itemize](/itemized-deduction-investor/). For d
 
 <div class="wiki-infobox-title">Charitable contribution deduction — key facts</div>
 
-<img src="https://picsum.photos/seed/charitable-contribution-deduction/900/600" alt="A donation to a charitable organization" />
+<img src="/svg/taxes.svg" alt="A donation to a charitable organization" />
 
 <div class="wiki-infobox-caption">Give appreciated assets to maximize tax benefit while reducing capital gains.</div>
 

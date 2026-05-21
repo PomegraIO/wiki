@@ -7,7 +7,7 @@ keywords:
   - employer contribution
   - retention
   - cliff vesting
-image: "https://picsum.photos/seed/vesting-401k/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **vesting schedule** determines when employer contributions to a [401(k) plan](/401k-plan) become your property. Your own contributions are always 100% vested immediately, but employer [match](/401k-match) and contributions often vest gradually over time. If you leave before becoming fully vested, you forfeit the unvested portion.*
@@ -22,7 +22,7 @@ For the overall match structure, see [401(k) match](/401k-match); for the 401(k)
 
 <div class="wiki-infobox-title">Vesting (401(k)) — key facts</div>
 
-<img src="https://picsum.photos/seed/vesting-401k/900/600" alt="A timeline showing employer contributions gradually becoming owned by an employee" />
+<img src="/svg/personal-finance.svg" alt="A timeline showing employer contributions gradually becoming owned by an employee" />
 
 <div class="wiki-infobox-caption">The timeline: service years progress toward 100% ownership.</div>
 

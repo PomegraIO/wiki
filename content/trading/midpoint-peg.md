@@ -6,7 +6,7 @@ keywords:
   - peg order
   - order types
   - midpoint
-image: "https://picsum.photos/seed/midpoint-peg/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **midpoint peg** is a specialized [peg order](/peg-order) that always prices itself at the midpoint of the bid-ask spread. If the bid is $50.00 and the ask is $50.02, your order price is automatically set to $50.01. As the spread moves or widens, your order price adjusts to track the new midpoint.*
@@ -21,7 +21,7 @@ For a peg to the bid or ask, see [peg order](/peg-order). For a fixed limit, see
 
 <div class="wiki-infobox-title">Midpoint peg — key facts</div>
 
-<img src="https://picsum.photos/seed/midpoint-peg/900/600" alt="A price chart showing an order pegged to the midpoint" />
+<img src="/svg/trading.svg" alt="A price chart showing an order pegged to the midpoint" />
 
 <div class="wiki-infobox-caption">Midpoint peg: order price is always halfway between bid and ask.</div>
 

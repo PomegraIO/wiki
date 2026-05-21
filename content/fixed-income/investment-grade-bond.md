@@ -7,7 +7,7 @@ keywords:
   - low default risk
   - high-quality bond
   - credit quality
-image: "https://picsum.photos/seed/investment-grade-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *An **investment-grade bond** is a debt security carrying a [credit rating](/credit-rating) of BBB- or higher (S&P/Fitch) or Baa3 or higher (Moody's). These bonds are considered sufficiently safe for conservative portfolios, with default risk considered minimal. The category includes the strongest issuers (AAA-rated sovereigns and corporations) down to the weakest credit that institutional investors will routinely hold.*
@@ -22,7 +22,7 @@ For higher-risk bonds rated below investment grade, see [high-yield bond](/high-
 
 <div class="wiki-infobox-title">Investment-Grade Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/investment-grade-bond/900/600" alt="A portfolio of diversified investment-grade bonds and securities" />
+<img src="/svg/fixed-income.svg" alt="A portfolio of diversified investment-grade bonds and securities" />
 
 <div class="wiki-infobox-caption">Investment-grade bonds form the core of many conservative fixed-income portfolios.</div>
 

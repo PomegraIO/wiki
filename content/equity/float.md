@@ -7,7 +7,7 @@ keywords:
   - publicly held shares
   - market capitalization
   - freely tradeable shares
-image: "https://picsum.photos/seed/float/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Public float is the portion of a [company's](/public-company/) outstanding [shares](/stock/) that are freely tradeable by the public, excluding shares held by company insiders (officers, directors, major shareholders) and shares subject to transfer restrictions (such as [restricted stock](/equity/restricted-stock/) or [lock-up periods](/equity/lock-up-period/)). Public float is used to determine company size, set broker capital requirements, and calculate the minimum trading volume and bid-ask spread thresholds for stock exchange listings.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/float/900/600"
 
 <div class="wiki-infobox-title">Public float — key facts</div>
 
-<img src="https://picsum.photos/seed/float/900/600" alt="A pie chart showing public float vs insider holdings" />
+<img src="/svg/equity.svg" alt="A pie chart showing public float vs insider holdings" />
 
 <div class="wiki-infobox-caption">Freely tradeable shares; barometer of liquidity and size.</div>
 

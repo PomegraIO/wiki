@@ -7,7 +7,7 @@ keywords:
   - mining
   - construction
   - China
-image: "https://picsum.photos/seed/iron-ore/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *An **iron ore** — the primary source of iron metal for steel production — is a commodity whose price moves with the greatest industrial cycle on earth. China consumes roughly 70% of global iron ore and uses it to feed steel mills that supply construction, shipbuilding, and automotive manufacturing. Iron ore prices therefore move in lockstep with Chinese building cycles, making them a leading indicator of global economic health.*
@@ -22,7 +22,7 @@ This entry covers iron ore as a traded commodity. For steel end-products, see [s
 
 <div class="wiki-infobox-title">Iron Ore — key facts</div>
 
-<img src="https://picsum.photos/seed/iron-ore/900/600" alt="Iron ore raw and processed" />
+<img src="/svg/commodities.svg" alt="Iron ore raw and processed" />
 
 <div class="wiki-infobox-caption">Iron ore in raw and processed forms.</div>
 

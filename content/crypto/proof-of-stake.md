@@ -9,7 +9,7 @@ keywords:
   - consensus
   - ethereum
   - slashing
-image: "https://picsum.photos/seed/proof-of-stake/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **proof-of-stake** is a consensus mechanism where [validators](/validator) lock up cryptocurrency as collateral and are selected to propose blocks in proportion to their stake. Validators earn rewards for honest participation but lose their collateral (are "slashed") if they misbehave, making attacks economically irrational. Proof-of-stake is far more energy-efficient than [proof-of-work](/proof-of-work).*
@@ -24,7 +24,7 @@ This entry covers proof-of-stake as a mechanism. For its implementation in Ether
 
 <div class="wiki-infobox-title">Proof-of-Stake — key characteristics</div>
 
-<img src="https://picsum.photos/seed/proof-of-stake/900/600" alt="Validators staking collateral to secure the network" />
+<img src="/svg/crypto.svg" alt="Validators staking collateral to secure the network" />
 
 <div class="wiki-infobox-caption">Proof-of-stake: security through economic incentives.</div>
 

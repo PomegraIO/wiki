@@ -6,7 +6,7 @@ keywords:
   - time-in-force
   - market close
   - order expiration
-image: "https://picsum.photos/seed/day-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **day order** is an order that lives only for a single trading day. If it does not fill by market close, it is automatically canceled. This is the default time-in-force for most brokers — when you place a [limit order](/limit-order) and do not specify "good-til-canceled," you are placing a day order.*
@@ -21,7 +21,7 @@ For orders that survive across multiple days, see [GTC order](/gtc-order) and [G
 
 <div class="wiki-infobox-title">Day order — key facts</div>
 
-<img src="https://picsum.photos/seed/day-order/900/600" alt="A clock at market close showing an order expiring" />
+<img src="/svg/trading.svg" alt="A clock at market close showing an order expiring" />
 
 <div class="wiki-infobox-caption">Day orders expire at market close; you must resubmit them the next day if they do not fill.</div>
 

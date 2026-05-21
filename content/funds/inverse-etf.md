@@ -7,7 +7,7 @@ keywords:
   - bearish ETF
   - downside hedge
   - fund
-image: "https://picsum.photos/seed/inverse-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **inverse ETF** is an [ETF](/etf) designed to profit when an index falls, using [derivatives](/option) and short positions. A 1x inverse equity ETF gains approximately 1% for every 1% the S&P 500 falls; a 3x inverse ETF aims to gain 3%. Like [leveraged ETFs](/leveraged-etf), inverse ETFs are trading instruments with significant decay risk in buy-and-hold scenarios.*
@@ -22,7 +22,7 @@ This entry covers inverse ETFs as trading tools. For the opposite bet, see [leve
 
 <div class="wiki-infobox-title">Inverse ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/inverse-etf/900/600" alt="A downward-pointing financial chart with red indicators" />
+<img src="/svg/funds.svg" alt="A downward-pointing financial chart with red indicators" />
 
 <div class="wiki-infobox-caption">Inverse ETFs deliver gains when markets fall, hedging downside risk.</div>
 

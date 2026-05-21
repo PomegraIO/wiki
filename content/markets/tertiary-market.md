@@ -8,7 +8,7 @@ keywords:
   - Rule 144
   - lockup period
   - secondary trading
-image: "https://picsum.photos/seed/tertiary-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **tertiary market** is the market for securities subject to resale restrictions. Most commonly, it involves sales of restricted stock by company insiders — founders, executives, employees, and early investors — whose shares are subject to a lockup period or transfer restrictions. Tertiary market transactions require SEC registration exemptions (typically [Rule 144](/tertiary-market)) and typically involve a smaller pool of institutional buyers.*
@@ -23,7 +23,7 @@ This entry is about restricted securities trading. For unrestricted trading on p
 
 <div class="wiki-infobox-title">Tertiary Market — key facts</div>
 
-<img src="https://picsum.photos/seed/tertiary-market/900/600" alt="A broker discussing share sale terms with a company executive" />
+<img src="/svg/markets.svg" alt="A broker discussing share sale terms with a company executive" />
 
 <div class="wiki-infobox-caption">Tertiary market trading allows insiders to liquidate shares before restrictions fully lift.</div>
 

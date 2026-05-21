@@ -7,7 +7,7 @@ keywords:
   - pattern
   - indecision
   - technical analysis
-image: "https://picsum.photos/seed/harami/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **harami** is a two-candle pattern in which the second candle's high and low both sit entirely within the first candle's high and low—the second candle is "inside" the first. The Japanese term means "pregnant" or "in the womb," evoking the image of one candle inside another. The pattern signals indecision: after a strong move (the first candle), the second candle shows the market has lost momentum and is consolidating. While it does not predict direction as directly as the [engulfing pattern](/technical-analysis/engulfing-pattern), the harami often precedes a reversal, especially when formed at key price levels or after sustained moves.*
@@ -22,7 +22,7 @@ For two-candle patterns broadly, see [candlestick pattern](/technical-analysis/c
 
 <div class="wiki-infobox-title">Harami — key facts</div>
 
-<img src="https://picsum.photos/seed/harami/900/600" alt="A harami pattern: a large candle followed by a smaller candle entirely within its range" />
+<img src="/svg/technical-analysis.svg" alt="A harami pattern: a large candle followed by a smaller candle entirely within its range" />
 
 <div class="wiki-infobox-caption">A bullish harami: the second candle's range sits entirely within the first, showing consolidation after a move.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - estimation risk
   - calibration error
   - assumption uncertainty
-image: "https://picsum.photos/seed/parameter-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Parameter risk is the danger that the input parameters estimated for a financial model — volatility, correlation, interest rates, default probabilities — are wrong, incorrect, or unrepresentative, leading to misdecision, mispricing, or losses. It is a subset of [model-risk](/model-risk) focused on the inputs rather than the model structure itself.*
@@ -22,7 +22,7 @@ This entry covers risks from incorrect parameters in sound models. For risks fro
 
 <div class="wiki-infobox-title">Parameter Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/parameter-risk/900/600" alt="A slider adjustment on a control panel showing a parameter being misset" />
+<img src="/svg/risk.svg" alt="A slider adjustment on a control panel showing a parameter being misset" />
 
 <div class="wiki-infobox-caption">Small parameter errors can lead to large output errors.</div>
 

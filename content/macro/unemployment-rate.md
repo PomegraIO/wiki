@@ -7,7 +7,7 @@ keywords:
   - labor statistics
   - labor market
   - unemployment
-image: "https://picsum.photos/seed/unemployment-rate/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The unemployment rate is the percentage of the [labor force](/labor-force-participation-rate) that is actively looking for work but cannot find a job. It is the most cited single measure of labor market health, though it has important limitations.*
@@ -22,7 +22,7 @@ Unemployment rate = Unemployed ÷ Labor force. A worker not actively seeking wor
 
 <div class="wiki-infobox-title">Unemployment Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/unemployment-rate/900/600" alt="US unemployment rate history" />
+<img src="/svg/macro.svg" alt="US unemployment rate history" />
 
 <div class="wiki-infobox-caption">US unemployment fell to 3.5% in 2023, near historical lows, then rose to 4-4.2% in 2024-26.</div>
 

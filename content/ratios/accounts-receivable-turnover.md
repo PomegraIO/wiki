@@ -7,7 +7,7 @@ keywords:
   - working capital
   - days sales outstanding
   - customer payments
-image: "https://picsum.photos/seed/accounts-receivable-turnover/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **accounts receivable turnover** divides annual revenue by average accounts receivable. A turnover of 12 means the company collects its receivables 12 times per year — roughly every 30 days. High turnover signals efficient collection; low turnover signals customers are slow to pay.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/accounts-receivable-turnover/900/600"
 
 <div class="wiki-infobox-title">Accounts Receivable Turnover — key facts</div>
 
-<img src="https://picsum.photos/seed/accounts-receivable-turnover/900/600" alt="Revenue relative to outstanding receivables" />
+<img src="/svg/ratios.svg" alt="Revenue relative to outstanding receivables" />
 
 <div class="wiki-infobox-caption">How fast cash collects from customers.</div>
 

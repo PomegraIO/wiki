@@ -8,7 +8,7 @@ keywords:
   - systematic investment
   - fixed amount
   - investment discipline
-image: "https://picsum.photos/seed/dollar-cost-averaging/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Dollar-cost averaging (DCA) is an investment strategy where an investor commits to investing a fixed amount of money at regular intervals — monthly, quarterly, or annually — regardless of [stock](/stock/) prices, market conditions, or sentiment. The goal is to reduce the impact of [volatility](/alpha/) and remove the burden of timing.*
@@ -23,7 +23,7 @@ For the alternative (single large investment), see [lump-sum investing](/lump-su
 
 <div class="wiki-infobox-title">Dollar-cost averaging — key facts</div>
 
-<img src="https://picsum.photos/seed/dollar-cost-averaging/900/600" alt="A regular monthly investment pattern continuing through market ups and downs" />
+<img src="/svg/strategies.svg" alt="A regular monthly investment pattern continuing through market ups and downs" />
 
 <div class="wiki-infobox-caption">DCA investors invest the same amount every month, buying more shares when prices are low, fewer when prices are high.</div>
 

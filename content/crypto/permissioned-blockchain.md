@@ -7,7 +7,7 @@ keywords:
   - access control
   - enterprise blockchain
   - validator
-image: "https://picsum.photos/seed/permissioned-blockchain/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **permissioned blockchain** is a [distributed ledger](/distributed-ledger) where participation is restricted — only approved nodes can validate transactions, submit data, or access the network. Access is controlled through identity management and authentication. Permissioned blockchains are typically used in enterprise and institutional settings.*
@@ -22,7 +22,7 @@ This entry covers permissioned blockchains as a concept. For permissionless bloc
 
 <div class="wiki-infobox-title">Permissioned Blockchain — characteristics</div>
 
-<img src="https://picsum.photos/seed/permissioned-blockchain/900/600" alt="Permissioned network with approved participants" />
+<img src="/svg/crypto.svg" alt="Permissioned network with approved participants" />
 
 <div class="wiki-infobox-caption">A permissioned blockchain: access by approval only.</div>
 

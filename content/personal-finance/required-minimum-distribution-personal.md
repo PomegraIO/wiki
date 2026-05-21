@@ -7,7 +7,7 @@ keywords:
   - retirement withdrawal
   - mandatory distribution
   - retirement account
-image: "https://picsum.photos/seed/required-minimum-distribution-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **required minimum distribution (RMD)** is the minimum amount you must withdraw annually from certain retirement accounts starting at age 73. The IRS requires these withdrawals to ensure that money set aside for retirement is eventually taxed. Failing to withdraw the required amount results in a 25% penalty on the shortfall.*
@@ -22,7 +22,7 @@ For accounts that do not have RMDs, see [Roth IRA](/roth-ira); for planning to m
 
 <div class="wiki-infobox-title">Required Minimum Distribution — key facts</div>
 
-<img src="https://picsum.photos/seed/required-minimum-distribution-personal/900/600" alt="An IRS form showing RMD calculation and a calendar marking age 73" />
+<img src="/svg/personal-finance.svg" alt="An IRS form showing RMD calculation and a calendar marking age 73" />
 
 <div class="wiki-infobox-caption">The requirement: mandatory withdrawal, escalating with age.</div>
 

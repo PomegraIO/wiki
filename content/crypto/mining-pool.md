@@ -8,7 +8,7 @@ keywords:
   - variance reduction
   - mining collective
   - payout scheme
-image: "https://picsum.photos/seed/mining-pool/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **mining pool** is a collective of [cryptocurrency miners](/mining-bitcoin) who combine their computational power to mine blocks more reliably. Rather than each miner independently solving puzzles and waiting months or years to find a block, pool members contribute shares of work and receive regular payouts proportional to their contribution.*
@@ -23,7 +23,7 @@ This entry covers mining pools as an organisational structure. For individual mi
 
 <div class="wiki-infobox-title">Mining Pool — key facts</div>
 
-<img src="https://picsum.photos/seed/mining-pool/900/600" alt="Mining pool network and reward distribution" />
+<img src="/svg/crypto.svg" alt="Mining pool network and reward distribution" />
 
 <div class="wiki-infobox-caption">A mining pool: shared hash power, distributed rewards.</div>
 

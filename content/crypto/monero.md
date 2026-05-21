@@ -8,7 +8,7 @@ keywords:
   - cryptocurrency
   - ring signature
   - stealth address
-image: "https://picsum.photos/seed/monero/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Monero** (**XMR**) is a [cryptocurrency](/cryptocurrency-exchange) explicitly designed to prioritise privacy. Unlike [Bitcoin](/bitcoin), where transactions are transparent and pseudonymous, Monero obscures the sender, recipient, and transaction amount using cryptographic techniques, making it the primary coin used for truly anonymous transfers.*
@@ -23,7 +23,7 @@ This entry covers Monero's privacy features and design. For transparent blockcha
 
 <div class="wiki-infobox-title">Monero — key facts</div>
 
-<img src="https://picsum.photos/seed/monero/900/600" alt="Monero logo and privacy visualization" />
+<img src="/svg/crypto.svg" alt="Monero logo and privacy visualization" />
 
 <div class="wiki-infobox-caption">Monero: a cryptocurrency engineered for maximum privacy.</div>
 

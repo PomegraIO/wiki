@@ -8,7 +8,7 @@ keywords:
   - debt financing
   - private equity
   - fund
-image: "https://picsum.photos/seed/leveraged-buyout-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **leveraged buyout (LBO) fund** is a [private equity fund](/private-equity-fund) that acquires companies using significant borrowed capital. An LBO fund might finance 70% of a purchase price with debt and 30% with equity, then restructure the company to improve profitability and service the debt. Returns are amplified by leverage if the company improves but devastated if it deteriorates.*
@@ -23,7 +23,7 @@ This entry covers LBO strategy. For private equity broadly, see [private equity 
 
 <div class="wiki-infobox-title">Leveraged Buyout Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/leveraged-buyout-fund/900/600" alt="A capital structure diagram showing equity, debt, and cash flow" />
+<img src="/svg/funds.svg" alt="A capital structure diagram showing equity, debt, and cash flow" />
 
 <div class="wiki-infobox-caption">LBO funds use leverage to amplify returns from operational improvements.</div>
 

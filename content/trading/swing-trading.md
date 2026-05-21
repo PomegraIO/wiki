@@ -6,7 +6,7 @@ keywords:
   - intraday trading
   - multi-day trading
   - technical analysis
-image: "https://picsum.photos/seed/swing-trading/900/600"
+image: "/svg/trading.svg"
 ---
 
 *Swing trading is a trading style where positions are held for multiple days to a few weeks (anywhere from 2 days to 4 weeks), aiming to profit from price swings or temporary reversals within a longer trend. Swing traders use technical analysis, support and resistance levels, and often employ [limit orders](/limit-order) and [trailing stops](/trailing-stop-order) to manage positions. It sits between [day trading](/day-order) (hours to minutes) and longer-term [position trading](/position-trading) (months to years).*
@@ -21,7 +21,7 @@ For very short-term trading, see [scalping](/scalping) and [day trading](/day-or
 
 <div class="wiki-infobox-title">Swing trading — key facts</div>
 
-<img src="https://picsum.photos/seed/swing-trading/900/600" alt="A price chart with swing highs and lows marked" />
+<img src="/svg/trading.svg" alt="A price chart with swing highs and lows marked" />
 
 <div class="wiki-infobox-caption">Swing traders profit from short-term price swings within broader trends.</div>
 

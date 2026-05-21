@@ -8,7 +8,7 @@ keywords:
   - position trimming
   - position building
   - tactical trades
-image: "https://picsum.photos/seed/capital-rotation/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Capital rotation is a portfolio-management approach of systematically moving capital from positions or asset classes that are less attractive to those that appear more attractive, whether based on valuation, momentum, or fundamental changes.*
@@ -23,7 +23,7 @@ For systematic rebalancing, see [asset-rebalancing](/asset-rebalancing/). For ti
 
 <div class="wiki-infobox-title">Capital rotation — key facts</div>
 
-<img src="https://picsum.photos/seed/capital-rotation/900/600" alt="Capital flowing from one position or asset to another within a portfolio" />
+<img src="/svg/strategies.svg" alt="Capital flowing from one position or asset to another within a portfolio" />
 
 <div class="wiki-infobox-caption">Capital rotators continuously move money to the most attractive opportunities within their portfolio.</div>
 

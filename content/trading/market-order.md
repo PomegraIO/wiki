@@ -7,7 +7,7 @@ keywords:
   - immediate
   - instant execution
   - order types
-image: "https://picsum.photos/seed/market-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **market order** is an instruction to buy or sell a security as fast as possible, at whatever price the market is currently willing to offer. You sacrifice control over price in exchange for certainty of execution and speed. It is the quickest way in or out of a position, but in volatile markets or illiquid securities, the price you actually receive can be meaningfully worse than the price you saw on screen.*
@@ -22,7 +22,7 @@ For deliberate control over price, see [limit order](/limit-order). For a hybrid
 
 <div class="wiki-infobox-title">Market order — key facts</div>
 
-<img src="https://picsum.photos/seed/market-order/900/600" alt="A trading terminal showing a market order execution" />
+<img src="/svg/trading.svg" alt="A trading terminal showing a market order execution" />
 
 <div class="wiki-infobox-caption">Market orders execute instantly at the best available price, accepting whatever the market offers.</div>
 

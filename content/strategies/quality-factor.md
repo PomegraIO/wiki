@@ -8,7 +8,7 @@ keywords:
   - financial health
   - return on capital
   - profitable growth
-image: "https://picsum.photos/seed/quality-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The quality factor is a systematic investment approach that overweights [stocks](/stock/) of high-quality businesses — those with high profitability, strong balance sheets, low leverage, and durable competitive advantages — betting that such fundamentals deliver superior long-term returns.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Quality-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/quality-factor/900/600" alt="A chart showing high-quality companies outperforming over long periods" />
+<img src="/svg/strategies.svg" alt="A chart showing high-quality companies outperforming over long periods" />
 
 <div class="wiki-infobox-caption">Quality factors reward profitable, resilient businesses with staying power.</div>
 

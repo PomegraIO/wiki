@@ -7,7 +7,7 @@ keywords:
   - working capital
   - days payable outstanding
   - payment terms
-image: "https://picsum.photos/seed/accounts-payable-turnover/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **accounts payable turnover** divides annual COGS by average accounts payable. A turnover of 6 means the company pays off all invoices 6 times per year — roughly every 60 days. Lower turnover means the company is stretching payments to suppliers longer, which can improve cash flow but may strain supplier relationships.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/accounts-payable-turnover/900/600"
 
 <div class="wiki-infobox-title">Accounts Payable Turnover — key facts</div>
 
-<img src="https://picsum.photos/seed/accounts-payable-turnover/900/600" alt="COGS relative to outstanding payables" />
+<img src="/svg/ratios.svg" alt="COGS relative to outstanding payables" />
 
 <div class="wiki-infobox-caption">How fast the company pays suppliers.</div>
 

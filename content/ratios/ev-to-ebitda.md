@@ -7,7 +7,7 @@ keywords:
   - ebitda
   - valuation multiple
   - leverage-neutral
-image: "https://picsum.photos/seed/ev-to-ebitda/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EV/EBITDA ratio** — enterprise value divided by EBITDA — is the dominant valuation multiple in investment banking. It compares the total economic cost to buy a company (enterprise value) against its cash earnings before interest payments, taxes, and accounting charges. A lower EV/EBITDA suggests cheaper valuation; a higher multiple suggests growth is priced in.*
@@ -22,7 +22,7 @@ This entry covers the key enterprise-value metric. For price-based equivalents, 
 
 <div class="wiki-infobox-title">EV/EBITDA Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/ev-to-ebitda/900/600" alt="Enterprise value compared to EBITDA earnings" />
+<img src="/svg/ratios.svg" alt="Enterprise value compared to EBITDA earnings" />
 
 <div class="wiki-infobox-caption">The leverage-neutral comparison used by every dealmaker.</div>
 

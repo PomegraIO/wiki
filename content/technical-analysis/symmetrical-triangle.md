@@ -7,7 +7,7 @@ keywords:
   - technical analysis
   - breakout
   - consolidation
-image: "https://picsum.photos/seed/symmetrical-triangle/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **symmetrical triangle** is formed by two trendlines converging at the same rate—a falling upper line (connecting lower highs) and a rising lower line (connecting higher lows)—creating a symmetrical wedge. As the triangle develops, price oscillates within an ever-narrowing range with no directional bias. Unlike the [ascending triangle](/technical-analysis/ascending-triangle) (bullish) or [descending triangle](/technical-analysis/descending-triangle) (bearish), the symmetrical triangle does not signal which direction the breakout will occur. The breakout can be up or down; the pattern is neutral until the break happens. Once it does, the move is often sharp and moves in the breakout direction.*
@@ -22,7 +22,7 @@ For converging patterns, see [ascending triangle](/technical-analysis/ascending-
 
 <div class="wiki-infobox-title">Symmetrical triangle — key facts</div>
 
-<img src="https://picsum.photos/seed/symmetrical-triangle/900/600" alt="A symmetrical triangle with converging upper and lower lines" />
+<img src="/svg/technical-analysis.svg" alt="A symmetrical triangle with converging upper and lower lines" />
 
 <div class="wiki-infobox-caption">Symmetrical triangle: equal convergence rate; neutral; breakout direction determined by context.</div>
 

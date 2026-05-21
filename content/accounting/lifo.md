@@ -7,7 +7,7 @@ keywords:
   - last-in first-out
   - cost of goods sold
   - tax advantage
-image: "https://picsum.photos/seed/lifo/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[LIFO](/lifo) stands for **Last-In, First-Out**. It is an inventory accounting method where the most recently purchased inventory is assumed to be sold first. When prices are rising, [LIFO](/lifo) produces lower reported profit (because newer, higher-cost inventory is expensed) and lower taxes. [LIFO](/lifo) is permitted under [GAAP](/generally-accepted-accounting-principles) in the US but is **not** permitted under [IFRS](/international-financial-reporting-standards), which limits its use to US companies. For tax purposes, [LIFO](/lifo) is tax-advantaged but requires significant record-keeping. Investors must understand [LIFO](/lifo) reserves to compare [LIFO](/lifo) companies to [FIFO](/fifo) competitors.*
@@ -22,7 +22,7 @@ This entry covers [LIFO](/lifo) as an inventory method. For the alternative, see
 
 <div class="wiki-infobox-title">LIFO — key facts</div>
 
-<img src="https://picsum.photos/seed/lifo/900/600" alt="A stack of inventory boxes with the most recent on top, representing LIFO" />
+<img src="/svg/accounting.svg" alt="A stack of inventory boxes with the most recent on top, representing LIFO" />
 
 <div class="wiki-infobox-caption">LIFO assumes the newest inventory is sold first.</div>
 

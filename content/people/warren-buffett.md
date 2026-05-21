@@ -7,7 +7,7 @@ keywords:
   - berkshire hathaway
   - investor
   - capital allocation
-image: "https://picsum.photos/seed/warren-buffett/900/600"
+image: "/svg/people.svg"
 ---
 
 *Warren Buffett has spent over six decades building Berkshire Hathaway into a holding company rivalling the market itself, proving that patient capital, rigorous analysis, and rock-solid discipline can outpace the crowd by orders of magnitude.*
@@ -22,7 +22,7 @@ This entry is about the investor. For his investment company, see Berkshire Hath
 
 <div class="wiki-infobox-title">Warren Buffett — key facts</div>
 
-<img src="https://picsum.photos/seed/warren-buffett/900/600" alt="Overlooking a sprawling corporate headquarters complex" />
+<img src="/svg/people.svg" alt="Overlooking a sprawling corporate headquarters complex" />
 
 <div class="wiki-infobox-caption">The headquarters of a capital allocator — where billions flow toward the highest-return deployment.</div>
 

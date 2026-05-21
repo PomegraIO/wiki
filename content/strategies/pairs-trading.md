@@ -8,7 +8,7 @@ keywords:
   - hedged pairs
   - statistical arbitrage
   - convergence trading
-image: "https://picsum.photos/seed/pairs-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Pairs trading is a market-neutral strategy of simultaneously taking a long position in one [stock](/stock/) and a short position in a related stock, betting that the two will converge in relative value. By hedging one stock against another, the pairs trader removes [market risk](/beta/), leaving only the relative-value bet.*
@@ -23,7 +23,7 @@ For broader statistical arbitrage, see [statistical arbitrage](/statistical-arbi
 
 <div class="wiki-infobox-title">Pairs trading — key facts</div>
 
-<img src="https://picsum.photos/seed/pairs-trading/900/600" alt="Two correlated stocks with divergent valuations, positioned to converge" />
+<img src="/svg/strategies.svg" alt="Two correlated stocks with divergent valuations, positioned to converge" />
 
 <div class="wiki-infobox-caption">Pairs traders bet on relative value, hedging market moves while capturing convergence.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - capital gains
   - capital losses
   - tax form
-image: "https://picsum.photos/seed/schedule-d/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Schedule D** (Capital Gains and Losses) is the IRS form where you report [capital gains](/capital-gains-tax-investor/) and losses from sales of securities, real estate, and other assets. The form is completed after you fill out [Form 8949](/form-8949/) (detailed transactions) and summarizes your net short-term and net long-term gains or losses. The net result affects your total [taxable income](/tax-bracket-investor/) and [tax liability](/marginal-tax-rate-investor/).*
@@ -21,7 +21,7 @@ For detailed transaction reporting, see [Form 8949](/form-8949/). For [dividend]
 
 <div class="wiki-infobox-title">Schedule D — key facts</div>
 
-<img src="https://picsum.photos/seed/schedule-d/900/600" alt="A completed Schedule D form" />
+<img src="/svg/taxes.svg" alt="A completed Schedule D form" />
 
 <div class="wiki-infobox-caption">Schedule D summarizes your net capital gains and losses for the year.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - bank
   - wealth management
   - Zurich
-image: "https://picsum.photos/seed/ubs/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **UBS Group AG** is Switzerland's largest [bank](/broker) and one of the world's leading financial institutions, headquartered in Zurich. Operating primarily in wealth management, asset management, and investment banking, UBS serves ultra-high-net-worth individuals, corporations, and institutional investors globally and is a major player in international capital markets.*
@@ -22,7 +22,7 @@ UBS was formed in 1998 through the merger of Union Bank of Switzerland and Swiss
 
 <div class="wiki-infobox-title">UBS — key facts</div>
 
-<img src="https://picsum.photos/seed/ubs/900/600" alt="UBS headquarters in Zurich" />
+<img src="/svg/institutions.svg" alt="UBS headquarters in Zurich" />
 
 <div class="wiki-infobox-caption">UBS headquarters in the Zurich financial district.</div>
 

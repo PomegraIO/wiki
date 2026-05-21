@@ -7,7 +7,7 @@ keywords:
   - financial crisis
   - insurance
   - credit default swaps
-image: "https://picsum.photos/seed/aig-bailout/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **AIG bailout** was a series of government rescues of American International Group (AIG), the world's largest insurer, which faced collapse in September 2008 due to losses on credit default swaps it had sold on mortgage-backed securities. The government ultimately provided $182 billion in support, making AIG the most expensive government bailout of the financial crisis. The massive intervention sparked outrage about corporate compensation and moral hazard.*
@@ -22,7 +22,7 @@ This entry covers the AIG bailout. For the broader crisis context, see 2008 Fina
 
 <div class="wiki-infobox-title">AIG Bailout — key facts</div>
 
-<img src="https://picsum.photos/seed/aig-bailout/900/600" alt="A photograph of AIG's corporate headquarters" />
+<img src="/svg/history.svg" alt="A photograph of AIG's corporate headquarters" />
 
 <div class="wiki-infobox-caption">AIG's insurance operations provided cover for mortgages and mortgage-backed securities, creating massive hidden liabilities.</div>
 

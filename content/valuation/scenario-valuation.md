@@ -7,7 +7,7 @@ keywords:
   - bear case
   - base case
   - bull case
-image: "https://picsum.photos/seed/scenario-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **scenario valuation** avoids the false precision of a single intrinsic value by explicitly modeling 3–5 named scenarios (pessimistic, base, optimistic) with different assumptions and assigned probabilities. The result is a weighted expected value and, more importantly, transparency about the range of outcomes and the key drivers of that range. It is a practical, honest alternative to [DCF](/discounted-cash-flow-valuation) point estimates or [Monte Carlo](/monte-carlo-valuation) simulations.*

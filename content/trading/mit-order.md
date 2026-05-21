@@ -6,7 +6,7 @@ keywords:
   - market-if-touched
   - order types
   - conditional order
-image: "https://picsum.photos/seed/mit-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *An **MIT order** (market-if-touched) is a conditional order that becomes a [market order](/market-order) once a trigger price is reached. Unlike a [stop order](/stop-order) (which is also price-triggered), an MIT order is typically used to *enter* a position on a pullback in an uptrend, rather than to exit on a breakdown. Once triggered, it executes at the market, with no price protection.*
@@ -21,7 +21,7 @@ For price protection when triggered, see [stop-limit order](/stop-limit-order). 
 
 <div class="wiki-infobox-title">MIT order — key facts</div>
 
-<img src="https://picsum.photos/seed/mit-order/900/600" alt="A price chart showing an MIT order trigger point" />
+<img src="/svg/trading.svg" alt="A price chart showing an MIT order trigger point" />
 
 <div class="wiki-infobox-caption">An MIT order waits dormant until price crosses the trigger, then becomes a market order.</div>
 

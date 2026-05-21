@@ -7,7 +7,7 @@ keywords:
   - 1998
   - hedge fund collapse
   - systemic risk
-image: "https://picsum.photos/seed/long-term-capital-management/900/600"
+image: "/svg/history.svg"
 ---
 
 *Long-Term Capital Management (LTCM) was a hedge fund founded in 1994 by prominent traders and academics, including Nobel Prize winners Robert Merton and Myron Scholes. By 1998, it had accumulated massive leveraged positions in global markets. When Russia defaulted in August 1998, LTCM's positions unraveled, threatening a systemic financial crisis. The Federal Reserve organized an emergency rescue, signalling that even private firms could pose systemic risk.*
@@ -22,7 +22,7 @@ This entry covers LTCM's collapse. For the Russian crisis that triggered it, see
 
 <div class="wiki-infobox-title">Long-Term Capital Management — key facts</div>
 
-<img src="https://picsum.photos/seed/long-term-capital-management/900/600" alt="A photograph of the LTCM offices in Greenwich, Connecticut" />
+<img src="/svg/history.svg" alt="A photograph of the LTCM offices in Greenwich, Connecticut" />
 
 <div class="wiki-infobox-caption">LTCM, headquartered in Greenwich, managed billions in complex leveraged trades.</div>
 

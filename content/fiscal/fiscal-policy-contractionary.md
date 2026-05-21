@@ -7,7 +7,7 @@ keywords:
   - spending cuts
   - tax increases
   - deficit reduction
-image: "https://picsum.photos/seed/fiscal-policy-contractionary/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **contractionary fiscal policy** is when government reduces spending or raises taxes to cool aggregate demand and reduce [inflation](/inflation) or [budget deficits](/budget-deficit). It narrows the [budget deficit](/budget-deficit) but can slow growth and increase [unemployment](/central-bank) in the short run.*
@@ -22,7 +22,7 @@ This entry covers demand-reducing policy. For the opposite approach, see [fiscal
 
 <div class="wiki-infobox-title">Fiscal Policy Contractionary — key facts</div>
 
-<img src="https://picsum.photos/seed/fiscal-policy-contractionary/900/600" alt="Contractionary fiscal policy" />
+<img src="/svg/fiscal.svg" alt="Contractionary fiscal policy" />
 
 <div class="wiki-infobox-caption">Contractionary policy narrows the deficit but slows growth.</div>
 

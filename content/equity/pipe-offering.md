@@ -7,7 +7,7 @@ keywords:
   - private placement
   - equity offering
   - discount offering
-image: "https://picsum.photos/seed/pipe-offering/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A PIPE offering (private investment in public equity) is a transaction in which a [public company](/public-company/) sells shares directly to institutional investors (private equity firms, hedge funds, mutual funds, or family offices) at a negotiated price, typically at a discount to the current market price. PIPEs are faster and cheaper than traditional [follow-on offerings](/equity/follow-on-offering/) but result in greater dilution because of the discount. They are often used to raise capital for acquisitions, debt repayment, or balance sheet strengthening.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/pipe-offering/900/600"
 
 <div class="wiki-infobox-title">PIPE offering — key facts</div>
 
-<img src="https://picsum.photos/seed/pipe-offering/900/600" alt="A PIPE subscription agreement showing investor commitments" />
+<img src="/svg/equity.svg" alt="A PIPE subscription agreement showing investor commitments" />
 
 <div class="wiki-infobox-caption">Private sale to institutions at negotiated discount.</div>
 

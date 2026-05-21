@@ -6,7 +6,7 @@ keywords:
   - payment for order flow
   - order routing
   - conflicts of interest
-image: "https://picsum.photos/seed/payment-for-order-flow/900/600"
+image: "/svg/trading.svg"
 ---
 
 *Payment for order flow (PFOF) is an arrangement where a broker routes retail customer orders to a [market maker](/market-maker-trading) (like Citadel, Virtu, or others) rather than a [lit venue](/lit-venue), and the market maker pays the broker for the order flow. The customer sees the execution; the broker receives a rebate or revenue share. This is legal but controversial: the customer might get modest price improvement (the market maker offers a slightly better price to compete for order flow), but the broker has a financial incentive to route there even if a lit exchange would be better.*
@@ -21,7 +21,7 @@ For transparent routing to public exchanges, see [lit venue](/lit-venue). For au
 
 <div class="wiki-infobox-title">Payment for order flow — key facts</div>
 
-<img src="https://picsum.photos/seed/payment-for-order-flow/900/600" alt="A diagram showing cash flow from market maker to broker to customer" />
+<img src="/svg/trading.svg" alt="A diagram showing cash flow from market maker to broker to customer" />
 
 <div class="wiki-infobox-caption">PFOF: broker receives payment, customer receives modest price improvement, conflicts loom.</div>
 

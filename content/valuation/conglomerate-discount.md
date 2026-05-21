@@ -7,7 +7,7 @@ keywords:
   - valuation discount
   - SOTP
   - holding company
-image: "https://picsum.photos/seed/conglomerate-discount/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **conglomerate discount** is the empirical observation that diversified conglomerates trade at a discount to the sum of their parts. A company whose segments are worth 100 billion dollars in aggregate often trades at 80–90 billion dollars. This discount suggests that the market values complexity, reduces its confidence in management capital allocation, or simply struggles to analyze diversified operations.*

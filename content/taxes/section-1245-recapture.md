@@ -6,7 +6,7 @@ keywords:
   - recapture
   - equipment
   - depreciation
-image: "https://picsum.photos/seed/section-1245-recapture/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Section 1245 recapture** rule requires that gains on the sale of depreciable personal property—equipment, machinery, vehicles, and furniture—be taxed at ordinary [income tax](/tax-bracket-investor/) rates (up to 37% federally) to the extent of depreciation deductions taken. This contrasts with [Section 1250](/section-1250-recapture/) property (real estate) which has a preferential 25% rate. For business owners and investors in equipment-heavy operations, [1245](/section-1245-recapture/) recapture can be the largest tax on a sale.*
@@ -21,7 +21,7 @@ For real estate recapture (lower rates), see [Section 1250 recapture](/section-1
 
 <div class="wiki-infobox-title">Section 1245 recapture — key facts</div>
 
-<img src="https://picsum.photos/seed/section-1245-recapture/900/600" alt="Equipment and machinery showing depreciation and recapture" />
+<img src="/svg/taxes.svg" alt="Equipment and machinery showing depreciation and recapture" />
 
 <div class="wiki-infobox-caption">[1245](/section-1245-recapture/) property includes equipment, machines, and vehicles.</div>
 

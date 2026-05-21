@@ -7,7 +7,7 @@ keywords:
   - options exchange
   - derivatives
   - Chicago
-image: "https://picsum.photos/seed/cboe-options-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **CBOE – Chicago Board Options Exchange** is the largest [options](/option) exchange in the world and the primary venue where equity [option](/option) contracts are traded in the United States. Headquartered in Chicago and operating since 1973, the CBOE is home to the VIX volatility index, one of the most important and widely referenced measures of market fear and volatility.*
@@ -22,7 +22,7 @@ The CBOE is part of Cboe Global Markets, a holding company that also operates fu
 
 <div class="wiki-infobox-title">CBOE — key facts</div>
 
-<img src="https://picsum.photos/seed/cboe-options-exchange/900/600" alt="The CBOE trading floor in Chicago" />
+<img src="/svg/institutions.svg" alt="The CBOE trading floor in Chicago" />
 
 <div class="wiki-infobox-caption">The CBOE trading floor at 400 S. LaSalle Street, Chicago.</div>
 

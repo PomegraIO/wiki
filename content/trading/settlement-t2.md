@@ -6,7 +6,7 @@ keywords:
   - settlement date
   - trade settlement
   - clearing
-image: "https://picsum.photos/seed/settlement-t2/900/600"
+image: "/svg/trading.svg"
 ---
 
 *T+2 settlement (or "T plus 2") means that a stock trade executed today settles (cash and shares exchange hands between buyer and seller) two business days later. If you buy a stock on Monday, you own the shares on Wednesday (T+2). You do not have the cash until Wednesday either. T+2 is the regulatory standard for most U.S. equities and is managed by the [clearinghouse](/clearing-firm).*
@@ -21,7 +21,7 @@ For settlement timing, see settlement. For the infrastructure, see [clearinghous
 
 <div class="wiki-infobox-title">T+2 settlement — key facts</div>
 
-<img src="https://picsum.photos/seed/settlement-t2/900/600" alt="A timeline showing trade execution and T+2 settlement" />
+<img src="/svg/trading.svg" alt="A timeline showing trade execution and T+2 settlement" />
 
 <div class="wiki-infobox-caption">Trade executed Monday; settlement (cash and shares exchange) on Wednesday.</div>
 

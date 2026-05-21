@@ -7,7 +7,7 @@ keywords:
   - knock-out option
   - exotic option
   - path-dependent derivative
-image: "https://picsum.photos/seed/barrier-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **barrier option** is an exotic derivative whose existence or payoff is contingent on the underlying asset's price reaching (or not reaching) a specified level—the "barrier"—at any point before [expiration](/expiration-date). If the barrier is crossed, a knock-in option activates; a knock-out option expires worthless. This path-dependent structure makes barrier options cheaper and more tailored to specific hedging needs than [vanilla option](/call-option) alternatives.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/barrier-option/900/600"
 
 <div class="wiki-infobox-title">Barrier Option — key facts</div>
 
-<img src="https://picsum.photos/seed/barrier-option/900/600" alt="Price chart with a horizontal barrier level marked" />
+<img src="/svg/derivatives.svg" alt="Price chart with a horizontal barrier level marked" />
 
 <div class="wiki-infobox-caption">A barrier level (line) determines whether the option lives or dies.</div>
 

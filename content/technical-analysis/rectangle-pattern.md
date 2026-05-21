@@ -7,7 +7,7 @@ keywords:
   - consolidation
   - breakout
   - technical analysis
-image: "https://picsum.photos/seed/rectangle-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **rectangle pattern** (also called a **box pattern**) consists of price oscillating between two flat horizontal lines—a ceiling (resistance) and a floor (support). Price bounces between these two levels repeatedly, creating a rectangular shape on the chart. The rectangle reveals a market in balance; neither buyers nor sellers have the upper hand. Price tests resistance multiple times (failing to break through) and tests support multiple times (failing to break through). Eventually, price breaks decisively above or below the rectangle's boundaries, initiating a sustained move in the breakout direction. Unlike converging triangles, the rectangle's boundaries are parallel, not converging.*
@@ -22,7 +22,7 @@ For parallel patterns, see [channel-pattern](/technical-analysis/channel-pattern
 
 <div class="wiki-infobox-title">Rectangle pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/rectangle-pattern/900/600" alt="A rectangle pattern: two flat horizontal lines bounding oscillating price" />
+<img src="/svg/technical-analysis.svg" alt="A rectangle pattern: two flat horizontal lines bounding oscillating price" />
 
 <div class="wiki-infobox-caption">Rectangle: price oscillates between flat support and resistance; breakout in either direction.</div>
 

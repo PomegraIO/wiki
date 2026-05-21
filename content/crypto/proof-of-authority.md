@@ -8,7 +8,7 @@ keywords:
   - reputation
   - consensus
   - permissioned
-image: "https://picsum.photos/seed/proof-of-authority/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **proof-of-authority** (**PoA**) is a consensus mechanism where a set of known, approved validators validate transactions based on their reputation rather than cryptocurrency stake. PoA is highly efficient but requires trusting the validators. It is commonly used in [permissioned blockchains](/permissioned-blockchain), testnets, and private networks.*
@@ -23,7 +23,7 @@ This entry covers proof-of-authority as a mechanism. For proof-of-stake, see [pr
 
 <div class="wiki-infobox-title">Proof-of-Authority — key characteristics</div>
 
-<img src="https://picsum.photos/seed/proof-of-authority/900/600" alt="Approved validators validating blocks" />
+<img src="/svg/crypto.svg" alt="Approved validators validating blocks" />
 
 <div class="wiki-infobox-caption">Proof-of-authority: trust through reputation.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - government borrowing
   - investment spending
   - counter-cyclical
-image: "https://picsum.photos/seed/golden-rule-fiscal/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **golden rule of fiscal policy** is a principle stating that government borrowing should finance productive investment (not consumption) and that [budgets](/budget-deficit) should balance over the business cycle — running [surpluses](/budget-surplus) during booms and [deficits](/budget-deficit) during busts. This allows counter-cyclical policy while maintaining long-run discipline.*
@@ -22,7 +22,7 @@ This entry covers the guiding principle for sustainable borrowing. For constrain
 
 <div class="wiki-infobox-title">Golden Rule Fiscal — key facts</div>
 
-<img src="https://picsum.photos/seed/golden-rule-fiscal/900/600" alt="Golden rule fiscal" />
+<img src="/svg/fiscal.svg" alt="Golden rule fiscal" />
 
 <div class="wiki-infobox-caption">The golden rule allows deficits for investment but not consumption.</div>
 

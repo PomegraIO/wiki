@@ -7,7 +7,7 @@ keywords:
   - textile
   - commodity
   - agricultural
-image: "https://picsum.photos/seed/cotton/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **cotton** — a natural fiber commodity derived from cotton plants — is the world's most-used natural fiber for textiles and clothing, with annual production ~25 million tonnes. Cotton prices are driven by agricultural supply (weather, acreage decisions) and compete with synthetic polyester, which has captured growing market share due to cost advantages.*
@@ -22,7 +22,7 @@ This entry covers cotton as a commodity. Cotton competes with polyester and othe
 
 <div class="wiki-infobox-title">Cotton — key facts</div>
 
-<img src="https://picsum.photos/seed/cotton/900/600" alt="Cotton field and harvested cotton bolls" />
+<img src="/svg/commodities.svg" alt="Cotton field and harvested cotton bolls" />
 
 <div class="wiki-infobox-caption">Cotton field — the fiber for textiles and clothing.</div>
 

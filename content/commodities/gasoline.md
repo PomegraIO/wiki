@@ -7,7 +7,7 @@ keywords:
   - refined product
   - transportation
   - RBOB
-image: "https://picsum.photos/seed/gasoline/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **gasoline** — a light refined petroleum fraction distilled from crude oil — is the primary transportation fuel for personal automobiles in the developed world and the largest volume refined product globally. Gasoline prices directly affect consumer purchasing power, inflation expectations, and political popularity of governments, making them among the most closely watched commodity prices.*
@@ -22,7 +22,7 @@ This entry covers gasoline as a commodity. For crude oil fundamentals, see [crud
 
 <div class="wiki-infobox-title">Gasoline — key facts</div>
 
-<img src="https://picsum.photos/seed/gasoline/900/600" alt="Gas pump and refinery" />
+<img src="/svg/commodities.svg" alt="Gas pump and refinery" />
 
 <div class="wiki-infobox-caption">Gasoline dispensing — the fuel for 1+ billion personal vehicles globally.</div>
 

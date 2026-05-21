@@ -7,7 +7,7 @@ keywords:
   - call option
   - bond redemption
   - refinancing
-image: "https://picsum.photos/seed/callable-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **callable bond** is a debt security that grants the issuer (not the bondholder) the right to redeem the bond before its stated maturity date, typically at a call price (usually par or slightly above). When interest rates fall, issuers have an incentive to call high-coupon bonds and refinance at lower rates, limiting bondholders' capital gains.*
@@ -22,7 +22,7 @@ For bonds with holder redemption rights, see [putable bond](/putable-bond). For 
 
 <div class="wiki-infobox-title">Callable Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/callable-bond/900/600" alt="A graph showing the payoff profile of a callable bond vs. straight bond" />
+<img src="/svg/fixed-income.svg" alt="A graph showing the payoff profile of a callable bond vs. straight bond" />
 
 <div class="wiki-infobox-caption">Callable bonds have asymmetric returns: capital gains are capped while downside is exposed.</div>
 

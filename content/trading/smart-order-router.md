@@ -6,7 +6,7 @@ keywords:
   - SOR
   - order routing
   - best execution
-image: "https://picsum.photos/seed/smart-order-router/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **smart order router (SOR)** is an [algorithmic trading](/algorithmic-trading) system that automatically routes your order to whichever venue (exchange or dark pool) offers the best price at that moment. If you place a buy order for 10,000 shares, the SOR checks the NASDAQ, NYSE, and multiple dark pools, finds the best ask prices across them, and splits your order accordingly — buying 3,000 from NASDAQ, 4,000 from NYSE, 3,000 from a dark pool — all in milliseconds. The result: best execution.*
@@ -21,7 +21,7 @@ For manual order placement, see [limit order](/limit-order) and [market order](/
 
 <div class="wiki-infobox-title">Smart order router — key facts</div>
 
-<img src="https://picsum.photos/seed/smart-order-router/900/600" alt="A diagram showing order routing across multiple venues" />
+<img src="/svg/trading.svg" alt="A diagram showing order routing across multiple venues" />
 
 <div class="wiki-infobox-caption">SOR checks multiple venues and routes to achieve best combined price.</div>
 

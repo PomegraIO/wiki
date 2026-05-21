@@ -7,7 +7,7 @@ keywords:
   - variable rate mortgage
   - mortgage reset
   - rate adjustment
-image: "https://picsum.photos/seed/adjustable-rate-mortgage/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **adjustable-rate mortgage** (ARM) is a home loan with an interest rate that adjusts periodically based on an index (typically SOFR or Treasury rates) plus a lender margin. ARMs start with a lower rate for an initial period (3–10 years), then adjust every 1–5 years thereafter. ARMs offer lower initial payments but carry rate risk.*
@@ -22,7 +22,7 @@ For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) (constant rate) 
 
 <div class="wiki-infobox-title">Adjustable-Rate Mortgage — key facts</div>
 
-<img src="https://picsum.photos/seed/adjustable-rate-mortgage/900/600" alt="A mortgage statement showing rate adjustment schedule" />
+<img src="/svg/real-estate.svg" alt="A mortgage statement showing rate adjustment schedule" />
 
 <div class="wiki-infobox-caption">ARMs start with low rates that adjust over time, creating payment uncertainty.</div>
 

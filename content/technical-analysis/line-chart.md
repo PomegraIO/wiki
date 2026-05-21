@@ -7,7 +7,7 @@ keywords:
   - technical analysis
   - trend
   - price chart
-image: "https://picsum.photos/seed/line-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **line chart** plots only the closing price for each time period, connecting them with a continuous line. It is the simplest and oldest form of price visualization—a trader can quickly see whether price has moved up or down—but it sacrifices detail. Open, high, and low prices are not shown; only the close matters. Line charts are useful for identifying long-term trends, removing intraday noise, and creating an uncluttered view of price direction. They are less useful for pattern recognition, which typically requires the high and low prices that [candlestick](/technical-analysis/candlestick-chart) and [OHLC bar](/technical-analysis/ohlc-bar-chart) charts display.*
@@ -22,7 +22,7 @@ For more detail, see [candlestick chart](/technical-analysis/candlestick-chart) 
 
 <div class="wiki-infobox-title">Line chart — key facts</div>
 
-<img src="https://picsum.photos/seed/line-chart/900/600" alt="A line chart showing closing prices connected by a continuous line" />
+<img src="/svg/technical-analysis.svg" alt="A line chart showing closing prices connected by a continuous line" />
 
 <div class="wiki-infobox-caption">A line chart: the simplest price visualization, showing only closes, ideal for long-term trend analysis.</div>
 

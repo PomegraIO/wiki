@@ -7,7 +7,7 @@ keywords:
   - anti-fraud rule
   - material fact
   - insider trading
-image: "https://picsum.photos/seed/rule-10b-5/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Rule 10b-5](/rule-10b-5) is the [SEC](/securities-and-exchange-commission)'s foundational anti-fraud rule, implementing Section 10(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934). It prohibits any deceptive device or scheme, any untrue statement of material fact or omission of a material fact necessary to make a statement not misleading, in connection with the purchase or sale of any security. Rule 10b-5 is the broadest and most-used fraud provision in securities law, enforced by the SEC and by private plaintiffs.*
@@ -22,7 +22,7 @@ Rule 10b-5 is the general anti-fraud rule. [Section 16(b) of the Securities Exch
 
 <div class="wiki-infobox-title">Rule 10b-5 — key facts</div>
 
-<img src="https://picsum.photos/seed/rule-10b-5/900/600" alt="Securities fraud prosecution" />
+<img src="/svg/regulation.svg" alt="Securities fraud prosecution" />
 
 <div class="wiki-infobox-caption">Rule 10b-5 enforcement action.</div>
 

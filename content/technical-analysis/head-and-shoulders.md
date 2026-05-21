@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/head-and-shoulders/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **head and shoulders** pattern is a bearish reversal formation consisting of three distinct peaks: a shoulder (lower left), a head (taller center), and a shoulder (lower right), with two valleys between them forming an approximately flat neckline. The pattern shows that an uptrend has peaked—the middle peak (head) reaches a higher high than the subsequent peak (right shoulder), revealing waning strength. When the price breaks below the neckline, the reversal is confirmed. The head and shoulders is one of the most widely recognized patterns in technical analysis, prized for its reliability relative to other patterns, though academic support remains mixed.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Head and shoulders — key facts</div>
 
-<img src="https://picsum.photos/seed/head-and-shoulders/900/600" alt="A head and shoulders pattern: three peaks with a neckline at the bottom" />
+<img src="/svg/technical-analysis.svg" alt="A head and shoulders pattern: three peaks with a neckline at the bottom" />
 
 <div class="wiki-infobox-caption">Head and shoulders: left shoulder, tall head, right shoulder; breakbelow neckline signals reversal.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - shareholder ledger
   - share transfer
   - registered owner
-image: "https://picsum.photos/seed/transfer-agent/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A transfer agent is a specialized financial institution that maintains the official record of a company's shareholders, processes share transactions, and handles administrative tasks related to share ownership. Transfer agents maintain the shareholder registry (who owns how many shares), facilitate transfers when shares are bought or sold, distribute [dividends](/dividend/) and other shareholder payments, issue share certificates, and process [stock options](/equity/employee-stock-options/) and [RSU](/equity/restricted-stock-units/) grants. Every [public company](/public-company/) must appoint at least one transfer agent.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/transfer-agent/900/600"
 
 <div class="wiki-infobox-title">Transfer agent — key facts</div>
 
-<img src="https://picsum.photos/seed/transfer-agent/900/600" alt="A transfer agent processing a shareholder transaction" />
+<img src="/svg/equity.svg" alt="A transfer agent processing a shareholder transaction" />
 
 <div class="wiki-infobox-caption">Backbone of shareholder administration and record-keeping.</div>
 

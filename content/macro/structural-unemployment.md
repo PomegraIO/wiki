@@ -7,7 +7,7 @@ keywords:
   - geographic mismatch
   - labor market mismatch
   - unemployment
-image: "https://picsum.photos/seed/structural-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Structural unemployment is [unemployment](/unemployment-rate) caused by persistent mismatches between available jobs and workers' skills, experience, or location. Unlike [cyclical unemployment](/cyclical-unemployment), which disappears when demand recovers, structural unemployment is stubbornly high even in good times because the mismatch is fundamental, not demand-driven.*
@@ -22,7 +22,7 @@ Structural unemployment contributes to the [natural rate of unemployment](/natur
 
 <div class="wiki-infobox-title">Structural Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/structural-unemployment/900/600" alt="Structural unemployment components" />
+<img src="/svg/macro.svg" alt="Structural unemployment components" />
 
 <div class="wiki-infobox-caption">Structural unemployment persists during booms and recessions alike.</div>
 

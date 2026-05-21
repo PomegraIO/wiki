@@ -8,7 +8,7 @@ keywords:
   - price swings
   - momentum trading
   - technical trading
-image: "https://picsum.photos/seed/swing-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Swing trading is a trading strategy of holding [stock](/stock/) or other [securities](/stock/) for short-to-medium periods — typically days to a few weeks — aiming to profit from predictable short-term price movements. Swing traders use technical analysis, momentum, or mean-reversion signals to identify entry and exit points.*
@@ -23,7 +23,7 @@ For longer holding periods, see [position trading](/position-trading/). For intr
 
 <div class="wiki-infobox-title">Swing trading — key facts</div>
 
-<img src="https://picsum.photos/seed/swing-trading/900/600" alt="A price chart highlighting swing patterns and entry-exit points" />
+<img src="/svg/strategies.svg" alt="A price chart highlighting swing patterns and entry-exit points" />
 
 <div class="wiki-infobox-caption">Swing traders ride short-term momentum and reversals, exiting before reversals reverse.</div>
 

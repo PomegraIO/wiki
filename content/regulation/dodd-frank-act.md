@@ -8,7 +8,7 @@ keywords:
   - derivatives regulation
   - systemic risk
   - Volcker Rule
-image: "https://picsum.photos/seed/dodd-frank-act/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Dodd-Frank Wall Street Reform and Consumer Protection Act**, enacted in 2010, is the most comprehensive overhaul of financial regulation since the Depression. It created the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau), imposed strict capital standards on banks, brought over-the-counter derivatives under regulation, prohibited proprietary trading, and created mechanisms for orderly liquidation of failing firms. Dodd-Frank is alternately praised as a necessary safeguard and criticized as an overreach that stifles credit.*
@@ -23,7 +23,7 @@ Dodd-Frank is a 2010 act. The [Sarbanes-Oxley Act](/sarbanes-oxley-act) (2002) d
 
 <div class="wiki-infobox-title">Dodd-Frank Act — key facts</div>
 
-<img src="https://picsum.photos/seed/dodd-frank-act/900/600" alt="The Dodd-Frank Act text" />
+<img src="/svg/regulation.svg" alt="The Dodd-Frank Act text" />
 
 <div class="wiki-infobox-caption">The Dodd-Frank Act of 2010.</div>
 

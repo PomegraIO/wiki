@@ -7,7 +7,7 @@ keywords:
   - otc derivative
   - bilateral
   - customizable
-image: "https://picsum.photos/seed/forward-contract/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **forward contract** is a private agreement between two parties (typically facilitated by a bank) to buy or sell an underlying asset at a fixed price on a specified future date. Unlike standardized [futures contract](/futures-contract)s, forwards are customizable (any quantity, date, asset). They are settled only at maturity (no daily [mark-to-market](/mark-to-market)) and carry counterparty risk. Forwards are used extensively in currency and commodity markets by companies hedging operational exposure.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/forward-contract/900/600"
 
 <div class="wiki-infobox-title">Forward Contract — key facts</div>
 
-<img src="https://picsum.photos/seed/forward-contract/900/600" alt="Two-party bilateral agreement diagram" />
+<img src="/svg/derivatives.svg" alt="Two-party bilateral agreement diagram" />
 
 <div class="wiki-infobox-caption">Forwards are customizable OTC derivatives.</div>
 

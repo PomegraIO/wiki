@@ -7,7 +7,7 @@ keywords:
   - coupon yield
   - annual yield
   - simple yield
-image: "https://picsum.photos/seed/current-yield/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **current yield** is the annual [coupon](/coupon-rate) payment divided by the bond's current market price. It measures the income return only, ignoring any price appreciation or depreciation that would occur from purchase to maturity. Current yield is the simplest yield metric but incomplete — it ignores the bondholder's total return.*
@@ -22,7 +22,7 @@ For the complete return accounting for price changes, see [yield to maturity](/y
 
 <div class="wiki-infobox-title">Current Yield — key facts</div>
 
-<img src="https://picsum.photos/seed/current-yield/900/600" alt="A comparison of coupon, current yield, and YTM for bonds at different prices" />
+<img src="/svg/fixed-income.svg" alt="A comparison of coupon, current yield, and YTM for bonds at different prices" />
 
 <div class="wiki-infobox-caption">Current yield shows income return but ignores capital gains or losses.</div>
 

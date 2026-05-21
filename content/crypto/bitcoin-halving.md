@@ -8,7 +8,7 @@ keywords:
   - inflation
   - bitcoin supply
   - mining reward
-image: "https://picsum.photos/seed/bitcoin-halving/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Bitcoin halving** is a predetermined event, occurring every 210,000 blocks (roughly every four years), where the amount of newly minted Bitcoin awarded to [miners](/mining-bitcoin) is reduced by half. This gradually reduces Bitcoin's inflation rate and ensures the total supply will never exceed 21 million coins.*
@@ -23,7 +23,7 @@ This entry covers the Bitcoin halving as a mechanism. For mining, see [mining Bi
 
 <div class="wiki-infobox-title">Bitcoin Halving — key facts</div>
 
-<img src="https://picsum.photos/seed/bitcoin-halving/900/600" alt="Bitcoin supply asymptote approaching 21 million" />
+<img src="/svg/crypto.svg" alt="Bitcoin supply asymptote approaching 21 million" />
 
 <div class="wiki-infobox-caption">The Bitcoin halving: a programmed reduction in supply growth.</div>
 

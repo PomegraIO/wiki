@@ -7,7 +7,7 @@ keywords:
   - unnecessary decisions
   - inaction regret
   - illusion of control
-image: "https://picsum.photos/seed/action-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Action bias is the tendency to take action when inaction would be better. A portfolio declines 5%, so you rebalance (unnecessary). A stock is uncertain, so you sell it (might have underperformed due to panic). You feel compelled to *do something*, even when doing nothing is optimal. This bias is driven by [illusion of control](/illusion-of-control) and regret aversion for inaction.*
@@ -22,7 +22,7 @@ The opposite of [omission bias](/omission-bias) (doing nothing when action would
 
 <div class="wiki-infobox-title">Action bias — key facts</div>
 
-<img src="https://picsum.photos/seed/action-bias/900/600" alt="A hand pressing a button repeatedly despite no effect" />
+<img src="/svg/behavioral.svg" alt="A hand pressing a button repeatedly despite no effect" />
 
 <div class="wiki-infobox-caption">The urge to act overwhelms the wisdom of waiting.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - precious metals
   - intrinsic value
   - commodity-backed
-image: "https://picsum.photos/seed/commodity-money/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **commodity money** is money whose value comes from the material itself, not from a government guarantee or representation of something else. Gold coins and silver coins are commodity money—the metal itself is valuable for jewelry, industrial use, or simply because people value it. Commodity money contrasts with [fiat money](/fiat-money) (valuable by decree) and [representative money](/representative-money) (a token representing a claim on a commodity).*
@@ -22,7 +22,7 @@ This entry covers commodity money's nature and history. For alternatives, see [f
 
 <div class="wiki-infobox-title">Commodity Money — key facts</div>
 
-<img src="https://picsum.photos/seed/commodity-money/900/600" alt="Gold and silver coins with intrinsic value" />
+<img src="/svg/monetary.svg" alt="Gold and silver coins with intrinsic value" />
 
 <div class="wiki-infobox-caption">Commodity money has value from the material itself, not government fiat.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - real estate bubble
   - Lost Decade
   - Japanese economy
-image: "https://picsum.photos/seed/japan-asset-price-bubble/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Japan Asset Price Bubble** of the 1980s was one of history's most dramatic speculative frenzies. Driven by low interest rates, massive credit expansion, and expectations of perpetual growth, prices for Japanese real estate and stocks soared to absurd levels. At the peak, Tokyo real estate was worth more than all of American real estate. When the bubble burst in 1990–91, Japan entered the Lost Decade — a prolonged period of stagnation that reshaped the global economy.*
@@ -22,7 +22,7 @@ This entry covers the bubble itself. For the aftermath, see Japan's Lost Decade;
 
 <div class="wiki-infobox-title">Japan Asset Price Bubble — key facts</div>
 
-<img src="https://picsum.photos/seed/japan-asset-price-bubble/900/600" alt="A photograph of a Tokyo skyline during the peak of the bubble, with gleaming new office towers" />
+<img src="/svg/history.svg" alt="A photograph of a Tokyo skyline during the peak of the bubble, with gleaming new office towers" />
 
 <div class="wiki-infobox-caption">Tokyo real estate reached valuations that defied any rational calculation of future rental income.</div>
 

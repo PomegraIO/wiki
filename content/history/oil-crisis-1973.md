@@ -8,7 +8,7 @@ keywords:
   - embargo
   - stagflation
   - energy
-image: "https://picsum.photos/seed/oil-crisis-1973/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Oil Crisis of 1973** began with the Yom Kippur War in October 1973, when Arab nations attacked Israel. In retaliation, the Organization of Petroleum Exporting Countries (OPEC) imposed an embargo on oil exports to nations that supported Israel, primarily the United States and the Netherlands. Oil prices quadrupled, and the developed world entered a period of stagflation — simultaneous inflation and stagnation — that shook the postwar growth consensus.*
@@ -23,7 +23,7 @@ This entry covers the 1973 crisis. For the subsequent energy shock, see [Oil Cri
 
 <div class="wiki-infobox-title">Oil Crisis of 1973 — key facts</div>
 
-<img src="https://picsum.photos/seed/oil-crisis-1973/900/600" alt="A photograph of a gas station with lines of cars during the 1973 oil embargo" />
+<img src="/svg/history.svg" alt="A photograph of a gas station with lines of cars during the 1973 oil embargo" />
 
 <div class="wiki-infobox-caption">Long lines formed at gas stations across the US as supplies dwindled and prices soared.</div>
 

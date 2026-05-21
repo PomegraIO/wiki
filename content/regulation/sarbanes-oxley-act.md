@@ -8,7 +8,7 @@ keywords:
   - financial reporting
   - executive certification
   - internal controls
-image: "https://picsum.photos/seed/sarbanes-oxley-act/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Sarbanes-Oxley Act** (SOX), enacted in 2002, was Congress's response to corporate frauds at Enron, WorldCom, and others. It tightened [public company](/public-company) disclosure, required executives to certify financial statements under penalty of perjury, mandated audit committee independence and auditor rotation, and created the Public Company Accounting Oversight Board (PCAOB) to oversee auditors. SOX was the most significant securities law change since the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934).*
@@ -23,7 +23,7 @@ Sarbanes-Oxley applies to US-listed public companies. The [Dodd-Frank Act](/dodd
 
 <div class="wiki-infobox-title">Sarbanes-Oxley Act — key facts</div>
 
-<img src="https://picsum.photos/seed/sarbanes-oxley-act/900/600" alt="The Sarbanes-Oxley Act text" />
+<img src="/svg/regulation.svg" alt="The Sarbanes-Oxley Act text" />
 
 <div class="wiki-infobox-caption">The Sarbanes-Oxley Act of 2002.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - NAV pricing
   - daily pricing
   - fund
-image: "https://picsum.photos/seed/open-end-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **open-end fund** is a [mutual fund](/mutual-fund) that continuously issues new shares to investors and redeems shares when investors want to exit. Shares are priced once (or multiple times) per day at the fund's [NAV](/etf-premium-discount) and cannot trade at discounts or premiums to value. Open-end funds are the primary vehicle for [mutual fund](/mutual-fund) investing.*
@@ -22,7 +22,7 @@ This entry covers the structural category. For traditional mutual funds, see [mu
 
 <div class="wiki-infobox-title">Open-End Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/open-end-fund/900/600" alt="An investor submitting a buy order for mutual fund shares" />
+<img src="/svg/funds.svg" alt="An investor submitting a buy order for mutual fund shares" />
 
 <div class="wiki-infobox-caption">Open-end funds price at NAV and allow continuous entry and exit.</div>
 

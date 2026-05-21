@@ -7,7 +7,7 @@ keywords:
   - operating earnings
   - leverage-neutral
   - cash earnings
-image: "https://picsum.photos/seed/ebitda-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EBITDA margin** divides EBITDA (earnings before interest, taxes, depreciation, and amortization) by revenue and expresses it as a percentage. A 20% EBITDA margin means the company generates 20 cents of pre-financing, pre-tax, pre-depreciation profit per revenue dollar. EBITDA margin is a proxy for operational cash earning power.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/ebitda-margin/900/600"
 
 <div class="wiki-infobox-title">EBITDA Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/ebitda-margin/900/600" alt="EBITDA expressed as percentage of revenue" />
+<img src="/svg/ratios.svg" alt="EBITDA expressed as percentage of revenue" />
 
 <div class="wiki-infobox-caption">Operational profitability before financing and accounting charges.</div>
 

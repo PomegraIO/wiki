@@ -7,7 +7,7 @@ keywords:
   - money supply
   - interest rates
   - inflation control
-image: "https://picsum.photos/seed/monetary-policy/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **monetary policy** is the toolkit a [central bank](/central-bank) wields to influence the quantity and cost of money and credit flowing through an economy. By adjusting interest rates, buying and selling securities, or changing reserve requirements, a central bank aims to steer inflation, stabilize employment, and foster sustainable economic growth.*
@@ -22,7 +22,7 @@ This entry is about the policy itself. For the practical policy tools central ba
 
 <div class="wiki-infobox-title">Monetary Policy — key facts</div>
 
-<img src="https://picsum.photos/seed/monetary-policy/900/600" alt="Central bank monetary policy decision room" />
+<img src="/svg/monetary.svg" alt="Central bank monetary policy decision room" />
 
 <div class="wiki-infobox-caption">Central banks deploy monetary policy to influence the broad economy's growth and inflation.</div>
 

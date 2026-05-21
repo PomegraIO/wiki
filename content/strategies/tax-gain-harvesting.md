@@ -8,7 +8,7 @@ keywords:
   - proactive gain selling
   - long-term capital gains
   - tax planning
-image: "https://picsum.photos/seed/tax-gain-harvesting/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Tax-gain harvesting is a proactive tax-management strategy of deliberately realizing capital gains in low-income years (when the investor is in a lower tax bracket) to pay tax at lower rates, deferring larger gains to higher-income years. The opposite of [tax-loss harvesting](/tax-loss-harvesting/), it is most useful during retirement or other periods of reduced income.*
@@ -23,7 +23,7 @@ For the opposite strategy, see [tax-loss harvesting](/tax-loss-harvesting/). For
 
 <div class="wiki-infobox-title">Tax-gain harvesting — key facts</div>
 
-<img src="https://picsum.photos/seed/tax-gain-harvesting/900/600" alt="Gains realized in low-bracket years, deferred in high-bracket years" />
+<img src="/svg/strategies.svg" alt="Gains realized in low-bracket years, deferred in high-bracket years" />
 
 <div class="wiki-infobox-caption">Tax-gain harvesters pay gains when tax rates are lowest, increasing lifetime after-tax wealth.</div>
 

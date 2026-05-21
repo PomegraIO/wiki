@@ -7,7 +7,7 @@ keywords:
   - fair disclosure
   - insider information
   - equal access
-image: "https://picsum.photos/seed/regulation-fd/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation Fair Disclosure](/regulation-fd) (Reg FD), adopted in 2000, is an [SEC](/securities-and-exchange-commission) rule that requires companies to disclose material information to all investors at the same time. Before Reg FD, companies could brief select analysts or major shareholders before releasing information to the public, giving insiders a trading advantage. Reg FD closed this loophole by requiring simultaneous disclosure to the market.*
@@ -22,7 +22,7 @@ Regulation FD applies to public company disclosure. [Rule 10b-5](/rule-10b-5) pr
 
 <div class="wiki-infobox-title">Regulation FD — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-fd/900/600" alt="A company earnings announcement" />
+<img src="/svg/regulation.svg" alt="A company earnings announcement" />
 
 <div class="wiki-infobox-caption">A company making simultaneous disclosure of earnings.</div>
 

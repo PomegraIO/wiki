@@ -8,7 +8,7 @@ keywords:
   - M&A trading
   - deal spread
   - acquisition premium
-image: "https://picsum.photos/seed/merger-arbitrage/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Merger arbitrage is a strategy of purchasing [stocks](/stock/) of companies announced for acquisition at a discount to the deal price, betting that the deal will close and capturing the spread between the current trading price and the acquisition price. The arbitrageur assumes risk that the deal fails or is delayed.*
@@ -23,7 +23,7 @@ For capital-structure arbitrage, see [capital-structure arbitrage](/capital-stru
 
 <div class="wiki-infobox-title">Merger arbitrage — key facts</div>
 
-<img src="https://picsum.photos/seed/merger-arbitrage/900/600" alt="A target company trading below deal price pending regulatory approval" />
+<img src="/svg/strategies.svg" alt="A target company trading below deal price pending regulatory approval" />
 
 <div class="wiki-infobox-caption">Merger arbitrageurs pocket the spread between deal announcement and closing.</div>
 

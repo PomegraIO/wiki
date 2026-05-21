@@ -7,7 +7,7 @@ keywords:
   - over-the-counter derivatives
   - swap clearing
   - counterparty risk
-image: "https://picsum.photos/seed/emir/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[EMIR](/emir) is the European Market Infrastructure Regulation, which regulates over-the-counter (OTC) derivatives in the European Union. Implemented in 2012 and updated in 2019, EMIR requires that most standardized derivatives be cleared through central counterparties, reported to trade repositories, and subject to risk-management requirements. EMIR is the European equivalent of Title VII of the [Dodd-Frank Act](/dodd-frank-act), which regulates swaps in the US. Together with [MiFID II](/mifid-ii), EMIR forms the backbone of EU financial regulation.*
@@ -22,7 +22,7 @@ EMIR regulates EU derivatives. The [Dodd-Frank Act](/dodd-frank-act) regulates U
 
 <div class="wiki-infobox-title">EMIR — key facts</div>
 
-<img src="https://picsum.photos/seed/emir/900/600" alt="A derivatives clearing facility" />
+<img src="/svg/regulation.svg" alt="A derivatives clearing facility" />
 
 <div class="wiki-infobox-caption">A central counterparty clearing house for derivatives.</div>
 

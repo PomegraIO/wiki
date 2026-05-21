@@ -7,7 +7,7 @@ keywords:
   - real return risk
   - inflation uncertainty
   - deflation risk
-image: "https://picsum.photos/seed/inflation-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Inflation risk is the danger that inflation erodes the purchasing power of investment returns, leaving you worse off in real terms. When inflation runs higher than expected, the real value of fixed-income returns falls. When inflation is uncertain, investment planning becomes treacherous — you cannot reliably predict what you will actually be able to buy with future cash flows.*
@@ -22,7 +22,7 @@ This entry covers the risk of losing real purchasing power. For the risk that un
 
 <div class="wiki-infobox-title">Inflation Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/inflation-risk/900/600" alt="A price label with multiple upward-pointing arrows showing increasing costs" />
+<img src="/svg/risk.svg" alt="A price label with multiple upward-pointing arrows showing increasing costs" />
 
 <div class="wiki-infobox-caption">Inflation erodes the purchasing power of fixed returns.</div>
 

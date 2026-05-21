@@ -7,7 +7,7 @@ keywords:
   - spot and forward
   - interest rate swap
   - liquidity management
-image: "https://picsum.photos/seed/fx-swap/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **FX swap** is a transaction combining a [spot](/spot-exchange-rate) and [forward](/forward-exchange-rate) exchange contract: you buy a currency immediately and sell it back at a future date (or vice versa). The two rates are agreed simultaneously. FX swaps are not bets on currency direction; they are financing tools used by banks and companies to manage short-term liquidity and cross-currency funding.*
@@ -22,7 +22,7 @@ Not to be confused with an interest-rate swap (a different instrument, used for 
 
 <div class="wiki-infobox-title">FX Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/fx-swap/900/600" alt="A timeline showing spot buy, forward sell in an FX swap" />
+<img src="/svg/forex.svg" alt="A timeline showing spot buy, forward sell in an FX swap" />
 
 <div class="wiki-infobox-caption">Buy and sell the same currency at two different rates and dates.</div>
 

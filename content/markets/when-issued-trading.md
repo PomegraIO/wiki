@@ -8,7 +8,7 @@ keywords:
   - bond issuance
   - gray market
   - pre-listing trading
-image: "https://picsum.photos/seed/when-issued-trading/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **when-issued market** is a forward-trading market for securities between their pricing and their official debut. In an [initial public offering](/initial-public-offering), when a company is priced on Wednesday, shares often trade "when issued" on Thursday morning before the market open, conditional on the IPO proceeding as scheduled. When-issued trades are settled only if the security actually begins trading; if the IPO is cancelled or delayed, the trades are typically voided.*
@@ -23,7 +23,7 @@ This entry is about forward trading before listing. For trading once a security 
 
 <div class="wiki-infobox-title">When-Issued Trading — key facts</div>
 
-<img src="https://picsum.photos/seed/when-issued-trading/900/600" alt="A trading floor showing when-issued quotes for a newly priced IPO" />
+<img src="/svg/markets.svg" alt="A trading floor showing when-issued quotes for a newly priced IPO" />
 
 <div class="wiki-infobox-caption">When-issued trading bridges the gap between IPO pricing and the first official trade.</div>
 

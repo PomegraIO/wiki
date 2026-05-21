@@ -7,7 +7,7 @@ keywords:
   - standards-setter
   - financial accounting
   - GAAP development
-image: "https://picsum.photos/seed/fasb/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **Financial Accounting Standards Board** (FASB) is the independent, private organization responsible for developing and maintaining [GAAP](/generally-accepted-accounting-principles) — the accounting standards used by US companies. The SEC has designated the FASB as the official standard-setter for financial reporting by public companies. The FASB issues standards in the form of **Accounting Standards Updates** (ASUs) and organizes them in the **Accounting Standards Codification** (ASC). The FASB operates with the oversight of a larger body called the Financial Accounting Foundation, which ensures independence and due process.*
@@ -22,7 +22,7 @@ This entry covers the FASB's role. For the international equivalent, see [IASB](
 
 <div class="wiki-infobox-title">FASB — key facts</div>
 
-<img src="https://picsum.photos/seed/fasb/900/600" alt="The FASB headquarters or a symbolic image of an accounting standards document" />
+<img src="/svg/accounting.svg" alt="The FASB headquarters or a symbolic image of an accounting standards document" />
 
 <div class="wiki-infobox-caption">The FASB develops GAAP through a deliberative, public process.</div>
 

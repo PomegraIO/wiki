@@ -7,7 +7,7 @@ keywords:
   - sustainable cash flow
   - free cash flow
   - valuation metric
-image: "https://picsum.photos/seed/owner-earnings-buffett/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *Warren Buffett introduced the concept of **owner earnings** as the earnings that genuinely belong to shareholders after the company has made all necessary investments to maintain and grow the business. It is calculated as reported earnings plus depreciation and amortization minus capex minus changes in working capital—essentially [free cash flow to equity](/free-cash-flow-to-equity-valuation), but Buffett's term emphasizes the owner-centric perspective. Owner earnings are what shareholders could theoretically withdraw while keeping the business on its current growth trajectory.*

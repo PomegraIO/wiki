@@ -8,7 +8,7 @@ keywords:
   - trading platform
   - order book
   - liquidity
-image: "https://picsum.photos/seed/cryptocurrency-exchange/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **cryptocurrency exchange** is a platform where users buy, sell, and trade cryptocurrencies. Exchanges range from [centralised exchanges](/centralized-exchange) (operated by companies with custody of user funds) to [decentralised exchanges](/decentralized-exchange) (peer-to-peer platforms using smart contracts). They are essential infrastructure for price discovery and liquidity in cryptocurrency markets.*
@@ -23,7 +23,7 @@ This entry covers cryptocurrency exchanges generally. For centralised exchanges,
 
 <div class="wiki-infobox-title">Cryptocurrency Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/cryptocurrency-exchange/900/600" alt="Cryptocurrency trading interface" />
+<img src="/svg/crypto.svg" alt="Cryptocurrency trading interface" />
 
 <div class="wiki-infobox-caption">A cryptocurrency exchange: where cryptos trade for fiat or other cryptos.</div>
 

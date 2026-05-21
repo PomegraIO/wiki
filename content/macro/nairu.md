@@ -7,7 +7,7 @@ keywords:
   - natural unemployment
   - Phillips curve
   - inflation
-image: "https://picsum.photos/seed/nairu/900/600"
+image: "/svg/macro.svg"
 ---
 
 *NAIRU — the Non-Accelerating Inflation Rate of Unemployment — is the [unemployment rate](/unemployment-rate) at which [inflation](/inflation) neither accelerates nor decelerates. It is the rate consistent with stable prices. When actual [unemployment](/unemployment-rate) falls below NAIRU, [inflation](/inflation) tends to accelerate; when it rises above, [inflation](/inflation) tends to decelerate.*
@@ -22,7 +22,7 @@ NAIRU is closely related to the [natural rate of unemployment](/natural-rate-of-
 
 <div class="wiki-infobox-title">NAIRU — key facts</div>
 
-<img src="https://picsum.photos/seed/nairu/900/600" alt="NAIRU estimates over time" />
+<img src="/svg/macro.svg" alt="NAIRU estimates over time" />
 
 <div class="wiki-infobox-caption">NAIRU estimates have ranged from 4% to 6% in the US, with considerable uncertainty.</div>
 

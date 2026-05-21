@@ -6,7 +6,7 @@ keywords:
   - liquidity
   - current assets
   - current liabilities
-image: "https://picsum.photos/seed/working-capital-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **working capital ratio** is a synonym for the [current ratio](/current-ratio): current assets divided by current liabilities. A ratio above 1.0 indicates the company has more current assets than current liabilities.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/working-capital-ratio/900/600"
 
 <div class="wiki-infobox-title">Working Capital Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/working-capital-ratio/900/600" alt="Current assets relative to current liabilities" />
+<img src="/svg/ratios.svg" alt="Current assets relative to current liabilities" />
 
 <div class="wiki-infobox-caption">Short-term liquidity balance.</div>
 

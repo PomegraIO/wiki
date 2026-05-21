@@ -7,7 +7,7 @@ keywords:
   - petroleum
   - OPEC
   - geopolitics
-image: "https://picsum.photos/seed/crude-oil/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **crude oil** — unrefined petroleum pumped from underground reservoirs — is the world's most geopolitically sensitive commodity. Its price swings drive inflation cycles, affect consumer purchasing power, and can topple governments. Crude trades in two primary benchmarks: [WTI crude](/wti-crude/) (US-focused) and [Brent crude](/brent-crude/) (global), with prices set by supply-demand fundamentals plus OPEC production decisions and geopolitical risk premiums.*
@@ -22,7 +22,7 @@ This entry covers crude oil as a commodity. For US-specific pricing, see [WTI cr
 
 <div class="wiki-infobox-title">Crude Oil — key facts</div>
 
-<img src="https://picsum.photos/seed/crude-oil/900/600" alt="Crude oil derrick and tanker ship" />
+<img src="/svg/commodities.svg" alt="Crude oil derrick and tanker ship" />
 
 <div class="wiki-infobox-caption">Crude oil extraction and transport — the foundation of global energy.</div>
 

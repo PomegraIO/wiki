@@ -6,7 +6,7 @@ keywords:
   - dividend taxation
   - non-qualified dividend
   - ordinary income tax
-image: "https://picsum.photos/seed/ordinary-dividend/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *An **ordinary dividend** is a [dividend](/dividend/) payment that does not meet the requirements for [qualified dividend](/qualified-dividend/) treatment and is therefore taxed at ordinary [income tax](/tax-bracket-investor/) rates, up to 37% federally. Ordinary [dividends](/dividend/) are less tax-efficient than qualified [dividends](/dividend/) but are still common, particularly from REITs, partnerships, and foreign [stocks](/stock/).*
@@ -21,7 +21,7 @@ For [dividends](/dividend/) taxed at preferential long-term rates, see [qualifie
 
 <div class="wiki-infobox-title">Ordinary dividend — key facts</div>
 
-<img src="https://picsum.photos/seed/ordinary-dividend/900/600" alt="A REIT payment statement showing ordinary dividend treatment" />
+<img src="/svg/taxes.svg" alt="A REIT payment statement showing ordinary dividend treatment" />
 
 <div class="wiki-infobox-caption">REITs and foreign stocks typically pay ordinary, not qualified, dividends.</div>
 

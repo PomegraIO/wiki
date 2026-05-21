@@ -6,7 +6,7 @@ keywords:
   - immediate deduction
   - equipment
   - expensing
-image: "https://picsum.photos/seed/section-179-deduction/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Section 179 deduction** is a tax benefit that allows businesses (and investor-owners) to immediately deduct the full cost of eligible property and equipment purchased in a tax year, rather than depreciating the cost over years. The [Section 179](/section-179-deduction/) limit is $1.22 million for 2024 (adjusted annually for inflation). This provision accelerates tax deductions and improves cash flow for businesses investing in equipment, though it triggers full [Section 1245 recapture](/section-1245-recapture/) on eventual sale.*
@@ -21,7 +21,7 @@ For accelerated depreciation alternatives, see [bonus depreciation](/bonus-depre
 
 <div class="wiki-infobox-title">Section 179 deduction — key facts</div>
 
-<img src="https://picsum.photos/seed/section-179-deduction/900/600" alt="A business purchasing equipment and taking Section 179 deduction" />
+<img src="/svg/taxes.svg" alt="A business purchasing equipment and taking Section 179 deduction" />
 
 <div class="wiki-infobox-caption">Immediately deduct equipment cost instead of depreciating over years.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - liability insurance
   - collision coverage
   - comprehensive coverage
-image: "https://picsum.photos/seed/auto-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *An **auto insurance** policy covers damage to your vehicle from accidents, weather, or theft, and provides liability coverage if you injure someone or damage their property while driving. Auto insurance is legally required in all states and typically costs $1,000–$2,000+ per year.*
@@ -22,7 +22,7 @@ For home coverage, see [homeowners insurance](/homeowners-insurance); for renter
 
 <div class="wiki-infobox-title">Auto Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/auto-insurance/900/600" alt="A car accident scene with an insurance claim form" />
+<img src="/svg/personal-finance.svg" alt="A car accident scene with an insurance claim form" />
 
 <div class="wiki-infobox-caption">The basics: covering vehicle damage and liability.</div>
 

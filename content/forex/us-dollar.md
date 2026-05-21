@@ -7,7 +7,7 @@ keywords:
   - dollar
   - reserve currency
   - Bretton Woods
-image: "https://picsum.photos/seed/us-dollar/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **US dollar** is the currency of the United States and, by a wide margin, the world's most important currency. The dollar dominates international trade (most commodities are priced in dollars), serves as the reserve currency held by [central banks](/central-bank), and is pegged or referenced by many other currencies. The dollar's strength makes it both a financial asset and a geopolitical tool.*
@@ -22,7 +22,7 @@ For other major currencies, see [euro](/euro), [Japanese yen](/japanese-yen), [B
 
 <div class="wiki-infobox-title">US Dollar — key facts</div>
 
-<img src="https://picsum.photos/seed/us-dollar/900/600" alt="US dollar bills and coins" />
+<img src="/svg/forex.svg" alt="US dollar bills and coins" />
 
 <div class="wiki-infobox-caption">The world's dominant reserve currency and unit of global trade.</div>
 

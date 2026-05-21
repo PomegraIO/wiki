@@ -5,9 +5,16 @@
    ══════════════════════════════════════════════════════════════════════ */
 
 :root {
-  --pom-font-base: 'Geist', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  --pom-font-mono: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
-  --pom-font-display: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+  /* Type system — reference-quality readability over editorial flourish.
+     Inter for body and chrome (the industry-default UI sans, optimised for
+     screens). Source Serif 4 for titles and long-form reading (a calm,
+     upright serif used by Apple's reading apps). JetBrains Mono for any
+     UPPERCASE-tracked label so kickers read as system, not as ornament.
+     No italic display type anywhere — italic is reserved for emphasis in
+     prose, which is what authors actually use *…* for. */
+  --pom-font-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --pom-font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --pom-font-display: 'Source Serif 4', 'Source Serif Pro', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
 
   --pom-paper:      #faf7f2;
   --pom-paper-warm: #f4ede2;
@@ -61,8 +68,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--pom-font-display);
   color: var(--pom-ink);
-  letter-spacing: -0.02em;
-  font-variation-settings: 'opsz' 40;
+  letter-spacing: -0.012em;
+  font-feature-settings: 'kern', 'liga';
+  font-style: normal;
   margin: 0;
 }
 
@@ -113,12 +121,10 @@ img { max-width: 100%; height: auto; }
 .wiki-brand-logo { width: 26px; height: 26px; }
 .wiki-brand-title {
   font-family: var(--pom-font-display);
-  font-style: italic;
   font-weight: 600;
   font-size: 1.12rem;
   color: var(--pom-accent);
   letter-spacing: -0.01em;
-  font-variation-settings: 'opsz' 36;
 }
 .wiki-nav {
   display: flex;
@@ -220,7 +226,6 @@ img { max-width: 100%; height: auto; }
   padding: 0.8rem 0.9rem;
   color: var(--pom-mist);
   font-size: 0.88rem;
-  font-style: italic;
 }
 .wiki-search-result mark {
   background: var(--pom-accent-wash);
@@ -248,7 +253,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .wiki-article {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
 }
@@ -257,14 +262,131 @@ img { max-width: 100%; height: auto; }
   grid-template-columns: 220px 1fr;
   gap: 3rem;
 }
+.wiki-article-layout-3col {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr) 260px;
+  gap: 2.4rem;
+  align-items: start;
+}
 .wiki-article-body { min-width: 0; max-width: 48rem; }
 
-.wiki-toc {
-  position: sticky;
-  top: calc(var(--pom-navbar-h) + 1.5rem);
+@media (max-width: 1240px) {
+  .wiki-article-layout-3col { grid-template-columns: 200px 1fr; }
+  .wiki-rightrail { display: none; }
+}
+@media (max-width: 1024px) {
+  .wiki-article-layout-3col { grid-template-columns: 1fr; }
+  .wiki-article-layout-3col .wiki-toc { display: none; }
+}
+
+/* Reading-metadata panel above the TOC */
+.wiki-meta {
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule-firm);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.84rem;
+}
+.wiki-meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.32rem 0;
+  border-bottom: 1px solid var(--pom-rule);
+}
+.wiki-meta-row:last-child { border-bottom: 0; }
+.wiki-meta-label {
+  font-family: var(--pom-font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--pom-mist);
+  font-weight: 600;
+}
+.wiki-meta-value {
+  font-weight: 600;
+  color: var(--pom-ink);
+}
+.wiki-cat-pill {
+  display: inline-block;
+  font-family: var(--pom-font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.16rem 0.5rem;
+  border-radius: 4px;
+  background: var(--pom-accent-wash);
+  color: var(--pom-accent-hi);
+  letter-spacing: 0.03em;
+}
+
+/* Right-rail widgets — sister entries, backlinks. No inner scroll: the
+   widgets flow with the page so the only scrollbar is the global one. */
+.wiki-rightrail {
   align-self: start;
-  max-height: calc(100vh - var(--pom-navbar-h) - 3rem);
-  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+.wiki-widget {
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule-firm);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+}
+.wiki-widget-kicker {
+  font-family: var(--pom-font-mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--pom-accent);
+  margin-bottom: 0.25rem;
+}
+.wiki-widget-title {
+  font-family: var(--pom-font-display);
+  font-size: 1.04rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--pom-ink);
+  margin-bottom: 0.7rem;
+  line-height: 1.3;
+}
+.wiki-widget-title em {
+  font-style: normal;
+  color: var(--pom-accent);
+  font-weight: 600;
+}
+.wiki-widget-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.wiki-widget-list li {
+  font-size: 0.86rem;
+  padding: 0.36rem 0;
+  border-bottom: 1px solid var(--pom-rule);
+  line-height: 1.4;
+}
+.wiki-widget-list li:last-child { border-bottom: 0; }
+.wiki-widget-list li::before { display: none !important; }
+.wiki-widget-list a {
+  color: var(--pom-ink-soft) !important;
+  border: 0 !important;
+}
+.wiki-widget-list a:hover {
+  color: var(--pom-accent) !important;
+}
+.wiki-widget-more {
+  font-family: var(--pom-font-mono);
+  font-size: 0.74rem;
+  color: var(--pom-mist);
+  margin-top: 0.6rem;
+  letter-spacing: 0.04em;
+}
+
+.wiki-toc {
+  align-self: start;
   padding-right: 0.5rem;
   font-size: 0.82rem;
 }
@@ -310,37 +432,37 @@ img { max-width: 100%; height: auto; }
   padding-bottom: 0.9rem;
   border-bottom: 1px solid var(--pom-rule-firm);
   letter-spacing: -0.035em;
-  font-variation-settings: 'opsz' 144;
 }
 
 .wiki-lede {
   font-family: var(--pom-font-display);
-  font-style: italic;
   font-weight: 400;
   font-size: 1.22rem;
   line-height: 1.55;
   color: var(--pom-graphite);
   margin: 0 0 1.6rem;
-  font-variation-settings: 'opsz' 28;
 }
 
 .wiki-prose p { margin: 0 0 1.05rem; }
 .wiki-prose strong { font-weight: 600; color: var(--pom-ink); }
 
-/* The first all-italic paragraph in the article body acts as the lede.
-   This lets authors write the lede inline (markdown `*…*`) instead of having
-   to extract it to front matter. */
+/* The first paragraph of the body acts as the lede when the author wrapped
+   it in markdown `*…*`. Upright serif, slightly larger than body — closer
+   to a Wikipedia first paragraph than a magazine pull quote. The em inside
+   is forced to upright so the wiki reads as a reference, not a magazine. */
 .wiki-prose > p:first-of-type:has(> em:only-child),
 .wiki-prose > p:first-child:has(> em:only-child) {
   font-family: var(--pom-font-display);
-  font-size: 1.22rem;
-  line-height: 1.55;
-  color: var(--pom-graphite);
-  margin: 0 0 1.6rem;
-  font-variation-settings: 'opsz' 28;
+  font-size: 1.16rem;
+  line-height: 1.6;
+  color: var(--pom-ink-soft);
+  margin: 0 0 1.4rem;
+  font-weight: 400;
 }
 .wiki-prose > p:first-of-type:has(> em:only-child) em,
-.wiki-prose > p:first-child:has(> em:only-child) em { font-style: italic; }
+.wiki-prose > p:first-child:has(> em:only-child) em {
+  font-style: normal;
+}
 
 .wiki-prose h2 {
   font-size: 1.6rem;
@@ -348,19 +470,16 @@ img { max-width: 100%; height: auto; }
   margin: 2.4rem 0 0.85rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--pom-rule);
-  font-variation-settings: 'opsz' 72;
 }
 .wiki-prose h3 {
   font-size: 1.2rem;
   font-weight: 600;
   margin: 1.7rem 0 0.5rem;
-  font-variation-settings: 'opsz' 40;
 }
 .wiki-prose h4 {
   font-size: 1.04rem;
   font-weight: 600;
   margin: 1.3rem 0 0.4rem;
-  font-variation-settings: 'opsz' 28;
 }
 
 .wiki-prose a {
@@ -396,7 +515,6 @@ img { max-width: 100%; height: auto; }
   padding: 0.2rem 0 0.2rem 1.4rem;
   color: var(--pom-graphite);
   font-family: var(--pom-font-display);
-  font-style: italic;
   font-size: 1.1rem;
   line-height: 1.55;
 }
@@ -445,14 +563,12 @@ img { max-width: 100%; height: auto; }
 /* ══ WIKI ELEMENTS (hatnote, infobox, see-also) ════════════════════════ */
 .wiki-hatnote {
   font-family: var(--pom-font-display);
-  font-style: italic;
   color: var(--pom-graphite);
   font-size: 0.98rem;
   margin: -0.2rem 0 1.4rem;
   padding-left: 0.9rem;
   border-left: 2px solid var(--pom-rule-firm);
 }
-.wiki-hatnote a { font-style: italic; }
 
 .wiki-infobox {
   float: right;
@@ -486,7 +602,6 @@ img { max-width: 100%; height: auto; }
   background: var(--pom-paper-warm);
   border-top: 1px solid var(--pom-rule);
   padding: 0.55rem 0.9rem;
-  font-style: italic;
   color: var(--pom-graphite);
   font-size: 0.82rem;
 }
@@ -530,18 +645,15 @@ img { max-width: 100%; height: auto; }
   margin: 0 0 0.6rem;
   padding-bottom: 0.2rem;
   font-size: 1.4rem;
-  font-variation-settings: 'opsz' 60;
 }
 .wiki-seealso h3 {
   font-family: var(--pom-font-display);
-  font-style: italic;
   font-size: 0.84rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--pom-accent);
   margin: 1.2rem 0 0.5rem;
   font-weight: 600;
-  font-variation-settings: 'opsz' 28;
 }
 .wiki-seealso ul {
   columns: 2;
@@ -587,17 +699,221 @@ img { max-width: 100%; height: auto; }
   font-weight: 600;
   letter-spacing: -0.035em;
   margin: 0 0 0.4rem;
-  font-variation-settings: 'opsz' 144;
 }
 .wiki-home-tagline {
   font-family: var(--pom-font-display);
-  font-style: italic;
-  font-size: 1.22rem;
+  font-size: 1.15rem;
   line-height: 1.55;
-  color: var(--pom-graphite);
+  color: var(--pom-ink-soft);
   margin: 0;
-  font-variation-settings: 'opsz' 28;
+  max-width: 56rem;
+  font-weight: 400;
 }
+
+/* Stats tiles — site totals at the top of the home page */
+.wiki-home-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 0 0 2.4rem;
+}
+.wiki-stat-tile {
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule-firm);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  transition: border-color 0.18s ease;
+}
+.wiki-stat-tile:hover { border-color: var(--pom-accent); }
+.wiki-stat-num {
+  font-family: var(--pom-font-display);
+  font-size: 2.6rem;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  color: var(--pom-ink);
+  line-height: 1;
+}
+.wiki-stat-label {
+  font-family: var(--pom-font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--pom-mist);
+  margin-top: 0.4rem;
+  font-weight: 600;
+}
+@media (max-width: 700px) {
+  .wiki-home-stats { grid-template-columns: repeat(2, 1fr); }
+}
+
+.wiki-home-section-sub {
+  color: var(--pom-graphite);
+  font-size: 1rem;
+  margin: -0.5rem 0 1.6rem;
+  max-width: 56rem;
+}
+
+/* Category grid — 27 cards with SVG art + entry count + blurb */
+.wiki-home-catgrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 0 0 3rem;
+}
+.wiki-catcard {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  border: 0 !important;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule) !important;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.wiki-catcard:hover {
+  border-color: var(--pom-accent) !important;
+  transform: translateY(-2px);
+}
+.wiki-catcard-art {
+  width: 100% !important;
+  height: 130px !important;
+  object-fit: cover;
+  display: block;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  border: 0 !important;
+  border-bottom: 1px solid var(--pom-rule) !important;
+}
+.wiki-catcard-body {
+  padding: 0.85rem 1rem 1rem;
+}
+.wiki-catcard-count {
+  font-family: var(--pom-font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--pom-accent);
+  margin-bottom: 0.2rem;
+}
+.wiki-catcard-title {
+  font-family: var(--pom-font-display);
+  font-size: 1.18rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: var(--pom-ink);
+  margin-bottom: 0.35rem;
+  line-height: 1.2;
+}
+.wiki-catcard-blurb {
+  font-size: 0.86rem;
+  color: var(--pom-graphite);
+  line-height: 1.45;
+  margin: 0;
+}
+@media (max-width: 1000px) {
+  .wiki-home-catgrid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+  .wiki-home-catgrid { grid-template-columns: 1fr; }
+  .wiki-catcard-art { height: 110px !important; }
+}
+
+/* Deep category list section */
+.wiki-home-deep {
+  margin: 2.4rem 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem 3rem;
+}
+.wiki-home-cat {
+  border-top: 1px solid var(--pom-rule);
+  padding-top: 1.1rem;
+}
+.wiki-home-cat-h {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 0.6rem;
+}
+.wiki-home-cat-h h3 {
+  font-family: var(--pom-font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: var(--pom-ink);
+}
+.wiki-home-cat-h h3::before {
+  content: '';
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  margin-right: 0.6rem;
+  background: var(--pom-accent);
+  vertical-align: middle;
+  border-radius: 2px;
+}
+.wiki-home-cat-count {
+  font-family: var(--pom-font-mono);
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--pom-graphite);
+  background: var(--pom-paper-warm);
+  border: 1px solid var(--pom-rule);
+  padding: 0.18rem 0.55rem;
+  border-radius: 4px;
+}
+.wiki-home-cat-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  columns: 2;
+  column-gap: 1.4rem;
+}
+.wiki-home-cat-list > li {
+  break-inside: avoid;
+  padding: 0.18rem 0 !important;
+  font-size: 0.88rem;
+}
+.wiki-home-cat-list > li::before { display: none !important; }
+.wiki-home-cat-list a {
+  color: var(--pom-ink-soft) !important;
+  border: 0 !important;
+}
+.wiki-home-cat-list a:hover {
+  color: var(--pom-accent) !important;
+}
+.wiki-home-cat-more {
+  font-family: var(--pom-font-mono);
+  font-size: 0.74rem;
+  color: var(--pom-mist);
+  margin-top: 0.5rem;
+  letter-spacing: 0.04em;
+}
+@media (max-width: 900px) {
+  .wiki-home-deep { grid-template-columns: 1fr; }
+}
+@media (max-width: 560px) {
+  .wiki-home-cat-list { columns: 1; }
+}
+
+.wiki-home-random {
+  margin: 1rem 0 0 !important;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--pom-rule);
+}
+.wiki-home-random a {
+  font-family: var(--pom-font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--pom-accent) !important;
+  border: 0 !important;
+}
+.wiki-home-random a:hover { color: var(--pom-accent-hi) !important; }
 
 .wiki-home-hero {
   display: grid;
@@ -614,21 +930,19 @@ img { max-width: 100%; height: auto; }
   padding: 1.4rem;
 }
 .wiki-home-kicker {
-  font-family: var(--pom-font-display);
-  font-style: italic;
-  font-size: 0.78rem;
-  letter-spacing: 0.1em;
+  font-family: var(--pom-font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
   text-transform: uppercase;
   color: var(--pom-accent);
-  margin: 0 0 0.4rem;
-  font-weight: 600;
+  margin: 0 0 0.55rem;
+  font-weight: 700;
 }
 .wiki-home-featured h2 {
   font-size: 1.7rem;
   font-weight: 600;
   margin: 0.5rem 0 0.6rem;
   letter-spacing: -0.02em;
-  font-variation-settings: 'opsz' 72;
 }
 .wiki-home-featured h2 a { color: var(--pom-ink); }
 .wiki-home-featured h2 a:hover { color: var(--pom-accent); }
@@ -669,7 +983,6 @@ img { max-width: 100%; height: auto; }
   margin: 2rem 0 1rem;
   padding-bottom: 0.4rem;
   border-bottom: 1px solid var(--pom-rule);
-  font-variation-settings: 'opsz' 60;
 }
 
 .wiki-home-themes {
@@ -720,7 +1033,6 @@ img { max-width: 100%; height: auto; }
 
 .wiki-home-rule { margin: 2.4rem 0 1rem; }
 .wiki-home-disclaimer {
-  font-style: italic;
   color: var(--pom-graphite);
   font-size: 0.92rem;
   text-align: center;
@@ -742,7 +1054,6 @@ img { max-width: 100%; height: auto; }
   border-bottom: none;
   margin-top: 1.6rem;
   padding-bottom: 0.2rem;
-  font-variation-settings: 'opsz' 72;
 }
 .wiki-list-body .wiki-prose ul {
   columns: 2;
@@ -773,7 +1084,6 @@ img { max-width: 100%; height: auto; }
 .wiki-footer-col h4 {
   color: #f3ede1;
   font-family: var(--pom-font-display);
-  font-style: italic;
   font-weight: 600;
   font-size: 1rem;
   margin: 0 0 0.7rem;

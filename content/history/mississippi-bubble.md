@@ -8,7 +8,7 @@ keywords:
   - John Law
   - speculative crash
   - financial history
-image: "https://picsum.photos/seed/mississippi-bubble/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Mississippi Bubble** was a parallel and equally destructive speculative crash that gripped France in 1720. The Mississippi Company, chartered to trade with Louisiana, promised legendary riches from the American frontier. Orchestrated by the Scots financier John Law, the scheme inflated spectacularly before collapsing, ruining the finances of the French Crown and leaving a generation scarred by the memory of paper wealth evaporating into nothing.*
@@ -23,7 +23,7 @@ This entry covers the Mississippi Company collapse in France. For the simultaneo
 
 <div class="wiki-infobox-title">Mississippi Bubble — key facts</div>
 
-<img src="https://picsum.photos/seed/mississippi-bubble/900/600" alt="A period print showing John Law and the frenzied trading at the Mississippi Company offices" />
+<img src="/svg/history.svg" alt="A period print showing John Law and the frenzied trading at the Mississippi Company offices" />
 
 <div class="wiki-infobox-caption">John Law and the mob of investors in Rue Quincampoix, where Mississippi shares reached absurd valuations.</div>
 

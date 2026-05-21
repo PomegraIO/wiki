@@ -8,7 +8,7 @@ keywords:
   - block proposal
   - consensus participant
   - slashing
-image: "https://picsum.photos/seed/validator/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **validator** is a participant in a [proof-of-stake](/proof-of-stake) [blockchain](/blockchain-fundamentals) who locks cryptocurrency as collateral and participates in consensus by proposing and attesting to blocks. Validators are selected to propose blocks (often randomly or weighted by stake), earn rewards for honest participation, and lose collateral (are "slashed") if they misbehave.*
@@ -23,7 +23,7 @@ This entry covers validators in proof-of-stake systems. For miners in proof-of-w
 
 <div class="wiki-infobox-title">Validator — key facts</div>
 
-<img src="https://picsum.photos/seed/validator/900/600" alt="Validators securing a proof-of-stake network" />
+<img src="/svg/crypto.svg" alt="Validators securing a proof-of-stake network" />
 
 <div class="wiki-infobox-caption">A validator: securing the network through stake and participation.</div>
 

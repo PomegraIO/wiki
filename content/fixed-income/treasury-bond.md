@@ -7,7 +7,7 @@ keywords:
   - government debt
   - coupon security
   - 30-year bond
-image: "https://picsum.photos/seed/treasury-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **Treasury bond** — or **T-Bond** — is a long-term debt security issued by the U.S. government with a maturity of 20 or 30 years. Like [Treasury notes](/treasury-note), bonds pay a fixed semi-annual [coupon](/coupon-rate), but they extend the [yield curve](/yield-curve) to its longest traditional point and carry substantially greater [interest rate](/interest-rate) risk.*
@@ -22,7 +22,7 @@ For shorter-term Treasury debt, see [Treasury note](/treasury-note) and [Treasur
 
 <div class="wiki-infobox-title">Treasury Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/treasury-bond/900/600" alt="Stack of Treasury bond certificates showing denominations and security features" />
+<img src="/svg/fixed-income.svg" alt="Stack of Treasury bond certificates showing denominations and security features" />
 
 <div class="wiki-infobox-caption">The 30-year Treasury bond is the longest-dated benchmark in the U.S. fixed-income market.</div>
 

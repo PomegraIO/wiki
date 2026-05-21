@@ -6,7 +6,7 @@ keywords:
   - market opening
   - opening price
   - auction process
-image: "https://picsum.photos/seed/opening-auction/900/600"
+image: "/svg/trading.svg"
 ---
 
 *The **opening auction** is the mechanism used by stock exchanges to determine opening prices at the start of each trading day (9:30 a.m. ET for U.S. equities). Before the market officially opens, traders and algorithms submit orders to buy and sell. The exchange's auction algorithm finds the price that matches the most shares and causes the least imbalance, setting the opening price. This process ensures orderly trading and prevents the first trade from moving the price sharply.*
@@ -21,7 +21,7 @@ For the closing process, see closing auction. For trading throughout the day, se
 
 <div class="wiki-infobox-title">Opening auction — key facts</div>
 
-<img src="https://picsum.photos/seed/opening-auction/900/600" alt="Stock exchange opening bell at 9:30 a.m." />
+<img src="/svg/trading.svg" alt="Stock exchange opening bell at 9:30 a.m." />
 
 <div class="wiki-infobox-caption">Opening auction: orders accumulate before 9:30 a.m.; price set at the cross.</div>
 

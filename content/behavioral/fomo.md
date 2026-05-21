@@ -7,7 +7,7 @@ keywords:
   - regret aversion
   - late entry
   - bubble driving
-image: "https://picsum.photos/seed/fomo/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *FOMO — fear of missing out — is the anxiety experienced when you see others profiting from an investment you do not own or have exited. This fear drives you to buy late, after much of the gain is already captured, and to hold through crashes because exiting means admitting you missed the main move. FOMO is a primary driver of bubbles and a primary destroyer of retail investor wealth.*
@@ -22,7 +22,7 @@ Related to [regret aversion](/regret-aversion), [herd behavior](/herd-behavior),
 
 <div class="wiki-infobox-title">FOMO — key facts</div>
 
-<img src="https://picsum.photos/seed/fomo/900/600" alt="A hand reaching toward a door that is closing" />
+<img src="/svg/behavioral.svg" alt="A hand reaching toward a door that is closing" />
 
 <div class="wiki-infobox-caption">The anxiety of watching others win while you stand still.</div>
 

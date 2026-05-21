@@ -7,7 +7,7 @@ keywords:
   - heating
   - electricity
   - LNG
-image: "https://picsum.photos/seed/natural-gas/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **natural gas** — a hydrocarbon fuel consisting primarily of methane — is an energy source for electricity generation, residential and commercial heating, and industrial processes. Natural gas is cleaner than coal and oil and has been called a "bridge fuel" to renewables, though it is still a fossil fuel. Prices are regional, with US Henry Hub prices divorced from global [LNG](/lng/) prices due to transport costs and market segmentation.*
@@ -22,7 +22,7 @@ This entry covers natural gas as a commodity. For liquefied natural gas and glob
 
 <div class="wiki-infobox-title">Natural Gas — key facts</div>
 
-<img src="https://picsum.photos/seed/natural-gas/900/600" alt="Natural gas storage facility and LNG terminal" />
+<img src="/svg/commodities.svg" alt="Natural gas storage facility and LNG terminal" />
 
 <div class="wiki-infobox-caption">Natural gas infrastructure for storage and liquefaction.</div>
 

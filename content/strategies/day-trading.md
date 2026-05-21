@@ -8,7 +8,7 @@ keywords:
   - pattern day trader
   - intraday volatility
   - high-frequency trading
-image: "https://picsum.photos/seed/day-trading/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Day trading is a trading strategy of entering and exiting [stock](/stock/) or other [positions](/stock/) within the same trading day, typically aiming to capture intraday volatility and avoid overnight risk. A day trader does not carry positions overnight, instead liquidating them by market close.*
@@ -23,7 +23,7 @@ For overnight holding, see [swing trading](/swing-trading/). For longer-term tra
 
 <div class="wiki-infobox-title">Day trading — key facts</div>
 
-<img src="https://picsum.photos/seed/day-trading/900/600" alt="A trader monitoring multiple screens with intraday price charts" />
+<img src="/svg/strategies.svg" alt="A trader monitoring multiple screens with intraday price charts" />
 
 <div class="wiki-infobox-caption">Day traders operate in the fastest, most intense market segment, where speed and psychology matter.</div>
 

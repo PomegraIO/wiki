@@ -7,7 +7,7 @@ keywords:
   - debt held by public
   - sovereign borrowing
   - external debt
-image: "https://picsum.photos/seed/public-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **public debt** is a government obligation to external creditors — investors, foreign governments, or institutions that have lent money to the state. It is the portion of [national debt](/national-debt) that represents obligations to outside parties, excluding internal government borrowing from its own trust funds.*
@@ -22,7 +22,7 @@ This entry covers external government debt. For total government borrowing inclu
 
 <div class="wiki-infobox-title">Public Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/public-debt/900/600" alt="Public debt" />
+<img src="/svg/fiscal.svg" alt="Public debt" />
 
 <div class="wiki-infobox-caption">Public debt represents government obligations to external creditors.</div>
 

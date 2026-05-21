@@ -8,7 +8,7 @@ keywords:
   - quarterly rebalancing
   - scheduled rebalancing
   - time-based rebalancing
-image: "https://picsum.photos/seed/calendar-rebalancing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Calendar rebalancing is a disciplined approach of returning a [portfolio's](/asset-allocation/) [asset-class](/asset-allocation/) weights to target allocations on a fixed schedule — quarterly, semi-annually, or annually — regardless of how much the allocations have drifted from target.*
@@ -23,7 +23,7 @@ For drift-triggered rebalancing, see [threshold-rebalancing](/threshold-rebalanc
 
 <div class="wiki-infobox-title">Calendar rebalancing — key facts</div>
 
-<img src="https://picsum.photos/seed/calendar-rebalancing/900/600" alt="A calendar showing quarterly or annual rebalancing dates" />
+<img src="/svg/strategies.svg" alt="A calendar showing quarterly or annual rebalancing dates" />
 
 <div class="wiki-infobox-caption">Calendar rebalancers execute on a fixed schedule, forcing discipline at predetermined intervals.</div>
 

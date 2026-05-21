@@ -7,7 +7,7 @@ keywords:
   - bearish
   - inverted u
   - technical analysis
-image: "https://picsum.photos/seed/rounding-top/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **rounding top** is a bearish reversal pattern characterized by a smooth, inverted U-shaped price formation. Unlike sharp reversals, a rounding top develops gradually over weeks or months. Price rises in an uptrend, reaches a high, then gradually declines in a rounded arc back to the level where the rally began, signalling a complete reversal of direction. The pattern is the bearish mirror of the [rounding-bottom](/technical-analysis/rounding-bottom). The gradual, rounded shape shows that buying pressure is exhausting gradually and selling interest is building methodically. Rounding tops are considered relatively reliable reversal patterns because they reflect fundamental shifts in sentiment rather than technical overshoots.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Rounding top — key facts</div>
 
-<img src="https://picsum.photos/seed/rounding-top/900/600" alt="A rounding top pattern: smooth inverted U-shaped decline from uptrend" />
+<img src="/svg/technical-analysis.svg" alt="A rounding top pattern: smooth inverted U-shaped decline from uptrend" />
 
 <div class="wiki-infobox-caption">Rounding top: gradual reversal, rounded peak, steady decline; no sharp reversals.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - growth stocks
   - capital appreciation
   - high-growth companies
-image: "https://picsum.photos/seed/growth-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Growth investing is a strategy centered on buying companies expected to grow their [earnings](/earnings-per-share/) significantly faster than the overall market or the economy, betting that expanding profits will eventually drive [capital gains](/stock/) regardless of the starting valuation.*
@@ -23,7 +23,7 @@ For the blend of growth and value, see [GARP](/garp/). For value-oriented strate
 
 <div class="wiki-infobox-title">Growth investing — key facts</div>
 
-<img src="https://picsum.photos/seed/growth-investing/900/600" alt="A chart showing accelerating earnings and share price appreciation" />
+<img src="/svg/strategies.svg" alt="A chart showing accelerating earnings and share price appreciation" />
 
 <div class="wiki-infobox-caption">Growth investors follow accelerating earnings, riding expanding valuations upward.</div>
 

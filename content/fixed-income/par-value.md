@@ -7,7 +7,7 @@ keywords:
   - principal
   - bond denomination
   - redemption value
-image: "https://picsum.photos/seed/par-value/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **par value** — also called **face value** or **principal** — is the amount that a bond issuer promises to repay when the bond matures. For example, a bond with a $1,000 par value will repay $1,000 on the maturity date. The [coupon](/coupon-rate) payment is calculated as a percentage of par value. A bond with a 5% coupon and $1,000 par value pays $50 annually.*
@@ -22,7 +22,7 @@ For the price at which bonds trade, see [yield to maturity](/yield-to-maturity).
 
 <div class="wiki-infobox-title">Par Value — key facts</div>
 
-<img src="https://picsum.photos/seed/par-value/900/600" alt="A bond certificate showing the face value and coupon rate" />
+<img src="/svg/fixed-income.svg" alt="A bond certificate showing the face value and coupon rate" />
 
 <div class="wiki-infobox-caption">Par value is the amount repaid at maturity and the basis for coupon calculations.</div>
 

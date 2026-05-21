@@ -7,7 +7,7 @@ keywords:
   - government spending
   - tax cuts
   - aggregate demand
-image: "https://picsum.photos/seed/fiscal-policy-expansionary/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **expansionary fiscal policy** is when government increases spending or cuts taxes to boost aggregate demand and economic activity. The goal is to stimulate growth, reduce [unemployment](/central-bank), and lift the economy out of slowdown or [recession](/recession).*
@@ -22,7 +22,7 @@ This entry covers stimulus policy. For the opposite approach, see [fiscal policy
 
 <div class="wiki-infobox-title">Fiscal Policy Expansionary — key facts</div>
 
-<img src="https://picsum.photos/seed/fiscal-policy-expansionary/900/600" alt="Expansionary fiscal policy" />
+<img src="/svg/fiscal.svg" alt="Expansionary fiscal policy" />
 
 <div class="wiki-infobox-caption">Expansionary policy widens the deficit to stimulate growth.</div>
 

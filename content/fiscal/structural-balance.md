@@ -7,7 +7,7 @@ keywords:
   - cyclical adjustment
   - fiscal policy
   - budget balance
-image: "https://picsum.photos/seed/structural-balance/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **structural balance** is a government [budget](/budget-deficit) adjusted to remove temporary effects of the business cycle. It reveals what the [deficit](/budget-deficit) would be if the economy were operating at its normal, or potential, level of output — stripping away the distortions of [recession](/recession) or boom.*
@@ -22,7 +22,7 @@ This entry covers a key analytical adjustment. For the unadjusted deficit, see [
 
 <div class="wiki-infobox-title">Structural Balance — key facts</div>
 
-<img src="https://picsum.photos/seed/structural-balance/900/600" alt="Structural budget balance" />
+<img src="/svg/fiscal.svg" alt="Structural budget balance" />
 
 <div class="wiki-infobox-caption">The structural balance isolates permanent fiscal stance from temporary economic effects.</div>
 

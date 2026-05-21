@@ -7,7 +7,7 @@ keywords:
   - FX price movement
   - bid-ask spread
   - pip value
-image: "https://picsum.photos/seed/pip/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **pip** — short for "percentage in point" — is the smallest measurable unit of change in a [currency pair](/currency-pair). For most pairs, one pip is 0.0001; for pairs involving the [Japanese yen](/japanese-yen), one pip is 0.01. A move from EUR/USD 1.0850 to 1.0851 is one pip. Pips are the universal language of foreign-exchange traders; every [spread](/forex-spread), every gain, every loss is measured in pips.*
@@ -22,7 +22,7 @@ For smaller movements below a pip, traders use fractional pips or "pipettes," eq
 
 <div class="wiki-infobox-title">Pip — key facts</div>
 
-<img src="https://picsum.photos/seed/pip/900/600" alt="A currency pair quote showing pip-level movements" />
+<img src="/svg/forex.svg" alt="A currency pair quote showing pip-level movements" />
 
 <div class="wiki-infobox-caption">Pips are the granular unit of price movement in FX markets.</div>
 

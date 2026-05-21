@@ -8,7 +8,7 @@ keywords:
   - social security
   - medicare
   - medicaid
-image: "https://picsum.photos/seed/mandatory-spending/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **mandatory spending** program is one where the government must spend money according to law, without needing annual Congressional appropriation. The largest mandatory programs are [entitlements](/entitlement-spending) like Social Security, Medicare, and Medicaid; the government spends whatever is needed to serve eligible beneficiaries.*
@@ -23,7 +23,7 @@ This entry covers automatic spending. For spending that requires annual appropri
 
 <div class="wiki-infobox-title">Mandatory Spending — key facts</div>
 
-<img src="https://picsum.photos/seed/mandatory-spending/900/600" alt="Mandatory spending" />
+<img src="/svg/fiscal.svg" alt="Mandatory spending" />
 
 <div class="wiki-infobox-caption">Mandatory spending grows automatically and drives long-term deficits.</div>
 

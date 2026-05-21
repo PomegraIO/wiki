@@ -7,7 +7,7 @@ keywords:
   - industrial demand
   - construction
   - electrical
-image: "https://picsum.photos/seed/copper/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **copper** — the red metal that has been valued since ancient times — is a commodity whose price tracks global construction, electrical demand, and renewable energy investment. Copper is essential to power transmission, electric motors, and renewable generation systems; it is the most widely consumed industrial metal after iron, and its market is often called the "Doctor Copper" because prices rise when the economy is healthy and fall sharply during [recessions](/recession/).*
@@ -22,7 +22,7 @@ This entry covers copper as a traded commodity. For copper mining companies and 
 
 <div class="wiki-infobox-title">Copper — key facts</div>
 
-<img src="https://picsum.photos/seed/copper/900/600" alt="Copper ore and refined copper bars" />
+<img src="/svg/commodities.svg" alt="Copper ore and refined copper bars" />
 
 <div class="wiki-infobox-caption">Copper in raw ore and refined bar forms.</div>
 

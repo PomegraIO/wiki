@@ -7,7 +7,7 @@ keywords:
   - intrinsic value
   - ongoing business
   - business valuation
-image: "https://picsum.photos/seed/going-concern-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **going-concern valuation** values a company on the assumption that it will continue operating indefinitely, generating cash flows into the future. This is the standard assumption for any normal business valuation—[DCF](/discounted-cash-flow-valuation), [multiples](/multiples-valuation), [dividend discount models](/dividend-discount-model). It contrasts with [liquidation value](/liquidation-value) or [break-up value](/sum-of-the-parts-valuation), which assume the business is wound down or sold piecemeal.*

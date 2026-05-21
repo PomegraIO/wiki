@@ -6,7 +6,7 @@ keywords:
   - cost basis
   - first in first out
   - tax efficiency
-image: "https://picsum.photos/seed/fifo-tax/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **FIFO** method (First In, First Out) is the default way your [broker](/broker/) assumes you sell [shares](/stock/) if you do not specify otherwise. When you own multiple [tax lots](/tax-lot/) at different prices, FIFO sells the oldest [lot](/tax-lot/) first. For investors who bought long ago at low prices, FIFO is typically the least tax-efficient method, maximizing gains and tax bills. Choosing [specific identification](/specific-identification-basis/) instead can save thousands of dollars.*
@@ -21,7 +21,7 @@ For alternatives, see [specific identification](/specific-identification-basis/)
 
 <div class="wiki-infobox-title">FIFO tax basis — key facts</div>
 
-<img src="https://picsum.photos/seed/fifo-tax/900/600" alt="A timeline showing the oldest lot sold first" />
+<img src="/svg/taxes.svg" alt="A timeline showing the oldest lot sold first" />
 
 <div class="wiki-infobox-caption">FIFO sells oldest lots first, maximizing embedded gains in long-term portfolios.</div>
 

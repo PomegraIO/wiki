@@ -6,7 +6,7 @@ keywords:
   - algo trading
   - automated trading
   - execution algorithm
-image: "https://picsum.photos/seed/algorithmic-trading/900/600"
+image: "/svg/trading.svg"
 ---
 
 *Algorithmic trading (or "algo trading") is the use of computer programs to automatically execute trades based on pre-set rules. An algorithm might slice a large order into small pieces and execute them throughout the day, or search for price patterns and execute when conditions are met. Algorithms range from simple (execute 10,000 shares evenly over the next hour) to complex (adapt to real-time volume, market microstructure, and estimated price impact). The vast majority of institutional trading is algorithmic.*
@@ -21,7 +21,7 @@ For extremely fast algorithmic trading, see [high-frequency trading](/high-frequ
 
 <div class="wiki-infobox-title">Algorithmic trading — key facts</div>
 
-<img src="https://picsum.photos/seed/algorithmic-trading/900/600" alt="A computer screen showing algorithmic trading logic and execution" />
+<img src="/svg/trading.svg" alt="A computer screen showing algorithmic trading logic and execution" />
 
 <div class="wiki-infobox-caption">Algorithms automate trading decisions, breaking large orders into optimal execution pieces.</div>
 

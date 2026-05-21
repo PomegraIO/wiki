@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/triple-bottom/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **triple bottom** is a bullish reversal pattern consisting of three lows at approximately the same price level, separated by two rallies. The pattern shows that price has tested a support level three times and bounced all three times, revealing mounting strength among buyers. Each failed decline below support represents another failed attempt by bears. When price finally breaks decisively above both rally highs, the pattern is complete, and a sustained uptrend often follows. Triple bottoms are rarer and more significant than [double bottoms](/technical-analysis/double-bottom) because the triple bounce at the same level signals support strength more definitively.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Triple bottom — key facts</div>
 
-<img src="https://picsum.photos/seed/triple-bottom/900/600" alt="A triple bottom pattern: three troughs at similar levels with two peaks between them" />
+<img src="/svg/technical-analysis.svg" alt="A triple bottom pattern: three troughs at similar levels with two peaks between them" />
 
 <div class="wiki-infobox-caption">Triple bottom: three successful bounces at support; break above peaks signals reversal.</div>
 

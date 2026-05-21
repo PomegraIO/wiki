@@ -7,7 +7,7 @@ keywords:
   - FX risk
   - delivery risk
   - transaction risk
-image: "https://picsum.photos/seed/settlement-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Settlement risk — also called **delivery risk** or **Herstatt risk** — is the probability that one counterparty will deliver payment or securities in a transaction while the other fails to deliver, leaving the first party with a loss. It is most acute in foreign exchange transactions where settlement occurs across time zones.*
@@ -22,7 +22,7 @@ This entry covers the risk during the gap between trade and settlement. For the 
 
 <div class="wiki-infobox-title">Settlement Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/settlement-risk/900/600" alt="A payment instruction frozen mid-delivery between two banks" />
+<img src="/svg/risk.svg" alt="A payment instruction frozen mid-delivery between two banks" />
 
 <div class="wiki-infobox-caption">Settlement risk peaks in the gap between trade and final clearing.</div>
 

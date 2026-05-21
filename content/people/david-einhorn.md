@@ -7,7 +7,7 @@ keywords:
   - short selling
   - accounting fraud
   - hedge fund
-image: "https://picsum.photos/seed/david-einhorn/900/600"
+image: "/svg/people.svg"
 ---
 
 *David Einhorn built Greenlight Capital through a combination of long value positions and short research, becoming famous for identifying accounting frauds and financial sector risks before they became obvious.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/david-einhorn/900/600"
 
 <div class="wiki-infobox-title">David Einhorn — key facts</div>
 
-<img src="https://picsum.photos/seed/david-einhorn/900/600" alt="Financial audit papers and forensic accounting documents" />
+<img src="/svg/people.svg" alt="Financial audit papers and forensic accounting documents" />
 
 <div class="wiki-infobox-caption">The domain of his investigation — where accounting hides truth.</div>
 

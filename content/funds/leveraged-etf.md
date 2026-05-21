@@ -7,7 +7,7 @@ keywords:
   - 3x leverage
   - amplified returns
   - fund
-image: "https://picsum.photos/seed/leveraged-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **leveraged ETF** is an [ETF](/etf) designed to deliver multiples of the daily return of an underlying index, typically using [derivatives](/option) and borrowed money. A 2x leveraged equity ETF aims to return twice the daily return of the S&P 500; a 3x leveraged ETF aims to triple it. Leveraged ETFs are trading instruments, not buy-and-hold investments.*
@@ -22,7 +22,7 @@ This entry covers leveraged ETFs as trading tools. For the opposite trade, see [
 
 <div class="wiki-infobox-title">Leveraged ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/leveraged-etf/900/600" alt="A financial chart showing amplified price movements" />
+<img src="/svg/funds.svg" alt="A financial chart showing amplified price movements" />
 
 <div class="wiki-infobox-caption">Leveraged ETFs amplify daily index movements using derivatives and debt.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - amt
   - high earners
   - tax preference
-image: "https://picsum.photos/seed/alternative-minimum-tax-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Alternative Minimum Tax** (AMT) is a parallel federal tax system designed to ensure that high-income earners pay a minimum amount of tax. Taxpayers with high income or certain deductions (like large [depreciation](/depreciation-recapture-investor/), [private activity bonds](/interest-rate/), or concentrated [capital gains](/capital-gains-tax-investor/)) must calculate both regular tax and AMT, then pay whichever is higher. For affected investors, AMT can increase the effective tax rate by several percentage points.*
@@ -21,7 +21,7 @@ For regular tax rates, see [marginal tax rate investor](/marginal-tax-rate-inves
 
 <div class="wiki-infobox-title">Alternative minimum tax for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/alternative-minimum-tax-investor/900/600" alt="A comparison of regular tax and AMT calculation" />
+<img src="/svg/taxes.svg" alt="A comparison of regular tax and AMT calculation" />
 
 <div class="wiki-infobox-caption">Calculate AMT separately; pay whichever is higher than regular tax.</div>
 

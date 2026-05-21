@@ -7,7 +7,7 @@ keywords:
   - divestiture
   - separation
   - corporate restructuring
-image: "https://picsum.photos/seed/spinoff/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **spinoff** (or **spin-off**) is a corporate action in which a parent company separates one of its business units or divisions into a new, independent public company and distributes shares of the new company to its shareholders. After a spinoff, shareholders of the parent own shares in both the parent company and the newly independent company. Spinoffs allow different business units to have independent capital structures, management, and strategies. They are distinct from [equity carve-outs](/equity-carve-out), where the parent retains a stake, and [split-offs](/split-off), where shareholders trade parent shares for spun-off shares.*
@@ -22,7 +22,7 @@ This entry covers spinoffs as a corporate separation mechanism. For related sepa
 
 <div class="wiki-infobox-title">Spinoff — key facts</div>
 
-<img src="https://picsum.photos/seed/spinoff/900/600" alt="A company separating into two" />
+<img src="/svg/corporate.svg" alt="A company separating into two" />
 
 <div class="wiki-infobox-caption">A spinoff creates an independent company from a division.</div>
 

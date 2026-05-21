@@ -7,7 +7,7 @@ keywords:
   - distressed debt
   - private equity
   - asset management
-image: "https://picsum.photos/seed/leon-black/900/600"
+image: "/svg/people.svg"
 ---
 
 *Leon Black built Apollo Global Management from a distressed-debt specialist into a diversified alternative asset manager by focusing on credit opportunities and demonstrating that a single strategic focus could be scaled into a multi-billion-dollar institution.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/leon-black/900/600"
 
 <div class="wiki-infobox-title">Leon Black — key facts</div>
 
-<img src="https://picsum.photos/seed/leon-black/900/600" alt="Apollo's offices with market screens and financial data" />
+<img src="/svg/people.svg" alt="Apollo's offices with market screens and financial data" />
 
 <div class="wiki-infobox-caption">The center of opportunity — where distressed credit is evaluated.</div>
 

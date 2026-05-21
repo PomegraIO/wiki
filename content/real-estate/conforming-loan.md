@@ -7,7 +7,7 @@ keywords:
   - Fannie Mae
   - Freddie Mac
   - standard mortgage
-image: "https://picsum.photos/seed/conforming-loan/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **conforming loan** is a mortgage that meets the standards set by Fannie Mae and Freddie Mac, including limits on loan size, borrower debt-to-income ratios, and credit requirements. Conforming loans are the benchmark for mortgage pricing and availability in the U.S. secondary market.*
@@ -22,7 +22,7 @@ For loans exceeding conforming limits, see [jumbo-loan](/jumbo-loan). For govern
 
 <div class="wiki-infobox-title">Conforming Loan — key facts</div>
 
-<img src="https://picsum.photos/seed/conforming-loan/900/600" alt="A mortgage document labeled as conforming" />
+<img src="/svg/real-estate.svg" alt="A mortgage document labeled as conforming" />
 
 <div class="wiki-infobox-caption">Conforming loans meet Fannie Mae and Freddie Mac standards.</div>
 

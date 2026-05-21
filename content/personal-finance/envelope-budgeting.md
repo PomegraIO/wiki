@@ -7,7 +7,7 @@ keywords:
   - budget method
   - cash envelope
   - spending category
-image: "https://picsum.photos/seed/envelope-budgeting/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *In **envelope budgeting**, you allocate a fixed amount of money to each spending category (the "envelopes") and commit not to exceed that limit. Historically, people used physical cash envelopes; today, the method is usually digital, with separate accounts or app-enforced limits.*
@@ -22,7 +22,7 @@ For the principle of allocating every dollar, see [zero-based budgeting](/zero-b
 
 <div class="wiki-infobox-title">Envelope Budgeting — key facts</div>
 
-<img src="https://picsum.photos/seed/envelope-budgeting/900/600" alt="Several physical envelopes labeled with spending categories like Food, Entertainment, and Transport" />
+<img src="/svg/personal-finance.svg" alt="Several physical envelopes labeled with spending categories like Food, Entertainment, and Transport" />
 
 <div class="wiki-infobox-caption">The physical form: money sorted, category by category, ready to spend.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - broad money
   - large time deposits
   - money aggregates
-image: "https://picsum.photos/seed/m3-money-supply/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **M3** is the broadest measure of the [money supply](/m1), encompassing [M2](/m2) plus large time deposits, institution-only [money-market funds](/stock-market), repurchase agreements, and other highly liquid but less-frequently-used assets. M3 attempts to capture the widest definition of liquidity in the financial system, though it is rarely used in modern monetary-policy frameworks.*
@@ -22,7 +22,7 @@ This entry covers the M3 aggregate. For narrower measures, see [m1](/m1) and [m2
 
 <div class="wiki-infobox-title">M3 Money Supply — key facts</div>
 
-<img src="https://picsum.photos/seed/m3-money-supply/900/600" alt="M2 plus large institutional liquid assets" />
+<img src="/svg/monetary.svg" alt="M2 plus large institutional liquid assets" />
 
 <div class="wiki-infobox-caption">M3 is the broadest measure—nearly all liquid financial assets.</div>
 

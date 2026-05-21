@@ -7,7 +7,7 @@ keywords:
   - declining growth
   - transition period
   - valuation
-image: "https://picsum.photos/seed/three-stage-dcf/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **three-stage DCF** is a refinement of the [two-stage model](/two-stage-dcf) that acknowledges an intermediate reality: most businesses do not leap from high growth to stable growth instantly. Instead, they pass through a transition period—five, ten, or fifteen years—where growth rate declines gradually. A three-stage model makes this decay explicit.*

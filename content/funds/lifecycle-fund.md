@@ -7,7 +7,7 @@ keywords:
   - automatic rebalancing
   - retirement investing
   - fund
-image: "https://picsum.photos/seed/lifecycle-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **lifecycle fund** is a [mutual fund](/mutual-fund) or [ETF](/etf) that adjusts its allocation between [stocks](/stock) and [bonds](/bond) based on the investor's age or years to retirement. Younger investors get more aggressive allocations (80%+ [stocks](/stock)); older investors get conservative allocations (30% [stocks](/stock)). Lifecycle funds are a self-adjusting form of [asset allocation](/asset-allocation), automating the risk reduction that typically accompanies aging.*
@@ -22,7 +22,7 @@ This entry covers lifecycle funds broadly. For time-based variants, see [target-
 
 <div class="wiki-infobox-title">Lifecycle Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/lifecycle-fund/900/600" alt="A glide path showing allocation shifting from 80% stocks to 30% stocks over 40 years" />
+<img src="/svg/funds.svg" alt="A glide path showing allocation shifting from 80% stocks to 30% stocks over 40 years" />
 
 <div class="wiki-infobox-caption">Lifecycle funds automatically reduce risk as investors age.</div>
 

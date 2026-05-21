@@ -7,7 +7,7 @@ keywords:
   - Rule 506
   - accredited investor
   - non-public offering
-image: "https://picsum.photos/seed/private-placement/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A private placement is the sale of securities to a limited group of accredited or institutional investors without a public offering. Private placements are used by both private and [public companies](/public-company/) to raise capital more quickly and cheaply than public offerings. They are governed by Regulation D under US securities law, which exempts certain private offerings from the requirement to register with the SEC. [PIPE offerings](/equity/pipe-offering/) are a subset of private placements (sales by public companies) while most private placements are by private companies.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/private-placement/900/600"
 
 <div class="wiki-infobox-title">Private placement — key facts</div>
 
-<img src="https://picsum.photos/seed/private-placement/900/600" alt="A private placement term sheet showing investor commitments" />
+<img src="/svg/equity.svg" alt="A private placement term sheet showing investor commitments" />
 
 <div class="wiki-infobox-caption">Direct sale to accredited investors, outside public market.</div>
 

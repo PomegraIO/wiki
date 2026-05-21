@@ -6,7 +6,7 @@ keywords:
   - deduction
   - standard deduction
   - tax reduction
-image: "https://picsum.photos/seed/itemized-deduction-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **itemized deduction** option allows taxpayers to deduct specific expenses instead of taking the [standard deduction](/standard-deduction-investor/). Eligible items include [charitable contributions](/charitable-contribution-deduction/), mortgage [interest](/interest-rate/), state and local taxes (capped at $10,000), and medical expenses. You must choose: [itemize](/itemized-deduction-investor/) *or* take the [standard deduction](/standard-deduction-investor/), whichever is larger. For most middle-income investors, the [standard deduction](/standard-deduction-investor/) is larger, but wealthy investors with large [charitable contributions](/charitable-contribution-deduction/) or expensive homes may benefit from [itemizing](/itemized-deduction-investor/).*
@@ -21,7 +21,7 @@ To decide whether to itemize, compare your total itemized deductions to the [sta
 
 <div class="wiki-infobox-title">Itemized deduction for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/itemized-deduction-investor/900/600" alt="A list of itemized deduction categories" />
+<img src="/svg/taxes.svg" alt="A list of itemized deduction categories" />
 
 <div class="wiki-infobox-caption">Deduct specific expenses if total exceeds the standard deduction.</div>
 

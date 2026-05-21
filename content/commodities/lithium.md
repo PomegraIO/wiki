@@ -7,7 +7,7 @@ keywords:
   - battery
   - electric vehicle
   - energy storage
-image: "https://picsum.photos/seed/lithium/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **lithium** — a soft, silvery metal whose primary use is battery anodes — is a commodity at the center of the energy transition. Lithium demand from electric vehicles and grid-storage batteries is growing 15–20% annually, outpacing supply growth and creating structural shortages. Supply is concentrated in a handful of countries (Chile, Argentina, Australia, China), making lithium a strategic asset for governments and corporations.*
@@ -22,7 +22,7 @@ This entry covers lithium as a traded commodity. Lithium supply and demand are c
 
 <div class="wiki-infobox-title">Lithium — key facts</div>
 
-<img src="https://picsum.photos/seed/lithium/900/600" alt="Lithium ore and lithium carbonate powder" />
+<img src="/svg/commodities.svg" alt="Lithium ore and lithium carbonate powder" />
 
 <div class="wiki-infobox-caption">Lithium in ore and chemical form (lithium carbonate).</div>
 

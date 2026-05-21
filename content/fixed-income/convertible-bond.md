@@ -7,7 +7,7 @@ keywords:
   - hybrid security
   - equity option
   - bond with warrant
-image: "https://picsum.photos/seed/convertible-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **convertible bond** is a debt security that grants the holder the right to convert it into a fixed number of [shares](/stock) of the issuing company's common stock at a predetermined price. It combines the safety of a [bond](/bond) (fixed coupon, return of principal) with the upside of a [stock](/stock) (capital appreciation if the company performs well).*
@@ -22,7 +22,7 @@ For regular [corporate bonds](/corporate-bond), see [corporate bond](/corporate-
 
 <div class="wiki-infobox-title">Convertible Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/convertible-bond/900/600" alt="A chart showing the conversion option payoff profile for a convertible bond" />
+<img src="/svg/fixed-income.svg" alt="A chart showing the conversion option payoff profile for a convertible bond" />
 
 <div class="wiki-infobox-caption">Convertible bonds offer upside equity exposure with downside debt protection.</div>
 

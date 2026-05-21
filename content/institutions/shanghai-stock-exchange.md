@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - China
   - mainland China
-image: "https://picsum.photos/seed/shanghai-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Shanghai Stock Exchange** (SSE) is the largest [stock exchange](/stock-exchange) in mainland China and one of the fastest-growing equity markets in the world. Reopened in 1990 after decades of closure under communist rule, the SSE has grown to become home to the nation's largest corporations, from industrial giants to high-growth technology firms, and represents China's integration into global capital markets.*
@@ -22,7 +22,7 @@ For China's second major exchange, see [Shenzhen Stock Exchange](/shenzhen-stock
 
 <div class="wiki-infobox-title">Shanghai Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/shanghai-stock-exchange/900/600" alt="The Shanghai Stock Exchange building in the financial district" />
+<img src="/svg/institutions.svg" alt="The Shanghai Stock Exchange building in the financial district" />
 
 <div class="wiki-infobox-caption">The modern Shanghai Stock Exchange in Lujiazui financial district.</div>
 

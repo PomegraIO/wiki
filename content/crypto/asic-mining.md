@@ -8,7 +8,7 @@ keywords:
   - bitcoin mining
   - specialised hardware
   - hash rate
-image: "https://picsum.photos/seed/asic-mining/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **ASIC** (application-specific integrated circuit) **miner** is specialised hardware designed solely for [cryptocurrency mining](/mining-bitcoin). ASICs are thousands of times more efficient than general-purpose computers or GPUs at solving [proof-of-work](/proof-of-work) puzzles, making them the only economically viable option for mining [Bitcoin](/bitcoin) and similar proof-of-work cryptocurrencies.*
@@ -23,7 +23,7 @@ This entry covers ASIC hardware. For mining generally, see [mining Bitcoin](/min
 
 <div class="wiki-infobox-title">ASIC Mining — key facts</div>
 
-<img src="https://picsum.photos/seed/asic-mining/900/600" alt="Modern ASIC miner hardware" />
+<img src="/svg/crypto.svg" alt="Modern ASIC miner hardware" />
 
 <div class="wiki-infobox-caption">An ASIC miner: specialised hardware for mining.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - order types
   - trigger
   - execution
-image: "https://picsum.photos/seed/stop-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **stop order** — also called a **stop-loss order** — is an instruction that lies dormant until the price of a security reaches a threshold you specify. Once that threshold is crossed, the order automatically converts into a [market order](/market-order) and executes at the next available price. It is the standard tool for automating losses or entering a position at a confirmation level.*
@@ -22,7 +22,7 @@ For price protection at the moment of trigger, see [stop-limit order](/stop-limi
 
 <div class="wiki-infobox-title">Stop order — key facts</div>
 
-<img src="https://picsum.photos/seed/stop-order/900/600" alt="A price chart with a stop-loss level marked" />
+<img src="/svg/trading.svg" alt="A price chart with a stop-loss level marked" />
 
 <div class="wiki-infobox-caption">A stop order lies dormant until price crosses the trigger; then converts to a market order.</div>
 

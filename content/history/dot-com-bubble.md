@@ -7,7 +7,7 @@ keywords:
   - tech bubble
   - internet stocks
   - NASDAQ crash
-image: "https://picsum.photos/seed/dot-com-bubble/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Dot-Com Bubble** was a speculative frenzy in internet and technology stocks that peaked in early 2000 and then collapsed. Driven by narratives of a transformative "new economy," venture capitalists and retail investors poured capital into companies with no earnings, no clear path to profitability, and business models that made no sense. When the bubble burst, the NASDAQ fell 78% from peak, and thousands of internet startups disappeared.*
@@ -22,7 +22,7 @@ This entry covers the dot-com bubble. For the market decline, see [NASDAQ Crash 
 
 <div class="wiki-infobox-title">Dot-Com Bubble — key facts</div>
 
-<img src="https://picsum.photos/seed/dot-com-bubble/900/600" alt="A photograph of the NASDAQ exchange during the peak of the bubble" />
+<img src="/svg/history.svg" alt="A photograph of the NASDAQ exchange during the peak of the bubble" />
 
 <div class="wiki-infobox-caption">NASDAQ valuations reached heights never seen before or since, driven by momentum and narrative.</div>
 

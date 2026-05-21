@@ -8,7 +8,7 @@ keywords:
   - payment
   - settlement
   - consensus
-image: "https://picsum.photos/seed/stellar/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Stellar** network, with its native **Lumens** (**XLM**) cryptocurrency, is an open-source payment settlement network designed to connect financial institutions and enable rapid, low-cost cross-border transactions. It uses a **federated consensus** mechanism where validators (called nodes) are operated by institutions worldwide.*
@@ -23,7 +23,7 @@ This entry covers Stellar's network and design. For a competing payment network,
 
 <div class="wiki-infobox-title">Stellar — key facts</div>
 
-<img src="https://picsum.photos/seed/stellar/900/600" alt="Stellar network and payment flows" />
+<img src="/svg/crypto.svg" alt="Stellar network and payment flows" />
 
 <div class="wiki-infobox-caption">Stellar: a federated network for global payments.</div>
 

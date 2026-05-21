@@ -6,7 +6,7 @@ keywords:
   - operating margin
   - profitability
   - earnings before interest and taxes
-image: "https://picsum.photos/seed/ebit-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EBIT margin** — also called **operating margin** — divides operating income (EBIT) by revenue and expresses it as a percentage. A 15% EBIT margin means 15 cents of every revenue dollar becomes operating profit.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/ebit-margin/900/600"
 
 <div class="wiki-infobox-title">EBIT Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/ebit-margin/900/600" alt="Operating income as percentage of revenue" />
+<img src="/svg/ratios.svg" alt="Operating income as percentage of revenue" />
 
 <div class="wiki-infobox-caption">Profitability before financing.</div>
 

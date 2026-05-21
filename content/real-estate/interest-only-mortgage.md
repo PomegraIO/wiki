@@ -7,7 +7,7 @@ keywords:
   - interest only payment
   - deferred principal
   - payment option
-image: "https://picsum.photos/seed/interest-only-mortgage/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **interest-only mortgage** allows the borrower to pay only interest (not principal) for an initial period, typically 5–10 years. During this period, the loan balance does not decrease. After the interest-only period, the borrower must pay principal plus interest (often at a higher payment) or refinance.*
@@ -22,7 +22,7 @@ For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) and [adjustable-
 
 <div class="wiki-infobox-title">Interest-Only Mortgage — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-only-mortgage/900/600" alt="A mortgage statement showing interest-only payments" />
+<img src="/svg/real-estate.svg" alt="A mortgage statement showing interest-only payments" />
 
 <div class="wiki-infobox-caption">Interest-only mortgages defer principal repayment to a later date.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - technology
   - electronic trading
   - US equity market
-image: "https://picsum.photos/seed/nasdaq/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Nasdaq** is the second-largest [stock exchange](/stock-exchange) in the United States by market capitalization and the primary listing venue for technology, biotech, and growth-oriented companies. Launched in 1971 as the world's first electronic [stock exchange](/stock-exchange), Nasdaq pioneered automated, screen-based trading and has remained the market of choice for companies seeking growth capital and a venue where innovation carries premium valuation.*
@@ -22,7 +22,7 @@ For the flagship Nasdaq Composite index, see stock market indices; for the tech-
 
 <div class="wiki-infobox-title">Nasdaq — key facts</div>
 
-<img src="https://picsum.photos/seed/nasdaq/900/600" alt="A trader monitoring multiple screens in a Nasdaq trading room" />
+<img src="/svg/institutions.svg" alt="A trader monitoring multiple screens in a Nasdaq trading room" />
 
 <div class="wiki-infobox-caption">Electronic trading screen monitors dominate the Nasdaq environment.</div>
 

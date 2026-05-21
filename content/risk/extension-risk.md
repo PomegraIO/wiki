@@ -7,7 +7,7 @@ keywords:
   - mortgage holding risk
   - duration extension
   - reinvestment opportunity loss
-image: "https://picsum.photos/seed/extension-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Extension risk is the probability that a borrower will hold a loan or mortgage longer than expected — typically when interest rates rise — leaving the lender locked into a low-coupon investment while missing the opportunity to reinvest at higher rates. It is the inverse of [prepayment-risk](/prepayment-risk) and represents the asymmetric exposure inherent in mortgages and [bonds](/bond).*
@@ -22,7 +22,7 @@ This entry covers the risk that borrowers hold longer than expected. For the ris
 
 <div class="wiki-infobox-title">Extension Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/extension-risk/900/600" alt="A calendar extending beyond the original maturity date, marked in red" />
+<img src="/svg/risk.svg" alt="A calendar extending beyond the original maturity date, marked in red" />
 
 <div class="wiki-infobox-caption">Rising rates lock lenders into low coupons longer than expected.</div>
 

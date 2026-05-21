@@ -7,7 +7,7 @@ keywords:
   - exotic option
   - nested optionality
   - derivative
-image: "https://picsum.photos/seed/compound-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **compound option** is an exotic derivative where the underlying asset is another [option](/option) rather than a [stock](/stock), commodity, or currency. The holder of a compound option receives the right to buy (call-on-call), sell (put-on-call), buy (call-on-put), or sell (put-on-put) another option at a predetermined [strike price](/strike-price). Compound options are used when future hedging demand is uncertain or to reduce premium cost for contingent positions.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/compound-option/900/600"
 
 <div class="wiki-infobox-title">Compound Option — key facts</div>
 
-<img src="https://picsum.photos/seed/compound-option/900/600" alt="Nested layers representing option on option structure" />
+<img src="/svg/derivatives.svg" alt="Nested layers representing option on option structure" />
 
 <div class="wiki-infobox-caption">A compound option nests one option inside another.</div>
 

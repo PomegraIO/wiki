@@ -7,7 +7,7 @@ keywords:
   - animal feed
   - oil
   - protein meal
-image: "https://picsum.photos/seed/soybeans/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **soybeans** — a legume crop producing protein-rich meal and oil — are grown on 120+ million hectares globally and produce two major commodities: [soybean meal](/soybean-meal/) (animal feed) and [soybean oil](/soybean-oil/) (cooking oil, biodiesel). The crop is typically rotated with [corn](/corn/) in North America. China imports 60%+ of global soybean exports, creating enormous price leverage via Chinese policy and demand shocks.*
@@ -22,7 +22,7 @@ This entry covers soybeans as a crop. For soybean meal and oil as separate commo
 
 <div class="wiki-infobox-title">Soybeans — key facts</div>
 
-<img src="https://picsum.photos/seed/soybeans/900/600" alt="Soybean field and harvested soybeans" />
+<img src="/svg/commodities.svg" alt="Soybean field and harvested soybeans" />
 
 <div class="wiki-infobox-caption">Soybean field — the crop rotated with corn.</div>
 

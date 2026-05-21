@@ -8,7 +8,7 @@ keywords:
   - micro lot
   - position sizing
   - FX contract size
-image: "https://picsum.photos/seed/lot-size-forex/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **lot size** is the quantity of a [currency pair](/currency-pair) traded in a single FX transaction. The three standard sizes are a [standard lot](/standard-lot) (100,000 units), a [mini lot](/mini-lot) (10,000 units), and a [micro lot](/micro-lot) (1,000 units). Lot size determines the dollar value of a [pip](/pip) move, the [margin](/forex-margin) required, and the total gain or loss on a trade.*
@@ -23,7 +23,7 @@ For the deposit required to control a lot, see [forex margin](/forex-margin); fo
 
 <div class="wiki-infobox-title">Lot Size — key facts</div>
 
-<img src="https://picsum.photos/seed/lot-size-forex/900/600" alt="A comparison of standard, mini, and micro lot sizes" />
+<img src="/svg/forex.svg" alt="A comparison of standard, mini, and micro lot sizes" />
 
 <div class="wiki-infobox-caption">Three standard lot sizes let traders scale exposure to capital and risk.</div>
 

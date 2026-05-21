@@ -7,7 +7,7 @@ keywords:
   - implied volatility
   - strike price
   - option pricing anomaly
-image: "https://picsum.photos/seed/volatility-smile/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **volatility smile** is an empirical pattern where [implied volatility](/implied-volatility) varies across different [strike price](/strike-price)s for options with the same [expiration date](/expiration-date) on the same underlying. In many markets, the IV is lowest for [at-the-money](/at-the-money) options and rises for [in-the-money](/in-the-money) and [out-of-the-money](/out-of-the-money) options, creating a U-shaped curve that resembles a smile. Related patterns—**volatility skew** and **volatility term structure**—describe IV varying across moneyness and expiration.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/volatility-smile/900/600"
 
 <div class="wiki-infobox-title">Volatility Smile — key facts</div>
 
-<img src="https://picsum.photos/seed/volatility-smile/900/600" alt="U-shaped implied volatility curve across strikes" />
+<img src="/svg/derivatives.svg" alt="U-shaped implied volatility curve across strikes" />
 
 <div class="wiki-infobox-caption">Volatility smile: IV rises away from the strike.</div>
 

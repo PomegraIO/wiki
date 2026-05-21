@@ -7,7 +7,7 @@ keywords:
   - fiduciary duty
   - wealth management
   - advisor regulation
-image: "https://picsum.photos/seed/investment-advisers-act-of-1940/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Investment Advisers Act of 1940** is the law that regulates investment advisers — professionals and firms that manage money or provide investment advice for compensation. The Act requires advisers to register with the [SEC](/securities-and-exchange-commission) (if they manage $100 million or more) or with state regulators, disclose their conflicts of interest, maintain books and records, and act as fiduciaries — putting the client's interest ahead of their own.*
@@ -22,7 +22,7 @@ The Investment Advisers Act regulates advisers. The [Investment Company Act of 1
 
 <div class="wiki-infobox-title">Investment Advisers Act — key facts</div>
 
-<img src="https://picsum.photos/seed/investment-advisers-act-of-1940/900/600" alt="An investment adviser's office" />
+<img src="/svg/regulation.svg" alt="An investment adviser's office" />
 
 <div class="wiki-infobox-caption">An investment adviser managing client portfolios.</div>
 

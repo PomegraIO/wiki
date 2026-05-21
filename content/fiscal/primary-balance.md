@@ -7,7 +7,7 @@ keywords:
   - fiscal balance
   - government budget
   - debt servicing
-image: "https://picsum.photos/seed/primary-balance/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **primary balance** is government spending minus revenue, **excluding** [interest payments](/interest-rate) on the [national debt](/national-debt). It separates the structural part of the [budget deficit](/budget-deficit) — what the government spends minus what it collects — from the cost of servicing past debt.*
@@ -22,7 +22,7 @@ This entry covers a key analytical decomposition. For the total [budget deficit]
 
 <div class="wiki-infobox-title">Primary Balance — key facts</div>
 
-<img src="https://picsum.photos/seed/primary-balance/900/600" alt="Government primary balance concept" />
+<img src="/svg/fiscal.svg" alt="Government primary balance concept" />
 
 <div class="wiki-infobox-caption">The primary balance isolates the structural deficit from the cost of past debt.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - GDP growth
   - economic output
   - inflation
-image: "https://picsum.photos/seed/nominal-gdp/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Nominal GDP is [gross domestic product](/gross-domestic-product) expressed in the prices that prevail at the time of measurement — that is, the actual dollars, euros, or yen that change hands. It is useful for certain applications but misleading for assessing real economic growth.*
@@ -22,7 +22,7 @@ Nominal GDP = [Real GDP](/real-gdp) × [Price Level](/gdp-deflator). When prices
 
 <div class="wiki-infobox-title">Nominal GDP — key facts</div>
 
-<img src="https://picsum.photos/seed/nominal-gdp/900/600" alt="Nominal GDP in current dollars" />
+<img src="/svg/macro.svg" alt="Nominal GDP in current dollars" />
 
 <div class="wiki-infobox-caption">Nominal GDP captures market prices as they are, mixing real growth with inflation.</div>
 

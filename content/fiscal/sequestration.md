@@ -7,7 +7,7 @@ keywords:
   - budget control
   - deficit reduction
   - fiscal mechanism
-image: "https://picsum.photos/seed/sequestration/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **sequestration** is an automatic reduction in [discretionary spending](/discretionary-spending) that occurs when Congress fails to meet deficit-reduction targets. The 2011 Budget Control Act established sequestration as a way to force fiscal discipline; if lawmakers cannot negotiate deficit reduction, automatic cuts take effect.*
@@ -22,7 +22,7 @@ This entry covers automatic spending cuts. For the law that created sequestratio
 
 <div class="wiki-infobox-title">Sequestration — key facts</div>
 
-<img src="https://picsum.photos/seed/sequestration/900/600" alt="Sequestration" />
+<img src="/svg/fiscal.svg" alt="Sequestration" />
 
 <div class="wiki-infobox-caption">Sequestration forces automatic spending cuts when deficit targets are missed.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - 100000 units
   - forex contract
   - pip value
-image: "https://picsum.photos/seed/standard-lot/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **standard lot** is 100,000 units of the base currency in a [currency pair](/currency-pair). When trading EUR/USD at a [spot rate](/spot-exchange-rate) of 1.0850, a standard lot represents 100,000 euros and $108,500 of exposure. A 1-[pip](/pip) move equals $10 in profit or loss. Standard lots are the default size in interbank markets and institutional trading.*
@@ -22,7 +22,7 @@ For smaller sizes suited to retail traders, see [mini lot](/mini-lot) and [micro
 
 <div class="wiki-infobox-title">Standard Lot — key facts</div>
 
-<img src="https://picsum.photos/seed/standard-lot/900/600" alt="A standard lot of 100,000 units on a currency pair" />
+<img src="/svg/forex.svg" alt="A standard lot of 100,000 units on a currency pair" />
 
 <div class="wiki-infobox-caption">Standard lots are the institutional default; one pip = $10.</div>
 

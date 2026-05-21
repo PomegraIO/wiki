@@ -7,7 +7,7 @@ keywords:
   - model risk
   - scenario risk
   - tail event
-image: "https://picsum.photos/seed/gray-swan/900/600"
+image: "/svg/risk.svg"
 ---
 
 *A gray swan is a catastrophic risk that is recognized as possible and plausible but is difficult to quantify, model, or price. Unlike [black swans](/black-swan), which are surprises, gray swans are known hazards that linger in the background of risk discussions but remain poorly understood and often underpriced.*
@@ -22,7 +22,7 @@ This entry covers known but hard-to-model tail risks. For truly unpredictable ca
 
 <div class="wiki-infobox-title">Gray Swan — key facts</div>
 
-<img src="https://picsum.photos/seed/gray-swan/900/600" alt="A swan in fog, outline visible but details obscured" />
+<img src="/svg/risk.svg" alt="A swan in fog, outline visible but details obscured" />
 
 <div class="wiki-infobox-caption">Gray swans are visible on the horizon but hard to model or price.</div>
 

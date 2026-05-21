@@ -7,7 +7,7 @@ keywords:
   - futures
   - livestock
   - commodity
-image: "https://picsum.photos/seed/dairy-futures/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **dairy futures** contract represents the price of milk and dairy products (cheese, milk powder), allowing producers to hedge price volatility. Global milk production is enormous (~850 million tonnes annually), but dairy markets are fragmented and less transparent than grain or energy markets, with most trading via contracts between producers and buyers.*
@@ -22,7 +22,7 @@ This entry covers dairy futures as a commodity contract. Dairy markets are less 
 
 <div class="wiki-infobox-title">Dairy Futures — key facts</div>
 
-<img src="https://picsum.photos/seed/dairy-futures/900/600" alt="Dairy farm and milk production" />
+<img src="/svg/commodities.svg" alt="Dairy farm and milk production" />
 
 <div class="wiki-infobox-caption">Dairy farm — producing milk for global markets.</div>
 

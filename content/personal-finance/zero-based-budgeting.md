@@ -7,7 +7,7 @@ keywords:
   - dollar allocation
   - spending plan
   - budget discipline
-image: "https://picsum.photos/seed/zero-based-budgeting/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *In **zero-based budgeting**, you allocate every dollar of your after-tax income to a specific category or goal before the month starts. Income minus allocations always equals zero — not because you have no money left, but because every dollar has a job.*
@@ -22,7 +22,7 @@ For a simpler percentage-based approach, see [fifty-thirty-twenty rule](/fifty-t
 
 <div class="wiki-infobox-title">Zero-Based Budgeting — key facts</div>
 
-<img src="https://picsum.photos/seed/zero-based-budgeting/900/600" alt="A spreadsheet with rows of expense categories and allocations adding to zero" />
+<img src="/svg/personal-finance.svg" alt="A spreadsheet with rows of expense categories and allocations adding to zero" />
 
 <div class="wiki-infobox-caption">The method: every dollar assigned, every row adding up to zero.</div>
 

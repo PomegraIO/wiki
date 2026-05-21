@@ -7,7 +7,7 @@ keywords:
   - conditional bid
   - M&A
   - hostile takeover
-image: "https://picsum.photos/seed/two-tier-tender-offer/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **two-tier tender offer** is a [tender offer](/tender-offer) with a coercive structure: shareholders who tender at the agreed price receive cash or fixed-value equity, while those who do not are forced into a back-end merger at a lower or less-certain price. The threat of the inferior second tier pressures shareholders to tender in the first tier, even if they believe the offer price is inadequate. Two-tier offers are now rare and heavily regulated, but they were a staple of hostile takeovers in the 1980s and 1990s.*
@@ -22,7 +22,7 @@ This entry covers the mechanics and ethics of two-tier offers. For tender offers
 
 <div class="wiki-infobox-title">Two-tier tender offer — key facts</div>
 
-<img src="https://picsum.photos/seed/two-tier-tender-offer/900/600" alt="Two different offers, stacked" />
+<img src="/svg/corporate.svg" alt="Two different offers, stacked" />
 
 <div class="wiki-infobox-caption">Shareholders choosing between two payment tiers.</div>
 

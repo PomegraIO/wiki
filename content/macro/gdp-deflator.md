@@ -7,7 +7,7 @@ keywords:
   - inflation measure
   - nominal to real conversion
   - economic statistics
-image: "https://picsum.photos/seed/gdp-deflator/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The GDP deflator is a price index that captures inflation across the entire economy — not just consumer goods, but also business investment, government services, and exports. It is the bridge between [nominal GDP](/nominal-gdp) and [real GDP](/real-gdp).*
@@ -22,7 +22,7 @@ The GDP deflator is broader than the [Consumer Price Index](/consumer-price-inde
 
 <div class="wiki-infobox-title">GDP Deflator — key facts</div>
 
-<img src="https://picsum.photos/seed/gdp-deflator/900/600" alt="GDP deflator over time" />
+<img src="/svg/macro.svg" alt="GDP deflator over time" />
 
 <div class="wiki-infobox-caption">The GDP deflator tracks inflation across all output, not just consumer purchases.</div>
 

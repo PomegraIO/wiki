@@ -7,7 +7,7 @@ keywords:
   - solvency
   - cash position
   - immediate obligations
-image: "https://picsum.photos/seed/cash-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **cash ratio** divides cash and equivalents by current liabilities. A cash ratio of 0.5 means the company has $0.50 in cash for every $1.00 of short-term obligations. It is the strictest liquidity test, asking whether the company can pay immediate debts from cash alone, without relying on receivables or inventory.*
@@ -22,7 +22,7 @@ For broader liquidity tests, see [current ratio](/current-ratio) and [quick rati
 
 <div class="wiki-infobox-title">Cash Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/cash-ratio/900/600" alt="Cash against immediate obligations" />
+<img src="/svg/ratios.svg" alt="Cash against immediate obligations" />
 
 <div class="wiki-infobox-caption">The ultimate solvency test: can you pay today?</div>
 

@@ -7,7 +7,7 @@ keywords:
   - oil price benchmark
   - futures
   - CME
-image: "https://picsum.photos/seed/wti-crude/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **WTI crude** (West Texas Intermediate) — the light, low-sulfur crude oil extracted from the Permian Basin and other US fields — is the price benchmark for North American crude and the world's most liquid oil futures contract. WTI prices trade with extraordinary volume on the CME Group, setting the tone for global energy markets and serving as the reference for US energy policy and [Federal Reserve](/federal-reserve/) inflation analysis.*
@@ -22,7 +22,7 @@ This entry covers WTI crude as a price benchmark and trading instrument. For cru
 
 <div class="wiki-infobox-title">WTI Crude — key facts</div>
 
-<img src="https://picsum.photos/seed/wti-crude/900/600" alt="Permian Basin oil field and refinery" />
+<img src="/svg/commodities.svg" alt="Permian Basin oil field and refinery" />
 
 <div class="wiki-infobox-caption">WTI crude extraction and refining in the US heartland.</div>
 

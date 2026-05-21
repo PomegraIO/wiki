@@ -7,7 +7,7 @@ keywords:
   - standard deviation
   - volatility measurement
   - option pricing input
-image: "https://picsum.photos/seed/historical-volatility/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **historical volatility (HV)** of an asset is the standard deviation of its past returns over a specific period—typically 20, 60, 120, or 252 trading days. It measures how turbulent the asset's price moves have actually been. Historical volatility is used as a proxy for future volatility when pricing [option](/option)s and is compared to [implied volatility](/implied-volatility) to identify if options are cheap or expensive.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/historical-volatility/900/600"
 
 <div class="wiki-infobox-title">Historical Volatility — key facts</div>
 
-<img src="https://picsum.photos/seed/historical-volatility/900/600" alt="Past price movements and standard deviation calculation" />
+<img src="/svg/derivatives.svg" alt="Past price movements and standard deviation calculation" />
 
 <div class="wiki-infobox-caption">Historical volatility quantifies past price turbulence.</div>
 

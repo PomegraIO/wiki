@@ -8,7 +8,7 @@ keywords:
   - forward sales
   - securities trading
   - IPO
-image: "https://picsum.photos/seed/gray-market-securities/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **gray market** for securities refers to trading that occurs outside regular channels and regulation, typically before a security officially launches on a public exchange. Gray-market transactions include [when-issued trading](/when-issued-trading) (sales of securities before their official debut) and pre-IPO secondary trading among early investors. Gray-market deals are largely unregulated and carry risks that official market structures are designed to prevent.*
@@ -23,7 +23,7 @@ This entry is about forward or pre-listing trading. For trading after official l
 
 <div class="wiki-infobox-title">Gray-Market Securities — key facts</div>
 
-<img src="https://picsum.photos/seed/gray-market-securities/900/600" alt="A handshake between investors in a private transaction, representing gray-market dealing" />
+<img src="/svg/markets.svg" alt="A handshake between investors in a private transaction, representing gray-market dealing" />
 
 <div class="wiki-infobox-caption">Gray-market trading occurs in the regulatory gaps between private and public markets.</div>
 

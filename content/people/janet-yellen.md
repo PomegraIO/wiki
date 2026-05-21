@@ -7,7 +7,7 @@ keywords:
   - treasury secretary
   - labor markets
   - monetary policy
-image: "https://picsum.photos/seed/janet-yellen/900/600"
+image: "/svg/people.svg"
 ---
 
 *Janet Yellen led the Federal Reserve with an emphasis on the employment side of the mandate, maintaining low [interest rates](/interest-rate) and accommodative policy to support job growth — a philosophy that provided stimulus but also contributed to inflation.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/janet-yellen/900/600"
 
 <div class="wiki-infobox-title">Janet Yellen — key facts</div>
 
-<img src="https://picsum.photos/seed/janet-yellen/900/600" alt="Federal Reserve and Treasury Department policy meetings" />
+<img src="/svg/people.svg" alt="Federal Reserve and Treasury Department policy meetings" />
 
 <div class="wiki-infobox-caption">The institutions she led — shaping policy across two branches.</div>
 

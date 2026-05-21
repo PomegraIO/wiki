@@ -7,7 +7,7 @@ keywords:
   - currency cross
   - indirect quote
   - EUR/GBP
-image: "https://picsum.photos/seed/cross-rate/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **cross rate** is the exchange rate between two currencies derived from their individual rates against a third currency, usually the [US dollar](/us-dollar). If you want to know how many pounds you get per euro — EUR/GBP — you can calculate it from EUR/USD and USD/GBP without needing a separate market. This is the fundamental principle behind all [minor currency pairs](/minor-currency-pair).*
@@ -22,7 +22,7 @@ For pairs involving the US dollar, see [spot exchange rate](/spot-exchange-rate)
 
 <div class="wiki-infobox-title">Cross Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/cross-rate/900/600" alt="Calculation of EUR/GBP from EUR/USD and USD/GBP" />
+<img src="/svg/forex.svg" alt="Calculation of EUR/GBP from EUR/USD and USD/GBP" />
 
 <div class="wiki-infobox-caption">A cross rate is calculated from two dollar rates without an independent market price.</div>
 

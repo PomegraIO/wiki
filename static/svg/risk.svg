@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Risk">
+<rect width="900" height="600" fill="#f4ede2"/>
+<line x1="60" y1="60" x2="60" y2="540" stroke="#d4cdbd" stroke-width="1"/>
+<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="#0f0f10" font-weight="600">Risk</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">WHAT CAN GO WRONG</text>
+<g transform="translate(80,220)">
+<line x1="0" y1="220" x2="760" y2="220" stroke="#d4cdbd" stroke-width="1"/>
+<path d="M 0 220 C 200 220, 280 30, 380 30 C 480 30, 560 220, 760 220 Z" fill="#0f0f10" opacity="0.10"/>
+<path d="M 0 220 C 200 220, 280 30, 380 30 C 480 30, 560 220, 760 220" fill="none" stroke="#0f0f10" stroke-width="2"/>
+<path d="M 600 220 C 640 220, 670 100, 700 100 C 720 100, 740 220, 760 220 Z" fill="#c0392b" opacity="0.75"/>
+<line x1="380" y1="30" x2="380" y2="220" stroke="#5b5b63" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="680" y="265" font-family="ui-monospace,monospace" font-size="11" fill="#c0392b" font-weight="700" text-anchor="middle">TAIL</text>
+</g>
+<text x="840" y="570" font-family="ui-monospace,monospace" font-size="10" fill="#5b5b63" letter-spacing="2" text-anchor="end" opacity="0.7">POMEGRA WIKI</text></svg>

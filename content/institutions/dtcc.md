@@ -7,7 +7,7 @@ keywords:
   - clearinghouse
   - settlement
   - depository
-image: "https://picsum.photos/seed/dtcc/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **DTCC – Depository Trust & Clearing Corporation** is the largest clearinghouse and securities depository in the United States, operating as a private utility owned by its member institutions. DTCC processes trillions of dollars in [securities](/stock) transactions annually, provides central counterparty clearing for equities and fixed-income trading, and maintains custody of nearly all US-traded securities.*
@@ -22,7 +22,7 @@ DTCC was formed in 1999 through the merger of the Depository Trust Company and t
 
 <div class="wiki-infobox-title">DTCC — key facts</div>
 
-<img src="https://picsum.photos/seed/dtcc/900/600" alt="DTCC headquarters in New York" />
+<img src="/svg/institutions.svg" alt="DTCC headquarters in New York" />
 
 <div class="wiki-infobox-caption">The DTCC operations center in Lower Manhattan.</div>
 

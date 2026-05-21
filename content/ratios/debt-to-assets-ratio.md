@@ -6,7 +6,7 @@ keywords:
   - leverage
   - capital structure
   - financial risk
-image: "https://picsum.photos/seed/debt-to-assets-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **debt-to-assets ratio** divides total debt by total assets. A ratio of 0.4 means 40% of assets are financed by debt; 60% by equity. It measures financial leverage and shows how much creditor vs. owner claims exist on the asset base.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/debt-to-assets-ratio/900/600"
 
 <div class="wiki-infobox-title">Debt-to-Assets — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-to-assets-ratio/900/600" alt="Debt relative to total assets" />
+<img src="/svg/ratios.svg" alt="Debt relative to total assets" />
 
 <div class="wiki-infobox-caption">Percentage of assets financed by creditors.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - earnings yield
   - valuation approach
   - yield-based valuation
-image: "https://picsum.photos/seed/free-cash-flow-yield-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **free cash flow yield valuation** is a shortcut approach that bypasses detailed forecasting. You calculate the current free cash flow yield (free cash flow divided by enterprise value), compare it to required or market yields, and determine if the company is cheap or expensive. A company with 5% FCF yield when you require 8% is undervalued; one with 3% yield is overvalued. It is simple, fast, and works well as a screen.*

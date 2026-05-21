@@ -7,7 +7,7 @@ keywords:
   - mortgage-backed securities
   - GSE
   - secondary market
-image: "https://picsum.photos/seed/fannie-mae/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *Fannie Mae (Federal National Mortgage Association) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security), and provides liquidity to the mortgage market. Fannie Mae is one of two dominant players in the U.S. secondary mortgage market (alongside [Freddie Mac](/freddie-mac)).*
@@ -22,7 +22,7 @@ For the parallel GSE, see [freddie-mac](/freddie-mac). For the government insure
 
 <div class="wiki-infobox-title">Fannie Mae — key facts</div>
 
-<img src="https://picsum.photos/seed/fannie-mae/900/600" alt="Fannie Mae headquarters and logo" />
+<img src="/svg/real-estate.svg" alt="Fannie Mae headquarters and logo" />
 
 <div class="wiki-infobox-caption">Fannie Mae is a cornerstone of the U.S. mortgage system.</div>
 

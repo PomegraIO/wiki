@@ -7,7 +7,7 @@ keywords:
   - education savings
   - tax-free growth
   - education account
-image: "https://picsum.photos/seed/529-college-savings-plan/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **529 plan** is a tax-advantaged savings account offered by states and educational institutions to help families save for education expenses (college, K-12 tuition, vocational school, student loan repayment). Contributions grow tax-free, and qualified withdrawals are tax-free.*
@@ -22,7 +22,7 @@ For alternative education savings vehicles, see [Coverdell ESA](/coverdell-esa) 
 
 <div class="wiki-infobox-title">529 College Savings Plan — key facts</div>
 
-<img src="https://picsum.photos/seed/529-college-savings-plan/900/600" alt="A college campus with a piggy bank in the foreground" />
+<img src="/svg/personal-finance.svg" alt="A college campus with a piggy bank in the foreground" />
 
 <div class="wiki-infobox-caption">The purpose: tax-free education savings.</div>
 

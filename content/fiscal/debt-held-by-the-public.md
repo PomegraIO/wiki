@@ -7,7 +7,7 @@ keywords:
   - external government debt
   - treasury securities
   - government obligations
-image: "https://picsum.photos/seed/debt-held-by-the-public/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A government's **debt held by the public** is [national debt](/national-debt) owned by external creditors — investors, foreign governments, central banks, and other non-government entities. It excludes [intragovernmental debt](/intragovernmental-debt) owed to government trust funds, focusing instead on the government's true obligations to outsiders.*
@@ -22,7 +22,7 @@ This entry covers external government debt. For total debt including internal bo
 
 <div class="wiki-infobox-title">Debt Held by the Public — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-held-by-the-public/900/600" alt="Debt held by the public" />
+<img src="/svg/fiscal.svg" alt="Debt held by the public" />
 
 <div class="wiki-infobox-caption">Debt held by the public represents real external obligations.</div>
 

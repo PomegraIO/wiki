@@ -7,7 +7,7 @@ keywords:
   - insider trading
   - six-month rule
   - profit forfeiture
-image: "https://picsum.photos/seed/short-swing-profit-rule/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **short-swing profit rule**, codified in Section 16(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934), is a strict-liability rule requiring that officers, directors, and 5%-plus shareholders forfeit any profit from buying and selling (or selling and buying back) their company's securities within a six-month window. Unlike [insider trading law](/insider-trading-law), which requires proof of trading on material nonpublic information, Section 16(b) forfeits profits automatically if the timing fits the pattern.*
@@ -22,7 +22,7 @@ The short-swing profit rule applies only to insiders (Section 16 filers). Ordina
 
 <div class="wiki-infobox-title">Short-Swing Profit Rule — key facts</div>
 
-<img src="https://picsum.photos/seed/short-swing-profit-rule/900/600" alt="An insider trading violation" />
+<img src="/svg/regulation.svg" alt="An insider trading violation" />
 
 <div class="wiki-infobox-caption">A short-swing profit within the six-month window.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - crop
   - ethanol
   - animal feed
-image: "https://picsum.photos/seed/corn/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **corn** (maize) — the world's most-produced crop by tonnage, supplying over 600 million tonnes annually — is a commodity whose price cycles with weather, acreage decisions, and global demand. Roughly 60% of corn is used for animal feed; 15% for human consumption; 10% for ethanol fuel; and 15% for industrial uses. Corn futures on the CME Group are among the most liquid agricultural contracts.*
@@ -22,7 +22,7 @@ This entry covers corn as a traded commodity. For other grains, see [wheat](/whe
 
 <div class="wiki-infobox-title">Corn — key facts</div>
 
-<img src="https://picsum.photos/seed/corn/900/600" alt="Corn field and grain elevator" />
+<img src="/svg/commodities.svg" alt="Corn field and grain elevator" />
 
 <div class="wiki-infobox-caption">Corn field in the US Corn Belt — the heart of global production.</div>
 

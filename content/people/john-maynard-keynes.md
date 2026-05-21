@@ -7,7 +7,7 @@ keywords:
   - macroeconomics
   - fiscal policy
   - depression
-image: "https://picsum.photos/seed/john-maynard-keynes/900/600"
+image: "/svg/people.svg"
 ---
 
 *John Maynard Keynes revolutionized economic thinking by arguing that markets do not automatically self-correct and that government intervention through fiscal policy can restore full employment — a theory that shaped policy for generations.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/john-maynard-keynes/900/600"
 
 <div class="wiki-infobox-title">John Maynard Keynes — key facts</div>
 
-<img src="https://picsum.photos/seed/john-maynard-keynes/900/600" alt="Economic theory books and policy papers from the Depression era" />
+<img src="/svg/people.svg" alt="Economic theory books and policy papers from the Depression era" />
 
 <div class="wiki-infobox-caption">The tools of macro theory — where demand and employment intersect.</div>
 

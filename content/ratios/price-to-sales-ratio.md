@@ -8,7 +8,7 @@ keywords:
   - revenue
   - sales
   - earnings quality
-image: "https://picsum.photos/seed/price-to-sales-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **price-to-sales ratio** — or **P/S ratio** — divides a company's market capitalization by its total annual revenue. A P/S of 2.0 means investors are paying $2 for every dollar of annual sales the company brings in. It is the most difficult valuation ratio to manipulate, because revenue is harder to fake than earnings.*
@@ -23,7 +23,7 @@ This entry covers a revenue-based valuation metric. For earnings-based ratios, s
 
 <div class="wiki-infobox-title">Price-to-Sales Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/price-to-sales-ratio/900/600" alt="A revenue line chart rising steadily over time" />
+<img src="/svg/ratios.svg" alt="A revenue line chart rising steadily over time" />
 
 <div class="wiki-infobox-caption">Revenue — the least manipulable metric on the income statement.</div>
 

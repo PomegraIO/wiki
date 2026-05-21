@@ -7,7 +7,7 @@ keywords:
   - subsidiary IPO
   - partial separation
   - minority stake
-image: "https://picsum.photos/seed/equity-carve-out/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *An **equity carve-out** is a partial [initial public offering](/initial-public-offering) of a subsidiary or division where the parent company initially retains a controlling or majority stake. The parent company creates a new entity for the division, takes it public via an IPO (typically selling 20–30% of shares), and the public shareholders own a minority stake while the parent retains majority control. Equity carve-outs allow parent companies to monetize divisions without fully separating them, to access capital for the division, and to create incentive structures for division management.*
@@ -22,7 +22,7 @@ This entry covers equity carve-outs as a partial separation and monetization mec
 
 <div class="wiki-infobox-title">Equity carve-out — key facts</div>
 
-<img src="https://picsum.photos/seed/equity-carve-out/900/600" alt="Parent retaining majority of spun subsidiary" />
+<img src="/svg/corporate.svg" alt="Parent retaining majority of spun subsidiary" />
 
 <div class="wiki-infobox-caption">An equity carve-out creates a public minority stake in a division.</div>
 

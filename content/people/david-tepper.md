@@ -7,7 +7,7 @@ keywords:
   - hedge fund
   - credit investing
   - distressed debt
-image: "https://picsum.photos/seed/david-tepper/900/600"
+image: "/svg/people.svg"
 ---
 
 *David Tepper built Appaloosa Management into a multi-billion-dollar powerhouse by mastering an unglamorous specialty — the analysis of distressed corporate debt — and having the conviction to deploy vast capital when opportunities appeared.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/david-tepper/900/600"
 
 <div class="wiki-infobox-title">David Tepper — key facts</div>
 
-<img src="https://picsum.photos/seed/david-tepper/900/600" alt="Corporate bond prospectuses and distressed debt documentation" />
+<img src="/svg/people.svg" alt="Corporate bond prospectuses and distressed debt documentation" />
 
 <div class="wiki-infobox-caption">The domain of his mastery — where others see complexity, he sees opportunity.</div>
 

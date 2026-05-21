@@ -7,7 +7,7 @@ keywords:
   - China
   - stock exchange
   - technology
-image: "https://picsum.photos/seed/shenzhen-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Shenzhen Stock Exchange** (SZSE) is the second-largest [stock exchange](/stock-exchange) in mainland China and a primary venue for the nation's high-growth technology and manufacturing firms. Established in 1990 in the southern economic special zone of Shenzhen, the SZSE has evolved alongside China's technology boom and today rivals the [Shanghai Stock Exchange](/shanghai-stock-exchange) in trading volumes and listing quality.*
@@ -22,7 +22,7 @@ The SZSE and Shanghai Stock Exchange are the two pillars of mainland Chinese equ
 
 <div class="wiki-infobox-title">Shenzhen Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/shenzhen-stock-exchange/900/600" alt="The Shenzhen Stock Exchange trading floor and building" />
+<img src="/svg/institutions.svg" alt="The Shenzhen Stock Exchange trading floor and building" />
 
 <div class="wiki-infobox-caption">The modern Shenzhen Stock Exchange in the city's financial district.</div>
 

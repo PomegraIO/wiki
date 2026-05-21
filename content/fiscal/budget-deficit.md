@@ -7,7 +7,7 @@ keywords:
   - fiscal policy
   - national debt
   - deficit spending
-image: "https://picsum.photos/seed/budget-deficit/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **budget deficit** occurs when a [government](/central-bank) spends more money than it collects in tax revenue and other receipts during a fiscal year. The deficit represents the amount the government must borrow to finance the shortfall, adding to the [national debt](/national-debt).*
@@ -22,7 +22,7 @@ This entry covers the annual fiscal shortfall. For the cumulative stock of borro
 
 <div class="wiki-infobox-title">Budget Deficit — key facts</div>
 
-<img src="https://picsum.photos/seed/budget-deficit/900/600" alt="Government budget and deficit concepts" />
+<img src="/svg/fiscal.svg" alt="Government budget and deficit concepts" />
 
 <div class="wiki-infobox-caption">Budget deficits require governments to borrow in order to finance their spending.</div>
 

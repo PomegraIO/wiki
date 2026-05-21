@@ -8,7 +8,7 @@ keywords:
   - valuation reversal
   - statistical bounce-back
   - cyclical investing
-image: "https://picsum.photos/seed/mean-reversion-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Mean-reversion investing is a contrarian strategy based on the premise that stock prices that move far from historical norms — whether extremely high or extremely low valuations — will eventually revert back toward the average. Investors buy the most depressed and sell the most appreciated.*
@@ -23,7 +23,7 @@ For momentum (the opposite bet), see [momentum investing](/momentum-investing/).
 
 <div class="wiki-infobox-title">Mean-reversion investing — key facts</div>
 
-<img src="https://picsum.photos/seed/mean-reversion-investing/900/600" alt="A price chart showing extreme deviations from average, followed by reversal" />
+<img src="/svg/strategies.svg" alt="A price chart showing extreme deviations from average, followed by reversal" />
 
 <div class="wiki-infobox-caption">Mean-reversion investors buy extremes, betting on the statistical pull back toward normal.</div>
 

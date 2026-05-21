@@ -7,7 +7,7 @@ keywords:
   - credit investing
   - risk management
   - distressed debt
-image: "https://picsum.photos/seed/howard-marks/900/600"
+image: "/svg/people.svg"
 ---
 
 *Howard Marks built Oaktree Capital into a multi-billion-dollar credit and distressed firm by maintaining a disciplined focus on risk, valuation cycles, and the opportunities that emerge when others panic.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/howard-marks/900/600"
 
 <div class="wiki-infobox-title">Howard Marks — key facts</div>
 
-<img src="https://picsum.photos/seed/howard-marks/900/600" alt="Credit research documents and bond analysis papers" />
+<img src="/svg/people.svg" alt="Credit research documents and bond analysis papers" />
 
 <div class="wiki-infobox-caption">The tools of the credit expert — where default probability is calculated.</div>
 

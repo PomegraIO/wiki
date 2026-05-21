@@ -7,7 +7,7 @@ keywords:
   - perpetuity
   - terminal year
   - valuation endpoint
-image: "https://picsum.photos/seed/terminal-value/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *In any [discounted cash flow](/discounted-cash-flow-valuation) model, you cannot forecast cash flows forever. So you forecast explicitly for 5–10 years, then collapse all remaining cash flows into a single number: the **terminal value**. This number is almost always 60–80% of total enterprise value, which means it dominates the valuation and deserves exceptional scrutiny.*

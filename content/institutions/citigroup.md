@@ -7,7 +7,7 @@ keywords:
   - investment bank
   - financial services
   - Wall Street
-image: "https://picsum.photos/seed/citigroup/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Citigroup Inc.** is one of the world's largest financial institutions, headquartered in New York. Operating through consumer banking, corporate banking, investment banking, and wealth management divisions, Citi serves hundreds of millions of customers across more than 160 countries and is a leading provider of institutional investor and corporate financial services.*
@@ -22,7 +22,7 @@ Citigroup was formed in 1998 through the merger of Citicorp and Travellers Group
 
 <div class="wiki-infobox-title">Citigroup — key facts</div>
 
-<img src="https://picsum.photos/seed/citigroup/900/600" alt="Citigroup headquarters in New York" />
+<img src="/svg/institutions.svg" alt="Citigroup headquarters in New York" />
 
 <div class="wiki-infobox-caption">Citigroup Center headquarters in Midtown Manhattan.</div>
 

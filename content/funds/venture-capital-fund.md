@@ -8,7 +8,7 @@ keywords:
   - early stage
   - growth investing
   - fund
-image: "https://picsum.photos/seed/venture-capital-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **venture capital fund** is a [private equity fund](/private-equity-fund) that invests in early-stage, high-growth companies — typically startups — with the goal of building them into large, profitable, or publicly traded businesses. Venture capital (VC) targets 30–50% annual returns and accepts that most investments will fail; success depends on a small number of "home run" companies that return 100x or more.*
@@ -23,7 +23,7 @@ This entry covers venture capital as a strategy. For private equity broadly, see
 
 <div class="wiki-infobox-title">Venture Capital Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/venture-capital-fund/900/600" alt="A pitch deck presentation to venture capitalists" />
+<img src="/svg/funds.svg" alt="A pitch deck presentation to venture capitalists" />
 
 <div class="wiki-infobox-caption">Venture capital finances high-risk, high-reward startup growth.</div>
 

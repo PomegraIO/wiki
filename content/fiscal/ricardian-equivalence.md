@@ -7,7 +7,7 @@ keywords:
   - fiscal policy
   - consumer behavior
   - future taxes
-image: "https://picsum.photos/seed/ricardian-equivalence/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **Ricardian equivalence** principle states that it does not matter whether the government finances spending through taxes or borrowing (creating a [deficit](/budget-deficit)), because rational consumers recognize that [deficits](/budget-deficit) impose future tax obligations. They therefore save more today in anticipation of future taxes, offsetting the stimulus from the current [deficit](/budget-deficit).*
@@ -22,7 +22,7 @@ This entry covers consumer response to fiscal policy. For opposing views, see fi
 
 <div class="wiki-infobox-title">Ricardian Equivalence — key facts</div>
 
-<img src="https://picsum.photos/seed/ricardian-equivalence/900/600" alt="Ricardian equivalence" />
+<img src="/svg/fiscal.svg" alt="Ricardian equivalence" />
 
 <div class="wiki-infobox-caption">Ricardian equivalence argues that deficits and taxes have the same effect.</div>
 

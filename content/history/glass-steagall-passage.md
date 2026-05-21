@@ -7,7 +7,7 @@ keywords:
   - banking regulation
   - commercial banking
   - investment banking
-image: "https://picsum.photos/seed/glass-steagall-passage/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Glass-Steagall Act**, passed in June 1933 during the depths of the Great Depression, was a sweeping piece of financial regulation that separated commercial banking from investment banking. It created a legal wall between deposit-taking institutions (which the government would insure through the FDIC) and speculative securities trading (which it would not). For 66 years, Glass-Steagall stood as the cornerstone of American financial regulation.*
@@ -22,7 +22,7 @@ This entry covers the passage and initial effects of Glass-Steagall. For its rep
 
 <div class="wiki-infobox-title">Glass-Steagall Passage — key facts</div>
 
-<img src="https://picsum.photos/seed/glass-steagall-passage/900/600" alt="A historical photograph of the US Capitol building, site of financial reform debates" />
+<img src="/svg/history.svg" alt="A historical photograph of the US Capitol building, site of financial reform debates" />
 
 <div class="wiki-infobox-caption">Banking reform debates in Congress during the Depression shaped the regulatory landscape for decades.</div>
 

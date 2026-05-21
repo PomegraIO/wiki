@@ -7,7 +7,7 @@ keywords:
   - ASC 842
   - right-of-use asset
   - lease liability
-image: "https://picsum.photos/seed/operating-lease/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *An **operating lease** is traditionally a lease arrangement where the lessor (owner) retains the asset and the lessee (renter) pays for temporary use. The lessee has no ownership rights and the asset remains the lessor's property. Before ASC 842, [operating leases](/operating-lease) were [off-balance-sheet](/off-balance-sheet): only lease payments were expensed; no asset or liability appeared on the [balance sheet](/balance-sheet). Since 2019, ASC 842 has required most [operating leases](/operating-lease) to be recorded on the [balance sheet](/balance-sheet) as **right-of-use assets** and **lease liabilities**. This convergence with IFRS 16 brings hidden lease commitments into the open.*
@@ -22,7 +22,7 @@ This entry covers operating leases and the accounting change. For the alternativ
 
 <div class="wiki-infobox-title">Operating lease — key facts</div>
 
-<img src="https://picsum.photos/seed/operating-lease/900/600" alt="A lease agreement with annual payments and a right-of-use asset on balance sheet" />
+<img src="/svg/accounting.svg" alt="A lease agreement with annual payments and a right-of-use asset on balance sheet" />
 
 <div class="wiki-infobox-caption">Operating leases are now recognized on the balance sheet under ASC 842.</div>
 

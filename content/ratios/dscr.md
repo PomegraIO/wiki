@@ -7,7 +7,7 @@ keywords:
   - cash flow
   - solvency
   - debt capacity
-image: "https://picsum.photos/seed/dscr/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **debt service coverage ratio** — or **DSCR** — divides operating cash flow by total annual debt service (interest expense plus principal repayments). A DSCR of 2.0 means the company generates twice the cash needed to service debt. It is the most realistic measure of debt sustainability.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/dscr/900/600"
 
 <div class="wiki-infobox-title">DSCR — key facts</div>
 
-<img src="https://picsum.photos/seed/dscr/900/600" alt="Operating cash flow covering debt obligations" />
+<img src="/svg/ratios.svg" alt="Operating cash flow covering debt obligations" />
 
 <div class="wiki-infobox-caption">Can operating cash cover all debt service?</div>
 

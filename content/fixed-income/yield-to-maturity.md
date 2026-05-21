@@ -7,7 +7,7 @@ keywords:
   - bond yield
   - total return
   - internal rate of return
-image: "https://picsum.photos/seed/yield-to-maturity/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **yield to maturity** — or **YTM** — is the total annual return an investor earns if a bond is purchased at the current market price and held to maturity. YTM accounts for [coupon](/coupon-rate) payments, the purchase price relative to face value, and the time to maturity. It is the most important metric for evaluating bond returns and is the standard by which bonds are quoted and compared.*
@@ -22,7 +22,7 @@ For the annual income divided by price, see [current yield](/current-yield). For
 
 <div class="wiki-infobox-title">Yield to Maturity — key facts</div>
 
-<img src="https://picsum.photos/seed/yield-to-maturity/900/600" alt="A graph showing bond prices and yields moving inversely" />
+<img src="/svg/fixed-income.svg" alt="A graph showing bond prices and yields moving inversely" />
 
 <div class="wiki-infobox-caption">YTM shows the total return accounting for both income and price changes.</div>
 

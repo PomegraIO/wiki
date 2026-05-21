@@ -7,7 +7,7 @@ keywords:
   - credit risk
   - default insurance
   - derivative
-image: "https://picsum.photos/seed/credit-default-swap/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **credit default swap (CDS)** is a [swap](/swap) contract where one party (the buyer) pays periodic premiums to another party (the seller) to transfer credit risk on a reference entity (corporation or sovereign). If the reference entity defaults on its [debt](/bond), the seller pays the buyer a large sum (insurance-like payout). CDS are used to hedge [bond](/bond) portfolios, speculate on credit, and price credit risk. They became infamous during the 2008 financial crisis when the notional value of CDS exceeded the world's [GDP](/stock-market).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/credit-default-swap/900/600"
 
 <div class="wiki-infobox-title">Credit Default Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/credit-default-swap/900/600" alt="Credit protection contract between parties" />
+<img src="/svg/derivatives.svg" alt="Credit protection contract between parties" />
 
 <div class="wiki-infobox-caption">CDS transfers default risk for a periodic fee.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - new rental community
   - residential development
   - rental housing
-image: "https://picsum.photos/seed/build-to-rent/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **build-to-rent** community is a residential development built from the ground up with the explicit intent of renting units to tenants rather than selling them to owner-occupants. Build-to-rent communities offer investors modern properties with efficient operations, and developers access to capital and construction advantages.*
@@ -22,7 +22,7 @@ This entry covers build-to-rent as an asset class. For residential alternatives,
 
 <div class="wiki-infobox-title">Build-to-Rent — key facts</div>
 
-<img src="https://picsum.photos/seed/build-to-rent/900/600" alt="A new build-to-rent residential community" />
+<img src="/svg/real-estate.svg" alt="A new build-to-rent residential community" />
 
 <div class="wiki-infobox-caption">Build-to-rent communities are designed and built from the start for rental income.</div>
 

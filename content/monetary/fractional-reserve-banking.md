@@ -7,7 +7,7 @@ keywords:
   - deposit lending
   - credit creation
   - banking system
-image: "https://picsum.photos/seed/fractional-reserve-banking/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **fractional-reserve banking** system is the standard arrangement used in modern economies, where commercial [banks](/broker) lend out most of the deposits they receive, keeping only a small fraction in reserve to meet daily withdrawal demands. This system allows [banks](/broker) to create credit and the [money supply](/m1) to expand far beyond the central bank's [monetary base](/monetary-base), but it also creates fragility: if too many depositors demand their money at once, a [bank](/broker) can fail.*
@@ -22,7 +22,7 @@ This entry covers how the system works. For the alternative, see [full-reserve-b
 
 <div class="wiki-infobox-title">Fractional-Reserve Banking — key facts</div>
 
-<img src="https://picsum.photos/seed/fractional-reserve-banking/900/600" alt="Bank lending out deposits to borrowers" />
+<img src="/svg/monetary.svg" alt="Bank lending out deposits to borrowers" />
 
 <div class="wiki-infobox-caption">Fractional-reserve banking is the foundation of modern credit and money creation.</div>
 

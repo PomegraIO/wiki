@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/shooting-star/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **shooting star** is a single-candle pattern consisting of a small body in the lower part of the candle's range and a long upper wick. The shape resembles a star streaking across the sky with a bright tail—hence the name. The interpretation is bearish: during the period, buyers pushed the price higher, but sellers stepped in and drove it back down, closing well below the intraday high. When a shooting star forms after an uptrend or at a [resistance level](/technical-analysis/support-and-resistance), it signals that the rally is weakening and reversal may follow.*
@@ -22,7 +22,7 @@ For single-candle patterns more broadly, see [candlestick pattern](/technical-an
 
 <div class="wiki-infobox-title">Shooting star — key facts</div>
 
-<img src="https://picsum.photos/seed/shooting-star/900/600" alt="A shooting star candlestick with small body at bottom and long upper wick" />
+<img src="/svg/technical-analysis.svg" alt="A shooting star candlestick with small body at bottom and long upper wick" />
 
 <div class="wiki-infobox-caption">A classic shooting star: the long upper wick shows buyers failing to sustain higher prices, with the close well below the high.</div>
 

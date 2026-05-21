@@ -8,7 +8,7 @@ keywords:
   - periodic reporting
   - insider trading
   - market manipulation
-image: "https://picsum.photos/seed/securities-exchange-act-of-1934/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Securities Exchange Act of 1934** is the foundational US law governing the secondary securities market — the trading of already-issued stocks and bonds. It created the [SEC](/securities-and-exchange-commission), required [public companies](/public-company) to disclose quarterly and annual financial statements, and outlawed [insider trading](/insider-trading-law) and market manipulation. Together with the [Securities Act of 1933](/securities-act-of-1933), it forms the skeleton of US securities law.*
@@ -23,7 +23,7 @@ The Securities Exchange Act of 1934 governs secondary market trading and periodi
 
 <div class="wiki-infobox-title">Securities Exchange Act of 1934 — key facts</div>
 
-<img src="https://picsum.photos/seed/securities-exchange-act-of-1934/900/600" alt="The Exchange Act of 1934" />
+<img src="/svg/regulation.svg" alt="The Exchange Act of 1934" />
 
 <div class="wiki-infobox-caption">The Securities Exchange Act of 1934, enacted June 6.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - free cash flow
   - valuation multiple
   - cash-based valuation
-image: "https://picsum.photos/seed/ev-to-fcf/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EV/FCF ratio** divides enterprise value by annual free cash flow. A ratio of 8.0 means investors are paying 8 years' worth of free cash flow for the company. It is the most shareholder-centric valuation multiple because it measures cash available to all investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/ev-to-fcf/900/600"
 
 <div class="wiki-infobox-title">EV/FCF — key facts</div>
 
-<img src="https://picsum.photos/seed/ev-to-fcf/900/600" alt="Enterprise value relative to free cash flow" />
+<img src="/svg/ratios.svg" alt="Enterprise value relative to free cash flow" />
 
 <div class="wiki-infobox-caption">Years of cash flow to recoup the investment.</div>
 

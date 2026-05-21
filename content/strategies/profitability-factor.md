@@ -8,7 +8,7 @@ keywords:
   - high-margin businesses
   - earnings quality
   - return on equity
-image: "https://picsum.photos/seed/profitability-factor/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *The profitability factor is a systematic investment strategy that emphasizes [stocks](/stock/) of highly profitable companies — those with high returns on capital, strong margins, and durable earnings — betting that genuine profit-generating businesses compound into superior long-term returns.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Profitability-factor — key facts</div>
 
-<img src="https://picsum.photos/seed/profitability-factor/900/600" alt="A chart comparing highly profitable firms' returns versus average competitors" />
+<img src="/svg/strategies.svg" alt="A chart comparing highly profitable firms' returns versus average competitors" />
 
 <div class="wiki-infobox-caption">Profitability-factor investors hunt for businesses that turn capital into cash with exceptional efficiency.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - margin requirement
   - margin call
   - maintenance margin
-image: "https://picsum.photos/seed/forex-margin/900/600"
+image: "/svg/forex.svg"
 ---
 
 *[Margin](/forex-margin) in FX is the collateral deposit required to hold a [leveraged](/forex-leverage) position. It is not a loan or a fee; it is a fraction of the notional exposure that the broker holds as insurance against losses. A trader using 50:1 leverage must deposit 2% of the notional value in [margin](/forex-margin). When losses consume the [margin](/forex-margin), the broker issues a margin call and liquidates positions.*
@@ -22,7 +22,7 @@ For the multiplication of exposure per dollar of margin, see [forex leverage](/f
 
 <div class="wiki-infobox-title">Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/forex-margin/900/600" alt="A margin account statement showing margin usage" />
+<img src="/svg/forex.svg" alt="A margin account statement showing margin usage" />
 
 <div class="wiki-infobox-caption">Margin is the collateral backing leveraged trades.</div>
 

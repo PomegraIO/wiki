@@ -8,7 +8,7 @@ keywords:
   - capital gains
   - illiquid investment
   - fund
-image: "https://picsum.photos/seed/private-equity-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **private equity fund** is a pooled investment vehicle that raises capital from institutional investors and uses it to acquire stakes in private companies. The fund's managers restructure these companies, improve operations, and exit via sale or public offering, targeting returns of 20%–30% per year. Private equity is closed to retail investors, requires minimum investments of $250,000–$5 million, and operates as a [fund of funds](/fund-of-funds) or direct investor.*
@@ -23,7 +23,7 @@ This entry covers private equity broadly. For [venture capital](/venture-capital
 
 <div class="wiki-infobox-title">Private Equity Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/private-equity-fund/900/600" alt="Executives discussing a company acquisition strategy" />
+<img src="/svg/funds.svg" alt="Executives discussing a company acquisition strategy" />
 
 <div class="wiki-infobox-caption">Private equity targets operational improvements and financial engineering for returns.</div>
 

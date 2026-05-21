@@ -7,7 +7,7 @@ keywords:
   - cash receipts
   - cash disbursements
   - simple accounting
-image: "https://picsum.photos/seed/cash-basis-accounting/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *In **cash-basis accounting**, revenue is recorded only when cash is received, and expenses are recorded only when paid. It is the simplest form of accounting and is used by many small businesses and nonprofit organizations. However, it is not permitted for [public companies](/public-company) under [GAAP](/generally-accepted-accounting-principles) or [IFRS](/international-financial-reporting-standards), because it distorts economic performance. A company can be profitable on cash basis while economically insolvent, or vice versa. For this reason, public company financial statements must use [accrual-accounting](/accrual-accounting).*
@@ -22,7 +22,7 @@ This entry covers cash-basis accounting and how it differs from the standard. Fo
 
 <div class="wiki-infobox-title">Cash-basis accounting — key facts</div>
 
-<img src="https://picsum.photos/seed/cash-basis-accounting/900/600" alt="A simple balance sheet showing only cash inflows and outflows" />
+<img src="/svg/accounting.svg" alt="A simple balance sheet showing only cash inflows and outflows" />
 
 <div class="wiki-infobox-caption">Cash-basis accounting only counts cash; everything else is ignored.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - valuation
   - negotiation
   - adjustment
-image: "https://picsum.photos/seed/anchoring-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Anchoring bias is the tendency to depend too heavily on an initial number or value when making estimates or decisions. That first figure — the "anchor" — becomes a disproportionate reference point, even when it is arbitrary or irrelevant, and subsequent adjustments away from it are typically insufficient.*
@@ -22,7 +22,7 @@ For the related phenomenon in negotiation tactics, see [framing effect](/framing
 
 <div class="wiki-infobox-title">Anchoring bias — key facts</div>
 
-<img src="https://picsum.photos/seed/anchoring-bias/900/600" alt="A compass needle stuck on a single bearing" />
+<img src="/svg/behavioral.svg" alt="A compass needle stuck on a single bearing" />
 
 <div class="wiki-infobox-caption">An anchor holds a ship in place; a mental anchor holds a judgment in place.</div>
 

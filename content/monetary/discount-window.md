@@ -7,7 +7,7 @@ keywords:
   - emergency borrowing
   - central bank lending
   - liquidity facility
-image: "https://picsum.photos/seed/discount-window/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **discount window** is a standing facility at the central bank through which [banks](/broker) can borrow reserves directly, pledging acceptable collateral in exchange. The interest rate charged—the **discount rate**—is typically set above the target federal funds rate, making the window a backstop of last resort. When [banks](/broker) face unexpected liquidity shortages and cannot borrow from peers, the discount window keeps the financial system from seizing up.*
@@ -22,7 +22,7 @@ This entry covers the mechanics and role. For other central-bank lending facilit
 
 <div class="wiki-infobox-title">Discount Window — key facts</div>
 
-<img src="https://picsum.photos/seed/discount-window/900/600" alt="Central bank lending counter for emergency borrowing" />
+<img src="/svg/monetary.svg" alt="Central bank lending counter for emergency borrowing" />
 
 <div class="wiki-infobox-caption">The discount window provides emergency liquidity when normal funding channels dry up.</div>
 

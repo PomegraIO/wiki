@@ -7,7 +7,7 @@ keywords:
   - retail lot size
   - position size
   - lot sizing
-image: "https://picsum.photos/seed/mini-lot/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **mini lot** is 10,000 units of the base currency in a [currency pair](/currency-pair). It is one-tenth the size of a [standard lot](/standard-lot), producing $1 of profit or loss per [pip](/pip) for most pairs. Mini lots are the default position size for retail FX traders with accounts from $5,000 to $100,000.*
@@ -22,7 +22,7 @@ For even smaller sizes, see [micro lot](/micro-lot); for the institutional defau
 
 <div class="wiki-infobox-title">Mini Lot — key facts</div>
 
-<img src="https://picsum.photos/seed/mini-lot/900/600" alt="A mini lot of 10,000 units" />
+<img src="/svg/forex.svg" alt="A mini lot of 10,000 units" />
 
 <div class="wiki-infobox-caption">The retail trader's standard: $1 per pip.</div>
 

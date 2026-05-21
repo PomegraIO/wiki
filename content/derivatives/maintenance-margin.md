@@ -7,7 +7,7 @@ keywords:
   - minimum equity
   - futures trading
   - risk control
-image: "https://picsum.photos/seed/maintenance-margin/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **maintenance margin** is the minimum account equity required to maintain an open [futures contract](/futures-contract) or short option position. It is typically set at 70–80% of the [initial margin](/initial-margin). If daily [mark-to-market](/mark-to-market) losses cause account equity to fall below maintenance margin, the broker issues a **margin call**, requiring the trader to deposit additional funds immediately or close positions. Maintenance margin enforces discipline and reduces counterparty risk.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/maintenance-margin/900/600"
 
 <div class="wiki-infobox-title">Maintenance Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/maintenance-margin/900/600" alt="Account equity declining toward maintenance margin" />
+<img src="/svg/derivatives.svg" alt="Account equity declining toward maintenance margin" />
 
 <div class="wiki-infobox-caption">Maintenance margin triggers forced action when breached.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - volatility smile
   - volatility skew
   - option pricing
-image: "https://picsum.photos/seed/fx-volatility-surface/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **FX volatility surface** is a three-dimensional landscape showing the implied volatility of [currency options](/currency-option) across different strike prices and expiration dates. A single currency pair might have 50+ implied volatilities, one for each combination of strike and maturity. The shape of the surface (smile, smirk, skew) encodes market expectations about crash risk, uncertainty, and the full distribution of future exchange rates.*
@@ -22,7 +22,7 @@ For the options themselves, see [currency option](/currency-option) and [FX opti
 
 <div class="wiki-infobox-title">FX Volatility Surface — key facts</div>
 
-<img src="https://picsum.photos/seed/fx-volatility-surface/900/600" alt="A 3D volatility surface plot showing strikes and maturities" />
+<img src="/svg/forex.svg" alt="A 3D volatility surface plot showing strikes and maturities" />
 
 <div class="wiki-infobox-caption">Implied volatility varies by strike and maturity, creating a complex surface.</div>
 

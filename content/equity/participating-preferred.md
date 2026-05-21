@@ -7,7 +7,7 @@ keywords:
   - preferred stock
   - profit sharing
   - senior equity
-image: "https://picsum.photos/seed/participating-preferred/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Participating preferred stock is a variant of [preferred stock](/equity/preferred-stock/) in which shareholders receive their fixed [dividend](/dividend/) PLUS a pro-rata share of any profits (or proceeds in liquidation) remaining after the preferred dividend is paid. This gives participating preferred holders both downside protection (the fixed dividend) and upside potential (profit participation), making it a hybrid between preferred and common equity.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/participating-preferred/900/600"
 
 <div class="wiki-infobox-title">Participating preferred stock — key facts</div>
 
-<img src="https://picsum.photos/seed/participating-preferred/900/600" alt="A statement showing preferred dividend plus participation gains" />
+<img src="/svg/equity.svg" alt="A statement showing preferred dividend plus participation gains" />
 
 <div class="wiki-infobox-caption">Fixed income plus share of residual profits.</div>
 

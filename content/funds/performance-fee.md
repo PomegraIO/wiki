@@ -8,7 +8,7 @@ keywords:
   - carried interest
   - hedge fund fees
   - fund
-image: "https://picsum.photos/seed/performance-fee/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **performance fee** (also called an **incentive fee**) is a percentage of a fund's profits that the manager charges in addition to the [management fee](/management-fee). A [hedge fund](/hedge-fund) charging "20 and 20" takes 20% of profits above a [hurdle rate](/performance-fee), plus 20% of overall profits if the return is above the [hurdle rate](/performance-fee). Performance fees align manager incentives with investor returns but can incentivize excessive risk-taking.*
@@ -23,7 +23,7 @@ This entry covers performance fees broadly. For [management fees](/management-fe
 
 <div class="wiki-infobox-title">Performance Fee — key facts</div>
 
-<img src="https://picsum.photos/seed/performance-fee/900/600" alt="A profit and loss statement with a highlighted performance fee calculation" />
+<img src="/svg/funds.svg" alt="A profit and loss statement with a highlighted performance fee calculation" />
 
 <div class="wiki-infobox-caption">Performance fees compensate managers for outperformance.</div>
 

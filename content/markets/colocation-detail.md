@@ -8,7 +8,7 @@ keywords:
   - trading infrastructure
   - proximity
   - latency reduction
-image: "https://picsum.photos/seed/colocation-detail/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **colocation** of trading servers at a stock exchange's data center is a strategy used by high-frequency traders and institutions to minimize network latency. By locating their computers within the exchange's facility, traders receive market data and can execute orders microseconds faster than traders connecting remotely. Colocation is expensive and creates a tiered system where wealthier firms have a speed advantage.*
@@ -23,7 +23,7 @@ This entry is about infrastructure for trading speed. For latency more broadly, 
 
 <div class="wiki-infobox-title">Colocation — key facts</div>
 
-<img src="https://picsum.photos/seed/colocation-detail/900/600" alt="A server room at a stock exchange data center showing colocated trading systems" />
+<img src="/svg/markets.svg" alt="A server room at a stock exchange data center showing colocated trading systems" />
 
 <div class="wiki-infobox-caption">Colocation places traders' servers meters from the matching engine.</div>
 

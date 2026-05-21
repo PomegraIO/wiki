@@ -7,7 +7,7 @@ keywords:
   - lightweight
   - transportation
   - aerospace
-image: "https://picsum.photos/seed/aluminum/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *An **aluminum** — the most abundant metal in the Earth's crust, yet also the newest to be refined at industrial scale — is a commodity whose price is driven as much by electricity costs as by supply and demand for the metal itself. Aluminum's lightness, corrosion resistance, and recyclability make it indispensable to aircraft, automobiles, beverage cans, and building frames, and it is the world's second-most-consumed metal after iron.*
@@ -22,7 +22,7 @@ This entry covers aluminum as a traded commodity. For the companies that refine 
 
 <div class="wiki-infobox-title">Aluminum — key facts</div>
 
-<img src="https://picsum.photos/seed/aluminum/900/600" alt="Aluminum ingots and sheets" />
+<img src="/svg/commodities.svg" alt="Aluminum ingots and sheets" />
 
 <div class="wiki-infobox-caption">Aluminum in ingot and rolled sheet forms.</div>
 

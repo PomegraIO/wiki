@@ -7,7 +7,7 @@ keywords:
   - hedge
   - inflation
   - bullion
-image: "https://picsum.photos/seed/gold/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **gold** — one of the oldest forms of portable wealth — is a precious metal whose stability, divisibility, and universal recognition have made it both a currency substitute and a store of value for millennia. Modern investors hold gold to hedge against [inflation](/inflation), currency collapse, and equity-market [bear markets](/bear-market), while jewelers, dentists, and electronics manufacturers depend on its unique properties.*
@@ -22,7 +22,7 @@ This entry covers gold as a commodity and investment asset. For gold as a moneta
 
 <div class="wiki-infobox-title">Gold — key facts</div>
 
-<img src="https://picsum.photos/seed/gold/900/600" alt="Bars and coins of gold bullion" />
+<img src="/svg/commodities.svg" alt="Bars and coins of gold bullion" />
 
 <div class="wiki-infobox-caption">Gold bars and coins — the physical form most familiar to retail holders.</div>
 

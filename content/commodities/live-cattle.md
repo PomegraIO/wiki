@@ -7,7 +7,7 @@ keywords:
   - meat
   - feed costs
   - commodity
-image: "https://picsum.photos/seed/live-cattle/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **live cattle** — the commodity contract for live cattle traded on the CME Group — represents the price at which producers can sell cattle for meat production. Cattle prices are driven by feed costs (particularly [corn](/corn/) and [soybean meal](/soybean-meal/)), meat demand from consumers and restaurants, and the size of cattle herds (which moves slowly due to breeding cycles).*
@@ -22,7 +22,7 @@ This entry covers live cattle as a commodity contract. For beef as a meat produc
 
 <div class="wiki-infobox-title">Live Cattle — key facts</div>
 
-<img src="https://picsum.photos/seed/live-cattle/900/600" alt="Cattle feedlot and beef cattle" />
+<img src="/svg/commodities.svg" alt="Cattle feedlot and beef cattle" />
 
 <div class="wiki-infobox-caption">Cattle feedlot — converting feed into beef.</div>
 

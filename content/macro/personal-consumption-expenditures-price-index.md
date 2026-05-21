@@ -7,7 +7,7 @@ keywords:
   - inflation
   - price index
   - core PCE
-image: "https://picsum.photos/seed/personal-consumption-expenditures-price-index/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The Personal Consumption Expenditures (PCE) price index is the [Federal Reserve](/federal-reserve)'s preferred measure of consumer [inflation](/inflation). It is derived from the national accounts and covers a broader basket of goods and services than the [Consumer Price Index](/consumer-price-index), including items not typically surveyed by [CPI](/consumer-price-index) such as hospital services and imputed housing services.*
@@ -22,7 +22,7 @@ The Fed targets 2% inflation measured by core PCE (excluding food and energy). T
 
 <div class="wiki-infobox-title">PCE Price Index — key facts</div>
 
-<img src="https://picsum.photos/seed/personal-consumption-expenditures-price-index/900/600" alt="PCE versus CPI inflation" />
+<img src="/svg/macro.svg" alt="PCE versus CPI inflation" />
 
 <div class="wiki-infobox-caption">Core PCE and core CPI usually track closely but diverge during commodity booms.</div>
 

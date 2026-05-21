@@ -8,7 +8,7 @@ keywords:
   - tactical allocation
   - business cycle
   - sector performance
-image: "https://picsum.photos/seed/sector-rotation/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Sector rotation is a tactical strategy that shifts portfolio weight between different industries (sectors) based on predictions about the economic cycle. The core premise is that different sectors perform best at different stages of economic expansion, peak, contraction, and recovery.*
@@ -23,7 +23,7 @@ For geographic rotation, see [geographic-rotation](/geographic-rotation/). For s
 
 <div class="wiki-infobox-title">Sector rotation — key facts</div>
 
-<img src="https://picsum.photos/seed/sector-rotation/900/600" alt="A chart showing sector leadership rotating through economic cycles" />
+<img src="/svg/strategies.svg" alt="A chart showing sector leadership rotating through economic cycles" />
 
 <div class="wiki-infobox-caption">Sector rotators move capital to leading sectors as the economic cycle unfolds.</div>
 

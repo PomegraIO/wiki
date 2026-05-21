@@ -7,7 +7,7 @@ keywords:
   - index fund
   - low-cost investing
   - etf
-image: "https://picsum.photos/seed/john-bogle/900/600"
+image: "/svg/people.svg"
 ---
 
 *John Bogle proved that ordinary investors could beat most professional managers not through genius-level analysis but through simple, low-cost diversification in index funds — a revolution that has saved investors trillions of dollars in fees.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/john-bogle/900/600"
 
 <div class="wiki-infobox-title">John Bogle — key facts</div>
 
-<img src="https://picsum.photos/seed/john-bogle/900/600" alt="Vanguard's Philadelphia headquarters, a temple to index investing" />
+<img src="/svg/people.svg" alt="Vanguard's Philadelphia headquarters, a temple to index investing" />
 
 <div class="wiki-infobox-caption">The headquarters of a revolution — where low cost met scale.</div>
 

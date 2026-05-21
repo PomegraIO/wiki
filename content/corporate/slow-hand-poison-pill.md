@@ -7,7 +7,7 @@ keywords:
   - poison pill
   - takeover defence
   - delayed redemption
-image: "https://picsum.photos/seed/slow-hand-poison-pill/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **slow-hand poison pill** is a variation on the [poison pill](/poison-pill) designed to provide temporary entrenchment against hostile takeovers. Unlike a [dead-hand poison pill](/dead-hand-poison-pill) that cannot be redeemed by new directors, a slow-hand pill can eventually be redeemed by a new board, but only after a delay (typically six months to two years). This gives the original board time to find a [white knight](/white-knight), negotiate with the hostile bidder, or implement strategic alternatives, while still allowing shareholders eventual control.*
@@ -22,7 +22,7 @@ This entry covers slow-hand pills as a moderate takeover defence. For the more e
 
 <div class="wiki-infobox-title">Slow-hand poison pill — key facts</div>
 
-<img src="https://picsum.photos/seed/slow-hand-poison-pill/900/600" alt="A pill with delayed redemption" />
+<img src="/svg/corporate.svg" alt="A pill with delayed redemption" />
 
 <div class="wiki-infobox-caption">A slow-hand pill creates a redemption delay for new directors.</div>
 

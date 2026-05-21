@@ -7,7 +7,7 @@ keywords:
   - open high low close
   - technical analysis
   - price chart
-image: "https://picsum.photos/seed/ohlc-bar-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *An **OHLC bar chart** (open, high, low, close) shows the same four prices as a [candlestick chart](/technical-analysis/candlestick-chart) but uses a different visual representation. Instead of a rectangular body with wicks, each period is displayed as a simple vertical line with two short horizontal ticks: the left tick marks the open, the right tick marks the close. The top of the line is the high; the bottom is the low. OHLC bars are less widely used than candlesticks in modern technical analysis, but they remain popular in some communities and offer a clean, uncluttered alternative view of price action.*
@@ -22,7 +22,7 @@ For candlesticks, the dominant chart type, see [candlestick chart](/technical-an
 
 <div class="wiki-infobox-title">OHLC bar chart — key facts</div>
 
-<img src="https://picsum.photos/seed/ohlc-bar-chart/900/600" alt="OHLC bars showing vertical lines with left and right ticks for each period" />
+<img src="/svg/technical-analysis.svg" alt="OHLC bars showing vertical lines with left and right ticks for each period" />
 
 <div class="wiki-infobox-caption">OHLC bars: a clean alternative to candlesticks, showing the same four prices without color or body emphasis.</div>
 

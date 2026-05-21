@@ -7,7 +7,7 @@ keywords:
   - retail
   - industrial
   - CRE
-image: "https://picsum.photos/seed/commercial-real-estate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *Commercial real estate (CRE) encompasses properties held for business purposes — office buildings, shopping centers, warehouses, hotels, parking, and mixed-use developments. Unlike residential real estate, which is primarily owner-occupied, commercial real estate is typically held by institutions, REITs, and investors for rental income and appreciation.*
@@ -22,7 +22,7 @@ This entry covers commercial real estate broadly. For specific sectors, see [off
 
 <div class="wiki-infobox-title">Commercial Real Estate — key facts</div>
 
-<img src="https://picsum.photos/seed/commercial-real-estate/900/600" alt="A commercial office, retail, or mixed-use building" />
+<img src="/svg/real-estate.svg" alt="A commercial office, retail, or mixed-use building" />
 
 <div class="wiki-infobox-caption">Commercial real estate is held for business purposes and generates rental income.</div>
 

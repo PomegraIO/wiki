@@ -7,7 +7,7 @@ keywords:
   - bank failure
   - deposit haircut
   - eurozone
-image: "https://picsum.photos/seed/cyprus-banking-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Cyprus Banking Crisis** of March 2013 was a severe banking and financial crisis in Cyprus, triggered by massive losses on Greek sovereign debt held by Cypriot banks. The crisis required a €10 billion IMF and EU rescue, featuring an unprecedented partial confiscation of deposits (a "haircut" on deposits above €100,000) to recapitalize the banks. The crisis shook confidence in deposit insurance and the safety of banking systems across the eurozone.*
@@ -22,7 +22,7 @@ This entry covers the Cyprus crisis. For the broader eurozone turmoil, see [Euro
 
 <div class="wiki-infobox-title">Cyprus Banking Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/cyprus-banking-crisis/900/600" alt="A photograph of a shuttered Cypriot bank with people waiting outside" />
+<img src="/svg/history.svg" alt="A photograph of a shuttered Cypriot bank with people waiting outside" />
 
 <div class="wiki-infobox-caption">Cyprus's banks faced losses from Greek debt exposure and required dramatic restructuring.</div>
 

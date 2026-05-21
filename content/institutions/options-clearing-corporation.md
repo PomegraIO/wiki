@@ -7,7 +7,7 @@ keywords:
   - clearinghouse
   - options
   - derivatives
-image: "https://picsum.photos/seed/options-clearing-corporation/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Options Clearing Corporation** (OCC) is the clearinghouse for all equity [option](/option) contracts traded on US [options exchanges](/cboe-options-exchange) — the [CBOE](/cboe-options-exchange), ISE, NASDAQ OMX PHLX, and others. OCC provides central counterparty clearing and is a utility owned by its member exchanges and brokers, essential to the functioning of the US derivatives market.*
@@ -22,7 +22,7 @@ OCC is often referred to by the ticker symbol for its clearing member shares, th
 
 <div class="wiki-infobox-title">Options Clearing Corporation — key facts</div>
 
-<img src="https://picsum.photos/seed/options-clearing-corporation/900/600" alt="OCC offices in Chicago" />
+<img src="/svg/institutions.svg" alt="OCC offices in Chicago" />
 
 <div class="wiki-infobox-caption">OCC headquarters and operations facilities.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - potential output
   - economic slack
   - inflation pressure
-image: "https://picsum.photos/seed/output-gap/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The output gap is the difference between [actual GDP](/real-gdp) and [potential GDP](/potential-gdp), expressed as a percentage of potential. It is one of the most important measures of where the economy sits in the [business cycle](/business-cycle) — whether there is spare capacity waiting to be used or whether the economy is strained to capacity.*
@@ -22,7 +22,7 @@ A positive output gap (actual > potential) signals an overheating economy, tight
 
 <div class="wiki-infobox-title">Output Gap — key facts</div>
 
-<img src="https://picsum.photos/seed/output-gap/900/600" alt="Output gap over the business cycle" />
+<img src="/svg/macro.svg" alt="Output gap over the business cycle" />
 
 <div class="wiki-infobox-caption">The output gap is cyclical; it widens in recessions and narrows during expansions.</div>
 

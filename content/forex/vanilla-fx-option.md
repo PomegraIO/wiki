@@ -7,7 +7,7 @@ keywords:
   - put option
   - standard option
   - American European
-image: "https://picsum.photos/seed/vanilla-fx-option/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **vanilla FX option** is a standard [currency option](/currency-option) with no special features. It is simply a call (the right to buy) or a put (the right to sell) at a fixed strike price, with a European or American exercise style. Vanilla options are the reference point for all option pricing and the building blocks from which exotic options are constructed.*
@@ -22,7 +22,7 @@ For options with special features, see [exotic FX option](/exotic-fx-option); fo
 
 <div class="wiki-infobox-title">Vanilla FX Option — key facts</div>
 
-<img src="https://picsum.photos/seed/vanilla-fx-option/900/600" alt="Payoff diagrams for vanilla call and put options" />
+<img src="/svg/forex.svg" alt="Payoff diagrams for vanilla call and put options" />
 
 <div class="wiki-infobox-caption">Call and put payoffs define all vanilla options.</div>
 

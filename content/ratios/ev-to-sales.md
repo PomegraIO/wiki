@@ -7,7 +7,7 @@ keywords:
   - enterprise value
   - revenue multiple
   - startup valuation
-image: "https://picsum.photos/seed/ev-to-sales/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **EV/Sales ratio** divides [enterprise value](/enterprise-value) by total revenue. A company trading at 2.0x EV/Sales means investors are paying $2 for every $1 of annual sales. It is less sensitive to accounting choices than [EV/EBITDA](/ev-to-ebitda) and useful for valuing unprofitable companies.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/ev-to-sales/900/600"
 
 <div class="wiki-infobox-title">EV/Sales — key facts</div>
 
-<img src="https://picsum.photos/seed/ev-to-sales/900/600" alt="Enterprise value relative to revenue" />
+<img src="/svg/ratios.svg" alt="Enterprise value relative to revenue" />
 
 <div class="wiki-infobox-caption">Price per dollar of revenue.</div>
 

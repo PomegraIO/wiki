@@ -7,7 +7,7 @@ keywords:
   - distribution center
   - logistics
   - e-commerce fulfillment
-image: "https://picsum.photos/seed/industrial-reit/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *An **industrial REIT** owns and operates warehouses, distribution centers, manufacturing facilities, and logistics properties. Industrial REITs have become among the largest and most resilient REIT sectors, benefiting from e-commerce growth, supply-chain globalization, and the structural shift of retail online.*
@@ -22,7 +22,7 @@ This entry focuses on industrial REITs as a property sector. For the broader REI
 
 <div class="wiki-infobox-title">Industrial REIT — key facts</div>
 
-<img src="https://picsum.photos/seed/industrial-reit/900/600" alt="A large warehouse or distribution center" />
+<img src="/svg/real-estate.svg" alt="A large warehouse or distribution center" />
 
 <div class="wiki-infobox-caption">Industrial REITs own the warehouses and distribution centers that power e-commerce and global supply chains.</div>
 

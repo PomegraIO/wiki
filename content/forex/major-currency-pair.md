@@ -7,7 +7,7 @@ keywords:
   - liquid currency pairs
   - EUR/USD
   - USD/JPY
-image: "https://picsum.photos/seed/major-currency-pair/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **major currency pairs** are the eight most liquid and widely traded pairs in the foreign-exchange market. All involve the [US dollar](/us-dollar) paired with one currency from a large, developed economy: the euro, yen, pound, Canadian dollar, Australian dollar, Swiss franc, New Zealand dollar, or Swedish krona. Together, they represent roughly 85% of all FX trading volume.*
@@ -22,7 +22,7 @@ For pairs not involving the dollar, see [minor currency pair](/minor-currency-pa
 
 <div class="wiki-infobox-title">Major Currency Pairs — key facts</div>
 
-<img src="https://picsum.photos/seed/major-currency-pair/900/600" alt="Major currency pairs listed with their symbols" />
+<img src="/svg/forex.svg" alt="Major currency pairs listed with their symbols" />
 
 <div class="wiki-infobox-caption">The eight major pairs dominate global FX volume and liquidity.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - biodiesel
   - cooking oil
   - commodity
-image: "https://picsum.photos/seed/soybean-oil/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **soybean oil** — the oil extracted from soybeans during processing — is a commodity used for cooking and food applications (~70%) and biodiesel fuel (~30%). Soybean oil is the world's largest vegetable oil commodity, competing with palm, canola, and sunflower oils. Its price is linked to [soybeans](/soybeans/) but trades independently due to separate supply-demand dynamics and uses.*
@@ -22,7 +22,7 @@ This entry covers soybean oil as a commodity. For the parent crop, see [soybeans
 
 <div class="wiki-infobox-title">Soybean Oil — key facts</div>
 
-<img src="https://picsum.photos/seed/soybean-oil/900/600" alt="Soybean oil bottle and soybeans" />
+<img src="/svg/commodities.svg" alt="Soybean oil bottle and soybeans" />
 
 <div class="wiki-infobox-caption">Soybean oil — the primary vegetable oil globally.</div>
 

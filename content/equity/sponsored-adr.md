@@ -7,7 +7,7 @@ keywords:
   - sponsored depositary
   - investor relations
   - company-initiated
-image: "https://picsum.photos/seed/sponsored-adr/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A sponsored ADR is an [ADR](/equity/adr/) program created and maintained by the foreign company itself, as opposed to an unsponsored ADR created by a bank without the company's involvement. In a sponsored ADR, the company appoints a depositary bank, sets the terms of the ADR, controls the exchange listing (Level I, II, or III), handles regulatory filings, and manages investor relations. Sponsored ADRs provide better governance and transparency and are preferred by institutional investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/sponsored-adr/900/600"
 
 <div class="wiki-infobox-title">Sponsored ADR — key facts</div>
 
-<img src="https://picsum.photos/seed/sponsored-adr/900/600" alt="A sponsored ADR agreement showing company control and depositary terms" />
+<img src="/svg/equity.svg" alt="A sponsored ADR agreement showing company control and depositary terms" />
 
 <div class="wiki-infobox-caption">Company-initiated ADR program with full company accountability.</div>
 

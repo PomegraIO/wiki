@@ -7,7 +7,7 @@ keywords:
   - Hong Kong Exchanges and Clearing
   - stock exchange
   - Asia
-image: "https://picsum.photos/seed/hong-kong-stock-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Hong Kong Stock Exchange** (operated by Hong Kong Exchanges and Clearing Limited, HKEx) is one of Asia's largest and most liquid [stock exchange](/stock-exchange) venues. Home to major Chinese corporations, multinational firms seeking Asian exposure, and regional leaders across finance, real estate, and trading, the exchange has served as the primary conduit for capital raising and investment in the Greater China region.*
@@ -22,7 +22,7 @@ For the parent organization that also operates the futures and clearing venues, 
 
 <div class="wiki-infobox-title">Hong Kong Stock Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/hong-kong-stock-exchange/900/600" alt="The Hong Kong Stock Exchange trading floor" />
+<img src="/svg/institutions.svg" alt="The Hong Kong Stock Exchange trading floor" />
 
 <div class="wiki-infobox-caption">The modern trading floor of Hong Kong Exchanges and Clearing.</div>
 

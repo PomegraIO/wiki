@@ -8,7 +8,7 @@ keywords:
   - accredited investor
   - exempt offering
   - Rule 506
-image: "https://picsum.photos/seed/regulation-d/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation D](/regulation-d) is the [SEC](/securities-and-exchange-commission)'s exemption from full [Securities Act of 1933](/securities-act-of-1933) registration for private offerings of securities. It allows companies to raise capital from accredited investors (wealthy and sophisticated individuals) and a limited number of sophisticated investors without filing a prospectus or undergoing SEC review. Rule 506 (the largest Reg D exemption) has no dollar limit — companies can raise billions as long as they comply.*
@@ -23,7 +23,7 @@ Regulation D is for private offerings. [Regulation A](/regulation-a) is for smal
 
 <div class="wiki-infobox-title">Regulation D — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-d/900/600" alt="A private placement term sheet" />
+<img src="/svg/regulation.svg" alt="A private placement term sheet" />
 
 <div class="wiki-infobox-caption">A typical Reg D private placement.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - cost of equity
   - size premium
   - value premium
-image: "https://picsum.photos/seed/fama-french-three-factor-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **Fama-French three-factor model** extends the [capital asset pricing model](/capital-asset-pricing-model) by adding two additional factors beyond market risk. It says that cost of equity depends not just on how a stock moves with the overall market, but also on its size (small stocks return more) and its value characteristics (cheap stocks return more). For many investors, it is a more accurate cost-of-equity estimator than basic CAPM.*

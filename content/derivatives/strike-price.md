@@ -6,7 +6,7 @@ keywords:
   - exercise price
   - option contract
   - derivative pricing
-image: "https://picsum.photos/seed/strike-price/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **strike price** (also **exercise price**) is the fixed price at which a [call option](/call-option) holder has the right to buy or a [put option](/put-option) holder has the right to sell the underlying asset. The strike is set when the option is issued and does not change during the option's life. It is one of the two key determinants of an option's value and profitability, along with the underlying asset's current price.*
@@ -15,7 +15,7 @@ image: "https://picsum.photos/seed/strike-price/900/600"
 
 <div class="wiki-infobox-title">Strike Price — key facts</div>
 
-<img src="https://picsum.photos/seed/strike-price/900/600" alt="A fixed price level on a trading chart" />
+<img src="/svg/derivatives.svg" alt="A fixed price level on a trading chart" />
 
 <div class="wiki-infobox-caption">The strike price is the fixed purchase/sale price for an option.</div>
 

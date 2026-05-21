@@ -7,7 +7,7 @@ keywords:
   - employee ownership
   - retirement plan
   - stock ownership
-image: "https://picsum.photos/seed/esop/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An employee stock ownership plan (ESOP) is a qualified retirement plan that invests primarily in the company's [stock](/stock/), allowing employees to build ownership stakes in the company. ESOPs are used by companies to raise capital, defer taxes, and align employee interests with company success. In an ESOP, the company contributes shares or cash to a trust that holds stock on behalf of employees, who later receive shares upon retirement or termination.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/esop/900/600"
 
 <div class="wiki-infobox-title">ESOP — key facts</div>
 
-<img src="https://picsum.photos/seed/esop/900/600" alt="Employees in a company meeting room celebrating ESOP growth" />
+<img src="/svg/equity.svg" alt="Employees in a company meeting room celebrating ESOP growth" />
 
 <div class="wiki-infobox-caption">Collective ownership mechanism aligning employee and company interests.</div>
 

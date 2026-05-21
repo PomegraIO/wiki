@@ -7,7 +7,7 @@ keywords:
   - sweetener
   - cane
   - agricultural
-image: "https://picsum.photos/seed/sugar/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **sugar** — a commodity sweetener extracted from sugar cane (tropical) and sugar beets (temperate) — is traded globally and consumed in processed foods, beverages, and baking. Global sugar production is ~180 million tonnes annually, with Brazil supplying 40% of exports. Sugar prices are volatile, driven by weather in Brazil and the US, and are subject to government intervention (tariffs, subsidies, blending mandates).*
@@ -22,7 +22,7 @@ This entry covers sugar as a traded commodity. Sugar cane is also a feedstock fo
 
 <div class="wiki-infobox-title">Sugar — key facts</div>
 
-<img src="https://picsum.photos/seed/sugar/900/600" alt="Sugar cane harvest and sugar refinery" />
+<img src="/svg/commodities.svg" alt="Sugar cane harvest and sugar refinery" />
 
 <div class="wiki-infobox-caption">Sugar cane harvest — Brazil supplies 40% of global exports.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - continuation
   - consolidation
   - technical analysis
-image: "https://picsum.photos/seed/pennant-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **pennant pattern** is a bullish or bearish continuation pattern consisting of two parts: the **pole** (a sharp, nearly vertical price move) and the **pennant** (a small, converging triangle consolidation). The pennant resembles a flag's slightly smaller cousin; whereas a flag is rectangular, a pennant is triangular with converging boundaries. After the pole's strong move, price consolidates in the pennant's progressively narrowing range. Once the pennant apex is reached (where the converging lines meet), price breaks out in the original pole direction, continuing the trend. Pennants are one of the most reliable continuation patterns, especially when formed on high volume.*
@@ -22,7 +22,7 @@ For continuation patterns broadly, see [candlestick pattern](/technical-analysis
 
 <div class="wiki-infobox-title">Pennant pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/pennant-pattern/900/600" alt="A pennant pattern: sharp vertical pole and small converging triangle" />
+<img src="/svg/technical-analysis.svg" alt="A pennant pattern: sharp vertical pole and small converging triangle" />
 
 <div class="wiki-infobox-caption">Pennant: pole drives the move; converging triangle consolidates; breakout resumes trend.</div>
 

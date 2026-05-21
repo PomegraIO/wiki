@@ -8,7 +8,7 @@ keywords:
   - mining
   - satoshi nakamoto
   - btc
-image: "https://picsum.photos/seed/bitcoin/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Bitcoin** (₿ or **BTC**) is a digital currency and asset that exists entirely on the [blockchain](/blockchain-fundamentals), unsecured by government backing or central authority. Created in 2009 by pseudonymous inventor Satoshi Nakamoto, Bitcoin operates on a [peer-to-peer network](/distributed-ledger) and is secured by [proof-of-work mining](/mining-bitcoin).*
@@ -23,7 +23,7 @@ This entry covers Bitcoin the currency and network. For the broader cryptocurren
 
 <div class="wiki-infobox-title">Bitcoin — key facts</div>
 
-<img src="https://picsum.photos/seed/bitcoin/900/600" alt="Bitcoin logo and network visualization" />
+<img src="/svg/crypto.svg" alt="Bitcoin logo and network visualization" />
 
 <div class="wiki-infobox-caption">Bitcoin: the original decentralised digital currency, now the largest cryptocurrency by market value.</div>
 

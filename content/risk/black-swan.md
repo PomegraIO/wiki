@@ -7,7 +7,7 @@ keywords:
   - tail event
   - extreme shock
   - rare event
-image: "https://picsum.photos/seed/black-swan/900/600"
+image: "/svg/risk.svg"
 ---
 
 *A black swan is an unexpected, catastrophic event with severe consequences that, in retrospect, people argue "should have been foreseen" but was not, at least not by mainstream opinion. The term, popularized by Nassim Taleb, describes events with three properties: surprise, extreme impact, and (after the fact) a narrative explaining how it was obvious.*
@@ -22,7 +22,7 @@ This entry covers unpredictable catastrophic events. For tail events that are at
 
 <div class="wiki-infobox-title">Black Swan — key facts</div>
 
-<img src="https://picsum.photos/seed/black-swan/900/600" alt="A black swan flying against a stormy sky with lightning" />
+<img src="/svg/risk.svg" alt="A black swan flying against a stormy sky with lightning" />
 
 <div class="wiki-infobox-caption">Black swans are unpredictable and catastrophic when they occur.</div>
 

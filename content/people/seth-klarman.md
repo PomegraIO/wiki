@@ -7,7 +7,7 @@ keywords:
   - value investing
   - baupost group
   - hedge fund
-image: "https://picsum.photos/seed/seth-klarman/900/600"
+image: "/svg/people.svg"
 ---
 
 *Seth Klarman proved that value investing — buying securities at meaningful discounts to intrinsic value — could be practiced with rigor and discipline, producing returns that vastly outpaced the market over decades while managing capital conservatively.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/seth-klarman/900/600"
 
 <div class="wiki-infobox-title">Seth Klarman — key facts</div>
 
-<img src="https://picsum.photos/seed/seth-klarman/900/600" alt="Financial documents and valuation worksheets laid out carefully" />
+<img src="/svg/people.svg" alt="Financial documents and valuation worksheets laid out carefully" />
 
 <div class="wiki-infobox-caption">The meticulous tools of the value investor — where discounts are measured precisely.</div>
 

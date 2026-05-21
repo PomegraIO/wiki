@@ -7,7 +7,7 @@ keywords:
   - working capital
   - operating cycle
   - cash management
-image: "https://picsum.photos/seed/cash-conversion-cycle/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **cash conversion cycle** — or **CCC** — equals days inventory outstanding plus days sales outstanding minus days payable outstanding. It measures how many days elapse between when the company pays for inventory and when it collects cash from customers. A shorter CCC means cash converts to cash faster.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/cash-conversion-cycle/900/600"
 
 <div class="wiki-infobox-title">Cash Conversion Cycle — key facts</div>
 
-<img src="https://picsum.photos/seed/cash-conversion-cycle/900/600" alt="Days between cash outflow and inflow" />
+<img src="/svg/ratios.svg" alt="Days between cash outflow and inflow" />
 
 <div class="wiki-infobox-caption">Time cash is tied up in operations.</div>
 

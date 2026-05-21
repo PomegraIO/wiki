@@ -7,7 +7,7 @@ keywords:
   - cost of carry
   - future prices
   - commodity futures
-image: "https://picsum.photos/seed/contango/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *In **contango**, futures prices increase with the delivery date. A [futures contract](/futures-contract) expiring in 3 months is cheaper than one expiring in 6 months, which is cheaper than one expiring in 12 months. Contango occurs because holding the underlying asset over time carries costs—storage fees, insurance, financing—passed to the buyer of distant futures. Contango is the normal state in most commodity and interest-rate markets.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/contango/900/600"
 
 <div class="wiki-infobox-title">Contango — key facts</div>
 
-<img src="https://picsum.photos/seed/contango/900/600" alt="Upward sloping futures curve" />
+<img src="/svg/derivatives.svg" alt="Upward sloping futures curve" />
 
 <div class="wiki-infobox-caption">Contango: futures prices rise into the future.</div>
 

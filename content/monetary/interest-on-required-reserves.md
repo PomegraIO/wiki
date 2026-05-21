@@ -7,7 +7,7 @@ keywords:
   - interest rate
   - monetary policy
   - bank reserves
-image: "https://picsum.photos/seed/interest-on-required-reserves/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **interest on required reserves** (or **IORR**) is the rate a central bank pays on reserve balances that [banks](/broker) are obligated to hold under [reserve requirements](/reserve-requirements). This rate is separate from—and often different from—the rate paid on [excess reserves](/interest-on-excess-reserves), reflecting the central bank's decision to treat mandatory and discretionary reserve holdings differently.*
@@ -22,7 +22,7 @@ This entry covers the required-reserves rate specifically. For the broader inter
 
 <div class="wiki-infobox-title">Interest on Required Reserves — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-on-required-reserves/900/600" alt="Bank account showing required reserve interest earnings" />
+<img src="/svg/monetary.svg" alt="Bank account showing required reserve interest earnings" />
 
 <div class="wiki-infobox-caption">IORR sets the return on mandatory reserve holdings, shaping bank behavior.</div>
 

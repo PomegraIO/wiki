@@ -6,7 +6,7 @@ keywords:
   - average tax rate
   - total tax burden
   - tax rate
-image: "https://picsum.photos/seed/effective-tax-rate-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *Your **effective tax rate** is your total federal [income tax](/tax-bracket-investor/) divided by your total [taxable income](/tax-bracket-investor/). It is your *average* tax rate and is always lower than your [marginal tax rate](/marginal-tax-rate-investor/) because the US uses progressive tax brackets. Investors often confuse marginal and effective rates; knowing your effective rate helps you understand your true overall tax burden, though the marginal rate matters more for investment decisions.*
@@ -21,7 +21,7 @@ For the rate on your next dollar of income, see [marginal tax rate investor](/ma
 
 <div class="wiki-infobox-title">Effective tax rate for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/effective-tax-rate-investor/900/600" alt="A pie chart showing effective tax rate as portion of income" />
+<img src="/svg/taxes.svg" alt="A pie chart showing effective tax rate as portion of income" />
 
 <div class="wiki-infobox-caption">Effective rate is total tax ÷ total income—your average burden.</div>
 

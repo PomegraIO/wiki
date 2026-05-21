@@ -7,7 +7,7 @@ keywords:
   - modified duration
   - interest rate risk
   - bond sensitivity
-image: "https://picsum.photos/seed/duration/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **duration** of a bond measures how sensitive its price is to changes in interest rates. More formally, duration is the weighted average time until the bondholder receives all cash flows (coupons and principal). A bond with a 5-year duration loses approximately 5% in value when interest rates rise 1%; it gains approximately 5% when rates fall 1%.*
@@ -22,7 +22,7 @@ For the curvature in the price-yield relationship, see [convexity](/convexity). 
 
 <div class="wiki-infobox-title">Duration — key facts</div>
 
-<img src="https://picsum.photos/seed/duration/900/600" alt="A graph showing bond price sensitivity to yield changes" />
+<img src="/svg/fixed-income.svg" alt="A graph showing bond price sensitivity to yield changes" />
 
 <div class="wiki-infobox-caption">Duration measures how much a bond's price changes when yields move.</div>
 

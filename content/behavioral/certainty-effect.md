@@ -7,7 +7,7 @@ keywords:
   - probability weighting
   - behavioral finance
   - prospect theory
-image: "https://picsum.photos/seed/certainty-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The certainty effect is the tendency to overvalue certainty relative to probability. You prefer a sure gain of $50 over a 99% chance of a $51 gain, even though the expected value of the latter is higher. You also prefer a 99% chance of avoiding a $100 loss over a sure $1 loss, despite the expected value again favoring the gamble. Certainty is weighted disproportionately.*
@@ -22,7 +22,7 @@ A core pattern explained by prospect theory. Related to the isolation effect. Se
 
 <div class="wiki-infobox-title">Certainty effect — key facts</div>
 
-<img src="https://picsum.photos/seed/certainty-effect/900/600" alt="A path that splits: one direction is clearly marked as certain, the other branches with question marks" />
+<img src="/svg/behavioral.svg" alt="A path that splits: one direction is clearly marked as certain, the other branches with question marks" />
 
 <div class="wiki-infobox-caption">Certainty feels disproportionately valuable compared to high probability.</div>
 

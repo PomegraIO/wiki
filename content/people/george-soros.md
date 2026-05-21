@@ -7,7 +7,7 @@ keywords:
   - reflexivity
   - macro trading
   - quantum fund
-image: "https://picsum.photos/seed/george-soros/900/600"
+image: "/svg/people.svg"
 ---
 
 *George Soros built the Quantum Fund into a multi-billion-dollar machine by betting on the collision between perception and reality — proving that when a market's beliefs diverge sharply from fundamentals, a patient, contrarian trader with conviction can extract extraordinary profits.*
@@ -22,7 +22,7 @@ This entry is about the investor and his methods. For his philanthropic work, se
 
 <div class="wiki-infobox-title">George Soros — key facts</div>
 
-<img src="https://picsum.photos/seed/george-soros/900/600" alt="A currency trading floor with screens and papers in motion" />
+<img src="/svg/people.svg" alt="A currency trading floor with screens and papers in motion" />
 
 <div class="wiki-infobox-caption">The domain of macro trading — where belief and reality collide.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - operational efficiency
   - supply chain
   - working capital
-image: "https://picsum.photos/seed/inventory-turnover/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **inventory turnover ratio** divides cost of goods sold (COGS) by average inventory. A turnover of 6.0 means the company sells through its entire inventory 6 times per year. High turnover signals efficient inventory management and strong demand; low turnover signals excess inventory, obsolescence, or weak sales.*
@@ -22,7 +22,7 @@ This entry covers inventory efficiency. Related metrics include [accounts-receiv
 
 <div class="wiki-infobox-title">Inventory Turnover — key facts</div>
 
-<img src="https://picsum.photos/seed/inventory-turnover/900/600" alt="Inventory converted to sales annually" />
+<img src="/svg/ratios.svg" alt="Inventory converted to sales annually" />
 
 <div class="wiki-infobox-caption">How fast inventory moves through the business.</div>
 

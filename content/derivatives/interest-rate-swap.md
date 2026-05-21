@@ -7,7 +7,7 @@ keywords:
   - swap
   - rate hedge
   - derivative
-image: "https://picsum.photos/seed/interest-rate-swap/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *An **interest-rate swap** (IRS) is a [swap](/swap) contract where one party pays a fixed interest rate and receives a floating rate (typically [SOFR](/sofr-swap) or another index), while the counterparty does the opposite. No principal is exchanged; only interest rate differences are settled periodically. Interest-rate swaps are the most-traded derivatives globally, used by banks, corporations, and investors to manage [interest-rate](/interest-rate/) risk and match assets to liabilities.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/interest-rate-swap/900/600"
 
 <div class="wiki-infobox-title">Interest Rate Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/interest-rate-swap/900/600" alt="Fixed vs. floating rate exchange diagram" />
+<img src="/svg/derivatives.svg" alt="Fixed vs. floating rate exchange diagram" />
 
 <div class="wiki-infobox-caption">IRS swaps fixed payments for floating.</div>
 

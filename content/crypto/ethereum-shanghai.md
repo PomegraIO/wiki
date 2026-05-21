@@ -7,7 +7,7 @@ keywords:
   - upgrade
   - eip-4895
   - validator
-image: "https://picsum.photos/seed/ethereum-shanghai/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Ethereum Shanghai** (also called the "Shapella" upgrade) was a network upgrade deployed on 12 April 2023 that enabled staking withdrawals. Before Shanghai, [validators](/validator) who staked ETH could not withdraw or access their staking rewards. Shanghai completed the transition to [proof-of-stake](/proof-of-stake) by finally allowing withdrawal of staked funds.*
@@ -22,7 +22,7 @@ This entry covers Ethereum Shanghai as an upgrade. For Ethereum's broader histor
 
 <div class="wiki-infobox-title">Ethereum Shanghai — key facts</div>
 
-<img src="https://picsum.photos/seed/ethereum-shanghai/900/600" alt="Staking withdrawal visualization" />
+<img src="/svg/crypto.svg" alt="Staking withdrawal visualization" />
 
 <div class="wiki-infobox-caption">Shanghai: unlocking staked ETH and earned rewards.</div>
 

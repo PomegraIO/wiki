@@ -8,7 +8,7 @@ keywords:
   - all-weather allocation
   - Harry Browne
   - economic hedging
-image: "https://picsum.photos/seed/permanent-portfolio/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A permanent portfolio is an all-weather [asset-allocation](/asset-allocation/) strategy created by investor Harry Browne, dividing assets equally (25% each) among four components: equities ([stocks](/stock/)), long-term [bonds](/bond/), short-term bonds (cash), and gold. The design hedges against all major economic scenarios: inflation, deflation, growth, and stagnation.*
@@ -23,7 +23,7 @@ For simpler all-weather approaches, see [all-weather portfolio](/all-weather-por
 
 <div class="wiki-infobox-title">Permanent portfolio — key facts</div>
 
-<img src="https://picsum.photos/seed/permanent-portfolio/900/600" alt="Equal 25-25-25-25 allocation to stocks, long bonds, short bonds, and gold" />
+<img src="/svg/strategies.svg" alt="Equal 25-25-25-25 allocation to stocks, long bonds, short bonds, and gold" />
 
 <div class="wiki-infobox-caption">Permanent-portfolio investors accept moderate returns to avoid catastrophic losses in any scenario.</div>
 

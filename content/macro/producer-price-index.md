@@ -7,7 +7,7 @@ keywords:
   - wholesale prices
   - input inflation
   - inflation
-image: "https://picsum.photos/seed/producer-price-index/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The Producer Price Index (PPI) measures the average change in prices that producers (firms) receive for their goods and prices they pay for inputs. It is published by the Bureau of Labor Statistics monthly and is a leading indicator of consumer-price [inflation](/inflation) — when PPI rises sharply, [consumer inflation](/consumer-price-index) often follows months later.*
@@ -22,7 +22,7 @@ PPI typically leads [CPI](/consumer-price-index) by 2–6 months. A spike in raw
 
 <div class="wiki-infobox-title">Producer Price Index — key facts</div>
 
-<img src="https://picsum.photos/seed/producer-price-index/900/600" alt="PPI versus CPI trends" />
+<img src="/svg/macro.svg" alt="PPI versus CPI trends" />
 
 <div class="wiki-infobox-caption">PPI is more volatile than CPI, especially for raw materials and energy.</div>
 

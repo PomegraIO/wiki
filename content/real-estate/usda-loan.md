@@ -7,7 +7,7 @@ keywords:
   - rural development
   - zero down payment
   - rural mortgage
-image: "https://picsum.photos/seed/usda-loan/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **USDA loan** is a mortgage backed by the U.S. Department of Agriculture's Rural Development program. USDA loans are available to borrowers with low to moderate incomes buying homes in eligible rural areas, and offer zero down payment and no mortgage insurance.*
@@ -22,7 +22,7 @@ For other government programs, see [fha-loan](/fha-loan), [va-loan](/va-loan), a
 
 <div class="wiki-infobox-title">USDA Loan — key facts</div>
 
-<img src="https://picsum.photos/seed/usda-loan/900/600" alt="A USDA loan document and property in a rural area" />
+<img src="/svg/real-estate.svg" alt="A USDA loan document and property in a rural area" />
 
 <div class="wiki-infobox-caption">USDA loans support rural homeownership and development.</div>
 

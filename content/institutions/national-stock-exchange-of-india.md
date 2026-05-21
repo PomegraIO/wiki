@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - India
   - Mumbai
-image: "https://picsum.photos/seed/national-stock-exchange-of-india/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **National Stock Exchange of India** (NSE) is India's largest [stock exchange](/stock-exchange) by trading volume and one of the world's largest by value of shares traded. Established in 1992 as a modernized electronic venue, the NSE has become the primary listing destination for Indian [public companies](/public-company) and the principal conduit through which global investors access Indian equities.*
@@ -22,7 +22,7 @@ The NSE and the [Bombay Stock Exchange](/bombay-stock-exchange) are India's two 
 
 <div class="wiki-infobox-title">National Stock Exchange of India — key facts</div>
 
-<img src="https://picsum.photos/seed/national-stock-exchange-of-india/900/600" alt="The NSE trading floor in Mumbai" />
+<img src="/svg/institutions.svg" alt="The NSE trading floor in Mumbai" />
 
 <div class="wiki-infobox-caption">The NSE trading facility in Mumbai's Bandra Kurla Complex.</div>
 

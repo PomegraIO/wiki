@@ -7,7 +7,7 @@ keywords:
   - futures collateral
   - leverage
   - derivatives trading
-image: "https://picsum.photos/seed/initial-margin/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **initial margin** is the minimum amount of collateral a trader must deposit to open a [futures contract](/futures-contract) or short option position. It is typically a small percentage of the contract's notional value (5–20%), enabling leverage. If daily losses cause the account to fall below [maintenance margin](/maintenance-margin) (usually 70–80% of initial margin), a margin call is issued, requiring the trader to deposit more funds or close the position.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/initial-margin/900/600"
 
 <div class="wiki-infobox-title">Initial Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/initial-margin/900/600" alt="Margin deposit and leverage relationship" />
+<img src="/svg/derivatives.svg" alt="Margin deposit and leverage relationship" />
 
 <div class="wiki-infobox-caption">Initial margin enables high leverage in futures.</div>
 

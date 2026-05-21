@@ -7,7 +7,7 @@ keywords:
   - livestock
   - feed costs
   - commodity
-image: "https://picsum.photos/seed/lean-hogs/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **lean hogs** — the commodity contract for pigs raised for pork production — is traded on the CME Group and represents the price at which producers can sell pigs for meat. Pork production is more capital-efficient than beef; hogs grow faster, convert feed more efficiently, and reach slaughter weight in 5–6 months versus 18+ months for cattle.*
@@ -22,7 +22,7 @@ This entry covers lean hogs as a commodity contract. For competing meat, see [li
 
 <div class="wiki-infobox-title">Lean Hogs — key facts</div>
 
-<img src="https://picsum.photos/seed/lean-hogs/900/600" alt="Pig farm and pork production" />
+<img src="/svg/commodities.svg" alt="Pig farm and pork production" />
 
 <div class="wiki-infobox-caption">Pig farm — efficient feed conversion to pork.</div>
 

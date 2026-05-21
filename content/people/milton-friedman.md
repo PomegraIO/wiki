@@ -7,7 +7,7 @@ keywords:
   - monetary policy
   - federal reserve
   - inflation
-image: "https://picsum.photos/seed/milton-friedman/900/600"
+image: "/svg/people.svg"
 ---
 
 *Milton Friedman challenged Keynesian orthodoxy by arguing that money, not government spending, was the key to managing the economy — a theory that reshaped central banking and economic policy globally.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/milton-friedman/900/600"
 
 <div class="wiki-infobox-title">Milton Friedman — key facts</div>
 
-<img src="https://picsum.photos/seed/milton-friedman/900/600" alt="Monetary policy charts and interest rate data over decades" />
+<img src="/svg/people.svg" alt="Monetary policy charts and interest rate data over decades" />
 
 <div class="wiki-infobox-caption">The domain of his focus — where money supply drives outcomes.</div>
 

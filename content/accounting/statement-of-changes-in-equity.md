@@ -7,7 +7,7 @@ keywords:
   - equity movements
   - comprehensive income
   - statement of shareholders' equity
-image: "https://picsum.photos/seed/statement-of-changes-in-equity/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **statement of changes in equity** reconciles the opening and closing balances of shareholders' equity by listing every transaction that affected it during the period: profits earned, dividends paid, shares issued or repurchased, and unrealized gains or losses on investments. It bridges the [income statement](/income-statement) (which reports profit) and the [balance sheet](/balance-sheet) (which shows equity at period end). Equity is not static; this statement explains why.*
@@ -22,7 +22,7 @@ This entry covers the structure and purpose of equity changes. For retained earn
 
 <div class="wiki-infobox-title">Statement of changes in equity — key facts</div>
 
-<img src="https://picsum.photos/seed/statement-of-changes-in-equity/900/600" alt="A reconciliation table showing opening equity, changes, and closing equity across multiple components" />
+<img src="/svg/accounting.svg" alt="A reconciliation table showing opening equity, changes, and closing equity across multiple components" />
 
 <div class="wiki-infobox-caption">Every source and use of equity flows through this reconciliation.</div>
 

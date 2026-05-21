@@ -7,7 +7,7 @@ keywords:
   - monthly jobs
   - payroll survey
   - labor statistics
-image: "https://picsum.photos/seed/nonfarm-payrolls/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Nonfarm payrolls are the total number of employees on business payrolls, excluding farm workers, private household workers, and the self-employed. The monthly change in nonfarm payrolls, released by the Bureau of Labor Statistics on the first Friday of each month, is the most closely watched labor market statistic and a major driver of financial market movements.*
@@ -22,7 +22,7 @@ The nonfarm payroll report also includes the [unemployment rate](/unemployment-r
 
 <div class="wiki-infobox-title">Nonfarm Payrolls — key facts</div>
 
-<img src="https://picsum.photos/seed/nonfarm-payrolls/900/600" alt="Monthly nonfarm payroll changes" />
+<img src="/svg/macro.svg" alt="Monthly nonfarm payroll changes" />
 
 <div class="wiki-infobox-caption">Payroll growth averaged 200-250k monthly pre-pandemic; spiked to 500k+ during pandemic recovery.</div>
 

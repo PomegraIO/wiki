@@ -7,7 +7,7 @@ keywords:
   - housing inflation
   - CPI
   - rent
-image: "https://picsum.photos/seed/owners-equivalent-rent/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Owners' equivalent rent (OER) is the imputed monthly rent that homeowners would pay if they rented their own home. It is the single largest component of [Consumer Price Index](/consumer-price-index), accounting for ~24% of the overall index, and is therefore a key driver of [inflation](/inflation) measures. Because most Americans own their homes rather than rent, OER estimates what homeownership costs in rental terms.*
@@ -22,7 +22,7 @@ OER spiked sharply from 3% annual [inflation](/inflation) in early 2021 to 9% by
 
 <div class="wiki-infobox-title">Owners' Equivalent Rent — key facts</div>
 
-<img src="https://picsum.photos/seed/owners-equivalent-rent/900/600" alt="OER and housing inflation trends" />
+<img src="/svg/macro.svg" alt="OER and housing inflation trends" />
 
 <div class="wiki-infobox-caption">OER is estimated via surveys asking homeowners what rent their home would fetch; estimates lag actual rental market tightness by 6-12 months.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - public order book
   - limit order
   - visible order
-image: "https://picsum.photos/seed/lit-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **lit order** is any order that is visible on the public order book of a [lit venue](/lit-venue) (a public exchange or trading venue). When you place a [limit order](/limit-order) to buy 1,000 shares at $50 on the NYSE, everyone can see it — traders, algorithms, and market makers. Lit orders form the backbone of price discovery and fair trading, but they expose your size and strategy to the market.*
@@ -21,7 +21,7 @@ For orders hidden from public view, see [hidden order](/hidden-order), [iceberg 
 
 <div class="wiki-infobox-title">Lit order — key facts</div>
 
-<img src="https://picsum.photos/seed/lit-order/900/600" alt="An order book showing visible limit orders" />
+<img src="/svg/trading.svg" alt="An order book showing visible limit orders" />
 
 <div class="wiki-infobox-caption">The public order book shows all lit orders: size and price visible to everyone.</div>
 

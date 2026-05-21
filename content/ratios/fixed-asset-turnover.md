@@ -7,7 +7,7 @@ keywords:
   - capital efficiency
   - pp&e turnover
   - operational efficiency
-image: "https://picsum.photos/seed/fixed-asset-turnover/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **fixed asset turnover** divides annual revenue by average fixed assets (property, plant, and equipment). It measures how many dollars of sales each dollar of long-term assets generates. High turnover signals efficient use of factories, equipment, and real estate.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/fixed-asset-turnover/900/600"
 
 <div class="wiki-infobox-title">Fixed Asset Turnover — key facts</div>
 
-<img src="https://picsum.photos/seed/fixed-asset-turnover/900/600" alt="Revenue generated per dollar of fixed assets" />
+<img src="/svg/ratios.svg" alt="Revenue generated per dollar of fixed assets" />
 
 <div class="wiki-infobox-caption">How hard factories and equipment work.</div>
 

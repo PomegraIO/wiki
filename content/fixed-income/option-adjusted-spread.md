@@ -7,7 +7,7 @@ keywords:
   - credit spread
   - callable bonds
   - option value
-image: "https://picsum.photos/seed/option-adjusted-spread/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *The **option-adjusted spread** — or **OAS** — is a [bond](/bond)'s [credit spread](/credit-spread) adjusted to exclude the value of embedded options. For a [callable bond](/callable-bond), OAS removes the value of the call option to isolate the pure credit risk premium. A [callable bond](/callable-bond) might have a 150-basis-point simple spread but an 100-basis-point OAS, with 50 basis points attributable to the call option.*
@@ -22,7 +22,7 @@ For the simple spread unadjusted for options, see [credit spread](/credit-spread
 
 <div class="wiki-infobox-title">Option-Adjusted Spread — key facts</div>
 
-<img src="https://picsum.photos/seed/option-adjusted-spread/900/600" alt="A calculation showing how OAS is derived from simple spread and option value" />
+<img src="/svg/fixed-income.svg" alt="A calculation showing how OAS is derived from simple spread and option value" />
 
 <div class="wiki-infobox-caption">OAS isolates credit risk by removing the value of embedded options.</div>
 

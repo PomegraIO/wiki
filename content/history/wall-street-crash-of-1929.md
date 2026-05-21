@@ -7,7 +7,7 @@ keywords:
   - stock market crash
   - Black Tuesday
   - Great Depression
-image: "https://picsum.photos/seed/wall-street-crash-of-1929/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Wall Street Crash of 1929** was a violent collapse in stock prices that wiped out a significant fraction of American wealth in a matter of days. Beginning in October 1929 and continuing through 1932, stock prices fell by nearly 90%. The crash was not the Depression's sole cause — policy mistakes and structural weaknesses were critical — but it was the event that shattered confidence and set the contraction in motion.*
@@ -22,7 +22,7 @@ This entry covers the stock market crash itself. For the broader economic collap
 
 <div class="wiki-infobox-title">Wall Street Crash of 1929 — key facts</div>
 
-<img src="https://picsum.photos/seed/wall-street-crash-of-1929/900/600" alt="A historical photograph of panicked traders on the floor of the New York Stock Exchange" />
+<img src="/svg/history.svg" alt="A historical photograph of panicked traders on the floor of the New York Stock Exchange" />
 
 <div class="wiki-infobox-caption">Panic on the floor of the New York Stock Exchange as prices plummeted and fortunes evaporated.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - endowment
   - asset allocation
   - alternative investments
-image: "https://picsum.photos/seed/david-swensen/900/600"
+image: "/svg/people.svg"
 ---
 
 *David Swensen transformed Yale's endowment from a conventionally allocated fund into a leader in strategic diversification, proving that institutional investors with long time horizons could beat the market by thinking differently about asset allocation.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/david-swensen/900/600"
 
 <div class="wiki-infobox-title">David Swensen — key facts</div>
 
-<img src="https://picsum.photos/seed/david-swensen/900/600" alt="Yale's library and endowment buildings, symbols of institutional wealth" />
+<img src="/svg/people.svg" alt="Yale's library and endowment buildings, symbols of institutional wealth" />
 
 <div class="wiki-infobox-caption">The steward of perpetual institutional wealth — managing for the very long term.</div>
 

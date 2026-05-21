@@ -8,7 +8,7 @@ keywords:
   - NBBO
   - official quotes
   - real-time pricing
-image: "https://picsum.photos/seed/market-data-feed-consolidated/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **consolidated market data feed** is the official, real-time aggregated market data published by the [Securities Information Processor](/sip-securities-information-processor), combining quotes and trades from all US venues. It provides the national best bid and offer (NBBO), trade reports, and other essential data. The consolidated feed is available to the public (with minimal delay) and is the basis for regulatory compliance and fair execution.*
@@ -23,7 +23,7 @@ This entry is about the official aggregated feed. For faster exchange-specific f
 
 <div class="wiki-infobox-title">Consolidated Market Data Feed — key facts</div>
 
-<img src="https://picsum.photos/seed/market-data-feed-consolidated/900/600" alt="A market data display showing consolidated NBBO quotes and trade volumes" />
+<img src="/svg/markets.svg" alt="A market data display showing consolidated NBBO quotes and trade volumes" />
 
 <div class="wiki-infobox-caption">Consolidated feed is the official, public source of market data.</div>
 

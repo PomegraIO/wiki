@@ -8,7 +8,7 @@ keywords:
   - dividend aristocrats
   - inflation hedge
   - long-term income
-image: "https://picsum.photos/seed/dividend-growth-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Dividend-growth investing is a strategy focused on buying stocks whose [dividends](/dividend/) are not just high, but rising year over year. The premise is that a company with the discipline and capacity to raise its payout regularly is both financially healthy and offering an inflation-protected income stream.*
@@ -23,7 +23,7 @@ For the ultimate dividend-growth stocks, see [dividend-aristocrats](/dividend-ar
 
 <div class="wiki-infobox-title">Dividend-growth investing — key facts</div>
 
-<img src="https://picsum.photos/seed/dividend-growth-investing/900/600" alt="A chart showing dividends climbing over decades" />
+<img src="/svg/strategies.svg" alt="A chart showing dividends climbing over decades" />
 
 <div class="wiki-infobox-caption">Dividend-growth investors ride rising payouts for decades, watching income nearly double or triple.</div>
 

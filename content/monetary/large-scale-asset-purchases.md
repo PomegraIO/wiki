@@ -7,7 +7,7 @@ keywords:
   - QE
   - central bank
   - balance sheet
-image: "https://picsum.photos/seed/large-scale-asset-purchases/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **large-scale asset purchase** (or **LSAP**) is a central bank's sustained, major acquisition of [bonds](/bond), mortgage-backed securities, or other financial assets, typically conducted when interest rates are already at zero and the central bank needs to inject money and lower longer-term interest rates. LSAPs are synonymous with [quantitative easing](/quantitative-easing) and represent the primary tool a central bank uses when conventional [monetary policy](/monetary-policy) is exhausted.*
@@ -22,7 +22,7 @@ This entry is about the asset-purchase approach. For a broader overview of easin
 
 <div class="wiki-infobox-title">Large-Scale Asset Purchases — key facts</div>
 
-<img src="https://picsum.photos/seed/large-scale-asset-purchases/900/600" alt="Central bank securities trading operations" />
+<img src="/svg/monetary.svg" alt="Central bank securities trading operations" />
 
 <div class="wiki-infobox-caption">LSAPs flood the financial system with central-bank money when conventional tools fail.</div>
 

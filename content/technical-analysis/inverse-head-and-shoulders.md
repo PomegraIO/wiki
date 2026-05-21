@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bullish
   - technical analysis
-image: "https://picsum.photos/seed/inverse-head-and-shoulders/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *An **inverse head and shoulders** pattern is a bullish reversal formation consisting of three distinct lows (troughs): a shoulder (lower left), a head (deeper center), and a shoulder (lower right), with two peaks between them forming an approximately flat neckline. The pattern reveals that a downtrend has exhausted—the middle trough (head) reaches a lower low than the prior trough, but the subsequent trough (right shoulder) is higher than the head, showing strengthening buying. When price breaks above the neckline, the reversal is confirmed. It is the bullish mirror of the [head and shoulders](/technical-analysis/head-and-shoulders) and is similarly regarded as one of the more reliable reversal patterns.*
@@ -22,7 +22,7 @@ For reversal patterns broadly, see [candlestick pattern](/technical-analysis/can
 
 <div class="wiki-infobox-title">Inverse head and shoulders — key facts</div>
 
-<img src="https://picsum.photos/seed/inverse-head-and-shoulders/900/600" alt="An inverse head and shoulders pattern: three troughs with a neckline at the top" />
+<img src="/svg/technical-analysis.svg" alt="An inverse head and shoulders pattern: three troughs with a neckline at the top" />
 
 <div class="wiki-infobox-caption">Inverse head and shoulders: left shoulder, deep head, right shoulder; break above neckline signals reversal.</div>
 

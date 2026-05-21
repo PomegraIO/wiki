@@ -7,7 +7,7 @@ keywords:
   - first impression
   - latest impression
   - temporal bias
-image: "https://picsum.photos/seed/recency-and-primacy-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The recency effect is the tendency to overweight recent information. The primacy effect is the tendency to overweight initial information. Both biases operate together, causing you to overvalue the first data point you see and the most recent data point you see, while undervaluing information in the middle. This creates temporal biases in judgment.*
@@ -22,7 +22,7 @@ Related to recency bias and anchoring bias. The two effects can contradict each 
 
 <div class="wiki-infobox-title">Recency and primacy effect — key facts</div>
 
-<img src="https://picsum.photos/seed/recency-and-primacy-effect/900/600" alt="A timeline with emphasis on the first and last items" />
+<img src="/svg/behavioral.svg" alt="A timeline with emphasis on the first and last items" />
 
 <div class="wiki-infobox-caption">First and last make the strongest impressions; the middle fades.</div>
 

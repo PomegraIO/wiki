@@ -8,7 +8,7 @@ keywords:
   - quality factor
   - smart beta
   - fund
-image: "https://picsum.photos/seed/factor-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **factor ETF** is an [ETF](/etf) designed to provide systematic exposure to a specific investment factor — value, momentum, quality, dividend yield, or low volatility — that is believed to drive returns. Factor ETFs are a form of [smart beta](/smart-beta-etf) strategy and allow investors to make targeted bets on specific return drivers.*
@@ -23,7 +23,7 @@ This entry covers individual factors in isolation. For an overview of factor-bas
 
 <div class="wiki-infobox-title">Factor ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/factor-etf/900/600" alt="A heatmap showing factor performance across different time periods" />
+<img src="/svg/funds.svg" alt="A heatmap showing factor performance across different time periods" />
 
 <div class="wiki-infobox-caption">Factor ETFs isolate individual return drivers within the stock market.</div>
 

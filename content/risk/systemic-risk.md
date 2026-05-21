@@ -7,7 +7,7 @@ keywords:
   - contagion
   - too big to fail
   - interconnectedness
-image: "https://picsum.photos/seed/systemic-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Systemic risk is the probability that a shock to the financial system — whether from a major institution's failure, a sudden market dislocation, or a loss of confidence — will cascade through interconnected markets and institutions and threaten the stability of the entire economy. Unlike [market-risk](/market-risk) or [credit-risk](/credit-risk), systemic risk is about system-wide failure, not individual asset or counterparty loss.*
@@ -22,7 +22,7 @@ This entry covers the risk of financial system collapse. For the risk that a sin
 
 <div class="wiki-infobox-title">Systemic Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/systemic-risk/900/600" alt="A network of nodes and links with one node flashing red, spreading to others" />
+<img src="/svg/risk.svg" alt="A network of nodes and links with one node flashing red, spreading to others" />
 
 <div class="wiki-infobox-caption">Systemic risk spreads through interconnected financial networks.</div>
 

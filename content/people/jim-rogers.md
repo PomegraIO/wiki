@@ -7,7 +7,7 @@ keywords:
   - commodities
   - emerging markets
   - motorcycle
-image: "https://picsum.photos/seed/jim-rogers/900/600"
+image: "/svg/people.svg"
 ---
 
 *Jim Rogers proved that a trader who combined encyclopedic knowledge of global markets, a contrarian temperament, and the willingness to travel the world to understand ground truth could identify massive secular shifts — and profit enormously from them.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/jim-rogers/900/600"
 
 <div class="wiki-infobox-title">Jim Rogers — key facts</div>
 
-<img src="https://picsum.photos/seed/jim-rogers/900/600" alt="A motorcycle traveling through a vast empty landscape" />
+<img src="/svg/people.svg" alt="A motorcycle traveling through a vast empty landscape" />
 
 <div class="wiki-infobox-caption">The method of his research — direct observation of the world beyond markets.</div>
 

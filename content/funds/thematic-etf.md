@@ -8,7 +8,7 @@ keywords:
   - renewable energy
   - innovation ETF
   - fund
-image: "https://picsum.photos/seed/thematic-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **thematic ETF** is an [ETF](/etf) that concentrates on companies benefiting from a specific mega-trend or investment theme — artificial intelligence, renewable energy, space exploration, genetic engineering, cybersecurity, electric vehicles, fintech. Thematic ETFs are speculative growth bets designed to capture long-term structural shifts, not [diversified](/diversification) core holdings.*
@@ -23,7 +23,7 @@ This entry covers thematic ETFs as tactical vehicles. For diversified [equity](/
 
 <div class="wiki-infobox-title">Thematic ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/thematic-etf/900/600" alt="A digital representation of emerging technology trends" />
+<img src="/svg/funds.svg" alt="A digital representation of emerging technology trends" />
 
 <div class="wiki-infobox-caption">Thematic ETFs concentrate on future-oriented investment narratives.</div>
 

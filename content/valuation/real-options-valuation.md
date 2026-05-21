@@ -7,7 +7,7 @@ keywords:
   - strategic options
   - valuation
   - optionality
-image: "https://picsum.photos/seed/real-options-valuation/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **real options** valuation treats business decisions as embedded options—just like a stock option gives you the right to buy a stock at a future price, a business decision gives management the right to act under uncertain conditions. Waiting to build a factory, abandoning a project, expanding a successful business, or pivoting to a new market are all options. Valuing them requires options pricing theory, not traditional DCF.*

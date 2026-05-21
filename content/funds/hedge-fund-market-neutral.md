@@ -8,7 +8,7 @@ keywords:
   - alpha generation
   - long short
   - fund
-image: "https://picsum.photos/seed/hedge-fund-market-neutral/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **market-neutral hedge fund** is a [hedge fund](/hedge-fund) constructed to have zero net exposure to market movements. The fund holds equal-dollar amounts of long positions (stocks it expects to outperform) and short positions (stocks it expects to underperform), so gains from long positions offset losses from short positions if the market moves. Market-neutral funds aim to generate [alpha](/alpha) (stock-picking profits) independent of market [beta](/beta).*
@@ -23,7 +23,7 @@ This entry covers market-neutral strategy. For related strategies, see [hedge fu
 
 <div class="wiki-infobox-title">Market-Neutral Hedge Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/hedge-fund-market-neutral/900/600" alt="A balanced scale showing equal long and short exposure" />
+<img src="/svg/funds.svg" alt="A balanced scale showing equal long and short exposure" />
 
 <div class="wiki-infobox-caption">Market-neutral funds isolate stock-picking skill from market movements.</div>
 

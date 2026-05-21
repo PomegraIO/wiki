@@ -6,7 +6,7 @@ keywords:
   - federal estate tax
   - inheritance tax
   - wealth transfer
-image: "https://picsum.photos/seed/estate-tax-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **federal estate tax** is a tax on large estates transferred at death. The current exemption is nearly $13.61 million per person (2024), adjusted annually for inflation. Estates exceeding the exemption are taxed at 40%. For many investors, the primary estate tax concern is planning to use the exemption and potentially save taxes through portability and trust structures. [Step-up in basis](/step-up-in-basis/) for heirs is a major tax benefit on inherited assets.*
@@ -21,7 +21,7 @@ For inherited assets, see [step-up in basis](/step-up-in-basis/). For trust stru
 
 <div class="wiki-infobox-title">Estate tax for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/estate-tax-investor/900/600" alt="An estate being divided among heirs" />
+<img src="/svg/taxes.svg" alt="An estate being divided among heirs" />
 
 <div class="wiki-infobox-caption">Large estates face 40% federal tax above the exemption threshold.</div>
 

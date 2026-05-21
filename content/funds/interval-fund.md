@@ -7,7 +7,7 @@ keywords:
   - limited redemptions
   - illiquid investment
   - fund
-image: "https://picsum.photos/seed/interval-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **interval fund** is a [closed-end mutual fund](/closed-end-fund) (or interval company) that restricts redemptions to specific periods — typically quarterly or semi-annually. Shareholders can only exit during redemption windows, accepting illiquidity in exchange for higher yields. Interval funds occupy a middle ground between [open-end funds](/open-end-fund) (which redeem daily) and [closed-end funds](/closed-end-fund) (which never redeem).*
@@ -22,7 +22,7 @@ This entry covers interval funds structurally. For broader fund structures, see 
 
 <div class="wiki-infobox-title">Interval Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/interval-fund/900/600" alt="A calendar showing quarterly redemption windows" />
+<img src="/svg/funds.svg" alt="A calendar showing quarterly redemption windows" />
 
 <div class="wiki-infobox-caption">Interval funds restrict exits to set redemption periods.</div>
 

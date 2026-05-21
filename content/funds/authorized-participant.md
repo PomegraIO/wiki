@@ -8,7 +8,7 @@ keywords:
   - creation and redemption
   - market maker
   - fund
-image: "https://picsum.photos/seed/authorized-participant/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **authorized participant (AP)** is a large financial institution — typically a broker-dealer or market maker — that has been authorized by an [ETF](/etf) issuer to participate in the [creation and redemption](/etf-creation-redemption) process. APs buy baskets of the underlying [stocks](/stock) or [bonds](/bond) and exchange them for newly issued ETF shares, or exchange existing ETF shares for underlying securities. This role makes APs essential to [ETF](/etf) functioning and pricing efficiency.*
@@ -23,7 +23,7 @@ This entry covers APs as market participants. For the process they execute, see 
 
 <div class="wiki-infobox-title">Authorized Participant — key facts</div>
 
-<img src="https://picsum.photos/seed/authorized-participant/900/600" alt="A trader managing multiple orders at a trading desk" />
+<img src="/svg/funds.svg" alt="A trader managing multiple orders at a trading desk" />
 
 <div class="wiki-infobox-caption">Authorized participants maintain ETF efficiency through creation and redemption.</div>
 

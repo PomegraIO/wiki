@@ -8,7 +8,7 @@ keywords:
   - income strategy
   - cash flow
   - dividend stocks
-image: "https://picsum.photos/seed/dividend-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Dividend investing is a strategy that prioritizes stocks paying regular cash [dividends](/dividend/) to shareholders, seeking to generate current income while potentially benefiting from [capital appreciation](/stock/). The strategy appeals to investors who want cash flow from their portfolio or who value the psychological discipline that dividends impose.*
@@ -23,7 +23,7 @@ For rapidly rising dividends, see [dividend-growth investing](/dividend-growth-i
 
 <div class="wiki-infobox-title">Dividend investing — key facts</div>
 
-<img src="https://picsum.photos/seed/dividend-investing/900/600" alt="A steady quarterly dividend payment diagram" />
+<img src="/svg/strategies.svg" alt="A steady quarterly dividend payment diagram" />
 
 <div class="wiki-infobox-caption">Dividend investors collect regular cash while holding patient stakes in established businesses.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - OTC forward
   - currency hedge
   - binding contract
-image: "https://picsum.photos/seed/fx-forward/900/600"
+image: "/svg/forex.svg"
 ---
 
 *An **FX forward** (or **forward contract**) is a binding agreement to exchange two [currencies](/currency-pair) at a rate agreed today, with settlement at a future date. Unlike a [spot transaction](/spot-exchange-rate) (which settles in two days) or a [currency option](/currency-option) (which gives a right), a forward is an obligation. When the settlement date arrives, both parties must exchange the currencies at the locked-in rate, regardless of what the [spot rate](/spot-exchange-rate) has become.*
@@ -22,7 +22,7 @@ For optional exposure, see [currency option](/currency-option); for exchange-tra
 
 <div class="wiki-infobox-title">FX Forward — key facts</div>
 
-<img src="https://picsum.photos/seed/fx-forward/900/600" alt="A forward contract timeline and payoff diagram" />
+<img src="/svg/forex.svg" alt="A forward contract timeline and payoff diagram" />
 
 <div class="wiki-infobox-caption">Locked-in rate today; settlement in the future at that rate.</div>
 

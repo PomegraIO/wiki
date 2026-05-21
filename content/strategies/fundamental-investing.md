@@ -8,7 +8,7 @@ keywords:
   - intrinsic value
   - company research
   - financial statements
-image: "https://picsum.photos/seed/fundamental-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Fundamental investing is an approach to selecting [stocks](/stock/) rooted in deep analysis of financial statements, competitive dynamics, and management quality to estimate a company's true economic value, then buying when the price is attractive relative to that estimate.*
@@ -23,7 +23,7 @@ For value-oriented fundamental investing, see [value investing](/value-investing
 
 <div class="wiki-infobox-title">Fundamental investing — key facts</div>
 
-<img src="https://picsum.photos/seed/fundamental-investing/900/600" alt="A spreadsheet with detailed financial analysis and valuation models" />
+<img src="/svg/strategies.svg" alt="A spreadsheet with detailed financial analysis and valuation models" />
 
 <div class="wiki-infobox-caption">Fundamental investors build detailed models to estimate intrinsic value, then hunt for discounts.</div>
 

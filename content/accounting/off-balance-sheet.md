@@ -7,7 +7,7 @@ keywords:
   - special purpose entity
   - financial obligation
   - disclosure
-image: "https://picsum.photos/seed/off-balance-sheet/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Off-balance-sheet](/off-balance-sheet) refers to assets, liabilities, commitments, or risks that do not appear on the [balance sheet](/balance-sheet) because they do not meet the accounting criteria for recognition. They may still represent real economic obligations or risks. Common examples include [operating leases](/operating-lease) (now mostly on balance sheet after ASC 842), special-purpose entities (SPEs), operating commitments, and contingent liabilities. [Off-balance-sheet](/off-balance-sheet) items can represent genuine obligations (a company commits to buy equipment but the contract is unsigned), or they can be structurally created to hide leverage. Investors must read footnotes carefully to understand a company's true economic commitments.*
@@ -22,7 +22,7 @@ This entry covers off-balance-sheet concepts in general. For a specific case, se
 
 <div class="wiki-infobox-title">Off-balance-sheet — key facts</div>
 
-<img src="https://picsum.photos/seed/off-balance-sheet/900/600" alt="A balance sheet with a footnote showing undisclosed obligations" />
+<img src="/svg/accounting.svg" alt="A balance sheet with a footnote showing undisclosed obligations" />
 
 <div class="wiki-infobox-caption">Off-balance-sheet items are disclosed in footnotes but not on the balance sheet.</div>
 

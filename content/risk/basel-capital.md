@@ -7,7 +7,7 @@ keywords:
   - Basel III
   - international capital standards
   - regulatory capital
-image: "https://picsum.photos/seed/basel-capital/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Basel capital refers to the Basel Accords — a series of international regulatory frameworks, most recently **Basel III** (agreed 2010, implemented 2013+), that establish minimum [capital-adequacy](/capital-adequacy) standards for banks. These standards are agreed upon by central banks and financial regulators of the Group of Twenty (G20) nations and adopted globally.*
@@ -22,7 +22,7 @@ This entry covers the Basel framework. For the capital adequacy concept itself, 
 
 <div class="wiki-infobox-title">Basel Capital — key facts</div>
 
-<img src="https://picsum.photos/seed/basel-capital/900/600" alt="A globe with overlapping circles representing the Basel Committee consensus" />
+<img src="/svg/risk.svg" alt="A globe with overlapping circles representing the Basel Committee consensus" />
 
 <div class="wiki-infobox-caption">Basel standards are global; all major banks must comply.</div>
 

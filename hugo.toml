@@ -52,6 +52,10 @@ uglyURLs = false
   githubURL = 'https://github.com/PomegraIO'
   twitterURL = 'https://twitter.com/pomegra_io'
   logo = 'img/logo.svg'
+  # linkCount is the latest total reported by `python scripts/check_links.py`.
+  # Surfaced on the home page as one of the four stat tiles. Re-bump after a
+  # content sweep so the figure stays honest.
+  linkCount = 10553
 
 # Subdirectories under content/ are used purely for editorial organisation —
 # the actual URL of an entry is always /:contentbasename/, regardless of which

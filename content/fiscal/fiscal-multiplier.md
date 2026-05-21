@@ -7,7 +7,7 @@ keywords:
   - economic stimulus
   - output response
   - keynesian economics
-image: "https://picsum.photos/seed/fiscal-multiplier/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **fiscal multiplier** is the ratio of the change in [GDP](/central-bank) to a change in government spending or taxes. It measures how much additional economic output is generated for each dollar the government spends or cuts in taxes, capturing the ripple effects through the economy.*
@@ -22,7 +22,7 @@ This entry covers the multiplier effect. For its application, see fiscal stimulu
 
 <div class="wiki-infobox-title">Fiscal Multiplier — key facts</div>
 
-<img src="https://picsum.photos/seed/fiscal-multiplier/900/600" alt="Fiscal multiplier" />
+<img src="/svg/fiscal.svg" alt="Fiscal multiplier" />
 
 <div class="wiki-infobox-caption">The multiplier shows how stimulus ripples through the economy.</div>
 

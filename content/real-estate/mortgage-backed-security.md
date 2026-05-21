@@ -7,7 +7,7 @@ keywords:
   - mortgage bond
   - agency MBS
   - non-agency MBS
-image: "https://picsum.photos/seed/mortgage-backed-security/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **mortgage-backed security** (MBS) is a fixed-income security backed by a pool of mortgages. MBS investors receive monthly principal and interest payments from borrowers; securities are issued by government agencies ([Fannie Mae](/fannie-mae), [Freddie Mac](/freddie-mac), Ginnie Mae) or private institutions.*
@@ -22,7 +22,7 @@ For related securities, see agency-mbs (government-backed), non-agency-mbs (priv
 
 <div class="wiki-infobox-title">Mortgage-Backed Security — key facts</div>
 
-<img src="https://picsum.photos/seed/mortgage-backed-security/900/600" alt="A mortgage-backed security prospectus and pricing" />
+<img src="/svg/real-estate.svg" alt="A mortgage-backed security prospectus and pricing" />
 
 <div class="wiki-infobox-caption">MBS investors receive monthly payments from pools of mortgages.</div>
 

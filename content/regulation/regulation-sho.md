@@ -7,7 +7,7 @@ keywords:
   - short selling
   - locate rule
   - naked short selling
-image: "https://picsum.photos/seed/regulation-sho/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation SHO](/regulation-sho) is an [SEC](/securities-and-exchange-commission) rule that regulates [short selling](/short-selling). It requires brokers to have a reasonable belief that shares can be borrowed before allowing a customer to short a stock, and imposes penalties (buyins) if the short seller fails to deliver shares within a specified time. Reg SHO was meant to prevent "naked short selling" — selling shares that do not exist.*
@@ -22,7 +22,7 @@ Regulation SHO regulates short selling mechanics. [Insider trading law](/insider
 
 <div class="wiki-infobox-title">Regulation SHO — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-sho/900/600" alt="A short selling trade" />
+<img src="/svg/regulation.svg" alt="A short selling trade" />
 
 <div class="wiki-infobox-caption">A short seller betting on a stock decline.</div>
 

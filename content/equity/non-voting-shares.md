@@ -7,7 +7,7 @@ keywords:
   - share class
   - restricted voting
   - economic interest
-image: "https://picsum.photos/seed/non-voting-shares/900/600"
+image: "/svg/equity.svg"
 ---
 
 *Non-voting shares are a [share class](/equity/share-class/) that carries no voting rights but retains full economic interest in the company — all rights to [dividends](/dividend/), capital gains, and claims in liquidation. They are used less frequently than [dual-class shares](/equity/dual-class-shares/) but serve similar purposes: concentrating control while raising capital from public investors.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/non-voting-shares/900/600"
 
 <div class="wiki-infobox-title">Non-voting shares — key facts</div>
 
-<img src="https://picsum.photos/seed/non-voting-shares/900/600" alt="A shareholder meeting showing voting and non-voting shareholders" />
+<img src="/svg/equity.svg" alt="A shareholder meeting showing voting and non-voting shareholders" />
 
 <div class="wiki-infobox-caption">Full economic participation, zero voting power.</div>
 

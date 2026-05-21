@@ -7,7 +7,7 @@ keywords:
   - citrus
   - futures
   - Florida
-image: "https://picsum.photos/seed/orange-juice/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *An **orange juice** — a commodity derived from oranges and traded as frozen concentrate — is consumed globally and traded on futures exchanges. Orange juice prices are exceptionally volatile, driven by frost risk in Florida (which produces 90% of US orange juice), disease outbreaks (citrus greening), and Brazilian weather. A single freeze can spike prices 50–100% in weeks.*
@@ -22,7 +22,7 @@ This entry covers orange juice as a traded commodity. Frozen concentrated orange
 
 <div class="wiki-infobox-title">Orange Juice — key facts</div>
 
-<img src="https://picsum.photos/seed/orange-juice/900/600" alt="Orange grove and juice processing" />
+<img src="/svg/commodities.svg" alt="Orange grove and juice processing" />
 
 <div class="wiki-infobox-caption">Orange grove — Florida supplies 90% of US OJ.</div>
 

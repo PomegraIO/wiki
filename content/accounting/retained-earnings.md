@@ -7,7 +7,7 @@ keywords:
   - reinvested earnings
   - shareholders' equity
   - dividend policy
-image: "https://picsum.photos/seed/retained-earnings/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Retained earnings](/retained-earnings) is the total cumulative profit a company has earned since inception, minus dividends paid and any other items affecting equity (like impairments or losses). It represents the earnings the company has reinvested in the business rather than returned to shareholders. [Retained earnings](/retained-earnings) appears on the [balance sheet](/balance-sheet) as a component of shareholders' equity. For a mature, profitable company, [retained earnings](/retained-earnings) is the largest equity component. [Retained earnings](/retained-earnings) reflects the company's dividend policy: a company that returns all profit as dividends has low [retained earnings](/retained-earnings); one that reinvests everything has high [retained earnings](/retained-earnings).*
@@ -22,7 +22,7 @@ This entry covers retained earnings as a balance sheet concept. For changes over
 
 <div class="wiki-infobox-title">Retained earnings — key facts</div>
 
-<img src="https://picsum.photos/seed/retained-earnings/900/600" alt="A balance sheet showing retained earnings as the largest equity component" />
+<img src="/svg/accounting.svg" alt="A balance sheet showing retained earnings as the largest equity component" />
 
 <div class="wiki-infobox-caption">Retained earnings accumulates profit not paid as dividends.</div>
 

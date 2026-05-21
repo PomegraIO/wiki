@@ -7,7 +7,7 @@ keywords:
   - loss domain
   - behavioral finance
   - prospect theory
-image: "https://picsum.photos/seed/reflection-effect/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The reflection effect is the reversal of risk preference depending on whether choices are framed as gains or losses. When facing potential gains, people are risk-averse (they prefer a sure thing). When facing potential losses, people become risk-seeking (they prefer to gamble). This asymmetry is a direct consequence of [loss aversion](/loss-aversion) and is one of the key patterns explained by [prospect theory](/prospect-theory).*
@@ -22,7 +22,7 @@ A core prediction of prospect theory. For the asymmetry driving it, see [loss av
 
 <div class="wiki-infobox-title">Reflection effect — key facts</div>
 
-<img src="https://picsum.photos/seed/reflection-effect/900/600" alt="A mirror showing inverted risk preferences" />
+<img src="/svg/behavioral.svg" alt="A mirror showing inverted risk preferences" />
 
 <div class="wiki-infobox-caption">Risk preference mirrors across the zero line: averse to gains, seeking in losses.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - capital return
   - shareholder payout
   - cash distribution
-image: "https://picsum.photos/seed/special-dividend/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **special dividend** (or **extraordinary dividend**) is a one-time dividend payment to shareholders outside the company's regular quarterly dividend schedule. Special dividends are funded by exceptional circumstances — a large asset sale, unplanned windfall cash, or a strategic decision to return accumulated cash to shareholders. Unlike regular dividends, which signal a company's commitment to ongoing distributions, special dividends are non-recurring events. They are tools for capital allocation, and they signal that management has excess capital it does not need for operations or growth.*
@@ -22,7 +22,7 @@ This entry covers special dividends as a capital allocation mechanism. For regul
 
 <div class="wiki-infobox-title">Special dividend — key facts</div>
 
-<img src="https://picsum.photos/seed/special-dividend/900/600" alt="A one-time dividend payment" />
+<img src="/svg/corporate.svg" alt="A one-time dividend payment" />
 
 <div class="wiki-infobox-caption">A special dividend returns excess capital to shareholders.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - exchange rate risk
   - foreign exchange exposure
   - hedging FX
-image: "https://picsum.photos/seed/currency-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Currency risk — also called **foreign exchange risk** or **FX risk** — is the exposure of an investment portfolio to losses from unfavourable changes in exchange rates between currencies. When you invest in a [bond](/bond) denominated in euros or a [stock](/stock) trading in yen, you bear both the asset's own [market risk](/market-risk) and the risk that your currency falls against the euro or yen, eroding returns.*
@@ -22,7 +22,7 @@ This entry covers foreign exchange exposure. For the risk that a government cont
 
 <div class="wiki-infobox-title">Currency Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-risk/900/600" alt="A currency board showing multiple flag symbols with up and down arrows" />
+<img src="/svg/risk.svg" alt="A currency board showing multiple flag symbols with up and down arrows" />
 
 <div class="wiki-infobox-caption">Currency moves add another dimension of risk to foreign investments.</div>
 

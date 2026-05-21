@@ -8,7 +8,7 @@ keywords:
   - validator
   - beacon chain
   - energy
-image: "https://picsum.photos/seed/ethereum-merge/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *The **Ethereum Merge** was a major network upgrade executed on 15 September 2022, where [Ethereum](/ethereum) transitioned from [proof-of-work](/proof-of-work) consensus (using miners) to [proof-of-stake](/proof-of-stake) consensus (using validators). The upgrade reduced Ethereum's energy consumption by roughly 99.95% and was the most significant change to the network since its launch.*
@@ -23,7 +23,7 @@ This entry covers the Merge as a technical event. For Ethereum's broader history
 
 <div class="wiki-infobox-title">Ethereum Merge — key facts</div>
 
-<img src="https://picsum.photos/seed/ethereum-merge/900/600" alt="Ethereum transition from mining to staking" />
+<img src="/svg/crypto.svg" alt="Ethereum transition from mining to staking" />
 
 <div class="wiki-infobox-caption">The Merge: 99.95% energy reduction overnight.</div>
 

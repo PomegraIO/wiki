@@ -7,7 +7,7 @@ keywords:
   - dissolution
   - corporate restructuring
   - conglomerate breakup
-image: "https://picsum.photos/seed/split-up/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **split-up** is a corporate action in which a company completely divides into two or more independent companies, with the original company ceasing to exist. Unlike a [spinoff](/spinoff) (where parent continues and distributes subsidiary), a split-up fully dissolves the parent and distributes all its assets/divisions to shareholders as independent companies. All shareholders receive shares in multiple new companies but own nothing in the original parent, which no longer exists. Split-ups are rarer than spinoffs because they are more complex and disruptive.*
@@ -22,7 +22,7 @@ This entry covers split-ups as a complete separation mechanism. For partial sepa
 
 <div class="wiki-infobox-title">Split-up — key facts</div>
 
-<img src="https://picsum.photos/seed/split-up/900/600" alt="A company dividing completely into multiple companies" />
+<img src="/svg/corporate.svg" alt="A company dividing completely into multiple companies" />
 
 <div class="wiki-infobox-caption">A split-up divides a company entirely; parent ceases to exist.</div>
 

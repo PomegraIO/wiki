@@ -7,7 +7,7 @@ keywords:
   - unqualified opinion
   - qualified opinion
   - audit attestation
-image: "https://picsum.photos/seed/audit-opinion/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **audit opinion** is the auditor's formal conclusion about whether a company's financial statements are fairly presented in accordance with [GAAP](/generally-accepted-accounting-principles) and whether internal controls are effective. The [audit opinion](/audit-opinion) appears in the [10-K](/10-k) and is critical: an unqualified opinion (clean opinion) gives investors confidence; a qualified opinion or disclaimer signals concerns. Types include **unqualified opinion** (clean), **qualified opinion** (with exceptions), **adverse opinion** (statements are not fairly presented), and **disclaimer of opinion** (auditor could not complete the audit). A going-concern-opinion is a special type of qualification.*
@@ -22,7 +22,7 @@ This entry covers audit opinions in general. For the going concern version, see 
 
 <div class="wiki-infobox-title">Audit opinion — key facts</div>
 
-<img src="https://picsum.photos/seed/audit-opinion/900/600" alt="An auditor's report certifying the fairness of financial statements" />
+<img src="/svg/accounting.svg" alt="An auditor's report certifying the fairness of financial statements" />
 
 <div class="wiki-infobox-caption">The audit opinion certifies whether statements are fairly presented.</div>
 

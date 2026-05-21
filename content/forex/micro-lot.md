@@ -7,7 +7,7 @@ keywords:
   - beginner lot size
   - smallest lot
   - risk management
-image: "https://picsum.photos/seed/micro-lot/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **micro lot** is 1,000 units of the base currency in a [currency pair](/currency-pair). It is one-hundredth the size of a [standard lot](/standard-lot) and one-tenth the size of a [mini lot](/mini-lot), producing $0.10 of profit or loss per [pip](/pip) for most pairs. Micro lots are the smallest practical size in FX markets and are ideal for new traders learning with real money.*
@@ -22,7 +22,7 @@ For the next step up, see [mini lot](/mini-lot); for the largest institutional s
 
 <div class="wiki-infobox-title">Micro Lot — key facts</div>
 
-<img src="https://picsum.photos/seed/micro-lot/900/600" alt="A micro lot of 1,000 units" />
+<img src="/svg/forex.svg" alt="A micro lot of 1,000 units" />
 
 <div class="wiki-infobox-caption">The smallest liquid lot size; ideal for learning.</div>
 

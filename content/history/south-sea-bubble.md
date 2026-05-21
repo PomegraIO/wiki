@@ -7,7 +7,7 @@ keywords:
   - England
   - speculative crash
   - financial crisis
-image: "https://picsum.photos/seed/south-sea-bubble/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **South Sea Bubble** was a speculative implosion in 1720 that destroyed fortunes across England, Scotland, and Europe. Shares of the South Sea Company, promised riches from South American trade, soared on inflated expectations and manipulation, then collapsed, triggering one of the first true financial panics and exposing the dangers of speculation without transparency.*
@@ -22,7 +22,7 @@ This entry covers the South Sea Company crash. For the broader phenomenon of spe
 
 <div class="wiki-infobox-title">South Sea Bubble — key facts</div>
 
-<img src="https://picsum.photos/seed/south-sea-bubble/900/600" alt="A period engraving showing investors crowding around stock dealers during the South Sea frenzy" />
+<img src="/svg/history.svg" alt="A period engraving showing investors crowding around stock dealers during the South Sea frenzy" />
 
 <div class="wiki-infobox-caption">Contemporary engraving of the South Sea Exchange Alley mob, where investors and speculators fought for shares.</div>
 

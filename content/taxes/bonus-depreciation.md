@@ -6,7 +6,7 @@ keywords:
   - accelerated depreciation
   - equipment
   - 100% deduction
-image: "https://picsum.photos/seed/bonus-depreciation/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **bonus depreciation** provision allows businesses to immediately deduct a large percentage of the cost of eligible property in the year of purchase. Through 2025, the deduction is 100%; it then phases down to 80% (2026), 60% (2027), 40% (2028), 20% (2029), and 0% (2030 onward). This is more generous than the $1.22 million cap on [Section 179 deductions](/section-179-deduction/), making bonus depreciation the primary tool for accelerating equipment deductions in modern tax practice.*
@@ -21,7 +21,7 @@ For the capped alternative, see [Section 179 deduction](/section-179-deduction/)
 
 <div class="wiki-infobox-title">Bonus depreciation — key facts</div>
 
-<img src="https://picsum.photos/seed/bonus-depreciation/900/600" alt="A phased-down bonus depreciation schedule" />
+<img src="/svg/taxes.svg" alt="A phased-down bonus depreciation schedule" />
 
 <div class="wiki-infobox-caption">100% bonus (through 2025), then phases down 20% per year.</div>
 

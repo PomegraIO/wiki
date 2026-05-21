@@ -6,7 +6,7 @@ keywords:
   - 30-day rule
   - loss deduction
   - tax harvesting
-image: "https://picsum.photos/seed/wash-sale-30-day-rule/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **wash-sale 30-day rule** is the core mechanism of the [wash-sale](/wash-sale/) restriction. If you sell a security at a loss and purchase a substantially identical security within 30 days *before* or 30 days *after* the sale, the loss is disallowed and added to your [cost basis](/cost-basis/) of the new purchase. This 61-day window (30 before + 30 after + the sale date) prevents investors from harvesting losses while maintaining identical market exposure.*
@@ -21,7 +21,7 @@ For the broader rule, see [wash-sale](/wash-sale/). For the definition of "subst
 
 <div class="wiki-infobox-title">Wash-sale 30-day rule — key facts</div>
 
-<img src="https://picsum.photos/seed/wash-sale-30-day-rule/900/600" alt="A calendar showing the 30-day before and after window" />
+<img src="/svg/taxes.svg" alt="A calendar showing the 30-day before and after window" />
 
 <div class="wiki-infobox-caption">Wait 31 days after selling a loser to repurchase without triggering wash-sale.</div>
 

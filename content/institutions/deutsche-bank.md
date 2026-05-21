@@ -7,7 +7,7 @@ keywords:
   - investment bank
   - Frankfurt
   - bank
-image: "https://picsum.photos/seed/deutsche-bank/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Deutsche Bank AG** is Germany's largest [bank](/broker) and a major global financial institution, headquartered in Frankfurt. Operating through corporate banking, investment banking, wealth management, and asset management divisions, Deutsche Bank serves corporations, governments, sovereigns, and institutional investors worldwide and is a leading European [investment bank](/broker).*
@@ -22,7 +22,7 @@ Deutsche Bank was founded in 1870 and is one of Europe's oldest and most influen
 
 <div class="wiki-infobox-title">Deutsche Bank — key facts</div>
 
-<img src="https://picsum.photos/seed/deutsche-bank/900/600" alt="Deutsche Bank headquarters in Frankfurt" />
+<img src="/svg/institutions.svg" alt="Deutsche Bank headquarters in Frankfurt" />
 
 <div class="wiki-infobox-caption">Deutsche Bank Twin Towers headquarters in Frankfurt am Main.</div>
 

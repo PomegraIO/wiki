@@ -7,7 +7,7 @@ keywords:
   - receivables aging
   - collection
   - asset
-image: "https://picsum.photos/seed/accounts-receivable/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Accounts receivable](/accounts-receivable) is an asset on the [balance sheet](/balance-sheet) representing the amount that customers owe the company for goods or services already delivered or performed. It exists because companies use [accrual-accounting](/accrual-accounting): revenue is recognized when delivered, not when cash is received. Until a customer pays, the unpaid amount is carried as [accounts receivable](/accounts-receivable). Managing [accounts receivable](/accounts-receivable) is critical: it represents cash tied up in the business, and some amounts will never be collected. The [allowance-for-doubtful-accounts](/allowance-for-doubtful-accounts) is the offsetting reserve.*
@@ -22,7 +22,7 @@ This entry covers accounts receivable as a balance sheet item. For the allowance
 
 <div class="wiki-infobox-title">Accounts receivable — key facts</div>
 
-<img src="https://picsum.photos/seed/accounts-receivable/900/600" alt="A balance sheet excerpt showing accounts receivable and the related allowance" />
+<img src="/svg/accounting.svg" alt="A balance sheet excerpt showing accounts receivable and the related allowance" />
 
 <div class="wiki-infobox-caption">Accounts receivable is reduced by the allowance for doubtful accounts.</div>
 

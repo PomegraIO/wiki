@@ -7,7 +7,7 @@ keywords:
   - liquid savings
   - financial safety net
   - expense buffer
-image: "https://picsum.photos/seed/emergency-fund/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *An **emergency fund** is money kept in a readily accessible savings account — separate from your everyday spending and long-term investments — to cover unexpected large expenses or a sudden loss of income without forcing you to borrow, sell investments, or derail your financial plans.*
@@ -22,7 +22,7 @@ For strategies on how to replenish an emergency fund after a withdrawal, see [bu
 
 <div class="wiki-infobox-title">Emergency Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/emergency-fund/900/600" alt="A piggy bank surrounded by coins and paper currency" />
+<img src="/svg/personal-finance.svg" alt="A piggy bank surrounded by coins and paper currency" />
 
 <div class="wiki-infobox-caption">Physical metaphor for the abstraction: money set apart for the unpredictable.</div>
 

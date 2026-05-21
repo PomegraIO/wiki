@@ -8,7 +8,7 @@ keywords:
   - treasury bill
   - commercial paper
   - fund
-image: "https://picsum.photos/seed/money-market-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **money market fund** is a [mutual fund](/mutual-fund) that invests exclusively in short-term, highly liquid, low-risk securities — US Treasury bills, commercial paper (short-term corporate debt), certificates of deposit, and repurchase agreements. Money market funds aim to preserve capital and earn a modest [yield](/bond) while maintaining liquidity. They are the closest thing to a "cash" investment that offers [interest](/interest-rate) income.*
@@ -23,7 +23,7 @@ This entry covers money market funds. For broader fixed-income investing, see [b
 
 <div class="wiki-infobox-title">Money Market Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/money-market-fund/900/600" alt="Stacked US dollar bills representing cash equivalents" />
+<img src="/svg/funds.svg" alt="Stacked US dollar bills representing cash equivalents" />
 
 <div class="wiki-infobox-caption">Money market funds offer stability and modest returns for short-term holdings.</div>
 

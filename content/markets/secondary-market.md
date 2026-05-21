@@ -8,7 +8,7 @@ keywords:
   - liquidity
   - price discovery
   - trading venue
-image: "https://picsum.photos/seed/secondary-market/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **secondary market** is the marketplace where investors buy and sell securities that have already been issued. It encompasses [stock exchanges](/stock-exchange), electronic communication networks, [dark pools](/dark-pool-detail), and [over-the-counter](/over-the-counter-market) markets. Unlike the [primary market](/primary-market), where the issuer receives cash, secondary market transactions involve only buyers and sellers; the issuer is uninvolved and receives no proceeds.*
@@ -23,7 +23,7 @@ This entry is about the vast trading infrastructure where existing securities ch
 
 <div class="wiki-infobox-title">Secondary Market — key facts</div>
 
-<img src="https://picsum.photos/seed/secondary-market/900/600" alt="A busy trading floor with multiple screens showing stock prices and order flows" />
+<img src="/svg/markets.svg" alt="A busy trading floor with multiple screens showing stock prices and order flows" />
 
 <div class="wiki-infobox-caption">The secondary market is where nearly all investor trading occurs — billions of shares exchanging hands daily.</div>
 

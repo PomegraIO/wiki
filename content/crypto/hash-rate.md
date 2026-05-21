@@ -8,7 +8,7 @@ keywords:
   - hashrate
   - network security
   - bitcoin
-image: "https://picsum.photos/seed/hash-rate/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **hash rate** is a measure of the total computational power in a [proof-of-work](/proof-of-work) [blockchain](/blockchain-fundamentals), measured in hashes per second. The network's hash rate indicates how much work is being performed to secure the blockchain. Higher hash rate means more security but also more energy consumption.*
@@ -23,7 +23,7 @@ This entry covers hash rate as a network metric. For the underlying mining, see 
 
 <div class="wiki-infobox-title">Hash Rate — key facts</div>
 
-<img src="https://picsum.photos/seed/hash-rate/900/600" alt="Network hash rate over time" />
+<img src="/svg/crypto.svg" alt="Network hash rate over time" />
 
 <div class="wiki-infobox-caption">Hash rate: a measure of mining power securing the network.</div>
 

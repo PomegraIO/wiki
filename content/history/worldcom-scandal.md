@@ -7,7 +7,7 @@ keywords:
   - accounting fraud
   - telecom collapse
   - bankruptcy
-image: "https://picsum.photos/seed/worldcom-scandal/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **WorldCom Scandal** was the uncovering of massive accounting fraud at the telecommunications company WorldCom, which led to its collapse in 2002. WorldCom had inflated earnings by billions of dollars through fraudulent accounting, including capitalization of ordinary operating expenses. The company's bankruptcy wiped out $180 billion in market value, surpassing Enron as the largest bankruptcy in US history at the time.*
@@ -22,7 +22,7 @@ This entry covers the WorldCom collapse. For the prior scandal that preceded it,
 
 <div class="wiki-infobox-title">WorldCom Scandal — key facts</div>
 
-<img src="https://picsum.photos/seed/worldcom-scandal/900/600" alt="A photograph of the WorldCom offices" />
+<img src="/svg/history.svg" alt="A photograph of the WorldCom offices" />
 
 <div class="wiki-infobox-caption">WorldCom was once the second-largest long-distance telephone provider in the US before its massive accounting fraud was revealed.</div>
 

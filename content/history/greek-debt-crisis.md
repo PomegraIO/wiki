@@ -7,7 +7,7 @@ keywords:
   - sovereign default
   - Greece
   - eurozone
-image: "https://picsum.photos/seed/greek-debt-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Greek Debt Crisis**, beginning in 2010, was the most severe sovereign debt emergency in the modern era. Greece, revealed to have a massive hidden budget deficit, found itself unable to borrow on markets at any reasonable cost. The country required three rescue packages from the IMF and EU totaling over €280 billion, conditional on severe austerity. The crisis nearly pushed Greece out of the eurozone and left the country with severe economic damage and political upheaval.*
@@ -22,7 +22,7 @@ This entry covers the Greek crisis specifically. For the broader eurozone crisis
 
 <div class="wiki-infobox-title">Greek Debt Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/greek-debt-crisis/900/600" alt="A photograph of Greek parliament during the crisis" />
+<img src="/svg/history.svg" alt="A photograph of Greek parliament during the crisis" />
 
 <div class="wiki-infobox-caption">Greece's parliament faced international pressure to accept austerity conditions in exchange for bailout support.</div>
 

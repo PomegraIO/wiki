@@ -7,7 +7,7 @@ keywords:
   - SOX
   - corporate governance
   - financial regulation
-image: "https://picsum.photos/seed/sarbanes-oxley-passage/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Sarbanes-Oxley Act**, passed in July 2002, was a sweeping corporate governance law enacted in response to the Enron and WorldCom accounting frauds. Sponsored by Senator Paul Sarbanes and Representative Michael Oxley, SOX imposed new requirements on corporate boards, auditors, and financial reporting. It created the Public Company Accounting Oversight Board (PCAOB) as an independent regulator of auditors, required CEOs and CFOs to personally certify financial statements, and mandated auditor independence from consulting services.*
@@ -22,7 +22,7 @@ This entry covers the Sarbanes-Oxley Act's passage and provisions. For the conte
 
 <div class="wiki-infobox-title">Sarbanes-Oxley Act Passage — key facts</div>
 
-<img src="https://picsum.photos/seed/sarbanes-oxley-passage/900/600" alt="A photograph of the Capitol building where SOX was debated and passed" />
+<img src="/svg/history.svg" alt="A photograph of the Capitol building where SOX was debated and passed" />
 
 <div class="wiki-infobox-caption">SOX passed with overwhelming bipartisan support in response to the accounting frauds of 2001–2002.</div>
 

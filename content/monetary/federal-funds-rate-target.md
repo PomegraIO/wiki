@@ -7,7 +7,7 @@ keywords:
   - target rate
   - discount rate
   - overnight rate
-image: "https://picsum.photos/seed/federal-funds-rate-target/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **federal funds rate target** is the [interest rate](/interest-rate) at which the Federal Reserve aims to steer overnight lending between [banks](/broker). When [banks](/broker) have temporary shortfalls of reserves at the end of the day, they borrow from peers that have excess, and the Fed maintains a target for that overnight rate. By managing this single number, the Fed influences the entire financial system.*
@@ -22,7 +22,7 @@ This entry covers the Fed's rate target. For the mechanism by which the Fed main
 
 <div class="wiki-infobox-title">Federal Funds Rate Target — key facts</div>
 
-<img src="https://picsum.photos/seed/federal-funds-rate-target/900/600" alt="Fed funds rate display on financial news network" />
+<img src="/svg/monetary.svg" alt="Fed funds rate display on financial news network" />
 
 <div class="wiki-infobox-caption">The fed funds rate is the foundation on which all other interest rates build.</div>
 

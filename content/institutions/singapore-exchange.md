@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Singapore
   - Southeast Asia
-image: "https://picsum.photos/seed/singapore-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Singapore Exchange** (SGX) is Southeast Asia's largest [stock exchange](/stock-exchange) and an important financial hub for the region and broader Asia. Headquartered in Singapore's Central Business District, the SGX lists Singapore-based firms, regional multinationals, and international companies, and serves as a venue for equity trading, derivatives, and commodity trading across Asia.*
@@ -22,7 +22,7 @@ Singapore's position as a regional financial centre and its political and econom
 
 <div class="wiki-infobox-title">Singapore Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/singapore-exchange/900/600" alt="The Singapore Exchange building in the CBD" />
+<img src="/svg/institutions.svg" alt="The Singapore Exchange building in the CBD" />
 
 <div class="wiki-infobox-caption">The Singapore Exchange headquarters in the Central Business District.</div>
 

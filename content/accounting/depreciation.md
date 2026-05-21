@@ -7,7 +7,7 @@ keywords:
   - accumulated depreciation
   - useful life
   - non-cash expense
-image: "https://picsum.photos/seed/depreciation/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Depreciation](/depreciation) is the accounting practice of spreading the cost of a long-lived asset (buildings, equipment, vehicles) across the periods it benefits. Under [accrual-accounting](/accrual-accounting), a company that buys a $10 million machine does not write off the entire cost in year one. Instead, it estimates the machine's useful life (say, 10 years) and recognizes $1 million of [depreciation](/depreciation) expense each year. [Depreciation](/depreciation) is a non-cash charge: no cash leaves the company when the expense is recorded. But it significantly reduces reported profit. The most common methods are [straight-line-depreciation](/straight-line-depreciation) (equal amounts each year) and declining-balance-depreciation (larger amounts early).*
@@ -22,7 +22,7 @@ This entry covers depreciation in general. For specific methods, see [straight-l
 
 <div class="wiki-infobox-title">Depreciation — key facts</div>
 
-<img src="https://picsum.photos/seed/depreciation/900/600" alt="A timeline showing an asset cost being allocated over years via depreciation" />
+<img src="/svg/accounting.svg" alt="A timeline showing an asset cost being allocated over years via depreciation" />
 
 <div class="wiki-infobox-caption">Depreciation spreads asset cost over its useful life.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - earnings
   - operating income
   - net income
-image: "https://picsum.photos/seed/income-statement/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *The **income statement** — also called a **profit and loss statement** or **P&L** — is the financial statement that measures a company's profitability over a defined period, typically a quarter or a year. It subtracts costs from revenues to arrive at profit or loss. More than the [balance sheet](/balance-sheet) or [cash flow statement](/cash-flow-statement), the income statement is where investors hunt first for evidence that a business is performing.*
@@ -22,7 +22,7 @@ This entry covers the statement structure and mechanics. For the standards gover
 
 <div class="wiki-infobox-title">Income statement — key facts</div>
 
-<img src="https://picsum.photos/seed/income-statement/900/600" alt="A multi-color income statement showing top-to-bottom flow from revenues to net income" />
+<img src="/svg/accounting.svg" alt="A multi-color income statement showing top-to-bottom flow from revenues to net income" />
 
 <div class="wiki-infobox-caption">The income statement flows from revenue down to net income, tracing the cost of doing business.</div>
 

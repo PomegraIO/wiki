@@ -7,7 +7,7 @@ keywords:
   - reversal
   - pattern
   - technical analysis
-image: "https://picsum.photos/seed/engulfing-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *An **engulfing pattern** is a two-candle reversal signal in which the second candle's range completely engulfs (contains) the first candle's range. In a bullish engulfing, a small red (bearish) candle is followed by a larger green (bullish) candle that opens below the first candle's low and closes above the first candle's high. This shows a complete reversal of momentum: what started as a down day ended as a strong up day. The bearish engulfing is the mirror image: a small green candle followed by a larger red candle that opens above and closes below. Many technical analysts regard the engulfing as one of the most reliable two-candle reversal signals, though rigorous empirical evidence for this is mixed.*
@@ -22,7 +22,7 @@ For two-candle patterns broadly, see [candlestick pattern](/technical-analysis/c
 
 <div class="wiki-infobox-title">Engulfing pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/engulfing-pattern/900/600" alt="A bullish engulfing pattern: a large green candle completely contains the range of a prior red candle" />
+<img src="/svg/technical-analysis.svg" alt="A bullish engulfing pattern: a large green candle completely contains the range of a prior red candle" />
 
 <div class="wiki-infobox-caption">A bullish engulfing: the second candle opens below the first and closes above it, showing complete reversal of sentiment.</div>
 

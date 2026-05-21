@@ -8,7 +8,7 @@ keywords:
   - bitcoin
   - ethereum
   - cryptocurrency
-image: "https://picsum.photos/seed/public-blockchain/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **public blockchain** is a [distributed ledger](/distributed-ledger) that is open and permissionless — anyone can run a node, submit transactions, or validate transactions without requiring approval from a gatekeeper. All data is visible to the public, and no central authority controls the network.*
@@ -23,7 +23,7 @@ This entry covers public blockchains as a category. For private blockchains, see
 
 <div class="wiki-infobox-title">Public Blockchain — characteristics</div>
 
-<img src="https://picsum.photos/seed/public-blockchain/900/600" alt="Public blockchain network with open participation" />
+<img src="/svg/crypto.svg" alt="Public blockchain network with open participation" />
 
 <div class="wiki-infobox-caption">A public blockchain: open to anyone, controlled by no one.</div>
 

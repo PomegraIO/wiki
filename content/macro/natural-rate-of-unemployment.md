@@ -7,7 +7,7 @@ keywords:
   - structural unemployment
   - frictional unemployment
   - full employment
-image: "https://picsum.photos/seed/natural-rate-of-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *The natural rate of unemployment is the [unemployment rate](/unemployment-rate) that prevails when the [output gap](/output-gap) is zero — when the economy is at full capacity and [inflation](/inflation) is stable. It is not zero because unemployment always includes [frictional](/frictional-unemployment) (job search) and [structural](/structural-unemployment) (skills mismatch) components.*
@@ -22,7 +22,7 @@ The natural rate is nearly identical to [NAIRU](/nairu) (Non-Accelerating Inflat
 
 <div class="wiki-infobox-title">Natural Rate of Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/natural-rate-of-unemployment/900/600" alt="Natural rate estimates" />
+<img src="/svg/macro.svg" alt="Natural rate estimates" />
 
 <div class="wiki-infobox-caption">Estimates of the natural rate range from 3.5% to 5%, with typical central estimate around 4–4.5%.</div>
 

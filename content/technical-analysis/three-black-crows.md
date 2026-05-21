@@ -7,7 +7,7 @@ keywords:
   - continuation
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/three-black-crows/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **three black crows** pattern consists of three consecutive bearish candles, ideally of similar size or progressively larger, each opening within the previous candle's body and closing near its low. The pattern shows relentless selling pressure: sellers are in control every session, and the price descends with discipline and force. The name evokes an omen—three dark birds advancing—symbolizing a strong downtrend. While less famous than bullish three-candle patterns like the [morning star](/technical-analysis/morning-star), three black crows is the pure bearish continuation signal—it confirms that a downtrend is powerful and disciplined.*
@@ -22,7 +22,7 @@ For three-candle patterns broadly, see [candlestick pattern](/technical-analysis
 
 <div class="wiki-infobox-title">Three black crows — key facts</div>
 
-<img src="https://picsum.photos/seed/three-black-crows/900/600" alt="Three black crows: three red candles, each opening inside the prior body, each closing near its low" />
+<img src="/svg/technical-analysis.svg" alt="Three black crows: three red candles, each opening inside the prior body, each closing near its low" />
 
 <div class="wiki-infobox-caption">Classic three black crows: steady selling pressure, disciplined downtrend, no support found at lower levels.</div>
 

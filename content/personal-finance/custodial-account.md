@@ -7,7 +7,7 @@ keywords:
   - guardianship account
   - UGMA
   - UTMA
-image: "https://picsum.photos/seed/custodial-account/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **custodial account** is a savings or investment account opened by an adult (the custodian) on behalf of a minor child. The child is the beneficial owner; the custodian manages and invests the funds until the child reaches the age of majority (18 or 21, depending on state and account type).*
@@ -22,7 +22,7 @@ For UGMA and UTMA account specifics, see [UGMA/UTMA](/ugma-utma); for education-
 
 <div class="wiki-infobox-title">Custodial Account — key facts</div>
 
-<img src="https://picsum.photos/seed/custodial-account/900/600" alt="A parent setting up a savings account for a child" />
+<img src="/svg/personal-finance.svg" alt="A parent setting up a savings account for a child" />
 
 <div class="wiki-infobox-caption">The structure: adult-managed account for a minor beneficiary.</div>
 

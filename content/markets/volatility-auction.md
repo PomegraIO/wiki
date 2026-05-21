@@ -8,7 +8,7 @@ keywords:
   - stock halt
   - price limit
   - volatility control
-image: "https://picsum.photos/seed/volatility-auction/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **volatility auction** is a trading halt mechanism triggered when a stock experiences a dramatic price move in a short time. In the US, a volatility halt occurs when a stock moves 10% or more in 5 minutes (for large-cap stocks, the threshold varies). The halt is automatic and lasts 5 minutes; when it ends, trading resumes with an [intraday auction](/intraday-auction). Volatility auctions are designed to prevent panic selling or panicked short covering from cascading into flash crashes.*
@@ -23,7 +23,7 @@ This entry is about individual-stock volatility halts. For market-wide halts, se
 
 <div class="wiki-infobox-title">Volatility Auction — key facts</div>
 
-<img src="https://picsum.photos/seed/volatility-auction/900/600" alt="A halted trading notice for a stock that has moved sharply" />
+<img src="/svg/markets.svg" alt="A halted trading notice for a stock that has moved sharply" />
 
 <div class="wiki-infobox-caption">Volatility auctions are automatic safeguards against panic-driven crashes.</div>
 

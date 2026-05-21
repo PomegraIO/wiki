@@ -7,7 +7,7 @@ keywords:
   - corporate action
   - share dilution
   - stock price
-image: "https://picsum.photos/seed/stock-split/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **stock split** is a corporate action in which a company increases the number of outstanding shares by dividing each existing share into multiple new shares. In a 2-for-1 split, each old share becomes two new shares. The total market capitalization remains unchanged, and each shareholder's ownership percentage is unchanged, but the share count and share price are adjusted. Stock splits are used to make shares more affordable to retail investors, increase trading liquidity, or adjust share price to meet exchange listing standards.*
@@ -22,7 +22,7 @@ This entry covers stock splits as a corporate action. For the opposite action, s
 
 <div class="wiki-infobox-title">Stock split — key facts</div>
 
-<img src="https://picsum.photos/seed/stock-split/900/600" alt="Shares being divided" />
+<img src="/svg/corporate.svg" alt="Shares being divided" />
 
 <div class="wiki-infobox-caption">A stock split divides existing shares into more shares.</div>
 

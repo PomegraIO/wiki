@@ -8,7 +8,7 @@ keywords:
   - rules-based indexing
   - alternative weighting
   - factor ETF
-image: "https://picsum.photos/seed/smart-beta/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Smart-beta is an investment approach that replaces traditional market-capitalization weighting — where the largest companies dominate the [index](/index-fund/) — with systematic alternative weightings or factors (value, momentum, quality, low volatility), aiming to capture factor premiums at lower cost than active management.*
@@ -23,7 +23,7 @@ For the broader factor framework, see [factor investing](/factor-investing/). Fo
 
 <div class="wiki-infobox-title">Smart-beta — key facts</div>
 
-<img src="https://picsum.photos/seed/smart-beta/900/600" alt="A chart comparing market-cap-weighted versus factor-weighted portfolio returns" />
+<img src="/svg/strategies.svg" alt="A chart comparing market-cap-weighted versus factor-weighted portfolio returns" />
 
 <div class="wiki-infobox-caption">Smart-beta tilts index exposure toward systematic factors, hunting for returns between passive and active.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - securitization
   - loan pool
   - receivables
-image: "https://picsum.photos/seed/asset-backed-security/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *An **asset-backed security** — or **ABS** — is a debt instrument secured by a pool of income-producing assets. These assets might be auto loans, credit card receivables, equipment leases, or other contractual cash flows. Unlike [mortgage-backed securities](/mortgage-backed-security), which are collateralized by real estate, ABS are backed by consumer or business loans that generate contractual payments.*
@@ -22,7 +22,7 @@ For mortgage-backed securitization, see [mortgage-backed security](/mortgage-bac
 
 <div class="wiki-infobox-title">Asset-Backed Security — key facts</div>
 
-<img src="https://picsum.photos/seed/asset-backed-security/900/600" alt="A diversified pool of consumer and commercial assets backing securities" />
+<img src="/svg/fixed-income.svg" alt="A diversified pool of consumer and commercial assets backing securities" />
 
 <div class="wiki-infobox-caption">ABS pools diverse consumer and commercial assets into tradable securities.</div>
 

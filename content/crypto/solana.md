@@ -8,7 +8,7 @@ keywords:
   - high-throughput
   - proof-of-history
   - validator
-image: "https://picsum.photos/seed/solana/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Solana** (**SOL**) is a [blockchain](/blockchain-fundamentals) platform and cryptocurrency engineered for maximum transaction throughput. It uses **proof-of-history** — a novel consensus innovation — combined with parallel transaction processing to achieve thousands of transactions per second, prioritising speed and low fees over strict decentralisation.*
@@ -23,7 +23,7 @@ This entry covers the Solana network and its cryptocurrency. For similar high-th
 
 <div class="wiki-infobox-title">Solana — key facts</div>
 
-<img src="https://picsum.photos/seed/solana/900/600" alt="Solana logo and transaction flow" />
+<img src="/svg/crypto.svg" alt="Solana logo and transaction flow" />
 
 <div class="wiki-infobox-caption">Solana: engineered for extreme transaction throughput.</div>
 

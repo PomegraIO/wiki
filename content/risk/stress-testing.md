@@ -7,7 +7,7 @@ keywords:
   - adverse scenario
   - portfolio loss
   - tail risk
-image: "https://picsum.photos/seed/stress-testing/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Stress testing is the practice of assessing portfolio losses under extreme market scenarios — scenarios that are severe and plausible but may not have occurred in recent history. Unlike [value-at-risk](/value-at-risk), which relies on historical distributions, stress testing explicitly imagines catastrophic but foreseeable conditions and calculates the damage.*
@@ -22,7 +22,7 @@ This entry covers stress testing methodology. For structured, named scenarios, s
 
 <div class="wiki-infobox-title">Stress Testing — key facts</div>
 
-<img src="https://picsum.photos/seed/stress-testing/900/600" alt="A stress gauge showing the needle pushed to the red zone" />
+<img src="/svg/risk.svg" alt="A stress gauge showing the needle pushed to the red zone" />
 
 <div class="wiki-infobox-caption">Stress testing asks: how bad could it get?</div>
 

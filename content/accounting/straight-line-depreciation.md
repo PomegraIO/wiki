@@ -7,7 +7,7 @@ keywords:
   - annual depreciation
   - equal allocation
   - simple method
-image: "https://picsum.photos/seed/straight-line-depreciation/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Straight-line depreciation](/straight-line-depreciation) is the simplest and most common method of [depreciation](/depreciation). It allocates the cost of an asset equally across each year of its useful life. If an asset costs $100,000 and has a 10-year life with zero salvage value, [straight-line depreciation](/straight-line-depreciation) is $10,000 per year. There is no acceleration or deceleration of the expense. [Straight-line depreciation](/straight-line-depreciation) is the default choice for most companies under both [GAAP](/generally-accepted-accounting-principles) and [IFRS](/international-financial-reporting-standards), because it is simple, transparent, and matches many assets' actual decline in value.*
@@ -22,7 +22,7 @@ This entry covers straight-line method. For other methods, see declining-balance
 
 <div class="wiki-infobox-title">Straight-line depreciation — key facts</div>
 
-<img src="https://picsum.photos/seed/straight-line-depreciation/900/600" alt="A straight horizontal line showing equal annual depreciation over time" />
+<img src="/svg/accounting.svg" alt="A straight horizontal line showing equal annual depreciation over time" />
 
 <div class="wiki-infobox-caption">Equal depreciation each year is the hallmark of straight-line.</div>
 

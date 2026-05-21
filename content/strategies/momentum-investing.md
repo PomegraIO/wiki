@@ -8,7 +8,7 @@ keywords:
   - relative strength
   - technical analysis
   - trend-based selection
-image: "https://picsum.photos/seed/momentum-investing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Momentum investing is a strategy rooted in the observation that [stocks](/stock/) that have outperformed recently tend to continue outperforming for a time, and those that have underperformed tend to lag further. The strategy buys winners and sells (or avoids) losers.*
@@ -23,7 +23,7 @@ For the systematic factor version, see [momentum-factor](/momentum-factor/). For
 
 <div class="wiki-infobox-title">Momentum investing — key facts</div>
 
-<img src="https://picsum.photos/seed/momentum-investing/900/600" alt="A price chart showing strong upward momentum" />
+<img src="/svg/strategies.svg" alt="A price chart showing strong upward momentum" />
 
 <div class="wiki-infobox-caption">Momentum investors ride trends, letting winners run and cutting losers.</div>
 

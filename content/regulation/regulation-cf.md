@@ -7,7 +7,7 @@ keywords:
   - equity crowdfunding
   - online fundraising
   - securities exemption
-image: "https://picsum.photos/seed/regulation-cf/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *[Regulation Crowdfunding](/regulation-cf) (Reg CF), created by the [JOBS Act](/jobs-act) of 2012, is an exemption from [Securities Act of 1933](/securities-act-of-1933) registration that allows companies to raise up to $5 million per year from unlimited investors (accredited and non-accredited alike) through SEC-regulated online platforms. Reg CF has democratized early-stage capital access, allowing startups without venture capital connections to raise from the public.*
@@ -22,7 +22,7 @@ Regulation Crowdfunding is for equity crowdfunding. Reward crowdfunding (Kicksta
 
 <div class="wiki-infobox-title">Regulation Crowdfunding — key facts</div>
 
-<img src="https://picsum.photos/seed/regulation-cf/900/600" alt="A crowdfunding campaign" />
+<img src="/svg/regulation.svg" alt="A crowdfunding campaign" />
 
 <div class="wiki-infobox-caption">A typical equity crowdfunding offering.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - portfolio allocation
   - diversification
   - fund
-image: "https://picsum.photos/seed/asset-allocation-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **asset allocation fund** is a [mutual fund](/mutual-fund) or [ETF](/etf) that holds a diversified mix of [stocks](/stock), [bonds](/bond), and sometimes [commodities](/commodity-etf) or other assets in a fixed or adjustable allocation. Unlike [balanced funds](/balanced-fund) (which are fixed-allocation variants) or [target-date funds](/target-date-fund) (which shift with time), asset allocation funds offer various static allocation options (conservative, moderate, growth, aggressive) matching investor risk tolerance.*
@@ -22,7 +22,7 @@ This entry covers asset allocation funds as a category. For automatic rebalancin
 
 <div class="wiki-infobox-title">Asset Allocation Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/asset-allocation-fund/900/600" alt="Four pie charts showing conservative, moderate, growth, and aggressive allocation" />
+<img src="/svg/funds.svg" alt="Four pie charts showing conservative, moderate, growth, and aggressive allocation" />
 
 <div class="wiki-infobox-caption">Asset allocation funds offer multiple fixed-allocation options.</div>
 

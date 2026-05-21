@@ -8,7 +8,7 @@ keywords:
   - drift correction
   - disciplined rebalancing
   - buy low sell high
-image: "https://picsum.photos/seed/asset-rebalancing/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Asset rebalancing is the practice of periodically buying and selling holdings to return a [portfolio's](/asset-allocation/) [asset class](/asset-allocation/) weights to target levels. As some assets appreciate faster than others, portfolio weights drift; rebalancing corrects this drift, maintaining desired risk and enforcing a mechanical buy-low-sell-high discipline.*
@@ -23,7 +23,7 @@ For time-based rebalancing, see [calendar-rebalancing](/calendar-rebalancing/). 
 
 <div class="wiki-infobox-title">Asset rebalancing — key facts</div>
 
-<img src="https://picsum.photos/seed/asset-rebalancing/900/600" alt="A portfolio drifting from 60-40 to 75-25, then being rebalanced back" />
+<img src="/svg/strategies.svg" alt="A portfolio drifting from 60-40 to 75-25, then being rebalanced back" />
 
 <div class="wiki-infobox-caption">Rebalancing forces investors to sell winners and buy losers, a mechanical enforcement of discipline.</div>
 

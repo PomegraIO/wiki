@@ -7,7 +7,7 @@ keywords:
   - peak moment
   - final moment
   - experience evaluation
-image: "https://picsum.photos/seed/peak-end-rule/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Peak-end rule is the tendency to evaluate an experience based on its most intense moment (peak) and how it ends (end), rather than on the average experience or total duration. An investment experience of 10 years with an average annual return of 8% but a peak return of 20% and a final year return of 5% is judged by the 20% peak and 5% end, not by the average 8%.*
@@ -22,7 +22,7 @@ Related to recency bias and selective memory. Discovered by Kahneman and colleag
 
 <div class="wiki-infobox-title">Peak-end rule — key facts</div>
 
-<img src="https://picsum.photos/seed/peak-end-rule/900/600" alt="A chart with peaks and valleys, with emphasis on the highest peak and final point" />
+<img src="/svg/behavioral.svg" alt="A chart with peaks and valleys, with emphasis on the highest peak and final point" />
 
 <div class="wiki-infobox-caption">The peak shines; the end lingers; the average is forgotten.</div>
 

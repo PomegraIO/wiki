@@ -7,7 +7,7 @@ keywords:
   - intelligent investor
   - security analysis
   - intrinsic value
-image: "https://picsum.photos/seed/benjamin-graham/900/600"
+image: "/svg/people.svg"
 ---
 
 *Benjamin Graham created the intellectual framework for value investing — buying securities at meaningful discounts to their intrinsic value — and proved through teaching and his own investment results that this disciplined approach could outpace speculation.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/benjamin-graham/900/600"
 
 <div class="wiki-infobox-title">Benjamin Graham — key facts</div>
 
-<img src="https://picsum.photos/seed/benjamin-graham/900/600" alt="Pages from a financial analysis textbook with annotations and calculations" />
+<img src="/svg/people.svg" alt="Pages from a financial analysis textbook with annotations and calculations" />
 
 <div class="wiki-infobox-caption">The tools of analytical investing — where rigor meets security analysis.</div>
 

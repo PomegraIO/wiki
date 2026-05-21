@@ -7,7 +7,7 @@ keywords:
   - liquidity
   - ETF pricing
   - fund
-image: "https://picsum.photos/seed/etf-bid-ask-spread/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **ETF bid-ask spread** is the difference between the highest price at which someone will buy an [ETF](/etf) (the "bid") and the lowest price at which someone will sell it (the "ask"). For a large, liquid [equity ETF](/equity-etf), the spread is typically 0.01%–0.05%, meaning that on a $100 position, you might lose $0.01–0.05 to the spread. Spreads widen during market stress and for less liquid [ETFs](/etf).*
@@ -22,7 +22,7 @@ This entry covers bid-ask spreads in [ETFs](/etf). For the role they play in [ET
 
 <div class="wiki-infobox-title">ETF Bid-Ask Spread — key facts</div>
 
-<img src="https://picsum.photos/seed/etf-bid-ask-spread/900/600" alt="A trading screen showing bid and ask prices with a highlighted spread" />
+<img src="/svg/funds.svg" alt="A trading screen showing bid and ask prices with a highlighted spread" />
 
 <div class="wiki-infobox-caption">The bid-ask spread is the immediate transaction cost of trading an ETF.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - neodymium
   - dysprosium
   - geopolitics
-image: "https://picsum.photos/seed/rare-earth-metals/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **rare earth metals** category — comprising 17 elements from lanthanum to lutetium, plus scandium and yttrium — represents a critical pinch point in the energy transition and global supply chains. Though not scarce in absolute terms, rare earths are tedious and expensive to extract and refine, and China controls 70%+ of global processing capacity. A single geopolitical disruption could cripple wind-turbine production, electric motors, and precision weapons systems worldwide.*
@@ -22,7 +22,7 @@ This entry covers rare earth metals as a strategic commodity group. Individual e
 
 <div class="wiki-infobox-title">Rare Earth Metals — key facts</div>
 
-<img src="https://picsum.photos/seed/rare-earth-metals/900/600" alt="Rare earth element samples and processed oxide powder" />
+<img src="/svg/commodities.svg" alt="Rare earth element samples and processed oxide powder" />
 
 <div class="wiki-infobox-caption">Rare earth elements in oxide powder form, used in permanent magnets.</div>
 

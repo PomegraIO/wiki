@@ -7,7 +7,7 @@ keywords:
   - termination
   - cancellation
   - exotic option
-image: "https://picsum.photos/seed/knock-out-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **knock-out option** (also **out-option**) is a [barrier option](/barrier-option) that terminates (expires worthless) if the underlying asset's price crosses a predetermined barrier level at any point before [expiration date](/expiration-date). Before the barrier is touched, it behaves like a vanilla [call](/call-option) or [put](/put-option). Once crossed, it is instantly worthless regardless of the underlying price at expiration. There are two types: **up-and-out** (terminates if price rises above the barrier) and **down-and-out** (terminates if price falls below the barrier). Knock-out options are cheaper than vanilla options because the payoff probability is reduced.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/knock-out-option/900/600"
 
 <div class="wiki-infobox-title">Knock-Out Option — key facts</div>
 
-<img src="https://picsum.photos/seed/knock-out-option/900/600" alt="Option terminating when barrier is breached" />
+<img src="/svg/derivatives.svg" alt="Option terminating when barrier is breached" />
 
 <div class="wiki-infobox-caption">Option dies if barrier is crossed.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - ethereum
   - rollup
   - scaling
-image: "https://picsum.photos/seed/optimism/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Optimism** (**OP**) is an Ethereum layer-2 scaling solution built on optimistic rollup technology. It compresses transactions and posts them to [Ethereum](/ethereum), reducing costs by 10–100x while maintaining [Ethereum](/ethereum)'s security guarantees. It is EVM-compatible and designed to be a drop-in replacement for [Ethereum](/ethereum).*
@@ -23,7 +23,7 @@ This entry covers the Optimism network. For Ethereum's base layer, see [Ethereum
 
 <div class="wiki-infobox-title">Optimism — key facts</div>
 
-<img src="https://picsum.photos/seed/optimism/900/600" alt="Optimism rollup architecture" />
+<img src="/svg/crypto.svg" alt="Optimism rollup architecture" />
 
 <div class="wiki-infobox-caption">Optimism: an Ethereum layer-2 scaling the network through compression.</div>
 

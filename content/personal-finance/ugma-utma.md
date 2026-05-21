@@ -7,7 +7,7 @@ keywords:
   - uniform gifts to minors
   - uniform transfers to minors
   - custodial account
-image: "https://picsum.photos/seed/ugma-utma/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **UGMA (Uniform Gifts to Minors Act)** and **UTMA (Uniform Transfers to Minors Act)** are state-level laws that establish the legal framework for custodial accounts. Both allow adults to contribute money or assets for minors' benefit without creating a trust or requiring a guardianship.*
@@ -22,7 +22,7 @@ For how custodial accounts work, see [custodial account](/custodial-account); fo
 
 <div class="wiki-infobox-title">UGMA/UTMA — key facts</div>
 
-<img src="https://picsum.photos/seed/ugma-utma/900/600" alt="A legal document labeled UTMA and UGMA" />
+<img src="/svg/personal-finance.svg" alt="A legal document labeled UTMA and UGMA" />
 
 <div class="wiki-infobox-caption">The legal framework: state-level custodial account laws.</div>
 

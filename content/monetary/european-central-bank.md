@@ -7,7 +7,7 @@ keywords:
   - eurozone
   - monetary policy
   - euro
-image: "https://picsum.photos/seed/european-central-bank/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **European Central Bank** (or **ECB**) is the central bank of the eurozone—the 20 EU member states that use the euro as their currency. Based in Frankfurt, the ECB is responsible for [monetary policy](/monetary-policy) across 350+ million people, making it one of the world's most powerful financial institutions. Unlike the Federal Reserve, which serves a single nation, the ECB must balance the interests of 20 different countries.*
@@ -22,7 +22,7 @@ This entry covers the ECB's role and mandate. For its policy tools, see [quantit
 
 <div class="wiki-infobox-title">European Central Bank — key facts</div>
 
-<img src="https://picsum.photos/seed/european-central-bank/900/600" alt="ECB headquarters in Frankfurt, Germany" />
+<img src="/svg/monetary.svg" alt="ECB headquarters in Frankfurt, Germany" />
 
 <div class="wiki-infobox-caption">The ECB is the monetary authority for 20 eurozone nations.</div>
 

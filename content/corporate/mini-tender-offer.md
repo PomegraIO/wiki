@@ -7,7 +7,7 @@ keywords:
   - activist
   - Schedule 13D
   - disclosure
-image: "https://picsum.photos/seed/mini-tender-offer/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **mini-tender offer** is a [tender offer](/tender-offer) for fewer than 5% of a company's shares, originally used by raiders and activists to accumulate stakes while avoiding disclosure requirements and regulatory scrutiny. The 5% threshold is critical in US securities law: acquisitions above it must be disclosed in a Schedule 13D filing, alerting the market and the target's board. By staying below 5%, an acquirer could accumulate a hidden stake. Mini-tender offers are now heavily regulated and their use has declined sharply.*
@@ -22,7 +22,7 @@ This entry covers mini-tender offers as a disclosure avoidance mechanism. For te
 
 <div class="wiki-infobox-title">Mini-tender offer — key facts</div>
 
-<img src="https://picsum.photos/seed/mini-tender-offer/900/600" alt="A small stake being accumulated" />
+<img src="/svg/corporate.svg" alt="A small stake being accumulated" />
 
 <div class="wiki-infobox-caption">Mini-tender offers accumulate stakes below disclosure thresholds.</div>
 

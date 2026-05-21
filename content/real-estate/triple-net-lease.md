@@ -7,7 +7,7 @@ keywords:
   - net net net
   - absolute net
   - commercial lease
-image: "https://picsum.photos/seed/triple-net-lease/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **triple-net lease** (NNN) is a commercial real estate lease in which the tenant pays rent plus a proportional share of property taxes, insurance, and maintenance costs. Triple-net leases are structured to provide landlords with stable, predictable cash flows while transferring most operating risks and costs to tenants.*
@@ -22,7 +22,7 @@ For other lease structures, see [modified-gross-lease](/modified-gross-lease), f
 
 <div class="wiki-infobox-title">Triple-Net Lease — key facts</div>
 
-<img src="https://picsum.photos/seed/triple-net-lease/900/600" alt="A commercial property with a triple-net lease" />
+<img src="/svg/real-estate.svg" alt="A commercial property with a triple-net lease" />
 
 <div class="wiki-infobox-caption">Triple-net leases shift operating costs to tenants, providing stable landlord income.</div>
 

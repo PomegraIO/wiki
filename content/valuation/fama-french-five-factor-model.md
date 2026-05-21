@@ -7,7 +7,7 @@ keywords:
   - investment factor
   - cost of equity
   - multi-factor model
-image: "https://picsum.photos/seed/fama-french-five-factor-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **Fama-French five-factor model** extends the [three-factor model](/fama-french-three-factor-model) by adding two new factors: profitability and investment. It says that cost of equity depends on market risk, size, value characteristics, *how profitable a company is*, and *how much it is reinvesting*. Highly profitable, low-reinvestment companies earn less than the model would predict; low-profitability, high-reinvestment companies earn more. It is the latest iteration of multi-factor models in academic finance.*

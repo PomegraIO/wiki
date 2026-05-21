@@ -7,7 +7,7 @@ keywords:
   - cost of equity
   - multi-factor model
   - valuation
-image: "https://picsum.photos/seed/carhart-four-factor-model/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **Carhart four-factor model** extends the [Fama-French three-factor model](/fama-french-three-factor-model) by adding a momentum factor. It says that cost of equity depends on market risk ([beta](/beta)), size, value characteristics, and momentum—the tendency of stocks that have recently outperformed to continue outperforming. For practitioners valuing stocks with strong or weak recent performance, the addition of momentum can refine cost-of-equity estimates.*

@@ -8,7 +8,7 @@ keywords:
   - moody
   - s&p
   - fitch
-image: "https://picsum.photos/seed/credit-rating/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **credit rating** is an assessment of a bond issuer's ability and willingness to meet its debt obligations. Ratings agencies (Moody's, S&P, Fitch) assign letter grades: AAA/Aaa (highest quality), through BBB/Baa (investment-grade), to BB/Ba and below (speculative-grade), down to D (default). Ratings determine borrowing costs, market access, and investor eligibility.*
@@ -23,7 +23,7 @@ For investment-grade ratings, see [investment-grade bond](/investment-grade-bond
 
 <div class="wiki-infobox-title">Credit Rating — key facts</div>
 
-<img src="https://picsum.photos/seed/credit-rating/900/600" alt="A scale showing credit rating grades from AAA to D" />
+<img src="/svg/fixed-income.svg" alt="A scale showing credit rating grades from AAA to D" />
 
 <div class="wiki-infobox-caption">Credit ratings determine a company's access to capital and cost of borrowing.</div>
 

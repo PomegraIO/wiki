@@ -7,7 +7,7 @@ keywords:
   - exotic option
   - all-or-nothing payoff
   - derivative
-image: "https://picsum.photos/seed/binary-option/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **binary option** is an exotic derivative with a simple, binary payoff: if the underlying asset finishes above (call) or below (put) the [strike price](/strike-price) at [expiration](/expiration-date), the holder receives a fixed amount of cash; otherwise, the holder receives nothing. Also called a **digital option** or **all-or-nothing option**, binary options are used for definitive bets on direction without exposure to magnitude of move.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/binary-option/900/600"
 
 <div class="wiki-infobox-title">Binary Option — key facts</div>
 
-<img src="https://picsum.photos/seed/binary-option/900/600" alt="A binary decision diagram with yes/no outcomes" />
+<img src="/svg/derivatives.svg" alt="A binary decision diagram with yes/no outcomes" />
 
 <div class="wiki-infobox-caption">Binary options pay a fixed amount or nothing, based on strike crossing.</div>
 

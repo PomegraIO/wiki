@@ -7,7 +7,7 @@ keywords:
   - price-based chart
   - reversal
   - volatility
-image: "https://picsum.photos/seed/kagi-chart/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **kagi chart** is a price-based charting method that draws price action as a series of vertical lines that change between thin and thick based on price reversals. When price moves up from a low, the line is drawn upward. If price then reverses downward by a specified amount, the line stops, and a new line drops from the reversal point. The lines are "thin" when continuing in one direction and become "thick" when price reverses back through a previous high or low. Time is irrelevant; the chart focuses entirely on price reversals. Kagi charts are favored for identifying support, resistance, and trend strength.*
@@ -22,7 +22,7 @@ For time-based charts, see [candlestick chart](/technical-analysis/candlestick-c
 
 <div class="wiki-infobox-title">Kagi chart — key facts</div>
 
-<img src="https://picsum.photos/seed/kagi-chart/900/600" alt="A kagi chart showing vertical lines with varying thickness indicating reversals" />
+<img src="/svg/technical-analysis.svg" alt="A kagi chart showing vertical lines with varying thickness indicating reversals" />
 
 <div class="wiki-infobox-caption">Kagi lines: thickness and direction reveal reversals and support/resistance; time is ignored.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - ltc
   - scrypt
   - meme
-image: "https://picsum.photos/seed/dogecoin/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Dogecoin** (**DOGE**) is a peer-to-peer cryptocurrency created in 2013 by Jackson Palmer and Billy Markus as a lighthearted parody of [Bitcoin](/bitcoin). Built on [Litecoin](/litecoin)'s codebase with the same [proof-of-work](/proof-of-work) algorithm, Dogecoin has unexpectedly achieved significant market adoption and cultural prominence, despite its humorous origins.*
@@ -23,7 +23,7 @@ This entry covers Dogecoin as a functioning cryptocurrency. For [Bitcoin](/bitco
 
 <div class="wiki-infobox-title">Dogecoin — key facts</div>
 
-<img src="https://picsum.photos/seed/dogecoin/900/600" alt="Dogecoin logo and meme mascot" />
+<img src="/svg/crypto.svg" alt="Dogecoin logo and meme mascot" />
 
 <div class="wiki-infobox-caption">Dogecoin: a meme cryptocurrency that became real.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - material nonpublic information
   - trading on inside information
   - insider trading prosecution
-image: "https://picsum.photos/seed/insider-trading-law/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Insider trading law prohibits buying or selling securities while in possession of material nonpublic information. The prohibition is enforced through the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934), primarily [Rule 10b-5](/rule-10b-5). Officers, directors, and large shareholders must disclose trades to the [SEC](/securities-and-exchange-commission). Violations can result in civil penalties, disgorgement, and criminal imprisonment. Insider trading prosecutions are among the SEC's highest-profile cases.*
@@ -21,7 +21,7 @@ Insider trading law covers trading on nonpublic material information. [Section 1
 
 <div class="wiki-infobox-title">Insider Trading Law — key facts</div>
 
-<img src="https://picsum.photos/seed/insider-trading-law/900/600" alt="An insider trading prosecution" />
+<img src="/svg/regulation.svg" alt="An insider trading prosecution" />
 
 <div class="wiki-infobox-caption">An insider trading case in federal court.</div>
 

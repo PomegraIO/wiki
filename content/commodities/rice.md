@@ -7,7 +7,7 @@ keywords:
   - staple food
   - Asia
   - commodity
-image: "https://picsum.photos/seed/rice/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **rice** — the world's most important staple food, feeding over 3 billion people — is a commodity whose price is subject to severe shocks from export restrictions, weather, and political instability in major producing countries (Asia). Rice prices are controlled or subsidized in many countries, limiting free-market price discovery and creating the potential for sudden supply shocks.*
@@ -22,7 +22,7 @@ This entry covers rice as a traded commodity. Rice markets are less liberalized 
 
 <div class="wiki-infobox-title">Rice — key facts</div>
 
-<img src="https://picsum.photos/seed/rice/900/600" alt="Rice paddy and grain processing" />
+<img src="/svg/commodities.svg" alt="Rice paddy and grain processing" />
 
 <div class="wiki-infobox-caption">Rice paddy — feeding over 3 billion people globally.</div>
 

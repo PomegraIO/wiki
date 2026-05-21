@@ -7,7 +7,7 @@ keywords:
   - valuation
   - book value
   - tangible assets
-image: "https://picsum.photos/seed/price-to-book-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **price-to-book ratio** — also called the **P/B ratio** — divides the stock price per share by the book value of equity per share. Book value is the accounting value of assets minus liabilities, reported on the balance sheet. A P/B of 1.5 means investors are paying $1.50 for every dollar of balance-sheet equity.*
@@ -22,7 +22,7 @@ This entry covers a balance-sheet valuation metric. For an earnings-based ratio,
 
 <div class="wiki-infobox-title">Price-to-Book Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/price-to-book-ratio/900/600" alt="A balance sheet displayed on a computer screen" />
+<img src="/svg/ratios.svg" alt="A balance sheet displayed on a computer screen" />
 
 <div class="wiki-infobox-caption">Book value on the balance sheet — the P/B ratio's foundation.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - Paris
   - Europe
   - pan-European
-image: "https://picsum.photos/seed/euronext/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Euronext** exchange group operates the stock exchanges of Paris (Euronext Paris, the largest), Amsterdam, Brussels, Dublin, and Lisbon. Born from the merger of those regional exchanges and the later consolidation of Euronext with the New York Stock Exchange (NYSE Euronext, later separated), Euronext is one of Europe's largest [stock exchange](/stock-exchange) operators and home to the continent's major multinational corporations.*
@@ -22,7 +22,7 @@ Euronext was briefly merged with the NYSE from 2007 to 2012 as NYSE Euronext bef
 
 <div class="wiki-infobox-title">Euronext — key facts</div>
 
-<img src="https://picsum.photos/seed/euronext/900/600" alt="The Euronext trading floor in Paris" />
+<img src="/svg/institutions.svg" alt="The Euronext trading floor in Paris" />
 
 <div class="wiki-infobox-caption">The main trading floor at Euronext Paris in the financial district.</div>
 

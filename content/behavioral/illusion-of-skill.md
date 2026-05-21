@@ -7,7 +7,7 @@ keywords:
   - attribution bias
   - survivorship bias
   - randomness
-image: "https://picsum.photos/seed/illusion-of-skill/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *The illusion of skill is the tendency to attribute success to one's own ability when the success is actually due to luck. A [fund manager](/hedge-fund) beats the market for five years and is celebrated as a genius, even though statistical chance alone would produce some five-year winners among a large population of managers. The illusion of skill is especially pernicious in domains with significant random variation, like investing.*
@@ -22,7 +22,7 @@ Related to overconfidence bias and survivorship bias. See also [hindsight bias](
 
 <div class="wiki-infobox-title">Illusion of skill — key facts</div>
 
-<img src="https://picsum.photos/seed/illusion-of-skill/900/600" alt="A trophy being held by a hand partially hidden behind a curtain" />
+<img src="/svg/behavioral.svg" alt="A trophy being held by a hand partially hidden behind a curtain" />
 
 <div class="wiki-infobox-caption">The award goes to luck, but skill takes the credit.</div>
 

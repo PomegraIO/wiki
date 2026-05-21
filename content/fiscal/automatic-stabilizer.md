@@ -7,7 +7,7 @@ keywords:
   - built-in stabilizer
   - unemployment insurance
   - fiscal policy
-image: "https://picsum.photos/seed/automatic-stabilizer/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **automatic stabilizer** is a government program that expands spending or reduces taxes automatically during [recessions](/recession), and contracts spending or raises taxes during booms, without requiring Congressional action. It provides counter-cyclical stimulus without the delays of legislative process.*
@@ -22,7 +22,7 @@ This entry covers built-in stabilization mechanisms. For discretionary stimulus,
 
 <div class="wiki-infobox-title">Automatic Stabilizer — key facts</div>
 
-<img src="https://picsum.photos/seed/automatic-stabilizer/900/600" alt="Automatic stabilizer" />
+<img src="/svg/fiscal.svg" alt="Automatic stabilizer" />
 
 <div class="wiki-infobox-caption">Automatic stabilizers cushion booms and recessions without legislative action.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - minority stake
   - takeover defence
   - board seat
-image: "https://picsum.photos/seed/white-squire/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **white squire** is a friendly investor who acquires a substantial but non-controlling stake in a company facing a [hostile takeover](/hostile-takeover) threat. Unlike a [white knight](/white-knight), which aims for a full acquisition, a white squire buys 20–40% of the company, gains board representation, and uses its stake and influence to block the hostile bidder, reshape strategy, or negotiate a better outcome. White squire investments are less common than white knight rescues but offer an alternative when a full acquisition is not viable or desirable.*
@@ -22,7 +22,7 @@ This entry covers white squire investments as a takeover defence. For the full-a
 
 <div class="wiki-infobox-title">White squire — key facts</div>
 
-<img src="https://picsum.photos/seed/white-squire/900/600" alt="A friendly minority investor" />
+<img src="/svg/corporate.svg" alt="A friendly minority investor" />
 
 <div class="wiki-infobox-caption">A white squire acquires influence without full control.</div>
 

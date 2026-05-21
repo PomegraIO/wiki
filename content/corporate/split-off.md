@@ -7,7 +7,7 @@ keywords:
   - share exchange
   - divestiture
   - restructuring
-image: "https://picsum.photos/seed/split-off/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **split-off** is a corporate action in which shareholders of a parent company can exchange their parent shares for shares of a subsidiary (or vice versa), but not retain both. Unlike a [spinoff](/spinoff), where all shareholders automatically receive subsidiary shares pro-rata, a split-off gives shareholders a choice: keep parent shares or exchange them for subsidiary shares. A split-off reduces the parent's share count (shareholders who exit buy parent shares for subsidiary shares) and creates two separate publicly traded companies.*
@@ -22,7 +22,7 @@ This entry covers split-offs as a separation mechanism. For related separations,
 
 <div class="wiki-infobox-title">Split-off — key facts</div>
 
-<img src="https://picsum.photos/seed/split-off/900/600" alt="Shareholders choosing between parent and subsidiary" />
+<img src="/svg/corporate.svg" alt="Shareholders choosing between parent and subsidiary" />
 
 <div class="wiki-infobox-caption">A split-off offers shareholders a choice between parent and subsidiary.</div>
 

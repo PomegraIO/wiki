@@ -8,7 +8,7 @@ keywords:
   - uniswap
   - price formula
   - decentralised exchange
-image: "https://picsum.photos/seed/automated-market-maker/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **automated market maker** (**AMM**) is a smart contract mechanism that enables peer-to-peer token trading using [liquidity pools](/liquidity-pool). Instead of matching buyers and sellers through an order book, AMMs use an algorithmic price formula (typically $x \times y = k$) where prices adjust based on the ratio of tokens in the pool.*
@@ -23,7 +23,7 @@ This entry covers the AMM mechanism. For decentralised exchanges that use AMMs, 
 
 <div class="wiki-infobox-title">Automated Market Maker — key facts</div>
 
-<img src="https://picsum.photos/seed/automated-market-maker/900/600" alt="Liquidity pool with price formula" />
+<img src="/svg/crypto.svg" alt="Liquidity pool with price formula" />
 
 <div class="wiki-infobox-caption">An AMM: algorithmic pricing through liquidity pools.</div>
 

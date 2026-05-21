@@ -8,7 +8,7 @@ keywords:
   - balanced portfolio
   - risk parity
   - adaptive portfolio
-image: "https://picsum.photos/seed/all-weather-portfolio/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *An all-weather portfolio is a strategically diversified [asset allocation](/asset-allocation/) designed to deliver acceptable returns in any economic regime — inflationary or deflationary, growth or recession. The strategy balances multiple asset classes with limited correlation, reducing the portfolio's dependence on any single economic outcome.*
@@ -23,7 +23,7 @@ For simple three-asset portfolios, see [three-fund portfolio](/three-fund-portfo
 
 <div class="wiki-infobox-title">All-weather portfolio — key facts</div>
 
-<img src="https://picsum.photos/seed/all-weather-portfolio/900/600" alt="A diversified portfolio with stocks, bonds, commodities, and inflation hedges" />
+<img src="/svg/strategies.svg" alt="A diversified portfolio with stocks, bonds, commodities, and inflation hedges" />
 
 <div class="wiki-infobox-caption">All-weather portfolios hedge multiple economic risks simultaneously, accepting lower peak returns for broader resilience.</div>
 

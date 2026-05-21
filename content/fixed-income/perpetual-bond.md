@@ -7,7 +7,7 @@ keywords:
   - consol
   - infinite maturity
   - perpetual coupon
-image: "https://picsum.photos/seed/perpetual-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **perpetual bond** — also called a **consol** or **perpetuity** — is a debt security with no maturity date. The issuer pays a fixed coupon forever but never redeems the principal. Perpetual bonds are rare in modern debt markets (except among financial institutions and governments) but represent an extreme case of long [duration](/duration) and interest-rate sensitivity.*
@@ -22,7 +22,7 @@ For bonds with long but finite maturities, see [Treasury bond](/treasury-bond). 
 
 <div class="wiki-infobox-title">Perpetual Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/perpetual-bond/900/600" alt="A perpetual bond certificate showing the coupon rate with no maturity date" />
+<img src="/svg/fixed-income.svg" alt="A perpetual bond certificate showing the coupon rate with no maturity date" />
 
 <div class="wiki-infobox-caption">Perpetual bonds pay coupons forever with no terminal return of principal.</div>
 

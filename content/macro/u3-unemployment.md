@@ -7,7 +7,7 @@ keywords:
   - unemployment rate
   - labor statistics
   - jobless rate
-image: "https://picsum.photos/seed/u3-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *U-3 unemployment is the [unemployment rate](/unemployment-rate) as officially calculated and reported by the US Bureau of Labor Statistics. It counts people who have actively searched for work in the past four weeks but have not found a job. It is the most widely cited single measure of labor market health.*
@@ -22,7 +22,7 @@ U-3 is one of six official measures of unemployment (U-1 through U-6). U-3 is th
 
 <div class="wiki-infobox-title">U-3 Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/u3-unemployment/900/600" alt="U-3 unemployment rate trends" />
+<img src="/svg/macro.svg" alt="U-3 unemployment rate trends" />
 
 <div class="wiki-infobox-caption">U-3 is the official headline rate; U-6 typically runs 2-3 points higher.</div>
 

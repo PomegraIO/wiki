@@ -8,7 +8,7 @@ keywords:
   - blue-chip dividends
   - long-term dividend payers
   - stable companies
-image: "https://picsum.photos/seed/dividend-aristocrats/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Dividend-aristocrats are [stocks](/stock/) within the S&P 500 that have increased their [dividends](/dividend/) for a minimum of 25 consecutive years, regardless of market conditions. They represent the most credible, proven dividend growers and form the core of many dividend-focused portfolios.*
@@ -23,7 +23,7 @@ For broader dividend growth, see [dividend-growth investing](/dividend-growth-in
 
 <div class="wiki-infobox-title">Dividend-aristocrats — key facts</div>
 
-<img src="https://picsum.photos/seed/dividend-aristocrats/900/600" alt="A list of blue-chip companies with 25-year dividend records" />
+<img src="/svg/strategies.svg" alt="A list of blue-chip companies with 25-year dividend records" />
 
 <div class="wiki-infobox-caption">Aristocrats prove discipline: 25 years of dividend growth through every market regime.</div>
 

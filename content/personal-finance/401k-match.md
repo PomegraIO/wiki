@@ -7,7 +7,7 @@ keywords:
   - employer contribution
   - free money
   - retirement benefit
-image: "https://picsum.photos/seed/401k-match/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **401(k) match** is money your employer contributes to your [401(k) plan](/401k-plan) based on your contribution. Common formulas include "100% match of the first 3% of salary" or "50% match up to 6%." It is a free benefit that significantly accelerates retirement savings.*
@@ -22,7 +22,7 @@ For the overall 401(k) structure, see [401(k) plan](/401k-plan); for when the ma
 
 <div class="wiki-infobox-title">401(k) Match — key facts</div>
 
-<img src="https://picsum.photos/seed/401k-match/900/600" alt="An employer and employee each contributing money to a retirement account" />
+<img src="/svg/personal-finance.svg" alt="An employer and employee each contributing money to a retirement account" />
 
 <div class="wiki-infobox-caption">The benefit: employer money proportional to employee contribution.</div>
 

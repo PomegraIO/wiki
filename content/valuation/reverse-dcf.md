@@ -7,7 +7,7 @@ keywords:
   - market expectations
   - backward engineering
   - valuation check
-image: "https://picsum.photos/seed/reverse-dcf/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **reverse DCF** takes the market price of a stock and asks: what assumptions would justify this price in a DCF model? If the implied growth is impossibly high, the stock is probably overvalued. If the implied growth is lower than you expect, the stock is probably undervalued. It is a powerful sanity check and sentiment indicator.*

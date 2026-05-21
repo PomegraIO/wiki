@@ -7,7 +7,7 @@ keywords:
   - stock distribution
   - share distribution
   - dividend reinvestment
-image: "https://picsum.photos/seed/stock-dividend/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A stock dividend is a [dividend](/dividend/) paid in additional shares rather than cash. Instead of sending shareholders $1 per share, a company sends 0.1 new shares per share held (a 10% stock dividend). The total value of a shareholder's position is unchanged, but the number of shares increases and the per-share price declines proportionally. Stock dividends are economically equivalent to [stock splits](/equity/stock-split/) but are sometimes used when a [cash dividend](/dividend/) is not sustainable.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/stock-dividend/900/600"
 
 <div class="wiki-infobox-title">Stock dividend — key facts</div>
 
-<img src="https://picsum.photos/seed/stock-dividend/900/600" alt="A dividend distribution statement showing stock dividend issuance" />
+<img src="/svg/equity.svg" alt="A dividend distribution statement showing stock dividend issuance" />
 
 <div class="wiki-infobox-caption">Shares distributed instead of cash, proportional to ownership.</div>
 

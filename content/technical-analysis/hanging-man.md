@@ -7,7 +7,7 @@ keywords:
   - reversal
   - bearish
   - technical analysis
-image: "https://picsum.photos/seed/hanging-man/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **hanging man** is a single-candle pattern that is identical in shape to the [hammer](/technical-analysis/hammer-candle) — a small body with a long lower wick — but occurs in a completely different context: at the top of an uptrend rather than at the bottom of a downtrend. The interpretation is bearish: even though the price bounced off the lower wick, it is now at the end of an upward move, and that bounce in an overbought market signals weakness, not strength. The name evokes the disturbing image of a body hanging from a rope, symbolizing a downtrend to come.*
@@ -22,7 +22,7 @@ The hanging man and hammer are the same shape; only context differs. For the bul
 
 <div class="wiki-infobox-title">Hanging man — key facts</div>
 
-<img src="https://picsum.photos/seed/hanging-man/900/600" alt="A hanging man candlestick with small body and long lower wick, appearing after an uptrend" />
+<img src="/svg/technical-analysis.svg" alt="A hanging man candlestick with small body and long lower wick, appearing after an uptrend" />
 
 <div class="wiki-infobox-caption">A hanging man: same shape as a hammer, but the context is a completed uptrend, making it bearish.</div>
 

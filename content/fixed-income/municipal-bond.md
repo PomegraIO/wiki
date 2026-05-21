@@ -7,7 +7,7 @@ keywords:
   - tax-exempt bond
   - local government debt
   - public finance
-image: "https://picsum.photos/seed/municipal-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **municipal bond** — or **muni bond** — is a debt security issued by a state, city, county, school district, utility, or other local government entity to raise funds for public infrastructure, schools, hospitals, or other community projects. The defining feature is that interest income is exempt from federal income tax and, if you reside in the issuing jurisdiction, from state and local income tax.*
@@ -22,7 +22,7 @@ For federal government debt, see [Treasury note](/treasury-note) and [Treasury b
 
 <div class="wiki-infobox-title">Municipal Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/municipal-bond/900/600" alt="A city skyline showing infrastructure projects funded by municipal bonds" />
+<img src="/svg/fixed-income.svg" alt="A city skyline showing infrastructure projects funded by municipal bonds" />
 
 <div class="wiki-infobox-caption">Municipal bonds finance roads, schools, water systems, and other public assets.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - hybrid strategy
   - quality investing
   - earnings growth
-image: "https://picsum.photos/seed/garp/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *GARP — Growth at a Reasonable Price — is a middle-ground strategy that marries the value investor's insistence on reasonable valuation with the growth investor's pursuit of earnings expansion. The goal is to find companies growing faster than the market average but trading at a [price-to-earnings ratio](/price-to-earnings-ratio/) not so extreme as to require perfection.*
@@ -23,7 +23,7 @@ For pure growth, see [growth investing](/growth-investing/). For pure value, see
 
 <div class="wiki-infobox-title">GARP — key facts</div>
 
-<img src="https://picsum.photos/seed/garp/900/600" alt="A balanced portfolio of well-managed companies trading at fair multiples" />
+<img src="/svg/strategies.svg" alt="A balanced portfolio of well-managed companies trading at fair multiples" />
 
 <div class="wiki-infobox-caption">GARP hunters seek the Goldilocks zone: growth that is real, valuations that are not reckless.</div>
 

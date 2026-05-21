@@ -7,7 +7,7 @@ keywords:
   - government borrowing cap
   - fiscal constraint
   - borrowing authority
-image: "https://picsum.photos/seed/debt-limit/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *The **debt limit** is the maximum amount of [national debt](/national-debt) the US government is permitted to accumulate under federal law. It is another term for [debt ceiling](/debt-ceiling) and serves as the legal constraint on government borrowing.*
@@ -22,7 +22,7 @@ This entry covers the legal borrowing cap. For a more detailed treatment, see [d
 
 <div class="wiki-infobox-title">Debt Limit — key facts</div>
 
-<img src="https://picsum.photos/seed/debt-limit/900/600" alt="Debt limit" />
+<img src="/svg/fiscal.svg" alt="Debt limit" />
 
 <div class="wiki-infobox-caption">The debt limit is the legal maximum government borrowing authority.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - ethereum
   - scaling
   - sidechain
-image: "https://picsum.photos/seed/polygon/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **Polygon** (formerly Matic, **MATIC**) is a framework for building Ethereum-compatible blockchains and layer-2 scaling solutions. It offers multiple options ranging from sidechains (which sacrifice some Ethereum security) to rollups (which inherit Ethereum's security), allowing developers to choose their preferred security and performance trade-offs.*
@@ -23,7 +23,7 @@ This entry covers the Polygon network and ecosystem. For Ethereum's base layer, 
 
 <div class="wiki-infobox-title">Polygon — key facts</div>
 
-<img src="https://picsum.photos/seed/polygon/900/600" alt="Polygon network architecture diagram" />
+<img src="/svg/crypto.svg" alt="Polygon network architecture diagram" />
 
 <div class="wiki-infobox-caption">Polygon: a framework for Ethereum scaling with multiple options.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - payroll tax
   - retirement income
   - FICA
-image: "https://picsum.photos/seed/social-security-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **Social Security** system is a federal insurance program in which workers and employers pay payroll taxes (FICA: Federal Insurance Contributions Act). In exchange, retired workers, disabled workers, and their families receive monthly benefits. For most Americans, Social Security is the foundation of retirement income.*
@@ -22,7 +22,7 @@ For the age-65 medical insurance system, see [Medicare](/medicare-personal); for
 
 <div class="wiki-infobox-title">Social Security — key facts</div>
 
-<img src="https://picsum.photos/seed/social-security-personal/900/600" alt="A Social Security card and benefit statement" />
+<img src="/svg/personal-finance.svg" alt="A Social Security card and benefit statement" />
 
 <div class="wiki-infobox-caption">The foundation: monthly retirement income funded by payroll taxes.</div>
 

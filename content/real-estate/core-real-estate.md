@@ -7,7 +7,7 @@ keywords:
   - core assets
   - buy and hold
   - institutional real estate
-image: "https://picsum.photos/seed/core-real-estate/900/600"
+image: "/svg/real-estate.svg"
 ---
 
 *A **core** real estate strategy involves purchasing and holding high-quality, income-generating properties in prime locations with stable, creditworthy tenants. Core properties are typically held for 7–10+ years to capture long-term appreciation and dividend income, with target returns of 4–6%.*
@@ -22,7 +22,7 @@ For comparison, see [value-add-real-estate](/value-add-real-estate) (improvement
 
 <div class="wiki-infobox-title">Core Real Estate — key facts</div>
 
-<img src="https://picsum.photos/seed/core-real-estate/900/600" alt="A high-quality, well-maintained property" />
+<img src="/svg/real-estate.svg" alt="A high-quality, well-maintained property" />
 
 <div class="wiki-infobox-caption">Core properties are stable, fully leased, and cash-flowing.</div>
 

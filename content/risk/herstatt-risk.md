@@ -7,7 +7,7 @@ keywords:
   - foreign exchange risk
   - cross-currency risk
   - payment system failure
-image: "https://picsum.photos/seed/herstatt-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Herstatt risk is a form of [settlement-risk](/settlement-risk) specific to foreign exchange transactions, where one counterparty delivers one currency while the other fails to deliver the counter-currency, named after Herstatt Bank's 1974 failure. It is a critical concern for international financial institutions and is mitigated through systems like CLS (Continuous Linked Settlement).*
@@ -22,7 +22,7 @@ This entry covers FX settlement failure specifically. For settlement risk more b
 
 <div class="wiki-infobox-title">Herstatt Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/herstatt-risk/900/600" alt="A currency exchange frozen mid-transaction, one currency delivered, the other missing" />
+<img src="/svg/risk.svg" alt="A currency exchange frozen mid-transaction, one currency delivered, the other missing" />
 
 <div class="wiki-infobox-caption">Herstatt risk materializes when one FX leg settles but the other fails.</div>
 

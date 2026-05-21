@@ -7,7 +7,7 @@ keywords:
   - inflation decline
   - price growth slowdown
   - inflation moderation
-image: "https://picsum.photos/seed/disinflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Disinflation is a situation where [inflation](/inflation) slows — prices still rise, but at a decreasing rate. It is distinct from [deflation](/deflation), where prices actually fall. The US has experienced [disinflation](/disinflation) regularly: the sharp drop from 14% [inflation](/inflation) in 1980 to 3% by 1985, and again from the 2021-22 surge to 2.5–3% by 2026.*
@@ -22,7 +22,7 @@ image: "https://picsum.photos/seed/disinflation/900/600"
 
 <div class="wiki-infobox-title">Disinflation — key facts</div>
 
-<img src="https://picsum.photos/seed/disinflation/900/600" alt="Disinflation episodes in US history" />
+<img src="/svg/macro.svg" alt="Disinflation episodes in US history" />
 
 <div class="wiki-infobox-caption">The 1980-85 Volcker disinflation crushed inflation from 14% to 3% but required severe recession.</div>
 

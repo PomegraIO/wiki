@@ -7,7 +7,7 @@ keywords:
   - sovereign debt
   - credit spread
   - default probability
-image: "https://picsum.photos/seed/sovereign-risk/900/600"
+image: "/svg/risk.svg"
 ---
 
 *Sovereign risk is the risk that a government — a sovereign nation — will default on its debt obligations or be unable or unwilling to pay them in full and on time. It is a subset of [credit-risk](/credit-risk), but with the added complexity that sovereigns cannot be liquidated or forced into bankruptcy the way corporations can.*
@@ -22,7 +22,7 @@ This entry covers the default risk of governments. For the broader set of risks 
 
 <div class="wiki-infobox-title">Sovereign Risk — key facts</div>
 
-<img src="https://picsum.photos/seed/sovereign-risk/900/600" alt="Government bonds stacked with a downward-pointing arrow overlay" />
+<img src="/svg/risk.svg" alt="Government bonds stacked with a downward-pointing arrow overlay" />
 
 <div class="wiki-infobox-caption">Sovereign risk determines the yields governments must pay to borrow.</div>
 

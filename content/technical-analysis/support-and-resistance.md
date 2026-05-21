@@ -7,7 +7,7 @@ keywords:
   - price level
   - technical analysis
   - reversal
-image: "https://picsum.photos/seed/support-and-resistance/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **support level** is a price floor where buying interest historically emerges, preventing prices from falling further. A **resistance level** is a price ceiling where selling interest emerges, capping rallies. These levels form wherever price has repeatedly bounced (support) or turned back down (resistance), revealing the balance of supply and demand at that level. Support and resistance are the foundational concepts of technical analysis—once identified, they provide context for [trendlines](/technical-analysis/trendline), [chart patterns](/technical-analysis/channel-pattern), and reversal signals. The efficacy of support and resistance in predicting future price action is debated, but their presence is undeniable in historical price data.*
@@ -22,7 +22,7 @@ Support and resistance are visible on any chart type: [candlesticks](/technical-
 
 <div class="wiki-infobox-title">Support and resistance — key facts</div>
 
-<img src="https://picsum.photos/seed/support-and-resistance/900/600" alt="A price chart showing a support level where price bounces and a resistance level where price turns down" />
+<img src="/svg/technical-analysis.svg" alt="A price chart showing a support level where price bounces and a resistance level where price turns down" />
 
 <div class="wiki-infobox-caption">Support and resistance: horizontal price levels where history reveals buyers or sellers have stepped in.</div>
 

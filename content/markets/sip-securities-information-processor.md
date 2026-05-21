@@ -8,7 +8,7 @@ keywords:
   - consolidated tape
   - real-time quotes
   - market infrastructure
-image: "https://picsum.photos/seed/sip-securities-information-processor/900/600"
+image: "/svg/markets.svg"
 ---
 
 *A **Securities Information Processor (SIP)** is a centralized facility that aggregates quote and trade data from all US stock exchanges and [alternative trading systems](/alternative-trading-system), combines them, and disseminates consolidated market data in real time. In the US, the SIP is operated by exchanges and distributes data showing the best bid and ask prices and recent trades. The SIP is the official source of the national best bid and offer (NBBO) and is essential to fair market pricing.*
@@ -23,7 +23,7 @@ This entry is about the data aggregation mechanism. For the data feed it produce
 
 <div class="wiki-infobox-title">Securities Information Processor — key facts</div>
 
-<img src="https://picsum.photos/seed/sip-securities-information-processor/900/600" alt="A data center facility processing market data from multiple exchanges" />
+<img src="/svg/markets.svg" alt="A data center facility processing market data from multiple exchanges" />
 
 <div class="wiki-infobox-caption">The SIP aggregates data from all venues and publishes the consolidated national best bid and offer.</div>
 

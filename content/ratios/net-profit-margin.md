@@ -7,7 +7,7 @@ keywords:
   - profitability
   - net income
   - bottom-line profit
-image: "https://picsum.photos/seed/net-profit-margin/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **net profit margin** — or **net margin** — divides net income by revenue and expresses it as a percentage. Net income is the bottom line: revenue minus all costs, including cost of goods sold, operating expenses, interest, and taxes. A 10% net margin means the company keeps 10 cents of every sales dollar. Net margin is the truest measure of profitability, accounting for every claim on the business.*
@@ -22,7 +22,7 @@ This entry covers the bottom-line profitability metric. For profitability before
 
 <div class="wiki-infobox-title">Net Profit Margin — key facts</div>
 
-<img src="https://picsum.photos/seed/net-profit-margin/900/600" alt="Net income as a percentage of revenue" />
+<img src="/svg/ratios.svg" alt="Net income as a percentage of revenue" />
 
 <div class="wiki-infobox-caption">The profit left for shareholders after all obligations.</div>
 

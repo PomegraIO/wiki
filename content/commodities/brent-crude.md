@@ -7,7 +7,7 @@ keywords:
   - North Sea
   - global pricing
   - ICE futures
-image: "https://picsum.photos/seed/brent-crude/900/600"
+image: "/svg/commodities.svg"
 ---
 
 *A **Brent crude** — light, sweet crude oil from North Sea fields between the UK and Norway — is the world's dominant crude oil pricing benchmark, used to price roughly 70% of global oil trade. Brent's geographical position (closer to major Asian and European consumers) and its cultural importance make Brent the de facto global oil price, more influential than [WTI crude](/wti-crude/) despite lower trading volume.*
@@ -22,7 +22,7 @@ This entry covers Brent crude as a price benchmark and trading instrument. For N
 
 <div class="wiki-infobox-title">Brent Crude — key facts</div>
 
-<img src="https://picsum.photos/seed/brent-crude/900/600" alt="Brent oil platform in North Sea" />
+<img src="/svg/commodities.svg" alt="Brent oil platform in North Sea" />
 
 <div class="wiki-infobox-caption">Brent oil production in the North Sea — the world's reference oil price.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - high income roth
   - non-deductible ira
   - roth strategy
-image: "https://picsum.photos/seed/backdoor-roth/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **backdoor Roth** is a legal tax strategy for high earners to contribute to a [Roth IRA](/roth-ira) despite exceeding the normal income limits. You contribute to a traditional [IRA](/traditional-ira) (non-deductibly), then immediately convert it to a Roth, sidestepping the income cap.*
@@ -22,7 +22,7 @@ For the advanced version, see [mega backdoor Roth](/mega-backdoor-roth); for Rot
 
 <div class="wiki-infobox-title">Backdoor Roth — key facts</div>
 
-<img src="https://picsum.photos/seed/backdoor-roth/900/600" alt="Two arrows labeled traditional IRA and Roth IRA, with traditional pointing to Roth" />
+<img src="/svg/personal-finance.svg" alt="Two arrows labeled traditional IRA and Roth IRA, with traditional pointing to Roth" />
 
 <div class="wiki-infobox-caption">The path: contribution → immediate conversion.</div>
 

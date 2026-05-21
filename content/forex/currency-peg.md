@@ -7,7 +7,7 @@ keywords:
   - peg currency
   - exchange rate peg
   - soft peg
-image: "https://picsum.photos/seed/currency-peg/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **currency peg** is an exchange-rate regime in which a [central bank](/central-bank) fixes its currency's value to another currency or basket. The peg can be hard (a rock-solid commitment like the Hong Kong dollar at 7.80 USD) or soft (an announced target that can be adjusted). A peg removes the exchange rate as a tool of [monetary policy](/federal-reserve) but provides certainty for trade and investment.*
@@ -22,7 +22,7 @@ For a peg with no flexibility, see [fixed exchange rate](/fixed-exchange-rate); 
 
 <div class="wiki-infobox-title">Currency Peg — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-peg/900/600" alt="Various pegging arrangements shown on a chart" />
+<img src="/svg/forex.svg" alt="Various pegging arrangements shown on a chart" />
 
 <div class="wiki-infobox-caption">Pegs fix exchange rates; credibility depends on reserves and commitment.</div>
 

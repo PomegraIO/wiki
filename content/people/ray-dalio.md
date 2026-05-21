@@ -7,7 +7,7 @@ keywords:
   - all weather portfolio
   - macro trader
   - principles
-image: "https://picsum.photos/seed/ray-dalio/900/600"
+image: "/svg/people.svg"
 ---
 
 *Ray Dalio built Bridgewater Associates into the world's largest [hedge fund](/hedge-fund) by combining rigorous macro analysis with systematic risk management, radical transparency as management principle, and the conviction that market cycles repeat.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/ray-dalio/900/600"
 
 <div class="wiki-infobox-title">Ray Dalio — key facts</div>
 
-<img src="https://picsum.photos/seed/ray-dalio/900/600" alt="Bridgewater's offices overlooking Connecticut coastline" />
+<img src="/svg/people.svg" alt="Bridgewater's offices overlooking Connecticut coastline" />
 
 <div class="wiki-infobox-caption">The headquarters of a research machine — built on data and discipline.</div>
 

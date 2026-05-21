@@ -8,7 +8,7 @@ keywords:
   - bimodal allocation
   - safe and risky
   - asymmetric risk-reward
-image: "https://picsum.photos/seed/barbell-strategy/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *A barbell strategy is an [asset-allocation](/asset-allocation/) approach that concentrates investments in two extremes: safe, liquid positions (bonds, cash) and high-conviction, high-risk/high-reward bets ([stocks](/stock/), [options](/option/), startups), while minimizing middle-ground positions. The philosophy is that **convexity** — asymmetric payoff potential — rewards this bimodal distribution.*
@@ -23,7 +23,7 @@ For traditional balanced approaches, see [all-weather portfolio](/all-weather-po
 
 <div class="wiki-infobox-title">Barbell strategy — key facts</div>
 
-<img src="https://picsum.photos/seed/barbell-strategy/900/600" alt="A barbell distribution of capital with extremes safe and risky, middle thin" />
+<img src="/svg/strategies.svg" alt="A barbell distribution of capital with extremes safe and risky, middle thin" />
 
 <div class="wiki-infobox-caption">Barbell investors accept low returns on part of capital to buy convexity on the rest.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - labor productivity
   - economic growth
   - efficiency
-image: "https://picsum.photos/seed/productivity/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Productivity is the quantity of output produced per unit of input — most commonly [labor productivity](/labor-productivity), which measures output per hour of work. Over the long run, productivity growth is the only reliable source of rising living standards. When productivity is stagnant, wages stagnate. When productivity accelerates, it can drive [GDP](/gross-domestic-product) growth even with a stable [labor force](/labor-force-participation-rate).*
@@ -22,7 +22,7 @@ There are multiple productivity measures: [labor productivity](/labor-productivi
 
 <div class="wiki-infobox-title">Productivity — key facts</div>
 
-<img src="https://picsum.photos/seed/productivity/900/600" alt="US productivity growth over decades" />
+<img src="/svg/macro.svg" alt="US productivity growth over decades" />
 
 <div class="wiki-infobox-caption">Long-run productivity growth has averaged about 1.5–2% annually in developed economies.</div>
 

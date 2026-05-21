@@ -7,7 +7,7 @@ keywords:
   - constitutional law
   - deficit limit
   - fiscal discipline
-image: "https://picsum.photos/seed/balanced-budget-amendment/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **balanced budget amendment** is a constitutional or statutory provision requiring a government to spend no more than it collects in revenue each fiscal year, or over a defined period. It constrains the ability to run [budget deficits](/budget-deficit) and forces the government to cut spending or raise taxes whenever revenues fall.*
@@ -22,7 +22,7 @@ This entry covers constitutional fiscal constraints. For the opposite principle,
 
 <div class="wiki-infobox-title">Balanced Budget Amendment — key facts</div>
 
-<img src="https://picsum.photos/seed/balanced-budget-amendment/900/600" alt="Balanced budget amendment" />
+<img src="/svg/fiscal.svg" alt="Balanced budget amendment" />
 
 <div class="wiki-infobox-caption">Balanced budget amendments constrain government deficit spending.</div>
 

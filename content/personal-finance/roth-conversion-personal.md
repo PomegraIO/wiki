@@ -7,7 +7,7 @@ keywords:
   - tax planning
   - retirement account
   - pre-tax to after-tax
-image: "https://picsum.photos/seed/roth-conversion-personal/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **Roth conversion** is the process of moving money from a [traditional IRA](/traditional-ira), [401(k)](/401k-plan), or other pre-tax retirement account into a [Roth IRA](/roth-ira) or Roth account. You owe income tax on the converted amount in the year of conversion, but the money then grows tax-free in the Roth.*
@@ -22,7 +22,7 @@ For the backdoor Roth strategy, see [backdoor Roth](/backdoor-roth); for mega co
 
 <div class="wiki-infobox-title">Roth Conversion — key facts</div>
 
-<img src="https://picsum.photos/seed/roth-conversion-personal/900/600" alt="A traditional IRA account transforming into a Roth IRA account with a tax bill shown" />
+<img src="/svg/personal-finance.svg" alt="A traditional IRA account transforming into a Roth IRA account with a tax bill shown" />
 
 <div class="wiki-infobox-caption">The trade: immediate tax bill for future tax-free growth.</div>
 

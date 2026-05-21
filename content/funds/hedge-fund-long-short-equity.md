@@ -8,7 +8,7 @@ keywords:
   - short selling
   - alpha generation
   - fund
-image: "https://picsum.photos/seed/hedge-fund-long-short-equity/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **long/short equity hedge fund** is a [hedge fund](/hedge-fund) that combines long positions (buying stocks expected to outperform) with [short positions](/short-selling) (selling stocks expected to underperform). By balancing longs and shorts, the fund aims to generate [alpha](/alpha) (excess returns) while reducing exposure to broad market movements. Long/short is one of the largest and oldest hedge fund strategies.*
@@ -23,7 +23,7 @@ This entry covers long/short equity specifically. For hedge funds broadly, see [
 
 <div class="wiki-infobox-title">Long/Short Equity Hedge Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/hedge-fund-long-short-equity/900/600" alt="A portfolio showing long positions and short positions balanced" />
+<img src="/svg/funds.svg" alt="A portfolio showing long positions and short positions balanced" />
 
 <div class="wiki-infobox-caption">Long/short funds bet on both winners and losers, isolating stock-picking skill.</div>
 

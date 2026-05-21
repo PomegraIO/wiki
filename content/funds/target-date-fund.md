@@ -7,7 +7,7 @@ keywords:
   - retirement planning
   - automatic rebalancing
   - fund
-image: "https://picsum.photos/seed/target-date-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **target-date fund** (sometimes called a **target retirement fund**) is a [mutual fund](/mutual-fund) or [ETF](/etf) designed to serve as a complete retirement investment solution. The fund holds a mix of [stocks](/stock) and [bonds](/bond) that automatically shifts from aggressive (more stocks) when you are far from retirement, to conservative (more bonds) as your retirement date approaches. The goal is a fire-and-forget investment strategy.*
@@ -22,7 +22,7 @@ This entry covers target-date funds as a category. For automatic rebalancing pri
 
 <div class="wiki-infobox-title">Target-Date Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/target-date-fund/900/600" alt="A glide path chart showing asset allocation shifting over time" />
+<img src="/svg/funds.svg" alt="A glide path chart showing asset allocation shifting over time" />
 
 <div class="wiki-infobox-caption">Target-date funds automatically adjust risk as retirement approaches.</div>
 

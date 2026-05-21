@@ -7,7 +7,7 @@ keywords:
   - buyout
   - asset purchase
   - stock purchase
-image: "https://picsum.photos/seed/acquisition/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *An **acquisition** is a transaction in which one company (the acquirer or buyer) purchases the shares or assets of another company (the target or seller). Unlike a [merger](/merger), which combines the legal entities, an acquisition leaves the target either intact as a subsidiary or dissolves it into the acquirer's operations. Acquisitions are the legal foundation of most corporate combinations.*
@@ -22,7 +22,7 @@ This entry covers the mechanics of acquisition structures. For the business rati
 
 <div class="wiki-infobox-title">Acquisition — key facts</div>
 
-<img src="https://picsum.photos/seed/acquisition/900/600" alt="One company acquiring another" />
+<img src="/svg/corporate.svg" alt="One company acquiring another" />
 
 <div class="wiki-infobox-caption">An acquisition transfers ownership or control of a company.</div>
 

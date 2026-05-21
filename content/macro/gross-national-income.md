@@ -7,7 +7,7 @@ keywords:
   - national income
   - net factor income
   - terms of trade
-image: "https://picsum.photos/seed/gross-national-income/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Gross National Income — abbreviated **GNI** — measures the total income earned by a country's residents, both from domestic production and from investments and employment abroad, adjusted for payments made to foreign investors. It is the income-based counterpart to [GDP](/gross-domestic-product) and the standard modern measure used by the World Bank and IMF.*
@@ -22,7 +22,7 @@ GNI = [GDP](/gross-domestic-product) + net income from abroad. It differs from [
 
 <div class="wiki-infobox-title">Gross National Income — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-national-income/900/600" alt="GNI per capita rankings" />
+<img src="/svg/macro.svg" alt="GNI per capita rankings" />
 
 <div class="wiki-infobox-caption">GNI per capita is the World Bank's standard for classifying development levels.</div>
 

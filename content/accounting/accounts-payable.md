@@ -7,7 +7,7 @@ keywords:
   - current liability
   - trade payables
   - vendor credit
-image: "https://picsum.photos/seed/accounts-payable/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Accounts payable](/accounts-payable) is a current liability on the [balance sheet](/balance-sheet) representing amounts the company owes to suppliers for goods or services already received but not yet paid. It is the mirror image of [accounts receivable](/accounts-receivable): when a company buys goods on credit, the supplier has [accounts receivable](/accounts-receivable); the company has [accounts payable](/accounts-payable). Managing [accounts payable](/accounts-payable) is a core part of working capital management. Slower payment extends the company's cash, but it must be balanced against supplier relationships and credit terms.*
@@ -22,7 +22,7 @@ This entry covers accounts payable as a balance sheet item. For the broader conc
 
 <div class="wiki-infobox-title">Accounts payable — key facts</div>
 
-<img src="https://picsum.photos/seed/accounts-payable/900/600" alt="A balance sheet showing accounts payable among current liabilities" />
+<img src="/svg/accounting.svg" alt="A balance sheet showing accounts payable among current liabilities" />
 
 <div class="wiki-infobox-caption">Accounts payable is a non-interest-bearing, short-term liability.</div>
 

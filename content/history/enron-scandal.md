@@ -7,7 +7,7 @@ keywords:
   - accounting fraud
   - corporate governance
   - bankruptcy
-image: "https://picsum.photos/seed/enron-scandal/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Enron Scandal** was the uncovering of massive accounting fraud at the Enron Corporation, a Houston-based energy and commodities trading firm. Once celebrated as a model of innovation, Enron's stock fell from $90 to bankruptcy in 2001 after it was revealed that nearly the company's entire profitability had been fabricated through accounting tricks and management deception. The scandal destroyed $63 billion in shareholder value and exposed the failures of corporate auditors, boards, and regulators.*
@@ -22,7 +22,7 @@ This entry covers Enron's collapse. For the regulatory response, see [Sarbanes-O
 
 <div class="wiki-infobox-title">Enron Scandal — key facts</div>
 
-<img src="https://picsum.photos/seed/enron-scandal/900/600" alt="A photograph of the Enron building in Houston with its logo" />
+<img src="/svg/history.svg" alt="A photograph of the Enron building in Houston with its logo" />
 
 <div class="wiki-infobox-caption">Enron's gleaming Houston headquarters became a symbol of corporate fraud and accounting deception.</div>
 

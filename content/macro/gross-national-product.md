@@ -7,7 +7,7 @@ keywords:
   - national output
   - economic measurement
   - residents versus borders
-image: "https://picsum.photos/seed/gross-national-product/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Gross National Product — abbreviated **GNP** — measures the total value of goods and services produced by a country's residents and nationals, regardless of whether they are produced at home or abroad. It is a less commonly used cousin of [GDP](/gross-domestic-product), but it better captures the economic activity attributable to a nation's people.*
@@ -22,7 +22,7 @@ The key difference: [GDP](/gross-domestic-product) measures output within a coun
 
 <div class="wiki-infobox-title">Gross National Product — key facts</div>
 
-<img src="https://picsum.photos/seed/gross-national-product/900/600" alt="GDP versus GNP" />
+<img src="/svg/macro.svg" alt="GDP versus GNP" />
 
 <div class="wiki-infobox-caption">GNP focuses on citizens' output; GDP focuses on geographic location.</div>
 

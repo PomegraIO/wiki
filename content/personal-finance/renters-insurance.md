@@ -7,7 +7,7 @@ keywords:
   - personal property insurance
   - liability insurance
   - rental coverage
-image: "https://picsum.photos/seed/renters-insurance/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **renters insurance** policy protects your personal belongings against damage or theft and provides liability coverage if someone is injured on your rental property. Despite being affordable ($10–$20 per month), it is significantly underutilized — many renters mistakenly assume landlords' insurance covers their possessions.*
@@ -22,7 +22,7 @@ For homeowners coverage, see [homeowners insurance](/homeowners-insurance); for 
 
 <div class="wiki-infobox-title">Renters Insurance — key facts</div>
 
-<img src="https://picsum.photos/seed/renters-insurance/900/600" alt="A rental apartment with personal belongings and an insurance document" />
+<img src="/svg/personal-finance.svg" alt="A rental apartment with personal belongings and an insurance document" />
 
 <div class="wiki-infobox-caption">The model: protection for tenant belongings and liability.</div>
 

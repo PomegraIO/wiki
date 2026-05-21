@@ -6,7 +6,7 @@ keywords:
   - schedule k-1
   - pass-through income
   - partnership
-image: "https://picsum.photos/seed/k-1-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *The **Schedule K-1** is a tax form that reports pass-through income from partnerships, S-corporations, and other pass-through entities to individual investors. As an investor, you receive a K-1 showing your share of the entity's income, [deductions](/itemized-deduction-investor/), [capital gains](/capital-gains-tax-investor/), and [credits](/charitable-contribution-deduction/). You must report this K-1 income on your personal return and pay tax at your individual rate, even if the entity did not distribute cash. K-1 income is one of the most complex areas of tax filing.*
@@ -21,7 +21,7 @@ For corporate income (C-corp), see [1099-DIV](/1099-div/). For the entity that i
 
 <div class="wiki-infobox-title">K-1 income for investors — key facts</div>
 
-<img src="https://picsum.photos/seed/k-1-investor/900/600" alt="A Schedule K-1 tax form" />
+<img src="/svg/taxes.svg" alt="A Schedule K-1 tax form" />
 
 <div class="wiki-infobox-caption">Pass-through entities issue K-1 to report investor income and deductions.</div>
 

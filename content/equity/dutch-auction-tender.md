@@ -7,7 +7,7 @@ keywords:
   - Dutch auction tender
   - share repurchase
   - auction mechanism
-image: "https://picsum.photos/seed/dutch-auction-tender/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A Dutch auction tender offer is a structured [share buyback](/equity/share-buyback/) mechanism in which a company specifies the number of shares it wants to repurchase and shareholders submit bids indicating the price at which they are willing to sell and the number of shares offered. The company then sets a clearing price — the lowest price at which it can acquire the desired quantity — and repurchases all tendered shares at or below that price. This mechanism allows the company to repurchase shares at an efficient price while giving shareholders a choice of sale prices.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/dutch-auction-tender/900/600"
 
 <div class="wiki-infobox-title">Dutch auction tender — key facts</div>
 
-<img src="https://picsum.photos/seed/dutch-auction-tender/900/600" alt="A Dutch auction bid ladder showing price levels and share quantities" />
+<img src="/svg/equity.svg" alt="A Dutch auction bid ladder showing price levels and share quantities" />
 
 <div class="wiki-infobox-caption">Auction-based repurchase setting clearing price by bids received.</div>
 

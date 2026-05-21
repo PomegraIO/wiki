@@ -7,7 +7,7 @@ keywords:
   - market risk premium
   - cost of equity
   - required return
-image: "https://picsum.photos/seed/equity-risk-premium/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *The **equity risk premium** is the extra annual return investors demand for holding stocks instead of risk-free government bonds. It is the most important—and most debated—assumption in valuation. A 1% difference in the equity risk premium swings cost of equity by 1% and valuation by 15–25%.*

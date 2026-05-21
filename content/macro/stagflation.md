@@ -7,7 +7,7 @@ keywords:
   - inflation
   - economic weakness
   - supply shock
-image: "https://picsum.photos/seed/stagflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Stagflation is the combination of stagnant growth (or [recession](/recession)), high [unemployment](/unemployment-rate), and persistent [inflation](/inflation). It is a policymaker's nightmare because the usual remedies conflict: stimulus to fight [unemployment](/unemployment-rate) worsens [inflation](/inflation); [interest rate](/interest-rate) hikes to fight [inflation](/inflation) deepen [unemployment](/unemployment-rate). Stagflation typically results from supply shocks that simultaneously reduce output and raise prices.*
@@ -22,7 +22,7 @@ The classic example is the 1970s, when oil embargoes triggered simultaneous high
 
 <div class="wiki-infobox-title">Stagflation — key facts</div>
 
-<img src="https://picsum.photos/seed/stagflation/900/600" alt="Stagflation in the 1970s" />
+<img src="/svg/macro.svg" alt="Stagflation in the 1970s" />
 
 <div class="wiki-infobox-caption">The 1970s stagflation was caused by oil embargoes and policy errors; ended by Volcker's tight policy.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - smart contract
   - amm
   - uniswap
-image: "https://picsum.photos/seed/decentralized-exchange/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **decentralised exchange** (**DEX**) is a peer-to-peer cryptocurrency trading platform where users trade directly from their own wallets using smart contracts. DEXs eliminate custodial risk and censorship, but trading speed and liquidity depend on the underlying blockchain. The most common DEX model is the [automated market maker](/automated-market-maker) (AMM).*
@@ -23,7 +23,7 @@ This entry covers decentralised exchanges. For centralised exchanges, see [centr
 
 <div class="wiki-infobox-title">Decentralised Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/decentralized-exchange/900/600" alt="DEX smart contract interface" />
+<img src="/svg/crypto.svg" alt="DEX smart contract interface" />
 
 <div class="wiki-infobox-caption">A DEX: peer-to-peer, trustless, on-chain.</div>
 

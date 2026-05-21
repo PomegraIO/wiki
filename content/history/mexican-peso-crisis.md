@@ -7,7 +7,7 @@ keywords:
   - currency crisis
   - devaluation
   - emerging markets
-image: "https://picsum.photos/seed/mexican-peso-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Mexican Peso Crisis** of 1994–1995 was a sudden and severe devaluation of the Mexican currency that rippled through emerging markets globally. Mexico had maintained an exchange rate peg that became unsustainable as capital fled; when the peg was abandoned, the peso collapsed by roughly 50% in weeks. The crisis threatened Mexican banks, corporations, and households, requiring a $50 billion emergency bailout from the US and IMF.*
@@ -22,7 +22,7 @@ This entry covers the Mexican crisis of 1994–95. For the subsequent Asian Fina
 
 <div class="wiki-infobox-title">Mexican Peso Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/mexican-peso-crisis/900/600" alt="A newspaper headline announcing the peso collapse and emergency bailout" />
+<img src="/svg/history.svg" alt="A newspaper headline announcing the peso collapse and emergency bailout" />
 
 <div class="wiki-infobox-caption">The peso's sudden devaluation sent shockwaves through Latin America and emerging markets globally.</div>
 

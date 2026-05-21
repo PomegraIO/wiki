@@ -7,7 +7,7 @@ keywords:
   - temporary appropriations
   - fiscal policy
   - budget authority
-image: "https://picsum.photos/seed/continuing-resolution/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *A **continuing resolution** (CR) is a temporary law Congress passes to authorize government spending when it has not yet completed the regular appropriations process. It allows the government to continue operations at prior-year spending levels, typically for a few weeks or months, until permanent [appropriations bills](/appropriations-bill) pass.*
@@ -22,7 +22,7 @@ This entry covers the temporary funding mechanism. For when the government actua
 
 <div class="wiki-infobox-title">Continuing Resolution — key facts</div>
 
-<img src="https://picsum.photos/seed/continuing-resolution/900/600" alt="Continuing resolution" />
+<img src="/svg/fiscal.svg" alt="Continuing resolution" />
 
 <div class="wiki-infobox-caption">Continuing resolutions allow government to operate while Congress debates spending.</div>
 

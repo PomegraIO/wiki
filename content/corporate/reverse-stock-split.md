@@ -7,7 +7,7 @@ keywords:
   - consolidation
   - share consolidation
   - stock manipulation
-image: "https://picsum.photos/seed/reverse-stock-split/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **reverse stock split** (or **reverse split** or **consolidation**) is a corporate action in which a company combines multiple outstanding shares into one share, reducing the total number of shares while increasing the price per share. In a 1-for-10 reverse split, every 10 existing shares becomes 1 new share. The total market capitalization is unchanged, and shareholders' ownership percentage is unchanged, but the share count drops and the share price increases. Reverse splits are typically used by distressed companies trying to meet listing standards or improve share price perception.*
@@ -22,7 +22,7 @@ This entry covers reverse stock splits as a corporate action. For the opposite a
 
 <div class="wiki-infobox-title">Reverse stock split — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-stock-split/900/600" alt="Shares being consolidated" />
+<img src="/svg/corporate.svg" alt="Shares being consolidated" />
 
 <div class="wiki-infobox-caption">A reverse split combines multiple shares into one.</div>
 

@@ -8,7 +8,7 @@ keywords:
   - small-cap index
   - market segment
   - equity index
-image: "https://picsum.photos/seed/russell-2000/900/600"
+image: "/svg/markets.svg"
 ---
 
 *The **Russell 2000 Index** is a market-capitalization-weighted index of 2,000 small-cap US companies, maintained by the FTSE Russell (a subsidiary of the London Stock Exchange Group). It represents the small-cap segment of the US market, starting approximately where the [Russell 1000](/russell-2000) (the 1,000 largest companies) ends. The Russell 2000 is more volatile and less liquid than the [S&P 500](/sp-500-index) but offers valuable exposure to smaller, faster-growing companies.*
@@ -23,7 +23,7 @@ This entry is about the Russell 2000 small-cap index. For large-cap indices, see
 
 <div class="wiki-infobox-title">Russell 2000 — key facts</div>
 
-<img src="https://picsum.photos/seed/russell-2000/900/600" alt="A historical chart of the Russell 2000 index showing small-cap market performance" />
+<img src="/svg/markets.svg" alt="A historical chart of the Russell 2000 index showing small-cap market performance" />
 
 <div class="wiki-infobox-caption">The Russell 2000 provides pure small-cap market exposure.</div>
 

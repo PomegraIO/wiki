@@ -7,7 +7,7 @@ keywords:
   - reverse split
   - 1-for-2 split
   - share consolidation
-image: "https://picsum.photos/seed/reverse-stock-split/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A reverse stock split is the inverse of a [stock split](/equity/stock-split/), consolidating multiple outstanding shares into fewer shares. In a 1-for-10 reverse split, ten shares become one; the share count declines by 90% and the per-share price rises proportionally. Reverse splits are typically used by companies with declining stock prices to comply with stock exchange minimum price requirements, not as a strategic maneuver.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/reverse-stock-split/900/600"
 
 <div class="wiki-infobox-title">Reverse stock split — key facts</div>
 
-<img src="https://picsum.photos/seed/reverse-stock-split/900/600" alt="A chart showing a 1-for-10 reverse stock split" />
+<img src="/svg/equity.svg" alt="A chart showing a 1-for-10 reverse stock split" />
 
 <div class="wiki-infobox-caption">Share consolidation with proportional price increase.</div>
 

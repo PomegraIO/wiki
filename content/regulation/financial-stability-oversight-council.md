@@ -7,7 +7,7 @@ keywords:
   - systemic risk
   - financial stability
   - regulatory coordination
-image: "https://picsum.photos/seed/financial-stability-oversight-council/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Financial Stability Oversight Council** (FSOC) is an interagency body created by the [Dodd-Frank Act](/dodd-frank-act) to monitor systemic financial risks and coordinate regulation. Chaired by the Treasury Secretary and including the heads of the Fed, SEC, CFTC, and other financial regulators, FSOC can identify threats to financial stability and designate non-bank financial institutions as systemically important, subject to additional regulation.*
@@ -22,7 +22,7 @@ FSOC coordinates across regulatory agencies. The individual agencies — Fed, SE
 
 <div class="wiki-infobox-title">FSOC — key facts</div>
 
-<img src="https://picsum.photos/seed/financial-stability-oversight-council/900/600" alt="Financial regulators in conference" />
+<img src="/svg/regulation.svg" alt="Financial regulators in conference" />
 
 <div class="wiki-infobox-caption">Financial regulators coordinating at FSOC.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - trust fund borrowing
   - social security trust fund
   - government IOUs
-image: "https://picsum.photos/seed/intragovernmental-debt/900/600"
+image: "/svg/fiscal.svg"
 ---
 
 *An **intragovernmental debt** is money one part of the government owes to another part, typically when the Treasury borrows from trust funds like Social Security or Medicare. It is debt the government owes to itself, not to external creditors.*
@@ -22,7 +22,7 @@ This entry covers internal government borrowing. For external debt held by publi
 
 <div class="wiki-infobox-title">Intragovernmental Debt — key facts</div>
 
-<img src="https://picsum.photos/seed/intragovernmental-debt/900/600" alt="Intragovernmental debt" />
+<img src="/svg/fiscal.svg" alt="Intragovernmental debt" />
 
 <div class="wiki-infobox-caption">Intragovernmental debt is a promise from one government account to another.</div>
 

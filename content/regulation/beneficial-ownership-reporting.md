@@ -7,7 +7,7 @@ keywords:
   - securities ownership
   - Section 13
   - Section 16
-image: "https://picsum.photos/seed/beneficial-ownership-reporting/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *Beneficial ownership reporting is the requirement to disclose who actually owns securities, not just who holds them in name. A security might be registered in a nominee's name (a broker, trustee, or corporation), but the actual owner is the beneficial owner. The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) requires disclosure of beneficial ownership for [Section 13(d)](/section-13d) filers (5%+ stakes), Section 16 filers (insiders), and others. The goal is transparency about who truly controls voting power and economic interest.*
@@ -22,7 +22,7 @@ Beneficial ownership reporting covers the true owner of securities. Legal owners
 
 <div class="wiki-infobox-title">Beneficial Ownership Reporting — key facts</div>
 
-<img src="https://picsum.photos/seed/beneficial-ownership-reporting/900/600" alt="Beneficial ownership disclosure" />
+<img src="/svg/regulation.svg" alt="Beneficial ownership disclosure" />
 
 <div class="wiki-infobox-caption">Disclosure of true beneficial ownership.</div>
 

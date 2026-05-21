@@ -8,7 +8,7 @@ keywords:
   - growth outperformance
   - style timing
   - cyclical trading
-image: "https://picsum.photos/seed/style-rotation/900/600"
+image: "/svg/strategies.svg"
 ---
 
 *Style rotation is a tactical strategy that shifts portfolio weight between [value](/value-investing/) and [growth](/growth-investing/) stocks, betting that the two styles alternate in leadership based on the economic cycle, interest rates, and valuation spreads.*
@@ -23,7 +23,7 @@ For sector rotation, see [sector-rotation](/sector-rotation/). For geographic ro
 
 <div class="wiki-infobox-title">Style rotation — key facts</div>
 
-<img src="https://picsum.photos/seed/style-rotation/900/600" alt="A chart showing value and growth alternating in leadership over decades" />
+<img src="/svg/strategies.svg" alt="A chart showing value and growth alternating in leadership over decades" />
 
 <div class="wiki-infobox-caption">Style rotators shift between value and growth as the cycle and valuations shift.</div>
 

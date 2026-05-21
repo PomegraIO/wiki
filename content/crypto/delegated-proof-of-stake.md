@@ -8,7 +8,7 @@ keywords:
   - governance
   - delegation
   - voting
-image: "https://picsum.photos/seed/delegated-proof-of-stake/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *A **delegated proof-of-stake** (**DPoS**) is a consensus mechanism where token holders vote for a small number of delegates (typically 21–101) who validate blocks on their behalf. This allows high throughput and low energy use while giving all token holders a voice in governance through voting.*
@@ -23,7 +23,7 @@ This entry covers delegated proof-of-stake as a mechanism. For standard proof-of
 
 <div class="wiki-infobox-title">Delegated Proof-of-Stake — key characteristics</div>
 
-<img src="https://picsum.photos/seed/delegated-proof-of-stake/900/600" alt="Token holders voting for delegates" />
+<img src="/svg/crypto.svg" alt="Token holders voting for delegates" />
 
 <div class="wiki-infobox-caption">Delegated proof-of-stake: governance through voting for delegates.</div>
 

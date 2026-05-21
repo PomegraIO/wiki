@@ -7,7 +7,7 @@ keywords:
   - specie
   - Bretton Woods
   - 1944
-image: "https://picsum.photos/seed/gold-standard/900/600"
+image: "/svg/forex.svg"
 ---
 
 *The **gold standard** was a [fixed exchange rate](/fixed-exchange-rate) system in which each currency's value was defined by a fixed amount of gold, and the [central bank](/central-bank) stood ready to exchange currency for gold on demand. It provided price stability and discipline but collapsed during crises. The UK abandoned gold in 1931; the US formally ended the gold standard in 1971.*
@@ -22,7 +22,7 @@ For the post-WWII system, see [Bretton Woods](/bretton-woods); for modern peggin
 
 <div class="wiki-infobox-title">Gold Standard — key facts</div>
 
-<img src="https://picsum.photos/seed/gold-standard/900/600" alt="Gold coins and currency under the gold standard" />
+<img src="/svg/forex.svg" alt="Gold coins and currency under the gold standard" />
 
 <div class="wiki-infobox-caption">Currency backed by and redeemable in gold at a fixed rate.</div>
 

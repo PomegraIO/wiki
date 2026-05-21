@@ -7,7 +7,7 @@ keywords:
   - IPO alternative
   - public listing
   - going public
-image: "https://picsum.photos/seed/direct-listing/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **direct listing** is a method for a private company to access public markets by directly listing its shares on a stock exchange without raising new capital. Existing shareholders of the private company can immediately sell shares on the public market. Unlike a traditional [initial public offering](/initial-public-offering), a direct listing does not involve underwriters syndicating a new share offering, nor does the company raise capital from new investors. It is faster, cheaper, and gives shareholders liquidity, but it does not provide the company with capital for growth.*
@@ -22,7 +22,7 @@ This entry covers direct listings as a public market entry mechanism. For tradit
 
 <div class="wiki-infobox-title">Direct listing — key facts</div>
 
-<img src="https://picsum.photos/seed/direct-listing/900/600" alt="Shares directly listed on exchange" />
+<img src="/svg/corporate.svg" alt="Shares directly listed on exchange" />
 
 <div class="wiki-infobox-caption">A direct listing bypasses underwriters and goes straight to public trading.</div>
 

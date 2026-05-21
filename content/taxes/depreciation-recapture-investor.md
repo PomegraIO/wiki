@@ -6,7 +6,7 @@ keywords:
   - capital gains
   - real estate taxation
   - ordinary income
-image: "https://picsum.photos/seed/depreciation-recapture-investor/900/600"
+image: "/svg/taxes.svg"
 ---
 
 *Investors in real estate and other depreciable property face **depreciation recapture** tax: when you sell a property, you must "recapture" (pay back) tax on the depreciation deductions you took. The portion of the gain attributable to depreciation is taxed at ordinary [income tax](/tax-bracket-investor/) rates (up to 25% federally for real estate), not the preferential 0%-20% [long-term capital gains](/long-term-capital-gain-tax/) rates. This recapture can significantly reduce the after-tax proceeds from a rental property sale.*
@@ -21,7 +21,7 @@ For specific rules, see [Section 1245 recapture](/section-1245-recapture/) and [
 
 <div class="wiki-infobox-title">Depreciation recapture — key facts</div>
 
-<img src="https://picsum.photos/seed/depreciation-recapture-investor/900/600" alt="A rental property showing cumulative depreciation and recapture tax" />
+<img src="/svg/taxes.svg" alt="A rental property showing cumulative depreciation and recapture tax" />
 
 <div class="wiki-infobox-caption">Depreciation deductions reduce current tax but trigger recapture tax on sale.</div>
 

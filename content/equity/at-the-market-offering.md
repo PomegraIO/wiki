@@ -7,7 +7,7 @@ keywords:
   - continuous offering
   - equity offering
   - share issuance
-image: "https://picsum.photos/seed/at-the-market-offering/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An at-the-market offering (ATM) is a program through which a [public company](/public-company/) sells shares into the open market at the current market price, continuously or periodically, without a fixed price or a specific end date. The company authorizes an investment bank agent to sell shares on its behalf when market conditions are favorable. ATM offerings allow companies to raise capital gradually while minimizing market disruption and underwriter fees, but they provide less certainty and control than traditional [follow-on offerings](/equity/follow-on-offering/).*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/at-the-market-offering/900/600"
 
 <div class="wiki-infobox-title">At-the-market offering — key facts</div>
 
-<img src="https://picsum.photos/seed/at-the-market-offering/900/600" alt="A timeline showing ATM share issuance over months" />
+<img src="/svg/equity.svg" alt="A timeline showing ATM share issuance over months" />
 
 <div class="wiki-infobox-caption">Continuous share sales at market price, capital raised gradually.</div>
 

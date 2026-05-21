@@ -7,7 +7,7 @@ keywords:
   - asset utilization
   - revenue per asset
   - operational efficiency
-image: "https://picsum.photos/seed/asset-turnover-ratio/900/600"
+image: "/svg/ratios.svg"
 ---
 
 *The **asset turnover ratio** divides annual revenue by average total assets and expresses the result as a number (not a percentage). A ratio of 2.0 means the company generates $2 of revenue for every $1 of assets. It measures how efficiently management deploys capital to produce sales. Higher turnover signals more efficient operations.*
@@ -22,7 +22,7 @@ This entry covers asset efficiency. For similar metrics, see [inventory turnover
 
 <div class="wiki-infobox-title">Asset Turnover Ratio — key facts</div>
 
-<img src="https://picsum.photos/seed/asset-turnover-ratio/900/600" alt="Revenue generated per dollar of assets" />
+<img src="/svg/ratios.svg" alt="Revenue generated per dollar of assets" />
 
 <div class="wiki-infobox-caption">How hard the asset base works to generate revenue.</div>
 

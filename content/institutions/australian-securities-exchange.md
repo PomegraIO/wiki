@@ -7,7 +7,7 @@ keywords:
   - stock exchange
   - Australia
   - Sydney
-image: "https://picsum.photos/seed/australian-securities-exchange/900/600"
+image: "/svg/institutions.svg"
 ---
 
 *The **Australian Securities Exchange** (ASX) is the largest and primary [stock exchange](/stock-exchange) in Australia and the Oceania region. Home to major Australian firms in banking, mining, energy, and healthcare, the ASX serves as the venue through which international investors access exposure to the Australian economy and natural resource sectors.*
@@ -22,7 +22,7 @@ The ASX consolidated multiple Australian exchanges in 1987 to create a single na
 
 <div class="wiki-infobox-title">Australian Securities Exchange — key facts</div>
 
-<img src="https://picsum.photos/seed/australian-securities-exchange/900/600" alt="The ASX trading floor in Sydney" />
+<img src="/svg/institutions.svg" alt="The ASX trading floor in Sydney" />
 
 <div class="wiki-infobox-caption">The ASX trading floor at the Sydney CBD headquarters.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - reserve requirement
   - fractional reserve banking
   - credit creation
-image: "https://picsum.photos/seed/money-multiplier/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *The **money multiplier** is the mechanism by which a central bank's creation of [M0](/m0) (the monetary base) gets expanded into a much larger [M1](/m1) or [M2](/m2) through repeated lending and depositing by [banks](/broker). It captures the fact that when a [bank](/broker) lends out a deposit, that loan becomes a deposit somewhere else, which gets lent out again, multiplying the original money. The [reserve requirement](/reserve-requirements) constrains this multiplier.*
@@ -22,7 +22,7 @@ This entry covers the mechanism. For the foundation it operates on, see [monetar
 
 <div class="wiki-infobox-title">Money Multiplier — key facts</div>
 
-<img src="https://picsum.photos/seed/money-multiplier/900/600" alt="Repeated lending cycle expanding money supply" />
+<img src="/svg/monetary.svg" alt="Repeated lending cycle expanding money supply" />
 
 <div class="wiki-infobox-caption">The money multiplier shows how deposits cycle through the banking system, creating more money.</div>
 

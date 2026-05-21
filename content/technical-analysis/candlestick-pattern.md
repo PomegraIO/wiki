@@ -7,7 +7,7 @@ keywords:
   - reversal
   - continuation
   - chart pattern
-image: "https://picsum.photos/seed/candlestick-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **candlestick pattern** is a recognizable sequence of one or more candlesticks that traders interpret as a signal that the price is likely to reverse direction, continue its trend, or enter a period of indecision. These patterns are based on the idea that price action encodes the emotional state of the market — the balance of fear and greed, buyers and sellers — and that certain configurations recur often enough to be predictive. Whether they actually are predictive remains contested in academic literature.*
@@ -22,7 +22,7 @@ For the basic structure of a single candlestick (open, high, low, close), see [c
 
 <div class="wiki-infobox-title">Candlestick patterns — key categories</div>
 
-<img src="https://picsum.photos/seed/candlestick-pattern/900/600" alt="A collection of different candlestick patterns: reversals, continuations, and indecision candles" />
+<img src="/svg/technical-analysis.svg" alt="A collection of different candlestick patterns: reversals, continuations, and indecision candles" />
 
 <div class="wiki-infobox-caption">The landscape of candlestick patterns spans single-candle shapes to multi-candle sequences with different implications.</div>
 

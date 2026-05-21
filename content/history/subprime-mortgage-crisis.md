@@ -7,7 +7,7 @@ keywords:
   - housing bubble
   - mortgage crisis
   - Great Recession
-image: "https://picsum.photos/seed/subprime-mortgage-crisis/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Subprime Mortgage Crisis** was the collapse of a vast speculative bubble in US residential real estate, financed by increasingly low-quality subprime mortgages. Through the early 2000s, banks and mortgage brokers had originated mortgages to borrowers with poor credit and minimal down payments, securitizing these mortgages and selling them globally. When housing prices stopped rising and borrowers began to default, the entire structure collapsed, triggering the Great Recession.*
@@ -22,7 +22,7 @@ This entry covers the subprime crisis. For the broader financial meltdown it tri
 
 <div class="wiki-infobox-title">Subprime Mortgage Crisis — key facts</div>
 
-<img src="https://picsum.photos/seed/subprime-mortgage-crisis/900/600" alt="A photograph of a foreclosed home with a bank sign" />
+<img src="/svg/history.svg" alt="A photograph of a foreclosed home with a bank sign" />
 
 <div class="wiki-infobox-caption">Millions of homes were foreclosed as borrowers with subprime mortgages defaulted.</div>
 

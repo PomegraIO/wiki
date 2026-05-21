@@ -7,7 +7,7 @@ keywords:
   - fixed number of shares
   - premium and discount
   - fund
-image: "https://picsum.photos/seed/closed-end-fund/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **closed-end fund (CEF)** is a [mutual fund](/mutual-fund) with a fixed number of shares outstanding. Unlike [open-end funds](/open-end-fund), which continuously issue and redeem shares, a closed-end fund raises capital once (via an initial public offering) and then is closed to new investors. Shares trade on an exchange like [stocks](/stock), and the trading price often diverges from the fund's [NAV](/etf-premium-discount), sometimes dramatically.*
@@ -22,7 +22,7 @@ This entry covers closed-end funds structurally. For the contrasting structure, 
 
 <div class="wiki-infobox-title">Closed-End Fund — key facts</div>
 
-<img src="https://picsum.photos/seed/closed-end-fund/900/600" alt="A stock ticker showing a CEF trading at a discount to NAV" />
+<img src="/svg/funds.svg" alt="A stock ticker showing a CEF trading at a discount to NAV" />
 
 <div class="wiki-infobox-caption">Closed-end funds often trade at discounts to their underlying value.</div>
 

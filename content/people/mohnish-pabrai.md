@@ -7,7 +7,7 @@ keywords:
   - dhandho
   - investor
   - teacher
-image: "https://picsum.photos/seed/mohnish-pabrai/900/600"
+image: "/svg/people.svg"
 ---
 
 *Mohnish Pabrai proved that a disciplined, concentrated approach to value investing — buying the cheapest good businesses and holding them — could compound capital at exceptional rates while remaining accessible and transparent about the process.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/mohnish-pabrai/900/600"
 
 <div class="wiki-infobox-title">Mohnish Pabrai — key facts</div>
 
-<img src="https://picsum.photos/seed/mohnish-pabrai/900/600" alt="A marketplace scene representing the search for deep value" />
+<img src="/svg/people.svg" alt="A marketplace scene representing the search for deep value" />
 
 <div class="wiki-infobox-caption">The arena of his search — where value is hidden and patience is rewarded.</div>
 

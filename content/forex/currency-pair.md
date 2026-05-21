@@ -7,7 +7,7 @@ keywords:
   - currency quote
   - base currency
   - quote currency
-image: "https://picsum.photos/seed/currency-pair/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **currency pair** is the fundamental unit of foreign-exchange trading: two currencies quoted together as a single price. EUR/USD = 1.0850 means one euro is worth 1.0850 US dollars. Every [FX](/forex-leverage) transaction — whether a [spot trade](/spot-exchange-rate), [forward](/forward-exchange-rate), [option](/currency-option), or [future](/currency-future) — specifies a currency pair.*
@@ -22,7 +22,7 @@ For the largest, most liquid pairs, see [major currency pair](/major-currency-pa
 
 <div class="wiki-infobox-title">Currency Pair — key facts</div>
 
-<img src="https://picsum.photos/seed/currency-pair/900/600" alt="Currency pair notation showing EUR/USD" />
+<img src="/svg/forex.svg" alt="Currency pair notation showing EUR/USD" />
 
 <div class="wiki-infobox-caption">The standard notation: base currency/quote currency.</div>
 

@@ -6,7 +6,7 @@ keywords:
   - time-weighted average price
   - algorithmic order
   - execution
-image: "https://picsum.photos/seed/twap-order/900/600"
+image: "/svg/trading.svg"
 ---
 
 *A **TWAP order** (time-weighted average price) is an [algorithmic order](/algorithmic-trading) that automatically breaks your large trade into equal-sized pieces and executes them at regular time intervals throughout the day. Unlike [VWAP](/vwap-order), which adapts to volume, TWAP simply divides time evenly. It is simpler than VWAP but may not achieve as good an average price.*
@@ -21,7 +21,7 @@ For volume-aware slicing, see [VWAP order](/vwap-order). For manual size control
 
 <div class="wiki-infobox-title">TWAP order — key facts</div>
 
-<img src="https://picsum.photos/seed/twap-order/900/600" alt="A price chart showing TWAP execution schedule" />
+<img src="/svg/trading.svg" alt="A price chart showing TWAP execution schedule" />
 
 <div class="wiki-infobox-caption">TWAP executes in equal-sized pieces at fixed time intervals.</div>
 

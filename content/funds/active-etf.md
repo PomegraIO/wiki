@@ -7,7 +7,7 @@ keywords:
   - portfolio manager
   - outperformance
   - fund
-image: "https://picsum.photos/seed/active-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *An **active ETF** is an [ETF](/etf) managed by a portfolio manager who selects [stocks](/stock) (or [bonds](/bond)) with the goal of outperforming a benchmark index. Unlike [index ETFs](/index-fund), active ETFs do not follow a published index; the manager makes discretionary bets about which securities will outperform. Active ETFs are a newer category (gaining prominence in the 2020s) that merge the transparency and tax efficiency of ETFs with the flexibility of active management.*
@@ -22,7 +22,7 @@ This entry covers active ETFs as a vehicle. For passive indexing, see [index fun
 
 <div class="wiki-infobox-title">Active ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/active-etf/900/600" alt="A portfolio manager analyzing stock performance charts" />
+<img src="/svg/funds.svg" alt="A portfolio manager analyzing stock performance charts" />
 
 <div class="wiki-infobox-caption">Active ETFs combine manager skill with the liquidity and structure of ETFs.</div>
 

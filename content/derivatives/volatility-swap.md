@@ -7,7 +7,7 @@ keywords:
   - volatility bet
   - derivatives
   - volatility trading
-image: "https://picsum.photos/seed/volatility-swap/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *A **volatility swap** is a [swap](/swap) contract where one party bets that realized [volatility](/historical-volatility) will exceed a predetermined strike (the swap rate), while the other party takes the opposite side. Unlike [options](/option), which have optionality (the right but not obligation), volatility swaps create symmetric payoffs: both parties have obligations based on how realized [volatility](/historical-volatility) compares to the strike. Volatility swaps are used by traders to express pure volatility views independent of direction.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/volatility-swap/900/600"
 
 <div class="wiki-infobox-title">Volatility Swap — key facts</div>
 
-<img src="https://picsum.photos/seed/volatility-swap/900/600" alt="Realized vs. implied volatility comparison" />
+<img src="/svg/derivatives.svg" alt="Realized vs. implied volatility comparison" />
 
 <div class="wiki-infobox-caption">Vol swaps bet on realized volatility outcomes.</div>
 

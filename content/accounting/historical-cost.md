@@ -7,7 +7,7 @@ keywords:
   - measurement basis
   - asset valuation
   - accounting conservatism
-image: "https://picsum.photos/seed/historical-cost/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *[Historical cost](/historical-cost) is the original amount paid to acquire an asset. For example, if a company buys a building for $5 million, the [historical cost](/historical-cost) is $5 million. This is the standard basis for recording most assets under [GAAP](/generally-accepted-accounting-principles) and [IFRS](/international-financial-reporting-standards). [Historical cost](/historical-cost) is adjusted for [depreciation](/depreciation) and [amortization](/amortization) as the asset is used, and may be tested for impairment if its value declines unexpectedly. [Historical cost](/historical-cost) contrasts with [fair value](/fair-value), which is the current market price. [Historical cost](/historical-cost) is less volatile but may be outdated; [fair value](/fair-value) is current but can be uncertain.*
@@ -22,7 +22,7 @@ This entry covers historical cost as a measurement basis. For the alternative, s
 
 <div class="wiki-infobox-title">Historical cost — key facts</div>
 
-<img src="https://picsum.photos/seed/historical-cost/900/600" alt="An asset purchased at original cost, with depreciation deducted over time" />
+<img src="/svg/accounting.svg" alt="An asset purchased at original cost, with depreciation deducted over time" />
 
 <div class="wiki-infobox-caption">Historical cost is the purchase price, adjusted for depreciation.</div>
 

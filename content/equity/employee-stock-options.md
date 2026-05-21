@@ -7,7 +7,7 @@ keywords:
   - stock options
   - strike price
   - equity compensation
-image: "https://picsum.photos/seed/employee-stock-options/900/600"
+image: "/svg/equity.svg"
 ---
 
 *An employee stock option (ESO) is the right to purchase a fixed number of [company shares](/stock/) at a fixed price (the "strike" or "grant price") after a vesting period. The employee benefits only if the stock price rises above the strike, in which case they can exercise (buy shares) at the fixed strike and capture the difference. Options are the oldest form of equity compensation and remain common in startups, though [RSUs](/equity/restricted-stock-units/) have become more popular in large public companies.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/employee-stock-options/900/600"
 
 <div class="wiki-infobox-title">Employee stock options — key facts</div>
 
-<img src="https://picsum.photos/seed/employee-stock-options/900/600" alt="A stock option grant showing strike price and vesting" />
+<img src="/svg/equity.svg" alt="A stock option grant showing strike price and vesting" />
 
 <div class="wiki-infobox-caption">Right to buy shares at a fixed price, valuable if stock appreciates.</div>
 

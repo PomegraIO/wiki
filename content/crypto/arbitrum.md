@@ -8,7 +8,7 @@ keywords:
   - ethereum
   - rollup
   - scaling
-image: "https://picsum.photos/seed/arbitrum/900/600"
+image: "/svg/crypto.svg"
 ---
 
 *An **Arbitrum** (**ARB**) is an Ethereum layer-2 scaling solution that bundles transactions together and posts them to [Ethereum](/ethereum) in batches. It uses optimistic rollup technology, inheriting [Ethereum](/ethereum)'s security while reducing transaction fees by 10–100x and processing transactions much faster.*
@@ -23,7 +23,7 @@ This entry covers the Arbitrum network. For Ethereum's base layer, see [Ethereum
 
 <div class="wiki-infobox-title">Arbitrum — key facts</div>
 
-<img src="https://picsum.photos/seed/arbitrum/900/600" alt="Arbitrum rollup architecture" />
+<img src="/svg/crypto.svg" alt="Arbitrum rollup architecture" />
 
 <div class="wiki-infobox-caption">Arbitrum: an Ethereum layer-2 that scales while inheriting security.</div>
 

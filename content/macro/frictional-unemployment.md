@@ -7,7 +7,7 @@ keywords:
   - job transitions
   - labor mobility
   - unemployment
-image: "https://picsum.photos/seed/frictional-unemployment/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Frictional unemployment is [unemployment](/unemployment-rate) caused by normal, temporary job search — workers between jobs while looking for the right fit. It exists in every labor market, even at full employment, because job search takes time. A worker laid off today needs days or weeks to find their next position; the employer needs time to recruit.*
@@ -22,7 +22,7 @@ Frictional unemployment is a healthy feature of labor markets. Low frictional un
 
 <div class="wiki-infobox-title">Frictional Unemployment — key facts</div>
 
-<img src="https://picsum.photos/seed/frictional-unemployment/900/600" alt="Job search duration" />
+<img src="/svg/macro.svg" alt="Job search duration" />
 
 <div class="wiki-infobox-caption">Average job search duration is 20–30 weeks in developed economies, longer in downturns.</div>
 

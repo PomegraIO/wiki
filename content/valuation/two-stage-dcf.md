@@ -7,7 +7,7 @@ keywords:
   - explicit forecast
   - terminal value
   - perpetual growth
-image: "https://picsum.photos/seed/two-stage-dcf/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **two-stage DCF** is the most practical variant of the [discounted cash flow](/discounted-cash-flow-valuation) model. It divides time into two eras: an explicit forecast period of 5 to 10 years, during which you project cash flows in detail, and a terminal value representing all cash flows from that point onward, grown at a perpetual rate. This simplicity makes it the workhorse of equity research.*

@@ -7,7 +7,7 @@ keywords:
   - holdings disclosure
   - active management
   - fund
-image: "https://picsum.photos/seed/semi-transparent-etf/900/600"
+image: "/svg/funds.svg"
 ---
 
 *A **semi-transparent ETF** — also called a **non-transparent ETF** — is an [active ETF](/active-etf) that discloses its holdings after a delay, typically at the end of each month or quarter, rather than daily. Semi-transparent ETFs protect portfolio managers' stock picks from being front-run by traders, but they force investors to hold the fund without knowing exactly what they own.*
@@ -22,7 +22,7 @@ This entry covers semi-transparent ETFs as a structural variant. For traditional
 
 <div class="wiki-infobox-title">Semi-Transparent ETF — key facts</div>
 
-<img src="https://picsum.photos/seed/semi-transparent-etf/900/600" alt="A blurred portfolio of stocks with obscured tickers" />
+<img src="/svg/funds.svg" alt="A blurred portfolio of stocks with obscured tickers" />
 
 <div class="wiki-infobox-caption">Semi-transparent ETFs conceal holdings from competitors but not from investors permanently.</div>
 

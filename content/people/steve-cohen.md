@@ -7,7 +7,7 @@ keywords:
   - stock picker
   - hedge fund
   - high frequency trading
-image: "https://picsum.photos/seed/steve-cohen/900/600"
+image: "/svg/people.svg"
 ---
 
 *Steve Cohen built SAC Capital into a multi-billion-dollar powerhouse through concentrated stock-picking, then rebuilt as Point72 after a regulatory setback, proving that superior security analysis could compound capital at extraordinary rates.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/steve-cohen/900/600"
 
 <div class="wiki-infobox-title">Steve Cohen — key facts</div>
 
-<img src="https://picsum.photos/seed/steve-cohen/900/600" alt="A trading desk with multiple screens and rapid market data" />
+<img src="/svg/people.svg" alt="A trading desk with multiple screens and rapid market data" />
 
 <div class="wiki-infobox-caption">The trader's toolkit — where conviction meets execution.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - accounting policies
   - contingencies
   - supplementary information
-image: "https://picsum.photos/seed/footnote-disclosure/900/600"
+image: "/svg/accounting.svg"
 ---
 
 *Footnote disclosures (or "notes to financial statements") are the detailed explanations and supplementary information that accompany the main financial statements (the [balance sheet](/balance-sheet), [income statement](/income-statement), and [cash flow statement](/cash-flow-statement)). They describe accounting policies, explain items on the statements, detail [contingent liabilities](/contingent-liability), summarize segment results, and disclose material transactions or commitments. Footnotes are often as important as the statements themselves. A company's accounting policies disclosed in footnotes can differ from another company's, affecting comparability. Contingencies and off-balance-sheet items are disclosed in footnotes. Investors who skip the footnotes miss critical information.*
@@ -22,7 +22,7 @@ This entry covers footnote disclosure requirements and practices. For specific t
 
 <div class="wiki-infobox-title">Footnote disclosure — key facts</div>
 
-<img src="https://picsum.photos/seed/footnote-disclosure/900/600" alt="The notes to financial statements section of a 10-K filing" />
+<img src="/svg/accounting.svg" alt="The notes to financial statements section of a 10-K filing" />
 
 <div class="wiki-infobox-caption">Footnotes provide critical context for understanding financial statements.</div>
 

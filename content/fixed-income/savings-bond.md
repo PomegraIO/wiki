@@ -7,7 +7,7 @@ keywords:
   - non-negotiable security
   - i-bond
   - ee-bond
-image: "https://picsum.photos/seed/savings-bond/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **savings bond** is a non-negotiable debt security issued by the U.S. Treasury specifically designed for individual savers. Unlike [Treasury notes](/treasury-note) and [Treasury bonds](/treasury-bond), which trade in secondary markets, savings bonds are held in registered form, accrue at a formula set by the Treasury, and cannot be sold or transferred.*
@@ -22,7 +22,7 @@ For negotiable Treasury securities that trade in secondary markets, see [Treasur
 
 <div class="wiki-infobox-title">Savings Bond — key facts</div>
 
-<img src="https://picsum.photos/seed/savings-bond/900/600" alt="A U.S. Savings Bond certificate issued by the Treasury Department" />
+<img src="/svg/fixed-income.svg" alt="A U.S. Savings Bond certificate issued by the Treasury Department" />
 
 <div class="wiki-infobox-caption">Savings bonds are designed as simple, illiquid savings products for individuals.</div>
 

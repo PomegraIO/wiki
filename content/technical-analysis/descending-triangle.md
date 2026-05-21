@@ -7,7 +7,7 @@ keywords:
   - bearish
   - technical analysis
   - breakout
-image: "https://picsum.photos/seed/descending-triangle/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **descending triangle** is a bearish chart pattern consisting of a falling upper trendline (connecting lower highs) and a flat lower trendline (connecting lows that do not fall). As the pattern develops, the range narrows—the upper line falls while the lower line stays flat—until convergence. At that point, price is expected to break out below the lower trendline (the support), initiating a sharp downward move. The descending triangle reveals a market where sellers are gaining strength (falling highs) while buyers remain dug in at a specific level (flat lows); eventually, selling pressure overwhelms buying pressure.*
@@ -22,7 +22,7 @@ For converging patterns broadly, see [symmetrical triangle](/technical-analysis/
 
 <div class="wiki-infobox-title">Descending triangle — key facts</div>
 
-<img src="https://picsum.photos/seed/descending-triangle/900/600" alt="A descending triangle with falling highs and flat lows converging" />
+<img src="/svg/technical-analysis.svg" alt="A descending triangle with falling highs and flat lows converging" />
 
 <div class="wiki-infobox-caption">Descending triangle: sellers gaining strength, buyers defending a flat level; breakout expected below.</div>
 

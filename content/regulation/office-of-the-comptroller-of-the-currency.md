@@ -8,7 +8,7 @@ keywords:
   - national bank
   - prudential regulation
   - chartering
-image: "https://picsum.photos/seed/office-of-the-comptroller-of-the-currency/900/600"
+image: "/svg/regulation.svg"
 ---
 
 *The **Office of the Comptroller of the Currency** (OCC) is the primary federal regulator of national banks in the United States. Part of the Department of the Treasury, the OCC grants bank charters, sets capital and lending standards, and enforces laws to ensure that banks are safe and sound. It is one of the oldest banking regulators in the country, dating to 1863.*
@@ -23,7 +23,7 @@ The OCC regulates national banks. State banks are regulated by state banking reg
 
 <div class="wiki-infobox-title">OCC — key facts</div>
 
-<img src="https://picsum.photos/seed/office-of-the-comptroller-of-the-currency/900/600" alt="A large bank building" />
+<img src="/svg/regulation.svg" alt="A large bank building" />
 
 <div class="wiki-infobox-caption">A national bank typical of those chartered by the OCC.</div>
 

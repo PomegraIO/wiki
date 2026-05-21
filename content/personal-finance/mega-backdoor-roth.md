@@ -7,7 +7,7 @@ keywords:
   - roth conversion
   - high income saving
   - roth funding
-image: "https://picsum.photos/seed/mega-backdoor-roth/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *The **mega backdoor Roth** is an advanced strategy for high earners to contribute over $100,000 per year to a Roth account by making after-tax contributions to a [401(k)](/401k-plan) plan, then converting those contributions to a [Roth IRA](/roth-ira).*
@@ -22,7 +22,7 @@ For the simpler backdoor Roth strategy, see [backdoor Roth](/backdoor-roth); for
 
 <div class="wiki-infobox-title">Mega Backdoor Roth — key facts</div>
 
-<img src="https://picsum.photos/seed/mega-backdoor-roth/900/600" alt="A high earner's retirement account with multiple contribution pathways" />
+<img src="/svg/personal-finance.svg" alt="A high earner's retirement account with multiple contribution pathways" />
 
 <div class="wiki-infobox-caption">The strategy: maximum Roth funding for high earners.</div>
 

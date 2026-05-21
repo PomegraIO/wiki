@@ -7,7 +7,7 @@ keywords:
   - financial reform
   - regulation
   - systemic risk
-image: "https://picsum.photos/seed/dodd-frank-passage/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Dodd-Frank Wall Street Reform and Consumer Protection Act**, passed in July 2010, was comprehensive financial reform legislation enacted by President Barack Obama in response to the 2008 financial crisis. Named for its sponsors Senator Chris Dodd and Representative Barney Frank, Dodd-Frank created new regulatory institutions, imposed stricter capital requirements on banks, established oversight of derivatives markets, and created a Consumer Financial Protection Bureau.*
@@ -22,7 +22,7 @@ This entry covers Dodd-Frank's passage and provisions. For the crisis that promp
 
 <div class="wiki-infobox-title">Dodd-Frank Passage — key facts</div>
 
-<img src="https://picsum.photos/seed/dodd-frank-passage/900/600" alt="A photograph of the Capitol building where Dodd-Frank was debated" />
+<img src="/svg/history.svg" alt="A photograph of the Capitol building where Dodd-Frank was debated" />
 
 <div class="wiki-infobox-caption">Dodd-Frank represented the most comprehensive financial reform since the Great Depression.</div>
 

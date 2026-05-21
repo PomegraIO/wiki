@@ -7,7 +7,7 @@ keywords:
   - CPI
   - inflation rate
   - all items inflation
-image: "https://picsum.photos/seed/headline-inflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Headline inflation includes all items in the [Consumer Price Index](/consumer-price-index), especially volatile food and energy prices. It is what households experience directly at the grocery store and gas pump and is widely cited in media and policy discussions, but economists often prefer [core inflation](/core-inflation) for policy analysis because headline inflation can be distorted by temporary commodity shocks.*
@@ -22,7 +22,7 @@ Headline [inflation](/inflation) = [Core inflation](/core-inflation) + Food and 
 
 <div class="wiki-infobox-title">Headline Inflation — key facts</div>
 
-<img src="https://picsum.photos/seed/headline-inflation/900/600" alt="Headline versus core inflation" />
+<img src="/svg/macro.svg" alt="Headline versus core inflation" />
 
 <div class="wiki-infobox-caption">Headline inflation spiked to 9.1% in mid-2022 due to energy; core peaked at 6.6%.</div>
 

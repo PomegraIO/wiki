@@ -7,7 +7,7 @@ keywords:
   - FX cross
   - EUR/GBP
   - AUD/JPY
-image: "https://picsum.photos/seed/minor-currency-pair/900/600"
+image: "/svg/forex.svg"
 ---
 
 *A **minor currency pair**, also called a **cross-rate**, is a [currency pair](/currency-pair) that does not involve the [US dollar](/us-dollar). Examples include EUR/GBP (euro/pound), AUD/JPY (Australian dollar/yen), and GBP/CHF (pound/Swiss franc). Minors are less liquid than [major pairs](/major-currency-pair) but more liquid than [exotic pairs](/exotic-currency-pair), and they account for roughly 10% of daily FX volume.*
@@ -22,7 +22,7 @@ For the most liquid pairs (all involving the dollar), see [major currency pair](
 
 <div class="wiki-infobox-title">Minor Currency Pair — key facts</div>
 
-<img src="https://picsum.photos/seed/minor-currency-pair/900/600" alt="Minor currency pairs including EUR/GBP, AUD/JPY, GBP/CHF" />
+<img src="/svg/forex.svg" alt="Minor currency pairs including EUR/GBP, AUD/JPY, GBP/CHF" />
 
 <div class="wiki-infobox-caption">Cross-rates between two major currencies, both excluding the dollar.</div>
 

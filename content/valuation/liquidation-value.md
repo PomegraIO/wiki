@@ -7,7 +7,7 @@ keywords:
   - breakup value
   - forced sale
   - floor value
-image: "https://picsum.photos/seed/liquidation-value/900/600"
+image: "/svg/valuation.svg"
 ---
 
 *A **liquidation value** is what a company would realize if it sold all of its assets immediately, paid off all liabilities, and distributed the remainder to equity holders. It is typically the *lowest* estimate of value for a solvent business because it assumes the worst-case scenario: urgent, forced sale at discounted prices with no going-concern value. Yet it serves an important purpose: it establishes a floor on intrinsic value below which equity should not trade.*

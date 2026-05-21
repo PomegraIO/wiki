@@ -7,7 +7,7 @@ keywords:
   - go-private
   - delisting
   - public to private
-image: "https://picsum.photos/seed/going-private/900/600"
+image: "/svg/corporate.svg"
 ---
 
 *A **going-private transaction** (also called a **take-private** or **go-private** transaction) is an [acquisition](/acquisition) that ends with a company being delisted from public stock exchanges and converted to private ownership. The transaction typically involves a premium offer to shareholders, regulatory approval, and results in the company being owned privately by the acquirer (whether a private equity firm, founder, or strategic buyer). Going-private transactions remove the burden of public market disclosure and quarterly earnings pressure but also cut off public shareholders from future upside.*
@@ -22,7 +22,7 @@ This entry covers going-private transactions as a structural mechanism. For the 
 
 <div class="wiki-infobox-title">Going-private transaction — key facts</div>
 
-<img src="https://picsum.photos/seed/going-private/900/600" alt="A company transitioning to private ownership" />
+<img src="/svg/corporate.svg" alt="A company transitioning to private ownership" />
 
 <div class="wiki-infobox-caption">Going-private converts public shareholders to single owner.</div>
 

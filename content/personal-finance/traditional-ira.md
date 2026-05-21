@@ -7,7 +7,7 @@ keywords:
   - tax-deductible
   - retirement savings
   - IRA contribution
-image: "https://picsum.photos/seed/traditional-ira/900/600"
+image: "/svg/personal-finance.svg"
 ---
 
 *A **traditional IRA** (Individual Retirement Account) is a personal retirement account in which you contribute pre-tax income, reduce your taxable income for the year, and allow the account to grow tax-deferred until you withdraw it in retirement.*
@@ -22,7 +22,7 @@ For the after-tax alternative, see [Roth IRA](/roth-ira); for SEP and SIMPLE ver
 
 <div class="wiki-infobox-title">Traditional IRA — key facts</div>
 
-<img src="https://picsum.photos/seed/traditional-ira/900/600" alt="A chart showing tax-deferred growth of an IRA balance over decades" />
+<img src="/svg/personal-finance.svg" alt="A chart showing tax-deferred growth of an IRA balance over decades" />
 
 <div class="wiki-infobox-caption">The value: compound growth sheltered from annual tax drag.</div>
 

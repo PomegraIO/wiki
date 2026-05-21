@@ -7,7 +7,7 @@ keywords:
   - income per person
   - economic development
   - purchasing power
-image: "https://picsum.photos/seed/gdp-per-capita/900/600"
+image: "/svg/macro.svg"
 ---
 
 *GDP per capita is [gross domestic product](/gross-domestic-product) divided by the total population. It measures the average output per person and is the most widely used single metric for comparing living standards and economic development across countries.*
@@ -22,7 +22,7 @@ Real GDP per capita — adjusted for inflation and often for purchasing power pa
 
 <div class="wiki-infobox-title">GDP Per Capita — key facts</div>
 
-<img src="https://picsum.photos/seed/gdp-per-capita/900/600" alt="GDP per capita across countries" />
+<img src="/svg/macro.svg" alt="GDP per capita across countries" />
 
 <div class="wiki-infobox-caption">Higher GDP per capita correlates strongly with better health and education outcomes.</div>
 

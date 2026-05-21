@@ -7,7 +7,7 @@ keywords:
   - bank runs
   - Great Depression
   - FDIC
-image: "https://picsum.photos/seed/banking-crisis-of-1933/900/600"
+image: "/svg/history.svg"
 ---
 
 *The **Banking Crisis of 1933** was the catastrophic failure of thousands of American banks in the opening months of 1933. Triggered by four years of economic contraction following the 1929 crash, mass depositor withdrawals, and the complete absence of a safety net, the crisis destroyed the savings of millions. It was only arrested by President Franklin D. Roosevelt's decision to declare a bank holiday and, crucially, to create the Federal Deposit Insurance Corporation.*
@@ -22,7 +22,7 @@ This entry covers the banking crisis of 1933. For the stock market collapse that
 
 <div class="wiki-infobox-title">Banking Crisis of 1933 — key facts</div>
 
-<img src="https://picsum.photos/seed/banking-crisis-of-1933/900/600" alt="A photograph of a shuttered bank storefront with a sign announcing closure" />
+<img src="/svg/history.svg" alt="A photograph of a shuttered bank storefront with a sign announcing closure" />
 
 <div class="wiki-infobox-caption">Thousands of bank closures left depositors with no recourse and no way to access their life savings.</div>
 

@@ -7,7 +7,7 @@ keywords:
   - warrant exercise
   - call warrant
   - exercise price
-image: "https://picsum.photos/seed/warrant/900/600"
+image: "/svg/equity.svg"
 ---
 
 *A warrant is a security that gives the holder the right to purchase [shares](/stock/) of the underlying company at a fixed price (the "exercise price" or "strike price") on or before a specified expiration date. Warrants are issued by the company and traded publicly or held by investors. They are economically similar to long-dated [stock options](/equity/employee-stock-options/) but are issued by the company as securities (not compensation) and are often more distant from the money.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/warrant/900/600"
 
 <div class="wiki-infobox-title">Warrant — key facts</div>
 
-<img src="https://picsum.photos/seed/warrant/900/600" alt="A warrant certificate showing exercise terms" />
+<img src="/svg/equity.svg" alt="A warrant certificate showing exercise terms" />
 
 <div class="wiki-infobox-caption">Right to buy shares at fixed price, exercisable over years.</div>
 

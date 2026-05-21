@@ -7,7 +7,7 @@ keywords:
   - currency collapse
   - economic crisis
   - price explosion
-image: "https://picsum.photos/seed/hyperinflation/900/600"
+image: "/svg/macro.svg"
 ---
 
 *Hyperinflation is an extreme and persistent increase in the price level, conventionally defined as at least 50% [inflation](/inflation) per month (which compounds to ~13,000% per year). It destroys the economy's monetary system, erases savings, and often requires a complete currency replacement. Hyperinflation is almost always caused by reckless central bank money printing, usually to finance unsustainable government spending.*
@@ -22,7 +22,7 @@ Hyperinflation is rare in developed economies (last US case was the 1920s, not r
 
 <div class="wiki-infobox-title">Hyperinflation — key facts</div>
 
-<img src="https://picsum.photos/seed/hyperinflation/900/600" alt="Hyperinflation in Venezuela" />
+<img src="/svg/macro.svg" alt="Hyperinflation in Venezuela" />
 
 <div class="wiki-infobox-caption">Venezuela's hyperinflation in the 2010s-20s obliterated savings and collapsed the economy; millions fled.</div>
 

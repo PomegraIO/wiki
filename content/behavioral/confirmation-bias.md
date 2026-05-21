@@ -7,7 +7,7 @@ keywords:
   - belief perseverance
   - selective attention
   - investment decision
-image: "https://picsum.photos/seed/confirmation-bias/900/600"
+image: "/svg/behavioral.svg"
 ---
 
 *Confirmation bias is the tendency to search for, interpret, favor, and recall information in a way that confirms your pre-existing beliefs. You unconsciously seek out evidence that supports what you already think, downplay evidence that contradicts it, and remember the confirming evidence more easily. The result is that your beliefs become self-reinforcing and resistant to change.*
@@ -22,7 +22,7 @@ Related to selective attention and motivated reasoning. For the failure to updat
 
 <div class="wiki-infobox-title">Confirmation bias — key facts</div>
 
-<img src="https://picsum.photos/seed/confirmation-bias/900/600" alt="A pair of rose-tinted glasses on a table" />
+<img src="/svg/behavioral.svg" alt="A pair of rose-tinted glasses on a table" />
 
 <div class="wiki-infobox-caption">Confirmation bias acts like a filter, letting in evidence that matches your view.</div>
 

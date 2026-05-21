@@ -7,7 +7,7 @@ keywords:
   - functional finance
   - fiscal policy
   - inflation control
-image: "https://picsum.photos/seed/modern-monetary-theory/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **Modern Monetary Theory** (or **MMT**) is an alternative economic framework that challenges conventional thinking about government deficits, taxes, and the role of central banks. MMT argues that a government with a sovereign currency (one it controls fully) can spend as much as it wants without the constraint of a budget deficit; the limit is [inflation](/inflation), not borrowing. The government can simply have its central bank create the [money](/m1) to finance spending.*
@@ -22,7 +22,7 @@ This entry covers the theory and its implications. For related concepts, see [he
 
 <div class="wiki-infobox-title">Modern Monetary Theory — key facts</div>
 
-<img src="https://picsum.photos/seed/modern-monetary-theory/900/600" alt="Government spending financed by central bank money creation" />
+<img src="/svg/monetary.svg" alt="Government spending financed by central bank money creation" />
 
 <div class="wiki-infobox-caption">MMT argues that sovereign-currency governments have no inherent fiscal constraint.</div>
 

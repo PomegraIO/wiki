@@ -7,7 +7,7 @@ keywords:
   - central bank disbursement
   - quantitative easing
   - inflation
-image: "https://picsum.photos/seed/helicopter-money/900/600"
+image: "/svg/monetary.svg"
 ---
 
 *A **helicopter money** (or **monetary stimulus**) is a hypothetical [monetary-policy](/monetary-policy) scenario in which a central bank creates new [M0](/m0) and deposits it directly into public bank accounts or distributes it as cash, skipping the banking system entirely. The metaphor, popularized by economist Milton Friedman, conjures the image of a central bank dropping money from a helicopter to stimulate spending and [inflation](/inflation). While never formally implemented, the concept has gained traction during severe crises.*
@@ -22,7 +22,7 @@ This entry covers the concept. For the real-world analogue, see [quantitative-ea
 
 <div class="wiki-infobox-title">Helicopter Money — key facts</div>
 
-<img src="https://picsum.photos/seed/helicopter-money/900/600" alt="Metaphorical helicopter dropping money to public" />
+<img src="/svg/monetary.svg" alt="Metaphorical helicopter dropping money to public" />
 
 <div class="wiki-infobox-caption">Helicopter money is monetary stimulus distributed directly to the public.</div>
 

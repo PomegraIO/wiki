@@ -7,7 +7,7 @@ keywords:
   - consolidation
   - technical analysis
   - breakout
-image: "https://picsum.photos/seed/wedge-pattern/900/600"
+image: "/svg/technical-analysis.svg"
 ---
 
 *A **wedge pattern** is a chart formation with two converging trendlines, similar in shape to a [symmetrical-triangle](/technical-analysis/symmetrical-triangle) or [pennant](/technical-analysis/pennant-pattern), but with a clear directional bias. Unlike symmetrical triangles (which are neutral), wedges are either rising (bullish) or falling (bearish) in appearance. A **rising wedge** shows both lines sloping upward, though converging. A **falling wedge** shows both lines sloping downward, though converging. Wedges can act as either reversal or continuation patterns depending on their context in the larger trend. A rising wedge within an uptrend may precede a downward reversal; the same shape appearing within a downtrend may signal continuation lower.*
@@ -22,7 +22,7 @@ For other converging patterns, see [pennant](/technical-analysis/pennant-pattern
 
 <div class="wiki-infobox-title">Wedge pattern — key facts</div>
 
-<img src="https://picsum.photos/seed/wedge-pattern/900/600" alt="A wedge pattern: two converging sloped lines" />
+<img src="/svg/technical-analysis.svg" alt="A wedge pattern: two converging sloped lines" />
 
 <div class="wiki-infobox-caption">Wedge: converging lines with directional bias; interpretation depends on context.</div>
 

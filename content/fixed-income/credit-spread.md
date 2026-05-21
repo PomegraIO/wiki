@@ -7,7 +7,7 @@ keywords:
   - yield spread
   - credit risk premium
   - OAS
-image: "https://picsum.photos/seed/credit-spread/900/600"
+image: "/svg/fixed-income.svg"
 ---
 
 *A **credit spread** — or **spread** — is the difference in [yield](/yield-to-maturity) between a [corporate bond](/corporate-bond) (or other risky bond) and a [Treasury security](/treasury-bond) of the same maturity. A 10-year corporate bond yielding 4.2% and a 10-year Treasury yielding 3% have a 120-basis-point spread. The spread compensates investors for bearing [credit risk](/credit-rating) — the risk that the corporation defaults.*
@@ -22,7 +22,7 @@ For the credit quality being compensated, see [credit rating](/credit-rating). F
 
 <div class="wiki-infobox-title">Credit Spread — key facts</div>
 
-<img src="https://picsum.photos/seed/credit-spread/900/600" alt="A chart showing credit spreads over time and by credit quality" />
+<img src="/svg/fixed-income.svg" alt="A chart showing credit spreads over time and by credit quality" />
 
 <div class="wiki-infobox-caption">Spreads widen during risk-off periods and narrow during risk-on periods.</div>
 

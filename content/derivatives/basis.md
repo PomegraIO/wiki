@@ -7,7 +7,7 @@ keywords:
   - spot-futures spread
   - convergence
   - hedging
-image: "https://picsum.photos/seed/basis/900/600"
+image: "/svg/derivatives.svg"
 ---
 
 *The **basis** is the difference between the [futures contract](/futures-contract) price and the spot price of the underlying asset. Basis = Futures Price − Spot Price. When a [futures contract](/futures-contract) is more expensive than spot (positive basis), the market is in [contango](/contango). When a futures contract is cheaper (negative basis), the market is in [backwardation](/backwardation). The basis reflects the [cost-of-carry](/cost-of-carry) (storage, financing, insurance) and converges to zero at [expiration date](/expiration-date), creating opportunities and risks for hedgers.*
@@ -16,7 +16,7 @@ image: "https://picsum.photos/seed/basis/900/600"
 
 <div class="wiki-infobox-title">Basis — key facts</div>
 
-<img src="https://picsum.photos/seed/basis/900/600" alt="Spot and futures price convergence chart" />
+<img src="/svg/derivatives.svg" alt="Spot and futures price convergence chart" />
 
 <div class="wiki-infobox-caption">Basis measures spot-futures difference; converges at expiration.</div>
 
