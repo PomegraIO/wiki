@@ -1,0 +1,11 @@
+{{- $skip := slice "About Pomegra Wiki" "A–Z index" "A–Z index of entries" "Pomegra Wiki" -}}
+{{- $entries := slice -}}
+{{- range where .Site.RegularPages "Title" "not in" $skip -}}
+  {{- $entry := dict
+    "t" .Title
+    "d" (.Description | default "")
+    "u" .RelPermalink
+  -}}
+  {{- $entries = $entries | append $entry -}}
+{{- end -}}
+{{ jsonify (dict "indent" "") $entries }}

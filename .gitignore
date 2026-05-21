@@ -1,0 +1,19 @@
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python (migration scripts)
+__pycache__/
+*.pyc
+
+# Screenshots taken during local QA
+/wiki-*.png

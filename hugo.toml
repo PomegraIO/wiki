@@ -1,0 +1,85 @@
+baseURL = 'https://wiki.pomegra.io/'
+defaultContentLanguage = 'en'
+title = 'Pomegra Wiki'
+enableRobotsTXT = true
+
+# Keep internal links relative ("/stock/") so the wiki works at any mount point —
+# root in dev, root under wiki.pomegra.io, or eventually /wiki/ behind nginx
+# (with a path-rewrite layer if/when we choose that deployment shape).
+canonifyURLs = false
+
+# Hugo is fast enough that we build everything every time.
+# 10k+ pages still measure in seconds, not minutes.
+buildDrafts = false
+buildFuture  = false
+
+# Pretty URLs: /stock/ instead of /stock.html
+uglyURLs = false
+
+# We render raw HTML inside markdown (infobox <aside>, hatnote <div>, etc.)
+# so the goldmark parser must permit it.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+# Permalinks: subdirectories under content/ are organisational only — the URL
+# of an entry is always /:contentbasename/ (filename without extension),
+# regardless of which subdirectory it lives in. This is what makes the
+# cross-link allowlist (/stock/, /bond/, …) trustworthy.
+#
+# We use [permalinks.page] (the page-kind table) with '**' as the section
+# wildcard so a single rule applies to every directory under content/.
+[permalinks.page]
+  '/**' = '/:contentbasename/'
+
+# Front-matter we care about per article:
+#   title (required), description, summary, image, image_caption,
+#   image_credit, hatnote, infobox (list of {key, value} pairs),
+#   see_also (list of {label, slug, gloss}), wider_context (same shape).
+# All optional; the layout no-ops anything missing.
+
+[params]
+  description = 'A reader-friendly encyclopedia of the financial world. Plain-language entries on markets, instruments, institutions, and ideas, densely cross-linked.'
+  tagline = 'The reader-friendly encyclopedia of the financial world'
+  author = 'Pomegra'
+  homeURL = 'https://pomegra.io'
+  learnURL = 'https://pomegra.io/learn'
+  githubURL = 'https://github.com/PomegraIO'
+  twitterURL = 'https://twitter.com/pomegra_io'
+  logo = 'img/logo.svg'
+
+# Subdirectories under content/ are used purely for editorial organisation —
+# the actual URL of an entry is always /:contentbasename/, regardless of which
+# subdirectory it lives in. We disable taxonomy/term pages so visitors don't
+# land on accidental archive URLs like /tags/foo/.
+disableKinds = ['taxonomy', 'term']
+
+[outputs]
+  # `JSON` on the home produces /index.json — the search index consumed by
+  # the navbar's search input. Stays tiny even at 10k entries because we
+  # only emit title, description, and URL per page.
+  home = ['HTML', 'RSS', 'JSON']
+  section = ['HTML', 'RSS']
+  page = ['HTML']
+
+# Generous taxonomies — used to power "See also" surfaces and future graph view.
+[taxonomies]
+  tag = 'tags'
+  topic = 'topics'
+
+# No section pages auto-generated under /tags/, /topics/ — we render explicit pages.
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[minify]
+  disableHTML = false
+  disableCSS  = false
+  disableJS   = false
+  minifyOutput = true

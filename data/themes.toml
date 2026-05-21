@@ -1,0 +1,123 @@
+# Theme cards rendered on the main page. Data-driven so 10k articles
+# never bloat the home template — adjust this file, not the layout.
+
+[[themes]]
+title = "Markets & instruments"
+blurb = "The places trades happen and the things that get traded."
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "stock-market"
+    label = "Stock market"
+    [[themes.lines.entries]]
+    slug = "stock-exchange"
+    label = "Stock exchange"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "stock"
+    label = "Stock"
+    [[themes.lines.entries]]
+    slug = "bond"
+    label = "Bond"
+    [[themes.lines.entries]]
+    slug = "option"
+    label = "Option"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "etf"
+    label = "ETF"
+    [[themes.lines.entries]]
+    slug = "mutual-fund"
+    label = "Mutual fund"
+    [[themes.lines.entries]]
+    slug = "index-fund"
+    label = "Index fund"
+    [[themes.lines.entries]]
+    slug = "hedge-fund"
+    label = "Hedge fund"
+
+[[themes]]
+title = "Numbers & ratios"
+blurb = "How analysts measure value, risk, and performance."
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "market-capitalization"
+    label = "Market capitalization"
+    [[themes.lines.entries]]
+    slug = "earnings-per-share"
+    label = "Earnings per share"
+    [[themes.lines.entries]]
+    slug = "price-to-earnings-ratio"
+    label = "P/E ratio"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "dividend"
+    label = "Dividend"
+    [[themes.lines.entries]]
+    slug = "yield-curve"
+    label = "Yield curve"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "beta"
+    label = "Beta"
+    [[themes.lines.entries]]
+    slug = "alpha"
+    label = "Alpha"
+
+[[themes]]
+title = "Institutions & people"
+blurb = "The architecture behind every quoted price."
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "federal-reserve"
+    label = "Federal Reserve"
+    [[themes.lines.entries]]
+    slug = "central-bank"
+    label = "Central bank"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "broker"
+    label = "Broker"
+    [[themes.lines.entries]]
+    slug = "stock-exchange"
+    label = "Stock exchange"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "public-company"
+    label = "Public company"
+    [[themes.lines.entries]]
+    slug = "initial-public-offering"
+    label = "Initial public offering"
+
+[[themes]]
+title = "Big ideas"
+blurb = "The conceptual machinery you need to read any market story."
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "inflation"
+    label = "Inflation"
+    [[themes.lines.entries]]
+    slug = "interest-rate"
+    label = "Interest rate"
+    [[themes.lines.entries]]
+    slug = "compound-interest"
+    label = "Compound interest"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "diversification"
+    label = "Diversification"
+    [[themes.lines.entries]]
+    slug = "asset-allocation"
+    label = "Asset allocation"
+  [[themes.lines]]
+    [[themes.lines.entries]]
+    slug = "bull-market"
+    label = "Bull market"
+    [[themes.lines.entries]]
+    slug = "bear-market"
+    label = "Bear market"
+    [[themes.lines.entries]]
+    slug = "recession"
+    label = "Recession"
+    [[themes.lines.entries]]
+    slug = "short-selling"
+    label = "Short selling"

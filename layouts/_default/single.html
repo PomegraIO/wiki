@@ -1,0 +1,75 @@
+{{ define "main" }}
+<article class="wiki-article">
+  <div class="wiki-article-layout">
+
+    {{/* Sidebar — short, just the article title + TOC. Kept light so it scales to 10k articles without rendering a full sidebar list. */}}
+    <aside class="wiki-toc">
+      {{ if .TableOfContents }}
+        <div class="wiki-toc-label">Contents</div>
+        {{ .TableOfContents }}
+      {{ end }}
+    </aside>
+
+    <div class="wiki-article-body">
+      <h1 class="wiki-title">{{ .Title }}</h1>
+
+      {{ with .Params.lede }}
+        <p class="wiki-lede">{{ . | markdownify }}</p>
+      {{ end }}
+
+      {{ with .Params.hatnote }}
+        <div class="wiki-hatnote">{{ . | markdownify }}</div>
+      {{ end }}
+
+      {{ if or .Params.image .Params.infobox }}
+        <aside class="wiki-infobox">
+          {{ with .Params.infobox_title | default .Title }}
+            <div class="wiki-infobox-title">{{ . }} — key facts</div>
+          {{ end }}
+          {{ with .Params.image }}
+            <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy" />
+          {{ end }}
+          {{ with .Params.image_caption }}
+            <div class="wiki-infobox-caption">{{ . | markdownify }}</div>
+          {{ end }}
+          {{ with .Params.infobox }}
+            <table>
+              <tbody>
+              {{ range . }}
+                <tr><th>{{ .key }}</th><td>{{ .value | markdownify }}</td></tr>
+              {{ end }}
+              </tbody>
+            </table>
+          {{ end }}
+        </aside>
+      {{ end }}
+
+      <div class="wiki-prose">
+        {{ .Content }}
+      </div>
+
+      {{ if or .Params.see_also .Params.wider_context }}
+        <div class="wiki-seealso">
+          <h2>See also</h2>
+          {{ with .Params.see_also }}
+            <h3>Closely related</h3>
+            <ul>
+              {{ range . }}
+                <li><a href="{{ .slug | relURL }}">{{ .label }}</a>{{ with .gloss }} — {{ . | markdownify }}{{ end }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+          {{ with .Params.wider_context }}
+            <h3>Wider context</h3>
+            <ul>
+              {{ range . }}
+                <li><a href="{{ .slug | relURL }}">{{ .label }}</a>{{ with .gloss }} — {{ . | markdownify }}{{ end }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

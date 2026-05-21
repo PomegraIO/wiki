@@ -1,0 +1,48 @@
+{{ define "main" }}
+<article class="wiki-article">
+  <div class="wiki-article-layout">
+    <div class="wiki-article-body wiki-list-body">
+      <h1 class="wiki-title">{{ .Title }}</h1>
+      {{ with .Params.lede }}
+        <p class="wiki-lede">{{ . | markdownify }}</p>
+      {{ end }}
+
+      {{/* Group every regular page by its first letter. Pages without a
+           title — or with non-letter starts — fall into "#". This template
+           is the same for 30 entries or 30,000; the cost is one pass over
+           the site's RegularPages slice. */}}
+      {{ $skip := slice "About Pomegra Wiki" "A–Z index of entries" "A–Z index" "Pomegra Wiki" }}
+      {{ $pages := where .Site.RegularPages "Title" "not in" $skip }}
+      {{ $groups := dict }}
+      {{ range $pages }}
+        {{ $first := upper (substr .Title 0 1) }}
+        {{ if not (in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" $first) }}{{ $first = "#" }}{{ end }}
+        {{ $existing := index $groups $first }}
+        {{ if not $existing }}{{ $existing = slice }}{{ end }}
+        {{ $groups = merge $groups (dict $first (append . $existing)) }}
+      {{ end }}
+
+      <div class="wiki-prose">
+        <p style="color: var(--pom-graphite); margin-top: -0.5rem;">
+          <strong>{{ len $pages }}</strong> entries.
+          Jump to:
+          {{ $letters := slice }}
+          {{ range $letter, $_ := $groups }}{{ $letters = $letters | append $letter }}{{ end }}
+          {{ range sort $letters }}<a href="#{{ . | urlize }}" style="margin-right: 0.4rem;">{{ . }}</a>{{ end }}
+        </p>
+
+        {{ range sort $letters }}
+          {{ $letter := . }}
+          {{ $bucket := index $groups $letter }}
+          <h2 id="{{ $letter | urlize }}">{{ $letter }}</h2>
+          <ul>
+            {{ range sort $bucket "Title" }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }} — {{ . | markdownify }}{{ end }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}

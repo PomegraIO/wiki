@@ -1,0 +1,30 @@
+<footer class="wiki-footer">
+  <div class="wiki-footer-inner">
+    <div class="wiki-footer-col">
+      <h4>Wiki</h4>
+      <ul>
+        <li><a href="{{ "/" | relURL }}">Main page</a></li>
+        <li><a href="{{ "/index-a-z/" | relURL }}">A–Z index</a></li>
+        <li><a href="{{ "/about/" | relURL }}">About</a></li>
+      </ul>
+    </div>
+    <div class="wiki-footer-col">
+      <h4>Pomegra</h4>
+      <ul>
+        <li><a href="{{ .Site.Params.homeURL }}">Platform</a></li>
+        <li><a href="{{ .Site.Params.learnURL }}">Learn</a></li>
+      </ul>
+    </div>
+    <div class="wiki-footer-col">
+      <h4>Community</h4>
+      <ul>
+        <li><a href="{{ .Site.Params.githubURL }}" rel="noopener">GitHub</a></li>
+        <li><a href="{{ .Site.Params.twitterURL }}" rel="noopener">Twitter</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wiki-footer-copyright">
+    Copyright © {{ now.Year }} <strong>Pomegra</strong>
+    <div class="wiki-footer-sub">A free, reader-friendly encyclopedia of the financial world.</div>
+  </div>
+</footer>

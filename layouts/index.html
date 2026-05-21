@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="wiki-home">
+  <header class="wiki-home-masthead">
+    <h1>Pomegra Wiki</h1>
+    <p class="wiki-home-tagline">{{ .Site.Params.tagline }} — markets, instruments, institutions, and the ideas that move them. Every entry is plain-language and densely cross-linked, so one click leads to the next.</p>
+  </header>
+
+  <section class="wiki-home-hero">
+    {{ $featured := index (where .Site.RegularPages "Title" "Stock market") 0 }}
+    {{ if $featured }}
+      <article class="wiki-home-featured">
+        <div class="wiki-home-kicker">Featured entry</div>
+        {{ with $featured.Params.image }}
+          <img src="{{ . }}" alt="" class="wiki-home-featured-img" />
+        {{ end }}
+        <h2><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h2>
+        <p>{{ $featured.Description | markdownify }}</p>
+        <p class="wiki-home-cta"><a href="{{ $featured.RelPermalink }}">Read the full entry →</a></p>
+      </article>
+    {{ end }}
+
+    <aside class="wiki-home-didyouknow">
+      <div class="wiki-home-kicker">Did you know?</div>
+      <ul>
+        <li>… that a <a href="{{ "/yield-curve/" | relURL }}">yield curve</a> inverts when short-term yields rise above long-term yields — a pattern that has preceded most US recessions since 1955?</li>
+        <li>… that the modern <a href="{{ "/federal-reserve/" | relURL }}">Federal Reserve</a> operates without explicit appropriations from Congress because it funds itself from the income on its bond portfolio?</li>
+        <li>… that more than half of all US household stock ownership is now held through low-cost <a href="{{ "/index-fund/" | relURL }}">index funds</a> and <a href="{{ "/etf/" | relURL }}">ETFs</a> — a structural shift only a generation old?</li>
+        <li>… that the average individual <a href="{{ "/hedge-fund/" | relURL }}">hedge fund</a> charges roughly twenty times what an <a href="{{ "/index-fund/" | relURL }}">index fund</a> does, yet most fail to beat the market over a full cycle?</li>
+      </ul>
+    </aside>
+  </section>
+
+  <h2 class="wiki-home-section-h">Browse by theme</h2>
+  <section class="wiki-home-themes">
+    {{ range site.Data.themes.themes }}
+      <article class="wiki-home-theme">
+        <h3>{{ .title }}</h3>
+        <p>{{ .blurb }}</p>
+        <ul>
+          {{ range .lines }}
+            <li>
+            {{ range $i, $e := .entries }}
+              {{ if $i }} · {{ end }}<a href="/{{ .slug }}/">{{ .label }}</a>
+            {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </article>
+    {{ end }}
+  </section>
+
+  <section class="wiki-home-howto">
+    <h2 class="wiki-home-section-h">How to use this wiki</h2>
+    <p>This is a reading wiki, not a textbook. Click any link to follow the thread you're curious about — every entry was written assuming you might arrive cold. Use the <a href="{{ "/index-a-z/" | relURL }}">A–Z index</a> to browse all entries, the search box to find a specific term.</p>
+    <p>For long-form learning paths, see the sibling project <a href="{{ .Site.Params.learnURL }}">Pomegra Learn</a> — a 30-book curriculum that takes the same ground in chapter form.</p>
+  </section>
+
+  <hr class="wiki-home-rule" />
+  <p class="wiki-home-disclaimer">Pomegra Wiki is part of <a href="{{ .Site.Params.homeURL }}">Pomegra</a>'s free financial-education effort. All entries are written for general readers; nothing here is investment advice.</p>
+</div>
+{{ end }}

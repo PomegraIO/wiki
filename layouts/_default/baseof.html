@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <link rel="icon" href="{{ "img/favicon.ico" | absURL }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | absURL }}" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Geist:wght@300;400;500;600;700;800&family=Geist+Mono:wght@400;500;600&display=swap" />
+
+  {{ $css := resources.Get "css/wiki.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
+
+  <meta property="og:title" content="{{ .Title }} — {{ .Site.Title }}" />
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ with .Params.image }}<meta property="og:image" content="{{ . }}" />{{ end }}
+
+  <script>
+    // Theme bootstrap — read stored preference before paint to avoid flash
+    (function() {
+      try {
+        var saved = localStorage.getItem('pom-theme');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var theme = saved || (prefersDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body class="{{ if .IsHome }}is-home{{ else if eq .Section ""}}is-page{{ else }}is-article{{ end }}">
+  {{ partial "navbar.html" . }}
+
+  <main class="wiki-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script>
+    // Theme toggle
+    (function() {
+      var btn = document.getElementById('pom-theme-toggle');
+      if (!btn) return;
+      btn.addEventListener('click', function() {
+        var cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+        var next = cur === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        try { localStorage.setItem('pom-theme', next); } catch (e) {}
+      });
+    })();
+
+    // Client-side search: fetch /index.json once on first focus,
+    // then filter on every keystroke. Works at any scale — index.json
+    // for 10k entries is ~700KB gzipped, well under a network blink.
+    (function() {
+      var input = document.getElementById('pom-search-input');
+      var box   = document.getElementById('pom-search-results');
+      if (!input || !box) return;
+      var INDEX = null;
+      var loading = false;
+      var activeIdx = -1;
+
+      function escapeHTML(s) {
+        return s.replace(/[&<>"']/g, function(c) {
+          return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+        });
+      }
+      function highlight(text, terms) {
+        var safe = escapeHTML(text);
+        terms.forEach(function(t) {
+          if (!t) return;
+          var re = new RegExp('(' + t.replace(/[-/\\^$*+?.()|[\]{}]/g,'\\$&') + ')', 'ig');
+          safe = safe.replace(re, '<mark>$1</mark>');
+        });
+        return safe;
+      }
+      function score(entry, terms) {
+        var t = entry.t.toLowerCase();
+        var d = (entry.d || '').toLowerCase();
+        var s = 0;
+        terms.forEach(function(term) {
+          if (!term) return;
+          var titleHits = t.split(term).length - 1;
+          var descHits  = d.split(term).length - 1;
+          if (titleHits === 0 && descHits === 0) { s = -999; return; }
+          if (t === term) s += 100;
+          if (t.indexOf(term) === 0) s += 30;
+          s += titleHits * 10;
+          s += descHits * 3;
+        });
+        return s;
+      }
+      function search(q) {
+        if (!INDEX || !q) {
+          box.hidden = true; activeIdx = -1; return;
+        }
+        var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+        var results = [];
+        for (var i = 0; i < INDEX.length; i++) {
+          var s = score(INDEX[i], terms);
+          if (s > 0) results.push([s, INDEX[i]]);
+        }
+        results.sort(function(a, b) { return b[0] - a[0]; });
+        results = results.slice(0, 12);
+        if (!results.length) {
+          box.innerHTML = '<div class="wiki-search-empty">No results.</div>';
+          box.hidden = false; return;
+        }
+        box.innerHTML = results.map(function(r) {
+          var e = r[1];
+          return '<a class="wiki-search-result" href="' + e.u + '">' +
+                   '<div class="wiki-search-result-title">' + highlight(e.t, terms) + '</div>' +
+                   (e.d ? '<div class="wiki-search-result-desc">' + highlight(e.d, terms) + '</div>' : '') +
+                 '</a>';
+        }).join('');
+        box.hidden = false; activeIdx = -1;
+      }
+      function ensureIndex(cb) {
+        if (INDEX || loading) { cb && INDEX && cb(); return; }
+        loading = true;
+        fetch('{{ "index.json" | absURL }}')
+          .then(function(r) { return r.json(); })
+          .then(function(j) { INDEX = j; loading = false; cb && cb(); })
+          .catch(function() { loading = false; });
+      }
+      input.addEventListener('focus', function() { ensureIndex(function() { search(input.value); }); });
+      input.addEventListener('input', function() { ensureIndex(function() { search(input.value); }); });
+      input.addEventListener('keydown', function(e) {
+        var items = box.querySelectorAll('.wiki-search-result');
+        if (e.key === 'ArrowDown') { e.preventDefault(); activeIdx = Math.min(activeIdx + 1, items.length - 1); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, -1); }
+        else if (e.key === 'Enter' && activeIdx >= 0 && items[activeIdx]) { e.preventDefault(); window.location.href = items[activeIdx].href; return; }
+        else if (e.key === 'Escape') { box.hidden = true; input.blur(); return; }
+        else return;
+        items.forEach(function(el, i) { el.classList.toggle('is-active', i === activeIdx); });
+        if (activeIdx >= 0 && items[activeIdx]) items[activeIdx].scrollIntoView({ block: 'nearest' });
+      });
+      document.addEventListener('click', function(e) {
+        if (!box.contains(e.target) && e.target !== input) box.hidden = true;
+      });
+    })();
+
+    // Random article — reuses the search index loaded on first navbar focus,
+    // and lazy-loads it on click if the reader never opened search first.
+    (function() {
+      var link = document.getElementById('pom-random');
+      if (!link) return;
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        function go(index) {
+          if (!index || !index.length) return;
+          var pick = index[Math.floor(Math.random() * index.length)];
+          window.location.href = pick.u;
+        }
+        // Try to reuse the search index if already loaded
+        var s = document.getElementById('pom-search-input');
+        if (s && window.__pomIndex) { go(window.__pomIndex); return; }
+        fetch('{{ "index.json" | absURL }}')
+          .then(function(r) { return r.json(); })
+          .then(function(j) { window.__pomIndex = j; go(j); })
+          .catch(function() {});
+      });
+    })();
+  </script>
+</body>
+</html>
