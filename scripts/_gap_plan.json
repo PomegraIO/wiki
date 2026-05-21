@@ -1,0 +1,3080 @@
+[
+  {
+    "category": "equity",
+    "subcat": "share-classes",
+    "current": 9,
+    "target": 30,
+    "gap": 21,
+    "dir": "content/equity/share-classes",
+    "existing_slugs": [
+      "callable-preferred",
+      "common-stock",
+      "convertible-preferred",
+      "cumulative-preferred",
+      "dual-class-shares",
+      "non-voting-shares",
+      "participating-preferred",
+      "preferred-stock",
+      "share-class"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "corporate-actions",
+    "current": 9,
+    "target": 35,
+    "gap": 26,
+    "dir": "content/equity/corporate-actions",
+    "existing_slugs": [
+      "accelerated-share-repurchase",
+      "dividend",
+      "dutch-auction-tender",
+      "reverse-stock-split",
+      "rights-offering",
+      "share-buyback",
+      "stock-dividend",
+      "stock-split",
+      "treasury-stock"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "employee-equity",
+    "current": 9,
+    "target": 25,
+    "gap": 16,
+    "dir": "content/equity/employee-equity",
+    "existing_slugs": [
+      "cliff-vesting",
+      "employee-stock-options",
+      "esop",
+      "espp",
+      "iso",
+      "nqso",
+      "restricted-stock",
+      "restricted-stock-units",
+      "vesting-schedule"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "offerings",
+    "current": 6,
+    "target": 30,
+    "gap": 24,
+    "dir": "content/equity/offerings",
+    "existing_slugs": [
+      "at-the-market-offering",
+      "follow-on-offering",
+      "lock-up-period",
+      "pipe-offering",
+      "private-placement",
+      "secondary-offering"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "depositary-receipts",
+    "current": 3,
+    "target": 15,
+    "gap": 12,
+    "dir": "content/equity/depositary-receipts",
+    "existing_slugs": [
+      "adr",
+      "gdr",
+      "sponsored-adr"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "shareholder-rights",
+    "current": 4,
+    "target": 20,
+    "gap": 16,
+    "dir": "content/equity/shareholder-rights",
+    "existing_slugs": [
+      "founder-shares",
+      "golden-share",
+      "transfer-agent",
+      "warrant"
+    ]
+  },
+  {
+    "category": "equity",
+    "subcat": "general",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/equity/general",
+    "existing_slugs": [
+      "float",
+      "stock"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "option-types",
+    "current": 10,
+    "target": 30,
+    "gap": 20,
+    "dir": "content/derivatives/option-types",
+    "existing_slugs": [
+      "american-option",
+      "asian-option",
+      "barrier-option",
+      "basket-option",
+      "bermudan-option",
+      "binary-option",
+      "compound-option",
+      "european-option",
+      "knock-in-option",
+      "knock-out-option"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "option-basics",
+    "current": 10,
+    "target": 25,
+    "gap": 15,
+    "dir": "content/derivatives/option-basics",
+    "existing_slugs": [
+      "at-the-money",
+      "call-option",
+      "expiration-date",
+      "in-the-money",
+      "intrinsic-value",
+      "option-premium",
+      "out-of-the-money",
+      "put-option",
+      "strike-price",
+      "time-value"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "option-strategies",
+    "current": 0,
+    "target": 30,
+    "gap": 30,
+    "dir": "content/derivatives/option-strategies",
+    "existing_slugs": []
+  },
+  {
+    "category": "derivatives",
+    "subcat": "greeks",
+    "current": 6,
+    "target": 15,
+    "gap": 9,
+    "dir": "content/derivatives/greeks",
+    "existing_slugs": [
+      "delta",
+      "gamma",
+      "options-greeks",
+      "rho",
+      "theta",
+      "vega"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "pricing-models",
+    "current": 7,
+    "target": 20,
+    "gap": 13,
+    "dir": "content/derivatives/pricing-models",
+    "existing_slugs": [
+      "binomial-option-pricing",
+      "black-scholes-model",
+      "historical-volatility",
+      "implied-volatility",
+      "monte-carlo-options-pricing",
+      "volatility-smile",
+      "volatility-swap"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "futures-forwards",
+    "current": 9,
+    "target": 25,
+    "gap": 16,
+    "dir": "content/derivatives/futures-forwards",
+    "existing_slugs": [
+      "backwardation",
+      "basis",
+      "contango",
+      "cost-of-carry",
+      "forward-contract",
+      "futures-contract",
+      "initial-margin",
+      "maintenance-margin",
+      "mark-to-market"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "swaps",
+    "current": 5,
+    "target": 20,
+    "gap": 15,
+    "dir": "content/derivatives/swaps",
+    "existing_slugs": [
+      "credit-default-swap",
+      "interest-rate-swap",
+      "sofr-swap",
+      "swap",
+      "swaption"
+    ]
+  },
+  {
+    "category": "derivatives",
+    "subcat": "general",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/derivatives/general",
+    "existing_slugs": [
+      "option"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "government-bonds",
+    "current": 6,
+    "target": 30,
+    "gap": 24,
+    "dir": "content/fixed-income/government-bonds",
+    "existing_slugs": [
+      "i-bond",
+      "savings-bond",
+      "tips",
+      "treasury-bill",
+      "treasury-bond",
+      "treasury-note"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "corporate-bonds",
+    "current": 8,
+    "target": 25,
+    "gap": 17,
+    "dir": "content/fixed-income/corporate-bonds",
+    "existing_slugs": [
+      "callable-bond",
+      "convertible-bond",
+      "corporate-bond",
+      "high-yield-bond",
+      "investment-grade-bond",
+      "junk-bond",
+      "perpetual-bond",
+      "putable-bond"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "municipal-bonds",
+    "current": 3,
+    "target": 15,
+    "gap": 12,
+    "dir": "content/fixed-income/municipal-bonds",
+    "existing_slugs": [
+      "general-obligation-bond",
+      "municipal-bond",
+      "revenue-bond"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "structured-credit",
+    "current": 5,
+    "target": 20,
+    "gap": 15,
+    "dir": "content/fixed-income/structured-credit",
+    "existing_slugs": [
+      "asset-backed-security",
+      "collateralized-debt-obligation",
+      "collateralized-loan-obligation",
+      "commercial-mortgage-backed-security",
+      "mortgage-backed-security"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "money-market",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/fixed-income/money-market",
+    "existing_slugs": [
+      "certificate-of-deposit",
+      "commercial-paper",
+      "repurchase-agreement",
+      "reverse-repo"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "credit-ratings",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/fixed-income/credit-ratings",
+    "existing_slugs": [
+      "credit-rating",
+      "default-rate"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "bond-math",
+    "current": 11,
+    "target": 25,
+    "gap": 14,
+    "dir": "content/fixed-income/bond-math",
+    "existing_slugs": [
+      "bond-duration-risk",
+      "convexity",
+      "coupon-rate",
+      "credit-spread",
+      "current-yield",
+      "duration",
+      "option-adjusted-spread",
+      "par-value",
+      "yield-to-call",
+      "yield-to-maturity",
+      "zero-coupon-bond"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "yield-curve",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/fixed-income/yield-curve",
+    "existing_slugs": [
+      "yield-curve"
+    ]
+  },
+  {
+    "category": "fixed-income",
+    "subcat": "general",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/fixed-income/general",
+    "existing_slugs": [
+      "bond",
+      "eurobond"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "etfs",
+    "current": 19,
+    "target": 40,
+    "gap": 21,
+    "dir": "content/funds/etfs",
+    "existing_slugs": [
+      "active-etf",
+      "authorized-participant",
+      "bond-etf",
+      "commodity-etf",
+      "equity-etf",
+      "etf",
+      "etf-arbitrage",
+      "etf-bid-ask-spread",
+      "etf-creation-redemption",
+      "etf-premium-discount",
+      "etf-tracking-error",
+      "expense-ratio",
+      "factor-etf",
+      "inverse-etf",
+      "leveraged-etf",
+      "sector-etf",
+      "semi-transparent-etf",
+      "smart-beta-etf",
+      "thematic-etf"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "mutual-funds",
+    "current": 5,
+    "target": 20,
+    "gap": 15,
+    "dir": "content/funds/mutual-funds",
+    "existing_slugs": [
+      "closed-end-fund",
+      "international-mutual-fund",
+      "interval-fund",
+      "mutual-fund",
+      "open-end-fund"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "hedge-funds",
+    "current": 4,
+    "target": 20,
+    "gap": 16,
+    "dir": "content/funds/hedge-funds",
+    "existing_slugs": [
+      "hedge-fund",
+      "hedge-fund-global-macro",
+      "hedge-fund-long-short-equity",
+      "hedge-fund-market-neutral"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "private-equity",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/funds/private-equity",
+    "existing_slugs": [
+      "distressed-debt-fund",
+      "leveraged-buyout-fund",
+      "private-equity-fund",
+      "venture-capital-fund"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "specialty-funds",
+    "current": 8,
+    "target": 20,
+    "gap": 12,
+    "dir": "content/funds/specialty-funds",
+    "existing_slugs": [
+      "asset-allocation-fund",
+      "balanced-fund",
+      "emerging-markets-fund",
+      "frontier-markets-fund",
+      "fund-of-funds",
+      "lifecycle-fund",
+      "money-market-fund",
+      "target-date-fund"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "fund-economics",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/funds/fund-economics",
+    "existing_slugs": [
+      "management-fee",
+      "performance-fee"
+    ]
+  },
+  {
+    "category": "funds",
+    "subcat": "general",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/funds/general",
+    "existing_slugs": [
+      "business-development-company",
+      "index-fund"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "currency-pairs",
+    "current": 1,
+    "target": 20,
+    "gap": 19,
+    "dir": "content/forex/currency-pairs",
+    "existing_slugs": [
+      "cross-rate"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "fx-regimes",
+    "current": 5,
+    "target": 15,
+    "gap": 10,
+    "dir": "content/forex/fx-regimes",
+    "existing_slugs": [
+      "crawling-peg",
+      "currency-board",
+      "dollarization",
+      "floating-exchange-rate",
+      "managed-float"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "fx-derivatives",
+    "current": 6,
+    "target": 15,
+    "gap": 9,
+    "dir": "content/forex/fx-derivatives",
+    "existing_slugs": [
+      "exotic-fx-option",
+      "fx-forward",
+      "fx-option",
+      "fx-swap",
+      "ndf",
+      "vanilla-fx-option"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "fx-mechanics",
+    "current": 8,
+    "target": 20,
+    "gap": 12,
+    "dir": "content/forex/fx-mechanics",
+    "existing_slugs": [
+      "carry-trade",
+      "forex-leverage",
+      "forex-spread",
+      "lot-size-forex",
+      "micro-lot",
+      "mini-lot",
+      "pip",
+      "standard-lot"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "reserve-currencies",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/forex/reserve-currencies",
+    "existing_slugs": [
+      "japanese-yen"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "intervention",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/forex/intervention",
+    "existing_slugs": [
+      "plaza-accord"
+    ]
+  },
+  {
+    "category": "forex",
+    "subcat": "general",
+    "current": 19,
+    "target": 15,
+    "gap": 0,
+    "dir": "content/forex/general",
+    "existing_slugs": [
+      "bretton-woods",
+      "british-pound",
+      "currency-future",
+      "currency-option",
+      "currency-pair",
+      "currency-peg",
+      "euro",
+      "exotic-currency-pair",
+      "fixed-exchange-rate",
+      "forex-margin",
+      "forward-exchange-rate",
+      "fx-volatility-surface",
+      "gold-standard",
+      "hard-peg",
+      "major-currency-pair",
+      "minor-currency-pair",
+      "soft-peg",
+      "spot-exchange-rate",
+      "us-dollar"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "metals",
+    "current": 10,
+    "target": 20,
+    "gap": 10,
+    "dir": "content/commodities/metals",
+    "existing_slugs": [
+      "aluminum",
+      "copper",
+      "gold",
+      "iron-ore",
+      "nickel",
+      "palladium",
+      "platinum",
+      "rare-earth-metals",
+      "silver",
+      "zinc"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "energy",
+    "current": 9,
+    "target": 20,
+    "gap": 11,
+    "dir": "content/commodities/energy",
+    "existing_slugs": [
+      "brent-crude",
+      "coal",
+      "crude-oil",
+      "gasoline",
+      "heating-oil",
+      "lng",
+      "natural-gas",
+      "uranium",
+      "wti-crude"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "agriculture",
+    "current": 12,
+    "target": 20,
+    "gap": 8,
+    "dir": "content/commodities/agriculture",
+    "existing_slugs": [
+      "cocoa",
+      "coffee",
+      "corn",
+      "cotton",
+      "lumber",
+      "orange-juice",
+      "rice",
+      "soybean-meal",
+      "soybean-oil",
+      "soybeans",
+      "sugar",
+      "wheat"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "livestock",
+    "current": 3,
+    "target": 10,
+    "gap": 7,
+    "dir": "content/commodities/livestock",
+    "existing_slugs": [
+      "dairy-futures",
+      "lean-hogs",
+      "live-cattle"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "commodity-curves",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/commodities/commodity-curves",
+    "existing_slugs": [
+      "contango"
+    ]
+  },
+  {
+    "category": "commodities",
+    "subcat": "commodity-vehicles",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/commodities/commodity-vehicles",
+    "existing_slugs": []
+  },
+  {
+    "category": "commodities",
+    "subcat": "general",
+    "current": 7,
+    "target": 10,
+    "gap": 3,
+    "dir": "content/commodities/general",
+    "existing_slugs": [
+      "cobalt",
+      "electricity-as-commodity",
+      "lead",
+      "lithium",
+      "rhodium",
+      "steel",
+      "tin"
+    ]
+  },
+  {
+    "category": "macro",
+    "subcat": "output",
+    "current": 6,
+    "target": 18,
+    "gap": 12,
+    "dir": "content/macro/output",
+    "existing_slugs": [
+      "gdp-deflator",
+      "gdp-per-capita",
+      "nominal-gdp",
+      "output-gap",
+      "potential-gdp",
+      "real-gdp"
+    ]
+  },
+  {
+    "category": "macro",
+    "subcat": "prices",
+    "current": 7,
+    "target": 20,
+    "gap": 13,
+    "dir": "content/macro/prices",
+    "existing_slugs": [
+      "core-inflation",
+      "deflation",
+      "headline-inflation",
+      "hyperinflation",
+      "stagflation",
+      "sticky-price-cpi",
+      "trimmed-mean-cpi"
+    ]
+  },
+  {
+    "category": "macro",
+    "subcat": "labor",
+    "current": 10,
+    "target": 15,
+    "gap": 5,
+    "dir": "content/macro/labor",
+    "existing_slugs": [
+      "cyclical-unemployment",
+      "frictional-unemployment",
+      "jolts-report",
+      "labor-force-participation-rate",
+      "natural-rate-of-unemployment",
+      "nonfarm-payrolls",
+      "structural-unemployment",
+      "u3-unemployment",
+      "u6-unemployment",
+      "unemployment-rate"
+    ]
+  },
+  {
+    "category": "macro",
+    "subcat": "business-cycle",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/macro/business-cycle",
+    "existing_slugs": [
+      "recession"
+    ]
+  },
+  {
+    "category": "macro",
+    "subcat": "trade-bop",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/macro/trade-bop",
+    "existing_slugs": []
+  },
+  {
+    "category": "macro",
+    "subcat": "growth-theory",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/macro/growth-theory",
+    "existing_slugs": []
+  },
+  {
+    "category": "macro",
+    "subcat": "general",
+    "current": 18,
+    "target": 15,
+    "gap": 0,
+    "dir": "content/macro/general",
+    "existing_slugs": [
+      "business-cycle",
+      "consumer-price-index",
+      "continuing-jobless-claims",
+      "disinflation",
+      "employment-population-ratio",
+      "full-employment",
+      "gross-domestic-product",
+      "gross-national-income",
+      "gross-national-product",
+      "inflation",
+      "initial-jobless-claims",
+      "labor-productivity",
+      "multifactor-productivity",
+      "nairu",
+      "owners-equivalent-rent",
+      "personal-consumption-expenditures-price-index",
+      "producer-price-index",
+      "productivity"
+    ]
+  },
+  {
+    "category": "monetary",
+    "subcat": "central-banks",
+    "current": 1,
+    "target": 20,
+    "gap": 19,
+    "dir": "content/monetary/central-banks",
+    "existing_slugs": [
+      "federal-reserve"
+    ]
+  },
+  {
+    "category": "monetary",
+    "subcat": "policy-tools",
+    "current": 8,
+    "target": 20,
+    "gap": 12,
+    "dir": "content/monetary/policy-tools",
+    "existing_slugs": [
+      "forward-guidance",
+      "open-market-operations",
+      "permanent-open-market-operations",
+      "quantitative-easing",
+      "reserve-requirements",
+      "reverse-repo-facility",
+      "standing-repo-facility",
+      "temporary-open-market-operations"
+    ]
+  },
+  {
+    "category": "monetary",
+    "subcat": "money-supply",
+    "current": 6,
+    "target": 12,
+    "gap": 6,
+    "dir": "content/monetary/money-supply",
+    "existing_slugs": [
+      "m0",
+      "m1",
+      "m2",
+      "m3-money-supply",
+      "monetary-base",
+      "money-multiplier"
+    ]
+  },
+  {
+    "category": "monetary",
+    "subcat": "interest-rates",
+    "current": 1,
+    "target": 18,
+    "gap": 17,
+    "dir": "content/monetary/interest-rates",
+    "existing_slugs": [
+      "prime-rate"
+    ]
+  },
+  {
+    "category": "monetary",
+    "subcat": "currency",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/monetary/currency",
+    "existing_slugs": []
+  },
+  {
+    "category": "monetary",
+    "subcat": "frameworks",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/monetary/frameworks",
+    "existing_slugs": []
+  },
+  {
+    "category": "monetary",
+    "subcat": "general",
+    "current": 27,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/monetary/general",
+    "existing_slugs": [
+      "balance-sheet-runoff",
+      "central-bank",
+      "commodity-money",
+      "contractionary-monetary-policy",
+      "discount-window",
+      "ester",
+      "euribor",
+      "european-central-bank",
+      "expansionary-monetary-policy",
+      "federal-funds-rate-target",
+      "fiat-money",
+      "fractional-reserve-banking",
+      "full-reserve-banking",
+      "helicopter-money",
+      "interest-on-excess-reserves",
+      "interest-on-required-reserves",
+      "interest-on-reserves",
+      "interest-rate",
+      "large-scale-asset-purchases",
+      "libor",
+      "modern-monetary-theory",
+      "monetary-policy",
+      "quantitative-tightening",
+      "representative-money",
+      "sofr",
+      "sonia",
+      "tonar"
+    ]
+  },
+  {
+    "category": "fiscal",
+    "subcat": "budgets",
+    "current": 7,
+    "target": 15,
+    "gap": 8,
+    "dir": "content/fiscal/budgets",
+    "existing_slugs": [
+      "appropriations-bill",
+      "automatic-stabilizer",
+      "budget-deficit",
+      "budget-surplus",
+      "discretionary-spending",
+      "mandatory-spending",
+      "primary-balance"
+    ]
+  },
+  {
+    "category": "fiscal",
+    "subcat": "government-debt",
+    "current": 5,
+    "target": 18,
+    "gap": 13,
+    "dir": "content/fiscal/government-debt",
+    "existing_slugs": [
+      "debt-ceiling",
+      "debt-restructuring",
+      "debt-to-gdp-ratio",
+      "sovereign-debt",
+      "sovereign-default"
+    ]
+  },
+  {
+    "category": "fiscal",
+    "subcat": "taxation-policy",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/fiscal/taxation-policy",
+    "existing_slugs": []
+  },
+  {
+    "category": "fiscal",
+    "subcat": "transfer-programs",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/fiscal/transfer-programs",
+    "existing_slugs": []
+  },
+  {
+    "category": "fiscal",
+    "subcat": "fiscal-multipliers",
+    "current": 3,
+    "target": 12,
+    "gap": 9,
+    "dir": "content/fiscal/fiscal-multipliers",
+    "existing_slugs": [
+      "crowding-out",
+      "fiscal-multiplier",
+      "ricardian-equivalence"
+    ]
+  },
+  {
+    "category": "fiscal",
+    "subcat": "sovereign-default",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/fiscal/sovereign-default",
+    "existing_slugs": []
+  },
+  {
+    "category": "fiscal",
+    "subcat": "general",
+    "current": 26,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/fiscal/general",
+    "existing_slugs": [
+      "austerity",
+      "balanced-budget-amendment",
+      "brady-bond",
+      "continuing-resolution",
+      "crowding-in",
+      "cyclically-adjusted-deficit",
+      "debt-held-by-the-public",
+      "debt-limit",
+      "entitlement-spending",
+      "fiscal-cliff",
+      "fiscal-consolidation",
+      "fiscal-policy-contractionary",
+      "fiscal-policy-expansionary",
+      "golden-rule-fiscal",
+      "government-shutdown",
+      "gross-debt",
+      "intragovernmental-debt",
+      "national-debt",
+      "net-debt",
+      "official-creditor",
+      "omnibus-spending-bill",
+      "public-debt",
+      "sequestration",
+      "stimulus-package",
+      "structural-balance",
+      "transfer-payment"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "valuation-ratios",
+    "current": 4,
+    "target": 25,
+    "gap": 21,
+    "dir": "content/ratios/valuation-ratios",
+    "existing_slugs": [
+      "peg-ratio",
+      "price-to-book-ratio",
+      "price-to-cash-flow-ratio",
+      "price-to-sales-ratio"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "profitability",
+    "current": 2,
+    "target": 20,
+    "gap": 18,
+    "dir": "content/ratios/profitability",
+    "existing_slugs": [
+      "ebitda-margin",
+      "operating-margin"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "liquidity",
+    "current": 3,
+    "target": 12,
+    "gap": 9,
+    "dir": "content/ratios/liquidity",
+    "existing_slugs": [
+      "cash-ratio",
+      "current-ratio",
+      "quick-ratio"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "solvency-leverage",
+    "current": 5,
+    "target": 18,
+    "gap": 13,
+    "dir": "content/ratios/solvency-leverage",
+    "existing_slugs": [
+      "debt-to-assets-ratio",
+      "debt-to-ebitda-ratio",
+      "debt-to-equity-ratio",
+      "fixed-charge-coverage-ratio",
+      "interest-coverage-ratio"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "efficiency",
+    "current": 6,
+    "target": 15,
+    "gap": 9,
+    "dir": "content/ratios/efficiency",
+    "existing_slugs": [
+      "asset-turnover-ratio",
+      "cash-conversion-cycle",
+      "days-payable-outstanding",
+      "days-sales-outstanding",
+      "fixed-asset-turnover",
+      "inventory-turnover"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "market-risk",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/ratios/market-risk",
+    "existing_slugs": [
+      "alpha",
+      "beta"
+    ]
+  },
+  {
+    "category": "ratios",
+    "subcat": "general",
+    "current": 25,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/ratios/general",
+    "existing_slugs": [
+      "accounts-payable-turnover",
+      "accounts-receivable-turnover",
+      "contribution-margin",
+      "days-inventory-outstanding",
+      "debt-to-capital-ratio",
+      "dscr",
+      "earnings-per-share",
+      "ebit-margin",
+      "enterprise-value",
+      "ev-to-ebit",
+      "ev-to-ebitda",
+      "ev-to-fcf",
+      "ev-to-sales",
+      "gross-profit-margin",
+      "market-capitalization",
+      "net-profit-margin",
+      "price-to-earnings-ratio",
+      "price-to-free-cash-flow-ratio",
+      "return-on-assets",
+      "return-on-capital-employed",
+      "return-on-equity",
+      "return-on-invested-capital",
+      "return-on-net-tangible-assets",
+      "return-on-tangible-equity",
+      "working-capital-ratio"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "financial-statements",
+    "current": 6,
+    "target": 12,
+    "gap": 6,
+    "dir": "content/accounting/financial-statements",
+    "existing_slugs": [
+      "10-k",
+      "balance-sheet",
+      "cash-flow-statement",
+      "comprehensive-income",
+      "income-statement",
+      "off-balance-sheet"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "balance-sheet-items",
+    "current": 6,
+    "target": 20,
+    "gap": 14,
+    "dir": "content/accounting/balance-sheet-items",
+    "existing_slugs": [
+      "accounts-payable",
+      "accounts-receivable",
+      "contingent-liability",
+      "deferred-tax-asset",
+      "goodwill",
+      "intangible-assets"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "income-recognition",
+    "current": 4,
+    "target": 12,
+    "gap": 8,
+    "dir": "content/accounting/income-recognition",
+    "existing_slugs": [
+      "accrual-accounting",
+      "asc-606",
+      "cash-basis-accounting",
+      "revenue-recognition"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "cost-allocation",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/accounting/cost-allocation",
+    "existing_slugs": [
+      "accumulated-depreciation",
+      "amortization",
+      "depreciation",
+      "straight-line-depreciation"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "standards-and-audit",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/accounting/standards-and-audit",
+    "existing_slugs": [
+      "audit-opinion",
+      "fasb",
+      "going-concern",
+      "iasb"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "special-topics",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/accounting/special-topics",
+    "existing_slugs": [
+      "finance-lease",
+      "operating-lease"
+    ]
+  },
+  {
+    "category": "accounting",
+    "subcat": "general",
+    "current": 14,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/accounting/general",
+    "existing_slugs": [
+      "allowance-for-doubtful-accounts",
+      "ebitda",
+      "fair-value",
+      "fifo",
+      "footnote-disclosure",
+      "free-cash-flow",
+      "generally-accepted-accounting-principles",
+      "historical-cost",
+      "international-financial-reporting-standards",
+      "lifo",
+      "restatement",
+      "retained-earnings",
+      "segment-reporting",
+      "statement-of-changes-in-equity"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "value-strategies",
+    "current": 7,
+    "target": 18,
+    "gap": 11,
+    "dir": "content/strategies/value-strategies",
+    "existing_slugs": [
+      "contrarian-investing",
+      "deep-value-investing",
+      "dividend-aristocrats",
+      "dividend-growth-investing",
+      "dividend-investing",
+      "garp",
+      "value-investing"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "growth-momentum",
+    "current": 5,
+    "target": 15,
+    "gap": 10,
+    "dir": "content/strategies/growth-momentum",
+    "existing_slugs": [
+      "breakout-trading",
+      "growth-investing",
+      "momentum-investing",
+      "swing-trading",
+      "trend-following"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "factor-investing",
+    "current": 9,
+    "target": 18,
+    "gap": 9,
+    "dir": "content/strategies/factor-investing",
+    "existing_slugs": [
+      "factor-investing",
+      "investment-factor",
+      "low-volatility-factor",
+      "momentum-factor",
+      "profitability-factor",
+      "quality-factor",
+      "size-factor",
+      "smart-beta",
+      "value-factor"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "portfolio-construction",
+    "current": 10,
+    "target": 18,
+    "gap": 8,
+    "dir": "content/strategies/portfolio-construction",
+    "existing_slugs": [
+      "all-weather-portfolio",
+      "asset-allocation",
+      "barbell-strategy",
+      "bullet-strategy",
+      "core-satellite-portfolio",
+      "diversification",
+      "ladder-strategy",
+      "lazy-portfolio",
+      "permanent-portfolio",
+      "three-fund-portfolio"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "rebalancing-tactics",
+    "current": 7,
+    "target": 12,
+    "gap": 5,
+    "dir": "content/strategies/rebalancing-tactics",
+    "existing_slugs": [
+      "asset-rebalancing",
+      "calendar-rebalancing",
+      "dollar-cost-averaging",
+      "lump-sum-investing",
+      "tax-gain-harvesting",
+      "tax-loss-harvesting",
+      "threshold-rebalancing"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "quant-systematic",
+    "current": 7,
+    "target": 15,
+    "gap": 8,
+    "dir": "content/strategies/quant-systematic",
+    "existing_slugs": [
+      "capital-structure-arbitrage",
+      "mean-reversion-investing",
+      "merger-arbitrage",
+      "pairs-trading",
+      "quantitative-investing",
+      "statistical-arbitrage",
+      "systematic-investing"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "trading-styles",
+    "current": 3,
+    "target": 12,
+    "gap": 9,
+    "dir": "content/strategies/trading-styles",
+    "existing_slugs": [
+      "day-trading",
+      "position-trading",
+      "scalping"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "rotation",
+    "current": 4,
+    "target": 10,
+    "gap": 6,
+    "dir": "content/strategies/rotation",
+    "existing_slugs": [
+      "capital-rotation",
+      "geographic-rotation",
+      "sector-rotation",
+      "style-rotation"
+    ]
+  },
+  {
+    "category": "strategies",
+    "subcat": "general",
+    "current": 6,
+    "target": 10,
+    "gap": 4,
+    "dir": "content/strategies/general",
+    "existing_slugs": [
+      "bottom-up-investing",
+      "fundamental-investing",
+      "high-yield-investing",
+      "market-timing",
+      "range-trading",
+      "top-down-investing"
+    ]
+  },
+  {
+    "category": "risk",
+    "subcat": "risk-types",
+    "current": 10,
+    "target": 20,
+    "gap": 10,
+    "dir": "content/risk/risk-types",
+    "existing_slugs": [
+      "counterparty-risk",
+      "country-risk",
+      "credit-risk",
+      "currency-risk",
+      "interest-rate-risk",
+      "liquidity-risk",
+      "market-risk",
+      "model-risk",
+      "operational-risk",
+      "systemic-risk"
+    ]
+  },
+  {
+    "category": "risk",
+    "subcat": "risk-measurement",
+    "current": 8,
+    "target": 18,
+    "gap": 10,
+    "dir": "content/risk/risk-measurement",
+    "existing_slugs": [
+      "conditional-value-at-risk",
+      "expected-shortfall",
+      "historical-var",
+      "monte-carlo-var",
+      "parametric-var",
+      "scenario-analysis",
+      "stress-testing",
+      "value-at-risk"
+    ]
+  },
+  {
+    "category": "risk",
+    "subcat": "hedging",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/risk/hedging",
+    "existing_slugs": []
+  },
+  {
+    "category": "risk",
+    "subcat": "risk-management",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/risk/risk-management",
+    "existing_slugs": []
+  },
+  {
+    "category": "risk",
+    "subcat": "regulatory-risk",
+    "current": 3,
+    "target": 10,
+    "gap": 7,
+    "dir": "content/risk/regulatory-risk",
+    "existing_slugs": [
+      "basel-capital",
+      "tier-1-capital",
+      "tier-2-capital"
+    ]
+  },
+  {
+    "category": "risk",
+    "subcat": "general",
+    "current": 19,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/risk/general",
+    "existing_slugs": [
+      "black-swan",
+      "call-risk",
+      "capital-adequacy",
+      "extension-risk",
+      "fat-tail-risk",
+      "gray-swan",
+      "herstatt-risk",
+      "idiosyncratic-risk",
+      "inflation-risk",
+      "parameter-risk",
+      "prepayment-risk",
+      "put-risk",
+      "reinvestment-risk",
+      "reverse-stress-test",
+      "settlement-risk",
+      "sovereign-risk",
+      "systematic-risk",
+      "tail-risk",
+      "white-swan"
+    ]
+  },
+  {
+    "category": "behavioral",
+    "subcat": "cognitive-biases",
+    "current": 12,
+    "target": 20,
+    "gap": 8,
+    "dir": "content/behavioral/cognitive-biases",
+    "existing_slugs": [
+      "ambiguity-aversion",
+      "anchoring-bias",
+      "availability-heuristic",
+      "broad-framing",
+      "confirmation-bias",
+      "endowment-effect",
+      "framing-effect",
+      "hindsight-bias",
+      "narrow-framing",
+      "overconfidence-bias",
+      "representativeness-heuristic",
+      "status-quo-bias"
+    ]
+  },
+  {
+    "category": "behavioral",
+    "subcat": "loss-aversion",
+    "current": 4,
+    "target": 12,
+    "gap": 8,
+    "dir": "content/behavioral/loss-aversion",
+    "existing_slugs": [
+      "disposition-effect",
+      "loss-aversion",
+      "prospect-theory",
+      "regret-aversion"
+    ]
+  },
+  {
+    "category": "behavioral",
+    "subcat": "herding-social",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/behavioral/herding-social",
+    "existing_slugs": [
+      "fomo",
+      "herding-investors"
+    ]
+  },
+  {
+    "category": "behavioral",
+    "subcat": "mental-accounting",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/behavioral/mental-accounting",
+    "existing_slugs": [
+      "mental-accounting"
+    ]
+  },
+  {
+    "category": "behavioral",
+    "subcat": "sentiment",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/behavioral/sentiment",
+    "existing_slugs": []
+  },
+  {
+    "category": "behavioral",
+    "subcat": "market-anomalies",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/behavioral/market-anomalies",
+    "existing_slugs": []
+  },
+  {
+    "category": "behavioral",
+    "subcat": "general",
+    "current": 21,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/behavioral/general",
+    "existing_slugs": [
+      "action-bias",
+      "base-rate-neglect",
+      "certainty-effect",
+      "conjunction-fallacy",
+      "fud",
+      "gamblers-fallacy",
+      "halo-effect",
+      "herd-behavior",
+      "hot-hand-fallacy",
+      "illusion-of-control",
+      "illusion-of-skill",
+      "isolation-effect",
+      "narrative-fallacy",
+      "omission-bias",
+      "optimism-bias",
+      "peak-end-rule",
+      "pessimism-bias",
+      "recency-and-primacy-effect",
+      "recency-bias",
+      "reflection-effect",
+      "sunk-cost-fallacy"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "crises",
+    "current": 3,
+    "target": 18,
+    "gap": 15,
+    "dir": "content/history/crises",
+    "existing_slugs": [
+      "asian-financial-crisis",
+      "european-sovereign-debt-crisis",
+      "great-depression"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "bubbles",
+    "current": 3,
+    "target": 12,
+    "gap": 9,
+    "dir": "content/history/bubbles",
+    "existing_slugs": [
+      "dot-com-bubble",
+      "south-sea-bubble",
+      "tulip-mania"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "structural-shifts",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/history/structural-shifts",
+    "existing_slugs": [
+      "bretton-woods-agreement",
+      "nixon-shock"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "famous-trades",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/history/famous-trades",
+    "existing_slugs": [
+      "long-term-capital-management"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "regulatory-events",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/history/regulatory-events",
+    "existing_slugs": [
+      "dodd-frank-passage"
+    ]
+  },
+  {
+    "category": "history",
+    "subcat": "general",
+    "current": 29,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/history/general",
+    "existing_slugs": [
+      "aig-bailout",
+      "banking-crisis-of-1933",
+      "bear-stearns-collapse",
+      "black-monday-1987",
+      "cyprus-banking-crisis",
+      "enron-scandal",
+      "glass-steagall-passage",
+      "greek-debt-crisis",
+      "japan-asset-price-bubble",
+      "latin-american-debt-crisis",
+      "lehman-brothers-collapse",
+      "long-depression",
+      "mexican-peso-crisis",
+      "mississippi-bubble",
+      "nasdaq-crash-2000",
+      "oil-crisis-1973",
+      "oil-crisis-1979",
+      "panic-of-1837",
+      "panic-of-1873",
+      "panic-of-1893",
+      "panic-of-1907",
+      "russian-financial-crisis-1998",
+      "sarbanes-oxley-passage",
+      "savings-and-loan-crisis",
+      "smoot-hawley-tariff",
+      "subprime-mortgage-crisis",
+      "tarp",
+      "wall-street-crash-of-1929",
+      "worldcom-scandal"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "legendary-investors",
+    "current": 8,
+    "target": 20,
+    "gap": 12,
+    "dir": "content/people/legendary-investors",
+    "existing_slugs": [
+      "benjamin-graham",
+      "charlie-munger",
+      "howard-marks",
+      "john-templeton",
+      "peter-lynch",
+      "philip-fisher",
+      "seth-klarman",
+      "warren-buffett"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "traders",
+    "current": 6,
+    "target": 15,
+    "gap": 9,
+    "dir": "content/people/traders",
+    "existing_slugs": [
+      "george-soros",
+      "jim-rogers",
+      "michael-burry",
+      "paul-tudor-jones",
+      "ray-dalio",
+      "stanley-druckenmiller"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "economists",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/people/economists",
+    "existing_slugs": [
+      "eugene-fama",
+      "john-maynard-keynes",
+      "milton-friedman",
+      "robert-shiller"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "modern-thinkers",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/people/modern-thinkers",
+    "existing_slugs": [
+      "david-swensen"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "activists-quants",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/people/activists-quants",
+    "existing_slugs": [
+      "bill-ackman",
+      "dan-loeb"
+    ]
+  },
+  {
+    "category": "people",
+    "subcat": "general",
+    "current": 20,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/people/general",
+    "existing_slugs": [
+      "alan-greenspan",
+      "ben-bernanke",
+      "cathie-wood",
+      "daniel-kahneman",
+      "david-einhorn",
+      "david-tepper",
+      "henry-kravis",
+      "hyman-minsky",
+      "janet-yellen",
+      "jeremy-grantham",
+      "jerome-powell",
+      "joel-greenblatt",
+      "john-bogle",
+      "julian-robertson",
+      "kenneth-griffin",
+      "leon-black",
+      "mohnish-pabrai",
+      "paul-volcker",
+      "stephen-schwarzman",
+      "steve-cohen"
+    ]
+  },
+  {
+    "category": "regulation",
+    "subcat": "securities-laws",
+    "current": 10,
+    "target": 18,
+    "gap": 8,
+    "dir": "content/regulation/securities-laws",
+    "existing_slugs": [
+      "dodd-frank-act",
+      "investment-advisers-act-of-1940",
+      "investment-company-act-of-1940",
+      "jobs-act",
+      "regulation-a",
+      "regulation-cf",
+      "regulation-d",
+      "regulation-s",
+      "regulation-sho",
+      "sarbanes-oxley-act"
+    ]
+  },
+  {
+    "category": "regulation",
+    "subcat": "regulators",
+    "current": 7,
+    "target": 15,
+    "gap": 8,
+    "dir": "content/regulation/regulators",
+    "existing_slugs": [
+      "finra",
+      "section-13d",
+      "section-13g",
+      "securities-act-of-1933",
+      "securities-and-exchange-commission",
+      "securities-exchange-act-of-1934",
+      "securities-investor-protection-corporation"
+    ]
+  },
+  {
+    "category": "regulation",
+    "subcat": "market-rules",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/regulation/market-rules",
+    "existing_slugs": []
+  },
+  {
+    "category": "regulation",
+    "subcat": "aml-kyc",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/regulation/aml-kyc",
+    "existing_slugs": [
+      "kyc"
+    ]
+  },
+  {
+    "category": "regulation",
+    "subcat": "international",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/regulation/international",
+    "existing_slugs": [
+      "emir",
+      "mifid-ii"
+    ]
+  },
+  {
+    "category": "regulation",
+    "subcat": "compliance",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/regulation/compliance",
+    "existing_slugs": []
+  },
+  {
+    "category": "regulation",
+    "subcat": "general",
+    "current": 22,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/regulation/general",
+    "existing_slugs": [
+      "accredited-investor",
+      "anti-money-laundering",
+      "basel-iii",
+      "beneficial-ownership-reporting",
+      "blue-sky-laws",
+      "commodity-futures-trading-commission",
+      "consumer-financial-protection-bureau",
+      "federal-deposit-insurance-corporation",
+      "federal-reserve-regulation",
+      "federal-reserve-supervision",
+      "fiduciary-duty",
+      "financial-stability-oversight-council",
+      "glass-steagall-act",
+      "gramm-leach-bliley-act",
+      "insider-trading-law",
+      "office-of-the-comptroller-of-the-currency",
+      "qualified-institutional-buyer",
+      "regulation-best-interest",
+      "regulation-fd",
+      "rule-10b-5",
+      "short-swing-profit-rule",
+      "volcker-rule"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "mergers-acquisitions",
+    "current": 7,
+    "target": 20,
+    "gap": 13,
+    "dir": "content/corporate/mergers-acquisitions",
+    "existing_slugs": [
+      "acquisition",
+      "merger",
+      "mini-tender-offer",
+      "reverse-merger",
+      "special-purpose-acquisition-company",
+      "tender-offer",
+      "two-tier-tender-offer"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "takeover-defenses",
+    "current": 6,
+    "target": 12,
+    "gap": 6,
+    "dir": "content/corporate/takeover-defenses",
+    "existing_slugs": [
+      "crown-jewel-defense",
+      "dead-hand-poison-pill",
+      "poison-pill",
+      "slow-hand-poison-pill",
+      "white-knight",
+      "white-squire"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "leveraged-buyouts",
+    "current": 3,
+    "target": 12,
+    "gap": 9,
+    "dir": "content/corporate/leveraged-buyouts",
+    "existing_slugs": [
+      "going-private",
+      "leveraged-buyout",
+      "management-buyout"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "governance",
+    "current": 0,
+    "target": 18,
+    "gap": 18,
+    "dir": "content/corporate/governance",
+    "existing_slugs": []
+  },
+  {
+    "category": "corporate",
+    "subcat": "capital-policy",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/corporate/capital-policy",
+    "existing_slugs": [
+      "equity-carve-out",
+      "split-off"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "activism",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/corporate/activism",
+    "existing_slugs": [
+      "proxy-fight"
+    ]
+  },
+  {
+    "category": "corporate",
+    "subcat": "general",
+    "current": 22,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/corporate/general",
+    "existing_slugs": [
+      "change-of-control-provision",
+      "de-spac-transaction",
+      "direct-listing",
+      "divestiture",
+      "dual-class-share-structure",
+      "dual-listing",
+      "friendly-takeover",
+      "golden-handcuffs",
+      "golden-parachute",
+      "hostile-takeover",
+      "initial-public-offering",
+      "pac-man-defense",
+      "proxy-advisor",
+      "public-company",
+      "reverse-stock-split",
+      "scorched-earth-defense",
+      "secondary-buyout",
+      "special-dividend",
+      "spinoff",
+      "split-up",
+      "stock-split",
+      "take-private"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "retirement-accounts",
+    "current": 11,
+    "target": 20,
+    "gap": 9,
+    "dir": "content/personal-finance/retirement-accounts",
+    "existing_slugs": [
+      "401k-match",
+      "401k-plan",
+      "403b-plan",
+      "457-plan",
+      "required-minimum-distribution-personal",
+      "roth-ira",
+      "sep-ira",
+      "simple-ira",
+      "solo-401k",
+      "traditional-ira",
+      "vesting-401k"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "savings",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/personal-finance/savings",
+    "existing_slugs": [
+      "529-college-savings-plan",
+      "emergency-fund"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "budgeting",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/personal-finance/budgeting",
+    "existing_slugs": [
+      "zero-based-budgeting"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "credit-debt",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/personal-finance/credit-debt",
+    "existing_slugs": []
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "insurance",
+    "current": 10,
+    "target": 18,
+    "gap": 8,
+    "dir": "content/personal-finance/insurance",
+    "existing_slugs": [
+      "auto-insurance",
+      "disability-insurance-personal",
+      "homeowners-insurance",
+      "long-term-care-insurance",
+      "renters-insurance",
+      "term-life-insurance",
+      "umbrella-insurance",
+      "universal-life-insurance",
+      "variable-life-insurance",
+      "whole-life-insurance"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "homeownership",
+    "current": 3,
+    "target": 15,
+    "gap": 12,
+    "dir": "content/personal-finance/homeownership",
+    "existing_slugs": [
+      "adjustable-rate-mortgage-personal",
+      "fixed-rate-mortgage-personal",
+      "mortgage-personal"
+    ]
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "estate-planning",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/personal-finance/estate-planning",
+    "existing_slugs": []
+  },
+  {
+    "category": "personal-finance",
+    "subcat": "general",
+    "current": 22,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/personal-finance/general",
+    "existing_slugs": [
+      "backdoor-roth",
+      "budgeting-methods",
+      "compound-interest",
+      "coverdell-esa",
+      "custodial-account",
+      "dependent-care-fsa",
+      "envelope-budgeting",
+      "fifty-thirty-twenty-rule",
+      "fire-movement",
+      "fsa",
+      "hsa",
+      "lifestyle-creep",
+      "medicare-personal",
+      "mega-backdoor-roth",
+      "pay-yourself-first",
+      "roth-conversion-personal",
+      "safe-withdrawal-rate",
+      "savings-rate",
+      "sinking-fund",
+      "social-security-personal",
+      "the-four-percent-rule",
+      "ugma-utma"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "capital-gains",
+    "current": 12,
+    "target": 15,
+    "gap": 3,
+    "dir": "content/taxes/capital-gains",
+    "existing_slugs": [
+      "average-cost-basis",
+      "cost-basis",
+      "fifo-tax",
+      "lifo-tax",
+      "long-term-capital-gain-tax",
+      "ordinary-dividend",
+      "qualified-dividend",
+      "short-term-capital-gain-tax",
+      "specific-identification-basis",
+      "tax-lot",
+      "wash-sale",
+      "wash-sale-30-day-rule"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "retirement-tax",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/taxes/retirement-tax",
+    "existing_slugs": []
+  },
+  {
+    "category": "taxes",
+    "subcat": "investment-vehicles",
+    "current": 1,
+    "target": 15,
+    "gap": 14,
+    "dir": "content/taxes/investment-vehicles",
+    "existing_slugs": [
+      "qualified-opportunity-zone-investor"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "real-estate-tax",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/taxes/real-estate-tax",
+    "existing_slugs": [
+      "1031-like-kind-exchange",
+      "depreciation-recapture-investor"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "estate-gift-tax",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/taxes/estate-gift-tax",
+    "existing_slugs": [
+      "carryover-basis"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "alternative-tax",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/taxes/alternative-tax",
+    "existing_slugs": [
+      "alternative-minimum-tax-investor"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "forms",
+    "current": 5,
+    "target": 12,
+    "gap": 7,
+    "dir": "content/taxes/forms",
+    "existing_slugs": [
+      "1099-b",
+      "1099-div",
+      "1099-int",
+      "form-8949",
+      "schedule-d"
+    ]
+  },
+  {
+    "category": "taxes",
+    "subcat": "general",
+    "current": 19,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/taxes/general",
+    "existing_slugs": [
+      "bonus-depreciation",
+      "capital-gains-tax-investor",
+      "charitable-contribution-deduction",
+      "effective-tax-rate-investor",
+      "estate-tax-investor",
+      "hifo-tax",
+      "holding-period",
+      "itemized-deduction-investor",
+      "k-1-investor",
+      "marginal-tax-rate-investor",
+      "net-investment-income-tax",
+      "qualified-small-business-stock",
+      "section-1202-stock",
+      "section-1245-recapture",
+      "section-1250-recapture",
+      "section-179-deduction",
+      "standard-deduction-investor",
+      "step-up-in-basis",
+      "tax-bracket-investor"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "residential",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/real-estate/residential",
+    "existing_slugs": [
+      "condominium",
+      "single-family-rental"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "commercial",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/real-estate/commercial",
+    "existing_slugs": [
+      "data-center-reit",
+      "self-storage-reit"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "mortgages",
+    "current": 6,
+    "target": 18,
+    "gap": 12,
+    "dir": "content/real-estate/mortgages",
+    "existing_slugs": [
+      "adjustable-rate-mortgage",
+      "fha-loan",
+      "fixed-rate-mortgage",
+      "interest-only-mortgage",
+      "jumbo-loan",
+      "va-loan"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "reits",
+    "current": 7,
+    "target": 12,
+    "gap": 5,
+    "dir": "content/real-estate/reits",
+    "existing_slugs": [
+      "equity-reit",
+      "healthcare-reit",
+      "hybrid-reit",
+      "industrial-reit",
+      "mortgage-reit",
+      "office-reit",
+      "residential-reit"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "financing-investing",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/real-estate/financing-investing",
+    "existing_slugs": [
+      "cap-rate",
+      "cash-on-cash-return"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "operations",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/real-estate/operations",
+    "existing_slugs": [
+      "modified-gross-lease",
+      "triple-net-lease"
+    ]
+  },
+  {
+    "category": "real-estate",
+    "subcat": "general",
+    "current": 19,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/real-estate/general",
+    "existing_slugs": [
+      "build-to-rent",
+      "commercial-real-estate",
+      "conforming-loan",
+      "core-real-estate",
+      "fannie-mae",
+      "foreclosure",
+      "freddie-mac",
+      "gross-rent-multiplier",
+      "hotel-reit",
+      "mortgage-backed-security",
+      "multifamily-property",
+      "net-operating-income",
+      "opportunistic-real-estate",
+      "private-mortgage-insurance",
+      "real-estate-investment-trust",
+      "residential-real-estate",
+      "retail-reit",
+      "usda-loan",
+      "value-add-real-estate"
+    ]
+  },
+  {
+    "category": "trading",
+    "subcat": "order-types",
+    "current": 9,
+    "target": 18,
+    "gap": 9,
+    "dir": "content/trading/order-types",
+    "existing_slugs": [
+      "all-or-none",
+      "fill-or-kill",
+      "iceberg-order",
+      "limit-order",
+      "market-order",
+      "midpoint-peg",
+      "stop-limit-order",
+      "stop-order",
+      "trailing-stop-order"
+    ]
+  },
+  {
+    "category": "trading",
+    "subcat": "execution",
+    "current": 6,
+    "target": 15,
+    "gap": 9,
+    "dir": "content/trading/execution",
+    "existing_slugs": [
+      "best-execution",
+      "dark-pool",
+      "lit-venue",
+      "smart-order-router",
+      "twap-order",
+      "vwap-order"
+    ]
+  },
+  {
+    "category": "trading",
+    "subcat": "market-structure",
+    "current": 2,
+    "target": 18,
+    "gap": 16,
+    "dir": "content/trading/market-structure",
+    "existing_slugs": [
+      "high-frequency-trading",
+      "payment-for-order-flow"
+    ]
+  },
+  {
+    "category": "trading",
+    "subcat": "settlement-clearing",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/trading/settlement-clearing",
+    "existing_slugs": []
+  },
+  {
+    "category": "trading",
+    "subcat": "intraday-phenomena",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/trading/intraday-phenomena",
+    "existing_slugs": [
+      "circuit-breaker",
+      "opening-auction"
+    ]
+  },
+  {
+    "category": "trading",
+    "subcat": "trading-costs",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/trading/trading-costs",
+    "existing_slugs": []
+  },
+  {
+    "category": "trading",
+    "subcat": "general",
+    "current": 23,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/trading/general",
+    "existing_slugs": [
+      "algorithmic-trading",
+      "bracket-order",
+      "clearing-firm",
+      "custodian",
+      "day-order",
+      "gtc-order",
+      "gtd-order",
+      "hidden-order",
+      "immediate-or-cancel",
+      "lit-order",
+      "market-maker-trading",
+      "mit-order",
+      "nbbo",
+      "oco-order",
+      "oto-order",
+      "pattern-day-trader",
+      "peg-order",
+      "prime-broker",
+      "scalping",
+      "settlement-t2",
+      "short-selling",
+      "short-squeeze",
+      "swing-trading"
+    ]
+  },
+  {
+    "category": "crypto",
+    "subcat": "major-chains",
+    "current": 15,
+    "target": 15,
+    "gap": 0,
+    "dir": "content/crypto/major-chains",
+    "existing_slugs": [
+      "arbitrum",
+      "avalanche",
+      "bitcoin",
+      "bitcoin-cash",
+      "bitcoin-halving",
+      "cardano",
+      "ethereum",
+      "ethereum-dencun",
+      "ethereum-merge",
+      "ethereum-shanghai",
+      "mining-bitcoin",
+      "optimism",
+      "polkadot",
+      "polygon",
+      "solana"
+    ]
+  },
+  {
+    "category": "crypto",
+    "subcat": "consensus",
+    "current": 4,
+    "target": 10,
+    "gap": 6,
+    "dir": "content/crypto/consensus",
+    "existing_slugs": [
+      "delegated-proof-of-stake",
+      "proof-of-authority",
+      "proof-of-stake",
+      "proof-of-work"
+    ]
+  },
+  {
+    "category": "crypto",
+    "subcat": "tokens-instruments",
+    "current": 0,
+    "target": 18,
+    "gap": 18,
+    "dir": "content/crypto/tokens-instruments",
+    "existing_slugs": []
+  },
+  {
+    "category": "crypto",
+    "subcat": "defi",
+    "current": 3,
+    "target": 18,
+    "gap": 15,
+    "dir": "content/crypto/defi",
+    "existing_slugs": [
+      "automated-market-maker",
+      "impermanent-loss",
+      "liquidity-pool"
+    ]
+  },
+  {
+    "category": "crypto",
+    "subcat": "custody-trading",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/crypto/custody-trading",
+    "existing_slugs": [
+      "centralized-exchange",
+      "decentralized-exchange"
+    ]
+  },
+  {
+    "category": "crypto",
+    "subcat": "scaling-tech",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/crypto/scaling-tech",
+    "existing_slugs": []
+  },
+  {
+    "category": "crypto",
+    "subcat": "crypto-tax-reg",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/crypto/crypto-tax-reg",
+    "existing_slugs": []
+  },
+  {
+    "category": "crypto",
+    "subcat": "general",
+    "current": 21,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/crypto/general",
+    "existing_slugs": [
+      "asic-mining",
+      "blockchain-fundamentals",
+      "cryptocurrency-exchange",
+      "difficulty-adjustment",
+      "distributed-ledger",
+      "dogecoin",
+      "hash-rate",
+      "liquid-staking",
+      "liquidity-provider",
+      "litecoin",
+      "mining-pool",
+      "monero",
+      "permissioned-blockchain",
+      "private-blockchain",
+      "public-blockchain",
+      "restaking",
+      "ripple-xrp",
+      "slashing",
+      "staking",
+      "stellar",
+      "validator"
+    ]
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "candlesticks",
+    "current": 11,
+    "target": 15,
+    "gap": 4,
+    "dir": "content/technical-analysis/candlesticks",
+    "existing_slugs": [
+      "doji",
+      "engulfing-pattern",
+      "evening-star",
+      "hammer-candle",
+      "hanging-man",
+      "harami",
+      "marubozu",
+      "morning-star",
+      "shooting-star",
+      "three-black-crows",
+      "three-white-soldiers"
+    ]
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "chart-patterns",
+    "current": 14,
+    "target": 18,
+    "gap": 4,
+    "dir": "content/technical-analysis/chart-patterns",
+    "existing_slugs": [
+      "ascending-triangle",
+      "cup-and-handle",
+      "descending-triangle",
+      "double-bottom",
+      "double-top",
+      "flag-pattern",
+      "head-and-shoulders",
+      "inverse-head-and-shoulders",
+      "pennant-pattern",
+      "rectangle-pattern",
+      "rounding-bottom",
+      "symmetrical-triangle",
+      "triple-bottom",
+      "triple-top"
+    ]
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "support-resistance",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/technical-analysis/support-resistance",
+    "existing_slugs": [
+      "trendline"
+    ]
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "indicators-trend",
+    "current": 0,
+    "target": 15,
+    "gap": 15,
+    "dir": "content/technical-analysis/indicators-trend",
+    "existing_slugs": []
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "indicators-momentum",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/technical-analysis/indicators-momentum",
+    "existing_slugs": []
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "volume-indicators",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/technical-analysis/volume-indicators",
+    "existing_slugs": []
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "market-breadth",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/technical-analysis/market-breadth",
+    "existing_slugs": []
+  },
+  {
+    "category": "technical-analysis",
+    "subcat": "general",
+    "current": 14,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/technical-analysis/general",
+    "existing_slugs": [
+      "candlestick-chart",
+      "candlestick-pattern",
+      "channel-pattern",
+      "falling-wedge",
+      "kagi-chart",
+      "line-chart",
+      "ohlc-bar-chart",
+      "point-and-figure-chart",
+      "renko-chart",
+      "rising-wedge",
+      "rounding-top",
+      "spinning-top",
+      "support-and-resistance",
+      "wedge-pattern"
+    ]
+  },
+  {
+    "category": "institutions",
+    "subcat": "exchanges",
+    "current": 9,
+    "target": 15,
+    "gap": 6,
+    "dir": "content/institutions/exchanges",
+    "existing_slugs": [
+      "cboe-options-exchange",
+      "cme-group",
+      "euronext",
+      "frankfurt-stock-exchange-deutsche-borse",
+      "hong-kong-exchanges-and-clearing",
+      "nasdaq",
+      "shanghai-stock-exchange",
+      "shenzhen-stock-exchange",
+      "tokyo-stock-exchange"
+    ]
+  },
+  {
+    "category": "institutions",
+    "subcat": "index-providers",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/institutions/index-providers",
+    "existing_slugs": []
+  },
+  {
+    "category": "institutions",
+    "subcat": "rating-agencies",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/institutions/rating-agencies",
+    "existing_slugs": []
+  },
+  {
+    "category": "institutions",
+    "subcat": "clearinghouses",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/institutions/clearinghouses",
+    "existing_slugs": [
+      "dtcc",
+      "lch-clearnet"
+    ]
+  },
+  {
+    "category": "institutions",
+    "subcat": "major-firms",
+    "current": 3,
+    "target": 18,
+    "gap": 15,
+    "dir": "content/institutions/major-firms",
+    "existing_slugs": [
+      "goldman-sachs",
+      "jpmorgan-chase",
+      "morgan-stanley"
+    ]
+  },
+  {
+    "category": "institutions",
+    "subcat": "regulators",
+    "current": 0,
+    "target": 10,
+    "gap": 10,
+    "dir": "content/institutions/regulators",
+    "existing_slugs": []
+  },
+  {
+    "category": "institutions",
+    "subcat": "general",
+    "current": 28,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/institutions/general",
+    "existing_slugs": [
+      "australian-securities-exchange",
+      "bank-of-america",
+      "bombay-stock-exchange",
+      "broker",
+      "citigroup",
+      "depository-trust-company",
+      "deutsche-bank",
+      "dubai-financial-market",
+      "eurex",
+      "federal-reserve-banks",
+      "hong-kong-stock-exchange",
+      "ice-clear-credit",
+      "ice-intercontinental-exchange",
+      "johannesburg-stock-exchange",
+      "jpx-japan-exchange-group",
+      "korean-exchange",
+      "london-stock-exchange",
+      "national-stock-exchange-of-india",
+      "new-york-stock-exchange",
+      "options-clearing-corporation",
+      "sao-paulo-stock-exchange-b3",
+      "singapore-exchange",
+      "six-swiss-exchange",
+      "stock-exchange",
+      "taiwan-stock-exchange",
+      "toronto-stock-exchange",
+      "ubs",
+      "wells-fargo"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "dcf",
+    "current": 11,
+    "target": 18,
+    "gap": 7,
+    "dir": "content/valuation/dcf",
+    "existing_slugs": [
+      "discounted-cash-flow-valuation",
+      "exit-multiple-terminal-value",
+      "free-cash-flow-to-equity-valuation",
+      "free-cash-flow-to-firm-valuation",
+      "free-cash-flow-yield-valuation",
+      "gordon-growth-model",
+      "perpetuity-growth-terminal-value",
+      "reverse-dcf",
+      "terminal-value",
+      "three-stage-dcf",
+      "two-stage-dcf"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "multiples",
+    "current": 0,
+    "target": 18,
+    "gap": 18,
+    "dir": "content/valuation/multiples",
+    "existing_slugs": []
+  },
+  {
+    "category": "valuation",
+    "subcat": "residual-income",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/valuation/residual-income",
+    "existing_slugs": [
+      "abnormal-earnings-growth-model",
+      "residual-income-model"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "dividend-models",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/valuation/dividend-models",
+    "existing_slugs": [
+      "dividend-discount-model"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "real-options",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/valuation/real-options",
+    "existing_slugs": [
+      "real-options-valuation"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "private-company",
+    "current": 1,
+    "target": 10,
+    "gap": 9,
+    "dir": "content/valuation/private-company",
+    "existing_slugs": [
+      "build-up-method-cost-of-equity"
+    ]
+  },
+  {
+    "category": "valuation",
+    "subcat": "general",
+    "current": 29,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/valuation/general",
+    "existing_slugs": [
+      "after-tax-cost-of-debt",
+      "arbitrage-pricing-theory",
+      "capital-asset-pricing-model",
+      "carhart-four-factor-model",
+      "comparable-company-analysis",
+      "comparable-transaction-analysis",
+      "conglomerate-discount",
+      "cost-of-debt",
+      "cost-of-equity",
+      "equity-risk-premium",
+      "ev-bridge",
+      "fama-french-five-factor-model",
+      "fama-french-three-factor-model",
+      "football-field-valuation",
+      "going-concern-valuation",
+      "implied-growth-rate",
+      "liquidation-value",
+      "market-risk-premium",
+      "monte-carlo-valuation",
+      "multi-stage-ddm",
+      "multiples-valuation",
+      "normalized-earnings",
+      "owner-earnings-buffett",
+      "peer-group-selection",
+      "relative-valuation",
+      "scenario-valuation",
+      "sensitivity-analysis-valuation",
+      "sum-of-the-parts-valuation",
+      "weighted-average-cost-of-capital"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "primary-vs-secondary",
+    "current": 2,
+    "target": 10,
+    "gap": 8,
+    "dir": "content/markets/primary-vs-secondary",
+    "existing_slugs": [
+      "primary-market",
+      "secondary-market"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "venues",
+    "current": 3,
+    "target": 18,
+    "gap": 15,
+    "dir": "content/markets/venues",
+    "existing_slugs": [
+      "alternative-trading-system",
+      "dark-pool-detail",
+      "ecn-detail"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "market-types",
+    "current": 2,
+    "target": 15,
+    "gap": 13,
+    "dir": "content/markets/market-types",
+    "existing_slugs": [
+      "bear-market",
+      "bull-market"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "indices",
+    "current": 4,
+    "target": 15,
+    "gap": 11,
+    "dir": "content/markets/indices",
+    "existing_slugs": [
+      "dow-jones-industrial-average",
+      "nasdaq-composite",
+      "russell-2000",
+      "sp-500-index"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "market-mechanics",
+    "current": 2,
+    "target": 12,
+    "gap": 10,
+    "dir": "content/markets/market-mechanics",
+    "existing_slugs": [
+      "after-hours-trading",
+      "pre-market-trading"
+    ]
+  },
+  {
+    "category": "markets",
+    "subcat": "global-markets",
+    "current": 0,
+    "target": 12,
+    "gap": 12,
+    "dir": "content/markets/global-markets",
+    "existing_slugs": []
+  },
+  {
+    "category": "markets",
+    "subcat": "general",
+    "current": 31,
+    "target": 10,
+    "gap": 0,
+    "dir": "content/markets/general",
+    "existing_slugs": [
+      "closing-auction-detail",
+      "colocation-detail",
+      "consolidated-tape",
+      "fix-protocol",
+      "full-order-depth",
+      "gray-market-securities",
+      "intraday-auction",
+      "latency-tier",
+      "listed-market",
+      "lit-venue-detail",
+      "market-data-feed-consolidated",
+      "market-data-feed-direct",
+      "mifid-ii-trading",
+      "multilateral-trading-facility",
+      "opening-auction-detail",
+      "organized-trading-facility",
+      "otc-otcqb",
+      "otc-otcqx",
+      "otc-pink",
+      "over-the-counter-market",
+      "quaternary-market",
+      "reg-nms-detail",
+      "regular-trading-hours",
+      "single-dealer-platform",
+      "sip-securities-information-processor",
+      "stock-market",
+      "swap-execution-facility",
+      "tertiary-market",
+      "unlisted-market",
+      "volatility-auction",
+      "when-issued-trading"
+    ]
+  }
+]

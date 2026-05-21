@@ -6,7 +6,11 @@ The contract that every wiki entry is held to. Read this in full before writing 
 
 ## 1. What an entry is
 
-A Pomegra Wiki entry is a single Markdown file at `content/<slug>.md` that explains one finance-world concept — an instrument, a ratio, an institution, a phenomenon — to an intelligent general reader who arrived cold. Each entry must:
+A Pomegra Wiki entry is a single Markdown file at `content/<category>/<sub-category>/<slug>.md` that explains one finance-world concept — an instrument, a ratio, an institution, a phenomenon — to an intelligent general reader who arrived cold.
+
+The directory structure is **organisational only**. Hugo's permalink rule maps every entry to `/wiki/<slug>/` regardless of how deeply it is nested — `content/derivatives/option-strategies/iron-condor.md` and `content/iron-condor.md` would both serve at `/wiki/iron-condor/`. So always pick the most natural sub-folder; URLs are stable. The canonical sub-category list lives in [`scripts/taxonomy.py`](./scripts/taxonomy.py). When in doubt, drop into the `general/` bucket for the category.
+
+Each entry must:
 
 - Stand on its own. Assume the reader has not read any other entry.
 - Be plain-language. Define every jargon term the first time it appears.

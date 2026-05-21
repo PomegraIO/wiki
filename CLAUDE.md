@@ -45,7 +45,8 @@ Hugo isn't on PATH on the build host. The installer at the moment lives at `C:\U
 
 The full editorial style is in [WIKI_AUTHORING_GUIDE.md](./WIKI_AUTHORING_GUIDE.md). Read that before writing or editing an entry. The very short version:
 
-- One Markdown file per entry, at `content/<slug>.md`. The slug is the URL — `content/yield-curve.md` becomes `/yield-curve/`.
+- One Markdown file per entry, at `content/<category>/<sub-category>/<slug>.md`. The slug is the URL — `content/derivatives/greeks/delta.md` serves at `/wiki/delta/`. Sub-directories are filesystem-only; Hugo's `:contentbasename` permalink rule ignores them.
+- The canonical taxonomy of (category, sub-category) buckets is in [`scripts/taxonomy.py`](./scripts/taxonomy.py). `scripts/migrate_into_subdirs.py` is an idempotent classifier — re-run it any time after bulk imports.
 - Front matter is minimal: `title`, `description`, `keywords`, and `image` (lifted from the body's first `<img>` by `scripts/extract_hero_image.py`).
 - Each entry opens with an italic lede paragraph (markdown `*…*` on a single paragraph), optionally a hatnote, then an `<aside class="wiki-infobox">`, then 4–6 `##` sections, then a closing `<div class="wiki-seealso">` block.
 - Cross-link **generously**. The "Cross-link allowlist" rule in the authoring guide must hold: only link to slugs that actually exist in `content/`. A wiki where 1% of links are broken feels broken everywhere.

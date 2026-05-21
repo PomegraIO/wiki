@@ -5,7 +5,16 @@
 # so that GitOps and image layout stay consistent across sibling sites.
 
 # ── Stage 1: Build the Hugo site ────────────────────────────────────────
-FROM hugomods/hugo:exts-0.161.1 AS builder
+# Pull Hugo extended directly from the GitHub release tarball. This keeps
+# us off the hugomods/hugo Docker Hub registry (which has unstable tags and
+# rate limits) and pins to an exact version reproducibly.
+FROM alpine:3.20 AS builder
+ARG HUGO_VERSION=0.161.1
+RUN apk add --no-cache wget tar libstdc++ libc6-compat git \
+ && wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -O /tmp/hugo.tgz \
+ && tar -xzf /tmp/hugo.tgz -C /usr/local/bin/ hugo \
+ && rm /tmp/hugo.tgz \
+ && hugo version
 
 WORKDIR /src
 
