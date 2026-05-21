@@ -18,3 +18,8 @@ __pycache__/
 # Screenshots / artifacts taken during local QA
 /wiki-*.png
 /_tmp/
+
+# Scratch outputs from content swarm scripts
+/scripts/_gap_plan.json
+/scripts/_dedup_delete.txt
+/scripts/_swarm_prompts/
