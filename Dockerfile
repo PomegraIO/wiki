@@ -32,6 +32,13 @@ RUN hugo --gc --minify --baseURL "https://pomegra.io/wiki/"
 # ── Stage 2: Serve with Nginx ───────────────────────────────────────────
 FROM nginx:alpine
 
+# OCI source label so GHCR auto-links this package to the wiki repo —
+# without it, pushes from PomegraIO/wiki's GITHUB_TOKEN are rejected
+# because the package was originally seeded out-of-band.
+LABEL org.opencontainers.image.source="https://github.com/PomegraIO/wiki"
+LABEL org.opencontainers.image.description="Pomegra Wiki — Hugo static site"
+LABEL org.opencontainers.image.licenses="MIT"
+
 ARG APP_ENV=production
 
 COPY nginx/*.conf /etc/nginx/conf.d/
