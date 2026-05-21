@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*Publicly traded companies in most countries outside the United States use **IFRS** — **International Financial Reporting Standards** — to prepare financial statements. IFRS is issued by the [IASB](/iasb), an independent standards-setter, and is used by over 140 countries. It is similar in spirit to [GAAP](/generally-accepted-accounting-principles) but differs in important ways: IFRS is more principle-based, with less detailed guidance, and it emphasizes the substance of transactions over their legal form.*
+*Publicly traded companies in most countries outside the United States use **IFRS** — **International Financial Reporting Standards** — to prepare financial statements. IFRS is issued by the [IASB](/iasb/), an independent standards-setter, and is used by over 140 countries. It is similar in spirit to [GAAP](/generally-accepted-accounting-principles/) but differs in important ways: IFRS is more principle-based, with less detailed guidance, and it emphasizes the substance of transactions over their legal form.*
 
 <div class="wiki-hatnote">
 
-This entry covers IFRS in general. For the US standard, see [GAAP](/generally-accepted-accounting-principles). For the standards-setter, see [IASB](/iasb).
+This entry covers IFRS in general. For the US standard, see [GAAP](/generally-accepted-accounting-principles/). For the standards-setter, see [IASB](/iasb/).
 
 </div>
 
@@ -29,10 +29,10 @@ This entry covers IFRS in general. For the US standard, see [GAAP](/generally-ac
 |   |   |
 |---|---|
 | **What it is** | International accounting standards |
-| **Governed by** | [IASB](/iasb) (International Accounting Standards Board) |
+| **Governed by** | [IASB](/iasb/) (International Accounting Standards Board) |
 | **Applies to** | Public companies in most non-US countries |
-| **Core method** | Principle-based [accrual accounting](/accrual-accounting) |
-| **US equivalent** | [GAAP](/generally-accepted-accounting-principles) |
+| **Core method** | Principle-based [accrual accounting](/accrual-accounting/) |
+| **US equivalent** | [GAAP](/generally-accepted-accounting-principles/) |
 | **Estimated adoption** | Over 140 countries use or permit IFRS |
 
 </aside>
@@ -43,17 +43,17 @@ Both GAAP and IFRS aim at the same goal: comparability and verifiability of fina
 
 GAAP is rules-based. It specifies detailed requirements for nearly every scenario. This makes it explicit and enforces consistency, but it can be rigid. IFRS is principles-based. It sets broad principles and expects companies and auditors to apply judgment based on the spirit of the rule, not its letter.
 
-This difference affects everything from revenue recognition to [fair-value](/fair-value) measurement to [lease accounting](/operating-lease). Two companies following the same transaction will sometimes reach different conclusions under IFRS — if both are faithful to the principles — whereas under GAAP they would use the same rule.
+This difference affects everything from revenue recognition to [fair-value](/fair-value/) measurement to [lease accounting](/operating-lease/). Two companies following the same transaction will sometimes reach different conclusions under IFRS — if both are faithful to the principles — whereas under GAAP they would use the same rule.
 
 ## Key differences in practice
 
-**Revenue recognition:** Both use [ASC 606](/asc-606)/IFRS 15, which are converged. The standards are nearly identical.
+**Revenue recognition:** Both use [ASC 606](/asc-606/)/IFRS 15, which are converged. The standards are nearly identical.
 
-**Inventory:** GAAP permits [LIFO](/lifo); IFRS does not. This is a major difference. Many US companies use LIFO for tax reasons; IFRS users cannot.
+**Inventory:** GAAP permits [LIFO](/lifo/); IFRS does not. This is a major difference. Many US companies use LIFO for tax reasons; IFRS users cannot.
 
-**Property, revaluation:** GAAP generally requires [historical cost](/historical-cost); IFRS permits companies to revalue property, plant, and equipment to [fair value](/fair-value) and update them periodically. This is rarely used but is a conceptual difference.
+**Property, revaluation:** GAAP generally requires [historical cost](/historical-cost/); IFRS permits companies to revalue property, plant, and equipment to [fair value](/fair-value/) and update them periodically. This is rarely used but is a conceptual difference.
 
-**Lease accounting:** Both [GAAP](/generally-accepted-accounting-principles) and IFRS (via ASC 842 and IFRS 16) have converged toward a principle that recognizes most leases on the balance sheet as right-of-use assets and liabilities.
+**Lease accounting:** Both [GAAP](/generally-accepted-accounting-principles/) and IFRS (via ASC 842 and IFRS 16) have converged toward a principle that recognizes most leases on the balance sheet as right-of-use assets and liabilities.
 
 **Presentation:** IFRS emphasizes a clear distinction between current and non-current items and distinguishes operating vs. non-operating items. GAAP is less prescriptive about presentation.
 
@@ -87,18 +87,18 @@ For this reason, analysts often restate financial statements from one standard t
 
 ### Closely related
 
-- [GAAP](/generally-accepted-accounting-principles) — the US alternative
-- [IASB](/iasb) — the standards-setter for IFRS
-- [ASC 606](/asc-606) — the converged revenue standard
+- [GAAP](/generally-accepted-accounting-principles/) — the US alternative
+- [IASB](/iasb/) — the standards-setter for IFRS
+- [ASC 606](/asc-606/) — the converged revenue standard
 - ASC 842 — the converged lease standard
-- [Accrual accounting](/accrual-accounting) — the method IFRS mandates
-- [Audit opinion](/audit-opinion) — certifies IFRS compliance
+- [Accrual accounting](/accrual-accounting/) — the method IFRS mandates
+- [Audit opinion](/audit-opinion/) — certifies IFRS compliance
 
 ### Context
 
-- [Fair value](/fair-value) — measured differently under IFRS in some cases
-- [LIFO](/lifo) — prohibited under IFRS
-- [Historical cost](/historical-cost) — the default under both standards
-- [Revenue recognition](/revenue-recognition) — largely converged
+- [Fair value](/fair-value/) — measured differently under IFRS in some cases
+- [LIFO](/lifo/) — prohibited under IFRS
+- [Historical cost](/historical-cost/) — the default under both standards
+- [Revenue recognition](/revenue-recognition/) — largely converged
 
 </div>

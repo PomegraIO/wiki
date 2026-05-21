@@ -89,6 +89,6 @@ The Savings and Loan Crisis was seen as a cautionary tale about deregulation wit
 - FDIC — the insurance system that absorbed the burden
 - Deposit insurance — the protective mechanism that incentivized risk-taking
 - Financial regulation — the oversight that was absent
-- [Junk bond](/junk-bond) — high-risk securities thrifts invested in
+- [Junk bond](/junk-bond/) — high-risk securities thrifts invested in
 
 </div>

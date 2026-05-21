@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Johannesburg Stock Exchange** (JSE) is Africa's largest [stock exchange](/stock-exchange) and one of the world's oldest, headquartered in Johannesburg, South Africa. Home to South African mining, banking, industrial, and utility companies, the JSE serves as the primary equity venue for South Africa and a gateway for international investors seeking exposure to African growth and resource wealth.*
+*The **Johannesburg Stock Exchange** (JSE) is Africa's largest [stock exchange](/stock-exchange/) and one of the world's oldest, headquartered in Johannesburg, South Africa. Home to South African mining, banking, industrial, and utility companies, the JSE serves as the primary equity venue for South Africa and a gateway for international investors seeking exposure to African growth and resource wealth.*
 
 <div class="wiki-hatnote">
 
@@ -66,13 +66,13 @@ Many African companies, particularly multinationals and those seeking internatio
 
 The JSE is regulated by the Financial Sector Conduct Authority (FSCA) under South African law. South Africa's legal framework is derived from both civil and common law traditions and reflects the country's transition from apartheid to democracy. Regulatory standards are professional and investor-protective.
 
-However, like all South African assets, JSE-listed equities carry [currency risk](/currency-risk) in the South African rand. Foreign investors face volatility in the rand/dollar exchange rate, which can exceed the volatility of the underlying equity prices.
+However, like all South African assets, JSE-listed equities carry [currency risk](/currency-risk/) in the South African rand. Foreign investors face volatility in the rand/dollar exchange rate, which can exceed the volatility of the underlying equity prices.
 
 ## Market structure and the All-Share Index
 
 The JSE All-Share Index comprises all listed companies on the exchange, with the top 40 (JSE Top 40) serving as the primary benchmark. The indices are heavily weighted toward mining, banking, and industrial companies.
 
-International institutional investors, [hedge funds](/hedge-fund), and [index funds](/index-fund) hold significant positions in JSE-listed securities as part of their African and emerging market allocations.
+International institutional investors, [hedge funds](/hedge-fund/), and [index funds](/index-fund/) hold significant positions in JSE-listed securities as part of their African and emerging market allocations.
 
 ## See also
 
@@ -80,19 +80,19 @@ International institutional investors, [hedge funds](/hedge-fund), and [index fu
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [National Stock Exchange of India](/national-stock-exchange-of-india) — another emerging market exchange
-- [B3](/sao-paulo-stock-exchange-b3) — Brazil's exchange
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Stock exchange](/stock-exchange/) — the category
+- [National Stock Exchange of India](/national-stock-exchange-of-india/) — another emerging market exchange
+- [B3](/sao-paulo-stock-exchange-b3/) — Brazil's exchange
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
 - Emerging market — South Africa's position
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Currency risk](/currency-risk) — rand exposure
+- [Asset allocation](/asset-allocation/) — positioning
+- [Currency risk](/currency-risk/) — rand exposure
 - Commodity — mining dominance
 
 </div>

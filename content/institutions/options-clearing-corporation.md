@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Options Clearing Corporation** (OCC) is the clearinghouse for all equity [option](/option) contracts traded on US [options exchanges](/cboe-options-exchange) — the [CBOE](/cboe-options-exchange), ISE, NASDAQ OMX PHLX, and others. OCC provides central counterparty clearing and is a utility owned by its member exchanges and brokers, essential to the functioning of the US derivatives market.*
+*The **Options Clearing Corporation** (OCC) is the clearinghouse for all equity [option](/option/) contracts traded on US [options exchanges](/cboe-options-exchange/) — the [CBOE](/cboe-options-exchange/), ISE, NASDAQ OMX PHLX, and others. OCC provides central counterparty clearing and is a utility owned by its member exchanges and brokers, essential to the functioning of the US derivatives market.*
 
 <div class="wiki-hatnote">
 
@@ -41,9 +41,9 @@ OCC is often referred to by the ticker symbol for its clearing member shares, th
 
 ## Founding and equity options clearing
 
-The Options Clearing Corporation was founded in 1973, the same year as the [CBOE](/cboe-options-exchange), to clear and settle equity [option](/option) trades. Before OCC, options trading was minimal and risky; OCC's creation, coinciding with the CBOE's establishment, created the standardized infrastructure needed for safe, large-scale options trading.
+The Options Clearing Corporation was founded in 1973, the same year as the [CBOE](/cboe-options-exchange/), to clear and settle equity [option](/option/) trades. Before OCC, options trading was minimal and risky; OCC's creation, coinciding with the CBOE's establishment, created the standardized infrastructure needed for safe, large-scale options trading.
 
-OCC standardized [option](/option) contracts (specific strikes, expirations, multipliers) and created a central clearing mechanism that eliminated bilateral counterparty risk. This infrastructure made options trading safe and efficient, allowing it to grow into a multi-trillion-dollar market.
+OCC standardized [option](/option/) contracts (specific strikes, expirations, multipliers) and created a central clearing mechanism that eliminated bilateral counterparty risk. This infrastructure made options trading safe and efficient, allowing it to grow into a multi-trillion-dollar market.
 
 ## Central counterparty clearing
 
@@ -53,13 +53,13 @@ If an OCC member defaults, OCC uses the member's collateral to cover losses and 
 
 ## Standardization and contract specifications
 
-OCC standardizes [option](/option) contracts. A standard equity call [option](/option) represents the right to buy 100 shares (the multiplier) at a specified strike price on or before a specified expiration date. This standardization allows options to trade on screens with perfect fungibility — any buyer can take on any seller's position.
+OCC standardizes [option](/option/) contracts. A standard equity call [option](/option/) represents the right to buy 100 shares (the multiplier) at a specified strike price on or before a specified expiration date. This standardization allows options to trade on screens with perfect fungibility — any buyer can take on any seller's position.
 
 Without standardization, options would need to be customized and could only be traded over-the-counter with individual counterparties. Standardization is what enables the liquid market that exists on the CBOE and other options exchanges.
 
 ## Margin and risk management
 
-OCC calculates daily margin requirements for each options position, adjusting as market prices move. The calculation is complex: a call [option](/option) on Apple might require 10% of the stock's value as margin if held outright, but if held as a covered call against owned stock, it requires less. OCC's software calculates these requirements in real-time.
+OCC calculates daily margin requirements for each options position, adjusting as market prices move. The calculation is complex: a call [option](/option/) on Apple might require 10% of the stock's value as margin if held outright, but if held as a covered call against owned stock, it requires less. OCC's software calculates these requirements in real-time.
 
 Members must post margin to OCC covering potential losses; if a position moves against a member and the member cannot add margin, OCC liquidates the position.
 
@@ -81,10 +81,10 @@ OCC is systemically important to US financial markets. If OCC failed, US equity 
 
 ### Closely related
 
-- [Option](/option) — contracts cleared here
+- [Option](/option/) — contracts cleared here
 - Clearinghouse — central counterparty function
-- [CBOE Options Exchange](/cboe-options-exchange) — primary trading venue
-- [DTCC](/dtcc) — equities clearinghouse
+- [CBOE Options Exchange](/cboe-options-exchange/) — primary trading venue
+- [DTCC](/dtcc/) — equities clearinghouse
 - Derivatives — broader category
 
 ### Wider context
@@ -92,8 +92,8 @@ OCC is systemically important to US financial markets. If OCC failed, US equity 
 - Volatility — key risk metric
 - Risk management — core function
 - Institutional investor — participants
-- [Hedge fund](/hedge-fund) — traders
-- [Broker](/broker) — access points
-- [Counterparty risk](/counterparty-risk) — what clearing eliminates
+- [Hedge fund](/hedge-fund/) — traders
+- [Broker](/broker/) — access points
+- [Counterparty risk](/counterparty-risk/) — what clearing eliminates
 
 </div>

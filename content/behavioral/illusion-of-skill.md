@@ -10,11 +10,11 @@ keywords:
 image: "/svg/behavioral.svg"
 ---
 
-*The illusion of skill is the tendency to attribute success to one's own ability when the success is actually due to luck. A [fund manager](/hedge-fund) beats the market for five years and is celebrated as a genius, even though statistical chance alone would produce some five-year winners among a large population of managers. The illusion of skill is especially pernicious in domains with significant random variation, like investing.*
+*The illusion of skill is the tendency to attribute success to one's own ability when the success is actually due to luck. A [fund manager](/hedge-fund/) beats the market for five years and is celebrated as a genius, even though statistical chance alone would produce some five-year winners among a large population of managers. The illusion of skill is especially pernicious in domains with significant random variation, like investing.*
 
 <div class="wiki-hatnote">
 
-Related to overconfidence bias and survivorship bias. See also [hindsight bias](/hindsight-bias).
+Related to overconfidence bias and survivorship bias. See also [hindsight bias](/hindsight-bias/).
 
 </div>
 
@@ -33,7 +33,7 @@ Related to overconfidence bias and survivorship bias. See also [hindsight bias](
 | **Peak risk** | High-randomness domains (investing, sports, startups) |
 | **Investor impact** | Chasing managers based on recent outperformance; overpaying for active management |
 | **Evidence** | Few managers beat the market consistently; luck explains most persistence |
-| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias), [survivorship bias](/base-rate-neglect) |
+| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias/), [survivorship bias](/base-rate-neglect/) |
 
 </aside>
 
@@ -49,7 +49,7 @@ The illusion of skill arises from three sources:
 
 ## Illusion of skill in professional investing
 
-The clearest example is fund managers. Studies by Burton Malkiel and others show that past performance of [mutual funds](/mutual-fund) does not predict future performance. A manager who beat the market for five years is no more likely to beat it in the next five years than a randomly selected manager.
+The clearest example is fund managers. Studies by Burton Malkiel and others show that past performance of [mutual funds](/mutual-fund/) does not predict future performance. A manager who beat the market for five years is no more likely to beat it in the next five years than a randomly selected manager.
 
 Yet investors pour money into funds with strong track records. They attribute the past performance to skill (the illusion) rather than luck. The manager, having made money, might also suffer from the illusion, leading to overconfidence.
 
@@ -73,13 +73,13 @@ In investing, true skill is rare. Most apparent skill is luck.
 
 ## Illusion of skill and overconfidence
 
-The illusion of skill feeds [overconfidence bias](/overconfidence-bias). A lucky performer believes she is skilled, which boosts her confidence in her decisions, which drives more aggressive bets, which eventually leads to a crash. The illusion of skill in the up phase creates the conditions for overconfidence-driven losses in the down phase.
+The illusion of skill feeds [overconfidence bias](/overconfidence-bias/). A lucky performer believes she is skilled, which boosts her confidence in her decisions, which drives more aggressive bets, which eventually leads to a crash. The illusion of skill in the up phase creates the conditions for overconfidence-driven losses in the down phase.
 
 ## Defenses against illusion of skill
 
 - **Use base rates.** What fraction of managers beat the market over long periods? It is roughly the expected base rate from chance alone. Do not assume a track record is evidence of skill unless it is exceptionally rare.
 - **Check for replicability.** Can the manager's strategy be replicated by others? If not, it might be luck or insider information (both unsustainable).
-- **Prefer passive strategies.** An [index fund](/index-fund) guarantees market returns (minus fees). An active manager might beat the market, but it is unlikely to be skill. The simpler strategy is more robust.
+- **Prefer passive strategies.** An [index fund](/index-fund/) guarantees market returns (minus fees). An active manager might beat the market, but it is unlikely to be skill. The simpler strategy is more robust.
 - **Track backtests carefully.** Many strategies look great on past data but fail on new data. If a strategy fits perfectly to the past, it has likely overfit and will not replicate.
 - **Remember: past performance does not predict future results.** This disclaimer on every prospectus is true. Recent winners are not predictors of future winners.
 
@@ -89,18 +89,18 @@ The illusion of skill feeds [overconfidence bias](/overconfidence-bias). A lucky
 
 ### Closely related
 
-- [Overconfidence bias](/overconfidence-bias) — illusion of skill feeds overconfidence
-- [Survivorship bias](/base-rate-neglect) — observing only the winners
-- [Hindsight bias](/hindsight-bias) — distorted memory of past predictions
-- [Attribution bias](/base-rate-neglect) — attributing outcomes to wrong causes
-- [Base rate neglect](/base-rate-neglect) — ignoring chance explanations
+- [Overconfidence bias](/overconfidence-bias/) — illusion of skill feeds overconfidence
+- [Survivorship bias](/base-rate-neglect/) — observing only the winners
+- [Hindsight bias](/hindsight-bias/) — distorted memory of past predictions
+- [Attribution bias](/base-rate-neglect/) — attributing outcomes to wrong causes
+- [Base rate neglect](/base-rate-neglect/) — ignoring chance explanations
 
 ### Wider context
 
-- [Active management](/hedge-fund) — often driven by illusion of skill
-- [Market timing](/bull-market) — illusion that you can predict markets
-- [Stock picking](/stock) — illusion that you can pick winners
-- [Index fund](/index-fund) — the antidote to illusion of skill
+- [Active management](/hedge-fund/) — often driven by illusion of skill
+- [Market timing](/bull-market/) — illusion that you can predict markets
+- [Stock picking](/stock/) — illusion that you can pick winners
+- [Index fund](/index-fund/) — the antidote to illusion of skill
 - Behavioral asset pricing — illusion of skill can affect market prices
 
 </div>

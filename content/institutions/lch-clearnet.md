@@ -11,7 +11,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **LCH** (consisting of LCH Ltd and LCH SA) is Europe's largest clearinghouse, providing central counterparty clearing for equities, [bonds](/bond), derivatives, and commodities. Operating under different legal entities to serve different jurisdictions and asset classes, LCH is essential infrastructure for European financial markets.*
+*The **LCH** (consisting of LCH Ltd and LCH SA) is Europe's largest clearinghouse, providing central counterparty clearing for equities, [bonds](/bond/), derivatives, and commodities. Operating under different legal entities to serve different jurisdictions and asset classes, LCH is essential infrastructure for European financial markets.*
 
 <div class="wiki-hatnote">
 
@@ -48,19 +48,19 @@ The merger created one of the world's largest clearinghouses and allowed for mor
 
 ## Equities and bonds clearing (LCH Ltd)
 
-LCH Ltd operates as the clearinghouse for equities and bonds traded on the [London Stock Exchange](/london-stock-exchange), [Euronext](/euronext), and other European venues. When a trade occurs on any of these exchanges, LCH Ltd becomes the central counterparty, eliminating bilateral counterparty risk.
+LCH Ltd operates as the clearinghouse for equities and bonds traded on the [London Stock Exchange](/london-stock-exchange/), [Euronext](/euronext/), and other European venues. When a trade occurs on any of these exchanges, LCH Ltd becomes the central counterparty, eliminating bilateral counterparty risk.
 
 The clearinghouse handles tens of billions of pounds (or euros) in daily settlement volume and maintains custody of securities and cash for member institutions.
 
 ## Derivatives clearing (LCH SA)
 
-LCH SA operates in France and provides clearing for interest rate derivatives, credit derivatives, and other financial contracts. It competes with [Eurex Clearing](/eurex) for European derivatives clearing business.
+LCH SA operates in France and provides clearing for interest rate derivatives, credit derivatives, and other financial contracts. It competes with [Eurex Clearing](/eurex/) for European derivatives clearing business.
 
 The existence of multiple European clearinghouses — LCH, Eurex Clearing, and others — reflects the fragmented nature of European financial markets and post-Brexit changes that have affected clearing operations.
 
 ## Ownership and governance
 
-LCH is majority-owned by the London Stock Exchange Group, which also owns the [London Stock Exchange](/london-stock-exchange). This vertical integration is typical among major exchange operators globally. LCH's board is appointed by LSE Group shareholders, though regulatory oversight constrains the exercise of shareholder control.
+LCH is majority-owned by the London Stock Exchange Group, which also owns the [London Stock Exchange](/london-stock-exchange/). This vertical integration is typical among major exchange operators globally. LCH's board is appointed by LSE Group shareholders, though regulatory oversight constrains the exercise of shareholder control.
 
 ## Regulatory oversight
 
@@ -85,18 +85,18 @@ Although headquartered in London, LCH has global significance. The clearinghouse
 ### Closely related
 
 - Clearinghouse — central counterparty function
-- [London Stock Exchange](/london-stock-exchange) — parent organization
-- [Euronext](/euronext) — customer exchange
-- [DTCC](/dtcc) — US equivalent clearinghouse
+- [London Stock Exchange](/london-stock-exchange/) — parent organization
+- [Euronext](/euronext/) — customer exchange
+- [DTCC](/dtcc/) — US equivalent clearinghouse
 - Derivatives — contracts cleared
 
 ### Wider context
 
-- [Bond](/bond) — cleared assets
-- [Stock](/stock) — cleared assets
+- [Bond](/bond/) — cleared assets
+- [Stock](/stock/) — cleared assets
 - Risk management — core function
 - Institutional investor — participants
-- [Central bank](/central-bank) — oversight
-- [Counterparty risk](/counterparty-risk) — what clearing eliminates
+- [Central bank](/central-bank/) — oversight
+- [Counterparty risk](/counterparty-risk/) — what clearing eliminates
 
 </div>

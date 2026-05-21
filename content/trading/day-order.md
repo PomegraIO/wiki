@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **day order** is an order that lives only for a single trading day. If it does not fill by market close, it is automatically canceled. This is the default time-in-force for most brokers — when you place a [limit order](/limit-order) and do not specify "good-til-canceled," you are placing a day order.*
+*A **day order** is an order that lives only for a single trading day. If it does not fill by market close, it is automatically canceled. This is the default time-in-force for most brokers — when you place a [limit order](/limit-order/) and do not specify "good-til-canceled," you are placing a day order.*
 
 <div class="wiki-hatnote">
 
-For orders that survive across multiple days, see [GTC order](/gtc-order) and [GTD order](/gtd-order). For same-day filling only, see [fill-or-kill](/fill-or-kill).
+For orders that survive across multiple days, see [GTC order](/gtc-order/) and [GTD order](/gtd-order/). For same-day filling only, see [fill-or-kill](/fill-or-kill/).
 
 </div>
 
@@ -39,7 +39,7 @@ For orders that survive across multiple days, see [GTC order](/gtc-order) and [G
 
 ## How day orders work
 
-A day order is active from the moment you place it until the closing bell of the [stock market](/stock-market). If it fills during the day, you are done. If not, it dies at 4:00 PM ET (or the local market close for international markets).
+A day order is active from the moment you place it until the closing bell of the [stock market](/stock-market/). If it fills during the day, you are done. If not, it dies at 4:00 PM ET (or the local market close for international markets).
 
 **Example:** You place a day limit order to buy 100 shares at $50 at 10:00 a.m. The stock closes at $49.99 by 3:59 PM, but your order never fills. At 4:00 PM, your order is automatically canceled. You do not own any shares, and you do not own an active order. The next day, if you still want to buy at $50, you must place a new day order.
 
@@ -61,7 +61,7 @@ A day order is active from the moment you place it until the closing bell of the
 
 ## Day orders vs. GTC orders
 
-| Feature | Day order | [GTC order](/gtc-order) |
+| Feature | Day order | [GTC order](/gtc-order/) |
 |---|---|---|
 | **Lifespan** | One trading day | Until you cancel, or broker's limit (usually 30–90 days) |
 | **Resubmit** | Must resubmit daily | No resubmit; persists |
@@ -103,27 +103,27 @@ Most U.S. brokers offer extended-hours trading (4:00 PM to 8:00 PM ET, and 4:00 
 
 ### Time-in-force variants
 
-- [GTC order](/gtc-order) — good-til-canceled; persists for months
-- [GTD order](/gtd-order) — good-til-date; expires on a specific date
-- [IOC order](/immediate-or-cancel) — immediate-or-cancel; expires instantly if not filled
-- [Fill-or-kill](/fill-or-kill) — fills now or dies immediately
+- [GTC order](/gtc-order/) — good-til-canceled; persists for months
+- [GTD order](/gtd-order/) — good-til-date; expires on a specific date
+- [IOC order](/immediate-or-cancel/) — immediate-or-cancel; expires instantly if not filled
+- [Fill-or-kill](/fill-or-kill/) — fills now or dies immediately
 
 ### Order types
 
-- [Limit order](/limit-order) — often submitted as a day order
-- [Market order](/market-order) — executes immediately, time-in-force irrelevant
-- [Stop order](/stop-order) — can be day, GTC, or GTD
-- [Bracket order](/bracket-order) — time-in-force applies to the entire bracket
+- [Limit order](/limit-order/) — often submitted as a day order
+- [Market order](/market-order/) — executes immediately, time-in-force irrelevant
+- [Stop order](/stop-order/) — can be day, GTC, or GTD
+- [Bracket order](/bracket-order/) — time-in-force applies to the entire bracket
 
 ### Trading styles
 
-- [Day trading](/day-order) — intraday; uses day orders heavily
-- [Scalping](/scalping) — very short-term; day orders
-- [Swing trading](/swing-trading) — multi-day; usually GTC or GTD
+- [Day trading](/day-order/) — intraday; uses day orders heavily
+- [Scalping](/scalping/) — very short-term; day orders
+- [Swing trading](/swing-trading/) — multi-day; usually GTC or GTD
 
 ### Context
 
-- [Stock market](/stock-market) — trading hours and close times
-- [After-hours trading](/after-hours-trading) — before and after standard hours
+- [Stock market](/stock-market/) — trading hours and close times
+- [After-hours trading](/after-hours-trading/) — before and after standard hours
 
 </div>

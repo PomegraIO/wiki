@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **friendly takeover** is an [acquisition](/acquisition) that proceeds with the consent and active support of the target company's board of directors. The acquirer and target negotiate terms directly, the board endorses the transaction, and shareholders vote to approve it. Nearly all completed acquisitions are friendly in structure, though the term is used more to distinguish from [hostile takeovers](/hostile-takeover) than to convey any genuine warmth.*
+*A **friendly takeover** is an [acquisition](/acquisition/) that proceeds with the consent and active support of the target company's board of directors. The acquirer and target negotiate terms directly, the board endorses the transaction, and shareholders vote to approve it. Nearly all completed acquisitions are friendly in structure, though the term is used more to distinguish from [hostile takeovers](/hostile-takeover/) than to convey any genuine warmth.*
 
 <div class="wiki-hatnote">
 
-This entry covers the mechanics and process of a friendly takeover. For hostile alternatives, see [hostile takeover](/hostile-takeover) and [tender offer](/tender-offer); for specific structures, see [merger](/merger) and [leveraged buyout](/leveraged-buyout).
+This entry covers the mechanics and process of a friendly takeover. For hostile alternatives, see [hostile takeover](/hostile-takeover/) and [tender offer](/tender-offer/); for specific structures, see [merger](/merger/) and [leveraged buyout](/leveraged-buyout/).
 
 </div>
 
@@ -28,13 +28,13 @@ This entry covers the mechanics and process of a friendly takeover. For hostile 
 
 |   |   |
 |---|---|
-| **What it is** | Board-endorsed [acquisition](/acquisition) or [merger](/merger) |
+| **What it is** | Board-endorsed [acquisition](/acquisition/) or [merger](/merger/) |
 | **Also called** | Negotiated acquisition, agreed takeover |
 | **Typical process** | Approach, negotiation, definitive agreement, regulatory approval, shareholder vote |
 | **Likelihood of close** | 90%+ for agreed deals (vs. 20–30% for hostile bids) |
 | **Timeline** | 2–12 months depending on complexity and regulation |
 | **Board recommendation** | Required; boards vote on deal and recommend to shareholders |
-| **Opposite** | [Hostile takeover](/hostile-takeover) |
+| **Opposite** | [Hostile takeover](/hostile-takeover/) |
 
 </aside>
 
@@ -98,19 +98,19 @@ Courts have frequently enjoined or unwound board-endorsed deals where evidence s
 
 ### Closely related
 
-- [Merger](/merger) — the formal combination of two companies
-- [Acquisition](/acquisition) — the purchase of a company's shares or assets
-- [Hostile takeover](/hostile-takeover) — an unwanted takeover attempt
-- [Tender offer](/tender-offer) — buying shares directly from public shareholders
-- [Leveraged buyout](/leveraged-buyout) — a friendly acquisition financed with debt
-- [Management buyout](/management-buyout) — acquisition by the target's own management
+- [Merger](/merger/) — the formal combination of two companies
+- [Acquisition](/acquisition/) — the purchase of a company's shares or assets
+- [Hostile takeover](/hostile-takeover/) — an unwanted takeover attempt
+- [Tender offer](/tender-offer/) — buying shares directly from public shareholders
+- [Leveraged buyout](/leveraged-buyout/) — a friendly acquisition financed with debt
+- [Management buyout](/management-buyout/) — acquisition by the target's own management
 
 ### Wider context
 
 - Board of directors — the body that approves friendly takeovers
-- [Change of control provision](/change-of-control-provision) — contractual triggers in takeovers
-- [Going-private transaction](/going-private) — a friendly takeover that delists a public company
+- [Change of control provision](/change-of-control-provision/) — contractual triggers in takeovers
+- [Going-private transaction](/going-private/) — a friendly takeover that delists a public company
 - Due diligence — investigation preceding a deal
-- [Fiduciary duty](/fiduciary-duty) — the legal standard governing board conduct
+- [Fiduciary duty](/fiduciary-duty/) — the legal standard governing board conduct
 
 </div>

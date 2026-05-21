@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the WorldCom collapse. For the prior scandal that preceded it, see [Enron Scandal](/enron-scandal); for the broader regulatory response, see [Sarbanes-Oxley Act](/sarbanes-oxley-act).
+This entry covers the WorldCom collapse. For the prior scandal that preceded it, see [Enron Scandal](/enron-scandal/); for the broader regulatory response, see [Sarbanes-Oxley Act](/sarbanes-oxley-act/).
 
 </div>
 
@@ -79,8 +79,8 @@ The scandals also highlighted the failures of auditing firms. Arthur Andersen ha
 
 ### Closely related
 
-- [Enron Scandal](/enron-scandal) — the preceding fraud
-- [Sarbanes-Oxley Act](/sarbanes-oxley-act) — the regulatory response
+- [Enron Scandal](/enron-scandal/) — the preceding fraud
+- [Sarbanes-Oxley Act](/sarbanes-oxley-act/) — the regulatory response
 - Accounting fraud — the general phenomenon
 
 ### Wider context

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **pre-market** is an extended trading session that occurs before a stock exchange's official opening. In the US, [pre-market trading](/pre-market-trading) typically begins at 4:00 AM Eastern Time and lasts until the [regular trading hours](/regular-trading-hours) begin at 9:30 AM. It allows investors to react to overnight earnings releases, economic data, and international news, but trading volume and liquidity are substantially lower than during regular hours.*
+*The **pre-market** is an extended trading session that occurs before a stock exchange's official opening. In the US, [pre-market trading](/pre-market-trading/) typically begins at 4:00 AM Eastern Time and lasts until the [regular trading hours](/regular-trading-hours/) begin at 9:30 AM. It allows investors to react to overnight earnings releases, economic data, and international news, but trading volume and liquidity are substantially lower than during regular hours.*
 
 <div class="wiki-hatnote">
 
-This entry is about early trading before the official open. For trading during the official market session, see [regular trading hours](/regular-trading-hours); for trading after the close, see [after-hours trading](/after-hours-trading).
+This entry is about early trading before the official open. For trading during the official market session, see [regular trading hours](/regular-trading-hours/); for trading after the close, see [after-hours trading](/after-hours-trading/).
 
 </div>
 
@@ -51,7 +51,7 @@ Pre-market trading serves investors who want to react to news before the main ma
 
 - **International market moves.** While the US is closed, markets in Asia and Europe operate. Major moves or crashes in those markets can affect US stocks. A US technology company with significant revenue in Europe might gap down if European markets crash overnight.
 - **Earnings announcements.** Companies often release earnings after the US market closes or before it opens. Investors want to trade based on this news before regular hours.
-- **Economic data.** The [Federal Reserve](/federal-reserve) and economic agencies release data before or after regular hours. Employment data, inflation readings, and GDP reports can move markets sharply.
+- **Economic data.** The [Federal Reserve](/federal-reserve/) and economic agencies release data before or after regular hours. Employment data, inflation readings, and GDP reports can move markets sharply.
 - **Geopolitical events.** News of war, sanctions, natural disasters, or political crises can emerge overnight and demand immediate investor response.
 
 An investor who knows that earnings will be released before the open may want to position in the pre-market, avoiding the volatility that comes with regular-hours opening.
@@ -118,18 +118,18 @@ Both scenarios illustrate the opportunity and risk of pre-market trading.
 
 ### Closely related
 
-- [Regular trading hours](/regular-trading-hours) — the main market session
-- [After-hours trading](/after-hours-trading) — evening extended hours
-- [Stock exchange](/stock-exchange) — the official market
-- [Opening auction](/opening-auction-detail) — the process starting regular hours
-- [Earnings](/earnings-per-share) — often released before or after regular hours
+- [Regular trading hours](/regular-trading-hours/) — the main market session
+- [After-hours trading](/after-hours-trading/) — evening extended hours
+- [Stock exchange](/stock-exchange/) — the official market
+- [Opening auction](/opening-auction-detail/) — the process starting regular hours
+- [Earnings](/earnings-per-share/) — often released before or after regular hours
 
 ### Wider context
 
-- [Liquidity](/secondary-market) — low in pre-market
-- [Price discovery](/stock-market) — less efficient in pre-market
-- [Bid-ask spread](/stock-market) — wide in pre-market
-- [Day trading](/pre-market-trading) — pre-market is popular with day traders
-- [Gap risk](/pre-market-trading) — core pre-market risk
+- [Liquidity](/secondary-market/) — low in pre-market
+- [Price discovery](/stock-market/) — less efficient in pre-market
+- [Bid-ask spread](/stock-market/) — wide in pre-market
+- [Day trading](/pre-market-trading/) — pre-market is popular with day traders
+- [Gap risk](/pre-market-trading/) — core pre-market risk
 
 </div>

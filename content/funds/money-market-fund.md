@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **money market fund** is a [mutual fund](/mutual-fund) that invests exclusively in short-term, highly liquid, low-risk securities — US Treasury bills, commercial paper (short-term corporate debt), certificates of deposit, and repurchase agreements. Money market funds aim to preserve capital and earn a modest [yield](/bond) while maintaining liquidity. They are the closest thing to a "cash" investment that offers [interest](/interest-rate) income.*
+*A **money market fund** is a [mutual fund](/mutual-fund/) that invests exclusively in short-term, highly liquid, low-risk securities — US Treasury bills, commercial paper (short-term corporate debt), certificates of deposit, and repurchase agreements. Money market funds aim to preserve capital and earn a modest [yield](/bond/) while maintaining liquidity. They are the closest thing to a "cash" investment that offers [interest](/interest-rate/) income.*
 
 <div class="wiki-hatnote">
 
-This entry covers money market funds. For broader fixed-income investing, see [bond](/bond); for Treasury bills, see the short-term debt literature.
+This entry covers money market funds. For broader fixed-income investing, see [bond](/bond/); for Treasury bills, see the short-term debt literature.
 
 </div>
 
@@ -34,8 +34,8 @@ This entry covers money market funds. For broader fixed-income investing, see [b
 | **Issued by** | Asset managers (Vanguard, Fidelity, Schwab, etc.) |
 | **Holdings** | Treasury bills, commercial paper, CDs, repo agreements |
 | **Weighted average maturity** | Typically 30–60 days |
-| **Typical [yield](/bond)** | Varies with [interest rates](/interest-rate) (currently 4–5%) |
-| **Typical [expense ratio](/expense-ratio)** | 0.05%–0.20% per year |
+| **Typical [yield](/bond/)** | Varies with [interest rates](/interest-rate/) (currently 4–5%) |
+| **Typical [expense ratio](/expense-ratio/)** | 0.05%–0.20% per year |
 | **Risk level** | Minimal (nearly zero default risk) |
 | **Tax status** | Ordinary income (not capital gains treatment) |
 
@@ -61,7 +61,7 @@ The fund is prohibited from holding securities with maturity longer than 397 day
 
 Money market funds serve several purposes:
 
-**Cash management.** Investors between trades or in transition can park cash in a money market fund, earning a modest [yield](/bond) while maintaining instant access.
+**Cash management.** Investors between trades or in transition can park cash in a money market fund, earning a modest [yield](/bond/) while maintaining instant access.
 
 **Employer retirement plans.** 401(k)s and 403(b)s offer money market funds as a conservative investment option for employees who are not comfortable with stocks.
 
@@ -95,9 +95,9 @@ These changes reduced yield slightly but significantly improved stability.
 
 ## Yields and interest rate sensitivity
 
-Money market fund yields are directly tied to [interest rates](/interest-rate). When the [Federal Reserve](/federal-reserve) raises rates, newly maturing securities and new purchases are rolled into higher-yielding instruments, and money market fund yields rise.
+Money market fund yields are directly tied to [interest rates](/interest-rate/). When the [Federal Reserve](/federal-reserve/) raises rates, newly maturing securities and new purchases are rolled into higher-yielding instruments, and money market fund yields rise.
 
-In the low-interest-rate period of 2010–2021, money market fund yields were near zero. Investors were sometimes paying [expense ratios](/expense-ratio) to lose money in real (inflation-adjusted) terms. Since 2022, when the Fed has raised rates dramatically, money market funds have become more attractive, offering 4–5% yields.
+In the low-interest-rate period of 2010–2021, money market fund yields were near zero. Investors were sometimes paying [expense ratios](/expense-ratio/) to lose money in real (inflation-adjusted) terms. Since 2022, when the Fed has raised rates dramatically, money market funds have become more attractive, offering 4–5% yields.
 
 ## Is a money market fund right for you
 
@@ -105,15 +105,15 @@ Money market funds are suitable for:
 
 - **Cash reserves.** A few months of emergency expenses, accessible instantly and earning some return.
 - **Transition accounts.** Money between stock and bond purchases.
-- **Conservative investors.** Those with no appetite for [equity](/equity-etf) risk.
-- **Large sums awaiting deployment.** Waiting for stock market opportunities while earning current [interest rates](/interest-rate).
+- **Conservative investors.** Those with no appetite for [equity](/equity-etf/) risk.
+- **Large sums awaiting deployment.** Waiting for stock market opportunities while earning current [interest rates](/interest-rate/).
 
 They are not suitable for:
 
-- **Long-term investing.** The returns barely outpace [inflation](/inflation) over time.
+- **Long-term investing.** The returns barely outpace [inflation](/inflation/) over time.
 - **Growth.** Money market funds will never build wealth.
 
-For most of the past decade, holding cash in a money market fund meant losing to [inflation](/inflation) and bonds offered better risk-adjusted returns. The recent interest rate environment has improved money market fund attractiveness, but the long-term dynamic remains: bonds usually beat money market funds.
+For most of the past decade, holding cash in a money market fund meant losing to [inflation](/inflation/) and bonds offered better risk-adjusted returns. The recent interest rate environment has improved money market fund attractiveness, but the long-term dynamic remains: bonds usually beat money market funds.
 
 ## See also
 
@@ -121,18 +121,18 @@ For most of the past decade, holding cash in a money market fund meant losing to
 
 ### Closely related
 
-- [Mutual fund](/mutual-fund) — the vehicle type
-- [Bond](/bond) — longer-term fixed-income alternative
-- [Interest rate](/interest-rate) — what drives money market fund yields
-- [Federal Reserve](/federal-reserve) — controls short-term rates
-- [Expense ratio](/expense-ratio) — the cost of money market funds
+- [Mutual fund](/mutual-fund/) — the vehicle type
+- [Bond](/bond/) — longer-term fixed-income alternative
+- [Interest rate](/interest-rate/) — what drives money market fund yields
+- [Federal Reserve](/federal-reserve/) — controls short-term rates
+- [Expense ratio](/expense-ratio/) — the cost of money market funds
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — how to size cash holdings
-- [Inflation](/inflation) — the enemy of cash returns
-- [Diversification](/diversification) — cash as portfolio ballast
-- [Central bank](/central-bank) — manages short-term rate policy
-- [Compound interest](/compound-interest) — slow growth of money market returns
+- [Asset allocation](/asset-allocation/) — how to size cash holdings
+- [Inflation](/inflation/) — the enemy of cash returns
+- [Diversification](/diversification/) — cash as portfolio ballast
+- [Central bank](/central-bank/) — manages short-term rate policy
+- [Compound interest](/compound-interest/) — slow growth of money market returns
 
 </div>

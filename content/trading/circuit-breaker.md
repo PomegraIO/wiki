@@ -9,7 +9,7 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **circuit breaker** is an automated market safeguard that pauses trading when prices fall (or occasionally rise) too fast in too short a time. When triggered, trading is halted for a set period (15 minutes to the rest of the day), allowing volatility to cool and preventing panic-driven cascades. U.S. markets have circuit breakers at both the market-wide level ([S&P 500](/stock-market) index) and the individual stock level.*
+*A **circuit breaker** is an automated market safeguard that pauses trading when prices fall (or occasionally rise) too fast in too short a time. When triggered, trading is halted for a set period (15 minutes to the rest of the day), allowing volatility to cool and preventing panic-driven cascades. U.S. markets have circuit breakers at both the market-wide level ([S&P 500](/stock-market/) index) and the individual stock level.*
 
 <div class="wiki-hatnote">
 
@@ -130,7 +130,7 @@ Details vary, but the principle is universal: pause to prevent cascades.
 - Limit-up-limit-down — individual stock circuit breaker rule
 - Trading halt — temporary pause in trading
 - Flash crash — rapid crash; circuit breakers aim to prevent
-- [Market order](/market-order) — executes at whatever price during halts
+- [Market order](/market-order/) — executes at whatever price during halts
 
 ### Market stress and volatility
 

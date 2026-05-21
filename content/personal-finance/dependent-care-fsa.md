@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **dependent care FSA** (or dependent care account) is an employer-sponsored savings account in which you set aside pre-tax income to pay for childcare, preschool, after-school care, or adult eldercare. Like a medical [FSA](/fsa), it has a use-it-or-lose-it rule: unused funds are forfeited at year-end.*
+*A **dependent care FSA** (or dependent care account) is an employer-sponsored savings account in which you set aside pre-tax income to pay for childcare, preschool, after-school care, or adult eldercare. Like a medical [FSA](/fsa/), it has a use-it-or-lose-it rule: unused funds are forfeited at year-end.*
 
 <div class="wiki-hatnote">
 
-For medical or vision expenses, see [FSA](/fsa); for health savings, see [HSA](/hsa); for tax credit alternatives, see income tax articles.
+For medical or vision expenses, see [FSA](/fsa/); for health savings, see [HSA](/hsa/); for tax credit alternatives, see income tax articles.
 
 </div>
 
@@ -86,14 +86,14 @@ Unlike many tax benefits, dependent care FSA has no income limit. Even high earn
 
 ### Closely related
 
-- [FSA](/fsa) — medical/vision pre-tax account
-- [HSA](/hsa) — health savings account
-- [401(k) plan](/401k-plan) — another pre-tax employer benefit
+- [FSA](/fsa/) — medical/vision pre-tax account
+- [HSA](/hsa/) — health savings account
+- [401(k) plan](/401k-plan/) — another pre-tax employer benefit
 
 ### Wider context
 
-- [Budgeting methods](/budgeting-methods) — estimating childcare expenses
-- [Tax deductions](/savings-rate) — pre-tax savings in overall income
-- [Sinking fund](/sinking-fund) — budgeting for predictable expenses
+- [Budgeting methods](/budgeting-methods/) — estimating childcare expenses
+- [Tax deductions](/savings-rate/) — pre-tax savings in overall income
+- [Sinking fund](/sinking-fund/) — budgeting for predictable expenses
 
 </div>

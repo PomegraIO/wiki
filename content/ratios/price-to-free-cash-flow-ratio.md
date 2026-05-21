@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the most shareholder-centric cash-flow valuation metric. For operating cash flow alone, see [price-to-cash-flow ratio](/price-to-cash-flow-ratio).
+This entry covers the most shareholder-centric cash-flow valuation metric. For operating cash flow alone, see [price-to-cash-flow ratio](/price-to-cash-flow-ratio/).
 
 </div>
 
@@ -46,7 +46,7 @@ Operating cash flow tells you how much cash the business generates. But not all 
 
 Free cash flow is that residual. It is the metric Warren Buffett focuses on. A company with high operating cash flow but enormous capital needs (a railroad replacing locomotives, a chipmaker building fabs) may have minimal free cash flow. A company with modest operating cash flow but low capital needs (a software firm, a consulting business) may have generous free cash flow.
 
-The [price-to-free-cash-flow ratio](/price-to-free-cash-flow-ratio) asks: how much are you paying per dollar of cash that can actually reach your pocket?
+The [price-to-free-cash-flow ratio](/price-to-free-cash-flow-ratio/) asks: how much are you paying per dollar of cash that can actually reach your pocket?
 
 ## How to calculate it
 
@@ -94,7 +94,7 @@ Some investors prefer to use **free cash flow yield** (free cash flow divided by
 
 ## Using P/FCF in practice
 
-Most sophisticated investors build P/FCF into their valuation toolkit alongside P/E, P/B, and [price-to-sales](/price-to-sales-ratio).
+Most sophisticated investors build P/FCF into their valuation toolkit alongside P/E, P/B, and [price-to-sales](/price-to-sales-ratio/).
 
 1. You calculate P/FCF for a company and compare it to peers.
 2. You examine whether free cash flow has been growing, stable, or declining.
@@ -110,16 +110,16 @@ A company with a P/FCF of 12 and free cash flow growing at 8% per year is very d
 
 ### Closely related
 
-- [Price-to-cash-flow-ratio](/price-to-cash-flow-ratio) — operating cash flow before CapEx
-- [Free cash flow](/free-cash-flow) — the source number
+- [Price-to-cash-flow-ratio](/price-to-cash-flow-ratio/) — operating cash flow before CapEx
+- [Free cash flow](/free-cash-flow/) — the source number
 - Dividend yield — what shareholders receive back
 - Payout ratio — how much of earnings goes to dividends
-- [Market capitalization](/market-capitalization) — the valuation being assessed
+- [Market capitalization](/market-capitalization/) — the valuation being assessed
 
 ### Wider context
 
-- [Cash flow statement](/cash-flow-statement) — where all the numbers come from
+- [Cash flow statement](/cash-flow-statement/) — where all the numbers come from
 - Capital expenditure — the reinvestment that reduces free cash flow
-- [Return on invested capital](/return-on-invested-capital) — whether reinvestment is worthwhile
+- [Return on invested capital](/return-on-invested-capital/) — whether reinvestment is worthwhile
 
 </div>

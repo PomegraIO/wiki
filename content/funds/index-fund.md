@@ -14,7 +14,7 @@ image: "/svg/funds.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers index funds as a vehicle. For index funds that trade on an exchange, see [ETF](/etf); for the case for active management, see [hedge fund](/hedge-fund).
+This entry covers index funds as a vehicle. For index funds that trade on an exchange, see [ETF](/etf/); for the case for active management, see [hedge fund](/hedge-fund/).
 
 </div>
 
@@ -47,17 +47,17 @@ Jack Bogle's insight was deceptively simple: if most active managers underperfor
 
 Bogle proved that the costs of active management — research, trading, marketing, compensation for managers — consistently drag returns below what the market itself delivers. Over 30, 40, 50 years, that drag is catastrophic.
 
-The first index fund was not an [ETF](/etf) but a traditional mutual fund. It tracked the S&P 500 — 500 large-cap US [stocks](/stock). It held all 500 in the same proportions as the index, rebalanced only when the index changed, and charged fees approaching zero. Investors poured in, and the index fund became Bogle's crowning legacy.
+The first index fund was not an [ETF](/etf/) but a traditional mutual fund. It tracked the S&P 500 — 500 large-cap US [stocks](/stock/). It held all 500 in the same proportions as the index, rebalanced only when the index changed, and charged fees approaching zero. Investors poured in, and the index fund became Bogle's crowning legacy.
 
 ## How indexing works
 
-An index fund is mechanically simple. The fund manager (or software) checks what stocks are in the S&P 500 today, buys all of them in the exact proportions they represent in the index, and holds. When the index adds or removes a stock, the fund buys or sells to match. When a stock pays a [dividend](/dividend), the fund reinvests it (or distributes it to shareholders). That is it.
+An index fund is mechanically simple. The fund manager (or software) checks what stocks are in the S&P 500 today, buys all of them in the exact proportions they represent in the index, and holds. When the index adds or removes a stock, the fund buys or sells to match. When a stock pays a [dividend](/dividend/), the fund reinvests it (or distributes it to shareholders). That is it.
 
 Because there is no subjective stock-picking, no need to justify or market a unique strategy, and no expensive research department, an index fund can charge a tiny fee. Many S&P 500 index funds charge 0.03–0.10% annually. A total US market fund might charge 0.03%. At that cost, the only thing dragging your returns below the market is the fee itself, and it is negligible.
 
 ## Diversification built in
 
-An investor who buys an S&P 500 index fund instantly owns 500 of the largest US companies, weighted by their [market capitalization](/market-capitalization). That is far broader [diversification](/diversification) than most individuals could achieve by picking stocks, and it is acquired for \$1 (the price of one share of the fund).
+An investor who buys an S&P 500 index fund instantly owns 500 of the largest US companies, weighted by their [market capitalization](/market-capitalization/). That is far broader [diversification](/diversification/) than most individuals could achieve by picking stocks, and it is acquired for \$1 (the price of one share of the fund).
 
 More comprehensive indices exist. A **total stock market index** holds 3,500–4,000 US stocks, giving you exposure to large-, mid-, and small-cap companies. A **total bond market index** gives you exposure to US government and corporate bonds. A **total world index** adds international developed and emerging markets. A sophisticated investor can build a globally diversified portfolio with three or four index funds.
 
@@ -65,9 +65,9 @@ This is a revolution. Fifty years ago, achieving this diversification required b
 
 ## The active management counterargument
 
-Active managers do not concede defeat. They argue that a few managers do persistently outperform, that skilled stock-picking is possible, and that [diversification](/diversification) across many stocks means missing the best opportunities. There is truth to this — a handful of managers do outperform. But here is the problem: picking which managers will outperform in advance is nearly impossible. Past performance does not predict future results. And most active managers, even the good ones, underperform after fees.
+Active managers do not concede defeat. They argue that a few managers do persistently outperform, that skilled stock-picking is possible, and that [diversification](/diversification/) across many stocks means missing the best opportunities. There is truth to this — a handful of managers do outperform. But here is the problem: picking which managers will outperform in advance is nearly impossible. Past performance does not predict future results. And most active managers, even the good ones, underperform after fees.
 
-The data is unambiguous: over 15–20 year periods, roughly 85–90% of actively managed equity funds underperform a [stock](/stock) market index fund. In bond funds, the outperformance rate is even more dismal. A few managers beat the benchmark, but you cannot identify them in advance with any confidence, and the few who do often collect such large assets under management that future outperformance becomes impossible to scale.
+The data is unambiguous: over 15–20 year periods, roughly 85–90% of actively managed equity funds underperform a [stock](/stock/) market index fund. In bond funds, the outperformance rate is even more dismal. A few managers beat the benchmark, but you cannot identify them in advance with any confidence, and the few who do often collect such large assets under management that future outperformance becomes impossible to scale.
 
 ## Index funds and market efficiency
 
@@ -79,7 +79,7 @@ But this is not a practical concern for an individual investor. You cannot contr
 
 Traditional indices (S&P 500, total market) weight companies by market capitalization. But countless other indices exist:
 
-- **Factor-based indices** tilt toward companies with certain characteristics: high dividends, low [volatility](/beta), small size, high profitability. These tilt toward historically outperforming factors, but the outperformance often erodes once the tilt becomes crowded.
+- **Factor-based indices** tilt toward companies with certain characteristics: high dividends, low [volatility](/beta/), small size, high profitability. These tilt toward historically outperforming factors, but the outperformance often erodes once the tilt becomes crowded.
 - **Thematic indices** focus on a single industry or trend: technology, clean energy, cybersecurity. These are less diversified and riskier, but some investors want the tilt.
 - **Equal-weight indices** give each stock the same weight rather than weighting by market cap. This requires frequent rebalancing and is less tax-efficient.
 
@@ -91,11 +91,11 @@ Because an index fund trades infrequently, it generates few **capital gains dist
 
 Over a 30-year period, a tax-efficient index fund in a taxable account can generate 1–2% per year more after-tax value than an actively managed fund with the same pre-tax returns. That is a massive difference, compounded.
 
-In tax-deferred accounts ([401k](/federal-reserve)s, IRAs), tax efficiency is irrelevant, and indexing remains optimal for the cost reason alone.
+In tax-deferred accounts ([401k](/federal-reserve/)s, IRAs), tax efficiency is irrelevant, and indexing remains optimal for the cost reason alone.
 
 ## Index funds in practice
 
-Most US households now own index funds, often without realizing it. If you have a 401(k) or 403(b), your default investment is likely an index fund. Target-date retirement funds (which automatically become more conservative as you age) are usually built from index funds. Many [ETFs](/etf) are index-tracking.
+Most US households now own index funds, often without realizing it. If you have a 401(k) or 403(b), your default investment is likely an index fund. Target-date retirement funds (which automatically become more conservative as you age) are usually built from index funds. Many [ETFs](/etf/) are index-tracking.
 
 For an investor building a personal portfolio, the standard approach is:
 
@@ -104,7 +104,7 @@ For an investor building a personal portfolio, the standard approach is:
 - A total bond market index fund
 - Optionally, a real estate or commodity index
 
-With these four, you own a globally diversified [asset allocation](/asset-allocation) that costs almost nothing and has historically beaten most professional managers.
+With these four, you own a globally diversified [asset allocation](/asset-allocation/) that costs almost nothing and has historically beaten most professional managers.
 
 ## See also
 
@@ -112,19 +112,19 @@ With these four, you own a globally diversified [asset allocation](/asset-alloca
 
 ### Closely related
 
-- [ETF](/etf) — index funds that trade like stocks
-- [Mutual fund](/mutual-fund) — the traditional vehicle for index funds
-- [Stock](/stock) — the underlying securities
-- [Bond](/bond) — often indexed too
-- [Market capitalization](/market-capitalization) — the weighting scheme of most indices
-- [Dividend](/dividend) — reinvested in index funds
+- [ETF](/etf/) — index funds that trade like stocks
+- [Mutual fund](/mutual-fund/) — the traditional vehicle for index funds
+- [Stock](/stock/) — the underlying securities
+- [Bond](/bond/) — often indexed too
+- [Market capitalization](/market-capitalization/) — the weighting scheme of most indices
+- [Dividend](/dividend/) — reinvested in index funds
 
 ### Wider context
 
-- [Diversification](/diversification) — the core promise of index funds
-- [Asset allocation](/asset-allocation) — executed via index funds
-- [Compound interest](/compound-interest) — low costs mean more money to compound
-- [Bull market](/bull-market) · [Bear market](/bear-market) — index funds capture both
-- [Inflation](/inflation) — long-term index returns beat inflation
+- [Diversification](/diversification/) — the core promise of index funds
+- [Asset allocation](/asset-allocation/) — executed via index funds
+- [Compound interest](/compound-interest/) — low costs mean more money to compound
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — index funds capture both
+- [Inflation](/inflation/) — long-term index returns beat inflation
 
 </div>

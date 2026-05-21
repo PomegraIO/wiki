@@ -10,11 +10,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **private blockchain** is a [distributed ledger](/distributed-ledger) where participation and validation are restricted to approved entities. Access, transaction visibility, and governance are controlled by the operators. Private blockchains are often called "permissioned" blockchains and are used in enterprise settings.*
+*A **private blockchain** is a [distributed ledger](/distributed-ledger/) where participation and validation are restricted to approved entities. Access, transaction visibility, and governance are controlled by the operators. Private blockchains are often called "permissioned" blockchains and are used in enterprise settings.*
 
 <div class="wiki-hatnote">
 
-This entry covers private blockchains as a category. For public blockchains, see [public blockchain](/public-blockchain); for permissioned blockchains generally, see [permissioned blockchain](/permissioned-blockchain).
+This entry covers private blockchains as a category. For public blockchains, see [public blockchain](/public-blockchain/); for permissioned blockchains generally, see [permissioned blockchain](/permissioned-blockchain/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers private blockchains as a category. For public blockchains, see
 
 A private blockchain requires permission to participate. Only approved organisations can run validators, submit transactions, or view certain data. An operator or consortium of operators maintains a whitelist of participants and can revoke access.
 
-This stands in stark contrast to [public blockchains](/public-blockchain) like [Bitcoin](/bitcoin), where anyone can participate. The trade-off is that private blockchains sacrifice decentralisation in exchange for control and efficiency.
+This stands in stark contrast to [public blockchains](/public-blockchain/) like [Bitcoin](/bitcoin/), where anyone can participate. The trade-off is that private blockchains sacrifice decentralisation in exchange for control and efficiency.
 
 ## Use cases and deployment
 
@@ -65,7 +65,7 @@ Common use cases include:
 
 **R3 Corda** — designed for financial institutions. Corda transactions are visible only to counterparties, not broadcast to all validators.
 
-**Private Ethereum** — some organisations run private instances of [Ethereum](/ethereum) with restricted validators and visibility.
+**Private Ethereum** — some organisations run private instances of [Ethereum](/ethereum/) with restricted validators and visibility.
 
 ## Transaction visibility
 
@@ -109,7 +109,7 @@ Proponents counter that private blockchains are useful for organisations that wa
 
 ## Hybrid approaches
 
-Some organisations use **hybrid blockchains** — a private network with periodic checkpoints to a public blockchain (like [Ethereum](/ethereum)). This provides the efficiency and control of a private network with the immutability guarantees of a public blockchain.
+Some organisations use **hybrid blockchains** — a private network with periodic checkpoints to a public blockchain (like [Ethereum](/ethereum/)). This provides the efficiency and control of a private network with the immutability guarantees of a public blockchain.
 
 ## See also
 
@@ -117,15 +117,15 @@ Some organisations use **hybrid blockchains** — a private network with periodi
 
 ### Closely related
 
-- [Public blockchain](/public-blockchain) — open and permissionless
-- [Permissioned blockchain](/permissioned-blockchain) — restricted participation
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Distributed ledger](/distributed-ledger) — private blockchains are distributed ledgers
+- [Public blockchain](/public-blockchain/) — open and permissionless
+- [Permissioned blockchain](/permissioned-blockchain/) — restricted participation
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Distributed ledger](/distributed-ledger/) — private blockchains are distributed ledgers
 
 ### Wider context
 
-- [Proof-of-work](/proof-of-work) — consensus mechanism
-- [Proof-of-stake](/proof-of-stake) — alternative consensus mechanism
-- [Ethereum](/ethereum) — can be deployed privately or publicly
+- [Proof-of-work](/proof-of-work/) — consensus mechanism
+- [Proof-of-stake](/proof-of-stake/) — alternative consensus mechanism
+- [Ethereum](/ethereum/) — can be deployed privately or publicly
 
 </div>

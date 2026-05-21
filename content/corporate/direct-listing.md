@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **direct listing** is a method for a private company to access public markets by directly listing its shares on a stock exchange without raising new capital. Existing shareholders of the private company can immediately sell shares on the public market. Unlike a traditional [initial public offering](/initial-public-offering), a direct listing does not involve underwriters syndicating a new share offering, nor does the company raise capital from new investors. It is faster, cheaper, and gives shareholders liquidity, but it does not provide the company with capital for growth.*
+*A **direct listing** is a method for a private company to access public markets by directly listing its shares on a stock exchange without raising new capital. Existing shareholders of the private company can immediately sell shares on the public market. Unlike a traditional [initial public offering](/initial-public-offering/), a direct listing does not involve underwriters syndicating a new share offering, nor does the company raise capital from new investors. It is faster, cheaper, and gives shareholders liquidity, but it does not provide the company with capital for growth.*
 
 <div class="wiki-hatnote">
 
-This entry covers direct listings as a public market entry mechanism. For traditional IPOs, see [initial public offering](/initial-public-offering); for SPAC alternatives, see [special-purpose acquisition company](/special-purpose-acquisition-company).
+This entry covers direct listings as a public market entry mechanism. For traditional IPOs, see [initial public offering](/initial-public-offering/); for SPAC alternatives, see [special-purpose acquisition company](/special-purpose-acquisition-company/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers direct listings as a public market entry mechanism. For tradit
 | **Cost** | Lower than IPO; minimal underwriter fees |
 | **Shareholder benefit** | Immediate liquidity without lock-up period |
 | **Company benefit** | Public market access; potential for future raises |
-| **Alternative to** | [Initial public offering](/initial-public-offering), [SPAC](/special-purpose-acquisition-company) |
+| **Alternative to** | [Initial public offering](/initial-public-offering/), [SPAC](/special-purpose-acquisition-company/) |
 | **Variants** | Direct listing with secondary offering (raises capital) |
 
 </aside>
@@ -149,18 +149,18 @@ Growth companies and those needing significant capital raise still typically pre
 
 ### Closely related
 
-- [Initial public offering](/initial-public-offering) — traditional alternative
-- [Special-purpose acquisition company](/special-purpose-acquisition-company) — modern IPO alternative
-- [De-SPAC transaction](/de-spac-transaction) — SPAC merger mechanism
+- [Initial public offering](/initial-public-offering/) — traditional alternative
+- [Special-purpose acquisition company](/special-purpose-acquisition-company/) — modern IPO alternative
+- [De-SPAC transaction](/de-spac-transaction/) — SPAC merger mechanism
 - Going-public process — broader context
-- [Public company](/public-company) — status after direct listing
+- [Public company](/public-company/) — status after direct listing
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — where direct listing occurs
-- [Market capitalization](/market-capitalization) — determined post-listing
+- [Stock exchange](/stock-exchange/) — where direct listing occurs
+- [Market capitalization](/market-capitalization/) — determined post-listing
 - Shareholder liquidity — key benefit of direct listing
-- [Reverse merger](/reverse-merger) — earlier alternative
+- [Reverse merger](/reverse-merger/) — earlier alternative
 - IPO underwriter — not involved in direct listings
 
 </div>

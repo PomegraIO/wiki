@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on data-center REITs as a sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For context on the companies that lease space, see [stock market](/stock-market).
+This entry focuses on data-center REITs as a sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For context on the companies that lease space, see [stock market](/stock-market/).
 
 </div>
 
@@ -95,19 +95,19 @@ There is also a geopolitical dimension. Governments are increasingly concerned a
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Industrial REIT](/industrial-reit) — warehouses and logistics (related infrastructure type)
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Industrial REIT](/industrial-reit/) — warehouses and logistics (related infrastructure type)
 
 ### Related metrics
 
-- [Cap rate](/cap-rate) — data-center cap rates reflect strong demand
-- [Net operating income](/net-operating-income) — the power revenues and operational costs
+- [Cap rate](/cap-rate/) — data-center cap rates reflect strong demand
+- [Net operating income](/net-operating-income/) — the power revenues and operational costs
 
 ### Context
 
-- [Stock market](/stock-market) — where data-center REITs are listed
-- [Dividend](/dividend) — the primary return to investors
-- [Asset allocation](/asset-allocation) — how to weight data-center REITs in a portfolio
+- [Stock market](/stock-market/) — where data-center REITs are listed
+- [Dividend](/dividend/) — the primary return to investors
+- [Asset allocation](/asset-allocation/) — how to weight data-center REITs in a portfolio
 
 </div>

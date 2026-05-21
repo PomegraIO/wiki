@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to representativeness heuristic. For similarity-based judgment, see [representativeness](/representativeness-heuristic).
+Related to representativeness heuristic. For similarity-based judgment, see [representativeness](/representativeness-heuristic/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to representativeness heuristic. For similarity-based judgment, see [rep
 | **Also called** | Base-rate bias, prior probability neglect |
 | **Operates on** | Probability judgment, investment screening, risk assessment |
 | **Investor impact** | Overestimating startup success rates; misjudging fund manager skill; assuming outliers are typical |
-| **Related phenomenon** | [Representativeness heuristic](/representativeness-heuristic), [conjunction fallacy](/conjunction-fallacy) |
+| **Related phenomenon** | [Representativeness heuristic](/representativeness-heuristic/), [conjunction fallacy](/conjunction-fallacy/) |
 | **Severity** | One of the most robust findings in behavioral economics |
 
 </aside>
@@ -67,13 +67,13 @@ One of the clearest applications is evaluating fund managers. A manager outperfo
 
 So 10-year outperformance is not strong evidence of skill; it is what we expect from random variation in a large population. Base-rate neglect causes investors to ignore this and hire managers right after their lucky streak is over.
 
-## Base rates and the [overconfidence bias](/overconfidence-bias)
+## Base rates and the [overconfidence bias](/overconfidence-bias/)
 
 Base-rate neglect and overconfidence often work together. You ignore the base rate (most investors underperform), focus on your own positive specific attributes, and conclude you will outperform. This combination is lethal for portfolio returns.
 
 ## Distinguishing base-rate neglect from representativeness
 
-Base-rate neglect is about ignoring the statistical baseline. [Representativeness](/representativeness-heuristic) is about judging probability by similarity to a stereotype. They often occur together and are sometimes hard to separate, but they are distinct.
+Base-rate neglect is about ignoring the statistical baseline. [Representativeness](/representativeness-heuristic/) is about judging probability by similarity to a stereotype. They often occur together and are sometimes hard to separate, but they are distinct.
 
 In base-rate neglect, you know the base rate but fail to use it ("I know 90% of startups fail, but this one is special"). In representativeness, you judge by similarity without accessing the base rate at all ("this looks like a winner").
 
@@ -91,18 +91,18 @@ In base-rate neglect, you know the base rate but fail to use it ("I know 90% of 
 
 ### Closely related
 
-- [Representativeness heuristic](/representativeness-heuristic) — judging by similarity to a stereotype
-- [Conjunction fallacy](/conjunction-fallacy) — believing conjunctions more likely than subsets
-- [Availability heuristic](/availability-heuristic) — judging by ease of recall
-- [Bayesian reasoning](/base-rate-neglect) — proper incorporation of base rates
-- [Overconfidence bias](/overconfidence-bias) — excessive certainty despite base rates
+- [Representativeness heuristic](/representativeness-heuristic/) — judging by similarity to a stereotype
+- [Conjunction fallacy](/conjunction-fallacy/) — believing conjunctions more likely than subsets
+- [Availability heuristic](/availability-heuristic/) — judging by ease of recall
+- [Bayesian reasoning](/base-rate-neglect/) — proper incorporation of base rates
+- [Overconfidence bias](/overconfidence-bias/) — excessive certainty despite base rates
 
 ### Wider context
 
-- [Confirmation bias](/confirmation-bias) — seeking evidence that confirms initial judgment
-- [Narrative fallacy](/narrative-fallacy) — believing compelling stories over statistics
-- [Gamblers fallacy](/gamblers-fallacy) — misunderstanding randomness and base rates
+- [Confirmation bias](/confirmation-bias/) — seeking evidence that confirms initial judgment
+- [Narrative fallacy](/narrative-fallacy/) — believing compelling stories over statistics
+- [Gamblers fallacy](/gamblers-fallacy/) — misunderstanding randomness and base rates
 - Market sentiment indicators — how collective neglect drives trends
-- [Prospect theory](/prospect-theory) — the broader framework of biased probability judgment
+- [Prospect theory](/prospect-theory/) — the broader framework of biased probability judgment
 
 </div>

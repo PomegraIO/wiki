@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers reverse stock splits as a corporate action. For the opposite action, see [stock split](/stock-split); for other capital structure changes, see [dividend](/dividend) and [share buyback](/share-buyback).
+This entry covers reverse stock splits as a corporate action. For the opposite action, see [stock split](/stock-split/); for other capital structure changes, see [dividend](/dividend/) and [share buyback](/share-buyback/).
 
 </div>
 
@@ -36,7 +36,7 @@ This entry covers reverse stock splits as a corporate action. For the opposite a
 | **Effect on share count** | Decreased by reverse split ratio |
 | **Shareholder approval** | Usually required (board proposes, shareholders vote) |
 | **Market perception** | Generally negative (signal of distress) |
-| **Opposite** | [Stock split](/stock-split) |
+| **Opposite** | [Stock split](/stock-split/) |
 
 </aside>
 
@@ -133,7 +133,7 @@ Companies now typically use reverse splits only when facing genuine compliance p
 
 ### Closely related
 
-- [Stock split](/stock-split) — opposite corporate action
+- [Stock split](/stock-split/) — opposite corporate action
 - Shareholder dilution — related concept
 - Penny stock — often involved in reverse splits
 - Delisting — listing compliance issue
@@ -142,8 +142,8 @@ Companies now typically use reverse splits only when facing genuine compliance p
 ### Wider context
 
 - Stock price — adjusted by reverse splits
-- [Market capitalization](/market-capitalization) — unchanged by reverse splits
-- [Stock exchange](/stock-exchange) — sets listing standards
+- [Market capitalization](/market-capitalization/) — unchanged by reverse splits
+- [Stock exchange](/stock-exchange/) — sets listing standards
 - Board of directors — proposes reverse splits
 - Shareholder value — not improved by reverse splits
 

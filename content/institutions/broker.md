@@ -11,11 +11,11 @@ keywords:
   - retail investing
 image: "/svg/institutions.svg"
 ---
-*A **broker** is the intermediary between you and a [stock exchange](/stock-exchange). When you want to buy or sell a [stock](/stock), you cannot walk up to the exchange yourself; you go through a broker, who submits your order, finds a counterparty, and executes the trade. Brokers range from full-service giants offering advice and research to bare-bones discount platforms where you place orders yourself. They make money several ways, and the way they make money shapes whether their incentives align with yours.*
+*A **broker** is the intermediary between you and a [stock exchange](/stock-exchange/). When you want to buy or sell a [stock](/stock/), you cannot walk up to the exchange yourself; you go through a broker, who submits your order, finds a counterparty, and executes the trade. Brokers range from full-service giants offering advice and research to bare-bones discount platforms where you place orders yourself. They make money several ways, and the way they make money shapes whether their incentives align with yours.*
 
 <div class="wiki-hatnote">
 
-This entry covers retail stock brokers. For institutional brokers and market-maker functions, consult your wealth manager; for order execution specifically, see [stock exchange](/stock-exchange).
+This entry covers retail stock brokers. For institutional brokers and market-maker functions, consult your wealth manager; for order execution specifically, see [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry covers retail stock brokers. For institutional brokers and market-mak
 
 ## The broker's role in the chain
 
-The mechanics are simple on the surface. You tell your broker you want to buy 100 [shares](/stock) of Apple at the market price. Your broker routes the order to a [stock exchange](/stock-exchange)—the NYSE, NASDAQ, or another venue. The exchange matches your order with a seller. The trade happens in milliseconds. Settlement happens a few days later: the seller receives cash, you receive the shares.
+The mechanics are simple on the surface. You tell your broker you want to buy 100 [shares](/stock/) of Apple at the market price. Your broker routes the order to a [stock exchange](/stock-exchange/)—the NYSE, NASDAQ, or another venue. The exchange matches your order with a seller. The trade happens in milliseconds. Settlement happens a few days later: the seller receives cash, you receive the shares.
 
 But behind that smooth surface is a complex machinery: clearinghouses that guarantee settlement, prime brokers that finance position keeping, market makers that provide liquidity, and a pecking order of commissions and fees.
 
@@ -51,7 +51,7 @@ For most retail investors, these details are invisible. You place an order and i
 
 ## Full-service, discount, and the spectrum between
 
-In the 1960s and 1970s, most retail investors worked with **full-service brokers**—large firms like Merrill Lynch or Goldman Sachs that employed armies of brokers. These brokers would call you on the phone, suggest which [stocks](/stock) to buy, handle your account, and charge you a commission of 1–2% on each trade.
+In the 1960s and 1970s, most retail investors worked with **full-service brokers**—large firms like Merrill Lynch or Goldman Sachs that employed armies of brokers. These brokers would call you on the phone, suggest which [stocks](/stock/) to buy, handle your account, and charge you a commission of 1–2% on each trade.
 
 Full-service brokers still exist, but they have largely retreated upmarket. They now focus on high-net-worth clients and charge flat fees or a percentage of assets under management. They provide research, estate planning, tax advice, and the kind of relationship a wealthy person might value. For a retail investor, a full-service broker is now unnecessarily expensive.
 
@@ -85,7 +85,7 @@ For a retail investor, several practical questions matter:
 
 **Spreads and execution.** Are you getting a tight spread, or is the broker's conflict of interest (payment for order flow) visible in wider spreads?
 
-**Features.** Can you trade the assets you want (stocks, [ETFs](/etf), [options](/option), [bonds](/bond), etc.)? Can you set up the account type you need (IRA, 401k, brokerage)?
+**Features.** Can you trade the assets you want (stocks, [ETFs](/etf/), [options](/option/), [bonds](/bond/), etc.)? Can you set up the account type you need (IRA, 401k, brokerage)?
 
 **Reliability.** Does the platform work? Are there outages? Can you reach customer service?
 
@@ -101,19 +101,19 @@ One last point: brokers and market makers have made modern markets far more liqu
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — where brokers route your order
-- [Stock](/stock) — what brokers help you trade
-- [ETF](/etf) — an efficient vehicle brokers execute
-- [Option](/option) — a complex product many brokers offer
-- [Short selling](/short-selling) — requires a broker to find shares to borrow
-- [Dividend](/dividend) — brokers handle reinvestment
+- [Stock exchange](/stock-exchange/) — where brokers route your order
+- [Stock](/stock/) — what brokers help you trade
+- [ETF](/etf/) — an efficient vehicle brokers execute
+- [Option](/option/) — a complex product many brokers offer
+- [Short selling](/short-selling/) — requires a broker to find shares to borrow
+- [Dividend](/dividend/) — brokers handle reinvestment
 
 ### Wider context
 
-- [Stock market](/stock-market) — the ecosystem brokers operate in
-- [Public company](/public-company) — what brokers help you buy a stake in
-- [Market capitalization](/market-capitalization) — the size of companies brokers trade
-- [Bull market](/bull-market) · [Bear market](/bear-market) — when brokers see volume spikes
-- [Asset allocation](/asset-allocation) — implementation requires a broker
+- [Stock market](/stock-market/) — the ecosystem brokers operate in
+- [Public company](/public-company/) — what brokers help you buy a stake in
+- [Market capitalization](/market-capitalization/) — the size of companies brokers trade
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — when brokers see volume spikes
+- [Asset allocation](/asset-allocation/) — implementation requires a broker
 
 </div>

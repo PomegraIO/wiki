@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **perpetuity growth terminal value** is the workhorse endpoint in every [discounted cash flow](/discounted-cash-flow-valuation) model. It assumes that in year N plus one and beyond, a company's free cash flow grows at a constant rate forever, and it uses the [Gordon growth model](/gordon-growth-model) formula to collapse that infinite stream into a present value. Despite its theoretical beauty, this approach rests on an assumption—perpetual growth rate—that is easier to state than to defend.*
+*The **perpetuity growth terminal value** is the workhorse endpoint in every [discounted cash flow](/discounted-cash-flow-valuation/) model. It assumes that in year N plus one and beyond, a company's free cash flow grows at a constant rate forever, and it uses the [Gordon growth model](/gordon-growth-model/) formula to collapse that infinite stream into a present value. Despite its theoretical beauty, this approach rests on an assumption—perpetual growth rate—that is easier to state than to defend.*
 
 ## The formula and its logic
 
@@ -34,9 +34,9 @@ For a developed-economy company, it should be close to long-run nominal GDP grow
 
 This single number drives enormous valuation swings. If discount rate is 9% and you assume 2% perpetual growth, terminal value is next-year cash flow divided by 0.07. If you assume 3%, it is divided by 0.06, a 16% increase. If you assume 4%, it is divided by 0.05, nearly a 40% increase.
 
-For most [two-stage DCF](/two-stage-dcf) models, terminal value is 70–75% of total enterprise value. A 16% change in terminal value moves total value by roughly 11%. A 40% change moves total value by 30%.
+For most [two-stage DCF](/two-stage-dcf/) models, terminal value is 70–75% of total enterprise value. A 16% change in terminal value moves total value by roughly 11%. A 40% change moves total value by 30%.
 
-This is why running a [sensitivity analysis](/sensitivity-analysis-valuation) on perpetual growth is critical. Any DCF that does not show valuation at 2%, 3%, and 4% perpetual growth is hiding fragility.
+This is why running a [sensitivity analysis](/sensitivity-analysis-valuation/) on perpetual growth is critical. Any DCF that does not show valuation at 2%, 3%, and 4% perpetual growth is hiding fragility.
 
 ## Why perpetuity works for some businesses
 
@@ -58,11 +58,11 @@ This is why running a [sensitivity analysis](/sensitivity-analysis-valuation) on
 
 ## Alternatives and complements
 
-Many practitioners use [exit multiple terminal value](/exit-multiple-terminal-value) instead: forecast year-10 EBITDA, assume a realistic multiple, discount to present. This converts the perpetual growth assumption into an observable multiple, which feels more grounded.
+Many practitioners use [exit multiple terminal value](/exit-multiple-terminal-value/) instead: forecast year-10 EBITDA, assume a realistic multiple, discount to present. This converts the perpetual growth assumption into an observable multiple, which feels more grounded.
 
-Others use a [three-stage DCF](/three-stage-dcf) with an explicit transition period, letting growth decline gradually to the perpetual rate. This acknowledges that the perpetual rate is a destination, not a starting point.
+Others use a [three-stage DCF](/three-stage-dcf/) with an explicit transition period, letting growth decline gradually to the perpetual rate. This acknowledges that the perpetual rate is a destination, not a starting point.
 
-Some run [scenario valuation](/scenario-valuation) with discrete bear, base, bull cases, each with its own perpetual growth assumption, rather than relying on a single central estimate.
+Some run [scenario valuation](/scenario-valuation/) with discrete bear, base, bull cases, each with its own perpetual growth assumption, rather than relying on a single central estimate.
 
 ## Making the assumption testable
 
@@ -82,28 +82,28 @@ A perpetuity growth model that meets these criteria is transparent and defensibl
 
 ### Closely related
 
-- [Terminal value](/terminal-value) — the endpoint concept
-- [Gordon growth model](/gordon-growth-model) — the formula
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — the alternative
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent model
+- [Terminal value](/terminal-value/) — the endpoint concept
+- [Gordon growth model](/gordon-growth-model/) — the formula
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — the alternative
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent model
 
 ### Time-structured models
 
-- [Two-stage DCF](/two-stage-dcf) — explicit plus perpetual
-- [Three-stage DCF](/three-stage-dcf) — with transition period
-- [Dividend discount model](/dividend-discount-model) — same perpetuity logic applied to dividends
+- [Two-stage DCF](/two-stage-dcf/) — explicit plus perpetual
+- [Three-stage DCF](/three-stage-dcf/) — with transition period
+- [Dividend discount model](/dividend-discount-model/) — same perpetuity logic applied to dividends
 
 ### Testing and sensitivity
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — perpetual growth sensitivity
-- [Scenario valuation](/scenario-valuation) — discrete cases
-- [Football field valuation](/football-field-valuation) — ranges and confidence intervals
-- [Reverse DCF](/reverse-dcf) — backing out the implied perpetual growth from market price
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — perpetual growth sensitivity
+- [Scenario valuation](/scenario-valuation/) — discrete cases
+- [Football field valuation](/football-field-valuation/) — ranges and confidence intervals
+- [Reverse DCF](/reverse-dcf/) — backing out the implied perpetual growth from market price
 
 ### Inputs
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Cost of equity](/cost-of-equity) — for equity valuation
-- [Market risk premium](/market-risk-premium) — used in cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Cost of equity](/cost-of-equity/) — for equity valuation
+- [Market risk premium](/market-risk-premium/) — used in cost of equity
 
 </div>

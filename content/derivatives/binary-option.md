@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **binary option** is an exotic derivative with a simple, binary payoff: if the underlying asset finishes above (call) or below (put) the [strike price](/strike-price) at [expiration](/expiration-date), the holder receives a fixed amount of cash; otherwise, the holder receives nothing. Also called a **digital option** or **all-or-nothing option**, binary options are used for definitive bets on direction without exposure to magnitude of move.*
+*A **binary option** is an exotic derivative with a simple, binary payoff: if the underlying asset finishes above (call) or below (put) the [strike price](/strike-price/) at [expiration](/expiration-date/), the holder receives a fixed amount of cash; otherwise, the holder receives nothing. Also called a **digital option** or **all-or-nothing option**, binary options are used for definitive bets on direction without exposure to magnitude of move.*
 
 <aside class="wiki-infobox">
 
@@ -36,7 +36,7 @@ image: "/svg/derivatives.svg"
 
 ## The payoff structure
 
-Unlike a standard [call option](/call-option) that pays the difference between the spot and strike price at expiration, a binary call pays a fixed amount (e.g., $100) if the underlying finishes above the strike, and $0 if it finishes below.
+Unlike a standard [call option](/call-option/) that pays the difference between the spot and strike price at expiration, a binary call pays a fixed amount (e.g., $100) if the underlying finishes above the strike, and $0 if it finishes below.
 
 Suppose a binary call is struck at $100 with a payoff of $100. If the stock closes at $150, the holder receives exactly $100—not $50. If it closes at $99.99, the holder receives exactly $0. The magnitude of the move does not matter; only the direction does.
 
@@ -44,11 +44,11 @@ This all-or-nothing structure is what gives the option its "binary" name. There 
 
 ## Pricing and cost
 
-Binary options are cheaper than [call option](/call-option) alternatives because they do not offer unlimited upside. The payoff is capped at a fixed amount. A trader who believes a stock will rise 10% faces a choice: buy a vanilla call (which profits the full amount if the move happens) or a binary call (which profits only the fixed amount, but for less premium).
+Binary options are cheaper than [call option](/call-option/) alternatives because they do not offer unlimited upside. The payoff is capped at a fixed amount. A trader who believes a stock will rise 10% faces a choice: buy a vanilla call (which profits the full amount if the move happens) or a binary call (which profits only the fixed amount, but for less premium).
 
 The value of a binary call is highest when it is at-the-money (near the strike) because there is maximum uncertainty about which way the stock will close. Deep in-the-money or far out-of-the-money binary options are worth less (closer to their intrinsic value of either $K or $0).
 
-[Black-Scholes model](/black-scholes-model) can price binary options by recognizing the binary call as a steep, narrow bull spread. The value depends on the probability the stock closes above the strike, discounted to present value and multiplied by the payoff amount.
+[Black-Scholes model](/black-scholes-model/) can price binary options by recognizing the binary call as a steep, narrow bull spread. The value depends on the probability the stock closes above the strike, discounted to present value and multiplied by the payoff amount.
 
 ## Use cases
 
@@ -70,13 +70,13 @@ Legitimate binary options trade on regulated exchanges (CME, Nadex in the US; va
 
 ## Greeks and risks
 
-The [delta](/delta) of a binary call is highest at-the-money and falls to near-zero far from the strike. This creates a sharp edge: tiny moves near the strike trigger large [delta](/delta) changes, while large moves far from the strike trigger none. This makes [delta](/delta) hedging binary options tricky.
+The [delta](/delta/) of a binary call is highest at-the-money and falls to near-zero far from the strike. This creates a sharp edge: tiny moves near the strike trigger large [delta](/delta/) changes, while large moves far from the strike trigger none. This makes [delta](/delta/) hedging binary options tricky.
 
-[Gamma](/gamma) (the change in [delta](/delta)) is concentrated at the strike and can be very high, creating instability in hedges. [Theta](/theta) (time decay) benefits the seller as expiration nears and the option approaches either $0 or $K with certainty. [Vega](/vega) (sensitivity to [volatility](/historical-volatility)) is negative for binary options near the strike (higher volatility lowers the probability of finishing exactly in or out) and positive far from the strike.
+[Gamma](/gamma/) (the change in [delta](/delta/)) is concentrated at the strike and can be very high, creating instability in hedges. [Theta](/theta/) (time decay) benefits the seller as expiration nears and the option approaches either $0 or $K with certainty. [Vega](/vega/) (sensitivity to [volatility](/historical-volatility/)) is negative for binary options near the strike (higher volatility lowers the probability of finishing exactly in or out) and positive far from the strike.
 
 ## Comparison with vanilla options
 
-A trader bullish on a stock could buy a vanilla $100 [call option](/call-option) for $5, profiting the full amount if the stock soars to $120. Or the trader could buy a binary call at $100 for $2.50, profiting only a fixed amount (say, $10) if the stock finishes above $100.
+A trader bullish on a stock could buy a vanilla $100 [call option](/call-option/) for $5, profiting the full amount if the stock soars to $120. Or the trader could buy a binary call at $100 for $2.50, profiting only a fixed amount (say, $10) if the stock finishes above $100.
 
 The vanilla call offers more upside if the stock moves a lot; the binary call offers more upside per dollar of premium and more certainty about maximum loss. The choice depends on the trader's view of the move magnitude.
 

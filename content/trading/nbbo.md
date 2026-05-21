@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For price discovery, see [lit venue](/lit-venue). For routing to achieve NBBO, see [smart order router](/smart-order-router). For the regulation, see Reg NMS.
+For price discovery, see [lit venue](/lit-venue/). For routing to achieve NBBO, see [smart order router](/smart-order-router/). For the regulation, see Reg NMS.
 
 </div>
 
@@ -76,7 +76,7 @@ Your broker must either:
 
 ## NBBO and best execution
 
-NBBO is central to [best execution](/best-execution):
+NBBO is central to [best execution](/best-execution/):
 
 - Brokers must route orders to achieve prices equal to or better than NBBO.
 - Best execution rules require checking all venues (including dark pools) to ensure you are getting NBBO or better.
@@ -95,7 +95,7 @@ This means:
 
 In fast markets, NBBO becomes a "moving target." By the time your order reaches the NBBO venue, the quote might have moved. Modern regulation allows for brief latency — you cannot be faulted for a trade-through if the NBBO changed between when your order was submitted and when it was routed.
 
-However, [high-frequency traders](/high-frequency-trading) exploit latency: they can see NBBO changes slightly before retail traders' orders arrive, allowing them to trade ahead.
+However, [high-frequency traders](/high-frequency-trading/) exploit latency: they can see NBBO changes slightly before retail traders' orders arrive, allowing them to trade ahead.
 
 ## Exceptions to the trade-through rule
 
@@ -123,16 +123,16 @@ Reg NMS and the creation of NBBO mandated price unity: all venues show prices si
 ### Closely related
 
 - Bid-ask spread — the spread reflects NBBO
-- [Best execution](/best-execution) — regulatory goal tied to NBBO
+- [Best execution](/best-execution/) — regulatory goal tied to NBBO
 - Trade-through rule — enforces NBBO compliance
-- [Smart order router](/smart-order-router) — routes to achieve NBBO
+- [Smart order router](/smart-order-router/) — routes to achieve NBBO
 
 ### Market structure and venues
 
-- [Lit venue](/lit-venue) — exchanges contribute to NBBO
-- [Dark pool](/dark-pool) — not part of NBBO, but offers alternative prices
+- [Lit venue](/lit-venue/) — exchanges contribute to NBBO
+- [Dark pool](/dark-pool/) — not part of NBBO, but offers alternative prices
 - Order book — where bids and asks that form NBBO sit
-- [Stock exchange](/stock-exchange) — sources of NBBO quotes
+- [Stock exchange](/stock-exchange/) — sources of NBBO quotes
 
 ### Regulation and compliance
 
@@ -143,8 +143,8 @@ Reg NMS and the creation of NBBO mandated price unity: all venues show prices si
 
 ### Execution and pricing
 
-- [Market order](/market-order) — executes at NBBO (best available)
-- [Limit order](/limit-order) — priced relative to NBBO
+- [Market order](/market-order/) — executes at NBBO (best available)
+- [Limit order](/limit-order/) — priced relative to NBBO
 - **Quote dissemination** — NBBO is published in real time
 
 </div>

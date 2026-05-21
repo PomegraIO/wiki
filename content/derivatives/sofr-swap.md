@@ -115,7 +115,7 @@ Closely related to SOFR swaps are **OIS contracts**, which swap fixed for overni
 - [Basis risk](/basis/) — SOFR vs. LIBOR temporary basis
 - [Contract conversion](/interest-rate-swap/) — transition logistics
 - [Spread adjustment](/interest-rate/) — to match LIBOR economics
-- [Forward SOFR](/interest-rate) — rates for future periods
+- [Forward SOFR](/interest-rate/) — rates for future periods
 
 ### Deeper context
 

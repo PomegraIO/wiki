@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For the current yield on a bond trading at a different price, see [current yield](/current-yield). For the total return accounting for price changes, see [yield to maturity](/yield-to-maturity).
+For the current yield on a bond trading at a different price, see [current yield](/current-yield/). For the total return accounting for price changes, see [yield to maturity](/yield-to-maturity/).
 
 </div>
 
@@ -41,7 +41,7 @@ For the current yield on a bond trading at a different price, see [current yield
 
 ## How coupons are determined and paid
 
-When a company issues a bond, it sets the coupon rate based on prevailing [interest rates](/interest-rate) and its credit quality. A strong company (AAA-rated) issuing a 10-year bond when the 10-year Treasury yield is 2.5% might set a coupon of 3.5% (Treasury yield plus 100 basis points for credit spread). A weaker company (BBB-rated) might set a coupon of 5% (Treasury plus 250 basis points).
+When a company issues a bond, it sets the coupon rate based on prevailing [interest rates](/interest-rate/) and its credit quality. A strong company (AAA-rated) issuing a 10-year bond when the 10-year Treasury yield is 2.5% might set a coupon of 3.5% (Treasury yield plus 100 basis points for credit spread). A weaker company (BBB-rated) might set a coupon of 5% (Treasury plus 250 basis points).
 
 The coupon is set at issuance and never changes. A bond issued with a 5% coupon will pay 5% annually for its entire life, even if interest rates subsequently fall to 2% or rise to 8%.
 
@@ -52,17 +52,17 @@ Most bonds pay coupons semi-annually. A 5% annual coupon becomes two semi-annual
 This distinction confuses investors:
 
 - **Coupon** = the fixed annual interest payment (set at issuance, never changes)
-- **[Yield](/yield-to-maturity)** = the return earned if the bond is held to maturity (depends on the purchase price and interest rates)
+- **[Yield](/yield-to-maturity/)** = the return earned if the bond is held to maturity (depends on the purchase price and interest rates)
 
-If a bond with a 5% coupon is issued at par ($1,000) when rates are 5%, the [yield](/yield-to-maturity) equals the coupon (5%). But if rates subsequently rise and the bond falls to $900, the [yield](/yield-to-maturity) becomes 5.56% ($50 coupon ÷ $900 price ≈ 5.56%), even though the coupon remains 5%.
+If a bond with a 5% coupon is issued at par ($1,000) when rates are 5%, the [yield](/yield-to-maturity/) equals the coupon (5%). But if rates subsequently rise and the bond falls to $900, the [yield](/yield-to-maturity/) becomes 5.56% ($50 coupon ÷ $900 price ≈ 5.56%), even though the coupon remains 5%.
 
-The bond holder receives $50 per year (the fixed coupon), but the [yield](/yield-to-maturity) to maturity is higher because they bought at a discount.
+The bond holder receives $50 per year (the fixed coupon), but the [yield](/yield-to-maturity/) to maturity is higher because they bought at a discount.
 
 ## Duration and interest-rate sensitivity
 
-The coupon rate affects the bond's [duration](/duration). A high-coupon bond (say, 8%) has lower [duration](/duration) than a low-coupon bond (say, 2%) of the same maturity. This is because high coupons return more cash early, reducing the bond's effective maturity.
+The coupon rate affects the bond's [duration](/duration/). A high-coupon bond (say, 8%) has lower [duration](/duration/) than a low-coupon bond (say, 2%) of the same maturity. This is because high coupons return more cash early, reducing the bond's effective maturity.
 
-A 10-year zero-coupon bond has [duration](/duration) of 10 years. A 10-year 8% coupon bond has [duration](/duration) of approximately 7 years. The high coupon accelerates cash return, shortening the effective holding period.
+A 10-year zero-coupon bond has [duration](/duration/) of 10 years. A 10-year 8% coupon bond has [duration](/duration/) of approximately 7 years. The high coupon accelerates cash return, shortening the effective holding period.
 
 This affects interest-rate risk: the zero-coupon bond is more sensitive to rate changes (loses 10% value for a 1% rate rise). The 8% bond loses only 7%.
 
@@ -71,24 +71,24 @@ This affects interest-rate risk: the zero-coupon bond is more sensitive to rate 
 Three yield metrics are often confused:
 
 - **Coupon** = annual payment / face value. Example: $50 / $1,000 = 5%
-- **[Current yield](/current-yield)** = annual payment / current price. Example: $50 / $900 = 5.56%
-- **[Yield to maturity](/yield-to-maturity)** = total return if held to maturity (accounting for coupon plus price changes)
+- **[Current yield](/current-yield/)** = annual payment / current price. Example: $50 / $900 = 5.56%
+- **[Yield to maturity](/yield-to-maturity/)** = total return if held to maturity (accounting for coupon plus price changes)
 
-All three are different. The coupon is fixed. Current yield changes as the bond's price changes. [Yield to maturity](/yield-to-maturity) is what an investor earns if they hold the bond to maturity.
+All three are different. The coupon is fixed. Current yield changes as the bond's price changes. [Yield to maturity](/yield-to-maturity/) is what an investor earns if they hold the bond to maturity.
 
 ## High-coupon vs. low-coupon bonds
 
 **High-coupon bonds** (8%+) provide substantial income. An investor buys a 10-year 8% bond and receives $80 annually. This is attractive for income-focused investors, especially in low-rate environments.
 
-When rates subsequently rise, high-coupon bonds fall less in price (due to lower [duration](/duration)) but suffer capital losses. An investor who bought at par but sells in a higher-rate environment realizes a loss, despite having received good income along the way.
+When rates subsequently rise, high-coupon bonds fall less in price (due to lower [duration](/duration/)) but suffer capital losses. An investor who bought at par but sells in a higher-rate environment realizes a loss, despite having received good income along the way.
 
-**Low-coupon bonds** (2–3%) provide little income but have higher [duration](/duration). They appreciate significantly if rates fall, providing capital gains. They depreciate significantly if rates rise.
+**Low-coupon bonds** (2–3%) provide little income but have higher [duration](/duration/). They appreciate significantly if rates fall, providing capital gains. They depreciate significantly if rates rise.
 
 For total return optimization, the choice depends on rate expectations. If rates are expected to fall, low-coupon bonds are superior. If rates are expected to rise, high-coupon bonds are better.
 
 ## Zero-coupon bonds and accrual
 
-[Zero-coupon bonds](/zero-coupon-bond) pay no coupon — all return is in the form of purchase discount. A $1,000 zero-coupon bond purchased for $600 returns the $400 difference at maturity.
+[Zero-coupon bonds](/zero-coupon-bond/) pay no coupon — all return is in the form of purchase discount. A $1,000 zero-coupon bond purchased for $600 returns the $400 difference at maturity.
 
 The advantage is no reinvestment risk — you cannot reinvest coupons at unfavorable rates because there are no coupons. The disadvantage is no interim cash flow — the investor must wait until maturity to realize the return.
 
@@ -106,18 +106,18 @@ Floating-rate bonds provide protection against rising rates (the coupon rises as
 
 ### Closely related
 
-- [Yield to maturity](/yield-to-maturity) — the total return on a bond
-- [Current yield](/current-yield) — the annual income divided by price
-- [Par value](/par-value) — the face value to which coupons are applied
-- [Zero-coupon bond](/zero-coupon-bond) — bonds without coupons
-- [Bond](/bond) — debt securities paying coupons
+- [Yield to maturity](/yield-to-maturity/) — the total return on a bond
+- [Current yield](/current-yield/) — the annual income divided by price
+- [Par value](/par-value/) — the face value to which coupons are applied
+- [Zero-coupon bond](/zero-coupon-bond/) — bonds without coupons
+- [Bond](/bond/) — debt securities paying coupons
 
 ### Wider context
 
-- [Duration](/duration) — coupon affects interest-rate sensitivity
-- [Interest rate](/interest-rate) — determines coupon at issuance
-- [Inflation](/inflation) — erodes the real value of fixed coupons
-- [Central bank](/central-bank) — monetary policy affects coupon levels
-- [Credit spread](/credit-spread) — determines coupon premiums above Treasury yields
+- [Duration](/duration/) — coupon affects interest-rate sensitivity
+- [Interest rate](/interest-rate/) — determines coupon at issuance
+- [Inflation](/inflation/) — erodes the real value of fixed coupons
+- [Central bank](/central-bank/) — monetary policy affects coupon levels
+- [Credit spread](/credit-spread/) — determines coupon premiums above Treasury yields
 
 </div>

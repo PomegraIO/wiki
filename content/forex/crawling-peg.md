@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **crawling peg** is a [currency peg](/currency-peg) that adjusts in small, predetermined steps at regular intervals — for example, depreciating 0.5% per month (6% per year) to match a higher inflation rate. Instead of allowing the currency to become overvalued and then suddenly devaluing (a traumatic shock), a crawling peg degrades gradually. It reduces the speculative pressure that builds in [soft pegs](/soft-peg) because devaluation is expected and predictable.*
+*A **crawling peg** is a [currency peg](/currency-peg/) that adjusts in small, predetermined steps at regular intervals — for example, depreciating 0.5% per month (6% per year) to match a higher inflation rate. Instead of allowing the currency to become overvalued and then suddenly devaluing (a traumatic shock), a crawling peg degrades gradually. It reduces the speculative pressure that builds in [soft pegs](/soft-peg/) because devaluation is expected and predictable.*
 
 <div class="wiki-hatnote">
 
-For pegs that do not adjust, see [hard peg](/hard-peg); for pegs that adjust irregularly, see [soft peg](/soft-peg); for systematic revaluation, see [currency board](/currency-board).
+For pegs that do not adjust, see [hard peg](/hard-peg/); for pegs that adjust irregularly, see [soft peg](/soft-peg/); for systematic revaluation, see [currency board](/currency-board/).
 
 </div>
 
@@ -42,7 +42,7 @@ For pegs that do not adjust, see [hard peg](/hard-peg); for pegs that adjust irr
 
 A central bank might announce: "The peso is pegged at 50 per US dollar. Every month, the peg depreciates 0.5% (0.25 basis points), so the rate moves from 50.00 to 50.25, then to 50.50, and so on." The adjustment is automatic, predetermined, and transparent.
 
-Why? Because domestic [inflation](/inflation) is higher than US inflation. Without a crawling peg, the currency would become steadily overvalued — the peso would buy less and less in real terms, making imports cheaper and exports more expensive. Eventually, the overvaluation becomes unsustainable, and a sharp devaluation is forced.
+Why? Because domestic [inflation](/inflation/) is higher than US inflation. Without a crawling peg, the currency would become steadily overvalued — the peso would buy less and less in real terms, making imports cheaper and exports more expensive. Eventually, the overvaluation becomes unsustainable, and a sharp devaluation is forced.
 
 A crawling peg avoids this buildup. It systematically depreciates at a rate that offsets the inflation differential, keeping the real exchange rate stable.
 
@@ -54,7 +54,7 @@ In the short term, this makes trade prices stable in real terms. Exporters know 
 
 ## Credibility and speculation
 
-The key advantage of a crawling peg over a [soft peg](/soft-peg) is predictability. Speculators know the devaluation is coming; they cannot profit from surprise. If everyone knows the peso will depreciate 6% per year, and it does, there is nothing to bet on. Capital does not flee in anticipation of a devaluation.
+The key advantage of a crawling peg over a [soft peg](/soft-peg/) is predictability. Speculators know the devaluation is coming; they cannot profit from surprise. If everyone knows the peso will depreciate 6% per year, and it does, there is nothing to bet on. Capital does not flee in anticipation of a devaluation.
 
 This removes the speculative attack dynamic that breaks soft pegs. The central bank does not need to raise interest rates sharply or burn reserves to defend the rate.
 
@@ -82,17 +82,17 @@ The Czech National Bank used this approach in the 1990s with moderate success.
 
 ### Closely related
 
-- [Currency peg](/currency-peg) — the broader category
-- [Soft peg](/soft-peg) — irregular adjustment; more unstable
-- [Hard peg](/hard-peg) — no adjustment; more rigid
-- [Currency board](/currency-board) — institutional peg variant
-- [Fixed exchange rate](/fixed-exchange-rate) — broader regime class
+- [Currency peg](/currency-peg/) — the broader category
+- [Soft peg](/soft-peg/) — irregular adjustment; more unstable
+- [Hard peg](/hard-peg/) — no adjustment; more rigid
+- [Currency board](/currency-board/) — institutional peg variant
+- [Fixed exchange rate](/fixed-exchange-rate/) — broader regime class
 
 ### Wider context
 
-- [Inflation](/inflation) — differential drives crawl rate
-- [Interest rate](/interest-rate) — policy tool to defend crawl
-- [Central bank](/central-bank) — sets crawl schedule
+- [Inflation](/inflation/) — differential drives crawl rate
+- [Interest rate](/interest-rate/) — policy tool to defend crawl
+- [Central bank](/central-bank/) — sets crawl schedule
 - Balance of payments — sustainability of crawls
 
 </div>

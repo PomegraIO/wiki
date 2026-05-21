@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For how custodial accounts work, see [custodial account](/custodial-account); for education-specific accounts, see [529 plan](/529-college-savings-plan) and [Coverdell ESA](/coverdell-esa).
+For how custodial accounts work, see [custodial account](/custodial-account/); for education-specific accounts, see [529 plan](/529-college-savings-plan/) and [Coverdell ESA](/coverdell-esa/).
 
 </div>
 
@@ -45,7 +45,7 @@ The UGMA, passed in 1956, was one of the first uniform laws (created by the Nati
 Under UGMA:
 - Adults can open an account for a minor beneficiary.
 - Assets are transferred to the child at age of majority (18 or 21, depending on state).
-- Allowed assets are typically limited to cash, securities ([stocks](/stock), [bonds](/bond), [mutual funds](/mutual-fund)), and insurance.
+- Allowed assets are typically limited to cash, securities ([stocks](/stock/), [bonds](/bond/), [mutual funds](/mutual-fund/)), and insurance.
 - Simple, straightforward, and still used in many states.
 
 ## UTMA: Uniform Transfers to Minors Act
@@ -89,7 +89,7 @@ The account's earnings and growth must be reported on the child's tax return (or
 
 - **Simple gifts from relatives.** Grandparent wants to gift money for a child's future.
 - **Consolidating cash gifts.** Birthdays, holidays, and other gifts can be pooled into one account.
-- **Education savings.** If you do not want a [529 plan](/529-college-savings-plan).
+- **Education savings.** If you do not want a [529 plan](/529-college-savings-plan/).
 - **Flexible-purpose savings.** If the money may be used for non-education purposes.
 
 ## When NOT to use UGMA/UTMA
@@ -105,14 +105,14 @@ The account's earnings and growth must be reported on the child's tax return (or
 
 ### Closely related
 
-- [Custodial account](/custodial-account) — how UGMA/UTMA accounts operate in practice
-- [529 college savings plan](/529-college-savings-plan) — education-specific alternative
-- [Coverdell ESA](/coverdell-esa) — another education savings option
+- [Custodial account](/custodial-account/) — how UGMA/UTMA accounts operate in practice
+- [529 college savings plan](/529-college-savings-plan/) — education-specific alternative
+- [Coverdell ESA](/coverdell-esa/) — another education savings option
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — growth potential over 18+ years
-- [Estate planning](/budgeting-methods) — UGMA/UTMA as part of family gifting
-- [Tax-advantaged accounts](/hsa) — account types with special rules
+- [Compound interest](/compound-interest/) — growth potential over 18+ years
+- [Estate planning](/budgeting-methods/) — UGMA/UTMA as part of family gifting
+- [Tax-advantaged accounts](/hsa/) — account types with special rules
 
 </div>

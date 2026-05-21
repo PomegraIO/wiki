@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **exotic currency pair** is a [currency pair](/currency-pair) involving a major currency — typically the [US dollar](/us-dollar) — paired with a currency from a smaller economy, an emerging market, or a less-developed financial system. Examples include USD/BRL (US dollar/Brazilian real), USD/MXN (US dollar/Mexican peso), and AUD/SGD (Australian dollar/Singapore dollar). Exotics are thinly traded, have wide [spreads](/forex-spread), and are accessible primarily to institutional traders.*
+*An **exotic currency pair** is a [currency pair](/currency-pair/) involving a major currency — typically the [US dollar](/us-dollar/) — paired with a currency from a smaller economy, an emerging market, or a less-developed financial system. Examples include USD/BRL (US dollar/Brazilian real), USD/MXN (US dollar/Mexican peso), and AUD/SGD (Australian dollar/Singapore dollar). Exotics are thinly traded, have wide [spreads](/forex-spread/), and are accessible primarily to institutional traders.*
 
 <div class="wiki-hatnote">
 
-For the most liquid pairs, see [major currency pair](/major-currency-pair); for pairs not involving the dollar, see [minor currency pair](/minor-currency-pair).
+For the most liquid pairs, see [major currency pair](/major-currency-pair/); for pairs not involving the dollar, see [minor currency pair](/minor-currency-pair/).
 
 </div>
 
@@ -58,13 +58,13 @@ The most actively traded exotics involve large emerging markets where significan
 
 ## Trading exotics: costs and challenges
 
-The wide spreads on exotics mean high transaction costs. A [spread](/forex-spread) of 20 [pips](/pip) on USD/BRL is common; you can lose 2% of your capital on a round-trip trade before the currency even moves. This makes exotics suitable only for large, directional bets — not for day trading or tight hedging.
+The wide spreads on exotics mean high transaction costs. A [spread](/forex-spread/) of 20 [pips](/pip/) on USD/BRL is common; you can lose 2% of your capital on a round-trip trade before the currency even moves. This makes exotics suitable only for large, directional bets — not for day trading or tight hedging.
 
 Spreads are also asymmetric: the bid-ask spread widens dramatically during periods of stress. When emerging markets are selling off (as in the 2008 financial crisis or the 2020 pandemic panic), exotics freeze. Spreads blow out to 100+ pips; quotes disappear; liquidity evaporates. Traders stuck in exotic positions have no choice but to hold or take catastrophic losses.
 
 ## Leverage on exotics
 
-Retail brokers offer very low leverage on exotics — often 5:1 or 10:1, compared to 50:1 or 100:1 on [major pairs](/major-currency-pair). This is prudent: the broker's risk is higher. If you are leveraged and the exotic pair moves 5% against you, your account is wiped out. The low leverage limits the damage — and limits the appeal to retail speculators.
+Retail brokers offer very low leverage on exotics — often 5:1 or 10:1, compared to 50:1 or 100:1 on [major pairs](/major-currency-pair/). This is prudent: the broker's risk is higher. If you are leveraged and the exotic pair moves 5% against you, your account is wiped out. The low leverage limits the damage — and limits the appeal to retail speculators.
 
 ## Why trade them at all?
 
@@ -78,15 +78,15 @@ Hedge funds and emerging-market specialists trade exotics for alpha — they bel
 
 ### Closely related
 
-- [Currency pair](/currency-pair) — the structure of all FX quotes
-- [Major currency pair](/major-currency-pair) — the most liquid pairs
-- [Minor currency pair](/minor-currency-pair) — pairs between majors
-- [Spread](/forex-spread) — why exotics are expensive to trade
-- [Forex leverage](/forex-leverage) — lower on exotics than majors
+- [Currency pair](/currency-pair/) — the structure of all FX quotes
+- [Major currency pair](/major-currency-pair/) — the most liquid pairs
+- [Minor currency pair](/minor-currency-pair/) — pairs between majors
+- [Spread](/forex-spread/) — why exotics are expensive to trade
+- [Forex leverage](/forex-leverage/) — lower on exotics than majors
 
 ### Wider context
 
-- [Emerging market](/inflation) — home countries of exotic currencies
+- [Emerging market](/inflation/) — home countries of exotic currencies
 - Currency intervention — common in emerging-market FX
 - Currency crisis — when exotics move violently
 

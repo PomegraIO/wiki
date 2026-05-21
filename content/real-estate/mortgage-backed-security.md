@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*A **mortgage-backed security** (MBS) is a fixed-income security backed by a pool of mortgages. MBS investors receive monthly principal and interest payments from borrowers; securities are issued by government agencies ([Fannie Mae](/fannie-mae), [Freddie Mac](/freddie-mac), Ginnie Mae) or private institutions.*
+*A **mortgage-backed security** (MBS) is a fixed-income security backed by a pool of mortgages. MBS investors receive monthly principal and interest payments from borrowers; securities are issued by government agencies ([Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), Ginnie Mae) or private institutions.*
 
 <div class="wiki-hatnote">
 
-For related securities, see agency-mbs (government-backed), non-agency-mbs (private), and collateralized-mortgage-obligation (CMO). For loan types, see [fixed-rate-mortgage](/fixed-rate-mortgage) and [adjustable-rate-mortgage](/adjustable-rate-mortgage).
+For related securities, see agency-mbs (government-backed), non-agency-mbs (private), and collateralized-mortgage-obligation (CMO). For loan types, see [fixed-rate-mortgage](/fixed-rate-mortgage/) and [adjustable-rate-mortgage](/adjustable-rate-mortgage/).
 
 </div>
 
@@ -130,20 +130,20 @@ The crisis highlighted the credit risk in non-agency MBS and the importance of t
 
 ### Government agencies
 
-- [Fannie-Mae](/fannie-mae) — issues agency MBS
-- [Freddie-Mac](/freddie-mac) — issues agency MBS
+- [Fannie-Mae](/fannie-mae/) — issues agency MBS
+- [Freddie-Mac](/freddie-mac/) — issues agency MBS
 - Ginnie-Mae — issues agency MBS
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — backed by fixed-rate loans
-- [Adjustable-rate-mortgage](/adjustable-rate-mortgage) — backed by adjustable-rate loans
-- [Mortgage REIT](/mortgage-reit) — holds MBS for investors
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — backed by fixed-rate loans
+- [Adjustable-rate-mortgage](/adjustable-rate-mortgage/) — backed by adjustable-rate loans
+- [Mortgage REIT](/mortgage-reit/) — holds MBS for investors
 
 ### Context
 
-- [Interest rate](/interest-rate) — primary driver of MBS prices
-- [Bond](/bond) — MBS are bonds backed by mortgages
-- [Yield curve](/yield-curve) — context for MBS yields
+- [Interest rate](/interest-rate/) — primary driver of MBS prices
+- [Bond](/bond/) — MBS are bonds backed by mortgages
+- [Yield curve](/yield-curve/) — context for MBS yields
 
 </div>

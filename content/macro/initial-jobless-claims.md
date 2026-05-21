@@ -10,7 +10,7 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Initial jobless claims measure the number of workers filing for [unemployment](/unemployment-rate) insurance for the first time in a week. Released weekly by the Department of Labor, it is the most timely labor market indicator available, with essentially no lag. Claims spikes signal economic weakness; low and stable claims indicate a healthy labor market.*
+*Initial jobless claims measure the number of workers filing for [unemployment](/unemployment-rate/) insurance for the first time in a week. Released weekly by the Department of Labor, it is the most timely labor market indicator available, with essentially no lag. Claims spikes signal economic weakness; low and stable claims indicate a healthy labor market.*
 
 <div class="wiki-hatnote">
 
@@ -42,8 +42,8 @@ Initial claims are weekly data, highly volatile, and best interpreted as 4-week 
 
 Initial jobless claims are released every Thursday morning for the prior week. This is the most timely labor market data available:
 
-- [Nonfarm payrolls](/nonfarm-payrolls) come out once monthly, ~30 days after the month ends.
-- [Unemployment rate](/unemployment-rate) is released monthly.
+- [Nonfarm payrolls](/nonfarm-payrolls/) come out once monthly, ~30 days after the month ends.
+- [Unemployment rate](/unemployment-rate/) is released monthly.
 - Initial jobless claims are released weekly with essentially no lag.
 
 Because of this timeliness, policymakers and markets watch claims closely for early signals of labor market weakness.
@@ -53,7 +53,7 @@ Because of this timeliness, policymakers and markets watch claims closely for ea
 **Sustained low claims (200-250k):**
 - Labor market is healthy and tight.
 - Firms are not laying off workers.
-- Risk is [inflation](/inflation) from tight labor markets, not recession.
+- Risk is [inflation](/inflation/) from tight labor markets, not recession.
 
 **Rising claims (toward 400k):**
 - Labor market is weakening.
@@ -70,12 +70,12 @@ Because of this timeliness, policymakers and markets watch claims closely for ea
 
 ## Relationship to unemployment
 
-In theory, initial claims should lead the [unemployment rate](/unemployment-rate). A spike in claims should predict rising [unemployment](/unemployment-rate) a few weeks later.
+In theory, initial claims should lead the [unemployment rate](/unemployment-rate/). A spike in claims should predict rising [unemployment](/unemployment-rate/) a few weeks later.
 
 Empirically, the relationship is strong but not perfect:
 
 - A week of 500k claims is a clear warning.
-- But [unemployment](/unemployment-rate) also depends on [labor force participation](/labor-force-participation-rate). If workers leave the labor force when laid off, [unemployment](/unemployment-rate) rises less than claims might predict.
+- But [unemployment](/unemployment-rate/) also depends on [labor force participation](/labor-force-participation-rate/). If workers leave the labor force when laid off, [unemployment](/unemployment-rate/) rises less than claims might predict.
 
 ## Noise and the 4-week moving average
 
@@ -89,7 +89,7 @@ Claims are "seasonally adjusted" by the Department of Labor — winter and summe
 
 ## Policy and market reaction
 
-[Federal Reserve](/federal-reserve) policymakers watch initial jobless claims:
+[Federal Reserve](/federal-reserve/) policymakers watch initial jobless claims:
 
 - **If claims spike:** Signal of recession or major negative shock. Fed may cut rates.
 - **If claims stay low:** Labor market is solid. Fed should not be easing.
@@ -110,9 +110,9 @@ This episode showed both the power of claims data (immediate signal of shock) an
 
 ## Continuing jobless claims
 
-A related measure is "[continuing jobless claims](/continuing-jobless-claims)" — the number of people still receiving benefits in a given week. This is higher, more stable, and less timely (harder to report in real time because verification takes time).
+A related measure is "[continuing jobless claims](/continuing-jobless-claims/)" — the number of people still receiving benefits in a given week. This is higher, more stable, and less timely (harder to report in real time because verification takes time).
 
-The ratio of continuing to initial claims reveals information about job-finding rates. If initial claims are stable but continuing claims are rising, the [unemployment](/unemployment-rate) pool is not draining — job-finding is weak.
+The ratio of continuing to initial claims reveals information about job-finding rates. If initial claims are stable but continuing claims are rising, the [unemployment](/unemployment-rate/) pool is not draining — job-finding is weak.
 
 ## See also
 
@@ -120,18 +120,18 @@ The ratio of continuing to initial claims reveals information about job-finding 
 
 ### Closely related
 
-- [Continuing jobless claims](/continuing-jobless-claims) — still on benefits
-- [Unemployment rate](/unemployment-rate) — the lagged effect
-- [Nonfarm payrolls](/nonfarm-payrolls) — employment change
-- [Labor market](/labor-force-participation-rate) — overall health
-- [Recession](/recession) — claims spike in recessions
+- [Continuing jobless claims](/continuing-jobless-claims/) — still on benefits
+- [Unemployment rate](/unemployment-rate/) — the lagged effect
+- [Nonfarm payrolls](/nonfarm-payrolls/) — employment change
+- [Labor market](/labor-force-participation-rate/) — overall health
+- [Recession](/recession/) — claims spike in recessions
 
 ### Broader context
 
-- [Business cycle](/business-cycle) — claims are procyclical
-- [Inflation](/inflation) — low sustained claims suggest tight markets
+- [Business cycle](/business-cycle/) — claims are procyclical
+- [Inflation](/inflation/) — low sustained claims suggest tight markets
 - Monetary policy — Fed watches claims for recession signals
 - Economic indicators — one of the most timely
-- [Employment](/unemployment-rate) — the underlying phenomenon
+- [Employment](/unemployment-rate/) — the underlying phenomenon
 
 </div>

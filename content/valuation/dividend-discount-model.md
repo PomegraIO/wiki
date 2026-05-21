@@ -16,9 +16,9 @@ image: "/svg/valuation.svg"
 
 Dividends are the only cash return a shareholder receives while holding the stock. If you buy at price P, hold forever, and receive dividends of D1, D2, D3, and so on in perpetuity, your intrinsic value is the sum of those dividends discounted at your required rate of return.
 
-If dividends are constant forever (highly unrealistic), the formula becomes the [perpetuity formula](/perpetuity-growth-terminal-value): Dividend divided by (Required Return minus Perpetual Growth Rate). This is the [Gordon growth model](/gordon-growth-model), the simplest and most famous DDM variant.
+If dividends are constant forever (highly unrealistic), the formula becomes the [perpetuity formula](/perpetuity-growth-terminal-value/): Dividend divided by (Required Return minus Perpetual Growth Rate). This is the [Gordon growth model](/gordon-growth-model/), the simplest and most famous DDM variant.
 
-The discount rate used is the [cost of equity](/cost-of-equity), the minimum return an equity holder demands for bearing the risk of ownership.
+The discount rate used is the [cost of equity](/cost-of-equity/), the minimum return an equity holder demands for bearing the risk of ownership.
 
 ## Why dividends, not total cash flow?
 
@@ -26,7 +26,7 @@ The question at the heart of DDM criticism is: why value only dividends rather t
 
 The answer is partly historical—dividend discount models emerged in the 1950s and 1960s when dividends were more stable and predictable than earnings, making them easier to forecast. But there is also a conceptual point: anything the company earns and does not pay out is either wasted (poor capital allocation) or reinvested in projects that generate returns below the cost of equity (destroying value) or above it (creating value, which should eventually show up as dividends or buybacks).
 
-A more sophisticated DDM acknowledges this: it values not just cash dividends but also share buybacks, treating them as equivalent to dividends. This is called the **total-payout model** or sometimes free cash flow to equity divided by required return—which brings it closer to the [free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) approach.
+A more sophisticated DDM acknowledges this: it values not just cash dividends but also share buybacks, treating them as equivalent to dividends. This is called the **total-payout model** or sometimes free cash flow to equity divided by required return—which brings it closer to the [free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) approach.
 
 ## Multi-stage DDMs
 
@@ -34,7 +34,7 @@ A more sophisticated DDM acknowledges this: it values not just cash dividends bu
 
 **Two-stage.** High dividend growth for N years, then perpetual growth thereafter. A cloud software company paying a small dividend might grow it at 20% for seven years, then at 3% perpetually. This makes DDM viable for growth companies that do return cash.
 
-**Three-stage.** Growth, transition, terminal—same logic as [three-stage DCF](/three-stage-dcf), applied to dividends instead of free cash flow.
+**Three-stage.** Growth, transition, terminal—same logic as [three-stage DCF](/three-stage-dcf/), applied to dividends instead of free cash flow.
 
 ## When DDM is useful
 
@@ -54,7 +54,7 @@ A more sophisticated DDM acknowledges this: it values not just cash dividends bu
 
 ## DDM's relationship to free cash flow models
 
-The theoretically correct view is that DDM is a special case of [free cash flow to equity valuation](/free-cash-flow-to-equity-valuation). If a company generates free cash flow of X and has no better use for it, it should pay out X as dividends (or buybacks). If it retains and reinvests, it should earn at least the cost of equity on that reinvestment, creating enough growth to eventually justify the retained cash.
+The theoretically correct view is that DDM is a special case of [free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/). If a company generates free cash flow of X and has no better use for it, it should pay out X as dividends (or buybacks). If it retains and reinvests, it should earn at least the cost of equity on that reinvestment, creating enough growth to eventually justify the retained cash.
 
 In practice, many companies reinvest poorly, retain cash for empire-building, or sit on hoards. DDM critics argue this is why free cash flow models are more trustworthy: they value all cash generated, regardless of what management decides to do with it.
 
@@ -76,23 +76,23 @@ In practice, many companies reinvest poorly, retain cash for empire-building, or
 
 ### Closely related
 
-- [Gordon growth model](/gordon-growth-model) — the simplest DDM
-- [Multi-stage DDM](/multi-stage-ddm) — growth-plus-terminal variants
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the terminal assumption
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — a more comprehensive model
-- [Dividend](/dividend) — what is being valued
+- [Gordon growth model](/gordon-growth-model/) — the simplest DDM
+- [Multi-stage DDM](/multi-stage-ddm/) — growth-plus-terminal variants
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the terminal assumption
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — a more comprehensive model
+- [Dividend](/dividend/) — what is being valued
 
 ### Valuation frameworks
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the parent class
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the enterprise-level alternative
-- [Multiples valuation](/multiples-valuation) — market-based approach
-- [Comparable company analysis](/comparable-company-analysis) — peer-based sanity check
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the parent class
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the enterprise-level alternative
+- [Multiples valuation](/multiples-valuation/) — market-based approach
+- [Comparable company analysis](/comparable-company-analysis/) — peer-based sanity check
 
 ### Inputs
 
-- [Cost of equity](/cost-of-equity) — the discount rate
-- [Capital asset pricing model](/capital-asset-pricing-model) — how to estimate it
-- [Equity risk premium](/equity-risk-premium) — a key input
+- [Cost of equity](/cost-of-equity/) — the discount rate
+- [Capital asset pricing model](/capital-asset-pricing-model/) — how to estimate it
+- [Equity risk premium](/equity-risk-premium/) — a key input
 
 </div>

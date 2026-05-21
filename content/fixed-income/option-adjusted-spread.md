@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **option-adjusted spread** — or **OAS** — is a [bond](/bond)'s [credit spread](/credit-spread) adjusted to exclude the value of embedded options. For a [callable bond](/callable-bond), OAS removes the value of the call option to isolate the pure credit risk premium. A [callable bond](/callable-bond) might have a 150-basis-point simple spread but an 100-basis-point OAS, with 50 basis points attributable to the call option.*
+*The **option-adjusted spread** — or **OAS** — is a [bond](/bond/)'s [credit spread](/credit-spread/) adjusted to exclude the value of embedded options. For a [callable bond](/callable-bond/), OAS removes the value of the call option to isolate the pure credit risk premium. A [callable bond](/callable-bond/) might have a 150-basis-point simple spread but an 100-basis-point OAS, with 50 basis points attributable to the call option.*
 
 <div class="wiki-hatnote">
 
-For the simple spread unadjusted for options, see [credit spread](/credit-spread). For callable bonds, see [callable bond](/callable-bond). For convertible bonds, see [convertible bond](/convertible-bond).
+For the simple spread unadjusted for options, see [credit spread](/credit-spread/). For callable bonds, see [callable bond](/callable-bond/). For convertible bonds, see [convertible bond](/convertible-bond/).
 
 </div>
 
@@ -30,7 +30,7 @@ For the simple spread unadjusted for options, see [credit spread](/credit-spread
 |---|---|
 | **What it is** | Credit spread minus option value |
 | **Formula** | Simple spread = OAS + option value |
-| **Applies to** | [Callable bonds](/callable-bond), [convertible bonds](/convertible-bond), MBS |
+| **Applies to** | [Callable bonds](/callable-bond/), [convertible bonds](/convertible-bond/), MBS |
 | **Calculation** | Model-based; requires assumptions about volatility |
 | **Callable bonds** | OAS < simple spread (call reduces investor return) |
 | **Putable bonds** | OAS > simple spread (put increases investor return) |
@@ -60,25 +60,25 @@ OAS calculation requires modeling the bond's value under many different interest
 
 This is computationally complex, which is why OAS calculation is delegated to pricing systems and specialists.
 
-The OAS calculated is sensitive to volatility assumptions. High volatility increases the value of [call options](/callable-bond) (call value rises), reducing OAS. Low volatility reduces option value, increasing OAS.
+The OAS calculated is sensitive to volatility assumptions. High volatility increases the value of [call options](/callable-bond/) (call value rises), reducing OAS. Low volatility reduces option value, increasing OAS.
 
 ## Callable bond OAS
 
-For a [callable bond](/callable-bond), the OAS is lower than the simple spread because the call option reduces the bondholder's return. The bondholder receives the OAS spread, but the issuer's call option extracts value.
+For a [callable bond](/callable-bond/), the OAS is lower than the simple spread because the call option reduces the bondholder's return. The bondholder receives the OAS spread, but the issuer's call option extracts value.
 
 When a bond is called, the bondholder's coupon income ceases and reinvestment occurs at lower rates — a loss. This loss is implicit in the option value, which reduces OAS.
 
 ## Putable bond OAS
 
-For a [putable bond](/putable-bond), the OAS is higher than the simple spread because the put option increases the bondholder's return. The bondholder receives the OAS spread plus the value of the put option.
+For a [putable bond](/putable-bond/), the OAS is higher than the simple spread because the put option increases the bondholder's return. The bondholder receives the OAS spread plus the value of the put option.
 
 A put option allows redemption at par if credit deteriorates, protecting the bondholder. This protection has value, increasing OAS relative to simple spread.
 
 ## MBS and OAS
 
-[Mortgage-backed securities](/mortgage-backed-security) have [prepayment risk](/mortgage-backed-security) similar to [call risk](/callable-bond). When rates fall, homeowners refinance, returning principal early. OAS accounts for this [prepayment risk](/mortgage-backed-security).
+[Mortgage-backed securities](/mortgage-backed-security/) have [prepayment risk](/mortgage-backed-security/) similar to [call risk](/callable-bond/). When rates fall, homeowners refinance, returning principal early. OAS accounts for this [prepayment risk](/mortgage-backed-security/).
 
-An MBS might have a 120-basis-point simple spread but 80-basis-point OAS, with 40 basis points reflecting the [prepayment option](/mortgage-backed-security) value.
+An MBS might have a 120-basis-point simple spread but 80-basis-point OAS, with 40 basis points reflecting the [prepayment option](/mortgage-backed-security/) value.
 
 ## Z-spread vs. OAS
 
@@ -90,9 +90,9 @@ OAS is more sophisticated — it models interest-rate volatility and option exer
 
 Bloomberg and other providers publish OAS indices for corporate and other bond markets:
 
-- **Investment-grade OAS index** — tracks spread of [investment-grade bonds](/investment-grade-bond)
-- **High-yield OAS index** — tracks [high-yield bonds](/high-yield-bond)
-- **MBS OAS** — tracks [mortgage-backed securities](/mortgage-backed-security)
+- **Investment-grade OAS index** — tracks spread of [investment-grade bonds](/investment-grade-bond/)
+- **High-yield OAS index** — tracks [high-yield bonds](/high-yield-bond/)
+- **MBS OAS** — tracks [mortgage-backed securities](/mortgage-backed-security/)
 
 These indices help investors gauge market credit conditions independent of option value.
 
@@ -115,18 +115,18 @@ A sophisticated manager might:
 
 ### Closely related
 
-- [Credit spread](/credit-spread) — simple spread unadjusted for options
-- [Callable bond](/callable-bond) — exhibits call option reducing OAS
-- [Putable bond](/putable-bond) — exhibits put option increasing OAS
-- [Mortgage-backed security](/mortgage-backed-security) — prepayment option reduces OAS
-- [Convertible bond](/convertible-bond) — conversion option affects spread
+- [Credit spread](/credit-spread/) — simple spread unadjusted for options
+- [Callable bond](/callable-bond/) — exhibits call option reducing OAS
+- [Putable bond](/putable-bond/) — exhibits put option increasing OAS
+- [Mortgage-backed security](/mortgage-backed-security/) — prepayment option reduces OAS
+- [Convertible bond](/convertible-bond/) — conversion option affects spread
 
 ### Wider context
 
-- [Credit rating](/credit-rating) — determines credit compensation
-- [Volatility](/stock) — affects option values and OAS
-- [Interest rate](/interest-rate) — drives option exercise
-- [Bond portfolio management](/hedge-fund) — OAS-based management
-- [Risk management](/diversification) — OAS helps identify option risk
+- [Credit rating](/credit-rating/) — determines credit compensation
+- [Volatility](/stock/) — affects option values and OAS
+- [Interest rate](/interest-rate/) — drives option exercise
+- [Bond portfolio management](/hedge-fund/) — OAS-based management
+- [Risk management](/diversification/) — OAS helps identify option risk
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **days payable outstanding** — or **DPO** — equals 365 divided by [accounts-payable-turnover](/accounts-payable-turnover). A DPO of 60 means the company takes an average of 60 days to pay suppliers. Higher DPO improves working capital but can strain supplier relationships.*
+*The **days payable outstanding** — or **DPO** — equals 365 divided by [accounts-payable-turnover](/accounts-payable-turnover/). A DPO of 60 means the company takes an average of 60 days to pay suppliers. Higher DPO improves working capital but can strain supplier relationships.*
 
 <aside class="wiki-infobox">
 
@@ -71,9 +71,9 @@ A company improving CCC can reduce working capital needs without additional capi
 
 ### Closely related
 
-- [Accounts-payable-turnover](/accounts-payable-turnover) — the reciprocal
-- [Days-sales-outstanding](/days-sales-outstanding)
-- [Days-inventory-outstanding](/days-inventory-outstanding)
-- [Cash-conversion-cycle](/cash-conversion-cycle) — combined metric
+- [Accounts-payable-turnover](/accounts-payable-turnover/) — the reciprocal
+- [Days-sales-outstanding](/days-sales-outstanding/)
+- [Days-inventory-outstanding](/days-inventory-outstanding/)
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — combined metric
 
 </div>

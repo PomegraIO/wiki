@@ -10,7 +10,7 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*GDP per capita is [gross domestic product](/gross-domestic-product) divided by the total population. It measures the average output per person and is the most widely used single metric for comparing living standards and economic development across countries.*
+*GDP per capita is [gross domestic product](/gross-domestic-product/) divided by the total population. It measures the average output per person and is the most widely used single metric for comparing living standards and economic development across countries.*
 
 <div class="wiki-hatnote">
 
@@ -28,7 +28,7 @@ Real GDP per capita — adjusted for inflation and often for purchasing power pa
 
 |   |   |
 |---|---|
-| **Formula** | [Real GDP](/real-gdp) ÷ total population |
+| **Formula** | [Real GDP](/real-gdp/) ÷ total population |
 | **Measured in** | Dollars (usually USD equivalent) |
 | **Frequency** | Annual |
 | **Time period** | Usually lagged one year (population estimate) |
@@ -47,7 +47,7 @@ A country with $10 trillion in real GDP and 100 million people has a per-capita 
 
 ## Real versus nominal per capita
 
-As with GDP itself, the distinction between [real](/real-gdp) and [nominal](/nominal-gdp) matters deeply:
+As with GDP itself, the distinction between [real](/real-gdp/) and [nominal](/nominal-gdp/) matters deeply:
 
 - **Nominal per capita** is calculated in current prices and is useful for comparing spending power within a single country at a single moment, but inflation makes year-to-year and cross-country comparison difficult.
 - **Real per capita** adjusts for inflation, showing whether people are actually buying more goods and services or merely paying higher prices for the same basket.
@@ -90,18 +90,18 @@ GDP per capita has important blind spots:
 
 ### Closely related
 
-- [Gross Domestic Product](/gross-domestic-product) — the total behind the per-capita figure
-- [Real GDP](/real-gdp) — inflation-adjusted version
-- [Nominal GDP](/nominal-gdp) — current-price version
-- [Potential GDP](/potential-gdp) — the sustainable per-capita level
-- [Gross National Income](/gross-national-income) — income-based alternative
+- [Gross Domestic Product](/gross-domestic-product/) — the total behind the per-capita figure
+- [Real GDP](/real-gdp/) — inflation-adjusted version
+- [Nominal GDP](/nominal-gdp/) — current-price version
+- [Potential GDP](/potential-gdp/) — the sustainable per-capita level
+- [Gross National Income](/gross-national-income/) — income-based alternative
 
 ### Broader context
 
 - Macroeconomics — development and growth theory
-- [Productivity](/productivity) — the driver of per-capita growth
+- [Productivity](/productivity/) — the driver of per-capita growth
 - Purchasing power parity — adjusting for cost-of-living differences
-- [Inflation](/inflation) — why real adjustment matters
-- [Compound interest](/compound-interest) — how per-capita wealth compounds
+- [Inflation](/inflation/) — why real adjustment matters
+- [Compound interest](/compound-interest/) — how per-capita wealth compounds
 
 </div>

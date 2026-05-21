@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For two orders where one fill cancels the other, see [one-cancels-other](/oco-order). For a simpler profit/stop pair, see [bracket order](/bracket-order).
+For two orders where one fill cancels the other, see [one-cancels-other](/oco-order/). For a simpler profit/stop pair, see [bracket order](/bracket-order/).
 
 </div>
 
@@ -54,7 +54,7 @@ This means: you are not exposed during the time between your entry and exit orde
 | **OTO** | Sequential orders; second depends on first | Second placed after first fills |
 | **Bracket order** | Entry + exits as a bundle | Entry primary; exits children, active after entry fills |
 
-A [bracket order](/bracket-order) is similar to an OTO (entry, then exits) but is often simpler and has a tighter linkage at the exchange level.
+A [bracket order](/bracket-order/) is similar to an OTO (entry, then exits) but is often simpler and has a tighter linkage at the exchange level.
 
 ## Typical OTO workflows
 
@@ -79,7 +79,7 @@ The key limitation of an OTO is that there is a small lag between the trigger or
 
 - In a fast market during the gap between fill and placement, the stock could move significantly.
 - If your broker's system is slow or overloaded, the delay could be longer.
-- If your secondary order is a [market order](/market-order), it will execute at the current price, which could have moved.
+- If your secondary order is a [market order](/market-order/), it will execute at the current price, which could have moved.
 
 For most retail traders, this delay is negligible. For high-frequency traders or scalpers, it can matter.
 
@@ -111,13 +111,13 @@ The OTO removes step 3 (manual action) and step 2 (monitoring). The trade-off: y
 
 ## Broker support
 
-Like [OCO orders](/oco-order), OTO support varies:
+Like [OCO orders](/oco-order/), OTO support varies:
 
 - Major brokers (Schwab, Fidelity, Interactive Brokers, TD Ameritrade) support OTO.
 - Discount brokers may not.
 - Some brokers charge a fee per OTO.
 
-If your broker does not support OTO, a [bracket order](/bracket-order) is usually the next-best alternative.
+If your broker does not support OTO, a [bracket order](/bracket-order/) is usually the next-best alternative.
 
 ## See also
 
@@ -125,16 +125,16 @@ If your broker does not support OTO, a [bracket order](/bracket-order) is usuall
 
 ### Closely related
 
-- [One-cancels-other](/oco-order) — two mutually exclusive orders
-- [Bracket order](/bracket-order) — entry plus fixed profit/stop; simpler than OTO
-- [Stop order](/stop-order) — the stop-loss component
-- [Limit order](/limit-order) — entry and profit-taking component
+- [One-cancels-other](/oco-order/) — two mutually exclusive orders
+- [Bracket order](/bracket-order/) — entry plus fixed profit/stop; simpler than OTO
+- [Stop order](/stop-order/) — the stop-loss component
+- [Limit order](/limit-order/) — entry and profit-taking component
 
 ### Order types
 
-- [Market order](/market-order) — instant execution
-- [Stop-limit order](/stop-limit-order) — stop-triggered limit order
-- [Trailing stop order](/trailing-stop-order) — dynamic stop
+- [Market order](/market-order/) — instant execution
+- [Stop-limit order](/stop-limit-order/) — stop-triggered limit order
+- [Trailing stop order](/trailing-stop-order/) — dynamic stop
 
 ### Strategy and context
 

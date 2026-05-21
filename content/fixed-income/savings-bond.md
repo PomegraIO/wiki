@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **savings bond** is a non-negotiable debt security issued by the U.S. Treasury specifically designed for individual savers. Unlike [Treasury notes](/treasury-note) and [Treasury bonds](/treasury-bond), which trade in secondary markets, savings bonds are held in registered form, accrue at a formula set by the Treasury, and cannot be sold or transferred.*
+*A **savings bond** is a non-negotiable debt security issued by the U.S. Treasury specifically designed for individual savers. Unlike [Treasury notes](/treasury-note/) and [Treasury bonds](/treasury-bond/), which trade in secondary markets, savings bonds are held in registered form, accrue at a formula set by the Treasury, and cannot be sold or transferred.*
 
 <div class="wiki-hatnote">
 
-For negotiable Treasury securities that trade in secondary markets, see [Treasury bill](/treasury-bill), [Treasury note](/treasury-note), and [Treasury bond](/treasury-bond). For inflation-indexed Treasuries that can be traded, see [TIPS](/tips).
+For negotiable Treasury securities that trade in secondary markets, see [Treasury bill](/treasury-bill/), [Treasury note](/treasury-note/), and [Treasury bond](/treasury-bond/). For inflation-indexed Treasuries that can be traded, see [TIPS](/tips/).
 
 </div>
 
@@ -50,9 +50,9 @@ The Treasury currently issues two active series of savings bonds: **Series EE** 
 
 ## Non-negotiability and illiquidity
 
-The defining characteristic of savings bonds is non-negotiability. Unlike a [Treasury note](/treasury-note), which can be sold to another investor through a [broker](/broker), a savings bond can only be redeemed with the Treasury. It cannot be pledged as collateral, gifted to another party, or sold at any price.
+The defining characteristic of savings bonds is non-negotiability. Unlike a [Treasury note](/treasury-note/), which can be sold to another investor through a [broker](/broker/), a savings bond can only be redeemed with the Treasury. It cannot be pledged as collateral, gifted to another party, or sold at any price.
 
-This design was intentional: the Treasury wanted to capture long-term savings without the complexity of secondary-market trading. In return, the saver receives simplicity. There is no price fluctuation, no [bid-ask spread](/credit-spread), no market risk. The value of a savings bond is always the accrued principal plus accrued interest, calculated by formula.
+This design was intentional: the Treasury wanted to capture long-term savings without the complexity of secondary-market trading. In return, the saver receives simplicity. There is no price fluctuation, no [bid-ask spread](/credit-spread/), no market risk. The value of a savings bond is always the accrued principal plus accrued interest, calculated by formula.
 
 The tradeoff is illiquidity. If an investor needs access to capital held in savings bonds before maturity, redemption is possible but penalized. Redeeming a savings bond before five years results in forfeiture of the last three months of interest. After five years, full accrued value can be redeemed, but the bondholder cannot maximize the 30-year return.
 
@@ -66,15 +66,15 @@ This benefit is income-limited: taxpayers above a certain income threshold canno
 
 ## Comparison to other savings products
 
-Savings bonds differ materially from [Treasury bills](/treasury-bill), [Treasury notes](/treasury-note), and [TIPS](/tips) primarily in negotiability and structure. Treasury securities trade at variable prices in deep secondary markets; savings bonds accrue at a fixed formula and cannot be traded.
+Savings bonds differ materially from [Treasury bills](/treasury-bill/), [Treasury notes](/treasury-note/), and [TIPS](/tips/) primarily in negotiability and structure. Treasury securities trade at variable prices in deep secondary markets; savings bonds accrue at a fixed formula and cannot be traded.
 
-For a saver with a 5-30 year horizon who prioritizes simplicity and certainty, savings bonds are superior to [Treasury notes](/treasury-note) (which carry [duration](/duration) risk if sold before maturity) and to [Treasury bills](/treasury-bill) (which offer lower returns). For a saver needing flexibility or wanting to match a specific cash need, [Treasury notes](/treasury-note) or [Treasury bills](/treasury-bill) are better.
+For a saver with a 5-30 year horizon who prioritizes simplicity and certainty, savings bonds are superior to [Treasury notes](/treasury-note/) (which carry [duration](/duration/) risk if sold before maturity) and to [Treasury bills](/treasury-bill/) (which offer lower returns). For a saver needing flexibility or wanting to match a specific cash need, [Treasury notes](/treasury-note/) or [Treasury bills](/treasury-bill/) are better.
 
-Compared to [commercial paper](/commercial-paper) or [CDs](/certificate-of-deposit), savings bonds offer lower returns but greater credit quality (backed fully by the U.S. government) and tax advantages. Compared to [I-Bonds](/i-bond), Series EE Bonds sacrifice inflation protection for simplicity and a guaranteed doubling.
+Compared to [commercial paper](/commercial-paper/) or [CDs](/certificate-of-deposit/), savings bonds offer lower returns but greater credit quality (backed fully by the U.S. government) and tax advantages. Compared to [I-Bonds](/i-bond/), Series EE Bonds sacrifice inflation protection for simplicity and a guaranteed doubling.
 
 ## Interest accrual and compounding
 
-Savings bonds accrue interest monthly, though interest is typically reported annually. The accrued amount compounds: interest earned in month one itself earns interest in subsequent months. This [compound interest](/compound-interest) effect is powerful over 30 years.
+Savings bonds accrue interest monthly, though interest is typically reported annually. The accrued amount compounds: interest earned in month one itself earns interest in subsequent months. This [compound interest](/compound-interest/) effect is powerful over 30 years.
 
 A Series EE Bond at 2.5% annual interest, if purchased for $25 (electronic), compounds to approximately $52.50 over 20 years. The longer the holding period, the more compounding contributes to total return. An investor who holds a Series EE Bond for 30 years benefits more than one who redeems at 20 years.
 
@@ -90,18 +90,18 @@ For very wealthy estates, savings bonds have minimal impact on estate tax (the v
 
 ### Closely related
 
-- [I-Bond](/i-bond) — inflation-protected savings bonds
-- [Treasury note](/treasury-note) — negotiable intermediate-term Treasury debt
-- [Treasury bill](/treasury-bill) — negotiable short-term Treasury debt
-- [Treasury bond](/treasury-bond) — negotiable long-term Treasury debt
-- [Certificate of deposit](/certificate-of-deposit) — alternative savings product with different terms
+- [I-Bond](/i-bond/) — inflation-protected savings bonds
+- [Treasury note](/treasury-note/) — negotiable intermediate-term Treasury debt
+- [Treasury bill](/treasury-bill/) — negotiable short-term Treasury debt
+- [Treasury bond](/treasury-bond/) — negotiable long-term Treasury debt
+- [Certificate of deposit](/certificate-of-deposit/) — alternative savings product with different terms
 
 ### Wider context
 
-- [Central bank](/central-bank) — the issuer
-- [Interest rate](/interest-rate) — influences Series EE rates
-- [Inflation](/inflation) — what Series I-Bonds protect against
-- [Compound interest](/compound-interest) — the engine of long-term savings growth
-- [Diversification](/diversification) — why adding savings bonds to portfolios can help
+- [Central bank](/central-bank/) — the issuer
+- [Interest rate](/interest-rate/) — influences Series EE rates
+- [Inflation](/inflation/) — what Series I-Bonds protect against
+- [Compound interest](/compound-interest/) — the engine of long-term savings growth
+- [Diversification](/diversification/) — why adding savings bonds to portfolios can help
 
 </div>

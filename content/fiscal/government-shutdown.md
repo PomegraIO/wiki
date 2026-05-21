@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*A **government shutdown** is a temporary suspension of non-essential federal government operations that occurs when Congress fails to pass [appropriations bills](/appropriations-bill) or a [continuing resolution](/continuing-resolution) by the deadline. Essential functions like national defense and Social Security continue, but many agencies halt or curtail services.*
+*A **government shutdown** is a temporary suspension of non-essential federal government operations that occurs when Congress fails to pass [appropriations bills](/appropriations-bill/) or a [continuing resolution](/continuing-resolution/) by the deadline. Essential functions like national defense and Social Security continue, but many agencies halt or curtail services.*
 
 <div class="wiki-hatnote">
 
-This entry covers the operational halt. For the temporary funding that prevents shutdowns, see [continuing resolution](/continuing-resolution); for the permanent appropriations it replaces, see [appropriations bill](/appropriations-bill); for the debt-related trigger, see [debt ceiling](/debt-ceiling).
+This entry covers the operational halt. For the temporary funding that prevents shutdowns, see [continuing resolution](/continuing-resolution/); for the permanent appropriations it replaces, see [appropriations bill](/appropriations-bill/); for the debt-related trigger, see [debt ceiling](/debt-ceiling/).
 
 </div>
 
@@ -28,7 +28,7 @@ This entry covers the operational halt. For the temporary funding that prevents 
 
 |   |   |
 |---|---|
-| **Triggered by** | Failure to pass [appropriations](/appropriations-bill) or [continuing resolution](/continuing-resolution) |
+| **Triggered by** | Failure to pass [appropriations](/appropriations-bill/) or [continuing resolution](/continuing-resolution/) |
 | **Timing** | Begins when prior spending authority expires, usually midnight Sept 30 |
 | **Duration** | Days to weeks (until Congress acts) |
 | **Affected agencies** | Most executive branch (except those with separate authority) |
@@ -42,7 +42,7 @@ This entry covers the operational halt. For the temporary funding that prevents 
 
 ## How a shutdown begins
 
-The federal fiscal year runs October 1 to September 30. Congress must pass [appropriations bills](/appropriations-bill) authorizing spending before October 1 to avoid a shutdown. If Congress fails to pass [appropriations bills](/appropriations-bill) or a [continuing resolution](/continuing-resolution), the government loses authority to spend money.
+The federal fiscal year runs October 1 to September 30. Congress must pass [appropriations bills](/appropriations-bill/) authorizing spending before October 1 to avoid a shutdown. If Congress fails to pass [appropriations bills](/appropriations-bill/) or a [continuing resolution](/continuing-resolution/), the government loses authority to spend money.
 
 When midnight on September 30 arrives and no spending authority exists, agencies must shut down. Only agencies with independent spending authority (funded by prior law rather than annual appropriations) continue operating. These include:
 
@@ -76,13 +76,13 @@ The uncertainty around pay is stressful for federal employees and can hamper rec
 
 ## Political leverage and shutdowns
 
-Since the 1990s, government shutdowns have been used as a bargaining tactic. A party opposing the President or a spending proposal can threaten to block an [appropriations bill](/appropriations-bill) or [continuing resolution](/continuing-resolution), risking a shutdown, to extract concessions.
+Since the 1990s, government shutdowns have been used as a bargaining tactic. A party opposing the President or a spending proposal can threaten to block an [appropriations bill](/appropriations-bill/) or [continuing resolution](/continuing-resolution/), risking a shutdown, to extract concessions.
 
 The threat works because shutdowns are unpopular; they close national parks, delay disaster relief, and grind government services to a halt. But if both sides are willing to accept the political cost, a shutdown can persist for weeks (the longest US shutdown lasted 35 days in 2019).
 
 ## Shutdowns and debt
 
-A government shutdown is distinct from a [debt-ceiling](/debt-ceiling) crisis, though they sometimes happen simultaneously. A shutdown occurs when Congress does not pass [appropriations](/appropriations-bill); a debt-ceiling crisis occurs when Congress does not vote to raise the [debt ceiling](/debt-ceiling). Both are fiscal standoffs with political leverage, but different triggers.
+A government shutdown is distinct from a [debt-ceiling](/debt-ceiling/) crisis, though they sometimes happen simultaneously. A shutdown occurs when Congress does not pass [appropriations](/appropriations-bill/); a debt-ceiling crisis occurs when Congress does not vote to raise the [debt ceiling](/debt-ceiling/). Both are fiscal standoffs with political leverage, but different triggers.
 
 ## See also
 
@@ -90,23 +90,23 @@ A government shutdown is distinct from a [debt-ceiling](/debt-ceiling) crisis, t
 
 ### Closely related
 
-- [Continuing resolution](/continuing-resolution) — prevents shutdown by extending prior funding
-- [Appropriations bill](/appropriations-bill) — permanent spending legislation that prevents shutdown
-- [Debt ceiling](/debt-ceiling) — can be linked to shutdown negotiations
-- [Omnibus spending bill](/omnibus-spending-bill) — comprehensive appropriations that prevent shutdown
+- [Continuing resolution](/continuing-resolution/) — prevents shutdown by extending prior funding
+- [Appropriations bill](/appropriations-bill/) — permanent spending legislation that prevents shutdown
+- [Debt ceiling](/debt-ceiling/) — can be linked to shutdown negotiations
+- [Omnibus spending bill](/omnibus-spending-bill/) — comprehensive appropriations that prevent shutdown
 
 ### Fiscal mechanisms
 
-- [Budget deficit](/budget-deficit) — underlying issue that shutdowns do not address
-- [Discretionary spending](/discretionary-spending) — the spending shutdowns interrupt
-- [Mandatory spending](/mandatory-spending) — continues during shutdowns
-- [Fiscal consolidation](/fiscal-consolidation) — long-term response to deficits
+- [Budget deficit](/budget-deficit/) — underlying issue that shutdowns do not address
+- [Discretionary spending](/discretionary-spending/) — the spending shutdowns interrupt
+- [Mandatory spending](/mandatory-spending/) — continues during shutdowns
+- [Fiscal consolidation](/fiscal-consolidation/) — long-term response to deficits
 
 ### Economic effects
 
-- [Recession](/recession) — a severe shutdown could contribute to a downturn
-- [Inflation](/inflation) — delays in government spending can affect prices
-- [Stock market](/stock-market) — may decline during shutdown uncertainty
-- [Federal reserve](/federal-reserve) — may respond to shutdown-related economic effects
+- [Recession](/recession/) — a severe shutdown could contribute to a downturn
+- [Inflation](/inflation/) — delays in government spending can affect prices
+- [Stock market](/stock-market/) — may decline during shutdown uncertainty
+- [Federal reserve](/federal-reserve/) — may respond to shutdown-related economic effects
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **reverse repurchase agreement** — or **reverse repo** — is the opposite side of a [repurchase agreement](/repurchase-agreement). Rather than borrowing cash by selling securities, a party lends cash by purchasing securities with an agreement to sell them back at a higher price on a future date. Reverse repos are used to deploy excess cash earning a modest return, or by central banks to drain [liquidity](/stock-exchange) from the banking system.*
+*A **reverse repurchase agreement** — or **reverse repo** — is the opposite side of a [repurchase agreement](/repurchase-agreement/). Rather than borrowing cash by selling securities, a party lends cash by purchasing securities with an agreement to sell them back at a higher price on a future date. Reverse repos are used to deploy excess cash earning a modest return, or by central banks to drain [liquidity](/stock-exchange/) from the banking system.*
 
 <div class="wiki-hatnote">
 
-For the opposite transaction, see [repurchase agreement](/repurchase-agreement). For other cash management vehicles, see [money market fund](/mutual-fund) and [Treasury bill](/treasury-bill).
+For the opposite transaction, see [repurchase agreement](/repurchase-agreement/). For other cash management vehicles, see [money market fund](/mutual-fund/) and [Treasury bill](/treasury-bill/).
 
 </div>
 
@@ -35,14 +35,14 @@ For the opposite transaction, see [repurchase agreement](/repurchase-agreement).
 | **Reverse repo rate** | The return earned on the cash lent |
 | **Security ownership** | Lender (reverse-repo party) never takes ownership |
 | **Interest received** | Accrues from the rate spread |
-| **Participants** | Corporations, [hedge funds](/hedge-fund), central banks |
+| **Participants** | Corporations, [hedge funds](/hedge-fund/), central banks |
 | **Use cases** | Cash management, cash deployment, liquidity drainage |
 
 </aside>
 
 ## How reverse repos work
 
-A corporation has $500 million of excess cash and wants to earn a return without taking [duration](/duration) or credit risk. It conducts a reverse repo with a securities dealer: it lends $500 million in exchange for Treasury securities as collateral.
+A corporation has $500 million of excess cash and wants to earn a return without taking [duration](/duration/) or credit risk. It conducts a reverse repo with a securities dealer: it lends $500 million in exchange for Treasury securities as collateral.
 
 The dealer agrees to repurchase the Treasuries tomorrow for $500.1 million. The $100,000 spread (the reverse repo rate) is the return the corporation earns — approximately 0.02% daily or 7% annualized.
 
@@ -50,17 +50,17 @@ From the corporation's perspective, it has lent cash, received safe collateral (
 
 ## Reverse repo as cash management
 
-Corporations, [mutual funds](/mutual-fund), and other investors use reverse repos as a cash management tool:
+Corporations, [mutual funds](/mutual-fund/), and other investors use reverse repos as a cash management tool:
 
 - **Overnight cash** — Excess cash that is not needed until tomorrow can be invested overnight in a reverse repo, earning a modest return.
 - **Short-term cash** — Cash that will not be needed for 1–3 months can be locked in a term reverse repo for a predetermined return.
 - **Collateral management** — Some investors conduct reverse repos to temporarily borrow securities needed for transactions.
 
-The advantage of reverse repos over [Treasury bills](/treasury-bill) or money-market funds is certainty and collateral control. The investor knows exactly what will be repurchased and at what price; there is no secondary market [liquidity](/stock-exchange) risk.
+The advantage of reverse repos over [Treasury bills](/treasury-bill/) or money-market funds is certainty and collateral control. The investor knows exactly what will be repurchased and at what price; there is no secondary market [liquidity](/stock-exchange/) risk.
 
 ## Federal Reserve reverse repos
 
-The Federal Reserve conducts large-scale reverse repo operations to manage banking system [liquidity](/stock-exchange) and control short-term [interest rates](/interest-rate). When the Fed wants to reduce cash in the system, it can conduct reverse repos: it offers to purchase securities with an agreement to sell them back, draining cash.
+The Federal Reserve conducts large-scale reverse repo operations to manage banking system [liquidity](/stock-exchange/) and control short-term [interest rates](/interest-rate/). When the Fed wants to reduce cash in the system, it can conduct reverse repos: it offers to purchase securities with an agreement to sell them back, draining cash.
 
 The Fed's reverse repo operations during 2019 reached historic levels, signaling stress in money markets. In 2021–2023, the Fed's reverse repo usage soared above $2 trillion daily as the Fed drained cash post-QE.
 
@@ -74,15 +74,15 @@ Haircuts vary by collateral type and market conditions. Treasury haircuts are mi
 
 ## Reverse repos vs. Treasury bills
 
-A reverse repo and a [Treasury bill](/treasury-bill) both provide safe, short-term cash deployment. Differences:
+A reverse repo and a [Treasury bill](/treasury-bill/) both provide safe, short-term cash deployment. Differences:
 
-- **Reverse repos** offer slightly higher returns because they are collateralized by the lender; [Treasury bills](/treasury-bill) offer lower returns because they are sovereign debt.
+- **Reverse repos** offer slightly higher returns because they are collateralized by the lender; [Treasury bills](/treasury-bill/) offer lower returns because they are sovereign debt.
 - **Treasury bills** are liquid (trade in secondary markets); reverse repos are less liquid (typically held to maturity).
-- **Reverse repos** require dealing with a counterparty; [Treasury bills](/treasury-bill) trade with primary dealers.
+- **Reverse repos** require dealing with a counterparty; [Treasury bills](/treasury-bill/) trade with primary dealers.
 
-For investors seeking maximum safety and [liquidity](/stock-exchange), [Treasury bills](/treasury-bill) are preferable. For investors willing to accept counterparty risk, reverse repos offer higher yields.
+For investors seeking maximum safety and [liquidity](/stock-exchange/), [Treasury bills](/treasury-bill/) are preferable. For investors willing to accept counterparty risk, reverse repos offer higher yields.
 
-## Comparison to [repurchase agreements](/repurchase-agreement)
+## Comparison to [repurchase agreements](/repurchase-agreement/)
 
 From Party A's perspective:
 - **Repo** = "I sell securities for cash; I will repurchase them" (borrowing)
@@ -104,18 +104,18 @@ These are the same transaction viewed from opposite sides. When a dealer is doin
 
 ### Closely related
 
-- [Repurchase agreement](/repurchase-agreement) — the opposite side
-- [Treasury bill](/treasury-bill) — alternative cash deployment vehicle
-- [Commercial paper](/commercial-paper) — corporate funding alternative
-- [Money market fund](/mutual-fund) — cash management vehicle
-- [Collateral](/bond) — securities backing the reverse repo
+- [Repurchase agreement](/repurchase-agreement/) — the opposite side
+- [Treasury bill](/treasury-bill/) — alternative cash deployment vehicle
+- [Commercial paper](/commercial-paper/) — corporate funding alternative
+- [Money market fund](/mutual-fund/) — cash management vehicle
+- [Collateral](/bond/) — securities backing the reverse repo
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — primary reverse repo user
-- [Interest rate](/interest-rate) — determines reverse repo returns
-- [Monetary policy](/central-bank) — reverse repos implement policy
-- [Liquidity](/stock-exchange) — reverse repos manage banking system liquidity
-- [Financial system](/stock-market) — reverse repos are systemic infrastructure
+- [Federal Reserve](/federal-reserve/) — primary reverse repo user
+- [Interest rate](/interest-rate/) — determines reverse repo returns
+- [Monetary policy](/central-bank/) — reverse repos implement policy
+- [Liquidity](/stock-exchange/) — reverse repos manage banking system liquidity
+- [Financial system](/stock-market/) — reverse repos are systemic infrastructure
 
 </div>

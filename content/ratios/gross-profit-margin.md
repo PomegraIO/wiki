@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the highest-level profitability margin. For margins after operating expenses, see [operating margin](/operating-margin) and [EBIT margin](/ebit-margin). For bottom-line profitability, see [net profit margin](/net-profit-margin).
+This entry covers the highest-level profitability margin. For margins after operating expenses, see [operating margin](/operating-margin/) and [EBIT margin](/ebit-margin/). For bottom-line profitability, see [net profit margin](/net-profit-margin/).
 
 </div>
 
@@ -127,7 +127,7 @@ A company with gross margin declining for three years despite revenue growth is 
 
 ## Gross margin vs. operating margin and net margin
 
-Gross margin is the first profitability layer. The [operating margin](/operating-margin) (operating income ÷ revenue) subtracts operating expenses. The [net profit margin](/net-profit-margin) (net income ÷ revenue) subtracts everything, including taxes and interest.
+Gross margin is the first profitability layer. The [operating margin](/operating-margin/) (operating income ÷ revenue) subtracts operating expenses. The [net profit margin](/net-profit-margin/) (net income ÷ revenue) subtracts everything, including taxes and interest.
 
 A company can have high gross margin but low net margin if operating expenses or financing costs are high. Following the progression (gross → operating → net) tells you where the company is leaking money.
 
@@ -149,15 +149,15 @@ A company with 50% gross margin, 20% operating margin, and 10% net margin is typ
 
 ### Closely related
 
-- [Operating margin](/operating-margin) — profitability after operating expenses
-- [EBIT margin](/ebit-margin) — profitability before interest and taxes
-- [Net profit margin](/net-profit-margin) — profitability after all costs
+- [Operating margin](/operating-margin/) — profitability after operating expenses
+- [EBIT margin](/ebit-margin/) — profitability before interest and taxes
+- [Net profit margin](/net-profit-margin/) — profitability after all costs
 - Cost of goods sold — the direct costs subtracted
-- [Contribution margin](/contribution-margin) — margin on incremental sales
+- [Contribution margin](/contribution-margin/) — margin on incremental sales
 
 ### Wider context
 
-- [Income statement](/income-statement) — where these margins appear
+- [Income statement](/income-statement/) — where these margins appear
 - Pricing power — what gross margin reveals
 - Operating leverage — how fixed costs affect margins
 - Product mix — what drives margin changes

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*An **Electronic Communication Network (ECN)** is a computerized trading system that automatically matches buy and sell orders without human intermediaries. ECNs are a type of [alternative trading system](/alternative-trading-system) and pioneered the shift toward electronic, automated order matching. Major ECNs have become fully integrated into broader market infrastructure; some have evolved into exchanges or been acquired by larger venues.*
+*An **Electronic Communication Network (ECN)** is a computerized trading system that automatically matches buy and sell orders without human intermediaries. ECNs are a type of [alternative trading system](/alternative-trading-system/) and pioneered the shift toward electronic, automated order matching. Major ECNs have become fully integrated into broader market infrastructure; some have evolved into exchanges or been acquired by larger venues.*
 
 <div class="wiki-hatnote">
 
-This entry is about automated order-matching systems. For the broader category, see [alternative trading system](/alternative-trading-system); for exchange-operated systems, see [stock exchange](/stock-exchange).
+This entry is about automated order-matching systems. For the broader category, see [alternative trading system](/alternative-trading-system/); for exchange-operated systems, see [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -40,7 +40,7 @@ This entry is about automated order-matching systems. For the broader category, 
 
 ## History of ECNs
 
-The first ECNs emerged in the early-to-mid 1990s, pioneering electronic order matching that competed with traditional stock exchange and [over-the-counter](/over-the-counter-market) dealer networks.
+The first ECNs emerged in the early-to-mid 1990s, pioneering electronic order matching that competed with traditional stock exchange and [over-the-counter](/over-the-counter-market/) dealer networks.
 
 **Instinet** (founded 1969, popularized in the 1980s-90s) was a prototype; it provided electronic order matching for institutions.
 
@@ -108,7 +108,7 @@ Most original independent ECNs no longer exist as standalone entities:
 What remains are:
 
 - **Exchange-operated ECN systems:** NYSE, NASDAQ, Cboe all operate electronic order-matching systems that are functionally ECNs.
-- **Independent ATSs:** Some independent [alternative trading systems](/alternative-trading-system) operate similarly to historical ECNs (e.g., Turquoise in Europe).
+- **Independent ATSs:** Some independent [alternative trading systems](/alternative-trading-system/) operate similarly to historical ECNs (e.g., Turquoise in Europe).
 
 ## Impact on markets
 
@@ -122,12 +122,12 @@ ECNs transformed stock market structure:
 
 ## Regulation of ECNs
 
-ECNs are regulated as [alternative trading systems](/alternative-trading-system) under SEC Rule 10b-2. They must:
+ECNs are regulated as [alternative trading systems](/alternative-trading-system/) under SEC Rule 10b-2. They must:
 
 - Register with the SEC.
 - Provide fair access to qualified participants.
 - Adopt fair and orderly market rules.
-- Report trades to the [consolidated tape](/consolidated-tape).
+- Report trades to the [consolidated tape](/consolidated-tape/).
 
 The regulatory framework has largely been successful in managing ECN operations, though concerns about systemic stability persist.
 
@@ -137,18 +137,18 @@ The regulatory framework has largely been successful in managing ECN operations,
 
 ### Closely related
 
-- [Alternative trading system](/alternative-trading-system) — the regulatory category
-- [Stock exchange](/stock-exchange) — now also operate as ECNs
-- [Order book](/stock-market) — central to ECN operation
-- [Automated trading](/ecn-detail) — what ECNs facilitate
-- [Consolidated tape](/consolidated-tape) — publishes ECN trades
+- [Alternative trading system](/alternative-trading-system/) — the regulatory category
+- [Stock exchange](/stock-exchange/) — now also operate as ECNs
+- [Order book](/stock-market/) — central to ECN operation
+- [Automated trading](/ecn-detail/) — what ECNs facilitate
+- [Consolidated tape](/consolidated-tape/) — publishes ECN trades
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — component of
-- [Market structure](/stock-market) — revolutionized by ECNs
-- [Liquidity](/secondary-market) — improved by ECN competition
-- [Speed](/high-frequency-trading) — enabled by ECNs
-- [High-frequency trading](/stock-market) — made possible by ECNs
+- [Secondary market](/secondary-market/) — component of
+- [Market structure](/stock-market/) — revolutionized by ECNs
+- [Liquidity](/secondary-market/) — improved by ECN competition
+- [Speed](/high-frequency-trading/) — enabled by ECNs
+- [High-frequency trading](/stock-market/) — made possible by ECNs
 
 </div>

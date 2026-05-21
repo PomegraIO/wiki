@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For public trading, see [lit venue](/lit-venue). For hidden orders on a lit venue, see [hidden order](/hidden-order) and [iceberg order](/iceberg-order).
+For public trading, see [lit venue](/lit-venue/). For hidden orders on a lit venue, see [hidden order](/hidden-order/) and [iceberg order](/iceberg-order/).
 
 </div>
 
@@ -139,29 +139,29 @@ Regulators have tightened rules, but concerns persist.
 
 ### Closely related
 
-- [Lit venue](/lit-venue) — public exchanges where prices are discovered
-- [Hidden order](/hidden-order) — large orders hidden on lit venues
-- [Iceberg order](/iceberg-order) — visible tip, hidden size on lit venue
+- [Lit venue](/lit-venue/) — public exchanges where prices are discovered
+- [Hidden order](/hidden-order/) — large orders hidden on lit venues
+- [Iceberg order](/iceberg-order/) — visible tip, hidden size on lit venue
 - ATS — alternative trading systems, a category including dark pools
 
 ### Execution and market structure
 
-- [Best execution](/best-execution) — brokers must ensure quality even in dark pools
-- [NBBO](/nbbo) — national best bid-offer; dark pools reference this
+- [Best execution](/best-execution/) — brokers must ensure quality even in dark pools
+- [NBBO](/nbbo/) — national best bid-offer; dark pools reference this
 - Market impact — dark pools minimize this for large orders
 - Block trading — common use case for dark pools
 
 ### Regulatory
 
-- [Regulation SHO](/regulation-sho) — governing short selling and dark pools
+- [Regulation SHO](/regulation-sho/) — governing short selling and dark pools
 - SEC — regulates dark pools
-- [FINRA](/finra) — enforces rules for member brokers
+- [FINRA](/finra/) — enforces rules for member brokers
 - Trade reporting — dark pools must report to regulators
 
 ### Advanced topics
 
-- [High-frequency trading](/high-frequency-trading) — uses dark pools strategically
-- [Algorithmic trading](/algorithmic-trading) — breaks large orders across venues
+- [High-frequency trading](/high-frequency-trading/) — uses dark pools strategically
+- [Algorithmic trading](/algorithmic-trading/) — breaks large orders across venues
 - Information leakage — risk when using dark pools
 
 </div>

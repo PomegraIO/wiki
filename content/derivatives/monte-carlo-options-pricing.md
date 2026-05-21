@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **Monte Carlo option pricing** method values [option](/option)s by simulating thousands (or millions) of possible price paths from today to [expiration date](/expiration-date), calculating the option payoff on each path, and averaging to find expected value. Monte Carlo is particularly suited to exotic options ([asian-option](/asian-option), [barrier-option](/barrier-option)) with path-dependent payoffs that [Black-Scholes model](/black-scholes-model) cannot handle analytically. It is more flexible than [binomial-option-pricing](/binomial-option-pricing) but computationally intensive.*
+*The **Monte Carlo option pricing** method values [option](/option/)s by simulating thousands (or millions) of possible price paths from today to [expiration date](/expiration-date/), calculating the option payoff on each path, and averaging to find expected value. Monte Carlo is particularly suited to exotic options ([asian-option](/asian-option/), [barrier-option](/barrier-option/)) with path-dependent payoffs that [Black-Scholes model](/black-scholes-model/) cannot handle analytically. It is more flexible than [binomial-option-pricing](/binomial-option-pricing/) but computationally intensive.*
 
 <aside class="wiki-infobox">
 
@@ -51,7 +51,7 @@ Option Value = e^(−r×T) × (1/N) × Σ payoff_i
 
 ## Example: Asian option
 
-An [asian-option](/asian-option) [call](/call-option) struck at $100 requires averaging the price over the option's life.
+An [asian-option](/asian-option/) [call](/call-option/) struck at $100 requires averaging the price over the option's life.
 
 - Simulate 10,000 price paths
 - On each path, calculate the average price
@@ -59,7 +59,7 @@ An [asian-option](/asian-option) [call](/call-option) struck at $100 requires av
 - Average all 10,000 payoffs
 - Discount by risk-free rate
 
-This can be done analytically for some options ([Black-Scholes model](/black-scholes-model)) but Monte Carlo handles any averaging rule.
+This can be done analytically for some options ([Black-Scholes model](/black-scholes-model/)) but Monte Carlo handles any averaging rule.
 
 ## Stochastic processes
 
@@ -107,7 +107,7 @@ Bumping is simple but expensive (requires re-running all simulations).
 
 ## Applications
 
-**Exotic options:** [Basket](/basket-option), [asian-option](/asian-option), [barrier](/barrier-option), lookback, rainbow options.
+**Exotic options:** [Basket](/basket-option/), [asian-option](/asian-option/), [barrier](/barrier-option/), lookback, rainbow options.
 
 **Stochastic volatility:** Models where volatility itself changes randomly.
 
@@ -135,7 +135,7 @@ Bumping is simple but expensive (requires re-running all simulations).
 
 - [Black-Scholes model](/black-scholes-model/) — analytical for simple options
 - [Binomial option pricing](/binomial-option-pricing/) — tree-based alternative
-- [Finite difference](/monte-carlo-options-pricing) — solving PDE numerically
+- [Finite difference](/monte-carlo-options-pricing/) — solving PDE numerically
 
 ### Exotic and complex options
 
@@ -147,8 +147,8 @@ Bumping is simple but expensive (requires re-running all simulations).
 ### Methods and techniques
 
 - [Stochastic volatility](/volatility-smile/) — simulation models
-- [Variance reduction](/monte-carlo-options-pricing) — speed up convergence
-- [Quasi-random numbers](/monte-carlo-options-pricing) — better convergence
+- [Variance reduction](/monte-carlo-options-pricing/) — speed up convergence
+- [Quasi-random numbers](/monte-carlo-options-pricing/) — better convergence
 - [Greeks](/options-greeks/) — sensitivity computations
 
 ### Deeper context

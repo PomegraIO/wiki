@@ -86,9 +86,9 @@ A tornado chart immediately shows which assumptions matter most. If perpetual gr
 
 **Linear assumption, but relationships might not be.** If you assume margins improve 1% per year, reaching 25%, but actually the industry is consolidating and will commoditize, the linear assumption is wrong.
 
-**Doesn't capture correlations.** In reality, if growth is high, margins often face pressure (competition intensifies). Sensitivity analysis assumes these move independently. [Monte Carlo](/monte-carlo-valuation) is better for correlations.
+**Doesn't capture correlations.** In reality, if growth is high, margins often face pressure (competition intensifies). Sensitivity analysis assumes these move independently. [Monte Carlo](/monte-carlo-valuation/) is better for correlations.
 
-**Multiple assumptions can't fail simultaneously.** A true disaster case might involve simultaneous failure of growth, margins, and cost of capital. Sensitivity analysis doesn't easily model this. [Scenario analysis](/scenario-valuation) does.
+**Multiple assumptions can't fail simultaneously.** A true disaster case might involve simultaneous failure of growth, margins, and cost of capital. Sensitivity analysis doesn't easily model this. [Scenario analysis](/scenario-valuation/) does.
 
 ## Best practice
 
@@ -121,16 +121,16 @@ This is simpler and clearer than a table.
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — what is being analyzed
-- [Terminal value](/terminal-value) — usually most sensitive
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the fragile assumption
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — another sensitive input
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — what is being analyzed
+- [Terminal value](/terminal-value/) — usually most sensitive
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the fragile assumption
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — another sensitive input
 
 ### Alternative uncertainty approaches
 
-- [Monte-Carlo valuation](/monte-carlo-valuation) — continuous distributions
-- [Scenario valuation](/scenario-valuation) — discrete cases
-- [Football field valuation](/football-field-valuation) — ranges and ranges
+- [Monte-Carlo valuation](/monte-carlo-valuation/) — continuous distributions
+- [Scenario valuation](/scenario-valuation/) — discrete cases
+- [Football field valuation](/football-field-valuation/) — ranges and ranges
 
 ### Communication
 

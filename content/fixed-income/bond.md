@@ -11,11 +11,11 @@ keywords:
   - yield
 image: "/svg/fixed-income.svg"
 ---
-*A **bond** is a tradeable IOU. When you buy a bond, you are lending money to a government or corporation and getting a promise in return: they will pay you interest (called a **coupon**) at regular intervals and repay the full amount (the **face value** or **principal**) on a set date (the **maturity date**). Bonds are the senior alternative to [stocks](/stock)—more stable, lower-return, but paid before shareholders if anything goes wrong.*
+*A **bond** is a tradeable IOU. When you buy a bond, you are lending money to a government or corporation and getting a promise in return: they will pay you interest (called a **coupon**) at regular intervals and repay the full amount (the **face value** or **principal**) on a set date (the **maturity date**). Bonds are the senior alternative to [stocks](/stock/)—more stable, lower-return, but paid before shareholders if anything goes wrong.*
 
 <div class="wiki-hatnote">
 
-This entry covers bonds as a financial instrument. For the broader category of fixed-income securities, consult your fixed-income manager; for the behaviour of bonds in a portfolio, see [asset allocation](/asset-allocation).
+This entry covers bonds as a financial instrument. For the broader category of fixed-income securities, consult your fixed-income manager; for the behaviour of bonds in a portfolio, see [asset allocation](/asset-allocation/).
 
 </div>
 
@@ -36,14 +36,14 @@ This entry covers bonds as a financial instrument. For the broader category of f
 | **Maturity date** | When the principal is repaid |
 | **Coupon rate** | Interest as a percentage of face value |
 | **Yield** | The effective return, accounting for price paid |
-| **Duration** | Sensitivity to [interest rate](/interest-rate) changes |
+| **Duration** | Sensitivity to [interest rate](/interest-rate/) changes |
 | **Rating** | Credit quality (AAA is safest, D is default) |
 
 </aside>
 
 ## The simplest financial instrument
 
-In concept, a bond is simpler than a [stock](/stock). You lend $1,000 to a borrower. They promise to pay you $50 per year (the coupon, 5%) for 10 years, then return your $1,000 on the maturity date. You know exactly what you will receive, when you will receive it—assuming they don't default.
+In concept, a bond is simpler than a [stock](/stock/). You lend $1,000 to a borrower. They promise to pay you $50 per year (the coupon, 5%) for 10 years, then return your $1,000 on the maturity date. You know exactly what you will receive, when you will receive it—assuming they don't default.
 
 Bonds are issued by governments (federal, state, local) and corporations. A US Treasury bond is backed by the full faith and credit of the US government, the safest borrower in the world. A corporate bond is backed only by the issuer's ability and willingness to repay—hence it is riskier and pays a higher coupon.
 
@@ -53,11 +53,11 @@ The coupon is fixed at issuance. If a bond is issued with a 5% coupon, it will p
 
 Here is where bonds get interesting and slightly counterintuitive. The bond itself (the contract) is fixed. But bonds trade in the secondary market, and their prices change constantly.
 
-Imagine you bought a $1,000 bond paying 5% ($50 per year) with 10 years to maturity. The next day, [interest rates](/interest-rate) rise and new bonds issued at the same credit quality now pay 6% ($60 per year). No one wants to pay $1,000 for a bond that pays 5% when they can buy a new bond that pays 6%. So the price of your bond falls—maybe to $920—so that its yield (the effective return to a new buyer) is 6%.
+Imagine you bought a $1,000 bond paying 5% ($50 per year) with 10 years to maturity. The next day, [interest rates](/interest-rate/) rise and new bonds issued at the same credit quality now pay 6% ($60 per year). No one wants to pay $1,000 for a bond that pays 5% when they can buy a new bond that pays 6%. So the price of your bond falls—maybe to $920—so that its yield (the effective return to a new buyer) is 6%.
 
 Conversely, if rates fall and new bonds pay 4%, your 5% bond becomes valuable. Its price rises to maybe $1,080 so that the yield to a new buyer is 4%.
 
-**Bond prices and interest rates move inversely.** This is one of the most important relationships in finance. When [the Federal Reserve](/federal-reserve) raises [interest rates](/interest-rate), existing bond prices fall. When it cuts rates, they rise.
+**Bond prices and interest rates move inversely.** This is one of the most important relationships in finance. When [the Federal Reserve](/federal-reserve/) raises [interest rates](/interest-rate/), existing bond prices fall. When it cuts rates, they rise.
 
 The longer the maturity, the more the price moves. A 30-year bond is far more sensitive to rate changes than a 2-year bond. This sensitivity is measured by **duration**.
 
@@ -73,9 +73,9 @@ Default is rare in investment-grade bonds but real in high-yield bonds. Historic
 
 ## The role of bonds in a portfolio
 
-Bonds are the dampener in a diversified portfolio. In a [bear market](/bear-market), when [stocks](/stock) fall 30%, [bonds](/bond) typically fall only a few percent (or rise, if rates fall in response to the crisis). This is why [asset allocation](/asset-allocation) places 40% or more of conservative portfolios in bonds.
+Bonds are the dampener in a diversified portfolio. In a [bear market](/bear-market/), when [stocks](/stock/) fall 30%, [bonds](/bond/) typically fall only a few percent (or rise, if rates fall in response to the crisis). This is why [asset allocation](/asset-allocation/) places 40% or more of conservative portfolios in bonds.
 
-The trade-off is clear: bonds offer lower returns but higher stability. Historically, [stocks](/stock) have returned about 9–10% per year (nominal, before [inflation](/inflation)); bonds have returned about 5%. Over decades, that 4–5% gap compounds into a vast difference in final wealth. But the ride is smoother.
+The trade-off is clear: bonds offer lower returns but higher stability. Historically, [stocks](/stock/) have returned about 9–10% per year (nominal, before [inflation](/inflation/)); bonds have returned about 5%. Over decades, that 4–5% gap compounds into a vast difference in final wealth. But the ride is smoother.
 
 Bonds are also a source of income. A portfolio of bonds paying 5% can yield 5% per year without selling a single bond—attractive for retirees or those living off their portfolio.
 
@@ -97,19 +97,19 @@ Despite their reputation for safety, bonds can become dangerous in certain envir
 
 ### Closely related
 
-- [Stock](/stock) — the riskier, higher-return alternative to bonds
-- [Yield curve](/yield-curve) — the relationship between bond maturity and yield
-- [Interest rate](/interest-rate) — the driver of bond prices
-- [Central bank](/central-bank) — which controls short-term rates
-- [Federal Reserve](/federal-reserve) — the US central bank
-- [Dividend](/dividend) — the income analogue in stocks
+- [Stock](/stock/) — the riskier, higher-return alternative to bonds
+- [Yield curve](/yield-curve/) — the relationship between bond maturity and yield
+- [Interest rate](/interest-rate/) — the driver of bond prices
+- [Central bank](/central-bank/) — which controls short-term rates
+- [Federal Reserve](/federal-reserve/) — the US central bank
+- [Dividend](/dividend/) — the income analogue in stocks
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — bonds form the conservative part
-- [Diversification](/diversification) — bonds reduce stock risk
-- [Inflation](/inflation) — erodes bond returns
-- [Recession](/recession) — often lowers rates and helps bonds
-- [Compound interest](/compound-interest) — how bond coupons accumulate
+- [Asset allocation](/asset-allocation/) — bonds form the conservative part
+- [Diversification](/diversification/) — bonds reduce stock risk
+- [Inflation](/inflation/) — erodes bond returns
+- [Recession](/recession/) — often lowers rates and helps bonds
+- [Compound interest](/compound-interest/) — how bond coupons accumulate
 
 </div>

@@ -84,9 +84,9 @@ Yet his ideas remain influential among heterodox economists, policymakers concer
 
 ### Closely related
 
-- [John Maynard Keynes](/john-maynard-keynes) — The Keynesian tradition Minsky worked within
-- [Paul Volcker](/paul-volcker) — A central banker who lived through crises
-- [Ben Bernanke](/ben-bernanke) — A policymaker who studied financial crises
+- [John Maynard Keynes](/john-maynard-keynes/) — The Keynesian tradition Minsky worked within
+- [Paul Volcker](/paul-volcker/) — A central banker who lived through crises
+- [Ben Bernanke](/ben-bernanke/) — A policymaker who studied financial crises
 
 ### Wider context
 

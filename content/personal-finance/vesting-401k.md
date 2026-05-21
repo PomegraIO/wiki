@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **vesting schedule** determines when employer contributions to a [401(k) plan](/401k-plan) become your property. Your own contributions are always 100% vested immediately, but employer [match](/401k-match) and contributions often vest gradually over time. If you leave before becoming fully vested, you forfeit the unvested portion.*
+*A **vesting schedule** determines when employer contributions to a [401(k) plan](/401k-plan/) become your property. Your own contributions are always 100% vested immediately, but employer [match](/401k-match/) and contributions often vest gradually over time. If you leave before becoming fully vested, you forfeit the unvested portion.*
 
 <div class="wiki-hatnote">
 
-For the overall match structure, see [401(k) match](/401k-match); for the 401(k) itself, see [401(k) plan](/401k-plan).
+For the overall match structure, see [401(k) match](/401k-match/); for the 401(k) itself, see [401(k) plan](/401k-plan/).
 
 </div>
 
@@ -41,9 +41,9 @@ For the overall match structure, see [401(k) match](/401k-match); for the 401(k)
 
 ## How vesting works
 
-Employer contributions to your [401(k)](/401k-plan) vest according to a schedule that the employer sets (subject to IRS rules limiting vesting periods). Your own employee deferrals are always 100% yours immediately; only employer contributions are subject to vesting.
+Employer contributions to your [401(k)](/401k-plan/) vest according to a schedule that the employer sets (subject to IRS rules limiting vesting periods). Your own employee deferrals are always 100% yours immediately; only employer contributions are subject to vesting.
 
-Example: your employer offers a 100% [match](/401k-match) of the first 3% of salary on a 3-year cliff vesting schedule.
+Example: your employer offers a 100% [match](/401k-match/) of the first 3% of salary on a 3-year cliff vesting schedule.
 
 - **Year 1:** You contribute $2,000, employer matches $2,000. You own your $2,000; the employer's $2,000 is not vested yet. If you leave in year 1, you take your $2,000 and lose the $2,000 match.
 - **Year 3:** You have worked three years. Your balance now includes your contributions ($6,000) and the employer match ($6,000), and all of it is vested. If you leave after year 3, you take all $12,000.
@@ -92,7 +92,7 @@ When you leave a job, you have several options for the vested balance:
 
 1. **Leave it in the old employer's plan.** The balance stays and continues to grow; you can withdraw at retirement age.
 2. **Roll to a new employer's 401(k).** If the new employer plan accepts rollovers.
-3. **Roll to an [IRA](/traditional-ira).** You can roll to a traditional IRA, gaining more investment options.
+3. **Roll to an [IRA](/traditional-ira/).** You can roll to a traditional IRA, gaining more investment options.
 
 In all cases, you keep only the vested balance. The unvested portion is forfeited and typically returned to the employer (as a "forfeiture pool" that can be reallocated to remaining employees or used for plan administration).
 
@@ -102,15 +102,15 @@ In all cases, you keep only the vested balance. The unvested portion is forfeite
 
 ### Closely related
 
-- [401(k) match](/401k-match) — what vesting applies to
-- [401(k) plan](/401k-plan) — the account structure
-- [Traditional IRA](/traditional-ira) — destination for rolled 401(k) balance
+- [401(k) match](/401k-match/) — what vesting applies to
+- [401(k) plan](/401k-plan/) — the account structure
+- [Traditional IRA](/traditional-ira/) — destination for rolled 401(k) balance
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — why staying until vesting is often valuable
-- [Savings rate](/savings-rate) — employer match contribution counts as savings
-- [FIRE movement](/fire-movement) — vesting matters for early-exit planning
-- [The four-percent rule](/the-four-percent-rule) — vested balance supports retirement
+- [Compound interest](/compound-interest/) — why staying until vesting is often valuable
+- [Savings rate](/savings-rate/) — employer match contribution counts as savings
+- [FIRE movement](/fire-movement/) — vesting matters for early-exit planning
+- [The four-percent rule](/the-four-percent-rule/) — vested balance supports retirement
 
 </div>

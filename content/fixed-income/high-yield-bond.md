@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For investment-grade bonds, see [investment-grade bond](/investment-grade-bond). For Treasury securities (risk-free), see [Treasury bond](/treasury-bond). For the broader concept, see [junk bond](/junk-bond).
+For investment-grade bonds, see [investment-grade bond](/investment-grade-bond/). For Treasury securities (risk-free), see [Treasury bond](/treasury-bond/). For the broader concept, see [junk bond](/junk-bond/).
 
 </div>
 
@@ -44,7 +44,7 @@ For investment-grade bonds, see [investment-grade bond](/investment-grade-bond).
 
 High-yield bonds exist because some borrowers cannot access investment-grade capital markets — either because they are too leveraged, too young, or in industries perceived as risky. These borrowers must offer high yields to attract capital.
 
-A 10-year Treasury at 3% and a 10-year high-yield bond at 8% differ by 500 basis points. That 500-basis-point spread represents the market's estimate of default risk, recovery loss (if default occurs), and [liquidity](/stock-exchange) discount. If the expected default probability is 5% and recovery is 40%, expected loss is 3% (5% × 60%), leaving 200 basis points as compensation for [liquidity](/stock-exchange) and other risks.
+A 10-year Treasury at 3% and a 10-year high-yield bond at 8% differ by 500 basis points. That 500-basis-point spread represents the market's estimate of default risk, recovery loss (if default occurs), and [liquidity](/stock-exchange/) discount. If the expected default probability is 5% and recovery is 40%, expected loss is 3% (5% × 60%), leaving 200 basis points as compensation for [liquidity](/stock-exchange/) and other risks.
 
 This math is backwards-looking and naive — defaults are correlated (many firms default together in recessions), and recovery is uncertain. The "true" compensation for risk in high-yield bonds is smaller than the nominal spread suggests. Yet the yields are real, and income-focused investors find them attractive.
 
@@ -52,7 +52,7 @@ This math is backwards-looking and naive — defaults are correlated (many firms
 
 High-yield default rates vary enormously with the economic cycle. In expansion periods, defaults run 1–2% annually. In recessions, rates spike to 4–8% or higher. During the 2008–2009 financial crisis, high-yield default rates exceeded 12%.
 
-When a high-yield issuer defaults, recovery is typically 20–40% of face value — bondholders lose half or more of their investment. This recovery loss is much worse than for [investment-grade bonds](/investment-grade-bond), which recover 40–60%. The difference reflects the more troubled state of high-yield issuers at default.
+When a high-yield issuer defaults, recovery is typically 20–40% of face value — bondholders lose half or more of their investment. This recovery loss is much worse than for [investment-grade bonds](/investment-grade-bond/), which recover 40–60%. The difference reflects the more troubled state of high-yield issuers at default.
 
 The recovery rate also depends on where the bond sits in the capital structure. Senior unsecured bonds recover more than subordinated bonds; secured bonds recover more than unsecured. A bondholder's position in the capital stack matters enormously.
 
@@ -60,23 +60,23 @@ The recovery rate also depends on where the bond sits in the capital structure. 
 
 High-yield bonds are held by investors explicitly seeking higher returns in exchange for accepting default risk:
 
-- **Specialized [hedge funds](/hedge-fund)** — Using credit research and market timing to outperform.
-- **[Mutual funds](/mutual-fund) and [ETFs](/etf)** — Providing diversified exposure to high-yield.
+- **Specialized [hedge funds](/hedge-fund/)** — Using credit research and market timing to outperform.
+- **[Mutual funds](/mutual-fund/) and [ETFs](/etf/)** — Providing diversified exposure to high-yield.
 - **Insurance companies** — Using higher yields to enhance returns on large investment portfolios.
 - **Pension funds** — Allocating a percentage to high-yield for return enhancement.
 - **Retail investors** — Seeking yield in a low-interest-rate environment.
 
-The largest holders are [mutual funds](/mutual-fund), [ETFs](/etf), and insurance companies, whose substantial capital has made the high-yield market deep and [liquid](/stock-exchange).
+The largest holders are [mutual funds](/mutual-fund/), [ETFs](/etf/), and insurance companies, whose substantial capital has made the high-yield market deep and [liquid](/stock-exchange/).
 
 ## Market structure and trading
 
-The high-yield bond market is dominated by institutional traders. Individual bonds often trade in smaller sizes and with wider [spreads](/credit-spread) than [investment-grade bonds](/investment-grade-bond). However, the most active high-yield issuers (private equity-backed firms, telecom companies, retailers) trade relatively actively.
+The high-yield bond market is dominated by institutional traders. Individual bonds often trade in smaller sizes and with wider [spreads](/credit-spread/) than [investment-grade bonds](/investment-grade-bond/). However, the most active high-yield issuers (private equity-backed firms, telecom companies, retailers) trade relatively actively.
 
-High-yield [credit spreads](/credit-spread) fluctuate dramatically with market sentiment. During periods of optimism, spreads compress (high-yield bonds outperform) as investors reach for yield. During periods of fear, spreads widen sharply, and high-yield bonds suffer losses. In the March 2020 COVID panic, high-yield spreads exceeded 1,000 basis points as investors rushed for safety.
+High-yield [credit spreads](/credit-spread/) fluctuate dramatically with market sentiment. During periods of optimism, spreads compress (high-yield bonds outperform) as investors reach for yield. During periods of fear, spreads widen sharply, and high-yield bonds suffer losses. In the March 2020 COVID panic, high-yield spreads exceeded 1,000 basis points as investors rushed for safety.
 
 ## Covenant quality and subordination
 
-High-yield bonds typically carry weaker covenants than [investment-grade bonds](/investment-grade-bond), giving issuers more flexibility to extract equity value. An issuer might be allowed to pay dividends to equity holders, issue additional debt, or sell key assets with limited bondholder consent.
+High-yield bonds typically carry weaker covenants than [investment-grade bonds](/investment-grade-bond/), giving issuers more flexibility to extract equity value. An issuer might be allowed to pay dividends to equity holders, issue additional debt, or sell key assets with limited bondholder consent.
 
 Weaker covenants benefit equity holders and management (who can cash out) but harm bondholders (whose claims are junior and less protected). Careful covenant review is essential when analyzing high-yield bonds.
 
@@ -88,9 +88,9 @@ This model works well when the business generates stable cash flow and the priva
 
 ## Fallen angels and market opportunities
 
-When an [investment-grade bond](/investment-grade-bond) is downgraded to high-yield (a "fallen angel"), it often experiences a sharp price decline as regulated investors are forced to sell. This creates opportunities for flexible investors to purchase distressed credits at attractive yields.
+When an [investment-grade bond](/investment-grade-bond/) is downgraded to high-yield (a "fallen angel"), it often experiences a sharp price decline as regulated investors are forced to sell. This creates opportunities for flexible investors to purchase distressed credits at attractive yields.
 
-Similarly, an issuer that improves and is upgraded from high-yield to [investment-grade bond](/investment-grade-bond) (a "rising star") can experience significant price appreciation. Credit analysts specializing in high-yield often focus on identifying turnaround stories.
+Similarly, an issuer that improves and is upgraded from high-yield to [investment-grade bond](/investment-grade-bond/) (a "rising star") can experience significant price appreciation. Credit analysts specializing in high-yield often focus on identifying turnaround stories.
 
 ## High-yield vs. Treasury returns
 
@@ -104,18 +104,18 @@ The chart of high-yield spreads over time shows a "risk-off" trade: when fear is
 
 ### Closely related
 
-- [Junk bond](/junk-bond) — the colloquial name for high-yield bonds
-- [Investment-grade bond](/investment-grade-bond) — safer, lower-yielding alternative
-- [Credit spread](/credit-spread) — why high-yield bonds yield so much more
-- [Credit rating](/credit-rating) — what defines speculative-grade status
-- [Corporate bond](/corporate-bond) — the broader category
+- [Junk bond](/junk-bond/) — the colloquial name for high-yield bonds
+- [Investment-grade bond](/investment-grade-bond/) — safer, lower-yielding alternative
+- [Credit spread](/credit-spread/) — why high-yield bonds yield so much more
+- [Credit rating](/credit-rating/) — what defines speculative-grade status
+- [Corporate bond](/corporate-bond/) — the broader category
 
 ### Wider context
 
-- [Bond](/bond) — debt securities generally
-- [Hedge fund](/hedge-fund) — major high-yield investors
-- [Mutual fund](/mutual-fund) — vehicle for diversified high-yield exposure
-- [Recession](/recession) — stress tests issuer solvency
-- [Central bank](/central-bank) — monetary policy affects high-yield returns
+- [Bond](/bond/) — debt securities generally
+- [Hedge fund](/hedge-fund/) — major high-yield investors
+- [Mutual fund](/mutual-fund/) — vehicle for diversified high-yield exposure
+- [Recession](/recession/) — stress tests issuer solvency
+- [Central bank](/central-bank/) — monetary policy affects high-yield returns
 
 </div>

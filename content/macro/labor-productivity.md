@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Labor productivity is [output](/gross-domestic-product) per unit of labor input, typically measured as [real GDP](/real-gdp) divided by total hours worked. It is the most widely watched [productivity](/productivity) metric because wages are ultimately paid out of what workers produce — sustained wage growth requires sustained productivity growth.*
+*Labor productivity is [output](/gross-domestic-product/) per unit of labor input, typically measured as [real GDP](/real-gdp/) divided by total hours worked. It is the most widely watched [productivity](/productivity/) metric because wages are ultimately paid out of what workers produce — sustained wage growth requires sustained productivity growth.*
 
 <div class="wiki-hatnote">
 
-Labor productivity = [Real GDP](/real-gdp) ÷ Total hours worked. It captures how much each hour of work generates in output, combining the effects of technological progress, capital per worker, and worker skill.
+Labor productivity = [Real GDP](/real-gdp/) ÷ Total hours worked. It captures how much each hour of work generates in output, combining the effects of technological progress, capital per worker, and worker skill.
 
 </div>
 
@@ -28,14 +28,14 @@ Labor productivity = [Real GDP](/real-gdp) ÷ Total hours worked. It captures ho
 
 |   |   |
 |---|---|
-| **Formula** | [Real GDP](/real-gdp) ÷ total hours worked |
+| **Formula** | [Real GDP](/real-gdp/) ÷ total hours worked |
 | **Measured in** | Output per hour (dollars or index) |
 | **Trend growth** | 1–2% annually (developed economies) |
 | **Frequency reported** | Quarterly, with lags |
 | **Best-known version** | Non-farm business sector (BLS) |
 | **Lag in reporting** | 30–60 days after period-end |
 | **Includes** | Capital deepening and technology effects |
-| **Excludes** | [Multifactor productivity](/multifactor-productivity) effect |
+| **Excludes** | [Multifactor productivity](/multifactor-productivity/) effect |
 
 </aside>
 
@@ -77,17 +77,17 @@ Labor productivity is cyclical:
 - **In early recoveries:** Output grows faster than hours (workers are called back or not hired initially), so productivity grows rapidly.
 - **In late expansions:** Output growth slows as workers are fully employed; productivity growth slows too.
 
-Economists distinguish between cyclical movements and trend productivity growth. The [Federal Reserve](/federal-reserve) tries to estimate the trend to avoid mistaking a cyclical dip for a long-run slowdown.
+Economists distinguish between cyclical movements and trend productivity growth. The [Federal Reserve](/federal-reserve/) tries to estimate the trend to avoid mistaking a cyclical dip for a long-run slowdown.
 
-## Productivity and [inflation](/inflation)
+## Productivity and [inflation](/inflation/)
 
-Rapid productivity growth can offset wage growth and other cost pressures, keeping [inflation](/inflation) stable. In the 1990s, strong productivity growth and stable [inflation](/inflation) coexisted. When productivity slows, the same wage growth generates more [inflation](/inflation).
+Rapid productivity growth can offset wage growth and other cost pressures, keeping [inflation](/inflation/) stable. In the 1990s, strong productivity growth and stable [inflation](/inflation/) coexisted. When productivity slows, the same wage growth generates more [inflation](/inflation/).
 
-This is one reason why the [Federal Reserve](/federal-reserve) watches productivity growth — if it sees productivity accelerating, it can tolerate faster wage and inflation growth without tightening monetary policy.
+This is one reason why the [Federal Reserve](/federal-reserve/) watches productivity growth — if it sees productivity accelerating, it can tolerate faster wage and inflation growth without tightening monetary policy.
 
 ## Productivity and unemployment
 
-In the long run, productivity and [unemployment](/unemployment-rate) are related but the relationship is complex:
+In the long run, productivity and [unemployment](/unemployment-rate/) are related but the relationship is complex:
 
 - **In the short run:** Rapid productivity growth can rise unemployment if it reflects labor-saving technology displacing workers.
 - **In the long run:** Productivity growth shifts workers to new sectors and occupations rather than causing permanent unemployment.
@@ -100,18 +100,18 @@ The question of whether automation will cause structural unemployment remains op
 
 ### Closely related
 
-- [Productivity](/productivity) — the broader concept
-- [Multifactor productivity](/multifactor-productivity) — adjusted for capital growth
+- [Productivity](/productivity/) — the broader concept
+- [Multifactor productivity](/multifactor-productivity/) — adjusted for capital growth
 - Capital deepening — adding capital per worker
-- [Potential GDP](/potential-gdp) — driven by labor productivity growth
+- [Potential GDP](/potential-gdp/) — driven by labor productivity growth
 - Wages — the dependent variable
 
 ### Broader context
 
-- [Gross Domestic Product](/gross-domestic-product) — the numerator in the ratio
-- [Unemployment rate](/unemployment-rate) — affected by productivity shocks
-- [Inflation](/inflation) — offset by productivity gains
-- [Business cycle](/business-cycle) — productivity is procyclical
+- [Gross Domestic Product](/gross-domestic-product/) — the numerator in the ratio
+- [Unemployment rate](/unemployment-rate/) — affected by productivity shocks
+- [Inflation](/inflation/) — offset by productivity gains
+- [Business cycle](/business-cycle/) — productivity is procyclical
 - Secular stagnation — low productivity growth
 
 </div>

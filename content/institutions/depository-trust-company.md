@@ -10,11 +10,11 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Depository Trust Company** (DTC) is the central securities depository for the United States, holding stocks and bonds in electronic form on behalf of financial institutions worldwide. A subsidiary of [DTCC](/dtcc), the DTC is the reason that securities no longer exist as physical certificates; shares and bonds now exist only as electronic entries in the DTC's systems.*
+*The **Depository Trust Company** (DTC) is the central securities depository for the United States, holding stocks and bonds in electronic form on behalf of financial institutions worldwide. A subsidiary of [DTCC](/dtcc/), the DTC is the reason that securities no longer exist as physical certificates; shares and bonds now exist only as electronic entries in the DTC's systems.*
 
 <div class="wiki-hatnote">
 
-The DTC is part of the broader DTCC infrastructure; for the settlement and clearing functions, see [DTCC](/dtcc).
+The DTC is part of the broader DTCC infrastructure; for the settlement and clearing functions, see [DTCC](/dtcc/).
 
 </div>
 
@@ -69,7 +69,7 @@ This arrangement has worked reliably for decades, though there have been ongoing
 
 ## Settlement infrastructure
 
-The DTC's role is intimately connected to settlement. When a trade occurs on the [NYSE](/new-york-stock-exchange) or other exchange, the DTC and the [NSCC](/dtcc) (another DTCC subsidiary) coordinate settlement: DTC moves the securities from the seller's account to the buyer's account, and cash flows from buyer to seller.
+The DTC's role is intimately connected to settlement. When a trade occurs on the [NYSE](/new-york-stock-exchange/) or other exchange, the DTC and the [NSCC](/dtcc/) (another DTCC subsidiary) coordinate settlement: DTC moves the securities from the seller's account to the buyer's account, and cash flows from buyer to seller.
 
 This happens automatically for most trades, reducing the settlement risk that would exist if securities and cash had to be moved independently.
 
@@ -87,19 +87,19 @@ Although the DTC operates primarily as a US depository, it serves a global inves
 
 ### Closely related
 
-- [DTCC](/dtcc) — parent organization
+- [DTCC](/dtcc/) — parent organization
 - Clearinghouse — settlement function
 - Settlement — what DTC enables
 - Depository — central role
-- [Stock](/stock) · [Bond](/bond) — assets held
+- [Stock](/stock/) · [Bond](/bond/) — assets held
 
 ### Wider context
 
-- [Broker](/broker) — intermediaries using DTC
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Broker](/broker/) — intermediaries using DTC
+- [Central bank](/central-bank/) — Federal Reserve oversight
 - Institutional investor — major participants
-- [Stock exchange](/stock-exchange) — source of trades
+- [Stock exchange](/stock-exchange/) — source of trades
 - Custody — DTC's core function
-- [Counterparty risk](/counterparty-risk) — risk DTC eliminates
+- [Counterparty risk](/counterparty-risk/) — risk DTC eliminates
 
 </div>

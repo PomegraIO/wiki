@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **currency board** is an institutional framework that locks a country's [currency](/floating-exchange-rate) to another currency through a [hard peg](/hard-peg) backed by law. The central bank (or currency board) must hold foreign-exchange reserves equal to 100% of the monetary base. This mechanical constraint makes it impossible to devalue unilaterally — and impossible to pursue independent monetary policy. Hong Kong and Estonia use currency boards.*
+*A **currency board** is an institutional framework that locks a country's [currency](/floating-exchange-rate/) to another currency through a [hard peg](/hard-peg/) backed by law. The central bank (or currency board) must hold foreign-exchange reserves equal to 100% of the monetary base. This mechanical constraint makes it impossible to devalue unilaterally — and impossible to pursue independent monetary policy. Hong Kong and Estonia use currency boards.*
 
 <div class="wiki-hatnote">
 
-For a soft peg without institutional constraint, see [soft peg](/soft-peg); for a hard peg without formal constraints, see [hard peg](/hard-peg); for the broader framework, see [currency peg](/currency-peg).
+For a soft peg without institutional constraint, see [soft peg](/soft-peg/); for a hard peg without formal constraints, see [hard peg](/hard-peg/); for the broader framework, see [currency peg](/currency-peg/).
 
 </div>
 
@@ -49,7 +49,7 @@ If someone wants to convert domestic currency to the anchor, the currency board 
 
 ## Monetary policy under a currency board
 
-Under a standard central bank, the central bank controls the money supply, sets [interest rates](/interest-rate), and can conduct open-market operations. Under a currency board, none of this is possible. The money supply is determined by the balance of payments.
+Under a standard central bank, the central bank controls the money supply, sets [interest rates](/interest-rate/), and can conduct open-market operations. Under a currency board, none of this is possible. The money supply is determined by the balance of payments.
 
 If a country runs a trade surplus (exports exceed imports), foreign currency flows in, the currency board buys it and issues domestic currency. The money supply expands automatically.
 
@@ -81,10 +81,10 @@ The most effective currency boards (like Hong Kong's) have no escape clauses and
 
 ### Closely related
 
-- [Currency peg](/currency-peg) — institutional peg variant
-- [Hard peg](/hard-peg) — currency boards as hard-peg examples
-- [Fixed exchange rate](/fixed-exchange-rate) — broader regime class
-- [Central bank](/central-bank) — replaced by currency board
+- [Currency peg](/currency-peg/) — institutional peg variant
+- [Hard peg](/hard-peg/) — currency boards as hard-peg examples
+- [Fixed exchange rate](/fixed-exchange-rate/) — broader regime class
+- [Central bank](/central-bank/) — replaced by currency board
 - Foreign exchange reserves — required at 100%
 
 ### Wider context
@@ -92,6 +92,6 @@ The most effective currency boards (like Hong Kong's) have no escape clauses and
 - Interest rate parity — eliminates monetary autonomy
 - Impossible trinity — currency boards surrender #3
 - Balance of payments — automatic adjustment under board
-- [Recession](/recession) — cannot be cushioned by monetary policy
+- [Recession](/recession/) — cannot be cushioned by monetary policy
 
 </div>

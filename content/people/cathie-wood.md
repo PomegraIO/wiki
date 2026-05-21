@@ -89,17 +89,17 @@ Whether her legacy is ultimately one of prescience or overconfidence depends on 
 
 ### Closely related
 
-- [Jeremy Grantham](/jeremy-grantham) — A long-term thematic investor
-- [Peter Lynch](/peter-lynch) — A growth stock picker
+- [Jeremy Grantham](/jeremy-grantham/) — A long-term thematic investor
+- [Peter Lynch](/peter-lynch/) — A growth stock picker
 - Carl Icahn — A concentrated position holder
-- [Bill Ackman](/bill-ackman) — A public conviction investor
+- [Bill Ackman](/bill-ackman/) — A public conviction investor
 
 ### Wider context
 
 - Growth stock — Her focus
-- [ETF](/etf) — Her vehicle
+- [ETF](/etf/) — Her vehicle
 - Innovation — Her theme
 - Disruptive technology — Her arena
-- [Stock market](/stock-market) — Where she bets
+- [Stock market](/stock-market/) — Where she bets
 
 </div>

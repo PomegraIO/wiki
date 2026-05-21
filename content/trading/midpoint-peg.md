@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **midpoint peg** is a specialized [peg order](/peg-order) that always prices itself at the midpoint of the bid-ask spread. If the bid is $50.00 and the ask is $50.02, your order price is automatically set to $50.01. As the spread moves or widens, your order price adjusts to track the new midpoint.*
+*A **midpoint peg** is a specialized [peg order](/peg-order/) that always prices itself at the midpoint of the bid-ask spread. If the bid is $50.00 and the ask is $50.02, your order price is automatically set to $50.01. As the spread moves or widens, your order price adjusts to track the new midpoint.*
 
 <div class="wiki-hatnote">
 
-For a peg to the bid or ask, see [peg order](/peg-order). For a fixed limit, see [limit order](/limit-order).
+For a peg to the bid or ask, see [peg order](/peg-order/). For a fixed limit, see [limit order](/limit-order/).
 
 </div>
 
@@ -57,7 +57,7 @@ As the spread changes, the peg price adjusts:
 
 **Passive participation.** By pricing at the midpoint, you are saying: "I am willing to trade at a fair price without chasing." This is attractive to passive investors and market makers who want liquidity without moving the price.
 
-**Reduced market impact.** Unlike a [market order](/market-order) that hits the ask (moving the market against you), a midpoint peg trades at the fair price.
+**Reduced market impact.** Unlike a [market order](/market-order/) that hits the ask (moving the market against you), a midpoint peg trades at the fair price.
 
 ## Execution dynamics of midpoint pegging
 
@@ -83,7 +83,7 @@ A midpoint peg order will fill only if:
 | **Adjustment** | Continuous (as spread changes) | Never; stays at the price you set |
 | **Execution likelihood** | Can improve as spread changes | Only if price falls to your fixed level |
 
-A **static midpoint limit order** is just a regular [limit order](/limit-order) set at a midpoint price you calculate once. A **midpoint peg** continuously adjusts.
+A **static midpoint limit order** is just a regular [limit order](/limit-order/) set at a midpoint price you calculate once. A **midpoint peg** continuously adjusts.
 
 ## Practical example
 
@@ -120,13 +120,13 @@ Some brokers offer "midpoint peg + tick" (peg at midpoint + 1 cent), which impro
 
 **Very wide spreads:** If the spread is $50.00 / $50.10 (a dime), the midpoint is $50.05. A buyer at $50.02 will not hit your midpoint peg. You might never fill.
 
-**Illiquid securities:** In thin stocks, spreads are wide and prices are erratic. Midpoint pegging does not help you fill; a [market order](/market-order) might be better.
+**Illiquid securities:** In thin stocks, spreads are wide and prices are erratic. Midpoint pegging does not help you fill; a [market order](/market-order/) might be better.
 
-**Trading away from the midpoint:** If you want to buy cheaper than the midpoint, a peg at the midpoint will not help. You need a lower [limit order](/limit-order).
+**Trading away from the midpoint:** If you want to buy cheaper than the midpoint, a peg at the midpoint will not help. You need a lower [limit order](/limit-order/).
 
 ## Midpoint pegging vs. dark pools
 
-[Dark pools](/dark-pool) often use midpoint pricing as their default execution method (trade at the midpoint of the lit market). This is similar in spirit to a midpoint peg order but in a private venue.
+[Dark pools](/dark-pool/) often use midpoint pricing as their default execution method (trade at the midpoint of the lit market). This is similar in spirit to a midpoint peg order but in a private venue.
 
 **Midpoint peg on lit venue:** Public, transparent, benefits from lit-market price discovery.
 
@@ -142,7 +142,7 @@ Some brokers offer "midpoint peg + tick" (peg at midpoint + 1 cent), which impro
 
 ## When NOT to use midpoint pegging
 
-**You want a specific price.** If you have a price target in mind, use a regular [limit order](/limit-order).
+**You want a specific price.** If you have a price target in mind, use a regular [limit order](/limit-order/).
 
 **Spreads are wide.** In illiquid markets, the midpoint might be too far from the real trading price.
 
@@ -154,23 +154,23 @@ Some brokers offer "midpoint peg + tick" (peg at midpoint + 1 cent), which impro
 
 ### Closely related
 
-- [Peg order](/peg-order) — general peg orders (bid, ask, or midpoint)
-- [Limit order](/limit-order) — standard fixed-price limit
+- [Peg order](/peg-order/) — general peg orders (bid, ask, or midpoint)
+- [Limit order](/limit-order/) — standard fixed-price limit
 - Bid-ask spread — the spread your order references
-- [Market order](/market-order) — immediate at current best price
+- [Market order](/market-order/) — immediate at current best price
 
 ### Market structure and dynamics
 
 - Order book — where midpoint pegs sit
-- [Fair value](/fair-value) — the midpoint represents this
+- [Fair value](/fair-value/) — the midpoint represents this
 - Liquidity — midpoint pegs help passive participation
 - Adverse selection — midpoint pricing reduces this
 
 ### Execution and venues
 
-- [Lit venue](/lit-venue) — where midpoint pegs are most transparent
-- [Dark pool](/dark-pool) — often uses midpoint pricing
-- [Best execution](/best-execution) — midpoint pegging helps achieve this
-- [Smart order router](/smart-order-router) — routes to best execution including midpoints
+- [Lit venue](/lit-venue/) — where midpoint pegs are most transparent
+- [Dark pool](/dark-pool/) — often uses midpoint pricing
+- [Best execution](/best-execution/) — midpoint pegging helps achieve this
+- [Smart order router](/smart-order-router/) — routes to best execution including midpoints
 
 </div>

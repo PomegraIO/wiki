@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **blockchain** is a [distributed ledger](/distributed-ledger) — a database maintained across many independent computers without a central authority. Data is grouped into blocks, each cryptographically referencing the previous block, creating an immutable chain. Blockchains use consensus mechanisms to ensure agreement across the network about which transactions are valid.*
+*A **blockchain** is a [distributed ledger](/distributed-ledger/) — a database maintained across many independent computers without a central authority. Data is grouped into blocks, each cryptographically referencing the previous block, creating an immutable chain. Blockchains use consensus mechanisms to ensure agreement across the network about which transactions are valid.*
 
 <div class="wiki-hatnote">
 
-This entry covers the core technology of blockchains. For specific consensus mechanisms, see [proof-of-work](/proof-of-work) or [proof-of-stake](/proof-of-stake); for cryptocurrencies built on blockchains, see [Bitcoin](/bitcoin) or [Ethereum](/ethereum).
+This entry covers the core technology of blockchains. For specific consensus mechanisms, see [proof-of-work](/proof-of-work/) or [proof-of-stake](/proof-of-stake/); for cryptocurrencies built on blockchains, see [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/).
 
 </div>
 
@@ -58,32 +58,32 @@ Traditional databases are controlled by a single organisation, which can alter r
 
 But with no central authority, nodes must agree on the state of the ledger. This is the **consensus problem**. Blockchains solve it through mechanisms like:
 
-- **[Proof-of-work](/proof-of-work)** — nodes compete to solve puzzles; the first to solve it proposes the next block and is rewarded.
-- **[Proof-of-stake](/proof-of-stake)** — validators who lock up collateral are selected to propose blocks; if they misbehave, they lose their collateral.
+- **[Proof-of-work](/proof-of-work/)** — nodes compete to solve puzzles; the first to solve it proposes the next block and is rewarded.
+- **[Proof-of-stake](/proof-of-stake/)** — validators who lock up collateral are selected to propose blocks; if they misbehave, they lose their collateral.
 
 Both mechanisms align incentives: nodes are rewarded for honest participation and punished for attacks.
 
 ## Immutability and finality
 
-A key property of blockchains is immutability — once a block is old enough, altering it becomes prohibitively expensive. On [Bitcoin](/bitcoin), a transaction buried under six blocks is considered final; reversing it would require re-mining all six blocks, costing more than the value stolen.
+A key property of blockchains is immutability — once a block is old enough, altering it becomes prohibitively expensive. On [Bitcoin](/bitcoin/), a transaction buried under six blocks is considered final; reversing it would require re-mining all six blocks, costing more than the value stolen.
 
 This is stronger than traditional databases, which rely on access controls and auditing. A blockchain records history in a way that is mathematically difficult to fake.
 
-However, "immutable" does not mean "perfectly immutable." With sufficient resources (>50% of the [hash rate](/hash-rate) on [Bitcoin](/bitcoin)), an attacker could reverse transactions. Blockchains trade off perfect immutability for economic finality — reversing old transactions is so expensive that it is not worth attempting.
+However, "immutable" does not mean "perfectly immutable." With sufficient resources (>50% of the [hash rate](/hash-rate/) on [Bitcoin](/bitcoin/)), an attacker could reverse transactions. Blockchains trade off perfect immutability for economic finality — reversing old transactions is so expensive that it is not worth attempting.
 
 ## Transparency and pseudonymity
 
-Most blockchains, including [Bitcoin](/bitcoin) and [Ethereum](/ethereum), are transparent — all transactions are public and visible to anyone. This allows anyone to verify the ledger independently, increasing confidence in its integrity.
+Most blockchains, including [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), are transparent — all transactions are public and visible to anyone. This allows anyone to verify the ledger independently, increasing confidence in its integrity.
 
-However, transparency does not mean users are identified. Addresses are pseudonymous strings of characters; unless someone publicly reveals which address they control, their identity remains private. This is why [Bitcoin](/bitcoin) is often called "pseudonymous" rather than "anonymous." With sufficient analysis, transactions can sometimes be linked to identities.
+However, transparency does not mean users are identified. Addresses are pseudonymous strings of characters; unless someone publicly reveals which address they control, their identity remains private. This is why [Bitcoin](/bitcoin/) is often called "pseudonymous" rather than "anonymous." With sufficient analysis, transactions can sometimes be linked to identities.
 
-[Monero](/monero) is an exception — it uses cryptographic techniques to hide sender, recipient, and amounts, achieving stronger privacy at the cost of requiring trust that the cryptography is sound.
+[Monero](/monero/) is an exception — it uses cryptographic techniques to hide sender, recipient, and amounts, achieving stronger privacy at the cost of requiring trust that the cryptography is sound.
 
 ## Public versus private blockchains
 
-A [public blockchain](/public-blockchain) like [Bitcoin](/bitcoin) is permissionless — anyone can run a node, validate transactions, or participate in consensus. No gatekeeper controls access.
+A [public blockchain](/public-blockchain/) like [Bitcoin](/bitcoin/) is permissionless — anyone can run a node, validate transactions, or participate in consensus. No gatekeeper controls access.
 
-A [private blockchain](/private-blockchain) restricts participation to approved entities. Private blockchains are useful for enterprise applications (supply-chain tracking, internal record-keeping) where decentralisation is less critical than control and efficiency.
+A [private blockchain](/private-blockchain/) restricts participation to approved entities. Private blockchains are useful for enterprise applications (supply-chain tracking, internal record-keeping) where decentralisation is less critical than control and efficiency.
 
 ## The blockchain trilemma
 
@@ -93,7 +93,7 @@ Blockchains face a fundamental trade-off called the **scalability trilemma**: it
 - **Security.** Difficult and expensive to attack or alter past transactions.
 - **Scalability.** Fast transactions with high throughput (thousands per second).
 
-Different blockchains prioritise differently. [Bitcoin](/bitcoin) prioritises security and decentralisation; [Solana](/solana) prioritises scalability and security, sacrificing decentralisation slightly; [Ethereum](/ethereum) aims for a balanced approach, with layer-2 solutions adding scalability.
+Different blockchains prioritise differently. [Bitcoin](/bitcoin/) prioritises security and decentralisation; [Solana](/solana/) prioritises scalability and security, sacrificing decentralisation slightly; [Ethereum](/ethereum/) aims for a balanced approach, with layer-2 solutions adding scalability.
 
 ## Use cases and criticisms
 
@@ -106,7 +106,7 @@ Blockchains are suited for scenarios where:
 Criticisms include:
 
 - **Slow and expensive.** Blockchains are orders of magnitude slower than centralised databases.
-- **Energy-intensive.** [Proof-of-work](/proof-of-work) consensus consumes substantial electricity.
+- **Energy-intensive.** [Proof-of-work](/proof-of-work/) consensus consumes substantial electricity.
 - **Immutability as a bug.** The inability to reverse transactions is problematic if errors or fraud occur.
 - **Not-invented-here syndrome.** Many proposed uses for blockchains could be solved more simply without one.
 
@@ -116,18 +116,18 @@ Criticisms include:
 
 ### Closely related
 
-- [Distributed ledger](/distributed-ledger) — the foundational concept
-- [Proof-of-work](/proof-of-work) — a consensus mechanism
-- [Proof-of-stake](/proof-of-stake) — an alternative consensus mechanism
-- [Bitcoin](/bitcoin) — the first and most famous blockchain
-- [Ethereum](/ethereum) — a blockchain with smart contracts
+- [Distributed ledger](/distributed-ledger/) — the foundational concept
+- [Proof-of-work](/proof-of-work/) — a consensus mechanism
+- [Proof-of-stake](/proof-of-stake/) — an alternative consensus mechanism
+- [Bitcoin](/bitcoin/) — the first and most famous blockchain
+- [Ethereum](/ethereum/) — a blockchain with smart contracts
 
 ### Wider context
 
-- [Public blockchain](/public-blockchain) — decentralised and permissionless
-- [Private blockchain](/private-blockchain) — restricted and permissioned
+- [Public blockchain](/public-blockchain/) — decentralised and permissionless
+- [Private blockchain](/private-blockchain/) — restricted and permissioned
 - Smart contract — programs running on blockchains
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where blockchain assets trade
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where blockchain assets trade
 - Layer-2 — scaling solutions built on top of blockchains
 
 </div>

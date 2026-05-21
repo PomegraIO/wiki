@@ -41,13 +41,13 @@ Jones was exceptional at reading these signals. In 1980, he was working as a com
 
 ## The 1987 trade
 
-Jones's most famous trade came on Black Monday, October 19, 1987, when the [stock market](/stock-market) fell 22% in a single day. Unlike most traders caught by surprise, Jones had been positioning for the crash for weeks. He had shorted the market, and as it fell, he made more than $100 million. But what set this apart from other profitable crash trades was that he had identified the risk *before* the crash, not after.
+Jones's most famous trade came on Black Monday, October 19, 1987, when the [stock market](/stock-market/) fell 22% in a single day. Unlike most traders caught by surprise, Jones had been positioning for the crash for weeks. He had shorted the market, and as it fell, he made more than $100 million. But what set this apart from other profitable crash trades was that he had identified the risk *before* the crash, not after.
 
 He had published research titled "Global Stock Market Crash" warning of fragility. He had positioned early. And when the crash came, he had the discipline to hold positions rather than panic-cover. This trade cemented his legend — he was the trader who had seen the crash coming and had the courage to bet against it.
 
 ## The Tudor Investment model
 
-In 1988, Jones founded Tudor Investment Corporation with the capital he had accumulated. His fund was global, with positions in currencies, [interest rates](/interest-rate), stocks, and commodities. Unlike Buffett's buy-and-hold approach or even Soros's reflexivity theory, Jones was an opportunist — he would position wherever he saw edge.
+In 1988, Jones founded Tudor Investment Corporation with the capital he had accumulated. His fund was global, with positions in currencies, [interest rates](/interest-rate/), stocks, and commodities. Unlike Buffett's buy-and-hold approach or even Soros's reflexivity theory, Jones was an opportunist — he would position wherever he saw edge.
 
 What separated Tudor from mere speculation was risk management. Jones was fanatical about downside protection. He would never allow a year with large losses; instead, he would reduce risk during volatile periods and preserve capital. This meant sitting out some upside, but it also meant his worst-case scenarios were far less damaging than competitors'.
 
@@ -63,7 +63,7 @@ Early in his career, Jones participated in the famous "Turtle Traders" experimen
 
 ## Later years and philanthropy
 
-By the 2000s, Tudor Investment had become one of the world's largest [hedge funds](/hedge-fund), managing tens of billions of dollars. Jones had become wealthy beyond most people's conception, yet he remained focused on markets and trading. Unlike some traders who retired early, Jones continued to trade his capital actively into his seventies.
+By the 2000s, Tudor Investment had become one of the world's largest [hedge funds](/hedge-fund/), managing tens of billions of dollars. Jones had become wealthy beyond most people's conception, yet he remained focused on markets and trading. Unlike some traders who retired early, Jones continued to trade his capital actively into his seventies.
 
 He also became known for his philanthropic work, particularly around environmental conservation and sustainable agriculture. He had become a farmer himself, owning vast tracts of land, and funded initiatives around soil health and regenerative farming — odd bedfellows with his financial career, but deeply consistent with his philosophy of respecting natural cycles.
 
@@ -79,16 +79,16 @@ His influence on macro trading has been immense. Hundreds of funds have tried to
 
 ### Closely related
 
-- [George Soros](/george-soros) — A contemporary macro trader
-- [Stanley Druckenmiller](/stanley-druckenmiller) — Another macro legend
-- [Ray Dalio](/ray-dalio) — The modern arch-macro investor
-- [Jim Rogers](/jim-rogers) — A macro commodities trader
+- [George Soros](/george-soros/) — A contemporary macro trader
+- [Stanley Druckenmiller](/stanley-druckenmiller/) — Another macro legend
+- [Ray Dalio](/ray-dalio/) — The modern arch-macro investor
+- [Jim Rogers](/jim-rogers/) — A macro commodities trader
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
-- [Bear market](/bear-market) — His testing ground
-- [Yield curve](/yield-curve) — A key signal he watches
+- [Hedge fund](/hedge-fund/) — His vehicle
+- [Bear market](/bear-market/) — His testing ground
+- [Yield curve](/yield-curve/) — A key signal he watches
 - Commodity — Where he began
 
 </div>

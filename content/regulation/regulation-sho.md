@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation SHO](/regulation-sho) is an [SEC](/securities-and-exchange-commission) rule that regulates [short selling](/short-selling). It requires brokers to have a reasonable belief that shares can be borrowed before allowing a customer to short a stock, and imposes penalties (buyins) if the short seller fails to deliver shares within a specified time. Reg SHO was meant to prevent "naked short selling" — selling shares that do not exist.*
+*[Regulation SHO](/regulation-sho/) is an [SEC](/securities-and-exchange-commission/) rule that regulates [short selling](/short-selling/). It requires brokers to have a reasonable belief that shares can be borrowed before allowing a customer to short a stock, and imposes penalties (buyins) if the short seller fails to deliver shares within a specified time. Reg SHO was meant to prevent "naked short selling" — selling shares that do not exist.*
 
 <div class="wiki-hatnote">
 
-Regulation SHO regulates short selling mechanics. [Insider trading law](/insider-trading-law) prohibits trading on material nonpublic information. [Rule 10b-5](/rule-10b-5) prohibits fraud.
+Regulation SHO regulates short selling mechanics. [Insider trading law](/insider-trading-law/) prohibits trading on material nonpublic information. [Rule 10b-5](/rule-10b-5/) prohibits fraud.
 
 </div>
 
@@ -38,7 +38,7 @@ Regulation SHO regulates short selling mechanics. [Insider trading law](/insider
 
 ## The locate rule and borrowing
 
-[Short selling](/short-selling) requires borrowing shares — you borrow 100 shares from a lender (typically another investor's broker), sell them, and later buy them back to return. The challenge is that brokers did not always ensure shares were actually available to borrow before allowing the short sale.
+[Short selling](/short-selling/) requires borrowing shares — you borrow 100 shares from a lender (typically another investor's broker), sell them, and later buy them back to return. The challenge is that brokers did not always ensure shares were actually available to borrow before allowing the short sale.
 
 Regulation SHO's key requirement is the "locate rule": before allowing a customer to short a stock, the broker must have "a reasonable belief" that the shares can be located and borrowed. This requirement is meant to prevent naked short selling — selling shares without any intention or ability to deliver.
 
@@ -68,7 +68,7 @@ During the 2008 financial crisis, the SEC temporarily prohibited naked short sel
 
 Short-sale advocates argue Reg SHO is too permissive — naked short selling still happens, and brokers do not enforce locate rules strictly enough. Short-sale opponents argue the rule is too strict — it limits short selling, which is a valuable price-discovery mechanism.
 
-The [SEC](/securities-and-exchange-commission) has brought enforcement actions against firms for Reg SHO violations, but the cases are relatively rare given the volume of short selling. Some economists argue the rule needs teeth — for example, meaningful financial penalties for violations — to deter naked short selling.
+The [SEC](/securities-and-exchange-commission/) has brought enforcement actions against firms for Reg SHO violations, but the cases are relatively rare given the volume of short selling. Some economists argue the rule needs teeth — for example, meaningful financial penalties for violations — to deter naked short selling.
 
 ## See also
 
@@ -76,16 +76,16 @@ The [SEC](/securities-and-exchange-commission) has brought enforcement actions a
 
 ### Closely related
 
-- [Short selling](/short-selling) — the activity regulated
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers Reg SHO
+- [Short selling](/short-selling/) — the activity regulated
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers Reg SHO
 - Market manipulation — short selling can be a tool for
-- [Rule 10b-5](/rule-10b-5) — anti-fraud rule that overlaps
+- [Rule 10b-5](/rule-10b-5/) — anti-fraud rule that overlaps
 - Failed delivery — consequence of naked short selling
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — where shorts execute
-- [Broker](/broker) — implements the locate requirement
+- [Stock exchange](/stock-exchange/) — where shorts execute
+- [Broker](/broker/) — implements the locate requirement
 - Price discovery — short selling contributes to this
 - Market efficiency — short selling generally improves
 

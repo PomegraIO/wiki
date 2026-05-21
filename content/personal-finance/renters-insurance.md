@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For homeowners coverage, see [homeowners insurance](/homeowners-insurance); for auto coverage, see [auto insurance](/auto-insurance); for excess liability, see [umbrella insurance](/umbrella-insurance).
+For homeowners coverage, see [homeowners insurance](/homeowners-insurance/); for auto coverage, see [auto insurance](/auto-insurance/); for excess liability, see [umbrella insurance](/umbrella-insurance/).
 
 </div>
 
@@ -81,7 +81,7 @@ Actual cash value (ACV) means depreciated price. If your 5-year-old laptop cost 
 
 You accidentally break your landlord's $2,000 chandelier, or someone slips and has $50,000 in medical bills. Liability coverage protects you.
 
-Standard limits are $100,000–$300,000. Most renters do not need more than $100,000. If you frequently host large events or have high liability risk, consider upgrading or adding [umbrella insurance](/umbrella-insurance).
+Standard limits are $100,000–$300,000. Most renters do not need more than $100,000. If you frequently host large events or have high liability risk, consider upgrading or adding [umbrella insurance](/umbrella-insurance/).
 
 ## Proof of loss
 
@@ -124,16 +124,16 @@ If required, your landlord will request proof of insurance. Most insurers provid
 
 ### Closely related
 
-- [Homeowners insurance](/homeowners-insurance) — coverage for homeowners
-- [Auto insurance](/auto-insurance) — vehicle coverage
-- [Umbrella insurance](/umbrella-insurance) — excess liability protection
-- [Emergency fund](/emergency-fund) — covers deductible
+- [Homeowners insurance](/homeowners-insurance/) — coverage for homeowners
+- [Auto insurance](/auto-insurance/) — vehicle coverage
+- [Umbrella insurance](/umbrella-insurance/) — excess liability protection
+- [Emergency fund](/emergency-fund/) — covers deductible
 
 ### Wider context
 
-- [Budgeting methods](/budgeting-methods) — insurance as budget item
-- [Sinking fund](/sinking-fund) — annual insurance premiums
-- [Risk management](/emergency-fund) — holistic view of financial protection
-- [Asset allocation](/asset-allocation) — protecting personal belongings
+- [Budgeting methods](/budgeting-methods/) — insurance as budget item
+- [Sinking fund](/sinking-fund/) — annual insurance premiums
+- [Risk management](/emergency-fund/) — holistic view of financial protection
+- [Asset allocation](/asset-allocation/) — protecting personal belongings
 
 </div>

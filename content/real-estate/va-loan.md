@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For other government programs, see [fha-loan](/fha-loan), [usda-loan](/usda-loan), and government-sponsored-enterprise. For mortgage comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) and conventional-mortgage.
+For other government programs, see [fha-loan](/fha-loan/), [usda-loan](/usda-loan/), and government-sponsored-enterprise. For mortgage comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage/) and conventional-mortgage.
 
 </div>
 
@@ -64,7 +64,7 @@ Eligibility is verified through a Certificate of Eligibility (COE) from the VA.
 
 ## Funding fee
 
-Unlike [FHA loans](/fha-loan) with ongoing mortgage insurance premiums, VA loans charge a one-time funding fee:
+Unlike [FHA loans](/fha-loan/) with ongoing mortgage insurance premiums, VA loans charge a one-time funding fee:
 
 - **First-time use**: 2.3% of loan amount (standard)
 - **Second and subsequent uses**: 3.6%
@@ -126,24 +126,24 @@ This creates opportunities for military members to leverage the VA benefit for r
 
 ### Government loan programs
 
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [USDA-loan](/usda-loan) — mortgages for rural properties
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [USDA-loan](/usda-loan/) — mortgages for rural properties
 - Government-sponsored-enterprise — Fannie Mae, Freddie Mac
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — standard fixed-rate mortgages
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — standard fixed-rate mortgages
 - Conventional-mortgage — non-government mortgages
-- [Jumbo-loan](/jumbo-loan) — loans exceeding conforming limits
+- [Jumbo-loan](/jumbo-loan/) — loans exceeding conforming limits
 
 ### Mortgage insurance
 
-- [Private-mortgage-insurance](/private-mortgage-insurance) — insurance on conventional mortgages
+- [Private-mortgage-insurance](/private-mortgage-insurance/) — insurance on conventional mortgages
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects VA loan rates
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
-- [Real estate investment trust](/real-estate-investment-trust) — institutional property ownership
+- [Interest rate](/interest-rate/) — affects VA loan rates
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
+- [Real estate investment trust](/real-estate-investment-trust/) — institutional property ownership
 
 </div>

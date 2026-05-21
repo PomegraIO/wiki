@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on retail REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For alternatives, see [commercial-real-estate](/commercial-real-estate).
+This entry focuses on retail REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For alternatives, see [commercial-real-estate](/commercial-real-estate/).
 
 </div>
 
@@ -101,21 +101,21 @@ Some investors view this as opportunity: retail REITs with strong essential-reta
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Commercial-real-estate](/commercial-real-estate) — offices and retail
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Commercial-real-estate](/commercial-real-estate/) — offices and retail
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — retail property valuation
-- [Net operating income](/net-operating-income) — retail rental revenue
-- [Gross rent multiplier](/gross-rent-multiplier) — valuation shortcut
+- [Cap rate](/cap-rate/) — retail property valuation
+- [Net operating income](/net-operating-income/) — retail rental revenue
+- [Gross rent multiplier](/gross-rent-multiplier/) — valuation shortcut
 
 ### Context
 
-- [Dividend](/dividend) — retail REIT yields are high but uncertain
-- [Recession](/recession) — discretionary retail suffers sharply in downturns
-- [Asset allocation](/asset-allocation) — retail exposure has declined in many portfolios
-- [Bull market](/bull-market) — retail can recover in strong economic environments
+- [Dividend](/dividend/) — retail REIT yields are high but uncertain
+- [Recession](/recession/) — discretionary retail suffers sharply in downturns
+- [Asset allocation](/asset-allocation/) — retail exposure has declined in many portfolios
+- [Bull market](/bull-market/) — retail can recover in strong economic environments
 
 </div>

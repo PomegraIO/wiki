@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **Monte Carlo valuation** replaces the single point estimate of a standard [discounted cash flow](/discounted-cash-flow-valuation) model with a distribution of possible outcomes. Instead of assuming revenue grows at exactly 10%, you assume it is normally distributed with a 10% mean and 3% standard deviation. Then you run 10,000 simulations, each with different random draws of revenue, margins, and other variables. The result is a distribution of intrinsic values, not a single number.*
+*A **Monte Carlo valuation** replaces the single point estimate of a standard [discounted cash flow](/discounted-cash-flow-valuation/) model with a distribution of possible outcomes. Instead of assuming revenue grows at exactly 10%, you assume it is normally distributed with a 10% mean and 3% standard deviation. Then you run 10,000 simulations, each with different random draws of revenue, margins, and other variables. The result is a distribution of intrinsic values, not a single number.*
 
 ## How it works
 
@@ -42,7 +42,7 @@ image: "/svg/valuation.svg"
 
 **Garbage in, garbage out.** If you specify a normal distribution for revenue growth with 3% standard deviation, but in reality, growth could be anywhere from -20% to +50%, your distribution is wrong.
 
-**Parameter uncertainty.** Monte Carlo handles uncertainty in variables (revenue growth might be 8–12%), but not uncertainty in the structure (is the company cyclical or not?). [Scenario analysis](/scenario-valuation) with discrete cases is better for that.
+**Parameter uncertainty.** Monte Carlo handles uncertainty in variables (revenue growth might be 8–12%), but not uncertainty in the structure (is the company cyclical or not?). [Scenario analysis](/scenario-valuation/) with discrete cases is better for that.
 
 **Time and complexity.** Setting up a rigorous Monte Carlo model is more work than a simple DCF. Most teams won't bother.
 
@@ -101,9 +101,9 @@ This captures uncertainty and provides output similar to Monte Carlo without req
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the base model
-- [Scenario valuation](/scenario-valuation) — discrete outcomes
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — variable sensitivity
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the base model
+- [Scenario valuation](/scenario-valuation/) — discrete outcomes
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — variable sensitivity
 - Uncertainty — what Monte Carlo handles
 
 ### Probability and distributions
@@ -114,8 +114,8 @@ This captures uncertainty and provides output similar to Monte Carlo without req
 
 ### Analysis and output
 
-- [Football field valuation](/football-field-valuation) — visualizing ranges
+- [Football field valuation](/football-field-valuation/) — visualizing ranges
 - Decision analysis — using distributions for decisions
-- [Value at risk](/value-at-risk) — related concept in finance
+- [Value at risk](/value-at-risk/) — related concept in finance
 
 </div>

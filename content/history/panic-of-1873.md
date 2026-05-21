@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the panic of 1873. For the ensuing prolonged depression, see [Long Depression](/long-depression); for the monetary constraints that worsened the crash, see [gold standard](/gold-standard).
+This entry covers the panic of 1873. For the ensuing prolonged depression, see [Long Depression](/long-depression/); for the monetary constraints that worsened the crash, see [gold standard](/gold-standard/).
 
 </div>
 
@@ -74,16 +74,16 @@ These lessons would be forgotten by the 1920s, contributing to the severity of t
 
 ### Closely related
 
-- [Long Depression](/long-depression) — the multi-year aftermath
-- [Panic of 1893](/panic-of-1893) — another major 19th-century crisis
+- [Long Depression](/long-depression/) — the multi-year aftermath
+- [Panic of 1893](/panic-of-1893/) — another major 19th-century crisis
 - Banking crisis — the wider category
 
 ### Wider context
 
-- [Gold standard](/gold-standard) — the monetary regime that constrained response
-- [Central bank](/central-bank) — the institution absent from the era
-- [Deflation](/deflation) — the falling prices and wages
-- [Recession](/recession) — the macroeconomic contraction
+- [Gold standard](/gold-standard/) — the monetary regime that constrained response
+- [Central bank](/central-bank/) — the institution absent from the era
+- [Deflation](/deflation/) — the falling prices and wages
+- [Recession](/recession/) — the macroeconomic contraction
 - Speculation — the railway bubble that triggered it
 
 </div>

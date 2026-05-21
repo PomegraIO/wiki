@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*[Margin](/forex-margin) in FX is the collateral deposit required to hold a [leveraged](/forex-leverage) position. It is not a loan or a fee; it is a fraction of the notional exposure that the broker holds as insurance against losses. A trader using 50:1 leverage must deposit 2% of the notional value in [margin](/forex-margin). When losses consume the [margin](/forex-margin), the broker issues a margin call and liquidates positions.*
+*[Margin](/forex-margin/) in FX is the collateral deposit required to hold a [leveraged](/forex-leverage/) position. It is not a loan or a fee; it is a fraction of the notional exposure that the broker holds as insurance against losses. A trader using 50:1 leverage must deposit 2% of the notional value in [margin](/forex-margin/). When losses consume the [margin](/forex-margin/), the broker issues a margin call and liquidates positions.*
 
 <div class="wiki-hatnote">
 
-For the multiplication of exposure per dollar of margin, see [forex leverage](/forex-leverage); for individual trade sizing, see [lot size](/lot-size-forex).
+For the multiplication of exposure per dollar of margin, see [forex leverage](/forex-leverage/); for individual trade sizing, see [lot size](/lot-size-forex/).
 
 </div>
 
@@ -42,21 +42,21 @@ For the multiplication of exposure per dollar of margin, see [forex leverage](/f
 
 The formula is simple: **Required margin = Notional exposure ÷ Leverage ratio**
 
-If you buy 1 [standard lot](/standard-lot) of EUR/USD at 1.0850, the notional exposure is 100,000 × 1.0850 = $108,500. With 50:1 leverage, the required margin is $108,500 ÷ 50 = $2,170.
+If you buy 1 [standard lot](/standard-lot/) of EUR/USD at 1.0850, the notional exposure is 100,000 × 1.0850 = $108,500. With 50:1 leverage, the required margin is $108,500 ÷ 50 = $2,170.
 
-If you buy 10 [mini lots](/mini-lot), the exposure is $10,850 and the required margin is $10,850 ÷ 50 = $217.
+If you buy 10 [mini lots](/mini-lot/), the exposure is $10,850 and the required margin is $10,850 ÷ 50 = $217.
 
-If you have $5,000 in your account, you can open multiple positions up to the point where total required [margin](/forex-margin) equals $5,000. The broker will not let you exceed that without depositing more.
+If you have $5,000 in your account, you can open multiple positions up to the point where total required [margin](/forex-margin/) equals $5,000. The broker will not let you exceed that without depositing more.
 
 ## Used margin vs. free margin
 
 Your account balance is divided into two buckets:
 
-**Used margin** — the total [margin](/forex-margin) tied up in open positions.
+**Used margin** — the total [margin](/forex-margin/) tied up in open positions.
 
 **Free margin** (or "available margin") — the remainder available to open new positions.
 
-If you have $5,000 in your account, you open a 1-[mini-lot](/mini-lot) position (using $217 of margin), your used margin is $217 and your free margin is $4,783. You can open 22 more similar positions before running out of margin.
+If you have $5,000 in your account, you open a 1-[mini-lot](/mini-lot/) position (using $217 of margin), your used margin is $217 and your free margin is $4,783. You can open 22 more similar positions before running out of margin.
 
 As open positions generate losses, the free margin shrinks and used margin stays the same. When free margin falls to zero, you cannot open new positions. When free margin falls below a certain threshold (the "margin maintenance level," typically 2–5%), the broker issues a margin call.
 
@@ -73,13 +73,13 @@ In normal markets, forced liquidation executes at prices near the market quote. 
 
 ## Margin interest
 
-Some brokers charge interest on used [margin](/forex-margin). This is rare in modern retail FX — most brokers do not charge interest. However, some legacy brokers and some institutional setups do charge a small rate (e.g., 1–2% per year) on [margin](/forex-margin) used to hold positions. Check your broker's fee schedule if interest is relevant to your trading.
+Some brokers charge interest on used [margin](/forex-margin/). This is rare in modern retail FX — most brokers do not charge interest. However, some legacy brokers and some institutional setups do charge a small rate (e.g., 1–2% per year) on [margin](/forex-margin/) used to hold positions. Check your broker's fee schedule if interest is relevant to your trading.
 
-Likewise, some brokers pay a small interest rate on free [margin](/forex-margin) — the cash sitting in your account not deployed. This is also rare and is usually a vanishingly small rate.
+Likewise, some brokers pay a small interest rate on free [margin](/forex-margin/) — the cash sitting in your account not deployed. This is also rare and is usually a vanishingly small rate.
 
-## Margin and [carry trades](/carry-trade)
+## Margin and [carry trades](/carry-trade/)
 
-Traders engaged in [carry trades](/carry-trade) — holding a position for days, weeks, or months to earn the interest-rate differential — are very aware of their [margin](/forex-margin) because the cost of holding the position directly reduces the yield. If you earn 3% annualized on a [carry trade](/carry-trade) but the broker charges 1% on [margin](/forex-margin), your net return is 2%. This makes choosing a low-margin-cost broker crucial for carry traders.
+Traders engaged in [carry trades](/carry-trade/) — holding a position for days, weeks, or months to earn the interest-rate differential — are very aware of their [margin](/forex-margin/) because the cost of holding the position directly reduces the yield. If you earn 3% annualized on a [carry trade](/carry-trade/) but the broker charges 1% on [margin](/forex-margin/), your net return is 2%. This makes choosing a low-margin-cost broker crucial for carry traders.
 
 ## See also
 
@@ -87,16 +87,16 @@ Traders engaged in [carry trades](/carry-trade) — holding a position for days,
 
 ### Closely related
 
-- [Forex leverage](/forex-leverage) — determines margin required
-- [Lot size](/lot-size-forex) — scales margin requirements
-- [Pip](/pip) — leverage and margin multiply pip-based moves
-- [Spread](/forex-spread) — a cost independent of margin
-- [Broker](/broker) — sets margin requirements
+- [Forex leverage](/forex-leverage/) — determines margin required
+- [Lot size](/lot-size-forex/) — scales margin requirements
+- [Pip](/pip/) — leverage and margin multiply pip-based moves
+- [Spread](/forex-spread/) — a cost independent of margin
+- [Broker](/broker/) — sets margin requirements
 
 ### Wider context
 
-- [Risk management](/diversification) — avoiding margin calls
-- [Carry trade](/carry-trade) — where margin costs matter
-- [Asset allocation](/asset-allocation) — sizing positions within margin constraints
+- [Risk management](/diversification/) — avoiding margin calls
+- [Carry trade](/carry-trade/) — where margin costs matter
+- [Asset allocation](/asset-allocation/) — sizing positions within margin constraints
 
 </div>

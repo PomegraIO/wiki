@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **gray market** for securities refers to trading that occurs outside regular channels and regulation, typically before a security officially launches on a public exchange. Gray-market transactions include [when-issued trading](/when-issued-trading) (sales of securities before their official debut) and pre-IPO secondary trading among early investors. Gray-market deals are largely unregulated and carry risks that official market structures are designed to prevent.*
+*The **gray market** for securities refers to trading that occurs outside regular channels and regulation, typically before a security officially launches on a public exchange. Gray-market transactions include [when-issued trading](/when-issued-trading/) (sales of securities before their official debut) and pre-IPO secondary trading among early investors. Gray-market deals are largely unregulated and carry risks that official market structures are designed to prevent.*
 
 <div class="wiki-hatnote">
 
-This entry is about forward or pre-listing trading. For trading after official listing, see [listed market](/listed-market) or [secondary market](/secondary-market); for when-issued trading specifically, see [when-issued trading](/when-issued-trading).
+This entry is about forward or pre-listing trading. For trading after official listing, see [listed market](/listed-market/) or [secondary market](/secondary-market/); for when-issued trading specifically, see [when-issued trading](/when-issued-trading/).
 
 </div>
 
@@ -48,11 +48,11 @@ The term "gray" implies a legal ambiguity. These transactions are not explicitly
 
 ## When-issued trading
 
-The most common form of gray-market trading is [when-issued trading](/when-issued-trading) — the sale of a security before it officially begins trading. This typically occurs in the days or hours between an [IPO](/initial-public-offering)'s pricing and its first day of trading.
+The most common form of gray-market trading is [when-issued trading](/when-issued-trading/) — the sale of a security before it officially begins trading. This typically occurs in the days or hours between an [IPO](/initial-public-offering/)'s pricing and its first day of trading.
 
 A company prices its IPO on Wednesday evening; the stock is scheduled to "pop" (begin trading) on Thursday. Eager investors and traders may transact "when issued" shares on Wednesday night or Thursday morning before the market open. These trades are settled only if and when the security begins trading on schedule; if the IPO is cancelled, the when-issued trades are voided.
 
-Similarly, when a [bond](/bond) is issued and awaiting its first trade in the [secondary market](/secondary-market), [when-issued trading](/when-issued-trading) may occur at prices differing from the original issue price.
+Similarly, when a [bond](/bond/) is issued and awaiting its first trade in the [secondary market](/secondary-market/), [when-issued trading](/when-issued-trading/) may occur at prices differing from the original issue price.
 
 ## Pre-IPO secondary trading
 
@@ -97,7 +97,7 @@ Gray-market trading carries substantial risks:
 
 The SEC takes a hands-off approach to many gray-market activities, particularly when-issued trading in bonds, which is industry practice. However, the SEC can scrutinize gray-market trading for manipulation or insider trading violations.
 
-In 2020, the SEC issued guidance clarifying that [when-issued trading](/when-issued-trading) in certain circumstances (particularly after IPO pricing) falls under Rule 10b-5 anti-fraud authority and can be manipulated. The SEC has brought enforcement actions against traders engaged in manipulative when-issued trading.
+In 2020, the SEC issued guidance clarifying that [when-issued trading](/when-issued-trading/) in certain circumstances (particularly after IPO pricing) falls under Rule 10b-5 anti-fraud authority and can be manipulated. The SEC has brought enforcement actions against traders engaged in manipulative when-issued trading.
 
 Pre-IPO secondary trading in private shares faces ambiguous regulation. Brokers facilitating these sales must comply with securities law, but the transactions themselves are less stringently regulated than public market sales.
 
@@ -111,17 +111,17 @@ The gray market is distinct from the black market. Black-market transactions are
 
 ### Closely related
 
-- [When-issued trading](/when-issued-trading) — the most common gray-market activity
-- [Initial public offering](/initial-public-offering) — often accompanied by gray-market trading
-- [Secondary market](/secondary-market) — where official trading occurs
-- [Over-the-counter market](/over-the-counter-market) — unregulated alternative
+- [When-issued trading](/when-issued-trading/) — the most common gray-market activity
+- [Initial public offering](/initial-public-offering/) — often accompanied by gray-market trading
+- [Secondary market](/secondary-market/) — where official trading occurs
+- [Over-the-counter market](/over-the-counter-market/) — unregulated alternative
 
 ### Wider context
 
-- [Listed market](/listed-market) — the regulated alternative
-- [Stock exchange](/stock-exchange) — the official venue
-- [Liquidity](/secondary-market) — limited in gray markets
-- [Fraud](/otc-pink) — a risk in unregulated markets
-- [Insider trading](/gray-market-securities) — a potential violation
+- [Listed market](/listed-market/) — the regulated alternative
+- [Stock exchange](/stock-exchange/) — the official venue
+- [Liquidity](/secondary-market/) — limited in gray markets
+- [Fraud](/otc-pink/) — a risk in unregulated markets
+- [Insider trading](/gray-market-securities/) — a potential violation
 
 </div>

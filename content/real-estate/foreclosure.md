@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For alternatives to foreclosure, see short-sale-real-estate and deed-in-lieu-of-foreclosure. For loan context, see [fixed-rate-mortgage](/fixed-rate-mortgage) and [residential-real-estate](/residential-real-estate).
+For alternatives to foreclosure, see short-sale-real-estate and deed-in-lieu-of-foreclosure. For loan context, see [fixed-rate-mortgage](/fixed-rate-mortgage/) and [residential-real-estate](/residential-real-estate/).
 
 </div>
 
@@ -130,18 +130,18 @@ Non-judicial foreclosure (lender-directed) is faster and cheaper, which benefits
 
 - Short-sale-real-estate — alternative to foreclosure
 - Deed-in-lieu-of-foreclosure — borrower transfers property to avoid foreclosure
-- [Opportunistic-real-estate](/opportunistic-real-estate) — investors buy foreclosed properties
+- [Opportunistic-real-estate](/opportunistic-real-estate/) — investors buy foreclosed properties
 
 ### Mortgage context
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — the mortgages that foreclose
-- [Default](/residential-real-estate) — failure to pay
-- [Residential-real-estate](/residential-real-estate) — the properties being foreclosed
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — the mortgages that foreclose
+- [Default](/residential-real-estate/) — failure to pay
+- [Residential-real-estate](/residential-real-estate/) — the properties being foreclosed
 
 ### Financial impact
 
-- [Recession](/recession) — foreclosures spike in recessions
-- [Credit score](/stock) — foreclosure damages credit
-- [Debt](/bond) — the underlying obligation
+- [Recession](/recession/) — foreclosures spike in recessions
+- [Credit score](/stock/) — foreclosure damages credit
+- [Debt](/bond/) — the underlying obligation
 
 </div>

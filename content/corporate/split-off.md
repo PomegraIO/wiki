@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **split-off** is a corporate action in which shareholders of a parent company can exchange their parent shares for shares of a subsidiary (or vice versa), but not retain both. Unlike a [spinoff](/spinoff), where all shareholders automatically receive subsidiary shares pro-rata, a split-off gives shareholders a choice: keep parent shares or exchange them for subsidiary shares. A split-off reduces the parent's share count (shareholders who exit buy parent shares for subsidiary shares) and creates two separate publicly traded companies.*
+*A **split-off** is a corporate action in which shareholders of a parent company can exchange their parent shares for shares of a subsidiary (or vice versa), but not retain both. Unlike a [spinoff](/spinoff/), where all shareholders automatically receive subsidiary shares pro-rata, a split-off gives shareholders a choice: keep parent shares or exchange them for subsidiary shares. A split-off reduces the parent's share count (shareholders who exit buy parent shares for subsidiary shares) and creates two separate publicly traded companies.*
 
 <div class="wiki-hatnote">
 
-This entry covers split-offs as a separation mechanism. For related separations, see [spinoff](/spinoff) and [split-up](/split-up); for transactions involving subsidiary sales, see [divestiture](/divestiture).
+This entry covers split-offs as a separation mechanism. For related separations, see [spinoff](/spinoff/) and [split-up](/split-up/); for transactions involving subsidiary sales, see [divestiture](/divestiture/).
 
 </div>
 
@@ -137,11 +137,11 @@ Split-offs are subject to:
 
 ### Closely related
 
-- [Spinoff](/spinoff) — automatic distribution (vs. split-off choice)
-- [Split-up](/split-up) — complete separation into multiple entities
-- [Equity carve-out](/equity-carve-out) — partial IPO (vs. split-off full separation)
-- [Divestiture](/divestiture) — sale of subsidiary (vs. split-off separation)
-- [Merger](/merger) — could reverse a split-off
+- [Spinoff](/spinoff/) — automatic distribution (vs. split-off choice)
+- [Split-up](/split-up/) — complete separation into multiple entities
+- [Equity carve-out](/equity-carve-out/) — partial IPO (vs. split-off full separation)
+- [Divestiture](/divestiture/) — sale of subsidiary (vs. split-off separation)
+- [Merger](/merger/) — could reverse a split-off
 
 ### Wider context
 

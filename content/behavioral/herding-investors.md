@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-An observed phenomenon, distinct from the individual psychology of [herd behavior](/herd-behavior). For collective irrationality, see madness of crowds.
+An observed phenomenon, distinct from the individual psychology of [herd behavior](/herd-behavior/). For collective irrationality, see madness of crowds.
 
 </div>
 
@@ -29,21 +29,21 @@ An observed phenomenon, distinct from the individual psychology of [herd behavio
 |   |   |
 |---|---|
 | **What it is** | Synchronized buying/selling by many investors |
-| **Observed in** | Sector rotations, [emerging market](/recession) flows, factor tilts |
+| **Observed in** | Sector rotations, [emerging market](/recession/) flows, factor tilts |
 | **Frequency** | Strongest after market moves; weakest at inflection points |
 | **Investor impact** | Prices overshoot fundamentals; high volatility; mean reversion opportunities |
 | **Evidence** | Measurable in fund flows and holdings data |
-| **Related phenomenon** | [Herd behavior](/herd-behavior), [information cascade](/base-rate-neglect) |
+| **Related phenomenon** | [Herd behavior](/herd-behavior/), [information cascade](/base-rate-neglect/) |
 
 </aside>
 
 ## Institutional evidence of herding
 
-Researchers studying mutual fund and [hedge fund](/hedge-fund) holdings have found clear evidence of herding. Portfolio managers, even those managing [index funds](/index-fund), hold correlated portfolios. They tend to overweight the same stocks and underweight the same others.
+Researchers studying mutual fund and [hedge fund](/hedge-fund/) holdings have found clear evidence of herding. Portfolio managers, even those managing [index funds](/index-fund/), hold correlated portfolios. They tend to overweight the same stocks and underweight the same others.
 
-When this herding is strong, it amplifies price movements. If 50 [mutual funds](/mutual-fund) are all selling "value stocks," the selling pressure alone can drive value stocks down, independent of news or fundamental changes. Conversely, when all are buying, prices soar.
+When this herding is strong, it amplifies price movements. If 50 [mutual funds](/mutual-fund/) are all selling "value stocks," the selling pressure alone can drive value stocks down, independent of news or fundamental changes. Conversely, when all are buying, prices soar.
 
-This herding is observable in sector rotations. After [tech](/bull-market) outperforms for two years, manager after manager shifts overweight tech. This flow of money pushes tech prices up further, attracting more flows, until a reversal hits — then the stampede reverses.
+This herding is observable in sector rotations. After [tech](/bull-market/) outperforms for two years, manager after manager shifts overweight tech. This flow of money pushes tech prices up further, attracting more flows, until a reversal hits — then the stampede reverses.
 
 ## Why institutional herding happens
 
@@ -51,13 +51,13 @@ This herding is observable in sector rotations. After [tech](/bull-market) outpe
 
 **Performance chasing.** Investors allocate capital to managers based on recent performance. A manager who is beating the market experiences inflows; one who is lagging experiences outflows. This creates a feedback loop: recent winners get more capital, concentrating money in correlated strategies.
 
-**Information.** While [herd behavior](/herd-behavior) is partly psychological, institutional herding is also information-driven. If many analysts issue buy ratings on a stock, managers rationally interpret this as positive information and buy. But if the analysts are correlated (herding themselves), the institutional buying is also correlated.
+**Information.** While [herd behavior](/herd-behavior/) is partly psychological, institutional herding is also information-driven. If many analysts issue buy ratings on a stock, managers rationally interpret this as positive information and buy. But if the analysts are correlated (herding themselves), the institutional buying is also correlated.
 
 **Risk management rules.** Many institutions use similar risk models and position-sizing rules. When realized volatility spikes, these models all trigger similar reductions, creating synchronized selling.
 
 ## Herding in emerging markets
 
-Herding of investors is particularly visible in [emerging markets](/recession). When emerging markets are in favor (low US interest rates, risk appetite high), flows pour in from developed-market funds, pushing valuations up. When interest rates rise and risk appetite falls, flows reverse equally sharply.
+Herding of investors is particularly visible in [emerging markets](/recession/). When emerging markets are in favor (low US interest rates, risk appetite high), flows pour in from developed-market funds, pushing valuations up. When interest rates rise and risk appetite falls, flows reverse equally sharply.
 
 This synchronized flow has little to do with the fundamentals of individual emerging markets. It is entirely driven by global investor allocation to the "emerging market" bucket. The result is that emerging market valuations and returns are highly cyclical, more so than fundamentals would suggest.
 
@@ -69,7 +69,7 @@ This factor herding creates mean-reverting cycles. The more the herd concentrate
 
 ## Herding and liquidity
 
-Herding can create liquidity crises. If all [hedge funds](/hedge-fund) need to deleverage simultaneously (due to losses or redemptions), they must all sell, and buyers disappear. Prices plummet, not because of bad news, but because of synchronized selling.
+Herding can create liquidity crises. If all [hedge funds](/hedge-fund/) need to deleverage simultaneously (due to losses or redemptions), they must all sell, and buyers disappear. Prices plummet, not because of bad news, but because of synchronized selling.
 
 In 1998, the Long-Term Capital Management crisis exposed this. When multiple large funds needed to liquidate similar positions simultaneously, the resulting fire sales drove prices far from fundamental value.
 
@@ -99,17 +99,17 @@ True herding is when the correlation drives prices away from fundamentals. It is
 
 ### Closely related
 
-- [Herd behavior](/herd-behavior) — the psychological mechanism
+- [Herd behavior](/herd-behavior/) — the psychological mechanism
 - Madness of crowds — collective irrationality
-- [Fomo](/fomo) — fear of missing out driving institutional flows
-- [Information cascade](/base-rate-neglect) — synchronized belief
+- [Fomo](/fomo/) — fear of missing out driving institutional flows
+- [Information cascade](/base-rate-neglect/) — synchronized belief
 - Market sentiment indicators — measuring herd intensity
 
 ### Wider context
 
-- [Bull market](/bull-market) · [Bear market](/bear-market) — herding phenomena
-- [Momentum](/hot-hand-fallacy) — herding can amplify momentum
-- [Value investing](/price-to-earnings-ratio) — exploiting herding reversals
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — herding phenomena
+- [Momentum](/hot-hand-fallacy/) — herding can amplify momentum
+- [Value investing](/price-to-earnings-ratio/) — exploiting herding reversals
 - Behavioral asset pricing — how herding affects prices
 - Animal spirits — irrational crowd behavior
 

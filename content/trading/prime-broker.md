@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **prime broker** is a large investment bank or financial institution that provides bundled services to hedge funds, large traders, and institutional investors. These services include trade execution, [clearing](/clearing-firm), margin lending, securities lending, cash management, and reporting. A prime broker enables institutions to trade large positions with leverage, across multiple venues and asset classes, from a single relationship.*
+*A **prime broker** is a large investment bank or financial institution that provides bundled services to hedge funds, large traders, and institutional investors. These services include trade execution, [clearing](/clearing-firm/), margin lending, securities lending, cash management, and reporting. A prime broker enables institutions to trade large positions with leverage, across multiple venues and asset classes, from a single relationship.*
 
 <div class="wiki-hatnote">
 
-For clearing alone, see [clearing firm](/clearing-firm). For retail brokerage, see [broker](/broker). For small lenders, see prime-of-prime.
+For clearing alone, see [clearing firm](/clearing-firm/). For retail brokerage, see [broker](/broker/). For small lenders, see prime-of-prime.
 
 </div>
 
@@ -137,27 +137,27 @@ To mitigate this, large hedge funds often use multiple prime brokers, spreading 
 
 ### Closely related
 
-- [Clearing firm](/clearing-firm) — prime brokers include clearing functions
+- [Clearing firm](/clearing-firm/) — prime brokers include clearing functions
 - Margin — core service of prime brokers
 - Securities lending — prime brokers facilitate this
-- [Broker](/broker) — general brokerage; prime brokers are specialized
+- [Broker](/broker/) — general brokerage; prime brokers are specialized
 
 ### Services
 
-- [Settlement T+2](/settlement-t2) — prime brokers settle trades
-- [Short selling](/short-selling) — requires prime broker financing
+- [Settlement T+2](/settlement-t2/) — prime brokers settle trades
+- [Short selling](/short-selling/) — requires prime broker financing
 - Leverage — prime brokers provide this to institutions
 
 ### Relationships and structures
 
 - Prime-of-prime — smaller firms access prime brokerage through POPs
-- [Hedge fund](/hedge-fund) — primary client of prime brokers
+- [Hedge fund](/hedge-fund/) — primary client of prime brokers
 - **Omnibus account** — pooled account structure
 - **Segregated account** — individual account structure
 
 ### Risk and regulation
 
-- [Counterparty risk](/counterparty-risk) — clients face this with prime brokers
+- [Counterparty risk](/counterparty-risk/) — clients face this with prime brokers
 - **Systemic risk** — prime broker failures threaten the system
 - **Regulatory capital** — prime brokers must maintain capital ratios
 - **Stress testing** — regulators test prime broker resilience

@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) (constant rate) and [interest-only-mortgage](/interest-only-mortgage) (principal-deferred). For loan types, see [fha-loan](/fha-loan), [va-loan](/va-loan), and conventional-mortgage.
+For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage/) (constant rate) and [interest-only-mortgage](/interest-only-mortgage/) (principal-deferred). For loan types, see [fha-loan](/fha-loan/), [va-loan](/va-loan/), and conventional-mortgage.
 
 </div>
 
@@ -134,22 +134,22 @@ An ARM is risky for:
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — constant rate for the loan term
-- [Interest-only-mortgage](/interest-only-mortgage) — interest-only for a period
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — constant rate for the loan term
+- [Interest-only-mortgage](/interest-only-mortgage/) — interest-only for a period
 - Balloon-mortgage — large lump-sum at maturity
 - Hybrid ARM — ARMs with specific terms (5/1, 7/1)
 - Conventional-mortgage — standard conforming loans
 
 ### Loan types
 
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [VA-loan](/va-loan) — mortgages for veterans
-- [Jumbo-loan](/jumbo-loan) — loans over conforming limits
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [VA-loan](/va-loan/) — mortgages for veterans
+- [Jumbo-loan](/jumbo-loan/) — loans over conforming limits
 
 ### Context
 
-- [Interest rate](/interest-rate) — determines ARM resets
-- [Federal Reserve](/federal-reserve) — sets monetary policy affecting rates
-- [Yield curve](/yield-curve) — affects mortgage rate pricing
+- [Interest rate](/interest-rate/) — determines ARM resets
+- [Federal Reserve](/federal-reserve/) — sets monetary policy affecting rates
+- [Yield curve](/yield-curve/) — affects mortgage rate pricing
 
 </div>

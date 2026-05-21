@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*Best execution is a fundamental rule: brokers must obtain the best possible prices and terms for their customers' orders. In the U.S., this is mandated by Reg NMS and [FINRA](/finra) rules. It means checking multiple venues (exchanges, dark pools, market makers), routing orders to achieve the best price, and regularly auditing whether the execution quality is truly best. Brokers that fail to provide best execution face regulatory penalties.*
+*Best execution is a fundamental rule: brokers must obtain the best possible prices and terms for their customers' orders. In the U.S., this is mandated by Reg NMS and [FINRA](/finra/) rules. It means checking multiple venues (exchanges, dark pools, market makers), routing orders to achieve the best price, and regularly auditing whether the execution quality is truly best. Brokers that fail to provide best execution face regulatory penalties.*
 
 <div class="wiki-hatnote">
 
-For how routing works, see [smart order router](/smart-order-router). For venues where orders execute, see [lit venue](/lit-venue) and [dark pool](/dark-pool).
+For how routing works, see [smart order router](/smart-order-router/). For venues where orders execute, see [lit venue](/lit-venue/) and [dark pool](/dark-pool/).
 
 </div>
 
@@ -58,7 +58,7 @@ For example: Venue A offers a slightly better price ($150.02 vs. $150.021) but m
 
 **U.S. equity markets:**
 - Regulation NMS (Reg NMS) mandates best execution.
-- [FINRA Rule 5310](/finra) requires member brokers to have best execution policies.
+- [FINRA Rule 5310](/finra/) requires member brokers to have best execution policies.
 - Brokers must document their routing logic and test it regularly.
 
 **International:**
@@ -71,7 +71,7 @@ For example: Venue A offers a slightly better price ($150.02 vs. $150.021) but m
 
 ## How brokers meet best execution
 
-**Smart order routing:** Brokers use [smart order routers](/smart-order-router) to check all venues simultaneously and route to the best venue(s).
+**Smart order routing:** Brokers use [smart order routers](/smart-order-router/) to check all venues simultaneously and route to the best venue(s).
 
 **Regular audits:** Brokers must periodically review their routing:
 - Did we achieve best execution? 
@@ -80,7 +80,7 @@ For example: Venue A offers a slightly better price ($150.02 vs. $150.021) but m
 
 **Documentation:** Brokers must document their best execution policies and make them available to customers (usually in the broker's terms and conditions).
 
-**Conflict management:** If the broker operates a market-making desk or has [payment-for-order-flow](/payment-for-order-flow) arrangements, it must ensure those relationships do not compromise best execution for customers.
+**Conflict management:** If the broker operates a market-making desk or has [payment-for-order-flow](/payment-for-order-flow/) arrangements, it must ensure those relationships do not compromise best execution for customers.
 
 ## The challenge: trade-offs
 
@@ -104,7 +104,7 @@ Is this best execution? Regulators say yes, if the probability-weighted executio
 
 ## Best execution and payment for order flow
 
-[Payment for order flow](/payment-for-order-flow) creates a tension with best execution:
+[Payment for order flow](/payment-for-order-flow/) creates a tension with best execution:
 
 - A broker receives payment for routing orders to a particular market maker.
 - That market maker might not offer the absolute best price.
@@ -151,29 +151,29 @@ Regulators will continue to evolve best execution standards to balance broker in
 
 ### Closely related
 
-- [Smart order router](/smart-order-router) — tool brokers use to achieve best execution
+- [Smart order router](/smart-order-router/) — tool brokers use to achieve best execution
 - Regulation NMS — mandates best execution
 - MiFID II Best Execution — European equivalent
 - Trade-through rule — protects prices on lit venues
 
 ### Order routing and venues
 
-- [Lit venue](/lit-venue) — public exchange for best execution
-- [Dark pool](/dark-pool) — alternative venue raising best execution questions
-- [NBBO](/nbbo) — national best bid-offer; best execution targets this
-- [Payment for order flow](/payment-for-order-flow) — potential conflict with best execution
+- [Lit venue](/lit-venue/) — public exchange for best execution
+- [Dark pool](/dark-pool/) — alternative venue raising best execution questions
+- [NBBO](/nbbo/) — national best bid-offer; best execution targets this
+- [Payment for order flow](/payment-for-order-flow/) — potential conflict with best execution
 
 ### Execution and quality
 
-- [Market order](/market-order) — execution subject to best execution rules
-- [Limit order](/limit-order) — routed for best execution
+- [Market order](/market-order/) — execution subject to best execution rules
+- [Limit order](/limit-order/) — routed for best execution
 - Slippage — cost that best execution rules try to minimize
 - Execution quality — metrics tracking actual fills
 
 ### Regulatory
 
-- [FINRA](/finra) — enforces best execution
+- [FINRA](/finra/) — enforces best execution
 - SEC — writes best execution rules
-- [Reg SHO](/regulation-sho) — related short-sale rules
+- [Reg SHO](/regulation-sho/) — related short-sale rules
 
 </div>

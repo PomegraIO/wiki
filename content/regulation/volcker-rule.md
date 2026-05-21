@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Volcker Rule** is Section 619 of the [Dodd-Frank Act](/dodd-frank-act), named after former Federal Reserve Chairman Paul Volcker. It prohibits banks from engaging in proprietary trading — trading securities for their own account and profit — while preserving their ability to trade for customers (market-making) and to hold securities to manage risk. The rule is meant to prevent banks from taking large speculative positions that could blow them up.*
+*The **Volcker Rule** is Section 619 of the [Dodd-Frank Act](/dodd-frank-act/), named after former Federal Reserve Chairman Paul Volcker. It prohibits banks from engaging in proprietary trading — trading securities for their own account and profit — while preserving their ability to trade for customers (market-making) and to hold securities to manage risk. The rule is meant to prevent banks from taking large speculative positions that could blow them up.*
 
 <div class="wiki-hatnote">
 
-The Volcker Rule applies to banks and is part of the [Dodd-Frank Act](/dodd-frank-act). For investment firms not regulated as banks, similar restrictions do not apply. The rule has no historical parallel; it is novel post-crisis regulation.
+The Volcker Rule applies to banks and is part of the [Dodd-Frank Act](/dodd-frank-act/). For investment firms not regulated as banks, similar restrictions do not apply. The rule has no historical parallel; it is novel post-crisis regulation.
 
 </div>
 
@@ -78,11 +78,11 @@ The Volcker Rule has faced sustained political pressure. Conservatives argue it 
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — the statute containing the Volcker Rule
+- [Dodd-Frank Act](/dodd-frank-act/) — the statute containing the Volcker Rule
 - Proprietary trading — what the rule prohibits
 - Market making — what the rule permits
 - Hedging — an allowed exception
-- [Federal Reserve](/federal-reserve-regulation) — regulates the Volcker Rule
+- [Federal Reserve](/federal-reserve-regulation/) — regulates the Volcker Rule
 
 ### Wider context
 

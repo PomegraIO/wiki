@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Singapore Exchange** (SGX) is Southeast Asia's largest [stock exchange](/stock-exchange) and an important financial hub for the region and broader Asia. Headquartered in Singapore's Central Business District, the SGX lists Singapore-based firms, regional multinationals, and international companies, and serves as a venue for equity trading, derivatives, and commodity trading across Asia.*
+*The **Singapore Exchange** (SGX) is Southeast Asia's largest [stock exchange](/stock-exchange/) and an important financial hub for the region and broader Asia. Headquartered in Singapore's Central Business District, the SGX lists Singapore-based firms, regional multinationals, and international companies, and serves as a venue for equity trading, derivatives, and commodity trading across Asia.*
 
 <div class="wiki-hatnote">
 
@@ -72,7 +72,7 @@ SGX-listed equities are denominated in Singapore Dollar (SGD), but many are quot
 
 ## International investors and regional allocation
 
-Global institutional investors, [hedge funds](/hedge-fund), and [index funds](/index-fund) use the Singapore Exchange as their primary venue for accessing Southeast Asian equities and broader Asian exposure. The exchange is a standard component of Asian [asset allocation](/asset-allocation) strategies.
+Global institutional investors, [hedge funds](/hedge-fund/), and [index funds](/index-fund/) use the Singapore Exchange as their primary venue for accessing Southeast Asian equities and broader Asian exposure. The exchange is a standard component of Asian [asset allocation](/asset-allocation/) strategies.
 
 ## See also
 
@@ -80,18 +80,18 @@ Global institutional investors, [hedge funds](/hedge-fund), and [index funds](/i
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [Hong Kong Stock Exchange](/hong-kong-stock-exchange) — Asia's largest exchange
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — Japan's largest
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
+- [Stock exchange](/stock-exchange/) — the category
+- [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) — Asia's largest exchange
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — Japan's largest
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
 
 ### Wider context
 
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Public company](/public-company) — corporations listed
-- [Hedge fund](/hedge-fund) — major traders
-- [Central bank](/central-bank) — Monetary Authority of Singapore
+- [Asset allocation](/asset-allocation/) — positioning
+- [Public company](/public-company/) — corporations listed
+- [Hedge fund](/hedge-fund/) — major traders
+- [Central bank](/central-bank/) — Monetary Authority of Singapore
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers condominium ownership. For alternatives, see [residential-real-estate](/residential-real-estate), [multifamily-property](/multifamily-property), cooperative-housing, and [single-family-rental](/single-family-rental).
+This entry covers condominium ownership. For alternatives, see [residential-real-estate](/residential-real-estate/), [multifamily-property](/multifamily-property/), cooperative-housing, and [single-family-rental](/single-family-rental/).
 
 </div>
 
@@ -123,9 +123,9 @@ Due diligence on the HOA (reserves, financials, management quality) is essential
 
 ### Property types
 
-- [Residential real estate](/residential-real-estate) — housing broadly
-- [Multifamily property](/multifamily-property) — apartment buildings
-- [Single-family rental](/single-family-rental) — detached homes
+- [Residential real estate](/residential-real-estate/) — housing broadly
+- [Multifamily property](/multifamily-property/) — apartment buildings
+- [Single-family rental](/single-family-rental/) — detached homes
 - Cooperative housing — alternative shared ownership
 
 ### Governance and costs
@@ -134,9 +134,9 @@ Due diligence on the HOA (reserves, financials, management quality) is essential
 
 ### Context
 
-- [Asset allocation](/asset-allocation) — primary residences as portfolio components
-- [Mortgage](/fixed-rate-mortgage) — financing for condo purchases
-- [Inflation](/inflation) — condo prices and HOA fees can rise with inflation
-- [Diversification](/diversification) — geographic diversification of property holdings
+- [Asset allocation](/asset-allocation/) — primary residences as portfolio components
+- [Mortgage](/fixed-rate-mortgage/) — financing for condo purchases
+- [Inflation](/inflation/) — condo prices and HOA fees can rise with inflation
+- [Diversification](/diversification/) — geographic diversification of property holdings
 
 </div>

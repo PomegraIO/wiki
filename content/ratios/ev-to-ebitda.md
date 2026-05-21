@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the key enterprise-value metric. For price-based equivalents, see [price-to-earnings ratio](/price-to-earnings-ratio). For other enterprise-value ratios, see [EV/Sales](/ev-to-sales) and [EV/EBIT](/ev-to-ebit).
+This entry covers the key enterprise-value metric. For price-based equivalents, see [price-to-earnings ratio](/price-to-earnings-ratio/). For other enterprise-value ratios, see [EV/Sales](/ev-to-sales/) and [EV/EBIT](/ev-to-ebit/).
 
 </div>
 
@@ -43,9 +43,9 @@ This entry covers the key enterprise-value metric. For price-based equivalents, 
 
 ## The intuition behind the ratio
 
-[Price-to-earnings ratio](/price-to-earnings-ratio) has a flaw: it compares stock price (equity) against net income, ignoring the fact that different companies have different capital structures. A heavily leveraged company pays more in interest, which reduces net income, and therefore looks cheaper on P/E. A company with little debt has higher net income and looks more expensive. But buying either company requires paying for all the debt, not just the equity.
+[Price-to-earnings ratio](/price-to-earnings-ratio/) has a flaw: it compares stock price (equity) against net income, ignoring the fact that different companies have different capital structures. A heavily leveraged company pays more in interest, which reduces net income, and therefore looks cheaper on P/E. A company with little debt has higher net income and looks more expensive. But buying either company requires paying for all the debt, not just the equity.
 
-[Enterprise value](/enterprise-value) fixes this by asking: what is the total cost to acquire the company? Market cap plus debt minus cash. This is what a buyer pays.
+[Enterprise value](/enterprise-value/) fixes this by asking: what is the total cost to acquire the company? Market cap plus debt minus cash. This is what a buyer pays.
 
 EBITDA — earnings before interest, taxes, depreciation, and amortization — is also useful because it is a before-leverage number. It is what the business earns before interest and before non-cash accounting charges. This makes it comparable across companies with different capital structures and different ages (older assets have lower depreciation).
 
@@ -119,18 +119,18 @@ A company trading at 7x EV/EBITDA with 8% EBITDA growth is cheaper than a compar
 
 ### Closely related
 
-- [Enterprise value](/enterprise-value) — the total economic cost
-- [EBITDA](/ebitda) — the earnings metric
-- [EV/Sales](/ev-to-sales) — for unprofitable companies
-- [EV/EBIT](/ev-to-ebit) — more conservative than EV/EBITDA
-- [EV/FCF](/ev-to-fcf) — the most shareholder-centric multiple
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the equity-focused alternative
+- [Enterprise value](/enterprise-value/) — the total economic cost
+- [EBITDA](/ebitda/) — the earnings metric
+- [EV/Sales](/ev-to-sales/) — for unprofitable companies
+- [EV/EBIT](/ev-to-ebit/) — more conservative than EV/EBITDA
+- [EV/FCF](/ev-to-fcf/) — the most shareholder-centric multiple
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the equity-focused alternative
 
 ### Wider context
 
 - Leverage — why EV adjusts for debt
-- [Free cash flow](/free-cash-flow) — what actually pays down debt
+- [Free cash flow](/free-cash-flow/) — what actually pays down debt
 - Mergers and acquisitions — where this ratio dominates
-- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio) — leverage relative to earnings
+- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) — leverage relative to earnings
 
 </div>

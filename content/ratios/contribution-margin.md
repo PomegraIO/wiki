@@ -32,7 +32,7 @@ image: "/svg/ratios.svg"
 
 ## The intuition
 
-Unlike [gross margin](/gross-profit-margin), which includes all manufacturing overhead, contribution margin focuses only on variable costs (materials, direct labor). Fixed costs (rent, management salaries) are not subtracted.
+Unlike [gross margin](/gross-profit-margin/), which includes all manufacturing overhead, contribution margin focuses only on variable costs (materials, direct labor). Fixed costs (rent, management salaries) are not subtracted.
 
 This is useful for understanding break-even points. If contribution margin is 50% and fixed costs are $1 million per year, the company needs $2 million in revenue to break even.
 
@@ -65,8 +65,8 @@ Example: A company with $10 million revenue and $4 million variable costs has:
 
 ### Closely related
 
-- [Gross profit margin](/gross-profit-margin) — includes fixed manufacturing overhead
-- [Operating margin](/operating-margin) — includes all operating costs
+- [Gross profit margin](/gross-profit-margin/) — includes fixed manufacturing overhead
+- [Operating margin](/operating-margin/) — includes all operating costs
 - Break-even analysis
 - Fixed costs · Variable costs
 

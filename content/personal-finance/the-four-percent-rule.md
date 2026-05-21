@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For personalized withdrawal rates, see [safe withdrawal rate](/safe-withdrawal-rate); for the strategy to reach this point, see [FIRE movement](/fire-movement); for long-term investing, see [compound interest](/compound-interest).
+For personalized withdrawal rates, see [safe withdrawal rate](/safe-withdrawal-rate/); for the strategy to reach this point, see [FIRE movement](/fire-movement/); for long-term investing, see [compound interest](/compound-interest/).
 
 </div>
 
@@ -72,7 +72,7 @@ Later research refined this, showing 4% works well for typical scenarios but has
 
 ## Variants and refinements
 
-**Safe withdrawal rate ([SWR](/safe-withdrawal-rate)):** A personalized version that factors in your specific situation (retirement length, portfolio composition, goals, risk tolerance). Might be 3.5%, 4%, or 4.5%.
+**Safe withdrawal rate ([SWR](/safe-withdrawal-rate/)):** A personalized version that factors in your specific situation (retirement length, portfolio composition, goals, risk tolerance). Might be 3.5%, 4%, or 4.5%.
 
 **Dynamic withdrawal.** Instead of a fixed 4% plus inflation, adjust your withdrawal based on portfolio performance. In strong years, spend more; in weak years, spend less. This requires flexibility but improves sustainability.
 
@@ -88,9 +88,9 @@ Later research refined this, showing 4% works well for typical scenarios but has
 
 ## Interaction with Social Security
 
-The four-percent rule often assumes investment portfolio withdrawals are your primary income. If you also receive [Social Security](/social-security-personal) (e.g., $1,500/month = $18,000/year), you can withdraw less from your portfolio or have higher spending.
+The four-percent rule often assumes investment portfolio withdrawals are your primary income. If you also receive [Social Security](/social-security-personal/) (e.g., $1,500/month = $18,000/year), you can withdraw less from your portfolio or have higher spending.
 
-This is why planning with [Social Security](/social-security-personal) timing is important — claiming at 62 vs. 70 changes your dependency on portfolio withdrawals.
+This is why planning with [Social Security](/social-security-personal/) timing is important — claiming at 62 vs. 70 changes your dependency on portfolio withdrawals.
 
 ## See also
 
@@ -98,17 +98,17 @@ This is why planning with [Social Security](/social-security-personal) timing is
 
 ### Closely related
 
-- [Safe withdrawal rate](/safe-withdrawal-rate) — personalized withdrawal rate
-- [FIRE movement](/fire-movement) — uses four-percent rule to determine FI number
-- [Compound interest](/compound-interest) — growth during accumulation phase
-- [Asset allocation](/asset-allocation) — portfolio composition (60/40, etc.)
-- [Social Security](/social-security-personal) — supplement to portfolio withdrawals
+- [Safe withdrawal rate](/safe-withdrawal-rate/) — personalized withdrawal rate
+- [FIRE movement](/fire-movement/) — uses four-percent rule to determine FI number
+- [Compound interest](/compound-interest/) — growth during accumulation phase
+- [Asset allocation](/asset-allocation/) — portfolio composition (60/40, etc.)
+- [Social Security](/social-security-personal/) — supplement to portfolio withdrawals
 
 ### Wider context
 
 - Sequence of returns risk — primary risk to four-percent rule
 - Bond tent — strategy to reduce sequence risk
-- [Inflation](/inflation) — reduces purchasing power of withdrawals
-- [Retirement account](/401k-plan) — accumulation vehicles for portfolio
+- [Inflation](/inflation/) — reduces purchasing power of withdrawals
+- [Retirement account](/401k-plan/) — accumulation vehicles for portfolio
 
 </div>

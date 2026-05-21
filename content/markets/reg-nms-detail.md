@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **Regulation National Market System (RegNMS)** is a comprehensive SEC framework adopted in 2007 that modernized US stock market structure. It mandates that orders be routed to achieve the best available prices, prohibits trades that bypass better prices at other venues (trade-through rule), requires fair access to exchanges, and establishes standards for market data and [alternative trading systems](/alternative-trading-system). RegNMS is the foundation of today's multi-venue market structure.*
+*The **Regulation National Market System (RegNMS)** is a comprehensive SEC framework adopted in 2007 that modernized US stock market structure. It mandates that orders be routed to achieve the best available prices, prohibits trades that bypass better prices at other venues (trade-through rule), requires fair access to exchanges, and establishes standards for market data and [alternative trading systems](/alternative-trading-system/). RegNMS is the foundation of today's multi-venue market structure.*
 
 <div class="wiki-hatnote">
 
-This entry is about market structure regulation. For international equivalents, see [MiFID II](/mifid-ii-trading); for the market infrastructure, see [Stock exchange](/stock-exchange).
+This entry is about market structure regulation. For international equivalents, see [MiFID II](/mifid-ii-trading/); for the market infrastructure, see [Stock exchange](/stock-exchange/).
 
 </div>
 
@@ -52,7 +52,7 @@ This rule ensures that retail investors receive fair prices and prevents old, sl
 
 **Best Execution Rule.** Brokers must execute orders to obtain the most favorable overall execution considering price, speed, size, and likelihood of execution. This rule obligates brokers to shop orders among multiple venues and select the best one.
 
-**Fair Access Rule.** [Alternative trading systems](/alternative-trading-system) must provide fair and non-discriminatory access to market participants who meet reasonable standards.
+**Fair Access Rule.** [Alternative trading systems](/alternative-trading-system/) must provide fair and non-discriminatory access to market participants who meet reasonable standards.
 
 **Market Data Rules.** Exchanges must offer standardized, consolidated market data feeds at reasonable costs. This enabled the proliferation of alternative data providers and competition.
 
@@ -62,9 +62,9 @@ This rule ensures that retail investors receive fair prices and prevents old, sl
 
 RegNMS enabled and encouraged the proliferation of trading venues:
 
-- **[Dark pools](/dark-pool-detail)** mushroomed after RegNMS because fair access and trade-through rules meant they could coexist with exchanges.
-- **[Alternative trading systems](/alternative-trading-system)** expanded in number and size.
-- **[Lit venues](/lit-venue-detail)** emerged as a distinct category.
+- **[Dark pools](/dark-pool-detail/)** mushroomed after RegNMS because fair access and trade-through rules meant they could coexist with exchanges.
+- **[Alternative trading systems](/alternative-trading-system/)** expanded in number and size.
+- **[Lit venues](/lit-venue-detail/)** emerged as a distinct category.
 - **High-frequency trading** was unleashed; RegNMS's speed-neutral rules allowed profits from speed to exceed profits from information.
 
 The result was far greater trading fragmentation: a single order might be split and routed to a dozen venues to achieve execution.
@@ -97,13 +97,13 @@ In practice, many brokers use automated order routing that electronically checks
 
 **High-frequency trading advantage.** Reg NMS's speed-neutral design allowed high-frequency traders to exploit sub-millisecond price discrepancies, widening spreads for retail investors during volatile periods.
 
-**Information asymmetry.** [Dark pools](/dark-pool-detail) hide order flow, reducing transparency. Retail investors don't know what's trading in dark pools.
+**Information asymmetry.** [Dark pools](/dark-pool-detail/) hide order flow, reducing transparency. Retail investors don't know what's trading in dark pools.
 
 **Flash crashes.** The 2010 flash crash occurred within a RegNMS market structure that, some argue, enabled cascading failures across venues.
 
 ## International regulation: Differences from MiFID
 
-RegNMS is the US framework. The EU has [MiFID II](/mifid-ii-trading), a similar but distinct market structure framework. Both mandate best execution and fair access but have different specific rules and venues.
+RegNMS is the US framework. The EU has [MiFID II](/mifid-ii-trading/), a similar but distinct market structure framework. Both mandate best execution and fair access but have different specific rules and venues.
 
 ## See also
 
@@ -111,18 +111,18 @@ RegNMS is the US framework. The EU has [MiFID II](/mifid-ii-trading), a similar 
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — subject to Reg NMS
-- [Alternative trading system](/alternative-trading-system) — governed by Reg NMS
-- [Dark pool](/dark-pool-detail) — enabled by Reg NMS
-- [Trade-through rule](/reg-nms-detail) — central Reg NMS provision
-- [Best execution](/broker) — Reg NMS requirement
+- [Stock exchange](/stock-exchange/) — subject to Reg NMS
+- [Alternative trading system](/alternative-trading-system/) — governed by Reg NMS
+- [Dark pool](/dark-pool-detail/) — enabled by Reg NMS
+- [Trade-through rule](/reg-nms-detail/) — central Reg NMS provision
+- [Best execution](/broker/) — Reg NMS requirement
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — governed by Reg NMS
-- [Market structure](/stock-market) — topic of Reg NMS
-- [Liquidity](/secondary-market) — affected by Reg NMS
-- [High-frequency trading](/stock-market) — enabled by Reg NMS
-- [Price discovery](/stock-market) — affected by Reg NMS fragmentation
+- [Secondary market](/secondary-market/) — governed by Reg NMS
+- [Market structure](/stock-market/) — topic of Reg NMS
+- [Liquidity](/secondary-market/) — affected by Reg NMS
+- [High-frequency trading](/stock-market/) — enabled by Reg NMS
+- [Price discovery](/stock-market/) — affected by Reg NMS fragmentation
 
 </div>

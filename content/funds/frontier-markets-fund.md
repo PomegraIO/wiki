@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **frontier markets fund** is an [ETF](/etf) or [mutual fund](/mutual-fund) that invests in [stocks](/stock) from the world's least-developed but functioning stock markets — Vietnam, Pakistan, Bangladesh, Kenya, Nigeria, and others. Frontier markets are earlier in development than [emerging markets](/emerging-markets-fund) but offer extreme growth potential paired with extreme risk: political instability, currency volatility, low liquidity, and limited investor protections.*
+*A **frontier markets fund** is an [ETF](/etf/) or [mutual fund](/mutual-fund/) that invests in [stocks](/stock/) from the world's least-developed but functioning stock markets — Vietnam, Pakistan, Bangladesh, Kenya, Nigeria, and others. Frontier markets are earlier in development than [emerging markets](/emerging-markets-fund/) but offer extreme growth potential paired with extreme risk: political instability, currency volatility, low liquidity, and limited investor protections.*
 
 <div class="wiki-hatnote">
 
-This entry covers frontier markets specifically. For more developed emerging markets, see [emerging markets fund](/emerging-markets-fund); for developed markets, see [international mutual fund](/international-mutual-fund).
+This entry covers frontier markets specifically. For more developed emerging markets, see [emerging markets fund](/emerging-markets-fund/); for developed markets, see [international mutual fund](/international-mutual-fund/).
 
 </div>
 
@@ -38,7 +38,7 @@ This entry covers frontier markets specifically. For more developed emerging mar
 | **Volatility** | Extreme (60%+ annual swings possible) |
 | **Currency risk** | Extreme (local currencies highly volatile) |
 | **Political risk** | Very high (coups, policy reversals) |
-| **Typical [expense ratio](/expense-ratio)** | 0.70%–1.00% |
+| **Typical [expense ratio](/expense-ratio/)** | 0.70%–1.00% |
 
 </aside>
 
@@ -74,7 +74,7 @@ Frontier markets funds appeal to long-term investors seeking:
 
 ## Risks specific to frontier markets
 
-Frontier markets are riskier than [emerging markets](/emerging-markets-fund), which are themselves riskier than developed markets:
+Frontier markets are riskier than [emerging markets](/emerging-markets-fund/), which are themselves riskier than developed markets:
 
 **Political instability.** Coups, assassinations, policy reversals, and corruption are real risks. A political upheaval can collapse markets overnight.
 
@@ -108,7 +108,7 @@ The pattern: frontier markets are extremely cyclical, with booms and crashes dec
 | Political risk | High | Moderate | Low |
 | Currency risk | Extreme | High | Moderate |
 | Liquidity | Very low | Low–moderate | Very high |
-| [Expense ratio](/expense-ratio) | 0.70–1.00% | 0.08–0.20% | 0.03–0.10% |
+| [Expense ratio](/expense-ratio/) | 0.70–1.00% | 0.08–0.20% | 0.03–0.10% |
 
 ## Allocation approach
 
@@ -137,7 +137,7 @@ Popular frontier market ETFs include:
 - **Invesco Emerging Markets Sovereign Debt ETF (PCY):** Emerging market bonds (less risky than stocks).
 - **Single-country ETFs (VNM for Vietnam, etc.):** Concentrated bets.
 
-Single-country exposure is riskier but can be cheaper (lower [expense ratios](/expense-ratio)) and more liquid.
+Single-country exposure is riskier but can be cheaper (lower [expense ratios](/expense-ratio/)) and more liquid.
 
 ## Realistic expectations
 
@@ -156,18 +156,18 @@ This is speculative investing, not a core portfolio allocation.
 
 ### Closely related
 
-- [Emerging markets fund](/emerging-markets-fund) — less risky alternative
-- [International mutual fund](/international-mutual-fund) — developed markets alternative
-- [Equity ETF](/equity-etf) — US stable alternative
-- [Currency risk](/option) — extreme in frontier markets
-- [Volatility](/option) — defining characteristic
+- [Emerging markets fund](/emerging-markets-fund/) — less risky alternative
+- [International mutual fund](/international-mutual-fund/) — developed markets alternative
+- [Equity ETF](/equity-etf/) — US stable alternative
+- [Currency risk](/option/) — extreme in frontier markets
+- [Volatility](/option/) — defining characteristic
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — proper sizing of frontier exposure
-- [Diversification](/diversification) — frontier markets offer it but at high cost
-- [Political risk](/option) — key risk factor
-- [Economic growth](/recession) — what drives frontier markets
-- [Stock exchange](/stock-exchange) — immature in frontier markets
+- [Asset allocation](/asset-allocation/) — proper sizing of frontier exposure
+- [Diversification](/diversification/) — frontier markets offer it but at high cost
+- [Political risk](/option/) — key risk factor
+- [Economic growth](/recession/) — what drives frontier markets
+- [Stock exchange](/stock-exchange/) — immature in frontier markets
 
 </div>

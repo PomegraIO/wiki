@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Scenario analysis is a systematic method for assessing portfolio risk by constructing and evaluating multiple named scenarios — specific, internally consistent descriptions of future states — and calculating portfolio losses in each. It is more structured than open-ended [stress-testing](/stress-testing) and complements quantitative risk measures like [value-at-risk](/value-at-risk).*
+*Scenario analysis is a systematic method for assessing portfolio risk by constructing and evaluating multiple named scenarios — specific, internally consistent descriptions of future states — and calculating portfolio losses in each. It is more structured than open-ended [stress-testing](/stress-testing/) and complements quantitative risk measures like [value-at-risk](/value-at-risk/).*
 
 <div class="wiki-hatnote">
 
-This entry covers structured scenario analysis. For exploratory stress testing without specific scenarios, see [stress-testing](/stress-testing); for the measurement of typical losses, see [value-at-risk](/value-at-risk).
+This entry covers structured scenario analysis. For exploratory stress testing without specific scenarios, see [stress-testing](/stress-testing/); for the measurement of typical losses, see [value-at-risk](/value-at-risk/).
 
 </div>
 
@@ -84,13 +84,13 @@ Compare losses across scenarios. Identify which scenarios hurt most and why. Adj
 - Inflation scenario hurts despite bonds gaining (bonds fall due to rate rise).
 - HF provides modest diversification in base and bull; loses in tail.
 
-**Decision:** The portfolio can lose 18% in a crisis. Is that acceptable? If not, increase bonds/cash or buy [tail hedges](/tail-risk).
+**Decision:** The portfolio can lose 18% in a crisis. Is that acceptable? If not, increase bonds/cash or buy [tail hedges](/tail-risk/).
 
 ## Scenario analysis in practice
 
 **Strategic asset allocation.** Investors use scenarios to decide how much to allocate to stocks, bonds, alternatives. "In a bull scenario, I want to capture upside; in a bear scenario, I want downside protection. What allocation balances these?" Scenarios help answer this.
 
-**Derivative hedging.** A corporation with foreign currency exposure uses scenarios to determine how many currency [forwards](/currency-risk) to buy. "In a depreciation scenario, I lose $X; the hedge protects me for cost Y. Is Y worth it?"
+**Derivative hedging.** A corporation with foreign currency exposure uses scenarios to determine how many currency [forwards](/currency-risk/) to buy. "In a depreciation scenario, I lose $X; the hedge protects me for cost Y. Is Y worth it?"
 
 **Credit decisions.** A lender to a company assesses creditworthiness by scenario. "In base case, the borrower is fine. In recession scenario, do they default?" If recession risk is high, require a higher interest rate.
 
@@ -102,19 +102,19 @@ Compare losses across scenarios. Identify which scenarios hurt most and why. Adj
 
 **Flexible.** Can be customized to a specific portfolio and risks. Tailor scenarios to your exposures.
 
-**No distributional assumption.** Unlike [value-at-risk](/value-at-risk), scenario analysis does not assume returns follow a normal distribution.
+**No distributional assumption.** Unlike [value-at-risk](/value-at-risk/), scenario analysis does not assume returns follow a normal distribution.
 
-**Captures tail risks.** By including explicit tail scenarios (crisis, crash), you address [tail-risk](/tail-risk) that models often miss.
+**Captures tail risks.** By including explicit tail scenarios (crisis, crash), you address [tail-risk](/tail-risk/) that models often miss.
 
 **Addresses unknowns.** Scenarios can be updated as new information arrives. If geopolitical risk rises, add a "war scenario."
 
 ## Limitations of scenario analysis
 
-**Subjectivity.** Scenarios are chosen by humans. If you miss a plausible scenario (as happened before [black swans](/black-swan)), analysis is incomplete.
+**Subjectivity.** Scenarios are chosen by humans. If you miss a plausible scenario (as happened before [black swans](/black-swan/)), analysis is incomplete.
 
 **No probability.** Scenarios do not have assigned probabilities. You know the loss in each but not the odds of each occurring.
 
-**Static holdings.** Analysis assumes holdings do not change. In reality, during a crisis, positions are sold, hedges are exercised, [correlations](/stock-market) change.
+**Static holdings.** Analysis assumes holdings do not change. In reality, during a crisis, positions are sold, hedges are exercised, [correlations](/stock-market/) change.
 
 **Labor-intensive.** Scenario analysis requires significant manual work. Easy for simple portfolios; painful for complex ones.
 
@@ -138,24 +138,24 @@ Use both: scenario analysis for regular risk reporting; stress testing to explor
 
 ### Closely related
 
-- [Stress-testing](/stress-testing) — complementary approach to scenario analysis
-- [Value-at-risk](/value-at-risk) — quantitative alternative
-- [Expected-shortfall](/expected-shortfall) — tail-loss measure
-- [Reverse-stress-test](/reverse-stress-test) — work backwards from unacceptable loss
-- [Tail-risk](/tail-risk) — what scenarios aim to assess
+- [Stress-testing](/stress-testing/) — complementary approach to scenario analysis
+- [Value-at-risk](/value-at-risk/) — quantitative alternative
+- [Expected-shortfall](/expected-shortfall/) — tail-loss measure
+- [Reverse-stress-test](/reverse-stress-test/) — work backwards from unacceptable loss
+- [Tail-risk](/tail-risk/) — what scenarios aim to assess
 
 ### Application areas
 
-- [Asset allocation](/asset-allocation) — decisions informed by scenarios
+- [Asset allocation](/asset-allocation/) — decisions informed by scenarios
 - Hedging — sizing hedges based on scenarios
-- [Capital adequacy](/capital-adequacy) — regulatory stress tests use scenarios
-- [Black-swan](/black-swan) — scenarios explore extreme events
-- [Gray-swan](/gray-swan) — foreseeable catastrophic scenarios
+- [Capital adequacy](/capital-adequacy/) — regulatory stress tests use scenarios
+- [Black-swan](/black-swan/) — scenarios explore extreme events
+- [Gray-swan](/gray-swan/) — foreseeable catastrophic scenarios
 
 ### Strategic use
 
-- [Risk management](/value-at-risk) — scenarios inform limits and controls
-- [Portfolio management](/asset-allocation) — scenarios guide allocation decisions
-- [Corporate risk](/operational-risk) — scenarios assess business impacts
+- [Risk management](/value-at-risk/) — scenarios inform limits and controls
+- [Portfolio management](/asset-allocation/) — scenarios guide allocation decisions
+- [Corporate risk](/operational-risk/) — scenarios assess business impacts
 
 </div>

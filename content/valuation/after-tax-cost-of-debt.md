@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **after-tax cost of debt** is what debt truly costs a company on an after-tax basis. A company might pay 5% interest, but if it has a 25% tax rate, the after-tax cost is only 3.75%. The difference—1.25 percentage points—is the tax shield: the government is effectively subsidizing the debt. This tax effect is why [weighted average cost of capital](/weighted-average-cost-of-capital) always uses after-tax cost of debt, not the bare interest rate.*
+*The **after-tax cost of debt** is what debt truly costs a company on an after-tax basis. A company might pay 5% interest, but if it has a 25% tax rate, the after-tax cost is only 3.75%. The difference—1.25 percentage points—is the tax shield: the government is effectively subsidizing the debt. This tax effect is why [weighted average cost of capital](/weighted-average-cost-of-capital/) always uses after-tax cost of debt, not the bare interest rate.*
 
 ## The formula and the intuition
 
@@ -52,7 +52,7 @@ This is why highly leveraged structures create value (on paper): they extract ma
 
 ## A key assumption in WACC
 
-In the [weighted average cost of capital](/weighted-average-cost-of-capital) formula:
+In the [weighted average cost of capital](/weighted-average-cost-of-capital/) formula:
 
 WACC = (E / D+E) × r_e + (D / D+E) × r_d × (1 - T_c)
 
@@ -92,26 +92,26 @@ For practical valuation, the difference is small. Use the cost of debt as the di
 
 ### Closely related
 
-- [Cost of debt](/cost-of-debt) — the pre-tax cost
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — always uses after-tax cost
+- [Cost of debt](/cost-of-debt/) — the pre-tax cost
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — always uses after-tax cost
 - Tax rate — determines the shield magnitude
 - Tax shield — the underlying concept
 
 ### Valuation impact
 
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — uses WACC with after-tax cost
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent method
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — uses WACC with after-tax cost
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent method
 - Capital structure — determines debt amount and thus shield value
 
 ### Related concepts
 
-- [Interest rate](/interest-rate) — drives cost of debt
-- [Bond](/bond) — the source of debt cost
+- [Interest rate](/interest-rate/) — drives cost of debt
+- [Bond](/bond/) — the source of debt cost
 - Leverage — creates the tax shield benefit
 
 ### Sensitivity and analysis
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing tax-rate sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across tax and leverage assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing tax-rate sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across tax and leverage assumptions
 
 </div>

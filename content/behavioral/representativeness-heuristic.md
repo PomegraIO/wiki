@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to base-rate neglect and conjunction fallacy. For the failure to account for initial conditions, see [base rate neglect](/base-rate-neglect).
+Related to base-rate neglect and conjunction fallacy. For the failure to account for initial conditions, see [base rate neglect](/base-rate-neglect/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to base-rate neglect and conjunction fallacy. For the failure to account
 | **Discovered by** | Tversky & Kahneman (1974) |
 | **Operates on** | Category judgment, forecasting, stock selection |
 | **Investor impact** | Overweighting growth stocks that fit the "growth" image; misjudging startup success rates; sector-level stereotyping |
-| **Related phenomenon** | [Base rate neglect](/base-rate-neglect), [conjunction fallacy](/conjunction-fallacy) |
+| **Related phenomenon** | [Base rate neglect](/base-rate-neglect/), [conjunction fallacy](/conjunction-fallacy/) |
 | **Severity** | Affects probability judgment universally |
 
 </aside>
@@ -53,13 +53,13 @@ If a company looks like it fits the template of a successful biotech (promising 
 
 The problem is that similarity is not the same as probability. A company can be very representative of the "successful startup" category and still be unlikely to succeed, simply because most startups fail.
 
-## Representativeness and [price-to-earnings ratios](/price-to-earnings-ratio)
+## Representativeness and [price-to-earnings ratios](/price-to-earnings-ratio/)
 
 Representativeness helps explain why growth stocks often trade at high valuations. A company with high revenue growth, market leadership, and a charismatic CEO looks like the "template" of a great investment, so investors pay a premium multiple. But the base rate of companies that deliver returns commensurate with those multiples is low. Many high-growth stocks turn out to be overvalued.
 
 Conversely, a cheap, slow-growing, dividend-paying industrial company may not look like the "template" of a good investment, so it trades at a low multiple — even though cheap, overlooked companies historically deliver better returns than expensive, popular ones.
 
-## Representativeness and the [conjunction fallacy](/conjunction-fallacy)
+## Representativeness and the [conjunction fallacy](/conjunction-fallacy/)
 
 Representativeness directly causes the conjunction fallacy: the belief that a conjunction (two events happening together) is more likely than one of the individual events. This is mathematically impossible but psychologically very common when the conjunction matches a stereotype better than the individual event does.
 
@@ -73,15 +73,15 @@ Similarly, after a sector outperforms (tech, crypto, energy), it becomes represe
 
 ## Distinguishing representativeness from base-rate neglect
 
-Representativeness is about *similarity to a stereotype*. [Base-rate neglect](/base-rate-neglect) is about ignoring the *actual statistical frequency* of a category. They often occur together: you judge something as representative of "successful company" (similarity judgment) and therefore assign it a high success probability, ignoring that the actual base rate of successful companies is low.
+Representativeness is about *similarity to a stereotype*. [Base-rate neglect](/base-rate-neglect/) is about ignoring the *actual statistical frequency* of a category. They often occur together: you judge something as representative of "successful company" (similarity judgment) and therefore assign it a high success probability, ignoring that the actual base rate of successful companies is low.
 
-Representativeness is also related to [anchoring bias](/anchoring-bias) in that both distort judgment, but anchoring is about dependence on a starting number, while representativeness is about similarity to a mental template.
+Representativeness is also related to [anchoring bias](/anchoring-bias/) in that both distort judgment, but anchoring is about dependence on a starting number, while representativeness is about similarity to a mental template.
 
 ## Defenses against representativeness bias
 
 - **Learn base rates.** Before investing in a category (growth stocks, startups, emerging markets), find out: what fraction of companies in this category actually succeed? What is their median return? Anchor your judgment to that base rate, not to the similarity of individual cases.
 - **Separate "good story" from "good investment."** A company can have a wonderful, representative-of-success story (great product, talented team, big market) and still be a poor investment if it is already priced for perfection.
-- **Use a [decision framework](/asset-allocation)** based on valuation, not on narrative fit. Does the [price-to-earnings ratio](/price-to-earnings-ratio) match historical returns for similar companies? That question is much less susceptible to representativeness than "does this story sound like a winner?"
+- **Use a [decision framework](/asset-allocation/)** based on valuation, not on narrative fit. Does the [price-to-earnings ratio](/price-to-earnings-ratio/) match historical returns for similar companies? That question is much less susceptible to representativeness than "does this story sound like a winner?"
 - **Diversify within categories.** Rather than choosing the most representative growth stock, hold a basket of growth stocks at varying valuations. This forces you to confront actual base rates, not stereotypes.
 
 ## See also
@@ -90,18 +90,18 @@ Representativeness is also related to [anchoring bias](/anchoring-bias) in that 
 
 ### Closely related
 
-- [Base rate neglect](/base-rate-neglect) — ignoring actual statistical frequency
-- [Conjunction fallacy](/conjunction-fallacy) — believing conjunctions are more probable than subsets
-- [Availability heuristic](/availability-heuristic) — judging by ease of recall
-- [Anchoring bias](/anchoring-bias) — overweighting a starting point
-- [Halo effect](/halo-effect) — one attribute coloring overall judgment
+- [Base rate neglect](/base-rate-neglect/) — ignoring actual statistical frequency
+- [Conjunction fallacy](/conjunction-fallacy/) — believing conjunctions are more probable than subsets
+- [Availability heuristic](/availability-heuristic/) — judging by ease of recall
+- [Anchoring bias](/anchoring-bias/) — overweighting a starting point
+- [Halo effect](/halo-effect/) — one attribute coloring overall judgment
 
 ### Wider context
 
-- [Overconfidence bias](/overconfidence-bias) — excessive certainty about judgments
-- [Confirmation bias](/confirmation-bias) — seeking confirming evidence for stereotypes
-- [Narrative fallacy](/narrative-fallacy) — believing compelling stories over statistics
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — how valuation relates to return
-- [Prospect theory](/prospect-theory) — the broader framework of biased choice
+- [Overconfidence bias](/overconfidence-bias/) — excessive certainty about judgments
+- [Confirmation bias](/confirmation-bias/) — seeking confirming evidence for stereotypes
+- [Narrative fallacy](/narrative-fallacy/) — believing compelling stories over statistics
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — how valuation relates to return
+- [Prospect theory](/prospect-theory/) — the broader framework of biased choice
 
 </div>

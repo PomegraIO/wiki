@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **barrier option** is an exotic derivative whose existence or payoff is contingent on the underlying asset's price reaching (or not reaching) a specified level—the "barrier"—at any point before [expiration](/expiration-date). If the barrier is crossed, a knock-in option activates; a knock-out option expires worthless. This path-dependent structure makes barrier options cheaper and more tailored to specific hedging needs than [vanilla option](/call-option) alternatives.*
+*A **barrier option** is an exotic derivative whose existence or payoff is contingent on the underlying asset's price reaching (or not reaching) a specified level—the "barrier"—at any point before [expiration](/expiration-date/). If the barrier is crossed, a knock-in option activates; a knock-out option expires worthless. This path-dependent structure makes barrier options cheaper and more tailored to specific hedging needs than [vanilla option](/call-option/) alternatives.*
 
 <aside class="wiki-infobox">
 
@@ -48,7 +48,7 @@ A barrier option can be one of four combinations:
 
 ## Why barrier options are cheaper
 
-A [knock-out](/knock-out-option) option is cheaper than a vanilla [call option](/call-option) because it can disappear if the stock makes a big move. A [knock-in](/knock-in-option) option is cheaper because it starts worthless; you pay for the *chance* it will activate, not the certainty that it exists.
+A [knock-out](/knock-out-option/) option is cheaper than a vanilla [call option](/call-option/) because it can disappear if the stock makes a big move. A [knock-in](/knock-in-option/) option is cheaper because it starts worthless; you pay for the *chance* it will activate, not the certainty that it exists.
 
 An up-and-out call struck at $100 with a barrier at $120 is much cheaper than a vanilla call at $100, because if the stock rockets past $120, the option vanishes and you get nothing. The buyer is implicitly betting that the stock will rise to his profit level ($105–$119) without crossing the barrier at $120.
 
@@ -56,11 +56,11 @@ Similarly, a down-and-in put struck at $90 with a barrier at $70 is much cheaper
 
 ## Risk transfer and hedging
 
-Barrier options let companies hedge selectively. Suppose a stock is trading at $100 and you own shares. A vanilla [put option](/put-option) struck at $90 protects you below $90, costing (say) $2 per share. But a down-and-in put struck at $90 with a barrier at $70 costs only $0.50 per share, because it activates only if the crash is severe.
+Barrier options let companies hedge selectively. Suppose a stock is trading at $100 and you own shares. A vanilla [put option](/put-option/) struck at $90 protects you below $90, costing (say) $2 per share. But a down-and-in put struck at $90 with a barrier at $70 costs only $0.50 per share, because it activates only if the crash is severe.
 
-This trade-off makes sense if you are willing to accept losses between $90 and $70 (which are rare in normal markets) to save [premium](/option-premium) on routine downside. You keep the tail-hedge cheaply.
+This trade-off makes sense if you are willing to accept losses between $90 and $70 (which are rare in normal markets) to save [premium](/option-premium/) on routine downside. You keep the tail-hedge cheaply.
 
-Similarly, a corporate treasurer wanting to hedge currency exposure for a deal that may or may not close can use a knock-in option. The option is dormant until the deal is announced (the "barrier" is the news), at which point the hedge activates. This saves [premium](/option-premium) for a contingent liability.
+Similarly, a corporate treasurer wanting to hedge currency exposure for a deal that may or may not close can use a knock-in option. The option is dormant until the deal is announced (the "barrier" is the news), at which point the hedge activates. This saves [premium](/option-premium/) for a contingent liability.
 
 ## Monitoring and activation
 
@@ -70,15 +70,15 @@ Once the barrier is crossed, it cannot be uncrossed for a knock-out (the option 
 
 ## Pricing barrier options
 
-Valuing barrier options requires accounting for the probability that the barrier is hit. [Black-Scholes model](/black-scholes-model) extensions exist for vanilla barrier options, particularly in currency and interest-rate markets. The key input is the probability of hitting the barrier level given the current price, the barrier level, [volatility](/historical-volatility), and time to [expiration](/expiration-date).
+Valuing barrier options requires accounting for the probability that the barrier is hit. [Black-Scholes model](/black-scholes-model/) extensions exist for vanilla barrier options, particularly in currency and interest-rate markets. The key input is the probability of hitting the barrier level given the current price, the barrier level, [volatility](/historical-volatility/), and time to [expiration](/expiration-date/).
 
-Higher [volatility](/historical-volatility) increases the probability of hitting any barrier, so it increases the value of knock-in options and decreases the value of knock-out options. A knock-out becomes cheaper when volatility rises (more likely to be knocked out). A knock-in becomes more expensive (more likely to activate).
+Higher [volatility](/historical-volatility/) increases the probability of hitting any barrier, so it increases the value of knock-in options and decreases the value of knock-out options. A knock-out becomes cheaper when volatility rises (more likely to be knocked out). A knock-in becomes more expensive (more likely to activate).
 
 ## Greeks and path dependency
 
-[Delta](/delta) for a barrier option depends on distance to the barrier. A call deep in-the-money but also near a knock-out barrier has lower [delta](/delta) than an otherwise similar vanilla call, because crossing the barrier kills the option. [Gamma](/gamma) can spike near the barrier level, where small price moves drastically change the payoff probability.
+[Delta](/delta/) for a barrier option depends on distance to the barrier. A call deep in-the-money but also near a knock-out barrier has lower [delta](/delta/) than an otherwise similar vanilla call, because crossing the barrier kills the option. [Gamma](/gamma/) can spike near the barrier level, where small price moves drastically change the payoff probability.
 
-[Vega](/vega) (sensitivity to [volatility](/historical-volatility)) is negative for knock-out options and positive for knock-in options, the reverse of a vanilla option's vega in some regimes. This makes hedging barrier options more complex.
+[Vega](/vega/) (sensitivity to [volatility](/historical-volatility/)) is negative for knock-out options and positive for knock-in options, the reverse of a vanilla option's vega in some regimes. This makes hedging barrier options more complex.
 
 ## Common variations
 

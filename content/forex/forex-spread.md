@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **spread** in FX is the gap between the bid price (what the broker will pay for a [currency pair](/currency-pair)) and the ask price (what the broker will charge). The spread is measured in [pips](/pip) and represents the immediate cost of opening a trade. A [major pair](/major-currency-pair) might spread 1 [pip](/pip); an [exotic pair](/exotic-currency-pair) might spread 10–20 pips or more.*
+*A **spread** in FX is the gap between the bid price (what the broker will pay for a [currency pair](/currency-pair/)) and the ask price (what the broker will charge). The spread is measured in [pips](/pip/) and represents the immediate cost of opening a trade. A [major pair](/major-currency-pair/) might spread 1 [pip](/pip/); an [exotic pair](/exotic-currency-pair/) might spread 10–20 pips or more.*
 
 <div class="wiki-hatnote">
 
-For the collateral backing the leverage to trade at these spreads, see [forex margin](/forex-margin); for the volume-dependent pricing, see [broker](/broker).
+For the collateral backing the leverage to trade at these spreads, see [forex margin](/forex-margin/); for the volume-dependent pricing, see [broker](/broker/).
 
 </div>
 
@@ -44,11 +44,11 @@ When you see a quote for EUR/USD as 1.0850/1.0851, this means:
 
 - **Bid:** 1.0850 (the price at which the dealer will buy euros from you)
 - **Ask:** 1.0851 (the price at which the dealer will sell euros to you)
-- **Spread:** 0.0001, or 1 [pip](/pip)
+- **Spread:** 0.0001, or 1 [pip](/pip/)
 
 If you buy (going long), you pay the ask: 1.0851. If you sell (going short), you receive the bid: 1.0850. The moment you open the trade, you are down by the spread. You have lost 1 pip before the market even moves. To break even, the price must move 1 pip in your favor.
 
-On a [standard lot](/standard-lot) of EUR/USD, a 1-pip spread costs $10. On a [mini lot](/mini-lot), it costs $1. On a [micro lot](/micro-lot), it costs $0.10. So spreads are a smaller obstacle on smaller lot sizes.
+On a [standard lot](/standard-lot/) of EUR/USD, a 1-pip spread costs $10. On a [mini lot](/mini-lot/), it costs $1. On a [micro lot](/micro-lot/), it costs $0.10. So spreads are a smaller obstacle on smaller lot sizes.
 
 ## Why spreads exist
 
@@ -58,7 +58,7 @@ Spreads also reflect market conditions. In a tight, liquid market with many comp
 
 ## Spreads on major vs. exotic pairs
 
-**Major pairs** — EUR/USD, USD/JPY, GBP/USD — trade continuously with thousands of price-makers competing. Spreads are razor-tight: 0.5 [pips](/pip) in the wholesale interbank market, 1–2 pips for institutional clients, 2–4 pips for retail. A trader can jump in and out frequently with minimal friction.
+**Major pairs** — EUR/USD, USD/JPY, GBP/USD — trade continuously with thousands of price-makers competing. Spreads are razor-tight: 0.5 [pips](/pip/) in the wholesale interbank market, 1–2 pips for institutional clients, 2–4 pips for retail. A trader can jump in and out frequently with minimal friction.
 
 **Minor pairs** — EUR/GBP, AUD/JPY, etc. — are less liquid. Spreads are 2–5 pips typically. Less frequent trading; fewer competing dealers.
 
@@ -74,9 +74,9 @@ Most retail brokers offer variable spreads with a disclaimer that "spreads may w
 
 ## The cost of a round trip
 
-A round trip — buying and then selling, or selling and then buying — costs you the spread twice. If EUR/USD spreads 1 pip, a round trip costs 2 pips. On a [mini lot](/mini-lot), that is $2 round-trip cost. On a [standard lot](/standard-lot), it is $20.
+A round trip — buying and then selling, or selling and then buying — costs you the spread twice. If EUR/USD spreads 1 pip, a round trip costs 2 pips. On a [mini lot](/mini-lot/), that is $2 round-trip cost. On a [standard lot](/standard-lot/), it is $20.
 
-For a day trader making 5 trades a day on 5 [mini lots](/mini-lot), the daily spread cost is 5 trades × 5 lots × $1 per pip × 2 pips = $50 per day. Over a month (20 trading days), that is $1,000 in spread costs alone. This is why day trading in FX is a difficult game — you must make enough profit to cover spreads, commissions (if any), and slippage, and still come out ahead.
+For a day trader making 5 trades a day on 5 [mini lots](/mini-lot/), the daily spread cost is 5 trades × 5 lots × $1 per pip × 2 pips = $50 per day. Over a month (20 trading days), that is $1,000 in spread costs alone. This is why day trading in FX is a difficult game — you must make enough profit to cover spreads, commissions (if any), and slippage, and still come out ahead.
 
 ## See also
 
@@ -84,16 +84,16 @@ For a day trader making 5 trades a day on 5 [mini lots](/mini-lot), the daily sp
 
 ### Closely related
 
-- [Pip](/pip) — how spreads are measured
-- [Bid-ask](/pip) — the structure behind spreads
-- [Major currency pair](/major-currency-pair) — where spreads are tightest
-- [Exotic currency pair](/exotic-currency-pair) — where spreads are widest
-- [Broker](/broker) — sets spreads through their dealing desk
+- [Pip](/pip/) — how spreads are measured
+- [Bid-ask](/pip/) — the structure behind spreads
+- [Major currency pair](/major-currency-pair/) — where spreads are tightest
+- [Exotic currency pair](/exotic-currency-pair/) — where spreads are widest
+- [Broker](/broker/) — sets spreads through their dealing desk
 
 ### Wider context
 
-- [Forex leverage](/forex-leverage) — does not reduce spread costs
-- [Lot size](/lot-size-forex) — scales the dollar cost of spreads
-- [Slippage](/forex-spread) — the gap between quoted price and execution price
+- [Forex leverage](/forex-leverage/) — does not reduce spread costs
+- [Lot size](/lot-size-forex/) — scales the dollar cost of spreads
+- [Slippage](/forex-spread/) — the gap between quoted price and execution price
 
 </div>

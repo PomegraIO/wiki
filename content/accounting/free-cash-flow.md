@@ -10,7 +10,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*[Free cash flow](/free-cash-flow) (FCF) is the cash a company generates from operations, minus the capital expenditures needed to maintain and expand its asset base. It is the cash available to the company to repay debt, pay dividends, repurchase shares, or pursue strategic investments. [Free cash flow](/free-cash-flow) = Operating cash flow - Capital expenditure. [Free cash flow](/free-cash-flow) is arguably more reliable than reported earnings for valuing a company, because earnings can be distorted by accounting choices, but [free cash flow](/free-cash-flow) is based on actual cash. A company with strong [free cash flow](/free-cash-flow) can sustain itself, invest, and weather downturns. A company with weak [free cash flow](/free-cash-flow) despite reported profit is burning cash and faces sustainability risks.*
+*[Free cash flow](/free-cash-flow/) (FCF) is the cash a company generates from operations, minus the capital expenditures needed to maintain and expand its asset base. It is the cash available to the company to repay debt, pay dividends, repurchase shares, or pursue strategic investments. [Free cash flow](/free-cash-flow/) = Operating cash flow - Capital expenditure. [Free cash flow](/free-cash-flow/) is arguably more reliable than reported earnings for valuing a company, because earnings can be distorted by accounting choices, but [free cash flow](/free-cash-flow/) is based on actual cash. A company with strong [free cash flow](/free-cash-flow/) can sustain itself, invest, and weather downturns. A company with weak [free cash flow](/free-cash-flow/) despite reported profit is burning cash and faces sustainability risks.*
 
 <div class="wiki-hatnote">
 
@@ -39,9 +39,9 @@ This entry covers free cash flow as a metric. For the components, see operating-
 
 ## Calculation
 
-[Free cash flow](/free-cash-flow) is simple in concept:
+[Free cash flow](/free-cash-flow/) is simple in concept:
 
-[Free cash flow](/free-cash-flow) = Operating cash flow - Capital expenditure
+[Free cash flow](/free-cash-flow/) = Operating cash flow - Capital expenditure
 
 Where:
 - **Operating cash flow**: Cash from core business (selling products, providing services).
@@ -56,13 +56,13 @@ The $350 million is available to service debt, pay dividends, repurchase shares,
 
 ## Why FCF matters more than earnings
 
-[Free cash flow](/free-cash-flow) is often considered the truest measure of a company's financial performance because:
+[Free cash flow](/free-cash-flow/) is often considered the truest measure of a company's financial performance because:
 
-**Accounting is not a factor**: [Free cash flow](/free-cash-flow) is based on actual cash in and out, not [accrual-accounting](/accrual-accounting) choices. Two companies might report identical earnings using different [depreciation](/depreciation) methods, but their [free cash flows](/free-cash-flow) will be the same.
+**Accounting is not a factor**: [Free cash flow](/free-cash-flow/) is based on actual cash in and out, not [accrual-accounting](/accrual-accounting/) choices. Two companies might report identical earnings using different [depreciation](/depreciation/) methods, but their [free cash flows](/free-cash-flow/) will be the same.
 
-**Real economic constraint**: A company must generate positive [free cash flow](/free-cash-flow) eventually or it will run out of cash and fail. Earnings alone don't ensure survival; [free cash flow](/free-cash-flow) does.
+**Real economic constraint**: A company must generate positive [free cash flow](/free-cash-flow/) eventually or it will run out of cash and fail. Earnings alone don't ensure survival; [free cash flow](/free-cash-flow/) does.
 
-**No "accounting tricks"**: A company can boost reported earnings via [revenue-recognition](/revenue-recognition) timing or capitalization of costs. But [free cash flow](/free-cash-flow) can't be faked; either cash came in or it didn't.
+**No "accounting tricks"**: A company can boost reported earnings via [revenue-recognition](/revenue-recognition/) timing or capitalization of costs. But [free cash flow](/free-cash-flow/) can't be faked; either cash came in or it didn't.
 
 ## Capital intensity and FCF
 
@@ -76,7 +76,7 @@ When comparing companies in different industries, understanding capex needs is c
 
 ## FCF and valuation
 
-[Free cash flow](/free-cash-flow) is central to valuation models:
+[Free cash flow](/free-cash-flow/) is central to valuation models:
 
 **Discounted FCF**: Company value = Sum of future FCF discounted to present. A company with stable, growing FCF is valuable; one with declining FCF is at risk.
 
@@ -126,10 +126,10 @@ Companies with stable, low capex intensity (e.g., software, franchises) have mor
 
 - Operating-cash-flow — starting point for FCF
 - Capital-expenditure — subtracted from OCF
-- [Cash-flow-statement](/cash-flow-statement) — shows OCF and capex
-- [Dividend](/dividend) — often paid from FCF
-- [Share-buyback](/share-buyback) — funded by FCF
-- [EBITDA](/ebitda) — operating metric, different from FCF
+- [Cash-flow-statement](/cash-flow-statement/) — shows OCF and capex
+- [Dividend](/dividend/) — often paid from FCF
+- [Share-buyback](/share-buyback/) — funded by FCF
+- [EBITDA](/ebitda/) — operating metric, different from FCF
 
 ### Context
 

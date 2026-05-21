@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **credit default swap (CDS)** is a [swap](/swap) contract where one party (the buyer) pays periodic premiums to another party (the seller) to transfer credit risk on a reference entity (corporation or sovereign). If the reference entity defaults on its [debt](/bond), the seller pays the buyer a large sum (insurance-like payout). CDS are used to hedge [bond](/bond) portfolios, speculate on credit, and price credit risk. They became infamous during the 2008 financial crisis when the notional value of CDS exceeded the world's [GDP](/stock-market).*
+*A **credit default swap (CDS)** is a [swap](/swap/) contract where one party (the buyer) pays periodic premiums to another party (the seller) to transfer credit risk on a reference entity (corporation or sovereign). If the reference entity defaults on its [debt](/bond/), the seller pays the buyer a large sum (insurance-like payout). CDS are used to hedge [bond](/bond/) portfolios, speculate on credit, and price credit risk. They became infamous during the 2008 financial crisis when the notional value of CDS exceeded the world's [GDP](/stock-market/).*
 
 <aside class="wiki-infobox">
 
@@ -56,7 +56,7 @@ As a company's financial health declines, its CDS spread widens (premiums rise).
 
 ## Naked CDS: speculation
 
-Not all CDS buyers hold the underlying [bond](/bond). A speculator can buy CDS on a company with no position, betting on default. If the company defaults, the speculator profits.
+Not all CDS buyers hold the underlying [bond](/bond/). A speculator can buy CDS on a company with no position, betting on default. If the company defaults, the speculator profits.
 
 This is called a **naked CDS** and is essentially a credit bet, not a hedge.
 
@@ -95,7 +95,7 @@ Sophisticated investors exploit basis by going long the bond and long CDS, or sh
 - [CDS index](/bond/) — aggregate credit risk
 - [Credit markets](/bond/) — where CDS trade
 - [Correlation](/diversification/) — crisis correlation spikes
-- [Financial crisis](/stock-market) — 2008 crisis and CDS
+- [Financial crisis](/stock-market/) — 2008 crisis and CDS
 
 ### Strategies
 
@@ -108,7 +108,7 @@ Sophisticated investors exploit basis by going long the bond and long CDS, or sh
 
 - [Derivative](/option/) — the family of instruments
 - [Risk transfer](/hedge-fund/) — core CDS function
-- [Systemic risk](/stock-market) — CDS interconnectedness
+- [Systemic risk](/stock-market/) — CDS interconnectedness
 - [Central clearing](/stock-exchange/) — post-crisis requirement
 
 </div>

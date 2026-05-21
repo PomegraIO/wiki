@@ -14,7 +14,7 @@ image: "/svg/macro.svg"
 
 <div class="wiki-hatnote">
 
-The nonfarm payroll report also includes the [unemployment rate](/unemployment-rate) and wage growth data. Together, these three metrics form the headline employment report.
+The nonfarm payroll report also includes the [unemployment rate](/unemployment-rate/) and wage growth data. Together, these three metrics form the headline employment report.
 
 </div>
 
@@ -45,8 +45,8 @@ Nonfarm payroll growth is the single most important labor market statistic becau
 
 1. **It is timely.** Released early in the month with minimal lag.
 2. **It is reliable.** Based on a large sample of actual payroll data, not surveys about intentions.
-3. **It is indicative of [business cycle](/business-cycle) strength.** Strong payroll growth signals economic expansion; weak growth or negative payrolls signal weakness or recession.
-4. **It affects monetary policy.** The [Federal Reserve](/federal-reserve) uses payroll growth to gauge labor market health and guide rate decisions.
+3. **It is indicative of [business cycle](/business-cycle/) strength.** Strong payroll growth signals economic expansion; weak growth or negative payrolls signal weakness or recession.
+4. **It affects monetary policy.** The [Federal Reserve](/federal-reserve/) uses payroll growth to gauge labor market health and guide rate decisions.
 5. **It moves markets.** Stock, bond, and currency markets move sharply on payroll surprises.
 
 ## The establishment survey methodology
@@ -58,7 +58,7 @@ Nonfarm payrolls come from the "Establishment Survey," which surveys business pa
 - **Actual data:** Based on real payroll records, not worker surveys.
 - **Lags:** Two months of revisions; initial estimate is often notably wrong.
 
-This differs from the "Household Survey," which asks individuals if they are employed. The household survey has higher [unemployment](/unemployment-rate) because it includes farm and household workers. Discrepancies between the two surveys are common and worth investigating.
+This differs from the "Household Survey," which asks individuals if they are employed. The household survey has higher [unemployment](/unemployment-rate/) because it includes farm and household workers. Discrepancies between the two surveys are common and worth investigating.
 
 ## Payroll growth across the business cycle
 
@@ -97,20 +97,20 @@ The BLS reports payroll changes by sector: leisure/hospitality, professional ser
 
 - Strong **tech hiring** but weak **retail** = reallocation, not pure weakness.
 - Widespread **weakness across sectors** = recession.
-- Strong **everywhere** = overheating, [inflation](/inflation) risk.
+- Strong **everywhere** = overheating, [inflation](/inflation/) risk.
 
 ## Payrolls versus the labor force
 
-An important distinction: payroll growth ≠ [unemployment](/unemployment-rate) change:
+An important distinction: payroll growth ≠ [unemployment](/unemployment-rate/) change:
 
-- Payrolls can grow 150k while [unemployment](/unemployment-rate) stays flat if the [labor force](/labor-force-participation-rate) grows 150k.
-- [Unemployment](/unemployment-rate) can fall 0.5% while payrolls grow only 100k if the [labor force](/labor-force-participation-rate) shrinks by 50k.
+- Payrolls can grow 150k while [unemployment](/unemployment-rate/) stays flat if the [labor force](/labor-force-participation-rate/) grows 150k.
+- [Unemployment](/unemployment-rate/) can fall 0.5% while payrolls grow only 100k if the [labor force](/labor-force-participation-rate/) shrinks by 50k.
 
-Since [labor force participation](/labor-force-participation-rate) has been declining/stagnant, payroll growth has not fully translated to [unemployment](/unemployment-rate) falling. This complicates the policy picture.
+Since [labor force participation](/labor-force-participation-rate/) has been declining/stagnant, payroll growth has not fully translated to [unemployment](/unemployment-rate/) falling. This complicates the policy picture.
 
 ## The "Sahm Rule"
 
-An informal but useful rule: the **Sahm rule** declares a recession likely when the 3-month average [unemployment](/unemployment-rate) rises 0.5% or more above its 12-month low. This rule has predicted most recent recessions.
+An informal but useful rule: the **Sahm rule** declares a recession likely when the 3-month average [unemployment](/unemployment-rate/) rises 0.5% or more above its 12-month low. This rule has predicted most recent recessions.
 
 While payroll data alone is not sufficient (participation matters), negative payroll growth (or near-zero growth) for multiple months typically triggers recession-watching.
 
@@ -120,18 +120,18 @@ While payroll data alone is not sufficient (participation matters), negative pay
 
 ### Closely related
 
-- [Unemployment rate](/unemployment-rate) — from same employment report
-- [Labor force participation rate](/labor-force-participation-rate) — determines whether payroll growth lowers unemployment
+- [Unemployment rate](/unemployment-rate/) — from same employment report
+- [Labor force participation rate](/labor-force-participation-rate/) — determines whether payroll growth lowers unemployment
 - Wages — third component of employment report
-- [Business cycle](/business-cycle) — payrolls are pro-cyclical
-- [Employment-population ratio](/employment-population-ratio) — alternative measure
+- [Business cycle](/business-cycle/) — payrolls are pro-cyclical
+- [Employment-population ratio](/employment-population-ratio/) — alternative measure
 
 ### Broader context
 
-- [Recession](/recession) — negative payrolls signal recession
-- [Inflation](/inflation) — strong payroll growth can drive inflation
+- [Recession](/recession/) — negative payrolls signal recession
+- [Inflation](/inflation/) — strong payroll growth can drive inflation
 - Monetary policy — Fed watches payrolls closely
-- [Stock market](/stock-market) — reacts to payroll data
-- [Labor market](/labor-force-participation-rate) — overall health indicator
+- [Stock market](/stock-market/) — reacts to payroll data
+- [Labor market](/labor-force-participation-rate/) — overall health indicator
 
 </div>

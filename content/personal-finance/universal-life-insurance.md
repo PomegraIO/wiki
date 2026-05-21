@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **universal-life (UL)** insurance policy is permanent life insurance with more flexibility than [whole-life](/whole-life-insurance). You can adjust your premiums and death benefit over time. Cash value accumulates and is credited with interest (typically linked to market indexes). UL is more affordable than whole-life but riskier if interest rates fall.*
+*A **universal-life (UL)** insurance policy is permanent life insurance with more flexibility than [whole-life](/whole-life-insurance/). You can adjust your premiums and death benefit over time. Cash value accumulates and is credited with interest (typically linked to market indexes). UL is more affordable than whole-life but riskier if interest rates fall.*
 
 <div class="wiki-hatnote">
 
-For fixed whole-life, see [whole-life insurance](/whole-life-insurance); for investment-linked coverage, see [variable-life insurance](/variable-life-insurance); for temporary coverage, see [term-life insurance](/term-life-insurance).
+For fixed whole-life, see [whole-life insurance](/whole-life-insurance/); for investment-linked coverage, see [variable-life insurance](/variable-life-insurance/); for temporary coverage, see [term-life insurance](/term-life-insurance/).
 
 </div>
 
@@ -105,16 +105,16 @@ If the policy lapses, you lose coverage without penalty. To avoid this, monitor 
 
 ### Closely related
 
-- [Term-life insurance](/term-life-insurance) — cheaper temporary coverage
-- [Whole-life insurance](/whole-life-insurance) — fixed permanent coverage
-- [Variable-life insurance](/variable-life-insurance) — permanent with investment component
-- [Disability insurance](/disability-insurance-personal) — income protection
+- [Term-life insurance](/term-life-insurance/) — cheaper temporary coverage
+- [Whole-life insurance](/whole-life-insurance/) — fixed permanent coverage
+- [Variable-life insurance](/variable-life-insurance/) — permanent with investment component
+- [Disability insurance](/disability-insurance-personal/) — income protection
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — impacts UL cash value growth
-- [Compound interest](/compound-interest) — cash value accumulation
-- [Emergency fund](/emergency-fund) — income protection
-- [Budgeting methods](/budgeting-methods) — insurance as budget item
+- [Interest rate](/interest-rate/) — impacts UL cash value growth
+- [Compound interest](/compound-interest/) — cash value accumulation
+- [Emergency fund](/emergency-fund/) — income protection
+- [Budgeting methods](/budgeting-methods/) — insurance as budget item
 
 </div>

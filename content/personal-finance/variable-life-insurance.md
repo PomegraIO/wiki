@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **variable-life (VL)** insurance policy is permanent life insurance where you direct the cash value into investment accounts (similar to [mutual funds](/mutual-fund)). Unlike [whole-life](/whole-life-insurance) or [universal-life](/universal-life-insurance), the cash value and death benefit fluctuate with investment performance. If investments do well, you build cash value and can increase death benefit; if they perform poorly, cash value declines.*
+*A **variable-life (VL)** insurance policy is permanent life insurance where you direct the cash value into investment accounts (similar to [mutual funds](/mutual-fund/)). Unlike [whole-life](/whole-life-insurance/) or [universal-life](/universal-life-insurance/), the cash value and death benefit fluctuate with investment performance. If investments do well, you build cash value and can increase death benefit; if they perform poorly, cash value declines.*
 
 <div class="wiki-hatnote">
 
-For fixed permanent insurance, see [whole-life insurance](/whole-life-insurance) and [universal-life insurance](/universal-life-insurance); for temporary coverage, see [term-life insurance](/term-life-insurance).
+For fixed permanent insurance, see [whole-life insurance](/whole-life-insurance/) and [universal-life insurance](/universal-life-insurance/); for temporary coverage, see [term-life insurance](/term-life-insurance/).
 
 </div>
 
@@ -41,7 +41,7 @@ For fixed permanent insurance, see [whole-life insurance](/whole-life-insurance)
 
 ## How it works
 
-You pay a premium (fixed or flexible depending on the policy type). Part goes to insurance costs; part goes to investment accounts that you choose. These accounts are "separate accounts" managed by the insurance company but invested in [stocks](/stock), [bonds](/bond), or other securities.
+You pay a premium (fixed or flexible depending on the policy type). Part goes to insurance costs; part goes to investment accounts that you choose. These accounts are "separate accounts" managed by the insurance company but invested in [stocks](/stock/), [bonds](/bond/), or other securities.
 
 Your cash value grows (or declines) based on investment performance. Death benefit may have a guaranteed minimum but can increase if investments perform well.
 
@@ -49,7 +49,7 @@ Example: you buy a $500,000 variable-life policy and allocate your cash value to
 
 ## Investment control and risk
 
-Unlike whole-life (insurer controls investments) or universal-life (insurer controls with interest crediting), variable-life gives you control: you choose which separate accounts to invest in. This is similar to allocating a [401(k)](/401k-plan).
+Unlike whole-life (insurer controls investments) or universal-life (insurer controls with interest crediting), variable-life gives you control: you choose which separate accounts to invest in. This is similar to allocating a [401(k)](/401k-plan/).
 
 However, you accept full investment risk. If your allocation is too aggressive and markets crash, your cash value and death benefit decline. If too conservative, growth lags inflation.
 
@@ -90,17 +90,17 @@ Like other permanent policies, you can borrow against the cash value. However, i
 
 ### Closely related
 
-- [Term-life insurance](/term-life-insurance) — cheaper temporary alternative
-- [Whole-life insurance](/whole-life-insurance) — permanent with fixed growth
-- [Universal-life insurance](/universal-life-insurance) — permanent with flexible structure
-- [Disability insurance](/disability-insurance-personal) — income protection
+- [Term-life insurance](/term-life-insurance/) — cheaper temporary alternative
+- [Whole-life insurance](/whole-life-insurance/) — permanent with fixed growth
+- [Universal-life insurance](/universal-life-insurance/) — permanent with flexible structure
+- [Disability insurance](/disability-insurance-personal/) — income protection
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — investment strategy in variable-life accounts
-- [Mutual fund](/mutual-fund) — investment vehicle within variable-life
-- [Stock](/stock) — possible holding in variable-life accounts
-- [Compound interest](/compound-interest) — long-term growth potential
-- [Index fund](/index-fund) — efficient investment for variable-life
+- [Asset allocation](/asset-allocation/) — investment strategy in variable-life accounts
+- [Mutual fund](/mutual-fund/) — investment vehicle within variable-life
+- [Stock](/stock/) — possible holding in variable-life accounts
+- [Compound interest](/compound-interest/) — long-term growth potential
+- [Index fund](/index-fund/) — efficient investment for variable-life
 
 </div>

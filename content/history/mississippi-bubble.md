@@ -15,7 +15,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Mississippi Company collapse in France. For the simultaneous English crash, see [South Sea Bubble](/south-sea-bubble); for the broader phenomenon, see speculative bubble.
+This entry covers the Mississippi Company collapse in France. For the simultaneous English crash, see [South Sea Bubble](/south-sea-bubble/); for the broader phenomenon, see speculative bubble.
 
 </div>
 
@@ -49,7 +49,7 @@ The Regent, desperate to finance the Crown's debts from the wars of Louis XIV, w
 
 Law's next move was even bolder. He convinced the Regent to grant him a monopoly on trade with Louisiana and the Mississippi Valley. In 1717, the Mississippi Company was chartered with the promise of untold riches from the American frontier — gold, furs, timber, and commerce on an unimaginable scale. Law amalgamated various trading companies and then in 1719 consolidated all his ventures, including the Banque Générale, into a single corporation: the Mississippi Company.
 
-He offered the Crown a deal: the company would assume much of the French Crown's debt, just as the South Sea Company had done in England. Share prices began to climb. The Crown — on Law's advice — lowered [interest rates](/interest-rate) on government debt, which pushed investors toward the higher-yielding (and more speculative) Mississippi shares.
+He offered the Crown a deal: the company would assume much of the French Crown's debt, just as the South Sea Company had done in England. Share prices began to climb. The Crown — on Law's advice — lowered [interest rates](/interest-rate/) on government debt, which pushed investors toward the higher-yielding (and more speculative) Mississippi shares.
 
 ## The mania and inflation
 
@@ -77,15 +77,15 @@ The Mississippi Bubble is remembered as the first modern financial crisis involv
 
 ### Closely related
 
-- [South Sea Bubble](/south-sea-bubble) — the parallel English crash of 1720
-- [Tulip Mania](/tulip-mania) — an earlier Dutch speculative episode
+- [South Sea Bubble](/south-sea-bubble/) — the parallel English crash of 1720
+- [Tulip Mania](/tulip-mania/) — an earlier Dutch speculative episode
 - Speculative bubble — the general phenomenon
 
 ### Wider context
 
-- [Central bank](/central-bank) — what emerged from efforts to manage currency
-- [Inflation](/inflation) — the monetary consequence that Law's scheme produced
+- [Central bank](/central-bank/) — what emerged from efforts to manage currency
+- [Inflation](/inflation/) — the monetary consequence that Law's scheme produced
 - Financial crisis — the broader category
-- [Interest rate](/interest-rate) — Law's manipulation of rates to drive speculation
+- [Interest rate](/interest-rate/) — Law's manipulation of rates to drive speculation
 
 </div>

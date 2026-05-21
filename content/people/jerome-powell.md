@@ -41,7 +41,7 @@ This background gave him a practical, less ideological approach to policy. He wa
 
 ## The 2018-2019 policy shifts
 
-Powell became Fed chair in 2018, succeeding Janet Yellen. Initially, he continued a mild tightening of policy, raising [interest rates](/interest-rate) slightly. Yet in late 2018, facing market turbulence (the S&P 500 fell roughly 20%), he pivoted sharply, pausing rate hikes and then cutting them.
+Powell became Fed chair in 2018, succeeding Janet Yellen. Initially, he continued a mild tightening of policy, raising [interest rates](/interest-rate/) slightly. Yet in late 2018, facing market turbulence (the S&P 500 fell roughly 20%), he pivoted sharply, pausing rate hikes and then cutting them.
 
 This pivot reflected a shift from gradualism to flexibility. Powell signaled that the Fed would respond to incoming data and market conditions, not follow a predetermined path.
 
@@ -57,13 +57,13 @@ This aggressive response, combined with fiscal stimulus, prevented financial col
 
 ## The extended accommodation
 
-Yet Powell maintained extended accommodation into 2021, even as the economy recovered strongly and inflation began to rise. He continued to characterize inflation as transitory and maintained [interest rates](/interest-rate) near zero.
+Yet Powell maintained extended accommodation into 2021, even as the economy recovered strongly and inflation began to rise. He continued to characterize inflation as transitory and maintained [interest rates](/interest-rate/) near zero.
 
 This extended accommodation, as inflation surged in 2021-2022, appeared to be a policy error. Powell was forced to reverse course and tighten policy sharply in 2022-2023.
 
 ## The inflation pivoting and rate increases
 
-In 2022, facing inflation at 8%+, Powell shifted to a tightening mode, raising [interest rates](/interest-rate) faster than any recent period. By 2023, rates had risen to over 5%, representing the fastest tightening cycle in decades.
+In 2022, facing inflation at 8%+, Powell shifted to a tightening mode, raising [interest rates](/interest-rate/) faster than any recent period. By 2023, rates had risen to over 5%, representing the fastest tightening cycle in decades.
 
 This sharp pivot — from aggressive accommodation to aggressive tightening — whipsawed markets and contributed to financial stress in the regional banking sector.
 
@@ -87,14 +87,14 @@ His influence has been to emphasize flexibility and data-dependency in monetary 
 
 ### Closely related
 
-- [Janet Yellen](/janet-yellen) — His predecessor
-- [Ben Bernanke](/ben-bernanke) — Whose crisis approach he followed
+- [Janet Yellen](/janet-yellen/) — His predecessor
+- [Ben Bernanke](/ben-bernanke/) — Whose crisis approach he followed
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — Which he leads
-- [Monetary policy](/monetary-policy) — His domain
-- [Inflation](/inflation) — His challenge
-- [Interest rate](/interest-rate) — His tool
+- [Federal Reserve](/federal-reserve/) — Which he leads
+- [Monetary policy](/monetary-policy/) — His domain
+- [Inflation](/inflation/) — His challenge
+- [Interest rate](/interest-rate/) — His tool
 
 </div>

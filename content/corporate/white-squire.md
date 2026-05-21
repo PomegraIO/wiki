@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **white squire** is a friendly investor who acquires a substantial but non-controlling stake in a company facing a [hostile takeover](/hostile-takeover) threat. Unlike a [white knight](/white-knight), which aims for a full acquisition, a white squire buys 20–40% of the company, gains board representation, and uses its stake and influence to block the hostile bidder, reshape strategy, or negotiate a better outcome. White squire investments are less common than white knight rescues but offer an alternative when a full acquisition is not viable or desirable.*
+*A **white squire** is a friendly investor who acquires a substantial but non-controlling stake in a company facing a [hostile takeover](/hostile-takeover/) threat. Unlike a [white knight](/white-knight/), which aims for a full acquisition, a white squire buys 20–40% of the company, gains board representation, and uses its stake and influence to block the hostile bidder, reshape strategy, or negotiate a better outcome. White squire investments are less common than white knight rescues but offer an alternative when a full acquisition is not viable or desirable.*
 
 <div class="wiki-hatnote">
 
-This entry covers white squire investments as a takeover defence. For the full-acquisition variant, see [white knight](/white-knight); for other defences, see [poison pill](/poison-pill) and [scorched earth defence](/scorched-earth-defense).
+This entry covers white squire investments as a takeover defence. For the full-acquisition variant, see [white knight](/white-knight/); for other defences, see [poison pill](/poison-pill/) and [scorched earth defence](/scorched-earth-defense/).
 
 </div>
 
@@ -91,17 +91,17 @@ Many white squire investments eventually transition to full acquisitions. The wh
 
 ### Closely related
 
-- [White knight](/white-knight) — full acquisition by a friendly buyer
-- [Hostile takeover](/hostile-takeover) — what white squire investments defend against
-- [Tender offer](/tender-offer) — mechanism hostile bidders use
+- [White knight](/white-knight/) — full acquisition by a friendly buyer
+- [Hostile takeover](/hostile-takeover/) — what white squire investments defend against
+- [Tender offer](/tender-offer/) — mechanism hostile bidders use
 - Shareholder activism — similar influence-building campaigns
 - Controlling shareholder — risk that white squire becomes this
 
 ### Wider context
 
-- [Poison pill](/poison-pill) — complementary defence to white squire strategy
+- [Poison pill](/poison-pill/) — complementary defence to white squire strategy
 - Board of directors — where white squire exerts influence
-- [Change of control provision](/change-of-control-provision) — may trigger if white squire gains effective control
-- [Merger](/merger) — often the eventual outcome after white squire involvement
+- [Change of control provision](/change-of-control-provision/) — may trigger if white squire gains effective control
+- [Merger](/merger/) — often the eventual outcome after white squire involvement
 
 </div>

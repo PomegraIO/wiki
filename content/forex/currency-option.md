@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **currency option** gives the buyer the right — but not the obligation — to buy or sell a [currency pair](/currency-pair) at an agreed-upon rate on or before an agreed-upon date. The buyer pays a premium upfront; the seller (writer) receives that premium and accepts the obligation if the option is exercised. Currency options are more flexible than [forwards](/fx-forward) but more expensive.*
+*A **currency option** gives the buyer the right — but not the obligation — to buy or sell a [currency pair](/currency-pair/) at an agreed-upon rate on or before an agreed-upon date. The buyer pays a premium upfront; the seller (writer) receives that premium and accepts the obligation if the option is exercised. Currency options are more flexible than [forwards](/fx-forward/) but more expensive.*
 
 <div class="wiki-hatnote">
 
-For binding obligations without choice, see [FX Forward](/fx-forward) and [currency future](/currency-future); for volatility-based strategies, see [fx-volatility-surface](/fx-volatility-surface).
+For binding obligations without choice, see [FX Forward](/fx-forward/) and [currency future](/currency-future/); for volatility-based strategies, see [fx-volatility-surface](/fx-volatility-surface/).
 
 </div>
 
@@ -86,16 +86,16 @@ Speculators use options for leverage and payoff asymmetry. Buy an out-of-the-mon
 
 ### Closely related
 
-- [FX Forward](/fx-forward) — binding alternative to options
-- [Currency future](/currency-future) — exchange-traded alternative
-- [Spot exchange rate](/spot-exchange-rate) — baseline for option pricing
-- [FX Volatility Surface](/fx-volatility-surface) — determines option premiums
-- [Vanilla FX Option](/vanilla-fx-option) — standard option types
+- [FX Forward](/fx-forward/) — binding alternative to options
+- [Currency future](/currency-future/) — exchange-traded alternative
+- [Spot exchange rate](/spot-exchange-rate/) — baseline for option pricing
+- [FX Volatility Surface](/fx-volatility-surface/) — determines option premiums
+- [Vanilla FX Option](/vanilla-fx-option/) — standard option types
 
 ### Wider context
 
-- [Pip](/pip) — option premiums quoted in pips
+- [Pip](/pip/) — option premiums quoted in pips
 - Interest rate parity — part of option pricing
-- [Central bank](/central-bank) — sometimes uses options in intervention
+- [Central bank](/central-bank/) — sometimes uses options in intervention
 
 </div>

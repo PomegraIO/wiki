@@ -102,17 +102,17 @@ A football field is often built from sensitivity analysis. High and low bounds f
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — one method in the field
-- [Multiples valuation](/multiples-valuation) — another method
-- [Comparable company analysis](/comparable-company-analysis) — typically included
-- [Comparable transaction analysis](/comparable-transaction-analysis) — typically included
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — often included for diversified companies
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — one method in the field
+- [Multiples valuation](/multiples-valuation/) — another method
+- [Comparable company analysis](/comparable-company-analysis/) — typically included
+- [Comparable transaction analysis](/comparable-transaction-analysis/) — typically included
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — often included for diversified companies
 
 ### Uncertainty and ranges
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — inputs to the ranges
-- [Scenario valuation](/scenario-valuation) — discrete cases that populate the ranges
-- [Monte-Carlo valuation](/monte-carlo-valuation) — continuous distributions instead of ranges
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — inputs to the ranges
+- [Scenario valuation](/scenario-valuation/) — discrete cases that populate the ranges
+- [Monte-Carlo valuation](/monte-carlo-valuation/) — continuous distributions instead of ranges
 
 ### Presentation and communication
 

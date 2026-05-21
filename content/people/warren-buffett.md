@@ -57,11 +57,11 @@ The philosophy rests on a single insight: the best investment is one you never h
 
 ## Capital allocation and the cost of scale
 
-By the 1990s, Berkshire had become too large to keep compounding at 25% per year. Buffett switched to asking a different question: where can I deploy $10 billion, $50 billion, and eventually $100+ billion in a way that still beats the [stock market](/stock-market) average?
+By the 1990s, Berkshire had become too large to keep compounding at 25% per year. Buffett switched to asking a different question: where can I deploy $10 billion, $50 billion, and eventually $100+ billion in a way that still beats the [stock market](/stock-market/) average?
 
-The answer was: mostly, you can't. And he said so. His letters began to discuss the law of large numbers. With $1 billion under management, you can find dozens of overlooked businesses earning 25% [returns on equity](/return-on-equity). With $100 billion, you can't. You buy the best available, and if the best available is Apple at a [price-to-earnings ratio](/price-to-earnings-ratio) of 25×, you accept it.
+The answer was: mostly, you can't. And he said so. His letters began to discuss the law of large numbers. With $1 billion under management, you can find dozens of overlooked businesses earning 25% [returns on equity](/return-on-equity/). With $100 billion, you can't. You buy the best available, and if the best available is Apple at a [price-to-earnings ratio](/price-to-earnings-ratio/) of 25×, you accept it.
 
-This constraint shaped his later buys: utilities (lower returns, but scalable and stable), the Japanese trading companies (value creation without requiring genius-level management), and an increasingly large holding in [index funds](/index-fund) and cash. By 2023, Berkshire held north of $150 billion in cash — a choice that reflected not a [bear market](/bear-market) outlook but an honest assessment that he couldn't deploy it all at returns superior to doing nothing. This is rare intellectual honesty for someone managing hundreds of billions.
+This constraint shaped his later buys: utilities (lower returns, but scalable and stable), the Japanese trading companies (value creation without requiring genius-level management), and an increasingly large holding in [index funds](/index-fund/) and cash. By 2023, Berkshire held north of $150 billion in cash — a choice that reflected not a [bear market](/bear-market/) outlook but an honest assessment that he couldn't deploy it all at returns superior to doing nothing. This is rare intellectual honesty for someone managing hundreds of billions.
 
 ## Public role and the partnership of minds
 
@@ -73,9 +73,9 @@ Buffett's public role has evolved with his wealth. He began as a recluse, conten
 
 Buffett's influence is incalculable. He proved that you don't need to trade often, take leverage, or access exotic instruments to build generational wealth. He popularized the idea of a "moat" — a durable competitive advantage that protects a business from rivals. He made "circle of competence" a household phrase among serious investors.
 
-Yet his influence has also created a category of imitators and an industry of analysts parsing his moves. His largest concentrated positions (Apple, Bank of America) now move on rumors of his thoughts. His declaration that he will eventually liquidate Berkshire has sparked debate about whether a holding company in the modern [stock market](/stock-market) can survive beyond its creator.
+Yet his influence has also created a category of imitators and an industry of analysts parsing his moves. His largest concentrated positions (Apple, Bank of America) now move on rumors of his thoughts. His declaration that he will eventually liquidate Berkshire has sparked debate about whether a holding company in the modern [stock market](/stock-market/) can survive beyond its creator.
 
-Long-term performance metrics remain uncontested: Berkshire stock has compounded at roughly 19% per year for sixty years, crushing [market averages](/stock-market). The question for the future is whether this reflects Buffett's enduring competitive edge or a bet that past conditions (cheaper valuations, fewer traders, less competition for capital) won't return.
+Long-term performance metrics remain uncontested: Berkshire stock has compounded at roughly 19% per year for sixty years, crushing [market averages](/stock-market/). The question for the future is whether this reflects Buffett's enduring competitive edge or a bet that past conditions (cheaper valuations, fewer traders, less competition for capital) won't return.
 
 ## See also
 
@@ -83,16 +83,16 @@ Long-term performance metrics remain uncontested: Berkshire stock has compounded
 
 ### Closely related
 
-- [Charlie Munger](/charlie-munger) — Buffett's partner in capital allocation
-- [Benjamin Graham](/benjamin-graham) — Buffett's mentor, originator of value investing
-- [Peter Lynch](/peter-lynch) — A peer in the value tradition
-- [John Bogle](/john-bogle) — Advocate of [index funds](/index-fund), Buffett's eventual hedge
+- [Charlie Munger](/charlie-munger/) — Buffett's partner in capital allocation
+- [Benjamin Graham](/benjamin-graham/) — Buffett's mentor, originator of value investing
+- [Peter Lynch](/peter-lynch/) — A peer in the value tradition
+- [John Bogle](/john-bogle/) — Advocate of [index funds](/index-fund/), Buffett's eventual hedge
 
 ### Wider context
 
-- [Value investing](/value-investing) — The philosophy Buffett exemplifies
-- [Compound interest](/compound-interest) — The force behind his returns
-- [Diversification](/diversification) — A principle he both honors and challenges
-- [Stock market](/stock-market) — The arena in which he proved his approach
+- [Value investing](/value-investing/) — The philosophy Buffett exemplifies
+- [Compound interest](/compound-interest/) — The force behind his returns
+- [Diversification](/diversification/) — A principle he both honors and challenges
+- [Stock market](/stock-market/) — The arena in which he proved his approach
 
 </div>

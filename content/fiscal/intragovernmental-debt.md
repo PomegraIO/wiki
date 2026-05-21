@@ -14,7 +14,7 @@ image: "/svg/fiscal.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers internal government borrowing. For external debt held by public creditors, see [debt held by the public](/debt-held-by-the-public); for total government debt (internal plus external), see [national debt](/national-debt); for external obligations, see [public debt](/public-debt).
+This entry covers internal government borrowing. For external debt held by public creditors, see [debt held by the public](/debt-held-by-the-public/); for total government debt (internal plus external), see [national debt](/national-debt/); for external obligations, see [public debt](/public-debt/).
 
 </div>
 
@@ -32,7 +32,7 @@ This entry covers internal government borrowing. For external debt held by publi
 | **Primary source** | Social Security Trust Fund |
 | **Secondary sources** | Medicare, federal employee pension funds |
 | **Amount (US)** | Roughly $7–8 trillion (as of 2024) |
-| **Share of total [national debt](/national-debt)** | About 30–35% |
+| **Share of total [national debt](/national-debt/)** | About 30–35% |
 | **To whom owed** | Trust funds and government accounts |
 | **Market risk** | None (internal promise) |
 | **Interest rates** | Fixed by statute, typically low |
@@ -44,7 +44,7 @@ This entry covers internal government borrowing. For external debt held by publi
 
 The US Treasury often spends more than it collects in taxes. It covers the gap by issuing Treasury securities that investors buy. But it also borrows from government trust funds.
 
-The **Social Security Trust Fund** collects payroll taxes and uses them to pay retirees and the disabled. If payroll taxes exceed benefits in a given year, the surplus is invested in special Treasury securities. The government owes these funds money and pays statutory [interest rates](/interest-rate) (set by law, currently around 2–3%).
+The **Social Security Trust Fund** collects payroll taxes and uses them to pay retirees and the disabled. If payroll taxes exceed benefits in a given year, the surplus is invested in special Treasury securities. The government owes these funds money and pays statutory [interest rates](/interest-rate/) (set by law, currently around 2–3%).
 
 Similarly, the Medicare Trust Fund, federal employee pension funds, and other accounts accumulate surplus revenue that is lent to the Treasury.
 
@@ -52,7 +52,7 @@ From the trust funds' perspective, these Treasury securities are assets — a wa
 
 ## Why intragovernmental debt matters (and why it might not)
 
-Intragovernmental debt is part of the total [national debt](/national-debt), so it is included in all official debt figures. However, it is fundamentally different from [debt held by the public](/debt-held-by-the-public):
+Intragovernmental debt is part of the total [national debt](/national-debt/), so it is included in all official debt figures. However, it is fundamentally different from [debt held by the public](/debt-held-by-the-public/):
 
 **Default risk:** The government is highly unlikely to default on intragovernmental debt because it controls both sides of the transaction. It owes itself.
 
@@ -62,13 +62,13 @@ Intragovernmental debt is part of the total [national debt](/national-debt), so 
 
 ## The Social Security example
 
-The Social Security system accumulated surplus revenue for decades, which it lent to the Treasury. As the Baby Boom generation retires, the system is shifting from surplus to deficit. The trust fund will need to call on the Treasury to repay the borrowed money, forcing the Treasury to either raise taxes, cut other spending, or increase [public debt](/public-debt).
+The Social Security system accumulated surplus revenue for decades, which it lent to the Treasury. As the Baby Boom generation retires, the system is shifting from surplus to deficit. The trust fund will need to call on the Treasury to repay the borrowed money, forcing the Treasury to either raise taxes, cut other spending, or increase [public debt](/public-debt/).
 
 This is why intragovernmental debt, while low default risk, still matters for long-term fiscal planning.
 
 ## Intragovernmental debt in balance sheets
 
-In consolidated government accounts, intragovernmental debt is sometimes netted out — counted as both an asset (what the trust fund is owed) and a liability (what the Treasury owes). In this view, the debt cancels out and only [debt held by the public](/debt-held-by-the-public) remains as a net government liability.
+In consolidated government accounts, intragovernmental debt is sometimes netted out — counted as both an asset (what the trust fund is owed) and a liability (what the Treasury owes). In this view, the debt cancels out and only [debt held by the public](/debt-held-by-the-public/) remains as a net government liability.
 
 However, cash-based budget accounting treats intragovernmental debt as real debt, because money flows from one account to another to service it.
 
@@ -76,7 +76,7 @@ However, cash-based budget accounting treats intragovernmental debt as real debt
 
 Some argue that intragovernmental debt should be removed entirely from deficit and debt discussions because it represents internal accounting entries, not real external obligations. Others argue it must be included because it represents genuine future liabilities — money the government has spent and must repay from future revenue.
 
-The standard practice is to report both figures: [national debt](/national-debt) (which includes intragovernmental debt) and [debt held by the public](/debt-held-by-the-public) (which does not).
+The standard practice is to report both figures: [national debt](/national-debt/) (which includes intragovernmental debt) and [debt held by the public](/debt-held-by-the-public/) (which does not).
 
 ## See also
 
@@ -84,23 +84,23 @@ The standard practice is to report both figures: [national debt](/national-debt)
 
 ### Closely related
 
-- [National debt](/national-debt) — total debt including [intragovernmental debt](/intragovernmental-debt)
-- [Debt held by the public](/debt-held-by-the-public) — external debt excluding [intragovernmental](/intragovernmental-debt)
-- [Public debt](/public-debt) — debt to external creditors
-- [Gross debt](/gross-debt) — total debt without adjustments
+- [National debt](/national-debt/) — total debt including [intragovernmental debt](/intragovernmental-debt/)
+- [Debt held by the public](/debt-held-by-the-public/) — external debt excluding [intragovernmental](/intragovernmental-debt/)
+- [Public debt](/public-debt/) — debt to external creditors
+- [Gross debt](/gross-debt/) — total debt without adjustments
 
 ### Trust funds and entitlements
 
-- [Entitlement spending](/entitlement-spending) — programs like Social Security that generate trust funds
-- [Mandatory spending](/mandatory-spending) — spending on [entitlements](/entitlement-spending)
-- [Transfer payment](/transfer-payment) — Social Security and similar income support
+- [Entitlement spending](/entitlement-spending/) — programs like Social Security that generate trust funds
+- [Mandatory spending](/mandatory-spending/) — spending on [entitlements](/entitlement-spending/)
+- [Transfer payment](/transfer-payment/) — Social Security and similar income support
 - Payroll tax — the taxes that fund Social Security
 
 ### Broader fiscal context
 
-- [Budget deficit](/budget-deficit) — what drives intragovernmental borrowing
-- [Fiscal consolidation](/fiscal-consolidation) — managing long-term intragovernmental obligations
-- [Sovereign default](/sovereign-default) — what does not apply to [intragovernmental debt](/intragovernmental-debt)
-- [Interest rate](/interest-rate) — statutory rates on intragovernmental securities
+- [Budget deficit](/budget-deficit/) — what drives intragovernmental borrowing
+- [Fiscal consolidation](/fiscal-consolidation/) — managing long-term intragovernmental obligations
+- [Sovereign default](/sovereign-default/) — what does not apply to [intragovernmental debt](/intragovernmental-debt/)
+- [Interest rate](/interest-rate/) — statutory rates on intragovernmental securities
 
 </div>

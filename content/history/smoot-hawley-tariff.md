@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Smoot-Hawley Tariff. For the broader context of the Depression it worsened, see [Great Depression](/great-depression); for the postwar alternative, see [Bretton Woods Agreement](/bretton-woods-agreement).
+This entry covers the Smoot-Hawley Tariff. For the broader context of the Depression it worsened, see [Great Depression](/great-depression/); for the postwar alternative, see [Bretton Woods Agreement](/bretton-woods-agreement/).
 
 </div>
 
@@ -77,16 +77,16 @@ Smoot-Hawley is invoked repeatedly whenever policymakers consider protectionist 
 
 ### Closely related
 
-- [Great Depression](/great-depression) — the crisis it deepened
+- [Great Depression](/great-depression/) — the crisis it deepened
 - Tariff — the policy tool
 - Protectionism — the doctrine it embodied
 
 ### Wider context
 
 - International trade — the system it disrupted
-- [Bretton Woods Agreement](/bretton-woods-agreement) — the postwar alternative
+- [Bretton Woods Agreement](/bretton-woods-agreement/) — the postwar alternative
 - GATT — trade liberalization framework that followed
-- [Recession](/recession) — the macroeconomic consequence
+- [Recession](/recession/) — the macroeconomic consequence
 - Retaliation — the predictable response
 
 </div>

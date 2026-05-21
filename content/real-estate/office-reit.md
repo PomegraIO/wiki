@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on office REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For alternatives, see [commercial-real-estate](/commercial-real-estate).
+This entry focuses on office REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For alternatives, see [commercial-real-estate](/commercial-real-estate/).
 
 </div>
 
@@ -91,21 +91,21 @@ This has created some opportunity for value investors: office REITs trading at d
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Commercial-real-estate](/commercial-real-estate) — office and related sectors
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Commercial-real-estate](/commercial-real-estate/) — office and related sectors
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — office property valuation
-- [Net operating income](/net-operating-income) — office rental revenue
-- [Gross rent multiplier](/gross-rent-multiplier) — valuation shortcut
+- [Cap rate](/cap-rate/) — office property valuation
+- [Net operating income](/net-operating-income/) — office rental revenue
+- [Gross rent multiplier](/gross-rent-multiplier/) — valuation shortcut
 
 ### Context and comparison
 
-- [Recession](/recession) — office suffers in downturns
-- [Dividend](/dividend) — under pressure for many office REITs
-- [Asset allocation](/asset-allocation) — why office allocation has declined
-- [Diversification](/diversification) — the importance of not overweighting office
+- [Recession](/recession/) — office suffers in downturns
+- [Dividend](/dividend/) — under pressure for many office REITs
+- [Asset allocation](/asset-allocation/) — why office allocation has declined
+- [Diversification](/diversification/) — the importance of not overweighting office
 
 </div>

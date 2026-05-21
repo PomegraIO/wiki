@@ -49,7 +49,7 @@ The book emphasized that value investing was not about finding hidden gems or ma
 
 Klarman ran Baupost with extraordinary discipline. The fund would make perhaps a dozen to twenty major positions per year, each one thoroughly researched and sized appropriately based on the risk/reward. Baupost held cash in periods when valuations didn't offer adequate margins of safety. This meant sitting out rallies, but it also meant avoiding crashes.
 
-The fund compounded at roughly 20% per year for decades — approximately double the [stock market](/stock-market) average. For a fund managing billions of dollars, this was exceptional. Most large funds underperform; Baupost did the opposite. This performance came from disciplined security selection, not leverage or exotic strategies.
+The fund compounded at roughly 20% per year for decades — approximately double the [stock market](/stock-market/) average. For a fund managing billions of dollars, this was exceptional. Most large funds underperform; Baupost did the opposite. This performance came from disciplined security selection, not leverage or exotic strategies.
 
 ## Distressed and special situations
 
@@ -85,17 +85,17 @@ His influence on generations of value investors is deep. *Margin of Safety* is t
 
 ### Closely related
 
-- [Benjamin Graham](/benjamin-graham) — His intellectual foundation
-- [Warren Buffett](/warren-buffett) — A Graham descendant
-- [David Tepper](/david-tepper) — A distressed specialist
-- [Howard Marks](/howard-marks) — A credit and risk expert
+- [Benjamin Graham](/benjamin-graham/) — His intellectual foundation
+- [Warren Buffett](/warren-buffett/) — A Graham descendant
+- [David Tepper](/david-tepper/) — A distressed specialist
+- [Howard Marks](/howard-marks/) — A credit and risk expert
 
 ### Wider context
 
-- [Value investing](/value-investing) — His discipline
+- [Value investing](/value-investing/) — His discipline
 - Margin of safety — His principle
 - Distressed debt — His specialty
-- [Bear market](/bear-market) — His hunting ground
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Bear market](/bear-market/) — His hunting ground
+- [Hedge fund](/hedge-fund/) — His vehicle
 
 </div>

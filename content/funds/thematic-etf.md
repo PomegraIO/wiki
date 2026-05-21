@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **thematic ETF** is an [ETF](/etf) that concentrates on companies benefiting from a specific mega-trend or investment theme — artificial intelligence, renewable energy, space exploration, genetic engineering, cybersecurity, electric vehicles, fintech. Thematic ETFs are speculative growth bets designed to capture long-term structural shifts, not [diversified](/diversification) core holdings.*
+*A **thematic ETF** is an [ETF](/etf/) that concentrates on companies benefiting from a specific mega-trend or investment theme — artificial intelligence, renewable energy, space exploration, genetic engineering, cybersecurity, electric vehicles, fintech. Thematic ETFs are speculative growth bets designed to capture long-term structural shifts, not [diversified](/diversification/) core holdings.*
 
 <div class="wiki-hatnote">
 
-This entry covers thematic ETFs as tactical vehicles. For diversified [equity](/equity-etf) exposure, see [index fund](/index-fund); for sector-based investing, see [sector ETF](/sector-etf).
+This entry covers thematic ETFs as tactical vehicles. For diversified [equity](/equity-etf/) exposure, see [index fund](/index-fund/); for sector-based investing, see [sector ETF](/sector-etf/).
 
 </div>
 
@@ -32,11 +32,11 @@ This entry covers thematic ETFs as tactical vehicles. For diversified [equity](/
 | **What it is** | An ETF holding companies aligned with a specific theme |
 | **Also called** | Trend ETF, mega-trend ETF, innovation ETF |
 | **Issued by** | Specialized managers (Ark Invest, iShares, Invesco, etc.) |
-| **Traded on** | A [stock exchange](/stock-exchange) |
+| **Traded on** | A [stock exchange](/stock-exchange/) |
 | **Pricing** | Continuous, throughout the trading day |
 | **Minimum investment** | The price of one share (often $30–100) |
 | **Typical themes** | AI, renewable energy, electric vehicles, genomics |
-| **Typical [expense ratio](/expense-ratio)** | 0.40% to 0.75% per year |
+| **Typical [expense ratio](/expense-ratio/)** | 0.40% to 0.75% per year |
 | **Concentration risk** | Very high; small number of mega-cap winners often dominate |
 
 </aside>
@@ -73,7 +73,7 @@ Thematic ETFs look attractive because they offer early exposure to mega-trends. 
 
 **Narrative risk.** The thematic narrative can change sharply. Electric vehicles seemed unstoppable in 2021; as of 2024, adoption is slower than expected and competition is intense. Theme narratives often get ahead of reality.
 
-**[Concentration risk](/diversification).** A thematic ETF often concentrates in a handful of mega-cap winners. An AI ETF in 2024 is often 20%+ NVIDIA alone. If the mega-cap leader stumbles, the entire theme crashes.
+**[Concentration risk](/diversification/).** A thematic ETF often concentrates in a handful of mega-cap winners. An AI ETF in 2024 is often 20%+ NVIDIA alone. If the mega-cap leader stumbles, the entire theme crashes.
 
 **Valuation trap.** Thematic ETFs tend to hold highly valued growth companies. The AI ETF holds companies trading at 40–100x forward earnings. If growth slows or expectations reset, valuations compress sharply.
 
@@ -83,7 +83,7 @@ Thematic ETFs look attractive because they offer early exposure to mega-trends. 
 
 ## Thematic ETFs versus sector ETFs
 
-Thematic ETFs differ from [sector ETFs](/sector-etf) in important ways:
+Thematic ETFs differ from [sector ETFs](/sector-etf/) in important ways:
 
 **Sector ETFs** hold all companies in a sector (technology, healthcare, energy) regardless of whether they are growing or shrinking. They capture the entire sector through market-cap weighting.
 
@@ -107,19 +107,19 @@ The core lesson: thematic ETFs work when the actual technological or commercial 
 
 ### Closely related
 
-- [ETF](/etf) — the broader category
-- [Equity ETF](/equity-etf) — the diversified alternative
-- [Sector ETF](/sector-etf) — industry-based concentration
-- [Stock](/stock) — underlying individual holdings
-- [Growth](/stock) — the return driver of thematic themes
+- [ETF](/etf/) — the broader category
+- [Equity ETF](/equity-etf/) — the diversified alternative
+- [Sector ETF](/sector-etf/) — industry-based concentration
+- [Stock](/stock/) — underlying individual holdings
+- [Growth](/stock/) — the return driver of thematic themes
 
 ### Wider context
 
-- [Diversification](/diversification) — what thematic ETFs sacrifice
-- [Asset allocation](/asset-allocation) — how to size thematic positions
-- [Bull market](/bull-market) · [Bear market](/bear-market) — when themes boom and crash
-- [Volatility](/option) — higher in thematic ETFs
-- [Stock exchange](/stock-exchange) — where thematic ETFs trade
-- [Expense ratio](/expense-ratio) — typically higher for thematic funds
+- [Diversification](/diversification/) — what thematic ETFs sacrifice
+- [Asset allocation](/asset-allocation/) — how to size thematic positions
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — when themes boom and crash
+- [Volatility](/option/) — higher in thematic ETFs
+- [Stock exchange](/stock-exchange/) — where thematic ETFs trade
+- [Expense ratio](/expense-ratio/) — typically higher for thematic funds
 
 </div>

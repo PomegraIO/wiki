@@ -10,11 +10,11 @@ keywords:
 image: "/svg/commodities.svg"
 ---
 
-*A **silver** — less culturally storied than [gold](/gold) but far more widely consumed in manufacturing — is a precious metal whose high electrical and thermal conductivity make it indispensable to electronics, while its store-of-value character and cultural cache ensure it trades as a hedge alongside gold. The combination of large industrial demand and small speculative flows makes silver far more volatile than its older cousin.*
+*A **silver** — less culturally storied than [gold](/gold/) but far more widely consumed in manufacturing — is a precious metal whose high electrical and thermal conductivity make it indispensable to electronics, while its store-of-value character and cultural cache ensure it trades as a hedge alongside gold. The combination of large industrial demand and small speculative flows makes silver far more volatile than its older cousin.*
 
 <div class="wiki-hatnote">
 
-This entry covers silver as a commodity. For silver's role in historical monetary systems, see [central bank](/central-bank); for retail access, see silver bullion ETF.
+This entry covers silver as a commodity. For silver's role in historical monetary systems, see [central bank](/central-bank/); for retail access, see silver bullion ETF.
 
 </div>
 
@@ -44,7 +44,7 @@ This entry covers silver as a commodity. For silver's role in historical monetar
 
 Silver is trapped between two worlds. As a precious metal, it shares gold's universal appeal as a store of value and has been used as money in nearly every culture. As an industrial commodity, it is utterly consumed — used in solar cells, circuit breakers, antimicrobial applications, and photography chemicals in quantities that vastly exceed any recycling rate.
 
-This split personality makes silver behave like no other commodity. When [inflation](/inflation) fears spike and investors flee to safe havens, silver often outperforms gold percentage-wise, because precious-metals speculators — using leverage — concentrate on the cheaper metal. When the global economy enters [recession](/recession) and manufacturing demand collapses, silver crashes harder than gold, because the industrial demand floor has evaporated.
+This split personality makes silver behave like no other commodity. When [inflation](/inflation/) fears spike and investors flee to safe havens, silver often outperforms gold percentage-wise, because precious-metals speculators — using leverage — concentrate on the cheaper metal. When the global economy enters [recession](/recession/) and manufacturing demand collapses, silver crashes harder than gold, because the industrial demand floor has evaporated.
 
 ## Why silver is more volatile than gold
 
@@ -66,9 +66,9 @@ Recycling is the other major source, recovering silver from electronics, scrap p
 
 Photography chemicals, solar panels, and conductivity applications account for roughly 40–50% of silver demand. The solar industry has emerged as the largest single end-user over the past decade, as photovoltaic cells require a thin layer of silver paste to conduct electricity. A megawatt of solar capacity consumes roughly 15 grams of silver.
 
-The remaining 50–60% of demand is jewelry, coins, and investment — the "monetary" demand that links silver to gold and to [inflation](/inflation) hedging.
+The remaining 50–60% of demand is jewelry, coins, and investment — the "monetary" demand that links silver to gold and to [inflation](/inflation/) hedging.
 
-This split means silver is sensitive to two separate cycles. Rising real [interest rates](/interest-rate) suppress investment demand but may support industrial demand (because economic growth is implied). Falling real rates lift both, making silver a pure risk asset.
+This split means silver is sensitive to two separate cycles. Rising real [interest rates](/interest-rate/) suppress investment demand but may support industrial demand (because economic growth is implied). Falling real rates lift both, making silver a pure risk asset.
 
 ## How silver trades
 

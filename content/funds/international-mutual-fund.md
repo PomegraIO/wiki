@@ -10,11 +10,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*An **international mutual fund** (or **international ETF**) is a pooled investment vehicle holding [stocks](/stock) from developed countries outside the United States — Europe, Japan, Canada, Australia, and other established markets. International funds provide [geographic diversification](/diversification) but introduce [currency risk](/option) and lower [liquidity](/etf-bid-ask-spread) compared to US [stocks](/stock).*
+*An **international mutual fund** (or **international ETF**) is a pooled investment vehicle holding [stocks](/stock/) from developed countries outside the United States — Europe, Japan, Canada, Australia, and other established markets. International funds provide [geographic diversification](/diversification/) but introduce [currency risk](/option/) and lower [liquidity](/etf-bid-ask-spread/) compared to US [stocks](/stock/).*
 
 <div class="wiki-hatnote">
 
-This entry covers developed-market international funds. For emerging markets, see [emerging markets fund](/emerging-markets-fund); for US stocks, see [equity ETF](/equity-etf).
+This entry covers developed-market international funds. For emerging markets, see [emerging markets fund](/emerging-markets-fund/); for US stocks, see [equity ETF](/equity-etf/).
 
 </div>
 
@@ -33,7 +33,7 @@ This entry covers developed-market international funds. For emerging markets, se
 | **Issued by** | Asset managers (Vanguard, iShares, Invesco, etc.) |
 | **Geographic focus** | Europe, Japan, Canada, Australia, Singapore |
 | **Index basis** | MSCI EAFE, FTSE Developed Ex-US |
-| **Typical [expense ratio](/expense-ratio)** | 0.05%–0.15% |
+| **Typical [expense ratio](/expense-ratio/)** | 0.05%–0.15% |
 | **Currency risk** | Significant; funds often available in hedged/unhedged |
 | **Performance vs US** | Cyclical; sometimes leads, sometimes lags |
 | **Correlation to US** | ~0.8 (less than US stocks, more than emerging) |
@@ -42,7 +42,7 @@ This entry covers developed-market international funds. For emerging markets, se
 
 ## What international funds hold
 
-A typical developed-market international fund holds [stocks](/stock) from:
+A typical developed-market international fund holds [stocks](/stock/) from:
 
 - **Europe.** UK, Germany, France, Netherlands, Switzerland, Scandinavia.
 - **Japan.** Tokyo-listed companies.
@@ -56,11 +56,11 @@ These countries have mature, developed stock markets with strong investor protec
 
 International diversification offers several benefits:
 
-**Reduces concentration risk.** The US represents ~60% of global market capitalization. Holding only US [stocks](/stock) leaves you concentrated in one country's political, economic, and regulatory environment.
+**Reduces concentration risk.** The US represents ~60% of global market capitalization. Holding only US [stocks](/stock/) leaves you concentrated in one country's political, economic, and regulatory environment.
 
-**Cycle diversification.** US [stocks](/stock) and international [stocks](/stock) cycle differently. In the 2000s, international markets outperformed; in the 2010s, US [stocks](/stock) dominated. Holding both reduces returns volatility.
+**Cycle diversification.** US [stocks](/stock/) and international [stocks](/stock/) cycle differently. In the 2000s, international markets outperformed; in the 2010s, US [stocks](/stock/) dominated. Holding both reduces returns volatility.
 
-**Currency diversification.** International fund returns are exposed to currency movements. If the dollar weakens, international [stocks](/stock) become more valuable in dollar terms (upside). If it strengthens, downside.
+**Currency diversification.** International fund returns are exposed to currency movements. If the dollar weakens, international [stocks](/stock/) become more valuable in dollar terms (upside). If it strengthens, downside.
 
 **Exposure to different sectors and companies.** The US is tech and finance-heavy; international markets have more industrials, pharmaceuticals, and consumer staples.
 
@@ -70,7 +70,7 @@ A key distinction in international funds is currency exposure:
 
 **Unhedged.** The fund holds stocks in local currencies (euros, yen, pounds). Currency movements directly impact returns. A 10% stock rally combined with a 5% euro depreciation delivers 4.75% net return.
 
-**Hedged.** The fund uses [derivatives](/option) to lock in the current dollar exchange rate, eliminating currency fluctuations. A 10% stock rally is a 10% return regardless of currency moves.
+**Hedged.** The fund uses [derivatives](/option/) to lock in the current dollar exchange rate, eliminating currency fluctuations. A 10% stock rally is a 10% return regardless of currency moves.
 
 Which is better depends on the economic environment:
 
@@ -88,7 +88,7 @@ Historically, hedging adds ~0.20–0.30% annual cost, so unhedged is typically s
 | 2009–2019 | Exceptional | Lagging | US |
 | 2020–2024 | Exceptional (US tech) | Lagging | US |
 
-The pattern: US [stocks](/stock) have outperformed over the past 15 years, but this period has been unusual (US tech dominance). Historically, returns are competitive.
+The pattern: US [stocks](/stock/) have outperformed over the past 15 years, but this period has been unusual (US tech dominance). Historically, returns are competitive.
 
 ## EAFE versus broad developed markets
 
@@ -106,7 +106,7 @@ For most investors:
 
 1. **Hold a small international allocation.** 10–30% of equities in international developed markets provides diversification.
 
-2. **Use low-cost funds.** Vanguard's VXUS (total developed ex-US) or iShares' IEFA (core developed ex-US) offer broad exposure at 0.05–0.10% [expense ratios](/expense-ratio).
+2. **Use low-cost funds.** Vanguard's VXUS (total developed ex-US) or iShares' IEFA (core developed ex-US) offer broad exposure at 0.05–0.10% [expense ratios](/expense-ratio/).
 
 3. **Choose unhedged for long-term holding.** Hedging costs reduce returns for long-term investors.
 
@@ -128,18 +128,18 @@ For most investors:
 
 ### Closely related
 
-- [Emerging markets fund](/emerging-markets-fund) — higher-growth, higher-risk alternative
-- [Equity ETF](/equity-etf) — US-focused alternative
-- [Diversification](/diversification) — key benefit of international exposure
-- [Currency risk](/option) — central to international investing
-- [Asset allocation](/asset-allocation) — how to size international holdings
+- [Emerging markets fund](/emerging-markets-fund/) — higher-growth, higher-risk alternative
+- [Equity ETF](/equity-etf/) — US-focused alternative
+- [Diversification](/diversification/) — key benefit of international exposure
+- [Currency risk](/option/) — central to international investing
+- [Asset allocation](/asset-allocation/) — how to size international holdings
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — international markets
-- [Stock](/stock) — underlying holdings
-- [Volatility](/option) — often lower in developed markets
-- [Interest rate](/interest-rate) — impacts different countries differently
-- [Economic growth](/recession) · [Inflation](/inflation) — drive international returns
+- [Stock exchange](/stock-exchange/) — international markets
+- [Stock](/stock/) — underlying holdings
+- [Volatility](/option/) — often lower in developed markets
+- [Interest rate](/interest-rate/) — impacts different countries differently
+- [Economic growth](/recession/) · [Inflation](/inflation/) — drive international returns
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*In **backwardation**, futures prices decrease with the delivery date. A [futures contract](/futures-contract) expiring in 3 months is more expensive than one expiring in 6 months, which is more expensive than one expiring in 12 months. Backwardation occurs when immediate supply is scarce or in high demand, commanding a premium. It signals market tightness and creates costs for long-only investors rolling positions forward—the opposite economic signal of [contango](/contango).*
+*In **backwardation**, futures prices decrease with the delivery date. A [futures contract](/futures-contract/) expiring in 3 months is more expensive than one expiring in 6 months, which is more expensive than one expiring in 12 months. Backwardation occurs when immediate supply is scarce or in high demand, commanding a premium. It signals market tightness and creates costs for long-only investors rolling positions forward—the opposite economic signal of [contango](/contango/).*
 
 <aside class="wiki-infobox">
 
@@ -49,11 +49,11 @@ The convenience yield is subtracted, pushing forward prices below spot, creating
 
 Backwardation signals that the market has tight supply. Inventory is low; producers are running at capacity; demand exceeds near-term supply.
 
-[Contango](/contango) signals ample supply; [backwardation](/backwardation) signals scarcity.
+[Contango](/contango/) signals ample supply; [backwardation](/backwardation/) signals scarcity.
 
 ## Rolling gains in backwardation
 
-A trader long a [futures contract](/futures-contract) benefits from backwardation. As the contract approaches expiration, it rises in price (convergence to spot). Rolling forward means selling the expensive near contract and buying the cheaper far contract—a gain.
+A trader long a [futures contract](/futures-contract/) benefits from backwardation. As the contract approaches expiration, it rises in price (convergence to spot). Rolling forward means selling the expensive near contract and buying the cheaper far contract—a gain.
 
 Example:
 - Month 1: Buy 12-month contract at $75/barrel (market in backwardation)
@@ -75,7 +75,7 @@ Backwardation rewards position-holders rolling forward.
 
 ## Duration and reversion
 
-Backwardation is usually temporary. Once immediate scarcity eases (production resumes, inventory rebuilds), the market reverts to [contango](/contango). The farther-dated contracts gradually rise in price as the convenience yield dissipates.
+Backwardation is usually temporary. Once immediate scarcity eases (production resumes, inventory rebuilds), the market reverts to [contango](/contango/). The farther-dated contracts gradually rise in price as the convenience yield dissipates.
 
 A market in severe backwardation (e.g., oil at $80 near vs. $50 far) is unsustainable; it attracts supply, reduces demand, and collapses.
 
@@ -101,14 +101,14 @@ A market in severe backwardation (e.g., oil at $80 near vs. $50 far) is unsustai
 
 ### Trading implications
 
-- [Rolling](/basis) — position management in bacwardation
+- [Rolling](/basis/) — position management in bacwardation
 - [Contango/backwardation spread](/alpha/) — trading the curve
 - [Curve flattening](/volatility-smile/) — betting on structure change
-- [Spread trades](/alpha) — maturity spreads
+- [Spread trades](/alpha/) — maturity spreads
 
 ### Market structure
 
-- [Commodity markets](/stock-market) — backwardation common in crises
+- [Commodity markets](/stock-market/) — backwardation common in crises
 - [Supply and demand](/stock-market/) — drives market structure
 - Inventory levels — inverse to backwardation
 - [Hedging](/hedge-fund/) — hedgers affected by market structure

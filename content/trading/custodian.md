@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **custodian** is a regulated financial institution (typically a large bank) that holds securities and cash on behalf of its clients and manages settlements, record-keeping, dividends, and other administrative tasks. Unlike a [broker](/broker) or trading firm, custodians do not execute trades; they provide safekeeping and operational infrastructure. Large institutional investors, [hedge funds](/hedge-fund), and asset managers typically use custodians to ensure independent asset safety.*
+*A **custodian** is a regulated financial institution (typically a large bank) that holds securities and cash on behalf of its clients and manages settlements, record-keeping, dividends, and other administrative tasks. Unlike a [broker](/broker/) or trading firm, custodians do not execute trades; they provide safekeeping and operational infrastructure. Large institutional investors, [hedge funds](/hedge-fund/), and asset managers typically use custodians to ensure independent asset safety.*
 
 <div class="wiki-hatnote">
 
-For trading and execution, see [broker](/broker). For clearing and leverage, see [prime broker](/prime-broker). For depositing securities, see depository.
+For trading and execution, see [broker](/broker/). For clearing and leverage, see [prime broker](/prime-broker/). For depositing securities, see depository.
 
 </div>
 
@@ -141,15 +141,15 @@ Traditional custodians (State Street, BNY) primarily hold stocks, bonds, and cas
 
 ### Closely related
 
-- [Broker](/broker) — executes trades; sometimes also custodian
-- [Prime broker](/prime-broker) — executes and clears; separate from custodian
+- [Broker](/broker/) — executes trades; sometimes also custodian
+- [Prime broker](/prime-broker/) — executes and clears; separate from custodian
 - Depository — central facility holding securities
-- [Settlement T+2](/settlement-t2) — custodians process settlement
+- [Settlement T+2](/settlement-t2/) — custodians process settlement
 
 ### Asset safekeeping and risk
 
 - Asset segregation — how custodians protect assets
-- [Counterparty risk](/counterparty-risk) — segregation mitigates this
+- [Counterparty risk](/counterparty-risk/) — segregation mitigates this
 - **SIPC insurance** — limited insurance for brokerage assets
 - Securities lending — custodians facilitate but safeguard against risk
 
@@ -162,7 +162,7 @@ Traditional custodians (State Street, BNY) primarily hold stocks, bonds, and cas
 
 ### Institutional investing
 
-- [Hedge fund](/hedge-fund) — typical custodian client
+- [Hedge fund](/hedge-fund/) — typical custodian client
 - Asset manager — use custodians
 - Institutional investor — custodian client
 - Prime brokerage — separate from custody

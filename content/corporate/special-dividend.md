@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers special dividends as a capital allocation mechanism. For regular dividends, see [dividend](/dividend); for share buybacks, see [share buyback](/share-buyback); for other capital returns, see [special-dividend](/special-dividend).
+This entry covers special dividends as a capital allocation mechanism. For regular dividends, see [dividend](/dividend/); for share buybacks, see [share buyback](/share-buyback/); for other capital returns, see [special-dividend](/special-dividend/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers special dividends as a capital allocation mechanism. For regul
 | **Frequency** | Irregular; not part of regular dividend schedule |
 | **Tax treatment** | Generally taxed as ordinary dividend income |
 | **Impact on stock price** | Neutral to positive (return of capital; no dilution) |
-| **Alternative** | [Share buyback](/share-buyback) |
+| **Alternative** | [Share buyback](/share-buyback/) |
 
 </aside>
 
@@ -114,10 +114,10 @@ When a special dividend is announced, the stock price typically rises (positive 
 
 ## Special dividends in acquisition contexts
 
-Special dividends can be used in [merger](/merger) or [acquisition](/acquisition) contexts:
+Special dividends can be used in [merger](/merger/) or [acquisition](/acquisition/) contexts:
 
 - **Pre-close dividend.** Before a take-private transaction closes, the target might declare a special dividend, reducing the cash the acquirer gets.
-- **Post-close distribution.** A [leveraged buyout](/leveraged-buyout) sponsor might declare a special dividend shortly after acquisition, using new debt to fund it and returning capital to equity holders.
+- **Post-close distribution.** A [leveraged buyout](/leveraged-buyout/) sponsor might declare a special dividend shortly after acquisition, using new debt to fund it and returning capital to equity holders.
 
 These practices are controversial because they can transfer value from creditors to equity holders or reduce the cash available for operations.
 
@@ -127,17 +127,17 @@ These practices are controversial because they can transfer value from creditors
 
 ### Closely related
 
-- [Dividend](/dividend) — regular dividend distributions
-- [Share buyback](/share-buyback) — alternative capital return mechanism
+- [Dividend](/dividend/) — regular dividend distributions
+- [Share buyback](/share-buyback/) — alternative capital return mechanism
 - Capital allocation — strategic use of special dividends
 - Cash flow — source of dividends
 - Shareholder return — goal of special dividends
 
 ### Wider context
 
-- [Leveraged buyout](/leveraged-buyout) — often uses special dividends for early capital return
-- [Acquisition](/acquisition) — dividends may be declared in connection with deals
-- [Going-private transaction](/going-private) — special dividends may be declared
+- [Leveraged buyout](/leveraged-buyout/) — often uses special dividends for early capital return
+- [Acquisition](/acquisition/) — dividends may be declared in connection with deals
+- [Going-private transaction](/going-private/) — special dividends may be declared
 - Tax planning — dividend tax treatment
 - Board of directors — declares special dividends
 

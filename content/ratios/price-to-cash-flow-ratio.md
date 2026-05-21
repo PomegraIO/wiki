@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers a cash-flow-based valuation metric. For earnings-based alternatives, see [price-to-earnings ratio](/price-to-earnings-ratio) and [price-to-sales ratio](/price-to-sales-ratio).
+This entry covers a cash-flow-based valuation metric. For earnings-based alternatives, see [price-to-earnings ratio](/price-to-earnings-ratio/) and [price-to-sales ratio](/price-to-sales-ratio/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry covers a cash-flow-based valuation metric. For earnings-based alterna
 
 Earnings can be faked. You can move revenue recognition back a quarter, capitalize costs that should be expenses, or make aggressive assumptions about reserves. But cash is real. If a company reports high earnings but weak cash flow, the gap tells you something is wrong.
 
-The [price-to-cash flow ratio](/price-to-cash-flow-ratio) is therefore the purest valuation metric available to the average investor. Operating cash flow — cash generated from the core business before capital spending and financing — is what ultimately pays dividends, finances growth, and pays down debt.
+The [price-to-cash flow ratio](/price-to-cash-flow-ratio/) is therefore the purest valuation metric available to the average investor. Operating cash flow — cash generated from the core business before capital spending and financing — is what ultimately pays dividends, finances growth, and pays down debt.
 
 ## How to calculate it
 
@@ -81,7 +81,7 @@ Example: A company with a $60 billion market cap and $6 billion in operating cas
 
 ## P/CF vs. price-to-free-cash-flow
 
-There is a related and more useful ratio: [price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio), which divides market cap by free cash flow (operating cash flow minus capital spending). This is closer to what investors actually have available to spend.
+There is a related and more useful ratio: [price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio/), which divides market cap by free cash flow (operating cash flow minus capital spending). This is closer to what investors actually have available to spend.
 
 Many investors prefer price-to-free-cash-flow because it accounts for the fact that not all operating cash flow is available for distribution. However, for highly capital-intensive businesses, that can distort valuations. A mature company that no longer needs heavy reinvestment may have a low P/FCF but a high P/CF, both of which can be accurate pictures of the same business.
 
@@ -103,16 +103,16 @@ A company with P/CF of 8 and stable, growing operating cash flow is attractive; 
 
 ### Closely related
 
-- [Price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio) — accounts for capital spending
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the earnings alternative
+- [Price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio/) — accounts for capital spending
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the earnings alternative
 - Operating cash flow — the source number
-- [Free cash flow](/free-cash-flow) — cash after capital spending
-- [Market capitalization](/market-capitalization) — the valuation being assessed
+- [Free cash flow](/free-cash-flow/) — cash after capital spending
+- [Market capitalization](/market-capitalization/) — the valuation being assessed
 
 ### Wider context
 
-- [Cash flow statement](/cash-flow-statement) — where operating cash flow appears
+- [Cash flow statement](/cash-flow-statement/) — where operating cash flow appears
 - Earnings quality — detecting the gap between earnings and cash
-- [Diversification](/diversification) — comparing cash-generating capacity across holdings
+- [Diversification](/diversification/) — comparing cash-generating capacity across holdings
 
 </div>

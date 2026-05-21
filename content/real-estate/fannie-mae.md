@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*Fannie Mae (Federal National Mortgage Association) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security), and provides liquidity to the mortgage market. Fannie Mae is one of two dominant players in the U.S. secondary mortgage market (alongside [Freddie Mac](/freddie-mac)).*
+*Fannie Mae (Federal National Mortgage Association) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security/), and provides liquidity to the mortgage market. Fannie Mae is one of two dominant players in the U.S. secondary mortgage market (alongside [Freddie Mac](/freddie-mac/)).*
 
 <div class="wiki-hatnote">
 
-For the parallel GSE, see [freddie-mac](/freddie-mac). For the government insurer of FHA loans, see [fha-loan](/fha-loan). For the government MBS issuer, see ginnie-mae. For the broader GSE framework, see government-sponsored-enterprise.
+For the parallel GSE, see [freddie-mac](/freddie-mac/). For the government insurer of FHA loans, see [fha-loan](/fha-loan/). For the government MBS issuer, see ginnie-mae. For the broader GSE framework, see government-sponsored-enterprise.
 
 </div>
 
@@ -107,25 +107,25 @@ No major reforms have passed since 2008, and the two remain in conservatorship a
 
 ### Government agencies and enterprises
 
-- [Freddie-Mac](/freddie-mac) — parallel GSE
+- [Freddie-Mac](/freddie-mac/) — parallel GSE
 - Ginnie-Mae — government agency issuing MBS
 - Government-sponsored-enterprise — GSE framework
 
 ### Mortgages and securities
 
-- [Conforming-loan](/conforming-loan) — loans Fannie Mae will buy
-- [Mortgage-backed-security](/mortgage-backed-security) — securities Fannie Mae issues
+- [Conforming-loan](/conforming-loan/) — loans Fannie Mae will buy
+- [Mortgage-backed-security](/mortgage-backed-security/) — securities Fannie Mae issues
 - Agency-MBS — Fannie Mae MBS
 
 ### Related programs
 
-- [FHA-loan](/fha-loan) — government-insured mortgages (different from Fannie Mae)
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — the primary product
+- [FHA-loan](/fha-loan/) — government-insured mortgages (different from Fannie Mae)
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — the primary product
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects mortgage rates and demand
-- [Yield curve](/yield-curve) — context for mortgage pricing
-- [Federal Reserve](/federal-reserve) — holds Fannie Mae MBS for monetary policy
+- [Interest rate](/interest-rate/) — affects mortgage rates and demand
+- [Yield curve](/yield-curve/) — context for mortgage pricing
+- [Federal Reserve](/federal-reserve/) — holds Fannie Mae MBS for monetary policy
 
 </div>

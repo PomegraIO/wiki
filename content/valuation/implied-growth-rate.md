@@ -20,7 +20,7 @@ If the implied growth is 5% and you believe growth will be 2%, the stock is over
 
 ## Using the Gordon growth formula
 
-Start with the [Gordon growth model](/gordon-growth-model):
+Start with the [Gordon growth model](/gordon-growth-model/):
 
 Intrinsic value = FCF × (1 + g) / (r minus g)
 
@@ -98,10 +98,10 @@ A "reverse DCF" calculation is essentially finding the implied growth rate from 
 
 ### Closely related
 
-- [Reverse DCF](/reverse-dcf) — the broader concept
-- [Gordon growth model](/gordon-growth-model) — the formula used
-- [Terminal value](/terminal-value) — what implied growth determines
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the specific terminal approach
+- [Reverse DCF](/reverse-dcf/) — the broader concept
+- [Gordon growth model](/gordon-growth-model/) — the formula used
+- [Terminal value](/terminal-value/) — what implied growth determines
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the specific terminal approach
 
 ### Growth and expectations
 
@@ -111,9 +111,9 @@ A "reverse DCF" calculation is essentially finding the implied growth rate from 
 
 ### Valuation context
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses explicit growth assumptions
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — growth sensitivity
-- [Football field valuation](/football-field-valuation) — ranges of growth assumptions
-- [Scenario valuation](/scenario-valuation) — discrete growth cases
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses explicit growth assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — growth sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges of growth assumptions
+- [Scenario valuation](/scenario-valuation/) — discrete growth cases
 
 </div>

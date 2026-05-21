@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the strategy to prevent this, see [pay yourself first](/pay-yourself-first); for ways to optimize spending, see [budgeting methods](/budgeting-methods).
+For the strategy to prevent this, see [pay yourself first](/pay-yourself-first/); for ways to optimize spending, see [budgeting methods](/budgeting-methods/).
 
 </div>
 
@@ -62,7 +62,7 @@ For someone earning $60,000 after taxes:
 - **No creep:** A $5,000 raise (to $65,000) means $5,000 additional saving, if you do not increase spending. Over 10 raises, you accumulate $250,000+ in additional wealth.
 - **With creep:** You increase spending by $4,000 per raise, saving only $1,000 per raise. Over 10 raises, you accumulate only $50,000 in additional wealth, a loss of $200,000+.
 
-This is not mere accounting; it is the difference between reaching [financial independence](/fire-movement) at 45 and still working at 65.
+This is not mere accounting; it is the difference between reaching [financial independence](/fire-movement/) at 45 and still working at 65.
 
 ## How to prevent it
 
@@ -72,9 +72,9 @@ This is not mere accounting; it is the difference between reaching [financial in
 
 **Track spending historically.** Review your bank statements from a year ago. Compare to today. If spending is higher and income is higher by the same amount, you have creep. Awareness often triggers behavior change.
 
-**Cap discretionary spending.** Use [envelope budgeting](/envelope-budgeting) to set a fixed limit on discretionary categories. When your income rises, do not increase the envelope.
+**Cap discretionary spending.** Use [envelope budgeting](/envelope-budgeting/) to set a fixed limit on discretionary categories. When your income rises, do not increase the envelope.
 
-**Have a specific higher goal.** If you are targeting a [FIRE](/fire-movement) milestone or a specific savings goal (home down payment, sabbatical), tie your allocation decision to that goal. "I want to retire in 15 years" is more compelling than "I should save more."
+**Have a specific higher goal.** If you are targeting a [FIRE](/fire-movement/) milestone or a specific savings goal (home down payment, sabbatical), tie your allocation decision to that goal. "I want to retire in 15 years" is more compelling than "I should save more."
 
 **Delay purchasing decisions.** When a raise comes through, wait 30 days before increasing any spending. Often, the urge fades. If it does not, you can be intentional about the choice.
 
@@ -84,7 +84,7 @@ Many people cannot sustain zero lifestyle creep — some uplift in living standa
 
 ## Reverse lifestyle creep
 
-Once you become aware of lifestyle creep, you can reverse it — deliberately not increasing spending when your income rises, or even reducing spending. This is harder because it feels like deprivation (you are adjusting downward from your current baseline). But it is the fastest path to high [savings rate](/savings-rate) and financial independence.
+Once you become aware of lifestyle creep, you can reverse it — deliberately not increasing spending when your income rises, or even reducing spending. This is harder because it feels like deprivation (you are adjusting downward from your current baseline). But it is the fastest path to high [savings rate](/savings-rate/) and financial independence.
 
 ## See also
 
@@ -92,16 +92,16 @@ Once you become aware of lifestyle creep, you can reverse it — deliberately no
 
 ### Closely related
 
-- [Pay yourself first](/pay-yourself-first) — the main prevention strategy
-- [Savings rate](/savings-rate) — what creep threatens to erode
-- [Budgeting methods](/budgeting-methods) — how to allocate and track spending
-- [Envelope budgeting](/envelope-budgeting) — capping discretionary spending
+- [Pay yourself first](/pay-yourself-first/) — the main prevention strategy
+- [Savings rate](/savings-rate/) — what creep threatens to erode
+- [Budgeting methods](/budgeting-methods/) — how to allocate and track spending
+- [Envelope budgeting](/envelope-budgeting/) — capping discretionary spending
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — made harder by lifestyle creep
-- [The four-percent rule](/the-four-percent-rule) — retirement sustainability depends on keeping spending low
-- [Emergency fund](/emergency-fund) — lifestyle creep can prevent you from building one
-- [Compound interest](/compound-interest) — forgone savings from creep cost more than the current spending gain
+- [FIRE movement](/fire-movement/) — made harder by lifestyle creep
+- [The four-percent rule](/the-four-percent-rule/) — retirement sustainability depends on keeping spending low
+- [Emergency fund](/emergency-fund/) — lifestyle creep can prevent you from building one
+- [Compound interest](/compound-interest/) — forgone savings from creep cost more than the current spending gain
 
 </div>

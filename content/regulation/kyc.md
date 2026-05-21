@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*Know Your Customer (**KYC**) is a core compliance requirement for financial institutions. Banks, brokers, investment advisers, and other regulated entities must verify customer identity, understand their financial situation and business, and monitor their activity for suspicious patterns that might indicate money laundering or fraud. KYC is mandated by [anti-money laundering](/anti-money-laundering) laws worldwide and is a foundational component of financial system integrity.*
+*Know Your Customer (**KYC**) is a core compliance requirement for financial institutions. Banks, brokers, investment advisers, and other regulated entities must verify customer identity, understand their financial situation and business, and monitor their activity for suspicious patterns that might indicate money laundering or fraud. KYC is mandated by [anti-money laundering](/anti-money-laundering/) laws worldwide and is a foundational component of financial system integrity.*
 
 <div class="wiki-hatnote">
 
@@ -100,9 +100,9 @@ However, KYC is widely seen as necessary to prevent money laundering and terrori
 
 ### Closely related
 
-- [Anti-money laundering](/anti-money-laundering) — KYC is a core AML requirement
+- [Anti-money laundering](/anti-money-laundering/) — KYC is a core AML requirement
 - Customer due diligence — the process of gathering KYC information
-- [Beneficial ownership](/beneficial-ownership-reporting) — key component of KYC
+- [Beneficial ownership](/beneficial-ownership-reporting/) — key component of KYC
 - Suspicious activity report — filed if KYC detects risks
 - FinCEN — US agency that collects SARs
 

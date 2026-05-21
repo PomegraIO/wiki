@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For UGMA and UTMA account specifics, see [UGMA/UTMA](/ugma-utma); for education-specific accounts, see [529 plan](/529-college-savings-plan) and [Coverdell ESA](/coverdell-esa).
+For UGMA and UTMA account specifics, see [UGMA/UTMA](/ugma-utma/); for education-specific accounts, see [529 plan](/529-college-savings-plan/) and [Coverdell ESA](/coverdell-esa/).
 
 </div>
 
@@ -53,19 +53,19 @@ The two main types of custodial accounts are:
 
 **UTMA (Uniform Transfers to Minors Act).** A newer model allowing more types of assets and delaying transfer until age 21 (if the account-holder chooses). More flexible but subject to state law.
 
-Most states allow both; some allow only UTMA. See [UGMA/UTMA](/ugma-utma) for specifics.
+Most states allow both; some allow only UTMA. See [UGMA/UTMA](/ugma-utma/) for specifics.
 
 ## Investment and growth
 
 The custodian controls how the account is invested. Options include:
 - Savings account (low return, FDIC insured)
-- [Mutual funds](/mutual-fund)
-- [Index funds](/index-fund)
-- [Stocks](/stock)
-- [Bonds](/bond)
+- [Mutual funds](/mutual-fund/)
+- [Index funds](/index-fund/)
+- [Stocks](/stock/)
+- [Bonds](/bond/)
 - Even real property (in some cases with UTMA)
 
-Long-term growth is typical: many custodial accounts are opened at birth or in early childhood, giving 18+ years for [compound interest](/compound-interest).
+Long-term growth is typical: many custodial accounts are opened at birth or in early childhood, giving 18+ years for [compound interest](/compound-interest/).
 
 ## Tax treatment
 
@@ -87,17 +87,17 @@ You can contribute any amount to a custodial account, but gifts over $18,000 per
 
 A critical feature: once you contribute to a custodial account, it is irrevocable. You cannot take the money back. You also cannot dictate how the child uses the money after transfer — if the child wants to spend it on a car instead of college, they can.
 
-If flexibility is important, a [529 plan](/529-college-savings-plan) (for education) or parent-controlled investment account (the funds are yours, not the child's) are alternatives.
+If flexibility is important, a [529 plan](/529-college-savings-plan/) (for education) or parent-controlled investment account (the funds are yours, not the child's) are alternatives.
 
 ## Impact on financial aid
 
-Custodial accounts in the child's name have a significant impact on financial aid calculations (assessed at roughly 20% for dependent students). If substantial need-based aid is expected, this is a downside. [529 plans](/529-college-savings-plan) in the parent's name have much lower impact.
+Custodial accounts in the child's name have a significant impact on financial aid calculations (assessed at roughly 20% for dependent students). If substantial need-based aid is expected, this is a downside. [529 plans](/529-college-savings-plan/) in the parent's name have much lower impact.
 
 ## Common uses
 
 - **Grandparent gifts.** Grandparents often open custodial accounts as gifts for grandchildren.
 - **Birthday/holiday money.** Consolidating cash gifts into a custodial account instead of letting children spend it.
-- **Education savings.** When a [529 plan](/529-college-savings-plan) is not used, custodial accounts are an alternative.
+- **Education savings.** When a [529 plan](/529-college-savings-plan/) is not used, custodial accounts are an alternative.
 - **Long-term saving.** Opening at birth, contributing small amounts, and letting it grow for 18+ years.
 
 ## Upon transfer at age of majority
@@ -110,14 +110,14 @@ When the child reaches the transfer age, the account is legally theirs. Some cus
 
 ### Closely related
 
-- [UGMA/UTMA](/ugma-utma) — specific rules for custodial accounts
-- [529 college savings plan](/529-college-savings-plan) — education-specific alternative
-- [Coverdell ESA](/coverdell-esa) — modest education savings account
+- [UGMA/UTMA](/ugma-utma/) — specific rules for custodial accounts
+- [529 college savings plan](/529-college-savings-plan/) — education-specific alternative
+- [Coverdell ESA](/coverdell-esa/) — modest education savings account
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — growth potential over 18+ years
-- [Asset allocation](/asset-allocation) — investment strategy in custodial account
-- [Budgeting methods](/budgeting-methods) — saving for children as financial goal
+- [Compound interest](/compound-interest/) — growth potential over 18+ years
+- [Asset allocation](/asset-allocation/) — investment strategy in custodial account
+- [Budgeting methods](/budgeting-methods/) — saving for children as financial goal
 
 </div>

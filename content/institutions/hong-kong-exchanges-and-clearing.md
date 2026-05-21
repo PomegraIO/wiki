@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Hong Kong Exchanges and Clearing Limited** (HKEx) is the parent company operating the [Hong Kong Stock Exchange](/hong-kong-stock-exchange), the Hong Kong Futures Exchange, and associated clearing venues. HKEx is a publicly listed, vertically integrated exchange operator serving the Greater China region and global investors seeking exposure to Chinese and Hong Kong equities and derivatives.*
+*The **Hong Kong Exchanges and Clearing Limited** (HKEx) is the parent company operating the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/), the Hong Kong Futures Exchange, and associated clearing venues. HKEx is a publicly listed, vertically integrated exchange operator serving the Greater China region and global investors seeking exposure to Chinese and Hong Kong equities and derivatives.*
 
 <div class="wiki-hatnote">
 
@@ -44,7 +44,7 @@ HKEx listed on its own exchange (the Hong Kong Stock Exchange) in 2000, making i
 
 Hong Kong Exchanges and Clearing Limited was formed in 1980s as an operator of separate exchanges (the Stock Exchange and the Futures Exchange) and has evolved into a vertically integrated entity. In 2000, HKEx listed its own shares on the Hong Kong Stock Exchange, becoming one of the few major exchange operators globally to be traded on its own market.
 
-This listing structure makes HKEx subject to the same disclosure and governance requirements as any other [public company](/public-company), creating transparency and market discipline while aligning management incentives with shareholder value.
+This listing structure makes HKEx subject to the same disclosure and governance requirements as any other [public company](/public-company/), creating transparency and market discipline while aligning management incentives with shareholder value.
 
 ## Hong Kong Stock Exchange operations
 
@@ -54,7 +54,7 @@ The exchange is the most liquid Asian venue for Chinese equities and is heavily 
 
 ## Futures and derivatives
 
-HKEx operates the Hong Kong Futures Exchange, which trades derivatives on the Hang Seng Index, currency forwards, interest rate contracts, and commodity futures. The futures exchange serves institutional investors, [hedge funds](/hedge-fund), and corporations managing exposure to Hong Kong and Asian markets.
+HKEx operates the Hong Kong Futures Exchange, which trades derivatives on the Hang Seng Index, currency forwards, interest rate contracts, and commodity futures. The futures exchange serves institutional investors, [hedge funds](/hedge-fund/), and corporations managing exposure to Hong Kong and Asian markets.
 
 ## Clearing houses
 
@@ -82,18 +82,18 @@ HKEx operates significant data and market information businesses, selling pricin
 
 ### Closely related
 
-- [Hong Kong Stock Exchange](/hong-kong-stock-exchange) — equity subsidiary
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — connected mainland exchange
-- [Stock exchange](/stock-exchange) — the category
+- [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) — equity subsidiary
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — connected mainland exchange
+- [Stock exchange](/stock-exchange/) — the category
 - Derivatives — futures operations
-- [Public company](/public-company) — HKEx itself is listed
+- [Public company](/public-company/) — HKEx itself is listed
 
 ### Wider context
 
 - Institutional investor — major participants
-- [Hedge fund](/hedge-fund) — traders
-- [Central bank](/central-bank) — users
-- [Asset allocation](/asset-allocation) — regional exposure
+- [Hedge fund](/hedge-fund/) — traders
+- [Central bank](/central-bank/) — users
+- [Asset allocation](/asset-allocation/) — regional exposure
 - Price discovery — key role
 - Stock Connect — cross-border linkage
 

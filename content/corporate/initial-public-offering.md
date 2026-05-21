@@ -11,11 +11,11 @@ keywords:
   - going public
 image: "/svg/corporate.svg"
 ---
-*An **initial public offering**, or **IPO**, is the moment when a private company first offers its [stock](/stock) to the public, listing on a [stock exchange](/stock-exchange). IPOs are rituals of capital raising, growth, and founder enrichment, but they are also rituals of underpricing — the vast majority of IPOs rise sharply on the first day, a sign that they were sold to the public at a discount to what the market thinks they are worth.*
+*An **initial public offering**, or **IPO**, is the moment when a private company first offers its [stock](/stock/) to the public, listing on a [stock exchange](/stock-exchange/). IPOs are rituals of capital raising, growth, and founder enrichment, but they are also rituals of underpricing — the vast majority of IPOs rise sharply on the first day, a sign that they were sold to the public at a discount to what the market thinks they are worth.*
 
 <div class="wiki-hatnote">
 
-This entry covers the IPO process. For how public companies differ from private ones, see [public company](/public-company); for the ongoing relationship between a company and the markets, see [stock market](/stock-market).
+This entry covers the IPO process. For how public companies differ from private ones, see [public company](/public-company/); for the ongoing relationship between a company and the markets, see [stock market](/stock-market/).
 
 </div>
 
@@ -48,7 +48,7 @@ A private company goes public for three main reasons:
 
 **Raising capital.** A private company can only raise money from private investors (accredited individuals, private equity firms, venture capitalists). To raise hundreds of millions, the company needs public markets. An IPO is a one-time massive capital raise.
 
-**Creating currency.** Once public, a company's [stock](/stock) has a liquid, publicly known value. That stock can be used to acquire other companies (pay with stock instead of cash) and to issue equity-based employee compensation. This flexibility is a powerful tool for growth.
+**Creating currency.** Once public, a company's [stock](/stock/) has a liquid, publicly known value. That stock can be used to acquire other companies (pay with stock instead of cash) and to issue equity-based employee compensation. This flexibility is a powerful tool for growth.
 
 **Founder and investor exit.** Private equity investors and early-stage venture backers have a time horizon — often 7–10 years. An IPO provides a liquidity event where they can cash out and return capital (and gains) to their own investors.
 
@@ -84,13 +84,13 @@ For a retail investor, lock-up expiration is a date to watch. If you are holding
 
 ## First-day pops are not the whole story
 
-A common misconception is that IPO investors who get day-one allocations make huge returns. The data tell a different story. If you average the returns of IPOs from the first day of trading to one year later, they are mediocre. Many IPOs outperform the market, but many underperform. The first-day pop is a gift to institutions; the rest of the return is no better than what you would get from buying the broader [stock market](/stock-market).
+A common misconception is that IPO investors who get day-one allocations make huge returns. The data tell a different story. If you average the returns of IPOs from the first day of trading to one year later, they are mediocre. Many IPOs outperform the market, but many underperform. The first-day pop is a gift to institutions; the rest of the return is no better than what you would get from buying the broader [stock market](/stock-market/).
 
 And for companies that go public during hot markets (when investor sentiment is frothy), IPOs often underperform significantly. During the tech boom, the extreme valuations at which companies were taken public meant there was little room for return. Buying an IPO at the peak of its hype is often a poor decision.
 
 ## Who benefits and who does not
 
-Let us be clear about the wealth transfer: the IPO process benefits the underwriters (they take a 3–7% fee on proceeds, so a \$1 billion IPO nets them \$30–70 million), it benefits the institutions who get pre-IPO allocations and can flip them for day-one gains, it benefits founders and existing investors who are finally cashing out, and it benefits employees who now have valuable [stock](/stock) options.
+Let us be clear about the wealth transfer: the IPO process benefits the underwriters (they take a 3–7% fee on proceeds, so a \$1 billion IPO nets them \$30–70 million), it benefits the institutions who get pre-IPO allocations and can flip them for day-one gains, it benefits founders and existing investors who are finally cashing out, and it benefits employees who now have valuable [stock](/stock/) options.
 
 It does not particularly benefit new retail investors who buy on day one, and it modestly disadvantages the company, which sold stock at below what the market instantly values it at. But companies are willing to accept this because they get capital and the publicity of the IPO is valuable.
 
@@ -112,19 +112,19 @@ For some companies, the transition is seamless. For others, the pressure to deli
 
 ### Closely related
 
-- [Stock](/stock) — the security being offered
-- [Public company](/public-company) — what the IPO creates
-- [Stock exchange](/stock-exchange) — where the IPO lists
-- [Broker](/broker) — arranges your order to buy IPO shares
-- [Stock market](/stock-market) — where the IPO-ed stock trades
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — IPO valuations are often analyzed via multiples
+- [Stock](/stock/) — the security being offered
+- [Public company](/public-company/) — what the IPO creates
+- [Stock exchange](/stock-exchange/) — where the IPO lists
+- [Broker](/broker/) — arranges your order to buy IPO shares
+- [Stock market](/stock-market/) — where the IPO-ed stock trades
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — IPO valuations are often analyzed via multiples
 
 ### Wider context
 
-- [Bull market](/bull-market) — hot IPO markets occur in bull runs
-- [Bear market](/bear-market) — IPO activity drops sharply
-- [Market capitalization](/market-capitalization) — the IPO is when a private company gets a public market cap
-- [Diversification](/diversification) — IPO stock should be a small position
-- [Asset allocation](/asset-allocation) — growth-stage companies often fit into growth-tilted allocations
+- [Bull market](/bull-market/) — hot IPO markets occur in bull runs
+- [Bear market](/bear-market/) — IPO activity drops sharply
+- [Market capitalization](/market-capitalization/) — the IPO is when a private company gets a public market cap
+- [Diversification](/diversification/) — IPO stock should be a small position
+- [Asset allocation](/asset-allocation/) — growth-stage companies often fit into growth-tilted allocations
 
 </div>

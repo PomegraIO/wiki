@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For all-or-nothing execution, see [fill-or-kill](/fill-or-kill) and [all-or-none](/all-or-none). For orders that can sit and wait, see [limit order](/limit-order).
+For all-or-nothing execution, see [fill-or-kill](/fill-or-kill/) and [all-or-none](/all-or-none/). For orders that can sit and wait, see [limit order](/limit-order/).
 
 </div>
 
@@ -50,7 +50,7 @@ When you place an IOC order, you are saying: "Give me whatever you can right now
 
 Both are immediate-execution orders, but they handle partial fills differently:
 
-| Feature | IOC | [FOK](/fill-or-kill) |
+| Feature | IOC | [FOK](/fill-or-kill/) |
 |---|---|---|
 | **Partial fills** | Allowed; fill what you can | Not allowed; reject if not full size |
 | **Outcome if full size unavailable** | Partial fill accepted, remainder canceled | Entire order canceled (killed) |
@@ -62,7 +62,7 @@ IOC is "give me what you can." FOK is "give me all or nothing."
 
 Both require commitment to trade, but differ on timing:
 
-| Feature | IOC | [All-or-none](/all-or-none) |
+| Feature | IOC | [All-or-none](/all-or-none/) |
 |---|---|---|
 | **Timing** | Must execute immediately | Can sit waiting for full size |
 | **Partial fills** | Allowed | Not allowed |
@@ -82,7 +82,7 @@ IOC is "right now, whatever you have." All-or-none is "whenever the full size is
 
 ## IOC and liquidity-taking
 
-IOC orders are **aggressive** — they execute immediately, hitting the best ask for buys or the best bid for sells. They are a form of "liquidity-taking." A [limit order](/limit-order) sitting in the book is "liquidity-providing."
+IOC orders are **aggressive** — they execute immediately, hitting the best ask for buys or the best bid for sells. They are a form of "liquidity-taking." A [limit order](/limit-order/) sitting in the book is "liquidity-providing."
 
 Exchanges sometimes charge lower fees for liquidity-providing orders (you add to the book) and higher fees for liquidity-taking orders (you remove from the book). An IOC is liquidity-taking by nature.
 
@@ -90,7 +90,7 @@ Exchanges sometimes charge lower fees for liquidity-providing orders (you add to
 
 **IOC limit order:** You specify a price limit. The order fills at your price or better, or for available size only. Example: IOC limit to buy at $50. You might fill 8,000 at $49.99 but not the remaining 2,000 at $50.01.
 
-**IOC market order:** You accept any price. The order fills at the current best bid-ask. For all practical purposes, an IOC market order is just a [market order](/market-order) (immediate execution at any price).
+**IOC market order:** You accept any price. The order fills at the current best bid-ask. For all practical purposes, an IOC market order is just a [market order](/market-order/) (immediate execution at any price).
 
 ## Broker support for IOC
 
@@ -119,15 +119,15 @@ IOC orders work similarly across asset classes (stocks, options, futures), but s
 
 ### Closely related
 
-- [Fill-or-kill](/fill-or-kill) — all-or-nothing; no partial fills
-- [All-or-none](/all-or-none) — all-or-nothing; can wait
-- [Market order](/market-order) — immediate execution at any price
-- [Limit order](/limit-order) — patient execution at your price
+- [Fill-or-kill](/fill-or-kill/) — all-or-nothing; no partial fills
+- [All-or-none](/all-or-none/) — all-or-nothing; can wait
+- [Market order](/market-order/) — immediate execution at any price
+- [Limit order](/limit-order/) — patient execution at your price
 
 ### Time-in-force and execution
 
-- [Day order](/day-order) — standard time-in-force
-- [GTC order](/gtc-order) — good-til-canceled
+- [Day order](/day-order/) — standard time-in-force
+- [GTC order](/gtc-order/) — good-til-canceled
 - Time in force — how long orders last
 
 ### Trading context

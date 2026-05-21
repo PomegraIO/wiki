@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Intercontinental Exchange** (ICE) is one of the world's largest derivatives, commodities, and financial data companies, headquartered in Atlanta. Operating multiple trading venues for energy, agricultural commodities, and financial derivatives, ICE also owns the [New York Stock Exchange](/new-york-stock-exchange), making it a dominant player in global financial market infrastructure.*
+*The **Intercontinental Exchange** (ICE) is one of the world's largest derivatives, commodities, and financial data companies, headquartered in Atlanta. Operating multiple trading venues for energy, agricultural commodities, and financial derivatives, ICE also owns the [New York Stock Exchange](/new-york-stock-exchange/), making it a dominant player in global financial market infrastructure.*
 
 <div class="wiki-hatnote">
 
@@ -60,7 +60,7 @@ The exchange also operates significant agricultural commodities markets (through
 
 ## Financial derivatives
 
-Beyond commodities, ICE operates financial derivatives markets: interest rate futures, currency forwards, and other contracts used by banks, [hedge funds](/hedge-fund), and corporations for risk management and speculation.
+Beyond commodities, ICE operates financial derivatives markets: interest rate futures, currency forwards, and other contracts used by banks, [hedge funds](/hedge-fund/), and corporations for risk management and speculation.
 
 ## ICE Clear and clearing services
 
@@ -72,7 +72,7 @@ ICE has substantial market data and analytics operations that collect, process, 
 
 ## Global integration
 
-ICE operates trading venues in the US (energy, equities), the UK (Liffe derivatives), Europe, and the Middle East. This global footprint makes ICE a truly multinational exchange operator competing globally with [CME Group](/cme-group) for derivatives market share.
+ICE operates trading venues in the US (energy, equities), the UK (Liffe derivatives), Europe, and the Middle East. This global footprint makes ICE a truly multinational exchange operator competing globally with [CME Group](/cme-group/) for derivatives market share.
 
 ## See also
 
@@ -80,18 +80,18 @@ ICE operates trading venues in the US (energy, equities), the UK (Liffe derivati
 
 ### Closely related
 
-- [New York Stock Exchange](/new-york-stock-exchange) — equity subsidiary
+- [New York Stock Exchange](/new-york-stock-exchange/) — equity subsidiary
 - Derivatives — core product
 - Commodity — major market category
-- [CME Group](/cme-group) — major competitor
+- [CME Group](/cme-group/) — major competitor
 - Futures — primary contracts
 
 ### Wider context
 
 - Risk management — core function
 - Institutional investor — major participants
-- [Hedge fund](/hedge-fund) — traders
-- [Central bank](/central-bank) — users
+- [Hedge fund](/hedge-fund/) — traders
+- [Central bank](/central-bank/) — users
 - Price discovery — key role
 - Clearinghouse — clearing subsidiary
 

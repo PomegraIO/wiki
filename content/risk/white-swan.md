@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*A white swan is a positive surprise or unexpectedly favorable outcome that stems from foreseeable conditions that developed better than expected. Unlike [black swans](/black-swan) and [gray swans](/gray-swan), which are downside catastrophes, white swans are upside surprises that benefit investors or the economy.*
+*A white swan is a positive surprise or unexpectedly favorable outcome that stems from foreseeable conditions that developed better than expected. Unlike [black swans](/black-swan/) and [gray swans](/gray-swan/), which are downside catastrophes, white swans are upside surprises that benefit investors or the economy.*
 
 <div class="wiki-hatnote">
 
-This entry covers upside surprises. For downside catastrophes that are unpredictable, see [black-swan](/black-swan); for foreseeable downside risks, see [gray-swan](/gray-swan).
+This entry covers upside surprises. For downside catastrophes that are unpredictable, see [black-swan](/black-swan/); for foreseeable downside risks, see [gray-swan](/gray-swan/).
 
 </div>
 
@@ -29,7 +29,7 @@ This entry covers upside surprises. For downside catastrophes that are unpredict
 |   |   |
 |---|---|
 | **What it is** | Unexpectedly positive outcome from known conditions |
-| **Opposite of** | [Black swan](/black-swan) (unpredictable catastrophe) and [gray swan](/gray-swan) (known catastrophe) |
+| **Opposite of** | [Black swan](/black-swan/) (unpredictable catastrophe) and [gray swan](/gray-swan/) (known catastrophe) |
 | **Examples** | Technology breakthrough; rapid productivity gains; cheaper energy |
 | **Forecast bias** | Markets and economists systematically underestimate white swans |
 | **Reason underestimated** | Humans pessimistic; upside surprises less salient than downside |
@@ -39,7 +39,7 @@ This entry covers upside surprises. For downside catastrophes that are unpredict
 
 ## White swans are asymmetrically rare in forecasts
 
-If [black swans](/black-swan) are unpredictable catastrophes and [gray swans](/gray-swan) are known catastrophes, white swans are positive surprises from conditions everyone thought they understood.
+If [black swans](/black-swan/) are unpredictable catastrophes and [gray swans](/gray-swan/) are known catastrophes, white swans are positive surprises from conditions everyone thought they understood.
 
 **Example:** In the 1990s, many feared Y2K would cause a global technology collapse. In fact, the spending to fix Y2K issues ended up boosting tech investment and productivity, and the feared catastrophe never materialized. The Y2K scare becoming a non-issue was a white swan — a foreseeable risk that did not happen, leading to positive surprise.
 
@@ -75,7 +75,7 @@ This is why buy-and-hold investing in equities has worked so well historically: 
 
 One might argue that "white swan" is just a forecast error in the optimistic direction — a case where something good happened but someone simply predicted it wrong. That is true. The distinction is mainly narrative: we call favorable surprises "white swans" when they deserve to be as salient in risk discussions as negative surprises are.
 
-The point is that humans tend to weight the downside [tail-risk](/tail-risk) heavily and the upside [tail-risk](/tail-risk) lightly. A balanced view of tail risk would include both [black swans](/black-swan) and white swans — both the downside catastrophes we fear and the upside breakthroughs we hope for.
+The point is that humans tend to weight the downside [tail-risk](/tail-risk/) heavily and the upside [tail-risk](/tail-risk/) lightly. A balanced view of tail risk would include both [black swans](/black-swan/) and white swans — both the downside catastrophes we fear and the upside breakthroughs we hope for.
 
 ## Investing with white swans in mind
 
@@ -93,18 +93,18 @@ The point is that humans tend to weight the downside [tail-risk](/tail-risk) hea
 
 ### Closely related
 
-- [Black-swan](/black-swan) — unpredictable negative surprise
-- [Gray-swan](/gray-swan) — foreseeable negative surprise
-- [Tail-risk](/tail-risk) — includes both upside and downside
-- [Bull market](/bull-market) — often driven by white swans
-- [Technological progress](/stock) — a source of white swans
+- [Black-swan](/black-swan/) — unpredictable negative surprise
+- [Gray-swan](/gray-swan/) — foreseeable negative surprise
+- [Tail-risk](/tail-risk/) — includes both upside and downside
+- [Bull market](/bull-market/) — often driven by white swans
+- [Technological progress](/stock/) — a source of white swans
 
 ### Broader context
 
-- [Diversification](/diversification) — allows you to capture white swans in multiple areas
-- [Growth stock](/stock) — better positioned for white swans than value
-- [Asset allocation](/asset-allocation) — allocation toward growth captures white swans
-- [Long-term investing](/index-fund) — gives white swans time to materialize
-- [Forecast bias](/stock-market) — humans systematically underestimate white swans
+- [Diversification](/diversification/) — allows you to capture white swans in multiple areas
+- [Growth stock](/stock/) — better positioned for white swans than value
+- [Asset allocation](/asset-allocation/) — allocation toward growth captures white swans
+- [Long-term investing](/index-fund/) — gives white swans time to materialize
+- [Forecast bias](/stock-market/) — humans systematically underestimate white swans
 
 </div>

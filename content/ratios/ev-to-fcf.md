@@ -37,7 +37,7 @@ image: "/svg/ratios.svg"
 
 Free cash flow — cash available after capital spending — is what actually reaches shareholders and lenders. EV/FCF answers: how many years of that cash must be accumulated to recover the purchase price?
 
-A company with 10x EV/FCF yields 10% free cash flow. One with 20x yields 5%. This is more useful than [EV/EBITDA](/ev-to-ebitda) because it accounts for capital intensity and working capital needs.
+A company with 10x EV/FCF yields 10% free cash flow. One with 20x yields 5%. This is more useful than [EV/EBITDA](/ev-to-ebitda/) because it accounts for capital intensity and working capital needs.
 
 ## How to calculate it
 
@@ -74,8 +74,8 @@ A company with EV/EBITDA of 10x but EV/FCF of 15x has high capex intensity — i
 
 ### Closely related
 
-- [EV/EBITDA](/ev-to-ebitda) · [EV/EBIT](/ev-to-ebit) · [EV/Sales](/ev-to-sales)
-- [Free cash flow](/free-cash-flow) — the denominator
-- [Price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio) — equity version
+- [EV/EBITDA](/ev-to-ebitda/) · [EV/EBIT](/ev-to-ebit/) · [EV/Sales](/ev-to-sales/)
+- [Free cash flow](/free-cash-flow/) — the denominator
+- [Price-to-free-cash-flow-ratio](/price-to-free-cash-flow-ratio/) — equity version
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*Alan Greenspan led the [Federal Reserve](/federal-reserve) through the 1990s and 2000s with a philosophy that markets self-correct and regulation should be light — a philosophy that proved problematic when financial crisis erupted.*
+*Alan Greenspan led the [Federal Reserve](/federal-reserve/) through the 1990s and 2000s with a philosophy that markets self-correct and regulation should be light — a philosophy that proved problematic when financial crisis erupted.*
 
 <aside class="wiki-infobox">
 
@@ -35,19 +35,19 @@ image: "/svg/people.svg"
 
 ## The appointment and philosophy
 
-Greenspan was appointed [Federal Reserve](/federal-reserve) chairman in 1987 by Ronald Reagan. He came from a background in business and economics, with a libertarian philosophy that markets were efficient and that government intervention should be minimal.
+Greenspan was appointed [Federal Reserve](/federal-reserve/) chairman in 1987 by Ronald Reagan. He came from a background in business and economics, with a libertarian philosophy that markets were efficient and that government intervention should be minimal.
 
 He believed that financial markets had strong self-correcting mechanisms. If an asset was overpriced, the market would eventually correct it. He was skeptical of regulation, believing it was often counterproductive. He trusted in the rationality of market participants.
 
 ## The 1990s success
 
-The 1990s were boom years under Greenspan. The economy grew, unemployment fell, inflation remained low. The [stock market](/stock-market) boomed, and the dot-com sector surged. Greenspan's "Greenspan Put" — the market expectation that the Fed would cut [interest rates](/interest-rate) if the market fell — created a sense that downside risk was limited.
+The 1990s were boom years under Greenspan. The economy grew, unemployment fell, inflation remained low. The [stock market](/stock-market/) boomed, and the dot-com sector surged. Greenspan's "Greenspan Put" — the market expectation that the Fed would cut [interest rates](/interest-rate/) if the market fell — created a sense that downside risk was limited.
 
 This made Greenspan enormously popular. He was seen as the maestro of the economy, skilled at navigating the path between inflation and recession.
 
 ## The 2000 tech crash and response
 
-When the dot-com bubble burst in 2000-2002, causing a sharp [bear market](/bear-market), Greenspan responded by cutting [interest rates](/interest-rate) sharply and keeping them low. This stimulated the economy and the [stock market](/stock-market) recovered.
+When the dot-com bubble burst in 2000-2002, causing a sharp [bear market](/bear-market/), Greenspan responded by cutting [interest rates](/interest-rate/) sharply and keeping them low. This stimulated the economy and the [stock market](/stock-market/) recovered.
 
 Yet the low-rate policy also fueled the housing bubble. Banks began to lend recklessly; borrowers took on excessive debt; housing prices soared. Greenspan believed that deregulation and light-touch oversight was appropriate, even as warning signs accumulated.
 
@@ -73,7 +73,7 @@ Yet he also argued that the crisis was not caused by deregulation per se but by 
 
 Greenspan's legacy is contested. Admirers point to his management of the 1990s and the recovery from the 2000 crash. Critics point to his ideology-driven opposition to regulation and his failure to see the housing bubble building under his watch.
 
-What is clear is that Greenspan's [Federal Reserve](/federal-reserve) policy — particularly the maintenance of very low [interest rates](/interest-rate) from 2003-2004 onward — contributed to the housing bubble and the subsequent financial crisis.
+What is clear is that Greenspan's [Federal Reserve](/federal-reserve/) policy — particularly the maintenance of very low [interest rates](/interest-rate/) from 2003-2004 onward — contributed to the housing bubble and the subsequent financial crisis.
 
 ## See also
 
@@ -81,15 +81,15 @@ What is clear is that Greenspan's [Federal Reserve](/federal-reserve) policy —
 
 ### Closely related
 
-- [Paul Volcker](/paul-volcker) — His predecessor
-- [Ben Bernanke](/ben-bernanke) — His successor
-- [Hyman Minsky](/hyman-minsky) — Whose financial instability theory was vindicated
+- [Paul Volcker](/paul-volcker/) — His predecessor
+- [Ben Bernanke](/ben-bernanke/) — His successor
+- [Hyman Minsky](/hyman-minsky/) — Whose financial instability theory was vindicated
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — Which he led
-- [Monetary policy](/monetary-policy) — His domain
+- [Federal Reserve](/federal-reserve/) — Which he led
+- [Monetary policy](/monetary-policy/) — His domain
 - Financial crisis — His legacy
-- [Interest rate](/interest-rate) — His tool
+- [Interest rate](/interest-rate/) — His tool
 
 </div>

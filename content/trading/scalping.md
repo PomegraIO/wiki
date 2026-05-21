@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For day trading (minutes to hours), see [day trading](/day-order). For multi-day trading, see [swing trading](/swing-trading). For high-frequency scalping, see [high-frequency trading](/high-frequency-trading).
+For day trading (minutes to hours), see [day trading](/day-order/). For multi-day trading, see [swing trading](/swing-trading/). For high-frequency scalping, see [high-frequency trading](/high-frequency-trading/).
 
 </div>
 
@@ -43,7 +43,7 @@ A scalper watches a stock closely, looking for the smallest price moves. Example
 **Stock:** Apple (AAPL), trading around $150.
 
 **Trade 1:**
-- 9:31 a.m.: Buy 100 shares at $150.00 (using a [limit order](/limit-order) or [market order](/market-order)).
+- 9:31 a.m.: Buy 100 shares at $150.00 (using a [limit order](/limit-order/) or [market order](/market-order/)).
 - 9:31:30 a.m.: Sell 100 shares at $150.02.
 - **Profit:** $0.02 × 100 = $2 (gross; minus commissions/fees).
 
@@ -64,7 +64,7 @@ A scalper executing 100 trades with an average profit of $2 per trade = $200 pro
 
 **Technical setups:** Scalpers often use very short-term charts (1-minute, 5-minute) and trade support/resistance levels.
 
-**Algorithmic:** Some scalpers use algorithms to detect patterns and execute automatically (though this blurs into [high-frequency trading](/high-frequency-trading)).
+**Algorithmic:** Some scalpers use algorithms to detect patterns and execute automatically (though this blurs into [high-frequency trading](/high-frequency-trading/)).
 
 **Momentum fading:** Detect a rapid move in one direction and bet it reverses slightly; profit on the reversion.
 
@@ -78,7 +78,7 @@ A scalper executing 100 trades with an average profit of $2 per trade = $200 pro
 
 **Taxes:** Short-term trades are taxed at ordinary income rates (up to 37%), not long-term capital gains rates (up to 20%). This significantly reduces after-tax returns.
 
-**Regulatory:** The [PDT rule](/pattern-day-trader) requires $25,000 minimum and caps buying power at 4×. This limits the number of shares a scalper can hold simultaneously.
+**Regulatory:** The [PDT rule](/pattern-day-trader/) requires $25,000 minimum and caps buying power at 4×. This limits the number of shares a scalper can hold simultaneously.
 
 ## Scalping in different markets
 
@@ -120,7 +120,7 @@ Studies and anecdotal evidence suggest:
 
 ## Scalping vs. HFT
 
-[High-frequency traders](/high-frequency-trading) are often called "extreme scalpers." The mechanics are similar (hold for microseconds to milliseconds, profit on tiny moves, scale with volume), but HFT has:
+[High-frequency traders](/high-frequency-trading/) are often called "extreme scalpers." The mechanics are similar (hold for microseconds to milliseconds, profit on tiny moves, scale with volume), but HFT has:
 - **Speed advantage:** Microsecond latency; scalpers can only achieve millisecond speed.
 - **Capital:** Millions in infrastructure; scalpers operate with thousands to millions.
 - **Algorithmic sophistication:** HFTs use machine learning; scalpers use manual trading or simpler algos.
@@ -134,21 +134,21 @@ A retail scalper is essentially attempting to do manually what HFT firms do algo
 
 ### Trading styles and timescales
 
-- [Day trading](/day-order) — longer-term day trades (minutes to hours)
-- [Swing trading](/swing-trading) — multi-day/week trades
-- [High-frequency trading](/high-frequency-trading) — extreme scalping via algorithms
-- [Position trading](/position-trading) — longer-term directional trades
+- [Day trading](/day-order/) — longer-term day trades (minutes to hours)
+- [Swing trading](/swing-trading/) — multi-day/week trades
+- [High-frequency trading](/high-frequency-trading/) — extreme scalping via algorithms
+- [Position trading](/position-trading/) — longer-term directional trades
 
 ### Order types and execution
 
-- [Market order](/market-order) — instant execution
-- [Limit order](/limit-order) — patient execution
-- [Trailing stop order](/trailing-stop-order) — tight risk control
-- [One-cancels-other](/oco-order) — profit/stop management
+- [Market order](/market-order/) — instant execution
+- [Limit order](/limit-order/) — patient execution
+- [Trailing stop order](/trailing-stop-order/) — tight risk control
+- [One-cancels-other](/oco-order/) — profit/stop management
 
 ### Account and regulation
 
-- [Pattern day trader](/pattern-day-trader) — PDT rule affects scalpers
+- [Pattern day trader](/pattern-day-trader/) — PDT rule affects scalpers
 - Margin — scalpers often use leverage
 - Buying power — limited by PDT rule
 - **Commission and fees** — major cost for scalpers

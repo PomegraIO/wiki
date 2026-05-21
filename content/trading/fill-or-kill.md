@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For immediate execution with partial fills allowed, see [immediate-or-cancel](/immediate-or-cancel). For a size-constraint, see [all-or-none](/all-or-none).
+For immediate execution with partial fills allowed, see [immediate-or-cancel](/immediate-or-cancel/). For a size-constraint, see [all-or-none](/all-or-none/).
 
 </div>
 
@@ -48,7 +48,7 @@ This is an all-or-nothing constraint combined with an immediate-or-never timing 
 
 ## FOK vs. IOC (immediate-or-cancel)
 
-Both FOK and [IOC](/immediate-or-cancel) orders execute immediately or are canceled, but they differ on partial fills:
+Both FOK and [IOC](/immediate-or-cancel/) orders execute immediately or are canceled, but they differ on partial fills:
 
 | Feature | FOK | IOC |
 |---|---|---|
@@ -60,7 +60,7 @@ If you place a 10,000-share FOK at $50 and only 8,000 are available, you get 0 s
 
 ## FOK vs. AON (all-or-none)
 
-FOK and [all-or-none](/all-or-none) both require full size, but they differ on timing:
+FOK and [all-or-none](/all-or-none/) both require full size, but they differ on timing:
 
 | Feature | FOK | AON |
 |---|---|---|
@@ -83,7 +83,7 @@ A FOK is "I want all 10,000 right now, or forget it." An AON is "I want all 10,0
 
 FOK orders are only practical in highly liquid securities where your order size is small relative to available liquidity. For a large-cap stock like Apple, a 10,000-share FOK will likely execute. For a thinly traded penny stock, even a 1,000-share FOK might be killed.
 
-Large institutions trading illiquid securities would never use FOK; they would use [all-or-none](/all-or-none) and wait for the full size to accumulate.
+Large institutions trading illiquid securities would never use FOK; they would use [all-or-none](/all-or-none/) and wait for the full size to accumulate.
 
 ## FOK and broker support
 
@@ -93,21 +93,21 @@ FOK support varies by broker:
 - **Schwab, Fidelity, TD Ameritrade:** Support FOK for stocks and some derivatives.
 - **Discount brokers:** May not support FOK; check documentation.
 
-If your broker does not support FOK, you can sometimes approximate it with a [limit order](/limit-order) combined with an [all-or-none](/all-or-none) constraint and a very short time window (e.g., day order).
+If your broker does not support FOK, you can sometimes approximate it with a [limit order](/limit-order/) combined with an [all-or-none](/all-or-none/) constraint and a very short time window (e.g., day order).
 
 ## FOK orders and slippage
 
-A FOK order with a limit price is somewhat protected: your order will only fill at your limit price or better. But a FOK order that is a [market order](/market-order) (market-FOK) will execute immediately at whatever price the market offers. This can result in slippage if you are not careful.
+A FOK order with a limit price is somewhat protected: your order will only fill at your limit price or better. But a FOK order that is a [market order](/market-order/) (market-FOK) will execute immediately at whatever price the market offers. This can result in slippage if you are not careful.
 
 Most FOK orders are limit orders, not market orders.
 
 ## When NOT to use FOK
 
-**Small orders in liquid markets.** If you are buying 100 shares of a large-cap stock, just use a regular [limit order](/limit-order) or [market order](/market-order). FOK is overkill.
+**Small orders in liquid markets.** If you are buying 100 shares of a large-cap stock, just use a regular [limit order](/limit-order/) or [market order](/market-order/). FOK is overkill.
 
-**When you want partial fills.** If you are happy to get 80% of your order filled and move on, use an [IOC order](/immediate-or-cancel) instead.
+**When you want partial fills.** If you are happy to get 80% of your order filled and move on, use an [IOC order](/immediate-or-cancel/) instead.
 
-**When you are patient.** If you have time and want to ensure you get all your shares, use an [all-or-none](/all-or-none) order and wait.
+**When you are patient.** If you have time and want to ensure you get all your shares, use an [all-or-none](/all-or-none/) order and wait.
 
 ## See also
 
@@ -115,15 +115,15 @@ Most FOK orders are limit orders, not market orders.
 
 ### Closely related
 
-- [Immediate-or-cancel](/immediate-or-cancel) — immediate or death, but allows partial fills
-- [All-or-none](/all-or-none) — full size required, but can wait
-- [Limit order](/limit-order) — standard order with price protection
-- [Market order](/market-order) — immediate execution at any price
+- [Immediate-or-cancel](/immediate-or-cancel/) — immediate or death, but allows partial fills
+- [All-or-none](/all-or-none/) — full size required, but can wait
+- [Limit order](/limit-order/) — standard order with price protection
+- [Market order](/market-order/) — immediate execution at any price
 
 ### Time-in-force and execution
 
-- [Day order](/day-order) — typical time-in-force for limit orders
-- [GTC order](/gtc-order) — good-til-canceled
+- [Day order](/day-order/) — typical time-in-force for limit orders
+- [GTC order](/gtc-order/) — good-til-canceled
 - Fill — when an order executes
 
 ### Trading context

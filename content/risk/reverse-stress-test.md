@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers reverse stress testing methodology. For forward stress testing from scenarios to losses, see [stress-testing](/stress-testing); for structured named scenarios, see [scenario-analysis](/scenario-analysis).
+This entry covers reverse stress testing methodology. For forward stress testing from scenarios to losses, see [stress-testing](/stress-testing/); for structured named scenarios, see [scenario-analysis](/scenario-analysis/).
 
 </div>
 
@@ -95,7 +95,7 @@ Start with the unacceptable outcome and trace backwards:
 - Trading positions in credit derivatives: $2B unrealised gains.
 - Exposure to emerging market bonds: $8B notional.
 - Counterparty exposure to large hedge fund: $5B.
-- Liquidity buffer: $5B in liquid [securities](/stock).
+- Liquidity buffer: $5B in liquid [securities](/stock/).
 
 **Scenarios causing the loss:**
 1. **Credit crisis:** EM bond spreads spike 300 bps → $2.4B loss. Credit derivative position loses 50% → $1B loss. Hedge fund counterparty defaults → $3B loss. Total: $6.4B.
@@ -116,11 +116,11 @@ Start with the unacceptable outcome and trace backwards:
 
 **Defining "unacceptable."** Who decides what loss is unacceptable? Regulators say 20% for banks; private firms might tolerate 10%. There is subjectivity.
 
-**Plausibility assessment.** Determining whether a scenario is plausible is inherently subjective. A [black swan](/black-swan) is, by definition, not foreseeable.
+**Plausibility assessment.** Determining whether a scenario is plausible is inherently subjective. A [black swan](/black-swan/) is, by definition, not foreseeable.
 
 **Scenario completeness.** Even with reverse stress testing, there is a risk of missing scenarios. The 2008 crisis combined multiple failures (credit, liquidity, systemic) in ways few anticipated.
 
-**Model dependency.** Calculating losses in scenarios still requires models, which have [model-risk](/model-risk).
+**Model dependency.** Calculating losses in scenarios still requires models, which have [model-risk](/model-risk/).
 
 Despite these, reverse stress testing is a powerful tool because it forces explicit vulnerability assessment.
 
@@ -141,25 +141,25 @@ This is simpler than bank-level reverse testing, but the logic is identical.
 
 ### Closely related
 
-- [Stress-testing](/stress-testing) — forward testing; reverse goes backwards
-- [Scenario-analysis](/scenario-analysis) — structured but forward-looking
-- [Value-at-risk](/value-at-risk) — quantitative alternative
-- [Tail-risk](/tail-risk) — what reverse tests aim to surface
-- [Vulnerability assessment](/operational-risk) — identifying weak points
+- [Stress-testing](/stress-testing/) — forward testing; reverse goes backwards
+- [Scenario-analysis](/scenario-analysis/) — structured but forward-looking
+- [Value-at-risk](/value-at-risk/) — quantitative alternative
+- [Tail-risk](/tail-risk/) — what reverse tests aim to surface
+- [Vulnerability assessment](/operational-risk/) — identifying weak points
 
 ### Regulatory context
 
-- [Capital-adequacy](/capital-adequacy) — reverse stress tests support capital planning
-- [Basel-capital](/basel-capital) — regulatory framework
-- [Federal Reserve](/federal-reserve) — mandates reverse stress testing
-- [Systemic-risk](/systemic-risk) — reverse tests assess systemic vulnerabilities
+- [Capital-adequacy](/capital-adequacy/) — reverse stress tests support capital planning
+- [Basel-capital](/basel-capital/) — regulatory framework
+- [Federal Reserve](/federal-reserve/) — mandates reverse stress testing
+- [Systemic-risk](/systemic-risk/) — reverse tests assess systemic vulnerabilities
 - Risk-weighted-assets — informs capital requirements
 
 ### Strategic use
 
-- [Risk management](/value-at-risk) — discovers concentrations and weak points
-- [Portfolio management](/asset-allocation) — informs allocation decisions
+- [Risk management](/value-at-risk/) — discovers concentrations and weak points
+- [Portfolio management](/asset-allocation/) — informs allocation decisions
 - Hedging — identifies what to hedge
-- [Business continuity](/operational-risk) — prepares for worst-case
+- [Business continuity](/operational-risk/) — prepares for worst-case
 
 </div>

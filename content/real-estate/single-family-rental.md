@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers single-family rentals broadly. For apartment alternatives, see [multifamily-property](/multifamily-property). For scale institutional strategies, see [residential REIT](/residential-reit). For the broader housing context, see [residential-real-estate](/residential-real-estate).
+This entry covers single-family rentals broadly. For apartment alternatives, see [multifamily-property](/multifamily-property/). For scale institutional strategies, see [residential REIT](/residential-reit/). For the broader housing context, see [residential-real-estate](/residential-real-estate/).
 
 </div>
 
@@ -114,28 +114,28 @@ Property appreciation is the long-term driver of single-family rental returns. A
 
 ### Property types
 
-- [Residential real estate](/residential-real-estate) — housing broadly
-- [Multifamily property](/multifamily-property) — apartment alternative
-- [Build-to-rent](/build-to-rent) — new rental communities
-- [Condominium](/condominium) — condo ownership structure
+- [Residential real estate](/residential-real-estate/) — housing broadly
+- [Multifamily property](/multifamily-property/) — apartment alternative
+- [Build-to-rent](/build-to-rent/) — new rental communities
+- [Condominium](/condominium/) — condo ownership structure
 
 ### Investment vehicles
 
-- [Residential REIT](/residential-reit) — institutional residential ownership
+- [Residential REIT](/residential-reit/) — institutional residential ownership
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — return metric for rental properties
-- [Cash on cash return](/cash-on-cash-return) — leveraged return on invested equity
-- [Net operating income](/net-operating-income) — property cash flow
-- [Gross rent multiplier](/gross-rent-multiplier) — valuation shortcut
+- [Cap rate](/cap-rate/) — return metric for rental properties
+- [Cash on cash return](/cash-on-cash-return/) — leveraged return on invested equity
+- [Net operating income](/net-operating-income/) — property cash flow
+- [Gross rent multiplier](/gross-rent-multiplier/) — valuation shortcut
 
 ### Context
 
-- [Fixed-rate mortgage](/fixed-rate-mortgage) — the financing vehicle for rentals
-- [Interest rate](/interest-rate) — affects mortgage rates and affordability
-- [Recession](/recession) — tenant defaults rise in downturns
-- [Asset allocation](/asset-allocation) — rental properties as portfolio components
+- [Fixed-rate mortgage](/fixed-rate-mortgage/) — the financing vehicle for rentals
+- [Interest rate](/interest-rate/) — affects mortgage rates and affordability
+- [Recession](/recession/) — tenant defaults rise in downturns
+- [Asset allocation](/asset-allocation/) — rental properties as portfolio components
 
 </div>

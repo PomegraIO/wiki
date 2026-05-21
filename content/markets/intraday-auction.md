@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*An **intraday auction** is a special auction mechanism that stock exchanges can trigger during [regular trading hours](/regular-trading-hours) to restart trading after a halt or to manage an extreme order imbalance. Unlike the [opening](/opening-auction-detail) and [closing](/closing-auction-detail) auctions, which occur routinely, intraday auctions are exceptional events signaling a disruption in normal market operations.*
+*An **intraday auction** is a special auction mechanism that stock exchanges can trigger during [regular trading hours](/regular-trading-hours/) to restart trading after a halt or to manage an extreme order imbalance. Unlike the [opening](/opening-auction-detail/) and [closing](/closing-auction-detail/) auctions, which occur routinely, intraday auctions are exceptional events signaling a disruption in normal market operations.*
 
 <div class="wiki-hatnote">
 
-This entry is about emergency auctions during the trading day. For routine auctions, see [opening auction](/opening-auction-detail) and [closing auction](/closing-auction-detail); for trading halts more broadly, see [regular trading hours](/regular-trading-hours).
+This entry is about emergency auctions during the trading day. For routine auctions, see [opening auction](/opening-auction-detail/) and [closing auction](/closing-auction-detail/); for trading halts more broadly, see [regular trading hours](/regular-trading-hours/).
 
 </div>
 
@@ -103,18 +103,18 @@ Market-wide trading halts (circuit breakers) triggered by indices falling 7%, 13
 
 ### Closely related
 
-- [Opening auction](/opening-auction-detail) — routine daily auction
-- [Closing auction](/closing-auction-detail) — routine daily auction
-- [Regular trading hours](/regular-trading-hours) — when intraday auctions may occur
-- [Stock exchange](/stock-exchange) — the venue conducting auctions
-- [Price discovery](/stock-market) — function of intraday auctions
+- [Opening auction](/opening-auction-detail/) — routine daily auction
+- [Closing auction](/closing-auction-detail/) — routine daily auction
+- [Regular trading hours](/regular-trading-hours/) — when intraday auctions may occur
+- [Stock exchange](/stock-exchange/) — the venue conducting auctions
+- [Price discovery](/stock-market/) — function of intraday auctions
 
 ### Wider context
 
-- [Trading halt](/regular-trading-hours) — triggers intraday auctions
-- [Circuit breaker](/stock-market) — market-wide mechanism
-- [Order book](/stock-market) — center of auction matching
-- [Liquidity](/secondary-market) — disrupted by halts and auctions
-- [Volatility](/bull-market) — often high during intraday auctions
+- [Trading halt](/regular-trading-hours/) — triggers intraday auctions
+- [Circuit breaker](/stock-market/) — market-wide mechanism
+- [Order book](/stock-market/) — center of auction matching
+- [Liquidity](/secondary-market/) — disrupted by halts and auctions
+- [Volatility](/bull-market/) — often high during intraday auctions
 
 </div>

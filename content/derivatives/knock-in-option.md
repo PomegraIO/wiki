@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **knock-in option** is a [barrier option](/barrier-option) that does not exist (has zero value) until the underlying asset's price crosses a predetermined barrier level. Once the barrier is breached, the option is "activated" and behaves like a vanilla [call](/call-option) or [put](/put-option) for the remainder of its life. There are two types: **down-and-in** (activated when price falls below the barrier) and **up-and-in** (activated when price rises above the barrier). Knock-in options are cheaper than vanilla options because activation is uncertain.*
+*A **knock-in option** is a [barrier option](/barrier-option/) that does not exist (has zero value) until the underlying asset's price crosses a predetermined barrier level. Once the barrier is breached, the option is "activated" and behaves like a vanilla [call](/call-option/) or [put](/put-option/) for the remainder of its life. There are two types: **down-and-in** (activated when price falls below the barrier) and **up-and-in** (activated when price rises above the barrier). Knock-in options are cheaper than vanilla options because activation is uncertain.*
 
 <aside class="wiki-infobox">
 
@@ -76,9 +76,9 @@ The probability depends on:
 - Volatility
 - Interest rates
 
-Higher [volatility](/historical-volatility) increases crossing probability, raising knock-in value. Lower [volatility](/historical-volatility) decreases it.
+Higher [volatility](/historical-volatility/) increases crossing probability, raising knock-in value. Lower [volatility](/historical-volatility/) decreases it.
 
-[Monte-carlo-options-pricing](/monte-carlo-options-pricing) or [binomial-option-pricing](/binomial-option-pricing) models handle knock-in valuation by simulating paths and checking if the barrier is touched.
+[Monte-carlo-options-pricing](/monte-carlo-options-pricing/) or [binomial-option-pricing](/binomial-option-pricing/) models handle knock-in valuation by simulating paths and checking if the barrier is touched.
 
 ## Cost reduction use case
 
@@ -113,7 +113,7 @@ Some knock-in contracts include a **rebate**: if the barrier is never touched, t
 
 ### Related concepts
 
-- [Barrier](/barrier-option) — activation level
+- [Barrier](/barrier-option/) — activation level
 - [Path-dependent option](/asian-option/) — full history matters
 - [Option premium](/option-premium/) — lower for knock-ins
 - [Strike price](/strike-price/) — independent of barrier

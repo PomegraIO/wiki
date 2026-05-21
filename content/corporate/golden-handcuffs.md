@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **golden handcuff** is a form of executive compensation, typically equity-based, that is designed to retain executives by tying their financial gain to their continued employment. The most common golden handcuffs are restricted stock awards or stock options that vest over several years, meaning the executive only receives the full value if they remain with the company. Golden handcuffs create a financial incentive to stay and are commonly used alongside [golden parachutes](/golden-parachute) — parachutes protect executives if they leave involuntarily (via change of control); handcuffs reward them for staying voluntarily.*
+*A **golden handcuff** is a form of executive compensation, typically equity-based, that is designed to retain executives by tying their financial gain to their continued employment. The most common golden handcuffs are restricted stock awards or stock options that vest over several years, meaning the executive only receives the full value if they remain with the company. Golden handcuffs create a financial incentive to stay and are commonly used alongside [golden parachutes](/golden-parachute/) — parachutes protect executives if they leave involuntarily (via change of control); handcuffs reward them for staying voluntarily.*
 
 <div class="wiki-hatnote">
 
-This entry covers golden handcuffs as executive retention tools. For the opposite concept, see [golden parachute](/golden-parachute); for broader compensation structures, see executive compensation.
+This entry covers golden handcuffs as executive retention tools. For the opposite concept, see [golden parachute](/golden-parachute/); for broader compensation structures, see executive compensation.
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers golden handcuffs as executive retention tools. For the opposit
 | **Forfeited if** | Executive leaves before full vesting |
 | **Purpose** | Retain executives, align interests with long-term value |
 | **Value** | Can be substantial; often worth more than salary |
-| **Opposite** | [Golden parachute](/golden-parachute) (departure payment) |
+| **Opposite** | [Golden parachute](/golden-parachute/) (departure payment) |
 
 </aside>
 
@@ -84,7 +84,7 @@ Golden handcuffs serve several purposes:
 
 ## Relationship to change of control
 
-In a [change of control](/change-of-control-provision) (such as a [merger](/merger) or [acquisition](/acquisition)), golden handcuffs are typically **accelerated** — all remaining unvested equity vests immediately. This is done to prevent the acquirer from claiming the unvested equity as a bargaining chip.
+In a [change of control](/change-of-control-provision/) (such as a [merger](/merger/) or [acquisition](/acquisition/)), golden handcuffs are typically **accelerated** — all remaining unvested equity vests immediately. This is done to prevent the acquirer from claiming the unvested equity as a bargaining chip.
 
 This acceleration can result in huge payments to executives in a takeover. If a CEO had 500,000 RSUs worth $50 each ($25 million) that were supposed to vest over 2 more years, acceleration means the CEO receives the full $25 million immediately.
 
@@ -116,16 +116,16 @@ This structure incentivizes the executive to stay, perform well, and succeed ove
 
 ### Closely related
 
-- [Golden parachute](/golden-parachute) — severance upon change of control
+- [Golden parachute](/golden-parachute/) — severance upon change of control
 - Executive compensation — broader context
-- [Change of control provision](/change-of-control-provision) — triggers acceleration of handcuffs
+- [Change of control provision](/change-of-control-provision/) — triggers acceleration of handcuffs
 - Stock option — common form of handcuffs
-- [Restricted stock](/restricted-stock) — another common form
+- [Restricted stock](/restricted-stock/) — another common form
 
 ### Wider context
 
 - Say-on-pay — shareholder votes on executive compensation
-- [Merger](/merger) — triggers acceleration of handcuffs
+- [Merger](/merger/) — triggers acceleration of handcuffs
 - Shareholder activism — pressure on executive pay
 - Board of directors — approves executive compensation
 - Equity dilution — consequence of large equity grants

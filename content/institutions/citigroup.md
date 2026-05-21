@@ -61,7 +61,7 @@ Citigroup operates significant investment banking and capital markets divisions 
 
 ## Wealth management
 
-Citi serves ultra-high-net-worth individuals and institutions through its private bank and wealth management divisions. However, Citi has been less dominant in wealth management compared to competitors like [JPMorgan Chase](/jpmorgan-chase) and [Morgan Stanley](/morgan-stanley).
+Citi serves ultra-high-net-worth individuals and institutions through its private bank and wealth management divisions. However, Citi has been less dominant in wealth management compared to competitors like [JPMorgan Chase](/jpmorgan-chase/) and [Morgan Stanley](/morgan-stanley/).
 
 ## Post-crisis restructuring and challenges
 
@@ -79,20 +79,20 @@ Jane Fraser, who became CEO in 2021, is the first female CEO of a major American
 
 ### Closely related
 
-- [Bank](/broker) — the category
-- [JPMorgan Chase](/jpmorgan-chase) — larger competitor
-- [Bank of America](/bank-of-america) — competitor
-- [Goldman Sachs](/goldman-sachs) — investment banking competitor
-- [Morgan Stanley](/morgan-stanley) — competitor
+- [Bank](/broker/) — the category
+- [JPMorgan Chase](/jpmorgan-chase/) — larger competitor
+- [Bank of America](/bank-of-america/) — competitor
+- [Goldman Sachs](/goldman-sachs/) — investment banking competitor
+- [Morgan Stanley](/morgan-stanley/) — competitor
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — clients
 - Trading — profit source
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Central bank](/central-bank/) — Federal Reserve oversight
 - Financial crisis — 2008 experience
 
 </div>

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **Dow Jones Industrial Average (DJIA)**, often called "the Dow," is a price-weighted index of 30 blue-chip US companies. Founded in 1896 by Charles Dow and Edward Jones, it is the oldest and one of the most famous stock market indices. Despite representing only 30 stocks compared to the [S&P 500](/sp-500-index)'s 500, the Dow receives enormous media attention and is often used as the benchmark for the overall health of the US [stock market](/stock-market).*
+*The **Dow Jones Industrial Average (DJIA)**, often called "the Dow," is a price-weighted index of 30 blue-chip US companies. Founded in 1896 by Charles Dow and Edward Jones, it is the oldest and one of the most famous stock market indices. Despite representing only 30 stocks compared to the [S&P 500](/sp-500-index/)'s 500, the Dow receives enormous media attention and is often used as the benchmark for the overall health of the US [stock market](/stock-market/).*
 
 <div class="wiki-hatnote">
 
-This entry is about the Dow Jones Industrial Average. For broader market indices, see [S&P 500](/sp-500-index), [NASDAQ Composite](/nasdaq-composite), and [Russell 2000](/russell-2000).
+This entry is about the Dow Jones Industrial Average. For broader market indices, see [S&P 500](/sp-500-index/), [NASDAQ Composite](/nasdaq-composite/), and [Russell 2000](/russell-2000/).
 
 </div>
 
@@ -50,11 +50,11 @@ The Dow is historically significant because:
 - It has tracked the US economy through every major event of the past 130+ years.
 - It is the most widely recognized stock index globally.
 
-Despite its age and fame, the Dow is not the best statistical representation of the overall market; the [S&P 500](/sp-500-index) is more comprehensive, but the Dow's historical prestige keeps it prominent.
+Despite its age and fame, the Dow is not the best statistical representation of the overall market; the [S&P 500](/sp-500-index/) is more comprehensive, but the Dow's historical prestige keeps it prominent.
 
 ## Price-weighted methodology
 
-Unlike the [S&P 500](/sp-500-index), which is market-cap-weighted, the Dow is **price-weighted**:
+Unlike the [S&P 500](/sp-500-index/), which is market-cap-weighted, the Dow is **price-weighted**:
 
 - Each company's weight is proportional to its stock price.
 - A $150 stock has 5x the weight of a $30 stock, regardless of market capitalization.
@@ -128,9 +128,9 @@ Dow Jones & Company, now part of S&P Dow Jones Indices (owned by S&P Global), ma
 
 ## Use in practice
 
-**Institutions:** Most professionals use [S&P 500](/sp-500-index) or broader indices, not the Dow.
+**Institutions:** Most professionals use [S&P 500](/sp-500-index/) or broader indices, not the Dow.
 
-**Media and public:** The Dow is the public face of the US [stock market](/stock-market). Most retail investors and general public know "the Dow" but not the [S&P 500](/sp-500-index).
+**Media and public:** The Dow is the public face of the US [stock market](/stock-market/). Most retail investors and general public know "the Dow" but not the [S&P 500](/sp-500-index/).
 
 **Psychological:**The Dow has significant psychological importance. A 1,000-point move makes headlines; it is a number that resonates with the public.
 
@@ -140,18 +140,18 @@ Dow Jones & Company, now part of S&P Dow Jones Indices (owned by S&P Global), ma
 
 ### Closely related
 
-- [S&P 500](/sp-500-index) — the more comprehensive large-cap index
-- [NASDAQ Composite](/nasdaq-composite) — tech-heavy index
-- [Russell 2000](/russell-2000) — small-cap alternative
-- [Market capitalization](/market-capitalization) — S&P 500 weighting basis
-- [Stock market](/stock-market) — what the Dow represents
+- [S&P 500](/sp-500-index/) — the more comprehensive large-cap index
+- [NASDAQ Composite](/nasdaq-composite/) — tech-heavy index
+- [Russell 2000](/russell-2000/) — small-cap alternative
+- [Market capitalization](/market-capitalization/) — S&P 500 weighting basis
+- [Stock market](/stock-market/) — what the Dow represents
 
 ### Wider context
 
-- [Index](/sp-500-index) — Dow is one type
-- [Passive investing](/index-fund) — Dow is rarely used for this
-- [Blue-chip stock](/stock) — Dow companies are these
-- [Economic indicator](/stock-market) — Dow is viewed as one
-- [Bull market](/bull-market) — period of Dow gains
+- [Index](/sp-500-index/) — Dow is one type
+- [Passive investing](/index-fund/) — Dow is rarely used for this
+- [Blue-chip stock](/stock/) — Dow companies are these
+- [Economic indicator](/stock-market/) — Dow is viewed as one
+- [Bull market](/bull-market/) — period of Dow gains
 
 </div>

@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For hidden trading venues, see [dark pool](/dark-pool). For orders hidden on a lit venue, see [hidden order](/hidden-order) and [iceberg order](/iceberg-order).
+For hidden trading venues, see [dark pool](/dark-pool/). For orders hidden on a lit venue, see [hidden order](/hidden-order/) and [iceberg order](/iceberg-order/).
 
 </div>
 
@@ -39,7 +39,7 @@ For hidden trading venues, see [dark pool](/dark-pool). For orders hidden on a l
 ## What makes a venue "lit"?
 
 A lit venue displays:
-- **The order book:** All pending [limit orders](/limit-order), their sizes, and prices.
+- **The order book:** All pending [limit orders](/limit-order/), their sizes, and prices.
 - **Quotes in real time:** Best bid and best ask updated continuously.
 - **Trade reports:** Every completed trade reported immediately (within seconds).
 - **Price history:** Full intraday trading data available to all participants.
@@ -73,7 +73,7 @@ You immediately understand where supply and demand are. If there are 10 million 
 
 ## Lit venues and best execution
 
-U.S. regulations (Reg NMS, [best execution](/best-execution) rules) require that:
+U.S. regulations (Reg NMS, [best execution](/best-execution/) rules) require that:
 - Your broker route your order to achieve the best available prices across all lit venues.
 - If the best price to buy is on NASDAQ, your broker must route there (even if you are a customer of a NYSE broker).
 - Trade-through rule: Orders cannot be executed at worse prices than the best visible price on any lit venue.
@@ -87,7 +87,7 @@ The transparency of lit venues has a downside: **information leakage.** When you
 - **Avoid** you: pull their orders and wait for you to move on.
 - **Trade against** you: buy from you at worse prices, knowing you are a large buyer.
 
-This is why institutions use [dark pools](/dark-pool), [hidden orders](/hidden-order), and [algorithmic execution](/algorithmic-trading) — to trade large sizes with less visibility.
+This is why institutions use [dark pools](/dark-pool/), [hidden orders](/hidden-order/), and [algorithmic execution](/algorithmic-trading/) — to trade large sizes with less visibility.
 
 ## Lit venues vs. dark pools
 
@@ -105,20 +105,20 @@ This is why institutions use [dark pools](/dark-pool), [hidden orders](/hidden-o
 Trading on a lit venue typically involves:
 
 - **Exchange fees:** $0.0001–$0.0005 per share (varies by exchange and order type).
-- **Liquidity rebates:** If you provide liquidity (place a [limit order](/limit-order)) that sits and gets filled, you might receive a rebate of $0.0001–$0.0003 per share.
-- **Taker fees:** If you remove liquidity (place a [market order](/market-order) or hit an existing limit order), you pay $0.0001–$0.0005 per share.
+- **Liquidity rebates:** If you provide liquidity (place a [limit order](/limit-order/)) that sits and gets filled, you might receive a rebate of $0.0001–$0.0003 per share.
+- **Taker fees:** If you remove liquidity (place a [market order](/market-order/) or hit an existing limit order), you pay $0.0001–$0.0005 per share.
 
 For a retail investor, these costs are often absorbed by the broker and not separately visible.
 
 ## Order types and lit venues
 
 Lit venues support a wide range of order types:
-- [Market orders](/market-order)
-- [Limit orders](/limit-order)
-- [Stop orders](/stop-order)
-- [Iceberg orders](/iceberg-order)
-- [Pegged orders](/peg-order)
-- [All-or-none orders](/all-or-none)
+- [Market orders](/market-order/)
+- [Limit orders](/limit-order/)
+- [Stop orders](/stop-order/)
+- [Iceberg orders](/iceberg-order/)
+- [Pegged orders](/peg-order/)
+- [All-or-none orders](/all-or-none/)
 
 The specific support varies by exchange. Check your exchange's documentation.
 
@@ -156,23 +156,23 @@ Despite this, lit venues are unlikely to disappear; they are too important for p
 
 ### Closely related
 
-- [Dark pool](/dark-pool) — private venue alternative
-- [Hidden order](/hidden-order) — orders hidden on lit venues
-- [Iceberg order](/iceberg-order) — visible tip on lit venues
+- [Dark pool](/dark-pool/) — private venue alternative
+- [Hidden order](/hidden-order/) — orders hidden on lit venues
+- [Iceberg order](/iceberg-order/) — visible tip on lit venues
 - Order book — the public display on lit venues
 
 ### Trading and execution
 
-- [Market order](/market-order) — executes on lit venues
-- [Limit order](/limit-order) — sits on lit-venue order book
-- [Best execution](/best-execution) — achieved via lit venues
+- [Market order](/market-order/) — executes on lit venues
+- [Limit order](/limit-order/) — sits on lit-venue order book
+- [Best execution](/best-execution/) — achieved via lit venues
 - Liquidity — abundant on lit venues
 
 ### Regulation and market structure
 
 - Reg NMS — regulates lit and dark venues
 - Trade-through rule — requires trading at best prices on lit venues
-- [NBBO](/nbbo) — national best bid-offer across all lit venues
+- [NBBO](/nbbo/) — national best bid-offer across all lit venues
 - SEC — regulates exchanges
 
 ### Market information

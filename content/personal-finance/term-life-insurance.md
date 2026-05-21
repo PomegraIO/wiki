@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For permanent insurance alternatives, see [whole-life insurance](/whole-life-insurance), [universal-life insurance](/universal-life-insurance), and [variable-life insurance](/variable-life-insurance); for disability coverage, see [disability insurance](/disability-insurance-personal).
+For permanent insurance alternatives, see [whole-life insurance](/whole-life-insurance/), [universal-life insurance](/universal-life-insurance/), and [variable-life insurance](/variable-life-insurance/); for disability coverage, see [disability insurance](/disability-insurance-personal/).
 
 </div>
 
@@ -97,15 +97,15 @@ For small amounts ($50,000 or less), some insurers offer "simplified" or "guaran
 
 ### Closely related
 
-- [Whole-life insurance](/whole-life-insurance) — permanent, more expensive alternative
-- [Universal-life insurance](/universal-life-insurance) — flexible permanent insurance
-- [Variable-life insurance](/variable-life-insurance) — permanent with investment component
-- [Disability insurance](/disability-insurance-personal) — income protection if unable to work
+- [Whole-life insurance](/whole-life-insurance/) — permanent, more expensive alternative
+- [Universal-life insurance](/universal-life-insurance/) — flexible permanent insurance
+- [Variable-life insurance](/variable-life-insurance/) — permanent with investment component
+- [Disability insurance](/disability-insurance-personal/) — income protection if unable to work
 
 ### Wider context
 
-- [Emergency fund](/emergency-fund) — income protection alongside insurance
-- [Budgeting methods](/budgeting-methods) — insurance as budget category
-- [Umbrella insurance](/umbrella-insurance) — liability protection beyond basic insurance
+- [Emergency fund](/emergency-fund/) — income protection alongside insurance
+- [Budgeting methods](/budgeting-methods/) — insurance as budget category
+- [Umbrella insurance](/umbrella-insurance/) — liability protection beyond basic insurance
 
 </div>

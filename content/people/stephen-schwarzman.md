@@ -79,14 +79,14 @@ His influence on the private equity industry and on corporate America more broad
 
 ### Closely related
 
-- [Henry Kravis](/henry-kravis) — KKR co-founder and PE pioneer
-- [Leon Black](/leon-black) — Apollo co-founder
-- [David Swensen](/david-swensen) — Who allocated to private equity
+- [Henry Kravis](/henry-kravis/) — KKR co-founder and PE pioneer
+- [Leon Black](/leon-black/) — Apollo co-founder
+- [David Swensen](/david-swensen/) — Who allocated to private equity
 
 ### Wider context
 
 - Private equity — Which he scaled
-- [Leveraged buyout](/leveraged-buyout) — His core strategy
+- [Leveraged buyout](/leveraged-buyout/) — His core strategy
 - Alternative asset management — His evolution
 - Asset management — His scale
 

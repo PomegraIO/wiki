@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Rule 10b-5](/rule-10b-5) is the [SEC](/securities-and-exchange-commission)'s foundational anti-fraud rule, implementing Section 10(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934). It prohibits any deceptive device or scheme, any untrue statement of material fact or omission of a material fact necessary to make a statement not misleading, in connection with the purchase or sale of any security. Rule 10b-5 is the broadest and most-used fraud provision in securities law, enforced by the SEC and by private plaintiffs.*
+*[Rule 10b-5](/rule-10b-5/) is the [SEC](/securities-and-exchange-commission/)'s foundational anti-fraud rule, implementing Section 10(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/). It prohibits any deceptive device or scheme, any untrue statement of material fact or omission of a material fact necessary to make a statement not misleading, in connection with the purchase or sale of any security. Rule 10b-5 is the broadest and most-used fraud provision in securities law, enforced by the SEC and by private plaintiffs.*
 
 <div class="wiki-hatnote">
 
-Rule 10b-5 is the general anti-fraud rule. [Section 16(b) of the Securities Exchange Act](/short-swing-profit-rule) addresses insider trading more specifically.
+Rule 10b-5 is the general anti-fraud rule. [Section 16(b) of the Securities Exchange Act](/short-swing-profit-rule/) addresses insider trading more specifically.
 
 </div>
 
@@ -95,9 +95,9 @@ The DOJ brings criminal enforcement, pursuing prison sentences. Criminal 10b-5 c
 
 ### Closely related
 
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — Section 10(b) underlying Rule 10b-5
-- [Insider trading law](/insider-trading-law) — prosecuted under Rule 10b-5
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers Rule 10b-5
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — Section 10(b) underlying Rule 10b-5
+- [Insider trading law](/insider-trading-law/) — prosecuted under Rule 10b-5
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers Rule 10b-5
 - Scienter — the intent requirement
 - Materiality — key element of fraud
 

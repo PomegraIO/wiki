@@ -32,7 +32,7 @@ The opposite of gamblers fallacy. Related to momentum effect and representativen
 | **Also called** | Momentum illusion, streak confidence |
 | **Operates on** | Fund selection, stock momentum, trend following |
 | **Investor impact** | Buying recent winners; chasing performance; buying at peaks |
-| **Related phenomenon** | [Gamblers fallacy](/gamblers-fallacy) (opposite error), [recency bias](/recency-bias) |
+| **Related phenomenon** | [Gamblers fallacy](/gamblers-fallacy/) (opposite error), [recency bias](/recency-bias/) |
 | **Evidence** | Past performance does not predict future performance |
 
 </aside>
@@ -63,18 +63,18 @@ But momentum is typically weak and often disappears after trading costs. More im
 
 ## Hot-hand fallacy and overconfidence
 
-Hot-hand fallacy pairs with [overconfidence bias](/overconfidence-bias) to create dangerous decisions. An investor sees a successful fund and, suffering from hot-hand fallacy, believes future success is likely. Suffering from overconfidence, she believes she can identify which successful funds will continue to succeed. Together, these biases drive her to overweight recent winners, just as they peak.
+Hot-hand fallacy pairs with [overconfidence bias](/overconfidence-bias/) to create dangerous decisions. An investor sees a successful fund and, suffering from hot-hand fallacy, believes future success is likely. Suffering from overconfidence, she believes she can identify which successful funds will continue to succeed. Together, these biases drive her to overweight recent winners, just as they peak.
 
-## Hot-hand fallacy and [confirmation bias](/confirmation-bias)
+## Hot-hand fallacy and [confirmation bias](/confirmation-bias/)
 
-An investor buys a hot stock and then suffers from [confirmation bias](/confirmation-bias), seeking confirming evidence that it will continue to rise. Each day of continued outperformance reinforces the hot-hand belief, locking her in until the reversal is severe.
+An investor buys a hot stock and then suffers from [confirmation bias](/confirmation-bias/), seeking confirming evidence that it will continue to rise. Each day of continued outperformance reinforces the hot-hand belief, locking her in until the reversal is severe.
 
 ## Defenses against hot-hand fallacy
 
 - **Do not chase recent performance.** A fund or stock that has recently outperformed is likely near a peak. Resist the urge to buy it.
-- **Use a decision framework independent of past performance.** Choose funds based on [diversification](/diversification), fees, and fundamentals. Do not choose based on recent returns.
+- **Use a decision framework independent of past performance.** Choose funds based on [diversification](/diversification/), fees, and fundamentals. Do not choose based on recent returns.
 - **Track past performance predictions.** Which funds did you think were "hot" and likely to continue outperforming? Track their subsequent performance. You will find they underperformed.
-- **Use [index funds](/index-fund).** An index fund eliminates the need to pick managers or chase performance. It guarantees market returns (minus a small fee).
+- **Use [index funds](/index-fund/).** An index fund eliminates the need to pick managers or chase performance. It guarantees market returns (minus a small fee).
 - **Remember: past performance is not predictive.** This is true. Do not let recent hot hands trick you.
 
 ## See also
@@ -83,18 +83,18 @@ An investor buys a hot stock and then suffers from [confirmation bias](/confirma
 
 ### Closely related
 
-- [Gamblers fallacy](/gamblers-fallacy) — the opposite error (past failure predicts future success)
-- [Recency bias](/recency-bias) — overweighting recent performance
-- [Momentum effect](/stock) — a weak tendency for past outperformance to continue
-- [Representativeness heuristic](/representativeness-heuristic) — judging by similarity to stereotype
-- [Illusion of skill](/illusion-of-skill) — attributing luck to skill
+- [Gamblers fallacy](/gamblers-fallacy/) — the opposite error (past failure predicts future success)
+- [Recency bias](/recency-bias/) — overweighting recent performance
+- [Momentum effect](/stock/) — a weak tendency for past outperformance to continue
+- [Representativeness heuristic](/representativeness-heuristic/) — judging by similarity to stereotype
+- [Illusion of skill](/illusion-of-skill/) — attributing luck to skill
 
 ### Wider context
 
-- [Market timing](/bull-market) — driven partly by hot-hand fallacy
-- [Fund selection](/mutual-fund) — chasing performance is hot-hand fallacy
-- [Index fund](/index-fund) — the antidote
+- [Market timing](/bull-market/) — driven partly by hot-hand fallacy
+- [Fund selection](/mutual-fund/) — chasing performance is hot-hand fallacy
+- [Index fund](/index-fund/) — the antidote
 - Behavioral asset pricing — how hot-hand affects prices
-- [Base rate neglect](/base-rate-neglect) — ignoring that most funds underperform
+- [Base rate neglect](/base-rate-neglect/) — ignoring that most funds underperform
 
 </div>

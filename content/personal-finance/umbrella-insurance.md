@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For home and auto liability, see [homeowners insurance](/homeowners-insurance) and [auto insurance](/auto-insurance); for other liability, see umbrella as a complement to other policies.
+For home and auto liability, see [homeowners insurance](/homeowners-insurance/) and [auto insurance](/auto-insurance/); for other liability, see umbrella as a complement to other policies.
 
 </div>
 
@@ -111,16 +111,16 @@ Even in these cases, umbrella is so cheap that it is usually worth buying for pe
 
 ### Closely related
 
-- [Homeowners insurance](/homeowners-insurance) — primary coverage for home liability
-- [Auto insurance](/auto-insurance) — primary coverage for auto liability
-- [Renters insurance](/renters-insurance) — personal liability for renters
-- [Disability insurance](/disability-insurance-personal) — income protection
+- [Homeowners insurance](/homeowners-insurance/) — primary coverage for home liability
+- [Auto insurance](/auto-insurance/) — primary coverage for auto liability
+- [Renters insurance](/renters-insurance/) — personal liability for renters
+- [Disability insurance](/disability-insurance-personal/) — income protection
 
 ### Wider context
 
-- [Emergency fund](/emergency-fund) — manages financial shocks
-- [Budgeting methods](/budgeting-methods) — insurance as budget item
-- [Asset protection](/budgeting-methods) — umbrella as protection strategy
-- [Risk management](/emergency-fund) — holistic view of financial risk
+- [Emergency fund](/emergency-fund/) — manages financial shocks
+- [Budgeting methods](/budgeting-methods/) — insurance as budget item
+- [Asset protection](/budgeting-methods/) — umbrella as protection strategy
+- [Risk management](/emergency-fund/) — holistic view of financial risk
 
 </div>

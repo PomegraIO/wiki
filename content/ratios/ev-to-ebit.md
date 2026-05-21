@@ -9,7 +9,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **EV/EBIT ratio** divides enterprise value by operating income (EBIT). It is a stricter alternative to [EV/EBITDA](/ev-to-ebitda), including the cost of depreciation and amortization. A lower EV/EBIT can signal either cheaper valuation or a company with newer, more rapidly depreciating assets.*
+*The **EV/EBIT ratio** divides enterprise value by operating income (EBIT). It is a stricter alternative to [EV/EBITDA](/ev-to-ebitda/), including the cost of depreciation and amortization. A lower EV/EBIT can signal either cheaper valuation or a company with newer, more rapidly depreciating assets.*
 
 <aside class="wiki-infobox">
 
@@ -68,9 +68,9 @@ Most investors use EV/EBIT alongside EV/EBITDA to understand asset composition:
 
 ### Closely related
 
-- [EV/EBITDA](/ev-to-ebitda) — broader multiple with D&A added back
-- [EV/FCF](/ev-to-fcf) · [EV/Sales](/ev-to-sales)
-- [Enterprise value](/enterprise-value)
-- EBIT · [Depreciation](/depreciation)
+- [EV/EBITDA](/ev-to-ebitda/) — broader multiple with D&A added back
+- [EV/FCF](/ev-to-fcf/) · [EV/Sales](/ev-to-sales/)
+- [Enterprise value](/enterprise-value/)
+- EBIT · [Depreciation](/depreciation/)
 
 </div>

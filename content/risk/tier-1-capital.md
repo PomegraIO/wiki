@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Tier 1 capital is the primary, highest-quality capital held by a bank, composed mainly of common stock (equity) and retained earnings. Under [Basel capital](/basel-capital) standards, it is further divided into Common Equity Tier 1 (CET1) — the most loss-absorbing — and Additional Tier 1 (AT1) — like contingent convertible bonds that convert to equity in a crisis.*
+*Tier 1 capital is the primary, highest-quality capital held by a bank, composed mainly of common stock (equity) and retained earnings. Under [Basel capital](/basel-capital/) standards, it is further divided into Common Equity Tier 1 (CET1) — the most loss-absorbing — and Additional Tier 1 (AT1) — like contingent convertible bonds that convert to equity in a crisis.*
 
 <div class="wiki-hatnote">
 
-This entry covers Tier 1 capital specifically. For [Tier 2 capital](/tier-2-capital), see that entry; for the overall capital adequacy framework, see [capital-adequacy](/capital-adequacy).
+This entry covers Tier 1 capital specifically. For [Tier 2 capital](/tier-2-capital/), see that entry; for the overall capital adequacy framework, see [capital-adequacy](/capital-adequacy/).
 
 </div>
 
@@ -74,7 +74,7 @@ The larger the Tier 1 capital, the more loss the bank can absorb before insolven
 
 ## Basel III capital hierarchy
 
-Under [Basel III](/basel-capital), capital is tiered by quality:
+Under [Basel III](/basel-capital/), capital is tiered by quality:
 
 1. **Common Equity Tier 1 (CET1):** Most loss-absorbing. 4.5% minimum.
 2. **Additional Tier 1 (AT1):** Hybrid; converts to equity in crisis. Combined with CET1, totals 6% minimum.
@@ -119,26 +119,26 @@ Regulators accept this trade-off. Safety (higher capital) is more important than
 
 ### Closely related
 
-- [Tier-2-capital](/tier-2-capital) — supplementary capital below Tier 1
-- [Capital-adequacy](/capital-adequacy) — why Tier 1 capital is required
-- [Basel-capital](/basel-capital) — sets Tier 1 minimum standards
+- [Tier-2-capital](/tier-2-capital/) — supplementary capital below Tier 1
+- [Capital-adequacy](/capital-adequacy/) — why Tier 1 capital is required
+- [Basel-capital](/basel-capital/) — sets Tier 1 minimum standards
 - Risk-weighted-assets — Tier 1 is calculated as % of RWA
 - Contingent convertible bonds — AT1 component of Tier 1
 
 ### Regulatory context
 
-- [Federal Reserve](/federal-reserve) — enforces Tier 1 minimums in the US
-- [Central bank](/central-bank) — enforces in each country
-- [Stress-testing](/stress-testing) — ensures Tier 1 survives stress
-- [Capital conservation buffer](/capital-adequacy) — above minimum Tier 1
-- [G-SIB surcharge](/capital-adequacy) — additional Tier 1 for large banks
+- [Federal Reserve](/federal-reserve/) — enforces Tier 1 minimums in the US
+- [Central bank](/central-bank/) — enforces in each country
+- [Stress-testing](/stress-testing/) — ensures Tier 1 survives stress
+- [Capital conservation buffer](/capital-adequacy/) — above minimum Tier 1
+- [G-SIB surcharge](/capital-adequacy/) — additional Tier 1 for large banks
 
 ### Strategic considerations
 
-- [Dividend policy](/stock) — Tier 1 capital affects dividends
-- [Share buybacks](/stock) — restricted if Tier 1 is low
-- [Leverage](/capital-adequacy) — higher Tier 1 means lower leverage
-- [Return on equity](/stock) — higher Tier 1 capital reduces ROE
-- [2008 financial crisis](/credit-risk) — exposed insufficient Tier 1
+- [Dividend policy](/stock/) — Tier 1 capital affects dividends
+- [Share buybacks](/stock/) — restricted if Tier 1 is low
+- [Leverage](/capital-adequacy/) — higher Tier 1 means lower leverage
+- [Return on equity](/stock/) — higher Tier 1 capital reduces ROE
+- [2008 financial crisis](/credit-risk/) — exposed insufficient Tier 1
 
 </div>

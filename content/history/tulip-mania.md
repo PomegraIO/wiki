@@ -72,12 +72,12 @@ Nevertheless, tulip mania remains a founding myth of financial excess. Its endur
 ### Closely related
 
 - Speculative bubble — the general phenomenon of which tulip mania was one historical instance
-- [South Sea Bubble](/south-sea-bubble) — another 18th-century mania with similar characteristics
-- [Dot-com bubble](/dot-com-bubble) — a modern-era parallel of speculative excess
+- [South Sea Bubble](/south-sea-bubble/) — another 18th-century mania with similar characteristics
+- [Dot-com bubble](/dot-com-bubble/) — a modern-era parallel of speculative excess
 
 ### Wider context
 
-- [Market capitalization](/market-capitalization) — how we value assets in modern markets
+- [Market capitalization](/market-capitalization/) — how we value assets in modern markets
 - Bubble — when asset prices decoupled from fundamental value
 - Commodity markets — markets for physical goods like bulbs
 

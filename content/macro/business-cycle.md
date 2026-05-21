@@ -10,7 +10,7 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*The business cycle is the recurring pattern of expansion and contraction in overall economic activity — output, employment, [inflation](/inflation), and [interest rates](/interest-rate). It is fundamental to macroeconomics and determines whether the economy is growing robustly or weakening. The cycle has four phases: expansion (recovery), peak, contraction ([recession](/recession)), and trough.*
+*The business cycle is the recurring pattern of expansion and contraction in overall economic activity — output, employment, [inflation](/inflation/), and [interest rates](/interest-rate/). It is fundamental to macroeconomics and determines whether the economy is growing robustly or weakening. The cycle has four phases: expansion (recovery), peak, contraction ([recession](/recession/)), and trough.*
 
 <div class="wiki-hatnote">
 
@@ -34,7 +34,7 @@ Business cycles are not predictable in timing but are inevitable. Expansions do 
 | **Cause** | Imbalances: over-investment, over-consumption, excessive debt |
 | **Damper mechanisms** | Central bank tightening, fiscal consolidation |
 | **Last full cycle (US)** | 2001 trough → 2007 peak → 2009 trough |
-| **Key indicator** | [Output gap](/output-gap) (actual vs. potential GDP) |
+| **Key indicator** | [Output gap](/output-gap/) (actual vs. potential GDP) |
 
 </aside>
 
@@ -42,28 +42,28 @@ Business cycles are not predictable in timing but are inevitable. Expansions do 
 
 **Expansion (or recovery):**
 - Economy is growing above trend.
-- [Unemployment](/unemployment-rate) falling.
-- [Inflation](/inflation) still stable or rising slowly.
-- [Output gap](/output-gap) negative (actual < potential).
+- [Unemployment](/unemployment-rate/) falling.
+- [Inflation](/inflation/) still stable or rising slowly.
+- [Output gap](/output-gap/) negative (actual < potential).
 - Consumer and business confidence high.
 - Lasts years, often 5–10.
 
 **Peak:**
-- Growth reaches maximum; [output gap](/output-gap) turns zero.
-- [Unemployment](/unemployment-rate) hits cycle low.
-- [Inflation](/inflation) begins accelerating.
+- Growth reaches maximum; [output gap](/output-gap/) turns zero.
+- [Unemployment](/unemployment-rate/) hits cycle low.
+- [Inflation](/inflation/) begins accelerating.
 - The turning point; not recognized in real-time, identified retrospectively.
 
 **Contraction (recession):**
-- [Real GDP](/real-gdp) declines quarter-over-quarter (technical definition).
-- [Unemployment](/unemployment-rate) rises.
-- [Inflation](/inflation) decelerates.
-- [Stock market](/stock-market) often declines.
+- [Real GDP](/real-gdp/) declines quarter-over-quarter (technical definition).
+- [Unemployment](/unemployment-rate/) rises.
+- [Inflation](/inflation/) decelerates.
+- [Stock market](/stock-market/) often declines.
 - Lasts 6 months to 2 years; average ~1 year.
 
 **Trough:**
-- [Unemployment](/unemployment-rate) and [output gap](/output-gap) at cycle worst.
-- [Inflation](/inflation) often near zero or falling.
+- [Unemployment](/unemployment-rate/) and [output gap](/output-gap/) at cycle worst.
+- [Inflation](/inflation/) often near zero or falling.
 - Conditions so bad that recovery begins.
 - The turning point; usually identified only after recovery is well underway.
 
@@ -80,15 +80,15 @@ These imbalances eventually crack. Over-invested firms cut back. Over-extended h
 
 ## The role of monetary policy
 
-The [Federal Reserve](/federal-reserve) influences the cycle but cannot eliminate it:
+The [Federal Reserve](/federal-reserve/) influences the cycle but cannot eliminate it:
 
 **Fighting expansion (tightening):**
-- Raise [interest rates](/interest-rate) to slow growth.
+- Raise [interest rates](/interest-rate/) to slow growth.
 - If timed right, reduces likelihood of subsequent contraction.
-- If timed wrong, can prematurely end expansion (unnecessary [recession](/recession)).
+- If timed wrong, can prematurely end expansion (unnecessary [recession](/recession/)).
 
 **Fighting contraction (easing):**
-- Cut [interest rates](/interest-rate) to stimulate demand.
+- Cut [interest rates](/interest-rate/) to stimulate demand.
 - Shortens recession, speeds recovery.
 - If overdone, can re-inflate imbalances (setting up next cycle).
 
@@ -97,30 +97,30 @@ The challenge: knowing where in the cycle you are. Policymakers often tighten to
 ## Recent cycles (US)
 
 **2001 recession → 2007 peak:**
-- 2001: Brief [recession](/recession) from tech bubble burst.
-- 2001-2006: Long expansion, low [interest rates](/interest-rate), credit boom.
+- 2001: Brief [recession](/recession/) from tech bubble burst.
+- 2001-2006: Long expansion, low [interest rates](/interest-rate/), credit boom.
 - 2006-07: Housing boom; imbalances build.
 
 **2007-09 Great Recession → 2019 peak:**
 - 2008-09: Severe contraction; financial crisis.
-- 2009-2019: Long recovery; [unemployment](/unemployment-rate) falls from 10% to 3.5%.
+- 2009-2019: Long recovery; [unemployment](/unemployment-rate/) falls from 10% to 3.5%.
 - 2019: Peak expansion; economy appears at full capacity.
 
 **2020 pandemic recession → 2023+:**
 - 2020 Q2: Sharp contraction from COVID shutdowns.
-- 2020-2021: Rapid recovery; [unemployment](/unemployment-rate) falls, growth strong.
-- 2021-22: [Inflation](/inflation) spikes; Fed tightens aggressively.
+- 2020-2021: Rapid recovery; [unemployment](/unemployment-rate/) falls, growth strong.
+- 2021-22: [Inflation](/inflation/) spikes; Fed tightens aggressively.
 - 2023+: Soft landing scenario (growth slows but avoids recession).
 
 ## Cycle indicators
 
 Economists watch indicators to assess where in the cycle:
 
-- **[Unemployment rate](/unemployment-rate):** Rising → trough or contraction imminent. Falling → expansion in progress.
-- **[Output gap](/output-gap):** Negative → expansion in progress; room for more growth. Positive → overheating; contraction risk.
-- **[Yield curve](/yield-curve):** Inversion often precedes recessions.
-- **[Jobless claims](/initial-jobless-claims):** Rising sharply → contraction likely.
-- **[Inflation](/inflation):** Rising sharply + low [unemployment](/unemployment-rate) → late expansion; peak/contraction risk.
+- **[Unemployment rate](/unemployment-rate/):** Rising → trough or contraction imminent. Falling → expansion in progress.
+- **[Output gap](/output-gap/):** Negative → expansion in progress; room for more growth. Positive → overheating; contraction risk.
+- **[Yield curve](/yield-curve/):** Inversion often precedes recessions.
+- **[Jobless claims](/initial-jobless-claims/):** Rising sharply → contraction likely.
+- **[Inflation](/inflation/):** Rising sharply + low [unemployment](/unemployment-rate/) → late expansion; peak/contraction risk.
 
 ## Cycle length and severity
 
@@ -131,7 +131,7 @@ Cycle length is unpredictable:
 
 Severity depends on:
 
-- **The shock.** Oil embargo → severe [stagflation](/stagflation). Inventory correction → mild recession.
+- **The shock.** Oil embargo → severe [stagflation](/stagflation/). Inventory correction → mild recession.
 - **Policy response.** Aggressive stimulus → milder cycle. Procyclical tightening → worse cycle.
 - **Debt levels.** High debt makes cycles worse (leverage amplifies shocks).
 
@@ -167,17 +167,17 @@ But the fundamental pattern persists: growth → overheating → contraction →
 ### Closely related
 
 - Expansion — one phase of the cycle
-- [Recession](/recession) — contraction phase
-- [Output gap](/output-gap) — measure of cycle position
-- [Unemployment rate](/unemployment-rate) — cyclical indicator
-- [Inflation](/inflation) — varies across cycle
+- [Recession](/recession/) — contraction phase
+- [Output gap](/output-gap/) — measure of cycle position
+- [Unemployment rate](/unemployment-rate/) — cyclical indicator
+- [Inflation](/inflation/) — varies across cycle
 
 ### Broader context
 
 - Monetary policy — shapes cycle severity
 - Fiscal policy — can smooth or amplify cycles
-- [Central bank](/central-bank) — primary cycle manager
-- [Stock market](/stock-market) — often leads business cycle
+- [Central bank](/central-bank/) — primary cycle manager
+- [Stock market](/stock-market/) — often leads business cycle
 - Leading economic indicator — predicts cycle turns
 
 </div>

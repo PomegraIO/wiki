@@ -54,7 +54,7 @@ Has CCC = 60 + 45 − 20 = 85 days. It must finance 85 days of operations intern
 
 ## How to calculate it
 
-CCC = [Days inventory outstanding](/days-inventory-outstanding) + [Days sales outstanding](/days-sales-outstanding) − [Days payable outstanding](/days-payable-outstanding)
+CCC = [Days inventory outstanding](/days-inventory-outstanding/) + [Days sales outstanding](/days-sales-outstanding/) − [Days payable outstanding](/days-payable-outstanding/)
 
 ## When it works well
 
@@ -104,16 +104,16 @@ CCC = [Days inventory outstanding](/days-inventory-outstanding) + [Days sales ou
 
 ### Closely related
 
-- [Days-inventory-outstanding](/days-inventory-outstanding)
-- [Days-sales-outstanding](/days-sales-outstanding)
-- [Days-payable-outstanding](/days-payable-outstanding)
+- [Days-inventory-outstanding](/days-inventory-outstanding/)
+- [Days-sales-outstanding](/days-sales-outstanding/)
+- [Days-payable-outstanding](/days-payable-outstanding/)
 - Working capital — the absolute dollars needed
-- [Inventory-turnover](/inventory-turnover) · [Accounts-receivable-turnover](/accounts-receivable-turnover) · [Accounts-payable-turnover](/accounts-payable-turnover)
+- [Inventory-turnover](/inventory-turnover/) · [Accounts-receivable-turnover](/accounts-receivable-turnover/) · [Accounts-payable-turnover](/accounts-payable-turnover/)
 
 ### Wider context
 
 - Working capital management — optimizing all three
 - Operating cycle — related concept
-- [Free cash flow](/free-cash-flow) — affected by CCC
+- [Free cash flow](/free-cash-flow/) — affected by CCC
 
 </div>

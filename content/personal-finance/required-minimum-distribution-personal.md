@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For accounts that do not have RMDs, see [Roth IRA](/roth-ira); for planning to minimize RMDs, see [Roth conversion](/roth-conversion-personal); for early-retirement withdrawal strategies, see [FIRE movement](/fire-movement).
+For accounts that do not have RMDs, see [Roth IRA](/roth-ira/); for planning to minimize RMDs, see [Roth conversion](/roth-conversion-personal/); for early-retirement withdrawal strategies, see [FIRE movement](/fire-movement/).
 
 </div>
 
@@ -52,17 +52,17 @@ You must withdraw at least $18,868 by December 31, 2024. If you withdraw $18,000
 ## Accounts subject to RMD
 
 - **Traditional IRAs** — yes
-- **[401(k) plans](/401k-plan)** — yes
-- **[403(b) plans](/403b-plan)** — yes
-- **[457 plans](/457-plan)** — yes
+- **[401(k) plans](/401k-plan/)** — yes
+- **[403(b) plans](/403b-plan/)** — yes
+- **[457 plans](/457-plan/)** — yes
 - **SEP IRA** — yes
 - **SIMPLE IRA** — yes
-- **[Roth IRA](/roth-ira)** — no (not during account owner's lifetime; beneficiaries have RMDs)
+- **[Roth IRA](/roth-ira/)** — no (not during account owner's lifetime; beneficiaries have RMDs)
 - **Roth 401(k)** — yes (subject to RMD while account owner is alive)
 
 ## Special rules
 
-**Still working exception.** If you are still employed and have a [401(k)](/401k-plan) with your current employer (and do not own 5% or more of the company), you may be able to defer RMDs until you actually retire. This does not apply to IRAs.
+**Still working exception.** If you are still employed and have a [401(k)](/401k-plan/) with your current employer (and do not own 5% or more of the company), you may be able to defer RMDs until you actually retire. This does not apply to IRAs.
 
 **Spouse as beneficiary.** If your spouse is the beneficiary of your IRA, they can treat it as their own and delay RMDs.
 
@@ -78,11 +78,11 @@ This deadline is called the "required beginning date" (RBD). However, many peopl
 
 RMDs are taxed as ordinary income. If you withdraw $20,000, it is added to your income for the year at your marginal tax rate.
 
-For [Roth IRAs](/roth-ira), there is no RMD for the account owner (though conversions earlier in life, which are taxable, have already been taxed).
+For [Roth IRAs](/roth-ira/), there is no RMD for the account owner (though conversions earlier in life, which are taxable, have already been taxed).
 
 ## Strategies to minimize RMDs
 
-**Convert to Roth.** [Roth conversions](/roth-conversion-personal) in your 60s reduce your traditional IRA balance before RMDs begin, lowering future RMDs.
+**Convert to Roth.** [Roth conversions](/roth-conversion-personal/) in your 60s reduce your traditional IRA balance before RMDs begin, lowering future RMDs.
 
 **Donate to charity (QCDs).** If you are charitably inclined, a Qualified Charitable Distribution (QCD) lets you donate your RMD directly to charity, satisfying the RMD requirement without adding to taxable income.
 
@@ -94,11 +94,11 @@ For [Roth IRAs](/roth-ira), there is no RMD for the account owner (though conver
 
 In 2024, the IRS reduced the RMD penalty from 50% to 25% for non-compliance, making it less punitive. However, 25% is still substantial, and the IRS takes RMD compliance seriously.
 
-## Impact on [Medicare](/medicare-personal) and taxes
+## Impact on [Medicare](/medicare-personal/) and taxes
 
 High RMDs can affect:
 - **Medicare premiums (IRMAA).** RMDs increase your Modified Adjusted Gross Income (MAGI), which can increase Medicare Part B and D premiums if you exceed certain thresholds.
-- **[Social Security](/social-security-personal) taxation.** Higher income from RMDs can trigger taxation of your Social Security benefits.
+- **[Social Security](/social-security-personal/) taxation.** Higher income from RMDs can trigger taxation of your Social Security benefits.
 
 Tax planning around RMDs is important for retirees.
 
@@ -108,16 +108,16 @@ Tax planning around RMDs is important for retirees.
 
 ### Closely related
 
-- [Traditional IRA](/traditional-ira) — subject to RMD
-- [401(k) plan](/401k-plan) — subject to RMD
-- [Roth IRA](/roth-ira) — no RMD for account owner
-- [Roth conversion](/roth-conversion-personal) — strategy to reduce RMD
+- [Traditional IRA](/traditional-ira/) — subject to RMD
+- [401(k) plan](/401k-plan/) — subject to RMD
+- [Roth IRA](/roth-ira/) — no RMD for account owner
+- [Roth conversion](/roth-conversion-personal/) — strategy to reduce RMD
 
 ### Wider context
 
-- [The four-percent rule](/the-four-percent-rule) — retirement spending based on portfolios with RMDs
-- [FIRE movement](/fire-movement) — early retirees use Roth to avoid RMDs
-- [Medicare](/medicare-personal) — RMDs affect premiums
-- [Social Security](/social-security-personal) — RMDs affect taxation of benefits
+- [The four-percent rule](/the-four-percent-rule/) — retirement spending based on portfolios with RMDs
+- [FIRE movement](/fire-movement/) — early retirees use Roth to avoid RMDs
+- [Medicare](/medicare-personal/) — RMDs affect premiums
+- [Social Security](/social-security-personal/) — RMDs affect taxation of benefits
 
 </div>

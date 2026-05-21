@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*The **US dollar** is the currency of the United States and, by a wide margin, the world's most important currency. The dollar dominates international trade (most commodities are priced in dollars), serves as the reserve currency held by [central banks](/central-bank), and is pegged or referenced by many other currencies. The dollar's strength makes it both a financial asset and a geopolitical tool.*
+*The **US dollar** is the currency of the United States and, by a wide margin, the world's most important currency. The dollar dominates international trade (most commodities are priced in dollars), serves as the reserve currency held by [central banks](/central-bank/), and is pegged or referenced by many other currencies. The dollar's strength makes it both a financial asset and a geopolitical tool.*
 
 <div class="wiki-hatnote">
 
-For other major currencies, see [euro](/euro), [Japanese yen](/japanese-yen), [British pound](/british-pound); for the dollar's role in historical systems, see [Bretton Woods](/bretton-woods) and [gold standard](/gold-standard).
+For other major currencies, see [euro](/euro/), [Japanese yen](/japanese-yen/), [British pound](/british-pound/); for the dollar's role in historical systems, see [Bretton Woods](/bretton-woods/) and [gold standard](/gold-standard/).
 
 </div>
 
@@ -40,13 +40,13 @@ For other major currencies, see [euro](/euro), [Japanese yen](/japanese-yen), [B
 
 ## Historical role
 
-After WWII, the [US dollar](/us-dollar) became the international medium of exchange, displacing the British pound. Under [Bretton Woods](/bretton-woods), the dollar was pegged to gold and other currencies pegged to the dollar. When [Bretton Woods](/bretton-woods) collapsed in 1971, the dollar began to [float](/floating-exchange-rate), but it remained dominant.
+After WWII, the [US dollar](/us-dollar/) became the international medium of exchange, displacing the British pound. Under [Bretton Woods](/bretton-woods/), the dollar was pegged to gold and other currencies pegged to the dollar. When [Bretton Woods](/bretton-woods/) collapsed in 1971, the dollar began to [float](/floating-exchange-rate/), but it remained dominant.
 
-The dollar's dominance reflects the size of the US economy (roughly 25% of world GDP), the depth and rule-of-law credibility of US financial markets, and the absence of an alternative. The [euro](/euro) is large but less established globally; the [Japanese yen](/japanese-yen) is limited by Japan's size; the Chinese renminbi is heavily controlled and not freely convertible.
+The dollar's dominance reflects the size of the US economy (roughly 25% of world GDP), the depth and rule-of-law credibility of US financial markets, and the absence of an alternative. The [euro](/euro/) is large but less established globally; the [Japanese yen](/japanese-yen/) is limited by Japan's size; the Chinese renminbi is heavily controlled and not freely convertible.
 
 ## Reserve currency status
 
-[Central banks](/central-bank) around the world hold foreign reserves: dollars, euros, gold, and other assets. The dollar is by far the largest component — typically 55–65% of identified reserves. This gives the US unique advantage: foreign demand for dollars keeps the dollar strong, allows the US to borrow in its own currency (no currency risk), and provides seigniorage (profit from printing dollars).
+[Central banks](/central-bank/) around the world hold foreign reserves: dollars, euros, gold, and other assets. The dollar is by far the largest component — typically 55–65% of identified reserves. This gives the US unique advantage: foreign demand for dollars keeps the dollar strong, allows the US to borrow in its own currency (no currency risk), and provides seigniorage (profit from printing dollars).
 
 This reserve status is self-reinforcing: because the dollar is a reserve currency, it is liquid and trusted, which makes it more desirable as a reserve. Competing currencies must overcome this network effect.
 
@@ -66,13 +66,13 @@ However, for the foreseeable future, no currency is close to replacing the dolla
 
 ## The dollar and the Federal Reserve
 
-The [US dollar](/us-dollar) is controlled and issued by the [Federal Reserve](/federal-reserve), the US central bank. Fed policy (interest-rate changes, money-supply management) directly affects the dollar's global value. When the Fed tightens, dollar demand rises (higher US interest rates attract capital). When the Fed eases, dollar demand falls.
+The [US dollar](/us-dollar/) is controlled and issued by the [Federal Reserve](/federal-reserve/), the US central bank. Fed policy (interest-rate changes, money-supply management) directly affects the dollar's global value. When the Fed tightens, dollar demand rises (higher US interest rates attract capital). When the Fed eases, dollar demand falls.
 
 For this reason, Fed policy has global spillovers. A Fed rate hike can trigger capital outflows from emerging markets, causing emerging-market currencies to weaken and local interest rates to spike.
 
 ## Major pairs involving the dollar
 
-The most heavily traded [currency pairs](/currency-pair) all involve the [US dollar](/us-dollar):
+The most heavily traded [currency pairs](/currency-pair/) all involve the [US dollar](/us-dollar/):
 
 - **EUR/USD** — most traded pair; reflects euro-dollar relative strength
 - **USD/JPY** — dollar-yen; heavily traded; used as carry-trade funding
@@ -81,7 +81,7 @@ The most heavily traded [currency pairs](/currency-pair) all involve the [US dol
 - **AUD/USD** — dollar-Australian dollar
 - **USD/CAD** — dollar-Canadian dollar
 
-These are the [major pairs](/major-currency-pair); all others are far less liquid.
+These are the [major pairs](/major-currency-pair/); all others are far less liquid.
 
 ## See also
 
@@ -89,17 +89,17 @@ These are the [major pairs](/major-currency-pair); all others are far less liqui
 
 ### Closely related
 
-- [Major currency pair](/major-currency-pair) — all involve the dollar
-- [Spot exchange rate](/spot-exchange-rate) — dollar is reference in many pairs
-- [Federal Reserve](/federal-reserve) — issues the dollar
-- [Euro](/euro) — second-most important currency
-- [Bretton Woods](/bretton-woods) — dollar as anchor
+- [Major currency pair](/major-currency-pair/) — all involve the dollar
+- [Spot exchange rate](/spot-exchange-rate/) — dollar is reference in many pairs
+- [Federal Reserve](/federal-reserve/) — issues the dollar
+- [Euro](/euro/) — second-most important currency
+- [Bretton Woods](/bretton-woods/) — dollar as anchor
 
 ### Wider context
 
-- [Reserve currency](/floating-exchange-rate) — dollar's role
-- [Floating exchange rate](/floating-exchange-rate) — dollar floats freely
-- [Petrodollar](/inflation) — oil priced in dollars
-- [Currency peg](/currency-peg) — many pegged to dollar
+- [Reserve currency](/floating-exchange-rate/) — dollar's role
+- [Floating exchange rate](/floating-exchange-rate/) — dollar floats freely
+- [Petrodollar](/inflation/) — oil priced in dollars
+- [Currency peg](/currency-peg/) — many pegged to dollar
 
 </div>

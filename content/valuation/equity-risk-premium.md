@@ -36,7 +36,7 @@ This forward-looking estimate is often lower than historical, especially in peri
 
 ## The premium in CAPM
 
-In the [capital asset pricing model](/capital-asset-pricing-model), the equity risk premium is the extra return demanded for the overall market. Cost of equity = Risk-free rate + Beta × Equity Risk Premium.
+In the [capital asset pricing model](/capital-asset-pricing-model/), the equity risk premium is the extra return demanded for the overall market. Cost of equity = Risk-free rate + Beta × Equity Risk Premium.
 
 If the equity risk premium is 5% and a company has beta of 1.2, it demands an extra 6% return (1.2×5%) above the risk-free rate.
 
@@ -62,7 +62,7 @@ This time-varying premium is a problem for anyone trying to estimate a stable co
 
 ## The size and value premiums
 
-Beyond the market-wide equity risk premium, there are additional premiums for holding small stocks (size premium) or cheap stocks (value premium). These are often 2–5% annually. This is why the [Fama-French three-factor model](/fama-french-three-factor-model) is popular: it captures these additional premiums.
+Beyond the market-wide equity risk premium, there are additional premiums for holding small stocks (size premium) or cheap stocks (value premium). These are often 2–5% annually. This is why the [Fama-French three-factor model](/fama-french-three-factor-model/) is popular: it captures these additional premiums.
 
 ## Practical implications for valuation
 
@@ -80,24 +80,24 @@ Beyond the market-wide equity risk premium, there are additional premiums for ho
 
 ### Closely related
 
-- [Market risk premium](/market-risk-premium) — same concept, market-wide
-- [Cost of equity](/cost-of-equity) — uses the equity risk premium
-- [Capital asset pricing model](/capital-asset-pricing-model) — where it appears
-- [Beta](/beta) — how company-specific risk amplifies the premium
-- [Equity risk premium](/equity-risk-premium) — what this is
+- [Market risk premium](/market-risk-premium/) — same concept, market-wide
+- [Cost of equity](/cost-of-equity/) — uses the equity risk premium
+- [Capital asset pricing model](/capital-asset-pricing-model/) — where it appears
+- [Beta](/beta/) — how company-specific risk amplifies the premium
+- [Equity risk premium](/equity-risk-premium/) — what this is
 
 ### Variants and extensions
 
-- [Fama-French three-factor model](/fama-french-three-factor-model) — adds size and value premiums
-- [Carhart four-factor model](/carhart-four-factor-model) — adds momentum premium
-- [Fama-French five-factor model](/fama-french-five-factor-model) — adds profitability and investment premiums
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive approach to premiums
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — adds size and value premiums
+- [Carhart four-factor model](/carhart-four-factor-model/) — adds momentum premium
+- [Fama-French five-factor model](/fama-french-five-factor-model/) — adds profitability and investment premiums
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive approach to premiums
 
 ### Valuation application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity derived from premium
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates equity risk premium
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing premium sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across premium assumptions
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity derived from premium
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates equity risk premium
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing premium sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across premium assumptions
 
 </div>

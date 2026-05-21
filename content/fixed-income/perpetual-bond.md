@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **perpetual bond** — also called a **consol** or **perpetuity** — is a debt security with no maturity date. The issuer pays a fixed coupon forever but never redeems the principal. Perpetual bonds are rare in modern debt markets (except among financial institutions and governments) but represent an extreme case of long [duration](/duration) and interest-rate sensitivity.*
+*A **perpetual bond** — also called a **consol** or **perpetuity** — is a debt security with no maturity date. The issuer pays a fixed coupon forever but never redeems the principal. Perpetual bonds are rare in modern debt markets (except among financial institutions and governments) but represent an extreme case of long [duration](/duration/) and interest-rate sensitivity.*
 
 <div class="wiki-hatnote">
 
-For bonds with long but finite maturities, see [Treasury bond](/treasury-bond). For bonds that behave like perpetuals, see [preferred stock](/stock). For duration concepts, see [duration](/duration).
+For bonds with long but finite maturities, see [Treasury bond](/treasury-bond/). For bonds that behave like perpetuals, see [preferred stock](/stock/). For duration concepts, see [duration](/duration/).
 
 </div>
 
@@ -46,7 +46,7 @@ A perpetual bond's value is its annual coupon divided by the current market yiel
 
 A perpetual bond with a 5% coupon is worth $1,000 in a 5% yield environment ($50 ÷ 0.05 = $1,000). If yields rise to 6%, the bond falls to $833 ($50 ÷ 0.06). If yields fall to 4%, the bond rises to $1,250 ($50 ÷ 0.04).
 
-This simple formula reveals the extreme interest-rate sensitivity of perpetuals. A 1% rise in yields causes a $200 decline in value (from $1,000 to $833). For comparison, a traditional 30-year bond's price moves much less with the same rate change. The perpetual's extreme [duration](/duration) (mathematically infinite) creates outsized price volatility.
+This simple formula reveals the extreme interest-rate sensitivity of perpetuals. A 1% rise in yields causes a $200 decline in value (from $1,000 to $833). For comparison, a traditional 30-year bond's price moves much less with the same rate change. The perpetual's extreme [duration](/duration/) (mathematically infinite) creates outsized price volatility.
 
 ## Why they exist: capital for financial institutions
 
@@ -86,7 +86,7 @@ Perpetual bonds are thus more attractive to issuers (they are higher in the capi
 
 Perpetuals offer the highest coupon available for fixed-income securities because of their extreme interest-rate sensitivity and perpetual nature. An investor seeking income and able to tolerate price volatility might find perpetuals attractive.
 
-But the extreme [duration](/duration) risk is significant. In a rising-rate environment, perpetuals can experience devastating price declines. An investor buying a perpetual at a 5% yield could see the price fall 40% if yields rise to 7%. The bond continues to pay 5%, but the capital loss is real.
+But the extreme [duration](/duration/) risk is significant. In a rising-rate environment, perpetuals can experience devastating price declines. An investor buying a perpetual at a 5% yield could see the price fall 40% if yields rise to 7%. The bond continues to pay 5%, but the capital loss is real.
 
 ## See also
 
@@ -94,18 +94,18 @@ But the extreme [duration](/duration) risk is significant. In a rising-rate envi
 
 ### Closely related
 
-- [Treasury bond](/treasury-bond) — long-dated finite-maturity bonds
-- [Callable bond](/callable-bond) — most perpetuals are callable
-- [Corporate bond](/corporate-bond) — the straight alternative
-- [Duration](/duration) — extreme for perpetuals
-- [Yield to maturity](/yield-to-maturity) — perpetual yield is coupon/price
+- [Treasury bond](/treasury-bond/) — long-dated finite-maturity bonds
+- [Callable bond](/callable-bond/) — most perpetuals are callable
+- [Corporate bond](/corporate-bond/) — the straight alternative
+- [Duration](/duration/) — extreme for perpetuals
+- [Yield to maturity](/yield-to-maturity/) — perpetual yield is coupon/price
 
 ### Wider context
 
-- [Bond](/bond) — debt securities generally
-- [Interest rate](/interest-rate) — affects perpetual prices dramatically
-- [Central bank](/central-bank) — monetary policy affects perpetual yields
-- [Financial institution](/stock-market) — major perpetual issuers
-- [Capital ratio](/investment-grade-bond) — regulatory motivation for perpetuals
+- [Bond](/bond/) — debt securities generally
+- [Interest rate](/interest-rate/) — affects perpetual prices dramatically
+- [Central bank](/central-bank/) — monetary policy affects perpetual yields
+- [Financial institution](/stock-market/) — major perpetual issuers
+- [Capital ratio](/investment-grade-bond/) — regulatory motivation for perpetuals
 
 </div>

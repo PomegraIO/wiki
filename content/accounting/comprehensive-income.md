@@ -10,7 +10,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*[Comprehensive income](/comprehensive-income) is the total economic change in shareholders' equity during a period from all sources. It includes net income (from the [income statement](/income-statement)) plus **other comprehensive income** — items that bypass the [income statement](/income-statement) and flow directly to equity. Common examples are unrealized gains and losses on certain investments, foreign currency translation adjustments, and certain hedging gains and losses. [Comprehensive income](/comprehensive-income) is broader than net income and is the true measure of economic change in equity during a period. It is disclosed in a separate statement, often called the **Statement of Comprehensive Income**.*
+*[Comprehensive income](/comprehensive-income/) is the total economic change in shareholders' equity during a period from all sources. It includes net income (from the [income statement](/income-statement/)) plus **other comprehensive income** — items that bypass the [income statement](/income-statement/) and flow directly to equity. Common examples are unrealized gains and losses on certain investments, foreign currency translation adjustments, and certain hedging gains and losses. [Comprehensive income](/comprehensive-income/) is broader than net income and is the true measure of economic change in equity during a period. It is disclosed in a separate statement, often called the **Statement of Comprehensive Income**.*
 
 <div class="wiki-hatnote">
 
@@ -39,11 +39,11 @@ This entry covers comprehensive income as a concept. For the specific items, see
 
 ## Net income vs. comprehensive income
 
-Net income reflects profit from operations, financing, and taxes. It is the "bottom line" of the [income statement](/income-statement).
+Net income reflects profit from operations, financing, and taxes. It is the "bottom line" of the [income statement](/income-statement/).
 
 But net income does not capture all changes to equity. Some gains and losses are excluded from net income and instead flow directly to **accumulated other comprehensive income** (AOCI), a separate equity account.
 
-The sum of net income and other comprehensive income (OCI) is [comprehensive income](/comprehensive-income) — the total change in equity.
+The sum of net income and other comprehensive income (OCI) is [comprehensive income](/comprehensive-income/) — the total change in equity.
 
 ## Other comprehensive income items
 
@@ -53,23 +53,23 @@ Common OCI items include:
 
 **Foreign currency translation**: A company has a foreign subsidiary. As the local currency moves relative to the US dollar, the subsidiary's balance sheet changes. The translation adjustment is OCI.
 
-**Hedging gains and losses**: A company uses derivatives to hedge interest rate or commodity price risk. Certain hedging derivatives have gains/losses in OCI rather than the [income statement](/income-statement).
+**Hedging gains and losses**: A company uses derivatives to hedge interest rate or commodity price risk. Certain hedging derivatives have gains/losses in OCI rather than the [income statement](/income-statement/).
 
 **Pension adjustments**: Changes in pension plan valuations (actuarial gains/losses) are sometimes in OCI rather than net income.
 
 ## Why OCI exists
 
-The concept of [comprehensive income](/comprehensive-income) stems from a principle: shareholders' equity changes due to (1) operations and (2) market movements on long-term holdings. Operations should flow through net income. Long-term holdings' unrealized movements are volatile and might distort reported earnings, so they are separated into OCI.
+The concept of [comprehensive income](/comprehensive-income/) stems from a principle: shareholders' equity changes due to (1) operations and (2) market movements on long-term holdings. Operations should flow through net income. Long-term holdings' unrealized movements are volatile and might distort reported earnings, so they are separated into OCI.
 
 This gives investors two views:
 - Net income: what the company earned from operations.
-- [Comprehensive income](/comprehensive-income): the true economic change in equity including market movements.
+- [Comprehensive income](/comprehensive-income/): the true economic change in equity including market movements.
 
 ## Examples of comprehensive income
 
-Example 1: A company earns $100 million in net income. A bond portfolio it holds for long-term purposes rises in value by $20 million (unrealized gain). Its [comprehensive income](/comprehensive-income) is $120 million.
+Example 1: A company earns $100 million in net income. A bond portfolio it holds for long-term purposes rises in value by $20 million (unrealized gain). Its [comprehensive income](/comprehensive-income/) is $120 million.
 
-Example 2: A company has a German subsidiary. The euro falls relative to the dollar, causing the subsidiary's balance sheet, when translated to dollars, to fall by $10 million. The net income is unchanged, but [comprehensive income](/comprehensive-income) is reduced by the $10 million translation loss.
+Example 2: A company has a German subsidiary. The euro falls relative to the dollar, causing the subsidiary's balance sheet, when translated to dollars, to fall by $10 million. The net income is unchanged, but [comprehensive income](/comprehensive-income/) is reduced by the $10 million translation loss.
 
 ## Accumulated other comprehensive income (AOCI)
 
@@ -79,23 +79,23 @@ OCI items accumulate over time in **accumulated other comprehensive income** (AO
 - Year 2: OCI loss of $3 million → AOCI = $7 million
 - Year 3: OCI gain of $5 million → AOCI = $12 million
 
-AOCI is disclosed on the [balance sheet](/balance-sheet) as part of shareholders' equity. It can be positive or negative.
+AOCI is disclosed on the [balance sheet](/balance-sheet/) as part of shareholders' equity. It can be positive or negative.
 
 ## Two-statement vs. one-statement format
 
-Some companies present [comprehensive income](/comprehensive-income) in two statements:
-1. [Income statement](/income-statement) showing net income
+Some companies present [comprehensive income](/comprehensive-income/) in two statements:
+1. [Income statement](/income-statement/) showing net income
 2. Statement of Comprehensive Income showing net income + OCI
 
-Others combine them into one statement: the [income statement](/income-statement) ends with OCI and [comprehensive income](/comprehensive-income).
+Others combine them into one statement: the [income statement](/income-statement/) ends with OCI and [comprehensive income](/comprehensive-income/).
 
 Both formats present the same information; the two-statement format is clearer for investors who want to see net income and OCI separately.
 
 ## Impact on earnings quality
 
-[Comprehensive income](/comprehensive-income) can differ substantially from net income. A company with volatile investment or currency exposure can have stable net income but volatile [comprehensive income](/comprehensive-income).
+[Comprehensive income](/comprehensive-income/) can differ substantially from net income. A company with volatile investment or currency exposure can have stable net income but volatile [comprehensive income](/comprehensive-income/).
 
-Investors looking at [comprehensive income](/comprehensive-income) get a broader view of economic performance, but net income remains the focus for most analysis.
+Investors looking at [comprehensive income](/comprehensive-income/) get a broader view of economic performance, but net income remains the focus for most analysis.
 
 ## See also
 
@@ -106,9 +106,9 @@ Investors looking at [comprehensive income](/comprehensive-income) get a broader
 - Net-income — the core profit
 - Other-comprehensive-income — items bypassing income statement
 - Accumulated-other-comprehensive-income — cumulative OCI on balance sheet
-- [Income-statement](/income-statement) — contains net income
-- [Statement-of-changes-in-equity](/statement-of-changes-in-equity) — shows comprehensive income effect on equity
-- [Balance-sheet](/balance-sheet) — shows AOCI
+- [Income-statement](/income-statement/) — contains net income
+- [Statement-of-changes-in-equity](/statement-of-changes-in-equity/) — shows comprehensive income effect on equity
+- [Balance-sheet](/balance-sheet/) — shows AOCI
 
 ### Context
 

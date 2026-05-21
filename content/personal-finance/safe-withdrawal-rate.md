@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **safe withdrawal rate (SWR)** is the percentage of your investment portfolio you can withdraw annually without running out of money over your expected retirement. While the [four-percent rule](/the-four-percent-rule) is a one-size-fits-all guideline, your personal safe withdrawal rate depends on your specific situation: retirement length, market expectations, portfolio composition, and risk tolerance.*
+*A **safe withdrawal rate (SWR)** is the percentage of your investment portfolio you can withdraw annually without running out of money over your expected retirement. While the [four-percent rule](/the-four-percent-rule/) is a one-size-fits-all guideline, your personal safe withdrawal rate depends on your specific situation: retirement length, market expectations, portfolio composition, and risk tolerance.*
 
 <div class="wiki-hatnote">
 
-For the standard guideline, see [the four-percent rule](/the-four-percent-rule); for early retirement strategies, see [FIRE movement](/fire-movement); for risk management, see sequence of returns risk.
+For the standard guideline, see [the four-percent rule](/the-four-percent-rule/); for early retirement strategies, see [FIRE movement](/fire-movement/); for risk management, see sequence of returns risk.
 
 </div>
 
@@ -40,7 +40,7 @@ For the standard guideline, see [the four-percent rule](/the-four-percent-rule);
 
 ## Why safe withdrawal rates vary
 
-The [four-percent rule](/the-four-percent-rule) is based on a 30-year retirement (age 65–95) with a 60/40 stock-bond portfolio. But everyone's situation is different:
+The [four-percent rule](/the-four-percent-rule/) is based on a 30-year retirement (age 65–95) with a 60/40 stock-bond portfolio. But everyone's situation is different:
 
 **Retirement length:** If you retire at 55 and plan to live to 95 (40 years), you need a lower rate (3–3.5%) to cover the longer time. If you retire at 70 and plan to live to 90 (20 years), you can sustain a higher rate (4.5–5%).
 
@@ -95,16 +95,16 @@ This requires spending flexibility but significantly improves sustainability.
 
 ### Closely related
 
-- [The four-percent rule](/the-four-percent-rule) — standard guideline
+- [The four-percent rule](/the-four-percent-rule/) — standard guideline
 - Sequence of returns risk — primary threat to SWR
 - Bond tent — strategy to manage sequence risk
-- [Asset allocation](/asset-allocation) — portfolio composition affects SWR
+- [Asset allocation](/asset-allocation/) — portfolio composition affects SWR
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — uses SWR to determine when to retire
-- [Compound interest](/compound-interest) — growth during withdrawal phase
-- [Inflation](/inflation) — erodes purchasing power of withdrawals
-- [Social Security](/social-security-personal) — supplement to portfolio withdrawals
+- [FIRE movement](/fire-movement/) — uses SWR to determine when to retire
+- [Compound interest](/compound-interest/) — growth during withdrawal phase
+- [Inflation](/inflation/) — erodes purchasing power of withdrawals
+- [Social Security](/social-security-personal/) — supplement to portfolio withdrawals
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the percentage of income to allocate, see [savings rate](/savings-rate); for budgeting frameworks that embody this principle, see [budgeting methods](/budgeting-methods).
+For the percentage of income to allocate, see [savings rate](/savings-rate/); for budgeting frameworks that embody this principle, see [budgeting methods](/budgeting-methods/).
 
 </div>
 
@@ -63,17 +63,17 @@ This works because:
 
 ## Vehicles for paying yourself first
 
-**Retirement accounts** ([401(k)](/401k-plan), [IRA](/traditional-ira)): The most common form. Payroll deduction or periodic contributions move money directly to these accounts.
+**Retirement accounts** ([401(k)](/401k-plan/), [IRA](/traditional-ira/)): The most common form. Payroll deduction or periodic contributions move money directly to these accounts.
 
-**Emergency fund:** Automatic monthly transfers to a dedicated savings account for [emergency fund](/emergency-fund) building and maintenance.
+**Emergency fund:** Automatic monthly transfers to a dedicated savings account for [emergency fund](/emergency-fund/) building and maintenance.
 
-**Sinking funds:** Automatic transfers to separate accounts for known irregular expenses ([sinking fund](/sinking-fund)).
+**Sinking funds:** Automatic transfers to separate accounts for known irregular expenses ([sinking fund](/sinking-fund/)).
 
 **General investment account:** Automatic transfers to a taxable brokerage account for long-term wealth building.
 
 **Savings account:** Manual or automatic transfers to a high-yield savings account for short-term goals or additional liquid savings.
 
-**HSA** ([Health Savings Account](/hsa)): If eligible, contributing to an HSA is a tax-advantaged form of paying yourself first.
+**HSA** ([Health Savings Account](/hsa/)): If eligible, contributing to an HSA is a tax-advantaged form of paying yourself first.
 
 ## Real-world examples
 
@@ -105,16 +105,16 @@ For many people, the discipline of paying yourself first is easier than the disc
 
 ### Closely related
 
-- [Savings rate](/savings-rate) — the percentage of income saved
-- [Budgeting methods](/budgeting-methods) — ways to allocate income
-- [Emergency fund](/emergency-fund) — a common destination for paying yourself first
-- [Lifestyle creep](/lifestyle-creep) — what prevents savings when income increases
+- [Savings rate](/savings-rate/) — the percentage of income saved
+- [Budgeting methods](/budgeting-methods/) — ways to allocate income
+- [Emergency fund](/emergency-fund/) — a common destination for paying yourself first
+- [Lifestyle creep](/lifestyle-creep/) — what prevents savings when income increases
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — how early savings grow
-- [FIRE movement](/fire-movement) — achieved through sustained "pay yourself first"
-- [The four-percent rule](/the-four-percent-rule) — how savings sustain retirement
-- [401(k) plan](/401k-plan) — the most common vehicle for paying yourself first
+- [Compound interest](/compound-interest/) — how early savings grow
+- [FIRE movement](/fire-movement/) — achieved through sustained "pay yourself first"
+- [The four-percent rule](/the-four-percent-rule/) — how savings sustain retirement
+- [401(k) plan](/401k-plan/) — the most common vehicle for paying yourself first
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*A **value-add** real estate strategy involves purchasing underperforming or undermanaged properties, implementing operational improvements and/or capital upgrades, and then exiting at a higher valuation. Value-add is the middle ground between [core](/core-real-estate) (buy and hold stable assets) and [opportunistic](/opportunistic-real-estate) (speculative, high-risk bets).*
+*A **value-add** real estate strategy involves purchasing underperforming or undermanaged properties, implementing operational improvements and/or capital upgrades, and then exiting at a higher valuation. Value-add is the middle ground between [core](/core-real-estate/) (buy and hold stable assets) and [opportunistic](/opportunistic-real-estate/) (speculative, high-risk bets).*
 
 <div class="wiki-hatnote">
 
-For comparison, see [core-real-estate](/core-real-estate) (stable hold) and [opportunistic-real-estate](/opportunistic-real-estate) (speculative). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust).
+For comparison, see [core-real-estate](/core-real-estate/) (stable hold) and [opportunistic-real-estate](/opportunistic-real-estate/) (speculative). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust/).
 
 </div>
 
@@ -147,26 +147,26 @@ Different investors choose different strategies based on risk tolerance, capital
 
 ### Investment strategies
 
-- [Core real estate](/core-real-estate) — stable, buy-and-hold properties
-- [Opportunistic real estate](/opportunistic-real-estate) — speculative, high-risk plays
+- [Core real estate](/core-real-estate/) — stable, buy-and-hold properties
+- [Opportunistic real estate](/opportunistic-real-estate/) — speculative, high-risk plays
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — entry and exit valuation metric
-- [Net operating income](/net-operating-income) — improved NOI drives value creation
+- [Cap rate](/cap-rate/) — entry and exit valuation metric
+- [Net operating income](/net-operating-income/) — improved NOI drives value creation
 - Internal rate of return (IRR) — total return metric
 
 ### Property types
 
-- [Multifamily property](/multifamily-property) — the most common value-add target
-- [Office REIT](/office-reit) — office repositioning opportunities
-- [Commercial-real-estate](/commercial-real-estate) — commercial property improvement
+- [Multifamily property](/multifamily-property/) — the most common value-add target
+- [Office REIT](/office-reit/) — office repositioning opportunities
+- [Commercial-real-estate](/commercial-real-estate/) — commercial property improvement
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects exit cap rates and financing
-- [Recession](/recession) — timing risk for value-add exits
-- [Asset allocation](/asset-allocation) — value-add in a portfolio
+- [Interest rate](/interest-rate/) — affects exit cap rates and financing
+- [Recession](/recession/) — timing risk for value-add exits
+- [Asset allocation](/asset-allocation/) — value-add in a portfolio
 
 </div>

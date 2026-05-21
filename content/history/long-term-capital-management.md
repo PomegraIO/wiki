@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers LTCM's collapse. For the Russian crisis that triggered it, see [Russian Financial Crisis of 1998](/russian-financial-crisis-1998); for the broader topic of systemic risk, see [systemic risk](/systemic-risk).
+This entry covers LTCM's collapse. For the Russian crisis that triggered it, see [Russian Financial Crisis of 1998](/russian-financial-crisis-1998/); for the broader topic of systemic risk, see [systemic risk](/systemic-risk/).
 
 </div>
 
@@ -87,15 +87,15 @@ The LTCM rescue set a precedent: the Fed would intervene to prevent systemic fin
 
 ### Closely related
 
-- [Russian Financial Crisis 1998](/russian-financial-crisis-1998) — the trigger
-- [Hedge fund](/hedge-fund) — the institution type
-- [Systemic risk](/systemic-risk) — the problem LTCM posed
+- [Russian Financial Crisis 1998](/russian-financial-crisis-1998/) — the trigger
+- [Hedge fund](/hedge-fund/) — the institution type
+- [Systemic risk](/systemic-risk/) — the problem LTCM posed
 
 ### Wider context
 
 - Leverage — the mechanism of the blow-up
 - Convergence arbitrage — the strategy
-- [Federal Reserve](/federal-reserve) — the rescuer
+- [Federal Reserve](/federal-reserve/) — the rescuer
 - Risk management — the failure
 - Moral hazard — the criticism of the rescue
 

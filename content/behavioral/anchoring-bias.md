@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-For the related phenomenon in negotiation tactics, see [framing effect](/framing-effect). For the failure to adjust estimates properly, see anchoring-and-adjustment.
+For the related phenomenon in negotiation tactics, see [framing effect](/framing-effect/). For the failure to adjust estimates properly, see anchoring-and-adjustment.
 
 </div>
 
@@ -70,9 +70,9 @@ Anchoring drives some of the most consequential mistakes in investing.
 
 ## Distinguishing anchoring from related phenomena
 
-Anchoring is not the same as [status-quo bias](/status-quo-bias), though they can compound each other. Status quo bias is the preference for things to stay as they are; anchoring is the distortion of estimates caused by an initial value. An investor can exhibit both: they like their current holdings (status quo bias) *and* they overestimate how much those holdings are worth because they paid a certain price for them (anchoring).
+Anchoring is not the same as [status-quo bias](/status-quo-bias/), though they can compound each other. Status quo bias is the preference for things to stay as they are; anchoring is the distortion of estimates caused by an initial value. An investor can exhibit both: they like their current holdings (status quo bias) *and* they overestimate how much those holdings are worth because they paid a certain price for them (anchoring).
 
-Anchoring also differs from [availability heuristic](/availability-heuristic). Availability bias relies on how easily examples come to mind; anchoring relies on a specific numerical starting point.
+Anchoring also differs from [availability heuristic](/availability-heuristic/). Availability bias relies on how easily examples come to mind; anchoring relies on a specific numerical starting point.
 
 ## How to counteract anchoring
 
@@ -80,7 +80,7 @@ The fact that anchoring is largely unconscious makes it hard to eliminate by wil
 
 - **Generate multiple anchors.** Ask "what else could this be worth?" and deliberately construct alternative starting points. This forces conscious adjustment.
 - **Consider the source.** If you realize the anchor came from an arbitrary source (a salesman's opening bid, a round number, a headline), dismiss it explicitly and restart your estimate.
-- **Use a decision framework.** Rather than adjusting from a number, build up your estimate from first principles — cash flows, [earnings per share](/earnings-per-share), [market capitalization](/market-capitalization) of comparables — and only then check it against any anchors you've encountered.
+- **Use a decision framework.** Rather than adjusting from a number, build up your estimate from first principles — cash flows, [earnings per share](/earnings-per-share/), [market capitalization](/market-capitalization/) of comparables — and only then check it against any anchors you've encountered.
 - **Separate the past from the future.** Consciously distinguish what a stock *cost* from what it is *worth*. The former is history; the latter is what matters.
 
 For professionals, anchoring can actually be useful *in reverse*. Negotiators sometimes set an aggressive anchor knowing the other side will assume they will adjust. If you understand anchoring is operating, you can factor it into your strategy — but only if you are aware of it.
@@ -92,17 +92,17 @@ For professionals, anchoring can actually be useful *in reverse*. Negotiators so
 ### Closely related
 
 - Anchoring-and-adjustment — the incomplete adjustment mechanism
-- [Framing effect](/framing-effect) — how presentation order shapes decisions
+- [Framing effect](/framing-effect/) — how presentation order shapes decisions
 - Adjustment heuristic — insufficient movement away from a starting point
-- [Availability heuristic](/availability-heuristic) — relying on mentally available examples
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — a common anchor in valuation
+- [Availability heuristic](/availability-heuristic/) — relying on mentally available examples
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — a common anchor in valuation
 
 ### Wider context
 
-- [Confirmation bias](/confirmation-bias) — seeking information that supports anchored beliefs
-- [Status quo bias](/status-quo-bias) — preference for initial conditions
-- [Overconfidence bias](/overconfidence-bias) — excessive certainty in anchored estimates
+- [Confirmation bias](/confirmation-bias/) — seeking information that supports anchored beliefs
+- [Status quo bias](/status-quo-bias/) — preference for initial conditions
+- [Overconfidence bias](/overconfidence-bias/) — excessive certainty in anchored estimates
 - Market sentiment indicators — how anchors shape market consensus
-- [Prospect theory](/prospect-theory) — the broader framework of non-rational choice
+- [Prospect theory](/prospect-theory/) — the broader framework of non-rational choice
 
 </div>

@@ -55,8 +55,8 @@ Example: A manufacturer with $200 million net income, $2 billion tangible assets
 
 ### Closely related
 
-- [Return on tangible equity](/return-on-tangible-equity)
-- [Return on assets](/return-on-assets)
+- [Return on tangible equity](/return-on-tangible-equity/)
+- [Return on assets](/return-on-assets/)
 - Net asset value
 
 </div>

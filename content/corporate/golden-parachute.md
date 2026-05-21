@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **golden parachute** is a contractual provision that requires a company to pay large severance payments and benefits to its executives if they lose their positions following a [change of control](/change-of-control-provision) — typically a [merger](/merger), [acquisition](/acquisition), or hostile takeover. The payments are designed to protect executives from job loss and to provide them with financial security to accept a transaction that may not be in their individual interest. Golden parachutes are common in large public companies but are controversial because they can be extremely expensive and may incentivize executives to accept low-ball bids.*
+*A **golden parachute** is a contractual provision that requires a company to pay large severance payments and benefits to its executives if they lose their positions following a [change of control](/change-of-control-provision/) — typically a [merger](/merger/), [acquisition](/acquisition/), or hostile takeover. The payments are designed to protect executives from job loss and to provide them with financial security to accept a transaction that may not be in their individual interest. Golden parachutes are common in large public companies but are controversial because they can be extremely expensive and may incentivize executives to accept low-ball bids.*
 
 <div class="wiki-hatnote">
 
-This entry covers golden parachutes as executive compensation. For related benefits, see [golden handcuffs](/golden-handcuffs); for the takeover context, see [change of control provision](/change-of-control-provision) and [hostile takeover](/hostile-takeover).
+This entry covers golden parachutes as executive compensation. For related benefits, see [golden handcuffs](/golden-handcuffs/); for the takeover context, see [change of control provision](/change-of-control-provision/) and [hostile takeover](/hostile-takeover/).
 
 </div>
 
@@ -28,14 +28,14 @@ This entry covers golden parachutes as executive compensation. For related benef
 
 |   |   |
 |---|---|
-| **What it is** | Severance package triggered by [change of control](/change-of-control-provision) |
+| **What it is** | Severance package triggered by [change of control](/change-of-control-provision/) |
 | **Typical recipient** | CEO, CFO, other senior executives |
 | **Trigger** | Termination without cause, or voluntary resignation following change of control |
 | **Typical value** | 1.5x to 3x base salary plus bonus; often 2–3 years of total compensation |
 | **Funded by** | Company (from cash or borrowed funds) |
 | **Controversy** | Expense; potential misalignment with shareholders |
 | **Tax treatment** | Subject to excise tax if exceeds specified threshold |
-| **Related** | [Golden handcuffs](/golden-handcuffs), [change of control provision](/change-of-control-provision) |
+| **Related** | [Golden handcuffs](/golden-handcuffs/), [change of control provision](/change-of-control-provision/) |
 
 </aside>
 
@@ -70,18 +70,18 @@ Golden parachutes can be expensive. A CEO with a $2 million annual compensation 
 
 ## Change of control and definition
 
-The critical question is what constitutes a [change of control](/change-of-control-provision) that triggers the parachute. Common definitions include:
+The critical question is what constitutes a [change of control](/change-of-control-provision/) that triggers the parachute. Common definitions include:
 
-- A [merger](/merger) or [acquisition](/acquisition) of the company
-- A [tender offer](/tender-offer) that results in change of ownership
-- A [proxy fight](/proxy-fight) that results in election of new directors
+- A [merger](/merger/) or [acquisition](/acquisition/) of the company
+- A [tender offer](/tender-offer/) that results in change of ownership
+- A [proxy fight](/proxy-fight/) that results in election of new directors
 - Sale of substantially all assets (80%+)
 
 Some contracts define change of control narrowly (only an acquisition), while others define it broadly (any change in board control). Broader definitions trigger parachutes more easily, at higher cost to acquirers.
 
 ## The acquirer's perspective
 
-From an acquirer's standpoint, golden parachutes increase the cost of acquisition. An acquirer planning a [hostile takeover](/hostile-takeover) must factor in the parachute obligations. If the CEO faces a $5–10 million parachute, the effective cost of the acquisition is that much higher.
+From an acquirer's standpoint, golden parachutes increase the cost of acquisition. An acquirer planning a [hostile takeover](/hostile-takeover/) must factor in the parachute obligations. If the CEO faces a $5–10 million parachute, the effective cost of the acquisition is that much higher.
 
 Some acquirers structure deals to minimize parachute triggers. They may:
 - Offer to keep the CEO on at a similar salary (no parachute triggered)
@@ -94,7 +94,7 @@ Golden parachutes are subject to tax and regulatory scrutiny:
 
 **Excise tax.** Under US tax law, golden parachute payments that exceed specified thresholds (3x the executive's base amount) are subject to a 20% excise tax on the executive, and the company loses the tax deduction for the excess. This provides some constraint on parachute size.
 
-**SEC disclosure.** Public companies must disclose golden parachute provisions and estimated payout amounts in proxy statements, allowing shareholders to understand the costs before voting on a [merger](/merger) or [acquisition](/acquisition).
+**SEC disclosure.** Public companies must disclose golden parachute provisions and estimated payout amounts in proxy statements, allowing shareholders to understand the costs before voting on a [merger](/merger/) or [acquisition](/acquisition/).
 
 **Shareholder votes.** Some jurisdictions require shareholder approval of golden parachutes, or at least disclosure and opportunity for shareholders to vote (say-on-pay).
 
@@ -110,17 +110,17 @@ Some boards have adopted **double-trigger** provisions, meaning the parachute is
 
 ### Closely related
 
-- [Change of control provision](/change-of-control-provision) — the trigger for parachutes
-- [Golden handcuffs](/golden-handcuffs) — equity-based retention, opposite of parachutes
+- [Change of control provision](/change-of-control-provision/) — the trigger for parachutes
+- [Golden handcuffs](/golden-handcuffs/) — equity-based retention, opposite of parachutes
 - Executive compensation — broader context
-- [Merger](/merger) — common trigger for parachute payments
-- [Hostile takeover](/hostile-takeover) — context where parachutes are most significant
+- [Merger](/merger/) — common trigger for parachute payments
+- [Hostile takeover](/hostile-takeover/) — context where parachutes are most significant
 
 ### Wider context
 
 - Say-on-pay — shareholder votes on executive pay including parachutes
 - Board of directors — approves parachute provisions
-- [Tender offer](/tender-offer) — acquisition mechanism that may trigger parachutes
-- [Acquisition](/acquisition) — the event that triggers parachutes
+- [Tender offer](/tender-offer/) — acquisition mechanism that may trigger parachutes
+- [Acquisition](/acquisition/) — the event that triggers parachutes
 
 </div>

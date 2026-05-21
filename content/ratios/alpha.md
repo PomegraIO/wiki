@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry discusses alpha as a performance metric. For the opposite concept—the component of a stock's move that is not explained by the market—see [beta](/beta).
+This entry discusses alpha as a performance metric. For the opposite concept—the component of a stock's move that is not explained by the market—see [beta](/beta/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry discusses alpha as a performance metric. For the opposite concept—t
 
 Alpha emerges from a simple question: if you earn 12% on a stock and the market earned 10%, did you beat the market, or did you just take more risk?
 
-The [capital asset pricing model](/beta) answers this by separating a stock's (or fund's) return into two pieces. The first piece—your *beta*—is the return you should have earned simply by taking the amount of market risk you took. If your stock has a [beta](/beta) of 1.2 and the market rises 10%, you would expect a 12% return on that basis alone. The second piece is alpha: whatever is left over after you account for risk.
+The [capital asset pricing model](/beta/) answers this by separating a stock's (or fund's) return into two pieces. The first piece—your *beta*—is the return you should have earned simply by taking the amount of market risk you took. If your stock has a [beta](/beta/) of 1.2 and the market rises 10%, you would expect a 12% return on that basis alone. The second piece is alpha: whatever is left over after you account for risk.
 
 Mathematically, **alpha = actual return − expected return**. If a stock with a beta of 1.2 earned 14% while the market earned 10%, its alpha is 14% − 12% = 2%. That 2% is the value the manager (or you, as a picker) added through judgment that had nothing to do with taking extra risk.
 
@@ -55,9 +55,9 @@ The entire case for active management rests on alpha. If a manager could reliabl
 
 The evidence is sobering. Research by Morningstar and others suggests that the majority of actively managed funds fail to deliver positive alpha after fees over any meaningful period. Some do. Most don't. And the ones that did outperform last decade have no special claim to do so next decade—past alpha is not a reliable predictor of future alpha.
 
-This has led to a slow exodus from active management into [index funds](/index-fund) and [ETFs](/etf), which capture market returns minus a tiny fee and ask for nothing more. If you believe that positive alpha is rare enough and expensive enough to hunt that passive indexing is better, you join the growing majority of institutional investors.
+This has led to a slow exodus from active management into [index funds](/index-fund/) and [ETFs](/etf/), which capture market returns minus a tiny fee and ask for nothing more. If you believe that positive alpha is rare enough and expensive enough to hunt that passive indexing is better, you join the growing majority of institutional investors.
 
-Yet the hunt for alpha persists. [Hedge funds](/hedge-fund), sophisticated traders, and the best-resourced asset managers continue to chase it because even a small edge, compounded over time and applied to billions in capital, becomes spectacular wealth. The question is not whether alpha exists somewhere; it is whether it exists for you, at a price you are willing to pay.
+Yet the hunt for alpha persists. [Hedge funds](/hedge-fund/), sophisticated traders, and the best-resourced asset managers continue to chase it because even a small edge, compounded over time and applied to billions in capital, becomes spectacular wealth. The question is not whether alpha exists somewhere; it is whether it exists for you, at a price you are willing to pay.
 
 ## Alpha and luck
 
@@ -67,7 +67,7 @@ Imagine a casino with 10,000 roulette wheels. Each wheel runs 100 spins. By pure
 
 Active managers face the same problem. With millions of managers and funds in the world, some will beat their benchmarks by large margins even if all of them are operating on chance alone. Distinguishing genuine skill from statistical noise requires not just outperformance but **consistent, repeated outperformance**, sustained over enough years that the odds of luck producing it become vanishingly small.
 
-Even then, you face a tax problem: alpha is often taxed as ordinary income (in the fund's hands or yours), while market returns can be more tax-efficient, particularly if you hold [index funds](/index-fund).
+Even then, you face a tax problem: alpha is often taxed as ordinary income (in the fund's hands or yours), while market returns can be more tax-efficient, particularly if you hold [index funds](/index-fund/).
 
 ## Where alpha might hide
 
@@ -75,15 +75,15 @@ Despite the grim odds, alpha does show up in certain pockets of the market:
 
 **Small, overlooked securities.** The least-watched stocks—tiny-cap companies with minimal analyst coverage—can suffer from pricing errors large enough for a patient, skilled investor to exploit. But the transaction costs and liquidity problems that come with tiny stocks often eat the profits.
 
-**Illiquid assets.** A skilled manager of [hedge funds](/hedge-fund) or private equity can sometimes find mispricings in less-liquid markets—emerging markets, corporate debt, distressed loans—where the bid-ask spread is wide enough to hide an edge. Again, the cost to access these markets is high.
+**Illiquid assets.** A skilled manager of [hedge funds](/hedge-fund/) or private equity can sometimes find mispricings in less-liquid markets—emerging markets, corporate debt, distressed loans—where the bid-ask spread is wide enough to hide an edge. Again, the cost to access these markets is high.
 
-**Market dislocations.** When fear or euphoria grips the market—during a [recession](/recession) or a bull run—prices can become so unmoored from reality that a disciplined contrarian has room to act. But timing this is difficult, and the costs of being early can be severe.
+**Market dislocations.** When fear or euphoria grips the market—during a [recession](/recession/) or a bull run—prices can become so unmoored from reality that a disciplined contrarian has room to act. But timing this is difficult, and the costs of being early can be severe.
 
 **Concentrated expertise.** A manager with deep, proprietary knowledge of a specific industry—biotech, energy infrastructure, retail—might spot opportunities others miss. This is rare and expensive to source.
 
 ## Alpha and fees
 
-Here lies the rub. Even if your active manager earns 2% of alpha, and you pay them 1% in fees, you are ahead by 1%. But most active managers charge more than 1%, often 1.5% to 2% for traditional mutual funds or 2% plus 20% of profits for [hedge funds](/hedge-fund). The alpha they generate rarely covers the cost.
+Here lies the rub. Even if your active manager earns 2% of alpha, and you pay them 1% in fees, you are ahead by 1%. But most active managers charge more than 1%, often 1.5% to 2% for traditional mutual funds or 2% plus 20% of profits for [hedge funds](/hedge-fund/). The alpha they generate rarely covers the cost.
 
 This is why the strongest practitioners of active management have shifted toward low-fee structures, separate accounts for wealthy clients, or highly specialized mandates where alpha is more likely to exist. The days of high-fee generalist active management are largely over.
 
@@ -93,18 +93,18 @@ This is why the strongest practitioners of active management have shifted toward
 
 ### Closely related
 
-- [Beta](/beta) — the return you get from taking market risk
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — one tool used to hunt for alpha
-- [Earnings per share](/earnings-per-share) — a metric analysts use to spot undervalued companies
-- [Hedge fund](/hedge-fund) — a vehicle often built on the search for alpha
-- [Index fund](/index-fund) — the alternative: accepting market returns
+- [Beta](/beta/) — the return you get from taking market risk
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — one tool used to hunt for alpha
+- [Earnings per share](/earnings-per-share/) — a metric analysts use to spot undervalued companies
+- [Hedge fund](/hedge-fund/) — a vehicle often built on the search for alpha
+- [Index fund](/index-fund/) — the alternative: accepting market returns
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — the foundation that should come before hunting for alpha
-- [Market capitalization](/market-capitalization) — understanding market size helps identify overlooked stocks
-- [Diversification](/diversification) — a guard against the false alphas that concentration can create
-- [Stock market](/stock-market) — where the hunt for alpha takes place
-- [Bull market](/bull-market) · [Bear market](/bear-market) — regimes that change alpha opportunities
+- [Asset allocation](/asset-allocation/) — the foundation that should come before hunting for alpha
+- [Market capitalization](/market-capitalization/) — understanding market size helps identify overlooked stocks
+- [Diversification](/diversification/) — a guard against the false alphas that concentration can create
+- [Stock market](/stock-market/) — where the hunt for alpha takes place
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — regimes that change alpha opportunities
 
 </div>

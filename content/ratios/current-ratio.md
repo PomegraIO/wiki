@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers near-term liquidity. For a stricter liquidity test, see [quick ratio](/quick-ratio). For an even tighter measure, see [cash ratio](/cash-ratio).
+This entry covers near-term liquidity. For a stricter liquidity test, see [quick ratio](/quick-ratio/). For an even tighter measure, see [cash ratio](/cash-ratio/).
 
 </div>
 
@@ -45,15 +45,15 @@ This entry covers near-term liquidity. For a stricter liquidity test, see [quick
 
 Every company has short-term obligations — wages to pay, supplier invoices due, debt coming due, rent, taxes. The current ratio asks: if all those bills came due today, would the company have enough liquid assets to pay them?
 
-Current assets include cash, [accounts receivable](/accounts-receivable-turnover) (money owed by customers), inventory (that will be sold for cash), and other assets that will convert to cash or be used within a year. Current liabilities include [accounts payable](/accounts-payable-turnover) (money owed to suppliers), short-term debt, accrued expenses, and the current portion of long-term debt.
+Current assets include cash, [accounts receivable](/accounts-receivable-turnover/) (money owed by customers), inventory (that will be sold for cash), and other assets that will convert to cash or be used within a year. Current liabilities include [accounts payable](/accounts-payable-turnover/) (money owed to suppliers), short-term debt, accrued expenses, and the current portion of long-term debt.
 
 A healthy current ratio is your insurance policy: if business slows, the company does not face an immediate cash crunch.
 
 ## How to calculate it
 
-**Step 1:** Find current assets on the balance sheet. This includes cash and cash equivalents, short-term investments, [accounts receivable](/accounts-receivable-turnover), inventory, and prepaid expenses.
+**Step 1:** Find current assets on the balance sheet. This includes cash and cash equivalents, short-term investments, [accounts receivable](/accounts-receivable-turnover/), inventory, and prepaid expenses.
 
-**Step 2:** Find current liabilities. This includes [accounts payable](/accounts-payable-turnover), accrued expenses, short-term debt, and the current portion of long-term debt.
+**Step 2:** Find current liabilities. This includes [accounts payable](/accounts-payable-turnover/), accrued expenses, short-term debt, and the current portion of long-term debt.
 
 **Step 3:** Divide current assets by current liabilities.
 
@@ -107,8 +107,8 @@ A grocery store with a current ratio of 1.5 is overly cautious and inefficient. 
 
 The current ratio has two stricter cousins:
 
-- **[Quick ratio](/quick-ratio):** (Current assets − inventory) ÷ current liabilities. Excludes inventory, which can be illiquid.
-- **[Cash ratio](/cash-ratio):** Cash ÷ current liabilities. Only includes actual cash. The strictest test.
+- **[Quick ratio](/quick-ratio/):** (Current assets − inventory) ÷ current liabilities. Excludes inventory, which can be illiquid.
+- **[Cash ratio](/cash-ratio/):** Cash ÷ current liabilities. Only includes actual cash. The strictest test.
 
 If the current ratio is high but the quick ratio is low, the company's liquidity depends on inventory conversion. This is riskier.
 
@@ -130,11 +130,11 @@ A company with a stable 1.8 current ratio, improving operating cash flow, and cu
 
 ### Closely related
 
-- [Quick ratio](/quick-ratio) — liquidity excluding inventory
-- [Cash ratio](/cash-ratio) — liquidity from cash alone
+- [Quick ratio](/quick-ratio/) — liquidity excluding inventory
+- [Cash ratio](/cash-ratio/) — liquidity from cash alone
 - Working capital — the absolute difference
-- [Accounts receivable](/accounts-receivable-turnover) — a major current asset
-- [Inventory turnover](/inventory-turnover) — how fast inventory converts to sales
+- [Accounts receivable](/accounts-receivable-turnover/) — a major current asset
+- [Inventory turnover](/inventory-turnover/) — how fast inventory converts to sales
 
 ### Wider context
 

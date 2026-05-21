@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **after-hours** session is an extended trading period that occurs after a stock exchange's official closing. In the US, [after-hours trading](/after-hours-trading) typically runs from 4:00 PM to 8:00 PM Eastern Time, after the NYSE and NASDAQ close at 4:00 PM. It allows investors to trade based on earnings results and other after-hours news, but with substantially lower volume and wider bid-ask spreads than [regular trading hours](/regular-trading-hours).*
+*The **after-hours** session is an extended trading period that occurs after a stock exchange's official closing. In the US, [after-hours trading](/after-hours-trading/) typically runs from 4:00 PM to 8:00 PM Eastern Time, after the NYSE and NASDAQ close at 4:00 PM. It allows investors to trade based on earnings results and other after-hours news, but with substantially lower volume and wider bid-ask spreads than [regular trading hours](/regular-trading-hours/).*
 
 <div class="wiki-hatnote">
 
-This entry is about evening trading after the close. For trading during the official session, see [regular trading hours](/regular-trading-hours); for trading before the market opens, see [pre-market trading](/pre-market-trading).
+This entry is about evening trading after the close. For trading during the official session, see [regular trading hours](/regular-trading-hours/); for trading before the market opens, see [pre-market trading](/pre-market-trading/).
 
 </div>
 
@@ -47,7 +47,7 @@ Like pre-market trading, after-hours access requires explicit broker support. No
 
 ## Why companies release earnings after hours
 
-Most public US companies release earnings after 4:00 PM Eastern Time, after the [regular trading hours](/regular-trading-hours) close. This practice emerged to avoid the chaos of earnings being released during regular trading, which would send large numbers of investors rushing to buy or sell simultaneously, disrupting the orderly market.
+Most public US companies release earnings after 4:00 PM Eastern Time, after the [regular trading hours](/regular-trading-hours/) close. This practice emerged to avoid the chaos of earnings being released during regular trading, which would send large numbers of investors rushing to buy or sell simultaneously, disrupting the orderly market.
 
 By releasing after hours, the company gives investors and analysts time to review the results and digest them before regular trading resumes the next day. It also allows international investors (for whom 4:00 PM ET is evening or night) to read and react to earnings before the Asian or European opens the next morning.
 
@@ -129,18 +129,18 @@ After-hours execution is fraught with risk:
 
 ### Closely related
 
-- [Regular trading hours](/regular-trading-hours) — the main market session
-- [Pre-market trading](/pre-market-trading) — morning extended hours
-- [Stock exchange](/stock-exchange) — the official market
-- [Closing auction](/closing-auction-detail) — the process ending regular hours
-- [Earnings](/earnings-per-share) — the main catalyst for after-hours trading
+- [Regular trading hours](/regular-trading-hours/) — the main market session
+- [Pre-market trading](/pre-market-trading/) — morning extended hours
+- [Stock exchange](/stock-exchange/) — the official market
+- [Closing auction](/closing-auction-detail/) — the process ending regular hours
+- [Earnings](/earnings-per-share/) — the main catalyst for after-hours trading
 
 ### Wider context
 
-- [Liquidity](/secondary-market) — low in after-hours
-- [Price discovery](/stock-market) — less efficient in after-hours
-- [Bid-ask spread](/stock-market) — wide in after-hours
-- [Volatility](/bull-market) — elevated in after-hours
-- [Day trading](/after-hours-trading) — after-hours is popular with earnings traders
+- [Liquidity](/secondary-market/) — low in after-hours
+- [Price discovery](/stock-market/) — less efficient in after-hours
+- [Bid-ask spread](/stock-market/) — wide in after-hours
+- [Volatility](/bull-market/) — elevated in after-hours
+- [Day trading](/after-hours-trading/) — after-hours is popular with earnings traders
 
 </div>

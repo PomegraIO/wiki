@@ -39,8 +39,8 @@ EBIT margin excludes financing (interest) and taxes, showing pure operational pr
 
 ### Closely related
 
-- [Operating margin](/operating-margin) — identical concept
-- [Gross profit margin](/gross-profit-margin) · [Net profit margin](/net-profit-margin)
-- [EBITDA margin](/ebitda-margin)
+- [Operating margin](/operating-margin/) — identical concept
+- [Gross profit margin](/gross-profit-margin/) · [Net profit margin](/net-profit-margin/)
+- [EBITDA margin](/ebitda-margin/)
 
 </div>

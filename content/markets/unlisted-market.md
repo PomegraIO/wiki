@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*An **unlisted market** is any trading venue for securities that do not meet the listing standards of a major [stock exchange](/stock-exchange). Unlisted securities may trade on alternative platforms, through [over-the-counter](/over-the-counter-market) networks, or through [electronic communication networks](/ecn-detail). They typically have fewer disclosure requirements, smaller trading volumes, and wider bid-ask spreads than [listed](/listed-market) securities.*
+*An **unlisted market** is any trading venue for securities that do not meet the listing standards of a major [stock exchange](/stock-exchange/). Unlisted securities may trade on alternative platforms, through [over-the-counter](/over-the-counter-market/) networks, or through [electronic communication networks](/ecn-detail/). They typically have fewer disclosure requirements, smaller trading volumes, and wider bid-ask spreads than [listed](/listed-market/) securities.*
 
 <div class="wiki-hatnote">
 
-This entry is about securities that do not trade on major exchanges. For the venues where they trade, see [over-the-counter market](/over-the-counter-market); for more liquid alternatives, see [listed market](/listed-market).
+This entry is about securities that do not trade on major exchanges. For the venues where they trade, see [over-the-counter market](/over-the-counter-market/); for more liquid alternatives, see [listed market](/listed-market/).
 
 </div>
 
@@ -60,9 +60,9 @@ Unlisted securities trade on several platforms:
 
 **OTC Markets Group (OTCMKTS)** operates three tiers in the US: OTC Pink (minimal disclosure), OTC Markets (moderate disclosure), and OTC QB (more rigorous disclosure). In other countries, similar platforms exist.
 
-**Alternative trading systems (ATS)** are regulated networks that match buy and sell orders for both [listed](/listed-market) and unlisted securities. They are smaller and less regulated than [stock exchanges](/stock-exchange) but must comply with SEC rules.
+**Alternative trading systems (ATS)** are regulated networks that match buy and sell orders for both [listed](/listed-market/) and unlisted securities. They are smaller and less regulated than [stock exchanges](/stock-exchange/) but must comply with SEC rules.
 
-**[Electronic communication networks](/ecn-detail)** match orders for securities electronically, often faster than [stock exchanges](/stock-exchange). Some serve primarily [listed](/listed-market) stocks; others also trade unlisted ones.
+**[Electronic communication networks](/ecn-detail/)** match orders for securities electronically, often faster than [stock exchanges](/stock-exchange/). Some serve primarily [listed](/listed-market/) stocks; others also trade unlisted ones.
 
 **Broker networks** and "over-the-counter" trading involve dealers who maintain inventories and quote bid-ask prices. A broker may call a dealer to buy or sell an unlisted stock, negotiating a price directly.
 
@@ -74,9 +74,9 @@ Unlisted stocks tend to have several common features:
 
 **Low trading volume.** Because the shareholder base is smaller and the company is less known, few shares trade daily. A single order can move the price significantly.
 
-**Wide bid-ask spreads.** With few market makers and thin order books, the difference between what buyers will pay and sellers will accept is often 5–20%, compared to cents or less for [listed](/listed-market) stocks.
+**Wide bid-ask spreads.** With few market makers and thin order books, the difference between what buyers will pay and sellers will accept is often 5–20%, compared to cents or less for [listed](/listed-market/) stocks.
 
-**Limited information.** Some unlisted companies file audited financial statements with the SEC; others disclose nothing. Investors must rely on company-provided information, rumors, and extrapolation from comparable [listed](/listed-market) companies.
+**Limited information.** Some unlisted companies file audited financial statements with the SEC; others disclose nothing. Investors must rely on company-provided information, rumors, and extrapolation from comparable [listed](/listed-market/) companies.
 
 **Valuation uncertainty.** Without continuous market pricing, valuing an unlisted stock is difficult. An investor might own shares but have little idea of their true worth.
 
@@ -84,7 +84,7 @@ Unlisted stocks tend to have several common features:
 
 ## OTC Pink, OTCQX, and OTCQB
 
-In the US, the three tiers of [over-the-counter](/over-the-counter-market) trading have different standards:
+In the US, the three tiers of [over-the-counter](/over-the-counter-market/) trading have different standards:
 
 **OTC Pink** is the lightest tier. Companies may not file with the SEC and may disclose nothing about their finances. This tier includes shell companies, penny stocks, and fraudulent enterprises. It is best avoided by retail investors without expertise.
 
@@ -96,7 +96,7 @@ In the US, the three tiers of [over-the-counter](/over-the-counter-market) tradi
 
 Unlisted securities carry higher risks:
 
-**Fraud.** With minimal oversight, [unlisted](/unlisted-market) securities are prime targets for pump-and-dump schemes, where promoters artificially hype a stock, insiders sell, and the price collapses.
+**Fraud.** With minimal oversight, [unlisted](/unlisted-market/) securities are prime targets for pump-and-dump schemes, where promoters artificially hype a stock, insiders sell, and the price collapses.
 
 **Illiquidity.** Selling can be difficult or impossible, or require a steep price concession.
 
@@ -104,17 +104,17 @@ Unlisted securities carry higher risks:
 
 **Volatility.** With thin order books, prices can move wildly on small volume, driven by sentiment rather than fundamental value.
 
-**Bankruptcy without recovery.** [Unlisted](/unlisted-market) companies often lack the financial stability of [listed](/listed-market) companies and are more likely to fail, leaving shareholders with nothing.
+**Bankruptcy without recovery.** [Unlisted](/unlisted-market/) companies often lack the financial stability of [listed](/listed-market/) companies and are more likely to fail, leaving shareholders with nothing.
 
 ## Regulation
 
-[Unlisted](/unlisted-market) securities are regulated by the SEC (in the US) and equivalent bodies globally, but the oversight is lighter than for [listed](/listed-market) securities. Broker-dealers trading unlisted securities must comply with anti-fraud rules and fair-dealing standards, and must register with the SEC or operate through a registered broker.
+[Unlisted](/unlisted-market/) securities are regulated by the SEC (in the US) and equivalent bodies globally, but the oversight is lighter than for [listed](/listed-market/) securities. Broker-dealers trading unlisted securities must comply with anti-fraud rules and fair-dealing standards, and must register with the SEC or operate through a registered broker.
 
-However, the SEC does not formally oversee unlisted market operators as it does [stock exchanges](/stock-exchange). Enforcement is often reactive — the SEC investigates fraud after complaints — rather than preventive.
+However, the SEC does not formally oversee unlisted market operators as it does [stock exchanges](/stock-exchange/). Enforcement is often reactive — the SEC investigates fraud after complaints — rather than preventive.
 
 ## The migration from unlisted to listed
 
-A successful [unlisted](/unlisted-market) company may eventually list on a major exchange, if it reaches sufficient size and stability. Listing brings massive benefits: access to capital markets, credibility, [liquidity](/secondary-market), and ability to use stock as currency. The path from unlisted to listed is the goal of many fast-growing companies.
+A successful [unlisted](/unlisted-market/) company may eventually list on a major exchange, if it reaches sufficient size and stability. Listing brings massive benefits: access to capital markets, credibility, [liquidity](/secondary-market/), and ability to use stock as currency. The path from unlisted to listed is the goal of many fast-growing companies.
 
 ## See also
 
@@ -122,18 +122,18 @@ A successful [unlisted](/unlisted-market) company may eventually list on a major
 
 ### Closely related
 
-- [Listed market](/listed-market) — the major exchange alternative
-- [Over-the-counter market](/over-the-counter-market) — the primary venue for unlisted trading
-- [Stock exchange](/stock-exchange) — the gold standard
-- [Securities](/stock) — what unlisted markets trade
-- [Secondary market](/secondary-market) — the broader context
+- [Listed market](/listed-market/) — the major exchange alternative
+- [Over-the-counter market](/over-the-counter-market/) — the primary venue for unlisted trading
+- [Stock exchange](/stock-exchange/) — the gold standard
+- [Securities](/stock/) — what unlisted markets trade
+- [Secondary market](/secondary-market/) — the broader context
 
 ### Wider context
 
-- [Penny stock](/unlisted-market) — common on unlisted venues
-- [Liquidity](/secondary-market) — scarce for unlisted securities
-- [Fraud](/unlisted-market) — a hazard of unlisted markets
-- [Price discovery](/stock-market) — harder without listed market depth
-- [Diversification](/diversification) — risky with unlisted stocks
+- [Penny stock](/unlisted-market/) — common on unlisted venues
+- [Liquidity](/secondary-market/) — scarce for unlisted securities
+- [Fraud](/unlisted-market/) — a hazard of unlisted markets
+- [Price discovery](/stock-market/) — harder without listed market depth
+- [Diversification](/diversification/) — risky with unlisted stocks
 
 </div>

@@ -84,9 +84,9 @@ If a company's management compensation is tied to total company performance rath
 
 ### Closely related
 
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — reveals the discount
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — reveals the discount
 - Holding company discount — related discount concept
-- [Diversification](/diversification) — the cause of complexity
+- [Diversification](/diversification/) — the cause of complexity
 
 ### Capital allocation
 
@@ -95,14 +95,14 @@ If a company's management compensation is tied to total company performance rath
 
 ### Market structure
 
-- [Spinoff](/spinoff) — extracting discount value
+- [Spinoff](/spinoff/) — extracting discount value
 - Restructuring — addressing the discount
 - Activist investor — pursuing conglomerate discounts
 
 ### Related valuations
 
-- [Comparable company analysis](/comparable-company-analysis) — multiples for each piece
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — DCF per segment
-- [Scenario valuation](/scenario-valuation) — what if we split up?
+- [Comparable company analysis](/comparable-company-analysis/) — multiples for each piece
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — DCF per segment
+- [Scenario valuation](/scenario-valuation/) — what if we split up?
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*Anti-money laundering (**AML**) laws are regulations requiring financial institutions to detect and report suspicious financial activity that might indicate money laundering, terrorism financing, or other financial crimes. Enacted in nearly every jurisdiction, AML laws impose [Know Your Customer](/kyc) (KYC) requirements, suspicious activity reporting, and customer monitoring on banks, brokers, casinos, and other regulated entities. The goal is to starve criminals of the ability to hide proceeds and finance terrorism.*
+*Anti-money laundering (**AML**) laws are regulations requiring financial institutions to detect and report suspicious financial activity that might indicate money laundering, terrorism financing, or other financial crimes. Enacted in nearly every jurisdiction, AML laws impose [Know Your Customer](/kyc/) (KYC) requirements, suspicious activity reporting, and customer monitoring on banks, brokers, casinos, and other regulated entities. The goal is to starve criminals of the ability to hide proceeds and finance terrorism.*
 
 <div class="wiki-hatnote">
 
@@ -49,7 +49,7 @@ AML laws target each stage. Banks are trained to recognize placement (unusual la
 
 ## Know Your Customer and suspicious activity reporting
 
-The core of AML is [KYC](/kyc) — financial institutions must verify customer identity and understand their financial profile. For each transaction, institutions must assess: is this transaction consistent with the customer's profile? If not, it is suspicious.
+The core of AML is [KYC](/kyc/) — financial institutions must verify customer identity and understand their financial profile. For each transaction, institutions must assess: is this transaction consistent with the customer's profile? If not, it is suspicious.
 
 Suspicious activity (a transaction that deviates from the customer's norms, lacks economic rationale, or suggests illegality) must be reported to FinCEN (in the US) via a Suspicious Activity Report (SAR). Banks file millions of SARs annually; law enforcement uses them to investigate crimes.
 
@@ -95,7 +95,7 @@ Defenders argue the costs are justified — AML is a key tool against terrorism 
 
 ### Closely related
 
-- [Know Your Customer](/kyc) — core AML requirement
+- [Know Your Customer](/kyc/) — core AML requirement
 - Customer due diligence — process of gathering information
 - Suspicious activity report — filed by institutions
 - Bank Secrecy Act — primary US statute

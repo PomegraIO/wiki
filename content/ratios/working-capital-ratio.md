@@ -9,7 +9,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **working capital ratio** is a synonym for the [current ratio](/current-ratio): current assets divided by current liabilities. A ratio above 1.0 indicates the company has more current assets than current liabilities.*
+*The **working capital ratio** is a synonym for the [current ratio](/current-ratio/): current assets divided by current liabilities. A ratio above 1.0 indicates the company has more current assets than current liabilities.*
 
 <aside class="wiki-infobox">
 
@@ -42,8 +42,8 @@ Positive working capital means the company has more liquid assets than short-ter
 
 ### Closely related
 
-- [Current ratio](/current-ratio) — identical metric
-- [Quick ratio](/quick-ratio) · [Cash ratio](/cash-ratio) — stricter tests
+- [Current ratio](/current-ratio/) — identical metric
+- [Quick ratio](/quick-ratio/) · [Cash ratio](/cash-ratio/) — stricter tests
 - Working capital — the absolute dollar amount
 
 </div>

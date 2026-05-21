@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers commercial real estate broadly. For specific sectors, see [office-reit](/office-reit) (offices), [retail-reit](/retail-reit) (shopping centers), [industrial-reit](/industrial-reit) (warehouses), [hotel-reit](/hotel-reit) (hospitality), and [data-center-reit](/data-center-reit) (data centers). For residential alternatives, see [residential-real-estate](/residential-real-estate).
+This entry covers commercial real estate broadly. For specific sectors, see [office-reit](/office-reit/) (offices), [retail-reit](/retail-reit/) (shopping centers), [industrial-reit](/industrial-reit/) (warehouses), [hotel-reit](/hotel-reit/) (hospitality), and [data-center-reit](/data-center-reit/) (data centers). For residential alternatives, see [residential-real-estate](/residential-real-estate/).
 
 </div>
 
@@ -61,9 +61,9 @@ Unlike residential rentals, which are typically month-to-month or 1-year leases,
 
 Commercial leases also vary in structure:
 
-**[Triple-net leases](/triple-net-lease)**: The tenant pays rent plus property taxes, insurance, and maintenance. The landlord's risk is minimal; revenue is stable.
+**[Triple-net leases](/triple-net-lease/)**: The tenant pays rent plus property taxes, insurance, and maintenance. The landlord's risk is minimal; revenue is stable.
 
-**[Gross leases](/modified-gross-lease)**: The landlord pays operating costs; the tenant pays a base rent. Landlord bears inflation risk.
+**[Gross leases](/modified-gross-lease/)**: The landlord pays operating costs; the tenant pays a base rent. Landlord bears inflation risk.
 
 **Percentage leases**: The tenant pays rent plus a percentage of sales revenue. Common in retail.
 
@@ -71,7 +71,7 @@ Triple-net leases are attractive to landlords because they transfer costs to ten
 
 ## Valuation and the cap rate
 
-Commercial real estate is valued using the [cap rate](/cap-rate): annual net operating income divided by property value. A $10M property with $500K NOI has a 5% cap rate.
+Commercial real estate is valued using the [cap rate](/cap-rate/): annual net operating income divided by property value. A $10M property with $500K NOI has a 5% cap rate.
 
 Cap rates vary by:
 
@@ -118,7 +118,7 @@ Acquiring stabilized CRE requires capital. A $100M office building requires $30�
 
 Ground-up development requires even more capital and carries execution risk. Delays, cost overruns, and leasing shortfalls can erase returns.
 
-Most CRE exposure for individuals comes through [REITs](/real-estate-investment-trust) or real estate syndications, which pool capital.
+Most CRE exposure for individuals comes through [REITs](/real-estate-investment-trust/) or real estate syndications, which pool capital.
 
 ## Interest rates and cap rate compression/expansion
 
@@ -134,23 +134,23 @@ This interest rate sensitivity creates valuation risk for CRE holders when rates
 
 ### REIT sectors
 
-- [Real estate investment trust](/real-estate-investment-trust) — institutional CRE ownership
-- [Office REIT](/office-reit) — office buildings
-- [Retail REIT](/retail-reit) — shopping centers and retail
-- [Industrial REIT](/industrial-reit) — warehouses
-- [Hotel REIT](/hotel-reit) — hospitality properties
+- [Real estate investment trust](/real-estate-investment-trust/) — institutional CRE ownership
+- [Office REIT](/office-reit/) — office buildings
+- [Retail REIT](/retail-reit/) — shopping centers and retail
+- [Industrial REIT](/industrial-reit/) — warehouses
+- [Hotel REIT](/hotel-reit/) — hospitality properties
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — the fundamental CRE valuation metric
-- [Net operating income](/net-operating-income) — the numerator of cap rate
-- [Triple-net lease](/triple-net-lease) — common CRE lease structure
+- [Cap rate](/cap-rate/) — the fundamental CRE valuation metric
+- [Net operating income](/net-operating-income/) — the numerator of cap rate
+- [Triple-net lease](/triple-net-lease/) — common CRE lease structure
 
 ### Context
 
-- [Dividend](/dividend) — CRE income flows to shareholders
-- [Interest rate](/interest-rate) — affects cap rates and debt costs
-- [Recession](/recession) — CRE is cyclical and vulnerable to downturns
-- [Asset allocation](/asset-allocation) — how to weight CRE in a portfolio
+- [Dividend](/dividend/) — CRE income flows to shareholders
+- [Interest rate](/interest-rate/) — affects cap rates and debt costs
+- [Recession](/recession/) — CRE is cyclical and vulnerable to downturns
+- [Asset allocation](/asset-allocation/) — how to weight CRE in a portfolio
 
 </div>

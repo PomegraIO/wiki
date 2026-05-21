@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **going-concern valuation** values a company on the assumption that it will continue operating indefinitely, generating cash flows into the future. This is the standard assumption for any normal business valuation—[DCF](/discounted-cash-flow-valuation), [multiples](/multiples-valuation), [dividend discount models](/dividend-discount-model). It contrasts with [liquidation value](/liquidation-value) or [break-up value](/sum-of-the-parts-valuation), which assume the business is wound down or sold piecemeal.*
+*A **going-concern valuation** values a company on the assumption that it will continue operating indefinitely, generating cash flows into the future. This is the standard assumption for any normal business valuation—[DCF](/discounted-cash-flow-valuation/), [multiples](/multiples-valuation/), [dividend discount models](/dividend-discount-model/). It contrasts with [liquidation value](/liquidation-value/) or [break-up value](/sum-of-the-parts-valuation/), which assume the business is wound down or sold piecemeal.*
 
 ## The assumption
 
@@ -37,7 +37,7 @@ This is the *default* assumption for any well-capitalized, operationally sound b
 
 **Near-term expiration.** A company with patents expiring, contracts ending, or scheduled shutdown. If you know the business ends in five years, terminal value is different.
 
-**Bankruptcy-imminent companies.** For a company in or near bankruptcy, [liquidation value](/liquidation-value) might be more appropriate than going-concern DCF.
+**Bankruptcy-imminent companies.** For a company in or near bankruptcy, [liquidation value](/liquidation-value/) might be more appropriate than going-concern DCF.
 
 **Litigation or regulatory risk.** If facing existential legal or regulatory risk, going-concern assumptions might be too optimistic.
 
@@ -97,14 +97,14 @@ In practice, most valuations of solvent, profitable companies use going-concern 
 
 ### Closely related
 
-- [Liquidation value](/liquidation-value) — the alternative valuation
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — assumes going-concern
-- [Terminal value](/terminal-value) — the indefinite-future component
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — going-concern terminal
+- [Liquidation value](/liquidation-value/) — the alternative valuation
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — assumes going-concern
+- [Terminal value](/terminal-value/) — the indefinite-future component
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — going-concern terminal
 
 ### Valuation bases
 
-- [Intrinsic value](/intrinsic-value) — what going-concern captures
+- [Intrinsic value](/intrinsic-value/) — what going-concern captures
 - Market value — what trading prices reflect
 - Book value — accounting-based, going-concern basis
 
@@ -112,6 +112,6 @@ In practice, most valuations of solvent, profitable companies use going-concern 
 
 - Bankruptcy — when going-concern fails
 - Restructuring — alternative to liquidation
-- [Scenario valuation](/scenario-valuation) — modeling going-concern vs. distress
+- [Scenario valuation](/scenario-valuation/) — modeling going-concern vs. distress
 
 </div>

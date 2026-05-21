@@ -32,7 +32,7 @@ Related to hot-hand fallacy (the opposite error) and regression to the mean (the
 | **False belief** | Outcomes are "due" to balance past results |
 | **Reality** | Past results do not change future probabilities |
 | **Investor impact** | Selling after underperformance; buying after outperformance; chasing reversions |
-| **Related phenomenon** | [Hot-hand fallacy](/hot-hand-fallacy), regression to the mean |
+| **Related phenomenon** | [Hot-hand fallacy](/hot-hand-fallacy/), regression to the mean |
 | **Severity** | Causes poor timing and overtrading |
 
 </aside>
@@ -63,7 +63,7 @@ This intuition is partially grounded in reality: over a long sequence, random ou
 
 ## Distinguishing gamblers fallacy from hot-hand fallacy
 
-The [hot-hand fallacy](/hot-hand-fallacy) is the opposite error: believing that past successes make future successes more likely. After a fund has outperformed for three years, the hot-hand fallacy leads to the belief it will outperform in the next three years. This is also wrong — past outperformance does not make future outperformance more likely.
+The [hot-hand fallacy](/hot-hand-fallacy/) is the opposite error: believing that past successes make future successes more likely. After a fund has outperformed for three years, the hot-hand fallacy leads to the belief it will outperform in the next three years. This is also wrong — past outperformance does not make future outperformance more likely.
 
 Gamblers fallacy says underperformance makes future outperformance more likely. Hot-hand says outperformance makes future outperformance more likely. Both are errors, just in opposite directions.
 
@@ -78,7 +78,7 @@ But regression to the mean is not evidence for the gamblers fallacy. The reversi
 - **Remember: independence.** In investing, past returns are largely independent of future returns. Last year's return does not make next year's return more likely to be high or low.
 - **Focus on fundamentals, not past returns.** Do not buy a stock because it has fallen (it is "due" for a recovery). Buy it if valuations are attractive. Do not sell a stock because it has risen (it is "due" for a reversal). Sell it if valuations have become stretched.
 - **Understand regression to the mean correctly.** Extreme outperformance tends to be followed by performance closer to the average. But this is not the gamblers fallacy; it is reversion to the true expected return. Do not confuse the two.
-- **Use [diversification](/diversification).** A diversified portfolio is less vulnerable to gamblers-fallacy thinking because you own many assets and cannot obsess over any one's past returns.
+- **Use [diversification](/diversification/).** A diversified portfolio is less vulnerable to gamblers-fallacy thinking because you own many assets and cannot obsess over any one's past returns.
 - **Avoid frequent rebalancing based on past performance.** Rebalance on a schedule, not in response to recent underperformance or outperformance.
 
 ## See also
@@ -87,18 +87,18 @@ But regression to the mean is not evidence for the gamblers fallacy. The reversi
 
 ### Closely related
 
-- [Hot-hand fallacy](/hot-hand-fallacy) — the opposite error (past success predicts future success)
-- [Recency bias](/recency-bias) — overweighting recent returns
-- [Availability heuristic](/availability-heuristic) — recent returns are vivid
-- [Base rate neglect](/base-rate-neglect) — ignoring the true likelihood
-- [Regression to the mean](/hot-hand-fallacy) — the actual phenomenon being confused with the fallacy
+- [Hot-hand fallacy](/hot-hand-fallacy/) — the opposite error (past success predicts future success)
+- [Recency bias](/recency-bias/) — overweighting recent returns
+- [Availability heuristic](/availability-heuristic/) — recent returns are vivid
+- [Base rate neglect](/base-rate-neglect/) — ignoring the true likelihood
+- [Regression to the mean](/hot-hand-fallacy/) — the actual phenomenon being confused with the fallacy
 
 ### Wider context
 
-- [Market timing](/bull-market) — driven partly by gamblers fallacy
-- [Stock picking](/stock) — driven partly by gamblers fallacy
+- [Market timing](/bull-market/) — driven partly by gamblers fallacy
+- [Stock picking](/stock/) — driven partly by gamblers fallacy
 - Behavioral asset pricing — how gamblers fallacy affects prices
-- [Randomness](/beta) — fundamental to understanding markets
-- [Mean reversion](/bond) — the real pattern being confused with the fallacy
+- [Randomness](/beta/) — fundamental to understanding markets
+- [Mean reversion](/bond/) — the real pattern being confused with the fallacy
 
 </div>

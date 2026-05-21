@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **dual listing** (or **cross-listing**) is when a company lists its shares on stock exchanges in multiple jurisdictions, typically in two or more countries. The company issues one class of shares that trade simultaneously on multiple exchanges, allowing investors in different markets to buy and sell the same security. Dual listings enable companies to access capital from multiple countries, increase liquidity, and broaden their investor base. A dual listing differs from a [dual-class share structure](/dual-class-share-structure), which refers to different classes of shares with different voting rights.*
+*A **dual listing** (or **cross-listing**) is when a company lists its shares on stock exchanges in multiple jurisdictions, typically in two or more countries. The company issues one class of shares that trade simultaneously on multiple exchanges, allowing investors in different markets to buy and sell the same security. Dual listings enable companies to access capital from multiple countries, increase liquidity, and broaden their investor base. A dual listing differs from a [dual-class share structure](/dual-class-share-structure/), which refers to different classes of shares with different voting rights.*
 
 <div class="wiki-hatnote">
 
-This entry covers dual listings as a multi-exchange listing strategy. For dual-class voting structures, see [dual-class share structure](/dual-class-share-structure); for single listings, see [initial public offering](/initial-public-offering) and [stock exchange](/stock-exchange).
+This entry covers dual listings as a multi-exchange listing strategy. For dual-class voting structures, see [dual-class share structure](/dual-class-share-structure/); for single listings, see [initial public offering](/initial-public-offering/) and [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -77,7 +77,7 @@ Each exchange operates on its own schedule (US market opens 9:30 AM EST, UK mark
 
 **Currency volatility.** If the two exchanges trade in different currencies (USD in US, CAD in Canada), currency movements between markets can create pricing discrepancies.
 
-**Coordination challenges.** Corporate actions like dividends, stock splits, or [mergers](/merger) must be coordinated across exchanges and jurisdictions.
+**Coordination challenges.** Corporate actions like dividends, stock splits, or [mergers](/merger/) must be coordinated across exchanges and jurisdictions.
 
 ## Types of dual listings
 
@@ -97,9 +97,9 @@ Each exchange operates on its own schedule (US market opens 9:30 AM EST, UK mark
 
 **ASML Holding.** Lists on both Euronext (Amsterdam) and NASDAQ (US).
 
-## Differences from a [DUAL-CLASS SHARE STRUCTURE](/dual-class-share-structure)
+## Differences from a [DUAL-CLASS SHARE STRUCTURE](/dual-class-share-structure/)
 
-Do not confuse a dual listing (same shares on multiple exchanges) with a [dual-class share structure](/dual-class-share-structure) (different share classes with different voting rights). They are unrelated concepts:
+Do not confuse a dual listing (same shares on multiple exchanges) with a [dual-class share structure](/dual-class-share-structure/) (different share classes with different voting rights). They are unrelated concepts:
 
 - **Dual listing:** Same shares, multiple exchanges, different jurisdictions
 - **Dual-class structure:** Different share classes, same exchange, different voting rights
@@ -132,18 +132,18 @@ However, dual listings remain popular for companies with significant operations 
 
 ### Closely related
 
-- [Dual-class share structure](/dual-class-share-structure) — different share classes, not multiple listings
-- [Initial public offering](/initial-public-offering) — first public listing
-- [Stock exchange](/stock-exchange) — venue for trading
-- [Public company](/public-company) — status after listing
+- [Dual-class share structure](/dual-class-share-structure/) — different share classes, not multiple listings
+- [Initial public offering](/initial-public-offering/) — first public listing
+- [Stock exchange](/stock-exchange/) — venue for trading
+- [Public company](/public-company/) — status after listing
 - Cross-border transaction — multi-jurisdictional aspect
 
 ### Wider context
 
 - Shareholder — investors across multiple exchanges
-- [Currency risk](/currency-risk) — factor in multi-exchange trading
+- [Currency risk](/currency-risk/) — factor in multi-exchange trading
 - Global capital markets — context for dual listings
 - Securities regulation — governs multiple listings
-- [Merger](/merger) — corporate action requiring coordination across exchanges
+- [Merger](/merger/) — corporate action requiring coordination across exchanges
 
 </div>

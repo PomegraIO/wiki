@@ -15,7 +15,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-FDIC insurance covers bank deposits only. Investment securities, brokerage accounts, and [mutual funds](/mutual-fund) are not insured. For brokerage accounts, see [SIPC](/securities-investor-protection-corporation).
+FDIC insurance covers bank deposits only. Investment securities, brokerage accounts, and [mutual funds](/mutual-fund/) are not insured. For brokerage accounts, see [SIPC](/securities-investor-protection-corporation/).
 
 </div>
 
@@ -43,13 +43,13 @@ FDIC insurance covers bank deposits only. Investment securities, brokerage accou
 
 The FDIC insures deposits at member banks. A deposit is money held in a checking, savings, or money market account. The coverage limit is $250,000 per account per bank — if you have $300,000 in a checking account and the bank fails, the FDIC pays you $250,000 and you lose $50,000. The limit applies separately by ownership type: you can have $250,000 in a personal account, another $250,000 in a joint account with your spouse, another $250,000 in a trust, and so on, all at the same bank.
 
-Critically, the FDIC does not insure securities. If you buy a stock or [bond](/bond) through your bank, it is not covered. The [Securities Investor Protection Corporation](/securities-investor-protection-corporation) covers that. If you deposit money in a brokerage account held by the bank, the bank's failure does not put your securities at risk — they belong to you and would be transferred to another broker — but the cash in the account is only SIPC-covered to $250,000.
+Critically, the FDIC does not insure securities. If you buy a stock or [bond](/bond/) through your bank, it is not covered. The [Securities Investor Protection Corporation](/securities-investor-protection-corporation/) covers that. If you deposit money in a brokerage account held by the bank, the bank's failure does not put your securities at risk — they belong to you and would be transferred to another broker — but the cash in the account is only SIPC-covered to $250,000.
 
 ## How bank failures work
 
 When a bank's assets fall below its liabilities, it is insolvent. The state banking regulator and the FDIC watch for this. If a bank is in trouble, the FDIC and regulators offer it a chance to merge with a healthier bank (a "assisted transaction") or to raise capital. If neither works, the bank is closed. The FDIC becomes the receiver.
 
-As receiver, the FDIC assumes control of the bank's assets, verifies claims from depositors and creditors, and sells the assets. Depositors are paid first up to the $250,000 limit. Other creditors — bank-issued [bonds](/bond), loans from other banks, suppliers — are paid from what remains, usually for cents on the dollar. Uninsured depositors often lose money.
+As receiver, the FDIC assumes control of the bank's assets, verifies claims from depositors and creditors, and sells the assets. Depositors are paid first up to the $250,000 limit. Other creditors — bank-issued [bonds](/bond/), loans from other banks, suppliers — are paid from what remains, usually for cents on the dollar. Uninsured depositors often lose money.
 
 ## The Deposit Insurance Fund
 
@@ -57,7 +57,7 @@ Member banks pay premiums into the Deposit Insurance Fund. The premium is set an
 
 ## The FDIC as supervisor
 
-The FDIC does not just pay insurance claims; it also supervises banks — a role that brings it into the regulatory structure alongside the [OCC](/office-of-the-comptroller-of-the-currency) (for national banks) and state regulators (for state-chartered banks). The FDIC examines state-chartered, non-member banks. For state-chartered, Fed-member banks, supervision is shared between the FDIC and the Federal Reserve. This overlap creates a complex supervisory structure in which a single bank may be examined by multiple regulators.
+The FDIC does not just pay insurance claims; it also supervises banks — a role that brings it into the regulatory structure alongside the [OCC](/office-of-the-comptroller-of-the-currency/) (for national banks) and state regulators (for state-chartered banks). The FDIC examines state-chartered, non-member banks. For state-chartered, Fed-member banks, supervision is shared between the FDIC and the Federal Reserve. This overlap creates a complex supervisory structure in which a single bank may be examined by multiple regulators.
 
 ## Moral hazard and the deposit insurance debate
 
@@ -71,15 +71,15 @@ Banks respond to this by taking leverage — borrowing aggressively and investin
 
 ### Closely related
 
-- [Securities Investor Protection Corporation](/securities-investor-protection-corporation) — SIPC insures brokerage accounts
-- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency) — supervises national banks
-- [Federal Reserve Supervision](/federal-reserve-supervision) — the Fed supervises state-member banks
+- [Securities Investor Protection Corporation](/securities-investor-protection-corporation/) — SIPC insures brokerage accounts
+- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) — supervises national banks
+- [Federal Reserve Supervision](/federal-reserve-supervision/) — the Fed supervises state-member banks
 - Bank — the insured entity
-- [Bond](/bond) — bank-issued bonds are not insured
+- [Bond](/bond/) — bank-issued bonds are not insured
 
 ### Wider context
 
-- [Central bank](/central-bank) — works with FDIC on financial stability
+- [Central bank](/central-bank/) — works with FDIC on financial stability
 - Financial crisis — the FDIC is tested during crises
 - Moral hazard — insurance creates incentive distortions
 - Credit — the lifeblood of banks

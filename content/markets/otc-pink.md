@@ -15,7 +15,7 @@ image: "/svg/markets.svg"
 
 <div class="wiki-hatnote">
 
-This entry is about the loosest tier of OTC trading. For higher-standard tiers, see [OTCQB](/otc-otcqb) and [OTCQX](/otc-otcqx); for the broader OTC market, see [over-the-counter market](/over-the-counter-market).
+This entry is about the loosest tier of OTC trading. For higher-standard tiers, see [OTCQB](/otc-otcqb/) and [OTCQX](/otc-otcqx/); for the broader OTC market, see [over-the-counter market](/over-the-counter-market/).
 
 </div>
 
@@ -57,7 +57,7 @@ Companies trading on OTC Pink include:
 
 OTC Pink companies have no mandatory filing or disclosure requirements. A company may issue shares, list them on OTC Pink, and tell the public nothing about its finances, management, or operations. Investors must rely on company-provided press releases, websites, and the company's own disclosures — if any.
 
-This contrasts sharply with [OTCQB](/otc-otcqb) and [OTCQX](/otc-otcqx), where companies must file audited financial statements or file with the SEC.
+This contrasts sharply with [OTCQB](/otc-otcqb/) and [OTCQX](/otc-otcqx/), where companies must file audited financial statements or file with the SEC.
 
 ## Pricing and spreads
 
@@ -67,7 +67,7 @@ Bid-ask spreads reflect the illiquidity and information asymmetry. A stock quote
 
 ## Penny stocks and the anatomy of fraud
 
-"Penny stocks" are [OTC Pink](/otc-pink) stocks trading below $5 per share, typically the lowest-tier and most speculative. They are popular targets for pump-and-dump schemes:
+"Penny stocks" are [OTC Pink](/otc-pink/) stocks trading below $5 per share, typically the lowest-tier and most speculative. They are popular targets for pump-and-dump schemes:
 
 1. Insiders or promoters acquire shares cheaply (or issue new shares to themselves at low prices).
 2. They hire promoters to hype the stock online, in chat rooms, or through email spam: "Hot tip! This biotech stock has breakthrough cancer cure!"
@@ -108,7 +108,7 @@ Delinquent or no-information companies are even riskier; investors have no offic
 
 The SEC regulates OTC Pink markets and enforces anti-fraud rules, but enforcement is resource-limited. The agency focuses on the largest frauds and most egregious manipulations. Millions of smaller OTC Pink schemes go unpunished.
 
-The [FINRA](/broker) rule book and SEC rules prohibit market manipulation and fraud in OTC Pink, but prosecution requires investigation and proof. By the time the SEC has built a case, insiders are often long gone, and money is difficult to recover.
+The [FINRA](/broker/) rule book and SEC rules prohibit market manipulation and fraud in OTC Pink, but prosecution requires investigation and proof. By the time the SEC has built a case, insiders are often long gone, and money is difficult to recover.
 
 Self-regulatory organizations like FINRA conduct limited surveillance of OTC Pink, but it is not a priority.
 
@@ -128,18 +128,18 @@ Investors who venture into OTC Pink should:
 
 ### Closely related
 
-- [Over-the-counter market](/over-the-counter-market) — OTC Pink is a tier within
-- [OTCQB](/otc-otcqb) — higher-standard tier
-- [OTCQX](/otc-otcqx) — highest OTC tier
-- [Unlisted market](/unlisted-market) — broader category
-- [Stock exchange](/stock-exchange) — the regulated alternative
+- [Over-the-counter market](/over-the-counter-market/) — OTC Pink is a tier within
+- [OTCQB](/otc-otcqb/) — higher-standard tier
+- [OTCQX](/otc-otcqx/) — highest OTC tier
+- [Unlisted market](/unlisted-market/) — broader category
+- [Stock exchange](/stock-exchange/) — the regulated alternative
 
 ### Wider context
 
-- [Fraud](/otc-pink) — the primary risk in OTC Pink
-- [Liquidity](/secondary-market) — scarce in OTC Pink
-- [Penny stock](/otc-pink) — typical OTC Pink holding
-- [Short selling](/short-selling) — used to combat OTC Pink fraud
-- [Diversification](/diversification) — essential risk management for speculators
+- [Fraud](/otc-pink/) — the primary risk in OTC Pink
+- [Liquidity](/secondary-market/) — scarce in OTC Pink
+- [Penny stock](/otc-pink/) — typical OTC Pink holding
+- [Short selling](/short-selling/) — used to combat OTC Pink fraud
+- [Diversification](/diversification/) — essential risk management for speculators
 
 </div>

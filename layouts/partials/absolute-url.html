@@ -1,0 +1,15 @@
+{{/* Build an absolute URL that correctly includes the baseURL path.
+
+     Hugo's built-in `absURL` strips the baseURL path when its argument
+     starts with `/` — e.g. with baseURL `https://pomegra.io/wiki/`,
+     `"/svg/x.svg" | absURL` produces `https://pomegra.io/svg/x.svg`
+     instead of `https://pomegra.io/wiki/svg/x.svg`. That's a bug for
+     sub-path deployments (the wiki lives under /wiki/).
+
+     Usage:  {{ partial "absolute-url.html" "/svg/x.svg" }}
+*/}}
+{{- $u := . -}}
+{{- if hasPrefix $u "http://" -}}{{ $u }}{{- else if hasPrefix $u "https://" -}}{{ $u }}{{- else -}}
+  {{- $trimmed := strings.TrimPrefix "/" $u -}}
+  {{- printf "%s%s" site.BaseURL $trimmed -}}
+{{- end -}}

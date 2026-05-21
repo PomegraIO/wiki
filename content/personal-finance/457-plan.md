@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **457 plan** is a retirement account available to employees of state and local governments and some nonprofits. Like a [401(k)](/401k-plan), it allows pre-tax contributions, but with unique advantages: the same contribution limit as a [401(k)](/401k-plan), plus the ability to withdraw funds upon separation from service without the typical 10% early-withdrawal penalty.*
+*A **457 plan** is a retirement account available to employees of state and local governments and some nonprofits. Like a [401(k)](/401k-plan/), it allows pre-tax contributions, but with unique advantages: the same contribution limit as a [401(k)](/401k-plan/), plus the ability to withdraw funds upon separation from service without the typical 10% early-withdrawal penalty.*
 
 <div class="wiki-hatnote">
 
-For federal employees, see the Thrift Savings Plan (not covered here); for private-sector employees, see [401(k) plan](/401k-plan); for nonprofit employees, see [403(b) plan](/403b-plan).
+For federal employees, see the Thrift Savings Plan (not covered here); for private-sector employees, see [401(k) plan](/401k-plan/); for nonprofit employees, see [403(b) plan](/403b-plan/).
 
 </div>
 
@@ -43,7 +43,7 @@ For federal employees, see the Thrift Savings Plan (not covered here); for priva
 
 A 457 plan is a deferred compensation plan for government and some nonprofit employees. You contribute pre-tax salary (up to $23,500 for 2024), and your employer may add matching contributions. The money grows tax-deferred and is withdrawn in retirement.
 
-The major difference from a [401(k)](/401k-plan) is the withdrawal rule: when you separate from service (retire, change jobs), you can withdraw your 457 balance without the typical 10% early-withdrawal penalty, regardless of age. This is unique and valuable.
+The major difference from a [401(k)](/401k-plan/) is the withdrawal rule: when you separate from service (retire, change jobs), you can withdraw your 457 balance without the typical 10% early-withdrawal penalty, regardless of age. This is unique and valuable.
 
 ## Who can participate
 
@@ -61,7 +61,7 @@ If your employer is a state or local government agency, you are likely eligible.
 
 ## Key advantage: penalty-free withdrawal at separation
 
-Unlike a [401(k)](/401k-plan), where early withdrawals (before 59½) trigger a 10% penalty, a 457 allows you to withdraw without penalty if you separate from service, even if you are 35 or 40.
+Unlike a [401(k)](/401k-plan/), where early withdrawals (before 59½) trigger a 10% penalty, a 457 allows you to withdraw without penalty if you separate from service, even if you are 35 or 40.
 
 Example: You are a city employee, age 45, and leave your job. Your 457 balance can be withdrawn penalty-free. (Income taxes still apply, but not the 10% penalty.) This is powerful for government workers considering mid-career transitions.
 
@@ -73,11 +73,11 @@ In addition to the standard $7,500 catch-up for those 50+, 457 plans allow an ex
 
 If you change government jobs (city to county, state to local), you can usually roll your 457(b) balance to the new employer's 457(b) without triggering taxes or penalties.
 
-If you leave government service entirely, you can roll the 457(b) to an [IRA](/traditional-ira) or, in some cases, to a [401(k)](/401k-plan).
+If you leave government service entirely, you can roll the 457(b) to an [IRA](/traditional-ira/) or, in some cases, to a [401(k)](/401k-plan/).
 
 ## RMD and longevity
 
-[Required minimum distributions](/required-minimum-distribution-personal) (RMD) begin at age 73. However, if you are still working at a 457-eligible employer and do not own 5%+ of it, you may be able to defer RMDs until you actually retire.
+[Required minimum distributions](/required-minimum-distribution-personal/) (RMD) begin at age 73. However, if you are still working at a 457-eligible employer and do not own 5%+ of it, you may be able to defer RMDs until you actually retire.
 
 ## See also
 
@@ -85,16 +85,16 @@ If you leave government service entirely, you can roll the 457(b) to an [IRA](/t
 
 ### Closely related
 
-- [401(k) plan](/401k-plan) — similar plan for private-sector employees
-- [403(b) plan](/403b-plan) — alternative for nonprofit employees
-- [Traditional IRA](/traditional-ira) — individual alternative (457 can roll to IRA)
-- [Required minimum distribution](/required-minimum-distribution-personal) — mandatory withdrawals
+- [401(k) plan](/401k-plan/) — similar plan for private-sector employees
+- [403(b) plan](/403b-plan/) — alternative for nonprofit employees
+- [Traditional IRA](/traditional-ira/) — individual alternative (457 can roll to IRA)
+- [Required minimum distribution](/required-minimum-distribution-personal/) — mandatory withdrawals
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — 457 withdrawal flexibility supports early retirement
-- [The four-percent rule](/the-four-percent-rule) — how much 457 can sustain
-- [Compound interest](/compound-interest) — long-term growth
+- [FIRE movement](/fire-movement/) — 457 withdrawal flexibility supports early retirement
+- [The four-percent rule](/the-four-percent-rule/) — how much 457 can sustain
+- [Compound interest](/compound-interest/) — long-term growth
 - Pension — alternative (not covered; some government workers have pensions)
 
 </div>

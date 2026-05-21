@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to selective attention and motivated reasoning. For the failure to update beliefs given new data, see [Bayesian reasoning](/base-rate-neglect).
+Related to selective attention and motivated reasoning. For the failure to update beliefs given new data, see [Bayesian reasoning](/base-rate-neglect/).
 
 </div>
 
@@ -57,9 +57,9 @@ Consider a tech investor who bought a stock at $100 believing the company would 
 - Read only the analyses predicting recovery
 - Interpret falling revenue as "temporary market share shift" rather than demand collapse
 - Remember the company's occasional wins and forget its recent misses
-- Become *more* confident, not less, as the stock falls (a phenomenon called [overconfidence bias](/overconfidence-bias))
+- Become *more* confident, not less, as the stock falls (a phenomenon called [overconfidence bias](/overconfidence-bias/))
 
-This is how [sunk-cost fallacy](/sunk-cost-fallacy) and confirmation bias work together to trap capital in bad positions.
+This is how [sunk-cost fallacy](/sunk-cost-fallacy/) and confirmation bias work together to trap capital in bad positions.
 
 ## The role of emotion
 
@@ -69,9 +69,9 @@ The stronger you feel about a belief — the more identity is wrapped up in it �
 
 ## Confirmation bias vs. other biases
 
-Confirmation bias is distinct from [recency bias](/recency-bias), which is overweighting recent evidence. You can have both: recent evidence that contradicts your belief will be dismissed or reinterpreted thanks to confirmation bias.
+Confirmation bias is distinct from [recency bias](/recency-bias/), which is overweighting recent evidence. You can have both: recent evidence that contradicts your belief will be dismissed or reinterpreted thanks to confirmation bias.
 
-It differs from [overconfidence bias](/overconfidence-bias) in that confirmation bias is about how you *process* information, while overconfidence bias is about your final *assessment* of your own knowledge. But they reinforce each other: confirmation bias builds the confirming evidence pile that supports overconfidence.
+It differs from [overconfidence bias](/overconfidence-bias/) in that confirmation bias is about how you *process* information, while overconfidence bias is about your final *assessment* of your own knowledge. But they reinforce each other: confirmation bias builds the confirming evidence pile that supports overconfidence.
 
 ## Defenses against confirmation bias
 
@@ -80,7 +80,7 @@ Since confirmation bias is unconscious, willpower alone will not stop it. Instea
 - **Seek disconfirming evidence deliberately.** Ask "what would prove me wrong?" and then look for that evidence. Make it a formal part of your investment process.
 - **Use a pre-commitment device.** Before you invest, write down your thesis and your exit criteria. What would cause you to sell? Review that document when the stock moves against you.
 - **Expose yourself to diverse opinions.** Read the bears as well as the bulls. Follow analysts and investors who disagree with you. The friction of opposing views reduces confirmation bias.
-- **Use a [decision-making framework](/asset-allocation)** based on rules rather than judgment. Rebalancing formulas, position sizing limits, and [stop-loss orders](/short-selling) bypass confirmation bias because they do not ask what you believe — they ask what the rules say.
+- **Use a [decision-making framework](/asset-allocation/)** based on rules rather than judgment. Rebalancing formulas, position sizing limits, and [stop-loss orders](/short-selling/) bypass confirmation bias because they do not ask what you believe — they ask what the rules say.
 - **Rotate your investment committee.** Professional teams make better decisions when members take turns arguing against the consensus.
 
 ## See also
@@ -89,18 +89,18 @@ Since confirmation bias is unconscious, willpower alone will not stop it. Instea
 
 ### Closely related
 
-- [Overconfidence bias](/overconfidence-bias) — excessive belief in your own judgment
-- [Sunk cost fallacy](/sunk-cost-fallacy) — throwing good money after bad
-- [Hindsight bias](/hindsight-bias) — distorted memory of past predictions
-- [Recency bias](/recency-bias) — overweighting recent evidence
-- [Availability heuristic](/availability-heuristic) — judging by what comes to mind
+- [Overconfidence bias](/overconfidence-bias/) — excessive belief in your own judgment
+- [Sunk cost fallacy](/sunk-cost-fallacy/) — throwing good money after bad
+- [Hindsight bias](/hindsight-bias/) — distorted memory of past predictions
+- [Recency bias](/recency-bias/) — overweighting recent evidence
+- [Availability heuristic](/availability-heuristic/) — judging by what comes to mind
 
 ### Wider context
 
-- [Base rate neglect](/base-rate-neglect) — ignoring baseline probability
-- [Representativeness heuristic](/representativeness-heuristic) — judging by similarity
+- [Base rate neglect](/base-rate-neglect/) — ignoring baseline probability
+- [Representativeness heuristic](/representativeness-heuristic/) — judging by similarity
 - Behavioral portfolio theory — how biases shape real portfolios
-- [Prospect theory](/prospect-theory) — the broader framework of non-rational choice
+- [Prospect theory](/prospect-theory/) — the broader framework of non-rational choice
 - Market sentiment indicators — how collective bias moves markets
 
 </div>

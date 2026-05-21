@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[MiFID II](/mifid-ii) is the Markets in Financial Instruments Directive II, the European Union's comprehensive regulation of securities markets. Implemented in 2018, it replaces and expands the original MiFID (2007). MiFID II harmonizes rules across EU member states, imposing requirements on brokers to execute trades at best prices, disclose fees transparently, categorize clients (and provide corresponding protection), and maintain systems to prevent market abuse. It is the European equivalent of [SEC](/securities-and-exchange-commission) and FINRA regulation in the US.*
+*[MiFID II](/mifid-ii/) is the Markets in Financial Instruments Directive II, the European Union's comprehensive regulation of securities markets. Implemented in 2018, it replaces and expands the original MiFID (2007). MiFID II harmonizes rules across EU member states, imposing requirements on brokers to execute trades at best prices, disclose fees transparently, categorize clients (and provide corresponding protection), and maintain systems to prevent market abuse. It is the European equivalent of [SEC](/securities-and-exchange-commission/) and FINRA regulation in the US.*
 
 <div class="wiki-hatnote">
 
@@ -33,7 +33,7 @@ MiFID II applies in the European Union and European Economic Area. The UK left t
 | **Scope** | EU and EEA financial instruments and trading |
 | **Key rules** | Best execution, cost transparency, client categorization, market abuse prevention |
 | **Regulatory body** | ESMA (European Securities and Markets Authority) and national regulators |
-| **Related** | [EMIR](/emir) (derivatives), GDPR (data protection) |
+| **Related** | [EMIR](/emir/) (derivatives), GDPR (data protection) |
 
 </aside>
 
@@ -55,7 +55,7 @@ This tiering is designed to tailor protection to client sophistication.
 
 ## Conflict of interest controls
 
-Brokers must identify and manage conflicts of interest, similar to requirements in the US under [Regulation Best Interest](/regulation-best-interest). MiFID II requires:
+Brokers must identify and manage conflicts of interest, similar to requirements in the US under [Regulation Best Interest](/regulation-best-interest/). MiFID II requires:
 
 - Documentation of conflicts
 - Procedures to avoid or mitigate conflicts
@@ -82,7 +82,7 @@ This creates some fragmentation — interpretations can vary by country. A pract
 
 ## Comparison to US regulation
 
-MiFID II is more prescriptive than US regulation in some ways (more detailed on best execution, cost transparency) and less in others (the [Dodd-Frank Act](/dodd-frank-act) created more post-trade regulation of derivatives). MiFID II is also enforced more aggressively — ESMA has brought major enforcement actions against market participants.
+MiFID II is more prescriptive than US regulation in some ways (more detailed on best execution, cost transparency) and less in others (the [Dodd-Frank Act](/dodd-frank-act/) created more post-trade regulation of derivatives). MiFID II is also enforced more aggressively — ESMA has brought major enforcement actions against market participants.
 
 ## See also
 
@@ -90,16 +90,16 @@ MiFID II is more prescriptive than US regulation in some ways (more detailed on 
 
 ### Closely related
 
-- [EMIR](/emir) — EU derivatives regulation, complements MiFID II
+- [EMIR](/emir/) — EU derivatives regulation, complements MiFID II
 - GDPR — data protection, overlaps with MiFID II
-- [Best execution](/best-execution) — MiFID II requirement
+- [Best execution](/best-execution/) — MiFID II requirement
 - Conflict of interest — MiFID II focus
 - European Securities and Markets Authority — administers MiFID II
 
 ### Wider context
 
-- [Broker](/broker) — regulated entity
-- [Stock exchange](/stock-exchange) — regulated venue
+- [Broker](/broker/) — regulated entity
+- [Stock exchange](/stock-exchange/) — regulated venue
 - Market abuse — MiFID II targets
 - Regulation — harmonized across EU
 

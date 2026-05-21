@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Euronext** exchange group operates the stock exchanges of Paris (Euronext Paris, the largest), Amsterdam, Brussels, Dublin, and Lisbon. Born from the merger of those regional exchanges and the later consolidation of Euronext with the New York Stock Exchange (NYSE Euronext, later separated), Euronext is one of Europe's largest [stock exchange](/stock-exchange) operators and home to the continent's major multinational corporations.*
+*The **Euronext** exchange group operates the stock exchanges of Paris (Euronext Paris, the largest), Amsterdam, Brussels, Dublin, and Lisbon. Born from the merger of those regional exchanges and the later consolidation of Euronext with the New York Stock Exchange (NYSE Euronext, later separated), Euronext is one of Europe's largest [stock exchange](/stock-exchange/) operators and home to the continent's major multinational corporations.*
 
 <div class="wiki-hatnote">
 
@@ -44,13 +44,13 @@ Euronext was briefly merged with the NYSE from 2007 to 2012 as NYSE Euronext bef
 
 Euronext was created in September 2000 through the merger of the Paris Bourse, Amsterdam Exchanges, and Brussels Exchanges. The consolidation was motivated by globalization and the rise of large multinational firms that no longer fit into single national exchanges. The merger proved successful, and Euronext subsequently added Lisbon (2002) and Dublin (2018), creating a truly pan-European exchange group.
 
-The merger coincided with the early years of the eurozone (created in 1999), which created political momentum for consolidating European financial infrastructure. Euronext's creation was part of a broader effort to integrate European capital markets and create financial institutions that could compete globally with the [New York Stock Exchange](/new-york-stock-exchange) and other dominant American venues.
+The merger coincided with the early years of the eurozone (created in 1999), which created political momentum for consolidating European financial infrastructure. Euronext's creation was part of a broader effort to integrate European capital markets and create financial institutions that could compete globally with the [New York Stock Exchange](/new-york-stock-exchange/) and other dominant American venues.
 
 ## Euronext Paris and the CAC 40
 
 Euronext Paris is the largest of the five Euronext exchanges and hosts the CAC 40 index, comprising the 40 largest French companies. The CAC includes multinational industrial firms (LVMH luxury goods, Total Energies oil, Sanofi pharmaceuticals), banks (BNP Paribas, Société Générale), and utilities (EDF). The index is watched globally as a barometer of French and broader Eurozone economic health.
 
-The Paris exchange's listing standards are stringent, comparable to the [New York Stock Exchange](/new-york-stock-exchange), and the exchange maintains a prestigious listing segment (the compartment A) for the most established firms. Smaller or earlier-stage companies can list on alternative segments.
+The Paris exchange's listing standards are stringent, comparable to the [New York Stock Exchange](/new-york-stock-exchange/), and the exchange maintains a prestigious listing segment (the compartment A) for the most established firms. Smaller or earlier-stage companies can list on alternative segments.
 
 ## Pan-European scope and regional exchanges
 
@@ -72,11 +72,11 @@ This multilayered regulatory approach reflects the tension between national fina
 
 ## Derivatives and market extensions
 
-In addition to equities, Euronext operates derivatives markets, fixed-income venues, and commodity trading platforms. The exchange has vertically integrated into clearing through Euronext Clearing and settlement services. This extends Euronext's reach beyond equities into a full financial infrastructure role similar to that of [Deutsche Börse](/frankfurt-stock-exchange-deutsche-borse).
+In addition to equities, Euronext operates derivatives markets, fixed-income venues, and commodity trading platforms. The exchange has vertically integrated into clearing through Euronext Clearing and settlement services. This extends Euronext's reach beyond equities into a full financial infrastructure role similar to that of [Deutsche Börse](/frankfurt-stock-exchange-deutsche-borse/).
 
 ## Brief NYSE era (2007-2012)
 
-From 2007 to 2012, Euronext was merged with the [New York Stock Exchange](/new-york-stock-exchange) to form NYSE Euronext. That merger was intended to create a truly global exchange, but it proved difficult to integrate and faced regulatory challenges. In 2012, Intercontinental Exchange acquired NYSE while Euronext spun back out as an independent entity. That separation restored Euronext to European ownership and management, which proved more popular with European stakeholders.
+From 2007 to 2012, Euronext was merged with the [New York Stock Exchange](/new-york-stock-exchange/) to form NYSE Euronext. That merger was intended to create a truly global exchange, but it proved difficult to integrate and faced regulatory challenges. In 2012, Intercontinental Exchange acquired NYSE while Euronext spun back out as an independent entity. That separation restored Euronext to European ownership and management, which proved more popular with European stakeholders.
 
 ## See also
 
@@ -84,19 +84,19 @@ From 2007 to 2012, Euronext was merged with the [New York Stock Exchange](/new-y
 
 ### Closely related
 
-- [New York Stock Exchange](/new-york-stock-exchange) — major global exchange
-- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse) — largest German exchange
-- [London Stock Exchange](/london-stock-exchange) — largest European exchange
-- [Stock exchange](/stock-exchange) — the category
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [New York Stock Exchange](/new-york-stock-exchange/) — major global exchange
+- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse/) — largest German exchange
+- [London Stock Exchange](/london-stock-exchange/) — largest European exchange
+- [Stock exchange](/stock-exchange/) — the category
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
 - Institutional investor — participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Public company](/public-company) — corporations listed
-- [Central bank](/central-bank) — European Central Bank context
-- [Index fund](/index-fund) — CAC 40 tracking products
+- [Asset allocation](/asset-allocation/) — positioning
+- [Public company](/public-company/) — corporations listed
+- [Central bank](/central-bank/) — European Central Bank context
+- [Index fund](/index-fund/) — CAC 40 tracking products
 
 </div>

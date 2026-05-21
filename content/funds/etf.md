@@ -10,11 +10,11 @@ keywords:
   - low-cost investing
 image: "/svg/funds.svg"
 ---
-*An **ETF**, or **exchange-traded fund**, is a basket of securities bundled into a single ticker that trades on a [stock exchange](/stock-exchange) just like a [stock](/stock). Most ETFs track a published index — the S&P 500, the total stock market, a bond index, emerging markets — holding all (or a representative sample) of the securities in that index. ETFs are now the dominant vehicle through which retail investors own diversified portfolios.*
+*An **ETF**, or **exchange-traded fund**, is a basket of securities bundled into a single ticker that trades on a [stock exchange](/stock-exchange/) just like a [stock](/stock/). Most ETFs track a published index — the S&P 500, the total stock market, a bond index, emerging markets — holding all (or a representative sample) of the securities in that index. ETFs are now the dominant vehicle through which retail investors own diversified portfolios.*
 
 <div class="wiki-hatnote">
 
-This entry is about ETFs as investment vehicles. For the traditional pooled fund alternative, see [mutual fund](/mutual-fund); for a thematic index fund that does not trade on an exchange, see [index fund](/index-fund).
+This entry is about ETFs as investment vehicles. For the traditional pooled fund alternative, see [mutual fund](/mutual-fund/); for a thematic index fund that does not trade on an exchange, see [index fund](/index-fund/).
 
 </div>
 
@@ -31,7 +31,7 @@ This entry is about ETFs as investment vehicles. For the traditional pooled fund
 | **What it is** | A pooled fund trading on an exchange |
 | **Also called** | Exchange-traded fund |
 | **Underlying** | Usually an index of stocks or bonds |
-| **How traded** | Like a [stock](/stock); during market hours |
+| **How traded** | Like a [stock](/stock/); during market hours |
 | **Price** | Tracked closely to net asset value |
 | **Costs** | Typically 0.03–0.20% annually |
 | **Settlement** | T+2 (two days) like stocks |
@@ -43,7 +43,7 @@ This entry is about ETFs as investment vehicles. For the traditional pooled fund
 
 ## The ETF structure: simple from the outside, elegant inside
 
-An ETF looks simple from the investor's perspective. You see a ticker symbol — SPY, QQQ, VTI — you check the price on your broker, and you buy or sell shares. You own a piece of a basket of [stocks](/stock) or bonds.
+An ETF looks simple from the investor's perspective. You see a ticker symbol — SPY, QQQ, VTI — you check the price on your broker, and you buy or sell shares. You own a piece of a basket of [stocks](/stock/) or bonds.
 
 What makes ETFs special is the mechanism underneath. An ETF holds dozens, hundreds, or even thousands of securities, and the ETF's share price stays locked very close to the **net asset value** (NAV) — the total value of all the securities inside, divided by the shares outstanding. How is this closeness maintained?
 
@@ -53,7 +53,7 @@ This mechanism is invisible to the retail investor but enormously powerful. It m
 
 ## Why ETFs beat mutual funds
 
-Until the 1990s, the pooled vehicle of choice was the [mutual fund](/mutual-fund). Mutual funds still exist and can be excellent, but ETFs have largely displaced them for straightforward index tracking. Three reasons:
+Until the 1990s, the pooled vehicle of choice was the [mutual fund](/mutual-fund/). Mutual funds still exist and can be excellent, but ETFs have largely displaced them for straightforward index tracking. Three reasons:
 
 **Trading flexibility.** You can buy or sell an ETF any time during market hours. A mutual fund prices once a day, after the market closes. If you want to sell on a sudden market decline, an ETF lets you do it in real time; a mutual fund makes you wait.
 
@@ -84,22 +84,22 @@ Buying and selling an ETF can also trigger **trading costs** — the bid-ask spr
 
 ## ETFs in a portfolio: the backbone of diversification
 
-For most retail investors, [diversification](/diversification) today means buying a handful of ETFs. A simple portfolio might be:
+For most retail investors, [diversification](/diversification/) today means buying a handful of ETFs. A simple portfolio might be:
 
 - A total US stock market ETF (covering thousands of companies)
 - A total international stock market ETF
 - A bond index ETF
 - Optionally, a real estate or commodities ETF
 
-With five ETF purchases and minimal cost, you own a globally diversified portfolio that tracks the underlying markets. This is vastly easier and cheaper than what it would have been thirty years ago, when index [index funds](/index-fund) existed but were bulky and expensive, and tracking a global portfolio meant owning dozens of individual [stocks](/stock).
+With five ETF purchases and minimal cost, you own a globally diversified portfolio that tracks the underlying markets. This is vastly easier and cheaper than what it would have been thirty years ago, when index [index funds](/index-fund/) existed but were bulky and expensive, and tracking a global portfolio meant owning dozens of individual [stocks](/stock/).
 
-ETFs are also useful for tactical positioning. If you believe a particular sector will outperform, you can buy a sector ETF. If you want emerging market exposure, you can buy an emerging market ETF. This flexibility makes ETFs a powerful tool for executing [asset allocation](/asset-allocation) decisions.
+ETFs are also useful for tactical positioning. If you believe a particular sector will outperform, you can buy a sector ETF. If you want emerging market exposure, you can buy an emerging market ETF. This flexibility makes ETFs a powerful tool for executing [asset allocation](/asset-allocation/) decisions.
 
 ## Trading and tax considerations
 
-Because ETFs trade like [stocks](/stock), you can place limit orders, short them, and even buy call and put [options](/option) on many ETFs. For most investors, this complexity is unnecessary; buy and hold is the right strategy. But the flexibility exists if you need it.
+Because ETFs trade like [stocks](/stock/), you can place limit orders, short them, and even buy call and put [options](/option/) on many ETFs. For most investors, this complexity is unnecessary; buy and hold is the right strategy. But the flexibility exists if you need it.
 
-From a tax perspective, ETFs in a taxable account are superior to mutual funds because of their structure. If you are investing through a 401(k) or IRA, the difference is moot — all [capital gains](/stock) are already tax-deferred or tax-free.
+From a tax perspective, ETFs in a taxable account are superior to mutual funds because of their structure. If you are investing through a 401(k) or IRA, the difference is moot — all [capital gains](/stock/) are already tax-deferred or tax-free.
 
 ## See also
 
@@ -107,18 +107,18 @@ From a tax perspective, ETFs in a taxable account are superior to mutual funds b
 
 ### Closely related
 
-- [Index fund](/index-fund) — the non-traded cousin of an ETF
-- [Mutual fund](/mutual-fund) — the pre-ETF pooled vehicle
-- [Stock](/stock) — the individual securities inside an ETF
-- [Dividend](/dividend) — distributions from an ETF's holdings
-- [Net asset value](/etf) — the intrinsic value an ETF's price tracks
+- [Index fund](/index-fund/) — the non-traded cousin of an ETF
+- [Mutual fund](/mutual-fund/) — the pre-ETF pooled vehicle
+- [Stock](/stock/) — the individual securities inside an ETF
+- [Dividend](/dividend/) — distributions from an ETF's holdings
+- [Net asset value](/etf/) — the intrinsic value an ETF's price tracks
 
 ### Wider context
 
-- [Stock market](/stock-market) — where ETFs trade
-- [Diversification](/diversification) — the main reason to own ETFs
-- [Asset allocation](/asset-allocation) — executed using ETFs
-- [Inflation](/inflation) — why low-cost ETFs are critical for long-term purchasing power
-- [Compound interest](/compound-interest) — fee savings compound over decades
+- [Stock market](/stock-market/) — where ETFs trade
+- [Diversification](/diversification/) — the main reason to own ETFs
+- [Asset allocation](/asset-allocation/) — executed using ETFs
+- [Inflation](/inflation/) — why low-cost ETFs are critical for long-term purchasing power
+- [Compound interest](/compound-interest/) — fee savings compound over decades
 
 </div>

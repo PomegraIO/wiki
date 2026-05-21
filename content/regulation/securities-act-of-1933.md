@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Securities Act of 1933** is the foundational US law governing the [initial public offering](/initial-public-offering) of securities. It requires that any company wanting to sell securities to the public must first register with the [SEC](/securities-and-exchange-commission), disclose material information, and issue a prospectus. The Act's core principle is transparency: let the buyer beware, but only after the seller has told the truth.*
+*The **Securities Act of 1933** is the foundational US law governing the [initial public offering](/initial-public-offering/) of securities. It requires that any company wanting to sell securities to the public must first register with the [SEC](/securities-and-exchange-commission/), disclose material information, and issue a prospectus. The Act's core principle is transparency: let the buyer beware, but only after the seller has told the truth.*
 
 <div class="wiki-hatnote">
 
-The Securities Act of 1933 governs the offer and sale of new securities (primary offerings). The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) governs the secondary market (trading of already-issued securities).
+The Securities Act of 1933 governs the offer and sale of new securities (primary offerings). The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) governs the secondary market (trading of already-issued securities).
 
 </div>
 
@@ -30,7 +30,7 @@ The Securities Act of 1933 governs the offer and sale of new securities (primary
 |---|---|
 | **Enacted** | May 27, 1933 |
 | **Jurisdiction** | US securities offerings |
-| **Administering agency** | [SEC](/securities-and-exchange-commission) |
+| **Administering agency** | [SEC](/securities-and-exchange-commission/) |
 | **Core requirement** | Registration and disclosure before offering securities |
 | **Key forms** | Form S-1 (general company IPO), Form S-3 (well-known issuers), Form S-4 (M&A) |
 | **Liability** | Issuer strictly liable for misstatement; underwriters liable for negligence |
@@ -49,7 +49,7 @@ The Act imposes a "quiet period" under Section 5. Before a registration statemen
 
 ## Exemptions from registration
 
-Not every offering must be registered. The Act provides exemptions for small offerings (Regulation A allows offerings up to $75 million under a simplified process; Regulation D allows private sales to accredited investors), sales to sophisticated investors, and intra-state offerings. The [JOBS Act](/jobs-act) (2012) added Regulation Crowdfunding, allowing small companies to raise up to $5 million from many small investors online.
+Not every offering must be registered. The Act provides exemptions for small offerings (Regulation A allows offerings up to $75 million under a simplified process; Regulation D allows private sales to accredited investors), sales to sophisticated investors, and intra-state offerings. The [JOBS Act](/jobs-act/) (2012) added Regulation Crowdfunding, allowing small companies to raise up to $5 million from many small investors online.
 
 These exemptions are important because registration is expensive — legal and accounting fees can run into the millions. A small company might prefer to raise from a few wealthy investors (private placement) rather than go public. But the exemptions carry a price: investors in exempt offerings have fewer protections and less information.
 
@@ -65,7 +65,7 @@ The Act also regulates the secondary market — the trading of securities after 
 
 ## Modern challenges: disclosure overload and cyber-risk
 
-The Act has been amended many times. The [Sarbanes-Oxley Act](/sarbanes-oxley-act) (2002) required additional disclosures on internal controls and executive compensation. The SEC has also required disclosure of cyber-risks, climate impacts, and executive conflicts. Critics argue that prospectuses have become so long and dense that average investors do not read them and cannot extract key information. Defenders argue that comprehensive disclosure is the only way to level the playing field between sophisticated institutional investors and retail investors.
+The Act has been amended many times. The [Sarbanes-Oxley Act](/sarbanes-oxley-act/) (2002) required additional disclosures on internal controls and executive compensation. The SEC has also required disclosure of cyber-risks, climate impacts, and executive conflicts. Critics argue that prospectuses have become so long and dense that average investors do not read them and cannot extract key information. Defenders argue that comprehensive disclosure is the only way to level the playing field between sophisticated institutional investors and retail investors.
 
 ## See also
 
@@ -73,17 +73,17 @@ The Act has been amended many times. The [Sarbanes-Oxley Act](/sarbanes-oxley-ac
 
 ### Closely related
 
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — regulates secondary market trading
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers the Act
-- [Initial public offering](/initial-public-offering) — the event governed by the Act
-- [Regulation D](/regulation-d) — exemption for private offerings
-- [JOBS Act](/jobs-act) — modernized exemptions
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — regulates secondary market trading
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers the Act
+- [Initial public offering](/initial-public-offering/) — the event governed by the Act
+- [Regulation D](/regulation-d/) — exemption for private offerings
+- [JOBS Act](/jobs-act/) — modernized exemptions
 
 ### Wider context
 
-- [Public company](/public-company) — the entity created
+- [Public company](/public-company/) — the entity created
 - Prospectus — the key document
 - Fraud — what the Act prohibits
-- [Stock market](/stock-market) — where securities are traded
+- [Stock market](/stock-market/) — where securities are traded
 
 </div>

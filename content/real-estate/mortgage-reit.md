@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*A **mortgage REIT** is a publicly traded company that holds mortgages or mortgage-backed securities ([MBS](/mortgage-backed-security)) and distributes its interest income to shareholders. Unlike an [equity REIT](/equity-reit), which owns physical buildings, a mortgage REIT is a financial intermediary — it borrows at one rate and lends at another, capturing the spread.*
+*A **mortgage REIT** is a publicly traded company that holds mortgages or mortgage-backed securities ([MBS](/mortgage-backed-security/)) and distributes its interest income to shareholders. Unlike an [equity REIT](/equity-reit/), which owns physical buildings, a mortgage REIT is a financial intermediary — it borrows at one rate and lends at another, capturing the spread.*
 
 <div class="wiki-hatnote">
 
-For context on the broader REIT structure and requirements, see [real estate investment trust](/real-estate-investment-trust). For the securities mortgage REITs hold, see [mortgage-backed security](/mortgage-backed-security).
+For context on the broader REIT structure and requirements, see [real estate investment trust](/real-estate-investment-trust/). For the securities mortgage REITs hold, see [mortgage-backed security](/mortgage-backed-security/).
 
 </div>
 
@@ -97,23 +97,23 @@ The REIT offers professional management, leverage (if desired), and liquidity. I
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs that own physical properties
-- [Hybrid REIT](/hybrid-reit) — REITs with both equity and mortgage portfolios
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs that own physical properties
+- [Hybrid REIT](/hybrid-reit/) — REITs with both equity and mortgage portfolios
 
 ### Mortgage-backed securities
 
-- [Mortgage-backed security](/mortgage-backed-security) — the securities mortgage REITs hold
+- [Mortgage-backed security](/mortgage-backed-security/) — the securities mortgage REITs hold
 - Agency MBS — government-backed mortgage pools
 - Non-agency MBS — non-government mortgage pools
-- [Fannie Mae](/fannie-mae) — one of the guarantors of agency MBS
-- [Freddie Mac](/freddie-mac) — another guarantor of agency MBS
+- [Fannie Mae](/fannie-mae/) — one of the guarantors of agency MBS
+- [Freddie Mac](/freddie-mac/) — another guarantor of agency MBS
 
 ### Context
 
-- [Interest rate](/interest-rate) — the primary driver of mortgage REIT returns
-- [Yield](/bond) — the income from mortgages and MBS
-- [Leverage](/hedge-fund) — how mortgage REITs amplify returns
-- [Dividend](/dividend) — the REIT's primary payout to shareholders
+- [Interest rate](/interest-rate/) — the primary driver of mortgage REIT returns
+- [Yield](/bond/) — the income from mortgages and MBS
+- [Leverage](/hedge-fund/) — how mortgage REITs amplify returns
+- [Dividend](/dividend/) — the REIT's primary payout to shareholders
 
 </div>

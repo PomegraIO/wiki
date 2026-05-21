@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **default rate** is the percentage of bond issuers that default on their obligations within a specified period (typically one year). Default rates vary significantly by [credit rating](/credit-rating), economic cycle, and industry. Investment-grade default rates are typically under 1% annually; [high-yield](/high-yield-bond) default rates are 2–4% in normal periods but can spike to 8%+ in severe recessions.*
+*The **default rate** is the percentage of bond issuers that default on their obligations within a specified period (typically one year). Default rates vary significantly by [credit rating](/credit-rating/), economic cycle, and industry. Investment-grade default rates are typically under 1% annually; [high-yield](/high-yield-bond/) default rates are 2–4% in normal periods but can spike to 8%+ in severe recessions.*
 
 <div class="wiki-hatnote">
 
-For recovery after default, see [recovery rate](/option-adjusted-spread). For credit ratings predicting defaults, see [credit rating](/credit-rating). For credit risk generally, see [credit spread](/credit-spread).
+For recovery after default, see [recovery rate](/option-adjusted-spread/). For credit ratings predicting defaults, see [credit rating](/credit-rating/). For credit risk generally, see [credit spread](/credit-spread/).
 
 </div>
 
@@ -57,8 +57,8 @@ These are long-term averages. Annual rates vary significantly with economic cond
 
 Default rates are highly cyclical:
 
-- **Expansion** (2003–2007 pre-crisis) — [High-yield](/high-yield-bond) default rates < 1%
-- **Recession** (2008–2009) — Default rates spiked to 12% for [high-yield](/high-yield-bond)
+- **Expansion** (2003–2007 pre-crisis) — [High-yield](/high-yield-bond/) default rates < 1%
+- **Recession** (2008–2009) — Default rates spiked to 12% for [high-yield](/high-yield-bond/)
 - **Recovery** (2010–2019) — Default rates fell back to 2–3%
 - **Crisis** (2020 pandemic, brief) — Default rates rose sharply
 - **Expansion** (2021–2023) — Default rates normalized
@@ -72,7 +72,7 @@ Default rates are correlated — when one company defaults, others are likely to
 - In booms, most companies are profitable; defaults are idiosyncratic (one company's misfortune)
 - In recessions, many companies face difficulty; defaults are systematic (many fail together)
 
-A portfolio of [high-yield bonds](/high-yield-bond) spread across 100 companies might experience 2% defaults (2 companies) in a boom but 10% defaults (10 companies) in a severe recession. This correlation is not diversifiable and creates systemic risk.
+A portfolio of [high-yield bonds](/high-yield-bond/) spread across 100 companies might experience 2% defaults (2 companies) in a boom but 10% defaults (10 companies) in a severe recession. This correlation is not diversifiable and creates systemic risk.
 
 ## Measuring and tracking
 
@@ -121,7 +121,7 @@ When default rates are low (expansions), investors underestimate risk and accept
 Credit analysts attempt to predict defaults by analyzing:
 
 - **Financial metrics** — Leverage, coverage ratios, profitability trends
-- **Market signals** — [Credit spreads](/credit-spread), [credit ratings](/credit-rating), equity price
+- **Market signals** — [Credit spreads](/credit-spread/), [credit ratings](/credit-rating/), equity price
 - **Industry trends** — Demand, competition, regulatory environment
 - **Management quality** — Competence, track record, incentive alignment
 
@@ -133,18 +133,18 @@ Careful credit analysis can identify companies likely to default before market p
 
 ### Closely related
 
-- [Credit rating](/credit-rating) — predicts default rates
-- [Credit spread](/credit-spread) — compensates for default risk
-- [High-yield bond](/high-yield-bond) — higher default rates
-- [Investment-grade bond](/investment-grade-bond) — lower default rates
-- [Recovery rate](/option-adjusted-spread) — what's recovered after default
+- [Credit rating](/credit-rating/) — predicts default rates
+- [Credit spread](/credit-spread/) — compensates for default risk
+- [High-yield bond](/high-yield-bond/) — higher default rates
+- [Investment-grade bond](/investment-grade-bond/) — lower default rates
+- [Recovery rate](/option-adjusted-spread/) — what's recovered after default
 
 ### Wider context
 
-- [Recession](/recession) — when default rates spike
-- [Economic cycle](/stock-market) — drives default rates
-- [Risk management](/hedge-fund) — managing default risk
-- [Diversification](/diversification) — holding many credits reduces default risk
-- [Loss given default](/high-yield-bond) — the damage from default
+- [Recession](/recession/) — when default rates spike
+- [Economic cycle](/stock-market/) — drives default rates
+- [Risk management](/hedge-fund/) — managing default risk
+- [Diversification](/diversification/) — holding many credits reduces default risk
+- [Loss given default](/high-yield-bond/) — the damage from default
 
 </div>

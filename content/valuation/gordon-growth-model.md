@@ -18,13 +18,13 @@ The Gordon growth model is fundamentally a restatement of the perpetuity formula
 
 In practical terms: if a utility pays a dividend of 5 dollars per share next year, investors require a 10% return, and the dividend grows at 2% forever, the stock is worth 5 divided by 0.08, or 62.50 dollars per share.
 
-This formula appears everywhere: dividend valuation, [terminal value](/terminal-value) calculations in DCFs, and real estate and infrastructure valuations. Its simplicity is its appeal. Its simplicity is also its curse.
+This formula appears everywhere: dividend valuation, [terminal value](/terminal-value/) calculations in DCFs, and real estate and infrastructure valuations. Its simplicity is its appeal. Its simplicity is also its curse.
 
 ## When the model works
 
-**True perpetuities.** Government [bonds](/bond) with no maturity are rare but exist. They grow (or not) forever. Dividend discount models for utilities, master limited partnerships, and other cash-return-focused businesses are reasonable uses.
+**True perpetuities.** Government [bonds](/bond/) with no maturity are rare but exist. They grow (or not) forever. Dividend discount models for utilities, master limited partnerships, and other cash-return-focused businesses are reasonable uses.
 
-**Terminal values in DCF.** In the final year of a [two-stage](/two-stage-dcf) or [three-stage DCF](/three-stage-dcf), when you assume the business reaches steady state and grows at GDP rate or slightly above forever, the Gordon formula collapses years 20 through infinity into a single value.
+**Terminal values in DCF.** In the final year of a [two-stage](/two-stage-dcf/) or [three-stage DCF](/three-stage-dcf/), when you assume the business reaches steady state and grows at GDP rate or slightly above forever, the Gordon formula collapses years 20 through infinity into a single value.
 
 **Infrastructure and commodities.** Some assets—toll roads, ports, mines—generate fairly predictable cash flows that grow at inflation, making the model conceptually sound, if not empirically precise.
 
@@ -34,7 +34,7 @@ This formula appears everywhere: dividend valuation, [terminal value](/terminal-
 
 The model is extremely sensitive to g. If r = 10% and g = 3%, value is D over 0.07. If g rises to 4%, value is D over 0.06—a 16% increase. If g rises to 5%, value doubles. Small errors in perpetual growth rate cause enormous valuation swings.
 
-**Required rate of return r.** This is the [cost of equity](/cost-of-equity) for an equity valuation or a blended [cost of capital](/weighted-average-cost-of-capital) for an enterprise valuation. Estimating r requires choices about risk, market returns, and company-specific factors. The more volatile the cash flows, the higher r should be.
+**Required rate of return r.** This is the [cost of equity](/cost-of-equity/) for an equity valuation or a blended [cost of capital](/weighted-average-cost-of-capital/) for an enterprise valuation. Estimating r requires choices about risk, market returns, and company-specific factors. The more volatile the cash flows, the higher r should be.
 
 **Stability of cash flows.** The model assumes you can forecast next year's cash flow with some precision. This is false for cyclical businesses, growth companies in transition, or any firm in disruption. Using Gordon growth on a pandemic-struck airline, a bankrupt retailer, or an emerging-growth software company is a category error.
 
@@ -62,7 +62,7 @@ The Gordon growth model persists because:
 
 2. **It works for true perpetuities.** Utilities, REIT dividends, and infrastructure cash flows are often stable enough to warrant the assumption.
 
-3. **It scales to complex valuations.** A detailed [three-stage DCF](/three-stage-dcf) uses Gordon growth in the terminal value; it is unavoidable.
+3. **It scales to complex valuations.** A detailed [three-stage DCF](/three-stage-dcf/) uses Gordon growth in the terminal value; it is unavoidable.
 
 4. **It is simple.** In a world of uncertainty, simplicity is not nothing.
 
@@ -74,22 +74,22 @@ The correct use of Gordon growth is narrow: for stable, mature, cash-return-focu
 
 ### Closely related
 
-- [Dividend discount model](/dividend-discount-model) — the typical application
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the canonical use in DCF
-- [Terminal value](/terminal-value) — what this model is usually calculating
-- [Multi-stage DDM](/multi-stage-ddm) — extending Gordon growth with an explicit period
+- [Dividend discount model](/dividend-discount-model/) — the typical application
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the canonical use in DCF
+- [Terminal value](/terminal-value/) — what this model is usually calculating
+- [Multi-stage DDM](/multi-stage-ddm/) — extending Gordon growth with an explicit period
 
 ### Criticism and alternatives
 
-- [Two-stage DCF](/two-stage-dcf) — a more nuanced time structure
-- [Three-stage DCF](/three-stage-dcf) — explicit transition period
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — an alternative to perpetuity
-- [Scenario valuation](/scenario-valuation) — discrete cases instead of formulas
+- [Two-stage DCF](/two-stage-dcf/) — a more nuanced time structure
+- [Three-stage DCF](/three-stage-dcf/) — explicit transition period
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — an alternative to perpetuity
+- [Scenario valuation](/scenario-valuation/) — discrete cases instead of formulas
 
 ### Inputs
 
-- [Cost of equity](/cost-of-equity) — the required return r
-- [Capital asset pricing model](/capital-asset-pricing-model) — how to estimate cost of equity
-- [Market risk premium](/market-risk-premium) — a key input to CAPM
+- [Cost of equity](/cost-of-equity/) — the required return r
+- [Capital asset pricing model](/capital-asset-pricing-model/) — how to estimate cost of equity
+- [Market risk premium](/market-risk-premium/) — a key input to CAPM
 
 </div>

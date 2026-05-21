@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **general obligation bond** — or **GO bond** — is a [municipal bond](/municipal-bond) secured by the full faith, credit, and taxing power of the issuing government entity. Rather than relying on revenue from a specific project, GO bonds are backed by all revenues and the government's power to raise taxes, making them senior to all other local government debt.*
+*A **general obligation bond** — or **GO bond** — is a [municipal bond](/municipal-bond/) secured by the full faith, credit, and taxing power of the issuing government entity. Rather than relying on revenue from a specific project, GO bonds are backed by all revenues and the government's power to raise taxes, making them senior to all other local government debt.*
 
 <div class="wiki-hatnote">
 
-For municipal bonds backed by revenue from a specific project, see [revenue bond](/revenue-bond). For federal government debt, see [Treasury bond](/treasury-bond). For other municipal debt structures, see [municipal bond](/municipal-bond).
+For municipal bonds backed by revenue from a specific project, see [revenue bond](/revenue-bond/). For federal government debt, see [Treasury bond](/treasury-bond/). For other municipal debt structures, see [municipal bond](/municipal-bond/).
 
 </div>
 
@@ -34,7 +34,7 @@ For municipal bonds backed by revenue from a specific project, see [revenue bond
 | **Maturity** | Typically 5–30 years |
 | **Coupon** | Semi-annual fixed interest |
 | **Tax exemption** | Federal income tax exempt; often state/local exempt |
-| **Default risk** | Low (relative to [revenue bonds](/revenue-bond)) |
+| **Default risk** | Low (relative to [revenue bonds](/revenue-bond/)) |
 | **Voter approval** | Usually required in many states |
 | **Typical use** | Schools, public buildings, general infrastructure |
 
@@ -42,11 +42,11 @@ For municipal bonds backed by revenue from a specific project, see [revenue bond
 
 ## Backed by taxing power, not project revenue
 
-The fundamental distinction between GO bonds and [revenue bonds](/revenue-bond) is the source of repayment. A school district issuing a GO bond for a new school is backed by the district's entire budget, supported by property taxes. If the school generates insufficient revenue (schools typically do not), the district can raise property taxes to meet bond payments.
+The fundamental distinction between GO bonds and [revenue bonds](/revenue-bond/) is the source of repayment. A school district issuing a GO bond for a new school is backed by the district's entire budget, supported by property taxes. If the school generates insufficient revenue (schools typically do not), the district can raise property taxes to meet bond payments.
 
-This taxing-power backing creates a moral obligation and a legal obligation. When a government issues GO bonds, it implicitly commits to maintaining tax rates sufficient to service debt. Default is possible only if a government is unable to raise taxes (politically or constitutionally blocked) or unwilling to prioritize bond payments. Historical default rates on GO bonds are extremely low — far lower than [revenue bonds](/revenue-bond) or [corporate bonds](/corporate-bond) of similar credit rating.
+This taxing-power backing creates a moral obligation and a legal obligation. When a government issues GO bonds, it implicitly commits to maintaining tax rates sufficient to service debt. Default is possible only if a government is unable to raise taxes (politically or constitutionally blocked) or unwilling to prioritize bond payments. Historical default rates on GO bonds are extremely low — far lower than [revenue bonds](/revenue-bond/) or [corporate bonds](/corporate-bond/) of similar credit rating.
 
-The broad backing also ensures GO bonds have superior [duration](/duration) and [liquidity](/stock-exchange) characteristics relative to revenue bonds. A major city's GO bonds are more tradable and more tightly priced than the city's water-revenue bonds, despite similar overall credit quality.
+The broad backing also ensures GO bonds have superior [duration](/duration/) and [liquidity](/stock-exchange/) characteristics relative to revenue bonds. A major city's GO bonds are more tradable and more tightly priced than the city's water-revenue bonds, despite similar overall credit quality.
 
 ## Voter approval and democratic oversight
 
@@ -58,25 +58,25 @@ The downside: voters can block necessary infrastructure. A fiscally responsible 
 
 ## Credit quality and pricing
 
-GO bond credit quality depends primarily on the financial health and tax base of the issuing government. A wealthy suburban school district with growing property values and stable finances can issue GO bonds at yields only slightly above [Treasury notes](/treasury-note) (perhaps 0.5–1% higher, reflecting the minor default risk). A financially distressed city might issue GO bonds at yields 3–5% above Treasuries, reflecting substantially higher default risk.
+GO bond credit quality depends primarily on the financial health and tax base of the issuing government. A wealthy suburban school district with growing property values and stable finances can issue GO bonds at yields only slightly above [Treasury notes](/treasury-note/) (perhaps 0.5–1% higher, reflecting the minor default risk). A financially distressed city might issue GO bonds at yields 3–5% above Treasuries, reflecting substantially higher default risk.
 
-A GO bond from a [credit rating](/credit-rating) perspective typically carries Moody's or S&P ratings (AAA to D, parallel to [corporate bond](/corporate-bond) ratings). The ratings reflect analysts' assessment of the issuer's ability and willingness to raise taxes and prioritize debt service. Rating upgrades (improving economic conditions, rising property values) lower yields; downgrades raise them.
+A GO bond from a [credit rating](/credit-rating/) perspective typically carries Moody's or S&P ratings (AAA to D, parallel to [corporate bond](/corporate-bond/) ratings). The ratings reflect analysts' assessment of the issuer's ability and willingness to raise taxes and prioritize debt service. Rating upgrades (improving economic conditions, rising property values) lower yields; downgrades raise them.
 
-The tax exemption means GO bonds trade at lower nominal yields than equivalent [corporate bonds](/corporate-bond). A AAA-rated corporate bond might yield 4%; a AAA-rated GO bond from a wealthy municipality might yield 3%. But the after-tax comparison favors the GO bond for high-income taxpayers.
+The tax exemption means GO bonds trade at lower nominal yields than equivalent [corporate bonds](/corporate-bond/). A AAA-rated corporate bond might yield 4%; a AAA-rated GO bond from a wealthy municipality might yield 3%. But the after-tax comparison favors the GO bond for high-income taxpayers.
 
 ## Uses for GO bond proceeds
 
-GO bonds finance a wide array of public goods: schools, government buildings, public health facilities, libraries, roads, bridges, parks. Unlike [revenue bonds](/revenue-bond), which must finance self-supporting projects, GO bonds can fund anything the voters and officials deem in the public interest.
+GO bonds finance a wide array of public goods: schools, government buildings, public health facilities, libraries, roads, bridges, parks. Unlike [revenue bonds](/revenue-bond/), which must finance self-supporting projects, GO bonds can fund anything the voters and officials deem in the public interest.
 
 This flexibility makes GO bonds more versatile but also politically contestable. A controversial bond issuance (for a controversial civic project) might fail voter approval, while an uncontroversial one passes easily. The political economy of municipal debt is inseparable from the political economy of each jurisdiction.
 
 ## GO bonds vs. revenue bonds: a comparison
 
-[Revenue bonds](/revenue-bond) are backed only by revenue from a specific project (a parking garage, a toll road, a water system). If the project fails, revenues decline, or rates cannot be raised, revenue bondholders bear the risk. GO bonds are backed by all government revenues, making them senior and lower-risk.
+[Revenue bonds](/revenue-bond/) are backed only by revenue from a specific project (a parking garage, a toll road, a water system). If the project fails, revenues decline, or rates cannot be raised, revenue bondholders bear the risk. GO bonds are backed by all government revenues, making them senior and lower-risk.
 
 This difference is reflected in yields: identical credit-quality issuers typically price revenue bonds 50–150 basis points higher than GO bonds due to the higher risk. Investors compensate for the narrower security base by demanding higher return.
 
-From an issuer perspective, GO bonds are attractive because of lower borrowing costs. But voter approval is required (in most states) and political scrutiny is high. [Revenue bonds](/revenue-bond) can often be issued by administrative bodies without voter approval, making them faster but more expensive.
+From an issuer perspective, GO bonds are attractive because of lower borrowing costs. But voter approval is required (in most states) and political scrutiny is high. [Revenue bonds](/revenue-bond/) can often be issued by administrative bodies without voter approval, making them faster but more expensive.
 
 ## Callable bonds and refinancing
 
@@ -90,18 +90,18 @@ The callability reduces the upside for bondholders when rates fall. An investor 
 
 ### Closely related
 
-- [Revenue bond](/revenue-bond) — project-backed municipal debt
-- [Municipal bond](/municipal-bond) — tax-exempt debt generally
-- [Credit rating](/credit-rating) — assesses GO bond credit quality
-- [Callable bond](/callable-bond) — many GO bonds are callable
-- [Yield to maturity](/yield-to-maturity) — determines GO bond returns
+- [Revenue bond](/revenue-bond/) — project-backed municipal debt
+- [Municipal bond](/municipal-bond/) — tax-exempt debt generally
+- [Credit rating](/credit-rating/) — assesses GO bond credit quality
+- [Callable bond](/callable-bond/) — many GO bonds are callable
+- [Yield to maturity](/yield-to-maturity/) — determines GO bond returns
 
 ### Wider context
 
-- [Bond](/bond) — debt securities in general
-- [Interest rate](/interest-rate) — affects all bond prices
-- [Diversification](/diversification) — why holding many GO bonds reduces risk
-- [Central bank](/central-bank) — Federal Reserve policy influences all bond yields
-- [Recession](/recession) — stress tests municipal credit quality
+- [Bond](/bond/) — debt securities in general
+- [Interest rate](/interest-rate/) — affects all bond prices
+- [Diversification](/diversification/) — why holding many GO bonds reduces risk
+- [Central bank](/central-bank/) — Federal Reserve policy influences all bond yields
+- [Recession](/recession/) — stress tests municipal credit quality
 
 </div>

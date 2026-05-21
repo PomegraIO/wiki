@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **minor currency pair**, also called a **cross-rate**, is a [currency pair](/currency-pair) that does not involve the [US dollar](/us-dollar). Examples include EUR/GBP (euro/pound), AUD/JPY (Australian dollar/yen), and GBP/CHF (pound/Swiss franc). Minors are less liquid than [major pairs](/major-currency-pair) but more liquid than [exotic pairs](/exotic-currency-pair), and they account for roughly 10% of daily FX volume.*
+*A **minor currency pair**, also called a **cross-rate**, is a [currency pair](/currency-pair/) that does not involve the [US dollar](/us-dollar/). Examples include EUR/GBP (euro/pound), AUD/JPY (Australian dollar/yen), and GBP/CHF (pound/Swiss franc). Minors are less liquid than [major pairs](/major-currency-pair/) but more liquid than [exotic pairs](/exotic-currency-pair/), and they account for roughly 10% of daily FX volume.*
 
 <div class="wiki-hatnote">
 
-For the most liquid pairs (all involving the dollar), see [major currency pair](/major-currency-pair); for pairs involving smaller economies, see [exotic currency pair](/exotic-currency-pair).
+For the most liquid pairs (all involving the dollar), see [major currency pair](/major-currency-pair/); for pairs involving smaller economies, see [exotic currency pair](/exotic-currency-pair/).
 
 </div>
 
@@ -43,11 +43,11 @@ For the most liquid pairs (all involving the dollar), see [major currency pair](
 
 A minor pair like EUR/GBP does not have a separate, independent wholesale market. Instead, banks and brokers construct it from the two relevant dollar pairs. To price EUR/GBP, a dealer buys euros for dollars (EUR/USD) and simultaneously sells dollars for pounds (USD/GBP). The synthetic rate is the result.
 
-This construction has an important consequence: the [spread](/forex-spread) on a minor is the sum of the spreads on the two dollar pairs used to build it. If EUR/USD spreads 1 [pip](/pip) and USD/GBP spreads 1 pip, then EUR/GBP spreads roughly 2 pips. This is why minors are more expensive to trade than majors but cheaper than true exotics.
+This construction has an important consequence: the [spread](/forex-spread/) on a minor is the sum of the spreads on the two dollar pairs used to build it. If EUR/USD spreads 1 [pip](/pip/) and USD/GBP spreads 1 pip, then EUR/GBP spreads roughly 2 pips. This is why minors are more expensive to trade than majors but cheaper than true exotics.
 
 ## Common minor pairs
 
-The most frequently traded minors are those between the four largest non-dollar reserve currencies: the [euro](/euro), [British pound](/british-pound), Swiss franc, and Japanese yen.
+The most frequently traded minors are those between the four largest non-dollar reserve currencies: the [euro](/euro/), [British pound](/british-pound/), Swiss franc, and Japanese yen.
 
 - **EUR/GBP** — euro vs. pound. Popular in Europe; reflects euro-area vs. UK economic divergence.
 - **EUR/CHF** — euro vs. Swiss franc. The Swiss franc is a safe-haven currency; this pair is traded during crises.
@@ -63,7 +63,7 @@ Speculators also trade minors when they have a view on the relative strength of 
 
 ## Minors vs. exotics
 
-The boundary between a minor and an [exotic pair](/exotic-currency-pair) is fuzzy but important for transaction costs. A minor pair, like EUR/GBP, will trade with spreads of 2–5 pips in the retail market. A true exotic, like USD/MXN (US dollar/Mexican peso), might trade 10–20 pips wide or more.
+The boundary between a minor and an [exotic pair](/exotic-currency-pair/) is fuzzy but important for transaction costs. A minor pair, like EUR/GBP, will trade with spreads of 2–5 pips in the retail market. A true exotic, like USD/MXN (US dollar/Mexican peso), might trade 10–20 pips wide or more.
 
 The difference comes down to trading volume and the availability of prices. Minors involve two large-economy currencies and trade actively across multiple dealers. Exotics involve smaller markets where fewer dealers make prices.
 
@@ -73,16 +73,16 @@ The difference comes down to trading volume and the availability of prices. Mino
 
 ### Closely related
 
-- [Currency pair](/currency-pair) — the structure of all FX quotes
-- [Major currency pair](/major-currency-pair) — pairs involving the dollar
-- [Exotic currency pair](/exotic-currency-pair) — pairs with smaller currencies
-- [Cross rate](/cross-rate) — how pairs without the dollar are constructed
-- [Spread](/forex-spread) — the transaction cost of trading minors
+- [Currency pair](/currency-pair/) — the structure of all FX quotes
+- [Major currency pair](/major-currency-pair/) — pairs involving the dollar
+- [Exotic currency pair](/exotic-currency-pair/) — pairs with smaller currencies
+- [Cross rate](/cross-rate/) — how pairs without the dollar are constructed
+- [Spread](/forex-spread/) — the transaction cost of trading minors
 
 ### Wider context
 
-- [Forex leverage](/forex-leverage) — how minors are traded on margin
-- [Carry trade](/carry-trade) — using yield differentials in minor pairs
+- [Forex leverage](/forex-leverage/) — how minors are traded on margin
+- [Carry trade](/carry-trade/) — using yield differentials in minor pairs
 - Interest rate parity — what determines forward rates in minors
 
 </div>

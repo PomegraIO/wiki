@@ -10,11 +10,11 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **National Stock Exchange of India** (NSE) is India's largest [stock exchange](/stock-exchange) by trading volume and one of the world's largest by value of shares traded. Established in 1992 as a modernized electronic venue, the NSE has become the primary listing destination for Indian [public companies](/public-company) and the principal conduit through which global investors access Indian equities.*
+*The **National Stock Exchange of India** (NSE) is India's largest [stock exchange](/stock-exchange/) by trading volume and one of the world's largest by value of shares traded. Established in 1992 as a modernized electronic venue, the NSE has become the primary listing destination for Indian [public companies](/public-company/) and the principal conduit through which global investors access Indian equities.*
 
 <div class="wiki-hatnote">
 
-The NSE and the [Bombay Stock Exchange](/bombay-stock-exchange) are India's two major equity exchanges; most major Indian companies list on both.
+The NSE and the [Bombay Stock Exchange](/bombay-stock-exchange/) are India's two major equity exchanges; most major Indian companies list on both.
 
 </div>
 
@@ -42,15 +42,15 @@ The NSE and the [Bombay Stock Exchange](/bombay-stock-exchange) are India's two 
 
 ## Founding and modernization
 
-The National Stock Exchange of India was established in 1992 as a government initiative to modernize Indian equity markets and create a national venue to rival the [Bombay Stock Exchange](/bombay-stock-exchange). It was the first exchange in India to operate a fully electronic trading system, abolishing the physical trading floor and allowing nationwide participation in a unified order book.
+The National Stock Exchange of India was established in 1992 as a government initiative to modernize Indian equity markets and create a national venue to rival the [Bombay Stock Exchange](/bombay-stock-exchange/). It was the first exchange in India to operate a fully electronic trading system, abolishing the physical trading floor and allowing nationwide participation in a unified order book.
 
 This technological leap was transformative. The NSE's electronic architecture allowed for transparency, speed, and efficiency that the older BSE's hybrid trading system could not match. The NSE quickly attracted listings and now accounts for the majority of Indian equity trading volume, despite the BSE's longer history.
 
 ## Nifty 50 and market dominance
 
-The NSE's primary index is the Nifty 50, comprising the 50 largest companies on the exchange. The Nifty has become the more widely followed Indian equity index globally, even though the [Bombay Stock Exchange](/bombay-stock-exchange) Sensex remains iconic.
+The NSE's primary index is the Nifty 50, comprising the 50 largest companies on the exchange. The Nifty has become the more widely followed Indian equity index globally, even though the [Bombay Stock Exchange](/bombay-stock-exchange/) Sensex remains iconic.
 
-The Nifty's constituents span Indian industry: banks (HDFC, ICICI, Kotak), information technology services (TCS, Infosys, HCL Technologies), financial services, pharmaceuticals, energy, and consumer companies. The index serves as the benchmark for Indian institutional investors and [index funds](/index-fund) globally.
+The Nifty's constituents span Indian industry: banks (HDFC, ICICI, Kotak), information technology services (TCS, Infosys, HCL Technologies), financial services, pharmaceuticals, energy, and consumer companies. The index serves as the benchmark for Indian institutional investors and [index funds](/index-fund/) globally.
 
 ## Technology and electronic trading
 
@@ -68,7 +68,7 @@ This dual-exchange system reflects India's federal structure and regional intere
 
 The NSE has progressively opened to foreign investors. Foreign Institutional Investors (FIIs) and other global participants now hold hundreds of billions of dollars in NSE-listed securities. The exchange has facilitated the rise of Indian technology outsourcing companies (TCS, Infosys, HCL) as global blue-chip stocks traded on the NSE and multiple international exchanges simultaneously.
 
-This integration has made Indian equities a standard component of diversified global [asset allocation](/asset-allocation) strategies for institutional investors and [index funds](/index-fund).
+This integration has made Indian equities a standard component of diversified global [asset allocation](/asset-allocation/) strategies for institutional investors and [index funds](/index-fund/).
 
 ## Derivatives and financial products expansion
 
@@ -84,19 +84,19 @@ The NSE is particularly dominant in Indian information technology services, phar
 
 ### Closely related
 
-- [Bombay Stock Exchange](/bombay-stock-exchange) — India's older exchange
-- [Stock exchange](/stock-exchange) — the category
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — Asia's largest
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Bombay Stock Exchange](/bombay-stock-exchange/) — India's older exchange
+- [Stock exchange](/stock-exchange/) — the category
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — Asia's largest
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
 - Emerging market — India's growth markets
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Index fund](/index-fund) — Nifty tracking products
+- [Asset allocation](/asset-allocation/) — positioning
+- [Index fund](/index-fund/) — Nifty tracking products
 
 </div>

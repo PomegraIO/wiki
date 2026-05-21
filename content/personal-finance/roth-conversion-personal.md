@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **Roth conversion** is the process of moving money from a [traditional IRA](/traditional-ira), [401(k)](/401k-plan), or other pre-tax retirement account into a [Roth IRA](/roth-ira) or Roth account. You owe income tax on the converted amount in the year of conversion, but the money then grows tax-free in the Roth.*
+*A **Roth conversion** is the process of moving money from a [traditional IRA](/traditional-ira/), [401(k)](/401k-plan/), or other pre-tax retirement account into a [Roth IRA](/roth-ira/) or Roth account. You owe income tax on the converted amount in the year of conversion, but the money then grows tax-free in the Roth.*
 
 <div class="wiki-hatnote">
 
-For the backdoor Roth strategy, see [backdoor Roth](/backdoor-roth); for mega conversions, see [mega backdoor Roth](/mega-backdoor-roth); for Roth accounts in general, see [Roth IRA](/roth-ira).
+For the backdoor Roth strategy, see [backdoor Roth](/backdoor-roth/); for mega conversions, see [mega backdoor Roth](/mega-backdoor-roth/); for Roth accounts in general, see [Roth IRA](/roth-ira/).
 
 </div>
 
@@ -51,7 +51,7 @@ Example: you have a traditional IRA with $100,000 (pre-tax). You convert $50,000
 
 **Low-income year.** If you have a low-income year (transition, sabbatical, early retirement), convert while in a low bracket. You pay less tax and move money to Roth.
 
-**Early retirement (before RMD).** If you retire in your 50s, you have years before [RMDs](/required-minimum-distribution-personal) start at age 73. Converting during these years lets you reduce your traditional IRA before RMDs force withdrawals.
+**Early retirement (before RMD).** If you retire in your 50s, you have years before [RMDs](/required-minimum-distribution-personal/) start at age 73. Converting during these years lets you reduce your traditional IRA before RMDs force withdrawals.
 
 **Diversify tax treatment.** Having both traditional (taxable later) and Roth (tax-free later) accounts gives flexibility to manage tax liability in retirement.
 
@@ -69,13 +69,13 @@ Example: you have $90,000 in a traditional IRA (pre-tax) and $10,000 in a tradit
 
 **Conversion ladders.** Some people do small conversions over multiple years to keep their tax bracket low. Example: convert $20,000 per year for five years, keeping each year's income in the 22% bracket rather than a single $100,000 conversion in a high bracket.
 
-**Early retirement conversions.** If you retire at 50 before collecting [Social Security](/social-security-personal) or traditional IRA distributions, a few years of low taxable income are available for conversions.
+**Early retirement conversions.** If you retire at 50 before collecting [Social Security](/social-security-personal/) or traditional IRA distributions, a few years of low taxable income are available for conversions.
 
 **Roth conversion windows.** Windows of opportunity include job transitions (low income), sabbaticals, or business downturns.
 
 ## After-tax 401(k) conversions
 
-Some [401(k) plans](/401k-plan) allow conversions of after-tax contributions to Roth (see [mega backdoor Roth](/mega-backdoor-roth)). These convert immediately (no pro-rata rule applies, since the basis is already in the account) and are tax-free or low-tax.
+Some [401(k) plans](/401k-plan/) allow conversions of after-tax contributions to Roth (see [mega backdoor Roth](/mega-backdoor-roth/)). These convert immediately (no pro-rata rule applies, since the basis is already in the account) and are tax-free or low-tax.
 
 ## Contribution base and elections
 
@@ -91,16 +91,16 @@ Before 2018, you could recharacterize (undo) a Roth conversion in a later year. 
 
 ### Closely related
 
-- [Roth IRA](/roth-ira) — destination account
-- [Traditional IRA](/traditional-ira) — source account
-- [Backdoor Roth](/backdoor-roth) — conversion strategy for high earners
-- [Mega backdoor Roth](/mega-backdoor-roth) — conversion strategy for large amounts
+- [Roth IRA](/roth-ira/) — destination account
+- [Traditional IRA](/traditional-ira/) — source account
+- [Backdoor Roth](/backdoor-roth/) — conversion strategy for high earners
+- [Mega backdoor Roth](/mega-backdoor-roth/) — conversion strategy for large amounts
 
 ### Wider context
 
-- [Required minimum distribution](/required-minimum-distribution-personal) — what conversions can reduce
-- [FIRE movement](/fire-movement) — conversions common in early-retirement plans
+- [Required minimum distribution](/required-minimum-distribution-personal/) — what conversions can reduce
+- [FIRE movement](/fire-movement/) — conversions common in early-retirement plans
 - Asset location — where to hold different investment types
-- [The four-percent rule](/the-four-percent-rule) — how much Roth can sustain
+- [The four-percent rule](/the-four-percent-rule/) — how much Roth can sustain
 
 </div>

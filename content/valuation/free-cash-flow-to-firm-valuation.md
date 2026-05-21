@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **free cash flow to firm (FCFF)** valuation is the canonical [discounted cash flow](/discounted-cash-flow-valuation) model. It values the entire enterprise—all the cash available to all investors, debt and equity holders alike—by discounting at the [weighted average cost of capital](/weighted-average-cost-of-capital). From enterprise value, you subtract net debt to arrive at equity value. It is the most widely used approach in professional valuation work.*
+*A **free cash flow to firm (FCFF)** valuation is the canonical [discounted cash flow](/discounted-cash-flow-valuation/) model. It values the entire enterprise—all the cash available to all investors, debt and equity holders alike—by discounting at the [weighted average cost of capital](/weighted-average-cost-of-capital/). From enterprise value, you subtract net debt to arrive at equity value. It is the most widely used approach in professional valuation work.*
 
 ## What FCFF captures
 
@@ -24,7 +24,7 @@ Valuation is the sum of all future FCFF streams, each discounted at the weighted
 
 **Conceptually clean.** The method separates the valuation of the operating business (FCFF, discounted at WACC) from the financing decision (net debt). You can value the business independent of how it is financed, then layer in the actual capital structure.
 
-**Stable through capital structure changes.** If a company refinances heavily, debt levels spike, but FCFF is unchanged. The valuation of the business is unchanged; you just restructure who owns how much. By contrast, [FCFE](/free-cash-flow-to-equity-valuation) valuation, which directly values equity, becomes messy when debt policies shift dramatically.
+**Stable through capital structure changes.** If a company refinances heavily, debt levels spike, but FCFF is unchanged. The valuation of the business is unchanged; you just restructure who owns how much. By contrast, [FCFE](/free-cash-flow-to-equity-valuation/) valuation, which directly values equity, becomes messy when debt policies shift dramatically.
 
 **Works for all structures.** Startups with no debt, utilities with high leverage, private equity-backed businesses with explicit debt paydowns—FCFF handles all without requiring you to recalibrate discount rates.
 
@@ -82,7 +82,7 @@ The result is a cash flow cascade that is testable and transparent.
 
 **Strength.** Works for any company, regardless of capital structure or dividend policy.
 
-**Weakness.** Requires estimating WACC, which is itself complex and requires [cost of equity](/cost-of-equity) and [cost of debt](/cost-of-debt) estimates.
+**Weakness.** Requires estimating WACC, which is itself complex and requires [cost of equity](/cost-of-equity/) and [cost of debt](/cost-of-debt/) estimates.
 
 **Weakness.** Terminal value is enormous and sensitive to tiny changes in perpetuity assumptions.
 
@@ -94,24 +94,24 @@ The result is a cash flow cascade that is testable and transparent.
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the parent method
-- [Two-stage DCF](/two-stage-dcf) — simplest time structure
-- [Three-stage DCF](/three-stage-dcf) — with explicit transition
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — the levered alternative
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the parent method
+- [Two-stage DCF](/two-stage-dcf/) — simplest time structure
+- [Three-stage DCF](/three-stage-dcf/) — with explicit transition
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — the levered alternative
 
 ### Key inputs
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Cost of equity](/cost-of-equity) — WACC component
-- [Cost of debt](/cost-of-debt) — WACC component
-- [Terminal value](/terminal-value) — the endpoint calculation
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the terminal assumption
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Cost of equity](/cost-of-equity/) — WACC component
+- [Cost of debt](/cost-of-debt/) — WACC component
+- [Terminal value](/terminal-value/) — the endpoint calculation
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the terminal assumption
 
 ### Reality checks
 
-- [Multiples valuation](/multiples-valuation) — market-based alternative
-- [Comparable company analysis](/comparable-company-analysis) — peer benchmarking
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which assumptions drive value
-- [Football field valuation](/football-field-valuation) — ranges of outcomes
+- [Multiples valuation](/multiples-valuation/) — market-based alternative
+- [Comparable company analysis](/comparable-company-analysis/) — peer benchmarking
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which assumptions drive value
+- [Football field valuation](/football-field-valuation/) — ranges of outcomes
 
 </div>

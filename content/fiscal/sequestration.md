@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*A **sequestration** is an automatic reduction in [discretionary spending](/discretionary-spending) that occurs when Congress fails to meet deficit-reduction targets. The 2011 Budget Control Act established sequestration as a way to force fiscal discipline; if lawmakers cannot negotiate deficit reduction, automatic cuts take effect.*
+*A **sequestration** is an automatic reduction in [discretionary spending](/discretionary-spending/) that occurs when Congress fails to meet deficit-reduction targets. The 2011 Budget Control Act established sequestration as a way to force fiscal discipline; if lawmakers cannot negotiate deficit reduction, automatic cuts take effect.*
 
 <div class="wiki-hatnote">
 
-This entry covers automatic spending cuts. For the law that created sequestration, see [fiscal cliff](/fiscal-cliff); for voluntary spending control, see [fiscal consolidation](/fiscal-consolidation); for broader spending authority, see [discretionary spending](/discretionary-spending).
+This entry covers automatic spending cuts. For the law that created sequestration, see [fiscal cliff](/fiscal-cliff/); for voluntary spending control, see [fiscal consolidation](/fiscal-consolidation/); for broader spending authority, see [discretionary spending](/discretionary-spending/).
 
 </div>
 
@@ -30,23 +30,23 @@ This entry covers automatic spending cuts. For the law that created sequestratio
 |---|---|
 | **Established** | 2011 Budget Control Act |
 | **Trigger** | Congress fails to meet deficit reduction targets |
-| **Type of cut** | Automatic reduction across [discretionary spending](/discretionary-spending) |
+| **Type of cut** | Automatic reduction across [discretionary spending](/discretionary-spending/) |
 | **Implementation** | Across-the-board percentage cut to eligible accounts |
 | **Exemptions** | Social Security, Medicare benefits (though some parts affected) |
-| **Target: [Discretionary spending](/discretionary-spending)** | Defense and non-defense split proportionally |
-| **Sequester level** | Can reach 5–10% of eligible [discretionary spending](/discretionary-spending) |
+| **Target: [Discretionary spending](/discretionary-spending/)** | Defense and non-defense split proportionally |
+| **Sequester level** | Can reach 5–10% of eligible [discretionary spending](/discretionary-spending/) |
 | **Avoidable** | Only by negotiating deficit reduction agreement |
 
 </aside>
 
 ## The mechanism of sequestration
 
-In 2011, Congress faced a [debt-ceiling](/debt-ceiling) crisis. To reach a deal, Congress passed the Budget Control Act, which:
+In 2011, Congress faced a [debt-ceiling](/debt-ceiling/) crisis. To reach a deal, Congress passed the Budget Control Act, which:
 
-1. Raised the [debt ceiling](/debt-ceiling) immediately by $400 billion.
-2. Required Congress to cut [discretionary spending](/discretionary-spending) by roughly $900 billion over 10 years.
+1. Raised the [debt ceiling](/debt-ceiling/) immediately by $400 billion.
+2. Required Congress to cut [discretionary spending](/discretionary-spending/) by roughly $900 billion over 10 years.
 3. Created a special committee to find an additional $1.2 trillion in deficit reduction.
-4. **Established sequestration:** If the committee failed or Congress did not act on its recommendations, automatic across-the-board cuts (sequestration) would take effect on defense and non-defense [discretionary spending](/discretionary-spending) equally.
+4. **Established sequestration:** If the committee failed or Congress did not act on its recommendations, automatic across-the-board cuts (sequestration) would take effect on defense and non-defense [discretionary spending](/discretionary-spending/) equally.
 
 The idea was that the threat of automatic, indiscriminate cuts would be so painful that Congress would negotiate a real deficit-reduction deal. But Congress failed to reach a deal, so sequestration took effect starting in 2013.
 
@@ -55,8 +55,8 @@ The idea was that the threat of automatic, indiscriminate cuts would be so painf
 When sequestration is triggered, budget authority is reduced by an across-the-board percentage — often 5–10% for eligible accounts. This means:
 
 - Defense spending is cut across accounts.
-- Non-defense [discretionary spending](/discretionary-spending) (education, transportation, research, parks) is cut.
-- [Mandatory spending](/mandatory-spending) (Social Security, [entitlements](/entitlement-spending)) is largely protected, though Medicare providers face modest cuts.
+- Non-defense [discretionary spending](/discretionary-spending/) (education, transportation, research, parks) is cut.
+- [Mandatory spending](/mandatory-spending/) (Social Security, [entitlements](/entitlement-spending/)) is largely protected, though Medicare providers face modest cuts.
 
 The cuts are implemented by OMB issuing reduction orders to agencies. Each agency reduces its discretionary spending pro-rata, which can force difficult choices (hiring freezes, research delays, facility closures).
 
@@ -65,7 +65,7 @@ The cuts are implemented by OMB issuing reduction orders to agencies. Each agenc
 Sequestration cuts took effect in March 2013 and persisted, though they were reduced and suspended at various points by Congress:
 
 - Initial cuts were modest, around 2.4%.
-- Congress gradually raised [discretionary spending](/discretionary-spending) caps via legislation, reducing the sequestration pressure.
+- Congress gradually raised [discretionary spending](/discretionary-spending/) caps via legislation, reducing the sequestration pressure.
 - Some years saw full sequestration; others saw reduced enforcement.
 - The Trump Administration and Congress negotiated increases in spending caps to avoid large sequestration cuts.
 
@@ -79,7 +79,7 @@ Sequestration failed to achieve its goal for several reasons:
 
 **Congress circumvented it:** Congress raised spending caps through legislation, reducing sequestration's bite.
 
-**It targeted only [discretionary spending](/discretionary-spending):** [Mandatory spending](/mandatory-spending) (the driver of long-term deficits) was largely protected.
+**It targeted only [discretionary spending](/discretionary-spending/):** [Mandatory spending](/mandatory-spending/) (the driver of long-term deficits) was largely protected.
 
 **It created uncertainty:** Agencies could not plan long-term spending.
 
@@ -91,23 +91,23 @@ Most economists and budget analysts view sequestration as a failure of fiscal go
 
 ### Closely related
 
-- [Fiscal cliff](/fiscal-cliff) — the 2011 crisis that created sequestration
-- [Discretionary spending](/discretionary-spending) — what sequestration cuts
-- [Mandatory spending](/mandatory-spending) — largely protected from sequestration
-- [Budget deficit](/budget-deficit) — what sequestration was supposed to reduce
+- [Fiscal cliff](/fiscal-cliff/) — the 2011 crisis that created sequestration
+- [Discretionary spending](/discretionary-spending/) — what sequestration cuts
+- [Mandatory spending](/mandatory-spending/) — largely protected from sequestration
+- [Budget deficit](/budget-deficit/) — what sequestration was supposed to reduce
 
 ### Fiscal mechanisms
 
-- [Fiscal consolidation](/fiscal-consolidation) — real deficit reduction (what sequestration substituted for)
-- [Austerity](/austerity) — spending cuts negotiated voluntarily
-- [Budget control](/debt-ceiling) — the Act that established sequestration
-- [Appropriations bill](/appropriations-bill) — Congress can override sequestration through higher spending caps
+- [Fiscal consolidation](/fiscal-consolidation/) — real deficit reduction (what sequestration substituted for)
+- [Austerity](/austerity/) — spending cuts negotiated voluntarily
+- [Budget control](/debt-ceiling/) — the Act that established sequestration
+- [Appropriations bill](/appropriations-bill/) — Congress can override sequestration through higher spending caps
 
 ### Economic effects
 
-- [Recession](/recession) — sequestration during weak growth is pro-cyclical and harmful
-- [Unemployment](/central-bank) — can rise if sequestration cuts government jobs
-- [Economic growth](/central-bank) — reduced public investment from sequestration can drag growth
-- [Interest rate](/interest-rate) — indirectly affected through growth impacts
+- [Recession](/recession/) — sequestration during weak growth is pro-cyclical and harmful
+- [Unemployment](/central-bank/) — can rise if sequestration cuts government jobs
+- [Economic growth](/central-bank/) — reduced public investment from sequestration can drag growth
+- [Interest rate](/interest-rate/) — indirectly affected through growth impacts
 
 </div>

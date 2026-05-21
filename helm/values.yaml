@@ -1,0 +1,58 @@
+# Default values for the wiki Helm chart.
+# Mirrors the structure of `learn/helm/values.yaml` so reading one teaches
+# the other — same image registry, same APISIX routing pattern.
+
+replicaCount: 1
+
+image:
+  repository: ghcr.io/pomegraio/pomekube/wiki
+  pullPolicy: IfNotPresent
+  # Overridden by the CI/CD pipeline (see .github/workflows/build-push-wiki.yaml,
+  # which bumps Pomekube/pomegra-apps/apps.yaml `wiki.revision`, which Argo CD
+  # then plugs into image.tag via the apps chart).
+  tag: ""
+
+imagePullSecrets:
+  - name: ghcr-pull-secret
+
+nameOverride: ""
+fullnameOverride: ""
+
+serviceAccount:
+  create: true
+  annotations: {}
+  name: ""
+
+podAnnotations: {}
+podSecurityContext: {}
+securityContext: {}
+
+service:
+  type: ClusterIP
+  port: 8888
+
+resources:
+  limits:
+    cpu: 500m
+    memory: 256Mi
+  requests:
+    cpu: 50m
+    memory: 64Mi
+
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 4
+  targetCPUUtilizationPercentage: 80
+
+nodeSelector: {}
+tolerations: []
+affinity: {}
+
+# APISIX route — pomegra.io/wiki/* → this service.
+# Disable if the deployment runs outside the cluster's APISIX gateway.
+apisix:
+  route:
+    enabled: true
+    host: pomegra.io
+    path: /wiki*

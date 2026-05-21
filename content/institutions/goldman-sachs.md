@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Goldman Sachs Group Inc.** is one of the world's leading [investment banks](/broker), headquartered in New York. Goldman Sachs advises corporations and governments on mergers and acquisitions, raises capital for firms through [initial public offerings](/initial-public-offering) and [bond](/bond) issuances, trades securities, and manages billions in assets for institutional investors and [hedge funds](/hedge-fund).*
+*The **Goldman Sachs Group Inc.** is one of the world's leading [investment banks](/broker/), headquartered in New York. Goldman Sachs advises corporations and governments on mergers and acquisitions, raises capital for firms through [initial public offerings](/initial-public-offering/) and [bond](/bond/) issuances, trades securities, and manages billions in assets for institutional investors and [hedge funds](/hedge-fund/).*
 
 <div class="wiki-hatnote">
 
@@ -43,7 +43,7 @@ Goldman Sachs was founded in 1869 and remained a partnership until its 2008 conv
 
 Goldman Sachs was founded in 1869 by Marcus Goldman as a commodities trading and money brokerage business. His son-in-law Samuel Sachs joined the firm, and it eventually became Goldman Sachs & Company. For its first century, Goldman Sachs was a partnership — meaning profits were shared by partners and the firm's capital came from partner contributions.
 
-The partnership model incentivized long-term thinking and risk management; partners risked their own fortunes. This model persisted until Goldman Sachs went public in 1999, converting to a [public company](/public-company) structure. The firm converted to a bank holding company in September 2008, just days after the Lehman Brothers collapse, to access central bank lending facilities during the financial crisis.
+The partnership model incentivized long-term thinking and risk management; partners risked their own fortunes. This model persisted until Goldman Sachs went public in 1999, converting to a [public company](/public-company/) structure. The firm converted to a bank holding company in September 2008, just days after the Lehman Brothers collapse, to access central bank lending facilities during the financial crisis.
 
 ## Investment banking dominance
 
@@ -53,13 +53,13 @@ Investment banking revenue is highly variable and concentrated among a small num
 
 ## Trading and proprietary operations
 
-Beyond advisory, Goldman Sachs operates large trading desks that take positions in equities, commodities, derivatives, and [bonds](/bond). The firm trades for its own account (proprietary trading) and on behalf of clients.
+Beyond advisory, Goldman Sachs operates large trading desks that take positions in equities, commodities, derivatives, and [bonds](/bond/). The firm trades for its own account (proprietary trading) and on behalf of clients.
 
 Trading revenue is volatile and sensitive to market conditions. During calm markets, trading revenue is lower; during crises and high-volatility environments, trading revenue can surge as clients actively rehedge and rebalance.
 
 ## Asset management and wealth management
 
-Goldman Sachs operates a substantial asset management division, managing hundreds of billions of dollars for institutional investors, [hedge funds](/hedge-fund), and wealthy individuals. The firm also operates Goldman Sachs Personal Financial Management, which manages wealth for high-net-worth individuals.
+Goldman Sachs operates a substantial asset management division, managing hundreds of billions of dollars for institutional investors, [hedge funds](/hedge-fund/), and wealthy individuals. The firm also operates Goldman Sachs Personal Financial Management, which manages wealth for high-net-worth individuals.
 
 This diversification into asset management has made Goldman Sachs less dependent on volatile investment banking and trading revenue.
 
@@ -85,19 +85,19 @@ The firm's culture is known for meritocracy and intense work environment, charac
 
 ### Closely related
 
-- [Investment bank](/broker) — the category
-- [Morgan Stanley](/morgan-stanley) — major competitor
-- [JPMorgan Chase](/jpmorgan-chase) — major diversified bank
-- [Citigroup](/citigroup) — competitor
-- [Broker](/broker) — financial intermediary
+- [Investment bank](/broker/) — the category
+- [Morgan Stanley](/morgan-stanley/) — major competitor
+- [JPMorgan Chase](/jpmorgan-chase/) — major diversified bank
+- [Citigroup](/citigroup/) — competitor
+- [Broker](/broker/) — financial intermediary
 
 ### Wider context
 
 - Mergers and acquisitions — advisory business
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — investment management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — investment management
 - Institutional investor — major clients
-- [Hedge fund](/hedge-fund) — served by Goldman
+- [Hedge fund](/hedge-fund/) — served by Goldman
 - Trading — revenue source
 
 </div>

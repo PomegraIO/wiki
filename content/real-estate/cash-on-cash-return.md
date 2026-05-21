@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For the unleveraged return on a property, see [cap-rate](/cap-rate). For total returns including appreciation, see internal-rate-of-return-real-estate.
+For the unleveraged return on a property, see [cap-rate](/cap-rate/). For total returns including appreciation, see internal-rate-of-return-real-estate.
 
 </div>
 
@@ -148,20 +148,20 @@ Total return = (cash flow + appreciation) ÷ invested capital. This is more comp
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — unleveraged return on property value
-- [Net operating income](/net-operating-income) — the cash the property generates
-- [Gross rent multiplier](/gross-rent-multiplier) — a quick valuation metric
+- [Cap rate](/cap-rate/) — unleveraged return on property value
+- [Net operating income](/net-operating-income/) — the cash the property generates
+- [Gross rent multiplier](/gross-rent-multiplier/) — a quick valuation metric
 - Internal rate of return (IRR) — total return including appreciation
 
 ### Investment context
 
-- [Real estate investment trust](/real-estate-investment-trust) — institutional property ownership
-- [Fixed-rate mortgage](/fixed-rate-mortgage) — the financing that creates leverage
+- [Real estate investment trust](/real-estate-investment-trust/) — institutional property ownership
+- [Fixed-rate mortgage](/fixed-rate-mortgage/) — the financing that creates leverage
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects mortgage rates and cash flow
-- [Leverage](/hedge-fund) — how debt amplifies returns
-- [Asset allocation](/asset-allocation) — real estate in a diversified portfolio
+- [Interest rate](/interest-rate/) — affects mortgage rates and cash flow
+- [Leverage](/hedge-fund/) — how debt amplifies returns
+- [Asset allocation](/asset-allocation/) — real estate in a diversified portfolio
 
 </div>

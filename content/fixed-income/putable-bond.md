@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For bonds with issuer redemption rights, see [callable bond](/callable-bond). For bonds with conversion features, see [convertible bond](/convertible-bond). For general bond concepts, see [bond](/bond).
+For bonds with issuer redemption rights, see [callable bond](/callable-bond/). For bonds with conversion features, see [convertible bond](/convertible-bond/). For general bond concepts, see [bond](/bond/).
 
 </div>
 
@@ -42,7 +42,7 @@ For bonds with issuer redemption rights, see [callable bond](/callable-bond). Fo
 
 ## The holder's exit option
 
-A putable bond gives the bondholder the right to force the issuer to redeem the bond at par on specified put dates. Unlike a [callable bond](/callable-bond), where the issuer decides, a putable bond is controlled by the bondholder.
+A putable bond gives the bondholder the right to force the issuer to redeem the bond at par on specified put dates. Unlike a [callable bond](/callable-bond/), where the issuer decides, a putable bond is controlled by the bondholder.
 
 If a bondholder holds a putable bond and believes the issuer's credit is deteriorating or market conditions are unfavorable, the bondholder can exercise the put and return the bond at par, getting cash back. This removes the risk of holding a bond trading at a discount in the secondary market.
 
@@ -61,7 +61,7 @@ A callable bond has an asymmetric profile: capped upside, exposed downside. A pu
 
 A bondholder exercises a put option when conditions deteriorate materially. Common scenarios:
 
-- **Credit deterioration** — The issuer's [credit rating](/credit-rating) is downgraded, and the bond trades at a discount. The bondholder puts it back at par, avoiding further loss.
+- **Credit deterioration** — The issuer's [credit rating](/credit-rating/) is downgraded, and the bond trades at a discount. The bondholder puts it back at par, avoiding further loss.
 - **Rising interest rates** — The bond is trading below par, and the bondholder faces a loss if holding to maturity. The put allows redemption at par.
 - **Event risk** — The issuer announces a leveraged buyout, acquisition, or other event that increases credit risk. The bondholder puts it back at par.
 
@@ -77,16 +77,16 @@ This is why putable bonds are more common among issuers that expect stable or im
 
 ## Comparison to convertible bonds and credit protection
 
-Putable bonds are sometimes compared to [convertible bonds](/convertible-bond), but they serve different functions:
+Putable bonds are sometimes compared to [convertible bonds](/convertible-bond/), but they serve different functions:
 
-- **Convertible bonds** give the bondholder upside to equity but with [bond](/bond) downside protection.
+- **Convertible bonds** give the bondholder upside to equity but with [bond](/bond/) downside protection.
 - **Putable bonds** give the bondholder downside protection but without the upside provided by a conversion feature.
 
 A putable bond is a pure credit protection mechanism — it protects the bondholder against deterioration in the issuer's credit but provides no equity kicker.
 
 ## Valuation and embedded options
 
-The value of a putable bond is a straight [bond](/bond) value plus the put option value. If a straight [bond](/bond) is worth $900 and the put option is worth $100, the putable bond is worth approximately $1,000.
+The value of a putable bond is a straight [bond](/bond/) value plus the put option value. If a straight [bond](/bond/) is worth $900 and the put option is worth $100, the putable bond is worth approximately $1,000.
 
 The put option is more valuable when:
 - The bond is likely to trade below par (higher volatility, weaker credit).
@@ -97,9 +97,9 @@ The issuer accepts lower coupon in exchange for providing this put option, creat
 
 ## Market rarity
 
-Putable bonds are relatively rare compared to callable bonds. Most [corporate bond](/corporate-bond) issuers prefer not to grant bondholders exit options because of the uncertainty in redemption timing and the cash requirements. Weak issuers, who would benefit most from the lower coupon enabled by a put, often cannot afford the refinancing risk it entails.
+Putable bonds are relatively rare compared to callable bonds. Most [corporate bond](/corporate-bond/) issuers prefer not to grant bondholders exit options because of the uncertainty in redemption timing and the cash requirements. Weak issuers, who would benefit most from the lower coupon enabled by a put, often cannot afford the refinancing risk it entails.
 
-Some [municipal bonds](/municipal-bond) contain put provisions, particularly those with weaker credit. Universities and hospitals sometimes issue putable bonds for this reason.
+Some [municipal bonds](/municipal-bond/) contain put provisions, particularly those with weaker credit. Universities and hospitals sometimes issue putable bonds for this reason.
 
 ## See also
 
@@ -107,18 +107,18 @@ Some [municipal bonds](/municipal-bond) contain put provisions, particularly tho
 
 ### Closely related
 
-- [Callable bond](/callable-bond) — bonds with issuer redemption rights
-- [Convertible bond](/convertible-bond) — bonds with conversion features
-- [Corporate bond](/corporate-bond) — the straight-bond alternative
-- [Option](/option) — the embedded put option
-- [Par value](/par-value) — the put price
+- [Callable bond](/callable-bond/) — bonds with issuer redemption rights
+- [Convertible bond](/convertible-bond/) — bonds with conversion features
+- [Corporate bond](/corporate-bond/) — the straight-bond alternative
+- [Option](/option/) — the embedded put option
+- [Par value](/par-value/) — the put price
 
 ### Wider context
 
-- [Bond](/bond) — debt securities generally
-- [Credit rating](/credit-rating) — affects put exercise likelihood
-- [Interest rate](/interest-rate) — affects bond market values
-- [Volatility](/stock) — affects embedded option value
-- [Liquidity](/stock-exchange) — issuer refinancing ability
+- [Bond](/bond/) — debt securities generally
+- [Credit rating](/credit-rating/) — affects put exercise likelihood
+- [Interest rate](/interest-rate/) — affects bond market values
+- [Volatility](/stock/) — affects embedded option value
+- [Liquidity](/stock-exchange/) — issuer refinancing ability
 
 </div>

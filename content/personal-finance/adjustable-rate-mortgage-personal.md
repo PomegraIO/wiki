@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For fixed-rate mortgages, see [fixed-rate mortgage](/fixed-rate-mortgage-personal); for general mortgage information, see [mortgage](/mortgage-personal).
+For fixed-rate mortgages, see [fixed-rate mortgage](/fixed-rate-mortgage-personal/); for general mortgage information, see [mortgage](/mortgage-personal/).
 
 </div>
 
@@ -105,16 +105,16 @@ To justify an ARM, you must be confident you will sell or refinance and save eno
 
 ### Closely related
 
-- [Mortgage](/mortgage-personal) — general mortgage structure
-- [Fixed-rate mortgage](/fixed-rate-mortgage-personal) — stable alternative
+- [Mortgage](/mortgage-personal/) — general mortgage structure
+- [Fixed-rate mortgage](/fixed-rate-mortgage-personal/) — stable alternative
 - Refinance — replacing ARM when rate adjusts
-- [Interest rate](/interest-rate) — determines ARM adjustment
+- [Interest rate](/interest-rate/) — determines ARM adjustment
 
 ### Wider context
 
-- [Interest rate risk](/interest-rate) — fundamental risk of ARMs
-- [Emergency fund](/emergency-fund) — covers payment increase if unexpected
-- [Budgeting methods](/budgeting-methods) — accounting for potential payment increase
-- [Homeowners insurance](/homeowners-insurance) — required alongside mortgage
+- [Interest rate risk](/interest-rate/) — fundamental risk of ARMs
+- [Emergency fund](/emergency-fund/) — covers payment increase if unexpected
+- [Budgeting methods](/budgeting-methods/) — accounting for potential payment increase
+- [Homeowners insurance](/homeowners-insurance/) — required alongside mortgage
 
 </div>

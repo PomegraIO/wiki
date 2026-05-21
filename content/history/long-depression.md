@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Long Depression as a whole. For the panic that triggered it, see [Panic of 1873](/panic-of-1873); for the monetary constraints, see [gold standard](/gold-standard).
+This entry covers the Long Depression as a whole. For the panic that triggered it, see [Panic of 1873](/panic-of-1873/); for the monetary constraints, see [gold standard](/gold-standard/).
 
 </div>
 
@@ -74,16 +74,16 @@ By 1900, the Long Depression was over, though its social scars remained. It had 
 
 ### Closely related
 
-- [Panic of 1873](/panic-of-1873) — the triggering event
-- [Great Depression](/great-depression) — a later deflationary crisis of even greater severity
-- [Deflation](/deflation) — the defining characteristic
+- [Panic of 1873](/panic-of-1873/) — the triggering event
+- [Great Depression](/great-depression/) — a later deflationary crisis of even greater severity
+- [Deflation](/deflation/) — the defining characteristic
 
 ### Wider context
 
-- [Gold standard](/gold-standard) — the monetary constraint
-- [Central bank](/central-bank) — the institution that might have helped
-- [Inflation](/inflation) — the opposite problem faced by later eras
-- [Recession](/recession) — the cyclical aspect
+- [Gold standard](/gold-standard/) — the monetary constraint
+- [Central bank](/central-bank/) — the institution that might have helped
+- [Inflation](/inflation/) — the opposite problem faced by later eras
+- [Recession](/recession/) — the cyclical aspect
 - Economic policy — the debates that followed
 
 </div>

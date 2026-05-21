@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Sarbanes-Oxley Act** (SOX), enacted in 2002, was Congress's response to corporate frauds at Enron, WorldCom, and others. It tightened [public company](/public-company) disclosure, required executives to certify financial statements under penalty of perjury, mandated audit committee independence and auditor rotation, and created the Public Company Accounting Oversight Board (PCAOB) to oversee auditors. SOX was the most significant securities law change since the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934).*
+*The **Sarbanes-Oxley Act** (SOX), enacted in 2002, was Congress's response to corporate frauds at Enron, WorldCom, and others. It tightened [public company](/public-company/) disclosure, required executives to certify financial statements under penalty of perjury, mandated audit committee independence and auditor rotation, and created the Public Company Accounting Oversight Board (PCAOB) to oversee auditors. SOX was the most significant securities law change since the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/).*
 
 <div class="wiki-hatnote">
 
-Sarbanes-Oxley applies to US-listed public companies. The [Dodd-Frank Act](/dodd-frank-act) (2010) extended and deepened certain SOX requirements.
+Sarbanes-Oxley applies to US-listed public companies. The [Dodd-Frank Act](/dodd-frank-act/) (2010) extended and deepened certain SOX requirements.
 
 </div>
 
@@ -33,7 +33,7 @@ Sarbanes-Oxley applies to US-listed public companies. The [Dodd-Frank Act](/dodd
 | **Response to** | Enron, WorldCom, Tyco fraud scandals |
 | **Primary focus** | Corporate disclosure, auditor independence, executive accountability |
 | **Key sections** | Section 302 (executive certification), Section 404 (internal controls), Section 906 (criminal penalties) |
-| **Administering agencies** | [SEC](/securities-and-exchange-commission), PCAOB |
+| **Administering agencies** | [SEC](/securities-and-exchange-commission/), PCAOB |
 | **Scope** | US-listed public companies |
 
 </aside>
@@ -68,7 +68,7 @@ SOX requires that companies disclose whether the audit committee includes a "fin
 
 ## Increased SEC disclosure
 
-SOX expanded disclosure requirements beyond what was already required by the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934). Companies must now disclose off-balance-sheet transactions, management's compensation philosophy, the code of ethics (or explain why there is none), and the structure of the audit committee. The intent was to shine light into dark corners where fraud often hides.
+SOX expanded disclosure requirements beyond what was already required by the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/). Companies must now disclose off-balance-sheet transactions, management's compensation philosophy, the code of ethics (or explain why there is none), and the structure of the audit committee. The intent was to shine light into dark corners where fraud often hides.
 
 ## The cost-benefit debate
 
@@ -80,15 +80,15 @@ SOX is hotly debated. Proponents argue it has deterred fraud and restored invest
 
 ### Closely related
 
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — expanded by SOX
-- [Dodd-Frank Act](/dodd-frank-act) — further tightened disclosure post-2008
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — expanded by SOX
+- [Dodd-Frank Act](/dodd-frank-act/) — further tightened disclosure post-2008
 - Public Company Accounting Oversight Board — created by SOX
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers SOX
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers SOX
 - Fraud — what SOX targets
 
 ### Wider context
 
-- [Public company](/public-company) — covered by SOX
+- [Public company](/public-company/) — covered by SOX
 - Auditor — subject to PCAOB oversight
 - Financial reporting — enhanced by SOX
 - Enron scandal — catalyst for SOX

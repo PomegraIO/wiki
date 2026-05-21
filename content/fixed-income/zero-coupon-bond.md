@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **zero-coupon bond** is a debt security that makes no periodic coupon payments. Instead, it is issued at a steep discount to its face value and redeemed at full value at maturity, with the entire return coming from the discount. Zero-coupon bonds are common among Treasury securities (Treasury bills, [STRIPS](/treasury-bond)), corporate issuers, and investment funds.*
+*A **zero-coupon bond** is a debt security that makes no periodic coupon payments. Instead, it is issued at a steep discount to its face value and redeemed at full value at maturity, with the entire return coming from the discount. Zero-coupon bonds are common among Treasury securities (Treasury bills, [STRIPS](/treasury-bond/)), corporate issuers, and investment funds.*
 
 <div class="wiki-hatnote">
 
-For bonds that pay periodic coupons, see [coupon rate](/coupon-rate). For Treasury securities with zero coupons, see [Treasury bill](/treasury-bill). For zero-coupon corporate debt, see [junk bond](/junk-bond).
+For bonds that pay periodic coupons, see [coupon rate](/coupon-rate/). For Treasury securities with zero coupons, see [Treasury bill](/treasury-bill/). For zero-coupon corporate debt, see [junk bond](/junk-bond/).
 
 </div>
 
@@ -51,7 +51,7 @@ This compounding creates powerful long-term growth. An investor with a 20-year z
 
 Zero-coupon bonds serve several purposes:
 
-**Simplicity for Treasury** — The Treasury issues zero-coupon Treasury securities ([Treasury bills](/treasury-bill)) because they are simple to administer and investors understand them intuitively.
+**Simplicity for Treasury** — The Treasury issues zero-coupon Treasury securities ([Treasury bills](/treasury-bill/)) because they are simple to administer and investors understand them intuitively.
 
 **Tax efficiency (in some cases)** — Some investors, particularly those in tax-deferred accounts (IRAs, 401(k)s), prefer zero-coupon bonds because all return is realized at maturity, avoiding interim tax bills.
 
@@ -69,9 +69,9 @@ This makes zero-coupon bonds unsuitable for taxable accounts unless the investor
 
 ## Extreme interest-rate sensitivity
 
-Zero-coupon bonds have the longest possible [duration](/duration) for their maturity. A 10-year zero-coupon bond has a [duration](/duration) of approximately 10 years; a 10-year coupon bond has a [duration](/duration) of approximately 7–8 years.
+Zero-coupon bonds have the longest possible [duration](/duration/) for their maturity. A 10-year zero-coupon bond has a [duration](/duration/) of approximately 10 years; a 10-year coupon bond has a [duration](/duration/) of approximately 7–8 years.
 
-This extreme [duration](/duration) means zero-coupon bonds are extraordinarily sensitive to interest-rate changes. A 1% rise in rates causes a 10% price decline in a 10-year zero-coupon bond. A 1% fall causes a 10% price appreciation. This volatility is the flip side of the long-term compounding — the bonds are leveraged plays on interest rates.
+This extreme [duration](/duration/) means zero-coupon bonds are extraordinarily sensitive to interest-rate changes. A 1% rise in rates causes a 10% price decline in a 10-year zero-coupon bond. A 1% fall causes a 10% price appreciation. This volatility is the flip side of the long-term compounding — the bonds are leveraged plays on interest rates.
 
 For buy-and-hold investors with long time horizons, this volatility is irrelevant (the bond matures at par). For investors who might need to sell before maturity, the volatility is meaningful — they could face significant losses in a rising-rate environment.
 
@@ -87,13 +87,13 @@ STRIPS are identical to corporate zero-coupon bonds in structure but have the cr
 
 Corporations sometimes issue zero-coupon bonds, particularly distressed issuers or start-ups. A zero-coupon bond is attractive to an issuer with weak cash flow (because no interim coupon payments are required) but unattractive to investors (who must reinvest or endure no income).
 
-The higher [duration](/duration) risk and lack of interim cash flow make corporate zero-coupon bonds appropriate only for investors with strong risk tolerance and long time horizons.
+The higher [duration](/duration/) risk and lack of interim cash flow make corporate zero-coupon bonds appropriate only for investors with strong risk tolerance and long time horizons.
 
 ## Valuation and trading
 
-A zero-coupon bond's value is simply the [present value](/yield-to-maturity) of the single future cash flow (the face value at maturity). If a 10-year zero-coupon bond with a $1,000 face value is trading at a 5% [yield](/yield-to-maturity), its price is $1,000 ÷ (1.05)^10 ≈ $614.
+A zero-coupon bond's value is simply the [present value](/yield-to-maturity/) of the single future cash flow (the face value at maturity). If a 10-year zero-coupon bond with a $1,000 face value is trading at a 5% [yield](/yield-to-maturity/), its price is $1,000 ÷ (1.05)^10 ≈ $614.
 
-Zero-coupon bonds trade less frequently than coupon bonds, but their prices can be easily calculated from the [yield](/yield-to-maturity) and maturity date.
+Zero-coupon bonds trade less frequently than coupon bonds, but their prices can be easily calculated from the [yield](/yield-to-maturity/) and maturity date.
 
 ## See also
 
@@ -101,18 +101,18 @@ Zero-coupon bonds trade less frequently than coupon bonds, but their prices can 
 
 ### Closely related
 
-- [Treasury bill](/treasury-bill) — the most common zero-coupon security
-- [Coupon rate](/coupon-rate) — periodic payments on most bonds
-- [Par value](/par-value) — the face value redeemed at maturity
-- [Duration](/duration) — extreme for zero-coupon bonds
-- [Yield to maturity](/yield-to-maturity) — the single return metric
+- [Treasury bill](/treasury-bill/) — the most common zero-coupon security
+- [Coupon rate](/coupon-rate/) — periodic payments on most bonds
+- [Par value](/par-value/) — the face value redeemed at maturity
+- [Duration](/duration/) — extreme for zero-coupon bonds
+- [Yield to maturity](/yield-to-maturity/) — the single return metric
 
 ### Wider context
 
-- [Bond](/bond) — debt securities generally
-- [Interest rate](/interest-rate) — affects zero-coupon bond prices dramatically
-- [Compound interest](/compound-interest) — powers zero-coupon bond growth
-- [Tax-deferred](/i-bond) — preferred account type for zero-coupon bonds
-- [Central bank](/central-bank) — monetary policy affects zero-coupon yields
+- [Bond](/bond/) — debt securities generally
+- [Interest rate](/interest-rate/) — affects zero-coupon bond prices dramatically
+- [Compound interest](/compound-interest/) — powers zero-coupon bond growth
+- [Tax-deferred](/i-bond/) — preferred account type for zero-coupon bonds
+- [Central bank](/central-bank/) — monetary policy affects zero-coupon yields
 
 </div>

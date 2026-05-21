@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **residual income model (RIM)** values equity by asking: what is the book value of the company's equity, plus the present value of the excess earnings it will generate beyond its cost of equity? It is a theoretically elegant alternative to [dividend discount models](/dividend-discount-model) and [free cash flow valuation](/free-cash-flow-to-equity-valuation) that emphasizes the spread between return on equity and cost of equity.*
+*The **residual income model (RIM)** values equity by asking: what is the book value of the company's equity, plus the present value of the excess earnings it will generate beyond its cost of equity? It is a theoretically elegant alternative to [dividend discount models](/dividend-discount-model/) and [free cash flow valuation](/free-cash-flow-to-equity-valuation/) that emphasizes the spread between return on equity and cost of equity.*
 
 ## The intuition
 
@@ -109,17 +109,17 @@ The terminal assumption is critical. A few approaches:
 
 ### Closely related
 
-- [Abnormal earnings growth model](/abnormal-earnings-growth-model) — a variant of RIM
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — equivalent to RIM if assumptions are consistent
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — the cash-flow counterpart
-- [Return on equity](/return-on-equity) — the key metric in RIM
-- [Cost of equity](/cost-of-equity) — the hurdle rate
+- [Abnormal earnings growth model](/abnormal-earnings-growth-model/) — a variant of RIM
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — equivalent to RIM if assumptions are consistent
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — the cash-flow counterpart
+- [Return on equity](/return-on-equity/) — the key metric in RIM
+- [Cost of equity](/cost-of-equity/) — the hurdle rate
 
 ### Components
 
 - Book value — the starting point
 - Net income — the earnings metric
-- [Retained earnings](/retained-earnings) — drives book value growth
+- [Retained earnings](/retained-earnings/) — drives book value growth
 
 ### Related concepts
 
@@ -128,7 +128,7 @@ The terminal assumption is critical. A few approaches:
 
 ### Testing and sensitivity
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — ROE and cost-of-equity sensitivity
-- [Football field valuation](/football-field-valuation) — combining with other methods
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — ROE and cost-of-equity sensitivity
+- [Football field valuation](/football-field-valuation/) — combining with other methods
 
 </div>

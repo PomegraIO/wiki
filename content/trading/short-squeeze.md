@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For the basics of shorting, see [short selling](/short-selling). For gamma-driven squeezes (options-driven), see gamma squeeze. For the opposite phenomenon, see bear trap.
+For the basics of shorting, see [short selling](/short-selling/). For gamma-driven squeezes (options-driven), see gamma squeeze. For the opposite phenomenon, see bear trap.
 
 </div>
 
@@ -147,7 +147,7 @@ Some argue squeezes are market self-correction (punishing over-short positions);
 ### Closely related
 
 - Gamma squeeze — options-driven analogue
-- [Short selling](/short-selling) — the position being squeezed
+- [Short selling](/short-selling/) — the position being squeezed
 - Covering — buying back shorted shares
 - Short interest — measure of squeeze vulnerability
 

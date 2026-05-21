@@ -87,17 +87,17 @@ His influence on active investing has been substantial. Generations of fund mana
 
 ### Closely related
 
-- [John Bogle](/john-bogle) — Advocate of index funds vs. active management
-- [Warren Buffett](/warren-buffett) — Another active manager who beat the market
-- [Charlie Munger](/charlie-munger) — A contemporary investor
-- [Jeremy Grantham](/jeremy-grantham) — A long-term growth investor
+- [John Bogle](/john-bogle/) — Advocate of index funds vs. active management
+- [Warren Buffett](/warren-buffett/) — Another active manager who beat the market
+- [Charlie Munger](/charlie-munger/) — A contemporary investor
+- [Jeremy Grantham](/jeremy-grantham/) — A long-term growth investor
 
 ### Wider context
 
 - Active management — Which he exemplified
-- [Mutual fund](/mutual-fund) — His vehicle
-- [Growth investing](/growth-investing) — His focus
+- [Mutual fund](/mutual-fund/) — His vehicle
+- [Growth investing](/growth-investing/) — His focus
 - Stock picking — His discipline
-- [Stock market](/stock-market) — His arena
+- [Stock market](/stock-market/) — His arena
 
 </div>

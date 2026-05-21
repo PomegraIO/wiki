@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **days inventory outstanding** — or **DIO** — equals 365 divided by [inventory turnover](/inventory-turnover). A DIO of 30 means inventory sits for 30 days on average before sale. Lower DIO signals faster turnover and less working capital tied up.*
+*The **days inventory outstanding** — or **DIO** — equals 365 divided by [inventory turnover](/inventory-turnover/). A DIO of 30 means inventory sits for 30 days on average before sale. Lower DIO signals faster turnover and less working capital tied up.*
 
 <aside class="wiki-infobox">
 
@@ -57,9 +57,9 @@ Example: A company with inventory turnover of 9 has DIO of 365 ÷ 9 = 41 days.
 
 ### Closely related
 
-- [Inventory-turnover](/inventory-turnover) — the reciprocal
-- [Days-sales-outstanding](/days-sales-outstanding)
-- [Days-payable-outstanding](/days-payable-outstanding)
-- [Cash-conversion-cycle](/cash-conversion-cycle) — combined metric
+- [Inventory-turnover](/inventory-turnover/) — the reciprocal
+- [Days-sales-outstanding](/days-sales-outstanding/)
+- [Days-payable-outstanding](/days-payable-outstanding/)
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — combined metric
 
 </div>

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **proof-of-authority** (**PoA**) is a consensus mechanism where a set of known, approved validators validate transactions based on their reputation rather than cryptocurrency stake. PoA is highly efficient but requires trusting the validators. It is commonly used in [permissioned blockchains](/permissioned-blockchain), testnets, and private networks.*
+*A **proof-of-authority** (**PoA**) is a consensus mechanism where a set of known, approved validators validate transactions based on their reputation rather than cryptocurrency stake. PoA is highly efficient but requires trusting the validators. It is commonly used in [permissioned blockchains](/permissioned-blockchain/), testnets, and private networks.*
 
 <div class="wiki-hatnote">
 
-This entry covers proof-of-authority as a mechanism. For proof-of-stake, see [proof-of-stake](/proof-of-stake); for proof-of-work, see [proof-of-work](/proof-of-work).
+This entry covers proof-of-authority as a mechanism. For proof-of-stake, see [proof-of-stake](/proof-of-stake/); for proof-of-work, see [proof-of-work](/proof-of-work/).
 
 </div>
 
@@ -48,7 +48,7 @@ Other nodes simply verify that the block was proposed by an approved validator a
 
 ## Reputation instead of cryptoeconomics
 
-Unlike [proof-of-stake](/proof-of-stake) where validators lose cryptocurrency for misbehaviour, in PoA validators risk their **reputation**. If a validator proposes an invalid block or attacks the network, they can be revoked and expelled from the validator set.
+Unlike [proof-of-stake](/proof-of-stake/) where validators lose cryptocurrency for misbehaviour, in PoA validators risk their **reputation**. If a validator proposes an invalid block or attacks the network, they can be revoked and expelled from the validator set.
 
 This works if validators are known entities with real-world reputation to protect. An exchange, bank, or government agency would not risk their reputation for the minor gains from attacking a blockchain.
 
@@ -117,15 +117,15 @@ Proponents counter that PoA is appropriate for specific contexts (testnets, perm
 
 ### Closely related
 
-- [Proof-of-stake](/proof-of-stake) — decentralised consensus
-- [Proof-of-work](/proof-of-work) — alternative consensus mechanism
-- [Validator](/validator) — who validates in PoA
-- [Permissioned blockchain](/permissioned-blockchain) — uses PoA often
+- [Proof-of-stake](/proof-of-stake/) — decentralised consensus
+- [Proof-of-work](/proof-of-work/) — alternative consensus mechanism
+- [Validator](/validator/) — who validates in PoA
+- [Permissioned blockchain](/permissioned-blockchain/) — uses PoA often
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Consensus mechanism](/proof-of-work) — how agreement is reached
-- [Private blockchain](/private-blockchain) — PoA is used in private chains
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Consensus mechanism](/proof-of-work/) — how agreement is reached
+- [Private blockchain](/private-blockchain/) — PoA is used in private chains
 
 </div>

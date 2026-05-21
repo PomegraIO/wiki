@@ -29,11 +29,11 @@ The opposite of action bias. Related to status quo bias. For harmful inaction in
 |   |   |
 |---|---|
 | **What it is** | Tendency to avoid action when action is better |
-| **Opposite of** | [Action bias](/action-bias) |
+| **Opposite of** | [Action bias](/action-bias/) |
 | **Driven by** | Regret aversion for action; responsibility avoidance |
 | **Operates on** | Selling losing positions; rebalancing; taking opportunities |
 | **Investor impact** | Concentrated positions; drifting allocations; missed gains |
-| **Related phenomenon** | [Status quo bias](/status-quo-bias), [sunk cost](/sunk-cost-fallacy) |
+| **Related phenomenon** | [Status quo bias](/status-quo-bias/), [sunk cost](/sunk-cost-fallacy/) |
 
 </aside>
 
@@ -55,9 +55,9 @@ The opposite of action bias. Related to status quo bias. For harmful inaction in
 
 **Avoiding allocation changes.** Your 30-year-old allocation is no longer appropriate at age 50. You should increase bonds. But omission bias makes you avoid the action, keeping the old allocation.
 
-## Omission bias and [sunk-cost fallacy](/sunk-cost-fallacy)
+## Omission bias and [sunk-cost fallacy](/sunk-cost-fallacy/)
 
-Omission bias and [sunk-cost fallacy](/sunk-cost-fallacy) often co-occur. You bought a stock at $100 and it fell to $50. The sunk-cost fallacy makes you reluctant to "realize" the loss. Omission bias makes you avoid taking the action to sell. Together, they lock you into the losing position.
+Omission bias and [sunk-cost fallacy](/sunk-cost-fallacy/) often co-occur. You bought a stock at $100 and it fell to $50. The sunk-cost fallacy makes you reluctant to "realize" the loss. Omission bias makes you avoid taking the action to sell. Together, they lock you into the losing position.
 
 ## Omission bias and responsibility
 
@@ -65,9 +65,9 @@ A key driver of omission bias is the desire to avoid responsibility. An investor
 
 This is a form of self-deception. Inaction that leads to a bad outcome is just as much your responsibility as action that leads to a bad outcome. But the psychology makes inaction feel safer.
 
-## Omission bias vs. [action bias](/action-bias)
+## Omission bias vs. [action bias](/action-bias/)
 
-[Action bias](/action-bias) is taking action when inaction is better. Omission bias is the reverse. They can both occur in the same investor in different contexts:
+[Action bias](/action-bias/) is taking action when inaction is better. Omission bias is the reverse. They can both occur in the same investor in different contexts:
 
 - Omission bias in concentrated positions: you do not sell a losing stock (inaction).
 - Action bias in trading: you rebalance unnecessarily (action).
@@ -79,7 +79,7 @@ Both are costly.
 - **Pre-commit to actions.** Decide before the fact: "If the stock falls 25%, I will sell." This removes the omission bias decision-making when the stock does fall.
 - **Separate responsibility from outcome.** Recognize that a decision (action or inaction) is judged by the process, not the outcome. A good decision can have a bad outcome. Do not let outcome bias drive your choices.
 - **Use a rule for rebalancing.** "Rebalance when allocation drifts 5%" is a rule that forces action against omission bias.
-- **Set and follow an [asset allocation](/asset-allocation).** An allocation rule forces you to act (rebalance) when needed, overcoming omission bias.
+- **Set and follow an [asset allocation](/asset-allocation/).** An allocation rule forces you to act (rebalance) when needed, overcoming omission bias.
 - **Get a second opinion.** An advisor or colleague can push you toward necessary action when omission bias is driving inaction.
 - **Track cost of inaction.** A losing stock you held for too long cost you X. A drifting allocation that you did not rebalance cost you Y. Track these costs. Over time, you will see that omission bias is expensive.
 
@@ -89,18 +89,18 @@ Both are costly.
 
 ### Closely related
 
-- [Action bias](/action-bias) — the opposite error (action when inaction better)
-- [Status quo bias](/status-quo-bias) — preference for current state
-- [Sunk-cost fallacy](/sunk-cost-fallacy) — not selling losers
-- [Regret aversion](/regret-aversion) — regret over taking action
-- [Omission](/omission-bias) regret — feeling regretful about inaction
+- [Action bias](/action-bias/) — the opposite error (action when inaction better)
+- [Status quo bias](/status-quo-bias/) — preference for current state
+- [Sunk-cost fallacy](/sunk-cost-fallacy/) — not selling losers
+- [Regret aversion](/regret-aversion/) — regret over taking action
+- [Omission](/omission-bias/) regret — feeling regretful about inaction
 
 ### Wider context
 
-- [Portfolio rebalancing](/asset-allocation) — fighting omission bias
-- [Selling discipline](/disposition-effect) — overcoming omission bias to cut losers
+- [Portfolio rebalancing](/asset-allocation/) — fighting omission bias
+- [Selling discipline](/disposition-effect/) — overcoming omission bias to cut losers
 - Opportunity cost — the hidden cost of omission
 - Behavioral portfolio theory — how omission bias shapes portfolios
-- [Inaction regret](/regret-aversion) — the weaker feeling that enables omission bias
+- [Inaction regret](/regret-aversion/) — the weaker feeling that enables omission bias
 
 </div>

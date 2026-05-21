@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **sum-of-the-parts (SOTP)** valuation recognizes that a diversified company with multiple business segments often has segments with different growth rates, risk profiles, and multiples. Rather than value the whole at a single multiple or discount rate, you value each segment separately using appropriate metrics and multiples, then add them together. The result is often higher than valuing the company as a whole—highlighting the [conglomerate discount](/conglomerate-discount).*
+*A **sum-of-the-parts (SOTP)** valuation recognizes that a diversified company with multiple business segments often has segments with different growth rates, risk profiles, and multiples. Rather than value the whole at a single multiple or discount rate, you value each segment separately using appropriate metrics and multiples, then add them together. The result is often higher than valuing the company as a whole—highlighting the [conglomerate discount](/conglomerate-discount/).*
 
 ## How SOTP works
 
@@ -19,8 +19,8 @@ image: "/svg/valuation.svg"
 **Step 2: Forecast segment financials.** Project revenue, EBITDA, and other metrics for each segment. This might be given in financial reports or require estimation.
 
 **Step 3: Choose valuation method per segment.** Each segment has different characteristics:
-- A mature, cash-generative segment might use [DCF](/discounted-cash-flow-valuation) or a 10x EBITDA multiple.
-- A high-growth segment might use a 20x EBITDA multiple or [three-stage DCF](/three-stage-dcf).
+- A mature, cash-generative segment might use [DCF](/discounted-cash-flow-valuation/) or a 10x EBITDA multiple.
+- A high-growth segment might use a 20x EBITDA multiple or [three-stage DCF](/three-stage-dcf/).
 - A declining segment might use a lower multiple or assume eventual exit.
 
 **Step 4: Value each segment.** Apply the chosen valuation (multiple or DCF) to each.
@@ -111,10 +111,10 @@ A typical SOTP analysis includes:
 
 ### Closely related
 
-- [Multiples valuation](/multiples-valuation) — the method applied per segment
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — alternative segment method
-- [Conglomerate discount](/conglomerate-discount) — why SOTP exceeds market value
-- [Comparable company analysis](/comparable-company-analysis) — peer multiples per segment
+- [Multiples valuation](/multiples-valuation/) — the method applied per segment
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — alternative segment method
+- [Conglomerate discount](/conglomerate-discount/) — why SOTP exceeds market value
+- [Comparable company analysis](/comparable-company-analysis/) — peer multiples per segment
 
 ### Context and application
 
@@ -125,12 +125,12 @@ A typical SOTP analysis includes:
 ### Related concepts
 
 - Holding company discount — similar discount for holding structures
-- [Spinoff](/spinoff) — where SOTP value sometimes comes to market
+- [Spinoff](/spinoff/) — where SOTP value sometimes comes to market
 
 ### Analysis
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing segment multiples
-- [Football field valuation](/football-field-valuation) — combining SOTP with other methods
-- [Scenario valuation](/scenario-valuation) — SOTP by scenario
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing segment multiples
+- [Football field valuation](/football-field-valuation/) — combining SOTP with other methods
+- [Scenario valuation](/scenario-valuation/) — SOTP by scenario
 
 </div>

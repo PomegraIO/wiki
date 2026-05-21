@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*T+2 settlement (or "T plus 2") means that a stock trade executed today settles (cash and shares exchange hands between buyer and seller) two business days later. If you buy a stock on Monday, you own the shares on Wednesday (T+2). You do not have the cash until Wednesday either. T+2 is the regulatory standard for most U.S. equities and is managed by the [clearinghouse](/clearing-firm).*
+*T+2 settlement (or "T plus 2") means that a stock trade executed today settles (cash and shares exchange hands between buyer and seller) two business days later. If you buy a stock on Monday, you own the shares on Wednesday (T+2). You do not have the cash until Wednesday either. T+2 is the regulatory standard for most U.S. equities and is managed by the [clearinghouse](/clearing-firm/).*
 
 <div class="wiki-hatnote">
 
-For settlement timing, see settlement. For the infrastructure, see [clearinghouse](/clearing-firm). For older settlement periods, see T+3.
+For settlement timing, see settlement. For the infrastructure, see [clearinghouse](/clearing-firm/). For older settlement periods, see T+3.
 
 </div>
 
@@ -134,12 +134,12 @@ For retail traders using brokers:
 
 - Settlement — general concept of settlement
 - Clearing — process of confirming trades
-- [Clearing firm](/clearing-firm) — manages settlement
-- [Clearinghouse](/clearing-firm) — central institution processing settlement
+- [Clearing firm](/clearing-firm/) — manages settlement
+- [Clearinghouse](/clearing-firm/) — central institution processing settlement
 
 ### Organizations and infrastructure
 
-- [DTCC](/dtcc) — Depository Trust & Clearing Corporation
+- [DTCC](/dtcc/) — Depository Trust & Clearing Corporation
 - NSCC — National Securities Clearing Corporation (clearing house)
 - DTC — Depository Trust Company (securities depository)
 
@@ -152,7 +152,7 @@ For retail traders using brokers:
 
 ### Risk and operations
 
-- [Counterparty risk](/counterparty-risk) — reduced by faster settlement
+- [Counterparty risk](/counterparty-risk/) — reduced by faster settlement
 - Fail to deliver — when seller does not deliver by T+2
 - Margin — credit extended during settlement period
 - Margin call — can be triggered by settlement mismatches

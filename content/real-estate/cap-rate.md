@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*The **cap rate** (capitalization rate) is the annual [net operating income](/net-operating-income) (NOI) of a property divided by its purchase price or current market value. Cap rate is the fundamental valuation metric in real estate, representing the unleveraged return an investor would earn on an all-cash purchase.*
+*The **cap rate** (capitalization rate) is the annual [net operating income](/net-operating-income/) (NOI) of a property divided by its purchase price or current market value. Cap rate is the fundamental valuation metric in real estate, representing the unleveraged return an investor would earn on an all-cash purchase.*
 
 <div class="wiki-hatnote">
 
-For context on NOI, see [net-operating-income](/net-operating-income). For leveraged returns, see [cash-on-cash-return](/cash-on-cash-return). For real estate investment broadly, see [real-estate-investment-trust](/real-estate-investment-trust).
+For context on NOI, see [net-operating-income](/net-operating-income/). For leveraged returns, see [cash-on-cash-return](/cash-on-cash-return/). For real estate investment broadly, see [real-estate-investment-trust](/real-estate-investment-trust/).
 
 </div>
 
@@ -115,22 +115,22 @@ This cap-rate discipline prevents emotional or speculative bidding and forces ri
 
 ### Real estate metrics
 
-- [Net operating income](/net-operating-income) — the numerator of cap rate
-- [Gross rent multiplier](/gross-rent-multiplier) — an alternative valuation shortcut
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns on invested capital
+- [Net operating income](/net-operating-income/) — the numerator of cap rate
+- [Gross rent multiplier](/gross-rent-multiplier/) — an alternative valuation shortcut
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns on invested capital
 - Internal rate of return (IRR) — total return including appreciation
 
 ### Real estate context
 
-- [Real estate investment trust](/real-estate-investment-trust) — institutions using cap rates to value properties
-- [Equity REIT](/equity-reit) — property owners focused on cap-rate returns
-- [Value-add real estate](/value-add-real-estate) — buying at high cap rates, improving, and exiting at low cap rates
-- [Commercial-real-estate](/commercial-real-estate) — where cap rates are most relevant
+- [Real estate investment trust](/real-estate-investment-trust/) — institutions using cap rates to value properties
+- [Equity REIT](/equity-reit/) — property owners focused on cap-rate returns
+- [Value-add real estate](/value-add-real-estate/) — buying at high cap rates, improving, and exiting at low cap rates
+- [Commercial-real-estate](/commercial-real-estate/) — where cap rates are most relevant
 
 ### Context and comparison
 
-- [Interest rate](/interest-rate) — affects cap rates inversely
-- [Yield curve](/yield-curve) — the context for real estate yields
-- [Bond](/bond) — cap rates are the real estate equivalent to bond yields
+- [Interest rate](/interest-rate/) — affects cap rates inversely
+- [Yield curve](/yield-curve/) — the context for real estate yields
+- [Bond](/bond/) — cap rates are the real estate equivalent to bond yields
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Sarbanes-Oxley Act's passage and provisions. For the context that prompted it, see [Enron Scandal](/enron-scandal) and [WorldCom Scandal](/worldcom-scandal); for subsequent regulatory evolution, see financial regulation.
+This entry covers the Sarbanes-Oxley Act's passage and provisions. For the context that prompted it, see [Enron Scandal](/enron-scandal/) and [WorldCom Scandal](/worldcom-scandal/); for subsequent regulatory evolution, see financial regulation.
 
 </div>
 
@@ -85,8 +85,8 @@ But it did not address systemic risks like excessive leverage, interconnectednes
 
 ### Closely related
 
-- [Enron Scandal](/enron-scandal) — the fraud that prompted SOX
-- [WorldCom Scandal](/worldcom-scandal) — another fraud that motivated passage
+- [Enron Scandal](/enron-scandal/) — the fraud that prompted SOX
+- [WorldCom Scandal](/worldcom-scandal/) — another fraud that motivated passage
 - PCAOB — the regulator created by SOX
 
 ### Wider context

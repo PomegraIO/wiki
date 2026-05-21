@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Bear Stearns collapse. For the broader crisis, see 2008 Financial Crisis; for the later Lehman Brothers failure, see [Lehman Brothers Collapse](/lehman-brothers-collapse).
+This entry covers the Bear Stearns collapse. For the broader crisis, see 2008 Financial Crisis; for the later Lehman Brothers failure, see [Lehman Brothers Collapse](/lehman-brothers-collapse/).
 
 </div>
 
@@ -78,16 +78,16 @@ Bear Stearns' collapse and rescue demonstrated the interconnectedness of modern 
 
 ### Closely related
 
-- [Lehman Brothers Collapse](/lehman-brothers-collapse) — the more severe failure that followed
+- [Lehman Brothers Collapse](/lehman-brothers-collapse/) — the more severe failure that followed
 - 2008 Financial Crisis — the broader meltdown
-- [Systemic risk](/systemic-risk) — the concern that motivated the rescue
+- [Systemic risk](/systemic-risk/) — the concern that motivated the rescue
 
 ### Wider context
 
 - Investment bank — Bear's institution type
 - Mortgage-backed securities — the toxic assets
-- [Federal Reserve](/federal-reserve) — the rescuer
-- [JPMorgan Chase](/jpmorgan-chase) — the acquirer
+- [Federal Reserve](/federal-reserve/) — the rescuer
+- [JPMorgan Chase](/jpmorgan-chase/) — the acquirer
 - Liquidity — the crisis Bear faced
 
 </div>

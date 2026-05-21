@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers Black Monday 1987. For other major stock crashes, see [Wall Street Crash of 1929](/wall-street-crash-of-1929) and Black Tuesday 2008; for the mechanics that enabled the crash, see program trading.
+This entry covers Black Monday 1987. For other major stock crashes, see [Wall Street Crash of 1929](/wall-street-crash-of-1929/) and Black Tuesday 2008; for the mechanics that enabled the crash, see program trading.
 
 </div>
 
@@ -45,7 +45,7 @@ The stock market had been on a strong run through much of 1987. The Dow had rise
 
 The US dollar had been depreciating, raising fears about inflation. The Federal Reserve, under new Chair Alan Greenspan (appointed in August), faced pressure about its policy direction. Some market participants worried that the Fed might tighten, which would be a headwind for stocks. Additionally, there was concern about the trade deficit and the fiscal deficit — the US was running large deficits simultaneously.
 
-From a market perspective, valuations had climbed. The [price-to-earnings ratio](/price-to-earnings-ratio) had risen, leaving little room for disappointment.
+From a market perspective, valuations had climbed. The [price-to-earnings ratio](/price-to-earnings-ratio/) had risen, leaving little room for disappointment.
 
 ## Program trading and the feedback loop
 
@@ -83,16 +83,16 @@ Black Monday 1987 demonstrated that even in modern, liquid markets, feedback loo
 
 ### Closely related
 
-- [Wall Street Crash of 1929](/wall-street-crash-of-1929) — the worst single crash before 1987
+- [Wall Street Crash of 1929](/wall-street-crash-of-1929/) — the worst single crash before 1987
 - Stock market crash — the general phenomenon
 - Program trading — the mechanism that amplified the decline
 
 ### Wider context
 
-- [Stock market](/stock-market) — the venue
+- [Stock market](/stock-market/) — the venue
 - Margin — leverage that amplified losses
 - Futures — contracts that moved alongside stocks
-- [Federal Reserve](/federal-reserve) — the institution that stabilized the market
-- [Bull market](/bull-market) · [Bear market](/bear-market) — the regimes
+- [Federal Reserve](/federal-reserve/) — the institution that stabilized the market
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — the regimes
 
 </div>

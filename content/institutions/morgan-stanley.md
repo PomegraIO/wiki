@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Morgan Stanley Group Inc.** is one of the world's leading [investment banks](/broker) and wealth management firms, headquartered in New York. Morgan Stanley advises corporations and governments on major transactions, raises capital through [initial public offerings](/initial-public-offering) and debt issuances, operates major trading operations, and manages substantial assets for institutional investors and ultra-high-net-worth individuals.*
+*The **Morgan Stanley Group Inc.** is one of the world's leading [investment banks](/broker/) and wealth management firms, headquartered in New York. Morgan Stanley advises corporations and governments on major transactions, raises capital through [initial public offerings](/initial-public-offering/) and debt issuances, operates major trading operations, and manages substantial assets for institutional investors and ultra-high-net-worth individuals.*
 
 <div class="wiki-hatnote">
 
@@ -53,9 +53,9 @@ The firm's advisory fees from large transactions can run into tens of millions o
 
 ## Institutional securities and trading
 
-Morgan Stanley operates substantial trading operations across equities, [fixed-income](/bond), commodities, and derivatives. The firm trades for its own account and on behalf of clients, and derives significant revenue from trading gains and customer spreads.
+Morgan Stanley operates substantial trading operations across equities, [fixed-income](/bond/), commodities, and derivatives. The firm trades for its own account and on behalf of clients, and derives significant revenue from trading gains and customer spreads.
 
-Like all [investment banks](/broker), Morgan Stanley faced revenue pressure post-2008 crisis as regulations limited proprietary trading and as market volatility compressed spreads.
+Like all [investment banks](/broker/), Morgan Stanley faced revenue pressure post-2008 crisis as regulations limited proprietary trading and as market volatility compressed spreads.
 
 ## Wealth management expansion
 
@@ -85,19 +85,19 @@ In recent years, Morgan Stanley has reduced proprietary trading and increased fo
 
 ### Closely related
 
-- [Investment bank](/broker) — the category
-- [Goldman Sachs](/goldman-sachs) — major competitor
-- [JPMorgan Chase](/jpmorgan-chase) — diversified bank
-- [Bank of America](/bank-of-america) — competitor
-- [Broker](/broker) — financial intermediary
+- [Investment bank](/broker/) — the category
+- [Goldman Sachs](/goldman-sachs/) — major competitor
+- [JPMorgan Chase](/jpmorgan-chase/) — diversified bank
+- [Bank of America](/bank-of-america/) — competitor
+- [Broker](/broker/) — financial intermediary
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — major clients
-- [Hedge fund](/hedge-fund) — investment vehicle
+- [Hedge fund](/hedge-fund/) — investment vehicle
 - Trading — revenue source
 
 </div>

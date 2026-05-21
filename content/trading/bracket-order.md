@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For manually linking two exit orders to an entry, see [one-triggers-other](/oto-order). For two exit orders that pre-exist, see [one-cancels-other](/oco-order).
+For manually linking two exit orders to an entry, see [one-triggers-other](/oto-order/). For two exit orders that pre-exist, see [one-cancels-other](/oco-order/).
 
 </div>
 
@@ -40,9 +40,9 @@ For manually linking two exit orders to an entry, see [one-triggers-other](/oto-
 
 A bracket order has three components:
 
-1. **Entry (primary order).** A [market](/market-order), [limit](/limit-order), or [stop order](/stop-order) to enter the position. You specify size and conditions.
-2. **Profit-taking (upper child).** Usually a [limit order](/limit-order) above the entry price (for a long) to take profits at a target.
-3. **Stop-loss (lower child).** Usually a [stop order](/stop-order) below the entry price (for a long) to cut losses at a threshold.
+1. **Entry (primary order).** A [market](/market-order/), [limit](/limit-order/), or [stop order](/stop-order/) to enter the position. You specify size and conditions.
+2. **Profit-taking (upper child).** Usually a [limit order](/limit-order/) above the entry price (for a long) to take profits at a target.
+3. **Stop-loss (lower child).** Usually a [stop order](/stop-order/) below the entry price (for a long) to cut losses at a threshold.
 
 You submit the entire bracket as a single instruction. The entry order goes active immediately. Once the entry fills, both child orders are placed simultaneously, and they race to fill. The first to fill automatically cancels the second.
 
@@ -84,7 +84,7 @@ While the standard bracket is a limit profit target and a stop-loss, you can mix
 
 **Discipline.** You are forced to decide your exit (profit target and stop) *before* you enter. This removes emotional decision-making once the position is live.
 
-**No exposed window.** The two exits are placed simultaneously, so there is no gap in risk coverage. Contrast this with [one-triggers-other](/oto-order), where there is a tiny delay between fill and second order placement.
+**No exposed window.** The two exits are placed simultaneously, so there is no gap in risk coverage. Contrast this with [one-triggers-other](/oto-order/), where there is a tiny delay between fill and second order placement.
 
 **Simplicity.** One command places three orders. Most brokers support bracket orders; they are a standard feature.
 
@@ -108,9 +108,9 @@ While the standard bracket is a limit profit target and a stop-loss, you can mix
 
 ## Common use cases
 
-**Day trading.** A [day trader](/day-order) enters a stock at market, sets a profit target ($1 higher) and a stop-loss ($0.50 lower), and lets the bracket run. Quick, disciplined, automatic.
+**Day trading.** A [day trader](/day-order/) enters a stock at market, sets a profit target ($1 higher) and a stop-loss ($0.50 lower), and lets the bracket run. Quick, disciplined, automatic.
 
-**Swing trading.** A [swing trader](/swing-trading) places a limit order to enter a stock, with profit target at a technical resistance and a stop-loss at a broken support level.
+**Swing trading.** A [swing trader](/swing-trading/) places a limit order to enter a stock, with profit target at a technical resistance and a stop-loss at a broken support level.
 
 **News trading.** After a company announcement, a trader enters with a market order and immediately places a bracket for a quick profit-taking target and a stop-loss in case the news reversal is temporary.
 
@@ -122,23 +122,23 @@ While the standard bracket is a limit profit target and a stop-loss, you can mix
 
 ### Closely related
 
-- [One-triggers-other](/oto-order) — sequential orders; more flexible but slower
-- [One-cancels-other](/oco-order) — two mutually exclusive orders
-- [Stop order](/stop-order) — the stop-loss leg
-- [Limit order](/limit-order) — the profit-taking leg
-- [Market order](/market-order) — fast entry
+- [One-triggers-other](/oto-order/) — sequential orders; more flexible but slower
+- [One-cancels-other](/oco-order/) — two mutually exclusive orders
+- [Stop order](/stop-order/) — the stop-loss leg
+- [Limit order](/limit-order/) — the profit-taking leg
+- [Market order](/market-order/) — fast entry
 
 ### Order types and variants
 
-- [Stop-limit order](/stop-limit-order) — stop-triggered limit
-- [Trailing stop order](/trailing-stop-order) — dynamic stop
+- [Stop-limit order](/stop-limit-order/) — stop-triggered limit
+- [Trailing stop order](/trailing-stop-order/) — dynamic stop
 - Time in force — how long the orders last
 
 ### Strategy and context
 
 - Risk management — defining upside and downside
 - Position management — entering and exiting trades
-- [Day trading](/day-order) — common user of bracket orders
-- [Swing trading](/swing-trading) — another common use case
+- [Day trading](/day-order/) — common user of bracket orders
+- [Swing trading](/swing-trading/) — another common use case
 
 </div>

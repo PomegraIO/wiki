@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Basel III](/basel-iii) is an international banking regulation established by the Basel Committee on Banking Supervision (a group of central banks) in response to the 2008 financial crisis. It sets minimum capital ratios, liquidity standards, and leverage limits for banks globally. Banks must hold capital equal to 7–10.5% of risk-weighted assets (depending on the type of capital) and maintain liquid assets covering 30 days of outflows. Basel III dramatically increased capital requirements compared to predecessor Basel II.*
+*[Basel III](/basel-iii/) is an international banking regulation established by the Basel Committee on Banking Supervision (a group of central banks) in response to the 2008 financial crisis. It sets minimum capital ratios, liquidity standards, and leverage limits for banks globally. Banks must hold capital equal to 7–10.5% of risk-weighted assets (depending on the type of capital) and maintain liquid assets covering 30 days of outflows. Basel III dramatically increased capital requirements compared to predecessor Basel II.*
 
 <div class="wiki-hatnote">
 
-Basel III is international regulation. The [Federal Reserve](/federal-reserve-regulation) and [OCC](/office-of-the-comptroller-of-the-currency) implement it in the US. [Dodd-Frank Act](/dodd-frank-act) mandated US implementation.
+Basel III is international regulation. The [Federal Reserve](/federal-reserve-regulation/) and [OCC](/office-of-the-comptroller-of-the-currency/) implement it in the US. [Dodd-Frank Act](/dodd-frank-act/) mandated US implementation.
 
 </div>
 
@@ -78,7 +78,7 @@ Banking regulators have continued to refine the rules. "Basel IV" (or "Basel 3.1
 
 ## US implementation
 
-The Federal Reserve and OCC have implemented Basel III through regulations. Large banks must pass annual "stress tests" (CCAR) to prove they meet Basel III ratios under a severe recession scenario. Capital standards are complemented by the [Volcker Rule](/volcker-rule) and other post-2008 regulations.
+The Federal Reserve and OCC have implemented Basel III through regulations. Large banks must pass annual "stress tests" (CCAR) to prove they meet Basel III ratios under a severe recession scenario. Capital standards are complemented by the [Volcker Rule](/volcker-rule/) and other post-2008 regulations.
 
 ## Criticism: too tight or too loose?
 
@@ -92,9 +92,9 @@ Economists debate whether Basel III actually reduces systemic risk or just redis
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — mandates Basel III implementation in US
-- [Federal Reserve Regulation](/federal-reserve-regulation) — implements Basel III
-- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency) — implements Basel III
+- [Dodd-Frank Act](/dodd-frank-act/) — mandates Basel III implementation in US
+- [Federal Reserve Regulation](/federal-reserve-regulation/) — implements Basel III
+- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) — implements Basel III
 - Capital ratio — key metric
 - Bank holding company — subject to Basel III
 

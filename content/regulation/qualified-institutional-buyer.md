@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*A **qualified institutional buyer** (QIB) is an institutional investor that meets asset thresholds and is presumed sophisticated enough to invest in restricted securities. The [SEC](/securities-and-exchange-commission) created the QIB category in Rule 144A to allow companies to issue unregistered securities to large institutions without full registration. QIBs are typically pension funds, funds of funds, investment advisers managing $100M+, and insurance companies. Rule 144A QIB offerings allow companies to raise capital without SEC review.*
+*A **qualified institutional buyer** (QIB) is an institutional investor that meets asset thresholds and is presumed sophisticated enough to invest in restricted securities. The [SEC](/securities-and-exchange-commission/) created the QIB category in Rule 144A to allow companies to issue unregistered securities to large institutions without full registration. QIBs are typically pension funds, funds of funds, investment advisers managing $100M+, and insurance companies. Rule 144A QIB offerings allow companies to raise capital without SEC review.*
 
 <div class="wiki-hatnote">
 
-QIBs are defined in Rule 144A. [Accredited investors](/accredited-investor) are individuals and smaller institutions. Sophisticated investors is a broader concept.
+QIBs are defined in Rule 144A. [Accredited investors](/accredited-investor/) are individuals and smaller institutions. Sophisticated investors is a broader concept.
 
 </div>
 
@@ -62,10 +62,10 @@ As of 2020, the Rule 144A market included hundreds of billions of dollars in sec
 
 ## QIBs versus accredited investors
 
-The key difference between QIBs and [accredited investors](/accredited-investor) is:
+The key difference between QIBs and [accredited investors](/accredited-investor/) is:
 
 - **QIBs** are institutions, defined by assets under management. They can trade Rule 144A securities among themselves without restriction.
-- **Accredited investors** are individuals or smaller institutions, defined by income/net worth. They can invest in [Regulation D](/regulation-d) private offerings but cannot trade them easily.
+- **Accredited investors** are individuals or smaller institutions, defined by income/net worth. They can invest in [Regulation D](/regulation-d/) private offerings but cannot trade them easily.
 
 A pension fund managing $500M is a QIB and can buy Rule 144A securities. An individual with $300k income is accredited but is limited to Reg D offerings (which have resale restrictions).
 
@@ -88,10 +88,10 @@ Additionally, the $100M threshold is outdated (set in 1990) and excludes some le
 ### Closely related
 
 - Rule 144A — defines QIB resale rights
-- [Accredited investor](/accredited-investor) — individual investor threshold
+- [Accredited investor](/accredited-investor/) — individual investor threshold
 - Sophisticated investor — broader concept
-- [Regulation D](/regulation-d) — private offering exemption
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers Rule 144A
+- [Regulation D](/regulation-d/) — private offering exemption
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers Rule 144A
 
 ### Wider context
 

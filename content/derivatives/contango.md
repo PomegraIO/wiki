@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*In **contango**, futures prices increase with the delivery date. A [futures contract](/futures-contract) expiring in 3 months is cheaper than one expiring in 6 months, which is cheaper than one expiring in 12 months. Contango occurs because holding the underlying asset over time carries costs—storage fees, insurance, financing—passed to the buyer of distant futures. Contango is the normal state in most commodity and interest-rate markets.*
+*In **contango**, futures prices increase with the delivery date. A [futures contract](/futures-contract/) expiring in 3 months is cheaper than one expiring in 6 months, which is cheaper than one expiring in 12 months. Contango occurs because holding the underlying asset over time carries costs—storage fees, insurance, financing—passed to the buyer of distant futures. Contango is the normal state in most commodity and interest-rate markets.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: "/svg/derivatives.svg"
 
 ## The cost-of-carry explanation
 
-When you buy oil today (spot), you must store it, insure it, and finance the purchase. These costs accumulate over time. A [futures contract](/futures-contract) 6 months out should reflect these costs, so it trades higher than a near-term contract.
+When you buy oil today (spot), you must store it, insure it, and finance the purchase. These costs accumulate over time. A [futures contract](/futures-contract/) 6 months out should reflect these costs, so it trades higher than a near-term contract.
 
 The formula:
 
@@ -49,11 +49,11 @@ The farther out the contract, the larger the storage and financing costs accumul
 
 Contango signals that the market has ample supply. Storage is being used; inventory is building. Suppliers can produce today and store for later, so they push prices forward to cover storage.
 
-Conversely, [backwardation](/backwardation) signals tight supply. Immediate delivery is scarce and commands a premium.
+Conversely, [backwardation](/backwardation/) signals tight supply. Immediate delivery is scarce and commands a premium.
 
 ## Rolling losses in contango
 
-A trader long oil (betting on price appreciation) might buy a 12-month [futures contract](/futures-contract). As it approaches expiration, they sell it and buy a new 12-month contract, rolling the position forward.
+A trader long oil (betting on price appreciation) might buy a 12-month [futures contract](/futures-contract/). As it approaches expiration, they sell it and buy a new 12-month contract, rolling the position forward.
 
 In contango, the near contract (selling) is cheaper than the far contract (buying). The trader loses money on the roll—"buying high, selling low" in the futures curve.
 
@@ -103,15 +103,15 @@ A flat contango (near-far spread is small) offers less rolling loss but suggests
 
 ### Trading implications
 
-- [Rolling](/basis) — moving from near to far contract
+- [Rolling](/basis/) — moving from near to far contract
 - [Carry trade](/alpha/) — exploiting contango for profit
 - [Curve flattening](/volatility-smile/) — betting on contango change
-- [Curve trades](/alpha) — spreads between maturities
+- [Curve trades](/alpha/) — spreads between maturities
 
 ### Market structure
 
-- [Commodity markets](/stock-market) — typical contango pattern
-- [Interest-rate futures](/interest-rate-swap) — bond futures often in contango
+- [Commodity markets](/stock-market/) — typical contango pattern
+- [Interest-rate futures](/interest-rate-swap/) — bond futures often in contango
 - [Market equilibrium](/stock-market/) — contango reflects supply-demand
 - Storage — fundamental to contango
 

@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **trailing stop order** is a [stop order](/stop-order) with an automatic adjustment. Instead of a fixed stop price, you specify a **trailing distance** — a dollar amount or percentage. As the price moves in your favor, the stop price moves with it, maintaining a constant distance. If the price reverses, the stop is triggered. It is the standard tool for locking in profits while staying exposed to further gains.*
+*A **trailing stop order** is a [stop order](/stop-order/) with an automatic adjustment. Instead of a fixed stop price, you specify a **trailing distance** — a dollar amount or percentage. As the price moves in your favor, the stop price moves with it, maintaining a constant distance. If the price reverses, the stop is triggered. It is the standard tool for locking in profits while staying exposed to further gains.*
 
 <div class="wiki-hatnote">
 
-For a fixed stop price, see [stop order](/stop-order). For fine control over execution price, see [stop-limit order](/stop-limit-order).
+For a fixed stop price, see [stop order](/stop-order/). For fine control over execution price, see [stop-limit order](/stop-limit-order/).
 
 </div>
 
@@ -70,17 +70,17 @@ The enemy of trailing stops is small, repeated reversals. Suppose a stock is in 
 - You are out at $102.50, having locked in just a $2.50 (2.5%) gain.
 - The stock then bounces back to $108, and you are on the sideline.
 
-This is called **whipsawing**: the trailing stop is too tight for the natural intraday volatility, so it exits before the real move. Professional traders in choppy markets often widen their trailing stops (5–10%) or simply use a fixed [stop order](/stop-order) at a level they have thought through carefully.
+This is called **whipsawing**: the trailing stop is too tight for the natural intraday volatility, so it exits before the real move. Professional traders in choppy markets often widen their trailing stops (5–10%) or simply use a fixed [stop order](/stop-order/) at a level they have thought through carefully.
 
-## Trailing stops for [scalpers](/scalping) and day traders
+## Trailing stops for [scalpers](/scalping/) and day traders
 
-Trailing stops are popular with [day traders](/day-order) and [scalpers](/scalping) because they automate the core challenge of intraday trading: knowing when to take profits. You can set a trailing stop at market open and let it run; when the stock reverses even slightly, you are out with whatever gains the trade produced.
+Trailing stops are popular with [day traders](/day-order/) and [scalpers](/scalping/) because they automate the core challenge of intraday trading: knowing when to take profits. You can set a trailing stop at market open and let it run; when the stock reverses even slightly, you are out with whatever gains the trade produced.
 
 The risk is that a normal pullback in an uptrend will trigger the stop, and you miss the continuation of the trend.
 
 ## Trailing stops vs. profit-taking limit orders
 
-An alternative to a trailing stop is to place a [limit order](/limit-order) at a target price (e.g., "sell at $110"). The limit order sits in the order book waiting to be hit; if the stock reaches $110, you are out. The advantage: if the stock continues to $115, you miss nothing (you are already out). The disadvantage: you have to guess the target price in advance.
+An alternative to a trailing stop is to place a [limit order](/limit-order/) at a target price (e.g., "sell at $110"). The limit order sits in the order book waiting to be hit; if the stock reaches $110, you are out. The advantage: if the stock continues to $115, you miss nothing (you are already out). The disadvantage: you have to guess the target price in advance.
 
 A trailing stop is more dynamic: it grows with the stock, letting you stay in as long as the momentum continues. The disadvantage is the whipsaw risk.
 
@@ -98,7 +98,7 @@ The trailing stop on a short protects against a violent rally, just as it protec
 
 ## Limitations and broker support
 
-Not all brokers support trailing stops for all securities. Most support them for stocks and large-cap ETFs, but some do not support them for [options](/option), futures, or international securities. Check your broker's documentation.
+Not all brokers support trailing stops for all securities. Most support them for stocks and large-cap ETFs, but some do not support them for [options](/option/), futures, or international securities. Check your broker's documentation.
 
 Some brokers also implement trailing stops on their servers; others require the order to be held on the exchange. Server-side trailing stops are more flexible but mean your stop price depends on your broker being online and responsive. Exchange-based trailing stops are more reliable but less flexible.
 
@@ -108,20 +108,20 @@ Some brokers also implement trailing stops on their servers; others require the 
 
 ### Closely related
 
-- [Stop order](/stop-order) — fixed stop price
-- [Stop-limit order](/stop-limit-order) — stop with price protection
-- [Limit order](/limit-order) — alternative profit-taking mechanism
+- [Stop order](/stop-order/) — fixed stop price
+- [Stop-limit order](/stop-limit-order/) — stop with price protection
+- [Limit order](/limit-order/) — alternative profit-taking mechanism
 
 ### Trading strategies and context
 
-- [Scalping](/scalping) — very short-term trading; uses tight trailing stops
-- [Swing trading](/swing-trading) — medium-term trading; uses wider trailing stops
-- [Day trading](/day-order) — intraday trading; trailing stops are common
-- [Momentum](/swing-trading) — trending markets where trailing stops excel
+- [Scalping](/scalping/) — very short-term trading; uses tight trailing stops
+- [Swing trading](/swing-trading/) — medium-term trading; uses wider trailing stops
+- [Day trading](/day-order/) — intraday trading; trailing stops are common
+- [Momentum](/swing-trading/) — trending markets where trailing stops excel
 
 ### Advanced orders
 
-- [Bracket order](/bracket-order) — entry plus both take-profit and stop-loss
-- [One-cancels-other](/oco-order) — two orders, one fires and cancels the other
+- [Bracket order](/bracket-order/) — entry plus both take-profit and stop-loss
+- [One-cancels-other](/oco-order/) — two orders, one fires and cancels the other
 
 </div>

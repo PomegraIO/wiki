@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For broader budgeting approaches, see [budgeting methods](/budgeting-methods); for a more granular allocation approach, see [zero-based budgeting](/zero-based-budgeting).
+For broader budgeting approaches, see [budgeting methods](/budgeting-methods/); for a more granular allocation approach, see [zero-based budgeting](/zero-based-budgeting/).
 
 </div>
 
@@ -52,7 +52,7 @@ For a person earning $4,000 per month after taxes: $2,000 goes to necessities, $
 
 **Discretionary wants (30%)** are everything else that is not an obligation: restaurants and bars, entertainment and hobbies, streaming services, gym memberships, travel, gifts, clothing beyond essentials, and gadgets. This is where most budget failures happen, because "want" is a blurry category and spending tends to drift upward.
 
-**Savings and debt repayment (20%)** includes contributions to an [emergency fund](/emergency-fund), retirement accounts ([401(k)](/401k-plan), [IRA](/traditional-ira)), general investing, and payments above the minimum on credit cards or student loans. The aim is to move money into future security or debt reduction.
+**Savings and debt repayment (20%)** includes contributions to an [emergency fund](/emergency-fund/), retirement accounts ([401(k)](/401k-plan/), [IRA](/traditional-ira/)), general investing, and payments above the minimum on credit cards or student loans. The aim is to move money into future security or debt reduction.
 
 ## When the rule works well
 
@@ -70,7 +70,7 @@ The rule is less useful if:
 - Your necessities ratio is unusually high or low. A single parent in San Francisco might spend 70% of income on necessities (rent, child care, insurance); a software engineer in a low-cost town might spend 35%. The rule cannot flex.
 - Your income is very high. A $500,000 earner allocating 30% ($150,000) to discretionary wants is very different from a $40,000 earner allocating 30% ($12,000). The same percentage can produce vastly different outcomes.
 - Your income is very low. If your after-tax income is $2,000 a month and necessities are $1,500, the rule collapses; you have no room for 30% wants or 20% savings.
-- You are in transition. During a job loss, major illness, or relocation, fixed percentages are unhelpful. You need [zero-based budgeting](/zero-based-budgeting) or careful adjustment.
+- You are in transition. During a job loss, major illness, or relocation, fixed percentages are unhelpful. You need [zero-based budgeting](/zero-based-budgeting/) or careful adjustment.
 
 ## Variations
 
@@ -96,15 +96,15 @@ Beyond the mathematics, the rule serves a psychological purpose. It gives you pe
 
 ### Closely related
 
-- [Budgeting methods](/budgeting-methods) — broader framework of which this is one example
-- [Zero-based budgeting](/zero-based-budgeting) — allocation by deliberate choice, not formula
-- [Envelope budgeting](/envelope-budgeting) — fixed limits by spending category
-- [Savings rate](/savings-rate) — the percentage of income saved
+- [Budgeting methods](/budgeting-methods/) — broader framework of which this is one example
+- [Zero-based budgeting](/zero-based-budgeting/) — allocation by deliberate choice, not formula
+- [Envelope budgeting](/envelope-budgeting/) — fixed limits by spending category
+- [Savings rate](/savings-rate/) — the percentage of income saved
 
 ### Wider context
 
-- [Emergency fund](/emergency-fund) — a priority use for the 20% savings allocation
-- [Lifestyle creep](/lifestyle-creep) — how the discretionary 30% tends to grow
-- [Pay yourself first](/pay-yourself-first) — prioritizing savings as part of budgeting
+- [Emergency fund](/emergency-fund/) — a priority use for the 20% savings allocation
+- [Lifestyle creep](/lifestyle-creep/) — how the discretionary 30% tends to grow
+- [Pay yourself first](/pay-yourself-first/) — prioritizing savings as part of budgeting
 
 </div>

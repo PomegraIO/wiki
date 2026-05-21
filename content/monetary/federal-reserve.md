@@ -11,11 +11,11 @@ keywords:
   - inflation
 image: "/svg/monetary.svg"
 ---
-*The **Federal Reserve** is the central bank of the United States — the institution responsible for managing the nation's money supply, setting short-term [interest rates](/interest-rate), and regulating and supervising banks. Created in 1913 to prevent financial crises, it is the most powerful financial institution in the world, and its chair is arguably the most powerful person in finance.*
+*The **Federal Reserve** is the central bank of the United States — the institution responsible for managing the nation's money supply, setting short-term [interest rates](/interest-rate/), and regulating and supervising banks. Created in 1913 to prevent financial crises, it is the most powerful financial institution in the world, and its chair is arguably the most powerful person in finance.*
 
 <div class="wiki-hatnote">
 
-This entry covers the institution and its functions. For the monetary policy tools it uses, see [interest rate](/interest-rate); for its role in broader economic cycles, see [recession](/recession) and [inflation](/inflation).
+This entry covers the institution and its functions. For the monetary policy tools it uses, see [interest rate](/interest-rate/); for its role in broader economic cycles, see [recession](/recession/) and [inflation](/inflation/).
 
 </div>
 
@@ -59,7 +59,7 @@ This structure — federal but with regional representation — was a political 
 By law, the Federal Reserve pursues two equally important goals:
 
 1. **Maximum employment.** The Fed tries to foster labor market conditions where people who want to work can find jobs.
-2. **Price stability.** The Fed tries to prevent [inflation](/inflation) from eroding the purchasing power of money.
+2. **Price stability.** The Fed tries to prevent [inflation](/inflation/) from eroding the purchasing power of money.
 
 In normal times, these goals complement each other. A stable economy with steady inflation around 2% tends to foster job creation. But they can collide. High inflation and high unemployment (stagflation) puts the Fed in an impossible position: loosening policy worsens inflation, while tightening policy kills jobs.
 
@@ -67,9 +67,9 @@ In recent decades, the Fed has interpreted the 2% inflation target as compatible
 
 ## The federal funds rate: the primary tool
 
-The Fed's most famous policy tool is the **federal funds rate** — the [interest rate](/interest-rate) at which banks lend reserves to each other overnight. The Fed cannot directly set this rate (it is set by the market), but it can target a desired range through open-market operations.
+The Fed's most famous policy tool is the **federal funds rate** — the [interest rate](/interest-rate/) at which banks lend reserves to each other overnight. The Fed cannot directly set this rate (it is set by the market), but it can target a desired range through open-market operations.
 
-By influencing the federal funds rate, the Fed influences the entire landscape of interest rates in the economy. When the Fed raises the federal funds rate, banks raise the prime lending rate, which ripples out to mortgages, car loans, credit card rates, and eventually to [bond](/bond) yields and [stock](/stock) prices. When the Fed cuts rates, the opposite happens.
+By influencing the federal funds rate, the Fed influences the entire landscape of interest rates in the economy. When the Fed raises the federal funds rate, banks raise the prime lending rate, which ripples out to mortgages, car loans, credit card rates, and eventually to [bond](/bond/) yields and [stock](/stock/) prices. When the Fed cuts rates, the opposite happens.
 
 This transmission mechanism is imperfect and slow. There is always a lag between a Fed decision and its effect on employment and inflation — sometimes six months to a year or more. This lag is why the Fed must forecast the future and act preemptively, not reactively. Much of the art of central banking lies in getting this forecast right.
 
@@ -85,20 +85,20 @@ And during acute financial crises, the Fed can act as a **lender of last resort*
 
 ## How the Fed influences the stock market
 
-Stock investors watch the Fed intently, because Fed policy ripples through [asset](/stock) valuations in multiple ways:
+Stock investors watch the Fed intently, because Fed policy ripples through [asset](/stock/) valuations in multiple ways:
 
 - **Discount rates.** Stock prices are theoretically the present value of future profits, discounted at some interest rate. When the Fed raises rates, discount rates rise, and stock prices fall (all else equal).
 - **Sentiment.** A Fed that is tightening policy is seen as pessimistic about growth; investors react by becoming more cautious.
-- **Earnings.** Higher interest rates can slow economic growth, which slows [earnings](/earnings-per-share), which erodes stock prices.
+- **Earnings.** Higher interest rates can slow economic growth, which slows [earnings](/earnings-per-share/), which erodes stock prices.
 - **Leverage.** Much of the financial system is built on borrowing. Higher rates make borrowing more expensive, forcing some institutions to reduce leverage and sell assets.
 
-A Fed tightening cycle — a series of rate hikes — typically coincides with a [bear market](/bear-market) in stocks. A Fed cutting rates — a loosening cycle — often precedes a [bull market](/bull-market). This is not coincidence; it reflects the interconnection between monetary policy and real economic outcomes.
+A Fed tightening cycle — a series of rate hikes — typically coincides with a [bear market](/bear-market/) in stocks. A Fed cutting rates — a loosening cycle — often precedes a [bull market](/bull-market/). This is not coincidence; it reflects the interconnection between monetary policy and real economic outcomes.
 
 ## The Fed and inflation: a fraught history
 
-Controlling inflation is difficult because the tools are blunt. To fight inflation, the Fed must raise [interest rates](/interest-rate), which slows borrowing and spending, which slows economic growth and job creation. In the 1980s, Fed Chair Paul Volcker engineered a sharp rate hike to break the back of 1970s-style stagflation, but the cost was a severe [recession](/recession) and unemployment near 10%.
+Controlling inflation is difficult because the tools are blunt. To fight inflation, the Fed must raise [interest rates](/interest-rate/), which slows borrowing and spending, which slows economic growth and job creation. In the 1980s, Fed Chair Paul Volcker engineered a sharp rate hike to break the back of 1970s-style stagflation, but the cost was a severe [recession](/recession/) and unemployment near 10%.
 
-Recent experience has reinforced humility. The Fed kept rates low for years after the 2008 crisis and built up a massive balance sheet (it purchased trillions in bonds). When inflation surged in 2021–2022, the Fed was caught off-guard and had to raise rates aggressively, causing turmoil in bonds, [stocks](/stock), and the broader economy.
+Recent experience has reinforced humility. The Fed kept rates low for years after the 2008 crisis and built up a massive balance sheet (it purchased trillions in bonds). When inflation surged in 2021–2022, the Fed was caught off-guard and had to raise rates aggressively, causing turmoil in bonds, [stocks](/stock/), and the broader economy.
 
 Getting the balance right — keeping inflation low without crushing the economy — is the eternal test of central banking.
 
@@ -114,19 +114,19 @@ This balance — operational independence with ultimate accountability to the de
 
 ### Closely related
 
-- [Interest rate](/interest-rate) — the Fed's primary tool
-- [Central bank](/central-bank) — the broader category the Fed belongs to
-- [Inflation](/inflation) — half the Fed's mandate
-- [Recession](/recession) — what the Fed tries to prevent
-- [Monetary policy](/federal-reserve) — the Fed's core function
-- [Bond](/bond) — directly affected by Fed policy
+- [Interest rate](/interest-rate/) — the Fed's primary tool
+- [Central bank](/central-bank/) — the broader category the Fed belongs to
+- [Inflation](/inflation/) — half the Fed's mandate
+- [Recession](/recession/) — what the Fed tries to prevent
+- [Monetary policy](/federal-reserve/) — the Fed's core function
+- [Bond](/bond/) — directly affected by Fed policy
 
 ### Wider context
 
-- [Stock market](/stock-market) — sensitive to Fed policy
-- [Bull market](/bull-market) · [Bear market](/bear-market) — often aligned with Fed cycles
-- [Yield curve](/yield-curve) — shaped by Fed actions
-- [Diversification](/diversification) — wise amid Fed policy uncertainty
-- [Asset allocation](/asset-allocation) — should account for interest rate expectations
+- [Stock market](/stock-market/) — sensitive to Fed policy
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — often aligned with Fed cycles
+- [Yield curve](/yield-curve/) — shaped by Fed actions
+- [Diversification](/diversification/) — wise amid Fed policy uncertainty
+- [Asset allocation](/asset-allocation/) — should account for interest rate expectations
 
 </div>

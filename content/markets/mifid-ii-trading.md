@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **Markets in Financial Instruments Directive II (MiFID II)** is the European regulatory framework governing financial market structure, adopted in 2018. It requires best execution, fair access to trading venues, detailed pre- and post-trade transparency, and regular market data reporting. MiFID II is the EU's equivalent to US [Reg NMS](/reg-nms-detail) but features stricter transparency requirements and distinct venue classifications.*
+*The **Markets in Financial Instruments Directive II (MiFID II)** is the European regulatory framework governing financial market structure, adopted in 2018. It requires best execution, fair access to trading venues, detailed pre- and post-trade transparency, and regular market data reporting. MiFID II is the EU's equivalent to US [Reg NMS](/reg-nms-detail/) but features stricter transparency requirements and distinct venue classifications.*
 
 <div class="wiki-hatnote">
 
-This entry is about EU market structure. For US equivalent, see [Reg NMS](/reg-nms-detail); for broader trading regulation, see [stock exchange](/stock-exchange).
+This entry is about EU market structure. For US equivalent, see [Reg NMS](/reg-nms-detail/); for broader trading regulation, see [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -33,7 +33,7 @@ This entry is about EU market structure. For US equivalent, see [Reg NMS](/reg-n
 | **Jurisdiction** | European Union and UK (post-Brexit) |
 | **Regulator** | ESMA, national regulators |
 | **Key rules** | Best execution, transparency, fair access |
-| **Scope** | All EU-listed and [derivatives](/option) trading |
+| **Scope** | All EU-listed and [derivatives](/option/) trading |
 | **Primary effect** | Increased transparency, reduced dark pools |
 
 </aside>
@@ -42,7 +42,7 @@ This entry is about EU market structure. For US equivalent, see [Reg NMS](/reg-n
 
 MiFID II updated the original Markets in Financial Instruments Directive (MiFID), adopted in 2007. The update aimed to address post-2008 financial crisis concerns:
 
-- Information asymmetries in [dark pools](/dark-pool-detail).
+- Information asymmetries in [dark pools](/dark-pool-detail/).
 - Unfair execution practices.
 - Insufficient data transparency.
 
@@ -60,19 +60,19 @@ MiFID II tightened rules across all these areas, making EU markets more transpar
 **Venue classifications.** MiFID II defines specific venue types:
 
 - **Regulated markets (RMs):** Traditional exchanges (Euronext, LSE, etc.).
-- **Multilateral trading facilities (MTFs):** What the US calls [alternative trading systems](/alternative-trading-system).
+- **Multilateral trading facilities (MTFs):** What the US calls [alternative trading systems](/alternative-trading-system/).
 - **Organized trading facilities (OTFs):** A hybrid category for certain venues.
 - **Systematic internalisers (SIs):** Brokers that internalize (match internally) customer orders.
 
 **Fair access.** Rules require that venues provide fair access to participants meeting reasonable financial and technical standards.
 
-**Data reporting.** Transaction data must be reported to [ESMA (European Securities and Markets Authority)](/mifid-ii-trading) via approved reporting mechanisms.
+**Data reporting.** Transaction data must be reported to [ESMA (European Securities and Markets Authority)](/mifid-ii-trading/) via approved reporting mechanisms.
 
 ## Comparison with US Reg NMS
 
-**Transparency:** MiFID II requires stricter pre- and post-trade reporting. US Reg NMS allows 15-minute delays for some [dark pool](/dark-pool-detail) trades; MiFID II limits this.
+**Transparency:** MiFID II requires stricter pre- and post-trade reporting. US Reg NMS allows 15-minute delays for some [dark pool](/dark-pool-detail/) trades; MiFID II limits this.
 
-**Dark pools:** MiFID II significantly restricts [dark pools](/dark-pool-detail) through volume caps and reduced anonymity. US dark pools are larger and less restricted.
+**Dark pools:** MiFID II significantly restricts [dark pools](/dark-pool-detail/) through volume caps and reduced anonymity. US dark pools are larger and less restricted.
 
 **Venue standards:** MiFID II defines venues more precisely than Reg NMS; the EU's OTF category has no direct US equivalent.
 
@@ -91,7 +91,7 @@ MiFID II has:
 
 **Regulated Markets (RMs)** are the most heavily regulated. Examples: Euronext (Paris, Amsterdam, Brussels, Lisbon), London Stock Exchange (LSE), Deutsche Börse.
 
-**MTFs** are like US [alternative trading systems](/alternative-trading-system). Examples: Cboe BXE (Cboe Europe), Turquoise, Chi-X.
+**MTFs** are like US [alternative trading systems](/alternative-trading-system/). Examples: Cboe BXE (Cboe Europe), Turquoise, Chi-X.
 
 **OTFs** are a newer category. They are allowed to internalise orders and operate with more flexibility than MTFs.
 
@@ -116,7 +116,7 @@ When the UK left the EU, it adopted its own version of MiFID II called **UK MiFI
 
 **Compliance burden.** The extensive reporting and transparency requirements increase costs.
 
-**Reduced liquidity in dark pools.** Volume caps and transparency requirements have reduced [dark pool](/dark-pool-detail) trading, potentially increasing costs for institutional traders executing large orders.
+**Reduced liquidity in dark pools.** Volume caps and transparency requirements have reduced [dark pool](/dark-pool-detail/) trading, potentially increasing costs for institutional traders executing large orders.
 
 **Complex venue landscape.** Multiple venue types (RMs, MTFs, OTFs, SIs) create confusion.
 
@@ -126,18 +126,18 @@ When the UK left the EU, it adopted its own version of MiFID II called **UK MiFI
 
 ### Closely related
 
-- [Reg NMS](/reg-nms-detail) — US equivalent
-- [Alternative trading system](/alternative-trading-system) — EU MTF equivalent
-- [Dark pool](/dark-pool-detail) — restricted under MiFID II
-- [Stock exchange](/stock-exchange) — subject to MiFID II
-- [Best execution](/broker) — MiFID II requirement
+- [Reg NMS](/reg-nms-detail/) — US equivalent
+- [Alternative trading system](/alternative-trading-system/) — EU MTF equivalent
+- [Dark pool](/dark-pool-detail/) — restricted under MiFID II
+- [Stock exchange](/stock-exchange/) — subject to MiFID II
+- [Best execution](/broker/) — MiFID II requirement
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — governed by MiFID II
-- [Transparency](/stock-market) — key theme of MiFID II
-- [Liquidity](/secondary-market) — affected by MiFID II restrictions
-- [Central bank](/central-bank) — supervises some market participants
-- [Regulation](/stock-market) — MiFID II is comprehensive
+- [Secondary market](/secondary-market/) — governed by MiFID II
+- [Transparency](/stock-market/) — key theme of MiFID II
+- [Liquidity](/secondary-market/) — affected by MiFID II restrictions
+- [Central bank](/central-bank/) — supervises some market participants
+- [Regulation](/stock-market/) — MiFID II is comprehensive
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to illusion of skill and illusion of control. For hubris in professional settings, see [overconfidence bias](/overconfidence-bias).
+Related to illusion of skill and illusion of control. For hubris in professional settings, see [overconfidence bias](/overconfidence-bias/).
 
 </div>
 
@@ -65,15 +65,15 @@ Overconfidence is the fuel of active investing. Studies show that individual sto
 
 Overconfidence leads to:
 
-**Excessive trading.** Confident that you can time the market or pick winners, you trade frequently. Trading costs (commissions, taxes, bid-ask spreads) eat the returns, and the [overconfident](/overconfidence-bias) investor underperforms the passive holder.
+**Excessive trading.** Confident that you can time the market or pick winners, you trade frequently. Trading costs (commissions, taxes, bid-ask spreads) eat the returns, and the [overconfident](/overconfidence-bias/) investor underperforms the passive holder.
 
-**Concentrated bets.** Overconfident that you have found a winner, you overweight a single stock or sector. This increases [risk](/beta) without increasing expected return (overconfidence is not the same as skill).
+**Concentrated bets.** Overconfident that you have found a winner, you overweight a single stock or sector. This increases [risk](/beta/) without increasing expected return (overconfidence is not the same as skill).
 
 **Market timing.** Overconfident that you can forecast market moves, you shift allocations based on your predictions. You tend to move away from the market near lows (when you are most pessimistic) and into the market near highs (when you are most optimistic). The opposite of buy low, sell high.
 
-## Overconfidence and [confirmation bias](/confirmation-bias)
+## Overconfidence and [confirmation bias](/confirmation-bias/)
 
-Overconfidence and [confirmation bias](/confirmation-bias) amplify each other. Overconfident that you are right, you seek confirming evidence, which you find. This reinforces your confidence, which drives more confirmation-seeking. The cycle becomes self-reinforcing and hard to break.
+Overconfidence and [confirmation bias](/confirmation-bias/) amplify each other. Overconfident that you are right, you seek confirming evidence, which you find. This reinforces your confidence, which drives more confirmation-seeking. The cycle becomes self-reinforcing and hard to break.
 
 An investor overconfident in a stock will read bullish research and ignore bearish research. The bullish research reinforces her confidence, which drives more bull-seeking, and so on.
 
@@ -94,8 +94,8 @@ Overconfidence is not uniform. It is strongest in:
 ## Defenses against overconfidence
 
 - **Track your predictions.** Keep a record of your forecasts and actual outcomes. Over time, you will see that your confidence intervals are too narrow and your predictions are less accurate than you believe.
-- **Use a decision framework, not judgment.** Rather than trusting your judgment to pick stocks or time the market, use a mechanical framework based on [valuation](/price-to-earnings-ratio), [diversification](/diversification), and [asset allocation](/asset-allocation). The framework does not rely on your predictions.
-- **Use [index funds](/index-fund).** The simplest defense against overconfidence is to hold a [diversified](/diversification) index fund and stop trying to beat the market. Accept that the market return is good enough.
+- **Use a decision framework, not judgment.** Rather than trusting your judgment to pick stocks or time the market, use a mechanical framework based on [valuation](/price-to-earnings-ratio/), [diversification](/diversification/), and [asset allocation](/asset-allocation/). The framework does not rely on your predictions.
+- **Use [index funds](/index-fund/).** The simplest defense against overconfidence is to hold a [diversified](/diversification/) index fund and stop trying to beat the market. Accept that the market return is good enough.
 - **Get feedback quickly.** In domains where you can get feedback, seek it out. Backtesting your strategies on historical data, or tracking a "paper portfolio," gives you feedback on your decision-making without real money at stake.
 - **Recognize that luck and skill are hard to distinguish.** Even if you beat the market for five years, is it skill or luck? Statistically, luck alone would produce some five-year winners. Be humble.
 - **Diversify within your investment approach.** Rather than concentrating in your best ideas, hold a diversified portfolio. This protects you against overconfident mistakes.
@@ -106,18 +106,18 @@ Overconfidence is not uniform. It is strongest in:
 
 ### Closely related
 
-- [Illusion of skill](/illusion-of-skill) — mistaking luck for skill
-- [Illusion of control](/illusion-of-control) — belief you control random outcomes
-- [Confirmation bias](/confirmation-bias) — seeking confirming evidence for overconfident views
-- [Hindsight bias](/hindsight-bias) — distorted memory of past predictions
+- [Illusion of skill](/illusion-of-skill/) — mistaking luck for skill
+- [Illusion of control](/illusion-of-control/) — belief you control random outcomes
+- [Confirmation bias](/confirmation-bias/) — seeking confirming evidence for overconfident views
+- [Hindsight bias](/hindsight-bias/) — distorted memory of past predictions
 - Dunning-Kruger effect — inversely related confidence and competence
 
 ### Wider context
 
-- [Active management](/hedge-fund) — fuel for active investing
-- [Market timing](/bull-market) — driven by overconfidence in forecasting
-- [Stock picking](/stock) — driven by overconfidence in selection ability
-- [Base rate neglect](/base-rate-neglect) — ignoring that most active managers underperform
+- [Active management](/hedge-fund/) — fuel for active investing
+- [Market timing](/bull-market/) — driven by overconfidence in forecasting
+- [Stock picking](/stock/) — driven by overconfidence in selection ability
+- [Base rate neglect](/base-rate-neglect/) — ignoring that most active managers underperform
 - Behavioral asset pricing — how overconfidence affects prices
 
 </div>

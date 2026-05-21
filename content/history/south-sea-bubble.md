@@ -64,7 +64,7 @@ The fallout was both financial and political. The crash exposed the corruption o
 
 The crash led to the Bubble Act of 1720, which prohibited the formation of new joint-stock companies without royal charter. The intent was protective but had the perverse effect of stunting legitimate enterprise for generations. It wasn't repealed until 1825.
 
-More broadly, the South Sea Bubble became the template for understanding financial crashes. It showed how narrative and hype could inflate prices beyond any tether to reality. It demonstrated that even educated, wealthy people could be caught up in a mania. And it revealed the moral hazard of insiders able to profit at the expense of ordinary investors. These lessons are as relevant to the [dot-com bubble](/dot-com-bubble) and the [subprime-mortgage-crisis](/subprime-mortgage-crisis) as they were in 1720.
+More broadly, the South Sea Bubble became the template for understanding financial crashes. It showed how narrative and hype could inflate prices beyond any tether to reality. It demonstrated that even educated, wealthy people could be caught up in a mania. And it revealed the moral hazard of insiders able to profit at the expense of ordinary investors. These lessons are as relevant to the [dot-com bubble](/dot-com-bubble/) and the [subprime-mortgage-crisis](/subprime-mortgage-crisis/) as they were in 1720.
 
 ## See also
 
@@ -72,15 +72,15 @@ More broadly, the South Sea Bubble became the template for understanding financi
 
 ### Closely related
 
-- [Tulip Mania](/tulip-mania) — the 1630s predecessor in Holland
-- [Mississippi Bubble](/mississippi-bubble) — a parallel French mania in 1720
+- [Tulip Mania](/tulip-mania/) — the 1630s predecessor in Holland
+- [Mississippi Bubble](/mississippi-bubble/) — a parallel French mania in 1720
 - Speculative bubble — the general mechanism
 
 ### Wider context
 
 - Financial crisis — the broader category of market shocks
 - Financial regulation — the oversight frameworks that emerged after
-- [Bull market](/bull-market) — what a mania looks like from the investor's perspective
-- [Stock market](/stock-market) — the mechanism through which these episodes unfold
+- [Bull market](/bull-market/) — what a mania looks like from the investor's perspective
+- [Stock market](/stock-market/) — the mechanism through which these episodes unfold
 
 </div>

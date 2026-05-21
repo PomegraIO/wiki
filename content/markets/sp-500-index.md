@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **S&P 500 Index** (often written SPX) is a market-capitalization-weighted index of 500 large-cap US companies selected by Standard & Poor's. It is the most widely used benchmark for the US [stock market](/stock-market) and represents approximately 80% of the US market's total capitalization. Movements in the S&P 500 are considered a primary indicator of the health of the US economy. Trillions of dollars are invested in passive [index funds](/index-fund) and [ETFs](/etf) tracking the S&P 500.*
+*The **S&P 500 Index** (often written SPX) is a market-capitalization-weighted index of 500 large-cap US companies selected by Standard & Poor's. It is the most widely used benchmark for the US [stock market](/stock-market/) and represents approximately 80% of the US market's total capitalization. Movements in the S&P 500 are considered a primary indicator of the health of the US economy. Trillions of dollars are invested in passive [index funds](/index-fund/) and [ETFs](/etf/) tracking the S&P 500.*
 
 <div class="wiki-hatnote">
 
-This entry is about the S&P 500 benchmark. For alternative indices, see [Dow Jones Industrial Average](/dow-jones-industrial-average), [NASDAQ Composite](/nasdaq-composite), and [Russell 2000](/russell-2000).
+This entry is about the S&P 500 benchmark. For alternative indices, see [Dow Jones Industrial Average](/dow-jones-industrial-average/), [NASDAQ Composite](/nasdaq-composite/), and [Russell 2000](/russell-2000/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry is about the S&P 500 benchmark. For alternative indices, see [Dow Jon
 
 ## Composition and selection
 
-The S&P 500 comprises the 500 largest US [public companies](/public-company) by market capitalization, subject to liquidity and other criteria:
+The S&P 500 comprises the 500 largest US [public companies](/public-company/) by market capitalization, subject to liquidity and other criteria:
 
 - **Market cap requirement:** Generally $8–$10 billion or higher.
 - **Liquidity:** Stocks must trade with sufficient volume.
@@ -71,7 +71,7 @@ The S&P 500 has historically delivered:
 - **Worst year:** -37% (2008 financial crisis).
 - **Best year:** +54% (1954).
 
-These historical returns underpin the case for [long-term investing](/index-fund) and the [power of compound interest](/compound-interest).
+These historical returns underpin the case for [long-term investing](/index-fund/) and the [power of compound interest](/compound-interest/).
 
 ## The index and passive investing
 
@@ -133,18 +133,18 @@ While the relationship is not perfect, the correlation is strong enough that pol
 
 ### Closely related
 
-- [Index fund](/index-fund) — invests to track the S&P 500
-- [ETF](/etf) — many track the S&P 500 (SPY, VOO, IVV)
-- [Market capitalization](/market-capitalization) — determines S&P 500 weights
-- [Passive investing](/index-fund) — driven by S&P 500 tracking
-- [Stock market](/stock-market) — S&P 500 represents this
+- [Index fund](/index-fund/) — invests to track the S&P 500
+- [ETF](/etf/) — many track the S&P 500 (SPY, VOO, IVV)
+- [Market capitalization](/market-capitalization/) — determines S&P 500 weights
+- [Passive investing](/index-fund/) — driven by S&P 500 tracking
+- [Stock market](/stock-market/) — S&P 500 represents this
 
 ### Wider context
 
-- [Bull market](/bull-market) — period of S&P 500 gains
-- [Bear market](/bear-market) — period of S&P 500 declines
-- [Diversification](/diversification) — achieved through S&P 500 exposure
-- [Compound interest](/compound-interest) — shown via S&P 500 historical returns
-- [Recession](/recession) — often accompanied by S&P 500 declines
+- [Bull market](/bull-market/) — period of S&P 500 gains
+- [Bear market](/bear-market/) — period of S&P 500 declines
+- [Diversification](/diversification/) — achieved through S&P 500 exposure
+- [Compound interest](/compound-interest/) — shown via S&P 500 historical returns
+- [Recession](/recession/) — often accompanied by S&P 500 declines
 
 </div>

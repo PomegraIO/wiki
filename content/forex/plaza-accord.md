@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*The **Plaza Accord** (1985) was a landmark agreement by the Group of Five — the US, Japan, Germany, France, and the UK — to coordinate currency intervention and weaken the overvalued [US dollar](/us-dollar). The dollar had appreciated 50% in the early 1980s, making US exports expensive and imports cheap. The accord succeeded in depreciating the dollar ~50% over two years, providing relief to US manufacturers and signaling the start of coordinated international economic policy.*
+*The **Plaza Accord** (1985) was a landmark agreement by the Group of Five — the US, Japan, Germany, France, and the UK — to coordinate currency intervention and weaken the overvalued [US dollar](/us-dollar/). The dollar had appreciated 50% in the early 1980s, making US exports expensive and imports cheap. The accord succeeded in depreciating the dollar ~50% over two years, providing relief to US manufacturers and signaling the start of coordinated international economic policy.*
 
 <div class="wiki-hatnote">
 
-For a later coordinated intervention, see Louvre Accord; for the unilateral ending of fixed rates, see [Bretton Woods](/bretton-woods).
+For a later coordinated intervention, see Louvre Accord; for the unilateral ending of fixed rates, see [Bretton Woods](/bretton-woods/).
 
 </div>
 
@@ -40,7 +40,7 @@ For a later coordinated intervention, see Louvre Accord; for the unilateral endi
 
 ## Context: the strong dollar of the early 1980s
 
-In 1980–1985, the [US dollar](/us-dollar) appreciated dramatically. The Reagan administration had raised [interest rates](/interest-rate) sharply to fight inflation, and capital poured into the US seeking high returns. The dollar went from 210 yen (1980) to 260 yen (1985), and from 2.20 German marks to 3.50 marks.
+In 1980–1985, the [US dollar](/us-dollar/) appreciated dramatically. The Reagan administration had raised [interest rates](/interest-rate/) sharply to fight inflation, and capital poured into the US seeking high returns. The dollar went from 210 yen (1980) to 260 yen (1985), and from 2.20 German marks to 3.50 marks.
 
 The strong dollar made US exports expensive. A car made in Detroit cost 50% more in marks or yen than it had five years earlier. US manufacturers lost market share globally. Simultaneously, imports became cheap, and the US trade deficit surged.
 
@@ -48,11 +48,11 @@ By 1985, the US trade deficit had reached 3% of GDP (enormous). Manufacturing in
 
 ## The agreement
 
-On September 22, 1985, finance ministers and [central bank](/central-bank) officials from the G5 met at the Plaza Hotel in New York. They agreed to:
+On September 22, 1985, finance ministers and [central bank](/central-bank/) officials from the G5 met at the Plaza Hotel in New York. They agreed to:
 
 1. **Acknowledge** that the dollar was overvalued.
 2. **Coordinate intervention** to weaken it. Each central bank would sell dollars (and buy other currencies) simultaneously in the foreign-exchange market.
-3. **Cooperate on policy:** The US would reduce its [federal budget](/federal-reserve) deficit (through taxation and spending cuts), and other countries would reduce their trade surpluses.
+3. **Cooperate on policy:** The US would reduce its [federal budget](/federal-reserve/) deficit (through taxation and spending cuts), and other countries would reduce their trade surpluses.
 
 The intervention was public and coordinated, signaling to markets that major governments were committed to weakening the dollar.
 
@@ -93,15 +93,15 @@ Modern coordination is rare. The post-2008 world saw countries arguing about "cu
 
 - Louvre Accord — follow-up agreement, 1987
 - Currency intervention — how Plaza worked
-- [Bretton Woods](/bretton-woods) — earlier coordinated system
-- [Floating exchange rate](/floating-exchange-rate) — Plaza operated under floating rates
-- [US Dollar](/us-dollar) — subject of Plaza Accord
+- [Bretton Woods](/bretton-woods/) — earlier coordinated system
+- [Floating exchange rate](/floating-exchange-rate/) — Plaza operated under floating rates
+- [US Dollar](/us-dollar/) — subject of Plaza Accord
 
 ### Wider context
 
-- [Central bank](/central-bank) — primary actors in Plaza
-- [International coordination](/inflation) — rare in modern times
+- [Central bank](/central-bank/) — primary actors in Plaza
+- [International coordination](/inflation/) — rare in modern times
 - Trade deficit — problem Plaza addressed
-- [Interest rate](/interest-rate) — policy complement to intervention
+- [Interest rate](/interest-rate/) — policy complement to intervention
 
 </div>

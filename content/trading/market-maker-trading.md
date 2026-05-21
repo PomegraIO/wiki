@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **market maker** is a trading firm or individual that continuously quotes both a **bid** (buy price) and an **ask** (sell price) for a security. When you place a [market order](/market-order), a market maker is usually the counterparty — they sell you shares if you are buying, or buy your shares if you are selling. They profit from the bid-ask spread (the gap between their buy and sell prices) and lose when the price moves against them. Market makers are essential: they provide liquidity and enable trading to happen.*
+*A **market maker** is a trading firm or individual that continuously quotes both a **bid** (buy price) and an **ask** (sell price) for a security. When you place a [market order](/market-order/), a market maker is usually the counterparty — they sell you shares if you are buying, or buy your shares if you are selling. They profit from the bid-ask spread (the gap between their buy and sell prices) and lose when the price moves against them. Market makers are essential: they provide liquidity and enable trading to happen.*
 
 <div class="wiki-hatnote">
 
-For the role of market makers in exchanges, see [lit venue](/lit-venue). For orders that rest in the book waiting for market makers, see [limit order](/limit-order).
+For the role of market makers in exchanges, see [lit venue](/lit-venue/). For orders that rest in the book waiting for market makers, see [limit order](/limit-order/).
 
 </div>
 
@@ -58,7 +58,7 @@ Market makers are always in the game; traders enter and exit based on opportunit
 
 **Exchange-designated market makers:** On the NYSE, there is a designated market maker (DMM) for each stock. They have special obligations (must quote during stressed times) and special privileges (fee discounts).
 
-**Electronic market makers:** Most [options](/option) and futures venues have market makers who trade via algorithms on computers, continuously updating quotes.
+**Electronic market makers:** Most [options](/option/) and futures venues have market makers who trade via algorithms on computers, continuously updating quotes.
 
 **Retail traders:** Some retail traders use market-maker accounts (if their broker allows) to quote prices and earn the spread.
 
@@ -103,7 +103,7 @@ In return, they get fee breaks and rebates.
 
 ## High-frequency trading and market making
 
-Modern [high-frequency traders](/high-frequency-trading) operate as electronic market makers: they quote continuously on thousands of stocks, execute thousands of trades per second, and rely on speed and scale to profit from the spread.
+Modern [high-frequency traders](/high-frequency-trading/) operate as electronic market makers: they quote continuously on thousands of stocks, execute thousands of trades per second, and rely on speed and scale to profit from the spread.
 
 Concerns about HFT-based market making:
 - **Flash crashes:** Rapid unwinding of positions can move markets sharply.
@@ -114,7 +114,7 @@ Concerns about HFT-based market making:
 
 For retail traders, market makers are usually helpful:
 - **Tight spreads:** Their competition keeps spreads small.
-- **Instant execution:** Your [market order](/market-order) fills against a market maker in milliseconds.
+- **Instant execution:** Your [market order](/market-order/) fills against a market maker in milliseconds.
 - **Continuous trading:** You can trade anytime during market hours, even in low-volume securities, because market makers stand ready.
 
 However, retail traders should be aware:
@@ -138,20 +138,20 @@ The **2008 financial crisis** and the **2020 COVID crash** both had moments when
 
 - Bid-ask spread — profit source for market makers
 - Liquidity — market makers provide this
-- [Market order](/market-order) — executes against market makers
+- [Market order](/market-order/) — executes against market makers
 - Order book — where market makers post quotes
 
 ### Market structure
 
-- [Lit venue](/lit-venue) — exchanges rely on market makers
-- [High-frequency trading](/high-frequency-trading) — modern market makers
-- [Dark pool](/dark-pool) — market makers also operate here
+- [Lit venue](/lit-venue/) — exchanges rely on market makers
+- [High-frequency trading](/high-frequency-trading/) — modern market makers
+- [Dark pool](/dark-pool/) — market makers also operate here
 - Designated market maker — special role on NYSE
 
 ### Execution and costs
 
-- [Best execution](/best-execution) — brokers must route for best prices vs. market makers
-- [Payment for order flow](/payment-for-order-flow) — brokers sell retail flow to market makers
+- [Best execution](/best-execution/) — brokers must route for best prices vs. market makers
+- [Payment for order flow](/payment-for-order-flow/) — brokers sell retail flow to market makers
 - Slippage — cost when market makers quote wide
 
 ### Risk and regulation

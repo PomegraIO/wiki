@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*[Segment reporting](/segment-reporting) requires public companies to disclose financial information for individual business segments — the company's divisions, product lines, or geographic regions. The purpose is to let investors analyze the company's overall performance by breaking down results into meaningful parts. A conglomerate with electronics, automotive, and defense divisions can confuse investors; [segment reporting](/segment-reporting) shows how each performs separately. [Segment reporting](/segment-reporting) is governed by [FASB](/fasb) standard ASC 280 (IFRS 8 internationally). The required disclosures include segment revenue, operating income, assets, and other metrics, plus a reconciliation to consolidated results.*
+*[Segment reporting](/segment-reporting/) requires public companies to disclose financial information for individual business segments — the company's divisions, product lines, or geographic regions. The purpose is to let investors analyze the company's overall performance by breaking down results into meaningful parts. A conglomerate with electronics, automotive, and defense divisions can confuse investors; [segment reporting](/segment-reporting/) shows how each performs separately. [Segment reporting](/segment-reporting/) is governed by [FASB](/fasb/) standard ASC 280 (IFRS 8 internationally). The required disclosures include segment revenue, operating income, assets, and other metrics, plus a reconciliation to consolidated results.*
 
 <div class="wiki-hatnote">
 
-This entry covers segment reporting requirements. For the consolidated statements, see [balance-sheet](/balance-sheet) and [income-statement](/income-statement).
+This entry covers segment reporting requirements. For the consolidated statements, see [balance-sheet](/balance-sheet/) and [income-statement](/income-statement/).
 
 </div>
 
@@ -29,7 +29,7 @@ This entry covers segment reporting requirements. For the consolidated statement
 |   |   |
 |---|---|
 | **What it is** | Financial disclosure by business segment |
-| **Governed by** | ASC 280 ([FASB](/fasb)) and IFRS 8 |
+| **Governed by** | ASC 280 ([FASB](/fasb/)) and IFRS 8 |
 | **Required for** | Public companies |
 | **Defines segments** | Operating segments or geographic regions |
 | **Information** | Revenue, operating income, assets, depreciation, capex |
@@ -41,7 +41,7 @@ This entry covers segment reporting requirements. For the consolidated statement
 
 A company might report consolidated revenue of $10 billion and profit of $1 billion, but investors can't tell which parts are growing, which are stagnating, and which are in trouble.
 
-[Segment reporting](/segment-reporting) answers:
+[Segment reporting](/segment-reporting/) answers:
 - Which divisions are most profitable?
 - Which divisions are growing fastest?
 - Which divisions are consuming the most capital?
@@ -51,7 +51,7 @@ This information is crucial for valuation. A company might be split into two par
 
 ## Definition of segments
 
-Under ASC 280, [segment reporting](/segment-reporting) is based on the company's own internal organization and reporting structure. If management tracks results by division, those divisions are segments. If management tracks by geography, those are segments.
+Under ASC 280, [segment reporting](/segment-reporting/) is based on the company's own internal organization and reporting structure. If management tracks results by division, those divisions are segments. If management tracks by geography, those are segments.
 
 Common segment definitions:
 
@@ -90,13 +90,13 @@ Segments meeting any test are reportable. This prevents the disclosure of dozens
 
 A key insight: segment operating income is before corporate overhead, interest, and taxes. A segment might show 20% operating profit, but consolidated profit is lower because corporate costs, interest, and taxes are applied.
 
-[Segment reporting](/segment-reporting) does not show the full profit allocation; it shows operational performance.
+[Segment reporting](/segment-reporting/) does not show the full profit allocation; it shows operational performance.
 
 ## Uses of segment data
 
-Investors use [segment reporting](/segment-reporting) to:
+Investors use [segment reporting](/segment-reporting/) to:
 
-**Value the company by segment**: Apply appropriate valuation multiples to each segment. A fast-growing division might merit a 15× [EBITDA](/ebitda) multiple; a mature division, 8×. Sum the values.
+**Value the company by segment**: Apply appropriate valuation multiples to each segment. A fast-growing division might merit a 15× [EBITDA](/ebitda/) multiple; a mature division, 8×. Sum the values.
 
 **Assess management quality**: Does management allocate capital to the best-performing segments? Do struggling segments improve or persist?
 
@@ -110,7 +110,7 @@ Investors use [segment reporting](/segment-reporting) to:
 
 **Segment definition changes**: If a company redefines segments (e.g., combining two divisions), prior-year data must be restated for comparability. These changes signal shifts in strategy or management intent.
 
-**Customer concentration**: [Segment reporting](/segment-reporting) should disclose if a single customer is >10% of revenue. Large customer concentration is a risk.
+**Customer concentration**: [Segment reporting](/segment-reporting/) should disclose if a single customer is >10% of revenue. Large customer concentration is a risk.
 
 ## Example
 
@@ -141,9 +141,9 @@ The segment view reveals Electronics is profitable and Automotive is struggling.
 
 ### Closely related
 
-- [Income-statement](/income-statement) — consolidated version
-- [Balance-sheet](/balance-sheet) — consolidated version
-- [Footnote-disclosure](/footnote-disclosure) — segment details
+- [Income-statement](/income-statement/) — consolidated version
+- [Balance-sheet](/balance-sheet/) — consolidated version
+- [Footnote-disclosure](/footnote-disclosure/) — segment details
 - Operating-income — segment metric
 - ASC 280 — the FASB standard
 - IFRS 8 — international equivalent

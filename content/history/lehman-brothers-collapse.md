@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers Lehman's collapse. For the broader financial crisis, see 2008 Financial Crisis; for the government rescue of other firms, see [Bear Stearns Collapse](/bear-stearns-collapse) and [AIG Bailout](/aig-bailout).
+This entry covers Lehman's collapse. For the broader financial crisis, see 2008 Financial Crisis; for the government rescue of other firms, see [Bear Stearns Collapse](/bear-stearns-collapse/) and [AIG Bailout](/aig-bailout/).
 
 </div>
 
@@ -78,7 +78,7 @@ Economists and policymakers have since concluded that the Lehman collapse was a 
 
 ### Closely related
 
-- [Bear Stearns Collapse](/bear-stearns-collapse) — the preceding investment bank near-failure
+- [Bear Stearns Collapse](/bear-stearns-collapse/) — the preceding investment bank near-failure
 - 2008 Financial Crisis — the broader meltdown
 - Bankruptcy — the legal process
 
@@ -86,8 +86,8 @@ Economists and policymakers have since concluded that the Lehman collapse was a 
 
 - Investment bank — Lehman's institution type
 - Mortgage-backed securities — the toxic assets
-- [Federal Reserve](/federal-reserve) — tried but failed to rescue
-- [Systemic risk](/systemic-risk) — Lehman posed this risk
+- [Federal Reserve](/federal-reserve/) — tried but failed to rescue
+- [Systemic risk](/systemic-risk/) — Lehman posed this risk
 - Credit crisis — the freezing of markets
 
 </div>

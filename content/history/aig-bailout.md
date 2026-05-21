@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the AIG bailout. For the broader crisis context, see 2008 Financial Crisis; for the government rescue programs, see [TARP](/tarp).
+This entry covers the AIG bailout. For the broader crisis context, see 2008 Financial Crisis; for the government rescue programs, see [TARP](/tarp/).
 
 </div>
 
@@ -84,14 +84,14 @@ The AIG case became the central example for debates about "too big to fail" — 
 ### Closely related
 
 - 2008 Financial Crisis — the broader crisis
-- [TARP](/tarp) — the Treasury bailout program
-- [Credit default swap](/credit-default-swap) — the instrument that created AIG's liabilities
+- [TARP](/tarp/) — the Treasury bailout program
+- [Credit default swap](/credit-default-swap/) — the instrument that created AIG's liabilities
 
 ### Wider context
 
 - Moral hazard — the perverse incentive the bailout created
-- [Systemic risk](/systemic-risk) — the concern that motivated the bailout
-- [Federal Reserve](/federal-reserve) — the rescuer
+- [Systemic risk](/systemic-risk/) — the concern that motivated the bailout
+- [Federal Reserve](/federal-reserve/) — the rescuer
 - Too big to fail — the policy principle
 - Financial engineering — the complex strategy that backfired
 

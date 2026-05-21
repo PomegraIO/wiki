@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **difficulty adjustment** is an automatic mechanism in [proof-of-work](/proof-of-work) blockchains that regulates puzzle difficulty to maintain consistent block creation times. On [Bitcoin](/bitcoin), difficulty adjusts every 2,016 blocks (roughly every two weeks) based on the actual block times. This ensures blocks arrive at ~10-minute intervals regardless of how much [hash rate](/hash-rate) joins or leaves the network.*
+*A **difficulty adjustment** is an automatic mechanism in [proof-of-work](/proof-of-work/) blockchains that regulates puzzle difficulty to maintain consistent block creation times. On [Bitcoin](/bitcoin/), difficulty adjusts every 2,016 blocks (roughly every two weeks) based on the actual block times. This ensures blocks arrive at ~10-minute intervals regardless of how much [hash rate](/hash-rate/) joins or leaves the network.*
 
 <div class="wiki-hatnote">
 
-This entry covers difficulty adjustment as a mechanism. For mining, see [mining Bitcoin](/mining-bitcoin); for hash rate, see [hash rate](/hash-rate); for the consensus mechanism, see [proof-of-work](/proof-of-work).
+This entry covers difficulty adjustment as a mechanism. For mining, see [mining Bitcoin](/mining-bitcoin/); for hash rate, see [hash rate](/hash-rate/); for the consensus mechanism, see [proof-of-work](/proof-of-work/).
 
 </div>
 
@@ -41,9 +41,9 @@ This entry covers difficulty adjustment as a mechanism. For mining, see [mining 
 
 ## Why difficulty adjustment is necessary
 
-[Proof-of-work](/proof-of-work) blockchains require miners to find a hash below a certain target value. As [hash rate](/hash-rate) increases (more miners joining, better hardware), blocks are found faster. Without adjustment, block times would accelerate, potentially creating security and usability issues.
+[Proof-of-work](/proof-of-work/) blockchains require miners to find a hash below a certain target value. As [hash rate](/hash-rate/) increases (more miners joining, better hardware), blocks are found faster. Without adjustment, block times would accelerate, potentially creating security and usability issues.
 
-Conversely, if miners exit (unprofitable periods), [hash rate](/hash-rate) decreases, and blocks would slow down.
+Conversely, if miners exit (unprofitable periods), [hash rate](/hash-rate/) decreases, and blocks would slow down.
 
 Difficulty adjustment solves this by automatically raising the target (reducing difficulty) or lowering it (increasing difficulty) to maintain consistent block times.
 
@@ -73,11 +73,11 @@ This creates a stabilisation loop. If difficulty rises too much, unprofitable mi
 
 ## The lag problem
 
-Bitcoin's difficulty adjustment has a lag: it adjusts every 2 weeks based on the previous 2 weeks' performance. If [hash rate](/hash-rate) changes rapidly (e.g., major mining operations suddenly come online or go offline), block times will fluctuate before the next adjustment.
+Bitcoin's difficulty adjustment has a lag: it adjusts every 2 weeks based on the previous 2 weeks' performance. If [hash rate](/hash-rate/) changes rapidly (e.g., major mining operations suddenly come online or go offline), block times will fluctuate before the next adjustment.
 
 During periods of rapid hash rate growth, blocks may arrive much faster than 10 minutes temporarily. During periods of hash rate decline, blocks may slow down.
 
-Other blockchains use more frequent adjustments (e.g., [Litecoin](/litecoin) adjusts every block, [Ethereum](/ethereum) in proof-of-stake uses per-slot adjustments). More frequent adjustments reduce lag but increase complexity.
+Other blockchains use more frequent adjustments (e.g., [Litecoin](/litecoin/) adjusts every block, [Ethereum](/ethereum/) in proof-of-stake uses per-slot adjustments). More frequent adjustments reduce lag but increase complexity.
 
 ## Historical examples
 
@@ -89,7 +89,7 @@ Other blockchains use more frequent adjustments (e.g., [Litecoin](/litecoin) adj
 
 ## Security implications
 
-Difficulty adjustment ensures that even as [hash rate](/hash-rate) changes, the network remains secure. Higher hash rate = higher difficulty = same cost to perform a 51% attack (percentage-wise).
+Difficulty adjustment ensures that even as [hash rate](/hash-rate/) changes, the network remains secure. Higher hash rate = higher difficulty = same cost to perform a 51% attack (percentage-wise).
 
 However, during periods of rapid hash rate decline, the network is temporarily less secure (fewer hashes required to attack).
 
@@ -98,9 +98,9 @@ However, during periods of rapid hash rate decline, the network is temporarily l
 Different blockchains use different adjustment mechanisms:
 
 - **Bitcoin:** Every 2,016 blocks (~2 weeks).
-- **[Litecoin](/litecoin):** Every block (very responsive).
-- **[Ethereum](/ethereum) (pre-merge):** Adjustment per block.
-- **[Dogecoin](/dogecoin):** Every block.
+- **[Litecoin](/litecoin/):** Every block (very responsive).
+- **[Ethereum](/ethereum/) (pre-merge):** Adjustment per block.
+- **[Dogecoin](/dogecoin/):** Every block.
 
 More frequent adjustments reduce lag but are computationally more complex.
 
@@ -127,16 +127,16 @@ This feedback loop helps stabilise mining profitability over long periods.
 
 ### Closely related
 
-- [Hash rate](/hash-rate) — what difficulty adjustment responds to
-- [Mining Bitcoin](/mining-bitcoin) — affected by difficulty changes
-- [Proof-of-work](/proof-of-work) — the mechanism difficulty regulates
-- [ASIC mining](/asic-mining) — hardware affected by difficulty
-- [Bitcoin](/bitcoin) — where adjustment occurs
+- [Hash rate](/hash-rate/) — what difficulty adjustment responds to
+- [Mining Bitcoin](/mining-bitcoin/) — affected by difficulty changes
+- [Proof-of-work](/proof-of-work/) — the mechanism difficulty regulates
+- [ASIC mining](/asic-mining/) — hardware affected by difficulty
+- [Bitcoin](/bitcoin/) — where adjustment occurs
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Bitcoin halving](/bitcoin-halving) — another regulatory mechanism
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Bitcoin halving](/bitcoin-halving/) — another regulatory mechanism
 - 51% attack — security depends on difficulty
 
 </div>

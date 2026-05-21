@@ -10,11 +10,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **fund of funds** is a pooled investment vehicle that invests in other funds rather than directly in [stocks](/stock), [bonds](/bond), or other securities. A fund of funds might hold 10–30 [hedge funds](/hedge-fund), [private equity funds](/private-equity-fund), or [mutual funds](/mutual-fund), providing diversification across managers and strategies. However, fund of funds incur multiple layers of fees, making them expensive.*
+*A **fund of funds** is a pooled investment vehicle that invests in other funds rather than directly in [stocks](/stock/), [bonds](/bond/), or other securities. A fund of funds might hold 10–30 [hedge funds](/hedge-fund/), [private equity funds](/private-equity-fund/), or [mutual funds](/mutual-fund/), providing diversification across managers and strategies. However, fund of funds incur multiple layers of fees, making them expensive.*
 
 <div class="wiki-hatnote">
 
-This entry covers fund of funds as a wrapper. For the underlying vehicles, see [hedge fund](/hedge-fund), [private equity fund](/private-equity-fund), or [mutual fund](/mutual-fund).
+This entry covers fund of funds as a wrapper. For the underlying vehicles, see [hedge fund](/hedge-fund/), [private equity fund](/private-equity-fund/), or [mutual fund](/mutual-fund/).
 
 </div>
 
@@ -32,9 +32,9 @@ This entry covers fund of funds as a wrapper. For the underlying vehicles, see [
 | **Also called** | Wrapper fund, multi-manager vehicle, fund family |
 | **Issued by** | Fund managers (sometimes called "platforms") |
 | **Holdings** | Typically 10–30 underlying funds |
-| **Underlying types** | [Hedge funds](/hedge-fund), [private equity](/private-equity-fund), [mutual funds](/mutual-fund) |
-| **[Management fee](/management-fee)** | 0.5%–2.0% (on top of underlying fees) |
-| **[Performance fee](/performance-fee)** | 10%–20% (on top of underlying fees) |
+| **Underlying types** | [Hedge funds](/hedge-fund/), [private equity](/private-equity-fund/), [mutual funds](/mutual-fund/) |
+| **[Management fee](/management-fee/)** | 0.5%–2.0% (on top of underlying fees) |
+| **[Performance fee](/performance-fee/)** | 10%–20% (on top of underlying fees) |
 | **Total fee drag** | Often 2%–4% annually (problematic) |
 | **Minimum investment** | $100,000–$1 million |
 
@@ -46,15 +46,15 @@ A fund of funds manager raises capital and uses it to invest in multiple underly
 
 1. **Investor contributes** $1 million to a hedge fund of funds.
 2. **The FoF manager allocates** the capital across 15 underlying hedge funds ($66,667 per fund).
-3. **Each underlying fund** charges a [management fee](/management-fee) (typically 1.5–2%) and [performance fee](/performance-fee) (20%).
-4. **The FoF manager** also charges a [management fee](/management-fee) (1%) and [performance fee](/performance-fee) (10%).
+3. **Each underlying fund** charges a [management fee](/management-fee/) (typically 1.5–2%) and [performance fee](/performance-fee/) (20%).
+4. **The FoF manager** also charges a [management fee](/management-fee/) (1%) and [performance fee](/performance-fee/) (10%).
 5. **Total fees:** The investor pays both the FoF's fees AND the underlying funds' fees.
 
 ## Why fund of funds exist
 
 Fund of funds address several investor needs:
 
-**Access.** Many [hedge funds](/hedge-fund) and [private equity funds](/private-equity-fund) have high minimum investments ($1 million+) or are closed to new investors. A fund of funds pools many investors to meet minimums and gains access.
+**Access.** Many [hedge funds](/hedge-fund/) and [private equity funds](/private-equity-fund/) have high minimum investments ($1 million+) or are closed to new investors. A fund of funds pools many investors to meet minimums and gains access.
 
 **Due diligence.** Evaluating individual hedge funds requires expertise. A fund of funds manager claims to have this expertise and handles fund selection.
 
@@ -66,8 +66,8 @@ Fund of funds address several investor needs:
 
 The main criticism of fund of funds is the fee structure. An investor pays:
 
-- **Underlying fund fees:** 2% [management fee](/management-fee) + 20% [performance fee](/performance-fee).
-- **FoF layer fees:** 1% [management fee](/management-fee) + 10% [performance fee](/performance-fee).
+- **Underlying fund fees:** 2% [management fee](/management-fee/) + 20% [performance fee](/performance-fee/).
+- **FoF layer fees:** 1% [management fee](/management-fee/) + 10% [performance fee](/performance-fee/).
 - **Total effective cost:** Often 2.5%–3.5% annually, plus double dipping on performance fees.
 
 This creates a serious headwind. A fund of funds holding underlying funds that return 12% gross might deliver:
@@ -102,19 +102,19 @@ For retail investors, better alternatives exist:
 
 **Comingled funds.** Some alternative investment managers offer pooled vehicles with lower minimums and simpler fee structures.
 
-**ETFs and mutual funds.** For most retail investors, low-cost broad [ETFs](/etf) and [mutual funds](/mutual-fund) provide diversification with much lower fees (0.03%–0.20%).
+**ETFs and mutual funds.** For most retail investors, low-cost broad [ETFs](/etf/) and [mutual funds](/mutual-fund/) provide diversification with much lower fees (0.03%–0.20%).
 
-**Multi-asset platforms.** Robo-advisors and multi-asset platforms offer diversified portfolios of [ETFs](/etf) and [mutual funds](/mutual-fund) at low cost, without the fee layering.
+**Multi-asset platforms.** Robo-advisors and multi-asset platforms offer diversified portfolios of [ETFs](/etf/) and [mutual funds](/mutual-fund/) at low cost, without the fee layering.
 
 ## When fund of funds makes sense
 
 Fund of funds are rational only when:
 
-1. **Genuine access problem.** You need a fund of funds to access [hedge funds](/hedge-fund) or [private equity](/private-equity-fund) you could not reach otherwise.
+1. **Genuine access problem.** You need a fund of funds to access [hedge funds](/hedge-fund/) or [private equity](/private-equity-fund/) you could not reach otherwise.
 2. **Strong manager.** The FoF manager has demonstrated skill at selecting and timing underlying funds (rare).
 3. **Accepting the fee drag.** You understand the cost structure and accept it as the price of access and diversification.
 
-For most retail investors, the fee drag is unjustifiable, and low-cost [ETF](/etf) portfolios are preferable.
+For most retail investors, the fee drag is unjustifiable, and low-cost [ETF](/etf/) portfolios are preferable.
 
 ## See also
 
@@ -122,18 +122,18 @@ For most retail investors, the fee drag is unjustifiable, and low-cost [ETF](/et
 
 ### Closely related
 
-- [Hedge fund](/hedge-fund) — typical underlying holding
-- [Private equity fund](/private-equity-fund) — another typical holding
-- [Mutual fund](/mutual-fund) — can be held in fund of funds
-- [Management fee](/management-fee) — layered fees problem
-- [Performance fee](/performance-fee) — the double-dipping issue
+- [Hedge fund](/hedge-fund/) — typical underlying holding
+- [Private equity fund](/private-equity-fund/) — another typical holding
+- [Mutual fund](/mutual-fund/) — can be held in fund of funds
+- [Management fee](/management-fee/) — layered fees problem
+- [Performance fee](/performance-fee/) — the double-dipping issue
 
 ### Wider context
 
-- [ETF](/etf) — lower-cost alternative
-- [Expense ratio](/expense-ratio) — traditional fund cost measure
-- [Asset allocation](/asset-allocation) — why diversification across managers appeals
-- [Diversification](/diversification) — the benefit claimed by fund of funds
-- [Fee layering](/management-fee) — the structural cost problem
+- [ETF](/etf/) — lower-cost alternative
+- [Expense ratio](/expense-ratio/) — traditional fund cost measure
+- [Asset allocation](/asset-allocation/) — why diversification across managers appeals
+- [Diversification](/diversification/) — the benefit claimed by fund of funds
+- [Fee layering](/management-fee/) — the structural cost problem
 
 </div>

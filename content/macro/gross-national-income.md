@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Gross National Income — abbreviated **GNI** — measures the total income earned by a country's residents, both from domestic production and from investments and employment abroad, adjusted for payments made to foreign investors. It is the income-based counterpart to [GDP](/gross-domestic-product) and the standard modern measure used by the World Bank and IMF.*
+*Gross National Income — abbreviated **GNI** — measures the total income earned by a country's residents, both from domestic production and from investments and employment abroad, adjusted for payments made to foreign investors. It is the income-based counterpart to [GDP](/gross-domestic-product/) and the standard modern measure used by the World Bank and IMF.*
 
 <div class="wiki-hatnote">
 
-GNI = [GDP](/gross-domestic-product) + net income from abroad. It differs from [GNP](/gross-national-product) by also adjusting for changes in the terms of trade — the ratio of export prices to import prices.
+GNI = [GDP](/gross-domestic-product/) + net income from abroad. It differs from [GNP](/gross-national-product/) by also adjusting for changes in the terms of trade — the ratio of export prices to import prices.
 
 </div>
 
@@ -28,7 +28,7 @@ GNI = [GDP](/gross-domestic-product) + net income from abroad. It differs from [
 
 |   |   |
 |---|---|
-| **Formula** | [GDP](/gross-domestic-product) + net income from abroad |
+| **Formula** | [GDP](/gross-domestic-product/) + net income from abroad |
 | **Also called** | Gross national income (GNI) |
 | **Reported by** | World Bank, IMF, national statistical agencies |
 | **Frequency** | Annual |
@@ -41,7 +41,7 @@ GNI = [GDP](/gross-domestic-product) + net income from abroad. It differs from [
 
 ## GNI versus GDP
 
-The distinction is straightforward. [GDP](/gross-domestic-product) measures output produced within a country's borders, regardless of ownership. GNI measures income earned by residents, regardless of where it was earned.
+The distinction is straightforward. [GDP](/gross-domestic-product/) measures output produced within a country's borders, regardless of ownership. GNI measures income earned by residents, regardless of where it was earned.
 
 GNI includes:
 - Wages and salaries earned by residents working abroad
@@ -56,11 +56,11 @@ GNI excludes:
 The formula is:
 **GNI = GDP + Wages from abroad − Wages paid to foreigners + Investment income from abroad − Investment income paid to foreigners**
 
-For most developed countries, these flows roughly balance and GNI ≈ [GDP](/gross-domestic-product). But for nations with large foreign investment, the gap can be significant. If a small country hosts a major foreign-owned mine, [GDP](/gross-domestic-product) is high but GNI is lower because profits flow out.
+For most developed countries, these flows roughly balance and GNI ≈ [GDP](/gross-domestic-product/). But for nations with large foreign investment, the gap can be significant. If a small country hosts a major foreign-owned mine, [GDP](/gross-domestic-product/) is high but GNI is lower because profits flow out.
 
 ## Terms of trade adjustment
 
-GNI also differs from [GNP](/gross-national-product) by adjusting for terms-of-trade effects. When a country's export prices rise relative to import prices, real income improves even if physical output is unchanged. A country exporting oil benefits from a price spike; an oil importer is hurt.
+GNI also differs from [GNP](/gross-national-product/) by adjusting for terms-of-trade effects. When a country's export prices rise relative to import prices, real income improves even if physical output is unchanged. A country exporting oil benefits from a price spike; an oil importer is hurt.
 
 This adjustment is subtle but economically meaningful. During commodity booms, terms of trade can swing by 10-20%, materially shifting national income.
 
@@ -77,18 +77,18 @@ These thresholds are updated annually and affect which countries qualify for cer
 
 ## Real GNI
 
-Like [GDP](/gross-domestic-product), GNI can be measured in nominal (current) or real (inflation-adjusted) terms. Real GNI per capita growth tells whether residents' incomes are actually rising or merely being inflated.
+Like [GDP](/gross-domestic-product/), GNI can be measured in nominal (current) or real (inflation-adjusted) terms. Real GNI per capita growth tells whether residents' incomes are actually rising or merely being inflated.
 
 A country can report 8% nominal GNI per capita growth that is really 5% real growth plus 3% inflation. Comparing across countries and over time requires real adjustment, often with purchasing power parity adjustments as well.
 
 ## Why GNI replaced GNP
 
-The shift from [GNP](/gross-national-product) to GNI reflects the reality of modern globalized economies:
+The shift from [GNP](/gross-national-product/) to GNI reflects the reality of modern globalized economies:
 
 1. **It includes all income flows.** Not just gross production by nationals, but also terms-of-trade changes that affect real purchasing power.
 2. **It is more comprehensive.** The income approach to measuring output is inherently a GNI concept — it captures what residents actually earn.
 3. **It is standardized internationally.** The UN, World Bank, and IMF all use GNI, making cross-country comparison consistent.
-4. **It recognizes the limits of a single metric.** By explicitly adjusting for income flows and terms of trade, it acknowledges what [GDP](/gross-domestic-product) alone obscures.
+4. **It recognizes the limits of a single metric.** By explicitly adjusting for income flows and terms of trade, it acknowledges what [GDP](/gross-domestic-product/) alone obscures.
 
 ## Limitations
 
@@ -105,10 +105,10 @@ Like all aggregate measures, GNI has blind spots:
 
 ### Closely related
 
-- [Gross Domestic Product](/gross-domestic-product) — output within borders
-- [Gross National Product](/gross-national-product) — historical predecessor
-- [Real GDP](/real-gdp) — inflation-adjusted output
-- [GDP per capita](/gdp-per-capita) — alternative per-capita metric
+- [Gross Domestic Product](/gross-domestic-product/) — output within borders
+- [Gross National Product](/gross-national-product/) — historical predecessor
+- [Real GDP](/real-gdp/) — inflation-adjusted output
+- [GDP per capita](/gdp-per-capita/) — alternative per-capita metric
 - National income — the income-side accounting
 
 ### Broader context
@@ -117,6 +117,6 @@ Like all aggregate measures, GNI has blind spots:
 - Terms of trade — export to import price ratio
 - Exchange rate — affects GNI in foreign currency
 - Macroeconomics — the field using GNI
-- [Inflation](/inflation) — requires real adjustment
+- [Inflation](/inflation/) — requires real adjustment
 
 </div>

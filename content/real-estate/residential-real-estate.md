@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers residential real estate broadly. For specific property types, see [multifamily-property](/multifamily-property) (apartments), [single-family-rental](/single-family-rental) (rental homes), [condominium](/condominium), and cooperative-housing. For institutional investment, see [residential REIT](/residential-reit).
+This entry covers residential real estate broadly. For specific property types, see [multifamily-property](/multifamily-property/) (apartments), [single-family-rental](/single-family-rental/) (rental homes), [condominium](/condominium/), and cooperative-housing. For institutional investment, see [residential REIT](/residential-reit/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry covers residential real estate broadly. For specific property types, 
 
 Residential real estate splits into two categories:
 
-**Owner-occupied**: A household buys a home as a primary residence and lives in it. The household finances the purchase with a down payment and a [mortgage](/fixed-rate-mortgage), and over 15–30 years pays down the loan.
+**Owner-occupied**: A household buys a home as a primary residence and lives in it. The household finances the purchase with a down payment and a [mortgage](/fixed-rate-mortgage/), and over 15–30 years pays down the loan.
 
 **Investment property**: A real estate investor buys a residential property (house, apartment unit, multifamily complex) for rent. The investor finances with a down payment and mortgage, collects rent, and realizes returns through rental income and appreciation.
 
@@ -111,28 +111,28 @@ Understanding these demographic and lifecycle trends is crucial for real estate 
 
 ### Property types
 
-- [Multifamily property](/multifamily-property) — apartment buildings and complexes
-- [Single-family rental](/single-family-rental) — rental homes
-- [Condominium](/condominium) — condo ownership and structure
-- [Build-to-rent](/build-to-rent) — new rental communities
-- [Commercial-real-estate](/commercial-real-estate) — non-residential property
+- [Multifamily property](/multifamily-property/) — apartment buildings and complexes
+- [Single-family rental](/single-family-rental/) — rental homes
+- [Condominium](/condominium/) — condo ownership and structure
+- [Build-to-rent](/build-to-rent/) — new rental communities
+- [Commercial-real-estate](/commercial-real-estate/) — non-residential property
 
 ### Investment vehicles
 
-- [Residential REIT](/residential-reit) — institutional ownership of apartments
+- [Residential REIT](/residential-reit/) — institutional ownership of apartments
 - Real estate syndication — pooled real estate investments
 
 ### Financing and metrics
 
-- [Fixed-rate mortgage](/fixed-rate-mortgage) — the dominant home loan type
-- [Cap rate](/cap-rate) — return metric for rental property
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns on invested capital
+- [Fixed-rate mortgage](/fixed-rate-mortgage/) — the dominant home loan type
+- [Cap rate](/cap-rate/) — return metric for rental property
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns on invested capital
 
 ### Context
 
-- [Inflation](/inflation) — home prices often move with inflation
-- [Interest rate](/interest-rate) — affects mortgage rates and affordability
-- [Asset allocation](/asset-allocation) — homes as portfolio components
-- [Diversification](/diversification) — importance of geographic diversification in real estate
+- [Inflation](/inflation/) — home prices often move with inflation
+- [Interest rate](/interest-rate/) — affects mortgage rates and affordability
+- [Asset allocation](/asset-allocation/) — homes as portfolio components
+- [Diversification](/diversification/) — importance of geographic diversification in real estate
 
 </div>

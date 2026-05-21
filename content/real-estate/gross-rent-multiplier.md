@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For a more rigorous metric, see [cap-rate](/cap-rate), which divides net operating income by price. GRM is simpler but less precise because it ignores operating expenses.
+For a more rigorous metric, see [cap-rate](/cap-rate/), which divides net operating income by price. GRM is simpler but less precise because it ignores operating expenses.
 
 </div>
 
@@ -124,19 +124,19 @@ For serious real estate analysis, cap rate is more useful. GRM is a handy quick-
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — the more rigorous valuation metric
-- [Net operating income](/net-operating-income) — the denominator in cap rate
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns on invested capital
+- [Cap rate](/cap-rate/) — the more rigorous valuation metric
+- [Net operating income](/net-operating-income/) — the denominator in cap rate
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns on invested capital
 
 ### Real estate context
 
-- [Commercial-real-estate](/commercial-real-estate) — where GRM is used
-- [Residential-real-estate](/residential-real-estate) — where GRM is common for quick appraisals
-- [Real estate investment trust](/real-estate-investment-trust) — institutions using cap rates, not GRM
+- [Commercial-real-estate](/commercial-real-estate/) — where GRM is used
+- [Residential-real-estate](/residential-real-estate/) — where GRM is common for quick appraisals
+- [Real estate investment trust](/real-estate-investment-trust/) — institutions using cap rates, not GRM
 
 ### Context
 
-- [Price to earnings ratio](/price-to-earnings-ratio) — stock market equivalent to GRM
-- [Valuation](/stock) — comparison of approaches across asset classes
+- [Price to earnings ratio](/price-to-earnings-ratio/) — stock market equivalent to GRM
+- [Valuation](/stock/) — comparison of approaches across asset classes
 
 </div>

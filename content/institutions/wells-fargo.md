@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Wells Fargo & Company** is one of the largest [banks](/broker) in the United States, headquartered in San Francisco. Operating through consumer banking, commercial banking, and investment banking divisions, Wells Fargo serves millions of individuals, small and medium businesses, large corporations, and institutional investors across the US and globally.*
+*The **Wells Fargo & Company** is one of the largest [banks](/broker/) in the United States, headquartered in San Francisco. Operating through consumer banking, commercial banking, and investment banking divisions, Wells Fargo serves millions of individuals, small and medium businesses, large corporations, and institutional investors across the US and globally.*
 
 <div class="wiki-hatnote">
 
@@ -61,7 +61,7 @@ Wells Fargo operates corporate and investment banking divisions serving large co
 
 ## Wealth management
 
-Wells Fargo operates a substantial wealth management division serving ultra-high-net-worth individuals and institutions. However, the firm is not as dominant in wealth management as competitors like [JPMorgan Chase](/jpmorgan-chase) and [Morgan Stanley](/morgan-stanley).
+Wells Fargo operates a substantial wealth management division serving ultra-high-net-worth individuals and institutions. However, the firm is not as dominant in wealth management as competitors like [JPMorgan Chase](/jpmorgan-chase/) and [Morgan Stanley](/morgan-stanley/).
 
 ## Fraud scandal and recovery
 
@@ -83,20 +83,20 @@ Charlie Scharf, who became CEO in 2019, has focused on remedying the fraud scand
 
 ### Closely related
 
-- [Bank](/broker) — the category
-- [JPMorgan Chase](/jpmorgan-chase) — larger competitor
-- [Bank of America](/bank-of-america) — competitor
-- [Citigroup](/citigroup) — competitor
+- [Bank](/broker/) — the category
+- [JPMorgan Chase](/jpmorgan-chase/) — larger competitor
+- [Bank of America](/bank-of-america/) — competitor
+- [Citigroup](/citigroup/) — competitor
 - PNC Financial — regional competitor
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — clients
 - Trading — profit source
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Central bank](/central-bank/) — Federal Reserve oversight
 - Mortgage — major lending product
 
 </div>

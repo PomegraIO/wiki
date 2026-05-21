@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For comparison, see [value-add-real-estate](/value-add-real-estate) (improvement-focused) and [opportunistic-real-estate](/opportunistic-real-estate) (speculative). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust).
+For comparison, see [value-add-real-estate](/value-add-real-estate/) (improvement-focused) and [opportunistic-real-estate](/opportunistic-real-estate/) (speculative). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust/).
 
 </div>
 
@@ -131,27 +131,27 @@ For truly risk-averse investors, core real estate offers a balance between safet
 
 ### Investment strategies
 
-- [Value-add real estate](/value-add-real-estate) — improvement-focused strategy
-- [Opportunistic real estate](/opportunistic-real-estate) — speculative, high-risk plays
+- [Value-add real estate](/value-add-real-estate/) — improvement-focused strategy
+- [Opportunistic real estate](/opportunistic-real-estate/) — speculative, high-risk plays
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — core properties trade at low cap rates
-- [Net operating income](/net-operating-income) — the income core properties generate
+- [Cap rate](/cap-rate/) — core properties trade at low cap rates
+- [Net operating income](/net-operating-income/) — the income core properties generate
 - Internal rate of return (IRR) — total return metric
 
 ### Property types and vehicles
 
-- [Industrial REIT](/industrial-reit) — core industrial properties
-- [Healthcare REIT](/healthcare-reit) — core healthcare properties
-- [Real estate investment trust](/real-estate-investment-trust) — institutional core real estate ownership
+- [Industrial REIT](/industrial-reit/) — core industrial properties
+- [Healthcare REIT](/healthcare-reit/) — core healthcare properties
+- [Real estate investment trust](/real-estate-investment-trust/) — institutional core real estate ownership
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects core property valuations
-- [Dividend](/dividend) — core real estate distributions
-- [Asset allocation](/asset-allocation) — core real estate in a portfolio
-- [Recession](/recession) — core properties are defensive
+- [Interest rate](/interest-rate/) — affects core property valuations
+- [Dividend](/dividend/) — core real estate distributions
+- [Asset allocation](/asset-allocation/) — core real estate in a portfolio
+- [Recession](/recession/) — core properties are defensive
 
 </div>

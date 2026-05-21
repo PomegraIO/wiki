@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1837 panic. For the subsequent Long Depression, see [Long Depression](/long-depression); for the institutional reforms that eventually emerged, see [central bank](/central-bank).
+This entry covers the 1837 panic. For the subsequent Long Depression, see [Long Depression](/long-depression/); for the institutional reforms that eventually emerged, see [central bank](/central-bank/).
 
 </div>
 
@@ -68,16 +68,16 @@ The crisis was especially severe because expectations of American prosperity wer
 
 ### Closely related
 
-- [Panic of 1873](/panic-of-1873) — a subsequent American banking crisis
-- [Long Depression](/long-depression) — the prolonged contraction of the 1870s–1890s
+- [Panic of 1873](/panic-of-1873/) — a subsequent American banking crisis
+- [Long Depression](/long-depression/) — the prolonged contraction of the 1870s–1890s
 - Banking crisis — the broader category of credit system failures
 
 ### Wider context
 
-- [Central bank](/central-bank) — the institution absent from 1837 America
+- [Central bank](/central-bank/) — the institution absent from 1837 America
 - Bank run — the mechanism of bank failure
-- [Recession](/recession) — the macroeconomic effect of a financial panic
-- [Deflation](/deflation) — the falling prices that accompanied the contraction
-- [Gold standard](/gold-standard) — the monetary regime that constrained policy options
+- [Recession](/recession/) — the macroeconomic effect of a financial panic
+- [Deflation](/deflation/) — the falling prices that accompanied the contraction
+- [Gold standard](/gold-standard/) — the monetary regime that constrained policy options
 
 </div>

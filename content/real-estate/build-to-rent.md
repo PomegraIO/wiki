@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers build-to-rent as an asset class. For residential alternatives, see [residential-real-estate](/residential-real-estate) and [multifamily-property](/multifamily-property). For institutional investment, see [residential REIT](/residential-reit).
+This entry covers build-to-rent as an asset class. For residential alternatives, see [residential-real-estate](/residential-real-estate/) and [multifamily-property](/multifamily-property/). For institutional investment, see [residential REIT](/residential-reit/).
 
 </div>
 
@@ -123,27 +123,27 @@ This creates uncertainty for developers: those who build in good times and face 
 
 ### Property types
 
-- [Residential real estate](/residential-real-estate) — housing broadly
-- [Multifamily property](/multifamily-property) — apartment buildings
-- [Single-family rental](/single-family-rental) — existing rental homes
-- [Commercial-real-estate](/commercial-real-estate) — non-residential development
+- [Residential real estate](/residential-real-estate/) — housing broadly
+- [Multifamily property](/multifamily-property/) — apartment buildings
+- [Single-family rental](/single-family-rental/) — existing rental homes
+- [Commercial-real-estate](/commercial-real-estate/) — non-residential development
 
 ### Investment vehicles
 
-- [Residential REIT](/residential-reit) — institutional rental ownership
+- [Residential REIT](/residential-reit/) — institutional rental ownership
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — stabilization returns for BTR communities
-- [Net operating income](/net-operating-income) — rental cash flow
-- [Cash on cash return](/cash-on-cash-return) — equity returns
+- [Cap rate](/cap-rate/) — stabilization returns for BTR communities
+- [Net operating income](/net-operating-income/) — rental cash flow
+- [Cash on cash return](/cash-on-cash-return/) — equity returns
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects development feasibility and returns
-- [Inflation](/inflation) — drives construction costs
-- [Recession](/recession) — development slows in downturns
-- [Asset allocation](/asset-allocation) — new properties as portfolio components
+- [Interest rate](/interest-rate/) — affects development feasibility and returns
+- [Inflation](/inflation/) — drives construction costs
+- [Recession](/recession/) — development slows in downturns
+- [Asset allocation](/asset-allocation/) — new properties as portfolio components
 
 </div>

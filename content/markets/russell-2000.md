@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **Russell 2000 Index** is a market-capitalization-weighted index of 2,000 small-cap US companies, maintained by the FTSE Russell (a subsidiary of the London Stock Exchange Group). It represents the small-cap segment of the US market, starting approximately where the [Russell 1000](/russell-2000) (the 1,000 largest companies) ends. The Russell 2000 is more volatile and less liquid than the [S&P 500](/sp-500-index) but offers valuable exposure to smaller, faster-growing companies.*
+*The **Russell 2000 Index** is a market-capitalization-weighted index of 2,000 small-cap US companies, maintained by the FTSE Russell (a subsidiary of the London Stock Exchange Group). It represents the small-cap segment of the US market, starting approximately where the [Russell 1000](/russell-2000/) (the 1,000 largest companies) ends. The Russell 2000 is more volatile and less liquid than the [S&P 500](/sp-500-index/) but offers valuable exposure to smaller, faster-growing companies.*
 
 <div class="wiki-hatnote">
 
-This entry is about the Russell 2000 small-cap index. For large-cap indices, see [S&P 500](/sp-500-index) and [Dow Jones Industrial Average](/dow-jones-industrial-average); for the broader Russell family, see [Russell 1000](/russell-2000).
+This entry is about the Russell 2000 small-cap index. For large-cap indices, see [S&P 500](/sp-500-index/) and [Dow Jones Industrial Average](/dow-jones-industrial-average/); for the broader Russell family, see [Russell 1000](/russell-2000/).
 
 </div>
 
@@ -34,8 +34,8 @@ This entry is about the Russell 2000 small-cap index. For large-cap indices, see
 | **Weighting method** | Market capitalization |
 | **Created** | 1984 |
 | **Maintained by** | FTSE Russell |
-| **Volatility** | High; 2–3x [S&P 500](/sp-500-index) |
-| **Annual return (historical)** | ~9–10% (similar to [S&P 500](/sp-500-index) long-term, higher volatility) |
+| **Volatility** | High; 2–3x [S&P 500](/sp-500-index/) |
+| **Annual return (historical)** | ~9–10% (similar to [S&P 500](/sp-500-index/) long-term, higher volatility) |
 | **Key sectors** | Healthcare, Technology, Industrials, Financials |
 
 </aside>
@@ -48,7 +48,7 @@ The Russell 2000 comprises the smallest 2,000 companies in the Russell 3000 Inde
 
 **Geographic focus:** All are US-domiciled companies, but many have international operations and revenue.
 
-**Sectors:** More balanced across sectors than the [S&P 500](/sp-500-index), with meaningful exposure to healthcare, technology, industrials, and financials.
+**Sectors:** More balanced across sectors than the [S&P 500](/sp-500-index/), with meaningful exposure to healthcare, technology, industrials, and financials.
 
 ## Russell Index family
 
@@ -73,11 +73,11 @@ Small-cap companies in the Russell 2000 differ from large-cap:
 
 ## Volatility and risk-return profile
 
-The Russell 2000 is significantly more volatile than the [S&P 500](/sp-500-index):
+The Russell 2000 is significantly more volatile than the [S&P 500](/sp-500-index/):
 
 - **Annualized volatility:** 20–30% (varies by year).
-- **Historical annual return:** ~9–10% (similar to [S&P 500](/sp-500-index) long-term).
-- **Drawdowns:** Larger declines; during the 2008 crisis, the Russell 2000 fell 65% vs. [S&P 500](/sp-500-index) 37%.
+- **Historical annual return:** ~9–10% (similar to [S&P 500](/sp-500-index/) long-term).
+- **Drawdowns:** Larger declines; during the 2008 crisis, the Russell 2000 fell 65% vs. [S&P 500](/sp-500-index/) 37%.
 
 This higher volatility reflects both higher growth potential and higher risk.
 
@@ -115,13 +115,13 @@ Sophisticated investors can sometimes profit by front-running reconstitution tra
 
 **Value investors:** The Russell 2000 contains many value stocks trading at low price-to-earnings multiples.
 
-**Diversification:** A portfolio combining [S&P 500](/sp-500-index) and Russell 2000 obtains both large-cap and small-cap exposure.
+**Diversification:** A portfolio combining [S&P 500](/sp-500-index/) and Russell 2000 obtains both large-cap and small-cap exposure.
 
 **Cycle investing:** Some use Russell 2000 outperformance as a sign of economic strength; underperformance can signal recession risk.
 
 ## Contrasts with S&P 500
 
-| Factor | Russell 2000 | [S&P 500](/sp-500-index) |
+| Factor | Russell 2000 | [S&P 500](/sp-500-index/) |
 |--------|-----------|---------|
 | **Number of stocks** | 2,000 | 500 |
 | **Volatility** | High (20–30%) | Medium (15–20%) |
@@ -146,18 +146,18 @@ Sophisticated investors can sometimes profit by front-running reconstitution tra
 
 ### Closely related
 
-- [S&P 500](/sp-500-index) — the large-cap alternative
-- [Russell 1000](/russell-2000) — the large-cap Russell index
-- [Russell 3000](/russell-2000) — the total market Russell index
-- [Small-cap stock](/stock) — what Russell 2000 comprises
-- [Index](/sp-500-index) — Russell 2000 is one type
+- [S&P 500](/sp-500-index/) — the large-cap alternative
+- [Russell 1000](/russell-2000/) — the large-cap Russell index
+- [Russell 3000](/russell-2000/) — the total market Russell index
+- [Small-cap stock](/stock/) — what Russell 2000 comprises
+- [Index](/sp-500-index/) — Russell 2000 is one type
 
 ### Wider context
 
-- [Market capitalization](/market-capitalization) — determines Russell 2000 membership
-- [Growth stock](/stock) — common in Russell 2000
-- [Volatility](/bull-market) — higher in Russell 2000
-- [Diversification](/diversification) — achieved with Russell 2000
-- [Emerging growth](/stock) — Russell 2000 captures this
+- [Market capitalization](/market-capitalization/) — determines Russell 2000 membership
+- [Growth stock](/stock/) — common in Russell 2000
+- [Volatility](/bull-market/) — higher in Russell 2000
+- [Diversification](/diversification/) — achieved with Russell 2000
+- [Emerging growth](/stock/) — Russell 2000 captures this
 
 </div>

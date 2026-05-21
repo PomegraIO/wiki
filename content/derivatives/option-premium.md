@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **option premium** is the upfront price an option buyer pays the seller for the right to buy (in a [call option](/call-option)) or sell (in a [put option](/put-option)) the underlying asset. The premium is the total value of the option, comprising [intrinsic value](/intrinsic-value) and [time value](/time-value). Premiums are quoted in dollars per share (for stocks) or per contract unit, and they move continuously throughout the trading day based on supply, demand, and changes in the underlying asset.*
+*The **option premium** is the upfront price an option buyer pays the seller for the right to buy (in a [call option](/call-option/)) or sell (in a [put option](/put-option/)) the underlying asset. The premium is the total value of the option, comprising [intrinsic value](/intrinsic-value/) and [time value](/time-value/). Premiums are quoted in dollars per share (for stocks) or per contract unit, and they move continuously throughout the trading day based on supply, demand, and changes in the underlying asset.*
 
 <aside class="wiki-infobox">
 
@@ -37,17 +37,17 @@ image: "/svg/derivatives.svg"
 
 ## What the premium covers
 
-When you buy a [call option](/call-option), you pay the premium to acquire the right to buy the underlying [stock](/stock) at the [strike price](/strike-price). That premium is not refundable; if you change your mind, you must sell the option to someone else (if there is a buyer) to recover some value.
+When you buy a [call option](/call-option/), you pay the premium to acquire the right to buy the underlying [stock](/stock/) at the [strike price](/strike-price/). That premium is not refundable; if you change your mind, you must sell the option to someone else (if there is a buyer) to recover some value.
 
 The premium includes two elements:
 
-1. **Intrinsic value:** If the option is [in-the-money](/in-the-money), the premium includes the immediate exercise profit. A [call option](/call-option) struck at $100 on a $105 stock has at least $5 of intrinsic value, so the premium is at least $5.
+1. **Intrinsic value:** If the option is [in-the-money](/in-the-money/), the premium includes the immediate exercise profit. A [call option](/call-option/) struck at $100 on a $105 stock has at least $5 of intrinsic value, so the premium is at least $5.
 
-2. **Time value:** This is the market's bet on future movement. That same call at $100 with the stock at $105 and 3 months to [expiration](/expiration-date) might trade at $7 ($5 intrinsic + $2 time value), because the market thinks the stock could move further.
+2. **Time value:** This is the market's bet on future movement. That same call at $100 with the stock at $105 and 3 months to [expiration](/expiration-date/) might trade at $7 ($5 intrinsic + $2 time value), because the market thinks the stock could move further.
 
 ## How premiums are quoted
 
-Premiums are expressed in dollars per share for stock options. A [call option](/call-option) with a premium of $2.50 costs $2.50 per share, or $250 per contract (since each contract represents 100 shares).
+Premiums are expressed in dollars per share for stock options. A [call option](/call-option/) with a premium of $2.50 costs $2.50 per share, or $250 per contract (since each contract represents 100 shares).
 
 Index and some currency options are quoted differently—e.g., $10 per index point rather than per share. Always confirm the unit before trading.
 
@@ -55,20 +55,20 @@ Premiums are continuously updated during trading hours, reflecting bids (what bu
 
 ## Risk of premium loss
 
-The buyer's maximum loss is the premium paid. If you buy a [call option](/call-option) for $2 and the stock falls sharply, the option might expire worthless, and you lose the entire $2 premium. This bounded risk is one reason options are attractive to retail traders—you cannot lose more than you paid.
+The buyer's maximum loss is the premium paid. If you buy a [call option](/call-option/) for $2 and the stock falls sharply, the option might expire worthless, and you lose the entire $2 premium. This bounded risk is one reason options are attractive to retail traders—you cannot lose more than you paid.
 
-For the seller, the maximum profit is the premium received. If you sell a $2 [call option](/call-option) and the stock falls to zero, you keep the $2 premium and profit the full amount (ignoring commissions). But if the stock soars, you face losses exceeding the premium.
+For the seller, the maximum profit is the premium received. If you sell a $2 [call option](/call-option/) and the stock falls to zero, you keep the $2 premium and profit the full amount (ignoring commissions). But if the stock soars, you face losses exceeding the premium.
 
 ## Premium determinants
 
-The [Black-Scholes model](/black-scholes-model) shows that option premiums depend on:
+The [Black-Scholes model](/black-scholes-model/) shows that option premiums depend on:
 
 1. **Stock price:** Higher stock prices increase call premiums and decrease put premiums.
 2. **Strike price:** Lower strikes increase call premiums; higher strikes increase put premiums.
 3. **Time to expiration:** Longer durations increase both call and put premiums (more time for moves).
-4. **Volatility:** Higher [volatility](/historical-volatility) increases both call and put premiums (more probability of large moves).
+4. **Volatility:** Higher [volatility](/historical-volatility/) increases both call and put premiums (more probability of large moves).
 5. **Interest rates:** Higher rates slightly increase call premiums and decrease put premiums.
-6. **Dividends:** Upcoming [dividend](/dividend)s decrease call premiums and increase put premiums (the buyer loses the dividend).
+6. **Dividends:** Upcoming [dividend](/dividend/)s decrease call premiums and increase put premiums (the buyer loses the dividend).
 
 ## Bid-ask spreads and pricing
 
@@ -78,7 +78,7 @@ In liquid markets (e.g., S&P 500 options), spreads are tight (a few cents). In i
 
 ## Early sale and premium recovery
 
-If you buy an option for $2 premium and sell it before expiration when it is worth $3, you pocket a $1 profit. You have captured some of the [time value](/time-value) before it decays to zero. This is the standard practice for option buyers rather than holding to expiration and watching [time decay](/theta) erode the premium.
+If you buy an option for $2 premium and sell it before expiration when it is worth $3, you pocket a $1 profit. You have captured some of the [time value](/time-value/) before it decays to zero. This is the standard practice for option buyers rather than holding to expiration and watching [time decay](/theta/) erode the premium.
 
 ## Extrinsic vs. intrinsic in pricing
 
@@ -120,7 +120,7 @@ Only the intrinsic value is forced by arbitrage to be in the option price; the e
 ### Deeper context
 
 - [Option](/option/) — the family of derivatives
-- [Bid-ask spread](/call-option) — component of trading cost
+- [Bid-ask spread](/call-option/) — component of trading cost
 - [Arbitrage](/alpha/) — exploiting premium mispricings
 
 </div>

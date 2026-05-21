@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **OTCQX** market is the premier tier of over-the-counter trading in the US, operated by OTC Markets Group. Companies trading on OTCQX must file audited financial reports with the SEC, meet minimum financial standards (at least $5M tangible net worth), and maintain a bid price of at least $4.00. OTCQX is substantially more transparent and regulated than [OTC Pink](/otc-pink) or [OTCQB](/otc-otcqb), though still not equivalent to a major [stock exchange](/stock-exchange).*
+*The **OTCQX** market is the premier tier of over-the-counter trading in the US, operated by OTC Markets Group. Companies trading on OTCQX must file audited financial reports with the SEC, meet minimum financial standards (at least $5M tangible net worth), and maintain a bid price of at least $4.00. OTCQX is substantially more transparent and regulated than [OTC Pink](/otc-pink/) or [OTCQB](/otc-otcqb/), though still not equivalent to a major [stock exchange](/stock-exchange/).*
 
 <div class="wiki-hatnote">
 
-This entry is about the highest OTC tier. For lower-standard OTC markets, see [OTCQB](/otc-otcqb) and [OTC Pink](/otc-pink); for the broader OTC market, see [over-the-counter market](/over-the-counter-market).
+This entry is about the highest OTC tier. For lower-standard OTC markets, see [OTCQB](/otc-otcqb/) and [OTC Pink](/otc-pink/); for the broader OTC market, see [over-the-counter market](/over-the-counter-market/).
 
 </div>
 
@@ -56,11 +56,11 @@ OTCQX companies must meet three primary requirements:
 OTCQX is a transition market. A company trading there is either:
 
 - **Too small to list on a major exchange** but large and stable enough to meet OTCQX requirements.
-- **A foreign company** whose shares trade internationally but are not listed on a US exchange (though many foreign companies do list on US exchanges via [American Depositary Receipts](/stock-exchange)).
+- **A foreign company** whose shares trade internationally but are not listed on a US exchange (though many foreign companies do list on US exchanges via [American Depositary Receipts](/stock-exchange/)).
 - **A company that chose not to list** on a major exchange, accepting lower liquidity in exchange for lower compliance costs.
 - **Recently delisted** from a major exchange due to falling below listing standards, but still meeting OTCQX requirements.
 
-The jump from [OTC Pink](/otc-pink) to OTCQX is dramatic. A Pink company may issue stock with no financial controls; an OTCQX company must publish audited statements and face SEC scrutiny.
+The jump from [OTC Pink](/otc-pink/) to OTCQX is dramatic. A Pink company may issue stock with no financial controls; an OTCQX company must publish audited statements and face SEC scrutiny.
 
 ## Participant profile
 
@@ -90,15 +90,15 @@ Successful OTCQX companies frequently graduate to major-exchange listing once th
 - Shareholder base of sufficient size and distribution.
 - Investment bank underwriters willing to take the company public.
 
-The cost of listing (underwriting, legal, audit, compliance infrastructure) is steep but justifiable once a company is large enough. The major benefits — dramatic increase in [liquidity](/secondary-market), ability to use stock as acquisition currency, access to the broader capital markets — often make listing attractive.
+The cost of listing (underwriting, legal, audit, compliance infrastructure) is steep but justifiable once a company is large enough. The major benefits — dramatic increase in [liquidity](/secondary-market/), ability to use stock as acquisition currency, access to the broader capital markets — often make listing attractive.
 
 ## Comparison with lower OTC tiers
 
 The three OTC tiers represent a spectrum of rigor:
 
-**[OTC Pink](/otc-pink)** — minimal or no requirements. Companies may not file with SEC. No financial standards. Bid price can be arbitrarily low. Fraud risk is very high; intended for speculative or defunct entities.
+**[OTC Pink](/otc-pink/)** — minimal or no requirements. Companies may not file with SEC. No financial standards. Bid price can be arbitrarily low. Fraud risk is very high; intended for speculative or defunct entities.
 
-**[OTCQB](/otc-otcqb)** — moderate requirements. Companies must file with SEC and maintain minimum tangible net worth. Minimum bid price of $0.01. Better than Pink but less rigorous than OTCQX. Suitable for smaller or newer businesses.
+**[OTCQB](/otc-otcqb/)** — moderate requirements. Companies must file with SEC and maintain minimum tangible net worth. Minimum bid price of $0.01. Better than Pink but less rigorous than OTCQX. Suitable for smaller or newer businesses.
 
 **OTCQX** — rigorous requirements approaching those of major exchanges. SEC filings, audited statements, financial standards, $4.00 minimum bid. Suitable for established small-caps and quality businesses not yet listed.
 
@@ -127,18 +127,18 @@ But OTCQX is far safer than lower OTC tiers. Companies are legitimate; financial
 
 ### Closely related
 
-- [Over-the-counter market](/over-the-counter-market) — the broader OTC market
-- [OTCQB](/otc-otcqb) — the middle OTC tier
-- [OTC Pink](/otc-pink) — the lowest OTC tier
-- [Stock exchange](/stock-exchange) — the major-exchange alternative
-- [Unlisted market](/unlisted-market) — the broader category
+- [Over-the-counter market](/over-the-counter-market/) — the broader OTC market
+- [OTCQB](/otc-otcqb/) — the middle OTC tier
+- [OTC Pink](/otc-pink/) — the lowest OTC tier
+- [Stock exchange](/stock-exchange/) — the major-exchange alternative
+- [Unlisted market](/unlisted-market/) — the broader category
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — broader context for all OTC trading
-- [Liquidity](/secondary-market) — better than lower OTC tiers but still lower than major exchanges
-- [Small-cap stock](/stock) — typical OTCQX issuers
-- [Financial reporting](/federal-reserve) — key differentiator for OTCQX
-- [Diversification](/diversification) — important when investing in OTCQX securities
+- [Secondary market](/secondary-market/) — broader context for all OTC trading
+- [Liquidity](/secondary-market/) — better than lower OTC tiers but still lower than major exchanges
+- [Small-cap stock](/stock/) — typical OTCQX issuers
+- [Financial reporting](/federal-reserve/) — key differentiator for OTCQX
+- [Diversification](/diversification/) — important when investing in OTCQX securities
 
 </div>

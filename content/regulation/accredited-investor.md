@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*An **accredited investor** is defined by the [SEC](/securities-and-exchange-commission) as a person who meets income or net worth thresholds and is presumed to have the knowledge and sophistication to understand investment risks. Companies can sell unregistered securities to accredited investors under [Regulation D](/regulation-d) without full SEC review. The accredited investor concept is central to US securities exemptions, allowing startups and alternative investments to access capital without the expense of full registration.*
+*An **accredited investor** is defined by the [SEC](/securities-and-exchange-commission/) as a person who meets income or net worth thresholds and is presumed to have the knowledge and sophistication to understand investment risks. Companies can sell unregistered securities to accredited investors under [Regulation D](/regulation-d/) without full SEC review. The accredited investor concept is central to US securities exemptions, allowing startups and alternative investments to access capital without the expense of full registration.*
 
 <div class="wiki-hatnote">
 
-Accredited investors are a regulatory category. [Qualified institutional buyers](/qualified-institutional-buyer) are a related category for institutional investors. Sophisticated investors is a broader, context-dependent concept.
+Accredited investors are a regulatory category. [Qualified institutional buyers](/qualified-institutional-buyer/) are a related category for institutional investors. Sophisticated investors is a broader, context-dependent concept.
 
 </div>
 
@@ -32,7 +32,7 @@ Accredited investors are a regulatory category. [Qualified institutional buyers]
 | **Net worth threshold** | $1 million (excluding primary residence) |
 | **For couples** | $300,000 joint income or $2 million joint net worth |
 | **Institutional examples** | Banks, funds, pension plans, corporations |
-| **Key exemption** | [Regulation D](/regulation-d) Rule 506 allows unlimited accredited investors |
+| **Key exemption** | [Regulation D](/regulation-d/) Rule 506 allows unlimited accredited investors |
 
 </aside>
 
@@ -54,11 +54,11 @@ In addition to individuals, accredited investors include institutions: banks, in
 
 The accredited investor standard rests on a presumption: people with significant income or wealth understand financial risk and can evaluate investments. This is contestable — a person with $300,000 income might still be financially naive — but it is the regulatory assumption.
 
-The presumption allows companies to sell unregistered securities to accredited investors without detailed disclosure. An accredited investor buying a [Regulation D](/regulation-d) offering gets less protection (simpler disclosure, no prospectus) than a retail investor buying a registered security.
+The presumption allows companies to sell unregistered securities to accredited investors without detailed disclosure. An accredited investor buying a [Regulation D](/regulation-d/) offering gets less protection (simpler disclosure, no prospectus) than a retail investor buying a registered security.
 
 ## Rule 506(c) and self-certification
 
-Under [Regulation D](/regulation-d) Rule 506(c) (created by the [JOBS Act](/jobs-act)), companies can advertise offerings to accredited investors. Investors self-certify their status (claim they are accredited) based on tax returns or net worth statements.
+Under [Regulation D](/regulation-d/) Rule 506(c) (created by the [JOBS Act](/jobs-act/)), companies can advertise offerings to accredited investors. Investors self-certify their status (claim they are accredited) based on tax returns or net worth statements.
 
 The company can verify accreditation through third-party providers (who check tax returns or public records) but typically relies on self-certification. This creates fraud risk — a person might falsely claim accreditation to invest in a high-risk venture. However, law enforcement generally does not pursue such cases.
 
@@ -66,7 +66,7 @@ The company can verify accreditation through third-party providers (who check ta
 
 An accredited investor is a regulatory category (income/net worth). A sophisticated investor is someone who has financial knowledge or experience. A person can be sophisticated without being accredited (a high-level accountant might be sophisticated but earn under $200k). Conversely, an accredited investor might not be sophisticated (inherited wealth, no financial education).
 
-[Regulation D](/regulation-d) Rule 506(b) allows up to 35 non-accredited "sophisticated" investors. The broker must reasonably believe they are sophisticated (based on background, experience, or adviser consultation).
+[Regulation D](/regulation-d/) Rule 506(b) allows up to 35 non-accredited "sophisticated" investors. The broker must reasonably believe they are sophisticated (based on background, experience, or adviser consultation).
 
 ## The accredited investor test: criticism and proposals
 
@@ -80,7 +80,7 @@ The SEC has proposed expanding the definition (including professional certificat
 
 ## Impact on capital markets
 
-The accredited investor test shapes capital allocation. Startups can raise from accredited investors via [Regulation D](/regulation-d) offerings. [Hedge funds](/hedge-fund), private equity funds, and other alternatives can access capital through the accredited investor channel. This creates a parallel market outside the regulated public markets.
+The accredited investor test shapes capital allocation. Startups can raise from accredited investors via [Regulation D](/regulation-d/) offerings. [Hedge funds](/hedge-fund/), private equity funds, and other alternatives can access capital through the accredited investor channel. This creates a parallel market outside the regulated public markets.
 
 ## See also
 
@@ -88,17 +88,17 @@ The accredited investor test shapes capital allocation. Startups can raise from 
 
 ### Closely related
 
-- [Regulation D](/regulation-d) — allows sales to accredited investors
-- [Qualified institutional buyer](/qualified-institutional-buyer) — related category
+- [Regulation D](/regulation-d/) — allows sales to accredited investors
+- [Qualified institutional buyer](/qualified-institutional-buyer/) — related category
 - Sophisticated investor — broader concept
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — defines the term
-- [JOBS Act](/jobs-act) — expanded accredited investor exemptions
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — defines the term
+- [JOBS Act](/jobs-act/) — expanded accredited investor exemptions
 
 ### Wider context
 
 - Private offering — exemption for accredited investors
 - Venture capital — uses accredited investor exemptions
-- [Hedge fund](/hedge-fund) — available to accredited investors
+- [Hedge fund](/hedge-fund/) — available to accredited investors
 - Securities exemption — accredited investor enables
 
 </div>

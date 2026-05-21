@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **return on capital employed** — or **ROCE** — is similar to [return-on-invested-capital](/return-on-invested-capital), dividing NOPAT (net operating profit after tax) by capital employed (equity plus debt minus cash). ROCE above the cost of capital signals value creation.*
+*The **return on capital employed** — or **ROCE** — is similar to [return-on-invested-capital](/return-on-invested-capital/), dividing NOPAT (net operating profit after tax) by capital employed (equity plus debt minus cash). ROCE above the cost of capital signals value creation.*
 
 <aside class="wiki-infobox">
 
@@ -53,8 +53,8 @@ Example: $750 million NOPAT ÷ $6 billion capital employed = 12.5%.
 
 ### Closely related
 
-- [Return on invested capital](/return-on-invested-capital) — nearly identical
-- [Return on equity](/return-on-equity)
+- [Return on invested capital](/return-on-invested-capital/) — nearly identical
+- [Return on equity](/return-on-equity/)
 - Cost of capital
 
 </div>

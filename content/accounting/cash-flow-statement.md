@@ -14,7 +14,7 @@ image: "/svg/accounting.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the structure and interpretation of the cash flow statement. For the related concept of non-cash charges, see [depreciation](/depreciation) and [amortization](/amortization). For cash-only accounting, see [cash-basis-accounting](/cash-basis-accounting).
+This entry covers the structure and interpretation of the cash flow statement. For the related concept of non-cash charges, see [depreciation](/depreciation/) and [amortization](/amortization/). For cash-only accounting, see [cash-basis-accounting](/cash-basis-accounting/).
 
 </div>
 
@@ -30,18 +30,18 @@ This entry covers the structure and interpretation of the cash flow statement. F
 |---|---|
 | **What it is** | Reconciliation of profit to actual cash movement |
 | **Three sections** | Operating, investing, financing |
-| **Starts with** | Net income (from [income statement](/income-statement)) |
+| **Starts with** | Net income (from [income statement](/income-statement/)) |
 | **Most important section** | Operating cash flow |
-| **Key metric** | [Free cash flow](/free-cash-flow) (operating CF - capex) |
+| **Key metric** | [Free cash flow](/free-cash-flow/) (operating CF - capex) |
 | **Method** | Indirect (add back noncash charges) or direct |
 
 </aside>
 
 ## Why the cash flow statement exists
 
-The [income statement](/income-statement) uses [accrual accounting](/accrual-accounting): it recognizes revenue when earned and expenses when incurred, not when cash changes hands. This gives a cleaner picture of business performance, but it also means net income can diverge wildly from cash.
+The [income statement](/income-statement/) uses [accrual accounting](/accrual-accounting/): it recognizes revenue when earned and expenses when incurred, not when cash changes hands. This gives a cleaner picture of business performance, but it also means net income can diverge wildly from cash.
 
-Example: A consulting firm signs a three-year contract for $1 million in January, with payment due at year-end. Under accrual accounting, it recognizes $1 million of revenue in year one (and shows profit). Under [cash-basis-accounting](/cash-basis-accounting), it shows zero revenue until the cash arrives.
+Example: A consulting firm signs a three-year contract for $1 million in January, with payment due at year-end. Under accrual accounting, it recognizes $1 million of revenue in year one (and shows profit). Under [cash-basis-accounting](/cash-basis-accounting/), it shows zero revenue until the cash arrives.
 
 Which is more useful? Both. The accrual income statement shows economic earnings; the cash flow statement shows liquidity and financial flexibility. A company needs both earnings (to sustain the business) and cash (to survive cash dry spells, invest, and pay dividends).
 
@@ -49,9 +49,9 @@ Which is more useful? Both. The accrual income statement shows economic earnings
 
 **Operating cash flow** (OCF) is the cash the company generated from its core business — selling goods, providing services, paying employees. It starts with net income, then adjusts for non-cash items:
 
-- **Add back** non-cash charges like [depreciation](/depreciation), [amortization](/amortization), and stock-based compensation. These reduced net income but did not cost cash.
-- **Subtract** increases in working capital. If [accounts receivable](/accounts-receivable) rose by $5 million, cash is tied up in customers' unpaid invoices; this reduces cash.
-- **Add back** increases in [accounts payable](/accounts-payable). Delaying payment to suppliers is a source of cash.
+- **Add back** non-cash charges like [depreciation](/depreciation/), [amortization](/amortization/), and stock-based compensation. These reduced net income but did not cost cash.
+- **Subtract** increases in working capital. If [accounts receivable](/accounts-receivable/) rose by $5 million, cash is tied up in customers' unpaid invoices; this reduces cash.
+- **Add back** increases in [accounts payable](/accounts-payable/). Delaying payment to suppliers is a source of cash.
 
 Operating cash flow is the truest measure of cash generation. A company with strong OCF can sustain itself, invest, and weather downturns. A company with weak OCF despite reported profit is a warning sign: earnings are not converting to cash, often because customers aren't paying or inventory is building.
 
@@ -77,7 +77,7 @@ Financing cash flow tells the story of capital structure over time. A company wi
 
 ## Free cash flow: the key metric for investors
 
-**[Free cash flow](/free-cash-flow)** (FCF) is operating cash flow minus capital expenditures. It is the cash left over after the company has paid to maintain and grow its asset base. FCF is what is available for debt repayment, dividends, buybacks, or strategic investments.
+**[Free cash flow](/free-cash-flow/)** (FCF) is operating cash flow minus capital expenditures. It is the cash left over after the company has paid to maintain and grow its asset base. FCF is what is available for debt repayment, dividends, buybacks, or strategic investments.
 
 FCF is often more reliable than reported earnings for valuing a company. Two companies with identical net income can have very different FCF because their capex intensity differs. A capital-light software company has high FCF relative to earnings; a capital-heavy utility has low FCF. Comparing them requires understanding these differences.
 
@@ -99,18 +99,18 @@ A retailer with efficient inventory turns and rapid customer payment (or custome
 
 ### Closely related
 
-- [Income statement](/income-statement) — the source of net income on the cash flow statement
-- [Balance sheet](/balance-sheet) — working capital changes come from balance sheet movements
-- [Free cash flow](/free-cash-flow) — operating cash flow minus capex
+- [Income statement](/income-statement/) — the source of net income on the cash flow statement
+- [Balance sheet](/balance-sheet/) — working capital changes come from balance sheet movements
+- [Free cash flow](/free-cash-flow/) — operating cash flow minus capex
 - Operating cash flow — cash from core business
 - Capital expenditure — cash invested in assets
 - Working capital — current assets minus current liabilities
 
 ### Context
 
-- [Accrual accounting](/accrual-accounting) — the accounting method the statement reconciles from
-- [Depreciation](/depreciation) and [amortization](/amortization) — non-cash charges added back
-- [Accounts receivable](/accounts-receivable) and [accounts payable](/accounts-payable) — working capital items
+- [Accrual accounting](/accrual-accounting/) — the accounting method the statement reconciles from
+- [Depreciation](/depreciation/) and [amortization](/amortization/) — non-cash charges added back
+- [Accounts receivable](/accounts-receivable/) and [accounts payable](/accounts-payable/) — working capital items
 - Deferred revenue — customer payments in advance
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) and [adjustable-rate-mortgage](/adjustable-rate-mortgage). For other options, see balloon-mortgage and [interest-only-mortgage](/interest-only-mortgage).
+For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage/) and [adjustable-rate-mortgage](/adjustable-rate-mortgage/). For other options, see balloon-mortgage and [interest-only-mortgage](/interest-only-mortgage/).
 
 </div>
 
@@ -41,7 +41,7 @@ For comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) and [adjustable-
 
 ## How interest-only mortgages work
 
-On a traditional [fixed-rate mortgage](/fixed-rate-mortgage), each payment reduces the loan balance (principal paydown). On an interest-only mortgage, the initial payments cover only interest, leaving the balance unchanged.
+On a traditional [fixed-rate mortgage](/fixed-rate-mortgage/), each payment reduces the loan balance (principal paydown). On an interest-only mortgage, the initial payments cover only interest, leaving the balance unchanged.
 
 Example: $400,000 loan at 5% interest.
 - **Traditional 30-year mortgage**: Payment = $2,147 (principal + interest). After 30 years, fully paid.
@@ -107,21 +107,21 @@ Most interest-only mortgages are for rental properties (investor mortgages) rath
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — principal paid throughout
-- [Adjustable-rate-mortgage](/adjustable-rate-mortgage) — rates that adjust over time
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — principal paid throughout
+- [Adjustable-rate-mortgage](/adjustable-rate-mortgage/) — rates that adjust over time
 - Balloon-mortgage — large lump-sum at end
 - Conventional-mortgage — standard conforming loans
 
 ### Loan types
 
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [VA-loan](/va-loan) — mortgages for veterans
-- [Investment-property-loans](/commercial-real-estate) — for rental properties
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [VA-loan](/va-loan/) — mortgages for veterans
+- [Investment-property-loans](/commercial-real-estate/) — for rental properties
 
 ### Context
 
-- [Interest rate](/interest-rate) — determines payment amounts
-- [Inflation](/inflation) — affects real debt burden
-- [Cash flow](/net-operating-income) — critical for IO mortgage investors
+- [Interest rate](/interest-rate/) — determines payment amounts
+- [Inflation](/inflation/) — affects real debt burden
+- [Cash flow](/net-operating-income/) — critical for IO mortgage investors
 
 </div>

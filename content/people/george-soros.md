@@ -81,16 +81,16 @@ His public role — as a figure funding social movements — has made him lightn
 
 ### Closely related
 
-- [Jim Rogers](/jim-rogers) — His early partner at Quantum Fund
-- [Stanley Druckenmiller](/stanley-druckenmiller) — A Soros protégé
-- [Paul Tudor Jones](/paul-tudor-jones) — A contemporary macro trader
-- [Ray Dalio](/ray-dalio) — The modern arch-macro investor
+- [Jim Rogers](/jim-rogers/) — His early partner at Quantum Fund
+- [Stanley Druckenmiller](/stanley-druckenmiller/) — A Soros protégé
+- [Paul Tudor Jones](/paul-tudor-jones/) — A contemporary macro trader
+- [Ray Dalio](/ray-dalio/) — The modern arch-macro investor
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — The vehicle for his approach
-- [Bear market](/bear-market) — Where he found his best opportunities
+- [Hedge fund](/hedge-fund/) — The vehicle for his approach
+- [Bear market](/bear-market/) — Where he found his best opportunities
 - Currency — His arena of expertise
-- [Stock market](/stock-market) — Which he viewed as reflective of deeper cycles
+- [Stock market](/stock-market/) — Which he viewed as reflective of deeper cycles
 
 </div>

@@ -15,7 +15,7 @@ image: "/svg/markets.svg"
 
 <div class="wiki-hatnote">
 
-This entry is about order book visibility. For trading data more broadly, see [market data](/stock-market); for data feeds providing this, see [direct market data feed](/market-data-feed-direct).
+This entry is about order book visibility. For trading data more broadly, see [market data](/stock-market/); for data feeds providing this, see [direct market data feed](/market-data-feed-direct/).
 
 </div>
 
@@ -113,7 +113,7 @@ Deeper order book depth requires more data to transmit:
 
 On an active stock trading thousands of times per second, Level 3 data can be massive, creating latency challenges. Systems must be optimized to handle this volume.
 
-This is why high-frequency traders often use [direct market data feeds](/market-data-feed-direct) and co-locate their servers near exchange data centers: the bandwidth requirements make remote data reception slower.
+This is why high-frequency traders often use [direct market data feeds](/market-data-feed-direct/) and co-locate their servers near exchange data centers: the bandwidth requirements make remote data reception slower.
 
 ## Liquidity assessment via depth
 
@@ -137,13 +137,13 @@ This allows traders to accumulate large positions without revealing their intent
 
 ## Dark pools and hidden orders
 
-[Dark pools](/dark-pool-detail) do not publish any order depth; orders are completely hidden until executed. This contrasts with [lit venues](/lit-venue-detail), which show full order depth.
+[Dark pools](/dark-pool-detail/) do not publish any order depth; orders are completely hidden until executed. This contrasts with [lit venues](/lit-venue-detail/), which show full order depth.
 
-The choice between [lit venues](/lit-venue-detail) (transparent) and [dark pools](/dark-pool-detail) (opaque) involves a trade-off: transparency vs. ability to hide large orders.
+The choice between [lit venues](/lit-venue-detail/) (transparent) and [dark pools](/dark-pool-detail/) (opaque) involves a trade-off: transparency vs. ability to hide large orders.
 
 ## Data distribution
 
-**Exchanges and [alternative trading systems](/alternative-trading-system)** publish order depth via their data feeds.
+**Exchanges and [alternative trading systems](/alternative-trading-system/)** publish order depth via their data feeds.
 
 **Data vendors** (Bloomberg, Refinitiv, eSpeed) bundle order depth with other market data.
 
@@ -151,9 +151,9 @@ The choice between [lit venues](/lit-venue-detail) (transparent) and [dark pools
 
 ## Regulatory transparency mandates
 
-Under [Reg NMS](/reg-nms-detail) and [MiFID II](/mifid-ii-trading), venues must publish order depth to ensure fair and efficient markets. However, the mandated depth varies:
+Under [Reg NMS](/reg-nms-detail/) and [MiFID II](/mifid-ii-trading/), venues must publish order depth to ensure fair and efficient markets. However, the mandated depth varies:
 
-- [Lit venues](/lit-venue-detail) must publish best bid-ask.
+- [Lit venues](/lit-venue-detail/) must publish best bid-ask.
 - Deeper levels are often available but at a cost.
 
 The question of how much depth should be free vs. paid is ongoing.
@@ -164,18 +164,18 @@ The question of how much depth should be free vs. paid is ongoing.
 
 ### Closely related
 
-- [Order book](/stock-market) — what order depth displays
-- [Market data](/stock-market) — order depth is a component
-- [Direct market data feed](/market-data-feed-direct) — provides full depth
-- [Liquidity](/secondary-market) — assessed via depth
-- [Bid-ask spread](/stock-market) — visible via Level 1 depth
+- [Order book](/stock-market/) — what order depth displays
+- [Market data](/stock-market/) — order depth is a component
+- [Direct market data feed](/market-data-feed-direct/) — provides full depth
+- [Liquidity](/secondary-market/) — assessed via depth
+- [Bid-ask spread](/stock-market/) — visible via Level 1 depth
 
 ### Wider context
 
-- [Price discovery](/stock-market) — aided by full depth visibility
-- [Transparency](/stock-market) — full depth increases this
-- [High-frequency trading](/stock-market) — exploits depth information
-- [Iceberg orders](/stock-market) — hide depth
-- [Dark pools](/dark-pool-detail) — provide no depth visibility
+- [Price discovery](/stock-market/) — aided by full depth visibility
+- [Transparency](/stock-market/) — full depth increases this
+- [High-frequency trading](/stock-market/) — exploits depth information
+- [Iceberg orders](/stock-market/) — hide depth
+- [Dark pools](/dark-pool-detail/) — provide no depth visibility
 
 </div>

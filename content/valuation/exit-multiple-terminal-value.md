@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*An **exit multiple terminal value** values a company's cash flows beyond the explicit forecast period by assuming the company will be sold (or valued) at a given multiple of year-N earnings or EBITDA. Instead of using a [perpetuity growth formula](/perpetuity-growth-terminal-value), you project year 10 EBITDA (say, 100 million), assume it will trade at 10x EBITDA on exit (1 billion), and discount that 1 billion back to today. This approach feels more grounded in market reality and is often preferred by practitioners.*
+*An **exit multiple terminal value** values a company's cash flows beyond the explicit forecast period by assuming the company will be sold (or valued) at a given multiple of year-N earnings or EBITDA. Instead of using a [perpetuity growth formula](/perpetuity-growth-terminal-value/), you project year 10 EBITDA (say, 100 million), assume it will trade at 10x EBITDA on exit (1 billion), and discount that 1 billion back to today. This approach feels more grounded in market reality and is often preferred by practitioners.*
 
 ## The logic
 
@@ -95,7 +95,7 @@ This shows that exit multiples often embed lower growth assumptions than might b
 
 ## Sensitivity to exit multiple
 
-Like [perpetuity growth](/perpetuity-growth-terminal-value), terminal value (and thus total valuation) is highly sensitive to exit multiple assumptions.
+Like [perpetuity growth](/perpetuity-growth-terminal-value/), terminal value (and thus total valuation) is highly sensitive to exit multiple assumptions.
 
 A change from 10x to 12x EBITDA increases terminal value by 20%. A change to 8x decreases it by 20%.
 
@@ -117,21 +117,21 @@ Running sensitivity on exit multiple is essential. Show valuation at 8x, 10x, an
 
 ### Closely related
 
-- [Terminal value](/terminal-value) — the endpoint being calculated
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the alternative
-- [Multiples valuation](/multiples-valuation) — the source of exit multiples
-- [Gordon growth model](/gordon-growth-model) — the formula being replaced
+- [Terminal value](/terminal-value/) — the endpoint being calculated
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the alternative
+- [Multiples valuation](/multiples-valuation/) — the source of exit multiples
+- [Gordon growth model](/gordon-growth-model/) — the formula being replaced
 
 ### Valuation frameworks
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses terminal value
-- [Two-stage DCF](/two-stage-dcf) — explicit period plus terminal
-- [Comparable company analysis](/comparable-company-analysis) — source of multiple benchmarks
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses terminal value
+- [Two-stage DCF](/two-stage-dcf/) — explicit period plus terminal
+- [Comparable company analysis](/comparable-company-analysis/) — source of multiple benchmarks
 
 ### Integration and testing
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — exit-multiple sensitivity
-- [Football field valuation](/football-field-valuation) — combining approaches
-- [Scenario valuation](/scenario-valuation) — different exit scenarios
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — exit-multiple sensitivity
+- [Football field valuation](/football-field-valuation/) — combining approaches
+- [Scenario valuation](/scenario-valuation/) — different exit scenarios
 
 </div>

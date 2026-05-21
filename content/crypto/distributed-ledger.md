@@ -15,7 +15,7 @@ image: "/svg/crypto.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers distributed ledgers as a concept. For blockchains specifically, see [blockchain fundamentals](/blockchain-fundamentals); for specific implementations, see [Bitcoin](/bitcoin) or [Ethereum](/ethereum).
+This entry covers distributed ledgers as a concept. For blockchains specifically, see [blockchain fundamentals](/blockchain-fundamentals/); for specific implementations, see [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/).
 
 </div>
 
@@ -51,15 +51,15 @@ The trade-off is efficiency and simplicity. A centralised bank can process trans
 
 In a distributed ledger, each participating node stores a copy of the ledger and validates incoming transactions. When a new transaction occurs, nodes gossip about it — forwarding it to other nodes — until all nodes have heard about it.
 
-Some systems use full replication, where every node stores every transaction (e.g., [Bitcoin](/bitcoin)). Others use partial replication, where nodes store a subset of data relevant to them. Partial replication reduces storage and bandwidth requirements but complicates auditing.
+Some systems use full replication, where every node stores every transaction (e.g., [Bitcoin](/bitcoin/)). Others use partial replication, where nodes store a subset of data relevant to them. Partial replication reduces storage and bandwidth requirements but complicates auditing.
 
 ## Consensus mechanisms
 
 For a distributed ledger to function, all nodes must agree on the order and validity of transactions. This is the **consensus problem**. Various mechanisms exist:
 
-- **[Proof-of-work](/proof-of-work)** — nodes compete to solve puzzles; the fastest wins the right to add the next block.
-- **[Proof-of-stake](/proof-of-stake)** — validators with locked collateral are randomly selected to propose blocks.
-- **[Delegated proof-of-stake](/delegated-proof-of-stake)** — token holders vote for a small number of validators.
+- **[Proof-of-work](/proof-of-work/)** — nodes compete to solve puzzles; the fastest wins the right to add the next block.
+- **[Proof-of-stake](/proof-of-stake/)** — validators with locked collateral are randomly selected to propose blocks.
+- **[Delegated proof-of-stake](/delegated-proof-of-stake/)** — token holders vote for a small number of validators.
 - **Practical Byzantine Fault Tolerance** — a voting-based consensus used in some enterprise systems.
 
 Each mechanism has trade-offs between decentralisation, scalability, and energy efficiency.
@@ -81,14 +81,14 @@ Distributed ledgers are valuable when:
 
 Common use cases include:
 
-- **Cryptocurrencies.** [Bitcoin](/bitcoin) and [Ethereum](/ethereum) are distributed ledgers.
+- **Cryptocurrencies.** [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/) are distributed ledgers.
 - **Supply-chain tracking.** Recording the journey of goods from manufacture to sale.
 - **Smart contracts.** Programs that execute automatically on a distributed ledger.
 - **Land registries.** Recording property ownership in jurisdictions without reliable government records.
 
 ## Challenges and limitations
 
-Distributed ledgers are slower than centralised systems. A bank's database can process thousands of transactions per second; [Bitcoin](/bitcoin) processes about seven. This latency is inherent — distributed consensus takes time.
+Distributed ledgers are slower than centralised systems. A bank's database can process thousands of transactions per second; [Bitcoin](/bitcoin/) processes about seven. This latency is inherent — distributed consensus takes time.
 
 They are also more expensive to operate. Each node maintains a copy of the ledger, consuming storage and bandwidth. Consensus mechanisms require computational work (puzzles or voting), consuming electricity.
 
@@ -96,9 +96,9 @@ Additionally, distributed ledgers are worse at reversing errors. If a transactio
 
 ## Variations and alternatives
 
-Not all distributed ledgers use [blockchain](/blockchain-fundamentals) architecture. Some use a **directed acyclic graph** (DAG), where each transaction references multiple previous transactions, rather than grouping transactions into blocks. DAGs are potentially faster but more complex to implement.
+Not all distributed ledgers use [blockchain](/blockchain-fundamentals/) architecture. Some use a **directed acyclic graph** (DAG), where each transaction references multiple previous transactions, rather than grouping transactions into blocks. DAGs are potentially faster but more complex to implement.
 
-Others use **consensus algorithms** that are less energy-intensive than [proof-of-work](/proof-of-work), such as [proof-of-stake](/proof-of-stake) or voting-based mechanisms.
+Others use **consensus algorithms** that are less energy-intensive than [proof-of-work](/proof-of-work/), such as [proof-of-stake](/proof-of-stake/) or voting-based mechanisms.
 
 ## See also
 
@@ -106,18 +106,18 @@ Others use **consensus algorithms** that are less energy-intensive than [proof-o
 
 ### Closely related
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — distributed ledgers as chains of blocks
-- [Proof-of-work](/proof-of-work) — a consensus mechanism
-- [Proof-of-stake](/proof-of-stake) — an alternative consensus mechanism
-- [Bitcoin](/bitcoin) — the first famous distributed ledger
-- [Ethereum](/ethereum) — a distributed ledger with smart contracts
+- [Blockchain fundamentals](/blockchain-fundamentals/) — distributed ledgers as chains of blocks
+- [Proof-of-work](/proof-of-work/) — a consensus mechanism
+- [Proof-of-stake](/proof-of-stake/) — an alternative consensus mechanism
+- [Bitcoin](/bitcoin/) — the first famous distributed ledger
+- [Ethereum](/ethereum/) — a distributed ledger with smart contracts
 
 ### Wider context
 
-- [Public blockchain](/public-blockchain) — decentralised and permissionless
-- [Private blockchain](/private-blockchain) — restricted and permissioned
+- [Public blockchain](/public-blockchain/) — decentralised and permissionless
+- [Private blockchain](/private-blockchain/) — restricted and permissioned
 - Smart contract — programs on distributed ledgers
-- [Consensus mechanism](/proof-of-work) — how agreement is reached
+- [Consensus mechanism](/proof-of-work/) — how agreement is reached
 - 51% attack — attacking a distributed ledger with majority power
 
 </div>

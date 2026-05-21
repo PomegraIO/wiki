@@ -10,11 +10,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **Bitcoin Cash** (**BCH**) is a cryptocurrency that originated as a hard fork of [Bitcoin](/bitcoin) in August 2017. Bitcoin Cash increased the block size limit from 1 MB to 8 MB (later increased further), aiming to reduce transaction fees and enable higher throughput for everyday payments.*
+*A **Bitcoin Cash** (**BCH**) is a cryptocurrency that originated as a hard fork of [Bitcoin](/bitcoin/) in August 2017. Bitcoin Cash increased the block size limit from 1 MB to 8 MB (later increased further), aiming to reduce transaction fees and enable higher throughput for everyday payments.*
 
 <div class="wiki-hatnote">
 
-This entry covers Bitcoin Cash the asset and network. For the original Bitcoin, see [Bitcoin](/bitcoin); for the concept of hard forks, see hard fork.
+This entry covers Bitcoin Cash the asset and network. For the original Bitcoin, see [Bitcoin](/bitcoin/); for the concept of hard forks, see hard fork.
 
 </div>
 
@@ -31,7 +31,7 @@ This entry covers Bitcoin Cash the asset and network. For the original Bitcoin, 
 | **What it is** | A cryptocurrency forked from Bitcoin |
 | **Ticker symbol** | BCH |
 | **Created** | August 1, 2017 |
-| **Consensus mechanism** | [Proof-of-work](/proof-of-work) |
+| **Consensus mechanism** | [Proof-of-work](/proof-of-work/) |
 | **Block size limit** | 32 MB (as of 2024) |
 | **Block time** | ~10 minutes |
 | **Fixed supply** | 21 million coins |
@@ -49,13 +49,13 @@ This dispute became acrimonious. In August 2017, proponents of larger blocks exe
 
 ## Technical differences from Bitcoin
 
-Bitcoin Cash largely mirrors Bitcoin's codebase: same [proof-of-work](/proof-of-work) algorithm, same 21 million supply cap, same [halving schedule](/bitcoin-halving). The key differences are:
+Bitcoin Cash largely mirrors Bitcoin's codebase: same [proof-of-work](/proof-of-work/) algorithm, same 21 million supply cap, same [halving schedule](/bitcoin-halving/). The key differences are:
 
 **Block size.** Bitcoin Cash's larger blocks theoretically allow more transactions per second. However, empirical adoption has not been high enough to fill the blocks consistently.
 
 **Replay protection and address format.** Early Bitcoin Cash transactions lacked protection against accidental replay to Bitcoin (or vice versa), though later upgrades addressed this. Some Bitcoin Cash addresses use a different encoding to reduce confusion.
 
-**Opcode reactivation.** Bitcoin Cash has reactivated some Script opcodes that Bitcoin disabled, giving developers more flexibility in smart contracts, though Bitcoin Cash smart contracts remain much simpler than [Ethereum](/ethereum).
+**Opcode reactivation.** Bitcoin Cash has reactivated some Script opcodes that Bitcoin disabled, giving developers more flexibility in smart contracts, though Bitcoin Cash smart contracts remain much simpler than [Ethereum](/ethereum/).
 
 ## Market reception and adoption
 
@@ -83,18 +83,18 @@ Some use cases have persisted: Bitcoin Cash is popular in certain jurisdictions 
 
 ### Closely related
 
-- [Bitcoin](/bitcoin) — the original cryptocurrency
+- [Bitcoin](/bitcoin/) — the original cryptocurrency
 - Hard fork — how Bitcoin Cash was created
-- [Proof-of-work](/proof-of-work) — Bitcoin Cash's consensus mechanism
-- [Bitcoin halving](/bitcoin-halving) — applies to Bitcoin Cash too
+- [Proof-of-work](/proof-of-work/) — Bitcoin Cash's consensus mechanism
+- [Bitcoin halving](/bitcoin-halving/) — applies to Bitcoin Cash too
 - Layer-2 — an alternative scaling approach
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the technology underlying Bitcoin Cash
-- [Distributed ledger](/distributed-ledger) — Bitcoin Cash's network architecture
-- [Public blockchain](/public-blockchain) — Bitcoin Cash as a permissionless network
-- [Mining Bitcoin](/mining-bitcoin) — applicable to Bitcoin Cash
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where Bitcoin Cash trades
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the technology underlying Bitcoin Cash
+- [Distributed ledger](/distributed-ledger/) — Bitcoin Cash's network architecture
+- [Public blockchain](/public-blockchain/) — Bitcoin Cash as a permissionless network
+- [Mining Bitcoin](/mining-bitcoin/) — applicable to Bitcoin Cash
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where Bitcoin Cash trades
 
 </div>

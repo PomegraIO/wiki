@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers crown jewel defense as a takeover strategy. For other defences, see [poison pill](/poison-pill), [white knight](/white-knight), and [scorched earth defence](/scorched-earth-defense); for the asset sale itself, see [divestiture](/divestiture).
+This entry covers crown jewel defense as a takeover strategy. For other defences, see [poison pill](/poison-pill/), [white knight](/white-knight/), and [scorched earth defence](/scorched-earth-defense/); for the asset sale itself, see [divestiture](/divestiture/).
 
 </div>
 
@@ -33,7 +33,7 @@ This entry covers crown jewel defense as a takeover strategy. For other defences
 | **Effectiveness** | High if bidder's motive is to acquire the crown jewel |
 | **Key to credibility** | Pre-arranged buyer; board commitment to execute |
 | **Downside** | Damages the combined company; may not deter all bidders |
-| **Similar** | [Scorched earth defence](/scorched-earth-defense) |
+| **Similar** | [Scorched earth defence](/scorched-earth-defense/) |
 | **Trigger** | Typically activated only if hostile bid succeeds |
 
 </aside>
@@ -92,7 +92,7 @@ The defense is less effective when:
 
 ## Modern use and limitations
 
-Crown jewel defenses remain a legitimate tactic, but they are less common than [poison pills](/poison-pill) or [white knight](/white-knight) strategies because they entail permanent damage to the company. A board will typically resort to a crown jewel defense only after other options have been exhausted or when the crown jewel sale actually makes strategic sense independent of the hostile bid.
+Crown jewel defenses remain a legitimate tactic, but they are less common than [poison pills](/poison-pill/) or [white knight](/white-knight/) strategies because they entail permanent damage to the company. A board will typically resort to a crown jewel defense only after other options have been exhausted or when the crown jewel sale actually makes strategic sense independent of the hostile bid.
 
 ## See also
 
@@ -100,18 +100,18 @@ Crown jewel defenses remain a legitimate tactic, but they are less common than [
 
 ### Closely related
 
-- [Hostile takeover](/hostile-takeover) — what crown jewel defense deters
-- [Scorched earth defence](/scorched-earth-defense) — similar aggressive defense
-- [Divestiture](/divestiture) — the actual sale of the crown jewel
-- [White knight](/white-knight) — alternative defense
-- [Poison pill](/poison-pill) — more passive defense mechanism
+- [Hostile takeover](/hostile-takeover/) — what crown jewel defense deters
+- [Scorched earth defence](/scorched-earth-defense/) — similar aggressive defense
+- [Divestiture](/divestiture/) — the actual sale of the crown jewel
+- [White knight](/white-knight/) — alternative defense
+- [Poison pill](/poison-pill/) — more passive defense mechanism
 
 ### Wider context
 
 - Board of directors — authorizes the sale threat
-- [Tender offer](/tender-offer) — mechanism used in hostile bid
-- [Change of control provision](/change-of-control-provision) — may trigger with crown jewel sale
+- [Tender offer](/tender-offer/) — mechanism used in hostile bid
+- [Change of control provision](/change-of-control-provision/) — may trigger with crown jewel sale
 - Strategic fit — determines value of crown jewel
-- [Spinoff](/spinoff) — related corporate action involving asset separation
+- [Spinoff](/spinoff/) — related corporate action involving asset separation
 
 </div>

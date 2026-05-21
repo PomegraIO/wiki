@@ -37,7 +37,7 @@ image: "/svg/people.svg"
 
 Robertson grew up in North Carolina and worked in securities before founding Kidder, Peabody's asset-management division. He was building a respectable career when, in 1980 at age forty-eight, he struck out on his own. With $8.7 million in seed capital (later reported as mostly his own money), he launched Tiger Management in New York.
 
-His timing was prescient. The 1980s were the era of the [stock market](/stock-market) boom, and a fund that could be short during weakness and long during strength had enormous advantage. But Tiger was not a market-timing fund; it was a stock-picking fund with the ability to short. Robertson hired the best young investors he could find, gave them autonomy, and created a culture of fierce intellectual competition.
+His timing was prescient. The 1980s were the era of the [stock market](/stock-market/) boom, and a fund that could be short during weakness and long during strength had enormous advantage. But Tiger was not a market-timing fund; it was a stock-picking fund with the ability to short. Robertson hired the best young investors he could find, gave them autonomy, and created a culture of fierce intellectual competition.
 
 ## The long-short framework
 
@@ -53,7 +53,7 @@ Yet this peak masked a fragility. In 1998, the Long-Term Capital Management cris
 
 ## The Tiger Cubs
 
-What made Robertson's legacy transcend Tiger was the dynasty he created. By the time he closed Tiger in 2000, he had hired and mentored dozens of young investors who went on to start their own [hedge funds](/hedge-fund). These "Tiger Cubs" — including Lee Ainslie, David Coulter, and others — became a new generation of money managers. Many of them went on to spectacular success, making Tiger Management less a fund than a university of finance. Robertson had given the world not just a long-short template but a cohort of masters of that template.
+What made Robertson's legacy transcend Tiger was the dynasty he created. By the time he closed Tiger in 2000, he had hired and mentored dozens of young investors who went on to start their own [hedge funds](/hedge-fund/). These "Tiger Cubs" — including Lee Ainslie, David Coulter, and others — became a new generation of money managers. Many of them went on to spectacular success, making Tiger Management less a fund than a university of finance. Robertson had given the world not just a long-short template but a cohort of masters of that template.
 
 ## Late career and philanthropy
 
@@ -63,7 +63,7 @@ His decision to close Tiger at its peak — rather than milk the brand and watch
 
 ## Legacy
 
-Robertson proved that a [hedge fund](/hedge-fund) could be a vehicle for genuine stock-picking excellence, not just macro trading or arbitrage. He showed that long-short could compound faster than pure long equity. He created a new model for talent acquisition and development in finance — the "fund as finishing school." And he demonstrated that a founder could step back at his peak, preserving his legacy rather than extending it into mediocrity.
+Robertson proved that a [hedge fund](/hedge-fund/) could be a vehicle for genuine stock-picking excellence, not just macro trading or arbitrage. He showed that long-short could compound faster than pure long equity. He created a new model for talent acquisition and development in finance — the "fund as finishing school." And he demonstrated that a founder could step back at his peak, preserving his legacy rather than extending it into mediocrity.
 
 His influence on hedge fund strategy cannot be overstated. The long-short structure, once exotic, became standard. The emphasis on stock-specific research, on bottoms-up fundamental analysis, became the Tiger way, which became the industry standard. And the Tiger Cubs, his direct intellectual descendants, went on to manage hundreds of billions of dollars.
 
@@ -74,15 +74,15 @@ His influence on hedge fund strategy cannot be overstated. The long-short struct
 ### Closely related
 
 - Lee Ainslie — His protégé and successor
-- [George Soros](/george-soros) — A contemporary macro hedge fund pioneer
-- [Stanley Druckenmiller](/stanley-druckenmiller) — Another legendary trader
-- [Paul Tudor Jones](/paul-tudor-jones) — A macro hedge fund contemporary
+- [George Soros](/george-soros/) — A contemporary macro hedge fund pioneer
+- [Stanley Druckenmiller](/stanley-druckenmiller/) — Another legendary trader
+- [Paul Tudor Jones](/paul-tudor-jones/) — A macro hedge fund contemporary
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — The vehicle Robertson perfected
+- [Hedge fund](/hedge-fund/) — The vehicle Robertson perfected
 - Long-short strategy — His signature approach
-- [Short selling](/short-selling) — The short side of his thesis
-- [Stock market](/stock-market) — Where his picks competed
+- [Short selling](/short-selling/) — The short side of his thesis
+- [Stock market](/stock-market/) — Where his picks competed
 
 </div>

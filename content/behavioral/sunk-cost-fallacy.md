@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to loss aversion and mental accounting. For the psychology of holding losses, see [disposition effect](/disposition-effect).
+Related to loss aversion and mental accounting. For the psychology of holding losses, see [disposition effect](/disposition-effect/).
 
 </div>
 
@@ -31,7 +31,7 @@ Related to loss aversion and mental accounting. For the psychology of holding lo
 | **What it is** | Letting past investment influence future decisions |
 | **Rational principle** | Sunk costs are irrelevant to future decisions |
 | **Investor impact** | Holding losing stocks; averaging down into losers; throwing good money after bad |
-| **Related phenomenon** | [Loss aversion](/loss-aversion), [mental accounting](/mental-accounting) |
+| **Related phenomenon** | [Loss aversion](/loss-aversion/), [mental accounting](/mental-accounting/) |
 | **Magnitude** | Very large; one of the most costly behavioral biases |
 | **Evidence** | Observed widely in financial decisions and corporate investments |
 
@@ -66,11 +66,11 @@ The fallacy arises from several psychological forces:
 
 **Corporate projects.** Businesses fall victim too. A company has invested $50M in a project and asks: should we invest another $10M to finish it? If they analyze only the remaining investment and the marginal return, they might proceed. But if the marginal return is negative, the prior $50M is sunk and irrelevant. They should abandon the project.
 
-## Sunk-cost fallacy and [confirmation bias](/confirmation-bias)
+## Sunk-cost fallacy and [confirmation bias](/confirmation-bias/)
 
-Sunk-cost fallacy and [confirmation bias](/confirmation-bias) amplify each other. An investor holding a losing stock for sunk-cost reasons will seek confirming evidence that it will recover. This confirmation-seeking reinforces the decision to hold.
+Sunk-cost fallacy and [confirmation bias](/confirmation-bias/) amplify each other. An investor holding a losing stock for sunk-cost reasons will seek confirming evidence that it will recover. This confirmation-seeking reinforces the decision to hold.
 
-## Sunk-cost fallacy vs. [loss aversion](/loss-aversion)
+## Sunk-cost fallacy vs. [loss aversion](/loss-aversion/)
 
 Loss aversion is the asymmetric pain of losses. Sunk-cost fallacy is the logical error of treating past costs as relevant. They are related but distinct. Loss aversion explains why the pain is there; sunk-cost fallacy is the specific error of using that pain to make decisions.
 
@@ -80,7 +80,7 @@ Loss aversion is the asymmetric pain of losses. Sunk-cost fallacy is the logical
 - **Track your purchase price separately from your decision.** Write down the stock's current price and your forecast for its future price. Do not even look at what you paid. Make the decision based on current value and future prospects.
 - **Set a loss limit before you invest.** Before buying a stock, decide: "I will sell if it falls 25% from the purchase price." This pre-commitment prevents sunk-cost reasoning later.
 - **View losses as tuition.** Treat investment losses as the cost of learning, not as failures to be recovered. This reframing reduces the emotional pain and allows rational decisions.
-- **Use a mechanical stop-loss.** A [stop-loss order](/short-selling) sells automatically if the price falls below a threshold. This removes the emotional sunk-cost reasoning from the decision.
+- **Use a mechanical stop-loss.** A [stop-loss order](/short-selling/) sells automatically if the price falls below a threshold. This removes the emotional sunk-cost reasoning from the decision.
 - **Separate past from future.** Say to yourself: "The money I paid is gone, whether I hold or sell. What should I do with my money going forward?" This frame change helps resist sunk-cost reasoning.
 
 ## See also
@@ -89,18 +89,18 @@ Loss aversion is the asymmetric pain of losses. Sunk-cost fallacy is the logical
 
 ### Closely related
 
-- [Loss aversion](/loss-aversion) — the emotional substrate for sunk-cost fallacy
-- [Disposition effect](/disposition-effect) — holding losers, selling winners
-- [Mental accounting](/mental-accounting) — organizing money into accounts that create sunk-cost psychology
-- [Confirmation bias](/confirmation-bias) — seeking confirming evidence to justify holding
-- [Regret aversion](/regret-aversion) — fear of regretted sales
+- [Loss aversion](/loss-aversion/) — the emotional substrate for sunk-cost fallacy
+- [Disposition effect](/disposition-effect/) — holding losers, selling winners
+- [Mental accounting](/mental-accounting/) — organizing money into accounts that create sunk-cost psychology
+- [Confirmation bias](/confirmation-bias/) — seeking confirming evidence to justify holding
+- [Regret aversion](/regret-aversion/) — fear of regretted sales
 
 ### Wider context
 
-- [Narrow framing](/narrow-framing) — viewing losses in isolation amplifies sunk-cost reasoning
-- [Status quo bias](/status-quo-bias) — preference to keep losing positions
+- [Narrow framing](/narrow-framing/) — viewing losses in isolation amplifies sunk-cost reasoning
+- [Status quo bias](/status-quo-bias/) — preference to keep losing positions
 - Behavioral portfolio theory — how sunk costs shape portfolios
-- [Portfolio rebalancing](/asset-allocation) — mechanical rules reduce sunk-cost fallacy
-- [Prospect theory](/prospect-theory) — the broader framework of loss aversion and sunk costs
+- [Portfolio rebalancing](/asset-allocation/) — mechanical rules reduce sunk-cost fallacy
+- [Prospect theory](/prospect-theory/) — the broader framework of loss aversion and sunk costs
 
 </div>

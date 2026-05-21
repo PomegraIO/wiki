@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A company's reported earnings in any given year are a mix of three things: recurring, sustainable operating performance; one-time items (gains, losses, writedowns, restructuring charges); and cyclical effects. **Normalized earnings** strip away the noise to reveal what the business sustainably earns. They are essential for [multiples valuation](/multiples-valuation) and for forecasting future earnings in [DCF models](/discounted-cash-flow-valuation).*
+*A company's reported earnings in any given year are a mix of three things: recurring, sustainable operating performance; one-time items (gains, losses, writedowns, restructuring charges); and cyclical effects. **Normalized earnings** strip away the noise to reveal what the business sustainably earns. They are essential for [multiples valuation](/multiples-valuation/) and for forecasting future earnings in [DCF models](/discounted-cash-flow-valuation/).*
 
 ## What makes earnings noisy
 
@@ -80,7 +80,7 @@ Normalization is useful but can be abused:
 - A company whose business model is unstable shouldn't be valued on normalized earnings; it should be valued on scenarios.
 - An unprofitable company being normalized to "what it would earn if profitable" is often fantasy.
 
-Use normalized earnings for stable, mature, cyclical businesses. For growth, disrupted, or structurally changing businesses, [scenario analysis](/scenario-valuation) is often better.
+Use normalized earnings for stable, mature, cyclical businesses. For growth, disrupted, or structurally changing businesses, [scenario analysis](/scenario-valuation/) is often better.
 
 ## Normalized earnings and stock multiples
 
@@ -95,14 +95,14 @@ A stock trading at 20x current reported earnings but 12x normalized earnings is 
 ### Closely related
 
 - Earnings — what is being normalized
-- [EBITDA](/ebitda) — often the normalization target
+- [EBITDA](/ebitda/) — often the normalization target
 - Recurring earnings — sustainable, non-one-time earnings
 
 ### Valuation application
 
-- [Multiples valuation](/multiples-valuation) — often uses normalized metrics
-- [Comparable company analysis](/comparable-company-analysis) — peers normalized for comparability
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — forecasts based on normal earning power
+- [Multiples valuation](/multiples-valuation/) — often uses normalized metrics
+- [Comparable company analysis](/comparable-company-analysis/) — peers normalized for comparability
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — forecasts based on normal earning power
 
 ### Related concepts
 

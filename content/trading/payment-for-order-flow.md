@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*Payment for order flow (PFOF) is an arrangement where a broker routes retail customer orders to a [market maker](/market-maker-trading) (like Citadel, Virtu, or others) rather than a [lit venue](/lit-venue), and the market maker pays the broker for the order flow. The customer sees the execution; the broker receives a rebate or revenue share. This is legal but controversial: the customer might get modest price improvement (the market maker offers a slightly better price to compete for order flow), but the broker has a financial incentive to route there even if a lit exchange would be better.*
+*Payment for order flow (PFOF) is an arrangement where a broker routes retail customer orders to a [market maker](/market-maker-trading/) (like Citadel, Virtu, or others) rather than a [lit venue](/lit-venue/), and the market maker pays the broker for the order flow. The customer sees the execution; the broker receives a rebate or revenue share. This is legal but controversial: the customer might get modest price improvement (the market maker offers a slightly better price to compete for order flow), but the broker has a financial incentive to route there even if a lit exchange would be better.*
 
 <div class="wiki-hatnote">
 
-For transparent routing to public exchanges, see [lit venue](/lit-venue). For automated routing optimization, see [smart order router](/smart-order-router).
+For transparent routing to public exchanges, see [lit venue](/lit-venue/). For automated routing optimization, see [smart order router](/smart-order-router/).
 
 </div>
 
@@ -131,22 +131,22 @@ Some regulatory proposals have aimed to restrict or ban PFOF, but these remain c
 
 ### Closely related
 
-- [Market maker](/market-maker-trading) — the buyer of order flow
-- [Smart order router](/smart-order-router) — routes for best execution, avoiding PFOF conflicts
-- [Best execution](/best-execution) — regulatory obligation; PFOF must comply
-- [Dark pool](/dark-pool) — similar to PFOF in that it is off-lit venues
+- [Market maker](/market-maker-trading/) — the buyer of order flow
+- [Smart order router](/smart-order-router/) — routes for best execution, avoiding PFOF conflicts
+- [Best execution](/best-execution/) — regulatory obligation; PFOF must comply
+- [Dark pool](/dark-pool/) — similar to PFOF in that it is off-lit venues
 
 ### Order routing and execution
 
-- [Lit venue](/lit-venue) — public exchange alternative to PFOF
-- [NBBO](/nbbo) — best bid-offer; PFOF must be competitive
+- [Lit venue](/lit-venue/) — public exchange alternative to PFOF
+- [NBBO](/nbbo/) — best bid-offer; PFOF must be competitive
 - Trade-through rule — protects against bad PFOF prices
 - Slippage — PFOF can increase this if not carefully managed
 
 ### Regulation and compliance
 
 - SEC — regulates PFOF
-- [FINRA](/finra) — enforces best execution
+- [FINRA](/finra/) — enforces best execution
 - Reg NMS — regulatory framework
 - Disclosure — PFOF must be disclosed
 

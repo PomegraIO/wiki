@@ -14,7 +14,7 @@ image: "/svg/monetary.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers fiat money's nature and implications. For alternatives, see [commodity-money](/commodity-money) and [representative-money](/representative-money).
+This entry covers fiat money's nature and implications. For alternatives, see [commodity-money](/commodity-money/) and [representative-money](/representative-money/).
 
 </div>
 
@@ -66,7 +66,7 @@ This is a **leap of faith**, but it is a leap that has worked for centuries (fia
 
 Fiat money's great weakness is that it can be created without limit. A central bank can simply issue as much money as it wants. This removes the discipline that commodity money imposes (you cannot issue more gold certificates than gold you hold).
 
-This freedom is also fiat money's great advantage: in a [recession](/recession), a government can create money and stimulate the economy without worrying about gold reserves. But the flip side is hyperinflation risk. If a government is desperate (funding a war, covering massive deficits), it can print money recklessly, destroying the currency's value.
+This freedom is also fiat money's great advantage: in a [recession](/recession/), a government can create money and stimulate the economy without worrying about gold reserves. But the flip side is hyperinflation risk. If a government is desperate (funding a war, covering massive deficits), it can print money recklessly, destroying the currency's value.
 
 Every hyperinflation in history—Zimbabwe, Venezuela, the Weimar Republic in 1923—involved fiat-like money creation. This risk is why central banks are supposed to be independent and conservative.
 
@@ -74,11 +74,11 @@ Every hyperinflation in history—Zimbabwe, Venezuela, the Weimar Republic in 19
 
 For most of history, major currencies were either commodity money or backed by commodities (the gold standard). In 1971, the US abandoned the last vestiges of commodity backing (the Bretton Woods system, which pegged the dollar to gold). The world shifted to pure fiat money.
 
-This shift was controversial. Critics feared it would lead to runaway [inflation](/inflation). Defenders argued that a fiat system with a credible, independent central bank could be just as stable.
+This shift was controversial. Critics feared it would lead to runaway [inflation](/inflation/). Defenders argued that a fiat system with a credible, independent central bank could be just as stable.
 
-The decades since 1971 provide mixed evidence. [Inflation](/inflation) was higher in the 1970s–1980s (partly due to oil shocks and loose monetary policy). But once central banks got serious about inflation control (the Volcker era), [inflation](/inflation) stabilized. For much of 1990–2020, [inflation](/inflation) was low despite fiat money.
+The decades since 1971 provide mixed evidence. [Inflation](/inflation/) was higher in the 1970s–1980s (partly due to oil shocks and loose monetary policy). But once central banks got serious about inflation control (the Volcker era), [inflation](/inflation/) stabilized. For much of 1990–2020, [inflation](/inflation/) was low despite fiat money.
 
-The 2020–2022 pandemic and stimulus episode reignited the debate, with [inflation](/inflation) surging. Critics saw this as proof that fiat money inevitably leads to excess; defenders argued the [inflation](/inflation) was temporary and supply-driven.
+The 2020–2022 pandemic and stimulus episode reignited the debate, with [inflation](/inflation/) surging. Critics saw this as proof that fiat money inevitably leads to excess; defenders argued the [inflation](/inflation/) was temporary and supply-driven.
 
 ## See also
 
@@ -86,17 +86,17 @@ The 2020–2022 pandemic and stimulus episode reignited the debate, with [inflat
 
 ### Closely related
 
-- [Commodity money](/commodity-money) — backed by physical commodity
-- [Representative money](/representative-money) — backed by promise to redeem
-- [Central bank](/central-bank) — the issuer of fiat money
-- [Monetary base](/monetary-base) — fiat money in its purest form
+- [Commodity money](/commodity-money/) — backed by physical commodity
+- [Representative money](/representative-money/) — backed by promise to redeem
+- [Central bank](/central-bank/) — the issuer of fiat money
+- [Monetary base](/monetary-base/) — fiat money in its purest form
 
 ### Wider context
 
-- [Money supply](/m1) — what fiat enables
-- [Monetary policy](/monetary-policy) — how central banks manage fiat
-- [Inflation](/inflation) — the risk of fiat money
-- [Interest rate](/interest-rate) — the tool to manage fiat
-- [Modern monetary theory](/modern-monetary-theory) — framework embracing fiat
+- [Money supply](/m1/) — what fiat enables
+- [Monetary policy](/monetary-policy/) — how central banks manage fiat
+- [Inflation](/inflation/) — the risk of fiat money
+- [Interest rate](/interest-rate/) — the tool to manage fiat
+- [Modern monetary theory](/modern-monetary-theory/) — framework embracing fiat
 
 </div>

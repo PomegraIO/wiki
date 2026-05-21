@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation S](/regulation-s) is an exemption from [Securities Act of 1933](/securities-act-of-1933) registration for offshore securities offerings. It allows companies to sell securities to foreign investors outside the United States without complying with US disclosure rules, provided the offering is designed to avoid resale into the US market. Reg S is heavily used by multinational companies and foreign issuers raising capital abroad.*
+*[Regulation S](/regulation-s/) is an exemption from [Securities Act of 1933](/securities-act-of-1933/) registration for offshore securities offerings. It allows companies to sell securities to foreign investors outside the United States without complying with US disclosure rules, provided the offering is designed to avoid resale into the US market. Reg S is heavily used by multinational companies and foreign issuers raising capital abroad.*
 
 <div class="wiki-hatnote">
 
-Regulation S is for offshore offerings. [Regulation D](/regulation-d) is for private offerings in the US. The two are often combined — a company might offer under Reg S offshore and Reg D domestically.
+Regulation S is for offshore offerings. [Regulation D](/regulation-d/) is for private offerings in the US. The two are often combined — a company might offer under Reg S offshore and Reg D domestically.
 
 </div>
 
@@ -39,7 +39,7 @@ Regulation S is for offshore offerings. [Regulation D](/regulation-d) is for pri
 
 ## The extraterritorial principle
 
-Regulation S rests on a simple principle: the [Securities Act of 1933](/securities-act-of-1933) applies to offers and sales "in the United States." An offer to a foreign investor outside the US is not an offer "in the US," so it is exempt from the Act's registration requirement.
+Regulation S rests on a simple principle: the [Securities Act of 1933](/securities-act-of-1933/) applies to offers and sales "in the United States." An offer to a foreign investor outside the US is not an offer "in the US," so it is exempt from the Act's registration requirement.
 
 However, in practice, enforcement is complex. A company offering bonds to UK investors might find that some bonds end up in the hands of US residents (through secondary trading). Reg S imposes "offering restrictions" — contractual prohibitions against resale to US persons — to prevent this. The issuer also uses offshore distributing agents and certifies that the offering is designed for offshore distribution.
 
@@ -55,13 +55,13 @@ These restrictions make Reg S securities initially illiquid (hard to resell), wh
 
 ## Reg S versus Reg D
 
-Companies often combine Reg S and Reg D. A multinational company might raise $100 million from foreign investors (Reg S) and $50 million from US [accredited investors](/accredited-investor) (Reg D). The Reg S securities trade in European or Asian markets; the Reg D securities are held by US investors. Over time, as the company becomes more established, it might register (file an S-1) for an IPO.
+Companies often combine Reg S and Reg D. A multinational company might raise $100 million from foreign investors (Reg S) and $50 million from US [accredited investors](/accredited-investor/) (Reg D). The Reg S securities trade in European or Asian markets; the Reg D securities are held by US investors. Over time, as the company becomes more established, it might register (file an S-1) for an IPO.
 
 ## Foreign private issuers
 
 A foreign company wanting to list on US exchanges (like Nasdaq or NYSE) typically does a Reg S offering to foreign investors and a concurrent Rule 506(d) offering to US accredited investors, raising capital offshore and domestically in parallel.
 
-Alternatively, a foreign company can register directly with the [SEC](/securities-and-exchange-commission) if it meets certain criteria (it becomes a "foreign private issuer" with reduced reporting obligations).
+Alternatively, a foreign company can register directly with the [SEC](/securities-and-exchange-commission/) if it meets certain criteria (it becomes a "foreign private issuer" with reduced reporting obligations).
 
 ## Compliance challenges
 
@@ -75,17 +75,17 @@ Issuers also struggle with the question: who is a "US person"? The rule defines 
 
 ### Closely related
 
-- [Regulation D](/regulation-d) — domestic private offering exemption
-- [Regulation Crowdfunding](/regulation-cf) — domestic crowdfunding
-- [Securities Act of 1933](/securities-act-of-1933) — the law Reg S exempts from
+- [Regulation D](/regulation-d/) — domestic private offering exemption
+- [Regulation Crowdfunding](/regulation-cf/) — domestic crowdfunding
+- [Securities Act of 1933](/securities-act-of-1933/) — the law Reg S exempts from
 - Foreign private issuer — key user of Reg S
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
 
 ### Wider context
 
 - Global capital markets — where Reg S offerings trade
-- [Bond](/bond) — commonly issued under Reg S
-- [Initial public offering](/initial-public-offering) — sometimes preceded by Reg S
+- [Bond](/bond/) — commonly issued under Reg S
+- [Initial public offering](/initial-public-offering/) — sometimes preceded by Reg S
 - Cross-border offering — enabled by Reg S
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **statement of changes in equity** reconciles the opening and closing balances of shareholders' equity by listing every transaction that affected it during the period: profits earned, dividends paid, shares issued or repurchased, and unrealized gains or losses on investments. It bridges the [income statement](/income-statement) (which reports profit) and the [balance sheet](/balance-sheet) (which shows equity at period end). Equity is not static; this statement explains why.*
+*The **statement of changes in equity** reconciles the opening and closing balances of shareholders' equity by listing every transaction that affected it during the period: profits earned, dividends paid, shares issued or repurchased, and unrealized gains or losses on investments. It bridges the [income statement](/income-statement/) (which reports profit) and the [balance sheet](/balance-sheet/) (which shows equity at period end). Equity is not static; this statement explains why.*
 
 <div class="wiki-hatnote">
 
-This entry covers the structure and purpose of equity changes. For retained earnings and dividends specifically, see [retained-earnings](/retained-earnings). For equity classification and valuation, see the [balance-sheet](/balance-sheet).
+This entry covers the structure and purpose of equity changes. For retained earnings and dividends specifically, see [retained-earnings](/retained-earnings/). For equity classification and valuation, see the [balance-sheet](/balance-sheet/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers the structure and purpose of equity changes. For retained earn
 | **Subtracts** | Dividends, share buybacks, losses, impairments |
 | **Ends with** | Closing equity balance |
 | **Key components** | Retained earnings, accumulated comprehensive income |
-| **Cross-reference** | Net income flows from [income statement](/income-statement) |
+| **Cross-reference** | Net income flows from [income statement](/income-statement/) |
 
 </aside>
 
@@ -42,7 +42,7 @@ This entry covers the structure and purpose of equity changes. For retained earn
 
 Shareholders own a company through equity. The value of that ownership changes continuously as the business earns or loses money, pays dividends, buys back shares, and experiences gains or losses on long-term investments.
 
-The [balance sheet](/balance-sheet) shows equity at the end of a period. But it doesn't explain where it came from or what happened. The statement of changes in equity fills that gap. It is the reconciliation between consecutive balance sheets and the link between the [income statement](/income-statement) (which shows profit) and shareholders' residual claim.
+The [balance sheet](/balance-sheet/) shows equity at the end of a period. But it doesn't explain where it came from or what happened. The statement of changes in equity fills that gap. It is the reconciliation between consecutive balance sheets and the link between the [income statement](/income-statement/) (which shows profit) and shareholders' residual claim.
 
 ## The main equity components
 
@@ -51,14 +51,14 @@ Equity has several sub-accounts, each moving for different reasons:
 - **Common stock** — the par value of shares issued. Changes when the company issues new shares or performs a stock split.
 - **Additional paid-in capital** — the premium over par value shareholders paid when buying stock. Changes with share issuances or treasury stock activity.
 - **Retained earnings** — cumulative profit not paid to shareholders as dividends. This is where the bulk of long-term equity growth comes from in mature companies.
-- **Accumulated other comprehensive income (AOCI)** — unrealized gains or losses on long-term investments, foreign currency translations, and certain hedging activities. These are not in [comprehensive-income](/comprehensive-income) on the [income statement](/income-statement) yet, but they move equity.
+- **Accumulated other comprehensive income (AOCI)** — unrealized gains or losses on long-term investments, foreign currency translations, and certain hedging activities. These are not in [comprehensive-income](/comprehensive-income/) on the [income statement](/income-statement/) yet, but they move equity.
 - **Treasury stock** — the cost of shares the company repurchased. This is negative equity (it reduces the total).
 
 ## The flow of earnings into equity
 
-The most important line on the statement of changes in equity is **net income**, pulled directly from the [income statement](/income-statement). Net income increases [retained earnings](/retained-earnings). Over decades, this is the engine of equity growth for most companies. A company that earns $1 billion in profit but pays no dividends adds $1 billion to retained earnings.
+The most important line on the statement of changes in equity is **net income**, pulled directly from the [income statement](/income-statement/). Net income increases [retained earnings](/retained-earnings/). Over decades, this is the engine of equity growth for most companies. A company that earns $1 billion in profit but pays no dividends adds $1 billion to retained earnings.
 
-This is why [earnings per share](/earnings-per-share) and [return on equity](/return-on-equity) matter so much. They measure how much profit the company generates and how efficiently it deploys shareholder capital.
+This is why [earnings per share](/earnings-per-share/) and [return on equity](/return-on-equity/) matter so much. They measure how much profit the company generates and how efficiently it deploys shareholder capital.
 
 ## Dividends and share buybacks
 
@@ -71,7 +71,7 @@ Both reduce equity, but they have different tax and accounting consequences. Div
 
 ## Unrealized gains and comprehensive income
 
-Not all changes to equity flow through the [income statement](/income-statement). A company might own a long-term investment (a bond or an equity stake in another firm) that rises in value but hasn't been sold. The unrealized gain does not hit the [income statement](/income-statement), but it belongs to shareholders, so it must be captured somewhere.
+Not all changes to equity flow through the [income statement](/income-statement/). A company might own a long-term investment (a bond or an equity stake in another firm) that rises in value but hasn't been sold. The unrealized gain does not hit the [income statement](/income-statement/), but it belongs to shareholders, so it must be captured somewhere.
 
 That somewhere is **accumulated other comprehensive income (AOCI)**, a separate equity component. AOCI includes:
 
@@ -99,17 +99,17 @@ Over time, comparing opening and closing equity, and understanding the component
 
 ### Closely related
 
-- [Balance sheet](/balance-sheet) — equity appears here as a total
-- [Income statement](/income-statement) — net income flows into [retained earnings](/retained-earnings)
-- [Retained earnings](/retained-earnings) — the largest equity component in mature companies
-- [Dividend](/dividend) — cash returned to shareholders from equity
+- [Balance sheet](/balance-sheet/) — equity appears here as a total
+- [Income statement](/income-statement/) — net income flows into [retained earnings](/retained-earnings/)
+- [Retained earnings](/retained-earnings/) — the largest equity component in mature companies
+- [Dividend](/dividend/) — cash returned to shareholders from equity
 - Treasury stock — repurchased shares reduce equity
-- [Comprehensive income](/comprehensive-income) — includes all changes to equity
+- [Comprehensive income](/comprehensive-income/) — includes all changes to equity
 
 ### Context
 
 - Accumulated other comprehensive income — unrealized gains in equity
-- [Earnings per share](/earnings-per-share) — profit allocated per share
-- [Return on equity](/return-on-equity) — how efficiently equity generates profit
+- [Earnings per share](/earnings-per-share/) — profit allocated per share
+- [Return on equity](/return-on-equity/) — how efficiently equity generates profit
 
 </div>

@@ -104,21 +104,21 @@ Comparable transaction analysis is most useful as a sanity check on DCF. If your
 
 ### Closely related
 
-- [Multiples valuation](/multiples-valuation) — parent method
-- [Comparable company analysis](/comparable-company-analysis) — trading multiples alternative
+- [Multiples valuation](/multiples-valuation/) — parent method
+- [Comparable company analysis](/comparable-company-analysis/) — trading multiples alternative
 - Precedent transaction — the transaction being analyzed
-- [Relative valuation](/relative-valuation) — market-based approach
+- [Relative valuation](/relative-valuation/) — market-based approach
 
 ### M&A context
 
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — using transaction multiples in DCF
-- [Acquisition](/acquisition) — what transaction comps are used for
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — using transaction multiples in DCF
+- [Acquisition](/acquisition/) — what transaction comps are used for
 - Synergy — drives transaction premiums
 
 ### Integration
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — compare DCF to comps
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — multiples sensitivity
-- [Football field valuation](/football-field-valuation) — combining multiple approaches
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — compare DCF to comps
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — multiples sensitivity
+- [Football field valuation](/football-field-valuation/) — combining multiple approaches
 
 </div>

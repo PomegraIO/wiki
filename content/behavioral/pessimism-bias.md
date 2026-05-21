@@ -10,11 +10,11 @@ keywords:
 image: "/svg/behavioral.svg"
 ---
 
-*Pessimism bias is the tendency to see the future as worse than present conditions warrant. During [bear markets](/bear-market), investors believe the decline will continue. When valuations are low and opportunities abound, pessimism prevents buying. Some investors assume their investments will fail and avoid equity allocation altogether. This systematic pessimism leads to overly conservative portfolios and significant lost wealth.*
+*Pessimism bias is the tendency to see the future as worse than present conditions warrant. During [bear markets](/bear-market/), investors believe the decline will continue. When valuations are low and opportunities abound, pessimism prevents buying. Some investors assume their investments will fail and avoid equity allocation altogether. This systematic pessimism leads to overly conservative portfolios and significant lost wealth.*
 
 <div class="wiki-hatnote">
 
-The opposite of optimism bias. Related to loss aversion. For excessive caution in response to recent crashes, see [FUD](/fud).
+The opposite of optimism bias. Related to loss aversion. For excessive caution in response to recent crashes, see [FUD](/fud/).
 
 </div>
 
@@ -29,10 +29,10 @@ The opposite of optimism bias. Related to loss aversion. For excessive caution i
 |   |   |
 |---|---|
 | **What it is** | Overestimating probability of negative outcomes |
-| **Opposite of** | [Optimism bias](/optimism-bias) |
+| **Opposite of** | [Optimism bias](/optimism-bias/) |
 | **Peak in** | Bear markets; after recent losses; older investors |
 | **Investor impact** | Excessive cash holdings; undiversification in equities; missed gains |
-| **Related phenomenon** | [Loss aversion](/loss-aversion), [FUD](/fud) |
+| **Related phenomenon** | [Loss aversion](/loss-aversion/), [FUD](/fud/) |
 | **Cost** | Very high; decades of cash or bonds underperform stocks by millions |
 
 </aside>
@@ -59,7 +59,7 @@ Pessimism bias arises from:
 
 ## Pessimism bias and fear
 
-Pessimism bias is closely linked to fear. [FUD](/fud) (fear, uncertainty, doubt) drives pessimism. After a crisis, fear is high, pessimism bias is strong, and investors miss the subsequent recovery.
+Pessimism bias is closely linked to fear. [FUD](/fud/) (fear, uncertainty, doubt) drives pessimism. After a crisis, fear is high, pessimism bias is strong, and investors miss the subsequent recovery.
 
 ## Pessimism bias vs. realistic caution
 
@@ -71,15 +71,15 @@ Pessimism bias is not the same as realistic caution. Some pessimism is warranted
 
 The first is reasonable. The second is bias-driven and costly.
 
-## Pessimism bias and [confirmation bias](/confirmation-bias)
+## Pessimism bias and [confirmation bias](/confirmation-bias/)
 
-Once you become pessimistic on an investment, [confirmation bias](/confirmation-bias) reinforces it. You seek bad news and find it. The pessimism becomes locked in place.
+Once you become pessimistic on an investment, [confirmation bias](/confirmation-bias/) reinforces it. You seek bad news and find it. The pessimism becomes locked in place.
 
 ## Defenses against pessimism bias
 
 - **Calculate the base rate.** What is the historical return of stocks over 20-year periods? (9-10% annually.) Does your pessimistic forecast match history? If not, your bias is showing.
 - **Remember that crashes end.** Every crash in history has been followed by a recovery. The pessimistic forecast of continued decline has always been wrong.
-- **Use a disciplined [asset allocation](/asset-allocation).** Rather than allowing pessimism to determine your allocation, set it based on your time horizon and goals. Stick to it.
+- **Use a disciplined [asset allocation](/asset-allocation/).** Rather than allowing pessimism to determine your allocation, set it based on your time horizon and goals. Stick to it.
 - **Rebalance into weakness.** When pessimism is high and markets are down, force yourself to rebalance by buying stocks. This mechanical rule overrides pessimism bias.
 - **Track pessimistic forecasts.** Identify pessimistic investor commentary you have read. Track the investments recommended and their actual performance. Pessimistic forecasters often underperform.
 - **Remember: the worst time to avoid stocks is when pessimism is highest.** When everyone is pessimistic, valuations are low and expected returns are high. The pessimistic investor misses this opportunity.
@@ -90,17 +90,17 @@ Once you become pessimistic on an investment, [confirmation bias](/confirmation-
 
 ### Closely related
 
-- [Optimism bias](/optimism-bias) — the opposite tendency
-- [Loss aversion](/loss-aversion) — fear of losses drives pessimism
-- [FUD](/fud) — fear and doubt fueling pessimism
+- [Optimism bias](/optimism-bias/) — the opposite tendency
+- [Loss aversion](/loss-aversion/) — fear of losses drives pessimism
+- [FUD](/fud/) — fear and doubt fueling pessimism
 - Fear and greed cycle — pessimism and optimism alternating
-- [Bear market](/bear-market) — where pessimism bias is strongest
+- [Bear market](/bear-market/) — where pessimism bias is strongest
 
 ### Wider context
 
-- [Risk tolerance](/asset-allocation) — pessimism-biased people underestimate their risk capacity
-- [Diversification](/diversification) — balanced approach resists pessimism bias
-- [Long-term investing](/index-fund) — historical data shows pessimism is usually wrong
+- [Risk tolerance](/asset-allocation/) — pessimism-biased people underestimate their risk capacity
+- [Diversification](/diversification/) — balanced approach resists pessimism bias
+- [Long-term investing](/index-fund/) — historical data shows pessimism is usually wrong
 - Behavioral asset pricing — pessimism creates buying opportunities
 - Animal spirits — collective cycles of optimism and pessimism
 

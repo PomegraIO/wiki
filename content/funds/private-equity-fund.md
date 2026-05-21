@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **private equity fund** is a pooled investment vehicle that raises capital from institutional investors and uses it to acquire stakes in private companies. The fund's managers restructure these companies, improve operations, and exit via sale or public offering, targeting returns of 20%–30% per year. Private equity is closed to retail investors, requires minimum investments of $250,000–$5 million, and operates as a [fund of funds](/fund-of-funds) or direct investor.*
+*A **private equity fund** is a pooled investment vehicle that raises capital from institutional investors and uses it to acquire stakes in private companies. The fund's managers restructure these companies, improve operations, and exit via sale or public offering, targeting returns of 20%–30% per year. Private equity is closed to retail investors, requires minimum investments of $250,000–$5 million, and operates as a [fund of funds](/fund-of-funds/) or direct investor.*
 
 <div class="wiki-hatnote">
 
-This entry covers private equity broadly. For [venture capital](/venture-capital-fund), see the startup-focused variant; for [leveraged buyouts](/leveraged-buyout-fund), see the debt-fueled acquisition strategy.
+This entry covers private equity broadly. For [venture capital](/venture-capital-fund/), see the startup-focused variant; for [leveraged buyouts](/leveraged-buyout-fund/), see the debt-fueled acquisition strategy.
 
 </div>
 
@@ -35,8 +35,8 @@ This entry covers private equity broadly. For [venture capital](/venture-capital
 | **Capital source** | Institutional investors (pensions, endowments, foundations) |
 | **Minimum investment** | $250,000–$5 million |
 | **Fund life** | 10 years (standard), with extensions possible |
-| **[Management fee](/management-fee)** | 2% of assets under management |
-| **[Performance fee](/performance-fee)** | 20% of profits (called "carry") |
+| **[Management fee](/management-fee/)** | 2% of assets under management |
+| **[Performance fee](/performance-fee/)** | 20% of profits (called "carry") |
 | **Target return** | 20%–30% per year (ambitious) |
 | **Holding period** | 3–7 years per company |
 
@@ -46,7 +46,7 @@ This entry covers private equity broadly. For [venture capital](/venture-capital
 
 A private equity fund raises capital from institutional investors (pensions, endowments, foundations, insurance companies). The fund then identifies and acquires private companies or public companies it takes private via leveraged buyout.
 
-**The acquisition.** The fund identifies a company to buy. If it is a [leveraged buyout](/leveraged-buyout-fund), the fund borrows heavily (often 60–70% of the purchase price), using equity from the fund and debt.
+**The acquisition.** The fund identifies a company to buy. If it is a [leveraged buyout](/leveraged-buyout-fund/), the fund borrows heavily (often 60–70% of the purchase price), using equity from the fund and debt.
 
 **The value creation.** The fund's operators now control the company and restructure it:
   - Cut costs by eliminating redundant departments or selling underperforming divisions.
@@ -75,11 +75,11 @@ Private equity fills a gap in the capital markets:
 
 ## Typical returns and risks
 
-Private equity targets 20–30% annual returns, significantly higher than public [equity](/equity-etf) (8–10%). However:
+Private equity targets 20–30% annual returns, significantly higher than public [equity](/equity-etf/) (8–10%). However:
 
-**Realized returns.** Meta-analysis of private equity returns shows that the median PE fund underperforms public [equity](/equity-etf) markets net of fees. Top-quartile funds outperform, but identifying them in advance is difficult.
+**Realized returns.** Meta-analysis of private equity returns shows that the median PE fund underperforms public [equity](/equity-etf/) markets net of fees. Top-quartile funds outperform, but identifying them in advance is difficult.
 
-**Fee drag.** A 2% [management fee](/management-fee) and 20% performance fee (called "carry") compound to substantial costs. A fund returning 15% gross returns 13% net after fees.
+**Fee drag.** A 2% [management fee](/management-fee/) and 20% performance fee (called "carry") compound to substantial costs. A fund returning 15% gross returns 13% net after fees.
 
 **J-curve.** Early private equity investing is unprofitable (paying fees but seeing no gains). Returns inflect upward only in years 5–10 when exits occur. This creates a "J-curve" of returns over time.
 
@@ -126,9 +126,9 @@ Private equity is accessible only to:
 - **Institutional investors** (pensions, endowments, foundations).
 - **Ultra-high-net-worth individuals** with $1 million+ in investable assets and the ability to lock up capital for 10 years.
 
-Retail investors can gain exposure through [funds of funds](/fund-of-funds) that pool capital, but these add an extra layer of fees (typically 1% [management fee](/management-fee) and 10% carry on top of the underlying PE fund's fees).
+Retail investors can gain exposure through [funds of funds](/fund-of-funds/) that pool capital, but these add an extra layer of fees (typically 1% [management fee](/management-fee/) and 10% carry on top of the underlying PE fund's fees).
 
-For retail investors without ultra-high net worth, private equity is inaccessible and likely not worth seeking—public [equity](/equity-etf) markets have historically matched or beaten private equity returns net of fees.
+For retail investors without ultra-high net worth, private equity is inaccessible and likely not worth seeking—public [equity](/equity-etf/) markets have historically matched or beaten private equity returns net of fees.
 
 ## See also
 
@@ -136,18 +136,18 @@ For retail investors without ultra-high net worth, private equity is inaccessibl
 
 ### Closely related
 
-- [Venture capital fund](/venture-capital-fund) — focus on early-stage companies
-- [Leveraged buyout fund](/leveraged-buyout-fund) — debt-fueled acquisitions
-- [Fund of funds](/fund-of-funds) — pools multiple PE funds
-- [Management fee](/management-fee) · [Performance fee](/performance-fee) — PE compensation
-- [Distressed debt fund](/distressed-debt-fund) — recovery-focused strategy
+- [Venture capital fund](/venture-capital-fund/) — focus on early-stage companies
+- [Leveraged buyout fund](/leveraged-buyout-fund/) — debt-fueled acquisitions
+- [Fund of funds](/fund-of-funds/) — pools multiple PE funds
+- [Management fee](/management-fee/) · [Performance fee](/performance-fee/) — PE compensation
+- [Distressed debt fund](/distressed-debt-fund/) — recovery-focused strategy
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — related alternative investment
-- [Leverage](/option) — amplifies returns and risks
-- [Diversification](/diversification) — role in institutional portfolios
-- [Capital gains](/stock) — how private equity profits
-- [Stock](/stock) — often acquired publicly, returned to private status
+- [Hedge fund](/hedge-fund/) — related alternative investment
+- [Leverage](/option/) — amplifies returns and risks
+- [Diversification](/diversification/) — role in institutional portfolios
+- [Capital gains](/stock/) — how private equity profits
+- [Stock](/stock/) — often acquired publicly, returned to private status
 
 </div>

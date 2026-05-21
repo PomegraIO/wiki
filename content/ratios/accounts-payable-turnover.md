@@ -70,7 +70,7 @@ The company takes about 47 days to pay suppliers on average.
 
 ## Cash conversion cycle
 
-Accounts payable turnover is part of the [cash-conversion-cycle](/cash-conversion-cycle):
+Accounts payable turnover is part of the [cash-conversion-cycle](/cash-conversion-cycle/):
 
 CCC = Days inventory outstanding + Days sales outstanding − Days payable outstanding
 
@@ -95,10 +95,10 @@ A company that starts stretching payables (declining turnover) after years of st
 
 ### Closely related
 
-- [Accounts-receivable-turnover](/accounts-receivable-turnover) — customer payments
-- [Inventory-turnover](/inventory-turnover) — inventory conversion
-- [Days-payable-outstanding](/days-payable-outstanding) — in days
-- [Cash-conversion-cycle](/cash-conversion-cycle) — all three combined
+- [Accounts-receivable-turnover](/accounts-receivable-turnover/) — customer payments
+- [Inventory-turnover](/inventory-turnover/) — inventory conversion
+- [Days-payable-outstanding](/days-payable-outstanding/) — in days
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — all three combined
 - Working capital management
 
 </div>

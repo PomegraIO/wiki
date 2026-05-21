@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the core debt service metric. For broader solvency measures, see [debt-to-equity ratio](/debt-to-equity-ratio). For fixed obligations, see [fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio).
+This entry covers the core debt service metric. For broader solvency measures, see [debt-to-equity ratio](/debt-to-equity-ratio/). For fixed obligations, see [fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio/).
 
 </div>
 
@@ -86,7 +86,7 @@ Example: A company with $500 million in EBIT and $50 million in interest expense
 
 **Different interest calculations exist.** Some analysts calculate coverage on cash interest paid (excluding accrued interest or imputed interest on leases). Others include everything. Always verify the definition.
 
-**It ignores other fixed obligations.** A company pays rent, pensions, debt principal, and taxes in addition to interest. A company with good interest coverage might have poor coverage of all fixed charges. See [fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio).
+**It ignores other fixed obligations.** A company pays rent, pensions, debt principal, and taxes in addition to interest. A company with good interest coverage might have poor coverage of all fixed charges. See [fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio/).
 
 **It assumes stability.** A company in a cyclical industry might have high interest coverage at the peak of the cycle but weak coverage at the trough. Peak-cycle coverage can be misleading.
 
@@ -117,8 +117,8 @@ A company with coverage of 4.0 at 3% rates might have coverage of 2.5 at 6% rate
 
 Related metrics provide broader solvency pictures:
 
-- **[Debt Service Coverage Ratio (DSCR)](/dscr):** Operating cash flow ÷ total debt service (interest + principal). More realistic than interest coverage because it uses cash flow and includes principal.
-- **[Fixed-Charge Coverage Ratio](/fixed-charge-coverage-ratio):** EBIT ÷ (interest + principal + rent + taxes). Even broader; includes all fixed obligations.
+- **[Debt Service Coverage Ratio (DSCR)](/dscr/):** Operating cash flow ÷ total debt service (interest + principal). More realistic than interest coverage because it uses cash flow and includes principal.
+- **[Fixed-Charge Coverage Ratio](/fixed-charge-coverage-ratio/):** EBIT ÷ (interest + principal + rent + taxes). Even broader; includes all fixed obligations.
 
 Interest coverage is the narrowest but most commonly used metric.
 
@@ -141,9 +141,9 @@ A company with interest coverage of 6.0, stable or improving, and in line with p
 
 ### Closely related
 
-- [Debt-to-equity ratio](/debt-to-equity-ratio) — structural leverage
-- [Fixed-charge coverage ratio](/fixed-charge-coverage-ratio) — broader coverage measure
-- [DSCR](/dscr) — debt service coverage, including principal
+- [Debt-to-equity ratio](/debt-to-equity-ratio/) — structural leverage
+- [Fixed-charge coverage ratio](/fixed-charge-coverage-ratio/) — broader coverage measure
+- [DSCR](/dscr/) — debt service coverage, including principal
 - EBIT — the numerator
 - Interest expense — the denominator
 
@@ -151,7 +151,7 @@ A company with interest coverage of 6.0, stable or improving, and in line with p
 
 - Debt service — interest and principal obligations
 - Financial distress — what weak coverage predicts
-- [Credit rating](/credit-rating) — influenced by coverage ratios
+- [Credit rating](/credit-rating/) — influenced by coverage ratios
 - Solvency — long-term financial health
 
 </div>

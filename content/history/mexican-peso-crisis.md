@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Mexican crisis of 1994–95. For the subsequent Asian Financial Crisis with similar causes, see [Asian Financial Crisis](/asian-financial-crisis); for the global contagion mechanism, see currency crisis.
+This entry covers the Mexican crisis of 1994–95. For the subsequent Asian Financial Crisis with similar causes, see [Asian Financial Crisis](/asian-financial-crisis/); for the global contagion mechanism, see currency crisis.
 
 </div>
 
@@ -77,7 +77,7 @@ This pattern repeated in the Asian Financial Crisis of 1997–98, the Russian cr
 
 ### Closely related
 
-- [Asian Financial Crisis](/asian-financial-crisis) — a similar crisis a few years later
+- [Asian Financial Crisis](/asian-financial-crisis/) — a similar crisis a few years later
 - Currency crisis — the general phenomenon
 - Devaluation — the peso's adjustment
 
@@ -86,7 +86,7 @@ This pattern repeated in the Asian Financial Crisis of 1997–98, the Russian cr
 - Emerging markets — the region most affected
 - International Monetary Fund — the crisis manager
 - Capital flow — the outflows that triggered it
-- [Interest rate](/interest-rate) — the Fed tightening that accelerated outflows
+- [Interest rate](/interest-rate/) — the Fed tightening that accelerated outflows
 - Exchange rate peg — the unsustainable policy
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For alternative education savings vehicles, see [Coverdell ESA](/coverdell-esa) and [custodial account](/custodial-account); for parent-owned accounts, see [UGMA/UTMA](/ugma-utma).
+For alternative education savings vehicles, see [Coverdell ESA](/coverdell-esa/) and [custodial account](/custodial-account/); for parent-owned accounts, see [UGMA/UTMA](/ugma-utma/).
 
 </div>
 
@@ -42,7 +42,7 @@ For alternative education savings vehicles, see [Coverdell ESA](/coverdell-esa) 
 
 ## How it works
 
-You open a 529 account for a beneficiary (typically your child). You contribute after-tax money. The account grows tax-free and can be invested in [mutual funds](/mutual-fund) or age-based portfolios.
+You open a 529 account for a beneficiary (typically your child). You contribute after-tax money. The account grows tax-free and can be invested in [mutual funds](/mutual-fund/) or age-based portfolios.
 
 When you withdraw for qualified education expenses — tuition, fees, room and board, books, supplies — the withdrawal is tax-free. If you withdraw for non-education purposes, earnings are taxed plus a 10% penalty (but principal is returned tax-free).
 
@@ -64,7 +64,7 @@ Some states require you to use their state's plan; others allow any state's plan
 
 Most 529 savings plans offer:
 - **Age-based portfolios.** Automatic rebalancing as the child approaches college age.
-- **Individual funds.** You pick specific [index funds](/index-fund) or [mutual funds](/mutual-fund).
+- **Individual funds.** You pick specific [index funds](/index-fund/) or [mutual funds](/mutual-fund/).
 - **Stable value funds.** Low-risk; typically used as the child gets close to college age.
 
 ## Qualified education expenses
@@ -102,15 +102,15 @@ You can change the beneficiary to another family member (sibling, cousin, even y
 
 ### Closely related
 
-- [Coverdell ESA](/coverdell-esa) — smaller education savings account
-- [Custodial account](/custodial-account) — general savings for minors
-- [UGMA/UTMA](/ugma-utma) — parent-managed account for minors
+- [Coverdell ESA](/coverdell-esa/) — smaller education savings account
+- [Custodial account](/custodial-account/) — general savings for minors
+- [UGMA/UTMA](/ugma-utma/) — parent-managed account for minors
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — growth potential of 529 over 18 years
-- [Asset allocation](/asset-allocation) — investment strategy in 529
-- [Tax-free growth](/hsa) — 529 as tax-advantaged account
-- [Budgeting methods](/budgeting-methods) — education as major expense
+- [Compound interest](/compound-interest/) — growth potential of 529 over 18 years
+- [Asset allocation](/asset-allocation/) — investment strategy in 529
+- [Tax-free growth](/hsa/) — 529 as tax-advantaged account
+- [Budgeting methods](/budgeting-methods/) — education as major expense
 
 </div>

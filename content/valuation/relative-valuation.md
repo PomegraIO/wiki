@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **relative valuation** values a company not by estimating its intrinsic cash flows, but by seeing what the market pays for similar companies. If software companies trade at 25x EBITDA and your company has 50 million EBITDA, it is worth 1.25 billion. It is faster and more market-grounded than [discounted cash flow](/discounted-cash-flow-valuation), but it is also circular: it assumes the market is right.*
+*A **relative valuation** values a company not by estimating its intrinsic cash flows, but by seeing what the market pays for similar companies. If software companies trade at 25x EBITDA and your company has 50 million EBITDA, it is worth 1.25 billion. It is faster and more market-grounded than [discounted cash flow](/discounted-cash-flow-valuation/), but it is also circular: it assumes the market is right.*
 
 ## Relative vs. intrinsic valuation
 
@@ -95,21 +95,21 @@ Some analyses show "normalized multiples" (what the company would trade at over 
 
 ### Closely related
 
-- [Multiples valuation](/multiples-valuation) — the method
-- [Comparable company analysis](/comparable-company-analysis) — executing relative valuation
-- [Comparable transaction analysis](/comparable-transaction-analysis) — transaction approach
-- [Peer group selection](/peer-group-selection) — the critical step
+- [Multiples valuation](/multiples-valuation/) — the method
+- [Comparable company analysis](/comparable-company-analysis/) — executing relative valuation
+- [Comparable transaction analysis](/comparable-transaction-analysis/) — transaction approach
+- [Peer group selection](/peer-group-selection/) — the critical step
 
 ### Comparison
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — intrinsic approach
-- [Intrinsic value](/intrinsic-value) — what DCF tries to find
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — intrinsic approach
+- [Intrinsic value](/intrinsic-value/) — what DCF tries to find
 - Market price — what relative valuation reflects
 
 ### Integration
 
-- [Football field valuation](/football-field-valuation) — combining multiple approaches
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — multiples sensitivity
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — relative valuation applied to segments
+- [Football field valuation](/football-field-valuation/) — combining multiple approaches
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — multiples sensitivity
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — relative valuation applied to segments
 
 </div>

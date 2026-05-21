@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **when-issued market** is a forward-trading market for securities between their pricing and their official debut. In an [initial public offering](/initial-public-offering), when a company is priced on Wednesday, shares often trade "when issued" on Thursday morning before the market open, conditional on the IPO proceeding as scheduled. When-issued trades are settled only if the security actually begins trading; if the IPO is cancelled or delayed, the trades are typically voided.*
+*The **when-issued market** is a forward-trading market for securities between their pricing and their official debut. In an [initial public offering](/initial-public-offering/), when a company is priced on Wednesday, shares often trade "when issued" on Thursday morning before the market open, conditional on the IPO proceeding as scheduled. When-issued trades are settled only if the security actually begins trading; if the IPO is cancelled or delayed, the trades are typically voided.*
 
 <div class="wiki-hatnote">
 
-This entry is about forward trading before listing. For trading once a security is officially listed, see [secondary market](/secondary-market); for the broader unregulated context, see [gray-market securities](/gray-market-securities).
+This entry is about forward trading before listing. For trading once a security is officially listed, see [secondary market](/secondary-market/); for the broader unregulated context, see [gray-market securities](/gray-market-securities/).
 
 </div>
 
@@ -42,13 +42,13 @@ This entry is about forward trading before listing. For trading once a security 
 
 ## How when-issued trading works
 
-When an [initial public offering](/initial-public-offering) is priced, there is typically a lag of one or more business days before shares begin trading on the [stock exchange](/stock-exchange). During this lag, investors interested in the stock can trade it "when issued" — meaning they make a forward agreement to buy or sell shares, contingent on the IPO proceeding and the shares beginning to trade as scheduled.
+When an [initial public offering](/initial-public-offering/) is priced, there is typically a lag of one or more business days before shares begin trading on the [stock exchange](/stock-exchange/). During this lag, investors interested in the stock can trade it "when issued" — meaning they make a forward agreement to buy or sell shares, contingent on the IPO proceeding and the shares beginning to trade as scheduled.
 
 Here is a typical timeline:
 
 - **Wednesday 5 PM:** Company prices its IPO at $80 per share. Underwriters announce the price and terms.
 - **Wednesday evening:** When-issued trading begins. Buyers and sellers transact at market-clearing prices (often $79–$81, depending on demand).
-- **Thursday morning before 10 AM:** The IPO is "unveiled" on the [stock exchange](/stock-exchange), and regular trading begins. When-issued trades now settle, with shares delivered and cash paid in the normal post-trade settlement cycle.
+- **Thursday morning before 10 AM:** The IPO is "unveiled" on the [stock exchange](/stock-exchange/), and regular trading begins. When-issued trades now settle, with shares delivered and cash paid in the normal post-trade settlement cycle.
 
 If anything goes wrong — the company withdraws the IPO, trading is delayed, or the underwriters cancel — the when-issued trades are typically voided, and parties are released from their obligations.
 
@@ -56,11 +56,11 @@ If anything goes wrong — the company withdraws the IPO, trading is delayed, or
 
 When-issued trading serves several purposes:
 
-**Price discovery.** The when-issued market gives the first public signal of demand for the newly issued security. If when-issued shares trade at a significant premium to the IPO price (e.g., $82 when the IPO is $80), that signals strong institutional demand. Conversely, a discount signals weak demand. This price discovery informs the [secondary market](/secondary-market) open and helps establish fair value.
+**Price discovery.** The when-issued market gives the first public signal of demand for the newly issued security. If when-issued shares trade at a significant premium to the IPO price (e.g., $82 when the IPO is $80), that signals strong institutional demand. Conversely, a discount signals weak demand. This price discovery informs the [secondary market](/secondary-market/) open and helps establish fair value.
 
 **Liquidity provision.** When-issued trading creates a preliminary market where early buyers and sellers can transact without waiting for the official listing. This satisfies demand among speculators and institutions eager to establish positions.
 
-**Arbitrage.** Some traders buy when-issued and plan to sell at the opening on the [stock exchange](/stock-exchange), capturing any price differential. This is risk-free arbitrage if the IPO does not change and markets behave rationally, though in practice IPO opens are unpredictable and speculative.
+**Arbitrage.** Some traders buy when-issued and plan to sell at the opening on the [stock exchange](/stock-exchange/), capturing any price differential. This is risk-free arbitrage if the IPO does not change and markets behave rationally, though in practice IPO opens are unpredictable and speculative.
 
 ## Typical pricing patterns
 
@@ -74,9 +74,9 @@ However, if sentiment is extremely bullish, when-issued shares can trade at a pr
 
 ## When-issued trading in bonds
 
-[When-issued trading](/when-issued-trading) is also common in [bond](/bond) issuance. When the US Treasury announces a new offering, the bonds begin trading when-issued in the dealer market before the actual settlement date. Prices in the when-issued [bond](/bond) market often move tightly around the auction results.
+[When-issued trading](/when-issued-trading/) is also common in [bond](/bond/) issuance. When the US Treasury announces a new offering, the bonds begin trading when-issued in the dealer market before the actual settlement date. Prices in the when-issued [bond](/bond/) market often move tightly around the auction results.
 
-Corporate [bonds](/bond) also trade when-issued after their pricing and before their official debut in the [secondary bond market](/bond).
+Corporate [bonds](/bond/) also trade when-issued after their pricing and before their official debut in the [secondary bond market](/bond/).
 
 ## Risks and considerations
 
@@ -94,11 +94,11 @@ The SEC treats when-issued trading as unregulated in some respects but continues
 
 In 2020, the SEC clarified that when-issued trading is subject to Rule 10b-5 (anti-fraud) and can violate securities law if manipulative. The SEC is particularly watchful for manipulation designed to influence the IPO price or the official market opening.
 
-When-issued trading in Treasuries and other official government securities is monitored by the Treasury Department and the [Federal Reserve](/federal-reserve).
+When-issued trading in Treasuries and other official government securities is monitored by the Treasury Department and the [Federal Reserve](/federal-reserve/).
 
 ## The opening and transition to official trading
 
-The moment a security "pops" or debuts on the [stock exchange](/stock-exchange), the when-issued market ends and official trading begins. The opening price is typically influenced by when-issued trading but is independently determined by the first official order book.
+The moment a security "pops" or debuts on the [stock exchange](/stock-exchange/), the when-issued market ends and official trading begins. The opening price is typically influenced by when-issued trading but is independently determined by the first official order book.
 
 If when-issued shares have been trading at $82 and the IPO price is $80, the opening price might be $82–$85, depending on order imbalances and early supply and demand. The price gap between when-issued and the official opening is neither surprising nor necessarily unfair — it represents the transition from a thinly traded forward market to an official, deeply liquid market.
 
@@ -110,18 +110,18 @@ Retail investors who missed the when-issued market can participate at the offici
 
 ### Closely related
 
-- [Gray-market securities](/gray-market-securities) — the broader category
-- [Initial public offering](/initial-public-offering) — when-issued trading accompanies IPOs
-- [Secondary market](/secondary-market) — where official trading begins after when-issued
-- [Stock exchange](/stock-exchange) — the official listing venue
-- [Over-the-counter market](/over-the-counter-market) — the venue for when-issued trading
+- [Gray-market securities](/gray-market-securities/) — the broader category
+- [Initial public offering](/initial-public-offering/) — when-issued trading accompanies IPOs
+- [Secondary market](/secondary-market/) — where official trading begins after when-issued
+- [Stock exchange](/stock-exchange/) — the official listing venue
+- [Over-the-counter market](/over-the-counter-market/) — the venue for when-issued trading
 
 ### Wider context
 
-- [Liquidity](/secondary-market) — a benefit of when-issued trading
-- [Price discovery](/stock-market) — when-issued market facilitates it
-- [Stock](/stock) — the typical security trading when-issued
-- [Bond](/bond) — also trades when-issued
-- [Fraud](/otc-pink) — a risk in less-regulated markets
+- [Liquidity](/secondary-market/) — a benefit of when-issued trading
+- [Price discovery](/stock-market/) — when-issued market facilitates it
+- [Stock](/stock/) — the typical security trading when-issued
+- [Bond](/bond/) — also trades when-issued
+- [Fraud](/otc-pink/) — a risk in less-regulated markets
 
 </div>

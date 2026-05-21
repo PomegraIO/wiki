@@ -86,17 +86,17 @@ His impact is difficult to overstate. He made low-cost index investing mainstrea
 
 ### Closely related
 
-- [Warren Buffett](/warren-buffett) — An advocate of low-cost indexing for most investors
+- [Warren Buffett](/warren-buffett/) — An advocate of low-cost indexing for most investors
 - Burton Malkiel — Advocate of the efficient market hypothesis
-- [David Swensen](/david-swensen) — An institutional investor and Bogle admirer
-- [Peter Lynch](/peter-lynch) — An active manager who outperformed
+- [David Swensen](/david-swensen/) — An institutional investor and Bogle admirer
+- [Peter Lynch](/peter-lynch/) — An active manager who outperformed
 
 ### Wider context
 
-- [Index fund](/index-fund) — Which he created
-- [ETF](/etf) — The modern evolution of his approach
+- [Index fund](/index-fund/) — Which he created
+- [ETF](/etf/) — The modern evolution of his approach
 - Passive investing — His philosophy
 - Efficient market hypothesis — His theoretical foundation
-- [Mutual fund](/mutual-fund) — Which he transformed
+- [Mutual fund](/mutual-fund/) — Which he transformed
 
 </div>

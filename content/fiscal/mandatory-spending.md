@@ -11,11 +11,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*A **mandatory spending** program is one where the government must spend money according to law, without needing annual Congressional appropriation. The largest mandatory programs are [entitlements](/entitlement-spending) like Social Security, Medicare, and Medicaid; the government spends whatever is needed to serve eligible beneficiaries.*
+*A **mandatory spending** program is one where the government must spend money according to law, without needing annual Congressional appropriation. The largest mandatory programs are [entitlements](/entitlement-spending/) like Social Security, Medicare, and Medicaid; the government spends whatever is needed to serve eligible beneficiaries.*
 
 <div class="wiki-hatnote">
 
-This entry covers automatic spending. For spending that requires annual appropriation, see [discretionary spending](/discretionary-spending); for income support specifically, see [transfer payment](/transfer-payment); for long-term entitlements, see [entitlement spending](/entitlement-spending).
+This entry covers automatic spending. For spending that requires annual appropriation, see [discretionary spending](/discretionary-spending/); for income support specifically, see [transfer payment](/transfer-payment/); for long-term entitlements, see [entitlement spending](/entitlement-spending/).
 
 </div>
 
@@ -35,8 +35,8 @@ This entry covers automatic spending. For spending that requires annual appropri
 | **Percent of budget** | ~60% (and rising) |
 | **Growth drivers** | Demographic aging, healthcare inflation |
 | **Can be changed** | Only by new legislation |
-| **Unaffected by** | Annual [appropriations bills](/appropriations-bill) |
-| **Key difference from [discretionary spending](/discretionary-spending)** | Automatic; no annual approval needed |
+| **Unaffected by** | Annual [appropriations bills](/appropriations-bill/) |
+| **Key difference from [discretionary spending](/discretionary-spending/)** | Automatic; no annual approval needed |
 
 </aside>
 
@@ -48,7 +48,7 @@ The government does not need to appropriate funds each year for Social Security 
 
 ## Major mandatory spending programs
 
-**Social Security:** The largest single program. Provides [retirement](/entitlement-spending), disability, and survivor benefits. Covers roughly 70 million people.
+**Social Security:** The largest single program. Provides [retirement](/entitlement-spending/), disability, and survivor benefits. Covers roughly 70 million people.
 
 **Medicare:** Health insurance for the elderly (65+). Covers roughly 67 million people.
 
@@ -72,11 +72,11 @@ Mandatory spending grows faster than discretionary spending because of demograph
 
 **Benefit formulas:** Many benefits are indexed to inflation or wages. Cost-of-living adjustments automatically raise benefits.
 
-Because mandatory spending is on autopilot, it crowds out [discretionary spending](/discretionary-spending). To reduce the [budget deficit](/budget-deficit) without cutting mandatory programs, Congress would have to cut defense, infrastructure, education, and research — politically difficult choices.
+Because mandatory spending is on autopilot, it crowds out [discretionary spending](/discretionary-spending/). To reduce the [budget deficit](/budget-deficit/) without cutting mandatory programs, Congress would have to cut defense, infrastructure, education, and research — politically difficult choices.
 
-## Mandatory spending and [budget deficits](/budget-deficit)
+## Mandatory spending and [budget deficits](/budget-deficit/)
 
-Mandatory spending is the main driver of long-term fiscal challenges. Without changes to Social Security or Medicare, mandatory spending will continue growing faster than tax revenue. This forces larger [deficits](/budget-deficit) unless taxes are raised or [discretionary spending](/discretionary-spending) is slashed.
+Mandatory spending is the main driver of long-term fiscal challenges. Without changes to Social Security or Medicare, mandatory spending will continue growing faster than tax revenue. This forces larger [deficits](/budget-deficit/) unless taxes are raised or [discretionary spending](/discretionary-spending/) is slashed.
 
 Addressing long-term deficits requires addressing mandatory spending — either by raising payroll taxes, reducing benefits, increasing the retirement age, or some combination.
 
@@ -86,9 +86,9 @@ The distinction is fundamental to budget debates:
 
 **Mandatory spending:** Set by law, grows automatically, requires legislative change to control.
 
-**[Discretionary spending](/discretionary-spending):** Subject to annual [appropriations bills](/appropriations-bill), can be adjusted year-to-year.
+**[Discretionary spending](/discretionary-spending/):** Subject to annual [appropriations bills](/appropriations-bill/), can be adjusted year-to-year.
 
-Because [discretionary spending](/discretionary-spending) is easier to cut (it goes through annual appropriations), it has been the target of most deficit-reduction efforts. Mandatory spending, while larger and faster-growing, requires politically difficult changes to existing law.
+Because [discretionary spending](/discretionary-spending/) is easier to cut (it goes through annual appropriations), it has been the target of most deficit-reduction efforts. Mandatory spending, while larger and faster-growing, requires politically difficult changes to existing law.
 
 ## See also
 
@@ -96,23 +96,23 @@ Because [discretionary spending](/discretionary-spending) is easier to cut (it g
 
 ### Closely related
 
-- [Discretionary spending](/discretionary-spending) — spending requiring annual appropriation
-- [Entitlement spending](/entitlement-spending) — [mandatory spending](/mandatory-spending) on eligibility-based programs
-- [Transfer payment](/transfer-payment) — income support like unemployment insurance
-- [Appropriations bill](/appropriations-bill) — does not cover [mandatory spending](/mandatory-spending)
+- [Discretionary spending](/discretionary-spending/) — spending requiring annual appropriation
+- [Entitlement spending](/entitlement-spending/) — [mandatory spending](/mandatory-spending/) on eligibility-based programs
+- [Transfer payment](/transfer-payment/) — income support like unemployment insurance
+- [Appropriations bill](/appropriations-bill/) — does not cover [mandatory spending](/mandatory-spending/)
 
 ### Social programs
 
 - Payroll tax — finances Social Security and Medicare
-- Income tax marginal — would need to rise to fund higher [mandatory spending](/mandatory-spending)
-- [Budget deficit](/budget-deficit) — driven by [mandatory spending](/mandatory-spending) growth
-- [National debt](/national-debt) — accumulated due to [mandatory spending](/mandatory-spending)-driven deficits
+- Income tax marginal — would need to rise to fund higher [mandatory spending](/mandatory-spending/)
+- [Budget deficit](/budget-deficit/) — driven by [mandatory spending](/mandatory-spending/) growth
+- [National debt](/national-debt/) — accumulated due to [mandatory spending](/mandatory-spending/)-driven deficits
 
 ### Fiscal policy
 
-- [Fiscal consolidation](/fiscal-consolidation) — requires addressing [mandatory spending](/mandatory-spending)
-- [Austerity](/austerity) — difficult without [mandatory spending](/mandatory-spending) reform
-- [Fiscal policy contractionary](/fiscal-policy-contractionary) — reduces [mandatory spending](/mandatory-spending) via policy change
-- [Primary balance](/primary-balance) — [mandatory spending](/mandatory-spending) growth worsens balance
+- [Fiscal consolidation](/fiscal-consolidation/) — requires addressing [mandatory spending](/mandatory-spending/)
+- [Austerity](/austerity/) — difficult without [mandatory spending](/mandatory-spending/) reform
+- [Fiscal policy contractionary](/fiscal-policy-contractionary/) — reduces [mandatory spending](/mandatory-spending/) via policy change
+- [Primary balance](/primary-balance/) — [mandatory spending](/mandatory-spending/) growth worsens balance
 
 </div>

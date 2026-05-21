@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to [herding investors](/herding-investors), [fomo](/fomo), and information cascades. For collective irrationality, see madness of crowds.
+Related to [herding investors](/herding-investors/), [fomo](/fomo/), and information cascades. For collective irrationality, see madness of crowds.
 
 </div>
 
@@ -32,7 +32,7 @@ Related to [herding investors](/herding-investors), [fomo](/fomo), and informati
 | **Driver** | Information cascades, social proof, fear of regret |
 | **Operates on** | Stock selection, sector allocation, bubble formation |
 | **Investor impact** | Buying tops; selling bottoms; synchronized panic; irrational exuberance |
-| **Related phenomenon** | [Herding investors](/herding-investors), [fomo](/fomo), madness of crowds |
+| **Related phenomenon** | [Herding investors](/herding-investors/), [fomo](/fomo/), madness of crowds |
 | **Market impact** | Amplifies cycles; increases volatility |
 
 </aside>
@@ -51,7 +51,7 @@ Several mechanisms drive herd behavior:
 
 ## Herd behavior in bull markets
 
-During a [bull market](/bull-market), herding is visible everywhere. Each new investor enters the market because others are making money. This pushes prices up, creating returns that attract more investors. The higher prices go, the more people join the herd, not because valuations justify it, but because "everyone is doing it."
+During a [bull market](/bull-market/), herding is visible everywhere. Each new investor enters the market because others are making money. This pushes prices up, creating returns that attract more investors. The higher prices go, the more people join the herd, not because valuations justify it, but because "everyone is doing it."
 
 Tech stocks in the dot-com bubble of 1999 were a herd phenomenon. Companies with no profits and no clear path to profitability traded at billion-dollar valuations because "the internet is the future, and everyone is investing in it." Herd behavior fed itself.
 
@@ -69,9 +69,9 @@ It is important to distinguish herd behavior from *rational* consensus. If a com
 
 Herd behavior is when the crowd moves not because fundamentals have changed, but because the crowd is moving. It is self-referential, not grounded in reality. The difference is subtle but crucial.
 
-A [bull market](/bull-market) grounded in real productivity gains and profit growth is rational, even if it looks like herding (everyone buying stocks). A bubble grounded purely in "everyone else is buying" is true herding.
+A [bull market](/bull-market/) grounded in real productivity gains and profit growth is rational, even if it looks like herding (everyone buying stocks). A bubble grounded purely in "everyone else is buying" is true herding.
 
-## Distinguishing herding from [overconfidence bias](/overconfidence-bias)
+## Distinguishing herding from [overconfidence bias](/overconfidence-bias/)
 
 An overconfident investor buys a stock because she believes she has skill or insight. A herding investor buys the same stock because everyone else is. Both make suboptimal decisions, but the source differs. Herding is about following the crowd; overconfidence is about trusting yourself.
 
@@ -89,17 +89,17 @@ An overconfident investor buys a stock because she believes she has skill or ins
 
 ### Closely related
 
-- [Herding investors](/herding-investors) — herding as a systematic phenomenon
-- [Fomo](/fomo) — fear of missing out driving herding
+- [Herding investors](/herding-investors/) — herding as a systematic phenomenon
+- [Fomo](/fomo/) — fear of missing out driving herding
 - Madness of crowds — collective irrationality
-- [Information cascade](/base-rate-neglect) — cascading belief without information
+- [Information cascade](/base-rate-neglect/) — cascading belief without information
 - Animal spirits — Keynes's concept of irrational crowd behavior
 
 ### Wider context
 
-- [Bull market](/bull-market) · [Bear market](/bear-market) — the ultimate herd phenomena
-- [Overconfidence bias](/overconfidence-bias) — herding vs. individual conviction
-- [Confirmation bias](/confirmation-bias) — reinforcing the herd's beliefs
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — the ultimate herd phenomena
+- [Overconfidence bias](/overconfidence-bias/) — herding vs. individual conviction
+- [Confirmation bias](/confirmation-bias/) — reinforcing the herd's beliefs
 - Market sentiment indicators — measuring the herd's mood
 - Behavioral asset pricing — how herding affects prices
 

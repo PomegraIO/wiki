@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **solo 401(k)** (also called a one-participant [401(k)](/401k-plan)) is a retirement plan for self-employed people with no employees. It combines the advantages of a [401(k)](/401k-plan) — high contributions, loan options — with simplicity suitable for solo operators.*
+*A **solo 401(k)** (also called a one-participant [401(k)](/401k-plan/)) is a retirement plan for self-employed people with no employees. It combines the advantages of a [401(k)](/401k-plan/) — high contributions, loan options — with simplicity suitable for solo operators.*
 
 <div class="wiki-hatnote">
 
-For self-employed with employees, see [SEP IRA](/sep-ira) and [SIMPLE IRA](/simple-ira); for individual accounts, see [traditional IRA](/traditional-ira) and [Roth IRA](/roth-ira).
+For self-employed with employees, see [SEP IRA](/sep-ira/) and [SIMPLE IRA](/simple-ira/); for individual accounts, see [traditional IRA](/traditional-ira/) and [Roth IRA](/roth-ira/).
 
 </div>
 
@@ -51,15 +51,15 @@ For example: a freelancer earning $100,000 in net self-employment income could c
 
 **Employer contribution:** You (as the employer) contribute 25% of net self-employment income after the employer contribution is made. This is calculated as roughly 20% of gross self-employment income.
 
-The combination allows much higher contributions than an [IRA](/traditional-ira), which tops out at $7,000.
+The combination allows much higher contributions than an [IRA](/traditional-ira/), which tops out at $7,000.
 
 ## Roth solo 401(k)
 
-Some solo 401(k) plans allow Roth contributions — after-tax employee deferrals that grow tax-free. This is not available in a [traditional IRA](/traditional-ira), making it valuable for high earners.
+Some solo 401(k) plans allow Roth contributions — after-tax employee deferrals that grow tax-free. This is not available in a [traditional IRA](/traditional-ira/), making it valuable for high earners.
 
 ## Loan option
 
-Unlike a [traditional IRA](/traditional-ira) or [SEP IRA](/sep-ira), a solo 401(k) allows you to borrow against your balance (up to 50% or $50,000, whichever is less). This provides emergency liquidity and is useful for large purchases (home down payment, equipment).
+Unlike a [traditional IRA](/traditional-ira/) or [SEP IRA](/sep-ira/), a solo 401(k) allows you to borrow against your balance (up to 50% or $50,000, whichever is less). This provides emergency liquidity and is useful for large purchases (home down payment, equipment).
 
 Loans must be repaid with interest, and if you fail to repay, the outstanding balance is treated as a withdrawal and taxed plus penalized.
 
@@ -86,10 +86,10 @@ For most solo operators, a SEP IRA is simpler. A solo 401(k) is better if you wa
 
 ## Withdrawal and RMD
 
-Standard [IRA](/traditional-ira)-like rules apply:
+Standard [IRA](/traditional-ira/)-like rules apply:
 - Penalty-free withdrawal at 59½.
 - 10% penalty (plus income tax) for withdrawal before 59½ (with exceptions).
-- [Required minimum distributions](/required-minimum-distribution-personal) begin at age 73.
+- [Required minimum distributions](/required-minimum-distribution-personal/) begin at age 73.
 
 ## See also
 
@@ -97,16 +97,16 @@ Standard [IRA](/traditional-ira)-like rules apply:
 
 ### Closely related
 
-- [SEP IRA](/sep-ira) — simpler alternative with similar contribution limits
-- [Traditional IRA](/traditional-ira) — lower-contribution-limit alternative
-- [401(k) plan](/401k-plan) — employer-sponsored version
-- [SIMPLE IRA](/simple-ira) — for self-employed with employees
+- [SEP IRA](/sep-ira/) — simpler alternative with similar contribution limits
+- [Traditional IRA](/traditional-ira/) — lower-contribution-limit alternative
+- [401(k) plan](/401k-plan/) — employer-sponsored version
+- [SIMPLE IRA](/simple-ira/) — for self-employed with employees
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — high contributions accelerate financial independence
-- [The four-percent rule](/the-four-percent-rule) — how much solo 401(k) can sustain
-- [Compound interest](/compound-interest) — long-term growth
-- [Self-employment income](/savings-rate) — income source for solo 401(k) contributions
+- [FIRE movement](/fire-movement/) — high contributions accelerate financial independence
+- [The four-percent rule](/the-four-percent-rule/) — how much solo 401(k) can sustain
+- [Compound interest](/compound-interest/) — long-term growth
+- [Self-employment income](/savings-rate/) — income source for solo 401(k) contributions
 
 </div>

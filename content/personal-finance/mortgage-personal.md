@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For fixed-rate mortgages, see [fixed-rate mortgage](/fixed-rate-mortgage-personal); for adjustable rates, see [adjustable-rate mortgage](/adjustable-rate-mortgage-personal); for refinancing, see refinance.
+For fixed-rate mortgages, see [fixed-rate mortgage](/fixed-rate-mortgage-personal/); for adjustable rates, see [adjustable-rate mortgage](/adjustable-rate-mortgage-personal/); for refinancing, see refinance.
 
 </div>
 
@@ -109,8 +109,8 @@ Most financial advice: do not expect home appreciation; treat the house as shelt
 
 ### Closely related
 
-- [Fixed-rate mortgage](/fixed-rate-mortgage-personal) — most common type
-- [Adjustable-rate mortgage](/adjustable-rate-mortgage-personal) — rate varies
+- [Fixed-rate mortgage](/fixed-rate-mortgage-personal/) — most common type
+- [Adjustable-rate mortgage](/adjustable-rate-mortgage-personal/) — rate varies
 - Refinance — replacing existing mortgage
 - Cash-out refinance — borrowing against equity
 - HELOC — line of credit against home equity
@@ -118,10 +118,10 @@ Most financial advice: do not expect home appreciation; treat the house as shelt
 
 ### Wider context
 
-- [Homeowners insurance](/homeowners-insurance) — required by lender
-- [Property tax](/budgeting-methods) — paid alongside mortgage
-- [Budgeting methods](/budgeting-methods) — mortgage as major budget item
-- [Emergency fund](/emergency-fund) — covers mortgage if income disrupted
+- [Homeowners insurance](/homeowners-insurance/) — required by lender
+- [Property tax](/budgeting-methods/) — paid alongside mortgage
+- [Budgeting methods](/budgeting-methods/) — mortgage as major budget item
+- [Emergency fund](/emergency-fund/) — covers mortgage if income disrupted
 - Debt avalanche · Debt snowball — paying down mortgage
 
 </div>

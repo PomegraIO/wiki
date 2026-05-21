@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **UBS Group AG** is Switzerland's largest [bank](/broker) and one of the world's leading financial institutions, headquartered in Zurich. Operating primarily in wealth management, asset management, and investment banking, UBS serves ultra-high-net-worth individuals, corporations, and institutional investors globally and is a major player in international capital markets.*
+*The **UBS Group AG** is Switzerland's largest [bank](/broker/) and one of the world's leading financial institutions, headquartered in Zurich. Operating primarily in wealth management, asset management, and investment banking, UBS serves ultra-high-net-worth individuals, corporations, and institutional investors globally and is a major player in international capital markets.*
 
 <div class="wiki-hatnote">
 
@@ -81,18 +81,18 @@ UBS operates globally with offices in major financial centers. The firm is subje
 
 ### Closely related
 
-- [Bank](/broker) — the category
+- [Bank](/broker/) — the category
 - Credit Suisse — Swiss competitor (now absorbed by UBS)
-- [JPMorgan Chase](/jpmorgan-chase) — international competitor
-- [Goldman Sachs](/goldman-sachs) — investment banking competitor
-- [Morgan Stanley](/morgan-stanley) — wealth management competitor
+- [JPMorgan Chase](/jpmorgan-chase/) — international competitor
+- [Goldman Sachs](/goldman-sachs/) — investment banking competitor
+- [Morgan Stanley](/morgan-stanley/) — wealth management competitor
 
 ### Wider context
 
 - Wealth management — core business
-- [Asset allocation](/asset-allocation) — investment management
+- [Asset allocation](/asset-allocation/) — investment management
 - Institutional investor — clients
-- [Investment banking](/broker) — advisory services
+- [Investment banking](/broker/) — advisory services
 - Trading — profit source
 - Safe haven — Swiss positioning
 - Financial center — Zurich role

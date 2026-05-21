@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **mark-to-market (MTM)** process revalues [futures contract](/futures-contract)s and other derivatives to current market prices at the end of each trading day. Gains and losses are calculated and immediately credited or debited to the trader's account. This daily settlement—unique to futures and some exchange-traded options—differs from [forward contract](/forward-contract)s, which settle only at [expiration date](/expiration-date). Mark-to-market reduces counterparty risk and forces traders to post [margin](/initial-margin) to maintain positions.*
+*The **mark-to-market (MTM)** process revalues [futures contract](/futures-contract/)s and other derivatives to current market prices at the end of each trading day. Gains and losses are calculated and immediately credited or debited to the trader's account. This daily settlement—unique to futures and some exchange-traded options—differs from [forward contract](/forward-contract/)s, which settle only at [expiration date](/expiration-date/). Mark-to-market reduces counterparty risk and forces traders to post [margin](/initial-margin/) to maintain positions.*
 
 <aside class="wiki-infobox">
 
@@ -53,9 +53,9 @@ The trader's account balance moves daily with the contract's value.
 
 ## Margin and forced liquidation
 
-If daily losses drain the account below [maintenance margin](/maintenance-margin), the trader faces a **margin call**: deposit more funds or close the position. This forces risk management and prevents traders from accumulating unlimited losses.
+If daily losses drain the account below [maintenance margin](/maintenance-margin/), the trader faces a **margin call**: deposit more funds or close the position. This forces risk management and prevents traders from accumulating unlimited losses.
 
-A trader with $5,000 [initial margin](/initial-margin) might have $3,500 [maintenance margin](/maintenance-margin). If losses reach $1,500, the trader is below maintenance and must deposit cash or sell the contract.
+A trader with $5,000 [initial margin](/initial-margin/) might have $3,500 [maintenance margin](/maintenance-margin/). If losses reach $1,500, the trader is below maintenance and must deposit cash or sell the contract.
 
 ## Accounting implications
 
@@ -65,7 +65,7 @@ In futures, MTM forces **realization**. The daily gain is treated as realized in
 
 ## Counterparty risk reduction
 
-The fundamental purpose of MTM is to reduce counterparty risk. With [forward contract](/forward-contract)s, losses accumulate over time and are settled at maturity. If the counterparty defaults before maturity, you lose everything.
+The fundamental purpose of MTM is to reduce counterparty risk. With [forward contract](/forward-contract/)s, losses accumulate over time and are settled at maturity. If the counterparty defaults before maturity, you lose everything.
 
 With futures and MTM, losses are settled daily. If the counterparty defaults tomorrow, you lose only today's loss, not weeks or months of accumulated exposure.
 
@@ -81,9 +81,9 @@ With futures and MTM, losses are settled daily. If the counterparty defaults tom
 
 ## OTC swaps and MTM
 
-[Swap](/swap) contracts traded OTC typically do **not** have daily MTM. They settle at maturity (for fixed-term swaps) or on termination. Some swap dealers offer MTM settlements for special arrangements.
+[Swap](/swap/) contracts traded OTC typically do **not** have daily MTM. They settle at maturity (for fixed-term swaps) or on termination. Some swap dealers offer MTM settlements for special arrangements.
 
-The lack of daily settlement is why [swap](/swap) credit risk is higher than futures.
+The lack of daily settlement is why [swap](/swap/) credit risk is higher than futures.
 
 ## See also
 
@@ -102,7 +102,7 @@ The lack of daily settlement is why [swap](/swap) credit risk is higher than fut
 - [Counterparty risk](/bond/) — reduced by MTM
 - [Liquidity risk](/stock-market/) — MTM enables exits
 - Margin calls — triggered by MTM losses
-- [Forced liquidation](/stock-market) — result of margin call
+- [Forced liquidation](/stock-market/) — result of margin call
 
 ### Accounting
 

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **Pac-Man defense** is an aggressive takeover defence in which a target company launches its own [hostile takeover](/hostile-takeover) bid for the would-be acquirer. Rather than defending passively with a [poison pill](/poison-pill) or [white knight](/white-knight), the target turns the tables and attempts to acquire its attacker. Named after the arcade game where the protagonist eats its pursuers, a Pac-Man defense is rare and risky — the target must be large enough and well-capitalized enough to credibly threaten the acquirer.*
+*A **Pac-Man defense** is an aggressive takeover defence in which a target company launches its own [hostile takeover](/hostile-takeover/) bid for the would-be acquirer. Rather than defending passively with a [poison pill](/poison-pill/) or [white knight](/white-knight/), the target turns the tables and attempts to acquire its attacker. Named after the arcade game where the protagonist eats its pursuers, a Pac-Man defense is rare and risky — the target must be large enough and well-capitalized enough to credibly threaten the acquirer.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Pac-Man defense as a counterattack strategy. For other takeover defences, see [poison pill](/poison-pill), [white knight](/white-knight), and [crown jewel defence](/crown-jewel-defense).
+This entry covers the Pac-Man defense as a counterattack strategy. For other takeover defences, see [poison pill](/poison-pill/), [white knight](/white-knight/), and [crown jewel defence](/crown-jewel-defense/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers the Pac-Man defense as a counterattack strategy. For other tak
 | **Success rate** | Very low; usually fails |
 | **Outcome** | Often ends with negotiated merger at middle price |
 | **Financial requirement** | Target must be large and well-capitalized |
-| **Modern use** | Virtually extinct; [poison pill](/poison-pill) is standard |
+| **Modern use** | Virtually extinct; [poison pill](/poison-pill/) is standard |
 
 </aside>
 
@@ -47,7 +47,7 @@ When Company A launches a hostile bid for Company B, Company B's board of direct
 - Well-capitalized or able to quickly arrange financing
 - In a business where the combined entity (B + A) makes strategic sense
 
-Company B announces a [tender offer](/tender-offer) or [proxy fight](/proxy-fight) to acquire Company A's shareholders. This creates a standoff: A is trying to buy B, and B is trying to buy A. Simultaneously, both companies are facing hostile bids from each other, and both are vulnerable.
+Company B announces a [tender offer](/tender-offer/) or [proxy fight](/proxy-fight/) to acquire Company A's shareholders. This creates a standoff: A is trying to buy B, and B is trying to buy A. Simultaneously, both companies are facing hostile bids from each other, and both are vulnerable.
 
 **Resolution:** Typically, one of several outcomes occurs:
 
@@ -73,8 +73,8 @@ Few pure Pac-Man defenses have been fully executed and successful because:
 
 In the modern era, Pac-Man defenses are virtually extinct. They have been replaced by more effective and efficient defences:
 
-- **Poison pill.** A standard [poison pill](/poison-pill) deters hostile bids without the company having to launch its own expensive counter-bid.
-- **Proxy advisor influence.** A well-run communications campaign can persuade [proxy advisors](/proxy-advisor) to recommend against the hostile bid.
+- **Poison pill.** A standard [poison pill](/poison-pill/) deters hostile bids without the company having to launch its own expensive counter-bid.
+- **Proxy advisor influence.** A well-run communications campaign can persuade [proxy advisors](/proxy-advisor/) to recommend against the hostile bid.
 - **White knight.** Finding a friendly acquirer is easier and more efficient than launching a counter-acquisition.
 
 The Pac-Man defense is now mainly a historical curiosity from the 1980s takeover wars, mentioned in business school case studies but rarely deployed in practice.
@@ -91,18 +91,18 @@ If the threat is not credible, the original bidder will call the bluff and proce
 
 ### Closely related
 
-- [Hostile takeover](/hostile-takeover) — what Pac-Man defends against
-- [Poison pill](/poison-pill) — more effective modern defence
-- [White knight](/white-knight) — alternative aggressive defence
-- [Tender offer](/tender-offer) — mechanism used in counter-bid
-- [Proxy fight](/proxy-fight) — alternative mechanism for counter-bid
+- [Hostile takeover](/hostile-takeover/) — what Pac-Man defends against
+- [Poison pill](/poison-pill/) — more effective modern defence
+- [White knight](/white-knight/) — alternative aggressive defence
+- [Tender offer](/tender-offer/) — mechanism used in counter-bid
+- [Proxy fight](/proxy-fight/) — alternative mechanism for counter-bid
 
 ### Wider context
 
-- [Crown jewel defence](/crown-jewel-defense) — alternative defence strategy
-- [Scorched earth defence](/scorched-earth-defense) — another aggressive alternative
-- [Change of control provision](/change-of-control-provision) — may trigger in Pac-Man scenarios
+- [Crown jewel defence](/crown-jewel-defense/) — alternative defence strategy
+- [Scorched earth defence](/scorched-earth-defense/) — another aggressive alternative
+- [Change of control provision](/change-of-control-provision/) — may trigger in Pac-Man scenarios
 - Board of directors — must authorize counter-bid
-- [Merger](/merger) — negotiated outcome in many Pac-Man scenarios
+- [Merger](/merger/) — negotiated outcome in many Pac-Man scenarios
 
 </div>

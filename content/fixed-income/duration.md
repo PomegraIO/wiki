@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For the curvature in the price-yield relationship, see [convexity](/convexity). For the interest-rate risk itself, see [bond duration risk](/bond-duration-risk).
+For the curvature in the price-yield relationship, see [convexity](/convexity/). For the interest-rate risk itself, see [bond duration risk](/bond-duration-risk/).
 
 </div>
 
@@ -46,7 +46,7 @@ For the curvature in the price-yield relationship, see [convexity](/convexity). 
 
 The weighting reflects the timing of cash flows. Early coupons (received soon) have low weight; the principal repayment (received at year 10) has high weight.
 
-For a [zero-coupon bond](/zero-coupon-bond), duration equals maturity (all cash flow received at maturity). For a high-coupon bond, duration is much shorter than maturity (many coupons returned early).
+For a [zero-coupon bond](/zero-coupon-bond/), duration equals maturity (all cash flow received at maturity). For a high-coupon bond, duration is much shorter than maturity (many coupons returned early).
 
 ## Modified duration and price sensitivity
 
@@ -68,7 +68,7 @@ Duration and maturity are different:
 - **Maturity** = the date the bond matures
 - **Duration** = the weighted average time to cash flows
 
-A 10-year bond with a 4% [coupon](/coupon-rate) has duration of approximately 8.5 years. A 10-year bond with an 8% [coupon](/coupon-rate) has duration of approximately 7 years (shorter, because coupons are received earlier).
+A 10-year bond with a 4% [coupon](/coupon-rate/) has duration of approximately 8.5 years. A 10-year bond with an 8% [coupon](/coupon-rate/) has duration of approximately 7 years (shorter, because coupons are received earlier).
 
 This matters for interest-rate risk. A 10-year 8% coupon bond is less sensitive to rate changes than a 10-year 4% coupon bond, despite having the same maturity.
 
@@ -80,17 +80,17 @@ This is useful for liability matching. An insurance company with liabilities due
 
 ## Negative duration
 
-Some securities have negative duration — their prices rise when yields rise. [Inverse-floating-rate bonds](/bond-duration-risk) are an example. These are rare and used primarily for hedging.
+Some securities have negative duration — their prices rise when yields rise. [Inverse-floating-rate bonds](/bond-duration-risk/) are an example. These are rare and used primarily for hedging.
 
 ## Duration and convexity
 
-Duration measures the linear relationship between price and yield. But the relationship is curved — bonds have **positive [convexity](/convexity)**, meaning they gain more in price when rates fall than they lose when rates rise (by the same amount).
+Duration measures the linear relationship between price and yield. But the relationship is curved — bonds have **positive [convexity](/convexity/)**, meaning they gain more in price when rates fall than they lose when rates rise (by the same amount).
 
-For large rate moves, [convexity](/convexity) becomes important. For small moves, duration dominates.
+For large rate moves, [convexity](/convexity/) becomes important. For small moves, duration dominates.
 
 ## Effective duration for complex bonds
 
-For [callable bonds](/callable-bond) and other complex securities, **effective duration** accounts for the option-adjusted characteristics. A [callable bond](/callable-bond) has shorter effective duration than a straight bond because the call option limits upside when rates fall.
+For [callable bonds](/callable-bond/) and other complex securities, **effective duration** accounts for the option-adjusted characteristics. A [callable bond](/callable-bond/) has shorter effective duration than a straight bond because the call option limits upside when rates fall.
 
 ## Portfolio management use
 
@@ -102,7 +102,7 @@ Bond managers use duration actively:
 
 ## Key rate duration
 
-For a portfolio manager, "key rate duration" measures sensitivity to specific parts of the [yield curve](/yield-curve). A portfolio might have 5-year key rate duration of +2 and 10-year key rate duration of -1, reflecting different sensitivities across the curve.
+For a portfolio manager, "key rate duration" measures sensitivity to specific parts of the [yield curve](/yield-curve/). A portfolio might have 5-year key rate duration of +2 and 10-year key rate duration of -1, reflecting different sensitivities across the curve.
 
 ## See also
 
@@ -110,18 +110,18 @@ For a portfolio manager, "key rate duration" measures sensitivity to specific pa
 
 ### Closely related
 
-- [Convexity](/convexity) — curvature in the price-yield relationship
-- [Bond duration risk](/bond-duration-risk) — the interest-rate risk duration measures
-- [Callable bond](/callable-bond) — complex duration due to call option
-- [Yield to maturity](/yield-to-maturity) — affects duration calculations
-- [Interest rate](/interest-rate) — what duration measures sensitivity to
+- [Convexity](/convexity/) — curvature in the price-yield relationship
+- [Bond duration risk](/bond-duration-risk/) — the interest-rate risk duration measures
+- [Callable bond](/callable-bond/) — complex duration due to call option
+- [Yield to maturity](/yield-to-maturity/) — affects duration calculations
+- [Interest rate](/interest-rate/) — what duration measures sensitivity to
 
 ### Wider context
 
-- [Bond](/bond) — debt securities in general
-- [Central bank](/central-bank) — monetary policy affects rates and duration risk
-- [Portfolio management](/hedge-fund) — duration is core to bond portfolio management
-- [Yield curve](/yield-curve) — duration varies across the curve
-- [Diversification](/diversification) — duration is one form of portfolio risk
+- [Bond](/bond/) — debt securities in general
+- [Central bank](/central-bank/) — monetary policy affects rates and duration risk
+- [Portfolio management](/hedge-fund/) — duration is core to bond portfolio management
+- [Yield curve](/yield-curve/) — duration varies across the curve
+- [Diversification](/diversification/) — duration is one form of portfolio risk
 
 </div>

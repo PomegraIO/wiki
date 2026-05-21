@@ -10,11 +10,11 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Shanghai Stock Exchange** (SSE) is the largest [stock exchange](/stock-exchange) in mainland China and one of the fastest-growing equity markets in the world. Reopened in 1990 after decades of closure under communist rule, the SSE has grown to become home to the nation's largest corporations, from industrial giants to high-growth technology firms, and represents China's integration into global capital markets.*
+*The **Shanghai Stock Exchange** (SSE) is the largest [stock exchange](/stock-exchange/) in mainland China and one of the fastest-growing equity markets in the world. Reopened in 1990 after decades of closure under communist rule, the SSE has grown to become home to the nation's largest corporations, from industrial giants to high-growth technology firms, and represents China's integration into global capital markets.*
 
 <div class="wiki-hatnote">
 
-For China's second major exchange, see [Shenzhen Stock Exchange](/shenzhen-stock-exchange); both are now nominally coordinated through the National Stock Exchange system.
+For China's second major exchange, see [Shenzhen Stock Exchange](/shenzhen-stock-exchange/); both are now nominally coordinated through the National Stock Exchange system.
 
 </div>
 
@@ -60,13 +60,13 @@ The SSE hosts the largest Chinese bank stocks (ICBC, China Construction Bank, Ba
 
 ## Regulatory environment and state control
 
-Unlike the [New York Stock Exchange](/new-york-stock-exchange) or [London Stock Exchange](/london-stock-exchange), the SSE operates in an environment where the Chinese government retains significant influence over market operations, listings, and trading rules. The China Securities Regulatory Commission (CSRC) sets policy, but the Communist Party maintains ultimate authority over key decisions.
+Unlike the [New York Stock Exchange](/new-york-stock-exchange/) or [London Stock Exchange](/london-stock-exchange/), the SSE operates in an environment where the Chinese government retains significant influence over market operations, listings, and trading rules. The China Securities Regulatory Commission (CSRC) sets policy, but the Communist Party maintains ultimate authority over key decisions.
 
 This regulatory environment affects valuation multiples, trading patterns, and risk premia. Foreign investors demand a discount to comparable international valuations to compensate for political risk, currency convertibility restrictions, and the possibility of sudden regulatory changes.
 
 ## Market structure and opening
 
-For decades, the SSE operated as a mostly closed market. Recent years have seen progressive opening: the Shanghai-Hong Kong Stock Connect (launched 2014) allows investors in Hong Kong to buy Shanghai A-shares, and vice versa. The Shanghai-London Stock Connect links the SSE to the [London Stock Exchange](/london-stock-exchange). These links represent China's gradual integration of its capital markets with the world system.
+For decades, the SSE operated as a mostly closed market. Recent years have seen progressive opening: the Shanghai-Hong Kong Stock Connect (launched 2014) allows investors in Hong Kong to buy Shanghai A-shares, and vice versa. The Shanghai-London Stock Connect links the SSE to the [London Stock Exchange](/london-stock-exchange/). These links represent China's gradual integration of its capital markets with the world system.
 
 However, significant restrictions remain. Chinese capital controls limit the ability of residents to move money freely out of the country, and the CSRC retains power to restrict short selling, pause IPOs, or intervene in trading if it deems the market destabilized. The result is a market that oscillates between periods of rapid growth and sudden government-imposed trading halts.
 
@@ -76,19 +76,19 @@ However, significant restrictions remain. Chinese capital controls limit the abi
 
 ### Closely related
 
-- [Shenzhen Stock Exchange](/shenzhen-stock-exchange) — China's second major exchange
-- [Hong Kong Stock Exchange](/hong-kong-stock-exchange) — offshore Chinese listings
-- [Stock exchange](/stock-exchange) — the category
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — Asia's largest
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — how firms list
+- [Shenzhen Stock Exchange](/shenzhen-stock-exchange/) — China's second major exchange
+- [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) — offshore Chinese listings
+- [Stock exchange](/stock-exchange/) — the category
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — Asia's largest
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — how firms list
 
 ### Wider context
 
 - Emerging market — China's growth markets
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning in Chinese stocks
-- [Currency risk](/currency-risk) — renminbi exposure
+- [Asset allocation](/asset-allocation/) — positioning in Chinese stocks
+- [Currency risk](/currency-risk/) — renminbi exposure
 
 </div>

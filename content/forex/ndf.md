@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **NDF** — non-deliverable forward — is a [forward contract](/fx-forward) on a currency pair that is settled in cash rather than through physical exchange of the two currencies. A company with exposure to Chinese renminbi (CNH) or Indian rupee (INR) — currencies that are not freely convertible or are restricted to certain counterparties — uses NDFs to hedge without needing to actually take possession of the currency.*
+*An **NDF** — non-deliverable forward — is a [forward contract](/fx-forward/) on a currency pair that is settled in cash rather than through physical exchange of the two currencies. A company with exposure to Chinese renminbi (CNH) or Indian rupee (INR) — currencies that are not freely convertible or are restricted to certain counterparties — uses NDFs to hedge without needing to actually take possession of the currency.*
 
 <div class="wiki-hatnote">
 
-For the delivery-based alternative, see [FX Forward](/fx-forward); for options-based hedging, see [currency option](/currency-option).
+For the delivery-based alternative, see [FX Forward](/fx-forward/); for options-based hedging, see [currency option](/currency-option/).
 
 </div>
 
@@ -42,9 +42,9 @@ For the delivery-based alternative, see [FX Forward](/fx-forward); for options-b
 
 Some currencies are not freely convertible. The Chinese renminbi (CNY), the official currency, is restricted; residents and businesses cannot freely convert it to dollars. The offshore renminbi (CNH, traded in Hong Kong) is more flexible but still subject to capital controls.
 
-A US company with a subsidiary in China that earns renminbi and needs to send profits home faces a dilemma: they cannot simply buy a [forward contract](/fx-forward) because taking physical delivery of renminbi is difficult or impossible (or would require special government permission). Instead, they use an NDF.
+A US company with a subsidiary in China that earns renminbi and needs to send profits home faces a dilemma: they cannot simply buy a [forward contract](/fx-forward/) because taking physical delivery of renminbi is difficult or impossible (or would require special government permission). Instead, they use an NDF.
 
-An NDF lets them lock in an exchange rate today for cash settlement in the future. On the settlement date, they do not receive actual renminbi; instead, the bank pays them the difference between the contracted NDF rate and the actual [spot rate](/spot-exchange-rate) at settlement, in dollars.
+An NDF lets them lock in an exchange rate today for cash settlement in the future. On the settlement date, they do not receive actual renminbi; instead, the bank pays them the difference between the contracted NDF rate and the actual [spot rate](/spot-exchange-rate/) at settlement, in dollars.
 
 **Example:** A US exporter selling $1 million of goods to a Chinese buyer will be paid in renminbi in 90 days. They buy an NDF: 90-day NDF at 7.2000 CNH/USD. On settlement day:
 
@@ -56,15 +56,15 @@ The seller has hedged the currency risk, even though no renminbi ever changed ha
 
 ## How NDF rates are determined
 
-NDF rates follow the same logic as [forward rates](/forward-exchange-rate): they are based on the [spot rate](/spot-exchange-rate) plus an adjustment for the interest-rate parity. If CNH interest rates are 3% and dollar rates are 5%, the forward NDF will trade at a discount to spot (fewer renminbi per dollar in the forward).
+NDF rates follow the same logic as [forward rates](/forward-exchange-rate/): they are based on the [spot rate](/spot-exchange-rate/) plus an adjustment for the interest-rate parity. If CNH interest rates are 3% and dollar rates are 5%, the forward NDF will trade at a discount to spot (fewer renminbi per dollar in the forward).
 
 In practice, NDF rates can diverge from the theoretical forward rate because of supply and demand. There are many exporters wanting to sell renminbi forwards; fewer companies want to buy renminbi forwards. This imbalance pushes NDF rates away from the theoretical level, sometimes by 1–3% (significant on an annual basis).
 
 ## OTC market and institutional-only size
 
-NDFs are not exchange-traded and do not trade in standardized [lot sizes](/lot-size-forex). They are bespoke over-the-counter (OTC) contracts negotiated between the company and a bank. The minimum size is usually $1 million or more. A small company cannot access NDFs; they must work with a large multinational bank that has a dealing desk.
+NDFs are not exchange-traded and do not trade in standardized [lot sizes](/lot-size-forex/). They are bespoke over-the-counter (OTC) contracts negotiated between the company and a bank. The minimum size is usually $1 million or more. A small company cannot access NDFs; they must work with a large multinational bank that has a dealing desk.
 
-Pricing is negotiated bank-to-bank or bank-to-client. Spreads are wide — easily 50–100 [pips](/pip) or more — because the market is thin and the credit risk is high (you must trust the bank to pay you the difference on settlement day).
+Pricing is negotiated bank-to-bank or bank-to-client. Spreads are wide — easily 50–100 [pips](/pip/) or more — because the market is thin and the credit risk is high (you must trust the bank to pay you the difference on settlement day).
 
 ## Varieties of NDFs
 
@@ -76,7 +76,7 @@ The choice matters: fixing rates can diverge from market rates, giving one count
 
 ## Regulatory and liquidity considerations
 
-NDFs are less regulated than [currency futures](/currency-future) because they are not exchange-traded. Some jurisdictions restrict use of NDFs by non-residents or prohibit them entirely. A company should check local law before entering an NDF.
+NDFs are less regulated than [currency futures](/currency-future/) because they are not exchange-traded. Some jurisdictions restrict use of NDFs by non-residents or prohibit them entirely. A company should check local law before entering an NDF.
 
 NDFs can be unwound before maturity by taking an offsetting position with a bank, but the liquidity and pricing for unwinds can be poor. Once you are in an NDF, you are somewhat locked in.
 
@@ -86,16 +86,16 @@ NDFs can be unwound before maturity by taking an offsetting position with a bank
 
 ### Closely related
 
-- [FX Forward](/fx-forward) — delivery-based alternative
-- [Currency option](/currency-option) — optional alternative to forwards
-- [Forward exchange rate](/forward-exchange-rate) — pricing logic behind NDFs
+- [FX Forward](/fx-forward/) — delivery-based alternative
+- [Currency option](/currency-option/) — optional alternative to forwards
+- [Forward exchange rate](/forward-exchange-rate/) — pricing logic behind NDFs
 - Interest rate parity — what sets NDF rates
-- [Spot exchange rate](/spot-exchange-rate) — the benchmark for NDF settlement
+- [Spot exchange rate](/spot-exchange-rate/) — the benchmark for NDF settlement
 
 ### Wider context
 
-- [Exotic currency pair](/exotic-currency-pair) — often the base of NDFs
+- [Exotic currency pair](/exotic-currency-pair/) — often the base of NDFs
 - Currency intervention — affects NDF markets
-- [Central bank](/central-bank) — issues restrictions requiring NDFs
+- [Central bank](/central-bank/) — issues restrictions requiring NDFs
 
 </div>

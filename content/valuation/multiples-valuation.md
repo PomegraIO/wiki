@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **multiples valuation** answers a simple question: if similar companies trade at 10x earnings, and this company earns 50 million, it is worth 500 million. It is faster than [discounted cash flow](/discounted-cash-flow-valuation), requires fewer assumptions, and is often more credible in M&A because it is anchored to observable market prices. But it is also a shortcut that can hide poor thinking.*
+*A **multiples valuation** answers a simple question: if similar companies trade at 10x earnings, and this company earns 50 million, it is worth 500 million. It is faster than [discounted cash flow](/discounted-cash-flow-valuation/), requires fewer assumptions, and is often more credible in M&A because it is anchored to observable market prices. But it is also a shortcut that can hide poor thinking.*
 
 ## What a multiple is
 
@@ -60,7 +60,7 @@ A multiple expresses price as a ratio of some financial metric. The most common 
 
 ## Comparable company analysis
 
-The most rigorous application of multiples is [comparable company analysis](/comparable-company-analysis): identify truly similar firms, calculate their multiples, and apply the median to your target.
+The most rigorous application of multiples is [comparable company analysis](/comparable-company-analysis/): identify truly similar firms, calculate their multiples, and apply the median to your target.
 
 The challenge is defining "comparable." Same industry? Yes, but a large, diversified telecom is not truly comparable to a small, regional telecom. Same growth rate? Profitability? Same capital intensity? The more dimensions you require, the fewer comparables you find.
 
@@ -104,21 +104,21 @@ This cross-check keeps you honest. A DCF that implies a 30x EBITDA multiple for 
 
 ### Closely related
 
-- [Comparable company analysis](/comparable-company-analysis) — applying multiples systematically
-- [Comparable transaction analysis](/comparable-transaction-analysis) — multiples from M&A deals
-- [Relative valuation](/relative-valuation) — valuation relative to peers
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the most common multiple
+- [Comparable company analysis](/comparable-company-analysis/) — applying multiples systematically
+- [Comparable transaction analysis](/comparable-transaction-analysis/) — multiples from M&A deals
+- [Relative valuation](/relative-valuation/) — valuation relative to peers
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the most common multiple
 
 ### Alternatives
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — fundamental approach
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — multiples applied to segments
-- [Scenario valuation](/scenario-valuation) — discrete outcomes
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — fundamental approach
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — multiples applied to segments
+- [Scenario valuation](/scenario-valuation/) — discrete outcomes
 
 ### Analysis and refinement
 
-- [Peer group selection](/peer-group-selection) — choosing right comparables
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — multiples sensitivity
-- [Football field valuation](/football-field-valuation) — multiple approaches combined
+- [Peer group selection](/peer-group-selection/) — choosing right comparables
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — multiples sensitivity
+- [Football field valuation](/football-field-valuation/) — multiple approaches combined
 
 </div>

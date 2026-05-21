@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **Bitcoin halving** is a predetermined event, occurring every 210,000 blocks (roughly every four years), where the amount of newly minted Bitcoin awarded to [miners](/mining-bitcoin) is reduced by half. This gradually reduces Bitcoin's inflation rate and ensures the total supply will never exceed 21 million coins.*
+*A **Bitcoin halving** is a predetermined event, occurring every 210,000 blocks (roughly every four years), where the amount of newly minted Bitcoin awarded to [miners](/mining-bitcoin/) is reduced by half. This gradually reduces Bitcoin's inflation rate and ensures the total supply will never exceed 21 million coins.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Bitcoin halving as a mechanism. For mining, see [mining Bitcoin](/mining-bitcoin); for the broader economics of Bitcoin, see [Bitcoin](/bitcoin).
+This entry covers the Bitcoin halving as a mechanism. For mining, see [mining Bitcoin](/mining-bitcoin/); for the broader economics of Bitcoin, see [Bitcoin](/bitcoin/).
 
 </div>
 
@@ -57,7 +57,7 @@ The halving cuts miner rewards in half, directly reducing miner revenue (from bl
 
 - **Mining profitability.** A miner earning 50 BTC per block suddenly earns 25 BTC. Unless Bitcoin's price increases proportionally, mining becomes less profitable.
 - **Miner exits.** Less efficient miners (with older hardware or higher electricity costs) become unprofitable and shut down operations.
-- **[Hash rate](/hash-rate) decline.** The total mining power of the network often decreases after a halving, as unprofitable miners exit.
+- **[Hash rate](/hash-rate/) decline.** The total mining power of the network often decreases after a halving, as unprofitable miners exit.
 
 However, halvings are usually followed by bull markets, as the reduction in new supply is scarce and investors anticipate price appreciation. This has historically pushed prices up, offsetting the reward reduction.
 
@@ -103,16 +103,16 @@ Technically, new Bitcoin will be mined until the last fraction of a satoshi is a
 
 ### Closely related
 
-- [Bitcoin](/bitcoin) — where the halving occurs
-- [Mining Bitcoin](/mining-bitcoin) — affected by halving rewards
-- [Hash rate](/hash-rate) — usually declines after halving
-- [Difficulty adjustment](/difficulty-adjustment) — rebalances after hash rate changes
-- [Block reward](/mining-bitcoin) — what halvings reduce
+- [Bitcoin](/bitcoin/) — where the halving occurs
+- [Mining Bitcoin](/mining-bitcoin/) — affected by halving rewards
+- [Hash rate](/hash-rate/) — usually declines after halving
+- [Difficulty adjustment](/difficulty-adjustment/) — rebalances after hash rate changes
+- [Block reward](/mining-bitcoin/) — what halvings reduce
 
 ### Wider context
 
-- [Proof-of-work](/proof-of-work) — Bitcoin's consensus mechanism
-- [Inflation](/inflation) — contrast with fiat currency
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where Bitcoin price movements are observed
+- [Proof-of-work](/proof-of-work/) — Bitcoin's consensus mechanism
+- [Inflation](/inflation/) — contrast with fiat currency
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where Bitcoin price movements are observed
 
 </div>

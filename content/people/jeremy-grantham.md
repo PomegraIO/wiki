@@ -79,14 +79,14 @@ His influence is particularly strong among institutional investors who have the 
 
 ### Closely related
 
-- [David Swensen](/david-swensen) — An asset allocator and long-term investor
-- [Ray Dalio](/ray-dalio) — A systems-thinking allocator
-- [John Templeton](/john-templeton) — A contrarian value investor
-- [Warren Buffett](/warren-buffett) — A long-term value investor
+- [David Swensen](/david-swensen/) — An asset allocator and long-term investor
+- [Ray Dalio](/ray-dalio/) — A systems-thinking allocator
+- [John Templeton](/john-templeton/) — A contrarian value investor
+- [Warren Buffett](/warren-buffett/) — A long-term value investor
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — His specialty
+- [Asset allocation](/asset-allocation/) — His specialty
 - Valuation — His core metric
 - Mean reversion — His fundamental principle
 - Bubble — Which he predicts

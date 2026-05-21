@@ -15,7 +15,7 @@ image: "/svg/markets.svg"
 
 <div class="wiki-hatnote">
 
-This entry is about speed tiers in trading. For the infrastructure enabling it, see [colocation](/colocation-detail); for the data feeds supporting it, see [direct market data feed](/market-data-feed-direct).
+This entry is about speed tiers in trading. For the infrastructure enabling it, see [colocation](/colocation-detail/); for the data feeds supporting it, see [direct market data feed](/market-data-feed-direct/).
 
 </div>
 
@@ -115,7 +115,7 @@ This cost structure means that ultra-low-latency trading is accessible only to w
 Regulators have discussed whether to mandate uniform latency or slow down fast traders:
 
 - **No direct regulation.** The SEC has not mandated specific latency targets.
-- **Indirect regulation.** [SIP](/sip-securities-information-processor) data is slower than direct feeds, but this is not a formal constraint.
+- **Indirect regulation.** [SIP](/sip-securities-information-processor/) data is slower than direct feeds, but this is not a formal constraint.
 - **Proposed solutions.** Some propose speed bumps (artificial delays to eliminate sub-microsecond advantages) or faster SIPs.
 
 However, no major regulatory changes have materialized.
@@ -136,18 +136,18 @@ This can lead to disorderly markets and execution at irrational prices.
 
 ### Closely related
 
-- [Colocation](/colocation-detail) — enables low latency
-- [Direct market data feed](/market-data-feed-direct) — low-latency data source
-- [High-frequency trading](/stock-market) — depends on low latency
-- [SIP](/sip-securities-information-processor) — slower than direct feeds
-- [Order routing](/stock-market) — affected by latency
+- [Colocation](/colocation-detail/) — enables low latency
+- [Direct market data feed](/market-data-feed-direct/) — low-latency data source
+- [High-frequency trading](/stock-market/) — depends on low latency
+- [SIP](/sip-securities-information-processor/) — slower than direct feeds
+- [Order routing](/stock-market/) — affected by latency
 
 ### Wider context
 
-- [Market microstructure](/stock-market) — latency shapes this
-- [Price discovery](/stock-market) — affected by latency differences
-- [Liquidity](/secondary-market) — provided by low-latency traders
-- [Volatility](/bull-market) — exacerbated by latency disparities
-- [Fair execution](/broker) — latency creates fairness concerns
+- [Market microstructure](/stock-market/) — latency shapes this
+- [Price discovery](/stock-market/) — affected by latency differences
+- [Liquidity](/secondary-market/) — provided by low-latency traders
+- [Volatility](/bull-market/) — exacerbated by latency disparities
+- [Fair execution](/broker/) — latency creates fairness concerns
 
 </div>

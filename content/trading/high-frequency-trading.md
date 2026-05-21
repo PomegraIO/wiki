@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*High-frequency trading (HFT) is [algorithmic trading](/algorithmic-trading) at extreme speed. HFT firms use custom-built computers and fiber-optic cables to execute thousands of trades per second, exploiting tiny price discrepancies that last only milliseconds. HFT accounts for roughly 50% of U.S. equity trading volume and is controversial: proponents credit it with tighter spreads and greater liquidity; critics worry it causes flash crashes and harms retail traders.*
+*High-frequency trading (HFT) is [algorithmic trading](/algorithmic-trading/) at extreme speed. HFT firms use custom-built computers and fiber-optic cables to execute thousands of trades per second, exploiting tiny price discrepancies that last only milliseconds. HFT accounts for roughly 50% of U.S. equity trading volume and is controversial: proponents credit it with tighter spreads and greater liquidity; critics worry it causes flash crashes and harms retail traders.*
 
 <div class="wiki-hatnote">
 
-For slow algorithmic trading, see [algorithmic trading](/algorithmic-trading). For market making, see [market maker](/market-maker-trading). For the broader trading landscape, see [stock exchange](/stock-exchange).
+For slow algorithmic trading, see [algorithmic trading](/algorithmic-trading/). For market making, see [market maker](/market-maker-trading/). For the broader trading landscape, see [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -130,30 +130,30 @@ The truth likely lies in the middle: HFT has benefits (liquidity) and risks (sys
 
 ### Closely related
 
-- [Algorithmic trading](/algorithmic-trading) — slower cousin of HFT
-- [Market maker](/market-maker-trading) — HFT firms often act as these
+- [Algorithmic trading](/algorithmic-trading/) — slower cousin of HFT
+- [Market maker](/market-maker-trading/) — HFT firms often act as these
 - Latency arbitrage — HFT's core advantage
 - Arbitrage — risk-free profits HFT pursues
 
 ### Trading strategies and execution
 
-- [VWAP order](/vwap-order) — algorithmic execution (slower than HFT)
-- [TWAP order](/twap-order) — time-based execution
-- [Smart order router](/smart-order-router) — routes to best prices
-- [Dark pool](/dark-pool) — HFT firms also trade here
+- [VWAP order](/vwap-order/) — algorithmic execution (slower than HFT)
+- [TWAP order](/twap-order/) — time-based execution
+- [Smart order router](/smart-order-router/) — routes to best prices
+- [Dark pool](/dark-pool/) — HFT firms also trade here
 
 ### Market structure and regulation
 
-- [Lit venue](/lit-venue) — where HFT operates
-- [Circuit breaker](/circuit-breaker) — regulatory safeguard against HFT crashes
+- [Lit venue](/lit-venue/) — where HFT operates
+- [Circuit breaker](/circuit-breaker/) — regulatory safeguard against HFT crashes
 - Flash crash — 2010 event partly due to HFT
-- [Best execution](/best-execution) — ensures HFT does not harm retail
+- [Best execution](/best-execution/) — ensures HFT does not harm retail
 
 ### Risk and concerns
 
-- [Systemic risk](/systemic-risk) — HFT could trigger broader crashes
+- [Systemic risk](/systemic-risk/) — HFT could trigger broader crashes
 - Front-running — concern about HFT strategy
-- [Payment for order flow](/payment-for-order-flow) — retail order routing to HFT
+- [Payment for order flow](/payment-for-order-flow/) — retail order routing to HFT
 - Order toxicity — HFT avoids informed traders
 
 </div>

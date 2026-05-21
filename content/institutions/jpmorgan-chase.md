@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **JPMorgan Chase & Co.** is the largest [bank](/broker) in the United States by assets and a leading global financial institution. Operating through consumer banking, commercial banking, investment banking, and wealth management divisions, JPMorgan Chase serves millions of individual customers, millions of small and medium businesses, large corporations, and institutional investors worldwide.*
+*The **JPMorgan Chase & Co.** is the largest [bank](/broker/) in the United States by assets and a leading global financial institution. Operating through consumer banking, commercial banking, investment banking, and wealth management divisions, JPMorgan Chase serves millions of individual customers, millions of small and medium businesses, large corporations, and institutional investors worldwide.*
 
 <div class="wiki-hatnote">
 
@@ -41,7 +41,7 @@ JPMorgan Chase was formed in 2000 through the merger of Chase Manhattan Bank and
 
 ## History and founding
 
-JPMorgan Chase was formed in 2000 through the merger of Chase Manhattan Bank and J.P. Morgan & Company, combining two institutions with distinct histories. J.P. Morgan was founded in 1871 and became one of America's most prestigious [investment banks](/broker). Chase Manhattan Bank emerged from the consolidation of the Chase Bank and the Manhattan Company in 1955 and grew into a major commercial bank.
+JPMorgan Chase was formed in 2000 through the merger of Chase Manhattan Bank and J.P. Morgan & Company, combining two institutions with distinct histories. J.P. Morgan was founded in 1871 and became one of America's most prestigious [investment banks](/broker/). Chase Manhattan Bank emerged from the consolidation of the Chase Bank and the Manhattan Company in 1955 and grew into a major commercial bank.
 
 The merger created the world's largest financial institution by market value at the time and reflected the industry consolidation trend following the repeal of Glass-Steagall (which separated investment and commercial banking).
 
@@ -87,20 +87,20 @@ The firm's board comprises experienced directors from business, government, and 
 
 ### Closely related
 
-- [Bank](/broker) — the category
-- [Goldman Sachs](/goldman-sachs) — investment banking competitor
-- [Morgan Stanley](/morgan-stanley) — investment banking competitor
-- [Bank of America](/bank-of-america) — competitor
-- [Citigroup](/citigroup) — diversified competitor
+- [Bank](/broker/) — the category
+- [Goldman Sachs](/goldman-sachs/) — investment banking competitor
+- [Morgan Stanley](/morgan-stanley/) — investment banking competitor
+- [Bank of America](/bank-of-america/) — competitor
+- [Citigroup](/citigroup/) — diversified competitor
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — major clients
 - Mortgage — consumer lending
 - Trading — profit source
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Central bank](/central-bank/) — Federal Reserve oversight
 
 </div>

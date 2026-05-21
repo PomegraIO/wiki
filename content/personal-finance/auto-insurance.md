@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For home coverage, see [homeowners insurance](/homeowners-insurance); for renters, see [renters insurance](/renters-insurance); for excess liability, see [umbrella insurance](/umbrella-insurance).
+For home coverage, see [homeowners insurance](/homeowners-insurance/); for renters, see [renters insurance](/renters-insurance/); for excess liability, see [umbrella insurance](/umbrella-insurance/).
 
 </div>
 
@@ -60,7 +60,7 @@ Most states require minimum coverage (e.g., $25,000/$50,000/$25,000), but you sh
 Higher deductible ($1,000) = lower premium.
 Lower deductible ($250) = higher premium.
 
-If you have an [emergency fund](/emergency-fund) and can cover a $1,000 deductible, choose that. If finances are tight, lower deductible costs more but is safer.
+If you have an [emergency fund](/emergency-fund/) and can cover a $1,000 deductible, choose that. If finances are tight, lower deductible costs more but is safer.
 
 Example: $500 deductible costs $150/year more than $1,000 deductible. Over 10 years, that is $1,500. If you never have a claim, you lost money. If you have one claim, you save $500 in deductible.
 
@@ -95,7 +95,7 @@ If you finance a car, the lender requires you to carry collision and comprehensi
 
 ## Umbrella for serious accidents
 
-If you cause a major accident (multiple injuries, significant property damage), damages can exceed your auto insurance limits. [Umbrella insurance](/umbrella-insurance) covers this excess. For $150–$300/year, it is worth it.
+If you cause a major accident (multiple injuries, significant property damage), damages can exceed your auto insurance limits. [Umbrella insurance](/umbrella-insurance/) covers this excess. For $150–$300/year, it is worth it.
 
 ## See also
 
@@ -103,16 +103,16 @@ If you cause a major accident (multiple injuries, significant property damage), 
 
 ### Closely related
 
-- [Homeowners insurance](/homeowners-insurance) — combined with auto for discounts
-- [Renters insurance](/renters-insurance) — liability protection (similar to auto)
-- [Umbrella insurance](/umbrella-insurance) — excess liability coverage
-- [Mortgage](/mortgage-personal) — lender requires auto insurance
+- [Homeowners insurance](/homeowners-insurance/) — combined with auto for discounts
+- [Renters insurance](/renters-insurance/) — liability protection (similar to auto)
+- [Umbrella insurance](/umbrella-insurance/) — excess liability coverage
+- [Mortgage](/mortgage-personal/) — lender requires auto insurance
 
 ### Wider context
 
-- [Emergency fund](/emergency-fund) — covers deductible
-- [Budgeting methods](/budgeting-methods) — insurance as budget item
-- [Sinking fund](/sinking-fund) — insurance premiums
-- [Disability insurance](/disability-insurance-personal) — income protection if unable to work after accident
+- [Emergency fund](/emergency-fund/) — covers deductible
+- [Budgeting methods](/budgeting-methods/) — insurance as budget item
+- [Sinking fund](/sinking-fund/) — insurance premiums
+- [Disability insurance](/disability-insurance-personal/) — income protection if unable to work after accident
 
 </div>

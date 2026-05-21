@@ -10,11 +10,11 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Frankfurt Stock Exchange**, operated by **Deutsche Börse** Group, is the largest [stock exchange](/stock-exchange) in Germany and a major venue for continental European equities. Headquartered in Frankfurt am Main — the financial capital of the Eurozone — Deutsche Börse operates not only the equity exchange but also Europe's primary futures market, clearing infrastructure, and market data services.*
+*The **Frankfurt Stock Exchange**, operated by **Deutsche Börse** Group, is the largest [stock exchange](/stock-exchange/) in Germany and a major venue for continental European equities. Headquartered in Frankfurt am Main — the financial capital of the Eurozone — Deutsche Börse operates not only the equity exchange but also Europe's primary futures market, clearing infrastructure, and market data services.*
 
 <div class="wiki-hatnote">
 
-For the clearing and derivatives components, see [Eurex](/eurex) (derivatives) and Clearstream (settlement).
+For the clearing and derivatives components, see [Eurex](/eurex/) (derivatives) and Clearstream (settlement).
 
 </div>
 
@@ -48,9 +48,9 @@ The modern Deutsche Börse Group was founded in 1993 through the merger of the F
 
 ## Listing and the DAX index
 
-The Frankfurt exchange lists German [public companies](/public-company) across industrial, financial, pharmaceutical, and technology sectors. The DAX (Deutscher Aktienindex), the primary index, comprises the 40 largest companies on the exchange — including automotive giants (BMW, Daimler), chemical firms (BASF, Bayer), industrial conglomerates (Siemens), and financial institutions (Deutsche Bank, Allianz).
+The Frankfurt exchange lists German [public companies](/public-company/) across industrial, financial, pharmaceutical, and technology sectors. The DAX (Deutscher Aktienindex), the primary index, comprises the 40 largest companies on the exchange — including automotive giants (BMW, Daimler), chemical firms (BASF, Bayer), industrial conglomerates (Siemens), and financial institutions (Deutsche Bank, Allianz).
 
-The DAX serves as the primary barometer of German and Eurozone economic health. It is tracked globally alongside other major European indices ([FTSE 100](/london-stock-exchange), CAC 40) as a measure of continental economic confidence.
+The DAX serves as the primary barometer of German and Eurozone economic health. It is tracked globally alongside other major European indices ([FTSE 100](/london-stock-exchange/), CAC 40) as a measure of continental economic confidence.
 
 ## Technology and trading infrastructure
 
@@ -68,7 +68,7 @@ In 2016, Deutsche Börse attempted to merge with the London Stock Exchange, whic
 
 Although headquartered in Frankfurt, Deutsche Börse serves a pan-European function. The exchange lists companies from across the European Union and beyond, and its indices and trading volumes make it a venue of choice for European equities globally.
 
-The rise of [Euronext](/euronext) (which consolidated exchanges in Paris, Amsterdam, Brussels, and Lisbon) and the London Stock Exchange means that Frankfurt-listed trading coexists with multiple other European venues. However, the Frankfurt exchange remains essential for German and broader Eurozone investor access.
+The rise of [Euronext](/euronext/) (which consolidated exchanges in Paris, Amsterdam, Brussels, and Lisbon) and the London Stock Exchange means that Frankfurt-listed trading coexists with multiple other European venues. However, the Frankfurt exchange remains essential for German and broader Eurozone investor access.
 
 ## Central bank proximity
 
@@ -80,19 +80,19 @@ Frankfurt's position as the home of the European Central Bank gives the exchange
 
 ### Closely related
 
-- [Eurex](/eurex) — the derivatives exchange subsidiary
-- [London Stock Exchange](/london-stock-exchange) — major European exchange
-- [Euronext](/euronext) — pan-European exchange operator
-- [Stock exchange](/stock-exchange) — the category
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Eurex](/eurex/) — the derivatives exchange subsidiary
+- [London Stock Exchange](/london-stock-exchange/) — major European exchange
+- [Euronext](/euronext/) — pan-European exchange operator
+- [Stock exchange](/stock-exchange/) — the category
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
-- [Central bank](/central-bank) — European Central Bank
+- [Central bank](/central-bank/) — European Central Bank
 - Institutional investor — participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Public company](/public-company) — corporations listed
-- [Index fund](/index-fund) — DAX tracking products
+- [Asset allocation](/asset-allocation/) — positioning
+- [Public company](/public-company/) — corporations listed
+- [Index fund](/index-fund/) — DAX tracking products
 
 </div>

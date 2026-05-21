@@ -81,16 +81,16 @@ Some credit KKR deals with revitalizing underperforming businesses and creating 
 
 ### Closely related
 
-- [Stephen Schwarzman](/stephen-schwarzman) — Co-founder of Blackstone, another PE giant
-- [Leon Black](/leon-black) — Co-founder of Apollo Global Management
-- [David Swensen](/david-swensen) — Who allocated to private equity
+- [Stephen Schwarzman](/stephen-schwarzman/) — Co-founder of Blackstone, another PE giant
+- [Leon Black](/leon-black/) — Co-founder of Apollo Global Management
+- [David Swensen](/david-swensen/) — Who allocated to private equity
 
 ### Wider context
 
 - Private equity — Which he pioneered
-- [Leveraged buyout](/leveraged-buyout) — His specialty
+- [Leveraged buyout](/leveraged-buyout/) — His specialty
 - Leverage — His tool
-- [Acquisition](/acquisition) — His transaction type
+- [Acquisition](/acquisition/) — His transaction type
 - Corporate restructuring — His method
 
 </div>

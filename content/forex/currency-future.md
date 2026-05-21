@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **currency future** is a standardized, exchange-traded contract to exchange two currencies at a predetermined rate on a specific future date. Unlike an over-the-counter [forward](/fx-forward), a currency future trades on an exchange (like the [CME](/federal-reserve)), is marked to market daily, requires margin, and is enforceable through the exchange's clearinghouse. A trader can exit by taking an opposite position without negotiating with the original counterparty.*
+*A **currency future** is a standardized, exchange-traded contract to exchange two currencies at a predetermined rate on a specific future date. Unlike an over-the-counter [forward](/fx-forward/), a currency future trades on an exchange (like the [CME](/federal-reserve/)), is marked to market daily, requires margin, and is enforceable through the exchange's clearinghouse. A trader can exit by taking an opposite position without negotiating with the original counterparty.*
 
 <div class="wiki-hatnote">
 
-For the OTC alternative, see [FX Forward](/fx-forward); for options on the underlying pair, see [currency option](/currency-option).
+For the OTC alternative, see [FX Forward](/fx-forward/); for options on the underlying pair, see [currency option](/currency-option/).
 
 </div>
 
@@ -35,13 +35,13 @@ For the OTC alternative, see [FX Forward](/fx-forward); for options on the under
 | **Expiry dates** | Standardized (quarterly: March, June, Sept, Dec) |
 | **Settlement** | Physically delivered (currency exchange) or cash-settled |
 | **Margin** | Required; marked to market daily |
-| **Pricing** | Based on [spot](/spot-exchange-rate), [interest rates](/interest-rate), and supply-demand |
+| **Pricing** | Based on [spot](/spot-exchange-rate/), [interest rates](/interest-rate/), and supply-demand |
 
 </aside>
 
 ## How currency futures differ from forwards
 
-A [forward contract](/fx-forward) is OTC, bespoke, and binding. A currency future is standardized, transparent, and exchange-traded.
+A [forward contract](/fx-forward/) is OTC, bespoke, and binding. A currency future is standardized, transparent, and exchange-traded.
 
 **Contract size:** A forward can be any size the two parties agree to. A futures contract has a fixed size: a CME euro future is 100,000 euros per contract; a yen future is 12.5 million yen per contract.
 
@@ -59,7 +59,7 @@ Each currency pair traded as a future has standardized specifications. The EUR/U
 
 - Contract size: 100,000 euros
 - Quoted in: Dollars per euro
-- Tick size: 0.0001 (1 [pip](/pip))
+- Tick size: 0.0001 (1 [pip](/pip/))
 - Tick value: $10 per pip
 - Expiration: Quarterly (March, June, Sept, Dec)
 - Settlement: Physical delivery of euros (or cash equivalent)
@@ -68,7 +68,7 @@ These specifications are fixed by the exchange. You cannot negotiate them. This 
 
 ## Margin and daily settlement
 
-Futures trading requires [margin](/forex-margin), just like spot forex on margin. You post a margin deposit — typically $2,000–$5,000 per contract for major currencies — and the position is marked to market daily.
+Futures trading requires [margin](/forex-margin/), just like spot forex on margin. You post a margin deposit — typically $2,000–$5,000 per contract for major currencies — and the position is marked to market daily.
 
 Each day, profits and losses are realized. If you buy a EUR/USD future at 1.0850 and the next day it closes at 1.0851, you have a profit of $10 (1 pip × $10). This is immediately credited to your account; you can withdraw it.
 
@@ -94,16 +94,16 @@ This difference can create small discrepancies in pricing between the futures ma
 
 ### Closely related
 
-- [FX Forward](/fx-forward) — the OTC alternative
-- [Spot exchange rate](/spot-exchange-rate) — the baseline for futures pricing
-- [Forward exchange rate](/forward-exchange-rate) — pricing relationship
-- [Currency option](/currency-option) — options on currency futures
-- [Pip](/pip) — tick size in currency futures
+- [FX Forward](/fx-forward/) — the OTC alternative
+- [Spot exchange rate](/spot-exchange-rate/) — the baseline for futures pricing
+- [Forward exchange rate](/forward-exchange-rate/) — pricing relationship
+- [Currency option](/currency-option/) — options on currency futures
+- [Pip](/pip/) — tick size in currency futures
 
 ### Wider context
 
 - Interest rate parity — determines theoretical futures price
-- [Broker](/broker) — provides access to futures exchanges
-- [Forex leverage](/forex-leverage) — similar mechanics to futures margin
+- [Broker](/broker/) — provides access to futures exchanges
+- [Forex leverage](/forex-leverage/) — similar mechanics to futures margin
 
 </div>

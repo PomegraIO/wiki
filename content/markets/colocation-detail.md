@@ -15,7 +15,7 @@ image: "/svg/markets.svg"
 
 <div class="wiki-hatnote">
 
-This entry is about infrastructure for trading speed. For latency more broadly, see [latency tier](/latency-tier); for the data accessed, see [direct market data feed](/market-data-feed-direct).
+This entry is about infrastructure for trading speed. For latency more broadly, see [latency tier](/latency-tier/); for the data accessed, see [direct market data feed](/market-data-feed-direct/).
 
 </div>
 
@@ -136,18 +136,18 @@ However, no major regulatory changes have been implemented. Exchanges resist, as
 
 ### Closely related
 
-- [Latency tier](/latency-tier) — colocation reduces this
-- [High-frequency trading](/stock-market) — enabled by colocation
-- [Direct market data feed](/market-data-feed-direct) — used by colocated traders
-- [Stock exchange](/stock-exchange) — offers colocation services
-- [Market microstructure](/stock-market) — shaped by colocation
+- [Latency tier](/latency-tier/) — colocation reduces this
+- [High-frequency trading](/stock-market/) — enabled by colocation
+- [Direct market data feed](/market-data-feed-direct/) — used by colocated traders
+- [Stock exchange](/stock-exchange/) — offers colocation services
+- [Market microstructure](/stock-market/) — shaped by colocation
 
 ### Wider context
 
-- [Trading infrastructure](/stock-market) — colocation is part of
-- [Speed advantage](/stock-market) — colocation provides this
-- [Information asymmetry](/stock-market) — created by colocation
-- [Fair execution](/broker) — challenged by colocation
-- [Systemic risk](/stock-market) — colocation data center failures pose this
+- [Trading infrastructure](/stock-market/) — colocation is part of
+- [Speed advantage](/stock-market/) — colocation provides this
+- [Information asymmetry](/stock-market/) — created by colocation
+- [Fair execution](/broker/) — challenged by colocation
+- [Systemic risk](/stock-market/) — colocation data center failures pose this
 
 </div>

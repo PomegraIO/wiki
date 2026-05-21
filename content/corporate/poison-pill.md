@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **poison pill** is a shareholder rights plan that a company's board of directors can adopt to prevent a [hostile takeover](/hostile-takeover). When an acquirer accumulates shares above a threshold (typically 15–20% of outstanding), the rights plan is triggered and existing shareholders receive the right to buy additional shares at a steep discount, massively diluting the acquirer's stake and making the acquisition economically unviable. Poison pills are now nearly universal among large public companies and have fundamentally altered the landscape of hostile takeovers.*
+*A **poison pill** is a shareholder rights plan that a company's board of directors can adopt to prevent a [hostile takeover](/hostile-takeover/). When an acquirer accumulates shares above a threshold (typically 15–20% of outstanding), the rights plan is triggered and existing shareholders receive the right to buy additional shares at a steep discount, massively diluting the acquirer's stake and making the acquisition economically unviable. Poison pills are now nearly universal among large public companies and have fundamentally altered the landscape of hostile takeovers.*
 
 <div class="wiki-hatnote">
 
-This entry covers the mechanics and history of poison pills. For other takeover defences, see [white knight](/white-knight), [crown jewel defence](/crown-jewel-defense), and [scorched earth defence](/scorched-earth-defense); for hostile acquisition mechanisms, see [hostile takeover](/hostile-takeover) and [tender offer](/tender-offer).
+This entry covers the mechanics and history of poison pills. For other takeover defences, see [white knight](/white-knight/), [crown jewel defence](/crown-jewel-defense/), and [scorched earth defence](/scorched-earth-defense/); for hostile acquisition mechanisms, see [hostile takeover](/hostile-takeover/) and [tender offer](/tender-offer/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers the mechanics and history of poison pills. For other takeover 
 | **First introduced** | 1980s by Martin Lipton |
 | **Legal status** | Generally legal; upheld by Delaware courts |
 | **Prevalence** | Standard among large public companies |
-| **Alternative** | Raising price/accepting deal or seeking [white knight](/white-knight) |
+| **Alternative** | Raising price/accepting deal or seeking [white knight](/white-knight/) |
 
 </aside>
 
@@ -61,12 +61,12 @@ Some poison pills combine both mechanisms for added protection.
 
 ## The development of the poison pill
 
-The poison pill was invented by Martin Lipton, a prominent M&A lawyer, in 1982. It was a breakthrough in takeover defence. Before the poison pill, hostile takeovers were relatively uncommon but feasible — an acquirer could launch a [tender offer](/tender-offer), accumulate shares, and with adequate pricing, force the shareholders' hand.
+The poison pill was invented by Martin Lipton, a prominent M&A lawyer, in 1982. It was a breakthrough in takeover defence. Before the poison pill, hostile takeovers were relatively uncommon but feasible — an acquirer could launch a [tender offer](/tender-offer/), accumulate shares, and with adequate pricing, force the shareholders' hand.
 
 Poison pills changed the calculus. Suddenly, a hostile bidder could not simply outbid on price; it had to overcome the dilution mechanism. The only way around a poison pill was to:
 
 1. Negotiate with the board and get them to redeem the pill.
-2. Win a [proxy fight](/proxy-fight) to elect a new board that would redeem the pill.
+2. Win a [proxy fight](/proxy-fight/) to elect a new board that would redeem the pill.
 3. Make a tender offer so attractive that shareholders accepted it *and* elected a new board to redeem the pill.
 
 As poison pills became standard (adopted by 80%+ of large public companies by the 1990s), hostile takeovers became much rarer. The threat of a poison pill eliminates many potential hostile bids before they are even announced.
@@ -85,7 +85,7 @@ Over time, Delaware courts have held that a poison pill is permissible only if t
 
 If a poison pill is triggered, the board has the power to **redeem** it — to cancel the shareholders' rights and remove the dilution threat. This gives the board leverage in negotiations with a hostile bidder: "We will redeem the pill if you raise your offer to $X" or "if you negotiate in good faith."
 
-Conversely, a new board elected through a [proxy fight](/proxy-fight) will typically redeem the pill immediately, allowing the acquirer's offer to proceed.
+Conversely, a new board elected through a [proxy fight](/proxy-fight/) will typically redeem the pill immediately, allowing the acquirer's offer to proceed.
 
 ## Modern criticism and reform
 
@@ -105,17 +105,17 @@ However, most boards have retained poison pills, and they remain one of the most
 
 ### Closely related
 
-- [Hostile takeover](/hostile-takeover) — what poison pills defend against
-- [Tender offer](/tender-offer) — mechanism deterred by poison pills
-- [White knight](/white-knight) — alternative defence to poison pills
-- [Proxy fight](/proxy-fight) — way to defeat a poison pill by electing new directors
+- [Hostile takeover](/hostile-takeover/) — what poison pills defend against
+- [Tender offer](/tender-offer/) — mechanism deterred by poison pills
+- [White knight](/white-knight/) — alternative defence to poison pills
+- [Proxy fight](/proxy-fight/) — way to defeat a poison pill by electing new directors
 - Board of directors — adopts and redeems poison pills
 
 ### Wider context
 
-- [Crown jewel defence](/crown-jewel-defense) — alternative takeover defence
-- [Scorched earth defence](/scorched-earth-defense) — aggressive alternative defence
-- [Change of control provision](/change-of-control-provision) — contractual triggers in takeovers
+- [Crown jewel defence](/crown-jewel-defense/) — alternative takeover defence
+- [Scorched earth defence](/scorched-earth-defense/) — aggressive alternative defence
+- [Change of control provision](/change-of-control-provision/) — contractual triggers in takeovers
 - Shareholder activism — battles over pill triggers
 - Classified board — another staggered defence against takeovers
 

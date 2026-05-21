@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For other government programs, see [fha-loan](/fha-loan), [va-loan](/va-loan), and government-sponsored-enterprise. For mortgage comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage) and conventional-mortgage.
+For other government programs, see [fha-loan](/fha-loan/), [va-loan](/va-loan/), and government-sponsored-enterprise. For mortgage comparison, see [fixed-rate-mortgage](/fixed-rate-mortgage/) and conventional-mortgage.
 
 </div>
 
@@ -62,7 +62,7 @@ USDA loans are available to borrowers with low to moderate incomes (typically be
 
 ## Zero down payment and no mortgage insurance
 
-A major advantage of USDA loans: zero down payment required. Unlike [FHA loans](/fha-loan) (which require 3.5% down and charge ongoing mortgage insurance), a USDA borrower can finance 100% of the property value.
+A major advantage of USDA loans: zero down payment required. Unlike [FHA loans](/fha-loan/) (which require 3.5% down and charge ongoing mortgage insurance), a USDA borrower can finance 100% of the property value.
 
 A $200,000 rural home purchase with a USDA loan:
 - Down payment: $0
@@ -134,24 +134,24 @@ Like other government-backed loans, USDA mortgages are highly desirable in the s
 
 ### Government loan programs
 
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [VA-loan](/va-loan) — mortgages for military veterans
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [VA-loan](/va-loan/) — mortgages for military veterans
 - Government-sponsored-enterprise — Fannie Mae, Freddie Mac
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — standard fixed-rate mortgages
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — standard fixed-rate mortgages
 - Conventional-mortgage — non-government mortgages
-- [Conforming-loan](/conforming-loan) — loans within conforming limits
+- [Conforming-loan](/conforming-loan/) — loans within conforming limits
 
 ### Mortgage insurance
 
-- [Private-mortgage-insurance](/private-mortgage-insurance) — insurance on conventional mortgages
+- [Private-mortgage-insurance](/private-mortgage-insurance/) — insurance on conventional mortgages
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects USDA loan rates
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
-- [Rural development](/residential-real-estate) — rural property characteristics
+- [Interest rate](/interest-rate/) — affects USDA loan rates
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
+- [Rural development](/residential-real-estate/) — rural property characteristics
 
 </div>

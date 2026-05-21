@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on healthcare REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For residential alternatives, see [residential REIT](/residential-reit).
+This entry focuses on healthcare REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For residential alternatives, see [residential REIT](/residential-reit/).
 
 </div>
 
@@ -73,7 +73,7 @@ The largest healthcare REITs mitigate this by leasing to large national chains (
 
 ## Triple-net leases and operational risk transfer
 
-Many healthcare REITs structure leases as [triple-net leases](/triple-net-lease), meaning the tenant pays rent plus property taxes, insurance, and maintenance. This shifts operating costs and risks to the tenant.
+Many healthcare REITs structure leases as [triple-net leases](/triple-net-lease/), meaning the tenant pays rent plus property taxes, insurance, and maintenance. This shifts operating costs and risks to the tenant.
 
 In a typical triple-net deal, the REIT collects $100 in rent, but the tenant pays $80 in operating expenses. The REIT's revenue is stable and grows predictably, while the tenant bears the burden of managing the property, staffing, and inflation.
 
@@ -99,21 +99,21 @@ But in weak markets or during economic downturns, occupancy can fall sharply. A 
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Residential REIT](/residential-reit) — REITs owning apartments
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Residential REIT](/residential-reit/) — REITs owning apartments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — healthcare property valuation metric
-- [Net operating income](/net-operating-income) — revenue after operating costs
-- [Triple-net lease](/triple-net-lease) — the dominant lease structure in healthcare
+- [Cap rate](/cap-rate/) — healthcare property valuation metric
+- [Net operating income](/net-operating-income/) — revenue after operating costs
+- [Triple-net lease](/triple-net-lease/) — the dominant lease structure in healthcare
 
 ### Context and comparison
 
-- [Dividend](/dividend) — the income stream from healthcare REITs
-- [Recession](/recession) — healthcare properties are defensive, stable in downturns
-- [Asset allocation](/asset-allocation) — how to weight healthcare REITs in a portfolio
-- [Inflation](/inflation) — affects lease escalators and property values
+- [Dividend](/dividend/) — the income stream from healthcare REITs
+- [Recession](/recession/) — healthcare properties are defensive, stable in downturns
+- [Asset allocation](/asset-allocation/) — how to weight healthcare REITs in a portfolio
+- [Inflation](/inflation/) — affects lease escalators and property values
 
 </div>

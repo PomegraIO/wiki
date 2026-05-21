@@ -70,8 +70,8 @@ Compare to peers and over time. A company improving fixed-asset turnover is depl
 
 ### Closely related
 
-- [Asset-turnover-ratio](/asset-turnover-ratio) — includes all assets
-- [Return on assets](/return-on-assets)
+- [Asset-turnover-ratio](/asset-turnover-ratio/) — includes all assets
+- [Return on assets](/return-on-assets/)
 - Capital intensity
 
 </div>

@@ -11,7 +11,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Securities Exchange Act of 1934** is the foundational US law governing the secondary securities market — the trading of already-issued stocks and bonds. It created the [SEC](/securities-and-exchange-commission), required [public companies](/public-company) to disclose quarterly and annual financial statements, and outlawed [insider trading](/insider-trading-law) and market manipulation. Together with the [Securities Act of 1933](/securities-act-of-1933), it forms the skeleton of US securities law.*
+*The **Securities Exchange Act of 1934** is the foundational US law governing the secondary securities market — the trading of already-issued stocks and bonds. It created the [SEC](/securities-and-exchange-commission/), required [public companies](/public-company/) to disclose quarterly and annual financial statements, and outlawed [insider trading](/insider-trading-law/) and market manipulation. Together with the [Securities Act of 1933](/securities-act-of-1933/), it forms the skeleton of US securities law.*
 
 <div class="wiki-hatnote">
 
@@ -40,7 +40,7 @@ The Securities Exchange Act of 1934 governs secondary market trading and periodi
 
 ## Section 10(b) and Rule 10b-5: the anti-fraud core
 
-The Act's most important provision is Section 10(b), which prohibits "any manipulative or deceptive device or contrivance" in connection with the purchase or sale of securities. The SEC implemented this with [Rule 10b-5](/rule-10b-5), which makes it unlawful to: (1) employ any device, scheme, or artifice to defraud; (2) make any untrue statement of material fact or omit a material fact necessary to make a statement not misleading; or (3) engage in any act, practice, or course of business that operates as fraud.
+The Act's most important provision is Section 10(b), which prohibits "any manipulative or deceptive device or contrivance" in connection with the purchase or sale of securities. The SEC implemented this with [Rule 10b-5](/rule-10b-5/), which makes it unlawful to: (1) employ any device, scheme, or artifice to defraud; (2) make any untrue statement of material fact or omit a material fact necessary to make a statement not misleading; or (3) engage in any act, practice, or course of business that operates as fraud.
 
 Rule 10b-5 is the broadest anti-fraud rule in securities law. The SEC uses it to prosecute insider trading, false statements by company officers, and misrepresentation by brokers. Private investors can also sue under Rule 10b-5, claiming they were defrauded in a securities transaction. Implied in the rule is scienter — intent to defraud or recklessness — meaning that an honest mistake is not actionable.
 
@@ -66,7 +66,7 @@ The Act brought stock exchanges and brokers under federal oversight. Exchanges m
 
 ## Regulation FD (fair disclosure)
 
-In 2000, the SEC adopted [Regulation FD](/regulation-fd), which requires companies to disclose material information to all investors at the same time. Before FD, companies could brief select analysts or major shareholders before releasing information to the broader market, giving insiders an advantage. FD prohibited this — if a company discloses something material to one investor, it must disclose to all.
+In 2000, the SEC adopted [Regulation FD](/regulation-fd/), which requires companies to disclose material information to all investors at the same time. Before FD, companies could brief select analysts or major shareholders before releasing information to the broader market, giving insiders an advantage. FD prohibited this — if a company discloses something material to one investor, it must disclose to all.
 
 ## Modern challenges: dark pools and fragmented markets
 
@@ -78,17 +78,17 @@ The 1934 Act envisioned a small number of centralized exchanges. Today, exchange
 
 ### Closely related
 
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — created by this Act
-- [Securities Act of 1933](/securities-act-of-1933) — governs primary offerings
-- [Rule 10b-5](/rule-10b-5) — the primary anti-fraud rule
-- [Insider trading law](/insider-trading-law) — enforced under this Act
-- [Regulation FD](/regulation-fd) — fair disclosure rule
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — created by this Act
+- [Securities Act of 1933](/securities-act-of-1933/) — governs primary offerings
+- [Rule 10b-5](/rule-10b-5/) — the primary anti-fraud rule
+- [Insider trading law](/insider-trading-law/) — enforced under this Act
+- [Regulation FD](/regulation-fd/) — fair disclosure rule
 
 ### Wider context
 
-- [Public company](/public-company) — the entity covered
-- [Stock exchange](/stock-exchange) — regulated venue
-- [FINRA](/finra) — the primary SRO
+- [Public company](/public-company/) — the entity covered
+- [Stock exchange](/stock-exchange/) — regulated venue
+- [FINRA](/finra/) — the primary SRO
 - Fraud — the core violation
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-For broader liquidity tests, see [current ratio](/current-ratio) and [quick ratio](/quick-ratio).
+For broader liquidity tests, see [current ratio](/current-ratio/) and [quick ratio](/quick-ratio/).
 
 </div>
 
@@ -98,14 +98,14 @@ Investors examine cash ratio alongside current and quick ratios to assess liquid
 
 ### Closely related
 
-- [Current ratio](/current-ratio) · [Quick ratio](/quick-ratio) — broader liquidity measures
+- [Current ratio](/current-ratio/) · [Quick ratio](/quick-ratio/) — broader liquidity measures
 - Working capital — absolute difference
 - Operating cash flow — cash generation power
-- [Cash conversion cycle](/cash-conversion-cycle) — time to cash
+- [Cash conversion cycle](/cash-conversion-cycle/) — time to cash
 
 ### Wider context
 
 - Liquidity · Solvency — financial health concepts
-- [Balance sheet](/balance-sheet) — source of data
+- [Balance sheet](/balance-sheet/) — source of data
 
 </div>

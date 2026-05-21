@@ -14,7 +14,7 @@ image: "/svg/accounting.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the balance sheet structure and purpose. For how items are measured and valued, see [fair-value](/fair-value) and [historical-cost](/historical-cost). For the changes in equity over time, see [statement-of-changes-in-equity](/statement-of-changes-in-equity).
+This entry covers the balance sheet structure and purpose. For how items are measured and valued, see [fair-value](/fair-value/) and [historical-cost](/historical-cost/). For the changes in equity over time, see [statement-of-changes-in-equity](/statement-of-changes-in-equity/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers the balance sheet structure and purpose. For how items are mea
 | **Left side** | What the company owns |
 | **Right side** | What the company owes and who owns it |
 | **Key metric** | Book value of equity |
-| **Useful ratio** | [Return on equity](/return-on-equity) |
+| **Useful ratio** | [Return on equity](/return-on-equity/) |
 
 </aside>
 
@@ -48,8 +48,8 @@ This balance is why the statement is called a "balance sheet." Every transaction
 
 Assets are divided into **current** (convertible to cash within one year) and **noncurrent** (longer-lived):
 
-- **Current assets:** Cash and cash equivalents, [accounts receivable](/accounts-receivable), inventory, prepaid expenses. These are the company's working capital pool.
-- **Noncurrent assets:** Property, plant, and equipment (net of [depreciation](/depreciation)), [intangible assets](/intangible-assets) such as [goodwill](/goodwill), and long-term investments.
+- **Current assets:** Cash and cash equivalents, [accounts receivable](/accounts-receivable/), inventory, prepaid expenses. These are the company's working capital pool.
+- **Noncurrent assets:** Property, plant, and equipment (net of [depreciation](/depreciation/)), [intangible assets](/intangible-assets/) such as [goodwill](/goodwill/), and long-term investments.
 
 The composition of assets tells a story. A manufacturing company has heavy PP&E. A software company has more intangibles. A retailer has high inventory. Investors compare asset structure to understand business models.
 
@@ -57,7 +57,7 @@ The composition of assets tells a story. A manufacturing company has heavy PP&E.
 
 Liabilities are also split into **current** (due within one year) and **noncurrent**:
 
-- **Current liabilities:** [Accounts payable](/accounts-payable), short-term debt, wages owed, deferred revenue (cash received for services not yet delivered). The ratio of current assets to current liabilities — the "current ratio" — is a quick measure of near-term financial health.
+- **Current liabilities:** [Accounts payable](/accounts-payable/), short-term debt, wages owed, deferred revenue (cash received for services not yet delivered). The ratio of current assets to current liabilities — the "current ratio" — is a quick measure of near-term financial health.
 - **Noncurrent liabilities:** Long-term debt, deferred tax liabilities, and long-term lease obligations.
 
 A company can be profitable on paper but insolvent if current liabilities exceed current assets. Working capital — current assets minus current liabilities — is a crucial indicator of financial flexibility.
@@ -81,9 +81,9 @@ This is why lenders and investors scrutinize the **current ratio** (current asse
 
 ## Balance sheet measurement: historical cost vs. fair value
 
-Assets are recorded at various prices. Most are carried at [historical cost](/historical-cost) — what the company paid for them. But some are marked to [fair value](/fair-value), especially financial instruments and certain investments. Real estate and buildings are sometimes revalued. The choice of measurement method — which is disclosed in [footnote-disclosure](/footnote-disclosure) — affects reported asset values and, indirectly, equity.
+Assets are recorded at various prices. Most are carried at [historical cost](/historical-cost/) — what the company paid for them. But some are marked to [fair value](/fair-value/), especially financial instruments and certain investments. Real estate and buildings are sometimes revalued. The choice of measurement method — which is disclosed in [footnote-disclosure](/footnote-disclosure/) — affects reported asset values and, indirectly, equity.
 
-Over many years, the book value of assets can diverge sharply from market value. A company that bought land in 1980 still carries it at cost, while the actual asset is worth far more. Conversely, an intangible asset like a brand is not on the balance sheet at all unless acquired in a business combination (where it is recorded as [goodwill](/goodwill) or an identifiable intangible). This is why balance sheet values are most useful for understanding trends, not for absolute asset valuation.
+Over many years, the book value of assets can diverge sharply from market value. A company that bought land in 1980 still carries it at cost, while the actual asset is worth far more. Conversely, an intangible asset like a brand is not on the balance sheet at all unless acquired in a business combination (where it is recorded as [goodwill](/goodwill/) or an identifiable intangible). This is why balance sheet values are most useful for understanding trends, not for absolute asset valuation.
 
 ## The balance sheet and leverage
 
@@ -97,19 +97,19 @@ Lenders focus intensely on balance sheet metrics: debt-to-equity ratio, debt-to-
 
 ### Closely related
 
-- [Income statement](/income-statement) — shows profit over the period
-- [Cash flow statement](/cash-flow-statement) — shows cash movement
-- [Statement of changes in equity](/statement-of-changes-in-equity) — explains what happened to equity
-- [Accounts receivable](/accounts-receivable) — customer payments owed to the company
-- [Accounts payable](/accounts-payable) — supplier payments the company owes
-- [Depreciation](/depreciation) — the cost basis of long-lived assets
+- [Income statement](/income-statement/) — shows profit over the period
+- [Cash flow statement](/cash-flow-statement/) — shows cash movement
+- [Statement of changes in equity](/statement-of-changes-in-equity/) — explains what happened to equity
+- [Accounts receivable](/accounts-receivable/) — customer payments owed to the company
+- [Accounts payable](/accounts-payable/) — supplier payments the company owes
+- [Depreciation](/depreciation/) — the cost basis of long-lived assets
 
 ### Context
 
-- [Fair value](/fair-value) — how some assets are measured
-- [Historical cost](/historical-cost) — how most assets are recorded
-- [Goodwill](/goodwill) — an intangible asset from acquisition
-- [Intangible assets](/intangible-assets) — non-physical assets
+- [Fair value](/fair-value/) — how some assets are measured
+- [Historical cost](/historical-cost/) — how most assets are recorded
+- [Goodwill](/goodwill/) — an intangible asset from acquisition
+- [Intangible assets](/intangible-assets/) — non-physical assets
 - Working capital — current assets minus current liabilities
 
 </div>

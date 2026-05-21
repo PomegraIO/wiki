@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For a simpler percentage-based approach, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule); for budgeting that uses cash envelopes, see [envelope budgeting](/envelope-budgeting).
+For a simpler percentage-based approach, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/); for budgeting that uses cash envelopes, see [envelope budgeting](/envelope-budgeting/).
 
 </div>
 
@@ -49,13 +49,13 @@ The process is simple in principle, methodical in practice:
 4. **Execute the plan** — spend only what you allocated to each category.
 5. **Adjust monthly** — if you spent differently than planned, adjust next month's allocations.
 
-For example: if your net income is $3,500 and you allocate $1,200 to rent, $400 to utilities, $300 to groceries, $200 to insurance, $300 to [retirement savings](/401k-plan), $200 to [emergency fund](/emergency-fund), $500 to wants, and $400 to a sinking fund for annual car maintenance, the total is exactly $3,500, and your budget is "zero."
+For example: if your net income is $3,500 and you allocate $1,200 to rent, $400 to utilities, $300 to groceries, $200 to insurance, $300 to [retirement savings](/401k-plan/), $200 to [emergency fund](/emergency-fund/), $500 to wants, and $400 to a sinking fund for annual car maintenance, the total is exactly $3,500, and your budget is "zero."
 
 ## The philosophy behind zero-based
 
 Zero-based budgeting comes from the corporate world, where managers allocate every dollar of a budget based on current needs, not historical averages. The idea is that you are more intentional when you must justify each allocation. It forces you to ask: "Is this category worth $300, or could it be $200 if I prioritized something else?"
 
-This is radically different from the [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule), which says "allocate 30% to wants" without asking whether *your* wants are 25% or 35% or 40%. In zero-based budgeting, *you* decide, month by month.
+This is radically different from the [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/), which says "allocate 30% to wants" without asking whether *your* wants are 25% or 35% or 40%. In zero-based budgeting, *you* decide, month by month.
 
 ## The build process
 
@@ -64,8 +64,8 @@ To create a zero-based budget:
 1. **Gather data.** Review your last 3 months of statements to uncover categories and amounts.
 2. **List fixed costs first.** Housing, insurance, minimum debt payments, utilities — these rarely change month to month.
 3. **Add variable costs.** Groceries, fuel, entertainment — these fluctuate, but historical averages help.
-4. **Account for irregular expenses.** Annual car insurance, property tax, gifts, vacations. Use a [sinking fund](/sinking-fund) approach: divide the annual cost by 12 and allocate that monthly.
-5. **Allocate savings goals.** Emergency fund contributions, [retirement account](/401k-plan) funding, general investment.
+4. **Account for irregular expenses.** Annual car insurance, property tax, gifts, vacations. Use a [sinking fund](/sinking-fund/) approach: divide the annual cost by 12 and allocate that monthly.
+5. **Allocate savings goals.** Emergency fund contributions, [retirement account](/401k-plan/) funding, general investment.
 6. **Fill the remainder.** Whatever is left goes to discretionary spending, or boost savings if you have room.
 
 The goal is zero: income = total allocations. If allocations fall short, you have not accounted for something. If they exceed income, you must cut somewhere.
@@ -86,7 +86,7 @@ The goal is zero: income = total allocations. If allocations fall short, you hav
 
 **Psychological burden.** For some people, the rigor feels restrictive or exhausting. The tighter the budget, the more willpower it demands.
 
-**Inflexibility mid-month.** If an unexpected expense arises (car repair, medical bill), you must either draw from your [emergency fund](/emergency-fund) or re-allocate. If you re-allocate, you are, in a sense, "breaking" the budget.
+**Inflexibility mid-month.** If an unexpected expense arises (car repair, medical bill), you must either draw from your [emergency fund](/emergency-fund/) or re-allocate. If you re-allocate, you are, in a sense, "breaking" the budget.
 
 **Assumes stable income.** If your income varies month to month (freelance, commission-based, seasonal), allocating a fixed amount is difficult. You may need to budget conservatively and allocate bonuses separately.
 
@@ -114,15 +114,15 @@ Over time, your allocations stabilize because you are calibrating to *your actua
 
 ### Closely related
 
-- [Budgeting methods](/budgeting-methods) — the broader category
-- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule) — a simpler formula-based alternative
-- [Envelope budgeting](/envelope-budgeting) — zero-based approach using spending limits
-- [Sinking fund](/sinking-fund) — handling irregular expenses within zero-based budgeting
+- [Budgeting methods](/budgeting-methods/) — the broader category
+- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/) — a simpler formula-based alternative
+- [Envelope budgeting](/envelope-budgeting/) — zero-based approach using spending limits
+- [Sinking fund](/sinking-fund/) — handling irregular expenses within zero-based budgeting
 
 ### Wider context
 
-- [Pay yourself first](/pay-yourself-first) — prioritizing savings within a budget
-- [Savings rate](/savings-rate) — the percentage of income saved
+- [Pay yourself first](/pay-yourself-first/) — prioritizing savings within a budget
+- [Savings rate](/savings-rate/) — the percentage of income saved
 - Debt snowball — allocating aggressively to debt payoff
 
 </div>

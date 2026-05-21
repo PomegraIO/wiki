@@ -10,11 +10,11 @@ keywords:
   - accredited investor
 image: "/svg/funds.svg"
 ---
-*A **hedge fund** is a pooled investment fund, open to wealthy and institutional investors, that is relatively free from regulatory constraint and can employ complex strategies — leverage, [short positions](/short-selling), derivatives, illiquid assets — that [mutual funds](/mutual-fund) cannot. The name "hedge" is historically rooted in the practice of hedging risk through [short selling](/short-selling), though modern hedge funds pursue an enormous variety of bets, many with outsized risk.*
+*A **hedge fund** is a pooled investment fund, open to wealthy and institutional investors, that is relatively free from regulatory constraint and can employ complex strategies — leverage, [short positions](/short-selling/), derivatives, illiquid assets — that [mutual funds](/mutual-fund/) cannot. The name "hedge" is historically rooted in the practice of hedging risk through [short selling](/short-selling/), though modern hedge funds pursue an enormous variety of bets, many with outsized risk.*
 
 <div class="wiki-hatnote">
 
-This entry covers the fund type. For the alternative use of hedging to reduce risk, see [diversification](/diversification) and [asset allocation](/asset-allocation); for the broader landscape of pooled funds, see [index fund](/index-fund) and [ETF](/etf).
+This entry covers the fund type. For the alternative use of hedging to reduce risk, see [diversification](/diversification/) and [asset allocation](/asset-allocation/); for the broader landscape of pooled funds, see [index fund](/index-fund/) and [ETF](/etf/).
 
 </div>
 
@@ -46,11 +46,11 @@ A hedge fund is a partnership, not a company. Investors are **limited partners**
 
 The financial arrangement is the famous **"2 and 20"** fee structure. The fund charges a **2% management fee** annually on assets under management (so on a \$1 billion fund, the manager collects \$20 million per year for overhead and staffing) and a **20% performance fee** on profits above a defined **high-water mark** (usually, the highest net asset value the fund has ever achieved). If a fund earns 10% in a year and the high-water mark is met, the manager keeps 20% of the gains — in the example, \$20 million on a \$1 billion fund.
 
-This structure is extraordinarily lucrative if the fund delivers outsized returns. But it is also enormously expensive for investors. A fund charging 2% plus 20% has to outperform by roughly 2.5–3% *per year* just to break even with a low-cost [index fund](/index-fund). Most hedge funds do not clear this hurdle.
+This structure is extraordinarily lucrative if the fund delivers outsized returns. But it is also enormously expensive for investors. A fund charging 2% plus 20% has to outperform by roughly 2.5–3% *per year* just to break even with a low-cost [index fund](/index-fund/). Most hedge funds do not clear this hurdle.
 
 ## Strategies: long/short and beyond
 
-The archetype of a hedge fund is the **long-short equity fund**, which buys [stocks](/stock) expected to outperform (long) and [short sells](/short-selling) stocks expected to underperform (short), betting on the difference. The shorts are the "hedge" — they reduce [market risk](/stock-market) by offsetting long exposure. But many modern hedge funds have abandoned this model or use it lightly.
+The archetype of a hedge fund is the **long-short equity fund**, which buys [stocks](/stock/) expected to outperform (long) and [short sells](/short-selling/) stocks expected to underperform (short), betting on the difference. The shorts are the "hedge" — they reduce [market risk](/stock-market/) by offsetting long exposure. But many modern hedge funds have abandoned this model or use it lightly.
 
 Other common hedge fund strategies include:
 
@@ -69,21 +69,21 @@ Many hedge funds use **leverage** — borrowed money — to amplify returns. If 
 
 The famous collapse of Long-Term Capital Management (LTCM) in 1998 is a cautionary tale. LTCM was run by Nobel laureate economists and used sophisticated quantitative models. It leveraged its portfolio 25:1. When Russian debt markets crashed and liquidity dried up, the fund had to liquidate at massive losses, and the Federal Reserve feared contagion across the financial system. The Fed orchestrated a rescue.
 
-Concentration is another risk. A hedge fund might make a \$500 million bet on a single [stock](/stock) or bond or country. If that bet goes wrong, the fund can post a catastrophic loss in a matter of days. [Diversification](/diversification) is the enemy of outsized returns, so most hedge funds embrace concentration.
+Concentration is another risk. A hedge fund might make a \$500 million bet on a single [stock](/stock/) or bond or country. If that bet goes wrong, the fund can post a catastrophic loss in a matter of days. [Diversification](/diversification/) is the enemy of outsized returns, so most hedge funds embrace concentration.
 
 ## Why hedge funds underperform after fees
 
-Statistically, the data is damning: most hedge funds underperform a simple [index fund](/index-fund) after fees, especially over multi-decade periods. Why? Three reasons:
+Statistically, the data is damning: most hedge funds underperform a simple [index fund](/index-fund/) after fees, especially over multi-decade periods. Why? Three reasons:
 
 1. **Fees are enormous.** A 2% drag each year plus 20% of gains is a structural disadvantage against a competitor charging 0.05%.
 2. **Mean reversion.** A strategy that worked brilliantly in a particular market regime (say, distressed debt in a recovery) may fail when conditions shift. Finding genuinely persistent edges is harder than hedge fund marketing suggests.
 3. **Capacity constraints.** A successful strategy attracts capital, and as the fund grows, it becomes harder to execute the strategy without moving markets and eroding returns.
 
-That said, hedge funds appeal to wealthy investors for reasons beyond return. Some offer **liquidity in crises** — they stay open when markets panic and mutual funds freeze redemptions. Some provide **diversification** — a hedge fund using derivatives or illiquid assets can behave very differently from a [stock](/stock) portfolio. And a small number do persistently outperform, though finding them in advance is nearly impossible.
+That said, hedge funds appeal to wealthy investors for reasons beyond return. Some offer **liquidity in crises** — they stay open when markets panic and mutual funds freeze redemptions. Some provide **diversification** — a hedge fund using derivatives or illiquid assets can behave very differently from a [stock](/stock/) portfolio. And a small number do persistently outperform, though finding them in advance is nearly impossible.
 
 ## Regulation and investor eligibility
 
-Hedge funds are regulated far less stringently than [mutual funds](/mutual-fund) or [ETFs](/etf). They are exempt from most of the rules that govern public pooled vehicles. In exchange, they are restricted to **accredited investors** — individuals with over \$1 million in net worth (excluding their home) or over \$200,000 in annual income, plus institutions.
+Hedge funds are regulated far less stringently than [mutual funds](/mutual-fund/) or [ETFs](/etf/). They are exempt from most of the rules that govern public pooled vehicles. In exchange, they are restricted to **accredited investors** — individuals with over \$1 million in net worth (excluding their home) or over \$200,000 in annual income, plus institutions.
 
 This accredited investor standard is supposed to ensure that only sophisticated, wealthy investors (who can afford to lose money) invest in hedge funds. Whether it achieves that goal is debatable; plenty of wealthy people are unsophisticated, and a 50% loss is painful regardless of starting wealth.
 
@@ -91,7 +91,7 @@ The lack of regulation also means less transparency. A mutual fund must disclose
 
 ## Lock-ups and redemption gates
 
-Unlike a [mutual fund](/mutual-fund) or [ETF](/etf), which let you sell any trading day, hedge fund investors are typically subject to **lock-ups** — periods (often 2–5 years) during which you cannot redeem your investment. After the lock-up, you can usually redeem, but only on a set schedule (quarterly or annually) and often with 30–90 days' notice.
+Unlike a [mutual fund](/mutual-fund/) or [ETF](/etf/), which let you sell any trading day, hedge fund investors are typically subject to **lock-ups** — periods (often 2–5 years) during which you cannot redeem your investment. After the lock-up, you can usually redeem, but only on a set schedule (quarterly or annually) and often with 30–90 days' notice.
 
 In a crisis, hedge funds sometimes impose **redemption gates** — temporary suspensions of redemptions — to prevent a stampede to the exits that would force the fund to liquidate at terrible prices. These gates can leave investors trapped for months or years. This is a form of principal risk distinct from market risk: you might be right about where the markets are heading, but you cannot get your money out when you need it.
 
@@ -105,19 +105,19 @@ Despite their excesses and underperformance, hedge funds play a role in market e
 
 ### Closely related
 
-- [Short selling](/short-selling) — the archetypal hedge fund tool
-- [Mutual fund](/mutual-fund) — the regulated cousin
-- [Index fund](/index-fund) — lower cost, better performance for most
-- [ETF](/etf) — liquid alternative to mutual funds
-- [Leverage](/hedge-fund) — amplifies both gains and losses
-- [Stock](/stock) — often the underlying bet
+- [Short selling](/short-selling/) — the archetypal hedge fund tool
+- [Mutual fund](/mutual-fund/) — the regulated cousin
+- [Index fund](/index-fund/) — lower cost, better performance for most
+- [ETF](/etf/) — liquid alternative to mutual funds
+- [Leverage](/hedge-fund/) — amplifies both gains and losses
+- [Stock](/stock/) — often the underlying bet
 
 ### Wider context
 
-- [Stock market](/stock-market) — where most hedge fund bets are made
-- [Bear market](/bear-market) · [Bull market](/bull-market) — hedge fund returns vary sharply by regime
-- [Diversification](/diversification) — often lacking in hedge fund portfolios
-- [Asset allocation](/asset-allocation) — alternative strategies can complicate allocation decisions
-- [Inflation](/inflation) — erodes purchasing power of "alpha" (excess return)
+- [Stock market](/stock-market/) — where most hedge fund bets are made
+- [Bear market](/bear-market/) · [Bull market](/bull-market/) — hedge fund returns vary sharply by regime
+- [Diversification](/diversification/) — often lacking in hedge fund portfolios
+- [Asset allocation](/asset-allocation/) — alternative strategies can complicate allocation decisions
+- [Inflation](/inflation/) — erodes purchasing power of "alpha" (excess return)
 
 </div>

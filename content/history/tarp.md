@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers TARP. For the broader crisis, see 2008 Financial Crisis; for the Federal Reserve's parallel actions, see [Federal Reserve](/federal-reserve).
+This entry covers TARP. For the broader crisis, see 2008 Financial Crisis; for the Federal Reserve's parallel actions, see [Federal Reserve](/federal-reserve/).
 
 </div>
 
@@ -97,15 +97,15 @@ Critics argued that TARP's success created moral hazard — financial institutio
 ### Closely related
 
 - 2008 Financial Crisis — the crisis TARP addressed
-- [Lehman Brothers Collapse](/lehman-brothers-collapse) — the failure that prompted TARP
-- [AIG Bailout](/aig-bailout) — another major government rescue
+- [Lehman Brothers Collapse](/lehman-brothers-collapse/) — the failure that prompted TARP
+- [AIG Bailout](/aig-bailout/) — another major government rescue
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — parallel emergency interventions
+- [Federal Reserve](/federal-reserve/) — parallel emergency interventions
 - Bank — the recipients of TARP funds
 - Fiscal policy — government spending as crisis response
-- [Systemic risk](/systemic-risk) — the concern that motivated TARP
+- [Systemic risk](/systemic-risk/) — the concern that motivated TARP
 - Moral hazard — the consequence of the bailout
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **cost of debt** is the interest rate a company pays on its borrowed funds. Unlike [cost of equity](/cost-of-equity), which must be estimated using models like the [capital asset pricing model](/capital-asset-pricing-model), cost of debt is often directly observable from bond yields or loan rates. Its key peculiarity is that interest is tax-deductible, creating a tax shield that lowers the true cost to the company.*
+*The **cost of debt** is the interest rate a company pays on its borrowed funds. Unlike [cost of equity](/cost-of-equity/), which must be estimated using models like the [capital asset pricing model](/capital-asset-pricing-model/), cost of debt is often directly observable from bond yields or loan rates. Its key peculiarity is that interest is tax-deductible, creating a tax shield that lowers the true cost to the company.*
 
 ## What cost of debt is
 
@@ -34,7 +34,7 @@ Here is the key difference from cost of equity: interest is tax-deductible. If a
 
 Why? Because the company saves 1.25% in taxes (25% of 5%) by paying interest instead of equity returns. This tax shield is real and valuable. It is why companies use debt—not just because it is cheaper, but because it is cheaper on an after-tax basis.
 
-In the [weighted average cost of capital](/weighted-average-cost-of-capital) formula, you always use the after-tax cost of debt:
+In the [weighted average cost of capital](/weighted-average-cost-of-capital/) formula, you always use the after-tax cost of debt:
 
 WACC = (E / D+E) × Cost of Equity + (D / D+E) × After-tax Cost of Debt
 
@@ -92,26 +92,26 @@ For companies with multi-currency debt, you might need to weight by currency. A 
 
 ### Closely related
 
-- [After-tax cost of debt](/after-tax-cost-of-debt) — the tax-adjusted version
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — uses cost of debt
-- [Cost of equity](/cost-of-equity) — the other WACC component
-- [Bond](/bond) — the debt instrument whose yield is cost of debt
+- [After-tax cost of debt](/after-tax-cost-of-debt/) — the tax-adjusted version
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — uses cost of debt
+- [Cost of equity](/cost-of-equity/) — the other WACC component
+- [Bond](/bond/) — the debt instrument whose yield is cost of debt
 
 ### WACC and valuation
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — blends cost of equity and cost of debt
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — uses WACC as discount rate
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent method
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — blends cost of equity and cost of debt
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — uses WACC as discount rate
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent method
 - Capital structure — determines debt versus equity weights
 
 ### Related inputs
 
-- [Interest rate](/interest-rate) — cost of debt is tied to interest rates
-- [Credit rating](/credit-rating) — drives the spread above risk-free rate
+- [Interest rate](/interest-rate/) — cost of debt is tied to interest rates
+- [Credit rating](/credit-rating/) — drives the spread above risk-free rate
 
 ### Sensitivity and analysis
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing cost-of-debt sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across capital structure assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing cost-of-debt sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across capital structure assumptions
 
 </div>

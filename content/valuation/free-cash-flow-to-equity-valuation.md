@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **free cash flow to equity (FCFE)** valuation values a company's equity by discounting the cash available to equity holders—after the company has paid interest and principal to debt holders—at the [cost of equity](/cost-of-equity). It is the levered cousin of [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation), and it is more restrictive but sometimes more direct when debt levels are complex or shifting.*
+*A **free cash flow to equity (FCFE)** valuation values a company's equity by discounting the cash available to equity holders—after the company has paid interest and principal to debt holders—at the [cost of equity](/cost-of-equity/). It is the levered cousin of [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/), and it is more restrictive but sometimes more direct when debt levels are complex or shifting.*
 
 ## What FCFE is
 
@@ -22,7 +22,7 @@ Valuation is then the present value of FCFE streams, discounted at the cost of e
 
 ## FCFE vs. FCFF: the structural choice
 
-[Free cash flow to firm (FCFF) valuation](/free-cash-flow-to-firm-valuation) is the standard approach. You value the entire enterprise by discounting cash available to all capital providers—debt and equity—at the weighted average cost of capital. You then subtract net debt to get equity value.
+[Free cash flow to firm (FCFF) valuation](/free-cash-flow-to-firm-valuation/) is the standard approach. You value the entire enterprise by discounting cash available to all capital providers—debt and equity—at the weighted average cost of capital. You then subtract net debt to get equity value.
 
 FCFE is the alternative. You value equity directly by discounting cash available only to equity holders at the cost of equity, skipping the weighted-average step. Conceptually, they should yield the same result if assumptions are consistent.
 
@@ -40,7 +40,7 @@ Repeat for each year of the forecast period. In the terminal year, assume debt-t
 
 ## The leverage problem
 
-A company's [cost of equity](/cost-of-equity) depends on its leverage. Debt is cheap (because debt holders have priority); equity is expensive (because equity holders are residual). A company with no debt has lower cost of equity than an identical company with high debt.
+A company's [cost of equity](/cost-of-equity/) depends on its leverage. Debt is cheap (because debt holders have priority); equity is expensive (because equity holders are residual). A company with no debt has lower cost of equity than an identical company with high debt.
 
 In FCFE valuation, if you are forecasting changing debt levels, your cost of equity changes in parallel. In year one, with low debt, cost of equity might be 10%. In year five, if leverage has increased, cost of equity might be 11%. Should you use the current cost of equity, the average, or year-specific costs?
 
@@ -48,7 +48,7 @@ This is cumbersome. Most practitioners default to FCFF (value the firm at a cons
 
 ## FCFE for non-dividend payers
 
-Unlike [dividend discount models](/dividend-discount-model), which are worthless for non-paying companies, FCFE valuation works perfectly for any company regardless of dividend policy. A company that generates FCFE of 100 million but reinvests it all is valued based on that 100 million, not on the zero dividends paid.
+Unlike [dividend discount models](/dividend-discount-model/), which are worthless for non-paying companies, FCFE valuation works perfectly for any company regardless of dividend policy. A company that generates FCFE of 100 million but reinvests it all is valued based on that 100 million, not on the zero dividends paid.
 
 This is the key advantage over dividend-based models. It says: the company's value depends on cash generated, not on management's decision to distribute it. If you trust the cash flow forecast, FCFE is a powerful tool.
 
@@ -60,7 +60,7 @@ But this requires a strong view on debt policy. If you forecast debt paydown too
 
 ## Terminal value in FCFE
 
-At the end of the explicit forecast period, assume FCFE grows at a perpetual rate (typically 2–4% for a mature company). Use the [Gordon growth formula](/gordon-growth-model): year-N plus one FCFE divided by (cost of equity minus perpetual growth rate). Discount this terminal value back to today and add to the sum of discounted explicit-period cash flows.
+At the end of the explicit forecast period, assume FCFE grows at a perpetual rate (typically 2–4% for a mature company). Use the [Gordon growth formula](/gordon-growth-model/): year-N plus one FCFE divided by (cost of equity minus perpetual growth rate). Discount this terminal value back to today and add to the sum of discounted explicit-period cash flows.
 
 The cost of equity in the terminal year should reflect the assumed terminal leverage. If you assume zero debt at terminal, use the unlevered cost of equity plus an adjustment for terminal leverage. This often requires back-of-envelope iteration.
 
@@ -84,21 +84,21 @@ The cost of equity in the terminal year should reflect the assumed terminal leve
 
 ### Closely related
 
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the unlevered alternative
-- [Cost of equity](/cost-of-equity) — the discount rate
-- [Capital asset pricing model](/capital-asset-pricing-model) — estimating cost of equity
-- [Dividend discount model](/dividend-discount-model) — an earlier approach to valuing equity
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the unlevered alternative
+- [Cost of equity](/cost-of-equity/) — the discount rate
+- [Capital asset pricing model](/capital-asset-pricing-model/) — estimating cost of equity
+- [Dividend discount model](/dividend-discount-model/) — an earlier approach to valuing equity
 
 ### DCF framework
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent class
-- [Two-stage DCF](/two-stage-dcf) — time structure
-- [Terminal value](/terminal-value) — the endpoint calculation
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — used in FCFF, not FCFE
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent class
+- [Two-stage DCF](/two-stage-dcf/) — time structure
+- [Terminal value](/terminal-value/) — the endpoint calculation
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — used in FCFF, not FCFE
 
 ### Comparison
 
-- [Multiples valuation](/multiples-valuation) — market-based approach
-- [Comparable company analysis](/comparable-company-analysis) — peer benchmarking
+- [Multiples valuation](/multiples-valuation/) — market-based approach
+- [Comparable company analysis](/comparable-company-analysis/) — peer benchmarking
 
 </div>

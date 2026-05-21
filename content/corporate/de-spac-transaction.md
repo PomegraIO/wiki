@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **de-SPAC transaction** is a [merger](/merger) between a [special-purpose acquisition company](/special-purpose-acquisition-company) (SPAC) and a private operating company. The private company becomes the operating business of the merged entity, which retains or is relisted under a new name on public exchanges. De-SPAC transactions are the mechanism by which SPACs achieve their purpose and have become a major route for private companies to access public capital markets, particularly in technology, consumer, and healthcare sectors.*
+*A **de-SPAC transaction** is a [merger](/merger/) between a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) and a private operating company. The private company becomes the operating business of the merged entity, which retains or is relisted under a new name on public exchanges. De-SPAC transactions are the mechanism by which SPACs achieve their purpose and have become a major route for private companies to access public capital markets, particularly in technology, consumer, and healthcare sectors.*
 
 <div class="wiki-hatnote">
 
-This entry covers de-SPAC mergers as a public market entry mechanism. For the SPAC context, see [special-purpose acquisition company](/special-purpose-acquisition-company); for traditional alternatives, see [initial public offering](/initial-public-offering) and [reverse merger](/reverse-merger).
+This entry covers de-SPAC mergers as a public market entry mechanism. For the SPAC context, see [special-purpose acquisition company](/special-purpose-acquisition-company/); for traditional alternatives, see [initial public offering](/initial-public-offering/) and [reverse merger](/reverse-merger/).
 
 </div>
 
@@ -28,19 +28,19 @@ This entry covers de-SPAC mergers as a public market entry mechanism. For the SP
 
 |   |   |
 |---|---|
-| **What it is** | [Merger](/merger) of SPAC with private operating company |
+| **What it is** | [Merger](/merger/) of SPAC with private operating company |
 | **Result** | Private company becomes publicly listed |
 | **Timeline** | 6–12 months from signing to close |
 | **Approval** | SPAC shareholder vote + private company shareholder/investor approval |
 | **Redemption** | SPAC shareholders can redeem shares if dissatisfied |
 | **PIPE** | Often includes private capital raise from new investors |
-| **Alternative to** | [Initial public offering](/initial-public-offering) |
+| **Alternative to** | [Initial public offering](/initial-public-offering/) |
 
 </aside>
 
 ## How a de-SPAC merger works
 
-**Negotiation.** A [SPAC](/special-purpose-acquisition-company) and a target private company negotiate the terms of a merger. Key items include:
+**Negotiation.** A [SPAC](/special-purpose-acquisition-company/) and a target private company negotiate the terms of a merger. Key items include:
 
 - **Valuation.** The agreed enterprise value of the private company
 - **Equity split.** What percentage the private company's original shareholders will own post-merger
@@ -158,18 +158,18 @@ As of 2023–2024, de-SPAC activity has normalized to much lower levels. Traditi
 
 ### Closely related
 
-- [Special-purpose acquisition company](/special-purpose-acquisition-company) — the SPAC in the merger
-- [Merger](/merger) — the transaction structure
-- [Initial public offering](/initial-public-offering) — traditional alternative
-- [Direct listing](/direct-listing) — another alternative entry method
-- [Reverse merger](/reverse-merger) — earlier alternative
+- [Special-purpose acquisition company](/special-purpose-acquisition-company/) — the SPAC in the merger
+- [Merger](/merger/) — the transaction structure
+- [Initial public offering](/initial-public-offering/) — traditional alternative
+- [Direct listing](/direct-listing/) — another alternative entry method
+- [Reverse merger](/reverse-merger/) — earlier alternative
 
 ### Wider context
 
 - Going-public process — broader public market entry
-- [Public company](/public-company) — status post-de-SPAC
+- [Public company](/public-company/) — status post-de-SPAC
 - Shareholder dilution — consequence of de-SPAC structure
-- [Acquisition](/acquisition) — the mechanism
+- [Acquisition](/acquisition/) — the mechanism
 - Private equity — typical SPAC sponsors
 
 </div>

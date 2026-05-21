@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For self-employed only, see [SEP IRA](/sep-ira); for larger businesses or more complex needs, see [401(k) plan](/401k-plan); for individual retirement accounts, see [traditional IRA](/traditional-ira).
+For self-employed only, see [SEP IRA](/sep-ira/); for larger businesses or more complex needs, see [401(k) plan](/401k-plan/); for individual retirement accounts, see [traditional IRA](/traditional-ira/).
 
 </div>
 
@@ -46,17 +46,17 @@ A SIMPLE IRA is a straightforward retirement plan for small businesses. Employee
 1. **Matching contributions.** The employer matches 100% of employee contributions up to 3% of salary. For example, an employee earning $50,000 who contributes 3% ($1,500) receives a $1,500 match.
 2. **Non-elective contributions.** The employer contributes 2% of all eligible employees' salaries, regardless of whether they contribute.
 
-This is less complex than a [401(k)](/401k-plan) and less generous (to employers) than a [SEP IRA](/sep-ira), making it the middle ground for small firms with employees.
+This is less complex than a [401(k)](/401k-plan/) and less generous (to employers) than a [SEP IRA](/sep-ira/), making it the middle ground for small firms with employees.
 
 ## Who should use SIMPLE
 
 - **Small businesses with 5–100 employees.** A SIMPLE is much simpler than a 401(k) while still providing meaningful employer contributions.
-- **Self-employed with employees.** Unlike a [SEP IRA](/sep-ira), a SIMPLE allows you to employ others without having to contribute equal percentages for everyone.
+- **Self-employed with employees.** Unlike a [SEP IRA](/sep-ira/), a SIMPLE allows you to employ others without having to contribute equal percentages for everyone.
 - **Businesses wanting to match employee contributions.** Unlike a 401(k), the matching rules are simpler and mandatory.
 
 ## Setup and administration
 
-A SIMPLE IRA is easy to set up. You complete a short form with your chosen financial institution (bank or brokerage), notify employees, and begin operations. There is no Form 5500 annual filing (unlike a [401(k)](/401k-plan)), making compliance minimal.
+A SIMPLE IRA is easy to set up. You complete a short form with your chosen financial institution (bank or brokerage), notify employees, and begin operations. There is no Form 5500 annual filing (unlike a [401(k)](/401k-plan/)), making compliance minimal.
 
 Employers must file Form 5498-SIMPLE annually with the IRS and provide a copy to each employee, but this is routine.
 
@@ -68,10 +68,10 @@ Employers must file Form 5498-SIMPLE annually with the IRS and provide a copy to
 
 ## Withdrawal and tax rules
 
-SIMPLE IRAs follow standard [IRA](/traditional-ira) withdrawal rules:
+SIMPLE IRAs follow standard [IRA](/traditional-ira/) withdrawal rules:
 - Penalty-free withdrawals at 59½.
 - 10% penalty (plus income tax) for withdrawals before 59½ (with exceptions).
-- [Required minimum distributions](/required-minimum-distribution-personal) begin at age 73.
+- [Required minimum distributions](/required-minimum-distribution-personal/) begin at age 73.
 - All withdrawals are taxed as ordinary income.
 
 One exception: there is a 25% early-withdrawal penalty (instead of 10%) if you withdraw within the first two years of opening the SIMPLE.
@@ -97,16 +97,16 @@ If an employer wants to switch to a 401(k) or SEP, or terminate a SIMPLE, there 
 
 ### Closely related
 
-- [SEP IRA](/sep-ira) — for self-employed without employees
-- [401(k) plan](/401k-plan) — for larger businesses or more features
-- [Solo 401(k)](/solo-401k) — for self-employed who want 401(k) features
-- [Traditional IRA](/traditional-ira) — individual alternative
+- [SEP IRA](/sep-ira/) — for self-employed without employees
+- [401(k) plan](/401k-plan/) — for larger businesses or more features
+- [Solo 401(k)](/solo-401k/) — for self-employed who want 401(k) features
+- [Traditional IRA](/traditional-ira/) — individual alternative
 
 ### Wider context
 
-- [401(k) match](/401k-match) — employer contributions (similar in concept)
-- [FIRE movement](/fire-movement) — retirement savings for business owners
-- [The four-percent rule](/the-four-percent-rule) — how much SIMPLE can sustain
-- [Compound interest](/compound-interest) — growth of employer and employee contributions
+- [401(k) match](/401k-match/) — employer contributions (similar in concept)
+- [FIRE movement](/fire-movement/) — retirement savings for business owners
+- [The four-percent rule](/the-four-percent-rule/) — how much SIMPLE can sustain
+- [Compound interest](/compound-interest/) — growth of employer and employee contributions
 
 </div>

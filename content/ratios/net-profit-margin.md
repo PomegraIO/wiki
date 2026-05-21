@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the bottom-line profitability metric. For profitability before financing, see [operating margin](/operating-margin). For profitability before taxes and interest, see [EBITDA margin](/ebitda-margin).
+This entry covers the bottom-line profitability metric. For profitability before financing, see [operating margin](/operating-margin/). For profitability before taxes and interest, see [EBITDA margin](/ebitda-margin/).
 
 </div>
 
@@ -81,7 +81,7 @@ Example: A company with $50 billion in revenue and $2.5 billion in net income ha
 
 ## When net margin breaks down
 
-**Leverage distorts the metric.** Two companies with identical operations but different debt levels will have different net margins because one pays more interest. The leveraged company's net margin is artificially depressed. [Operating margin](/operating-margin) is better for comparing operational efficiency.
+**Leverage distorts the metric.** Two companies with identical operations but different debt levels will have different net margins because one pays more interest. The leveraged company's net margin is artificially depressed. [Operating margin](/operating-margin/) is better for comparing operational efficiency.
 
 **Tax rates vary widely.** Two companies with identical operating performance can have very different net margins if they operate in different jurisdictions, have different tax strategies, or benefit from different tax rates. A company paying 10% effective tax rate will have higher net margin than one paying 30%, all else equal.
 
@@ -138,7 +138,7 @@ A company with stable 10% net margin, growing revenue 8% per year, and improving
 
 ## Net margin, return on equity, and business quality
 
-A useful proxy for business quality is the relationship between net margin and [return-on-equity](/return-on-equity). A company with 10% net margin and 15% ROE is likely well-capitalized (not overleveraged). A company with 10% net margin and 40% ROE is likely highly leveraged and risky. The difference reveals capital structure risk that margin alone does not show.
+A useful proxy for business quality is the relationship between net margin and [return-on-equity](/return-on-equity/). A company with 10% net margin and 15% ROE is likely well-capitalized (not overleveraged). A company with 10% net margin and 40% ROE is likely highly leveraged and risky. The difference reveals capital structure risk that margin alone does not show.
 
 ## See also
 
@@ -146,15 +146,15 @@ A useful proxy for business quality is the relationship between net margin and [
 
 ### Closely related
 
-- [Gross profit margin](/gross-profit-margin) — profitability before operating expenses
-- [Operating margin](/operating-margin) — profitability before financing
-- [EBITDA margin](/ebitda-margin) — profitability before depreciation and interest
+- [Gross profit margin](/gross-profit-margin/) — profitability before operating expenses
+- [Operating margin](/operating-margin/) — profitability before financing
+- [EBITDA margin](/ebitda-margin/) — profitability before depreciation and interest
 - Net income — the source metric
-- [Return on equity](/return-on-equity) — profit relative to shareholder capital
+- [Return on equity](/return-on-equity/) — profit relative to shareholder capital
 
 ### Wider context
 
-- [Income statement](/income-statement) — where net income appears
+- [Income statement](/income-statement/) — where net income appears
 - Profitability — the broader concept
 - Business quality — what margins reveal
 - Sustainable growth rate — how margin fuels growth

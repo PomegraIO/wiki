@@ -14,7 +14,7 @@ image: "/svg/fiscal.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers income-transfer payments. For broader benefit programs, see [entitlement spending](/entitlement-spending); for automatic adjustment, see [automatic stabilizer](/automatic-stabilizer); for government spending broadly, see [mandatory spending](/mandatory-spending).
+This entry covers income-transfer payments. For broader benefit programs, see [entitlement spending](/entitlement-spending/); for automatic adjustment, see [automatic stabilizer](/automatic-stabilizer/); for government spending broadly, see [mandatory spending](/mandatory-spending/).
 
 </div>
 
@@ -67,21 +67,21 @@ This is distinct from government purchases. When the government buys a fighter j
 
 From a national accounts perspective, transfer payments are not counted as part of GDP because they do not represent production. When the government spends $1 on a transfer payment, it does not directly add $1 to GDP the way a $1 government purchase does.
 
-However, transfer payments indirectly affect GDP because recipients spend the money, creating demand for goods and services. The economic multiplier effect of transfer payments can be significant during [recessions](/recession).
+However, transfer payments indirectly affect GDP because recipients spend the money, creating demand for goods and services. The economic multiplier effect of transfer payments can be significant during [recessions](/recession/).
 
 ## Transfer payments as automatic stabilizers
 
-Transfer payments expand during [recessions](/recession) because:
+Transfer payments expand during [recessions](/recession/) because:
 
 - **Unemployment insurance:** Increases as more people lose jobs.
 - **Medicaid:** Expands as more people become low-income.
 - **SNAP:** Enrollment rises as incomes fall.
 
-These automatic increases provide cushioning during downturns, supporting demand when the economy is weak. This is why transfer payments are considered [automatic stabilizers](/automatic-stabilizer).
+These automatic increases provide cushioning during downturns, supporting demand when the economy is weak. This is why transfer payments are considered [automatic stabilizers](/automatic-stabilizer/).
 
-## Transfer payments and [budget deficits](/budget-deficit)
+## Transfer payments and [budget deficits](/budget-deficit/)
 
-Transfer payments are part of [mandatory spending](/mandatory-spending) and [entitlement spending](/entitlement-spending), major drivers of [budget deficits](/budget-deficit). As populations age and poverty persists, transfer payment obligations grow, increasing deficits.
+Transfer payments are part of [mandatory spending](/mandatory-spending/) and [entitlement spending](/entitlement-spending/), major drivers of [budget deficits](/budget-deficit/). As populations age and poverty persists, transfer payment obligations grow, increasing deficits.
 
 ## Transfer payments vs. earned income
 
@@ -99,23 +99,23 @@ Modern transfer payments often try to thread this needle:
 
 ### Closely related
 
-- [Entitlement spending](/entitlement-spending) — many transfer payments are entitlements
-- [Mandatory spending](/mandatory-spending) — transfer payments are mostly mandatory
-- [Automatic stabilizer](/automatic-stabilizer) — transfer payments expand during [recessions](/recession)
-- [Social Security](/mandatory-spending) — the largest transfer program
+- [Entitlement spending](/entitlement-spending/) — many transfer payments are entitlements
+- [Mandatory spending](/mandatory-spending/) — transfer payments are mostly mandatory
+- [Automatic stabilizer](/automatic-stabilizer/) — transfer payments expand during [recessions](/recession/)
+- [Social Security](/mandatory-spending/) — the largest transfer program
 
 ### Funding sources
 
 - Income tax marginal — finances transfer payments
 - Payroll tax — finances Social Security and unemployment insurance
-- [Budget deficit](/budget-deficit) — driven partly by transfer payments
-- [National debt](/national-debt) — accumulated due to transfer-payment-driven deficits
+- [Budget deficit](/budget-deficit/) — driven partly by transfer payments
+- [National debt](/national-debt/) — accumulated due to transfer-payment-driven deficits
 
 ### Economic effects
 
-- [Aggregate demand](/central-bank) — transfer payments increase demand
+- [Aggregate demand](/central-bank/) — transfer payments increase demand
 - Fiscal stimulus — transfer payments provide stimulus
-- [Recession](/recession) — transfer payments expand during downturns
-- [Multiplier effect](/fiscal-multiplier) — transfer spending multiplies through the economy
+- [Recession](/recession/) — transfer payments expand during downturns
+- [Multiplier effect](/fiscal-multiplier/) — transfer spending multiplies through the economy
 
 </div>

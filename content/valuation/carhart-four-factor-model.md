@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **Carhart four-factor model** extends the [Fama-French three-factor model](/fama-french-three-factor-model) by adding a momentum factor. It says that cost of equity depends on market risk ([beta](/beta)), size, value characteristics, and momentum—the tendency of stocks that have recently outperformed to continue outperforming. For practitioners valuing stocks with strong or weak recent performance, the addition of momentum can refine cost-of-equity estimates.*
+*The **Carhart four-factor model** extends the [Fama-French three-factor model](/fama-french-three-factor-model/) by adding a momentum factor. It says that cost of equity depends on market risk ([beta](/beta/)), size, value characteristics, and momentum—the tendency of stocks that have recently outperformed to continue outperforming. For practitioners valuing stocks with strong or weak recent performance, the addition of momentum can refine cost-of-equity estimates.*
 
 ## The four factors
 
@@ -96,20 +96,20 @@ For value investors, Carhart is less useful than Fama-French alone.
 
 ### Closely related
 
-- [Fama-French three-factor model](/fama-french-three-factor-model) — the base model
-- [Capital asset pricing model](/capital-asset-pricing-model) — the original model
-- [Cost of equity](/cost-of-equity) — what this estimates
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — the base model
+- [Capital asset pricing model](/capital-asset-pricing-model/) — the original model
+- [Cost of equity](/cost-of-equity/) — what this estimates
 - Momentum — the fourth factor
 
 ### Valuation application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates cost of equity
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates cost of equity
 
 ### Related concepts
 
-- [Arbitrage pricing theory](/arbitrage-pricing-theory) — multi-factor alternative
-- [Fama-French five-factor model](/fama-french-five-factor-model) — further extension
+- [Arbitrage pricing theory](/arbitrage-pricing-theory/) — multi-factor alternative
+- [Fama-French five-factor model](/fama-french-five-factor-model/) — further extension
 
 ### Trading and portfolio
 

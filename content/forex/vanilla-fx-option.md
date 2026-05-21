@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **vanilla FX option** is a standard [currency option](/currency-option) with no special features. It is simply a call (the right to buy) or a put (the right to sell) at a fixed strike price, with a European or American exercise style. Vanilla options are the reference point for all option pricing and the building blocks from which exotic options are constructed.*
+*A **vanilla FX option** is a standard [currency option](/currency-option/) with no special features. It is simply a call (the right to buy) or a put (the right to sell) at a fixed strike price, with a European or American exercise style. Vanilla options are the reference point for all option pricing and the building blocks from which exotic options are constructed.*
 
 <div class="wiki-hatnote">
 
-For options with special features, see [exotic FX option](/exotic-fx-option); for the professional market, see [FX option](/fx-option).
+For options with special features, see [exotic FX option](/exotic-fx-option/); for the professional market, see [FX option](/fx-option/).
 
 </div>
 
@@ -96,16 +96,16 @@ The **binomial model** is an alternative: it models the currency as moving up or
 
 ### Closely related
 
-- [Currency option](/currency-option) — conceptual foundation
-- [FX Option](/fx-option) — professional OTC vanilla options
-- [Exotic FX Option](/exotic-fx-option) — non-standard options
-- [FX Volatility Surface](/fx-volatility-surface) — how vanillas are priced
-- [Strike](/forex-spread) — the exercise rate
+- [Currency option](/currency-option/) — conceptual foundation
+- [FX Option](/fx-option/) — professional OTC vanilla options
+- [Exotic FX Option](/exotic-fx-option/) — non-standard options
+- [FX Volatility Surface](/fx-volatility-surface/) — how vanillas are priced
+- [Strike](/forex-spread/) — the exercise rate
 
 ### Wider context
 
 - Interest rate parity — affects option pricing
-- [Spot exchange rate](/spot-exchange-rate) — reference for strike selection
-- [Forward exchange rate](/forward-exchange-rate) — pricing relationship
+- [Spot exchange rate](/spot-exchange-rate/) — reference for strike selection
+- [Forward exchange rate](/forward-exchange-rate/) — pricing relationship
 
 </div>

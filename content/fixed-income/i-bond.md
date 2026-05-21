@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For Treasury securities traded in secondary markets, see [Treasury note](/treasury-note) and [Treasury bond](/treasury-bond). For fully inflation-indexed Treasuries, see [TIPS](/tips). For other savings products, see [savings bond](/savings-bond).
+For Treasury securities traded in secondary markets, see [Treasury note](/treasury-note/) and [Treasury bond](/treasury-bond/). For fully inflation-indexed Treasuries, see [TIPS](/tips/). For other savings products, see [savings bond](/savings-bond/).
 
 </div>
 
@@ -50,11 +50,11 @@ The inflation component is derived from the Consumer Price Index for all Urban C
 
 ## Why hold I-Bonds: a saver's perspective
 
-I-Bonds are designed for individual savers seeking inflation protection without the complexity of trading bonds. Unlike Treasury notes and bonds, which trade in secondary markets at variable prices, I-Bonds accrue value at a guaranteed formula. The investor never faces [duration](/duration) risk or market price volatility.
+I-Bonds are designed for individual savers seeking inflation protection without the complexity of trading bonds. Unlike Treasury notes and bonds, which trade in secondary markets at variable prices, I-Bonds accrue value at a guaranteed formula. The investor never faces [duration](/duration/) risk or market price volatility.
 
 Over a 30-year horizon, if inflation averages 3% and the fixed rate averages 1%, an I-Bond accumulates real value reliably. A $10,000 purchase returning 4% annualized grows to approximately $32,000 in 30 years (before tax). More importantly, that $32,000 has predictable real purchasing power — the investor knows the nominal return is tied to actual inflation.
 
-The tax treatment is also favorable for long-term savers. Interest accrues inside the bond without annual tax bills (unlike [Treasury notes](/treasury-note) whose coupon payments are taxed annually). Tax is deferred until redemption. If the proceeds are used for qualified education expenses, federal tax can be eliminated entirely.
+The tax treatment is also favorable for long-term savers. Interest accrues inside the bond without annual tax bills (unlike [Treasury notes](/treasury-note/) whose coupon payments are taxed annually). Tax is deferred until redemption. If the proceeds are used for qualified education expenses, federal tax can be eliminated entirely.
 
 ## Limitations and illiquidity
 
@@ -68,15 +68,15 @@ I-Bonds are non-transferable. They cannot be given as gifts, pledged as collater
 
 The Treasury Department sets I-Bond rates based on inflation data, independent of overall Treasury debt markets or Federal Reserve policy. Even if the 10-year Treasury note yields only 2%, if inflation is running 4%, the I-Bond rate might be 4.5% (combining a fixed component with the inflation component).
 
-This creates periods of exceptional attractiveness. During 2021–2023, when [inflation](/inflation) surged and the Fed was slow to raise rates, I-Bond rates reached historically high levels (over 5% at some points). Savers responded by purchasing I-Bonds in record volumes — the Treasury had to implement purchase caps ($10,000 per person per calendar year) to manage demand.
+This creates periods of exceptional attractiveness. During 2021–2023, when [inflation](/inflation/) surged and the Fed was slow to raise rates, I-Bond rates reached historically high levels (over 5% at some points). Savers responded by purchasing I-Bonds in record volumes — the Treasury had to implement purchase caps ($10,000 per person per calendar year) to manage demand.
 
-Conversely, in very low-inflation environments, I-Bond rates can become unattractive relative to [Treasury bills](/treasury-bill) or money-market funds, and redemptions rise. The flexibility of the rate-setting process makes I-Bonds a legitimate alternative to other short-term Treasury savings during high-inflation periods.
+Conversely, in very low-inflation environments, I-Bond rates can become unattractive relative to [Treasury bills](/treasury-bill/) or money-market funds, and redemptions rise. The flexibility of the rate-setting process makes I-Bonds a legitimate alternative to other short-term Treasury savings during high-inflation periods.
 
 ## Comparison to other Treasury savings products
 
-I-Bonds differ fundamentally from [Treasury bills](/treasury-bill) and [Treasury notes](/treasury-note) in purpose and structure. Treasury bills and notes are negotiable securities — they trade in secondary markets and their prices fluctuate. I-Bonds are non-negotiable savings products — they accrue at a formula and cannot be traded.
+I-Bonds differ fundamentally from [Treasury bills](/treasury-bill/) and [Treasury notes](/treasury-note/) in purpose and structure. Treasury bills and notes are negotiable securities — they trade in secondary markets and their prices fluctuate. I-Bonds are non-negotiable savings products — they accrue at a formula and cannot be traded.
 
-Compared to [TIPS](/tips), I-Bonds are simpler but less flexible. TIPS can be bought at any maturity and traded at any time. I-Bonds have a fixed 30-year horizon, are non-transferable, and have early-redemption penalties. For an individual saver with a 10+ year horizon who wants simplicity and tax deferral, I-Bonds are often preferable. For an investor needing flexible access to capital or wanting to match specific future obligations, [TIPS](/tips) are superior.
+Compared to [TIPS](/tips/), I-Bonds are simpler but less flexible. TIPS can be bought at any maturity and traded at any time. I-Bonds have a fixed 30-year horizon, are non-transferable, and have early-redemption penalties. For an individual saver with a 10+ year horizon who wants simplicity and tax deferral, I-Bonds are often preferable. For an investor needing flexible access to capital or wanting to match specific future obligations, [TIPS](/tips/) are superior.
 
 ## See also
 
@@ -84,19 +84,19 @@ Compared to [TIPS](/tips), I-Bonds are simpler but less flexible. TIPS can be bo
 
 ### Closely related
 
-- [Savings bond](/savings-bond) — other Treasury-issued savings products
-- [TIPS](/tips) — Treasury inflation-protected negotiable securities
-- [Treasury note](/treasury-note) — intermediate-term negotiable Treasury debt
-- [Treasury bill](/treasury-bill) — short-term Treasury debt
-- [Inflation](/inflation) — what I-Bonds protect against
-- [Accrued interest](/coupon-rate) — how interest compounds on the bond
+- [Savings bond](/savings-bond/) — other Treasury-issued savings products
+- [TIPS](/tips/) — Treasury inflation-protected negotiable securities
+- [Treasury note](/treasury-note/) — intermediate-term negotiable Treasury debt
+- [Treasury bill](/treasury-bill/) — short-term Treasury debt
+- [Inflation](/inflation/) — what I-Bonds protect against
+- [Accrued interest](/coupon-rate/) — how interest compounds on the bond
 
 ### Wider context
 
-- [Central bank](/central-bank) — the issuer and inflation observer
-- [Interest rate](/interest-rate) — influences the fixed-rate component
-- [Compound interest](/compound-interest) — powers long-term I-Bond growth
-- [Diversification](/diversification) — why adding I-Bonds can improve portfolio outcomes
-- [Tax-deferred](/index-fund) — the tax advantage of I-Bonds
+- [Central bank](/central-bank/) — the issuer and inflation observer
+- [Interest rate](/interest-rate/) — influences the fixed-rate component
+- [Compound interest](/compound-interest/) — powers long-term I-Bond growth
+- [Diversification](/diversification/) — why adding I-Bonds can improve portfolio outcomes
+- [Tax-deferred](/index-fund/) — the tax advantage of I-Bonds
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Nominal GDP is [gross domestic product](/gross-domestic-product) expressed in the prices that prevail at the time of measurement — that is, the actual dollars, euros, or yen that change hands. It is useful for certain applications but misleading for assessing real economic growth.*
+*Nominal GDP is [gross domestic product](/gross-domestic-product/) expressed in the prices that prevail at the time of measurement — that is, the actual dollars, euros, or yen that change hands. It is useful for certain applications but misleading for assessing real economic growth.*
 
 <div class="wiki-hatnote">
 
-Nominal GDP = [Real GDP](/real-gdp) × [Price Level](/gdp-deflator). When prices rise but production stays flat, nominal GDP rises; when production rises but prices fall, nominal GDP may stay flat or fall. [Real GDP](/real-gdp) is better for measuring growth.
+Nominal GDP = [Real GDP](/real-gdp/) × [Price Level](/gdp-deflator/). When prices rise but production stays flat, nominal GDP rises; when production rises but prices fall, nominal GDP may stay flat or fall. [Real GDP](/real-gdp/) is better for measuring growth.
 
 </div>
 
@@ -41,9 +41,9 @@ Nominal GDP = [Real GDP](/real-gdp) × [Price Level](/gdp-deflator). When prices
 
 ## Why nominal differs from real
 
-If a country's nominal GDP grows 7% while [inflation](/inflation) is 5%, real growth is only about 2%. The 7% nominal figure is what people spend and earn, but it overstates the actual increase in physical production.
+If a country's nominal GDP grows 7% while [inflation](/inflation/) is 5%, real growth is only about 2%. The 7% nominal figure is what people spend and earn, but it overstates the actual increase in physical production.
 
-In inflationary environments — particularly during episodes of [stagflation](/stagflation) or [hyperinflation](/hyperinflation) — nominal GDP can soar while real GDP stagnates or even contracts. This happened in the United States in the 1970s: nominal spending and incomes rose sharply, but real purchasing power grew little because inflation ate the gains.
+In inflationary environments — particularly during episodes of [stagflation](/stagflation/) or [hyperinflation](/hyperinflation/) — nominal GDP can soar while real GDP stagnates or even contracts. This happened in the United States in the 1970s: nominal spending and incomes rose sharply, but real purchasing power grew little because inflation ate the gains.
 
 ## When nominal GDP matters
 
@@ -58,13 +58,13 @@ Nominal GDP is nonetheless important:
 
 When comparing countries, economists often use nominal GDP to rank economies by size. The United States has the largest nominal GDP in the world. But comparing nominal GDP across countries without adjusting for exchange rates and price levels can mislead.
 
-A better measure for living-standard comparison is [real GDP per capita](/gdp-per-capita) adjusted for purchasing power parity — what the same basket of goods costs in each country. A wealthy but small country might have high nominal GDP per capita but low real GDP per capita if exchange rates are temporarily favorable.
+A better measure for living-standard comparison is [real GDP per capita](/gdp-per-capita/) adjusted for purchasing power parity — what the same basket of goods costs in each country. A wealthy but small country might have high nominal GDP per capita but low real GDP per capita if exchange rates are temporarily favorable.
 
 ## Nominal growth in a low-inflation world
 
-When [inflation](/inflation) is very low or near zero — as in much of the post-2008 period — nominal and real growth become nearly identical. A 2% nominal growth rate in a world of zero inflation is a 2% real growth rate. This is one reason why [disinflation](/disinflation) and near-zero [inflation](/inflation) can depress nominal GDP growth even when real growth is stable.
+When [inflation](/inflation/) is very low or near zero — as in much of the post-2008 period — nominal and real growth become nearly identical. A 2% nominal growth rate in a world of zero inflation is a 2% real growth rate. This is one reason why [disinflation](/disinflation/) and near-zero [inflation](/inflation/) can depress nominal GDP growth even when real growth is stable.
 
-Central banks must account for this. If the [Federal Reserve](/federal-reserve) aims for 2% [inflation](/inflation) on average, policymakers expect nominal GDP to grow around 4% in a healthy economy (2% real growth + 2% inflation). If nominal growth falls below that, it signals a tightening in financial conditions even if real growth is healthy.
+Central banks must account for this. If the [Federal Reserve](/federal-reserve/) aims for 2% [inflation](/inflation/) on average, policymakers expect nominal GDP to grow around 4% in a healthy economy (2% real growth + 2% inflation). If nominal growth falls below that, it signals a tightening in financial conditions even if real growth is healthy.
 
 ## See also
 
@@ -72,16 +72,16 @@ Central banks must account for this. If the [Federal Reserve](/federal-reserve) 
 
 ### Closely related
 
-- [Real GDP](/real-gdp) — GDP adjusted for inflation
-- [Gross Domestic Product](/gross-domestic-product) — the overall concept
-- [GDP deflator](/gdp-deflator) — the price index converting nominal to real
-- [GDP per capita](/gdp-per-capita) — nominal GDP divided by population
-- [Potential GDP](/potential-gdp) — the trend level in nominal terms
+- [Real GDP](/real-gdp/) — GDP adjusted for inflation
+- [Gross Domestic Product](/gross-domestic-product/) — the overall concept
+- [GDP deflator](/gdp-deflator/) — the price index converting nominal to real
+- [GDP per capita](/gdp-per-capita/) — nominal GDP divided by population
+- [Potential GDP](/potential-gdp/) — the trend level in nominal terms
 
 ### Broader context
 
-- [Inflation](/inflation) — the main difference between nominal and real
-- [Deflation](/deflation) — when nominal GDP can fall even as real grows
+- [Inflation](/inflation/) — the main difference between nominal and real
+- [Deflation](/deflation/) — when nominal GDP can fall even as real grows
 - Macroeconomics — the field using these measures
 - Purchasing power parity — adjusting for cost of living
 

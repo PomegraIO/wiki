@@ -16,7 +16,7 @@ image: "/svg/crypto.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers centralised exchanges. For peer-to-peer trading, see [decentralised exchange](/decentralized-exchange); for general exchange concepts, see [cryptocurrency exchange](/cryptocurrency-exchange).
+This entry covers centralised exchanges. For peer-to-peer trading, see [decentralised exchange](/decentralized-exchange/); for general exchange concepts, see [cryptocurrency exchange](/cryptocurrency-exchange/).
 
 </div>
 
@@ -127,7 +127,7 @@ Most CEXs do not have FDIC insurance (banks do). Some CEXs carry cyber insurance
 
 ## Comparison with DEX
 
-| Aspect | CEX | [DEX](/decentralized-exchange) |
+| Aspect | CEX | [DEX](/decentralized-exchange/) |
 |--------|---|---|
 | **Speed** | Fast (instant) | Slow (blockchain speed) |
 | **Custody** | Custodial | Non-custodial |
@@ -150,15 +150,15 @@ The trend is toward more regulated, professional CEXs and fewer unregulated plat
 
 ### Closely related
 
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — general exchanges
-- [Decentralised exchange](/decentralized-exchange) — peer-to-peer alternative
-- [Automated market maker](/automated-market-maker) — DEX mechanism
-- [Liquidity pool](/liquidity-pool) — provides DEX liquidity
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — general exchanges
+- [Decentralised exchange](/decentralized-exchange/) — peer-to-peer alternative
+- [Automated market maker](/automated-market-maker/) — DEX mechanism
+- [Liquidity pool](/liquidity-pool/) — provides DEX liquidity
 
 ### Wider context
 
-- [Bitcoin](/bitcoin), [Ethereum](/ethereum) — major traded assets
+- [Bitcoin](/bitcoin/), [Ethereum](/ethereum/) — major traded assets
 - Smart contract — used in DEX
-- [Cryptocurrency](/blockchain-fundamentals) — general category
+- [Cryptocurrency](/blockchain-fundamentals/) — general category
 
 </div>

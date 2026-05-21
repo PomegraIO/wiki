@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For specific budget rules, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule), [zero-based budgeting](/zero-based-budgeting), and [envelope budgeting](/envelope-budgeting); for the concept of spending less than you earn, see [savings rate](/savings-rate).
+For specific budget rules, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/), [zero-based budgeting](/zero-based-budgeting/), and [envelope budgeting](/envelope-budgeting/); for the concept of spending less than you earn, see [savings rate](/savings-rate/).
 
 </div>
 
@@ -41,11 +41,11 @@ For specific budget rules, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-r
 
 ## Why budgeting matters
 
-Most people spend money without a deliberate plan, drifting month to month and then wondering where their paycheck went. A budget reverses that: you decide *in advance* what each dollar should do, and then execute the plan. This is not about deprivation — it is about choice. By allocating consciously, you ensure that your largest financial priorities (housing, [retirement](/401k-plan), [emergency savings](/emergency-fund)) get funded before smaller wants crowd them out. A budget is a permission structure, not a punishment.
+Most people spend money without a deliberate plan, drifting month to month and then wondering where their paycheck went. A budget reverses that: you decide *in advance* what each dollar should do, and then execute the plan. This is not about deprivation — it is about choice. By allocating consciously, you ensure that your largest financial priorities (housing, [retirement](/401k-plan/), [emergency savings](/emergency-fund/)) get funded before smaller wants crowd them out. A budget is a permission structure, not a punishment.
 
 ## The main approaches
 
-**Percentage-based rules** allocate income by formula rather than by detailed tracking. The [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule) is the most famous: 50% to necessities, 30% to wants, 20% to savings and debt repayment. This works well for people who dislike detailed tracking and whose income is stable. It breaks down if your situation is unusual (very high income, very low income, unusual expense mix).
+**Percentage-based rules** allocate income by formula rather than by detailed tracking. The [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/) is the most famous: 50% to necessities, 30% to wants, 20% to savings and debt repayment. This works well for people who dislike detailed tracking and whose income is stable. It breaks down if your situation is unusual (very high income, very low income, unusual expense mix).
 
 **Zero-based budgeting** requires you to allocate every dollar to a category before the month begins. Unlike percentage-based approaches, zero-based does not assume a fixed split; instead, you decide category by category based on your goals and constraints. This is more work but gives you precise control.
 
@@ -72,7 +72,7 @@ A typical budget includes:
 - **Transportation** (car payment, fuel, insurance, maintenance, public transit) — typically 10–20%.
 - **Insurance** (health, auto, home, disability) — typically 10–25%, depending on your situation.
 - **Debt repayment** (credit card, student loans) — variable, but a budget should explicitly allocate funds.
-- **Savings and investment** (emergency fund, [retirement accounts](/401k-plan), general investing) — typically 10–20%, though the [FIRE movement](/fire-movement) targets much higher.
+- **Savings and investment** (emergency fund, [retirement accounts](/401k-plan/), general investing) — typically 10–20%, though the [FIRE movement](/fire-movement/) targets much higher.
 - **Discretionary** (entertainment, dining, hobbies, subscriptions) — what is left after necessities and savings.
 
 ## Pitfalls and reality
@@ -82,7 +82,7 @@ Budgets fail when they are too rigid, unrealistic, or built on incorrect assumpt
 - **Underestimating spending.** People often forget variable expenses or fail to account for annual costs (car insurance, gifts, vehicle maintenance).
 - **Being too strict.** A budget that allows zero discretionary spending is unsustainable and breeds resentment.
 - **Not tracking.** Writing a budget and never checking actual spending defeats the purpose.
-- **Ignoring irregular expenses.** A [sinking fund](/sinking-fund) addresses this by setting aside money monthly for annual or quarterly bills.
+- **Ignoring irregular expenses.** A [sinking fund](/sinking-fund/) addresses this by setting aside money monthly for annual or quarterly bills.
 
 ## Digital tools vs. manual
 
@@ -94,16 +94,16 @@ Spreadsheets, apps (YNAB, Mint, EveryDollar), and pen-and-paper all work. The be
 
 ### Closely related
 
-- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule) — a percentage-based budget formula
-- [Zero-based budgeting](/zero-based-budgeting) — allocating every dollar in advance
-- [Envelope budgeting](/envelope-budgeting) — fixed spending limits by category
-- [Sinking fund](/sinking-fund) — budgeting for irregular or large expenses
-- [Pay yourself first](/pay-yourself-first) — prioritizing savings in the budget
+- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/) — a percentage-based budget formula
+- [Zero-based budgeting](/zero-based-budgeting/) — allocating every dollar in advance
+- [Envelope budgeting](/envelope-budgeting/) — fixed spending limits by category
+- [Sinking fund](/sinking-fund/) — budgeting for irregular or large expenses
+- [Pay yourself first](/pay-yourself-first/) — prioritizing savings in the budget
 
 ### Wider context
 
-- [Savings rate](/savings-rate) — the percentage of income saved
-- [Emergency fund](/emergency-fund) — a budget category worth prioritizing
-- [Lifestyle creep](/lifestyle-creep) — how budgets help prevent spending growth
+- [Savings rate](/savings-rate/) — the percentage of income saved
+- [Emergency fund](/emergency-fund/) — a budget category worth prioritizing
+- [Lifestyle creep](/lifestyle-creep/) — how budgets help prevent spending growth
 
 </div>

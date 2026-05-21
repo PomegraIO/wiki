@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Financial Stability Oversight Council** (FSOC) is an interagency body created by the [Dodd-Frank Act](/dodd-frank-act) to monitor systemic financial risks and coordinate regulation. Chaired by the Treasury Secretary and including the heads of the Fed, SEC, CFTC, and other financial regulators, FSOC can identify threats to financial stability and designate non-bank financial institutions as systemically important, subject to additional regulation.*
+*The **Financial Stability Oversight Council** (FSOC) is an interagency body created by the [Dodd-Frank Act](/dodd-frank-act/) to monitor systemic financial risks and coordinate regulation. Chaired by the Treasury Secretary and including the heads of the Fed, SEC, CFTC, and other financial regulators, FSOC can identify threats to financial stability and designate non-bank financial institutions as systemically important, subject to additional regulation.*
 
 <div class="wiki-hatnote">
 
@@ -70,17 +70,17 @@ Critics argue FSOC is too soft — it can recommend but not mandate changes. Oth
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — the statute that created FSOC
-- [Federal Reserve](/federal-reserve-regulation) — FSOC member
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — FSOC member
-- [Systemic risk](/systemic-risk) — what FSOC monitors
+- [Dodd-Frank Act](/dodd-frank-act/) — the statute that created FSOC
+- [Federal Reserve](/federal-reserve-regulation/) — FSOC member
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — FSOC member
+- [Systemic risk](/systemic-risk/) — what FSOC monitors
 - Financial stability — FSOC's mandate
 
 ### Wider context
 
-- [Central bank](/central-bank) — works with FSOC on stability
+- [Central bank](/central-bank/) — works with FSOC on stability
 - Financial crisis — what FSOC aims to prevent
 - Too big to fail — the rationale for systemic importance
-- [Hedge fund](/hedge-fund) — potential FSOC focus
+- [Hedge fund](/hedge-fund/) — potential FSOC focus
 
 </div>

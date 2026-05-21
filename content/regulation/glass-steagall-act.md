@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Glass-Steagall Act** of 1933 was the law that separated commercial banking from investment banking. A bank could either take deposits and make loans, or underwrite securities and trade for its own account, but not both. The Act was meant to prevent conflicts of interest and excessive risk-taking. It was repealed in 1999 by the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act), allowing the re-merger of commercial and investment banking. The question of whether the repeal contributed to the 2008 financial crisis remains contentious.*
+*The **Glass-Steagall Act** of 1933 was the law that separated commercial banking from investment banking. A bank could either take deposits and make loans, or underwrite securities and trade for its own account, but not both. The Act was meant to prevent conflicts of interest and excessive risk-taking. It was repealed in 1999 by the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/), allowing the re-merger of commercial and investment banking. The question of whether the repeal contributed to the 2008 financial crisis remains contentious.*
 
 <div class="wiki-hatnote">
 
-Glass-Steagall (1933) was repealed by Gramm-Leach-Bliley (1999). The [Volcker Rule](/volcker-rule) (2010) is sometimes cited as a partial comeback to Glass-Steagall principles.
+Glass-Steagall (1933) was repealed by Gramm-Leach-Bliley (1999). The [Volcker Rule](/volcker-rule/) (2010) is sometimes cited as a partial comeback to Glass-Steagall principles.
 
 </div>
 
@@ -34,7 +34,7 @@ Glass-Steagall (1933) was repealed by Gramm-Leach-Bliley (1999). The [Volcker Ru
 | **Sponsors** | Senators Glass (D-VA) and Steagall (D-AL) |
 | **Response to** | Bank failures and speculation in 1929 crash |
 | **Core provision** | Separation of commercial and investment banking |
-| **Repeal statute** | [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act) (Fin Mod Act) |
+| **Repeal statute** | [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (Fin Mod Act) |
 
 </aside>
 
@@ -58,11 +58,11 @@ Additionally, if an investment bank speculates and loses, it can impose losses o
 
 Starting in the 1980s, Glass-Steagall began to erode. The Federal Reserve began granting exemptions, allowing bank holding companies to own investment banking affiliates (firewalls between the bank and affiliate were supposed to prevent conflicts). Regulators interpreted the exemptions broadly. By the 1990s, large banks like Citibank were effectively offering both commercial and investment banking through affiliate structures.
 
-The drive for repeal was financial — banks argued Glass-Steagall was antiquated, that modern finance required scale and diversification, and that European banks had no such restrictions and were winning business. Investment banks wanted to own deposit bases (stable funding). The [SEC](/securities-and-exchange-commission) and other regulators quietly agreed with repeal.
+The drive for repeal was financial — banks argued Glass-Steagall was antiquated, that modern finance required scale and diversification, and that European banks had no such restrictions and were winning business. Investment banks wanted to own deposit bases (stable funding). The [SEC](/securities-and-exchange-commission/) and other regulators quietly agreed with repeal.
 
 ## Gramm-Leach-Bliley and the end of Glass-Steagall
 
-The [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act) (Financial Modernization Act), enacted in 1999, formally repealed Glass-Steagall. Banks could now openly combine commercial and investment banking. Large banks immediately began consolidating — merging commercial banking arms with investment banking operations. By 2007, the largest US banks (JPMorgan, Bank of America, Citigroup) were universal banks offering all services.
+The [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (Financial Modernization Act), enacted in 1999, formally repealed Glass-Steagall. Banks could now openly combine commercial and investment banking. Large banks immediately began consolidating — merging commercial banking arms with investment banking operations. By 2007, the largest US banks (JPMorgan, Bank of America, Citigroup) were universal banks offering all services.
 
 ## The crisis and the repeal debate
 
@@ -72,7 +72,7 @@ However, others noted that banks did not fail directly due to securities trading
 
 ## Modern calls to reinstate Glass-Steagall
 
-Some progressives (notably Elizabeth Warren) have called for re-enacting Glass-Steagall. The argument is that modern universal banks are too big and too risky, and that separating commercial from investment banking would reduce systemic risk. Conservatives and banks oppose it, arguing it would reduce scale and competitiveness. The [Volcker Rule](/volcker-rule) (2010) can be seen as a partial re-implementation of Glass-Steagall principles — it prohibits proprietary trading but allows investment banking.
+Some progressives (notably Elizabeth Warren) have called for re-enacting Glass-Steagall. The argument is that modern universal banks are too big and too risky, and that separating commercial from investment banking would reduce systemic risk. Conservatives and banks oppose it, arguing it would reduce scale and competitiveness. The [Volcker Rule](/volcker-rule/) (2010) can be seen as a partial re-implementation of Glass-Steagall principles — it prohibits proprietary trading but allows investment banking.
 
 ## See also
 
@@ -80,8 +80,8 @@ Some progressives (notably Elizabeth Warren) have called for re-enacting Glass-S
 
 ### Closely related
 
-- [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act) — repealed Glass-Steagall
-- [Volcker Rule](/volcker-rule) — partial reinstatement of separation principle
+- [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) — repealed Glass-Steagall
+- [Volcker Rule](/volcker-rule/) — partial reinstatement of separation principle
 - Investment bank — separate from commercial banking under Glass-Steagall
 - Commercial bank — the other side of the separation
 - Securities regulation — investment banking regulation
@@ -89,7 +89,7 @@ Some progressives (notably Elizabeth Warren) have called for re-enacting Glass-S
 ### Wider context
 
 - Financial crisis — prompted debates on Glass-Steagall
-- [Dodd-Frank Act](/dodd-frank-act) — post-crisis regulation
+- [Dodd-Frank Act](/dodd-frank-act/) — post-crisis regulation
 - Too big to fail — what Glass-Steagall aimed to prevent
 - Systemically important — large banks resulting from repeals
 

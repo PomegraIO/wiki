@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the statistical reality of market tail thickness. For the broader concept of extreme loss exposure, see [tail-risk](/tail-risk); for specific unpredictable tail events, see [black-swan](/black-swan).
+This entry covers the statistical reality of market tail thickness. For the broader concept of extreme loss exposure, see [tail-risk](/tail-risk/); for specific unpredictable tail events, see [black-swan](/black-swan/).
 
 </div>
 
@@ -73,7 +73,7 @@ Several mechanisms:
 
 4. **Correlations breakdown.** In calm times, assets move somewhat independently. In crises, correlations jump to 1 — everything falls together, amplifying the decline in a diversified portfolio.
 
-5. **Tail risk itself.** Investors are aware of tail risks and try to hedge. But hedges (like [options](/option)) become expensive as tail events approach. When they materialize, hedges fail or are circumvented, amplifying the move.
+5. **Tail risk itself.** Investors are aware of tail risks and try to hedge. But hedges (like [options](/option/)) become expensive as tail events approach. When they materialize, hedges fail or are circumvented, amplifying the move.
 
 ## Measuring fat tails: Kurtosis
 
@@ -87,15 +87,15 @@ US stock market excess kurtosis is typically 3-10, depending on the period. High
 
 ## Consequences for risk models
 
-Models assuming normal distributions systematically underestimate [value-at-risk](/value-at-risk) and tail risk. A [value-at-risk](/value-at-risk) model might say the portfolio's 99% worst-case loss is 5%, but if returns have fat tails, the actual 99% loss is 8% or more.
+Models assuming normal distributions systematically underestimate [value-at-risk](/value-at-risk/) and tail risk. A [value-at-risk](/value-at-risk/) model might say the portfolio's 99% worst-case loss is 5%, but if returns have fat tails, the actual 99% loss is 8% or more.
 
-This is why [value-at-risk](/value-at-risk) models have repeatedly failed to predict crashes. The 2008 financial crisis saw losses 5-10x larger than [value-at-risk](/value-at-risk) models predicted. This was partly [model-risk](/model-risk), but a large part was simply the failure to account for fat tails.
+This is why [value-at-risk](/value-at-risk/) models have repeatedly failed to predict crashes. The 2008 financial crisis saw losses 5-10x larger than [value-at-risk](/value-at-risk/) models predicted. This was partly [model-risk](/model-risk/), but a large part was simply the failure to account for fat tails.
 
 ## Protecting against fat-tail risk
 
 - **Use non-normal distributions.** Model returns using Student-t distributions or other fat-tailed distributions. This increases the estimated tail probability.
 
-- **[Expected-shortfall](/expected-shortfall).** Instead of [value-at-risk](/value-at-risk), use expected shortfall, which measures the average loss in the tail. This is less sensitive to distributional assumptions.
+- **[Expected-shortfall](/expected-shortfall/).** Instead of [value-at-risk](/value-at-risk/), use expected shortfall, which measures the average loss in the tail. This is less sensitive to distributional assumptions.
 
 - **Empirical tail analysis.** Look at the historical distribution of returns and estimate tail probabilities from data, not assuming any particular distribution.
 
@@ -111,18 +111,18 @@ This is why [value-at-risk](/value-at-risk) models have repeatedly failed to pre
 
 ### Closely related
 
-- [Tail-risk](/tail-risk) — general exposure to extreme losses
+- [Tail-risk](/tail-risk/) — general exposure to extreme losses
 - Kurtosis-financial — statistical measure of tail thickness
-- [Value-at-risk](/value-at-risk) — often misses fat tails
-- [Expected-shortfall](/expected-shortfall) — tail-risk-aware metric
-- [Stress-testing](/stress-testing) — assesses fat-tail scenarios
+- [Value-at-risk](/value-at-risk/) — often misses fat tails
+- [Expected-shortfall](/expected-shortfall/) — tail-risk-aware metric
+- [Stress-testing](/stress-testing/) — assesses fat-tail scenarios
 
 ### Broader context
 
-- [Black-swan](/black-swan) — rare, unpredictable tail event
-- [Volatility](/stock-market) — can spike dramatically in tails
-- [Correlation](/stock-market) — jumps to 1 in tail events
-- [Model-risk](/model-risk) — normal distribution assumption is core model risk
-- [2008 financial crisis](/credit-risk) — exposed fat tails via massive losses
+- [Black-swan](/black-swan/) — rare, unpredictable tail event
+- [Volatility](/stock-market/) — can spike dramatically in tails
+- [Correlation](/stock-market/) — jumps to 1 in tail events
+- [Model-risk](/model-risk/) — normal distribution assumption is core model risk
+- [2008 financial crisis](/credit-risk/) — exposed fat tails via massive losses
 
 </div>

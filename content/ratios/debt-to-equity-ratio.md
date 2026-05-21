@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the fundamental leverage metric. For alternative leverage measures, see [debt-to-assets-ratio](/debt-to-assets-ratio), [debt-to-capital-ratio](/debt-to-capital-ratio), and [debt-to-ebitda-ratio](/debt-to-ebitda-ratio).
+This entry covers the fundamental leverage metric. For alternative leverage measures, see [debt-to-assets-ratio](/debt-to-assets-ratio/), [debt-to-capital-ratio](/debt-to-capital-ratio/), and [debt-to-ebitda-ratio](/debt-to-ebitda-ratio/).
 
 </div>
 
@@ -110,9 +110,9 @@ A tech company with D/E of 2.0 is highly leveraged and risky. A utility with D/E
 
 Related metrics provide different angles on leverage:
 
-- **[Debt-to-assets ratio](/debt-to-assets-ratio):** Total debt ÷ total assets. Shows what fraction of assets are financed by debt.
-- **[Debt-to-capital ratio](/debt-to-capital-ratio):** Total debt ÷ (debt + equity). Shows debt as a percentage of total capital.
-- **[Debt-to-EBITDA ratio](/debt-to-ebitda-ratio):** Total debt ÷ EBITDA. Shows how many years of earnings it would take to pay off debt.
+- **[Debt-to-assets ratio](/debt-to-assets-ratio/):** Total debt ÷ total assets. Shows what fraction of assets are financed by debt.
+- **[Debt-to-capital ratio](/debt-to-capital-ratio/):** Total debt ÷ (debt + equity). Shows debt as a percentage of total capital.
+- **[Debt-to-EBITDA ratio](/debt-to-ebitda-ratio/):** Total debt ÷ EBITDA. Shows how many years of earnings it would take to pay off debt.
 
 Most of these tell similar stories, but debt-to-EBITDA is especially useful for assessing debt service capacity.
 
@@ -134,17 +134,17 @@ A company with D/E of 1.0 and steady cash generation is in good shape. One with 
 
 ### Closely related
 
-- [Debt-to-assets ratio](/debt-to-assets-ratio) — leverage relative to all assets
-- [Debt-to-capital ratio](/debt-to-capital-ratio) — debt as percentage of total capital
-- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio) — leverage relative to earnings
-- [Interest coverage ratio](/interest-coverage-ratio) — ability to service debt
+- [Debt-to-assets ratio](/debt-to-assets-ratio/) — leverage relative to all assets
+- [Debt-to-capital ratio](/debt-to-capital-ratio/) — debt as percentage of total capital
+- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) — leverage relative to earnings
+- [Interest coverage ratio](/interest-coverage-ratio/) — ability to service debt
 - Leverage — the broader concept
 
 ### Wider context
 
 - Financial risk — what leverage creates
 - Capital structure — how the company is financed
-- [Credit rating](/credit-rating) — how lenders view leverage
+- [Credit rating](/credit-rating/) — how lenders view leverage
 - Solvency — long-term financial health
 
 </div>

@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **smart order router (SOR)** is an [algorithmic trading](/algorithmic-trading) system that automatically routes your order to whichever venue (exchange or dark pool) offers the best price at that moment. If you place a buy order for 10,000 shares, the SOR checks the NASDAQ, NYSE, and multiple dark pools, finds the best ask prices across them, and splits your order accordingly — buying 3,000 from NASDAQ, 4,000 from NYSE, 3,000 from a dark pool — all in milliseconds. The result: best execution.*
+*A **smart order router (SOR)** is an [algorithmic trading](/algorithmic-trading/) system that automatically routes your order to whichever venue (exchange or dark pool) offers the best price at that moment. If you place a buy order for 10,000 shares, the SOR checks the NASDAQ, NYSE, and multiple dark pools, finds the best ask prices across them, and splits your order accordingly — buying 3,000 from NASDAQ, 4,000 from NYSE, 3,000 from a dark pool — all in milliseconds. The result: best execution.*
 
 <div class="wiki-hatnote">
 
-For manual order placement, see [limit order](/limit-order) and [market order](/market-order). For venue-specific trading, see [lit venue](/lit-venue) and [dark pool](/dark-pool).
+For manual order placement, see [limit order](/limit-order/) and [market order](/market-order/). For venue-specific trading, see [lit venue](/lit-venue/) and [dark pool](/dark-pool/).
 
 </div>
 
@@ -61,7 +61,7 @@ Without a SOR, your broker might have routed all 10,000 to one venue (perhaps th
 
 SORs route to:
 
-**Lit exchanges:** NYSE, NASDAQ, regional exchanges (EDGX, EDGA, etc.). These have transparent order books and are subject to [best execution](/best-execution) rules.
+**Lit exchanges:** NYSE, NASDAQ, regional exchanges (EDGX, EDGA, etc.). These have transparent order books and are subject to [best execution](/best-execution/) rules.
 
 **Dark pools:** Citadel, Virtu, Liquidnet, and others. Price is often the midpoint of the lit-market spread; fills are not guaranteed.
 
@@ -75,7 +75,7 @@ A modern SOR balances lit and dark routing: hitting lit venues for certainty and
 
 **Improved average price:** For large orders split across multiple venues, the average price is often noticeably better.
 
-**Regulatory compliance:** SORs help brokers meet [best execution](/best-execution) obligations under Reg NMS and similar regulations.
+**Regulatory compliance:** SORs help brokers meet [best execution](/best-execution/) obligations under Reg NMS and similar regulations.
 
 **Transparent process:** Brokers can report exactly where your order went and at what prices.
 
@@ -98,7 +98,7 @@ A modern SOR balances lit and dark routing: hitting lit venues for certainty and
 
 ## SOR and regulation
 
-Reg NMS and [best execution](/best-execution) rules require that:
+Reg NMS and [best execution](/best-execution/) rules require that:
 - Brokers use SORs (or equivalent) to achieve best prices.
 - SORs must account for all venues, not just exchanges with affiliate relationships.
 - Brokers must regularly review and test their SORs.
@@ -107,7 +107,7 @@ Brokers that do not have adequate SORs can face regulatory action.
 
 ## Payment for order flow and conflicts
 
-Some brokers operate SORs that secretly route orders to affiliated brokers or market makers, even if better prices are available elsewhere. This is called [payment for order flow](/payment-for-order-flow) (PFOF) and is controversial.
+Some brokers operate SORs that secretly route orders to affiliated brokers or market makers, even if better prices are available elsewhere. This is called [payment for order flow](/payment-for-order-flow/) (PFOF) and is controversial.
 
 **Concern:** A broker that receives kickbacks from a dark pool might route orders there even if lit venues offer better prices.
 
@@ -150,23 +150,23 @@ Average fill price: $320.504. Versus if you had hit NYSE's bid of $320.49, you w
 
 ### Closely related
 
-- [Algorithmic trading](/algorithmic-trading) — parent category
-- [Best execution](/best-execution) — regulatory goal of SORs
-- [Lit venue](/lit-venue) — public exchanges SOR routes to
-- [Dark pool](/dark-pool) — private venues SOR routes to
+- [Algorithmic trading](/algorithmic-trading/) — parent category
+- [Best execution](/best-execution/) — regulatory goal of SORs
+- [Lit venue](/lit-venue/) — public exchanges SOR routes to
+- [Dark pool](/dark-pool/) — private venues SOR routes to
 
 ### Order routing and execution
 
-- [VWAP order](/vwap-order) — algorithmic execution targeting volume-weighted price
-- [TWAP order](/twap-order) — time-weighted execution
-- [Market order](/market-order) — often routed via SOR
-- [Limit order](/limit-order) — routed via SOR to best venue
+- [VWAP order](/vwap-order/) — algorithmic execution targeting volume-weighted price
+- [TWAP order](/twap-order/) — time-weighted execution
+- [Market order](/market-order/) — often routed via SOR
+- [Limit order](/limit-order/) — routed via SOR to best venue
 
 ### Regulatory and quality
 
 - Reg NMS — requires SORs to achieve best prices
-- [NBBO](/nbbo) — national best bid-offer; SOR targets this
-- [Payment for order flow](/payment-for-order-flow) — creates SOR conflicts
+- [NBBO](/nbbo/) — national best bid-offer; SOR targets this
+- [Payment for order flow](/payment-for-order-flow/) — creates SOR conflicts
 - Trade-through rule — protects best prices
 
 ### Market structure

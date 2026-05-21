@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to recency bias and representativeness. For a specific starting-point bias, see [anchoring bias](/anchoring-bias).
+Related to recency bias and representativeness. For a specific starting-point bias, see [anchoring bias](/anchoring-bias/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to recency bias and representativeness. For a specific starting-point bi
 | **Discovered by** | Tversky & Kahneman (1973) |
 | **Operates on** | Risk assessment, frequency judgment, market expectations |
 | **Investor impact** | Overestimating risks of recent market crashes; underestimating rare catastrophes; chasing recent winners |
-| **Related phenomenon** | [Recency bias](/recency-bias), emotional salience |
+| **Related phenomenon** | [Recency bias](/recency-bias/), emotional salience |
 | **Severity** | Extremely common; affects experts and laypeople |
 
 </aside>
@@ -41,7 +41,7 @@ Related to recency bias and representativeness. For a specific starting-point bi
 
 When you are asked "How likely is a market crash?" your mind does not calculate probabilities from historical data. Instead, it searches for examples of market crashes and counts how easily they come to mind. If you just lived through a sharp correction or saw vivid media coverage of one, examples are easy to retrieve. Your brain interprets this availability as evidence that crashes are common, and estimates the probability as higher than it truly is.
 
-The opposite also happens. A [recession](/recession) that has not occurred recently becomes harder to imagine, so people estimate its probability as lower — even if the long-run frequency suggests otherwise.
+The opposite also happens. A [recession](/recession/) that has not occurred recently becomes harder to imagine, so people estimate its probability as lower — even if the long-run frequency suggests otherwise.
 
 Availability is also not purely about recency. A vivid example — a financial crisis, a company bankruptcy, a spectacular fraud — remains available in memory for years, even decades. The 2008 financial crisis still dominates how many investors think about risk, even though it happened 18 years ago.
 
@@ -57,7 +57,7 @@ Availability is also not purely about recency. A vivid example — a financial c
 
 ## Availability vs. actual probability
 
-The gap between availability and actual frequency is sometimes enormous. Fatal car accidents are far more likely than fatal shark attacks, yet people fear sharks more because shark attacks are more memorable and available. Similarly, investors fear a stock market crash (vivid, media-covered, emotionally impactful) more than they fear a slow erosion of [purchasing power](/inflation) due to inflation (gradual, invisible, hard to notice).
+The gap between availability and actual frequency is sometimes enormous. Fatal car accidents are far more likely than fatal shark attacks, yet people fear sharks more because shark attacks are more memorable and available. Similarly, investors fear a stock market crash (vivid, media-covered, emotionally impactful) more than they fear a slow erosion of [purchasing power](/inflation/) due to inflation (gradual, invisible, hard to notice).
 
 A hedge fund manager might have a long career of success with no major blowup; but one spectacular failure by a competitor is vivid and available, so the manager overestimates how likely a blowup is. This can lead to overhedging or excessive caution that hurts returns.
 
@@ -69,7 +69,7 @@ This means that sentiment extremes — maximum fear, maximum greed — often occ
 
 ## Distinguishing availability from other biases
 
-Availability heuristic is about how *easy to recall* something is. [Recency bias](/recency-bias) is about *when* it happened (recent things feel more important). [Anchoring bias](/anchoring-bias) is about dependence on a specific starting number. [Representativeness](/representativeness-heuristic) is about how similar something is to a stereotype.
+Availability heuristic is about how *easy to recall* something is. [Recency bias](/recency-bias/) is about *when* it happened (recent things feel more important). [Anchoring bias](/anchoring-bias/) is about dependence on a specific starting number. [Representativeness](/representativeness-heuristic/) is about how similar something is to a stereotype.
 
 All four can operate together in the same judgment, making biased decisions very sticky.
 
@@ -78,8 +78,8 @@ All four can operate together in the same judgment, making biased decisions very
 - **Keep a reference class.** When estimating the probability of an event, write down the base rate — how often has this actually occurred historically? Use that as your anchor, not the vivid examples that come to mind.
 - **Separate media attention from probability.** Ask yourself: "Is this getting news coverage because it is common or because it is unusual?" Unusual events get more media coverage, which makes them more available, which makes you overestimate their frequency.
 - **Review historical frequency.** How many market crashes have there been in the past 100 years? In the past 50? This broader history is less available but more reliable than the vividest recent example.
-- **Use data, not memory.** When making portfolio decisions, consult historical statistics of [correlation](/beta), [drawdowns](/bear-market), and [volatility](/beta), not the examples you happen to remember.
-- **Diversify actively.** If you are prone to overweighting available examples, a strict [diversification](/diversification) rule forces you away from the vivid stocks and toward a broader portfolio.
+- **Use data, not memory.** When making portfolio decisions, consult historical statistics of [correlation](/beta/), [drawdowns](/bear-market/), and [volatility](/beta/), not the examples you happen to remember.
+- **Diversify actively.** If you are prone to overweighting available examples, a strict [diversification](/diversification/) rule forces you away from the vivid stocks and toward a broader portfolio.
 
 ## See also
 
@@ -87,18 +87,18 @@ All four can operate together in the same judgment, making biased decisions very
 
 ### Closely related
 
-- [Recency bias](/recency-bias) — overweighting recent events
-- [Representativeness heuristic](/representativeness-heuristic) — judging by similarity to a stereotype
-- [Anchoring bias](/anchoring-bias) — overweighting a starting point
+- [Recency bias](/recency-bias/) — overweighting recent events
+- [Representativeness heuristic](/representativeness-heuristic/) — judging by similarity to a stereotype
+- [Anchoring bias](/anchoring-bias/) — overweighting a starting point
 - Home bias — overweighting familiar stocks
 - Market sentiment indicators — how availability drives sentiment
 
 ### Wider context
 
-- [Base rate neglect](/base-rate-neglect) — ignoring baseline probability
-- [Gamblers fallacy](/gamblers-fallacy) — misunderstanding randomness
-- [Overconfidence bias](/overconfidence-bias) — excessive certainty in judgments
-- [Bull market](/bull-market) · [Bear market](/bear-market) — where availability bias drives cycles
-- [Prospect theory](/prospect-theory) — the broader framework of non-rational choice
+- [Base rate neglect](/base-rate-neglect/) — ignoring baseline probability
+- [Gamblers fallacy](/gamblers-fallacy/) — misunderstanding randomness
+- [Overconfidence bias](/overconfidence-bias/) — excessive certainty in judgments
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — where availability bias drives cycles
+- [Prospect theory](/prospect-theory/) — the broader framework of non-rational choice
 
 </div>

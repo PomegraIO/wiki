@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers Enron's collapse. For the regulatory response, see [Sarbanes-Oxley Act](/sarbanes-oxley-act); for the broader corporate governance failures, see corporate fraud.
+This entry covers Enron's collapse. For the regulatory response, see [Sarbanes-Oxley Act](/sarbanes-oxley-act/); for the broader corporate governance failures, see corporate fraud.
 
 </div>
 
@@ -90,8 +90,8 @@ The scandal vindicated critics who had warned that financial engineering and agg
 
 ### Closely related
 
-- [Sarbanes-Oxley Act](/sarbanes-oxley-act) — the regulatory response
-- [WorldCom scandal](/worldcom-scandal) — a parallel accounting fraud
+- [Sarbanes-Oxley Act](/sarbanes-oxley-act/) — the regulatory response
+- [WorldCom scandal](/worldcom-scandal/) — a parallel accounting fraud
 - Accounting fraud — the general phenomenon
 
 ### Wider context

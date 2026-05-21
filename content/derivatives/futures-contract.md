@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **futures contract** is a standardized derivative agreement obligating the buyer to purchase and the seller to deliver a specified quantity of an underlying asset (stock index, commodity, currency, interest-rate instrument) at a predetermined [price](/strike-price) on a specified future date. Unlike [option](/option)s, futures carry symmetric obligations for both parties. Futures are [mark-to-market](/mark-to-market) daily, meaning gains and losses are settled every trading day, and both parties post [margin](/initial-margin) to guarantee performance.*
+*A **futures contract** is a standardized derivative agreement obligating the buyer to purchase and the seller to deliver a specified quantity of an underlying asset (stock index, commodity, currency, interest-rate instrument) at a predetermined [price](/strike-price/) on a specified future date. Unlike [option](/option/)s, futures carry symmetric obligations for both parties. Futures are [mark-to-market](/mark-to-market/) daily, meaning gains and losses are settled every trading day, and both parties post [margin](/initial-margin/) to guarantee performance.*
 
 <aside class="wiki-infobox">
 
@@ -35,20 +35,20 @@ image: "/svg/derivatives.svg"
 
 </aside>
 
-## Futures vs. [forward-contract](/forward-contract)
+## Futures vs. [forward-contract](/forward-contract/)
 
 Futures and forwards are cousins but differ critically:
 
-- **Futures:** Standardized, traded on exchanges, daily mark-to-market, [margin](/initial-margin) required, liquid.
+- **Futures:** Standardized, traded on exchanges, daily mark-to-market, [margin](/initial-margin/) required, liquid.
 - **Forwards:** Custom, bilateral over-the-counter, settled at maturity, no daily margin calls, illiquid.
 
-A [forward-contract](/forward-contract) on crude oil is a private deal between two parties. A crude oil futures contract is standardized (quantity, grade, delivery location, expiration) and traded on the CME.
+A [forward-contract](/forward-contract/) on crude oil is a private deal between two parties. A crude oil futures contract is standardized (quantity, grade, delivery location, expiration) and traded on the CME.
 
 ## Leverage and margin
 
-A futures contract with a notional value of $100,000 might require only $5,000 [initial margin](/initial-margin). This 20:1 leverage amplifies gains and losses. A 1% move in the underlying translates to a 20% gain or loss on margin.
+A futures contract with a notional value of $100,000 might require only $5,000 [initial margin](/initial-margin/). This 20:1 leverage amplifies gains and losses. A 1% move in the underlying translates to a 20% gain or loss on margin.
 
-Traders must maintain [maintenance-margin](/maintenance-margin) (typically 70–80% of initial margin). If losses drop the account below maintenance, a **margin call** forces the trader to deposit more funds or close the position.
+Traders must maintain [maintenance-margin](/maintenance-margin/) (typically 70–80% of initial margin). If losses drop the account below maintenance, a **margin call** forces the trader to deposit more funds or close the position.
 
 ## Daily settlement: mark-to-market
 
@@ -62,11 +62,11 @@ At the end of each trading day, all futures contracts are revalued at the settle
 
 **Currency futures:** EUR/USD, GBP/USD. Used by importers, exporters, and currency traders.
 
-**Interest-rate futures:** Treasury [bond](/bond) futures, Eurodollar futures. Used by banks, pension funds, and fixed-income traders.
+**Interest-rate futures:** Treasury [bond](/bond/) futures, Eurodollar futures. Used by banks, pension funds, and fixed-income traders.
 
-## [Contango](/contango) and [backwardation](/backwardation)
+## [Contango](/contango/) and [backwardation](/backwardation/)
 
-Futures prices typically differ from spot prices due to [cost-of-carry](/cost-of-carry). In [contango](/contango), farther-dated contracts are more expensive (storage costs push prices up). In [backwardation](/backwardation), farther-dated contracts are cheaper (convenience yield or supply shortage).
+Futures prices typically differ from spot prices due to [cost-of-carry](/cost-of-carry/). In [contango](/contango/), farther-dated contracts are more expensive (storage costs push prices up). In [backwardation](/backwardation/), farther-dated contracts are cheaper (convenience yield or supply shortage).
 
 These relationships affect hedging strategies and create arbitrage opportunities.
 
@@ -100,12 +100,12 @@ These relationships affect hedging strategies and create arbitrage opportunities
 
 - [Hedging](/hedge-fund/) — using futures to reduce risk
 - [Arbitrage](/alpha/) — exploiting spot-futures mispricings
-- [Speculation](/stock-market) — directional bets using leverage
+- [Speculation](/stock-market/) — directional bets using leverage
 
 ### Deeper context
 
 - [Derivative](/option/) — the family of instruments
 - [Exchange](/stock-exchange/) — regulated trading venue
-- [Commodity](/stock-market) — common underlying
+- [Commodity](/stock-market/) — common underlying
 
 </div>

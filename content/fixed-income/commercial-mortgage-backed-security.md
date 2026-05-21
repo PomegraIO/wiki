@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **commercial mortgage-backed security** — or **CMBS** — is a debt security collateralized by a pool of mortgages on commercial real estate (office buildings, retail centers, hotels, apartments, industrial properties). CMBS are structured with multiple [tranches](/collateralized-debt-obligation), with senior tranches receiving priority claims on cash flows and [default](/default-rate) losses.*
+*A **commercial mortgage-backed security** — or **CMBS** — is a debt security collateralized by a pool of mortgages on commercial real estate (office buildings, retail centers, hotels, apartments, industrial properties). CMBS are structured with multiple [tranches](/collateralized-debt-obligation/), with senior tranches receiving priority claims on cash flows and [default](/default-rate/) losses.*
 
 <div class="wiki-hatnote">
 
-For residential mortgage securitization, see [mortgage-backed security](/mortgage-backed-security). For broader securitization, see [asset-backed security](/asset-backed-security) and [collateralized debt obligation](/collateralized-debt-obligation).
+For residential mortgage securitization, see [mortgage-backed security](/mortgage-backed-security/). For broader securitization, see [asset-backed security](/asset-backed-security/) and [collateralized debt obligation](/collateralized-debt-obligation/).
 
 </div>
 
@@ -42,7 +42,7 @@ For residential mortgage securitization, see [mortgage-backed security](/mortgag
 
 ## Structure and tranching
 
-Unlike residential [mortgage-backed securities](/mortgage-backed-security), which are typically pass-through structures where all investors receive pro-rata cash flows, CMBS are structured with multiple tranches that have different priorities.
+Unlike residential [mortgage-backed securities](/mortgage-backed-security/), which are typically pass-through structures where all investors receive pro-rata cash flows, CMBS are structured with multiple tranches that have different priorities.
 
 A typical CMBS structure might be:
 
@@ -55,9 +55,9 @@ This waterfall structure protects senior holders from losses. The pool must expe
 
 ## Property risk and diversification
 
-CMBS pools are [diversified](/diversification) across properties and geographies. A large pool might include 200 properties across 20 metropolitan areas, spanning office, retail, industrial, and multifamily. This [diversification](/diversification) reduces any single property's impact on the pool's performance.
+CMBS pools are [diversified](/diversification/) across properties and geographies. A large pool might include 200 properties across 20 metropolitan areas, spanning office, retail, industrial, and multifamily. This [diversification](/diversification/) reduces any single property's impact on the pool's performance.
 
-However, the pools are exposed to systematic real estate risk — recession, interest rates, property market cycles. A severe recession that depresses office and retail rents affects the entire pool simultaneously, creating correlation risk that [diversification](/diversification) cannot eliminate.
+However, the pools are exposed to systematic real estate risk — recession, interest rates, property market cycles. A severe recession that depresses office and retail rents affects the entire pool simultaneously, creating correlation risk that [diversification](/diversification/) cannot eliminate.
 
 ## The 2008 crisis and CMBS default
 
@@ -75,9 +75,9 @@ If property values fall 20%, the loan-to-value rises from 70% to 87.5% ($70M ÷ 
 
 ## Comparison to residential MBS and corporate bonds
 
-CMBS differ from residential [mortgage-backed securities](/mortgage-backed-security) in pool composition and property risk profile. Residential mortgages are largely homogeneous (prime vs. subprime); commercial properties are heterogeneous (office vs. retail vs. industrial).
+CMBS differ from residential [mortgage-backed securities](/mortgage-backed-security/) in pool composition and property risk profile. Residential mortgages are largely homogeneous (prime vs. subprime); commercial properties are heterogeneous (office vs. retail vs. industrial).
 
-CMBS also differ from [corporate bonds](/corporate-bond) in that the underlying cash flow is real estate revenue, not operational earnings. Office tenants pay rent; office companies earn revenue and pay interest from that revenue. The credit profile is tied directly to property performance.
+CMBS also differ from [corporate bonds](/corporate-bond/) in that the underlying cash flow is real estate revenue, not operational earnings. Office tenants pay rent; office companies earn revenue and pay interest from that revenue. The credit profile is tied directly to property performance.
 
 ## Current market dynamics
 
@@ -87,9 +87,9 @@ CMBS credit spreads widened as investors demanded more compensation for commerci
 
 ## Liquidity and trading
 
-CMBS trade less actively than [Treasury securities](/treasury-bond) or agency [mortgage-backed securities](/mortgage-backed-security), with wider [bid-ask spreads](/credit-spread). Senior tranches (AAA) trade relatively actively; lower-rated and equity tranches are less [liquid](/stock-exchange).
+CMBS trade less actively than [Treasury securities](/treasury-bond/) or agency [mortgage-backed securities](/mortgage-backed-security/), with wider [bid-ask spreads](/credit-spread/). Senior tranches (AAA) trade relatively actively; lower-rated and equity tranches are less [liquid](/stock-exchange/).
 
-The relative [illiquidity](/stock-exchange) compared to straight [corporate bonds](/corporate-bond) is priced into yields, providing compensation for investors willing to hold less [liquid](/stock-exchange) positions.
+The relative [illiquidity](/stock-exchange/) compared to straight [corporate bonds](/corporate-bond/) is priced into yields, providing compensation for investors willing to hold less [liquid](/stock-exchange/) positions.
 
 ## See also
 
@@ -97,18 +97,18 @@ The relative [illiquidity](/stock-exchange) compared to straight [corporate bond
 
 ### Closely related
 
-- [Mortgage-backed security](/mortgage-backed-security) — residential mortgage securitization
-- [Asset-backed security](/asset-backed-security) — loans securitized more broadly
-- [Collateralized debt obligation](/collateralized-debt-obligation) — complex tranched structures
-- [Credit spread](/credit-spread) — why CMBS yields exceed Treasuries
-- [Default rate](/default-rate) — determines CMBS performance
+- [Mortgage-backed security](/mortgage-backed-security/) — residential mortgage securitization
+- [Asset-backed security](/asset-backed-security/) — loans securitized more broadly
+- [Collateralized debt obligation](/collateralized-debt-obligation/) — complex tranched structures
+- [Credit spread](/credit-spread/) — why CMBS yields exceed Treasuries
+- [Default rate](/default-rate/) — determines CMBS performance
 
 ### Wider context
 
-- [Real estate](/stock-market) — the underlying collateral
-- [Recession](/recession) — stress tests commercial property values
-- [Interest rate](/interest-rate) — affects property values and CMBS pricing
-- [Hedge fund](/hedge-fund) — active CMBS traders
-- [Diversification](/diversification) — why pooling reduces property risk
+- [Real estate](/stock-market/) — the underlying collateral
+- [Recession](/recession/) — stress tests commercial property values
+- [Interest rate](/interest-rate/) — affects property values and CMBS pricing
+- [Hedge fund](/hedge-fund/) — active CMBS traders
+- [Diversification](/diversification/) — why pooling reduces property risk
 
 </div>

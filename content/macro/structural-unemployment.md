@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Structural unemployment is [unemployment](/unemployment-rate) caused by persistent mismatches between available jobs and workers' skills, experience, or location. Unlike [cyclical unemployment](/cyclical-unemployment), which disappears when demand recovers, structural unemployment is stubbornly high even in good times because the mismatch is fundamental, not demand-driven.*
+*Structural unemployment is [unemployment](/unemployment-rate/) caused by persistent mismatches between available jobs and workers' skills, experience, or location. Unlike [cyclical unemployment](/cyclical-unemployment/), which disappears when demand recovers, structural unemployment is stubbornly high even in good times because the mismatch is fundamental, not demand-driven.*
 
 <div class="wiki-hatnote">
 
-Structural unemployment contributes to the [natural rate of unemployment](/natural-rate-of-unemployment). When an economy has high structural unemployment, the [natural rate](/natural-rate-of-unemployment) is high, and more stimulus cannot durably reduce [unemployment](/unemployment-rate) without triggering [inflation](/inflation).
+Structural unemployment contributes to the [natural rate of unemployment](/natural-rate-of-unemployment/). When an economy has high structural unemployment, the [natural rate](/natural-rate-of-unemployment/) is high, and more stimulus cannot durably reduce [unemployment](/unemployment-rate/) without triggering [inflation](/inflation/).
 
 </div>
 
@@ -61,13 +61,13 @@ Structural unemployment arises from several sources:
 - Manufacturing decline leaves displaced workers; service jobs require different skills.
 - Automation eliminates jobs in some sectors faster than others.
 
-## Structural versus [frictional unemployment](/frictional-unemployment)
+## Structural versus [frictional unemployment](/frictional-unemployment/)
 
-Both are part of the [natural rate](/natural-rate-of-unemployment), but they differ:
+Both are part of the [natural rate](/natural-rate-of-unemployment/), but they differ:
 
 | **Type** | **Cause** | **Typical Duration** | **Policy Fix** |
 |---|---|---|---|
-| **[Frictional](/frictional-unemployment)** | Normal job search | 1–4 weeks | Faster job matching |
+| **[Frictional](/frictional-unemployment/)** | Normal job search | 1–4 weeks | Faster job matching |
 | **Structural** | Skills/location mismatch | Months to years | Retraining, relocation |
 
 A software engineer between jobs quickly finds work (frictional). A coal miner without retraining struggles to find stable work (structural).
@@ -79,19 +79,19 @@ Structural unemployment is hard to measure directly. Approaches include:
 1. **Skills match analysis:** Compare job vacancy requirements to worker qualifications.
 2. **Mismatch indices:** Track skills gaps and geographic disconnects.
 3. **Wage differentials:** If wages for some jobs are rising while workers cannot fill them, structural mismatch exists.
-4. **Residual estimation:** Subtract [frictional unemployment](/frictional-unemployment) and [cyclical unemployment](/cyclical-unemployment) from total [unemployment](/unemployment-rate); remainder is "structural."
+4. **Residual estimation:** Subtract [frictional unemployment](/frictional-unemployment/) and [cyclical unemployment](/cyclical-unemployment/) from total [unemployment](/unemployment-rate/); remainder is "structural."
 
 Estimates suggest structural unemployment is 1–3% in developed economies.
 
 ## Structural unemployment and the natural rate
 
-The [natural rate of unemployment](/natural-rate-of-unemployment) is roughly [frictional unemployment](/frictional-unemployment) + structural unemployment:
+The [natural rate of unemployment](/natural-rate-of-unemployment/) is roughly [frictional unemployment](/frictional-unemployment/) + structural unemployment:
 
-**[Natural rate](/natural-rate-of-unemployment) ≈ [Frictional](/frictional-unemployment) + Structural**
+**[Natural rate](/natural-rate-of-unemployment/) ≈ [Frictional](/frictional-unemployment/) + Structural**
 
-If [frictional unemployment](/frictional-unemployment) is 1% and structural is 2%, the [natural rate](/natural-rate-of-unemployment) is 3%. Reducing [unemployment](/unemployment-rate) below 3% requires the economy to heat up — creating [cyclical unemployment](/cyclical-unemployment) of -1%, which will trigger [inflation](/inflation).
+If [frictional unemployment](/frictional-unemployment/) is 1% and structural is 2%, the [natural rate](/natural-rate-of-unemployment/) is 3%. Reducing [unemployment](/unemployment-rate/) below 3% requires the economy to heat up — creating [cyclical unemployment](/cyclical-unemployment/) of -1%, which will trigger [inflation](/inflation/).
 
-An economy with high structural unemployment has a high [natural rate](/natural-rate-of-unemployment) and limited scope for stimulus before [inflation](/inflation) accelerates.
+An economy with high structural unemployment has a high [natural rate](/natural-rate-of-unemployment/) and limited scope for stimulus before [inflation](/inflation/) accelerates.
 
 ## Examples across time and place
 
@@ -141,7 +141,7 @@ Economists disagree on how much structural unemployment exists today:
 - **Pessimists** argue that automation, globalization, and sectoral shifts have raised structural unemployment to 5%+.
 - **Optimists** argue that technology also creates new jobs and that structural unemployment is 2–3%.
 
-This debate matters: if structural unemployment is high, policymakers cannot sustainably push [unemployment](/unemployment-rate) much lower without igniting [inflation](/inflation).
+This debate matters: if structural unemployment is high, policymakers cannot sustainably push [unemployment](/unemployment-rate/) much lower without igniting [inflation](/inflation/).
 
 ## See also
 
@@ -149,18 +149,18 @@ This debate matters: if structural unemployment is high, policymakers cannot sus
 
 ### Closely related
 
-- [Frictional unemployment](/frictional-unemployment) — job search component
-- [Cyclical unemployment](/cyclical-unemployment) — demand-driven component
-- [Unemployment rate](/unemployment-rate) — the aggregate
-- [Natural rate of unemployment](/natural-rate-of-unemployment) — includes structural
+- [Frictional unemployment](/frictional-unemployment/) — job search component
+- [Cyclical unemployment](/cyclical-unemployment/) — demand-driven component
+- [Unemployment rate](/unemployment-rate/) — the aggregate
+- [Natural rate of unemployment](/natural-rate-of-unemployment/) — includes structural
 - Skills mismatch — a driver of structural unemployment
 
 ### Broader context
 
-- [Inflation](/inflation) — accelerates when structural unemployment is high
+- [Inflation](/inflation/) — accelerates when structural unemployment is high
 - Phillips curve — structural unemployment affects slope
-- [Recession](/recession) — can shift [frictional](/frictional-unemployment) to structural
-- [Labor market](/labor-force-participation-rate) — dynamics
+- [Recession](/recession/) — can shift [frictional](/frictional-unemployment/) to structural
+- [Labor market](/labor-force-participation-rate/) — dynamics
 - Occupational licensing — raises structural unemployment
 
 </div>

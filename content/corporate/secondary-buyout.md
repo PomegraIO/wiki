@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **secondary buyout** is a [leveraged buyout](/leveraged-buyout) in which the seller is another private equity firm, rather than a strategic buyer, public shareholders, or a founder. In a secondary buyout, a PE firm acquires a company from another PE firm's portfolio. This has become an increasingly common exit strategy for private equity, as growing numbers of PE firms must deploy capital and are willing to buy from competitors. Secondary buyouts represent the recycling of capital and deal activity within the private equity industry.*
+*A **secondary buyout** is a [leveraged buyout](/leveraged-buyout/) in which the seller is another private equity firm, rather than a strategic buyer, public shareholders, or a founder. In a secondary buyout, a PE firm acquires a company from another PE firm's portfolio. This has become an increasingly common exit strategy for private equity, as growing numbers of PE firms must deploy capital and are willing to buy from competitors. Secondary buyouts represent the recycling of capital and deal activity within the private equity industry.*
 
 <div class="wiki-hatnote">
 
-This entry covers secondary buyouts as a transaction type and PE exit mechanism. For the financing structure, see [leveraged buyout](/leveraged-buyout); for related transactions, see [management buyout](/management-buyout) and [going-private transaction](/going-private).
+This entry covers secondary buyouts as a transaction type and PE exit mechanism. For the financing structure, see [leveraged buyout](/leveraged-buyout/); for related transactions, see [management buyout](/management-buyout/) and [going-private transaction](/going-private/).
 
 </div>
 
@@ -28,19 +28,19 @@ This entry covers secondary buyouts as a transaction type and PE exit mechanism.
 
 |   |   |
 |---|---|
-| **What it is** | [Leveraged buyout](/leveraged-buyout) where seller is another PE firm |
+| **What it is** | [Leveraged buyout](/leveraged-buyout/) where seller is another PE firm |
 | **Frequency** | Growing; now accounts for 20–30% of PE exit activity |
 | **Buyers** | Megafunds (KKR, Blackstone, Apollo, Carlyle) |
 | **Price** | Often higher than strategic sale (bidding competition among PE firms) |
 | **Typical holding period** | 5–7 years before exit |
 | **Advantage** | Multiple exit opportunities; PE buyer understands the business model |
-| **Related** | [Leveraged buyout](/leveraged-buyout), [management buyout](/management-buyout) |
+| **Related** | [Leveraged buyout](/leveraged-buyout/), [management buyout](/management-buyout/) |
 
 </aside>
 
 ## How a secondary buyout works
 
-A PE firm (PE Firm A) acquired a company 5–7 years ago via [leveraged buyout](/leveraged-buyout). The company has grown, debt has been paid down, and EBITDA has improved. Now PE Firm A wants to exit and monetize its investment.
+A PE firm (PE Firm A) acquired a company 5–7 years ago via [leveraged buyout](/leveraged-buyout/). The company has grown, debt has been paid down, and EBITDA has improved. Now PE Firm A wants to exit and monetize its investment.
 
 Instead of selling to a strategic buyer (another operating company) or taking the company public, PE Firm A sells to another PE firm (PE Firm B). PE Firm B finances the acquisition with debt and equity, just like a typical LBO.
 
@@ -103,7 +103,7 @@ A company can go through multiple PE owners. For example:
 3. PE Firm B holds 5 years, sells to PE Firm C (another secondary buyout)
 4. PE Firm C takes company public (IPO)
 
-Each step involves a [leveraged buyout](/leveraged-buyout), and each PE firm applies its playbook to improve the company before the next exit.
+Each step involves a [leveraged buyout](/leveraged-buyout/), and each PE firm applies its playbook to improve the company before the next exit.
 
 ## Impact on corporate ownership and structure
 
@@ -124,17 +124,17 @@ Secondary buyouts are cyclical. In strong markets (2018–2021), secondary buyou
 
 ### Closely related
 
-- [Leveraged buyout](/leveraged-buyout) — financing structure for secondary buyouts
-- [Management buyout](/management-buyout) — alternative exit structure
+- [Leveraged buyout](/leveraged-buyout/) — financing structure for secondary buyouts
+- [Management buyout](/management-buyout/) — alternative exit structure
 - Private equity — the buyer and seller in secondary buyouts
-- [Going-private transaction](/going-private) — related transaction type
-- [Initial public offering](/initial-public-offering) — alternative exit for PE firm
+- [Going-private transaction](/going-private/) — related transaction type
+- [Initial public offering](/initial-public-offering/) — alternative exit for PE firm
 
 ### Wider context
 
-- [Acquisition](/acquisition) — the transaction mechanism
-- [Merger](/merger) — related corporate transaction
-- [Change of control provision](/change-of-control-provision) — triggered in secondary buyouts
+- [Acquisition](/acquisition/) — the transaction mechanism
+- [Merger](/merger/) — related corporate transaction
+- [Change of control provision](/change-of-control-provision/) — triggered in secondary buyouts
 - Debt — financing layer in secondary buyouts
 - EBITDA multiple — valuation metric for secondary buyouts
 

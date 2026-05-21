@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **TWAP order** (time-weighted average price) is an [algorithmic order](/algorithmic-trading) that automatically breaks your large trade into equal-sized pieces and executes them at regular time intervals throughout the day. Unlike [VWAP](/vwap-order), which adapts to volume, TWAP simply divides time evenly. It is simpler than VWAP but may not achieve as good an average price.*
+*A **TWAP order** (time-weighted average price) is an [algorithmic order](/algorithmic-trading/) that automatically breaks your large trade into equal-sized pieces and executes them at regular time intervals throughout the day. Unlike [VWAP](/vwap-order/), which adapts to volume, TWAP simply divides time evenly. It is simpler than VWAP but may not achieve as good an average price.*
 
 <div class="wiki-hatnote">
 
-For volume-aware slicing, see [VWAP order](/vwap-order). For manual size control, see [iceberg order](/iceberg-order).
+For volume-aware slicing, see [VWAP order](/vwap-order/). For manual size control, see [iceberg order](/iceberg-order/).
 
 </div>
 
@@ -81,11 +81,11 @@ By end of day, you have bought all 100,000 shares at prices spread throughout th
 
 **Randomized slices:** Some brokers offer randomized TWAP, where slice sizes vary slightly (to avoid algorithmic detection) while maintaining a time-based average.
 
-**Limit price:** TWAP order with a [limit order](/limit-order) constraint (do not execute above a certain price).
+**Limit price:** TWAP order with a [limit order](/limit-order/) constraint (do not execute above a certain price).
 
 ## Practical example
 
-A mid-cap company's stock is trading 50,000 shares per day on average — not very liquid. An institution needs to buy 100,000 shares. A [VWAP order](/vwap-order) would struggle because the 100,000-share volume represents two days of normal trading. They use a TWAP instead:
+A mid-cap company's stock is trading 50,000 shares per day on average — not very liquid. An institution needs to buy 100,000 shares. A [VWAP order](/vwap-order/) would struggle because the 100,000-share volume represents two days of normal trading. They use a TWAP instead:
 
 - Total: 100,000 shares
 - Window: 10 trading days (two weeks)
@@ -95,7 +95,7 @@ The algorithm buys ~500 shares every hour for 10 days. This is passive and predi
 
 ## TWAP and market impact
 
-TWAP minimizes market impact better than a [market order](/market-order) but may not minimize it as effectively as [VWAP](/vwap-order). Because TWAP ignores volume, it executes heavily during quiet periods (when the market has little liquidity) and lightly during busy periods (when plenty of buyers are trading). This is backwards from an optimization standpoint but provides simple, predictable execution.
+TWAP minimizes market impact better than a [market order](/market-order/) but may not minimize it as effectively as [VWAP](/vwap-order/). Because TWAP ignores volume, it executes heavily during quiet periods (when the market has little liquidity) and lightly during busy periods (when plenty of buyers are trading). This is backwards from an optimization standpoint but provides simple, predictable execution.
 
 ## Broker support
 
@@ -136,10 +136,10 @@ In this case, VWAP is best (captures volume dynamics), TWAP is decent (simple an
 
 ### Algorithmic and execution orders
 
-- [VWAP order](/vwap-order) — volume-weighted average price
-- [Algorithmic trading](/algorithmic-trading) — optimal order execution
-- [Iceberg order](/iceberg-order) — size-hiding mechanism
-- [Smart order router](/smart-order-router) — routes across venues
+- [VWAP order](/vwap-order/) — volume-weighted average price
+- [Algorithmic trading](/algorithmic-trading/) — optimal order execution
+- [Iceberg order](/iceberg-order/) — size-hiding mechanism
+- [Smart order router](/smart-order-router/) — routes across venues
 
 ### Execution and market impact
 
@@ -152,6 +152,6 @@ In this case, VWAP is best (captures volume dynamics), TWAP is decent (simple an
 
 - Order book — TWAP executes against this
 - Intraday trading — execution throughout the day
-- [Best execution](/best-execution) — regulatory obligation
+- [Best execution](/best-execution/) — regulatory obligation
 
 </div>

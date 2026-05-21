@@ -75,16 +75,16 @@ His approach also legitimized systematic, rules-based investing — the idea tha
 
 ### Closely related
 
-- [Benjamin Graham](/benjamin-graham) — The founder of value investing
-- [Warren Buffett](/warren-buffett) — Who applied Graham's principles
-- [Mohnish Pabrai](/mohnish-pabrai) — Another value educator
-- [Peter Lynch](/peter-lynch) — A growth-focused value investor
+- [Benjamin Graham](/benjamin-graham/) — The founder of value investing
+- [Warren Buffett](/warren-buffett/) — Who applied Graham's principles
+- [Mohnish Pabrai](/mohnish-pabrai/) — Another value educator
+- [Peter Lynch](/peter-lynch/) — A growth-focused value investor
 
 ### Wider context
 
-- [Value investing](/value-investing) — His discipline
-- [Systematic investing](/systematic-investing) — His methodology
-- [Return on invested capital](/return-on-invested-capital) — His key metric
+- [Value investing](/value-investing/) — His discipline
+- [Systematic investing](/systematic-investing/) — His methodology
+- [Return on invested capital](/return-on-invested-capital/) — His key metric
 - Stock screener — His tool
 - Small-cap stocks — His focus
 

@@ -104,9 +104,9 @@ This is often more practical than true real options valuation for most business 
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — provides base valuation
-- [Scenario valuation](/scenario-valuation) — discrete outcomes instead of options
-- [Option](/option) — the financial instrument whose theory is applied
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — provides base valuation
+- [Scenario valuation](/scenario-valuation/) — discrete outcomes instead of options
+- [Option](/option/) — the financial instrument whose theory is applied
 
 ### Strategic thinking
 
@@ -116,8 +116,8 @@ This is often more practical than true real options valuation for most business 
 
 ### Valuation integration
 
-- [Monte-Carlo valuation](/monte-carlo-valuation) — another way to handle uncertainty
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which uncertainties matter
-- [Football field valuation](/football-field-valuation) — ranges across scenarios
+- [Monte-Carlo valuation](/monte-carlo-valuation/) — another way to handle uncertainty
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which uncertainties matter
+- [Football field valuation](/football-field-valuation/) — ranges across scenarios
 
 </div>

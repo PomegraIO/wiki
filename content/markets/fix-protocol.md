@@ -15,7 +15,7 @@ image: "/svg/markets.svg"
 
 <div class="wiki-hatnote">
 
-This entry is about the trading communication standard. For market data protocols more broadly, see [market-data-feed-direct](/market-data-feed-direct); for exchange-specific protocols, see [stock exchange](/stock-exchange).
+This entry is about the trading communication standard. For market data protocols more broadly, see [market-data-feed-direct](/market-data-feed-direct/); for exchange-specific protocols, see [stock exchange](/stock-exchange/).
 
 </div>
 
@@ -108,13 +108,13 @@ Different venues may support different FIX versions; backward compatibility is g
 
 Retail brokers and trading firms use FIX to route orders directly to exchanges, bypassing intermediaries. This "direct market access" (DMA) is enabled by FIX standardization.
 
-A proprietary trading firm, using FIX, can connect directly to the NYSE, NASDAQ, and multiple [alternative trading systems](/alternative-trading-system) without custom integration for each venue.
+A proprietary trading firm, using FIX, can connect directly to the NYSE, NASDAQ, and multiple [alternative trading systems](/alternative-trading-system/) without custom integration for each venue.
 
 ## Market data and FIX
 
 Beyond trade order messaging, FIX is used for market data distribution:
 
-- Exchanges publish [market data](/stock-market) (quotes, trades, order book updates) using FIX messages.
+- Exchanges publish [market data](/stock-market/) (quotes, trades, order book updates) using FIX messages.
 - Trading systems subscribe to FIX market data streams.
 
 This standardization allows a single market data consumer to receive data from multiple venues in a uniform format.
@@ -149,18 +149,18 @@ FIX is maintained by the **FIX Trading Community**, a non-profit organization. T
 
 ### Closely related
 
-- [Market data](/stock-market) — distributed via FIX
-- [Electronic trading](/stock-market) — enabled by FIX
-- [Stock exchange](/stock-exchange) — uses FIX for order routing
-- [Broker](/broker) — implements FIX for order handling
-- [Order routing](/stock-market) — facilitated by FIX
+- [Market data](/stock-market/) — distributed via FIX
+- [Electronic trading](/stock-market/) — enabled by FIX
+- [Stock exchange](/stock-exchange/) — uses FIX for order routing
+- [Broker](/broker/) — implements FIX for order handling
+- [Order routing](/stock-market/) — facilitated by FIX
 
 ### Wider context
 
-- [High-frequency trading](/stock-market) — relies on FIX
-- [Latency](/colocation-detail) — minimized via FIX optimization
-- [Standardization](/stock-market) — FIX provides this
-- [Interoperability](/stock-market) — enabled by FIX
-- [Secondary market](/secondary-market) — dependent on FIX infrastructure
+- [High-frequency trading](/stock-market/) — relies on FIX
+- [Latency](/colocation-detail/) — minimized via FIX optimization
+- [Standardization](/stock-market/) — FIX provides this
+- [Interoperability](/stock-market/) — enabled by FIX
+- [Secondary market](/secondary-market/) — dependent on FIX infrastructure
 
 </div>

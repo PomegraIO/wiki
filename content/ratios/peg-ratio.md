@@ -10,11 +10,11 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **PEG ratio** — price/earnings-to-growth — divides a company's [price-to-earnings ratio](/price-to-earnings-ratio) by its expected annual earnings growth rate, expressed as a percentage. It strips away the distortion of growth from valuation, letting you compare expensive fast-growers to cheap slow-growers on an apples-to-apples basis.*
+*The **PEG ratio** — price/earnings-to-growth — divides a company's [price-to-earnings ratio](/price-to-earnings-ratio/) by its expected annual earnings growth rate, expressed as a percentage. It strips away the distortion of growth from valuation, letting you compare expensive fast-growers to cheap slow-growers on an apples-to-apples basis.*
 
 <div class="wiki-hatnote">
 
-This entry covers a relative valuation metric. For the absolute valuation ratio that precedes it in the analysis, see [price-to-earnings ratio](/price-to-earnings-ratio).
+This entry covers a relative valuation metric. For the absolute valuation ratio that precedes it in the analysis, see [price-to-earnings ratio](/price-to-earnings-ratio/).
 
 </div>
 
@@ -41,13 +41,13 @@ This entry covers a relative valuation metric. For the absolute valuation ratio 
 
 ## The intuition behind the ratio
 
-The [price-to-earnings ratio](/price-to-earnings-ratio) — price divided by current or projected earnings — is the dominant valuation metric. But it has a blind spot: it does not account for growth. A company earning $1 per share at $50 has a P/E of 50; so does a company earning $10 per share at $500. The first is cheap relative to its earnings; the second is ludicrous. But raw P/E tells you nothing about whether either company is a bargain if you also know that the first is shrinking and the second is doubling every year.
+The [price-to-earnings ratio](/price-to-earnings-ratio/) — price divided by current or projected earnings — is the dominant valuation metric. But it has a blind spot: it does not account for growth. A company earning $1 per share at $50 has a P/E of 50; so does a company earning $10 per share at $500. The first is cheap relative to its earnings; the second is ludicrous. But raw P/E tells you nothing about whether either company is a bargain if you also know that the first is shrinking and the second is doubling every year.
 
 The PEG ratio closes that gap. It takes the P/E, divides it by the forward growth rate, and gives you a single number that lets you compare a slow-growing defensive stock, a stable-growth industrial, and a hypergrowth technology firm on the same scale.
 
 ## How to calculate it
 
-**Step 1:** Find the stock's current [price-to-earnings ratio](/price-to-earnings-ratio). You can use the current P/E (based on trailing twelve-month earnings) or the forward P/E (based on the next twelve months). Forward is more useful for growth stocks.
+**Step 1:** Find the stock's current [price-to-earnings ratio](/price-to-earnings-ratio/). You can use the current P/E (based on trailing twelve-month earnings) or the forward P/E (based on the next twelve months). Forward is more useful for growth stocks.
 
 **Step 2:** Find the expected earnings growth rate for the same period. This is usually a consensus analyst estimate, expressed as a percentage. If analysts expect 20% annual growth, use 20.
 
@@ -92,7 +92,7 @@ Most investors use PEG as a first-pass screen, not a final decision. For example
 2. You calculate PEG for each. Two are 1.2; one is 2.8.
 3. You then deep-dive into the 2.8 name to see if the market has mispriced the risk. Maybe the growth forecast is based on a single pipeline drug with regulatory risk. Or maybe the company is genuinely special and the market is right.
 
-PEG is best used alongside other tools: [price-to-sales](/price-to-sales-ratio), [price-to-book](/price-to-book-ratio), [return-on-equity](/return-on-equity), cash flow trends, and analyst forecasts. A stock with a PEG of 0.6, high return on equity, and rising margins is a much stronger signal than PEG alone.
+PEG is best used alongside other tools: [price-to-sales](/price-to-sales-ratio/), [price-to-book](/price-to-book-ratio/), [return-on-equity](/return-on-equity/), cash flow trends, and analyst forecasts. A stock with a PEG of 0.6, high return on equity, and rising margins is a much stronger signal than PEG alone.
 
 ## See also
 
@@ -100,16 +100,16 @@ PEG is best used alongside other tools: [price-to-sales](/price-to-sales-ratio),
 
 ### Closely related
 
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the P/E that goes into the PEG calculation
-- [Earnings per share](/earnings-per-share) — what P/E measures against
-- [Price-to-sales ratio](/price-to-sales-ratio) — another multiple less affected by accounting
-- [Return on equity](/return-on-equity) — whether the company actually earns that growth
-- [Market capitalization](/market-capitalization) — the total price being paid
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the P/E that goes into the PEG calculation
+- [Earnings per share](/earnings-per-share/) — what P/E measures against
+- [Price-to-sales ratio](/price-to-sales-ratio/) — another multiple less affected by accounting
+- [Return on equity](/return-on-equity/) — whether the company actually earns that growth
+- [Market capitalization](/market-capitalization/) — the total price being paid
 
 ### Wider context
 
 - Valuation — the broader framework for PEG
-- [Bull market](/bull-market) — when PEG ratios soar on growth optimism
-- [Diversification](/diversification) — why owning a mix beats betting on one growth thesis
+- [Bull market](/bull-market/) — when PEG ratios soar on growth optimism
+- [Diversification](/diversification/) — why owning a mix beats betting on one growth thesis
 
 </div>

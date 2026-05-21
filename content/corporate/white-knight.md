@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers white knights as a takeover defence. For other defences, see [poison pill](/poison-pill), [crown jewel defence](/crown-jewel-defense), and [scorched earth defence](/scorched-earth-defense); for hostile takeovers themselves, see [hostile takeover](/hostile-takeover) and [tender offer](/tender-offer).
+This entry covers white knights as a takeover defence. For other defences, see [poison pill](/poison-pill/), [crown jewel defence](/crown-jewel-defense/), and [scorched earth defence](/scorched-earth-defense/); for hostile takeovers themselves, see [hostile takeover](/hostile-takeover/) and [tender offer](/tender-offer/).
 
 </div>
 
@@ -33,14 +33,14 @@ This entry covers white knights as a takeover defence. For other defences, see [
 | **Mechanism** | Makes competing offer at higher price or better terms |
 | **Outcome** | Shareholders choose between hostile and friendly bidders |
 | **Success rate** | High if white knight bid is materially superior |
-| **Related** | [White squire](/white-squire) (investment only, not full acquisition) |
-| **Alternative** | [Poison pill](/poison-pill), [scorched earth](/scorched-earth-defense) |
+| **Related** | [White squire](/white-squire/) (investment only, not full acquisition) |
+| **Alternative** | [Poison pill](/poison-pill/), [scorched earth](/scorched-earth-defense/) |
 
 </aside>
 
 ## How a white knight works
 
-When a hostile bidder announces a [tender offer](/tender-offer) or [proxy fight](/proxy-fight), the target's board has several options. One is to actively seek an alternative buyer — a white knight.
+When a hostile bidder announces a [tender offer](/tender-offer/) or [proxy fight](/proxy-fight/), the target's board has several options. One is to actively seek an alternative buyer — a white knight.
 
 **The search:** The board's investment bankers contact potential acquirers, briefing them on the company and its strategic value. The goal is to find a buyer who:
 
@@ -59,7 +59,7 @@ In the ideal case (from the board's perspective), the white knight wins the auct
 
 Several famous white knight rescues illustrate the dynamic:
 
-**Macmillan (1988).** KKR (Kohlberg Kravis Roberts), a [leveraged buyout](/leveraged-buyout) firm, launched a hostile bid for the publishing company Macmillan. Maxwell Communications emerged as a white knight, bidding higher and winning the auction. (Maxwell later acquired competing bids and ultimately won, but the company later became highly indebted and restructured.)
+**Macmillan (1988).** KKR (Kohlberg Kravis Roberts), a [leveraged buyout](/leveraged-buyout/) firm, launched a hostile bid for the publishing company Macmillan. Maxwell Communications emerged as a white knight, bidding higher and winning the auction. (Maxwell later acquired competing bids and ultimately won, but the company later became highly indebted and restructured.)
 
 **RJR Nabisco (1988).** The company was the subject of a legendary LBO auction. Multiple bidders competed; KKR ultimately won with an extremely high bid, but the competitive process — enabled by white knight (and competing) bidders — drove the price far higher than the initial hostile bid.
 
@@ -78,7 +78,7 @@ A white knight must be carefully chosen. The target's board wants a buyer who:
 
 ## White knight vs. white squire
 
-A **white squire** (see [white squire](/white-squire)) is a related concept: a friendly investor who purchases a large stake to block a hostile bidder, but without a full acquisition. A white squire might buy 30–40% of the company and get board representation, using its stake to negotiate with the hostile bidder or to change the company's direction. A white knight, by contrast, goes for a full acquisition.
+A **white squire** (see [white squire](/white-squire/)) is a related concept: a friendly investor who purchases a large stake to block a hostile bidder, but without a full acquisition. A white squire might buy 30–40% of the company and get board representation, using its stake to negotiate with the hostile bidder or to change the company's direction. A white knight, by contrast, goes for a full acquisition.
 
 ## Advantages and limitations
 
@@ -116,18 +116,18 @@ White knights are less viable when:
 
 ### Closely related
 
-- [Hostile takeover](/hostile-takeover) — what white knights defend against
-- [White squire](/white-squire) — stakes investment by friendly buyer
-- [Tender offer](/tender-offer) — mechanism both bidders use to accumulate shares
-- [Poison pill](/poison-pill) — often works alongside white knight strategy
-- [Merger](/merger) — the outcome when white knight wins
+- [Hostile takeover](/hostile-takeover/) — what white knights defend against
+- [White squire](/white-squire/) — stakes investment by friendly buyer
+- [Tender offer](/tender-offer/) — mechanism both bidders use to accumulate shares
+- [Poison pill](/poison-pill/) — often works alongside white knight strategy
+- [Merger](/merger/) — the outcome when white knight wins
 
 ### Wider context
 
-- [Proxy fight](/proxy-fight) — alternative mechanism in contested control
-- [Crown jewel defence](/crown-jewel-defense) — defensive strategy to make company less attractive
-- [Scorched earth defence](/scorched-earth-defense) — aggressive alternative
-- [Golden parachute](/golden-parachute) — often used alongside white knight defence
+- [Proxy fight](/proxy-fight/) — alternative mechanism in contested control
+- [Crown jewel defence](/crown-jewel-defense/) — defensive strategy to make company less attractive
+- [Scorched earth defence](/scorched-earth-defense/) — aggressive alternative
+- [Golden parachute](/golden-parachute/) — often used alongside white knight defence
 - Board of directors — initiates white knight search
 
 </div>

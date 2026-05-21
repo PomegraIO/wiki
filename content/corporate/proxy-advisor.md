@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers proxy advisors as influential voting intermediaries. For shareholder voting mechanics, see [proxy fight](/proxy-fight); for the governance issues they advise on, see say-on-pay and board of directors.
+This entry covers proxy advisors as influential voting intermediaries. For shareholder voting mechanics, see [proxy fight](/proxy-fight/); for the governance issues they advise on, see say-on-pay and board of directors.
 
 </div>
 
@@ -42,13 +42,13 @@ This entry covers proxy advisors as influential voting intermediaries. For share
 
 Proxy advisors provide research and voting recommendations on a range of shareholder proposals:
 
-**Board elections.** Advisors analyze board composition, independence, and track record, and recommend whether shareholders should vote for incumbent directors or for a [proxy fight](/proxy-fight) challenger's slate.
+**Board elections.** Advisors analyze board composition, independence, and track record, and recommend whether shareholders should vote for incumbent directors or for a [proxy fight](/proxy-fight/) challenger's slate.
 
 **Executive compensation.** Advisors evaluate the CEO and executive team's pay levels, structure, and alignment with company performance. They make say-on-pay recommendations to shareholders.
 
-**Merger and acquisition votes.** Advisors assess proposed deals, analyzing whether the price is fair and whether the strategic rationale is sound. Their recommendation can swing a shareholder vote on a [merger](/merger).
+**Merger and acquisition votes.** Advisors assess proposed deals, analyzing whether the price is fair and whether the strategic rationale is sound. Their recommendation can swing a shareholder vote on a [merger](/merger/).
 
-**Governance proposals.** Advisors recommend on proposals to alter the company's governance structure — adopting or eliminating a [poison pill](/poison-pill), shifting from a classified board to annual elections, or linking executive pay to ESG metrics.
+**Governance proposals.** Advisors recommend on proposals to alter the company's governance structure — adopting or eliminating a [poison pill](/poison-pill/), shifting from a classified board to annual elections, or linking executive pay to ESG metrics.
 
 **Shareholder proposals.** Advisors recommend on shareholder-sponsored proposals on environmental, social, and governance issues.
 
@@ -112,7 +112,7 @@ Some large institutional investors — especially large pension funds and univer
 
 ### Closely related
 
-- [Proxy fight](/proxy-fight) — shareholder battles where proxy advisors are influential
+- [Proxy fight](/proxy-fight/) — shareholder battles where proxy advisors are influential
 - Say-on-pay — executive compensation votes advised by proxy advisors
 - Board of directors — elections influenced by proxy advisor recommendations
 - Shareholder activism — campaigns supported or opposed by proxy advisors
@@ -120,9 +120,9 @@ Some large institutional investors — especially large pension funds and univer
 ### Wider context
 
 - Institutional investor — clients of proxy advisors
-- [Index fund](/index-fund) — often delegates voting to proxy advisors
+- [Index fund](/index-fund/) — often delegates voting to proxy advisors
 - Corporate governance — the domain of proxy advisor influence
-- [Merger](/merger) — shareholder approval often influenced by proxy advisors
-- [Poison pill](/poison-pill) — governance issue on which proxy advisors advise
+- [Merger](/merger/) — shareholder approval often influenced by proxy advisors
+- [Poison pill](/poison-pill/) — governance issue on which proxy advisors advise
 
 </div>

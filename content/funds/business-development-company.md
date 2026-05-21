@@ -15,7 +15,7 @@ image: "/svg/funds.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers BDCs as a vehicle. For the broader private credit market, see [private equity fund](/private-equity-fund); for [closed-end funds](/closed-end-fund), see the structural overview.
+This entry covers BDCs as a vehicle. For the broader private credit market, see [private equity fund](/private-equity-fund/); for [closed-end funds](/closed-end-fund/), see the structural overview.
 
 </div>
 
@@ -35,9 +35,9 @@ This entry covers BDCs as a vehicle. For the broader private credit market, see 
 | **Investment type** | Senior loans, subordinated debt, equity stakes |
 | **Target companies** | Private companies, $10M–$500M+ in revenue |
 | **Typical yield** | 7–10% annually |
-| **Typical [expense ratio](/expense-ratio)** | 1.5–2.5% |
+| **Typical [expense ratio](/expense-ratio/)** | 1.5–2.5% |
 | **Leverage** | Typically 30–40% debt, 60–70% equity |
-| **Trading** | On [stock exchange](/stock-exchange) like [stocks](/stock) |
+| **Trading** | On [stock exchange](/stock-exchange/) like [stocks](/stock/) |
 | **Dividend** | Usually monthly or quarterly |
 
 </aside>
@@ -72,13 +72,13 @@ A BDC raises capital from investors and invests it in private companies:
 
 BDCs appeal to yield-seeking investors:
 
-**High yield.** 7–10% yields are attractive compared to 4–5% from [bonds](/bond) or [bond ETFs](/bond-etf).
+**High yield.** 7–10% yields are attractive compared to 4–5% from [bonds](/bond/) or [bond ETFs](/bond-etf/).
 
 **Monthly/quarterly distributions.** BDCs typically pay dividends monthly or quarterly, providing steady income.
 
-**Individual investor access.** BDCs are publicly traded, so you can buy shares in a brokerage account with no minimums. You cannot do this with [private equity](/private-equity-fund) or [private credit funds](/private-equity-fund) (which require $250K–$5M minimums).
+**Individual investor access.** BDCs are publicly traded, so you can buy shares in a brokerage account with no minimums. You cannot do this with [private equity](/private-equity-fund/) or [private credit funds](/private-equity-fund/) (which require $250K–$5M minimums).
 
-**Liquidity.** Unlike [private equity](/private-equity-fund) (which locks up capital for 10 years), BDC shares can be sold on an exchange any day. You get liquidity + yield.
+**Liquidity.** Unlike [private equity](/private-equity-fund/) (which locks up capital for 10 years), BDC shares can be sold on an exchange any day. You get liquidity + yield.
 
 ## Risks specific to BDCs
 
@@ -109,10 +109,10 @@ BDCs appeal to yield-seeking investors:
 | Investment | Yield | Liquidity | Risk | Complexity |
 |-----------|-------|-----------|------|-----------|
 | Treasury bonds | 4–5% | Excellent | Very low | Low |
-| [Bond ETF](/bond-etf) | 4–5% | Excellent | Low | Low |
-| High-yield [bond ETF](/bond-etf) | 6–7% | Excellent | Moderate | Low |
+| [Bond ETF](/bond-etf/) | 4–5% | Excellent | Low | Low |
+| High-yield [bond ETF](/bond-etf/) | 6–7% | Excellent | Moderate | Low |
 | BDC | 7–10% | Good | High | Moderate |
-| [Private credit fund](/private-equity-fund) | 8–12% | Poor | High | High |
+| [Private credit fund](/private-equity-fund/) | 8–12% | Poor | High | High |
 
 BDCs offer a middle ground: higher yield than bonds, better liquidity than private credit.
 
@@ -137,7 +137,7 @@ Before buying a BDC, check:
 2. **Portfolio quality.** What is the default rate? Average credit rating?
 3. **Leverage.** How much is the BDC borrowing? Higher leverage = higher risk.
 4. **Manager track record.** Has management successfully originate loans and exit investments?
-5. **Discount/premium.** Is the BDC trading at a [discount](/etf-premium-discount) to [NAV](/etf-premium-discount)?
+5. **Discount/premium.** Is the BDC trading at a [discount](/etf-premium-discount/) to [NAV](/etf-premium-discount/)?
 
 ## See also
 
@@ -145,18 +145,18 @@ Before buying a BDC, check:
 
 ### Closely related
 
-- [Closed-end fund](/closed-end-fund) — the structural category
-- [Private equity fund](/private-equity-fund) — related private investment
-- [Bond](/bond) · [Yield](/bond) — what drives BDC returns
-- [Stock exchange](/stock-exchange) — where BDCs trade
-- [Leverage](/option) — amplifies BDC returns and risks
+- [Closed-end fund](/closed-end-fund/) — the structural category
+- [Private equity fund](/private-equity-fund/) — related private investment
+- [Bond](/bond/) · [Yield](/bond/) — what drives BDC returns
+- [Stock exchange](/stock-exchange/) — where BDCs trade
+- [Leverage](/option/) — amplifies BDC returns and risks
 
 ### Wider context
 
-- [Dividend](/dividend) — BDC primary return mechanism
-- [Interest rate](/interest-rate) — impacts BDC yields and valuations
-- [Recession](/recession) — increases BDC credit risk
-- [Liquidity](/option) · [Volatility](/option) — BDC characteristics
-- [ETF premium and discount](/etf-premium-discount) — affects BDC pricing
+- [Dividend](/dividend/) — BDC primary return mechanism
+- [Interest rate](/interest-rate/) — impacts BDC yields and valuations
+- [Recession](/recession/) — increases BDC credit risk
+- [Liquidity](/option/) · [Volatility](/option/) — BDC characteristics
+- [ETF premium and discount](/etf-premium-discount/) — affects BDC pricing
 
 </div>

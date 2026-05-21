@@ -32,7 +32,7 @@ A consequence of representativeness heuristic. Related to base-rate neglect.
 | **Discovered by** | Tversky & Kahneman (1981) |
 | **Logical principle** | P(A and B) <= P(A) always |
 | **Investor impact** | Overestimating probability of specific scenarios; concentrated bets |
-| **Related phenomenon** | [Representativeness heuristic](/representativeness-heuristic), [base rate neglect](/base-rate-neglect) |
+| **Related phenomenon** | [Representativeness heuristic](/representativeness-heuristic/), [base rate neglect](/base-rate-neglect/) |
 | **Severity** | Universal error; occurs even with mathematically trained people |
 
 </aside>
@@ -45,7 +45,7 @@ Most subjects choose (b). But (b) is a subset of (a); it cannot be more probable
 
 ## Why it happens
 
-The conjunction fallacy is driven by [representativeness heuristic](/representativeness-heuristic). A person described as socially conscious is more representative of "feminist activist" than of "bank teller." So the conjunction "bank teller and feminist activist" feels more representative than the simpler category "bank teller."
+The conjunction fallacy is driven by [representativeness heuristic](/representativeness-heuristic/). A person described as socially conscious is more representative of "feminist activist" than of "bank teller." So the conjunction "bank teller and feminist activist" feels more representative than the simpler category "bank teller."
 
 This representativeness-based judgment overrides the logical rule that conjunctions cannot be more probable than their components.
 
@@ -63,11 +63,11 @@ Yet, because the conjunction is so representative of a "successful startup," inv
 
 ## Conjunction fallacy and overconfidence
 
-The conjunction fallacy feeds [overconfidence bias](/overconfidence-bias). By overestimating the probability of a specific favorable conjunction, you become overconfident in a particular investment thesis. You think "the probability that all things break my way is high" when actually it is low.
+The conjunction fallacy feeds [overconfidence bias](/overconfidence-bias/). By overestimating the probability of a specific favorable conjunction, you become overconfident in a particular investment thesis. You think "the probability that all things break my way is high" when actually it is low.
 
 ## Conjunction fallacy vs. base-rate neglect
 
-[Base-rate neglect](/base-rate-neglect) is ignoring the baseline frequency of outcomes. Conjunction fallacy is judging a specific conjunction as more probable than its parts. They are related: in both cases, you overestimate the probability of a specific outcome.
+[Base-rate neglect](/base-rate-neglect/) is ignoring the baseline frequency of outcomes. Conjunction fallacy is judging a specific conjunction as more probable than its parts. They are related: in both cases, you overestimate the probability of a specific outcome.
 
 ## Defenses against conjunction fallacy
 
@@ -83,18 +83,18 @@ The conjunction fallacy feeds [overconfidence bias](/overconfidence-bias). By ov
 
 ### Closely related
 
-- [Representativeness heuristic](/representativeness-heuristic) — the driver of conjunction fallacy
-- [Base rate neglect](/base-rate-neglect) — related overestimation of specific outcomes
-- [Overconfidence bias](/overconfidence-bias) — fed by conjunction fallacy
-- [Availability heuristic](/availability-heuristic) — vivid conjunctions feel more likely
-- [Probability weighting](/prospect-theory) — nonlinear probability judgment
+- [Representativeness heuristic](/representativeness-heuristic/) — the driver of conjunction fallacy
+- [Base rate neglect](/base-rate-neglect/) — related overestimation of specific outcomes
+- [Overconfidence bias](/overconfidence-bias/) — fed by conjunction fallacy
+- [Availability heuristic](/availability-heuristic/) — vivid conjunctions feel more likely
+- [Probability weighting](/prospect-theory/) — nonlinear probability judgment
 
 ### Wider context
 
-- [Stock picking](/stock) — conjunction fallacy drives concentrated bets
-- [Narrative fallacy](/narrative-fallacy) — compelling stories often involve conjunctions
-- [Scenario analysis](/recession) — conjunction fallacy in building scenarios
-- [Diversification](/diversification) — the antidote to betting on unlikely conjunctions
-- [Risk](/beta) — underestimating risk via conjunction fallacy
+- [Stock picking](/stock/) — conjunction fallacy drives concentrated bets
+- [Narrative fallacy](/narrative-fallacy/) — compelling stories often involve conjunctions
+- [Scenario analysis](/recession/) — conjunction fallacy in building scenarios
+- [Diversification](/diversification/) — the antidote to betting on unlikely conjunctions
+- [Risk](/beta/) — underestimating risk via conjunction fallacy
 
 </div>

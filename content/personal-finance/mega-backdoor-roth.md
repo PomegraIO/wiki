@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*The **mega backdoor Roth** is an advanced strategy for high earners to contribute over $100,000 per year to a Roth account by making after-tax contributions to a [401(k)](/401k-plan) plan, then converting those contributions to a [Roth IRA](/roth-ira).*
+*The **mega backdoor Roth** is an advanced strategy for high earners to contribute over $100,000 per year to a Roth account by making after-tax contributions to a [401(k)](/401k-plan/) plan, then converting those contributions to a [Roth IRA](/roth-ira/).*
 
 <div class="wiki-hatnote">
 
-For the simpler backdoor Roth strategy, see [backdoor Roth](/backdoor-roth); for Roth conversion strategies, see [Roth conversion](/roth-conversion-personal); for 401(k) contribution mechanics, see [401(k) plan](/401k-plan).
+For the simpler backdoor Roth strategy, see [backdoor Roth](/backdoor-roth/); for Roth conversion strategies, see [Roth conversion](/roth-conversion-personal/); for 401(k) contribution mechanics, see [401(k) plan](/401k-plan/).
 
 </div>
 
@@ -40,7 +40,7 @@ For the simpler backdoor Roth strategy, see [backdoor Roth](/backdoor-roth); for
 
 ## How it works
 
-A standard [401(k)](/401k-plan) plan has a combined annual contribution limit of roughly $69,000 (2024) across employee deferrals, employer match, and employer nonelective contributions. Most people max out at $30,500 ($23,500 employee + ~$6,000 match).
+A standard [401(k)](/401k-plan/) plan has a combined annual contribution limit of roughly $69,000 (2024) across employee deferrals, employer match, and employer nonelective contributions. Most people max out at $30,500 ($23,500 employee + ~$6,000 match).
 
 But the law allows after-tax contributions beyond this limit, up to the $69,000 total. The mega backdoor Roth exploits this by:
 
@@ -62,7 +62,7 @@ For example: you defer $23,500, get $7,000 in match (total $30,500). Your plan's
 
 ## The pro-rata rule complication
 
-If you have a [traditional IRA](/traditional-ira) with pre-tax money, the pro-rata rule can make a mega backdoor Roth inefficient. When converting after-tax 401(k) money to Roth, the IRS considers your total traditional and after-tax IRA balances. If you have $100,000 in a traditional IRA and convert $40,000 of after-tax 401(k) money, the pro-rata rule treats 71% of the conversion as pre-tax (and thus taxable).
+If you have a [traditional IRA](/traditional-ira/) with pre-tax money, the pro-rata rule can make a mega backdoor Roth inefficient. When converting after-tax 401(k) money to Roth, the IRS considers your total traditional and after-tax IRA balances. If you have $100,000 in a traditional IRA and convert $40,000 of after-tax 401(k) money, the pro-rata rule treats 71% of the conversion as pre-tax (and thus taxable).
 
 Solutions:
 - **Roll traditional IRA to 401(k).** If your employer plan allows, this removes the traditional IRA from the pro-rata calculation.
@@ -70,7 +70,7 @@ Solutions:
 
 ## Who should consider it
 
-- **High earners above [Roth IRA](/roth-ira) income limits.** If your income is too high to contribute directly to a Roth, this strategy gets around that limit.
+- **High earners above [Roth IRA](/roth-ira/) income limits.** If your income is too high to contribute directly to a Roth, this strategy gets around that limit.
 - **People with high savings rates.** If you have $50,000+ per year to save beyond retirement account limits, a mega backdoor Roth is a tax-efficient home.
 - **Those with 30+ year time horizon.** The longer the Roth grows tax-free, the more valuable.
 
@@ -90,17 +90,17 @@ Solutions:
 
 ### Closely related
 
-- [Backdoor Roth](/backdoor-roth) — simpler strategy for high earners
-- [Roth IRA](/roth-ira) — destination account
-- [Roth conversion](/roth-conversion-personal) — conversion mechanics
-- [401(k) plan](/401k-plan) — source account
-- [Traditional IRA](/traditional-ira) — complication (pro-rata rule)
+- [Backdoor Roth](/backdoor-roth/) — simpler strategy for high earners
+- [Roth IRA](/roth-ira/) — destination account
+- [Roth conversion](/roth-conversion-personal/) — conversion mechanics
+- [401(k) plan](/401k-plan/) — source account
+- [Traditional IRA](/traditional-ira/) — complication (pro-rata rule)
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — mega backdoor supports high savings rates
+- [FIRE movement](/fire-movement/) — mega backdoor supports high savings rates
 - Asset location — where to hold different investments
-- [The four-percent rule](/the-four-percent-rule) — how much saved can sustain retirement
-- [Compound interest](/compound-interest) — value of tax-free Roth growth
+- [The four-percent rule](/the-four-percent-rule/) — how much saved can sustain retirement
+- [Compound interest](/compound-interest/) — value of tax-free Roth growth
 
 </div>

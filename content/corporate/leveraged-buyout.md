@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **leveraged buyout** (or **LBO**) is an [acquisition](/acquisition) where the buyer uses debt (leverage) to finance most of the purchase price, not equity. The target company's future cash flows and assets are pledged as collateral for the debt. By financing with debt rather than equity, a small investor can acquire a much larger company, and if the company performs well and cash flows grow, the equity investor can realize outsized returns. Leveraged buyouts are the bread and butter of private equity firms and have transformed American corporate ownership since the 1980s.*
+*A **leveraged buyout** (or **LBO**) is an [acquisition](/acquisition/) where the buyer uses debt (leverage) to finance most of the purchase price, not equity. The target company's future cash flows and assets are pledged as collateral for the debt. By financing with debt rather than equity, a small investor can acquire a much larger company, and if the company performs well and cash flows grow, the equity investor can realize outsized returns. Leveraged buyouts are the bread and butter of private equity firms and have transformed American corporate ownership since the 1980s.*
 
 <div class="wiki-hatnote">
 
-This entry covers LBOs as an acquisition and financing structure. For related structures, see [management buyout](/management-buyout) and [secondary buyout](/secondary-buyout); for the financing, see [high-yield bond](/high-yield-bond) and mezzanine financing.
+This entry covers LBOs as an acquisition and financing structure. For related structures, see [management buyout](/management-buyout/) and [secondary buyout](/secondary-buyout/); for the financing, see [high-yield bond](/high-yield-bond/) and mezzanine financing.
 
 </div>
 
@@ -28,12 +28,12 @@ This entry covers LBOs as an acquisition and financing structure. For related st
 
 |   |   |
 |---|---|
-| **What it is** | [Acquisition](/acquisition) financed primarily with debt |
+| **What it is** | [Acquisition](/acquisition/) financed primarily with debt |
 | **Typical debt/equity ratio** | 70% debt, 30% equity (range: 60–80% debt) |
 | **Buyer** | Private equity firm, strategic buyer, management team |
-| **Sources of debt** | Bank loans, [high-yield bonds](/high-yield-bond), mezzanine financing |
+| **Sources of debt** | Bank loans, [high-yield bonds](/high-yield-bond/), mezzanine financing |
 | **Return driver** | De-leveraging (paying down debt) + operational improvement |
-| **Exit strategy** | Sale, [initial public offering](/initial-public-offering), dividend recapitalization |
+| **Exit strategy** | Sale, [initial public offering](/initial-public-offering/), dividend recapitalization |
 | **Risk** | High leverage limits flexibility; economic downturns strain ability to service debt |
 
 </aside>
@@ -53,7 +53,7 @@ The buyer (typically a private equity firm) invests the $300 million in equity a
 
 **Debt service.** The company must generate enough cash to pay interest on the debt (interest coverage ratio above 1.5x is typical). If the company cannot generate sufficient cash, it struggles to meet debt obligations and may face default.
 
-**Equity returns.** If all goes well, the company's cash flows exceed debt service, allowing debt paydown. As debt shrinks and (ideally) EBITDA grows, the company's enterprise value grows. If the equity investor exits (via sale or [IPO](/initial-public-offering)), it receives the company's value minus remaining debt — ideally, a 3–5x return on the initial $300 million equity investment over 5–7 years.
+**Equity returns.** If all goes well, the company's cash flows exceed debt service, allowing debt paydown. As debt shrinks and (ideally) EBITDA grows, the company's enterprise value grows. If the equity investor exits (via sale or [IPO](/initial-public-offering/)), it receives the company's value minus remaining debt — ideally, a 3–5x return on the initial $300 million equity investment over 5–7 years.
 
 ## Why LBOs appeal to private equity
 
@@ -75,7 +75,7 @@ LBO debt typically has layers:
 
 **Mezzanine debt.** Usually 10–20% of the purchase price, mezzanine debt is subordinate to bank debt but senior to equity. It typically has higher interest rates (8–12%) to compensate for higher risk.
 
-**High-yield bonds.** Larger LBOs often issue [high-yield bonds](/high-yield-bond) (junk bonds) to replace or supplement bank debt. These are publicly traded and allow the firm to refinance if rates move favorably.
+**High-yield bonds.** Larger LBOs often issue [high-yield bonds](/high-yield-bond/) (junk bonds) to replace or supplement bank debt. These are publicly traded and allow the firm to refinance if rates move favorably.
 
 ## Risks and failures
 
@@ -118,18 +118,18 @@ Most modern LBOs use lower leverage and more conservative structures than the 19
 
 ### Closely related
 
-- [Management buyout](/management-buyout) — LBO by the target's own management
-- [Secondary buyout](/secondary-buyout) — LBO where the seller is another PE firm
-- [Acquisition](/acquisition) — the acquisition mechanism
+- [Management buyout](/management-buyout/) — LBO by the target's own management
+- [Secondary buyout](/secondary-buyout/) — LBO where the seller is another PE firm
+- [Acquisition](/acquisition/) — the acquisition mechanism
 - Private equity — primary driver of LBOs
-- [High-yield bond](/high-yield-bond) — financing used in LBOs
+- [High-yield bond](/high-yield-bond/) — financing used in LBOs
 
 ### Wider context
 
 - Debt — the financing tool in LBOs
-- [Change of control provision](/change-of-control-provision) — may affect LBO targets
-- [Going-private transaction](/going-private) — LBO of a public company
-- [Merger](/merger) — related transaction type
+- [Change of control provision](/change-of-control-provision/) — may affect LBO targets
+- [Going-private transaction](/going-private/) — LBO of a public company
+- [Merger](/merger/) — related transaction type
 - Cash flow — critical to LBO success
 
 </div>

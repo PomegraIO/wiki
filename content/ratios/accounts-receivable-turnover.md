@@ -78,9 +78,9 @@ Monitor the trend:
 
 ### Closely related
 
-- [Days-sales-outstanding](/days-sales-outstanding) — receivables in days
-- [Accounts-payable-turnover](/accounts-payable-turnover) — supplier payments
-- [Cash-conversion-cycle](/cash-conversion-cycle) — all working capital elements
+- [Days-sales-outstanding](/days-sales-outstanding/) — receivables in days
+- [Accounts-payable-turnover](/accounts-payable-turnover/) — supplier payments
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — all working capital elements
 - Working capital management
 
 </div>

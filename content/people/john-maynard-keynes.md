@@ -36,7 +36,7 @@ image: "/svg/people.svg"
 
 ## The early career and critique of orthodoxy
 
-Keynes was educated at Cambridge and became a fellow there, establishing himself as a leading economist. In the 1920s, as Britain struggled with [inflation](/inflation) and [recession](/recession), Keynes criticized orthodox economic policy, which held that wages should fall and that government should balance budgets.
+Keynes was educated at Cambridge and became a fellow there, establishing himself as a leading economist. In the 1920s, as Britain struggled with [inflation](/inflation/) and [recession](/recession/), Keynes criticized orthodox economic policy, which held that wages should fall and that government should balance budgets.
 
 His critique of the post-World War I economic policy, expressed in *The Economic Consequences of the Peace*, established him as an unorthodox thinker willing to challenge consensus. He argued that orthodox policies were worsening conditions and that different approaches were needed.
 
@@ -48,9 +48,9 @@ This contradicted the prevailing classical economics, which held that wages woul
 
 ## The solution through government policy
 
-If markets couldn't self-correct through wage flexibility, then government had a responsibility to boost aggregate demand. Keynes advocated for fiscal policy — government spending and tax policy — to maintain full employment. During a [recession](/recession), government should spend more and cut taxes to stimulate demand. During a boom, it should do the opposite.
+If markets couldn't self-correct through wage flexibility, then government had a responsibility to boost aggregate demand. Keynes advocated for fiscal policy — government spending and tax policy — to maintain full employment. During a [recession](/recession/), government should spend more and cut taxes to stimulate demand. During a boom, it should do the opposite.
 
-This framework justified government intervention to manage the [business cycle](/business-cycle). It also provided intellectual cover for expansionary fiscal policy during the [Great Depression](/great-depression), when traditional approaches had failed.
+This framework justified government intervention to manage the [business cycle](/business-cycle/). It also provided intellectual cover for expansionary fiscal policy during the [Great Depression](/great-depression/), when traditional approaches had failed.
 
 ## The influence on policy
 
@@ -88,16 +88,16 @@ Yet his theories have also evolved and been contested. Modern macroeconomics inc
 
 ### Closely related
 
-- [Milton Friedman](/milton-friedman) — Keynesian critic and monetarist founder
-- [Hyman Minsky](/hyman-minsky) — A heterodox Keynesian
-- [Paul Volcker](/paul-volcker) — A central banker shaped by post-Keynesian debates
+- [Milton Friedman](/milton-friedman/) — Keynesian critic and monetarist founder
+- [Hyman Minsky](/hyman-minsky/) — A heterodox Keynesian
+- [Paul Volcker](/paul-volcker/) — A central banker shaped by post-Keynesian debates
 
 ### Wider context
 
 - Macroeconomics — Which he shaped
 - Fiscal policy — His tool
-- [Business cycle](/business-cycle) — His focus
-- [Great Depression](/great-depression) — His response to
+- [Business cycle](/business-cycle/) — His focus
+- [Great Depression](/great-depression/) — His response to
 - Demand — His centerpiece
 
 </div>

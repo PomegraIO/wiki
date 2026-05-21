@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **comparable company analysis** (or "comps" analysis) is the most practical application of [multiples valuation](/multiples-valuation) in M&A and equity research. You identify publicly traded peers, calculate their trading multiples (EV/EBITDA, PE, EV/Sales), apply a median multiple to your target company's financial metrics, and arrive at an implied valuation range. The method is fast, market-based, and credible—if you can find truly comparable companies.*
+*A **comparable company analysis** (or "comps" analysis) is the most practical application of [multiples valuation](/multiples-valuation/) in M&A and equity research. You identify publicly traded peers, calculate their trading multiples (EV/EBITDA, PE, EV/Sales), apply a median multiple to your target company's financial metrics, and arrive at an implied valuation range. The method is fast, market-based, and credible—if you can find truly comparable companies.*
 
 ## The process
 
@@ -111,21 +111,21 @@ The best practice is to do both comps and DCF and compare. If comps imply 12x EB
 
 ### Closely related
 
-- [Multiples valuation](/multiples-valuation) — parent method
-- [Comparable transaction analysis](/comparable-transaction-analysis) — multiples from M&A deals
-- [Peer group selection](/peer-group-selection) — choosing comparables carefully
-- [Relative valuation](/relative-valuation) — valuation relative to market
+- [Multiples valuation](/multiples-valuation/) — parent method
+- [Comparable transaction analysis](/comparable-transaction-analysis/) — multiples from M&A deals
+- [Peer group selection](/peer-group-selection/) — choosing comparables carefully
+- [Relative valuation](/relative-valuation/) — valuation relative to market
 
 ### Integration with DCF
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the intrinsic approach
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — multiples can be tested
-- [Football field valuation](/football-field-valuation) — combining methods
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the intrinsic approach
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — multiples can be tested
+- [Football field valuation](/football-field-valuation/) — combining methods
 
 ### Practical application
 
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — comps applied to segments
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — comps applied to segments
 - Precedent transaction — related multiples concept
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — using multiples for DCF terminal value
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — using multiples for DCF terminal value
 
 </div>

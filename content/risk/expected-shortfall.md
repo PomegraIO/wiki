@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Expected shortfall (ES) — synonymous with [conditional-value-at-risk](/conditional-value-at-risk) — is the average loss a portfolio experiences in its worst-case scenarios, specifically the mean of losses when they exceed the [value-at-risk](/value-at-risk) threshold. It directly addresses the key weakness of [value-at-risk](/value-at-risk) by measuring the magnitude of tail losses, not just the probability.*
+*Expected shortfall (ES) — synonymous with [conditional-value-at-risk](/conditional-value-at-risk/) — is the average loss a portfolio experiences in its worst-case scenarios, specifically the mean of losses when they exceed the [value-at-risk](/value-at-risk/) threshold. It directly addresses the key weakness of [value-at-risk](/value-at-risk/) by measuring the magnitude of tail losses, not just the probability.*
 
 <div class="wiki-hatnote">
 
-This entry is a synonym and detailed treatment of expected shortfall. For the VaR threshold it builds on, see [value-at-risk](/value-at-risk); for broader exposure to tail losses, see [tail-risk](/tail-risk).
+This entry is a synonym and detailed treatment of expected shortfall. For the VaR threshold it builds on, see [value-at-risk](/value-at-risk/); for broader exposure to tail losses, see [tail-risk](/tail-risk/).
 
 </div>
 
@@ -40,11 +40,11 @@ This entry is a synonym and detailed treatment of expected shortfall. For the Va
 
 ## The simple idea behind expected shortfall
 
-[Value-at-risk](/value-at-risk) is a threshold: the 99% VaR of $1M means there is a 1% chance of losing more than $1M. But it does not tell you what happens in that 1% tail. The loss could be $1.5M or $10M.
+[Value-at-risk](/value-at-risk/) is a threshold: the 99% VaR of $1M means there is a 1% chance of losing more than $1M. But it does not tell you what happens in that 1% tail. The loss could be $1.5M or $10M.
 
 Expected shortfall answers: "If the worst happens (you are in the 1% tail), what is the average loss?" For example, a 99% ES of $1.5M means that when losses exceed $1M, they average $1.5M.
 
-This directly measures tail risk severity, which [value-at-risk](/value-at-risk) does not.
+This directly measures tail risk severity, which [value-at-risk](/value-at-risk/) does not.
 
 ## How expected shortfall is calculated
 
@@ -104,9 +104,9 @@ Here, VaR says -1%, but ES reveals the true tail severity: -6.8%. This is the po
 
 ## Regulatory adoption of expected shortfall
 
-After the 2008 financial crisis, regulators realized that [value-at-risk](/value-at-risk) was systematically too low. Banks held capital for 2-3% daily VaR, but experienced losses of 10%+ in bad months.
+After the 2008 financial crisis, regulators realized that [value-at-risk](/value-at-risk/) was systematically too low. Banks held capital for 2-3% daily VaR, but experienced losses of 10%+ in bad months.
 
-[Basel III](/capital-adequacy), adopted globally in 2013+, shifted to expected shortfall as the primary risk metric. Banks now calculate:
+[Basel III](/capital-adequacy/), adopted globally in 2013+, shifted to expected shortfall as the primary risk metric. Banks now calculate:
 - 10-day 97.5% ES (instead of 1-day 99% VaR).
 - And back-tested against actual daily losses.
 
@@ -145,18 +145,18 @@ Despite these, ES is the modern standard and is far superior to VaR alone.
 
 ### Closely related
 
-- [Conditional-value-at-risk](/conditional-value-at-risk) — formal name; ES is the same concept
-- [Value-at-risk](/value-at-risk) — the threshold that ES builds upon
-- [Tail-risk](/tail-risk) — what ES directly measures
-- [Stress-testing](/stress-testing) — complements ES with scenario analysis
-- [Basel capital](/capital-adequacy) — regulatory framework built on ES
+- [Conditional-value-at-risk](/conditional-value-at-risk/) — formal name; ES is the same concept
+- [Value-at-risk](/value-at-risk/) — the threshold that ES builds upon
+- [Tail-risk](/tail-risk/) — what ES directly measures
+- [Stress-testing](/stress-testing/) — complements ES with scenario analysis
+- [Basel capital](/capital-adequacy/) — regulatory framework built on ES
 
 ### Broadly related
 
-- [Fat-tail-risk](/fat-tail-risk) — makes ES materially worse than VaR
-- [Model-risk](/model-risk) — ES calculations depend on model assumptions
-- [Parameter-risk](/parameter-risk) — tail estimates are uncertain
-- [Black-swan](/black-swan) — extreme tail events ES might miss
-- [Risk management](/value-at-risk) — ES is modern foundation
+- [Fat-tail-risk](/fat-tail-risk/) — makes ES materially worse than VaR
+- [Model-risk](/model-risk/) — ES calculations depend on model assumptions
+- [Parameter-risk](/parameter-risk/) — tail estimates are uncertain
+- [Black-swan](/black-swan/) — extreme tail events ES might miss
+- [Risk management](/value-at-risk/) — ES is modern foundation
 
 </div>

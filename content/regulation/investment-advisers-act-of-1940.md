@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Investment Advisers Act of 1940** is the law that regulates investment advisers — professionals and firms that manage money or provide investment advice for compensation. The Act requires advisers to register with the [SEC](/securities-and-exchange-commission) (if they manage $100 million or more) or with state regulators, disclose their conflicts of interest, maintain books and records, and act as fiduciaries — putting the client's interest ahead of their own.*
+*The **Investment Advisers Act of 1940** is the law that regulates investment advisers — professionals and firms that manage money or provide investment advice for compensation. The Act requires advisers to register with the [SEC](/securities-and-exchange-commission/) (if they manage $100 million or more) or with state regulators, disclose their conflicts of interest, maintain books and records, and act as fiduciaries — putting the client's interest ahead of their own.*
 
 <div class="wiki-hatnote">
 
-The Investment Advisers Act regulates advisers. The [Investment Company Act of 1940](/investment-company-act-of-1940) regulates investment companies (mutual funds). The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) regulates broker-dealers.
+The Investment Advisers Act regulates advisers. The [Investment Company Act of 1940](/investment-company-act-of-1940/) regulates investment companies (mutual funds). The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) regulates broker-dealers.
 
 </div>
 
@@ -69,7 +69,7 @@ The dual regulatory structure — SEC for large advisers, states for small advis
 
 Historically, the distinction between advisers (fiduciaries) and brokers (salespeople) was clear. An adviser owed a fiduciary duty; a broker merely had to meet a suitability standard. Over time, the lines blurred — many advisers are also licensed as brokers, and this dual licensing created opportunities for the adviser to waive its fiduciary duty in certain transactions.
 
-The SEC has tried to raise broker standards. In 2020, the SEC adopted [Regulation Best Interest](/regulation-best-interest), which requires brokers to act in the client's best interest when providing advice (not just when selling their own products). This has narrowed the gap between the adviser and broker standards, though disputes over implementation continue.
+The SEC has tried to raise broker standards. In 2020, the SEC adopted [Regulation Best Interest](/regulation-best-interest/), which requires brokers to act in the client's best interest when providing advice (not just when selling their own products). This has narrowed the gap between the adviser and broker standards, though disputes over implementation continue.
 
 ## See also
 
@@ -77,17 +77,17 @@ The SEC has tried to raise broker standards. In 2020, the SEC adopted [Regulatio
 
 ### Closely related
 
-- [Regulation Best Interest](/regulation-best-interest) — requires brokers to act in client's best interest
-- [Fiduciary duty](/fiduciary-duty) — the core duty advisers owe
-- [Investment Company Act of 1940](/investment-company-act-of-1940) — regulates funds, not advisers
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers the Act
-- [Suitability standard](/regulation-best-interest) — broker standard (lower than fiduciary)
+- [Regulation Best Interest](/regulation-best-interest/) — requires brokers to act in client's best interest
+- [Fiduciary duty](/fiduciary-duty/) — the core duty advisers owe
+- [Investment Company Act of 1940](/investment-company-act-of-1940/) — regulates funds, not advisers
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers the Act
+- [Suitability standard](/regulation-best-interest/) — broker standard (lower than fiduciary)
 
 ### Wider context
 
 - Wealth management — what advisers do
 - Conflict of interest — the Act's focus
-- [Asset allocation](/asset-allocation) — adviser's core recommendation
-- [Hedge fund](/hedge-fund) — often advised by registered advisers
+- [Asset allocation](/asset-allocation/) — adviser's core recommendation
+- [Hedge fund](/hedge-fund/) — often advised by registered advisers
 
 </div>

@@ -63,7 +63,7 @@ Example: A company with $100 million in debt and $250 million in total assets ha
 
 ## Using D/A in practice
 
-Use alongside [debt-to-equity](/debt-to-equity-ratio):
+Use alongside [debt-to-equity](/debt-to-equity-ratio/):
 
 - D/A = 0.4 means 40% debt, 60% equity.
 - D/E = D/A ÷ (1 − D/A) = 0.4 ÷ 0.6 = 0.67.
@@ -76,8 +76,8 @@ The two are mathematically related and tell the same story from different angles
 
 ### Closely related
 
-- [Debt-to-equity ratio](/debt-to-equity-ratio) — alternative leverage measure
-- [Debt-to-capital ratio](/debt-to-capital-ratio) — debt as percentage of capital
+- [Debt-to-equity ratio](/debt-to-equity-ratio/) — alternative leverage measure
+- [Debt-to-capital ratio](/debt-to-capital-ratio/) — debt as percentage of capital
 - Leverage · Solvency
 
 </div>

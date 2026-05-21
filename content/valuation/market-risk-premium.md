@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **market risk premium** is the extra annual return investors demand for holding the overall stock market (equities) instead of risk-free government bonds. It is synonymous with the [equity risk premium](/equity-risk-premium) and is a critical input to the [capital asset pricing model](/capital-asset-pricing-model). Estimating it is more art than science, yet small errors swing valuations by 20% or more.*
+*The **market risk premium** is the extra annual return investors demand for holding the overall stock market (equities) instead of risk-free government bonds. It is synonymous with the [equity risk premium](/equity-risk-premium/) and is a critical input to the [capital asset pricing model](/capital-asset-pricing-model/). Estimating it is more art than science, yet small errors swing valuations by 20% or more.*
 
 ## Definition and intuition
 
@@ -65,7 +65,7 @@ Possible explanations:
 
 ## Market risk premium in CAPM
 
-In the [capital asset pricing model](/capital-asset-pricing-model), the market risk premium is multiplied by beta to get the total risk premium for a specific stock.
+In the [capital asset pricing model](/capital-asset-pricing-model/), the market risk premium is multiplied by beta to get the total risk premium for a specific stock.
 
 Cost of equity = Risk-free rate + Beta × Market risk premium
 
@@ -89,23 +89,23 @@ This is why scenario analysis and sensitivity tables are essential. Build your D
 
 ### Closely related
 
-- [Equity risk premium](/equity-risk-premium) — same thing
-- [Capital asset pricing model](/capital-asset-pricing-model) — where it is used
-- [Cost of equity](/cost-of-equity) — what it drives
-- [Beta](/beta) — amplifies the premium for risky stocks
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates via cost of equity
+- [Equity risk premium](/equity-risk-premium/) — same thing
+- [Capital asset pricing model](/capital-asset-pricing-model/) — where it is used
+- [Cost of equity](/cost-of-equity/) — what it drives
+- [Beta](/beta/) — amplifies the premium for risky stocks
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates via cost of equity
 
 ### Estimation and variants
 
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive approach with explicit premiums
-- [Fama-French three-factor model](/fama-french-three-factor-model) — adds size and value premiums
-- [Carhart four-factor model](/carhart-four-factor-model) — adds momentum premium
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive approach with explicit premiums
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — adds size and value premiums
+- [Carhart four-factor model](/carhart-four-factor-model/) — adds momentum premium
 
 ### Valuation frameworks
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Dividend discount model](/dividend-discount-model) — uses market risk premium
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing premium sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across assumptions
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Dividend discount model](/dividend-discount-model/) — uses market risk premium
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing premium sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across assumptions
 
 </div>

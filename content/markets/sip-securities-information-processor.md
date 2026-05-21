@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*A **Securities Information Processor (SIP)** is a centralized facility that aggregates quote and trade data from all US stock exchanges and [alternative trading systems](/alternative-trading-system), combines them, and disseminates consolidated market data in real time. In the US, the SIP is operated by exchanges and distributes data showing the best bid and ask prices and recent trades. The SIP is the official source of the national best bid and offer (NBBO) and is essential to fair market pricing.*
+*A **Securities Information Processor (SIP)** is a centralized facility that aggregates quote and trade data from all US stock exchanges and [alternative trading systems](/alternative-trading-system/), combines them, and disseminates consolidated market data in real time. In the US, the SIP is operated by exchanges and distributes data showing the best bid and ask prices and recent trades. The SIP is the official source of the national best bid and offer (NBBO) and is essential to fair market pricing.*
 
 <div class="wiki-hatnote">
 
-This entry is about the data aggregation mechanism. For the data feed it produces, see [consolidated tape](/consolidated-tape); for its regulatory framework, see [RegNMS](/reg-nms-detail).
+This entry is about the data aggregation mechanism. For the data feed it produces, see [consolidated tape](/consolidated-tape/); for its regulatory framework, see [RegNMS](/reg-nms-detail/).
 
 </div>
 
@@ -44,8 +44,8 @@ This entry is about the data aggregation mechanism. For the data feed it produce
 The SIP collects data from multiple sources:
 
 - All registered exchanges (NYSE, NASDAQ, other regional exchanges)
-- Registered [alternative trading systems](/alternative-trading-system) ([dark pools](/dark-pool-detail), [lit venues](/lit-venue-detail))
-- OTC market makers (for [over-the-counter](/over-the-counter-market) trades)
+- Registered [alternative trading systems](/alternative-trading-system/) ([dark pools](/dark-pool-detail/), [lit venues](/lit-venue-detail/))
+- OTC market makers (for [over-the-counter](/over-the-counter-market/) trades)
 
 For each stock, the SIP receives:
 
@@ -67,11 +67,11 @@ Brokers are required by SEC Rule 10b-5 best execution obligations to route order
 
 ## Consolidated tape
 
-The SIP produces the [consolidated tape](/consolidated-tape), a continuous stream of all trades in all US-listed stocks, in real time. This tape is the official record of what has traded and at what price.
+The SIP produces the [consolidated tape](/consolidated-tape/), a continuous stream of all trades in all US-listed stocks, in real time. This tape is the official record of what has traded and at what price.
 
 ## History and evolution
 
-The SIP concept originated in the 1970s with the creation of the [consolidated tape](/consolidated-tape) system. Before that, each exchange maintained its own quotations and trades, and investors had no way to know what prices were available on other venues.
+The SIP concept originated in the 1970s with the creation of the [consolidated tape](/consolidated-tape/) system. Before that, each exchange maintained its own quotations and trades, and investors had no way to know what prices were available on other venues.
 
 The SEC mandated the consolidation of trading and quote data, leading to the creation of the SIP operated by the major exchanges.
 
@@ -95,13 +95,13 @@ The SIP is central to market regulation. The SEC uses SIP data to:
 - Calculate indices.
 - Calculate volatility for circuit-breaker purposes.
 
-The SEC and [FINRA](/broker) monitor SIP data for violations of trading rules.
+The SEC and [FINRA](/broker/) monitor SIP data for violations of trading rules.
 
 ## Global equivalents
 
 Other countries have similar systems:
 
-- **Europe:** ESMA regulates consolidated data under [MiFID II](/mifid-ii-trading).
+- **Europe:** ESMA regulates consolidated data under [MiFID II](/mifid-ii-trading/).
 - **UK:** The FCA mandates consolidated data reporting.
 - **Japan:** The Japanese exchanges operate a similar consolidated data system.
 
@@ -119,18 +119,18 @@ Other countries have similar systems:
 
 ### Closely related
 
-- [Consolidated tape](/consolidated-tape) — the output of the SIP
-- [RegNMS](/reg-nms-detail) — the regulatory framework
-- [Stock exchange](/stock-exchange) — the source of SIP data
-- [Alternative trading system](/alternative-trading-system) — feeds data to SIP
-- [Market data](/stock-market) — what the SIP provides
+- [Consolidated tape](/consolidated-tape/) — the output of the SIP
+- [RegNMS](/reg-nms-detail/) — the regulatory framework
+- [Stock exchange](/stock-exchange/) — the source of SIP data
+- [Alternative trading system](/alternative-trading-system/) — feeds data to SIP
+- [Market data](/stock-market/) — what the SIP provides
 
 ### Wider context
 
-- [Best bid and offer](/stock-market) — calculated by the SIP
-- [Best execution](/broker) — regulated using SIP data
-- [Price discovery](/stock-market) — facilitated by SIP transparency
-- [Liquidity](/secondary-market) — displayed via SIP
-- [High-frequency trading](/stock-market) — exploits SIP speed gaps
+- [Best bid and offer](/stock-market/) — calculated by the SIP
+- [Best execution](/broker/) — regulated using SIP data
+- [Price discovery](/stock-market/) — facilitated by SIP transparency
+- [Liquidity](/secondary-market/) — displayed via SIP
+- [High-frequency trading](/stock-market/) — exploits SIP speed gaps
 
 </div>

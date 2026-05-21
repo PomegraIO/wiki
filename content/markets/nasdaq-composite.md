@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **NASDAQ Composite** is a market-capitalization-weighted index of all stocks traded on the NASDAQ exchange, comprising approximately 3,000 companies. It is much broader than the NASDAQ 100 (which includes only the largest 100 stocks). The NASDAQ Composite is heavily weighted toward technology and growth stocks, reflecting NASDAQ's origins as an electronic network for technology companies. It is more volatile than the [S&P 500](/sp-500-index) but offers greater exposure to innovation and high-growth sectors.*
+*The **NASDAQ Composite** is a market-capitalization-weighted index of all stocks traded on the NASDAQ exchange, comprising approximately 3,000 companies. It is much broader than the NASDAQ 100 (which includes only the largest 100 stocks). The NASDAQ Composite is heavily weighted toward technology and growth stocks, reflecting NASDAQ's origins as an electronic network for technology companies. It is more volatile than the [S&P 500](/sp-500-index/) but offers greater exposure to innovation and high-growth sectors.*
 
 <div class="wiki-hatnote">
 
-This entry is about the NASDAQ Composite. For the top 100, see NASDAQ 100; for the broader market, see [S&P 500](/sp-500-index).
+This entry is about the NASDAQ Composite. For the top 100, see NASDAQ 100; for the broader market, see [S&P 500](/sp-500-index/).
 
 </div>
 
@@ -55,7 +55,7 @@ Composition:
 
 The NASDAQ Composite is market-cap-weighted, meaning each company's influence is proportional to its market capitalization. The largest companies (Apple, Microsoft, Nvidia) have the most weight.
 
-This is similar to the [S&P 500](/sp-500-index) methodology, but the NASDAQ skews more heavily toward large-cap tech than the [S&P 500](/sp-500-index) does.
+This is similar to the [S&P 500](/sp-500-index/) methodology, but the NASDAQ skews more heavily toward large-cap tech than the [S&P 500](/sp-500-index/) does.
 
 ## NASDAQ 100 vs. NASDAQ Composite
 
@@ -67,7 +67,7 @@ The NASDAQ 100 is more commonly used for benchmarking, while the NASDAQ Composit
 
 ## Volatility characteristics
 
-The NASDAQ Composite is significantly more volatile than the [S&P 500](/sp-500-index):
+The NASDAQ Composite is significantly more volatile than the [S&P 500](/sp-500-index/):
 
 - **NASDAQ volatility:** 20–30% annualized (varies by year).
 - **S&P 500 volatility:** 15–20% annualized.
@@ -92,7 +92,7 @@ Since recovery, the NASDAQ has generally outperformed, driven by genuine growth 
 
 The NASDAQ's tech concentration means it is particularly sensitive to sector rotation:
 
-- **Tech strength.** When investors favor tech and growth, the NASDAQ outperforms the [S&P 500](/sp-500-index).
+- **Tech strength.** When investors favor tech and growth, the NASDAQ outperforms the [S&P 500](/sp-500-index/).
 - **Value rotation.** When investors favor value stocks (banks, industrials, utilities), the NASDAQ underperforms.
 
 In recent years, tech dominance has favored the NASDAQ, but periodically value outperforms.
@@ -107,10 +107,10 @@ In recent years, tech dominance has favored the NASDAQ, but periodically value o
 
 ## Performance vs. S&P 500
 
-Over the long term (20+ years), the NASDAQ Composite and [S&P 500](/sp-500-index) returns are similar (~10% annualized), but:
+Over the long term (20+ years), the NASDAQ Composite and [S&P 500](/sp-500-index/) returns are similar (~10% annualized), but:
 
 - **Recent decades (2010–2024):** NASDAQ has significantly outperformed due to tech dominance.
-- **Periods of value outperformance:** 2000–2010, early 2022, certain quarters — the [S&P 500](/sp-500-index) outperforms.
+- **Periods of value outperformance:** 2000–2010, early 2022, certain quarters — the [S&P 500](/sp-500-index/) outperforms.
 
 The choice depends on an investor's conviction about technology's future and risk tolerance.
 
@@ -120,7 +120,7 @@ The choice depends on an investor's conviction about technology's future and ris
 
 **Growth investors:** Growth-focused portfolios are often compared to the NASDAQ Composite.
 
-**Diversification:** A portfolio combining the [S&P 500](/sp-500-index) and NASDAQ offers broad exposure with some growth tilt.
+**Diversification:** A portfolio combining the [S&P 500](/sp-500-index/) and NASDAQ offers broad exposure with some growth tilt.
 
 **Sector exposure:** Investors trying to tilt toward innovation use NASDAQ funds.
 
@@ -141,17 +141,17 @@ The choice depends on an investor's conviction about technology's future and ris
 ### Closely related
 
 - NASDAQ 100 — the largest 100 NASDAQ stocks
-- [S&P 500](/sp-500-index) — the broader large-cap index
-- [Stock exchange](/stock-exchange) — NASDAQ is one
-- [Technology stock](/stock) — central to NASDAQ Composite
-- [Index](/sp-500-index) — Composite is one type
+- [S&P 500](/sp-500-index/) — the broader large-cap index
+- [Stock exchange](/stock-exchange/) — NASDAQ is one
+- [Technology stock](/stock/) — central to NASDAQ Composite
+- [Index](/sp-500-index/) — Composite is one type
 
 ### Wider context
 
-- [Growth stock](/stock) — NASDAQ heavy in these
-- [Volatility](/bull-market) — higher in NASDAQ
-- [Bubble](/nasdaq-composite) — historical risk
-- [Diversification](/diversification) — mixing indices provides this
-- [Sector rotation](/stock-market) — affects NASDAQ vs. S&P 500 performance
+- [Growth stock](/stock/) — NASDAQ heavy in these
+- [Volatility](/bull-market/) — higher in NASDAQ
+- [Bubble](/nasdaq-composite/) — historical risk
+- [Diversification](/diversification/) — mixing indices provides this
+- [Sector rotation](/stock-market/) — affects NASDAQ vs. S&P 500 performance
 
 </div>

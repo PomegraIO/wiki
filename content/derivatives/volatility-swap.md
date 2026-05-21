@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **volatility swap** is a [swap](/swap) contract where one party bets that realized [volatility](/historical-volatility) will exceed a predetermined strike (the swap rate), while the other party takes the opposite side. Unlike [options](/option), which have optionality (the right but not obligation), volatility swaps create symmetric payoffs: both parties have obligations based on how realized [volatility](/historical-volatility) compares to the strike. Volatility swaps are used by traders to express pure volatility views independent of direction.*
+*A **volatility swap** is a [swap](/swap/) contract where one party bets that realized [volatility](/historical-volatility/) will exceed a predetermined strike (the swap rate), while the other party takes the opposite side. Unlike [options](/option/), which have optionality (the right but not obligation), volatility swaps create symmetric payoffs: both parties have obligations based on how realized [volatility](/historical-volatility/) compares to the strike. Volatility swaps are used by traders to express pure volatility views independent of direction.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: "/svg/derivatives.svg"
 
 ## How volatility swaps work
 
-A trader believes [implied volatility](/implied-volatility) at 20% is too low; realized [volatility](/historical-volatility) will exceed 25%. The trader enters a 1-year volatility swap with a counterparty:
+A trader believes [implied volatility](/implied-volatility/) at 20% is too low; realized [volatility](/historical-volatility/) will exceed 25%. The trader enters a 1-year volatility swap with a counterparty:
 
 **Terms:**
 - Notional: $100,000
@@ -55,21 +55,21 @@ The trader gains if realized > strike; loses if realized < strike.
 
 ## Realized vs. implied volatility
 
-**[Implied volatility](/implied-volatility)** is the market's forecast of future [volatility](/historical-volatility) at option initiation.
+**[Implied volatility](/implied-volatility/)** is the market's forecast of future [volatility](/historical-volatility/) at option initiation.
 
-**Realized [volatility](/historical-volatility)** is what actually occurs over the contract's life.
+**Realized [volatility](/historical-volatility/)** is what actually occurs over the contract's life.
 
 Volatility swaps bet on the gap: if you believe the market overestimates future volatility, you sell realized volatility (bet it will be lower than implied).
 
 ## Advantages vs. options
 
-Options are complex: they have [delta](/delta), [gamma](/gamma), [theta](/theta), [vega](/vega). Volatility swaps are pure volatility bets with no directional exposure and no time decay.
+Options are complex: they have [delta](/delta/), [gamma](/gamma/), [theta](/theta/), [vega](/vega/). Volatility swaps are pure volatility bets with no directional exposure and no time decay.
 
 Buying a volatility swap (long realized vol) is simpler than buying a straddle (buy call and put), which also has gamma and theta complications.
 
 ## Strike determination
 
-The strike is typically set at the [implied volatility](/implied-volatility) at initiation (par value = 0 to both parties). But strikes can be negotiated; a trader might buy realized vol at a strike of 18% (lower than the current implied of 20%), accepting less upside for protection if realized vol falls.
+The strike is typically set at the [implied volatility](/implied-volatility/) at initiation (par value = 0 to both parties). But strikes can be negotiated; a trader might buy realized vol at a strike of 18% (lower than the current implied of 20%), accepting less upside for protection if realized vol falls.
 
 ## Variance swaps
 
@@ -79,7 +79,7 @@ Related but distinct are **variance swaps**, which pay on the square of volatili
 
 **Hedging:** A portfolio manager long volatility exposure (short gamma) can hedge via long realized volatility swap.
 
-**Speculation:** A trader bullish on [volatility](/historical-volatility) buys realized vol to profit if [volatility](/historical-volatility) spikes.
+**Speculation:** A trader bullish on [volatility](/historical-volatility/) buys realized vol to profit if [volatility](/historical-volatility/) spikes.
 
 **Relative value:** Buy realized vol at 20 strike, sell another volatility swap at 25 strike, betting realized vol will settle between them.
 

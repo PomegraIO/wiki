@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **stop-limit order** is an instruction with two price thresholds: a **stop price** that triggers the order, and a **limit price** that constrains the execution. Once the stop price is crossed, the order becomes a [limit order](/limit-order) at your specified limit price, not a [market order](/market-order). This shields you from catastrophic fills but introduces the risk that the order never fills at all.*
+*A **stop-limit order** is an instruction with two price thresholds: a **stop price** that triggers the order, and a **limit price** that constrains the execution. Once the stop price is crossed, the order becomes a [limit order](/limit-order/) at your specified limit price, not a [market order](/market-order/). This shields you from catastrophic fills but introduces the risk that the order never fills at all.*
 
 <div class="wiki-hatnote">
 
-For a simple stop that becomes a market order, see [stop order](/stop-order). For automatic adjustments, see [trailing stop order](/trailing-stop-order).
+For a simple stop that becomes a market order, see [stop order](/stop-order/). For automatic adjustments, see [trailing stop order](/trailing-stop-order/).
 
 </div>
 
@@ -42,9 +42,9 @@ For a simple stop that becomes a market order, see [stop order](/stop-order). Fo
 A stop-limit order has two distinct phases:
 
 1. **Phase 1: Dormant.** The order waits for the stop price to be crossed. Until that happens, nothing occurs.
-2. **Phase 2: Active limit order.** Once the stop price is touched, the order becomes a [limit order](/limit-order) at your specified limit price and enters the order book. It behaves exactly like a normal limit order from that point forward.
+2. **Phase 2: Active limit order.** Once the stop price is touched, the order becomes a [limit order](/limit-order/) at your specified limit price and enters the order book. It behaves exactly like a normal limit order from that point forward.
 
-This is the key difference from a [stop order](/stop-order): a regular stop order triggers and becomes a [market order](/market-order) (executes at any price). A stop-limit order triggers and becomes a limit order (executes only at your limit price or better).
+This is the key difference from a [stop order](/stop-order/): a regular stop order triggers and becomes a [market order](/market-order/) (executes at any price). A stop-limit order triggers and becomes a limit order (executes only at your limit price or better).
 
 ## Example: the classic stop-loss scenario
 
@@ -54,7 +54,7 @@ You buy a stock at $100. You want to limit losses to $10, so you place a stop-li
 - If there are sellers lined up at $90 or below, you fill.
 - If the price is moving down fast (now at $85), you will not fill at $90 — your limit order sits in the book at $90, hoping for the price to bounce back.
 
-This is safer than a [stop order](/stop-order), where you would be sold at $85 or whatever the opening price is. You have a floor ($90 is your limit). But you also have the risk of not executing, leaving you with a position you wanted to exit.
+This is safer than a [stop order](/stop-order/), where you would be sold at $85 or whatever the opening price is. You have a floor ($90 is your limit). But you also have the risk of not executing, leaving you with a position you wanted to exit.
 
 ## Stop-limit vs. stop: the fundamental trade-off
 
@@ -80,7 +80,7 @@ Both orders work similarly in a gradual move, but differ dramatically in a gap.
 
 ## Time in force and stop-limit orders
 
-Stop-limit orders can be [day orders](/day-order), [GTC](/gtc-order), or [GTD](/gtd-order). Once the stop is triggered and the order becomes a limit order, the time-in-force rule starts. If it is a day order, the limit order expires at market close if not filled.
+Stop-limit orders can be [day orders](/day-order/), [GTC](/gtc-order/), or [GTD](/gtd-order/). Once the stop is triggered and the order becomes a limit order, the time-in-force rule starts. If it is a day order, the limit order expires at market close if not filled.
 
 This creates a subtle trap: your stop-limit order can sit dormant for weeks (waiting for the trigger) and then expire as a limit order the moment it triggers (because it is a day order). Many traders forget to set the time-in-force to GTC and end up unprotected.
 
@@ -101,16 +101,16 @@ This creates a subtle trap: your stop-limit order can sit dormant for weeks (wai
 
 ### Closely related
 
-- [Stop order](/stop-order) — trigger becomes market order
-- [Limit order](/limit-order) — what the order becomes after trigger
-- [Trailing stop order](/trailing-stop-order) — dynamic stop price
-- [Market order](/market-order) — instant execution at any price
+- [Stop order](/stop-order/) — trigger becomes market order
+- [Limit order](/limit-order/) — what the order becomes after trigger
+- [Trailing stop order](/trailing-stop-order/) — dynamic stop price
+- [Market order](/market-order/) — instant execution at any price
 
 ### Advanced combinations
 
-- [Bracket order](/bracket-order) — entry plus stop and profit-taking limit
-- [One-cancels-other](/oco-order) — two stops, one fires and cancels the other
-- [One-triggers-other](/oto-order) — one stop triggers a second order
+- [Bracket order](/bracket-order/) — entry plus stop and profit-taking limit
+- [One-cancels-other](/oco-order/) — two stops, one fires and cancels the other
+- [One-triggers-other](/oto-order/) — one stop triggers a second order
 
 ### Context
 

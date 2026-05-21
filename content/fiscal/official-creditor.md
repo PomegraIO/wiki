@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*An **official creditor** is a government, central bank, or international organization (such as the IMF or World Bank) that has extended credit to another government. They are distinguished from private creditors (banks and investors) and usually have priority in [debt restructuring](/debt-restructuring).*
+*An **official creditor** is a government, central bank, or international organization (such as the IMF or World Bank) that has extended credit to another government. They are distinguished from private creditors (banks and investors) and usually have priority in [debt restructuring](/debt-restructuring/).*
 
 <div class="wiki-hatnote">
 
-This entry covers government and multilateral lenders. For the broader concept, see [sovereign debt](/sovereign-debt); for restructuring involving official creditors, see [debt restructuring](/debt-restructuring) and [paris-club](/official-creditor); for the instruments, see [brady bond](/brady-bond).
+This entry covers government and multilateral lenders. For the broader concept, see [sovereign debt](/sovereign-debt/); for restructuring involving official creditors, see [debt restructuring](/debt-restructuring/) and [paris-club](/official-creditor/); for the instruments, see [brady bond](/brady-bond/).
 
 </div>
 
@@ -31,8 +31,8 @@ This entry covers government and multilateral lenders. For the broader concept, 
 | **Types** | Bilateral (government-to-government) and multilateral |
 | **Examples** | US, Japan, Germany, IMF, World Bank, regional development banks |
 | **Lending purposes** | Development, infrastructure, emergency lending, budget support |
-| **Terms** | Often concessional (below-market [interest rates](/interest-rate)) for low-income countries |
-| **Priority status** | Often prioritized over private creditors in [restructuring](/debt-restructuring) |
+| **Terms** | Often concessional (below-market [interest rates](/interest-rate/)) for low-income countries |
+| **Priority status** | Often prioritized over private creditors in [restructuring](/debt-restructuring/) |
 | **Coordination** | Paris Club for bilateral creditors |
 | **Volume** | Substantial for low-income countries; less for middle-income and developed |
 
@@ -56,7 +56,7 @@ Examples:
 
 Official creditors often lend on concessional (favorable) terms:
 
-**Low [interest rates](/interest-rate):** Bilateral and multilateral lenders often charge below-market rates, especially for low-income countries.
+**Low [interest rates](/interest-rate/):** Bilateral and multilateral lenders often charge below-market rates, especially for low-income countries.
 
 **Long maturities:** Extended repayment periods reduce annual debt service.
 
@@ -84,10 +84,10 @@ When a country requests restructuring, the Paris Club negotiates terms and coord
 
 ## Priority of official creditors
 
-In [debt restructuring](/debt-restructuring), official creditors often have priority:
+In [debt restructuring](/debt-restructuring/), official creditors often have priority:
 
 - **Multilateral creditors:** Rarely accept losses; restructuring plans usually preserve full repayment to IMF and World Bank.
-- **Bilateral creditors:** Agree to [debt restructuring](/debt-restructuring) coordinated by Paris Club, sometimes accepting some losses.
+- **Bilateral creditors:** Agree to [debt restructuring](/debt-restructuring/) coordinated by Paris Club, sometimes accepting some losses.
 - **Private creditors:** Accept more substantial losses (haircuts) than official creditors.
 
 This priority reflects official creditors' policy goals (they want countries to stabilize) and their voting power in multilateral institutions.
@@ -114,23 +114,23 @@ While concessional terms are beneficial, official creditor exposure creates cons
 
 ### Closely related
 
-- [Sovereign debt](/sovereign-debt) — owed to official creditors
-- [Debt restructuring](/debt-restructuring) — official creditors participate
-- [Brady bond](/brady-bond) — used in restructuring with creditor participation
-- [Paris club](/official-creditor) — informal group of bilateral creditors
+- [Sovereign debt](/sovereign-debt/) — owed to official creditors
+- [Debt restructuring](/debt-restructuring/) — official creditors participate
+- [Brady bond](/brady-bond/) — used in restructuring with creditor participation
+- [Paris club](/official-creditor/) — informal group of bilateral creditors
 
 ### Multilateral institutions
 
-- [International Monetary Fund](/central-bank) — major multilateral creditor
-- [World Bank](/central-bank) — development lender
-- [Regional development banks](/central-bank) — lend to regional members
-- [Central bank](/central-bank) — official institution (sometimes lends)
+- [International Monetary Fund](/central-bank/) — major multilateral creditor
+- [World Bank](/central-bank/) — development lender
+- [Regional development banks](/central-bank/) — lend to regional members
+- [Central bank](/central-bank/) — official institution (sometimes lends)
 
 ### Debt dynamics
 
-- [Debt-to-GDP ratio](/debt-to-gdp-ratio) — official debt component affects ratio
-- [Fiscal consolidation](/fiscal-consolidation) — required when official debt is unsustainable
-- [Interest rate](/interest-rate) — official lenders charge lower rates than private
-- [Austerity](/austerity) — often condition of official lending
+- [Debt-to-GDP ratio](/debt-to-gdp-ratio/) — official debt component affects ratio
+- [Fiscal consolidation](/fiscal-consolidation/) — required when official debt is unsustainable
+- [Interest rate](/interest-rate/) — official lenders charge lower rates than private
+- [Austerity](/austerity/) — often condition of official lending
 
 </div>

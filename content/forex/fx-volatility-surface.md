@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **FX volatility surface** is a three-dimensional landscape showing the implied volatility of [currency options](/currency-option) across different strike prices and expiration dates. A single currency pair might have 50+ implied volatilities, one for each combination of strike and maturity. The shape of the surface (smile, smirk, skew) encodes market expectations about crash risk, uncertainty, and the full distribution of future exchange rates.*
+*An **FX volatility surface** is a three-dimensional landscape showing the implied volatility of [currency options](/currency-option/) across different strike prices and expiration dates. A single currency pair might have 50+ implied volatilities, one for each combination of strike and maturity. The shape of the surface (smile, smirk, skew) encodes market expectations about crash risk, uncertainty, and the full distribution of future exchange rates.*
 
 <div class="wiki-hatnote">
 
-For the options themselves, see [currency option](/currency-option) and [FX option](/fx-option); for the pricing models, see [fx-option](/fx-option).
+For the options themselves, see [currency option](/currency-option/) and [FX option](/fx-option/); for the pricing models, see [fx-option](/fx-option/).
 
 </div>
 
@@ -79,16 +79,16 @@ A trader managing a portfolio of options must track not just the spot price but 
 
 ### Closely related
 
-- [Currency option](/currency-option) — what the surface prices
-- [FX Option](/fx-option) — professional options using surfaces
-- [Vanilla FX Option](/vanilla-fx-option) — standard options on the surface
-- [Exotic FX Option](/exotic-fx-option) — exotic options calibrated to surface
-- [Pip](/pip) — surface prices quoted in pips of volatility
+- [Currency option](/currency-option/) — what the surface prices
+- [FX Option](/fx-option/) — professional options using surfaces
+- [Vanilla FX Option](/vanilla-fx-option/) — standard options on the surface
+- [Exotic FX Option](/exotic-fx-option/) — exotic options calibrated to surface
+- [Pip](/pip/) — surface prices quoted in pips of volatility
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — affects surface shape
-- [Spot exchange rate](/spot-exchange-rate) — reference point for strikes
-- [Beta](/beta) — related concept in equity options
+- [Interest rate](/interest-rate/) — affects surface shape
+- [Spot exchange rate](/spot-exchange-rate/) — reference point for strikes
+- [Beta](/beta/) — related concept in equity options
 
 </div>

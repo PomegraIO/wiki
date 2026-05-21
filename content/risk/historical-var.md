@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers historical VaR calculation. For alternative VaR methods, see [parametric-var](/parametric-var) and [monte-carlo-var](/monte-carlo-var); for the general [value-at-risk](/value-at-risk) concept.
+This entry covers historical VaR calculation. For alternative VaR methods, see [parametric-var](/parametric-var/) and [monte-carlo-var](/monte-carlo-var/); for the general [value-at-risk](/value-at-risk/) concept.
 
 </div>
 
@@ -59,7 +59,7 @@ Worst 10 days from 1,250 days of data: -5%, -4.8%, -4.5%, -3.8%, -3.5%, -3.2%, -
 
 ## Advantages of historical VaR
 
-**No distributional assumptions.** Unlike [parametric-var](/parametric-var), historical VaR does not assume returns follow a normal distribution. It uses actual market data.
+**No distributional assumptions.** Unlike [parametric-var](/parametric-var/), historical VaR does not assume returns follow a normal distribution. It uses actual market data.
 
 **Reflects reality.** If the actual worst 1% of days averaged -4%, historical VaR captures that. Parametric VaR might say -2.28%, missing the true tail severity.
 
@@ -81,13 +81,13 @@ Worst 10 days from 1,250 days of data: -5%, -4.8%, -4.5%, -3.8%, -3.5%, -3.2%, -
 
 Historical VaR is reasonable for:
 - **Backtesting.** You can test whether actual returns exceeded historical VaR estimates. If they did, the VaR model failed.
-- **Cross-checking.** Compare historical VaR to [parametric-var](/parametric-var). If they differ significantly, investigate why. If historical is much worse, it suggests fat tails.
+- **Cross-checking.** Compare historical VaR to [parametric-var](/parametric-var/). If they differ significantly, investigate why. If historical is much worse, it suggests fat tails.
 - **Regime-aware estimation.** If you estimate historical VaR separately for bull and bear markets, you capture regime differences.
 - **Longer-term horizons.** Over longer periods (weeks or months), statistical stability improves and historical VaR is more reliable.
 
 Historical VaR fails when:
 - **Structures change.** If you use pre-2008 data to estimate VaR in 2009, the estimate is too low because the 2008 crisis changed volatility and correlations.
-- **New instruments.** If you add a new asset class or derivative to a portfolio, historical data for the portfolio as a whole does not exist. You need [monte-carlo-var](/monte-carlo-var) or [parametric-var](/parametric-var).
+- **New instruments.** If you add a new asset class or derivative to a portfolio, historical data for the portfolio as a whole does not exist. You need [monte-carlo-var](/monte-carlo-var/) or [parametric-var](/parametric-var/).
 - **Tail events are rare.** If the worst day in 1,000 days is -3%, but you want 99.9% VaR (worst 1 day in 1,000), you only have 1 data point to estimate from.
 
 ## Comparison: Parametric vs. Historical VaR
@@ -108,11 +108,11 @@ The historical VaR is worse (-3.2% vs. -2.28%), reflecting the fat tail captured
 ## Practical use
 
 Most risk managers use historical VaR as a cross-check:
-1. Calculate [parametric-var](/parametric-var) for speed and consistency.
+1. Calculate [parametric-var](/parametric-var/) for speed and consistency.
 2. Calculate historical VaR to see if actual tail risks are worse than the normal distribution assumes.
-3. If they diverge significantly, investigate. Use [stress-testing](/stress-testing) and [scenario-analysis](/scenario-analysis) to understand tail risks.
+3. If they diverge significantly, investigate. Use [stress-testing](/stress-testing/) and [scenario-analysis](/scenario-analysis/) to understand tail risks.
 
-Modern frameworks like [Basel III](/capital-adequacy) emphasize multiple VaR methods, not just one.
+Modern frameworks like [Basel III](/capital-adequacy/) emphasize multiple VaR methods, not just one.
 
 ## See also
 
@@ -120,18 +120,18 @@ Modern frameworks like [Basel III](/capital-adequacy) emphasize multiple VaR met
 
 ### Closely related
 
-- [Value-at-risk](/value-at-risk) — the VaR concept itself
-- [Parametric-var](/parametric-var) — alternative method using distributional assumptions
-- [Monte-carlo-var](/monte-carlo-var) — simulation-based VaR
-- [Expected-shortfall](/expected-shortfall) — measures tail severity
-- [Backtesting](/value-at-risk) — checks whether VaR estimates are accurate
+- [Value-at-risk](/value-at-risk/) — the VaR concept itself
+- [Parametric-var](/parametric-var/) — alternative method using distributional assumptions
+- [Monte-carlo-var](/monte-carlo-var/) — simulation-based VaR
+- [Expected-shortfall](/expected-shortfall/) — measures tail severity
+- [Backtesting](/value-at-risk/) — checks whether VaR estimates are accurate
 
 ### Strengths and weaknesses
 
-- [Fat-tail-risk](/fat-tail-risk) — historical VaR captures this; parametric does not
-- [Model-risk](/model-risk) — all VaR models depend on assumptions
-- [Parameter-risk](/parameter-risk) — estimates are uncertain
-- [Tail-risk](/tail-risk) — historical VaR better at capturing
-- [Stress-testing](/stress-testing) — complements VaR methods
+- [Fat-tail-risk](/fat-tail-risk/) — historical VaR captures this; parametric does not
+- [Model-risk](/model-risk/) — all VaR models depend on assumptions
+- [Parameter-risk](/parameter-risk/) — estimates are uncertain
+- [Tail-risk](/tail-risk/) — historical VaR better at capturing
+- [Stress-testing](/stress-testing/) — complements VaR methods
 
 </div>

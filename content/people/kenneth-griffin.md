@@ -81,17 +81,17 @@ His influence on trading and markets is substantial though often invisible to re
 
 ### Closely related
 
-- [Steve Cohen](/steve-cohen) — Another large hedge fund founder
+- [Steve Cohen](/steve-cohen/) — Another large hedge fund founder
 - Jim Simons — A pioneer of quantitative trading
-- [David Tepper](/david-tepper) — A systematic trader
-- [Ray Dalio](/ray-dalio) — Another systems-based trader
+- [David Tepper](/david-tepper/) — A systematic trader
+- [Ray Dalio](/ray-dalio/) — Another systems-based trader
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Quantitative trading — His specialty
 - Market-making — His evolution
-- [Statistical arbitrage](/statistical-arbitrage) — His edge
-- [Algorithmic trading](/algorithmic-trading) — His method
+- [Statistical arbitrage](/statistical-arbitrage/) — His edge
+- [Algorithmic trading](/algorithmic-trading/) — His method
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **tender offer** is a public invitation by one company to another company's shareholders to sell (tender) their shares at a specified price within a stated period. Tender offers are the mechanism by which an acquirer attempts to accumulate a controlling stake in a public company, either with the target's board support ([friendly takeover](/friendly-takeover)) or against its opposition ([hostile takeover](/hostile-takeover)). A company may also make a tender offer for its own shares — a [share buyback](/share-buyback) — to return capital to shareholders or support the stock price.*
+*A **tender offer** is a public invitation by one company to another company's shareholders to sell (tender) their shares at a specified price within a stated period. Tender offers are the mechanism by which an acquirer attempts to accumulate a controlling stake in a public company, either with the target's board support ([friendly takeover](/friendly-takeover/)) or against its opposition ([hostile takeover](/hostile-takeover/)). A company may also make a tender offer for its own shares — a [share buyback](/share-buyback/) — to return capital to shareholders or support the stock price.*
 
 <div class="wiki-hatnote">
 
-This entry covers tender offers as a share-purchase mechanism. For hostile context, see [hostile takeover](/hostile-takeover); for self-tender offers (buybacks), see [share buyback](/share-buyback); for the other mechanism to acquire a company's shares, see [proxy fight](/proxy-fight).
+This entry covers tender offers as a share-purchase mechanism. For hostile context, see [hostile takeover](/hostile-takeover/); for self-tender offers (buybacks), see [share buyback](/share-buyback/); for the other mechanism to acquire a company's shares, see [proxy fight](/proxy-fight/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers tender offers as a share-purchase mechanism. For hostile conte
 | **Conditions** | Often conditional on minimum acceptance or regulatory approval |
 | **Timeline** | Typically 20–60 days |
 | **Regulation** | SEC Williams Act (US); similar rules in other jurisdictions |
-| **Opposite** | [Merger](/merger) (negotiated) |
+| **Opposite** | [Merger](/merger/) (negotiated) |
 
 </aside>
 
@@ -45,13 +45,13 @@ An acquirer announces a tender offer to buy shares of a target company at a spec
 
 Shareholders submit their shares for purchase in accordance with the terms. If the offer is **unconditional**, the acquirer is obligated to accept all shares tendered and pay for them. More commonly, the offer is **conditional**: it is contingent on receiving a minimum number of shares (usually a majority or supermajority of outstanding shares), regulatory approval, or satisfaction of other conditions. If those conditions are not met, the acquirer can withdraw and is not obligated to pay.
 
-The conditional structure protects the acquirer from ending up with a minority stake in an unwilling target. As the tender offer deadline approaches, shareholders face pressure: if they believe the offer will succeed, they rush to tender to avoid being left as minority shareholders. If they believe it will fail, they hold out, hoping for a higher competing bid or a [white knight](/white-knight) to emerge.
+The conditional structure protects the acquirer from ending up with a minority stake in an unwilling target. As the tender offer deadline approaches, shareholders face pressure: if they believe the offer will succeed, they rush to tender to avoid being left as minority shareholders. If they believe it will fail, they hold out, hoping for a higher competing bid or a [white knight](/white-knight/) to emerge.
 
 ## Friendly vs. hostile tender offers
 
 **Friendly tender offers** proceed with the target's board support. The board endorses the offer and recommends that shareholders tender. These offers almost always succeed because shareholders trust the board's recommendation. The acquirer and target often negotiate a minimum price and other terms before the offer is publicly announced.
 
-**Hostile tender offers** proceed without board support. The acquirer goes directly to shareholders, often after the target's board has rejected the bid or refused to engage. These are riskier and more expensive for the acquirer. Hostile bids frequently fail because shareholders trust the board's opposition (or at least hesitate to defy it) and because the target has time to erect defences like a [poison pill](/poison-pill), seek a [white knight](/white-knight), or convince shareholders that the offer is insufficient.
+**Hostile tender offers** proceed without board support. The acquirer goes directly to shareholders, often after the target's board has rejected the bid or refused to engage. These are riskier and more expensive for the acquirer. Hostile bids frequently fail because shareholders trust the board's opposition (or at least hesitate to defy it) and because the target has time to erect defences like a [poison pill](/poison-pill/), seek a [white knight](/white-knight/), or convince shareholders that the offer is insufficient.
 
 ## Tender offer mechanics and timing
 
@@ -69,9 +69,9 @@ Other jurisdictions have similar rules. The UK, EU, and most developed markets h
 
 ## Two-tier and mini-tender offers
 
-A **two-tier tender offer** (see [two-tier tender offer](/two-tier-tender-offer)) is a conditional structure where the acquirer offers one price for shares tendered in the offer period, and a lower price (often debt or less-liquid equity) to shareholders who do not tender. This is designed to coerce shareholders to tender by threatening them with an inferior outcome if they do not. Two-tier offers are now rare because they are viewed as coercive and are heavily regulated.
+A **two-tier tender offer** (see [two-tier tender offer](/two-tier-tender-offer/)) is a conditional structure where the acquirer offers one price for shares tendered in the offer period, and a lower price (often debt or less-liquid equity) to shareholders who do not tender. This is designed to coerce shareholders to tender by threatening them with an inferior outcome if they do not. Two-tier offers are now rare because they are viewed as coercive and are heavily regulated.
 
-A **mini-tender offer** (see [mini-tender offer](/mini-tender-offer)) is a small tender offer for less than 5% of shares, often used by activists or raiders to accumulate stakes without triggering disclosure or regulatory scrutiny. These are now heavily regulated and their use has declined.
+A **mini-tender offer** (see [mini-tender offer](/mini-tender-offer/)) is a small tender offer for less than 5% of shares, often used by activists or raiders to accumulate stakes without triggering disclosure or regulatory scrutiny. These are now heavily regulated and their use has declined.
 
 ## The acquirer's perspective
 
@@ -92,7 +92,7 @@ The downsides are significant:
 
 Shareholders receiving a tender offer face a prisoner's dilemma. Tendering locks in a gain at the offer price. Rejecting and holding out hopes for a higher competing bid — but if the offer succeeds without you, you may be left as a minority shareholder in an unfriendly combination, or you may have guessed wrong and the offer fails, leaving you holding stock in a distressed company that is now a takeover target.
 
-Most shareholders rely on their board's recommendation or on advice from their broker. Major institutional investors often consult [proxy advisors](/proxy-advisor) for voting and tendering guidance. In a hostile tender offer, these advisors can swing the outcome.
+Most shareholders rely on their board's recommendation or on advice from their broker. Major institutional investors often consult [proxy advisors](/proxy-advisor/) for voting and tendering guidance. In a hostile tender offer, these advisors can swing the outcome.
 
 ## See also
 
@@ -100,19 +100,19 @@ Most shareholders rely on their board's recommendation or on advice from their b
 
 ### Closely related
 
-- [Two-tier tender offer](/two-tier-tender-offer) — conditional tender with differential pricing
-- [Mini-tender offer](/mini-tender-offer) — small tender for less than 5% of shares
-- [Hostile takeover](/hostile-takeover) — the larger context for hostile tender offers
-- [Friendly takeover](/friendly-takeover) — a tender offer with board support
-- [Merger](/merger) — negotiated alternative to a tender offer
-- [Proxy fight](/proxy-fight) — battle for board control instead of share acquisition
+- [Two-tier tender offer](/two-tier-tender-offer/) — conditional tender with differential pricing
+- [Mini-tender offer](/mini-tender-offer/) — small tender for less than 5% of shares
+- [Hostile takeover](/hostile-takeover/) — the larger context for hostile tender offers
+- [Friendly takeover](/friendly-takeover/) — a tender offer with board support
+- [Merger](/merger/) — negotiated alternative to a tender offer
+- [Proxy fight](/proxy-fight/) — battle for board control instead of share acquisition
 
 ### Wider context
 
-- [Poison pill](/poison-pill) — defence against tender offers
-- [White knight](/white-knight) — competing bidder brought in to defeat a hostile tender
-- [Proxy advisor](/proxy-advisor) — influences shareholder tendering decisions
-- [Share buyback](/share-buyback) — company's own tender offer for its shares
+- [Poison pill](/poison-pill/) — defence against tender offers
+- [White knight](/white-knight/) — competing bidder brought in to defeat a hostile tender
+- [Proxy advisor](/proxy-advisor/) — influences shareholder tendering decisions
+- [Share buyback](/share-buyback/) — company's own tender offer for its shares
 - Schedule 13D — disclosure required for tender offers and large stakes
 
 </div>

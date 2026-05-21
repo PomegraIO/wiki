@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*The GDP deflator is a price index that captures inflation across the entire economy — not just consumer goods, but also business investment, government services, and exports. It is the bridge between [nominal GDP](/nominal-gdp) and [real GDP](/real-gdp).*
+*The GDP deflator is a price index that captures inflation across the entire economy — not just consumer goods, but also business investment, government services, and exports. It is the bridge between [nominal GDP](/nominal-gdp/) and [real GDP](/real-gdp/).*
 
 <div class="wiki-hatnote">
 
-The GDP deflator is broader than the [Consumer Price Index](/consumer-price-index), covering all domestically produced goods and services. It is the standard inflation measure used by macroeconomists for long-run analysis.
+The GDP deflator is broader than the [Consumer Price Index](/consumer-price-index/), covering all domestically produced goods and services. It is the standard inflation measure used by macroeconomists for long-run analysis.
 
 </div>
 
@@ -43,7 +43,7 @@ The GDP deflator is broader than the [Consumer Price Index](/consumer-price-inde
 
 The GDP deflator answers a simple question: by what percentage have the prices of all output changed since the base year? If the deflator is 110, prices have risen 10% since the base year (usually 2012 or 2017 in the US).
 
-Because it covers all production — not just what consumers buy — the GDP deflator includes prices of capital goods (machinery, buildings), government services, and exports. The [Consumer Price Index](/consumer-price-index), by contrast, focuses on what households purchase and ignores the prices firms pay for equipment.
+Because it covers all production — not just what consumers buy — the GDP deflator includes prices of capital goods (machinery, buildings), government services, and exports. The [Consumer Price Index](/consumer-price-index/), by contrast, focuses on what households purchase and ignores the prices firms pay for equipment.
 
 ## The conversion formula
 
@@ -67,17 +67,17 @@ For example, if the new base year is 2017 instead of 2012, then 2017 real GDP eq
 
 ## Why not just use CPI?
 
-The [Consumer Price Index](/consumer-price-index) is published more frequently and earlier than the GDP deflator, so it is often used as a real-time inflation gauge. But for long-run macroeconomic analysis, the GDP deflator is preferred because:
+The [Consumer Price Index](/consumer-price-index/) is published more frequently and earlier than the GDP deflator, so it is often used as a real-time inflation gauge. But for long-run macroeconomic analysis, the GDP deflator is preferred because:
 
 - It covers all output, not just consumer goods. This matters when investment or government spending shifts relative to consumption.
 - It reflects the actual price changes in the goods and services that the economy produces. If capital goods prices fall while consumer prices rise, the GDP deflator captures that mix accurately.
-- It is conceptually consistent with the GDP accounting framework. [Real GDP](/real-gdp) growth reflects how much more output the economy produced; the GDP deflator reflects how much prices rose.
+- It is conceptually consistent with the GDP accounting framework. [Real GDP](/real-gdp/) growth reflects how much more output the economy produced; the GDP deflator reflects how much prices rose.
 
 ## Inflation signals
 
-When the GDP deflator is rising faster than [real GDP](/real-gdp), [inflation](/inflation) is accelerating. When it rises slower, inflation is decelerating ([disinflation](/disinflation)). A declining GDP deflator signals [deflation](/deflation).
+When the GDP deflator is rising faster than [real GDP](/real-gdp/), [inflation](/inflation/) is accelerating. When it rises slower, inflation is decelerating ([disinflation](/disinflation/)). A declining GDP deflator signals [deflation](/deflation/).
 
-The [Federal Reserve](/federal-reserve) tracks the GDP deflator and its variants (the personal consumption expenditures deflator, [core inflation](/core-inflation) measures) when setting monetary policy. If the deflator is rising at 3% annually but the Fed's [inflation](/inflation) target is 2%, the central bank will likely tighten policy.
+The [Federal Reserve](/federal-reserve/) tracks the GDP deflator and its variants (the personal consumption expenditures deflator, [core inflation](/core-inflation/) measures) when setting monetary policy. If the deflator is rising at 3% annually but the Fed's [inflation](/inflation/) target is 2%, the central bank will likely tighten policy.
 
 ## Chained versus fixed-weight
 
@@ -91,18 +91,18 @@ This approach reduces the bias that arises from using fixed 2012 prices to value
 
 ### Closely related
 
-- [Real GDP](/real-gdp) — the inflation-adjusted output figure
-- [Nominal GDP](/nominal-gdp) — the current-price figure
-- [Gross Domestic Product](/gross-domestic-product) — the concept being deflated
-- [Consumer Price Index](/consumer-price-index) — alternative inflation measure
-- [Inflation](/inflation) — the phenomenon the deflator measures
+- [Real GDP](/real-gdp/) — the inflation-adjusted output figure
+- [Nominal GDP](/nominal-gdp/) — the current-price figure
+- [Gross Domestic Product](/gross-domestic-product/) — the concept being deflated
+- [Consumer Price Index](/consumer-price-index/) — alternative inflation measure
+- [Inflation](/inflation/) — the phenomenon the deflator measures
 
 ### Broader context
 
-- [Core inflation](/core-inflation) — stripping out volatile items
-- [Headline inflation](/headline-inflation) — all items included
+- [Core inflation](/core-inflation/) — stripping out volatile items
+- [Headline inflation](/headline-inflation/) — all items included
 - Price index — the class of measures to which the deflator belongs
 - Macroeconomics — uses of the deflator in policy and analysis
-- [Disinflation](/disinflation) — falling rate of inflation
+- [Disinflation](/disinflation/) — falling rate of inflation
 
 </div>

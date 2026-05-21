@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **cost of equity** is the minimum return that shareholders demand for holding a company's stock, given its riskiness. It is a crucial input to every equity valuation model and a key component of the [weighted average cost of capital](/weighted-average-cost-of-capital). Despite decades of academic work, estimating it remains more art than science.*
+*The **cost of equity** is the minimum return that shareholders demand for holding a company's stock, given its riskiness. It is a crucial input to every equity valuation model and a key component of the [weighted average cost of capital](/weighted-average-cost-of-capital/). Despite decades of academic work, estimating it remains more art than science.*
 
 ## What cost of equity represents
 
@@ -20,7 +20,7 @@ Cost of equity has two components: a baseline (the risk-free rate) and a risk pr
 
 ## The capital asset pricing model
 
-The CAPM is the most widely used method to estimate cost of equity. It states that cost of equity equals the risk-free rate plus the company's beta times the [market risk premium](/market-risk-premium).
+The CAPM is the most widely used method to estimate cost of equity. It states that cost of equity equals the risk-free rate plus the company's beta times the [market risk premium](/market-risk-premium/).
 
 Risk-free rate: The yield on a 10-year US Treasury, roughly 3–5% depending on economic conditions.
 
@@ -50,9 +50,9 @@ No consensus exists. Practitioner surveys show responses ranging from 4% to 7%. 
 
 **Build-up method.** Instead of using beta, add premiums: risk-free rate plus equity risk premium plus size premium (for small companies) plus company-specific risk. This is more transparent but requires estimating each premium independently.
 
-**Fama-French factors.** The [Fama-French three-factor model](/fama-french-three-factor-model) adds size and value premiums to market beta. The result is often a slightly different cost of equity than CAPM alone.
+**Fama-French factors.** The [Fama-French three-factor model](/fama-french-three-factor-model/) adds size and value premiums to market beta. The result is often a slightly different cost of equity than CAPM alone.
 
-**Dividend discount model implied return.** Work backward from the [Gordon growth model](/gordon-growth-model): current dividend, next-year growth assumption, current stock price. Solve for the discount rate. This is what the market is implicitly assuming.
+**Dividend discount model implied return.** Work backward from the [Gordon growth model](/gordon-growth-model/): current dividend, next-year growth assumption, current stock price. Solve for the discount rate. This is what the market is implicitly assuming.
 
 **Earnings yield approach.** For a mature company, use earnings divided by market cap, then add a growth expectation. If earnings yield is 5% and you expect 3% growth, cost of equity is roughly 8%. Less rigorous but sometimes useful.
 
@@ -86,26 +86,26 @@ Most valuations are most sensitive to cost of equity in the perpetuity calculati
 
 ### Closely related
 
-- [Capital asset pricing model](/capital-asset-pricing-model) — the standard estimation method
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — uses cost of equity
-- [Market risk premium](/market-risk-premium) — a key CAPM input
-- [Equity risk premium](/equity-risk-premium) — the market risk premium plus company-specific premium
-- [Beta](/beta) — a key CAPM input
+- [Capital asset pricing model](/capital-asset-pricing-model/) — the standard estimation method
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — uses cost of equity
+- [Market risk premium](/market-risk-premium/) — a key CAPM input
+- [Equity risk premium](/equity-risk-premium/) — the market risk premium plus company-specific premium
+- [Beta](/beta/) — a key CAPM input
 
 ### Alternative estimation methods
 
-- [Fama-French three-factor model](/fama-french-three-factor-model) — adds size and value factors
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive approach
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — adds size and value factors
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive approach
 
 ### Valuation frameworks using cost of equity
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent method
-- [Dividend discount model](/dividend-discount-model) — uses cost of equity as discount rate
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — uses cost of equity directly
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent method
+- [Dividend discount model](/dividend-discount-model/) — uses cost of equity as discount rate
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — uses cost of equity directly
 
 ### Testing and sensitivity
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — cost-of-equity sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — cost-of-equity sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across assumptions
 
 </div>

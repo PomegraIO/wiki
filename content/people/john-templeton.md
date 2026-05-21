@@ -48,7 +48,7 @@ He also pioneered global diversification, arguing that valuations varied dramati
 
 ## The Templeton Growth Fund record
 
-From 1954 to 1992, when Templeton retired, the Templeton Growth Fund compounded at roughly 13% per year, beating the [stock market](/stock-market) average significantly. This outperformance came while diversifying globally, which reduced volatility. The fund proved that global investing was not just philosophically interesting but also practically profitable.
+From 1954 to 1992, when Templeton retired, the Templeton Growth Fund compounded at roughly 13% per year, beating the [stock market](/stock-market/) average significantly. This outperformance came while diversifying globally, which reduced volatility. The fund proved that global investing was not just philosophically interesting but also practically profitable.
 
 ## The discipline and patience
 
@@ -80,17 +80,17 @@ He also demonstrated that mutual fund investing could beat the market if the man
 
 ### Closely related
 
-- [Benjamin Graham](/benjamin-graham) — The father of value investing
-- [Warren Buffett](/warren-buffett) — Another value investor
-- [George Soros](/george-soros) — A global investor with macro bent
-- [Jeremy Grantham](/jeremy-grantham) — A modern global allocator
+- [Benjamin Graham](/benjamin-graham/) — The father of value investing
+- [Warren Buffett](/warren-buffett/) — Another value investor
+- [George Soros](/george-soros/) — A global investor with macro bent
+- [Jeremy Grantham](/jeremy-grantham/) — A modern global allocator
 
 ### Wider context
 
-- [Value investing](/value-investing) — His discipline
+- [Value investing](/value-investing/) — His discipline
 - Global investing — His geographic focus
 - Contrarianism — His temperament
 - Emerging markets — Which he pioneered
-- [Mutual fund](/mutual-fund) — His vehicle
+- [Mutual fund](/mutual-fund/) — His vehicle
 
 </div>

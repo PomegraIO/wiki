@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation Fair Disclosure](/regulation-fd) (Reg FD), adopted in 2000, is an [SEC](/securities-and-exchange-commission) rule that requires companies to disclose material information to all investors at the same time. Before Reg FD, companies could brief select analysts or major shareholders before releasing information to the public, giving insiders a trading advantage. Reg FD closed this loophole by requiring simultaneous disclosure to the market.*
+*[Regulation Fair Disclosure](/regulation-fd/) (Reg FD), adopted in 2000, is an [SEC](/securities-and-exchange-commission/) rule that requires companies to disclose material information to all investors at the same time. Before Reg FD, companies could brief select analysts or major shareholders before releasing information to the public, giving insiders a trading advantage. Reg FD closed this loophole by requiring simultaneous disclosure to the market.*
 
 <div class="wiki-hatnote">
 
-Regulation FD applies to public company disclosure. [Rule 10b-5](/rule-10b-5) prohibits fraud in securities trading generally.
+Regulation FD applies to public company disclosure. [Rule 10b-5](/rule-10b-5/) prohibits fraud in securities trading generally.
 
 </div>
 
@@ -53,7 +53,7 @@ The rule's wording is precise: if the company intentionally discloses material i
 
 Material information is information that an investor would consider important in making an investment decision. Earnings, changes in strategy, litigation, debt defaults, executive departures — all are material. Mundane operational details are not material.
 
-Intentional disclosure is straightforward — the company meant to convey information. But there are gray areas. If a CEO casually mentions earnings in an interview with a reporter, is that intentional disclosure? Or if a company executive discusses strategy at a conference, have they disclosed? The [SEC](/securities-and-exchange-commission) has brought enforcement actions to clarify these boundaries.
+Intentional disclosure is straightforward — the company meant to convey information. But there are gray areas. If a CEO casually mentions earnings in an interview with a reporter, is that intentional disclosure? Or if a company executive discusses strategy at a conference, have they disclosed? The [SEC](/securities-and-exchange-commission/) has brought enforcement actions to clarify these boundaries.
 
 ## The scope: who is covered?
 
@@ -79,11 +79,11 @@ Reg FD also led to increased reliance on earnings calls. Companies host public e
 
 ### Closely related
 
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — Reg FD implements fairness principles
-- [Insider trading law](/insider-trading-law) — Reg FD complements insider trading rules
-- [Rule 10b-5](/rule-10b-5) — anti-fraud rule that Reg FD supports
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
-- [Public company](/public-company) — covered by Reg FD
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — Reg FD implements fairness principles
+- [Insider trading law](/insider-trading-law/) — Reg FD complements insider trading rules
+- [Rule 10b-5](/rule-10b-5/) — anti-fraud rule that Reg FD supports
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
+- [Public company](/public-company/) — covered by Reg FD
 
 ### Wider context
 

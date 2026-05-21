@@ -85,13 +85,13 @@ His work has not displaced traditional economics but has augmented it. Modern ec
 ### Closely related
 
 - Richard Thaler — A student who applied behavioral insights
-- [Robert Shiller](/robert-shiller) — Who applied behavioral insights to markets
+- [Robert Shiller](/robert-shiller/) — Who applied behavioral insights to markets
 
 ### Wider context
 
 - Behavioral economics — Which he founded
 - Cognitive bias — His focus
-- [Prospect theory](/prospect-theory) — His framework
-- [Stock market](/stock-market) — Where his insights apply
+- [Prospect theory](/prospect-theory/) — His framework
+- [Stock market](/stock-market/) — Where his insights apply
 
 </div>

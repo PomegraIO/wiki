@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Monte Carlo value-at-risk (Monte Carlo VaR) is a risk measurement method that simulates thousands or millions of possible future market scenarios using probabilistic models of price movements, correlations, and volatility. The [value-at-risk](/value-at-risk) is then calculated from the distribution of simulated portfolio losses.*
+*Monte Carlo value-at-risk (Monte Carlo VaR) is a risk measurement method that simulates thousands or millions of possible future market scenarios using probabilistic models of price movements, correlations, and volatility. The [value-at-risk](/value-at-risk/) is then calculated from the distribution of simulated portfolio losses.*
 
 <div class="wiki-hatnote">
 
-This entry covers Monte Carlo VaR calculation. For alternative VaR methods, see [parametric-var](/parametric-var) and [historical-var](/historical-var); for the general [value-at-risk](/value-at-risk) concept.
+This entry covers Monte Carlo VaR calculation. For alternative VaR methods, see [parametric-var](/parametric-var/) and [historical-var](/historical-var/); for the general [value-at-risk](/value-at-risk/) concept.
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers Monte Carlo VaR calculation. For alternative VaR methods, see 
 | **Accuracy** | As accurate as the underlying models; no distributional assumption errors |
 | **Scenario quality** | Depends entirely on the quality of price movement models |
 | **Use cases** | Complex portfolios, derivatives, non-linear instruments |
-| **Primary risk** | [Model-risk](/model-risk); simulated paths only as good as the model |
+| **Primary risk** | [Model-risk](/model-risk/); simulated paths only as good as the model |
 
 </aside>
 
@@ -55,7 +55,7 @@ Use a random number generator to create thousands (or millions) of possible futu
 For each simulated scenario, calculate the portfolio's value at the horizon (e.g., 10 days from now). Account for:
 - Changes in underlying asset prices.
 - Changes in correlations (if modeled).
-- Non-linear effects (e.g., [options](/option) become more or less in-the-money).
+- Non-linear effects (e.g., [options](/option/) become more or less in-the-money).
 
 **Step 4: Calculate loss distribution.**
 Sort the simulated portfolio values from best to worst. Calculate the loss in each scenario.
@@ -69,7 +69,7 @@ For 99% VaR, find the worst 1% of simulated scenarios and use the loss in the 99
 
 **Realism.** Can model fat tails, jumps in prices, volatility clustering, and correlation breakdowns — all empirically observed in markets.
 
-**No distributional assumption errors.** Unlike [parametric-var](/parametric-var), there is no assumption that returns are normal. The distribution emerges from the simulations.
+**No distributional assumption errors.** Unlike [parametric-var](/parametric-var/), there is no assumption that returns are normal. The distribution emerges from the simulations.
 
 **Non-linear instruments.** Options are non-linear; their value does not move linearly with the underlying. Monte Carlo naturally handles this.
 
@@ -85,7 +85,7 @@ For 99% VaR, find the worst 1% of simulated scenarios and use the loss in the 99
 
 **Scenario quality.** The simulated scenarios are only as realistic as the model. If the model does not capture fat tails, the simulated worst scenarios will not either.
 
-**Black swan blindness.** Monte Carlo simulates based on historical patterns. A new type of tail event (a [black swan](/black-swan)) will not appear in simulations.
+**Black swan blindness.** Monte Carlo simulates based on historical patterns. A new type of tail event (a [black swan](/black-swan/)) will not appear in simulations.
 
 ## Example: Monte Carlo VaR for a stock portfolio
 
@@ -109,18 +109,18 @@ Suppose the 1,000th worst scenario resulted in a loss of $3.5M.
 
 ## When Monte Carlo VaR is essential
 
-- **Options portfolios.** [Options](/option) are non-linear; Monte Carlo handles this naturally.
-- **Complex instruments.** Structured products, exotics, callable [bonds](/bond) — anything with embedded optionality.
+- **Options portfolios.** [Options](/option/) are non-linear; Monte Carlo handles this naturally.
+- **Complex instruments.** Structured products, exotics, callable [bonds](/bond/) — anything with embedded optionality.
 - **Multiple risk factors.** When interest rates, FX, volatility, and credit spreads all matter and are correlated.
 - **Stress scenarios.** You can run the simulation under "what if" conditions (e.g., 10% stock decline) to see portfolio impact.
 
 ## Model risk in Monte Carlo VaR
 
-The greatest risk in Monte Carlo VaR is [model-risk](/model-risk): the model for price movements is wrong.
+The greatest risk in Monte Carlo VaR is [model-risk](/model-risk/): the model for price movements is wrong.
 
 Example: A model assumes stock prices follow a geometric Brownian motion (continuous, no jumps). In reality, prices can jump sharply on earnings announcements or crises. The model's simulated scenarios do not include jumps, so Monte Carlo VaR underestimates tail risk.
 
-This is why sophisticated risk managers pair Monte Carlo with [stress-testing](/stress-testing) and [scenario-analysis](/scenario-analysis). Monte Carlo gives a baseline; scenarios test extremes the model might miss.
+This is why sophisticated risk managers pair Monte Carlo with [stress-testing](/stress-testing/) and [scenario-analysis](/scenario-analysis/). Monte Carlo gives a baseline; scenarios test extremes the model might miss.
 
 ## Practical use
 
@@ -132,8 +132,8 @@ Large banks and hedge funds use Monte Carlo VaR extensively because:
 But they also:
 - Validate the underlying models rigorously.
 - Backtest to ensure actual losses do not exceed predictions.
-- Supplement with [stress-testing](/stress-testing) and [expected-shortfall](/expected-shortfall).
-- Use multiple methods ([parametric](/parametric-var), [historical](/historical-var), Monte Carlo) to cross-check.
+- Supplement with [stress-testing](/stress-testing/) and [expected-shortfall](/expected-shortfall/).
+- Use multiple methods ([parametric](/parametric-var/), [historical](/historical-var/), Monte Carlo) to cross-check.
 
 ## See also
 
@@ -141,18 +141,18 @@ But they also:
 
 ### Closely related
 
-- [Value-at-risk](/value-at-risk) — the VaR concept itself
-- [Parametric-var](/parametric-var) — simpler, faster, less flexible
-- [Historical-var](/historical-var) — empirical, no distributional assumption
-- [Expected-shortfall](/expected-shortfall) — tail loss average
-- [Model-risk](/model-risk) — primary risk in Monte Carlo VaR
+- [Value-at-risk](/value-at-risk/) — the VaR concept itself
+- [Parametric-var](/parametric-var/) — simpler, faster, less flexible
+- [Historical-var](/historical-var/) — empirical, no distributional assumption
+- [Expected-shortfall](/expected-shortfall/) — tail loss average
+- [Model-risk](/model-risk/) — primary risk in Monte Carlo VaR
 
 ### Application areas
 
-- [Option](/option) — most important use of Monte Carlo VaR
-- [Derivative](/option) — complex derivatives require Monte Carlo
-- [Stress-testing](/stress-testing) — complements Monte Carlo
-- [Scenario-analysis](/scenario-analysis) — explicit scenarios complement simulations
-- [Basel capital](/capital-adequacy) — allows Monte Carlo as approved method
+- [Option](/option/) — most important use of Monte Carlo VaR
+- [Derivative](/option/) — complex derivatives require Monte Carlo
+- [Stress-testing](/stress-testing/) — complements Monte Carlo
+- [Scenario-analysis](/scenario-analysis/) — explicit scenarios complement simulations
+- [Basel capital](/capital-adequacy/) — allows Monte Carlo as approved method
 
 </div>

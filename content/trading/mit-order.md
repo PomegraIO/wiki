@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*An **MIT order** (market-if-touched) is a conditional order that becomes a [market order](/market-order) once a trigger price is reached. Unlike a [stop order](/stop-order) (which is also price-triggered), an MIT order is typically used to *enter* a position on a pullback in an uptrend, rather than to exit on a breakdown. Once triggered, it executes at the market, with no price protection.*
+*An **MIT order** (market-if-touched) is a conditional order that becomes a [market order](/market-order/) once a trigger price is reached. Unlike a [stop order](/stop-order/) (which is also price-triggered), an MIT order is typically used to *enter* a position on a pullback in an uptrend, rather than to exit on a breakdown. Once triggered, it executes at the market, with no price protection.*
 
 <div class="wiki-hatnote">
 
-For price protection when triggered, see [stop-limit order](/stop-limit-order). For automatic reversal in the opposite direction, see [stop order](/stop-order).
+For price protection when triggered, see [stop-limit order](/stop-limit-order/). For automatic reversal in the opposite direction, see [stop order](/stop-order/).
 
 </div>
 
@@ -39,7 +39,7 @@ For price protection when triggered, see [stop-limit order](/stop-limit-order). 
 
 ## MIT vs. stop order: the subtle difference
 
-An MIT order and a [stop order](/stop-order) sound similar — both trigger when price touches a level — but they differ in typical use and psychology.
+An MIT order and a [stop order](/stop-order/) sound similar — both trigger when price touches a level — but they differ in typical use and psychology.
 
 **Stop order:** Typical use is protective. You own a stock at $100 and place a stop at $95 to cut losses. If the stock falls to $95, the stop is triggered and you sell (exit) at a market price.
 
@@ -51,21 +51,21 @@ In both cases, the order triggers and becomes a market order. The difference is 
 
 1. **Dormant phase.** You place an MIT order to buy 100 shares at $98 (trigger) while the stock is trading at $100.
 2. **Trigger phase.** The stock falls to $98 and the MIT is triggered.
-3. **Execution phase.** The order immediately becomes a [market order](/market-order) to buy 100 at the best available price (currently around $98, but could be lower if the stock is still falling).
+3. **Execution phase.** The order immediately becomes a [market order](/market-order/) to buy 100 at the best available price (currently around $98, but could be lower if the stock is still falling).
 
 The execution happens almost instantly — there is no delay between trigger and market execution.
 
 ## MIT orders and liquidity
 
-Because an MIT becomes a market order after trigger, execution is nearly guaranteed (unlike a [limit order](/limit-order) that might never fill). This is the upside. The downside is that in a fast market, the price at execution could be far from your trigger price.
+Because an MIT becomes a market order after trigger, execution is nearly guaranteed (unlike a [limit order](/limit-order/) that might never fill). This is the upside. The downside is that in a fast market, the price at execution could be far from your trigger price.
 
 **Example:** The stock triggers your MIT at $98. By the time the market order executes, the price has fallen to $97.50. You buy at $97.50, not $98.
 
-This is the opposite of the [stop order](/stop-order) risk, where you might expect a fill at $95 but get $85 instead.
+This is the opposite of the [stop order](/stop-order/) risk, where you might expect a fill at $95 but get $85 instead.
 
 ## MIT orders in breakout vs. pullback strategies
 
-**Breakout traders** might use a MIT (or more commonly, a [stop order](/stop-order)) to buy on a breakout above resistance. "If it breaks $105, buy at the market."
+**Breakout traders** might use a MIT (or more commonly, a [stop order](/stop-order/)) to buy on a breakout above resistance. "If it breaks $105, buy at the market."
 
 **Pullback traders** might use an MIT to buy dips in an uptrend. "If it pulls back to $98, buy at the market."
 
@@ -74,7 +74,7 @@ Both work the same way mechanically; the strategy logic is different.
 ## MIT orders with limit orders: a hybrid
 
 Some traders use both. For example:
-- Place a [limit order](/limit-order) to buy at $98.
+- Place a [limit order](/limit-order/) to buy at $98.
 - Place an MIT to buy at $98 as well.
 
 If the limit order does not fill (price bounces before reaching $98), the MIT never triggers. If the limit order fills, you are bought. But if the price falls past $98 without ever trading exactly at $98 (a gap), the limit will not fill, but the MIT will trigger and you will buy at the market at the lower price.
@@ -89,13 +89,13 @@ This hybrid covers both cases: patient entry (limit) plus panic entry (MIT) on a
 
 ## MIT orders with poor broker support
 
-Not all brokers explicitly label or support an MIT order. Some treat an MIT as a variant of a [stop order](/stop-order) and call it a "buy stop" (as opposed to a "sell stop"). The logic is the same; the terminology is just different.
+Not all brokers explicitly label or support an MIT order. Some treat an MIT as a variant of a [stop order](/stop-order/) and call it a "buy stop" (as opposed to a "sell stop"). The logic is the same; the terminology is just different.
 
-If your broker does not support MIT, you can often achieve the same result with a [stop order](/stop-order) configured for an entry (buy stop at a level above the current price, or sell stop at a level below) rather than an exit.
+If your broker does not support MIT, you can often achieve the same result with a [stop order](/stop-order/) configured for an entry (buy stop at a level above the current price, or sell stop at a level below) rather than an exit.
 
 ## MIT vs. stop-limit
 
-An MIT becomes a market order after trigger; a [stop-limit order](/stop-limit-order) becomes a limit order. The MIT is more certain to execute; the stop-limit protects price but risks not filling.
+An MIT becomes a market order after trigger; a [stop-limit order](/stop-limit-order/) becomes a limit order. The MIT is more certain to execute; the stop-limit protects price but risks not filling.
 
 | Order type | Trigger | After trigger | Execution risk | Price risk |
 |---|---|---|---|---|
@@ -110,21 +110,21 @@ Choose MIT when execution is critical. Choose stop-limit when price protection i
 
 ### Closely related
 
-- [Stop order](/stop-order) — very similar; typically used for exits
-- [Market order](/market-order) — what MIT becomes after trigger
-- [Stop-limit order](/stop-limit-order) — adds price protection to a triggered order
-- [Limit order](/limit-order) — an alternative entry mechanism
+- [Stop order](/stop-order/) — very similar; typically used for exits
+- [Market order](/market-order/) — what MIT becomes after trigger
+- [Stop-limit order](/stop-limit-order/) — adds price protection to a triggered order
+- [Limit order](/limit-order/) — an alternative entry mechanism
 
 ### Order types and variants
 
-- [Trailing stop order](/trailing-stop-order) — dynamic trigger level
-- [One-cancels-other](/oco-order) — two mutually exclusive orders
-- [One-triggers-other](/oto-order) — sequential orders
+- [Trailing stop order](/trailing-stop-order/) — dynamic trigger level
+- [One-cancels-other](/oco-order/) — two mutually exclusive orders
+- [One-triggers-other](/oto-order/) — sequential orders
 
 ### Context and strategy
 
 - Position management — entering on confirmation
 - Technical analysis — support and resistance levels
-- [Breakout trading](/breakout-trading) — confirming moves past key levels
+- [Breakout trading](/breakout-trading/) — confirming moves past key levels
 
 </div>

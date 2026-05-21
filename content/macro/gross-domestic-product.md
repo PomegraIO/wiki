@@ -14,7 +14,7 @@ image: "/svg/macro.svg"
 
 <div class="wiki-hatnote">
 
-GDP is reported in three variants: [nominal GDP](/nominal-gdp), which uses current prices; [real GDP](/real-gdp), which adjusts for inflation; and [GDP per capita](/gdp-per-capita), which divides total output by population.
+GDP is reported in three variants: [nominal GDP](/nominal-gdp/), which uses current prices; [real GDP](/real-gdp/), which adjusts for inflation; and [GDP per capita](/gdp-per-capita/), which divides total output by population.
 
 </div>
 
@@ -45,7 +45,7 @@ GDP is reported in three variants: [nominal GDP](/nominal-gdp), which uses curre
 GDP is most often calculated as the sum of four spending streams. If you spend or invest money on a good or service, that spending becomes part of GDP:
 
 - **Consumption (C)** — household spending on goods and services. By far the largest component in developed economies, typically 60–70% of total GDP.
-- **Investment (I)** — business spending on machinery, buildings, and inventory, plus household spending on housing. This is what drives [productivity](/productivity) and capital deepening.
+- **Investment (I)** — business spending on machinery, buildings, and inventory, plus household spending on housing. This is what drives [productivity](/productivity/) and capital deepening.
 - **Government spending (G)** — purchases of goods and services, wages for public employees, and transfers like Social Security. It does *not* include debt service or transfers.
 - **Net exports (X − M)** — exports minus imports. A positive number means the country is a net exporter; a negative number means a trade deficit.
 
@@ -65,9 +65,9 @@ This approach yields the same GDP figure as the expenditure method if measured c
 
 ## Real versus nominal
 
-[Nominal GDP](/nominal-gdp) measures output in current dollars and inflates every time prices rise. [Real GDP](/real-gdp) strips out inflation by valuing all production at a constant base year's prices. Real GDP growth is what economists watch — it tells you whether the economy actually produced more stuff, not whether prices went up.
+[Nominal GDP](/nominal-gdp/) measures output in current dollars and inflates every time prices rise. [Real GDP](/real-gdp/) strips out inflation by valuing all production at a constant base year's prices. Real GDP growth is what economists watch — it tells you whether the economy actually produced more stuff, not whether prices went up.
 
-A country can report 5% nominal GDP growth that is really just 2% real growth plus 3% inflation. Real growth is what matters for living standards and [employment](/unemployment-rate).
+A country can report 5% nominal GDP growth that is really just 2% real growth plus 3% inflation. Real growth is what matters for living standards and [employment](/unemployment-rate/).
 
 ## Limitations of GDP
 
@@ -78,7 +78,7 @@ GDP is imperfect:
 - **It does not account for quality.** A cheaper smartphone with ten times the computing power than last year's model appears in GDP at a lower price, understating the true output improvement.
 - **Underground and illegal activity is missed.** Drug trafficking, theft, and tax evasion do not appear in national accounts, though they are real transactions.
 
-For all these reasons, economists often supplement GDP with happiness indices, human development indices, and measures of income distribution. But for economic growth and [business cycle](/business-cycle) analysis, real GDP remains the gold standard.
+For all these reasons, economists often supplement GDP with happiness indices, human development indices, and measures of income distribution. But for economic growth and [business cycle](/business-cycle/) analysis, real GDP remains the gold standard.
 
 ## Who reports GDP
 
@@ -88,11 +88,11 @@ Other countries' statistical agencies follow similar schedules. International co
 
 ## GDP and policy
 
-[Central banks](/central-bank) and governments use GDP growth to make major decisions:
+[Central banks](/central-bank/) and governments use GDP growth to make major decisions:
 
-- If real GDP is below [potential GDP](/potential-gdp) (the [output gap](/output-gap) is negative), the economy is operating below full capacity, [unemployment](/unemployment-rate) is likely elevated, and policymakers may ease monetary or fiscal policy.
-- If real GDP growth is accelerating and [inflation](/inflation) is rising, the [Federal Reserve](/federal-reserve) may raise [interest rates](/interest-rate) to cool demand.
-- Growth below 2% annually for two consecutive quarters is widely used as a rough rule of thumb for [recession](/recession), though the official NBER definition is more subtle.
+- If real GDP is below [potential GDP](/potential-gdp/) (the [output gap](/output-gap/) is negative), the economy is operating below full capacity, [unemployment](/unemployment-rate/) is likely elevated, and policymakers may ease monetary or fiscal policy.
+- If real GDP growth is accelerating and [inflation](/inflation/) is rising, the [Federal Reserve](/federal-reserve/) may raise [interest rates](/interest-rate/) to cool demand.
+- Growth below 2% annually for two consecutive quarters is widely used as a rough rule of thumb for [recession](/recession/), though the official NBER definition is more subtle.
 
 ## See also
 
@@ -100,20 +100,20 @@ Other countries' statistical agencies follow similar schedules. International co
 
 ### Closely related
 
-- [Real GDP](/real-gdp) — GDP adjusted for inflation
-- [Nominal GDP](/nominal-gdp) — GDP in current dollars
-- [GDP per capita](/gdp-per-capita) — output divided by population
-- [GDP deflator](/gdp-deflator) — the price index used to convert nominal to real GDP
-- [Potential GDP](/potential-gdp) — the sustainable level of output
-- [Output gap](/output-gap) — the difference between actual and potential GDP
-- [Gross National Product](/gross-national-product) — output by citizens, regardless of location
-- [Gross National Income](/gross-national-income) — GNP adjusted for terms of trade
+- [Real GDP](/real-gdp/) — GDP adjusted for inflation
+- [Nominal GDP](/nominal-gdp/) — GDP in current dollars
+- [GDP per capita](/gdp-per-capita/) — output divided by population
+- [GDP deflator](/gdp-deflator/) — the price index used to convert nominal to real GDP
+- [Potential GDP](/potential-gdp/) — the sustainable level of output
+- [Output gap](/output-gap/) — the difference between actual and potential GDP
+- [Gross National Product](/gross-national-product/) — output by citizens, regardless of location
+- [Gross National Income](/gross-national-income/) — GNP adjusted for terms of trade
 
 ### Broader context
 
 - Macroeconomics — the study of aggregate output and growth
-- [Productivity](/productivity) — output per hour of labour
-- [Recession](/recession) — a period of declining real GDP
-- [Business cycle](/business-cycle) — expansions and contractions
+- [Productivity](/productivity/) — output per hour of labour
+- [Recession](/recession/) — a period of declining real GDP
+- [Business cycle](/business-cycle/) — expansions and contractions
 
 </div>

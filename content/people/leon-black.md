@@ -85,9 +85,9 @@ His influence on credit investing and alternative asset management has been subs
 
 ### Closely related
 
-- [Stephen Schwarzman](/stephen-schwarzman) — Blackstone founder
-- [Henry Kravis](/henry-kravis) — KKR founder
-- [David Tepper](/david-tepper) — Another distressed debt specialist
+- [Stephen Schwarzman](/stephen-schwarzman/) — Blackstone founder
+- [Henry Kravis](/henry-kravis/) — KKR founder
+- [David Tepper](/david-tepper/) — Another distressed debt specialist
 
 ### Wider context
 

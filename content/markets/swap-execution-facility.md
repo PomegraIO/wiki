@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*A **Swap Execution Facility (SEF)** is a regulated trading venue where certain standardized [derivatives](/option), particularly interest-rate swaps and credit default swaps, must be executed under US law. SEFs were mandated by the Dodd-Frank Act (2010) to bring transparency and centralized clearing to the [derivatives](/option) market, which had been opaque and conducted over-the-counter. Major SEFs include Bloomberg SEF, Tradeweb, and others.*
+*A **Swap Execution Facility (SEF)** is a regulated trading venue where certain standardized [derivatives](/option/), particularly interest-rate swaps and credit default swaps, must be executed under US law. SEFs were mandated by the Dodd-Frank Act (2010) to bring transparency and centralized clearing to the [derivatives](/option/) market, which had been opaque and conducted over-the-counter. Major SEFs include Bloomberg SEF, Tradeweb, and others.*
 
 <div class="wiki-hatnote">
 
-This entry is about regulated derivatives venues. For international equivalents, see [organized trading facility](/organized-trading-facility); for the broader context, see [derivatives](/option).
+This entry is about regulated derivatives venues. For international equivalents, see [organized trading facility](/organized-trading-facility/); for the broader context, see [derivatives](/option/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry is about regulated derivatives venues. For international equivalents,
 
 ## The pre-SEF derivatives market
 
-Before the 2008 financial crisis, most [derivatives](/option) trading (swaps, credit derivatives, options) was conducted over-the-counter: bilateral deals between a bank and its customer or between two banks. The market was:
+Before the 2008 financial crisis, most [derivatives](/option/) trading (swaps, credit derivatives, options) was conducted over-the-counter: bilateral deals between a bank and its customer or between two banks. The market was:
 
 - **Opaque.** Prices were not disclosed; transactions were often kept private.
 - **Concentrated.** A handful of large dealers (JP Morgan, Goldman Sachs, Citibank) dominated.
@@ -51,12 +51,12 @@ Before the 2008 financial crisis, most [derivatives](/option) trading (swaps, cr
 
 ## Dodd-Frank and SEF creation
 
-The 2008 financial crisis revealed systemic risks in OTC [derivatives](/option) markets. A major dealer's failure threatened the entire system because derivatives obligations were opaque and concentrated.
+The 2008 financial crisis revealed systemic risks in OTC [derivatives](/option/) markets. A major dealer's failure threatened the entire system because derivatives obligations were opaque and concentrated.
 
 The Dodd-Frank Act (2010) mandated that:
 
-1. Standardized [derivatives](/option) must trade on a **regulated venue (SEF)**.
-2. Standardized [derivatives](/option) must **clear through a central clearinghouse**.
+1. Standardized [derivatives](/option/) must trade on a **regulated venue (SEF)**.
+2. Standardized [derivatives](/option/) must **clear through a central clearinghouse**.
 3. **Pre- and post-trade data** must be **reported** to trade repositories.
 
 This created the modern SEF market.
@@ -74,7 +74,7 @@ Any derivative that deviates significantly from these standards remains eligible
 
 ## How SEFs work
 
-A SEF operates similarly to an [alternative trading system](/alternative-trading-system):
+A SEF operates similarly to an [alternative trading system](/alternative-trading-system/):
 
 1. **Pre-trade transparency.** SEFs display available bids and asks for listed instruments.
 2. **Order matching.** Orders are matched electronically (often at mid-market for standardized deals).
@@ -92,7 +92,7 @@ A SEF operates similarly to an [alternative trading system](/alternative-trading
 
 **Central clearing.** Bilateral counterparty risk is eliminated; a clearinghouse guarantees performance.
 
-**Market stability.** Regulators can monitor aggregate [derivatives](/option) exposure and interconnectedness.
+**Market stability.** Regulators can monitor aggregate [derivatives](/option/) exposure and interconnectedness.
 
 ## Challenges and limitations
 
@@ -100,7 +100,7 @@ A SEF operates similarly to an [alternative trading system](/alternative-trading
 
 **Trade-offs.** Central clearing imposes costs (margin, clearing fees); some dealers and clients resent this.
 
-**Regional variation.** US SEFs differ from international equivalents (e.g., [organized trading facilities](/organized-trading-facility) in EU), creating complexity for global traders.
+**Regional variation.** US SEFs differ from international equivalents (e.g., [organized trading facilities](/organized-trading-facility/) in EU), creating complexity for global traders.
 
 **Liquidity fragmentation.** Multiple SEFs operate; liquidity is fragmented across them.
 
@@ -108,7 +108,7 @@ A SEF operates similarly to an [alternative trading system](/alternative-trading
 
 **Bloomberg SEF.** The largest SEF, handling most interest-rate swap trading.
 
-**Tradeweb.** Major for [fixed-income](/bond) and [derivatives](/option) trading.
+**Tradeweb.** Major for [fixed-income](/bond/) and [derivatives](/option/) trading.
 
 **TP ICAP.** Major dealer-operated SEF.
 
@@ -121,7 +121,7 @@ Smaller SEFs also operate, serving niche markets or regional dealers.
 Some deals that could trade on a SEF remain OTC due to:
 
 - Dealers' resistance to transparent pricing.
-- Client preferences for [single-dealer platforms](/single-dealer-platform).
+- Client preferences for [single-dealer platforms](/single-dealer-platform/).
 - Regulatory classification ambiguities.
 
 Regulators continue to push for greater SEF migration.
@@ -130,8 +130,8 @@ Regulators continue to push for greater SEF migration.
 
 Other jurisdictions have similar venues:
 
-- **EU:** [Organized trading facilities (OTFs)](/organized-trading-facility) and [systematic internalisers](/organized-trading-facility) under [MiFID II](/mifid-ii-trading).
-- **Japan:** JSDA-registered venues for [derivatives](/option).
+- **EU:** [Organized trading facilities (OTFs)](/organized-trading-facility/) and [systematic internalisers](/organized-trading-facility/) under [MiFID II](/mifid-ii-trading/).
+- **Japan:** JSDA-registered venues for [derivatives](/option/).
 - **Hong Kong:** MOX (Mercantile Exchange of Hong Kong) and others.
 
 ## See also
@@ -140,18 +140,18 @@ Other jurisdictions have similar venues:
 
 ### Closely related
 
-- [Derivatives](/option) — what SEFs trade
-- [Over-the-counter market](/over-the-counter-market) — SEF alternative for non-standard derivatives
-- [Organized trading facility](/organized-trading-facility) — EU equivalent
-- [Clearing house](/option) — clears SEF trades
-- [Trade repository](/swap-execution-facility) — receives SEF trade data
+- [Derivatives](/option/) — what SEFs trade
+- [Over-the-counter market](/over-the-counter-market/) — SEF alternative for non-standard derivatives
+- [Organized trading facility](/organized-trading-facility/) — EU equivalent
+- [Clearing house](/option/) — clears SEF trades
+- [Trade repository](/swap-execution-facility/) — receives SEF trade data
 
 ### Wider context
 
-- [Financial regulation](/stock-market) — Dodd-Frank requirement
-- [Market structure](/stock-market) — SEFs reshape this
-- [Liquidity](/secondary-market) — enhanced by SEFs
-- [Transparency](/stock-market) — core SEF feature
-- [Interest rate](/interest-rate) — subject of most SEF trading
+- [Financial regulation](/stock-market/) — Dodd-Frank requirement
+- [Market structure](/stock-market/) — SEFs reshape this
+- [Liquidity](/secondary-market/) — enhanced by SEFs
+- [Transparency](/stock-market/) — core SEF feature
+- [Interest rate](/interest-rate/) — subject of most SEF trading
 
 </div>

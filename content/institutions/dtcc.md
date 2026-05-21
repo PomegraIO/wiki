@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **DTCC – Depository Trust & Clearing Corporation** is the largest clearinghouse and securities depository in the United States, operating as a private utility owned by its member institutions. DTCC processes trillions of dollars in [securities](/stock) transactions annually, provides central counterparty clearing for equities and fixed-income trading, and maintains custody of nearly all US-traded securities.*
+*The **DTCC – Depository Trust & Clearing Corporation** is the largest clearinghouse and securities depository in the United States, operating as a private utility owned by its member institutions. DTCC processes trillions of dollars in [securities](/stock/) transactions annually, provides central counterparty clearing for equities and fixed-income trading, and maintains custody of nearly all US-traded securities.*
 
 <div class="wiki-hatnote">
 
@@ -54,7 +54,7 @@ When you buy a stock through a broker, you don't receive a certificate. Instead,
 
 ## NSCC: clearing and settlement
 
-The National Securities Clearing Corporation (NSCC), another DTCC subsidiary, operates as the clearinghouse for equities and corporate bond transactions. When a trade occurs on the [NYSE](/new-york-stock-exchange) or other US exchange, NSCC becomes the counterparty and later reconciles and settles transactions.
+The National Securities Clearing Corporation (NSCC), another DTCC subsidiary, operates as the clearinghouse for equities and corporate bond transactions. When a trade occurs on the [NYSE](/new-york-stock-exchange/) or other US exchange, NSCC becomes the counterparty and later reconciles and settles transactions.
 
 NSCC operates on a T+1 settlement cycle (trades settle one business day after execution), recently accelerated from T+2. This acceleration reduces the time during which settlement risk exists.
 
@@ -85,17 +85,17 @@ DTCC's role as essential infrastructure has made it a focus of regulatory attent
 ### Closely related
 
 - Clearinghouse — central counterparty function
-- [Depository Trust Company](/depository-trust-company) — DTC subsidiary
-- [Options Clearing Corporation](/options-clearing-corporation) — equity options clearinghouse
+- [Depository Trust Company](/depository-trust-company/) — DTC subsidiary
+- [Options Clearing Corporation](/options-clearing-corporation/) — equity options clearinghouse
 - Settlement — the process DTCC manages
 - Depository — custody function
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — settlement happens post-trade
-- [Broker](/broker) — participants using DTCC
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Stock exchange](/stock-exchange/) — settlement happens post-trade
+- [Broker](/broker/) — participants using DTCC
+- [Central bank](/central-bank/) — Federal Reserve oversight
 - Risk management — collateral and netting
-- [Counterparty risk](/counterparty-risk) — what DTCC eliminates
+- [Counterparty risk](/counterparty-risk/) — what DTCC eliminates
 
 </div>

@@ -1,0 +1,93 @@
+name: Build and Push Wiki Image
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL
+          sudo docker image prune --all --force
+          df -h
+        shell: bash
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          push: true
+          tags: |
+            ghcr.io/pomegraio/pomekube/wiki:${{ github.sha }}
+            ghcr.io/pomegraio/pomekube/wiki:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
+          sudo chmod +x /usr/bin/yq
+        shell: bash
+
+      - name: Clone Pomekube repository
+        run: |
+          git clone https://x-access-token:${{ secrets.POMEKUBE_ACCESS_TOKEN }}@github.com/PomegraIO/Pomekube.git pomekube
+        shell: bash
+
+      - name: Update apps.yaml revision
+        run: |
+          echo "Updating wiki revision in pomekube/pomegra-apps/apps.yaml to ${{ github.sha }}"
+          yq e '.apps.wiki.revision = "${{ github.sha }}"' -i pomekube/pomegra-apps/apps.yaml
+        shell: bash
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        shell: bash
+
+      - name: Commit and push changes to Pomekube
+        run: |
+          cd pomekube/pomegra-apps
+          if git diff --quiet apps.yaml; then
+            echo "No actual changes detected in apps.yaml."
+          else
+            echo "Changes detected in apps.yaml. Committing..."
+            git add apps.yaml
+            git commit -m "Update wiki revision to ${{ github.sha }} [skip ci]"
+            for attempt in 1 2 3; do
+              git pull origin main --rebase
+              if git push origin HEAD:main; then
+                echo "Push successful on attempt $attempt."
+                break
+              else
+                echo "Push failed on attempt $attempt. Retrying in 5 seconds..."
+                sleep 5
+              fi
+              if [ $attempt -eq 3 ]; then
+                echo "Push failed after 3 attempts."
+                exit 1
+              fi
+            done
+          fi
+        shell: bash

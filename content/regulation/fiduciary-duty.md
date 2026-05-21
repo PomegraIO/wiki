@@ -14,7 +14,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-Fiduciary duty applies to advisers, trustees, and some brokers. [Suitability standard](/regulation-best-interest) is a lower standard that applies to brokers. [Regulation Best Interest](/regulation-best-interest) raised broker standards toward fiduciary-like duties.
+Fiduciary duty applies to advisers, trustees, and some brokers. [Suitability standard](/regulation-best-interest/) is a lower standard that applies to brokers. [Regulation Best Interest](/regulation-best-interest/) raised broker standards toward fiduciary-like duties.
 
 </div>
 
@@ -32,7 +32,7 @@ Fiduciary duty applies to advisers, trustees, and some brokers. [Suitability sta
 | **Who owes it** | Investment advisers, trustees, attorneys, certain brokers |
 | **Primary elements** | Loyalty (no self-dealing), care (competent management), disclosure (full transparency) |
 | **Breach remedies** | Damages, disgorgement of profits, removal from office |
-| **Source** | Common law, statutes ([Investment Advisers Act](/investment-advisers-act-of-1940)), contracts |
+| **Source** | Common law, statutes ([Investment Advisers Act](/investment-advisers-act-of-1940/)), contracts |
 
 </aside>
 
@@ -68,7 +68,7 @@ The scope of disclosure can be contentious. How detailed must a conflict disclos
 
 ## Investment Advisers Act and fiduciary duty
 
-The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) imposes a statutory fiduciary duty on registered investment advisers. Section 206 makes it unlawful for an adviser to:
+The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) imposes a statutory fiduciary duty on registered investment advisers. Section 206 makes it unlawful for an adviser to:
 
 - Engage in deceptive practices
 - Act without disclosure of material conflicts
@@ -80,7 +80,7 @@ Breach of Section 206 is the basis for SEC enforcement and private lawsuits by d
 
 Historically, investment advisers owed fiduciary duties while brokers only owed a "suitability" standard. This created perverse incentives — a broker could recommend higher-fee investments that were merely suitable (appropriate for the customer) rather than best. An adviser had to recommend the best option.
 
-[Regulation Best Interest](/regulation-best-interest), adopted in 2020, raised broker standards closer to fiduciary. However, brokers still do not owe a full fiduciary duty in all contexts. The distinction matters for litigation — an investor suing a fiduciary for breach has broader remedies than an investor suing a broker for breach of suitability.
+[Regulation Best Interest](/regulation-best-interest/), adopted in 2020, raised broker standards closer to fiduciary. However, brokers still do not owe a full fiduciary duty in all contexts. The distinction matters for litigation — an investor suing a fiduciary for breach has broader remedies than an investor suing a broker for breach of suitability.
 
 ## Trustee fiduciary duty
 
@@ -103,9 +103,9 @@ If a fiduciary breaches its duty, remedies include:
 
 ### Closely related
 
-- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) — imposes fiduciary duty on advisers
-- [Regulation Best Interest](/regulation-best-interest) — raises broker standard
-- [Suitability standard](/regulation-best-interest) — lower standard for brokers
+- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) — imposes fiduciary duty on advisers
+- [Regulation Best Interest](/regulation-best-interest/) — raises broker standard
+- [Suitability standard](/regulation-best-interest/) — lower standard for brokers
 - Conflict of interest — central to fiduciary analysis
 - Trust — relationship generating fiduciary duties
 

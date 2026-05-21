@@ -10,7 +10,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*Janet Yellen led the Federal Reserve with an emphasis on the employment side of the mandate, maintaining low [interest rates](/interest-rate) and accommodative policy to support job growth — a philosophy that provided stimulus but also contributed to inflation.*
+*Janet Yellen led the Federal Reserve with an emphasis on the employment side of the mandate, maintaining low [interest rates](/interest-rate/) and accommodative policy to support job growth — a philosophy that provided stimulus but also contributed to inflation.*
 
 <aside class="wiki-infobox">
 
@@ -41,13 +41,13 @@ She had served as President of the Federal Reserve Bank of San Francisco and as 
 
 ## The chairmanship and accommodation
 
-When Yellen became Fed chair in 2014, she inherited an economy recovering from the financial crisis but still below full employment. She maintained the accommodative policy Bernanke had established, keeping [interest rates](/interest-rate) near zero and continuing to hold a large balance sheet of government and mortgage bonds.
+When Yellen became Fed chair in 2014, she inherited an economy recovering from the financial crisis but still below full employment. She maintained the accommodative policy Bernanke had established, keeping [interest rates](/interest-rate/) near zero and continuing to hold a large balance sheet of government and mortgage bonds.
 
 Her philosophy was that the economy could handle more stimulus without triggering inflation. She believed the labor market could achieve lower unemployment without wage-price spirals.
 
 ## The rate hike cycle and communication
 
-Yellen gradually raised [interest rates](/interest-rate) from 2015 onward, bringing them to roughly 2.5% by 2018. Yet this rate-hiking cycle was very slow compared to historical norms, reflecting her accommodation bias.
+Yellen gradually raised [interest rates](/interest-rate/) from 2015 onward, bringing them to roughly 2.5% by 2018. Yet this rate-hiking cycle was very slow compared to historical norms, reflecting her accommodation bias.
 
 She also emphasized transparency and forward guidance, trying to communicate the Fed's likely future path to markets. This transparency was meant to reduce uncertainty and allow markets to adjust gradually.
 
@@ -81,14 +81,14 @@ Her role in the pandemic response — both as outgoing Fed chair and as Treasury
 
 ### Closely related
 
-- [Ben Bernanke](/ben-bernanke) — Her predecessor at the Fed
-- [Jerome Powell](/jerome-powell) — Her successor at the Fed
+- [Ben Bernanke](/ben-bernanke/) — Her predecessor at the Fed
+- [Jerome Powell](/jerome-powell/) — Her successor at the Fed
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — Which she led
+- [Federal Reserve](/federal-reserve/) — Which she led
 - Treasury Department — Which she now leads
-- [Monetary policy](/monetary-policy) — Her domain
-- [Inflation](/inflation) — Her challenge
+- [Monetary policy](/monetary-policy/) — Her domain
+- [Inflation](/inflation/) — Her challenge
 
 </div>

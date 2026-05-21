@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **par value** — also called **face value** or **principal** — is the amount that a bond issuer promises to repay when the bond matures. For example, a bond with a $1,000 par value will repay $1,000 on the maturity date. The [coupon](/coupon-rate) payment is calculated as a percentage of par value. A bond with a 5% coupon and $1,000 par value pays $50 annually.*
+*The **par value** — also called **face value** or **principal** — is the amount that a bond issuer promises to repay when the bond matures. For example, a bond with a $1,000 par value will repay $1,000 on the maturity date. The [coupon](/coupon-rate/) payment is calculated as a percentage of par value. A bond with a 5% coupon and $1,000 par value pays $50 annually.*
 
 <div class="wiki-hatnote">
 
-For the price at which bonds trade, see [yield to maturity](/yield-to-maturity). For the coupon based on par, see [coupon rate](/coupon-rate). For bonds traded at discount or premium, see [zero-coupon bond](/zero-coupon-bond).
+For the price at which bonds trade, see [yield to maturity](/yield-to-maturity/). For the coupon based on par, see [coupon rate](/coupon-rate/). For bonds traded at discount or premium, see [zero-coupon bond](/zero-coupon-bond/).
 
 </div>
 
@@ -48,7 +48,7 @@ When the bond matures, the issuer repays the par value ($1,000 or $5,000 in the 
 
 ## Market price vs. par value
 
-A bond's market price is determined by [supply and demand](/stock-exchange), not by its par value. When interest rates change, bond prices move inversely:
+A bond's market price is determined by [supply and demand](/stock-exchange/), not by its par value. When interest rates change, bond prices move inversely:
 
 - **Rates rise** → bond prices fall (below par, a "discount")
 - **Rates fall** → bond prices rise (above par, a "premium")
@@ -59,21 +59,21 @@ The bondholder will receive par value ($1,000) at maturity, but the market value
 
 ## Par vs. premium vs. discount
 
-- **Par bond** — Trading at exactly par ($1,000). [Coupon](/coupon-rate) rate equals [yield to maturity](/yield-to-maturity).
-- **Premium bond** — Trading above par ($1,050). Price > par. [Coupon](/coupon-rate) rate > [yield to maturity](/yield-to-maturity).
-- **Discount bond** — Trading below par ($950). Price < par. [Coupon](/coupon-rate) rate < [yield to maturity](/yield-to-maturity).
+- **Par bond** — Trading at exactly par ($1,000). [Coupon](/coupon-rate/) rate equals [yield to maturity](/yield-to-maturity/).
+- **Premium bond** — Trading above par ($1,050). Price > par. [Coupon](/coupon-rate/) rate > [yield to maturity](/yield-to-maturity/).
+- **Discount bond** — Trading below par ($950). Price < par. [Coupon](/coupon-rate/) rate < [yield to maturity](/yield-to-maturity/).
 
 Over time, a premium bond's price converges to par (as maturity approaches). An investor holding a premium bond experiences capital loss as the price declines toward par. Conversely, a discount bond's price converges upward to par, providing capital gain.
 
 ## Denominations
 
-Most corporate and government bonds have par values of $1,000. Some institutional bonds have par values of $5,000 or $10,000. [Municipal bonds](/municipal-bond) often have par values of $5,000.
+Most corporate and government bonds have par values of $1,000. Some institutional bonds have par values of $5,000 or $10,000. [Municipal bonds](/municipal-bond/) often have par values of $5,000.
 
-For [Treasury securities](/treasury-bill), par value is $100 (for Treasury bills) and $1,000 or higher for longer-dated securities.
+For [Treasury securities](/treasury-bill/), par value is $100 (for Treasury bills) and $1,000 or higher for longer-dated securities.
 
 ## Callable bonds and par
 
-Many [callable bonds](/callable-bond) are callable at par or slightly above (101–105). If a bond is callable at 101, the issuer can redeem at $1,010 per $1,000 par value.
+Many [callable bonds](/callable-bond/) are callable at par or slightly above (101–105). If a bond is callable at 101, the issuer can redeem at $1,010 per $1,000 par value.
 
 For investors, a callable bond trading above the call price faces call risk. If a bond is trading at $1,050 and the call price is $1,025, calling would limit the investor's upside.
 
@@ -93,9 +93,9 @@ A bond trading significantly below par often signals credit distress. A bond tra
 
 ## Par bonds and yield curves
 
-[Yield curve](/yield-curve) quotes often assume par bonds (bonds trading at par). The Treasury [yield curve](/yield-curve) is quoted in terms of par yields — the coupon a newly issued Treasury would need to trade at par given current market conditions.
+[Yield curve](/yield-curve/) quotes often assume par bonds (bonds trading at par). The Treasury [yield curve](/yield-curve/) is quoted in terms of par yields — the coupon a newly issued Treasury would need to trade at par given current market conditions.
 
-This convention makes [yield curve](/yield-curve) quotes directly comparable across maturities.
+This convention makes [yield curve](/yield-curve/) quotes directly comparable across maturities.
 
 ## Distinctions: par vs. principal vs. face value
 
@@ -113,18 +113,18 @@ These terms are used somewhat interchangeably, but par value is the most formal 
 
 ### Closely related
 
-- [Coupon rate](/coupon-rate) — calculated as percentage of par
-- [Yield to maturity](/yield-to-maturity) — discount rate equating price to par + coupons
-- [Current yield](/current-yield) — coupon divided by price, not par
-- [Bond](/bond) — debt securities with par values
-- [Callable bond](/callable-bond) — often callable at par
+- [Coupon rate](/coupon-rate/) — calculated as percentage of par
+- [Yield to maturity](/yield-to-maturity/) — discount rate equating price to par + coupons
+- [Current yield](/current-yield/) — coupon divided by price, not par
+- [Bond](/bond/) — debt securities with par values
+- [Callable bond](/callable-bond/) — often callable at par
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — affects whether bonds trade at par, premium, or discount
-- [Credit rating](/credit-rating) — affects likelihood of receiving par at maturity
-- [Accrued interest](/coupon-rate) — calculated as percentage of par
-- [Yield curve](/yield-curve) — quoted in terms of par yields
-- [Settlement](/stock-exchange) — bonds settle at dirty price (including accrued interest on par)
+- [Interest rate](/interest-rate/) — affects whether bonds trade at par, premium, or discount
+- [Credit rating](/credit-rating/) — affects likelihood of receiving par at maturity
+- [Accrued interest](/coupon-rate/) — calculated as percentage of par
+- [Yield curve](/yield-curve/) — quoted in terms of par yields
+- [Settlement](/stock-exchange/) — bonds settle at dirty price (including accrued interest on par)
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Section 13(d)](/section-13d) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) requires that any person acquiring 5% or more of a public company's stock must file a Schedule 13D with the [SEC](/securities-and-exchange-commission) within 10 calendar days. The filing discloses the acquirer's identity, the stake size, the source of funds, and the acquirer's plans (whether it intends to seek control, sell the stake, etc.). Section 13(d) flings are the starting point for identifying activist investors and potential acquisitions.*
+*[Section 13(d)](/section-13d/) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) requires that any person acquiring 5% or more of a public company's stock must file a Schedule 13D with the [SEC](/securities-and-exchange-commission/) within 10 calendar days. The filing discloses the acquirer's identity, the stake size, the source of funds, and the acquirer's plans (whether it intends to seek control, sell the stake, etc.). Section 13(d) flings are the starting point for identifying activist investors and potential acquisitions.*
 
 <div class="wiki-hatnote">
 
-Section 13(d) applies to voluntary acquisitions. Insiders already holding 5%+ file Form 4 (under Section 16). There is a parallel disclosure rule, [Section 13(g)](/section-13g), for passive investors.
+Section 13(d) applies to voluntary acquisitions. Insiders already holding 5%+ file Form 4 (under Section 16). There is a parallel disclosure rule, [Section 13(g)](/section-13g/), for passive investors.
 
 </div>
 
@@ -80,17 +80,17 @@ The cost of a proxy fight is high — the activist must wage a campaign to get s
 
 ### Closely related
 
-- [Section 13(g)](/section-13g) — passive investor disclosure
+- [Section 13(g)](/section-13g/) — passive investor disclosure
 - Schedule 13D — the form filed
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — Section 13(d)
-- [Beneficial ownership](/beneficial-ownership-reporting) — what the rule measures
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — Section 13(d)
+- [Beneficial ownership](/beneficial-ownership-reporting/) — what the rule measures
 - Activist investor — primary user of Section 13(d)
 
 ### Wider context
 
-- [Proxy fight](/proxy-fight) — often follows Section 13(d)
+- [Proxy fight](/proxy-fight/) — often follows Section 13(d)
 - Takeover — Section 13(d) can signal
-- [Public company](/public-company) — the target
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
+- [Public company](/public-company/) — the target
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
 
 </div>

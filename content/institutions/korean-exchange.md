@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Korea Exchange** (KRX) is South Korea's primary [stock exchange](/stock-exchange), headquartered in Seoul. Home to Samsung Electronics, Hyundai Motor, SK Hynix, and other global technology and manufacturing leaders, the KRX is a major venue for East Asian equities and serves as a window into South Korean industrial prowess and technological innovation.*
+*The **Korea Exchange** (KRX) is South Korea's primary [stock exchange](/stock-exchange/), headquartered in Seoul. Home to Samsung Electronics, Hyundai Motor, SK Hynix, and other global technology and manufacturing leaders, the KRX is a major venue for East Asian equities and serves as a window into South Korean industrial prowess and technological innovation.*
 
 <div class="wiki-hatnote">
 
@@ -66,7 +66,7 @@ The KOSPI is watched globally as a leading indicator of technology sector health
 
 ## Regional positioning
 
-The Korea Exchange operates in an East Asian timezone that overlaps with [Tokyo Stock Exchange](/tokyo-stock-exchange) and [Shanghai Stock Exchange](/shanghai-stock-exchange) trading hours. This positioning makes the KRX a natural venue for Asian investors and an important component of broader East Asian market integration.
+The Korea Exchange operates in an East Asian timezone that overlaps with [Tokyo Stock Exchange](/tokyo-stock-exchange/) and [Shanghai Stock Exchange](/shanghai-stock-exchange/) trading hours. This positioning makes the KRX a natural venue for Asian investors and an important component of broader East Asian market integration.
 
 South Korea's geographic position between China and Japan, and its technological leadership, give the KRX strategic importance for investors seeking East Asian diversification.
 
@@ -84,7 +84,7 @@ This multi-asset approach allows sophisticated trading and hedging strategies ac
 
 ## Global investor participation
 
-Global institutional investors, [index funds](/index-fund), and [hedge funds](/hedge-fund) hold significant positions in Korean equities, particularly in the large-cap technology stocks. The KRX is a standard component of Asian and emerging market [asset allocation](/asset-allocation) strategies.
+Global institutional investors, [index funds](/index-fund/), and [hedge funds](/hedge-fund/) hold significant positions in Korean equities, particularly in the large-cap technology stocks. The KRX is a standard component of Asian and emerging market [asset allocation](/asset-allocation/) strategies.
 
 ## See also
 
@@ -92,18 +92,18 @@ Global institutional investors, [index funds](/index-fund), and [hedge funds](/h
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — Japan's largest
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Stock exchange](/stock-exchange/) — the category
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — Japan's largest
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Hedge fund](/hedge-fund) — major traders
-- [Index fund](/index-fund) — KOSPI tracking products
+- [Asset allocation](/asset-allocation/) — positioning
+- [Hedge fund](/hedge-fund/) — major traders
+- [Index fund](/index-fund/) — KOSPI tracking products
 
 </div>

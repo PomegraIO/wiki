@@ -15,7 +15,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-The OCC regulates national banks. State banks are regulated by state banking regulators and the [Federal Reserve](/federal-reserve-regulation). For insurance of bank deposits, see [FDIC](/federal-deposit-insurance-corporation).
+The OCC regulates national banks. State banks are regulated by state banking regulators and the [Federal Reserve](/federal-reserve-regulation/). For insurance of bank deposits, see [FDIC](/federal-deposit-insurance-corporation/).
 
 </div>
 
@@ -41,7 +41,7 @@ The OCC regulates national banks. State banks are regulated by state banking reg
 
 ## The charter system and dual banking
 
-In the US, banks can be chartered at either the national or state level — this is called "dual banking." A national bank gets its charter from the OCC, takes "National" or "NA" in its name (e.g., JPMorgan Chase Bank, National Association), and is supervised primarily by the OCC. A state bank gets its charter from its state banking regulator, is subject to state laws, and is supervised by the state agency and (if it is insured by the FDIC) by the FDIC. The [Federal Reserve](/federal-reserve-regulation) also has some authority over state-chartered banks that are members of the Fed system.
+In the US, banks can be chartered at either the national or state level — this is called "dual banking." A national bank gets its charter from the OCC, takes "National" or "NA" in its name (e.g., JPMorgan Chase Bank, National Association), and is supervised primarily by the OCC. A state bank gets its charter from its state banking regulator, is subject to state laws, and is supervised by the state agency and (if it is insured by the FDIC) by the FDIC. The [Federal Reserve](/federal-reserve-regulation/) also has some authority over state-chartered banks that are members of the Fed system.
 
 This dual system has been the law since 1863. It was created to allow banks to choose between federal and state oversight — the theory being that competition between regulators would lead to better regulation. In practice, it has sometimes led to regulatory arbitrage: banks set up in whichever jurisdiction offers the most lenient rules.
 
@@ -71,17 +71,17 @@ The OCC faces criticism from both sides. Consumer advocates argue it is too leni
 
 ### Closely related
 
-- [Federal Reserve Regulation](/federal-reserve-regulation) — the Federal Reserve's supervisory authority
-- [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation) — insures deposits at OCC-regulated banks
-- [Basel III](/basel-iii) — international capital standards the OCC enforces
-- [Central bank](/central-bank) — the Federal Reserve is the US central bank
+- [Federal Reserve Regulation](/federal-reserve-regulation/) — the Federal Reserve's supervisory authority
+- [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) — insures deposits at OCC-regulated banks
+- [Basel III](/basel-iii/) — international capital standards the OCC enforces
+- [Central bank](/central-bank/) — the Federal Reserve is the US central bank
 - Prudential regulation — the OCC's core mandate
 
 ### Wider context
 
 - Bank — the regulated entity
-- [Interest rate](/interest-rate) — set by the Federal Reserve
+- [Interest rate](/interest-rate/) — set by the Federal Reserve
 - Credit — what banks provide
-- [Dodd-Frank Act](/dodd-frank-act) — expanded bank regulation post-2008
+- [Dodd-Frank Act](/dodd-frank-act/) — expanded bank regulation post-2008
 
 </div>

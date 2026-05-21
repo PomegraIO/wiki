@@ -10,11 +10,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*An **Ethereum Shanghai** (also called the "Shapella" upgrade) was a network upgrade deployed on 12 April 2023 that enabled staking withdrawals. Before Shanghai, [validators](/validator) who staked ETH could not withdraw or access their staking rewards. Shanghai completed the transition to [proof-of-stake](/proof-of-stake) by finally allowing withdrawal of staked funds.*
+*An **Ethereum Shanghai** (also called the "Shapella" upgrade) was a network upgrade deployed on 12 April 2023 that enabled staking withdrawals. Before Shanghai, [validators](/validator/) who staked ETH could not withdraw or access their staking rewards. Shanghai completed the transition to [proof-of-stake](/proof-of-stake/) by finally allowing withdrawal of staked funds.*
 
 <div class="wiki-hatnote">
 
-This entry covers Ethereum Shanghai as an upgrade. For Ethereum's broader history, see [Ethereum](/ethereum); for staking, see [staking](/staking); for liquid staking, see [liquid staking](/liquid-staking).
+This entry covers Ethereum Shanghai as an upgrade. For Ethereum's broader history, see [Ethereum](/ethereum/); for staking, see [staking](/staking/); for liquid staking, see [liquid staking](/liquid-staking/).
 
 </div>
 
@@ -34,13 +34,13 @@ This entry covers Ethereum Shanghai as an upgrade. For Ethereum's broader histor
 | **Impact** | Validators can now withdraw staked ETH |
 | **Withdrawal queue** | Validators can withdraw in batches every ~5 days |
 | **Prior state** | Staking rewards accumulated but could not be withdrawn |
-| **Following upgrade** | [Ethereum Dencun](/ethereum-dencun) (March 2024) |
+| **Following upgrade** | [Ethereum Dencun](/ethereum-dencun/) (March 2024) |
 
 </aside>
 
 ## The staking withdrawal problem
 
-When the [Beacon Chain](/ethereum-merge) launched in December 2020, users could stake ETH to become [validators](/validator). However, the protocol did not support withdrawals — staked ETH and earned rewards were locked indefinitely.
+When the [Beacon Chain](/ethereum-merge/) launched in December 2020, users could stake ETH to become [validators](/validator/). However, the protocol did not support withdrawals — staked ETH and earned rewards were locked indefinitely.
 
 This was intentional: during the testing phase of proof-of-stake, the Ethereum Foundation wanted to prevent mass exit if something went wrong. Once the mechanism was proven secure, withdrawals would be enabled.
 
@@ -65,7 +65,7 @@ Shanghai's deployment had immediate economic effects:
 
 ## Prior workarounds: liquid staking
 
-Before Shanghai, [liquid staking](/liquid-staking) services emerged as workarounds. These services:
+Before Shanghai, [liquid staking](/liquid-staking/) services emerged as workarounds. These services:
 
 1. Accepted ETH from users.
 2. Staked the ETH themselves.
@@ -84,22 +84,22 @@ Shanghai made liquid staking less necessary for basic withdrawal access, though 
 
 Shanghai introduced **EIP-4895**, which specifies how withdrawal credentials work. Validators can set an Ethereum address (called a withdrawal address) where their staking rewards and exited stake are sent.
 
-The Beacon Chain (the [proof-of-stake](/proof-of-stake) component) communicates with the execution layer (the smart contract layer) to process withdrawals.
+The Beacon Chain (the [proof-of-stake](/proof-of-stake/) component) communicates with the execution layer (the smart contract layer) to process withdrawals.
 
 ## Transition to full proof-of-stake
 
-Shanghai represented the final piece of [Ethereum](/ethereum)'s transition to [proof-of-stake](/proof-of-stake). With staking rewards now accessible, [proof-of-stake](/proof-of-stake) became a complete, functional system:
+Shanghai represented the final piece of [Ethereum](/ethereum/)'s transition to [proof-of-stake](/proof-of-stake/). With staking rewards now accessible, [proof-of-stake](/proof-of-stake/) became a complete, functional system:
 
-1. **[Ethereum Merge](/ethereum-merge)** (September 2022) — transition to PoS consensus.
+1. **[Ethereum Merge](/ethereum-merge/)** (September 2022) — transition to PoS consensus.
 2. **Ethereum Shanghai** (April 2023) — enable withdrawals, complete the transition.
-3. **[Ethereum Dencun](/ethereum-dencun)** (March 2024) — optimise for layer-2 scaling.
+3. **[Ethereum Dencun](/ethereum-dencun/)** (March 2024) — optimise for layer-2 scaling.
 
 ## Staking adoption post-Shanghai
 
-After Shanghai, [validator](/validator) participation increased:
+After Shanghai, [validator](/validator/) participation increased:
 
 - Staking yield became clear and accessible.
-- Services built on staking (e.g., [liquid staking](/liquid-staking) derivatives) matured.
+- Services built on staking (e.g., [liquid staking](/liquid-staking/) derivatives) matured.
 - Retail and institutional interest in staking grew.
 
 As of 2024, roughly 16–18 million ETH are staked (on the order of 40% of total supply), earning roughly 3–5% annual yield.
@@ -110,17 +110,17 @@ As of 2024, roughly 16–18 million ETH are staked (on the order of 40% of total
 
 ### Closely related
 
-- [Ethereum](/ethereum) — the network upgraded
-- [Ethereum Merge](/ethereum-merge) — prior upgrade enabling PoS
-- [Ethereum Dencun](/ethereum-dencun) — subsequent upgrade
-- [Proof-of-stake](/proof-of-stake) — the consensus mechanism
-- [Validator](/validator) — who can now withdraw
-- [Staking](/staking) — the mechanism enabled by Shanghai
-- [Liquid staking](/liquid-staking) — related staking service
+- [Ethereum](/ethereum/) — the network upgraded
+- [Ethereum Merge](/ethereum-merge/) — prior upgrade enabling PoS
+- [Ethereum Dencun](/ethereum-dencun/) — subsequent upgrade
+- [Proof-of-stake](/proof-of-stake/) — the consensus mechanism
+- [Validator](/validator/) — who can now withdraw
+- [Staking](/staking/) — the mechanism enabled by Shanghai
+- [Liquid staking](/liquid-staking/) — related staking service
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
 - Smart contract — the withdrawal mechanism is implemented here
 
 </div>

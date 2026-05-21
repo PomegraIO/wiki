@@ -79,16 +79,16 @@ His influence on the hedge fund industry has been to legitimize specialist funds
 
 ### Closely related
 
-- [Seth Klarman](/seth-klarman) — A value and distressed specialist
-- [Bill Ackman](/bill-ackman) — A hedge fund activist
-- [Howard Marks](/howard-marks) — A credit expert
-- [David Einhorn](/david-einhorn) — A value-focused short-seller
+- [Seth Klarman](/seth-klarman/) — A value and distressed specialist
+- [Bill Ackman](/bill-ackman/) — A hedge fund activist
+- [Howard Marks](/howard-marks/) — A credit expert
+- [David Einhorn](/david-einhorn/) — A value-focused short-seller
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Distressed debt — His specialty
-- [Credit spread](/credit-spread) — His metric
-- [Bear market](/bear-market) — His hunting ground
+- [Credit spread](/credit-spread/) — His metric
+- [Bear market](/bear-market/) — His hunting ground
 
 </div>

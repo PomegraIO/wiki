@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*An **acquisition** is a transaction in which one company (the acquirer or buyer) purchases the shares or assets of another company (the target or seller). Unlike a [merger](/merger), which combines the legal entities, an acquisition leaves the target either intact as a subsidiary or dissolves it into the acquirer's operations. Acquisitions are the legal foundation of most corporate combinations.*
+*An **acquisition** is a transaction in which one company (the acquirer or buyer) purchases the shares or assets of another company (the target or seller). Unlike a [merger](/merger/), which combines the legal entities, an acquisition leaves the target either intact as a subsidiary or dissolves it into the acquirer's operations. Acquisitions are the legal foundation of most corporate combinations.*
 
 <div class="wiki-hatnote">
 
-This entry covers the mechanics of acquisition structures. For the business rationale, see [merger](/merger); for hostile acquisitions, see [hostile takeover](/hostile-takeover); for a specific type of buyer, see [leveraged buyout](/leveraged-buyout) and [management buyout](/management-buyout).
+This entry covers the mechanics of acquisition structures. For the business rationale, see [merger](/merger/); for hostile acquisitions, see [hostile takeover](/hostile-takeover/); for a specific type of buyer, see [leveraged buyout](/leveraged-buyout/) and [management buyout](/management-buyout/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers the mechanics of acquisition structures. For the business rati
 | **Consideration** | Cash, stock, debt, or combination |
 | **Tax impact** | Varies by structure and jurisdiction |
 | **Typical process** | Offer, due diligence, negotiation, closing |
-| **Opposite** | [Divestiture](/divestiture), [spinoff](/spinoff) |
+| **Opposite** | [Divestiture](/divestiture/), [spinoff](/spinoff/) |
 
 </aside>
 
@@ -56,7 +56,7 @@ If the parties reach a price and terms they both accept, they announce a **defin
 
 The target's board will often seek **fiduciary-out language** — the right to respond to a competing bidder or to change its recommendation if a superior offer appears. Many deals end with an auction in which multiple acquirers bid, sometimes sharply driving up the price.
 
-In a **hostile acquisition**, the buyer bypasses the board and goes directly to shareholders via a [tender offer](/tender-offer), attempting to accumulate enough shares to take control without board blessing. This is rare (most hostile attempts fail) and expensive, but it can succeed if the target's board is seen as negligent or if the acquirer makes an offer too tempting for shareholders to refuse.
+In a **hostile acquisition**, the buyer bypasses the board and goes directly to shareholders via a [tender offer](/tender-offer/), attempting to accumulate enough shares to take control without board blessing. This is rare (most hostile attempts fail) and expensive, but it can succeed if the target's board is seen as negligent or if the acquirer makes an offer too tempting for shareholders to refuse.
 
 ## Consideration and financing
 
@@ -66,7 +66,7 @@ The buyer must pay the agreed purchase price. Choices include:
 - **All-stock offers** preserve cash but dilute the buyer's shareholders. The ratio of exchange (number of shares per dollar of acquisition price) is sensitive to the buyer's own stock price.
 - **Mixed cash and stock** is common, offering the target's shareholders optionality.
 
-The buyer's funding sources include equity (raising capital from investors), debt ([bonds](/bond) or bank loans), or retained earnings. A buyer who borrows heavily to finance an acquisition is running a [leveraged buyout](/leveraged-buyout).
+The buyer's funding sources include equity (raising capital from investors), debt ([bonds](/bond/) or bank loans), or retained earnings. A buyer who borrows heavily to finance an acquisition is running a [leveraged buyout](/leveraged-buyout/).
 
 ## Due diligence and representations
 
@@ -90,18 +90,18 @@ Acquisitions above size thresholds must be reported to antitrust authorities. In
 
 ### Closely related
 
-- [Merger](/merger) — formal combination of two companies
-- [Hostile takeover](/hostile-takeover) — an unwanted acquisition attempt
-- [Tender offer](/tender-offer) — the mechanism to buy a target's shares from public shareholders
-- [Leveraged buyout](/leveraged-buyout) — an acquisition financed with debt
-- [Management buyout](/management-buyout) — acquisition by the target's own management
-- [Divestiture](/divestiture) — the opposite of an acquisition
+- [Merger](/merger/) — formal combination of two companies
+- [Hostile takeover](/hostile-takeover/) — an unwanted acquisition attempt
+- [Tender offer](/tender-offer/) — the mechanism to buy a target's shares from public shareholders
+- [Leveraged buyout](/leveraged-buyout/) — an acquisition financed with debt
+- [Management buyout](/management-buyout/) — acquisition by the target's own management
+- [Divestiture](/divestiture/) — the opposite of an acquisition
 
 ### Wider context
 
 - Due diligence — the investigation that precedes a deal
-- [Change of control provision](/change-of-control-provision) — contractual triggers in an acquisition
-- [Going-private transaction](/going-private) — an acquisition that delists a public company
-- [Reverse merger](/reverse-merger) — an acquisition in which a private company acquires a public shell
+- [Change of control provision](/change-of-control-provision/) — contractual triggers in an acquisition
+- [Going-private transaction](/going-private/) — an acquisition that delists a public company
+- [Reverse merger](/reverse-merger/) — an acquisition in which a private company acquires a public shell
 
 </div>

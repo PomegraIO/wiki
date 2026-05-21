@@ -83,16 +83,16 @@ His influence is particularly strong on younger investors who admire his opennes
 
 ### Closely related
 
-- [Warren Buffett](/warren-buffett) — His intellectual inspiration
-- [Charlie Munger](/charlie-munger) — His mentor through reading
-- [Benjamin Graham](/benjamin-graham) — The founder of value investing
-- [Seth Klarman](/seth-klarman) — A contemporary value investor
+- [Warren Buffett](/warren-buffett/) — His intellectual inspiration
+- [Charlie Munger](/charlie-munger/) — His mentor through reading
+- [Benjamin Graham](/benjamin-graham/) — The founder of value investing
+- [Seth Klarman](/seth-klarman/) — A contemporary value investor
 
 ### Wider context
 
-- [Value investing](/value-investing) — His discipline
+- [Value investing](/value-investing/) — His discipline
 - Concentrated portfolio — His structure
 - Emerging markets — His focus area
-- [Stock market](/stock-market) — His arena
+- [Stock market](/stock-market/) — His arena
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers shareholder-level returns. For asset-level returns, see [return-on-assets](/return-on-assets). For all-inclusive returns, see [return-on-invested-capital](/return-on-invested-capital).
+This entry covers shareholder-level returns. For asset-level returns, see [return-on-assets](/return-on-assets/). For all-inclusive returns, see [return-on-invested-capital](/return-on-invested-capital/).
 
 </div>
 
@@ -96,7 +96,7 @@ You must examine the trend and the components.
 
 ## ROE vs. return on invested capital
 
-[Return-on-invested-capital](/return-on-invested-capital) (ROIC) is similar but includes all investors — both equity and debt holders. ROIC is more useful for comparing companies with different capital structures. However, ROE is what shareholders care about most directly.
+[Return-on-invested-capital](/return-on-invested-capital/) (ROIC) is similar but includes all investors — both equity and debt holders. ROIC is more useful for comparing companies with different capital structures. However, ROE is what shareholders care about most directly.
 
 The difference between ROE and ROIC is the effect of financial leverage. A company with 12% ROIC and 5% cost of debt can achieve higher ROE by borrowing.
 
@@ -121,7 +121,7 @@ Most investors use ROE as a screen and a quality check:
 2. You verify the ROE is sustainable by checking the trend over five years.
 3. You examine the components (margin, turnover, leverage) to understand the source.
 4. You compare ROE to the cost of equity (often approximated by the required return or cost of capital).
-5. You cross-check against other metrics: [return-on-assets](/return-on-assets), [return-on-invested-capital](/return-on-invested-capital), and free cash flow.
+5. You cross-check against other metrics: [return-on-assets](/return-on-assets/), [return-on-invested-capital](/return-on-invested-capital/), and free cash flow.
 
 A company with 18% ROE, stable margins, improving asset turnover, and modest leverage is a much stronger signal than a company with 18% ROE driven entirely by leverage.
 
@@ -131,17 +131,17 @@ A company with 18% ROE, stable margins, improving asset turnover, and modest lev
 
 ### Closely related
 
-- [Return on assets](/return-on-assets) — profitability relative to all assets
-- [Return on invested capital](/return-on-invested-capital) — profitability relative to all investor capital
-- [Net profit margin](/net-profit-margin) — profitability as a percentage of sales
-- [Asset turnover](/asset-turnover-ratio) — how efficiently assets generate sales
+- [Return on assets](/return-on-assets/) — profitability relative to all assets
+- [Return on invested capital](/return-on-invested-capital/) — profitability relative to all investor capital
+- [Net profit margin](/net-profit-margin/) — profitability as a percentage of sales
+- [Asset turnover](/asset-turnover-ratio/) — how efficiently assets generate sales
 - Shareholder equity — the denominator
 
 ### Wider context
 
 - DuPont analysis — decomposing ROE into components
 - Competitive moat — why high ROE persists
-- [Cost of equity](/cost-of-equity) — the benchmark for ROE
+- [Cost of equity](/cost-of-equity/) — the benchmark for ROE
 - Leverage — how debt affects ROE
 - Dividend yield — one way returns reach shareholders
 

@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For alternatives, see [adjustable-rate-mortgage](/adjustable-rate-mortgage), [interest-only-mortgage](/interest-only-mortgage), and balloon-mortgage. For loan types, see [fha-loan](/fha-loan), [va-loan](/va-loan), conventional-mortgage, and [jumbo-loan](/jumbo-loan).
+For alternatives, see [adjustable-rate-mortgage](/adjustable-rate-mortgage/), [interest-only-mortgage](/interest-only-mortgage/), and balloon-mortgage. For loan types, see [fha-loan](/fha-loan/), [va-loan](/va-loan/), conventional-mortgage, and [jumbo-loan](/jumbo-loan/).
 
 </div>
 
@@ -102,7 +102,7 @@ Many borrowers choose 30-year mortgages for flexibility, even though 15-year mor
 
 ## Fixed-rate mortgages in the bond market
 
-When a lender originates a fixed-rate mortgage, they often sell it to investors or bundle it with other mortgages into [mortgage-backed securities](/mortgage-backed-security) (MBS). The borrower continues to pay the original lender (or a loan servicer), but the investor holds the mortgage and receives the interest and principal payments.
+When a lender originates a fixed-rate mortgage, they often sell it to investors or bundle it with other mortgages into [mortgage-backed securities](/mortgage-backed-security/) (MBS). The borrower continues to pay the original lender (or a loan servicer), but the investor holds the mortgage and receives the interest and principal payments.
 
 This allows lenders to originate mortgages without holding them long-term, freeing capital for new loans.
 
@@ -118,23 +118,23 @@ Fixed-rate mortgages are secured by the property (it is collateral for the loan)
 
 ### Mortgage types
 
-- [Adjustable-rate-mortgage](/adjustable-rate-mortgage) — rates that change over time
-- [Interest-only-mortgage](/interest-only-mortgage) — interest only for a period
+- [Adjustable-rate-mortgage](/adjustable-rate-mortgage/) — rates that change over time
+- [Interest-only-mortgage](/interest-only-mortgage/) — interest only for a period
 - Balloon-mortgage — large lump-sum at end
 - Conventional-mortgage — standard conforming loans
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [VA-loan](/va-loan) — mortgages for military veterans
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [VA-loan](/va-loan/) — mortgages for military veterans
 
 ### Mortgage metrics and securities
 
-- [Mortgage-backed-security](/mortgage-backed-security) — securities backed by mortgages
-- [Private-mortgage-insurance](/private-mortgage-insurance) — insurance for down payments <20%
+- [Mortgage-backed-security](/mortgage-backed-security/) — securities backed by mortgages
+- [Private-mortgage-insurance](/private-mortgage-insurance/) — insurance for down payments <20%
 
 ### Context
 
-- [Interest rate](/interest-rate) — determines mortgage rates
-- [Inflation](/inflation) — fixed-rate debt is a hedge
-- [Central bank](/central-bank) — affects mortgage rates through policy
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
+- [Interest rate](/interest-rate/) — determines mortgage rates
+- [Inflation](/inflation/) — fixed-rate debt is a hedge
+- [Central bank](/central-bank/) — affects mortgage rates through policy
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
 
 </div>

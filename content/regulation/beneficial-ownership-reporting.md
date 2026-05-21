@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*Beneficial ownership reporting is the requirement to disclose who actually owns securities, not just who holds them in name. A security might be registered in a nominee's name (a broker, trustee, or corporation), but the actual owner is the beneficial owner. The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) requires disclosure of beneficial ownership for [Section 13(d)](/section-13d) filers (5%+ stakes), Section 16 filers (insiders), and others. The goal is transparency about who truly controls voting power and economic interest.*
+*Beneficial ownership reporting is the requirement to disclose who actually owns securities, not just who holds them in name. A security might be registered in a nominee's name (a broker, trustee, or corporation), but the actual owner is the beneficial owner. The [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) requires disclosure of beneficial ownership for [Section 13(d)](/section-13d/) filers (5%+ stakes), Section 16 filers (insiders), and others. The goal is transparency about who truly controls voting power and economic interest.*
 
 <div class="wiki-hatnote">
 
-Beneficial ownership reporting covers the true owner of securities. Legal ownership (registered name) may differ. See [Section 13(d)](/section-13d) and Section 16 for specific disclosure rules.
+Beneficial ownership reporting covers the true owner of securities. Legal ownership (registered name) may differ. See [Section 13(d)](/section-13d/) and Section 16 for specific disclosure rules.
 
 </div>
 
@@ -29,7 +29,7 @@ Beneficial ownership reporting covers the true owner of securities. Legal owners
 |   |   |
 |---|---|
 | **Applies to** | Any person beneficially owning securities |
-| **5%+ threshold** | [Section 13(d)](/section-13d) filing required |
+| **5%+ threshold** | [Section 13(d)](/section-13d/) filing required |
 | **Officer/director** | Section 16 filing required |
 | **Definition** | Control over voting or investment decisions, or economic interest |
 | **Forms** | Schedule 13D, Schedule 13G, Form 4, Schedule 14A (proxy) |
@@ -59,7 +59,7 @@ Additionally, certain large institutional investors (mutual funds, pension funds
 
 ## Section 13(d) and beneficial ownership
 
-[Section 13(d)](/section-13d) requires disclosure of beneficial ownership — any person who beneficially owns 5% or more must file Schedule 13D. The term "person" is broad and includes individuals, entities, groups (two or more persons acting together), and even "networks" of persons.
+[Section 13(d)](/section-13d/) requires disclosure of beneficial ownership — any person who beneficially owns 5% or more must file Schedule 13D. The term "person" is broad and includes individuals, entities, groups (two or more persons acting together), and even "networks" of persons.
 
 A key issue: are members of a voting group (shareholders who agree to vote together) treated as one person for beneficial ownership? Generally yes — if shareholders agree to coordinate voting, they may be treated as a group for Section 13(d) purposes.
 
@@ -81,11 +81,11 @@ Beneficial ownership has implications beyond securities law. For tax purposes, a
 
 ### Closely related
 
-- [Section 13(d)](/section-13d) — requires beneficial ownership disclosure at 5%+
-- [Section 13(g)](/section-13g) — simplified form for passive beneficial owners
+- [Section 13(d)](/section-13d/) — requires beneficial ownership disclosure at 5%+
+- [Section 13(g)](/section-13g/) — simplified form for passive beneficial owners
 - Section 16 — requires insiders to disclose
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — foundational statute
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — foundational statute
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
 
 ### Wider context
 

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Australian Securities Exchange** (ASX) is the largest and primary [stock exchange](/stock-exchange) in Australia and the Oceania region. Home to major Australian firms in banking, mining, energy, and healthcare, the ASX serves as the venue through which international investors access exposure to the Australian economy and natural resource sectors.*
+*The **Australian Securities Exchange** (ASX) is the largest and primary [stock exchange](/stock-exchange/) in Australia and the Oceania region. Home to major Australian firms in banking, mining, energy, and healthcare, the ASX serves as the venue through which international investors access exposure to the Australian economy and natural resource sectors.*
 
 <div class="wiki-hatnote">
 
@@ -80,18 +80,18 @@ The All Ordinaries is the broadest ASX index, including all listed companies. Th
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — largest in Asia
-- [New York Stock Exchange](/new-york-stock-exchange) — world's largest
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Stock exchange](/stock-exchange/) — the category
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — largest in Asia
+- [New York Stock Exchange](/new-york-stock-exchange/) — world's largest
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
 - Institutional investor — participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Public company](/public-company) — corporations listed
+- [Asset allocation](/asset-allocation/) — positioning
+- [Public company](/public-company/) — corporations listed
 - Commodity — mining and energy
 - Emerging market — regional growth
 

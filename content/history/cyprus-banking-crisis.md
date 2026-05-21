@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Cyprus crisis. For the broader eurozone turmoil, see [European Sovereign Debt Crisis](/european-sovereign-debt-crisis); for the Greek debt write-downs that triggered it, see [Greek Debt Crisis](/greek-debt-crisis).
+This entry covers the Cyprus crisis. For the broader eurozone turmoil, see [European Sovereign Debt Crisis](/european-sovereign-debt-crisis/); for the Greek debt write-downs that triggered it, see [Greek Debt Crisis](/greek-debt-crisis/).
 
 </div>
 
@@ -88,8 +88,8 @@ The Cyprus crisis is remembered as the moment when the myth of deposit safety wa
 
 ### Closely related
 
-- [European Sovereign Debt Crisis](/european-sovereign-debt-crisis) — the broader crisis
-- [Greek Debt Crisis](/greek-debt-crisis) — the Greek debt write-down triggered Cyprus
+- [European Sovereign Debt Crisis](/european-sovereign-debt-crisis/) — the broader crisis
+- [Greek Debt Crisis](/greek-debt-crisis/) — the Greek debt write-down triggered Cyprus
 - Bank failure — the mechanism
 
 ### Wider context

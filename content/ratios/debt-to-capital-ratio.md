@@ -33,7 +33,7 @@ image: "/svg/ratios.svg"
 
 ## The intuition behind the ratio
 
-This ratio expresses the capital structure as a percentage. Unlike [debt-to-equity](/debt-to-equity-ratio), which can range from 0 to infinity, debt-to-capital ranges from 0% to 100%.
+This ratio expresses the capital structure as a percentage. Unlike [debt-to-equity](/debt-to-equity-ratio/), which can range from 0 to infinity, debt-to-capital ranges from 0% to 100%.
 
 A 40% debt-to-capital means the company is 40% debt-financed and 60% equity-financed.
 
@@ -61,8 +61,8 @@ D/C is intuitive: it shows directly what percentage of the capital structure is 
 
 ### Closely related
 
-- [Debt-to-equity ratio](/debt-to-equity-ratio) — alternative form
-- [Debt-to-assets ratio](/debt-to-assets-ratio) — relative to all assets
+- [Debt-to-equity ratio](/debt-to-equity-ratio/) — alternative form
+- [Debt-to-assets ratio](/debt-to-assets-ratio/) — relative to all assets
 - Leverage · Capital structure
 
 </div>

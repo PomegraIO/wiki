@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **two-tier tender offer** is a [tender offer](/tender-offer) with a coercive structure: shareholders who tender at the agreed price receive cash or fixed-value equity, while those who do not are forced into a back-end merger at a lower or less-certain price. The threat of the inferior second tier pressures shareholders to tender in the first tier, even if they believe the offer price is inadequate. Two-tier offers are now rare and heavily regulated, but they were a staple of hostile takeovers in the 1980s and 1990s.*
+*A **two-tier tender offer** is a [tender offer](/tender-offer/) with a coercive structure: shareholders who tender at the agreed price receive cash or fixed-value equity, while those who do not are forced into a back-end merger at a lower or less-certain price. The threat of the inferior second tier pressures shareholders to tender in the first tier, even if they believe the offer price is inadequate. Two-tier offers are now rare and heavily regulated, but they were a staple of hostile takeovers in the 1980s and 1990s.*
 
 <div class="wiki-hatnote">
 
-This entry covers the mechanics and ethics of two-tier offers. For tender offers in general, see [tender offer](/tender-offer); for the regulatory context, see [poison pill](/poison-pill), which was partly designed to prevent two-tier coercion.
+This entry covers the mechanics and ethics of two-tier offers. For tender offers in general, see [tender offer](/tender-offer/); for the regulatory context, see [poison pill](/poison-pill/), which was partly designed to prevent two-tier coercion.
 
 </div>
 
@@ -28,12 +28,12 @@ This entry covers the mechanics and ethics of two-tier offers. For tender offers
 
 |   |   |
 |---|---|
-| **What it is** | Conditional [tender offer](/tender-offer) with two different consideration prices |
+| **What it is** | Conditional [tender offer](/tender-offer/) with two different consideration prices |
 | **Front tier** | Fixed price for shares tendered during offer period |
 | **Back tier** | Lower or less-certain price for remaining shares in back-end merger |
 | **Purpose** | Coerce shareholders to tender in the front tier |
 | **Regulatory status** | Heavily regulated; rarer today than in 1980s–1990s |
-| **Defences** | [Poison pill](/poison-pill), [white knight](/white-knight) |
+| **Defences** | [Poison pill](/poison-pill/), [white knight](/white-knight/) |
 | **Controversy** | Viewed as coercive and shareholder-unfriendly |
 
 </aside>
@@ -50,7 +50,7 @@ The classic example is a two-tier offer where the front tier is $30 cash and the
 
 ## Why two-tier offers were used
 
-Hostile bidders in the 1980s and 1990s used two-tier offers to overcome the prisoner's dilemma inherent in [tender offers](/tender-offer). In a simple tender offer, shareholders have an incentive to hold out (hoping for a higher competing bid) even if the offer is attractive. With a two-tier structure, holding out becomes dangerous.
+Hostile bidders in the 1980s and 1990s used two-tier offers to overcome the prisoner's dilemma inherent in [tender offers](/tender-offer/). In a simple tender offer, shareholders have an incentive to hold out (hoping for a higher competing bid) even if the offer is attractive. With a two-tier structure, holding out becomes dangerous.
 
 The back tier was often structured to be deeply unattractive. An acquirer might offer $30 cash in front but $15 cash (or junk debt) in back, making the penalty for not tendering severe and all but forcing acceptance of the front price.
 
@@ -66,7 +66,7 @@ In modern markets, regulators and shareholder advocates have largely succeeded i
 
 Modern hostile bidders have largely shifted to alternative structures:
 
-- **Single-tier offers** at a single price, combined with a [proxy fight](/proxy-fight) to elect a new board that will approve a merger at the same price if the tender offer fails.
+- **Single-tier offers** at a single price, combined with a [proxy fight](/proxy-fight/) to elect a new board that will approve a merger at the same price if the tender offer fails.
 - **Contingent merger clauses** that promise a fair valuation process (and equal treatment) if shareholders reject the tender offer and the acquirer gains control through a proxy fight.
 - **Auction structures** where the target is put up for sale and multiple bidders are allowed to compete, theoretically producing a fair price.
 
@@ -84,17 +84,17 @@ Modern shareholder protection came through the poison pill and through greater t
 
 ### Closely related
 
-- [Tender offer](/tender-offer) — the general mechanism
-- [Hostile takeover](/hostile-takeover) — the context in which two-tier offers were used
-- [Poison pill](/poison-pill) — defence that blocked two-tier offers
-- [White knight](/white-knight) — alternative to accepting a hostile two-tier bid
-- [Proxy fight](/proxy-fight) — alternative mechanism to acquire control
+- [Tender offer](/tender-offer/) — the general mechanism
+- [Hostile takeover](/hostile-takeover/) — the context in which two-tier offers were used
+- [Poison pill](/poison-pill/) — defence that blocked two-tier offers
+- [White knight](/white-knight/) — alternative to accepting a hostile two-tier bid
+- [Proxy fight](/proxy-fight/) — alternative mechanism to acquire control
 
 ### Wider context
 
-- [Friendly takeover](/friendly-takeover) — offers single treatment to all shareholders
+- [Friendly takeover](/friendly-takeover/) — offers single treatment to all shareholders
 - Delaware courts — developed the legal doctrine skeptical of two-tier offers
-- [Merger](/merger) — the back-end combination after a two-tier tender
-- [Crown jewel defence](/crown-jewel-defense) — strategy to make target less attractive to two-tier bidders
+- [Merger](/merger/) — the back-end combination after a two-tier tender
+- [Crown jewel defence](/crown-jewel-defense/) — strategy to make target less attractive to two-tier bidders
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Greek crisis specifically. For the broader eurozone crisis of which it was the epicenter, see [European Sovereign Debt Crisis](/european-sovereign-debt-crisis); for the broader theme of sovereign default, see [sovereign debt](/sovereign-debt).
+This entry covers the Greek crisis specifically. For the broader eurozone crisis of which it was the epicenter, see [European Sovereign Debt Crisis](/european-sovereign-debt-crisis/); for the broader theme of sovereign default, see [sovereign debt](/sovereign-debt/).
 
 </div>
 
@@ -95,16 +95,16 @@ It also demonstrated the political risks of austerity: support for European inte
 
 ### Closely related
 
-- [European Sovereign Debt Crisis](/european-sovereign-debt-crisis) — the broader crisis of which Greece was the epicenter
-- [Sovereign debt](/sovereign-debt) — the instrument
+- [European Sovereign Debt Crisis](/european-sovereign-debt-crisis/) — the broader crisis of which Greece was the epicenter
+- [Sovereign debt](/sovereign-debt/) — the instrument
 - Default — the risk Greece faced
 
 ### Wider context
 
 - Eurozone — the currency union
 - International Monetary Fund — the rescuer
-- [European Central Bank](/european-central-bank) — Mario Draghi's role
-- [Austerity](/austerity) — the policy response
-- [Recession](/recession) — the economic consequence
+- [European Central Bank](/european-central-bank/) — Mario Draghi's role
+- [Austerity](/austerity/) — the policy response
+- [Recession](/recession/) — the economic consequence
 
 </div>

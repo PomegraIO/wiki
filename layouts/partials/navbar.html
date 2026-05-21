@@ -1,15 +1,29 @@
 <header class="wiki-navbar">
   <div class="wiki-navbar-inner">
     <a class="wiki-brand" href="{{ "/" | relURL }}">
-      <img src="{{ "img/logo.svg" | absURL }}" alt="" class="wiki-brand-logo" />
+      <img src="{{ "/img/logo.svg" | relURL }}" alt="" class="wiki-brand-logo" />
       <span class="wiki-brand-title">Pomegra Wiki</span>
     </a>
 
-    <nav class="wiki-nav">
+    <nav class="wiki-nav" aria-label="Primary">
       <a href="{{ "/" | relURL }}" class="wiki-nav-link{{ if .IsHome }} is-active{{ end }}">Main page</a>
-      <a href="{{ "/index-a-z/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/index-a-z/" }} is-active{{ end }}">A–Z index</a>
+      <a href="{{ "/atlas/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/atlas/" }} is-active{{ end }}" title="Browse every category with featured entries">Atlas</a>
+      <a href="{{ "/index-a-z/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/index-a-z/" }} is-active{{ end }}" title="Alphabetical index of every entry">Index</a>
       <a id="pom-random" href="#" class="wiki-nav-link" title="Open a random entry">Random</a>
       <a href="{{ "/about/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/about/" }} is-active{{ end }}">About</a>
+
+      <span class="wiki-nav-divider" aria-hidden="true"></span>
+
+      <a href="{{ .Site.Params.learnURL }}"
+         class="wiki-nav-link is-external"
+         data-umami-event="cross-property-click"
+         data-umami-event-to="learn"
+         title="Pomegra Learn — 30-book financial education curriculum">Learn</a>
+      <a href="{{ .Site.Params.homeURL }}"
+         class="wiki-nav-link is-external"
+         data-umami-event="cross-property-click"
+         data-umami-event-to="home"
+         title="Pomegra — the home page">Pomegra.io</a>
     </nav>
 
     <div class="wiki-nav-tools">

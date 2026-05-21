@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Model risk is the exposure to losses stemming from errors in financial models — whether from flawed logic, faulty assumptions, poor data, incorrect calibration, or misapplication of an otherwise sound model. It is a form of [operational-risk](/operational-risk) and is one of the most insidious risks in finance.*
+*Model risk is the exposure to losses stemming from errors in financial models — whether from flawed logic, faulty assumptions, poor data, incorrect calibration, or misapplication of an otherwise sound model. It is a form of [operational-risk](/operational-risk/) and is one of the most insidious risks in finance.*
 
 <div class="wiki-hatnote">
 
-This entry covers risks from models themselves. For risks from incorrect input parameters in otherwise sound models, see [parameter-risk](/parameter-risk); for the risk of losing from tail events not captured in models, see [tail-risk](/tail-risk).
+This entry covers risks from models themselves. For risks from incorrect input parameters in otherwise sound models, see [parameter-risk](/parameter-risk/); for the risk of losing from tail events not captured in models, see [tail-risk](/tail-risk/).
 
 </div>
 
@@ -30,7 +30,7 @@ This entry covers risks from models themselves. For risks from incorrect input p
 |---|---|
 | **What it is** | Loss from faulty, misapplied, or misunderstood models |
 | **Sources** | Bad assumptions, poor data, incomplete logic, wrong use |
-| **Most common in** | Derivatives pricing; [value-at-risk](/value-at-risk); credit scoring |
+| **Most common in** | Derivatives pricing; [value-at-risk](/value-at-risk/); credit scoring |
 | **Worst case** | Model is catastrophically wrong; embedded in trading or risk systems |
 | **Can be reduced by** | Validation; backtesting; robustness checks; independent review |
 | **Cannot be eliminated** | All models are simplifications of reality |
@@ -40,11 +40,11 @@ This entry covers risks from models themselves. For risks from incorrect input p
 
 ## Why models are risk
 
-All finance uses models. A [value-at-risk](/value-at-risk) model estimates portfolio loss at a 99% confidence level over one day. A pricing model values a [derivative](/option) using assumptions about volatility and rates. A credit scoring model estimates default probability.
+All finance uses models. A [value-at-risk](/value-at-risk/) model estimates portfolio loss at a 99% confidence level over one day. A pricing model values a [derivative](/option/) using assumptions about volatility and rates. A credit scoring model estimates default probability.
 
 Models are simplifications. Reality is complex; models reduce it to tractable equations. This is useful — you cannot plan without simplification — but it is also risky. When reality deviates from the model, losses can be severe.
 
-**Example:** A bank uses a normal distribution to model daily stock returns, calculating [value-at-risk](/value-at-risk). The model says the 99% confidence daily loss is 2%. But real markets have fat tails: the actual 99% loss is 3%, and the 99.9% loss is 6%. On a 1% day (the 1% tail), the model is wrong, and the portfolio loses 6% while the risk system expected 2%. Traders, risk managers, and executives were all misled by the model.
+**Example:** A bank uses a normal distribution to model daily stock returns, calculating [value-at-risk](/value-at-risk/). The model says the 99% confidence daily loss is 2%. But real markets have fat tails: the actual 99% loss is 3%, and the 99.9% loss is 6%. On a 1% day (the 1% tail), the model is wrong, and the portfolio loses 6% while the risk system expected 2%. Traders, risk managers, and executives were all misled by the model.
 
 ## Types of model risk
 
@@ -56,7 +56,7 @@ Model risk takes several forms:
 
 - **Data error.** The model is trained on bad, incomplete, or biased data. A credit model is trained on data from a period of economic expansion, not recessions, and fails when a recession hits.
 
-- **Calibration error.** The model's parameters are estimated incorrectly. A volatility estimate is too low due to a quiet period in the market; when volatility spikes, the model underprices [options](/option).
+- **Calibration error.** The model's parameters are estimated incorrectly. A volatility estimate is too low due to a quiet period in the market; when volatility spikes, the model underprices [options](/option/).
 
 - **Misuse.** The model is sound, but it is used outside its domain. A model calibrated on liquid large-cap stocks is applied to illiquid microcap stocks and is wrong.
 
@@ -101,18 +101,18 @@ For traders and portfolio managers, the practical defense is:
 
 ### Closely related
 
-- [Parameter-risk](/parameter-risk) — risk from incorrect parameters in an otherwise sound model
-- [Operational-risk](/operational-risk) — model risk is often classified as operational risk
-- [Value-at-risk](/value-at-risk) — common source of model risk in risk management
-- [Tail-risk](/tail-risk) — risk of outcomes models do not capture
-- [Stress-testing](/stress-testing) — method to assess model robustness
+- [Parameter-risk](/parameter-risk/) — risk from incorrect parameters in an otherwise sound model
+- [Operational-risk](/operational-risk/) — model risk is often classified as operational risk
+- [Value-at-risk](/value-at-risk/) — common source of model risk in risk management
+- [Tail-risk](/tail-risk/) — risk of outcomes models do not capture
+- [Stress-testing](/stress-testing/) — method to assess model robustness
 
 ### Broader context
 
-- [Derivative](/option) — pricing models critical to derivatives markets
-- [Credit-risk](/credit-risk) — credit models are major source of model risk
-- [LTCM](/hedge-fund) — famous example of model risk failure
-- [2008 financial crisis](/credit-risk) — model risk in credit ratings contributed
-- [Fat-tail-risk](/fat-tail-risk) — models miss extreme tails, a key model risk
+- [Derivative](/option/) — pricing models critical to derivatives markets
+- [Credit-risk](/credit-risk/) — credit models are major source of model risk
+- [LTCM](/hedge-fund/) — famous example of model risk failure
+- [2008 financial crisis](/credit-risk/) — model risk in credit ratings contributed
+- [Fat-tail-risk](/fat-tail-risk/) — models miss extreme tails, a key model risk
 
 </div>

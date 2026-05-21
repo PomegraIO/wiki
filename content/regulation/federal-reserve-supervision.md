@@ -14,7 +14,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-Federal Reserve supervision focuses on banking organizations. The [SEC](/securities-and-exchange-commission) supervises securities activities. For supervision of national banks, see [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency).
+Federal Reserve supervision focuses on banking organizations. The [SEC](/securities-and-exchange-commission/) supervises securities activities. For supervision of national banks, see [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/).
 
 </div>
 
@@ -39,7 +39,7 @@ Federal Reserve supervision focuses on banking organizations. The [SEC](/securit
 
 ## Who the Federal Reserve supervises
 
-The Federal Reserve supervises two populations: (1) state-chartered banks that are members of the Federal Reserve system, and (2) all bank holding companies — parent companies that own banks. A bank holding company can own a national bank (chartered by the [OCC](/office-of-the-comptroller-of-the-currency)), a state bank, or both. This creates overlapping jurisdiction: the Fed supervises the holding company, the OCC supervises the national bank within it, and a state regulator supervises the state bank. All three are coordinate supervisors, meaning they exchange information and coordinate enforcement.
+The Federal Reserve supervises two populations: (1) state-chartered banks that are members of the Federal Reserve system, and (2) all bank holding companies — parent companies that own banks. A bank holding company can own a national bank (chartered by the [OCC](/office-of-the-comptroller-of-the-currency/)), a state bank, or both. This creates overlapping jurisdiction: the Fed supervises the holding company, the OCC supervises the national bank within it, and a state regulator supervises the state bank. All three are coordinate supervisors, meaning they exchange information and coordinate enforcement.
 
 ## The examination process
 
@@ -71,15 +71,15 @@ The Federal Reserve's supervisory approach faces criticism from both sides. Some
 
 ### Closely related
 
-- [Federal Reserve Regulation](/federal-reserve-regulation) — the Fed's monetary policy role
-- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency) — regulates national banks
-- [Basel III](/basel-iii) — capital standards the Fed enforces
+- [Federal Reserve Regulation](/federal-reserve-regulation/) — the Fed's monetary policy role
+- [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) — regulates national banks
+- [Basel III](/basel-iii/) — capital standards the Fed enforces
 - Bank holding company — the entity the Fed supervises
-- [Stress testing](/stress-testing) — the Fed's annual tool
+- [Stress testing](/stress-testing/) — the Fed's annual tool
 
 ### Wider context
 
-- [Central bank](/central-bank) — the Fed's systemic role
+- [Central bank](/central-bank/) — the Fed's systemic role
 - Financial crisis — what supervision aims to prevent
 - Capital ratio — the metric the Fed monitors
 - Credit — what banks provide

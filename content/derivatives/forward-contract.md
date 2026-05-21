@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **forward contract** is a private agreement between two parties (typically facilitated by a bank) to buy or sell an underlying asset at a fixed price on a specified future date. Unlike standardized [futures contract](/futures-contract)s, forwards are customizable (any quantity, date, asset). They are settled only at maturity (no daily [mark-to-market](/mark-to-market)) and carry counterparty risk. Forwards are used extensively in currency and commodity markets by companies hedging operational exposure.*
+*A **forward contract** is a private agreement between two parties (typically facilitated by a bank) to buy or sell an underlying asset at a fixed price on a specified future date. Unlike standardized [futures contract](/futures-contract/)s, forwards are customizable (any quantity, date, asset). They are settled only at maturity (no daily [mark-to-market](/mark-to-market/)) and carry counterparty risk. Forwards are used extensively in currency and commodity markets by companies hedging operational exposure.*
 
 <aside class="wiki-infobox">
 
@@ -39,11 +39,11 @@ image: "/svg/derivatives.svg"
 
 You and a bank agree: "On June 30 (T), I will pay you $1.20 per EUR and receive €1 million in exchange." This is a forward contract.
 
-The forward price ($1.20) is fixed today, based on the [spot price](/strike-price) (current EUR/USD rate) and the [cost-of-carry](/cost-of-carry) (interest rates). The contract obligates both parties; neither has the option to walk away.
+The forward price ($1.20) is fixed today, based on the [spot price](/strike-price/) (current EUR/USD rate) and the [cost-of-carry](/cost-of-carry/) (interest rates). The contract obligates both parties; neither has the option to walk away.
 
 At maturity, you settle. If EUR/USD has risen to $1.25, the bank gained $50,000 (you pay $1.20 but the bank could have sold at $1.25). If EUR/USD fell to $1.15, you gained $50,000 and the bank lost. **One party wins; the other loses.**
 
-## Forwards vs. [futures](/futures-contract)
+## Forwards vs. [futures](/futures-contract/)
 
 | Aspect | Forward | Futures |
 |--------|---------|---------|
@@ -66,9 +66,9 @@ For a currency forward with spot EUR/USD = 1.10, US rate = 2%, euro rate = 3%, a
 
 Forward = 1.10 × e^((0.02-0.03)×1) = 1.10 × e^(−0.01) ≈ 1.089
 
-The forward adjusts for interest-rate differentials, storing the [cost-of-carry](/cost-of-carry) between the two currencies.
+The forward adjusts for interest-rate differentials, storing the [cost-of-carry](/cost-of-carry/) between the two currencies.
 
-For commodities, [cost-of-carry](/cost-of-carry) includes storage, insurance, and convenience yield.
+For commodities, [cost-of-carry](/cost-of-carry/) includes storage, insurance, and convenience yield.
 
 ## Uses and examples
 
@@ -84,7 +84,7 @@ The major risk in forwards is **counterparty risk**: if the market moves far aga
 
 ## No mark-to-market
 
-Unlike [futures](/futures-contract), forwards do not settle daily. Profits and losses are deferred to maturity. This can be good (no forced margin calls) or bad (uncertainty accumulates).
+Unlike [futures](/futures-contract/), forwards do not settle daily. Profits and losses are deferred to maturity. This can be good (no forced margin calls) or bad (uncertainty accumulates).
 
 An exporter with a short forward (locked in a sale price) does not receive daily payments if the currency rises; they wait until maturity and settle.
 
@@ -104,15 +104,15 @@ An exporter with a short forward (locked in a sale price) does not receive daily
 
 - [Hedging](/hedge-fund/) — locking in future prices
 - Commodity forward — locks commodity prices
-- [Currency forward](/currency-option) — locks exchange rates
-- [Interest-rate forward](/interest-rate-swap) — locks borrowing rates
+- [Currency forward](/currency-option/) — locks exchange rates
+- [Interest-rate forward](/interest-rate-swap/) — locks borrowing rates
 
 ### Pricing and valuation
 
 - [Mark-to-market](/mark-to-market/) — not done daily for forwards
 - [Spot price](/strike-price/) — starting point for pricing
 - [Interest rates](/interest-rate/) — affect forward price
-- [Discount factor](/compound-interest) — in forward valuation
+- [Discount factor](/compound-interest/) — in forward valuation
 
 ### Deeper context
 

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/history.svg"
 ---
 
-*The **Latin American Debt Crisis** was a cascade of sovereign defaults and debt restructurings across Latin America in the 1980s. Triggered by the sharp rise in US [interest rates](/interest-rate) under Federal Reserve Chair Paul Volcker and by falling commodity prices, Latin American nations faced a sudden inability to service their debts. Mexico's 1982 default was the flash point; Brazil, Argentina, Peru, and others followed. The crisis lasted nearly a decade and reshaped emerging market finance.*
+*The **Latin American Debt Crisis** was a cascade of sovereign defaults and debt restructurings across Latin America in the 1980s. Triggered by the sharp rise in US [interest rates](/interest-rate/) under Federal Reserve Chair Paul Volcker and by falling commodity prices, Latin American nations faced a sudden inability to service their debts. Mexico's 1982 default was the flash point; Brazil, Argentina, Peru, and others followed. The crisis lasted nearly a decade and reshaped emerging market finance.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Latin American crisis. For the Mexican crisis specifically, see [Mexican Peso Crisis](/mexican-peso-crisis); for the emerging market aftermath, see emerging markets.
+This entry covers the Latin American crisis. For the Mexican crisis specifically, see [Mexican Peso Crisis](/mexican-peso-crisis/); for the emerging market aftermath, see emerging markets.
 
 </div>
 
@@ -89,16 +89,16 @@ The crisis also established the International Monetary Fund as the institution m
 
 ### Closely related
 
-- [Mexican Peso Crisis](/mexican-peso-crisis) — a 1990s echo in Mexico
-- [Asian Financial Crisis](/asian-financial-crisis) — similar crisis in emerging markets
-- [Sovereign debt](/sovereign-debt) — the instrument at the heart of the crisis
+- [Mexican Peso Crisis](/mexican-peso-crisis/) — a 1990s echo in Mexico
+- [Asian Financial Crisis](/asian-financial-crisis/) — similar crisis in emerging markets
+- [Sovereign debt](/sovereign-debt/) — the instrument at the heart of the crisis
 
 ### Wider context
 
 - International Monetary Fund — the crisis manager
 - Emerging markets — the region most affected
-- [Interest rate](/interest-rate) — Volcker's rate hike triggered it
-- [Recession](/recession) — the consequence in debtor nations
+- [Interest rate](/interest-rate/) — Volcker's rate hike triggered it
+- [Recession](/recession/) — the consequence in debtor nations
 - Capital flight — the outflow of money from debtor nations
 
 </div>

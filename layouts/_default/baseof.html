@@ -1,29 +1,114 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="{{ .Site.LanguageCode | default "en-us" }}" data-theme="light">
 <head>
   <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-  <link rel="icon" href="{{ "img/favicon.ico" | absURL }}" />
-  <link rel="canonical" href="{{ .Permalink }}" />
-  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | absURL }}" />
 
+  {{/* ── Title, description, canonical ─────────────────────────────── */}}
+  {{ $title := cond .IsHome (printf "%s — %s" .Site.Title .Site.Params.tagline) (printf "%s — %s" .Title .Site.Title) }}
+  {{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) .Site.Params.description) }}
+  {{ $desc = htmlEscape (truncate 300 (plainify $desc)) }}
+  {{ $canonical := .Permalink }}
+  {{ $section := .Section }}
+  {{ $sectionLabel := humanize $section }}
+  {{ $ogImagePath := cond (ne (string .Params.image) "") (string .Params.image) (.Site.Params.ogImage | default "/img/og-default.png") }}
+  {{ $ogImage := partial "absolute-url.html" $ogImagePath }}
+
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $desc }}" />
+  <link rel="canonical" href="{{ $canonical }}" />
+
+  {{/* ── Robots / indexing ─────────────────────────────────────────── */}}
+  {{ $noindex := or .Params.noindex (in (slice "404.html") .Layout) }}
+  {{ if $noindex }}
+    <meta name="robots" content="noindex,nofollow" />
+  {{ else }}
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+    <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+    <meta name="bingbot" content="index,follow" />
+  {{ end }}
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+  {{/* ── Search-engine verification ─────────────────────────────────── */}}
+  {{ with .Site.Params.googleSiteVerification }}<meta name="google-site-verification" content="{{ . }}" />{{ end }}
+
+  {{/* ── Open Graph (Facebook / LinkedIn / Discord previews) ────────── */}}
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="{{ cond .IsPage "article" "website" }}" />
+  <meta property="og:title" content="{{ cond .IsHome .Site.Title .Title }}" />
+  <meta property="og:description" content="{{ $desc }}" />
+  <meta property="og:url" content="{{ $canonical }}" />
+  <meta property="og:image" content="{{ $ogImage }}" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="{{ .Site.Params.ogImageWidth | default 1200 }}" />
+  <meta property="og:image:height" content="{{ .Site.Params.ogImageHeight | default 630 }}" />
+  <meta property="og:image:alt" content="{{ .Title }} — {{ .Site.Title }}" />
+  {{ if .IsPage }}
+    {{ with .Date }}<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}" />{{ end }}
+    {{ with .Lastmod }}<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}" />{{ end }}
+    {{ with $sectionLabel }}<meta property="article:section" content="{{ . }}" />{{ end }}
+    {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}
+    <meta property="article:author" content="{{ .Site.Params.author }}" />
+    <meta property="article:publisher" content="{{ .Site.Params.homeURL }}" />
+  {{ end }}
+
+  {{/* ── Twitter Card ──────────────────────────────────────────────── */}}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="{{ .Site.Params.twitterHandle }}" />
+  <meta name="twitter:creator" content="{{ .Site.Params.twitterHandle }}" />
+  <meta name="twitter:title" content="{{ cond .IsHome .Site.Title .Title }}" />
+  <meta name="twitter:description" content="{{ $desc }}" />
+  <meta name="twitter:image" content="{{ $ogImage }}" />
+  <meta name="twitter:image:alt" content="{{ .Title }}" />
+
+  {{/* ── Keywords (gentle — Google ignores; Bing/DuckDuckGo still use it) */}}
+  {{ $kw := .Params.keywords }}
+  {{ if not $kw }}{{ $kw = .Params.tags }}{{ end }}
+  {{ if $kw }}<meta name="keywords" content="{{ delimit $kw ", " }}" />{{ end }}
+
+  {{/* ── Author + publisher ─────────────────────────────────────────── */}}
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="publisher" content="{{ .Site.Params.author }}" />
+  <meta name="application-name" content="{{ .Site.Title }}" />
+  <meta name="generator" content="Hugo" />
+
+  {{/* ── Theme + favicons + manifest ────────────────────────────────── */}}
+  <meta name="theme-color" content="#f4ede2" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0f0f10" media="(prefers-color-scheme: dark)" />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="icon" href="{{ "/img/favicon.ico" | relURL }}" />
+  <link rel="icon" type="image/svg+xml" href="{{ "/img/logo.svg" | relURL }}" />
+  <link rel="apple-touch-icon" href="{{ "/img/apple-touch-icon.png" | relURL }}" />
+  <link rel="manifest" href="{{ "/site.webmanifest" | relURL }}" />
+  <link rel="mask-icon" href="{{ "/img/logo.svg" | relURL }}" color="#c0392b" />
+
+  {{/* ── Sitemap + alt + RSS ───────────────────────────────────────── */}}
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | relURL }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | relURL }}" />
+  <link rel="alternate" hreflang="en" href="{{ $canonical }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ $canonical }}" />
+
+  {{/* Cross-property links so Google can connect /wiki ↔ /learn ↔ /. */}}
+  <link rel="me" href="{{ .Site.Params.homeURL }}" />
+
+  {{/* ── Performance hints ─────────────────────────────────────────── */}}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" />
+  <link rel="dns-prefetch" href="https://analytics.pomegra.io" />
+  <link rel="preconnect" href="https://analytics.pomegra.io" crossorigin />
 
+  {{/* ── Fonts + stylesheet (fingerprinted) ─────────────────────────── */}}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" />
   {{ $css := resources.Get "css/wiki.css" | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
 
-  <meta property="og:title" content="{{ .Title }} — {{ .Site.Title }}" />
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-  {{ with .Params.image }}<meta property="og:image" content="{{ . }}" />{{ end }}
+  {{/* ── JSON-LD structured data ───────────────────────────────────── */}}
+  {{ partial "seo-jsonld.html" . }}
 
+  {{/* ── Theme bootstrap (no-FOUC) ─────────────────────────────────── */}}
   <script>
-    // Theme bootstrap — read stored preference before paint to avoid flash
     (function() {
       try {
         var saved = localStorage.getItem('pom-theme');
@@ -33,6 +118,13 @@
       } catch (e) {}
     })();
   </script>
+
+  {{/* ── Analytics: shared analytics.pomegra.io Umami instance ──────── */}}
+  {{ with .Site.Params.umamiSrc }}
+    <script src="{{ . }}" defer data-website-id="{{ $.Site.Params.umamiWebsiteId }}" data-domains="pomegra.io"></script>
+  {{ end }}
+  {{ $events := resources.Get "js/wiki-events.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $events.RelPermalink }}" integrity="{{ $events.Data.Integrity }}" defer></script>
 </head>
 <body class="{{ if .IsHome }}is-home{{ else if eq .Section ""}}is-page{{ else }}is-article{{ end }}">
   {{ partial "navbar.html" . }}
@@ -125,9 +217,9 @@
       function ensureIndex(cb) {
         if (INDEX || loading) { cb && INDEX && cb(); return; }
         loading = true;
-        fetch('{{ "index.json" | absURL }}')
+        fetch('{{ "/index.json" | relURL }}')
           .then(function(r) { return r.json(); })
-          .then(function(j) { INDEX = j; loading = false; cb && cb(); })
+          .then(function(j) { INDEX = j; window.__pomIndex = j; loading = false; cb && cb(); })
           .catch(function() { loading = false; });
       }
       input.addEventListener('focus', function() { ensureIndex(function() { search(input.value); }); });
@@ -158,11 +250,10 @@
           if (!index || !index.length) return;
           var pick = index[Math.floor(Math.random() * index.length)];
           window.location.href = pick.u;
+          try { if (window.umami) window.umami.track('random-article', { to: pick.u }); } catch (_) {}
         }
-        // Try to reuse the search index if already loaded
-        var s = document.getElementById('pom-search-input');
-        if (s && window.__pomIndex) { go(window.__pomIndex); return; }
-        fetch('{{ "index.json" | absURL }}')
+        if (window.__pomIndex) { go(window.__pomIndex); return; }
+        fetch('{{ "/index.json" | relURL }}')
           .then(function(r) { return r.json(); })
           .then(function(j) { window.__pomIndex = j; go(j); })
           .catch(function() {});

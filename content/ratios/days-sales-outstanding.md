@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **days sales outstanding** — or **DSO** — equals 365 divided by [accounts-receivable-turnover](/accounts-receivable-turnover). A DSO of 45 means it takes an average of 45 days to collect payment from customers. Lower DSO signals faster collection and stronger cash flow.*
+*The **days sales outstanding** — or **DSO** — equals 365 divided by [accounts-receivable-turnover](/accounts-receivable-turnover/). A DSO of 45 means it takes an average of 45 days to collect payment from customers. Lower DSO signals faster collection and stronger cash flow.*
 
 <aside class="wiki-infobox">
 
@@ -57,9 +57,9 @@ Example: A company with AR turnover of 9 has DSO of 365 ÷ 9 = 41 days.
 
 ### Closely related
 
-- [Accounts-receivable-turnover](/accounts-receivable-turnover) — the reciprocal
-- [Days-inventory-outstanding](/days-inventory-outstanding)
-- [Days-payable-outstanding](/days-payable-outstanding)
-- [Cash-conversion-cycle](/cash-conversion-cycle) — combined metric
+- [Accounts-receivable-turnover](/accounts-receivable-turnover/) — the reciprocal
+- [Days-inventory-outstanding](/days-inventory-outstanding/)
+- [Days-payable-outstanding](/days-payable-outstanding/)
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — combined metric
 
 </div>

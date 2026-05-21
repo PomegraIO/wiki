@@ -11,11 +11,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*The **FIRE movement** is a lifestyle philosophy where people aim for **Financial Independence, Retire Early** — accumulating enough wealth to live off investment returns and retire decades before traditional retirement age. Adherents typically maintain very high [savings rates](/savings-rate) (50%+), invest in low-cost index funds, and use the [four-percent rule](/the-four-percent-rule) to determine when they can stop working.*
+*The **FIRE movement** is a lifestyle philosophy where people aim for **Financial Independence, Retire Early** — accumulating enough wealth to live off investment returns and retire decades before traditional retirement age. Adherents typically maintain very high [savings rates](/savings-rate/) (50%+), invest in low-cost index funds, and use the [four-percent rule](/the-four-percent-rule/) to determine when they can stop working.*
 
 <div class="wiki-hatnote">
 
-For retirement planning generally, see [the four-percent rule](/the-four-percent-rule) and [safe withdrawal rate](/safe-withdrawal-rate); for retirement accounts, see [401(k) plan](/401k-plan) and [Roth IRA](/roth-ira).
+For retirement planning generally, see [the four-percent rule](/the-four-percent-rule/) and [safe withdrawal rate](/safe-withdrawal-rate/); for retirement accounts, see [401(k) plan](/401k-plan/) and [Roth IRA](/roth-ira/).
 
 </div>
 
@@ -31,7 +31,7 @@ For retirement planning generally, see [the four-percent rule](/the-four-percent
 |---|---|
 | **Savings rate required** | 50%+ of income (to reach FI in 15–20 years) |
 | **Portfolio target** | 25–30 times annual spending (varies by variant) |
-| **Withdrawal rule** | [Four-percent rule](/the-four-percent-rule): spend 4% of portfolio annually |
+| **Withdrawal rule** | [Four-percent rule](/the-four-percent-rule/): spend 4% of portfolio annually |
 | **Typical retirement age** | 35–50 (depends on savings rate and lifestyle) |
 | **Key enablers** | High income, low expenses, index fund investing |
 | **Risk** | Sequence of returns risk, healthcare before Medicare, longevity |
@@ -43,7 +43,7 @@ For retirement planning generally, see [the four-percent rule](/the-four-percent
 
 The central insight of FIRE: retirement age depends on savings rate, not absolute income.
 
-If you save 50% of income, you accumulate wealth equal to one year's expenses in two years. The [four-percent rule](/the-four-percent-rule) says you can safely spend 4% of your portfolio annually. To sustain this:
+If you save 50% of income, you accumulate wealth equal to one year's expenses in two years. The [four-percent rule](/the-four-percent-rule/) says you can safely spend 4% of your portfolio annually. To sustain this:
 
 **Portfolio needed = 25 × annual spending**
 
@@ -68,7 +68,7 @@ This is why high savings rate is central to FIRE.
 
 ## Challenges and criticisms
 
-**Sequence of returns risk.** If markets crash in year 1 of retirement (before you have fully withdrawn the [four-percent rule](/the-four-percent-rule) amount), your portfolio may not recover. Early retirees are vulnerable to bad luck early on.
+**Sequence of returns risk.** If markets crash in year 1 of retirement (before you have fully withdrawn the [four-percent rule](/the-four-percent-rule/) amount), your portfolio may not recover. Early retirees are vulnerable to bad luck early on.
 
 **Healthcare before 65.** Before Medicare, health insurance is expensive. FIRE communities often discuss ACA subsidies, geographic arbitrage (moving to low-cost countries), or accepting high healthcare costs.
 
@@ -81,18 +81,18 @@ This is why high savings rate is central to FIRE.
 ## How to pursue FIRE
 
 1. **Maximize income.** Higher income makes higher savings rates feasible.
-2. **Minimize lifestyle.** Keep housing, transportation, and discretionary spending low. Use [budgeting methods](/budgeting-methods) to track.
+2. **Minimize lifestyle.** Keep housing, transportation, and discretionary spending low. Use [budgeting methods](/budgeting-methods/) to track.
 3. **Invest surplus in low-cost index funds.** The three-fund portfolio or lazy portfolio approaches are common.
-4. **Avoid lifestyle creep.** When income rises, do not increase spending proportionally. See [pay yourself first](/pay-yourself-first) and [lifestyle creep](/lifestyle-creep).
-5. **Plan your healthcare and withdrawal strategy.** Understand [Roth conversions](/roth-conversion-personal), [required minimum distributions](/required-minimum-distribution-personal), [Social Security](/social-security-personal) timing.
+4. **Avoid lifestyle creep.** When income rises, do not increase spending proportionally. See [pay yourself first](/pay-yourself-first/) and [lifestyle creep](/lifestyle-creep/).
+5. **Plan your healthcare and withdrawal strategy.** Understand [Roth conversions](/roth-conversion-personal/), [required minimum distributions](/required-minimum-distribution-personal/), [Social Security](/social-security-personal/) timing.
 6. **Monitor and adjust.** Running the numbers annually to see if you are on track.
 
 ## Early retirement account access
 
-A challenge: traditional retirement accounts ([401(k)](/401k-plan), [traditional IRA](/traditional-ira)) penalize withdrawals before 59½. FIRE communities use strategies to access funds early:
+A challenge: traditional retirement accounts ([401(k)](/401k-plan/), [traditional IRA](/traditional-ira/)) penalize withdrawals before 59½. FIRE communities use strategies to access funds early:
 
 - **Roth conversions.** Convert traditional IRA to Roth IRA in low-income years; withdraw contributions (always penalty-free) to fund early retirement.
-- **[Roth backdoor](/backdoor-roth).** Fund Roth IRA to build tax-free withdrawals early.
+- **[Roth backdoor](/backdoor-roth/).** Fund Roth IRA to build tax-free withdrawals early.
 - **Non-qualified accounts.** Invest surplus income in taxable brokerage accounts (less tax-efficient but no withdrawal penalties).
 - **Rule 72(t).** Allows penalty-free withdrawals from traditional IRA if you take substantially equal periodic payments. Complex but useful.
 
@@ -102,8 +102,8 @@ A challenge: traditional retirement accounts ([401(k)](/401k-plan), [traditional
 
 ### Closely related
 
-- [The four-percent rule](/the-four-percent-rule) — determines sustainable withdrawal rate
-- [Safe withdrawal rate](/safe-withdrawal-rate) — personalized four-percent rule
+- [The four-percent rule](/the-four-percent-rule/) — determines sustainable withdrawal rate
+- [Safe withdrawal rate](/safe-withdrawal-rate/) — personalized four-percent rule
 - Lean FIRE — FIRE variant with low spending
 - Fat FIRE — FIRE variant with high spending
 - Coast FIRE — semi-retirement variant
@@ -111,10 +111,10 @@ A challenge: traditional retirement accounts ([401(k)](/401k-plan), [traditional
 
 ### Wider context
 
-- [Savings rate](/savings-rate) — driver of FI timeline
-- [Pay yourself first](/pay-yourself-first) — achieving high savings rate
-- [Compound interest](/compound-interest) — growth from early investing
-- [Asset allocation](/asset-allocation) — portfolio strategy for long-term growth
+- [Savings rate](/savings-rate/) — driver of FI timeline
+- [Pay yourself first](/pay-yourself-first/) — achieving high savings rate
+- [Compound interest](/compound-interest/) — growth from early investing
+- [Asset allocation](/asset-allocation/) — portfolio strategy for long-term growth
 - Sequence of returns risk — risk in early retirement
 - Three-fund portfolio — simple investment approach
 

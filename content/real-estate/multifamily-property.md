@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers multifamily properties broadly. For single-family rental alternatives, see [single-family-rental](/single-family-rental). For institutional investment, see [residential REIT](/residential-reit). For the broader housing context, see [residential-real-estate](/residential-real-estate).
+This entry covers multifamily properties broadly. For single-family rental alternatives, see [single-family-rental](/single-family-rental/). For institutional investment, see [residential REIT](/residential-reit/). For the broader housing context, see [residential-real-estate](/residential-real-estate/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry covers multifamily properties broadly. For single-family rental alter
 
 A multifamily property is a collection of independent rental units under a single roof (or complex). A 100-unit apartment building might have a mix of 1-bedroom, 2-bedroom, and 3-bedroom units, each renting for $1,200–1,800/month. The property generates $120K–180K in monthly revenue ($1.4M–2.2M annually).
 
-From that revenue, the owner deducts operating costs: property taxes, insurance, maintenance, staffing, utilities, and management fees. The remainder is [net operating income (NOI)](/net-operating-income), which goes to servicing debt and producing investor returns.
+From that revenue, the owner deducts operating costs: property taxes, insurance, maintenance, staffing, utilities, and management fees. The remainder is [net operating income (NOI)](/net-operating-income/), which goes to servicing debt and producing investor returns.
 
 Multifamily properties are highly scalable: the largest REITs own 100,000+ units across multiple markets, leveraging centralized management and procurement to achieve high operating margins.
 
@@ -91,7 +91,7 @@ Class A commands lower cap rates (4–5%) because of stable, growing rents. Clas
 
 ## Value-add and development strategies
 
-Many real estate investors pursue [value-add strategies](/value-add-real-estate): buying Class B or C properties at cheaper prices, upgrading units and amenities, and resetting rents higher. A property bought at an $8K cap rate might be upgraded and resold at a $5K cap rate, producing strong returns.
+Many real estate investors pursue [value-add strategies](/value-add-real-estate/): buying Class B or C properties at cheaper prices, upgrading units and amenities, and resetting rents higher. A property bought at an $8K cap rate might be upgraded and resold at a $5K cap rate, producing strong returns.
 
 Ground-up development is another strategy: buying land, developing new units, leasing up, and holding or selling. Ground-up development is capital-intensive and requires execution skill but can produce strong returns in supply-constrained markets.
 
@@ -109,28 +109,28 @@ During recessions, unemployment rises and tenant defaults increase. REITs with e
 
 ### Property types
 
-- [Residential real estate](/residential-real-estate) — housing broadly
-- [Single-family rental](/single-family-rental) — alternative rental property type
-- [Build-to-rent](/build-to-rent) — new rental communities
-- [Condominium](/condominium) — condo ownership structure
+- [Residential real estate](/residential-real-estate/) — housing broadly
+- [Single-family rental](/single-family-rental/) — alternative rental property type
+- [Build-to-rent](/build-to-rent/) — new rental communities
+- [Condominium](/condominium/) — condo ownership structure
 
 ### Investment vehicles
 
-- [Residential REIT](/residential-reit) — institutional apartment ownership
+- [Residential REIT](/residential-reit/) — institutional apartment ownership
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — the return metric for multifamily properties
-- [Net operating income](/net-operating-income) — the cash multifamily generates
-- [Gross rent multiplier](/gross-rent-multiplier) — a quick valuation metric
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns for investors
+- [Cap rate](/cap-rate/) — the return metric for multifamily properties
+- [Net operating income](/net-operating-income/) — the cash multifamily generates
+- [Gross rent multiplier](/gross-rent-multiplier/) — a quick valuation metric
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns for investors
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects mortgage rates and affordability
-- [Inflation](/inflation) — multifamily rents are somewhat inflation-hedged
-- [Recession](/recession) — tenant defaults rise in downturns
-- [Asset allocation](/asset-allocation) — multifamily as a portfolio component
+- [Interest rate](/interest-rate/) — affects mortgage rates and affordability
+- [Inflation](/inflation/) — multifamily rents are somewhat inflation-hedged
+- [Recession](/recession/) — tenant defaults rise in downturns
+- [Asset allocation](/asset-allocation/) — multifamily as a portfolio component
 
 </div>

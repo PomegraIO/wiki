@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to overconfidence bias and selective memory. See also [illusion of skill](/illusion-of-skill).
+Related to overconfidence bias and selective memory. See also [illusion of skill](/illusion-of-skill/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to overconfidence bias and selective memory. See also [illusion of skill
 | **Also called** | "I knew it all along" effect, creeping determinism |
 | **Operates on** | Memory of past forecasts, confidence in current predictions |
 | **Investor impact** | Excessive confidence in forecasts; regret over missed moves; blame/credit misallocation |
-| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias), [outcome bias](/hindsight-bias) |
+| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias/), [outcome bias](/hindsight-bias/) |
 | **Evidence** | Vast literature showing hindsight bias in judgment |
 
 </aside>
@@ -57,7 +57,7 @@ Hindsight bias operates through several channels:
 
 ## Hindsight bias and overconfidence
 
-Hindsight bias feeds [overconfidence bias](/overconfidence-bias). Because past events seem predictable in hindsight, you become more confident in your ability to predict future events. You say "I called the last crash; I will call the next one." But your memory of calling the last crash is distorted. In reality, many people made conflicting calls, and chance determined whose call came true.
+Hindsight bias feeds [overconfidence bias](/overconfidence-bias/). Because past events seem predictable in hindsight, you become more confident in your ability to predict future events. You say "I called the last crash; I will call the next one." But your memory of calling the last crash is distorted. In reality, many people made conflicting calls, and chance determined whose call came true.
 
 ## Hindsight bias and accountability
 
@@ -85,18 +85,18 @@ Outcome bias is judging the quality of a decision by its outcome. A risky bet th
 
 ### Closely related
 
-- [Overconfidence bias](/overconfidence-bias) — fed by hindsight bias
-- [Illusion of skill](/illusion-of-skill) — mistaking luck for skill, amplified by hindsight
-- [Outcome bias](/hindsight-bias) — judging decisions by outcomes
-- [Regret aversion](/regret-aversion) — regret amplified by hindsight
-- [Confirmation bias](/confirmation-bias) — seeking confirming memories
+- [Overconfidence bias](/overconfidence-bias/) — fed by hindsight bias
+- [Illusion of skill](/illusion-of-skill/) — mistaking luck for skill, amplified by hindsight
+- [Outcome bias](/hindsight-bias/) — judging decisions by outcomes
+- [Regret aversion](/regret-aversion/) — regret amplified by hindsight
+- [Confirmation bias](/confirmation-bias/) — seeking confirming memories
 
 ### Wider context
 
-- [Market timing](/bull-market) — hindsight makes it look easier than it is
-- [Stock picking](/stock) — hindsight makes past picks look obvious
-- [Active management](/hedge-fund) — hindsight supports overconfidence in active management
-- [Base rate neglect](/base-rate-neglect) — ignoring how often similar events occurred before
+- [Market timing](/bull-market/) — hindsight makes it look easier than it is
+- [Stock picking](/stock/) — hindsight makes past picks look obvious
+- [Active management](/hedge-fund/) — hindsight supports overconfidence in active management
+- [Base rate neglect](/base-rate-neglect/) — ignoring how often similar events occurred before
 - Behavioral asset pricing — hindsight shapes beliefs about pricing
 
 </div>

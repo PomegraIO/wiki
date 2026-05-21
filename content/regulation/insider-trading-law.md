@@ -9,11 +9,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*Insider trading law prohibits buying or selling securities while in possession of material nonpublic information. The prohibition is enforced through the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934), primarily [Rule 10b-5](/rule-10b-5). Officers, directors, and large shareholders must disclose trades to the [SEC](/securities-and-exchange-commission). Violations can result in civil penalties, disgorgement, and criminal imprisonment. Insider trading prosecutions are among the SEC's highest-profile cases.*
+*Insider trading law prohibits buying or selling securities while in possession of material nonpublic information. The prohibition is enforced through the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/), primarily [Rule 10b-5](/rule-10b-5/). Officers, directors, and large shareholders must disclose trades to the [SEC](/securities-and-exchange-commission/). Violations can result in civil penalties, disgorgement, and criminal imprisonment. Insider trading prosecutions are among the SEC's highest-profile cases.*
 
 <div class="wiki-hatnote">
 
-Insider trading law covers trading on nonpublic material information. [Section 16(b) of the Securities Exchange Act](/short-swing-profit-rule) addresses short-swing profits, a separate insider-trading issue.
+Insider trading law covers trading on nonpublic material information. [Section 16(b) of the Securities Exchange Act](/short-swing-profit-rule/) addresses short-swing profits, a separate insider-trading issue.
 
 </div>
 
@@ -27,8 +27,8 @@ Insider trading law covers trading on nonpublic material information. [Section 1
 
 |   |   |
 |---|---|
-| **Primary statute** | [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) |
-| **Rule** | [Rule 10b-5](/rule-10b-5) (anti-fraud) |
+| **Primary statute** | [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) |
+| **Rule** | [Rule 10b-5](/rule-10b-5/) (anti-fraud) |
 | **Who violates** | Officers, directors, insiders, tippers, tippees |
 | **Disclosure required** | Form 4 (officer/director trades) within 2 business days |
 | **Penalties** | Disgorgement, civil penalties (up to 3x gains or losses), prison (up to 20 years criminal) |
@@ -43,7 +43,7 @@ Insiders include officers, directors, employees with access to confidential info
 
 ## Section 16 reporting: Form 4
 
-Section 16 of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) requires officers, directors, and shareholders holding 5% or more to file Form 4 within two business days of trading their company's securities. Form 4 is a public filing; anyone can see what insiders are buying and selling.
+Section 16 of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) requires officers, directors, and shareholders holding 5% or more to file Form 4 within two business days of trading their company's securities. Form 4 is a public filing; anyone can see what insiders are buying and selling.
 
 This transparency serves two purposes. First, it deters insider trading — insiders know their trades will be public and scrutinized. Second, it provides information to other investors — if an insider is buying heavily, that may be a bullish signal; if selling, it may be bearish.
 
@@ -83,11 +83,11 @@ Some economists argue insider trading should be permitted or at least decriminal
 
 ### Closely related
 
-- [Rule 10b-5](/rule-10b-5) — the rule that prohibits insider trading
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — the statute
+- [Rule 10b-5](/rule-10b-5/) — the rule that prohibits insider trading
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — the statute
 - Section 16 reporting — discloses insiders' trades
 - Material nonpublic information — the key element
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — enforces
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — enforces
 
 ### Wider context
 

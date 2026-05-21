@@ -39,7 +39,7 @@ image: "/svg/ratios.svg"
 
 EBITDA strips out depreciation, amortization, interest, and taxes — accounting and financing choices that vary across companies. What remains is operating cash earning power. This makes EBITDA margin useful for comparing companies with different capital structures, asset ages, and tax situations.
 
-A mature manufacturing company with old, depreciated assets shows high EBITDA margin and high [operating margin](/operating-margin). A young company with newly built factories shows the same EBITDA margin but lower operating margin (due to higher depreciation).
+A mature manufacturing company with old, depreciated assets shows high EBITDA margin and high [operating margin](/operating-margin/). A young company with newly built factories shows the same EBITDA margin but lower operating margin (due to higher depreciation).
 
 EBITDA margin is what lenders care about: can the business generate enough cash from operations to service debt and fund growth?
 
@@ -61,7 +61,7 @@ Example: A company with $1 billion revenue and $250 million EBITDA has EBITDA ma
 
 **M&A analysis.** Buyers focus on EBITDA margin because it shows sustainable cash earnings independent of financing.
 
-**Contrasting with depreciation intensity.** EBITDA margin that is much higher than [operating margin](/operating-margin) suggests high depreciation, indicating either capital-intensive operations or old assets.
+**Contrasting with depreciation intensity.** EBITDA margin that is much higher than [operating margin](/operating-margin/) suggests high depreciation, indicating either capital-intensive operations or old assets.
 
 ## When EBITDA margin breaks down
 
@@ -90,11 +90,11 @@ Understanding how the company moves through this waterfall is insightful. Fast E
 
 ### Closely related
 
-- [Operating margin](/operating-margin) — profitability before interest and taxes
-- [Gross profit margin](/gross-profit-margin) — before operating expenses
-- [Net profit margin](/net-profit-margin) — after all costs
-- EBIT · [EBITDA](/ebitda) — the source metrics
-- [EV/EBITDA](/ev-to-ebitda) — valuation multiple based on EBITDA
+- [Operating margin](/operating-margin/) — profitability before interest and taxes
+- [Gross profit margin](/gross-profit-margin/) — before operating expenses
+- [Net profit margin](/net-profit-margin/) — after all costs
+- EBIT · [EBITDA](/ebitda/) — the source metrics
+- [EV/EBITDA](/ev-to-ebitda/) — valuation multiple based on EBITDA
 
 ### Wider context
 

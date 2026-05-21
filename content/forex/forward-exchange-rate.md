@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **forward exchange rate** is the price at which two currencies will trade on a specified future date, locked in today. Unlike the [spot exchange rate](/spot-exchange-rate) — which is settled in two business days — a forward rate is typically fixed for a date weeks, months, or even years away. It is the fundamental building block of [FX hedging](/fx-forward) and [carry trades](/carry-trade).*
+*A **forward exchange rate** is the price at which two currencies will trade on a specified future date, locked in today. Unlike the [spot exchange rate](/spot-exchange-rate/) — which is settled in two business days — a forward rate is typically fixed for a date weeks, months, or even years away. It is the fundamental building block of [FX hedging](/fx-forward/) and [carry trades](/carry-trade/).*
 
 <div class="wiki-hatnote">
 
-For an exchange rate settled immediately, see [spot exchange rate](/spot-exchange-rate); for options-based protection, see [currency option](/currency-option).
+For an exchange rate settled immediately, see [spot exchange rate](/spot-exchange-rate/); for options-based protection, see [currency option](/currency-option/).
 
 </div>
 
@@ -40,13 +40,13 @@ For an exchange rate settled immediately, see [spot exchange rate](/spot-exchang
 
 ## How the forward rate is calculated
 
-The forward rate is not a guess about the future. It is a mechanical formula derived from the [spot exchange rate](/spot-exchange-rate) and interest-rate parity. If the euro [interest rate](/interest-rate) is 4% and the US dollar interest rate is 2%, then buying euros in a one-year forward will cost more in dollars than buying them spot — because a euro deposited for one year earns 4%, while a dollar deposited for one year earns only 2%. An arbitrageur can make a riskless profit by exploiting any deviation.
+The forward rate is not a guess about the future. It is a mechanical formula derived from the [spot exchange rate](/spot-exchange-rate/) and interest-rate parity. If the euro [interest rate](/interest-rate/) is 4% and the US dollar interest rate is 2%, then buying euros in a one-year forward will cost more in dollars than buying them spot — because a euro deposited for one year earns 4%, while a dollar deposited for one year earns only 2%. An arbitrageur can make a riskless profit by exploiting any deviation.
 
 The result: the forward rate is determined entirely by the interest-rate gap between the two currencies. A currency with a higher interest rate trades at a forward discount (costs less in forward). A currency with a lower interest rate trades at a forward premium (costs more in forward). This is not prediction; it is arithmetic.
 
 ## Bid-ask spreads on forwards
 
-Spot rates have tight spreads — a major pair like EUR/USD might spread only 1 [pip](/pip) in the wholesale market. Forward rates have much wider spreads, because the market is thinner and the risk of holding a position for months is higher. A one-year EUR/USD forward might trade 5–10 pips wide. Exotic pairs and longer tenors have even wider spreads.
+Spot rates have tight spreads — a major pair like EUR/USD might spread only 1 [pip](/pip/) in the wholesale market. Forward rates have much wider spreads, because the market is thinner and the risk of holding a position for months is higher. A one-year EUR/USD forward might trade 5–10 pips wide. Exotic pairs and longer tenors have even wider spreads.
 
 ## Uses: hedging and speculation
 
@@ -64,9 +64,9 @@ Most FX forwards trade at tenors out to one year. For longer periods — 2, 5, o
 
 ## Forward contracts vs. other instruments
 
-A [forward contract](/fx-forward) is a binding obligation. You must exchange the currencies on the settlement date, at the agreed-upon rate, regardless of what the spot rate has done in the meantime. This is different from a [currency option](/currency-option), which gives you the right — but not the obligation — to exchange currencies.
+A [forward contract](/fx-forward/) is a binding obligation. You must exchange the currencies on the settlement date, at the agreed-upon rate, regardless of what the spot rate has done in the meantime. This is different from a [currency option](/currency-option/), which gives you the right — but not the obligation — to exchange currencies.
 
-A [currency future](/currency-future) is similar in concept but trades on an exchange with standardized tenors and margin requirements. Forwards are over-the-counter and bespoke; futures are standardized and exchange-traded.
+A [currency future](/currency-future/) is similar in concept but trades on an exchange with standardized tenors and margin requirements. Forwards are over-the-counter and bespoke; futures are standardized and exchange-traded.
 
 ## Basis risk
 
@@ -78,16 +78,16 @@ When a company hedges a future cash flow with a forward, it faces basis risk: th
 
 ### Closely related
 
-- [Spot exchange rate](/spot-exchange-rate) — the starting point for all forwards
-- [FX Forward](/fx-forward) — the binding contract at a forward rate
-- [Currency option](/currency-option) — optional, not binding
-- [Pip](/pip) — the unit of measurement in forward quotes
+- [Spot exchange rate](/spot-exchange-rate/) — the starting point for all forwards
+- [FX Forward](/fx-forward/) — the binding contract at a forward rate
+- [Currency option](/currency-option/) — optional, not binding
+- [Pip](/pip/) — the unit of measurement in forward quotes
 - Interest rate parity — the formula that prices forwards
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — the key driver of forward rates
-- [Carry trade](/carry-trade) — using forwards to profit from rate differentials
+- [Interest rate](/interest-rate/) — the key driver of forward rates
+- [Carry trade](/carry-trade/) — using forwards to profit from rate differentials
 - Currency intervention — when central banks override forward markets
 
 </div>

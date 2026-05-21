@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For extremely fast algorithmic trading, see [high-frequency trading](/high-frequency-trading). For manual order placement, see [limit order](/limit-order) and [market order](/market-order).
+For extremely fast algorithmic trading, see [high-frequency trading](/high-frequency-trading/). For manual order placement, see [limit order](/limit-order/) and [market order](/market-order/).
 
 </div>
 
@@ -47,9 +47,9 @@ For extremely fast algorithmic trading, see [high-frequency trading](/high-frequ
 
 ## Common algorithmic strategies
 
-**VWAP (volume-weighted average price):** Slices the order to target executing at the day's [VWAP](/vwap-order). See [VWAP order](/vwap-order).
+**VWAP (volume-weighted average price):** Slices the order to target executing at the day's [VWAP](/vwap-order/). See [VWAP order](/vwap-order/).
 
-**TWAP (time-weighted average price):** Slices evenly over time. See [TWAP order](/twap-order).
+**TWAP (time-weighted average price):** Slices evenly over time. See [TWAP order](/twap-order/).
 
 **POV (participation of volume):** Execute at a percentage of the observed volume. If 1 million shares trade throughout the day, and you set POV to 10%, the algorithm buys or sells roughly 100,000 shares as the 1 million move through.
 
@@ -74,7 +74,7 @@ For extremely fast algorithmic trading, see [high-frequency trading](/high-frequ
 
 ## Smart order routing and algorithms
 
-A [smart order router](/smart-order-router) is a type of algorithm that:
+A [smart order router](/smart-order-router/) is a type of algorithm that:
 - Receives your order.
 - Checks prices on all available venues (lit exchanges, dark pools, etc.).
 - Routes your order to the venue(s) offering the best price.
@@ -125,10 +125,10 @@ Algo services are typically priced:
 
 ### Algorithmic orders and strategies
 
-- [VWAP order](/vwap-order) — volume-weighted execution
-- [TWAP order](/twap-order) — time-weighted execution
-- [Smart order router](/smart-order-router) — route to best venues
-- [Iceberg order](/iceberg-order) — simple algorithm
+- [VWAP order](/vwap-order/) — volume-weighted execution
+- [TWAP order](/twap-order/) — time-weighted execution
+- [Smart order router](/smart-order-router/) — route to best venues
+- [Iceberg order](/iceberg-order/) — simple algorithm
 
 ### Trading execution and impact
 
@@ -139,14 +139,14 @@ Algo services are typically priced:
 
 ### Market structure
 
-- [High-frequency trading](/high-frequency-trading) — extreme form of algo trading
+- [High-frequency trading](/high-frequency-trading/) — extreme form of algo trading
 - Order book — where algos find prices
-- [Best execution](/best-execution) — regulatory obligation for algos
+- [Best execution](/best-execution/) — regulatory obligation for algos
 
 ### Risk and regulation
 
 - Flash crash — algo-driven market event
-- [Systemic risk](/systemic-risk) — algos can amplify volatility
+- [Systemic risk](/systemic-risk/) — algos can amplify volatility
 - Backtesting — testing algos on historical data
 
 </div>

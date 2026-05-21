@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **closing auction** is the mechanism by which stock exchanges finalize trading at the end of each day. In the US, the closing auction occurs at exactly 4:00 PM Eastern Time. Similar to the [opening auction](/opening-auction-detail), it matches accumulated buy and sell orders to find a clearing price. The closing price is used for benchmark reporting, index calculations, [mutual fund](/mutual-fund) pricing, and portfolio statements.*
+*The **closing auction** is the mechanism by which stock exchanges finalize trading at the end of each day. In the US, the closing auction occurs at exactly 4:00 PM Eastern Time. Similar to the [opening auction](/opening-auction-detail/), it matches accumulated buy and sell orders to find a clearing price. The closing price is used for benchmark reporting, index calculations, [mutual fund](/mutual-fund/) pricing, and portfolio statements.*
 
 <div class="wiki-hatnote">
 
-This entry is about the mechanism closing each trading day. For the opening mechanism, see [opening auction](/opening-auction-detail); for trading after the close, see [after-hours trading](/after-hours-trading).
+This entry is about the mechanism closing each trading day. For the opening mechanism, see [opening auction](/opening-auction-detail/); for trading after the close, see [after-hours trading](/after-hours-trading/).
 
 </div>
 
@@ -44,7 +44,7 @@ This entry is about the mechanism closing each trading day. For the opening mech
 
 As 4:00 PM approaches, orders that will participate in the closing auction accumulate. The exchange publishes a "closing indication" — an estimate of where the closing price will be.
 
-At exactly 4:00 PM, the auction executes. Orders are matched at a single price (the clearing price), similar to the opening auction. All orders at or beyond the clearing price are filled; orders outside are converted to regular orders for the [after-hours](/after-hours-trading) session.
+At exactly 4:00 PM, the auction executes. Orders are matched at a single price (the clearing price), similar to the opening auction. All orders at or beyond the clearing price are filled; orders outside are converted to regular orders for the [after-hours](/after-hours-trading/) session.
 
 The closing price is then disseminated immediately to the market and reported to all data providers, news outlets, and investor platforms.
 
@@ -64,7 +64,7 @@ The closing price is the official price for the day. It serves multiple purposes
 
 ## Behavior near the close
 
-The last few minutes of [regular trading hours](/regular-trading-hours) can be volatile:
+The last few minutes of [regular trading hours](/regular-trading-hours/) can be volatile:
 
 **Algorithmic trading.** Some strategies are programmed to trade as close to the close as possible, creating order flow in the final moments.
 
@@ -76,9 +76,9 @@ The last few minutes of [regular trading hours](/regular-trading-hours) can be v
 
 ## Closing auctions vs. continuous trading
 
-The closing auction is a discrete event, like the [opening auction](/opening-auction-detail). Rather than orders matching continuously as they arrive, a batch of orders executes at a single price at 4:00 PM sharp.
+The closing auction is a discrete event, like the [opening auction](/opening-auction-detail/). Rather than orders matching continuously as they arrive, a batch of orders executes at a single price at 4:00 PM sharp.
 
-This is different from how trading occurs during [regular trading hours](/regular-trading-hours), which is a continuous auction where orders are matched as they arrive.
+This is different from how trading occurs during [regular trading hours](/regular-trading-hours/), which is a continuous auction where orders are matched as they arrive.
 
 The closing auction approach ensures that everyone closing their positions at the end of the day receives a fair, transparent price without being subject to the volatility of individual last trades.
 
@@ -97,21 +97,21 @@ In rare cases, trading is halted before the closing auction occurs. If material 
 
 If the close is canceled due to a technical issue, the previous day's closing price stands, and all trades from that session are voided. This is extraordinarily rare but has occurred a handful of times in exchange history.
 
-## [After-hours](/after-hours-trading) trading after the close
+## [After-hours](/after-hours-trading/) trading after the close
 
-After the closing auction executes at 4:00 PM, [after-hours](/after-hours-trading) trading begins. The [after-hours](/after-hours-trading) price may diverge significantly from the closing price, particularly if major news breaks during the [after-hours](/after-hours-trading) session (e.g., earnings surprises).
+After the closing auction executes at 4:00 PM, [after-hours](/after-hours-trading/) trading begins. The [after-hours](/after-hours-trading/) price may diverge significantly from the closing price, particularly if major news breaks during the [after-hours](/after-hours-trading/) session (e.g., earnings surprises).
 
-However, the closing price remains the official price for the day, regardless of [after-hours](/after-hours-trading) moves.
+However, the closing price remains the official price for the day, regardless of [after-hours](/after-hours-trading/) moves.
 
 ## Closing prices and next-day opening
 
-The closing price of one day often influences the [opening price](/opening-auction-detail) of the next day, but they are not rigidly connected. If the closing price is $100 and overnight news is positive, the stock might open the next day at $102.
+The closing price of one day often influences the [opening price](/opening-auction-detail/) of the next day, but they are not rigidly connected. If the closing price is $100 and overnight news is positive, the stock might open the next day at $102.
 
 Conversely, if closing was $100 but overnight international markets crash, the stock might open at $97.
 
 ## Importance for retirement accounts
 
-For [mutual funds](/mutual-fund) and retirement accounts ([401(k)](/mutual-fund)s, [IRAs](/mutual-fund)), the closing price is used to calculate the fund's NAV and the investor's account value. Many investors check their account values at the close to assess daily performance.
+For [mutual funds](/mutual-fund/) and retirement accounts ([401(k)](/mutual-fund/)s, [IRAs](/mutual-fund/)), the closing price is used to calculate the fund's NAV and the investor's account value. Many investors check their account values at the close to assess daily performance.
 
 This makes the closing price the most important price of the day for portfolio tracking and daily returns calculations.
 
@@ -121,18 +121,18 @@ This makes the closing price the most important price of the day for portfolio t
 
 ### Closely related
 
-- [Opening auction](/opening-auction-detail) — the day's opening counterpart
-- [Regular trading hours](/regular-trading-hours) — the trading period preceding the close
-- [After-hours trading](/after-hours-trading) — trading after the close
-- [Price discovery](/stock-market) — enabled by the closing auction
-- [Stock exchange](/stock-exchange) — the venue conducting the auction
+- [Opening auction](/opening-auction-detail/) — the day's opening counterpart
+- [Regular trading hours](/regular-trading-hours/) — the trading period preceding the close
+- [After-hours trading](/after-hours-trading/) — trading after the close
+- [Price discovery](/stock-market/) — enabled by the closing auction
+- [Stock exchange](/stock-exchange/) — the venue conducting the auction
 
 ### Wider context
 
-- [Stock](/stock) — what closes each day
-- [Index](/sp-500-index) — calculated using closing prices
-- [Mutual fund](/mutual-fund) — values determined by closing prices
-- [Asset allocation](/asset-allocation) — rebalanced at the close
-- [Liquidity](/secondary-market) — high at the closing auction
+- [Stock](/stock/) — what closes each day
+- [Index](/sp-500-index/) — calculated using closing prices
+- [Mutual fund](/mutual-fund/) — values determined by closing prices
+- [Asset allocation](/asset-allocation/) — rebalanced at the close
+- [Liquidity](/secondary-market/) — high at the closing auction
 
 </div>

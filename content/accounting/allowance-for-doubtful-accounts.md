@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **allowance for doubtful accounts** is a reserve on the [balance sheet](/balance-sheet) that reduces [accounts receivable](/accounts-receivable) to its net realizable value — the amount the company actually expects to collect. When revenue is recognized under [accrual-accounting](/accrual-accounting), some customers inevitably fail to pay. Rather than waiting to know exactly which amounts will not be collected, accounting standards require companies to estimate the uncollectible percentage upfront and create a reserve. The difference between the allowance and what is actually uncollected is the bad-debt-expense on the [income statement](/income-statement).*
+*The **allowance for doubtful accounts** is a reserve on the [balance sheet](/balance-sheet/) that reduces [accounts receivable](/accounts-receivable/) to its net realizable value — the amount the company actually expects to collect. When revenue is recognized under [accrual-accounting](/accrual-accounting/), some customers inevitably fail to pay. Rather than waiting to know exactly which amounts will not be collected, accounting standards require companies to estimate the uncollectible percentage upfront and create a reserve. The difference between the allowance and what is actually uncollected is the bad-debt-expense on the [income statement](/income-statement/).*
 
 <div class="wiki-hatnote">
 
-This entry covers the allowance reserve. For the income statement charge, see bad-debt-expense. For the asset itself, see [accounts-receivable](/accounts-receivable).
+This entry covers the allowance reserve. For the income statement charge, see bad-debt-expense. For the asset itself, see [accounts-receivable](/accounts-receivable/).
 
 </div>
 
@@ -39,7 +39,7 @@ This entry covers the allowance reserve. For the income statement charge, see ba
 
 ## How the allowance works
 
-The company carries [accounts receivable](/accounts-receivable) at gross value, then deducts the allowance to show net receivable value. Example:
+The company carries [accounts receivable](/accounts-receivable/) at gross value, then deducts the allowance to show net receivable value. Example:
 
 - Gross accounts receivable: $100 million
 - Allowance for doubtful accounts: ($3 million)
@@ -90,9 +90,9 @@ A careful reading of these disclosures reveals how the company treats credit ris
 
 ## Relationship to bad debt expense
 
-The bad-debt-expense on the [income statement](/income-statement) is the change in the allowance during the period (plus direct write-offs, if any). If the allowance grows from $2 million to $3 million, the expense is $1 million. This expense reduces net income.
+The bad-debt-expense on the [income statement](/income-statement/) is the change in the allowance during the period (plus direct write-offs, if any). If the allowance grows from $2 million to $3 million, the expense is $1 million. This expense reduces net income.
 
-Note: This is different from [cash-basis-accounting](/cash-basis-accounting), where bad debt expense only appears when the amount is actually written off.
+Note: This is different from [cash-basis-accounting](/cash-basis-accounting/), where bad debt expense only appears when the amount is actually written off.
 
 ## See also
 
@@ -100,17 +100,17 @@ Note: This is different from [cash-basis-accounting](/cash-basis-accounting), wh
 
 ### Closely related
 
-- [Accounts receivable](/accounts-receivable) — the asset being reserved
+- [Accounts receivable](/accounts-receivable/) — the asset being reserved
 - Bad debt expense — the income statement charge
-- [Balance sheet](/balance-sheet) — where the allowance is shown
-- [Accrual accounting](/accrual-accounting) — basis for the allowance
-- [Revenue recognition](/revenue-recognition) — creates the receivable
+- [Balance sheet](/balance-sheet/) — where the allowance is shown
+- [Accrual accounting](/accrual-accounting/) — basis for the allowance
+- [Revenue recognition](/revenue-recognition/) — creates the receivable
 
 ### Context
 
 - CECL — the current expected credit loss standard
 - Earnings management — allowance is a tool
 - Credit policy — affects allowance
-- [Footnote disclosure](/footnote-disclosure) — where policy is explained
+- [Footnote disclosure](/footnote-disclosure/) — where policy is explained
 
 </div>

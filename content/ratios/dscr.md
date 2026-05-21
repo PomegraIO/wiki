@@ -83,8 +83,8 @@ A company with DSCR above 2.0 is well-positioned. One below 1.25 is at risk of c
 
 ### Closely related
 
-- [Interest-coverage-ratio](/interest-coverage-ratio) — earnings-based debt test
-- [Fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio) — broader obligations
+- [Interest-coverage-ratio](/interest-coverage-ratio/) — earnings-based debt test
+- [Fixed-charge-coverage-ratio](/fixed-charge-coverage-ratio/) — broader obligations
 - Operating cash flow — the numerator
 - Debt service
 

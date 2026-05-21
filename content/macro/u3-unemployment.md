@@ -10,7 +10,7 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*U-3 unemployment is the [unemployment rate](/unemployment-rate) as officially calculated and reported by the US Bureau of Labor Statistics. It counts people who have actively searched for work in the past four weeks but have not found a job. It is the most widely cited single measure of labor market health.*
+*U-3 unemployment is the [unemployment rate](/unemployment-rate/) as officially calculated and reported by the US Bureau of Labor Statistics. It counts people who have actively searched for work in the past four weeks but have not found a job. It is the most widely cited single measure of labor market health.*
 
 <div class="wiki-hatnote">
 
@@ -85,13 +85,13 @@ Several critiques of U-3 exist:
 - **Quality is ignored.** The rate says nothing about whether jobs are good or bad.
 - **It misses gig workers.** Workers with inconsistent gig income may be misclassified.
 
-For these reasons, many economists prefer the [employment-population ratio](/employment-population-ratio) as a cleaner measure, or pair U-3 with U-6 and other metrics.
+For these reasons, many economists prefer the [employment-population ratio](/employment-population-ratio/) as a cleaner measure, or pair U-3 with U-6 and other metrics.
 
 ## U-3 and the business cycle
 
 U-3 is highly cyclical:
 
-- **Booms:** 3.5–3.8% (near the [natural rate](/natural-rate-of-unemployment))
+- **Booms:** 3.5–3.8% (near the [natural rate](/natural-rate-of-unemployment/))
 - **Normal expansions:** 4–5%
 - **Early recessions:** Rises to 6–7%
 - **Severe recessions:** Reaches 8–10% or higher
@@ -100,12 +100,12 @@ The Great Recession (2007-09) pushed U-3 to 10.0% — the highest since the Grea
 
 ## U-3, inflation, and policy
 
-The [Federal Reserve](/federal-reserve) uses U-3 (in conjunction with other indicators) to guide monetary policy. The relationship to inflation is through the Phillips curve:
+The [Federal Reserve](/federal-reserve/) uses U-3 (in conjunction with other indicators) to guide monetary policy. The relationship to inflation is through the Phillips curve:
 
-- **If U-3 < [natural rate](/natural-rate-of-unemployment):** [Inflation](/inflation) likely accelerating → tighten policy.
-- **If U-3 > [natural rate](/natural-rate-of-unemployment):** [Inflation](/inflation) likely decelerating → ease policy.
+- **If U-3 < [natural rate](/natural-rate-of-unemployment/):** [Inflation](/inflation/) likely accelerating → tighten policy.
+- **If U-3 > [natural rate](/natural-rate-of-unemployment/):** [Inflation](/inflation/) likely decelerating → ease policy.
 
-The challenge: the [natural rate](/natural-rate-of-unemployment) is unobservable and estimated with considerable uncertainty. Is it 3.8%? 4.0%? 4.3%? This debate drives major policy decisions.
+The challenge: the [natural rate](/natural-rate-of-unemployment/) is unobservable and estimated with considerable uncertainty. Is it 3.8%? 4.0%? 4.3%? This debate drives major policy decisions.
 
 ## Recent US trends
 
@@ -122,18 +122,18 @@ Whether the low rates of 2023 reflected true tightness or measurement issues (la
 
 ### Closely related
 
-- [Unemployment rate](/unemployment-rate) — the broader concept
-- [U-6 unemployment](/u6-unemployment) — broader measure
-- [Labor force participation rate](/labor-force-participation-rate) — denominator
-- [Employment-population ratio](/employment-population-ratio) — alternative metric
-- [Natural rate of unemployment](/natural-rate-of-unemployment) — the stable level
+- [Unemployment rate](/unemployment-rate/) — the broader concept
+- [U-6 unemployment](/u6-unemployment/) — broader measure
+- [Labor force participation rate](/labor-force-participation-rate/) — denominator
+- [Employment-population ratio](/employment-population-ratio/) — alternative metric
+- [Natural rate of unemployment](/natural-rate-of-unemployment/) — the stable level
 
 ### Broader context
 
-- [Frictional unemployment](/frictional-unemployment) — always present
-- [Structural unemployment](/structural-unemployment) — skills mismatch
-- [Cyclical unemployment](/cyclical-unemployment) — demand-driven
+- [Frictional unemployment](/frictional-unemployment/) — always present
+- [Structural unemployment](/structural-unemployment/) — skills mismatch
+- [Cyclical unemployment](/cyclical-unemployment/) — demand-driven
 - Phillips curve — unemployment and inflation link
-- [Recession](/recession) — sharp rise in unemployment
+- [Recession](/recession/) — sharp rise in unemployment
 
 </div>

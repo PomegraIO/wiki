@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **standard lot** is 100,000 units of the base currency in a [currency pair](/currency-pair). When trading EUR/USD at a [spot rate](/spot-exchange-rate) of 1.0850, a standard lot represents 100,000 euros and $108,500 of exposure. A 1-[pip](/pip) move equals $10 in profit or loss. Standard lots are the default size in interbank markets and institutional trading.*
+*A **standard lot** is 100,000 units of the base currency in a [currency pair](/currency-pair/). When trading EUR/USD at a [spot rate](/spot-exchange-rate/) of 1.0850, a standard lot represents 100,000 euros and $108,500 of exposure. A 1-[pip](/pip/) move equals $10 in profit or loss. Standard lots are the default size in interbank markets and institutional trading.*
 
 <div class="wiki-hatnote">
 
-For smaller sizes suited to retail traders, see [mini lot](/mini-lot) and [micro lot](/micro-lot); for the total capital required, see [forex margin](/forex-margin).
+For smaller sizes suited to retail traders, see [mini lot](/mini-lot/) and [micro lot](/micro-lot/); for the total capital required, see [forex margin](/forex-margin/).
 
 </div>
 
@@ -39,7 +39,7 @@ For smaller sizes suited to retail traders, see [mini lot](/mini-lot) and [micro
 
 ## The economics of a standard lot
 
-The math is simple and fixed. On EUR/USD at 1.0850, a standard lot is worth $108,500. On USD/JPY at 150.50, a standard lot is worth $1,505,000 (because you are buying dollars, and 100,000 dollars is the base). On any pair, each [pip](/pip) of movement is $10 (for non-yen pairs; yen pairs have a different calculation due to the different pip definition, but the result is usually $10 as well).
+The math is simple and fixed. On EUR/USD at 1.0850, a standard lot is worth $108,500. On USD/JPY at 150.50, a standard lot is worth $1,505,000 (because you are buying dollars, and 100,000 dollars is the base). On any pair, each [pip](/pip/) of movement is $10 (for non-yen pairs; yen pairs have a different calculation due to the different pip definition, but the result is usually $10 as well).
 
 A 50-pip move in your favor is $500. A 100-pip loss against you is $1,000. This is why position sizing matters: on a $10,000 account, a single standard-lot trade that moves 100 pips against you wipes out 10% of your capital.
 
@@ -49,7 +49,7 @@ Banks and institutional trading desks deal in standard lots (and multiples there
 
 Retail traders with accounts in the $100,000+ range also trade standard lots, either as a single position or as a fraction of their overall portfolio. A retail trader with $50,000 might trade 0.5 standard lots — the equivalent of 50,000 units — which yields $5 per pip.
 
-The barrier to entry is not regulatory but practical: the [margin](/forex-margin) required to hold a standard lot with 50:1 leverage is around $2,000. Traders with smaller accounts cannot afford it and shift to mini or micro lots instead.
+The barrier to entry is not regulatory but practical: the [margin](/forex-margin/) required to hold a standard lot with 50:1 leverage is around $2,000. Traders with smaller accounts cannot afford it and shift to mini or micro lots instead.
 
 ## Standard lot vs. mini and micro
 
@@ -64,9 +64,9 @@ So a trader moving from standard lots to mini lots gains granularity and can exp
 
 ## Execution and liquidity
 
-On [major currency pairs](/major-currency-pair) like EUR/USD, a single standard lot executes instantly with a tight [spread](/forex-spread). The interbank market is so deep that thousands of standard lots trade every second.
+On [major currency pairs](/major-currency-pair/) like EUR/USD, a single standard lot executes instantly with a tight [spread](/forex-spread/). The interbank market is so deep that thousands of standard lots trade every second.
 
-On [exotic pairs](/exotic-currency-pair), a standard lot may require negotiation. A dealer might take 30 seconds to quote; the spread might be 10–20 [pips](/pip) wide; execution might slip. This is why retail traders avoid standard-lot size on exotics and stick to mini or micro lots.
+On [exotic pairs](/exotic-currency-pair/), a standard lot may require negotiation. A dealer might take 30 seconds to quote; the spread might be 10–20 [pips](/pip/) wide; execution might slip. This is why retail traders avoid standard-lot size on exotics and stick to mini or micro lots.
 
 ## See also
 
@@ -74,16 +74,16 @@ On [exotic pairs](/exotic-currency-pair), a standard lot may require negotiation
 
 ### Closely related
 
-- [Lot size](/lot-size-forex) — overview of all sizes
-- [Mini lot](/mini-lot) — one-tenth of a standard lot
-- [Micro lot](/micro-lot) — one-hundredth of a standard lot
-- [Pip](/pip) — standard lot pip value is $10
-- [Forex margin](/forex-margin) — capital required for standard lots
+- [Lot size](/lot-size-forex/) — overview of all sizes
+- [Mini lot](/mini-lot/) — one-tenth of a standard lot
+- [Micro lot](/micro-lot/) — one-hundredth of a standard lot
+- [Pip](/pip/) — standard lot pip value is $10
+- [Forex margin](/forex-margin/) — capital required for standard lots
 
 ### Wider context
 
-- [Major currency pair](/major-currency-pair) — where standard lots are most liquid
-- [Exotic currency pair](/exotic-currency-pair) — where standard lots face friction
-- [Forex leverage](/forex-leverage) — amplifies standard-lot exposure
+- [Major currency pair](/major-currency-pair/) — where standard lots are most liquid
+- [Exotic currency pair](/exotic-currency-pair/) — where standard lots face friction
+- [Forex leverage](/forex-leverage/) — amplifies standard-lot exposure
 
 </div>

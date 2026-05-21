@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **exotic FX option** is any [currency option](/currency-option) that is not a simple vanilla call or put. Exotic options have special features — barriers, lookbacks, Asian averages — that change how they pay off. Exotics are typically cheaper than [vanilla options](/vanilla-fx-option) (the feature usually reduces value) and are tailored to specific hedging needs.*
+*An **exotic FX option** is any [currency option](/currency-option/) that is not a simple vanilla call or put. Exotic options have special features — barriers, lookbacks, Asian averages — that change how they pay off. Exotics are typically cheaper than [vanilla options](/vanilla-fx-option/) (the feature usually reduces value) and are tailored to specific hedging needs.*
 
 <div class="wiki-hatnote">
 
-For standard options, see [vanilla FX option](/vanilla-fx-option); for the broader professional market, see [FX option](/fx-option).
+For standard options, see [vanilla FX option](/vanilla-fx-option/); for the broader professional market, see [FX option](/fx-option/).
 
 </div>
 
@@ -91,16 +91,16 @@ The cost and difficulty of hedging is what the bank passes on to the client as t
 
 ### Closely related
 
-- [Currency option](/currency-option) — conceptual foundation
-- [Vanilla FX Option](/vanilla-fx-option) — the simpler alternative
-- [FX Option](/fx-option) — professional exotic options
-- [FX Volatility Surface](/fx-volatility-surface) — pricing basis for exotics
-- [Spot exchange rate](/spot-exchange-rate) — reference for exotic payoffs
+- [Currency option](/currency-option/) — conceptual foundation
+- [Vanilla FX Option](/vanilla-fx-option/) — the simpler alternative
+- [FX Option](/fx-option/) — professional exotic options
+- [FX Volatility Surface](/fx-volatility-surface/) — pricing basis for exotics
+- [Spot exchange rate](/spot-exchange-rate/) — reference for exotic payoffs
 
 ### Wider context
 
-- [Risk management](/diversification) — why companies use exotics
-- [Interest rate](/interest-rate) — affects exotic pricing
-- [Broker](/broker) — access to exotic markets
+- [Risk management](/diversification/) — why companies use exotics
+- [Interest rate](/interest-rate/) — affects exotic pricing
+- [Broker](/broker/) — access to exotic markets
 
 </div>

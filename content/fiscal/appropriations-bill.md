@@ -14,7 +14,7 @@ image: "/svg/fiscal.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers spending authorization. For temporary funding when appropriations fail, see [continuing resolution](/continuing-resolution); for bundled appropriations, see [omnibus spending bill](/omnibus-spending-bill); for automatic vs. discretionary spending, see [discretionary spending](/discretionary-spending).
+This entry covers spending authorization. For temporary funding when appropriations fail, see [continuing resolution](/continuing-resolution/); for bundled appropriations, see [omnibus spending bill](/omnibus-spending-bill/); for automatic vs. discretionary spending, see [discretionary spending](/discretionary-spending/).
 
 </div>
 
@@ -30,8 +30,8 @@ This entry covers spending authorization. For temporary funding when appropriati
 |---|---|
 | **Number per year** | 12 (ideally) |
 | **Covers** | Specific departments or functions (Defense, Interior, Commerce, etc.) |
-| **Determines** | How much [discretionary spending](/discretionary-spending) each agency receives |
-| **Applies to** | [Discretionary spending](/discretionary-spending) only, not [mandatory spending](/mandatory-spending) |
+| **Determines** | How much [discretionary spending](/discretionary-spending/) each agency receives |
+| **Applies to** | [Discretionary spending](/discretionary-spending/) only, not [mandatory spending](/mandatory-spending/) |
 | **Duration** | One fiscal year (October 1 – September 30) |
 | **Deadline** | September 30 of prior fiscal year |
 | **Must pass by** | Or government may shut down |
@@ -43,11 +43,11 @@ This entry covers spending authorization. For temporary funding when appropriati
 
 The US federal budget divides spending into two categories:
 
-**[Mandatory spending](/mandatory-spending):** Set by law (Social Security, Medicare, [entitlements](/entitlement-spending)). Congress authorized these programs years ago; they run on autopilot, spending whatever is needed to serve eligible beneficiaries.
+**[Mandatory spending](/mandatory-spending/):** Set by law (Social Security, Medicare, [entitlements](/entitlement-spending/)). Congress authorized these programs years ago; they run on autopilot, spending whatever is needed to serve eligible beneficiaries.
 
-**[Discretionary spending](/discretionary-spending):** Agencies must request funding, and Congress must explicitly authorize (appropriate) it each year. This includes defense, infrastructure, education, research, and countless other programs.
+**[Discretionary spending](/discretionary-spending/):** Agencies must request funding, and Congress must explicitly authorize (appropriate) it each year. This includes defense, infrastructure, education, research, and countless other programs.
 
-An appropriations bill is Congress's tool for authorizing [discretionary spending](/discretionary-spending). For each agency covered, the bill specifies:
+An appropriations bill is Congress's tool for authorizing [discretionary spending](/discretionary-spending/). For each agency covered, the bill specifies:
 
 - How much the agency may spend (in total)
 - Sub-allocations to different programs within the agency
@@ -83,7 +83,7 @@ The process ideally works like this:
 4. **September:** Both chambers pass their versions; conference committees resolve differences.
 5. **September 30:** Final bills are signed before the fiscal year ends.
 
-In reality, partisan gridlock, policy disputes, and scheduling conflicts often delay the process, forcing Congress to use [continuing resolutions](/continuing-resolution) or [omnibus bills](/omnibus-spending-bill) instead.
+In reality, partisan gridlock, policy disputes, and scheduling conflicts often delay the process, forcing Congress to use [continuing resolutions](/continuing-resolution/) or [omnibus bills](/omnibus-spending-bill/) instead.
 
 ## Appropriations and policy
 
@@ -107,23 +107,23 @@ This gives Congress two levers over programs: authorization (creates the program
 
 ### Closely related
 
-- [Discretionary spending](/discretionary-spending) — what appropriations bills fund
-- [Mandatory spending](/mandatory-spending) — spending appropriations bills do not cover
-- [Budget deficit](/budget-deficit) — appropriations contribute to deficits when spending exceeds revenue
-- [Continuing resolution](/continuing-resolution) — temporary measure when appropriations fail
+- [Discretionary spending](/discretionary-spending/) — what appropriations bills fund
+- [Mandatory spending](/mandatory-spending/) — spending appropriations bills do not cover
+- [Budget deficit](/budget-deficit/) — appropriations contribute to deficits when spending exceeds revenue
+- [Continuing resolution](/continuing-resolution/) — temporary measure when appropriations fail
 
 ### Congressional processes
 
-- [Omnibus spending bill](/omnibus-spending-bill) — bundled appropriations bills
-- [Government shutdown](/government-shutdown) — what occurs if appropriations do not pass
-- [Sequestration](/sequestration) — automatic cuts to appropriations
-- [Fiscal cliff](/fiscal-cliff) — fiscal crisis involving appropriations deadlines
+- [Omnibus spending bill](/omnibus-spending-bill/) — bundled appropriations bills
+- [Government shutdown](/government-shutdown/) — what occurs if appropriations do not pass
+- [Sequestration](/sequestration/) — automatic cuts to appropriations
+- [Fiscal cliff](/fiscal-cliff/) — fiscal crisis involving appropriations deadlines
 
 ### Spending mechanisms
 
-- [Transfer payment](/transfer-payment) — part of [mandatory spending](/mandatory-spending), not appropriated
-- [Entitlement spending](/entitlement-spending) — not subject to annual appropriations
-- [Fiscal policy contractionary](/fiscal-policy-contractionary) — achieved partly through reduced appropriations
-- [Central bank](/central-bank) — often has independent budget authority, not subject to annual appropriations
+- [Transfer payment](/transfer-payment/) — part of [mandatory spending](/mandatory-spending/), not appropriated
+- [Entitlement spending](/entitlement-spending/) — not subject to annual appropriations
+- [Fiscal policy contractionary](/fiscal-policy-contractionary/) — achieved partly through reduced appropriations
+- [Central bank](/central-bank/) — often has independent budget authority, not subject to annual appropriations
 
 </div>

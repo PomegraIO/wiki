@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Stress testing is the practice of assessing portfolio losses under extreme market scenarios — scenarios that are severe and plausible but may not have occurred in recent history. Unlike [value-at-risk](/value-at-risk), which relies on historical distributions, stress testing explicitly imagines catastrophic but foreseeable conditions and calculates the damage.*
+*Stress testing is the practice of assessing portfolio losses under extreme market scenarios — scenarios that are severe and plausible but may not have occurred in recent history. Unlike [value-at-risk](/value-at-risk/), which relies on historical distributions, stress testing explicitly imagines catastrophic but foreseeable conditions and calculates the damage.*
 
 <div class="wiki-hatnote">
 
-This entry covers stress testing methodology. For structured, named scenarios, see [scenario-analysis](/scenario-analysis); for measurement of typical losses, see [value-at-risk](/value-at-risk).
+This entry covers stress testing methodology. For structured, named scenarios, see [scenario-analysis](/scenario-analysis/); for measurement of typical losses, see [value-at-risk](/value-at-risk/).
 
 </div>
 
@@ -31,7 +31,7 @@ This entry covers stress testing methodology. For structured, named scenarios, s
 | **What it is** | Assessment of losses under extreme but plausible scenarios |
 | **Time period** | Usually short-term (1-10 days) for market stress |
 | **Scenarios** | Historical crises, constructed extremes, or hypothetical shocks |
-| **Purpose** | Find exposures to tail risks; test limits of [value-at-risk](/value-at-risk) models |
+| **Purpose** | Find exposures to tail risks; test limits of [value-at-risk](/value-at-risk/) models |
 | **Regulatory requirement** | Mandatory for banks; increasingly required for hedge funds, asset managers |
 | **Advantage** | Captures risks models miss; no distributional assumptions |
 | **Limitation** | Scenarios are subjective; no clear probability attached |
@@ -90,9 +90,9 @@ Regulators use stress testing to ensure banks can survive severe crises. The US 
 - Credit spreads widen sharply.
 - Interest rates change (rise or fall) by various amounts.
 
-Banks must prove they would remain solvent and profitable in these scenarios. This is [capital adequacy](/capital-adequacy) stress testing.
+Banks must prove they would remain solvent and profitable in these scenarios. This is [capital adequacy](/capital-adequacy/) stress testing.
 
-## Stress testing versus [value-at-risk](/value-at-risk)
+## Stress testing versus [value-at-risk](/value-at-risk/)
 
 **VaR:**
 - Based on historical distributions.
@@ -106,7 +106,7 @@ Banks must prove they would remain solvent and profitable in these scenarios. Th
 - Assesses loss under a specific extreme event.
 - Does not require distributional assumptions.
 - Slower (requires scenario construction and manual calculation).
-- Can explore [tail-risk](/tail-risk) scenarios not in history.
+- Can explore [tail-risk](/tail-risk/) scenarios not in history.
 
 They are complementary. Use VaR for typical risk management and limit-setting. Use stress testing to explore tail risks and ensure preparedness.
 
@@ -114,7 +114,7 @@ They are complementary. Use VaR for typical risk management and limit-setting. U
 
 1. **Identify key risks.** What factors drive portfolio value? Rates? Spreads? Stock prices? FX?
 
-2. **Choose scenarios.** Pick scenarios that stress your key risks. If you hold long-duration [bonds](/bond), stress a rate rise. If you hold corporate bonds, stress a credit crisis.
+2. **Choose scenarios.** Pick scenarios that stress your key risks. If you hold long-duration [bonds](/bond/), stress a rate rise. If you hold corporate bonds, stress a credit crisis.
 
 3. **Determine relationships.** How do holdings respond to the scenario? A 30% stock decline does what to volatility, spreads, and correlations?
 
@@ -134,7 +134,7 @@ They are complementary. Use VaR for typical risk management and limit-setting. U
 
 **Liquidity illusion.** Stress tests assume you can sell at stressed prices. In reality, during extreme stress, liquidity evaporates and you cannot sell at any price.
 
-Despite these, stress testing is essential for risk management, especially for exposures to [tail-risk](/tail-risk) and tail-risk scenarios not in historical data.
+Despite these, stress testing is essential for risk management, especially for exposures to [tail-risk](/tail-risk/) and tail-risk scenarios not in historical data.
 
 ## See also
 
@@ -142,24 +142,24 @@ Despite these, stress testing is essential for risk management, especially for e
 
 ### Closely related
 
-- [Scenario-analysis](/scenario-analysis) — structured assessment of named scenarios
-- [Reverse-stress-test](/reverse-stress-test) — work backwards from unacceptable loss
-- [Value-at-risk](/value-at-risk) — complements stress testing
-- [Expected-shortfall](/expected-shortfall) — alternative risk metric
-- [Tail-risk](/tail-risk) — what stress testing aims to assess
+- [Scenario-analysis](/scenario-analysis/) — structured assessment of named scenarios
+- [Reverse-stress-test](/reverse-stress-test/) — work backwards from unacceptable loss
+- [Value-at-risk](/value-at-risk/) — complements stress testing
+- [Expected-shortfall](/expected-shortfall/) — alternative risk metric
+- [Tail-risk](/tail-risk/) — what stress testing aims to assess
 
 ### Regulatory context
 
-- [Capital-adequacy](/capital-adequacy) — stress testing ensures capital is sufficient
-- [Basel-capital](/basel-capital) — regulatory framework that mandates stress testing
-- [Federal Reserve](/federal-reserve) — conducts CCAR stress tests
+- [Capital-adequacy](/capital-adequacy/) — stress testing ensures capital is sufficient
+- [Basel-capital](/basel-capital/) — regulatory framework that mandates stress testing
+- [Federal Reserve](/federal-reserve/) — conducts CCAR stress tests
 - Risk-weighted-assets — stress testing informs capital requirements
 - Liquidity-coverage-ratio — another regulatory metric stress-tested
 
 ### Scenario examples
 
-- [Black-swan](/black-swan) — unpredictable extreme events
-- [Gray-swan](/gray-swan) — foreseeable but hard-to-model catastrophic risks
-- [Fat-tail-risk](/fat-tail-risk) — distributions have fatter tails than normal
+- [Black-swan](/black-swan/) — unpredictable extreme events
+- [Gray-swan](/gray-swan/) — foreseeable but hard-to-model catastrophic risks
+- [Fat-tail-risk](/fat-tail-risk/) — distributions have fatter tails than normal
 
 </div>

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Dodd-Frank Wall Street Reform and Consumer Protection Act**, enacted in 2010, is the most comprehensive overhaul of financial regulation since the Depression. It created the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau), imposed strict capital standards on banks, brought over-the-counter derivatives under regulation, prohibited proprietary trading, and created mechanisms for orderly liquidation of failing firms. Dodd-Frank is alternately praised as a necessary safeguard and criticized as an overreach that stifles credit.*
+*The **Dodd-Frank Wall Street Reform and Consumer Protection Act**, enacted in 2010, is the most comprehensive overhaul of financial regulation since the Depression. It created the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau/), imposed strict capital standards on banks, brought over-the-counter derivatives under regulation, prohibited proprietary trading, and created mechanisms for orderly liquidation of failing firms. Dodd-Frank is alternately praised as a necessary safeguard and criticized as an overreach that stifles credit.*
 
 <div class="wiki-hatnote">
 
-Dodd-Frank is a 2010 act. The [Sarbanes-Oxley Act](/sarbanes-oxley-act) (2002) dealt with corporate disclosure. The [Glass-Steagall Act](/glass-steagall-act) (1933) separated investment banking from commercial banking; Dodd-Frank did not reinstate it.
+Dodd-Frank is a 2010 act. The [Sarbanes-Oxley Act](/sarbanes-oxley-act/) (2002) dealt with corporate disclosure. The [Glass-Steagall Act](/glass-steagall-act/) (1933) separated investment banking from commercial banking; Dodd-Frank did not reinstate it.
 
 </div>
 
@@ -40,7 +40,7 @@ Dodd-Frank is a 2010 act. The [Sarbanes-Oxley Act](/sarbanes-oxley-act) (2002) d
 
 ## The Consumer Financial Protection Bureau
 
-Dodd-Frank created the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau) (CFPB), an independent agency housed within the Federal Reserve with authority to regulate consumer lending, credit cards, payday loans, and other consumer financial products. The CFPB has rulemaking authority, examination authority, and enforcement authority. It can bring civil actions against firms engaging in unfair, deceptive, or abusive practices.
+Dodd-Frank created the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau/) (CFPB), an independent agency housed within the Federal Reserve with authority to regulate consumer lending, credit cards, payday loans, and other consumer financial products. The CFPB has rulemaking authority, examination authority, and enforcement authority. It can bring civil actions against firms engaging in unfair, deceptive, or abusive practices.
 
 The CFPB's creation was controversial. Banks objected to its broad jurisdiction and singular director (unlike other agencies, which have multi-member boards). Conservatives argued the agency was unaccountable. However, it has become a major force in consumer protection, pursuing cases against predatory lenders, debt servicers, and debt collectors.
 
@@ -54,17 +54,17 @@ These standards have substantially increased the amount of capital banks must ho
 
 Before 2008, derivatives — swaps, options, structured products — were largely unregulated, trading over-the-counter (OTC) between counterparties. The crisis revealed that derivative exposures had become opaque and interconnected; firms did not know their total risk, and cascading failures were possible.
 
-Dodd-Frank brought derivatives under regulation. Most standardized derivatives must now trade on regulated exchanges and clear through clearinghouses (central counterparties that guarantee every trade). The SEC and [CFTC](/commodity-futures-trading-commission) jointly regulate dealers. Non-standard derivatives can still be traded OTC but must be reported to regulatories.
+Dodd-Frank brought derivatives under regulation. Most standardized derivatives must now trade on regulated exchanges and clear through clearinghouses (central counterparties that guarantee every trade). The SEC and [CFTC](/commodity-futures-trading-commission/) jointly regulate dealers. Non-standard derivatives can still be traded OTC but must be reported to regulatories.
 
 The "Volcker Rule" (Section 619) prohibits proprietary trading — banks cannot trade for their own account (only for customers). The rule aims to prevent banks from taking big bets that could blow them up. However, the line between proprietary trading and market-making (trading for customers) is blurry, and the rule has been subject to years of implementation debate.
 
 ## Orderly liquidation authority and systemic risk
 
-Dodd-Frank gave the [FDIC](/federal-deposit-insurance-corporation) authority to conduct an "orderly liquidation" of a failing financial company that poses systemic risk. If the company is too big to fail (a bank failure would trigger cascades elsewhere), the FDIC can temporarily take control, inject capital, sell the firm in parts, and unwind it in a way that minimizes contagion. This "living wills" approach was meant to replace the ad-hoc bailouts of the 2008 crisis with a more structured process.
+Dodd-Frank gave the [FDIC](/federal-deposit-insurance-corporation/) authority to conduct an "orderly liquidation" of a failing financial company that poses systemic risk. If the company is too big to fail (a bank failure would trigger cascades elsewhere), the FDIC can temporarily take control, inject capital, sell the firm in parts, and unwind it in a way that minimizes contagion. This "living wills" approach was meant to replace the ad-hoc bailouts of the 2008 crisis with a more structured process.
 
 ## The Financial Stability Oversight Council
 
-[FSOC](/financial-stability-oversight-council), created by Dodd-Frank, brings together heads of all financial regulators to monitor systemic risk and designate systemically important financial institutions (SIFIs) for enhanced supervision. This was meant to address a key crisis lesson: regulators had been siloed and did not talk; no one saw the systemic risk building.
+[FSOC](/financial-stability-oversight-council/), created by Dodd-Frank, brings together heads of all financial regulators to monitor systemic risk and designate systemically important financial institutions (SIFIs) for enhanced supervision. This was meant to address a key crisis lesson: regulators had been siloed and did not talk; no one saw the systemic risk building.
 
 ## Dodd-Frank's rollback
 
@@ -76,11 +76,11 @@ Starting in 2017, the Trump administration and Republican Congress rolled back p
 
 ### Closely related
 
-- [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau) — created by Dodd-Frank
-- [Financial Stability Oversight Council](/financial-stability-oversight-council) — created by Dodd-Frank
-- [Volcker Rule](/volcker-rule) — prohibits proprietary trading
-- [Basel III](/basel-iii) — capital standards implemented via Dodd-Frank
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administrator
+- [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau/) — created by Dodd-Frank
+- [Financial Stability Oversight Council](/financial-stability-oversight-council/) — created by Dodd-Frank
+- [Volcker Rule](/volcker-rule/) — prohibits proprietary trading
+- [Basel III](/basel-iii/) — capital standards implemented via Dodd-Frank
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administrator
 
 ### Wider context
 

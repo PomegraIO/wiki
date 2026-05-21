@@ -79,16 +79,16 @@ He proved that macro trading, often dismissed as speculation, could be systemati
 
 ### Closely related
 
-- [George Soros](/george-soros) — His mentor and partner
-- [Paul Tudor Jones](/paul-tudor-jones) — A contemporary macro trader
-- [Ray Dalio](/ray-dalio) — The modern arch-macro investor
-- [Jim Rogers](/jim-rogers) — Another macro-focused investor
+- [George Soros](/george-soros/) — His mentor and partner
+- [Paul Tudor Jones](/paul-tudor-jones/) — A contemporary macro trader
+- [Ray Dalio](/ray-dalio/) — The modern arch-macro investor
+- [Jim Rogers](/jim-rogers/) — Another macro-focused investor
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — The vehicle for his approach
+- [Hedge fund](/hedge-fund/) — The vehicle for his approach
 - Macro trading — His specialty
-- [Interest rate](/interest-rate) — A key lever in his thesis
+- [Interest rate](/interest-rate/) — A key lever in his thesis
 - Currency — Often central to his positions
 
 </div>

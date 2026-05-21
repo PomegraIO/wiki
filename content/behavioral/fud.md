@@ -10,11 +10,11 @@ keywords:
 image: "/svg/behavioral.svg"
 ---
 
-*FUD — fear, uncertainty, and doubt — refers to the spread of negative information, whether factual or speculative, that triggers panic selling and market declines. In its worst form, FUD is pure psychology disconnected from fundamentals; in its milder form, it is the overweighting of bad news relative to its actual importance. FUD is the opposite of [FOMO](/fomo), but equally destructive.*
+*FUD — fear, uncertainty, and doubt — refers to the spread of negative information, whether factual or speculative, that triggers panic selling and market declines. In its worst form, FUD is pure psychology disconnected from fundamentals; in its milder form, it is the overweighting of bad news relative to its actual importance. FUD is the opposite of [FOMO](/fomo/), but equally destructive.*
 
 <div class="wiki-hatnote">
 
-The converse of FOMO. Related to panic and [bear markets](/bear-market).
+The converse of FOMO. Related to panic and [bear markets](/bear-market/).
 
 </div>
 
@@ -29,10 +29,10 @@ The converse of FOMO. Related to panic and [bear markets](/bear-market).
 |   |   |
 |---|---|
 | **What it is** | Fear, uncertainty, and doubt driving panic selling |
-| **Opposite of** | [FOMO](/fomo) |
+| **Opposite of** | [FOMO](/fomo/) |
 | **Peak intensity** | At market bottoms, after sharp declines |
 | **Investor impact** | Selling near lows; missing recoveries; procyclical selling |
-| **Related phenomenon** | Panic, [regret aversion](/regret-aversion) |
+| **Related phenomenon** | Panic, [regret aversion](/regret-aversion/) |
 | **Historical examples** | 2008 financial crisis, 2020 COVID crash, 2022 rate shock |
 
 </aside>
@@ -45,13 +45,13 @@ FUD operates through several channels:
 
 **Speculative bad news.** Rumors, possibilities, and hypothetical scenarios spread. "What if interest rates spike?" "What if the economy enters recession?" These questions, discussed endlessly by media and market commentators, create uncertainty. Uncertainty drives selling, regardless of whether the feared scenario is likely.
 
-**Loss aversion amplification.** [Loss aversion](/loss-aversion) means bad news hits harder emotionally than good news of equal magnitude. A 2% decline on a currency shock feels more painful than a 2% gain on earnings growth feels good. This asymmetry amplifies FUD.
+**Loss aversion amplification.** [Loss aversion](/loss-aversion/) means bad news hits harder emotionally than good news of equal magnitude. A 2% decline on a currency shock feels more painful than a 2% gain on earnings growth feels good. This asymmetry amplifies FUD.
 
-**Cascade of selling.** Once selling begins, it feeds on itself. Seeing prices fall, [loss-averse](/loss-aversion) investors sell to avoid further losses. This selling pushes prices down more, triggering more selling. The cascade becomes self-sustaining, independent of the initial news.
+**Cascade of selling.** Once selling begins, it feeds on itself. Seeing prices fall, [loss-averse](/loss-aversion/) investors sell to avoid further losses. This selling pushes prices down more, triggering more selling. The cascade becomes self-sustaining, independent of the initial news.
 
 ## FUD in market cycles
 
-FUD is most intense at market bottoms, exactly when buying opportunities are greatest. A [bear market](/bear-market) generates an endless stream of negative headlines. The longer the bear market lasts, the more dire the commentary becomes.
+FUD is most intense at market bottoms, exactly when buying opportunities are greatest. A [bear market](/bear-market/) generates an endless stream of negative headlines. The longer the bear market lasts, the more dire the commentary becomes.
 
 In 2008, FUD was suffocating. Every news cycle brought new horrors: banks collapsing, unemployment spiking, housing prices in free fall. The fear was justified in some respects — the crisis was real. But the cascade of FUD drove valuations to absurd lows, creating a generational buying opportunity for those with nerve.
 
@@ -59,13 +59,13 @@ In March 2020, during the COVID crash, FUD was acute. Lockdowns were announced, 
 
 ## FUD and regret aversion
 
-FUD pairs with [regret aversion](/regret-aversion) to create panic selling. An investor holding a stock watches it crash 40%. She fears regret — "if I hold and it crashes another 40%, I will regret not selling." So she sells. FUD has convinced her the risk of further loss is greater than it actually is.
+FUD pairs with [regret aversion](/regret-aversion/) to create panic selling. An investor holding a stock watches it crash 40%. She fears regret — "if I hold and it crashes another 40%, I will regret not selling." So she sells. FUD has convinced her the risk of further loss is greater than it actually is.
 
 After the panic, the stock often rebounds. The seller missed the rebound. The regret of selling too early combines with the regret of missing the rebound. The psychology is tortuous.
 
 ## FUD vs. reasonable caution
 
-Not all negative sentiment is FUD. Sometimes pessimism is warranted. [Valuations](/price-to-earnings-ratio) can be genuinely stretched, and corrections can be justified. The distinction is subtle:
+Not all negative sentiment is FUD. Sometimes pessimism is warranted. [Valuations](/price-to-earnings-ratio/) can be genuinely stretched, and corrections can be justified. The distinction is subtle:
 
 **Reasonable caution:** "Valuations are 30% above historical averages, and interest rates are rising. I am reducing exposure to reduce risk."
 
@@ -83,10 +83,10 @@ During 2022's bear market, the phrase "recession is inevitable" was repeated end
 
 - **Separate signal from noise.** Distinguish actual bad news (earnings miss, management change) from speculative worry (what-if scenarios). React to signal; ignore noise.
 - **Remember: bear markets are buying opportunities.** When FUD is highest, valuations are lowest. Force yourself to ask: given current valuations, is this a buying opportunity? The answer is often yes.
-- **Trust your [asset allocation](/asset-allocation) and rebalancing rule.** When FUD hits and you are tempted to sell, follow your rebalancing rule instead. It tells you whether to sell or hold based on allocation, not on fear.
+- **Trust your [asset allocation](/asset-allocation/) and rebalancing rule.** When FUD hits and you are tempted to sell, follow your rebalancing rule instead. It tells you whether to sell or hold based on allocation, not on fear.
 - **Look at the evidence.** During FUD, the default prediction is dire. But historical evidence says bear markets end and recoveries follow. Review the timeline: how often has the feared disaster actually occurred?
 - **Limit news consumption.** Turn off financial news during crashes. It is designed to amplify fear. You do not need hourly updates on how bad things are.
-- **Use averaging.** If you are holding cash and [FUD](/fud) has created a buying opportunity, deploy it gradually (dollar-cost averaging). This lowers the risk that you buy the very bottom and then feel FUD about that purchase.
+- **Use averaging.** If you are holding cash and [FUD](/fud/) has created a buying opportunity, deploy it gradually (dollar-cost averaging). This lowers the risk that you buy the very bottom and then feel FUD about that purchase.
 
 ## See also
 
@@ -94,18 +94,18 @@ During 2022's bear market, the phrase "recession is inevitable" was repeated end
 
 ### Closely related
 
-- [FOMO](/fomo) — the opposite fear
-- [Regret aversion](/regret-aversion) — fear of regretted decisions
-- [Loss aversion](/loss-aversion) — bad news hits harder
+- [FOMO](/fomo/) — the opposite fear
+- [Regret aversion](/regret-aversion/) — fear of regretted decisions
+- [Loss aversion](/loss-aversion/) — bad news hits harder
 - Panic — collective fear selling
-- [Bear market](/bear-market) — where FUD reigns
+- [Bear market](/bear-market/) — where FUD reigns
 
 ### Wider context
 
 - Madness of crowds — collective panic
 - Market sentiment indicators — FUD measured as low sentiment
 - Animal spirits — Keynes's concept of fear and euphoria cycles
-- [Recession](/recession) — genuine risk that FUD amplifies
+- [Recession](/recession/) — genuine risk that FUD amplifies
 - Behavioral asset pricing — how FUD distorts prices below fundamentals
 
 </div>

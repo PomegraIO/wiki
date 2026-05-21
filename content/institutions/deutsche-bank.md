@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Deutsche Bank AG** is Germany's largest [bank](/broker) and a major global financial institution, headquartered in Frankfurt. Operating through corporate banking, investment banking, wealth management, and asset management divisions, Deutsche Bank serves corporations, governments, sovereigns, and institutional investors worldwide and is a leading European [investment bank](/broker).*
+*The **Deutsche Bank AG** is Germany's largest [bank](/broker/) and a major global financial institution, headquartered in Frankfurt. Operating through corporate banking, investment banking, wealth management, and asset management divisions, Deutsche Bank serves corporations, governments, sovereigns, and institutional investors worldwide and is a leading European [investment bank](/broker/).*
 
 <div class="wiki-hatnote">
 
@@ -47,7 +47,7 @@ Deutsche Bank's prominence is intertwined with German history — the bank finan
 
 ## Investment banking and capital markets
 
-Deutsche Bank is one of Europe's leading [investment banks](/broker), advising on major mergers and acquisitions, raising capital, and trading in equities, fixed-income, and derivatives. The firm ranks among the top global investment banks in advisory and capital markets.
+Deutsche Bank is one of Europe's leading [investment banks](/broker/), advising on major mergers and acquisitions, raising capital, and trading in equities, fixed-income, and derivatives. The firm ranks among the top global investment banks in advisory and capital markets.
 
 Investment banking and capital markets operations are significant revenue sources but also volatile and capital-intensive.
 
@@ -57,7 +57,7 @@ Deutsche Bank serves German and international corporations with lending, treasur
 
 ## Wealth management and asset management
 
-Deutsche Bank operates wealth management and asset management divisions, though these are smaller than at competitors like [UBS](/ubs) or [Goldman Sachs](/goldman-sachs). The firm manages hundreds of billions in assets for institutions and ultra-high-net-worth individuals.
+Deutsche Bank operates wealth management and asset management divisions, though these are smaller than at competitors like [UBS](/ubs/) or [Goldman Sachs](/goldman-sachs/). The firm manages hundreds of billions in assets for institutions and ultra-high-net-worth individuals.
 
 ## Recent challenges and restructuring
 
@@ -83,20 +83,20 @@ Christian Sewing, who became CEO in 2018, has focused on stabilizing the firm, r
 
 ### Closely related
 
-- [Bank](/broker) — the category
-- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse) — affiliate
-- [UBS](/ubs) — Swiss competitor
-- [Goldman Sachs](/goldman-sachs) — investment banking competitor
-- [JPMorgan Chase](/jpmorgan-chase) — international competitor
+- [Bank](/broker/) — the category
+- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse/) — affiliate
+- [UBS](/ubs/) — Swiss competitor
+- [Goldman Sachs](/goldman-sachs/) — investment banking competitor
+- [JPMorgan Chase](/jpmorgan-chase/) — international competitor
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — clients
 - Trading — profit source
-- [Central bank](/central-bank) — ECB oversight
+- [Central bank](/central-bank/) — ECB oversight
 - Financial center — Frankfurt role
 
 </div>

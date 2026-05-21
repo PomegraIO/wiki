@@ -10,11 +10,11 @@ keywords:
 image: "/svg/history.svg"
 ---
 
-*The **Bretton Woods Agreement**, negotiated in July 1944 at a conference in New Hampshire, established the institutional and monetary framework for the postwar world. Under Bretton Woods, the US dollar was pegged to gold at $35 per ounce, and all other currencies were pegged to the dollar. It was an attempt to combine the discipline of the [gold standard](/gold-standard) with enough flexibility to avoid the rigidity that had worsened the Great Depression.*
+*The **Bretton Woods Agreement**, negotiated in July 1944 at a conference in New Hampshire, established the institutional and monetary framework for the postwar world. Under Bretton Woods, the US dollar was pegged to gold at $35 per ounce, and all other currencies were pegged to the dollar. It was an attempt to combine the discipline of the [gold standard](/gold-standard/) with enough flexibility to avoid the rigidity that had worsened the Great Depression.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Bretton Woods system. For its collapse, see [Nixon Shock](/nixon-shock); for the floating-rate system that followed, see [floating exchange rate](/floating-exchange-rate).
+This entry covers the Bretton Woods system. For its collapse, see [Nixon Shock](/nixon-shock/); for the floating-rate system that followed, see [floating exchange rate](/floating-exchange-rate/).
 
 </div>
 
@@ -77,15 +77,15 @@ The collapse of Bretton Woods and the shift to floating exchange rates that foll
 
 ### Closely related
 
-- [Nixon Shock](/nixon-shock) — the 1971 collapse of Bretton Woods
-- [Gold standard](/gold-standard) — the predecessor system
-- [Fixed exchange rate](/fixed-exchange-rate) — the Bretton Woods mechanism
+- [Nixon Shock](/nixon-shock/) — the 1971 collapse of Bretton Woods
+- [Gold standard](/gold-standard/) — the predecessor system
+- [Fixed exchange rate](/fixed-exchange-rate/) — the Bretton Woods mechanism
 
 ### Wider context
 
 - International Monetary Fund — created by the agreement
 - World Bank — also created by the agreement
-- [Floating exchange rate](/floating-exchange-rate) — the system that followed
+- [Floating exchange rate](/floating-exchange-rate/) — the system that followed
 - Currency crisis — what happened without the peg
 - Triffin dilemma — the contradiction that doomed it
 

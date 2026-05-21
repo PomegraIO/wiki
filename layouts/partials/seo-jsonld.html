@@ -1,0 +1,145 @@
+{{/* JSON-LD structured data — separate <script> blocks rather than a graph
+     so individual parsers (Google, Bing, social previews) can pick the
+     entities they care about without parsing the whole envelope.
+
+     Emitted on every page:
+       Organization, WebSite (with SearchAction), BreadcrumbList
+     Additional on articles:
+       Article + DefinedTerm (the article IS a glossary entry).
+*/}}
+
+{{ $org := dict
+  "@context" "https://schema.org"
+  "@type"    "Organization"
+  "name"     .Site.Params.org.name
+  "url"      .Site.Params.org.url
+  "logo"     .Site.Params.org.logo
+  "sameAs"   .Site.Params.org.sameAs
+}}
+<script type="application/ld+json">{{ $org | jsonify | safeJS }}</script>
+
+{{ $website := dict
+  "@context"    "https://schema.org"
+  "@type"       "WebSite"
+  "@id"         (printf "%s#website" .Site.BaseURL)
+  "url"         .Site.BaseURL
+  "name"        .Site.Title
+  "description" .Site.Params.description
+  "inLanguage"  (.Site.LanguageCode | default "en-us")
+  "publisher"   (dict "@type" "Organization" "name" .Site.Params.org.name "url" .Site.Params.org.url)
+  "potentialAction" (dict
+    "@type"  "SearchAction"
+    "target" (dict
+      "@type"       "EntryPoint"
+      "urlTemplate" (printf "%s?q={search_term_string}" .Site.BaseURL))
+    "query-input" "required name=search_term_string")
+}}
+<script type="application/ld+json">{{ $website | jsonify | safeJS }}</script>
+
+{{/* ── Breadcrumbs: Home › Section › Page ──────────────────────────── */}}
+{{ $crumbs := slice }}
+{{ $home := dict
+  "@type"    "ListItem"
+  "position" 1
+  "name"     "Pomegra Wiki"
+  "item"     .Site.BaseURL
+}}
+{{ $crumbs = $crumbs | append $home }}
+{{ if and (not .IsHome) .Section }}
+  {{ $sectionLabel := humanize .Section }}
+  {{ $crumbs = $crumbs | append (dict
+    "@type"    "ListItem"
+    "position" 2
+    "name"     $sectionLabel
+    "item"     (printf "%s%s/" .Site.BaseURL .Section)) }}
+{{ end }}
+{{ if and (not .IsHome) .Title }}
+  {{ $pos := add (len $crumbs) 1 }}
+  {{ $crumbs = $crumbs | append (dict
+    "@type"    "ListItem"
+    "position" $pos
+    "name"     .Title
+    "item"     .Permalink) }}
+{{ end }}
+{{ if gt (len $crumbs) 1 }}
+{{ $breadcrumb := dict
+  "@context"        "https://schema.org"
+  "@type"           "BreadcrumbList"
+  "itemListElement" $crumbs
+}}
+<script type="application/ld+json">{{ $breadcrumb | jsonify | safeJS }}</script>
+{{ end }}
+
+{{/* ── Per-page: Article + DefinedTerm for glossary entries ────────── */}}
+{{ if and .IsPage (ne .Section "") }}
+  {{ $desc := cond (ne (string .Description) "") (string .Description) (cond (ne (string .Summary) "") (string .Summary) "") }}
+  {{ $desc = truncate 300 (plainify $desc) }}
+  {{ $imgPath := cond (ne (string .Params.image) "") (string .Params.image) (.Site.Params.ogImage | default "/img/og-default.png") }}
+  {{ $img := partial "absolute-url.html" $imgPath }}
+  {{ $rt := math.Max 1 (math.Ceil (div (float .WordCount) 225.0)) }}
+
+  {{ $article := dict
+    "@context"        "https://schema.org"
+    "@type"           "Article"
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+    "headline"        .Title
+    "name"            .Title
+    "description"     $desc
+    "image"           (slice $img)
+    "datePublished"   (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified"    ((default .Date .Lastmod).Format "2006-01-02T15:04:05Z07:00")
+    "wordCount"       .WordCount
+    "timeRequired"    (printf "PT%dM" (int $rt))
+    "inLanguage"      (.Site.LanguageCode | default "en-us")
+    "url"             .Permalink
+    "articleSection"  (humanize .Section)
+    "isAccessibleForFree" true
+    "isPartOf"        (dict "@type" "WebSite" "@id" (printf "%s#website" .Site.BaseURL) "name" .Site.Title)
+    "publisher"       (dict
+      "@type" "Organization"
+      "name"  .Site.Params.org.name
+      "url"   .Site.Params.org.url
+      "logo"  (dict "@type" "ImageObject" "url" .Site.Params.org.logo))
+    "author"          (dict
+      "@type" "Organization"
+      "name"  .Site.Params.org.name
+      "url"   .Site.Params.org.url)
+  }}
+  {{ with .Params.tags }}
+    {{ $article = merge $article (dict "keywords" (delimit . ", ")) }}
+  {{ end }}
+  <script type="application/ld+json">{{ $article | jsonify | safeJS }}</script>
+
+  {{/* DefinedTerm: marks this entry as a glossary/encyclopedia term so
+       Google can render it inside Knowledge Panel + glossary widgets. */}}
+  {{ $term := dict
+    "@context"     "https://schema.org"
+    "@type"        "DefinedTerm"
+    "name"         .Title
+    "description"  $desc
+    "url"          .Permalink
+    "inDefinedTermSet" (dict
+      "@type" "DefinedTermSet"
+      "name"  .Site.Title
+      "url"   .Site.BaseURL)
+  }}
+  <script type="application/ld+json">{{ $term | jsonify | safeJS }}</script>
+{{ end }}
+
+{{/* ── Home gets CollectionPage to advertise the catalogue ─────────── */}}
+{{ if .IsHome }}
+  {{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" "Atlas" }}
+  {{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
+  {{ $collection := dict
+    "@context"      "https://schema.org"
+    "@type"         "CollectionPage"
+    "name"          .Site.Title
+    "description"   .Site.Params.description
+    "url"           .Site.BaseURL
+    "inLanguage"    (.Site.LanguageCode | default "en-us")
+    "numberOfItems" (len $entries)
+    "isPartOf"      (dict "@type" "WebSite" "@id" (printf "%s#website" .Site.BaseURL))
+    "publisher"     (dict "@type" "Organization" "name" .Site.Params.org.name "url" .Site.Params.org.url)
+  }}
+  <script type="application/ld+json">{{ $collection | jsonify | safeJS }}</script>
+{{ end }}

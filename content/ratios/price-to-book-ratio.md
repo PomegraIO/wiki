@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers a balance-sheet valuation metric. For an earnings-based ratio, see [price-to-earnings ratio](/price-to-earnings-ratio).
+This entry covers a balance-sheet valuation metric. For an earnings-based ratio, see [price-to-earnings ratio](/price-to-earnings-ratio/).
 
 </div>
 
@@ -41,7 +41,7 @@ This entry covers a balance-sheet valuation metric. For an earnings-based ratio,
 
 ## The intuition behind the ratio
 
-If you liquidated a company tomorrow, sold every asset at fair market value, and paid off every debt, the shareholders would get book value per share. The [price-to-book ratio](/price-to-book-ratio) asks: how much are investors willing to pay for that claim?
+If you liquidated a company tomorrow, sold every asset at fair market value, and paid off every debt, the shareholders would get book value per share. The [price-to-book ratio](/price-to-book-ratio/) asks: how much are investors willing to pay for that claim?
 
 If a company is worth more alive than dead — which nearly every profitable business is — then P/B will exceed 1.0. The ratio works best for companies with lots of tangible assets: banks (loans and securities), manufacturers (factories and inventory), utilities (power plants), and real estate firms. For these businesses, the balance sheet is the truth.
 
@@ -98,9 +98,9 @@ Trading below book is not a buy signal; it is a smell test. You must investigate
 
 Most investors do not rely on P/B alone. Instead, they combine it with other metrics:
 
-- For a bank: P/B together with [return-on-assets](/return-on-assets), [return-on-equity](/return-on-equity), and net interest margin.
+- For a bank: P/B together with [return-on-assets](/return-on-assets/), [return-on-equity](/return-on-equity/), and net interest margin.
 - For a real estate company: P/B together with funds-from-operations per share and dividend yield.
-- For a manufacturer: P/B together with [return-on-invested-capital](/return-on-invested-capital) and asset turnover.
+- For a manufacturer: P/B together with [return-on-invested-capital](/return-on-invested-capital/) and asset turnover.
 
 A company with a high P/B but also high return on equity is likely cheaper than the raw multiple suggests; a company with a low P/B but also declining returns may be a value trap.
 
@@ -110,16 +110,16 @@ A company with a high P/B but also high return on equity is likely cheaper than 
 
 ### Closely related
 
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the earnings-based alternative
-- [Price-to-sales ratio](/price-to-sales-ratio) — another accounting-agnostic metric
-- [Return on assets](/return-on-assets) — how much profit the company generates per dollar of assets
-- [Return on equity](/return-on-equity) — the return on shareholder capital
-- [Market capitalization](/market-capitalization) — the total price being valued
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the earnings-based alternative
+- [Price-to-sales ratio](/price-to-sales-ratio/) — another accounting-agnostic metric
+- [Return on assets](/return-on-assets/) — how much profit the company generates per dollar of assets
+- [Return on equity](/return-on-equity/) — the return on shareholder capital
+- [Market capitalization](/market-capitalization/) — the total price being valued
 
 ### Wider context
 
-- [Balance sheet](/balance-sheet) — where book value comes from
-- [Asset allocation](/asset-allocation) — why you own stocks in the first place
-- [Diversification](/diversification) — spreading risk across sectors and P/B ratios
+- [Balance sheet](/balance-sheet/) — where book value comes from
+- [Asset allocation](/asset-allocation/) — why you own stocks in the first place
+- [Diversification](/diversification/) — spreading risk across sectors and P/B ratios
 
 </div>

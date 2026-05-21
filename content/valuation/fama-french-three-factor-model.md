@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **Fama-French three-factor model** extends the [capital asset pricing model](/capital-asset-pricing-model) by adding two additional factors beyond market risk. It says that cost of equity depends not just on how a stock moves with the overall market, but also on its size (small stocks return more) and its value characteristics (cheap stocks return more). For many investors, it is a more accurate cost-of-equity estimator than basic CAPM.*
+*The **Fama-French three-factor model** extends the [capital asset pricing model](/capital-asset-pricing-model/) by adding two additional factors beyond market risk. It says that cost of equity depends not just on how a stock moves with the overall market, but also on its size (small stocks return more) and its value characteristics (cheap stocks return more). For many investors, it is a more accurate cost-of-equity estimator than basic CAPM.*
 
 ## The three factors
 
@@ -86,27 +86,27 @@ That 6 percentage point difference swings valuation substantially. Whether to us
 
 ### Closely related
 
-- [Capital asset pricing model](/capital-asset-pricing-model) — the base model
-- [Cost of equity](/cost-of-equity) — what this estimates
-- [Beta](/beta) — one of three factors
-- [Market risk premium](/market-risk-premium) — the market factor premium
-- [Equity risk premium](/equity-risk-premium) — related premium concept
+- [Capital asset pricing model](/capital-asset-pricing-model/) — the base model
+- [Cost of equity](/cost-of-equity/) — what this estimates
+- [Beta](/beta/) — one of three factors
+- [Market risk premium](/market-risk-premium/) — the market factor premium
+- [Equity risk premium](/equity-risk-premium/) — related premium concept
 
 ### Extensions
 
-- [Carhart four-factor model](/carhart-four-factor-model) — adds momentum
-- [Fama-French five-factor model](/fama-french-five-factor-model) — adds profitability and investment
-- [Arbitrage pricing theory](/arbitrage-pricing-theory) — multifactor alternative
+- [Carhart four-factor model](/carhart-four-factor-model/) — adds momentum
+- [Fama-French five-factor model](/fama-french-five-factor-model/) — adds profitability and investment
+- [Arbitrage pricing theory](/arbitrage-pricing-theory/) — multifactor alternative
 
 ### Alternatives
 
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive approach
-- [Dividend discount model](/dividend-discount-model) — implied return approach
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive approach
+- [Dividend discount model](/dividend-discount-model/) — implied return approach
 
 ### Valuation application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates cost of equity
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing different cost-of-equity estimates
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates cost of equity
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing different cost-of-equity estimates
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **leveraged ETF** is an [ETF](/etf) designed to deliver multiples of the daily return of an underlying index, typically using [derivatives](/option) and borrowed money. A 2x leveraged equity ETF aims to return twice the daily return of the S&P 500; a 3x leveraged ETF aims to triple it. Leveraged ETFs are trading instruments, not buy-and-hold investments.*
+*A **leveraged ETF** is an [ETF](/etf/) designed to deliver multiples of the daily return of an underlying index, typically using [derivatives](/option/) and borrowed money. A 2x leveraged equity ETF aims to return twice the daily return of the S&P 500; a 3x leveraged ETF aims to triple it. Leveraged ETFs are trading instruments, not buy-and-hold investments.*
 
 <div class="wiki-hatnote">
 
-This entry covers leveraged ETFs as trading tools. For the opposite trade, see [inverse ETF](/inverse-etf); for how ETFs work mechanically, see [ETF](/etf).
+This entry covers leveraged ETFs as trading tools. For the opposite trade, see [inverse ETF](/inverse-etf/); for how ETFs work mechanically, see [ETF](/etf/).
 
 </div>
 
@@ -31,18 +31,18 @@ This entry covers leveraged ETFs as trading tools. For the opposite trade, see [
 | **What it is** | A fund targeting a multiple of daily index returns |
 | **Also called** | Amplified ETF, 2x or 3x ETF |
 | **Issued by** | Specialized asset managers (Direxion, ProShares, Invesco) |
-| **Traded on** | A [stock exchange](/stock-exchange) |
+| **Traded on** | A [stock exchange](/stock-exchange/) |
 | **Pricing** | Continuous, throughout the trading day |
 | **Minimum investment** | The price of one share (often $30–100) |
 | **Intended holding period** | Intraday to a few days (not years) |
-| **Typical [expense ratio](/expense-ratio)** | 0.50% to 1.00% per year |
+| **Typical [expense ratio](/expense-ratio/)** | 0.50% to 1.00% per year |
 | **Decay risk** | Significant in volatile or sideways markets |
 
 </aside>
 
 ## How leveraged ETFs work
 
-A leveraged ETF uses [derivatives](/option) (usually swaps or options) and borrowed money to amplify returns. Here is a simplified example:
+A leveraged ETF uses [derivatives](/option/) (usually swaps or options) and borrowed money to amplify returns. Here is a simplified example:
 
 Suppose the S&P 500 rises 1% in a single day. A 2x leveraged equity ETF aims to return 2%. To achieve this, the fund borrows money (or enters into derivative contracts), then invests in stocks and financial instruments that will deliver twice the index return.
 
@@ -78,7 +78,7 @@ Leveraged ETFs are not for long-term investors. They are trading instruments for
 - **Tactical traders** making a short-term bet (a few days) that a sector or the broad market will rise or fall.
 - **Volatility traders** betting that volatility will rise, and seeking to amplify their gains.
 
-A small number of algorithmic and hedge funds also use leveraged ETFs for purposes like [arbitrage](/etf-arbitrage) or rebalancing, where holding periods are measured in seconds or minutes.
+A small number of algorithmic and hedge funds also use leveraged ETFs for purposes like [arbitrage](/etf-arbitrage/) or rebalancing, where holding periods are measured in seconds or minutes.
 
 Crucially: holding a leveraged ETF for weeks, months, or years is a recipe for capital loss, even if the underlying index rises. The decay will outpace gains in most scenarios.
 
@@ -88,11 +88,11 @@ Leveraged ETFs carry multiple risks beyond decay:
 
 **Structural decay,** as described above.
 
-**Expense drag.** With [expense ratios](/expense-ratio) of 0.50% to 1.00% (compared to 0.03% for a normal [equity ETF](/equity-etf)), the cost compounds quickly.
+**Expense drag.** With [expense ratios](/expense-ratio/) of 0.50% to 1.00% (compared to 0.03% for a normal [equity ETF](/equity-etf/)), the cost compounds quickly.
 
-**Gap risk.** If the market gaps sharply overnight—a [central bank](/central-bank) announcement, a geopolitical shock—a leveraged ETF can gap down sharply, locking in losses before traders can act.
+**Gap risk.** If the market gaps sharply overnight—a [central bank](/central-bank/) announcement, a geopolitical shock—a leveraged ETF can gap down sharply, locking in losses before traders can act.
 
-**Liquidity stress.** In a severe market downturn, the [bid-ask spread](/etf-bid-ask-spread) on leveraged ETFs can widen dramatically, making it hard to exit positions.
+**Liquidity stress.** In a severe market downturn, the [bid-ask spread](/etf-bid-ask-spread/) on leveraged ETFs can widen dramatically, making it hard to exit positions.
 
 ## See also
 
@@ -100,18 +100,18 @@ Leveraged ETFs carry multiple risks beyond decay:
 
 ### Closely related
 
-- [ETF](/etf) — the broader category
-- [Inverse ETF](/inverse-etf) — the opposite bet
-- [Option](/option) — the derivatives that power leveraged ETFs
-- [Expense ratio](/expense-ratio) — a hidden cost of leveraged ETFs
-- [ETF bid-ask spread](/etf-bid-ask-spread) — the trading cost
+- [ETF](/etf/) — the broader category
+- [Inverse ETF](/inverse-etf/) — the opposite bet
+- [Option](/option/) — the derivatives that power leveraged ETFs
+- [Expense ratio](/expense-ratio/) — a hidden cost of leveraged ETFs
+- [ETF bid-ask spread](/etf-bid-ask-spread/) — the trading cost
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — where leveraged ETFs trade
-- [Stock](/stock) — the underlying asset
-- [Diversification](/diversification) — not served by leveraged trading
-- [Volatility](/option) — the enemy of leveraged ETFs
-- [Bull market](/bull-market) · [Bear market](/bear-market) — when leveraged ETFs shine and crash
+- [Stock exchange](/stock-exchange/) — where leveraged ETFs trade
+- [Stock](/stock/) — the underlying asset
+- [Diversification](/diversification/) — not served by leveraged trading
+- [Volatility](/option/) — the enemy of leveraged ETFs
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — when leveraged ETFs shine and crash
 
 </div>

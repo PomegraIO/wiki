@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For government insurance alternatives, see [fha-loan](/fha-loan) (FHA mortgage insurance) and [mortgage-backed-security](/mortgage-backed-security). For loan types, see conventional-mortgage and [conforming-loan](/conforming-loan).
+For government insurance alternatives, see [fha-loan](/fha-loan/) (FHA mortgage insurance) and [mortgage-backed-security](/mortgage-backed-security/). For loan types, see conventional-mortgage and [conforming-loan](/conforming-loan/).
 
 </div>
 
@@ -118,20 +118,20 @@ This affects borrowers: in tight markets, PMI becomes very expensive or unavaila
 
 ### Mortgage insurance
 
-- [FHA-loan](/fha-loan) — government insurance alternative
-- [Mortgage-backed-security](/mortgage-backed-security) — where mortgages securitize
+- [FHA-loan](/fha-loan/) — government insurance alternative
+- [Mortgage-backed-security](/mortgage-backed-security/) — where mortgages securitize
 
 ### Loan types
 
 - Conventional-mortgage — non-government mortgages
-- [Conforming-loan](/conforming-loan) — standard loans within GSE limits
-- [Jumbo-loan](/jumbo-loan) — large loans exceeding conforming limits
+- [Conforming-loan](/conforming-loan/) — standard loans within GSE limits
+- [Jumbo-loan](/jumbo-loan/) — large loans exceeding conforming limits
 
 ### Context
 
-- [Down payment](/residential-real-estate) — triggers PMI requirement
-- [Loan-to-value](/residential-real-estate) — determines PMI cost
-- [Interest rate](/interest-rate) — LPMI rates depend on overall environment
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
+- [Down payment](/residential-real-estate/) — triggers PMI requirement
+- [Loan-to-value](/residential-real-estate/) — determines PMI cost
+- [Interest rate](/interest-rate/) — LPMI rates depend on overall environment
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
 
 </div>

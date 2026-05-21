@@ -61,8 +61,8 @@ Example: A company with $500 million net income, $4 billion total equity, $1 bil
 
 ### Closely related
 
-- [Return on equity](/return-on-equity) — reported equity
-- [Return on assets](/return-on-assets)
-- [Goodwill](/goodwill) · [Intangible assets](/intangible-assets)
+- [Return on equity](/return-on-equity/) — reported equity
+- [Return on assets](/return-on-assets/)
+- [Goodwill](/goodwill/) · [Intangible assets](/intangible-assets/)
 
 </div>

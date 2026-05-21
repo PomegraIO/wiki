@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers asset efficiency. For similar metrics, see [inventory turnover](/inventory-turnover), [accounts-receivable-turnover](/accounts-receivable-turnover), and [fixed-asset-turnover](/fixed-asset-turnover).
+This entry covers asset efficiency. For similar metrics, see [inventory turnover](/inventory-turnover/), [accounts-receivable-turnover](/accounts-receivable-turnover/), and [fixed-asset-turnover](/fixed-asset-turnover/).
 
 </div>
 
@@ -118,10 +118,10 @@ Combined with net margin, asset turnover reveals ROA. A company with 5% net marg
 
 ### Closely related
 
-- [Fixed-asset-turnover](/fixed-asset-turnover) — efficiency of fixed assets only
-- [Inventory turnover](/inventory-turnover) — how fast inventory converts
-- [Accounts-receivable-turnover](/accounts-receivable-turnover) — collection efficiency
-- [Return on assets](/return-on-assets) — profitability relative to assets
+- [Fixed-asset-turnover](/fixed-asset-turnover/) — efficiency of fixed assets only
+- [Inventory turnover](/inventory-turnover/) — how fast inventory converts
+- [Accounts-receivable-turnover](/accounts-receivable-turnover/) — collection efficiency
+- [Return on assets](/return-on-assets/) — profitability relative to assets
 - DuPont analysis — breaking down ROA into margin and turnover
 
 ### Wider context

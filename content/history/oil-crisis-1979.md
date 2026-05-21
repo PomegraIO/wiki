@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1979 crisis. For the preceding energy shock, see [Oil Crisis of 1973](/oil-crisis-1973); for the monetary policy response, see Volcker Fed.
+This entry covers the 1979 crisis. For the preceding energy shock, see [Oil Crisis of 1973](/oil-crisis-1973/); for the monetary policy response, see Volcker Fed.
 
 </div>
 
@@ -74,16 +74,16 @@ The crisis also contributed to the election of Ronald Reagan in 1980 on a platfo
 
 ### Closely related
 
-- [Oil Crisis of 1973](/oil-crisis-1973) — the preceding energy shock
-- [Stagflation](/stagflation) — the economic consequence
+- [Oil Crisis of 1973](/oil-crisis-1973/) — the preceding energy shock
+- [Stagflation](/stagflation/) — the economic consequence
 - Iranian Revolution — the political event that triggered it
 
 ### Wider context
 
 - Volcker Fed — the aggressive monetary tightening response
-- [Federal Reserve](/federal-reserve) — the institution that responded
-- [Inflation](/inflation) — the macroeconomic problem
-- [Recession](/recession) — the contraction of the early 1980s
+- [Federal Reserve](/federal-reserve/) — the institution that responded
+- [Inflation](/inflation/) — the macroeconomic problem
+- [Recession](/recession/) — the contraction of the early 1980s
 - OPEC — the cartel whose power began to erode
 
 </div>

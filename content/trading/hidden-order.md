@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **hidden order** is a [limit order](/limit-order) placed on a public exchange (a lit venue) but with most or all of its size concealed from the public order book. When the visible portion fills, a new visible slice is revealed. Hidden orders let large traders avoid tipping off the market to their full intent, while still getting the price-time priority of a public order.*
+*A **hidden order** is a [limit order](/limit-order/) placed on a public exchange (a lit venue) but with most or all of its size concealed from the public order book. When the visible portion fills, a new visible slice is revealed. Hidden orders let large traders avoid tipping off the market to their full intent, while still getting the price-time priority of a public order.*
 
 <div class="wiki-hatnote">
 
-For orders visible to everyone, see [lit order](/lit-order). For orders hidden in a private venue, see [dark pool](/dark-pool). For a hybrid approach, see [iceberg order](/iceberg-order).
+For orders visible to everyone, see [lit order](/lit-order/). For orders hidden in a private venue, see [dark pool](/dark-pool/). For a hybrid approach, see [iceberg order](/iceberg-order/).
 
 </div>
 
@@ -85,7 +85,7 @@ Check your exchange's rules.
 
 ## Hidden orders vs. dark pools
 
-| Feature | Hidden order (on lit venue) | [Dark pool](/dark-pool) |
+| Feature | Hidden order (on lit venue) | [Dark pool](/dark-pool/) |
 |---|---|---|
 | **Venue** | Public exchange | Private venue |
 | **Visibility** | Small tip shown; rest hidden | No public visibility |
@@ -104,7 +104,7 @@ Suppose you are an institution that needs to sell 1 million shares of a large-ca
 3. You keep most of your size hidden, avoiding panic selling or algorithmic detection.
 4. The lit order gives you price-time priority and regulatory protection.
 
-An alternative would be to use a [dark pool](/dark-pool), but the dark pool gives you no time priority and relies on the venue's fair execution.
+An alternative would be to use a [dark pool](/dark-pool/), but the dark pool gives you no time priority and relies on the venue's fair execution.
 
 ## Minimum display size rules
 
@@ -126,7 +126,7 @@ Hidden orders create a small information advantage: you know the full size, but 
 
 **For small orders.** A hidden order for 1,000 shares makes no sense. The overhead is not worth the benefit.
 
-**If speed is critical.** Hiding your size might extend execution time; if you need to exit quickly, a [market order](/market-order) or visible [limit order](/limit-order) is better.
+**If speed is critical.** Hiding your size might extend execution time; if you need to exit quickly, a [market order](/market-order/) or visible [limit order](/limit-order/) is better.
 
 ## See also
 
@@ -134,23 +134,23 @@ Hidden orders create a small information advantage: you know the full size, but 
 
 ### Closely related
 
-- [Iceberg order](/iceberg-order) — same thing; different terminology
-- [Dark pool](/dark-pool) — fully hidden venue alternative
-- [Lit order](/lit-order) — fully visible public order
+- [Iceberg order](/iceberg-order/) — same thing; different terminology
+- [Dark pool](/dark-pool/) — fully hidden venue alternative
+- [Lit order](/lit-order/) — fully visible public order
 - Order book — where hidden orders partially show
 
 ### Execution and strategy
 
 - Block trading — large orders; hidden orders common
 - Market impact — how large orders move prices
-- [Algorithmic trading](/algorithmic-trading) — uses hidden orders to minimize impact
+- [Algorithmic trading](/algorithmic-trading/) — uses hidden orders to minimize impact
 - Slippage — cost of large visible orders
 
 ### Regulatory context
 
-- [Lit venue](/lit-venue) — public exchange
+- [Lit venue](/lit-venue/) — public exchange
 - Price-time priority — hidden orders maintain this
 - Trade-through rule — applies to hidden orders
-- [Best execution](/best-execution) — using hidden orders for best prices
+- [Best execution](/best-execution/) — using hidden orders for best prices
 
 </div>

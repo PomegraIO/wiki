@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **clearing firm** is a financial institution (usually a large bank or broker) that is a member of a [clearinghouse](/clearing-firm) (like the NSCC for stocks or CME for futures). When you execute a trade, the clearing firm processes it through the clearinghouse, ensures both parties meet their obligations, manages risk, and settles the trade by moving cash and securities between accounts. Clearing firms are essential intermediaries that guarantee trade settlement.*
+*A **clearing firm** is a financial institution (usually a large bank or broker) that is a member of a [clearinghouse](/clearing-firm/) (like the NSCC for stocks or CME for futures). When you execute a trade, the clearing firm processes it through the clearinghouse, ensures both parties meet their obligations, manages risk, and settles the trade by moving cash and securities between accounts. Clearing firms are essential intermediaries that guarantee trade settlement.*
 
 <div class="wiki-hatnote">
 
-For the organization managing clearing, see [clearinghouse](/clearing-firm). For settlement timing, see [settlement T+2](/settlement-t2). For credit extended during settlement, see [prime broker](/prime-broker).
+For the organization managing clearing, see [clearinghouse](/clearing-firm/). For settlement timing, see [settlement T+2](/settlement-t2/). For credit extended during settlement, see [prime broker](/prime-broker/).
 
 </div>
 
@@ -125,17 +125,17 @@ This is more centralized than stock clearing, reducing counterparty risk for der
 
 ### Closely related
 
-- [Clearinghouse](/clearing-firm) — central institution managing clearing
-- [Settlement T+2](/settlement-t2) — when clearing firms settle trades
+- [Clearinghouse](/clearing-firm/) — central institution managing clearing
+- [Settlement T+2](/settlement-t2/) — when clearing firms settle trades
 - Margin — clearing firms extend credit
-- [Prime broker](/prime-broker) — provides clearing and other services to hedge funds
+- [Prime broker](/prime-broker/) — provides clearing and other services to hedge funds
 
 ### Risk and capital
 
-- [Counterparty risk](/counterparty-risk) — clearing firm guarantees against this
+- [Counterparty risk](/counterparty-risk/) — clearing firm guarantees against this
 - Regulatory capital — minimum capital for clearing firms
-- [Stress testing](/stress-testing) — regulators test clearing firm resilience
-- [Systemic risk](/systemic-risk) — clearing firm failures could be systemic
+- [Stress testing](/stress-testing/) — regulators test clearing firm resilience
+- [Systemic risk](/systemic-risk/) — clearing firm failures could be systemic
 
 ### Market infrastructure
 

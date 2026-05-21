@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*[Bretton Woods](/bretton-woods) was an international monetary agreement signed in 1944 near the end of WWII. It established a system of [fixed exchange rates](/fixed-exchange-rate) anchored by the [US dollar](/us-dollar), which was pegged to gold at $35 per ounce. Other currencies were pegged to the dollar. The system created the International Monetary Fund (IMF) and the World Bank. It collapsed in 1971 when the US abandoned gold convertibility.*
+*[Bretton Woods](/bretton-woods/) was an international monetary agreement signed in 1944 near the end of WWII. It established a system of [fixed exchange rates](/fixed-exchange-rate/) anchored by the [US dollar](/us-dollar/), which was pegged to gold at $35 per ounce. Other currencies were pegged to the dollar. The system created the International Monetary Fund (IMF) and the World Bank. It collapsed in 1971 when the US abandoned gold convertibility.*
 
 <div class="wiki-hatnote">
 
-For the post-1971 floating-rate system, see [floating exchange rate](/floating-exchange-rate); for the historical gold-based system it replaced, see [gold standard](/gold-standard).
+For the post-1971 floating-rate system, see [floating exchange rate](/floating-exchange-rate/); for the historical gold-based system it replaced, see [gold standard](/gold-standard/).
 
 </div>
 
@@ -42,7 +42,7 @@ For the post-1971 floating-rate system, see [floating exchange rate](/floating-e
 
 In July 1944, representatives of 44 Allied nations met in Bretton Woods, New Hampshire, to design a post-WWII international monetary system. The goal was to avoid the competitive devaluations and trade wars that had helped cause the Great Depression and WWII.
 
-The solution: a system of fixed exchange rates centered on the [US dollar](/us-dollar), which would be pegged to gold. The US was the only major power whose economy and gold reserves were intact after the war, so the dollar was the natural anchor.
+The solution: a system of fixed exchange rates centered on the [US dollar](/us-dollar/), which would be pegged to gold. The US was the only major power whose economy and gold reserves were intact after the war, so the dollar was the natural anchor.
 
 ## Structure of the system
 
@@ -86,17 +86,17 @@ But it collapsed because the anchoring mechanism (gold) could not sustain the sy
 
 ### Closely related
 
-- [Gold standard](/gold-standard) — the system Bretton Woods modified
-- [Fixed exchange rate](/fixed-exchange-rate) — the basis of Bretton Woods
-- [Floating exchange rate](/floating-exchange-rate) — what replaced Bretton Woods
-- [US Dollar](/us-dollar) — the anchor of the system
-- [International Monetary Fund](/central-bank) — created by Bretton Woods
+- [Gold standard](/gold-standard/) — the system Bretton Woods modified
+- [Fixed exchange rate](/fixed-exchange-rate/) — the basis of Bretton Woods
+- [Floating exchange rate](/floating-exchange-rate/) — what replaced Bretton Woods
+- [US Dollar](/us-dollar/) — the anchor of the system
+- [International Monetary Fund](/central-bank/) — created by Bretton Woods
 
 ### Wider context
 
-- [Currency peg](/currency-peg) — Bretton Woods as pegging system
-- [Adjustable peg](/soft-peg) — flexibility within Bretton Woods
-- [Plaza Accord](/plaza-accord) — post-Bretton-Woods coordination
+- [Currency peg](/currency-peg/) — Bretton Woods as pegging system
+- [Adjustable peg](/soft-peg/) — flexibility within Bretton Woods
+- [Plaza Accord](/plaza-accord/) — post-Bretton-Woods coordination
 - Louvre Accord — another post-Bretton-Woods accord
 
 </div>

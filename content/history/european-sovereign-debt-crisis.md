@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the broad crisis. For the Greek crisis specifically, see [Greek Debt Crisis](/greek-debt-crisis); for the broader macroeconomic context, see [sovereign debt](/sovereign-debt).
+This entry covers the broad crisis. For the Greek crisis specifically, see [Greek Debt Crisis](/greek-debt-crisis/); for the broader macroeconomic context, see [sovereign debt](/sovereign-debt/).
 
 </div>
 
@@ -87,16 +87,16 @@ By the mid-2010s, growth had resumed in most of the periphery, and fiscal positi
 
 ### Closely related
 
-- [Greek Debt Crisis](/greek-debt-crisis) — the specific crisis in Greece
-- [Cyprus Banking Crisis](/cyprus-banking-crisis) — spillover effects
-- [Sovereign debt](/sovereign-debt) — the instrument at the heart
+- [Greek Debt Crisis](/greek-debt-crisis/) — the specific crisis in Greece
+- [Cyprus Banking Crisis](/cyprus-banking-crisis/) — spillover effects
+- [Sovereign debt](/sovereign-debt/) — the instrument at the heart
 
 ### Wider context
 
 - Eurozone — the currency union in crisis
-- [European Central Bank](/european-central-bank) — the institution that stabilized markets
+- [European Central Bank](/european-central-bank/) — the institution that stabilized markets
 - International Monetary Fund — the crisis manager
-- [Austerity](/austerity) — the policy response
+- [Austerity](/austerity/) — the policy response
 - Fiscal policy — the problem and the solution
 
 </div>

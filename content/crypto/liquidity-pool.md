@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **liquidity pool** is a smart contract that holds paired cryptocurrency tokens and enables peer-to-peer trading through an [automated market maker](/automated-market-maker) mechanism. Users (called [liquidity providers](/liquidity-provider)) deposit equal values of two tokens and earn trading fees. Pool prices adjust automatically based on the ratio of tokens in the pool.*
+*A **liquidity pool** is a smart contract that holds paired cryptocurrency tokens and enables peer-to-peer trading through an [automated market maker](/automated-market-maker/) mechanism. Users (called [liquidity providers](/liquidity-provider/)) deposit equal values of two tokens and earn trading fees. Pool prices adjust automatically based on the ratio of tokens in the pool.*
 
 <div class="wiki-hatnote">
 
-This entry covers liquidity pools. For the AMM mechanism, see [automated market maker](/automated-market-maker); for liquidity providers, see [liquidity provider](/liquidity-provider); for the associated risks, see [impermanent loss](/impermanent-loss).
+This entry covers liquidity pools. For the AMM mechanism, see [automated market maker](/automated-market-maker/); for liquidity providers, see [liquidity provider](/liquidity-provider/); for the associated risks, see [impermanent loss](/impermanent-loss/).
 
 </div>
 
@@ -32,9 +32,9 @@ This entry covers liquidity pools. For the AMM mechanism, see [automated market 
 | **What it is** | Smart contract holding paired tokens |
 | **Tokens** | Any pair (e.g., ETH/USDC) |
 | **Fee** | 0.01–0.3% per trade (paid by traders) |
-| **Who earns fees** | [Liquidity providers](/liquidity-provider) |
+| **Who earns fees** | [Liquidity providers](/liquidity-provider/) |
 | **Minimum deposit** | Usually none (any amount) |
-| **Risk** | [Impermanent loss](/impermanent-loss) if prices diverge |
+| **Risk** | [Impermanent loss](/impermanent-loss/) if prices diverge |
 | **LP token** | Represents your share of the pool |
 | **Major pools** | Uniswap ETH/USDC, Curve 3Pool |
 
@@ -55,7 +55,7 @@ For example, in a 100 ETH + 100,000 USDC pool (ratio 1:1,000):
 When a trader wants to swap ETH for USDC:
 
 1. The trader sends ETH to the pool.
-2. The pool's smart contract calculates how much USDC to send back (using the [AMM](/automated-market-maker) formula).
+2. The pool's smart contract calculates how much USDC to send back (using the [AMM](/automated-market-maker/) formula).
 3. The USDC is transferred to the trader.
 4. A small fee (e.g., 0.3%) is allocated to LPs.
 
@@ -72,7 +72,7 @@ Fees are taken from the trader and distributed to LPs proportionally to their sh
 
 ## Impermanent loss
 
-When a [liquidity provider](/liquidity-provider) deposits into a pool, their tokens are exposed to price movements. If one token increases in value relative to the other, the LP suffers **[impermanent loss](/impermanent-loss)**.
+When a [liquidity provider](/liquidity-provider/) deposits into a pool, their tokens are exposed to price movements. If one token increases in value relative to the other, the LP suffers **[impermanent loss](/impermanent-loss/)**.
 
 Example: An LP deposits 1 ETH + 1,000 USDC in a pool. If ETH price increases to 2,000 USDC:
 
@@ -81,9 +81,9 @@ Example: An LP deposits 1 ETH + 1,000 USDC in a pool. If ETH price increases to 
 - If the LP had simply held, they would own 1 ETH + 1,000 USDC (worth ~3,000 USDC).
 - The LP lost money compared to holding, despite earning fees.
 
-This is [impermanent loss](/impermanent-loss) — the difference between the LP's actual value and their hypothetical value if they had simply held.
+This is [impermanent loss](/impermanent-loss/) — the difference between the LP's actual value and their hypothetical value if they had simply held.
 
-However, if trading fees are sufficient, they can offset [impermanent loss](/impermanent-loss).
+However, if trading fees are sufficient, they can offset [impermanent loss](/impermanent-loss/).
 
 ## LP tokens
 
@@ -101,20 +101,20 @@ Modern AMMs like Uniswap v3 allow LPs to specify a price range. Instead of provi
 This allows:
 
 - **Better capital efficiency.** The same capital earns more fees if prices stay in the specified range.
-- **Higher risk.** If prices move outside the range, the LP earns no fees and faces worse [impermanent loss](/impermanent-loss).
+- **Higher risk.** If prices move outside the range, the LP earns no fees and faces worse [impermanent loss](/impermanent-loss/).
 
 ## Risk management for LPs
 
 LPs can mitigate risks by:
 
-- **Choosing stable pairs.** Pools of similar-priced assets (e.g., USDC/USDT) have minimal [impermanent loss](/impermanent-loss).
+- **Choosing stable pairs.** Pools of similar-priced assets (e.g., USDC/USDT) have minimal [impermanent loss](/impermanent-loss/).
 - **Diversifying.** Contributing to multiple pools reduces exposure to any single pair.
 - **Monitoring prices.** Withdrawing if prices diverge significantly (to limit losses).
-- **Seeking high fees.** Pools with higher fees are more attractive if [impermanent loss](/impermanent-loss) is similar.
+- **Seeking high fees.** Pools with higher fees are more attractive if [impermanent loss](/impermanent-loss/) is similar.
 
 ## Historical context
 
-[Uniswap](/automated-market-maker) v1 (2018) pioneered the [AMM](/automated-market-maker) model and made liquidity pools accessible to anyone. Prior to this, liquidity was provided by centralised market makers; now, anyone can earn fees by providing liquidity.
+[Uniswap](/automated-market-maker/) v1 (2018) pioneered the [AMM](/automated-market-maker/) model and made liquidity pools accessible to anyone. Prior to this, liquidity was provided by centralised market makers; now, anyone can earn fees by providing liquidity.
 
 ## See also
 
@@ -122,16 +122,16 @@ LPs can mitigate risks by:
 
 ### Closely related
 
-- [Automated market maker](/automated-market-maker) — the pricing mechanism
-- [Liquidity provider](/liquidity-provider) — who supplies pools
-- [Impermanent loss](/impermanent-loss) — the main risk for LPs
-- [Decentralised exchange](/decentralized-exchange) — platforms using pools
+- [Automated market maker](/automated-market-maker/) — the pricing mechanism
+- [Liquidity provider](/liquidity-provider/) — who supplies pools
+- [Impermanent loss](/impermanent-loss/) — the main risk for LPs
+- [Decentralised exchange](/decentralized-exchange/) — platforms using pools
 
 ### Wider context
 
 - Smart contract — pools are contracts
 - Yield farming — earning on liquidity provision
-- [Ethereum](/ethereum) — primary platform for pools
-- [Uniswap](/automated-market-maker) — the largest AMM
+- [Ethereum](/ethereum/) — primary platform for pools
+- [Uniswap](/automated-market-maker/) — the largest AMM
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **401(k) match** is money your employer contributes to your [401(k) plan](/401k-plan) based on your contribution. Common formulas include "100% match of the first 3% of salary" or "50% match up to 6%." It is a free benefit that significantly accelerates retirement savings.*
+*A **401(k) match** is money your employer contributes to your [401(k) plan](/401k-plan/) based on your contribution. Common formulas include "100% match of the first 3% of salary" or "50% match up to 6%." It is a free benefit that significantly accelerates retirement savings.*
 
 <div class="wiki-hatnote">
 
-For the overall 401(k) structure, see [401(k) plan](/401k-plan); for when the match becomes yours, see [vesting](/vesting-401k); for maximizing savings, see [pay yourself first](/pay-yourself-first).
+For the overall 401(k) structure, see [401(k) plan](/401k-plan/); for when the match becomes yours, see [vesting](/vesting-401k/); for maximizing savings, see [pay yourself first](/pay-yourself-first/).
 
 </div>
 
@@ -43,7 +43,7 @@ For the overall 401(k) structure, see [401(k) plan](/401k-plan); for when the ma
 
 If your employer offers a "100% match of the first 3% of salary," it means:
 
-- If you contribute 3% of your salary to the [401(k)](/401k-plan), your employer contributes 3% of your salary as well.
+- If you contribute 3% of your salary to the [401(k)](/401k-plan/), your employer contributes 3% of your salary as well.
 - If you contribute less than 3% (e.g., 2%), your employer matches only 2%.
 - If you contribute more than 3% (e.g., 5%), your employer matches only 3%.
 
@@ -69,7 +69,7 @@ Employers offer matches for several reasons:
 
 ## Vesting: when the match becomes yours
 
-Not all employer match becomes your property immediately. Many plans have a [vesting](/vesting-401k) schedule: you earn the right to keep the match only after a period of service.
+Not all employer match becomes your property immediately. Many plans have a [vesting](/vesting-401k/) schedule: you earn the right to keep the match only after a period of service.
 
 **Cliff vesting.** You get 0% until three years, then 100% at the three-year mark.
 
@@ -87,8 +87,8 @@ This is one of the few universally agreed financial principles: if your employer
 
 If you can save more than the amount needed to capture the match, you have choices:
 
-1. **Contribute more to the 401(k).** The [401(k)](/401k-plan) limit is $23,500 per year (2024). If you have room, max it out.
-2. **Contribute to an [IRA](/traditional-ira).** Traditional or [Roth IRA](/roth-ira) contributions are $7,000 per year, often with more investment choice than a 401(k).
+1. **Contribute more to the 401(k).** The [401(k)](/401k-plan/) limit is $23,500 per year (2024). If you have room, max it out.
+2. **Contribute to an [IRA](/traditional-ira/).** Traditional or [Roth IRA](/roth-ira/) contributions are $7,000 per year, often with more investment choice than a 401(k).
 3. **Contribute to a taxable brokerage account.** If you have maxed retirement accounts, invest the surplus in a regular investment account.
 
 Most advisors suggest: capture the match, then fund retirement accounts in order of tax efficiency.
@@ -105,16 +105,16 @@ If considering a job change, factor the loss of future match into the salary neg
 
 ### Closely related
 
-- [401(k) plan](/401k-plan) — the account receiving the match
-- [Vesting](/vesting-401k) — when the match becomes fully yours
-- [Pay yourself first](/pay-yourself-first) — prioritizing retirement contributions
-- [Savings rate](/savings-rate) — match as part of overall savings
+- [401(k) plan](/401k-plan/) — the account receiving the match
+- [Vesting](/vesting-401k/) — when the match becomes fully yours
+- [Pay yourself first](/pay-yourself-first/) — prioritizing retirement contributions
+- [Savings rate](/savings-rate/) — match as part of overall savings
 
 ### Wider context
 
-- [FIRE movement](/fire-movement) — employer match accelerates early retirement
-- [Compound interest](/compound-interest) — matched money grows for decades
-- [The four-percent rule](/the-four-percent-rule) — how much match supports in retirement
+- [FIRE movement](/fire-movement/) — employer match accelerates early retirement
+- [Compound interest](/compound-interest/) — matched money grows for decades
+- [The four-percent rule](/the-four-percent-rule/) — how much match supports in retirement
 - Asset location — where to allocate beyond the match
 
 </div>

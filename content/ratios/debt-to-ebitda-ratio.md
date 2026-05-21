@@ -97,9 +97,9 @@ A company at 2.0x leverage with stable EBITDA and a diversified maturity schedul
 
 ### Closely related
 
-- [Debt-to-equity ratio](/debt-to-equity-ratio) · [Debt-to-assets ratio](/debt-to-assets-ratio)
-- [Interest-coverage ratio](/interest-coverage-ratio) — debt service capacity
-- [EBITDA](/ebitda) — the denominator
+- [Debt-to-equity ratio](/debt-to-equity-ratio/) · [Debt-to-assets ratio](/debt-to-assets-ratio/)
+- [Interest-coverage ratio](/interest-coverage-ratio/) — debt service capacity
+- [EBITDA](/ebitda/) — the denominator
 - Debt service · Covenant
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the general mechanics of a merger. For hostile combinations, see [hostile takeover](/hostile-takeover); for the defensive techniques companies use to resist, see [poison pill](/poison-pill) and [white knight](/white-knight).
+This entry covers the general mechanics of a merger. For hostile combinations, see [hostile takeover](/hostile-takeover/); for the defensive techniques companies use to resist, see [poison pill](/poison-pill/) and [white knight](/white-knight/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers the general mechanics of a merger. For hostile combinations, s
 | **Requires** | Board approval, shareholder vote, regulatory clearance |
 | **Typical timeline** | 3 months to 18+ months depending on complexity |
 | **Driven by** | Synergies, economies of scale, market consolidation |
-| **Opposite** | [Spinoff](/spinoff), [divestiture](/divestiture) |
+| **Opposite** | [Spinoff](/spinoff/), [divestiture](/divestiture/) |
 
 </aside>
 
@@ -80,7 +80,7 @@ International mergers face similar scrutiny in the UK, the EU, China, and most l
 Integration is where most mergers fail. The acquirer's integration team must:
 
 - **Consolidate systems.** The two companies may run on completely different IT platforms, accounting systems, and supply chains.
-- **Retain talent.** Key people often leave, especially in an acquisition of a founder-led or specialized firm. [Golden parachutes](/golden-parachute) and retention bonuses are the usual levers.
+- **Retain talent.** Key people often leave, especially in an acquisition of a founder-led or specialized firm. [Golden parachutes](/golden-parachute/) and retention bonuses are the usual levers.
 - **Realise synergies.** The cost and revenue synergies must actually materialise, not remain on a PowerPoint.
 - **Preserve culture.** A clash of cultures can undermine all the financial case for the deal. Integration planning that ignores this pays a price.
 
@@ -92,20 +92,20 @@ The period from close to integration complete — typically one to three years �
 
 ### Closely related
 
-- [Acquisition](/acquisition) — the formal purchase of one company by another
-- [Hostile takeover](/hostile-takeover) — an unwanted merger or acquisition attempt
-- [Friendly takeover](/friendly-takeover) — a merger supported by both boards
-- [Tender offer](/tender-offer) — the mechanism to buy a target's shares
-- [White knight](/white-knight) — a friendly bidder brought in to block a hostile takeover
-- [Poison pill](/poison-pill) — the classic defence against a hostile merger
-- [Going-private transaction](/going-private) — a merger that delists a public company
+- [Acquisition](/acquisition/) — the formal purchase of one company by another
+- [Hostile takeover](/hostile-takeover/) — an unwanted merger or acquisition attempt
+- [Friendly takeover](/friendly-takeover/) — a merger supported by both boards
+- [Tender offer](/tender-offer/) — the mechanism to buy a target's shares
+- [White knight](/white-knight/) — a friendly bidder brought in to block a hostile takeover
+- [Poison pill](/poison-pill/) — the classic defence against a hostile merger
+- [Going-private transaction](/going-private/) — a merger that delists a public company
 
 ### Wider context
 
-- [Change of control provision](/change-of-control-provision) — deal protection mechanisms
-- [Leveraged buyout](/leveraged-buyout) — a merger financed largely with debt
-- [Special-purpose acquisition company](/special-purpose-acquisition-company) — an alternative structure for business combinations
+- [Change of control provision](/change-of-control-provision/) — deal protection mechanisms
+- [Leveraged buyout](/leveraged-buyout/) — a merger financed largely with debt
+- [Special-purpose acquisition company](/special-purpose-acquisition-company/) — an alternative structure for business combinations
 - Capital allocation — the economic rationale for M&A
-- [Stock exchange](/stock-exchange) — where acquiring and target shares trade pre-deal
+- [Stock exchange](/stock-exchange/) — where acquiring and target shares trade pre-deal
 
 </div>

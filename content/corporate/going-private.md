@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **going-private transaction** (also called a **take-private** or **go-private** transaction) is an [acquisition](/acquisition) that ends with a company being delisted from public stock exchanges and converted to private ownership. The transaction typically involves a premium offer to shareholders, regulatory approval, and results in the company being owned privately by the acquirer (whether a private equity firm, founder, or strategic buyer). Going-private transactions remove the burden of public market disclosure and quarterly earnings pressure but also cut off public shareholders from future upside.*
+*A **going-private transaction** (also called a **take-private** or **go-private** transaction) is an [acquisition](/acquisition/) that ends with a company being delisted from public stock exchanges and converted to private ownership. The transaction typically involves a premium offer to shareholders, regulatory approval, and results in the company being owned privately by the acquirer (whether a private equity firm, founder, or strategic buyer). Going-private transactions remove the burden of public market disclosure and quarterly earnings pressure but also cut off public shareholders from future upside.*
 
 <div class="wiki-hatnote">
 
-This entry covers going-private transactions as a structural mechanism. For the take-private aspect, see [take-private](/take-private); for the opposite, see [initial public offering](/initial-public-offering); for related structures, see [reverse merger](/reverse-merger).
+This entry covers going-private transactions as a structural mechanism. For the take-private aspect, see [take-private](/take-private/); for the opposite, see [initial public offering](/initial-public-offering/); for related structures, see [reverse merger](/reverse-merger/).
 
 </div>
 
@@ -28,13 +28,13 @@ This entry covers going-private transactions as a structural mechanism. For the 
 
 |   |   |
 |---|---|
-| **What it is** | [Acquisition](/acquisition) resulting in delisting from public exchange |
-| **Mechanism** | Tender offer or [merger](/merger) followed by delisting |
+| **What it is** | [Acquisition](/acquisition/) resulting in delisting from public exchange |
+| **Mechanism** | Tender offer or [merger](/merger/) followed by delisting |
 | **Timing** | 3–12 months from announcement to close |
 | **Premium typical** | 20–50% above pre-announcement market price |
 | **Buyer** | Private equity, founder, strategic buyer, or activist |
 | **Approval** | Board + shareholder vote + financing + regulatory |
-| **Opposite** | [Initial public offering](/initial-public-offering) |
+| **Opposite** | [Initial public offering](/initial-public-offering/) |
 
 </aside>
 
@@ -47,7 +47,7 @@ A public company's board receives or is approached with an offer to acquire the 
 2. **Negotiation and fairness opinion.** The target's board of directors negotiates terms and obtains a fairness opinion from an investment bank to certify the offer price is fair.
 3. **Shareholder vote.** The target's shareholders vote on whether to approve the transaction. Most bylaws require a simple majority (50%+) of votes cast, though some require a supermajority.
 4. **Regulatory approvals.** If the deal has antitrust concerns or involves foreign investment, regulatory approvals are obtained.
-5. **Financing.** The buyer's financing (whether debt, equity, or a combination) is finalized. Many going-private transactions are structured as [leveraged buyouts](/leveraged-buyout) and require bank loan and bond market approval.
+5. **Financing.** The buyer's financing (whether debt, equity, or a combination) is finalized. Many going-private transactions are structured as [leveraged buyouts](/leveraged-buyout/) and require bank loan and bond market approval.
 6. **Closing and delisting.** Once all conditions are satisfied, the transaction closes. The buyer acquires all remaining public shares, and the company is delisted from the stock exchange.
 
 ## Mechanics: merger vs. asset purchase
@@ -70,9 +70,9 @@ This structure is used because it is simpler and more tax-efficient than an asse
 
 ## Who are the buyers?
 
-**Private equity firms.** The most common buyers; PE firms acquire public companies as [leveraged buyouts](/leveraged-buyout) and hold them for 5–7 years before exiting.
+**Private equity firms.** The most common buyers; PE firms acquire public companies as [leveraged buyouts](/leveraged-buyout/) and hold them for 5–7 years before exiting.
 
-**Founders and management.** Founders like Michael Dell or Elon Musk take their companies private via [management buyouts](/management-buyout).
+**Founders and management.** Founders like Michael Dell or Elon Musk take their companies private via [management buyouts](/management-buyout/).
 
 **Strategic buyers.** A larger company acquires and takes the target private to integrate operations.
 
@@ -83,7 +83,7 @@ This structure is used because it is simpler and more tax-efficient than an asse
 Going-private transactions are often financed with debt. The buyer arranges:
 
 - Senior secured bank loans (typically 40–50% of purchase price)
-- [High-yield bonds](/high-yield-bond) or other subordinated debt (10–20% of purchase price)
+- [High-yield bonds](/high-yield-bond/) or other subordinated debt (10–20% of purchase price)
 - Equity from PE firm, sponsors, or management (30–40% of purchase price)
 
 The company's cash flows service this debt. If the company performs well, cash is used to de-leverage. If it underperforms, debt service becomes problematic.
@@ -123,9 +123,9 @@ The stock price of a company that is the target of a going-private offer typical
 After a going-private transaction closes, the company can:
 
 1. **Remain private indefinitely** under the buyer's ownership.
-2. **Be taken public again** via [IPO](/initial-public-offering) after improvements.
+2. **Be taken public again** via [IPO](/initial-public-offering/) after improvements.
 3. **Be sold** to another buyer.
-4. **Undergo a [secondary buyout](/secondary-buyout)** if the original buyer is a PE firm selling to another PE firm.
+4. **Undergo a [secondary buyout](/secondary-buyout/)** if the original buyer is a PE firm selling to another PE firm.
 
 ## See also
 
@@ -133,18 +133,18 @@ After a going-private transaction closes, the company can:
 
 ### Closely related
 
-- [Take-private](/take-private) — the business rationale for going-private
-- [Leveraged buyout](/leveraged-buyout) — typical financing structure
-- [Management buyout](/management-buyout) — going-private by management
-- [Merger](/merger) — the legal structure used
-- [Tender offer](/tender-offer) — alternative mechanism
+- [Take-private](/take-private/) — the business rationale for going-private
+- [Leveraged buyout](/leveraged-buyout/) — typical financing structure
+- [Management buyout](/management-buyout/) — going-private by management
+- [Merger](/merger/) — the legal structure used
+- [Tender offer](/tender-offer/) — alternative mechanism
 
 ### Wider context
 
-- [Initial public offering](/initial-public-offering) — opposite of going-private
+- [Initial public offering](/initial-public-offering/) — opposite of going-private
 - Private equity — typical buyer
 - Board of directors — approves going-private
 - Shareholder activism — often drives going-private
-- [Change of control provision](/change-of-control-provision) — triggered in going-private
+- [Change of control provision](/change-of-control-provision/) — triggered in going-private
 
 </div>

@@ -15,5 +15,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Screenshots taken during local QA
+# Screenshots / artifacts taken during local QA
 /wiki-*.png
+/_tmp/

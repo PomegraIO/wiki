@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **binomial option pricing model** values [option](/option)s by constructing a discrete tree where at each time step, the underlying [stock](/stock) can move up or down. Starting from expiration and working backward, the model calculates option value at each node as the probability-weighted average of future values, discounted to present value. The binomial model can handle [american-option](/american-option)s (early exercise), dividends, and other features [Black-Scholes model](/black-scholes-model) cannot, making it more flexible though less elegant.*
+*The **binomial option pricing model** values [option](/option/)s by constructing a discrete tree where at each time step, the underlying [stock](/stock/) can move up or down. Starting from expiration and working backward, the model calculates option value at each node as the probability-weighted average of future values, discounted to present value. The binomial model can handle [american-option](/american-option/)s (early exercise), dividends, and other features [Black-Scholes model](/black-scholes-model/) cannot, making it more flexible though less elegant.*
 
 <aside class="wiki-infobox">
 
@@ -40,7 +40,7 @@ image: "/svg/derivatives.svg"
 In the simplest binomial model:
 - Start at today's stock price S
 - At each step, stock can move up by factor u or down by factor d
-- Continue for n steps to [expiration date](/expiration-date)
+- Continue for n steps to [expiration date](/expiration-date/)
 - At expiration, calculate option payoff for each possible final price
 - Work backward: at each node, value = probability-weighted discounted payoffs
 
@@ -65,30 +65,30 @@ Node value = [p × up_value + (1−p) × down_value] / (1 + r)
 
 Where p is the risk-neutral probability of an up move (derived from volatility).
 
-For [american-option](/american-option)s, also check: should I exercise now or hold? Take the max of exercise value or hold value.
+For [american-option](/american-option/)s, also check: should I exercise now or hold? Take the max of exercise value or hold value.
 
 ## Convergence to Black-Scholes
 
-As the number of steps increases, the binomial model's prices converge to [Black-Scholes model](/black-scholes-model) prices. With 500 steps, binomial prices are nearly identical to Black-Scholes for [european-option](/european-option)s.
+As the number of steps increases, the binomial model's prices converge to [Black-Scholes model](/black-scholes-model/) prices. With 500 steps, binomial prices are nearly identical to Black-Scholes for [european-option](/european-option/)s.
 
 This convergence validates both models and allows practitioners to choose based on implementation needs.
 
 ## Early exercise and American options
 
-The binomial model shines for [american-option](/american-option)s, where early exercise can be optimal. At each node, the model checks: is it better to exercise now or hold?
+The binomial model shines for [american-option](/american-option/)s, where early exercise can be optimal. At each node, the model checks: is it better to exercise now or hold?
 
-For a [call option](/call-option) with [dividend](/dividend), you might exercise just before the dividend goes ex-date. The binomial model captures this.
+For a [call option](/call-option/) with [dividend](/dividend/), you might exercise just before the dividend goes ex-date. The binomial model captures this.
 
-[Black-Scholes model](/black-scholes-model) cannot, requiring [binomial-option-pricing](/binomial-option-pricing) or other numerical methods.
+[Black-Scholes model](/black-scholes-model/) cannot, requiring [binomial-option-pricing](/binomial-option-pricing/) or other numerical methods.
 
 ## Tuning volatility and time steps
 
-The up/down factors are set based on [volatility](/historical-volatility):
+The up/down factors are set based on [volatility](/historical-volatility/):
 
 u = e^(σ√Δt)
 d = 1/u
 
-Where σ is [volatility](/historical-volatility) and Δt is the time step.
+Where σ is [volatility](/historical-volatility/) and Δt is the time step.
 
 Higher volatility → larger up/down moves. More steps → finer granularity.
 

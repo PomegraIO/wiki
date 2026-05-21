@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1907 panic. For the institutional response, see [Federal Reserve](/federal-reserve); for the earlier panic that J.P. Morgan had also managed, see [Panic of 1893](/panic-of-1893).
+This entry covers the 1907 panic. For the institutional response, see [Federal Reserve](/federal-reserve/); for the earlier panic that J.P. Morgan had also managed, see [Panic of 1893](/panic-of-1893/).
 
 </div>
 
@@ -59,7 +59,7 @@ By November 1907, the panic had begun to subside. The immediate threat to the ba
 
 ## The aftermath and the Federal Reserve
 
-The Panic of 1907 was the crisis that broke the back of resistance to central banking in America. A political consensus emerged that a central bank was necessary — not to expand the money supply or manage the [interest rate](/interest-rate), necessarily, but to serve as a lender of last resort during panics.
+The Panic of 1907 was the crisis that broke the back of resistance to central banking in America. A political consensus emerged that a central bank was necessary — not to expand the money supply or manage the [interest rate](/interest-rate/), necessarily, but to serve as a lender of last resort during panics.
 
 The Federal Reserve Act was passed in December 1913, six years after the panic. The Federal Reserve was designed to do what J.P. Morgan had done in 1907 — provide liquidity and coordination — but as an official institution with authority and resources. This was a revolutionary change in American financial governance.
 
@@ -73,16 +73,16 @@ The Panic of 1907 marked the end of the era of purely unmanaged financial market
 
 ### Closely related
 
-- [Panic of 1893](/panic-of-1893) — an earlier Morgan rescue
-- [Federal Reserve](/federal-reserve) — created directly in response
+- [Panic of 1893](/panic-of-1893/) — an earlier Morgan rescue
+- [Federal Reserve](/federal-reserve/) — created directly in response
 - Banking crisis — the general category
 
 ### Wider context
 
-- [Central bank](/central-bank) — the solution that emerged
+- [Central bank](/central-bank/) — the solution that emerged
 - Trust company — the financial institution at the center
 - Credit crisis — the broader consequence
 - Lender of last resort — the function Morgan improvised, later formalized
-- [Interest rate](/interest-rate) — policy tool that followed
+- [Interest rate](/interest-rate/) — policy tool that followed
 
 </div>

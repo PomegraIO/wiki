@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **build-up method** (or "build-up approach") for estimating cost of equity is additive and transparent. Rather than using regression to estimate a single beta (as in CAPM), you explicitly identify risk premiums and add them: start with the risk-free rate, add an [equity risk premium](/equity-risk-premium), add a size premium for small companies, add a company-specific premium for unique risks. The result is a cost of equity grounded in logic rather than backward-looking regression.*
+*The **build-up method** (or "build-up approach") for estimating cost of equity is additive and transparent. Rather than using regression to estimate a single beta (as in CAPM), you explicitly identify risk premiums and add them: start with the risk-free rate, add an [equity risk premium](/equity-risk-premium/), add a size premium for small companies, add a company-specific premium for unique risks. The result is a cost of equity grounded in logic rather than backward-looking regression.*
 
 ## The formula
 
@@ -127,20 +127,20 @@ This cross-check is useful: if build-up and CAPM yield very different results, i
 
 ### Closely related
 
-- [Cost of equity](/cost-of-equity) — what this estimates
-- [Capital asset pricing model](/capital-asset-pricing-model) — the alternative approach
+- [Cost of equity](/cost-of-equity/) — what this estimates
+- [Capital asset pricing model](/capital-asset-pricing-model/) — the alternative approach
 - Risk premium — the components
-- [Equity risk premium](/equity-risk-premium) — a key component
+- [Equity risk premium](/equity-risk-premium/) — a key component
 
 ### Valuation application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates cost of equity
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates cost of equity
 
 ### Risk factors
 
-- [Market risk premium](/market-risk-premium) — the primary component
-- [Beta](/beta) — alternative to build-up
-- [Systematic risk](/systematic-risk) — what premiums reflect
+- [Market risk premium](/market-risk-premium/) — the primary component
+- [Beta](/beta/) — alternative to build-up
+- [Systematic risk](/systematic-risk/) — what premiums reflect
 
 </div>

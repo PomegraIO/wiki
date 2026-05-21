@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **mini lot** is 10,000 units of the base currency in a [currency pair](/currency-pair). It is one-tenth the size of a [standard lot](/standard-lot), producing $1 of profit or loss per [pip](/pip) for most pairs. Mini lots are the default position size for retail FX traders with accounts from $5,000 to $100,000.*
+*A **mini lot** is 10,000 units of the base currency in a [currency pair](/currency-pair/). It is one-tenth the size of a [standard lot](/standard-lot/), producing $1 of profit or loss per [pip](/pip/) for most pairs. Mini lots are the default position size for retail FX traders with accounts from $5,000 to $100,000.*
 
 <div class="wiki-hatnote">
 
-For even smaller sizes, see [micro lot](/micro-lot); for the institutional default, see [standard lot](/standard-lot).
+For even smaller sizes, see [micro lot](/micro-lot/); for the institutional default, see [standard lot](/standard-lot/).
 
 </div>
 
@@ -41,7 +41,7 @@ For even smaller sizes, see [micro lot](/micro-lot); for the institutional defau
 
 On EUR/USD at 1.0850, a mini lot is 10,000 euros worth $10,850. Each pip move is $1. A 50-pip winning trade is $50; a 100-pip losing trade is $100. The $1-per-pip figure is easy to remember and easy to calculate: 50 pips × $1 = $50. Many retail traders choose mini lots specifically because the math is so clean.
 
-[Margin](/forex-margin) requirements for a mini lot are also manageable. At 50:1 leverage, a mini lot on EUR/USD requires about $217 in [margin](/forex-margin) (10,850 / 50). At 100:1 leverage, it requires about $108. This puts mini-lot trading within reach of someone with $5,000–$10,000 in their trading account.
+[Margin](/forex-margin/) requirements for a mini lot are also manageable. At 50:1 leverage, a mini lot on EUR/USD requires about $217 in [margin](/forex-margin/) (10,850 / 50). At 100:1 leverage, it requires about $108. This puts mini-lot trading within reach of someone with $5,000–$10,000 in their trading account.
 
 ## Who trades mini lots?
 
@@ -57,9 +57,9 @@ For comparison, a trader using standard lots must mentally divide by 10, and sma
 
 ## Execution and spreads
 
-Mini lots execute with the same [spreads](/forex-spread) as standard lots on [major pairs](/major-currency-pair). A broker offering 2-pip spreads on EUR/USD offers them to mini-lot traders as well. This is a huge advantage over [micro lots](/micro-lot), which sometimes face wider spreads on some brokers.
+Mini lots execute with the same [spreads](/forex-spread/) as standard lots on [major pairs](/major-currency-pair/). A broker offering 2-pip spreads on EUR/USD offers them to mini-lot traders as well. This is a huge advantage over [micro lots](/micro-lot/), which sometimes face wider spreads on some brokers.
 
-On [exotic pairs](/exotic-currency-pair), spreads on mini lots are the same as on standard lots — both are tight by exotic standards. You do not pay extra for using mini size.
+On [exotic pairs](/exotic-currency-pair/), spreads on mini lots are the same as on standard lots — both are tight by exotic standards. You do not pay extra for using mini size.
 
 ## Psychological weight
 
@@ -71,16 +71,16 @@ Many retail traders find that mini lots remove the paralyzing fear of larger pos
 
 ### Closely related
 
-- [Lot size](/lot-size-forex) — overview of all lot sizes
-- [Standard lot](/standard-lot) — ten times as large
-- [Micro lot](/micro-lot) — one-tenth as large
-- [Pip](/pip) — mini lot pip value is $1
-- [Forex margin](/forex-margin) — capital required for mini lots
+- [Lot size](/lot-size-forex/) — overview of all lot sizes
+- [Standard lot](/standard-lot/) — ten times as large
+- [Micro lot](/micro-lot/) — one-tenth as large
+- [Pip](/pip/) — mini lot pip value is $1
+- [Forex margin](/forex-margin/) — capital required for mini lots
 
 ### Wider context
 
-- [Forex leverage](/forex-leverage) — same leverage across all sizes
-- [Risk management](/diversification) — matching position size to capital
-- [Major currency pair](/major-currency-pair) — where mini lots are most liquid
+- [Forex leverage](/forex-leverage/) — same leverage across all sizes
+- [Risk management](/diversification/) — matching position size to capital
+- [Major currency pair](/major-currency-pair/) — where mini lots are most liquid
 
 </div>

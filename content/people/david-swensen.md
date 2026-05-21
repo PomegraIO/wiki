@@ -86,17 +86,17 @@ His influence on modern investing cannot be overstated. The endowment model he c
 
 ### Closely related
 
-- [John Bogle](/john-bogle) — An advocate of low-cost indexing
-- [Ray Dalio](/ray-dalio) — A systems-thinking allocator
-- [Jeremy Grantham](/jeremy-grantham) — A long-term investment strategist
-- [Howard Marks](/howard-marks) — A long-term value investor
+- [John Bogle](/john-bogle/) — An advocate of low-cost indexing
+- [Ray Dalio](/ray-dalio/) — A systems-thinking allocator
+- [Jeremy Grantham](/jeremy-grantham/) — A long-term investment strategist
+- [Howard Marks](/howard-marks/) — A long-term value investor
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — His specialty
-- [Hedge fund](/hedge-fund) — A key component of his model
+- [Asset allocation](/asset-allocation/) — His specialty
+- [Hedge fund](/hedge-fund/) — A key component of his model
 - Private equity — Another key component
-- [Index fund](/index-fund) — His recommendation for individuals
-- [Diversification](/diversification) — The foundation of his approach
+- [Index fund](/index-fund/) — His recommendation for individuals
+- [Diversification](/diversification/) — The foundation of his approach
 
 </div>

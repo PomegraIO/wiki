@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers asset-based profitability. For equity-based returns, see [return-on-equity](/return-on-equity). For all-investor returns, see [return-on-invested-capital](/return-on-invested-capital).
+This entry covers asset-based profitability. For equity-based returns, see [return-on-equity](/return-on-equity/). For all-investor returns, see [return-on-invested-capital](/return-on-invested-capital/).
 
 </div>
 
@@ -118,7 +118,7 @@ Investors use ROA primarily to compare companies within the same industry:
 2. You calculate ROA for each.
 3. You rank them and understand where the differences come from.
 4. You examine whether differences are due to operational excellence or accounting choices (asset valuation, depreciation methods).
-5. You cross-check with other metrics: [return-on-equity](/return-on-equity), [return-on-invested-capital](/return-on-invested-capital), and margin trends.
+5. You cross-check with other metrics: [return-on-equity](/return-on-equity/), [return-on-invested-capital](/return-on-invested-capital/), and margin trends.
 
 ROA is rarely the sole decision metric but serves as a quick efficiency check within a sector.
 
@@ -128,17 +128,17 @@ ROA is rarely the sole decision metric but serves as a quick efficiency check wi
 
 ### Closely related
 
-- [Return on equity](/return-on-equity) — profitability relative to equity capital
-- [Return on invested capital](/return-on-invested-capital) — profitability relative to all invested capital
-- [Asset turnover ratio](/asset-turnover-ratio) — how efficiently assets generate sales
-- [Net profit margin](/net-profit-margin) — profitability relative to revenue
+- [Return on equity](/return-on-equity/) — profitability relative to equity capital
+- [Return on invested capital](/return-on-invested-capital/) — profitability relative to all invested capital
+- [Asset turnover ratio](/asset-turnover-ratio/) — how efficiently assets generate sales
+- [Net profit margin](/net-profit-margin/) — profitability relative to revenue
 - Total assets — the denominator
 
 ### Wider context
 
 - Capital efficiency — the broader concept
 - Leverage — how debt affects ROE but not ROA
-- [Depreciation](/depreciation) — impacts asset valuations
-- [Diversification](/diversification) — comparing ROA across holdings
+- [Depreciation](/depreciation/) — impacts asset valuations
+- [Diversification](/diversification/) — comparing ROA across holdings
 
 </div>

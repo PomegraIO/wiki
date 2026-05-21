@@ -11,7 +11,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **B3 – Brasil Bolsa Balcão** (formerly the Bolsa de Valores de São Paulo, or BOVESPA) is Brazil's primary [stock exchange](/stock-exchange) and one of the largest and most active in the world by trading volume. Headquartered in São Paulo, B3 lists Brazilian corporations across natural resources, financial services, utilities, and technology, and serves as the gateway through which international investors access Latin America's largest economy.*
+*The **B3 – Brasil Bolsa Balcão** (formerly the Bolsa de Valores de São Paulo, or BOVESPA) is Brazil's primary [stock exchange](/stock-exchange/) and one of the largest and most active in the world by trading volume. Headquartered in São Paulo, B3 lists Brazilian corporations across natural resources, financial services, utilities, and technology, and serves as the gateway through which international investors access Latin America's largest economy.*
 
 <div class="wiki-hatnote">
 
@@ -63,13 +63,13 @@ The banking sector's size on B3 reflects Brazil's importance as a developing eco
 
 The Ibovespa (Índice Bovespa) is the primary index, comprising the most liquid stocks on the exchange. The index is heavily weighted toward mining, utilities, and banking. It serves as the benchmark for Brazilian institutional investors and is tracked by global investors seeking exposure to Brazil and Latin America.
 
-Brazil's large population, natural resource wealth, and emerging consumer class have made Brazilian equities attractive to global [asset managers](/asset-allocation) and [index funds](/index-fund).
+Brazil's large population, natural resource wealth, and emerging consumer class have made Brazilian equities attractive to global [asset managers](/asset-allocation/) and [index funds](/index-fund/).
 
 ## Regulatory framework and currency risk
 
 B3 is regulated by the Comissão de Valores Mobiliários (CVM), Brazil's securities regulator. The exchange operates under Brazilian law, which includes foreign exchange controls and taxation policies that can affect international investor returns.
 
-Brazilian equities are quoted in Brazilian real (R$), and foreign investors face [currency risk](/currency-risk) in converting their investments back to dollars or other reserve currencies. This currency risk adds a premium to valuations compared to comparable international stocks.
+Brazilian equities are quoted in Brazilian real (R$), and foreign investors face [currency risk](/currency-risk/) in converting their investments back to dollars or other reserve currencies. This currency risk adds a premium to valuations compared to comparable international stocks.
 
 ## Derivatives and fixed-income expansion
 
@@ -77,7 +77,7 @@ B3 operates significant derivatives markets, including futures on the Ibovespa i
 
 ## Global investor access
 
-Foreign institutional investors and index funds hold billions of dollars in B3-listed securities. The exchange is a standard component of emerging market [asset allocation](/asset-allocation) strategies, and Brazilian equities are included in global diversified portfolios as exposure to emerging market growth and commodity cycles.
+Foreign institutional investors and index funds hold billions of dollars in B3-listed securities. The exchange is a standard component of emerging market [asset allocation](/asset-allocation/) strategies, and Brazilian equities are included in global diversified portfolios as exposure to emerging market growth and commodity cycles.
 
 ## See also
 
@@ -85,19 +85,19 @@ Foreign institutional investors and index funds hold billions of dollars in B3-l
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [National Stock Exchange of India](/national-stock-exchange-of-india) — another emerging market exchange
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Stock exchange](/stock-exchange/) — the category
+- [National Stock Exchange of India](/national-stock-exchange-of-india/) — another emerging market exchange
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
 - Emerging market — Brazil's growth trajectory
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Currency risk](/currency-risk) — real exposure
+- [Asset allocation](/asset-allocation/) — positioning
+- [Currency risk](/currency-risk/) — real exposure
 - Commodity — resource sector dominance
 
 </div>

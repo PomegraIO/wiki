@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **FX forward** (or **forward contract**) is a binding agreement to exchange two [currencies](/currency-pair) at a rate agreed today, with settlement at a future date. Unlike a [spot transaction](/spot-exchange-rate) (which settles in two days) or a [currency option](/currency-option) (which gives a right), a forward is an obligation. When the settlement date arrives, both parties must exchange the currencies at the locked-in rate, regardless of what the [spot rate](/spot-exchange-rate) has become.*
+*An **FX forward** (or **forward contract**) is a binding agreement to exchange two [currencies](/currency-pair/) at a rate agreed today, with settlement at a future date. Unlike a [spot transaction](/spot-exchange-rate/) (which settles in two days) or a [currency option](/currency-option/) (which gives a right), a forward is an obligation. When the settlement date arrives, both parties must exchange the currencies at the locked-in rate, regardless of what the [spot rate](/spot-exchange-rate/) has become.*
 
 <div class="wiki-hatnote">
 
-For optional exposure, see [currency option](/currency-option); for exchange-traded standardized contracts, see [currency future](/currency-future).
+For optional exposure, see [currency option](/currency-option/); for exchange-traded standardized contracts, see [currency future](/currency-future/).
 
 </div>
 
@@ -31,7 +31,7 @@ For optional exposure, see [currency option](/currency-option); for exchange-tra
 | **What it is** | Binding currency exchange at a fixed future rate |
 | **Settlement date** | Typically 1 month to 2 years ahead |
 | **Structure** | OTC, bilateral, customized |
-| **Pricing** | [Spot](/spot-exchange-rate) + interest-rate differential |
+| **Pricing** | [Spot](/spot-exchange-rate/) + interest-rate differential |
 | **No premium** | Unlike options; embedded in the forward rate |
 | **Counterparty** | Bank or other financial institution |
 | **Default risk** | Yes; depends on credit quality of counterparty |
@@ -46,19 +46,19 @@ A company in the UK expecting payment of $1 million from a US client in 90 days 
 - **Amount:** $1 million
 - **Settlement date:** 90 days from now
 
-90 days later, the company delivers $1 million to the bank and receives £784,314 (1,000,000 / 1.2750), regardless of the actual [spot rate](/spot-exchange-rate) on that date. If the spot rate is 1.3000 (pound stronger), the company receives fewer pounds than if they had waited — but they had certainty. If the spot rate is 1.2000 (pound weaker), the company receives more pounds than spot — the forward protected them.
+90 days later, the company delivers $1 million to the bank and receives £784,314 (1,000,000 / 1.2750), regardless of the actual [spot rate](/spot-exchange-rate/) on that date. If the spot rate is 1.3000 (pound stronger), the company receives fewer pounds than if they had waited — but they had certainty. If the spot rate is 1.2000 (pound weaker), the company receives more pounds than spot — the forward protected them.
 
 ## Pricing: spot plus interest-rate parity
 
-The [forward rate](/forward-exchange-rate) is not a prediction. It is calculated from the [spot rate](/spot-exchange-rate) and interest-rate parity: the difference between the interest rates of the two currencies.
+The [forward rate](/forward-exchange-rate/) is not a prediction. It is calculated from the [spot rate](/spot-exchange-rate/) and interest-rate parity: the difference between the interest rates of the two currencies.
 
-If pound sterling [interest rates](/interest-rate) are 5% and US dollar rates are 2%, the forward pound is weaker (more dollars per pound). An arbitrageur can profit from any deviation by borrowing at the lower rate and lending at the higher rate.
+If pound sterling [interest rates](/interest-rate/) are 5% and US dollar rates are 2%, the forward pound is weaker (more dollars per pound). An arbitrageur can profit from any deviation by borrowing at the lower rate and lending at the higher rate.
 
 The result: forward rates are deterministic, not predictive.
 
 ## Customization and OTC markets
 
-Unlike [currency futures](/currency-future) (which come in standardized sizes and expiry dates), a forward contract is negotiated. You can ask for $1,234,567 worth of coverage, settling in 47 days. The bank will quote you a rate (bid and ask), and if you accept, you have a deal.
+Unlike [currency futures](/currency-future/) (which come in standardized sizes and expiry dates), a forward contract is negotiated. You can ask for $1,234,567 worth of coverage, settling in 47 days. The bank will quote you a rate (bid and ask), and if you accept, you have a deal.
 
 This flexibility is invaluable for corporate hedging. A company can match the forward exactly to the timing and amount of their expected cash flow.
 
@@ -66,7 +66,7 @@ This flexibility is invaluable for corporate hedging. A company can match the fo
 
 With a forward, you do not pay or receive anything until settlement. If you lock in a 1.2750 forward and the spot moves to 1.3000 (in your favor), you have an unrealized gain, but there is no cash flow until 90 days later. You cannot "cash out" early without negotiating an exit with your counterparty.
 
-In contrast, a [futures contract](/currency-future) is marked to market daily, and you receive or pay variation margin every day.
+In contrast, a [futures contract](/currency-future/) is marked to market daily, and you receive or pay variation margin every day.
 
 ## Counterparty risk
 
@@ -86,17 +86,17 @@ A dealer quoting a 6-month EUR/USD forward is immediately hedging the position w
 
 ### Closely related
 
-- [Forward exchange rate](/forward-exchange-rate) — the rate in a forward contract
-- [Spot exchange rate](/spot-exchange-rate) — baseline for forward pricing
-- [Currency option](/currency-option) — flexible alternative
-- [Currency future](/currency-future) — standardized alternative
-- [FX Swap](/fx-swap) — related financing instrument
+- [Forward exchange rate](/forward-exchange-rate/) — the rate in a forward contract
+- [Spot exchange rate](/spot-exchange-rate/) — baseline for forward pricing
+- [Currency option](/currency-option/) — flexible alternative
+- [Currency future](/currency-future/) — standardized alternative
+- [FX Swap](/fx-swap/) — related financing instrument
 
 ### Wider context
 
 - Interest rate parity — determines forward rates
-- [Interest rate](/interest-rate) — drives the forward premium/discount
-- [Broker](/broker) — provides access to forward markets
-- [Central bank](/central-bank) — sometimes intervenes in forward markets
+- [Interest rate](/interest-rate/) — drives the forward premium/discount
+- [Broker](/broker/) — provides access to forward markets
+- [Central bank](/central-bank/) — sometimes intervenes in forward markets
 
 </div>

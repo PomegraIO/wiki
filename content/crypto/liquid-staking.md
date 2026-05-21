@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **liquid staking** service allows users to stake cryptocurrency without locking it up. Users deposit coins and receive a liquid token (e.g., stETH) that automatically accumulates staking rewards. The token can be traded, lent, or used in [decentralised applications](/decentralized-exchange), providing liquidity while earning yield.*
+*A **liquid staking** service allows users to stake cryptocurrency without locking it up. Users deposit coins and receive a liquid token (e.g., stETH) that automatically accumulates staking rewards. The token can be traded, lent, or used in [decentralised applications](/decentralized-exchange/), providing liquidity while earning yield.*
 
 <div class="wiki-hatnote">
 
-This entry covers liquid staking services. For regular staking, see [staking](/staking); for yield farming, see yield-farming; for the risks, see [restaking](/restaking).
+This entry covers liquid staking services. For regular staking, see [staking](/staking/); for yield farming, see yield-farming; for the risks, see [restaking](/restaking/).
 
 </div>
 
@@ -61,7 +61,7 @@ This entry covers liquid staking services. For regular staking, see [staking](/s
 
 **Liquidity.** Unlike solo staking (where funds are locked for weeks to exit), liquid staking tokens can be traded immediately. If you need cash, you can sell stETH.
 
-**Accessibility.** No minimum amount required (unlike [Ethereum](/ethereum) solo staking, which requires 32 ETH).
+**Accessibility.** No minimum amount required (unlike [Ethereum](/ethereum/) solo staking, which requires 32 ETH).
 
 **Simplicity.** No need to run validator software; the service handles it.
 
@@ -79,7 +79,7 @@ This entry covers liquid staking services. For regular staking, see [staking](/s
 
 ## The Ethereum Shanghai impact
 
-Before [Ethereum Shanghai](/ethereum-shanghai) (April 2023), staking rewards were locked — validators could earn rewards but not withdraw them. Liquid staking emerged as a workaround.
+Before [Ethereum Shanghai](/ethereum-shanghai/) (April 2023), staking rewards were locked — validators could earn rewards but not withdraw them. Liquid staking emerged as a workaround.
 
 After Shanghai, staking withdrawals became possible, reducing the advantage of liquid staking. However, liquidity benefits remain: you can trade stETH without waiting for a withdrawal.
 
@@ -115,7 +115,7 @@ Solo staking is better if you want maximum rewards and can tolerate lock-up. Liq
 
 ## DeFi opportunities
 
-stETH is used in numerous [decentralised applications](/decentralized-exchange):
+stETH is used in numerous [decentralised applications](/decentralized-exchange/):
 
 - **Lending.** Lend stETH to earn interest.
 - **Collateral.** Use stETH as collateral to borrow other assets.
@@ -129,17 +129,17 @@ These opportunities create additional yield but introduce smart contract risk.
 
 ### Closely related
 
-- [Staking](/staking) — the underlying mechanism
-- [Ethereum](/ethereum) — the primary staking asset
-- [Ethereum Shanghai](/ethereum-shanghai) — enabled staking withdrawals
-- [Validator](/validator) — who receives deposits
-- [Restaking](/restaking) — advanced liquid staking application
+- [Staking](/staking/) — the underlying mechanism
+- [Ethereum](/ethereum/) — the primary staking asset
+- [Ethereum Shanghai](/ethereum-shanghai/) — enabled staking withdrawals
+- [Validator](/validator/) — who receives deposits
+- [Restaking](/restaking/) — advanced liquid staking application
 
 ### Wider context
 
-- [Proof-of-stake](/proof-of-stake) — the consensus mechanism
+- [Proof-of-stake](/proof-of-stake/) — the consensus mechanism
 - Smart contract — liquid staking uses contracts
 - Yield farming — earning yield on staking derivatives
-- [Decentralized exchange](/decentralized-exchange) — where liquid staking tokens trade
+- [Decentralized exchange](/decentralized-exchange/) — where liquid staking tokens trade
 
 </div>

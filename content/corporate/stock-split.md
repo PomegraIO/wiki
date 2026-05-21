@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers stock splits as a corporate action. For the opposite action, see [reverse stock split](/reverse-stock-split); for other capital structure changes, see [dividend](/dividend) and shareholder return.
+This entry covers stock splits as a corporate action. For the opposite action, see [reverse stock split](/reverse-stock-split/); for other capital structure changes, see [dividend](/dividend/) and shareholder return.
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers stock splits as a corporate action. For the opposite action, s
 | **Effect on share price** | Price divided by split ratio |
 | **Number of shares** | Increased by split ratio |
 | **Shareholder approval** | Usually required (board proposes, shareholders vote) |
-| **Opposite** | [Reverse stock split](/reverse-stock-split) |
+| **Opposite** | [Reverse stock split](/reverse-stock-split/) |
 
 </aside>
 
@@ -88,7 +88,7 @@ Stock splits typically result in:
 
 ## Reverse stock split (consolidation)
 
-The opposite of a stock split is a [reverse stock split](/reverse-stock-split) or consolidation, in which multiple shares are combined into one. This is typically used when a company's stock price has fallen and the company wants to increase the price (e.g., a 1-for-10 reverse split combines every 10 shares into 1 share, increasing the share price 10-fold and reducing share count).
+The opposite of a stock split is a [reverse stock split](/reverse-stock-split/) or consolidation, in which multiple shares are combined into one. This is typically used when a company's stock price has fallen and the company wants to increase the price (e.g., a 1-for-10 reverse split combines every 10 shares into 1 share, increasing the share price 10-fold and reducing share count).
 
 Reverse splits are often viewed negatively (suggesting the stock has fallen into distress), whereas forward splits are viewed neutrally or positively.
 
@@ -125,17 +125,17 @@ However, some high-profile recent splits (Apple 2020, Tesla, Amazon 2022) sugges
 
 ### Closely related
 
-- [Reverse stock split](/reverse-stock-split) — opposite corporate action
-- [Dividend](/dividend) — similar corporate action affecting shares
-- [Share buyback](/share-buyback) — opposite effect on share count
+- [Reverse stock split](/reverse-stock-split/) — opposite corporate action
+- [Dividend](/dividend/) — similar corporate action affecting shares
+- [Share buyback](/share-buyback/) — opposite effect on share count
 - Corporate action — general category
 - Shareholder return — broader context
 
 ### Wider context
 
 - Stock price — adjusted by splits
-- [Market capitalization](/market-capitalization) — unchanged by splits
-- [Stock exchange](/stock-exchange) — sets listing standards
+- [Market capitalization](/market-capitalization/) — unchanged by splits
+- [Stock exchange](/stock-exchange/) — sets listing standards
 - Board of directors — approves splits
 - Equity dilution — opposite effect of splits
 

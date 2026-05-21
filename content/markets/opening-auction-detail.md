@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **opening auction** is the mechanism by which stock exchanges transition from [pre-market](/pre-market-trading) trading to [regular trading hours](/regular-trading-hours). Investors submit orders overnight; at 9:30 AM Eastern Time (in the US), the exchange runs an auction to match buy and sell orders at a single opening price. The opening auction is crucial for [price discovery](/stock-market) because it aggregates overnight demand and supply into one transaction.*
+*The **opening auction** is the mechanism by which stock exchanges transition from [pre-market](/pre-market-trading/) trading to [regular trading hours](/regular-trading-hours/). Investors submit orders overnight; at 9:30 AM Eastern Time (in the US), the exchange runs an auction to match buy and sell orders at a single opening price. The opening auction is crucial for [price discovery](/stock-market/) because it aggregates overnight demand and supply into one transaction.*
 
 <div class="wiki-hatnote">
 
-This entry is about the mechanism opening each trading day. For the mechanism closing each day, see [closing auction](/closing-auction-detail); for the continuous trading that follows, see [regular trading hours](/regular-trading-hours).
+This entry is about the mechanism opening each trading day. For the mechanism closing each day, see [closing auction](/closing-auction-detail/); for the continuous trading that follows, see [regular trading hours](/regular-trading-hours/).
 
 </div>
 
@@ -63,7 +63,7 @@ These indications are not binding; the actual opening price may differ if new la
 
 ## Why the opening is often the biggest move of the day
 
-The opening auction is when all overnight news and market sentiment converge into a single transaction. News released after the prior close — earnings reports, [central bank](/central-bank) decisions, geopolitical events — must all be absorbed by the auction.
+The opening auction is when all overnight news and market sentiment converge into a single transaction. News released after the prior close — earnings reports, [central bank](/central-bank/) decisions, geopolitical events — must all be absorbed by the auction.
 
 As a result, the opening is often characterized by large price moves. A stock might gap up or down 3–10% on earnings news or market-moving developments. Retail investors watching from home often see the opening as the most volatile moment of the day.
 
@@ -82,7 +82,7 @@ Several order types can participate:
 A stock that gaps significantly at the open often experiences a partial reversal during the day. This is common because:
 
 - The opening order book is dominated by overnight orders from a limited set of participants (institutions with 24-hour trading, overseas traders).
-- As [regular trading hours](/regular-trading-hours) progress, a much broader set of retail and institutional participants arrives and may have different valuations.
+- As [regular trading hours](/regular-trading-hours/) progress, a much broader set of retail and institutional participants arrives and may have different valuations.
 - Overnight moves driven by hype, fear, or limited information often prove excessive once the full market can evaluate the news.
 
 A stock that opens up 10% on positive overnight news might reverse 2–3% by the close as profit-taking and skepticism emerge.
@@ -120,18 +120,18 @@ At the opening, all the overnight demand and supply hit simultaneously, and a si
 
 ### Closely related
 
-- [Closing auction](/closing-auction-detail) — the opening's counterpart at day's end
-- [Regular trading hours](/regular-trading-hours) — the continuous trading following the open
-- [Pre-market trading](/pre-market-trading) — the period before the auction
-- [Price discovery](/stock-market) — enabled by the opening auction
-- [Stock exchange](/stock-exchange) — the venue conducting the auction
+- [Closing auction](/closing-auction-detail/) — the opening's counterpart at day's end
+- [Regular trading hours](/regular-trading-hours/) — the continuous trading following the open
+- [Pre-market trading](/pre-market-trading/) — the period before the auction
+- [Price discovery](/stock-market/) — enabled by the opening auction
+- [Stock exchange](/stock-exchange/) — the venue conducting the auction
 
 ### Wider context
 
-- [Stock](/stock) — what opens each day
-- [Liquidity](/secondary-market) — high at the opening
-- [Gap risk](/pre-market-trading) — opening gaps create this risk
-- [Order book](/stock-market) — central to the auction
-- [Market volatility](/bull-market) — highest at the opening
+- [Stock](/stock/) — what opens each day
+- [Liquidity](/secondary-market/) — high at the opening
+- [Gap risk](/pre-market-trading/) — opening gaps create this risk
+- [Order book](/stock-market/) — central to the auction
+- [Market volatility](/bull-market/) — highest at the opening
 
 </div>

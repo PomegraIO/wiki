@@ -64,7 +64,7 @@ So CAPM is a simplification. But it is a simplification that works pretty well f
 
 **The equity premium puzzle.** Historical equity returns (10% annually) seem far too high relative to what CAPM would predict given reasonable risk preferences and bond returns (2–3%). Why do investors settle for such high risk premia? CAPM does not have a great answer.
 
-**Size and value effects.** Small stocks and value stocks have historically returned more than CAPM would predict. This led to the [Fama-French three-factor model](/fama-french-three-factor-model), which adds premiums for size and value.
+**Size and value effects.** Small stocks and value stocks have historically returned more than CAPM would predict. This led to the [Fama-French three-factor model](/fama-french-three-factor-model/), which adds premiums for size and value.
 
 **Momentum.** Stocks that have recently gone up tend to continue going up; those that have gone down tend to continue going down. CAPM does not capture this.
 
@@ -80,7 +80,7 @@ To use CAPM in a valuation:
 4. Calculate cost of equity.
 5. Run sensitivity: show cost of equity at ±0.5% to ±1% on market risk premium and ±0.2 to ±0.5 on beta.
 
-The result is your discount rate for a DCF model, a [dividend discount model](/dividend-discount-model), or any other equity valuation.
+The result is your discount rate for a DCF model, a [dividend discount model](/dividend-discount-model/), or any other equity valuation.
 
 ## See also
 
@@ -88,28 +88,28 @@ The result is your discount rate for a DCF model, a [dividend discount model](/d
 
 ### Closely related
 
-- [Cost of equity](/cost-of-equity) — what CAPM estimates
-- [Beta](/beta) — a key CAPM input
-- [Market risk premium](/market-risk-premium) — the other key input
-- [Equity risk premium](/equity-risk-premium) — the premium for holding equities
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — uses cost of equity from CAPM
+- [Cost of equity](/cost-of-equity/) — what CAPM estimates
+- [Beta](/beta/) — a key CAPM input
+- [Market risk premium](/market-risk-premium/) — the other key input
+- [Equity risk premium](/equity-risk-premium/) — the premium for holding equities
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — uses cost of equity from CAPM
 
 ### Variants and extensions
 
-- [Fama-French three-factor model](/fama-french-three-factor-model) — adds size and value factors
-- [Carhart four-factor model](/carhart-four-factor-model) — adds momentum
-- [Fama-French five-factor model](/fama-french-five-factor-model) — adds profitability and investment factors
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive alternative
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — adds size and value factors
+- [Carhart four-factor model](/carhart-four-factor-model/) — adds momentum
+- [Fama-French five-factor model](/fama-french-five-factor-model/) — adds profitability and investment factors
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive alternative
 
 ### Valuation frameworks
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses CAPM-derived cost of equity
-- [Dividend discount model](/dividend-discount-model) — uses cost of equity as discount rate
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — uses WACC, which includes CAPM cost of equity
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses CAPM-derived cost of equity
+- [Dividend discount model](/dividend-discount-model/) — uses cost of equity as discount rate
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — uses WACC, which includes CAPM cost of equity
 
 ### Analysis
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — CAPM input sensitivity
-- [Football field valuation](/football-field-valuation) — ranges across assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — CAPM input sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges across assumptions
 
 </div>

@@ -10,11 +10,11 @@ keywords:
   - valuation
 image: "/svg/ratios.svg"
 ---
-*An **earnings per share**, or **EPS**, is a company's net profit divided by the number of shares outstanding. It is the most heavily scrutinized number on [earnings](/stock) day — missing expectations by a cent can sink a stock price, while beating by a few cents can lift it sharply. EPS is the yardstick by which most investors measure a company's profitability on a per-share basis.*
+*An **earnings per share**, or **EPS**, is a company's net profit divided by the number of shares outstanding. It is the most heavily scrutinized number on [earnings](/stock/) day — missing expectations by a cent can sink a stock price, while beating by a few cents can lift it sharply. EPS is the yardstick by which most investors measure a company's profitability on a per-share basis.*
 
 <div class="wiki-hatnote">
 
-This entry covers the metric. For how it relates to stock valuation, see [price-to-earnings ratio](/price-to-earnings-ratio); for the broader picture of profit, see [stock](/stock).
+This entry covers the metric. For how it relates to stock valuation, see [price-to-earnings ratio](/price-to-earnings-ratio/); for the broader picture of profit, see [stock](/stock/).
 
 </div>
 
@@ -35,14 +35,14 @@ This entry covers the metric. For how it relates to stock valuation, see [price-
 | **Announced** | In earnings press release |
 | **Market reaction** | Often sharp, especially if EPS surprises |
 | **Analyst consensus** | Watched closely; beats/misses drive prices |
-| **Related to** | [Price-to-earnings ratio](/price-to-earnings-ratio) |
+| **Related to** | [Price-to-earnings ratio](/price-to-earnings-ratio/) |
 | **Affected by** | Profit growth and share count |
 
 </aside>
 
 ## The simple definition and why it matters
 
-EPS is simple arithmetic: take a company's net profit (the bottom line of its income statement) and divide by the number of [shares](/stock) outstanding. If Apple earned \$100 billion last year and has 16 billion shares outstanding, its EPS is roughly \$6.25.
+EPS is simple arithmetic: take a company's net profit (the bottom line of its income statement) and divide by the number of [shares](/stock/) outstanding. If Apple earned \$100 billion last year and has 16 billion shares outstanding, its EPS is roughly \$6.25.
 
 Why does the market obsess over EPS rather than just total profit? Because profit alone does not tell you how much each shareholder gets. A company with \$100 billion in profit and 1 billion shares outstanding is far more valuable to a shareholder than one with the same profit but 100 billion shares. EPS normalizes profit to a per-share basis, making comparisons across companies and over time meaningful.
 
@@ -52,7 +52,7 @@ Every quarter, companies announce earnings, and along with the headline profit f
 
 Two versions exist, and the difference matters.
 
-**Basic EPS** uses the simple count of shares outstanding — the ones that exist and can vote at shareholder meetings. This number changes when the company conducts a [stock](/stock) split or buyback, but not from day-to-day trading.
+**Basic EPS** uses the simple count of shares outstanding — the ones that exist and can vote at shareholder meetings. This number changes when the company conducts a [stock](/stock/) split or buyback, but not from day-to-day trading.
 
 **Diluted EPS** is stricter. It accounts for all the shares that *could* exist if every possible option, warrant, convertible bond, and other instrument were exercised or converted. Diluted EPS is always equal to or lower than basic EPS, because a larger share count means profit is spread over more shares.
 
@@ -64,7 +64,7 @@ Here lies a subtle trap. Suppose a company has \$10 billion in annual profit and
 
 The shareholders' position has not actually improved — the profit is the same, and the company has less cash on its balance sheet. But EPS appears to have grown 11%. This is why buybacks are sometimes called "EPS accretion": they boost the metric without boosting the underlying business.
 
-Buybacks are not inherently bad; they can be a sensible way to return capital if the [stock](/stock) is undervalued. But EPS growth driven by buybacks rather than profit growth is a reason to dig deeper. Compare EPS growth to revenue growth and actual profit growth. If EPS is climbing while profits are flat or falling, buybacks are likely doing the heavy lifting.
+Buybacks are not inherently bad; they can be a sensible way to return capital if the [stock](/stock/) is undervalued. But EPS growth driven by buybacks rather than profit growth is a reason to dig deeper. Compare EPS growth to revenue growth and actual profit growth. If EPS is climbing while profits are flat or falling, buybacks are likely doing the heavy lifting.
 
 ## Beating and missing expectations
 
@@ -74,17 +74,17 @@ The market has a clear expectation for each company's quarterly EPS. These conse
 - **In line:** Actual EPS meets the consensus closely. The market usually shrugs; the story was already baked in.
 - **Miss:** Actual EPS falls short of consensus. The stock often falls, even if absolute profit is strong, because the company disappointed expectations.
 
-The gap between consensus and actual is the **earnings surprise**. A positive surprise can lift a stock 5–10% or more in a single day. A negative surprise can have the opposite effect. This is why earnings day is one of the most volatile trading events on the [stock market](/stock-market) calendar.
+The gap between consensus and actual is the **earnings surprise**. A positive surprise can lift a stock 5–10% or more in a single day. A negative surprise can have the opposite effect. This is why earnings day is one of the most volatile trading events on the [stock market](/stock-market/) calendar.
 
-Over time, companies that consistently beat estimates tend to outperform, not because they are more profitable in absolute terms, but because they have managed expectations downward — setting a lower consensus bar, then clearing it. Conversely, a company that misses repeatedly, even while growing profits, can see its [price-to-earnings ratio](/price-to-earnings-ratio) contract.
+Over time, companies that consistently beat estimates tend to outperform, not because they are more profitable in absolute terms, but because they have managed expectations downward — setting a lower consensus bar, then clearing it. Conversely, a company that misses repeatedly, even while growing profits, can see its [price-to-earnings ratio](/price-to-earnings-ratio/) contract.
 
 ## Forward EPS and the growth story
 
 When analysts talk about valuation, they often reference **forward EPS** — an estimate of what EPS will be over the next four quarters. A stock trading at 20 times forward EPS looks cheaper than one trading at 30 times, but only if the earnings growth prospects are similar.
 
-A high-growth company — one expected to grow earnings 20% per year — is often "worth" a higher multiple of forward EPS than a mature company growing 3% per year. This is why [price-to-earnings ratio](/price-to-earnings-ratio) alone is an incomplete picture. Growth matters.
+A high-growth company — one expected to grow earnings 20% per year — is often "worth" a higher multiple of forward EPS than a mature company growing 3% per year. This is why [price-to-earnings ratio](/price-to-earnings-ratio/) alone is an incomplete picture. Growth matters.
 
-Analysts spend enormous time debating what forward EPS will be, and they are often wrong. Earnings are hard to predict. Economic shocks, management blunders, competitive changes, and product cycles all affect what profit a company will actually achieve. This uncertainty is one reason why betting your entire portfolio on a few high-conviction stock picks is risky; [diversification](/diversification) across many companies with varying visibility is safer.
+Analysts spend enormous time debating what forward EPS will be, and they are often wrong. Earnings are hard to predict. Economic shocks, management blunders, competitive changes, and product cycles all affect what profit a company will actually achieve. This uncertainty is one reason why betting your entire portfolio on a few high-conviction stock picks is risky; [diversification](/diversification/) across many companies with varying visibility is safer.
 
 ## The road from income statement to EPS
 
@@ -105,19 +105,19 @@ The best companies combine profit growth with prudent capital allocation — not
 
 ### Closely related
 
-- [Stock](/stock) — the shares that divide the profit
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — EPS in the denominator
-- [Dividend](/dividend) — paid from profit, influenced by EPS
-- [Public company](/public-company) — the entity that reports EPS
-- [Market capitalization](/market-capitalization) — total value, of which EPS is one driver
-- [Stock market](/stock-market) — where EPS announcements move prices
+- [Stock](/stock/) — the shares that divide the profit
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — EPS in the denominator
+- [Dividend](/dividend/) — paid from profit, influenced by EPS
+- [Public company](/public-company/) — the entity that reports EPS
+- [Market capitalization](/market-capitalization/) — total value, of which EPS is one driver
+- [Stock market](/stock-market/) — where EPS announcements move prices
 
 ### Wider context
 
-- [Bull market](/bull-market) · [Bear market](/bear-market) — earnings surprises can shift market regimes
-- [Diversification](/diversification) — hedges against one company missing EPS
-- [Asset allocation](/asset-allocation) — growth stocks emphasize EPS growth
-- [Compound interest](/compound-interest) — profit reinvested builds future EPS
-- [Inflation](/inflation) — can distort historical EPS comparisons
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — earnings surprises can shift market regimes
+- [Diversification](/diversification/) — hedges against one company missing EPS
+- [Asset allocation](/asset-allocation/) — growth stocks emphasize EPS growth
+- [Compound interest](/compound-interest/) — profit reinvested builds future EPS
+- [Inflation](/inflation/) — can distort historical EPS comparisons
 
 </div>

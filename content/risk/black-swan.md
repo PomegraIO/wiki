@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers unpredictable catastrophic events. For tail events that are at least somewhat foreseeable, see [gray-swan](/gray-swan); for extreme losses in general, see [tail-risk](/tail-risk).
+This entry covers unpredictable catastrophic events. For tail events that are at least somewhat foreseeable, see [gray-swan](/gray-swan/); for extreme losses in general, see [tail-risk](/tail-risk/).
 
 </div>
 
@@ -62,7 +62,7 @@ A truly unpredictable event with massive consequences is a black swan. A predict
 
 ## Why black swans are not hedgeable
 
-You cannot hedge against black swans because they are unpredictable. You can buy [put options](/option) to protect against stock market declines, but if the decline is from an event you did not anticipate, you likely did not buy the right puts.
+You cannot hedge against black swans because they are unpredictable. You can buy [put options](/option/) to protect against stock market declines, but if the decline is from an event you did not anticipate, you likely did not buy the right puts.
 
 This is the paradox: investors can hedge against known risks (normal market moves, interest rate changes) but not unknown ones (wars, pandemics, regulatory shocks). The cost of hedging all possible black swans is prohibitive — you would spend all your returns on insurance against events that might never happen.
 
@@ -70,7 +70,7 @@ This is the paradox: investors can hedge against known risks (normal market move
 
 Since black swans are unpredictable by definition, you cannot prepare with perfect foresight. But you can reduce vulnerability:
 
-- **Conservative positioning.** Keep more cash and low-risk assets than traditional [asset allocation](/asset-allocation) suggests. When a black swan hits, cash allows you to buy at low prices rather than being forced to sell.
+- **Conservative positioning.** Keep more cash and low-risk assets than traditional [asset allocation](/asset-allocation/) suggests. When a black swan hits, cash allows you to buy at low prices rather than being forced to sell.
 
 - **Diversification across uncorrelated assets.** Some assets (like gold, long-term bonds, or certain international markets) spike in value during some black swan scenarios. Holding a small amount of non-correlated assets reduces catastrophic drawdowns.
 
@@ -78,13 +78,13 @@ Since black swans are unpredictable by definition, you cannot prepare with perfe
 
 - **Stress-testing extremes.** Test portfolio performance under scenarios that seem absurd or impossible. One of them might actually happen.
 
-- **Insurance.** Some investors buy "tail risk insurance" — [out-of-the-money put options](/option) or other contracts that pay off if extreme events occur. It is expensive, but it caps losses.
+- **Insurance.** Some investors buy "tail risk insurance" — [out-of-the-money put options](/option/) or other contracts that pay off if extreme events occur. It is expensive, but it caps losses.
 
 - **Acceptance.** The honest answer is that some black swans are unhedgeable. Rather than spending excessively to hedge the unknowable, accept that rare catastrophic events might happen and ensure you can survive them.
 
 ## The distribution of returns and black swans
 
-Black swans imply that return distributions have much fatter tails than normal distributions. This is captured by [fat-tail-risk](/fat-tail-risk) and kurtosis-financial. The 2008 crisis, March 2020, October 1987, and other black swans all represent outcomes that were supposed to be "impossible" under normal distribution assumptions.
+Black swans imply that return distributions have much fatter tails than normal distributions. This is captured by [fat-tail-risk](/fat-tail-risk/) and kurtosis-financial. The 2008 crisis, March 2020, October 1987, and other black swans all represent outcomes that were supposed to be "impossible" under normal distribution assumptions.
 
 ## See also
 
@@ -92,18 +92,18 @@ Black swans imply that return distributions have much fatter tails than normal d
 
 ### Closely related
 
-- [Gray-swan](/gray-swan) — known but hard-to-model catastrophic risk
-- [Tail-risk](/tail-risk) — broad exposure to extreme losses
-- [Fat-tail-risk](/fat-tail-risk) — markets have thicker tails than normal
-- [Model-risk](/model-risk) — models miss black swans by definition
-- [Stress-testing](/stress-testing) — attempts to anticipate tail scenarios
+- [Gray-swan](/gray-swan/) — known but hard-to-model catastrophic risk
+- [Tail-risk](/tail-risk/) — broad exposure to extreme losses
+- [Fat-tail-risk](/fat-tail-risk/) — markets have thicker tails than normal
+- [Model-risk](/model-risk/) — models miss black swans by definition
+- [Stress-testing](/stress-testing/) — attempts to anticipate tail scenarios
 
 ### Broader context
 
-- [Value-at-risk](/value-at-risk) — systematically underestimates black swan risk
-- [Diversification](/diversification) — helps in normal times, breaks in black swans
-- [Volatility](/stock-market) — spikes during black swan events
-- [Put option](/option) — used to hedge tail risk
-- [Systemic-risk](/systemic-risk) — black swans often trigger systemic crises
+- [Value-at-risk](/value-at-risk/) — systematically underestimates black swan risk
+- [Diversification](/diversification/) — helps in normal times, breaks in black swans
+- [Volatility](/stock-market/) — spikes during black swan events
+- [Put option](/option/) — used to hedge tail risk
+- [Systemic-risk](/systemic-risk/) — black swans often trigger systemic crises
 
 </div>

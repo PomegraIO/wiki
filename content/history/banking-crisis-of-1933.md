@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the banking crisis of 1933. For the stock market collapse that preceded it, see [Wall Street Crash of 1929](/wall-street-crash-of-1929); for the insurance mechanism that emerged, see FDIC.
+This entry covers the banking crisis of 1933. For the stock market collapse that preceded it, see [Wall Street Crash of 1929](/wall-street-crash-of-1929/); for the insurance mechanism that emerged, see FDIC.
 
 </div>
 
@@ -74,16 +74,16 @@ The Banking Crisis of 1933 and its remedies established the framework for financ
 
 ### Closely related
 
-- [Wall Street Crash of 1929](/wall-street-crash-of-1929) — the triggering event
-- [Great Depression](/great-depression) — the broader economic context
+- [Wall Street Crash of 1929](/wall-street-crash-of-1929/) — the triggering event
+- [Great Depression](/great-depression/) — the broader economic context
 - Bank run — the mechanism of failure
 
 ### Wider context
 
 - FDIC — the insurer created in response
-- [Federal Reserve](/federal-reserve) — the central bank that should have intervened earlier
+- [Federal Reserve](/federal-reserve/) — the central bank that should have intervened earlier
 - Financial regulation — the regulatory framework that emerged
-- [Recession](/recession) — the macroeconomic backdrop
+- [Recession](/recession/) — the macroeconomic backdrop
 - Credit crisis — the broader phenomenon
 
 </div>

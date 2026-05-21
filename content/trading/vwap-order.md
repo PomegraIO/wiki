@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **VWAP order** (volume-weighted average price) is an [algorithmic order](/algorithmic-trading) that automatically breaks your large trade into small pieces and executes them throughout the trading day. The algorithm targets an execution price equal to or better than the day's VWAP — the price that accounts for trading volume at each level. Institutional traders use VWAP to execute large positions with minimal market impact.*
+*A **VWAP order** (volume-weighted average price) is an [algorithmic order](/algorithmic-trading/) that automatically breaks your large trade into small pieces and executes them throughout the trading day. The algorithm targets an execution price equal to or better than the day's VWAP — the price that accounts for trading volume at each level. Institutional traders use VWAP to execute large positions with minimal market impact.*
 
 <div class="wiki-hatnote">
 
-For a simpler time-based slicing, see [TWAP order](/twap-order). For manual size control, see [iceberg order](/iceberg-order).
+For a simpler time-based slicing, see [TWAP order](/twap-order/). For manual size control, see [iceberg order](/iceberg-order/).
 
 </div>
 
@@ -32,7 +32,7 @@ For a simpler time-based slicing, see [TWAP order](/twap-order). For manual size
 | **Execution method** | Breaks order into small pieces, adapts to intraday volume |
 | **Best for** | Large orders, minimizing market impact, achieving average prices |
 | **Speed** | Full day or more (all-day execution) |
-| **Cost advantage** | Typically beats a single [market order](/market-order) due to execution timing |
+| **Cost advantage** | Typically beats a single [market order](/market-order/) due to execution timing |
 
 </aside>
 
@@ -87,7 +87,7 @@ For a 100,000-share buy:
 
 ## VWAP vs. TWAP
 
-| Feature | VWAP | [TWAP](/twap-order) |
+| Feature | VWAP | [TWAP](/twap-order/) |
 |---|---|---|
 | **Time slicing** | Adapts to volume | Fixed time intervals |
 | **Volume awareness** | Yes; targets volume-weighted price | No; ignores volume |
@@ -117,7 +117,7 @@ Most large brokers offer VWAP:
 
 Many brokers also offer variations:
 - **VWAP target:** Execute to hit a specific VWAP (not the day's actual VWAP, but a target).
-- **Limit price:** VWAP order with a [limit order](/limit-order) constraint (do not execute above/below a certain price).
+- **Limit price:** VWAP order with a [limit order](/limit-order/) constraint (do not execute above/below a certain price).
 
 ## Real-world example
 
@@ -135,10 +135,10 @@ The broker's VWAP algorithm breaks it into 50 orders of 20,000 shares each, spre
 
 ### Algorithmic and execution orders
 
-- [TWAP order](/twap-order) — time-weighted average price
-- [Algorithmic trading](/algorithmic-trading) — optimal order execution
-- [Smart order router](/smart-order-router) — routes orders across venues
-- [Iceberg order](/iceberg-order) — simpler size-hiding mechanism
+- [TWAP order](/twap-order/) — time-weighted average price
+- [Algorithmic trading](/algorithmic-trading/) — optimal order execution
+- [Smart order router](/smart-order-router/) — routes orders across venues
+- [Iceberg order](/iceberg-order/) — simpler size-hiding mechanism
 
 ### Execution and market impact
 
@@ -152,6 +152,6 @@ The broker's VWAP algorithm breaks it into 50 orders of 20,000 shares each, spre
 - Order book — where VWAP algorithm finds liquidity
 - Intraday volume — VWAP targets this pattern
 - Liquidity — availability of shares at each price
-- [Best execution](/best-execution) — VWAP helps achieve this
+- [Best execution](/best-execution/) — VWAP helps achieve this
 
 </div>

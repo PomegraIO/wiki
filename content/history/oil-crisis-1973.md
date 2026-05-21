@@ -15,7 +15,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1973 crisis. For the subsequent energy shock, see [Oil Crisis of 1979](/oil-crisis-1979); for the macroeconomic consequences, see [stagflation](/stagflation).
+This entry covers the 1973 crisis. For the subsequent energy shock, see [Oil Crisis of 1979](/oil-crisis-1979/); for the macroeconomic consequences, see [stagflation](/stagflation/).
 
 </div>
 
@@ -76,16 +76,16 @@ The oil crisis demonstrated the interconnection of political and economic system
 
 ### Closely related
 
-- [Oil Crisis of 1979](/oil-crisis-1979) — the subsequent energy shock
-- [Stagflation](/stagflation) — the macroeconomic consequence
+- [Oil Crisis of 1979](/oil-crisis-1979/) — the subsequent energy shock
+- [Stagflation](/stagflation/) — the macroeconomic consequence
 - OPEC — the cartel that organized the embargo
 
 ### Wider context
 
 - Energy security — the strategic concern the crisis highlighted
-- [Inflation](/inflation) — the price spike
-- [Recession](/recession) — the economic contraction
-- [Monetary policy](/monetary-policy) — the policy dilemma stagflation created
+- [Inflation](/inflation/) — the price spike
+- [Recession](/recession/) — the economic contraction
+- [Monetary policy](/monetary-policy/) — the policy dilemma stagflation created
 - Commodity price — oil as a commodity shock
 
 </div>

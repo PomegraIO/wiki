@@ -15,7 +15,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers a revenue-based valuation metric. For earnings-based ratios, see [price-to-earnings ratio](/price-to-earnings-ratio) and [price-to-book ratio](/price-to-book-ratio).
+This entry covers a revenue-based valuation metric. For earnings-based ratios, see [price-to-earnings ratio](/price-to-earnings-ratio/) and [price-to-book ratio](/price-to-book-ratio/).
 
 </div>
 
@@ -44,7 +44,7 @@ This entry covers a revenue-based valuation metric. For earnings-based ratios, s
 
 Revenue is the top line — the total amount of money a company takes in before subtracting any costs. It is the hardest number on the income statement to manipulate. You can squeeze or stretch earnings through accounting choices (depreciation, reserves, revenue recognition); you cannot easily claim revenue that never came in.
 
-The [price-to-sales ratio](/price-to-sales-ratio) asks: how much is the market willing to pay per dollar of sales? It ignores profitability entirely. A company losing $1 on every $10 of sales and a company earning $1 on every $10 of sales can have the same P/S if they have similar market caps and revenues. That is by design. P/S cuts through the accounting noise and asks a simpler question: is the company big enough, and cheap enough, that if it ever becomes profitable, shareholders will do well?
+The [price-to-sales ratio](/price-to-sales-ratio/) asks: how much is the market willing to pay per dollar of sales? It ignores profitability entirely. A company losing $1 on every $10 of sales and a company earning $1 on every $10 of sales can have the same P/S if they have similar market caps and revenues. That is by design. P/S cuts through the accounting noise and asks a simpler question: is the company big enough, and cheap enough, that if it ever becomes profitable, shareholders will do well?
 
 ## How to calculate it
 
@@ -58,7 +58,7 @@ Example: A company with a $50 billion market cap and $20 billion in trailing rev
 
 ## When P/S works well
 
-**Comparing unprofitable companies.** A software startup losing money cannot be compared using [price-to-earnings ratio](/price-to-earnings-ratio), because earnings are negative. You can use P/S. A P/S of 5.0 on a fast-growing cloud company may be cheap; a P/S of 15.0 may price in perfection.
+**Comparing unprofitable companies.** A software startup losing money cannot be compared using [price-to-earnings ratio](/price-to-earnings-ratio/), because earnings are negative. You can use P/S. A P/S of 5.0 on a fast-growing cloud company may be cheap; a P/S of 15.0 may price in perfection.
 
 **Spotting the accounting-game players.** A company with high P/E but low P/S may be boosting earnings through accounting rather than real operations. You can hide poor profitability in the margins for years with the right accounting. You cannot hide weak revenues.
 
@@ -92,7 +92,7 @@ Most investors use P/S alongside profitability metrics. For example:
 
 A company with a P/S of 0.8 and steadily expanding margins is attractive; a company with a P/S of 0.8 and shrinking margins is probably the victim of intense competition.
 
-P/S is also useful as a sanity check on [price-to-earnings ratio](/price-to-earnings-ratio). If a company has a P/E of 15 and a P/S of 5, that implies a net margin of 33% — worth verifying. If the actual net margin is 5%, then the P/E is an illusion.
+P/S is also useful as a sanity check on [price-to-earnings ratio](/price-to-earnings-ratio/). If a company has a P/E of 15 and a P/S of 5, that implies a net margin of 33% — worth verifying. If the actual net margin is 5%, then the P/E is an illusion.
 
 ## See also
 
@@ -100,17 +100,17 @@ P/S is also useful as a sanity check on [price-to-earnings ratio](/price-to-earn
 
 ### Closely related
 
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — the earnings-based alternative
-- [Price-to-book ratio](/price-to-book-ratio) — the balance-sheet alternative
-- [Gross profit margin](/gross-profit-margin) — the markup on cost of goods sold
-- [Operating margin](/operating-margin) — the profit from core business operations
-- [Net profit margin](/net-profit-margin) — the bottom-line profit rate
-- [Market capitalization](/market-capitalization) — the total price being valued
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — the earnings-based alternative
+- [Price-to-book ratio](/price-to-book-ratio/) — the balance-sheet alternative
+- [Gross profit margin](/gross-profit-margin/) — the markup on cost of goods sold
+- [Operating margin](/operating-margin/) — the profit from core business operations
+- [Net profit margin](/net-profit-margin/) — the bottom-line profit rate
+- [Market capitalization](/market-capitalization/) — the total price being valued
 
 ### Wider context
 
 - Revenue — the top line of the income statement
 - Earnings quality — whether earnings are real
-- [Diversification](/diversification) — comparing valuations across companies and sectors
+- [Diversification](/diversification/) — comparing valuations across companies and sectors
 
 </div>

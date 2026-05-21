@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers parametric VaR calculation. For alternative VaR methods, see [historical-var](/historical-var) and [monte-carlo-var](/monte-carlo-var); for the general [value-at-risk](/value-at-risk) concept.
+This entry covers parametric VaR calculation. For alternative VaR methods, see [historical-var](/historical-var/) and [monte-carlo-var](/monte-carlo-var/); for the general [value-at-risk](/value-at-risk/) concept.
 
 </div>
 
@@ -71,7 +71,7 @@ For a $100M portfolio, the 1-day 99% VaR is 2.28% × $100M = $2.28M.
 
 ## Disadvantages: The normality assumption
 
-The critical weakness of parametric VaR is the assumption that returns are normally distributed. Real markets do not follow normal distributions; they have [fat tails](/fat-tail-risk).
+The critical weakness of parametric VaR is the assumption that returns are normally distributed. Real markets do not follow normal distributions; they have [fat tails](/fat-tail-risk/).
 
 **Example of failure:**
 - Historical μ = 0.05%, σ = 1%.
@@ -110,9 +110,9 @@ Parametric VaR fails in:
 Parametric VaR is fast and simple, which is why it is popular. But its simplicity comes at the cost of realism. The financial industry has learned (painfully) that parametric VaR alone is not enough.
 
 Modern risk management uses parametric VaR as one input among many:
-- Pair it with [historical-var](/historical-var) or [monte-carlo-var](/monte-carlo-var) for cross-checks.
-- Complement it with [expected-shortfall](/expected-shortfall) to measure tail severity.
-- Use [stress-testing](/stress-testing) and [scenario-analysis](/scenario-analysis) to explicitly explore extreme cases.
+- Pair it with [historical-var](/historical-var/) or [monte-carlo-var](/monte-carlo-var/) for cross-checks.
+- Complement it with [expected-shortfall](/expected-shortfall/) to measure tail severity.
+- Use [stress-testing](/stress-testing/) and [scenario-analysis](/scenario-analysis/) to explicitly explore extreme cases.
 
 The key insight is that parametric VaR assumes a particular distribution. If that assumption is wrong (and in real markets, it is), the VaR estimate can be wildly off.
 
@@ -122,18 +122,18 @@ The key insight is that parametric VaR assumes a particular distribution. If tha
 
 ### Closely related
 
-- [Value-at-risk](/value-at-risk) — the VaR concept itself
-- [Historical-var](/historical-var) — alternative VaR method without distributional assumptions
-- [Monte-carlo-var](/monte-carlo-var) — simulation-based VaR using more flexible distributions
-- [Expected-shortfall](/expected-shortfall) — measures tail severity, not just threshold
-- [Model-risk](/model-risk) — parametric VaR depends on model assumptions
+- [Value-at-risk](/value-at-risk/) — the VaR concept itself
+- [Historical-var](/historical-var/) — alternative VaR method without distributional assumptions
+- [Monte-carlo-var](/monte-carlo-var/) — simulation-based VaR using more flexible distributions
+- [Expected-shortfall](/expected-shortfall/) — measures tail severity, not just threshold
+- [Model-risk](/model-risk/) — parametric VaR depends on model assumptions
 
 ### Methodological issues
 
-- [Fat-tail-risk](/fat-tail-risk) — parametric VaR misses fat tails
-- [Parameter-risk](/parameter-risk) — estimates of μ and σ are uncertain
-- [Stress-testing](/stress-testing) — addresses parametric VaR limitations
-- [Scenario-analysis](/scenario-analysis) — explicit extreme scenarios
-- [Backtesting](/value-at-risk) — checks whether parametric VaR is accurate
+- [Fat-tail-risk](/fat-tail-risk/) — parametric VaR misses fat tails
+- [Parameter-risk](/parameter-risk/) — estimates of μ and σ are uncertain
+- [Stress-testing](/stress-testing/) — addresses parametric VaR limitations
+- [Scenario-analysis](/scenario-analysis/) — explicit extreme scenarios
+- [Backtesting](/value-at-risk/) — checks whether parametric VaR is accurate
 
 </div>

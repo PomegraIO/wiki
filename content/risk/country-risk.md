@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Country risk is the risk of economic loss on an investment due to events in a specific country — political instability, expropriation of assets, currency controls, capital flight restrictions, war, civil unrest, or default by the government. It is a form of [systemic-risk](/systemic-risk) concentrated in a single nation.*
+*Country risk is the risk of economic loss on an investment due to events in a specific country — political instability, expropriation of assets, currency controls, capital flight restrictions, war, civil unrest, or default by the government. It is a form of [systemic-risk](/systemic-risk/) concentrated in a single nation.*
 
 <div class="wiki-hatnote">
 
-This entry covers risks specific to a country's political and economic stability. For the risk that a government defaults on its debt, see [sovereign-risk](/sovereign-risk); for loss from exchange rate moves, see [currency-risk](/currency-risk).
+This entry covers risks specific to a country's political and economic stability. For the risk that a government defaults on its debt, see [sovereign-risk](/sovereign-risk/); for loss from exchange rate moves, see [currency-risk](/currency-risk/).
 
 </div>
 
@@ -41,7 +41,7 @@ This entry covers risks specific to a country's political and economic stability
 
 ## Country risk is a tax on investing in certain countries
 
-Imagine you buy a [bond](/bond) issued by a Brazilian company. The company itself is profitable and the [credit risk](/credit-risk) is low. But Brazil has a history of currency crises, inflation, and capital controls. A political crisis could trigger an order preventing residents from moving money out of the country, leaving you unable to repatriate your investment. That risk — the risk due to Brazil's policies and political stability, not the company's — is country risk.
+Imagine you buy a [bond](/bond/) issued by a Brazilian company. The company itself is profitable and the [credit risk](/credit-risk/) is low. But Brazil has a history of currency crises, inflation, and capital controls. A political crisis could trigger an order preventing residents from moving money out of the country, leaving you unable to repatriate your investment. That risk — the risk due to Brazil's policies and political stability, not the company's — is country risk.
 
 Country risk includes:
 
@@ -62,7 +62,7 @@ Emerging markets typically carry higher country risk than developed ones, though
 
 ## How country risk is priced
 
-Country risk is priced into the yields investors demand. A US Treasury yields 4%; a Brazilian government [bond](/bond) of comparable maturity might yield 8%. That 4% spread is compensation for country risk. If a political crisis erupts, spreads widen — investors demand even higher yields to hold the risk — and bond prices fall.
+Country risk is priced into the yields investors demand. A US Treasury yields 4%; a Brazilian government [bond](/bond/) of comparable maturity might yield 8%. That 4% spread is compensation for country risk. If a political crisis erupts, spreads widen — investors demand even higher yields to hold the risk — and bond prices fall.
 
 Investors use several tools to measure country risk:
 
@@ -73,13 +73,13 @@ Investors use several tools to measure country risk:
 
 ## Protecting yourself from country risk
 
-For individual investors, the simplest approach is to avoid concentrated exposures to high-risk countries. Hold a globally diversified [index fund](/index-fund) or [ETF](/etf), which automatically limits your country risk to your home country (most investors are home-biased anyway) and provides only small exposures to any single risky nation.
+For individual investors, the simplest approach is to avoid concentrated exposures to high-risk countries. Hold a globally diversified [index fund](/index-fund/) or [ETF](/etf/), which automatically limits your country risk to your home country (most investors are home-biased anyway) and provides only small exposures to any single risky nation.
 
 If you do invest in emerging markets, diversify across many countries, rather than concentrating in one. A portfolio with 2% each in Brazil, India, Mexico, and Indonesia carries less country risk than 8% in Brazil alone.
 
 For professional investors and funds, country risk management includes:
 
-- **Hedging.** Using currency forwards to hedge [currency-risk](/currency-risk) that often accompanies country risk.
+- **Hedging.** Using currency forwards to hedge [currency-risk](/currency-risk/) that often accompanies country risk.
 - **Scenario analysis.** Stress-testing a portfolio to crisis scenarios in key countries.
 - **Political analysis.** Tracking elections, policy shifts, and geopolitical tensions that might affect country risk.
 - **Diversification.** Spreading exposure across many countries with different risk profiles.
@@ -92,18 +92,18 @@ Country risk is real, and it has destroyed many otherwise good investments. But 
 
 ### Closely related
 
-- [Sovereign risk](/sovereign-risk) — default risk of a government
-- [Currency risk](/currency-risk) — often accompanies country risk
-- [Political risk](/country-risk) — subset of country risk
-- [Credit risk](/credit-risk) — company-level default risk within a country
-- [Emerging market](/stock-market) — higher country risk but potentially higher returns
+- [Sovereign risk](/sovereign-risk/) — default risk of a government
+- [Currency risk](/currency-risk/) — often accompanies country risk
+- [Political risk](/country-risk/) — subset of country risk
+- [Credit risk](/credit-risk/) — company-level default risk within a country
+- [Emerging market](/stock-market/) — higher country risk but potentially higher returns
 
 ### Broader context
 
-- [Systemic risk](/systemic-risk) — country risk can become systemic if severe
-- [Diversification](/diversification) — spreading across countries reduces country risk
-- [Asset allocation](/asset-allocation) — how much to allocate to emerging markets
-- [Interest-rate-risk](/interest-rate-risk) — often moves with country risk
-- [Stress testing](/stress-testing) — assessing portfolio losses under country crisis scenarios
+- [Systemic risk](/systemic-risk/) — country risk can become systemic if severe
+- [Diversification](/diversification/) — spreading across countries reduces country risk
+- [Asset allocation](/asset-allocation/) — how much to allocate to emerging markets
+- [Interest-rate-risk](/interest-rate-risk/) — often moves with country risk
+- [Stress testing](/stress-testing/) — assessing portfolio losses under country crisis scenarios
 
 </div>

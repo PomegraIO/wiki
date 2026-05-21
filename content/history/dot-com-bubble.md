@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the dot-com bubble. For the market decline, see [NASDAQ Crash 2000](/nasdaq-crash-2000); for the pattern of bubble formation, see speculative bubble.
+This entry covers the dot-com bubble. For the market decline, see [NASDAQ Crash 2000](/nasdaq-crash-2000/); for the pattern of bubble formation, see speculative bubble.
 
 </div>
 
@@ -87,15 +87,15 @@ Yet it also showed that bubbles, while destructive for many investors, do not ne
 
 ### Closely related
 
-- [NASDAQ Crash 2000](/nasdaq-crash-2000) — the subsequent market decline
+- [NASDAQ Crash 2000](/nasdaq-crash-2000/) — the subsequent market decline
 - Speculative bubble — the general phenomenon
-- [Tulip Mania](/tulip-mania) — another speculative excess
+- [Tulip Mania](/tulip-mania/) — another speculative excess
 
 ### Wider context
 
 - Venture capital — the funding mechanism
-- [IPO](/initial-public-offering) — the public offering mechanism
-- [Stock market](/stock-market) — the venue
+- [IPO](/initial-public-offering/) — the public offering mechanism
+- [Stock market](/stock-market/) — the venue
 - Valuation — divorced from reality in the bubble
 - Narrative — the "new economy" story that drove it
 

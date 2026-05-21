@@ -14,7 +14,7 @@ image: "/svg/fiscal.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the total debt measure. For debt adjusted for government financial assets, see [net debt](/net-debt); for debt held by external creditors, see [public debt](/public-debt); for debt relative to economic size, see [debt-to-GDP ratio](/debt-to-gdp-ratio).
+This entry covers the total debt measure. For debt adjusted for government financial assets, see [net debt](/net-debt/); for debt held by external creditors, see [public debt](/public-debt/); for debt relative to economic size, see [debt-to-GDP ratio](/debt-to-gdp-ratio/).
 
 </div>
 
@@ -32,7 +32,7 @@ This entry covers the total debt measure. For debt adjusted for government finan
 | **Components** | Treasury securities, other government debt |
 | **Does not subtract** | Government financial assets (cash, securities, reserves) |
 | **Measured in** | Dollars (or local currency) and as % of GDP |
-| **vs. [Net debt](/net-debt)** | Much larger (does not deduct asset holdings) |
+| **vs. [Net debt](/net-debt/)** | Much larger (does not deduct asset holdings) |
 | **Used by** | Statistical agencies, international comparisons |
 | **Interpretation** | Highest estimate of total debt burden |
 | **Reported by** | National statistical offices, OECD, IMF |
@@ -43,19 +43,19 @@ This entry covers the total debt measure. For debt adjusted for government finan
 
 Gross debt includes all government debt securities (Treasury bonds, bills, notes) and other borrowing. It sums up:
 
-- Marketable Treasury securities held by the [public](/public-debt)
-- [Intragovernmental debt](/intragovernmental-debt) owed to government trust funds
+- Marketable Treasury securities held by the [public](/public-debt/)
+- [Intragovernmental debt](/intragovernmental-debt/) owed to government trust funds
 - Loans from international institutions (if applicable)
 - Other government liabilities
 
 It does **not** subtract government financial assets such as:
 
 - Cash reserves in the Treasury
-- [Securities](/stock) and [bonds](/bond) held by government
+- [Securities](/stock/) and [bonds](/bond/) held by government
 - Gold reserves
 - Loans the government has made to others
 
-This makes gross debt the most comprehensive (and highest) measure. The US federal government's gross debt is larger than its [net debt](/net-debt) because it does not offset the substantial assets held in trust funds and accounts.
+This makes gross debt the most comprehensive (and highest) measure. The US federal government's gross debt is larger than its [net debt](/net-debt/) because it does not offset the substantial assets held in trust funds and accounts.
 
 ## Why gross debt matters
 
@@ -69,24 +69,24 @@ Gross debt is the most conservative estimate of government liabilities. It answe
 
 ## Gross vs. net debt
 
-The distinction between gross and [net debt](/net-debt) can be substantial. A government with $1 trillion in Treasury debt and $200 billion in financial assets has:
+The distinction between gross and [net debt](/net-debt/) can be substantial. A government with $1 trillion in Treasury debt and $200 billion in financial assets has:
 
 - **Gross debt:** $1 trillion
-- **[Net debt](/net-debt):** $800 billion
+- **[Net debt](/net-debt/):** $800 billion
 
-Which number is more meaningful depends on context. [Net debt](/net-debt) gives credit for government assets and liquidity; gross debt does not. For creditors, gross debt is the more relevant measure. For assessing the government's true net liabilities, [net debt](/net-debt) is better.
+Which number is more meaningful depends on context. [Net debt](/net-debt/) gives credit for government assets and liquidity; gross debt does not. For creditors, gross debt is the more relevant measure. For assessing the government's true net liabilities, [net debt](/net-debt/) is better.
 
 ## Gross debt in practice
 
-Developed countries report both gross and [net debt](/net-debt) figures. The International Monetary Fund uses gross debt in its fiscal statistics and IMF surveillance reports. This allows consistent cross-country comparison.
+Developed countries report both gross and [net debt](/net-debt/) figures. The International Monetary Fund uses gross debt in its fiscal statistics and IMF surveillance reports. This allows consistent cross-country comparison.
 
-The US reports both figures, though the media and policymakers focus on gross debt (often called "total national debt"). The difference between gross and [net debt](/net-debt) is not huge for the federal government but is meaningful — roughly 10-15% on an annual basis.
+The US reports both figures, though the media and policymakers focus on gross debt (often called "total national debt"). The difference between gross and [net debt](/net-debt/) is not huge for the federal government but is meaningful — roughly 10-15% on an annual basis.
 
 ## Limitations
 
 Gross debt's strength — comprehensiveness — is also its limitation. It does not account for whether a government has liquid assets to pay debt (like a cash reserve) or only illiquid assets (like strategic gold reserves that would never be sold). It also does not account for government revenues or the ability to service debt.
 
-Additionally, measuring "all government liabilities" requires conventions. Off-balance-sheet liabilities (like [implicit](/central-bank) pension promises) are harder to measure. Some governments include them in extended debt measures; others do not.
+Additionally, measuring "all government liabilities" requires conventions. Off-balance-sheet liabilities (like [implicit](/central-bank/) pension promises) are harder to measure. Some governments include them in extended debt measures; others do not.
 
 ## See also
 
@@ -94,24 +94,24 @@ Additionally, measuring "all government liabilities" requires conventions. Off-b
 
 ### Closely related
 
-- [Net debt](/net-debt) — gross debt minus government financial assets
-- [National debt](/national-debt) — another term for gross debt
-- [Public debt](/public-debt) — portion held by external creditors
-- [Intragovernmental debt](/intragovernmental-debt) — portion owed to government trust funds
-- [Debt-to-GDP ratio](/debt-to-gdp-ratio) — gross debt as a percentage of GDP
+- [Net debt](/net-debt/) — gross debt minus government financial assets
+- [National debt](/national-debt/) — another term for gross debt
+- [Public debt](/public-debt/) — portion held by external creditors
+- [Intragovernmental debt](/intragovernmental-debt/) — portion owed to government trust funds
+- [Debt-to-GDP ratio](/debt-to-gdp-ratio/) — gross debt as a percentage of GDP
 
 ### Debt measurement and sustainability
 
-- [Primary balance](/primary-balance) — deficit excluding interest, key to managing gross debt
-- [Budget deficit](/budget-deficit) — annual increase in gross debt
-- [Fiscal consolidation](/fiscal-consolidation) — reducing gross debt
-- [Sovereign default](/sovereign-default) — when gross debt becomes unpayable
+- [Primary balance](/primary-balance/) — deficit excluding interest, key to managing gross debt
+- [Budget deficit](/budget-deficit/) — annual increase in gross debt
+- [Fiscal consolidation](/fiscal-consolidation/) — reducing gross debt
+- [Sovereign default](/sovereign-default/) — when gross debt becomes unpayable
 
 ### Creditor perspective
 
-- [Interest rate](/interest-rate) — what creditors charge on gross debt
-- [Sovereign debt](/sovereign-debt) — government borrowing comprising gross debt
-- [Brady bond](/brady-bond) — restructured sovereign debt
-- [Official creditor](/official-creditor) — institutions holding government debt
+- [Interest rate](/interest-rate/) — what creditors charge on gross debt
+- [Sovereign debt](/sovereign-debt/) — government borrowing comprising gross debt
+- [Brady bond](/brady-bond/) — restructured sovereign debt
+- [Official creditor](/official-creditor/) — institutions holding government debt
 
 </div>

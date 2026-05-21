@@ -51,9 +51,9 @@ This structure made real estate accessible to retail portfolios and pension fund
 
 A REIT's income comes from one of three sources:
 
-1. **Rent collection.** An [equity REIT](/equity-reit) buys an apartment building, shopping center, or office tower, rents it out, and collects the rent. After maintenance, property taxes, and staffing, the remainder is net operating income ([NOI](/net-operating-income)).
-2. **Mortgage interest.** A [mortgage REIT](/mortgage-reit) holds a portfolio of mortgages or mortgage-backed securities and collects the interest that homeowners and builders pay.
-3. **Asset appreciation.** Many REITs buy underperforming or undermanaged properties, improve them, and either resell for gain or hold for higher rents. This is called [value-add real estate](/value-add-real-estate).
+1. **Rent collection.** An [equity REIT](/equity-reit/) buys an apartment building, shopping center, or office tower, rents it out, and collects the rent. After maintenance, property taxes, and staffing, the remainder is net operating income ([NOI](/net-operating-income/)).
+2. **Mortgage interest.** A [mortgage REIT](/mortgage-reit/) holds a portfolio of mortgages or mortgage-backed securities and collects the interest that homeowners and builders pay.
+3. **Asset appreciation.** Many REITs buy underperforming or undermanaged properties, improve them, and either resell for gain or hold for higher rents. This is called [value-add real estate](/value-add-real-estate/).
 
 All of this income — less operating expenses — must be distributed to shareholders. Because REITs are required to pay out 90% of taxable income, and because real estate rents are relatively stable and predictable, REIT dividends tend to be much higher and steadier than those of the typical stock. The current REIT market average dividend yield is typically 3–5%, versus 1–2% for the S&P 500.
 
@@ -70,7 +70,7 @@ Any failure triggers loss of REIT status, a catastrophic outcome that would expo
 
 ## Public REITs versus private and non-listed REITs
 
-Most REITs are traded on public stock exchanges — REIT tickers like [VNQ](/etf) (Vanguard real estate ETF) hold hundreds of them. These are liquid: you can buy and sell shares instantly during market hours.
+Most REITs are traded on public stock exchanges — REIT tickers like [VNQ](/etf/) (Vanguard real estate ETF) hold hundreds of them. These are liquid: you can buy and sell shares instantly during market hours.
 
 But the REIT universe is wider. **Non-listed REITs** are sold directly by sponsors (often brokerage firms) but do not trade on an exchange, making them illiquid but sometimes offering higher yields and longer holding periods. **Private REITs** are closed to retail investors and cater only to institutions and accredited individuals.
 
@@ -88,9 +88,9 @@ For most individual investors, REITs fill the gap between stocks (too disconnect
 
 ## Sector diversity within REITs
 
-REITs are not monolithic. The market segments them by property type: [residential REITs](/residential-reit) (apartments), [industrial REITs](/industrial-reit) (warehouses), [office REITs](/office-reit) (downtown office towers), [retail REITs](/retail-reit) (shopping centers), [healthcare REITs](/healthcare-reit) (medical facilities), [hotel REITs](/hotel-reit) (hospitality), and others. Each faces different demand drivers, risk profiles, and return potential.
+REITs are not monolithic. The market segments them by property type: [residential REITs](/residential-reit/) (apartments), [industrial REITs](/industrial-reit/) (warehouses), [office REITs](/office-reit/) (downtown office towers), [retail REITs](/retail-reit/) (shopping centers), [healthcare REITs](/healthcare-reit/) (medical facilities), [hotel REITs](/hotel-reit/) (hospitality), and others. Each faces different demand drivers, risk profiles, and return potential.
 
-A portfolio weighted toward [data-center REITs](/data-center-reit) and healthcare will behave very differently from one tilted toward retail or office, which have faced structural headwinds in recent years.
+A portfolio weighted toward [data-center REITs](/data-center-reit/) and healthcare will behave very differently from one tilted toward retail or office, which have faced structural headwinds in recent years.
 
 ## See also
 
@@ -98,25 +98,25 @@ A portfolio weighted toward [data-center REITs](/data-center-reit) and healthcar
 
 ### REIT types and strategies
 
-- [Equity REIT](/equity-reit) — REITs that own physical properties
-- [Mortgage REIT](/mortgage-reit) — REITs that hold mortgages and mortgage-backed securities
-- [Value-add real estate](/value-add-real-estate) — buying and improving properties for higher returns
-- [Core real estate](/core-real-estate) — stable, lower-risk property investments
+- [Equity REIT](/equity-reit/) — REITs that own physical properties
+- [Mortgage REIT](/mortgage-reit/) — REITs that hold mortgages and mortgage-backed securities
+- [Value-add real estate](/value-add-real-estate/) — buying and improving properties for higher returns
+- [Core real estate](/core-real-estate/) — stable, lower-risk property investments
 - Real estate syndication — pooled private real estate investments
 
 ### Property types and metrics
 
-- [Industrial REIT](/industrial-reit) — warehouse and logistics properties
-- [Healthcare REIT](/healthcare-reit) — medical and senior living facilities
-- [Data-center REIT](/data-center-reit) — computing facilities for cloud and servers
-- [Cap rate](/cap-rate) — the return on an unleveraged property purchase
-- [Net operating income](/net-operating-income) — the cash a property generates
+- [Industrial REIT](/industrial-reit/) — warehouse and logistics properties
+- [Healthcare REIT](/healthcare-reit/) — medical and senior living facilities
+- [Data-center REIT](/data-center-reit/) — computing facilities for cloud and servers
+- [Cap rate](/cap-rate/) — the return on an unleveraged property purchase
+- [Net operating income](/net-operating-income/) — the cash a property generates
 
 ### Context and comparison
 
-- [Stock](/stock) — how REIT ownership is structured
-- [Dividend](/dividend) — the primary return from REIT ownership
-- [Yield curve](/yield-curve) — affects borrowing costs for REIT acquisitions
-- [Bond](/bond) — alternative income-yielding investment
+- [Stock](/stock/) — how REIT ownership is structured
+- [Dividend](/dividend/) — the primary return from REIT ownership
+- [Yield curve](/yield-curve/) — affects borrowing costs for REIT acquisitions
+- [Bond](/bond/) — alternative income-yielding investment
 
 </div>

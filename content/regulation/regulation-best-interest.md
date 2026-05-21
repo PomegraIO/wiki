@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation Best Interest](/regulation-best-interest) (Reg BI), adopted by the [SEC](/securities-and-exchange-commission) in 2019 and implemented in 2020, is a rule requiring brokers to act in their customers' best interest when providing investment advice. It raises the standard of care for brokers above the historical "suitability" standard (investment must be suitable for the customer) toward a "best interest" standard (the adviser recommends the best option or discloses why it is recommending something else).*
+*[Regulation Best Interest](/regulation-best-interest/) (Reg BI), adopted by the [SEC](/securities-and-exchange-commission/) in 2019 and implemented in 2020, is a rule requiring brokers to act in their customers' best interest when providing investment advice. It raises the standard of care for brokers above the historical "suitability" standard (investment must be suitable for the customer) toward a "best interest" standard (the adviser recommends the best option or discloses why it is recommending something else).*
 
 <div class="wiki-hatnote">
 
-Regulation Best Interest applies to brokers (broker-dealers). The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) imposes a fiduciary duty on investment advisers, which is similar but legally distinct.
+Regulation Best Interest applies to brokers (broker-dealers). The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) imposes a fiduciary duty on investment advisers, which is similar but legally distinct.
 
 </div>
 
@@ -70,7 +70,7 @@ Moreover, advisers can have fee structures better aligned with customer interest
 
 Reg BI was controversial. Industry praised it as a reasonable standard that did not go as far as the Obama-era fiduciary rule (which would have made all brokers fiduciaries). Consumer advocates criticized it as insufficiently protective — the rule still allows conflicts, just requires disclosure and mitigation.
 
-Implementation has been uneven. Larger brokers have built sophisticated compliance programs. Smaller brokers have struggled with the cost and complexity. The [SEC](/securities-and-exchange-commission) has brought enforcement actions against brokers for Reg BI violations, though enforcement is still developing.
+Implementation has been uneven. Larger brokers have built sophisticated compliance programs. Smaller brokers have struggled with the cost and complexity. The [SEC](/securities-and-exchange-commission/) has brought enforcement actions against brokers for Reg BI violations, though enforcement is still developing.
 
 ## See also
 
@@ -78,11 +78,11 @@ Implementation has been uneven. Larger brokers have built sophisticated complian
 
 ### Closely related
 
-- [Broker](/broker) — the entity subject to Reg BI
-- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) — requires fiduciary duty for advisers
-- [Fiduciary duty](/fiduciary-duty) — the higher standard for advisers
+- [Broker](/broker/) — the entity subject to Reg BI
+- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) — requires fiduciary duty for advisers
+- [Fiduciary duty](/fiduciary-duty/) — the higher standard for advisers
 - Suitability standard — the previous standard for brokers
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
 
 ### Wider context
 

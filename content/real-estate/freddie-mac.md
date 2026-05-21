@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*Freddie Mac (Federal Home Loan Mortgage Corporation) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security), and provides liquidity to the mortgage market. Freddie Mac is one of two dominant players in the U.S. secondary mortgage market (alongside [Fannie Mae](/fannie-mae)).*
+*Freddie Mac (Federal Home Loan Mortgage Corporation) is a government-sponsored enterprise that purchases mortgages from lenders, guarantees [mortgage-backed securities](/mortgage-backed-security/), and provides liquidity to the mortgage market. Freddie Mac is one of two dominant players in the U.S. secondary mortgage market (alongside [Fannie Mae](/fannie-mae/)).*
 
 <div class="wiki-hatnote">
 
-For the parallel GSE, see [fannie-mae](/fannie-mae). For the government insurer of FHA loans, see [fha-loan](/fha-loan). For the government MBS issuer, see ginnie-mae. For the broader GSE framework, see government-sponsored-enterprise.
+For the parallel GSE, see [fannie-mae](/fannie-mae/). For the government insurer of FHA loans, see [fha-loan](/fha-loan/). For the government MBS issuer, see ginnie-mae. For the broader GSE framework, see government-sponsored-enterprise.
 
 </div>
 
@@ -117,25 +117,25 @@ These public mission elements are sometimes in tension with profit maximization,
 
 ### Government agencies and enterprises
 
-- [Fannie-Mae](/fannie-mae) — parallel GSE
+- [Fannie-Mae](/fannie-mae/) — parallel GSE
 - Ginnie-Mae — government agency issuing MBS
 - Government-sponsored-enterprise — GSE framework
 
 ### Mortgages and securities
 
-- [Conforming-loan](/conforming-loan) — loans Freddie Mac will buy
-- [Mortgage-backed-security](/mortgage-backed-security) — securities Freddie Mac issues
+- [Conforming-loan](/conforming-loan/) — loans Freddie Mac will buy
+- [Mortgage-backed-security](/mortgage-backed-security/) — securities Freddie Mac issues
 - Agency-MBS — Freddie Mac MBS
 
 ### Related programs
 
-- [FHA-loan](/fha-loan) — government-insured mortgages (different from Freddie Mac)
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — the primary product
+- [FHA-loan](/fha-loan/) — government-insured mortgages (different from Freddie Mac)
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — the primary product
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects mortgage rates and demand
-- [Yield curve](/yield-curve) — context for mortgage pricing
-- [Federal Reserve](/federal-reserve) — holds Freddie Mac MBS for monetary policy
+- [Interest rate](/interest-rate/) — affects mortgage rates and demand
+- [Yield curve](/yield-curve/) — context for mortgage pricing
+- [Federal Reserve](/federal-reserve/) — holds Freddie Mac MBS for monetary policy
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*A **repurchase agreement** — or **repo** — is a short-term collateralized borrowing transaction. Party A sells securities to Party B with an agreement to repurchase them at a specified future date (typically next day to a few weeks) at a higher price. The difference in prices is the implied interest rate. Repos are core to banking and money markets, providing short-term [liquidity](/stock-exchange) backed by collateral.*
+*A **repurchase agreement** — or **repo** — is a short-term collateralized borrowing transaction. Party A sells securities to Party B with an agreement to repurchase them at a specified future date (typically next day to a few weeks) at a higher price. The difference in prices is the implied interest rate. Repos are core to banking and money markets, providing short-term [liquidity](/stock-exchange/) backed by collateral.*
 
 <div class="wiki-hatnote">
 
-For the opposite transaction, see [reverse repo](/reverse-repo). For other money-market instruments, see [Treasury bill](/treasury-bill) and [commercial paper](/commercial-paper).
+For the opposite transaction, see [reverse repo](/reverse-repo/). For other money-market instruments, see [Treasury bill](/treasury-bill/) and [commercial paper](/commercial-paper/).
 
 </div>
 
@@ -72,7 +72,7 @@ The Federal Reserve conducts large-scale reverse repo operations to drain cash f
 
 ## Role in financial system
 
-Repos are the lifeblood of modern finance. Banks use repos to finance bond inventories, match-book trading positions, and manage short-term [liquidity](/stock-exchange). Leverage in the financial system is often implemented through repo markets.
+Repos are the lifeblood of modern finance. Banks use repos to finance bond inventories, match-book trading positions, and manage short-term [liquidity](/stock-exchange/). Leverage in the financial system is often implemented through repo markets.
 
 The 2008 financial crisis exposed repo vulnerability. When Lehman Brothers collapsed, the repo markets seized because counterparties feared default. The Fed intervened with emergency lending and explicit support for repo markets.
 
@@ -80,13 +80,13 @@ The 2019 "repo crisis" (when overnight rates spiked to 10%+) illustrated continu
 
 ## Central bank operations
 
-The Federal Reserve uses repos as a primary tool for managing [interest rates](/interest-rate) and banking system [liquidity](/stock-exchange). Repos inject cash when the Fed wants to lower overnight rates; reverse repos drain cash when the Fed wants to raise rates.
+The Federal Reserve uses repos as a primary tool for managing [interest rates](/interest-rate/) and banking system [liquidity](/stock-exchange/). Repos inject cash when the Fed wants to lower overnight rates; reverse repos drain cash when the Fed wants to raise rates.
 
 In 2008, the Fed created the Primary Dealer Credit Facility (PDCF) to provide emergency repo lending to broker-dealers facing funding stress.
 
 ## Regulatory changes post-2008
 
-Post-crisis, regulation tightened. Banks must now maintain higher capital and [liquidity](/stock-exchange) buffers to support repo obligations. Repos cleared through central clearing houses are more transparent and standardized. Haircuts increased for riskier collateral.
+Post-crisis, regulation tightened. Banks must now maintain higher capital and [liquidity](/stock-exchange/) buffers to support repo obligations. Repos cleared through central clearing houses are more transparent and standardized. Haircuts increased for riskier collateral.
 
 Still, repos remain an essential and largely unregulated corner of the financial system, creating systemic risk concentration.
 
@@ -96,18 +96,18 @@ Still, repos remain an essential and largely unregulated corner of the financial
 
 ### Closely related
 
-- [Reverse repo](/reverse-repo) — the opposite transaction
-- [Treasury bill](/treasury-bill) — alternative money-market instrument
-- [Commercial paper](/commercial-paper) — unsecured alternative
-- [Certificate of deposit](/certificate-of-deposit) — bank-issued alternative
-- [Collateral](/bond) — securities backing the repo
+- [Reverse repo](/reverse-repo/) — the opposite transaction
+- [Treasury bill](/treasury-bill/) — alternative money-market instrument
+- [Commercial paper](/commercial-paper/) — unsecured alternative
+- [Certificate of deposit](/certificate-of-deposit/) — bank-issued alternative
+- [Collateral](/bond/) — securities backing the repo
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — primary repo market participant
-- [Money market](/stock-exchange) — where repos trade
-- [Interest rate](/interest-rate) — repo rates reflect short-term rates
-- [Financial crisis](/stock-market) — repos are stress-test-sensitive
-- [Leverage](/high-yield-bond) — repos are primary leverage vehicles
+- [Federal Reserve](/federal-reserve/) — primary repo market participant
+- [Money market](/stock-exchange/) — where repos trade
+- [Interest rate](/interest-rate/) — repo rates reflect short-term rates
+- [Financial crisis](/stock-market/) — repos are stress-test-sensitive
+- [Leverage](/high-yield-bond/) — repos are primary leverage vehicles
 
 </div>

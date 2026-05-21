@@ -10,11 +10,11 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*A **permanent open-market operation** (or **POMO**) is an outright purchase or sale of a security by a central bank with no agreement to reverse it. Once the central bank buys a [bond](/bond), it holds it until maturity—or until it later decides to sell—allowing the asset to permanently alter the size and composition of the central bank's balance sheet.*
+*A **permanent open-market operation** (or **POMO**) is an outright purchase or sale of a security by a central bank with no agreement to reverse it. Once the central bank buys a [bond](/bond/), it holds it until maturity—or until it later decides to sell—allowing the asset to permanently alter the size and composition of the central bank's balance sheet.*
 
 <div class="wiki-hatnote">
 
-This entry covers outright purchases and sales. For temporary operations that reverse quickly, see [temporary-open-market-operations](/temporary-open-market-operations). For large-scale POMOs during periods of monetary easing, see [quantitative easing](/quantitative-easing).
+This entry covers outright purchases and sales. For temporary operations that reverse quickly, see [temporary-open-market-operations](/temporary-open-market-operations/). For large-scale POMOs during periods of monetary easing, see [quantitative easing](/quantitative-easing/).
 
 </div>
 
@@ -46,25 +46,25 @@ A permanent operation is different. The central bank buys a security with no com
 
 ## How POMOs shape policy
 
-In ordinary times, when interest rates are well above zero, permanent operations are the workhorse. A central bank gradually buys securities to inject money and steer the [federal funds rate](/federal-funds-rate-target) toward its target, or sells securities to drain money and raise rates. Because these operations are continuous and ongoing, they give the central bank fine-tuned control over the overnight money supply.
+In ordinary times, when interest rates are well above zero, permanent operations are the workhorse. A central bank gradually buys securities to inject money and steer the [federal funds rate](/federal-funds-rate-target/) toward its target, or sells securities to drain money and raise rates. Because these operations are continuous and ongoing, they give the central bank fine-tuned control over the overnight money supply.
 
 The permanence of the operation distinguishes it from temporary fine-tuning. A temporary repo is a band-aid for a one-day cash shortage. A permanent purchase is a deliberate expansion of the money supply, reflecting a decision to run monetary policy more loosely for weeks, months, or years ahead.
 
 ## POMOs and quantitative easing
 
-When interest rates fall to zero and the central bank has exhausted the room to cut further, it often escalates from modest permanent operations to **[quantitative easing](/quantitative-easing)**—a massive, sustained program of permanent purchases aimed at flooding the economy with money and pushing down longer-term interest rates.
+When interest rates fall to zero and the central bank has exhausted the room to cut further, it often escalates from modest permanent operations to **[quantitative easing](/quantitative-easing/)**—a massive, sustained program of permanent purchases aimed at flooding the economy with money and pushing down longer-term interest rates.
 
 During the 2008–2009 financial crisis, the Federal Reserve purchased over a trillion dollars in Treasury securities and mortgage-backed securities; these were permanent operations that fundamentally reshaped the central bank's balance sheet. The assets were held for years, generating a sustained injection of money into the financial system.
 
 ## POMOs and quantitative tightening
 
-The inverse happens during tightening cycles. After years of large-scale permanent purchases, a central bank may decide to let its holdings runoff—that is, not reinvest the proceeds when securities mature. This is called **[balance-sheet runoff](/balance-sheet-runoff)** or **[quantitative tightening](/quantitative-tightening)**. It amounts to a permanent contraction of the balance sheet, draining money from the system.
+The inverse happens during tightening cycles. After years of large-scale permanent purchases, a central bank may decide to let its holdings runoff—that is, not reinvest the proceeds when securities mature. This is called **[balance-sheet runoff](/balance-sheet-runoff/)** or **[quantitative tightening](/quantitative-tightening/)**. It amounts to a permanent contraction of the balance sheet, draining money from the system.
 
 For instance, after a decade of large holdings, the Federal Reserve may allow $200 billion in securities to mature each month and simply remove that money from circulation rather than buying new securities to replace them. That is a permanent reduction in the money supply, the inverse of permanent purchases.
 
 ## The case for permanence
 
-Permanent operations are transparent and powerful because their intent is unmistakable. When the central bank announces it will conduct large permanent purchases of [bonds](/bond), markets understand that this is a deliberate expansion of the money supply, not a temporary patch. Expectations shift. Long-term interest rates often fall immediately, before the purchases even begin, because investors anticipate the effect on future policy.
+Permanent operations are transparent and powerful because their intent is unmistakable. When the central bank announces it will conduct large permanent purchases of [bonds](/bond/), markets understand that this is a deliberate expansion of the money supply, not a temporary patch. Expectations shift. Long-term interest rates often fall immediately, before the purchases even begin, because investors anticipate the effect on future policy.
 
 The permanence also makes it harder for the central bank to back down. Once a permanent purchase is made, reversing it requires an explicit and visible decision to sell—which is politically and economically costly. This commitment device can actually strengthen the central bank's hand. By conducting permanent purchases, the central bank credibly signals it is serious about easing, which can be more powerful than temporary operations.
 
@@ -74,18 +74,18 @@ The permanence also makes it harder for the central bank to back down. Once a pe
 
 ### Closely related
 
-- [Open-market operations](/open-market-operations) — the broader category
-- [Temporary open-market-operations](/temporary-open-market-operations) — the opposite approach
-- [Quantitative easing](/quantitative-easing) — permanent purchases on a large scale
-- [Quantitative tightening](/quantitative-tightening) — permanent runoff during easing
-- [Balance sheet runoff](/balance-sheet-runoff) — letting holdings mature
+- [Open-market operations](/open-market-operations/) — the broader category
+- [Temporary open-market-operations](/temporary-open-market-operations/) — the opposite approach
+- [Quantitative easing](/quantitative-easing/) — permanent purchases on a large scale
+- [Quantitative tightening](/quantitative-tightening/) — permanent runoff during easing
+- [Balance sheet runoff](/balance-sheet-runoff/) — letting holdings mature
 
 ### Wider context
 
-- [Monetary policy](/monetary-policy) — the central bank's strategy
-- [Central bank](/central-bank) — the institution conducting operations
-- [Money supply](/m1) — what permanent operations change
-- [Interest rate](/interest-rate) — what permanent operations influence
-- [Federal funds rate target](/federal-funds-rate-target) — the typical target rate
+- [Monetary policy](/monetary-policy/) — the central bank's strategy
+- [Central bank](/central-bank/) — the institution conducting operations
+- [Money supply](/m1/) — what permanent operations change
+- [Interest rate](/interest-rate/) — what permanent operations influence
+- [Federal funds rate target](/federal-funds-rate-target/) — the typical target rate
 
 </div>

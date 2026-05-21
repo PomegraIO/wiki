@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **tertiary market** is the market for securities subject to resale restrictions. Most commonly, it involves sales of restricted stock by company insiders — founders, executives, employees, and early investors — whose shares are subject to a lockup period or transfer restrictions. Tertiary market transactions require SEC registration exemptions (typically [Rule 144](/tertiary-market)) and typically involve a smaller pool of institutional buyers.*
+*The **tertiary market** is the market for securities subject to resale restrictions. Most commonly, it involves sales of restricted stock by company insiders — founders, executives, employees, and early investors — whose shares are subject to a lockup period or transfer restrictions. Tertiary market transactions require SEC registration exemptions (typically [Rule 144](/tertiary-market/)) and typically involve a smaller pool of institutional buyers.*
 
 <div class="wiki-hatnote">
 
-This entry is about restricted securities trading. For unrestricted trading on public exchanges, see [secondary market](/secondary-market); for trading by insiders during restricted periods, see [Rule 144](/tertiary-market) exemptions.
+This entry is about restricted securities trading. For unrestricted trading on public exchanges, see [secondary market](/secondary-market/); for trading by insiders during restricted periods, see [Rule 144](/tertiary-market/) exemptions.
 
 </div>
 
@@ -42,21 +42,21 @@ This entry is about restricted securities trading. For unrestricted trading on p
 
 ## The nature of restricted securities
 
-When a company goes public via [initial public offering](/initial-public-offering), not all shareholders receive unrestricted public shares. Insiders, early investors, and certain employees hold restricted shares subject to a lockup period, typically lasting 180 days (six months). During this period, they cannot sell; the SEC treats these shares as unregistered securities.
+When a company goes public via [initial public offering](/initial-public-offering/), not all shareholders receive unrestricted public shares. Insiders, early investors, and certain employees hold restricted shares subject to a lockup period, typically lasting 180 days (six months). During this period, they cannot sell; the SEC treats these shares as unregistered securities.
 
-After the lockup period expires, insiders can sell under [Rule 144](/tertiary-market) of the Securities Act, which allows certain holders of restricted securities to sell without registering the shares, provided they meet strict volume and holding-period requirements. Rule 144 has complex conditions: the seller must have held the shares for at least six months (one year in some cases), and sales are limited to the greater of 1% of outstanding shares or the average weekly trading volume of the preceding four weeks.
+After the lockup period expires, insiders can sell under [Rule 144](/tertiary-market/) of the Securities Act, which allows certain holders of restricted securities to sell without registering the shares, provided they meet strict volume and holding-period requirements. Rule 144 has complex conditions: the seller must have held the shares for at least six months (one year in some cases), and sales are limited to the greater of 1% of outstanding shares or the average weekly trading volume of the preceding four weeks.
 
-The tertiary market exists in the gaps left by lockup periods and Rule 144 limitations. It allows insiders to begin selling shares, albeit in a controlled way, before they can dump unrestricted quantities into the [secondary market](/secondary-market).
+The tertiary market exists in the gaps left by lockup periods and Rule 144 limitations. It allows insiders to begin selling shares, albeit in a controlled way, before they can dump unrestricted quantities into the [secondary market](/secondary-market/).
 
 ## How tertiary trades work
 
 A tertiary market transaction typically involves an insider, a broker-dealer specializing in restricted securities, and an institutional buyer — a hedge fund, insurance company, or dedicated restricted securities fund. The process is opaque and negotiated one-deal-at-a-time.
 
-The insider or their advisor approaches a broker-dealer and describes the quantity and terms of shares to be sold. The broker-dealer canvasses institutional clients to gauge interest. Negotiations focus on price, volume, and timing. Tertiary market prices are typically 5–15% discounted to the public [secondary market](/secondary-market) price, reflecting the illiquidity and restrictions on resale.
+The insider or their advisor approaches a broker-dealer and describes the quantity and terms of shares to be sold. The broker-dealer canvasses institutional clients to gauge interest. Negotiations focus on price, volume, and timing. Tertiary market prices are typically 5–15% discounted to the public [secondary market](/secondary-market/) price, reflecting the illiquidity and restrictions on resale.
 
 Documentation is careful. The buyer and seller enter a purchase agreement that specifies the number of shares, price, closing date, and representations and warranties. An escrow agent may hold the shares until all conditions are met. Legal counsel from both sides reviews the transaction to ensure it complies with Rule 144, company insider trading policies, and securities law.
 
-Once the deal closes, the buyer receives share certificates or book-entry shares marked as restricted. The buyer must then hold these shares in compliance with Rule 144 before being able to sell them freely on the [secondary market](/secondary-market). This means a tertiary buyer is not purchasing liquidity; they are purchasing a restricted security with a future path to liquidity.
+Once the deal closes, the buyer receives share certificates or book-entry shares marked as restricted. The buyer must then hold these shares in compliance with Rule 144 before being able to sell them freely on the [secondary market](/secondary-market/). This means a tertiary buyer is not purchasing liquidity; they are purchasing a restricted security with a future path to liquidity.
 
 ## The lockup period and its mechanics
 
@@ -90,7 +90,7 @@ Transactions that appear unusual — large sales by a single insider, or coordin
 
 ## Tertiary vs. secondary vs. primary markets
 
-The tertiary market occupies an intermediate position. The [primary market](/primary-market) is where the company first issues equity and receives cash. The [secondary market](/secondary-market) is where unrestricted shares trade continuously, with price discovery driven by broad supply and demand. The tertiary market allows restricted shares to begin circulating before they become unrestricted, at a discount that reflects their restricted status.
+The tertiary market occupies an intermediate position. The [primary market](/primary-market/) is where the company first issues equity and receives cash. The [secondary market](/secondary-market/) is where unrestricted shares trade continuously, with price discovery driven by broad supply and demand. The tertiary market allows restricted shares to begin circulating before they become unrestricted, at a discount that reflects their restricted status.
 
 As lockup periods expire and Rule 144 limitations ease, shares migrate from the tertiary market into the secondary market. This transition is typically smooth if demand is strong, but lockup expiration can be disruptive if insiders perceive the stock as overvalued and sell aggressively.
 
@@ -111,18 +111,18 @@ A tertiary buyer purchasing shares at a 10% discount expects to sell them in the
 
 ### Closely related
 
-- [Secondary market](/secondary-market) — where unrestricted securities trade
-- [Primary market](/primary-market) — where securities are first issued
-- [Initial public offering](/initial-public-offering) — after which lockups apply
-- [Stock](/stock) — the most common tertiary market security
-- [Liquidity](/secondary-market) — key to pricing tertiary securities
+- [Secondary market](/secondary-market/) — where unrestricted securities trade
+- [Primary market](/primary-market/) — where securities are first issued
+- [Initial public offering](/initial-public-offering/) — after which lockups apply
+- [Stock](/stock/) — the most common tertiary market security
+- [Liquidity](/secondary-market/) — key to pricing tertiary securities
 
 ### Wider context
 
-- [Rule 144](/tertiary-market) — the regulatory framework for restricted sales
-- [Insider trading](/tertiary-market) — a concern during tertiary sales
-- [Stock exchange](/stock-exchange) — destination for eventual unrestricted sales
-- [Asset allocation](/asset-allocation) — institutional buyers' motivation
-- [Diversification](/diversification) — insiders' motivation for liquidating early stakes
+- [Rule 144](/tertiary-market/) — the regulatory framework for restricted sales
+- [Insider trading](/tertiary-market/) — a concern during tertiary sales
+- [Stock exchange](/stock-exchange/) — destination for eventual unrestricted sales
+- [Asset allocation](/asset-allocation/) — institutional buyers' motivation
+- [Diversification](/diversification/) — insiders' motivation for liquidating early stakes
 
 </div>

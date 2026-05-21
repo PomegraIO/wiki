@@ -10,7 +10,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*A **contingent liability** is a potential obligation that arises from a past event but depends on the outcome of a future, uncertain event. Common examples include pending lawsuits, product warranties, environmental obligations, and tax disputes. Contingent liabilities are not recorded as definite liabilities on the [balance sheet](/balance-sheet) unless they are both **probable** and **estimable**. Otherwise, they are disclosed in footnotes. The distinction between recording and disclosure is a judgment call that requires careful assessment of likelihood and magnitude, and is a common source of variation in reported earnings and balance sheets.*
+*A **contingent liability** is a potential obligation that arises from a past event but depends on the outcome of a future, uncertain event. Common examples include pending lawsuits, product warranties, environmental obligations, and tax disputes. Contingent liabilities are not recorded as definite liabilities on the [balance sheet](/balance-sheet/) unless they are both **probable** and **estimable**. Otherwise, they are disclosed in footnotes. The distinction between recording and disclosure is a judgment call that requires careful assessment of likelihood and magnitude, and is a common source of variation in reported earnings and balance sheets.*
 
 <div class="wiki-hatnote">
 
@@ -41,7 +41,7 @@ This entry covers contingent liabilities in general. For specific types, see lit
 
 Contingent liabilities are classified by likelihood:
 
-1. **Probable and estimable**: Should be recorded as an accrued liability on the [balance sheet](/balance-sheet) with an expense on the [income statement](/income-statement).
+1. **Probable and estimable**: Should be recorded as an accrued liability on the [balance sheet](/balance-sheet/) with an expense on the [income statement](/income-statement/).
 
 2. **Possible (but not probable)**: Should be disclosed in footnotes, but not recorded on the balance sheet.
 
@@ -80,7 +80,7 @@ Example: A lawsuit might be lost for anywhere from $50 million to $150 million. 
 
 When new information emerges, contingent liabilities are revised. If a lawsuit suddenly seems more likely to be lost, the liability is increased. If it seems less likely, the liability is decreased.
 
-These changes flow through the [income statement](/income-statement) as adjustments to prior accruals, which can spike earnings or losses in a single period.
+These changes flow through the [income statement](/income-statement/) as adjustments to prior accruals, which can spike earnings or losses in a single period.
 
 ## Audit focus
 
@@ -101,10 +101,10 @@ Some contingent liabilities are not recorded or fully disclosed. These include:
 
 ### Closely related
 
-- [Balance sheet](/balance-sheet) — where recorded contingencies appear
+- [Balance sheet](/balance-sheet/) — where recorded contingencies appear
 - Accrued liability — contingencies that are probable
-- [Footnote disclosure](/footnote-disclosure) — where contingencies are disclosed
-- [Income statement](/income-statement) — affected by changes in contingencies
+- [Footnote disclosure](/footnote-disclosure/) — where contingencies are disclosed
+- [Income statement](/income-statement/) — affected by changes in contingencies
 - Expense — accrual affects earnings
 - Warranty — common contingency
 

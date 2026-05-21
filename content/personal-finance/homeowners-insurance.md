@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For renters, see [renters insurance](/renters-insurance); for auto coverage, see [auto insurance](/auto-insurance); for excess liability, see [umbrella insurance](/umbrella-insurance).
+For renters, see [renters insurance](/renters-insurance/); for auto coverage, see [auto insurance](/auto-insurance/); for excess liability, see [umbrella insurance](/umbrella-insurance/).
 
 </div>
 
@@ -77,7 +77,7 @@ Example: your home costs $400,000 to rebuild. You should insure for $400,000+, n
 Higher deductible ($2,500) = lower premium.
 Lower deductible ($500) = higher premium.
 
-Many people choose $1,000 as a compromise. If you have an [emergency fund](/emergency-fund), a higher deductible saves premium.
+Many people choose $1,000 as a compromise. If you have an [emergency fund](/emergency-fund/), a higher deductible saves premium.
 
 ## Cost and discounts
 
@@ -119,16 +119,16 @@ Compare:
 
 ### Closely related
 
-- [Renters insurance](/renters-insurance) — coverage for renters
-- [Auto insurance](/auto-insurance) — vehicle liability and damage
-- [Umbrella insurance](/umbrella-insurance) — excess liability coverage
-- [Mortgage](/mortgage-personal) — lender requires homeowners insurance
+- [Renters insurance](/renters-insurance/) — coverage for renters
+- [Auto insurance](/auto-insurance/) — vehicle liability and damage
+- [Umbrella insurance](/umbrella-insurance/) — excess liability coverage
+- [Mortgage](/mortgage-personal/) — lender requires homeowners insurance
 
 ### Wider context
 
-- [Emergency fund](/emergency-fund) — covers deductible
-- [Budgeting methods](/budgeting-methods) — insurance as budget item
+- [Emergency fund](/emergency-fund/) — covers deductible
+- [Budgeting methods](/budgeting-methods/) — insurance as budget item
 - Home equity loan — protecting home value
-- [Sinking fund](/sinking-fund) — insurance premiums as expense
+- [Sinking fund](/sinking-fund/) — insurance premiums as expense
 
 </div>

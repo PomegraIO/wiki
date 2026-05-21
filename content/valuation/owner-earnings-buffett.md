@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*Warren Buffett introduced the concept of **owner earnings** as the earnings that genuinely belong to shareholders after the company has made all necessary investments to maintain and grow the business. It is calculated as reported earnings plus depreciation and amortization minus capex minus changes in working capital—essentially [free cash flow to equity](/free-cash-flow-to-equity-valuation), but Buffett's term emphasizes the owner-centric perspective. Owner earnings are what shareholders could theoretically withdraw while keeping the business on its current growth trajectory.*
+*Warren Buffett introduced the concept of **owner earnings** as the earnings that genuinely belong to shareholders after the company has made all necessary investments to maintain and grow the business. It is calculated as reported earnings plus depreciation and amortization minus capex minus changes in working capital—essentially [free cash flow to equity](/free-cash-flow-to-equity-valuation/), but Buffett's term emphasizes the owner-centric perspective. Owner earnings are what shareholders could theoretically withdraw while keeping the business on its current growth trajectory.*
 
 ## The formula
 
@@ -65,13 +65,13 @@ Or with growth:
 
 Owner value = Owner earnings × (1 + growth) / (Cost of equity minus growth)
 
-This is equivalent to a [Gordon growth model](/gordon-growth-model) applied to owner earnings.
+This is equivalent to a [Gordon growth model](/gordon-growth-model/) applied to owner earnings.
 
 **Multiples approach.** Apply an owner earnings multiple. If Berkshire owns a business earning 10 million in owner earnings and values it at 15x, the implied value is 150 million. This owner-earnings multiple is often similar to EV/EBITDA but more transparent about capital needs.
 
 ## Normalizing owner earnings
 
-Like [normalized earnings](/normalized-earnings), owner earnings should be normalized for cyclical effects and one-time items.
+Like [normalized earnings](/normalized-earnings/), owner earnings should be normalized for cyclical effects and one-time items.
 
 A company might have one year with very high capex (facility expansion) and low owner earnings. You wouldn't use that year's owner earnings to value the company; you'd normalize to a run-rate that includes normal capex.
 
@@ -81,7 +81,7 @@ Similarly, if the company suddenly reduced working capital one year (sold invent
 
 **Capex can vary unpredictably.** A company might have no major capex for five years, then suddenly need 50 million. Using average historical capex can be misleading.
 
-**Not the same as free cash flow.** Owner earnings don't account for debt service or tax effects. For a levered company, [free cash flow to equity](/free-cash-flow-to-equity-valuation) is more precise.
+**Not the same as free cash flow.** Owner earnings don't account for debt service or tax effects. For a levered company, [free cash flow to equity](/free-cash-flow-to-equity-valuation/) is more precise.
 
 **Working capital assumptions matter.** If working capital is expected to grow significantly (rapid expansion), owner earnings overstates sustainable cash flow.
 
@@ -97,17 +97,17 @@ For mature, stable businesses with predictable capex and working capital needs, 
 
 ### Closely related
 
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — mathematically equivalent
-- [Free cash flow](/free-cash-flow) — the broader concept
-- [Normalized earnings](/normalized-earnings) — adjusting owner earnings for one-time items
-- [Earnings per share](/earnings-per-share) — reported metric being adjusted
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — mathematically equivalent
+- [Free cash flow](/free-cash-flow/) — the broader concept
+- [Normalized earnings](/normalized-earnings/) — adjusting owner earnings for one-time items
+- [Earnings per share](/earnings-per-share/) — reported metric being adjusted
 
 ### Valuation approaches
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses free cash flow
-- [Gordon growth model](/gordon-growth-model) — capitalizing owner earnings
-- [Multiples valuation](/multiples-valuation) — comparing owner-earnings multiples
-- [Comparable company analysis](/comparable-company-analysis) — peer owner-earnings metrics
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses free cash flow
+- [Gordon growth model](/gordon-growth-model/) — capitalizing owner earnings
+- [Multiples valuation](/multiples-valuation/) — comparing owner-earnings multiples
+- [Comparable company analysis](/comparable-company-analysis/) — peer owner-earnings metrics
 
 ### Components
 

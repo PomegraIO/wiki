@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **decentralised exchange** (**DEX**) is a peer-to-peer cryptocurrency trading platform where users trade directly from their own wallets using smart contracts. DEXs eliminate custodial risk and censorship, but trading speed and liquidity depend on the underlying blockchain. The most common DEX model is the [automated market maker](/automated-market-maker) (AMM).*
+*A **decentralised exchange** (**DEX**) is a peer-to-peer cryptocurrency trading platform where users trade directly from their own wallets using smart contracts. DEXs eliminate custodial risk and censorship, but trading speed and liquidity depend on the underlying blockchain. The most common DEX model is the [automated market maker](/automated-market-maker/) (AMM).*
 
 <div class="wiki-hatnote">
 
-This entry covers decentralised exchanges. For centralised exchanges, see [centralised exchange](/centralized-exchange); for the AMM mechanism, see [automated market maker](/automated-market-maker).
+This entry covers decentralised exchanges. For centralised exchanges, see [centralised exchange](/centralized-exchange/); for the AMM mechanism, see [automated market maker](/automated-market-maker/).
 
 </div>
 
@@ -32,17 +32,17 @@ This entry covers decentralised exchanges. For centralised exchanges, see [centr
 | **Operator** | None (protocol/smart contracts) |
 | **Custody** | User-custodial (you hold your keys) |
 | **Speed** | Blockchain speed (~12 seconds on Ethereum) |
-| **Liquidity** | Variable (depends on [liquidity pools](/liquidity-pool)) |
-| **Fee** | 0.01–0.3% (goes to [liquidity providers](/liquidity-provider)) |
+| **Liquidity** | Variable (depends on [liquidity pools](/liquidity-pool/)) |
+| **Fee** | 0.01–0.3% (goes to [liquidity providers](/liquidity-provider/)) |
 | **Regulation** | Minimal (protocol is decentralised) |
 | **Risks** | Smart contract bugs, slippage, complexity |
-| **Major examples** | [Uniswap](/automated-market-maker), Curve, SushiSwap |
+| **Major examples** | [Uniswap](/automated-market-maker/), Curve, SushiSwap |
 
 </aside>
 
 ## How a DEX works
 
-1. **[Liquidity pool](/liquidity-pool) exists.** Users deposit pairs of tokens (e.g., ETH and USDC) into a smart contract.
+1. **[Liquidity pool](/liquidity-pool/) exists.** Users deposit pairs of tokens (e.g., ETH and USDC) into a smart contract.
 2. **User initiates trade.** A trader specifies a token pair and amount they want to trade.
 3. **Smart contract executes.** The contract automatically swaps tokens from the pool, adjusting price based on supply/demand.
 4. **Tokens transferred.** Trader receives the swapped tokens in their wallet; they retain custody throughout.
@@ -51,7 +51,7 @@ The entire process is on-chain; the trader never hands over private keys to an i
 
 ## AMM versus order book
 
-**AMM (automated market maker):** [Liquidity providers](/liquidity-provider) deposit tokens in pools. Trades execute against the pool at algorithmically determined prices. This is how [Uniswap](/automated-market-maker) works.
+**AMM (automated market maker):** [Liquidity providers](/liquidity-provider/) deposit tokens in pools. Trades execute against the pool at algorithmically determined prices. This is how [Uniswap](/automated-market-maker/) works.
 
 **Order book:** Users place limit orders; trades occur when orders match. This is more similar to CEXs but still decentralised.
 
@@ -69,17 +69,17 @@ AMM DEXs are more common because they are simpler to implement.
 
 ## Disadvantages of DEX
 
-**Speed.** Trades are as fast as the blockchain. On [Ethereum](/ethereum), that's ~12 seconds; on [Bitcoin](/bitcoin), ~10 minutes.
+**Speed.** Trades are as fast as the blockchain. On [Ethereum](/ethereum/), that's ~12 seconds; on [Bitcoin](/bitcoin/), ~10 minutes.
 
-**Complexity.** Requires a web3 wallet, gas fees, understanding of [slippage](/impermanent-loss).
+**Complexity.** Requires a web3 wallet, gas fees, understanding of [slippage](/impermanent-loss/).
 
 **Slippage.** Large trades against a pool move the price unfavourably. A big market order might pay significantly more than the initial quoted price.
 
-**[Impermanent loss.](/impermanent-loss)** [Liquidity providers](/liquidity-provider) face losses if token prices diverge significantly.
+**[Impermanent loss.](/impermanent-loss/)** [Liquidity providers](/liquidity-provider/) face losses if token prices diverge significantly.
 
 ## Major DEX platforms
 
-**[Uniswap](/automated-market-maker):** The largest DEX by trading volume. Uses AMM model. Available on [Ethereum](/ethereum) and many layer-2 solutions.
+**[Uniswap](/automated-market-maker/):** The largest DEX by trading volume. Uses AMM model. Available on [Ethereum](/ethereum/) and many layer-2 solutions.
 
 **Curve Finance:** Specialises in stablecoin trading (low slippage). Dominant for stablecoin pairs.
 
@@ -89,15 +89,15 @@ AMM DEXs are more common because they are simpler to implement.
 
 ## Gas fees
 
-Trading on a DEX costs gas (transaction fees). On [Ethereum](/ethereum), a simple trade might cost $5–$50 depending on network congestion. This makes very small trades uneconomical.
+Trading on a DEX costs gas (transaction fees). On [Ethereum](/ethereum/), a simple trade might cost $5–$50 depending on network congestion. This makes very small trades uneconomical.
 
-Layer-2 DEXs (like [Uniswap](/automated-market-maker) on [Arbitrum](/arbitrum)) reduce gas costs 10–100x, making small trades feasible.
+Layer-2 DEXs (like [Uniswap](/automated-market-maker/) on [Arbitrum](/arbitrum/)) reduce gas costs 10–100x, making small trades feasible.
 
 ## Liquidity and trading pairs
 
-A DEX is only useful if it has liquidity in the pairs users want. A DEX with no [liquidity pools](/liquidity-pool) cannot facilitate trades.
+A DEX is only useful if it has liquidity in the pairs users want. A DEX with no [liquidity pools](/liquidity-pool/) cannot facilitate trades.
 
-[Liquidity providers](/liquidity-provider) earn trading fees but face [impermanent loss](/impermanent-loss) risks. Balancing incentives to attract liquidity is crucial for a DEX's success.
+[Liquidity providers](/liquidity-provider/) earn trading fees but face [impermanent loss](/impermanent-loss/) risks. Balancing incentives to attract liquidity is crucial for a DEX's success.
 
 ## Smart contract risk
 
@@ -110,7 +110,7 @@ This is why security audits are critical for DEXs.
 
 ## Comparison with CEX
 
-| Aspect | DEX | [CEX](/centralized-exchange) |
+| Aspect | DEX | [CEX](/centralized-exchange/) |
 |--------|---|---|
 | **Custody** | Non-custodial | Custodial |
 | **Speed** | Slow | Fast |
@@ -139,16 +139,16 @@ The future likely involves hybrid approaches: decentralised execution with some 
 
 ### Closely related
 
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — general exchanges
-- [Centralised exchange](/centralized-exchange) — custodial alternative
-- [Automated market maker](/automated-market-maker) — the AMM mechanism
-- [Liquidity pool](/liquidity-pool) — provides DEX liquidity
-- [Liquidity provider](/liquidity-provider) — who supplies pools
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — general exchanges
+- [Centralised exchange](/centralized-exchange/) — custodial alternative
+- [Automated market maker](/automated-market-maker/) — the AMM mechanism
+- [Liquidity pool](/liquidity-pool/) — provides DEX liquidity
+- [Liquidity provider](/liquidity-provider/) — who supplies pools
 
 ### Wider context
 
 - Smart contract — DEX implementation
-- [Impermanent loss](/impermanent-loss) — risk for liquidity providers
-- [Ethereum](/ethereum), [Arbitrum](/arbitrum), Layer-2 — DEX deployment chains
+- [Impermanent loss](/impermanent-loss/) — risk for liquidity providers
+- [Ethereum](/ethereum/), [Arbitrum](/arbitrum/), Layer-2 — DEX deployment chains
 
 </div>

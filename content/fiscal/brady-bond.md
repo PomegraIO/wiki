@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*A **Brady bond** is a US-dollar denominated [bond](/bond) issued by an emerging-market or developing country as part of a [debt restructuring](/debt-restructuring) deal. Named after the 1989 Brady Plan, these bonds gave creditors a tradeable claim on restructured debt and allowed countries to return to capital markets after [default](/sovereign-default) or [fiscal crisis](/fiscal-consolidation).*
+*A **Brady bond** is a US-dollar denominated [bond](/bond/) issued by an emerging-market or developing country as part of a [debt restructuring](/debt-restructuring/) deal. Named after the 1989 Brady Plan, these bonds gave creditors a tradeable claim on restructured debt and allowed countries to return to capital markets after [default](/sovereign-default/) or [fiscal crisis](/fiscal-consolidation/).*
 
 <div class="wiki-hatnote">
 
-This entry covers the restructuring instrument. For the broader process, see [debt restructuring](/debt-restructuring); for when they were created, see [sovereign default](/sovereign-default); for the creditors they satisfy, see [official creditor](/official-creditor).
+This entry covers the restructuring instrument. For the broader process, see [debt restructuring](/debt-restructuring/); for when they were created, see [sovereign default](/sovereign-default/); for the creditors they satisfy, see [official creditor](/official-creditor/).
 
 </div>
 
@@ -29,20 +29,20 @@ This entry covers the restructuring instrument. For the broader process, see [de
 |   |   |
 |---|---|
 | **Introduced** | 1989 (Brady Plan) |
-| **Purpose** | Restructure emerging-market debt after [defaults](/sovereign-default) |
+| **Purpose** | Restructure emerging-market debt after [defaults](/sovereign-default/) |
 | **Denomination** | US dollars |
 | **Collateral** | Often collateralized by US Treasury bonds (especially principal) |
 | **Issued by** | Emerging-market and developing countries |
 | **Issued to** | Commercial banks that held old non-performing debt |
 | **Exchanged for** | Old, non-tradeable debt at a discount (haircut) |
-| **Features** | Traded in secondary markets; often had reduced [interest rates](/interest-rate) and extended maturities |
+| **Features** | Traded in secondary markets; often had reduced [interest rates](/interest-rate/) and extended maturities |
 | **Historic role** | Allowed emerging markets to restructure after 1980s debt crisis |
 
 </aside>
 
 ## The Brady Plan and its origins
 
-In 1989, US Treasury Secretary Nicholas Brady unveiled a plan to help emerging-market countries manage the debt crisis of the 1980s. Many Latin American and other developing countries had defaulted or were in [default](/sovereign-default) risk due to unsustainable debts incurred in the 1970s.
+In 1989, US Treasury Secretary Nicholas Brady unveiled a plan to help emerging-market countries manage the debt crisis of the 1980s. Many Latin American and other developing countries had defaulted or were in [default](/sovereign-default/) risk due to unsustainable debts incurred in the 1970s.
 
 Previous restructuring lacked a mechanism to convert illiquid, non-trading debt into tradeable securities. Brady bonds solved this:
 
@@ -59,25 +59,25 @@ A typical Brady bond:
 - **Currency:** US dollar-denominated, removing currency risk for creditors.
 - **Maturity:** 20–30 years, much longer than prior restructured debt.
 
-The collateral meant that creditors had secure claim on principal; even if the issuing country defaulted on [interest](/interest-rate), principal repayment was (mostly) assured.
+The collateral meant that creditors had secure claim on principal; even if the issuing country defaulted on [interest](/interest-rate/), principal repayment was (mostly) assured.
 
 ## Variations
 
 Different Brady bond types offered different terms:
 
-**Discount bonds:** Creditors accepted a principal haircut (e.g., 35% reduction) but received market-rate [interest](/interest-rate).
+**Discount bonds:** Creditors accepted a principal haircut (e.g., 35% reduction) but received market-rate [interest](/interest-rate/).
 
-**Par bonds:** Creditors accepted reduced [interest rates](/interest-rate) but full principal repayment.
+**Par bonds:** Creditors accepted reduced [interest rates](/interest-rate/) but full principal repayment.
 
-**Floating-rate bonds:** [Interest rates](/interest-rate) adjusted with market conditions.
+**Floating-rate bonds:** [Interest rates](/interest-rate/) adjusted with market conditions.
 
-**Quasi-equity bonds:** Creditors accepted [interest](/interest-rate) payments that were contingent on debtor country performance.
+**Quasi-equity bonds:** Creditors accepted [interest](/interest-rate/) payments that were contingent on debtor country performance.
 
 ## Impact and success
 
 Brady bonds were credited with resolving the emerging-market debt crisis:
 
-- They provided a mechanism for orderly [debt restructuring](/debt-restructuring).
+- They provided a mechanism for orderly [debt restructuring](/debt-restructuring/).
 - They returned emerging markets to capital markets, allowing resumed borrowing.
 - They reduced systemic risk; banks had tradeable securities instead of illiquid defaulted loans.
 
@@ -109,23 +109,23 @@ These mechanisms replaced Brady bonds but serve similar purposes.
 
 ### Closely related
 
-- [Debt restructuring](/debt-restructuring) — the process Brady bonds facilitated
-- [Sovereign default](/sovereign-default) — the crisis Brady bonds addressed
-- [Official creditor](/official-creditor) — governments coordinating restructuring
-- [Sovereign debt](/sovereign-debt) — what Brady bonds represented
+- [Debt restructuring](/debt-restructuring/) — the process Brady bonds facilitated
+- [Sovereign default](/sovereign-default/) — the crisis Brady bonds addressed
+- [Official creditor](/official-creditor/) — governments coordinating restructuring
+- [Sovereign debt](/sovereign-debt/) — what Brady bonds represented
 
 ### Emerging-market finance
 
-- [Emerging market](/stock) — countries that issued Brady bonds
-- [Capital flight](/stock) — risk Brady bonds helped mitigate
-- [Credit crisis](/stock) — the 1980s crisis Brady plan addressed
-- [Debt-to-GDP ratio](/debt-to-gdp-ratio) — Brady bonds used to refinance unsustainable ratios
+- [Emerging market](/stock/) — countries that issued Brady bonds
+- [Capital flight](/stock/) — risk Brady bonds helped mitigate
+- [Credit crisis](/stock/) — the 1980s crisis Brady plan addressed
+- [Debt-to-GDP ratio](/debt-to-gdp-ratio/) — Brady bonds used to refinance unsustainable ratios
 
 ### Fiscal crisis resolution
 
-- [Fiscal consolidation](/fiscal-consolidation) — required alongside Brady restructuring
-- [Austerity](/austerity) — needed in countries issuing Brady bonds
-- [Interest rate](/interest-rate) — below-market rates on Brady bonds
-- [Bond](/bond) — Brady bonds are a special type of government bond
+- [Fiscal consolidation](/fiscal-consolidation/) — required alongside Brady restructuring
+- [Austerity](/austerity/) — needed in countries issuing Brady bonds
+- [Interest rate](/interest-rate/) — below-market rates on Brady bonds
+- [Bond](/bond/) — Brady bonds are a special type of government bond
 
 </div>

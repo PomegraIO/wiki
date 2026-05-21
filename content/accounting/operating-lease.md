@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*An **operating lease** is traditionally a lease arrangement where the lessor (owner) retains the asset and the lessee (renter) pays for temporary use. The lessee has no ownership rights and the asset remains the lessor's property. Before ASC 842, [operating leases](/operating-lease) were [off-balance-sheet](/off-balance-sheet): only lease payments were expensed; no asset or liability appeared on the [balance sheet](/balance-sheet). Since 2019, ASC 842 has required most [operating leases](/operating-lease) to be recorded on the [balance sheet](/balance-sheet) as **right-of-use assets** and **lease liabilities**. This convergence with IFRS 16 brings hidden lease commitments into the open.*
+*An **operating lease** is traditionally a lease arrangement where the lessor (owner) retains the asset and the lessee (renter) pays for temporary use. The lessee has no ownership rights and the asset remains the lessor's property. Before ASC 842, [operating leases](/operating-lease/) were [off-balance-sheet](/off-balance-sheet/): only lease payments were expensed; no asset or liability appeared on the [balance sheet](/balance-sheet/). Since 2019, ASC 842 has required most [operating leases](/operating-lease/) to be recorded on the [balance sheet](/balance-sheet/) as **right-of-use assets** and **lease liabilities**. This convergence with IFRS 16 brings hidden lease commitments into the open.*
 
 <div class="wiki-hatnote">
 
-This entry covers operating leases and the accounting change. For the alternative, see [finance-lease](/finance-lease). For the standard, see ASC 842.
+This entry covers operating leases and the accounting change. For the alternative, see [finance-lease](/finance-lease/). For the standard, see ASC 842.
 
 </div>
 
@@ -40,21 +40,21 @@ This entry covers operating leases and the accounting change. For the alternativ
 
 ## Traditional operating lease accounting (pre-ASC 842)
 
-Before ASC 842, an [operating lease](/operating-lease) was simple from an accounting perspective:
+Before ASC 842, an [operating lease](/operating-lease/) was simple from an accounting perspective:
 
 - The lessee records rent expense each period.
-- No asset or liability appears on the [balance sheet](/balance-sheet).
+- No asset or liability appears on the [balance sheet](/balance-sheet/).
 - The lease is disclosed in footnotes.
 
 Example: A company leases office space for $100,000 per year for five years. It records:
 - Annual rent expense: $100,000
 - No balance sheet entry
 
-The company's [balance sheet](/balance-sheet) was understated: it had a $500,000 commitment but nothing showed on the sheet.
+The company's [balance sheet](/balance-sheet/) was understated: it had a $500,000 commitment but nothing showed on the sheet.
 
 ## The ASC 842 revolution
 
-ASC 842 changed this fundamentally. Now, most [operating leases](/operating-lease) must be recorded on the [balance sheet](/balance-sheet):
+ASC 842 changed this fundamentally. Now, most [operating leases](/operating-lease/) must be recorded on the [balance sheet](/balance-sheet/):
 
 - **Right-of-use (ROU) asset**: The lessee's right to use the leased asset.
 - **Lease liability**: The lessee's obligation to pay lease payments.
@@ -64,7 +64,7 @@ Example (same lease): A company leases office space for $100,000 per year for fi
 - Lease liability: ~$450,000.
 - Annual rent expense is split into depreciation of the asset and interest on the liability.
 
-The [balance sheet](/balance-sheet) now reflects the true economic commitment.
+The [balance sheet](/balance-sheet/) now reflects the true economic commitment.
 
 ## Exceptions: short-term leases and low-value assets
 
@@ -79,10 +79,10 @@ Many companies have numerous short-term leases or low-value equipment leases tha
 
 ASC 842 preserves the distinction:
 
-- **[Finance lease](/finance-lease)**: Lessee has substantially all the risks and rewards of ownership. Recorded as if owned (same ROU asset and liability treatment).
-- **[Operating lease](/operating-lease)**: Lessor retains material risks and rewards. Recorded with the new ROU accounting but with different expense patterns.
+- **[Finance lease](/finance-lease/)**: Lessee has substantially all the risks and rewards of ownership. Recorded as if owned (same ROU asset and liability treatment).
+- **[Operating lease](/operating-lease/)**: Lessor retains material risks and rewards. Recorded with the new ROU accounting but with different expense patterns.
 
-In both cases, the [balance sheet](/balance-sheet) includes a ROU asset and liability. The difference is in the [income statement](/income-statement) pattern and treatment of purchase options.
+In both cases, the [balance sheet](/balance-sheet/) includes a ROU asset and liability. The difference is in the [income statement](/income-statement/) pattern and treatment of purchase options.
 
 ## Impact on financial ratios
 
@@ -102,7 +102,7 @@ Under ASC 842, the annual lease payment is split into:
 1. **Depreciation of the ROU asset**: Straight-line over the lease term.
 2. **Interest on the lease liability**: The liability declines as payments are made; interest decreases over time.
 
-This is different from [operating lease](/operating-lease) accounting, where the entire payment was a simple rent expense.
+This is different from [operating lease](/operating-lease/) accounting, where the entire payment was a simple rent expense.
 
 ## Disclosure requirements
 
@@ -118,9 +118,9 @@ These disclosures help investors understand lease obligations and the company's 
 
 ## Global adoption: IFRS 16
 
-IFRS 16 (effective 2019 globally) mirrors ASC 842 closely. Most leases must be on the [balance sheet](/balance-sheet) with a ROU asset and liability.
+IFRS 16 (effective 2019 globally) mirrors ASC 842 closely. Most leases must be on the [balance sheet](/balance-sheet/) with a ROU asset and liability.
 
-This creates some convergence between [GAAP](/generally-accepted-accounting-principles) and [IFRS](/international-financial-reporting-standards), though differences in detail remain.
+This creates some convergence between [GAAP](/generally-accepted-accounting-principles/) and [IFRS](/international-financial-reporting-standards/), though differences in detail remain.
 
 ## See also
 
@@ -128,18 +128,18 @@ This creates some convergence between [GAAP](/generally-accepted-accounting-prin
 
 ### Closely related
 
-- [Finance-lease](/finance-lease) — the alternative lease type
+- [Finance-lease](/finance-lease/) — the alternative lease type
 - ASC 842 — the accounting standard
 - IFRS 16 — the international equivalent
-- [Off-balance-sheet](/off-balance-sheet) — where operating leases were before ASC 842
+- [Off-balance-sheet](/off-balance-sheet/) — where operating leases were before ASC 842
 - Right-of-use asset — new balance sheet item
 - Lease liability — new balance sheet liability
 
 ### Context
 
-- [Balance sheet](/balance-sheet) — ROU assets and liabilities now appear
-- [Income statement](/income-statement) — lease expense is now split
-- [Cash flow statement](/cash-flow-statement) — lease payments are now financing
-- [Depreciation](/depreciation) — of the ROU asset
+- [Balance sheet](/balance-sheet/) — ROU assets and liabilities now appear
+- [Income statement](/income-statement/) — lease expense is now split
+- [Cash flow statement](/cash-flow-statement/) — lease payments are now financing
+- [Depreciation](/depreciation/) — of the ROU asset
 
 </div>

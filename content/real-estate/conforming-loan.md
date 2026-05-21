@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For loans exceeding conforming limits, see [jumbo-loan](/jumbo-loan). For government programs, see [fha-loan](/fha-loan), [va-loan](/va-loan), and [usda-loan](/usda-loan). For the broader context, see conventional-mortgage and government-sponsored-enterprise.
+For loans exceeding conforming limits, see [jumbo-loan](/jumbo-loan/). For government programs, see [fha-loan](/fha-loan/), [va-loan](/va-loan/), and [usda-loan](/usda-loan/). For the broader context, see conventional-mortgage and government-sponsored-enterprise.
 
 </div>
 
@@ -57,7 +57,7 @@ A conforming loan meets the underwriting standards of Fannie Mae and Freddie Mac
 
 Fannie Mae and Freddie Mac set maximum loan amounts by county. In high-cost areas (California, New York, Massachusetts, etc.), limits are higher ($1.0M+). In lower-cost areas, limits are lower ($600K–$800K).
 
-A borrower exceeding the limit for their county must use a [jumbo loan](/jumbo-loan), which has stricter requirements and higher interest rates.
+A borrower exceeding the limit for their county must use a [jumbo loan](/jumbo-loan/), which has stricter requirements and higher interest rates.
 
 ## Why conforming loans matter
 
@@ -116,25 +116,25 @@ There is ongoing policy debate about whether conforming limits should be higher 
 
 ### Loan types and comparison
 
-- [Jumbo-loan](/jumbo-loan) — loans exceeding conforming limits
+- [Jumbo-loan](/jumbo-loan/) — loans exceeding conforming limits
 - Non-conforming-loan — loans that don't meet GSE standards
 - Conventional-mortgage — non-government mortgages
 
 ### Government programs
 
-- [FHA-loan](/fha-loan) — government-insured mortgages
-- [VA-loan](/va-loan) — mortgages for veterans
-- [USDA-loan](/usda-loan) — mortgages for rural areas
+- [FHA-loan](/fha-loan/) — government-insured mortgages
+- [VA-loan](/va-loan/) — mortgages for veterans
+- [USDA-loan](/usda-loan/) — mortgages for rural areas
 - Government-sponsored-enterprise — Fannie Mae, Freddie Mac
 
 ### Mortgage insurance
 
-- [Private-mortgage-insurance](/private-mortgage-insurance) — insurance on conventional mortgages
+- [Private-mortgage-insurance](/private-mortgage-insurance/) — insurance on conventional mortgages
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects conforming loan rates
-- [Yield curve](/yield-curve) — context for mortgage pricing
-- [Mortgage-backed-security](/mortgage-backed-security) — where conforming loans end up
+- [Interest rate](/interest-rate/) — affects conforming loan rates
+- [Yield curve](/yield-curve/) — context for mortgage pricing
+- [Mortgage-backed-security](/mortgage-backed-security/) — where conforming loans end up
 
 </div>

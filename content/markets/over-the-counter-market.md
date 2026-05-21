@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **over-the-counter (OTC) market** is a decentralized, dealer-based trading system where securities change hands directly between buyers and sellers, typically through intermediaries called dealers or [brokers](/broker). It includes the vast markets for [bonds](/bond), currencies, derivatives, and [commodities](/stock), as well as smaller [unlisted](/unlisted-market) stocks. It is the oldest form of securities trading and remains vastly larger than centralized [stock exchanges](/stock-exchange) by dollar volume.*
+*The **over-the-counter (OTC) market** is a decentralized, dealer-based trading system where securities change hands directly between buyers and sellers, typically through intermediaries called dealers or [brokers](/broker/). It includes the vast markets for [bonds](/bond/), currencies, derivatives, and [commodities](/stock/), as well as smaller [unlisted](/unlisted-market/) stocks. It is the oldest form of securities trading and remains vastly larger than centralized [stock exchanges](/stock-exchange/) by dollar volume.*
 
 <div class="wiki-hatnote">
 
-This entry is about decentralized dealer-based trading. For centralized exchange trading, see [stock exchange](/stock-exchange); for the specific OTC stocks available on US platforms, see [OTC Pink](/otc-pink), [OTCQX](/otc-otcqx), [OTCQB](/otc-otcqb).
+This entry is about decentralized dealer-based trading. For centralized exchange trading, see [stock exchange](/stock-exchange/); for the specific OTC stocks available on US platforms, see [OTC Pink](/otc-pink/), [OTCQX](/otc-otcqx/), [OTCQB](/otc-otcqb/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry is about decentralized dealer-based trading. For centralized exchange
 
 ## The origins and nature of OTC trading
 
-The [over-the-counter](/over-the-counter-market) market predates centralized exchanges. Historically, securities trading occurred literally over the counter in bankers' offices and brokers' shops. A customer wanting to buy or sell a security would approach a dealer, who would quote a price and execute the trade. This form of trading persists and is now called OTC.
+The [over-the-counter](/over-the-counter-market/) market predates centralized exchanges. Historically, securities trading occurred literally over the counter in bankers' offices and brokers' shops. A customer wanting to buy or sell a security would approach a dealer, who would quote a price and execute the trade. This form of trading persists and is now called OTC.
 
 OTC markets are decentralized and dealer-based. There is no central exchange, no order book, no uniform pricing. Instead, a network of dealers — primarily banks and investment firms — maintain inventories of securities and stand ready to buy from and sell to customers at quoted prices. A client wanting to buy a security calls a dealer (or several), gets quotes, negotiates, and transacts. Prices differ from dealer to dealer and moment to moment.
 
@@ -50,15 +50,15 @@ OTC markets are decentralized and dealer-based. There is no central exchange, no
 
 The OTC market encompasses multiple, largely separate ecosystems:
 
-**Bonds.** The vast majority of [bond](/bond) trading is OTC. Government [bonds](/bond), corporate [bonds](/bond), municipal [bonds](/bond), and mortgage-backed securities all trade through dealer networks. This market is many times larger than the equity market by dollar volume. A pension fund buying Treasury bonds does not go to a [stock exchange](/stock-exchange); it calls a dealer and negotiates a price.
+**Bonds.** The vast majority of [bond](/bond/) trading is OTC. Government [bonds](/bond/), corporate [bonds](/bond/), municipal [bonds](/bond/), and mortgage-backed securities all trade through dealer networks. This market is many times larger than the equity market by dollar volume. A pension fund buying Treasury bonds does not go to a [stock exchange](/stock-exchange/); it calls a dealer and negotiates a price.
 
 **Currencies.** Foreign exchange trading is entirely OTC. Banks trade currencies with each other and with customers through a global dealer network, 24 hours a day across time zones. Daily volume exceeds $6 trillion, vastly larger than any equity market.
 
 **Derivatives.** Interest-rate swaps, credit default swaps, equity options, and other derivatives trade overwhelmingly OTC. After the 2008 crisis, regulators pushed some derivatives toward centralized exchanges and clearing, but the majority remain OTC. Dealers quote prices and handle the logistics.
 
-**Unlisted stocks.** Companies not meeting [exchange](/stock-exchange) listing standards often trade OTC. In the US, platforms like OTC Markets Group facilitate this trading, though the actual trades are bilateral negotiations between dealers and customers.
+**Unlisted stocks.** Companies not meeting [exchange](/stock-exchange/) listing standards often trade OTC. In the US, platforms like OTC Markets Group facilitate this trading, though the actual trades are bilateral negotiations between dealers and customers.
 
-**Commodities.** Physical commodities and commodity derivatives trade heavily OTC, though major [commodities](/stock) also have exchange-traded futures.
+**Commodities.** Physical commodities and commodity derivatives trade heavily OTC, though major [commodities](/stock/) also have exchange-traded futures.
 
 ## Dealers and market makers
 
@@ -72,7 +72,7 @@ Dealers also provide other services: clearing, settlement, financing (repo), and
 
 OTC pricing is far less transparent than exchange pricing. An exchange publishes continuous quotes: the best bid, best ask, and depth of market. An OTC dealer quotes a bid and ask to a single customer, and that quote may not be published.
 
-Trades are not instantaneously reported to the public. In the US, [bond](/bond) trades on FINRA's TRACE system are reported, but with a 15-minute delay (longer for institutional trades). Many OTC markets have minimal reporting; a trade might not be publicly disclosed for weeks or at all.
+Trades are not instantaneously reported to the public. In the US, [bond](/bond/) trades on FINRA's TRACE system are reported, but with a 15-minute delay (longer for institutional trades). Many OTC markets have minimal reporting; a trade might not be publicly disclosed for weeks or at all.
 
 This lack of transparency has advantages and disadvantages. Dealers prefer opacity because it allows them to transact at different prices with different customers without being immediately undercut. Customers prefer opacity because it reduces the market impact of large orders — if everyone knew a pension fund was buying a billion dollars of bonds, prices would move against them.
 
@@ -80,7 +80,7 @@ But opacity also facilitates fraud and gives dealers pricing power. A customer s
 
 ## Bid-ask spreads and transaction costs
 
-OTC spreads are typically wider than exchange spreads. For a liquid [bond](/bond) trading actively, the spread might be $0.25 per $100 of face value (0.25% of price). For an illiquid OTC stock, the spread might be 5% or more. This spread is the transaction cost borne by the customer.
+OTC spreads are typically wider than exchange spreads. For a liquid [bond](/bond/) trading actively, the spread might be $0.25 per $100 of face value (0.25% of price). For an illiquid OTC stock, the spread might be 5% or more. This spread is the transaction cost borne by the customer.
 
 Large trades incur additional costs. A customer buying a million shares of an illiquid stock cannot place a market order and expect execution at the published bid; the customer must negotiate with dealers, and prices will concede significantly to the customer's size.
 
@@ -127,18 +127,18 @@ Settlement typically occurs T+2 (two business days after trade). Currency trades
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the centralized alternative
-- [Unlisted market](/unlisted-market) — where many OTC stocks trade
-- [Bond](/bond) — largest OTC market by volume
-- [Broker](/broker) — facilitates OTC trading
-- [Dark pool](/dark-pool-detail) — OTC venue for listed securities
+- [Stock exchange](/stock-exchange/) — the centralized alternative
+- [Unlisted market](/unlisted-market/) — where many OTC stocks trade
+- [Bond](/bond/) — largest OTC market by volume
+- [Broker](/broker/) — facilitates OTC trading
+- [Dark pool](/dark-pool-detail/) — OTC venue for listed securities
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — the broader trading ecosystem
-- [Listed market](/listed-market) — centralized exchange trading
-- [Liquidity](/secondary-market) — often lower in OTC markets
-- [Bid-ask spread](/stock-market) — typically wider OTC
-- [Derivatives](/option) — heavily traded OTC
+- [Secondary market](/secondary-market/) — the broader trading ecosystem
+- [Listed market](/listed-market/) — centralized exchange trading
+- [Liquidity](/secondary-market/) — often lower in OTC markets
+- [Bid-ask spread](/stock-market/) — typically wider OTC
+- [Derivatives](/option/) — heavily traded OTC
 
 </div>

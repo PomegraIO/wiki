@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Herstatt risk is a form of [settlement-risk](/settlement-risk) specific to foreign exchange transactions, where one counterparty delivers one currency while the other fails to deliver the counter-currency, named after Herstatt Bank's 1974 failure. It is a critical concern for international financial institutions and is mitigated through systems like CLS (Continuous Linked Settlement).*
+*Herstatt risk is a form of [settlement-risk](/settlement-risk/) specific to foreign exchange transactions, where one counterparty delivers one currency while the other fails to deliver the counter-currency, named after Herstatt Bank's 1974 failure. It is a critical concern for international financial institutions and is mitigated through systems like CLS (Continuous Linked Settlement).*
 
 <div class="wiki-hatnote">
 
-This entry covers FX settlement failure specifically. For settlement risk more broadly, see [settlement-risk](/settlement-risk); for general FX exposure, see [currency-risk](/currency-risk).
+This entry covers FX settlement failure specifically. For settlement risk more broadly, see [settlement-risk](/settlement-risk/); for general FX exposure, see [currency-risk](/currency-risk/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers FX settlement failure specifically. For settlement risk more b
 | **Magnitude** | Can be billions per transaction; first mover faces full risk |
 | **Occurs in** | OTC FX transactions; cross-border payments |
 | **Mitigated by** | CLS settlement; netting; margin agreements |
-| **Systemic impact** | Can cascade; historically a [systemic-risk](/systemic-risk) concern |
+| **Systemic impact** | Can cascade; historically a [systemic-risk](/systemic-risk/) concern |
 
 </aside>
 
@@ -101,18 +101,18 @@ For international firms and banks, Herstatt risk is actively managed through:
 
 ### Closely related
 
-- [Settlement-risk](/settlement-risk) — broader concept; Herstatt is a type
-- [Currency-risk](/currency-risk) — related but distinct; FX movement vs. settlement failure
-- [Counterparty-risk](/counterparty-risk) — underlying risk in FX transactions
-- [Central clearing](/central-bank) — CLS reduces Herstatt risk
-- [Foreign exchange](/currency-risk) — the market where Herstatt risk occurs
+- [Settlement-risk](/settlement-risk/) — broader concept; Herstatt is a type
+- [Currency-risk](/currency-risk/) — related but distinct; FX movement vs. settlement failure
+- [Counterparty-risk](/counterparty-risk/) — underlying risk in FX transactions
+- [Central clearing](/central-bank/) — CLS reduces Herstatt risk
+- [Foreign exchange](/currency-risk/) — the market where Herstatt risk occurs
 
 ### Broader context
 
-- [Basel Committee](/capital-adequacy) — established after Herstatt to coordinate regulation
-- [Systemic-risk](/systemic-risk) — Herstatt risk is a potential systemic threat
-- [1974 financial crisis](/credit-risk) — Herstatt's failure was landmark
-- [AIG](/credit-risk) — 2008 example of near-Herstatt scenario
-- [Financial infrastructure](/stock-market) — CLS and settlement systems
+- [Basel Committee](/capital-adequacy/) — established after Herstatt to coordinate regulation
+- [Systemic-risk](/systemic-risk/) — Herstatt risk is a potential systemic threat
+- [1974 financial crisis](/credit-risk/) — Herstatt's failure was landmark
+- [AIG](/credit-risk/) — 2008 example of near-Herstatt scenario
+- [Financial infrastructure](/stock-market/) — CLS and settlement systems
 
 </div>

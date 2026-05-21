@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **divestiture** is the sale or disposal of a company's subsidiary, division, business unit, or asset. Divestitures are used to raise capital, exit underperforming or non-core businesses, comply with regulatory requirements (particularly antitrust rulings), or refocus the company on core operations. A divestiture differs from a [spinoff](/spinoff), where a company distributes a subsidiary to shareholders — in a divestiture, the company receives cash from the sale and the buyer becomes the new owner.*
+*A **divestiture** is the sale or disposal of a company's subsidiary, division, business unit, or asset. Divestitures are used to raise capital, exit underperforming or non-core businesses, comply with regulatory requirements (particularly antitrust rulings), or refocus the company on core operations. A divestiture differs from a [spinoff](/spinoff/), where a company distributes a subsidiary to shareholders — in a divestiture, the company receives cash from the sale and the buyer becomes the new owner.*
 
 <div class="wiki-hatnote">
 
-This entry covers divestitures as capital and strategic moves. For distributions to shareholders without a sale, see [spinoff](/spinoff), [split-off](/split-off), and [split-up](/split-up); for the opposite action, see [acquisition](/acquisition).
+This entry covers divestitures as capital and strategic moves. For distributions to shareholders without a sale, see [spinoff](/spinoff/), [split-off](/split-off/), and [split-up](/split-up/); for the opposite action, see [acquisition](/acquisition/).
 
 </div>
 
@@ -31,7 +31,7 @@ This entry covers divestitures as capital and strategic moves. For distributions
 | **What it is** | Sale or disposal of subsidiary, division, or asset |
 | **Also called** | Asset sale, disposal, exit |
 | **Proceeds** | Company receives cash (or assumption of debt) |
-| **Alternative to** | [Spinoff](/spinoff), [split-off](/split-off) |
+| **Alternative to** | [Spinoff](/spinoff/), [split-off](/split-off/) |
 | **Buyer** | Strategic buyer, financial buyer (PE), competitor, or smaller company |
 | **Timing** | 3–12 months depending on size and complexity |
 | **Tax treatment** | Gain/loss on sale recognized; depends on structure |
@@ -70,17 +70,17 @@ A company decides to exit a business unit and sell it. Options include:
 
 **Underperformance.** A division that is underperforming or not generating acceptable returns can be divested to a buyer who can operate it more efficiently.
 
-**Regulatory requirement.** Antitrust authorities may require divestitures to approve a [merger](/merger). For example, if two large competitors merge, regulators might require them to divest overlapping operations.
+**Regulatory requirement.** Antitrust authorities may require divestitures to approve a [merger](/merger/). For example, if two large competitors merge, regulators might require them to divest overlapping operations.
 
 **Activist pressure.** Activists push companies to divest non-core operations to improve focus and valuation.
 
-**Consolidation.** An industry in consolidation may require the company to divest overlapping operations to secure regulatory approval for desired [acquisitions](/acquisition).
+**Consolidation.** An industry in consolidation may require the company to divest overlapping operations to secure regulatory approval for desired [acquisitions](/acquisition/).
 
 ## Types of buyers
 
 **Strategic buyer.** Another company in the same or adjacent industry that can integrate the acquired division and realize synergies.
 
-**Financial buyer.** A private equity firm or investment fund buying the division as a [leveraged buyout](/leveraged-buyout), planning to improve operations and exit in 5–7 years.
+**Financial buyer.** A private equity firm or investment fund buying the division as a [leveraged buyout](/leveraged-buyout/), planning to improve operations and exit in 5–7 years.
 
 **Smaller competitor.** A smaller company that wants to grow by acquiring the division from a larger competitor.
 
@@ -153,17 +153,17 @@ However, the divestiture process is often lengthy and competitive divestitures c
 
 ### Closely related
 
-- [Spinoff](/spinoff) — distribution to shareholders (vs. sale)
-- [Split-off](/split-off) — shareholders choose; vs. direct sale
-- [Split-up](/split-up) — complete separation; vs. sale
-- [Acquisition](/acquisition) — buyer's perspective
-- [Merger](/merger) — related combination
+- [Spinoff](/spinoff/) — distribution to shareholders (vs. sale)
+- [Split-off](/split-off/) — shareholders choose; vs. direct sale
+- [Split-up](/split-up/) — complete separation; vs. sale
+- [Acquisition](/acquisition/) — buyer's perspective
+- [Merger](/merger/) — related combination
 
 ### Wider context
 
 - Corporate restructuring — broader category
 - Private equity — often buys divested divisions
-- [Leveraged buyout](/leveraged-buyout) — PE financing for divestitures
+- [Leveraged buyout](/leveraged-buyout/) — PE financing for divestitures
 - Antitrust — often requires divestitures
 - Capital allocation — rationale for divestitures
 

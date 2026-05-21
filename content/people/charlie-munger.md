@@ -76,16 +76,16 @@ His role in Berkshire's transformation from a textile mill to a model of capital
 
 ### Closely related
 
-- [Warren Buffett](/warren-buffett) — His lifelong partner
-- [Benjamin Graham](/benjamin-graham) — The mentor they shared
-- [Peter Lynch](/peter-lynch) — A contemporary value investor
-- [Seth Klarman](/seth-klarman) — An inheritor of the value tradition
+- [Warren Buffett](/warren-buffett/) — His lifelong partner
+- [Benjamin Graham](/benjamin-graham/) — The mentor they shared
+- [Peter Lynch](/peter-lynch/) — A contemporary value investor
+- [Seth Klarman](/seth-klarman/) — An inheritor of the value tradition
 
 ### Wider context
 
-- [Value investing](/value-investing) — The philosophy he refined
-- [Compound interest](/compound-interest) — The long-term force
-- [Diversification](/diversification) — Which he questioned
-- [Stock market](/stock-market) — Where principles meet practice
+- [Value investing](/value-investing/) — The philosophy he refined
+- [Compound interest](/compound-interest/) — The long-term force
+- [Diversification](/diversification/) — Which he questioned
+- [Stock market](/stock-market/) — Where principles meet practice
 
 </div>

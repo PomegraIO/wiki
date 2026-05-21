@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **cost of carry** is the sum of all costs (and sometimes benefits) of owning and holding an underlying asset from today until a future settlement date. It includes storage fees, insurance, financing costs (interest), and may subtract convenience yield or dividend income. The cost of carry directly determines the [forward-contract](/forward-contract) price and the [basis](/basis/) between spot and [futures contract](/futures-contract) prices. Higher cost of carry raises futures prices above spot prices, creating [contango](/contango/).*
+*The **cost of carry** is the sum of all costs (and sometimes benefits) of owning and holding an underlying asset from today until a future settlement date. It includes storage fees, insurance, financing costs (interest), and may subtract convenience yield or dividend income. The cost of carry directly determines the [forward-contract](/forward-contract/) price and the [basis](/basis/) between spot and [futures contract](/futures-contract/) prices. Higher cost of carry raises futures prices above spot prices, creating [contango](/contango/).*
 
 <aside class="wiki-infobox">
 
@@ -44,7 +44,7 @@ image: "/svg/derivatives.svg"
 
 **Convenience yield:** Benefit of holding the physical asset (not applicable to all assets). A refinery benefits from immediate oil supply; this reduces the effective cost of carry.
 
-**Dividend yield:** For stocks paying dividends, the [dividend](/dividend) reduces the cost of carry. Owning stock instead of buying a [future](/futures-contract) lets you collect the dividend.
+**Dividend yield:** For stocks paying dividends, the [dividend](/dividend/) reduces the cost of carry. Owning stock instead of buying a [future](/futures-contract/) lets you collect the dividend.
 
 ## Futures pricing and carry
 
@@ -85,7 +85,7 @@ Example: Oil crisis; immediate oil is scarce and commands a premium. Convenience
 
 ## Stocks vs. commodities
 
-**Stocks:** Cost of carry is mostly financing cost minus [dividend](/dividend) yield. No storage or convenience yield.
+**Stocks:** Cost of carry is mostly financing cost minus [dividend](/dividend/) yield. No storage or convenience yield.
 
 **Commodities:** Cost of carry includes storage and convenience yield, creating [contango](/contango/) or [backwardation](/backwardation/) depending on supply-demand.
 
@@ -113,8 +113,8 @@ Example: Oil crisis; immediate oil is scarce and commands a premium. Convenience
 
 - [Cash-and-carry](/basis/) — exploit carry mispricing
 - [Curve trades](/alpha/) — betting on carry changes
-- [Rolling](/basis) — managing carry in positions
-- [Spread trading](/alpha) — comparing carry across maturities
+- [Rolling](/basis/) — managing carry in positions
+- [Spread trading](/alpha/) — comparing carry across maturities
 
 ### Deeper context
 

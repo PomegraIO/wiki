@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For protection against death, see [term-life insurance](/term-life-insurance); for protection against liability, see [umbrella insurance](/umbrella-insurance); for retirement income, see [Social Security](/social-security-personal) and [401(k) plan](/401k-plan).
+For protection against death, see [term-life insurance](/term-life-insurance/); for protection against liability, see [umbrella insurance](/umbrella-insurance/); for retirement income, see [Social Security](/social-security-personal/) and [401(k) plan](/401k-plan/).
 
 </div>
 
@@ -44,7 +44,7 @@ Many people have life insurance but no disability insurance, despite disability 
 
 - A 35-year-old has roughly 1 in 3 chance of experiencing a disability lasting 90+ days before retirement.
 - A serious illness or injury could wipe out savings and prevent mortgage payment, forcing financial crisis.
-- Disability can last months or years, far longer than an [emergency fund](/emergency-fund) can cover.
+- Disability can last months or years, far longer than an [emergency fund](/emergency-fund/) can cover.
 
 Disability insurance is one of the most underutilized protections in personal finance.
 
@@ -92,14 +92,14 @@ If your employer does not offer it (or the coverage is insufficient), you can bu
 Key considerations:
 
 - **Benefit period.** To age 65 is standard and recommended for workers.
-- **Waiting period.** 60–90 days is typical. Longer waits have lower premiums (self-insure the first 3 months with [emergency fund](/emergency-fund)).
+- **Waiting period.** 60–90 days is typical. Longer waits have lower premiums (self-insure the first 3 months with [emergency fund](/emergency-fund/)).
 - **Definition of disability.** Own-occupation is preferred if you can afford it.
 - **Cost-of-living adjustment (COLA).** Allows benefits to increase with inflation.
 - **Residual benefits.** Reduce benefits if you return to work part-time.
 
 ## Social Security Disability
 
-[Social Security](/social-security-personal) offers disability benefits (SSDI) if you become unable to work. However, the definition is strict ("unable to do any substantial work"), and benefits are modest (~$1,300/month average).
+[Social Security](/social-security-personal/) offers disability benefits (SSDI) if you become unable to work. However, the definition is strict ("unable to do any substantial work"), and benefits are modest (~$1,300/month average).
 
 Relying on SSDI alone is risky. Private disability insurance is preferable.
 
@@ -120,16 +120,16 @@ Read your policy to understand exclusions.
 
 ### Closely related
 
-- [Term-life insurance](/term-life-insurance) — protection against death
-- [Umbrella insurance](/umbrella-insurance) — liability protection
-- [Emergency fund](/emergency-fund) — covers short gaps before LTD begins
-- [Health insurance](/hsa) — medical coverage during disability
+- [Term-life insurance](/term-life-insurance/) — protection against death
+- [Umbrella insurance](/umbrella-insurance/) — liability protection
+- [Emergency fund](/emergency-fund/) — covers short gaps before LTD begins
+- [Health insurance](/hsa/) — medical coverage during disability
 
 ### Wider context
 
-- [Social Security](/social-security-personal) — limited disability benefits
-- [Budgeting methods](/budgeting-methods) — disability insurance as budget line
-- [Savings rate](/savings-rate) — emergency fund to cover waiting period
-- [FIRE movement](/fire-movement) — early retirees must consider disability until Social Security
+- [Social Security](/social-security-personal/) — limited disability benefits
+- [Budgeting methods](/budgeting-methods/) — disability insurance as budget line
+- [Savings rate](/savings-rate/) — emergency fund to cover waiting period
+- [FIRE movement](/fire-movement/) — early retirees must consider disability until Social Security
 
 </div>

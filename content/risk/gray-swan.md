@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*A gray swan is a catastrophic risk that is recognized as possible and plausible but is difficult to quantify, model, or price. Unlike [black swans](/black-swan), which are surprises, gray swans are known hazards that linger in the background of risk discussions but remain poorly understood and often underpriced.*
+*A gray swan is a catastrophic risk that is recognized as possible and plausible but is difficult to quantify, model, or price. Unlike [black swans](/black-swan/), which are surprises, gray swans are known hazards that linger in the background of risk discussions but remain poorly understood and often underpriced.*
 
 <div class="wiki-hatnote">
 
-This entry covers known but hard-to-model tail risks. For truly unpredictable catastrophic events, see [black-swan](/black-swan); for positive surprises, see [white-swan](/white-swan).
+This entry covers known but hard-to-model tail risks. For truly unpredictable catastrophic events, see [black-swan](/black-swan/); for positive surprises, see [white-swan](/white-swan/).
 
 </div>
 
@@ -57,7 +57,7 @@ Three reasons:
 
 The result: gray swans are chronically underpriced. When they materialize, losses are larger than the markets had priced in.
 
-## Gray swans versus [black swans](/black-swan)
+## Gray swans versus [black swans](/black-swan/)
 
 The difference matters for prediction and hedging:
 
@@ -81,11 +81,11 @@ After a gray swan hits, people say, "We should have seen this coming" — and th
 
 Because gray swans are foreseeable, they can be hedged, but the cost is high:
 
-- **Insurance.** Buy [options](/option) or insurance contracts that pay off if the gray swan occurs. But because the probability is subjectively low, the insurance is expensive — you pay a lot for something you hope never happens.
+- **Insurance.** Buy [options](/option/) or insurance contracts that pay off if the gray swan occurs. But because the probability is subjectively low, the insurance is expensive — you pay a lot for something you hope never happens.
 
 - **Diversification.** Hold assets that hedge gray-swan risks. Commodities hedge inflation-driven gray swans. Long-duration bonds hedge deflation scenarios. Geographically diverse holdings hedge country-specific gray swans.
 
-- **Reallocation.** Keep a more conservative [asset allocation](/asset-allocation) than normal because tail risks are real. Accept lower average returns for lower exposure to gray swans.
+- **Reallocation.** Keep a more conservative [asset allocation](/asset-allocation/) than normal because tail risks are real. Accept lower average returns for lower exposure to gray swans.
 
 - **Scenario planning.** Explicitly assume a gray swan occurs and test how your portfolio would weather it. Stress-test a debt crisis, a cyberattack, or a geopolitical shock.
 
@@ -101,18 +101,18 @@ For most investors, perfect hedging of all gray swans is too expensive. The prac
 
 ### Closely related
 
-- [Black-swan](/black-swan) — unpredictable catastrophic event
-- [White-swan](/white-swan) — foreseeable positive surprise
-- [Tail-risk](/tail-risk) — extreme losses from gray swans
-- [Stress-testing](/stress-testing) — assesses gray swan scenarios
-- [Scenario-analysis](/scenario-analysis) — explicit modeling of gray swan outcomes
+- [Black-swan](/black-swan/) — unpredictable catastrophic event
+- [White-swan](/white-swan/) — foreseeable positive surprise
+- [Tail-risk](/tail-risk/) — extreme losses from gray swans
+- [Stress-testing](/stress-testing/) — assesses gray swan scenarios
+- [Scenario-analysis](/scenario-analysis/) — explicit modeling of gray swan outcomes
 
 ### Broader context
 
-- [Model-risk](/model-risk) — modeling a gray swan is inherently risky
-- [Parameter-risk](/parameter-risk) — estimating probabilities is highly uncertain
-- [Value-at-risk](/value-at-risk) — typically underestimates gray swan losses
-- [Systemic-risk](/systemic-risk) — many gray swans are systemic in nature
-- [Recession](/recession) — often preceded by gray swan risk building
+- [Model-risk](/model-risk/) — modeling a gray swan is inherently risky
+- [Parameter-risk](/parameter-risk/) — estimating probabilities is highly uncertain
+- [Value-at-risk](/value-at-risk/) — typically underestimates gray swan losses
+- [Systemic-risk](/systemic-risk/) — many gray swans are systemic in nature
+- [Recession](/recession/) — often preceded by gray swan risk building
 
 </div>

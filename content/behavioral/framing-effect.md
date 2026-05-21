@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Central to prospect theory. For the tendency to view decisions in isolation, see [narrow framing](/narrow-framing).
+Central to prospect theory. For the tendency to view decisions in isolation, see [narrow framing](/narrow-framing/).
 
 </div>
 
@@ -33,7 +33,7 @@ Central to prospect theory. For the tendency to view decisions in isolation, see
 | **Classic example** | Asian Disease Problem (gain frame vs. loss frame) |
 | **Effect on choice** | Often reverses risk preference depending on frame |
 | **Investor impact** | Portfolio choices change with presentation; marketing drives decisions |
-| **Related phenomenon** | [Prospect theory](/prospect-theory), [isolation effect](/isolation-effect) |
+| **Related phenomenon** | [Prospect theory](/prospect-theory/), [isolation effect](/isolation-effect/) |
 
 </aside>
 
@@ -53,9 +53,9 @@ The underlying problem is identical: a population of 600, one program saves 200 
 
 ## Why it happens
 
-The framing effect arises from [reference dependence](/prospect-theory). In the gain frame, the reference point is "nobody is saved," so both options are compared to that. In the loss frame, the reference point is "everyone dies," so both options are compared to that. The different reference points lead to different risk preferences.
+The framing effect arises from [reference dependence](/prospect-theory/). In the gain frame, the reference point is "nobody is saved," so both options are compared to that. In the loss frame, the reference point is "everyone dies," so both options are compared to that. The different reference points lead to different risk preferences.
 
-Additionally, gains and losses are processed differently by the brain. The gain frame triggers risk-aversion (prefer the sure 200); the loss frame triggers risk-seeking (try to avoid 600 deaths via the gamble). This is the [reflection effect](/reflection-effect).
+Additionally, gains and losses are processed differently by the brain. The gain frame triggers risk-aversion (prefer the sure 200); the loss frame triggers risk-seeking (try to avoid 600 deaths via the gamble). This is the [reflection effect](/reflection-effect/).
 
 ## Framing in financial markets
 
@@ -63,7 +63,7 @@ Additionally, gains and losses are processed differently by the brain. The gain 
 
 **"Yield" vs. "principal risk."** A bond fund is marketed as "yield 4%," activating the gains frame. Investors focus on the interest income. The same fund, if described as "principal risk 8% in a rising-rate environment," activates the loss frame and deters investment. Identical bond, different frame, different decision.
 
-**"Opportunity" vs. "downside."** A stock in a [bear market](/bear-market) can be framed as "an opportunity to buy low" (gains frame) or "a value trap with downside risk" (loss frame). The frame affects demand and therefore price.
+**"Opportunity" vs. "downside."** A stock in a [bear market](/bear-market/) can be framed as "an opportunity to buy low" (gains frame) or "a value trap with downside risk" (loss frame). The frame affects demand and therefore price.
 
 **Stock splits and price levels.** A stock that has split 2-for-1 is psychologically priced lower than before the split, even though each investor owns twice as many shares. The frame (price per share) has changed, and demand changes with it, even though the underlying value has not.
 
@@ -90,7 +90,7 @@ Framing is deliberately used in negotiation. A seller frames a price as "a good 
 - **Ask for the same information in multiple frames.** If an option is described as "80% of the portfolio recovered after a crash," also ask "how much was lost in the crash?" Both frames are true; both matter.
 - **Use base rates and absolute numbers.** Frame-independence often comes from using raw numbers rather than percentages or comparisons. "The fund fell 15%" is frame-independent; "it underperformed the market by 3%" depends on the market's reference point.
 - **Ignore marketing language.** Professional marketing is designed to frame options favorably for sales. Ask: would I decide the same way if this were presented neutrally?
-- **Make rules *before* you are framed.** Decide on your [asset allocation](/asset-allocation) and rebalancing rules when you are calm and frame-independent. Then follow the rules regardless of how market outcomes are presented.
+- **Make rules *before* you are framed.** Decide on your [asset allocation](/asset-allocation/) and rebalancing rules when you are calm and frame-independent. Then follow the rules regardless of how market outcomes are presented.
 - **Compare to a neutral frame.** Always ask: what is the base case, with no marketing spin? How do the options compare in that neutral frame?
 
 ## See also
@@ -99,18 +99,18 @@ Framing is deliberately used in negotiation. A seller frames a price as "a good 
 
 ### Closely related
 
-- [Prospect theory](/prospect-theory) — the overarching framework
-- [Reflection effect](/reflection-effect) — risk-aversion in gains, risk-seeking in losses
-- [Reference dependence](/prospect-theory) — choices depend on the reference point
-- [Isolation effect](/isolation-effect) — focusing on differences while ignoring commonalities
-- [Narrow framing](/narrow-framing) — viewing decisions in isolation rather than in context
+- [Prospect theory](/prospect-theory/) — the overarching framework
+- [Reflection effect](/reflection-effect/) — risk-aversion in gains, risk-seeking in losses
+- [Reference dependence](/prospect-theory/) — choices depend on the reference point
+- [Isolation effect](/isolation-effect/) — focusing on differences while ignoring commonalities
+- [Narrow framing](/narrow-framing/) — viewing decisions in isolation rather than in context
 
 ### Wider context
 
-- [Loss aversion](/loss-aversion) — the asymmetry driving different frame responses
-- [Certainty effect](/certainty-effect) — overweighting certainty regardless of frame
+- [Loss aversion](/loss-aversion/) — the asymmetry driving different frame responses
+- [Certainty effect](/certainty-effect/) — overweighting certainty regardless of frame
 - Behavioral asset pricing — how framing affects market prices
-- [Confirmation bias](/confirmation-bias) — seeking confirming frames
-- [Mental accounting](/mental-accounting) — organizing money with different decision rules per frame
+- [Confirmation bias](/confirmation-bias/) — seeking confirming frames
+- [Mental accounting](/mental-accounting/) — organizing money with different decision rules per frame
 
 </div>

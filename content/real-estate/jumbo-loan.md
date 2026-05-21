@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For conforming loans, see [conforming-loan](/conforming-loan). For government programs, see [fha-loan](/fha-loan), [va-loan](/va-loan), and [usda-loan](/usda-loan). For the broader context, see conventional-mortgage.
+For conforming loans, see [conforming-loan](/conforming-loan/). For government programs, see [fha-loan](/fha-loan/), [va-loan](/va-loan/), and [usda-loan](/usda-loan/). For the broader context, see conventional-mortgage.
 
 </div>
 
@@ -136,21 +136,21 @@ During credit expansions (2010–2019, 2021–2022), jumbo lending is abundant a
 
 ### Loan types
 
-- [Conforming-loan](/conforming-loan) — loans within GSE limits
+- [Conforming-loan](/conforming-loan/) — loans within GSE limits
 - Non-conforming-loan — loans not meeting GSE standards
 - Conventional-mortgage — non-government mortgages
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — standard fixed-rate mortgages
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — standard fixed-rate mortgages
 
 ### Government programs
 
-- [Fannie-Mae](/fannie-mae) — buys conforming loans
-- [Freddie-Mac](/freddie-mac) — buys conforming loans
+- [Fannie-Mae](/fannie-mae/) — buys conforming loans
+- [Freddie-Mac](/freddie-mac/) — buys conforming loans
 - Government-sponsored-enterprise — GSE framework
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects jumbo rates and premia
-- [Mortgage-backed-security](/mortgage-backed-security) — where conforming loans securitize
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
+- [Interest rate](/interest-rate/) — affects jumbo rates and premia
+- [Mortgage-backed-security](/mortgage-backed-security/) — where conforming loans securitize
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
 
 </div>

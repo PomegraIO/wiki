@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*The **Ethereum Merge** was a major network upgrade executed on 15 September 2022, where [Ethereum](/ethereum) transitioned from [proof-of-work](/proof-of-work) consensus (using miners) to [proof-of-stake](/proof-of-stake) consensus (using validators). The upgrade reduced Ethereum's energy consumption by roughly 99.95% and was the most significant change to the network since its launch.*
+*The **Ethereum Merge** was a major network upgrade executed on 15 September 2022, where [Ethereum](/ethereum/) transitioned from [proof-of-work](/proof-of-work/) consensus (using miners) to [proof-of-stake](/proof-of-stake/) consensus (using validators). The upgrade reduced Ethereum's energy consumption by roughly 99.95% and was the most significant change to the network since its launch.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Merge as a technical event. For Ethereum's broader history, see [Ethereum](/ethereum); for the consensus mechanisms involved, see [proof-of-work](/proof-of-work) and [proof-of-stake](/proof-of-stake).
+This entry covers the Merge as a technical event. For Ethereum's broader history, see [Ethereum](/ethereum/); for the consensus mechanisms involved, see [proof-of-work](/proof-of-work/) and [proof-of-stake](/proof-of-stake/).
 
 </div>
 
@@ -30,12 +30,12 @@ This entry covers the Merge as a technical event. For Ethereum's broader history
 |   |   |
 |---|---|
 | **Date** | 15 September 2022 |
-| **Transition** | [Proof-of-work](/proof-of-work) → [proof-of-stake](/proof-of-stake) |
+| **Transition** | [Proof-of-work](/proof-of-work/) → [proof-of-stake](/proof-of-stake/) |
 | **Energy reduction** | ~99.95% |
-| **Stake required** | 32 ETH per [validator](/validator) |
+| **Stake required** | 32 ETH per [validator](/validator/) |
 | **Block time** | Unchanged (~12 seconds) |
 | **Consensus finality** | Improved (faster) |
-| **Miner rewards** | Eliminated (replaced by [staking](/staking) rewards) |
+| **Miner rewards** | Eliminated (replaced by [staking](/staking/) rewards) |
 
 </aside>
 
@@ -46,7 +46,7 @@ Ethereum's transition to proof-of-stake was not instantaneous. In December 2020,
 This parallel running allowed:
 
 - Testing the proof-of-stake mechanism on a live network.
-- Accumulating [validators](/validator) and staked ETH without disrupting existing users.
+- Accumulating [validators](/validator/) and staked ETH without disrupting existing users.
 - Debugging unforeseen issues before the final merge.
 
 ## The technical merge
@@ -57,19 +57,19 @@ From a user's perspective, the change was invisible — transactions continued f
 
 ## Energy efficiency
 
-Before the Merge, [Ethereum](/ethereum) consumed ~70 terawatt-hours (TWh) of electricity annually, equivalent to the consumption of some countries. This consumption came from miners running specialised hardware globally.
+Before the Merge, [Ethereum](/ethereum/) consumed ~70 terawatt-hours (TWh) of electricity annually, equivalent to the consumption of some countries. This consumption came from miners running specialised hardware globally.
 
-After the Merge, [Ethereum](/ethereum) energy consumption dropped to roughly 0.03 TWh annually — a reduction of over 99.95%. This dramatic reduction addresses one of the primary criticisms of proof-of-work cryptocurrencies.
+After the Merge, [Ethereum](/ethereum/) energy consumption dropped to roughly 0.03 TWh annually — a reduction of over 99.95%. This dramatic reduction addresses one of the primary criticisms of proof-of-work cryptocurrencies.
 
 ## The end of GPU and ASIC mining
 
-Before the Merge, Ethereum miners used GPUs and ASICs. After the Merge, these became useless for Ethereum. Many miners transitioned to mining other proof-of-work coins ([Litecoin](/litecoin), Dogecoin, etc.) or exited mining entirely.
+Before the Merge, Ethereum miners used GPUs and ASICs. After the Merge, these became useless for Ethereum. Many miners transitioned to mining other proof-of-work coins ([Litecoin](/litecoin/), Dogecoin, etc.) or exited mining entirely.
 
 This created a one-time economic shock: billions of dollars in mining equipment became obsolete, and many mining operations shut down.
 
 ## Staking and validator participation
 
-The Merge enabled [staking](/staking). Users who locked 32 ETH in the Beacon Chain before the Merge became validators after the Merge, earning staking rewards (~3–6% annually, depending on total stake).
+The Merge enabled [staking](/staking/). Users who locked 32 ETH in the Beacon Chain before the Merge became validators after the Merge, earning staking rewards (~3–6% annually, depending on total stake).
 
 Participation in staking grew significantly after the Merge, as users sought to earn yield. By 2024, roughly 16–18 million ETH (~40% of total supply) were staked.
 
@@ -83,7 +83,7 @@ The Merge was not without challenges. Some issues encountered:
 
 ## Preparation for Shanghai and Dencun
 
-The Merge was the first of several upgrades. [Ethereum Shanghai](/ethereum-shanghai) (April 2023) enabled staking withdrawals (the ability to unstake and move ETH). [Ethereum Dencun](/ethereum-dencun) (March 2024) improved layer-2 scaling through blob transactions.
+The Merge was the first of several upgrades. [Ethereum Shanghai](/ethereum-shanghai/) (April 2023) enabled staking withdrawals (the ability to unstake and move ETH). [Ethereum Dencun](/ethereum-dencun/) (March 2024) improved layer-2 scaling through blob transactions.
 
 These upgrades were enabled by the Merge's shift to proof-of-stake, as they require validator participation and were incompatible with proof-of-work.
 
@@ -91,11 +91,11 @@ These upgrades were enabled by the Merge's shift to proof-of-stake, as they requ
 
 The Merge was met with generally positive reception, particularly from environmental advocates. However, some community members viewed proof-of-stake as less secure or more "centralised" than proof-of-work.
 
-Interestingly, the Merge did not lead to the expected price appreciation. [Ethereum](/ethereum)'s price was relatively flat around the Merge event, suggesting the market had already priced in the transition.
+Interestingly, the Merge did not lead to the expected price appreciation. [Ethereum](/ethereum/)'s price was relatively flat around the Merge event, suggesting the market had already priced in the transition.
 
 ## Comparison with Bitcoin
 
-[Bitcoin](/bitcoin) remains on [proof-of-work](/proof-of-work) and has no announced plans to transition to proof-of-stake. Bitcoin maximalists argue that proof-of-work is more secure and decentralised; Ethereum developers argue that proof-of-stake's energy efficiency is vital for sustainability.
+[Bitcoin](/bitcoin/) remains on [proof-of-work](/proof-of-work/) and has no announced plans to transition to proof-of-stake. Bitcoin maximalists argue that proof-of-work is more secure and decentralised; Ethereum developers argue that proof-of-stake's energy efficiency is vital for sustainability.
 
 ## See also
 
@@ -103,17 +103,17 @@ Interestingly, the Merge did not lead to the expected price appreciation. [Ether
 
 ### Closely related
 
-- [Ethereum](/ethereum) — the network that merged
-- [Proof-of-stake](/proof-of-stake) — the mechanism after the Merge
-- [Proof-of-work](/proof-of-work) — the mechanism before the Merge
-- [Validator](/validator) — who validates after the Merge
-- [Staking](/staking) — how to earn rewards after the Merge
-- [Ethereum Shanghai](/ethereum-shanghai) — subsequent upgrade
+- [Ethereum](/ethereum/) — the network that merged
+- [Proof-of-stake](/proof-of-stake/) — the mechanism after the Merge
+- [Proof-of-work](/proof-of-work/) — the mechanism before the Merge
+- [Validator](/validator/) — who validates after the Merge
+- [Staking](/staking/) — how to earn rewards after the Merge
+- [Ethereum Shanghai](/ethereum-shanghai/) — subsequent upgrade
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Bitcoin](/bitcoin) — remains on proof-of-work
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Bitcoin](/bitcoin/) — remains on proof-of-work
 - Layer-2 — enabled by the Merge's design changes
 
 </div>

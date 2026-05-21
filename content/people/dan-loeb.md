@@ -85,14 +85,14 @@ His influence on corporate governance and shareholder activism has been substant
 
 ### Closely related
 
-- [Bill Ackman](/bill-ackman) — Another prominent activist
+- [Bill Ackman](/bill-ackman/) — Another prominent activist
 - Carl Icahn — A pioneer of activist investing
-- [David Einhorn](/david-einhorn) — A value short-seller
-- [Steve Cohen](/steve-cohen) — A hedge fund titan
+- [David Einhorn](/david-einhorn/) — A value short-seller
+- [Steve Cohen](/steve-cohen/) — A hedge fund titan
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Activist investing — His strategy
 - Shareholder activism — His focus
 - Corporate governance — His target

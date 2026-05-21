@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Trading">
 <rect width="900" height="600" fill="#f4ede2"/>
 <line x1="60" y1="60" x2="60" y2="540" stroke="#d4cdbd" stroke-width="1"/>
-<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="#0f0f10" font-weight="600">Trading</text>
-<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">ORDERS & EXECUTION</text>
+<text x="80" y="100" font-family="'Source Serif 4','Source Serif Pro',Georgia,serif" font-size="36" fill="#0f0f10" font-weight="600">Trading</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">ORDERS &amp; EXECUTION</text>
 <g transform="translate(140,200)">
 <line x1="300" y1="-10" x2="300" y2="330" stroke="#5b5b63" stroke-width="1"/>
 <rect x="60" y="10" width="240" height="28" fill="#0f0f10" opacity="0.65"/>

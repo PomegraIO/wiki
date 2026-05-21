@@ -10,7 +10,7 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*The labor force participation rate is the percentage of the working-age population (typically ages 16 and above) that is either employed or actively looking for work. It differs from the [unemployment rate](/unemployment-rate) because it measures what fraction of the population is in the labor force at all, not how many are unemployed within that force.*
+*The labor force participation rate is the percentage of the working-age population (typically ages 16 and above) that is either employed or actively looking for work. It differs from the [unemployment rate](/unemployment-rate/) because it measures what fraction of the population is in the labor force at all, not how many are unemployed within that force.*
 
 <div class="wiki-hatnote">
 
@@ -44,13 +44,13 @@ Participation rate = Labor force ÷ Working-age population. It has declined sign
 These are commonly confused but distinct:
 
 - **Participation rate** — what fraction of the working-age population is in the labor force (working or seeking work)?
-- **[Unemployment rate](/unemployment-rate)** — of those in the labor force, what fraction is unemployed?
+- **[Unemployment rate](/unemployment-rate/)** — of those in the labor force, what fraction is unemployed?
 
-A country could have high [unemployment](/unemployment-rate) but low participation if many people have left the labor force. This is important: a worker who stops looking for work is no longer counted as unemployed, but the participation rate captures the fact that they have left the economically active population.
+A country could have high [unemployment](/unemployment-rate/) but low participation if many people have left the labor force. This is important: a worker who stops looking for work is no longer counted as unemployed, but the participation rate captures the fact that they have left the economically active population.
 
 ## Why participation matters
 
-The labor force participation rate affects [potential GDP](/potential-gdp) growth. If the working-age population grows 0.5% but participation declines, the actual labor force might grow only 0.1%, constraining long-run growth.
+The labor force participation rate affects [potential GDP](/potential-gdp/) growth. If the working-age population grows 0.5% but participation declines, the actual labor force might grow only 0.1%, constraining long-run growth.
 
 Over the past two decades, declining participation in developed economies has been a drag on growth:
 
@@ -77,15 +77,15 @@ The COVID-19 pandemic disrupted participation significantly:
 - It recovered to 63.3% by late 2021 but has since fluctuated and generally trended lower.
 - The decline appears to reflect early retirements, career changes, childcare constraints, and preference shifts.
 
-Whether this decline is temporary or permanent has major implications for future growth and [inflation](/inflation) potential.
+Whether this decline is temporary or permanent has major implications for future growth and [inflation](/inflation/) potential.
 
 ## Policy implications
 
 Low and declining participation has several effects:
 
-- **Growth drag:** With fewer workers, [potential GDP](/potential-gdp) growth is limited unless [productivity](/productivity) accelerates to compensate.
+- **Growth drag:** With fewer workers, [potential GDP](/potential-gdp/) growth is limited unless [productivity](/productivity/) accelerates to compensate.
 - **Tax base squeeze:** Fewer workers pay fewer taxes, making government debt management harder.
-- **Labor shortage signals:** If participation is declining while [unemployment](/unemployment-rate) is low, tight labor markets are likely, raising [inflation](/inflation) risk.
+- **Labor shortage signals:** If participation is declining while [unemployment](/unemployment-rate/) is low, tight labor markets are likely, raising [inflation](/inflation/) risk.
 
 Some policymakers advocate for immigration or childcare support to raise participation, particularly among women and young workers.
 
@@ -95,18 +95,18 @@ Some policymakers advocate for immigration or childcare support to raise partici
 
 ### Closely related
 
-- [Unemployment rate](/unemployment-rate) — of those in labor force
-- [Employment-population ratio](/employment-population-ratio) — employment as share of working-age
-- [Labor force](/labor-force-participation-rate) — the denominator
-- [Unemployment](/unemployment-rate) — the opposite state
-- [Full employment](/full-employment) — when participation is high
+- [Unemployment rate](/unemployment-rate/) — of those in labor force
+- [Employment-population ratio](/employment-population-ratio/) — employment as share of working-age
+- [Labor force](/labor-force-participation-rate/) — the denominator
+- [Unemployment](/unemployment-rate/) — the opposite state
+- [Full employment](/full-employment/) — when participation is high
 
 ### Broader context
 
-- [Potential GDP](/potential-gdp) — affected by participation trends
-- [Productivity](/productivity) — must offset participation declines
+- [Potential GDP](/potential-gdp/) — affected by participation trends
+- [Productivity](/productivity/) — must offset participation declines
 - Aging population — drives participation down
-- [Inflation](/inflation) — tight labor markets raise inflation risk
+- [Inflation](/inflation/) — tight labor markets raise inflation risk
 - Monetary policy — guided by labor market data
 
 </div>

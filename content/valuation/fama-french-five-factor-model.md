@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **Fama-French five-factor model** extends the [three-factor model](/fama-french-three-factor-model) by adding two new factors: profitability and investment. It says that cost of equity depends on market risk, size, value characteristics, *how profitable a company is*, and *how much it is reinvesting*. Highly profitable, low-reinvestment companies earn less than the model would predict; low-profitability, high-reinvestment companies earn more. It is the latest iteration of multi-factor models in academic finance.*
+*The **Fama-French five-factor model** extends the [three-factor model](/fama-french-three-factor-model/) by adding two new factors: profitability and investment. It says that cost of equity depends on market risk, size, value characteristics, *how profitable a company is*, and *how much it is reinvesting*. Highly profitable, low-reinvestment companies earn less than the model would predict; low-profitability, high-reinvestment companies earn more. It is the latest iteration of multi-factor models in academic finance.*
 
 ## The five factors
 
@@ -80,26 +80,26 @@ Some practitioners use Fama-French three-factor for the main valuation, then che
 
 ### Closely related
 
-- [Fama-French three-factor model](/fama-french-three-factor-model) — the base model
-- [Capital asset pricing model](/capital-asset-pricing-model) — the original framework
-- [Carhart four-factor model](/carhart-four-factor-model) — alternative extension
-- [Cost of equity](/cost-of-equity) — what this estimates
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — the base model
+- [Capital asset pricing model](/capital-asset-pricing-model/) — the original framework
+- [Carhart four-factor model](/carhart-four-factor-model/) — alternative extension
+- [Cost of equity](/cost-of-equity/) — what this estimates
 
 ### Factor concepts
 
 - Profitability — the profitability factor
 - Investment — the investment factor
-- [Beta](/beta) — market risk
+- [Beta](/beta/) — market risk
 - Size — size premium
 
 ### Valuation application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates cost of equity
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates cost of equity
 
 ### Alternatives
 
-- [Arbitrage pricing theory](/arbitrage-pricing-theory) — alternative multi-factor framework
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive approach
+- [Arbitrage pricing theory](/arbitrage-pricing-theory/) — alternative multi-factor framework
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive approach
 
 </div>

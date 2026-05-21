@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For other lease structures, see [triple-net-lease](/triple-net-lease) (tenant pays all), full-service-lease (landlord pays all), and percentage-lease. For the broader context, see [commercial-real-estate](/commercial-real-estate).
+For other lease structures, see [triple-net-lease](/triple-net-lease/) (tenant pays all), full-service-lease (landlord pays all), and percentage-lease. For the broader context, see [commercial-real-estate](/commercial-real-estate/).
 
 </div>
 
@@ -122,20 +122,20 @@ The prevalence and terms of modified gross leases vary by market:
 
 ### Lease structures
 
-- [Triple-net-lease](/triple-net-lease) — tenant pays all costs
+- [Triple-net-lease](/triple-net-lease/) — tenant pays all costs
 - Full-service-lease — landlord pays all costs
 - Percentage-lease — tenant pays rent plus sales percentage
 - Ground-lease — long-term land lease
 
 ### Real estate context
 
-- [Commercial-real-estate](/commercial-real-estate) — where modified gross leases are common
-- [Office-reit](/office-reit) — REITs that own office properties
-- [Cap rate](/cap-rate) — the return on a leased property
+- [Commercial-real-estate](/commercial-real-estate/) — where modified gross leases are common
+- [Office-reit](/office-reit/) — REITs that own office properties
+- [Cap rate](/cap-rate/) — the return on a leased property
 
 ### Context
 
-- [Inflation](/inflation) — modified gross leases share inflation risk
-- [Interest rate](/interest-rate) — affects property valuations and lease terms
+- [Inflation](/inflation/) — modified gross leases share inflation risk
+- [Interest rate](/interest-rate/) — affects property valuations and lease terms
 
 </div>

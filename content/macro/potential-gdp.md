@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Potential GDP is the level of [real GDP](/real-gdp) that an economy can sustain in the long run without triggering accelerating [inflation](/inflation). It is an unobservable trend that economists estimate by looking at growth in the [labor force](/labor-force-participation-rate), [productivity](/productivity), and capital. The difference between actual and potential GDP is the [output gap](/output-gap).*
+*Potential GDP is the level of [real GDP](/real-gdp/) that an economy can sustain in the long run without triggering accelerating [inflation](/inflation/). It is an unobservable trend that economists estimate by looking at growth in the [labor force](/labor-force-participation-rate/), [productivity](/productivity/), and capital. The difference between actual and potential GDP is the [output gap](/output-gap/).*
 
 <div class="wiki-hatnote">
 
-Potential GDP is also called trend output, full-capacity output, or the natural level of output. It is a key reference point for monetary policy, [recession](/recession) identification, and growth forecasting.
+Potential GDP is also called trend output, full-capacity output, or the natural level of output. It is a key reference point for monetary policy, [recession](/recession/) identification, and growth forecasting.
 
 </div>
 
@@ -33,7 +33,7 @@ Potential GDP is also called trend output, full-capacity output, or the natural 
 | **Observed** | No; must be estimated from data |
 | **Margins of error** | ±1–2% in real time |
 | **Growth rate** | Usually 2–2.5% annually in developed economies |
-| **Related concept** | [Output gap](/output-gap) — actual minus potential |
+| **Related concept** | [Output gap](/output-gap/) — actual minus potential |
 | **Policy role** | Guides inflation targeting and stimulus decisions |
 | **Controversy** | What drives potential growth is debated |
 
@@ -41,19 +41,19 @@ Potential GDP is also called trend output, full-capacity output, or the natural 
 
 ## Why potential matters
 
-Actual [real GDP](/real-gdp) fluctuates around its potential — above potential during booms, below during recessions. The distance between the two — the [output gap](/output-gap) — tells policymakers crucial things:
+Actual [real GDP](/real-gdp/) fluctuates around its potential — above potential during booms, below during recessions. The distance between the two — the [output gap](/output-gap/) — tells policymakers crucial things:
 
-- **If actual GDP is above potential**, the economy is overheated, unemployment is unusually low, and wage and price [inflation](/inflation) are likely to accelerate.
-- **If actual GDP is below potential**, there is slack in the labor market, [unemployment](/unemployment-rate) is elevated, and [inflation](/inflation) is likely to decelerate or fall.
-- **If actual GDP equals potential**, the economy is at full capacity and [unemployment](/unemployment-rate) is at the [natural rate](/natural-rate-of-unemployment).
+- **If actual GDP is above potential**, the economy is overheated, unemployment is unusually low, and wage and price [inflation](/inflation/) are likely to accelerate.
+- **If actual GDP is below potential**, there is slack in the labor market, [unemployment](/unemployment-rate/) is elevated, and [inflation](/inflation/) is likely to decelerate or fall.
+- **If actual GDP equals potential**, the economy is at full capacity and [unemployment](/unemployment-rate/) is at the [natural rate](/natural-rate-of-unemployment/).
 
-The [Federal Reserve](/federal-reserve) uses the estimated [output gap](/output-gap) to guide monetary policy. If the gap is negative (actual below potential), the Fed may lower [interest rates](/interest-rate) to stimulate demand and return the economy to trend.
+The [Federal Reserve](/federal-reserve/) uses the estimated [output gap](/output-gap/) to guide monetary policy. If the gap is negative (actual below potential), the Fed may lower [interest rates](/interest-rate/) to stimulate demand and return the economy to trend.
 
 ## How potential GDP is estimated
 
 Potential GDP is never directly observed — it is always an estimate based on three factors:
 
-1. **Labor force size.** How many people are available to work? This is driven by population growth, [labor force participation rates](/labor-force-participation-rate), and immigration policy.
+1. **Labor force size.** How many people are available to work? This is driven by population growth, [labor force participation rates](/labor-force-participation-rate/), and immigration policy.
 
 2. **Productivity per worker.** How much output does each worker produce per hour? This depends on technological progress, human capital, and capital deepening — the accumulation of machinery and infrastructure.
 
@@ -83,13 +83,13 @@ During the Great Recession, the Federal Reserve initially estimated that potenti
 
 Disputes over potential GDP animate major economic debates:
 
-- **Is growth slowing?** Some economists argue that potential growth has fallen to 1.5% in the US (slowed [productivity](/productivity) growth, aging population). Others see 2.5% as sustainable. This debate has enormous policy implications.
+- **Is growth slowing?** Some economists argue that potential growth has fallen to 1.5% in the US (slowed [productivity](/productivity/) growth, aging population). Others see 2.5% as sustainable. This debate has enormous policy implications.
 - **Did the pandemic permanently reduce capacity?** Labor force participation fell sharply in 2020-21; did it recover permanently or will it stay depressed?
 - **How much slack is there now?** If potential growth is 2% but we have only 1.5%, the output gap is negative and there is room for stimulus. If potential is actually 1.5%, stimulus risks overheating.
 
 ## Potential and inflation
 
-The connection between [output gap](/output-gap) and [inflation](/inflation) is one of the central relationships in macroeconomics. When actual output exceeds potential, firms hire aggressively, wages rise, and firms pass on costs as higher prices. When actual output falls short of potential, the reverse happens — weak wage growth and disinflationary pressure.
+The connection between [output gap](/output-gap/) and [inflation](/inflation/) is one of the central relationships in macroeconomics. When actual output exceeds potential, firms hire aggressively, wages rise, and firms pass on costs as higher prices. When actual output falls short of potential, the reverse happens — weak wage growth and disinflationary pressure.
 
 This relationship is not mechanical — other factors like supply shocks, inflation expectations, and oil prices matter — but it is robust over the long run.
 
@@ -99,18 +99,18 @@ This relationship is not mechanical — other factors like supply shocks, inflat
 
 ### Closely related
 
-- [Output gap](/output-gap) — actual minus potential GDP
-- [Real GDP](/real-gdp) — the actual output figure
-- [Gross Domestic Product](/gross-domestic-product) — the overall concept
-- [Productivity](/productivity) — a key driver of potential
-- [Natural rate of unemployment](/natural-rate-of-unemployment) — unemployment at potential output
+- [Output gap](/output-gap/) — actual minus potential GDP
+- [Real GDP](/real-gdp/) — the actual output figure
+- [Gross Domestic Product](/gross-domestic-product/) — the overall concept
+- [Productivity](/productivity/) — a key driver of potential
+- [Natural rate of unemployment](/natural-rate-of-unemployment/) — unemployment at potential output
 
 ### Broader context
 
-- [Business cycle](/business-cycle) — fluctuations around potential
-- [Recession](/recession) — when actual falls far below potential
-- [Inflation](/inflation) — accelerates when output exceeds potential
+- [Business cycle](/business-cycle/) — fluctuations around potential
+- [Recession](/recession/) — when actual falls far below potential
+- [Inflation](/inflation/) — accelerates when output exceeds potential
 - Monetary policy — guided by output gap estimates
-- [Full employment](/full-employment) — when actual equals potential
+- [Full employment](/full-employment/) — when actual equals potential
 
 </div>

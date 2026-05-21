@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*[Dollarization](/dollarization) is the use of the [US dollar](/us-dollar) (or another foreign currency) as a country's official medium of exchange. **Official dollarization** means the central bank has abandoned its own currency entirely; **unofficial dollarization** (or currency substitution) occurs when residents use dollars alongside or instead of the domestic currency, often during crises. Ecuador and El Salvador are officially dollarized; [Yugoslavia](/central-bank) unofficially dollarized before its collapse.*
+*[Dollarization](/dollarization/) is the use of the [US dollar](/us-dollar/) (or another foreign currency) as a country's official medium of exchange. **Official dollarization** means the central bank has abandoned its own currency entirely; **unofficial dollarization** (or currency substitution) occurs when residents use dollars alongside or instead of the domestic currency, often during crises. Ecuador and El Salvador are officially dollarized; [Yugoslavia](/central-bank/) unofficially dollarized before its collapse.*
 
 <div class="wiki-hatnote">
 
-For a currency pegged to the dollar, see [hard peg](/hard-peg) and [currency board](/currency-board); for the broader phenomenon of currency loss of confidence, see currency crisis.
+For a currency pegged to the dollar, see [hard peg](/hard-peg/) and [currency board](/currency-board/); for the broader phenomenon of currency loss of confidence, see currency crisis.
 
 </div>
 
@@ -43,7 +43,7 @@ For a currency pegged to the dollar, see [hard peg](/hard-peg) and [currency boa
 
 **Official dollarization** means a government legally adopts the US dollar as its sole currency and ceases to issue its own. Ecuador officially dollarized in 2000 after years of hyperinflation destroyed the currency (the sucre). El Salvador dollarized in 2001. Panama has used the US dollar officially for over a century.
 
-Once official, there is no going back without a trauma equivalent to a regime change. The central bank issues no currency; the [money supply](/inflation) is whatever dollars enter the country from trade, investment, or borrowing. Monetary policy is impossible — the country cannot print money to respond to crises.
+Once official, there is no going back without a trauma equivalent to a regime change. The central bank issues no currency; the [money supply](/inflation/) is whatever dollars enter the country from trade, investment, or borrowing. Monetary policy is impossible — the country cannot print money to respond to crises.
 
 In exchange, the country gains credibility. Inflation stops (it cannot exceed US inflation plus currency depreciation, which is zero). Capital flows in because investors trust a dollar-backed economy. Trade is simple — no currency exchange needed with the US.
 
@@ -70,15 +70,15 @@ Unofficial dollarization is a symptom of monetary collapse, not a policy choice.
 Official dollarization offers stability and credibility but surrenders monetary policy. A dollarized country cannot:
 
 - Print money to stimulate the economy during a recession.
-- Use [interest-rate policy](/interest-rate) independently (rates follow US rates through interest-rate parity).
-- Conduct [currency devaluation](/fixed-exchange-rate) to adjust trade imbalances.
+- Use [interest-rate policy](/interest-rate/) independently (rates follow US rates through interest-rate parity).
+- Conduct [currency devaluation](/fixed-exchange-rate/) to adjust trade imbalances.
 - Manage shocks that hit the country but not the US (a local financial crisis, a specific-industry shock).
 
 For a small, open economy dependent on trade with the US, these losses might be worth the stability. For a larger, more diversified economy, the loss of autonomy is likely unacceptable.
 
 ## Alternatives to dollarization
 
-Instead of official dollarization, many countries use [hard pegs](/hard-peg) or [currency boards](/currency-board). These provide credibility (if believed) without formally surrendering the currency. But hard pegs can break; dollarization cannot (short of declaring a new currency, which is political and economic turmoil).
+Instead of official dollarization, many countries use [hard pegs](/hard-peg/) or [currency boards](/currency-board/). These provide credibility (if believed) without formally surrendering the currency. But hard pegs can break; dollarization cannot (short of declaring a new currency, which is political and economic turmoil).
 
 ## See also
 
@@ -86,18 +86,18 @@ Instead of official dollarization, many countries use [hard pegs](/hard-peg) or 
 
 ### Closely related
 
-- [Hard peg](/hard-peg) — alternative to dollarization
-- [Currency board](/currency-board) — institutional alternative
-- [Currency peg](/currency-peg) — broader pegging framework
-- [US Dollar](/us-dollar) — the target of dollarization
-- [Currency substitution](/inflation) — unofficial dollarization
+- [Hard peg](/hard-peg/) — alternative to dollarization
+- [Currency board](/currency-board/) — institutional alternative
+- [Currency peg](/currency-peg/) — broader pegging framework
+- [US Dollar](/us-dollar/) — the target of dollarization
+- [Currency substitution](/inflation/) — unofficial dollarization
 
 ### Wider context
 
-- [Central bank](/central-bank) — powerless in dollarized economies
-- [Monetary policy](/federal-reserve) — surrendered via dollarization
-- [Inflation](/inflation) — stopped by dollarization
+- [Central bank](/central-bank/) — powerless in dollarized economies
+- [Monetary policy](/federal-reserve/) — surrendered via dollarization
+- [Inflation](/inflation/) — stopped by dollarization
 - Currency crisis — leads to unofficial dollarization
-- [Seigniorage](/federal-reserve) — revenue lost in dollarization
+- [Seigniorage](/federal-reserve/) — revenue lost in dollarization
 
 </div>

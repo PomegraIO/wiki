@@ -10,11 +10,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **permissioned blockchain** is a [distributed ledger](/distributed-ledger) where participation is restricted — only approved nodes can validate transactions, submit data, or access the network. Access is controlled through identity management and authentication. Permissioned blockchains are typically used in enterprise and institutional settings.*
+*A **permissioned blockchain** is a [distributed ledger](/distributed-ledger/) where participation is restricted — only approved nodes can validate transactions, submit data, or access the network. Access is controlled through identity management and authentication. Permissioned blockchains are typically used in enterprise and institutional settings.*
 
 <div class="wiki-hatnote">
 
-This entry covers permissioned blockchains as a concept. For permissionless blockchains, see [public blockchain](/public-blockchain); for private blockchains generally, see [private blockchain](/private-blockchain).
+This entry covers permissioned blockchains as a concept. For permissionless blockchains, see [public blockchain](/public-blockchain/); for private blockchains generally, see [private blockchain](/private-blockchain/).
 
 </div>
 
@@ -43,13 +43,13 @@ This entry covers permissioned blockchains as a concept. For permissionless bloc
 
 Permissioned blockchains use identity management to control who participates. Each potential validator is vetted and issued cryptographic credentials. When a node attempts to join the network, it must authenticate using these credentials.
 
-This contrasts with permissionless blockchains like [Bitcoin](/bitcoin), where any computer can download the software and start validating. A permissioned blockchain's operators can revoke a node's access at any time.
+This contrasts with permissionless blockchains like [Bitcoin](/bitcoin/), where any computer can download the software and start validating. A permissioned blockchain's operators can revoke a node's access at any time.
 
 ## Validator selection
 
-In a permissionless blockchain, validators are selected through competition ([proof-of-work](/proof-of-work)) or randomisation ([proof-of-stake](/proof-of-stake)). In a permissioned blockchain, validators are typically selected by the operators or through a formal process (e.g., a voting mechanism among consortium members).
+In a permissionless blockchain, validators are selected through competition ([proof-of-work](/proof-of-work/)) or randomisation ([proof-of-stake](/proof-of-stake/)). In a permissioned blockchain, validators are typically selected by the operators or through a formal process (e.g., a voting mechanism among consortium members).
 
-This means fewer validators validate the network. A permissioned blockchain might have 10–100 validators; a permissionless blockchain like [Ethereum](/ethereum) has thousands. Fewer validators means faster consensus but greater centralisation.
+This means fewer validators validate the network. A permissioned blockchain might have 10–100 validators; a permissionless blockchain like [Ethereum](/ethereum/) has thousands. Fewer validators means faster consensus but greater centralisation.
 
 ## Consensus mechanisms in permissioned systems
 
@@ -59,13 +59,13 @@ Permissioned blockchains often use consensus mechanisms optimised for speed rath
 - **Raft** — a simpler consensus for systems where Byzantine faults are not a concern (because validators are trusted).
 - **Voting-based mechanisms** — validators simply vote on the state, and majority wins.
 
-These are faster than [proof-of-work](/proof-of-work) but require strong assumptions about validator honesty and synchronisation.
+These are faster than [proof-of-work](/proof-of-work/) but require strong assumptions about validator honesty and synchronisation.
 
 ## Transaction visibility and privacy
 
 Permissioned blockchains often provide fine-grained privacy controls. In a supply-chain network, one transaction might involve only suppliers A and B; suppliers C and D should not see it. Smart privacy mechanisms allow this while still preventing double-spending.
 
-This is harder on [public blockchains](/public-blockchain), where all transactions are broadcast to all nodes.
+This is harder on [public blockchains](/public-blockchain/), where all transactions are broadcast to all nodes.
 
 ## Immutability and reversibility
 
@@ -77,7 +77,7 @@ In some enterprise use cases, this is a feature — if a transaction is made in 
 
 Governance of permissioned blockchains is usually hierarchical, not democratic. The operators (or a consortium of operators) decide on protocol upgrades, rule changes, and network parameters.
 
-This is faster than democratic governance on [public blockchains](/public-blockchain) but requires trusting the operators.
+This is faster than democratic governance on [public blockchains](/public-blockchain/) but requires trusting the operators.
 
 ## Examples and platforms
 
@@ -85,7 +85,7 @@ This is faster than democratic governance on [public blockchains](/public-blockc
 
 **R3 Corda** — designed for financial institutions. Each Corda network is a separate universe; interoperability between networks is limited.
 
-**Quorum** — a permissioned variant of [Ethereum](/ethereum). It retains EVM compatibility but adds access controls and privacy mechanisms.
+**Quorum** — a permissioned variant of [Ethereum](/ethereum/). It retains EVM compatibility but adds access controls and privacy mechanisms.
 
 **Hedera** — a permissioned network with asynchronous Byzantine Fault Tolerance (aBFT) consensus.
 
@@ -114,15 +114,15 @@ Permissioned blockchains trade decentralisation and censorship resistance for co
 
 ### Closely related
 
-- [Public blockchain](/public-blockchain) — permissionless and decentralised
-- [Private blockchain](/private-blockchain) — restricted participation
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Validator](/validator) — who validates permissioned blockchains
+- [Public blockchain](/public-blockchain/) — permissionless and decentralised
+- [Private blockchain](/private-blockchain/) — restricted participation
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Validator](/validator/) — who validates permissioned blockchains
 
 ### Wider context
 
-- [Proof-of-work](/proof-of-work) — consensus for permissionless blockchains
-- [Proof-of-stake](/proof-of-stake) — alternative consensus mechanism
-- [Distributed ledger](/distributed-ledger) — the general concept
+- [Proof-of-work](/proof-of-work/) — consensus for permissionless blockchains
+- [Proof-of-stake](/proof-of-stake/) — alternative consensus mechanism
+- [Distributed ledger](/distributed-ledger/) — the general concept
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*U-6 unemployment is the broadest official measure of labor market slack. It includes everyone counted in the [U-3 unemployment](/u3-unemployment) rate, plus discouraged workers who have given up looking, marginally attached workers who want a job but are not actively searching, and involuntary part-time workers who want full-time employment.*
+*U-6 unemployment is the broadest official measure of labor market slack. It includes everyone counted in the [U-3 unemployment](/u3-unemployment/) rate, plus discouraged workers who have given up looking, marginally attached workers who want a job but are not actively searching, and involuntary part-time workers who want full-time employment.*
 
 <div class="wiki-hatnote">
 
-U-6 = [U-3](/u3-unemployment) + discouraged workers + marginally attached + involuntary part-time. It is typically 2–3 percentage points higher than U-3 and falls in tight labor markets, widening in slack ones.
+U-6 = [U-3](/u3-unemployment/) + discouraged workers + marginally attached + involuntary part-time. It is typically 2–3 percentage points higher than U-3 and falls in tight labor markets, widening in slack ones.
 
 </div>
 
@@ -43,7 +43,7 @@ U-6 = [U-3](/u3-unemployment) + discouraged workers + marginally attached + invo
 
 U-6 stacks four groups:
 
-1. **[U-3 unemployed](/u3-unemployment)** — no job, actively searched in past 4 weeks, available.
+1. **[U-3 unemployed](/u3-unemployment/)** — no job, actively searched in past 4 weeks, available.
 2. **Discouraged workers** — want work but have given up searching. Typically 0.3–0.5% of the labor force, higher in recessions.
 3. **Marginally attached workers** — want work, looked in past 12 months but not in past 4 weeks. Not searching now due to school, health, or discouragement. Typically 0.5–1.0%.
 4. **Involuntary part-time workers** — working part-time, want full-time work, cannot find it. Often the largest subgroup.
@@ -72,7 +72,7 @@ The Great Recession was far worse than U-3 alone suggests. Many workers were und
 
 ## The involuntary part-time component
 
-A large part of the U-6/U-3 gap is involuntary part-time workers. These are people working part-time for economic reasons — they could not find full-time work. The number varies with the [business cycle](/business-cycle):
+A large part of the U-6/U-3 gap is involuntary part-time workers. These are people working part-time for economic reasons — they could not find full-time work. The number varies with the [business cycle](/business-cycle/):
 
 - **Tight labor markets:** Few involuntary part-time workers; U-6/U-3 gap narrows.
 - **Slack labor markets:** Many involuntary part-time workers; U-6/U-3 gap widens.
@@ -81,7 +81,7 @@ During COVID lockdowns, some workers were forced to part-time status; as demand 
 
 ## Discouraged workers
 
-These are people who have looked for work in the past 12 months but not in the past 4 weeks. They are not counted in [U-3](/u3-unemployment) but are counted in U-6. The number fluctuates:
+These are people who have looked for work in the past 12 months but not in the past 4 weeks. They are not counted in [U-3](/u3-unemployment/) but are counted in U-6. The number fluctuates:
 
 - **Booms:** Near zero; everyone who wants a job can find one.
 - **Slack labor markets:** 0.5–1.5% of the labor force.
@@ -91,9 +91,9 @@ The challenge: how do you count someone who does not show up in official job sea
 
 ## U-6 and inflation
 
-Some economists argue U-6 is a better predictor of wage inflation and [price inflation](/inflation) than U-3. The logic: involuntary part-time workers are underutilized labor slack. As this slack shrinks, firms must raise wages to attract workers, driving inflation.
+Some economists argue U-6 is a better predictor of wage inflation and [price inflation](/inflation/) than U-3. The logic: involuntary part-time workers are underutilized labor slack. As this slack shrinks, firms must raise wages to attract workers, driving inflation.
 
-The [Federal Reserve](/federal-reserve) has historically focused on U-3, but recent work suggests paying more attention to U-6 — particularly the involuntary part-time component — would have better predicted inflation in the 2020s.
+The [Federal Reserve](/federal-reserve/) has historically focused on U-3, but recent work suggests paying more attention to U-6 — particularly the involuntary part-time component — would have better predicted inflation in the 2020s.
 
 ## Criticism of U-6
 
@@ -109,17 +109,17 @@ Despite being broader than U-3, U-6 still has limitations:
 
 ### Closely related
 
-- [U-3 unemployment](/u3-unemployment) — the official headline rate
-- [Unemployment rate](/unemployment-rate) — the broader concept
-- [Labor force participation rate](/labor-force-participation-rate) — denominator
-- [Employment-population ratio](/employment-population-ratio) — alternative metric
+- [U-3 unemployment](/u3-unemployment/) — the official headline rate
+- [Unemployment rate](/unemployment-rate/) — the broader concept
+- [Labor force participation rate](/labor-force-participation-rate/) — denominator
+- [Employment-population ratio](/employment-population-ratio/) — alternative metric
 - Underemployment — the main difference from U-3
 
 ### Broader context
 
-- [Business cycle](/business-cycle) — U-6 is strongly procyclical
-- [Recession](/recession) — U-6 spikes in severe downturns
-- [Inflation](/inflation) — U-6 may be better predictor than U-3
+- [Business cycle](/business-cycle/) — U-6 is strongly procyclical
+- [Recession](/recession/) — U-6 spikes in severe downturns
+- [Inflation](/inflation/) — U-6 may be better predictor than U-3
 - Phillips curve — labor slack and inflation
 - Wage growth — related to U-6 level
 

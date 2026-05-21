@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers capital efficiency across all investors. For equity-only returns, see [return-on-equity](/return-on-equity). For asset-only returns, see [return-on-assets](/return-on-assets).
+This entry covers capital efficiency across all investors. For equity-only returns, see [return-on-equity](/return-on-equity/). For asset-only returns, see [return-on-assets](/return-on-assets/).
 
 </div>
 
@@ -120,8 +120,8 @@ A company with 15% ROIC and 8% WACC is a great compounder. One with 8% ROIC and 
 
 ### Closely related
 
-- [Return on equity](/return-on-equity) — equity-only return
-- [Return on assets](/return-on-assets) — asset-based return
+- [Return on equity](/return-on-equity/) — equity-only return
+- [Return on assets](/return-on-assets/) — asset-based return
 - Cost of capital — the benchmark
 - Weighted average cost of capital — all investors
 - Economic profit — value created above cost of capital

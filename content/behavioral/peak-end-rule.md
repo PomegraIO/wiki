@@ -32,7 +32,7 @@ Related to recency bias and selective memory. Discovered by Kahneman and colleag
 | **Discovered by** | Kahneman, Fredrickson, et al. |
 | **Operates on** | Memory of investment experiences, regret, satisfaction |
 | **Investor impact** | Regret over how portfolio ends; fixation on peaks and lows |
-| **Related phenomenon** | [Recency bias](/recency-bias), [hindsight bias](/hindsight-bias) |
+| **Related phenomenon** | [Recency bias](/recency-bias/), [hindsight bias](/hindsight-bias/) |
 | **Severity** | Powerful; overrides actual average experience |
 
 </aside>
@@ -50,7 +50,7 @@ This demonstrates peak-end rule: the overall experience is judged by the peak mo
 
 ## Peak-end rule in investing
 
-**Regret about bear markets.** An investor holds stocks through a [bull market](/bull-market) (peak returns are high and positive), but then experiences a [bear market](/bear-market) (end is negative). She judges the entire experience by the recent bear market, even if the overall 10-year return is still positive.
+**Regret about bear markets.** An investor holds stocks through a [bull market](/bull-market/) (peak returns are high and positive), but then experiences a [bear market](/bear-market/) (end is negative). She judges the entire experience by the recent bear market, even if the overall 10-year return is still positive.
 
 Example: Portfolio returns are +15% (year 1), +20% (year 2, the peak), +10% (average), ..., -10% (year 10, the end). She judges the experience as bad because the end is negative, even though the average is +10% and the total return is positive.
 
@@ -72,7 +72,7 @@ Peak-end rule can bias future decisions. If an investment experience ended badly
 
 ## Distinguishing peak-end from recency bias
 
-[Recency bias](/recency-bias) is the tendency to overweight recent data in your forecast. Peak-end rule is the tendency to remember and evaluate past experiences by their peak and end, not their average.
+[Recency bias](/recency-bias/) is the tendency to overweight recent data in your forecast. Peak-end rule is the tendency to remember and evaluate past experiences by their peak and end, not their average.
 
 They are related but distinct. Recency bias affects future judgment; peak-end rule affects memory of past experience.
 
@@ -82,7 +82,7 @@ They are related but distinct. Recency bias affects future judgment; peak-end ru
 - **Separate the experience from the memory.** Your memory of a portfolio (dominated by peak and end) is not the same as the actual experience (which is the average). Acknowledge this gap.
 - **Use longer time horizons.** Over longer periods, peak and end matter less. A 30-year portfolio's peak and end are less dominating than a 3-year portfolio's.
 - **Reframe the end positively if possible.** If a portfolio ends down but you plan to continue investing, reframe: "The end is down, but that means I am buying at lower prices." This changes the emotional meaning of the end.
-- **Use rules rather than memory.** A mechanical [rebalancing](/asset-allocation) rule or a pre-set [asset allocation](/asset-allocation) does not rely on memory of peaks and ends. It operates regardless of how the recent experience felt.
+- **Use rules rather than memory.** A mechanical [rebalancing](/asset-allocation/) rule or a pre-set [asset allocation](/asset-allocation/) does not rely on memory of peaks and ends. It operates regardless of how the recent experience felt.
 
 ## See also
 
@@ -90,18 +90,18 @@ They are related but distinct. Recency bias affects future judgment; peak-end ru
 
 ### Closely related
 
-- [Recency bias](/recency-bias) — overweighting recent performance
-- [Hindsight bias](/hindsight-bias) — distorted memory of past events
-- [Availability heuristic](/availability-heuristic) — vivid peaks are available
-- [Regret aversion](/regret-aversion) — regret over how portfolio ended
-- [Anchoring bias](/anchoring-bias) — anchoring to peak or end moments
+- [Recency bias](/recency-bias/) — overweighting recent performance
+- [Hindsight bias](/hindsight-bias/) — distorted memory of past events
+- [Availability heuristic](/availability-heuristic/) — vivid peaks are available
+- [Regret aversion](/regret-aversion/) — regret over how portfolio ended
+- [Anchoring bias](/anchoring-bias/) — anchoring to peak or end moments
 
 ### Wider context
 
 - Behavioral portfolio theory — how memory shapes portfolio choices
-- [Loss aversion](/loss-aversion) — loss at the end is overweighted
-- [Disposition effect](/disposition-effect) — selling due to recent losses (end effect)
-- [Narrative fallacy](/narrative-fallacy) — stories emphasize peaks and ends
-- [Prospect theory](/prospect-theory) — reference dependence and ending state
+- [Loss aversion](/loss-aversion/) — loss at the end is overweighted
+- [Disposition effect](/disposition-effect/) — selling due to recent losses (end effect)
+- [Narrative fallacy](/narrative-fallacy/) — stories emphasize peaks and ends
+- [Prospect theory](/prospect-theory/) — reference dependence and ending state
 
 </div>

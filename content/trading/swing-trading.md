@@ -1,6 +1,6 @@
 ---
 title: "Swing trading"
-description: "Swing trading is a style where a trader holds positions for multiple days to weeks, aiming to profit on price swings or temporary reversals. Swing traders use technical analysis and often employ [trailing stops](/trailing-stop-order) to manage risk."
+description: "Swing trading is a style where a trader holds positions for multiple days to weeks, aiming to profit on price swings or temporary reversals. Swing traders use technical analysis and often employ [trailing stops](/trailing-stop-order/) to manage risk."
 keywords:
   - swing trading
   - intraday trading
@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*Swing trading is a trading style where positions are held for multiple days to a few weeks (anywhere from 2 days to 4 weeks), aiming to profit from price swings or temporary reversals within a longer trend. Swing traders use technical analysis, support and resistance levels, and often employ [limit orders](/limit-order) and [trailing stops](/trailing-stop-order) to manage positions. It sits between [day trading](/day-order) (hours to minutes) and longer-term [position trading](/position-trading) (months to years).*
+*Swing trading is a trading style where positions are held for multiple days to a few weeks (anywhere from 2 days to 4 weeks), aiming to profit from price swings or temporary reversals within a longer trend. Swing traders use technical analysis, support and resistance levels, and often employ [limit orders](/limit-order/) and [trailing stops](/trailing-stop-order/) to manage positions. It sits between [day trading](/day-order/) (hours to minutes) and longer-term [position trading](/position-trading/) (months to years).*
 
 <div class="wiki-hatnote">
 
-For very short-term trading, see [scalping](/scalping) and [day trading](/day-order). For long-term investing, see [position trading](/position-trading) and [index fund](/index-fund).
+For very short-term trading, see [scalping](/scalping/) and [day trading](/day-order/). For long-term investing, see [position trading](/position-trading/) and [index fund](/index-fund/).
 
 </div>
 
@@ -94,13 +94,13 @@ The swing trader held for only 2 days, captured a $11 move, and is now looking f
 
 ## Order types for swing traders
 
-**Limit orders:** Swing traders often use [limit orders](/limit-order) to enter at support or exit at resistance, rather than [market orders](/market-order). This allows them to set and forget.
+**Limit orders:** Swing traders often use [limit orders](/limit-order/) to enter at support or exit at resistance, rather than [market orders](/market-order/). This allows them to set and forget.
 
-**Trailing stops:** [Trailing stop orders](/trailing-stop-order) are popular with swing traders to lock in gains as the price rises while protecting against reversals.
+**Trailing stops:** [Trailing stop orders](/trailing-stop-order/) are popular with swing traders to lock in gains as the price rises while protecting against reversals.
 
-**GTC orders:** [Good-til-canceled](/gtc-order) orders allow swing traders to place orders today and let them sit for days, waiting for price targets.
+**GTC orders:** [Good-til-canceled](/gtc-order/) orders allow swing traders to place orders today and let them sit for days, waiting for price targets.
 
-**Brackets:** [Bracket orders](/bracket-order) combine entry with profit target and stop-loss, automating the entire trade.
+**Brackets:** [Bracket orders](/bracket-order/) combine entry with profit target and stop-loss, automating the entire trade.
 
 ## Capital requirements
 
@@ -147,10 +147,10 @@ For comparison, long-term capital gains (held >1 year) are taxed at 15–20%, mu
 
 ### Trading styles and timescales
 
-- [Scalping](/scalping) — very short-term (seconds–minutes)
-- [Day trading](/day-order) — same-day round-trips
-- [Position trading](/position-trading) — longer-term (months–years)
-- [Trend trading](/trend-following) — follow long-term trends
+- [Scalping](/scalping/) — very short-term (seconds–minutes)
+- [Day trading](/day-order/) — same-day round-trips
+- [Position trading](/position-trading/) — longer-term (months–years)
+- [Trend trading](/trend-following/) — follow long-term trends
 
 ### Technical analysis and strategy
 
@@ -161,14 +161,14 @@ For comparison, long-term capital gains (held >1 year) are taxed at 15–20%, mu
 
 ### Order types
 
-- [Limit order](/limit-order) — patient entry
-- [Trailing stop order](/trailing-stop-order) — letting winners run
-- [Bracket order](/bracket-order) — automated entry and exits
-- [GTC order](/gtc-order) — sit for days waiting for price
+- [Limit order](/limit-order/) — patient entry
+- [Trailing stop order](/trailing-stop-order/) — letting winners run
+- [Bracket order](/bracket-order/) — automated entry and exits
+- [GTC order](/gtc-order/) — sit for days waiting for price
 
 ### Risk and regulation
 
-- [Pattern day trader](/pattern-day-trader) — can trigger if not careful
+- [Pattern day trader](/pattern-day-trader/) — can trigger if not careful
 - Stop-loss — essential for risk management
 - Position sizing — 1–2% per trade
 - Reward-to-risk — aim for 1:2

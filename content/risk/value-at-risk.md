@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers VaR measurement and use. For the average loss in tail events beyond VaR, see [expected-shortfall](/expected-shortfall); for risks VaR misses, see [tail-risk](/tail-risk) and [model-risk](/model-risk).
+This entry covers VaR measurement and use. For the average loss in tail events beyond VaR, see [expected-shortfall](/expected-shortfall/); for risks VaR misses, see [tail-risk](/tail-risk/) and [model-risk](/model-risk/).
 
 </div>
 
@@ -53,7 +53,7 @@ This is useful: the manager knows that on a typical bad day, the loss is at most
 Assume returns follow a normal distribution with a mean and standard deviation. Calculate the percentile of the distribution corresponding to the confidence level. A portfolio with daily returns averaging 0.05% and standard deviation of 1% has a 1-day 95% VaR of roughly 1.65 standard deviations below the mean = 1.65%. For a $100M portfolio, this is $1.65M.
 
 Advantage: Fast, simple.
-Disadvantage: Assumes normal distribution; underestimates risk if returns have [fat tails](/fat-tail-risk).
+Disadvantage: Assumes normal distribution; underestimates risk if returns have [fat tails](/fat-tail-risk/).
 
 **Historical VaR:**
 Use historical returns directly. For 1-day 99% VaR, take the worst 1% of past daily returns and use that as the VaR. If the worst 1% of days over the past 5 years (1,000 trading days) had losses of $2.5M or worse, the 1-day 99% VaR is $2.5M.
@@ -84,11 +84,11 @@ VaR fails:
 
 ## The limitations are well-known
 
-The 2008 financial crisis showed that VaR was systematically too low. Banks held what they thought were safe portfolios with calculated VaRs of 2-3%, but actual losses in September-October 2008 exceeded VaR by 5-10x. This prompted regulators to supplement VaR with [expected-shortfall](/expected-shortfall) and [stress-testing](/stress-testing).
+The 2008 financial crisis showed that VaR was systematically too low. Banks held what they thought were safe portfolios with calculated VaRs of 2-3%, but actual losses in September-October 2008 exceeded VaR by 5-10x. This prompted regulators to supplement VaR with [expected-shortfall](/expected-shortfall/) and [stress-testing](/stress-testing/).
 
-## Beyond VaR: [Expected-Shortfall](/expected-shortfall)
+## Beyond VaR: [Expected-Shortfall](/expected-shortfall/)
 
-Recognizing VaR's shortcomings, regulators now require banks to also calculate [expected-shortfall](/expected-shortfall) (ES), also called conditional VaR or CVaR. ES measures the *average* loss in the tail — the average loss on the worst 1% of days. This directly addresses VaR's main weakness: not measuring the size of tail losses.
+Recognizing VaR's shortcomings, regulators now require banks to also calculate [expected-shortfall](/expected-shortfall/) (ES), also called conditional VaR or CVaR. ES measures the *average* loss in the tail — the average loss on the worst 1% of days. This directly addresses VaR's main weakness: not measuring the size of tail losses.
 
 ## See also
 
@@ -96,24 +96,24 @@ Recognizing VaR's shortcomings, regulators now require banks to also calculate [
 
 ### Closely related
 
-- [Expected-shortfall](/expected-shortfall) — average loss in the tail
-- [Conditional-value-at-risk](/conditional-value-at-risk) — synonym for expected-shortfall
-- [Stress-testing](/stress-testing) — assesses losses under extreme scenarios
-- [Scenario-analysis](/scenario-analysis) — structured assessment of specific outcomes
-- [Tail-risk](/tail-risk) — risk of extreme losses beyond VaR
+- [Expected-shortfall](/expected-shortfall/) — average loss in the tail
+- [Conditional-value-at-risk](/conditional-value-at-risk/) — synonym for expected-shortfall
+- [Stress-testing](/stress-testing/) — assesses losses under extreme scenarios
+- [Scenario-analysis](/scenario-analysis/) — structured assessment of specific outcomes
+- [Tail-risk](/tail-risk/) — risk of extreme losses beyond VaR
 
 ### Methodological variants
 
-- [Parametric-var](/parametric-var) — using normal distribution
-- [Historical-var](/historical-var) — using historical returns
-- [Monte-carlo-var](/monte-carlo-var) — simulation-based
+- [Parametric-var](/parametric-var/) — using normal distribution
+- [Historical-var](/historical-var/) — using historical returns
+- [Monte-carlo-var](/monte-carlo-var/) — simulation-based
 
 ### Broader context
 
-- [Model-risk](/model-risk) — VaR estimates depend on model assumptions
-- [Basel capital](/basel-capital) — regulations use VaR and ES
-- [Risk management](/value-at-risk) — VaR is foundational to modern risk management
-- [Fat-tail-risk](/fat-tail-risk) — VaR underestimates due to fat tails
-- [2008 financial crisis](/credit-risk) — exposed VaR limitations
+- [Model-risk](/model-risk/) — VaR estimates depend on model assumptions
+- [Basel capital](/basel-capital/) — regulations use VaR and ES
+- [Risk management](/value-at-risk/) — VaR is foundational to modern risk management
+- [Fat-tail-risk](/fat-tail-risk/) — VaR underestimates due to fat tails
+- [2008 financial crisis](/credit-risk/) — exposed VaR limitations
 
 </div>

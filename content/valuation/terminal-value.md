@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*In any [discounted cash flow](/discounted-cash-flow-valuation) model, you cannot forecast cash flows forever. So you forecast explicitly for 5–10 years, then collapse all remaining cash flows into a single number: the **terminal value**. This number is almost always 60–80% of total enterprise value, which means it dominates the valuation and deserves exceptional scrutiny.*
+*In any [discounted cash flow](/discounted-cash-flow-valuation/) model, you cannot forecast cash flows forever. So you forecast explicitly for 5–10 years, then collapse all remaining cash flows into a single number: the **terminal value**. This number is almost always 60–80% of total enterprise value, which means it dominates the valuation and deserves exceptional scrutiny.*
 
 ## Why terminal value exists
 
@@ -22,7 +22,7 @@ Terminal value is calculated as of the end of your explicit forecast period (yea
 
 ## Two dominant approaches
 
-**Perpetuity growth method.** Assume the company grows cash flows at a constant rate forever, starting in year N plus one. Calculate as: year-N plus one free cash flow times (1 plus perpetual growth rate), divided by (discount rate minus perpetual growth rate). This is the [Gordon growth model](/gordon-growth-model). It is theoretically sound but sensitive to the perpetual growth assumption. The formula breaks if growth rate exceeds discount rate.
+**Perpetuity growth method.** Assume the company grows cash flows at a constant rate forever, starting in year N plus one. Calculate as: year-N plus one free cash flow times (1 plus perpetual growth rate), divided by (discount rate minus perpetual growth rate). This is the [Gordon growth model](/gordon-growth-model/). It is theoretically sound but sensitive to the perpetual growth assumption. The formula breaks if growth rate exceeds discount rate.
 
 **Exit multiple method.** Forecast year-N EBITDA or free cash flow, multiply by an assumed exit multiple, and use that as terminal value. Example: if EBITDA in year 10 is 100 million and you assume a 12x exit multiple, terminal value is 1.2 billion dollars. Then discount to today. This approach feels more concrete (multiples are observable in the market) but buries the growth assumption inside the multiple.
 
@@ -48,9 +48,9 @@ The exit multiple must be reconciled with the perpetual growth assumption using 
 
 ## The terminal value sensitivity trap
 
-Most [two-stage](/two-stage-dcf) and [three-stage DCF](/three-stage-dcf) models have enormous terminal value sensitivity. Build a spreadsheet. Plug in your central case: perpetual growth of 3%, discount rate of 10%, year-10 FCFF of 100 million. Terminal value is about 1.4 billion. Now raise growth to 4%. Terminal value becomes 2.0 billion—a 40% jump.
+Most [two-stage](/two-stage-dcf/) and [three-stage DCF](/three-stage-dcf/) models have enormous terminal value sensitivity. Build a spreadsheet. Plug in your central case: perpetual growth of 3%, discount rate of 10%, year-10 FCFF of 100 million. Terminal value is about 1.4 billion. Now raise growth to 4%. Terminal value becomes 2.0 billion—a 40% jump.
 
-This is why sensitivity tables and [football field valuations](/football-field-valuation) are essential. A DCF that claims to be worth $50 per share but has 80% of value in terminal perpetuity is saying: "I am confident the company will compound at 3% forever," which is a much bolder statement than it appears.
+This is why sensitivity tables and [football field valuations](/football-field-valuation/) are essential. A DCF that claims to be worth $50 per share but has 80% of value in terminal perpetuity is saying: "I am confident the company will compound at 3% forever," which is a much bolder statement than it appears.
 
 Professional practice often addresses this by:
 
@@ -76,24 +76,24 @@ Professional practice often addresses this by:
 
 ### Closely related
 
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the most common approach
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — the alternative approach
-- [Gordon growth model](/gordon-growth-model) — the perpetuity formula
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent model
-- [Two-stage DCF](/two-stage-dcf) — explicit forecast plus terminal
-- [Three-stage DCF](/three-stage-dcf) — transition then terminal
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the most common approach
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — the alternative approach
+- [Gordon growth model](/gordon-growth-model/) — the perpetuity formula
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent model
+- [Two-stage DCF](/two-stage-dcf/) — explicit forecast plus terminal
+- [Three-stage DCF](/three-stage-dcf/) — transition then terminal
 
 ### Analysis and testing
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — terminal value sensitivity
-- [Football field valuation](/football-field-valuation) — ranges of outcomes
-- [Scenario valuation](/scenario-valuation) — discrete cases
-- [Reverse DCF](/reverse-dcf) — backing out implied assumptions
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — terminal value sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges of outcomes
+- [Scenario valuation](/scenario-valuation/) — discrete cases
+- [Reverse DCF](/reverse-dcf/) — backing out implied assumptions
 
 ### Inputs
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Cost of equity](/cost-of-equity) — component of WACC
-- [Market risk premium](/market-risk-premium) — inputs to cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Cost of equity](/cost-of-equity/) — component of WACC
+- [Market risk premium](/market-risk-premium/) — inputs to cost of equity
 
 </div>

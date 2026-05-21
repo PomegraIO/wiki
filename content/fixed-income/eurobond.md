@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For domestic bonds, see [corporate bond](/corporate-bond) and [municipal bond](/municipal-bond). For international institutions, see [central bank](/central-bank). For sovereign debt, see [Treasury bond](/treasury-bond).
+For domestic bonds, see [corporate bond](/corporate-bond/) and [municipal bond](/municipal-bond/). For international institutions, see [central bank](/central-bank/). For sovereign debt, see [Treasury bond](/treasury-bond/).
 
 </div>
 
@@ -68,7 +68,7 @@ Some investors hedge currency risk by selling USD forward while buying the bond,
 
 **Zero-coupon eurobonds** — No periodic coupon; discount to par.
 
-**Convertible eurobonds** — Can be converted to [stock](/stock) of the issuer, similar to [convertible bonds](/convertible-bond).
+**Convertible eurobonds** — Can be converted to [stock](/stock/) of the issuer, similar to [convertible bonds](/convertible-bond/).
 
 **Bonds with warrants** — Come with attached warrants (options) to buy the issuer's stock or currency.
 
@@ -86,7 +86,7 @@ Some investors hedge currency risk by selling USD forward while buying the bond,
 
 Eurobonds typically trade at a spread above Treasury securities or the equivalent domestic government bonds. A AAA-rated corporation's USD eurobond might yield 2.5% when the 5-year U.S. Treasury is at 2%, a 50-basis-point spread.
 
-The spread reflects [credit risk](/credit-rating) (the issuer's ability to repay), currency risk (if investors want compensation for FX exposure), and [liquidity](/stock-exchange) risk (eurobonds trade less actively than domestic bonds). Weaker issuers face wider spreads.
+The spread reflects [credit risk](/credit-rating/) (the issuer's ability to repay), currency risk (if investors want compensation for FX exposure), and [liquidity](/stock-exchange/) risk (eurobonds trade less actively than domestic bonds). Weaker issuers face wider spreads.
 
 During crisis periods, eurobond spreads widen dramatically. Emerging-market eurobonds are particularly sensitive to risk-off environments, when investors flee to safety and demand compensation for country risk.
 
@@ -102,18 +102,18 @@ This light-touch approach has made the eurobond market highly efficient and attr
 
 ### Closely related
 
-- [Corporate bond](/corporate-bond) — domestic straight bonds
-- [Convertible bond](/convertible-bond) — convertible eurobonds
-- [Credit rating](/credit-rating) — affects eurobond pricing
-- [Interest rate](/interest-rate) — affects eurobond prices
-- [International finance](/stock-exchange) — eurobonds facilitate cross-border capital flows
+- [Corporate bond](/corporate-bond/) — domestic straight bonds
+- [Convertible bond](/convertible-bond/) — convertible eurobonds
+- [Credit rating](/credit-rating/) — affects eurobond pricing
+- [Interest rate](/interest-rate/) — affects eurobond prices
+- [International finance](/stock-exchange/) — eurobonds facilitate cross-border capital flows
 
 ### Wider context
 
-- [Central bank](/central-bank) — monetary policy affects eurobond yields
-- [Recession](/recession) — widens emerging-market eurobond spreads
-- [Inflation](/inflation) — erodes real returns on fixed-coupon eurobonds
-- [Diversification](/diversification) — eurobonds diversify bond portfolios
-- [Hedge fund](/hedge-fund) — active eurobond traders
+- [Central bank](/central-bank/) — monetary policy affects eurobond yields
+- [Recession](/recession/) — widens emerging-market eurobond spreads
+- [Inflation](/inflation/) — erodes real returns on fixed-coupon eurobonds
+- [Diversification](/diversification/) — eurobonds diversify bond portfolios
+- [Hedge fund](/hedge-fund/) — active eurobond traders
 
 </div>

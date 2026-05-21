@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Japan Exchange Group** (JPX) is Japan's primary exchange operator, overseeing the [Tokyo Stock Exchange](/tokyo-stock-exchange), the Osaka Exchange, and associated derivatives and clearing venues. JPX lists Japanese corporations across manufacturing, finance, technology, and utilities, and serves as the principal venue through which international investors access Japanese equities and derivatives.*
+*The **Japan Exchange Group** (JPX) is Japan's primary exchange operator, overseeing the [Tokyo Stock Exchange](/tokyo-stock-exchange/), the Osaka Exchange, and associated derivatives and clearing venues. JPX lists Japanese corporations across manufacturing, finance, technology, and utilities, and serves as the principal venue through which international investors access Japanese equities and derivatives.*
 
 <div class="wiki-hatnote">
 
@@ -54,15 +54,15 @@ The exchange operates the Nikkei 225 index (30 largest companies — though the 
 
 ## Conservative and stable market
 
-Japanese equities are often characterized as conservative and dividend-focused, compared to the growth-oriented character of [Nasdaq](/nasdaq) or emerging market exchanges. Japanese companies emphasize stable, long-term profitability over rapid growth, making them attractive to [value investors](/value-investing) and those seeking [dividend](/dividend) income.
+Japanese equities are often characterized as conservative and dividend-focused, compared to the growth-oriented character of [Nasdaq](/nasdaq/) or emerging market exchanges. Japanese companies emphasize stable, long-term profitability over rapid growth, making them attractive to [value investors](/value-investing/) and those seeking [dividend](/dividend/) income.
 
 ## Derivatives and futures
 
-JPX operates the Osaka Exchange and the Japan Exchange Regulation (JER) derivatives venues, trading futures and options on equity indices, interest rates, commodities, and currencies. These markets serve institutional investors, [hedg funds](/hedge-fund), and corporations managing Japanese financial exposure.
+JPX operates the Osaka Exchange and the Japan Exchange Regulation (JER) derivatives venues, trading futures and options on equity indices, interest rates, commodities, and currencies. These markets serve institutional investors, [hedg funds](/hedge-fund/), and corporations managing Japanese financial exposure.
 
 ## Integration and technology
 
-JPX operates as a vertically integrated exchange group with associated clearing and settlement operations. The consolidation has allowed JPX to modernize technology infrastructure and compete more effectively with global rivals like [CME Group](/cme-group) and [Eurex](/eurex).
+JPX operates as a vertically integrated exchange group with associated clearing and settlement operations. The consolidation has allowed JPX to modernize technology infrastructure and compete more effectively with global rivals like [CME Group](/cme-group/) and [Eurex](/eurex/).
 
 ## Regional positioning and time zone
 
@@ -82,19 +82,19 @@ Japanese investors — households, insurance companies, pension funds — hold s
 
 ### Closely related
 
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — primary equity venue
-- [Stock exchange](/stock-exchange) — the category
-- [Nasdaq](/nasdaq) — comparable exchange
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — primary equity venue
+- [Stock exchange](/stock-exchange/) — the category
+- [Nasdaq](/nasdaq/) — comparable exchange
 - Derivatives — futures operations
-- [Stock market](/stock-market) — global equities
+- [Stock market](/stock-market/) — global equities
 
 ### Wider context
 
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — major participants
-- [Hedge fund](/hedge-fund) — traders
-- [Central bank](/central-bank) — Bank of Japan
-- [Asset allocation](/asset-allocation) — Japanese positioning
-- [Dividend](/dividend) — Japanese focus
+- [Hedge fund](/hedge-fund/) — traders
+- [Central bank](/central-bank/) — Bank of Japan
+- [Asset allocation](/asset-allocation/) — Japanese positioning
+- [Dividend](/dividend/) — Japanese focus
 
 </div>

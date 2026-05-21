@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fiscal.svg"
 ---
 
-*An **entitlement spending** program provides payments to individuals who meet legal eligibility requirements. The government is obligated by law to pay eligible recipients; spending is thus [mandatory](/mandatory-spending), growing with eligible population size and benefit formulas rather than Congressional appropriations.*
+*An **entitlement spending** program provides payments to individuals who meet legal eligibility requirements. The government is obligated by law to pay eligible recipients; spending is thus [mandatory](/mandatory-spending/), growing with eligible population size and benefit formulas rather than Congressional appropriations.*
 
 <div class="wiki-hatnote">
 
-This entry covers eligibility-based payments. For mandatory spending broadly, see [mandatory spending](/mandatory-spending); for cash assistance specifically, see [transfer payment](/transfer-payment); for automatic cost growth, see [automatic stabilizer](/automatic-stabilizer).
+This entry covers eligibility-based payments. For mandatory spending broadly, see [mandatory spending](/mandatory-spending/); for cash assistance specifically, see [transfer payment](/transfer-payment/); for automatic cost growth, see [automatic stabilizer](/automatic-stabilizer/).
 
 </div>
 
@@ -32,10 +32,10 @@ This entry covers eligibility-based payments. For mandatory spending broadly, se
 | **Major programs** | Social Security, Medicare, Medicaid |
 | **Other examples** | Veterans benefits, federal pensions, unemployment |
 | **Percent of federal budget** | ~55–60% |
-| **Percent of [mandatory spending](/mandatory-spending)** | ~90% |
+| **Percent of [mandatory spending](/mandatory-spending/)** | ~90% |
 | **Growth drivers** | Demographic aging, healthcare costs, benefit formulas |
 | **Can be changed** | Only through new legislation |
-| **Fiscal sustainability concern** | Largest driver of long-term [deficits](/budget-deficit) |
+| **Fiscal sustainability concern** | Largest driver of long-term [deficits](/budget-deficit/) |
 
 </aside>
 
@@ -53,7 +53,7 @@ Once someone meets eligibility criteria, the government is legally obligated to 
 - Average benefit per recipient
 - Cost-of-living adjustments (often automatic)
 
-Entitlement spending is thus [mandatory](/mandatory-spending) — it requires no annual Congressional appropriation.
+Entitlement spending is thus [mandatory](/mandatory-spending/) — it requires no annual Congressional appropriation.
 
 ## Major entitlement programs
 
@@ -83,7 +83,7 @@ These trends are largely beyond Congressional control. Even with no policy chang
 
 ## Entitlements and fiscal sustainability
 
-Entitlement spending growth is the primary driver of long-term [budget deficits](/budget-deficit). The Congressional Budget Office projects that absent policy changes, entitlements will consume an increasing share of federal revenue, crowding out [discretionary spending](/discretionary-spending) and requiring larger [deficits](/budget-deficit) or higher taxes.
+Entitlement spending growth is the primary driver of long-term [budget deficits](/budget-deficit/). The Congressional Budget Office projects that absent policy changes, entitlements will consume an increasing share of federal revenue, crowding out [discretionary spending](/discretionary-spending/) and requiring larger [deficits](/budget-deficit/) or higher taxes.
 
 To address long-term fiscal challenges, policymakers must address entitlements:
 
@@ -96,13 +96,13 @@ All these options are politically difficult, making entitlement reform a recurri
 
 ## Entitlements as automatic stabilizers
 
-During [recessions](/recession), some entitlements expand automatically:
+During [recessions](/recession/), some entitlements expand automatically:
 
 - Unemployment insurance rolls increase as people lose jobs.
 - Medicaid enrollment expands (more people qualify).
 - Social Security and other fixed-benefit programs continue unchanged.
 
-These automatic increases provide economic stimulus during downturns, cushioning the fall in demand. They are part of the [automatic stabilizer](/automatic-stabilizer) system.
+These automatic increases provide economic stimulus during downturns, cushioning the fall in demand. They are part of the [automatic stabilizer](/automatic-stabilizer/) system.
 
 ## See also
 
@@ -110,23 +110,23 @@ These automatic increases provide economic stimulus during downturns, cushioning
 
 ### Closely related
 
-- [Mandatory spending](/mandatory-spending) — entitlements are the largest category
-- [Transfer payment](/transfer-payment) — cash payments like unemployment insurance
-- [Automatic stabilizer](/automatic-stabilizer) — how entitlements cushion [recessions](/recession)
-- [Budget deficit](/budget-deficit) — entitlement growth drives deficits
+- [Mandatory spending](/mandatory-spending/) — entitlements are the largest category
+- [Transfer payment](/transfer-payment/) — cash payments like unemployment insurance
+- [Automatic stabilizer](/automatic-stabilizer/) — how entitlements cushion [recessions](/recession/)
+- [Budget deficit](/budget-deficit/) — entitlement growth drives deficits
 
 ### Specific programs
 
 - Payroll tax — finances Social Security and Medicare
 - Income tax marginal — would need to rise to fund entitlements
-- [National debt](/national-debt) — grows due to entitlement-driven deficits
-- [Debt-to-GDP ratio](/debt-to-gdp-ratio) — entitlements worsen long-term sustainability
+- [National debt](/national-debt/) — grows due to entitlement-driven deficits
+- [Debt-to-GDP ratio](/debt-to-gdp-ratio/) — entitlements worsen long-term sustainability
 
 ### Fiscal policy
 
-- [Fiscal consolidation](/fiscal-consolidation) — requires entitlement reform
-- [Austerity](/austerity) — difficult without addressing entitlements
-- [Fiscal policy contractionary](/fiscal-policy-contractionary) — can reduce entitlements
-- [Primary balance](/primary-balance) — entitlements worsen the primary deficit
+- [Fiscal consolidation](/fiscal-consolidation/) — requires entitlement reform
+- [Austerity](/austerity/) — difficult without addressing entitlements
+- [Fiscal policy contractionary](/fiscal-policy-contractionary/) — can reduce entitlements
+- [Primary balance](/primary-balance/) — entitlements worsen the primary deficit
 
 </div>

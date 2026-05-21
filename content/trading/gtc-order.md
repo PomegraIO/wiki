@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For orders that expire at day's end, see [day order](/day-order). For orders that expire on a specific date, see [GTD order](/gtd-order).
+For orders that expire at day's end, see [day order](/day-order/). For orders that expire on a specific date, see [GTD order](/gtd-order/).
 
 </div>
 
@@ -38,7 +38,7 @@ For orders that expire at day's end, see [day order](/day-order). For orders tha
 
 ## How GTC orders work
 
-When you place a [limit order](/limit-order) and specify GTC, the order will sit in the order book across multiple days until:
+When you place a [limit order](/limit-order/) and specify GTC, the order will sit in the order book across multiple days until:
 
 1. **It fills.** The price is reached and your order matches a counterparty. You are done.
 2. **You cancel it.** You log in to your broker and manually cancel the order.
@@ -82,7 +82,7 @@ If you get tired of waiting, you can cancel it any day.
 
 ## GTC orders and corporate actions
 
-If a company pays a [dividend](/dividend) or executes a [stock split](/stock-split), your GTC order does not automatically adjust. For example:
+If a company pays a [dividend](/dividend/) or executes a [stock split](/stock-split/), your GTC order does not automatically adjust. For example:
 - You place a GTC buy limit at $50.
 - The company does a 2-for-1 stock split; price falls to $25, but share count doubles.
 - Your order is still set to buy at $50 for the original share count, which is now obsolete.
@@ -95,7 +95,7 @@ You typically need to cancel and resubmit orders after corporate actions.
 
 **Set calendar reminders.** If you expect an order to take weeks to fill, set a reminder to check in at the broker's expiration date. This prevents surprise expirations.
 
-**Use GTD instead.** If you want a GTC-like order but with a known expiration date, use a [GTD order](/gtd-order) set to expire on a date you choose.
+**Use GTD instead.** If you want a GTC-like order but with a known expiration date, use a [GTD order](/gtd-order/) set to expire on a date you choose.
 
 **Review before earnings or major events.** If you have a GTC order active and earnings are coming, review it. The trade thesis might change.
 
@@ -113,21 +113,21 @@ Always verify your broker's GTC expiration policy to avoid surprises.
 
 ### Time-in-force variants
 
-- [Day order](/day-order) — expires at market close
-- [GTD order](/gtd-order) — expires on a specific date you choose
-- [IOC order](/immediate-or-cancel) — expires instantly if not filled
-- [Fill-or-kill](/fill-or-kill) — must fill now or die
+- [Day order](/day-order/) — expires at market close
+- [GTD order](/gtd-order/) — expires on a specific date you choose
+- [IOC order](/immediate-or-cancel/) — expires instantly if not filled
+- [Fill-or-kill](/fill-or-kill/) — must fill now or die
 
 ### Order types
 
-- [Limit order](/limit-order) — often submitted as a GTC order
-- [Stop order](/stop-order) — can be day, GTC, or GTD
-- [Trailing stop order](/trailing-stop-order) — dynamic stop, often GTC
+- [Limit order](/limit-order/) — often submitted as a GTC order
+- [Stop order](/stop-order/) — can be day, GTC, or GTD
+- [Trailing stop order](/trailing-stop-order/) — dynamic stop, often GTC
 
 ### Trading strategies
 
-- [Swing trading](/swing-trading) — common user of GTC orders
-- [Dollar-cost averaging](/dollar-cost-averaging) — multiple GTC orders at different levels
+- [Swing trading](/swing-trading/) — common user of GTC orders
+- [Dollar-cost averaging](/dollar-cost-averaging/) — multiple GTC orders at different levels
 - Patience investing — letting the market come to you
 
 ### Broker operations

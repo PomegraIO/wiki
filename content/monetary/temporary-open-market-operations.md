@@ -14,7 +14,7 @@ image: "/svg/monetary.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers short-term repos. For outright purchases with no repurchase agreement, see [permanent-open-market-operations](/permanent-open-market-operations). For a deeper look at how repo works, see [standing-repo-facility](/standing-repo-facility) and [reverse-repo-facility](/reverse-repo-facility).
+This entry covers short-term repos. For outright purchases with no repurchase agreement, see [permanent-open-market-operations](/permanent-open-market-operations/). For a deeper look at how repo works, see [standing-repo-facility](/standing-repo-facility/) and [reverse-repo-facility](/reverse-repo-facility/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers short-term repos. For outright purchases with no repurchase ag
 
 A temporary open-market operation is straightforward on the surface. The central bank calls a dealer and says, "I'll buy $10 billion in Treasury securities from you today, and you agree to buy them back tomorrow at a slightly higher price." The difference between today's price and tomorrow's agreed price is, in effect, the interest rate on an overnight loan.
 
-The dealer benefits: it gains access to cash (or central-bank reserves) without giving up ownership of the securities. The securities remain on its balance sheet; it simply pledges them as collateral for the cash. The central bank benefits: it injects money into the system temporarily, supporting the overnight [interest rate](/interest-rate), and takes back the money plus interest when the repo matures.
+The dealer benefits: it gains access to cash (or central-bank reserves) without giving up ownership of the securities. The securities remain on its balance sheet; it simply pledges them as collateral for the cash. The central bank benefits: it injects money into the system temporarily, supporting the overnight [interest rate](/interest-rate/), and takes back the money plus interest when the repo matures.
 
 The key distinction is automaticity. The operation reverses on its own, at the agreed time. The central bank need not actively decide to drain the money; the contract simply expires and cash flows back.
 
@@ -62,13 +62,13 @@ The key advantage of repos in a crisis is speed and flexibility. The central ban
 
 ## Temporary operations versus permanent purchases
 
-The choice between temporary and permanent operations reflects the central bank's diagnosis of the problem. If money is tight for a day or a week, the central bank conducts a temporary repo. If money is tight for months or years—as during a deep recession—the central bank conducts large permanent purchases of [bonds](/bond), which is [quantitative easing](/quantitative-easing).
+The choice between temporary and permanent operations reflects the central bank's diagnosis of the problem. If money is tight for a day or a week, the central bank conducts a temporary repo. If money is tight for months or years—as during a deep recession—the central bank conducts large permanent purchases of [bonds](/bond/), which is [quantitative easing](/quantitative-easing/).
 
-A central bank tightening policy will do the opposite: conduct large [reverse repos](/reverse-repo-facility), draining cash temporarily, or allow [permanent-open-market-operations](/permanent-open-market-operations) holdings to mature and runoff without reinvestment.
+A central bank tightening policy will do the opposite: conduct large [reverse repos](/reverse-repo-facility/), draining cash temporarily, or allow [permanent-open-market-operations](/permanent-open-market-operations/) holdings to mature and runoff without reinvestment.
 
 ## The repo market and financial stability
 
-The repo market is one of the financial system's least visible but most critical arteries. Trillions of dollars in repo transactions happen every day, allowing [banks](/broker) and dealers to finance their securities holdings and allowing the central bank to fine-tune liquidity. When the repo market breaks—when rates spike, or dealers refuse to lend against certain collateral—the entire financial system is at risk.
+The repo market is one of the financial system's least visible but most critical arteries. Trillions of dollars in repo transactions happen every day, allowing [banks](/broker/) and dealers to finance their securities holdings and allowing the central bank to fine-tune liquidity. When the repo market breaks—when rates spike, or dealers refuse to lend against certain collateral—the entire financial system is at risk.
 
 That is why central banks watch repo rates obsessively and stand ready to flood the market with temporary liquidity the instant rates move out of line. It is the first line of defense against a liquidity crisis.
 
@@ -78,18 +78,18 @@ That is why central banks watch repo rates obsessively and stand ready to flood 
 
 ### Closely related
 
-- [Open-market operations](/open-market-operations) — the broader category
-- [Permanent open-market operations](/permanent-open-market-operations) — the opposite approach
-- [Standing repo facility](/standing-repo-facility) — standing offers of overnight repo
-- [Reverse repo facility](/reverse-repo-facility) — draining liquidity via repo
-- [Interest on reserves](/interest-on-reserves) — another liquidity tool
+- [Open-market operations](/open-market-operations/) — the broader category
+- [Permanent open-market operations](/permanent-open-market-operations/) — the opposite approach
+- [Standing repo facility](/standing-repo-facility/) — standing offers of overnight repo
+- [Reverse repo facility](/reverse-repo-facility/) — draining liquidity via repo
+- [Interest on reserves](/interest-on-reserves/) — another liquidity tool
 
 ### Wider context
 
-- [Monetary policy](/monetary-policy) — the central bank's strategy
-- [Central bank](/central-bank) — the institution conducting operations
-- [Interest rate](/interest-rate) — what temporary operations influence
-- [Federal funds rate target](/federal-funds-rate-target) — the typical target
-- [Money supply](/m1) — what temporary operations temporarily change
+- [Monetary policy](/monetary-policy/) — the central bank's strategy
+- [Central bank](/central-bank/) — the institution conducting operations
+- [Interest rate](/interest-rate/) — what temporary operations influence
+- [Federal funds rate target](/federal-funds-rate-target/) — the typical target
+- [Money supply](/m1/) — what temporary operations temporarily change
 
 </div>

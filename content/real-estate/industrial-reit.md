@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on industrial REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For context on supply-chain economics, see [stock market](/stock-market).
+This entry focuses on industrial REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For context on supply-chain economics, see [stock market](/stock-market/).
 
 </div>
 
@@ -105,21 +105,21 @@ Despite strong secular growth, industrial REITs face cyclical and structural ris
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Core real estate](/core-real-estate) — defensive, stable industrial properties
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Core real estate](/core-real-estate/) — defensive, stable industrial properties
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — industrial property valuation
-- [Net operating income](/net-operating-income) — warehouse rental revenue
-- [Gross rent multiplier](/gross-rent-multiplier) — quick valuation shortcut
+- [Cap rate](/cap-rate/) — industrial property valuation
+- [Net operating income](/net-operating-income/) — warehouse rental revenue
+- [Gross rent multiplier](/gross-rent-multiplier/) — quick valuation shortcut
 
 ### Context
 
-- [Dividend](/dividend) — income stream from industrial REITs
-- [Inflation](/inflation) — industrial rents are inflation-sensitive
-- [Asset allocation](/asset-allocation) — how to weight industrial REITs in a portfolio
-- [Diversification](/diversification) — why owning multiple industrial properties reduces risk
+- [Dividend](/dividend/) — income stream from industrial REITs
+- [Inflation](/inflation/) — industrial rents are inflation-sensitive
+- [Asset allocation](/asset-allocation/) — how to weight industrial REITs in a portfolio
+- [Diversification](/diversification/) — why owning multiple industrial properties reduces risk
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Capital adequacy is the requirement and practice that financial institutions — primarily banks — maintain a minimum level of capital sufficient to absorb potential losses from [market-risk](/market-risk), [credit-risk](/credit-risk), and [operational-risk](/operational-risk), and to remain solvent even under severe stress. It is the foundation of financial regulation.*
+*Capital adequacy is the requirement and practice that financial institutions — primarily banks — maintain a minimum level of capital sufficient to absorb potential losses from [market-risk](/market-risk/), [credit-risk](/credit-risk/), and [operational-risk](/operational-risk/), and to remain solvent even under severe stress. It is the foundation of financial regulation.*
 
 <div class="wiki-hatnote">
 
-This entry covers the capital adequacy concept. For the international regulatory framework, see [basel-capital](/basel-capital); for specific capital ratios, see [tier-1-capital](/tier-1-capital) and [tier-2-capital](/tier-2-capital).
+This entry covers the capital adequacy concept. For the international regulatory framework, see [basel-capital](/basel-capital/); for specific capital ratios, see [tier-1-capital](/tier-1-capital/) and [tier-2-capital](/tier-2-capital/).
 
 </div>
 
@@ -33,14 +33,14 @@ This entry covers the capital adequacy concept. For the international regulatory
 | **Regulated by** | Central banks and financial regulators in each country |
 | **International standard** | Basel Accords (Basel I, II, III) |
 | **Key metric** | Capital-to-assets ratio; minimum 8-10% for banks |
-| **Capital components** | [Tier-1-capital](/tier-1-capital) (highest quality); [Tier-2-capital](/tier-2-capital) (supplementary) |
-| **Stress impact** | Bank must maintain capital even under [stress-testing](/stress-testing) scenarios |
+| **Capital components** | [Tier-1-capital](/tier-1-capital/) (highest quality); [Tier-2-capital](/tier-2-capital/) (supplementary) |
+| **Stress impact** | Bank must maintain capital even under [stress-testing](/stress-testing/) scenarios |
 
 </aside>
 
 ## Why capital adequacy matters
 
-A bank borrows deposits from millions of customers (and other sources) and lends that money. If loan losses exceed the bank's capital, the bank cannot repay deposits. Depositors panic, a run occurs, and the bank fails. If the bank is large or interconnected, failure can trigger [systemic-risk](/systemic-risk).
+A bank borrows deposits from millions of customers (and other sources) and lends that money. If loan losses exceed the bank's capital, the bank cannot repay deposits. Depositors panic, a run occurs, and the bank fails. If the bank is large or interconnected, failure can trigger [systemic-risk](/systemic-risk/).
 
 Capital adequacy rules require the bank to keep a buffer — capital — to absorb potential losses. If loans default or investments fall in value, losses hit capital first, before depositor funds are jeopardized.
 
@@ -56,11 +56,11 @@ Capital ratio = Capital / Total Assets
 
 A 10% ratio means $10 of capital for every $100 of assets.
 
-But not all assets are equally risky. A Treasury [bond](/bond) is safer than a subprime mortgage. Regulators use **risk-weighted-assets** instead:
+But not all assets are equally risky. A Treasury [bond](/bond/) is safer than a subprime mortgage. Regulators use **risk-weighted-assets** instead:
 
 Capital ratio = Capital / Risk-weighted assets
 
-A Treasury [bond](/bond) might have a 0% risk weight (no capital required). A mortgage might have 35%. A corporate loan to a risky company might be 100%. The "weight" reflects the risk.
+A Treasury [bond](/bond/) might have a 0% risk weight (no capital required). A mortgage might have 35%. A corporate loan to a risky company might be 100%. The "weight" reflects the risk.
 
 Example:
 - $100B in assets, but only $80B risk-weighted (Treasuries have low risk weight).
@@ -68,7 +68,7 @@ Example:
 
 ## Minimum capital requirements
 
-[Basel III](/basel-capital) sets minimum capital ratios:
+[Basel III](/basel-capital/) sets minimum capital ratios:
 - **Common Equity Tier 1 (CET1):** 4.5% of risk-weighted assets.
 - **Total Tier 1 capital:** 6%.
 - **Total capital (Tier 1 + Tier 2):** 8%.
@@ -111,9 +111,9 @@ Capital adequacy is primarily a bank regulatory concept, but the principle appli
 
 ## Limitations
 
-Capital adequacy rules assume losses can be estimated via risk-weighted-assets models. But [model-risk](/model-risk) is real: models miss tail risks and [black swans](/black-swan). The 2008 crisis showed that actual losses far exceeded model predictions.
+Capital adequacy rules assume losses can be estimated via risk-weighted-assets models. But [model-risk](/model-risk/) is real: models miss tail risks and [black swans](/black-swan/). The 2008 crisis showed that actual losses far exceeded model predictions.
 
-Regulatory capital requirements are backward-looking, based on historical risk weights. During crises, correlations jump and actual losses exceed models. This is why regulators now supplement capital rules with [stress-testing](/stress-testing), [scenario-analysis](/scenario-analysis), and [reverse-stress-test](/reverse-stress-test).
+Regulatory capital requirements are backward-looking, based on historical risk weights. During crises, correlations jump and actual losses exceed models. This is why regulators now supplement capital rules with [stress-testing](/stress-testing/), [scenario-analysis](/scenario-analysis/), and [reverse-stress-test](/reverse-stress-test/).
 
 ## See also
 
@@ -121,26 +121,26 @@ Regulatory capital requirements are backward-looking, based on historical risk w
 
 ### Closely related
 
-- [Basel-capital](/basel-capital) — international framework for capital standards
-- [Tier-1-capital](/tier-1-capital) — highest quality capital
-- [Tier-2-capital](/tier-2-capital) — supplementary capital
+- [Basel-capital](/basel-capital/) — international framework for capital standards
+- [Tier-1-capital](/tier-1-capital/) — highest quality capital
+- [Tier-2-capital](/tier-2-capital/) — supplementary capital
 - Risk-weighted-assets — how regulatory capital is calculated
-- [Capital buffer](/capital-adequacy) — capital above regulatory minimum
+- [Capital buffer](/capital-adequacy/) — capital above regulatory minimum
 
 ### Regulatory context
 
-- [Stress-testing](/stress-testing) — ensures capital suffices under stress
-- [Scenario-analysis](/scenario-analysis) — assessed against capital levels
-- [Federal Reserve](/federal-reserve) — US regulator of capital standards
-- [Central bank](/central-bank) — oversees capital adequacy
-- [Systemic risk](/systemic-risk) — capital rules prevent systemic failures
+- [Stress-testing](/stress-testing/) — ensures capital suffices under stress
+- [Scenario-analysis](/scenario-analysis/) — assessed against capital levels
+- [Federal Reserve](/federal-reserve/) — US regulator of capital standards
+- [Central bank](/central-bank/) — oversees capital adequacy
+- [Systemic risk](/systemic-risk/) — capital rules prevent systemic failures
 
 ### Risk management
 
-- [Credit-risk](/credit-risk) — drives capital requirements
-- [Market-risk](/market-risk) — drives capital requirements
-- [Operational-risk](/operational-risk) — drives capital requirements
-- [Value-at-risk](/value-at-risk) — used to estimate capital needs
-- [2008 financial crisis](/credit-risk) — exposed capital adequacy failures
+- [Credit-risk](/credit-risk/) — drives capital requirements
+- [Market-risk](/market-risk/) — drives capital requirements
+- [Operational-risk](/operational-risk/) — drives capital requirements
+- [Value-at-risk](/value-at-risk/) — used to estimate capital needs
+- [2008 financial crisis](/credit-risk/) — exposed capital adequacy failures
 
 </div>

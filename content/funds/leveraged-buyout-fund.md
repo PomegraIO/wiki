@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **leveraged buyout (LBO) fund** is a [private equity fund](/private-equity-fund) that acquires companies using significant borrowed capital. An LBO fund might finance 70% of a purchase price with debt and 30% with equity, then restructure the company to improve profitability and service the debt. Returns are amplified by leverage if the company improves but devastated if it deteriorates.*
+*A **leveraged buyout (LBO) fund** is a [private equity fund](/private-equity-fund/) that acquires companies using significant borrowed capital. An LBO fund might finance 70% of a purchase price with debt and 30% with equity, then restructure the company to improve profitability and service the debt. Returns are amplified by leverage if the company improves but devastated if it deteriorates.*
 
 <div class="wiki-hatnote">
 
-This entry covers LBO strategy. For private equity broadly, see [private equity fund](/private-equity-fund); for the associated debt risk, see [distressed debt fund](/distressed-debt-fund).
+This entry covers LBO strategy. For private equity broadly, see [private equity fund](/private-equity-fund/); for the associated debt risk, see [distressed debt fund](/distressed-debt-fund/).
 
 </div>
 
@@ -95,7 +95,7 @@ Equity proceeds: $500M
 Equity return: 1.67x (11% annually)
 ```
 
-The smaller appreciation is still positive but does not cover the [management fee](/management-fee). If the company depreciates to $900 million:
+The smaller appreciation is still positive but does not cover the [management fee](/management-fee/). If the company depreciates to $900 million:
 
 ```
 Sale: $900M
@@ -169,18 +169,18 @@ LBOs are closed to retail investors and require:
 
 ### Closely related
 
-- [Private equity fund](/private-equity-fund) — the broader category
-- [Distressed debt fund](/distressed-debt-fund) — buys LBO debt at discounts
-- [Leverage](/option) — the amplification mechanism
-- [Management fee](/management-fee) · [Performance fee](/performance-fee) — LBO compensation
-- [Fund of funds](/fund-of-funds) — pools multiple LBO investments
+- [Private equity fund](/private-equity-fund/) — the broader category
+- [Distressed debt fund](/distressed-debt-fund/) — buys LBO debt at discounts
+- [Leverage](/option/) — the amplification mechanism
+- [Management fee](/management-fee/) · [Performance fee](/performance-fee/) — LBO compensation
+- [Fund of funds](/fund-of-funds/) — pools multiple LBO investments
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — impacts LBO debt service costs
-- [Recession](/recession) — primary LBO risk
-- [Hedge fund](/hedge-fund) — related alternative investment
-- [Capital gains](/stock) — how LBO investors profit
-- [Risk](/option) — leverage amplifies risk
+- [Interest rate](/interest-rate/) — impacts LBO debt service costs
+- [Recession](/recession/) — primary LBO risk
+- [Hedge fund](/hedge-fund/) — related alternative investment
+- [Capital gains](/stock/) — how LBO investors profit
+- [Risk](/option/) — leverage amplifies risk
 
 </div>

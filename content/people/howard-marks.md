@@ -87,10 +87,10 @@ His emphasis on understanding credit cycles has become standard practice among s
 
 ### Closely related
 
-- [David Tepper](/david-tepper) — A distressed specialist
-- [Seth Klarman](/seth-klarman) — A value and risk expert
-- [Jeremy Grantham](/jeremy-grantham) — A cycle analyst
-- [Ray Dalio](/ray-dalio) — A risk-management innovator
+- [David Tepper](/david-tepper/) — A distressed specialist
+- [Seth Klarman](/seth-klarman/) — A value and risk expert
+- [Jeremy Grantham](/jeremy-grantham/) — A cycle analyst
+- [Ray Dalio](/ray-dalio/) — A risk-management innovator
 
 ### Wider context
 
@@ -98,6 +98,6 @@ His emphasis on understanding credit cycles has become standard practice among s
 - Distressed debt — His specialty
 - Risk management — His obsession
 - Credit cycle — His framework
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 
 </div>

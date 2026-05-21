@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For adjustable-rate mortgages, see [adjustable-rate mortgage](/adjustable-rate-mortgage-personal); for general mortgage information, see [mortgage](/mortgage-personal).
+For adjustable-rate mortgages, see [adjustable-rate mortgage](/adjustable-rate-mortgage-personal/); for general mortgage information, see [mortgage](/mortgage-personal/).
 
 </div>
 
@@ -52,7 +52,7 @@ Example: you borrow $240,000 at 6% for 30 years. Your monthly payment (principal
 - No rate-increase risk.
 - Typically higher initial rate than ARM.
 
-**Adjustable-rate mortgage ([ARM](/adjustable-rate-mortgage-personal)):**
+**Adjustable-rate mortgage ([ARM](/adjustable-rate-mortgage-personal/)):**
 - Interest rate is fixed for a few years, then adjusts.
 - Monthly payment can increase significantly.
 - Rate-increase risk.
@@ -109,17 +109,17 @@ However, if you have lower-rate debt or investment opportunities (stock market r
 
 ### Closely related
 
-- [Mortgage](/mortgage-personal) — general mortgage structure
-- [Adjustable-rate mortgage](/adjustable-rate-mortgage-personal) — alternative with rate risk
+- [Mortgage](/mortgage-personal/) — general mortgage structure
+- [Adjustable-rate mortgage](/adjustable-rate-mortgage-personal/) — alternative with rate risk
 - Refinance — replacing existing mortgage
 - Fifteen-year mortgage · Thirty-year mortgage — specific terms
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — determines mortgage rate
-- [Homeowners insurance](/homeowners-insurance) — required alongside mortgage
-- [Budgeting methods](/budgeting-methods) — mortgage as primary budget item
-- [Emergency fund](/emergency-fund) — covers payment if income disrupted
-- [FIRE movement](/fire-movement) — paying off mortgage early enables early retirement
+- [Interest rate](/interest-rate/) — determines mortgage rate
+- [Homeowners insurance](/homeowners-insurance/) — required alongside mortgage
+- [Budgeting methods](/budgeting-methods/) — mortgage as primary budget item
+- [Emergency fund](/emergency-fund/) — covers payment if income disrupted
+- [FIRE movement](/fire-movement/) — paying off mortgage early enables early retirement
 
 </div>

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **mining pool** is a collective of [cryptocurrency miners](/mining-bitcoin) who combine their computational power to mine blocks more reliably. Rather than each miner independently solving puzzles and waiting months or years to find a block, pool members contribute shares of work and receive regular payouts proportional to their contribution.*
+*A **mining pool** is a collective of [cryptocurrency miners](/mining-bitcoin/) who combine their computational power to mine blocks more reliably. Rather than each miner independently solving puzzles and waiting months or years to find a block, pool members contribute shares of work and receive regular payouts proportional to their contribution.*
 
 <div class="wiki-hatnote">
 
-This entry covers mining pools as an organisational structure. For individual mining, see [mining Bitcoin](/mining-bitcoin); for mining hardware, see [ASIC mining](/asic-mining).
+This entry covers mining pools as an organisational structure. For individual mining, see [mining Bitcoin](/mining-bitcoin/); for mining hardware, see [ASIC mining](/asic-mining/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers mining pools as an organisational structure. For individual mi
 
 ## The problem pools solve
 
-A solo miner with a single [ASIC](/asic-mining) might generate 1 terahash per second (TH/s). The Bitcoin network has ~1 exahash per second (EH/s) of total hash power — roughly 1,000,000 solo miners.
+A solo miner with a single [ASIC](/asic-mining/) might generate 1 terahash per second (TH/s). The Bitcoin network has ~1 exahash per second (EH/s) of total hash power — roughly 1,000,000 solo miners.
 
 A solo miner would, on average, wait ~1,000,000 blocks (roughly 19 years) to find a block alone. This is impractical.
 
@@ -50,9 +50,9 @@ Mining pools solve this problem by aggregating miners. If 10,000 miners with 1 T
 
 ## How mining pools work
 
-1. **Miners connect to the pool.** A miner configures their [ASIC](/asic-mining) to connect to the pool's server, providing their address.
+1. **Miners connect to the pool.** A miner configures their [ASIC](/asic-mining/) to connect to the pool's server, providing their address.
 2. **Pool distributes work.** The pool sends each miner a **mining job** (a candidate block with a different target difficulty).
-3. **Miners submit shares.** When a miner finds a partial solution (called a "share"), they submit it to the pool, proving they did work. Not every share is a valid [Bitcoin](/bitcoin) block (the difficulty is lower), but every valid block is composed of many shares.
+3. **Miners submit shares.** When a miner finds a partial solution (called a "share"), they submit it to the pool, proving they did work. Not every share is a valid [Bitcoin](/bitcoin/) block (the difficulty is lower), but every valid block is composed of many shares.
 4. **Pool finds a block.** When one of the pool's miners finds a valid block, the pool announces it to the network.
 5. **Rewards distributed.** The pool collects the block reward and transaction fees, deducts its fee (usually 0.5–2%), and distributes the remainder to members proportional to their contributed work.
 
@@ -70,7 +70,7 @@ Pools use different systems for distributing rewards:
 
 ## Centralisation concerns
 
-Mining pools create centralisation pressure. If a single pool controls >50% of the network [hash rate](/hash-rate), it could (theoretically) perform a 51% attack and rewrite Bitcoin history.
+Mining pools create centralisation pressure. If a single pool controls >50% of the network [hash rate](/hash-rate/), it could (theoretically) perform a 51% attack and rewrite Bitcoin history.
 
 Historically:
 
@@ -113,17 +113,17 @@ Regulatory oversight of mining pools is limited. If a pool operator disappears w
 
 ### Closely related
 
-- [Mining Bitcoin](/mining-bitcoin) — the activity mining pools facilitate
-- [ASIC mining](/asic-mining) — hardware used in pools
-- [Hash rate](/hash-rate) — measure of pool power
-- [Block reward](/mining-bitcoin) — what pools distribute
-- [Variance reduction](/mining-bitcoin) — why pools exist
+- [Mining Bitcoin](/mining-bitcoin/) — the activity mining pools facilitate
+- [ASIC mining](/asic-mining/) — hardware used in pools
+- [Hash rate](/hash-rate/) — measure of pool power
+- [Block reward](/mining-bitcoin/) — what pools distribute
+- [Variance reduction](/mining-bitcoin/) — why pools exist
 
 ### Wider context
 
-- [Bitcoin](/bitcoin) — the network being mined
-- [Proof-of-work](/proof-of-work) — the mechanism
+- [Bitcoin](/bitcoin/) — the network being mined
+- [Proof-of-work](/proof-of-work/) — the mechanism
 - 51% attack — the centralisation risk
-- [Difficulty adjustment](/difficulty-adjustment) — responds to pool power
+- [Difficulty adjustment](/difficulty-adjustment/) — responds to pool power
 
 </div>

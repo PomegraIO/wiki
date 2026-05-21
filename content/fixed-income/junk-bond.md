@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-The term "junk bond" is synonymous with [high-yield bond](/high-yield-bond). For investment-grade alternatives, see [investment-grade bond](/investment-grade-bond). For related concepts, see [credit rating](/credit-rating).
+The term "junk bond" is synonymous with [high-yield bond](/high-yield-bond/). For investment-grade alternatives, see [investment-grade bond](/investment-grade-bond/). For related concepts, see [credit rating](/credit-rating/).
 
 </div>
 
@@ -50,7 +50,7 @@ From a lender perspective, junk bonds offer extraordinary yields — 8% or more 
 
 ## Structural characteristics
 
-Junk bonds often carry fewer protections than [investment-grade bonds](/investment-grade-bond). Common features:
+Junk bonds often carry fewer protections than [investment-grade bonds](/investment-grade-bond/). Common features:
 
 - **Weaker covenants** — Fewer restrictions on issuer behavior; more freedom to pay dividends, issue new debt, or sell assets.
 - **Unsecured** — Many junk bonds carry no collateral, making recovery in default very low.
@@ -74,19 +74,19 @@ When a junk bond issuer defaults, the outcome depends on the company's restructu
 
 Recovery depends on the seniority of the bond in the capital structure. Senior unsecured junk bonds recover more than subordinated bonds. Secured bonds (with collateral) recover more than unsecured. An investor in a subordinated junk bond might expect only 10–20% recovery if the company fails.
 
-These low recovery rates mean that junk bonds need very high yields to justify holding them. If 5% of junk bonds default annually and recovery is 30%, expected loss is 3.5% (5% × 70%), before adjusting for correlation and [liquidity](/stock-exchange) risks.
+These low recovery rates mean that junk bonds need very high yields to justify holding them. If 5% of junk bonds default annually and recovery is 30%, expected loss is 3.5% (5% × 70%), before adjusting for correlation and [liquidity](/stock-exchange/) risks.
 
 ## Who holds junk bonds
 
 Junk bonds are held by investors explicitly seeking high current yield and comfortable accepting default risk:
 
-- **[Hedge funds](/hedge-fund)** — Using credit analysis and market timing for return enhancement.
+- **[Hedge funds](/hedge-fund/)** — Using credit analysis and market timing for return enhancement.
 - **Distressed debt specialists** — Professional investors focused on opportunities in troubled situations.
-- **[Mutual funds](/mutual-fund) and [ETFs](/etf)** — Providing diversified exposure for retail investors.
+- **[Mutual funds](/mutual-fund/) and [ETFs](/etf/)** — Providing diversified exposure for retail investors.
 - **Insurance companies** — Using the yields to boost returns on large portfolios.
 - **Opportunistic pension funds** — When valuations are attractive.
 
-The largest holders are [mutual funds](/mutual-fund), [ETFs](/etf), and insurance companies. Retail investors typically access junk bonds through funds rather than individual bonds.
+The largest holders are [mutual funds](/mutual-fund/), [ETFs](/etf/), and insurance companies. Retail investors typically access junk bonds through funds rather than individual bonds.
 
 ## Comparison to other distressed assets
 
@@ -106,18 +106,18 @@ A typical distressed financing might involve a leveraged buyout with senior bank
 
 ### Closely related
 
-- [High-yield bond](/high-yield-bond) — the formal term for junk bonds
-- [Investment-grade bond](/investment-grade-bond) — the safer alternative
-- [Credit spread](/credit-spread) — why junk bonds yield so much more
-- [Credit rating](/credit-rating) — what defines junk-bond status
-- [Distressed debt](/high-yield-bond) — opportunities in troubled issuers
+- [High-yield bond](/high-yield-bond/) — the formal term for junk bonds
+- [Investment-grade bond](/investment-grade-bond/) — the safer alternative
+- [Credit spread](/credit-spread/) — why junk bonds yield so much more
+- [Credit rating](/credit-rating/) — what defines junk-bond status
+- [Distressed debt](/high-yield-bond/) — opportunities in troubled issuers
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — major junk bond investors
-- [Mutual fund](/mutual-fund) — vehicle for diversified junk-bond exposure
-- [Recession](/recession) — the stress test for junk bonds
-- [Default rate](/default-rate) — what determines junk-bond returns
-- [Central bank](/central-bank) — monetary policy affects market sentiment
+- [Hedge fund](/hedge-fund/) — major junk bond investors
+- [Mutual fund](/mutual-fund/) — vehicle for diversified junk-bond exposure
+- [Recession](/recession/) — the stress test for junk bonds
+- [Default rate](/default-rate/) — what determines junk-bond returns
+- [Central bank](/central-bank/) — monetary policy affects market sentiment
 
 </div>

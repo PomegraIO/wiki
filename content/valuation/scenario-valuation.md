@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **scenario valuation** avoids the false precision of a single intrinsic value by explicitly modeling 3–5 named scenarios (pessimistic, base, optimistic) with different assumptions and assigned probabilities. The result is a weighted expected value and, more importantly, transparency about the range of outcomes and the key drivers of that range. It is a practical, honest alternative to [DCF](/discounted-cash-flow-valuation) point estimates or [Monte Carlo](/monte-carlo-valuation) simulations.*
+*A **scenario valuation** avoids the false precision of a single intrinsic value by explicitly modeling 3–5 named scenarios (pessimistic, base, optimistic) with different assumptions and assigned probabilities. The result is a weighted expected value and, more importantly, transparency about the range of outcomes and the key drivers of that range. It is a practical, honest alternative to [DCF](/discounted-cash-flow-valuation/) point estimates or [Monte Carlo](/monte-carlo-valuation/) simulations.*
 
 ## The structure
 
@@ -122,16 +122,16 @@ It avoids the false precision of a single DCF while capturing complexity through
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — underlying method per scenario
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — underlying method per scenario
 - Expected value — probability-weighted outcome
 - Decision tree — structuring scenarios
 - Probability — assigning to scenarios
 
 ### Uncertainty and sensitivity
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which variables drive value
-- [Monte-Carlo valuation](/monte-carlo-valuation) — continuous uncertainty
-- [Football field valuation](/football-field-valuation) — visualizing ranges
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which variables drive value
+- [Monte-Carlo valuation](/monte-carlo-valuation/) — continuous uncertainty
+- [Football field valuation](/football-field-valuation/) — visualizing ranges
 
 ### Application areas
 

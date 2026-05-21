@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*An **all-or-none (AON) order** is an instruction that your entire position must fill, or none of it fills. Unlike a [limit order](/limit-order) that can partially fill, an AON order sits in the order book waiting for enough liquidity to appear at your price such that your entire size can trade at once. If the full size never appears, the order can sit for days.*
+*An **all-or-none (AON) order** is an instruction that your entire position must fill, or none of it fills. Unlike a [limit order](/limit-order/) that can partially fill, an AON order sits in the order book waiting for enough liquidity to appear at your price such that your entire size can trade at once. If the full size never appears, the order can sit for days.*
 
 <div class="wiki-hatnote">
 
-For immediate execution with partial fills, see [immediate-or-cancel](/immediate-or-cancel). For immediate all-or-nothing, see [fill-or-kill](/fill-or-kill).
+For immediate execution with partial fills, see [immediate-or-cancel](/immediate-or-cancel/). For immediate all-or-nothing, see [fill-or-kill](/fill-or-kill/).
 
 </div>
 
@@ -45,13 +45,13 @@ When you place an AON order, you are saying: "I want my entire size filled, and 
 - Over the next two hours, more buyers accumulate.
 - At 12:15 p.m., there are 50,000+ shares of buy interest at $100; your entire 50,000 sells at once.
 
-Or, if the accumulation never happens, your order sits until market close (if it is a [day order](/day-order)) or until you cancel it (if [GTC](/gtc-order)).
+Or, if the accumulation never happens, your order sits until market close (if it is a [day order](/day-order/)) or until you cancel it (if [GTC](/gtc-order/)).
 
 ## AON vs. immediate-or-cancel
 
 Both do not allow partial fills, but they differ on timing:
 
-| Feature | AON | [IOC](/immediate-or-cancel) |
+| Feature | AON | [IOC](/immediate-or-cancel/) |
 |---|---|---|
 | **Timing** | Patient; waits for full size | Immediate; no waiting |
 | **Outcome if full size unavailable** | Order sits in book | Order canceled (unfilled portion) |
@@ -63,7 +63,7 @@ AON is patience; IOC is urgency with partial-fill tolerance.
 
 Both require all-or-nothing, but differ on timing:
 
-| Feature | AON | [FOK](/fill-or-kill) |
+| Feature | AON | [FOK](/fill-or-kill/) |
 |---|---|---|
 | **Timing** | Patient; waits | Immediate; no waiting |
 | **Outcome if full size unavailable** | Order sits waiting | Entire order canceled |
@@ -85,7 +85,7 @@ AON is "I want all 50,000, and I will wait." FOK is "I want all 50,000 right now
 
 The cardinal risk of an AON order is **never filling**. If you are trying to sell 50,000 shares at $100, and the market only ever accumulates 30,000 shares of buy interest at that price (the rest wants to buy at $99.99), your AON order sits forever.
 
-If your AON is a [day order](/day-order), it expires at 4:00 PM and you have to resubmit. If it is [GTC](/gtc-order), it can sit for weeks or months, during which the trade thesis might change entirely.
+If your AON is a [day order](/day-order/), it expires at 4:00 PM and you have to resubmit. If it is [GTC](/gtc-order/), it can sit for weeks or months, during which the trade thesis might change entirely.
 
 ## AON orders and liquidity in thin markets
 
@@ -109,9 +109,9 @@ If your AON order is pending and the company pays a dividend, executes a stock s
 
 ## When NOT to use AON
 
-**When you are okay with partial fills.** If getting 80% of your order filled is acceptable, use a regular [limit order](/limit-order) or [IOC order](/immediate-or-cancel) instead.
+**When you are okay with partial fills.** If getting 80% of your order filled is acceptable, use a regular [limit order](/limit-order/) or [IOC order](/immediate-or-cancel/) instead.
 
-**When you need liquidity urgently.** If you need to exit now, use an [IOC order](/immediate-or-cancel) or [market order](/market-order), not an AON.
+**When you need liquidity urgently.** If you need to exit now, use an [IOC order](/immediate-or-cancel/) or [market order](/market-order/), not an AON.
 
 **In thin markets.** If the security trades low volumes, an AON order might never fill.
 
@@ -121,16 +121,16 @@ If your AON order is pending and the company pays a dividend, executes a stock s
 
 ### Closely related
 
-- [Immediate-or-cancel](/immediate-or-cancel) — all-or-nothing, immediate
-- [Fill-or-kill](/fill-or-kill) — all-or-nothing, immediate, or order dies
-- [Limit order](/limit-order) — standard order; allows partial fills
+- [Immediate-or-cancel](/immediate-or-cancel/) — all-or-nothing, immediate
+- [Fill-or-kill](/fill-or-kill/) — all-or-nothing, immediate, or order dies
+- [Limit order](/limit-order/) — standard order; allows partial fills
 - Block trading — large orders; AON common
 
 ### Time-in-force variants
 
-- [Day order](/day-order) — expires at market close
-- [GTC order](/gtc-order) — good-til-canceled
-- [GTD order](/gtd-order) — good-til-date
+- [Day order](/day-order/) — expires at market close
+- [GTC order](/gtc-order/) — good-til-canceled
+- [GTD order](/gtd-order/) — good-til-date
 
 ### Order book and execution
 
@@ -140,7 +140,7 @@ If your AON order is pending and the company pays a dividend, executes a stock s
 
 ### Trading context
 
-- [Dark pool](/dark-pool) — AON orders very common in dark pools
+- [Dark pool](/dark-pool/) — AON orders very common in dark pools
 - Block size — what qualifies as a large block
 
 </div>

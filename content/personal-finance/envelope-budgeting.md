@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the principle of allocating every dollar, see [zero-based budgeting](/zero-based-budgeting); for a simpler formula, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule).
+For the principle of allocating every dollar, see [zero-based budgeting](/zero-based-budgeting/); for a simpler formula, see [fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/).
 
 </div>
 
@@ -61,12 +61,12 @@ Envelope budgeting solves a common problem: people overspend in certain categori
 
 The method is especially useful for discretionary categories — entertainment, dining, hobbies — where spending tends to creep upward. It is less useful for variable expenses like utilities or groceries, which fluctuate and need flexibility.
 
-Envelope budgeting also works well if you struggle with [lifestyle creep](/lifestyle-creep). By capping each category, you prevent the gradual drift into higher spending that happens when you have unlimited access to a category.
+Envelope budgeting also works well if you struggle with [lifestyle creep](/lifestyle-creep/). By capping each category, you prevent the gradual drift into higher spending that happens when you have unlimited access to a category.
 
 ## Setting up envelopes
 
 1. **Identify categories.** Housing, utilities, groceries, transportation, entertainment, gifts, subscriptions, personal care, insurance, savings.
-2. **Set limits.** Based on historical spending or [budgeting methods](/budgeting-methods), assign a monthly amount to each.
+2. **Set limits.** Based on historical spending or [budgeting methods](/budgeting-methods/), assign a monthly amount to each.
 3. **Allocate on payday.** Move money to each envelope (physical, account, or app).
 4. **Track and adjust.** At month-end, review overage and underage. Cut categories that consistently overspend; reallocate freed-up money.
 
@@ -106,7 +106,7 @@ Once these amounts are set, the person commits to staying within each. If the en
 
 **Cash is inconvenient.** Physical envelopes work well, but drawing cash at an ATM, holding it, and managing receipts is more friction than modern digital payment.
 
-**Does not address income shortfalls.** If your income is less than your allocations, envelope budgeting cannot solve that; you need to [reduce expenses](/budgeting-methods) or increase income.
+**Does not address income shortfalls.** If your income is less than your allocations, envelope budgeting cannot solve that; you need to [reduce expenses](/budgeting-methods/) or increase income.
 
 ## Variations
 
@@ -122,15 +122,15 @@ Once these amounts are set, the person commits to staying within each. If the en
 
 ### Closely related
 
-- [Zero-based budgeting](/zero-based-budgeting) — allocating every dollar, with more flexibility
-- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule) — a simpler formula-based approach
-- [Budgeting methods](/budgeting-methods) — the broader context
-- [Sinking fund](/sinking-fund) — handling irregular expenses alongside envelope budgeting
+- [Zero-based budgeting](/zero-based-budgeting/) — allocating every dollar, with more flexibility
+- [Fifty-thirty-twenty rule](/fifty-thirty-twenty-rule/) — a simpler formula-based approach
+- [Budgeting methods](/budgeting-methods/) — the broader context
+- [Sinking fund](/sinking-fund/) — handling irregular expenses alongside envelope budgeting
 
 ### Wider context
 
-- [Lifestyle creep](/lifestyle-creep) — what envelope budgeting helps prevent
-- [Pay yourself first](/pay-yourself-first) — allocating to savings before spending
-- [Savings rate](/savings-rate) — the percentage of income saved
+- [Lifestyle creep](/lifestyle-creep/) — what envelope budgeting helps prevent
+- [Pay yourself first](/pay-yourself-first/) — allocating to savings before spending
+- [Savings rate](/savings-rate/) — the percentage of income saved
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **International Accounting Standards Board** (IASB) is the independent, not-for-profit organization that develops and maintains [IFRS](/international-financial-reporting-standards) — the accounting standards used by public companies in over 140 countries. The IASB is the global equivalent of the US [FASB](/fasb). It is funded by contributions from governments, companies, and regulators to ensure independence. The IASB works with national regulators, auditors, and companies to develop standards that facilitate international comparability of financial statements.*
+*The **International Accounting Standards Board** (IASB) is the independent, not-for-profit organization that develops and maintains [IFRS](/international-financial-reporting-standards/) — the accounting standards used by public companies in over 140 countries. The IASB is the global equivalent of the US [FASB](/fasb/). It is funded by contributions from governments, companies, and regulators to ensure independence. The IASB works with national regulators, auditors, and companies to develop standards that facilitate international comparability of financial statements.*
 
 <div class="wiki-hatnote">
 
-This entry covers the IASB's role. For the standards it develops, see [IFRS](/international-financial-reporting-standards). For the US equivalent, see [FASB](/fasb).
+This entry covers the IASB's role. For the standards it develops, see [IFRS](/international-financial-reporting-standards/). For the US equivalent, see [FASB](/fasb/).
 
 </div>
 
@@ -53,7 +53,7 @@ The IASB has 14 members, including the chair. Members are selected based on tech
 
 ## How standards are developed
 
-The IASB's process is similar to the [FASB](/fasb)'s:
+The IASB's process is similar to the [FASB](/fasb/)'s:
 
 1. **Research Phase** — the IASB identifies an issue and studies it.
 2. **Discussion Paper** — a preliminary exposure of options and reasoning.
@@ -71,14 +71,14 @@ The IASB has issued 18 core standards (IFRS 1–18) and numerous interpretations
 - **IFRS 16** — Leases (converged with ASC 842).
 - **IFRS 9** — Financial Instruments (similar to ASC 326 on credit losses).
 - **IFRS 3** — Business Combinations (similar to ASC 805).
-- **IAS 2** — Inventories (does not permit [LIFO](/lifo); requires [FIFO](/fifo) or weighted average).
-- **IAS 16** — Property, Plant, and Equipment (permits revaluation; [GAAP](/generally-accepted-accounting-principles) generally requires [historical cost](/historical-cost)).
+- **IAS 2** — Inventories (does not permit [LIFO](/lifo/); requires [FIFO](/fifo/) or weighted average).
+- **IAS 16** — Property, Plant, and Equipment (permits revaluation; [GAAP](/generally-accepted-accounting-principles/) generally requires [historical cost](/historical-cost/)).
 
 Each standard is principle-based, giving companies judgment in application based on economic substance.
 
 ## IFRS and convergence with GAAP
 
-For 15 years, the IASB and [FASB](/fasb) worked on convergence. Revenue (IFRS 15/ASC 606) and leases (IFRS 16/ASC 842) are now fully converged. Other areas remain distinct.
+For 15 years, the IASB and [FASB](/fasb/) worked on convergence. Revenue (IFRS 15/ASC 606) and leases (IFRS 16/ASC 842) are now fully converged. Other areas remain distinct.
 
 The SEC has not mandated IFRS for US public companies, despite past discussions. Instead, the SEC permits foreign companies to file using IFRS and permits some IFRS reconciliation in other filings. GAAP remains the US standard.
 
@@ -100,17 +100,17 @@ The IASB is the de facto global accounting standard-setter. As long as capital i
 
 ### Closely related
 
-- [IFRS](/international-financial-reporting-standards) — the standards IASB develops
-- [FASB](/fasb) — the US equivalent
+- [IFRS](/international-financial-reporting-standards/) — the standards IASB develops
+- [FASB](/fasb/) — the US equivalent
 - IFRS 15 — revenue standard
 - IFRS 16 — lease standard
-- [Audit opinion](/audit-opinion) — certifies IFRS compliance
+- [Audit opinion](/audit-opinion/) — certifies IFRS compliance
 
 ### Context
 
-- [Revenue recognition](/revenue-recognition) — IASB standard
-- [Fair value](/fair-value) — IASB guidance
-- [Segment reporting](/segment-reporting) — required by IASB standards
-- [Footnote disclosure](/footnote-disclosure) — required by IASB standards
+- [Revenue recognition](/revenue-recognition/) — IASB standard
+- [Fair value](/fair-value/) — IASB guidance
+- [Segment reporting](/segment-reporting/) — required by IASB standards
+- [Footnote disclosure](/footnote-disclosure/) — required by IASB standards
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*An **interest-rate swap** (IRS) is a [swap](/swap) contract where one party pays a fixed interest rate and receives a floating rate (typically [SOFR](/sofr-swap) or another index), while the counterparty does the opposite. No principal is exchanged; only interest rate differences are settled periodically. Interest-rate swaps are the most-traded derivatives globally, used by banks, corporations, and investors to manage [interest-rate](/interest-rate/) risk and match assets to liabilities.*
+*An **interest-rate swap** (IRS) is a [swap](/swap/) contract where one party pays a fixed interest rate and receives a floating rate (typically [SOFR](/sofr-swap/) or another index), while the counterparty does the opposite. No principal is exchanged; only interest rate differences are settled periodically. Interest-rate swaps are the most-traded derivatives globally, used by banks, corporations, and investors to manage [interest-rate](/interest-rate/) risk and match assets to liabilities.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: "/svg/derivatives.svg"
 
 ## How interest-rate swaps work
 
-A corporation borrows $50M at floating [SOFR](/sofr-swap) + 1% for 5 years. It wants to lock in a fixed cost. It enters a 5-year IRS with a bank:
+A corporation borrows $50M at floating [SOFR](/sofr-swap/) + 1% for 5 years. It wants to lock in a fixed cost. It enters a 5-year IRS with a bank:
 
 **On each quarter:**
 - Corporation pays bank: Fixed 4% on $50M = $500K
@@ -53,13 +53,13 @@ If SOFR is at 5%, the corporation's floating cost is 6%, but it pays 4% fixed vi
 
 **Fixed to floating:** A fixed-rate borrower—if it believes rates will fall—swaps to floating to benefit from the decline.
 
-**Liability-asset matching:** An investor with fixed-rate [bond](/bond)s but floating-rate liabilities swaps to align maturities and durations.
+**Liability-asset matching:** An investor with fixed-rate [bond](/bond/)s but floating-rate liabilities swaps to align maturities and durations.
 
 ## Swap pricing
 
-The fair fixed rate is determined by the [yield curve](/yield-curve). For a 5-year swap, the fixed rate is approximately the 5-year par swap rate—the rate at which the present value of fixed payments equals the present value of expected floating payments.
+The fair fixed rate is determined by the [yield curve](/yield-curve/). For a 5-year swap, the fixed rate is approximately the 5-year par swap rate—the rate at which the present value of fixed payments equals the present value of expected floating payments.
 
-As the [yield curve](/yield-curve) shifts, swap rates shift. A flattening curve typically lowers longer-dated swap rates.
+As the [yield curve](/yield-curve/) shifts, swap rates shift. A flattening curve typically lowers longer-dated swap rates.
 
 ## Marked-to-market values
 
@@ -76,7 +76,7 @@ The fixed-rate payer gains when rates rise; the floating-rate payer gains when r
 
 Swaps are bilateral contracts with counterparty risk. If the bank defaults after rates have moved significantly, you lose the present value of the remaining cash flows.
 
-Post-2008, standardized IRS are increasingly cleared through central counterparties (LCH Swapclear, CME, etc.), reducing bilateral risk and requiring [margin](/initial-margin).
+Post-2008, standardized IRS are increasingly cleared through central counterparties (LCH Swapclear, CME, etc.), reducing bilateral risk and requiring [margin](/initial-margin/).
 
 ## SOFR transition from LIBOR
 

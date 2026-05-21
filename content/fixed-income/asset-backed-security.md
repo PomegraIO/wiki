@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*An **asset-backed security** — or **ABS** — is a debt instrument secured by a pool of income-producing assets. These assets might be auto loans, credit card receivables, equipment leases, or other contractual cash flows. Unlike [mortgage-backed securities](/mortgage-backed-security), which are collateralized by real estate, ABS are backed by consumer or business loans that generate contractual payments.*
+*An **asset-backed security** — or **ABS** — is a debt instrument secured by a pool of income-producing assets. These assets might be auto loans, credit card receivables, equipment leases, or other contractual cash flows. Unlike [mortgage-backed securities](/mortgage-backed-security/), which are collateralized by real estate, ABS are backed by consumer or business loans that generate contractual payments.*
 
 <div class="wiki-hatnote">
 
-For mortgage-backed securitization, see [mortgage-backed security](/mortgage-backed-security). For pooled loans more broadly, see [collateralized debt obligation](/collateralized-debt-obligation). For commercial real estate, see [commercial mortgage-backed security](/commercial-mortgage-backed-security).
+For mortgage-backed securitization, see [mortgage-backed security](/mortgage-backed-security/). For pooled loans more broadly, see [collateralized debt obligation](/collateralized-debt-obligation/). For commercial real estate, see [commercial mortgage-backed security](/commercial-mortgage-backed-security/).
 
 </div>
 
@@ -34,7 +34,7 @@ For mortgage-backed securitization, see [mortgage-backed security](/mortgage-bac
 | **Loans per pool** | 10,000–100,000+ depending on asset type |
 | **Maturity** | 3–10 years typical |
 | **Cash flows** | Principal and interest from borrower payments |
-| **Credit risk** | Borrower and [default](/default-rate) rate risk |
+| **Credit risk** | Borrower and [default](/default-rate/) rate risk |
 | **Typical yield** | AAA: 100–200 bps; BBB: 300–500 bps |
 | **Issued by** | Auto lenders, credit card companies, finance companies |
 
@@ -50,7 +50,7 @@ For mortgage-backed securitization, see [mortgage-backed security](/mortgage-bac
 
 **Receivables from business loans** — Small business loans, factored invoices, and other commercial receivables are pooled.
 
-Each asset type has different maturity, [duration](/duration), prepayment, and default characteristics.
+Each asset type has different maturity, [duration](/duration/), prepayment, and default characteristics.
 
 ## Securitization mechanics
 
@@ -66,7 +66,7 @@ ABS credit quality depends on the underlying asset's default rate and loss sever
 
 Credit card default occurs when balances exceed what borrowers can pay. Equipment lease default occurs when lessees cannot meet their obligations.
 
-[Default](/default-rate) rates vary by economic cycle and asset type. During the 2008 financial crisis, auto loan defaults spiked as unemployment rose and car values fell. Credit card defaults also spiked. Equipment lease defaults spiked as business activity contracted.
+[Default](/default-rate/) rates vary by economic cycle and asset type. During the 2008 financial crisis, auto loan defaults spiked as unemployment rose and car values fell. Credit card defaults also spiked. Equipment lease defaults spiked as business activity contracted.
 
 Historically, auto loan ABS default rates range from 0.5–3% annually in normal periods, rising to 5–10% in severe recessions. Recovery rates (what investors recover after default) vary by asset type and seniority.
 
@@ -93,7 +93,7 @@ ABS, particularly those backed by subprime mortgages and their derivatives (CDOs
 
 Post-crisis, regulation tightened dramatically. Originators must retain 5% of risk; underwriting standards improved; subprime lending collapsed. Transparency and disclosure of asset performance increased substantially.
 
-Modern ABS are safer than pre-crisis because underwriting is stricter, retention requirements force skin-in-the-game, and data quality has improved. But they remain exposed to economic cycles and [default](/default-rate) risk.
+Modern ABS are safer than pre-crisis because underwriting is stricter, retention requirements force skin-in-the-game, and data quality has improved. But they remain exposed to economic cycles and [default](/default-rate/) risk.
 
 ## Market participants and use cases
 
@@ -101,17 +101,17 @@ Modern ABS are safer than pre-crisis because underwriting is stricter, retention
 
 **Institutional investors** — Buy AAA tranches for stable, moderate-yielding portfolios.
 
-**[Hedge funds](/hedge-fund)** — Buy riskier tranches, conduct credit analysis, and trade opportunistically.
+**[Hedge funds](/hedge-fund/)** — Buy riskier tranches, conduct credit analysis, and trade opportunistically.
 
-**[Mutual funds](/mutual-fund) and [ETFs](/etf)** — Provide diversified ABS exposure to retail investors.
+**[Mutual funds](/mutual-fund/) and [ETFs](/etf/)** — Provide diversified ABS exposure to retail investors.
 
 **Central banks** — The Fed bought ABS during the 2008 financial crisis to stabilize credit markets.
 
 ## Comparison to other securitized products
 
-ABS differ from [mortgage-backed securities](/mortgage-backed-security) primarily in underlying asset and [duration](/duration) characteristics. Auto loans have 5–7 year average lives; mortgages have 15–30 year lives.
+ABS differ from [mortgage-backed securities](/mortgage-backed-security/) primarily in underlying asset and [duration](/duration/) characteristics. Auto loans have 5–7 year average lives; mortgages have 15–30 year lives.
 
-ABS differ from [corporate bonds](/corporate-bond) in that the collateral is a pool of contracts, not the balance sheet of a single company. This [diversification](/diversification) reduces idiosyncratic risk but maintains systematic risk (economic cycle risk).
+ABS differ from [corporate bonds](/corporate-bond/) in that the collateral is a pool of contracts, not the balance sheet of a single company. This [diversification](/diversification/) reduces idiosyncratic risk but maintains systematic risk (economic cycle risk).
 
 ## See also
 
@@ -119,18 +119,18 @@ ABS differ from [corporate bonds](/corporate-bond) in that the collateral is a p
 
 ### Closely related
 
-- [Mortgage-backed security](/mortgage-backed-security) — real estate securitization
-- [Commercial mortgage-backed security](/commercial-mortgage-backed-security) — commercial property securitization
-- [Collateralized debt obligation](/collateralized-debt-obligation) — pooled debt more broadly
-- [Credit spread](/credit-spread) — why ABS yield more than Treasuries
-- [Default rate](/default-rate) — determines ABS performance
+- [Mortgage-backed security](/mortgage-backed-security/) — real estate securitization
+- [Commercial mortgage-backed security](/commercial-mortgage-backed-security/) — commercial property securitization
+- [Collateralized debt obligation](/collateralized-debt-obligation/) — pooled debt more broadly
+- [Credit spread](/credit-spread/) — why ABS yield more than Treasuries
+- [Default rate](/default-rate/) — determines ABS performance
 
 ### Wider context
 
-- [Securitization](/asset-backed-security) — the underlying process
-- [Recession](/recession) — stress tests ABS credit quality
-- [Interest rate](/interest-rate) — affects both asset performance and pricing
-- [Hedge fund](/hedge-fund) — active ABS investors and traders
-- [Diversification](/diversification) — pooling reduces idiosyncratic risk
+- [Securitization](/asset-backed-security/) — the underlying process
+- [Recession](/recession/) — stress tests ABS credit quality
+- [Interest rate](/interest-rate/) — affects both asset performance and pricing
+- [Hedge fund](/hedge-fund/) — active ABS investors and traders
+- [Diversification](/diversification/) — pooling reduces idiosyncratic risk
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **ICE Clear Credit** is a clearinghouse operated by Intercontinental Exchange that specializes in credit derivatives — contracts that trade credit risk. The clearinghouse acts as central counterparty for [credit default swaps](/credit-default-swap) and other credit derivatives, allowing investors to hedge credit exposure or speculate on credit conditions.*
+*The **ICE Clear Credit** is a clearinghouse operated by Intercontinental Exchange that specializes in credit derivatives — contracts that trade credit risk. The clearinghouse acts as central counterparty for [credit default swaps](/credit-default-swap/) and other credit derivatives, allowing investors to hedge credit exposure or speculate on credit conditions.*
 
 <div class="wiki-hatnote">
 
@@ -41,9 +41,9 @@ ICE Clear Credit is part of the broader ICE clearing ecosystem; ICE Clear US han
 
 ## Purpose and credit derivatives
 
-A [credit default swap](/credit-default-swap) (CDS) is a contract that pays out if a specified [bond](/bond) issuer defaults on its obligations. The buyer of protection pays an annual fee to the seller; if default occurs, the seller compensates the buyer.
+A [credit default swap](/credit-default-swap/) (CDS) is a contract that pays out if a specified [bond](/bond/) issuer defaults on its obligations. The buyer of protection pays an annual fee to the seller; if default occurs, the seller compensates the buyer.
 
-CDS contracts allow investors to hedge credit risk (worry about a [bond](/bond) default) without selling the underlying bonds. They also allow speculators to bet on credit conditions without owning the bonds. Before the 2008 financial crisis, CDS markets exploded in size and complexity.
+CDS contracts allow investors to hedge credit risk (worry about a [bond](/bond/) default) without selling the underlying bonds. They also allow speculators to bet on credit conditions without owning the bonds. Before the 2008 financial crisis, CDS markets exploded in size and complexity.
 
 ## Central counterparty function
 
@@ -53,7 +53,7 @@ Post-crisis regulatory reforms required standardized CDS to be cleared through a
 
 ## Standardization and indices
 
-ICE Clear Credit cleared standardized CDS index contracts — baskets of credit swaps on major companies grouped by sector (financial, industrial, etc.). These indices are traded actively by [asset managers](/asset-allocation), [hedge funds](/hedge-fund), and banks managing credit exposure.
+ICE Clear Credit cleared standardized CDS index contracts — baskets of credit swaps on major companies grouped by sector (financial, industrial, etc.). These indices are traded actively by [asset managers](/asset-allocation/), [hedge funds](/hedge-fund/), and banks managing credit exposure.
 
 The standardization also facilitates the central clearing process, as counterparties can offset positions more easily with standardized indices than with bespoke bilateral CDS contracts.
 
@@ -81,19 +81,19 @@ ICE Clear Credit handles a significant portion of global CDS trading volume, mak
 
 ### Closely related
 
-- [Credit default swap](/credit-default-swap) — contracts traded here
+- [Credit default swap](/credit-default-swap/) — contracts traded here
 - Clearinghouse — central counterparty function
-- [ICE](/ice-intercontinental-exchange) — parent operator
-- [DTCC](/dtcc) — equities clearinghouse
+- [ICE](/ice-intercontinental-exchange/) — parent operator
+- [DTCC](/dtcc/) — equities clearinghouse
 - Derivatives — broader category
 
 ### Wider context
 
-- [Bond](/bond) — underlying credit exposure
+- [Bond](/bond/) — underlying credit exposure
 - Risk management — core function
 - Institutional investor — participants
-- [Hedge fund](/hedge-fund) — traders
-- [Central bank](/central-bank) — oversight
-- [Counterparty risk](/counterparty-risk) — what clearing eliminates
+- [Hedge fund](/hedge-fund/) — traders
+- [Central bank](/central-bank/) — oversight
+- [Counterparty risk](/counterparty-risk/) — what clearing eliminates
 
 </div>

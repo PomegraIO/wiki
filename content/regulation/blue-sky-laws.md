@@ -9,11 +9,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*Blue-sky laws are state securities laws enacted by each state to regulate securities offerings within that state. The name supposedly comes from the phrase "as much value as a patch of blue sky," referring to worthless securities. They predate the federal [Securities Act of 1933](/securities-act-of-1933) and require companies to register securities offerings with state regulators and disclose information to prevent fraud. While the federal government is the primary regulator of securities, blue-sky laws remain a patchwork of state-level requirements.*
+*Blue-sky laws are state securities laws enacted by each state to regulate securities offerings within that state. The name supposedly comes from the phrase "as much value as a patch of blue sky," referring to worthless securities. They predate the federal [Securities Act of 1933](/securities-act-of-1933/) and require companies to register securities offerings with state regulators and disclose information to prevent fraud. While the federal government is the primary regulator of securities, blue-sky laws remain a patchwork of state-level requirements.*
 
 <div class="wiki-hatnote">
 
-Blue-sky laws are state-level regulation. The [Securities Act of 1933](/securities-act-of-1933) is federal regulation. Both apply, creating a dual regulatory system.
+Blue-sky laws are state-level regulation. The [Securities Act of 1933](/securities-act-of-1933/) is federal regulation. Both apply, creating a dual regulatory system.
 
 </div>
 
@@ -31,14 +31,14 @@ Blue-sky laws are state-level regulation. The [Securities Act of 1933](/securiti
 | **Administered by** | State securities administrators (Attorney General's office, often) |
 | **Requirements** | Registration, disclosure, anti-fraud |
 | **Variation** | Each state has unique rules and exemptions |
-| **Primary federal exemption** | Rule 506(b) and 506(c) [Regulation D](/regulation-d) preempt some state rules |
+| **Primary federal exemption** | Rule 506(b) and 506(c) [Regulation D](/regulation-d/) preempt some state rules |
 | **Impact** | Compliance burden for companies raising capital |
 
 </aside>
 
 ## Origins and the preemption story
 
-Blue-sky laws were the first securities regulations in the United States, enacted by states starting in the early 1900s to protect citizens from worthless securities and fraud. When the federal government enacted the [Securities Act of 1933](/securities-act-of-1933), a question arose: did the federal law preempt state blue-sky laws?
+Blue-sky laws were the first securities regulations in the United States, enacted by states starting in the early 1900s to protect citizens from worthless securities and fraud. When the federal government enacted the [Securities Act of 1933](/securities-act-of-1933/), a question arose: did the federal law preempt state blue-sky laws?
 
 The answer was nuanced. Section 28 of the Securities Act provided that nothing in the Act would "affect the validity of any contract or the legality of any action or failure to act, based upon the ground that such contract, action or failure to act violates any provision of the laws of any State."
 
@@ -58,9 +58,9 @@ However, blue-sky laws still apply to antifraud provisions (states can still pro
 
 ## Exemptions and burdens for small offerings
 
-Companies using [Regulation A](/regulation-a) or [Regulation D](/regulation-d) still must comply with blue-sky laws in many states. However, the [JOBS Act](/jobs-act) preempted blue-sky laws for Regulation A+ offerings (the expanded Tier 2), allowing companies to raise up to $75 million without individual state approval.
+Companies using [Regulation A](/regulation-a/) or [Regulation D](/regulation-d/) still must comply with blue-sky laws in many states. However, the [JOBS Act](/jobs-act/) preempted blue-sky laws for Regulation A+ offerings (the expanded Tier 2), allowing companies to raise up to $75 million without individual state approval.
 
-[Regulation D](/regulation-d) private offerings remain subject to state blue-sky laws, though many states have adopted a "NASAA" template (from the North American Securities Administrators Association) that streamlines compliance.
+[Regulation D](/regulation-d/) private offerings remain subject to state blue-sky laws, though many states have adopted a "NASAA" template (from the North American Securities Administrators Association) that streamlines compliance.
 
 ## The patchwork: state variations
 
@@ -88,10 +88,10 @@ Similarly, foreign issuers selling into the US must comply with blue-sky laws in
 
 ### Closely related
 
-- [Securities Act of 1933](/securities-act-of-1933) — federal law that coexists with blue-sky laws
-- [Regulation A](/regulation-a) — exempted from state registration by JOBS Act
-- [Regulation D](/regulation-d) — remains subject to blue-sky laws
-- [Regulation Crowdfunding](/regulation-cf) — creates compliance questions
+- [Securities Act of 1933](/securities-act-of-1933/) — federal law that coexists with blue-sky laws
+- [Regulation A](/regulation-a/) — exempted from state registration by JOBS Act
+- [Regulation D](/regulation-d/) — remains subject to blue-sky laws
+- [Regulation Crowdfunding](/regulation-cf/) — creates compliance questions
 - NASAA — coordinates state securities administrators
 
 ### Wider context

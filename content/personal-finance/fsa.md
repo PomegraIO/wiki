@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For a similar account without the forfeiture rule, see [HSA](/hsa); for dependent care specifically, see [dependent care FSA](/dependent-care-fsa); for the [401(k) alternative](/401k-plan), see retirement accounts.
+For a similar account without the forfeiture rule, see [HSA](/hsa/); for dependent care specifically, see [dependent care FSA](/dependent-care-fsa/); for the [401(k) alternative](/401k-plan/), see retirement accounts.
 
 </div>
 
@@ -58,7 +58,7 @@ The critical rule: unused money is forfeited. If you contribute $3,300 and spend
 
 **Use-it-or-lose-it.** This is the major downside. If you overestimate expenses, you forfeit the overage.
 
-**Not invested.** Unlike an [HSA](/hsa), FSA funds do not earn interest or grow. The balance sits in cash (or a low-yield account).
+**Not invested.** Unlike an [HSA](/hsa/), FSA funds do not earn interest or grow. The balance sits in cash (or a low-yield account).
 
 **Plan-dependent.** You can use the FSA only through your employer's plan. If you change jobs, you have until the end of the year to spend your balance; then it is forfeited.
 
@@ -90,11 +90,11 @@ Some plans offer a grace period (usually 2.5 months after the plan year ends) or
 | **Portability** | Not portable (tied to employer) | Fully portable |
 | **Access age** | During employment | Lifetime (even post-retirement) |
 
-If you have the choice, [HSA](/hsa) is superior due to investment potential and no forfeiture. But if your employer offers FSA and you cannot estimate expenses accurately, you can simply contribute less or not participate.
+If you have the choice, [HSA](/hsa/) is superior due to investment potential and no forfeiture. But if your employer offers FSA and you cannot estimate expenses accurately, you can simply contribute less or not participate.
 
 ## Dependent care FSA
 
-Separate from medical FSA, many employers offer a dependent care FSA for childcare or eldercare costs (see [dependent care FSA](/dependent-care-fsa)).
+Separate from medical FSA, many employers offer a dependent care FSA for childcare or eldercare costs (see [dependent care FSA](/dependent-care-fsa/)).
 
 ## See also
 
@@ -102,14 +102,14 @@ Separate from medical FSA, many employers offer a dependent care FSA for childca
 
 ### Closely related
 
-- [HSA](/hsa) — superior alternative without forfeiture
-- [Dependent care FSA](/dependent-care-fsa) — for childcare/eldercare expenses
-- [401(k) plan](/401k-plan) — another pre-tax benefit
+- [HSA](/hsa/) — superior alternative without forfeiture
+- [Dependent care FSA](/dependent-care-fsa/) — for childcare/eldercare expenses
+- [401(k) plan](/401k-plan/) — another pre-tax benefit
 
 ### Wider context
 
-- [Tax-deductible expenses](/budgeting-methods) — FSA as tax savings
-- [Budgeting methods](/budgeting-methods) — estimating medical expenses
-- [Emergency fund](/emergency-fund) — managing unexpected medical costs
+- [Tax-deductible expenses](/budgeting-methods/) — FSA as tax savings
+- [Budgeting methods](/budgeting-methods/) — estimating medical expenses
+- [Emergency fund](/emergency-fund/) — managing unexpected medical costs
 
 </div>

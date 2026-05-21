@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **carry trade** is a forex strategy in which a trader borrows in a low-[interest-rate](/interest-rate) currency (the funding currency) and invests in a higher-interest-rate currency (the investment currency), profiting from the interest-rate differential. For decades, borrowing in [Japanese yen](/japanese-yen) (at near-zero rates) and investing in US dollars or emerging-market bonds (at 3–6% rates) was the canonical carry trade. Carry trades are profitable in calm markets but unwind violently when risk appetite collapses.*
+*A **carry trade** is a forex strategy in which a trader borrows in a low-[interest-rate](/interest-rate/) currency (the funding currency) and invests in a higher-interest-rate currency (the investment currency), profiting from the interest-rate differential. For decades, borrowing in [Japanese yen](/japanese-yen/) (at near-zero rates) and investing in US dollars or emerging-market bonds (at 3–6% rates) was the canonical carry trade. Carry trades are profitable in calm markets but unwind violently when risk appetite collapses.*
 
 <div class="wiki-hatnote">
 
-For the mechanics of interest-rate differentials, see interest-rate parity; for the currency doing the funding, see [Japanese yen](/japanese-yen).
+For the mechanics of interest-rate differentials, see interest-rate parity; for the currency doing the funding, see [Japanese yen](/japanese-yen/).
 
 </div>
 
@@ -40,9 +40,9 @@ For the mechanics of interest-rate differentials, see interest-rate parity; for 
 
 ## How a carry trade works
 
-**Simple example:** In 2002, the [Japanese yen](/japanese-yen) yielded 0.1%, and the [US dollar](/us-dollar) yielded 1.5%. The interest-rate differential is 1.4%.
+**Simple example:** In 2002, the [Japanese yen](/japanese-yen/) yielded 0.1%, and the [US dollar](/us-dollar/) yielded 1.5%. The interest-rate differential is 1.4%.
 
-A trader borrows 100 million yen at 0.1%, converts it to dollars at the [spot rate](/spot-exchange-rate) (assume 100 yen = 1 dollar, so they get $1 million), and invests the dollars at 1.5%.
+A trader borrows 100 million yen at 0.1%, converts it to dollars at the [spot rate](/spot-exchange-rate/) (assume 100 yen = 1 dollar, so they get $1 million), and invests the dollars at 1.5%.
 
 **Annual flows:**
 
@@ -54,7 +54,7 @@ On a $1 million investment, a $14,000 profit is 1.4% return — the interest-rat
 
 ## Funding currencies and carry trade history
 
-The most common funding currencies have been those with chronically low [interest rates](/interest-rate):
+The most common funding currencies have been those with chronically low [interest rates](/interest-rate/):
 
 - **Japanese yen:** The canonical funding currency from the 1990s onwards (rates at or near zero).
 - **Swiss franc:** Also low-yielding; used in carry trades, especially during dollar strength.
@@ -96,7 +96,7 @@ The trade unwinds when either condition breaks. Typically, both happen together:
 
 Carry trades have a terrible payoff distribution. For months or years, you earn steady interest (0.5–2% per month). Then, in a crisis, you lose 20–50% in days. The cumulative gains are wiped out.
 
-This is why sophisticated traders use hedges (buying [currency options](/currency-option) to protect against funding-currency appreciation) or avoid excessive leverage.
+This is why sophisticated traders use hedges (buying [currency options](/currency-option/) to protect against funding-currency appreciation) or avoid excessive leverage.
 
 ## See also
 
@@ -105,16 +105,16 @@ This is why sophisticated traders use hedges (buying [currency options](/currenc
 ### Closely related
 
 - Interest rate parity — theoretical justification for carry
-- [Japanese yen](/japanese-yen) — canonical funding currency
-- [Forward exchange rate](/forward-exchange-rate) — carry-trade pricing based on forwards
-- [Currency option](/currency-option) — hedge against carry unwinding
-- [Leverage](/forex-leverage) — amplifies carry-trade returns and losses
+- [Japanese yen](/japanese-yen/) — canonical funding currency
+- [Forward exchange rate](/forward-exchange-rate/) — carry-trade pricing based on forwards
+- [Currency option](/currency-option/) — hedge against carry unwinding
+- [Leverage](/forex-leverage/) — amplifies carry-trade returns and losses
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — differential drives profitability
-- [Financial crisis](/recession) — trigger for unwinding
-- [Safe-haven currency](/central-bank) — funding currencies in flight-to-safety
-- [Risk appetite](/yield-curve) — determines carry profitability
+- [Interest rate](/interest-rate/) — differential drives profitability
+- [Financial crisis](/recession/) — trigger for unwinding
+- [Safe-haven currency](/central-bank/) — funding currencies in flight-to-safety
+- [Risk appetite](/yield-curve/) — determines carry profitability
 
 </div>

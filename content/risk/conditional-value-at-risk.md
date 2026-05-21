@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Conditional value-at-risk (CVaR) — also called **expected shortfall** or **expected tail loss** — is the average loss incurred in the worst scenarios, specifically the average loss when losses exceed the [value-at-risk](/value-at-risk) threshold. It directly measures the severity of tail events, addressing the key limitation of [value-at-risk](/value-at-risk).*
+*Conditional value-at-risk (CVaR) — also called **expected shortfall** or **expected tail loss** — is the average loss incurred in the worst scenarios, specifically the average loss when losses exceed the [value-at-risk](/value-at-risk/) threshold. It directly measures the severity of tail events, addressing the key limitation of [value-at-risk](/value-at-risk/).*
 
 <div class="wiki-hatnote">
 
-This entry covers the tail-loss average metric. For the VaR threshold itself, see [value-at-risk](/value-at-risk); for broader exposure to extreme losses, see [tail-risk](/tail-risk).
+This entry covers the tail-loss average metric. For the VaR threshold itself, see [value-at-risk](/value-at-risk/); for broader exposure to extreme losses, see [tail-risk](/tail-risk/).
 
 </div>
 
@@ -75,7 +75,7 @@ Here, VaR is only $3, but CVaR reveals that tail losses are catastrophic, averag
 
 ## Why regulators prefer CVaR to VaR
 
-The [Basel III](/capital-adequacy) capital framework shifted from VaR to CVaR as the primary risk metric for banks. The reason: VaR is a threshold, but it does not measure the magnitude of losses beyond the threshold. During the 2008 crisis, banks had low calculated VaRs but suffered losses far exceeding those thresholds.
+The [Basel III](/capital-adequacy/) capital framework shifted from VaR to CVaR as the primary risk metric for banks. The reason: VaR is a threshold, but it does not measure the magnitude of losses beyond the threshold. During the 2008 crisis, banks had low calculated VaRs but suffered losses far exceeding those thresholds.
 
 CVaR directly measures tail losses, forcing institutions to:
 - Recognize the severity of extreme scenarios.
@@ -111,7 +111,7 @@ CVaR is better than VaR, but it still has limitations:
 
 3. **Does not tell you the worst case.** CVaR is the average of tail losses. The absolute worst loss could be worse.
 
-4. **Still assumes the past predicts the future.** A new type of tail event (a [black swan](/black-swan)) is not captured by historical CVaR.
+4. **Still assumes the past predicts the future.** A new type of tail event (a [black swan](/black-swan/)) is not captured by historical CVaR.
 
 Despite these, CVaR is materially better than VaR and is now the regulatory standard.
 
@@ -121,18 +121,18 @@ Despite these, CVaR is materially better than VaR and is now the regulatory stan
 
 ### Closely related
 
-- [Value-at-risk](/value-at-risk) — the threshold metric that CVaR complements
-- [Expected-shortfall](/expected-shortfall) — synonym for CVaR
-- [Tail-risk](/tail-risk) — CVaR directly measures tail risk
-- [Stress-testing](/stress-testing) — complements CVaR with scenario analysis
-- [Basel capital](/capital-adequacy) — regulatory framework using CVaR
+- [Value-at-risk](/value-at-risk/) — the threshold metric that CVaR complements
+- [Expected-shortfall](/expected-shortfall/) — synonym for CVaR
+- [Tail-risk](/tail-risk/) — CVaR directly measures tail risk
+- [Stress-testing](/stress-testing/) — complements CVaR with scenario analysis
+- [Basel capital](/capital-adequacy/) — regulatory framework using CVaR
 
 ### Broader context
 
-- [Model-risk](/model-risk) — CVaR estimates depend on distributional assumptions
-- [Fat-tail-risk](/fat-tail-risk) — widens gap between VaR and CVaR
-- [Black-swan](/black-swan) — tail events CVaR might miss
-- [Risk management](/value-at-risk) — CVaR is modern standard
-- [2008 financial crisis](/credit-risk) — prompted shift from VaR to CVaR
+- [Model-risk](/model-risk/) — CVaR estimates depend on distributional assumptions
+- [Fat-tail-risk](/fat-tail-risk/) — widens gap between VaR and CVaR
+- [Black-swan](/black-swan/) — tail events CVaR might miss
+- [Risk management](/value-at-risk/) — CVaR is modern standard
+- [2008 financial crisis](/credit-risk/) — prompted shift from VaR to CVaR
 
 </div>

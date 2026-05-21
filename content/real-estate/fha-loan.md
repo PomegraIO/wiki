@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For government mortgage programs, see [va-loan](/va-loan), [usda-loan](/usda-loan), and government-sponsored-enterprise. For loan types, see [fixed-rate-mortgage](/fixed-rate-mortgage), [adjustable-rate-mortgage](/adjustable-rate-mortgage), and conventional-mortgage.
+For government mortgage programs, see [va-loan](/va-loan/), [usda-loan](/usda-loan/), and government-sponsored-enterprise. For loan types, see [fixed-rate-mortgage](/fixed-rate-mortgage/), [adjustable-rate-mortgage](/adjustable-rate-mortgage/), and conventional-mortgage.
 
 </div>
 
@@ -88,7 +88,7 @@ Total cost over time: A $300,000 FHA loan at 5% with 3.5% down is notably more e
 
 Loan limits vary by county and are updated annually (2024 ranges roughly $440K–$1.1M depending on county). High-cost areas have higher limits; rural areas have lower limits.
 
-Borrowers needing to borrow more than the FHA limit for their county must use a [jumbo loan](/jumbo-loan) or a conventional loan.
+Borrowers needing to borrow more than the FHA limit for their county must use a [jumbo loan](/jumbo-loan/) or a conventional loan.
 
 ## FHA loans and the financial crisis
 
@@ -120,24 +120,24 @@ Some FHA borrowers stay in FHA loans because rates are comparable and the conven
 
 ### Government loan programs
 
-- [VA-loan](/va-loan) — mortgages for military veterans
-- [USDA-loan](/usda-loan) — mortgages for rural properties
+- [VA-loan](/va-loan/) — mortgages for military veterans
+- [USDA-loan](/usda-loan/) — mortgages for rural properties
 - Government-sponsored-enterprise — Fannie Mae, Freddie Mac
 
 ### Mortgage types
 
-- [Fixed-rate-mortgage](/fixed-rate-mortgage) — standard fixed-rate mortgages
+- [Fixed-rate-mortgage](/fixed-rate-mortgage/) — standard fixed-rate mortgages
 - Conventional-mortgage — non-government mortgages
-- [Jumbo-loan](/jumbo-loan) — loans exceeding conforming limits
+- [Jumbo-loan](/jumbo-loan/) — loans exceeding conforming limits
 
 ### Mortgage insurance
 
-- [Private-mortgage-insurance](/private-mortgage-insurance) — insurance on conventional mortgages
+- [Private-mortgage-insurance](/private-mortgage-insurance/) — insurance on conventional mortgages
 
 ### Context
 
-- [Interest rate](/interest-rate) — affects mortgage rates
-- [Residential-real-estate](/residential-real-estate) — the asset being financed
-- [Down payment](/residential-real-estate) — equity invested at purchase
+- [Interest rate](/interest-rate/) — affects mortgage rates
+- [Residential-real-estate](/residential-real-estate/) — the asset being financed
+- [Down payment](/residential-real-estate/) — equity invested at purchase
 
 </div>

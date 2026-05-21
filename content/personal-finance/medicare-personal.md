@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the retirement income side, see [Social Security](/social-security-personal); for working-age health insurance, see insurance articles; for HSA and other pre-Medicare health savings, see [HSA](/hsa).
+For the retirement income side, see [Social Security](/social-security-personal/); for working-age health insurance, see insurance articles; for HSA and other pre-Medicare health savings, see [HSA](/hsa/).
 
 </div>
 
@@ -87,13 +87,13 @@ Total annual cost: Original Medicare + Medigap ranges $3,000–$5,000+; Medicare
 
 Medicare costs are a major retirement expense. Many people underestimate; budget at least $3,000/year for someone in Original Medicare + Medigap, more if you have health needs.
 
-An [HSA](/hsa) before retirement can be withdrawn (tax-free for medical expenses) to cover Medicare costs, making it a valuable pre-65 tool.
+An [HSA](/hsa/) before retirement can be withdrawn (tax-free for medical expenses) to cover Medicare costs, making it a valuable pre-65 tool.
 
 ## Interactions with other programs
 
 **Social Security and IRMAA.** If your income is high, your Medicare premiums are surcharge ("IRMAA" — Income-Related Monthly Adjustment Amount). Modified Adjusted Gross Income above $97,000 (single) or $194,000 (married) triggers surcharge.
 
-This is why [Roth conversions](/roth-conversion-personal) and [backdoor Roth](/backdoor-roth) strategies matter in retirement: traditional IRA withdrawals count toward IRMAA, while Roth withdrawals do not.
+This is why [Roth conversions](/roth-conversion-personal/) and [backdoor Roth](/backdoor-roth/) strategies matter in retirement: traditional IRA withdrawals count toward IRMAA, while Roth withdrawals do not.
 
 ## See also
 
@@ -101,15 +101,15 @@ This is why [Roth conversions](/roth-conversion-personal) and [backdoor Roth](/b
 
 ### Closely related
 
-- [Social Security](/social-security-personal) — coordinated with Medicare at 65
-- [HSA](/hsa) — pre-Medicare healthcare savings
-- [Required minimum distribution](/required-minimum-distribution-personal) — impacts IRMAA
+- [Social Security](/social-security-personal/) — coordinated with Medicare at 65
+- [HSA](/hsa/) — pre-Medicare healthcare savings
+- [Required minimum distribution](/required-minimum-distribution-personal/) — impacts IRMAA
 
 ### Wider context
 
-- [The four-percent rule](/the-four-percent-rule) — retirement planning with Medicare costs
-- [Safe withdrawal rate](/safe-withdrawal-rate) — accounting for healthcare expenses
-- [Roth conversion](/roth-conversion-personal) — managing income to reduce IRMAA
-- [Emergency fund](/emergency-fund) — covering deductibles and gaps
+- [The four-percent rule](/the-four-percent-rule/) — retirement planning with Medicare costs
+- [Safe withdrawal rate](/safe-withdrawal-rate/) — accounting for healthcare expenses
+- [Roth conversion](/roth-conversion-personal/) — managing income to reduce IRMAA
+- [Emergency fund](/emergency-fund/) — covering deductibles and gaps
 
 </div>

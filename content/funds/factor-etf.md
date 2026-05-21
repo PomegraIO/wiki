@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **factor ETF** is an [ETF](/etf) designed to provide systematic exposure to a specific investment factor — value, momentum, quality, dividend yield, or low volatility — that is believed to drive returns. Factor ETFs are a form of [smart beta](/smart-beta-etf) strategy and allow investors to make targeted bets on specific return drivers.*
+*A **factor ETF** is an [ETF](/etf/) designed to provide systematic exposure to a specific investment factor — value, momentum, quality, dividend yield, or low volatility — that is believed to drive returns. Factor ETFs are a form of [smart beta](/smart-beta-etf/) strategy and allow investors to make targeted bets on specific return drivers.*
 
 <div class="wiki-hatnote">
 
-This entry covers individual factors in isolation. For an overview of factor-based investing, see [smart beta ETF](/smart-beta-etf); for traditional market-cap weighting, see [index fund](/index-fund).
+This entry covers individual factors in isolation. For an overview of factor-based investing, see [smart beta ETF](/smart-beta-etf/); for traditional market-cap weighting, see [index fund](/index-fund/).
 
 </div>
 
@@ -32,11 +32,11 @@ This entry covers individual factors in isolation. For an overview of factor-bas
 | **What it is** | An ETF tilting toward stocks with specific characteristics |
 | **Also called** | Smart beta ETF, style-factor ETF, alternative index |
 | **Issued by** | Asset managers (iShares, Invesco, Vanguard, etc.) |
-| **Traded on** | A [stock exchange](/stock-exchange) |
+| **Traded on** | A [stock exchange](/stock-exchange/) |
 | **Pricing** | Continuous, throughout the trading day |
 | **Minimum investment** | The price of one share (often $40–150) |
 | **Typical factors** | Value, momentum, quality, size, volatility |
-| **Typical [expense ratio](/expense-ratio)** | 0.15% to 0.40% per year |
+| **Typical [expense ratio](/expense-ratio/)** | 0.15% to 0.40% per year |
 | **Cyclicality** | Factors perform best in specific market environments |
 
 </aside>
@@ -83,7 +83,7 @@ This has created a paradox: factors that should have generated "excess returns" 
 
 Factor ETFs are typically tactical overlays rather than core holdings:
 
-- **Core:** 70–80% broad [equity ETFs](/equity-etf) and [bond ETFs](/bond-etf).
+- **Core:** 70–80% broad [equity ETFs](/equity-etf/) and [bond ETFs](/bond-etf/).
 - **Tactical factors:** 10–20% in one or more factor ETFs.
 - **Tactical adjustments:** Rotate factors based on valuations and economic outlook.
 
@@ -92,7 +92,7 @@ A factor-based core portfolio might hold:
 - 30% value factor ETF
 - 25% momentum factor ETF
 - 25% quality factor ETF
-- 20% [bond ETFs](/bond-etf)
+- 20% [bond ETFs](/bond-etf/)
 
 This approach reduces dependence on any single factor and aims to capture returns across multiple dimensions. However, managing factor allocation—knowing when to overweight value, momentum, and quality—requires skill and carries timing risk.
 
@@ -104,7 +104,7 @@ Factor ETFs carry unique risks:
 
 **Mean reversion risk.** While some factors have historically mean-reverted (value), there is no guarantee they will in the future.
 
-**[Expense ratio](/expense-ratio) drag.** Factor [expense ratios](/expense-ratio) of 0.15–0.40% are higher than broad [equity ETFs](/equity-etf), compounding losses if the factor underperforms.
+**[Expense ratio](/expense-ratio/) drag.** Factor [expense ratios](/expense-ratio/) of 0.15–0.40% are higher than broad [equity ETFs](/equity-etf/), compounding losses if the factor underperforms.
 
 **Crowding.** As more investors adopt factor strategies, positions become crowded, potentially increasing volatility and reducing expected returns.
 
@@ -116,19 +116,19 @@ Factor ETFs carry unique risks:
 
 ### Closely related
 
-- [ETF](/etf) — the broader category
-- [Smart beta ETF](/smart-beta-etf) — multi-factor strategies
-- [Index fund](/index-fund) — traditional cap-weighted baseline
-- [Equity ETF](/equity-etf) — the broad market alternative
-- [Dividend](/dividend) — basis of dividend factor
+- [ETF](/etf/) — the broader category
+- [Smart beta ETF](/smart-beta-etf/) — multi-factor strategies
+- [Index fund](/index-fund/) — traditional cap-weighted baseline
+- [Equity ETF](/equity-etf/) — the broad market alternative
+- [Dividend](/dividend/) — basis of dividend factor
 
 ### Wider context
 
-- [Stock](/stock) — the underlying holdings
-- [Alpha](/alpha) — what factors aim to generate
-- [Beta](/beta) — the market return factor tilts against
-- [Market capitalization](/market-capitalization) — the cap-weighted baseline
-- [Asset allocation](/asset-allocation) — how to size factor positions
-- [Bull market](/bull-market) · [Bear market](/bear-market) — when factors behave differently
+- [Stock](/stock/) — the underlying holdings
+- [Alpha](/alpha/) — what factors aim to generate
+- [Beta](/beta/) — the market return factor tilts against
+- [Market capitalization](/market-capitalization/) — the cap-weighted baseline
+- [Asset allocation](/asset-allocation/) — how to size factor positions
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — when factors behave differently
 
 </div>

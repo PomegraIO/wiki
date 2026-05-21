@@ -11,11 +11,11 @@ keywords:
   - SEC
 image: "/svg/corporate.svg"
 ---
-*A **public company** is a corporation whose [stock](/stock) trades on a public [stock exchange](/stock-exchange) and is available for purchase by any investor. Public companies are required to disclose detailed financial information (10-K annual reports, 10-Q quarterly reports, insider trades), undergo audits, comply with corporate governance rules (Sarbanes-Oxley in the US), and hold shareholder votes on major decisions. In exchange for these burdens, they gain access to vast pools of capital and liquidity.*
+*A **public company** is a corporation whose [stock](/stock/) trades on a public [stock exchange](/stock-exchange/) and is available for purchase by any investor. Public companies are required to disclose detailed financial information (10-K annual reports, 10-Q quarterly reports, insider trades), undergo audits, comply with corporate governance rules (Sarbanes-Oxley in the US), and hold shareholder votes on major decisions. In exchange for these burdens, they gain access to vast pools of capital and liquidity.*
 
 <div class="wiki-hatnote">
 
-For the process by which a company becomes public, see [initial public offering](/initial-public-offering). For the venues where public shares trade, see [stock exchange](/stock-exchange). For shareholders' rights and what ownership means, see [stock](/stock).
+For the process by which a company becomes public, see [initial public offering](/initial-public-offering/). For the venues where public shares trade, see [stock exchange](/stock-exchange/). For shareholders' rights and what ownership means, see [stock](/stock/).
 
 </div>
 
@@ -44,9 +44,9 @@ For the process by which a company becomes public, see [initial public offering]
 
 ## What makes a company public
 
-A company becomes public when it issues [stock](/stock) that is registered with the Securities and Exchange Commission (SEC) and begins trading on a [stock exchange](/stock-exchange) like the NYSE or Nasdaq. At that moment, ownership is no longer held by a closed group—the founder, a few investors, a venture capital fund—but is dispersed among potentially millions of shareholders.
+A company becomes public when it issues [stock](/stock/) that is registered with the Securities and Exchange Commission (SEC) and begins trading on a [stock exchange](/stock-exchange/) like the NYSE or Nasdaq. At that moment, ownership is no longer held by a closed group—the founder, a few investors, a venture capital fund—but is dispersed among potentially millions of shareholders.
 
-Being public is a legal status with powerful consequences. The [stock](/stock) is "freely tradable," meaning any investor can buy or sell shares on the open market at any time. The company cannot refuse a sale or restrict who owns it (except through disclosure requirements). This liquidity—the ability to convert ownership into cash quickly—is the main draw of public ownership from an investor's perspective. It is also the main difference between a public company and a [private company](/stock), where shares are hard to trade and often illiquid.
+Being public is a legal status with powerful consequences. The [stock](/stock/) is "freely tradable," meaning any investor can buy or sell shares on the open market at any time. The company cannot refuse a sale or restrict who owns it (except through disclosure requirements). This liquidity—the ability to convert ownership into cash quickly—is the main draw of public ownership from an investor's perspective. It is also the main difference between a public company and a [private company](/stock/), where shares are hard to trade and often illiquid.
 
 ## Obligations and disclosures
 
@@ -82,11 +82,11 @@ Shareholders of a public company have voting rights on major decisions. At the a
 - **Mergers and major transactions.** A sale of the company or a major acquisition requires shareholder approval.
 - **Charter amendments.** Changes to the company's bylaws or governance structure require a shareholder vote.
 
-In theory, shareholders are the owners and the board is their agent. In practice, most shareholder votes are not contested. Management puts forward a slate of directors and a compensation package; shareholders typically approve them with little debate. Activist investors and proxy fights exist, but are rare. The typical shareholder influence is indirect: buy the [stock](/stock) if you like it, sell if you do not.
+In theory, shareholders are the owners and the board is their agent. In practice, most shareholder votes are not contested. Management puts forward a slate of directors and a compensation package; shareholders typically approve them with little debate. Activist investors and proxy fights exist, but are rare. The typical shareholder influence is indirect: buy the [stock](/stock/) if you like it, sell if you do not.
 
 ## Why companies go public, and why some go private again
 
-Companies go public primarily to raise capital. An [initial public offering](/initial-public-offering) can bring in billions of dollars that the company can use to fund growth, pay down debt, or reward early investors. The liquidity also makes it easier for employees: restricted [stock](/stock) units and options become tradable, allowing employees to diversify their wealth.
+Companies go public primarily to raise capital. An [initial public offering](/initial-public-offering/) can bring in billions of dollars that the company can use to fund growth, pay down debt, or reward early investors. The liquidity also makes it easier for employees: restricted [stock](/stock/) units and options become tradable, allowing employees to diversify their wealth.
 
 But public ownership comes with costs and constraints:
 
@@ -95,7 +95,7 @@ But public ownership comes with costs and constraints:
 - **Hostile takeovers.** Being public makes a company vulnerable to acquisition by a competitor or activist investor (though defenses exist).
 - **Shareholder lawsuits.** Public shareholders have the right to sue if they believe they were defrauded or harmed.
 
-For these reasons, some large public companies have gone private in recent years. When a company "goes private," usually a buyer (often a [private equity](/hedge-fund) firm) purchases all outstanding shares and delists the [stock](/stock). The company no longer has shareholders, must no longer file quarterly reports, and can operate with a longer-term view.
+For these reasons, some large public companies have gone private in recent years. When a company "goes private," usually a buyer (often a [private equity](/hedge-fund/) firm) purchases all outstanding shares and delists the [stock](/stock/). The company no longer has shareholders, must no longer file quarterly reports, and can operate with a longer-term view.
 
 ## See also
 
@@ -103,18 +103,18 @@ For these reasons, some large public companies have gone private in recent years
 
 ### Closely related
 
-- [Stock](/stock) — the ownership instrument a public company issues
-- [Initial public offering](/initial-public-offering) — how a company becomes public
-- [Stock exchange](/stock-exchange) — the venue where public shares trade
-- [Stock market](/stock-market) — the network of all public trading
-- [Market capitalization](/market-capitalization) — the total market value of a public company
+- [Stock](/stock/) — the ownership instrument a public company issues
+- [Initial public offering](/initial-public-offering/) — how a company becomes public
+- [Stock exchange](/stock-exchange/) — the venue where public shares trade
+- [Stock market](/stock-market/) — the network of all public trading
+- [Market capitalization](/market-capitalization/) — the total market value of a public company
 
 ### Wider context
 
-- [Dividend](/dividend) — what public companies may pay out to shareholders
-- [Earnings per share](/earnings-per-share) — the metric public companies report quarterly
-- [Price-to-earnings ratio](/price-to-earnings-ratio) — how markets value public companies
-- [Diversification](/diversification) — why investors hold many public company shares
-- [Hedge fund](/hedge-fund) — often owned by institutional shareholders in public companies
+- [Dividend](/dividend/) — what public companies may pay out to shareholders
+- [Earnings per share](/earnings-per-share/) — the metric public companies report quarterly
+- [Price-to-earnings ratio](/price-to-earnings-ratio/) — how markets value public companies
+- [Diversification](/diversification/) — why investors hold many public company shares
+- [Hedge fund](/hedge-fund/) — often owned by institutional shareholders in public companies
 
 </div>

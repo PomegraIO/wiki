@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Toronto Stock Exchange** (TSX) is the largest [stock exchange](/stock-exchange) in Canada and the primary venue for Canadian equities. Home to Canadian multinational corporations in mining, energy, banking, utilities, and technology, the TSX serves as the gateway for international investors seeking exposure to Canadian natural resources and stable financial institutions.*
+*The **Toronto Stock Exchange** (TSX) is the largest [stock exchange](/stock-exchange/) in Canada and the primary venue for Canadian equities. Home to Canadian multinational corporations in mining, energy, banking, utilities, and technology, the TSX serves as the gateway for international investors seeking exposure to Canadian natural resources and stable financial institutions.*
 
 <div class="wiki-hatnote">
 
@@ -66,11 +66,11 @@ The energy weighting in the TSX makes the index particularly sensitive to oil an
 
 ## Technology and diversification
 
-In recent years, the TSX has sought to broaden its listing base beyond natural resources. Canadian technology companies, pharmaceutical firms, and telecom companies list on the exchange. However, the resource concentration remains a defining feature and distinguishes the TSX from the [New York Stock Exchange](/new-york-stock-exchange) and [Nasdaq](/nasdaq).
+In recent years, the TSX has sought to broaden its listing base beyond natural resources. Canadian technology companies, pharmaceutical firms, and telecom companies list on the exchange. However, the resource concentration remains a defining feature and distinguishes the TSX from the [New York Stock Exchange](/new-york-stock-exchange/) and [Nasdaq](/nasdaq/).
 
 ## Regulatory and competitive context
 
-The TSX is regulated by provincial securities regulators, primarily Ontario's Ontario Securities Commission (OSC), in a federally coordinated system. This multi-level regulatory approach is typical of Canadian institutions. The exchange competes for listings against the [New York Stock Exchange](/new-york-stock-exchange), [Nasdaq](/nasdaq), and the [London Stock Exchange](/london-stock-exchange), particularly for resource companies with global operations.
+The TSX is regulated by provincial securities regulators, primarily Ontario's Ontario Securities Commission (OSC), in a federally coordinated system. This multi-level regulatory approach is typical of Canadian institutions. The exchange competes for listings against the [New York Stock Exchange](/new-york-stock-exchange/), [Nasdaq](/nasdaq/), and the [London Stock Exchange](/london-stock-exchange/), particularly for resource companies with global operations.
 
 Many Canadian companies maintain dual listings on the TSX and a US exchange (NYSE or Nasdaq), allowing them to access both Canadian domestic capital and the larger US investor base.
 
@@ -81,18 +81,18 @@ Many Canadian companies maintain dual listings on the TSX and a US exchange (NYS
 ### Closely related
 
 - TSX Venture Exchange — junior mining and resource exchange
-- [New York Stock Exchange](/new-york-stock-exchange) — major North American exchange
-- [Nasdaq](/nasdaq) — major North American exchange
-- [Stock exchange](/stock-exchange) — the category
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [New York Stock Exchange](/new-york-stock-exchange/) — major North American exchange
+- [Nasdaq](/nasdaq/) — major North American exchange
+- [Stock exchange](/stock-exchange/) — the category
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Bear market](/bear-market) · [Bull market](/bull-market) — regimes
+- [Asset allocation](/asset-allocation/) — positioning
+- [Bear market](/bear-market/) · [Bull market](/bull-market/) — regimes
 - Commodity — mining and energy exposure
 
 </div>

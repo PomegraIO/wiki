@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Taiwan Stock Exchange** (TWSE) is Taiwan's primary [stock exchange](/stock-exchange), headquartered in Taipei. Home to Taiwan Semiconductor Manufacturing Company (TSMC), MediaTek, and other global semiconductor and electronics leaders, the TWSE is one of the world's most important venues for technology and chip manufacturing investment.*
+*The **Taiwan Stock Exchange** (TWSE) is Taiwan's primary [stock exchange](/stock-exchange/), headquartered in Taipei. Home to Taiwan Semiconductor Manufacturing Company (TSMC), MediaTek, and other global semiconductor and electronics leaders, the TWSE is one of the world's most important venues for technology and chip manufacturing investment.*
 
 <div class="wiki-hatnote">
 
@@ -86,17 +86,17 @@ TWSE-listed equities are denominated in New Taiwan Dollar (NT$). Foreign investo
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [Tokyo Stock Exchange](/tokyo-stock-exchange) — Japan's largest
-- [Korea Exchange](/korean-exchange) — South Korea's exchange
-- [Shanghai Stock Exchange](/shanghai-stock-exchange) — China's largest
-- [Stock market](/stock-market) — global equities
+- [Stock exchange](/stock-exchange/) — the category
+- [Tokyo Stock Exchange](/tokyo-stock-exchange/) — Japan's largest
+- [Korea Exchange](/korean-exchange/) — South Korea's exchange
+- [Shanghai Stock Exchange](/shanghai-stock-exchange/) — China's largest
+- [Stock market](/stock-market/) — global equities
 
 ### Wider context
 
-- [Public company](/public-company) — corporations listed
+- [Public company](/public-company/) — corporations listed
 - Institutional investor — global participants
-- [Asset allocation](/asset-allocation) — positioning
+- [Asset allocation](/asset-allocation/) — positioning
 - Technology sector — semiconductor exposure
 - Supply chain — global chip manufacturing
 

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **swap** is an over-the-counter (OTC) [derivative](/option) agreement where two parties exchange cash flows over time based on different terms or references. The most common type is the [interest-rate-swap](/interest-rate-swap), where one party pays fixed interest and receives floating interest, while the counterparty does the opposite. Swaps are used to manage interest-rate risk, currency risk, and credit risk. They are customizable, settled at maturity (no daily [mark-to-market](/mark-to-market)), and typically require no [margin](/initial-margin).*
+*A **swap** is an over-the-counter (OTC) [derivative](/option/) agreement where two parties exchange cash flows over time based on different terms or references. The most common type is the [interest-rate-swap](/interest-rate-swap/), where one party pays fixed interest and receives floating interest, while the counterparty does the opposite. Swaps are used to manage interest-rate risk, currency risk, and credit risk. They are customizable, settled at maturity (no daily [mark-to-market](/mark-to-market/)), and typically require no [margin](/initial-margin/).*
 
 <aside class="wiki-infobox">
 
@@ -31,7 +31,7 @@ image: "/svg/derivatives.svg"
 | **Counterparty risk** | High; relies on bilateral credit |
 | **Clearing** | Increasingly moved to central clearing |
 | **Primary use** | Risk management and asset-liability matching |
-| **Pricing** | Based on [forward rates](/forward-contract), [yield curve](/yield-curve) |
+| **Pricing** | Based on [forward rates](/forward-contract/), [yield curve](/yield-curve/) |
 
 </aside>
 
@@ -47,20 +47,20 @@ The bank has transformed floating debt into fixed debt using the swap. No princi
 
 ## Interest-rate swaps
 
-An [interest-rate-swap](/interest-rate-swap) exchanges fixed and floating interest on a notional principal. The swap makes sense when:
+An [interest-rate-swap](/interest-rate-swap/) exchanges fixed and floating interest on a notional principal. The swap makes sense when:
 
 - A fixed-rate borrower believes rates will fall (wants floating).
 - A floating-rate borrower believes rates will rise (wants fixed).
 
-The swap lets them change exposure without refinancing the underlying [bond](/bond).
+The swap lets them change exposure without refinancing the underlying [bond](/bond/).
 
 ## Currency swaps
 
-A [currency-swap](/swap) exchanges principal and interest in two different currencies. A US company with euros pays the euro obligation by swapping with a euro company that has dollar obligations. Both benefit by accessing each other's funding markets.
+A [currency-swap](/swap/) exchanges principal and interest in two different currencies. A US company with euros pays the euro obligation by swapping with a euro company that has dollar obligations. Both benefit by accessing each other's funding markets.
 
 ## Total-return swaps and credit swaps
 
-A [total-return-swap](/swap) exchanges the return on one asset for another. A [credit-default-swap](/credit-default-swap) transfers credit risk. Swaps are flexible enough to exchange almost any cash flow.
+A [total-return-swap](/swap/) exchanges the return on one asset for another. A [credit-default-swap](/credit-default-swap/) transfers credit risk. Swaps are flexible enough to exchange almost any cash flow.
 
 ## Customization and terms
 
@@ -76,15 +76,15 @@ This flexibility makes swaps ubiquitous in fixed-income and treasury markets but
 
 ## Settlement and counterparty risk
 
-Swaps typically settle semiannually or quarterly on the payment dates. Unlike [futures](/futures-contract), which settle daily, swaps defer settlement, creating counterparty risk. If the counterparty defaults before maturity, the remaining stream of cash flows is lost.
+Swaps typically settle semiannually or quarterly on the payment dates. Unlike [futures](/futures-contract/), which settle daily, swaps defer settlement, creating counterparty risk. If the counterparty defaults before maturity, the remaining stream of cash flows is lost.
 
 Post-2008, many swaps are now cleared through central clearing houses to reduce counterparty risk.
 
 ## Pricing swaps
 
-A swap's fair fixed rate is determined by the [yield curve](/yield-curve) and [forward rates](/forward-contract). For a 5-year swap, the fixed rate is roughly the average of 5-year [forward rates](/forward-contract) implied by the spot yield curve.
+A swap's fair fixed rate is determined by the [yield curve](/yield-curve/) and [forward rates](/forward-contract/). For a 5-year swap, the fixed rate is roughly the average of 5-year [forward rates](/forward-contract/) implied by the spot yield curve.
 
-If market [forward rates](/forward-contract) rise, swap rates rise, and the swap's value to the fixed-rate receiver increases.
+If market [forward rates](/forward-contract/) rise, swap rates rise, and the swap's value to the fixed-rate receiver increases.
 
 ## See also
 
@@ -109,7 +109,7 @@ If market [forward rates](/forward-contract) rise, swap rates rise, and the swap
 
 - [Hedging](/hedge-fund/) — swap primary use
 - [Interest-rate risk](/interest-rate/) — managed via rate swaps
-- [Currency risk](/currency-option) — managed via currency swaps
+- [Currency risk](/currency-option/) — managed via currency swaps
 - [Counterparty risk](/bond/) — central issue in swaps
 
 ### Deeper context

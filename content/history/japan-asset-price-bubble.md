@@ -89,10 +89,10 @@ The Japan bubble is now seen as a prototype for modern financial crises. It show
 
 ### Wider context
 
-- [Monetary policy](/monetary-policy) — the loose rates that fueled it
+- [Monetary policy](/monetary-policy/) — the loose rates that fueled it
 - Credit expansion — the mechanism of the bubble
 - Bank — the credit intermediary
-- [Balance sheet](/balance-sheet) — contaminated by inflated assets
-- [Recession](/recession) — the macroeconomic consequence
+- [Balance sheet](/balance-sheet/) — contaminated by inflated assets
+- [Recession](/recession/) — the macroeconomic consequence
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **abnormal earnings growth (AEG) model** is a variant of the [residual income model](/residual-income-model) that shifts focus from the level of abnormal earnings to the growth in abnormal earnings. Instead of forecasting earnings and subtracting cost of equity, you forecast how earnings growth will evolve and value the company based on its capacity to grow earnings beyond the cost of capital. It is less widely used than RIM but offers an elegant framework for thinking about growth.*
+*The **abnormal earnings growth (AEG) model** is a variant of the [residual income model](/residual-income-model/) that shifts focus from the level of abnormal earnings to the growth in abnormal earnings. Instead of forecasting earnings and subtracting cost of equity, you forecast how earnings growth will evolve and value the company based on its capacity to grow earnings beyond the cost of capital. It is less widely used than RIM but offers an elegant framework for thinking about growth.*
 
 ## The intuition
 
@@ -96,21 +96,21 @@ An AEG model is sometimes used as a reality check on DCF. If a DCF implies 15% p
 
 ### Closely related
 
-- [Residual income model](/residual-income-model) — the parent framework
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — equivalent if assumptions align
+- [Residual income model](/residual-income-model/) — the parent framework
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — equivalent if assumptions align
 - Earnings growth — the metric being valued
-- [Cost of equity](/cost-of-equity) — the baseline return
+- [Cost of equity](/cost-of-equity/) — the baseline return
 
 ### Components and concepts
 
-- [Earnings per share](/earnings-per-share) — the starting metric
+- [Earnings per share](/earnings-per-share/) — the starting metric
 - Return on equity — determines whether growth is abnormal
 - Book value — foundation of equity value
 
 ### Testing and validation
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — growth-rate sensitivity
-- [Football field valuation](/football-field-valuation) — combining methods
-- [Scenario valuation](/scenario-valuation) — discrete growth scenarios
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — growth-rate sensitivity
+- [Football field valuation](/football-field-valuation/) — combining methods
+- [Scenario valuation](/scenario-valuation/) — discrete growth scenarios
 
 </div>

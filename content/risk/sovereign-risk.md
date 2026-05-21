@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Sovereign risk is the risk that a government — a sovereign nation — will default on its debt obligations or be unable or unwilling to pay them in full and on time. It is a subset of [credit-risk](/credit-risk), but with the added complexity that sovereigns cannot be liquidated or forced into bankruptcy the way corporations can.*
+*Sovereign risk is the risk that a government — a sovereign nation — will default on its debt obligations or be unable or unwilling to pay them in full and on time. It is a subset of [credit-risk](/credit-risk/), but with the added complexity that sovereigns cannot be liquidated or forced into bankruptcy the way corporations can.*
 
 <div class="wiki-hatnote">
 
-This entry covers the default risk of governments. For the broader set of risks in a country from political instability, see [country-risk](/country-risk); for the risk of a corporate borrower, see [credit-risk](/credit-risk).
+This entry covers the default risk of governments. For the broader set of risks in a country from political instability, see [country-risk](/country-risk/); for the risk of a corporate borrower, see [credit-risk](/credit-risk/).
 
 </div>
 
@@ -29,7 +29,7 @@ This entry covers the default risk of governments. For the broader set of risks 
 |   |   |
 |---|---|
 | **What it is** | Probability a government defaults on its debt |
-| **Determined by** | Economic strength, [currency](/currency-risk) control, political stability |
+| **Determined by** | Economic strength, [currency](/currency-risk/) control, political stability |
 | **Special feature** | Sovereigns control currency, taxation, and law; cannot be forced into bankruptcy |
 | **Priced into** | Yield spreads; higher yields for riskier governments |
 | **High risk examples** | Argentina, Venezuela, Lebanon, Greece (post-2010) |
@@ -66,13 +66,13 @@ Several factors influence the probability a sovereign will default:
 
 Sovereign risk was an afterthought in developed nations until the 2008 financial crisis. But when Greece's debt was revealed to be much worse than reported, it became clear that even developed-world sovereigns could default. Greece did so (in a restructuring) in 2012. Ireland and Portugal teetered on the edge and required international bailouts.
 
-This prompted regulators to pay closer attention to sovereign risk. The [European Central Bank](/central-bank) and International Monetary Fund played major stabilizing roles. The lesson was that sovereign risk is not zero in developed nations — it is just very, very low because of currency control and strong institutions.
+This prompted regulators to pay closer attention to sovereign risk. The [European Central Bank](/central-bank/) and International Monetary Fund played major stabilizing roles. The lesson was that sovereign risk is not zero in developed nations — it is just very, very low because of currency control and strong institutions.
 
 ## Measuring and pricing sovereign risk
 
 The main tools are yields and credit default swaps:
 
-- **Yield spreads.** A US Treasury yielding 4% and a Greek government [bond](/bond) yielding 8% creates a 400 basis point spread. That spread reflects market expectations of default risk, recovery rate, and inflation risk.
+- **Yield spreads.** A US Treasury yielding 4% and a Greek government [bond](/bond/) yielding 8% creates a 400 basis point spread. That spread reflects market expectations of default risk, recovery rate, and inflation risk.
 
 - **Credit ratings.** Agencies rate sovereign debt from AAA (safest) to D (in default). The ratings influence who can hold the debt (many pension funds must hold investment-grade securities) and the yields offered.
 
@@ -84,18 +84,18 @@ The main tools are yields and credit default swaps:
 
 ### Closely related
 
-- [Country risk](/country-risk) — broader political and economic risks in a nation
-- [Credit risk](/credit-risk) — default risk of corporations
-- [Currency risk](/currency-risk) — sovereigns that borrow in foreign currency face higher risk
-- [Yield curve](/yield-curve) — where sovereign debt is priced
-- [Central bank](/central-bank) — sovereign lender of last resort
+- [Country risk](/country-risk/) — broader political and economic risks in a nation
+- [Credit risk](/credit-risk/) — default risk of corporations
+- [Currency risk](/currency-risk/) — sovereigns that borrow in foreign currency face higher risk
+- [Yield curve](/yield-curve/) — where sovereign debt is priced
+- [Central bank](/central-bank/) — sovereign lender of last resort
 
 ### Broader context
 
-- [Systemic risk](/systemic-risk) — sovereign default can trigger systemic financial crisis
-- [Stress testing](/stress-testing) — assessing portfolio losses in default scenarios
-- [Inflation](/inflation) — sovereigns can inflate away real debt but lose credibility
-- [Interest-rate-risk](/interest-rate-risk) — affects sovereign debt values
-- [Diversification](/diversification) — reduces concentration in any single nation's bonds
+- [Systemic risk](/systemic-risk/) — sovereign default can trigger systemic financial crisis
+- [Stress testing](/stress-testing/) — assessing portfolio losses in default scenarios
+- [Inflation](/inflation/) — sovereigns can inflate away real debt but lose credibility
+- [Interest-rate-risk](/interest-rate-risk/) — affects sovereign debt values
+- [Diversification](/diversification/) — reduces concentration in any single nation's bonds
 
 </div>

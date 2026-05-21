@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*The **convexity** of a bond measures the curvature in the relationship between its price and [yield](/yield-to-maturity). The relationship is not linear — bonds with positive convexity gain more in price when yields fall than they lose when yields rise (by the same amount). Negative convexity (seen in [callable bonds](/callable-bond)) means the opposite.*
+*The **convexity** of a bond measures the curvature in the relationship between its price and [yield](/yield-to-maturity/). The relationship is not linear — bonds with positive convexity gain more in price when yields fall than they lose when yields rise (by the same amount). Negative convexity (seen in [callable bonds](/callable-bond/)) means the opposite.*
 
 <div class="wiki-hatnote">
 
-For the linear sensitivity measure, see [duration](/duration). For callable bonds with negative convexity, see [callable bond](/callable-bond).
+For the linear sensitivity measure, see [duration](/duration/). For callable bonds with negative convexity, see [callable bond](/callable-bond/).
 
 </div>
 
@@ -40,7 +40,7 @@ For the linear sensitivity measure, see [duration](/duration). For callable bond
 
 ## Linear vs. curved relationship
 
-[Duration](/duration) assumes a linear relationship between bond prices and yields: if a bond has duration 5, a 1% yield rise causes a 5% price decline; a 1% yield fall causes a 5% price gain.
+[Duration](/duration/) assumes a linear relationship between bond prices and yields: if a bond has duration 5, a 1% yield rise causes a 5% price decline; a 1% yield fall causes a 5% price gain.
 
 In reality, the relationship is curved. A bond's price-yield curve is convex (bowed outward). This means:
 
@@ -53,7 +53,7 @@ This asymmetry is **positive convexity**, and it benefits bondholders.
 
 Convexity exists because of how compounding and timing work. When yields fall significantly, the impact of lower rates on future cash flows accelerates (non-linearly). When yields rise significantly, the impact decelerates.
 
-For a [zero-coupon bond](/zero-coupon-bond), the convexity effect is powerful because all cash flow is at maturity. For a high-coupon bond, convexity is weaker because coupons are returned early.
+For a [zero-coupon bond](/zero-coupon-bond/), the convexity effect is powerful because all cash flow is at maturity. For a high-coupon bond, convexity is weaker because coupons are returned early.
 
 ## The mathematical measure
 
@@ -66,9 +66,9 @@ For practical purposes, convexity is small — typically in the range of 50–20
 **Positive convexity** (straight bonds, most securities):
 - Price gains exceed price losses (by the same yield move)
 - Favorable for bondholders
-- Common in [Treasury securities](/treasury-bond), [corporate bonds](/corporate-bond), [municipal bonds](/municipal-bond)
+- Common in [Treasury securities](/treasury-bond/), [corporate bonds](/corporate-bond/), [municipal bonds](/municipal-bond/)
 
-**Negative convexity** ([callable bonds](/callable-bond), [mortgage-backed securities](/mortgage-backed-security)):
+**Negative convexity** ([callable bonds](/callable-bond/), [mortgage-backed securities](/mortgage-backed-security/)):
 - Price gains are capped or limited
 - Price losses can exceed gains
 - Unfavorable for bondholders
@@ -76,21 +76,21 @@ For practical purposes, convexity is small — typically in the range of 50–20
 
 ## Callable bonds and negative convexity
 
-[Callable bonds](/callable-bond) have negative convexity because the issuer's call option limits bondholders' upside. When rates fall dramatically and a straight bond would appreciate sharply, the issuer calls the bond at the call price, capping the bondholder's gain.
+[Callable bonds](/callable-bond/) have negative convexity because the issuer's call option limits bondholders' upside. When rates fall dramatically and a straight bond would appreciate sharply, the issuer calls the bond at the call price, capping the bondholder's gain.
 
 Conversely, when rates rise, the bond depreciates, but the issuer doesn't call. The bondholder bears full downside.
 
-This asymmetry is why [callable bonds](/callable-bond) yield more than straight bonds — investors demand compensation for negative convexity.
+This asymmetry is why [callable bonds](/callable-bond/) yield more than straight bonds — investors demand compensation for negative convexity.
 
 ## Mortgage-backed securities and negative convexity
 
-[Mortgage-backed securities](/mortgage-backed-security) also exhibit negative convexity due to [prepayment risk](/mortgage-backed-security). When rates fall and homeowners refinance, the MBS investor receives principal early and must reinvest at lower rates. The upside from falling rates is limited.
+[Mortgage-backed securities](/mortgage-backed-security/) also exhibit negative convexity due to [prepayment risk](/mortgage-backed-security/). When rates fall and homeowners refinance, the MBS investor receives principal early and must reinvest at lower rates. The upside from falling rates is limited.
 
-This prepayment-driven negative convexity is why MBS yields more than [Treasury securities](/treasury-bond) of comparable duration.
+This prepayment-driven negative convexity is why MBS yields more than [Treasury securities](/treasury-bond/) of comparable duration.
 
 ## Portfolio convexity
 
-A portfolio's convexity is the weighted average of its holdings' convexities. A portfolio of 50% straight bonds (positive convexity) and 50% [callable bonds](/callable-bond) (negative convexity) might have near-zero or slightly negative total convexity.
+A portfolio's convexity is the weighted average of its holdings' convexities. A portfolio of 50% straight bonds (positive convexity) and 50% [callable bonds](/callable-bond/) (negative convexity) might have near-zero or slightly negative total convexity.
 
 Sophisticated bond managers actively manage portfolio convexity. In low-volatility environments, positive convexity has value; in high-volatility environments, it has more value.
 
@@ -102,7 +102,7 @@ For large interest-rate moves (exceeding 1–2%), convexity becomes material. Th
 
 For a small move (0.5%), the convexity term is negligible. For a large move (2%), the convexity term is material.
 
-Professional bond traders and portfolio managers incorporate convexity into their analysis, particularly when they anticipate large rate moves or when evaluating [callable bonds](/callable-bond) or [mortgage-backed securities](/mortgage-backed-security).
+Professional bond traders and portfolio managers incorporate convexity into their analysis, particularly when they anticipate large rate moves or when evaluating [callable bonds](/callable-bond/) or [mortgage-backed securities](/mortgage-backed-security/).
 
 ## See also
 
@@ -110,18 +110,18 @@ Professional bond traders and portfolio managers incorporate convexity into thei
 
 ### Closely related
 
-- [Duration](/duration) — the linear sensitivity measure
-- [Callable bond](/callable-bond) — exhibits negative convexity
-- [Mortgage-backed security](/mortgage-backed-security) — prepayment creates negative convexity
-- [Yield to maturity](/yield-to-maturity) — affects convexity calculations
-- [Interest rate](/interest-rate) — moves create convexity effects
+- [Duration](/duration/) — the linear sensitivity measure
+- [Callable bond](/callable-bond/) — exhibits negative convexity
+- [Mortgage-backed security](/mortgage-backed-security/) — prepayment creates negative convexity
+- [Yield to maturity](/yield-to-maturity/) — affects convexity calculations
+- [Interest rate](/interest-rate/) — moves create convexity effects
 
 ### Wider context
 
-- [Bond](/bond) — debt securities in general
-- [Portfolio management](/hedge-fund) — convexity is managed actively
-- [Central bank](/central-bank) — rate moves create convexity exposure
-- [Volatility](/stock) — affects the value of convexity
-- [Risk management](/diversification) — convexity is one form of interest-rate risk
+- [Bond](/bond/) — debt securities in general
+- [Portfolio management](/hedge-fund/) — convexity is managed actively
+- [Central bank](/central-bank/) — rate moves create convexity exposure
+- [Volatility](/stock/) — affects the value of convexity
+- [Risk management](/diversification/) — convexity is one form of interest-rate risk
 
 </div>

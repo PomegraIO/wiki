@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-The opposite of pessimism bias. Related to overconfidence bias. For systematic underestimation of specific risks, see [base rate neglect](/base-rate-neglect).
+The opposite of pessimism bias. Related to overconfidence bias. For systematic underestimation of specific risks, see [base rate neglect](/base-rate-neglect/).
 
 </div>
 
@@ -29,10 +29,10 @@ The opposite of pessimism bias. Related to overconfidence bias. For systematic u
 |   |   |
 |---|---|
 | **What it is** | Overestimating probability of positive outcomes |
-| **Opposite of** | [Pessimism bias](/pessimism-bias) |
+| **Opposite of** | [Pessimism bias](/pessimism-bias/) |
 | **Peak in** | Bull markets; after recent wins; young investors |
 | **Investor impact** | Undiversified portfolios; underhedging; taking excessive risk |
-| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias), [illusion of control](/illusion-of-control) |
+| **Related phenomenon** | [Overconfidence bias](/overconfidence-bias/), [illusion of control](/illusion-of-control/) |
 | **Severity** | Very strong; 80% of people rate themselves above average |
 
 </aside>
@@ -63,7 +63,7 @@ Optimism bias leads to excessive risk-taking. An investor optimistically estimat
 
 Over decades, optimism bias causes investors to underestimate the risk of crashes and to hold insufficiently diversified portfolios. The crash, when it comes, is devastating.
 
-## Optimism bias vs. [overconfidence bias](/overconfidence-bias)
+## Optimism bias vs. [overconfidence bias](/overconfidence-bias/)
 
 Optimism bias is about overestimating positive outcomes. Overconfidence bias is about overestimating your ability to predict or control outcomes. They often occur together: you are optimistic the company will succeed (optimism bias) and confident in your ability to pick winners (overconfidence bias).
 
@@ -81,18 +81,18 @@ Optimism bias is about overestimating positive outcomes. Overconfidence bias is 
 
 ### Closely related
 
-- [Pessimism bias](/pessimism-bias) — the opposite tendency
-- [Overconfidence bias](/overconfidence-bias) — excessive confidence in forecasts
-- [Illusion of control](/illusion-of-control) — belief you can influence outcomes
-- [Base rate neglect](/base-rate-neglect) — ignoring baseline probabilities
-- [Risk underestimation](/beta) — optimism underestimates downside risk
+- [Pessimism bias](/pessimism-bias/) — the opposite tendency
+- [Overconfidence bias](/overconfidence-bias/) — excessive confidence in forecasts
+- [Illusion of control](/illusion-of-control/) — belief you can influence outcomes
+- [Base rate neglect](/base-rate-neglect/) — ignoring baseline probabilities
+- [Risk underestimation](/beta/) — optimism underestimates downside risk
 
 ### Wider context
 
-- [Bull market](/bull-market) — where optimism bias is strongest
-- [Bubbles](/bull-market) — inflated by collective optimism bias
-- [Diversification](/diversification) — hedges against optimism-driven under-hedging
-- [Risk management](/beta) — accounts for optimism bias
+- [Bull market](/bull-market/) — where optimism bias is strongest
+- [Bubbles](/bull-market/) — inflated by collective optimism bias
+- [Diversification](/diversification/) — hedges against optimism-driven under-hedging
+- [Risk management](/beta/) — accounts for optimism bias
 - Animal spirits — collective optimism and pessimism cycles
 
 </div>

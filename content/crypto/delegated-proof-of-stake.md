@@ -15,7 +15,7 @@ image: "/svg/crypto.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers delegated proof-of-stake as a mechanism. For standard proof-of-stake, see [proof-of-stake](/proof-of-stake); for proof-of-authority, see [proof-of-authority](/proof-of-authority).
+This entry covers delegated proof-of-stake as a mechanism. For standard proof-of-stake, see [proof-of-stake](/proof-of-stake/); for proof-of-authority, see [proof-of-authority](/proof-of-authority/).
 
 </div>
 
@@ -81,7 +81,7 @@ Additionally, delegates have incentives to centralise: a single delegate operato
 | **Governance** | Limited (protocol-level) | Extensive (on-chain voting) |
 | **Centralisation risk** | Moderate | Higher |
 
-Standard proof-of-stake (like [Ethereum](/ethereum)) has more validators, making it more decentralised but slower. DPoS is more efficient but more centralised.
+Standard proof-of-stake (like [Ethereum](/ethereum/)) has more validators, making it more decentralised but slower. DPoS is more efficient but more centralised.
 
 ## Criticism
 
@@ -111,15 +111,15 @@ Others use **quadratic voting**, where voting power is the square root of token 
 
 ### Closely related
 
-- [Proof-of-stake](/proof-of-stake) — the parent mechanism
-- [Validator](/validator) — delegates who validate
+- [Proof-of-stake](/proof-of-stake/) — the parent mechanism
+- [Validator](/validator/) — delegates who validate
 - Governance token — used for voting in DPoS
-- [Proof-of-authority](/proof-of-authority) — another variant
+- [Proof-of-authority](/proof-of-authority/) — another variant
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Staking](/staking) — earning rewards through delegation
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where governance tokens trade
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Staking](/staking/) — earning rewards through delegation
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where governance tokens trade
 
 </div>

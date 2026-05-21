@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*A **hybrid REIT** combines elements of [equity REITs](/equity-reit) and [mortgage REITs](/mortgage-reit), holding both physical real estate properties and mortgages or mortgage-backed securities. This strategy aims to capture stability from property ownership while capturing higher yield from mortgage interest.*
+*A **hybrid REIT** combines elements of [equity REITs](/equity-reit/) and [mortgage REITs](/mortgage-reit/), holding both physical real estate properties and mortgages or mortgage-backed securities. This strategy aims to capture stability from property ownership while capturing higher yield from mortgage interest.*
 
 <div class="wiki-hatnote">
 
-Hybrid REITs are less common than pure equity REITs. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For the pure versions, see [equity REIT](/equity-reit) and [mortgage REIT](/mortgage-reit).
+Hybrid REITs are less common than pure equity REITs. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For the pure versions, see [equity REIT](/equity-reit/) and [mortgage REIT](/mortgage-reit/).
 
 </div>
 
@@ -85,21 +85,21 @@ The hybrid approach requires exceptional management and a clear strategic thesis
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — pure property-owning REITs
-- [Mortgage REIT](/mortgage-reit) — pure mortgage-holding REITs
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — pure property-owning REITs
+- [Mortgage REIT](/mortgage-reit/) — pure mortgage-holding REITs
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — the return on equity property
-- [Net operating income](/net-operating-income) — the cash from properties
-- [Mortgage-backed security](/mortgage-backed-security) — the mortgages in a hybrid portfolio
+- [Cap rate](/cap-rate/) — the return on equity property
+- [Net operating income](/net-operating-income/) — the cash from properties
+- [Mortgage-backed security](/mortgage-backed-security/) — the mortgages in a hybrid portfolio
 
 ### Context and comparison
 
-- [Diversification](/diversification) — why mixing asset classes reduces risk
-- [Asset allocation](/asset-allocation) — how to weight different real estate types
-- [Dividend](/dividend) — the primary return from hybrid REITs
-- [Interest rate](/interest-rate) — affects both property values and mortgage yields
+- [Diversification](/diversification/) — why mixing asset classes reduces risk
+- [Asset allocation](/asset-allocation/) — how to weight different real estate types
+- [Dividend](/dividend/) — the primary return from hybrid REITs
+- [Interest rate](/interest-rate/) — affects both property values and mortgage yields
 
 </div>

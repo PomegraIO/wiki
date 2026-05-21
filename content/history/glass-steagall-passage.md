@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the passage and initial effects of Glass-Steagall. For its repeal and the consequences, see [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act); for the broader regulatory response to the Depression, see financial regulation.
+This entry covers the passage and initial effects of Glass-Steagall. For its repeal and the consequences, see [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/); for the broader regulatory response to the Depression, see financial regulation.
 
 </div>
 
@@ -80,7 +80,7 @@ The debate over whether Glass-Steagall should be reinstated continues. Some econ
 ### Closely related
 
 - FDIC — created on the same day as Glass-Steagall
-- [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act) — repealed Glass-Steagall in 1999
+- [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) — repealed Glass-Steagall in 1999
 - Banking regulation — the broader regulatory framework
 
 ### Wider context
@@ -89,6 +89,6 @@ The debate over whether Glass-Steagall should be reinstated continues. Some econ
 - Investment bank — the securities side
 - Financial regulation — the overarching domain
 - Bank run — the problem it aimed to prevent
-- [Great Depression](/great-depression) — the crisis that motivated it
+- [Great Depression](/great-depression/) — the crisis that motivated it
 
 </div>

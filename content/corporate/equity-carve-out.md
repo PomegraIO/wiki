@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*An **equity carve-out** is a partial [initial public offering](/initial-public-offering) of a subsidiary or division where the parent company initially retains a controlling or majority stake. The parent company creates a new entity for the division, takes it public via an IPO (typically selling 20–30% of shares), and the public shareholders own a minority stake while the parent retains majority control. Equity carve-outs allow parent companies to monetize divisions without fully separating them, to access capital for the division, and to create incentive structures for division management.*
+*An **equity carve-out** is a partial [initial public offering](/initial-public-offering/) of a subsidiary or division where the parent company initially retains a controlling or majority stake. The parent company creates a new entity for the division, takes it public via an IPO (typically selling 20–30% of shares), and the public shareholders own a minority stake while the parent retains majority control. Equity carve-outs allow parent companies to monetize divisions without fully separating them, to access capital for the division, and to create incentive structures for division management.*
 
 <div class="wiki-hatnote">
 
-This entry covers equity carve-outs as a partial separation and monetization mechanism. For full separations, see [spinoff](/spinoff) and [split-off](/split-off); for traditional IPOs, see [initial public offering](/initial-public-offering).
+This entry covers equity carve-outs as a partial separation and monetization mechanism. For full separations, see [spinoff](/spinoff/) and [split-off](/split-off/); for traditional IPOs, see [initial public offering](/initial-public-offering/).
 
 </div>
 
@@ -33,17 +33,17 @@ This entry covers equity carve-outs as a partial separation and monetization mec
 | **Public stake post-IPO** | Typically 20–30% |
 | **Capital raise** | Moderate (partial IPO proceeds) |
 | **Parent control** | Retained; can consolidate subsidiary financials |
-| **Exit path** | Parent can later do full [spinoff](/spinoff) or sell remaining stake |
-| **Alternative** | Full [spinoff](/spinoff), [divestiture](/divestiture) |
+| **Exit path** | Parent can later do full [spinoff](/spinoff/) or sell remaining stake |
+| **Alternative** | Full [spinoff](/spinoff/), [divestiture](/divestiture/) |
 
 </aside>
 
 ## How an equity carve-out works
 
-A parent company operates a division that has independent potential. Rather than do a full [spinoff](/spinoff) (where parent loses control) or a [divestiture](/divestiture) (where parent sells the entire division), the parent does an equity carve-out:
+A parent company operates a division that has independent potential. Rather than do a full [spinoff](/spinoff/) (where parent loses control) or a [divestiture](/divestiture/) (where parent sells the entire division), the parent does an equity carve-out:
 
 1. **Create subsidiary.** Parent transfers the division into a new subsidiary.
-2. **IPO and stake offering.** The subsidiary is taken public via [IPO](/initial-public-offering), with parent selling shares to the public (typically 20–30% of the subsidiary).
+2. **IPO and stake offering.** The subsidiary is taken public via [IPO](/initial-public-offering/), with parent selling shares to the public (typically 20–30% of the subsidiary).
 3. **Parent retains control.** Parent retains 70–80% of the subsidiary and maintains voting control.
 4. **Subsidiary governance.** The subsidiary has a board of directors with directors appointed by public shareholders (usually 1–2 board seats) and parent shareholders (3–4 board seats).
 5. **Minority interests.** The public minority shareholders own a stake and can participate in the company, but cannot control major decisions (parent has majority voting).
@@ -68,7 +68,7 @@ Post-carve-out:
 
 **Capital raise.** The parent raises capital ($500 million in example) from the IPO without giving up control or the entire division.
 
-**Public value creation.** The parent can later do a full [spinoff](/spinoff), and if the division has appreciated, the full spinoff value exceeds the initial carve-out value.
+**Public value creation.** The parent can later do a full [spinoff](/spinoff/), and if the division has appreciated, the full spinoff value exceeds the initial carve-out value.
 
 **Valuation unlock.** Public markets may value the subsidiary higher than its historical contribution to parent earnings, creating value for parent shareholders.
 
@@ -134,10 +134,10 @@ US carve-outs typically have fewer minority protections; the parent controls maj
 
 ### Closely related
 
-- [Spinoff](/spinoff) — full separation (what carve-out often precedes)
-- [Split-off](/split-off) — separation via share exchange
-- [Divestiture](/divestiture) — sale of division (vs. carve-out partial IPO)
-- [Initial public offering](/initial-public-offering) — mechanism for carve-out
+- [Spinoff](/spinoff/) — full separation (what carve-out often precedes)
+- [Split-off](/split-off/) — separation via share exchange
+- [Divestiture](/divestiture/) — sale of division (vs. carve-out partial IPO)
+- [Initial public offering](/initial-public-offering/) — mechanism for carve-out
 - Subsidiary — entity being carved out
 
 ### Wider context

@@ -66,7 +66,7 @@ Strikingly, when the same gambles are framed differently (you could also choose 
 
 **Concentration in understood sectors.** An investor familiar with tech stocks holds a concentrated tech portfolio, even though diversification would improve risk-adjusted returns. Familiar = low ambiguity = preferred.
 
-## Ambiguity aversion vs. [risk aversion](/beta)
+## Ambiguity aversion vs. [risk aversion](/beta/)
 
 Risk aversion is discomfort with variability of outcomes. Ambiguity aversion is discomfort with unknown probabilities. They overlap but are distinct. An investor can be risk-averse (preferring less volatile portfolios) and also suffer from ambiguity aversion (overweighting familiar stocks).
 
@@ -78,8 +78,8 @@ Home bias is the tendency to overweight domestic stocks. Ambiguity aversion is p
 
 - **Recognize familiar-company bias.** You naturally overweight companies you are familiar with. Force yourself to include unfamiliar ones.
 - **Use research and data.** If an emerging market or small-cap stock feels ambiguous, research it. Learn the fundamentals, read analyst reports. Ambiguity often dissolves with information, and the ambiguity premium disappears.
-- **Diversify globally.** Hold a global [diversified](/diversification) portfolio (developed + emerging markets) rather than concentrating in domestic. Accept the discomfort of ambiguity.
-- **Use [index funds](/index-fund).** An index fund contains familiar and unfamiliar stocks in proportion to market cap. This forces you to accept ambiguity as part of diversification.
+- **Diversify globally.** Hold a global [diversified](/diversification/) portfolio (developed + emerging markets) rather than concentrating in domestic. Accept the discomfort of ambiguity.
+- **Use [index funds](/index-fund/).** An index fund contains familiar and unfamiliar stocks in proportion to market cap. This forces you to accept ambiguity as part of diversification.
 - **Reframe ambiguity as opportunity.** When an asset is ambiguous, it is often mispriced — and the mispricing is an opportunity. Ambiguity = potential value, not something to avoid.
 
 ## See also
@@ -90,16 +90,16 @@ Home bias is the tendency to overweight domestic stocks. Ambiguity aversion is p
 
 - Home bias — domestic stocks are familiar, low-ambiguity
 - Familiarity bias — overweighting what you know
-- [Overconfidence bias](/overconfidence-bias) — false confidence in known probabilities
-- [Ellsberg paradox](/ambiguity-aversion) — the classic illustration
-- [Risk vs. uncertainty](/beta) — Knightian distinction related to ambiguity
+- [Overconfidence bias](/overconfidence-bias/) — false confidence in known probabilities
+- [Ellsberg paradox](/ambiguity-aversion/) — the classic illustration
+- [Risk vs. uncertainty](/beta/) — Knightian distinction related to ambiguity
 
 ### Wider context
 
-- [Diversification](/diversification) — requires accepting ambiguous foreign stocks
-- [Emerging markets](/recession) — high ambiguity, often overlooked
-- [Global investing](/stock-market) — requires overcoming ambiguity aversion
+- [Diversification](/diversification/) — requires accepting ambiguous foreign stocks
+- [Emerging markets](/recession/) — high ambiguity, often overlooked
+- [Global investing](/stock-market/) — requires overcoming ambiguity aversion
 - Behavioral asset pricing — ambiguity aversion creates mispricing
-- [Concentration risk](/beta) — driven partly by ambiguity aversion toward familiar stocks
+- [Concentration risk](/beta/) — driven partly by ambiguity aversion toward familiar stocks
 
 </div>

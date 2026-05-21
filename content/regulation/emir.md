@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[EMIR](/emir) is the European Market Infrastructure Regulation, which regulates over-the-counter (OTC) derivatives in the European Union. Implemented in 2012 and updated in 2019, EMIR requires that most standardized derivatives be cleared through central counterparties, reported to trade repositories, and subject to risk-management requirements. EMIR is the European equivalent of Title VII of the [Dodd-Frank Act](/dodd-frank-act), which regulates swaps in the US. Together with [MiFID II](/mifid-ii), EMIR forms the backbone of EU financial regulation.*
+*[EMIR](/emir/) is the European Market Infrastructure Regulation, which regulates over-the-counter (OTC) derivatives in the European Union. Implemented in 2012 and updated in 2019, EMIR requires that most standardized derivatives be cleared through central counterparties, reported to trade repositories, and subject to risk-management requirements. EMIR is the European equivalent of Title VII of the [Dodd-Frank Act](/dodd-frank-act/), which regulates swaps in the US. Together with [MiFID II](/mifid-ii/), EMIR forms the backbone of EU financial regulation.*
 
 <div class="wiki-hatnote">
 
-EMIR regulates EU derivatives. The [Dodd-Frank Act](/dodd-frank-act) regulates US derivatives. [MiFID II](/mifid-ii) regulates EU securities markets.
+EMIR regulates EU derivatives. The [Dodd-Frank Act](/dodd-frank-act/) regulates US derivatives. [MiFID II](/mifid-ii/) regulates EU securities markets.
 
 </div>
 
@@ -65,7 +65,7 @@ There is also a hedge exemption: companies using derivatives to hedge operationa
 
 ## Cross-border implications and extra-territoriality
 
-EMIR applies to EU firms and, to some extent, to non-EU firms dealing with EU counterparties. This has created tension with the US, which has its own derivatives regulation (the [Dodd-Frank Act](/dodd-frank-act)). EU and US regulators have tried to coordinate — accepting each other's rules as equivalent in some cases — but some duplicative compliance is unavoidable.
+EMIR applies to EU firms and, to some extent, to non-EU firms dealing with EU counterparties. This has created tension with the US, which has its own derivatives regulation (the [Dodd-Frank Act](/dodd-frank-act/)). EU and US regulators have tried to coordinate — accepting each other's rules as equivalent in some cases — but some duplicative compliance is unavoidable.
 
 A global derivatives dealer must comply with EMIR for EU trades and Dodd-Frank for US trades, and the rules differ (which clearinghouses qualify, margin calculation methods, etc.).
 
@@ -79,16 +79,16 @@ EMIR is administered by national regulators and coordinated by ESMA. ESMA has re
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — US derivatives regulation
-- [MiFID II](/mifid-ii) — EU securities regulation, complements EMIR
+- [Dodd-Frank Act](/dodd-frank-act/) — US derivatives regulation
+- [MiFID II](/mifid-ii/) — EU securities regulation, complements EMIR
 - Central counterparty — core institution in EMIR
-- [Swap](/swap) — primary instrument regulated
+- [Swap](/swap/) — primary instrument regulated
 - European Securities and Markets Authority — administers EMIR
 
 ### Wider context
 
 - Derivatives — the instruments EMIR regulates
-- [Counterparty risk](/counterparty-risk) — what EMIR aims to mitigate
+- [Counterparty risk](/counterparty-risk/) — what EMIR aims to mitigate
 - Clearing — core mechanism
 - Financial stability — EMIR's objective
 

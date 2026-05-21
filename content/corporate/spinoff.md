@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **spinoff** (or **spin-off**) is a corporate action in which a parent company separates one of its business units or divisions into a new, independent public company and distributes shares of the new company to its shareholders. After a spinoff, shareholders of the parent own shares in both the parent company and the newly independent company. Spinoffs allow different business units to have independent capital structures, management, and strategies. They are distinct from [equity carve-outs](/equity-carve-out), where the parent retains a stake, and [split-offs](/split-off), where shareholders trade parent shares for spun-off shares.*
+*A **spinoff** (or **spin-off**) is a corporate action in which a parent company separates one of its business units or divisions into a new, independent public company and distributes shares of the new company to its shareholders. After a spinoff, shareholders of the parent own shares in both the parent company and the newly independent company. Spinoffs allow different business units to have independent capital structures, management, and strategies. They are distinct from [equity carve-outs](/equity-carve-out/), where the parent retains a stake, and [split-offs](/split-off/), where shareholders trade parent shares for spun-off shares.*
 
 <div class="wiki-hatnote">
 
-This entry covers spinoffs as a corporate separation mechanism. For related separations, see [equity carve-out](/equity-carve-out) and [split-off](/split-off); for related transactions, see [divestiture](/divestiture) and [split-up](/split-up).
+This entry covers spinoffs as a corporate separation mechanism. For related separations, see [equity carve-out](/equity-carve-out/) and [split-off](/split-off/); for related transactions, see [divestiture](/divestiture/) and [split-up](/split-up/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers spinoffs as a corporate separation mechanism. For related sepa
 | **Shareholder effect** | Ownership in both parent and new company (no forced choice) |
 | **Tax treatment** | Generally tax-free (under section 368) if meets criteria |
 | **Timing** | 12–18 months from announcement to separation |
-| **Related** | [Equity carve-out](/equity-carve-out), [split-off](/split-off) |
+| **Related** | [Equity carve-out](/equity-carve-out/), [split-off](/split-off/) |
 
 </aside>
 
@@ -48,7 +48,7 @@ A parent company operates multiple business units. The board decides that one un
 2. **Regulatory filings.** The parent files with the SEC describing the spinoff structure and operations of the new company.
 3. **Shareholder vote.** Shareholders of the parent vote to approve the spinoff.
 4. **Operational separation.** The healthcare division is legally separated from the parent. Contracts, employees, assets, and liabilities are transferred to the new entity.
-5. **Public offering (optional).** The new company may conduct an [IPO](/initial-public-offering) or direct listing to raise capital and establish an independent public market price. Some spinoffs skip the IPO and just distribute shares to parent shareholders.
+5. **Public offering (optional).** The new company may conduct an [IPO](/initial-public-offering/) or direct listing to raise capital and establish an independent public market price. Some spinoffs skip the IPO and just distribute shares to parent shareholders.
 6. **Distribution.** The parent distributes shares of the new company to its shareholders proportionally. A shareholder who owned 100 parent shares now owns 100 parent shares *and* 50 shares of the new company (ratio determined by the parent).
 7. **Delisting and trading.** The new company receives its own ticker and begins trading independently.
 
@@ -137,11 +137,11 @@ If the spinoff does not meet the tax-free criteria, it is taxable to shareholder
 
 ### Closely related
 
-- [Equity carve-out](/equity-carve-out) — partial separation with parent retaining stake
-- [Split-off](/split-off) — separation via share exchange (shareholders choose)
-- [Split-up](/split-up) — complete division into multiple companies
-- [Divestiture](/divestiture) — sale of division (vs. spinoff distribution)
-- [Initial public offering](/initial-public-offering) — new company may conduct IPO
+- [Equity carve-out](/equity-carve-out/) — partial separation with parent retaining stake
+- [Split-off](/split-off/) — separation via share exchange (shareholders choose)
+- [Split-up](/split-up/) — complete division into multiple companies
+- [Divestiture](/divestiture/) — sale of division (vs. spinoff distribution)
+- [Initial public offering](/initial-public-offering/) — new company may conduct IPO
 
 ### Wider context
 
@@ -149,6 +149,6 @@ If the spinoff does not meet the tax-free criteria, it is taxable to shareholder
 - Conglomerate — parent company type often broken up via spinoffs
 - Shareholder activism — pushes for spinoffs
 - Sum-of-the-parts valuation — rationale for spinoffs
-- [Merger](/merger) — could undo a spinoff
+- [Merger](/merger/) — could undo a spinoff
 
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Eugene Fama"
-description: "Economist whose efficient market hypothesis argued that [stock market](/stock-market) prices reflect all available information and cannot be beaten, a theory that reshaped how markets are understood and how they are regulated."
+description: "Economist whose efficient market hypothesis argued that [stock market](/stock-market/) prices reflect all available information and cannot be beaten, a theory that reshaped how markets are understood and how they are regulated."
 keywords:
   - fama
   - efficient market hypothesis
@@ -10,7 +10,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*Eugene Fama proved through rigorous empirical analysis that past [stock market](/stock-market) performance does not predict future returns — a finding that implied markets are efficient and that professional managers cannot beat them consistently.*
+*Eugene Fama proved through rigorous empirical analysis that past [stock market](/stock-market/) performance does not predict future returns — a finding that implied markets are efficient and that professional managers cannot beat them consistently.*
 
 <aside class="wiki-infobox">
 
@@ -41,9 +41,9 @@ His findings were striking: past price changes had no predictive power for futur
 
 ## The efficient market hypothesis
 
-Fama generalized this finding into the efficient market hypothesis (EMH), which held that [stock market](/stock-market) prices at any time reflect all available information about future cash flows. If prices reflect all information, then they are "correct" in an economic sense, and no investor can beat the market on a risk-adjusted basis.
+Fama generalized this finding into the efficient market hypothesis (EMH), which held that [stock market](/stock-market/) prices at any time reflect all available information about future cash flows. If prices reflect all information, then they are "correct" in an economic sense, and no investor can beat the market on a risk-adjusted basis.
 
-This theory was revolutionary because it implied that professional investors couldn't add value, that stock picking was futile, and that [index funds](/index-fund) were optimal. It provided intellectual support for the then-radical idea that ordinary investors should simply buy diversified index portfolios.
+This theory was revolutionary because it implied that professional investors couldn't add value, that stock picking was futile, and that [index funds](/index-fund/) were optimal. It provided intellectual support for the then-radical idea that ordinary investors should simply buy diversified index portfolios.
 
 ## Three forms of efficiency
 
@@ -56,7 +56,7 @@ Even the semi-strong form, if true, would imply that professional research and a
 
 ## The challenge to value investing
 
-Fama's theory posed a direct challenge to value investing, which holds that markets misprice securities and that disciplined analysis can identify bargains. If EMH were true, [Warren Buffett](/warren-buffett)'s results would be luck, not skill. Professional investors couldn't beat the market because the market was already correct.
+Fama's theory posed a direct challenge to value investing, which holds that markets misprice securities and that disciplined analysis can identify bargains. If EMH were true, [Warren Buffett](/warren-buffett/)'s results would be luck, not skill. Professional investors couldn't beat the market because the market was already correct.
 
 Yet Buffett and other value investors have beaten the market for decades, which seems to contradict EMH. Fama acknowledged this but argued that beating the market consistently was possible but rare, and that most apparent outperformance was statistical luck.
 
@@ -90,13 +90,13 @@ His influence on investing is paradoxical: he provided intellectual support for 
 
 ### Closely related
 
-- [Robert Shiller](/robert-shiller) — A critic of efficient markets
-- [Warren Buffett](/warren-buffett) — A challenge to EMH
-- [John Bogle](/john-bogle) — Who advocated indexing based on EMH
+- [Robert Shiller](/robert-shiller/) — A critic of efficient markets
+- [Warren Buffett](/warren-buffett/) — A challenge to EMH
+- [John Bogle](/john-bogle/) — Who advocated indexing based on EMH
 
 ### Wider context
 
-- [Stock market](/stock-market) — His subject
+- [Stock market](/stock-market/) — His subject
 - Market efficiency — His hypothesis
 - Passive investing — His implication
 - Active management — His challenge to

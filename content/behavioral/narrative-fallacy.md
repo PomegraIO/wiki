@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to representativeness heuristic and base-rate neglect. For stories that persist despite evidence, see [confirmation bias](/confirmation-bias).
+Related to representativeness heuristic and base-rate neglect. For stories that persist despite evidence, see [confirmation bias](/confirmation-bias/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to representativeness heuristic and base-rate neglect. For stories that 
 | **Driver** | Human brains are story-processing machines |
 | **Operates on** | Stock selection, startup investing, market narratives |
 | **Investor impact** | Concentrated bets on narrative stocks; chasing narratives; missing quiet winners |
-| **Related phenomenon** | [Representativeness](/representativeness-heuristic), [base rate neglect](/base-rate-neglect) |
+| **Related phenomenon** | [Representativeness](/representativeness-heuristic/), [base rate neglect](/base-rate-neglect/) |
 | **Severity** | Very strong; narratives are memorable and persuasive |
 
 </aside>
@@ -53,13 +53,13 @@ Statistical evidence — "90% of high-growth startups fail," "most active manage
 
 **Crypto narratives.** Cryptocurrency has a compelling narrative: "this is the future of money; banks will become obsolete." The narrative is memorable and appeals to certain values. It overrides base rates (most cryptocurrencies fail) and valuation (most cryptocurrencies have zero intrinsic value).
 
-## Narrative fallacy vs. [representativeness](/representativeness-heuristic)
+## Narrative fallacy vs. [representativeness](/representativeness-heuristic/)
 
 Representativeness is judging probability by similarity to a stereotype. Narrative fallacy is believing a story over statistics. They overlap but are distinct. A narrative stock is representative of the "successful startup" stereotype, which drives representativeness error. But the narrative fallacy is specifically about the power of the story.
 
-## Narrative fallacy and [confirmation bias](/confirmation-bias)
+## Narrative fallacy and [confirmation bias](/confirmation-bias/)
 
-Once you believe in a narrative, [confirmation bias](/confirmation-bias) reinforces it. You seek confirming evidence (positive news) and ignore disconfirming evidence (negative news). The narrative becomes locked in place.
+Once you believe in a narrative, [confirmation bias](/confirmation-bias/) reinforces it. You seek confirming evidence (positive news) and ignore disconfirming evidence (negative news). The narrative becomes locked in place.
 
 ## Market-level narratives
 
@@ -69,7 +69,7 @@ Narratives also operate at the market level. "The Fed will cut rates soon" is a 
 
 - **Separate the narrative from the facts.** Write down the investment thesis without the narrative. "This is a good company" vs. "this company will grow 30% annually for the next five years." The latter is testable; the former is a narrative.
 - **Check the base rate.** What is the historical success rate for companies with this narrative? (Startups: 10%. Biotech: 10%. Crypto: <5%.) Does the base rate support the probability you are assigning?
-- **Value the company separately from the narrative.** Use [valuation](/price-to-earnings-ratio) metrics: [price-to-earnings ratio](/price-to-earnings-ratio), [price-to-sales](/price-to-earnings-ratio), [dividend yield](/dividend). Do not rely on the narrative.
+- **Value the company separately from the narrative.** Use [valuation](/price-to-earnings-ratio/) metrics: [price-to-earnings ratio](/price-to-earnings-ratio/), [price-to-sales](/price-to-earnings-ratio/), [dividend yield](/dividend/). Do not rely on the narrative.
 - **Be skeptical of vivid stories.** The more compelling the story, the more likely it is a narrative fallacy. Boring, quiet wins often beat exciting narratives.
 - **Track narrative stocks.** Identify narrative stocks you see in the market. Track their performance over 5-10 years. You will find that most underperform, despite the compelling stories.
 - **Diversify.** Rather than betting on a narrative, hold a diversified portfolio. This reduces exposure to any single false narrative.
@@ -80,16 +80,16 @@ Narratives also operate at the market level. "The Fed will cut rates soon" is a 
 
 ### Closely related
 
-- [Representativeness heuristic](/representativeness-heuristic) — judging by similarity to stereotype
-- [Base rate neglect](/base-rate-neglect) — ignoring baseline probabilities
-- [Confirmation bias](/confirmation-bias) — seeking confirming evidence for narratives
-- [Availability heuristic](/availability-heuristic) — vivid narratives feel more likely
-- [Overconfidence bias](/overconfidence-bias) — narrative supports false confidence
+- [Representativeness heuristic](/representativeness-heuristic/) — judging by similarity to stereotype
+- [Base rate neglect](/base-rate-neglect/) — ignoring baseline probabilities
+- [Confirmation bias](/confirmation-bias/) — seeking confirming evidence for narratives
+- [Availability heuristic](/availability-heuristic/) — vivid narratives feel more likely
+- [Overconfidence bias](/overconfidence-bias/) — narrative supports false confidence
 
 ### Wider context
 
-- [Stock picking](/stock) — chasing narrative stocks
-- [Startup investing](/initial-public-offering) — narrative-driven valuations
+- [Stock picking](/stock/) — chasing narrative stocks
+- [Startup investing](/initial-public-offering/) — narrative-driven valuations
 - Market sentiment indicators — narratives shape sentiment
 - Behavioral asset pricing — how narratives affect prices
 - Madness of crowds — collective narrative belief

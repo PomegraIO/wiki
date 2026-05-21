@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1998 Russian crisis. For the related hedge fund near-collapse, see [Long-Term Capital Management](/long-term-capital-management); for the broader emerging market turmoil, see currency crisis.
+This entry covers the 1998 Russian crisis. For the related hedge fund near-collapse, see [Long-Term Capital Management](/long-term-capital-management/); for the broader emerging market turmoil, see currency crisis.
 
 </div>
 
@@ -83,9 +83,9 @@ The Russian crisis of 1998 is remembered as a turning point in understanding eme
 
 ### Closely related
 
-- [Long-Term Capital Management](/long-term-capital-management) — the hedge fund that nearly collapsed
-- [Asian Financial Crisis](/asian-financial-crisis) — the contagion source
-- [Sovereign debt](/sovereign-debt) — Russia's defaulted obligations
+- [Long-Term Capital Management](/long-term-capital-management/) — the hedge fund that nearly collapsed
+- [Asian Financial Crisis](/asian-financial-crisis/) — the contagion source
+- [Sovereign debt](/sovereign-debt/) — Russia's defaulted obligations
 
 ### Wider context
 

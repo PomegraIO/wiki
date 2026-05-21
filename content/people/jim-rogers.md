@@ -79,14 +79,14 @@ His influence is less about specific trades and more about a methodology: look b
 
 ### Closely related
 
-- [George Soros](/george-soros) — His original Quantum Fund partner
-- [Paul Tudor Jones](/paul-tudor-jones) — A contemporary commodities-influenced trader
-- [Ray Dalio](/ray-dalio) — A systems-thinking macro investor
-- [Stanley Druckenmiller](/stanley-druckenmiller) — Another macro trader
+- [George Soros](/george-soros/) — His original Quantum Fund partner
+- [Paul Tudor Jones](/paul-tudor-jones/) — A contemporary commodities-influenced trader
+- [Ray Dalio](/ray-dalio/) — A systems-thinking macro investor
+- [Stanley Druckenmiller](/stanley-druckenmiller/) — Another macro trader
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Commodity — His specialty
 - Emerging markets — His focus in later years
 - Currency — Which he tracks closely

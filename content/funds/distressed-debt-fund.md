@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **distressed debt fund** is a pooled investment vehicle that buys the [bonds](/bond) and loans of financially distressed companies at steeply discounted prices, betting on recovery or restructuring. A bond trading at 50 cents on the dollar offers significant upside if the company avoids bankruptcy or successfully restructures. Distressed debt funds are illiquid, require accredited investors, and carry substantial risk.*
+*A **distressed debt fund** is a pooled investment vehicle that buys the [bonds](/bond/) and loans of financially distressed companies at steeply discounted prices, betting on recovery or restructuring. A bond trading at 50 cents on the dollar offers significant upside if the company avoids bankruptcy or successfully restructures. Distressed debt funds are illiquid, require accredited investors, and carry substantial risk.*
 
 <div class="wiki-hatnote">
 
-This entry covers distressed debt as a strategy. For the underlying bonds, see [bond](/bond); for the related restructuring process, see [leveraged buyout fund](/leveraged-buyout-fund).
+This entry covers distressed debt as a strategy. For the underlying bonds, see [bond](/bond/); for the related restructuring process, see [leveraged buyout fund](/leveraged-buyout-fund/).
 
 </div>
 
@@ -64,7 +64,7 @@ Distressed debt fills a gap:
 
 **Banks avoid distressed exposure.** Banks are conservative and rarely hold distressed debt due to regulatory capital constraints.
 
-**Traditional bond investors avoid.** Mutual funds and [ETF](/etf) managers typically buy investment-grade debt, not distressed.
+**Traditional bond investors avoid.** Mutual funds and [ETF](/etf/) managers typically buy investment-grade debt, not distressed.
 
 **Opportunity for specialists.** Investors with the expertise and risk tolerance to analyze distressed companies can extract returns from the gap between price and recovery value.
 
@@ -74,7 +74,7 @@ Profits come from several mechanisms:
 
 **Recovery trading.** Buy at $60, sell at $80 as the company stabilizes. Profit from the discount narrowing without waiting for full recovery.
 
-**Interest income.** Distressed [bonds](/bond) offer high [yield](/bond) (12%–20%) due to default risk. Even if you lose 10% of principal, the high interest can offset losses.
+**Interest income.** Distressed [bonds](/bond/) offer high [yield](/bond/) (12%–20%) due to default risk. Even if you lose 10% of principal, the high interest can offset losses.
 
 **Equity upside.** In some restructurings, distressed debt converts to equity. If the equity rallies, distressed debt holders (now equity owners) profit.
 
@@ -140,18 +140,18 @@ Retail investors should avoid direct distressed debt investing due to:
 
 ### Closely related
 
-- [Private equity fund](/private-equity-fund) — uses distressed debt insights
-- [Leveraged buyout fund](/leveraged-buyout-fund) — often buys distressed companies
-- [Bond](/bond) — underlying distressed investments
-- [High yield bond](/bond) — related fixed-income category
-- [Fund of funds](/fund-of-funds) — pools distressed fund investments
+- [Private equity fund](/private-equity-fund/) — uses distressed debt insights
+- [Leveraged buyout fund](/leveraged-buyout-fund/) — often buys distressed companies
+- [Bond](/bond/) — underlying distressed investments
+- [High yield bond](/bond/) — related fixed-income category
+- [Fund of funds](/fund-of-funds/) — pools distressed fund investments
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — related alternative strategy
-- [Bankruptcy](/option) — central to distressed debt outcomes
-- [Interest rate](/interest-rate) — impacts distressed valuations
-- [Recession](/recession) — creates distressed opportunities
-- [Yield](/bond) — distressed debt's return driver
+- [Hedge fund](/hedge-fund/) — related alternative strategy
+- [Bankruptcy](/option/) — central to distressed debt outcomes
+- [Interest rate](/interest-rate/) — impacts distressed valuations
+- [Recession](/recession/) — creates distressed opportunities
+- [Yield](/bond/) — distressed debt's return driver
 
 </div>

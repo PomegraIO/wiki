@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Continuing jobless claims measure the number of people receiving [unemployment insurance](/unemployment-rate) benefits in a given week. Unlike [initial jobless claims](/initial-jobless-claims), which count new filings, continuing claims count ongoing beneficiaries. This metric reveals how quickly [unemployed](/unemployment-rate) workers find jobs and how long joblessness persists.*
+*Continuing jobless claims measure the number of people receiving [unemployment insurance](/unemployment-rate/) benefits in a given week. Unlike [initial jobless claims](/initial-jobless-claims/), which count new filings, continuing claims count ongoing beneficiaries. This metric reveals how quickly [unemployed](/unemployment-rate/) workers find jobs and how long joblessness persists.*
 
 <div class="wiki-hatnote">
 
-Continuing claims are always much higher than initial claims. In normal times, continuing claims of 1–2 million imply an average [unemployment](/unemployment-rate) of about 3–5%, depending on the benefit duration and take-up rate.
+Continuing claims are always much higher than initial claims. In normal times, continuing claims of 1–2 million imply an average [unemployment](/unemployment-rate/) of about 3–5%, depending on the benefit duration and take-up rate.
 
 </div>
 
@@ -33,7 +33,7 @@ Continuing claims are always much higher than initial claims. In normal times, c
 | **Peak (2020)** | 19.7 million (April 2020) |
 | **Reporting lag** | One week (reported Thursday for prior week) |
 | **Calculation** | Prior week's continuing + new initials − claims exhausted |
-| **Coverage rate** | Only 50–55% of [unemployed](/unemployment-rate) typically receive benefits |
+| **Coverage rate** | Only 50–55% of [unemployed](/unemployment-rate/) typically receive benefits |
 | **Cyclicality** | Strongly procyclical |
 
 </aside>
@@ -49,15 +49,15 @@ When a worker is first laid off, they file an initial claim. Each week they are 
 
 ## Relationship to unemployment
 
-Continuing claims are a stable but delayed indicator of [unemployment rate](/unemployment-rate). In steady state, the [unemployment rate](/unemployment-rate) depends on:
+Continuing claims are a stable but delayed indicator of [unemployment rate](/unemployment-rate/). In steady state, the [unemployment rate](/unemployment-rate/) depends on:
 
-**[Unemployment rate](/unemployment-rate) ≈ (Flow into unemployment) / (Flow out of unemployment)**
+**[Unemployment rate](/unemployment-rate/) ≈ (Flow into unemployment) / (Flow out of unemployment)**
 
 Or equivalently:
 
-**[Unemployment rate](/unemployment-rate) ≈ (Initial claims) × (Average duration of unemployment)**
+**[Unemployment rate](/unemployment-rate/) ≈ (Initial claims) × (Average duration of unemployment)**
 
-If initial claims are 300k per week and average unemployment duration is 20 weeks, the [unemployment](/unemployment-rate) pool will be about 6 million people. Divided by a labor force of 165 million, that is 3.6% [unemployment](/unemployment-rate).
+If initial claims are 300k per week and average unemployment duration is 20 weeks, the [unemployment](/unemployment-rate/) pool will be about 6 million people. Divided by a labor force of 165 million, that is 3.6% [unemployment](/unemployment-rate/).
 
 Continuing claims are easier to observe than duration, so economists use them as a proxy.
 
@@ -75,24 +75,24 @@ Fast declining continuing claims signal rapid job-finding; slowly declining clai
 
 A critical limitation: continuing claims only count people still *receiving* benefits. Once someone exhausts their benefits (typically after 26 weeks of regular unemployment benefits, though extensions exist in recessions), they drop from continuing claims even if still unemployed.
 
-In recessions, this creates a gap: continuing claims might fall not because jobs are found, but because people exhaust benefits. The [unemployment rate](/unemployment-rate) might stay high while continuing claims fall. This happened in 2009-2012: continuing claims fell while long-term [unemployment](/unemployment-rate) remained elevated.
+In recessions, this creates a gap: continuing claims might fall not because jobs are found, but because people exhaust benefits. The [unemployment rate](/unemployment-rate/) might stay high while continuing claims fall. This happened in 2009-2012: continuing claims fell while long-term [unemployment](/unemployment-rate/) remained elevated.
 
 ## Coverage of continuing claims
 
-Not all [unemployed](/unemployment-rate) people receive benefits. Coverage rates typically run 50–55% because:
+Not all [unemployed](/unemployment-rate/) people receive benefits. Coverage rates typically run 50–55% because:
 
 - **Work-sharing programs** reduce hours rather than lay off, so some are not considered unemployed.
 - **Self-employed and gig workers** do not automatically qualify for benefits.
 - **Recent movers** might not have sufficient prior earnings.
 - **Benefit denials** (fired for cause, quit without reason) reduce coverage.
 
-This means continuing claims are a noisy proxy for [unemployment rate](/unemployment-rate).
+This means continuing claims are a noisy proxy for [unemployment rate](/unemployment-rate/).
 
 ## Continuing claims and inflation
 
-Rising continuing claims signal weakness in the labor market and [disinflation](/disinflation) pressure. Falling continuing claims signal tightness and [inflation](/inflation) risk (if other indicators show low [unemployment](/unemployment-rate)).
+Rising continuing claims signal weakness in the labor market and [disinflation](/disinflation/) pressure. Falling continuing claims signal tightness and [inflation](/inflation/) risk (if other indicators show low [unemployment](/unemployment-rate/)).
 
-The [Federal Reserve](/federal-reserve) monitors continuing claims as one of many labor market indicators to assess slack and guide monetary policy.
+The [Federal Reserve](/federal-reserve/) monitors continuing claims as one of many labor market indicators to assess slack and guide monetary policy.
 
 ## COVID-19 shock
 
@@ -106,9 +106,9 @@ By 2023, continuing claims had settled back to pre-pandemic normal levels, sugge
 
 ## Alternative coverage: insured unemployment
 
-Some economists use "insured unemployment" — the ratio of continuing claims to insurable [employment](/unemployment-rate) — as a cleaner measure of labor market health. This accounts for changes in the [labor force](/labor-force-participation-rate) and benefit eligibility.
+Some economists use "insured unemployment" — the ratio of continuing claims to insurable [employment](/unemployment-rate/) — as a cleaner measure of labor market health. This accounts for changes in the [labor force](/labor-force-participation-rate/) and benefit eligibility.
 
-Insured [unemployment](/unemployment-rate) ran about 1% in 2023, double pre-pandemic levels, suggesting lingering weakness despite falling headline [unemployment rate](/unemployment-rate).
+Insured [unemployment](/unemployment-rate/) ran about 1% in 2023, double pre-pandemic levels, suggesting lingering weakness despite falling headline [unemployment rate](/unemployment-rate/).
 
 ## See also
 
@@ -116,17 +116,17 @@ Insured [unemployment](/unemployment-rate) ran about 1% in 2023, double pre-pand
 
 ### Closely related
 
-- [Initial jobless claims](/initial-jobless-claims) — new filings
-- [Unemployment rate](/unemployment-rate) — the broader measure
-- [Labor force participation rate](/labor-force-participation-rate) — denominator
+- [Initial jobless claims](/initial-jobless-claims/) — new filings
+- [Unemployment rate](/unemployment-rate/) — the broader measure
+- [Labor force participation rate](/labor-force-participation-rate/) — denominator
 - Unemployment duration — average weeks unemployed
 - Job-finding rate — flow out of unemployment
 
 ### Broader context
 
-- [Recession](/recession) — continuing claims spike sharply
-- [Business cycle](/business-cycle) — lagging indicator
-- [Inflation](/inflation) — low continuing claims suggest tight labor markets
+- [Recession](/recession/) — continuing claims spike sharply
+- [Business cycle](/business-cycle/) — lagging indicator
+- [Inflation](/inflation/) — low continuing claims suggest tight labor markets
 - Monetary policy — one of many labor indicators
 - Unemployment insurance — the benefit system
 

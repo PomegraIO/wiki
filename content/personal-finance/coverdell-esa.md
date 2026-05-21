@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For a more generous education plan, see [529 plan](/529-college-savings-plan); for general savings vehicles, see [custodial account](/custodial-account) and [UGMA/UTMA](/ugma-utma).
+For a more generous education plan, see [529 plan](/529-college-savings-plan/); for general savings vehicles, see [custodial account](/custodial-account/) and [UGMA/UTMA](/ugma-utma/).
 
 </div>
 
@@ -42,7 +42,7 @@ For a more generous education plan, see [529 plan](/529-college-savings-plan); f
 
 ## How it works
 
-A Coverdell ESA is a savings account (similar to an [IRA](/traditional-ira) in structure) that allows tax-free growth for education expenses. You contribute up to $2,000 per year per beneficiary. The money grows tax-free. Withdrawals for qualified education expenses are tax-free.
+A Coverdell ESA is a savings account (similar to an [IRA](/traditional-ira/) in structure) that allows tax-free growth for education expenses. You contribute up to $2,000 per year per beneficiary. The money grows tax-free. Withdrawals for qualified education expenses are tax-free.
 
 Example: you contribute $2,000 per year for 10 years ($20,000 total). The account grows to $28,000. You withdraw $15,000 for college tuition (tax-free). The $8,000 in earnings was never taxed.
 
@@ -63,7 +63,7 @@ These limits have not increased since 2002, making them increasingly restrictive
 - **Equipment** (computer, lab equipment).
 - **Post-secondary education** (college, vocational school).
 
-More flexible than a [529 plan](/529-college-savings-plan) in that it covers K-12 expenses, not just college.
+More flexible than a [529 plan](/529-college-savings-plan/) in that it covers K-12 expenses, not just college.
 
 ## Key limitation: age 30 expiration
 
@@ -84,11 +84,11 @@ This makes the Coverdell suitable for education planning for a known student wit
 | **State deduction** | No | Some states, yes |
 | **Simplicity** | High | Lower |
 
-For most families, a [529 plan](/529-college-savings-plan) is superior because of the higher contribution limit and no age restriction. Coverdells are useful only for lower-income families (under income limits) saving modest amounts.
+For most families, a [529 plan](/529-college-savings-plan/) is superior because of the higher contribution limit and no age restriction. Coverdells are useful only for lower-income families (under income limits) saving modest amounts.
 
 ## Rollover to 529
 
-You can roll a Coverdell ESA to a [529 plan](/529-college-savings-plan) to avoid the age 30 expiration, though check your state's plan rules on this.
+You can roll a Coverdell ESA to a [529 plan](/529-college-savings-plan/) to avoid the age 30 expiration, though check your state's plan rules on this.
 
 ## See also
 
@@ -96,14 +96,14 @@ You can roll a Coverdell ESA to a [529 plan](/529-college-savings-plan) to avoid
 
 ### Closely related
 
-- [529 college savings plan](/529-college-savings-plan) — larger, simpler education savings
-- [Custodial account](/custodial-account) — general savings for minors
-- [UGMA/UTMA](/ugma-utma) — parent-managed account for minors
+- [529 college savings plan](/529-college-savings-plan/) — larger, simpler education savings
+- [Custodial account](/custodial-account/) — general savings for minors
+- [UGMA/UTMA](/ugma-utma/) — parent-managed account for minors
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — tax-free growth potential
-- [Tax-advantaged accounts](/hsa) — account types with special tax treatment
-- [Budgeting methods](/budgeting-methods) — education as expense category
+- [Compound interest](/compound-interest/) — tax-free growth potential
+- [Tax-advantaged accounts](/hsa/) — account types with special tax treatment
+- [Budgeting methods](/budgeting-methods/) — education as expense category
 
 </div>

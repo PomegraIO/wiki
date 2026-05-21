@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Basel capital refers to the Basel Accords — a series of international regulatory frameworks, most recently **Basel III** (agreed 2010, implemented 2013+), that establish minimum [capital-adequacy](/capital-adequacy) standards for banks. These standards are agreed upon by central banks and financial regulators of the Group of Twenty (G20) nations and adopted globally.*
+*Basel capital refers to the Basel Accords — a series of international regulatory frameworks, most recently **Basel III** (agreed 2010, implemented 2013+), that establish minimum [capital-adequacy](/capital-adequacy/) standards for banks. These standards are agreed upon by central banks and financial regulators of the Group of Twenty (G20) nations and adopted globally.*
 
 <div class="wiki-hatnote">
 
-This entry covers the Basel framework. For the capital adequacy concept itself, see [capital-adequacy](/capital-adequacy); for the components of capital, see [tier-1-capital](/tier-1-capital) and [tier-2-capital](/tier-2-capital).
+This entry covers the Basel framework. For the capital adequacy concept itself, see [capital-adequacy](/capital-adequacy/); for the components of capital, see [tier-1-capital](/tier-1-capital/) and [tier-2-capital](/tier-2-capital/).
 
 </div>
 
@@ -40,11 +40,11 @@ This entry covers the Basel framework. For the capital adequacy concept itself, 
 
 ## History of Basel
 
-**Basel I (1988):** Created after bank failures in the 1980s. Set a minimum capital ratio of 8%. Introduced the concept of risk-weighted-assets — different assets carry different risk weights. A Treasury [bond](/bond) (0% weight) requires no capital; a corporate loan (100% weight) requires 8% capital.
+**Basel I (1988):** Created after bank failures in the 1980s. Set a minimum capital ratio of 8%. Introduced the concept of risk-weighted-assets — different assets carry different risk weights. A Treasury [bond](/bond/) (0% weight) requires no capital; a corporate loan (100% weight) requires 8% capital.
 
-**Basel II (2004):** More nuanced. Allowed banks to use internal models to estimate risk weights rather than applying fixed weights. Introduced capital charges for [operational-risk](/operational-risk). Unfortunately, banks' models underestimated risk, contributing to the 2008 crisis.
+**Basel II (2004):** More nuanced. Allowed banks to use internal models to estimate risk weights rather than applying fixed weights. Introduced capital charges for [operational-risk](/operational-risk/). Unfortunately, banks' models underestimated risk, contributing to the 2008 crisis.
 
-**Basel III (2010+):** Post-2008 response. Stricter capital requirements, higher quality capital, new liquidity and leverage ratios. Distinguishes [Tier-1-capital](/tier-1-capital) (common equity, retained earnings) from [Tier-2-capital](/tier-2-capital) (subordinated debt). Added liquidity-coverage-ratio (can a bank meet 30 days of outflows?) and leverage-ratio (non-risk-weighted backstop).
+**Basel III (2010+):** Post-2008 response. Stricter capital requirements, higher quality capital, new liquidity and leverage ratios. Distinguishes [Tier-1-capital](/tier-1-capital/) (common equity, retained earnings) from [Tier-2-capital](/tier-2-capital/) (subordinated debt). Added liquidity-coverage-ratio (can a bank meet 30 days of outflows?) and leverage-ratio (non-risk-weighted backstop).
 
 ## Basel III minimum capital requirements
 
@@ -128,23 +128,23 @@ Compliance is mandatory for all banks in these jurisdictions. Non-compliance res
 
 ### Closely related
 
-- [Capital-adequacy](/capital-adequacy) — the framework Basel implements
-- [Tier-1-capital](/tier-1-capital) — core capital under Basel
-- [Tier-2-capital](/tier-2-capital) — supplementary capital
+- [Capital-adequacy](/capital-adequacy/) — the framework Basel implements
+- [Tier-1-capital](/tier-1-capital/) — core capital under Basel
+- [Tier-2-capital](/tier-2-capital/) — supplementary capital
 - Risk-weighted-assets — how Basel calculates capital requirements
 - Liquidity-coverage-ratio — Basel III liquidity requirement
 
 ### Regulatory context
 
-- [Federal Reserve](/federal-reserve) — implements Basel in the US
-- [Central bank](/central-bank) — implements Basel in each country
-- [Stress-testing](/stress-testing) — ensures capital survives stress
-- [Systemic-risk](/systemic-risk) — Basel rules prevent systemic failure
-- [2008 financial crisis](/credit-risk) — prompted Basel III
+- [Federal Reserve](/federal-reserve/) — implements Basel in the US
+- [Central bank](/central-bank/) — implements Basel in each country
+- [Stress-testing](/stress-testing/) — ensures capital survives stress
+- [Systemic-risk](/systemic-risk/) — Basel rules prevent systemic failure
+- [2008 financial crisis](/credit-risk/) — prompted Basel III
 
 ### Capital components
 
-- [Common-equity-tier-1](/tier-1-capital) — highest quality capital
+- [Common-equity-tier-1](/tier-1-capital/) — highest quality capital
 - Leverage-ratio-basel — non-risk-weighted backstop
 - Supplementary-leverage-ratio — additional backstop
 

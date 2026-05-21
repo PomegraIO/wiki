@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The success of [comparable company analysis](/comparable-company-analysis) and [relative valuation](/relative-valuation) depends almost entirely on peer group selection. A poor peer group (companies that are not truly comparable) ruins the analysis. A good peer group (companies that are similar in all material respects) grounds the valuation in reality. Peer group selection is the most critical and most overlooked step in multiples analysis.*
+*The success of [comparable company analysis](/comparable-company-analysis/) and [relative valuation](/relative-valuation/) depends almost entirely on peer group selection. A poor peer group (companies that are not truly comparable) ruins the analysis. A good peer group (companies that are similar in all material respects) grounds the valuation in reality. Peer group selection is the most critical and most overlooked step in multiples analysis.*
 
 ## Dimensions of comparability
 
@@ -83,7 +83,7 @@ This transparency helps investors understand if the peer group is reasonable and
 
 Some businesses are truly unique and have no good peers. A niche specialized manufacturer or a unique franchise might not have comparables.
 
-In that case, relative valuation is not feasible. Fall back on [discounted cash flow](/discounted-cash-flow-valuation) or [scenario valuation](/scenario-valuation). Or expand the peer group to adjacent industries (e.g., a specialized equipment manufacturer might benchmark to general industrial companies).
+In that case, relative valuation is not feasible. Fall back on [discounted cash flow](/discounted-cash-flow-valuation/) or [scenario valuation](/scenario-valuation/). Or expand the peer group to adjacent industries (e.g., a specialized equipment manufacturer might benchmark to general industrial companies).
 
 ## Peer group adjustments
 
@@ -103,19 +103,19 @@ These adjustments are often 10–30%, moving multiples by 1–2 points. Keep the
 
 ### Closely related
 
-- [Comparable company analysis](/comparable-company-analysis) — executing multiples analysis
-- [Relative valuation](/relative-valuation) — the overarching method
-- [Multiples valuation](/multiples-valuation) — the parent approach
+- [Comparable company analysis](/comparable-company-analysis/) — executing multiples analysis
+- [Relative valuation](/relative-valuation/) — the overarching method
+- [Multiples valuation](/multiples-valuation/) — the parent approach
 
 ### Quality and rigor
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing peer-group sensitivity
-- [Football field valuation](/football-field-valuation) — combining multiple peer groups or approaches
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing peer-group sensitivity
+- [Football field valuation](/football-field-valuation/) — combining multiple peer groups or approaches
 
 ### Alternative approaches
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — when comps fail
-- [Scenario valuation](/scenario-valuation) — discrete cases instead of multiples
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — valuing segments separately
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — when comps fail
+- [Scenario valuation](/scenario-valuation/) — discrete cases instead of multiples
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — valuing segments separately
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*Ray Dalio built Bridgewater Associates into the world's largest [hedge fund](/hedge-fund) by combining rigorous macro analysis with systematic risk management, radical transparency as management principle, and the conviction that market cycles repeat.*
+*Ray Dalio built Bridgewater Associates into the world's largest [hedge fund](/hedge-fund/) by combining rigorous macro analysis with systematic risk management, radical transparency as management principle, and the conviction that market cycles repeat.*
 
 <aside class="wiki-infobox">
 
@@ -43,13 +43,13 @@ This crisis became generative. Rather than abandoning markets, Dalio began to st
 
 In 1975, Dalio founded Bridgewater Associates with borrowed capital. For years, it was him and a handful of researchers building models. He had no investors initially, just an obsession with understanding how economies worked. By the 1980s, he began to attract capital from institutions interested in macro trading.
 
-Bridgewater's approach was methodical. Rather than making big calls and hoping, Dalio built models that would identify macro imbalances: when [interest rates](/interest-rate) were too high, when inflation was understated, when currencies were mispriced. These models would generate positions across global markets — stocks, bonds, currencies, commodities. The fund would then execute, sometimes making trillions of dollars in notional exposure.
+Bridgewater's approach was methodical. Rather than making big calls and hoping, Dalio built models that would identify macro imbalances: when [interest rates](/interest-rate/) were too high, when inflation was understated, when currencies were mispriced. These models would generate positions across global markets — stocks, bonds, currencies, commodities. The fund would then execute, sometimes making trillions of dollars in notional exposure.
 
 ## All Weather and the principle of uncorrelated assets
 
 Dalio's most famous innovation was the All Weather portfolio, designed in 1996 for Bridgewater's own employees. The insight was that different assets perform well in different environments: stocks rally when growth accelerates, bonds when inflation falls, commodities when inflation rises, treasuries when growth decelerates. If you could build a portfolio that was equally sensitive to these four environments, it would perform reasonably in all and disastrously in none.
 
-All Weather became a template for how to think about diversification. Rather than simply owning a mix of stocks and bonds, you would own assets *chosen specifically to diversify your exposure to economic states*. This approach, radically different from traditional [asset allocation](/asset-allocation), became hugely influential and spawned dozens of similar strategies.
+All Weather became a template for how to think about diversification. Rather than simply owning a mix of stocks and bonds, you would own assets *chosen specifically to diversify your exposure to economic states*. This approach, radically different from traditional [asset allocation](/asset-allocation/), became hugely influential and spawned dozens of similar strategies.
 
 ## Radical transparency and principles
 
@@ -65,13 +65,13 @@ The book made Dalio a public intellectual, not just a trader. He gave talks abou
 
 ## The 2023 step-back
 
-In 2023, Dalio stepped back from day-to-day management of Bridgewater, handing control to a younger generation. By this point, Bridgewater had managed hundreds of billions of dollars and had become, by many measures, the world's largest and most influential [hedge fund](/hedge-fund). Yet Dalio's stepping back was notable: he had built an institution, not just a vehicle for his own money.
+In 2023, Dalio stepped back from day-to-day management of Bridgewater, handing control to a younger generation. By this point, Bridgewater had managed hundreds of billions of dollars and had become, by many measures, the world's largest and most influential [hedge fund](/hedge-fund/). Yet Dalio's stepping back was notable: he had built an institution, not just a vehicle for his own money.
 
 ## Legacy and influence
 
 Dalio's influence extends across three domains: trading strategy (macro models, All Weather diversification), organizational design (radical transparency, principles-based systems), and public intellectual discourse (economic cycles, systemic risk). He proved that a macro trader could not just be a gambler or a brilliant intuitor but could be a rigorous researcher building models of how markets work.
 
-His emphasis on studying economic history — why the 1930s happened, how the [Great Depression](/great-depression) unfolded, what conditions lead to [hyperinflation](/hyperinflation) — made historical analysis fashionable among traders. His ideas on diversification influenced a generation of portfolio managers. And his insistence that organizations should operate on principles and radical truth had ripple effects well beyond finance.
+His emphasis on studying economic history — why the 1930s happened, how the [Great Depression](/great-depression/) unfolded, what conditions lead to [hyperinflation](/hyperinflation/) — made historical analysis fashionable among traders. His ideas on diversification influenced a generation of portfolio managers. And his insistence that organizations should operate on principles and radical truth had ripple effects well beyond finance.
 
 ## See also
 
@@ -79,16 +79,16 @@ His emphasis on studying economic history — why the 1930s happened, how the [G
 
 ### Closely related
 
-- [Paul Tudor Jones](/paul-tudor-jones) — A contemporary macro trader
-- [George Soros](/george-soros) — Another macro pioneer
-- [Stanley Druckenmiller](/stanley-druckenmiller) — A macro legend
-- [Jim Rogers](/jim-rogers) — A commodities and macro trader
+- [Paul Tudor Jones](/paul-tudor-jones/) — A contemporary macro trader
+- [George Soros](/george-soros/) — Another macro pioneer
+- [Stanley Druckenmiller](/stanley-druckenmiller/) — A macro legend
+- [Jim Rogers](/jim-rogers/) — A commodities and macro trader
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
-- [Asset allocation](/asset-allocation) — Which All Weather reimagined
+- [Hedge fund](/hedge-fund/) — His vehicle
+- [Asset allocation](/asset-allocation/) — Which All Weather reimagined
 - Economic cycle — His fundamental framework
-- [Diversification](/diversification) — The principle All Weather embodied
+- [Diversification](/diversification/) — The principle All Weather embodied
 
 </div>

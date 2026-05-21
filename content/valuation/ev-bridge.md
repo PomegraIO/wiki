@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*An **EV bridge** (or enterprise-value bridge) is a simple but essential worksheet that converts between enterprise value and equity value. Most valuation models (DCF, [sum-of-the-parts](/sum-of-the-parts-valuation)) produce enterprise value. But equity investors care about equity value—what they can actually own. The bridge fills the gap.*
+*An **EV bridge** (or enterprise-value bridge) is a simple but essential worksheet that converts between enterprise value and equity value. Most valuation models (DCF, [sum-of-the-parts](/sum-of-the-parts-valuation/)) produce enterprise value. But equity investors care about equity value—what they can actually own. The bridge fills the gap.*
 
 ## The simple formula
 
@@ -117,22 +117,22 @@ This forward-looking bridge is useful in M&A scenarios and strategic planning.
 
 ### Closely related
 
-- [Enterprise value](/enterprise-value) — what valuation models calculate
+- [Enterprise value](/enterprise-value/) — what valuation models calculate
 - Equity value — what shareholders own
-- [Net debt](/net-debt) — the bridge adjustment
-- [Market capitalization](/market-capitalization) — related to equity value
+- [Net debt](/net-debt/) — the bridge adjustment
+- [Market capitalization](/market-capitalization/) — related to equity value
 
 ### Valuation frameworks
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — produces enterprise value
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — FCFF valuation
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — segment enterprise values
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — produces enterprise value
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — FCFF valuation
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — segment enterprise values
 
 ### Balance sheet items
 
 - Debt — subtracted from EV
 - Cash — added to EV
-- [Preferred stock](/preferred-stock) — subtracted from common equity value
+- [Preferred stock](/preferred-stock/) — subtracted from common equity value
 - Noncontrolling interests — subtracted from consolidated value
 
 </div>

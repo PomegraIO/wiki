@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **Arbitrage Pricing Theory (APT)** is a multi-factor framework for estimating cost of equity, developed by Stephen Ross as an alternative to the single-factor [CAPM](/capital-asset-pricing-model). Rather than assuming cost of equity depends only on market beta, APT says it depends on multiple systematic risk factors: interest rate risk, inflation risk, industry risk, etc. The theory is elegant, but in practice, identifying and measuring the factors is subjective.*
+*The **Arbitrage Pricing Theory (APT)** is a multi-factor framework for estimating cost of equity, developed by Stephen Ross as an alternative to the single-factor [CAPM](/capital-asset-pricing-model/). Rather than assuming cost of equity depends only on market beta, APT says it depends on multiple systematic risk factors: interest rate risk, inflation risk, industry risk, etc. The theory is elegant, but in practice, identifying and measuring the factors is subjective.*
 
 ## The concept
 
@@ -113,21 +113,21 @@ This is more practical than pure APT while capturing industry-specific risks.
 
 ### Closely related
 
-- [Capital asset pricing model](/capital-asset-pricing-model) — single-factor precursor
-- [Fama-French three-factor model](/fama-french-three-factor-model) — practical multi-factor model
-- [Fama-French five-factor model](/fama-french-five-factor-model) — further extension
-- [Cost of equity](/cost-of-equity) — what APT estimates
+- [Capital asset pricing model](/capital-asset-pricing-model/) — single-factor precursor
+- [Fama-French three-factor model](/fama-french-three-factor-model/) — practical multi-factor model
+- [Fama-French five-factor model](/fama-french-five-factor-model/) — further extension
+- [Cost of equity](/cost-of-equity/) — what APT estimates
 
 ### Factor concepts
 
-- [Beta](/beta) — market risk factor
-- [Systematic risk](/systematic-risk) — what factors capture
+- [Beta](/beta/) — market risk factor
+- [Systematic risk](/systematic-risk/) — what factors capture
 - Risk premium — factor return premiums
 
 ### Practical application
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — uses cost of equity
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — incorporates cost of equity
-- [Build-up method cost of equity](/build-up-method-cost-of-equity) — additive APT-like approach
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — uses cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — incorporates cost of equity
+- [Build-up method cost of equity](/build-up-method-cost-of-equity/) — additive APT-like approach
 
 </div>

@@ -55,12 +55,21 @@ LABELS = {
 }
 
 
+def _esc(s: str) -> str:
+    # SVG served as image/svg+xml is parsed as strict XML; a literal & breaks
+    # the whole document and browsers refuse to render. Escape entities in all
+    # text content, not just labels (titles can contain & too).
+    return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+
 def header(title: str, label: str) -> str:
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="{title}">
+    t = _esc(title)
+    l = _esc(label)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="{t}">
 <rect width="900" height="600" fill="{CREAM}"/>
 <line x1="60" y1="60" x2="60" y2="540" stroke="{RULE}" stroke-width="1"/>
-<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="{INK}" font-weight="600">{title}</text>
-<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="{ACCENT}" letter-spacing="3" font-weight="700">{label}</text>'''
+<text x="80" y="100" font-family="'Source Serif 4','Source Serif Pro',Georgia,serif" font-size="36" fill="{INK}" font-weight="600">{t}</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="{ACCENT}" letter-spacing="3" font-weight="700">{l}</text>'''
 
 FOOTER = f'<text x="840" y="570" font-family="ui-monospace,monospace" font-size="10" fill="{GRAPH}" letter-spacing="2" text-anchor="end" opacity="0.7">POMEGRA WIKI</text></svg>'
 

@@ -14,7 +14,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-SIPC protects customers of brokers. The [FDIC](/federal-deposit-insurance-corporation) protects depositors at banks. SIPC does not protect investors who lose money due to bad stock picks; it only protects against broker insolvency.
+SIPC protects customers of brokers. The [FDIC](/federal-deposit-insurance-corporation/) protects depositors at banks. SIPC does not protect investors who lose money due to bad stock picks; it only protects against broker insolvency.
 
 </div>
 
@@ -54,7 +54,7 @@ The process is called "Direct Payment" if SIPC pays the customer, or "Transfer" 
 
 ## What SIPC does not cover
 
-SIPC does not cover commodity futures, forex, or options traded on the side. If you trade futures through a broker, SIPC coverage for those positions is limited or nonexistent (futures are more often protected by the [CFTC](/commodity-futures-trading-commission)'s separate insurance regime through the derivatives clearing system). SIPC also does not cover a customer's failure to pay for securities — if you buy $100,000 of stock on margin and the broker cannot force you to pay, that is between the broker and you, not SIPC's problem.
+SIPC does not cover commodity futures, forex, or options traded on the side. If you trade futures through a broker, SIPC coverage for those positions is limited or nonexistent (futures are more often protected by the [CFTC](/commodity-futures-trading-commission/)'s separate insurance regime through the derivatives clearing system). SIPC also does not cover a customer's failure to pay for securities — if you buy $100,000 of stock on margin and the broker cannot force you to pay, that is between the broker and you, not SIPC's problem.
 
 Moreover, SIPC does not cover fraud by the broker's employees. If a broker runs a Ponzi scheme (as Bernie Madoff did), SIPC coverage may apply, but only to actual securities and cash held in the account. If a broker misappropriated customer funds, SIPC can only return what is actually recovered.
 
@@ -72,16 +72,16 @@ Bernard Madoff operated a Ponzi scheme that defrauded customers of roughly $65 b
 
 ### Closely related
 
-- [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation) — FDIC is the bank equivalent
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — the SEC oversees SIPC and brokers
-- [Broker](/broker) — the entity SIPC insures
+- [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) — FDIC is the bank equivalent
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — the SEC oversees SIPC and brokers
+- [Broker](/broker/) — the entity SIPC insures
 - Brokerage account — the account SIPC protects
-- [FINRA](/finra) — the self-regulatory organization for brokers
+- [FINRA](/finra/) — the self-regulatory organization for brokers
 
 ### Wider context
 
-- [Stock exchange](/stock-exchange) — where securities are traded
-- [Stock market](/stock-market) — the broader system
+- [Stock exchange](/stock-exchange/) — where securities are traded
+- [Stock market](/stock-market/) — the broader system
 - Fraud — a key risk SIPC addresses
 - Insolvency — the condition SIPC protects against
 

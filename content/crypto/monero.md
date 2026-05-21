@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **Monero** (**XMR**) is a [cryptocurrency](/cryptocurrency-exchange) explicitly designed to prioritise privacy. Unlike [Bitcoin](/bitcoin), where transactions are transparent and pseudonymous, Monero obscures the sender, recipient, and transaction amount using cryptographic techniques, making it the primary coin used for truly anonymous transfers.*
+*A **Monero** (**XMR**) is a [cryptocurrency](/cryptocurrency-exchange/) explicitly designed to prioritise privacy. Unlike [Bitcoin](/bitcoin/), where transactions are transparent and pseudonymous, Monero obscures the sender, recipient, and transaction amount using cryptographic techniques, making it the primary coin used for truly anonymous transfers.*
 
 <div class="wiki-hatnote">
 
-This entry covers Monero's privacy features and design. For transparent blockchains, see [Bitcoin](/bitcoin) or [Ethereum](/ethereum); for general cryptocurrency concepts, see [blockchain fundamentals](/blockchain-fundamentals).
+This entry covers Monero's privacy features and design. For transparent blockchains, see [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/); for general cryptocurrency concepts, see [blockchain fundamentals](/blockchain-fundamentals/).
 
 </div>
 
@@ -32,7 +32,7 @@ This entry covers Monero's privacy features and design. For transparent blockcha
 | **What it is** | A privacy-focused cryptocurrency |
 | **Ticker symbol** | XMR |
 | **Created** | April 2014 |
-| **Consensus mechanism** | [Proof-of-work](/proof-of-work) |
+| **Consensus mechanism** | [Proof-of-work](/proof-of-work/) |
 | **Hashing algorithm** | RandomX |
 | **Block time** | ~2 minutes |
 | **Privacy model** | Mandatory (not optional) |
@@ -62,7 +62,7 @@ The third tool is **confidential transactions**, which hide the amount. Bitcoin 
 
 ## The mining algorithm
 
-Monero uses the RandomX hashing algorithm, designed to be memory-hard and resistant to ASIC optimisation. The goal was to keep mining accessible to ordinary CPUs and prevent the dominance of specialised hardware seen in [Bitcoin](/bitcoin) and [Litecoin](/litecoin). While ASICs for RandomX have since been developed, the algorithm remains more CPU-friendly than SHA-256.
+Monero uses the RandomX hashing algorithm, designed to be memory-hard and resistant to ASIC optimisation. The goal was to keep mining accessible to ordinary CPUs and prevent the dominance of specialised hardware seen in [Bitcoin](/bitcoin/) and [Litecoin](/litecoin/). While ASICs for RandomX have since been developed, the algorithm remains more CPU-friendly than SHA-256.
 
 ## Regulatory challenges
 
@@ -88,17 +88,17 @@ Some jurisdictions view Monero as contraband; the Indian government temporarily 
 
 ### Closely related
 
-- [Bitcoin](/bitcoin) — transparent blockchain, contrast to Monero
-- [Proof-of-work](/proof-of-work) — Monero's consensus mechanism
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where Monero trades (with limitations)
-- [Private blockchain](/private-blockchain) — alternative privacy approach
+- [Bitcoin](/bitcoin/) — transparent blockchain, contrast to Monero
+- [Proof-of-work](/proof-of-work/) — Monero's consensus mechanism
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where Monero trades (with limitations)
+- [Private blockchain](/private-blockchain/) — alternative privacy approach
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Distributed ledger](/distributed-ledger) — Monero's network architecture
-- [Public blockchain](/public-blockchain) — Monero is still public; privacy applies to transactions
-- [Mining Bitcoin](/mining-bitcoin) — similar principles apply to Monero
-- [Difficulty adjustment](/difficulty-adjustment) — Monero uses this mechanism too
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Distributed ledger](/distributed-ledger/) — Monero's network architecture
+- [Public blockchain](/public-blockchain/) — Monero is still public; privacy applies to transactions
+- [Mining Bitcoin](/mining-bitcoin/) — similar principles apply to Monero
+- [Difficulty adjustment](/difficulty-adjustment/) — Monero uses this mechanism too
 
 </div>

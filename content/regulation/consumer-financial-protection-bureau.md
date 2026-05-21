@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Consumer Financial Protection Bureau** (CFPB) is a federal agency created by the [Dodd-Frank Act](/dodd-frank-act) in 2010 to protect consumers from unfair, deceptive, or abusive practices in financial services. It writes rules, examines lenders and servicers, and brings enforcement actions against firms that harm consumers through fraud, predatory lending, or hidden fees.*
+*The **Consumer Financial Protection Bureau** (CFPB) is a federal agency created by the [Dodd-Frank Act](/dodd-frank-act/) in 2010 to protect consumers from unfair, deceptive, or abusive practices in financial services. It writes rules, examines lenders and servicers, and brings enforcement actions against firms that harm consumers through fraud, predatory lending, or hidden fees.*
 
 <div class="wiki-hatnote">
 
-The CFPB protects consumers. The [SEC](/securities-and-exchange-commission) protects investors in securities. The [CFTC](/commodity-futures-trading-commission) protects participants in derivatives markets. These jurisdictions overlap in some areas.
+The CFPB protects consumers. The [SEC](/securities-and-exchange-commission/) protects investors in securities. The [CFTC](/commodity-futures-trading-commission/) protects participants in derivatives markets. These jurisdictions overlap in some areas.
 
 </div>
 
@@ -71,7 +71,7 @@ The CFPB has been contentious since its creation. Republicans argue it is too ag
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — the statute that created the CFPB
+- [Dodd-Frank Act](/dodd-frank-act/) — the statute that created the CFPB
 - Predatory lending — the practice the CFPB targets
 - Fair lending — the CFPB enforces fair lending laws
 - Mortgage — one of the CFPB's core jurisdictions
@@ -79,9 +79,9 @@ The CFPB has been contentious since its creation. Republicans argue it is too ag
 
 ### Wider context
 
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — Federal regulator of securities
-- [Federal Reserve Regulation](/federal-reserve-regulation) — the CFPB sits within the Fed structure
-- [Central bank](/central-bank) — the Fed provides oversight
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — Federal regulator of securities
+- [Federal Reserve Regulation](/federal-reserve-regulation/) — the CFPB sits within the Fed structure
+- [Central bank](/central-bank/) — the Fed provides oversight
 - Consumer protection — the CFPB's mandate
 
 </div>

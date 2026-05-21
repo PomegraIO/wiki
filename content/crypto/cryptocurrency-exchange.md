@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **cryptocurrency exchange** is a platform where users buy, sell, and trade cryptocurrencies. Exchanges range from [centralised exchanges](/centralized-exchange) (operated by companies with custody of user funds) to [decentralised exchanges](/decentralized-exchange) (peer-to-peer platforms using smart contracts). They are essential infrastructure for price discovery and liquidity in cryptocurrency markets.*
+*A **cryptocurrency exchange** is a platform where users buy, sell, and trade cryptocurrencies. Exchanges range from [centralised exchanges](/centralized-exchange/) (operated by companies with custody of user funds) to [decentralised exchanges](/decentralized-exchange/) (peer-to-peer platforms using smart contracts). They are essential infrastructure for price discovery and liquidity in cryptocurrency markets.*
 
 <div class="wiki-hatnote">
 
-This entry covers cryptocurrency exchanges generally. For centralised exchanges, see [centralised exchange](/centralized-exchange); for peer-to-peer trading, see [decentralised exchange](/decentralized-exchange).
+This entry covers cryptocurrency exchanges generally. For centralised exchanges, see [centralised exchange](/centralized-exchange/); for peer-to-peer trading, see [decentralised exchange](/decentralized-exchange/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers cryptocurrency exchanges generally. For centralised exchanges,
 
 ## Centralised exchanges (CEX)
 
-A [centralised exchange](/centralized-exchange) is operated by a company that holds user funds in custody. Users deposit fiat (USD, EUR) or cryptocurrency, and the exchange matches buyers and sellers.
+A [centralised exchange](/centralized-exchange/) is operated by a company that holds user funds in custody. Users deposit fiat (USD, EUR) or cryptocurrency, and the exchange matches buyers and sellers.
 
 **Advantages:**
 
@@ -61,7 +61,7 @@ A [centralised exchange](/centralized-exchange) is operated by a company that ho
 
 ## Decentralised exchanges (DEX)
 
-A [decentralised exchange](/decentralized-exchange) is a peer-to-peer platform where users trade directly from their own wallets. Trades are executed by smart contracts without an intermediary.
+A [decentralised exchange](/decentralized-exchange/) is a peer-to-peer platform where users trade directly from their own wallets. Trades are executed by smart contracts without an intermediary.
 
 **Advantages:**
 
@@ -71,27 +71,27 @@ A [decentralised exchange](/decentralized-exchange) is a peer-to-peer platform w
 
 **Disadvantages:**
 
-- **Speed.** Trades are as fast as the underlying blockchain (seconds to minutes on [Ethereum](/ethereum)).
+- **Speed.** Trades are as fast as the underlying blockchain (seconds to minutes on [Ethereum](/ethereum/)).
 - **Slippage.** Large trades may move prices unfavourably.
 - **UX complexity.** Requires wallet, gas fees, more technical skill.
 
-**Examples:** [Uniswap](/automated-market-maker) (Ethereum), Curve (stablecoins), SushiSwap.
+**Examples:** [Uniswap](/automated-market-maker/) (Ethereum), Curve (stablecoins), SushiSwap.
 
 ## Order book versus automated market makers (AMM)
 
 **Order book exchanges** (traditional): Users place buy/sell orders; when orders match, trades occur. Liquidity comes from active traders.
 
-**AMM exchanges:** Liquidity is pooled in smart contracts; trades execute against pools. Prices adjust based on supply/demand. [Uniswap](/automated-market-maker) is the primary AMM.
+**AMM exchanges:** Liquidity is pooled in smart contracts; trades execute against pools. Prices adjust based on supply/demand. [Uniswap](/automated-market-maker/) is the primary AMM.
 
 ## Liquidity and trading pairs
 
 An exchange is useful only if it has liquidity in the pairs users want. A new exchange with no trading volume is useless; established exchanges with deep liquidity are valuable.
 
-Liquidity providers earn fees by depositing capital in [liquidity pools](/liquidity-pool), creating the supply side of trades.
+Liquidity providers earn fees by depositing capital in [liquidity pools](/liquidity-pool/), creating the supply side of trades.
 
 ## Price discovery
 
-Exchanges are where cryptocurrency prices are determined. The [market price](/market-capitalization) of [Bitcoin](/bitcoin) is the price on the largest exchanges (Binance, Coinbase, etc.).
+Exchanges are where cryptocurrency prices are determined. The [market price](/market-capitalization/) of [Bitcoin](/bitcoin/) is the price on the largest exchanges (Binance, Coinbase, etc.).
 
 Price discrepancies between exchanges (arbitrage opportunities) are small but drive traders to balance supply/demand across exchanges.
 
@@ -135,15 +135,15 @@ Leverage of 10x means a 10% price move against you causes 100% loss (and you owe
 
 ### Closely related
 
-- [Centralised exchange](/centralized-exchange) — traditional order-book exchanges
-- [Decentralised exchange](/decentralized-exchange) — peer-to-peer trading
-- [Automated market maker](/automated-market-maker) — the AMM mechanism
+- [Centralised exchange](/centralized-exchange/) — traditional order-book exchanges
+- [Decentralised exchange](/decentralized-exchange/) — peer-to-peer trading
+- [Automated market maker](/automated-market-maker/) — the AMM mechanism
 
 ### Wider context
 
-- [Cryptocurrency](/blockchain-fundamentals) — what exchanges trade
-- [Bitcoin](/bitcoin), [Ethereum](/ethereum) — most traded assets
-- [Liquidity pool](/liquidity-pool) — supplies liquidity on DEX
-- [Market capitalisation](/market-capitalization) — aggregate value of cryptocurrencies
+- [Cryptocurrency](/blockchain-fundamentals/) — what exchanges trade
+- [Bitcoin](/bitcoin/), [Ethereum](/ethereum/) — most traded assets
+- [Liquidity pool](/liquidity-pool/) — supplies liquidity on DEX
+- [Market capitalisation](/market-capitalization/) — aggregate value of cryptocurrencies
 
 </div>

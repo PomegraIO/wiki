@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For longer-term trading, see [swing trading](/swing-trading). For faster trading, see [scalping](/scalping). For how orders work, see [market order](/market-order) and [limit order](/limit-order).
+For longer-term trading, see [swing trading](/swing-trading/). For faster trading, see [scalping](/scalping/). For how orders work, see [market order](/market-order/) and [limit order](/limit-order/).
 
 </div>
 
@@ -162,17 +162,17 @@ The rule remains in place and is unlikely to change soon, though proposals to mo
 
 ### Trading styles and timescales
 
-- [Scalping](/scalping) — very fast day trading
-- [Day trading](/day-order) — same-day round-trip trades
-- [Swing trading](/swing-trading) — multi-day holds
-- [Position trading](/position-trading) — longer-term holds
+- [Scalping](/scalping/) — very fast day trading
+- [Day trading](/day-order/) — same-day round-trip trades
+- [Swing trading](/swing-trading/) — multi-day holds
+- [Position trading](/position-trading/) — longer-term holds
 
 ### Order types and execution
 
-- [Market order](/market-order) — instant execution
-- [Limit order](/limit-order) — patient execution
-- [Day order](/day-order) — expires at market close
-- [GTC order](/gtc-order) — persists until canceled
+- [Market order](/market-order/) — instant execution
+- [Limit order](/limit-order/) — patient execution
+- [Day order](/day-order/) — expires at market close
+- [GTC order](/gtc-order/) — persists until canceled
 
 ### Account and regulation
 

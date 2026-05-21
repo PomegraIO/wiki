@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **Financial Accounting Standards Board** (FASB) is the independent, private organization responsible for developing and maintaining [GAAP](/generally-accepted-accounting-principles) — the accounting standards used by US companies. The SEC has designated the FASB as the official standard-setter for financial reporting by public companies. The FASB issues standards in the form of **Accounting Standards Updates** (ASUs) and organizes them in the **Accounting Standards Codification** (ASC). The FASB operates with the oversight of a larger body called the Financial Accounting Foundation, which ensures independence and due process.*
+*The **Financial Accounting Standards Board** (FASB) is the independent, private organization responsible for developing and maintaining [GAAP](/generally-accepted-accounting-principles/) — the accounting standards used by US companies. The SEC has designated the FASB as the official standard-setter for financial reporting by public companies. The FASB issues standards in the form of **Accounting Standards Updates** (ASUs) and organizes them in the **Accounting Standards Codification** (ASC). The FASB operates with the oversight of a larger body called the Financial Accounting Foundation, which ensures independence and due process.*
 
 <div class="wiki-hatnote">
 
-This entry covers the FASB's role. For the international equivalent, see [IASB](/iasb). For the standards it issues, see [GAAP](/generally-accepted-accounting-principles).
+This entry covers the FASB's role. For the international equivalent, see [IASB](/iasb/). For the standards it issues, see [GAAP](/generally-accepted-accounting-principles/).
 
 </div>
 
@@ -40,7 +40,7 @@ This entry covers the FASB's role. For the international equivalent, see [IASB](
 
 ## The role of the FASB
 
-The FASB exists to serve one purpose: develop accounting standards that make financial reporting reliable and useful. It is not a regulator; it doesn't enforce standards or punish companies. That job belongs to the SEC, which refers to FASB standards in its enforcement and explicitly recognizes FASB standards as the source of [GAAP](/generally-accepted-accounting-principles).
+The FASB exists to serve one purpose: develop accounting standards that make financial reporting reliable and useful. It is not a regulator; it doesn't enforce standards or punish companies. That job belongs to the SEC, which refers to FASB standards in its enforcement and explicitly recognizes FASB standards as the source of [GAAP](/generally-accepted-accounting-principles/).
 
 The FASB works with other entities:
 
@@ -80,13 +80,13 @@ The FASB's most consequential recent standards include:
 
 - **ASC 606** (effective 2018) — rewrote revenue recognition to focus on control of promised goods or services rather than the old "risk and reward" test. This affected every company with complex contracts.
 - **ASC 842** (effective 2019 for public companies) — required most leases to be recognized on the balance sheet as right-of-use assets and liabilities, eliminating the distinction between operating and finance leases for accounting purposes.
-- **ASU 2016-02** and updates — addressed credit losses for financial instruments, changing how [allowance-for-doubtful-accounts](/allowance-for-doubtful-accounts) is measured.
+- **ASU 2016-02** and updates — addressed credit losses for financial instruments, changing how [allowance-for-doubtful-accounts](/allowance-for-doubtful-accounts/) is measured.
 
 Each of these standards took years to develop and required extensive outreach. The transition to a new standard often requires companies to restate prior years and update systems.
 
 ## Convergence with IASB
 
-For decades, the FASB and [IASB](/iasb) worked on a "convergence" project to align GAAP and IFRS. Some major standards (revenue, leases) have been fully aligned. Others remain distinct, particularly where the SEC or US business community has strong preferences (e.g., the LIFO inventory method is permitted under GAAP but not IFRS).
+For decades, the FASB and [IASB](/iasb/) worked on a "convergence" project to align GAAP and IFRS. Some major standards (revenue, leases) have been fully aligned. Others remain distinct, particularly where the SEC or US business community has strong preferences (e.g., the LIFO inventory method is permitted under GAAP but not IFRS).
 
 Full convergence is unlikely, but the FASB and IASB continue to coordinate where possible.
 
@@ -102,17 +102,17 @@ The FASB will always have work. As business models evolve, accounting standards 
 
 ### Closely related
 
-- [GAAP](/generally-accepted-accounting-principles) — the standards FASB develops
-- [IASB](/iasb) — the international equivalent
-- [ASC 606](/asc-606) — revenue recognition standard
+- [GAAP](/generally-accepted-accounting-principles/) — the standards FASB develops
+- [IASB](/iasb/) — the international equivalent
+- [ASC 606](/asc-606/) — revenue recognition standard
 - ASC 842 — lease accounting standard
-- [Audit opinion](/audit-opinion) — certifies GAAP compliance set by FASB
+- [Audit opinion](/audit-opinion/) — certifies GAAP compliance set by FASB
 
 ### Context
 
-- [Revenue recognition](/revenue-recognition) — FASB standard on revenue
-- [Fair value](/fair-value) — FASB guidance on measurement
-- [Going concern](/going-concern) — FASB guidance on disclosures
-- [Footnote disclosure](/footnote-disclosure) — required by FASB standards
+- [Revenue recognition](/revenue-recognition/) — FASB standard on revenue
+- [Fair value](/fair-value/) — FASB guidance on measurement
+- [Going concern](/going-concern/) — FASB guidance on disclosures
+- [Footnote disclosure](/footnote-disclosure/) — required by FASB standards
 
 </div>

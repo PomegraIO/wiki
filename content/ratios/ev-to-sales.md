@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **EV/Sales ratio** divides [enterprise value](/enterprise-value) by total revenue. A company trading at 2.0x EV/Sales means investors are paying $2 for every $1 of annual sales. It is less sensitive to accounting choices than [EV/EBITDA](/ev-to-ebitda) and useful for valuing unprofitable companies.*
+*The **EV/Sales ratio** divides [enterprise value](/enterprise-value/) by total revenue. A company trading at 2.0x EV/Sales means investors are paying $2 for every $1 of annual sales. It is less sensitive to accounting choices than [EV/EBITDA](/ev-to-ebitda/) and useful for valuing unprofitable companies.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: "/svg/ratios.svg"
 
 Revenue is harder to manipulate than earnings. EV/Sales therefore provides a valuation check that bypasses profitability entirely, useful for unprofitable startups or mature low-margin businesses.
 
-A company with negative earnings cannot be valued on [EV/EBITDA](/ev-to-ebitda) or [P/E](/price-to-earnings-ratio). But it can be valued on EV/Sales. If comparable profitable companies in the industry trade at 2.0x EV/Sales, is a high-growth unprofitable competitor trading at 3.0x cheap or expensive? Depends on whether it reaches profitability.
+A company with negative earnings cannot be valued on [EV/EBITDA](/ev-to-ebitda/) or [P/E](/price-to-earnings-ratio/). But it can be valued on EV/Sales. If comparable profitable companies in the industry trade at 2.0x EV/Sales, is a high-growth unprofitable competitor trading at 3.0x cheap or expensive? Depends on whether it reaches profitability.
 
 ## How to calculate it
 
@@ -81,9 +81,9 @@ Start with EV/Sales, then verify with other metrics:
 
 ### Closely related
 
-- [EV/EBITDA](/ev-to-ebitda) · [EV/EBIT](/ev-to-ebit) · [EV/FCF](/ev-to-fcf)
-- [Price-to-sales ratio](/price-to-sales-ratio) — equity-based equivalent
-- [Enterprise value](/enterprise-value) — the numerator
+- [EV/EBITDA](/ev-to-ebitda/) · [EV/EBIT](/ev-to-ebit/) · [EV/FCF](/ev-to-fcf/)
+- [Price-to-sales ratio](/price-to-sales-ratio/) — equity-based equivalent
+- [Enterprise value](/enterprise-value/) — the numerator
 - Revenue — the denominator
 
 </div>

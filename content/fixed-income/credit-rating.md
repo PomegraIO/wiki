@@ -15,7 +15,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For investment-grade ratings, see [investment-grade bond](/investment-grade-bond). For speculative-grade ratings, see [high-yield bond](/high-yield-bond) and [junk bond](/junk-bond).
+For investment-grade ratings, see [investment-grade bond](/investment-grade-bond/). For speculative-grade ratings, see [high-yield bond](/high-yield-bond/) and [junk bond](/junk-bond/).
 
 </div>
 
@@ -90,7 +90,7 @@ An **outlook** signals the likely direction:
 
 Rating changes move bond prices:
 
-- **Downgrade** — Bond price falls as investors demand wider [credit spread](/credit-spread)
+- **Downgrade** — Bond price falls as investors demand wider [credit spread](/credit-spread/)
 - **Upgrade** — Bond price rises as credit spread narrows
 
 A downgrade from investment-grade to speculative-grade (a "fallen angel") can cause sharp price declines because regulated investors (pension funds, insurance companies) are forced to sell.
@@ -111,7 +111,7 @@ Post-crisis, regulations tightened. But structural conflicts remain, and ratings
 
 ## Spread and rating relationship
 
-[Credit spreads](/credit-spread) correlate with ratings:
+[Credit spreads](/credit-spread/) correlate with ratings:
 
 - **AAA** — 50–150 basis points
 - **BBB** — 250–500 basis points
@@ -146,18 +146,18 @@ Ratings agencies increasingly incorporate environmental, social, and governance 
 
 ### Closely related
 
-- [Credit spread](/credit-spread) — spreads correlate with ratings
-- [Investment-grade bond](/investment-grade-bond) — BBB- and above
-- [High-yield bond](/high-yield-bond) — below investment-grade
-- [Junk bond](/junk-bond) — lowest ratings
-- [Default rate](/default-rate) — ratings correlate with actual defaults
+- [Credit spread](/credit-spread/) — spreads correlate with ratings
+- [Investment-grade bond](/investment-grade-bond/) — BBB- and above
+- [High-yield bond](/high-yield-bond/) — below investment-grade
+- [Junk bond](/junk-bond/) — lowest ratings
+- [Default rate](/default-rate/) — ratings correlate with actual defaults
 
 ### Wider context
 
-- [Corporate bond](/corporate-bond) — rated debt
-- [Recession](/recession) — triggers downgrades
-- [Volatility](/stock) — affects probability of downgrade
-- [Central bank](/central-bank) — policy affects credit quality
-- [Diversification](/diversification) — holding many ratings reduces rating risk
+- [Corporate bond](/corporate-bond/) — rated debt
+- [Recession](/recession/) — triggers downgrades
+- [Volatility](/stock/) — affects probability of downgrade
+- [Central bank](/central-bank/) — policy affects credit quality
+- [Diversification](/diversification/) — holding many ratings reduces rating risk
 
 </div>

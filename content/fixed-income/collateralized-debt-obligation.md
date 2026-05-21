@@ -14,7 +14,7 @@ image: "/svg/fixed-income.svg"
 
 <div class="wiki-hatnote">
 
-For mortgage-backed securitization, see [mortgage-backed security](/mortgage-backed-security). For loan-backed securitization, see [collateralized loan obligation](/collateralized-loan-obligation) and [asset-backed security](/asset-backed-security).
+For mortgage-backed securitization, see [mortgage-backed security](/mortgage-backed-security/). For loan-backed securitization, see [collateralized loan obligation](/collateralized-loan-obligation/) and [asset-backed security](/asset-backed-security/).
 
 </div>
 
@@ -36,7 +36,7 @@ For mortgage-backed securitization, see [mortgage-backed security](/mortgage-bac
 | **Typical yield** | AAA: 100–300 bps; BBB: 400–800 bps; equity: 8–15%+ |
 | **Maturity** | 5–10 years typical |
 | **Risk profile** | Varies dramatically by collateral and tranche |
-| **Primary issue** | Complexity, [correlation](/diversification), opacity |
+| **Primary issue** | Complexity, [correlation](/diversification/), opacity |
 
 </aside>
 
@@ -54,7 +54,7 @@ This structure allows the same pool of debt to be carved into securities with va
 
 ## CDOs of asset-backed securities and the crisis
 
-The most infamous CDOs were "CDOs of ABS" — securitizations of [mortgage-backed securities](/mortgage-backed-security) and other asset-backed securities. This created a chain of leverage: mortgages → MBS → CDO.
+The most infamous CDOs were "CDOs of ABS" — securitizations of [mortgage-backed securities](/mortgage-backed-security/) and other asset-backed securities. This created a chain of leverage: mortgages → MBS → CDO.
 
 When mortgage defaults spiked after 2006, the entire chain collapsed. Mortgage defaults cascaded into MBS defaults, which cascaded into CDO losses. The complexity made losses opaque — investors did not understand the exposure to underlying mortgages. Ratings agencies gave AAA ratings to securities that proved to be very risky.
 
@@ -76,15 +76,15 @@ Post-crisis, rating agencies recalibrated their models and ratings became more c
 
 ## Current market for CDOs
 
-The CDO market rebuilt slowly post-crisis. Banks issue CDOs of corporate loans ([collateralized loan obligations](/collateralized-loan-obligation)) and other debt. These new CDOs have tighter underwriting, better transparency, and more conservative assumptions.
+The CDO market rebuilt slowly post-crisis. Banks issue CDOs of corporate loans ([collateralized loan obligations](/collateralized-loan-obligation/)) and other debt. These new CDOs have tighter underwriting, better transparency, and more conservative assumptions.
 
-However, the product remains complex and appropriate only for sophisticated investors who can conduct detailed credit analysis. Retail investors typically access CDOs indirectly through [hedge funds](/hedge-fund) or specialist [mutual funds](/mutual-fund).
+However, the product remains complex and appropriate only for sophisticated investors who can conduct detailed credit analysis. Retail investors typically access CDOs indirectly through [hedge funds](/hedge-fund/) or specialist [mutual funds](/mutual-fund/).
 
 ## Comparison to straight bonds
 
-A CDO AAA tranche is materially riskier than a AAA-rated [corporate bond](/corporate-bond) because the CDO's rating assumes perfect diversification. In practice, correlation risk means that assumption fails in crises.
+A CDO AAA tranche is materially riskier than a AAA-rated [corporate bond](/corporate-bond/) because the CDO's rating assumes perfect diversification. In practice, correlation risk means that assumption fails in crises.
 
-A AAA-rated [corporate bond](/corporate-bond) carries the risk of that single company; a CDO AAA tranche carries the risk of hundreds of companies plus structural risk from correlation and loss-cascade dynamics.
+A AAA-rated [corporate bond](/corporate-bond/) carries the risk of that single company; a CDO AAA tranche carries the risk of hundreds of companies plus structural risk from correlation and loss-cascade dynamics.
 
 ## See also
 
@@ -92,18 +92,18 @@ A AAA-rated [corporate bond](/corporate-bond) carries the risk of that single co
 
 ### Closely related
 
-- [Collateralized loan obligation](/collateralized-loan-obligation) — CDOs backed by corporate loans
-- [Mortgage-backed security](/mortgage-backed-security) — the underlying collateral type
-- [Asset-backed security](/asset-backed-security) — securitized consumer loans
-- [Credit spread](/credit-spread) — why CDO tranches yield differently
-- [Default rate](/default-rate) — determines CDO performance
+- [Collateralized loan obligation](/collateralized-loan-obligation/) — CDOs backed by corporate loans
+- [Mortgage-backed security](/mortgage-backed-security/) — the underlying collateral type
+- [Asset-backed security](/asset-backed-security/) — securitized consumer loans
+- [Credit spread](/credit-spread/) — why CDO tranches yield differently
+- [Default rate](/default-rate/) — determines CDO performance
 
 ### Wider context
 
-- [Securitization](/asset-backed-security) — the underlying process
-- [Recession](/recession) — when CDO correlations spike and losses surge
-- [Risk management](/hedge-fund) — why CDO complexity is problematic
-- [Diversification](/diversification) — assumed but not guaranteed in CDOs
-- [Financial crisis](/stock-market) — 2008 demonstrated CDO fragility
+- [Securitization](/asset-backed-security/) — the underlying process
+- [Recession](/recession/) — when CDO correlations spike and losses surge
+- [Risk management](/hedge-fund/) — why CDO complexity is problematic
+- [Diversification](/diversification/) — assumed but not guaranteed in CDOs
+- [Financial crisis](/stock-market/) — 2008 demonstrated CDO fragility
 
 </div>

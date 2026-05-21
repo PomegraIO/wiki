@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers inventory efficiency. Related metrics include [accounts-receivable-turnover](/accounts-receivable-turnover), [asset-turnover-ratio](/asset-turnover-ratio), and [days-inventory-outstanding](/days-inventory-outstanding).
+This entry covers inventory efficiency. Related metrics include [accounts-receivable-turnover](/accounts-receivable-turnover/), [asset-turnover-ratio](/asset-turnover-ratio/), and [days-inventory-outstanding](/days-inventory-outstanding/).
 
 </div>
 
@@ -104,7 +104,7 @@ Comparing a grocery store's 12x turnover to a bookstore's 1.5x is meaningless. E
 
 ## Related metric: Days Inventory Outstanding
 
-A complementary measure is [days-inventory-outstanding](/days-inventory-outstanding) (DIO), which converts turnover to days:
+A complementary measure is [days-inventory-outstanding](/days-inventory-outstanding/) (DIO), which converts turnover to days:
 
 DIO = 365 ÷ Inventory turnover
 
@@ -128,11 +128,11 @@ A company with stable inventory turnover and growing revenue is executing well. 
 
 ### Closely related
 
-- [Days-inventory-outstanding](/days-inventory-outstanding) — inventory as days, not turns
-- [Accounts-receivable-turnover](/accounts-receivable-turnover) — how fast receivables convert
-- [Accounts-payable-turnover](/accounts-payable-turnover) — supplier payment timing
-- [Cash-conversion-cycle](/cash-conversion-cycle) — all three together
-- [Asset-turnover-ratio](/asset-turnover-ratio) — overall asset efficiency
+- [Days-inventory-outstanding](/days-inventory-outstanding/) — inventory as days, not turns
+- [Accounts-receivable-turnover](/accounts-receivable-turnover/) — how fast receivables convert
+- [Accounts-payable-turnover](/accounts-payable-turnover/) — supplier payment timing
+- [Cash-conversion-cycle](/cash-conversion-cycle/) — all three together
+- [Asset-turnover-ratio](/asset-turnover-ratio/) — overall asset efficiency
 
 ### Wider context
 

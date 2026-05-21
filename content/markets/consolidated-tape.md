@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*The **consolidated tape** is the official, real-time record of all trades executed in US-listed stocks across all venues — exchanges, [alternative trading systems](/alternative-trading-system), and [over-the-counter](/over-the-counter-market) markets. It is produced by the [Securities Information Processor (SIP)](/sip-securities-information-processor) and shows each trade's price, volume, and exact time. The consolidated tape is the source of truth for what has traded.*
+*The **consolidated tape** is the official, real-time record of all trades executed in US-listed stocks across all venues — exchanges, [alternative trading systems](/alternative-trading-system/), and [over-the-counter](/over-the-counter-market/) markets. It is produced by the [Securities Information Processor (SIP)](/sip-securities-information-processor/) and shows each trade's price, volume, and exact time. The consolidated tape is the source of truth for what has traded.*
 
 <div class="wiki-hatnote">
 
-This entry is about the official trade reporting system. For the price quotation system, see [consolidated tape](/consolidated-tape) bid-ask quotes; for the system that produces it, see [Securities Information Processor](/sip-securities-information-processor).
+This entry is about the official trade reporting system. For the price quotation system, see [consolidated tape](/consolidated-tape/) bid-ask quotes; for the system that produces it, see [Securities Information Processor](/sip-securities-information-processor/).
 
 </div>
 
@@ -41,7 +41,7 @@ This entry is about the official trade reporting system. For the price quotation
 
 ## How the consolidated tape works
 
-Every time a trade executes on any US exchange or [alternative trading system](/alternative-trading-system), it must be reported to the [SIP](/sip-securities-information-processor). The [SIP](/sip-securities-information-processor) collects these reports and publishes them on the consolidated tape in real time.
+Every time a trade executes on any US exchange or [alternative trading system](/alternative-trading-system/), it must be reported to the [SIP](/sip-securities-information-processor/). The [SIP](/sip-securities-information-processor/) collects these reports and publishes them on the consolidated tape in real time.
 
 Each tape entry includes:
 
@@ -90,7 +90,7 @@ The consolidated tape data flows into clearing and settlement systems. The NSCC 
 
 ## Regulatory reporting and compliance
 
-All venues are required by SEC rule to report trades to the [SIP](/sip-securities-information-processor) promptly. Failures to report, delayed reporting, or inaccurate reporting are violations. The SEC periodically audits venues for reporting compliance.
+All venues are required by SEC rule to report trades to the [SIP](/sip-securities-information-processor/) promptly. Failures to report, delayed reporting, or inaccurate reporting are violations. The SEC periodically audits venues for reporting compliance.
 
 ## Tick data and intraday analysis
 
@@ -114,18 +114,18 @@ However, the consolidated tape remains the official source for what has traded a
 
 ### Closely related
 
-- [Securities Information Processor](/sip-securities-information-processor) — produces the consolidated tape
-- [Stock exchange](/stock-exchange) — sources of tape data
-- [Alternative trading system](/alternative-trading-system) — sources of tape data
-- [Trade reporting](/consolidated-tape) — the requirement to report
-- [Market data](/stock-market) — what the tape provides
+- [Securities Information Processor](/sip-securities-information-processor/) — produces the consolidated tape
+- [Stock exchange](/stock-exchange/) — sources of tape data
+- [Alternative trading system](/alternative-trading-system/) — sources of tape data
+- [Trade reporting](/consolidated-tape/) — the requirement to report
+- [Market data](/stock-market/) — what the tape provides
 
 ### Wider context
 
-- [Liquidity](/secondary-market) — assessed via the tape
-- [Price discovery](/stock-market) — via tape transactions
-- [Regulation](/stock-market) — uses tape for enforcement
-- [Index](/sp-500-index) — calculated using tape prices
-- [Secondary market](/secondary-market) — what the tape records
+- [Liquidity](/secondary-market/) — assessed via the tape
+- [Price discovery](/stock-market/) — via tape transactions
+- [Regulation](/stock-market/) — uses tape for enforcement
+- [Index](/sp-500-index/) — calculated using tape prices
+- [Secondary market](/secondary-market/) — what the tape records
 
 </div>

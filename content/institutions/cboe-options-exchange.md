@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **CBOE – Chicago Board Options Exchange** is the largest [options](/option) exchange in the world and the primary venue where equity [option](/option) contracts are traded in the United States. Headquartered in Chicago and operating since 1973, the CBOE is home to the VIX volatility index, one of the most important and widely referenced measures of market fear and volatility.*
+*The **CBOE – Chicago Board Options Exchange** is the largest [options](/option/) exchange in the world and the primary venue where equity [option](/option/) contracts are traded in the United States. Headquartered in Chicago and operating since 1973, the CBOE is home to the VIX volatility index, one of the most important and widely referenced measures of market fear and volatility.*
 
 <div class="wiki-hatnote">
 
@@ -41,7 +41,7 @@ The CBOE is part of Cboe Global Markets, a holding company that also operates fu
 
 ## Founding and innovation
 
-The CBOE was founded in 1973 as a specialized venue for trading equity [options](/option) — contracts that give the holder the right (but not the obligation) to buy or sell a stock at a specified price by a specified date. Before the CBOE, options trading was limited to over-the-counter dealings; the CBOE created the first standardized, exchange-traded options market.
+The CBOE was founded in 1973 as a specialized venue for trading equity [options](/option/) — contracts that give the holder the right (but not the obligation) to buy or sell a stock at a specified price by a specified date. Before the CBOE, options trading was limited to over-the-counter dealings; the CBOE created the first standardized, exchange-traded options market.
 
 This innovation was transformative. Standardized contracts, central clearing, and transparent pricing made options trading accessible to institutional investors and later to retail investors. The CBOE grew explosively and remains the world's largest options exchange by trading volume.
 
@@ -55,7 +55,7 @@ The VIX has become the standard barometer of market stress and risk appetite. Fi
 
 The CBOE trades options on individual equities (calls and puts on Apple, Microsoft, Tesla, etc.) and on indices (the S&P 500, the Nasdaq-100, the Russell 2000). These options allow investors and traders to:
 
-- **Hedge** downside risk in their portfolios by buying [puts](/option).
+- **Hedge** downside risk in their portfolios by buying [puts](/option/).
 - **Generate income** by selling covered calls against owned stock.
 - **Speculate** on price movements with leverage.
 - **Arbitrage** mispricings between stocks and options.
@@ -72,7 +72,7 @@ The CBOE is part of Cboe Global Markets, a publicly traded holding company that 
 
 ## Professional and retail participation
 
-The CBOE has evolved to serve both sophisticated professional traders (banks, [hedge funds](/hedge-fund), derivatives market makers) and retail investors (through brokerages). This democratization of options trading has expanded the market enormously but has also created retail investor risks if options are used without proper understanding.
+The CBOE has evolved to serve both sophisticated professional traders (banks, [hedge funds](/hedge-fund/), derivatives market makers) and retail investors (through brokerages). This democratization of options trading has expanded the market enormously but has also created retail investor risks if options are used without proper understanding.
 
 ## See also
 
@@ -80,18 +80,18 @@ The CBOE has evolved to serve both sophisticated professional traders (banks, [h
 
 ### Closely related
 
-- [Option](/option) — the contracts traded here
+- [Option](/option/) — the contracts traded here
 - Volatility · VIX — fear gauge
-- [CME Group](/cme-group) — largest US futures exchange
+- [CME Group](/cme-group/) — largest US futures exchange
 - Derivatives market — broader category
-- [Hedge fund](/hedge-fund) — major participants
+- [Hedge fund](/hedge-fund/) — major participants
 
 ### Wider context
 
 - Risk management — options' core function
 - Institutional investor — major users
-- [Stock market](/stock-market) — underlying equities
+- [Stock market](/stock-market/) — underlying equities
 - Price discovery — options' role
-- [Broker](/broker) — retail access points
+- [Broker](/broker/) — retail access points
 
 </div>

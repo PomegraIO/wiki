@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **Bank of America Corp.** is one of the largest [banks](/broker) in the United States, headquartered in Charlotte, North Carolina. Operating through consumer banking, global banking and markets, and wealth management divisions, Bank of America serves millions of individuals, small and medium businesses, large corporations, and institutional investors globally.*
+*The **Bank of America Corp.** is one of the largest [banks](/broker/) in the United States, headquartered in Charlotte, North Carolina. Operating through consumer banking, global banking and markets, and wealth management divisions, Bank of America serves millions of individuals, small and medium businesses, large corporations, and institutional investors globally.*
 
 <div class="wiki-hatnote">
 
@@ -73,7 +73,7 @@ The firm has since recovered, strengthened its capital position, and become a mo
 
 ## Geographic positioning
 
-Unlike [JPMorgan Chase](/jpmorgan-chase) and [Citigroup](/citigroup), which have stronger international operations, Bank of America is more US-focused, though it maintains significant international operations. The Charlotte headquarters location (rather than New York) has given the firm a somewhat different profile among mega-banks.
+Unlike [JPMorgan Chase](/jpmorgan-chase/) and [Citigroup](/citigroup/), which have stronger international operations, Bank of America is more US-focused, though it maintains significant international operations. The Charlotte headquarters location (rather than New York) has given the firm a somewhat different profile among mega-banks.
 
 ## See also
 
@@ -81,20 +81,20 @@ Unlike [JPMorgan Chase](/jpmorgan-chase) and [Citigroup](/citigroup), which have
 
 ### Closely related
 
-- [Bank](/broker) — the category
-- [JPMorgan Chase](/jpmorgan-chase) — larger competitor
-- [Citigroup](/citigroup) — competitor
-- [Wells Fargo](/wells-fargo) — competitor
+- [Bank](/broker/) — the category
+- [JPMorgan Chase](/jpmorgan-chase/) — larger competitor
+- [Citigroup](/citigroup/) — competitor
+- [Wells Fargo](/wells-fargo/) — competitor
 - Merrill Lynch — wealth management subsidiary
 
 ### Wider context
 
 - Mergers and acquisitions — advisory services
-- [Initial public offering](/initial-public-offering) — capital raising
-- [Asset allocation](/asset-allocation) — wealth management
+- [Initial public offering](/initial-public-offering/) — capital raising
+- [Asset allocation](/asset-allocation/) — wealth management
 - Institutional investor — clients
 - Trading — profit source
-- [Central bank](/central-bank) — Federal Reserve oversight
+- [Central bank](/central-bank/) — Federal Reserve oversight
 - Mortgage — consumer lending
 
 </div>

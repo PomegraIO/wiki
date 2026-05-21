@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Section 13(g)](/section-13g) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) provides a simplified disclosure regime for passive investors holding 5% or more of a company's stock. Instead of filing the lengthy Schedule 13D (which requires disclosure of plans and intentions), a passive investor can file a Schedule 13G, a shorter form requiring only basic information. The investor must certify that it is acquiring the securities for investment purposes and does not intend to acquire control.*
+*[Section 13(g)](/section-13g/) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) provides a simplified disclosure regime for passive investors holding 5% or more of a company's stock. Instead of filing the lengthy Schedule 13D (which requires disclosure of plans and intentions), a passive investor can file a Schedule 13G, a shorter form requiring only basic information. The investor must certify that it is acquiring the securities for investment purposes and does not intend to acquire control.*
 
 <div class="wiki-hatnote">
 
-Section 13(g) applies to passive investors. [Section 13(d)](/section-13d) applies to active investors or those seeking control. The distinction determines which form to file.
+Section 13(g) applies to passive investors. [Section 13(d)](/section-13d/) applies to active investors or those seeking control. The distinction determines which form to file.
 
 </div>
 
@@ -79,17 +79,17 @@ Regulators have not clearly answered. Some investor advocates argue that large p
 
 ### Closely related
 
-- [Section 13(d)](/section-13d) — active investor disclosure
+- [Section 13(d)](/section-13d/) — active investor disclosure
 - Schedule 13G — the form filed
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — Section 13(g)
-- [Beneficial ownership](/beneficial-ownership-reporting) — what the rule measures
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — Section 13(g)
+- [Beneficial ownership](/beneficial-ownership-reporting/) — what the rule measures
 - Passive investor — the focus of 13(g)
 
 ### Wider context
 
-- [Index fund](/index-fund) — often passive under 13(g)
-- [Mutual fund](/mutual-fund) — often passive filers
+- [Index fund](/index-fund/) — often passive under 13(g)
+- [Mutual fund](/mutual-fund/) — often passive filers
 - Activist investor — uses 13D, not 13(g)
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
 
 </div>

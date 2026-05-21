@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the alternative FSA account for medical expenses, see [FSA](/fsa); for dependent care, see [dependent care FSA](/dependent-care-fsa); for overall health insurance, see homeowners/auto/health insurance articles.
+For the alternative FSA account for medical expenses, see [FSA](/fsa/); for dependent care, see [dependent care FSA](/dependent-care-fsa/); for overall health insurance, see homeowners/auto/health insurance articles.
 
 </div>
 
@@ -58,7 +58,7 @@ This is superior to paying for medical costs with after-tax dollars (no deductio
 
 ## Investment within HSA
 
-Unlike a flexible spending account ([FSA](/fsa)), an HSA can be invested like a [401(k)](/401k-plan). Many HSA providers offer mutual funds, index funds, and other investments. You can let the money grow for decades instead of using it immediately.
+Unlike a flexible spending account ([FSA](/fsa/)), an HSA can be invested like a [401(k)](/401k-plan/). Many HSA providers offer mutual funds, index funds, and other investments. You can let the money grow for decades instead of using it immediately.
 
 This is why HSAs are popular among affluent people and early retirees: the triple tax advantage and investment potential make them the most efficient place to save for healthcare costs.
 
@@ -84,7 +84,7 @@ For people with low medical expenses, an HDHP + HSA is often the best economic c
 
 ## Unused balance and rollover
 
-An HSA is uniquely yours. Unlike an [FSA](/fsa), which has a "use-it-or-lose-it" rule, HSA balances roll over indefinitely. If you do not spend the money, it remains in the account to invest and grow.
+An HSA is uniquely yours. Unlike an [FSA](/fsa/), which has a "use-it-or-lose-it" rule, HSA balances roll over indefinitely. If you do not spend the money, it remains in the account to invest and grow.
 
 This encourages using the HSA as a retirement healthcare savings vehicle: contribute the maximum, invest it, and withdraw only for actual medical expenses in retirement.
 
@@ -93,7 +93,7 @@ This encourages using the HSA as a retirement healthcare savings vehicle: contri
 An HSA is particularly valuable in retirement for two reasons:
 
 1. **Healthcare costs.** Healthcare expenses escalate in age. A large HSA balance can cover many retirement medical costs tax-free.
-2. **Post-65 flexibility.** After age 65, you can withdraw HSA money for any purpose without the 20% penalty (though non-medical withdrawals are taxable). This makes an HSA function like a [401(k)](/401k-plan) or [IRA](/traditional-ira) in retirement.
+2. **Post-65 flexibility.** After age 65, you can withdraw HSA money for any purpose without the 20% penalty (though non-medical withdrawals are taxable). This makes an HSA function like a [401(k)](/401k-plan/) or [IRA](/traditional-ira/) in retirement.
 
 This is why some financial advisors treat the HSA as a retirement account first and a healthcare account second: max it out, invest it, and use other assets to pay medical expenses during working years.
 
@@ -107,15 +107,15 @@ An HSA is fully portable. If you change jobs or change health insurance plans (b
 
 ### Closely related
 
-- [FSA](/fsa) — alternative for medical expenses (use-it-or-lose-it)
-- [Dependent care FSA](/dependent-care-fsa) — for dependent care expenses
-- [401(k) plan](/401k-plan) — another tax-advantaged investment account
+- [FSA](/fsa/) — alternative for medical expenses (use-it-or-lose-it)
+- [Dependent care FSA](/dependent-care-fsa/) — for dependent care expenses
+- [401(k) plan](/401k-plan/) — another tax-advantaged investment account
 
 ### Wider context
 
-- [Tax-deferred growth](/compound-interest) — HSA as an investment vehicle
-- [FIRE movement](/fire-movement) — HSA popular in early-retirement planning
-- [The four-percent rule](/the-four-percent-rule) — HSA as healthcare funding in retirement
+- [Tax-deferred growth](/compound-interest/) — HSA as an investment vehicle
+- [FIRE movement](/fire-movement/) — HSA popular in early-retirement planning
+- [The four-percent rule](/the-four-percent-rule/) — HSA as healthcare funding in retirement
 - Asset location — HSA as tax-efficient account
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **two-stage DCF** is the most practical variant of the [discounted cash flow](/discounted-cash-flow-valuation) model. It divides time into two eras: an explicit forecast period of 5 to 10 years, during which you project cash flows in detail, and a terminal value representing all cash flows from that point onward, grown at a perpetual rate. This simplicity makes it the workhorse of equity research.*
+*A **two-stage DCF** is the most practical variant of the [discounted cash flow](/discounted-cash-flow-valuation/) model. It divides time into two eras: an explicit forecast period of 5 to 10 years, during which you project cash flows in detail, and a terminal value representing all cash flows from that point onward, grown at a perpetual rate. This simplicity makes it the workhorse of equity research.*
 
 ## The structure
 
@@ -30,9 +30,9 @@ Sum the present value of all explicit-year cash flows, add the present value of 
 
 ## The terminal value trap
 
-The two-stage model inherits the [DCF](/discounted-cash-flow-valuation) model's most dangerous assumption: the perpetual growth rate. If you assume 3% instead of 2%, and the discount rate is 10%, the terminal value nearly doubles. The method is therefore highly sensitive to the terminal assumption.
+The two-stage model inherits the [DCF](/discounted-cash-flow-valuation/) model's most dangerous assumption: the perpetual growth rate. If you assume 3% instead of 2%, and the discount rate is 10%, the terminal value nearly doubles. The method is therefore highly sensitive to the terminal assumption.
 
-Professional practice uses several guardrails. The perpetual growth rate should not exceed the long-term GDP growth rate of the country where the company operates—for a mature US business, 2–3% is the ceiling. Many analysts instead use an [exit multiple terminal value](/exit-multiple-terminal-value), projecting year-N EBITDA or earnings, multiplying by a multiple, and discounting that, which sometimes feels less arbitrary.
+Professional practice uses several guardrails. The perpetual growth rate should not exceed the long-term GDP growth rate of the country where the company operates—for a mature US business, 2–3% is the ceiling. Many analysts instead use an [exit multiple terminal value](/exit-multiple-terminal-value/), projecting year-N EBITDA or earnings, multiplying by a multiple, and discounting that, which sometimes feels less arbitrary.
 
 Another check: calculate the terminal value as a percent of the total intrinsic value. If it exceeds 70–80%, your valuation rests too heavily on an untestable assumption. If it exceeds 90%, the explicit forecast is almost irrelevant; you're really just guessing perpetuity.
 
@@ -58,24 +58,24 @@ The most common mistake: overcomplicating the explicit forecast with excessive d
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the parent model
-- [Three-stage DCF](/three-stage-dcf) — an explicit transition period for declining growth
-- [Terminal value](/terminal-value) — the hardest assumption
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the canonical approach
-- [Exit multiple terminal value](/exit-multiple-terminal-value) — an alternative endpoint
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the typical cash-flow metric
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the parent model
+- [Three-stage DCF](/three-stage-dcf/) — an explicit transition period for declining growth
+- [Terminal value](/terminal-value/) — the hardest assumption
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the canonical approach
+- [Exit multiple terminal value](/exit-multiple-terminal-value/) — an alternative endpoint
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the typical cash-flow metric
 
 ### Inputs and decisions
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Cost of equity](/cost-of-equity) — equity component of discount rate
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which assumptions drive value
-- [Football field valuation](/football-field-valuation) — presenting a range of outcomes
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Cost of equity](/cost-of-equity/) — equity component of discount rate
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which assumptions drive value
+- [Football field valuation](/football-field-valuation/) — presenting a range of outcomes
 
 ### Reality checks
 
-- [Comparable company analysis](/comparable-company-analysis) — implied multiples from the DCF
-- [Multiples valuation](/multiples-valuation) — market-based sanity check
-- [Scenario valuation](/scenario-valuation) — bear, base, bull cases
+- [Comparable company analysis](/comparable-company-analysis/) — implied multiples from the DCF
+- [Multiples valuation](/multiples-valuation/) — market-based sanity check
+- [Scenario valuation](/scenario-valuation/) — bear, base, bull cases
 
 </div>

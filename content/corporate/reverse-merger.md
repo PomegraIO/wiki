@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **reverse merger** (or **reverse takeover**) is a transaction in which a private company acquires a public company and takes control of it. The private company's owners end up controlling the combined entity, which retains the public company's public listing. Reverse mergers allow private companies to access public capital markets and become publicly traded without undergoing a traditional [initial public offering](/initial-public-offering). They are less regulated than IPOs but are also riskier, and have been associated with fraud and accounting irregularities.*
+*A **reverse merger** (or **reverse takeover**) is a transaction in which a private company acquires a public company and takes control of it. The private company's owners end up controlling the combined entity, which retains the public company's public listing. Reverse mergers allow private companies to access public capital markets and become publicly traded without undergoing a traditional [initial public offering](/initial-public-offering/). They are less regulated than IPOs but are also riskier, and have been associated with fraud and accounting irregularities.*
 
 <div class="wiki-hatnote">
 
-This entry covers reverse mergers as a public market entry mechanism. For traditional public offerings, see [initial public offering](/initial-public-offering); for a modern alternative, see [special-purpose acquisition company](/special-purpose-acquisition-company).
+This entry covers reverse mergers as a public market entry mechanism. For traditional public offerings, see [initial public offering](/initial-public-offering/); for a modern alternative, see [special-purpose acquisition company](/special-purpose-acquisition-company/).
 
 </div>
 
@@ -30,7 +30,7 @@ This entry covers reverse mergers as a public market entry mechanism. For tradit
 |---|---|
 | **What it is** | Private company acquires public company (or shell) |
 | **Outcome** | Private company becomes public via acquisition |
-| **Alternative to** | [Initial public offering](/initial-public-offering) |
+| **Alternative to** | [Initial public offering](/initial-public-offering/) |
 | **Cost** | Lower than traditional IPO; fewer regulatory requirements |
 | **Speed** | Faster than IPO; typically 3–6 months |
 | **Liquidity** | Immediate public trading after close |
@@ -107,11 +107,11 @@ In response to fraud and accounting scandals, the SEC and stock exchanges have t
 - **Delisting rules.** Exchanges have become more aggressive about delisting reverse merger companies that do not meet continued listing standards.
 - **Reverse merger moratoriums.** Some exchanges (notably the Chinese exchanges) have effectively banned reverse mergers or imposed strict conditions.
 
-As a result, reverse mergers have become less popular. The emergence of [special-purpose acquisition companies](/special-purpose-acquisition-company) (SPACs) in the 2010s and 2020s provided a cleaner alternative to reverse mergers for private companies seeking public access.
+As a result, reverse mergers have become less popular. The emergence of [special-purpose acquisition companies](/special-purpose-acquisition-company/) (SPACs) in the 2010s and 2020s provided a cleaner alternative to reverse mergers for private companies seeking public access.
 
 ## SPAC alternative
 
-A modern alternative to reverse mergers is the [SPAC](/special-purpose-acquisition-company) (special-purpose acquisition company). A SPAC is a blank-check company created specifically to acquire a private operating company and take it public. SPACs have several advantages over reverse mergers:
+A modern alternative to reverse mergers is the [SPAC](/special-purpose-acquisition-company/) (special-purpose acquisition company). A SPAC is a blank-check company created specifically to acquire a private operating company and take it public. SPACs have several advantages over reverse mergers:
 
 - More regulatory oversight and investor protection
 - IPO-like capital raise (proceeds held in trust)
@@ -136,17 +136,17 @@ However, the reputational risk and regulatory scrutiny associated with reverse m
 
 ### Closely related
 
-- [Initial public offering](/initial-public-offering) — traditional alternative
-- [Special-purpose acquisition company](/special-purpose-acquisition-company) — modern alternative
-- [De-SPAC transaction](/de-spac-transaction) — SPAC merger with private company
-- [Merger](/merger) — the transaction structure
-- [Acquisition](/acquisition) — the mechanism
+- [Initial public offering](/initial-public-offering/) — traditional alternative
+- [Special-purpose acquisition company](/special-purpose-acquisition-company/) — modern alternative
+- [De-SPAC transaction](/de-spac-transaction/) — SPAC merger with private company
+- [Merger](/merger/) — the transaction structure
+- [Acquisition](/acquisition/) — the mechanism
 
 ### Wider context
 
-- [Going-private transaction](/going-private) — opposite direction (public to private)
-- [Take-private](/take-private) — delisting transaction
-- [Public company](/public-company) — status after reverse merger
+- [Going-private transaction](/going-private/) — opposite direction (public to private)
+- [Take-private](/take-private/) — delisting transaction
+- [Public company](/public-company/) — status after reverse merger
 - Shell company — common target in reverse mergers
 - Shareholder dilution — consequence of reverse merger
 

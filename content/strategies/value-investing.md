@@ -11,7 +11,7 @@ keywords:
 image: "/svg/strategies.svg"
 ---
 
-*Value investing is the practice of buying a [stock](/stock) believed to trade below what a thoughtful analysis says it is actually worth — the bet being that the market's pessimism or inattention will eventually correct, delivering a [capital gain](/stock/) to the patient owner.*
+*Value investing is the practice of buying a [stock](/stock/) believed to trade below what a thoughtful analysis says it is actually worth — the bet being that the market's pessimism or inattention will eventually correct, delivering a [capital gain](/stock/) to the patient owner.*
 
 <div class="wiki-hatnote">
 

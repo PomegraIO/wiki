@@ -83,15 +83,15 @@ Whether it actually prevented another financial crisis is debatable. The financi
 ### Closely related
 
 - 2008 Financial Crisis — the crisis that prompted Dodd-Frank
-- [Glass-Steagall Passage](/glass-steagall-passage) — an earlier financial reform
+- [Glass-Steagall Passage](/glass-steagall-passage/) — an earlier financial reform
 - Financial regulation — the broader domain
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — expanded role under Dodd-Frank
+- [Federal Reserve](/federal-reserve/) — expanded role under Dodd-Frank
 - Consumer Financial Protection Bureau — created by Dodd-Frank
 - Capital requirement — imposed by Dodd-Frank
 - Derivatives — now regulated by Dodd-Frank
-- [Systemic risk](/systemic-risk) — what Dodd-Frank aimed to control
+- [Systemic risk](/systemic-risk/) — what Dodd-Frank aimed to control
 
 </div>

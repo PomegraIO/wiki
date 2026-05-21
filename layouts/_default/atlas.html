@@ -1,0 +1,90 @@
+{{ define "main" }}
+{{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" "Atlas" }}
+{{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
+{{ $total := len $entries }}
+
+{{/* Build category map (slug -> count). */}}
+{{ $cats := dict }}
+{{ range $entries }}
+  {{ $s := .Section }}
+  {{ if $s }}
+    {{ $existing := index $cats $s | default 0 }}
+    {{ $cats = merge $cats (dict $s (add $existing 1)) }}
+  {{ end }}
+{{ end }}
+{{ $catCount := len $cats }}
+
+{{/* Editorial labels + blurbs, kept in sync with index.html. */}}
+{{ $catBlurbs := dict
+  "equity"             "Stock and shareholder-equity instruments — share classes, voting rights, buybacks, employee equity."
+  "fixed-income"       "Treasury securities, corporate bonds, structured credit, money-market instruments, credit ratings."
+  "derivatives"        "Options, futures, forwards, swaps — and the Greeks and pricing models that price them."
+  "funds"              "Every flavour of pooled vehicle: ETFs, mutual funds, hedge funds, PE, sovereign-wealth, endowments."
+  "forex"              "Currency pairs, exchange-rate regimes, FX derivatives, intervention, the major reserve currencies."
+  "commodities"        "Metals, energy, agriculture and livestock — the futures curve, contango, storage, indices."
+  "macro"              "Macroeconomic concepts that move markets: output, prices, employment, the business cycle."
+  "monetary"           "Central banking, monetary policy and money-supply mechanics — rates, QE, aggregates, currencies."
+  "fiscal"             "Government finance — budgets, debt, sovereign default, taxes at the sovereign level."
+  "ratios"             "Valuation, profitability, liquidity, solvency, efficiency, market-risk ratios — when each helps."
+  "accounting"         "The three financial statements, GAAP/IFRS, key line items, the analytical bridges between statements."
+  "strategies"         "Value, growth, momentum, factor, quantitative — and tactical practices like rebalancing and harvesting."
+  "risk"               "Types of risk, measurement (VaR, CVaR, expected shortfall), stress testing, hedging."
+  "behavioral"         "Cognitive biases, prospect theory, mental accounting, market-sentiment phenomena."
+  "history"            "Crises, bubbles, panics, structural shifts — from tulip mania to the COVID crash."
+  "people"             "Famous investors, economists, and financial thinkers — focused on their ideas and influence."
+  "regulation"         "Securities laws, regulators, regulatory frameworks — Dodd-Frank, MiFID, Basel, KYC."
+  "corporate"          "M&A, takeover defences, leveraged buyouts, governance, dividend and buyback policy."
+  "personal-finance"   "Household-level money management — saving, budgeting, retirement vehicles, insurance, credit."
+  "taxes"              "Investor-facing tax concepts: capital gains, qualified dividends, cost basis, tax-advantaged structures."
+  "real-estate"        "Real-estate as asset class and as financing — REITs, mortgages, real-estate metrics."
+  "trading"            "Order types, execution, market microstructure, settlement and clearing, intraday phenomena."
+  "crypto"             "Major chains, consensus mechanisms, on-chain instruments, DeFi primitives, custody, exchanges."
+  "technical-analysis" "Chart-based analysis — candles, support/resistance, patterns, indicators, oscillators."
+  "institutions"       "Major financial firms, exchanges, clearing utilities, indices providers, rating agencies."
+  "valuation"          "DCF, multiples, residual income, real options — the methods and their inputs."
+  "markets"            "Market structure and venue mechanics — primary vs secondary, exchanges, dark pools, indices."
+}}
+
+<article class="wiki-article wiki-atlas">
+  <header class="wiki-atlas-masthead">
+    <div class="wiki-atlas-kicker">Atlas of the wiki — {{ $catCount }} sections, {{ lang.FormatNumber 0 $total }} entries</div>
+    <h1>The Atlas</h1>
+    <p class="wiki-atlas-tagline">
+      A guided tour of every editorial section. Each panel below opens with a short
+      definition of what the section covers, the entries we recommend starting with,
+      and a count of the rest. Use it as a reading map — pick any thread you're
+      curious about, then keep following the cross-links.
+    </p>
+  </header>
+
+  <div class="wiki-atlas-grid">
+    {{ range $cat, $n := $cats }}
+      {{ $label := humanize $cat }}
+      {{ if eq $cat "fixed-income" }}{{ $label = "Fixed income" }}{{ end }}
+      {{ if eq $cat "real-estate" }}{{ $label = "Real estate" }}{{ end }}
+      {{ if eq $cat "technical-analysis" }}{{ $label = "Technical analysis" }}{{ end }}
+      {{ if eq $cat "personal-finance" }}{{ $label = "Personal finance" }}{{ end }}
+      {{ $catPages := sort (where $.Site.RegularPages "Section" $cat) "Title" }}
+      {{ $first := first 8 $catPages }}
+      <section class="wiki-atlas-card">
+        <header class="wiki-atlas-card-h">
+          <img src="{{ printf "/svg/%s.svg" $cat | relURL }}" alt="" class="wiki-atlas-card-art"/>
+          <div class="wiki-atlas-card-meta">
+            <div class="wiki-atlas-card-count">{{ $n }} entries</div>
+            <h2 class="wiki-atlas-card-title">{{ $label }}</h2>
+          </div>
+        </header>
+        <p class="wiki-atlas-card-blurb">{{ index $catBlurbs $cat | default "" }}</p>
+        <ul class="wiki-atlas-card-list">
+          {{ range $first }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        {{ if gt $n 8 }}
+          <a class="wiki-atlas-card-more" href="{{ "/index-a-z/" | relURL }}#letter-{{ upper (substr (index $first 0).Title 0 1) }}">+{{ sub $n 8 }} more →</a>
+        {{ end }}
+      </section>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Great Depression as a whole. For the stock market crash that began it, see [Wall Street Crash of 1929](/wall-street-crash-of-1929); for the recovery program, see New Deal; for the economic theory that emerged from it, see Keynesian economics.
+This entry covers the Great Depression as a whole. For the stock market crash that began it, see [Wall Street Crash of 1929](/wall-street-crash-of-1929/); for the recovery program, see New Deal; for the economic theory that emerged from it, see Keynesian economics.
 
 </div>
 
@@ -81,17 +81,17 @@ The Keynesian revolution in economic theory, which held that aggregate demand co
 
 ### Closely related
 
-- [Wall Street Crash of 1929](/wall-street-crash-of-1929) — the triggering event
-- [Banking Crisis of 1933](/banking-crisis-of-1933) — the banking component
-- [Long Depression](/long-depression) — an earlier, milder version
+- [Wall Street Crash of 1929](/wall-street-crash-of-1929/) — the triggering event
+- [Banking Crisis of 1933](/banking-crisis-of-1933/) — the banking component
+- [Long Depression](/long-depression/) — an earlier, milder version
 
 ### Wider context
 
-- [Gold standard](/gold-standard) — the constraint that worsened the crisis
-- [Deflation](/deflation) — the falling prices
-- [Recession](/recession) — the cyclical aspect
+- [Gold standard](/gold-standard/) — the constraint that worsened the crisis
+- [Deflation](/deflation/) — the falling prices
+- [Recession](/recession/) — the cyclical aspect
 - New Deal — the policy response
-- [Federal Reserve](/federal-reserve) — the central bank's role and evolution
+- [Federal Reserve](/federal-reserve/) — the central bank's role and evolution
 - Fiscal policy — government spending as a remedy
 
 </div>

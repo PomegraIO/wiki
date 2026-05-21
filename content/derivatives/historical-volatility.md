@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **historical volatility (HV)** of an asset is the standard deviation of its past returns over a specific period—typically 20, 60, 120, or 252 trading days. It measures how turbulent the asset's price moves have actually been. Historical volatility is used as a proxy for future volatility when pricing [option](/option)s and is compared to [implied volatility](/implied-volatility) to identify if options are cheap or expensive.*
+*The **historical volatility (HV)** of an asset is the standard deviation of its past returns over a specific period—typically 20, 60, 120, or 252 trading days. It measures how turbulent the asset's price moves have actually been. Historical volatility is used as a proxy for future volatility when pricing [option](/option/)s and is compared to [implied volatility](/implied-volatility/) to identify if options are cheap or expensive.*
 
 <aside class="wiki-infobox">
 
@@ -51,11 +51,11 @@ HV depends critically on the lookback period. A stock's 20-day HV might be 10%, 
 
 Traders often track multiple HV timeframes (20, 30, 60, 252 days) to identify regime changes.
 
-## HV vs. [implied volatility](/implied-volatility)
+## HV vs. [implied volatility](/implied-volatility/)
 
 **Historical volatility** is what the stock has done (backward-looking, observed).
 
-**[Implied volatility](/implied-volatility)** is what the market thinks it will do (forward-looking, inferred from option prices).
+**[Implied volatility](/implied-volatility/)** is what the market thinks it will do (forward-looking, inferred from option prices).
 
 The relationship between HV and IV is central to option trading:
 
@@ -74,7 +74,7 @@ Some quants use **realized volatility**—the volatility that was actually obser
 
 ## In option pricing
 
-When [Black-Scholes model](/black-scholes-model) or other pricing models are run without market option prices (e.g., for bespoke or new options), traders input historical volatility as an estimate of what volatility the option should have. This is a rough proxy; reality is that implied volatility is usually higher (options are expensive) or lower (options are cheap) than simple HV would suggest.
+When [Black-Scholes model](/black-scholes-model/) or other pricing models are run without market option prices (e.g., for bespoke or new options), traders input historical volatility as an estimate of what volatility the option should have. This is a rough proxy; reality is that implied volatility is usually higher (options are expensive) or lower (options are cheap) than simple HV would suggest.
 
 ## See also
 

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*Real GDP is [gross domestic product](/gross-domestic-product) adjusted for inflation. It expresses all output at the prices of a fixed base year — usually 2012 or 2017 — so that the numbers reflect genuine changes in the quantity of goods and services produced, not price movements.*
+*Real GDP is [gross domestic product](/gross-domestic-product/) adjusted for inflation. It expresses all output at the prices of a fixed base year — usually 2012 or 2017 — so that the numbers reflect genuine changes in the quantity of goods and services produced, not price movements.*
 
 <div class="wiki-hatnote">
 
-Contrast with [nominal GDP](/nominal-gdp), which uses current prices and conflates inflation with genuine growth. Real GDP is what economists watch to assess whether an economy is actually producing more.
+Contrast with [nominal GDP](/nominal-gdp/), which uses current prices and conflates inflation with genuine growth. Real GDP is what economists watch to assess whether an economy is actually producing more.
 
 </div>
 
@@ -55,7 +55,7 @@ To solve this, modern statistical agencies use **chained dollars** — a techniq
 
 ## The deflator
 
-The [GDP deflator](/gdp-deflator) is the price index used to convert [nominal GDP](/nominal-gdp) to real GDP. Unlike the [Consumer Price Index](/consumer-price-index), which tracks only consumer goods, the GDP deflator covers all goods and services produced in the economy — including business investment and government output.
+The [GDP deflator](/gdp-deflator/) is the price index used to convert [nominal GDP](/nominal-gdp/) to real GDP. Unlike the [Consumer Price Index](/consumer-price-index/), which tracks only consumer goods, the GDP deflator covers all goods and services produced in the economy — including business investment and government output.
 
 The formula is simple:
 
@@ -65,20 +65,20 @@ If the deflator is 110, meaning prices have risen 10% from the base year, dividi
 
 ## Real growth and living standards
 
-Real GDP growth per person — [GDP per capita](/gdp-per-capita) — is the single best rough proxy for rising or falling living standards over long periods. A sustained 2% annual real growth allows the average household to double its purchasing power in 35 years.
+Real GDP growth per person — [GDP per capita](/gdp-per-capita/) — is the single best rough proxy for rising or falling living standards over long periods. A sustained 2% annual real growth allows the average household to double its purchasing power in 35 years.
 
 Very low real growth (below 1% per year) often signals secular stagnation or structural drag. Very high real growth (above 5% annually) is usually unsustainable and suggests either rapid catch-up in a developing economy or a temporary cyclical upswing.
 
 ## Real growth and the business cycle
 
-The pattern of real GDP growth defines the [business cycle](/business-cycle):
+The pattern of real GDP growth defines the [business cycle](/business-cycle/):
 
 - **Expansion** — real GDP growing and above trend, typically 3–4% annually.
 - **Peak** — the point where real growth is strongest but about to slow.
-- **Contraction** — real GDP declining quarter-over-quarter, the technical definition of [recession](/recession).
+- **Contraction** — real GDP declining quarter-over-quarter, the technical definition of [recession](/recession/).
 - **Trough** — the low point; growth is about to return.
 
-[Central banks](/central-bank) and governments closely monitor real GDP to detect where in the cycle the economy sits and adjust policy accordingly.
+[Central banks](/central-bank/) and governments closely monitor real GDP to detect where in the cycle the economy sits and adjust policy accordingly.
 
 ## See also
 
@@ -86,18 +86,18 @@ The pattern of real GDP growth defines the [business cycle](/business-cycle):
 
 ### Closely related
 
-- [Nominal GDP](/nominal-gdp) — GDP in current dollars
-- [GDP deflator](/gdp-deflator) — the price index used to convert nominal to real
-- [Gross Domestic Product](/gross-domestic-product) — the broader concept
-- [GDP per capita](/gdp-per-capita) — real GDP divided by population
-- [Potential GDP](/potential-gdp) — the non-inflationary trend level
-- [Output gap](/output-gap) — actual minus potential real GDP
+- [Nominal GDP](/nominal-gdp/) — GDP in current dollars
+- [GDP deflator](/gdp-deflator/) — the price index used to convert nominal to real
+- [Gross Domestic Product](/gross-domestic-product/) — the broader concept
+- [GDP per capita](/gdp-per-capita/) — real GDP divided by population
+- [Potential GDP](/potential-gdp/) — the non-inflationary trend level
+- [Output gap](/output-gap/) — actual minus potential real GDP
 
 ### Broader context
 
-- [Inflation](/inflation) — why real and nominal differ
-- [Consumer Price Index](/consumer-price-index) — alternative price measure
-- [Productivity](/productivity) — the driver of sustainable real growth
-- [Business cycle](/business-cycle) — expansions and recessions
+- [Inflation](/inflation/) — why real and nominal differ
+- [Consumer Price Index](/consumer-price-index/) — alternative price measure
+- [Productivity](/productivity/) — the driver of sustainable real growth
+- [Business cycle](/business-cycle/) — expansions and recessions
 
 </div>

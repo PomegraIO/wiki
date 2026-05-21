@@ -122,9 +122,9 @@ A DCF implying a 3% FCF yield when you require 8% suggests your terminal growth 
 
 ### Closely related
 
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the detailed approach
-- [Enterprise value](/enterprise-value) — the denominator
-- [Free cash flow](/free-cash-flow) — the numerator
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the detailed approach
+- [Enterprise value](/enterprise-value/) — the denominator
+- [Free cash flow](/free-cash-flow/) — the numerator
 - Yield — the metric
 
 ### Related metrics
@@ -134,14 +134,14 @@ A DCF implying a 3% FCF yield when you require 8% suggests your terminal growth 
 
 ### Valuation integration
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — detailed method
-- [Multiples valuation](/multiples-valuation) — multiple approaches
-- [Comparable company analysis](/comparable-company-analysis) — peer comparison
-- [Football field valuation](/football-field-valuation) — combining methods
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — detailed method
+- [Multiples valuation](/multiples-valuation/) — multiple approaches
+- [Comparable company analysis](/comparable-company-analysis/) — peer comparison
+- [Football field valuation](/football-field-valuation/) — combining methods
 
 ### Adjustments and refinement
 
-- [PEG ratio](/peg-ratio) — yield adjusted for growth
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — required yield sensitivity
+- [PEG ratio](/peg-ratio/) — yield adjusted for growth
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — required yield sensitivity
 
 </div>

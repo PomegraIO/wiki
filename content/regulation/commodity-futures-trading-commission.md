@@ -15,7 +15,7 @@ image: "/svg/regulation.svg"
 
 <div class="wiki-hatnote">
 
-The CFTC regulates commodities and derivatives. The [SEC](/securities-and-exchange-commission) regulates securities (stocks and bonds). When an asset could be classified as both — particularly certain swaps — jurisdiction is shared and sometimes contested.
+The CFTC regulates commodities and derivatives. The [SEC](/securities-and-exchange-commission/) regulates securities (stocks and bonds). When an asset could be classified as both — particularly certain swaps — jurisdiction is shared and sometimes contested.
 
 </div>
 
@@ -47,7 +47,7 @@ Unlike stocks, commodity futures are highly leveraged — you can control a cont
 
 ## Swaps and the post-2008 expansion
 
-Before 2008, swaps — customized derivatives agreements between two parties, such as interest-rate swaps or credit default swaps — operated in a largely unregulated shadow market. The [Dodd-Frank Act](/dodd-frank-act) of 2010 brought swaps under CFTC jurisdiction (and partly SEC jurisdiction, depending on the swap). Now most standardized swaps must be traded on regulated exchanges and cleared through a clearinghouse. Dealers must register with the CFTC. This was meant to reduce counterparty risk and increase transparency. In practice, it moved derivatives off the exchanges and into "swaps dealers" networks, and much of the market remains opaque.
+Before 2008, swaps — customized derivatives agreements between two parties, such as interest-rate swaps or credit default swaps — operated in a largely unregulated shadow market. The [Dodd-Frank Act](/dodd-frank-act/) of 2010 brought swaps under CFTC jurisdiction (and partly SEC jurisdiction, depending on the swap). Now most standardized swaps must be traded on regulated exchanges and cleared through a clearinghouse. Dealers must register with the CFTC. This was meant to reduce counterparty risk and increase transparency. In practice, it moved derivatives off the exchanges and into "swaps dealers" networks, and much of the market remains opaque.
 
 ## Position limits and speculation
 
@@ -67,16 +67,16 @@ Commodity futures trade on federally designated contract markets (DCMs), the lar
 
 ### Closely related
 
-- [Dodd-Frank Act](/dodd-frank-act) — the statute that expanded CFTC authority to swaps
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — the SEC shares derivatives jurisdiction
-- [Option](/option) — a type of contract the CFTC regulates
-- [Short selling](/short-selling) — speculators often use futures to bet on price declines
-- [Hedge fund](/hedge-fund) — major users of commodity derivatives
+- [Dodd-Frank Act](/dodd-frank-act/) — the statute that expanded CFTC authority to swaps
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — the SEC shares derivatives jurisdiction
+- [Option](/option/) — a type of contract the CFTC regulates
+- [Short selling](/short-selling/) — speculators often use futures to bet on price declines
+- [Hedge fund](/hedge-fund/) — major users of commodity derivatives
 
 ### Wider context
 
-- [Central bank](/central-bank) — often intervenes in commodity markets
-- [Inflation](/inflation) — commodity prices are a key component
+- [Central bank](/central-bank/) — often intervenes in commodity markets
+- [Inflation](/inflation/) — commodity prices are a key component
 - Market volatility — commodity futures amplify price moves
 - Leverage — a core feature of futures trading
 

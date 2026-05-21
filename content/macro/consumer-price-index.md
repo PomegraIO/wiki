@@ -10,11 +10,11 @@ keywords:
 image: "/svg/macro.svg"
 ---
 
-*The Consumer Price Index (CPI) is the most widely cited [inflation](/inflation) metric in the US. It measures the average change in prices that households pay for goods and services, from gasoline to haircuts to healthcare. The Bureau of Labor Statistics publishes CPI monthly, making it a timely inflation gauge.*
+*The Consumer Price Index (CPI) is the most widely cited [inflation](/inflation/) metric in the US. It measures the average change in prices that households pay for goods and services, from gasoline to haircuts to healthcare. The Bureau of Labor Statistics publishes CPI monthly, making it a timely inflation gauge.*
 
 <div class="wiki-hatnote">
 
-CPI comes in two main variants: [headline CPI](/headline-inflation) (all items) and [core CPI](/core-inflation) (excluding volatile food and energy). The [Federal Reserve](/federal-reserve) targets 2% [inflation](/inflation), usually measured as the "core" PCE deflator, which is similar to core CPI.
+CPI comes in two main variants: [headline CPI](/headline-inflation/) (all items) and [core CPI](/core-inflation/) (excluding volatile food and energy). The [Federal Reserve](/federal-reserve/) targets 2% [inflation](/inflation/), usually measured as the "core" PCE deflator, which is similar to core CPI.
 
 </div>
 
@@ -52,19 +52,19 @@ The "market basket" is fixed annually based on Consumer Expenditure Survey data.
 
 ## Headline versus core
 
-**[Headline CPI](/headline-inflation):**
+**[Headline CPI](/headline-inflation/):**
 - Includes all items, especially food and energy.
 - More volatile due to oil price swings.
 - What consumers actually pay at the grocery pump.
 - Example: Oil spikes → headline CPI spikes 6 months later.
 
-**[Core CPI](/core-inflation):**
+**[Core CPI](/core-inflation/):**
 - Excludes food and energy (volatile items).
 - Smoother, better for identifying underlying trends.
-- What the [Federal Reserve](/federal-reserve) watches most closely.
+- What the [Federal Reserve](/federal-reserve/) watches most closely.
 - Example: Oil spikes, but core CPI unaffected.
 
-In 2021-22, headline CPI spiked due to energy prices; core CPI rose more moderately. The Fed focused on core as a better signal of demand-driven [inflation](/inflation).
+In 2021-22, headline CPI spiked due to energy prices; core CPI rose more moderately. The Fed focused on core as a better signal of demand-driven [inflation](/inflation/).
 
 ## Calculation methodology
 
@@ -84,35 +84,35 @@ CPI is seasonally adjusted (winter utilities costs more; summer clothing sales a
 
 Alternative measures try to filter out noise:
 
-- **[Sticky-price CPI](/sticky-price-cpi):** Only items that rarely change prices (rents, insurance, healthcare). Often turns faster than overall CPI.
-- **[Trimmed-mean CPI](/trimmed-mean-cpi):** Removes the highest and lowest 10% price movers each month. Less volatile than headline, smoother than core.
+- **[Sticky-price CPI](/sticky-price-cpi/):** Only items that rarely change prices (rents, insurance, healthcare). Often turns faster than overall CPI.
+- **[Trimmed-mean CPI](/trimmed-mean-cpi/):** Removes the highest and lowest 10% price movers each month. Less volatile than headline, smoother than core.
 
-The Fed watches all these variants to triangulate true underlying [inflation](/inflation).
+The Fed watches all these variants to triangulate true underlying [inflation](/inflation/).
 
 ## CPI and real wages
 
-The relationship between nominal wage growth and CPI [inflation](/inflation) determines real wage growth:
+The relationship between nominal wage growth and CPI [inflation](/inflation/) determines real wage growth:
 
-**Real wage growth = Nominal wage growth − CPI [inflation](/inflation)**
+**Real wage growth = Nominal wage growth − CPI [inflation](/inflation/)**
 
-If wages rise 3% and CPI [inflation](/inflation) is 4%, real wages fall 1%. This has been a concern in the 2021-25 period: nominal wage growth picked up, but CPI [inflation](/inflation) eroded real gains initially.
+If wages rise 3% and CPI [inflation](/inflation/) is 4%, real wages fall 1%. This has been a concern in the 2021-25 period: nominal wage growth picked up, but CPI [inflation](/inflation/) eroded real gains initially.
 
 ## Limitations of CPI
 
 - **It does not reflect quality improvements.** A new car is vastly better than 1980s models, but CPI assigns a price based on specs that may not capture the improvement.
 - **Weighting is backward-looking.** The basket is updated annually, so shifts in spending take time to filter in.
 - **It does not account for substitution.** When beef prices spike, consumers switch to chicken; CPI assumes they keep buying beef.
-- **Owner-occupied housing is imputed.** Homeowners' "rent" is estimated ([owners' equivalent rent](/owners-equivalent-rent)), which is noisy.
+- **Owner-occupied housing is imputed.** Homeowners' "rent" is estimated ([owners' equivalent rent](/owners-equivalent-rent/)), which is noisy.
 
-For these reasons, economists supplement CPI with alternatives like the [PCE deflator](/personal-consumption-expenditures-price-index).
+For these reasons, economists supplement CPI with alternatives like the [PCE deflator](/personal-consumption-expenditures-price-index/).
 
 ## CPI and markets
 
 Markets react sharply to CPI releases. A "hotter than expected" CPI (higher than forecasts) typically:
 
 - **Weakens stocks** (recession/rate-hike fears).
-- **Weakens bonds** (yields rise as [inflation](/inflation) expectations increase).
-- **Strengthens the dollar** (higher [interest rates](/interest-rate) attracted capital).
+- **Weakens bonds** (yields rise as [inflation](/inflation/) expectations increase).
+- **Strengthens the dollar** (higher [interest rates](/interest-rate/) attracted capital).
 
 A "cooler than expected" CPI has the opposite effect.
 
@@ -122,17 +122,17 @@ A "cooler than expected" CPI has the opposite effect.
 
 ### Closely related
 
-- [Headline inflation](/headline-inflation) — all items
-- [Core inflation](/core-inflation) — excluding food and energy
-- [Sticky-price CPI](/sticky-price-cpi) — sticky items only
-- [Trimmed-mean CPI](/trimmed-mean-cpi) — excluding extremes
-- [Personal consumption expenditures price index](/personal-consumption-expenditures-price-index) — alternative measure
+- [Headline inflation](/headline-inflation/) — all items
+- [Core inflation](/core-inflation/) — excluding food and energy
+- [Sticky-price CPI](/sticky-price-cpi/) — sticky items only
+- [Trimmed-mean CPI](/trimmed-mean-cpi/) — excluding extremes
+- [Personal consumption expenditures price index](/personal-consumption-expenditures-price-index/) — alternative measure
 
 ### Broader context
 
-- [Inflation](/inflation) — what CPI measures
-- [Producer price index](/producer-price-index) — prices firms pay
-- [Deflation](/deflation) — negative CPI growth
+- [Inflation](/inflation/) — what CPI measures
+- [Producer price index](/producer-price-index/) — prices firms pay
+- [Deflation](/deflation/) — negative CPI growth
 - Monetary policy — Fed targets ~2% inflation
 - Real wages — nominal wages minus CPI inflation
 

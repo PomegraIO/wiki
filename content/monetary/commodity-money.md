@@ -10,11 +10,11 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*A **commodity money** is money whose value comes from the material itself, not from a government guarantee or representation of something else. Gold coins and silver coins are commodity money—the metal itself is valuable for jewelry, industrial use, or simply because people value it. Commodity money contrasts with [fiat money](/fiat-money) (valuable by decree) and [representative money](/representative-money) (a token representing a claim on a commodity).*
+*A **commodity money** is money whose value comes from the material itself, not from a government guarantee or representation of something else. Gold coins and silver coins are commodity money—the metal itself is valuable for jewelry, industrial use, or simply because people value it. Commodity money contrasts with [fiat money](/fiat-money/) (valuable by decree) and [representative money](/representative-money/) (a token representing a claim on a commodity).*
 
 <div class="wiki-hatnote">
 
-This entry covers commodity money's nature and history. For alternatives, see [fiat-money](/fiat-money) and [representative-money](/representative-money).
+This entry covers commodity money's nature and history. For alternatives, see [fiat-money](/fiat-money/) and [representative-money](/representative-money/).
 
 </div>
 
@@ -56,15 +56,15 @@ This constraint is simultaneously an advantage and a disadvantage:
 
 **Advantage:** Inflation is nearly impossible. If money supply is limited by the amount of gold or silver available, the price level is naturally stable. A doubling of money happens only if miners discover twice as much gold, which is slow.
 
-**Disadvantage:** Money supply cannot expand to meet economic needs. During a [recession](/recession) or when the economy grows and needs more money, the government cannot simply create it. Economic activity is constrained by the availability of the commodity.
+**Disadvantage:** Money supply cannot expand to meet economic needs. During a [recession](/recession/) or when the economy grows and needs more money, the government cannot simply create it. Economic activity is constrained by the availability of the commodity.
 
 ## Historical use and the gold standard
 
 Gold has been used as commodity money for thousands of years. In the 19th and early 20th centuries, most major economies operated on the **gold standard**, in which paper money was either gold coins or redeemable for gold. This created a de facto limit on money creation.
 
-The gold standard provided price stability (low [inflation](/inflation)) but also constrained governments' ability to respond to crises. During the Great Depression, countries on the gold standard could not expand [money supply](/m1) to counter the collapse, making the crisis worse.
+The gold standard provided price stability (low [inflation](/inflation/)) but also constrained governments' ability to respond to crises. During the Great Depression, countries on the gold standard could not expand [money supply](/m1/) to counter the collapse, making the crisis worse.
 
-By the mid-20th century, the gold standard was abandoned. First, countries suspended gold redemption during wars (1914–1918, 1939–1945). After WWII, the Bretton Woods system kept the dollar nominally tied to gold (at $35 per ounce) but other currencies floated relative to the dollar. In 1971, the US abandoned even this vestigial link, and the world moved to pure [fiat money](/fiat-money).
+By the mid-20th century, the gold standard was abandoned. First, countries suspended gold redemption during wars (1914–1918, 1939–1945). After WWII, the Bretton Woods system kept the dollar nominally tied to gold (at $35 per ounce) but other currencies floated relative to the dollar. In 1971, the US abandoned even this vestigial link, and the world moved to pure [fiat money](/fiat-money/).
 
 ## Why commodity money was abandoned
 
@@ -76,7 +76,7 @@ Additionally, gold (or any commodity) is economically inefficient as money. Reso
 
 Commodity money no longer exists as the primary currency of any nation. However:
 
-- **Gold remains a store of value.** Central banks and wealthy individuals hold gold as a hedge against currency collapse or [inflation](/inflation).
+- **Gold remains a store of value.** Central banks and wealthy individuals hold gold as a hedge against currency collapse or [inflation](/inflation/).
 - **Commodity-linked contracts** allow trading of oil, wheat, and metals, though not as primary money.
 - **Cryptocurrency advocates** sometimes propose commodity-backed digital currencies, though adoption has been minimal.
 
@@ -86,17 +86,17 @@ Commodity money no longer exists as the primary currency of any nation. However:
 
 ### Closely related
 
-- [Fiat money](/fiat-money) — modern standard; no commodity backing
-- [Representative money](/representative-money) — token backed by commodity
-- [Gold standard](/central-bank) — system tying money to gold
-- [Monetary base](/monetary-base) — modern foundation
+- [Fiat money](/fiat-money/) — modern standard; no commodity backing
+- [Representative money](/representative-money/) — token backed by commodity
+- [Gold standard](/central-bank/) — system tying money to gold
+- [Monetary base](/monetary-base/) — modern foundation
 
 ### Wider context
 
-- [Money supply](/m1) — what commodity money constrains
-- [Monetary policy](/monetary-policy) — impossible under pure commodity money
-- [Inflation](/inflation) — constrained by commodity availability
-- [Interest rate](/interest-rate) — still exists under commodity money
-- [Central bank](/central-bank) — less powerful under commodity money
+- [Money supply](/m1/) — what commodity money constrains
+- [Monetary policy](/monetary-policy/) — impossible under pure commodity money
+- [Inflation](/inflation/) — constrained by commodity availability
+- [Interest rate](/interest-rate/) — still exists under commodity money
+- [Central bank](/central-bank/) — less powerful under commodity money
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **fixed-charge coverage ratio** divides operating income (EBIT) by total fixed charges (interest, rent, debt principal, and other committed obligations). It is broader than [interest-coverage-ratio](/interest-coverage-ratio) because it includes all non-negotiable payments.*
+*The **fixed-charge coverage ratio** divides operating income (EBIT) by total fixed charges (interest, rent, debt principal, and other committed obligations). It is broader than [interest-coverage-ratio](/interest-coverage-ratio/) because it includes all non-negotiable payments.*
 
 <aside class="wiki-infobox">
 
@@ -60,8 +60,8 @@ EBIT ÷ (Interest + Rent + Principal due + Other fixed charges).
 
 ### Closely related
 
-- [Interest-coverage-ratio](/interest-coverage-ratio)
-- [DSCR](/dscr)
+- [Interest-coverage-ratio](/interest-coverage-ratio/)
+- [DSCR](/dscr/)
 - Fixed costs
 - Solvency
 

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **knock-out option** (also **out-option**) is a [barrier option](/barrier-option) that terminates (expires worthless) if the underlying asset's price crosses a predetermined barrier level at any point before [expiration date](/expiration-date). Before the barrier is touched, it behaves like a vanilla [call](/call-option) or [put](/put-option). Once crossed, it is instantly worthless regardless of the underlying price at expiration. There are two types: **up-and-out** (terminates if price rises above the barrier) and **down-and-out** (terminates if price falls below the barrier). Knock-out options are cheaper than vanilla options because the payoff probability is reduced.*
+*A **knock-out option** (also **out-option**) is a [barrier option](/barrier-option/) that terminates (expires worthless) if the underlying asset's price crosses a predetermined barrier level at any point before [expiration date](/expiration-date/). Before the barrier is touched, it behaves like a vanilla [call](/call-option/) or [put](/put-option/). Once crossed, it is instantly worthless regardless of the underlying price at expiration. There are two types: **up-and-out** (terminates if price rises above the barrier) and **down-and-out** (terminates if price falls below the barrier). Knock-out options are cheaper than vanilla options because the payoff probability is reduced.*
 
 <aside class="wiki-infobox">
 
@@ -91,9 +91,9 @@ Knock-out option pricing requires calculating the probability that the barrier w
 
 Prob(no barrier hit) = 1 − Prob(barrier hit)
 
-Higher [volatility](/historical-volatility) increases the probability of hitting the barrier, reducing knock-out value.
+Higher [volatility](/historical-volatility/) increases the probability of hitting the barrier, reducing knock-out value.
 
-[Monte-carlo-options-pricing](/monte-carlo-options-pricing) simulates paths and checks if any price exceeds the barrier.
+[Monte-carlo-options-pricing](/monte-carlo-options-pricing/) simulates paths and checks if any price exceeds the barrier.
 
 ## See also
 
@@ -116,7 +116,7 @@ Higher [volatility](/historical-volatility) increases the probability of hitting
 
 ### Related concepts
 
-- [Barrier](/barrier-option) — termination level
+- [Barrier](/barrier-option/) — termination level
 - [Path-dependent option](/asian-option/) — full history matters
 - [Option premium](/option-premium/) — very low for knock-outs
 - [Strike price](/strike-price/) — independent of barrier
@@ -125,7 +125,7 @@ Higher [volatility](/historical-volatility) increases the probability of hitting
 
 - [Option](/option/) — the family of derivatives
 - [Hedging](/hedge-fund/) — cheap bets with capped risk
-- [Speculation](/stock-market) — leveraged bets with barriers
+- [Speculation](/stock-market/) — leveraged bets with barriers
 - [Risk management](/hedge-fund/) — barrier risk control
 
 </div>

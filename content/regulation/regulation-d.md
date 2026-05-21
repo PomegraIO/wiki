@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation D](/regulation-d) is the [SEC](/securities-and-exchange-commission)'s exemption from full [Securities Act of 1933](/securities-act-of-1933) registration for private offerings of securities. It allows companies to raise capital from accredited investors (wealthy and sophisticated individuals) and a limited number of sophisticated investors without filing a prospectus or undergoing SEC review. Rule 506 (the largest Reg D exemption) has no dollar limit — companies can raise billions as long as they comply.*
+*[Regulation D](/regulation-d/) is the [SEC](/securities-and-exchange-commission/)'s exemption from full [Securities Act of 1933](/securities-act-of-1933/) registration for private offerings of securities. It allows companies to raise capital from accredited investors (wealthy and sophisticated individuals) and a limited number of sophisticated investors without filing a prospectus or undergoing SEC review. Rule 506 (the largest Reg D exemption) has no dollar limit — companies can raise billions as long as they comply.*
 
 <div class="wiki-hatnote">
 
-Regulation D is for private offerings. [Regulation A](/regulation-a) is for small public offerings. [Regulation Crowdfunding](/regulation-cf) is for crowdfunding offerings.
+Regulation D is for private offerings. [Regulation A](/regulation-a/) is for small public offerings. [Regulation Crowdfunding](/regulation-cf/) is for crowdfunding offerings.
 
 </div>
 
@@ -40,13 +40,13 @@ Regulation D is for private offerings. [Regulation A](/regulation-a) is for smal
 
 ## The Regulation D structure
 
-Regulation D has three tiers (Rules 504, 505, 506), each with different dollar limits and investor restrictions. The largest and most important is Rule 506, which has no dollar ceiling and allows companies to raise unlimited capital from unlimited [accredited investors](/accredited-investor) (and up to 35 non-accredited sophisticated investors, under Rule 506(b), or accredited-only under Rule 506(c)).
+Regulation D has three tiers (Rules 504, 505, 506), each with different dollar limits and investor restrictions. The largest and most important is Rule 506, which has no dollar ceiling and allows companies to raise unlimited capital from unlimited [accredited investors](/accredited-investor/) (and up to 35 non-accredited sophisticated investors, under Rule 506(b), or accredited-only under Rule 506(c)).
 
 A Regulation D offering requires only that the company file a Form D with the SEC — a 4-page form announcing the offering after it has closed. The SEC does not review or approve the offering; it simply collects data. The company avoids the burden and expense of prospectus review that a full registration requires.
 
 ## Accredited investor: the definition
 
-An [accredited investor](/accredited-investor) is defined as:
+An [accredited investor](/accredited-investor/) is defined as:
 
 - An individual with annual income over $200,000 (or $300,000 joint with spouse), in the past two years and reasonably expected to continue, or
 - Net worth exceeding $1 million (excluding primary residence), or
@@ -57,7 +57,7 @@ The definition is straightforward but the verification is company's responsibili
 
 ## Rule 506(c): advertised offerings
 
-Before the [JOBS Act](/jobs-act), Rule 506 offerings could not be advertised — the company had to solicit investors privately, and investors had to have a pre-existing relationship with the company. This made fundraising difficult for new companies.
+Before the [JOBS Act](/jobs-act/), Rule 506 offerings could not be advertised — the company had to solicit investors privately, and investors had to have a pre-existing relationship with the company. This made fundraising difficult for new companies.
 
 The JOBS Act created Rule 506(c), which allows companies to advertise Rule 506 offerings to accredited investors. AngelList, SeedInvest, and other platforms now use Rule 506(c) to connect startups with investor networks. Investors prove accreditation (tax returns, net worth statements) and participate.
 
@@ -83,17 +83,17 @@ Regulation D, especially Rule 506(c), is the backbone of venture capital fundrai
 
 ### Closely related
 
-- [Regulation A](/regulation-a) — for smaller public offerings
-- [Regulation Crowdfunding](/regulation-cf) — for crowdfunding
-- [Securities Act of 1933](/securities-act-of-1933) — the law Reg D exempts from
-- [Accredited investor](/accredited-investor) — key to Reg D
+- [Regulation A](/regulation-a/) — for smaller public offerings
+- [Regulation Crowdfunding](/regulation-cf/) — for crowdfunding
+- [Securities Act of 1933](/securities-act-of-1933/) — the law Reg D exempts from
+- [Accredited investor](/accredited-investor/) — key to Reg D
 - Venture capital — primary user
 
 ### Wider context
 
 - Private equity — uses Reg D
 - Startup — funded via Reg D
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
-- [Initial public offering](/initial-public-offering) — eventual exit
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
+- [Initial public offering](/initial-public-offering/) — eventual exit
 
 </div>

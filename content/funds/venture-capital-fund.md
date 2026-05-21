@@ -11,11 +11,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*A **venture capital fund** is a [private equity fund](/private-equity-fund) that invests in early-stage, high-growth companies — typically startups — with the goal of building them into large, profitable, or publicly traded businesses. Venture capital (VC) targets 30–50% annual returns and accepts that most investments will fail; success depends on a small number of "home run" companies that return 100x or more.*
+*A **venture capital fund** is a [private equity fund](/private-equity-fund/) that invests in early-stage, high-growth companies — typically startups — with the goal of building them into large, profitable, or publicly traded businesses. Venture capital (VC) targets 30–50% annual returns and accepts that most investments will fail; success depends on a small number of "home run" companies that return 100x or more.*
 
 <div class="wiki-hatnote">
 
-This entry covers venture capital as a strategy. For private equity broadly, see [private equity fund](/private-equity-fund); for later-stage private investing, see [growth equity](/private-equity-fund).
+This entry covers venture capital as a strategy. For private equity broadly, see [private equity fund](/private-equity-fund/); for later-stage private investing, see [growth equity](/private-equity-fund/).
 
 </div>
 
@@ -35,8 +35,8 @@ This entry covers venture capital as a strategy. For private equity broadly, see
 | **Capital source** | Institutional investors, ultra-high-net-worth individuals |
 | **Minimum investment** | $250,000–$5 million |
 | **Fund life** | 10 years (standard) |
-| **[Management fee](/management-fee)** | 2% of assets under management |
-| **[Performance fee](/performance-fee)** | 20% of profits ("carry") |
+| **[Management fee](/management-fee/)** | 2% of assets under management |
+| **[Performance fee](/performance-fee/)** | 20% of profits ("carry") |
 | **Target return** | 30%–50% annually (ambitious goal) |
 | **Median return** | 15%–20% (including failures) |
 | **Time to realization** | 7–10 years |
@@ -101,7 +101,7 @@ VC investing is stratified by company stage:
 | Series B | 2–3 years | $15M–$50M | Scaling operations, entering new markets |
 | Series C | 3+ years | $50M–$200M+ | Geographic expansion, profitability path |
 
-Larger, later-stage rounds are sometimes called "growth equity" and are intermediate between VC and [private equity](/private-equity-fund).
+Larger, later-stage rounds are sometimes called "growth equity" and are intermediate between VC and [private equity](/private-equity-fund/).
 
 ## Who benefits from venture capital
 
@@ -144,18 +144,18 @@ Direct VC investing is rarely available to retail investors because of SEC regul
 
 ### Closely related
 
-- [Private equity fund](/private-equity-fund) — the broader category
-- [Growth equity](/private-equity-fund) — later-stage private investing
-- [Fund of funds](/fund-of-funds) — pools multiple VC funds
-- [Management fee](/management-fee) · [Performance fee](/performance-fee) — VC compensation
-- [Initial public offering](/initial-public-offering) — common VC exit
+- [Private equity fund](/private-equity-fund/) — the broader category
+- [Growth equity](/private-equity-fund/) — later-stage private investing
+- [Fund of funds](/fund-of-funds/) — pools multiple VC funds
+- [Management fee](/management-fee/) · [Performance fee](/performance-fee/) — VC compensation
+- [Initial public offering](/initial-public-offering/) — common VC exit
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — related alternative investment
-- [Leverage](/option) — less used in VC than in private equity
-- [Diversification](/diversification) — role in institutional portfolios
-- [Stock](/stock) — equity basis of VC returns
-- [Risk](/option) — extremely high in VC
+- [Hedge fund](/hedge-fund/) — related alternative investment
+- [Leverage](/option/) — less used in VC than in private equity
+- [Diversification](/diversification/) — role in institutional portfolios
+- [Stock](/stock/) — equity basis of VC returns
+- [Risk](/option/) — extremely high in VC
 
 </div>

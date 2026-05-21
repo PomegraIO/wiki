@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers scorched-earth defense as an extreme takeover strategy. For other defences, see [poison pill](/poison-pill), [white knight](/white-knight), and [crown jewel defence](/crown-jewel-defense).
+This entry covers scorched-earth defense as an extreme takeover strategy. For other defences, see [poison pill](/poison-pill/), [white knight](/white-knight/), and [crown jewel defence](/crown-jewel-defense/).
 
 </div>
 
@@ -42,13 +42,13 @@ This entry covers scorched-earth defense as an extreme takeover strategy. For ot
 
 A scorched-earth defense deploys one or more of these tactics:
 
-**Asset sales.** The target sells off divisions, subsidiaries, or valuable assets at below-market prices to raise cash or remove strategic value. Unlike a [crown jewel defence](/crown-jewel-defense) where the sale target is predetermined, a scorched-earth asset sale is indiscriminate — the board sells whatever it can to erode the company's value.
+**Asset sales.** The target sells off divisions, subsidiaries, or valuable assets at below-market prices to raise cash or remove strategic value. Unlike a [crown jewel defence](/crown-jewel-defense/) where the sale target is predetermined, a scorched-earth asset sale is indiscriminate — the board sells whatever it can to erode the company's value.
 
 **Debt accumulation.** The target issues large amounts of bonds or takes on bank debt, using the proceeds to pay special dividends to shareholders or repurchase shares. This leaves the acquirer with a heavily indebted company, reducing the economic value of the acquisition.
 
 **Special dividends.** The target declares a large, one-time dividend to shareholders, draining cash from the company and reducing the cash available to the acquirer.
 
-**Executive departures.** Key executives resign or are terminated in a way that triggers large severance payments ([golden parachutes](/golden-parachute)), draining cash and removing critical talent.
+**Executive departures.** Key executives resign or are terminated in a way that triggers large severance payments ([golden parachutes](/golden-parachute/)), draining cash and removing critical talent.
 
 **Operational sabotage.** In extreme cases, a target might deliberately allow operations to deteriorate, customer relationships to decay, or contracts to lapse, making the company less attractive.
 
@@ -105,18 +105,18 @@ Most scorched-earth tactics fail these tests.
 
 ### Closely related
 
-- [Hostile takeover](/hostile-takeover) — what scorched-earth defends against
-- [Crown jewel defence](/crown-jewel-defense) — targeted asset sale defence
-- [Poison pill](/poison-pill) — less destructive alternative defence
-- [White knight](/white-knight) — friendly alternative
-- [Golden parachute](/golden-parachute) — executive severance in hostile contexts
+- [Hostile takeover](/hostile-takeover/) — what scorched-earth defends against
+- [Crown jewel defence](/crown-jewel-defense/) — targeted asset sale defence
+- [Poison pill](/poison-pill/) — less destructive alternative defence
+- [White knight](/white-knight/) — friendly alternative
+- [Golden parachute](/golden-parachute/) — executive severance in hostile contexts
 
 ### Wider context
 
 - Board of directors — must authorize scorched-earth actions
-- [Fiduciary duty](/fiduciary-duty) — constrains scorched-earth strategies
-- [Divestiture](/divestiture) — asset sales used in scorched-earth
-- [Special dividend](/special-dividend) — cash drain tactic
-- [Change of control provision](/change-of-control-provision) — may trigger with damage
+- [Fiduciary duty](/fiduciary-duty/) — constrains scorched-earth strategies
+- [Divestiture](/divestiture/) — asset sales used in scorched-earth
+- [Special dividend](/special-dividend/) — cash drain tactic
+- [Change of control provision](/change-of-control-provision/) — may trigger with damage
 
 </div>

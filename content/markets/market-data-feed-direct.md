@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*A **direct market data feed** is a real-time data stream offered by a stock exchange, providing quotes, trades, and order book information to subscribers. Direct feeds are faster than consolidated market data (the [SIP](/sip-securities-information-processor)) and show more detail (full order book), but come with subscription costs. Institutional investors and high-frequency traders rely on direct feeds.*
+*A **direct market data feed** is a real-time data stream offered by a stock exchange, providing quotes, trades, and order book information to subscribers. Direct feeds are faster than consolidated market data (the [SIP](/sip-securities-information-processor/)) and show more detail (full order book), but come with subscription costs. Institutional investors and high-frequency traders rely on direct feeds.*
 
 <div class="wiki-hatnote">
 
-This entry is about exchange-provided data feeds. For the consolidated system, see [SIP](/sip-securities-information-processor) and [consolidated tape](/consolidated-tape); for cost and latency comparisons, see [market-data-feed-consolidated](/market-data-feed-consolidated).
+This entry is about exchange-provided data feeds. For the consolidated system, see [SIP](/sip-securities-information-processor/) and [consolidated tape](/consolidated-tape/); for cost and latency comparisons, see [market-data-feed-consolidated](/market-data-feed-consolidated/).
 
 </div>
 
@@ -79,7 +79,7 @@ High-frequency traders who need to detect emerging liquidity use Level 3 or high
 
 ## Latency advantage
 
-Direct feeds are substantially faster than [consolidated tape](/consolidated-tape) [SIP](/sip-securities-information-processor) data:
+Direct feeds are substantially faster than [consolidated tape](/consolidated-tape/) [SIP](/sip-securities-information-processor/) data:
 
 - **Direct feed latency:** 10–500 microseconds.
 - **SIP latency:** 1–10 milliseconds (1,000–10,000 microseconds).
@@ -132,18 +132,18 @@ However, no major changes have been implemented; direct feeds remain faster.
 
 ### Closely related
 
-- [Consolidated tape](/consolidated-tape) — the slower, official data
-- [SIP](/sip-securities-information-processor) — aggregates consolidated data
-- [Market data](/stock-market) — what feeds provide
-- [Stock exchange](/stock-exchange) — publishes direct feeds
-- [High-frequency trading](/stock-market) — relies on direct feeds
+- [Consolidated tape](/consolidated-tape/) — the slower, official data
+- [SIP](/sip-securities-information-processor/) — aggregates consolidated data
+- [Market data](/stock-market/) — what feeds provide
+- [Stock exchange](/stock-exchange/) — publishes direct feeds
+- [High-frequency trading](/stock-market/) — relies on direct feeds
 
 ### Wider context
 
-- [Latency](/colocation-detail) — critical advantage of direct feeds
-- [Order book](/stock-market) — shown in full on direct feeds
-- [Real-time pricing](/stock-market) — delivered via direct feeds
-- [Information asymmetry](/stock-market) — created by feed speed gaps
-- [Fair execution](/broker) — challenged by feed disparities
+- [Latency](/colocation-detail/) — critical advantage of direct feeds
+- [Order book](/stock-market/) — shown in full on direct feeds
+- [Real-time pricing](/stock-market/) — delivered via direct feeds
+- [Information asymmetry](/stock-market/) — created by feed speed gaps
+- [Fair execution](/broker/) — challenged by feed disparities
 
 </div>

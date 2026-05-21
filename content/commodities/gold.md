@@ -10,11 +10,11 @@ keywords:
 image: "/svg/commodities.svg"
 ---
 
-*A **gold** — one of the oldest forms of portable wealth — is a precious metal whose stability, divisibility, and universal recognition have made it both a currency substitute and a store of value for millennia. Modern investors hold gold to hedge against [inflation](/inflation), currency collapse, and equity-market [bear markets](/bear-market), while jewelers, dentists, and electronics manufacturers depend on its unique properties.*
+*A **gold** — one of the oldest forms of portable wealth — is a precious metal whose stability, divisibility, and universal recognition have made it both a currency substitute and a store of value for millennia. Modern investors hold gold to hedge against [inflation](/inflation/), currency collapse, and equity-market [bear markets](/bear-market/), while jewelers, dentists, and electronics manufacturers depend on its unique properties.*
 
 <div class="wiki-hatnote">
 
-This entry covers gold as a commodity and investment asset. For gold as a monetary standard, see the broader context on [central banks](/central-bank); for gold-backed securities, see gold bullion ETF.
+This entry covers gold as a commodity and investment asset. For gold as a monetary standard, see the broader context on [central banks](/central-bank/); for gold-backed securities, see gold bullion ETF.
 
 </div>
 
@@ -36,7 +36,7 @@ This entry covers gold as a commodity and investment asset. For gold as a moneta
 | **Key indices** | GSCI, Bloomberg Commodity Index |
 | **Typical holding cost** | Storage, insurance (~0.1–0.5% per year) |
 | **Supply drivers** | Mining output, central-bank sales, recycling |
-| **Demand drivers** | Jewelry, reserves, [wealth preservation](/asset-allocation) |
+| **Demand drivers** | Jewelry, reserves, [wealth preservation](/asset-allocation/) |
 
 </aside>
 
@@ -50,17 +50,17 @@ These properties made gold the foundation of monetary systems for centuries. Tho
 
 Industrial and jewelry demand together account for roughly 60% of annual gold consumption. Electronics, dentistry, and medical devices require gold for its conductivity and biocompatibility. Jewelry demand is driven by cultural tradition, wealth signaling, and gift-giving in India, China, and the Middle East.
 
-The remaining 40% flows to investment — coins, bars, and bullion ETFs held by central banks, institutions, and retail investors. This category is the most price-sensitive. When real [interest rates](/interest-rate) rise, the opportunity cost of holding an unproductive metal climbs; when real rates fall or inflation fears spike, investment demand surges.
+The remaining 40% flows to investment — coins, bars, and bullion ETFs held by central banks, institutions, and retail investors. This category is the most price-sensitive. When real [interest rates](/interest-rate/) rise, the opportunity cost of holding an unproductive metal climbs; when real rates fall or inflation fears spike, investment demand surges.
 
 Central banks are the least price-sensitive buyer of all. When a government wants to diversify its reserves away from US dollars, it often buys gold, regardless of price. This explains why gold has been a surprisingly resilient bet even during periods when the dollar was strong.
 
 ## Gold's relationship to stocks and inflation
 
-In modern portfolios, gold plays a specific role: it tends to hold value — or even rally — during two periods that hurt stocks badly. The first is high inflation, especially when inflation surprises to the upside. Because gold has no real cost of production (it is found and extracted, not manufactured), and because it is culturally scarce, its price tends to rise with the general price level. A [bond](/bond) is harmed by inflation because its cash flows are fixed in nominal terms; gold is largely immune.
+In modern portfolios, gold plays a specific role: it tends to hold value — or even rally — during two periods that hurt stocks badly. The first is high inflation, especially when inflation surprises to the upside. Because gold has no real cost of production (it is found and extracted, not manufactured), and because it is culturally scarce, its price tends to rise with the general price level. A [bond](/bond/) is harmed by inflation because its cash flows are fixed in nominal terms; gold is largely immune.
 
-The second period is a severe [bear market](/bear-market) in equities, especially one driven by a loss of confidence in fiat currency or a [central bank](/central-bank) shock. Gold then acts as insurance, a form of portable wealth that cannot be frozen, confiscated, or printed away.
+The second period is a severe [bear market](/bear-market/) in equities, especially one driven by a loss of confidence in fiat currency or a [central bank](/central-bank/) shock. Gold then acts as insurance, a form of portable wealth that cannot be frozen, confiscated, or printed away.
 
-Over the very long term — decades — gold's real return (adjusted for inflation) has been near zero. This means gold is a poor bet for pure wealth-building; [equities](/stock) and [bonds](/bond) have historically delivered better risk-adjusted returns. But over shorter intervals and in specific states of the world (deflationary crises, currency collapse, geopolitical stress), gold's role as a non-correlated hedge makes it valuable to hold.
+Over the very long term — decades — gold's real return (adjusted for inflation) has been near zero. This means gold is a poor bet for pure wealth-building; [equities](/stock/) and [bonds](/bond/) have historically delivered better risk-adjusted returns. But over shorter intervals and in specific states of the world (deflationary crises, currency collapse, geopolitical stress), gold's role as a non-correlated hedge makes it valuable to hold.
 
 ## Mining, recycling, and supply
 
@@ -74,13 +74,13 @@ Central-bank sales and changes in reserve policy can also move the market. Durin
 
 The physical bullion market is enormous but largely opaque. Central banks, institutions, and wealthy individuals buy and sell directly in the OTC spot market, in quantities of hundreds of kilograms, at prices quoted by a small number of London dealers. The most famous daily fixing — the London Gold Fixing — was for decades the world's reference price, though it has been replaced by more transparent electronic fixing mechanisms.
 
-For most investors, gold is accessible via futures contracts on COMEX, via ETFs holding physical bullion, or via mining stocks and mutual funds. Gold mining ETFs offer leveraged exposure to gold's upside through the earnings of the companies that extract it, though mining stocks also carry [company-specific risk](/stock) absent from the metal itself.
+For most investors, gold is accessible via futures contracts on COMEX, via ETFs holding physical bullion, or via mining stocks and mutual funds. Gold mining ETFs offer leveraged exposure to gold's upside through the earnings of the companies that extract it, though mining stocks also carry [company-specific risk](/stock/) absent from the metal itself.
 
 ## Risks and considerations
 
-Gold is non-income-producing. Unlike a [bond](/bond), it pays no [yield](/yield-curve); unlike a [stock](/stock), it confers no profits or [dividend](/dividend). Returns come purely from capital appreciation, which means gold is a zero-sum bet against other holders. The price you pay must eventually be exceeded by the price a future buyer is willing to pay; there is no earnings stream or coupon to catch falling prices.
+Gold is non-income-producing. Unlike a [bond](/bond/), it pays no [yield](/yield-curve/); unlike a [stock](/stock/), it confers no profits or [dividend](/dividend/). Returns come purely from capital appreciation, which means gold is a zero-sum bet against other holders. The price you pay must eventually be exceeded by the price a future buyer is willing to pay; there is no earnings stream or coupon to catch falling prices.
 
-Gold is also subject to significant [inflation](/inflation) risk in reverse: if deflation arrives, or if inflation disappoints, gold's price can fall sharply. And holding physical gold incurs real costs — storage, insurance, and the bid-ask spread — that reduce net returns.
+Gold is also subject to significant [inflation](/inflation/) risk in reverse: if deflation arrives, or if inflation disappoints, gold's price can fall sharply. And holding physical gold incurs real costs — storage, insurance, and the bid-ask spread — that reduce net returns.
 
 Finally, gold's correlation to other assets is unstable. It sometimes acts as a hedge; sometimes (especially in severe deflationary crashes) it can fall along with equities as investors are forced to liquidate all assets to meet margin calls and liquidity needs.
 

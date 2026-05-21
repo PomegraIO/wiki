@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For the age-65 medical insurance system, see [Medicare](/medicare-personal); for private retirement planning, see [401(k) plan](/401k-plan) and [FIRE movement](/fire-movement).
+For the age-65 medical insurance system, see [Medicare](/medicare-personal/); for private retirement planning, see [401(k) plan](/401k-plan/) and [FIRE movement](/fire-movement/).
 
 </div>
 
@@ -81,7 +81,7 @@ For people in good health with family longevity, claiming at 70 often maximizes 
 
 Social Security benefits may be taxable. If your combined income (50% of benefits + all other income) exceeds $25,000 (single) or $32,000 (married), up to 85% of your benefits are taxable.
 
-This is one reason [Roth IRA](/roth-ira) withdrawals are preferred over traditional [IRA](/traditional-ira) withdrawals in retirement — Roth withdrawals do not count as income for this calculation.
+This is one reason [Roth IRA](/roth-ira/) withdrawals are preferred over traditional [IRA](/traditional-ira/) withdrawals in retirement — Roth withdrawals do not count as income for this calculation.
 
 ## Spousal and survivor benefits
 
@@ -98,9 +98,9 @@ Congress will likely address this through some combination of payroll tax increa
 
 ## Planning with Social Security
 
-Most financial plans assume Social Security will provide a baseline income (even if reduced) in retirement. [401(k)s](/401k-plan), [IRAs](/traditional-ira), and personal investments are meant to supplement, not replace, Social Security.
+Most financial plans assume Social Security will provide a baseline income (even if reduced) in retirement. [401(k)s](/401k-plan/), [IRAs](/traditional-ira/), and personal investments are meant to supplement, not replace, Social Security.
 
-The [safe withdrawal rate](/safe-withdrawal-rate) and [four-percent rule](/the-four-percent-rule) typically assume Social Security covers basic living expenses, with investment withdrawals covering discretionary spending.
+The [safe withdrawal rate](/safe-withdrawal-rate/) and [four-percent rule](/the-four-percent-rule/) typically assume Social Security covers basic living expenses, with investment withdrawals covering discretionary spending.
 
 ## See also
 
@@ -108,15 +108,15 @@ The [safe withdrawal rate](/safe-withdrawal-rate) and [four-percent rule](/the-f
 
 ### Closely related
 
-- [Medicare](/medicare-personal) — health insurance at age 65
-- [Required minimum distribution](/required-minimum-distribution-personal) — impacts taxation of Social Security
-- [401(k) plan](/401k-plan) — retirement savings to supplement Social Security
+- [Medicare](/medicare-personal/) — health insurance at age 65
+- [Required minimum distribution](/required-minimum-distribution-personal/) — impacts taxation of Social Security
+- [401(k) plan](/401k-plan/) — retirement savings to supplement Social Security
 
 ### Wider context
 
-- [The four-percent rule](/the-four-percent-rule) — planning with Social Security as baseline
-- [Safe withdrawal rate](/safe-withdrawal-rate) — sustainable spending given Social Security
-- [FIRE movement](/fire-movement) — retiring before Social Security eligibility
-- [Compound interest](/compound-interest) — why early retirement accounts matter if Social Security is delayed
+- [The four-percent rule](/the-four-percent-rule/) — planning with Social Security as baseline
+- [Safe withdrawal rate](/safe-withdrawal-rate/) — sustainable spending given Social Security
+- [FIRE movement](/fire-movement/) — retiring before Social Security eligibility
+- [Compound interest](/compound-interest/) — why early retirement accounts matter if Social Security is delayed
 
 </div>

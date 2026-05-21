@@ -10,11 +10,11 @@ keywords:
 image: "/svg/real-estate.svg"
 ---
 
-*The **net operating income** (NOI) of a real estate property is its annual gross revenue minus operating expenses. It represents the profit available to pay debt service and provide returns to investors. NOI is the foundation of real estate valuation and the [cap rate](/cap-rate) calculation.*
+*The **net operating income** (NOI) of a real estate property is its annual gross revenue minus operating expenses. It represents the profit available to pay debt service and provide returns to investors. NOI is the foundation of real estate valuation and the [cap rate](/cap-rate/) calculation.*
 
 <div class="wiki-hatnote">
 
-For how NOI is used in valuation, see [cap-rate](/cap-rate). For real estate investment broadly, see [real-estate-investment-trust](/real-estate-investment-trust) and [commercial-real-estate](/commercial-real-estate).
+For how NOI is used in valuation, see [cap-rate](/cap-rate/). For real estate investment broadly, see [real-estate-investment-trust](/real-estate-investment-trust/) and [commercial-real-estate](/commercial-real-estate/).
 
 </div>
 
@@ -147,21 +147,21 @@ Just as investors use EBITDA to compare companies, they use NOI to compare prope
 
 ### Related metrics
 
-- [Cap rate](/cap-rate) — NOI divided by property value
-- [Gross rent multiplier](/gross-rent-multiplier) — an alternative valuation metric
-- [Cash on cash return](/cash-on-cash-return) — NOI available to equity after debt service
+- [Cap rate](/cap-rate/) — NOI divided by property value
+- [Gross rent multiplier](/gross-rent-multiplier/) — an alternative valuation metric
+- [Cash on cash return](/cash-on-cash-return/) — NOI available to equity after debt service
 
 ### Real estate context
 
-- [Commercial-real-estate](/commercial-real-estate) — where NOI is central to valuation
-- [Real estate investment trust](/real-estate-investment-trust) — REITs maximize NOI growth
-- [Equity REIT](/equity-reit) — property owners focused on NOI
-- [Triple-net-lease](/triple-net-lease) — leases that shift operating costs to tenants
+- [Commercial-real-estate](/commercial-real-estate/) — where NOI is central to valuation
+- [Real estate investment trust](/real-estate-investment-trust/) — REITs maximize NOI growth
+- [Equity REIT](/equity-reit/) — property owners focused on NOI
+- [Triple-net-lease](/triple-net-lease/) — leases that shift operating costs to tenants
 
 ### Context
 
-- [Dividend](/dividend) — REITs distribute NOI as dividends
-- [Interest rate](/interest-rate) — affects cap rates and valuations
-- [Inflation](/inflation) — impacts NOI through rent growth and cost inflation
+- [Dividend](/dividend/) — REITs distribute NOI as dividends
+- [Interest rate](/interest-rate/) — affects cap rates and valuations
+- [Inflation](/inflation/) — impacts NOI through rent growth and cost inflation
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*[Regulation Crowdfunding](/regulation-cf) (Reg CF), created by the [JOBS Act](/jobs-act) of 2012, is an exemption from [Securities Act of 1933](/securities-act-of-1933) registration that allows companies to raise up to $5 million per year from unlimited investors (accredited and non-accredited alike) through SEC-regulated online platforms. Reg CF has democratized early-stage capital access, allowing startups without venture capital connections to raise from the public.*
+*[Regulation Crowdfunding](/regulation-cf/) (Reg CF), created by the [JOBS Act](/jobs-act/) of 2012, is an exemption from [Securities Act of 1933](/securities-act-of-1933/) registration that allows companies to raise up to $5 million per year from unlimited investors (accredited and non-accredited alike) through SEC-regulated online platforms. Reg CF has democratized early-stage capital access, allowing startups without venture capital connections to raise from the public.*
 
 <div class="wiki-hatnote">
 
-Regulation Crowdfunding is for equity crowdfunding. Reward crowdfunding (Kickstarter) is not a securities offering. [Regulation A](/regulation-a) is for larger public offerings.
+Regulation Crowdfunding is for equity crowdfunding. Reward crowdfunding (Kickstarter) is not a securities offering. [Regulation A](/regulation-a/) is for larger public offerings.
 
 </div>
 
@@ -45,9 +45,9 @@ This democratized capital access. Women, minorities, and founders in non-tech re
 
 ## The Reg CF exemption: Form C
 
-To launch a Reg CF offering, a company files Form C with the [SEC](/securities-and-exchange-commission), disclosing the business, financial condition, use of proceeds, and risks. The disclosure is lighter than [Securities Act of 1933](/securities-act-of-1933) registration (no audited financials required for most companies, no detailed executive compensation, etc.). The [SEC](/securities-and-exchange-commission) does not review or approve the Form C; it is simply notified.
+To launch a Reg CF offering, a company files Form C with the [SEC](/securities-and-exchange-commission/), disclosing the business, financial condition, use of proceeds, and risks. The disclosure is lighter than [Securities Act of 1933](/securities-act-of-1933/) registration (no audited financials required for most companies, no detailed executive compensation, etc.). The [SEC](/securities-and-exchange-commission/) does not review or approve the Form C; it is simply notified.
 
-The company then posts the Form C on a registered funding portal (a platform regulated by FinCEN and the [SEC](/securities-and-exchange-commission)). The platform hosts the offering, collects commitments from investors, and raises capital. If the offering reaches its target, the company takes the money. If not, the offering fails and investors' money is returned.
+The company then posts the Form C on a registered funding portal (a platform regulated by FinCEN and the [SEC](/securities-and-exchange-commission/)). The platform hosts the offering, collects commitments from investors, and raises capital. If the offering reaches its target, the company takes the money. If not, the offering fails and investors' money is returned.
 
 ## The $5 million cap and annual limit
 
@@ -65,7 +65,7 @@ Accredited investors have no such limit. This tiered approach assumes that wealt
 
 Reg CF offerings are hosted on registered "funding portals," which are essentially online brokers. As of 2024, dozens of platforms exist (AngelList, Republic, StartEngine, SeedInvest, Wefunder, etc.). The platforms are responsible for verifying investor identity and accreditation but are not underwriters — they do not vet the quality of offerings.
 
-This has created a fraud risk. Some offerings are outright scams; many are just failed businesses. The [SEC](/securities-and-exchange-commission) has brought enforcement actions against fraudulent issuers but cannot catch everything. Retail investors have lost significant money.
+This has created a fraud risk. Some offerings are outright scams; many are just failed businesses. The [SEC](/securities-and-exchange-commission/) has brought enforcement actions against fraudulent issuers but cannot catch everything. Retail investors have lost significant money.
 
 ## Resale restrictions and illiquidity
 
@@ -79,17 +79,17 @@ This illiquidity means Reg CF investors should expect to hold indefinitely, simi
 
 ### Closely related
 
-- [JOBS Act](/jobs-act) — created Regulation Crowdfunding
-- [Regulation A](/regulation-a) — for larger public offerings
-- [Regulation D](/regulation-d) — for private offerings to accredited investors
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers
-- [Accredited investor](/accredited-investor) — can participate in Reg CF
+- [JOBS Act](/jobs-act/) — created Regulation Crowdfunding
+- [Regulation A](/regulation-a/) — for larger public offerings
+- [Regulation D](/regulation-d/) — for private offerings to accredited investors
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers
+- [Accredited investor](/accredited-investor/) — can participate in Reg CF
 
 ### Wider context
 
 - Startup — primary user of Reg CF
 - Venture capital — alternative to Reg CF
-- [Initial public offering](/initial-public-offering) — eventual exit
+- [Initial public offering](/initial-public-offering/) — eventual exit
 - Equity financing — what Reg CF provides
 
 </div>

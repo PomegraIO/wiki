@@ -10,7 +10,7 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **short-swing profit rule**, codified in Section 16(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934), is a strict-liability rule requiring that officers, directors, and 5%-plus shareholders forfeit any profit from buying and selling (or selling and buying back) their company's securities within a six-month window. Unlike [insider trading law](/insider-trading-law), which requires proof of trading on material nonpublic information, Section 16(b) forfeits profits automatically if the timing fits the pattern.*
+*The **short-swing profit rule**, codified in Section 16(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/), is a strict-liability rule requiring that officers, directors, and 5%-plus shareholders forfeit any profit from buying and selling (or selling and buying back) their company's securities within a six-month window. Unlike [insider trading law](/insider-trading-law/), which requires proof of trading on material nonpublic information, Section 16(b) forfeits profits automatically if the timing fits the pattern.*
 
 <div class="wiki-hatnote">
 
@@ -28,7 +28,7 @@ The short-swing profit rule applies only to insiders (Section 16 filers). Ordina
 
 |   |   |
 |---|---|
-| **Statute** | Section 16(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) |
+| **Statute** | Section 16(b) of the [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) |
 | **Rule** | Any profit from a buy-sell or sell-buy transaction within 6 months is forfeited |
 | **Who** | Officers, directors, and 5%+ shareholders |
 | **Liability** | Strict liability; intent irrelevant |
@@ -76,17 +76,17 @@ In practice, the rule's impact is reduced because certain transactions (like sto
 
 ### Closely related
 
-- [Insider trading law](/insider-trading-law) — different but complementary
-- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934) — Section 16(b)
+- [Insider trading law](/insider-trading-law/) — different but complementary
+- [Securities Exchange Act of 1934](/securities-exchange-act-of-1934/) — Section 16(b)
 - Section 16 reporting — the disclosure side
-- [Rule 10b-5](/rule-10b-5) — general anti-fraud rule
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — enforces
+- [Rule 10b-5](/rule-10b-5/) — general anti-fraud rule
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — enforces
 
 ### Wider context
 
 - Insider — who the rule applies to
 - Profit — what the rule targets
-- [Fiduciary duty](/fiduciary-duty) — the broader principle
+- [Fiduciary duty](/fiduciary-duty/) — the broader principle
 - Strict liability — the rule's approach
 
 </div>

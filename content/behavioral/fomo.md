@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to [regret aversion](/regret-aversion), [herd behavior](/herd-behavior), and [disposition effect](/disposition-effect).
+Related to [regret aversion](/regret-aversion/), [herd behavior](/herd-behavior/), and [disposition effect](/disposition-effect/).
 
 </div>
 
@@ -32,7 +32,7 @@ Related to [regret aversion](/regret-aversion), [herd behavior](/herd-behavior),
 | **Driver** | Regret aversion; social comparison |
 | **Peak intensity** | At market tops, after strong moves |
 | **Investor impact** | Buying near peaks; holding through crashes; poor timing |
-| **Related phenomenon** | [Regret aversion](/regret-aversion), [herd behavior](/herd-behavior), [fud](/fud) |
+| **Related phenomenon** | [Regret aversion](/regret-aversion/), [herd behavior](/herd-behavior/), [fud](/fud/) |
 | **Historical examples** | Dot-com bubble (1999), cryptocurrency boom (2017-2021) |
 
 </aside>
@@ -59,9 +59,9 @@ FOMO destroys timing. A disciplined investor might have planned to enter a marke
 
 Then, when the decline comes, she holds (or buys more) out of the same FOMO that got her in. She holds through the crash, selling only near the bottom when regret is unbearable. This buy-high-sell-low sequence is often entirely driven by FOMO.
 
-## FOMO and [overconfidence bias](/overconfidence-bias)
+## FOMO and [overconfidence bias](/overconfidence-bias/)
 
-FOMO pairs dangerously with [overconfidence bias](/overconfidence-bias). An overconfident investor believes she has insight or timing ability. FOMO provides the urgency to act on this overconfidence. Together, they create aggressive late-cycle buying.
+FOMO pairs dangerously with [overconfidence bias](/overconfidence-bias/). An overconfident investor believes she has insight or timing ability. FOMO provides the urgency to act on this overconfidence. Together, they create aggressive late-cycle buying.
 
 ## FOMO in social media age
 
@@ -69,9 +69,9 @@ Social media has amplified FOMO. Before the internet, missing a stock market mov
 
 Cryptocurrency and meme stocks (like GameStop and AMC) exploded partly due to social media FOMO. Discord channels and Twitter would light up with gains screenshots, driving waves of new retail money in.
 
-## Distinguishing FOMO from [regret aversion](/regret-aversion)
+## Distinguishing FOMO from [regret aversion](/regret-aversion/)
 
-FOMO is fear of missing out on gains others have already made. [Regret aversion](/regret-aversion) is fear of regretted decisions more broadly. They overlap but are distinct. Regret aversion can drive you to hold a loser (fear of regretting the sale); FOMO drives you to buy a winner (fear of missing the gains).
+FOMO is fear of missing out on gains others have already made. [Regret aversion](/regret-aversion/) is fear of regretted decisions more broadly. They overlap but are distinct. Regret aversion can drive you to hold a loser (fear of regretting the sale); FOMO drives you to buy a winner (fear of missing the gains).
 
 ## Defending against FOMO
 
@@ -79,7 +79,7 @@ FOMO is fear of missing out on gains others have already made. [Regret aversion]
 - **Track your regrets.** Keep a journal of investments you missed out on. Calculate: if you had bought at the peak FOMO moment, what would your return be? You will find it is usually negative. This reality check reduces FOMO.
 - **Focus on absolute returns, not relative.** Your goal is a good long-term return, not to match your brother's return or beat your friend's stock picks. Relative comparison is the fuel for FOMO; absolute goal focus is the cure.
 - **Avoid social media during rallies.** Instagram, Twitter, and Discord are FOMO amplifiers. During strong market runs, their signal-to-noise ratio is terrible. Mute them.
-- **Use [dollar-cost averaging](/index-fund).** If you are determined to enter an investment, do it gradually over months, not in one lump sum driven by FOMO. DCA reduces the risk of buying at the peak.
+- **Use [dollar-cost averaging](/index-fund/).** If you are determined to enter an investment, do it gradually over months, not in one lump sum driven by FOMO. DCA reduces the risk of buying at the peak.
 - **Remember: peaks are always called bull markets, not crashes.** At the peak of the dot-com bubble, the phrase was "this time it is different" and "the internet changed everything." Extreme optimism is a sign of FOMO, not insight.
 
 ## See also
@@ -88,16 +88,16 @@ FOMO is fear of missing out on gains others have already made. [Regret aversion]
 
 ### Closely related
 
-- [Regret aversion](/regret-aversion) — fear of regretted decisions
-- [Herd behavior](/herd-behavior) — following the crowd into investments
-- [Fud](/fud) — fear, uncertainty, doubt (the opposite of FOMO)
-- [Disposition effect](/disposition-effect) — selling winners, holding losers
-- [Overconfidence bias](/overconfidence-bias) — excessive confidence in FOMO-driven decisions
+- [Regret aversion](/regret-aversion/) — fear of regretted decisions
+- [Herd behavior](/herd-behavior/) — following the crowd into investments
+- [Fud](/fud/) — fear, uncertainty, doubt (the opposite of FOMO)
+- [Disposition effect](/disposition-effect/) — selling winners, holding losers
+- [Overconfidence bias](/overconfidence-bias/) — excessive confidence in FOMO-driven decisions
 
 ### Wider context
 
-- [Bull market](/bull-market) — where FOMO is strongest
-- [Bubbles](/bull-market) — FOMO inflates them
+- [Bull market](/bull-market/) — where FOMO is strongest
+- [Bubbles](/bull-market/) — FOMO inflates them
 - Madness of crowds — collective FOMO
 - Market sentiment indicators — FOMO is visible in sentiment
 - Animal spirits — Keynes's concept of exuberance and FOMO

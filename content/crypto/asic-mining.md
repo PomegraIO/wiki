@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*An **ASIC** (application-specific integrated circuit) **miner** is specialised hardware designed solely for [cryptocurrency mining](/mining-bitcoin). ASICs are thousands of times more efficient than general-purpose computers or GPUs at solving [proof-of-work](/proof-of-work) puzzles, making them the only economically viable option for mining [Bitcoin](/bitcoin) and similar proof-of-work cryptocurrencies.*
+*An **ASIC** (application-specific integrated circuit) **miner** is specialised hardware designed solely for [cryptocurrency mining](/mining-bitcoin/). ASICs are thousands of times more efficient than general-purpose computers or GPUs at solving [proof-of-work](/proof-of-work/) puzzles, making them the only economically viable option for mining [Bitcoin](/bitcoin/) and similar proof-of-work cryptocurrencies.*
 
 <div class="wiki-hatnote">
 
-This entry covers ASIC hardware. For mining generally, see [mining Bitcoin](/mining-bitcoin); for mining pools, see [mining pool](/mining-pool); for the underlying algorithm, see [proof-of-work](/proof-of-work).
+This entry covers ASIC hardware. For mining generally, see [mining Bitcoin](/mining-bitcoin/); for mining pools, see [mining pool](/mining-pool/); for the underlying algorithm, see [proof-of-work](/proof-of-work/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers ASIC hardware. For mining generally, see [mining Bitcoin](/min
 
 ## What is an ASIC?
 
-An ASIC is a custom-designed computer chip optimised for a single task: computing the hash function used in [proof-of-work](/proof-of-work) mining. Unlike a CPU or GPU, which are general-purpose and can run any software, an ASIC is hardwired to do one thing — and does it very efficiently.
+An ASIC is a custom-designed computer chip optimised for a single task: computing the hash function used in [proof-of-work](/proof-of-work/) mining. Unlike a CPU or GPU, which are general-purpose and can run any software, an ASIC is hardwired to do one thing — and does it very efficiently.
 
 For example, a Bitmain Antminer S21 is an ASIC designed for Bitcoin mining (using SHA-256 hashing). It cannot run general software, cannot mine other cryptocurrencies, and becomes worthless when the algorithm it targets is abandoned.
 
@@ -56,7 +56,7 @@ An ASIC is thousands of times more efficient than a GPU or CPU:
 
 An ASIC is roughly 3,300x more efficient than a GPU per unit power consumed.
 
-This efficiency advantage is why ASIC mining dominates [Bitcoin](/bitcoin). A GPU miner would never find a block before an ASIC miner; the ASIC miner would find it first, every time.
+This efficiency advantage is why ASIC mining dominates [Bitcoin](/bitcoin/). A GPU miner would never find a block before an ASIC miner; the ASIC miner would find it first, every time.
 
 ## Cost and economics
 
@@ -66,7 +66,7 @@ An ASIC miner's profitability depends on:
 
 1. **Electricity cost.** ASICs consume 1–3 kW; at $0.05–$0.15 per kWh, electricity is the dominant operating cost.
 2. **Bitcoin price.** Higher prices improve profitability; lower prices can make mining unprofitable, causing miners to shut down.
-3. **Competition.** Higher network [hash rate](/hash-rate) increases competition and reduces individual miner rewards.
+3. **Competition.** Higher network [hash rate](/hash-rate/) increases competition and reduces individual miner rewards.
 
 Return on investment typically occurs within 6 months to 2 years, though this varies dramatically with Bitcoin price and electricity cost.
 
@@ -81,21 +81,21 @@ These manufacturers compete on efficiency (hash rate per watt) and cost. A 10% i
 
 ## Obsolescence and upgrades
 
-ASIC miners become obsolete as the network [hash rate](/hash-rate) grows and newer, more efficient models are released. A miner that was profitable in 2020 might be unprofitable in 2024.
+ASIC miners become obsolete as the network [hash rate](/hash-rate/) grows and newer, more efficient models are released. A miner that was profitable in 2020 might be unprofitable in 2024.
 
 When an ASIC becomes unprofitable, miners face a choice:
 
 1. **Mothball or resell.** Some miners keep old ASICs as backup or sell them on secondary markets.
-2. **Mine a different coin.** An ASIC for SHA-256 (Bitcoin) might not work for other algorithms, but [Litecoin](/litecoin) uses a different algorithm (Scrypt), so SHA-256 ASICs cannot mine it.
+2. **Mine a different coin.** An ASIC for SHA-256 (Bitcoin) might not work for other algorithms, but [Litecoin](/litecoin/) uses a different algorithm (Scrypt), so SHA-256 ASICs cannot mine it.
 3. **Scrap for parts.** Old ASICs are dismantled for components.
 
 ## The centralisation concern
 
 ASIC mining has created a centralisation pressure: only wealthy entities or mining pools can afford ASICs and operate at scale. This threatens the decentralisation of cryptocurrencies.
 
-[Bitcoin](/bitcoin) maximalists argue that decentralisation is still maintained because anyone can run an ASIC, and [mining pools](/mining-pool) are voluntary coalitions (miners can change pools). Critics argue that the wealth barrier is substantial enough to exclude ordinary users.
+[Bitcoin](/bitcoin/) maximalists argue that decentralisation is still maintained because anyone can run an ASIC, and [mining pools](/mining-pool/) are voluntary coalitions (miners can change pools). Critics argue that the wealth barrier is substantial enough to exclude ordinary users.
 
-Some cryptocurrencies (like [Monero](/monero)) use ASIC-resistant algorithms to prevent ASIC dominance, though ASIC manufacturers eventually optimise for nearly every algorithm.
+Some cryptocurrencies (like [Monero](/monero/)) use ASIC-resistant algorithms to prevent ASIC dominance, though ASIC manufacturers eventually optimise for nearly every algorithm.
 
 ## Power consumption and cooling
 
@@ -119,17 +119,17 @@ ASIC efficiency improves roughly every 2–3 years as chip fabrication processes
 
 ### Closely related
 
-- [Mining Bitcoin](/mining-bitcoin) — ASIC mining is the practical implementation
-- [Hash rate](/hash-rate) — measure of total mining power
-- [Mining pool](/mining-pool) — where ASICs typically contribute
-- [Proof-of-work](/proof-of-work) — the mechanism ASICs solve
-- [Difficulty adjustment](/difficulty-adjustment) — responds to ASIC deployment
+- [Mining Bitcoin](/mining-bitcoin/) — ASIC mining is the practical implementation
+- [Hash rate](/hash-rate/) — measure of total mining power
+- [Mining pool](/mining-pool/) — where ASICs typically contribute
+- [Proof-of-work](/proof-of-work/) — the mechanism ASICs solve
+- [Difficulty adjustment](/difficulty-adjustment/) — responds to ASIC deployment
 
 ### Wider context
 
-- [Bitcoin](/bitcoin) — the most mined cryptocurrency
-- [Litecoin](/litecoin) — uses Scrypt, different ASICs
-- [Monero](/monero) — ASIC-resistant algorithm
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
+- [Bitcoin](/bitcoin/) — the most mined cryptocurrency
+- [Litecoin](/litecoin/) — uses Scrypt, different ASICs
+- [Monero](/monero/) — ASIC-resistant algorithm
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/fixed-income.svg"
 ---
 
-*An **investment-grade bond** is a debt security carrying a [credit rating](/credit-rating) of BBB- or higher (S&P/Fitch) or Baa3 or higher (Moody's). These bonds are considered sufficiently safe for conservative portfolios, with default risk considered minimal. The category includes the strongest issuers (AAA-rated sovereigns and corporations) down to the weakest credit that institutional investors will routinely hold.*
+*An **investment-grade bond** is a debt security carrying a [credit rating](/credit-rating/) of BBB- or higher (S&P/Fitch) or Baa3 or higher (Moody's). These bonds are considered sufficiently safe for conservative portfolios, with default risk considered minimal. The category includes the strongest issuers (AAA-rated sovereigns and corporations) down to the weakest credit that institutional investors will routinely hold.*
 
 <div class="wiki-hatnote">
 
-For higher-risk bonds rated below investment grade, see [high-yield bond](/high-yield-bond) and [junk bond](/junk-bond). For individual bond types within investment grade, see [Treasury bond](/treasury-bond), [municipal bond](/municipal-bond), and [corporate bond](/corporate-bond).
+For higher-risk bonds rated below investment grade, see [high-yield bond](/high-yield-bond/) and [junk bond](/junk-bond/). For individual bond types within investment grade, see [Treasury bond](/treasury-bond/), [municipal bond](/municipal-bond/), and [corporate bond](/corporate-bond/).
 
 </div>
 
@@ -34,7 +34,7 @@ For higher-risk bonds rated below investment grade, see [high-yield bond](/high-
 | **Typical yield** | Treasury yield + 50–200 bps |
 | **Issuers** | Large corporations, governments, stable entities |
 | **Typical maturity** | 3–30 years |
-| **Trading [liquidity](/stock-exchange)** | Varies; Treasuries highly liquid, corporates less so |
+| **Trading [liquidity](/stock-exchange/)** | Varies; Treasuries highly liquid, corporates less so |
 | **Suitable for** | Conservative, institutional portfolios |
 | **Tax treatment** | Depends on issuer (Treasuries exempt some) |
 
@@ -64,32 +64,32 @@ The investment-grade category encompasses:
 
 ## Yield and compensation for risk
 
-Investment-grade bonds yield more than Treasury securities but less than [high-yield bonds](/high-yield-bond). A 10-year Treasury at 3% might be paralleled by a 10-year AAA corporate at 3.5%, a 10-year BBB corporate at 4%, and a 10-year high-yield bond at 6%.
+Investment-grade bonds yield more than Treasury securities but less than [high-yield bonds](/high-yield-bond/). A 10-year Treasury at 3% might be paralleled by a 10-year AAA corporate at 3.5%, a 10-year BBB corporate at 4%, and a 10-year high-yield bond at 6%.
 
-The yield spread above Treasuries reflects credit risk and [liquidity](/stock-exchange) risk. AAA-rated bonds are nearly as [liquid](/stock-exchange) as Treasuries and carry minimal default risk, earning only a small spread. BBB-rated bonds carry material default risk (though still low) and often trade less frequently, earning a wider spread.
+The yield spread above Treasuries reflects credit risk and [liquidity](/stock-exchange/) risk. AAA-rated bonds are nearly as [liquid](/stock-exchange/) as Treasuries and carry minimal default risk, earning only a small spread. BBB-rated bonds carry material default risk (though still low) and often trade less frequently, earning a wider spread.
 
 ## Default experience and recovery
 
 Historical data on investment-grade defaults is comforting to investors but sobering to issuers. During normal years, investment-grade default rates are under 0.5%. During recessions, rates spike — the 2008–2009 financial crisis saw investment-grade default rates briefly exceed 2%. Still, 98% of investment-grade issuers survive downturns.
 
-When investment-grade issuers do default, recovery rates (what bondholders recover after default) are high — historically 40–60% of face value. This is because investment-grade issuers are often restructured rather than liquidated, preserving value for creditors. A [high-yield bond](/high-yield-bond) default, by contrast, often results in recovery of only 20–40%.
+When investment-grade issuers do default, recovery rates (what bondholders recover after default) are high — historically 40–60% of face value. This is because investment-grade issuers are often restructured rather than liquidated, preserving value for creditors. A [high-yield bond](/high-yield-bond/) default, by contrast, often results in recovery of only 20–40%.
 
-## Portfolio construction and [diversification](/diversification)
+## Portfolio construction and [diversification](/diversification/)
 
 Investment-grade bonds are a core holding for diversified portfolios, particularly for conservative investors, retirees, and institutions. A typical allocation might be:
 
-- 20–30% [Treasury securities](/treasury-bond) (safest, lowest-yielding)
-- 10–15% [municipal bonds](/municipal-bond) (if in a high tax bracket)
-- 10–20% [corporate bonds](/corporate-bond) (for yield enhancement)
-- 5–10% [high-yield bonds](/high-yield-bond) (for additional return and diversification)
+- 20–30% [Treasury securities](/treasury-bond/) (safest, lowest-yielding)
+- 10–15% [municipal bonds](/municipal-bond/) (if in a high tax bracket)
+- 10–20% [corporate bonds](/corporate-bond/) (for yield enhancement)
+- 5–10% [high-yield bonds](/high-yield-bond/) (for additional return and diversification)
 
 This mix balances safety, yield, and diversification across credit quality, issuer type, and duration.
 
 ## Interest-rate risk
 
-Investment-grade bonds carry [duration](/duration) risk like all bonds. A 10-year investment-grade bond with a [duration](/duration) of 8 years will lose approximately 8% in value if interest rates rise 1%. This risk is sometimes forgotten because investors focus on credit risk, but it is material.
+Investment-grade bonds carry [duration](/duration/) risk like all bonds. A 10-year investment-grade bond with a [duration](/duration/) of 8 years will lose approximately 8% in value if interest rates rise 1%. This risk is sometimes forgotten because investors focus on credit risk, but it is material.
 
-During periods when the Federal Reserve is hiking rates (as in 2022), even top-quality investment-grade bond portfolios suffer capital losses. The 2022 bear market hit investment-grade bonds harder than [Treasury securities](/treasury-bond) because some issuers' credit spreads widened in addition to rates rising.
+During periods when the Federal Reserve is hiking rates (as in 2022), even top-quality investment-grade bond portfolios suffer capital losses. The 2022 bear market hit investment-grade bonds harder than [Treasury securities](/treasury-bond/) because some issuers' credit spreads widened in addition to rates rising.
 
 ## Fallen angels and rising stars
 
@@ -103,19 +103,19 @@ A **rising star** is an issuer upgraded from speculative-grade to investment-gra
 
 ### Closely related
 
-- [High-yield bond](/high-yield-bond) — higher-risk, higher-yield corporate debt
-- [Junk bond](/junk-bond) — very high-risk speculative-grade bonds
-- [Corporate bond](/corporate-bond) — individual corporate debt issuances
-- [Credit rating](/credit-rating) — what defines investment-grade status
-- [Credit spread](/credit-spread) — why investment-grade yields exceed Treasuries
-- [Treasury bond](/treasury-bond) — the risk-free benchmark
+- [High-yield bond](/high-yield-bond/) — higher-risk, higher-yield corporate debt
+- [Junk bond](/junk-bond/) — very high-risk speculative-grade bonds
+- [Corporate bond](/corporate-bond/) — individual corporate debt issuances
+- [Credit rating](/credit-rating/) — what defines investment-grade status
+- [Credit spread](/credit-spread/) — why investment-grade yields exceed Treasuries
+- [Treasury bond](/treasury-bond/) — the risk-free benchmark
 
 ### Wider context
 
-- [Bond](/bond) — debt securities in general
-- [Diversification](/diversification) — why holding many bonds reduces risk
-- [Central bank](/central-bank) — monetary policy affects investment-grade yields
-- [Duration](/duration) — interest-rate risk in investment-grade bonds
-- [Recession](/recession) — stress tests credit quality
+- [Bond](/bond/) — debt securities in general
+- [Diversification](/diversification/) — why holding many bonds reduces risk
+- [Central bank](/central-bank/) — monetary policy affects investment-grade yields
+- [Duration](/duration/) — interest-rate risk in investment-grade bonds
+- [Recession](/recession/) — stress tests credit quality
 
 </div>

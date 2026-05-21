@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*A **micro lot** is 1,000 units of the base currency in a [currency pair](/currency-pair). It is one-hundredth the size of a [standard lot](/standard-lot) and one-tenth the size of a [mini lot](/mini-lot), producing $0.10 of profit or loss per [pip](/pip) for most pairs. Micro lots are the smallest practical size in FX markets and are ideal for new traders learning with real money.*
+*A **micro lot** is 1,000 units of the base currency in a [currency pair](/currency-pair/). It is one-hundredth the size of a [standard lot](/standard-lot/) and one-tenth the size of a [mini lot](/mini-lot/), producing $0.10 of profit or loss per [pip](/pip/) for most pairs. Micro lots are the smallest practical size in FX markets and are ideal for new traders learning with real money.*
 
 <div class="wiki-hatnote">
 
-For the next step up, see [mini lot](/mini-lot); for the largest institutional size, see [standard lot](/standard-lot).
+For the next step up, see [mini lot](/mini-lot/); for the largest institutional size, see [standard lot](/standard-lot/).
 
 </div>
 
@@ -39,9 +39,9 @@ For the next step up, see [mini lot](/mini-lot); for the largest institutional s
 
 ## The micro-lot price point
 
-On EUR/USD at 1.0850, a micro lot is 1,000 euros worth $1,085. Each [pip](/pip) move is $0.10. A 100-pip win is $10; a 50-pip loss is $5. At these stakes, a trader can afford to make mistakes and learn without devastating consequences.
+On EUR/USD at 1.0850, a micro lot is 1,000 euros worth $1,085. Each [pip](/pip/) move is $0.10. A 100-pip win is $10; a 50-pip loss is $5. At these stakes, a trader can afford to make mistakes and learn without devastating consequences.
 
-[Margin](/forex-margin) requirements are tiny. At 50:1 leverage, a micro lot on EUR/USD requires about $21.70. At 100:1 leverage, it requires about $10.85. This puts micro-lot trading within reach of someone with $1,000 in their account — or even less, since most brokers allow fractional lots.
+[Margin](/forex-margin/) requirements are tiny. At 50:1 leverage, a micro lot on EUR/USD requires about $21.70. At 100:1 leverage, it requires about $10.85. This puts micro-lot trading within reach of someone with $1,000 in their account — or even less, since most brokers allow fractional lots.
 
 ## Who trades micro lots?
 
@@ -49,11 +49,11 @@ Beginners trade micro lots. A trader opening their first real account, who has n
 
 Experienced traders use micro lots in education accounts while they learn new strategies or learn to trade in a new time zone or market. The point is to get real feedback — slippage, emotional responses, execution challenges — without capital at risk.
 
-Some traders run "mini accounts" using only micro lots and [mini lots](/mini-lot) for deliberate practice before graduating to larger sizes.
+Some traders run "mini accounts" using only micro lots and [mini lots](/mini-lot/) for deliberate practice before graduating to larger sizes.
 
 ## Execution and spreads
 
-Some brokers charge wider [spreads](/forex-spread) on micro lots than on mini or standard lots. This is a markup for the illiquidity they face in handling small orders. A broker might offer EUR/USD at 2 pips on a standard lot but 4 pips on a micro lot. The effective cost is much higher on micro.
+Some brokers charge wider [spreads](/forex-spread/) on micro lots than on mini or standard lots. This is a markup for the illiquidity they face in handling small orders. A broker might offer EUR/USD at 2 pips on a standard lot but 4 pips on a micro lot. The effective cost is much higher on micro.
 
 Not all brokers do this — many offer consistent spreads across all lot sizes. But it is worth checking before opening an account. If you plan to trade micro lots, choose a broker with competitive micro-lot spreads.
 
@@ -73,16 +73,16 @@ There is a paradox: micro lots are so small that it is easy to dismiss them ("a 
 
 ### Closely related
 
-- [Lot size](/lot-size-forex) — overview of all lot sizes
-- [Mini lot](/mini-lot) — ten times as large
-- [Standard lot](/standard-lot) — one hundred times as large
-- [Pip](/pip) — micro lot pip value is $0.10
-- [Forex margin](/forex-margin) — minimal capital required
+- [Lot size](/lot-size-forex/) — overview of all lot sizes
+- [Mini lot](/mini-lot/) — ten times as large
+- [Standard lot](/standard-lot/) — one hundred times as large
+- [Pip](/pip/) — micro lot pip value is $0.10
+- [Forex margin](/forex-margin/) — minimal capital required
 
 ### Wider context
 
-- [Forex leverage](/forex-leverage) — same leverage across all sizes
-- [Risk management](/diversification) — matching position size to capital
-- [Major currency pair](/major-currency-pair) — where micro lots are always available
+- [Forex leverage](/forex-leverage/) — same leverage across all sizes
+- [Risk management](/diversification/) — matching position size to capital
+- [Major currency pair](/major-currency-pair/) — where micro lots are always available
 
 </div>

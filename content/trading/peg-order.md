@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **peg order** is a [limit order](/limit-order) with a dynamic price that automatically adjusts to maintain a fixed distance from a moving reference price. If you place a buy peg order "1 cent below the bid," your limit price continuously adjusts to stay 1 cent below the current bid. When the bid moves, your order price moves with it.*
+*A **peg order** is a [limit order](/limit-order/) with a dynamic price that automatically adjusts to maintain a fixed distance from a moving reference price. If you place a buy peg order "1 cent below the bid," your limit price continuously adjusts to stay 1 cent below the current bid. When the bid moves, your order price moves with it.*
 
 <div class="wiki-hatnote">
 
-For a fixed limit price, see [limit order](/limit-order). For an automatic offset from the midpoint, see [midpoint peg](/midpoint-peg).
+For a fixed limit price, see [limit order](/limit-order/). For an automatic offset from the midpoint, see [midpoint peg](/midpoint-peg/).
 
 </div>
 
@@ -38,7 +38,7 @@ For a fixed limit price, see [limit order](/limit-order). For an automatic offse
 
 ## How a peg order works
 
-You want to buy a stock at 1 cent below the current best ask (to improve price vs. a [market order](/market-order), but stay willing to trade).
+You want to buy a stock at 1 cent below the current best ask (to improve price vs. a [market order](/market-order/), but stay willing to trade).
 
 **Standard limit order approach:**
 - Bid is $50.00, ask is $50.01.
@@ -126,7 +126,7 @@ A **midpoint peg** is a peg order set to track the midpoint of the bid-ask sprea
 - A midpoint peg order might be set at "midpoint + 0 cents" = $50.01.
 - If bid/ask move to $50.03/$50.05, midpoint is $50.04, and your order is at $50.04.
 
-See [midpoint peg](/midpoint-peg) for more detail.
+See [midpoint peg](/midpoint-peg/) for more detail.
 
 ## When to use peg orders
 
@@ -138,7 +138,7 @@ See [midpoint peg](/midpoint-peg) for more detail.
 
 ## When NOT to use peg orders
 
-**When you want a fixed price limit.** If you have a price in mind and do not want to pay more, use a regular [limit order](/limit-order), not a peg.
+**When you want a fixed price limit.** If you have a price in mind and do not want to pay more, use a regular [limit order](/limit-order/), not a peg.
 
 **In low-liquidity stocks.** Peg orders are most useful in liquid, tight-spread markets.
 
@@ -150,22 +150,22 @@ See [midpoint peg](/midpoint-peg) for more detail.
 
 ### Closely related
 
-- [Midpoint peg](/midpoint-peg) — peg to the midpoint of the spread
-- [Limit order](/limit-order) — standard fixed-price limit
-- [Market order](/market-order) — instant execution at any price
+- [Midpoint peg](/midpoint-peg/) — peg to the midpoint of the spread
+- [Limit order](/limit-order/) — standard fixed-price limit
+- [Market order](/market-order/) — instant execution at any price
 - Bid-ask spread — the spread your peg order references
 
 ### Market structure
 
 - Order book — where peg orders sit
-- [Market maker](/market-maker-trading) — common users of peg orders
+- [Market maker](/market-maker-trading/) — common users of peg orders
 - Liquidity — peg orders improve competitiveness
 - Price-time priority — peg orders maintain this
 
 ### Advanced orders
 
-- [Iceberg order](/iceberg-order) — size-concealing alternative
-- [Algorithmic trading](/algorithmic-trading) — uses peg logic
-- [Smart order router](/smart-order-router) — routes dynamically
+- [Iceberg order](/iceberg-order/) — size-concealing alternative
+- [Algorithmic trading](/algorithmic-trading/) — uses peg logic
+- [Smart order router](/smart-order-router/) — routes dynamically
 
 </div>

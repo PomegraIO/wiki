@@ -1,0 +1,19 @@
+{{- if .Values.apisix.route.enabled }}
+apiVersion: apisix.apache.org/v2
+kind: ApisixRoute
+metadata:
+  name: {{ include "wiki.fullname" . }}
+  labels:
+    {{- include "wiki.labels" . | nindent 4 }}
+spec:
+  http:
+    - name: pomegra-wiki
+      match:
+        hosts:
+          - {{ .Values.apisix.route.host | quote }}
+        paths:
+          - {{ .Values.apisix.route.path | quote }}
+      backends:
+        - serviceName: wiki
+          servicePort: 8888
+{{- end }}

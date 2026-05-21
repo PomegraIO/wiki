@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the NASDAQ crash. For the bubble that preceded it, see [Dot-Com Bubble](/dot-com-bubble); for the broader market context, see [bear market](/bear-market).
+This entry covers the NASDAQ crash. For the bubble that preceded it, see [Dot-Com Bubble](/dot-com-bubble/); for the broader market context, see [bear market](/bear-market/).
 
 </div>
 
@@ -85,16 +85,16 @@ The crash also reinforced the importance of diversification and rebalancing. Inv
 
 ### Closely related
 
-- [Dot-Com Bubble](/dot-com-bubble) — the preceding speculative excess
-- [Bear market](/bear-market) — the market regime
-- [Recession](/recession) — the economic consequence (2001)
+- [Dot-Com Bubble](/dot-com-bubble/) — the preceding speculative excess
+- [Bear market](/bear-market/) — the market regime
+- [Recession](/recession/) — the economic consequence (2001)
 
 ### Wider context
 
-- [Stock market](/stock-market) — the venue
+- [Stock market](/stock-market/) — the venue
 - Valuation — disconnected from reality in the bubble
-- [Federal Reserve](/federal-reserve) — cut rates to counteract the downturn
+- [Federal Reserve](/federal-reserve/) — cut rates to counteract the downturn
 - Margin — leverage that amplified losses
-- [Diversification](/diversification) — the solution overlooked
+- [Diversification](/diversification/) — the solution overlooked
 
 </div>

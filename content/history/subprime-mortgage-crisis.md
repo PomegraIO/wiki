@@ -80,14 +80,14 @@ The crisis also exposed moral hazard: financial institutions, assuming they were
 
 - 2008 Financial Crisis — the broader meltdown
 - Real estate bubble — the housing market dynamics
-- [Foreclosure](/foreclosure) — the consequence for homeowners
+- [Foreclosure](/foreclosure/) — the consequence for homeowners
 
 ### Wider context
 
 - Mortgage-backed securities — the toxic assets
 - Leverage — the amplifier of losses
 - Credit crisis — the freezing of lending
-- [Federal Reserve](/federal-reserve) — the rescuer
+- [Federal Reserve](/federal-reserve/) — the rescuer
 - Great Recession — the economic consequence
 
 </div>

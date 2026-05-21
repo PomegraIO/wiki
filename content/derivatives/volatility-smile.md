@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **volatility smile** is an empirical pattern where [implied volatility](/implied-volatility) varies across different [strike price](/strike-price)s for options with the same [expiration date](/expiration-date) on the same underlying. In many markets, the IV is lowest for [at-the-money](/at-the-money) options and rises for [in-the-money](/in-the-money) and [out-of-the-money](/out-of-the-money) options, creating a U-shaped curve that resembles a smile. Related patterns—**volatility skew** and **volatility term structure**—describe IV varying across moneyness and expiration.*
+*The **volatility smile** is an empirical pattern where [implied volatility](/implied-volatility/) varies across different [strike price](/strike-price/)s for options with the same [expiration date](/expiration-date/) on the same underlying. In many markets, the IV is lowest for [at-the-money](/at-the-money/) options and rises for [in-the-money](/in-the-money/) and [out-of-the-money](/out-of-the-money/) options, creating a U-shaped curve that resembles a smile. Related patterns—**volatility skew** and **volatility term structure**—describe IV varying across moneyness and expiration.*
 
 <aside class="wiki-infobox">
 
@@ -37,15 +37,15 @@ image: "/svg/derivatives.svg"
 
 ## The smile pattern
 
-In a perfect [Black-Scholes model](/black-scholes-model) world with constant volatility, all options on the same underlying and expiration should have the same [implied volatility](/implied-volatility), regardless of strike.
+In a perfect [Black-Scholes model](/black-scholes-model/) world with constant volatility, all options on the same underlying and expiration should have the same [implied volatility](/implied-volatility/), regardless of strike.
 
-In practice, this does not happen. The plot of [implied volatility](/implied-volatility) vs. strike price looks like a smile (U-shaped) or a skew (lopsided). For example:
+In practice, this does not happen. The plot of [implied volatility](/implied-volatility/) vs. strike price looks like a smile (U-shaped) or a skew (lopsided). For example:
 
 - ATM $100 call/put: IV = 18%
 - $95 OTM put: IV = 22%
 - $105 OTM call: IV = 21%
 
-The OTM options have higher [implied volatility](/implied-volatility) than the ATM options. The market is pricing in a higher probability of large moves at the extremes.
+The OTM options have higher [implied volatility](/implied-volatility/) than the ATM options. The market is pricing in a higher probability of large moves at the extremes.
 
 ## Volatility skew vs. smile
 
@@ -59,7 +59,7 @@ Several factors contribute:
 
 1. **Jump risk:** Stock prices can gap overnight (earnings, news). Jumps are non-log-normal. Options priced under jump models have higher IV for OTM options, which are sensitive to jumps.
 
-2. **Leverage effect:** As stock prices fall, [equity volatility](/historical-volatility) rises (companies become riskier). This creates skew: OTM puts are more valuable because falls are more volatile.
+2. **Leverage effect:** As stock prices fall, [equity volatility](/historical-volatility/) rises (companies become riskier). This creates skew: OTM puts are more valuable because falls are more volatile.
 
 3. **Demand imbalances:** After a crash (e.g., 2008), demand for OTM puts surges, pushing their IV higher. Supply-demand creates skew.
 
@@ -79,7 +79,7 @@ Volatility smile traders:
 
 ## Volatility term structure
 
-Related to the smile is the **volatility term structure**—how IV varies across [expiration date](/expiration-date)s. Near-term options might have IV of 20%; 6-month options might have 25%. This reflects different volatility expectations for the near vs. far future.
+Related to the smile is the **volatility term structure**—how IV varies across [expiration date](/expiration-date/)s. Near-term options might have IV of 20%; 6-month options might have 25%. This reflects different volatility expectations for the near vs. far future.
 
 The term structure shifts with regime changes. Before earnings, the near-term IV spikes; after earnings (once uncertainty resolves), it may fall faster than longer-term IV.
 

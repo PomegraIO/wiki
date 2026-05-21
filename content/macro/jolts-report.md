@@ -46,7 +46,7 @@ The JOLTS report tracks five key flows:
 
 **Job openings:**
 - The number of jobs that employers are actively trying to fill.
-- High openings relative to [unemployment](/unemployment-rate) = tight labor market.
+- High openings relative to [unemployment](/unemployment-rate/) = tight labor market.
 - Low openings = slack.
 
 **Hires:**
@@ -69,14 +69,14 @@ The JOLTS report tracks five key flows:
 
 ## The Beveridge curve
 
-The most famous JOLTS application is the **Beveridge curve**, plotting job openings against [unemployment](/unemployment-rate):
+The most famous JOLTS application is the **Beveridge curve**, plotting job openings against [unemployment](/unemployment-rate/):
 
 - **Tight markets:** Many openings relative to unemployed; the economy is booming and workers are scarce.
 - **Slack markets:** Few openings relative to unemployed; many workers are chasing few jobs.
 
-Normally, the relationship is inverse — as [unemployment](/unemployment-rate) falls, openings rise. But the curve can shift. In 2022-23, the curve shifted outward (more openings for the same unemployment), suggesting structural mismatch — jobs available but workers lack skills.
+Normally, the relationship is inverse — as [unemployment](/unemployment-rate/) falls, openings rise. But the curve can shift. In 2022-23, the curve shifted outward (more openings for the same unemployment), suggesting structural mismatch — jobs available but workers lack skills.
 
-The Beveridge curve shift raised debate: Is unemployment at the [natural rate](/natural-rate-of-unemployment) when you have 8+ million openings and 6 million unemployed? The Fed's answer: probably yes, implying high structural [unemployment](/unemployment-rate).
+The Beveridge curve shift raised debate: Is unemployment at the [natural rate](/natural-rate-of-unemployment/) when you have 8+ million openings and 6 million unemployed? The Fed's answer: probably yes, implying high structural [unemployment](/unemployment-rate/).
 
 ## JOLTS in the business cycle
 
@@ -99,14 +99,14 @@ The Beveridge curve shift raised debate: Is unemployment at the [natural rate](/
 
 ## Why JOLTS matters for policy
 
-The [Federal Reserve](/federal-reserve) watches JOLTS to assess:
+The [Federal Reserve](/federal-reserve/) watches JOLTS to assess:
 
 1. **Demand-side weakness:** Are openings falling? = weak demand, time to cut rates.
 2. **Supply-side tightness:** Are openings high relative to unemployed? = tight labor markets, time to raise rates.
 3. **Wage pressure:** High quit rates + few openings = workers have bargaining power, likely wage acceleration.
-4. **[Inflation](/inflation) risk:** Tight labor markets (many openings, few unemployed) = wage pressure = [inflation](/inflation) risk.
+4. **[Inflation](/inflation/) risk:** Tight labor markets (many openings, few unemployed) = wage pressure = [inflation](/inflation/) risk.
 
-In 2021-22, JOLTS showed extreme tightness: millions of more openings than unemployed. This signaled to the Fed that [inflation](/inflation) was a major risk and rates needed to rise quickly.
+In 2021-22, JOLTS showed extreme tightness: millions of more openings than unemployed. This signaled to the Fed that [inflation](/inflation/) was a major risk and rates needed to rise quickly.
 
 ## Quits as economic indicator
 
@@ -116,7 +116,7 @@ The quit rate is particularly informative:
 - Worker confidence in job market.
 - Workers seeking better opportunities.
 - Likely wage acceleration (workers have power).
-- Possible [inflation](/inflation) ahead.
+- Possible [inflation](/inflation/) ahead.
 
 **Low quit rate signals:**
 - Worker fear/pessimism.
@@ -142,7 +142,7 @@ Economists use JOLTS data to estimate the labor market "matching function" — h
 
 **Hires ≈ f(Job openings, Unemployed)**
 
-If the matching function has deteriorated (fewer hires from same openings + unemployed), it suggests structural mismatch or reduced [frictional](/frictional-unemployment) efficiency. Evidence for this deterioration post-2021 suggests that mismatches between jobs and workers' skills/location are substantial.
+If the matching function has deteriorated (fewer hires from same openings + unemployed), it suggests structural mismatch or reduced [frictional](/frictional-unemployment/) efficiency. Evidence for this deterioration post-2021 suggests that mismatches between jobs and workers' skills/location are substantial.
 
 ## See also
 
@@ -150,18 +150,18 @@ If the matching function has deteriorated (fewer hires from same openings + unem
 
 ### Closely related
 
-- [Unemployment rate](/unemployment-rate) — the supply of job seekers
-- [Nonfarm payrolls](/nonfarm-payrolls) — monthly employment change (different survey)
+- [Unemployment rate](/unemployment-rate/) — the supply of job seekers
+- [Nonfarm payrolls](/nonfarm-payrolls/) — monthly employment change (different survey)
 - Quit rate — from JOLTS
 - Beveridge curve — job openings versus unemployment
-- [Labor market](/labor-force-participation-rate) — dynamics
+- [Labor market](/labor-force-participation-rate/) — dynamics
 
 ### Broader context
 
-- [Frictional unemployment](/frictional-unemployment) — JOLTS reveals matching efficiency
-- [Structural unemployment](/structural-unemployment) — shifts in Beveridge curve indicate structural mismatch
-- [Inflation](/inflation) — tight labor markets (high openings, low unemployment) drive inflation
+- [Frictional unemployment](/frictional-unemployment/) — JOLTS reveals matching efficiency
+- [Structural unemployment](/structural-unemployment/) — shifts in Beveridge curve indicate structural mismatch
+- [Inflation](/inflation/) — tight labor markets (high openings, low unemployment) drive inflation
 - Monetary policy — Fed uses JOLTS to assess tightness
-- [Recession](/recession) — sharp drop in openings, spike in separations
+- [Recession](/recession/) — sharp drop in openings, spike in separations
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For strategies on how to replenish an emergency fund after a withdrawal, see [budgeting methods](/budgeting-methods); for the savings vehicle itself, see [savings rate](/savings-rate).
+For strategies on how to replenish an emergency fund after a withdrawal, see [budgeting methods](/budgeting-methods/); for the savings vehicle itself, see [savings rate](/savings-rate/).
 
 </div>
 
@@ -43,7 +43,7 @@ For strategies on how to replenish an emergency fund after a withdrawal, see [bu
 
 Life produces shocks: a car breakdown, a medical bill, a job loss, a home repair. Without money set aside in advance, you have three bad options: borrow (at credit-card rates, usually), sell investments at inopportune times, or fail to cover the expense altogether. An emergency fund breaks that bind by allowing you to absorb a shock without any of those three moves.
 
-The fund also serves a psychological function. Knowing you have 6 months of expenses in liquid savings removes a layer of daily financial anxiety and lets you make better long-term decisions — staying in a job you dislike because you fear hardship, or panic-selling stocks during a [market decline](/bear-market), become far less likely when a buffer exists.
+The fund also serves a psychological function. Knowing you have 6 months of expenses in liquid savings removes a layer of daily financial anxiety and lets you make better long-term decisions — staying in a job you dislike because you fear hardship, or panic-selling stocks during a [market decline](/bear-market/), become far less likely when a buffer exists.
 
 ## Sizing the fund: 3 to 6 months
 
@@ -63,11 +63,11 @@ The emergency fund must be liquid — accessible within days or hours — but se
 - **Money market accounts**, similar to savings accounts but sometimes offering slightly higher rates and check-writing.
 - **Sweep accounts** at brokerages, which automatically park uninvested cash in a money market fund.
 
-Avoid investing the emergency fund in [stocks](/stock) or [bonds](/bond), even if your time horizon is long. The point of an emergency is that it happens when you don't want it to; if a market downturn coincides with a job loss, selling equities to cover expenses locks in losses at the worst moment.
+Avoid investing the emergency fund in [stocks](/stock/) or [bonds](/bond/), even if your time horizon is long. The point of an emergency is that it happens when you don't want it to; if a market downturn coincides with a job loss, selling equities to cover expenses locks in losses at the worst moment.
 
 ## Building and maintaining the fund
 
-Most households build the fund by [paying themselves first](/pay-yourself-first) — setting aside a fixed amount (say, $500 a month) until the target is reached. This usually takes 1–2 years. Once funded, the account sits idle unless a genuine emergency occurs.
+Most households build the fund by [paying themselves first](/pay-yourself-first/) — setting aside a fixed amount (say, $500 a month) until the target is reached. This usually takes 1–2 years. Once funded, the account sits idle unless a genuine emergency occurs.
 
 When you do withdraw from the fund, the standard practice is to replenish it as quickly as possible, using the same pay-yourself-first mechanism. This prevents the fund from shrinking over time as small withdrawals accumulate.
 
@@ -88,15 +88,15 @@ Beyond the practical protection, an emergency fund is a concrete embodiment of f
 
 ### Closely related
 
-- [Budgeting methods](/budgeting-methods) — frameworks for allocating income, including emergency fund allocation
-- [Savings rate](/savings-rate) — the percentage of income saved
-- [Pay yourself first](/pay-yourself-first) — prioritizing savings over spending
-- [Sinking fund](/sinking-fund) — setting aside money for anticipated expenses
+- [Budgeting methods](/budgeting-methods/) — frameworks for allocating income, including emergency fund allocation
+- [Savings rate](/savings-rate/) — the percentage of income saved
+- [Pay yourself first](/pay-yourself-first/) — prioritizing savings over spending
+- [Sinking fund](/sinking-fund/) — setting aside money for anticipated expenses
 
 ### Wider context
 
 - Debt avalanche · Debt snowball — strategies that assume an emergency fund exists
-- [Lifestyle creep](/lifestyle-creep) — erosion of savings by rising spending
+- [Lifestyle creep](/lifestyle-creep/) — erosion of savings by rising spending
 - Risk management — broader concept of protecting against financial shocks
 
 </div>

@@ -10,11 +10,11 @@ keywords:
 image: "/svg/forex.svg"
 ---
 
-*An **FX option** is a [currency option](/currency-option) in the institutional over-the-counter market, as opposed to the standardized, exchange-traded options on currency futures. FX options are customized to size and expiration, priced using volatility models (particularly the Black-Scholes framework), and are available in both vanilla and exotic structures. They are the primary tool for corporate currency hedging with payoff flexibility.*
+*An **FX option** is a [currency option](/currency-option/) in the institutional over-the-counter market, as opposed to the standardized, exchange-traded options on currency futures. FX options are customized to size and expiration, priced using volatility models (particularly the Black-Scholes framework), and are available in both vanilla and exotic structures. They are the primary tool for corporate currency hedging with payoff flexibility.*
 
 <div class="wiki-hatnote">
 
-For standardized exchange-traded contracts, see [currency future](/currency-future); for binding obligations, see [FX Forward](/fx-forward).
+For standardized exchange-traded contracts, see [currency future](/currency-future/); for binding obligations, see [FX Forward](/fx-forward/).
 
 </div>
 
@@ -92,16 +92,16 @@ The market prices different strikes and maturities at different implied volatili
 
 ### Closely related
 
-- [Currency option](/currency-option) — conceptual foundation
-- [FX Forward](/fx-forward) — binding alternative
-- [Currency future](/currency-future) — exchange-traded alternative
-- [FX Volatility Surface](/fx-volatility-surface) — option pricing landscape
-- [Vanilla FX Option](/vanilla-fx-option) — standard option types
+- [Currency option](/currency-option/) — conceptual foundation
+- [FX Forward](/fx-forward/) — binding alternative
+- [Currency future](/currency-future/) — exchange-traded alternative
+- [FX Volatility Surface](/fx-volatility-surface/) — option pricing landscape
+- [Vanilla FX Option](/vanilla-fx-option/) — standard option types
 
 ### Wider context
 
-- [Interest rate](/interest-rate) — affects option pricing
-- [Spot exchange rate](/spot-exchange-rate) — baseline for options
-- [Central bank](/central-bank) — sometimes uses options in policy
+- [Interest rate](/interest-rate/) — affects option pricing
+- [Spot exchange rate](/spot-exchange-rate/) — baseline for options
+- [Central bank](/central-bank/) — sometimes uses options in policy
 
 </div>

@@ -26,15 +26,15 @@ Every DCF model has the same structure, differing only in complexity:
 
 **Explicit forecast period.** Most models project free cash flows for 5 to 10 years explicitly. This is the period you have the most confidence in—you know the industry, you can assess competitive position, and you have a reasonable view of the cost of capital. The longer the period, the harder it becomes to estimate with conviction.
 
-**Terminal value.** Beyond year ten (or five, depending on your horizon), you collapse all remaining cash flows into a single number: the terminal value. This number is almost always enormous because perpetuity yields a large present value even at a modest growth rate. Most of the value in any DCF comes from terminal value, which is why small changes in perpetual growth assumptions swing valuations wildly. [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) is the most common terminal-value approach.
+**Terminal value.** Beyond year ten (or five, depending on your horizon), you collapse all remaining cash flows into a single number: the terminal value. This number is almost always enormous because perpetuity yields a large present value even at a modest growth rate. Most of the value in any DCF comes from terminal value, which is why small changes in perpetual growth assumptions swing valuations wildly. [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) is the most common terminal-value approach.
 
-**Discount rate.** This is your required return on the investment, adjusted for risk. For an equity investor, this is the [weighted average cost of capital](/weighted-average-cost-of-capital), which blends the [cost of equity](/cost-of-equity) and [cost of debt](/cost-of-debt). For a debt investor, it is a credit-appropriate discount rate. A higher discount rate yields a lower present value; a lower rate yields a higher one.
+**Discount rate.** This is your required return on the investment, adjusted for risk. For an equity investor, this is the [weighted average cost of capital](/weighted-average-cost-of-capital/), which blends the [cost of equity](/cost-of-equity/) and [cost of debt](/cost-of-debt/). For a debt investor, it is a credit-appropriate discount rate. A higher discount rate yields a lower present value; a lower rate yields a higher one.
 
 ## Two classical variants
 
-**Unlevered DCF** values the entire enterprise by projecting its free cash flow to the firm—cash generated before debt holders and equity holders take their cuts. You discount at the [weighted average cost of capital](/weighted-average-cost-of-capital), then subtract net debt to arrive at equity value. This is the canonical approach.
+**Unlevered DCF** values the entire enterprise by projecting its free cash flow to the firm—cash generated before debt holders and equity holders take their cuts. You discount at the [weighted average cost of capital](/weighted-average-cost-of-capital/), then subtract net debt to arrive at equity value. This is the canonical approach.
 
-**Levered DCF** projects free cash flow to equity holders directly, already subtracting debt payments and the cost of debt. You discount at the [cost of equity](/cost-of-equity) alone. This is less common, less stable (the [cost of equity](/cost-of-equity) can fluctuate as leverage changes), and requires explicit modeling of debt paydown.
+**Levered DCF** projects free cash flow to equity holders directly, already subtracting debt payments and the cost of debt. You discount at the [cost of equity](/cost-of-equity/) alone. This is less common, less stable (the [cost of equity](/cost-of-equity/) can fluctuate as leverage changes), and requires explicit modeling of debt paydown.
 
 For most valuation work, the unlevered approach is cleaner.
 
@@ -48,7 +48,7 @@ The method also scales. A simple DCF for a software business—projecting 20% gr
 
 A DCF's accuracy rests entirely on forecast accuracy, and forecasts decay rapidly. A five-year forecast of cash flow for a stable business is often defensible; a ten-year forecast is a best guess; a perpetual growth assumption is closer to theology than arithmetic. 
 
-This is why the method works best on [mature businesses](/going-concern-valuation) with predictable earnings and capital needs: utilities, [bonds](/bond), toll roads, railroads. It works poorly on high-growth startups with unpredictable inflection points or on businesses in disruption where competitive advantage is uncertain. For those, scenario analysis, [real options](/real-options-valuation), or a [football field](/football-field-valuation) of valuations is more honest.
+This is why the method works best on [mature businesses](/going-concern-valuation/) with predictable earnings and capital needs: utilities, [bonds](/bond/), toll roads, railroads. It works poorly on high-growth startups with unpredictable inflection points or on businesses in disruption where competitive advantage is uncertain. For those, scenario analysis, [real options](/real-options-valuation/), or a [football field](/football-field-valuation/) of valuations is more honest.
 
 ## See also
 
@@ -56,27 +56,27 @@ This is why the method works best on [mature businesses](/going-concern-valuatio
 
 ### Closely related
 
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the most common DCF variant
-- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation) — the levered variant
-- [Terminal value](/terminal-value) — the hardest part to estimate
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the canonical terminal assumption
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Two-stage DCF](/two-stage-dcf) — the simplest time-variant
-- [Three-stage DCF](/three-stage-dcf) — explicit ramp to steady state
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the most common DCF variant
+- [Free cash flow to equity valuation](/free-cash-flow-to-equity-valuation/) — the levered variant
+- [Terminal value](/terminal-value/) — the hardest part to estimate
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the canonical terminal assumption
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Two-stage DCF](/two-stage-dcf/) — the simplest time-variant
+- [Three-stage DCF](/three-stage-dcf/) — explicit ramp to steady state
 
 ### Alternatives and complements
 
-- [Multiples valuation](/multiples-valuation) — faster, market-based, often a sanity check
-- [Comparable company analysis](/comparable-company-analysis) — what multiples does the peer set trade at
-- [Scenario valuation](/scenario-valuation) — explicit bear, base, bull cases
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which assumptions move the needle
-- [Residual income model](/residual-income-model) — a theoretical alternative
+- [Multiples valuation](/multiples-valuation/) — faster, market-based, often a sanity check
+- [Comparable company analysis](/comparable-company-analysis/) — what multiples does the peer set trade at
+- [Scenario valuation](/scenario-valuation/) — explicit bear, base, bull cases
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which assumptions move the needle
+- [Residual income model](/residual-income-model/) — a theoretical alternative
 
 ### Inputs
 
-- [Cost of equity](/cost-of-equity) — a key discount rate component
-- [Cost of debt](/cost-of-debt) — the other component
-- [Capital asset pricing model](/capital-asset-pricing-model) — how to estimate cost of equity
-- [Equity risk premium](/equity-risk-premium) — a key CAPM input
+- [Cost of equity](/cost-of-equity/) — a key discount rate component
+- [Cost of debt](/cost-of-debt/) — the other component
+- [Capital asset pricing model](/capital-asset-pricing-model/) — how to estimate cost of equity
+- [Equity risk premium](/equity-risk-premium/) — a key CAPM input
 
 </div>

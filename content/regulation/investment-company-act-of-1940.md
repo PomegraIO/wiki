@@ -10,11 +10,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Investment Company Act of 1940** is the law that regulates investment companies — entities that pool investor money to buy securities. The Act requires [mutual funds](/mutual-fund) and [ETFs](/etf) to register with the [SEC](/securities-and-exchange-commission), disclose holdings and fees, limit leverage, and restrict transactions that benefit management at the expense of investors. It is the backbone of regulatory oversight for the $50 trillion mutual fund industry.*
+*The **Investment Company Act of 1940** is the law that regulates investment companies — entities that pool investor money to buy securities. The Act requires [mutual funds](/mutual-fund/) and [ETFs](/etf/) to register with the [SEC](/securities-and-exchange-commission/), disclose holdings and fees, limit leverage, and restrict transactions that benefit management at the expense of investors. It is the backbone of regulatory oversight for the $50 trillion mutual fund industry.*
 
 <div class="wiki-hatnote">
 
-The Investment Company Act regulates investment companies (mutual funds, ETFs). The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) regulates investment advisers. These can be overlapping — an adviser is often affiliated with a fund.
+The Investment Company Act regulates investment companies (mutual funds, ETFs). The [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) regulates investment advisers. These can be overlapping — an adviser is often affiliated with a fund.
 
 </div>
 
@@ -30,7 +30,7 @@ The Investment Company Act regulates investment companies (mutual funds, ETFs). 
 |---|---|
 | **Enacted** | August 22, 1940 |
 | **Jurisdiction** | Investment companies, mutual funds, closed-end funds, ETFs |
-| **Administering agency** | [SEC](/securities-and-exchange-commission) |
+| **Administering agency** | [SEC](/securities-and-exchange-commission/) |
 | **Key definition** | "Investment company" = entity that invests 40% of assets in securities |
 | **Core requirement** | Registration and prospectus disclosure |
 | **Leverage limit** | Generally prohibited; narrow exceptions for certain strategies |
@@ -40,7 +40,7 @@ The Investment Company Act regulates investment companies (mutual funds, ETFs). 
 
 ## What qualifies as an investment company
 
-An investment company is broadly defined as any entity that invests at least 40% of its assets in securities (stocks, bonds, options). Most [mutual funds](/mutual-fund) and [ETFs](/etf) are investment companies. Some [hedge funds](/hedge-fund) escape the definition by limiting their client base to accredited investors. Some "fund of funds" (funds that hold other funds) are also included.
+An investment company is broadly defined as any entity that invests at least 40% of its assets in securities (stocks, bonds, options). Most [mutual funds](/mutual-fund/) and [ETFs](/etf/) are investment companies. Some [hedge funds](/hedge-fund/) escape the definition by limiting their client base to accredited investors. Some "fund of funds" (funds that hold other funds) are also included.
 
 Once an entity qualifies, it must register with the SEC, disclose its holdings and fees, follow governance rules, and avoid certain transactions. The Act's logic is that when a company pools money from many small investors, those investors need protection — they cannot individually verify what the manager is doing with their money.
 
@@ -74,17 +74,17 @@ The Investment Company Act was written for mutual funds, which price once daily 
 
 ### Closely related
 
-- [Mutual fund](/mutual-fund) — the primary entity regulated
-- [ETF](/etf) — an increasingly important regulated entity
-- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940) — regulates advisers, not funds
-- [Hedge fund](/hedge-fund) — often avoids regulation via exemptions
-- [Securities and Exchange Commission](/securities-and-exchange-commission) — administers the Act
+- [Mutual fund](/mutual-fund/) — the primary entity regulated
+- [ETF](/etf/) — an increasingly important regulated entity
+- [Investment Advisers Act of 1940](/investment-advisers-act-of-1940/) — regulates advisers, not funds
+- [Hedge fund](/hedge-fund/) — often avoids regulation via exemptions
+- [Securities and Exchange Commission](/securities-and-exchange-commission/) — administers the Act
 
 ### Wider context
 
-- [Expense ratio](/expense-ratio) — key fee metric
-- [Diversification](/diversification) — why funds exist
-- [Asset allocation](/asset-allocation) — fund strategy
-- [Index fund](/index-fund) — a common fund type
+- [Expense ratio](/expense-ratio/) — key fee metric
+- [Diversification](/diversification/) — why funds exist
+- [Asset allocation](/asset-allocation/) — fund strategy
+- [Index fund](/index-fund/) — a common fund type
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the risk during the gap between trade and settlement. For the specific case of FX settlement failure, see [herstatt-risk](/herstatt-risk); for the broader risk that any counterparty fails, see [counterparty-risk](/counterparty-risk).
+This entry covers the risk during the gap between trade and settlement. For the specific case of FX settlement failure, see [herstatt-risk](/herstatt-risk/); for the broader risk that any counterparty fails, see [counterparty-risk](/counterparty-risk/).
 
 </div>
 
@@ -40,9 +40,9 @@ This entry covers the risk during the gap between trade and settlement. For the 
 
 ## How settlement risk arises
 
-When you buy a [stock](/stock), the trade occurs instantly (electronically), but settlement happens two business days later (in the US). On trade day, you own the [stock](/stock) and your broker holds cash. The seller owns the cash and their broker holds the [stock](/stock). Over the next two days, the stock and cash are transferred to their final destinations.
+When you buy a [stock](/stock/), the trade occurs instantly (electronically), but settlement happens two business days later (in the US). On trade day, you own the [stock](/stock/) and your broker holds cash. The seller owns the cash and their broker holds the [stock](/stock/). Over the next two days, the stock and cash are transferred to their final destinations.
 
-During those two days, settlement risk exists. If the buyer's broker fails before delivering cash, the seller loses the [stock](/stock). If the seller's broker fails before delivering the [stock](/stock), the buyer loses the cash.
+During those two days, settlement risk exists. If the buyer's broker fails before delivering cash, the seller loses the [stock](/stock/). If the seller's broker fails before delivering the [stock](/stock/), the buyer loses the cash.
 
 This is settlement risk: the risk during the gap between trade and final settlement.
 
@@ -56,7 +56,7 @@ This is the core of Herstatt risk (named after Herstatt Bank, which failed in 19
 
 ## Settlement fail cascades
 
-Settlement failures can cascade. If Bank A does not deliver securities to Bank B, Bank B cannot deliver to Bank C, and so on. The failure propagates through the financial system, creating [systemic-risk](/systemic-risk).
+Settlement failures can cascade. If Bank A does not deliver securities to Bank B, Bank B cannot deliver to Bank C, and so on. The failure propagates through the financial system, creating [systemic-risk](/systemic-risk/).
 
 During the 2008 financial crisis, settlement failures increased sharply as counterparties became distrustful. Some institutions stopped delivering securities, fearing non-delivery by others. Central banks had to intervene to restore confidence in settlement systems.
 
@@ -78,7 +78,7 @@ For FX transactions, no perfect solution exists because of time zones. But syste
 
 ## Settlement risk for individual investors
 
-For retail investors, settlement risk is largely abstracted away by brokers and clearing systems. When you buy a [stock](/stock), your broker and the seller's broker handle settlement using DVP, and the risk is minimal.
+For retail investors, settlement risk is largely abstracted away by brokers and clearing systems. When you buy a [stock](/stock/), your broker and the seller's broker handle settlement using DVP, and the risk is minimal.
 
 However, for very large trades, OTC derivatives, or international transactions, settlement risk can be material. Large institutional investors insist on DVP terms, netting agreements, and collateral arrangements to minimize settlement risk.
 
@@ -88,18 +88,18 @@ However, for very large trades, OTC derivatives, or international transactions, 
 
 ### Closely related
 
-- [Herstatt-risk](/herstatt-risk) — settlement risk in FX specifically
-- [Counterparty-risk](/counterparty-risk) — underlying risk during settlement
-- [Systemic-risk](/systemic-risk) — settlement failures can cascade
-- [Derivative](/option) — subject to settlement risk in OTC markets
-- [Foreign exchange](/currency-risk) — most prone to settlement risk
+- [Herstatt-risk](/herstatt-risk/) — settlement risk in FX specifically
+- [Counterparty-risk](/counterparty-risk/) — underlying risk during settlement
+- [Systemic-risk](/systemic-risk/) — settlement failures can cascade
+- [Derivative](/option/) — subject to settlement risk in OTC markets
+- [Foreign exchange](/currency-risk/) — most prone to settlement risk
 
 ### Broader context
 
-- [Central clearing](/central-bank) — reduces settlement risk
-- [Delivery versus payment](/settlement-risk) — mitigates settlement risk
-- [Stock exchange](/stock-market) — executes trades; brokers handle settlement
-- [Banking system](/stock-market) — interconnected through settlement systems
-- [2008 financial crisis](/credit-risk) — settlement failures worsened crisis
+- [Central clearing](/central-bank/) — reduces settlement risk
+- [Delivery versus payment](/settlement-risk/) — mitigates settlement risk
+- [Stock exchange](/stock-market/) — executes trades; brokers handle settlement
+- [Banking system](/stock-market/) — interconnected through settlement systems
+- [2008 financial crisis](/credit-risk/) — settlement failures worsened crisis
 
 </div>

@@ -10,7 +10,7 @@ keywords:
 image: "/svg/people.svg"
 ---
 
-*Robert Shiller proved through data that [stock market](/stock-market) prices exhibit far more volatility than fundamental values can explain — evidence that psychology and emotion drive markets more than pure rationality.*
+*Robert Shiller proved through data that [stock market](/stock-market/) prices exhibit far more volatility than fundamental values can explain — evidence that psychology and emotion drive markets more than pure rationality.*
 
 <aside class="wiki-infobox">
 
@@ -35,7 +35,7 @@ image: "/svg/people.svg"
 
 ## The volatility puzzle
 
-In 1981, Shiller published a landmark paper showing that [stock market](/stock-market) prices are far too volatile to be justified by changes in expected future dividends. If markets were rational and efficient, stock price volatility should match the volatility of dividend expectations. Yet actual prices moved far more than fundamentals could explain.
+In 1981, Shiller published a landmark paper showing that [stock market](/stock-market/) prices are far too volatile to be justified by changes in expected future dividends. If markets were rational and efficient, stock price volatility should match the volatility of dividend expectations. Yet actual prices moved far more than fundamentals could explain.
 
 This finding challenged the efficient market hypothesis. If prices were simply rational expectations of future cash flows, they shouldn't fluctuate so wildly. The excess volatility suggested that psychology, speculation, and narrative were driving prices beyond what rational analysis justified.
 
@@ -47,7 +47,7 @@ The book was prescient — it was published just before the bursting of the dot-
 
 ## The CAPE ratio and valuation metrics
 
-Shiller developed the CAPE (Cyclically Adjusted [Price-to-Earnings Ratio](/price-to-earnings-ratio)), which smooths out short-term earnings volatility to provide a longer-term valuation measure. The CAPE has become a widely-used tool for assessing whether markets are overvalued or undervalued relative to history.
+Shiller developed the CAPE (Cyclically Adjusted [Price-to-Earnings Ratio](/price-to-earnings-ratio/)), which smooths out short-term earnings volatility to provide a longer-term valuation measure. The CAPE has become a widely-used tool for assessing whether markets are overvalued or undervalued relative to history.
 
 By tracking the CAPE over decades, Shiller has documented when markets reached peaks associated with crashes (2000, 2007) and when they reached bottoms associated with subsequent recoveries (2009).
 
@@ -79,15 +79,15 @@ His influence on investing is substantial. Many value investors use his CAPE rat
 
 ### Closely related
 
-- [Eugene Fama](/eugene-fama) — Whose efficient markets he challenged
+- [Eugene Fama](/eugene-fama/) — Whose efficient markets he challenged
 - Richard Thaler — A behavioral economist
-- [Daniel Kahneman](/daniel-kahneman) — A behavioral psychology pioneer
+- [Daniel Kahneman](/daniel-kahneman/) — A behavioral psychology pioneer
 
 ### Wider context
 
 - Behavioral economics — Which he helped establish
 - Irrational exuberance — His focus
 - Bubble — Which he studies
-- [Stock market](/stock-market) — His domain
+- [Stock market](/stock-market/) — His domain
 
 </div>

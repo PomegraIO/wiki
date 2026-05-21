@@ -81,17 +81,17 @@ His influence on the hedge fund industry is in the emphasis on security analysis
 
 ### Closely related
 
-- [Kenneth Griffin](/kenneth-griffin) — Another mega-hedge fund founder
-- [David Tepper](/david-tepper) — A focused value investor
-- [Seth Klarman](/seth-klarman) — A concentrated value investor
-- [Bill Ackman](/bill-ackman) — Another activist hedge fund founder
+- [Kenneth Griffin](/kenneth-griffin/) — Another mega-hedge fund founder
+- [David Tepper](/david-tepper/) — A focused value investor
+- [Seth Klarman](/seth-klarman/) — A concentrated value investor
+- [Bill Ackman](/bill-ackman/) — Another activist hedge fund founder
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Stock picking — His skill
 - Concentrated portfolio — His approach
 - Insider trading — His regulatory challenge
-- [Stock market](/stock-market) — His arena
+- [Stock market](/stock-market/) — His arena
 
 </div>

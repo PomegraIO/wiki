@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*An **automated market maker** (**AMM**) is a smart contract mechanism that enables peer-to-peer token trading using [liquidity pools](/liquidity-pool). Instead of matching buyers and sellers through an order book, AMMs use an algorithmic price formula (typically $x \times y = k$) where prices adjust based on the ratio of tokens in the pool.*
+*An **automated market maker** (**AMM**) is a smart contract mechanism that enables peer-to-peer token trading using [liquidity pools](/liquidity-pool/). Instead of matching buyers and sellers through an order book, AMMs use an algorithmic price formula (typically $x \times y = k$) where prices adjust based on the ratio of tokens in the pool.*
 
 <div class="wiki-hatnote">
 
-This entry covers the AMM mechanism. For decentralised exchanges that use AMMs, see [decentralised exchange](/decentralized-exchange); for liquidity pools, see [liquidity pool](/liquidity-pool).
+This entry covers the AMM mechanism. For decentralised exchanges that use AMMs, see [decentralised exchange](/decentralized-exchange/); for liquidity pools, see [liquidity pool](/liquidity-pool/).
 
 </div>
 
@@ -31,18 +31,18 @@ This entry covers the AMM mechanism. For decentralised exchanges that use AMMs, 
 |---|---|
 | **Mechanism** | Pool-based pricing |
 | **Price formula** | $x \times y = k$ (Uniswap v2) or variants |
-| **Liquidity source** | [Liquidity providers](/liquidity-provider) depositing token pairs |
+| **Liquidity source** | [Liquidity providers](/liquidity-provider/) depositing token pairs |
 | **Slippage** | Higher for larger trades (moves price) |
 | **Fee** | 0.01–0.3% goes to liquidity providers |
 | **Speed** | One blockchain transaction |
 | **Custody** | User-custodial (smart contract only) |
-| **Major example** | [Uniswap](/automated-market-maker) |
+| **Major example** | [Uniswap](/automated-market-maker/) |
 
 </aside>
 
 ## The constant product formula
 
-[Uniswap](/automated-market-maker) v2 uses the constant product formula:
+[Uniswap](/automated-market-maker/) v2 uses the constant product formula:
 
 $$x \times y = k$$
 
@@ -62,7 +62,7 @@ The price is determined by the current ratio ($x / y$) and adjusts as the pool c
 
 ## Example
 
-Imagine a [liquidity pool](/liquidity-pool) with 1,000 ETH and 1,000,000 USDC. The constant is $k = 1,000 \times 1,000,000 = 1,000,000,000$.
+Imagine a [liquidity pool](/liquidity-pool/) with 1,000 ETH and 1,000,000 USDC. The constant is $k = 1,000 \times 1,000,000 = 1,000,000,000$.
 
 A trader wants to swap 100 USDC for ETH. After the trade:
 
@@ -84,7 +84,7 @@ This is why large trades on AMMs are expensive — they move the price.
 
 ## Advantages of AMM
 
-**Permissionless.** Anyone can deposit liquidity and become a [liquidity provider](/liquidity-provider).
+**Permissionless.** Anyone can deposit liquidity and become a [liquidity provider](/liquidity-provider/).
 
 **Automatic pricing.** No order book needed; prices adjust continuously based on supply/demand.
 
@@ -96,7 +96,7 @@ This is why large trades on AMMs are expensive — they move the price.
 
 **Slippage.** Large trades face high slippage because prices adjust as the pool composition changes.
 
-**Impermanent loss.** [Liquidity providers](/liquidity-provider) face losses if token prices diverge, even if they earn trading fees.
+**Impermanent loss.** [Liquidity providers](/liquidity-provider/) face losses if token prices diverge, even if they earn trading fees.
 
 **Inefficiency.** The constant product formula is not the most capital-efficient pricing mechanism.
 
@@ -110,7 +110,7 @@ This is why large trades on AMMs are expensive — they move the price.
 
 ## Liquidity provider economics
 
-[Liquidity providers](/liquidity-provider) earn trading fees (e.g., 0.3% on Uniswap) but face [impermanent loss](/impermanent-loss) if token prices diverge significantly.
+[Liquidity providers](/liquidity-provider/) earn trading fees (e.g., 0.3% on Uniswap) but face [impermanent loss](/impermanent-loss/) if token prices diverge significantly.
 
 To incentivise liquidity, AMMs sometimes offer additional rewards (governance tokens, yield farming) on top of trading fees.
 
@@ -126,16 +126,16 @@ For example, if the code accidentally divides instead of multiplies ($x / y = k$
 
 ### Closely related
 
-- [Decentralised exchange](/decentralized-exchange) — platforms using AMMs
-- [Liquidity pool](/liquidity-pool) — the underlying mechanism
-- [Liquidity provider](/liquidity-provider) — who supplies pools
-- [Impermanent loss](/impermanent-loss) — risk for LPs
+- [Decentralised exchange](/decentralized-exchange/) — platforms using AMMs
+- [Liquidity pool](/liquidity-pool/) — the underlying mechanism
+- [Liquidity provider](/liquidity-provider/) — who supplies pools
+- [Impermanent loss](/impermanent-loss/) — risk for LPs
 
 ### Wider context
 
 - Smart contract — AMMs are smart contracts
-- [Ethereum](/ethereum) — primary platform for AMMs
-- [Uniswap](/automated-market-maker) — the largest AMM
+- [Ethereum](/ethereum/) — primary platform for AMMs
+- [Uniswap](/automated-market-maker/) — the largest AMM
 - Yield farming — earning on liquidity provision
 
 </div>

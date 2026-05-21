@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*A **one-cancels-other (OCO) order** is a pair of conditional orders linked so that if one fills, the other is automatically canceled. Typically used to handle two mutually exclusive outcomes: you place a profit-target [limit order](/limit-order) above the market and a stop-loss [stop order](/stop-order) below, then wait for one to trigger. Whichever fills first automatically cancels the other.*
+*A **one-cancels-other (OCO) order** is a pair of conditional orders linked so that if one fills, the other is automatically canceled. Typically used to handle two mutually exclusive outcomes: you place a profit-target [limit order](/limit-order/) above the market and a stop-loss [stop order](/stop-order/) below, then wait for one to trigger. Whichever fills first automatically cancels the other.*
 
 <div class="wiki-hatnote">
 
-For a single profit target plus stop as a unified order, see [bracket order](/bracket-order). For one order triggering a second, see [one-triggers-other](/oto-order).
+For a single profit target plus stop as a unified order, see [bracket order](/bracket-order/). For one order triggering a second, see [one-triggers-other](/oto-order/).
 
 </div>
 
@@ -66,11 +66,11 @@ The classic OCO is profit-target + stop-loss, but the structure is flexible:
 
 - **Buy OCO:** Limit order to buy below market + stop order to buy above market. Used when you want to enter a position on either a pullback (limit) or a breakout (stop).
 - **Sell OCO:** Limit order to sell above market + stop order to sell below market. Used to exit with profit or cut loss.
-- **Both at market:** Two [market orders](/market-order), with OCO logic. Less common, but used for ultra-fast execution in fast markets.
+- **Both at market:** Two [market orders](/market-order/), with OCO logic. Less common, but used for ultra-fast execution in fast markets.
 
 ## OCO orders vs. bracket orders
 
-The main difference between an OCO and a [bracket order](/bracket-order):
+The main difference between an OCO and a [bracket order](/bracket-order/):
 
 - An **OCO** is two separate orders that you submit yourself, linked by the broker's logic. You decide where to place each leg.
 - A **bracket order** is a bundle: one primary order (entry) plus two children (profit-taking limit + stop-loss). When the primary fills, the two children automatically become active.
@@ -81,7 +81,7 @@ A bracket order is more structured for a common pattern (entry, then choose exit
 
 Not all brokers support OCO orders. Many online brokers (Schwab, Fidelity, Interactive Brokers) do; some discount brokers do not. Those that do support OCO sometimes charge a small fee (a few cents per order).
 
-When OCO is unavailable, a common workaround is to use a [bracket order](/bracket-order) (if the broker supports that) or to manually submit the two orders and set phone reminders to cancel the loser.
+When OCO is unavailable, a common workaround is to use a [bracket order](/bracket-order/) (if the broker supports that) or to manually submit the two orders and set phone reminders to cancel the loser.
 
 ## OCO orders and partial fills
 
@@ -106,21 +106,21 @@ Read your broker's documentation carefully. The last thing you want is a nasty s
 
 ### Closely related
 
-- [Bracket order](/bracket-order) — entry plus take-profit and stop as one bundle
-- [One-triggers-other](/oto-order) — one order triggers a second, not cancels
-- [Stop order](/stop-order) — the stop-loss leg of a typical OCO
-- [Limit order](/limit-order) — the profit-taking leg of a typical OCO
+- [Bracket order](/bracket-order/) — entry plus take-profit and stop as one bundle
+- [One-triggers-other](/oto-order/) — one order triggers a second, not cancels
+- [Stop order](/stop-order/) — the stop-loss leg of a typical OCO
+- [Limit order](/limit-order/) — the profit-taking leg of a typical OCO
 
 ### Order types and variants
 
-- [Stop-limit order](/stop-limit-order) — stop plus price protection
-- [Trailing stop order](/trailing-stop-order) — dynamic stop that follows price
-- [Market order](/market-order) — instant execution at any price
+- [Stop-limit order](/stop-limit-order/) — stop plus price protection
+- [Trailing stop order](/trailing-stop-order/) — dynamic stop that follows price
+- [Market order](/market-order/) — instant execution at any price
 
 ### Context and strategy
 
 - Position management — when to exit, when to hold
 - Risk management — defining upside and downside in advance
-- [Swing trading](/swing-trading) — strategy commonly using OCO orders
+- [Swing trading](/swing-trading/) — strategy commonly using OCO orders
 
 </div>

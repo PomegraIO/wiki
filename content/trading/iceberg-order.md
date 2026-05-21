@@ -9,11 +9,11 @@ keywords:
 image: "/svg/trading.svg"
 ---
 
-*An **iceberg order** is a large [limit order](/limit-order) on a lit order book with only a small visible portion. When that visible portion fills, more shares are automatically revealed, like an iceberg with most of its mass below the water's surface. It allows large traders to accumulate or distribute size while keeping the market mostly unaware of their full intent.*
+*An **iceberg order** is a large [limit order](/limit-order/) on a lit order book with only a small visible portion. When that visible portion fills, more shares are automatically revealed, like an iceberg with most of its mass below the water's surface. It allows large traders to accumulate or distribute size while keeping the market mostly unaware of their full intent.*
 
 <div class="wiki-hatnote">
 
-For fully visible orders, see [lit order](/lit-order). For fully hidden orders in a private venue, see [dark pool](/dark-pool).
+For fully visible orders, see [lit order](/lit-order/). For fully hidden orders in a private venue, see [dark pool](/dark-pool/).
 
 </div>
 
@@ -97,7 +97,7 @@ For example: iceberg of 100,000 (visible: 10,000), with minimum fill size 5,000.
 
 ## Iceberg vs. VWAP and TWAP
 
-Icebergs are a simple mechanism for hiding size. More sophisticated traders use [algorithmic orders](/algorithmic-trading) like [VWAP](/vwap-order) and [TWAP](/twap-order) orders, which break the order into many small pieces and execute them over time to minimize market impact and achieve an average price.
+Icebergs are a simple mechanism for hiding size. More sophisticated traders use [algorithmic orders](/algorithmic-trading/) like [VWAP](/vwap-order/) and [TWAP](/twap-order/) orders, which break the order into many small pieces and execute them over time to minimize market impact and achieve an average price.
 
 An iceberg is "dumb" (it reveals in fixed visible slices). VWAP and TWAP are "smart" (they analyze volumes and prices to optimize execution).
 
@@ -113,9 +113,9 @@ An iceberg is "dumb" (it reveals in fixed visible slices). VWAP and TWAP are "sm
 
 **Small orders.** A 1,000-share iceberg makes no sense.
 
-**When you need execution urgently.** An iceberg reveals slowly. If you need to exit quickly, use a [market order](/market-order) or visible [limit order](/limit-order).
+**When you need execution urgently.** An iceberg reveals slowly. If you need to exit quickly, use a [market order](/market-order/) or visible [limit order](/limit-order/).
 
-**When predictability is your enemy.** In highly algorithmic markets, the slow reveal of an iceberg can be exploited. You might be better off with a [dark pool](/dark-pool) or block trading desk.
+**When predictability is your enemy.** In highly algorithmic markets, the slow reveal of an iceberg can be exploited. You might be better off with a [dark pool](/dark-pool/) or block trading desk.
 
 ## See also
 
@@ -123,16 +123,16 @@ An iceberg is "dumb" (it reveals in fixed visible slices). VWAP and TWAP are "sm
 
 ### Closely related
 
-- [Hidden order](/hidden-order) — same concept; different name
-- [Dark pool](/dark-pool) — fully hidden private venue alternative
-- [Lit order](/lit-order) — fully visible public order
+- [Hidden order](/hidden-order/) — same concept; different name
+- [Dark pool](/dark-pool/) — fully hidden private venue alternative
+- [Lit order](/lit-order/) — fully visible public order
 - Order book — where icebergs show their tips
 
 ### Algorithmic and large-order execution
 
-- [VWAP order](/vwap-order) — volume-weighted average price
-- [TWAP order](/twap-order) — time-weighted average price
-- [Algorithmic trading](/algorithmic-trading) — optimal order slicing
+- [VWAP order](/vwap-order/) — volume-weighted average price
+- [TWAP order](/twap-order/) — time-weighted average price
+- [Algorithmic trading](/algorithmic-trading/) — optimal order slicing
 - Block trading — using brokers for very large blocks
 
 ### Market impact and strategy
@@ -144,8 +144,8 @@ An iceberg is "dumb" (it reveals in fixed visible slices). VWAP and TWAP are "sm
 
 ### Regulatory
 
-- [Lit venue](/lit-venue) — public exchange
+- [Lit venue](/lit-venue/) — public exchange
 - Price-time priority — icebergs maintain this
-- [Best execution](/best-execution) — regulatory obligation to get best prices
+- [Best execution](/best-execution/) — regulatory obligation to get best prices
 
 </div>

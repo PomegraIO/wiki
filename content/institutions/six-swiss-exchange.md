@@ -10,7 +10,7 @@ keywords:
 image: "/svg/institutions.svg"
 ---
 
-*The **SIX Swiss Exchange** is Switzerland's primary [stock exchange](/stock-exchange), headquartered in Zurich and serving as the venue for equities trading in Switzerland and a gateway for international investors seeking exposure to Swiss and broader Alpine economy firms. The exchange is part of SIX Group, a vertically integrated financial infrastructure company that also operates derivatives markets, clearing, and settlement services.*
+*The **SIX Swiss Exchange** is Switzerland's primary [stock exchange](/stock-exchange/), headquartered in Zurich and serving as the venue for equities trading in Switzerland and a gateway for international investors seeking exposure to Swiss and broader Alpine economy firms. The exchange is part of SIX Group, a vertically integrated financial infrastructure company that also operates derivatives markets, clearing, and settlement services.*
 
 <div class="wiki-hatnote">
 
@@ -48,7 +48,7 @@ Today, Switzerland remains neutral on many global political issues, but it is de
 
 ## Listing and the SMI index
 
-The SIX Swiss Exchange lists Swiss [public companies](/public-company) including pharmaceutical giants (Roche, Novartis), financial institutions (UBS, Credit Suisse, Swiss banks), and industrial firms. The Swiss Market Index (SMI), the primary index, comprises the 20 largest companies and heavily weights pharmaceutical and financial sectors.
+The SIX Swiss Exchange lists Swiss [public companies](/public-company/) including pharmaceutical giants (Roche, Novartis), financial institutions (UBS, Credit Suisse, Swiss banks), and industrial firms. The Swiss Market Index (SMI), the primary index, comprises the 20 largest companies and heavily weights pharmaceutical and financial sectors.
 
 Swiss-listed equities attract global investors seeking both stability and growth. The country's political neutrality, strong rule of law, and central banking traditions (the Swiss National Bank is globally influential) make Swiss equities a haven during periods of geopolitical uncertainty.
 
@@ -74,19 +74,19 @@ A significant portion of SIX trading volume comes from international investors s
 
 ### Closely related
 
-- [Stock exchange](/stock-exchange) — the category
-- [Euronext](/euronext) — major European exchange
-- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse) — German exchange
-- [London Stock Exchange](/london-stock-exchange) — European exchange
-- [Stock market](/stock-market) — global equities
-- [Initial public offering](/initial-public-offering) — listings
+- [Stock exchange](/stock-exchange/) — the category
+- [Euronext](/euronext/) — major European exchange
+- [Frankfurt Stock Exchange](/frankfurt-stock-exchange-deutsche-borse/) — German exchange
+- [London Stock Exchange](/london-stock-exchange/) — European exchange
+- [Stock market](/stock-market/) — global equities
+- [Initial public offering](/initial-public-offering/) — listings
 
 ### Wider context
 
-- [Central bank](/central-bank) — Swiss National Bank
+- [Central bank](/central-bank/) — Swiss National Bank
 - Institutional investor — participants
-- [Asset allocation](/asset-allocation) — positioning
-- [Public company](/public-company) — corporations listed
+- [Asset allocation](/asset-allocation/) — positioning
+- [Public company](/public-company/) — corporations listed
 - Safe haven — Swiss market role
 
 </div>

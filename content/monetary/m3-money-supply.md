@@ -10,11 +10,11 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*The **M3** is the broadest measure of the [money supply](/m1), encompassing [M2](/m2) plus large time deposits, institution-only [money-market funds](/stock-market), repurchase agreements, and other highly liquid but less-frequently-used assets. M3 attempts to capture the widest definition of liquidity in the financial system, though it is rarely used in modern monetary-policy frameworks.*
+*The **M3** is the broadest measure of the [money supply](/m1/), encompassing [M2](/m2/) plus large time deposits, institution-only [money-market funds](/stock-market/), repurchase agreements, and other highly liquid but less-frequently-used assets. M3 attempts to capture the widest definition of liquidity in the financial system, though it is rarely used in modern monetary-policy frameworks.*
 
 <div class="wiki-hatnote">
 
-This entry covers the M3 aggregate. For narrower measures, see [m1](/m1) and [m2](/m2). For the foundation, see [m0](/m0).
+This entry covers the M3 aggregate. For narrower measures, see [m1](/m1/) and [m2](/m2/). For the foundation, see [m0](/m0/).
 
 </div>
 
@@ -41,15 +41,15 @@ This entry covers the M3 aggregate. For narrower measures, see [m1](/m1) and [m2
 
 M3 = M2 + Large time deposits + Institutional money-market funds + Repurchase agreements + Large eurodollar deposits + Other institutional liquid assets
 
-Beyond [M2](/m2)'s components, M3 includes:
+Beyond [M2](/m2/)'s components, M3 includes:
 
 **Large time deposits:** Certificates of deposit (CDs) for amounts above $100,000 or other thresholds. These are typically held by corporations and institutions and are less liquid than small time deposits.
 
 **Institutional money-market funds:** Shares in money-market funds available only to large institutions, typically with higher minimum investments.
 
-**Repurchase agreements (repos):** Short-term funding vehicles where institutions lend cash against Treasury or other collateral. (See [temporary-open-market-operations](/temporary-open-market-operations).)
+**Repurchase agreements (repos):** Short-term funding vehicles where institutions lend cash against Treasury or other collateral. (See [temporary-open-market-operations](/temporary-open-market-operations/).)
 
-**Eurodollar deposits:** Dollar-denominated deposits held outside the United States, primarily in European [banks](/broker).
+**Eurodollar deposits:** Dollar-denominated deposits held outside the United States, primarily in European [banks](/broker/).
 
 ## Why the broad definition?
 
@@ -62,7 +62,7 @@ However, M3's components become so heterogeneous that a single "M3" number becom
 The Federal Reserve stopped publishing M3 in 2006, judging that it was no longer useful. The Fed noted that:
 
 - The relationship between M3 and inflation (or growth) had become unstable and unpredictable.
-- [M2](/m2) captured the economically important variation in liquidity.
+- [M2](/m2/) captured the economically important variation in liquidity.
 - The broadest definition of M3 included so many disparate assets that a single number lacked analytical power.
 
 The European Central Bank, by contrast, continued publishing M3 and has historically monitored it more closely. The ECB includes repos, large deposits, and other institutional assets in its M3 definition.
@@ -71,7 +71,7 @@ The European Central Bank, by contrast, continued publishing M3 and has historic
 
 In the 1980s and 1990s, some central banks experimented with M3 targeting—setting a growth rate for M3 and using policy to hit it. The ECB adopted M3 targeting in the 1990s and has maintained a reference range for M3 growth (historically around 4.5% per year).
 
-However, even proponents of M3 monitoring acknowledge that it is a secondary tool. Most modern central banks focus on [interest rates](/interest-rate) and inflation, with [money supply](/m1) aggregates playing a supporting role.
+However, even proponents of M3 monitoring acknowledge that it is a secondary tool. Most modern central banks focus on [interest rates](/interest-rate/) and inflation, with [money supply](/m1/) aggregates playing a supporting role.
 
 ## See also
 
@@ -79,17 +79,17 @@ However, even proponents of M3 monitoring acknowledge that it is a secondary too
 
 ### Closely related
 
-- [M1](/m1) — narrowest measure
-- [M2](/m2) — intermediate measure
-- [Monetary base](/monetary-base) — M0, the foundation
-- [Money multiplier](/money-multiplier) — how base money expands
+- [M1](/m1/) — narrowest measure
+- [M2](/m2/) — intermediate measure
+- [Monetary base](/monetary-base/) — M0, the foundation
+- [Money multiplier](/money-multiplier/) — how base money expands
 
 ### Wider context
 
-- [Money supply](/m1) — the concept M3 represents
-- [Central bank](/central-bank) — the controller of base money
-- [Monetary policy](/monetary-policy) — the framework
-- [Inflation](/inflation) — the target of monetary policy
-- [Interest rate](/interest-rate) — the modern policy tool
+- [Money supply](/m1/) — the concept M3 represents
+- [Central bank](/central-bank/) — the controller of base money
+- [Monetary policy](/monetary-policy/) — the framework
+- [Inflation](/inflation/) — the target of monetary policy
+- [Interest rate](/interest-rate/) — the modern policy tool
 
 </div>

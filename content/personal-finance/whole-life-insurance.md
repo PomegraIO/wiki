@@ -10,11 +10,11 @@ keywords:
 image: "/svg/personal-finance.svg"
 ---
 
-*A **whole-life insurance** policy provides permanent life insurance coverage for your entire lifetime. Unlike [term insurance](/term-life-insurance), which expires after a set period, whole-life never expires. Premiums are fixed, death benefit is guaranteed, and the policy builds cash value that you can borrow against.*
+*A **whole-life insurance** policy provides permanent life insurance coverage for your entire lifetime. Unlike [term insurance](/term-life-insurance/), which expires after a set period, whole-life never expires. Premiums are fixed, death benefit is guaranteed, and the policy builds cash value that you can borrow against.*
 
 <div class="wiki-hatnote">
 
-For temporary, cheaper coverage, see [term-life insurance](/term-life-insurance); for flexible permanent insurance, see [universal-life insurance](/universal-life-insurance); for investment-linked permanent insurance, see [variable-life insurance](/variable-life-insurance).
+For temporary, cheaper coverage, see [term-life insurance](/term-life-insurance/); for flexible permanent insurance, see [universal-life insurance](/universal-life-insurance/); for investment-linked permanent insurance, see [variable-life insurance](/variable-life-insurance/).
 
 </div>
 
@@ -62,7 +62,7 @@ Example: a 35-year-old buying $500,000 coverage:
 
 The whole-life premium is 8–12 times higher. The question is whether the cash value buildup justifies the cost.
 
-For most people, the answer is no: investing the difference (term premium vs. whole-life premium) in a [401(k)](/401k-plan) or [index fund](/index-fund) grows faster and remains in your control.
+For most people, the answer is no: investing the difference (term premium vs. whole-life premium) in a [401(k)](/401k-plan/) or [index fund](/index-fund/) grows faster and remains in your control.
 
 ## When whole-life makes sense
 
@@ -92,16 +92,16 @@ This is a major reason to avoid whole-life for temporary needs — you are locke
 
 ### Closely related
 
-- [Term-life insurance](/term-life-insurance) — cheaper temporary alternative
-- [Universal-life insurance](/universal-life-insurance) — more flexible permanent insurance
-- [Variable-life insurance](/variable-life-insurance) — permanent insurance with investment component
-- [Disability insurance](/disability-insurance-personal) — income protection alternative
+- [Term-life insurance](/term-life-insurance/) — cheaper temporary alternative
+- [Universal-life insurance](/universal-life-insurance/) — more flexible permanent insurance
+- [Variable-life insurance](/variable-life-insurance/) — permanent insurance with investment component
+- [Disability insurance](/disability-insurance-personal/) — income protection alternative
 
 ### Wider context
 
-- [Compound interest](/compound-interest) — cash value growth
-- [Estate planning](/budgeting-methods) — whole-life for wealthy individuals
-- [Emergency fund](/emergency-fund) — income protection
-- [Umbrella insurance](/umbrella-insurance) — liability protection
+- [Compound interest](/compound-interest/) — cash value growth
+- [Estate planning](/budgeting-methods/) — whole-life for wealthy individuals
+- [Emergency fund](/emergency-fund/) — income protection
+- [Umbrella insurance](/umbrella-insurance/) — liability protection
 
 </div>

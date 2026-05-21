@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*A **lit venue** is a trading platform that publicly displays available buying and selling interest in real time. Orders, quotes, and execution prices are visible to market participants. Lit venues include stock [exchanges](/stock-exchange), most [alternative trading systems](/alternative-trading-system), and some broker-operated platforms. They contrast with [dark pools](/dark-pool-detail), which hide pre-trade information.*
+*A **lit venue** is a trading platform that publicly displays available buying and selling interest in real time. Orders, quotes, and execution prices are visible to market participants. Lit venues include stock [exchanges](/stock-exchange/), most [alternative trading systems](/alternative-trading-system/), and some broker-operated platforms. They contrast with [dark pools](/dark-pool-detail/), which hide pre-trade information.*
 
 <div class="wiki-hatnote">
 
-This entry is about transparent trading venues. For private venues, see [dark pool](/dark-pool-detail); for the regulatory category, see [alternative trading system](/alternative-trading-system).
+This entry is about transparent trading venues. For private venues, see [dark pool](/dark-pool-detail/); for the regulatory category, see [alternative trading system](/alternative-trading-system/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry is about transparent trading venues. For private venues, see [dark po
 | **Market transparency** | High; anyone can see prices and available volume |
 | **Price discovery** | Efficient; driven by visible supply and demand |
 | **Typical operators** | NYSE, NASDAQ, Cboe, smaller independent ATSs |
-| **Regulation** | SEC Rule 10b-2 and [Reg NMS](/reg-nms-detail) |
+| **Regulation** | SEC Rule 10b-2 and [Reg NMS](/reg-nms-detail/) |
 | **Market share** | ~85–90% of US equity volume |
 
 </aside>
@@ -108,17 +108,17 @@ Most trading volume occurs on lit venues because they are the primary pricing so
 
 **Iceberg orders:** Large orders shown in small tranches, hiding the true size.
 
-**Pegged orders:** Orders that automatically adjust to maintain a specified offset from the [NBBO](/sip-securities-information-processor) mid-price.
+**Pegged orders:** Orders that automatically adjust to maintain a specified offset from the [NBBO](/sip-securities-information-processor/) mid-price.
 
 **Algorithmic orders:** Orders that execute algorithmically, splitting large orders into smaller pieces to minimize market impact.
 
 ## Market data from lit venues
 
-Lit venues publish their order books continuously. This data flows into the [Securities Information Processor](/sip-securities-information-processor), which aggregates it into the [consolidated tape](/consolidated-tape) and the [NBBO](/sip-securities-information-processor).
+Lit venues publish their order books continuously. This data flows into the [Securities Information Processor](/sip-securities-information-processor/), which aggregates it into the [consolidated tape](/consolidated-tape/) and the [NBBO](/sip-securities-information-processor/).
 
 ## Regulation of lit venues
 
-Lit exchanges and lit ATSs are regulated by the SEC under [Reg NMS](/reg-nms-detail). They must:
+Lit exchanges and lit ATSs are regulated by the SEC under [Reg NMS](/reg-nms-detail/). They must:
 
 - Provide fair access to participants.
 - Operate orderly, efficient markets.
@@ -126,11 +126,11 @@ Lit exchanges and lit ATSs are regulated by the SEC under [Reg NMS](/reg-nms-det
 - Enforce best execution and trade-through rules.
 - Report trades and regulatory violations.
 
-This regulation is stricter than for [dark pools](/dark-pool-detail).
+This regulation is stricter than for [dark pools](/dark-pool-detail/).
 
 ## Evolution of lit venues
 
-The number and diversity of lit venues have increased since [Reg NMS](/reg-nms-detail) (2007). Before RegNMS, the NYSE and NASDAQ dominated; now, dozens of lit venues operate, competing on speed, fees, order types, and market data services.
+The number and diversity of lit venues have increased since [Reg NMS](/reg-nms-detail/) (2007). Before RegNMS, the NYSE and NASDAQ dominated; now, dozens of lit venues operate, competing on speed, fees, order types, and market data services.
 
 This competition has reduced trading costs for institutions but also fragmented the market, making it harder to find the best prices across all venues.
 
@@ -140,18 +140,18 @@ This competition has reduced trading costs for institutions but also fragmented 
 
 ### Closely related
 
-- [Dark pool](/dark-pool-detail) — the opaque alternative
-- [Stock exchange](/stock-exchange) — the primary lit venue
-- [Alternative trading system](/alternative-trading-system) — regulatory category
-- [Reg NMS](/reg-nms-detail) — regulatory framework
-- [Consolidated tape](/consolidated-tape) — publishes lit venue data
+- [Dark pool](/dark-pool-detail/) — the opaque alternative
+- [Stock exchange](/stock-exchange/) — the primary lit venue
+- [Alternative trading system](/alternative-trading-system/) — regulatory category
+- [Reg NMS](/reg-nms-detail/) — regulatory framework
+- [Consolidated tape](/consolidated-tape/) — publishes lit venue data
 
 ### Wider context
 
-- [Secondary market](/secondary-market) — component of
-- [Price discovery](/stock-market) — driven by lit venues
-- [Transparency](/stock-market) — characteristic of lit venues
-- [Liquidity](/secondary-market) — available on lit venues
-- [Order book](/stock-market) — visible on lit venues
+- [Secondary market](/secondary-market/) — component of
+- [Price discovery](/stock-market/) — driven by lit venues
+- [Transparency](/stock-market/) — characteristic of lit venues
+- [Liquidity](/secondary-market/) — available on lit venues
+- [Order book](/stock-market/) — visible on lit venues
 
 </div>

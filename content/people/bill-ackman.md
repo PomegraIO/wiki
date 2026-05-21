@@ -84,16 +84,16 @@ What is undeniable is that he has been influential. He has pioneered the use of 
 ### Closely related
 
 - Carl Icahn — A pioneer of activist investing
-- [Dan Loeb](/dan-loeb) — Another activist hedge fund manager
-- [David Einhorn](/david-einhorn) — A value short-seller
-- [Michael Burry](/michael-burry) — A conviction investor
+- [Dan Loeb](/dan-loeb/) — Another activist hedge fund manager
+- [David Einhorn](/david-einhorn/) — A value short-seller
+- [Michael Burry](/michael-burry/) — A conviction investor
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
+- [Hedge fund](/hedge-fund/) — His vehicle
 - Activist investing — His strategy
-- [Short selling](/short-selling) — A tool he has used
+- [Short selling](/short-selling/) — A tool he has used
 - Corporate governance — His focus
-- [Stock market](/stock-market) — His arena
+- [Stock market](/stock-market/) — His arena
 
 </div>

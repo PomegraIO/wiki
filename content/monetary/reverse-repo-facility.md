@@ -10,11 +10,11 @@ keywords:
 image: "/svg/monetary.svg"
 ---
 
-*A **reverse repo facility** (or **RRP**) is a central bank's standing offer to *borrow* cash from financial institutions—[banks](/broker), money-market funds, and others—by posting securities as collateral and agreeing to repay at a slightly higher rate the next day (or over a longer term). While the [standing-repo-facility](/standing-repo-facility) *lends* liquidity to institutions in need, the reverse facility *absorbs* liquidity from institutions with excess cash, helping the central bank manage the money supply.*
+*A **reverse repo facility** (or **RRP**) is a central bank's standing offer to *borrow* cash from financial institutions—[banks](/broker/), money-market funds, and others—by posting securities as collateral and agreeing to repay at a slightly higher rate the next day (or over a longer term). While the [standing-repo-facility](/standing-repo-facility/) *lends* liquidity to institutions in need, the reverse facility *absorbs* liquidity from institutions with excess cash, helping the central bank manage the money supply.*
 
 <div class="wiki-hatnote">
 
-This entry covers the reverse facility's mechanics. For the inverse operation—lending liquidity—see [standing-repo-facility](/standing-repo-facility). For other liquidity tools, see [temporary-open-market-operations](/temporary-open-market-operations).
+This entry covers the reverse facility's mechanics. For the inverse operation—lending liquidity—see [standing-repo-facility](/standing-repo-facility/). For other liquidity tools, see [temporary-open-market-operations](/temporary-open-market-operations/).
 
 </div>
 
@@ -40,7 +40,7 @@ This entry covers the reverse facility's mechanics. For the inverse operation—
 
 ## The logic: a mirror to the standing facility
 
-The [standing-repo-facility](/standing-repo-facility) lends liquidity when institutions have insufficient cash. The reverse repo facility does the opposite: it *borrows* cash when institutions have too much.
+The [standing-repo-facility](/standing-repo-facility/) lends liquidity when institutions have insufficient cash. The reverse repo facility does the opposite: it *borrows* cash when institutions have too much.
 
 Why would an institution want to lend cash to the Fed? Because of the rate return. A money-market fund holding excess cash overnight can either:
 - Hold it in the federal funds market and earn whatever the prevailing overnight rate is, which may be very low or even negative.
@@ -73,7 +73,7 @@ This three-legged system—the federal funds market in the middle, the standing 
 The reverse repo facility has grown explosively since 2020. By 2023, the Fed was absorbing over $2 trillion in overnight reverse repos every single day. What drove the surge?
 
 Several factors:
-1. Massive Fed [quantitative easing](/quantitative-easing) injected enormous quantities of reserves into the banking system.
+1. Massive Fed [quantitative easing](/quantitative-easing/) injected enormous quantities of reserves into the banking system.
 2. Banks, flush with reserves, had limited places to put the money and faced negative returns in some markets.
 3. Money-market funds, starved for yield, were eager to lend at the Fed's reverse facility when yields elsewhere were dismal.
 4. The mechanics are simple and safe: the Fed posts collateral, the risk is nil.
@@ -92,17 +92,17 @@ The Fed's view is more sanguine. The reverse facility is simply a pressure relie
 
 ### Closely related
 
-- [Standing repo facility](/standing-repo-facility) — lends liquidity (opposite direction)
-- [Temporary open-market operations](/temporary-open-market-operations) — related repo tool
-- [Discount window](/discount-window) — traditional lending facility
-- [Interest on reserves](/interest-on-reserves) — affects reverse repo demand
+- [Standing repo facility](/standing-repo-facility/) — lends liquidity (opposite direction)
+- [Temporary open-market operations](/temporary-open-market-operations/) — related repo tool
+- [Discount window](/discount-window/) — traditional lending facility
+- [Interest on reserves](/interest-on-reserves/) — affects reverse repo demand
 
 ### Wider context
 
-- [Central bank](/central-bank) — the institution running the facility
-- [Monetary policy](/monetary-policy) — the framework it operates within
-- [Money supply](/m1) — what reverse repo affects
-- [Interest rate](/interest-rate) — what reverse repo influences
-- [Bank](/broker) — major counterparties using the facility
+- [Central bank](/central-bank/) — the institution running the facility
+- [Monetary policy](/monetary-policy/) — the framework it operates within
+- [Money supply](/m1/) — what reverse repo affects
+- [Interest rate](/interest-rate/) — what reverse repo influences
+- [Bank](/broker/) — major counterparties using the facility
 
 </div>

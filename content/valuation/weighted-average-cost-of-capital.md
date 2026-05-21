@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*The **weighted average cost of capital (WACC)** is the average rate of return a company must earn to satisfy all of its investors—both debt holders and equity holders. It is the discount rate used in nearly every [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation). Getting WACC right is critical; getting it wrong swings valuations by 20% or more.*
+*The **weighted average cost of capital (WACC)** is the average rate of return a company must earn to satisfy all of its investors—both debt holders and equity holders. It is the discount rate used in nearly every [free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/). Getting WACC right is critical; getting it wrong swings valuations by 20% or more.*
 
 ## What WACC is
 
@@ -22,7 +22,7 @@ WACC is then used as the discount rate in a DCF model. Every dollar of future fr
 
 ## The two components: cost of equity and cost of debt
 
-**Cost of equity** is the return equity investors demand. It is typically estimated using the [capital asset pricing model](/capital-asset-pricing-model), which blends a risk-free rate, the [market risk premium](/market-risk-premium), and the company's [beta](/beta). For a typical company, cost of equity ranges from 8% to 15%.
+**Cost of equity** is the return equity investors demand. It is typically estimated using the [capital asset pricing model](/capital-asset-pricing-model/), which blends a risk-free rate, the [market risk premium](/market-risk-premium/), and the company's [beta](/beta/). For a typical company, cost of equity ranges from 8% to 15%.
 
 **Cost of debt** is the interest rate the company pays on its borrowings. It is usually observable from bond yields or bank loan rates. But it must be adjusted for taxes: because interest is tax-deductible, the after-tax cost of debt is lower. The after-tax cost of debt is interest rate times (1 minus tax rate).
 
@@ -86,23 +86,23 @@ This is useful in M&A when you are valuing a company on a different balance shee
 
 ### Closely related
 
-- [Cost of equity](/cost-of-equity) — the equity component
-- [Cost of debt](/cost-of-debt) — the debt component
-- [After-tax cost of debt](/after-tax-cost-of-debt) — the tax-adjusted version
-- [Capital asset pricing model](/capital-asset-pricing-model) — estimating cost of equity
-- [Equity risk premium](/equity-risk-premium) — input to CAPM
+- [Cost of equity](/cost-of-equity/) — the equity component
+- [Cost of debt](/cost-of-debt/) — the debt component
+- [After-tax cost of debt](/after-tax-cost-of-debt/) — the tax-adjusted version
+- [Capital asset pricing model](/capital-asset-pricing-model/) — estimating cost of equity
+- [Equity risk premium](/equity-risk-premium/) — input to CAPM
 
 ### Valuation frameworks
 
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — WACC's primary use
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — parent method
-- [Two-stage DCF](/two-stage-dcf) — uses WACC
-- [Three-stage DCF](/three-stage-dcf) — uses WACC
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — WACC's primary use
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — parent method
+- [Two-stage DCF](/two-stage-dcf/) — uses WACC
+- [Three-stage DCF](/three-stage-dcf/) — uses WACC
 
 ### Sensitivity and structure
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — testing WACC sensitivity
-- [Football field valuation](/football-field-valuation) — ranges including WACC variation
-- [Scenario valuation](/scenario-valuation) — different structures, different WACCs
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — testing WACC sensitivity
+- [Football field valuation](/football-field-valuation/) — ranges including WACC variation
+- [Scenario valuation](/scenario-valuation/) — different structures, different WACCs
 
 </div>

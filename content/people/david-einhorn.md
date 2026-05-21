@@ -85,15 +85,15 @@ His influence on financial regulation and corporate governance has been meaningf
 
 ### Closely related
 
-- [Michael Burry](/michael-burry) — Another short-seller who identified fraud
-- [Bill Ackman](/bill-ackman) — A public voice on corporate issues
-- [Howard Marks](/howard-marks) — A credit and risk expert
-- [Seth Klarman](/seth-klarman) — A value and distressed specialist
+- [Michael Burry](/michael-burry/) — Another short-seller who identified fraud
+- [Bill Ackman](/bill-ackman/) — A public voice on corporate issues
+- [Howard Marks](/howard-marks/) — A credit and risk expert
+- [Seth Klarman](/seth-klarman/) — A value and distressed specialist
 
 ### Wider context
 
-- [Hedge fund](/hedge-fund) — His vehicle
-- [Short selling](/short-selling) — His specialty
+- [Hedge fund](/hedge-fund/) — His vehicle
+- [Short selling](/short-selling/) — His specialty
 - Accounting fraud — His focus
 - Financial regulation — His advocacy
 - Financial crisis — His vindication

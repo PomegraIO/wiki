@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For other lease structures, see [modified-gross-lease](/modified-gross-lease), full-service-lease, and percentage-lease. For the broader context of commercial real estate, see [commercial-real-estate](/commercial-real-estate).
+For other lease structures, see [modified-gross-lease](/modified-gross-lease/), full-service-lease, and percentage-lease. For the broader context of commercial real estate, see [commercial-real-estate](/commercial-real-estate/).
 
 </div>
 
@@ -119,21 +119,21 @@ These risks are why institutional investors charge lower cap rates for high-qual
 
 ### Lease structures
 
-- [Modified-gross-lease](/modified-gross-lease) — landlord pays some costs
+- [Modified-gross-lease](/modified-gross-lease/) — landlord pays some costs
 - Full-service-lease — landlord pays all costs
 - Percentage-lease — tenant pays rent plus sales percentage
 - Ground-lease — long-term land lease
 
 ### Real estate context
 
-- [Commercial-real-estate](/commercial-real-estate) — where triple-net leases are common
-- [Equity REIT](/equity-reit) — REITs that own triple-net leased properties
-- [Cap rate](/cap-rate) — the return on a leased property
+- [Commercial-real-estate](/commercial-real-estate/) — where triple-net leases are common
+- [Equity REIT](/equity-reit/) — REITs that own triple-net leased properties
+- [Cap rate](/cap-rate/) — the return on a leased property
 
 ### Context and comparison
 
-- [Dividend](/dividend) — stable cash flow from NNN leases
-- [Bond](/bond) — triple-net leases are bond-like in their stability
-- [Inflation](/inflation) — escalators provide inflation protection
+- [Dividend](/dividend/) — stable cash flow from NNN leases
+- [Bond](/bond/) — triple-net leases are bond-like in their stability
+- [Inflation](/inflation/) — escalators provide inflation protection
 
 </div>

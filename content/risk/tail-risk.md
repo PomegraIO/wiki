@@ -10,11 +10,11 @@ keywords:
 image: "/svg/risk.svg"
 ---
 
-*Tail risk is the probability and magnitude of extreme losses that occur in the tails of a return distribution — far from the average. While [value-at-risk](/value-at-risk) and other risk metrics focus on the typical loss, tail risk captures the catastrophic outliers that happen rarely but devastatingly.*
+*Tail risk is the probability and magnitude of extreme losses that occur in the tails of a return distribution — far from the average. While [value-at-risk](/value-at-risk/) and other risk metrics focus on the typical loss, tail risk captures the catastrophic outliers that happen rarely but devastatingly.*
 
 <div class="wiki-hatnote">
 
-This entry covers extreme loss exposure. For the fatter-than-normal tails that markets exhibit, see [fat-tail-risk](/fat-tail-risk); for unpredictable tail events, see [black-swan](/black-swan).
+This entry covers extreme loss exposure. For the fatter-than-normal tails that markets exhibit, see [fat-tail-risk](/fat-tail-risk/); for unpredictable tail events, see [black-swan](/black-swan/).
 
 </div>
 
@@ -31,7 +31,7 @@ This entry covers extreme loss exposure. For the fatter-than-normal tails that m
 | **What it is** | Probability and magnitude of extreme losses in distribution tails |
 | **Occurs in** | The 1st percentile, 0.1 percentile, or beyond |
 | **Examples** | Portfolio loses 40% (1 in 20 years); loses 60% (1 in 200 years) |
-| **Measured by** | [Expected shortfall](/expected-shortfall); extreme value theory; scenarios |
+| **Measured by** | [Expected shortfall](/expected-shortfall/); extreme value theory; scenarios |
 | **Traditional models miss** | Tail risk is often worse than normal distribution predicts |
 | **Hedging** | Options, insurance, diversification, reallocation |
 | **Typical cost** | Hedging tail risk is expensive; long-term returns are lower |
@@ -40,7 +40,7 @@ This entry covers extreme loss exposure. For the fatter-than-normal tails that m
 
 ## The difference between average and tail risk
 
-A [value-at-risk](/value-at-risk) model might estimate that a portfolio's daily loss at the 99% confidence level is 2%. This means there is a 1% chance of losing more than 2% in a day — roughly 2.5 days per year.
+A [value-at-risk](/value-at-risk/) model might estimate that a portfolio's daily loss at the 99% confidence level is 2%. This means there is a 1% chance of losing more than 2% in a day — roughly 2.5 days per year.
 
 But what if the worst-case loss in those 1% tail events is not 2.5% or 5%, but 15%? That is tail risk: the risk of extreme outcomes within the tail of the distribution.
 
@@ -76,13 +76,13 @@ Several reasons:
 
 ## Managing tail risk
 
-**Tail hedging:** Buy [options](/option) that pay off if extreme losses occur. A portfolio of stock [index](/stock-market) put [options](/option) pays off if stocks crash. But this is expensive — you pay an annual premium for protection you hope never to need.
+**Tail hedging:** Buy [options](/option/) that pay off if extreme losses occur. A portfolio of stock [index](/stock-market/) put [options](/option/) pays off if stocks crash. But this is expensive — you pay an annual premium for protection you hope never to need.
 
 **Diversification:** Hold assets that have low or negative correlation in tail events. Commodities, inflation hedges, or international assets might provide some tail hedging. But in systemic crises, diversification breaks down.
 
-**Reallocation:** Keep a higher allocation to low-risk assets (cash, short-term [bonds](/bond)) than traditional asset allocation suggests. This reduces tail losses at the cost of lower average returns.
+**Reallocation:** Keep a higher allocation to low-risk assets (cash, short-term [bonds](/bond/)) than traditional asset allocation suggests. This reduces tail losses at the cost of lower average returns.
 
-**Stress-testing and scenarios:** Explicitly model extreme scenarios and assess portfolio losses. [Scenario-analysis](/scenario-analysis) forces you to consider tail risks that normal models miss.
+**Stress-testing and scenarios:** Explicitly model extreme scenarios and assess portfolio losses. [Scenario-analysis](/scenario-analysis/) forces you to consider tail risks that normal models miss.
 
 **Tail-risk hedging strategies:** Some hedge funds and portfolio managers explicitly hedge tail risk using derivatives or strategies that benefit from tail events. The cost is reduced average returns, but the payoff in crises is protection.
 
@@ -94,18 +94,18 @@ Several reasons:
 
 ### Closely related
 
-- [Fat-tail-risk](/fat-tail-risk) — markets have fatter tails than normal distribution
-- [Black-swan](/black-swan) — unpredictable catastrophic tail event
-- [Gray-swan](/gray-swan) — known but hard-to-model tail risk
-- [Value-at-risk](/value-at-risk) — often misses tail risk
-- [Expected-shortfall](/expected-shortfall) — measures average tail loss
+- [Fat-tail-risk](/fat-tail-risk/) — markets have fatter tails than normal distribution
+- [Black-swan](/black-swan/) — unpredictable catastrophic tail event
+- [Gray-swan](/gray-swan/) — known but hard-to-model tail risk
+- [Value-at-risk](/value-at-risk/) — often misses tail risk
+- [Expected-shortfall](/expected-shortfall/) — measures average tail loss
 
 ### Broader context
 
-- [Stress-testing](/stress-testing) — assesses tail losses under scenarios
-- [Scenario-analysis](/scenario-analysis) — explores tail risk outcomes
-- [Option](/option) — used to hedge tail risk
-- [Volatility](/stock-market) — spikes during tail events
-- [Systemic-risk](/systemic-risk) — tail events often systemic
+- [Stress-testing](/stress-testing/) — assesses tail losses under scenarios
+- [Scenario-analysis](/scenario-analysis/) — explores tail risk outcomes
+- [Option](/option/) — used to hedge tail risk
+- [Volatility](/stock-market/) — spikes during tail events
+- [Systemic-risk](/systemic-risk/) — tail events often systemic
 
 </div>

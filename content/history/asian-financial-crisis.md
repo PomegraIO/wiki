@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the Asian crisis. For the subsequent contagion, see [Russian Financial Crisis](/russian-financial-crisis-1998); for the broader pattern, see currency crisis.
+This entry covers the Asian crisis. For the subsequent contagion, see [Russian Financial Crisis](/russian-financial-crisis-1998/); for the broader pattern, see currency crisis.
 
 </div>
 
@@ -87,9 +87,9 @@ Most of the Asian economies recovered by 1999–2000. Growth resumed. Banks were
 
 ### Closely related
 
-- [Russian Financial Crisis 1998](/russian-financial-crisis-1998) — contagion from the Asian crisis
+- [Russian Financial Crisis 1998](/russian-financial-crisis-1998/) — contagion from the Asian crisis
 - Currency crisis — the general mechanism
-- [Mexican Peso Crisis](/mexican-peso-crisis) — a similar crisis three years earlier
+- [Mexican Peso Crisis](/mexican-peso-crisis/) — a similar crisis three years earlier
 
 ### Wider context
 

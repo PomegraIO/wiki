@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Derivatives">
 <rect width="900" height="600" fill="#f4ede2"/>
 <line x1="60" y1="60" x2="60" y2="540" stroke="#d4cdbd" stroke-width="1"/>
-<text x="80" y="100" font-family="'Fraunces',Georgia,serif" font-style="italic" font-size="36" fill="#0f0f10" font-weight="600">Derivatives</text>
-<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">OPTIONS, FUTURES & SWAPS</text>
+<text x="80" y="100" font-family="'Source Serif 4','Source Serif Pro',Georgia,serif" font-size="36" fill="#0f0f10" font-weight="600">Derivatives</text>
+<text x="80" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#c0392b" letter-spacing="3" font-weight="700">OPTIONS, FUTURES &amp; SWAPS</text>
 <g transform="translate(120,200)">
 <line x1="0" y1="300" x2="700" y2="300" stroke="#d4cdbd" stroke-width="1"/>
 <line x1="350" y1="0" x2="350" y2="320" stroke="#d4cdbd" stroke-width="1" stroke-dasharray="4 4"/>

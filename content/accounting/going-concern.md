@@ -10,11 +10,11 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*[Going concern](/going-concern) is a fundamental assumption in [accrual-accounting](/accrual-accounting): that a company will continue operating indefinitely, allowing assets to be valued based on expected future use rather than liquidation value. Without this assumption, every asset would need to be valued at forced-sale price, and estimates of useful lives would be invalid. If auditors believe there is **substantial doubt** about [going concern](/going-concern), they must qualify their audit opinion and the company must disclose the concern. This typically signals serious financial distress and can trigger covenant violations, credit downgrades, and loss of customer and supplier confidence.*
+*[Going concern](/going-concern/) is a fundamental assumption in [accrual-accounting](/accrual-accounting/): that a company will continue operating indefinitely, allowing assets to be valued based on expected future use rather than liquidation value. Without this assumption, every asset would need to be valued at forced-sale price, and estimates of useful lives would be invalid. If auditors believe there is **substantial doubt** about [going concern](/going-concern/), they must qualify their audit opinion and the company must disclose the concern. This typically signals serious financial distress and can trigger covenant violations, credit downgrades, and loss of customer and supplier confidence.*
 
 <div class="wiki-hatnote">
 
-This entry covers the going concern concept. For the audit opinion impact, see [audit-opinion](/audit-opinion). For the specific opinion type, see going-concern-opinion.
+This entry covers the going concern concept. For the audit opinion impact, see [audit-opinion](/audit-opinion/). For the specific opinion type, see going-concern-opinion.
 
 </div>
 
@@ -39,17 +39,17 @@ This entry covers the going concern concept. For the audit opinion impact, see [
 
 ## The going concern assumption
 
-All financial statements implicitly assume the company is a [going concern](/going-concern). This affects:
+All financial statements implicitly assume the company is a [going concern](/going-concern/). This affects:
 
-- **Asset valuation**: [Depreciation](/depreciation) and [amortization](/amortization) assume assets will be used over their estimated useful lives, not sold immediately.
+- **Asset valuation**: [Depreciation](/depreciation/) and [amortization](/amortization/) assume assets will be used over their estimated useful lives, not sold immediately.
 - **Current/non-current distinction**: Current liabilities are those due within one year. If the company might liquidate, this distinction is meaningless.
 - **Impairment testing**: Assets are tested for impairment assuming the company continues operations, not at liquidation value.
 
-If the [going concern](/going-concern) assumption is violated (the company might not survive), the entire financial statement framework changes.
+If the [going concern](/going-concern/) assumption is violated (the company might not survive), the entire financial statement framework changes.
 
 ## Substantial doubt about going concern
 
-Auditors are required to assess whether "substantial doubt" exists about the company's [going concern](/going-concern) status. Substantial doubt exists if:
+Auditors are required to assess whether "substantial doubt" exists about the company's [going concern](/going-concern/) status. Substantial doubt exists if:
 
 - The company has recurring losses and negative cash flow.
 - The company has defaulted on debt or violated covenants.
@@ -61,7 +61,7 @@ Substantial doubt does not mean the company will definitely fail, only that the 
 
 ## Audit opinion and disclosure
 
-If auditors conclude there is substantial doubt about [going concern](/going-concern), they must:
+If auditors conclude there is substantial doubt about [going concern](/going-concern/), they must:
 
 1. **Qualify the audit opinion**: The audit opinion includes language noting the substantial doubt (a "going concern qualification").
 2. **Require disclosure**: The company must disclose the risk in footnotes, explaining management's plans to address the concern.
@@ -82,32 +82,32 @@ If management's plans are credible and likely to succeed, the substantial doubt 
 
 ## Going concern and covenant violations
 
-If a company violates debt covenants (e.g., maintaining a minimum debt-to-equity ratio), it is in technical default. Even if the lender grants a waiver, the breach raises [going concern](/going-concern) concerns and must be disclosed.
+If a company violates debt covenants (e.g., maintaining a minimum debt-to-equity ratio), it is in technical default. Even if the lender grants a waiver, the breach raises [going concern](/going-concern/) concerns and must be disclosed.
 
-Covenant violations are often the first signal that a company is in financial trouble and may not be a [going concern](/going-concern).
+Covenant violations are often the first signal that a company is in financial trouble and may not be a [going concern](/going-concern/).
 
 ## Going concern and Chapter 11 bankruptcy
 
-If a company files for bankruptcy, it is still presumed to be a [going concern](/going-concern) if it will emerge from bankruptcy. Bankruptcy does not by itself trigger a [going concern](/going-concern) qualification if emergence is likely.
+If a company files for bankruptcy, it is still presumed to be a [going concern](/going-concern/) if it will emerge from bankruptcy. Bankruptcy does not by itself trigger a [going concern](/going-concern/) qualification if emergence is likely.
 
-However, if the company is likely to be liquidated rather than reorganized, the [going concern](/going-concern) assumption is violated and financial statements must be prepared on a liquidation basis.
+However, if the company is likely to be liquidated rather than reorganized, the [going concern](/going-concern/) assumption is violated and financial statements must be prepared on a liquidation basis.
 
 ## Historical examples
 
-During the 2008 financial crisis, many companies received [going concern](/going-concern) qualifications. AIG, Lehman Brothers, and General Motors all faced substantial doubt. Some (like GM) emerged from bankruptcy as [going concerns](/going-concern); others did not.
+During the 2008 financial crisis, many companies received [going concern](/going-concern/) qualifications. AIG, Lehman Brothers, and General Motors all faced substantial doubt. Some (like GM) emerged from bankruptcy as [going concerns](/going-concern/); others did not.
 
-More recently, companies with high debt loads or declining cash flow (retailers, energy companies, struggling tech firms) have received [going concern](/going-concern) qualifications.
+More recently, companies with high debt loads or declining cash flow (retailers, energy companies, struggling tech firms) have received [going concern](/going-concern/) qualifications.
 
 ## Impact on stock price and credit
 
-A [going concern](/going-concern) qualification often triggers:
+A [going concern](/going-concern/) qualification often triggers:
 
 - **Stock price collapse**: Investors fear total loss.
 - **Credit downgrade**: Rating agencies cut ratings.
 - **Covenant acceleration**: Lenders may demand immediate repayment.
 - **Customer/supplier loss**: Risk-averse partners distance themselves.
 
-A [going concern](/going-concern) qualification is taken seriously by the market because it signals existential risk.
+A [going concern](/going-concern/) qualification is taken seriously by the market because it signals existential risk.
 
 ## See also
 
@@ -115,12 +115,12 @@ A [going concern](/going-concern) qualification is taken seriously by the market
 
 ### Closely related
 
-- [Audit-opinion](/audit-opinion) — going concern affects the opinion
+- [Audit-opinion](/audit-opinion/) — going concern affects the opinion
 - Going-concern-opinion — specific type of qualified opinion
 - Substantial-doubt — the threshold concept
 - Bankruptcy — extreme going concern risk
 - Covenant — violations trigger going concern assessment
-- [Footnote-disclosure](/footnote-disclosure) — where going concern concerns are noted
+- [Footnote-disclosure](/footnote-disclosure/) — where going concern concerns are noted
 
 ### Context
 

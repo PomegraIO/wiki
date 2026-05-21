@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **proxy fight** (also called a **proxy contest**) is a battle for control of a board of directors. An activist investor or hostile bidder solicits proxy votes from the company's shareholders, aiming to elect its own slate of directors who will implement the activist's strategy or approve a [merger](/merger). Proxy fights are less direct than [hostile takeovers](/hostile-takeover) — instead of immediately acquiring all shares, the activist aims to gain board control and then reshape the company's strategy or open it to acquisition.*
+*A **proxy fight** (also called a **proxy contest**) is a battle for control of a board of directors. An activist investor or hostile bidder solicits proxy votes from the company's shareholders, aiming to elect its own slate of directors who will implement the activist's strategy or approve a [merger](/merger/). Proxy fights are less direct than [hostile takeovers](/hostile-takeover/) — instead of immediately acquiring all shares, the activist aims to gain board control and then reshape the company's strategy or open it to acquisition.*
 
 <div class="wiki-hatnote">
 
-This entry covers proxy fights as a governance battle. For hostile acquisitions via tender offer, see [hostile takeover](/hostile-takeover) and [tender offer](/tender-offer); for shareholder voting processes, see [proxy advisor](/proxy-advisor).
+This entry covers proxy fights as a governance battle. For hostile acquisitions via tender offer, see [hostile takeover](/hostile-takeover/) and [tender offer](/tender-offer/); for shareholder voting processes, see [proxy advisor](/proxy-advisor/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers proxy fights as a governance battle. For hostile acquisitions 
 | **Typical timeline** | 2–4 months from announcement to annual shareholder meeting |
 | **Cost** | $10–50 million+ in legal and advisory fees (both sides) |
 | **Success rate** | ~30–40% for activists; varies widely |
-| **Alternative to** | [Tender offer](/tender-offer), [hostile takeover](/hostile-takeover) |
+| **Alternative to** | [Tender offer](/tender-offer/), [hostile takeover](/hostile-takeover/) |
 
 </aside>
 
@@ -53,7 +53,7 @@ This entry covers proxy fights as a governance battle. For hostile acquisitions 
 
 ## Proxy advisors and institutional investors
 
-Modern proxy fights are heavily influenced by [proxy advisors](/proxy-advisor) — firms like Institutional Shareholder Services (ISS) and Glass Lewis that analyze corporate governance issues and recommend how shareholders should vote. These firms wield enormous power: many large institutional investors (pension funds, mutual funds, index funds) outsource voting decisions to proxy advisors as a matter of policy.
+Modern proxy fights are heavily influenced by [proxy advisors](/proxy-advisor/) — firms like Institutional Shareholder Services (ISS) and Glass Lewis that analyze corporate governance issues and recommend how shareholders should vote. These firms wield enormous power: many large institutional investors (pension funds, mutual funds, index funds) outsource voting decisions to proxy advisors as a matter of policy.
 
 An endorsement from a major proxy advisor can swing a proxy fight. Consequently, both sides of a fight spend considerable effort lobbying proxy advisors, providing evidence, and making their case. A proxy advisor that endorses the activist's slate often leads to a win; endorsement of the incumbent board often means the activist loses.
 
@@ -100,17 +100,17 @@ Proxy fights have become more frequent since the 1990s, as institutional investo
 ### Closely related
 
 - Shareholder activism — pressure campaigns for corporate change
-- [Proxy advisor](/proxy-advisor) — influences shareholders on voting
-- [Hostile takeover](/hostile-takeover) — can include a proxy fight as part of the strategy
-- [Tender offer](/tender-offer) — alternative mechanism to proxy fight
+- [Proxy advisor](/proxy-advisor/) — influences shareholders on voting
+- [Hostile takeover](/hostile-takeover/) — can include a proxy fight as part of the strategy
+- [Tender offer](/tender-offer/) — alternative mechanism to proxy fight
 - Board of directors — the contested prize
 
 ### Wider context
 
 - Classified board — staggered elections that slow proxy fight victories
 - Controlling shareholder — can prevent or control proxy fights
-- [Change of control provision](/change-of-control-provision) — triggered when activists win proxy fights
+- [Change of control provision](/change-of-control-provision/) — triggered when activists win proxy fights
 - Schedule 13D — disclosure required for activist stakes
-- [Merger](/merger) — outcome if activist-backed directors negotiate a sale
+- [Merger](/merger/) — outcome if activist-backed directors negotiate a sale
 
 </div>

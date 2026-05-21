@@ -10,7 +10,7 @@ keywords:
 image: "/svg/accounting.svg"
 ---
 
-*The **audit opinion** is the auditor's formal conclusion about whether a company's financial statements are fairly presented in accordance with [GAAP](/generally-accepted-accounting-principles) and whether internal controls are effective. The [audit opinion](/audit-opinion) appears in the [10-K](/10-k) and is critical: an unqualified opinion (clean opinion) gives investors confidence; a qualified opinion or disclaimer signals concerns. Types include **unqualified opinion** (clean), **qualified opinion** (with exceptions), **adverse opinion** (statements are not fairly presented), and **disclaimer of opinion** (auditor could not complete the audit). A going-concern-opinion is a special type of qualification.*
+*The **audit opinion** is the auditor's formal conclusion about whether a company's financial statements are fairly presented in accordance with [GAAP](/generally-accepted-accounting-principles/) and whether internal controls are effective. The [audit opinion](/audit-opinion/) appears in the [10-K](/10-k/) and is critical: an unqualified opinion (clean opinion) gives investors confidence; a qualified opinion or disclaimer signals concerns. Types include **unqualified opinion** (clean), **qualified opinion** (with exceptions), **adverse opinion** (statements are not fairly presented), and **disclaimer of opinion** (auditor could not complete the audit). A going-concern-opinion is a special type of qualification.*
 
 <div class="wiki-hatnote">
 
@@ -31,19 +31,19 @@ This entry covers audit opinions in general. For the going concern version, see 
 | **What it is** | Auditor's conclusion on financial statement fairness |
 | **Types** | Unqualified, qualified, adverse, disclaimer |
 | **Auditor** | Independent external accounting firm |
-| **Scope** | [GAAP](/generally-accepted-accounting-principles) compliance and internal controls |
-| **Public** | Included in [10-K](/10-k) and on SEC EDGAR |
+| **Scope** | [GAAP](/generally-accepted-accounting-principles/) compliance and internal controls |
+| **Public** | Included in [10-K](/10-k/) and on SEC EDGAR |
 | **Read by** | Investors, creditors, regulators |
 
 </aside>
 
 ## Types of audit opinions
 
-**Unqualified opinion** (clean opinion): The financial statements are fairly presented in all material respects in accordance with [GAAP](/generally-accepted-accounting-principles). This is the most common and best outcome. An unqualified opinion means the company passed the audit without reservation.
+**Unqualified opinion** (clean opinion): The financial statements are fairly presented in all material respects in accordance with [GAAP](/generally-accepted-accounting-principles/). This is the most common and best outcome. An unqualified opinion means the company passed the audit without reservation.
 
 **Qualified opinion**: The statements are generally fairly presented, but there is an exception. Examples:
 - The auditor could not access certain information and had to rely on management representation.
-- There is a [going-concern](/going-concern) doubt that the company addresses (and the auditor accepts).
+- There is a [going-concern](/going-concern/) doubt that the company addresses (and the auditor accepts).
 - There is a disagreement with management on an accounting treatment, but it is not material.
 
 A qualified opinion says "the statements are fair, except for this issue."
@@ -57,7 +57,7 @@ A qualified opinion says "the statements are fair, except for this issue."
 The audit opinion is a formal letter addressed to shareholders, typically 2-3 paragraphs, stating:
 
 1. The scope of the audit (which statements were audited, period covered).
-2. The basis for the opinion (statements comply with [GAAP](/generally-accepted-accounting-principles), accounting standards, auditing standards).
+2. The basis for the opinion (statements comply with [GAAP](/generally-accepted-accounting-principles/), accounting standards, auditing standards).
 3. The opinion itself (unqualified, qualified, adverse, or disclaimer).
 
 For public companies, the auditor also states:
@@ -115,14 +115,14 @@ If an auditor issues an unqualified opinion on statements that later prove mater
 - Going-concern-opinion — specific type of qualified opinion
 - Internal-controls — assessed in the opinion
 - Qualified-opinion — with exceptions
-- [10-K](/10-k) — contains the audit opinion
+- [10-K](/10-k/) — contains the audit opinion
 - Auditor — the firm issuing the opinion
 
 ### Context
 
 - Financial-statements — subject of the opinion
-- [GAAP](/generally-accepted-accounting-principles) — compliance standard
-- [Public-company](/public-company) — required to have audit
+- [GAAP](/generally-accepted-accounting-principles/) — compliance standard
+- [Public-company](/public-company/) — required to have audit
 - Earnings-quality — audit opinion reflects quality
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/corporate.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers dual-class structures as a control mechanism. For board control, see board of directors; for activist campaigns to eliminate dual-class structures, see shareholder activism; do not confuse with [dual listing](/dual-listing), which refers to shares trading on multiple exchanges.
+This entry covers dual-class structures as a control mechanism. For board control, see board of directors; for activist campaigns to eliminate dual-class structures, see shareholder activism; do not confuse with [dual listing](/dual-listing/), which refers to shares trading on multiple exchanges.
 
 </div>
 
@@ -150,10 +150,10 @@ As ownership becomes more dispersed and activist pressure increases, more dual-c
 
 ### Wider context
 
-- [Proxy fight](/proxy-fight) — difficult in dual-class structures
-- [Merger](/merger) — dual-class can prevent hostile mergers
+- [Proxy fight](/proxy-fight/) — difficult in dual-class structures
+- [Merger](/merger/) — dual-class can prevent hostile mergers
 - Say-on-pay — voting rights issues in dual-class
-- [Initial public offering](/initial-public-offering) — structure set at IPO
-- [Hostile takeover](/hostile-takeover) — prevented by dual-class structures
+- [Initial public offering](/initial-public-offering/) — structure set at IPO
+- [Hostile takeover](/hostile-takeover/) — prevented by dual-class structures
 
 </div>

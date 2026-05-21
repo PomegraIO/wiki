@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the stock market crash itself. For the broader economic collapse that followed, see [Great Depression](/great-depression); for the fraud and excesses that preceded the crash, see speculation.
+This entry covers the stock market crash itself. For the broader economic collapse that followed, see [Great Depression](/great-depression/); for the fraud and excesses that preceded the crash, see speculation.
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers the stock market crash itself. For the broader economic collap
 
 The 1920s in America were years of rapid economic growth, technological innovation, and rising stock prices. Radio, automobiles, and electrical appliances were transforming daily life. Corporate profits were robust. Stock prices soared.
 
-But the advance was built on excess. Stock prices had become unmoored from any fundamental measure of value. The [price-to-earnings ratio](/price-to-earnings-ratio) of the average stock had risen to levels that left no room for disappointment. More dangerously, a large fraction of stock purchases were made on margin — speculators borrowed money from brokers, putting down only 10% or 20% of the purchase price and borrowing the rest.
+But the advance was built on excess. Stock prices had become unmoored from any fundamental measure of value. The [price-to-earnings ratio](/price-to-earnings-ratio/) of the average stock had risen to levels that left no room for disappointment. More dangerously, a large fraction of stock purchases were made on margin — speculators borrowed money from brokers, putting down only 10% or 20% of the purchase price and borrowing the rest.
 
 This leverage was sustainable only as long as prices were rising. But leverage cuts both ways. When prices began to fall, speculators faced margin calls — demands from brokers to deposit more money to cover losses. Speculators who did not have the cash were forced to sell, adding to the downward pressure on prices. Each sale triggered new margin calls, forcing more selling. It was a vicious cycle.
 
@@ -78,16 +78,16 @@ Modern regulations — circuit breakers that halt trading if prices fall too far
 
 ### Closely related
 
-- [Great Depression](/great-depression) — the economic contraction triggered by the crash
-- [Black Monday 1987](/black-monday-1987) — another severe single-day crash
+- [Great Depression](/great-depression/) — the economic contraction triggered by the crash
+- [Black Monday 1987](/black-monday-1987/) — another severe single-day crash
 - Speculation — the excess that preceded the crash
 
 ### Wider context
 
 - Margin — the leverage mechanism that amplified losses
-- [Stock market](/stock-market) — the venue
-- [Bull market](/bull-market) · [Bear market](/bear-market) — the cycles
+- [Stock market](/stock-market/) — the venue
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — the cycles
 - Financial regulation — the oversight that emerged afterward
-- [Gold standard](/gold-standard) — the monetary constraint that worsened the crisis
+- [Gold standard](/gold-standard/) — the monetary constraint that worsened the crisis
 
 </div>

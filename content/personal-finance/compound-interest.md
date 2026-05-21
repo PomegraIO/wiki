@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers compound interest as a principle. For specific applications in savings accounts or bond returns, consult your financial adviser; for investment returns, see [asset allocation](/asset-allocation).
+This entry covers compound interest as a principle. For specific applications in savings accounts or bond returns, consult your financial adviser; for investment returns, see [asset allocation](/asset-allocation/).
 
 </div>
 
@@ -35,7 +35,7 @@ This entry covers compound interest as a principle. For specific applications in
 | **Time horizon** | Works best over decades, not years |
 | **Rule of 72** | At 7% return, $1 doubles in ~10 years (72÷7≈10) |
 | **Investor advantage** | Early starters vastly outpace late starters |
-| **Obstacle** | [Inflation](/inflation) erodes returns; must be considered |
+| **Obstacle** | [Inflation](/inflation/) erodes returns; must be considered |
 | **Tax impact** | Taxes reduce compounding unless in tax-deferred account |
 
 </aside>
@@ -74,9 +74,9 @@ This is why financial advisers obsess over getting young people to start investi
 
 Compound interest works only if you hold the investment long enough for compounding to work. This requires a **long time horizon**.
 
-If you invest $10,000 in the [stock market](/stock-market) for one year, you might lose money if there is a [bear market](/bear-market). If you invest for 10 years, history suggests a very high probability of positive returns. If you invest for 30 years, the probability of loss is vanishingly small.
+If you invest $10,000 in the [stock market](/stock-market/) for one year, you might lose money if there is a [bear market](/bear-market/). If you invest for 10 years, history suggests a very high probability of positive returns. If you invest for 30 years, the probability of loss is vanishingly small.
 
-This is why [asset allocation](/asset-allocation) depends on time horizon. If you have 30 years until retirement, you can hold a high stock allocation (say, 80% stocks, 20% [bonds](/bond)) and let compound returns do their work. If you need the money in 5 years, you cannot afford the short-term volatility; you must hold bonds and accept lower returns.
+This is why [asset allocation](/asset-allocation/) depends on time horizon. If you have 30 years until retirement, you can hold a high stock allocation (say, 80% stocks, 20% [bonds](/bond/)) and let compound returns do their work. If you need the money in 5 years, you cannot afford the short-term volatility; you must hold bonds and accept lower returns.
 
 The compounding effect is so powerful that it justifies taking more risk early (when you have time to recover) and less risk late (when you need to preserve capital).
 
@@ -84,9 +84,9 @@ The compounding effect is so powerful that it justifies taking more risk early (
 
 A critical caveat: compound interest must be understood in **real** (inflation-adjusted) terms, not nominal terms.
 
-If you earn 7% per year but [inflation](/inflation) is 3% per year, your real return is about 4% per year. $10,000 earning nominal 7% becomes $76,123 in 30 years—but if inflation is 3%, those dollars are worth only what $32,000 would have been worth when you started. Real wealth is built much more slowly than nominal wealth appears to suggest.
+If you earn 7% per year but [inflation](/inflation/) is 3% per year, your real return is about 4% per year. $10,000 earning nominal 7% becomes $76,123 in 30 years—but if inflation is 3%, those dollars are worth only what $32,000 would have been worth when you started. Real wealth is built much more slowly than nominal wealth appears to suggest.
 
-This is why long-term investors need exposure to [stocks](/stock), which have historically kept pace with (or exceeded) inflation. [Bonds](/bond) and savings accounts often lag inflation over decades.
+This is why long-term investors need exposure to [stocks](/stock/), which have historically kept pace with (or exceeded) inflation. [Bonds](/bond/) and savings accounts often lag inflation over decades.
 
 ## Taxes and the drag of withdrawals
 
@@ -104,19 +104,19 @@ Similarly, withdrawing money early (to cover expenses, buy a house, etc.) stops 
 
 ### Closely related
 
-- [Stock](/stock) — the primary vehicle for long-term compounding
-- [Stock market](/stock-market) — where long-term returns are made
-- [Dividend](/dividend) — income that compounds when reinvested
-- [Inflation](/inflation) — the enemy of real compound returns
-- [Interest rate](/interest-rate) — determines the compounding rate in bonds
-- [Asset allocation](/asset-allocation) — the vehicle through which compounding works
+- [Stock](/stock/) — the primary vehicle for long-term compounding
+- [Stock market](/stock-market/) — where long-term returns are made
+- [Dividend](/dividend/) — income that compounds when reinvested
+- [Inflation](/inflation/) — the enemy of real compound returns
+- [Interest rate](/interest-rate/) — determines the compounding rate in bonds
+- [Asset allocation](/asset-allocation/) — the vehicle through which compounding works
 
 ### Wider context
 
-- [Bull market](/bull-market) · [Bear market](/bear-market) — the ride experienced during compounding
-- [Recession](/recession) — temporary setback to compounding
-- [Central bank](/central-bank) — influences rate of return
-- [Index fund](/index-fund) — the simplest way to let compound interest work
-- [Diversification](/diversification) — protects compounding by reducing losses
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — the ride experienced during compounding
+- [Recession](/recession/) — temporary setback to compounding
+- [Central bank](/central-bank/) — influences rate of return
+- [Index fund](/index-fund/) — the simplest way to let compound interest work
+- [Diversification](/diversification/) — protects compounding by reducing losses
 
 </div>

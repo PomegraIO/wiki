@@ -11,11 +11,11 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **enterprise value** — or **EV** — of a company is the total cost required to acquire it. It is calculated as the [market capitalization](/market-capitalization) plus total debt minus total cash (and equivalents). Enterprise value is the price a buyer would need to pay: the equity holders get the market cap, but the buyer also assumes all the company's liabilities.*
+*The **enterprise value** — or **EV** — of a company is the total cost required to acquire it. It is calculated as the [market capitalization](/market-capitalization/) plus total debt minus total cash (and equivalents). Enterprise value is the price a buyer would need to pay: the equity holders get the market cap, but the buyer also assumes all the company's liabilities.*
 
 <div class="wiki-hatnote">
 
-This entry covers a fundamental valuation measure. For ratios built on enterprise value, see [EV/EBITDA](/ev-to-ebitda), [EV/Sales](/ev-to-sales), [EV/EBIT](/ev-to-ebit), and [EV/FCF](/ev-to-fcf).
+This entry covers a fundamental valuation measure. For ratios built on enterprise value, see [EV/EBITDA](/ev-to-ebitda/), [EV/Sales](/ev-to-sales/), [EV/EBIT](/ev-to-ebit/), and [EV/FCF](/ev-to-fcf/).
 
 </div>
 
@@ -42,7 +42,7 @@ This entry covers a fundamental valuation measure. For ratios built on enterpris
 
 ## The intuition behind the concept
 
-When you buy a company, you do not just buy the shareholders' equity. You also assume all of its liabilities. A company with a $50 billion [market capitalization](/market-capitalization) and $30 billion in debt is not a $50 billion acquisition. It is a $50 billion purchase plus $30 billion in debt assumption — a $80 billion deal.
+When you buy a company, you do not just buy the shareholders' equity. You also assume all of its liabilities. A company with a $50 billion [market capitalization](/market-capitalization/) and $30 billion in debt is not a $50 billion acquisition. It is a $50 billion purchase plus $30 billion in debt assumption — a $80 billion deal.
 
 Enterprise value is therefore a buyer's cost, not an equity investor's wealth. It is the price that makes a company comparable across different leverage levels, different ages, and different capital structures. Two companies in the same industry with the same enterprise value are economically equivalent to a buyer, even if one is leveraged and one is not.
 
@@ -71,7 +71,7 @@ Has an enterprise value of $100 billion + $40 billion − $15 billion = $125 bil
 
 **M&A pricing.** When dealmakers value a company, they use enterprise value. The acquirer must pay the market cap to buy the equity, but also must assume all debt. The target's cash reduces what the acquirer must pay (because the buyer can use that cash to pay down assumed debt).
 
-**Valuation multiples.** Enterprise value is the denominator in the most useful valuation multiples: [EV/EBITDA](/ev-to-ebitda), [EV/Sales](/ev-to-sales), [EV/FCF](/ev-to-fcf). These are comparable across firms with different capital structures.
+**Valuation multiples.** Enterprise value is the denominator in the most useful valuation multiples: [EV/EBITDA](/ev-to-ebitda/), [EV/Sales](/ev-to-sales/), [EV/FCF](/ev-to-fcf/). These are comparable across firms with different capital structures.
 
 **Spotting hidden leverage.** A company with a low market cap but high debt has a surprisingly high enterprise value. This can signal financial distress or hidden leverage risk.
 
@@ -118,11 +118,11 @@ The relationship shifts constantly. As stock prices fall, market cap declines, b
 
 ### Closely related
 
-- [EV/EBITDA](/ev-to-ebitda) — the most common multiple built on EV
-- [EV/Sales](/ev-to-sales) — for unprofitable companies
-- [EV/FCF](/ev-to-fcf) — cash-focused alternative
-- [Market capitalization](/market-capitalization) — the equity value
-- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio) — leverage relative to EV
+- [EV/EBITDA](/ev-to-ebitda/) — the most common multiple built on EV
+- [EV/Sales](/ev-to-sales/) — for unprofitable companies
+- [EV/FCF](/ev-to-fcf/) — cash-focused alternative
+- [Market capitalization](/market-capitalization/) — the equity value
+- [Debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) — leverage relative to EV
 
 ### Wider context
 
@@ -130,6 +130,6 @@ The relationship shifts constantly. As stock prices fall, market cap declines, b
 - Capital structure — how EV is financed
 - Mergers and acquisitions — the primary use case
 - Valuation — the broader framework
-- [Free cash flow](/free-cash-flow) — what drives enterprise value
+- [Free cash flow](/free-cash-flow/) — what drives enterprise value
 
 </div>

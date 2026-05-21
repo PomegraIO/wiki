@@ -14,7 +14,7 @@ image: "/svg/personal-finance.svg"
 
 <div class="wiki-hatnote">
 
-For health insurance at age 65, see [Medicare](/medicare-personal); for life insurance, see [term-life insurance](/term-life-insurance); for financial planning, see [the four-percent rule](/the-four-percent-rule).
+For health insurance at age 65, see [Medicare](/medicare-personal/); for life insurance, see [term-life insurance](/term-life-insurance/); for financial planning, see [the four-percent rule](/the-four-percent-rule/).
 
 </div>
 
@@ -72,7 +72,7 @@ Example: you buy a policy with a $150/day benefit ($4,500/month), a 5-year benef
 
 **Benefit period.** 2 years, 5 years, or lifetime. Lifetime is expensive; 5 years covers most scenarios. Average LTC lasts 2–3 years but can extend decades (e.g., dementia).
 
-**Waiting period.** Longer waits (180 days) cost less premium. If you have [emergency fund](/emergency-fund) or savings to cover 6 months of care, a longer wait is cost-effective.
+**Waiting period.** Longer waits (180 days) cost less premium. If you have [emergency fund](/emergency-fund/) or savings to cover 6 months of care, a longer wait is cost-effective.
 
 **Inflation adjustment.** Care costs rise 3–4% annually. Building in inflation protection increases premium but essential if buying at 50–55.
 
@@ -111,15 +111,15 @@ LTC insurance is better if you can afford it, because you maintain choice and qu
 
 ### Closely related
 
-- [Medicare](/medicare-personal) — covers age 65+ medical, not LTC
-- [Term-life insurance](/term-life-insurance) — protection during working years
-- [Umbrella insurance](/umbrella-insurance) — liability protection
+- [Medicare](/medicare-personal/) — covers age 65+ medical, not LTC
+- [Term-life insurance](/term-life-insurance/) — protection during working years
+- [Umbrella insurance](/umbrella-insurance/) — liability protection
 
 ### Wider context
 
-- [The four-percent rule](/the-four-percent-rule) — retirement spending affected by LTC
-- [Emergency fund](/emergency-fund) — covers waiting period
-- [Budgeting methods](/budgeting-methods) — LTC planning as financial goal
-- [Estate planning](/budgeting-methods) — LTC costs reduce inheritance
+- [The four-percent rule](/the-four-percent-rule/) — retirement spending affected by LTC
+- [Emergency fund](/emergency-fund/) — covers waiting period
+- [Budgeting methods](/budgeting-methods/) — LTC planning as financial goal
+- [Estate planning](/budgeting-methods/) — LTC costs reduce inheritance
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on residential REITs broadly. For distinctions between apartment complexes and single-family rentals, see [multifamily-property](/multifamily-property) and [single-family-rental](/single-family-rental). For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust).
+This entry focuses on residential REITs broadly. For distinctions between apartment complexes and single-family rentals, see [multifamily-property](/multifamily-property/) and [single-family-rental](/single-family-rental/). For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/).
 
 </div>
 
@@ -101,28 +101,28 @@ In recessions, workforce housing faces greater distress. REITs tilted toward wor
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Healthcare REIT](/healthcare-reit) — senior living properties
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Healthcare REIT](/healthcare-reit/) — senior living properties
 
 ### Property types
 
-- [Multifamily property](/multifamily-property) — apartment buildings and complexes
-- [Single-family rental](/single-family-rental) — single-family homes for rent
-- [Build-to-rent](/build-to-rent) — new rental communities
-- [Residential-real-estate](/residential-real-estate) — housing broadly
+- [Multifamily property](/multifamily-property/) — apartment buildings and complexes
+- [Single-family rental](/single-family-rental/) — single-family homes for rent
+- [Build-to-rent](/build-to-rent/) — new rental communities
+- [Residential-real-estate](/residential-real-estate/) — housing broadly
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — residential property valuation
-- [Net operating income](/net-operating-income) — apartment rental revenue
-- [Gross rent multiplier](/gross-rent-multiplier) — valuation shortcut
+- [Cap rate](/cap-rate/) — residential property valuation
+- [Net operating income](/net-operating-income/) — apartment rental revenue
+- [Gross rent multiplier](/gross-rent-multiplier/) — valuation shortcut
 
 ### Context
 
-- [Dividend](/dividend) — the primary return from residential REITs
-- [Inflation](/inflation) — rents often rise with inflation
-- [Asset allocation](/asset-allocation) — residential REITs as portfolio components
-- [Diversification](/diversification) — importance of geographic diversification
+- [Dividend](/dividend/) — the primary return from residential REITs
+- [Inflation](/inflation/) — rents often rise with inflation
+- [Asset allocation](/asset-allocation/) — residential REITs as portfolio components
+- [Diversification](/diversification/) — importance of geographic diversification
 
 </div>

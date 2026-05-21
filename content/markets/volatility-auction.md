@@ -11,11 +11,11 @@ keywords:
 image: "/svg/markets.svg"
 ---
 
-*A **volatility auction** is a trading halt mechanism triggered when a stock experiences a dramatic price move in a short time. In the US, a volatility halt occurs when a stock moves 10% or more in 5 minutes (for large-cap stocks, the threshold varies). The halt is automatic and lasts 5 minutes; when it ends, trading resumes with an [intraday auction](/intraday-auction). Volatility auctions are designed to prevent panic selling or panicked short covering from cascading into flash crashes.*
+*A **volatility auction** is a trading halt mechanism triggered when a stock experiences a dramatic price move in a short time. In the US, a volatility halt occurs when a stock moves 10% or more in 5 minutes (for large-cap stocks, the threshold varies). The halt is automatic and lasts 5 minutes; when it ends, trading resumes with an [intraday auction](/intraday-auction/). Volatility auctions are designed to prevent panic selling or panicked short covering from cascading into flash crashes.*
 
 <div class="wiki-hatnote">
 
-This entry is about individual-stock volatility halts. For market-wide halts, see [circuit breaker](/stock-market); for the resume mechanism, see [intraday auction](/intraday-auction).
+This entry is about individual-stock volatility halts. For market-wide halts, see [circuit breaker](/stock-market/); for the resume mechanism, see [intraday auction](/intraday-auction/).
 
 </div>
 
@@ -46,7 +46,7 @@ When a stock moves 10% or more from its previous 5-minute opening price, a halt 
 1. The stock's trading is halted immediately.
 2. An announcement is disseminated: "Trading halted in XYZ pending volatility relief."
 3. For 5 minutes, no trades execute. The stock is frozen.
-4. At the end of 5 minutes, an [intraday auction](/intraday-auction) occurs, matching all accumulated buy and sell orders at a clearing price.
+4. At the end of 5 minutes, an [intraday auction](/intraday-auction/) occurs, matching all accumulated buy and sell orders at a clearing price.
 5. Continuous trading resumes.
 
 The 5-minute halt is designed to be long enough to allow market participants to absorb the news and adjust their valuations, yet short enough to avoid excessive trading delays.
@@ -94,13 +94,13 @@ Many halt situations show partial reversals when trading resumes. A stock that p
 
 ## The intraday auction restart
 
-When the 5-minute halt ends, trading does not simply resume at the old price. Instead, an [intraday auction](/intraday-auction) occurs:
+When the 5-minute halt ends, trading does not simply resume at the old price. Instead, an [intraday auction](/intraday-auction/) occurs:
 
 - The exchange matches all accumulated orders at a clearing price.
 - This price may be above or below the price that triggered the halt.
 - Continuous trading then resumes at the new price.
 
-The [intraday auction](/intraday-auction) restart is crucial: it prevents information asymmetries and ensures that the new traders arriving at the restart do not get picked off by sophisticated traders who have better information.
+The [intraday auction](/intraday-auction/) restart is crucial: it prevents information asymmetries and ensures that the new traders arriving at the restart do not get picked off by sophisticated traders who have better information.
 
 ## Frequency and prevalence
 
@@ -135,18 +135,18 @@ Both are safeguards against panic-driven crashes.
 
 ### Closely related
 
-- [Intraday auction](/intraday-auction) — the resume mechanism
-- [Regular trading hours](/regular-trading-hours) — when halts occur
-- [Stock exchange](/stock-exchange) — the venue enforcing halts
-- [Circuit breaker](/stock-market) — market-wide version
-- [Price discovery](/stock-market) — halts affect this process
+- [Intraday auction](/intraday-auction/) — the resume mechanism
+- [Regular trading hours](/regular-trading-hours/) — when halts occur
+- [Stock exchange](/stock-exchange/) — the venue enforcing halts
+- [Circuit breaker](/stock-market/) — market-wide version
+- [Price discovery](/stock-market/) — halts affect this process
 
 ### Wider context
 
-- [Stock](/stock) — what can be halted
-- [Volatility](/bull-market) — the trigger for halts
-- [Trading halt](/regular-trading-hours) — broader concept
-- [Market stability](/stock-market) — purpose of halts
-- [Flash crash](/stock-market) — danger halts mitigate
+- [Stock](/stock/) — what can be halted
+- [Volatility](/bull-market/) — the trigger for halts
+- [Trading halt](/regular-trading-hours/) — broader concept
+- [Market stability](/stock-market/) — purpose of halts
+- [Flash crash](/stock-market/) — danger halts mitigate
 
 </div>

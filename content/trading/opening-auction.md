@@ -13,7 +13,7 @@ image: "/svg/trading.svg"
 
 <div class="wiki-hatnote">
 
-For the closing process, see closing auction. For trading throughout the day, see [lit venue](/lit-venue). For price discovery, see order book.
+For the closing process, see closing auction. For trading throughout the day, see [lit venue](/lit-venue/). For price discovery, see order book.
 
 </div>
 
@@ -161,7 +161,7 @@ All use variants of the same principle: match the most shares at the fairest pri
 - Closing auction — counterpart at 4:00 p.m.
 - Order book — where opening orders accumulate
 - Market opening — the broader opening process
-- [Lit venue](/lit-venue) — exchanges that run auctions
+- [Lit venue](/lit-venue/) — exchanges that run auctions
 
 ### Price discovery and trading
 
@@ -174,14 +174,14 @@ All use variants of the same principle: match the most shares at the fairest pri
 
 - Gap trading — trade opening gaps
 - Opening range breakout — trade first 30 minutes
-- [High-frequency trading](/high-frequency-trading) — participant in opening auctions
-- [Day trading](/day-order) — traders participate in opening
+- [High-frequency trading](/high-frequency-trading/) — participant in opening auctions
+- [Day trading](/day-order/) — traders participate in opening
 
 ### Market mechanics
 
 - Auction mechanism — price-setting mechanism
 - Imbalance — buy-sell imbalance at opening
 - Designated market maker — NYSE DMMs facilitate opening
-- [After-hours trading](/after-hours-trading) — post-close venue
+- [After-hours trading](/after-hours-trading/) — post-close venue
 
 </div>

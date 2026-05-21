@@ -18,7 +18,7 @@ A standard DCF goes: forecast cash flows → discount to present → get intrins
 
 A reverse DCF goes: market price is given → solve for the implied growth rate, discount rate, or terminal value that justifies it.
 
-This is algebraically straightforward but requires some setup. A simple case is the [implied growth rate](/implied-growth-rate) from a [Gordon growth model](/gordon-growth-model). More complex versions involve multi-stage DCFs where you solve for a missing parameter.
+This is algebraically straightforward but requires some setup. A simple case is the [implied growth rate](/implied-growth-rate/) from a [Gordon growth model](/gordon-growth-model/). More complex versions involve multi-stage DCFs where you solve for a missing parameter.
 
 ## Building a reverse DCF
 
@@ -108,10 +108,10 @@ This suggests the market is pricing in either lower growth, higher cost of capit
 
 ### Closely related
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the parent model
-- [Implied growth rate](/implied-growth-rate) — one specific application
-- [Terminal value](/terminal-value) — usually what is being solved for
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the terminal assumption type
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the parent model
+- [Implied growth rate](/implied-growth-rate/) — one specific application
+- [Terminal value](/terminal-value/) — usually what is being solved for
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the terminal assumption type
 
 ### Analysis context
 
@@ -122,8 +122,8 @@ This suggests the market is pricing in either lower growth, higher cost of capit
 
 ### Integration and testing
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — which assumptions drive value
-- [Football field valuation](/football-field-valuation) — scenarios and ranges
-- [Scenario valuation](/scenario-valuation) — discrete cases
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — which assumptions drive value
+- [Football field valuation](/football-field-valuation/) — scenarios and ranges
+- [Scenario valuation](/scenario-valuation/) — discrete cases
 
 </div>

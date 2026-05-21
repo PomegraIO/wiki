@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*A **swaption** is an [option](/option) contract giving the holder the right—but not obligation—to enter a [swap](/swap) (usually an [interest-rate-swap](/interest-rate-swap)) at a predetermined rate on a future date. Swaptions are used by corporates and bond investors to obtain optional interest-rate protection: if rates move unfavorably, the holder exercises and locks in the predetermined rate; if rates move favorably, the holder lets the option expire. A swaption has an [option premium](/option-premium) upfront and the [strike](/strike-price) is the fixed swap rate.*
+*A **swaption** is an [option](/option/) contract giving the holder the right—but not obligation—to enter a [swap](/swap/) (usually an [interest-rate-swap](/interest-rate-swap/)) at a predetermined rate on a future date. Swaptions are used by corporates and bond investors to obtain optional interest-rate protection: if rates move unfavorably, the holder exercises and locks in the predetermined rate; if rates move favorably, the holder lets the option expire. A swaption has an [option premium](/option-premium/) upfront and the [strike](/strike-price/) is the fixed swap rate.*
 
 <aside class="wiki-infobox">
 
@@ -37,7 +37,7 @@ image: "/svg/derivatives.svg"
 
 ## How swaptions work
 
-A company expects to refinance debt in 6 months but is unsure if it will need the funds. It buys a 6-month **payer swaption** (right to pay fixed) on a 5-year [interest-rate-swap](/interest-rate-swap):
+A company expects to refinance debt in 6 months but is unsure if it will need the funds. It buys a 6-month **payer swaption** (right to pay fixed) on a 5-year [interest-rate-swap](/interest-rate-swap/):
 
 - Strike: 4% fixed
 - Premium: 0.5% of notional ($50K on $10M)
@@ -56,7 +56,7 @@ The option premium is the price of flexibility.
 
 ## Valuation
 
-Swaptions are priced using the **Black model** (extension of [Black-Scholes model](/black-scholes-model)) applied to forward swap rates:
+Swaptions are priced using the **Black model** (extension of [Black-Scholes model](/black-scholes-model/)) applied to forward swap rates:
 
 Swaption price = Bond PV × Black(forward rate, strike, volatility, time)
 
@@ -64,14 +64,14 @@ Inputs:
 - **Bond PV:** Present value of the annuity of swap payments
 - **Forward rate:** Swap rate implied by the yield curve
 - **Strike:** Exercise rate (the locked-in swaption rate)
-- **Volatility:** [Implied volatility](/implied-volatility) of swap rates
+- **Volatility:** [Implied volatility](/implied-volatility/) of swap rates
 - **Time:** Time to exercise date
 
 ## Greeks
 
-Swaptions have [vega](/vega) (sensitivity to interest-rate [volatility](/historical-volatility)), [delta](/delta) (sensitivity to rate level changes), and [theta](/theta) (time decay like other options).
+Swaptions have [vega](/vega/) (sensitivity to interest-rate [volatility](/historical-volatility/)), [delta](/delta/) (sensitivity to rate level changes), and [theta](/theta/) (time decay like other options).
 
-[Vega](/vega) is high when the swaption is at-the-money (strike equals forward rate); [delta](/delta) changes as rates move.
+[Vega](/vega/) is high when the swaption is at-the-money (strike equals forward rate); [delta](/delta/) changes as rates move.
 
 ## Contingent protection and cost savings
 

@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*An **impermanent loss** is a reduction in the value held by a [liquidity provider](/liquidity-provider) in an [AMM](/automated-market-maker) [liquidity pool](/liquidity-pool) compared to simply holding the tokens separately. It occurs when token prices diverge, forcing the pool to auto-balance and LPs to own less of the appreciated asset.*
+*An **impermanent loss** is a reduction in the value held by a [liquidity provider](/liquidity-provider/) in an [AMM](/automated-market-maker/) [liquidity pool](/liquidity-pool/) compared to simply holding the tokens separately. It occurs when token prices diverge, forcing the pool to auto-balance and LPs to own less of the appreciated asset.*
 
 <div class="wiki-hatnote">
 
-This entry covers impermanent loss as a concept. For liquidity provision generally, see [liquidity provider](/liquidity-provider); for liquidity pools, see [liquidity pool](/liquidity-pool).
+This entry covers impermanent loss as a concept. For liquidity provision generally, see [liquidity provider](/liquidity-provider/); for liquidity pools, see [liquidity pool](/liquidity-pool/).
 
 </div>
 
@@ -41,7 +41,7 @@ This entry covers impermanent loss as a concept. For liquidity provision general
 
 ## The mechanism
 
-When a [liquidity provider](/liquidity-provider) deposits into an [AMM](/automated-market-maker), they deposit equal values of two tokens. The pool maintains a constant product ($x \times y = k$) as trades occur.
+When a [liquidity provider](/liquidity-provider/) deposits into an [AMM](/automated-market-maker/), they deposit equal values of two tokens. The pool maintains a constant product ($x \times y = k$) as trades occur.
 
 If token A's price increases relative to token B, the pool auto-balances: it sells A and buys B. This rebalancing leaves the LP with less of the appreciated asset (A) and more of the depreciated asset (B).
 
@@ -133,15 +133,15 @@ Academic research shows that most LPs experience net losses due to impermanent l
 
 ### Closely related
 
-- [Liquidity provider](/liquidity-provider) — who experiences IL
-- [Liquidity pool](/liquidity-pool) — where IL occurs
-- [Automated market maker](/automated-market-maker) — the mechanism causing IL
-- [Decentralised exchange](/decentralized-exchange) — DEX using pools
+- [Liquidity provider](/liquidity-provider/) — who experiences IL
+- [Liquidity pool](/liquidity-pool/) — where IL occurs
+- [Automated market maker](/automated-market-maker/) — the mechanism causing IL
+- [Decentralised exchange](/decentralized-exchange/) — DEX using pools
 
 ### Wider context
 
 - Smart contract — pools are contracts
 - Yield farming — earning despite IL
-- [Ethereum](/ethereum) — primary platform for AMMs
+- [Ethereum](/ethereum/) — primary platform for AMMs
 
 </div>

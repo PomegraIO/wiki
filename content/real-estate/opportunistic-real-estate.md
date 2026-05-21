@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-For comparison, see [core-real-estate](/core-real-estate) (stable, low-return) and [value-add-real-estate](/value-add-real-estate) (improvement-focused, medium-return). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust).
+For comparison, see [core-real-estate](/core-real-estate/) (stable, low-return) and [value-add-real-estate](/value-add-real-estate/) (improvement-focused, medium-return). For the broader context, see [real-estate-investment-trust](/real-estate-investment-trust/).
 
 </div>
 
@@ -139,26 +139,26 @@ Successful opportunistic investors have:
 
 ### Investment strategies
 
-- [Core real estate](/core-real-estate) — stable, buy-and-hold properties
-- [Value-add real estate](/value-add-real-estate) — operational improvement focus
+- [Core real estate](/core-real-estate/) — stable, buy-and-hold properties
+- [Value-add real estate](/value-add-real-estate/) — operational improvement focus
 - Real estate syndication — pooled real estate investments
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — entry and exit valuation metric
-- [Net operating income](/net-operating-income) — the income being created
+- [Cap rate](/cap-rate/) — entry and exit valuation metric
+- [Net operating income](/net-operating-income/) — the income being created
 - Internal rate of return (IRR) — total return metric
 
 ### Related risks
 
-- [Foreclosure](/foreclosure) — where distressed properties originate
+- [Foreclosure](/foreclosure/) — where distressed properties originate
 - Short-sale-real-estate — alternative to foreclosure
-- [Recession](/recession) — creates opportunities during downturns
+- [Recession](/recession/) — creates opportunities during downturns
 
 ### Context
 
-- [Interest rate](/interest-rate) — market dislocation driver
-- [Yield curve](/yield-curve) — signals economic stress
-- [Leverage](/hedge-fund) — amplifies both gains and losses
+- [Interest rate](/interest-rate/) — market dislocation driver
+- [Yield curve](/yield-curve/) — signals economic stress
+- [Leverage](/hedge-fund/) — amplifies both gains and losses
 
 </div>

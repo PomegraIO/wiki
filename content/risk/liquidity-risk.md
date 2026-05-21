@@ -14,7 +14,7 @@ image: "/svg/risk.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the difficulty of converting an asset to cash. For the risk that the financial system as a whole runs short of liquidity, see [systemic-risk](/systemic-risk); for how borrowers face the risk of being unable to refinance, see [refinancing](/interest-rate-risk).
+This entry covers the difficulty of converting an asset to cash. For the risk that the financial system as a whole runs short of liquidity, see [systemic-risk](/systemic-risk/); for how borrowers face the risk of being unable to refinance, see [refinancing](/interest-rate-risk/).
 
 </div>
 
@@ -51,7 +51,7 @@ The bid-ask spread is the simplest measure. It is the difference between what bu
 
 Liquidity risk is highest in several categories of assets:
 
-- **Bonds.** While [Treasury](/federal-reserve) bonds are liquid, corporate [bonds](/bond) trade far less frequently than stocks. A bond you bought three years ago might have zero trading volume today. If you need to sell, a dealer will offer you a price well below what you'd get if you held it to maturity.
+- **Bonds.** While [Treasury](/federal-reserve/) bonds are liquid, corporate [bonds](/bond/) trade far less frequently than stocks. A bond you bought three years ago might have zero trading volume today. If you need to sell, a dealer will offer you a price well below what you'd get if you held it to maturity.
 - **Emerging market assets.** Foreign stocks and bonds in less-developed markets often have thin trading. A 5% position becomes hard to exit without moving the market against you.
 - **Illiquid alternatives.** Private equity, real estate, and hedge funds often have lock-in periods during which you cannot redeem at all. Liquidity risk is built into the vehicle structure.
 - **Derivatives.** Exotic options or swaps might have few natural counterparties; the dealer's bid-ask spread reflects that scarcity.
@@ -61,9 +61,9 @@ Treasury bonds, large-cap equities, and major currency pairs are highly liquid. 
 
 ## The hidden price of illiquidity
 
-Illiquidity creates a hidden cost called the **liquidity premium** — investors demand higher returns to compensate for the risk that they might not be able to exit when they want. A Treasury yielding 4% might be compared to a corporate [bond](/bond) of equal credit quality yielding 4.5%, with 0.5% of the spread attributable to liquidity risk and credit risk combined.
+Illiquidity creates a hidden cost called the **liquidity premium** — investors demand higher returns to compensate for the risk that they might not be able to exit when they want. A Treasury yielding 4% might be compared to a corporate [bond](/bond/) of equal credit quality yielding 4.5%, with 0.5% of the spread attributable to liquidity risk and credit risk combined.
 
-Liquidity risk becomes acute during [systemic-risk](/systemic-risk) events. In March 2020, when COVID-19 shut economies, even investment-grade corporate bond spreads blew out and trading froze. Investors who were forced sellers took enormous losses. This is contagion: widespread concern about credit risk and defaults makes everyone want to sell illiquid assets simultaneously, creating a downward spiral in price.
+Liquidity risk becomes acute during [systemic-risk](/systemic-risk/) events. In March 2020, when COVID-19 shut economies, even investment-grade corporate bond spreads blew out and trading froze. Investors who were forced sellers took enormous losses. This is contagion: widespread concern about credit risk and defaults makes everyone want to sell illiquid assets simultaneously, creating a downward spiral in price.
 
 ## Managing liquidity risk
 
@@ -75,7 +75,7 @@ The safest approach is to size positions within illiquid assets such that you co
 - **Buffer capital.** Keep enough cash or liquid securities to cover near-term needs without touching illiquid holdings.
 - **Understand lock-ins.** If you commit to a hedge fund or private equity fund, understand that capital is not easily reclaimed.
 
-For market makers and banks, liquidity risk is managed through [value-at-risk](/value-at-risk) models that account for the bid-ask spread and market depth, wider [stress testing](/stress-testing) scenarios that assume spreads blow out, and careful inventory management.
+For market makers and banks, liquidity risk is managed through [value-at-risk](/value-at-risk/) models that account for the bid-ask spread and market depth, wider [stress testing](/stress-testing/) scenarios that assume spreads blow out, and careful inventory management.
 
 The lesson is straightforward: liquidity may seem like a free option when you do not need it, but the cost of liquidity risk is always there — paid either in higher illiquidity premiums upfront or in fire-sale losses when you need to sell.
 
@@ -85,18 +85,18 @@ The lesson is straightforward: liquidity may seem like a free option when you do
 
 ### Closely related
 
-- [Systemic risk](/systemic-risk) — when liquidity evaporates across the market
-- [Market risk](/market-risk) — price risk, distinct from liquidity risk
-- [Bond](/bond) — often less liquid than equities
-- [Value-at-risk](/value-at-risk) — quantifying potential losses
-- [Stress testing](/stress-testing) — assessing risk under market disruption
+- [Systemic risk](/systemic-risk/) — when liquidity evaporates across the market
+- [Market risk](/market-risk/) — price risk, distinct from liquidity risk
+- [Bond](/bond/) — often less liquid than equities
+- [Value-at-risk](/value-at-risk/) — quantifying potential losses
+- [Stress testing](/stress-testing/) — assessing risk under market disruption
 
 ### Broader context
 
-- [Diversification](/diversification) — reduces position-specific liquidity risk
-- [Asset allocation](/asset-allocation) — emphasizes liquid core holdings
-- [Interest-rate-risk](/interest-rate-risk) — another bond-specific risk
-- [Credit risk](/credit-risk) — can spike during liquidity crises
-- [Hedge fund](/hedge-fund) — often subject to significant liquidity constraints
+- [Diversification](/diversification/) — reduces position-specific liquidity risk
+- [Asset allocation](/asset-allocation/) — emphasizes liquid core holdings
+- [Interest-rate-risk](/interest-rate-risk/) — another bond-specific risk
+- [Credit risk](/credit-risk/) — can spike during liquidity crises
+- [Hedge fund](/hedge-fund/) — often subject to significant liquidity constraints
 
 </div>

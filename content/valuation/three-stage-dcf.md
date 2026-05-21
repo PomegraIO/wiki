@@ -10,7 +10,7 @@ keywords:
 image: "/svg/valuation.svg"
 ---
 
-*A **three-stage DCF** is a refinement of the [two-stage model](/two-stage-dcf) that acknowledges an intermediate reality: most businesses do not leap from high growth to stable growth instantly. Instead, they pass through a transition period—five, ten, or fifteen years—where growth rate declines gradually. A three-stage model makes this decay explicit.*
+*A **three-stage DCF** is a refinement of the [two-stage model](/two-stage-dcf/) that acknowledges an intermediate reality: most businesses do not leap from high growth to stable growth instantly. Instead, they pass through a transition period—five, ten, or fifteen years—where growth rate declines gradually. A three-stage model makes this decay explicit.*
 
 ## The three eras
 
@@ -62,23 +62,23 @@ Many practitioners use three-stage modeling as a sensitivity-check on two-stage 
 
 ### Closely related
 
-- [Two-stage DCF](/two-stage-dcf) — the simpler variant
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — the parent method
-- [Terminal value](/terminal-value) — still the key assumption
-- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value) — the perpetual-growth endpoint
-- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation) — the typical metric
+- [Two-stage DCF](/two-stage-dcf/) — the simpler variant
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — the parent method
+- [Terminal value](/terminal-value/) — still the key assumption
+- [Perpetuity growth terminal value](/perpetuity-growth-terminal-value/) — the perpetual-growth endpoint
+- [Free cash flow to firm valuation](/free-cash-flow-to-firm-valuation/) — the typical metric
 
 ### Analysis and sensitivity
 
-- [Sensitivity analysis](/sensitivity-analysis-valuation) — how growth assumptions move value
-- [Scenario valuation](/scenario-valuation) — discrete cases instead of curves
-- [Football field valuation](/football-field-valuation) — presenting ranges
-- [Reverse DCF](/reverse-dcf) — working backward from market price
+- [Sensitivity analysis](/sensitivity-analysis-valuation/) — how growth assumptions move value
+- [Scenario valuation](/scenario-valuation/) — discrete cases instead of curves
+- [Football field valuation](/football-field-valuation/) — presenting ranges
+- [Reverse DCF](/reverse-dcf/) — working backward from market price
 
 ### Inputs
 
-- [Weighted average cost of capital](/weighted-average-cost-of-capital) — the discount rate
-- [Cost of equity](/cost-of-equity) — the key component for equity
-- [Market risk premium](/market-risk-premium) — used in cost of equity
+- [Weighted average cost of capital](/weighted-average-cost-of-capital/) — the discount rate
+- [Cost of equity](/cost-of-equity/) — the key component for equity
+- [Market risk premium](/market-risk-premium/) — used in cost of equity
 
 </div>

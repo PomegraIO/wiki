@@ -11,11 +11,11 @@ keywords:
 image: "/svg/regulation.svg"
 ---
 
-*The **Federal Reserve** has two distinct roles in banking: monetary policy and bank regulation. As the central bank, it sets [interest rates](/interest-rate), manages the money supply, and implements policies during financial crises. As a regulator, it supervises state-chartered banks that are members of the Fed system and all bank holding companies.*
+*The **Federal Reserve** has two distinct roles in banking: monetary policy and bank regulation. As the central bank, it sets [interest rates](/interest-rate/), manages the money supply, and implements policies during financial crises. As a regulator, it supervises state-chartered banks that are members of the Fed system and all bank holding companies.*
 
 <div class="wiki-hatnote">
 
-The Federal Reserve's monetary policy role is separate from its regulatory role. For the Federal Reserve's role in banking supervision, see [Federal Reserve Supervision](/federal-reserve-supervision). For interest rates, see Federal funds rate.
+The Federal Reserve's monetary policy role is separate from its regulatory role. For the Federal Reserve's role in banking supervision, see [Federal Reserve Supervision](/federal-reserve-supervision/). For interest rates, see Federal funds rate.
 
 </div>
 
@@ -41,7 +41,7 @@ The Federal Reserve's monetary policy role is separate from its regulatory role.
 
 ## The dual role: monetary policy and regulation
 
-The Federal Reserve operates on two tracks. First, as the central bank, it implements monetary policy — it sets the federal funds rate (the rate at which banks lend to each other overnight), conducts open-market operations (buying and selling securities to inject or drain cash from the system), and acts as lender of last resort during crises. These actions affect inflation, employment, and [yield curves](/yield-curve).
+The Federal Reserve operates on two tracks. First, as the central bank, it implements monetary policy — it sets the federal funds rate (the rate at which banks lend to each other overnight), conducts open-market operations (buying and selling securities to inject or drain cash from the system), and acts as lender of last resort during crises. These actions affect inflation, employment, and [yield curves](/yield-curve/).
 
 Second, as a regulator, the Federal Reserve supervises bank holding companies and state-chartered banks that are members of the Federal Reserve system. It sets capital standards, examines banks, and enforces rules against unsafe practices. These regulatory actions are distinct from monetary policy, though they are sometimes in tension — a central bank might want to tighten monetary policy (raise interest rates) to fight inflation, but tighter policy makes it harder for banks to earn money and stay well-capitalized.
 
@@ -57,9 +57,9 @@ Regulation A governs the Federal Reserve's "discount window" — the lending fac
 
 ## Capital standards and Dodd-Frank
 
-Post-2008, the Federal Reserve has become more focused on "macroprudential" regulation — setting capital and leverage standards to ensure the banking system as a whole is resilient. Under the [Dodd-Frank Act](/dodd-frank-act), the Federal Reserve implements stress tests for large banks, requiring them to prove they can survive a severe recession without becoming undercapitalized. These tests have become a major regulatory tool.
+Post-2008, the Federal Reserve has become more focused on "macroprudential" regulation — setting capital and leverage standards to ensure the banking system as a whole is resilient. Under the [Dodd-Frank Act](/dodd-frank-act/), the Federal Reserve implements stress tests for large banks, requiring them to prove they can survive a severe recession without becoming undercapitalized. These tests have become a major regulatory tool.
 
-The Federal Reserve also enforces [Basel III](/basel-iii) standards — international capital accords that set minimum capital ratios for banks. Larger, more complex banks must hold more capital. The Fed also limits dividends and share buybacks for banks that do not pass stress tests, forcing them to build capital rather than return it to shareholders.
+The Federal Reserve also enforces [Basel III](/basel-iii/) standards — international capital accords that set minimum capital ratios for banks. Larger, more complex banks must hold more capital. The Fed also limits dividends and share buybacks for banks that do not pass stress tests, forcing them to build capital rather than return it to shareholders.
 
 ## The independence debate
 
@@ -73,16 +73,16 @@ Nonetheless, the Fed is ultimately accountable to Congress — Congress can chan
 
 ### Closely related
 
-- [Federal Reserve Supervision](/federal-reserve-supervision) — the Fed's specific supervisory practices
+- [Federal Reserve Supervision](/federal-reserve-supervision/) — the Fed's specific supervisory practices
 - Federal funds rate — the rate the Fed sets
-- [Interest rate](/interest-rate) — what the Fed influences
-- [Central bank](/central-bank) — the Fed's role in the financial system
-- [Basel III](/basel-iii) — international capital standards the Fed enforces
+- [Interest rate](/interest-rate/) — what the Fed influences
+- [Central bank](/central-bank/) — the Fed's role in the financial system
+- [Basel III](/basel-iii/) — international capital standards the Fed enforces
 
 ### Wider context
 
-- [Monetary policy](/monetary-policy) — the Fed's core mandate
-- [Inflation](/inflation) — what the Fed targets
+- [Monetary policy](/monetary-policy/) — the Fed's core mandate
+- [Inflation](/inflation/) — what the Fed targets
 - Financial crisis — when the Fed's emergency powers kick in
 - Bank holding company — entities the Fed regulates
 

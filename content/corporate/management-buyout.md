@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **management buyout** (or **MBO**) is an [acquisition](/acquisition) in which the company's current management team buys the company from its current owners. The managers are typically backed by private equity investors or other financial sponsors who provide the capital and debt financing. An MBO allows management to take the company private, implement its own vision without public market pressure, and build equity ownership. It is a subset of [leveraged buyouts](/leveraged-buyout) where the buyer happens to be the incumbent management.*
+*A **management buyout** (or **MBO**) is an [acquisition](/acquisition/) in which the company's current management team buys the company from its current owners. The managers are typically backed by private equity investors or other financial sponsors who provide the capital and debt financing. An MBO allows management to take the company private, implement its own vision without public market pressure, and build equity ownership. It is a subset of [leveraged buyouts](/leveraged-buyout/) where the buyer happens to be the incumbent management.*
 
 <div class="wiki-hatnote">
 
-This entry covers management buyouts as an acquisition mechanism. For the broader financing structure, see [leveraged buyout](/leveraged-buyout); for related transactions, see [secondary buyout](/secondary-buyout) and [going-private transaction](/going-private).
+This entry covers management buyouts as an acquisition mechanism. For the broader financing structure, see [leveraged buyout](/leveraged-buyout/); for related transactions, see [secondary buyout](/secondary-buyout/) and [going-private transaction](/going-private/).
 
 </div>
 
@@ -30,11 +30,11 @@ This entry covers management buyouts as an acquisition mechanism. For the broade
 |---|---|
 | **What it is** | Acquisition by incumbent management, usually backed by PE |
 | **Financing** | Mix of equity from managers + private equity + debt |
-| **Typical structure** | [Leveraged buyout](/leveraged-buyout) |
+| **Typical structure** | [Leveraged buyout](/leveraged-buyout/) |
 | **Advantage** | No change in management; continuity |
 | **Disadvantage** | Potential conflict of interest; management may overpay |
-| **Exit** | Sale to another buyer, [IPO](/initial-public-offering), or held long-term |
-| **Related** | [Secondary buyout](/secondary-buyout), [going-private](/going-private) |
+| **Exit** | Sale to another buyer, [IPO](/initial-public-offering/), or held long-term |
+| **Related** | [Secondary buyout](/secondary-buyout/), [going-private](/going-private/) |
 
 </aside>
 
@@ -49,7 +49,7 @@ A company's current owner (which might be a founder, family, or public sharehold
 
 The managers and PE sponsor form a new company that borrows money, purchases the company from the current owner, and the company continues operations under the same management but now with new ownership.
 
-**Alignment benefit:** Unlike a sale to an outside buyer (a [merger](/merger)), an MBO preserves continuity. The same management team that knows the business well is now the owner, incentivized to maximize value because they have equity at stake.
+**Alignment benefit:** Unlike a sale to an outside buyer (a [merger](/merger/)), an MBO preserves continuity. The same management team that knows the business well is now the owner, incentivized to maximize value because they have equity at stake.
 
 ## The role of private equity
 
@@ -61,7 +61,7 @@ Most MBOs are sponsored by private equity firms because:
 
 **Value creation.** The PE firm brings operational expertise and network to help the managers improve the business.
 
-**Exit planning.** The PE firm typically plans an exit in 5–7 years through a sale to a larger buyer, a [secondary buyout](/secondary-buyout) (sale to another PE firm), or an [IPO](/initial-public-offering).
+**Exit planning.** The PE firm typically plans an exit in 5–7 years through a sale to a larger buyer, a [secondary buyout](/secondary-buyout/) (sale to another PE firm), or an [IPO](/initial-public-offering/).
 
 ## Conflicts of interest
 
@@ -124,18 +124,18 @@ After 5–7 years of ownership, the PE sponsor and managers typically exit by:
 
 ### Closely related
 
-- [Leveraged buyout](/leveraged-buyout) — financing structure for MBOs
-- [Secondary buyout](/secondary-buyout) — PE firm selling to another PE firm
-- [Going-private transaction](/going-private) — MBO of a public company
+- [Leveraged buyout](/leveraged-buyout/) — financing structure for MBOs
+- [Secondary buyout](/secondary-buyout/) — PE firm selling to another PE firm
+- [Going-private transaction](/going-private/) — MBO of a public company
 - Private equity — typical sponsor
-- [Acquisition](/acquisition) — the transaction mechanism
+- [Acquisition](/acquisition/) — the transaction mechanism
 
 ### Wider context
 
 - Board of directors — approves MBO in public company context
-- [Fiduciary duty](/fiduciary-duty) — constrains management conflicts in MBOs
-- [Initial public offering](/initial-public-offering) — potential exit for MBO
-- [Change of control provision](/change-of-control-provision) — may affect MBO targets
+- [Fiduciary duty](/fiduciary-duty/) — constrains management conflicts in MBOs
+- [Initial public offering](/initial-public-offering/) — potential exit for MBO
+- [Change of control provision](/change-of-control-provision/) — may affect MBO targets
 - Executive compensation — equity stakes in MBO
 
 </div>

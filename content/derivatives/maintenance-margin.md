@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **maintenance margin** is the minimum account equity required to maintain an open [futures contract](/futures-contract) or short option position. It is typically set at 70–80% of the [initial margin](/initial-margin). If daily [mark-to-market](/mark-to-market) losses cause account equity to fall below maintenance margin, the broker issues a **margin call**, requiring the trader to deposit additional funds immediately or close positions. Maintenance margin enforces discipline and reduces counterparty risk.*
+*The **maintenance margin** is the minimum account equity required to maintain an open [futures contract](/futures-contract/) or short option position. It is typically set at 70–80% of the [initial margin](/initial-margin/). If daily [mark-to-market](/mark-to-market/) losses cause account equity to fall below maintenance margin, the broker issues a **margin call**, requiring the trader to deposit additional funds immediately or close positions. Maintenance margin enforces discipline and reduces counterparty risk.*
 
 <aside class="wiki-infobox">
 
@@ -98,19 +98,19 @@ Large, institutional traders with diversified portfolios may have **portfolio ma
 
 - Leverage — creates margin risk
 - [Position sizing](/asset-allocation/) — relates size to account
-- [Stop loss](/stock-market) — limiting loss before margin call
-- [Account monitoring](/stock-market) — daily equity tracking
+- [Stop loss](/stock-market/) — limiting loss before margin call
+- [Account monitoring](/stock-market/) — daily equity tracking
 
 ### Broker and exchange
 
 - [Clearing house](/stock-exchange/) — sets margin requirements
-- [Broker](/broker) — enforces maintenance margin
+- [Broker](/broker/) — enforces maintenance margin
 - [Forced liquidation](/stock-market/) — consequence of breaching
 
 ### Deeper context
 
 - [Derivative](/option/) — the family of instruments
 - [Risk control](/hedge-fund/) — maintenance margin is critical
-- [Trading](/stock-market) — leverage and margin essential to understand
+- [Trading](/stock-market/) — leverage and margin essential to understand
 
 </div>

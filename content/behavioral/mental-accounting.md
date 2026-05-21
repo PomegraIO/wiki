@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Developed by Richard Thaler. Related to mental budgeting and narrow framing. For the broader framing issue, see [narrow framing](/narrow-framing).
+Developed by Richard Thaler. Related to mental budgeting and narrow framing. For the broader framing issue, see [narrow framing](/narrow-framing/).
 
 </div>
 
@@ -33,7 +33,7 @@ Developed by Richard Thaler. Related to mental budgeting and narrow framing. For
 | **Common types** | Retirement account, emergency fund, speculation account, college fund |
 | **Risk tolerance** | Varies by account (conservative, moderate, aggressive) |
 | **Investor impact** | Suboptimal overall allocation; underdiversification; treating categories as independent |
-| **Related phenomenon** | [Narrow framing](/narrow-framing), [loss aversion](/loss-aversion) |
+| **Related phenomenon** | [Narrow framing](/narrow-framing/), [loss aversion](/loss-aversion/) |
 
 </aside>
 
@@ -51,15 +51,15 @@ This organization is very natural and can be useful for budgeting and goal-track
 
 **Ignoring correlation.** Two mental accounts might hold seemingly uncorrelated assets, but if they co-move in market stress, the overall portfolio is less diversified than it appears. Mental accounting prevents you from seeing the forest (overall portfolio risk) for the trees (account-level allocation).
 
-## Mental accounting and [loss aversion](/loss-aversion)
+## Mental accounting and [loss aversion](/loss-aversion/)
 
-Mental accounting is particularly influenced by [loss aversion](/loss-aversion). A dollar gained in the retirement account feels precious and not to be risked. A dollar lost in the speculation account feels acceptable. But a dollar is a dollar. The difference in emotional response is purely due to mental segregation.
+Mental accounting is particularly influenced by [loss aversion](/loss-aversion/). A dollar gained in the retirement account feels precious and not to be risked. A dollar lost in the speculation account feels acceptable. But a dollar is a dollar. The difference in emotional response is purely due to mental segregation.
 
 This can lead to perverse outcomes: the retirement account stays too conservative (missing long-term gains), while the speculation account takes excessive risk (and crashes). The overall portfolio would be better off with a unified, balanced structure.
 
-## Mental accounting and [disposition effect](/disposition-effect)
+## Mental accounting and [disposition effect](/disposition-effect/)
 
-Mental accounting drives the [disposition effect](/disposition-effect) — the tendency to sell winners and hold losers. A winning stock is mentally moved to a "gains account" (loss-averse, prefer to lock it in). A losing stock stays in the "ongoing investment account" (risk-seeking, hope for recovery). Again, the underlying decision should be the same; the mental segregation causes different treatment.
+Mental accounting drives the [disposition effect](/disposition-effect/) — the tendency to sell winners and hold losers. A winning stock is mentally moved to a "gains account" (loss-averse, prefer to lock it in). A losing stock stays in the "ongoing investment account" (risk-seeking, hope for recovery). Again, the underlying decision should be the same; the mental segregation causes different treatment.
 
 ## Mental accounting at the household level
 
@@ -71,12 +71,12 @@ Behavioral portfolio theory is partly built on the observation that real investo
 
 ## Mental accounting and narrow framing
 
-Mental accounting is closely related to [narrow framing](/narrow-framing) — the tendency to view decisions as isolated rather than considering their aggregate effect. A narrow-framed investor might reject a risky asset because "it could lose 20%" while forgetting it would contribute only 5% [volatility](/beta) to the overall portfolio.
+Mental accounting is closely related to [narrow framing](/narrow-framing/) — the tendency to view decisions as isolated rather than considering their aggregate effect. A narrow-framed investor might reject a risky asset because "it could lose 20%" while forgetting it would contribute only 5% [volatility](/beta/) to the overall portfolio.
 
 ## Breaking out of mental accounting traps
 
-- **Calculate your true [asset allocation](/asset-allocation).** Add up all accounts by asset class. If you have $100k in retirement stocks, $50k in taxable stocks, and $50k in emergency bonds, your true allocation is different from what the individual accounts suggest. Your true allocation should match your risk tolerance, not the sum of the accounts' individual allocations.
-- **Use unified decision frameworks.** Decide on your overall [diversification](/diversification) and risk level, then implement it across all accounts. Do not decide separately for each account.
+- **Calculate your true [asset allocation](/asset-allocation/).** Add up all accounts by asset class. If you have $100k in retirement stocks, $50k in taxable stocks, and $50k in emergency bonds, your true allocation is different from what the individual accounts suggest. Your true allocation should match your risk tolerance, not the sum of the accounts' individual allocations.
+- **Use unified decision frameworks.** Decide on your overall [diversification](/diversification/) and risk level, then implement it across all accounts. Do not decide separately for each account.
 - **Ignore the mental label.** When evaluating a holding, ask: "if I had this in a different mental account, would I keep it?" If the answer is no, the mental accounting is distorting your decision.
 - **Rebalance across accounts.** If one account drifts from its intended allocation, rebalance — even if it means selling a winner in one account. The overall portfolio structure matters more than the account-level structure.
 - **Use a professional or rules-based system.** If you are vulnerable to mental accounting traps, outsource the decision to a fee-only advisor or use a robo-advisor that manages all accounts as one portfolio.
@@ -87,18 +87,18 @@ Mental accounting is closely related to [narrow framing](/narrow-framing) — th
 
 ### Closely related
 
-- [Narrow framing](/narrow-framing) — viewing decisions in isolation
-- [Loss aversion](/loss-aversion) — treating losses as more painful than gains
-- [Disposition effect](/disposition-effect) — selling winners, holding losers
-- [Regret aversion](/regret-aversion) — fear of regretted outcomes in separate accounts
+- [Narrow framing](/narrow-framing/) — viewing decisions in isolation
+- [Loss aversion](/loss-aversion/) — treating losses as more painful than gains
+- [Disposition effect](/disposition-effect/) — selling winners, holding losers
+- [Regret aversion](/regret-aversion/) — fear of regretted outcomes in separate accounts
 - Behavioral portfolio theory — how mental accounting shapes portfolios
 
 ### Wider context
 
-- [Asset allocation](/asset-allocation) — the unified decision mental accounting obscures
-- [Diversification](/diversification) — cross-account benefits mental accounting hides
-- [Prospect theory](/prospect-theory) — the broader framework of reference dependence
-- [Isolation effect](/isolation-effect) — treating components separately from the whole
-- [Framing effect](/framing-effect) — how presentation affects decisions across accounts
+- [Asset allocation](/asset-allocation/) — the unified decision mental accounting obscures
+- [Diversification](/diversification/) — cross-account benefits mental accounting hides
+- [Prospect theory](/prospect-theory/) — the broader framework of reference dependence
+- [Isolation effect](/isolation-effect/) — treating components separately from the whole
+- [Framing effect](/framing-effect/) — how presentation affects decisions across accounts
 
 </div>

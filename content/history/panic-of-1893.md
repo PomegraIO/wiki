@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1893 crisis. For the institutional reforms that eventually emerged, see [Federal Reserve](/federal-reserve); for the gold constraint that worsened it, see [gold standard](/gold-standard).
+This entry covers the 1893 crisis. For the institutional reforms that eventually emerged, see [Federal Reserve](/federal-reserve/); for the gold constraint that worsened it, see [gold standard](/gold-standard/).
 
 </div>
 
@@ -71,16 +71,16 @@ The crisis accelerated thinking about financial reform. It became clear that the
 
 ### Closely related
 
-- [Panic of 1873](/panic-of-1873) — the previous major American panic
-- [Panic of 1907](/panic-of-1907) — the final pre-Federal Reserve crisis
+- [Panic of 1873](/panic-of-1873/) — the previous major American panic
+- [Panic of 1907](/panic-of-1907/) — the final pre-Federal Reserve crisis
 - Banking crisis — the general phenomenon
 
 ### Wider context
 
-- [Federal Reserve](/federal-reserve) — created after the panic exposed the need
-- [Gold standard](/gold-standard) — the constraint that worsened the crisis
-- [Central bank](/central-bank) — the solution that emerged
-- [Recession](/recession) — the macroeconomic effect
+- [Federal Reserve](/federal-reserve/) — created after the panic exposed the need
+- [Gold standard](/gold-standard/) — the constraint that worsened the crisis
+- [Central bank](/central-bank/) — the solution that emerged
+- [Recession](/recession/) — the macroeconomic effect
 - Investment bank — J.P. Morgan's role in the rescue
 
 </div>

@@ -14,7 +14,7 @@ image: "/svg/equity.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the financial instrument and practice. For how dividends interact with a stock's total return, see [stock](/stock); for rules around dividend taxation, see your tax advisor.
+This entry covers the financial instrument and practice. For how dividends interact with a stock's total return, see [stock](/stock/); for rules around dividend taxation, see your tax advisor.
 
 </div>
 
@@ -44,7 +44,7 @@ This entry covers the financial instrument and practice. For how dividends inter
 
 When a company declares a dividend, four dates define who gets paid and when:
 
-**Declaration date** is when the board announces the decision to pay. The [stock](/stock) may move on this news, particularly if the dividend is being raised or cut unexpectedly.
+**Declaration date** is when the board announces the decision to pay. The [stock](/stock/) may move on this news, particularly if the dividend is being raised or cut unexpectedly.
 
 **Ex-dividend date** is the key one from an investor's perspective. If you own the stock on this date, the dividend is yours. If you buy the stock one day *after* the ex-dividend date, you have bought a stock worth slightly less — the dividend is no longer attached to it. The stock price typically drops by roughly the dividend amount on or around this date to reflect this transfer.
 
@@ -68,7 +68,7 @@ A stock's **dividend yield** is its annual dividend per share divided by its cur
 
 A high yield can be attractive to income-focused investors — retirees, for instance, who want steady cash flow. But a very high yield should trigger caution. If a stock normally yields 2% and suddenly yields 6%, the most likely explanation is not generosity; it is that the stock price has fallen because the market is skeptical the company can afford the dividend. A high yield is a siren, not a gift.
 
-Conversely, a low yield does not mean a stock is a bad investment. Young, rapidly growing companies often pay no dividend at all, choosing to reinvest every cent of profit into the business. [Index funds](/index-fund) and [ETFs](/etf) hold a mix of dividend payers and non-payers, generating a blended yield that usually falls somewhere in the middle.
+Conversely, a low yield does not mean a stock is a bad investment. Young, rapidly growing companies often pay no dividend at all, choosing to reinvest every cent of profit into the business. [Index funds](/index-fund/) and [ETFs](/etf/) hold a mix of dividend payers and non-payers, generating a blended yield that usually falls somewhere in the middle.
 
 ## Why companies pay dividends — and why some do not
 
@@ -82,11 +82,11 @@ Many high-growth companies — Amazon, Tesla, Warren Buffett's Berkshire Hathawa
 
 ## Dividends and total return
 
-The question "How much did my stock earn?" has two parts: price change and dividends. If you bought a [stock](/stock) at \$100, it falls to \$95, but you received \$2 in dividends, your total return is –3%. Both numbers matter.
+The question "How much did my stock earn?" has two parts: price change and dividends. If you bought a [stock](/stock/) at \$100, it falls to \$95, but you received \$2 in dividends, your total return is –3%. Both numbers matter.
 
-Over long periods, dividends account for a meaningful slice of the [stock market](/stock-market)'s total return — historically around 2 percentage points of the roughly 9–10% annual average. This is why reinvesting dividends, rather than spending them, so dramatically amplifies [compound interest](/compound-interest). A dollar earned and immediately reinvested can compound for decades; a dollar spent is gone.
+Over long periods, dividends account for a meaningful slice of the [stock market](/stock-market/)'s total return — historically around 2 percentage points of the roughly 9–10% annual average. This is why reinvesting dividends, rather than spending them, so dramatically amplifies [compound interest](/compound-interest/). A dollar earned and immediately reinvested can compound for decades; a dollar spent is gone.
 
-[Index funds](/index-fund) and [ETFs](/etf) handle dividends seamlessly. They accumulate the cash from all the underlying holdings and either distribute it to shareholders or, in some variants, reinvest it automatically. This lets you focus on the underlying investment strategy, not the mechanical details of dividend administration.
+[Index funds](/index-fund/) and [ETFs](/etf/) handle dividends seamlessly. They accumulate the cash from all the underlying holdings and either distribute it to shareholders or, in some variants, reinvest it automatically. This lets you focus on the underlying investment strategy, not the mechanical details of dividend administration.
 
 ## Special situations: special dividends and cuts
 
@@ -102,19 +102,19 @@ Most dividends follow a routine. Quarterly or annually, the board declares the s
 
 ### Closely related
 
-- [Stock](/stock) — the security that pays dividends
-- [Earnings per share](/earnings-per-share) — the profit out of which dividends are paid
-- [Yield curve](/yield-curve) — a comparison concept; dividend yield is to stocks as bond yield is to bonds
-- [Dividend reinvestment](#) — powerful [compound interest](/compound-interest) tool
-- [Index fund](/index-fund) — handles dividends for you
-- [ETF](/etf) — another pooled way to collect dividends
+- [Stock](/stock/) — the security that pays dividends
+- [Earnings per share](/earnings-per-share/) — the profit out of which dividends are paid
+- [Yield curve](/yield-curve/) — a comparison concept; dividend yield is to stocks as bond yield is to bonds
+- [Dividend reinvestment](#) — powerful [compound interest](/compound-interest/) tool
+- [Index fund](/index-fund/) — handles dividends for you
+- [ETF](/etf/) — another pooled way to collect dividends
 
 ### Wider context
 
-- [Stock market](/stock-market) — the system through which dividends flow to investors
-- [Public company](/public-company) — the entity that declares dividends
-- [Bull market](/bull-market) · [Bear market](/bear-market) — dividend safety varies by market regime
-- [Inflation](/inflation) — erodes dividend purchasing power over time
-- [Asset allocation](/asset-allocation) — where dividend-paying stocks fit in a portfolio
+- [Stock market](/stock-market/) — the system through which dividends flow to investors
+- [Public company](/public-company/) — the entity that declares dividends
+- [Bull market](/bull-market/) · [Bear market](/bear-market/) — dividend safety varies by market regime
+- [Inflation](/inflation/) — erodes dividend purchasing power over time
+- [Asset allocation](/asset-allocation/) — where dividend-paying stocks fit in a portfolio
 
 </div>

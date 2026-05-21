@@ -66,7 +66,7 @@ Buffett has said that his investment philosophy is roughly 85% Graham and 15% Fi
 
 ## The Fisher and Company record
 
-Fisher ran Fisher & Company and achieved strong returns over several decades. His actual returns were good but not legendary — roughly in line with the [stock market](/stock-market) average or slightly better. The impact of his ideas was greater than his own investment record, which suggests that his philosophy was sound but not transformatively powerful.
+Fisher ran Fisher & Company and achieved strong returns over several decades. His actual returns were good but not legendary — roughly in line with the [stock market](/stock-market/) average or slightly better. The impact of his ideas was greater than his own investment record, which suggests that his philosophy was sound but not transformatively powerful.
 
 ## The later years and perspective
 
@@ -86,15 +86,15 @@ His influence on modern investing is substantial. The concept of buying quality 
 
 ### Closely related
 
-- [Benjamin Graham](/benjamin-graham) — The contrasting value approach
-- [Warren Buffett](/warren-buffett) — Who synthesized Graham and Fisher
-- [Peter Lynch](/peter-lynch) — A growth-focused investor
-- [Jeremy Grantham](/jeremy-grantham) — A modern quality-focused investor
+- [Benjamin Graham](/benjamin-graham/) — The contrasting value approach
+- [Warren Buffett](/warren-buffett/) — Who synthesized Graham and Fisher
+- [Peter Lynch](/peter-lynch/) — A growth-focused investor
+- [Jeremy Grantham](/jeremy-grantham/) — A modern quality-focused investor
 
 ### Wider context
 
-- [Value investing](/value-investing) — Which Fisher adapted
-- [Growth investing](/growth-investing) — His focus
+- [Value investing](/value-investing/) — Which Fisher adapted
+- [Growth investing](/growth-investing/) — His focus
 - Competitive advantage — His key concept
 - Long-term investing — His time horizon
 

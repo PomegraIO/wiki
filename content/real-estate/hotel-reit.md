@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on hotel REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For residential alternatives, see [residential-reit](/residential-reit).
+This entry focuses on hotel REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For residential alternatives, see [residential-reit](/residential-reit/).
 
 </div>
 
@@ -111,21 +111,21 @@ In bad times, leverage becomes a burden: the same REIT with $5M of operating pro
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Residential REIT](/residential-reit) — residential properties are less cyclical
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Residential REIT](/residential-reit/) — residential properties are less cyclical
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — hotel property valuation
-- [Net operating income](/net-operating-income) — hotel operating profit
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns for hotel investors
+- [Cap rate](/cap-rate/) — hotel property valuation
+- [Net operating income](/net-operating-income/) — hotel operating profit
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns for hotel investors
 
 ### Context
 
-- [Dividend](/dividend) — hotel REIT dividends are variable and often suspended in downturns
-- [Recession](/recession) — hotel REITs are highly vulnerable
-- [Bull market](/bull-market) — leisure travel booms during expansion
-- [Cyclicality](/business-cycle) — hotel REITs are cyclical by nature
+- [Dividend](/dividend/) — hotel REIT dividends are variable and often suspended in downturns
+- [Recession](/recession/) — hotel REITs are highly vulnerable
+- [Bull market](/bull-market/) — leisure travel booms during expansion
+- [Cyclicality](/business-cycle/) — hotel REITs are cyclical by nature
 
 </div>

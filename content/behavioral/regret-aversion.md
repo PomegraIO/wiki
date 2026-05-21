@@ -14,7 +14,7 @@ image: "/svg/behavioral.svg"
 
 <div class="wiki-hatnote">
 
-Related to loss aversion and disposition effect. For the pain of realizing losses, see [sunk cost fallacy](/sunk-cost-fallacy).
+Related to loss aversion and disposition effect. For the pain of realizing losses, see [sunk cost fallacy](/sunk-cost-fallacy/).
 
 </div>
 
@@ -29,7 +29,7 @@ Related to loss aversion and disposition effect. For the pain of realizing losse
 |   |   |
 |---|---|
 | **What it is** | Making decisions to avoid future regret |
-| **Related to** | [Loss aversion](/loss-aversion), [sunk cost](/sunk-cost-fallacy), [disposition effect](/disposition-effect) |
+| **Related to** | [Loss aversion](/loss-aversion/), [sunk cost](/sunk-cost-fallacy/), [disposition effect](/disposition-effect/) |
 | **Operates on** | Selling winners; holding losers; portfolio decisions |
 | **Investor impact** | Suboptimal timing; concentration in losers; reduced returns |
 | **Severity** | Very strong; regret is psychologically painful |
@@ -43,7 +43,7 @@ Related to loss aversion and disposition effect. For the pain of realizing losse
 
 **Inaction regret.** "I did not buy that stock and it went up 100%. I regret not buying." This is also painful, but often less so.
 
-Interestingly, people feel action regret more acutely than inaction regret for the same magnitude of loss. This asymmetry drives the [disposition effect](/disposition-effect): selling a winner creates the risk of action regret if it goes higher. Holding a loser creates inaction regret, but a weaker form.
+Interestingly, people feel action regret more acutely than inaction regret for the same magnitude of loss. This asymmetry drives the [disposition effect](/disposition-effect/): selling a winner creates the risk of action regret if it goes higher. Holding a loser creates inaction regret, but a weaker form.
 
 ## Regret aversion in practice
 
@@ -59,9 +59,9 @@ Regret is keyed to a reference point. If you sold at $100 and the stock rises to
 
 This suggests that regret is partly about identity: you see yourself as "someone who bought that stock and sold too early." This identity makes the regret acute.
 
-## Regret aversion and [FOMO](/fomo)
+## Regret aversion and [FOMO](/fomo/)
 
-[FOMO](/fomo) (fear of missing out) is the flip side of regret aversion. Fear that you will regret not having bought (inaction regret) drives you to buy. Fear that you will regret having sold (action regret) drives you to hold. Together, these regret-aversion forces can paralyze good decision-making.
+[FOMO](/fomo/) (fear of missing out) is the flip side of regret aversion. Fear that you will regret not having bought (inaction regret) drives you to buy. Fear that you will regret having sold (action regret) drives you to hold. Together, these regret-aversion forces can paralyze good decision-making.
 
 ## Regret aversion vs. regret theory
 
@@ -81,18 +81,18 @@ Regret aversion is an emotional response to the thought of possible regret. Regr
 
 ### Closely related
 
-- [Loss aversion](/loss-aversion) — the mechanism underlying regret aversion
-- [Disposition effect](/disposition-effect) — selling winners, holding losers due to regret
-- [Sunk-cost fallacy](/sunk-cost-fallacy) — holding losers to avoid regretting purchase
-- [FOMO](/fomo) — regret aversion for inaction (missing out)
-- [Regret theory](/regret-aversion) — formal decision theory incorporating regret
+- [Loss aversion](/loss-aversion/) — the mechanism underlying regret aversion
+- [Disposition effect](/disposition-effect/) — selling winners, holding losers due to regret
+- [Sunk-cost fallacy](/sunk-cost-fallacy/) — holding losers to avoid regretting purchase
+- [FOMO](/fomo/) — regret aversion for inaction (missing out)
+- [Regret theory](/regret-aversion/) — formal decision theory incorporating regret
 
 ### Wider context
 
-- [Mental accounting](/mental-accounting) — organizing into gain/loss accounts amplifies regret
-- [Status quo bias](/status-quo-bias) — inaction regret is weaker than action regret
+- [Mental accounting](/mental-accounting/) — organizing into gain/loss accounts amplifies regret
+- [Status quo bias](/status-quo-bias/) — inaction regret is weaker than action regret
 - Behavioral portfolio theory — how regret shapes portfolios
-- [Risk tolerance](/asset-allocation) — regret aversion reduces risk tolerance
-- [Prospect theory](/prospect-theory) — the broader framework
+- [Risk tolerance](/asset-allocation/) — regret aversion reduces risk tolerance
+- [Prospect theory](/prospect-theory/) — the broader framework
 
 </div>

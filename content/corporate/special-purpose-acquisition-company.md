@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **special-purpose acquisition company** (or **SPAC**) is a blank-check company created specifically to acquire a private operating company and take it public. A SPAC raises capital through a traditional [IPO](/initial-public-offering) without a specific business plan, holds the proceeds in trust, and then uses them to acquire and merge with a private company. The private company's shareholders become shareholders of the combined public entity. SPACs became a popular alternative to traditional IPOs in the 2010s and 2020s, though they have also attracted regulatory scrutiny and criticism.*
+*A **special-purpose acquisition company** (or **SPAC**) is a blank-check company created specifically to acquire a private operating company and take it public. A SPAC raises capital through a traditional [IPO](/initial-public-offering/) without a specific business plan, holds the proceeds in trust, and then uses them to acquire and merge with a private company. The private company's shareholders become shareholders of the combined public entity. SPACs became a popular alternative to traditional IPOs in the 2010s and 2020s, though they have also attracted regulatory scrutiny and criticism.*
 
 <div class="wiki-hatnote">
 
-This entry covers SPACs as a public market entry mechanism. For traditional IPOs, see [initial public offering](/initial-public-offering); for the actual merger process, see [de-SPAC transaction](/de-spac-transaction); for an earlier alternative, see [reverse merger](/reverse-merger).
+This entry covers SPACs as a public market entry mechanism. For traditional IPOs, see [initial public offering](/initial-public-offering/); for the actual merger process, see [de-SPAC transaction](/de-spac-transaction/); for an earlier alternative, see [reverse merger](/reverse-merger/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers SPACs as a public market entry mechanism. For traditional IPOs
 | **Trust account** | Proceeds held in trust until acquisition closes |
 | **Redemption** | Public shareholders can redeem shares if dissatisfied with acquisition |
 | **Acquisition target** | Private operating company (the "de-SPAC") |
-| **Alternative to** | [Initial public offering](/initial-public-offering), [reverse merger](/reverse-merger) |
+| **Alternative to** | [Initial public offering](/initial-public-offering/), [reverse merger](/reverse-merger/) |
 
 </aside>
 
@@ -51,7 +51,7 @@ This entry covers SPACs as a public market entry mechanism. For traditional IPOs
 - Willing to merge with the SPAC to gain public access
 - Founded by entrepreneurs who want to monetize their stakes
 
-**Acquisition and de-SPAC merger.** Once a target is identified, the SPAC and target negotiate and agree on a merger (called a [de-SPAC transaction](/de-spac-transaction)). The transaction is announced, and shareholders vote on it.
+**Acquisition and de-SPAC merger.** Once a target is identified, the SPAC and target negotiate and agree on a merger (called a [de-SPAC transaction](/de-spac-transaction/)). The transaction is announced, and shareholders vote on it.
 
 **Redemption period.** During the period after announcement, SPAC shareholders can choose to redeem their shares for cash (their original $10 investment plus interest from the trust account). Those who want to continue with the merger keep their shares.
 
@@ -63,15 +63,15 @@ This entry covers SPACs as a public market entry mechanism. For traditional IPOs
 
 **Speed.** A SPAC-based public listing can be completed in 12–18 months, faster than a traditional IPO.
 
-**Capital raise.** Unlike a [reverse merger](/reverse-merger), a SPAC raises capital through the IPO and the PIPE (private investment), giving the company growth capital post-close.
+**Capital raise.** Unlike a [reverse merger](/reverse-merger/), a SPAC raises capital through the IPO and the PIPE (private investment), giving the company growth capital post-close.
 
-**Credibility.** A SPAC has undergone an IPO process and SEC review, making it more credible than a [reverse merger](/reverse-merger).
+**Credibility.** A SPAC has undergone an IPO process and SEC review, making it more credible than a [reverse merger](/reverse-merger/).
 
 **Sponsor reputation.** Experienced SPAC sponsors (well-known entrepreneurs or investors) provide credibility and operational support to the acquired company.
 
 **Certainty.** The deal structure provides certainty; capital is in trust, and the SPAC has a committed amount to pay for the acquisition.
 
-**Transparency.** SPACs involve more disclosure and regulation than [reverse mergers](/reverse-merger), protecting investors.
+**Transparency.** SPACs involve more disclosure and regulation than [reverse mergers](/reverse-merger/), protecting investors.
 
 ## Disadvantages and criticisms
 
@@ -112,7 +112,7 @@ The SEC has implemented stricter rules governing SPACs:
 
 **vs. Reverse Merger.** SPACs are more credible and regulated than reverse mergers, but more expensive.
 
-**vs. Direct Listing.** A [direct listing](/direct-listing) allows a private company to go public by directly listing shares on an exchange, without raising new capital. This is simpler than a SPAC but does not raise capital for the company.
+**vs. Direct Listing.** A [direct listing](/direct-listing/) allows a private company to go public by directly listing shares on an exchange, without raising new capital. This is simpler than a SPAC but does not raise capital for the company.
 
 ## See also
 
@@ -120,18 +120,18 @@ The SEC has implemented stricter rules governing SPACs:
 
 ### Closely related
 
-- [De-SPAC transaction](/de-spac-transaction) — the actual merger of SPAC and target
-- [Initial public offering](/initial-public-offering) — traditional alternative
-- [Reverse merger](/reverse-merger) — earlier alternative
-- [Direct listing](/direct-listing) — another public entry method
-- [Merger](/merger) — the transaction structure
+- [De-SPAC transaction](/de-spac-transaction/) — the actual merger of SPAC and target
+- [Initial public offering](/initial-public-offering/) — traditional alternative
+- [Reverse merger](/reverse-merger/) — earlier alternative
+- [Direct listing](/direct-listing/) — another public entry method
+- [Merger](/merger/) — the transaction structure
 
 ### Wider context
 
 - Going-public process — broader public market entry
-- [Public company](/public-company) — status after de-SPAC merger
+- [Public company](/public-company/) — status after de-SPAC merger
 - Shareholder dilution — consequence of SPAC structure
-- [Acquisition](/acquisition) — the mechanism
+- [Acquisition](/acquisition/) — the mechanism
 - Private equity — typical SPAC sponsors
 
 </div>

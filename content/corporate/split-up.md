@@ -10,11 +10,11 @@ keywords:
 image: "/svg/corporate.svg"
 ---
 
-*A **split-up** is a corporate action in which a company completely divides into two or more independent companies, with the original company ceasing to exist. Unlike a [spinoff](/spinoff) (where parent continues and distributes subsidiary), a split-up fully dissolves the parent and distributes all its assets/divisions to shareholders as independent companies. All shareholders receive shares in multiple new companies but own nothing in the original parent, which no longer exists. Split-ups are rarer than spinoffs because they are more complex and disruptive.*
+*A **split-up** is a corporate action in which a company completely divides into two or more independent companies, with the original company ceasing to exist. Unlike a [spinoff](/spinoff/) (where parent continues and distributes subsidiary), a split-up fully dissolves the parent and distributes all its assets/divisions to shareholders as independent companies. All shareholders receive shares in multiple new companies but own nothing in the original parent, which no longer exists. Split-ups are rarer than spinoffs because they are more complex and disruptive.*
 
 <div class="wiki-hatnote">
 
-This entry covers split-ups as a complete separation mechanism. For partial separations, see [spinoff](/spinoff) and [split-off](/split-off); for asset sales, see [divestiture](/divestiture).
+This entry covers split-ups as a complete separation mechanism. For partial separations, see [spinoff](/spinoff/) and [split-off](/split-off/); for asset sales, see [divestiture](/divestiture/).
 
 </div>
 
@@ -166,11 +166,11 @@ However, actually executing split-ups remains rare due to the complexity and ris
 
 ### Closely related
 
-- [Spinoff](/spinoff) — parent continues; subsidiary distributed
-- [Split-off](/split-off) — shareholders choose parent or subsidiary
-- [Equity carve-out](/equity-carve-out) — partial IPO of division
-- [Divestiture](/divestiture) — sale of division (vs. split-up distribution)
-- [Merger](/merger) — could combine split-up companies back together
+- [Spinoff](/spinoff/) — parent continues; subsidiary distributed
+- [Split-off](/split-off/) — shareholders choose parent or subsidiary
+- [Equity carve-out](/equity-carve-out/) — partial IPO of division
+- [Divestiture](/divestiture/) — sale of division (vs. split-up distribution)
+- [Merger](/merger/) — could combine split-up companies back together
 
 ### Wider context
 

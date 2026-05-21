@@ -14,7 +14,7 @@ image: "/svg/history.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the 1971 announcement and its immediate consequences. For the context that made it necessary, see [Bretton Woods Agreement](/bretton-woods-agreement); for the global currency system that followed, see [floating exchange rate](/floating-exchange-rate).
+This entry covers the 1971 announcement and its immediate consequences. For the context that made it necessary, see [Bretton Woods Agreement](/bretton-woods-agreement/); for the global currency system that followed, see [floating exchange rate](/floating-exchange-rate/).
 
 </div>
 
@@ -61,7 +61,7 @@ The initial market reaction was muted. Most market participants understood the m
 
 The Bretton Woods system survived in theory for another year. The Smithsonian Agreement of December 1971 attempted to establish a new system of fixed rates at new parities, but with wider bands of flexibility. But the Smithsonian agreement proved unsustainable. By March 1973, major currencies were allowed to float freely against one another.
 
-The shift to floating rates was turbulent. In the absence of official fixing, currency values moved with market forces. The dollar, which had fallen immediately after the shock, gradually recovered as US economic growth and US [interest rates](/interest-rate) adjusted. Other currencies found their natural levels.
+The shift to floating rates was turbulent. In the absence of official fixing, currency values moved with market forces. The dollar, which had fallen immediately after the shock, gradually recovered as US economic growth and US [interest rates](/interest-rate/) adjusted. Other currencies found their natural levels.
 
 ## The inflationary consequence
 
@@ -81,16 +81,16 @@ The shift to floating rates has been remarkably durable. No major nation has ser
 
 ### Closely related
 
-- [Bretton Woods Agreement](/bretton-woods-agreement) — the system that Nixon ended
-- [Gold standard](/gold-standard) — the predecessor regime
-- [Floating exchange rate](/floating-exchange-rate) — the system that followed
+- [Bretton Woods Agreement](/bretton-woods-agreement/) — the system that Nixon ended
+- [Gold standard](/gold-standard/) — the predecessor regime
+- [Floating exchange rate](/floating-exchange-rate/) — the system that followed
 
 ### Wider context
 
 - Currency crisis — the instability that floating rates could not prevent
-- [Interest rate](/interest-rate) — policy tool freed by ending the peg
-- [Inflation](/inflation) — the consequence of monetary expansion post-Bretton Woods
-- [Central bank](/central-bank) — the authorities who managed the transition
-- [Monetary policy](/monetary-policy) — the domain transformed by the shock
+- [Interest rate](/interest-rate/) — policy tool freed by ending the peg
+- [Inflation](/inflation/) — the consequence of monetary expansion post-Bretton Woods
+- [Central bank](/central-bank/) — the authorities who managed the transition
+- [Monetary policy](/monetary-policy/) — the domain transformed by the shock
 
 </div>

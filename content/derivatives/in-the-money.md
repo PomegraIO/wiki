@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*An option is **in-the-money (ITM)** when exercising it would immediately be profitable. For a [call option](/call-option), this means the [stock](/stock) price is above the [strike price](/strike-price). For a [put option](/put-option), this means the stock price is below the strike. In-the-money options have positive [intrinsic value](/intrinsic-value) and are worth more than otherwise-identical out-of-the-money options, all else equal.*
+*An option is **in-the-money (ITM)** when exercising it would immediately be profitable. For a [call option](/call-option/), this means the [stock](/stock/) price is above the [strike price](/strike-price/). For a [put option](/put-option/), this means the stock price is below the strike. In-the-money options have positive [intrinsic value](/intrinsic-value/) and are worth more than otherwise-identical out-of-the-money options, all else equal.*
 
 <aside class="wiki-infobox">
 
@@ -36,43 +36,43 @@ image: "/svg/derivatives.svg"
 
 ## ITM for calls and puts
 
-A [call option](/call-option) is in-the-money if the underlying [stock](/stock) price exceeds the [strike price](/strike-price). A $100 strike call is in-the-money if the stock is trading at $105, $110, $150, or any price above $100.
+A [call option](/call-option/) is in-the-money if the underlying [stock](/stock/) price exceeds the [strike price](/strike-price/). A $100 strike call is in-the-money if the stock is trading at $105, $110, $150, or any price above $100.
 
-A [put option](/put-option) is in-the-money if the underlying stock price is below the strike. A $100 strike put is in-the-money if the stock is at $95, $80, $50, or any price below $100.
+A [put option](/put-option/) is in-the-money if the underlying stock price is below the strike. A $100 strike put is in-the-money if the stock is at $95, $80, $50, or any price below $100.
 
 The logic is straightforward: a call holder wants to buy at the strike price, so the call is profitable if the market price is higher. A put holder wants to sell at the strike price, so the put is profitable if the market price is lower.
 
 ## Intrinsic value
 
-The amount by which an option is in-the-money is its [intrinsic value](/intrinsic-value). If a call is struck at $100 and the stock is at $107, the intrinsic value is $7. If a put is struck at $100 and the stock is at $92, the intrinsic value is $8.
+The amount by which an option is in-the-money is its [intrinsic value](/intrinsic-value/). If a call is struck at $100 and the stock is at $107, the intrinsic value is $7. If a put is struck at $100 and the stock is at $92, the intrinsic value is $8.
 
-This [intrinsic value](/intrinsic-value) is the minimum value an option can have. A call deep in-the-money is worth at least its intrinsic value, plus any remaining [time value](/time-value). But even if [time value](/time-value) is zero (on the expiration date itself), the in-the-money option is worth at least its intrinsic value.
+This [intrinsic value](/intrinsic-value/) is the minimum value an option can have. A call deep in-the-money is worth at least its intrinsic value, plus any remaining [time value](/time-value/). But even if [time value](/time-value/) is zero (on the expiration date itself), the in-the-money option is worth at least its intrinsic value.
 
 ## ITM options vs. OTM options
 
-An in-the-money option is always worth more than an otherwise-identical out-of-the-money option, because it has [intrinsic value](/intrinsic-value). A $100 strike call is worth more when the stock is at $110 (ITM, intrinsic value $10) than when the stock is at $90 (out-of-the-money, intrinsic value $0).
+An in-the-money option is always worth more than an otherwise-identical out-of-the-money option, because it has [intrinsic value](/intrinsic-value/). A $100 strike call is worth more when the stock is at $110 (ITM, intrinsic value $10) than when the stock is at $90 (out-of-the-money, intrinsic value $0).
 
-This premium for ITM-ness is reflected in the [delta](/delta). An ITM call might have a delta of 0.7 or 0.8, meaning it moves 70–80 cents for each $1 move in the stock. An OTM call might have a delta of 0.2 or 0.3. The in-the-money option is more sensitive to stock price moves.
+This premium for ITM-ness is reflected in the [delta](/delta/). An ITM call might have a delta of 0.7 or 0.8, meaning it moves 70–80 cents for each $1 move in the stock. An OTM call might have a delta of 0.2 or 0.3. The in-the-money option is more sensitive to stock price moves.
 
 ## Moneyness: how far ITM?
 
 Traders measure how far in-the-money an option is using "moneyness"—the ratio of the stock price to the strike. A moneyness of 1.05 means the stock is 5% above the strike (for a call). A moneyness of 0.95 means the stock is 5% below the strike (for a put).
 
-Deep ITM options (e.g., 20% or 30% ITM) behave almost like the underlying stock itself; their [delta](/delta) is near 1.0. Slightly ITM options (e.g., 1–2% ITM) are less certain to remain ITM and are more sensitive to [volatility](/historical-volatility).
+Deep ITM options (e.g., 20% or 30% ITM) behave almost like the underlying stock itself; their [delta](/delta/) is near 1.0. Slightly ITM options (e.g., 1–2% ITM) are less certain to remain ITM and are more sensitive to [volatility](/historical-volatility/).
 
 ## Assignment and automatic exercise
 
-If you own an in-the-money [american-option](/american-option) at or near expiration, your broker will typically exercise it automatically. An ITM call is converted to long stock; an ITM put is converted to short stock. You must have the capital available (for calls) or the shares available (for puts).
+If you own an in-the-money [american-option](/american-option/) at or near expiration, your broker will typically exercise it automatically. An ITM call is converted to long stock; an ITM put is converted to short stock. You must have the capital available (for calls) or the shares available (for puts).
 
-For [european-option](/european-option) options, exercise happens only on the expiration date, not before.
+For [european-option](/european-option/) options, exercise happens only on the expiration date, not before.
 
 If you sell (are short) an ITM option, your counterparty will almost certainly exercise, forcing you to deliver shares (for short calls) or accept delivery of shares (for short puts). This is why managing short options requires vigilance near expiration.
 
 ## ITM and time decay
 
-An in-the-money option still loses [time value](/time-value) as expiration approaches, though the decay is slower than for at-the-money options. A call struck at $100 with the stock at $120 loses [time value](/time-value) as expiration nears, but it is protected by $20 of intrinsic value that cannot decay.
+An in-the-money option still loses [time value](/time-value/) as expiration approaches, though the decay is slower than for at-the-money options. A call struck at $100 with the stock at $120 loses [time value](/time-value/) as expiration nears, but it is protected by $20 of intrinsic value that cannot decay.
 
-The [time value](/time-value) decay ([theta](/theta)) is slower for deep ITM options because they are less likely to move out-of-the-money, and the payoff is nearly certain.
+The [time value](/time-value/) decay ([theta](/theta/)) is slower for deep ITM options because they are less likely to move out-of-the-money, and the payoff is nearly certain.
 
 ## Profit and breakeven
 

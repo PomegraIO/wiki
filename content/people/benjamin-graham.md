@@ -36,7 +36,7 @@ image: "/svg/people.svg"
 
 ## The pre-crash investor
 
-Graham began his career on Wall Street in the 1910s, working as a bond analyst and later as an investor. He lived through the 1920s stock market boom and recognized it as a bubble of sentiment divorced from fundamentals. As the crash of 1929 approached, he positioned defensively, protecting capital. When the collapse came and the [Great Depression](/great-depression) followed, Graham had weathered the storm better than most.
+Graham began his career on Wall Street in the 1910s, working as a bond analyst and later as an investor. He lived through the 1920s stock market boom and recognized it as a bubble of sentiment divorced from fundamentals. As the crash of 1929 approached, he positioned defensively, protecting capital. When the collapse came and the [Great Depression](/great-depression/) followed, Graham had weathered the storm better than most.
 
 This experience profoundly shaped his philosophy. He had witnessed investors making decisions based on price momentum, tips, and sentiment rather than analysis. He had seen fortunes wiped out because people bought without understanding what they were buying. He committed to developing a more rigorous approach.
 
@@ -48,7 +48,7 @@ This approach inverted the conventional wisdom of the day. Most investors then b
 
 ## The Graham-Newman Corporation and actual returns
 
-From 1926 to 1956, Graham ran the Graham-Newman Corporation, an investment fund that compounded at roughly 17% per year — well above the [stock market](/stock-market) average for the period. This was not theoretical; it was proof that the value investing philosophy, properly executed, could beat the market.
+From 1926 to 1956, Graham ran the Graham-Newman Corporation, an investment fund that compounded at roughly 17% per year — well above the [stock market](/stock-market/) average for the period. This was not theoretical; it was proof that the value investing philosophy, properly executed, could beat the market.
 
 Graham's actual returns were not as legendary as some later investors', partly because he was conservative and partly because he often held cash. But over three decades, he had demonstrated that disciplined value investing worked. He had done it himself, not just theorized about it.
 
@@ -82,16 +82,16 @@ His legacy is incalculable. The principles he articulated — intrinsic value, m
 
 ### Closely related
 
-- [Warren Buffett](/warren-buffett) — His most famous student
-- [Charlie Munger](/charlie-munger) — A contemporary who read Graham
-- [Philip Fisher](/philip-fisher) — An alternative value approach
-- [Seth Klarman](/seth-klarman) — A modern Graham disciple
+- [Warren Buffett](/warren-buffett/) — His most famous student
+- [Charlie Munger](/charlie-munger/) — A contemporary who read Graham
+- [Philip Fisher](/philip-fisher/) — An alternative value approach
+- [Seth Klarman](/seth-klarman/) — A modern Graham disciple
 
 ### Wider context
 
-- [Value investing](/value-investing) — Which he founded
+- [Value investing](/value-investing/) — Which he founded
 - Security analysis — His domain
-- [Intrinsic value](/intrinsic-value) — His fundamental concept
+- [Intrinsic value](/intrinsic-value/) — His fundamental concept
 - Margin of safety — His protective principle
 - Speculation — Which he distinguished from investing
 

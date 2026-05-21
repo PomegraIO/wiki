@@ -14,7 +14,7 @@ image: "/svg/real-estate.svg"
 
 <div class="wiki-hatnote">
 
-This entry focuses on self-storage REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust). For residential alternatives, see [residential-reit](/residential-reit).
+This entry focuses on self-storage REITs as a property sector. For the broader REIT structure, see [real estate investment trust](/real-estate-investment-trust/). For residential alternatives, see [residential-reit](/residential-reit/).
 
 </div>
 
@@ -101,21 +101,21 @@ Because self-storage is so scalable, large REITs can achieve significant EBITDA 
 
 ### REIT types
 
-- [Real estate investment trust](/real-estate-investment-trust) — the broader REIT framework
-- [Equity REIT](/equity-reit) — REITs owning various property types
-- [Core real estate](/core-real-estate) — self-storage as a defensive property type
+- [Real estate investment trust](/real-estate-investment-trust/) — the broader REIT framework
+- [Equity REIT](/equity-reit/) — REITs owning various property types
+- [Core real estate](/core-real-estate/) — self-storage as a defensive property type
 
 ### Real estate metrics
 
-- [Cap rate](/cap-rate) — self-storage property valuation
-- [Net operating income](/net-operating-income) — storage rental revenue minus costs
-- [Cash on cash return](/cash-on-cash-return) — leveraged returns for storage investors
+- [Cap rate](/cap-rate/) — self-storage property valuation
+- [Net operating income](/net-operating-income/) — storage rental revenue minus costs
+- [Cash on cash return](/cash-on-cash-return/) — leveraged returns for storage investors
 
 ### Context
 
-- [Dividend](/dividend) — the primary return from self-storage REITs
-- [Recession](/recession) — self-storage is defensive; occupancy holds in downturns
-- [Pricing power](/stock) — self-storage has unusual pricing leverage
-- [Asset allocation](/asset-allocation) — how to weight storage REITs in a portfolio
+- [Dividend](/dividend/) — the primary return from self-storage REITs
+- [Recession](/recession/) — self-storage is defensive; occupancy holds in downturns
+- [Pricing power](/stock/) — self-storage has unusual pricing leverage
+- [Asset allocation](/asset-allocation/) — how to weight storage REITs in a portfolio
 
 </div>

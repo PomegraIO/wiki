@@ -11,11 +11,11 @@ keywords:
 image: "/svg/crypto.svg"
 ---
 
-*A **staking** is the process of locking cryptocurrency (called a "stake") in a [proof-of-stake](/proof-of-stake) [blockchain](/blockchain-fundamentals) to participate in consensus and earn rewards. Stakers become [validators](/validator) and propose or attest to blocks. In return, they earn interest on their staked coins, typically 3–10% annually.*
+*A **staking** is the process of locking cryptocurrency (called a "stake") in a [proof-of-stake](/proof-of-stake/) [blockchain](/blockchain-fundamentals/) to participate in consensus and earn rewards. Stakers become [validators](/validator/) and propose or attest to blocks. In return, they earn interest on their staked coins, typically 3–10% annually.*
 
 <div class="wiki-hatnote">
 
-This entry covers staking as a mechanism. For proof-of-stake consensus, see [proof-of-stake](/proof-of-stake); for liquid staking, see [liquid staking](/liquid-staking); for the risks, see [slashing](/slashing).
+This entry covers staking as a mechanism. For proof-of-stake consensus, see [proof-of-stake](/proof-of-stake/); for liquid staking, see [liquid staking](/liquid-staking/); for the risks, see [slashing](/slashing/).
 
 </div>
 
@@ -36,14 +36,14 @@ This entry covers staking as a mechanism. For proof-of-stake consensus, see [pro
 | **Risk** | Slashing if validator misbehaves |
 | **Environmental cost** | Negligible (compared to mining) |
 | **Accessibility** | Medium (requires some capital) |
-| **Networks** | [Ethereum](/ethereum), [Cardano](/cardano), [Polkadot](/polkadot) |
+| **Networks** | [Ethereum](/ethereum/), [Cardano](/cardano/), [Polkadot](/polkadot/) |
 
 </aside>
 
 ## How staking works
 
 1. **Deposit collateral.** A user deposits cryptocurrency (e.g., 32 ETH) into a smart contract.
-2. **Become a validator.** The network registers the user as a [validator](/validator), eligible to propose or attest to blocks.
+2. **Become a validator.** The network registers the user as a [validator](/validator/), eligible to propose or attest to blocks.
 3. **Earn rewards.** For honest participation, the validator earns rewards (newly issued coins + transaction fees).
 4. **Risk slashing.** If the validator misbehaves, part or all of their stake is "slashed" (removed).
 5. **Withdraw.** After an unbonding period, the validator can withdraw their stake plus accumulated rewards.
@@ -52,9 +52,9 @@ This entry covers staking as a mechanism. For proof-of-stake consensus, see [pro
 
 Staking yields vary by network and total staked amount:
 
-- **[Ethereum](/ethereum):** ~4–6% annually (2024), declining as more stake joins.
-- **[Cardano](/cardano):** ~3–4% annually.
-- **[Polkadot](/polkadot):** ~10–15% annually.
+- **[Ethereum](/ethereum/):** ~4–6% annually (2024), declining as more stake joins.
+- **[Cardano](/cardano/):** ~3–4% annually.
+- **[Polkadot](/polkadot/):** ~10–15% annually.
 
 Higher yields typically occur on networks with lower total stake (less competition for rewards). As staking becomes more popular, yields decline.
 
@@ -80,15 +80,15 @@ Slashing is automatic and enforced by the protocol. The risk of slashing keeps s
 
 When a staker wants to exit, they trigger an unbonding period:
 
-- **[Ethereum](/ethereum):** ~1 day to exit the validator set + ~27 hours to receive your withdrawal.
-- **[Cardano](/cardano):** 1–3 epochs (~5–15 days).
-- **[Polkadot](/polkadot):** 28 days.
+- **[Ethereum](/ethereum/):** ~1 day to exit the validator set + ~27 hours to receive your withdrawal.
+- **[Cardano](/cardano/):** 1–3 epochs (~5–15 days).
+- **[Polkadot](/polkadot/):** 28 days.
 
 During this period, your stake remains at risk of slashing if you misbehave. Once withdrawn, you no longer earn rewards.
 
 ## Liquid staking
 
-[Liquid staking](/liquid-staking) services (like Lido, Rocket Pool) allow stakers to stake without running a validator and without locking funds. Users deposit cryptocurrency and receive a token (e.g., stETH) that:
+[Liquid staking](/liquid-staking/) services (like Lido, Rocket Pool) allow stakers to stake without running a validator and without locking funds. Users deposit cryptocurrency and receive a token (e.g., stETH) that:
 
 - Earns staking rewards automatically.
 - Can be traded, lent, or used in DeFi.
@@ -103,7 +103,7 @@ However, liquid staking introduces:
 
 **Solo staking:** Running your own validator node. Requires technical skill, hardware, and ~32 ETH (on Ethereum). Benefits: full control, full rewards. Risks: responsible for your own security.
 
-**Pooled staking:** Joining a [liquid staking](/liquid-staking) service. Benefits: no technical skill required, no lump capital requirement (can stake any amount), easier. Risks: service risk, centralisation, lower net rewards (after fees).
+**Pooled staking:** Joining a [liquid staking](/liquid-staking/) service. Benefits: no technical skill required, no lump capital requirement (can stake any amount), easier. Risks: service risk, centralisation, lower net rewards (after fees).
 
 ## Staking as monetary policy
 
@@ -121,16 +121,16 @@ Some regulators treat staking as a security, raising questions about whether sta
 
 ### Closely related
 
-- [Proof-of-stake](/proof-of-stake) — the underlying mechanism
-- [Validator](/validator) — who participates in staking
-- [Slashing](/slashing) — the penalty for misbehaviour
-- [Liquid staking](/liquid-staking) — services for staking without running a node
-- [Ethereum](/ethereum) — the primary staking network
+- [Proof-of-stake](/proof-of-stake/) — the underlying mechanism
+- [Validator](/validator/) — who participates in staking
+- [Slashing](/slashing/) — the penalty for misbehaviour
+- [Liquid staking](/liquid-staking/) — services for staking without running a node
+- [Ethereum](/ethereum/) — the primary staking network
 
 ### Wider context
 
-- [Blockchain fundamentals](/blockchain-fundamentals) — the underlying technology
-- [Restaking](/restaking) — advanced staking on top of staking
-- [Cryptocurrency exchange](/cryptocurrency-exchange) — where staking tokens trade
+- [Blockchain fundamentals](/blockchain-fundamentals/) — the underlying technology
+- [Restaking](/restaking/) — advanced staking on top of staking
+- [Cryptocurrency exchange](/cryptocurrency-exchange/) — where staking tokens trade
 
 </div>

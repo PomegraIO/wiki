@@ -10,11 +10,11 @@ keywords:
 image: "/svg/funds.svg"
 ---
 
-*An **emerging markets fund** is an [ETF](/etf) or [mutual fund](/mutual-fund) that concentrates on [stocks](/stock) from developing countries experiencing rapid economic growth and industrialization — China, India, Brazil, Mexico, South Korea, and others. Emerging markets funds offer higher expected returns than developed markets but with higher [volatility](/option), political risk, and currency risk.*
+*An **emerging markets fund** is an [ETF](/etf/) or [mutual fund](/mutual-fund/) that concentrates on [stocks](/stock/) from developing countries experiencing rapid economic growth and industrialization — China, India, Brazil, Mexico, South Korea, and others. Emerging markets funds offer higher expected returns than developed markets but with higher [volatility](/option/), political risk, and currency risk.*
 
 <div class="wiki-hatnote">
 
-This entry covers emerging markets as an asset class. For developed-market alternatives, see [international mutual fund](/international-mutual-fund); for frontier markets, see [frontier markets fund](/frontier-markets-fund).
+This entry covers emerging markets as an asset class. For developed-market alternatives, see [international mutual fund](/international-mutual-fund/); for frontier markets, see [frontier markets fund](/frontier-markets-fund/).
 
 </div>
 
@@ -34,7 +34,7 @@ This entry covers emerging markets as an asset class. For developed-market alter
 | **Geographic focus** | China, India, Brazil, Mexico, South Korea, Russia, others |
 | **Number of countries** | Typically 20–50 depending on fund |
 | **Index basis** | MSCI Emerging Markets, FTSE Emerging Markets |
-| **Typical [expense ratio](/expense-ratio)** | 0.08%–0.20% |
+| **Typical [expense ratio](/expense-ratio/)** | 0.08%–0.20% |
 | **Expected return** | Higher than developed markets (historically) |
 | **Volatility** | Higher than developed markets |
 | **Currency risk** | Significant (local currencies fluctuate) |
@@ -68,7 +68,7 @@ Emerging markets funds appeal to investors seeking:
 
 **Valuations.** In years when developed markets are expensive, emerging markets often trade at discounts to historical valuations.
 
-**Diversification.** Emerging market [stocks](/stock) are less correlated with US [stocks](/stock), providing [diversification](/diversification) benefits.
+**Diversification.** Emerging market [stocks](/stock/) are less correlated with US [stocks](/stock/), providing [diversification](/diversification/) benefits.
 
 **Long-term demographic advantage.** India's median age is 27; the US is 38. Younger populations suggest faster growth for decades.
 
@@ -80,7 +80,7 @@ Emerging markets funds carry risks absent in developed markets:
 
 **Currency risk.** An emerging market stock fund holds local currencies (Chinese yuan, Indian rupee, Brazilian real). If the local currency weakens against the dollar, your returns are reduced. A 20% stock gain becomes a 10% gain if the currency drops 10%.
 
-**Market liquidity.** Emerging market exchanges are less liquid, [bid-ask spreads](/etf-bid-ask-spread) wider, and some stocks are hard to trade.
+**Market liquidity.** Emerging market exchanges are less liquid, [bid-ask spreads](/etf-bid-ask-spread/) wider, and some stocks are hard to trade.
 
 **Accounting and disclosure.** Standards are lower. Fraud and misrepresentation are more common.
 
@@ -98,7 +98,7 @@ The consistent finding: emerging markets are more volatile, with longer periods 
 
 ## Currency hedging
 
-Some emerging market funds are available in "hedged" versions that reduce currency risk by using [derivatives](/option) to lock in the dollar exchange rate. This reduces upside if the local currency strengthens but also reduces downside if it weakens. The trade-off depends on your view of currencies.
+Some emerging market funds are available in "hedged" versions that reduce currency risk by using [derivatives](/option/) to lock in the dollar exchange rate. This reduces upside if the local currency strengthens but also reduces downside if it weakens. The trade-off depends on your view of currencies.
 
 ## Geographic concentration
 
@@ -127,8 +127,8 @@ This concentration means that China and India's performance largely drives fund 
 
 For most investors:
 
-1. **Consider a small allocation.** 10–20% of equities in emerging markets provides [diversification](/diversification) and growth exposure.
-2. **Use low-cost funds.** Vanguard VXUS or iShares IEMG offer broad emerging market exposure at 0.08–0.10% [expense ratios](/expense-ratio).
+1. **Consider a small allocation.** 10–20% of equities in emerging markets provides [diversification](/diversification/) and growth exposure.
+2. **Use low-cost funds.** Vanguard VXUS or iShares IEMG offer broad emerging market exposure at 0.08–0.10% [expense ratios](/expense-ratio/).
 3. **Hedge only if needed.** Currency hedging is optional; most investors are better off unhedged to capture upside.
 4. **Avoid concentration.** Some newer "EM growth" or "EM value" funds concentrate exposure, introducing risk.
 
@@ -138,18 +138,18 @@ For most investors:
 
 ### Closely related
 
-- [International mutual fund](/international-mutual-fund) — developed market alternative
-- [Frontier markets fund](/frontier-markets-fund) — even earlier-stage markets
-- [Equity ETF](/equity-etf) — broader US-focused alternative
-- [Currency risk](/option) — key risk in emerging markets
-- [Volatility](/option) — higher in emerging markets
+- [International mutual fund](/international-mutual-fund/) — developed market alternative
+- [Frontier markets fund](/frontier-markets-fund/) — even earlier-stage markets
+- [Equity ETF](/equity-etf/) — broader US-focused alternative
+- [Currency risk](/option/) — key risk in emerging markets
+- [Volatility](/option/) — higher in emerging markets
 
 ### Wider context
 
-- [Diversification](/diversification) — benefit of emerging markets exposure
-- [Asset allocation](/asset-allocation) — how to size emerging market holdings
-- [Stock exchange](/stock-exchange) — less developed in emerging markets
-- [Political risk](/option) — distinct to emerging markets
-- [Inflation](/inflation) — affects emerging and developed economies differently
+- [Diversification](/diversification/) — benefit of emerging markets exposure
+- [Asset allocation](/asset-allocation/) — how to size emerging market holdings
+- [Stock exchange](/stock-exchange/) — less developed in emerging markets
+- [Political risk](/option/) — distinct to emerging markets
+- [Inflation](/inflation/) — affects emerging and developed economies differently
 
 </div>

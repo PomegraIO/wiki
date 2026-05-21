@@ -14,7 +14,7 @@ image: "/svg/ratios.svg"
 
 <div class="wiki-hatnote">
 
-This entry covers the core profitability metric. For gross profitability, see [gross profit margin](/gross-profit-margin). For bottom-line profitability, see [net profit margin](/net-profit-margin).
+This entry covers the core profitability metric. For gross profitability, see [gross profit margin](/gross-profit-margin/). For bottom-line profitability, see [net profit margin](/net-profit-margin/).
 
 </div>
 
@@ -46,7 +46,7 @@ This entry covers the core profitability metric. For gross profitability, see [g
 
 Operating margin is the profit from the core business, before financing decisions and taxes. It shows how much money the company makes by actually running the business, independent of how the balance sheet is structured or what jurisdiction it operates in.
 
-Operating margin is therefore a cleaner measure of operational efficiency than [net profit margin](/net-profit-margin), which is muddied by interest expense (which depends on leverage) and tax rates (which depend on jurisdiction and tax strategy). Two companies running identical operations but with different debt levels and in different tax regimes will have different net margins but the same operating margin.
+Operating margin is therefore a cleaner measure of operational efficiency than [net profit margin](/net-profit-margin/), which is muddied by interest expense (which depends on leverage) and tax rates (which depend on jurisdiction and tax strategy). Two companies running identical operations but with different debt levels and in different tax regimes will have different net margins but the same operating margin.
 
 ## How to calculate it
 
@@ -133,15 +133,15 @@ A company with 12% operating margin, stable for five years, growing revenue 8% a
 
 ### Closely related
 
-- [Gross profit margin](/gross-profit-margin) — profitability before operating expenses
-- [Net profit margin](/net-profit-margin) — profitability after all costs
-- [EBITDA margin](/ebitda-margin) — operating margin before D&A
+- [Gross profit margin](/gross-profit-margin/) — profitability before operating expenses
+- [Net profit margin](/net-profit-margin/) — profitability after all costs
+- [EBITDA margin](/ebitda-margin/) — operating margin before D&A
 - EBIT — the source metric
 - Operating leverage — how fixed costs amplify margin changes
 
 ### Wider context
 
-- [Income statement](/income-statement) — where operating income appears
+- [Income statement](/income-statement/) — where operating income appears
 - Cost management — what drives operating margin
 - Competitive advantage — why margins persist
 - Valuation — how margin feeds valuation multiples

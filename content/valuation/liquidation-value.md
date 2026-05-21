@@ -118,16 +118,16 @@ For margin-of-safety investing, liquidation value is a critical metric.
 
 ### Closely related
 
-- [Going-concern valuation](/going-concern-valuation) — the opposite assumption
+- [Going-concern valuation](/going-concern-valuation/) — the opposite assumption
 - Book value — the accounting baseline
 - Asset value — what liquidation recovers
 - Bankruptcy — the context where liquidation value is relevant
 
 ### Valuation approaches
 
-- [Discounted cash flow valuation](/discounted-cash-flow-valuation) — going-concern method
-- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation) — segments' liquidation values
-- [Scenario valuation](/scenario-valuation) — liquidation as a downside scenario
+- [Discounted cash flow valuation](/discounted-cash-flow-valuation/) — going-concern method
+- [Sum-of-the-parts valuation](/sum-of-the-parts-valuation/) — segments' liquidation values
+- [Scenario valuation](/scenario-valuation/) — liquidation as a downside scenario
 
 ### Practical concepts
 

@@ -83,17 +83,17 @@ His influence on investing is less about methodology (few investors focus exclus
 
 ### Closely related
 
-- [George Soros](/george-soros) — Another macro short-seller
-- [David Tepper](/david-tepper) — Who profited from the 2008-2009 crisis
-- [Seth Klarman](/seth-klarman) — A crisis investor
-- [Howard Marks](/howard-marks) — A credit specialist who saw risks
+- [George Soros](/george-soros/) — Another macro short-seller
+- [David Tepper](/david-tepper/) — Who profited from the 2008-2009 crisis
+- [Seth Klarman](/seth-klarman/) — A crisis investor
+- [Howard Marks](/howard-marks/) — A credit specialist who saw risks
 
 ### Wider context
 
-- [Short selling](/short-selling) — His weapon
+- [Short selling](/short-selling/) — His weapon
 - Financial crisis — His vindication
 - Housing market — His focus
-- [Mortgage-backed security](/mortgage-backed-security) — His analysis target
-- [Bear market](/bear-market) — His opportunity
+- [Mortgage-backed security](/mortgage-backed-security/) — His analysis target
+- [Bear market](/bear-market/) — His opportunity
 
 </div>

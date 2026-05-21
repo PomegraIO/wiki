@@ -10,7 +10,7 @@ keywords:
 image: "/svg/derivatives.svg"
 ---
 
-*The **initial margin** is the minimum amount of collateral a trader must deposit to open a [futures contract](/futures-contract) or short option position. It is typically a small percentage of the contract's notional value (5–20%), enabling leverage. If daily losses cause the account to fall below [maintenance margin](/maintenance-margin) (usually 70–80% of initial margin), a margin call is issued, requiring the trader to deposit more funds or close the position.*
+*The **initial margin** is the minimum amount of collateral a trader must deposit to open a [futures contract](/futures-contract/) or short option position. It is typically a small percentage of the contract's notional value (5–20%), enabling leverage. If daily losses cause the account to fall below [maintenance margin](/maintenance-margin/) (usually 70–80% of initial margin), a margin call is issued, requiring the trader to deposit more funds or close the position.*
 
 <aside class="wiki-infobox">
 
@@ -36,7 +36,7 @@ image: "/svg/derivatives.svg"
 
 ## How initial margin works
 
-To trade a December oil [futures contract](/futures-contract) (1,000 barrels = $70,000 notional at $70/barrel), your broker requires $3,500 initial margin.
+To trade a December oil [futures contract](/futures-contract/) (1,000 barrels = $70,000 notional at $70/barrel), your broker requires $3,500 initial margin.
 
 You deposit $3,500. This gives you the right to control $70,000 of oil exposure. You have 20:1 leverage ($70,000 notional / $3,500 margin).
 
@@ -46,7 +46,7 @@ If the price moves $1/barrel, your position gains or loses $1,000. If it moves a
 
 **Initial margin** is what you deposit to open the position.
 
-**Maintenance margin** (typically 70–80% of initial) is the minimum required to keep the position open. If [mark-to-market](/mark-to-market) losses push equity below maintenance, you face a margin call.
+**Maintenance margin** (typically 70–80% of initial) is the minimum required to keep the position open. If [mark-to-market](/mark-to-market/) losses push equity below maintenance, you face a margin call.
 
 Example:
 - Initial margin: $3,500
@@ -95,15 +95,15 @@ During market stress, margin requirements spike. During the 2008 crisis, some ma
 
 - [Liquidation](/stock-market/) — forced exit when margin insufficient
 - [Counterparty risk](/bond/) — margin reduces it
-- [Stop loss](/stock-market) — limiting losses below margin
+- [Stop loss](/stock-market/) — limiting losses below margin
 - [Position sizing](/asset-allocation/) — relating position to account size
 
 ### Trading mechanics
 
 - [Short selling](/short-selling/) — uses initial margin
-- [Options writing](/put-option) — requires margin like futures
+- [Options writing](/put-option/) — requires margin like futures
 - [Clearing house](/stock-exchange/) — sets margin requirements
-- [Broker](/broker) — collects margin from traders
+- [Broker](/broker/) — collects margin from traders
 
 ### Deeper context
 

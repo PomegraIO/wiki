@@ -10,11 +10,11 @@ keywords:
 image: "/svg/ratios.svg"
 ---
 
-*The **quick ratio** — also called the **acid-test ratio** — divides the most liquid current assets by current liabilities. It includes cash and accounts receivable but excludes inventory (which may be slow to convert). A quick ratio of 1.0 means the company has $1.00 in cash and receivables for every $1.00 of short-term obligations. It is a stricter test of liquidity than the [current ratio](/current-ratio).*
+*The **quick ratio** — also called the **acid-test ratio** — divides the most liquid current assets by current liabilities. It includes cash and accounts receivable but excludes inventory (which may be slow to convert). A quick ratio of 1.0 means the company has $1.00 in cash and receivables for every $1.00 of short-term obligations. It is a stricter test of liquidity than the [current ratio](/current-ratio/).*
 
 <div class="wiki-hatnote">
 
-This entry covers a stricter liquidity measure. For the broader test, see [current ratio](/current-ratio). For the strictest test, see [cash ratio](/cash-ratio).
+This entry covers a stricter liquidity measure. For the broader test, see [current ratio](/current-ratio/). For the strictest test, see [cash ratio](/cash-ratio/).
 
 </div>
 
@@ -43,7 +43,7 @@ This entry covers a stricter liquidity measure. For the broader test, see [curre
 
 ## The intuition behind the ratio
 
-The [current ratio](/current-ratio) includes inventory as a current asset. But inventory is not always easy to convert to cash, especially in a distress scenario. A retailer with inventory might have to mark it down sharply to sell it quickly. A manufacturer with specialized parts might have no market for them.
+The [current ratio](/current-ratio/) includes inventory as a current asset. But inventory is not always easy to convert to cash, especially in a distress scenario. A retailer with inventory might have to mark it down sharply to sell it quickly. A manufacturer with specialized parts might have no market for them.
 
 The quick ratio removes this assumption. It asks: if the company had to pay all its short-term debts immediately, excluding any proceeds from inventory sales, could it do so? This is a much tougher liquidity test.
 
@@ -85,7 +85,7 @@ Has a quick ratio of ($20 million + $30 million) ÷ $60 million = 0.83.
 
 **It excludes valuable operating assets.** Some current assets excluded from the quick ratio (like a security deposit or restricted cash) might be accessible in a crisis. The quick ratio understates true liquidity.
 
-**It ignores the cash conversion cycle.** A company with a very tight [cash conversion cycle](/cash-conversion-cycle) — paying suppliers in 30 days but collecting from customers in 60 days — needs less liquid assets than one with a longer cycle. Quick ratio does not account for this.
+**It ignores the cash conversion cycle.** A company with a very tight [cash conversion cycle](/cash-conversion-cycle/) — paying suppliers in 30 days but collecting from customers in 60 days — needs less liquid assets than one with a longer cycle. Quick ratio does not account for this.
 
 **It is a snapshot.** The quick ratio is a point-in-time measure. A company measured just after a large receivables collection will look better than one measured just after paying suppliers. Seasonal businesses are especially subject to this distortion.
 
@@ -111,7 +111,7 @@ These three ratios form a liquidity hierarchy:
 
 - **Current ratio** = (Cash + receivables + inventory) ÷ current liabilities
 - **Quick ratio** = (Cash + receivables) ÷ current liabilities
-- **[Cash ratio](/cash-ratio)** = Cash ÷ current liabilities
+- **[Cash ratio](/cash-ratio/)** = Cash ÷ current liabilities
 
 If all three are above 1.0, the company has very strong liquidity. If quick ratio is below 1.0, the company is inventory-dependent. If cash ratio is above 1.0, the company has fortress balance sheet.
 
@@ -133,16 +133,16 @@ A company with current ratio of 2.0 but quick ratio of 0.8 is reliant on invento
 
 ### Closely related
 
-- [Current ratio](/current-ratio) — the broader liquidity measure
-- [Cash ratio](/cash-ratio) — the strictest liquidity test
-- [Accounts receivable](/accounts-receivable-turnover) — major component of quick assets
-- [Inventory turnover](/inventory-turnover) — how fast inventory converts
+- [Current ratio](/current-ratio/) — the broader liquidity measure
+- [Cash ratio](/cash-ratio/) — the strictest liquidity test
+- [Accounts receivable](/accounts-receivable-turnover/) — major component of quick assets
+- [Inventory turnover](/inventory-turnover/) — how fast inventory converts
 - Working capital — the absolute difference
 
 ### Wider context
 
 - Liquidity — the core concept
-- [Cash conversion cycle](/cash-conversion-cycle) — managing liquidity over time
+- [Cash conversion cycle](/cash-conversion-cycle/) — managing liquidity over time
 - Working capital management — optimizing efficiency
 - Financial distress — what quick ratio predicts
 

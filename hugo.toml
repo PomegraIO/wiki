@@ -1,15 +1,32 @@
-baseURL = 'https://wiki.pomegra.io/'
+# ── Pomegra Wiki — Hugo configuration ───────────────────────────────────
+# The wiki is mounted under /wiki/ inside the main pomegra.io site (sibling
+# of /learn/). All `RelPermalink` / `absURL` / `relURL` calls already produce
+# the correct path because of `baseURL`. Hardcoded absolute paths inside
+# markdown bodies (e.g. `[Stock](/stock/)`) are rewritten to include the
+# /wiki/ prefix at build time by `canonifyURLs = true`.
+#
+# Local development:
+#   hugo server --port 1314 --bind 127.0.0.1 \
+#               --baseURL "http://localhost:1314/wiki/" \
+#               --appendPort=false --disableFastRender
+# Then browse http://localhost:1314/wiki/
+
+baseURL = 'https://pomegra.io/wiki/'
 defaultContentLanguage = 'en'
+languageCode = 'en-us'
 title = 'Pomegra Wiki'
 enableRobotsTXT = true
+# enableGitInfo would surface .GitInfo for last-modified dates in SEO meta,
+# but it scans every file's git log on each build — slow at 10k entries and
+# requires the working tree be a git repo. The single-source-of-truth for
+# last-modified is the file's mtime on disk; that's what Hugo uses by default.
+enableGitInfo = false
 
-# Keep internal links relative ("/stock/") so the wiki works at any mount point —
-# root in dev, root under wiki.pomegra.io, or eventually /wiki/ behind nginx
-# (with a path-rewrite layer if/when we choose that deployment shape).
-canonifyURLs = false
+# canonifyURLs=true rewrites absolute paths inside content (e.g. `/stock/`)
+# to include the baseURL prefix. This is what makes 10k+ cross-links keep
+# working when the wiki is mounted under /wiki/ instead of at the root.
+canonifyURLs = true
 
-# Hugo is fast enough that we build everything every time.
-# 10k+ pages still measure in seconds, not minutes.
 buildDrafts = false
 buildFuture  = false
 
@@ -27,21 +44,12 @@ uglyURLs = false
     endLevel = 3
     ordered = false
 
-# Permalinks: subdirectories under content/ are organisational only — the URL
-# of an entry is always /:contentbasename/ (filename without extension),
-# regardless of which subdirectory it lives in. This is what makes the
-# cross-link allowlist (/stock/, /bond/, …) trustworthy.
-#
-# We use [permalinks.page] (the page-kind table) with '**' as the section
-# wildcard so a single rule applies to every directory under content/.
+# Subdirectories under content/ are organisational only — the URL of an entry
+# is always /:contentbasename/ (filename without extension), regardless of
+# which subdirectory it lives in. This is what keeps the cross-link allowlist
+# (/stock/, /bond/, …) trustworthy.
 [permalinks.page]
   '/**' = '/:contentbasename/'
-
-# Front-matter we care about per article:
-#   title (required), description, summary, image, image_caption,
-#   image_credit, hatnote, infobox (list of {key, value} pairs),
-#   see_also (list of {label, slug, gloss}), wider_context (same shape).
-# All optional; the layout no-ops anything missing.
 
 [params]
   description = 'A reader-friendly encyclopedia of the financial world. Plain-language entries on markets, instruments, institutions, and ideas, densely cross-linked.'
@@ -49,18 +57,33 @@ uglyURLs = false
   author = 'Pomegra'
   homeURL = 'https://pomegra.io'
   learnURL = 'https://pomegra.io/learn'
+  wikiURL = 'https://pomegra.io/wiki/'
+  contactURL = 'https://pomegra.io/contact'
   githubURL = 'https://github.com/PomegraIO'
   twitterURL = 'https://twitter.com/pomegra_io'
+  twitterHandle = '@pomegra_io'
+  linkedinURL = 'https://linkedin.com/company/pomegra'
   logo = 'img/logo.svg'
   # linkCount is the latest total reported by `python scripts/check_links.py`.
-  # Surfaced on the home page as one of the four stat tiles. Re-bump after a
-  # content sweep so the figure stays honest.
+  # Surfaced on the home page as one of the four stat tiles.
   linkCount = 10553
+  # Default Open-Graph / Twitter card. Path is relative to the wiki root
+  # (Hugo prepends the baseURL via the `absolute-url.html` partial).
+  ogImage = '/img/og-default.png'
+  ogImageWidth = 1200
+  ogImageHeight = 630
 
-# Subdirectories under content/ are used purely for editorial organisation —
-# the actual URL of an entry is always /:contentbasename/, regardless of which
-# subdirectory it lives in. We disable taxonomy/term pages so visitors don't
-# land on accidental archive URLs like /tags/foo/.
+  # Analytics — shared Umami instance with /learn (analytics.pomegra.io).
+  # data-website-id is the *wiki* property; mirrors the pattern Learn uses
+  # in books/library/docusaurus.config.ts (different website-id per site).
+  umamiSrc = 'https://analytics.pomegra.io/script.js'
+  umamiWebsiteId = '3296fbd4-6f4b-41fa-bbed-13193974c9f8'
+
+  # Google Search Console verification token (issued by the wiki property).
+  # Same console account as /learn but a different verified property.
+  googleSiteVerification = 'GnFvBlrDnjRHUjeRjhQdDeejc3Z5l3g7BPnpNpAJRAQ'
+
+# Disable taxonomy/term pages — we don't want accidental /tags/foo/ archives.
 disableKinds = ['taxonomy', 'term']
 
 [outputs]
@@ -71,14 +94,13 @@ disableKinds = ['taxonomy', 'term']
   section = ['HTML', 'RSS']
   page = ['HTML']
 
-# Generous taxonomies — used to power "See also" surfaces and future graph view.
 [taxonomies]
   tag = 'tags'
   topic = 'topics'
 
-# No section pages auto-generated under /tags/, /topics/ — we render explicit pages.
+# Sitemap defaults; per-page tweaks live in front matter.
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'weekly'
   priority = 0.5
   filename = 'sitemap.xml'
 
@@ -87,3 +109,10 @@ disableKinds = ['taxonomy', 'term']
   disableCSS  = false
   disableJS   = false
   minifyOutput = true
+
+# ── Author + Organization (referenced by JSON-LD in baseof.html) ────────
+[params.org]
+  name = 'Pomegra'
+  url = 'https://pomegra.io'
+  logo = 'https://pomegra.io/img/logo.png'
+  sameAs = ['https://twitter.com/pomegra_io', 'https://github.com/PomegraIO', 'https://linkedin.com/company/pomegra']
