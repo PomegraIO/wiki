@@ -1,8 +1,5 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{ range .Data.Pages }}
   {{ $pri := .Sitemap.Priority }}
   {{ $cf  := .Sitemap.ChangeFreq }}
@@ -18,16 +15,6 @@
     {{ if not .Lastmod.IsZero }}<lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ end }}
     {{ with $cf }}<changefreq>{{ . }}</changefreq>{{ end }}
     {{ with $pri }}<priority>{{ . }}</priority>{{ end }}
-    {{ with .Params.image }}
-      {{/* `absURL` strips the baseURL path when its argument starts with `/`,
-            so for /wiki/ deployments we hand-build the URL. */}}
-      {{ $img := . }}
-      {{ if hasPrefix $img "/" }}{{ $img = strings.TrimPrefix "/" $img }}{{ end }}
-    <image:image>
-      <image:loc>{{ printf "%s%s" $.Site.BaseURL $img }}</image:loc>
-      <image:title>{{ $.Title | htmlEscape }}</image:title>
-    </image:image>
-    {{ end }}
   </url>
 {{ end }}
 </urlset>
