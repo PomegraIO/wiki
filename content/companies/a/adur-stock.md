@@ -1,66 +1,28 @@
 ---
 title: "ADURO CLEAN TECHNOLOGIES INC. (ADUR)"
-description: "Canadian clean technology company developing catalytic recycling processes for converting end-of-life plastics and other materials into valuable feedstocks."
+description: "A cleantech developer focused on thermochemical conversion and advanced recycling of waste, plastics, and biomass into useful materials and fuels."
 keywords:
-  - Aduro Clean Technologies
-  - ADUR
-  - plastic recycling
-  - clean technology
-  - catalytic conversion
+  - aduro clean technologies
+  - waste-to-energy
+  - thermochemical recycling
+  - sustainable materials
+  - advanced recycling
+  - cleantech
+handwritten: true
 ---
 
-*The **ADURO CLEAN TECHNOLOGIES INC.** (**ADUR**) is a Canadian publicly traded company developing and commercializing catalytic processes to convert end-of-life plastics and other waste materials into valuable chemical feedstocks and fuels.*
+## What does ADURO do?
 
-<aside class="wiki-infobox">
-| Field | Detail |
-|-------|--------|
-| Ticker | ADUR |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 1863934 |
-| Sector | Industrials |
-| Industry | Environmental services and clean technology |
-| Headquarters | Sarnia, Ontario, Canada |
-| Founded | 2008 |
-| Type | Public corporation |
-</aside>
+ADURO Clean Technologies is a cleantech company specializing in thermochemical conversion processes. Its core technology platform converts waste materials—including plastics, municipal solid waste, end-of-life tires, and biomass—into useful outputs such as synthetic fuels, chemical feedstocks, and other materials. The company operates under a licensing and royalty model, partnering with waste processing operators and refineries to deploy its proprietary systems rather than building and operating plants directly.
 
-## What the company does
+## How does it make money?
 
-Aduro develops proprietary catalytic depolymerization technology that breaks down plastic waste back into molecular building blocks (monomers and oligomers) that can be used as feedstocks for new plastic production or converted into fuels and chemicals. Traditional plastic recycling degrades material quality, but Aduro's process aims to create feedstock quality nearly equivalent to virgin material. The company targets plastic waste streams that are difficult to recycle mechanically, such as multi-layer plastics, contaminated films, and mixed-polymer waste that would otherwise be sent to landfills or incinerators. By converting waste into higher-value products, the process creates economic incentives for collection and recycling while reducing reliance on fossil fuel-derived virgin plastics.
+ADURO generates revenue through technology licensing agreements and ongoing royalties tied to the use of its conversion systems. When a partner deploys an ADURO thermochemical reactor, the company receives upfront licensing fees and recurring royalties based on the volume of material processed or products generated. The model prioritizes scaling the technology across multiple locations with minimal capital expenditure from ADURO itself, allowing leverage of partner infrastructure and operational expertise.
 
-## Market drivers and environmental context
+## Where does it sit in its industry?
 
-Plastic pollution and waste management are global concerns. Regulatory pressures are mounting for producers to incorporate recycled content into products and for waste management operators to divert plastic from landfills. Extended producer responsibility (EPR) schemes in Europe and emerging regulations in North America create economic value for recycled materials. Growing corporate commitments to sustainability and circular economy principles incentivize investment in recycling infrastructure. Chemical companies and plastic producers are seeking sources of sustainable feedstock to reduce emissions and meet environmental targets. These drivers support potential demand for Aduro's technology.
+ADURO competes in the circular economy and advanced recycling space, where companies develop technologies to redirect waste streams into valuable materials and fuels. The sector includes both competing thermochemical approaches and alternative technologies such as chemical recycling, enzymatic processes, and mechanical recycling enhancements. ADURO's positioning centers on the reproducibility and scalability of its platform across diverse waste inputs and end-markets, though the cleantech space remains capital-intensive and dependent on policy support, input waste economics, and product-market adoption.
 
-## Technology and commercialization stage
+## How to research it?
 
-Aduro's catalytic process has been demonstrated at pilot scale. The company is advancing toward commercial deployment through partnerships with chemicals companies, waste processors, and petroleum refiners. Successful commercialization requires proving technical reliability at scale, achieving target operating costs, and securing long-term feedstock supply agreements with waste collectors. The company faces competition from other advanced recycling and chemical recycling startups, as well as mechanical recycling improvements and biodegradable plastic development.
-
-## Business model and revenue strategy
-
-Aduro's near-term revenue likely comes from licensing technology to larger industrial operators and providing engineering and consulting services. Long-term vision includes operating or partnering on commercial-scale recycling facilities that generate revenue from plastic feedstock sales and potentially from tipping fees or credits for waste processing. The company operates as a development-stage technology company; profitable operations depend on successful deployment of commercial facilities and stable feedstock and product economics.
-
-## Competitive and regulatory landscape
-
-Advanced plastic recycling is an emerging sector with multiple technological approaches competing for adoption. Chemical recycling, enzymatic recycling, and mechanical recycling improvements are all being pursued. Regulatory frameworks for certifying recycled content and tracking chain of custody are still evolving. Aduro competes for capital, partnerships, and customers against other clean technology companies. Larger petrochemical companies are also investing in recycling to diversify feedstock sources and meet environmental targets. Success requires differentiated technology and effective partnerships to commercialize at scale.
-
-## Risk factors
-
-As a development-stage technology company, Aduro faces technical, market, and financing risks. Scaling the technology to commercial viability is unproven. Market adoption depends on sustained demand from chemical companies and plastic producers, which could be disrupted by technology changes, regulatory shifts, or economic cycles. The company requires continued capital investment and strategic partnerships. Like other clean technology ventures, success is uncertain.
-
-## How to research it
-
-Review the company's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC EDGAR database. Monitor partnership announcements and pilot project progress. Look for press releases on technology milestones and facility development. Read investor presentations and corporate strategy documents. Monitor clean technology industry publications and research on chemical recycling and plastic waste solutions. Compare Aduro's technology and commercialization progress with competing advanced recycling and plastic-to-fuel companies. Track regulatory developments in extended producer responsibility and recycled content mandates that could affect market dynamics. Assess management experience in industrial scale-up and manufacturing.
-
-<div class="wiki-seealso">
-### Closely related
-- [Plastic recycling](/wiki/plastic-recycling/)
-- [Chemical recycling](/wiki/chemical-recycling/)
-- [Clean technology](/wiki/clean-technology/)
-- [Circular economy](/wiki/circular-economy/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [Environmental regulation](/wiki/environmental-regulation/)
-- [Technology commercialization](/wiki/technology-commercialization/)
-</div>
+Review ADURO's [10-K](/wiki/10-k/) filings for details on technology partnerships, pilot project outcomes, and the progress of its licensing pipeline. Pay close attention to signed letters of intent versus operational deployments, as deployment pace and commercial validation of the technology will be critical to revenue realization. Industry reports on plastic recycling, waste-to-fuel economics, and policy trends around extended producer responsibility can provide context on addressable markets and regulatory tailwinds.

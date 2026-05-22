@@ -1,66 +1,23 @@
 ---
 title: "ACTUATE THERAPEUTICS, INC. (ACTU)"
-description: "Biopharmaceutical company developing treatments for unmet medical needs in oncology and other therapeutic areas."
+description: "Clinical-stage biopharmaceutical company developing cancer therapies, including GSK-3 inhibitors for pancreatic and pediatric malignancies."
 keywords:
-  - ACTUATE THERAPEUTICS
-  - ACTU
   - biopharmaceutical
-  - drug development
-  - oncology
-  - therapeutic drugs
+  - cancer therapeutics
+  - clinical stage
+  - GSK-3 inhibitor
+  - pancreatic cancer
+handwritten: true
 ---
 
-*[ACTUATE THERAPEUTICS, INC.](https://pomegra.io/wiki/companies/a/actu-stock/) (ticker **ACTU**) is a [public corporation](/wiki/public-company/) operating in the [biopharmaceutical](/wiki/biopharmaceutical/) sector, developing [therapeutic](/wiki/therapeutic-drugs/) treatments addressing unmet medical needs. The company pursues [drug discovery](/wiki/drug-discovery/) and [clinical development](/wiki/clinical-development/) programs in oncology and other disease areas.*
+Actuate Therapeutics is a Fort Worth-based biopharmaceutical company betting on a small set of cancer drugs. The company is early-stage—think clinical trials and R&D, not yet revenue from approved treatments—and is taking aim at hard-to-treat solid tumors and pediatric cancers where good options are scarce.
 
-<aside class="wiki-infobox">
+The company's main engine is elraglusib injection, a glycogen synthase kinase-3 (GSK-3) inhibitor. This is a protein the company believes can slow or stop certain cancers from growing. Elraglusib is currently in Phase 2 trials for metastatic pancreatic ductal adenocarcinoma, one of the deadliest cancers—five-year survival rates are in the single digits. The company is also running an earlier Phase 1/2 trial of elraglusib for pediatric cancers including Ewing sarcoma, neuroblastoma, and pediatric leukemias. No drug has yet reached the finish line of FDA approval.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACTU |
-| **Listing** | US-listed; ticker ACTU |
-| **SEC CIK** | 1652935 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical |
-| **Type** | Public Corporation |
+Actuate went public via reverse merger in August 2024 and trades on NASDAQ. The company has no product revenue. It burns cash on research and development, regulatory work, and the overhead of being a [public company](/wiki/public-company/). Like most clinical-stage biotech, the business model is not yet a business—it is an option on the success of its pipeline and the science behind it.
 
-</aside>
+The upside case is straightforward: if elraglusib works in trials and gains approval, it could become a revenue-generating asset in a category where unmet need is enormous. The downside is no less simple: development fails, trials miss, regulators say no, or a better competitor gets there first. Biotech is binary. Actuate's SEC filings, including its [10-K](/wiki/10-k/) (CIK 1652935), detail its clinical trial designs, burn rate, and the intellectual property around its GSK-3 approach. Investors in early-stage biotech should be comfortable with the possibility that this money is gone if the science doesn't pan out.
 
-## What the company does
-
-ACTUATE develops therapeutic candidates targeting oncological and other medical conditions with limited treatment options. The company engages in drug discovery efforts identifying promising compounds, [preclinical research](/wiki/preclinical-research/) testing safety and efficacy in laboratory models, and [clinical trials](/wiki/clinical-trials/) advancing candidates in human subjects. Successful candidates may obtain regulatory approval and commercialization through partnerships or company operations.
-
-## Drug development pipeline approach
-
-ACTUATE's value proposition depends on its development pipeline. Early-stage candidates show proof-of-concept in preclinical studies; mid-stage candidates demonstrate preliminary safety and efficacy in Phase I and Phase II trials; late-stage candidates advance through Phase III trials demonstrating clinical benefit sufficient for regulatory approval. Pipeline advancement speed and data quality determine competitive positioning and investor returns.
-
-## Capital requirements and funding strategy
-
-Biopharmaceutical development companies require sustained capital funding to support research, clinical programs, regulatory activities, and operations. ACTUATE must raise capital through [equity offerings](/wiki/equity-offering/), [debt financing](/wiki/debt-financing/), or strategic partnerships with larger pharmaceutical companies. Adequate capitalization and prudent capital allocation determine the company's ability to advance pipeline candidates toward commercialization. Burn rate and cash runway are critical for investors to monitor.
-
-## Competitive environment and differentiation
-
-ACTUATE competes against larger pharmaceutical companies, better-capitalized biotech firms, and other drug developers targeting similar indications. Competitive advantages derive from unique drug targets, superior efficacy or safety profiles, intellectual property protections, and skilled management teams. Success requires not only scientific achievement but also strategic decisions regarding which indications to pursue and partnerships to establish.
-
-## How to research it
-
-Start with ACTUATE's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC's EDGAR database. Review the pipeline by indication and development stage, analyzing clinical trial designs and preliminary data. Study cash position, monthly burn rate, and funding runway. Evaluate intellectual property positions and patent protections. Monitor clinical trial progress and regulatory interactions. Compare the pipeline against competitor therapies and disease prevalence. Assess management's track record in drug development and commercialization.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical](/wiki/biopharmaceutical/)
-- [Drug development](/wiki/drug-development/)
-- [Clinical trials](/wiki/clinical-trials/)
-- [Oncology](/wiki/oncology/)
-- [Drug discovery](/wiki/drug-discovery/)
-
-### Wider context
-
-- [Healthcare sector](/wiki/healthcare-sector/)
-- [FDA approval](/wiki/fda-approval/)
-- [Patent protection](/wiki/patent-protection/)
-- [Equity financing](/wiki/equity-financing/)
-- [Public company](/wiki/public-company/)
-
-</div>
+Main programs in development:
+- **Elraglusib (metastatic pancreatic cancer)** — Phase 2 trial ongoing
+- **Elraglusib (pediatric solid tumors)** — Phase 1/2 trial for Ewing sarcoma, neuroblastoma, and leukemias

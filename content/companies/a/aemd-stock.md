@@ -1,64 +1,44 @@
 ---
 title: "AETHLON MEDICAL INC (AEMD)"
-description: "Medical device company developing extracorporeal blood purification and immune-modulation technologies to treat infectious diseases and therapeutic applications."
+description: "Clinical-stage biotech developing the Hemopurifier device for cancer, viral infection, and transplant applications. A speculative platform play on immunotherapeutic blood purification technology."
 keywords:
-  - Aethlon Medical
-  - AEMD
-  - medical devices
+  - hemopurifier
+  - clinical-stage biotech
+  - immunotherapeutic device
+  - rare disease
   - blood purification
-  - extracorporeal technology
-  - medical technology
+handwritten: true
 ---
 
-*[**Aethlon Medical Inc**](https://pomegra.io/wiki/aemd-stock/), trading under ticker **AEMD**, is a [public company](/wiki/public-company/) engaged in the development of proprietary medical device and therapeutic technologies. Headquartered in San Diego, California, Aethlon focuses on extracorporeal blood purification and immune-modulation platforms designed to address infectious diseases and other therapeutic needs.*
+## What does Aethlon Medical actually do?
 
-<aside class="wiki-infobox">
+Aethlon Medical is a clinical-stage medical device company built around a single platform technology called the Hemopurifier (HP). The device is designed to purify blood by targeting and removing harmful substances like viruses, toxins, and circulating cancer cells through an extracorporeal filtering process. The company is exploring applications across three main therapeutic areas: cancer, life-threatening viral infections, and organ transplantation compatibility.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AEMD |
-| **Listing** | US-listed; trades on NASDAQ |
-| **SEC CIK** | 882291 |
-| **Sector** | Healthcare |
-| **Industry** | Medical Devices |
-| **Headquarters** | San Diego, California, USA |
-| **Founded** | 1983 |
-| **Type** | Public Corporation |
+The Hemopurifier operates as an immunoadsorption device—it essentially works as a specialized blood filter that can be connected to a patient's circulatory system to remove disease-related particles before returning clean blood to the body. This concept is not new in medicine, but Aethlon's specific implementation and claimed applications represent a bet on whether the technology can work in practice and gain regulatory approval.
 
-</aside>
+## Where does the company sit in its lifecycle?
 
-## What the company does
+Aethlon is firmly in the clinical development stage, meaning the Hemopurifier has not yet been cleared for commercial use. The company has filed applications with the FDA and is running clinical trials, including the AEMD-2022-06 trial, to test safety and efficacy. This is a preclinical and early-stage clinical player—there is no commercial revenue yet, and the company burns cash funding its research and development efforts.
 
-Aethlon Medical develops medical devices that operate on extracorporeal principles—meaning they work outside the body to treat blood or other biological fluids. The company's primary platform involves proprietary technologies designed to selectively bind and remove pathogens, toxins, and other harmful particles from patient blood or plasma. These devices are intended for use in hospitals, clinical centers, and other therapeutic settings where infectious disease or immune challenges require intervention.
+This positioning places Aethlon in a high-risk, high-reward category. Success would require regulatory approval, demonstrated clinical benefit over existing treatments, and market adoption. Failure means the company's assets and shareholders' equity could be significantly impaired or worthless.
 
-## How it makes money
+## How should you evaluate Aethlon as an investment or research subject?
 
-The company operates as a development-stage medical technology company. Revenue generation depends on commercializing its device platforms through [regulatory approval](/wiki/regulatory-approval/), clinical adoption, and licensing partnerships. Income sources include potential royalties from [licensing agreements](/wiki/licensing-agreement/), milestone payments from collaborative partners, and eventual product sales once devices achieve market clearance. The company also manages research grants and funding to support ongoing development.
+The key to understanding Aethlon is recognizing that you are evaluating a technology platform bet, not an established business. There are no sales, no revenue, and no path to profitability until (or unless) the Hemopurifier receives regulatory approval and gains clinical traction. The company's value depends almost entirely on the probability-weighted outcome of its clinical trials and regulatory pathways.
 
-## Research and development focus
+Typical metrics used to value operating companies—earnings, margins, cash flow, return on assets—are not applicable here. Instead, focus on: the strength of the clinical trial design and interim data, the clarity of the regulatory pathway, the competitive landscape in immunotherapeutic blood purification, the company's cash runway and burn rate, and the likelihood of dilutive financing rounds if trials extend or require additional funding.
 
-Medical device development requires sustained investment in research, clinical trials, regulatory submissions, and manufacturing process refinement. Aethlon's R&D pipeline includes devices targeting multiple disease areas, with advancement dependent on clinical evidence, regulatory pathways, and partnership opportunities. Like all biomedical device firms, the company faces regulatory risk tied to FDA approval and international market access, as well as execution risk in clinical trials and commercialization.
+The 52-week range (lows near $1.36, highs above $34) reflects the extreme volatility typical of clinical-stage biotech. Share price movements are driven by trial announcements, regulatory decisions, and speculative sentiment rather than financial performance. Investors should expect significant price swings based on news flow.
 
-## Market position and competition
+## What should you know before digging deeper?
 
-The blood purification and immune-modulation device market includes both established medical device firms with large product portfolios and specialized smaller companies. Aethlon operates as a focused technology developer competing on innovation and specialized capability in its core technology domains. Success depends on demonstrating clinical utility, achieving regulatory approval, and establishing partnerships or direct commercial pathways to healthcare providers.
+Aethlon Medical trades on the Nasdaq under ticker AEMD (CIK: 882291). The company files [10-K](/wiki/10-k/) annual reports and quarterly filings with the SEC; these contain the most authoritative information on trial status, regulatory progress, clinical data, and management discussion of risks and strategy.
 
-## How to research it
+Verify the current clinical trial phase, enrollment status, and any recent regulatory communications directly from the company's investor relations materials or the SEC's EDGAR database. Biotech companies often issue press releases announcing trial milestones, enrollment achievements, or regulatory feedback—these are primary sources for tracking progress.
 
-Aethlon files annual [10-K reports](/wiki/10-k/) and quarterly [10-Q filings](/wiki/10-q/) with the U.S. Securities and Exchange Commission, disclosing research progress, clinical trial status, regulatory developments, and financial position. The company also issues press releases regarding clinical milestones and partnership announcements. Investors can review FDA filings, clinical trial registries, and industry research on immune-modulation and blood purification technology trends.
+Be wary of the difference between early-stage data presented in press releases (often optimistic framing) and full clinical trial results published in peer-reviewed journals or disclosed to the FDA. Early signals can be misleading.
 
-<div class="wiki-seealso">
-
-### Closely related
-- [Public Company](/wiki/public-company/)
-- [Medical Devices](/wiki/medical-devices/)
-- [Biotech Industry](/wiki/biotech-industry/)
-- [FDA Approval](/wiki/fda-approval/)
-- [10-K](/wiki/10-k/)
-
-### Wider context
-- [Healthcare Sector](/wiki/healthcare-sector/)
-- [Medical Technology](/wiki/medical-technology/)
-- [Clinical Trials](/wiki/clinical-trials/)
-
-</div>
+Sources:
+- [Yahoo Finance - AEMD](https://finance.yahoo.com/quote/AEMD/)
+- [Aethlon Medical - Investor Relations](https://www.aethlonmedical.com/investors/stock-data/quote)
+- [MarketBeat - AEMD Forecast](https://www.marketbeat.com/stocks/NASDAQ/AEMD/forecast/)

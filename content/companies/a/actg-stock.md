@@ -1,66 +1,32 @@
 ---
 title: "ACACIA RESEARCH CORP (ACTG)"
-description: "Intellectual property company focused on IP licensing, monetization, and litigation services related to patent portfolios."
+description: "Value-oriented acquirer of public and private businesses across industrials, energy, and technology sectors pursuing special situations and distressed opportunities."
 keywords:
-  - ACACIA RESEARCH CORP
-  - ACTG
-  - intellectual property
-  - IP licensing
-  - patent monetization
-  - patent litigation
+  - acquisition company
+  - special situations
+  - holding company
+  - industrials
+  - energy sector
+  - value investing
+handwritten: true
 ---
 
-*[ACACIA RESEARCH CORP](https://pomegra.io/wiki/companies/a/actg-stock/) (ticker **ACTG**) is a [public corporation](/wiki/public-company/) operating in the [intellectual property](/wiki/intellectual-property/) sector. The company acquires, manages, and monetizes [patent](/wiki/patent/) portfolios through [licensing](/wiki/licensing-agreement/) agreements and [patent litigation](/wiki/patent-litigation/), generating revenue from [IP](/wiki/intellectual-property/) enforcement and technology transfer.*
+## What does Acacia Research actually do?
 
-<aside class="wiki-infobox">
+Acacia Research operates as a [public company](/wiki/public-company/) focused on acquiring undervalued or distressed businesses across industrials, energy, and technology sectors. Rather than running a single unified business, Acacia functions as an acquisition vehicle and holding company, seeking special situations where management expertise and capital redeployment can unlock value. The firm has strategic interests spanning industrial manufacturing, oil and gas exploration, and technology operations, with holdings across North America and internationally. The company trades on [NASDAQ](/wiki/stock-exchange/) with ticker ACTG.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACTG |
-| **Listing** | US-listed; ticker ACTG |
-| **SEC CIK** | 934549 |
-| **Sector** | Technology & Services |
-| **Industry** | Intellectual Property |
-| **Type** | Public Corporation |
+## How does the acquisition strategy work?
 
-</aside>
+Acacia takes an active management approach to its acquisitions rather than serving as a passive investor. The company maintains an operational team with deep expertise in manufacturing and industrial operations, allowing it to integrate acquired companies and drive performance improvements. This hands-on model means Acacia isn't simply buying companies and holding them—instead, it seeks opportunities where operational expertise and capital allocation can enhance returns. The firm focuses on opportunistic situations where market timing, distressed valuations, or underinvestment have created acquisition openings at attractive entry prices.
 
-## What the company does
+## What kind of businesses does it own?
 
-ACACIA operates in patent acquisition and [IP monetization](/wiki/ip-monetization/). The company acquires [patent](/wiki/patent/) portfolios targeting specific technologies, industries, or functions. Once acquired, ACACIA manages licensing initiatives to generate revenue by licensing patents to operating companies. The company also pursues [patent litigation](/wiki/patent-litigation/) against companies it believes infringe on its patent rights, seeking licensing fees or settlements.
+Acacia's portfolio has historically included diverse operations spanning industrial equipment manufacturing, intellectual property licensing and enforcement, and oil and gas exploration and production. This diversity reflects Acacia's approach of pursuing value wherever attractive risk-adjusted returns emerge, rather than limiting itself to a single sector or business model. The specific composition of holdings can shift significantly as the company exits mature investments and deploys capital toward new acquisition opportunities. Portfolio companies are operated as subsidiary entities with ongoing management involvement.
 
-## Patent monetization business model
+## Who controls Acacia and sets strategy?
 
-Revenue flows from licensing fees paid by companies using patents within ACACIA's portfolio and damages or settlements obtained through patent litigation. The company targets patents with broad applicability or dense infringement landscapes where numerous potential licensees exist. Profitability depends on identifying valuable patent portfolios at acquisition prices below the expected present value of licensing revenue.
+Acacia has a strategic relationship with Starboard Value, LP, which serves as the company's controlling shareholder. This relationship aligns ownership with a sophisticated activist investor, bringing operational and financial expertise to the acquisition process and capital allocation decisions. Starboard's involvement signals a focus on generating returns through disciplined acquisitions, operational improvements, and disciplined capital deployment rather than speculative trading or rapid exits.
 
-## Patent strength and enforcement
+## How would you research this company?
 
-ACACIA's returns depend on patent portfolio quality and enforceability. Strong, broadly applicable patents with clear claims are more valuable and easier to license. Patents issued in weak jurisdictions or facing validity challenges have limited value. [Patent litigation](/wiki/patent-litigation/) success requires clear infringement evidence and favorable judgment. Patent law complexity and jurisdictional differences create uncertainty around enforcement outcomes.
-
-## Market and industry considerations
-
-Patent monetization companies operate in a competitive industry where valuation depends on portfolio assessment and licensing execution. Operating companies sometimes view patent licensing demands as nuisance fees or valid legitimate IP protection depending on facts. Patent reform discussions and policy changes regarding patent litigation can affect business conditions. Technology obsolescence reduces patent value over time.
-
-## How to research it
-
-Review ACACIA's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC's EDGAR database. Study the patent portfolio composition by technology area, patent age, and jurisdictions. Evaluate active licensing initiatives and ongoing litigation matters, including claims and potential damages. Assess cash position and litigation expenses. Analyze [licensing revenue](/wiki/licensing-revenue/) recognition and [revenue timing](/wiki/revenue-recognition/). Compare against peer intellectual property companies and monitor patent law developments and judicial decisions affecting IP enforcement.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Intellectual property](/wiki/intellectual-property/)
-- [Patent](/wiki/patent/)
-- [Patent litigation](/wiki/patent-litigation/)
-- [IP licensing](/wiki/ip-licensing/)
-- [Patent monetization](/wiki/patent-monetization/)
-
-### Wider context
-
-- [Patent law](/wiki/patent-law/)
-- [Technology sector](/wiki/technology-sector/)
-- [IP enforcement](/wiki/ip-enforcement/)
-- [Licensing agreement](/wiki/licensing-agreement/)
-- [Public company](/wiki/public-company/)
-
-</div>
+Investors interested in Acacia should review its most recent [10-K](/wiki/10-k/) filing to understand current portfolio holdings, capital structure, and operational results. The 10-K provides the most complete picture of what subsidiaries the company owns, how returns are generated, and management's strategic direction for capital deployment. SEC filings also detail contingent liabilities, litigation, and risks associated with specific holdings. Acacia's investor relations materials typically discuss acquisition criteria and the rationale behind strategic holdings.

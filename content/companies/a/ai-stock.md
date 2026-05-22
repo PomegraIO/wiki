@@ -1,57 +1,30 @@
 ---
 title: "C3.ai, Inc. (AI)"
-description: "A software company that develops artificial intelligence and machine learning applications for enterprise clients in industries including energy, manufacturing, utilities, and government."
+description: "Enterprise software company building AI applications for industrial, energy, and government sectors using a low-code platform."
 keywords:
-  - C3.ai
-  - AI
-  - artificial intelligence
-  - enterprise software
-  - machine learning
-  - industrial AI
+  - enterprise ai
+  - industrial ai
+  - low-code platform
+  - c3 ai suite
+handwritten: true
 ---
 
-*[**C3.ai, Inc.**](/wiki/ai-stock/) (**AI**) is an enterprise software company focused on developing and deploying artificial intelligence and machine learning applications for large-scale industrial and government customers. The company operates in the enterprise AI sector, providing platform software and AI-powered solutions that help organizations in energy, manufacturing, utilities, and defense optimize operations and extract insights from data.*
+**C3.ai is an enterprise software company that helps large organizations deploy artificial intelligence at scale.** Rather than building custom AI from scratch—a costly, time-consuming process that few enterprises manage well—C3 provides a platform and pre-built applications that accelerate adoption. The company targets energy companies, manufacturers, government agencies, and other industrial players where operational efficiency, maintenance prediction, and resource optimization yield the highest payoff.
 
-<aside class="wiki-infobox">
-| **Ticker** | AI |
-| **Listing** | US-listed; ticker AI |
-| **SEC CIK** | 1577526 |
-| **Sector** | Technology |
-| **Industry** | Software & Services, Enterprise AI |
-| **Headquarters** | United States (California) |
-| **Founded** | 2009 |
-| **Type** | Public Corporation |
-</aside>
+The company's core offering is the C3 AI Suite, a low-code application development platform designed for enterprise AI. It abstracts away much of the infrastructure complexity involved in building intelligent systems: data ingestion, transformation, model training, and deployment. On top of this foundation, C3 offers industry-specific applications addressing common pain points. A power utility might use C3's applications for predictive maintenance on grid equipment; a manufacturing plant might use them to optimize production scheduling or detect equipment anomalies before failure.
 
-## What the company does
+C3 built its business during an era of intense enterprise appetite for AI, licensing applications and platform access to industrial customers at scale. The company took its software seriously, publishing considerable R&D effort around AI methodology and building deep partnerships with systems integrators and consulting firms who resell and customize C3 software for end-users. That integration channel remains important to the model.
 
-C3.ai develops software platforms and AI solutions designed for enterprise customers across industrial and government sectors. The company's C3 AI Suite is a software-as-a-service platform that enables organizations to build and deploy machine learning applications at scale. C3.ai's offerings typically focus on predictive analytics, anomaly detection, optimization, and decision-support systems. Key application areas include asset performance management, energy optimization, supply chain efficiency, manufacturing quality control, and cybersecurity monitoring for industrial and federal government customers.
+## Revenue by Type
 
-## How it makes money
+| Segment | Focus | Customers |
+|---------|-------|-----------|
+| **Software Licensing** | C3 AI Suite platform and pre-built applications | Manufacturers, energy, utilities, government |
+| **Consulting & Services** | Implementation, customization, training | Same customer base, often via partners |
+| **Managed Services** | Ongoing platform management and optimization | Subset of licensing customers |
 
-C3.ai operates primarily through SaaS (software-as-a-service) licensing and professional services revenue. Customers typically license C3 AI Suite modules on a subscription basis, often coupled with implementation, integration, and consulting services. The company also generates revenue through custom application development and support contracts. The business model targets large enterprises and government agencies where deal sizes tend to be substantial and customer relationships are long-term, though adoption of enterprise AI remains concentrated among well-capitalized organizations with existing data infrastructure.
+The software licensing business is the largest and highest-margin component. Consulting and managed services represent recurring revenue but demand more headcount. Pricing typically works on a per-user, per-application, or per-node basis, with large multi-year agreements common in government and critical infrastructure sectors.
 
-## Where it sits in its industry
+C3 operates in a competitive but expanding market where enterprise AI adoption is still in its infancy. Competitors range from large cloud platforms offering AI tools natively (AWS, Azure, GCP) to specialized analytics vendors (Palantir, Databricks, others) to custom systems integrators. C3's advantage lies in its pre-built application library and domain expertise in energy, manufacturing, and defense—domains that often value specialized knowledge over generic platforms. Its disadvantage is that it remains a pure-play AI applications vendor without the scale or bundled ecosystem of cloud giants.
 
-C3.ai competes in the enterprise artificial intelligence and machine learning software space alongside companies including Databricks, Palantir, and others providing AI/ML platforms and services. It also competes indirectly with cloud providers (AWS, Google Cloud, Microsoft Azure) that offer machine learning tools and with consulting firms that implement AI solutions. The company's positioning emphasizes pre-built applications for specific industries and vertical solutions rather than generic ML infrastructure. Its customer base includes large industrial corporations and federal government agencies, a segment that values established vendor relationships and integration capabilities. Competition in this space is intense, and enterprise AI adoption rates have evolved significantly since the company's public offering.
-
-## How to research it
-
-To evaluate the company's business and financial health:
-- Read the annual [10-K report](/wiki/10-k/) for comprehensive detail on customer concentration, revenue by industry vertical, service margins, and commentary on AI market adoption among enterprise customers
-- Review quarterly [10-Q filings](/wiki/10-q/) for trends in customer additions, contract values, professional services mix, and cash flow from operations
-- Study earnings call transcripts for management commentary on market demand, customer implementation timelines, and competitive dynamics in enterprise AI
-- Monitor regulatory filings for information on major customer contracts, research and development spending, and technology partnerships
-- Track industry reports on enterprise AI spending trends and competitive positioning in vertical AI software markets
-
-<div class="wiki-seealso">
-### Closely related
-- [Stock](/wiki/stock/)
-- [Public Company](/wiki/public-company/)
-- [Technology Sector](/wiki/technology-sector/)
-
-### Wider context
-- [Enterprise Software](/wiki/enterprise-software/)
-- [Artificial Intelligence and Machine Learning](/wiki/artificial-intelligence/)
-- [SaaS Business Model](/wiki/software-as-a-service/)
-</div>
+The company raised substantial capital during the late 2010s AI boom and went public via SPAC in late 2020. Profitability remains elusive; C3 has prioritized growth and R&D spending. Financial performance depends heavily on large enterprise spending cycles, government budget timelines, and the broader appetite for industrial AI among blue-chip corporations. The stock has been volatile, reflecting both investor enthusiasm for enterprise AI and concern about C3's burn rate and path to profitability.

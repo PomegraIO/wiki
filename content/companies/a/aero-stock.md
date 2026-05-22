@@ -1,65 +1,27 @@
 ---
 title: "Grupo Aeromexico, S.A.B. de C.V. (AERO)"
-description: "Mexican flag carrier airline providing domestic and international air transportation services from hub operations in Mexico City and other major airports."
+description: "Mexico's flagship airline operator, flying domestic and international routes from hubs in Mexico City and other major cities across North America and Latin America."
 keywords:
-  - Grupo Aeromexico
-  - AERO
-  - Mexican airline
-  - air transportation
-  - airline industry
-  - aviation
+  - airline-operator
+  - mexico-aviation
+  - latin-america-travel
+  - passenger-carrier
+  - regional-hub
+  - public-company
+handwritten: true
 ---
 
-*[**Grupo Aeromexico, S.A.B. de C.V.**](https://pomegra.io/wiki/aero-stock/), trading under ticker **AERO**, is a [public company](/wiki/public-company/) operating as Mexico's largest airline by fleet size and passengers. Headquartered in Mexico City, Aeromexico provides domestic and international air transportation services connecting Mexico to destinations across North America, Central America, and international markets.*
+Grupo Aeromexico is Mexico's largest airline and the country's primary carrier for both domestic and international air travel. It's a [public company](/wiki/public-company/) listed on Mexican exchanges and trades as AERO, operating a fleet that connects Mexico to points across the United States, Canada, Central America, South America, and Europe. The group owns and operates multiple airline brands that serve different market segments and fare levels.
 
-<aside class="wiki-infobox">
+The business is straightforward: selling seats on airplanes. The airline generates revenue from passenger fares on scheduled routes, with secondary income from cargo operations, seat selection fees, baggage charges, and ancillary services. Like all carriers, Aeromexico's profitability hinges on load factors (the percentage of seats filled), fuel prices, labor costs, and macroeconomic conditions that drive travel demand. Mexico's position as a major tourism destination and a trade gateway between the US and Latin America gives the airline consistent traffic, though the business is cyclical and sensitive to economic downturns.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AERO |
-| **Listing** | US-listed; trades on NYSE |
-| **SEC CIK** | 1561861 |
-| **Sector** | Consumer Discretionary |
-| **Industry** | Airlines |
-| **Headquarters** | Mexico City, Mexico |
-| **Founded** | 1934 |
-| **Type** | Public Corporation |
+The company's main challenges are structural to airline operations: high fixed costs, thin margins, capital intensity (planes cost billions), and vulnerability to fuel price spikes and exchange rate moves. Aeromexico filed for bankruptcy in 2010 and restructured, then faced another major stress during the 2020 pandemic. It has since reorganized under a holding company structure (Grupo Aeromexico S.A.B. de C.V.) and maintains a presence on the Mexican stock exchange. The company's survival depends on managing capacity, controlling unit costs, and capturing Mexico's growing middle-class travel market.
 
-</aside>
+For research, review the [10-K filings](/wiki/10-k/) on the SEC's EDGAR system (CIK 1561861), check quarterly earnings calls, and track fuel hedging strategies and route profitability. Investors should monitor balance-sheet leverage, cash burn rates during travel slowdowns, and the competitive landscape with other North American carriers.
 
-## What the company does
-
-Grupo Aeromexico operates commercial airline services providing passenger and cargo transportation. The company maintains a fleet of aircraft operating domestic routes within Mexico and international routes to destinations in the United States, Central America, South America, and other markets. Aeromexico generates revenue from passenger ticket sales, ancillary services (baggage fees, seat selection, priority boarding), and cargo operations. The airline operates multiple hub locations including Mexico City, allowing it to serve as a connection point for regional traffic.
-
-## How it makes money
-
-Revenue derives from passenger ticket sales, cargo services, and ancillary fees charged for premium services, baggage handling, and other customer options. Like all airlines, Aeromexico faces significant fixed costs including aircraft leasing or ownership, fuel costs, labor, and airport terminal fees. Profitability depends on load factors (percentage of seats filled), ticket pricing power, fuel costs, and operational efficiency. The airline business operates with structurally thin margins, making profitability cyclical with economic conditions and industry capacity.
-
-## Industry dynamics and competitive pressures
-
-The airline industry faces intense competition from larger carriers, low-cost competitors, and international airlines. Aeromexico competes with both full-service carriers and low-cost carriers serving similar routes. The company benefits from Mexico's geographic position bridging North and Central America, allowing it to capture connecting traffic. Competition from other carriers, pricing pressure, and fuel cost volatility create ongoing margin challenges. The airline must manage aircraft acquisition and retirement, maintain competitive service standards, and navigate labor negotiations.
-
-## Business model and operational characteristics
-
-Aeromexico operates a traditional full-service airline model with emphasis on connecting traffic through major hubs. The airline faces seasonal demand patterns, with travel demand varying by season, holidays, and economic conditions. The company must manage complex logistics of flight scheduling, crew coordination, maintenance, and aircraft utilization to maximize revenue while controlling costs. Fuel costs represent a major variable expense, making the airline sensitive to fuel price movements.
-
-## How to research it
-
-Grupo Aeromexico files annual and quarterly reports with Mexican securities regulators and the U.S. Securities and Exchange Commission. The company discloses passenger volumes, available seat kilometers, load factors, and financial results. Airlines publish regular guidance regarding capacity plans and expected trends. Industry reports track airline profitability, fuel costs, capacity additions, and demand trends across Mexican and Latin American routes.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public Company](/wiki/public-company/)
-- [Airline Industry](/wiki/airline-industry/)
-- [Aviation](/wiki/aviation/)
-- [Consumer Discretionary](/wiki/consumer-discretionary/)
-- [10-K](/wiki/10-k/)
-
-### Wider context
-- [Transportation Sector](/wiki/transportation-sector/)
-- [Fuel Hedging](/wiki/fuel-hedging/)
-- [Airline Operations](/wiki/airline-operations/)
-- [Latin American Carriers](/wiki/latin-american-carriers/)
-
-</div>
+**Main operations and brands:**
+- Aeromexico (mainline carrier, full-service)
+- Aeromexico Connect (regional subsidiary)
+- Domestic and international scheduled service
+- Cargo operations
+- Ground handling and maintenance services

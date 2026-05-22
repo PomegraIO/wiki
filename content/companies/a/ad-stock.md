@@ -1,57 +1,21 @@
 ---
 title: "ARRAY DIGITAL INFRASTRUCTURE, INC. (AD)"
-description: "Array Digital Infrastructure is an infrastructure and technology company providing digital services and solutions to commercial and enterprise customers."
+description: "Chicago-based tower operator and wireless infrastructure company that owns 4,400+ cell towers and leases space to carriers, government agencies, and broadband providers."
 keywords:
-  - Array Digital
-  - AD
-  - digital infrastructure
-  - technology services
-  - enterprise solutions
-  - IT infrastructure
+  - wireless infrastructure
+  - tower operator
+  - 5g deployment
+  - telecommunications infrastructure
+  - telecom real estate
+handwritten: true
 ---
 
-*[ARRAY DIGITAL INFRASTRUCTURE, INC.](/wiki/ad-stock/) is a **technology infrastructure company** providing digital services and IT solutions to commercial and enterprise clients. The company operates as a [public corporation](/wiki/public-company/) in the information technology and infrastructure services sector.*
+**Array Digital Infrastructure operates the physical backbone of 5G and wireless networks across the United States.** The company owns and manages more than 4,400 cell towers, leasing space to regional and national wireless carriers, municipalities, government agencies, broadband providers, and internet service providers. This core tower business generates recurring revenue streams from long-term tenant agreements and ancillary services.
 
-<aside class="wiki-infobox">
+The company has roots stretching back more than four decades, but its current strategic identity emerged after 2024. Formerly known as United States Cellular Corporation, the company made a decisive pivot away from its legacy wireless carrier operations, selling off its cellular network and spectrum assets. In August 2025, it formally rebranded as Array Digital Infrastructure, Inc.—a name that reflects its repositioning as a pure-play infrastructure company rather than a carrier.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AD |
-| **Listing** | US-listed; ticker AD |
-| **SEC CIK** | 821130 |
-| **Sector** | Information Technology |
-| **Industry** | Infrastructure Services / Digital Solutions |
-| **Headquarters** | United States |
-| **Type** | Public Corporation |
+This transition positioned Array to compete directly in the tower and fiber space against larger infrastructure [REITs](/wiki/reit-real-estate-investment-trust/). The company divested its wireless subscriber base and used proceeds to strengthen its balance sheet and fund infrastructure growth. Rather than competing on network quality and customer service (the traditional carrier playbook), Array now earns money by providing the physical assets—towers, fiber conduit, and site access—that all carriers need. The revenue model is simpler and more predictable: long-term leases with built-in escalators, minimal customer acquisition costs, and low churn.
 
-</aside>
+Array operates as a subsidiary of [Telephone and Data Systems, Inc.](/wiki/tds-stock/), a telecommunications conglomerate headquartered in Chicago. The parent company's ongoing ownership provides capital flexibility and operational support while Array focuses on scaling its infrastructure portfolio across underserved and growing markets. The company's tower base and ancillary service offerings position it to benefit from continued wireless network densification and the growing demand for fiber infrastructure supporting broadband expansion.
 
-## What the company does
-
-Array Digital Infrastructure provides technology infrastructure, digital services, and IT solutions to commercial and enterprise customers. The company's offerings may include data center services, managed IT services, cloud infrastructure solutions, network services, and related digital platform offerings. Its customer base spans multiple industries and sectors requiring scalable technology infrastructure.
-
-## How it makes money
-
-The company generates revenue through service contracts with enterprise and commercial clients. Revenue streams typically include recurring subscription fees for managed services, cloud infrastructure usage-based charges, licensing fees for digital platforms, and professional services consulting. Profitability depends on service delivery efficiency, pricing power, customer retention, and scale benefits in service delivery operations.
-
-## Where it sits in its industry
-
-Array Digital competes in the fragmented IT infrastructure and digital services sector alongside larger diversified technology companies, specialized cloud and data center providers, and regional IT service companies. The company differentiates itself through its service offerings, customer relationships, technical expertise, and operational scale. Competition focuses on service quality, pricing, innovation, and customer retention.
-
-## How to research it
-
-Investors can review Array Digital's [10-K](/wiki/10-k/) and [10-Q](/wiki/10-k/) SEC filings to understand revenue composition by service line, customer concentration, contract terms, and capital structure. Industry reports on IT infrastructure, managed services, and digital transformation trends provide context. Competitive analysis of other infrastructure and IT services companies illuminates the company's market positioning and growth drivers.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [IT Services and Infrastructure](/wiki/it-services-stocks/)
-- [Cloud Computing](/wiki/cloud-computing-stocks/)
-- [Data Center Operations](/wiki/data-center-stocks/)
-
-### Wider context
-- [Information Technology Sector](/wiki/tech-sector/)
-- [Enterprise Software and Services](/wiki/enterprise-software/)
-- [Digital Transformation Trends](/wiki/digital-transformation/)
-
-</div>
+With roughly 4,400 towers and a lean operational footprint, Array represents a strategic bet that the future of telecom value resides not in selling service to end users, but in owning and leasing the infrastructure that all service providers depend on.

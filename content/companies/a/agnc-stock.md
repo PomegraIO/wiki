@@ -1,51 +1,37 @@
 ---
 title: "AGNC Investment Corp. (AGNC)"
-description: "Mortgage real estate investment trust that acquires, holds, and manages residential mortgage-backed securities and related assets."
+description: "Mortgage REIT specializing in residential mortgage-backed securities, paying substantial quarterly dividends to investors."
 keywords:
-  - AGNC Investment Corp
-  - AGNC
-  - mortgage REIT
-  - mortgage-backed securities
-  - real estate investment trust
-  - fixed income
+  - mortgage reit
+  - mortgage backed securities
+  - residential mortgages
+  - dividend income
+handwritten: true
 ---
 
-*[**AGNC Investment Corp.**](/wiki/public-company/) (**AGNC**) is a [mortgage real estate investment trust](/wiki/mortgage-reit/) (mREIT) that invests primarily in residential [mortgage-backed securities](/wiki/mortgage-backed-security/) (MBS) issued or guaranteed by government-sponsored enterprises. The company earns returns from interest income and, secondarily, from changes in the value of its securities portfolio.*
-
 <aside class="wiki-infobox">
-**Ticker** | AGNC
-**Listing** | US-listed; ticker AGNC
-**SEC CIK** | 1423689
-**Sector** | Financials
-**Industry** | Real Estate Investment Trusts
-**Type** | Public corporation
+
+## Key Facts
+- **Sector:** Real Estate Investment Trust (Mortgage)
+- **Focus:** Residential mortgage-backed securities (RMBS)
+- **Trading:** Public equity, NASDAQ-listed
+- **Distribution Model:** Monthly/quarterly dividend policy
+- **Primary Asset Class:** Agency RMBS backed by government-sponsored enterprises
+
 </aside>
 
-## What the company does
+## The Mortgage Security Play
 
-AGNC Investment Corp. purchases residential mortgage-backed securities guaranteed or issued by Fannie Mae, Freddie Mac, or Ginnie Mae—all backed by the U.S. government or government-sponsored agencies. The company finances these purchases with debt (repurchase agreements), creating leverage. The securities generate monthly cash flows from mortgage payments, which AGNC distributes to shareholders after paying financing costs. The portfolio is actively managed, with securities sold and new ones acquired as market conditions and interest rates change.
+AGNC Investment Corp. is a [mortgage REIT](/wiki/mortgage-reit/) that owns residential mortgage-backed securities—pools of mortgages bundled and sold to investors. Unlike traditional REITs that own physical real estate, AGNC holds financial instruments: specifically, mortgages guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. The company's profits come from the spread between its borrowing costs and the yields on the mortgages it holds, making interest rates and credit conditions its primary operating variables.
 
-## How it makes money
+The firm generates substantial [dividend income](/wiki/dividend-investing/) from coupons on its mortgage securities. Most mortgage REITs, including AGNC, are required to distribute nearly all taxable earnings to shareholders to maintain REIT tax status. Historically, AGNC has attracted income-focused investors seeking higher yields than traditional fixed-income alternatives, particularly during periods of stable or gently rising interest rates where mortgage coupons remain attractive relative to repo financing costs.
 
-The company earns revenue from interest received on its MBS portfolio. Net income comes from the spread between the yield on mortgage securities and the cost of financing (primarily repo financing rates). This net interest margin is the core profit driver. The company also realizes gains or losses when securities are sold at prices above or below their purchase cost. As a mortgage REIT, AGNC must distribute at least 90% of taxable income to shareholders, limiting retained earnings but providing high dividend yields. Returns are sensitive to interest rate movements, as both MBS prices and financing costs adjust.
+## Interest Rates and Valuation Risk
 
-## Where it sits in its industry
+Mortgage REITs face a textbook asymmetric interest-rate risk. When the Fed raises rates, the market value of AGNC's existing mortgages falls because newly issued mortgages carry higher yields. Simultaneously, the company's borrowing costs (primarily repurchase agreements) often adjust faster than the fixed coupons on its assets, squeezing net interest margins. Conversely, when rates fall, mortgage prepayment rates accelerate—borrowers refinance at lower coupons—forcing AGNC to reinvest principal at lower yields. This prepayment risk has historically caused the stock's book value to swing sharply around major Fed policy shifts, making it volatile even for dividend hunters.
 
-AGNC is one of the largest mortgage REITs alongside competitors like New York Mortgage Trust and Annaly Capital Management. The mREIT sector is highly competitive, with firms differentiated by portfolio composition, leverage, duration management, and operational efficiency. Mortgage REITs thrive in environments with steep yield curves and stable interest rates; they suffer when rates rise sharply or when mortgage prepayment risk spikes. The sector is inherently leveraged and interest-rate sensitive, requiring active liability management.
+AGNC's management attempts to mitigate this via [interest-rate hedging](/wiki/interest-rate-hedging/) derivatives, but hedges are imperfect and carry their own costs. The business model works best in stable-to-gently-rising rate environments where coupons stay attractive and refinancings remain subdued. During rapid tightening cycles or market dislocations, earnings and valuations can compress quickly, sometimes forcing dividend cuts or portfolio restructuring.
 
-## How to research it
+---
 
-Investors should review AGNC's quarterly fact sheets and [10-Q filings](/wiki/10-q/) for portfolio composition, average coupon rates, portfolio duration, leverage levels, and net interest margin. The [10-K annual report](/wiki/10-k/) provides full-year analysis and discussion of interest rate scenarios. Mortgage REIT analyst research covers sector dynamics, prepayment risk, and valuation. Federal Reserve communications on policy rates and bond purchases affect MBS pricing and financing costs, making macro analysis essential.
-
-<div class="wiki-seealso">
-### Closely related
-- [Mortgage-backed securities](/wiki/mortgage-backed-security/)
-- [Real estate investment trust](/wiki/real-estate-investment-trust/)
-- [Net interest margin](/wiki/net-interest-margin/)
-- [Mortgage REIT](/wiki/mortgage-reit/)
-
-### Wider context
-- [Financials sector](/wiki/financials-sector/)
-- [Fixed income investing](/wiki/fixed-income/)
-- [Stock](/wiki/stock/)
-</div>
+**See also:** [mortgage-backed-security](/wiki/mortgage-backed-security/), [mortgage-reit](/wiki/mortgage-reit/), [net-interest-margin](/wiki/net-interest-margin/), [fnma-stock](/wiki/fnma-stock/)

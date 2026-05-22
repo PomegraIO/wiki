@@ -1,64 +1,25 @@
 ---
 title: "ARROW FINANCIAL CORP (AROW)"
-description: "Regional bank headquartered in upstate New York offering retail and commercial banking services to individuals and businesses across northern New York and Vermont."
+description: "Regional bank holding company serving upstate New York with community banking, commercial lending, and insurance services since 1851."
 keywords:
-  - ARROW FINANCIAL CORP
-  - AROW
   - regional bank
-  - New York bank
-  - community bank
-  - financial services
+  - upstate new york
+  - community banking
+  - commercial lending
+  - glens falls
+  - saratoga
+handwritten: true
 ---
 
-*ARROW FINANCIAL CORP* (ticker **AROW**) is a [public company](/wiki/public-company/) providing retail and [commercial banking](/wiki/commercial-mortgage-backed-security/) services across northern New York and Vermont. The company operates through a network of branch locations, serving individuals, small to mid-sized businesses, and institutional customers in its home region.
+Arrow Financial Corporation is a [bank holding company](/wiki/public-company/) rooted in the foothills of upstate New York, operating through two community-focused subsidiaries—Glens Falls National Bank and Trust Company and Saratoga National Bank and Trust Company—that trace back over a century and a half of lending in the region stretching from Albany north to the Canadian border.
 
-<aside class="wiki-infobox">
+The company's core business is straightforward but essential: it takes [deposits](/wiki/accounts-payable/) from individuals and small to mid-size businesses, then puts that capital to work through [commercial loans](/wiki/commercial-mortgage-backed-security/), residential real estate mortgages, [consumer installment loans](/wiki/accounts-receivable/), and other traditional banking products. Beyond lending, Arrow manages the flow of money through checking accounts, savings deposits, and time deposits. This deposit-taking-and-lending model is the foundation that every regional bank needs to survive.
 
-| Field | Value |
-| --- | --- |
-| **Ticker** | AROW |
-| **Listing** | US-listed; ticker AROW |
-| **SEC CIK** | 717538 |
-| **Sector** | Financials |
-| **Industry** | Banking |
-| **Headquarters** | Glens Falls, New York |
-| **Founded** | 1978 |
-| **Type** | Public company |
+What distinguishes Arrow in a landscape crowded with larger national banks is its ancillary business in insurance. The company operates an insurance agency arm offering group health policies, life insurance, and property and casualty coverage—services that matter to small business owners who need their banking partner to understand their full financial picture. These products generate steady fee income and deepen customer relationships beyond simple lending.
 
-</aside>
+Arrow's institutional structure as a bank holding company means the two subsidiary banks operate with local autonomy and community ties while benefiting from consolidated resources and regulatory efficiency at the parent level. This setup is common among mid-size regional banks and allows for regulatory flexibility and centralized [capital](/wiki/capital-adequacy/) management. Founded in 1851, the company reflects durability and an ability to weather the industry's major disruptions, including the Great Depression, the savings-and-loan crisis, and the 2008 financial collapse.
 
-## What the company does
+Like all [public companies](/wiki/public-company/) with securities on [NASDAQ](/wiki/stock-exchange/), Arrow files [10-K annual reports](/wiki/10-k/) disclosing its [balance sheet](/wiki/balance-sheet/), [loan portfolio](/wiki/loan/) composition, deposit base, and regulatory capital ratios. Its business model is sensitive to interest rates—when rates rise, deposit costs increase faster than loan yields can adjust, squeezing margins; when rates fall, the opposite happens. The company's competitive position depends on maintaining customer loyalty in its geographic markets and managing [credit risk](/wiki/credit-risk/) carefully as borrowers face economic cycles.
 
-ARROW FINANCIAL CORP operates as a diversified regional [bank](/wiki/bank-of-england/) serving retail and commercial customers throughout upstate New York and Vermont. The company accepts deposits and offers a range of lending products including [commercial loans](/wiki/commercial-mortgage-backed-security/), [mortgages](/wiki/adjustable-rate-mortgage/), and consumer credit. Beyond traditional deposit and lending services, the company provides trust and wealth management services to individuals and institutional clients.
+The regional bank sector, of which Arrow is a modest member, has faced ongoing consolidation pressures from larger competitors and structural headwinds including digital banking adoption and low-rate environments. Yet Arrow has persisted, serving customers who value in-person service, relationship banking, and local decision-making over impersonal digital-only alternatives.
 
-## How it makes money
-
-The company's primary revenue streams come from [interest income](/wiki/accrued-interest/) earned on loans and [invested securities](/wiki/asset-backed-security/), as well as [fee income](/wiki/accounts-receivable/) from deposit accounts, lending services, trust administration, and advisory services. Like most regional banks, ARROW generates net interest income as the spread between what it pays depositors and what it receives from borrowers. The company also earns fees from services such as safe deposit boxes, account maintenance, wire transfers, and wealth management advisory.
-
-## Where it sits in its industry
-
-ARROW FINANCIAL ranks among smaller US regional banks, competing primarily through local market relationships and personalized service. The company's strategy focuses on serving the distinct needs of communities in its geographic footprint rather than pursuing national expansion. Its size and regional concentration position it differently from mega-cap [banks](/wiki/bank-of-america/) that operate nationally, allowing for more tailored lending decisions and community engagement while facing different competitive and regulatory pressures than both national institutions and very small community banks.
-
-## Capital and regulatory position
-
-As a publicly traded US bank, ARROW FINANCIAL is subject to [banking regulation](/wiki/basel-iii/) by federal and state authorities. The company maintains [capital requirements](/wiki/capital-adequacy/) set by banking regulators, with metrics such as the tier one capital ratio and common equity tier one ratio indicating financial stability. Regulatory filings with the SEC and banking regulators, available through the Federal Deposit Insurance Corporation and banking regulator websites, provide detail on the company's balance sheet composition, loan portfolio quality, and deposit sources.
-
-## How to research it
-
-ARROW FINANCIAL files periodic reports with the [SEC](/wiki/10-k/), including the annual [10-K filing](/wiki/10-k/) containing audited financial statements and comprehensive discussion of operations, risk factors, and market conditions. Quarterly [10-Q](/wiki/10-k/) filings update financial position and results between annual filings. The SEC's EDGAR database makes these filings freely available and searchable by company name or CIK number (717538). Banking regulators including the Federal Reserve and FDIC maintain additional supervisory data and examination reports that inform understanding of safety and soundness. The company's investor relations website typically provides earnings announcements, presentations, and guidance for those tracking performance.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Bank of America](/wiki/bank-of-america/)
-- [Banking](/wiki/basel-iii/)
-- [Regional banks](/wiki/bank-reserve-injection/)
-- [Community banking](/wiki/commercial-mortgage-backed-security/)
-
-### Wider context
-- [Financial sector](/wiki/financial-crisis-2008/)
-- [Public companies](/wiki/public-company/)
-- [US stock exchanges](/wiki/stock-exchange/)
-- [SEC filings](/wiki/10-k/)
-
-</div>

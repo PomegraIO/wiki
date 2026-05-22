@@ -1,67 +1,26 @@
 ---
 title: "AGILYSYS INC (AGYS)"
-description: "AGILYSYS INC is a hospitality and retail software company providing point-of-sale, property management, and workforce solutions for hotels and restaurants."
+description: "Hospitality software provider serving hotels, casinos, and foodservice operations across 118 countries with cloud and on-premise solutions."
 keywords:
-  - AGILYSYS
-  - AGYS
   - hospitality software
-  - point-of-sale
   - property management system
+  - point of sale
+  - hotel technology
+  - subscription software
+handwritten: true
 ---
 
-*[AGILYSYS INC](/wiki/agys-stock/) (**AGYS**) is a [public company](/wiki/public-company/) that develops hospitality and retail technology solutions, serving hotels, restaurants, and gaming properties with integrated [software](/wiki/software-as-service/) platforms for operations and guest management.*
+Agilysys builds the software that powers hospitality operations worldwide. The company supplies integrated solutions to hotels, resorts, casinos, cruise lines, and foodservice operations—everything from property management systems and point-of-sale terminals to inventory management and guest experience tools. With over 40 years in the space, it serves more than 4,000 properties across 118 countries, making it a quiet but essential backbone of how large hospitality operators run their day-to-day.
 
-<aside class="wiki-infobox">
+The business model is straightforward: revenue comes from subscription and maintenance fees tied to cloud and on-premise software platforms, plus professional services and implementation work. Agilysys operates from Alpharetta, Georgia, with regional hubs in Windsor (UK) for Europe, the Middle East, and Africa, and in Singapore, Hong Kong, and Malaysia for Asia-Pacific. What gives the company staying power is that its customers are locked into these systems operationally. A large hotel or casino chain cannot easily rip out its property management or POS software; switching means months of integration, training, and operational risk. That switching cost keeps revenue recurring and predictable.
 
-| Attribute | Details |
-|-----------|---------|
-| **Ticker** | AGYS |
-| **Listing** | US-listed; ticker AGYS |
-| **SEC CIK** | 78749 |
-| **Sector** | Information Technology |
-| **Industry** | Software & Services |
-| **Headquarters** | Alpharetta, Georgia |
-| **Founded** | 1992 |
-| **Type** | [Public Company](/wiki/public-company/) |
+The company has expanded steadily through acquisition—products like InfoGenesis POS, Eatec inventory management, and DataMagine analytics came through deals—and is increasingly embedding AI and analytics directly into the platform. The hospitality industry relies on software companies like Agilysys to manage the complexity of coordinating rooms, staff, payments, dining, and guest touchpoints all at once. The company benefits from digital-first renovations at hotels worldwide and rising demand for seamless guest experiences, though it remains vulnerable to downturns in travel spending.
 
-</aside>
+**Main product and brand lines:**
 
-## What the company does
-
-AGILYSYS develops [cloud-based](/wiki/cloud-computing/) and on-premise software solutions tailored to the hospitality and restaurant industries. The company's platform suite encompasses property management systems (PMS), [point-of-sale](/wiki/pos-system/) (POS) systems, workforce management tools, revenue management applications, and guest engagement solutions. The integrated suite is designed to streamline back-office operations, front-desk management, food and beverage operations, and customer relationship functions across hospitality properties.
-
-The company serves hotels ranging from independent boutique properties to large chain operations, as well as restaurants, casinos, and other hospitality venues. Solutions are sold both as subscription services and under perpetual licensing models, with increasing emphasis on [cloud](/wiki/cloud-computing/) delivery and subscription revenue streams.
-
-## How it makes money
-
-AGILYSYS generates revenue through multiple channels: subscription fees for [cloud-based](/wiki/cloud-computing/) services, maintenance and support contracts for on-premise installations, professional services including implementation and training, and transaction fees based on usage volumes. The recurring nature of subscription and support contracts provides a relatively stable revenue base, while professional services revenue fluctuates with new customer deployments and system upgrades.
-
-The company's business model reflects the ongoing shift in enterprise software toward recurring, [SaaS](/wiki/software-as-service/)-based models. As customers migrate to cloud-based delivery, the proportion of subscription revenue to total revenue has generally increased.
-
-## Where it sits in its industry
-
-AGILYSYS competes in the hospitality software market alongside larger enterprise software vendors and specialized point-of-sale and property management providers. The competitive landscape includes both established players offering broad hospitality suites and newer entrants focused on specific functions or property types.
-
-The company's differentiation rests on deep hospitality vertical expertise, integration across the property management and guest-facing workflows, and a customer base of mid-market and regional properties where customization and industry-specific functionality hold particular value. Scale and breadth of product portfolio vary relative to much larger enterprise software companies, but AGILYSYS maintains a focus on the hospitality vertical rather than horizontal market coverage.
-
-## How to research it
-
-Start with AGILYSYS's SEC filings via [EDGAR](/wiki/edgar/): the annual [10-K](/wiki/10-k/) filing describes business segments, competitive positioning, and financial performance over the fiscal year. The quarterly [10-Q](/wiki/10-q/) filings provide updated operating results and management discussion of trends affecting the business.
-
-Earnings calls and investor presentations often discuss customer adoption rates, [cloud migration](/wiki/cloud-computing/) progress, and pipeline dynamics. Industry events and hospitality technology conferences may provide visibility into product announcements and competitive developments. Customer references and case studies on the AGILYSYS website and in analyst research offer insight into solution deployment and customer satisfaction within specific hospitality segments.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Point-of-sale systems](/wiki/pos-system/)
-- [Software as a service](/wiki/software-as-service/)
-- [Cloud computing](/wiki/cloud-computing/)
-- [Property management system](/wiki/property-management/)
-
-### Wider context
-- [Hospitality industry](/wiki/hospitality-industry/)
-- [Enterprise software](/wiki/enterprise-software/)
-- [Recurring revenue models](/wiki/recurring-revenue/)
-- [SaaS business models](/wiki/saas-business-model/)
-
-</div>
+- Property Management Systems (Agilysys PMS)
+- Point of Sale (InfoGenesis)
+- Inventory & Procurement (Eatec, SWS)
+- Guest Experience & Amenities (Book, Reserve, Book4Time, Golf, Spa, Sales & Catering)
+- Analytics and Reporting (DataMagine)
+- Payments, kiosks, digital ordering, and mobile solutions

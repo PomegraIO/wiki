@@ -1,65 +1,35 @@
 ---
 title: "American Fusion, Inc. (AMFN)"
-description: "American Fusion is a nuclear energy company focused on fusion technology development and deployment for power generation."
+description: "OTC-traded fusion energy developer advancing the Texatron aneutronic platform for industrial and grid-constrained power applications following its 2026 Kepler reverse merger."
 keywords:
-  - American Fusion
-  - AMFN
-  - nuclear fusion
-  - energy technology
-  - clean energy
-  - fusion power
+  - fusion energy
+  - aneutronic fusion
+  - texatron platform
+  - kepler fusion technologies
+  - otc energy
+  - renewable energy development
+  - power generation
+handwritten: true
 ---
-
-*[American Fusion, Inc.](/wiki/public-company/) (ticker **AMFN**) is a nuclear fusion technology company engaged in the development and commercialization of fusion energy systems for electricity generation and industrial applications.*
 
 <aside class="wiki-infobox">
 
-| Key Fact | Value |
-|----------|-------|
 | **Ticker** | AMFN |
-| **Listing** | US-listed; ticker AMFN |
-| **SEC CIK** | 96664 |
-| **Sector** | Energy |
-| **Industry** | Nuclear & Alternative Energy |
-| **Type** | Public Company |
+| **Entity** | American Fusion, Inc. |
+| **Exchange** | OTC Pink Sheets (OTCPK) |
+| **Sector** | Energy / Clean Technology |
+| **Focus** | Aneutronic fusion platform development |
+| **Subsidiary** | Kepler Fusion Technologies |
+| **Key Product** | Texatron™ fusion system |
+| **Reverse Merger** | February 27, 2026 |
+| **Name Change** | March 19, 2026 (from Renewal Fuels, Inc.) |
 
 </aside>
 
-## What the company does
+## The Fusion Play
 
-American Fusion develops fusion energy technologies designed to produce electricity through nuclear fusion reactions. Unlike traditional nuclear fission plants, which split heavy atoms to release energy, fusion-based approaches combine lighter elements under extreme temperature and pressure conditions. The company works on multiple technical pathways to achieve sustained, controlled fusion reactions that can be scaled for commercial power generation. Its focus spans both inertial and magnetic confinement fusion methodologies, positioning it within the growing sector of alternative energy developers pursuing net-positive fusion reactions.
+American Fusion emerged from a strategic reverse merger in early 2026, when Renewal Fuels brought Kepler Fusion Technologies—a development-stage fusion energy company—into a publicly traded shell. The transaction transformed Renewal Fuels into American Fusion, positioning Kepler's fusion engineers and intellectual property within a public vehicle. The company is pursuing an aneutronic fusion approach via its Texatron platform, a technology designed to avoid the neutron-heavy byproducts that complicate conventional fusion. Rather than chasing gigawatt utility-scale reactors, American Fusion targets modular deployment for industrial heat, commercial power, and grid-constrained facilities where traditional generation doesn't fit. A 5MW pre-production unit is in assembly and testing phases.
 
-## How it makes money
+## Early-Stage Capital Intensity
 
-The company generates revenue through contracts with government agencies, research partnerships, and licensing arrangements with utilities and industrial operators evaluating fusion energy systems. As a pre-commercial developer, American Fusion has historically relied on grants, research funding, strategic partnerships, and [capital-raises](/wiki/equity-issuance/) to support its operations. Once commercial-scale reactors achieve operational viability, the primary revenue stream would shift to power generation and long-term electricity supply agreements with utilities and large industrial customers seeking low-carbon baseload energy.
-
-## Where it sits in its industry
-
-American Fusion competes within the nascent fusion energy sector alongside other private developers and legacy nuclear vendors pursuing fusion commercialization. The company operates in an emerging market where technological feasibility and regulatory pathways remain actively evolving. Its position depends on achieving key engineering milestones—sustained plasma confinement, energy gain, and engineering economics that favor deployment over conventional generation sources. As a mid-stage fusion technology firm, it occupies the space between laboratory research and utility-scale deployment, partnering with established infrastructure operators and research institutions.
-
-## Regulatory and technical landscape
-
-Fusion energy projects in the United States navigate oversight by the [Nuclear Regulatory Commission](/wiki/nrc-regulator/) (NRC) and interact with the Department of Energy regarding research support and licensing frameworks. American Fusion must demonstrate technical feasibility and safe operation of its fusion systems as prototypes scale toward commercial reactors. The timeline for commercial fusion deployment remains uncertain; the sector is focused on achieving consistent, repeatable fusion reactions with net positive energy output, followed by engineering-scale pilot plants and eventual commercial deployment.
-
-## How to research it
-
-Investors and analysts researching American Fusion should begin with its [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings with the SEC, which detail the company's research progress, funding sources, burn rate, and strategic partnerships. Regulatory filings reveal partnerships with national laboratories, utility collaborators, and government contracts. Industry publications covering advanced energy technologies, nuclear policy, and fusion development often track milestones such as plasma ignition tests, materials breakthroughs, and partnership announcements. Trade conferences on nuclear technology and fusion energy provide context on competitive technical progress and regulatory developments affecting the sector.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Nuclear Regulatory Commission](/wiki/nrc-regulator/)
-- [10-K](/wiki/10-k/)
-- [10-Q](/wiki/10-q/)
-- [Public company](/wiki/public-company/)
-- [Capital raising](/wiki/equity-issuance/)
-
-### Wider context
-
-- [Nuclear energy](/wiki/nuclear-energy/)
-- [Clean energy stocks](/wiki/clean-energy-etf/)
-- [Alternative energy](/wiki/renewable-energy-etf/)
-- [Technology development funding](/wiki/venture-capital/)
-
-</div>
+As a pre-revenue development company, American Fusion operates in classic R&D mode: cash burn, rising operating expenses, and reliance on shareholder equity and potential future funding. The 2026 reverse merger flooded the cap table—Kepler shareholders received roughly 89.7% voting control of the combined entity, meaning earlier Renewal Fuels holders faced substantial dilution. For investors, this is early-stage technology risk: fusion R&D timelines are notoriously difficult to predict, regulatory pathways for new reactor designs remain unsettled, and commercial viability depends on achieving cost parity with conventional power. The OTC listing provides liquidity for speculators but signals the company is too small or risky for major exchanges.

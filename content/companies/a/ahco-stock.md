@@ -1,68 +1,32 @@
 ---
 title: "AdaptHealth Corp. (AHCO)"
-description: "Medical equipment and supplies company serving patients with chronic conditions and mobility needs."
+description: "Distributor of home medical equipment, supplies, and chronic therapy services across respiratory, sleep, diabetes, and wellness segments serving Medicare, Medicaid, and commercial payors."
 keywords:
-  - AdaptHealth
-  - AHCO
-  - medical equipment
-  - healthcare
-  - home healthcare
+  - home medical equipment
+  - durable medical equipment
+  - respiratory therapy
+  - sleep apnea
+  - healthcare distribution
+  - chronic disease management
+handwritten: true
 ---
 
-*AdaptHealth Corp. (**AHCO**) is a United States-based distributor and provider of medical equipment and supplies, serving patients with chronic conditions, mobility limitations, and complex care needs.*
+## What does AdaptHealth actually do?
 
-<aside class="wiki-infobox">
+AdaptHealth is a national distributor of home medical equipment (HME), supplies, and chronic therapy services operating through roughly 630 locations across 47 states. The company's portfolio spans four main segments: Sleep Health (CPAP and BiLevel devices for obstructive sleep apnea), Respiratory Health (oxygen systems and ventilators for COPD and respiratory failure), Diabetes Health (continuous glucose monitors and insulin pumps), and Wellness at Home (wheelchairs, hospital beds, orthopedic bracing, breast pumps, incontinence supplies, and wound care products). Annual patient volume runs to approximately 4.2 million—essentially serving patients who have graduated from acute hospital care and now manage chronic or post-acute conditions at home, where equipment and ongoing supply replenishment become part of routine life.
 
-| **Ticker** | AHCO |
-| **Listing** | US-listed; ticker AHCO |
-| **SEC CIK** | 1725255 |
-| **Sector** | Healthcare |
-| **Industry** | Medical Equipment & Supplies |
-| **Type** | Public company |
+## Where does the revenue come from?
 
-</aside>
+The company's earnings depend entirely on reimbursement from three primary payers: Medicare (the federal program for seniors and some disabled beneficiaries), Medicaid (state-federal coverage for low-income populations), and commercial insurance. In practice, this means AdaptHealth's top line is driven by Medicare fee schedules, which the federal government can adjust downward via regulatory action; by Medicaid rates, which vary wildly by state; and by contracting and prior-authorization dynamics with Blue Cross, Aetna, Cigna, and other commercial plans. A typical patient with sleep apnea, for instance, receives a CPAP machine upfront (reimbursed as durable medical equipment), then needs supply replenishment (masks, tubing, filters) monthly or quarterly. That recurring supply business—lower-margin but predictable—underpins cash flow. The company also collects ancillary revenue from home delivery, setup, and patient support services.
 
-## What the company does
+## What risks and competitive forces shape the business?
 
-AdaptHealth operates in the medical equipment and supplies distribution sector, serving patients at home and in other care settings. The company supplies durable medical equipment (DME) including mobility aids, respiratory devices, patient lifts, wound care products, and other specialized equipment. Its business model centers on direct-to-patient distribution through multiple channels, including retail locations, direct customer acquisition, and relationships with insurance providers and healthcare systems.
+Medicare rate compression is the ever-present sword. HME reimbursement has come under sustained pressure over the past decade as policymakers seek to curb program spending. State Medicaid programs, some of which face budget stress, have periodically cut rates or tightened prior-authorization hurdles. Meanwhile, the market for routine equipment—oxygen, beds, wheelchairs—is fragmented, with regional competitors, pure-play equipment manufacturers, and even retail chains competing on price. Brand switching is relatively easy for patients and providers alike, especially in commoditized categories. Regulatory risk is also real: changes to coverage policies, accreditation standards, or compliance requirements can shift unit economics overnight. The company's geographic footprint and scale provide some insulation, but exposure to government policy remains high.
 
-The company also provides services related to equipment fitting, delivery, and patient support—components that differentiate commodity medical supply distribution from integrated care provision. This service layer is a core element of its customer value proposition, particularly for elderly patients and those with complex mobility or respiratory needs.
+## How does AdaptHealth fit into its industry?
 
-## How it makes money
+The home health and HME sector serves a genuine clinical need: millions of Americans cannot manage chronic disease without equipment and supplies delivered to their homes. AdaptHealth is one of a handful of national consolidators trying to gain economies of scale in a fragmented industry. The consolidation thesis—that larger players can negotiate better rates, absorb compliance costs, and offer a broader product range—has driven acquisitions across the sector. AdaptHealth itself assembled much of its current footprint through bolt-on acquisitions, combining legacy HME operators and specialty respiratory providers. The payoff is a diversified revenue base across geographies and patient populations, reducing dependence on any single payer or condition. The downside is integration complexity and potential margin dilution if acquisitions overpay or fail to deliver synergies.
 
-AdaptHealth's revenue derives primarily from sales of medical equipment and supplies, along with rental and service fees. Insurance reimbursement—particularly from Medicare and Medicaid—comprises a material portion of revenues, making regulatory reimbursement rates and coverage policies significant business drivers. The company also generates revenue from private insurance, cash sales, and institutional customers.
+## How should investors research this company?
 
-The company operates through multiple acquisition and organic channels. Post-acquisition integration has been a notable aspect of its growth strategy, requiring operational scale to manage inventory, logistics, and patient service networks efficiently. Gross margins on equipment and supplies vary by product category and payer type.
-
-## Where it sits in its industry
-
-The medical equipment and supplies sector is heavily consolidated, with several large players dominating distribution at scale. AdaptHealth competes with both national consolidators and regional specialists. The industry benefits from aging demographics and rising prevalence of chronic conditions, but faces persistent regulatory headwinds around reimbursement rate compression, documentation requirements, and compliance with anti-fraud rules.
-
-The competitive landscape is characterized by price pressure from Medicare and Medicaid rate-setting, alongside demands from large hospital systems and insurance companies for volume discounts. Success depends on operational efficiency, supply chain management, and ability to navigate complex reimbursement rules.
-
-## How to research it
-
-Begin with the company's [/wiki/10-k/](/wiki/10-k/) filings and quarterly [/wiki/10-q/](/wiki/10-q/) reports at the [/wiki/sec/](/wiki/sec/) EDGAR database. Key sections include revenue breakdowns by product category and payer mix, discussion of reimbursement rates and regulatory changes, and details on acquisition integration progress.
-
-Industry-specific sources include reports on [/wiki/medicare/](/wiki/medicare/) and [/wiki/medicaid/](/wiki/medicaid/) reimbursement policy changes, CMS regulatory guidance, and trade publications covering the DME and home healthcare sectors. Analyst reports from healthcare and medical device research teams may provide competitive positioning and margin trend analysis.
-
-Investors should monitor changes in reimbursement rates, audit results and regulatory compliance matters, acquisition announcements and integration milestones, and same-store or organic growth metrics within mature locations.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [/wiki/durable-medical-equipment/](/wiki/durable-medical-equipment/)
-- [/wiki/healthcare-services/](/wiki/healthcare-services/)
-- [/wiki/medical-device/](/wiki/medical-device/)
-- [/wiki/medicare/](/wiki/medicare/)
-- [/wiki/acquisition-integration/](/wiki/acquisition-integration/)
-
-### Wider context
-
-- [/wiki/healthcare-sector/](/wiki/healthcare-sector/)
-- [/wiki/aging-demographics/](/wiki/aging-demographics/)
-- [/wiki/reimbursement-policy/](/wiki/reimbursement-policy/)
-- [/wiki/regulatory-risk/](/wiki/regulatory-risk/)
-
-</div>
+Start with the [10-K](/wiki/10-k/) filing (SEC CIK 1725255), which lays out segment revenue, patient acquisition costs, payer concentration, reimbursement rates, and compliance risks. Quarterly earnings calls reveal commentary on rate pressures, patient volume trends, and management's hedging strategies. Watch for changes in Medicare reimbursement policy and any significant shifts in Medicaid rate environment across major states where the company operates. Track patient acquisition cost trends—if cost per new patient rises sharply, that signals either market saturation or pricing pressure. Compare gross margins across segments to identify which product lines (respiratory, sleep, diabetes, or general equipment) are the most resilient. Finally, monitor debt levels and free cash flow generation, as the capital-intensive nature of consolidation in this space can strain balance sheets if growth slows.

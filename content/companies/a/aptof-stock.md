@@ -1,61 +1,31 @@
 ---
 title: "Aptose Biosciences Inc. (APTOF)"
-description: "Canadian biopharmaceutical company developing therapies for hematologic malignancies and solid tumors, focused on clinical-stage drug candidates."
+description: "Clinical-stage biotech developing precision medicines for oncology, particularly acute myeloid leukemia. Acquired by Hanmi Pharmaceutical in 2026."
 keywords:
-  - Aptose Biosciences
-  - APTOF
-  - biopharmaceutical
+  - biotech
   - oncology
-  - hematologic malignancies
+  - aml
+  - precision medicine
+handwritten: true
 ---
 
-*[Aptose Biosciences Inc.](/wiki/public-company/) (**APTOF**) is a clinical-stage [biopharmaceutical](/wiki/biopharmaceutical-company/) company based in Canada, focused on the discovery and development of therapeutic agents targeting cancer. The company pursues a pipeline of compounds intended to treat [hematologic malignancies](/wiki/hematologic-malignancy/) and solid tumors, operating within the competitive global oncology market.*
+Aptose Biosciences Inc. is a Toronto-based biotechnology company focused on discovering and developing precision medicines in oncology. Originally founded in 1986 as Lorus Therapeutics, the company rebranded to Aptose Biosciences in 2014 as it sharpened its focus toward kinase inhibitors and targeted cancer therapies. The company operated as a clinical-stage developer of small-molecule drugs, primarily directing its research efforts toward hematologic malignancies and other oncology indications where existing treatments left significant gaps for patients.
 
-<aside class="wiki-infobox">
+## The Science and Pipeline
 
-| Attribute | Detail |
-|-----------|--------|
-| **Ticker** | APTOF |
-| **Listing** | US-listed; ticker APTOF |
-| **SEC CIK** | 882361 |
-| **Sector** | Health Care |
-| **Industry** | Biopharmaceutical Development |
-| **Type** | Clinical-Stage Biopharmaceutical |
+At its core, Aptose's research centered on kinase inhibition as a mechanism to block disease progression. The company's primary asset was tuspetinib (TUS), an oral kinase inhibitor designed for acute myeloid leukemia (AML)—a blood cancer with poor prognosis and limited options for relapsed or refractory cases. Clinical-stage development meant the drug had moved beyond laboratory testing into human trials but had not yet achieved regulatory approval for sale. The company studied tuspetinib both as a monotherapy and as part of combination regimens, including a triplet therapy approach for newly diagnosed AML patients where earlier studies showed promising activity against the disease.
 
-</aside>
+## From Independence to Acquisition
 
-## What the company does
+Aptose operated independently through much of its clinical development phase, pursuing funding through capital markets and collaborations to advance tuspetinib toward a potential marketing submission. Like many clinical-stage biotechs, the company faced the financial pressures inherent in drug development: trials are expensive, regulatory timelines are long, and there is no guarantee of successful outcome. These challenges typically force smaller biotech firms toward strategic combinations. In November 2025, Aptose announced an arrangement agreement to be acquired by Hanmi Pharmaceutical Co., Ltd., a South Korean pharmaceutical company with manufacturing and commercial infrastructure. The transaction closed in April 2026, bringing Aptose and its pipeline into the Hanmi portfolio.
 
-Aptose Biosciences operates as a research-driven biopharmaceutical development company. Rather than manufacturing or marketing established medicines, it advances experimental drugs through preclinical and [clinical trial](/wiki/clinical-trial/) phases toward regulatory approval. The company's research direction targets blood cancers and solid malignancies, leveraging molecular biology and medicinal chemistry to identify compounds with potential therapeutic benefit.
+| Aspect | Detail |
+|--------|--------|
+| Founded | 1986 (as Lorus Therapeutics) |
+| Rebranded | August 2014 |
+| Headquarters | Toronto, Canada |
+| Lead Program | Tuspetinib (TUS) for AML |
+| Status (as of 2026) | Acquired by Hanmi Pharmaceutical |
+| Focus Area | Hematology / Oncology |
 
-## How it makes money
-
-The company generates minimal revenue from commercial product sales, reflecting its clinical-stage status. Instead, Aptose has historically funded operations through [equity financing](/wiki/equity-financing/), including [secondary offerings](/wiki/secondary-offering/) of its [common stock](/wiki/common-stock/). It may also pursue research collaborations, milestone payments, or [licensing arrangements](/wiki/licensing-agreement/) with larger pharmaceutical firms to fund ongoing development and clinical trials.
-
-## Drug development and pipeline
-
-Aptose maintains a pipeline of drug candidates at various stages of clinical evaluation. The company's approach typically involves identifying promising chemical entities, conducting [preclinical studies](/wiki/preclinical-studies/) in laboratory and animal models, and then advancing qualified compounds into human trials under [FDA](/wiki/fda-approval-process/) oversight. Success in oncology development requires navigating rigorous [regulatory requirements](/wiki/drug-approval-process/), including demonstrations of safety and efficacy in [Phase 1](/wiki/clinical-trial-phase-1/), [Phase 2](/wiki/clinical-trial-phase-2/), and potentially [Phase 3](/wiki/clinical-trial-phase-3/) trials before seeking [product approval](/wiki/new-drug-application/).
-
-## Where it sits in its industry
-
-Aptose operates within a crowded [biopharmaceutical sector](/wiki/biopharmaceutical-industry/) where thousands of early-stage companies compete for funding, regulatory approval, and market access. Success is selective; most drug candidates fail to reach commercialization. The company competes with larger integrated pharmaceutical firms, better-capitalized biotech ventures, and academic research centers, all pursuing oncology indications. Its survival depends on advancing promising compounds, securing adequate financing, and potentially finding [strategic partnerships](/wiki/strategic-partnership/) or [acquisition](/wiki/acquisition/) opportunities.
-
-## How to research it
-
-Investors and researchers can access Aptose's regulatory filings through the [SEC](/wiki/sec-regulator/) [EDGAR](/wiki/edgar-database/) system using its [CIK](/wiki/cik-number/) number 882361. The company's [Form 10-K](/wiki/10-k/) annual report and [Form 10-Q](/wiki/10-q/) quarterly reports detail its financial condition, operating results, research progress, and risk factors. Clinical trial information is publicly available on [ClinicalTrials.gov](/wiki/clinicaltrials-gov/), which maintains a registry of ongoing and completed studies. Prospective shareholders should carefully review pipeline updates, cash burn rates, and financing runway, as clinical-stage biotechs carry elevated execution and [liquidity](/wiki/liquidity/) risk.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Biopharmaceutical company](/wiki/biopharmaceutical-company/)
-- [Clinical trial](/wiki/clinical-trial/)
-- [Drug development](/wiki/drug-development/)
-- [Oncology](/wiki/oncology/)
-
-### Wider context
-- [Equity financing](/wiki/equity-financing/)
-- [SEC regulations](/wiki/sec-regulator/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [Biotech sector](/wiki/biotechnology-sector/)
-
-</div>
+The acquisition by Hanmi represented a common exit for clinical-stage biotech companies, allowing existing investors and stakeholders to realize value while moving the drug candidate forward under a larger, better-capitalized partner with regulatory and manufacturing expertise.

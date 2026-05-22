@@ -1,67 +1,20 @@
 ---
 title: "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi/ADR (AELKY)"
-description: "Turkish defense electronics and aerospace company; manufactures radar, avionics, command & control systems, and electronic warfare equipment for military applications."
+description: "Turkish state-owned defense electronics manufacturer producing radar, avionics, and tactical systems; trades as ADR for American investors seeking exposure to Turkish military modernization."
 keywords:
-  - ASELSAN
-  - AELKY
-  - defense electronics
-  - Turkish defense
-  - radar systems
-  - avionics
-  - aerospace
+  - aselsan adr
+  - turkish defense contractor
+  - defense electronics manufacturer
+  - military radar systems
+handwritten: true
 ---
 
-*ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi (ticker AELKY on US OTC as an [American Depositary Receipt](/wiki/adr/)) is a Turkish defense and aerospace electronics manufacturer. The company designs and produces radar systems, avionics, electronic warfare equipment, command & control systems, and other specialized electronics for Turkish military applications and export markets. ASELSAN is one of Turkey's largest defense contractors and a strategic supplier to the Turkish armed forces.*
+**ASELSAN is Turkey's largest defense electronics manufacturer and a state-controlled supplier to the Turkish military, trading in the U.S. as an ADR under ticker AELKY.** The company designs and produces radar systems, avionics, electronic warfare equipment, command-and-control platforms, and tactical communications networks for Turkish armed forces and allied nations. Founded in 1975 and owned by the Turkish Armed Forces Foundation, ASELSAN functions as both an operational defense contractor and a geopolitical extension of Turkish defense policy. For American investors, AELKY provides access to Turkish military industrial capacity at a moment when Turkey's strategic alignment and export relationships are reshaping Middle Eastern and Eastern European defense procurement.
 
-<aside class="wiki-infobox">
-| **Ticker** | AELKY |
-| **Listing** | US OTC markets; ADR for underlying Istanbul Exchange shares |
-| **SEC CIK** | 2110583 |
-| **Sector** | Industrials / Defense |
-| **Industry** | Defense Electronics & Aerospace Systems |
-| **Headquarters** | Ankara, Turkey |
-| **Founded** | 1975 |
-| **Type** | Public corporation |
-</aside>
+ASELSAN's revenue streams flow almost entirely from government contracts—Turkish Ministry of Defense procurement, international export sales approved by Turkish authorities, and development programs funded by NATO partners. The company operates across five core domains: radar and surveillance systems (air defense, coastal monitoring), avionics for manned and rotary-wing platforms, electronic warfare suites, integrated command-and-control networks, and naval systems integration. Each product line typically serves a single customer or a handful of domestic platforms, meaning revenue visibility depends on Turkish defense ministry budget cycles and the production schedules of major weapon systems (Turkish fighter aircraft, frigates, helicopters). Unlike private defense contractors, ASELSAN operates on a cost-plus model for many contracts, blunting traditional profit incentives but also reducing business risk—a margin compression translates to a smaller cash impact than it would for Lockheed or Raytheon.
 
-## What the company does
+What distinguishes ASELSAN in global defense supply is its vertical integration and indigenous IP ownership. Rather than assembling imported components, the company manufactures core electronics including custom silicon, RF modules, and signal-processing algorithms in-house. This reduces Turkish dependence on U.S. or European technology licenses and appeals to allied governments seeking industrial autonomy. ASELSAN also serves as a technology bridge: when NATO funds Turkish modernization (particularly for interoperability standards), ASELSAN becomes the implementing partner, effectively monetizing Turkish membership in the alliance. Export opportunities to Middle Eastern and Central Asian countries—often constrained by U.S. arms control but permissible under Turkish law—represent a secondary revenue stream and a source of geopolitical leverage for the Turkish government.
 
-ASELSAN is a specialized defense electronics manufacturer producing systems and subsystems for military platforms. Product categories include radar and surveillance systems, avionics for aircraft and helicopters, electronic warfare systems, command & control platforms, and communication systems. The company serves the Turkish military as a primary customer and also exports products to allied nations and international defense contractors. ASELSAN integrates electronics, software, and mechanical engineering into complete systems for complex military platforms.
+The ADR structure reflects Turkish state ownership: no private equity base, dividend policy driven by government priorities, and capital allocation shaped by defense ministry roadmaps rather than shareholder returns. This requires investors to track Turkish military budgets, geopolitical shifts (NATO relations, regional conflicts, arms embargoes), and foreign policy changes alongside traditional earnings analysis. Export restrictions, ITAR compliance, and Turkish government approval of international sales create regulatory friction unfamiliar to investors in Western defense contractors. Earnings surprises often stem from contract timing shifts or procurement delays rather than operational mismanagement. For investors comfortable with political risk and interested in leveraging Turkish defense modernization or NATO expansion, AELKY offers access to a capable defense electronics supplier with structural cost advantages and assured long-term demand from the Turkish military.
 
-The company works on domestic Turkish defense programs (national aircraft, helicopters, naval vessels) and also partners with international defense companies as a supplier of specialized electronics.
 
-## How it makes money
-
-ASELSAN generates revenue through defense contracts with the Turkish Ministry of Defense, domestic system integrators, and international customers. Revenue recognition depends on contract type—fixed-price contracts, cost-plus arrangements, and development programs create different revenue patterns. Profitability is driven by manufacturing efficiency, engineering capability, and ability to win contracts in competitive procurement processes. Government contracts may involve long development timelines and evolving requirements; effective project management is critical to profitability.
-
-The company also pursues commercial applications of military technology (e.g., air traffic control radar, civil avionics), creating non-military revenue streams.
-
-## Where it sits in its industry
-
-ASELSAN is a major player in Turkish defense industrial capacity, competing against international defense contractors and other Turkish suppliers. The company benefits from Turkish government preference for domestic suppliers and is integral to Turkey's defense technology sovereignty ambitions. At the global level, ASELSAN competes against large defense contractors (Lockheed Martin, Raytheon, Thales, Leonardo) but typically in specialized subsystems rather than full platform competition.
-
-Turkish defense spending and procurement priorities directly influence revenue. Regional geopolitical factors (Middle East, Eastern Mediterranean, relations with neighboring countries) influence Turkish military investment patterns. Export opportunities depend on Turkish government foreign policy and international defense relationships.
-
-## How to research it
-
-Review ASELSAN's annual reports and SEC filings (10-K and 10-Q) for contract wins, program status, and revenue breakdown by customer and product line. Understand the company's relationship with the Turkish Ministry of Defense, which is typically the largest customer. Examine order backlogs and future contract commitments, as these provide revenue visibility. Analyze gross margins and operating margins, which reflect manufacturing efficiency and contract profitability. Research the company's exposure to Turkish defense programs (e.g., Turkish fighter aircraft development, naval systems) and international export opportunities. Monitor Turkish government defense spending and procurement decisions. Understand the company's technology roadmap and R&D priorities. Pay attention to geopolitical developments affecting Turkish regional position, as these influence defense budgets and export opportunities.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [American Depositary Receipt (ADR)](/wiki/adr/)
-- [Defense contractor](/wiki/defense-contractor/)
-- [Defense electronics](/wiki/defense-electronics/) (if available)
-- [Aerospace systems](/wiki/aerospace-systems/) (if available)
-- [Public company](/wiki/public-company/)
-
-### Wider context
-
-- [Defense spending and procurement](/wiki/defense-procurement/) (if available)
-- [Turkish defense industry](/wiki/turkish-defense-industry/) (if available)
-- [International defense markets](/wiki/international-defense-markets/) (if available)
-- [Military technology development](/wiki/military-technology/) (if available)
-- [Emerging market defense contractors](/wiki/emerging-defense-contractors/) (if available)
-
-</div>

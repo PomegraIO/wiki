@@ -1,63 +1,18 @@
 ---
 title: "Allied Energy, Inc. (AGGI)"
-description: "An energy company involved in oil and gas exploration, development, and production operations."
+description: "Small independent oil and gas exploration and development company with leased acreage across Oklahoma, Texas, Colorado, and Ohio. Operates approximately 70 producing wells."
 keywords:
-  - Allied Energy
-  - AGGI
-  - oil and gas
-  - energy production
-  - petroleum exploration
+  - oil and gas exploration
+  - independent energy operator
+  - oklahoma properties
+  - upstream energy
+handwritten: true
 ---
 
-*[Allied Energy, Inc.](/wiki/public-company/) (**AGGI**) is a [US-listed](/wiki/stock/) energy company engaged in [oil](/wiki/crude-oil/) and natural gas exploration, development, and production. The company acquires and operates properties producing crude oil and natural gas, selling hydrocarbons into the energy markets.*
+**Allied Energy, Inc. operates as an independent oil and gas exploration and development company focused on conventional drilling across multiple states.** Founded in 2003 and headquartered in Bowling Green, Kentucky, the company controls roughly 6,000 acres of leased land and operates approximately 70 producing wells spread across a geographically diversified portfolio.
 
-<aside class="wiki-infobox">
+The company's acreage footprint spans Rogers County in Oklahoma, Leon County in Texas, Morgan County in Colorado, and Washington/Athens County in Ohio. This geographic distribution across different basins reflects a traditional independent strategy of chasing conventional oil and gas plays in established, lower-risk geographies rather than frontier or deepwater prospects. The company was previously known as Allied Energy Group, Inc. before its 2007 name change, repositioning itself as a more focused upstream operator.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AGGI |
-| Listing | US-listed |
-| SEC CIK | 1109262 |
-| Sector | Energy |
-| Industry | Oil & Gas Exploration & Production |
-| Headquarters | United States |
-| Founded | Not publicly disclosed |
-| Type | Public Corporation |
+Like other small-cap independent operators, Allied Energy's business model relies on the price environment for [crude oil](/wiki/crude-oil/) and natural gas, cost discipline in drilling and completion operations, and the ability to find and develop incremental reserves within its existing leasehold. The company trades over-the-counter under the ticker symbol AGGI, with shares trading thinly on the [OTC](/wiki/over-the-counter/) markets. The firm does not pay dividends, typical of smaller independent operators that prioritize reinvestment in exploration and production activities over returning capital to shareholders in the near term.
 
-</aside>
-
-## What the company does
-
-Allied Energy operates oil and natural gas properties, which may be located onshore or offshore depending on the company's asset portfolio. Exploration involves identifying and drilling wells in search of hydrocarbons. Development converts discovered resources into producing properties. Production is the ongoing extraction and sale of oil and gas. The company likely owns working interests in wells and production facilities, receiving a share of produced hydrocarbons proportional to its interest ownership.
-
-## Revenue from commodity sales
-
-Allied Energy derives revenue from the sale of oil and natural gas production at market prices. Oil price is typically benchmarked to [crude oil](/wiki/crude-oil/) futures contracts and regional pricing differences. Natural gas is sold at prices linked to Henry Hub or regional trading hubs. Production volumes and commodity prices together determine revenue. Operating costs include field operations, processing, transportation, royalties to mineral owners, and severance taxes. Profitability improves when commodity prices rise and falls sharply during price downturns.
-
-## Reserve replacement and property lifecycle
-
-The company must continually replace produced reserves through exploration and development of new properties. Reserve life is limited—as production depletes wells, the company needs new discoveries or acquired properties to maintain production levels. Oil and gas companies often engage in property acquisitions and sales as part of portfolio optimization. The company's value depends partly on reserve replacement success and acquisition opportunities.
-
-## Commodity price cycles and volatility
-
-Oil and gas producers are highly exposed to [commodity price](/wiki/commodity-carry-trade/) volatility. Oil prices fluctuate based on global supply and demand, geopolitical events, inventory levels, and macroeconomic growth. Natural gas prices depend on supply, storage levels, heating demand, and competing fuels. Low commodity prices reduce profitability and may make some properties uneconomical to operate. High prices expand profit margins but can face regulatory or political pressure to increase production. Hedging through [futures](/wiki/futures-contract/) and [derivative](/wiki/derivatives-exchange-crypto/) contracts can reduce but not eliminate price exposure.
-
-## How to research it
-
-Review Allied Energy's [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings for proved reserves data, production volumes, and per-barrel operating costs. SEC filing include reserve estimates, future cash flow estimates, and property location details. Monitor oil and natural gas prices on commodity exchanges. Track the company's hedging strategy and outstanding hedges. Compare reserve replacement ratio and finding costs to peers. Follow regulatory developments affecting oil and gas operations and environmental compliance costs.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Oil and gas production](/wiki/public-company/) — business model
-- [Crude oil pricing](/wiki/crude-oil/) — revenue determinant
-- [Natural gas markets](/wiki/commodity-carry-trade/) — secondary revenue
-
-### Wider context
-
-- [Commodity price cycles](/wiki/commodity-futures-rolling/) — business volatility
-- [Proved reserves accounting](/wiki/10-k/) — asset valuation
-- [Environmental regulation in energy](/wiki/aml-compliance/) — compliance landscape
-
-</div>
+Success for Allied Energy depends on execution at the well level, strategic capital allocation across its producing assets and new development prospects, and navigating the commodity cycle. Like all oil and gas producers, the company faces exposure to [crude oil](/wiki/crude-oil/) and natural gas price volatility driven by global supply and demand dynamics. Smaller independents often lack the scale and diversified portfolios of major integrated energy companies, making them more sensitive to regional market conditions and operational challenges. Investors tracking small upstream operators view Allied Energy as representative of the sector's capital intensity, commodity exposure, and operational execution risks.

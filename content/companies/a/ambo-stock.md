@@ -1,56 +1,33 @@
 ---
 title: "Ambow Education Holding Ltd. (AMBO)"
-description: "China-based education services provider offering tutoring, online courses, and training programs for students across multiple age groups."
+description: "Technology company delivering AI-powered educational platforms and immersive learning experiences through HybriU for education, corporate, and event markets."
 keywords:
-  - Ambow Education
-  - AMBO
-  - education technology
-  - tutoring services
-  - China education
+  - ambow education holding
+  - ambo stock
+  - ai education platform
+  - hybriu
+handwritten: true
 ---
-
-*[**Ambow Education Holding Ltd.**](/wiki/ambo-stock/) (AMBO) is a [public company](/wiki/public-company/) providing education services in China, offering a portfolio of tutoring, online learning, and educational training programs to students of various ages and academic levels.*
 
 <aside class="wiki-infobox">
 
 | Field | Details |
 |-------|---------|
 | **Ticker** | AMBO |
-| **Listing** | US-listed; ticker AMBO |
-| **SEC CIK** | 1494558 |
-| **Sector** | Education & Technology |
-| **Industry** | Education Services |
-| **Headquarters** | Beijing, China |
-| **Type** | Tutoring and Online Education |
+| **Exchange** | NYSE American |
+| **CIK** | 1494558 |
+| **Headquarters** | Cupertino, California |
+| **Founded** | 2000 |
+| **Sector** | Educational Technology |
+| **Key Product** | HybriU platform |
 
 </aside>
 
-## What the company does
+## Platform and Market Focus
 
-Ambow provides tutoring services, online educational platforms, and skill-training programs across China. The company serves K-12 students through after-school tutoring centers and offers higher-level training in vocational skills, test preparation, and professional certifications. Its business model combines offline tutoring centers with digital learning platforms, allowing students to access instruction both in-person and remotely.
+Ambow Education operates as an AI-driven technology company developing HybriU, an immersive learning platform engineered for multiple audiences: educational institutions seeking hybrid learning solutions, corporations requiring scalable training and conferencing infrastructure, and event organizers managing large-scale live experiences. The platform bridges in-person and remote participation through intelligent engagement features, leveraging artificial intelligence to deliver real-time, interactive experiences across these distinct markets.
 
-## How it makes money
+## Business Model and Operations
 
-Ambow generates revenue primarily through tuition fees from students enrolled in its tutoring programs and online courses. The company operates physical learning centers in Chinese cities and generates subscription and enrollment income from its digital platforms. Revenue is driven by the number of students served, retention rates, and average fees charged per course or program tier.
+The company generates revenue through two channels: educational programs and services, and HybriU platform licensing. This licensing approach enables scale without direct service delivery constraints. Ambow trades as an American Depository Receipt on NYSE American, maintaining its intellectual property development and AI platform innovation while remaining accessible to U.S. equity investors.
 
-## Where it sits in its industry
-
-The Chinese education sector includes both large public companies and numerous regional private players. Ambow competes with other tutoring chains, online education platforms, and training providers serving the same demographic. The regulatory environment for education in China has shifted significantly in recent years, affecting the operational structure and profitability of education service providers nationwide.
-
-## How to research it
-
-Review Ambow's [10-K](/wiki/10-k/) annual filings with the SEC, which detail the company's revenue breakdown, student enrollment metrics, operational footprint, and regulatory compliance. The [10-K](/wiki/10-k/) will show historical financials and management's discussion of competitive positioning, regulatory risks, and strategic initiatives. Pay attention to disclosures about the company's exposure to Chinese education policy changes and any restructuring of its business model.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [Tutoring and education services industry](/wiki/education-industry/)
-
-### Wider context
-- [10-K](/wiki/10-k/)
-- [Sector analysis](/wiki/sector-analysis/)
-- [China-listed companies](/wiki/china-listed-companies/)
-
-</div>

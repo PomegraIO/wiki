@@ -1,58 +1,21 @@
 ---
 title: "American Water Works Company, Inc. (AWK)"
-description: "Largest publicly traded water utility in the United States, serving millions of customers across multiple states in drinking water, wastewater, and recycled water services."
+description: "Largest regulated water utility in the U.S., delivering drinking water and wastewater services to 14 million people across 14 states and military installations."
 keywords:
-  - American Water Works
-  - AWK
-  - water utility
+  - regulated utility
   - water infrastructure
-  - essential services
+  - wastewater treatment
+  - utility acquisitions
+  - water supply
+handwritten: true
 ---
 
-*[American Water Works Company, Inc.](/wiki/public-company/) (**AWK**) is the largest publicly traded water utility operator in the United States, providing drinking water, wastewater, and recycled water services to millions of customers across the country. The company operates as a regulated utility with a diversified geographic footprint across multiple states.*
+American Water Works operates the largest regulated water and wastewater utility network in the United States. The company delivers safe drinking water and wastewater services to roughly 14 million people through approximately 1,700 communities spanning 14 states and 18 military installations. It is fundamentally a [public-company](/wiki/public-company/) business that holds service licenses defining territory, rates, and operational obligations within each state and local jurisdiction it serves.
 
-<aside class="wiki-infobox">
+The company's footprint is vast and physical. It operates about 80 surface water treatment plants, 520 groundwater treatment plants, 190 wastewater treatment plants, and maintains 54,500 miles of pipes carrying water or wastewater through the ground. The system includes 1,200 wells, 1,800 pumping stations, and 1,100 storage facilities. This infrastructure, accumulated over generations and expanded through acquisitions, represents the backbone of the business. The company is not trading water futures or running a trading desk—it owns and maintains the pipes, treatment facilities, and pumping stations, and charges customers for the reliable supply.
 
-| Key fact | Value |
-| --- | --- |
-| **Ticker** | AWK |
-| **Listing** | US-listed; trades on NYSE |
-| **SEC CIK** | 1410636 |
-| **Sector** | Utilities |
-| **Industry** | Water utilities |
-| **Headquarters** | Camden, New Jersey |
-| **Type** | Publicly traded corporation |
+Revenue flows from regulated rate structures approved by state and local regulators. The company serves residential customers (the majority of connections), commercial customers such as food producers and restaurants, and industrial customers including large manufacturers. It also operates systems for government buildings and public authorities, and manages water and wastewater facilities on military bases under contract. Because water and wastewater are essential services, the business benefits from relatively stable demand and replacement cycles—pipes break and must be replaced, treatment systems require upgrades, and population growth (however modest in some regions) drives incremental customer additions.
 
-</aside>
+The company traces its roots to 1886 and was reorganized in its modern form after 1935, when federal law forced the breakup of massive utility holding companies. By the 1990s, American Water had become the nation's largest investor-owned water utility, and it has continued to grow primarily through acquisitions of smaller water systems. This growth strategy—identify fragmented or municipally-owned systems, acquire them, consolidate operations, and optimize costs—has defined the business for decades.
 
-## What the company does
-
-American Water Works operates water distribution and treatment systems serving residential, commercial, and industrial customers. The company manages extensive networks of pipes, treatment plants, and wastewater facilities across its service territories. Its operations span drinking water supply, wastewater collection and treatment, and recycled water provision. The company operates both as a direct utility provider in certain states and through subsidiaries that hold regulated water utility [licenses](/wiki/operating-license/) in specific jurisdictions.
-
-## How it makes money
-
-The company generates revenue primarily through regulated utility rates charged to customers for water delivery and wastewater services. These rates are set by state utility commissions, which typically allow the company to earn a regulated [return on equity](/wiki/return-on-equity/) on its invested capital. The regulatory framework creates predictable, stable cash flows. The company also generates ancillary revenue from contracted services, operation and maintenance of customer-owned water systems, and regulated treatment facilities serving industrial customers.
-
-## Where it sits in its industry
-
-As the largest publicly traded water utility by customer count, American Water Works operates in a fragmented industry dominated by municipal systems and a small number of large private operators. The company's scale provides advantages in capital access, operational efficiency, and technological development. Water utilities face secular tailwinds including aging [infrastructure](/wiki/real-estate-capital-structure/) requiring replacement, regulatory focus on water quality and system resilience, and population growth in certain service territories. Regulatory risk is material—rate approvals and capital investment allowances depend on state commission decisions.
-
-## How to research it
-
-Publicly available information about American Water Works can be found in its [10-K annual report](/wiki/10-k/) filed with the [SEC](/wiki/securities-and-exchange-commission/), which contains comprehensive details on operating performance, capital expenditures, regulatory proceedings, and financial condition. Quarterly [10-Q](/wiki/10-q/) reports provide interim updates. The company's investor relations website publishes earnings releases, presentations, and supplemental information. State regulatory filings document rate cases and capital expenditure plans. Industry publications covering utility regulation and infrastructure investment provide context on competitive and regulatory dynamics.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Essential services stocks](/wiki/essential-services-stocks/)
-- [Regulated utilities](/wiki/regulated-utility/)
-- [Infrastructure investing](/wiki/infrastructure-investing/)
-
-### Wider context
-
-- [Utility stocks](/wiki/utility-stock/)
-- [State utility regulation](/wiki/state-utility-regulation/)
-- [Water infrastructure](/wiki/water-infrastructure/)
-
-</div>
+Water and wastewater service is highly regionalized. Rates, service standards, capital investment programs, and asset acquisitions are governed by state and sometimes local regulators. This creates a regulated monopoly structure: the company has a protected service territory in exchange for submitting to rate regulation and serving all customers in that territory. The stability is real, but so is regulatory oversight. [10-K](/wiki/10-k/) filings outline compliance costs, environmental regulations (including Safe Drinking Water Act requirements), and the company's ongoing need to invest in aging infrastructure or environmental remediation. Investor focus typically centers on rate recovery, regulatory jurisdiction approvals, and the company's ability to finance infrastructure replacement programs at acceptable returns.

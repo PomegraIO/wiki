@@ -1,66 +1,28 @@
 ---
 title: "AIR T INC (AIRT)"
-description: "A Delaware corporation providing aircraft and aviation support services, leveraging fleet and managed services capabilities in commercial aerospace."
+description: "Diversified industrial holding company with operations in overnight air cargo, aircraft ground equipment, and commercial aviation parts and services."
 keywords:
-  - AIR T INC
-  - AIRT
-  - aviation services
-  - aircraft
-  - aerospace
-  - fleet services
-  - commercial aviation
+  - holding company
+  - aviation
+  - air cargo
+  - ground equipment
+  - aircraft parts
+  - inventory lessor
+handwritten: true
 ---
 
-*[AIR T INC](/wiki/airt-stock/) (ticker **AIRT**) is a Delaware-incorporated provider of aviation and aircraft-related support services, operating through subsidiary companies that deliver fleet management, aircraft services, and logistics solutions to the commercial aerospace industry.*
+## What exactly does Air T do?
 
-<aside class="wiki-infobox">
+Air T is a diversified holding company operating across aviation and adjacent industrial sectors through a portfolio of 14+ distinct businesses. The company doesn't run a single airline or manufacturing operation; instead, it owns stakes in and operates companies that serve aviation infrastructure, aircraft logistics, and specialized equipment manufacturing. Its core segments span overnight air cargo (primarily FedEx dry-lease arrangements), ground equipment like aircraft deicers and tow tractors, commercial aircraft engines and aftermarket parts, and digital solutions for aviation workflows.
 
-| Field | Value |
-|-------|-------|
-| Ticker | [AIRT](/wiki/airt-stock/) |
-| Listing | US-listed; ticker AIRT |
-| SEC CIK | 353184 |
-| Sector | Industrials |
-| Industry | Aviation Services |
-| Type | Public company |
+## Where does the money come from?
 
-</aside>
+The company's revenue streams are segmented across its portfolio. Overnight air cargo generates steady leasing income from dry-lease agreements with FedEx covering a fleet of over 100 aircraft. Ground equipment sales come from manufacturing and servicing specialized aviation equipment—decontamination units, scissor-lift platforms, and flight-line vehicles—sold to airports and defense contractors. The commercial aircraft engines and parts division earns through disassembly services, surplus parts sales, inventory management, overhaul services, and procurement. Digital solutions contribute through software and services to aviation customers. This multi-stream approach reduces reliance on any single revenue source.
 
-## What the company does
+## How does Air T fit into the larger industry?
 
-AIR T operates through subsidiary companies that service the aviation industry. The company owns and manages a fleet of aircraft that are leased to third parties, and provides related support services including maintenance, logistics, and operational support. Its aircraft portfolio supports both commercial and specialized aviation operations, with focus on markets where these assets can generate consistent returns.
+Air T operates in the unglamorous but essential infrastructure layers of aviation—lessors, parts suppliers, and equipment vendors rather than carriers themselves. The company competes with other aircraft lessors, aviation parts distributors, and ground equipment manufacturers, but its diversified model distinguishes it from pure-play specialists. Its scale is modest relative to major lessors or defense contractors, but it occupies meaningful niches: FedEx's overnight network depends on air cargo operators, airports need ground support equipment, and airlines require a steady supply of parts and overhaul services. Air T's holding structure allows it to operate these businesses independently while centralizing capital and strategic direction.
 
-The company's business encompasses the ownership, lease, and management of aircraft used in various commercial applications. This includes positioning the fleet across geographies to meet market demand and optimizing asset utilization to generate revenue from leasing and service operations.
+## What's the investor-owner dynamic?
 
-## How it makes money
-
-AIR T generates revenue through leasing aircraft to operators and customers in the commercial aviation space. Lease payments form the primary revenue stream, supplemented by ancillary fees for maintenance, storage, and other value-added services. The company's profitability depends on maintaining high utilization rates across its fleet, managing operational costs, and negotiating favorable lease terms with creditworthy counterparties.
-
-Asset-heavy business models of this type require careful management of capital deployment, lease renewals, and fleet optimization to balance growth with return requirements.
-
-## Where it sits in its industry
-
-Aviation services span a broad market that includes aircraft leasing, fleet management, maintenance, and logistics support. AIR T operates in the niche of aircraft ownership and leasing, competing with specialized aviation firms and larger diversified industrials that have aviation divisions. Success in this sector hinges on fleet quality, operational efficiency, customer relationships, and the ability to adapt to shifting aviation demand patterns.
-
-The company's relatively concentrated model—centered on asset ownership and leasing—means its fortunes are tied closely to the health of the commercial aviation sector and the broader economic cycles that drive demand for air travel and cargo services.
-
-## How to research it
-
-Investors and researchers should consult the company's [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-k/) quarterly filings with the [SEC](/wiki/sec-regulator/) (CIK 353184) for detailed operating results, fleet composition, lease portfolio composition, and management commentary. These filings disclose capital expenditures, depreciation, lease revenue concentration, customer concentration, and debt obligations—all material to understanding the business model.
-
-Press releases and investor presentations may offer updates on fleet expansion, new lease agreements, or operational challenges, but regulatory filings remain the authoritative source for financial performance and strategic direction.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Aircraft leasing](/wiki/aircraft-leasing/)
-- [Equipment leasing](/wiki/equipment-leasing/)
-- [Aviation industry](/wiki/aviation-industry/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [SEC filings](/wiki/sec-filings/)
-- [Industrial sector](/wiki/industrial-sector/)
-- [Lease accounting](/wiki/lease-accounting/)
-
-</div>
+Air T positions itself around an "Investor-Operator Partnership" philosophy, meaning the company acts as both steward of capital and active manager of its subsidiaries. Rather than a traditional passive holding company, Air T's leadership directly oversees operations across its portfolio, focusing on long-term value creation over quarterly earnings swings. This model emerged from the company's evolution since 2013, when it consolidated from 3 to 14 businesses, suggesting management is willing to buy, integrate, and divest to build a resilient conglomerate. [Public company](/wiki/public-company/) filings and [10-K](/wiki/10-k/) reports detail operational performance across segments.

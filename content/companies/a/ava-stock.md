@@ -1,60 +1,24 @@
 ---
 title: "AVISTA CORP (AVA)"
-description: "Regional utility company providing electricity and natural gas services to residential, commercial, and industrial customers across the Pacific Northwest."
+description: "Regulated utility company providing electricity and natural gas to customers in the Pacific Northwest and Northern Rockies regions."
 keywords:
-  - Avista Corp
-  - AVA
-  - utility
-  - electric utility
+  - regulated utility
+  - electricity
   - natural gas
+  - pacific northwest
+  - utility stocks
+handwritten: true
 ---
 
-*AVISTA CORP (AVA) is a regional electric and natural gas utility serving customers in Washington, Oregon, Idaho, and Montana, with operations centered on the Pacific Northwest power grid and regulated market environments.*
+**Avista is a regulated utility serving electricity and natural gas customers across Washington, Oregon, and Idaho through a business model anchored in stable, state-approved returns on capital-intensive infrastructure.** Unlike merchant power generators that profit from commodity price spikes, Avista operates under the regulatory compact: the company invests in poles, wires, pipes, and generation assets; states set rates to allow a fair return; and the utility captures predictable earnings on that investment base, growing modestly with inflation and customer growth.
 
-<aside class="wiki-infobox">
-| Attribute | Value |
-|-----------|-------|
-| Ticker | AVA |
-| Listing | US-listed; ticker AVA |
-| SEC CIK | 104918 |
-| Sector | Utilities |
-| Industry | Electric & Natural Gas |
-| Headquarters | Spokane, Washington |
-| Founded | 1889 |
-| Type | Public Company |
-</aside>
+The utility's generation mix leans heavily on hydroelectric dams—abundant and low-cost in the Pacific Northwest—supplemented by thermal plants and increasing renewable capacity as state carbon mandates tighten. Avista operates as a vertically integrated utility, owning and controlling the full chain from generation through distribution, which reduces reliance on wholesale market volatility. Customers pay rates approved by state public utility commissions; the company covers operating costs and earns its regulatory return, which is typically set to reward capital-intensive business but remains constrained by political and consumer pressure. Revenue is dominated by steady electricity and natural gas sales to residential, commercial, and industrial users—demand that rarely falls sharply and adjusts predictably with population and weather.
 
-## What the company does
+> The regulated utility franchise is valuable precisely because it is boring: durable monopoly rights, stable cash flows, and capped upside.
 
-Avista operates as a vertically integrated utility providing electricity and natural gas to approximately a million customers. Its service territory spans across Washington, Oregon, Idaho, and Montana, encompassing both urban and rural markets. The company owns and operates generation, transmission, and distribution infrastructure to deliver these essential services to residential, commercial, and industrial customers. Its business model is anchored in regulated utility operations, where rates and service standards are set by state regulatory commissions.
+Avista's challenge lies not in competition but in regulatory risk. Changes to the allowed return on equity, delays in rate recovery, or mandated capital spending on transmission and renewable integration can compress margins. The company faces the capital intensity of aging infrastructure modernization, environmental compliance, and the energy transition. Yet these constraints also anchor investor expectations: Avista's valuation reflects the fortress-like stability of its franchise, not the growth optionality of an agile tech firm or a merchant energy trader. For defensive portfolios seeking reliable utility exposure and income in the Pacific Northwest, Avista trades the volatility of the broader market for the certainty of a state-regulated return.
 
-## How it makes money
+---
 
-Avista's revenue derives primarily from two sources: electricity sales and natural gas distribution. Under the regulatory framework, the company earns a regulated rate of return on its capital-intensive infrastructure investments. Revenues are relatively stable due to the monopoly nature of regulated utilities and customer dependence on reliable power and heating services. The company also pursues energy efficiency programs and distributed generation initiatives, which are increasingly important in the regulatory environment.
+**See also:** [10-K](/wiki/10-k/), [Public utility commission](/wiki/public-company/)
 
-## Where it sits in its industry
-
-Avista is a mid-sized regional utility in the Pacific Northwest, distinct from the largest national utilities but comparable to other regional vertically integrated operators. It faces competition in the broader energy landscape from renewable energy providers and changing consumer preferences toward distributed generation. The utility's position is shaped by its aging infrastructure modernization needs and transition toward cleaner energy sources mandated by state regulations and customer demand.
-
-## Key operating considerations
-
-The company's operations depend heavily on regulatory approval for rate adjustments and capital investment plans. Seasonal variations affect both electricity demand (heating in winter) and natural gas demand patterns. Water availability for hydroelectric generation and thermal regulation is a material factor in the Pacific Northwest. The transition away from coal-fired generation and toward renewable energy requires substantial capital expenditures, which must be approved and funded through regulated rate recovery mechanisms.
-
-## How to research it
-
-Start with [Avista's 10-K filing](/wiki/10-k/) available on the [SEC EDGAR database](/wiki/stock/), which provides comprehensive information on the company's infrastructure assets, service territory, regulatory environment, and financial performance. The 10-Q quarterly reports track operational metrics, customer growth, and rate case developments. Regulatory filings with the Washington, Oregon, Idaho, and Montana public utility commissions provide insight into pending rate cases and infrastructure modernization plans. Industry analyst reports on regional utilities and energy transition trends provide broader context for the company's strategic positioning.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Electric Utilities Industry](/wiki/electric-utility/) — Overview of utility sector dynamics
-- [Regulated Utility Business Model](/wiki/regulated-utility/) — How utility rate regulation works
-- [Public Utility Commission](/wiki/public-utility-commission/) — State regulatory bodies overseeing utilities
-- [Rate of Return Regulation](/wiki/rate-of-return-regulation/) — Utility earnings mechanisms
-
-### Wider context
-- [Utilities Sector](/wiki/utilities-sector/) — Broader sector performance and trends
-- [Energy Transition](/wiki/energy-transition/) — Shift toward renewable energy
-- [Infrastructure Investing](/wiki/infrastructure-investing/) — Utility stocks as infrastructure plays
-
-</div>

@@ -1,69 +1,33 @@
 ---
 title: "ALEXANDRIA REAL ESTATE EQUITIES, INC. (ARE)"
-description: "Publicly traded real estate investment trust owning and leasing life-sciences properties including laboratory and office space for biotech and pharmaceutical companies."
+description: "Life-sciences and biotech real estate REIT specializing in laboratory, office, and mixed-use properties for innovation-driven tenants."
 keywords:
-  - Alexandria Real Estate Equities
-  - ARE
   - real estate investment trust
-  - REIT
-  - life sciences real estate
+  - life sciences
   - biotech real estate
+  - lab space
+  - office reit
+handwritten: true
 ---
 
-*[**Alexandria Real Estate Equities, Inc.**](/wiki/public-company/) (**ARE**) is a [publicly traded](/wiki/public-company/) [real estate investment trust](/wiki/reit/) that specializes in owning and leasing properties to life sciences and biotech companies. The company operates across the United States, focusing on laboratory, office, and related real estate that serves the research, development, and manufacturing sectors of the life sciences industry.*
+**Alexandria is the largest publicly traded REIT focused on life-sciences and biotech real estate**, a sector that emerged as distinct and crucial in the 2000s as genomics, therapeutics, and biomedical research scaled beyond academia into commercial property. The company owns a concentrated portfolio of laboratory, office, and mixed-use facilities across the nation's premier innovation hubs—San Francisco, San Diego, Boston, Seattle, Los Angeles, and the Research Triangle.
 
-<aside class="wiki-infobox">
-| Attribute | Value |
-|-----------|-------|
-| **Ticker** | ARE |
-| **Listing** | US-listed; ticker ARE |
-| **SEC CIK** | 1035443 |
-| **Sector** | Real Estate |
-| **Industry** | Real Estate Investment Trusts (REITs) |
-| **Headquarters** | Pasadena, California |
-| **Founded** | 1997 |
-| **Type** | Publicly traded REIT |
-</aside>
+## Portfolio and Tenancy Model
 
-## What the company does
+Alexandria's real estate is leased almost entirely to companies and institutions that pay for precision environments: pharmaceutical firms running clinical trials, biotech startups scaling from research to manufacturing, contract research organizations (CROs), medical device makers, and university research institutes. Unlike a traditional office or industrial REIT, a lab facility is highly specialized—climate control, fume hoods, clean rooms, utilities for sensitive equipment—and cannot be easily repurposed for generic office use. This specialization creates long-term tenant lock-in and sticky rental relationships. Properties tend to be in densely developed urban or near-urban corridors where land cost is high and new construction faces zoning constraints, further protecting existing landlords from oversupply.
 
-Alexandria Real Estate Equities operates as a specialized property owner and lessor within the life sciences sector. The company acquires, develops, and manages a diversified portfolio of laboratory, office, and related properties designed for pharmaceutical, biotechnology, and research-focused tenants. These properties span across key life sciences hubs in the United States, including regions known for concentrations of biotech and pharmaceutical activity. The company's real estate includes both fully developed facilities and properties held for future development.
+## Operating Model and Value Drivers
 
-## How it makes money
+Alexandria generates revenue through lease escalations tied to market conditions, lease spreads when renewing with new tenants, and built-in rental growth from multi-year leases. Operating margins depend on maintaining occupancy (typically in the low-to-mid 90% range), managing tenant turnover, and controlling property operating costs. The firm also develops new facilities and acquires properties, adding to the income stream as projects stabilize. Like all REITs, Alexandria is required to distribute 90% of taxable income to shareholders as dividends, making it a vehicle for income-focused investors rather than capital appreciation.
 
-As a [REIT](/wiki/reit/), Alexandria generates revenue primarily through real estate leases. The company collects rental income from tenants occupying its laboratory and office properties. Tenants typically enter into long-term lease agreements, providing relatively stable cash flows. The company also manages property operations, maintenance, and improvements. Alexandria may earn additional revenue through development of properties and their subsequent lease or sale.
+## Market and Competitive Position
 
-REITs like Alexandria are structured to distribute substantially all taxable income to [shareholders](/wiki/stock/) in the form of [dividends](/wiki/dividend/), rather than retain earnings for corporate purposes. This structure defines the REIT business model and shapes how the company returns value to investors.
+The life-sciences real estate sector remains fragmented but increasingly dominated by larger, well-capitalized operators. Alexandria competes with smaller regional REITs, private sponsors, and institutional real estate funds for both acquisitions and tenant relationships. Its scale, geographic footprint across multiple biotech clusters, and long track record in the sector provide advantages in sourcing prime development sites and bidding for quality assets. The sector benefits from persistent structural demand: biotech companies, even unprofitable startups, need lab space before they need anything else, and venture capital availability tends to smooth cycles. Real-estate-focused investors who believe life sciences and biotech innovation will remain growth drivers often view Alexandria as a quasi-proxy for that sector's health.
 
-## Where it sits in its industry
-
-Alexandria operates within the broader [real estate investment trust](/wiki/reit/) sector, competing with other REITs that own various property types—office, industrial, residential, and medical. Its distinctive focus is on life sciences properties, a more specialized segment that serves pharmaceutical, biotechnology, and research institutions. This specialization positions the company in a niche market where demand is driven by the growth and operations of life sciences companies rather than general commercial real estate trends.
-
-The company's ability to serve the specific operational and technical needs of life sciences tenants—including laboratory infrastructure, regulatory compliance, and build-to-suit development—differentiates it from generalist commercial real estate owners.
-
-## How to research it
-
-Alexandria files regular [10-K](/wiki/10-k/) annual and [10-Q](/wiki/10-k/) quarterly reports with the [SEC](/wiki/sec-sec/), available through the SEC's EDGAR database. These filings contain detailed information about the company's property portfolio, tenant composition, lease terms, financial performance, and capital allocation strategy.
-
-Investors can examine the company's property holdings by geographic region, tenant industry, and lease maturity schedule to understand portfolio concentration and renewal risks. Tenant quality and diversity—whether the portfolio relies on few major tenants or maintains broad tenant bases—are relevant factors for assessing revenue stability.
-
-The [10-K](/wiki/10-k/) and [10-Q](/wiki/10-k/) documents describe property development activities, capital expenditures, debt levels, and distribution policies, providing the framework for evaluating how the company reinvests in its portfolio and returns cash to shareholders.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Real Estate Investment Trust (REIT)](/wiki/reit/)
-- [10-K Filing](/wiki/10-k/)
-- [Dividend](/wiki/dividend/)
-- [Public Company](/wiki/public-company/)
-- [SEC Filing](/wiki/sec-sec/)
-
-### Wider context
-
-- [Commercial Real Estate](/wiki/commercial-real-estate/)
-- [Real Estate Finance](/wiki/real-estate-finance/)
-- [Sector Investing](/wiki/sector-investing/)
-- [Asset Classes](/wiki/asset-allocation/)
-
-</div>
+At a glance:
+- Largest publicly traded REIT for life-sciences real estate
+- Portfolio concentrated in premium biotech and research hubs
+- Tenant base dominated by pharmaceutical, biotech, and research firms
+- Revenue model built on long-term leases with escalation provisions
+- High occupancy and specialization create pricing power and tenant stickiness
+- Mandatory dividend payout structure; primarily income-focused

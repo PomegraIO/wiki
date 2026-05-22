@@ -1,46 +1,21 @@
 ---
 title: "APPYEA, INC (APYP)"
-description: "APPYEA, INC is a US-traded company with ticker APYP, listed on the stock exchange with SEC CIK 1568969."
+description: "Israeli wearable health company developing digital sleep monitoring and snoring treatment solutions using biofeedback technology."
 keywords:
-  - APPYEA
-  - APYP
-  - public company
-  - US equity
+  - sleep apnea monitoring
+  - wearable health technology
+  - digital health
+  - biofeedback treatment
+  - otc markets
+handwritten: true
 ---
 
-*[APPYEA, INC](/wiki/public-company/) trades under the ticker **APYP** on the [US stock exchange](/wiki/stock-exchange/), operating as a publicly traded enterprise in the American capital markets.*
+AppYea, Inc., founded in 2012, is an Israeli digital health company focused on addressing sleep disorders through wearable and smartphone-based solutions. The company trades over-the-counter (OTC) under the ticker APYP and is currently pursuing a strategic uplisting to a major U.S. exchange while planning a corporate rebranding initiative.
 
-<aside class="wiki-infobox">
+The company's core offering revolves around the AppySleep ecosystem—a suite of products combining wearable hardware and mobile software designed to detect and treat sleep apnea and snoring without invasive equipment. AppySleep LAB operates as a smartphone application that monitors breathing patterns during sleep and identifies sleep apnea episodes using sensor data from a connected wristband. The AppySleep PRO wristband pairs with the app to deliver biofeedback-based treatment, using haptic stimulation to address breathing disruptions and snoring. This non-pharmaceutical approach represents an alternative to traditional continuous positive airway pressure (CPAP) machines and oral appliances, appealing to patients seeking convenience and discretion.
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | APYP |
-| Listing | US-listed; ticker APYP |
-| SEC CIK | 1568969 |
+The commercial pitch centers on accessibility: smartphone-based monitoring means diagnosis can occur in a patient's home environment rather than requiring overnight laboratory sleep studies. The wearable form factor and app-driven interaction model target both consumer wellness seekers and clinical practitioners. However, AppYea operates in a competitive space where established medical device manufacturers, digital health startups, and smartphone-equipped solutions already compete for market share in sleep monitoring.
 
-</aside>
+The company's OTC listing reflects an early-stage operational profile typical of international healthcare device companies seeking capital and U.S. market access. The announced uplisting effort and rebranding to Mellatrix Inc. signal management intent to scale the business and broaden its market positioning. No material shift in operations or product focus has been widely disclosed, suggesting the rebranding is primarily a capital market and investor relations maneuver.
 
-## What the company does
-
-APPYEA, INC is a publicly traded corporation with SEC filings available for research. The company maintains regulatory oversight through the Securities and Exchange Commission, with its filings accessible to investors seeking comprehensive business disclosures.
-
-## Regulatory presence
-
-As a [public company](/wiki/public-company/), APPYEA is subject to periodic reporting requirements and disclosure obligations. Investors can review the company's financial condition and material developments through [10-K](/wiki/10-k/) annual reports and quarterly filings, which form the foundation for fundamental analysis.
-
-## Research framework
-
-For detailed financial and operational analysis, the company's SEC filings provide standardized disclosures covering capital structure, business operations, risk factors, and management discussion. These documents establish an objective baseline for comparing the company against sector peers and historical performance trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Stock](/wiki/stock/)
-- [Public company](/wiki/public-company/)
-- [SEC CIK](/wiki/10-k/)
-
-### Wider context
-- [US stock exchange](/wiki/stock-exchange/)
-- [Equity markets](/wiki/stock/)
-
-</div>
+Investors in OTC-listed companies should be aware that these securities typically carry higher volatility, lower liquidity, and fewer disclosure requirements than U.S. exchange-listed companies. AppYea's Israeli domicile adds currency and geopolitical considerations to the risk profile.

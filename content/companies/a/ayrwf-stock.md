@@ -1,68 +1,31 @@
 ---
 title: "Ayr Wellness Inc. (AYRWF)"
-description: "Multi-state cannabis retail operator and cultivator with U.S.-listed operations; one of the largest publicly traded cannabis companies."
+description: "Multi-state cannabis retailer and cultivator operating medical and adult-use dispensaries across Florida, New Jersey, Ohio, and other markets."
 keywords:
-  - Ayr Wellness
-  - AYRWF
-  - cannabis
-  - retail
-  - cultivation
-  - multi-state operations
+  - cannabis retail
+  - multi-state operator
+  - ayr wellness
+  - dispensary network
+  - marijuana stocks
+  - florida cannabis
+handwritten: true
 ---
 
-*[**Ayr Wellness Inc.**](/wiki/public-company/) (**AYRWF**) is a [U.S.-listed](/wiki/stock-exchange/) cannabis company that operates and cultivates cannabis products through a portfolio of retail dispensaries and growing facilities across multiple states. The company is among the largest publicly traded cannabis operators, generating revenue from both retail sales and wholesale cannabis products.*
+Ayr Wellness is a vertically integrated cannabis operator based in Miami that cultivates, manufactures, and distributes cannabis products through its retail network of branded dispensaries. Founded in 2017, the company built a presence across multiple states including Florida, New Jersey, Nevada, Ohio, Massachusetts, Pennsylvania, and Virginia, operating under the AYR and The Dispensary brand names. Like many cannabis companies, Ayr has navigated significant operational and financial headwinds in recent years as the sector consolidated and regulatory frameworks continued to evolve.
 
-<aside class="wiki-infobox">
+The company's core operations center on controlled-environment cultivation facilities that supply its retail footprint, positioning it as a [public company](/wiki/public-company/) with direct control over its supply chain. This vertical integration model was common among successful early movers in state-legal cannabis markets, though execution and profitability challenges have pressured valuations industry-wide.
 
-|   |   |
-|---|---|
-| **Ticker** | AYRWF |
-| **Listing** | US-listed; OTC Pink Sheets |
-| **SEC CIK** | 1847462 |
-| **Sector** | Consumer Discretionary |
-| **Industry** | Cannabis/Controlled Substances |
-| **Type** | Public Company |
+## Geographic Footprint and Product Portfolio
 
-</aside>
+Ayr's revenue model divides across retail sales channels and wholesale product distribution. Its retail stores carry both proprietary and third-party branded products, with particular focus on high-margin packaged goods and consumables. The company operated retail locations in each of its target states, with Florida historically representing the largest market opportunity given the state's mature medical cannabis licensing framework.
 
-## What the company does
+| Segment | Focus Area | Status |
+|---------|-----------|--------|
+| Cultivation | Indoor farms supplying retail network | Multi-state operations |
+| Retail operations | AYR and The Dispensary branded stores | Core revenue driver |
+| Wholesale | Third-party product distribution | Secondary channel |
+| Branded goods | Packaged cannabis products and consumables | Margin-heavy |
 
-Ayr Wellness operates a diversified cannabis business model focused on retail and cultivation. The company owns and operates branded retail dispensaries under various names, each tailored to local market preferences and regulatory requirements. Through its cultivation operations, Ayr produces cannabis flower, concentrates, edibles, and other cannabis products for both internal retail channels and third-party wholesale distribution.
+The company's challenge, shared across the sector, centers on achieving sustainable profitability amid intense state-level competition, federal regulatory risk (cannabis remains Schedule I federally), and capital constraints. Ayr's financial pressure in recent years—including operational losses and refinancing challenges—reflects broader headwinds facing U.S. cannabis retailers as the market matured and [stock](/wiki/stock/) valuations corrected from pandemic-era highs.
 
-The company's strategy centers on building a strong retail presence in high-value cannabis markets while maintaining vertically integrated supply chains through cultivation. This approach allows Ayr to control product quality, manage margins across the value chain, and develop proprietary brands that appeal to regional consumer bases.
-
-## How it makes money
-
-Ayr Wellness generates revenue primarily from retail cannabis sales conducted through its owned and operated dispensaries. The company earns gross margins from the difference between wholesale product costs (both internal cultivation and third-party purchases) and retail selling prices. A secondary revenue stream comes from wholesale cannabis sales to other licensed retailers and distributors.
-
-Operating expenses include cultivation facility costs, retail labor, rent, marketing, compliance with state and local cannabis regulations, and corporate overhead. Cannabis businesses face federal tax constraints under Section 280E of the Internal Revenue Code, which disallows deductions for cost of goods sold in cannabis businesses, materially affecting net profitability compared to legal consumer goods retailers.
-
-## Where it sits in its industry
-
-The U.S. cannabis industry remains fragmented because cannabis remains illegal under federal law, preventing multi-state operators from achieving the scale possible in federally legal industries. Ayr competes with other multi-state cannabis operators (MSOs) that have pieced together licenses across individual state markets, as well as with numerous smaller regional and single-state cannabis retailers.
-
-Successful cannabis retailers typically prioritize operational efficiency in cultivation and retail, brand recognition within licensed markets, and strategic real estate positioning in high-traffic locations. The industry is sensitive to regulatory changes at both state and federal levels, particularly changes to federal cannabis scheduling, banking access, and state licensing frameworks that determine the total addressable market in each territory.
-
-## How to research it
-
-Start with Ayr's periodic filings with the SEC at the [Securities and Exchange Commission](/wiki/public-company/) website. The [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-k/) filings contain detailed breakdowns of revenue by segment and state, cultivation capacity, retail unit counts, and competitive positioning. These filings also disclose legal risks, including regulatory enforcement actions and federal criminal liability exposure.
-
-Press releases and earnings call transcripts provide management commentary on expansion plans, cultivation yields, retail foot traffic, and competitive dynamics. Trade publications covering the cannabis industry offer independent reporting on market trends, licensing activity, and regulatory developments. State cannabis regulatory agencies publish licensing data and enforcement records that affect operational risk.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [/wiki/cannabis-regulation/](/wiki/cannabis-regulation/)
-- [/wiki/section-280e/](/wiki/section-280e/)
-- [/wiki/multi-state-operator/](/wiki/multi-state-operator/)
-- [/wiki/controlled-substances-compliance/](/wiki/controlled-substances-compliance/)
-
-### Wider context
-
-- [/wiki/consumer-discretionary-sector/](/wiki/consumer-discretionary-sector/)
-- [/wiki/public-company/](/wiki/public-company/)
-- [/wiki/retail-operations/](/wiki/retail-operations/)
-- [/wiki/vertical-integration-strategy/](/wiki/vertical-integration-strategy/)
-
-</div>
+Investors researching AYRWF should examine its regulatory filings via the [10-K](/wiki/10-k/) to understand current operational scope, real estate holdings, debt structure, and any restructuring developments, as the cannabis sector remains highly state-dependent and subject to rapid policy shifts.

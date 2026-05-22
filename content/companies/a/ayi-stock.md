@@ -1,65 +1,27 @@
 ---
 title: "ACUITY INC. (DE) (AYI)"
-description: "Delaware-incorporated designer and supplier of advanced optical systems, lighting components, and imaging technologies for industrial and commercial applications."
+description: "Industrial technology leader in lighting, building controls, and intelligent spaces. Makes commercial and architectural lighting fixtures, controls systems, and IoT platforms for buildings."
 keywords:
-  - ACUITY INC
-  - AYI
-  - optical systems
-  - lighting technology
-  - industrial supplier
+  - lighting manufacturer
+  - building automation
+  - intelligent spaces
+  - electrical equipment
+  - industrial technology
+handwritten: true
 ---
 
-*[ACUITY INC. (DE)](/wiki/stock/) (ticker **AYI**) is a [US-listed](/wiki/public-company/) supplier of advanced optical systems, lighting components, and imaging technologies serving industrial, commercial, and specialized markets.*
+## What does Acuity actually make?
 
-<aside class="wiki-infobox">
+Acuity Brands is an industrial technology company built on commercial and architectural lighting. The company manufactures luminaires (light fixtures) under a portfolio of brands including Lithonia Lighting, Holophane, Peerless, Gotham, Juno, and others. Beyond fixtures, it produces lighting controls and electrical components, serving everything from warehouses and offices to data centers and healthcare facilities. Over the past decade, the company has transformed itself from primarily a lighting manufacturer into a builder of intelligent building systems—bundling fixtures, controls, and software platforms that let building managers monitor and optimize space usage in real time.
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | AYI |
-| Listing | [US-listed](/wiki/stock-exchange/); ticker AYI |
-| SEC CIK | 1144215 |
-| Sector | Industrials |
-| Industry | Optical Instruments & Lenses |
-| Type | [Public company](/wiki/public-company/) |
+## Where does the revenue come from?
 
-</aside>
+Acuity runs two segments that divide its business roughly by how customers buy from it. The Acuity Brands Lighting segment (ABL) is the traditional core: designing and manufacturing fixtures and controls sold through distributors to contractors and directly to large building owners. That segment generates the majority of revenue. The Acuity Intelligent Spaces segment (AIS) is newer and smaller but faster-growing; it comprises software platforms, occupancy sensors, audio-visual systems, and cloud-based management tools that sit on top of physical infrastructure. AIS is where the company is betting on higher-margin, recurring revenue streams as buildings move toward connected systems.
 
-## What the company does
+## Why does Acuity matter in its market?
 
-ACUITY INC. (DE) designs and manufactures optical and imaging systems used in demanding industrial and commercial environments. The company's product portfolio includes precision optical components, lens assemblies, imaging modules, and integrated optical subsystems. These products are engineered to perform under harsh conditions and exacting requirements, serving markets where reliability and precision are critical.
+Acuity is one of the largest lighting manufacturers in North America and a significant player globally. It captured that position through acquisitions: starting with NSI's purchase of Lithonia Lighting in 1969, then Holophane in 1999, then Juno from Schneider Electric in 2015. The company's scale gives it leverage with distributors and contractors. Its brand portfolio lets it serve diverse customer segments from low-cost commodity fixtures to premium architectural systems. As buildings electrify and upgrade to [LED](/wiki/companies/led-stock/) technology, and as commercial real estate increasingly demands smart building features, Acuity's installed base, relationships, and control over the supply chain position it to capture upgrades and sell into the growing market for building intelligence platforms.
 
-The company's offerings address applications requiring advanced optical performance, including factory automation, machine vision, instrumentation, and specialized imaging. Its products are incorporated into larger systems and equipment manufactured by customers in industries ranging from manufacturing and inspection to medical devices and aerospace-adjacent applications.
+## How should investors think about Acuity's future?
 
-## How it makes money
-
-ACUITY generates revenue primarily through the sale of optical systems, components, and modules to original equipment manufacturers (OEMs) and system integrators. The company operates on a business-to-business model, supplying engineered optical products as components in customer applications rather than selling directly to end consumers.
-
-Revenue streams come from standard product sales, custom-engineered solutions, and volume supply agreements with major customers. The company may also derive revenue from engineering services, design customization, and technical support. Profitability depends on manufacturing efficiency, scale of production, and the company's ability to maintain margins on engineered solutions.
-
-## Where it sits in its industry
-
-The optical components and imaging systems sector is fragmented, with players ranging from large conglomerates to specialized suppliers. ACUITY competes with established manufacturers of optical systems and imaging components, as well as with companies offering integrated vision and sensing solutions.
-
-The company's competitive position is shaped by factors including technical capabilities in optical design and manufacturing, production scale, customer relationships, and the breadth of its product offerings. Success in this industry depends on maintaining engineering expertise, investing in manufacturing processes, and staying responsive to evolving customer requirements.
-
-## How to research it
-
-Key resources for researching ACUITY include its [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings with the SEC, which provide detailed information on business segments, market conditions, financial results, and risk factors. These filings are publicly available through the SEC's EDGAR database and the company's investor relations website.
-
-Industry reports on optical systems, machine vision, and industrial imaging technology provide context for market growth, competitive dynamics, and customer trends. Trade publications covering manufacturing, automation, and instrumentation industries often cover developments affecting suppliers like ACUITY.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [10-K](/wiki/10-k/)
-- [10-Q](/wiki/10-q/)
-- [Public company](/wiki/public-company/)
-
-### Wider context
-
-- [Optical Instruments & Lenses sector](/wiki/optical-instruments-lenses/)
-- [Industrial supplier business models](/wiki/industrial-supplier/)
-- [Original Equipment Manufacturer (OEM) relationships](/wiki/oem/)
-
-</div>
+The company faces the classic problem of a cyclical [capital-goods](/wiki/capital-goods/) manufacturer: earnings swing with construction activity and commercial real estate cycles. But it also holds several structural tailwinds. LED conversion, energy efficiency standards, and building electrification create steady replacement demand. The shift toward intelligent buildings and ESG-focused property management opens a path to software and subscription revenue, historically inaccessible to lighting manufacturers. Acuity's ability to convert its installed base into a captive customer base for controls and software—rather than competing purely on fixture price—is the strategic pivot management is executing. Investors should track both the cyclical demand for traditional lighting and the traction of the AIS segment as indicators of whether that transition is working.

@@ -1,77 +1,32 @@
 ---
 title: "ARVINAS, INC. (ARVN)"
-description: "Biopharmaceutical company specializing in protein degradation technology and targeted protein degradation therapeutics for cancer and other diseases."
+description: "Biotechnology company pioneering protein degradation therapeutics using PROTAC platform technology to target and degrade disease-causing proteins across oncology and neurodegeneration."
 keywords:
-  - arvinas
-  - arvn
-  - biotechnology
   - protein degradation
-  - targeted protein degradation
-  - crbn
+  - protac therapeutics
+  - targeted drug discovery
+  - cancer treatment
+  - biotech
+  - arvinas
+handwritten: true
 ---
 
-*ARVINAS, INC. (ARVN) is a biopharmaceutical company engaged in the discovery and development of therapeutics based on targeted protein degradation, a mechanism that enables selective destruction of disease-causing proteins. The company focuses on oncology and other areas where protein dysregulation contributes to disease.*
+Arvinas is a biopharmaceutical company that has staked its entire mission on protein degradation—a radically different approach to drug design compared to decades of pharmaceutical tradition. Rather than developing molecules that merely inhibit or block a protein's function, the company engineers therapeutics that actually cause disease-causing proteins to be marked for destruction and removed by the body's natural cellular waste disposal system. This mechanism, built on their proprietary PROTAC (PROteolysis TArgeting Chimera) platform, works by bringing together the offending protein and an E3 ubiquitin ligase, two molecules that would normally never meet, triggering a chain of events that sends the target protein to the proteasome for degradation. The approach is particularly valuable for addressing proteins long dismissed as "undruggable"—proteins with shapes or binding properties that made traditional inhibition strategies impossible.
 
-<aside class="wiki-infobox">
+The company has moved beyond pure platform validation. In partnership with Pfizer, Arvinas brought VEPPANU (vepdegestrant) to FDA approval for estrogen receptor-positive, HER2-negative breast cancers driven by ESR1 mutations—marking the first-ever FDA green light for a PROTAC-based drug and demonstrating to the market that protein degradation is no longer theoretical. This achievement fundamentally changed how investors and pharmaceutical executives view the technology, shifting it from "interesting research" to "real therapeutics."
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ARVN |
-| **Listing** | US-listed; ticker ARVN |
-| **SEC CIK** | 1655759 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceuticals |
-| **Type** | Public company |
+## Pipeline and Therapeutic Areas
 
-</aside>
+Arvinas has expanded beyond breast cancer into multiple cancer types and neurological conditions, each presenting different scientific and commercial challenges. The company's portfolio reflects both near-term clinical-stage programs and longer-horizon bets on proteins that have resisted conventional drug approaches.
 
-## What the company does
+| Program | Target | Disease Area | Development Stage |
+|---------|--------|-------------|-------------------|
+| VEPPANU (vepdegestrant) | ESR1 | ER+ breast cancer | FDA approved (launched) |
+| ARV-102 | LRRK2 | Parkinson's disease | Phase 1 (brain-penetrant) |
+| ARV-806 | KRAS G12D | Oncology | Preclinical/IND-ready |
+| Additional programs | Multiple targets | Various indications | Early preclinical |
 
-Arvinas develops therapeutics that induce the degradation of specific disease-causing proteins using a technology platform called proteolysis-targeting chimeras (PROTACs). This approach differs from traditional drug design by targeting proteins for destruction rather than merely inhibiting their function. The company's platform enables the creation of molecules that recruit disease-causing proteins to the cell's natural protein destruction machinery, triggering their elimination.
+The neurological programs, particularly ARV-102 for Parkinson's disease targeting the LRRK2 mutation, showcase the platform's versatility. These medicines must cross the blood-brain barrier—a feat that requires both PROTAC chemistry innovation and pharmaceutical expertise many companies lack. The KRAS G12D program represents one of oncology's most ambitious scientific targets, one that has consumed billions in research across the industry with limited success until protein degradation approaches emerged as potentially viable.
 
-The mechanism operates through a novel class of molecules that simultaneously bind both a disease target protein and an E3 ubiquitin ligase component, bringing them into proximity. This proximity trigger initiates a chain reaction that marks the target protein with ubiquitin, directing it to the proteasome for degradation. This approach can address proteins previously considered "undruggable" through conventional inhibition methods, opening new therapeutic avenues.
+Arvinas operates in a deeply competitive biotechnology landscape where intellectual property, scientific talent, and clinical execution determine outcomes. Patent protection around PROTAC chemistry gives the company a window before competitors with similar approaches commercialize. However, that window is limited; multiple companies have entered the protein degradation space, and the regulatory bar for next-generation programs will be raised by VEPPANU's approval. The company's ability to move programs through clinical development efficiently, secure additional partnership validations, and maintain cash runway through the capital-intensive middle years of drug development will define its long-term trajectory.
 
-## Pipeline and focus areas
-
-The company's development pipeline spans oncology and select non-oncology areas. Its lead programs have targeted proteins implicated in cancers where current therapies face resistance or intolerance challenges, including breast cancer and prostate cancer. Arvinas has partnered with major pharmaceutical companies to expand its pipeline and validate its platform in additional therapeutic areas.
-
-The company has pursued both discovery partnerships and clinical development programs, advancing compounds through various stages of preclinical and clinical evaluation. These collaborations have included licensing arrangements where third parties gain rights to apply the PROTAC technology to their own drug targets.
-
-## Technology foundation
-
-The PROTAC platform represents a fundamental shift in drug design philosophy. Rather than competing with intracellular abundance to merely block protein-protein interactions, targeted protein degradation achieves irreversible removal of the target. This can potentially overcome resistance mechanisms where cancer cells produce more of a target protein to compensate for inhibition.
-
-The platform requires computational expertise to predict how molecules will interact with both target proteins and E3 ligase components. Arvinas has built capabilities in cell biology, medicinal chemistry, and structural biology to support rational PROTAC design.
-
-## Competitive positioning
-
-Arvinas operates in a field where multiple biotechnology companies pursue protein degradation approaches. The competitive landscape includes other companies developing PROTACs and alternative modalities like molecular glue degraders. Success depends on developing compounds with appropriate pharmacokinetic properties, cellular potency, and favorable safety profiles—challenges that require advanced chemistry and preclinical validation.
-
-The company's differentiation rests on its patent estate covering PROTAC technology, its scientific team's expertise, and the validation of its approach through partnerships with established pharmaceutical companies. However, the sector faces typical risks associated with drug development, including clinical trial failures and regulatory setbacks.
-
-## How to research it
-
-Investors examining Arvinas should review its [/wiki/10-k/] annual report and [/wiki/10-q/] quarterly filings with the SEC, which detail pipeline status, partnership agreements, and financial position. The company's investor relations website typically provides presentations on its technology, clinical progress, and strategic direction.
-
-Key metrics to monitor include clinical trial results for lead programs, partnership announcements (which signal validation from larger players), cash runway given the company's investment-heavy stage, and patent developments. The biopharmaceutical sector requires patience with development timelines, and clinical trial outcomes—whether positive or negative—drive stock movement more than financial metrics used to evaluate mature companies.
-
-Understanding the science underpinning PROTAC technology benefits any investor; scientific publications and conference presentations from company researchers provide insight into the state of the platform and potential next-generation improvements.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [/wiki/biotechnology/](/wiki/biotechnology/)
-- [/wiki/protein-degradation-therapy/](/wiki/protein-degradation-therapy/)
-- [/wiki/protac-therapeutics/](/wiki/protac-therapeutics/)
-- [/wiki/oncology-development/](/wiki/oncology-development/)
-- [/wiki/crbn-stock/](/wiki/crbn-stock/)
-
-### Wider context
-
-- [/wiki/public-company/](/wiki/public-company/)
-- [/wiki/drug-development-stages/](/wiki/drug-development-stages/)
-- [/wiki/pharmaceutical-partnerships/](/wiki/pharmaceutical-partnerships/)
-- [/wiki/clinical-trial-risk/](/wiki/clinical-trial-risk/)
-
-</div>

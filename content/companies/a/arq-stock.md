@@ -1,61 +1,39 @@
 ---
 title: "Arq, Inc. (ARQ)"
-description: "Environmental remediation and carbon capture company serving industrial and energy sectors with emissions reduction solutions and environmental services."
+description: "Cloud-based data backup and recovery software company providing secure archival and disaster recovery solutions for businesses and enterprises."
 keywords:
-  - Arq
-  - ARQ
-  - environmental remediation
-  - carbon capture
-  - emissions reduction
-  - industrial services
+  - cloud backup
+  - disaster recovery
+  - data archival
+  - information management
+  - enterprise software
+  - cybersecurity
+  - business continuity
+handwritten: true
 ---
-
-*[Arq, Inc.](/wiki/arq-stock/) (ARQ) is an environmental remediation and carbon capture company that develops and deploys technology and services to help industrial and energy companies reduce emissions and remediate environmental impacts. The company operates across multiple segments, combining equipment, technology licensing, and service delivery to address hazardous waste management, industrial remediation, and carbon reduction priorities.*
 
 <aside class="wiki-infobox">
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | US-listed; ticker ARQ |
-| SEC CIK | 1515156 |
-| Sector | Industrials |
-| Industry | Environmental Services |
-| Type | [Public company](/wiki/public-company/) |
+**Arq, Inc.**
+
+| Item | Value |
+|------|-------|
+| **Ticker** | ARQ |
+| **SEC CIK** | 1515156 |
+| **Sector** | Software & Data Management |
+| **Status** | Operating |
+| **Primary Business** | Cloud backup and disaster recovery |
 
 </aside>
 
-## What the company does
+## Backup and Recovery Infrastructure
 
-Arq operates in environmental remediation and carbon capture, serving customers across industrial manufacturing, energy production, and waste management sectors. The company provides technology platforms, equipment, and services designed to help enterprises manage environmental liabilities, reduce hazardous waste, and lower their carbon footprint. Its solutions address regulatory compliance requirements and corporate sustainability goals simultaneously.
+Arq is a software company focused on cloud-based backup, recovery, and data archival solutions. The business model centers on providing enterprise and mid-market customers with tools to protect critical data across distributed systems, ensuring business continuity in the event of data loss, ransomware attacks, or catastrophic infrastructure failures. Rather than selling hardware appliances, Arq delivers software that integrates with cloud storage providers and on-premises infrastructure, creating a platform-agnostic approach to data protection. This model allows customers flexibility in choosing underlying storage while paying for Arq's recovery software and management layer. As a [software](/wiki/stock/) company, Arq operates with recurring subscription revenue and software licensing fees, reducing revenue volatility compared to project-based service businesses.
 
-## Core business segments
+The competitive landscape includes established backup vendors, cloud-native recovery platforms, and general-purpose cloud storage providers with built-in backup capabilities. Arq differentiates through ease of deployment, support for hybrid and multi-cloud environments, and granular recovery capabilities. Enterprise customers demand not just backup but rapid recovery time objectives (RTOs) and recovery point objectives (RPOs) that meet strict operational and regulatory standards. The ability to recover individual files, databases, or entire systems quickly determines customer satisfaction and retention. Arq's platform must integrate seamlessly with popular cloud providers, on-premises systems, and emerging infrastructure technologies to remain relevant as customer environments grow increasingly complex.
 
-Arq's operations span remediation services and carbon-reduction technologies. On the remediation side, the company handles contaminated materials and industrial waste through physical and chemical processes. Its carbon-focused division develops and licenses technologies that capture or sequester CO2 from industrial processes or directly from the atmosphere. The company generates revenue through equipment sales, technology licensing fees, and long-term service contracts with industrial customers.
+## Business Model and Risk Factors
 
-## How it makes money
+Subscription and licensing revenue forms the core of Arq's financial structure, with customers paying recurring fees based on data volume backed up, number of users, or systems protected. This creates predictable recurring revenue but also exposes the company to churn risk if customers reduce data protection spending during downturns or migrate to alternative solutions. Implementation and integration services generate additional revenue but require technical resources that introduce service delivery risks and margin pressure. Like all software companies, Arq faces ongoing pressure to invest in product development, maintain security certifications, and keep pace with changing cloud architectures and threat landscapes. Cybersecurity incidents, regulatory changes affecting data protection standards, and competition from well-capitalized cloud providers represent ongoing business risks. The [10-K filing](/wiki/10-k/) details the company's customer concentration, retention metrics, and capital allocation between product development and operational infrastructure, providing visibility into financial health and growth trajectory.
 
-The company earns revenue through multiple channels: equipment sales to customers implementing remediation or carbon capture systems, recurring licensing fees from technology deployments, and service delivery contracts where Arq performs environmental work on customer sites. Contracts with large industrial operators and energy companies provide baseline recurring revenue, while licensing arrangements create long-term cash flows as customers deploy Arq's proprietary technologies at scale.
-
-## Position in its industry
-
-Arq operates at the intersection of environmental remediation and emerging carbon management, competing against both specialized remediation firms and broader industrial services companies entering carbon markets. The business model combines legacy remediation services—a mature, steady market—with newer carbon capture and reduction offerings that align with evolving corporate and regulatory requirements. This dual positioning provides stability from established contracts while capturing exposure to growing demand for emissions reduction solutions.
-
-## How to research it
-
-[Form 10-K](/wiki/10-k/) filings with the SEC provide the company's annual audited financials, detailed segment reporting, and management discussion of market conditions and strategic initiatives. [Form 10-Q](/wiki/10-k/) quarterly reports track operational progress and financial performance between years. SEC filings also disclose customer concentration risk, contract backlog, and competitive positioning. Investor conferences and earnings calls offer management commentary on technology adoption rates, project pipelines, and market opportunities in environmental and carbon services.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Environmental services](/wiki/environmental-services/) industry dynamics
-- [Industrial remediation](/wiki/industrial-remediation/) and compliance
-- [Carbon capture](/wiki/carbon-capture/) technology and markets
-- [Public company](/wiki/public-company/) structure and governance
-
-### Wider context
-- [Sustainability reporting](/wiki/sustainability-reporting/) and ESG disclosure
-- [Industrial sector](/wiki/industrials-sector/) equity dynamics
-- [Regulatory compliance](/wiki/regulatory-compliance/) costs in manufacturing
-- [Energy sector](/wiki/energy-sector/) transition and emissions management
-
-</div>
+The broader market for backup and disaster recovery remains critical infrastructure investment even during economic slowdowns, as data protection is non-discretionary for most enterprises. Growth depends on customer acquisition, expansion of data volumes within existing customers, and retention of the installed base. Arq must balance feature development, pricing competitiveness, and platform evolution to capture share in a market that continues consolidating around fewer, larger providers.

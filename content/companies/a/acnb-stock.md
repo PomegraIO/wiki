@@ -1,68 +1,32 @@
 ---
 title: "ACNB CORP (ACNB)"
-description: "Regional commercial bank providing banking and financial services to individuals and businesses in Pennsylvania and surrounding regions."
+description: "Regional financial services company headquartered in Gettysburg, Pennsylvania, providing banking, wealth management, mortgage services, and insurance across the Mid-Atlantic."
 keywords:
-  - ACNB CORP
-  - ACNB
-  - community bank
   - regional bank
-  - retail banking
-  - commercial banking
+  - community banking
+  - Mid-Atlantic financial services
+  - ACNB
+handwritten: true
 ---
 
-*[ACNB CORP](https://pomegra.io/wiki/companies/a/acnb-stock/) (ticker **ACNB**) is a [public corporation](/wiki/public-company/) that operates as a [community bank](/wiki/community-bank/), providing [commercial banking](/wiki/commercial-banking/) and [retail banking](/wiki/retail-banking/) services. The company's footprint centers on Pennsylvania and neighboring states, serving individuals, small businesses, and larger commercial clients.*
+**ACNB Corporation is a regional financial services holding company operating since 1857**, serving customers across a footprint anchored in south-central Pennsylvania and extending into adjacent Maryland counties. The company combines retail and commercial banking through ACNB Bank, mortgage lending via Traditions Mortgage, and insurance services through ACNB Insurance Services, operating with the character and pricing structure typical of an independent, locally-focused financial institution rather than a national megabank.
 
-<aside class="wiki-infobox">
+The company manages roughly $3.25 billion in assets, positioning it well above the smallest community banks but distinctly below the major national players. This mid-tier scale shapes ACNB's entire operating model: large enough to invest in technology infrastructure and risk management, small enough to maintain local decision-making, compete on relationship banking rather than scale, and retain management autonomy in a consolidation-prone sector. ACNB Bank operates 33 full-service offices concentrated in Adams, Cumberland, Franklin, Lancaster, and York counties in Pennsylvania—the heart of its original territory—plus branches in Baltimore, Carroll, and Frederick counties in Maryland, covering parts of the Mid-Atlantic corridor with strong Gettysburg roots.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACNB |
-| **Listing** | US-listed; ticker ACNB |
-| **SEC CIK** | 715579 |
-| **Sector** | Financial Services |
-| **Industry** | Banking |
-| **Headquarters** | Pennsylvania, USA |
-| **Founded** | 1857 |
-| **Type** | Public Corporation |
+## Banking Operations and Market Position
 
-</aside>
+ACNB's banking arm generates revenue from the classical spreads on deposits and loans, fee income on transaction services, and management of customer relationships. The regional focus creates both advantages and constraints. Local presence and familiarity give ACNB an edge in small-to-medium commercial lending, where relationship depth and local market knowledge matter more than lowest-price bidding. Commercial real estate lending and agricultural lending benefit from this geographic stickiness. Retail customers in its footprint may prefer working with a local institution that they can visit in person and where decisions can be made quickly rather than routed through distant centralized processing.
 
-## What the company does
+The flip side: ACNB faces concentrated geographic risk (a sharp slowdown in south-central Pennsylvania and northern Maryland directly impacts earnings) and competes constantly with larger, better-capitalized banks that can undercut on rate and digital convenience. National banks and online-only lenders poach rate-sensitive depositors. Younger customers increasingly expect seamless digital banking rather than branch proximity. Fee compression from regulatory change and competitive pressure is a persistent industry headwind.
 
-ACNB operates as a traditional community bank, a segment focused on retail and small-to-medium-sized business lending in defined geographic areas. The company accepts deposits from customers and deploys that capital into loans, the primary revenue driver for regional banks. Its service suite includes checking and savings accounts, consumer loans, home mortgages, and business lines of credit.
+## The Traditions Acquisition
 
-## How it makes money
+In 2025, ACNB completed its acquisition of Traditions Bancorp and Traditions Bank, consolidating the Traditions Bank brand and its related Traditions Mortgage division as operating subsidiaries. This acquisition materially expanded ACNB's deposit base and customer footprint, adding scale in Pennsylvania. Integration risk—technology systems, cultural fit, expense rationalization—will shape near-term earnings but also repositions ACNB as a more substantial regional player. Watch how successfully ACNB merges the two organizations while retaining customer relationships.
 
-Like most traditional banks, ACNB generates revenue through [net interest income](/wiki/net-interest-income/)—the difference between what it earns on loans and investments and what it pays on deposits. Additional revenue streams include [fee income](/wiki/fee-income/) from services such as account maintenance, wire transfers, and investment advisory services. The spread between borrowing costs and lending rates is the fundamental economic model.
+## Insurance and Wealth Services
 
-## Where it sits in its industry
+ACNB Insurance Services operates as a licensed insurance agency across 46 states, offering property, casualty, health, life, and disability insurance for personal and commercial clients. This division generates recurring fee revenue tied to customer relationships and insurance premium volumes. Wealth management, trust services, and retail brokerage complement the banking core, converting customer relationships into higher-margin advisory and fiduciary services. These businesses create customer stickiness and cross-sell opportunities but require ongoing compliance expertise and cybersecurity investment.
 
-Community banks occupy a middle ground in the U.S. banking landscape, larger than purely local institutions but smaller than national money-center banks. ACNB competes against regional competitors, national banks' local branches, and non-bank lenders. Community banks typically emphasize relationship banking and local market knowledge, though they face ongoing pressure from scale advantages enjoyed by much larger institutions and changing consumer preferences toward digital banking.
+## Key Research Points
 
-## Capital and regulatory environment
-
-As a [bank holding company](/wiki/bank-holding-company/), ACNB must maintain regulatory [capital ratios](/wiki/capital-ratio/) and submit to regular examination by the Federal Reserve and state banking authorities. Banks operate under strict lending limits, [liquidity requirements](/wiki/liquidity-requirements/), and [reserve requirements](/wiki/reserve-requirements/). Regulatory changes and [interest rate policy](/wiki/interest-rate-policy/) set by the central bank directly influence bank profitability.
-
-## How to research it
-
-Start with ACNB's annual [10-K](/wiki/10-k/) filing on the SEC's EDGAR database, which details assets, deposits, loan composition, and capital ratios. Quarterly [10-Q](/wiki/10-q/) filings provide updated performance. Look for loan loss provisions, non-performing assets, and deposit trends—key health indicators for banks. Peer comparisons against similarly sized regional banks and industry reports from financial analysts supply context.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Banking](/wiki/banking/)
-- [Commercial banking](/wiki/commercial-banking/)
-- [Retail banking](/wiki/retail-banking/)
-- [Net interest income](/wiki/net-interest-income/)
-- [Bank holding company](/wiki/bank-holding-company/)
-
-### Wider context
-
-- [Regional banks](/wiki/regional-banks/)
-- [Financial services sector](/wiki/financial-services-sector/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [Public company](/wiki/public-company/)
-- [10-K](/wiki/10-k/)
-
-</div>
+Review ACNB's [10-K](/wiki/10-k/) for loan composition (concentration in commercial real estate and agriculture), deposit funding sources, net interest margin trends, and loan loss provisions. Assess how the Traditions integration unfolds through quarterly [10-Q](/wiki/10-q/) filings. Examine capital ratios and dividend sustainability given the acquisition and interest rate environment. Compare ACNB's regional competitive position against other mid-sized Mid-Atlantic banks and larger national competitors. Track deposit flows, customer retention, and technology investment as indicators of long-term competitive positioning. Understand ACNB's risk exposure to commercial real estate cycles and regional economic shifts.

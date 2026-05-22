@@ -1,50 +1,31 @@
 ---
 title: "Axe Compute Inc. (AGPU)"
-description: "Technology company providing computing infrastructure and services for artificial intelligence and machine learning applications."
+description: "Pittsburgh-based AI infrastructure and drug discovery company leveraging GPU compute resources for enterprise workloads and pharmaceutical development pipelines."
 keywords:
-  - Axe Compute
-  - AGPU
-  - AI infrastructure
-  - machine learning
-  - GPU computing
-  - cloud computing
+  - gpu compute
+  - ai infrastructure
+  - drug discovery
+  - enterprise ai
+  - nvidia
+  - high-performance computing
+handwritten: true
 ---
 
-*[**Axe Compute Inc.**](/wiki/public-company/) (**AGPU**) is a technology company providing computing infrastructure and services optimized for artificial intelligence and machine learning workloads. The company offers cloud-based access to specialized hardware, platforms, and computational resources used for AI model training and inference.*
+**Axe Compute pivoted from oncology research into enterprise GPU infrastructure, securing a $260M multi-year contract to deploy NVIDIA's latest accelerators.** The company, which rebranded from Predictive Oncology in late 2025, now operates dual business segments: one supplying dedicated GPU clusters for large-scale AI workloads, the other continuing legacy drug discovery services. This shift reflects the broader market realignment toward infrastructure-heavy AI deployment, where raw compute capacity commands premium contracts from corporations scaling their machine learning operations.
 
-<aside class="wiki-infobox">
-**Ticker** | AGPU
-**Listing** | US-listed; ticker AGPU
-**SEC CIK** | 1446159
-**Sector** | Information Technology
-**Industry** | Cloud Computing & AI Infrastructure
-**Type** | Public corporation
-</aside>
+## The Infrastructure Play
 
-## What the company does
+Axe Compute's core growth engine is compute services. In April 2026, the company inked a three-year enterprise contract valued at approximately $260 million to deliver a dedicated cluster of 2,304 NVIDIA B300 graphics processors. This arrangement locks in predictable revenue and establishes Axe as a mid-tier player in the booming AI infrastructure space—positioned above boutique consultancies but below hyperscaler behemoths like AWS and Google Cloud. The company manages the deployment, configuration, and ongoing support of these GPUs, absorbing both the capital cost and operational risk of maintaining specialized hardware for clients who need guaranteed capacity without owning the equipment outright.
 
-Axe Compute develops and operates platforms and infrastructure designed to support artificial intelligence and machine learning applications. The company may provide access to specialized computing hardware (graphics processing units, tensor processing units, or custom silicon), cloud-based services for model training and deployment, and software tools for AI development and management. Customers range from research institutions and software companies to enterprises building AI-driven products and services. The company facilitates efficient utilization of expensive specialized hardware through shared infrastructure and automation.
+## Drug Discovery in the Background
 
-## How it makes money
+The legacy business, Drug Discovery Services, still contributes to the balance sheet but has faded to secondary importance. Originally built on AI-driven predictive oncology—matching patient tumors to therapeutic candidates—this segment remains operational though revenue-light. The 2026 pivot suggests management recognized that pure software-as-a-service drug discovery cannot compete with in-house development at major pharmas; instead, licensing compute power to enterprises running their own AI models proved a more defensible business model with faster cash conversion.
 
-The company generates revenue through cloud service subscriptions, computing resource consumption (metered by compute hours or GPU utilization), licensing of software tools, and potentially professional services such as consulting or custom model development. Operating expenses include hardware procurement and infrastructure maintenance, software development, data center operations, customer support, and sales and marketing. Profitability depends on achieving high utilization rates of expensive hardware, controlling infrastructure costs, and expanding customer base. Gross margins may expand with scale and automation.
+## At a Glance
 
-## Where it sits in its industry
-
-Axe Compute competes in the fast-growing AI infrastructure and cloud computing market alongside large cloud providers (AWS, Google Cloud, Azure) that offer AI services alongside broader infrastructure, as well as specialized AI infrastructure companies. Competitive advantage comes from hardware specialization, software optimization, pricing efficiency, and customer support. The market is characterized by rapid technological change, heavy capital requirements, and consolidation risk. Dominance by large platform providers creates challenges for smaller specialists.
-
-## How to research it
-
-Investors should review the company's [10-K annual report](/wiki/10-k/) and [10-Q quarterly filings](/wiki/10-q/) for revenue composition, customer concentration, utilization metrics, and capital expenditure plans. Industry reports on AI infrastructure demand, GPU pricing, and cloud computing trends provide context. Analyst research covers competitive positioning and technology roadmaps. Press releases and earnings calls discuss new service offerings, customer wins, and strategic partnerships. Understanding infrastructure economics and capital intensity is essential for evaluating long-term profitability.
-
-<div class="wiki-seealso">
-### Closely related
-- [AI infrastructure](/wiki/ai-infrastructure/)
-- [Cloud computing](/wiki/cloud-computing/)
-- [Machine learning](/wiki/machine-learning/)
-
-### Wider context
-- [Information technology sector](/wiki/information-technology-sector/)
-- [Technology platforms](/wiki/technology-platforms/)
-- [Stock](/wiki/stock/)
-</div>
+- **Headquarters:** Pittsburgh, Pennsylvania
+- **Rebranding:** Formerly Predictive Oncology; renamed December 2025
+- **Primary Revenue:** Enterprise GPU infrastructure contracts
+- **Largest Contract:** 36-month deal, ~$260M, 2,304 NVIDIA B300 GPUs
+- **Market Cap:** Approximately $27.5M (as of recent data)
+- **Business Model:** Dedicated compute leasing + legacy drug discovery services

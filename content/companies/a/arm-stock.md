@@ -1,70 +1,27 @@
 ---
 title: "ARM HOLDINGS PLC /UK (ARM)"
-description: "UK-based semiconductor intellectual property company designing CPU cores and system architectures used in mobile, computing, and IoT devices worldwide."
+description: "UK-based semiconductor IP company licensing CPU architectures to chip manufacturers worldwide; royalty-driven business powering billions of mobile and embedded devices."
 keywords:
-  - ARM Holdings
-  - ARM
-  - semiconductor design
-  - IP licensing
-  - mobile processors
-  - microprocessor architecture
+  - arm architecture
+  - semiconductor licensing
+  - cpu design
+  - chip architecture
+handwritten: true
 ---
 
-*[ARM Holdings](/wiki/public-company/) (ARM) is a [UK-listed](/wiki/stock-exchange/) semiconductor intellectual property design company that licenses processor cores and system architectures to device manufacturers globally. The company does not manufacture chips itself but instead provides the fundamental blueprints and technology that power billions of mobile phones, tablets, servers, and connected devices.*
+ARM isn't a chip manufacturer—it's the architect. Founded in Cambridge in 1990 as a joint venture between Acorn Computers and Apple, the company licenses its CPU designs to whoever wants to build processors. That simple model turns out to be tremendously valuable. You find ARM architecture in iPhones, Android phones, Qualcomm Snapdragon chips, Apple Silicon Macs, servers, automotive systems, IoT devices, and countless embedded processors. Not the designs themselves—those are proprietary and sold at premium licensing fees—but the fundamental instruction set and core technology that chipmakers build around.
 
-<aside class="wiki-infobox">
+The revenue model is straightforward: initial licensing fees when a partner first adopts ARM technology, then ongoing royalties based on how many chips they ship. A smartphone vendor like Qualcomm, MediaTek, or Samsung exynos team pays to license the architecture, designs their own variation of the processor, manufactures it, and ARM collects a royalty on every unit sold. Apple does this too—licensing ARM's designs and customizing them as A-series and M-series chips. The company benefits from a vast multiplier: each licensed design could ship in tens or hundreds of millions of devices, and ARM's cut scales accordingly.
 
-| Fact | Value |
-| --- | --- |
-| Ticker | ARM |
-| Listing | US-listed; ticker ARM |
-| SEC CIK | 1973239 |
-| Sector | Technology |
-| Industry | Semiconductor IP Design & Licensing |
-| Headquarters | Cambridge, UK |
-| Founded | 1990 |
-| Type | Public Company |
+What makes this defensible is the network effect and the switching cost. Chipmakers have invested years building toolchains, compilers, and development expertise around ARM. Switching to an entirely different architecture—Intel x86, MIPS, RISC-V—means retraining engineers, rewriting software, starting from scratch. ARM's dominance in mobile and now spreading into servers and edge computing creates a gravity well. The Arm Instruction Set Architecture is the de facto standard for power-efficient processors below server scale.
 
-</aside>
+The company went public on the London Stock Exchange in 1998, was acquired by SoftBank in 2016 for approximately USD 32 billion, and returned to public markets in 2023. Ownership remains global: SoftBank retains a meaningful stake, institutional investors hold shares widely, and the stock trades on Nasdaq as well as the London exchange.
 
-## What the company does
+Revenue flows from two buckets:
 
-ARM designs the fundamental instruction sets and processor architectures that form the basis of modern computing devices. Rather than manufacturing chips, ARM licenses intellectual property—primarily processor cores, system-on-chip designs, and architectural specifications—to semiconductor manufacturers who integrate these designs into their own products. This licensing-based model has made ARM a pivotal player in defining the standards for mobile and embedded computing.
+- **Licensing** – designs sold upfront to new customers adopting ARM technology
+- **Royalties** – per-unit fees collected on every chip shipped by licensees
 
-The company's portfolio spans several key areas: the [ARM](/wiki/stock/) instruction set architecture itself, Cortex processor cores for various performance tiers, Mali graphics processing units, and security and systems software. Customers range from major chip designers like Qualcomm and Apple to emerging companies in automotive and Internet of Things sectors.
+Royalties scale with the volume of devices in the market. The more phones, servers, IoT gadgets, and embedded systems that exist, the larger ARM's installed base grows and the more royalties flow in. That creates a high-margin, predictable engine: minimal marginal cost to extend a license to a new partner or expand into new markets.
 
-## How it makes money
-
-ARM's revenue model centers on licensing fees and royalties. The company charges upfront license fees when a customer adopts a new processor core or architecture, then collects ongoing royalties—typically a per-chip basis—for each device shipped containing ARM-designed IP. This creates a highly scalable business where ARM benefits from the growth of its licensees without bearing manufacturing costs or inventory risk. Royalties scale with the massive volume of devices shipped, particularly in smartphones and mobile processors.
-
-Beyond traditional IP licensing, ARM generates revenue from software tools, development support, and ancillary services that help customers implement its designs. The company has been expanding beyond licensing to offer broader silicon design platforms and design services, though licensing remains the core business driver.
-
-## Where it sits in its industry
-
-ARM dominates the mobile and embedded processor design space. It is estimated to power the vast majority of smartphone and tablet processors globally, as well as a significant portion of IoT and automotive chips. The company faces competition in specific segments—Intel in high-performance computing, specialized competitors in automotive, and emerging open-source alternatives—but its architectural dominance in mobile has been difficult to displace.
-
-The semiconductor industry landscape has shifted substantially over decades. ARM's IP-centric, fabless model contrasts with traditional vertically integrated manufacturers. This approach has allowed ARM to scale globally without the capital intensity of manufacturing, making it a critical intermediary between chip designers and device makers. Recent industry consolidation and the rise of custom silicon (as seen with Apple's transition to in-house designs) has prompted ARM to evolve its strategy toward custom silicon support and software-defined architectures.
-
-## How to research it
-
-Start with ARM's annual [10-K](/wiki/10-k/) filing with the [SEC](/wiki/sec-filing/), which details revenue by customer, segment, and geography. The company also publishes quarterly [10-Q](/wiki/10-q/) reports with earnings detail. Investor relations materials on ARM's official website provide strategy updates and segment performance.
-
-Industry research firms track ARM's licensing wins, roadmap progress, and adoption trends. Patent filings and technical architecture announcements indicate the company's R&D direction. Following announcements from major licensees—especially smartphone and chip manufacturers—provides indirect visibility into ARM's growth drivers, since shifts in customer adoption directly impact royalty streams.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Qualcomm](/wiki/qcom-stock/)
-- [NVIDIA](/wiki/nvda-stock/)
-- [Broadcom](/wiki/avgo-stock/)
-- [Semiconductor](/wiki/semiconductor-industry/)
-
-### Wider context
-
-- [Mobile processor design](/wiki/mobile-processors/)
-- [Intellectual property licensing](/wiki/intellectual-property/)
-- [Fabless semiconductor model](/wiki/fabless-design/)
-- [System-on-chip design](/wiki/system-on-chip/)
-
-</div>
+Competition exists—RISC-V is an open, royalty-free alternative gaining traction in some niches—but ARM's entrenchment, design quality, and ecosystem support make displacement slow. The company faces cyclical exposure to semiconductor demand and depends on major licensees like Apple and Qualcomm not vertically integrating away from licensing. But barring major industry reshuffling, ARM's model generates cash as long as silicon-based computing remains central to technology.

@@ -1,59 +1,31 @@
 ---
 title: "Artificial Intelligence Technology Solutions Inc. (AITX)"
-description: "AITX develops and deploys autonomous AI-powered robotic systems for security, surveillance, and facility management applications across diverse customer verticals."
+description: "AITX manufactures mobile AI-powered robots for security, surveillance, and facility management in commercial and institutional environments."
 keywords:
-  - AITX
-  - artificial intelligence
-  - robotics
-  - autonomous systems
-  - industrial automation
+  - mobile robotics
+  - autonomous security
+  - ai surveillance
+  - facility automation
+  - robotics revenue
+handwritten: true
 ---
 
-*[**Artificial Intelligence Technology Solutions Inc.**](/wiki/public-company/) (**AITX**) is a developer and manufacturer of autonomous, AI-powered robotic systems designed for security, surveillance, facility management, and related commercial applications. The company operates in the intersection of [robotics](/wiki/robotics/), [artificial intelligence](/wiki/artificial-intelligence/), and industrial automation, targeting enterprise and institutional customers.*
+Artificial Intelligence Technology Solutions Inc. builds and deploys mobile autonomous robots equipped with computer vision and AI systems for enterprise security and facility management roles. The company operates in the gap between traditional static surveillance systems and large-scale security contractor models, offering movable robotic units that can patrol grounds, monitor perimeters, respond to incidents, and integrate with existing enterprise infrastructure. Its robots are designed to reduce human-dependent security work while maintaining 24/7 operational capability across diverse facility types—corporate campuses, warehouses, parking structures, and municipal properties. The company's position in this nascent market depends on units deployed, recurring subscription adoption, and continuing commercial proof that autonomous systems deliver measurable ROI to customers choosing them over traditional labor-based alternatives.
 
-<aside class="wiki-infobox">
+AITX generates revenue through hardware sales, operating leases, software licensing, and recurring service contracts. A growing portion of its customer agreements shift toward subscription and operational-expense models rather than capital purchases, reflecting the preference of enterprise buyers. Each deployment typically involves on-site integration and customer training, making the pace of scaling dependent on sales capacity and installation velocity rather than pure software distribution. The company competes against both established security contractors diversifying into robotics and purpose-built startup competitors, all facing the same core challenge: proving unit economics and unit retention in a market still defining what autonomous robots should do and where the cost trade-off makes sense.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AITX |
-| **Listing** | US-listed; ticker AITX |
-| **SEC CIK** | 1498148 |
-| **Sector** | Technology |
-| **Industry** | Robotics and Automation |
-| **Type** | Public |
+## Business Streams
 
-</aside>
+The table below summarizes how the company structures its revenue and the strategic importance of each channel:
 
-## What the company does
+| Revenue Stream | Description | Status |
+|---|---|---|
+| **Hardware sales and leases** | Robots sold or placed on operational leases with customers | Core business; primary revenue |
+| **Subscriptions and monitoring** | Cloud-based analytics, remote monitoring, software updates, customer support | Recurring, high-margin expansion area |
+| **Custom development** | Tailored platforms and integrations for specific customer environments | Project-based, higher-value deals |
+| **Partnerships and licensing** | Technology agreements with larger security and automation vendors | Emerging channel; still early-stage |
 
-AITX manufactures and deploys autonomous robotic systems equipped with AI capabilities for real-world operational environments. Its primary product lines include security robots designed for surveillance, threat detection, and facility monitoring. The company's robots integrate computer vision, sensor arrays, and autonomous navigation to perform tasks traditionally requiring human operators. Applications span large-scale facilities such as warehouses, parking structures, office complexes, and industrial sites. The systems are designed to operate continuously and operate in varying environmental conditions while transmitting data and alerts to human operators or integrating with existing security infrastructure.
+The company's financial trajectory hinges on converting deployments into sticky, multi-year contracts and expanding its installed base to amortize R&D costs. In the near term, profitability is secondary to market development and proof of concept; investor focus typically centers on deployment metrics, customer retention, and the emergence of repeatable selling and integration processes that can scale without proportionally scaling headcount and cost.
 
-## How it makes money
+Market dynamics favor AITX if autonomous security systems achieve mainstream commercial acceptance and regulatory frameworks clarify the appropriate uses and oversight of autonomous systems in public and private spaces. The company operates at the frontier of both opportunity and regulatory uncertainty, making its competitive position and growth trajectory highly dependent on industry maturation and customer willingness to trust autonomous systems in roles traditionally held by human workers.
 
-The company generates revenue through multiple channels. Hardware sales constitute the primary revenue stream—customers purchase or lease the robotic systems. The company also earns recurring revenue through software licensing, system support contracts, cloud-based monitoring and analytics services, and maintenance agreements. Customers increasingly prefer subscription or operational expense models rather than capital purchases, and AITX has structured offerings to accommodate this preference. The company also pursues strategic partnerships and integration agreements with larger security and facilities management firms seeking to embed autonomous systems into their service offerings.
-
-## Where it sits in its industry
-
-The autonomous robotics and AI-powered security sector is relatively nascent and fragmented, with AITX competing against both established security firms diversifying into automation and purpose-built robotics startups. Larger conglomerates have acquired or internally developed competing systems, creating competitive pressure on pricing and market access. AITX's positioning emphasizes the early-stage nature of autonomous security robotics adoption; growth depends on customer acceptance, regulatory clarity around autonomous systems deployment, and the company's ability to demonstrate return on investment to commercial clients. The company operates in a space where technology development, go-to-market strategy, and customer education are all critical competitive factors.
-
-## How to research it
-
-The company's [SEC filings](/wiki/10-k/), particularly 10-K annual reports and quarterly 10-Q filings, provide detailed operational disclosures. These documents outline the customer base, deployed unit count, revenue composition, and technology development progress. Quarterly earnings reports and investor presentations disclose deployment metrics and pipeline activity. Patent filings offer insight into the company's core technology areas and competitive differentiation. Industry research on the autonomous security and robotic systems market provides broader context for the company's growth prospects and competitive positioning.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [robotics](/wiki/robotics/)
-- [autonomous-systems](/wiki/autonomous-systems/)
-- [artificial-intelligence](/wiki/artificial-intelligence/)
-- [computer-vision](/wiki/computer-vision/)
-
-### Wider context
-
-- [technology-sector](/wiki/technology-sector/)
-- [industrial-automation](/wiki/industrial-automation/)
-- [security-systems](/wiki/security-systems/)
-- [enterprise-software](/wiki/enterprise-software/)
-
-</div>

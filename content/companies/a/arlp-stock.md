@@ -1,67 +1,42 @@
 ---
 title: "ALLIANCE RESOURCE PARTNERS LP (ARLP)"
-description: "Coal mining partnership supplying thermal and metallurgical coal to power generation and industrial markets across North America."
+description: "A coal mining master limited partnership, the second largest eastern U.S. coal producer with diversified interests in mining technology and bitcoin."
 keywords:
-  - Alliance Resource Partners
-  - ARLP
-  - coal mining
-  - energy
+  - coal mining partnership
   - master limited partnership
+  - eastern united states coal
+  - mlp coal producer
+handwritten: true
 ---
-
-*[ALLIANCE RESOURCE PARTNERS LP](/wiki/arlp-stock/) (ticker **ARLP**) is a publicly traded [master limited partnership](/wiki/master-limited-partnership/) engaged in the mining and marketing of thermal and metallurgical coal, serving utilities, power plants, and industrial customers across the United States.*
 
 <aside class="wiki-infobox">
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ARLP |
-| **Listing** | US-listed; NASDAQ |
-| **SEC CIK** | 1086600 |
-| **Sector** | Energy |
-| **Industry** | Coal Mining |
-| **Founded** | 1997 |
-| **Type** | Master Limited Partnership |
+**Alliance Resource Partners LP**
+
+**Ticker**: ARLP  
+**Exchange**: NASDAQ Global Select Market  
+**Structure**: Master Limited Partnership  
+**CIK**: 1086600  
+**Founded**: August 1999 (IPO)
+
+**Operations**:
+- 7 underground mining complexes (eastern U.S.)
+- Coal reserves: ~586 million tons
+- Annual production: ~33 million tons
+- River terminal operations
+
+**Diversified Interests**:
+- Matrix Group (industrial/mining products)
+- Bitiki (bitcoin mining)
+- Oil & gas royalties (~70,000 acres)
 
 </aside>
 
-## What the company does
+## Coal Production and Geographic Reach
 
-Alliance Resource Partners operates coal mining operations concentrated in the Eastern and Western coal regions of the United States. The partnership produces both [thermal coal](/wiki/thermal-coal/)—used primarily for electricity generation in power plants—and metallurgical coal for steel production and other industrial applications. Its mines are located in key producing regions including Kentucky, Illinois, and Wyoming, positioning it to serve major utility customers and export markets.
+Alliance Resource Partners is the second-largest coal producer in the eastern United States and the only publicly traded [master limited partnership](/wiki/master-limited-partnership/) focused on coal mining. The company operates seven underground mining complexes that produce roughly 33 million tons annually, sold predominantly to domestic electric utilities (approximately 89 percent) with export markets capturing the remainder. Its substantial reserve base—about 586 million tons of measured reserves plus over 1 billion tons of resources—underpins decades of production capacity. The partnership also operates a river terminal for logistics and holds approximately 70,000 net acres of oil and gas royalty interests, providing revenue diversification beyond thermal coal extraction.
 
-The company's principal operations center on underground and surface mining operations, coal sales, and logistics. By operating multiple mines across geographically diverse regions, Alliance maintains exposure to both domestic power generation demand and international steelmaking industries.
+## Structure and Diversification Beyond Fossil Fuels
 
-## How it makes money
+Operating as a [master limited partnership](/wiki/master-limited-partnership/), ARLP distributes the bulk of its cash flow to unitholders on a quarterly basis, creating a [stock](/wiki/stock/) vehicle with particular tax implications for investors. To hedge exposure to secular coal-demand headwinds, the partnership acquired Matrix Group, which develops and markets industrial, mining, and technology products and services globally, and Bitiki, a bitcoin mining subsidiary. These moves reflect the company's attempt to reduce reliance on thermal coal alone. Investors considering a [master limited partnership](/wiki/master-limited-partnership/) position should review the specific tax treatment—distributions are passed through to unitholders as ordinary income and other items, differing markedly from [common stock](/wiki/common-stock/) dividends. The partnership's [10-K](/wiki/10-k/) filings detail reserve depletion, production costs, and distribution policy on the SEC EDGAR system under CIK 1086600.
 
-Alliance generates [revenue](/wiki/revenue/) from the sale of coal to [utilities](/wiki/utility-stock/), independent power producers, and industrial steelmakers. Pricing is influenced by global commodity markets, regional coal demand patterns, and long-term [supply contracts](/wiki/supply-contract/). The partnership receives cash distributions from its operating subsidiaries and distributes a portion to unitholders as [dividends](/wiki/dividend/).
-
-The company's [cost structure](/wiki/cost-of-goods-sold/) includes mining labor, equipment depreciation, land restoration, environmental compliance, and transportation to end markets. Profitability depends on coal selling prices relative to production costs, transportation expenses, and regulatory compliance spending.
-
-## Where it sits in its industry
-
-Coal mining in the United States has faced structural headwinds from the shift toward renewable energy and natural gas generation. However, metallurgical coal maintains steady demand for steelmaking globally, and coal plants continue to operate across the country despite long-term capacity reductions. Alliance competes with other large producers on cost efficiency, reserve quality, and customer relationships.
-
-As a [master limited partnership](/wiki/master-limited-partnership/) (MLP), Alliance's structure differs from traditional corporations. This form allows for pass-through tax treatment of cash flows to unitholders and has historically attracted income-focused investors, though regulatory scrutiny on fossil fuels affects valuation and capital allocation.
-
-## How to research it
-
-Start with Alliance Resource Partners' [10-K](/wiki/10-k/) filings and quarterly [10-Q](/wiki/10-q/) reports on the SEC EDGAR system (CIK 1086600), which detail mining volumes, coal prices realized, regional demand, and cost metrics. Review historical cash distributions and the unitholder structure to understand how the partnership allocates cash.
-
-Track industry reports on thermal and metallurgical coal demand, regulatory developments affecting coal plants, and commodity coal pricing benchmarks. Compare operating margins and reserve life to other publicly traded coal producers. Monitor earnings calls for management commentary on contract backlogs, mine productivity, and capital spending.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Thermal coal](/wiki/thermal-coal/)
-- [Metallurgical coal](/wiki/metallurgical-coal/)
-- [Master limited partnership](/wiki/master-limited-partnership/)
-- [Coal mining](/wiki/coal/)
-- [10-K](/wiki/10-k/)
-
-### Wider context
-- [Fossil fuels](/wiki/fossil-fuels/) and energy transition
-- [Commodity pricing](/wiki/commodity-price-hedging/)
-- [Utilities sector](/wiki/utility-stock/)
-- [Supply contracts](/wiki/supply-contract/)
-
-</div>

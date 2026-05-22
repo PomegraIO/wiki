@@ -1,66 +1,31 @@
 ---
 title: "Atacama Resources International, Inc. (ACRL)"
-description: "Mining exploration and development company focused on identifying and developing mineral resource projects in South America."
+description: "OTC micro-cap mineral exploration company focused on gold, lithium, cobalt, and rare earth metals across Canadian claims."
 keywords:
-  - Atacama Resources International
-  - ACRL
-  - mining exploration
-  - mineral resources
-  - South America
-  - resource development
+  - mineral exploration
+  - mining claims
+  - rare earth elements
+  - otc micro-cap
+  - junior mining
+handwritten: true
 ---
 
-*[Atacama Resources International, Inc.](https://pomegra.io/wiki/companies/a/acrl-stock/) (ticker **ACRL**) is a [public corporation](/wiki/public-company/) operating in [mineral exploration](/wiki/mineral-exploration/) and development. The company identifies, evaluates, and develops [mining](/wiki/mining/) projects targeting valuable mineral deposits, with operations focused on South American jurisdictions.*
+**Atacama Resources International is a mineral exploration and claim development company, not a producing mine operator.** The firm, headquartered in Orlando, Florida, holds exploration properties and mining claims in Canada, targeting multiple commodity types including gold, cobalt, lithium, rare earth metals, silver, nickel, graphite, and diamonds. Trading on over-the-counter markets rather than a major exchange, Atacama operates at the very early stage of mining—identifying geological prospects and assembling claim packages rather than extracting ore.
 
-<aside class="wiki-infobox">
+The company was incorporated in 2013, originally as Arrakis Mining Research Inc., before rebranding to Atacama Resources International in January 2015. This name shift reflected a strategic reorientation, though the core business model remained constant: accumulating Canadian mineral claims and conducting exploration work to evaluate their potential. Like many junior exploration vehicles, Atacama functions with limited cash, relying on [equity](/wiki/equity-offering/) issuance to fund field work and claims administration.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACRL |
-| **Listing** | US-listed; ticker ACRL |
-| **SEC CIK** | 1584618 |
-| **Sector** | Materials |
-| **Industry** | Mining Exploration & Development |
-| **Type** | Public Corporation |
+The diversified commodity portfolio—spanning precious metals, battery materials, industrial minerals, and speculative stones—reveals a claim-collecting strategy rather than a focused development program. Gold and silver attract traditional investors; lithium and cobalt appeal to those betting on electric vehicle and battery demand; rare earths target industrial and defense applications; graphite and diamonds represent smaller side bets. In practice, the company's fortunes depend on metal prices, whether the underlying claims contain economically viable deposits, and the availability of capital to continue exploration work.
 
-</aside>
+Mining explorers operate in a risky business model: most claims never develop into producing mines. Anaconda must locate and prove mineral deposits of sufficient size and grade to justify mining costs, navigate host-country permitting and environmental requirements, and maintain access to capital. The OTC listing signals both the company's early-stage status and its limited institutional appeal. Shareholders essentially hold a portfolio of geological lottery tickets.
 
-## What the company does
+**Claim Portfolio Overview**
 
-Atacama Resources engages in [mineral exploration](/wiki/mineral-exploration/), an activity focused on identifying new mineral deposits and evaluating their economic viability for commercial extraction. The company acquires exploration rights to properties, conducts geological surveys, drilling, and sampling to assess mineral presence and quantity. Once resources meet development criteria, the company may move to project development and eventual production phases.
+| Commodity Group | Primary Types | Development Angle |
+|---|---|---|
+| Precious metals | Gold, silver | Established demand; classic hedges |
+| Battery & EV | Lithium, cobalt | Growth bet on electrification |
+| Industrial | Nickel, graphite | Infrastructure and manufacturing |
+| Rare earths | REE complex | Defense and tech dependency |
+| Speculative | Diamonds | Niche; lower focus |
 
-## Exploration-stage business model
-
-Mineral exploration companies are typically pre-revenue or early-stage operations funded through [equity offerings](/wiki/equity-offering/) and occasionally [debt](/wiki/debt-financing/). Exploration is speculative; most properties never reach economic production. Success requires finding deposits with sufficient grade and size to justify mining operations, favorable geology reducing development costs, and supportive regulatory environments in target countries.
-
-## Geographic and commodity focus
-
-Atacama's South American focus exposes the company to specific regional factors: geologic characteristics of the Atacama region, regulatory stability in host countries, labor availability, and infrastructure. The company targets specific commodities—copper, lithium, gold, or others—based on geological potential and market demand. [Commodity prices](/wiki/commodity-pricing/) directly influence investment returns; extraction economics depend on the cost of mining relative to commodity market values.
-
-## Permitting and regulatory environment
-
-Mining exploration and development depend on obtaining exploration concessions, environmental permits, and social licenses from local communities. Regulatory approval timelines and requirements vary significantly by country. Environmental standards, indigenous land rights, and political stability in South America are material considerations for project development. Government policy changes regarding mining or commodity exports affect project viability.
-
-## How to research it
-
-Review Atacama Resources' annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC's EDGAR database. Evaluate the property portfolio by location, commodity, and development stage. Study geological reports and assay results for exploration properties. Assess cash position and financing needs, critical for pre-revenue exploration firms. Monitor relevant commodity prices and market demand. Compare against peer mineral exploration companies and analyze political and regulatory developments in South America.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Mineral exploration](/wiki/mineral-exploration/)
-- [Mining](/wiki/mining/)
-- [Resource development](/wiki/resource-development/)
-- [Commodity pricing](/wiki/commodity-pricing/)
-- [Mining permits](/wiki/mining-permits/)
-
-### Wider context
-
-- [Materials sector](/wiki/materials-sector/)
-- [Exploration risk](/wiki/exploration-risk/)
-- [South American mining](/wiki/south-american-mining/)
-- [Equity financing](/wiki/equity-financing/)
-- [Public company](/wiki/public-company/)
-
-</div>
+For those researching Atacama, [10-K](/wiki/10-k/) filings disclose claim holdings, cash position, and management's exploration priorities. OTC market transparency lags major exchanges, making detailed due diligence harder. Commodity price trends and Canadian regulatory changes are material to valuation.

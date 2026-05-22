@@ -1,75 +1,19 @@
 ---
 title: "Airsculpt Technologies, Inc. (AIRS)"
-description: "Provider of minimally invasive fat removal and body contouring technology; develops and markets aesthetic body shaping procedures using air technology."
+description: "Medical aesthetics company specializing in minimally invasive body contouring using proprietary air technology; operates treatment centers and licenses technology to practitioners."
 keywords:
-  - Airsculpt
-  - AIRS
+  - medical aesthetics
   - body contouring
-  - aesthetic medicine
   - minimally invasive
-  - cosmetic surgery
+  - fat removal
+  - proprietary technology
+  - cosmetic procedures
+handwritten: true
 ---
 
-*[Airsculpt Technologies, Inc.](https://www.airsculpt.com/) (**AIRS**) is a medical aesthetics company specializing in minimally invasive body contouring and fat removal procedures. The company offers branded AirSculpt treatments, a proprietary technology platform designed to remove and sculpt body fat with reduced downtime and precision compared to traditional liposuction.*
+**Airsculpt Technologies is a medical aesthetics company that manufactures and operates proprietary body contouring technology and branded treatment centers**. The company's flagship product, AirSculpt, is a minimally invasive fat removal and body sculpting system that uses patented pneumatic technology (air pressure rather than traditional ultrasound or tumescent fluid) to remove and reposition fat. The system is deployed at Airsculpt-branded treatment centers and, through licensing agreements, at partner aesthetic clinics and practices across the United States. The company positions itself in the premium segment of the cosmetic body contouring market, emphasizing faster recovery times and higher precision compared to conventional surgical liposuction.
 
-<aside class="wiki-infobox">
+Airsculpt's revenue model combines two streams: procedural revenue from AirSculpt treatments performed at company-operated treatment centers and partnership fees or licensing arrangements with third-party medical practices. This hybrid approach allows the company to monetize both direct patient care and technology licensing. Procedures are primarily paid out-of-pocket by consumers or financed through medical lending, as cosmetic body contouring is not covered by insurance. Revenue per procedure is substantial, given the premium positioning of the brand and the discretionary nature of aesthetic services. Operating performance depends on the number of active treatment centers, patient volumes per location, pricing in regional markets, and the expansion of licensed partnerships. The company operates directly in a B2C manner through its branded centers while also functioning as a B2B technology licensor to independent practitioners.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AIRS |
-| **Listing** | US-listed; ticker AIRS |
-| **SEC CIK** | 1870940 |
-| **Sector** | Healthcare |
-| **Industry** | Medical Aesthetics & Cosmetic Devices |
-| **Headquarters** | Unknown |
-| **Founded** | Unknown |
-| **Type** | Public Company |
+Airsculpt competes within the broader aesthetic medicine and cosmetic device sector, which includes established surgical liposuction platforms, newer laser-assisted and radiofrequency technologies, and non-invasive fat reduction methods like cryolipolysis. The company's differentiation strategy relies on the perceived clinical advantages of its air technology, brand recognition, and the appeal of minimally invasive procedures with reduced downtime. The aesthetic medicine market has experienced sustained growth as cosmetic procedures have become more socially accepted and more accessible to consumers, particularly younger demographics. However, the market remains cyclical with [discretionary spending](/wiki/discretionary-spending/) and sensitive to economic confidence. Competitive intensity is high, both from established device manufacturers entering the aesthetic market and from emerging platforms claiming technological innovation. Investors assessing Airsculpt typically monitor treatment center expansion, patient volumes, average revenue per procedure, licensing deal activity, and market share trends in body contouring relative to competing modalities. Like other aesthetic technology companies, Airsculpt faces risks including intellectual property challenges, FDA regulatory developments, and shifts in consumer preferences toward alternative procedures or non-invasive options.
 
-</aside>
-
-## What the company does
-
-Airsculpt Technologies operates a network of aesthetic treatment centers and develops proprietary technology for body contouring procedures. The company's core offering is AirSculpt, a brand and technology platform that uses pneumatic and mechanical principles to remove and reposition fat. Unlike traditional liposuction, which relies on ultrasound or vibration, AirSculpt technology uses controlled air pressure to target fat cells with precision. The procedure aims to minimize trauma to surrounding tissue, reduce bruising and swelling, and allow faster recovery compared to conventional surgical body contouring methods.
-
-The company markets its services primarily in the United States through company-operated treatment centers, positioning itself in the premium aesthetics segment. The typical patient profile includes individuals seeking body sculpting for cosmetic rather than reconstructive purposes.
-
-## How it makes money
-
-Airsculpt generates revenue from two primary sources: procedural revenue from AirSculpt treatments performed at company-operated centers, and technology licensing or partnership arrangements if applicable. The company operates on a direct-to-consumer model, marketing its branded treatment centers and procedures to cosmetic surgery patients. Procedural services are typically paid out-of-pocket or through medical financing arrangements, as cosmetic procedures are not covered by insurance.
-
-Revenue per procedure can be significant, as cosmetic body contouring treatments are discretionary high-ticket services. Operating margins depend on the efficiency of center operations, patient volume, and pricing power in local markets.
-
-## Where it sits in its industry
-
-The aesthetic medicine and cosmetic device sector includes both established players in surgical equipment and newer brands offering branded treatment platforms. Competitors include traditional liposuction providers, laser-based body contouring platforms, and non-invasive fat reduction technologies using heat, cold, or radiofrequency mechanisms.
-
-Airsculpt differentiates itself by claiming superior precision, reduced downtime, and a brand-focused approach rather than distribution solely through equipment sales. Its strategy emphasizes branded centers and direct patient relationships rather than selling equipment to independent practitioners. This positions it closer to healthcare service companies than pure device manufacturers, though its revenue model blends both elements.
-
-The broader aesthetic medicine market continues to grow as cosmetic procedures become more accessible and less stigmatized, particularly among younger demographics. Competition remains intense among both established surgical technology providers and emerging innovation-driven platforms.
-
-## How to research it
-
-Start with the company's [SEC filings](/wiki/10-k/) (Form 10-K annual reports and Form 10-Q quarterly reports), available through the [SEC EDGAR database](https://www.sec.gov/edgar/). These filings detail revenue composition, center-level unit economics, patient volume trends, and competitive positioning.
-
-Key metrics to track include the number of operating treatment centers, average revenue per center, patient volumes, and geographic expansion progress. Investor presentations and earnings call transcripts provide management commentary on market share, pricing trends, and competitive dynamics in aesthetic medicine.
-
-Industry reports on cosmetic surgery trends and consumer spending on aesthetic procedures provide context for patient demand and pricing power. Medical aesthetics industry groups and dermatology conference presentations often discuss emerging technologies and market consolidation trends relevant to the sector.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Public company](/wiki/public-company/)
-- [Medical device company](/wiki/medical-device-company/)
-- [Healthcare sector](/wiki/healthcare/)
-- [10-K](/wiki/10-k/)
-- [SEC filings](/wiki/sec-filings/)
-
-### Wider context
-
-- [Cosmetic and reconstructive surgery market](/wiki/cosmetic-surgery/)
-- [Minimally invasive medical procedures](/wiki/minimally-invasive-surgery/)
-- [Discretionary consumer spending](/wiki/discretionary-spending/)
-- [Medical aesthetics industry](/wiki/medical-aesthetics/)
-
-</div>

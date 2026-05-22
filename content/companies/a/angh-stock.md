@@ -1,58 +1,28 @@
 ---
 title: "Anghami Inc (ANGH)"
-description: "Middle East and North Africa's leading music streaming platform offering digital music distribution and streaming services across the MENA region."
+description: "Middle East and North Africa's leading music streaming platform, offering songs, podcasts, video content, and entertainment across the MENA region."
 keywords:
-  - Anghami
-  - ANGH
   - music streaming
-  - MENA
-  - digital music
+  - mena technology
+  - digital entertainment
+  - middle east media
+handwritten: true
 ---
 
-*[Anghami Inc](/wiki/public-company/) (**ANGH**) is a music streaming and [digital](/wiki/digital-distribution/) platform serving the Middle East and North Africa region. The company operates one of the largest music streaming services in MENA, providing users access to a broad catalog of music with localized content and features tailored to regional preferences.*
+Anghami is the dominant music streaming and digital entertainment platform across the Middle East and North Africa, a region of over 400 million people with little competition at scale. Founded in 2012 and headquartered in Abu Dhabi, the company built the first streaming service tailored to Arabic music preferences while also licensing international catalog. It went public on Nasdaq in 2022 via SPAC merger and trades under ANGH.
 
-<aside class="wiki-infobox">
-| Key Fact | Detail |
-|---|---|
-| **Ticker** | ANGH |
-| **Listing** | US-listed; ticker ANGH |
-| **SEC CIK** | 1871983 |
-| **Sector** | Consumer Discretionary |
-| **Industry** | Digital Media & Entertainment |
-| **Headquarters** | Beirut, Lebanon |
-| **Type** | Public Company |
-</aside>
+The service runs on a freemium model: free tiers supported by advertising, plus paid subscriptions for ad-free listening and offline downloads. Revenue comes primarily from subscriptions and ad placements. The company maintains roughly 100 million songs and podcasts (both Arabic and international) alongside nearly 18,000 hours of premium video, including HBO content licensed for the region.
 
-## What the company does
+**Main offerings:**
+- Music streaming (Arabic and international catalog)
+- Podcasts
+- Music videos
+- Movies and series (including HBO partnerships)
+- Live event ticketing
+- Advertising platform for brands reaching MENA audiences
 
-Anghami operates a freemium music streaming platform that delivers millions of tracks to listeners across the MENA region. The service combines on-demand streaming with curated playlists and personalized recommendations. Beyond streaming, Anghami provides artists and record labels with tools for music distribution, analytics, and monetization. The platform emphasizes regional music discovery alongside major international catalog, reflecting the cultural preferences of its market.
+What makes Anghami defensible is geography and culture fit. The platform has embedded itself in MENA listening habits since before global competitors seriously entered the market. Spotify, YouTube Music, and Apple Music are available but operate as secondary choices. Licensing deals with international majors (Warner, Universal, Sony) give Anghami the content depth required to compete on catalog breadth. The company also benefits from advertising scale—any brand wanting to reach Arab speakers now has a dedicated platform with listening data and demographic targeting.
 
-## How it makes money
+The capital structure has shifted. In late 2025, Anghami converted $55 million of convertible debt into equity, reducing leverage and eliminating future interest or principal payments on that tranche. This move lowers debt pressure and suggests management is either confident in near-term profitability or choosing to reduce financial risk in a competitive environment. The company faces ongoing pressure to expand beyond music (hence movies and series) and to drive higher-margin subscription adoption in a price-sensitive region.
 
-The company generates revenue through multiple streams. Subscription revenue comes from premium users who pay for ad-free listening, offline downloads, and enhanced audio quality. Advertising revenue derives from free-tier users and in-app advertisements. The company also earns licensing fees and revenue-sharing arrangements with record labels and music publishers for distributing and streaming their content to users across the MENA region.
-
-## Where it sits in its industry
-
-Anghami competes in the global music streaming market alongside larger international services like Spotify and Apple Music. However, Anghami maintains a distinct regional focus, functioning as the leading localized streaming platform in MENA with deep integration of Arabic music, regional artists, and culturally relevant content. This regional specialization differentiates it from global competitors that treat MENA as one of many geographic markets. The company operates within the broader digital entertainment ecosystem that includes podcast platforms, video streaming, and other on-demand media services.
-
-## How to research it
-
-Investors and analysts can review Anghami's [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-q/) filings with the [SEC](/wiki/sec-regulator/) for financial performance, user metrics, subscriber trends, and business segment details. The company's SEC filings disclose information on revenue composition, geographic breakdown of listeners, artist payment structures, licensing agreements, and competitive positioning. Earnings releases and investor presentations provide guidance on growth initiatives and strategic priorities. Market research on regional music streaming adoption, internet penetration in MENA, and competitive dynamics completes the research foundation.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Spotify](/wiki/spot-stock/) — Global music streaming platform
-- [Apple Music](/wiki/aapl-stock/) — Apple's streaming service
-- [Music streaming economics](/wiki/digital-distribution/) — Business model overview
-- [Digital media licensing](/wiki/licensing/) — Content rights frameworks
-
-### Wider context
-
-- [Consumer discretionary sector](/wiki/consumer-discretionary/) — Industry classification
-- [Streaming services](/wiki/video-streaming/) — Platform economics
-- [Middle East markets](/wiki/emerging-markets/) — Regional economic trends
-- [Software-as-a-service](/wiki/saas/) — Subscription business models
-
-</div>
+**Related:** [public-company](/wiki/public-company/), [10-k](/wiki/10-k/)

@@ -1,62 +1,30 @@
 ---
 title: "Autodesk, Inc. (ADSK)"
-description: "Software company providing design, engineering, and 3D modeling tools for architecture, construction, engineering, manufacturing, and media and entertainment industries."
+description: "Leading design and construction software company serving architects, engineers, manufacturers, and media professionals worldwide through cloud-based solutions."
 keywords:
-  - Autodesk
-  - ADSK
-  - CAD software
-  - 3D design
-  - digital design
+  - design software
+  - cad platform
+  - architecture-engineering-construction
+  - digital transformation
+  - software-as-a-service
+  - manufacturing
+handwritten: true
 ---
 
-*The **Autodesk, Inc.** (**ADSK**) is a publicly traded software company offering design and engineering platforms used by architects, engineers, manufacturers, and digital creators to design, visualize, and simulate products and buildings.*
+Autodesk is one of the world's largest design and construction software makers, built on a foundation of computer-aided design technology that dates back to the 1980s. The company has transformed from a traditional software seller into a subscription-first cloud platform business serving architects, engineers, construction firms, manufacturers, and digital creators. Its portfolio spans industry verticals—from architectural design to structural analysis, manufacturing simulation, media production, and building information modeling—with products recognized by professionals as category leaders in their respective domains.
 
-<aside class="wiki-infobox">
-| Field | Detail |
-|-------|--------|
-| Ticker | ADSK |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 769397 |
-| Sector | Technology |
-| Industry | Software |
-| Headquarters | San Francisco, California, United States |
-| Founded | 1982 |
-| Type | Public corporation |
-</aside>
+The shift to cloud and subscriptions has reshaped Autodesk's economics and reach. Rather than selling perpetual licenses with periodic upgrades, the company now operates subscription tiers that bundle multiple tools, cloud collaboration features, and real-time data access. This model has deepened customer lock-in, accelerated feature deployment, and created recurring revenue streams, though it has also triggered adoption friction among traditional users accustomed to buying software outright. The company invests heavily in interoperability, allowing products to exchange data and work within larger design ecosystems—a critical requirement when customers depend on Autodesk tools at different stages of a project lifecycle.
 
-## What the company does
+Autodesk's business divides into three main segments, each with distinct customer bases, pricing strategies, and competitive dynamics. Architecture, Engineering & Construction (AEC) remains the largest, targeting the global building and infrastructure industry with tools for modeling, analysis, project management, and real-time collaboration on job sites. Product Design & Manufacturing (PDM) serves industrial designers, manufacturers, and supply-chain teams across automotive, aerospace, and industrial machinery sectors. Media & Entertainment (M&E) caters to film, television, game development studios, and visualization professionals—a segment experiencing robust growth as digital content production accelerates globally.
 
-Autodesk develops software platforms spanning multiple design disciplines. AutoCAD, its flagship product, is the industry standard for computer-aided design (CAD) used by architects and engineers to create 2D and 3D drawings. Revit serves the architecture, engineering, and construction (AEC) industry, enabling building information modeling (BIM) for collaborative design of complex structures. Fusion 360 targets product design and manufacturing. The company also offers specialized solutions for media and entertainment (like Maya for 3D animation and effects), construction management, and infrastructure design. The suite emphasizes connected workflows where teams collaborate across disciplines.
+| Segment | Primary Products | Market Focus |
+|---------|------------------|--------------|
+| Architecture, Engineering & Construction | Revit, AutoCAD, Civil 3D, BIM 360 | Architects, engineers, contractors, infrastructure planners |
+| Product Design & Manufacturing | Fusion 360, Inventor, Nastran | Manufacturers, product designers, supply-chain teams |
+| Media & Entertainment | Maya, 3ds Max, Flame, Arnold | Animation studios, VFX houses, game developers, broadcasters |
 
-## Business model transition
+The company's technology foundation rests on cloud infrastructure, machine learning, and integration middleware. Autodesk has acquired complementary assets over the years—BIM 360 for construction collaboration, Fusion 360 for cloud-native CAD, AnyCAD for data translation—to fill product gaps and accelerate platform consolidation. Generative design, a capability that lets AI suggest optimized solutions within specified constraints, has become a differentiator, appealing to engineers and designers seeking efficiency gains. The shift toward platform interoperability and open standards reflects mounting customer pressure to move data freely between tools and integrate third-party applications, a trend that has driven Autodesk to invest in APIs, industry standards, and developer ecosystems.
 
-Autodesk operates on a subscription-based licensing model rather than traditional perpetual licenses. Customers pay annual or monthly fees for cloud access and updates. This shift, completed over several years, provides recurring revenue and stronger cash flow visibility. The company also generates revenue from cloud services, data analytics, and specialized applications built on its platforms. This recurring revenue model supports higher valuations in capital markets compared to transactional software sales.
+Growth depends on deepening penetration in core verticals and capturing emerging applications—climate resilience simulation in construction, digital twins in manufacturing, and AI-assisted design workflows across all disciplines. Competition persists from free or low-cost alternatives (open-source tools, parametric CAD engines, game engines with free tiers), especially at entry levels, though Autodesk's brand strength, switching costs, and professional-grade feature depth have insulated its market position. The company's longer-term success hinges on executing the subscription transition without alienating legacy customers while proving that cloud-native tools deliver genuine collaboration gains and lower total project costs—a promise that remains partially unproven at enterprise scale.
 
-## Market position and scale
-
-Autodesk holds a dominant position in professional design software. Its products are nearly universal in architecture, engineering, and construction industries, with high switching costs once workflows are established. The company competes with specialized point solutions in specific industries and open-source alternatives in some segments, but few vendors match Autodesk's breadth and integration across disciplines. This competitive moat—combining market share, switching costs, and ecosystem effects—has enabled sustained pricing power.
-
-## Industry trends and drivers
-
-Digitization of architecture, engineering, and construction continues globally. Virtual and remote collaboration tools increase demand for cloud-based design platforms. Sustainability requirements and complex regulatory standards encourage adoption of simulation and analysis tools. Manufacturing companies increasingly use digital twins for product development. These secular trends support Autodesk's growth, though customer acquisition and retention depend on continuous innovation and integration of artificial intelligence and cloud capabilities.
-
-## Geographic and vertical exposure
-
-Autodesk serves customers across North America, Europe, and Asia-Pacific, with significant exposure to the construction and manufacturing cycles in developed economies. AEC software is sensitive to building activity and capital expenditure cycles. Manufacturing software depends on industrial production levels. Geography diversification reduces reliance on any single region, but major market downturns affect multiple segments.
-
-## How to research it
-
-Start with the company's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC EDGAR database. Focus on recurring revenue metrics, subscription retention rates, and customer acquisition costs—these are more meaningful than raw revenue for a subscription model. Read earnings calls for commentary on market penetration, product adoption, and competitive positioning. Examine the company's product strategy documentation for insights into AI integration and emerging capabilities. Benchmark customer acquisition and retention against peers in enterprise software. Follow industry publications on AEC and manufacturing digital transformation trends.
-
-<div class="wiki-seealso">
-### Closely related
-- [Subscription software model](/wiki/subscription-software-model/)
-- [Software-as-a-service](/wiki/software-as-a-service/)
-- [Digital design tools](/wiki/digital-design-tools/)
-- [Building information modeling](/wiki/building-information-modeling/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [Technology sector](/wiki/technology-sector/)
-- [Enterprise software](/wiki/enterprise-software/)
-</div>
+See also: [10-K](/wiki/10-k/) filings, [software-as-a-service](/wiki/software-as-a-service/) economics, [public company](/wiki/public-company/) structures.

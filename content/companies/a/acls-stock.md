@@ -1,58 +1,25 @@
 ---
 title: "AXCELIS TECHNOLOGIES INC (ACLS)"
-description: "A semiconductor equipment manufacturer providing ion implantation and other process solutions for semiconductor fabrication."
+description: "Semiconductor equipment manufacturer specializing in ion implantation systems and process solutions for advanced chip fabrication."
 keywords:
-  - Axcelis Technologies
-  - ACLS
-  - semiconductor equipment
   - ion implantation
-  - semiconductor manufacturing
+  - semiconductor equipment
+  - chip manufacturing
+  - process equipment
+handwritten: true
 ---
 
-*[Axcelis Technologies Inc.](/wiki/public-company/) (ticker **ACLS**) manufactures ion implantation equipment and other specialized process systems for semiconductor fabrication. The company provides critical equipment used in the manufacture of advanced semiconductors by foundries and integrated device manufacturers.*
+Axcelis Technologies manufactures the specialized machinery that semiconductor fabs need to make advanced chips. The company's core expertise sits in ion implantation—a process where electrically charged particles bombard silicon wafers to introduce dopants and create the precise electrical properties needed in modern transistors. Beyond implantation systems, Axcelis provides complementary process equipment and serves a global customer base of foundries and integrated device manufacturers chasing smaller, faster, more power-efficient semiconductors.
 
-<aside class="wiki-infobox">
+The business runs on a classic equipment-maker cycle. Revenue spikes when customers open new fabs or upgrade capacity; it contracts when fabs sit at utilization and buying stalls. Axcelis makes money in three ways: upfront equipment sales (lumpy, high-dollar transactions), spare parts (recurring, margin-rich), and service contracts that bundle technical support and system optimization. The spare-parts and services business is more predictable and profitable, but equipment sales drive the top line and the cycle.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ACLS |
-| Listing | US-listed; ticker ACLS |
-| SEC CIK | 1113232 |
-| Sector | Semiconductors & Equipment |
-| Industry | Semiconductor Equipment |
-| Headquarters | Massachusetts, USA |
-| Founded | 1978 |
-| Type | Public corporation |
+Axcelis competes in a brutally capital-intensive and consolidation-prone sector. Applied Materials and KLA Corporation are much larger, more diversified players. Axcelis' advantage is specialization—it owns deep technical expertise in ion implantation where the larger competitors focus broadly across all process steps. This focus gives it leverage in a niche, but the same focus also means dependence on implantation demand and a smaller addressable market than the titans. Success depends on continuous innovation in process capability, close customer partnerships, and the ability to ride out the semiconductor capex cycle.
 
-</aside>
+**Main equipment and products:**
 
-## What the company does
+- Ion implantation systems (high-current and high-energy implanters)
+- Accompanying process equipment and tools
+- Spare parts and consumables
+- Service, maintenance, and process optimization contracts
 
-Axcelis manufactures ion implantation systems and other process equipment used in semiconductor manufacturing. Ion implantation is a critical step in semiconductor fabrication, where ions are bombarded into silicon wafers to introduce dopants and create specific electrical properties in semiconductor devices. Axcelis also provides ancillary equipment and process solutions for semiconductor manufacturers. Customers include foundries, memory manufacturers, and integrated device manufacturers globally, particularly those producing advanced logic and memory chips.
-
-## How it makes money
-
-Axcelis generates revenue from equipment sales to semiconductor manufacturers and foundries. Revenue is lumpy, depending on customers' capital expenditure cycles and demand for semiconductor manufacturing capacity. The company also earns revenue from spare parts, service contracts, and technical support. Long-term profitability depends on customers' willingness to invest in capital equipment, which correlates with semiconductor demand cycles and industry capacity utilization. Higher-margin business comes from service and spare parts, while equipment sales drive gross revenue.
-
-## Where it sits in its industry
-
-Axcelis competes in the semiconductor equipment market alongside larger, more diversified equipment manufacturers such as Applied Materials and KLA Corporation. The company differentiates through focused specialization in ion implantation and related processes. The semiconductor equipment sector is highly cyclical, dependent on semiconductor industry capital spending, which fluctuates with demand and capacity requirements. Axcelis faces competition from larger integrated equipment providers and from new entrants bringing innovation in process technology.
-
-## How to research it
-
-Axcelis' [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings detail equipment orders, revenue backlog, customer concentration, and gross margins by product line. SEC documents outline the company's technology roadmap and competitive positioning. Investor presentations discuss semiconductor industry trends, wafer fab capacity expansion, and the demand drivers for ion implantation equipment. Semiconductor industry publications track capex spending by foundries and manufacturers, which indicate future equipment demand.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Semiconductor industry](/wiki/semiconductors/)
-- [Semiconductor equipment](/wiki/semiconductor-equipment/)
-
-### Wider context
-- [10-K](/wiki/10-k/) — Annual report filing
-- [10-Q](/wiki/10-q/) — Quarterly report filing
-- [Semiconductor manufacturing](/wiki/semiconductor-manufacturing/)
-- [Capital equipment cycles](/wiki/capital-equipment-cycles/)
-
-</div>
+Research typically starts with the [10-K](/wiki/10-k/) filing, which details backlog, customer concentration, and gross margins by product line. SEC documents and quarterly earnings calls reveal shipment trends, fab utilization signals from customer guidance, and the company's technology roadmap. For broader context, track semiconductor capex forecasts from equipment-spending surveys and industry reports on wafer fab construction pipelines globally.

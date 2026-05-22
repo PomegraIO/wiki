@@ -1,66 +1,23 @@
 ---
 title: "AMERICAN FINANCIAL GROUP INC (AFG)"
-description: "Insurance holding company providing property and casualty insurance, specialty insurance, and workers' compensation coverage to commercial and personal customers."
+description: "Property and casualty insurance holding company operating through Great American Insurance and specialty underwriting subsidiaries."
 keywords:
-  - AFG
-  - insurance holding company
   - property and casualty insurance
+  - insurance holding company
   - specialty insurance
-  - workers compensation
+  - underwriting
+  - investment income
+handwritten: true
 ---
 
-*American Financial Group Inc., trading under the ticker **AFG**, is an insurance holding company providing property and casualty (P&C) insurance and specialty insurance products to commercial and personal customers. The company operates across multiple insurance lines and geographic markets.*
+American Financial Group Inc is a Cincinnati-based insurance holding company that writes property and casualty coverage through a portfolio of operating subsidiaries, with Great American Insurance Group as its flagship. Founded in 1872, AFG has evolved from a regional fire insurance business into a multi-line underwriter serving everything from homeowners and auto to workers' compensation and specialized commercial risks. The company's structure allows it to maintain multiple insurance brands that compete independently while sharing underwriting discipline and investment resources at the parent level.
 
-<aside class="wiki-infobox">
+The underwriting operation turns on careful risk selection and disciplined pricing. Rather than chase market share during soft premium cycles, AFG's management has consistently favored underwriting discipline, even when that meant shrinking exposure. This contrarian stance—profitable but not flashy—has made AFG a compounding machine for long-term holders. The insurer writes a broad book of business spanning personal lines, commercial policies, and specialty coverages (equipment breakdown, inland marine, and other niche segments), which spreads both premium growth and catastrophe risk across multiple pools.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AFG |
-| Listing | US-listed; ticker AFG |
-| SEC CIK | 1042046 |
-| Sector | Insurance |
-| Industry | Property and casualty insurance |
-| Type | Insurance holding company |
+> A quality insurance business compounds through discipline during soft cycles and pricing power during hard ones.
 
-</aside>
+Investment income forms the second pillar of AFG's economics. Like most insurers, AFG holds a substantial [bond](/wiki/bond/) and [stock](/wiki/stock/) portfolio built from float—premiums collected today but not paid out for claims until tomorrow. When interest rates rise and [bond](/wiki/bond/) prices fall, insurance valuations often suffer in the near term because the unrealized losses are marked to market. Yet higher yields on new investment purchases can increase earnings power over a full rate cycle. AFG's management has long taken a patient view of this dynamic, sometimes buying back shares when the market penalizes the [book value](/wiki/book-value-investing/) for a temporary spike in unrealized losses.
 
-## Insurance holding company model
+The company has also entered into strategic ventures beyond traditional underwriting. These include alternative capital initiatives and non-standard auto programs that generate underwriting income with their own risk profiles. Shareholder returns have come through [dividend](/wiki/dividend/) payments, modest and reliable, and periodic share repurchases funded from operating cash flows. Over the decades, AFG's annual returns have compounded at a solid clip, though the path has never been smooth—insurance stocks trade on technical factors (interest rate moves, catastrophe seasons, valuation multiples) as much as on fundamental underwriting profit.
 
-Insurance holding companies own and manage insurance subsidiaries that underwrite policies and pay claims. The parent company provides capital, investment management, and strategic oversight while subsidiaries maintain separate operations and regulatory licenses. This structure allows the holding company to aggregate profits from multiple insurance operations and manage investment assets.
-
-## Property and casualty insurance
-
-P&C insurance, sometimes called general insurance, covers losses to property (buildings, vehicles, equipment) and liability claims (bodily injury, property damage to third parties). AFG operates through multiple insurance subsidiaries providing coverage to commercial customers (business property, commercial general liability, workers' compensation) and personal customers (homeowners, auto insurance). Insurance carriers compete on price, claims service quality, underwriting discipline, and geographic reach.
-
-## Specialty insurance segments
-
-Beyond standard P&C lines, American Financial Group also operates specialty insurance businesses covering niche market segments. Specialty insurance typically commands higher premiums and requires specialized expertise. These segments might include excess and surplus lines, professional liability, environmental liability, or other lines requiring deep underwriting knowledge.
-
-## Insurance industry economics
-
-Property and casualty insurers operate on the insurance "underwriting cycle," where underwriting profitability fluctuates based on competitive conditions and loss experience. During "hard" market phases, price increases exceed losses, driving profitability. During "soft" markets, competition reduces prices while losses accumulate, reducing profitability. Insurers invest premiums collected in fixed income and equity securities, generating investment income that supplements underwriting results.
-
-## Capital and investment management
-
-Insurance holding companies must maintain adequate capital to support underwriting, absorb unexpected losses, and meet regulatory requirements. Capital adequacy is measured through metrics like the risk-based capital (RBC) ratio. Investment management—the allocation of premium reserves and shareholder capital—significantly affects overall returns.
-
-## How to research it
-
-Information about American Financial Group is available through SEC filings including the [10-K annual report](/wiki/10-k/) and [10-Q quarterly reports](/wiki/10-q/), which detail insurance operations by segment, underwriting results, investment portfolio, and capital position. Insurance regulators provide additional information through quarterly financial filings. Credit rating agencies cover the insurance industry and provide assessments of insurer financial strength.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Insurance holding company](/wiki/insurance-holding-company/)
-- [Property and casualty insurance](/wiki/property-and-casualty-insurance/)
-- [Underwriting cycle](/wiki/underwriting-cycle/)
-- [Insurance claims](/wiki/insurance-claims/)
-
-### Wider context
-
-- [Insurance sector](/wiki/insurance-sector/)
-- [Risk management](/wiki/risk-management/)
-- [Loss reserve](/wiki/loss-reserve/)
-
-</div>
+Investors in AFG are essentially buying a group of local and specialty insurance franchises managed by disciplined underwriters, plus a large portfolio of interest-bearing securities, all wrapped in a tax-efficient holding company structure. The value depends not on any single product or geography, but on the collective ability of the underwriting teams to write profitable business and the capital allocators to deploy float wisely. Like all [public company](/wiki/public-company/) insurers, AFG faces underwriting cycles, catastrophe volatility, and changing interest rates—none of which can be forecast, but all of which have been navigated before.

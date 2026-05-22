@@ -1,69 +1,22 @@
 ---
 title: "Xiao-I Corp (AIXI)"
-description: "Chinese AI company developing conversational AI and NLP technologies; US-listed via ADR. Develops chatbots, voice assistants, and enterprise intelligence solutions."
+description: "Chinese conversational AI and NLP company serving enterprises across telecoms, finance, and e-commerce. US-listed via ADR on OTC markets; focuses on chatbot and voice assistant platforms."
 keywords:
   - Xiao-I Corp
   - AIXI
   - artificial intelligence
   - natural language processing
   - conversational AI
-  - Chinese tech
+  - Chinese technology
+handwritten: true
 ---
 
-*Xiao-I Corp, trading as **AIXI** on US exchanges, is a Chinese artificial intelligence company focused on conversational AI and natural language processing technology. The company develops chatbots, voice assistants, and enterprise intelligence platforms serving various industries including telecommunications, healthcare, and customer service sectors.*
+Xiao-I Corp is a Beijing-based artificial intelligence company that builds conversational platforms and natural language processing software for enterprises. The firm trades in the US as an American Depositary Receipt (ADR) under ticker AIXI, making it one of the few publicly traded Chinese AI vendors accessible to Western investors. Its technology targets the mundane but essential work of automating customer interactions—handling support requests, routing inquiries, and extracting meaning from unstructured business conversations at scale.
 
-<aside class="wiki-infobox">
+The company's core offering is a conversational AI platform that understands Chinese-language input and generates contextually appropriate responses across text and voice channels. This sounds simple in the abstract, but requires deep linguistic modeling, dialogue management, and integration with enterprise backend systems. Xiao-I has built this stack over two decades of operation, giving it embedded relationships in telecom networks, financial institutions, and e-commerce platforms across China and increasingly Southeast Asia. Its customers include major carriers and financial services firms that have standardized on its technology for millions of customer interactions annually.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AIXI |
-| **Listing** | US-listed; ticker AIXI |
-| **SEC CIK** | 1935172 |
-| **Sector** | Information Technology |
-| **Industry** | Software—AI and Machine Learning |
-| **Headquarters** | China |
-| **Type** | Public company (via ADR) |
+Revenue comes from recurring cloud subscriptions, tiered by message volume and concurrent user counts, plus custom implementation and integration work. The company also licenses its technology to partners building specialized applications. This mix is typical for enterprise software vendors, though Xiao-I's reliance on the Chinese market and the regulatory uncertainties surrounding AI governance in China create distinct risks compared to Western peers. The company does negotiate multi-year contracts with large customers, providing some revenue visibility, but concentration risk in a single geographic market is real.
 
-</aside>
+Within the conversational AI sector, Xiao-I occupies a middle ground. It lacks the brand reach and engineering breadth of [IBM](/wiki/ibm-stock/) or the cloud infrastructure advantages of hyperscalers, but it holds first-mover credibility in Chinese-language NLP and enjoys relationships across the region's largest telecommunications and financial services operations. Competitors include both global generalist AI platforms and newer Chinese startups, many of which are better capitalized. The emergence of large language models has shifted competitive dynamics—any vendor now faces pressure to integrate newer, more capable foundation models into their products, a costly migration that favors better-funded participants.
 
-## What the company does
-
-Xiao-I Corp develops conversational artificial intelligence platforms and natural language processing (NLP) solutions. The company builds intelligent chatbot systems, virtual assistants, and language understanding technologies used by enterprises to automate customer interactions, improve service delivery, and extract insights from unstructured text data. Its technology stack spans dialogue management, semantic understanding, and machine learning models trained on large text corpora.
-
-The company serves clients in telecommunications, e-commerce, financial services, healthcare, and government sectors. Its platforms handle customer service automation, FAQ resolution, sentiment analysis, and business intelligence applications. Xiao-I has positioned itself in the broader market of AI infrastructure and software serving enterprises in Asia.
-
-## How it makes money
-
-Xiao-I generates revenue through software licensing, cloud-based SaaS subscriptions for its conversational AI platforms, and custom development services. Clients typically pay recurring subscription fees for access to hosted chatbot and NLP services, with tiering based on usage volume, message throughput, or number of concurrent users. The company also provides implementation services, training, and integration support for enterprise customers deploying its technology across call centers and customer-facing applications.
-
-Enterprise contracts often involve multi-year agreements. Revenue flows from a mix of government entities, large corporations, and smaller businesses adopting AI-driven customer service solutions. International expansion and USD-denominated contracts offer exposure to non-China currency revenues, though the company's primary customer base remains domestic.
-
-## Where it sits in its industry
-
-Xiao-I competes in the crowded conversational AI and NLP software market alongside larger global players such as [IBM](/wiki/ibm-stock/), cloud providers, and specialized NLP vendors. Within China, it faces competition from domestic AI startups and technology giants developing similar capabilities. The company differentiates through domain expertise in Chinese language processing (crucial for serving Asian markets), localized customer relationships, and deep integration in telecommunications infrastructure.
-
-The broader [artificial intelligence](/wiki/artificial-intelligence/) sector has attracted significant capital and competition. Xiao-I's position as a publicly traded pure-play conversational AI vendor offers investors focused exposure to enterprise AI adoption, though without the scale or diversification of larger [technology](/wiki/software-stock/) conglomerates. The company's reliance on the Chinese market and regulatory environment presents geopolitical considerations for international investors.
-
-## How to research it
-
-Start with the company's SEC filings, accessible through the [SEC EDGAR database](/wiki/10-k/) using CIK 1935172. The 10-K annual report contains detailed descriptions of the technology, competitive landscape, customer concentration, and financial performance. Pay particular attention to sections on risk factors, as regulatory changes affecting AI in China or ADR structures can materially affect the stock.
-
-Investors should also review the company's [investor relations](/wiki/investor-relations/) website and quarterly earnings call transcripts for management commentary on product development, customer wins, and market opportunity. Consider tracking industry analyst reports on conversational AI adoption rates and competitive positioning. The ADR structure introduces additional risks around currency conversion and the regulatory environment governing US trading of Chinese securities.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [IBM](/wiki/ibm-stock/) — Large multinational with AI and NLP solutions
-- [ADBE](/wiki/adbe-stock/) (Adobe) — Software company with document and content AI
-- [CRM](/wiki/crm-stock/) (Salesforce) — Enterprise software with AI features
-
-### Wider context
-
-- [Artificial intelligence](/wiki/artificial-intelligence/)
-- [Natural language processing](/wiki/natural-language-processing/)
-- [Public company](/wiki/public-company/)
-- [ADR](/wiki/adr/)
-- [Software stock](/wiki/software-stock/)
-
-</div>
+For investors, Xiao-I presents concentrated exposure to enterprise AI adoption in China and Asia-Pacific, without the diversification of larger technology conglomerates. The [ADR](/wiki/adr/) structure introduces currency and custody considerations. The regulatory environment governing AI development and export in China has tightened notably, adding a policy layer to ordinary business risk. Research the company through SEC filings via its [CIK 1935172](/wiki/10-k/), where management discusses product roadmap, customer dynamics, and regulatory headwinds. Earnings calls and investor relations disclosures should clarify how the company is adapting to LLM-based competition and any shifts in customer demand.

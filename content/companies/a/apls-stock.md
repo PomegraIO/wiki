@@ -1,62 +1,30 @@
 ---
 title: "Apellis Pharmaceuticals, Inc. (APLS)"
-description: "Biopharmaceutical company focused on developing and commercializing therapies for systemic and ophthalmic diseases through complement system modulation."
+description: "Biopharmaceutical company focused on complement-cascade therapies for rare immune and ophthalmologic diseases, acquired by Biogen in 2026."
 keywords:
-  - Apellis Pharmaceuticals
-  - APLS
+  - complement cascade
   - biopharmaceutical
-  - complement inhibitors
-  - ophthalmic disease
-  - systemic disease
+  - paroxysmal nocturnal hemoglobinuria
+  - geographic atrophy
+handwritten: true
 ---
 
-*Apellis Pharmaceuticals, Inc.* (**APLS**) is a biopharmaceutical company engaged in the development and commercialization of therapies targeting the complement system, which plays a central role in immune response regulation. The company focuses on both systemic and ophthalmic indications, positioning itself within the specialty pharmaceutical sector.
+## What disease targets drove Apellis forward?
 
-<aside class="wiki-infobox">
+Apellis positioned itself in complement-cascade therapy, a niche within immunology focused on controlling the C3 and C5 pathways that, when overactive, cause severe tissue damage. The company's lead areas spanned blood disorders like paroxysmal nocturnal hemoglobinuria (PNH), eye disease including geographic atrophy secondary to age-related macular degeneration, and kidney conditions such as C3 glomerulopathy and lupus nephritis. This tight focus meant competing against larger players but in markets where existing treatments were limited or ineffective.
 
-| Field | Value |
-|-------|-------|
-| Ticker | APLS |
-| Listing | US-listed; ticker APLS |
-| SEC CIK | 1492422 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Type | Publicly traded corporation |
+## How did Apellis build its product pipeline?
 
-</aside>
+The company's core asset was EMPAVELI (pegcetacoplan), an intravenous C3 inhibitor initially developed for PNH and later pursued in renal indications. SYFOVRE, a subcutaneous C3 inhibitor delivered to the eye, targeted geographic atrophy—a blind spot in ophthalmology for years. Apellis also advanced APL-3007, a siRNA targeting factor B, meant to offer a new modality in the same disease space. Each therapy represented a bet that blocking different points in the complement cascade would prove safer or more effective than rival approaches from competitors already in the [stock](/wiki/stock/) market.
 
-## What the company does
+## Who were the typical patients and payers?
 
-Apellis develops complement-based therapies, targeting the complement cascade—a component of the innate immune system involved in inflammation and cell destruction. The company's approach centers on selective inhibition of complement pathways to prevent tissue damage in various diseases. Its pipeline encompasses candidates addressing retinal diseases, systemic inflammatory conditions, and related disorders where complement dysregulation contributes to pathology.
+These were rare-disease patients, many orphaned by earlier drug development. PNH affects perhaps a few thousand people in developed markets; geographic atrophy affects tens of thousands but had zero disease-modifying therapies until Apellis arrived. Payers—government insurers and private plans—faced pressure to cover new options after decades of unmet need. This rarity, paradoxically, created both advantage and constraint: smaller patient pools meant less competition but also lower peak revenue ceilings and slower uptake.
 
-## Pipeline and therapeutic focus
+## What ended the independent story?
 
-The company's clinical programs target diseases with significant unmet medical needs where complement inhibition offers a rational therapeutic approach. Key areas of focus include geographic atrophy and other age-related macular degeneration phenotypes, as well as other ophthalmologic and systemic conditions. The company evaluates both early-stage and clinical-stage assets for their potential to address patient populations where current treatment options are limited.
+Biogen acquired Apellis for approximately $5.6 billion ($41 per share in cash) and completed the deal in 2026. The acquisition reflected Biogen's ambition to deepen its immunology footprint and expand into nephrology. For Apellis shareholders, the deal marked the end of an independent run; for patients and the market, it meant Apellis products would now be integrated into Biogen's rare-disease and ophthalmology commercial infrastructure, potentially accelerating uptake of SYFOVRE and expanding EMPAVELI's renal program under a larger organization's development budget.
 
-## Regulatory and commercial landscape
+## Where does Apellis sit in its therapeutic class?
 
-As a specialty biopharmaceutical company, Apellis operates within the FDA's regulatory framework for small-molecule and potentially biologic therapeutics. The company pursues approvals through standard and potentially accelerated pathways, depending on the disease indication and clinical evidence. Its commercial strategy focuses on targeted markets with defined patient populations and healthcare providers specializing in the relevant therapeutic areas.
-
-## Competitive position
-
-Apellis competes within the broader complement-inhibition therapeutic space, where several companies pursue similar pathways. The company's differentiation depends on the selectivity, potency, and safety profiles of its candidates, as well as the clinical evidence supporting their use. Success in this space requires both robust clinical data and effective market access strategies for what are typically high-cost therapies.
-
-## How to research it
-
-Investors and researchers can examine Apellis's SEC filings, including [10-K](/wiki/10-k/) annual reports and quarterly 10-Q filings, which detail the company's clinical programs, regulatory status, financial condition, and capital requirements. Public company disclosures track pipeline progress, clinical trial enrollment, and regulatory interactions. Medical literature and clinical trial registries provide information on the scientific rationale for complement inhibition in the company's target indications.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical companies](/wiki/biopharmaceutical-companies/)
-- [Clinical trial design](/wiki/clinical-trial-design/)
-- [FDA drug approval process](/wiki/fda-drug-approval-process/)
-
-### Wider context
-
-- [Pharmaceutical industry structure](/wiki/pharmaceutical-industry-structure/)
-- [Healthcare sector investing](/wiki/healthcare-sector-investing/)
-- [Biotechnology company valuation](/wiki/biotechnology-company-valuation/)
-
-</div>
+In complement inhibition, Apellis carved a middle ground. Competing agents and other factor-inhibiting therapies offered similar paths to success; Apellis' C3-focused approach differed mechanistically. In geographic atrophy, Apellis was first-mover with a subcutaneous C3 inhibitor but faced growing competition as other companies entered the space. The trade: early advantage in validation of the target, offset by eventual crowding and the need for rapid revenue growth to justify rare-disease development costs. Integration into Biogen places those products alongside existing immunology franchises, reshaping the competitive calculus and expanding global reach for therapies addressing complement-driven disease.

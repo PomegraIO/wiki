@@ -1,74 +1,24 @@
 ---
 title: "ASSURANT, INC. (AIZ)"
-description: "Assurant is a global insurance and technology-enabled solutions provider serving the broader insurance and consumer markets."
+description: "Insurance company specializing in device protection, housing, and specialty insurance across consumer and commercial markets."
 keywords:
-  - assurant
-  - aiz
-  - insurance
-  - specialty insurance
+  - device protection
+  - specialized insurance
+  - housing solutions
   - risk management
-  - technology
+handwritten: true
 ---
 
-*Assurant, Inc. (**AIZ**) is a global insurance and technology-enabled solutions provider that specializes in specialty insurance and related services. Operating across multiple business segments, the company serves a diverse base of customers ranging from major retailers and telecommunications providers to insurance companies and real estate firms.*
+Assurant grew from a collection of insurance operations that found their greatest strength in niches—places where mainstream carriers saw complexity or low margins but where focused expertise could build sustainable competitive advantage. The company's roots trace back decades through various insurance ventures, but its modern identity crystallized around what seemed at first like an unlikely empire: protecting things people didn't want to lose.
 
-<aside class="wiki-infobox">
+The device protection business became Assurant's signature. Phones, tablets, and laptops are expensive to replace and vulnerable to accidents, theft, and breakage. Rather than stay tethered to traditional insurance distribution, Assurant embedded itself in the point of sale—wireless carriers, retailers, and manufacturers. When a customer buys a phone, Assurant's coverage travels with it. That infrastructure, built over years, became defensible. Carriers develop relationships with protection providers. Switching costs matter. The business generates recurring revenue from monthly premiums on millions of devices.
 
-| Key Fact | Details |
-| --- | --- |
-| Ticker | AIZ |
-| Listing | US-listed; ticker AIZ |
-| SEC CIK | 1267238 |
-| Sector | Financials |
-| Industry | Insurance |
-| Headquarters | New York, USA |
-| Founded | 1992 |
-| Type | Public company |
+Beyond device protection, Assurant owns housing-related insurance segments that address gaps in conventional coverage. Housing affordability and quality remain structural challenges, and Assurant works at the intersection of property ownership and risk management. Whether through extended service contracts, structural warranties, or other specialty products, the company identified where homeowners and property investors face unmet needs. These aren't commodity products; they're tailored to specific customer situations and often bundled with real estate transactions or financing.
 
-</aside>
+The company operates across both consumer and commercial markets, though consumer-focused protection plans remain the revenue driver. Its largest and most recognizable segment is still device protection, where scale and distribution breadth generate operating leverage. But Assurant has deliberately diversified to reduce dependence on any single product line or customer relationship. A regulatory change at one carrier or a shift in device replacement cycles no longer threatens the whole business.
 
-## What the company does
+Assurant competes against larger, more diversified insurance conglomerates, and also against smaller, more nimble specialists. The advantage isn't size—it's specificity. Assurant understands device protection markets better than most, and it has built the distribution and operational machinery to serve those markets efficiently. That focus can feel limiting; it is. But it also means the company extracts value from segments that larger competitors view as peripheral.
 
-Assurant delivers insurance and technology solutions across three main business segments. The company provides warranties, service plans, and claims management services for consumer electronics, appliances, and other products. It also offers mobile device protection and related solutions to telecommunications carriers and retailers. Additionally, Assurant operates in the global specialty insurance market, covering areas such as lender-placed insurance, extended service contracts, and other risk management products.
+The trajectory from scattered insurance operations to a coherent specialty insurer required years of acquisitions, divestitures, and gradual sharpening of focus. More recent years have involved managing a mature device protection business while trying to grow housing and commercial segments. That mix keeps Assurant differentiated from pure-play [property-casualty](/wiki/property-casualty-insurance/) insurers and justifies its separate existence as a public company. Its continued evolution—navigating changing consumer behavior around device repair versus replacement, adapting to regulatory environments in multiple jurisdictions, and finding growth in adjacent specialty markets—remains the operational story of the present day.
 
-The company's technology platform enables digital claims processing and customer engagement, which has become increasingly central to its value proposition. This infrastructure supports policy management, claims administration, and customer service across its diverse product lines.
-
-## How it makes money
-
-Assurant generates revenue through insurance premiums and service fees across its product lines. In its device and connected home segment, revenue comes from consumers purchasing extended protection and service contracts, generating recurring premium streams. In its solutions segment, the company earns through commissions and fees from managing claims and providing administrative services. The specialty insurance segment produces revenue from underwriting insurance products and managing claims related to those products.
-
-The company also recognizes investment income from its substantial investment portfolio, which supports claims reserves and provides diversification to operational earnings. Like other insurance companies, Assurant manages the float—the premiums collected before claims are paid—and aims to deploy this capital for returns while maintaining liquidity to settle claims.
-
-## Where it sits in its industry
-
-The insurance industry encompasses large diversified insurers, regional carriers, specialty underwriters, and technology-enabled service providers. Assurant occupies a focused position within specialty insurance and insurance-adjacent services, competing with both traditional insurance companies and newer technology-driven competitors in device protection and claims management.
-
-The company's strategy centers on serving business-to-business customers who either underwrite insurance themselves or distribute protection products to end consumers. This positioning differs from many competitors that focus on direct consumer sales or traditional commercial lines. Assurant's emphasis on integrated technology and claims management has made it a significant player in mobile device protection and extended warranties across major retailer and carrier channels.
-
-## How to research it
-
-Investors researching Assurant should begin with its quarterly and annual reports, which contain detailed information on segment performance, loss ratios, and underwriting results. The company's [10-K](/wiki/10-k/) filing provides comprehensive disclosure on business operations, risk factors, and financial condition. Quarterly 10-Q filings track performance between annual reports and offer updates on claims experience and policy in force.
-
-Key metrics to examine include loss ratios by segment, premium volumes, policy counts, and operating cash flow. Investors should understand the company's investment portfolio composition and duration, as this affects both yield and interest-rate sensitivity. Analyst reports and industry publications covering specialty insurance can provide context on competitive positioning and market trends.
-
-The company's investor relations website typically contains earnings call transcripts, guidance, and other materials useful for fundamental analysis.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Insurance](/wiki/insurance/)
-- [Specialty insurance](/wiki/specialty-insurance/)
-- [Extended warranty](/wiki/extended-warranty/)
-- [Claims management](/wiki/claims-management/)
-- [Warranties and service contracts](/wiki/warranties-service-contracts/)
-
-### Wider context
-
-- [Insurance industry](/wiki/insurance-industry/)
-- [Financial sector](/wiki/financial-sector/)
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [10-K](/wiki/10-k/)
-
-</div>
+See also: [Insurance](/wiki/insurance/), [10-K](/wiki/10-k/), [Public company](/wiki/public-company/)

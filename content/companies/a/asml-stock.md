@@ -1,61 +1,37 @@
 ---
 title: "ASML HOLDING NV (ASML)"
-description: "Dutch maker of advanced semiconductor manufacturing equipment, supplying extreme ultraviolet (EUV) lithography systems to chipmakers globally."
+description: "Dutch semiconductor equipment manufacturer that supplies advanced lithography systems to global chipmakers, dominating extreme ultraviolet (EUV) technology."
 keywords:
-  - ASML
   - semiconductor equipment
-  - lithography
+  - euv lithography
+  - chip manufacturing
+  - dutch technology
   - capital equipment
-  - Dutch manufacturer
-  - EUV technology
+handwritten: true
 ---
 
-*ASML HOLDING NV* (ticker **ASML**) is a Dutch multinational that designs and manufactures *[advanced semiconductor manufacturing equipment](/wiki/semiconductor/)*, particularly lithography systems used in chip production. Based in Veldhoven, Netherlands, the company holds a dominant position in supplying extreme ultraviolet (EUV) machines—the most advanced lithography technology available—to semiconductor foundries and integrated circuit manufacturers worldwide.
+**ASML Holding NV is a Dutch multinational that designs and manufactures the most advanced semiconductor manufacturing equipment on Earth.** The company stands at the center of the global chip supply chain—it builds the machines that etch silicon wafers for nearly every leading chipmaker. ASML's dominance in extreme ultraviolet (EUV) lithography, a cutting-edge technology that allows manufacturers to produce smaller, faster transistors, has given it near-monopoly pricing power and fortress-like competitive moats.
 
-<aside class="wiki-infobox">
+The company emerged from Philips's electronics division in the 1980s as a specialized tool builder. Over three decades, through disciplined engineering, relentless R&D investment, and a willingness to bet enormous capital on next-generation technology before it was certain to succeed, ASML evolved into the indispensable supplier to Intel, TSMC, Samsung, and other chip titans. By the mid-2020s, ASML's EUV systems could cost upward of $200 million each—machines of such optical precision and complexity that they require months of installation and training. A single customer order can shift quarterly results by billions of euros.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ASML |
-| Listing | Euronext Amsterdam; US-traded via ADR |
-| SEC CIK | 937966 |
-| Sector | Industrials |
-| Industry | Capital Equipment & Machinery |
-| Headquarters | Veldhoven, Netherlands |
-| Founded | 1984 |
-| Type | Public Company |
+The business logic is straightforward but powerful. Chipmakers must continually improve their manufacturing prowess—smaller features, better yields, higher density—to stay competitive. They cannot do this without ASML's tools. EUV lithography, in particular, has proven so difficult and capital-intensive to develop that ASML became the only viable supplier globally. Rivals from Japan, the U.S., and China attempted to compete in EUV for years; most conceded. This created a classic capital-equipment bottleneck: when chip demand surges, chipmakers race to install new fabs, and they need ASML machines immediately. Lead times stretch to 18 months or more, and ASML's backlog can explode. Conversely, when chip demand craters, orders evaporate.
 
-</aside>
+ASML's revenue is structured around three main product families. The Advanced segment generates the lion's share of profit and is where EUV systems live—extreme precision tools used by cutting-edge logic and memory makers. The Core segment supplies mainstream lithography equipment for less demanding nodes, used by a broader set of chipmakers globally. The Service and Aftermarket segment provides maintenance, upgrades, and spare parts throughout the operating life of installed systems. Each segment operates with different margins, customer bases, and cyclicality, though all are exposed to the boom-and-bust cycle of semiconductor capital spending.
 
-## What the company does
+| Segment | Primary Use | Customer Base | Margin Profile |
+| --- | --- | --- | --- |
+| Advanced (EUV/leading-edge) | Next-generation logic and memory chips | TSMC, Samsung, Intel | High-margin, dependent on EUV adoption |
+| Core (mainstream lithography) | Mature-node production | Foundries, IDMs, global chipmakers | Moderate, stable, large TAM |
+| Service & Aftermarket | Equipment maintenance, upgrades | All installed base | Recurring, high-margin, growing |
 
-ASML manufactures photolithography machines—equipment that prints circuit patterns onto silicon wafers during semiconductor fabrication. The company specializes in EUV lithography, the cutting-edge technique that enables the smallest, most advanced chip geometries. EUV machines are the bottleneck technology in modern chip production; there are few alternatives, and ASML's systems remain the industry standard. The company also produces immersion lithography equipment for less advanced nodes and provides aftermarket services, upgrades, and spare parts to installed systems.
+The financial picture reflects this concentration and cyclicality. In strong years, when chip demand runs hot and fabs race to expand, ASML's gross margins can exceed 50%, and operating leverage amplifies earnings growth. Backlog visibility can stretch into the following year. But downturns arrive sharply: when PC demand crumbles or smartphone growth stalls, chipmakers halt capex spending, orders dry up, and ASML's revenue can collapse 30% or more quarter-over-quarter. The company has weathered multiple cycles since 2010—the 2018–2019 smartphone slowdown, the 2020–2021 COVID uncertainty, the 2022–2023 AI-led memory rebound, and the 2023 inventory correction—each reshaping expectations and humbling forecasters.
 
-## How it makes money
+ASML's moat is three-fold: technical leadership in EUV systems that competitors have been unable to replicate; a decades-long supply chain and customization capability that creates switching costs and knowledge lock-in; and scale in R&D spending relative to rivals. The company spends roughly 20% of revenue on R&D annually, funding next-generation tools before customers are certain they need them. This requires patient capital and long-term conviction—Philips's initial backing, and later Dutch state support, proved crucial when EUV's path to viability seemed murky in the early 2010s.
 
-ASML generates revenue primarily from equipment sales—each lithography system sells for tens of millions of dollars. The company also derives substantial recurring income from service contracts, maintenance agreements, and consumables (like mirrors and resist materials) sold to customers over the multi-year lifespan of installed machines. Gross margins on equipment are high due to the specialized, capital-intensive nature of the product and ASML's monopoly position in certain segments. The business exhibits long sales cycles and significant order concentration—a handful of major chip manufacturers represent a large fraction of annual revenue.
+Dutch government restrictions complicate the picture. In 2023 and 2024, the Netherlands tightened export controls on advanced semiconductor equipment sales to China, first on EUV systems, then on next-generation deep UV tools. These curbs respond to U.S. pressure and national security concerns. For ASML, they eliminate or delay a meaningful portion of potential revenue from Chinese chipmakers—a lucrative market that had grown to roughly 20% of total sales before restrictions kicked in. The geopolitical risk is structural and unlikely to ease in the near term.
 
-## Where it sits in its industry
+The company's valuation and trading behavior reflect its hybrid nature: a quasi-utility with near-monopoly power in a critical technology, coupled to the violent cyclicality of semiconductor capex. Analysts typically own ASML for the secular growth story—Moore's Law continuation, AI driving new chips, advanced node adoption by more makers—but the stock's volatility, often double-digit swings on quarterly results and guidance, can unsettle holders betting on stability. The backlog offers some visibility, but it remains hostage to macro spending cycles and geopolitical shifts.
 
-ASML is the global leader in semiconductor capital equipment, specifically lithography. It competes with Japanese suppliers (Nikon, Canon) in conventional lithography and has effectively no direct competitors in cutting-edge EUV. The company supplies all of the world's major semiconductor manufacturers—including Taiwan Semiconductor Manufacturing Company (TSMC), Samsung, Intel, and others. ASML's dominance reflects decades of R&D investment, expertise in optical physics and precision engineering, and the network effects of being the installed standard. Its equipment is mission-critical to chipmakers and difficult to replace, creating pricing power and customer lock-in.
+ASML's position is now so central to global chip manufacturing that its fortunes have become a leading indicator of semiconductor health. Deteriorating orders signal demand weakness ahead; rising backlog suggests capex acceleration is coming. For investors, the key question is whether to frame ASML as a structural growth story on Moore's Law and AI adoption, or as a cyclical play whose valuation deserves a lower multiple during downturns when backlog shrinks and margins compress. Both views contain truth, which is why ASML trading ranges have typically spanned from a single-digit to a mid-teens EV-to-EBITDA multiple, depending on the cycle phase.
 
-## How to research it
-
-Start with ASML's annual [10-K filing](/wiki/10-k/) and quarterly 10-Q reports, available through the SEC's EDGAR system (CIK 937966). These documents detail order backlogs, customer concentration, geographic revenue breakdown, and R&D spending. The company regularly hosts investor presentations and earnings calls that discuss technology roadmaps and capital equipment cycles. Industry analyst reports from semiconductor research firms provide context on fab investment trends and competitive positioning. News on major customer announcements (new fabs, technology nodes) often signals ASML's near-term demand.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [TSMC (Taiwan Semiconductor Manufacturing)](/wiki/tsm-stock/)
-- [Samsung Electronics](/wiki/ssnlf-stock/)
-- [Intel](/wiki/intc-stock/)
-- [Semiconductor industry](/wiki/semiconductor/)
-- [Capital equipment manufacturers](/wiki/capital-equipment/)
-
-### Wider context
-- [Chip design and manufacturing](/wiki/semiconductor/)
-- [Industrial cyclicals and capital spending](/wiki/cyclical-vs-defensive-rotation/)
-- [Geopolitical risk and supply chains](/wiki/country-risk/)
-- [Technology sector concentration](/wiki/concentration-risk/)
-
-</div>
+Related: [10-K](/wiki/10-k/) filings reveal detailed segment breakdown and customer concentration. Semiconductor capex cycles correlate closely with order patterns and guide forecasting accuracy.

@@ -1,62 +1,30 @@
 ---
 title: "AMARIN CORP PLCUK (AMRN)"
-description: "Specialty pharmaceutical company focused on developing and commercializing medicines for cardiovascular diseases, particularly triglyceride-lowering therapies."
+description: "A biopharmaceutical company focused on cardiovascular medicines, commercializing specialty pharmaceuticals and developing treatments for heart disease and related conditions."
 keywords:
-  - Amarin
-  - AMRN
-  - pharmaceutical
-  - cardiovascular
-  - specialty pharma
-  - omega-3
+  - cardiovascular medicine
+  - biopharmaceutical
+  - heart disease treatment
+  - prescription drug
+handwritten: true
 ---
 
-*AMARIN CORP PLCUK (**AMRN**) is a specialty pharmaceutical company based in the United Kingdom, focused on cardiovascular diseases and metabolic disorders. The company develops and markets targeted medicines designed to address unmet medical needs in patient populations with elevated triglycerides and related cardiovascular conditions.*
+## What does Amarin actually do?
 
-<aside class="wiki-infobox">
+Amarin is a biopharmaceutical company centered on cardiovascular medicine and metabolic disease. The company commercializes prescription drugs targeting heart disease, focusing on patients with elevated triglycerides and related cardiovascular risks. Its most recognizable asset is a specialty pharmaceutical that addresses a specific metabolic pathway in lipid management, developed to serve patients who remain at cardiovascular risk despite being on standard statin therapy. The business model centers on branded pharmaceuticals for cardiometabolic indications, where the company markets to physicians, cardiologists, and increasingly to direct patient awareness through healthcare channels.
 
-| Field | Value |
-|---|---|
-| Ticker | AMRN |
-| Listing | US-listed; ticker AMRN |
-| SEC CIK | 897448 |
-| Sector | Healthcare |
-| Industry | Specialty Pharmaceuticals |
-| Headquarters | Dublin, Ireland (formerly UK) |
-| Type | Public Company |
+## Where is the company based and how is it structured?
 
-</aside>
+Despite its ticker trading in the US and its operations rooted in the American market, Amarin is incorporated in the United Kingdom as a public limited company. The company operates a US-focused commercial infrastructure, particularly in cardiovascular marketing and sales. This transatlantic structure—UK incorporation paired with a predominantly American revenue base and investor base—reflects historical corporate evolution but can create complexity in regulatory and tax considerations relative to purely domesticated US firms. The company trades on the NASDAQ under the ticker AMRN.
 
-## What the company does
+## How does the revenue model work?
 
-Amarin is a specialty pharmaceutical company with a concentrated portfolio centered on cardiovascular and metabolic health. The company's primary focus has been on medicines targeting dyslipidemia—abnormal blood lipid levels—particularly elevated triglycerides in patient populations who remain at cardiovascular risk despite standard therapy. Its product development efforts emphasize precision medicine approaches to conditions where existing treatments leave gaps in outcomes.
+Amarin's revenue comes almost entirely from prescription pharmaceutical sales. The economics depend on formulary placement, reimbursement agreements with payers, patient copay assistance programs, and the competitive landscape for cardiovascular drugs. Specialty pharma companies like Amarin operate in a narrower market than primary-care drugs; their volumes are lower but unit prices are higher, and success hinges on clinical evidence, physician adoption, and payer coverage decisions. The company's ability to expand indication labels or patient populations through additional clinical trials directly impacts growth and investor sentiment.
 
-## How it makes money
+## Why would an investor or analyst care about Amarin?
 
-Amarin generates revenue primarily through pharmaceutical product sales, particularly from a prescription omega-3 medicine that received regulatory approval for specific cardiovascular indications. The company sells through traditional healthcare channels including pharmacy networks, hospital systems, and specialty pharmacies. Commercial success depends on securing reimbursement from insurance plans and government programs, adoption by prescribers, patient adherence, and ability to expand into additional patient populations or geographic markets.
+Amarin attracts attention as a smaller-cap biopharmaceutical play with exposure to an aging population and rising cardiovascular disease prevalence. Investors evaluate the company through the lens of drug lifecycle management (patent cliffs, generic competition, label expansion potential), clinical trial outcomes, and payer reimbursement trends. The stock also reflects broader sectoral dynamics: changes in Medicare drug pricing policy, FDA approval timelines, and shifts in competitive intensity in cardiovascular therapeutics. Trading patterns often respond sharply to regulatory announcements, clinical data releases, and reimbursement decisions affecting its core products.
 
-## How it sits in the cardiovascular pharmaceutical landscape
+## How does Amarin fit into the broader cardiac-care and pharma landscape?
 
-The cardiovascular drug market includes numerous therapeutic areas: antihypertensives, statins, anticoagulants, and agents targeting specific lipid parameters. Amarin's focus on prescription-grade omega-3 and triglyceride-lowering therapies occupies a niche within this broader market. Competition comes from both established pharmaceutical giants with cardiovascular franchises and smaller specialty companies targeting similar mechanisms. Market success for products in this space hinges on clinical evidence demonstrating cardiovascular outcomes benefits, insurance coverage policies, and competitive dynamics with alternative treatment approaches.
-
-## Research and regulatory pathway
-
-Amarin's products have undergone [regulatory approval](/wiki/sec-10-k/) processes including clinical trials demonstrating efficacy and safety. The company's pipeline and product decisions are informed by cardiovascular outcome studies and epidemiological data on lipid management. Investors tracking the company should review SEC filings, including [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly reports, for details on: market penetration and patient numbers, competitive positioning, pricing and reimbursement trends, regulatory developments in cardiovascular medicine, and pipeline advancement. These documents provide quantitative data on prescription volumes, revenue streams, and market dynamics.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Cardiovascular disease treatment markets](/wiki/pharma-cardiovascular/)
-- [Specialty pharmaceuticals](/wiki/specialty-pharma/)
-- [Dyslipidemia and lipid-lowering therapy](/wiki/dyslipidemia-treatment/)
-- [FDA drug approval process](/wiki/fda-approval-process/)
-
-### Wider context
-
-- [Healthcare sector investing](/wiki/healthcare-sector-investing/)
-- [Pharmaceutical company valuation](/wiki/pharma-valuation/)
-- [Clinical trial outcomes](/wiki/clinical-trial-design/)
-- [Drug pricing and reimbursement](/wiki/drug-pricing-reimbursement/)
-- [Public company filings](/wiki/public-company/)
-
-</div>
+In cardiovascular medicine, Amarin occupies a specific niche—the residual-risk segment for patients with existing heart disease or high metabolic markers. It competes with larger pharma companies (Pfizer, Merck, Novartis, Roche) that have broad cardiovascular portfolios, but also with other specialty and mid-cap firms targeting the same patient populations. The competitive moat for specialty pharmaceuticals is narrower than for blockbuster primary-care drugs, and success often depends on sustained clinical advantage, regulatory protection (exclusivity periods), and first-mover advantage in a specific indication. Patent expiration and generic entry are persistent risks in the specialty pharma model.

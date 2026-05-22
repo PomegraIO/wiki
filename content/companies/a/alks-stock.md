@@ -1,62 +1,36 @@
 ---
 title: "Alkermes plc. (ALKS)"
-description: "Biopharmaceutical company focused on neuropsychiatry and addiction treatment with a portfolio of approved medications and development-stage therapies."
+description: "Biopharmaceutical company specializing in long-acting injectable therapies for serious psychiatric and neurological disorders, with approved products in schizophrenia, depression, and addiction treatment."
 keywords:
-  - Alkermes
-  - ALKS
   - biopharmaceutical
-  - neuropsychiatry
+  - long-acting injectable
+  - psychiatric medicine
   - addiction treatment
+handwritten: true
 ---
-
-*[Alkermes plc.](https://www.alkermes.com) (**ALKS**) is a [publicly-listed](/wiki/public-company/) biopharmaceutical company focused on developing and commercializing medications for conditions in neuropsychiatry and addiction. The company operates across two core segments: established pharmaceutical products for treating serious mental illness and substance-use disorders, and a research pipeline targeting unmet medical needs in central nervous system disorders.*
 
 <aside class="wiki-infobox">
 
-| Attribute | Value |
-|-----------|-------|
-| **Ticker** | ALKS |
-| **Listing** | US-listed; ticker ALKS |
-| **SEC CIK** | 1520262 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical |
-| **Headquarters** | Dublin, Ireland |
-| **Founded** | 2003 (Alkermes); 2011 (current public entity) |
-| **Type** | US-traded public company |
+**Key facts**
+- Headquarters: Dublin, Ireland
+- US operational hub: Waltham, Massachusetts
+- Listed: NASDAQ (ALKS)
+- Sector: Specialty biopharmaceutical
+- Focus: Central nervous system disorders
+- Lead products: Aristada, Vivitrol, Lybalvi
+- Founded: 2003 as Lipoquest, restructured 2011
+- Employees: ~1,100+
 
 </aside>
 
-## What the company does
+## Extended-release expertise in psychiatry
 
-Alkermes develops medications addressing conditions in neuropsychiatry and addiction. Its commercial portfolio includes medications for schizophrenia, depression, opioid addiction, and alcohol dependence. The company's approach combines traditional small-molecule therapies with proprietary extended-release formulation technologies designed to improve patient adherence and outcomes. Its research pipeline includes candidates in development for conditions such as major depression, bipolar disorder, and other serious mental illnesses.
+Alkermes built its reputation on a narrow but defensible competency: formulation science for long-acting injectable drugs. Rather than competing in crowded markets for daily-pill antidepressants or antipsychotics, the company developed monthly or twice-yearly injections targeting psychiatric conditions where medication non-adherence is endemic. A patient with schizophrenia or bipolar disorder who forgets to take pills daily is likely to relapse, creating unnecessary hospitalizations and suffering. An injection that works for four weeks addresses a real problem in clinical practice—but only if physicians adopt it and insurers pay for it.
 
-## How it makes money
+Vivitrol (naltrexone) targets opioid addiction and alcohol dependence; a monthly injection maintains blockade of opioid receptors and reduces craving. Aristada (aripiprazole) monthly and Lybalvi (lurasidone plus samidorphan) address schizophrenia and bipolar depression with extended-release convenience. Each product sits in a competitive market crowded with older generic antipsychotics, newer branded pills, and limited alternative injectables. Success depends on whether psychiatrists and addiction medicine specialists trust the formulation, whether patients tolerate it, and whether managed care organizations reimburse it without onerous prior-authorization barriers.
 
-The company generates revenue primarily through product sales of its approved medications, which are marketed to healthcare systems, hospitals, and retail pharmacies. Revenue sources include sales to government programs, managed care organizations, and direct patient sales through specialty pharmacies. Alkermes also derives revenue from manufacturing services provided to other pharmaceutical companies and from licensing arrangements. The company operates a global commercial infrastructure, though much of its revenue concentration is in the US market.
+## Pipeline dependency and regulatory risk
 
-## Where it sits in its industry
+Alkermes cannot rely indefinitely on its current product portfolio. Older drugs face generic erosion; newer competitors emerge continuously. The company's future depends on advancing promising candidates through the clinic—more complex psychiatric indications, potentially expanded labeled uses, companion diagnostics. Each development program carries execution risk: clinical trials can fail, manufacturing challenges can delay launches, safety signals can emerge, or FDA approvals can be delayed or denied. Pipeline setbacks are particularly damaging for a specialty biotech; a single failed program can shift years of development investment and destroy shareholder value.
 
-Alkermes competes in the competitive neuropsychiatry and specialty pharma landscape alongside larger pharmaceutical corporations and other specialized biotech firms. The company differentiates itself through expertise in sustained-release formulations and a focused therapeutic approach to serious mental illness and addiction treatment. Its position is strengthened by an established commercial presence and FDA-approved marketed products, though it competes against both branded incumbents and generic alternatives in many of its therapeutic categories. The addiction and mental health treatment sectors remain fragmented, with opportunity for specialized players addressing underserved patient populations.
-
-## How to research it
-
-Investors seeking deeper information should review Alkermes' [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings with the US [SEC](/wiki/sec-regulator/), which contain detailed financials, risk factors, competitive positioning, and development pipeline status. The company files regular regulatory updates regarding clinical trial progress, FDA approvals, and product launches. Publicly available information includes investor presentations, earnings calls, and regulatory filings disclosing pipeline advancement, revenue by product, and manufacturing or partnership developments. Medical literature and industry reports document the clinical efficacy and market positioning of its approved therapies.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical](/wiki/biopharmaceutical/)
-- [Pharmaceutical](/wiki/pharmaceutical/)
-- [FDA approval process](/wiki/fda-approval/)
-- [Public company](/wiki/public-company/)
-
-### Wider context
-
-- [Healthcare sector investing](/wiki/healthcare-sector/)
-- [Clinical trial phases](/wiki/clinical-trial-phases/)
-- [Specialty pharmacy](/wiki/specialty-pharmacy/)
-- [Mental health treatment market](/wiki/mental-health-market/)
-- [Addiction treatment market](/wiki/addiction-treatment-market/)
-
-</div>
+The psychiatry market, though large globally, remains fragmented and underfunded in many geographies. Patients with serious mental illness often lack adequate insurance coverage or access to specialist care. The addressable market for Alkermes' products is substantial but slower to penetrate than oncology or cardiology, where prescribers and payers incentivize rapid adoption of new therapies.

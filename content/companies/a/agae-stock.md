@@ -1,63 +1,35 @@
 ---
 title: "Allied Gaming & Entertainment Inc. (AGAE)"
-description: "A gaming and entertainment company operating casinos, hospitality facilities, and entertainment venues."
+description: "Gaming and entertainment operator running casinos and hospitality properties across multiple jurisdictions, generating revenue from wagering, lodging, and food & beverage."
 keywords:
-  - Allied Gaming & Entertainment
-  - AGAE
-  - gaming
-  - casino
-  - entertainment
+  - gaming operator
+  - casino entertainment
+  - hospitality properties
+  - table games
+  - slot machines
+handwritten: true
 ---
 
-*[Allied Gaming & Entertainment Inc.](/wiki/public-company/) (**AGAE**) is a [US-listed](/wiki/stock/) gaming and entertainment company. The company operates casinos, hospitality properties, and entertainment venues, offering table games, slot machines, restaurants, hotels, and other amenities to gaming and tourism customers.*
+Allied Gaming & Entertainment Inc. (AGAE, CIK 1708341) operates [gaming and entertainment](/wiki/public-company/) properties that combine wagering, overnight lodging, and hospitality services. The company's core business revolves around casino floors—where customers wager on table games and slot machines—alongside hotel rooms, restaurants, and entertainment venues. Like most regional and local casino operators, the business is fundamentally location-dependent and demand-driven by nearby population centers, tourism patterns, and consumer discretionary spending.
 
-<aside class="wiki-infobox">
+The company's economics flow from a straightforward mix of revenue streams tied to customer activity at its properties. Slot machine and table game revenue (the house edge retained from customer losses) forms the financial backbone. Rooms, food and beverage, entertainment, and ancillary services (parking, retail, events) layer on margin. The tighter the property layout and the more bundled the experience—casino floors connected to hotels, restaurants on-site, entertainment programming drawing repeat visits—the higher the cross-selling opportunity. Operating leverage kicks in once a property's customer base is stable; adding a premium restaurant or special event space can lift per-visit spending with marginal incremental labor and overhead. Conversely, any decline in foot traffic compresses margins quickly, since labor and facility costs don't fall proportionally.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AGAE |
-| Listing | US-listed; OTC Markets |
-| SEC CIK | 1708341 |
-| Sector | Consumer Discretionary |
-| Industry | Gaming & Entertainment |
-| Headquarters | United States |
-| Founded | Not publicly disclosed |
-| Type | Public Corporation |
+Below is a snapshot of how gaming operators typically break down revenue, which provides a template for understanding Allied Gaming's business composition:
 
-</aside>
+| Revenue Category | Typical Range | Driver |
+|---|---|---|
+| Gaming (slots, tables, other) | 50–75% | House edge; customer wagers |
+| Hotel rooms | 15–30% | Occupancy rate; average daily rate |
+| Food & beverage | 10–20% | Per-visit spending; high margin |
+| Entertainment & other | 5–10% | Events, retail, ancillary services |
 
-## What the company does
+Regulatory oversight is pervasive. Gaming licensing, gaming tax rates, [anti-money-laundering](/wiki/aml-compliance/) compliance, and responsible gambling mandates vary by state and locality. Some jurisdictions cap the number of operating licenses, creating moats for incumbent operators; others have relaxed restrictions in recent years, adding new competitors. [Online gaming](/wiki/stock/) and [sports betting](/wiki/public-company/) legalization in many states have pulled customers away from brick-and-mortar properties, a secular pressure affecting regional and local operators. Property-level performance depends heavily on local competition, tourism infrastructure, and the property's amenity mix—age, cleanliness, entertainment programming, and food quality matter more to some customer segments than the specific games offered.
 
-Allied Gaming operates gaming properties where customers gamble on table games and gaming machines, dine at restaurants, stay at hotels, and enjoy entertainment offerings. Gaming revenue—from slots, tables, and other wagering—constitutes the primary income source. The company also operates hospitality functions including rooms, food and beverage, entertainment, and ancillary services. Properties may be owned or operated under management agreements. The business model is location-dependent, with property performance driven by foot traffic and customer spending.
+Seasonality and economic cycles shape results. Holiday periods, summer vacations, and weekends drive stronger visitation. Recession and economic slowdowns disproportionately hurt gaming operators because entertainment spending is discretionary; defaults and job losses cascade into lower gaming revenues within months. Allied Gaming's earnings are therefore exposed to [business-cycle](/wiki/business-cycle/) dynamics and consumer confidence. Geographic diversification—properties in different states or regions—can smooth these effects, but a concentrated footprint amplifies cyclical risk.
 
-## Revenue model and profit drivers
+---
 
-The company generates revenue from gaming operations (the percentage of customer wagers retained as house revenue), room rentals, food and beverage sales, entertainment, and other services. Operating costs include labor, facility maintenance, utilities, marketing, and gaming taxes and regulations. Gaming taxes and regulatory fees are typically substantial in the casino industry. Profitability depends on customer traffic, average spending per visitor, and operating efficiency. Promotional spending to attract customers affects margins.
-
-## Regulatory and competitive landscape
-
-Gaming and casino operations are heavily regulated at federal, state, tribal, and local levels. Operators must obtain and maintain gaming licenses, comply with gaming control boards, and meet extensive regulatory requirements including anti-money-laundering programs and responsible gambling standards. The industry faces competition from other casinos, Native American gaming facilities, online gambling, and sports betting. Regulatory changes—such as expansion of legal online gaming or new gaming jurisdictions—materially affect the competitive landscape and company performance. Exclusivity can be valuable in markets where gaming licenses are limited, but regulatory changes constantly reshape competitive positioning.
-
-## Market position and seasonality
-
-Allied Gaming's performance is influenced by tourism trends, discretionary consumer spending, and proximity to population centers. Properties in attractive locations with strong customer draw and diverse amenities tend to outperform. Gaming demand is cyclical—linked to [economic cycles](/wiki/business-cycle/) and consumer confidence. Seasonal patterns affect visitation, with peaks around holidays, summer vacations, and certain periods driving stronger results. Recession and economic downturns disproportionately affect gaming revenues as consumers reduce discretionary spending. Competition for entertainment dollars from online gaming and sports betting creates secular headwinds for regional casino operators.
-
-## How to research it
-
-Review Allied Gaming's SEC filings on [Edgar](/wiki/sec-cik/), including the [10-K](/wiki/10-k/) annual report for detailed property performance, gaming revenue by category, and margin analysis. 10-Q quarterly filings track operational trends. Monitor gaming and entertainment industry reports for competitive dynamics and regulatory developments. Follow state gaming commission filings and regulatory actions affecting licensed properties. Analyst reports on the gaming sector provide context on industry trends and peer comparison.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Casino gaming industry](/wiki/public-company/) — sector dynamics
-- [Gaming regulation](/wiki/aml-compliance/) — compliance framework
-- [Hospitality and tourism](/wiki/stock-exchange/) — customer demand
-
-### Wider context
-
-- [Consumer discretionary spending](/wiki/business-cycle/) — economic sensitivity
-- [Regional development and tourism](/wiki/stock/) — location economics
-- [Entertainment venues](/wiki/10-k/) — operational management
-
-</div>
+**Related:**
+- [Gaming and casino regulation](/wiki/aml-compliance/)
+- [Consumer discretionary cyclicality](/wiki/business-cycle/)
+- [Hospitality and lodging REITs](/wiki/10-k/)

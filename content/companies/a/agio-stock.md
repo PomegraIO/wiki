@@ -1,63 +1,21 @@
 ---
 title: "AGIOS PHARMACEUTICALS, INC. (AGIO)"
-description: "A biopharmaceutical company focused on discovering and developing medicines for rare genetic diseases and hematologic disorders."
+description: "Rare disease biotech focused on metabolic therapies for genetically defined hemolytic anemias and pyruvate kinase deficiency."
 keywords:
-  - Agios Pharmaceuticals
-  - AGIO
-  - rare genetic diseases
-  - hematologic disorders
-  - biopharmaceutical
+  - pyruvate kinase deficiency
+  - hemolytic anemia therapy
+  - rare disease biotech
+  - mitapivat
+  - cellular metabolism
+handwritten: true
 ---
 
-*[AGIOS PHARMACEUTICALS, INC.](/wiki/public-company/) (**AGIO**) is a [US-listed](/wiki/stock/) biopharmaceutical company focused on discovering and developing medications for rare genetic diseases and hematologic disorders. The company develops drugs targeting underlying disease mechanisms, often pursuing novel therapeutic targets in underserved patient populations.*
+Agios Pharmaceuticals emerged from foundational cellular metabolism research at major academic institutions. The company was founded in 2008 by cancer researchers Lewis Cantley, Tak Mak, and Craig Thompson, who set out to discover small-molecule drugs that could modulate metabolic pathways underlying disease. That orientation—starting from enzyme biology rather than clinical observation—shaped everything the company would become.
 
-<aside class="wiki-infobox">
+The company went public in 2013 and for its first decade pursued a dual strategy across both oncology and metabolic diseases. A 2016 partnership with Celgene signaled serious ambition in metabolic immuno-oncology. But the cancer franchise struggled clinically and financially, and in 2021 management made a defining choice: sell the entire oncology business to Servier for $1.8 billion and concentrate entirely on hemolytic anemias. It was a bold wager on a small patient population—pyruvate kinase deficiency affects perhaps 1,000 to 3,000 people in the U.S.—but one where almost no treatments existed.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AGIO |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 1439222 |
-| Sector | Healthcare |
-| Industry | Biopharmaceuticals |
-| Headquarters | Cambridge, Massachusetts, USA |
-| Founded | 2007 |
-| Type | Public Corporation |
+Mitapivat (PYRUKYND) became the first FDA-approved medicine for adults with pyruvate kinase deficiency in 2022. The drug works by activating defective pyruvate kinase enzymes, restoring the cells' metabolic machinery and allowing red blood cells to survive longer in the bloodstream. The clinical results were genuine: durable improvements in hemoglobin levels and transfusion independence in a population for which transfusions had been the only option. FDA approval moved rapidly, signaling how starved the market was for this therapy.
 
-</aside>
+Agios now operates as a focused commercial-stage biotech. PYRUKYND generates meaningful revenue from a narrow but dedicated patient population. A companion drug, AQVESME (fabhalta), treats thalassemia patients. Pipeline expansion into sickle cell disease and pediatric applications represents the primary growth vector—larger populations addressing the same enzymatic pathway. The company maintains roughly 540 employees and operates from Cambridge, Massachusetts. It transformed from a cash-hungry oncology incubator into a rare-disease biotech with a clear product portfolio and a path to sustained profitability—demonstrating how deep science can find its market through strategic focus and a willingness to abandon the original thesis.
 
-## What the company does
-
-Agios discovers and develops small-molecule drugs targeting rare genetic diseases and blood disorders. The company's approach often involves identifying and inhibiting enzymes or pathways that contribute to disease pathology. Programs may target diseases like sickle cell disease, thalassemia, and metabolic disorders. The company combines target identification, drug discovery, and clinical development in-house, pursuing compounds through preclinical testing and clinical trials toward regulatory approval.
-
-## Drug development and pipeline
-
-Agios' value depends on its pipeline of drug candidates at various development stages. The company may have commercialized drugs generating revenue, clinical-stage candidates approaching potential approval, and preclinical programs in research phases. Development timelines from discovery to approval typically span eight to ten years and require hundreds of millions in capital investment. Success rates are low—many candidates fail in clinical trials or do not gain regulatory approval.
-
-## Commercialization and rare disease markets
-
-Rare disease markets are smaller than common disease categories but often command higher prices per patient due to limited competition and high unmet needs. Agios generates revenue from patients diagnosed with target diseases who take the company's medicines. Commercial success depends on disease prevalence, patient identification and diagnosis, prescriber adoption, and reimbursement. Rare disease patients often obtain drugs through specialty pharmacies and require ongoing monitoring. Patient populations are geographically dispersed, requiring targeted sales and marketing.
-
-## Regulatory pathway and intellectual property
-
-Agios navigates FDA approval pathways, including potential accelerated approval programs for serious, rare diseases with unmet needs. Rare disease designation can provide regulatory benefits such as extended patent protection (orphan drug exclusivity). Patent protection is critical for market exclusivity and profitable pricing. The company must maintain and expand its intellectual property portfolio to protect commercial opportunities. Regulatory approvals in one country do not guarantee approval in others.
-
-## How to research it
-
-Review Agios' [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings for detailed pipeline status, clinical trial results, commercialized drug performance, and revenue breakdown. Compare pipeline depth and breadth to competitors in rare disease and hematology. Monitor FDA approval decisions and regulatory interactions. Track patient numbers and disease prevalence data for target indications. Evaluate the company's cash position and capital runway—cash burn rate determines financing needs. Follow clinical trial results and regulatory approval timelines closely, as they directly impact valuation.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Rare disease pharmaceuticals](/wiki/public-company/) — market segment
-- [Hematologic disorders and treatments](/wiki/stock-exchange/) — therapeutic focus
-- [Biopharmaceutical development](/wiki/10-k/) — business model
-
-### Wider context
-
-- [Drug approval and regulatory pathway](/wiki/aml-compliance/) — commercialization timeline
-- [Orphan drug exclusivity](/wiki/stock/) — intellectual property advantages
-- [Pharmaceutical pricing](/wiki/public-company/) — revenue optimization
-
-</div>
+Related: [10-K](/wiki/10-k/), [Public Company](/wiki/public-company/), [Stock](/wiki/stock/)

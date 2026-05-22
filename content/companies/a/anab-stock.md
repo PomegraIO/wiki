@@ -1,66 +1,24 @@
 ---
 title: "ANAPTYSBIO, INC (ANAB)"
-description: "Biopharmaceutical company focused on immuno-oncology and immunology drug development."
+description: "Former drug developer transformed into a royalty manager collecting payments from biotech partnerships with GSK and Vanda."
 keywords:
-  - ANAPTYSBIO
-  - ANAB
-  - biopharmaceutical
-  - immuno-oncology
-  - immunology
-  - drug development
+  - royalty company
+  - biotech pivot
+  - gsks jemperli
+  - imsidolimab partnership
+handwritten: true
 ---
 
-*[ANAPTYSBIO, INC](/wiki/public-company/) (**ANAB**) is a [biopharmaceutical](/wiki/pharmaceutical-company/) company engaged in the discovery and development of novel immunotherapies targeting [cancer](/wiki/oncology/) and inflammatory diseases.*
+AnaptysBio used to be a clinical-stage immunology company hunting for the next blockbuster antibody. After years burning cash on drug development, the company pivoted dramatically in early 2026: it spun off all its remaining biopharma operations into a separate public company called [First Tracks Biotherapeutics](/wiki/trax-stock/) and transformed itself into a royalty manager.
 
-<aside class="wiki-infobox">
+The shift was fundamental. ANAB now exists to milk two partnerships rather than invent new medicines. On one side sits Jemperli, a drug licensed to GlaxoSmithKline for autoimmune and inflammatory indications. On the other is imsidolimab, an asset in a collaboration with Vanda that targets similar patient populations. The company's stated purpose is blunt: "Protect and return value" through the royalty streams flowing from these agreements.
 
-**Key facts**
+This is a recognizable playbook in biotech. When a company's pipeline matures into disappointment or plateaus at clinical trial, a common exit is to strip out the promising assets, spin them to a fresh entity with a war chest, and leave the parent holding the royalty rights. For shareholders in ANAB, this means no more speculative drug-development risk, but also no upside from a transformative approval. Instead, the company collects downstream payments whenever GSK or Vanda hit commercial milestones or sell doses.
 
-| Attribute | Value |
-|-----------|-------|
-| **Ticker** | ANAB |
-| **Listing** | US-listed; ticker ANAB |
-| **SEC CIK** | 1370053 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceuticals |
-| **Type** | Public company |
+The spin-off gave First Tracks roughly $180 million in cash to fund three programs: ANB033, a CD122 antagonist for celiac disease and eosinophilic esophagitis; rosnilimab, a T-cell depleter that finished Phase 2b for rheumatoid arthritis; and ANB101, a BDCA2 modulator in early trials. That was the company's past incarnated as a fresh, better-capitalized startup.
 
-</aside>
+For ANAB shareholders, the trade-off is between the upside of a speculative biotech and the stability of a passive income stream. The royalty model trades growth optionality for near-term cash flow certainty, provided GSK and Vanda stay the course with their commercialization plans.
 
-## What the company does
-
-ANAPTYSBIO discovers and develops therapeutic candidates in immuno-oncology, with an early-stage pipeline spanning multiple therapeutic areas including solid tumors and hematologic malignancies. The company employs platform technologies designed to unlock novel targets in immunology and cancer treatment. Its research approach integrates academic partnerships and internal discovery efforts to advance compounds from preclinical stages toward clinical evaluation.
-
-## Scientific approach and platform
-
-The company's strategy relies on identifying underutilized drug targets within the immune system that can be modulated to achieve therapeutic benefit. This platform-based approach aims to generate candidates addressing multiple disease areas. ANAPTYSBIO maintains research collaborations with academic institutions and maintains capabilities in target identification, compound optimization, and early-stage development.
-
-## Clinical and preclinical pipeline
-
-ANAPTYSBIO's product pipeline consists of immunotherapy candidates in early to mid-stage development. The company evaluates compounds in both solid tumors and blood-related malignancies. Development timelines extend across multiple years; candidates progress through preclinical pharmacology, safety assessment, and investigational new drug (IND)-enabling studies prior to clinical trials.
-
-## Regulatory pathway and development
-
-As a [biopharmaceutical developer](/wiki/pharmaceutical-company/), ANAPTYSBIO operates within the regulatory framework established by the [FDA](/wiki/fda-approval-process/). Therapeutic candidates require demonstration of safety and efficacy in clinical trials before regulatory approval. The company files [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) reports detailing pipeline status, development timelines, and financial position with the [SEC](/wiki/sec/).
-
-## Industry positioning
-
-ANAPTYSBIO competes within a broad immuno-oncology landscape populated by well-capitalized pharmaceutical firms, specialized biotech companies, and research-stage developers. The company's focus on specific immune modulation pathways positions it within a segment addressing unmet needs in cancer and inflammatory disease treatment. Differentiation depends on platform innovation, target selection, and successful clinical validation.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Biopharmaceutical company](/wiki/pharmaceutical-company/)
-- [Immuno-oncology](/wiki/oncology/)
-- [Drug development](/wiki/drug-approval-process/)
-- [Clinical trial](/wiki/clinical-trial-phase/)
-- [SEC filing](/wiki/10-k/)
-
-### Wider context
-- [Cancer therapeutics market](/wiki/oncology/)
-- [Immunotherapy](/wiki/immunotherapy/)
-- [Pharmaceutical industry](/wiki/pharmaceutical-industry/)
-- [Biotech sector](/wiki/biotechnology/)
-- [FDA approval process](/wiki/fda-approval-process/)
-
-</div>
+**Active partnerships:**
+- Jemperli partnership with GlaxoSmithKline
+- Imsidolimab partnership with Vanda

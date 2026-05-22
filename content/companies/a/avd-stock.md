@@ -1,65 +1,20 @@
 ---
 title: "AMERICAN VANGUARD CORP (AVD)"
-description: "Diversified specialty chemicals and agricultural biotechnology company focused on crop protection and animal health solutions."
+description: "Agricultural pest control and crop protection company specializing in insecticides, herbicides, and fungicides for farm and horticultural use."
 keywords:
-  - American Vanguard
-  - AVD
-  - specialty chemicals
-  - agricultural biotechnology
+  - agrochemical
   - crop protection
-  - animal health
+  - pesticide
+  - farming inputs
+  - agricultural chemicals
+  - specialty pesticide
+handwritten: true
 ---
 
-*[**American Vanguard Corporation**](/wiki/public-company/) (**AVD**) is a diversified specialty chemicals company headquartered in Hauppauge, New York, operating in the crop protection and animal health sectors. The company develops, manufactures, and markets chemical and biological products for agriculture and related industries globally.*
+**American Vanguard is a manufacturer and marketer of agricultural crop protection chemicals serving farmers and growers across North America and international markets.** The company produces a focused portfolio of insecticides, herbicides, fungicides, and plant growth regulators—products that address pest management and yield protection for commodity crops, fruits, vegetables, and ornamental plants.
 
-<aside class="wiki-infobox">
+The business lives in the margin between commodity crop economics and specialty inputs. Farmers apply these chemicals to defend yields against insect pressure, disease, and weeds, making them integral to modern agricultural production but also subject to farm profitability cycles and regulatory headwinds. American Vanguard manufactures and distributes this chemistry both under its own brand names and through private-label arrangements with retailers and agricultural distributors. The company operates manufacturing facilities and formulation plants that serve regional demand.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AVD |
-| Listing | US-listed; ticker AVD |
-| SEC CIK | 5981 |
-| Sector | Specialty Chemicals |
-| Industry | Agricultural Chemicals & Biotechnology |
-| Headquarters | Hauppauge, New York |
-| Founded | 1947 |
-| Type | Public Company |
+Revenue depends on seasonal application windows—spring planting and summer maintenance—which create predictable but volatile cash flows. The firm faces ongoing cost pressures from raw materials and energy, and must navigate the complex regulatory environment for pesticide approval and labeling in the United States and other jurisdictions. Consolidation in agricultural retail has shifted negotiating power to large distributors, a structural headwind for mid-sized chemical suppliers. Product development and acquisition have been tools for maintaining relevance as farmer demand shifts toward safer, more targeted chemistries.
 
-</aside>
-
-## What the company does
-
-American Vanguard develops and sells chemical and biological products for agriculture, with a focus on pest control and crop health. The company's portfolio includes insecticides, fungicides, herbicides, and nematicides used by farmers globally. Beyond crop protection, American Vanguard maintains operations in animal health, offering veterinary pharmaceuticals and nutritional products. The company operates through multiple business units that focus on different geographic markets and product categories, serving both large-scale agricultural operations and specialty crop producers.
-
-## How it makes money
-
-The company generates revenue primarily through the sale of agricultural chemical products to distributors, retailers, and end-use farmers. Pricing is typically tied to commodity price cycles and seasonal application patterns; farmers purchase crop-protection products during preparation and growing seasons. Animal health products provide a more stable revenue stream year-round. International operations represent a significant revenue component, requiring regulatory compliance and distribution arrangements in multiple countries. The company also generates revenue from licensing agreements and specialty formulation services.
-
-## Manufacturing and R&D
-
-American Vanguard operates manufacturing facilities that produce its chemical formulations, as well as facilities for research and product development. The company invests in developing new active ingredients and formulations to address emerging pests and diseases, as well as to meet evolving regulatory requirements. Manufacturing is capital-intensive and subject to environmental and safety regulations that vary by jurisdiction. The company sources raw materials from chemical suppliers and manages supply chains across multiple continents.
-
-## Competitive position
-
-The agricultural chemicals market is competitive and dominated by larger multinational corporations. American Vanguard competes by focusing on specialty segments and regional markets where it can maintain a strong distribution presence and product expertise. The company's positioning in niche applications and emerging markets allows it to operate with less direct head-to-head competition against the largest players. Regulatory approvals for new products serve as barriers to entry that protect established players but also require ongoing investment to maintain market position.
-
-## How to research it
-
-American Vanguard files detailed financial and operational information with the [SEC](/wiki/sec-filings/). The company's [10-K](/wiki/10-k/) annual report covers business segments, financial performance, regulatory environment, manufacturing operations, and risks. The [10-Q](/wiki/10-q/) quarterly reports update financial results and operational metrics throughout the year. Prospective investors should review the company's discussion of agricultural commodity price cycles, regulatory approvals for key products, geographic market exposure, and competitive positioning within specialty chemicals.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Specialty chemicals](/wiki/specialty-chemicals/)
-- [Agricultural biotechnology](/wiki/agricultural-biotechnology/)
-- [Crop protection](/wiki/crop-protection/)
-- [Animal health](/wiki/animal-health/)
-
-### Wider context
-
-- [Public company](/wiki/public-company/)
-- [SEC filings](/wiki/sec-filings/)
-- [Commodity price cycles](/wiki/commodity-price-cycles/)
-
-</div>
+American Vanguard competes against larger agrochemical conglomerates (which have deeper resources for R&D and capital) and against smaller regional suppliers. The company's survival strategy centers on specialty products with less commodity-like pricing—formulations that solve particular pest problems rather than generic commodity inputs. Success requires both chemical innovation and the distribution muscle to reach farmers effectively in an industry increasingly dominated by large agricultural cooperatives and consolidated retailers. Like other agricultural input suppliers, the company is hostage to grain prices and farm income; when commodity crops are unprofitable, growers cut back on pest management spending even if chemicals are necessary for long-term soil health.

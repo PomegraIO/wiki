@@ -1,65 +1,28 @@
 ---
 title: "Antalpha Platform Holding Co (ANTA)"
-description: "Sports apparel and footwear company headquartered in China with a focus on basketball and athletic product innovation."
+description: "Digital asset supply chain financing platform for Bitcoin mining and institutional lending, using technology to manage collateral and underwrite loans in crypto."
 keywords:
-  - ANTA
-  - Antalpha
-  - sports apparel
-  - basketball
-  - athletic footwear
-  - athletic wear
+  - digital asset lending
+  - bitcoin mining finance
+  - supply chain financing
+  - antalpha prime platform
+  - crypto collateral loans
+handwritten: true
 ---
 
-*[Antalpha Platform Holding Co](/wiki/public-company/) (ANTA) is a sports apparel and footwear company headquartered in China. The company designs, develops, manufactures, and distributes athletic shoes, apparel, and sports equipment under the ANTA brand name, with a particular emphasis on basketball products and professional athlete endorsements.*
+Antalpha Platform Holding Co is a Singapore-based fintech specializing in supply chain financing for the Bitcoin mining industry and broader digital asset lending. The company operates [Antalpha Prime](/wiki/stock/), a technology-enabled lending platform that connects institutional borrowers in the crypto space with structured loan products backed by hardware, mining machines, and digital assets.
 
-<aside class="wiki-infobox">
-| Attribute | Value |
-|-----------|-------|
-| Ticker | ANTA |
-| Listing | US-listed; ticker ANTA |
-| SEC CIK | 2044255 |
-| Sector | Consumer Discretionary |
-| Industry | Apparel & Footwear |
-| Headquarters | Xiamen, China |
-| Founded | 1991 |
-| Type | Public Company |
-</aside>
+The business grew out of a simple need: Bitcoin miners and hardware manufacturers needed flexible financing to manage cash flows around expensive ASIC equipment and mining operations, but traditional finance didn't understand the space. Antalpha built a platform that could underwrite loans in real-time by monitoring collateral positions through continuous data feeds, automating what would otherwise require human oversight. The company positions itself as a bridge between institutional capital and crypto operators—lending to miners who pledge their equipment or hashrate as security, and to traders who borrow against Bitcoin holdings.
 
-## What the company does
+Antalpha's revenue model breaks down into two distinct streams. Interest income flows from lending operations themselves; platform fees come from clients who use the Antalpha Prime system for loan management and collateral monitoring. The company also holds a strategic relationship with Bitmain, the dominant ASIC mining manufacturer, making it a preferred financing partner for Bitmain's larger customers. Northstar provides the underlying credit facilities, extending up to $1 billion in available funding.
 
-ANTA operates as an integrated athletic brand creating footwear, apparel, and sports equipment primarily for basketball, running, and general athletic use. The company maintains design and product development teams that work with professional athletes, coaches, and endorsers to shape its product lineup. Distribution occurs through direct-to-consumer channels, wholesale partnerships with retailers, and international expansion efforts.
+The company's loan products vary by use case. Miners can access ASIC miner financing for equipment purchase, or "hashrate loans" that cover deployment costs like hosting and maintenance. Standard Bitcoin-backed loans serve different borrower profiles. Pricing typically ranges from 6-10% annually depending on the loan type and collateral strength.
 
-## How it makes money
+| Revenue Source | Characteristic | Examples |
+|---|---|---|
+| **Supply chain interest** | Loans on mining machines and deployment costs | ASIC financing, hashrate loans |
+| **Bitcoin-backed loans** | Margin lending on cryptocurrency collateral | Bitcoin-secured credit lines |
+| **Platform fees** | Technology and monitoring access | Antalpha Prime subscription/usage |
 
-The company generates revenue from the sale of branded athletic footwear and apparel through multiple distribution channels. Wholesale revenue comes from retail partnerships and department stores. Direct-to-consumer revenue flows through company-operated retail locations and e-commerce platforms. International expansion into markets outside China represents an additional revenue stream. The company also licenses its brand for complementary sports products.
+The platform's expansion roadmap signals where management sees future growth: beyond mining finance, the company is building collateral acceptance for XAUt (tokenized gold) and GPU compute lending for AI infrastructure. These moves suggest a broader vision of becoming a general-purpose digital asset lender rather than staying narrowly focused on mining.
 
-## Where it sits in its industry
-
-ANTA competes in the global athletic apparel and footwear sector alongside multinational leaders like Nike and Adidas, as well as other regional and emerging athletic brands. The company has focused particularly on the basketball segment, securing endorsement deals with professional players and teams. Its positioning emphasizes product innovation tailored to basketball performance and the Chinese market, where athletic consumption has expanded significantly.
-
-## Business model and strategy
-
-The company operates across owned distribution and licensed wholesale channels. ANTA's product strategy centers on technical innovation in footwear engineering, athlete-driven design input, and lifestyle positioning within the broader athletic market. The company invests in supply chain development and has diversified its geographic footprint beyond China through international retail expansion and strategic partnerships.
-
-## How to research it
-
-Investors and analysts can review ANTA's quarterly and annual filings with the [SEC](/wiki/sec-filing/) through the [company's CIK 2044255](/wiki/10-k/) to examine financial performance, capital expenditures, supply chain risks, and international expansion efforts. The company discloses material information about endorsement agreements, retail expansion, product mix, and competitive positioning in its regulatory filings and earnings discussions. Industry research on athletic apparel market trends, consumer spending patterns, and competitive dynamics informs broader context for the company's performance.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Stock exchange](/wiki/stock-exchange/)
-- [Public company](/wiki/public-company/)
-- [Athletic apparel industry](/wiki/consumer-discretionary/)
-- [Wholesale distribution](/wiki/distribution-channel/)
-- [10-K filing](/wiki/10-k/)
-
-### Wider context
-
-- [Apparel & footwear sector](/wiki/consumer-discretionary/)
-- [China stock market exposure](/wiki/adr/)
-- [Brand equity and consumer loyalty](/wiki/brand-value/)
-- [Athletic product endorsements](/wiki/brand-partnerships/)
-
-</div>

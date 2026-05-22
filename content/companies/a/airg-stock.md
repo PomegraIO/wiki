@@ -1,68 +1,45 @@
 ---
 title: "AIRGAIN INC (AIRG)"
-description: "Antenna and radio frequency technology innovator serving mobile device, network infrastructure, and IoT manufacturers globally."
+description: "Wireless antenna and connectivity hardware designer serving enterprise, automotive, and IoT manufacturers with embedded systems and integrated 5G solutions."
 keywords:
-  - AIRGAIN
-  - AIRG
-  - antenna technology
-  - RF design
-  - wireless communications
-  - mobile devices
+  - antenna design
+  - wireless connectivity
+  - embedded systems
+  - 5g hardware
+  - iot solutions
+  - automotive gateways
+  - rf engineering
+handwritten: true
 ---
-
-*Headquartered in California, **AIRGAIN INC** (ticker **AIRG**) is a [public-company](/wiki/public-company/) specializing in antenna systems and radio frequency solutions for wireless devices and communications infrastructure.*
 
 <aside class="wiki-infobox">
 
-| Field | Value |
-|-------|-------|
-| Ticker | AIRG |
-| Listing | US-listed; ticker AIRG |
-| SEC CIK | 1272842 |
-| Sector | Information Technology |
-| Industry | Semiconductors & Semiconductor Equipment |
-| Headquarters | San Diego, California |
-| Founded | 2005 |
-| Type | Public company |
+**Headquarters:** San Diego, California  
+**Founded:** 1995  
+**Went Public:** August 2016  
+**Sector:** Hardware / Wireless Infrastructure  
+
+**Core Business:** Antenna and wireless connectivity hardware  
+
+**Main Products:**
+- Embedded and external antennas
+- Smart cellular repeaters
+- 5G vehicle gateway systems
+- Asset tracking modules
+
+**Customer Types:** OEMs, system integrators, chipset vendors, service providers  
+
+**Market Segments:** Enterprise, automotive, consumer IoT
 
 </aside>
 
-## What the company does
+## Hardware Connectivity at the Signal Edge
 
-AIRGAIN engineers antenna systems, radio frequency (RF) components, and wireless connectivity solutions. The company designs custom and semi-custom antennas that handle cellular, Wi-Fi, Bluetooth, and other wireless protocols. Its products help device manufacturers—smartphones, tablets, IoT sensors, routers, and cellular base stations—optimize signal strength, range, and data throughput. AIRGAIN's approach combines modeling, simulation, testing, and prototyping to integrate antennas into compact form factors where space and interference pose design challenges.
+Airgain designs and manufactures wireless antennas and integrated connectivity hardware for original equipment makers, system integrators, and service providers. Founded in 1995 and listed on NASDAQ since 2016, the company occupies a narrow but critical niche: translating wireless standards into physical antenna solutions that help devices connect more reliably when space and cost constraints make off-the-shelf antennas impractical. Rather than mass-producing commodity parts, Airgain wins customers through engineering—custom designs tailored to specific form factors, frequency bands, and performance targets that each client's products demand.
 
-The company serves original equipment manufacturers (OEMs) and original design manufacturers (ODMs) across consumer electronics, enterprise infrastructure, and industrial IoT segments. Its engineering team works closely with clients from early-stage design through production ramp-up and qualification.
+The company operates across three distinct markets. Enterprise products include smart network-controlled cellular repeaters for buildings and infrastructure, embedded modems and antennas for IoT asset tracking and access points, and the Lighthouse platform, a carrier-grade 5G smart repeater for service providers. Automotive focuses on AirgainConnect Fleet, a roof-mounted gateway that consolidates 5G connectivity and vehicle systems. Consumer and IoT segments serve embedded antenna needs in everything from wearables to connected appliances. Revenue typically flows from design wins—securing multi-year purchase commitments once a customer adopts Airgain's antenna in a shipping product—rather than from high-volume commodity manufacturing. That business model rewards continuous engineering to stay ahead of wireless generational shifts, but offers more durability than price-competitive markets.
 
-## How it makes money
+## Why Antenna Design Still Matters
 
-AIRGAIN generates revenue through two main channels. Engineering services and royalties come from custom antenna design work: the company develops solutions tailored to specific products, often including licensing fees or per-unit royalties on commercial deployments. Product sales include off-the-shelf and semi-custom antenna modules, RF test equipment, and design software. The company also operates a licensing model, granting other manufacturers rights to use AIRGAIN's proprietary antenna designs and intellectual property across agreed-upon applications.
+Antennas sit at the intersection of physics, materials science, and manufacturing. As devices shrink and wireless standards proliferate (cellular bands, Wi-Fi 6, Bluetooth LE, IoT protocols), fitting reliable antennas into smaller packages demands specialized expertise most device makers outsource. Airgain's value lies in absorbing that engineering burden for clients who lack large in-house RF teams but need custom solutions beyond generic offerings. The 5G transition expanded opportunities by introducing new frequencies and multi-antenna requirements; companies pursuing connected vehicle fleets, enterprise campuses, and IoT deployments increasingly turn to specialists who can design for both performance and manufacturability. [10-K](/wiki/10-k/) filings reveal customer concentration risk and R&D intensity—typical for hardware designers whose margins depend on proprietary designs staying ahead of commodity competition.
 
-Customers typically commit to multi-year relationships, as antenna design is tightly integrated into product development cycles and changing vendors mid-production is costly.
-
-## How the company fits in its industry
-
-Antenna and RF engineering sits at the intersection of hardware design and wireless systems. AIRGAIN competes with specialized antenna houses, chipset vendors (which offer integrated RF solutions), and consulting firms. Unlike large semiconductor companies, AIRGAIN's focus is narrowly on antenna and connectivity optimization—neither designing the main processors nor the full RF chip stack, but solving a critical bottleneck: getting reliable wireless transmission in physically constrained devices.
-
-As 5G, WiFi 6, and multi-band IoT have expanded, antenna design has become more complex. Smaller devices demand more sophisticated antenna tuning. AIRGAIN's scale lets it absorb this engineering burden for mid-market and enterprise clients who need custom solutions but lack large in-house RF teams.
-
-## Research and related reading
-
-Investors and researchers can examine AIRGAIN's disclosures via the SEC's [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-k/) filings, available on the company's investor relations site and the SEC's EDGAR database. These filings detail revenue by market segment, customer concentration, R&D spending, supply chain dependencies, and competitive pressures. Patent filings and technical white papers in industry journals illuminate the company's engineering approach and intellectual property.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [/wiki/semiconductor-design/](/wiki/semiconductor-design/)
-- [/wiki/rf-design/](/wiki/rf-design/) (radio frequency design fundamentals)
-- [/wiki/iot-devices/](/wiki/iot-devices/)
-- [/wiki/wireless-communications/](/wiki/wireless-communications/)
-- [/wiki/patent-licensing/](/wiki/patent-licensing/)
-
-### Wider context
-
-- [/wiki/public-company/](/wiki/public-company/)
-- [/wiki/10-k/](/wiki/10-k/) (annual reports for SEC-listed companies)
-- [/wiki/sec-filings/](/wiki/sec-filings/)
-
-</div>

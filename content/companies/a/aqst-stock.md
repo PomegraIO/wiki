@@ -1,66 +1,30 @@
 ---
 title: "Aquestive Therapeutics, Inc. (AQST)"
-description: "Biopharmaceutical company focused on developing proprietary film technology for rapid-dissolving drug delivery and treating neurological and psychiatric conditions."
+description: "Specialty pharmaceutical company developing dissolvable and transmucosal drug delivery systems for acute and chronic conditions."
 keywords:
-  - aquestive therapeutics
-  - aqst
-  - pharmaceutical company
-  - drug delivery technology
-  - biopharmaceutical
+  - pharmaceutical delivery
+  - transmucosal products
+  - specialty pharmaceuticals
+  - drug formulation
+handwritten: true
 ---
 
-*[Aquestive Therapeutics, Inc.](/wiki/public-company/) (ticker **AQST**) is a biopharmaceutical company that develops proprietary film-based drug delivery systems and therapies targeting neurological, psychiatric, and other therapeutic areas. The company operates in the pharmaceutical sector, focusing on formulation science and specialized delivery mechanisms.*
+## What does Aquestive actually do?
 
-<aside class="wiki-infobox">
+Aquestive Therapeutics is a specialty pharmaceutical company focused on developing and commercializing proprietary drug delivery technologies, primarily transmucosal and dissolvable products. Rather than competing in the crowded landscape of traditional pills and injections, the company specializes in reformulating existing active pharmaceutical ingredients into novel delivery forms—dissolving tablets placed under the tongue, in the cheek, or delivered through other mucosal membranes. This approach can improve efficacy, speed of action, and patient compliance for conditions ranging from acute seizures to chronic pain.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AQST |
-| Listing | US-listed; ticker AQST |
-| SEC CIK | 1398733 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Headquarters | Warrenton, Virginia |
-| Founded | 2004 |
-| Type | Public |
+## Who uses these products?
 
-</aside>
+The company's marketed products target patients with epilepsy, opioid use disorder, and other serious conditions where rapid drug delivery or improved absorption matters. AQST's most prominent asset is Libervant (diazepam), an FDA-approved dissolvable formulation for acute seizure clusters, which competes with traditional rectal and intramuscular diazepam delivery. Another product, Suboxone (buprenorphine/naloxone), leverages a dissolvable film format for opioid use disorder treatment—a significant market as addiction treatment expands. The company has also been involved in pain and psychiatric indications through partnered or acquired programs.
 
-## What the company does
+## How does the business model work?
 
-Aquestive Therapeutics develops and commercializes proprietary oral film technologies designed for rapid drug absorption and patient convenience. The company's lead platform, known as PharmFilm, enables medications to dissolve quickly in the mouth, avoiding the need for water or traditional tablets. This technology is particularly suited for patient populations with difficulty swallowing, including pediatric and geriatric patients, as well as for drugs where rapid onset of action provides clinical benefit.
+Aquestive primarily commercializes products through direct pharmaceutical sales and distribution partnerships. The company generates revenue by selling products to wholesalers, hospital systems, and pharmacy benefit managers, and it also pursues licensing or partnership arrangements for its technology platform with larger pharma firms. The economics depend heavily on whether products gain market share against established competitors and generic alternatives in each therapeutic area.
 
-The company's therapeutic focus spans neurological, psychiatric, and other conditions where its delivery platform offers advantages over conventional formulations. Aquestive pursues both proprietary drug development and partnerships with larger pharmaceutical companies seeking alternative formulations for existing molecules.
+## What are the main risks?
 
-## How it makes money
+Like other specialty pharma firms, Aquestive faces intense competition from both branded incumbents and generics, regulatory pressures that can limit pricing flexibility, and the ever-present risk that a marketed product fails to achieve expected adoption. The transmucosal delivery space is somewhat niche, so the company's success rests on a small portfolio of products that must perform commercially. Additionally, the company has historically carried significant debt and operating losses, which constrains financial flexibility and investment capacity.
 
-Aquestive generates revenue through commercialization of products leveraging its proprietary film delivery technology. Revenue streams typically include product sales from approved medications, as well as milestone payments and royalties from licensing agreements with other pharmaceutical companies. The company also pursues regulatory approval for pipeline candidates, with revenue potential from future product launches.
+## Why does the company exist in this form?
 
-Like many biopharmaceutical firms in early commercialization stages, Aquestive operates in an environment where profitability depends on the successful advancement of product candidates through clinical development and regulatory approval, combined with effective market adoption of approved products.
-
-## Where it sits in its industry
-
-Aquestive operates within the broader biopharmaceutical sector as a specialized formulation technology company. Its oral film platform differentiates it in a market where many competitors focus on traditional tablet, capsule, or injection delivery. The company competes with larger pharmaceutical manufacturers and other specialized drug delivery firms, though its relatively smaller scale and focused technology platform position it distinctly.
-
-The biopharmaceutical landscape rewards innovation in drug delivery mechanisms, as they can extend product lifecycles, improve patient adherence, and support expansion into underserved patient populations. Aquestive's proprietary technology represents intellectual property with potential licensing value beyond its own product pipeline.
-
-## How to research it
-
-Investors and researchers can explore Aquestive's financial performance, clinical pipeline, and regulatory progress through its SEC filings, particularly the [10-K](/wiki/10-k/) annual report and periodic 10-Q filings. These documents provide comprehensive detail on revenue, pipeline status, clinical trial results, regulatory interactions, and corporate strategy.
-
-The company also discloses regulatory milestones through press releases and SEC filings. Tracking FDA approval decisions, clinical trial outcomes, and patent expirations provides insight into the near-term and long-term value drivers. Industry publications and analyst reports covering biopharmaceutical and specialty formulation sectors offer additional context on competitive positioning and market trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Public company](/wiki/public-company/)
-- [10-K](/wiki/10-k/)
-- [Biopharmaceutical](/wiki/biopharmaceutical-company/)
-
-### Wider context
-
-- [Stock exchange](/wiki/stock-exchange/)
-- [Stock](/wiki/stock/)
-
-</div>
+Aquestive was founded to capitalize on proprietary formulation science—the insight that changing how drugs are delivered can create value even when the active ingredient is old or off-patent. By taking well-understood drugs and creating new intellectual property through delivery innovation, the company can secure periods of exclusivity and premium pricing before facing generic competition. This strategy is most viable when the improvement is genuinely meaningful to patients or providers (faster onset, better compliance, reduced side effects) rather than merely cosmetic.

@@ -1,63 +1,24 @@
 ---
-title: "First Majestic Silver Corp (AG)"
-description: "A precious metals mining company focused on silver and gold production across mining operations in Mexico and the United States."
+title: "FIRST MAJESTIC SILVER CORP (AG)"
+description: "Primary silver mining company with operations concentrated in Mexico, producing bullion sold into global commodity markets."
 keywords:
-  - First Majestic
+  - First Majestic Silver
   - AG
   - silver mining
-  - gold mining
-  - precious metals
+  - Mexico mining
+  - precious metals producer
+  - bullion
+handwritten: true
 ---
 
-*[First Majestic Silver Corp](/wiki/public-company/) (**AG**) is a [US-listed](/wiki/stock/) precious metals mining company and one of the largest primary [silver](/wiki/commodity/) producers globally. Operating mines in Mexico and the United States, the company extracts and processes silver and [gold](/wiki/gold/), selling production into the commodities markets.*
+**First Majestic Silver is a pure-play silver producer—a rare animal in modern mining.** While most large precious metals companies derive silver as a byproduct of gold, copper, or zinc operations, First Majestic mines silver as its primary focus. The company operates mines in Mexico, the world's largest silver-producing nation, alongside a Canadian exploration portfolio. Revenue flows almost entirely from refined silver bullion sold into global commodity markets at spot or negotiated premiums.
 
-<aside class="wiki-infobox">
+The operating footprint includes four main producing mines: San Dimas and Bolañitos in Mexico's Durango State, La Encantada in Coahuila, and Santa Elena in Sonora. Each facility runs its own milling circuit—a structure that provides operational flexibility to curtail production during weak silver prices or ramp up when markets improve. Ore grades range widely across the portfolio (600 to 1,200 grams of silver per metric tonne) depending on deposit geology, but processing recovery rates cluster around 75% to 90%. The company supplements operating production with exploration activity, which is critical because silver mines deplete; reserve replacement through finding new ore bodies directly affects the long-term sustainability of cash generation.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AG |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 1308648 |
-| Sector | Materials |
-| Industry | Precious Metals Mining |
-| Headquarters | Vancouver, British Columbia, Canada |
-| Founded | 1981 |
-| Type | Public Corporation |
+Economics rest on a simple fulcrum: the margin between production costs (mining labor, fuel, processing chemicals, equipment wear) and realized silver prices. In bull markets—when silver trades well above all-in sustaining costs (AISC)—the company can generate strong free cash flow and fund exploration. In flat or down markets, the math deteriorates quickly. Unlike a diversified miner cushioned by copper or gold byproducts, First Majestic has no commodity diversification. A long silver bear market can force mine closures, writedowns, or shareholder dilution to fund exploration and stay competitive.
 
-</aside>
+Jurisdiction matters substantially. Operations in Mexico expose the company to labor negotiations, power grid reliability, regulatory changes, and the Mexican peso exchange rate (costs incurred in pesos, revenues in dollars). Environmental and social licensing—including indigenous community relations and water rights—are increasingly scrutinized. Security and political stability in mining regions can fluctuate. The upside is that Mexico remains stable relative to many mining jurisdictions and has world-class silver geology.
 
-## What the company does
+Investors should examine First Majestic's [10-K](/wiki/10-k/) filings for reserve tables, production guidance, mine-by-mine costs, and cash flow trends. Quarterly earnings calls address operational changes and spot price outlooks. Strip charts on commodity exchanges show forward silver prices, critical input for modeling future profitability. Peer comparison with [Hecla Mining](/wiki/hl-stock/) and Pan American Silver illuminates relative cost structure and exploration success. Industry research on silver demand (industrial electronics, solar, coins, bars) and byproduct supply from other miners shapes long-term price expectations—and thus First Majestic's upside.
 
-First Majestic operates a portfolio of mines primarily in Mexico, one of the world's largest silver-producing countries. The company is engaged in exploration, development, and production of silver ore, with gold as a secondary byproduct. Mining operations involve ore extraction, processing, and refining to produce silver and gold bullion sold into commodity markets. The company also holds development-stage and exploration-stage projects that represent future production capacity.
 
-## How it makes money
-
-First Majestic derives revenue from the sale of silver and gold production at [commodity prices](/wiki/commodity-currency-pairs/). The volume of metal produced and prevailing market prices determine revenue. Operating costs include mining labor, equipment, energy, and processing expenses. The company's profitability depends on the spread between production costs and market prices—a dynamic that fluctuates significantly with commodity [price cycles](/wiki/commodity-carry-trade/). Hedging and forward sales of production can smooth revenue but also cap upside from rising prices.
-
-## Commodity price exposure and market dynamics
-
-As a primary producer, First Majestic is highly sensitive to silver prices. Silver demand comes from industrial applications (electronics, photovoltaics), investment demand (bars, coins), and jewelry. Supply is dominated by primary mining and significant [byproduct silver](/wiki/commodity-futures-rolling/) from other metal mining operations. The market is global, with prices set in US dollars on exchanges. Geopolitical events, central bank purchases for reserves, and macroeconomic growth expectations all influence silver prices. Industrial demand for silver is cyclical, linked to economic growth, while investment demand depends on real interest rates and inflation expectations. First Majestic's stock price often outpaces silver price movements during bull markets, offering leveraged exposure to silver demand.
-
-## Operational and jurisdictional risks
-
-Mining in Mexico carries operational risks including labor negotiations, power supply reliability, and regulatory changes. Environmental and social regulations affect permitting and licensing. Ore grades, mine life, and reserve replacement through exploration are critical to long-term sustainability. First Majestic must continuously explore to replace reserves as mines deplete. Currency risks arise from operations in Mexico (Mexican peso) while commodity prices are quoted in dollars. Political stability and security conditions in Mexico can affect operations and costs. Water access and environmental compliance are growing concerns for Mexican miners operating in water-stressed regions.
-
-## How to research it
-
-Start with First Majestic's [10-K](/wiki/10-k/) and 10-Q filings for detailed reserve data, production volumes, all-in costs per ounce, and mine-by-mine performance. Earnings calls discuss operational updates and commodity price expectations. Monitor spot and forward silver prices on commodity exchanges, as they directly impact profitability. Industry reports on silver supply and demand, mining geopolitics, and comparative producer economics are valuable. Track Mexican regulatory and labor developments.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Silver commodity](/wiki/commodity/) — price determinants and market structure
-- [Gold mining](/wiki/gold/) — competitive and complementary sector
-- [Mining exploration and reserves](/wiki/10-k/) — production replacement
-
-### Wider context
-
-- [Commodity mining cycles](/wiki/commodity-carry-trade/) — industry dynamics
-- [Mexico operating environment](/wiki/public-company/) — jurisdiction risk
-- [Industrial metals demand](/wiki/commodity-price-hedging/) — end-market drivers
-
-</div>

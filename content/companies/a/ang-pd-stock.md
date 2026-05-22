@@ -1,65 +1,30 @@
 ---
 title: "American National Group Inc. (ANG-PD)"
-description: "Galveston-based insurance and annuities company; trades preferred shares; operates annuity, life insurance, and property-casualty businesses."
+description: "Depositary shares in a diversified insurance holding company offering life, annuity, pension risk transfer, and property-casualty coverage across all U.S. states."
 keywords:
-  - American National Group
-  - ANG-PD
-  - preferred shares
-  - insurance
+  - preferred stock
+  - insurance holding company
+  - depositary shares
+  - life insurance
   - annuities
+handwritten: true
 ---
 
-*American National Group Inc.* is a diversified insurance and annuities company, ultimately owned by [Brookfield Wealth Solutions](/wiki/brookfield-asset-management/). Headquartered in Galveston, Texas, the company traces roots to American National Insurance Company, established in 1905, and now operates across multiple product lines including fixed index annuities, traditional life insurance, property-casualty coverage, and pension risk transfer solutions.
+**ANG-PD is a depositary share representing a fractional interest in Series D preferred stock of American National Group, a mid-sized insurance holding company with roots back to 1905.** Based in Galveston, Texas, the company operates through interconnected insurance businesses spanning life insurance, annuities (including pension risk transfer solutions), and property-casualty coverage. The preferred equity trades as a single unit, paying a fixed quarterly dividend, and appeals primarily to income-focused investors seeking exposure to the insurance sector's steady cash generation.
 
-<aside class="wiki-infobox">
+Insurance Portfolio and Core Segments
 
-| Aspect | Detail |
-|--------|--------|
-| **Ticker** | ANG-PD (preferred shares) |
-| **Listing** | US-listed on NASDAQ |
-| **SEC CIK** | 1039828 |
-| **Sector** | Financials |
-| **Industry** | Insurance & Annuities |
-| **Headquarters** | Galveston, Texas |
-| **Founded** | 1905 (as American National Insurance Company) |
-| **Type** | Public company (subsidiary of Brookfield Wealth Solutions) |
+American National's operating structure divides into four main areas. Life insurance and group coverage form one pillar, marketed through independent agents, brokers, and registered investment advisors. The annuities segment addresses retirement income needs, with pension risk transfer (PRT) now a significant product line—helping corporate sponsors exit pension obligations by transferring liabilities to insurers. Property and casualty insurance, handled through American National Property And Casualty Company based in Springfield, Missouri, rounds out the portfolio. Distribution reaches across all 50 states, Washington D.C., and Puerto Rico, positioning the company as a broadly accessible carrier rather than a niche player.
 
-</aside>
+Market Position and Investor Profile
 
-## What the company does
+American National competes in a crowded insurance space against both large national carriers and regional specialists. Its preferred stock structure—specifically the Series D depositary shares—follows a straightforward income model: fixed quarterly payments tied to a stated dividend rate, with no equity upside participation. Holders receive a fraction of preferred share economics (1/1000th interest per depositary unit), making the product accessible to small and institutional investors alike. The company underwent a significant rebranding in May 2024, shifting from American Equity Investment Life Holding Company to American National Group Inc., reflecting a broader insurance platform rather than a purely equity-focused strategy.
 
-American National Group operates three core business segments: annuities, life insurance, and property-casualty insurance. The annuities segment focuses on fixed-rate and fixed-index products designed for retirement income, including pension risk transfer vehicles for corporate pension plans. The life insurance division provides traditional life policies to individuals across its insurance subsidiaries. The property-casualty arm, headquartered in Springfield, Missouri, underwrites personal and commercial lines through subsidiaries including American National Property and Casualty Company and Farm Family Casualty Insurance Company.
+At a glance:
 
-## Market reach and distribution
-
-The company conducts business across all fifty states, the District of Columbia, and Puerto Rico. It markets products through independent insurance agents, broker-dealers, banks, registered investment advisors, and independent marketing organizations. This multi-channel distribution model allows the company to reach diverse customer segments from individual consumers to institutional investors managing pension liabilities.
-
-## Where it sits in its industry
-
-American National Group operates in the competitive insurance and annuities space, competing with larger national carriers as well as specialized players in fixed annuities and pension risk transfer. The company's legacy in annuities and life insurance, combined with its property-casualty platform, positions it as a diversified insurer rather than a specialist. Since its acquisition by [Brookfield Wealth Solutions](/wiki/brookfield-asset-management/), the company has operated as part of a larger diversified wealth management platform.
-
-## Corporate structure
-
-American National Group Inc. (the current parent entity) was formerly known as American Equity Investment Life Holding Company before its May 2024 name change following acquisition by Brookfield Wealth Solutions. The actual legacy insurance operations remain housed in subsidiary carriers, particularly American National Insurance Company and its affiliates. This holding company structure separates the operating insurers from the parent equity entity, a common approach in the insurance industry.
-
-## How to research it
-
-The company's financial condition, operational details, and product segments are disclosed in its [SEC filings](/wiki/10-k/), particularly the annual [10-K](/wiki/10-k/) and quarterly 10-Q reports available through the SEC Edgar database (CIK 1039828). These disclosures detail [earnings](/wiki/earnings-per-share/), reserve adequacy, claims activity, and investment holdings. For institutional investors and analysts, the [10-K](/wiki/10-k/) provides in-depth explanation of underwriting results, persistency rates for annuities, and details on [capital structure](/wiki/capital-structure-arbitrage/). Investor relations materials are available through the company's corporate website.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Brookfield Asset Management](/wiki/brookfield-asset-management/)
-- [Annuity](/wiki/annuity/)
-- [Property-casualty insurance](/wiki/property-casualty-insurance/)
-- [Preferred stock](/wiki/preferred-stock/)
-
-### Wider context
-
-- [Insurance industry](/wiki/insurance-industry/)
-- [Life insurance](/wiki/life-insurance/)
-- [Pension risk transfer](/wiki/pension-risk-transfer/)
-- [Public company](/wiki/public-company/)
-
-</div>
+- Depositary shares (1/1000th fractional interest in Series D preferred stock)
+- Fixed quarterly dividend payment structure
+- Insurance holding company with life, annuity, P&C, and PRT exposure
+- Established insurance franchise (American National Insurance Co. founded 1905)
+- Distributed nationwide across 50 states plus D.C. and Puerto Rico
+- Appeal primarily to income investors and dividend portfolios

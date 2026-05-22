@@ -1,60 +1,34 @@
 ---
 title: "AtaiBeckley Inc. (ATAI)"
-description: "Biopharmaceutical company developing therapeutics for mental health and neuropsychiatric conditions, primarily through proprietary small-molecule and psychedelic-assisted treatments."
+description: "Psychedelic pharmaceutical developer combining atai Life Sciences and Beckley Psytech, targeting treatment-resistant depression and other psychiatric conditions through investigational compounds."
 keywords:
-  - AtaiBeckley
-  - ATAI
-  - biopharmaceutical
+  - psychedelic medicine
+  - psychiatric treatment
+  - clinical-stage biotech
+  - depression therapy
   - mental health
-  - psychedelics
-  - neuropsychiatric
+  - hallucinogenic compounds
+handwritten: true
 ---
 
-*[**AtaiBeckley Inc.**](/wiki/public-company/) (**ATAI**) is a biopharmaceutical company focused on developing novel therapeutics for mental health and neuropsychiatric disorders. The company operates as an innovation and biotech platform, leveraging internal research and strategic partnerships to advance treatments for depression, anxiety, PTSD, and related conditions.*
+**AtaiBeckley is a combined pharmaceutical developer focused on psychedelic-assisted treatments for psychiatric conditions.**
 
-<aside class="wiki-infobox">
+The company emerged from the merger of Germany-based atai Life Sciences (founded 2018) and UK-based Beckley Psytech, completing a significant consolidation of the psychedelic medicine sector. The combined entity trades on Nasdaq under ticker ATAI and maintains a distributed footprint across Europe and North America.
 
-| Key Fact | Detail |
-|----------|--------|
-| **Ticker** | ATAI |
-| **Listing** | US-listed; ticker ATAI |
-| **SEC CIK** | 2081043 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical |
-| **Type** | Public company |
+Pipeline and Clinical Development
 
-</aside>
+AtaiBeckley's advancement engine centers on investigational compounds in early and mid-stage development. BPL-003, a mebufotenin benzoate nasal spray formulation, progressed through Phase 2 trials targeting treatment-resistant depression and alcohol use disorder. The VLS-01 program explores DMT in buccal film delivery for similar depressive indications. EMP-01, an oral R-MDMA variant, addresses social anxiety disorder in parallel Phase 2 work. None of these candidates has yet secured regulatory approval.
 
-## What the company does
+The company positions itself within a broader shift in psychiatry toward novel neurobiological mechanisms. Rather than relying on monoamine reuptake inhibition—the standard mechanism of conventional antidepressants—these compounds engage serotonin and other receptor systems through distinct pharmacological profiles.
 
-AtaiBeckley Inc. operates as a diversified biopharmaceutical company with a focus on mental health therapeutics. The company uses a portfolio approach, developing multiple drug candidates across different therapeutic mechanisms. Its pipeline includes both traditional small-molecule pharmacological treatments and compounds derived from or inspired by psychedelic substances. This dual-track strategy allows the company to pursue both conventional regulatory pathways and emerging therapeutic modalities for conditions with high unmet medical need.
+Business Model and Capital Structure
 
-## How it makes money
+As a clinical-stage biotech, AtaiBeckley generates no commercial revenue from product sales. The company relies on capital raises, grants, and partnerships to fund its [10-k](/wiki/10-k/) obligations and R&D activities. The merger itself was structured as a combination aiming to consolidate duplication, streamline operations, and amplify the combined entity's visibility with institutional investors and regulators.
 
-The company generates revenue through multiple potential channels. Primarily, AtaiBeckley seeks to commercialize drug candidates that complete clinical development and gain regulatory approval. The company also pursues strategic partnerships, licensing agreements, and collaborative arrangements with larger pharmaceutical firms, which provide upfront payments, milestone royalties, and potential future royalty streams. Additionally, as a public company, AtaiBeckley accesses capital markets for research funding and operational support through equity offerings.
+## At a Glance
 
-## Research and development focus
-
-AtaiBeckley's therapeutic areas center on mental health, with particular emphasis on treatment-resistant and difficult-to-manage psychiatric disorders. The company invests heavily in preclinical research, clinical trial design, and regulatory strategy to navigate the specialized approval pathways required for novel psychiatric medications. Its approach includes both traditional drug development and emerging therapeutic frameworks, positioning the company at the intersection of established pharmaceutical practice and newer modalities in neuropsychiatry.
-
-## Position in the industry
-
-The mental health therapeutics space includes large established pharmaceutical companies, specialized biotech firms, and academic research institutions. AtaiBeckley differentiates itself through its focused investment in multiple therapeutic mechanisms rather than a single drug candidate. This portfolio strategy, combined with its emphasis on underserved psychiatric indications, allows the company to compete for investment capital and regulatory attention in a competitive but growing sector. The company operates amid evolving regulatory frameworks and increased pharmaceutical industry interest in neuropsychiatric disease.
-
-## How to research it
-
-Investors and researchers can track AtaiBeckley's clinical progress through [SEC filings](/wiki/10-k/), particularly its 10-Q quarterly reports and 10-K annual reports, which provide updates on pipeline status, regulatory developments, and financial performance. The company also publishes clinical trial information through ClinicalTrials.gov, a public database maintained by the U.S. National Library of Medicine. Industry analyses and peer-reviewed publications on psychedelic-assisted therapy and psychiatric drug development offer additional context for understanding the company's therapeutic approach and market position.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Biopharmaceutical](/wiki/biopharmaceutical/)
-- [10-K](/wiki/10-k/)
-
-### Wider context
-- [Stock exchange](/wiki/stock-exchange/)
-- [SEC filing](/wiki/sec-filing/)
-- [Drug development](/wiki/drug-development/)
-
-</div>
+- Pharmaceutical company developing psychedelic compounds for psychiatric disorders
+- Main candidates in Phase 2 trials for treatment-resistant depression, alcohol use disorder, and social anxiety
+- Combination of atai Life Sciences and Beckley Psytech finalized in 2025
+- No approved products; all candidates remain investigational
+- Trades on Nasdaq; clinical development timelines typically extend years before regulatory review

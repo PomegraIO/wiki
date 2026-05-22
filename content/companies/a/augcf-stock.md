@@ -1,74 +1,19 @@
 ---
 title: "AU Gold Corp. (AUGCF)"
-description: "Mining exploration and development company focused on gold properties in North America."
+description: "Vancouver-based junior gold explorer with an eye on the Victorian goldfields, chasing 1880s-era deposits in Australia and BC."
 keywords:
-  - AU Gold Corp
-  - AUGCF
-  - gold mining
-  - mineral exploration
-  - precious metals
+  - gold exploration
+  - junior miner
+  - victoria australia
+  - havelock project
+  - antimony
+handwritten: true
 ---
 
-*[**AU Gold Corp.**](/wiki/public-company/) (**AUGCF**) is a [mineral exploration and development company](/wiki/mining-company/) engaged in acquiring, exploring, and developing gold and silver properties in North America, with a primary focus on [gold assets](/wiki/precious-metals/) in Canada and the United States.*
+AU Gold Corp emerged in 2017 as a Vancouver-based [junior mining](/wiki/junior-mining-company/) outfit, planted squarely in the small-cap exploration world where the work is digging—literally—to uncover what the ground might hold. The company planted roots early with modest ambitions: assemble promising mineral properties and methodically test whether they held gold. Its footprint started in British Columbia, where it assembled the Ponderosa property in the Spences Bridge Gold Belt—420 hectares of claims in Merritt promising enough to warrant serious study.
 
-<aside class="wiki-infobox">
-| Fact | Value |
-|---|---|
-| Ticker | AUGCF |
-| Listing | US-listed; OTC pink sheets trading |
-| SEC CIK | 1839290 |
-| Sector | [Materials](/wiki/materials-sector/) |
-| Industry | Gold & Precious Metals Mining |
-| Type | Exploration & Development Company |
-</aside>
+The real pivot came in 2026 when founder and CEO Marc Blythe, drawing on a track record that included time at Nevsun Resources (acquired by Zijin Mining for $1.9 billion in 2018), set his sights far larger. In January that year, AU Gold negotiated a 100 percent stake in the Havelock Gold-Antimony Project, a sprawling 11,663-hectare property sitting in the heart of Victoria's legendary gold fields, equidistant between Bendigo and Ballarat. That ground held historical weight: back in the 1880s, miners had worked seven separate sites along a 9-kilometer trend, pulling high-grade gold-bearing quartz and stibnite (antimony sulfide) from shallow, accessible workings. The catch? Those 140-plus-year-old discoveries had never been followed up with modern exploration or drilling. The property sat dormant, its deeper potential untested.
 
-## What the company does
+By March 2026, AU Gold had formally closed the Havelock acquisition and launched its first exploration campaign in earnest. Field crews moved through the Victorian landscape conducting inspections of the old workings, mapping, rock-chip sampling, and documenting both recent anomalies and historical records of mineralization. What materialized from that early fieldwork—presented in press releases through mid-2026—were additional gold targets identified in the data, reinforcing the hunch that the old miners had barely scratched the surface. The company announced plans to launch its first modern [drilling](/wiki/stock/) program in the third quarter of 2026, preparing to test depth and scale where ancestors with hand tools and horse power had only glimpsed it.
 
-AU Gold Corp. is a [public company](/wiki/public-company/) operating in mineral exploration, focused primarily on gold and silver discovery and development. The company identifies prospective mineral properties, conducts geological and geochemical surveys, and works toward proving economic viability of ore deposits. Like other junior mining explorers, AU Gold engages in the early-stage work that precedes full mining operations—drilling programs, resource estimation, and permitting—but does not yet operate producing mines at scale.
-
-The company's portfolio typically includes multiple exploration properties at various stages of advancement, from grassroots exploration through to pre-feasibility or feasibility study phases. This multi-project approach is standard in junior gold mining, as it diversifies risk and creates optionality for investors and operators as market conditions and project economics evolve.
-
-## How it makes money
-
-AU Gold's revenue model differs from that of major operating miners. Junior explorers typically have no production revenue in early stages; instead, they are funded through [equity financing](/wiki/equity-financing/) (stock sales), [debt financing](/wiki/debt-financing/), or partnerships and joint ventures with larger miners. The company may also secure funding through [warrant](/wiki/warrant/) offerings or by entering option agreements where larger operators fund exploration work in exchange for the right to acquire or earn-in to the property.
-
-Success in mineral exploration is defined by resource discoveries that add value to the [company's](/wiki/public-company/) portfolio. When a property reaches the feasibility stage and proves economically viable, the company may either proceed to develop and mine it (rare for junior explorers), or more commonly, sell or merge with a larger miner, or form a joint venture where capital and operational expertise are supplied by a major mining company.
-
-## Where it sits in its industry
-
-AU Gold competes in the junior mining exploration segment, a highly fragmented and speculative subsector. Junior explorers range from micro-cap to mid-cap [public companies](/wiki/public-company/), each hunting for the next significant ore deposit. Historically, successful juniors discover a major deposit, demonstrate feasibility, and then either self-develop or sell to a major mining house (or merge) at a premium valuation.
-
-The competitive dynamic is driven by geological expertise, access to capital, and the luck of discovery. Unlike major miners with established reserves and production, juniors must continuously replace and grow their resource bases or risk declining value. Success also depends on commodity prices; gold and silver prices directly affect the economics of all exploration projects, determining which properties are worth developing and which may be abandoned or shelved.
-
-## Research and due diligence
-
-To understand AU Gold's portfolio and prospects, investors and analysts typically review [SEC filings](/wiki/10-k/), including the company's [annual report](/wiki/10-k/) (Form 10-K) and quarterly reports (Form 10-Q). These documents disclose the company's mineral properties, results of exploration programs, resource estimates (if available), and cash position. The SEC's [EDGAR database](/wiki/edgar/) provides full public access to these filings for company CIK 1839290.
-
-Key items to examine include:
-
-- **Property descriptions and location**: Maps, claims status, and neighboring properties.
-- **Exploration results**: Drill assays, geological interpretations, and resource calculations.
-- **Capital expenditure programs**: Planned exploration spending and timeline.
-- **Cash position and burn rate**: How long the company can fund operations without new financing.
-- **Related-party transactions**: Management holdings, insider dealings, and option/warrant structures.
-
-Investors should also consult industry publications, geological conference presentations, and third-party resource estimates when evaluating exploration-stage companies. Due diligence is essential because junior mining is inherently high-risk, and most exploration properties are never developed into mines.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Mineral exploration](/wiki/mineral-exploration/)
-- [Gold mining](/wiki/gold-mining/)
-- [Junior mining companies](/wiki/junior-mining-company/)
-- [Precious metals](/wiki/precious-metals/)
-- [Mining & metals stocks](/wiki/mining-company/)
-
-### Wider context
-- [Materials sector](/wiki/materials-sector/)
-- [Commodity price risk](/wiki/commodity-price-risk/)
-- [Small-cap stocks](/wiki/small-cap-stock/)
-- [OTC pink sheets](/wiki/otc-market/)
-- [Equity financing](/wiki/equity-financing/)
-- [10-K annual filing](/wiki/10-k/)
-
-</div>
+The arc reads like many [junior explorers](/wiki/junior-mining-company/) in the early stage: start small, hunt for a flagship property with real geological credentials, secure it, and mobilize [capital](/wiki/capital-allocation-activism/) to drill the oldest question—is there ore here, and how much? AU Gold is very much in the "mobilizing" phase, with shareholder capital now deployed to turn 140 years of historical hints into quantified resources. The Havelock ground's proximity to two of Australia's most productive historical goldfields suggests the geological odds are not against them.

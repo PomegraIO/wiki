@@ -1,58 +1,30 @@
 ---
 title: "AECOM (ACM)"
-description: "A global professional services and infrastructure company providing design, engineering, consulting, and construction management services."
+description: "Global design and engineering firm delivering infrastructure and professional services across transportation, facilities, and environmental projects."
 keywords:
-  - AECOM
-  - ACM
-  - engineering services
+  - design and engineering
   - infrastructure consulting
-  - construction management
+  - project management
+  - transportation planning
+  - environmental services
+handwritten: true
 ---
 
-*[AECOM](/wiki/public-company/) (ticker **ACM**) is one of the world's largest professional services companies providing engineering, design, consulting, and construction management services. The company serves public and private sector clients on infrastructure, transportation, buildings, water, and environmental projects globally.*
+AECOM is a multinational professional services firm specializing in design, engineering, and program management for infrastructure projects. The company serves governments, corporations, and institutions worldwide, operating across the full lifecycle of infrastructure—from planning and design through construction management and program oversight. It's a large player in the spaces where civil engineering, urban planning, and environmental expertise converge.
 
-<aside class="wiki-infobox">
+The business rests on translating complex mandates into built projects. A city wants to redesign its transit system; a utility needs to upgrade its grid; a developer is planning a mixed-use site. AECOM does the master planning, technical drawings, environmental assessments, permitting coordination, and construction oversight. The work is deeply rooted in regulatory environments, geopolitics, and long-term infrastructure cycles rather than consumer demand or commodity prices.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ACM |
-| Listing | US-listed; ticker ACM |
-| SEC CIK | 868857 |
-| Sector | Professional Services |
-| Industry | Engineering & Consulting |
-| Headquarters | California, USA |
-| Founded | 1990s |
-| Type | Public corporation |
+AECOM's revenue splits across several service lines tied to different client needs:
 
-</aside>
+| Service Area | Scope |
+|--|--|
+| Transportation | Airport terminals, highways, rail systems, urban transit planning |
+| Built Facilities | Buildings, hospitals, schools, data centers, real estate strategies |
+| Environmental & Infrastructure | Water systems, energy, climate resilience, site remediation |
+| Management Services | Program delivery, project controls, owner's representation |
 
-## What the company does
+The firm's scale and global reach give it advantages competing for major government contracts and complex international projects. Much of its work is in developed markets where infrastructure spending cycles, government budgets, and regulatory requirements drive long-term demand. Geographic diversification and diverse service lines buffer against downturns in any single sector, though public works spending remains the backbone.
 
-AECOM provides professional services across multiple disciplines: engineering, architecture, design, construction management, environmental consulting, and management consulting. The company serves clients on major infrastructure projects including transportation systems, water utilities, energy infrastructure, buildings, and government facilities. AECOM's capabilities span the full project lifecycle: planning, design, engineering, procurement, and construction management. The company operates globally, working on projects in developed and developing economies across sectors including infrastructure, buildings, transportation, and water resources.
+AECOM's fortunes are tied to infrastructure spending trends and government budget cycles. In boom phases of public investment—highway expansions, transit systems, smart-grid deployments—demand for design and planning firms accelerates. During austerity periods, that work evaporates. The COVID-era infrastructure bill in the U.S. and comparable commitments abroad have kept the pipeline robust, but the firm's earnings are inherently cyclical and sensitive to political whims.
 
-## How it makes money
-
-AECOM generates revenue through professional services fees, typically structured as time-and-materials contracts, fixed fees for deliverables, or hybrid arrangements. Revenue comes from design and engineering services, construction management fees (often calculated as a percentage of construction costs), and consulting advice. The company also generates revenue from program management and operations services on long-term contracts. Profitability depends on billable utilization of professional staff, effective project delivery (controlling costs to match fixed fees), and maintaining premium pricing for specialized services.
-
-## Where it sits in its industry
-
-AECOM competes with other large global engineering and professional services firms such as Jacobs, Bechtel, and Stantec, as well as smaller specialized regional firms. The company differentiates through global scale, multidisciplinary capabilities, and long-standing client relationships. Competition is based on reputation, technical expertise, past performance, and competitive pricing. The company faces pressure from public sector clients (who represent significant revenue) driving down consulting fees, and from larger engineering firms consolidating the market.
-
-## How to research it
-
-AECOM's [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings detail revenue by sector and geography, backlog (which indicates future revenue), and operating margins by business unit. SEC documents outline major clients and contract terms. Investor presentations discuss market opportunity in infrastructure spending (both public and private), digital transformation initiatives, and geographic expansion. Industry and trade publications track infrastructure spending trends, public project pipelines, and competitive dynamics in professional services.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Professional services](/wiki/professional-services/)
-- [Engineering sector](/wiki/engineering-sector/)
-
-### Wider context
-- [10-K](/wiki/10-k/) — Annual report filing
-- [10-Q](/wiki/10-q/) — Quarterly report filing
-- [Infrastructure projects](/wiki/infrastructure-projects/)
-- [Consulting services](/wiki/consulting-services/)
-
-</div>
+The [10-K](/wiki/10-k/) reveals exposure to contract backlog, resource utilization rates, and margin pressure from labor costs in competitive bidding. Like other large engineering consultancies, AECOM operates in a talent-dependent business where key people and their client relationships directly affect profitability.

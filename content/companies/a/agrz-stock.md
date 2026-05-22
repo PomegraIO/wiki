@@ -1,50 +1,26 @@
 ---
 title: "Agroz Inc. (AGRZ)"
-description: "Agricultural chemicals and crop science company focused on crop protection products and soil management solutions."
+description: "Malaysian agricultural technology company operating indoor controlled environment agriculture vertical farms. Listed on NASDAQ in October 2025; grows pesticide-free leafy greens using AI-driven production systems."
 keywords:
-  - Agroz
-  - AGRZ
-  - agricultural chemicals
-  - crop protection
-  - agrochemicals
-  - soil management
+  - controlled environment agriculture
+  - vertical farming
+  - agtech
+  - leafy greens
+  - malaysia
+  - agricultural technology
+handwritten: true
 ---
 
-*[**Agroz Inc.**](/wiki/public-company/) (**AGRZ**) is an agricultural chemicals and crop science company engaged in the development, manufacture, and distribution of crop protection products and soil management solutions. The company serves farmers and agricultural distributors with products designed to improve crop yields and soil health.*
+Agroz Inc. is a Malaysian agricultural technology company focused on controlled environment agriculture—specifically, designing, developing, building, and operating large-scale industrial vertical farms that grow leafy greens and vegetables in climate-controlled indoor environments. Founded in 2020 and headquartered in Petaling Jaya, the company listed on the NASDAQ Capital Market under ticker AGRZ in October 2025, making it the first Southeast Asian agtech company to complete an IPO on that exchange.
 
-<aside class="wiki-infobox">
-**Ticker** | AGRZ
-**Listing** | US-listed; ticker AGRZ
-**SEC CIK** | 2009233
-**Sector** | Materials
-**Industry** | Agricultural Chemicals & Crop Science
-**Type** | Public corporation
-</aside>
+The company's core business is end-to-end: it controls facility design, construction, ongoing operations, and farm management. Its farms produce a range of pesticide-free crops cultivated in stacked, vertical systems—a model that emphasizes space efficiency, local supply chains, and reduced transportation. By concentrating production close to consumption markets, Agroz positions itself as a solution to food security, freshness, and supply continuity in regions where land and climate present barriers to traditional agriculture.
 
-## What the company does
+## Revenue by Operating Focus
 
-Agroz develops and manufactures agrochemical products, including crop protection agents (insecticides, fungicides, herbicides) and soil amendments or biostimulants designed to enhance soil fertility and crop performance. The company sells products through agricultural distributors and retailers to farmers. The product portfolio targets commodity crops and specialty crops. Research and development investments focus on new formulations, safer products, and solutions addressing emerging crop challenges. The company may operate manufacturing facilities and distribution networks.
+| Area | Details |
+|------|---------|
+| Vertical farming (leafy greens) | Green butterhead, red butterhead, green coral, red coral, green oak, wild rocket, green kale, arugula |
+| Technology & systems | Proprietary Agroz OS platform; AI-driven production deployed on Microsoft Azure |
+| Geographic expansion | Malaysia base; recent initiatives in Japanese strawberry vertical farming |
 
-## How it makes money
-
-The company generates revenue from sales of agrochemical products to agricultural distributors and, in some cases, directly to farmers or commercial operations. Gross margins depend on manufacturing efficiency, raw material costs, product mix, and selling prices. Operating expenses include manufacturing, research and development, marketing, distribution, and sales. Profitability is influenced by commodity crop prices (which affect farmer demand for inputs), input cost trends, competitive pricing pressure, and regulatory costs (product testing and approval). Market size depends on agricultural acreage and farmer spending on inputs.
-
-## Where it sits in its industry
-
-Agroz competes in the global agricultural chemicals industry against large multinational agrochemical companies (Bayer, Corteva, BASF, Syngenta) and smaller specialized regional players. Large competitors have economies of scale, extensive R&D capabilities, and broad product portfolios. Smaller companies like Agroz must compete through specialization, regional advantages, niche products, or targeted innovation. Industry consolidation is ongoing; smaller players face pressure from large companies but also opportunities in underserved markets or emerging crop solutions.
-
-## How to research it
-
-Investors should review the company's [10-K annual report](/wiki/10-k/) and [10-Q quarterly filings](/wiki/10-q/) for product portfolio details, manufacturing capacity, revenue by crop type or region, and research and development pipelines. Commodity crop price trends and farmer input spending surveys contextualize market demand. Industry reports on agricultural chemical markets, crop protection trends, and competitive dynamics inform the outlook. Regulatory developments regarding product approvals and restrictions affect market opportunities and competitive positioning.
-
-<div class="wiki-seealso">
-### Closely related
-- [Agricultural chemicals](/wiki/agricultural-chemicals/)
-- [Crop science](/wiki/crop-science/)
-- [Agriculture and farming](/wiki/agriculture-and-farming/)
-
-### Wider context
-- [Materials sector](/wiki/materials-sector/)
-- [Chemical industry](/wiki/chemical-industry/)
-- [Stock](/wiki/stock/)
-</div>
+Agroz grew revenue significantly, reporting 40.86 million in 2024—a 121% increase year-over-year—while earnings reached 3.51 million. The company's growth trajectory reflects expanding farm capacity, operational maturity, and entry into new crop categories and geographic markets. Its technology stack positions it as not merely a farm operator but a data-driven agtech player, using AI to optimize yields, resource allocation, and crop scheduling across its facilities. As vertical farming moves from niche to scaled commercial deployment, Agroz's early-mover status in Southeast Asia and its integration of proprietary software systems differentiate it within the broader CEA sector.

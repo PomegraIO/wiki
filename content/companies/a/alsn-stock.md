@@ -1,62 +1,27 @@
 ---
 title: "Allison Transmission Holdings Inc (ALSN)"
-description: "Manufacturer of automated transmissions and powertrains for heavy-duty commercial vehicles and defense applications."
+description: "Global leader in automatic transmissions for commercial vehicles, serving heavy-duty trucking, buses, and specialty applications with a decades-long heritage."
 keywords:
-  - Allison Transmission
-  - ALSN
-  - heavy-duty transmissions
+  - automatic transmission
   - commercial vehicles
-  - defense contractor
+  - heavy-duty trucking
+  - transmission manufacturer
+handwritten: true
 ---
 
-*[Allison Transmission Holdings Inc](/wiki/public-company/) (**ALSN**) is a manufacturer of automatic transmissions and complete [powertrains](/wiki/automotive-technology/) for medium-duty and heavy-duty trucks, buses, and defense vehicles. The company operates in the commercial vehicle and defense sectors, providing propulsion solutions to original equipment manufacturers (OEMs) and aftermarket customers globally.*
+**Allison Transmission builds automatic transmissions for the world's toughest commercial vehicles.** The company dominates a specialized engineering niche: powertrains for heavy-duty trucks, transit buses, defense vehicles, and industrial equipment where reliability and durability matter more than cost. Founded in 1915, Allison operates a legacy business with deep moats rooted in decades of OEM relationships, engineering expertise, and the friction costs of switching suppliers.
 
-<aside class="wiki-infobox">
+## The business and how it earns
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | ALSN |
-| Listing | US-listed; [ticker ALSN](/wiki/stock/) on New York Stock Exchange |
-| SEC CIK | 1411207 |
-| Sector | Industrials |
-| Industry | Automotive components and heavy-duty transmissions |
-| Headquarters | Indianapolis, Indiana |
-| Founded | 1915 (as Allison Engineering) |
-| Type | Public company |
+Allison sells automatic transmissions and related services primarily to truck manufacturers (Class 6–8 trucks for long-haul and regional hauling), bus builders, and specialty vehicle makers worldwide. The core revenue model is straightforward: transmission sales bundled with service parts, remanufactured units, and technical support. Heavy-duty vehicles demand extreme durability—transmissions that handle repeated full-load shifting, high-temperature operations, and 500,000+ mile service lives. Allison's engineering and manufacturing reputation translates directly into customer loyalty; once a fleet operator standardizes on Allison transmissions, switching costs are substantial.
 
-</aside>
+## Market position and competition
 
-## What the company does
+Allison holds a commanding share of the North American heavy-duty transmission market and competes globally against ZF (German), Eaton's automated manual transmission division, and traditional manual transmission providers. The growth engine is electrification: as commercial fleets transition to electric heavy trucks, Allison is pivoting toward e-axles and integrated electric drivetrains. The company also benefits from aftermarket service revenue, which carries higher margins and stickier cash flows than original equipment sales. Geographic diversification spans North America, Europe, and Asia-Pacific markets where truck volumes and regulatory emissions pressure drive upgrades to modern transmission platforms.
 
-Allison Transmission designs and manufactures [automatic transmissions](/wiki/automotive-technology/) and complete powertrain systems for commercial and defense vehicles. The company's products are used in heavy-duty trucks, transit buses, military vehicles, and specialty applications. Its transmission systems are known for durability in demanding operating conditions, serving customers in the transportation, construction, and defense industries. The company also provides aftermarket support, including parts, service, and remanufactured transmissions.
-
-## How it makes money
-
-Allison generates revenue through three primary channels: original equipment manufacturer (OEM) sales to truck and bus builders; aftermarket sales of parts and service; and complete powertrain systems for military and specialty vehicles. The company's business model relies on long-term supply relationships with major commercial vehicle manufacturers, as well as recurring revenue from replacement parts and service. Defense contracts represent a meaningful segment of revenue, supported by qualification as a supplier to the U.S. Department of Defense.
-
-## Where it sits in its industry
-
-Allison is a leading independent supplier of heavy-duty [automatic transmissions](/wiki/automotive-technology/) in North America. The company competes with integrated automakers that produce their own transmissions as well as other aftermarket suppliers. Its competitive position rests on engineering expertise, product reliability, and established relationships with commercial vehicle OEMs. The company has adapted to market shifts toward electric and hybrid powertrains by developing electrified transmission systems alongside traditional mechanical transmissions.
-
-## Key markets and customers
-
-The company serves major commercial vehicle manufacturers including truck builders and bus producers in North America and internationally. Significant customers include leading manufacturers of commercial trucks, school buses, transit buses, and specialty vehicles. The U.S. military and defense contractors represent another important market segment, with Allison transmissions used in various military vehicles and equipment.
-
-## How to research it
-
-Review Allison Transmission's [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings with the SEC for detailed financial performance, business segment results, customer concentration, and risk factors. The company's investor relations website provides press releases, earnings call transcripts, and presentations to analysts. Industry publications covering automotive suppliers, heavy-duty vehicle manufacturers, and defense contractors offer context on competitive dynamics and market trends. Patent filings provide insight into the company's technology development, particularly in electric and hybrid propulsion systems.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [10-K](/wiki/10-k/) (annual report structure and content)
-- [Automatic transmissions](/wiki/automotive-technology/)
-- [Original equipment manufacturer](/wiki/oem/) (OEM supply relationships)
-
-### Wider context
-- [Commercial vehicles](/wiki/commercial-vehicle-industry/)
-- [Automotive suppliers](/wiki/automotive-tier-1-suppliers/)
-- [Defense contractor](/wiki/defense-contracting/)
-- [Public company](/wiki/public-company/) (business structure)
-
-</div>
+At a glance:
+- Automatic transmissions for Class 6–8 trucks, transit buses, and defense vehicles
+- Serves original equipment manufacturers and end-user fleets with aftermarket support
+- Global supply chain with manufacturing in the United States and strategic partnerships abroad
+- Electrification and e-axle technology development in response to EV transition
+- Recurring revenue from service parts and remanufactured units

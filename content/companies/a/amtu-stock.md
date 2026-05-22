@@ -1,56 +1,39 @@
 ---
 title: "AMATUHI HOLDINGS, INC. (AMTU)"
-description: "AMATUHI HOLDINGS, INC. is a publicly traded company offering technology and services to its clients across multiple sectors."
+description: "Japanese operator of group homes for individuals with disabilities, providing supported communal living services under the AMANEKU brand."
 keywords:
-  - AMATUHI HOLDINGS
-  - AMTU
-  - technology
-  - public company
-  - stock
+  - disability services
+  - group homes
+  - japan healthcare
+  - elder care
+  - nasdaq listing
+handwritten: true
 ---
-
-*[AMATUHI HOLDINGS, INC.](/wiki/amtu-stock/) (**AMTU**) is a [public company](/wiki/public-company/) that develops and delivers technology-driven solutions and services to serve customers across diverse industries. The company operates within the technology and services sector, positioning itself as a provider of scalable business solutions.*
 
 <aside class="wiki-infobox">
 
-| Attribute | Value |
-|-----------|-------|
+**AMATUHI HOLDINGS, INC.**
+
+| Field | Value |
+|-------|-------|
 | **Ticker** | AMTU |
-| **Listing** | US-listed; ticker AMTU |
-| **SEC CIK** | 2078570 |
-| **Sector** | Technology & Services |
-| **Type** | Public Company |
+| **Exchange** | Nasdaq Capital Market |
+| **Sector** | Healthcare / Social Services |
+| **Founded** | 2021 (Japan operations) |
+| **Headquarters** | Yokohama, Kanagawa, Japan |
+| **Primary Brand** | AMANEKU |
+| **Business Type** | Group Homes & Disability Support |
 
 </aside>
 
-## What the company does
+## The Business Model
 
-AMATUHI HOLDINGS focuses on delivering integrated technology solutions and professional services to organizations seeking digital transformation and operational efficiency. The company's business model centers on helping clients modernize their operations through targeted software and service offerings.
+AMATUHI operates group homes that provide communal living services for people with disabilities in Japan. Under Japan's Comprehensive Support for Persons with Disabilities Act, the company receives government funding to support individuals who want to live independently in small residential settings rather than institutional facilities. This is fundamentally a social services business operating within a government-backed regulatory framework—residents receive both housing and daytime support services that enable community participation and daily functioning.
 
-## How it makes money
+The company also owns Life Shine Co. Ltd., acquired in August 2024, which operates complementary elderly care facilities specializing in dementia care and hospice services, though this subsidiary remains smaller relative to the core AMANEKU group home operation.
 
-The company generates revenue primarily through service delivery, software licensing, and technology solutions contracts with enterprise clients. This revenue mix allows the company to maintain recurring revenue streams while also capturing project-based consulting and implementation work.
+## Market Position and Revenue Structure
 
-## Where it sits in its industry
+AMATUHI went public on Nasdaq in 2025 with a $24 million offering. At the time of the IPO, the company operated approximately 1,000 employees and served residents across locations in Yokohama and Osaka. Unlike for-profit healthcare providers in Western markets, AMATUHI's revenue model is heavily dependent on Japanese social welfare government contracts and subsidy structures. The group home concept reflects a deliberate policy shift in Japan away from institutional care toward community-integrated living arrangements—this creates both a stable revenue stream (government-backed) and regulatory predictability, though it also caps growth potential at the rate of policy expansion and demographic demand within Japan's aging population.
 
-AMATUHI HOLDINGS competes within the broader technology and professional services sector, competing against both specialized boutique firms and larger diversified technology companies. The company targets mid-market and enterprise clients seeking customized technology implementations and ongoing managed services.
-
-## How to research it
-
-Investors seeking detailed financial and operational information about AMATUHI HOLDINGS should review its SEC filings, particularly the [10-K](/wiki/10-k/) annual report and quarterly 10-Q forms, which provide comprehensive disclosures on revenue, expenses, cash flow, business segments, and risk factors. These filings are publicly available through the SEC's [EDGAR](https://www.sec.gov/cgi-bin/browse-edgar) database using the company's CIK 2078570.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Public Company](/wiki/public-company/)
-- [Stock](/wiki/stock/)
-- [10-K](/wiki/10-k/)
-
-### Wider context
-
-- [Technology Sector](/wiki/technology-sector/)
-- [Stock Exchange](/wiki/stock-exchange/)
-- [SEC Filings](/wiki/10-k/)
-
-</div>
+The disability services market in Japan faces demographic headwinds common to developed economies: an aging society and workforce constraints. For AMATUHI, this means chronic labor pressures in hiring caregiving staff, a challenge shared across the sector.

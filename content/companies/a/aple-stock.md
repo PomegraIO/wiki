@@ -1,70 +1,30 @@
 ---
 title: "Apple Hospitality REIT, Inc. (APLE)"
-description: "A lodging REIT that owns and operates limited-service and select-service hotels primarily in the United States, focused on upscale properties in key travel markets."
+description: "REIT owning upscale and upper-midscale hotels across the U.S., investing in extended-stay and premium branded properties with recurring room revenue."
 keywords:
-  - Apple Hospitality REIT
-  - APLE
-  - lodging REIT
-  - real estate investment trust
-  - hotel operations
-  - hospitality
+  - hotel reit
+  - hospitality real estate
+  - lodging properties
+  - branded hotels
+handwritten: true
 ---
 
-*[**Apple Hospitality REIT, Inc.**](/wiki/public-company/) (**APLE**) is a [real estate investment trust](/wiki/reit/) that owns, operates, and franchises upscale and select-service [hotels](/wiki/hospitality-industry/) across the United States. The company invests in [limited-service hotel](/wiki/hotel-lodging-categories/) properties, positioning itself in the segment between economy and full-service accommodations.*
+## What kind of company is this?
 
-<aside class="wiki-infobox">
+Apple Hospitality REIT is a publicly traded real estate investment trust that owns and operates hotels across the United States. Unlike traditional hotel chains that manage properties, Apple Hospitality acquires the physical real estate—the buildings—and collects rental income from third-party operators who run the day-to-day business. Most of its properties operate under major brands like Marriott, Hilton, IHG, and Wyndham, which handle the guest experience while Apple Hospitality owns the asset. As a [REIT](/wiki/reit/), it distributes most of its taxable income to shareholders as [dividends](/wiki/dividend/).
 
-| Property | Detail |
-|----------|--------|
-| Ticker | APLE (US-listed) |
-| SEC CIK | 1418121 |
-| Sector | Real Estate |
-| Industry | Lodging & Hotel Operators |
-| Headquarters | Richmond, Virginia |
-| Founded | 2010 |
-| Type | Public REIT |
+## Where does the money come from?
 
-</aside>
+The company generates revenue from room rentals at its hotel properties. When a guest checks into a branded hotel that Apple Hospitality owns, the operator (property management company) pays rent to Apple Hospitality from the room revenue. The company also earns ancillary income from conference facilities, food and beverage operations, and guest services. Cash flow fluctuates with seasonal travel patterns and macro-economic conditions—business travel and leisure demand vary by season, and recessions rapidly cut occupancy rates. The REIT is therefore highly cyclical; its [10-K](/wiki/10-k/) shows heavy exposure to RevPAR metrics and occupancy rates.
 
-## What the company does
+## Why own hotels through a REIT instead of directly?
 
-Apple Hospitality operates a portfolio of upscale limited-service and select-service hotels, predominantly branded properties under major franchisors like Hilton, IHG, Marriott, and Wyndham. The portfolio spans coastal markets, mountain destinations, and urban centers, with properties primarily in high-demand regions. The company functions both as a [property operator](/wiki/property-management/) and property owner, directly managing many of its assets while employing regional management teams.
+REITs like Apple Hospitality offer income investors several advantages. They pay higher-yield dividends than bonds or most stocks, and that income is passed through to shareholders with certain tax characteristics preserved. Investors gain exposure to real estate without managing properties or dealing with tenants directly. The REIT also benefits from professional management and diversification across many properties and markets. The downside: REIT share prices are volatile and sensitive to interest-rate moves (higher rates reduce the present value of future dividends) and travel demand shocks. A recession or pandemic can devastate occupancy and cash flow in months.
 
-## How it makes money
+## How does it compete?
 
-The REIT derives revenue principally from room rental income and ancillary hotel services—conference facilities, food and beverage offerings, and guest services. As a [REIT](/wiki/reit/), Apple Hospitality must distribute a substantial portion of taxable income to shareholders as [dividends](/wiki/dividend/). Revenue fluctuates with seasonal travel patterns and macroeconomic conditions affecting leisure and business travel. The company also generates management fees where it serves as operator for properties it does not own.
+Apple Hospitality competes against other hotel REITs (like Park Hotels & Resorts or Chatham Lodging Trust), traditional hotel chains that own properties, and private hotel operators. Success depends on acquiring quality properties at favorable prices, maintaining strong relationships with brand operators, and keeping properties in high-demand locations. Brand affiliation matters enormously—a Marriott property typically maintains higher occupancy and rates than an independent hotel, but the brand charges franchise fees that reduce the owner's net margin. The company's scale is smaller than mega-REITs like Welk Resorts Trust, but it maintains significant independent presence in key markets.
 
-## Capital structure and asset management
+## What's the risk profile?
 
-Apple Hospitality has historically pursued an [acquisition](/wiki/acquisition/) strategy, acquiring individual properties and small portfolios to expand its portfolio. The company finances growth through debt, [equity offerings](/wiki/equity-offering/), and [retained earnings](/wiki/retained-earnings/). As a REIT, it is subject to [real estate investment trust](/wiki/reit/) regulations requiring it to invest primarily in real property, maintain [leverage](/wiki/financial-leverage/) discipline, and distribute income to shareholders.
-
-## Where it sits in its industry
-
-The U.S. lodging market is competitive, with REITs, private operators, and branded hotel companies all competing for market share. Apple Hospitality competes on property quality, location selection, and operational efficiency. The company's strategy emphasizes markets with strong barriers to entry and consistent demand drivers, from resort destinations to strategic urban corridors. The company is smaller than lodging giants like Marriott Bonvoy REIT or major chains, but maintains a significant independent hotel operation presence.
-
-## How to research it
-
-Potential investors and industry analysts typically consult the following sources:
-
-- **SEC filings**: Annual [10-K](/wiki/10-k/) reports detail the company's property portfolio, capital structure, and operating performance. [10-Q](/wiki/10-q/) quarterly reports provide updated metrics on occupancy rates, average daily rates, and [revenue per available room](/wiki/revpar-metric/).
-- **Investor relations**: Apple Hospitality's quarterly earnings calls and presentations are useful for management commentary on market conditions and strategy.
-- **Industry reports**: Lodging market research from firms like STR (now CoStar) and Hotelogix provides competitive benchmarking and demand indicators.
-- **Regulatory disclosures**: Schedule A documents on the SEC Edgar system list all properties owned and their respective performance metrics.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Real estate investment trust (REIT)](/wiki/reit/)
-- [Limited-service hotel](/wiki/hotel-lodging-categories/)
-- [Property management company](/wiki/property-management/)
-- [Lodging industry fundamentals](/wiki/hospitality-industry/)
-- [Hotel RevPAR metric](/wiki/revpar-metric/)
-
-### Wider context
-- [REIT regulation and taxation](/wiki/reit-taxation/)
-- [Commercial real estate cycles](/wiki/commercial-real-estate/)
-- [Hospitality sector investing](/wiki/hospitality-sector-investing/)
-- [Dividend-paying stocks](/wiki/dividend/)
-- [U.S. stock market](/wiki/stock-exchange/)
-
-</div>
+The hospitality sector is cyclical and operationally sensitive. A slowdown in business travel, loss of key lodging brands, or sudden occupancy declines can shrink cash flow rapidly. Debt levels matter—like most REITs, Apple Hospitality uses leverage to fund acquisitions, so rising interest rates increase financing costs. Properties in seasonal or economically sensitive markets carry higher volatility. Conversely, properties in stable markets with consistent demand offer more predictable returns, making location selection a critical success factor.

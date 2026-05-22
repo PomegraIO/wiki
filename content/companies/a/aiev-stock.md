@@ -1,62 +1,24 @@
 ---
 title: "Thunder Power Holdings, Inc. (AIEV)"
-description: "Electric vehicle manufacturer focused on development and production of lithium-ion battery-powered vehicles and related energy solutions."
+description: "Electric vehicle manufacturer developing premium passenger EVs and pursuing clean energy expansion through solar power plants and EPC provider acquisitions."
 keywords:
-  - Thunder Power Holdings
-  - AIEV
   - electric vehicles
-  - EV manufacturer
-  - battery-powered
+  - evs
+  - clean energy
+  - solar power
+  - electric vehicle manufacturing
+handwritten: true
 ---
 
-*Thunder Power Holdings, Inc. (AIEV) is a **designer, developer, and manufacturer of electric vehicles** and related energy solutions, operating primarily in the automotive and clean energy sectors.*
+Thunder Power Holdings is an electric vehicle manufacturer that brought its product lineup public after a reverse merger with Feutune Light Acquisition Corporation on Nasdaq in June 2024. The Taiwan-based company designs and builds premium passenger electric vehicles, with proprietary technologies embedded across its [stock](/wiki/stock/) platform.
 
-<aside class="wiki-infobox">
+The company's immediate product focus spans four categories: a coupe model, a compact city car, long-range sedans, and long-range SUVs. Its primary target markets are in Asia and Europe, though management has indicated interest in U.S. distribution channels as part of long-term growth strategy.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AIEV |
-| Listing | US-listed; ticker AIEV |
-| SEC CIK | 1912582 |
-| Sector | Automotive & Clean Energy |
-| Industry | Electric Vehicle Manufacturing |
-| Type | Public Company |
+Beyond its core EV business, Thunder Power is aggressively pursuing vertical integration and diversification into clean energy infrastructure. The company has been evaluating and acquiring solar power plants and engineering, procurement, and construction (EPC) solar providers—particularly in southern Taiwan. This clean energy pivot is part of a stated strategy to build a broader renewable energy portfolio and reduce reliance on a single product line.
 
-</aside>
+For [public company](/wiki/public-company/) investors, Thunder Power's [10-K](/wiki/10-k/) disclosures reveal a business in transition between early-stage EV production scaling and emerging solar infrastructure accumulation. The company operates in a highly competitive EV segment against established automakers and well-funded startups globally, while simultaneously building solar assets in a fragmented regional market. Its ability to execute on product launches, manage capital deployment across two distinct business lines, and navigate Taiwan's regulatory environment are key operational variables.
 
-## What the company does
-
-Thunder Power Holdings designs and manufactures electric vehicles, with a focus on developing passenger vehicles powered by lithium-ion battery systems. The company's product portfolio centers on clean energy mobility solutions, positioning itself within the broader electric vehicle market. Operations span vehicle design, engineering, and manufacturing capabilities, supported by research and development efforts aimed at advancing battery and powertrain technologies.
-
-## How it makes money
-
-The company generates revenue through sales of electric vehicles and related components. Its business model relies on direct vehicle sales and partnerships with distributors and original equipment manufacturers (OEMs). Revenue also comes from after-market services and energy solutions tied to its vehicle ecosystem. The company's margins depend on manufacturing efficiency, production volumes, and the competitive pricing of its battery-powered vehicles.
-
-## Where it sits in its industry
-
-Thunder Power operates in the competitive electric vehicle sector, competing against established automakers entering the EV space and dedicated EV manufacturers. The company's competitive position is shaped by its battery technology capabilities, vehicle design, production scale, and access to capital for research and infrastructure development. As a smaller player in a capital-intensive industry dominated by larger manufacturers, the company must differentiate through innovation, cost efficiency, or market focus.
-
-## Capital structure and financing
-
-As a public company, Thunder Power has raised capital through equity markets to fund vehicle development, manufacturing facilities, and working capital. The company's ability to access public markets, secure debt financing, or attract strategic investments influences its ability to scale production and compete with larger rivals. Management's capital allocation decisions—between dividend payments, reinvestment, debt service, and acquisitions—drive long-term shareholder value.
-
-## How to research it
-
-Investors can review the company's [SEC 10-K annual report](/wiki/10-k/) and 10-Q quarterly filings, available through the [SEC EDGAR database](/wiki/sec-edgar/) or the company's investor relations website. These filings detail financial performance, operational metrics, competitive positioning, risk factors, and management discussion. Industry reports on the electric vehicle market, battery technology trends, and automotive supply chains provide broader context for understanding the company's growth prospects and challenges.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Electric vehicle sector](/wiki/electric-vehicles/)
-- [Lithium-ion battery technology](/wiki/lithium-ion-batteries/)
-- [Automotive manufacturing](/wiki/automotive-industry/)
-- [SEC 10-K filings](/wiki/10-k/)
-
-### Wider context
-
-- [Clean energy transition](/wiki/clean-energy/)
-- [Capital markets](/wiki/public-company/)
-- [Equity financing](/wiki/stock-issuance/)
-
-</div>
+**Main business focus:**
+- Premium electric vehicle models (coupes, city cars, sedans, SUVs)
+- Solar power plant ownership and operations
+- Engineering and construction services for solar installations

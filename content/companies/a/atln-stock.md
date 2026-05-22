@@ -1,51 +1,31 @@
 ---
 title: "ATLANTIC INTERNATIONAL CORP. (ATLN)"
-description: "Atlantic International Corp. is a publicly traded company with SEC CIK 1605888, listed on a US exchange under ticker ATLN. Review SEC filings for detailed business operations and financials."
+description: "Micro-cap trading entity with minimal operating history, registered with the SEC as a public company. Review SEC filings to assess current business status and corporate structure."
 keywords:
   - Atlantic International Corp
   - ATLN
-  - SEC CIK 1605888
-  - public company
-  - US-listed company
+  - micro-cap
+  - penny stock
+  - shell company
+handwritten: true
 ---
 
-*[**Atlantic International Corp.**](/wiki/public-company/) (**ATLN**) is a [US-listed](/wiki/stock-exchange/) public company registered with the SEC under CIK 1605888.*
+**Atlantic International Corp. is a thinly traded public company with limited disclosure of core business operations, typical of micro-cap issuers.**
 
-<aside class="wiki-infobox">
+## Corporate Status and Trading Profile
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | ATLN |
-| Listing | US-listed; ticker ATLN |
-| SEC CIK | 1605888 |
-| Type | Public company |
+Atlantic International operates as a [public company](/wiki/public-company/) under ticker ATLN and CIK 1605888, with a historical link to the ticker SQLLW. The company trades on US exchanges with minimal volume and analyst coverage, placing it in the micro-cap category. Like many small-cap trading entities, detailed information about ongoing business activities remains sparse in public sources—the primary avenue for understanding the company's actual operations is directly reviewing its SEC filings rather than relying on secondary sources.
 
-</aside>
+## Accessing Corporate Information
 
-## Overview
+Investors interested in Atlantic International's business status should consult the company's [10-K](/wiki/10-k/) annual reports and 10-Q quarterly filings, accessible through the SEC's EDGAR database using CIK 1605888. These filings disclose the company's description of business operations, financial condition, risk factors, and any material events. For micro-cap firms trading on limited volume, the 10-K is often the most informative document available, outlining revenue sources, assets, liabilities, and management's discussion of operations.
 
-Atlantic International Corp. operates as a [publicly traded](/wiki/public-company/) enterprise, incorporated and structured to comply with SEC regulations and securities exchange requirements. The company files standard [10-K](/wiki/10-k/) annual reports and periodic 10-Q quarterly reports detailing its operations, financial condition, and material developments.
+## Key Considerations for Research
 
-## How to Research It
+At a glance:
+- Publicly traded entity with low trading volume
+- SEC-registered company with standard annual and quarterly reporting requirements
+- Minimal commercial visibility outside regulatory filings
+- Typical of shell or early-stage operating companies with limited investor base
 
-Investors and analysts seeking detailed information about Atlantic International Corp. should consult the company's SEC filings, available through the SEC's EDGAR database by searching CIK 1605888. The annual [10-K](/wiki/10-k/) provides comprehensive disclosure of business segments, risk factors, management discussion and analysis, and audited financial statements. Quarterly 10-Q filings offer interim updates on financial performance and significant corporate events.
-
-## SEC Filings and Disclosure
-
-As a public company, Atlantic International Corp. is subject to securities regulation and must disclose material information to shareholders and the investing public. The [10-K](/wiki/10-k/) filing serves as the primary annual disclosure document, covering five years of selected financial data, business description, and management effectiveness assessment. Investors can track company developments, executive compensation, insider trading activity, and corporate governance matters through its continuous SEC filings and proxy statements.
-
-## See Also
-
-<div class="wiki-seealso">
-
-### Closely related
-- [10-K](/wiki/10-k/)
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-
-### Wider context
-- [SEC regulation](/wiki/sec-regulator/)
-- [Securities disclosure](/wiki/beneficial-ownership-disclosure/)
-- [Quarterly reporting](/wiki/comprehensive-income/)
-
-</div>
+Understanding Atlantic International requires direct engagement with its SEC filings, as press releases, analyst reports, and industry databases offer limited coverage. Potential investors should read the most recent 10-K and 10-Q thoroughly to assess current operational status, financial health, and forward direction.

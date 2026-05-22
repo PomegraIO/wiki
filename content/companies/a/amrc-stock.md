@@ -1,64 +1,25 @@
 ---
 title: "Ameresco, Inc. (AMRC)"
-description: "Leading energy solutions and infrastructure modernization company providing renewable energy, energy efficiency, and grid modernization services to utilities and public facilities."
+description: "Energy services and engineering firm that helps utilities, municipalities, and large institutions reduce energy use and shift to clean power through efficiency upgrades and renewable energy."
 keywords:
-  - Ameresco
-  - AMRC
-  - renewable energy
   - energy efficiency
-  - infrastructure modernization
-  - utilities
+  - renewable energy
+  - utility services
+  - building upgrades
+  - energy management
+handwritten: true
 ---
 
-*[Ameresco, Inc.](https://www.ameresco.com/) (**AMRC**) is a provider of comprehensive energy and infrastructure solutions, specializing in renewable energy development, energy efficiency upgrades, and grid modernization services for utilities, municipalities, and public-sector organizations.*
+**Ameresco is an energy services company that designs, finances, and builds renewable energy and efficiency systems for utilities, municipalities, and public agencies.** The firm operates as engineer, contractor, and long-term operator rolled into one, putting capital upfront to upgrade buildings or develop renewable infrastructure, then recovering costs through energy savings or power generation revenue over 15-20 years. That risk-sharing structure—where the company's profit directly depends on delivering promised savings—is central to its business model.
 
-<aside class="wiki-infobox">
+The company's primary revenue comes from three streams. Energy-savings performance contracts (ESPCs) are the marquee offering: Ameresco funds an entire retrofit or renewable installation for a municipal building or campus, installs it, operates it, and collects a cut of the resulting utility bill reductions. Design-and-build work brings in fees for engineering and construction when a client finances the project itself. Operations and maintenance contracts provide recurring revenue from managing systems Ameresco or others have built. That mix of upfront execution risk and long-tail recurring revenue creates both predictability and exposure.
 
-| Key Fact | Detail |
-|----------|--------|
-| **Ticker** | AMRC |
-| **Listing** | US-listed; ticker AMRC |
-| **SEC CIK** | 1488139 |
-| **Sector** | Energy |
-| **Industry** | Renewable Energy & Energy Efficiency Services |
-| **Headquarters** | Waltham, Massachusetts |
-| **Founded** | 2000 |
-| **Type** | Public Company |
+Projects range from solar installations and battery storage to LED lighting, HVAC upgrades, and distributed generation systems. Customers are predominantly public sector—schools, municipalities, state agencies, federal facilities—and utilities themselves. Public agencies favor ESPCs because they can modernize infrastructure without upfront capital expenditure, while Ameresco benefits from long, stable contracts with creditworthy counterparties. Federal tax credits, depreciation incentives, and state renewable mandates drive demand, but depend on policy stability. Rising interest rates increase project financing costs; inflation pressures material and labor expenses; supply-chain bottlenecks in solar modules and batteries delay execution.
 
-</aside>
+Competitors range from established engineering firms and general contractors to specialized renewable developers and utilities building in-house capabilities. Ameresco's edge lies in scale, geographic reach, and willingness to take on ESPC risk when others won't. The backlog of signed contracts is material and provides forward visibility. Execution risk is real—if energy savings don't materialize or projects run over budget, margins compress. A recession that tightens municipal budgets or reduces industrial demand for on-site power would slow the pipeline.
 
-## What the company does
+Main product categories: solar energy systems, distributed generation, energy efficiency retrofits (lighting, HVAC, controls, insulation), grid modernization services, and battery storage. The company also provides energy consulting and performance monitoring to optimize customer results.
 
-Ameresco designs and builds renewable energy systems, energy efficiency retrofits, and distributed generation infrastructure. Its projects span solar installations, wind farms, battery storage systems, HVAC upgrades, lighting systems, and combined heat and power installations. The company contracts primarily with municipal governments, utilities, federal agencies, and educational institutions seeking to reduce operational costs and environmental impact.
+---
 
-## How it makes money
-
-Ameresco generates revenue through three primary channels. **Design and build contracts** involve designing and constructing energy infrastructure projects for clients who own and operate the assets. **Energy-savings performance contracts** (ESPCs) function as long-term arrangements where Ameresco finances, installs, and maintains systems, collecting revenue from client energy savings over a contracted period. **Operations and maintenance agreements** provide ongoing service for renewable and efficiency systems after installation.
-
-## Where it sits in its industry
-
-Ameresco competes with established engineering firms, general contractors, and specialized renewable energy providers. The company has positioned itself on scale—it executes projects across multiple states and customer segments—and on risk-taking through ESPCs, where its performance depends directly on actual energy cost reductions. Public-sector demand for renewable energy and efficiency improvements, driven by municipal net-zero commitments and federal incentives, creates a growing addressable market.
-
-## Key business dynamics
-
-The company's pipeline depends on capital availability to customers and regulatory support for energy efficiency and renewable projects. Federal tax credits, depreciation incentives, and grant programs significantly influence project economics. Long-term ESPCs generate recurring revenue but require upfront project capital and expose the company to inflation, interest rates, and customer credit risk. Supply-chain dependencies for solar components, batteries, and HVAC equipment affect project costs and timelines.
-
-## How to research it
-
-Review Ameresco's [10-K filing](/wiki/10-k/) with the SEC to understand revenue composition, backlog value, project pipeline, and cost structure. Quarterly [10-Q filings](/wiki/stock-exchange/) track cash flow generation from ESPC contracts and project execution. Press releases and earnings calls disclose major contract awards and backlog trends. Investor presentations outline management's strategy for scaling ESPCs and participating in grid modernization.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Renewable energy](/wiki/renewable-energy/) — Core business line
-- [Energy efficiency](/wiki/energy-efficiency/) — Primary service offering
-- [Distributed generation](/wiki/distributed-generation/) — On-site power systems
-- [Performance contracts](/wiki/performance-contracts/) — ESPC business model
-
-### Wider context
-- [Electric utilities](/wiki/electric-utilities/) — Primary customer base
-- [Public-private partnerships](/wiki/public-private-partnerships/) — ESPC structure
-- [Federal energy incentives](/wiki/federal-energy-incentives/) — Policy drivers
-- [Infrastructure stocks](/wiki/infrastructure-stocks/) — Market segment
-
-</div>
+**See also:** [Public company](/wiki/public-company/), [10-K](/wiki/10-k/)

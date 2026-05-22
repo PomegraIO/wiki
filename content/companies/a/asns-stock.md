@@ -1,55 +1,26 @@
 ---
 title: "ACTELIS NETWORKS INC (ASNS)"
-description: "Provider of Ethernet extension technology and DSL-based solutions for long-distance connectivity over copper telephone lines."
+description: "Networking company delivering hybrid fiber-copper solutions for wide-area IoT, government, and infrastructure projects using existing infrastructure."
 keywords:
-  - ACTELIS NETWORKS INC
-  - ASNS
-  - telecommunications
-  - Ethernet technology
-  - DSL solutions
-  - network infrastructure
+  - networking solutions
+  - fiber-copper hybrid
+  - iot connectivity
+  - infrastructure networks
+handwritten: true
 ---
 
-*[**ACTELIS NETWORKS INC**](/wiki/public-company/) (ticker **ASNS**) is a [telecommunications](/wiki/stock/) company that specializes in extending Ethernet connectivity over long distances using copper telephone infrastructure. The company develops and markets products that enable carriers, service providers, and enterprises to deliver high-speed data services across legacy telephone networks without deploying fiber-optic cable.*
+Actelis Networks builds networking hardware and software to connect remote sites without tearing up the ground. The company's core insight is that not every project needs brand-new fiber—it can upgrade existing copper and coaxial cable to deliver modern speeds and security. That approach saves money and time, which matters for government agencies, utilities, transportation systems, and large campuses that need reliable, distributed connectivity.
 
-<aside class="wiki-infobox">
+The company was founded in 1998 and operates from Fremont, California, selling equipment and platforms into the wide-area Internet of Things market. Instead of a single product, Actelis offers a toolkit: broadband amplifiers, repeaters, switching devices, ethernet access equipment, and fiber-copper bridges that let old infrastructure carry new workloads. Their MetaShield platform layers on cyber-hardened monitoring and operational continuity tracking via cloud software. The approach is marketed as cost-effective and fast to deploy.
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | ASNS |
-| Listing | US-listed; ticker ASNS |
-| SEC CIK | 1141284 |
-| Sector | Technology |
-| Industry | Telecommunications Equipment |
+Actelis sells through system integrators, distributors, and contractors into niches where geography and existing assets constrain choices—military bases, state transportation departments, utility metering networks, rail operators, telecom carriers, and campus IT teams. Government and infrastructure customers dominate the served market. The company provides ongoing support and remote management software to keep deployed networks maintained and updated.
 
-</aside>
+The hybrid fiber-copper strategy is patented, and Actelis positions it as defensible against pure-fiber plays that assume starting from scratch. The business model hinges on selling boxes and recurring software subscriptions, targeting buyers who need speed-to-deployment and cost control rather than cutting-edge bandwidth. Growth depends on adoption in public-sector and critical-infrastructure contracts—sectors where IT budgets are stretched and replacement cycles are long.
 
-## What the company does
+**Main products and platforms:**
 
-Actelis Networks develops Ethernet extension technology designed to overcome distance limitations in copper-based telephone networks. Its primary product category extends Ethernet signals over conventional telephone lines (often called Digital Subscriber Line, or DSL, infrastructure), allowing service providers to deliver broadband-speed data connections to locations where fiber deployment would be economically impractical. The company serves carriers seeking to economize on network expansion, regional internet service providers, and enterprises needing reliable data links to remote facilities.
-
-## How it makes money
-
-The company generates revenue through direct sales of networking equipment to telecommunications carriers and service providers, as well as licensing its technology to equipment manufacturers. Recurring revenue may also come from professional services, installation, and support contracts. The business model is capital-equipment focused, meaning revenue depends on customer adoption cycles and capital spending decisions by service providers facing pressure to extend network reach cost-effectively.
-
-## Where it sits in its industry
-
-Actelis operates in a specialized niche within the broader telecommunications equipment sector. Rather than competing in mainstream broadband technologies like fiber-optic or wireless, it targets the economic problem of "last mile" connectivity in areas where new infrastructure investment is unattractive. The company competes indirectly with fiber-deployment vendors and wireless-broadband providers, but its value proposition is cost reduction for carriers already committed to copper networks. As networks gradually upgrade to fiber and wireless technologies, companies in this space face long-term headwinds unless they diversify into adjacent solutions.
-
-## How to research it
-
-Examine the company's [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-q/) filings with the [SEC](/wiki/stock-exchange/) for details on customer concentration, product mix, and technology roadmap. Pay particular attention to customer retention rates and the pace of carrier investment in network upgrades, as both affect demand for copper-based extension technology. Industry analysis from telecommunications analysts and equipment research firms can provide context on whether carrier spending on legacy-network extension is growing or declining.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Telecommunications equipment industry](/wiki/telecommunications-equipment/)
-- [DSL and broadband technology](/wiki/telecommunications-services/)
-- [Ethernet](/wiki/ethernet-protocol/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [Technology sector](/wiki/technology-sector/)
-- [Network infrastructure](/wiki/infrastructure-investing/)
-
-</div>
+- MetaLIGHT and Gigaline element management systems
+- MetaShield SaaS cyber-security and monitoring platform
+- Access broadband equipment for copper and fiber
+- Switching and aggregation devices
+- Network enclosures and signal conditioning hardware

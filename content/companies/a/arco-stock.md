@@ -1,61 +1,26 @@
 ---
 title: "Arcos Dorados Holdings Inc. (ARCO)"
-description: "Operator of McDonald's restaurants across Latin America and the Caribbean, the largest franchisee by revenue in the region."
+description: "McDonald's franchise operator across 21 countries in Latin America and the Caribbean, managing company-operated and franchised restaurants with a focus on sustainability and local supply chains."
 keywords:
-  - Arcos Dorados
-  - ARCO
-  - McDonald's franchise
-  - quick-service restaurant
-  - Latin America
-  - restaurant operator
+  - mcdonald's franchisee
+  - latin america restaurant operator
+  - quick-service restaurant franchising
+  - emerging markets food service
+handwritten: true
 ---
 
-*Arcos Dorados Holdings Inc.* (ticker **ARCO**) is a large [public company](/wiki/public-company/) that operates McDonald's restaurants across Latin America and the Caribbean. It is the world's largest McDonald's franchisee by revenue, holding exclusive rights to develop and operate McDonald's locations in key markets including Brazil, Argentina, and Puerto Rico. The company combines restaurant operations with supply chain and real estate management to serve millions of customers daily across its operating territories.
+## Who is Arcos Dorados?
 
-<aside class="wiki-infobox">
+Arcos Dorados is the largest independent McDonald's [franchisee](/wiki/franchise-agreement/) in the world, operating across 21 countries in Latin America and the Caribbean. Founded as a McDonald's operator in the region, the company has grown to manage a footprint spanning from Mexico and the Caribbean islands to Argentina and southern Chile. The name itself—arcos dorados, or "golden arches"—signals its singular focus: running McDonald's restaurants as the designated operator for this territory. Unlike McDonald's Corporation itself, which collects royalties globally from franchisees, Arcos Dorados absorbs the operational risk and reward of actually running kitchens, managing staff, and serving customers.
 
-**Key Facts**
+## How many restaurants does it operate, and where?
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | ARCO |
-| Listing | US-listed; ticker ARCO |
-| SEC CIK | 1508478 |
-| Sector | Consumer Discretionary |
-| Industry | Quick-Service Restaurant Operator |
-| Type | Public company |
+The company runs thousands of [McDonald's](/wiki/mcd-stock/) restaurants across its territory, making it the region's dominant quick-service restaurant operator. The geographic spread ranges across major economies like Brazil, Mexico, Argentina, and Chile, plus smaller Caribbean territories such as Aruba, Curaçao, and Martinique. Beyond sheer unit count, Arcos Dorados manages around 100,000 regional jobs, positioning itself as a significant employer. The scale is enough to command supply chain partnerships and vendor relationships that smaller operators cannot, and it has built a network where approximately 76 percent of inputs come from local suppliers rather than imported goods.
 
-</aside>
+## Where does its money come from?
 
-## What the company does
+Arcos Dorados earns revenue from two primary sources: company-operated restaurant sales and franchisee royalties from restaurants owned and operated by third parties under the McDonald's brand. The company-operated stores generate food and beverage revenue at the point of sale, while franchise operations produce a more stable stream of royalties and rental income. Like all quick-service [franchisees](/wiki/franchise-agreement/) in developed and emerging markets, it depends on consistent customer traffic, competitive pricing, and operational efficiency to sustain margins amid labor costs and commodity inflation. Currency and inflation volatility in Latin America adds complexity—when local currencies weaken or prices surge, the company must balance affordability for consumers with profitability for shareholders.
 
-Arcos Dorados operates and franchises McDonald's restaurants across Latin America and the Caribbean. The company has built its business through both company-operated restaurants and subfranchising arrangements, enabling rapid expansion in markets where direct ownership would face barriers. The restaurant network spans multiple countries with Brazil as a dominant market, supported by operations in Argentina, Puerto Rico, and other Caribbean and Central American territories. The company manages all aspects of restaurant operations—from procurement and supply chain logistics to real estate management and customer service.
+## What makes this operator different from McDonald's itself?
 
-## How it makes money
-
-The company generates revenue through several channels. Company-operated restaurants contribute sales from food and beverage service to end consumers. Subfranchising operations yield royalty income as Arcos Dorados collects fees from franchisees who operate their own McDonald's locations under the brand. Real estate operations produce leasing revenue when the company owns properties and subleases them to franchisees. The model allows capital efficiency: franchisees invest in their stores and operations while Arcos Dorados captures returns through royalties, rent, and supply agreements. This structure has enabled the company to maintain a large footprint while managing its balance sheet exposure.
-
-## Where it sits in its industry
-
-Arcos Dorados is the largest McDonald's franchisee worldwide by system sales and holds a prominent position in the quick-service restaurant sector across Latin America. The company benefits from the global brand strength of McDonald's and operates in markets with large urban populations and growing middle classes. However, it faces competition from other international and regional QSR chains, local restaurant operators, and the broader consumer discretionary spending environment. Its geographic concentration in Latin America and Caribbean territories creates both opportunity—from market growth in developing economies—and risk from currency fluctuations and macroeconomic sensitivity in those regions.
-
-## How to research it
-
-The company files [10-K](/wiki/10-k/) annual reports and 10-Q quarterly reports with the [SEC](/wiki/sec-filing/), which detail financial performance, operational metrics, real estate holdings, and franchise agreements. These filings explain the structure of its subfranchising relationships, capital expenditure plans, and segment performance by geography. Investor presentations and earnings calls provide management's perspective on market conditions, expansion plans, and strategic priorities. The company's investor relations materials discuss McDonald's system trends, labor costs, commodity exposure, and the competitive environment. Industry analysts cover the quick-service restaurant sector, offering comparative analysis with peers in both developed and emerging markets.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [McDonald's Corporation](/wiki/mcd-stock/) — the parent franchisor
-- [Quick-service restaurant](/wiki/quick-service-restaurant/) — industry segment
-- [Franchise agreement](/wiki/franchise-agreement/) — business model structure
-- [Latin America currency risk](/wiki/latin-america-currency-risk/) — geographic exposure
-
-### Wider context
-
-- [Emerging-market equity](/wiki/emerging-market-equity/) — geographic and currency exposure
-- [Consumer discretionary sector](/wiki/consumer-discretionary-sector/) — sector classification
-- [Restaurant industry dynamics](/wiki/restaurant-industry-dynamics/) — competitive environment
-
-</div>
+The distinction is crucial for investors. McDonald's Corporation owns the brand, collects royalties from franchisees worldwide, and holds most real estate. Arcos Dorados, by contrast, is a franchisee—it operates the restaurants, hires the staff, buys the supplies, and keeps the daily revenue minus expenses. McDonald's gets paid regardless of whether an individual restaurant is thriving or struggling. Arcos Dorados must execute on every operational decision. This means the company benefits when its restaurants perform well but absorbs losses when they do not. It also means Arcos Dorados must navigate local labor laws, tax regimes, and consumer preferences in each of its 21 countries, with no corporate safety net.

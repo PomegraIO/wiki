@@ -1,62 +1,26 @@
 ---
 title: "ALTEX INDUSTRIES INC (ALTX)"
-description: "Altex Industries is an industrial distributor specializing in bearings, power transmission components, and industrial supplies across North America."
+description: "Onshore oil and gas exploration and production company with interests in Utah and Wyoming properties, trading OTC with minimal active operations."
 keywords:
-  - Altex Industries
-  - ALTX
-  - industrial distribution
-  - bearings
-  - power transmission
-  - distributor
+  - oil and gas
+  - exploration and production
+  - upstream energy
+  - otc stocks
+  - energy sector
+  - minor operator
+handwritten: true
 ---
 
-*ALTEX INDUSTRIES INC* (**ALTX**) is a distributor of bearings, power transmission components, and industrial supplies serving manufacturing and maintenance operations across North America. The company operates within the industrial distribution sector, maintaining distribution centers and supplying customers ranging from large manufacturers to smaller maintenance and repair operations.
+**Altex Industries is a minimal-footprint oil and gas exploration and production company.** Incorporated in 1985, it operates through its subsidiary Altex Oil Corporation, focusing on interests in onshore productive oil and gas properties. The company trades over-the-counter under the ticker ALTX and is headquartered in Denver, Colorado, though most of its operational activity concerns holdings in Utah and Wyoming.
 
-<aside class="wiki-infobox">
+The company's business is straightforward but small-scale. It owns interests in productive onshore oil and gas properties—assets it has accumulated over decades through purchases of producing properties and participation in drilling programs. Its revenue streams are limited and episodic: primarily oil and gas sales from its holdings, occasional interest income, and rare bonus payments when operators renew lease terms. With just one employee and proved reserves measured in thousands of barrels, Altex operates more as a holding company managing legacy assets than as an active operator or explorer.
 
-**Quick facts**
+Altex represents a particular class of energy company common in the 1980s and 1990s—small independents with scattered acreage that lack the capital or corporate infrastructure to expand. The company's long trading history on OTC markets reflects its persistent but minimal presence in the energy sector. Its small market capitalization and thin trading volume are consistent with companies that maintain listing status primarily through legacy filings and occasional operational updates rather than growth ambitions.
 
-| Item | Detail |
-| --- | --- |
-| Ticker | ALTX |
-| Listing | US-listed; ticker ALTX |
-| SEC CIK | 775057 |
-| Sector | Industrials |
-| Industry | Industrial Distribution |
-| Type | Public company |
+**Main holdings and revenue sources:**
+- Interests in productive onshore oil and gas properties in Utah and Wyoming
+- Oil and gas production sales
+- Mineral lease bonus payments (occasional)
+- Interest income on balances
 
-</aside>
-
-## What the company does
-
-Altex Industries distributes a broad range of industrial products focused on mechanical power transmission and bearing solutions. The company sources products from manufacturers and sells them to customers who need components for machinery repair, maintenance, and production operations. Its business model centers on maintaining inventory, providing technical expertise to customers, and operating a distribution network that supports rapid fulfillment.
-
-## Market position
-
-The company operates in a fragmented industrial distribution market where success depends on geographic reach, product availability, customer relationships, and service capabilities. Altex competes with larger national distributors as well as specialized regional players. The industrial distribution sector serves as a backbone for manufacturing operations across North America, meaning demand correlates with factory activity and capital investment cycles.
-
-## How to research it
-
-The company's financial details and operational performance are disclosed in SEC filings, including the [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-k/) filings. These documents contain information on revenue by product line, geographic distribution of sales, customer concentration, inventory management, and competitive positioning. Investors typically examine gross margins, inventory turnover, and cash flow patterns to assess distribution company health, particularly in relation to industrial manufacturing cycles.
-
-## What drives the business
-
-Altex's performance depends on demand from manufacturing and maintenance operations across its service territories. Revenue and margins are influenced by industrial production levels, capital spending by manufacturers, and competitive pricing pressures. The company's ability to maintain product availability, manage inventory efficiently, and retain customer relationships affects its competitive standing. Economic slowdowns in manufacturing typically pressure industrial distributors as customers defer maintenance and capital projects.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Industrial distribution](/wiki/industrial-distribution/) — sector overview
-- [Bearings](/wiki/bearings/) — primary product category
-- [Power transmission](/wiki/power-transmission/) — key product segment
-- [Inventory turnover](/wiki/days-inventory-outstanding/) — key operational metric
-
-### Wider context
-
-- [Industrials sector](/wiki/industrials-sector/) — broader sector
-- [Manufacturing cycle](/wiki/business-cycle/) — demand driver
-- [Distribution networks](/wiki/supply-chain/) — operational backbone
-- [10-K](/wiki/10-k/) — where to find detailed financials
-
-</div>
+For investors researching smaller energy operators, Altex exemplifies the challenges and characteristics of surviving as a junior producer: limited liquidity, episodic revenue dependent on commodity prices, and minimal organizational scale. Its [10-K](/wiki/10-k/) filings with the SEC show sporadic adjustments to reserve estimates and proved property values rather than material business developments.

@@ -1,56 +1,30 @@
 ---
 title: "ALTA EQUIPMENT GROUP INC. (ALTG)"
-description: "Equipment manufacturer and distributor serving industrial, construction, and agricultural sectors across North America and internationally."
+description: "Equipment leasing and rental company providing construction, aerial lift, and industrial equipment to contractors and construction firms across North America."
 keywords:
-  - ALTA EQUIPMENT GROUP
-  - ALTG
-  - equipment manufacturing
+  - equipment leasing
   - construction equipment
-  - industrial equipment
-  - equipment distribution
+  - aerial lifts
+  - industrial rentals
+  - equipment financing
+  - rental fleet
+handwritten: true
 ---
 
-*ALTA EQUIPMENT GROUP INC. (ALTG) is a manufacturer and distributor of equipment serving the industrial, construction, agricultural, and related markets. The company designs, manufactures, and distributes a range of equipment products to customers across North America and select international markets.*
+ALTA EQUIPMENT GROUP is an industrial equipment leasing and rental company. It buys construction and aerial lift equipment, then leases those assets to contractors and construction firms—a straightforward play on the equipment-rental market. The business makes money from lease revenue: customers rent equipment by the day, week, or month instead of buying it outright, and ALTA collects the rental fees while managing depreciation, maintenance, and utilization across its fleet.
 
-<aside class="wiki-infobox">
+Most contractors prefer renting for project-specific or seasonal work. Renting avoids the capital burden of ownership, sidesteps maintenance headaches, and lets crews scale their equipment needs up or down based on current workload. That appeal to mid-market and smaller construction operators drives ALTA's revenue. The company holds inventory in multiple geographic markets and can coordinate equipment availability for larger jobs, which is valuable for customers who want to source multiple asset types from a single vendor.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ALTG |
-| **Listing** | US-listed; ticker ALTG |
-| **SEC CIK** | 1759824 |
-| **Sector** | Industrials |
-| **Industry** | Machinery & Equipment |
-| **Type** | Public company |
+A large piece of the revenue pie is aerial lifts—boom lifts, scissor lifts, and related equipment rented by the day or longer. The rental desk market is fragmented, dominated by local and regional competitors, but larger consolidators like ALTA have the scale to maintain inventory across many regions and offer coordinated logistics for substantial projects. Beyond straight rentals, ALTA also finances equipment purchases for customers, stretching the cost over time and earning finance income—expanding its relationship with the customer beyond pure equipment rental.
 
-</aside>
+The business is sensitive to construction activity levels, public infrastructure spending, and how willing contractors are to rent versus buy. Economic slowdowns, margin pressure on contractors, and shrinking project pipelines all reduce lease demand and pricing. On the flip side, a healthy construction cycle and infrastructure investment boost both volume and rates. The key financial challenge is deploying capital efficiently—keeping equipment in service at profitable lease rates rather than sitting idle—and managing credit risk when financing customer equipment purchases.
 
-## What the company does
+Core asset classes and services:
 
-ALTA Equipment Group manufactures and distributes equipment designed for use in construction, industrial, agricultural, and related applications. The company's product portfolio includes various types of specialized machinery and equipment that serve both rental fleets and direct-purchase customers. The company operates manufacturing facilities and distribution centers to serve its diverse customer base.
+- Aerial lifts (boom, scissor, telehandler lifts)
+- General construction equipment (compressors, generators, pumps, heaters)
+- Earthmoving and material-handling equipment
+- Daily and multi-month rental contracts
+- Equipment financing and structured lease programs
 
-## Business model and segments
-
-The company generates revenue primarily through the sale of manufactured equipment to distributors, rental companies, and end-users. The business model combines manufacturing capabilities with distribution infrastructure, allowing the company to control product quality and manage customer relationships across multiple channels. Operating segments typically reflect different equipment categories or geographic markets.
-
-## Market position
-
-ALTA Equipment Group competes in fragmented industrial equipment markets where differentiation is driven by product quality, innovation, reliability, and customer service. The company's position depends on its ability to maintain efficient manufacturing operations, develop equipment that meets customer requirements, and build strong relationships with its distribution and rental networks.
-
-## How to research it
-
-The company files quarterly and annual reports with the SEC, available through the [/wiki/10-k/] filings system. The most recent annual 10-K provides comprehensive information about the business segments, competitive landscape, manufacturing operations, customer concentration, risk factors, and financial performance. Quarterly 10-Q filings offer updates on operational trends and recent results. The investor relations section on ALTA's corporate website typically includes press releases and presentation materials.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [/wiki/stock-exchange/](/wiki/stock-exchange/)
-- [/wiki/10-k/](/wiki/10-k/)
-- [/wiki/public-company/](/wiki/public-company/)
-
-### Wider context
-- Industrial manufacturing and distribution
-- Construction equipment markets
-- Equipment rental industry dynamics
-
-</div>
+Related: [/wiki/stock/](/wiki/stock/) | [/wiki/10-k/](/wiki/10-k/)

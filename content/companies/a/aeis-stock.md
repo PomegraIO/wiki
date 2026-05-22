@@ -1,67 +1,31 @@
 ---
 title: "ADVANCED ENERGY INDUSTRIES INC (AEIS)"
-description: "US semiconductor equipment manufacturer; specializes in power conversion and process control solutions for semiconductor manufacturing, solar, and industrial applications."
+description: "Advanced Energy Industries manufactures power conversion and process control systems for semiconductor equipment, solar manufacturing, and industrial applications."
 keywords:
-  - Advanced Energy
-  - AEIS
   - semiconductor equipment
   - power conversion
+  - RF generators
   - power supplies
-  - process control
   - semiconductor manufacturing
+  - solar equipment
+handwritten: true
 ---
 
-*Advanced Energy Industries Inc. (ticker AEIS) is a US manufacturer of power conversion and process control systems serving semiconductor equipment makers, semiconductor manufacturers, solar equipment producers, and industrial customers. The company designs and manufactures power supplies, RF (radio frequency) generators, and control systems that are critical subsystems in semiconductor manufacturing equipment and other industrial applications.*
+**Advanced Energy Industries began as a power electronics supplier in the 1980s and evolved into a critical component provider for semiconductor manufacturing equipment.**
 
-<aside class="wiki-infobox">
-| **Ticker** | AEIS |
-| **Listing** | US-listed on NASDAQ |
-| **SEC CIK** | 927003 |
-| **Sector** | Information Technology / Semiconductors |
-| **Industry** | Semiconductor Equipment Components & Power Systems |
-| **Headquarters** | Fort Collins, Colorado |
-| **Founded** | 1981 |
-| **Type** | Public corporation |
-</aside>
+## The power conversion foundation
 
-## What the company does
+AEIS was established in Fort Collins, Colorado, serving industrial and telecommunications customers with specialized power supply and conversion equipment. During the 1990s and early 2000s, the company built expertise in high-frequency power electronics and began supplying components to emerging sectors like solar photovoltaic equipment manufacturing. Solar inverters and manufacturing systems needed reliable, efficient power conversion hardware—a natural market for AEIS to enter as renewable energy gained policy support and investment momentum globally.
 
-Advanced Energy manufactures specialized power supply and process control equipment serving equipment makers and end-use industries. In semiconductors, the company produces RF generators and power supplies integrated into deposition, etch, and other fabrication equipment. These subsystems are critical components that must meet exacting performance standards. Solar equipment manufacturers use Advanced Energy power supplies in production systems. Industrial customers employ the company's equipment for heating, welding, and other applications.
+## Solar growth and diversification
 
-The company operates on a B2B (business-to-business) model, selling directly to equipment manufacturers (OEMs) and sometimes directly to end users. Products are customized, engineered solutions, not commodity items.
+The company became known for power supplies and control systems integrated into solar production equipment. As the solar industry boomed through the 2000s and 2010s, AEIS benefited from steady demand from solar equipment makers. But this market, though growing, remained vulnerable to commodity pricing pressure and policy shifts. To build sustainable competitive moats, AEIS pursued opportunities in higher-margin, more specialized sectors. The company began targeting semiconductor manufacturing equipment—a market with tighter performance requirements, higher prices, and closer customer relationships with major OEMs.
 
-## How it makes money
+## Semiconductor equipment emergence
 
-Advanced Energy earns revenue through equipment and subsystem sales. Customers purchase systems or integrate the company's components into their own equipment. Pricing is based on technical specifications, performance characteristics, customization requirements, and competitive positioning. The company also generates revenue from replacement parts, service contracts, and technical support. Gross margins reflect manufacturing costs, engineering complexity, production efficiency, and pricing power. Operating expenses include R&D (essential for maintaining technical leadership in power electronics), sales/engineering support, and administrative overhead.
+AEIS expanded its product portfolio to include RF (radio frequency) generators, plasma power supplies, and precision control systems used in semiconductor fabrication equipment. These components are essential for deposition, etch, and ion implantation processes used in advanced chip manufacturing. Semiconductor equipment suppliers like ASML, Tokyo Electron, and others integrate AEIS subsystems into their own equipment sold to wafer fabs. This B2B-to-B2B model ties AEIS revenue closely to semiconductor industry capital spending cycles—volatile but lucrative when fabs are expanding capacity for new process nodes.
 
-Profitability improves with scale—higher production volumes reduce per-unit costs. Customer concentration risk exists; loss of a major customer or equipment OEM can significantly impact revenues.
+## Present state and capital intensity
 
-## Where it sits in its industry
+Today AEIS operates across three market segments: semiconductor equipment components (the largest and highest-margin business), solar and renewable energy equipment, and industrial power systems. The company's fortunes track semiconductor fab capital spending, which surges during periods of capacity expansion and AI infrastructure buildup, then contracts during downturns. Product complexity and technical differentiation insulate AEIS from pure price competition; customers depend on its reliability, performance, and engineering support. The business remains capital-intensive, requiring continuous R&D investment to keep pace with advanced chip-making requirements. Geographic exposure spans North America, Europe, and Asia-Pacific, with heavy concentration in Taiwan and South Korea through major customer relationships.
 
-Advanced Energy operates in the specialized power electronics and semiconductor equipment components sector. The company competes against larger, diversified equipment suppliers and specialized power supply vendors. Competitive advantages derive from technical expertise in power conversion and process control, relationships with major equipment OEMs, and ability to meet exacting performance and reliability specifications.
-
-The company's fortunes are closely tied to semiconductor capital equipment cycles—when chip fabs invest in new equipment, OEMs purchase Advanced Energy systems; when fab spending slows, demand contracts. Solar equipment demand depends on solar module manufacturing capacity and renewable energy adoption. Industrial applications provide some demand stability but are smaller businesses.
-
-## How to research it
-
-Review Advanced Energy's annual [10-K filing](/wiki/10-k/) and quarterly [10-Q reports](/wiki/10-q/) for customer concentration analysis, revenue by market segment (semiconductors, solar, industrial), and order backlog. Understand the company's major OEM customers and end-market exposure. Examine gross margins and operating margins to assess pricing power and operational efficiency. Research R&D spending as a percentage of revenue, as continuous innovation is essential in high-performance electronics. Analyze the company's exposure to semiconductor capital equipment cycles and solar equipment demand. Track the company's position in emerging areas like advanced process nodes, power conversion efficiency, and control system software. Monitor competitive developments and any customer wins or losses.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Semiconductor equipment](/wiki/semiconductor-equipment/)
-- [Power electronics](/wiki/power-electronics/) (if available)
-- [Semiconductor manufacturing](/wiki/semiconductor-manufacturing/)
-- [Capital equipment](/wiki/capital-equipment/)
-- [Public company](/wiki/public-company/)
-
-### Wider context
-
-- [Semiconductor fab capital spending](/wiki/semiconductor-capex/) (if available)
-- [Solar equipment manufacturing](/wiki/solar-manufacturing/) (if available)
-- [RF technology](/wiki/rf-technology/) (if available)
-- [OEM supplier relationships](/wiki/oem-supplier/) (if available)
-- [Equipment vendor cycles](/wiki/equipment-cycles/) (if available)
-
-</div>

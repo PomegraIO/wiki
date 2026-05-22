@@ -1,65 +1,32 @@
 ---
 title: "Aramark (ARMK)"
-description: "A leading food and facilities services company serving corporate, educational, and healthcare clients across North America and internationally."
+description: "Major food services and facilities management company serving corporate clients, sports venues, schools, and healthcare institutions across North America."
 keywords:
-  - Aramark
-  - ARMK
   - food services
   - facilities management
-  - corporate services
-  - healthcare support services
+  - venue catering
+  - corporate dining
+  - facilities operations
+handwritten: true
 ---
 
-*[**Aramark**](/wiki/public-company/) (**ARMK**) is a food and facilities management company serving corporate, educational, healthcare, and correctional clients. The company operates primarily in the United States and internationally, providing dining services, facility maintenance, laundry, and environmental services to a diversified client base.*
+## What does Aramark actually do?
 
-<aside class="wiki-infobox">
+Aramark operates in a business that few consumers encounter directly, yet touches millions daily. The company manages food services and facilities for a sprawling roster of clients: Fortune 500 offices, NFL and NBA venues, college campuses, elementary schools, hospitals, and military bases. It's a behind-the-scenes operator that handles not just preparing and serving meals, but also managing the entire ecosystem—kitchens, uniforms, vending machines, grounds maintenance, cleaning crews, and custodial operations. The company essentially leases its labor and logistics to keep institutions fed, clothed, and clean. It's a classic services business with sticky customer relationships and recurring revenue.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ARMK |
-| **Listing** | US-listed; ticker ARMK |
-| **SEC CIK** | 1584509 |
-| **Sector** | Industrials |
-| **Industry** | Facilities & Outsourced Services |
-| **Headquarters** | Philadelphia, Pennsylvania |
-| **Founded** | 1936 |
-| **Type** | Public corporation |
+## How does the revenue actually flow?
 
-</aside>
+Aramark makes money by charging clients for three things: food and beverage services (by far the largest piece), facilities and other services, and uniform and facility rental. Contracts are typically multi-year arrangements with base fees, volume adjustments, and the ability to pass through commodity cost inflation. Many clients are trapped into long renewals because switching vendors mid-stream is operationally disruptive. A school district doesn't lightly fire its food-service operator mid-academic year. That structural stickiness—combined with volume discounts and pricing power around commodity pass-throughs—creates a durable profit engine, albeit one that lives or dies on the efficiency of thousands of operating locations.
 
-## What the company does
+## Where does it sit among competitors?
 
-Aramark operates as a comprehensive facilities and food services provider. The company delivers integrated services across three main segments: food and support services, uniform and career apparel services, and facility services. Its operations span corporate offices, educational institutions, healthcare facilities, sports venues, cultural institutions, and correctional facilities. The company manages everything from meal preparation and nutrition planning to custodial services, plant operations, and textile management for institutional clients.
+Aramark competes in an industry of institutional service providers. Sodexo remains the largest global competitor; regional players fragment the market. Aramark's particular strength lies in North American venues and education. Unlike pure restaurant operators with singular P&Ls per location, Aramark's unit economics depend on volume leverage, margin per meal, and utilization of its labor platform across many sites. Recessions hit hard because corporate accounts retrench and school budgets tighten; upturns reward the company's fixed-cost structure. The pandemic revealed both resilience and exposure—venue closures devastated revenue overnight, yet the business's essential nature and client relationships enabled recovery through refinancing and operational adjustments.
 
-## How it makes money
+## What should investors actually track?
 
-Aramark generates revenue through long-term service contracts with institutional customers. These contracts are typically multi-year agreements covering food service operations, facility maintenance, uniform rental and laundry services, and ancillary support functions. The company's business model relies on operational efficiency—managing labor, procurement, and asset utilization across thousands of client locations. Revenue scales with both the number of clients served and the depth of services provided to each account.
+Three metrics matter most: organic same-unit sales growth (real volume expansion beyond price increases), operating margin expansion (squeezing efficiency from each revenue dollar), and cash flow conversion after [capital expenditure](/wiki/capex-budgeting/). Aramark carries significant [leverage](/wiki/debt-to-equity-ratio/) from acquisitions and infrastructure investment, so free cash flow—not accounting earnings—determines financial health. Watch contract wins and losses in key verticals (venues versus corporate versus healthcare), commodity inflation trends, and labor availability. A staffing crisis at a university kitchen or stadium surfaces immediately in service quality and client churn, making labor metrics surprisingly predictive of medium-term stock performance.
 
-## Where it sits in its industry
+## Why does it matter?
 
-Aramark ranks among the largest integrated facilities service providers globally, competing against companies like Sodexo and other regional operators. The company differentiates itself through integrated service offerings—combining food, facilities, and uniform services reduces client friction and creates switching costs. Its scale provides procurement advantages in food sourcing and supplies. The business benefits from the structural trend of outsourcing—organizations increasingly prefer to contract specialized services rather than manage them internally, though competition remains intense and customer retention is critical.
+Aramark's business assumes that institutional feeding and facilities remain fragmented, labor-intensive, and best outsourced to specialized operators rather than managed in-house. That thesis held for decades and likely persists, but labor scarcity and cost discipline by institutional clients test the model annually. The stock rewards margin expansion and contract wins; it punishes labor inflation, client losses, and recession-driven volume compression.
 
-## Operational considerations
-
-The company's profitability depends heavily on operational execution and labor cost management. Labor represents a significant expense in food and facilities services, making wage inflation and turnover important factors. Client concentration matters—large accounts represent substantial revenue portions, so losing a major client impacts results. Commodity price exposure, particularly in food costs, affects margins. The company also manages complex service delivery across geographically dispersed locations, requiring robust operational infrastructure and management systems.
-
-## How to research it
-
-Aramark files quarterly and annual reports with the SEC under CIK 1584509. The 10-K provides detailed segment performance data, client concentration metrics, contract terms, and competitive positioning. The 10-Q offers interim financial updates and operational metrics. Analyst reports from major investment banks cover the stock regularly, discussing margin trends and contract wins or losses. Industry conferences and trade publications focused on facilities management and institutional services provide context on market trends, labor availability, and competitive dynamics. Understanding contract renewal cycles and client retention rates offers insight into revenue sustainability.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Public company](/wiki/public-company/)
-- [10-K filing](/wiki/10-k/)
-- [Business-development company](/wiki/business-development-company/)
-- [Earnings per share](/wiki/earnings-per-share/)
-
-### Wider context
-
-- [Industrials sector](/wiki/industrials/)
-- [Outsourcing and labor economics](/wiki/business-cycle/)
-- [Commercial real estate](/wiki/commercial-real-estate/)
-
-</div>

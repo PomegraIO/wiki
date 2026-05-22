@@ -1,74 +1,21 @@
 ---
 title: "AvePoint, Inc. (AVPT)"
-description: "Cloud data governance and compliance software company specializing in Microsoft 365 data protection, backup, and compliance solutions."
+description: "Software company providing data management, governance, and protection services across Microsoft 365, Google Workspace, and Salesforce for enterprise customers."
 keywords:
-  - AvePoint
-  - AVPT
-  - software
-  - cloud
+  - cloud data management
+  - microsoft 365 saas
   - data governance
-  - Microsoft 365
+  - backup and recovery
+  - enterprise software
+handwritten: true
 ---
 
-*AvePoint, Inc. (ticker **AVPT**) is a cloud-native software company focused on data governance, compliance, and protection solutions for enterprise customers, primarily serving organizations using the Microsoft 365 ecosystem.*
+**AvePoint is a software company built around the mission of safeguarding enterprise data in the cloud.** Founded in 2001 and publicly traded on [Nasdaq](/wiki/stock-exchange/), the firm operates a platform designed to help large organizations govern, protect, and optimize their investments in collaborative cloud services—primarily Microsoft 365, Google Workspace, and Salesforce. The company positioned itself early in the transition to cloud computing and has become the dominant independent vendor serving Microsoft 365 customers, with a customer roster spanning roughly a quarter of the Fortune 500.
 
-<aside class="wiki-infobox">
+The Confidence Platform sits at the heart of AvePoint's offering, a unified suite addressing three interlocking problems that arise as enterprises sprawl across cloud applications. The first is governance and optimization: keeping sensitive data accessible only to the right people, enforcing compliance policies, and preventing wasteful spending on redundant or unused SaaS licenses. The second is resilience—automated backups, ransomware recovery, and archival systems designed to prevent data loss from human error, malicious actors, or system failures. The third is modernization, helping organizations retire legacy on-premises systems and migrate legacy data to cloud-native workflows. Most customers purchase across multiple suites, creating recurring revenue and deepening the relationship between vendor and buyer.
 
-| Fact | Value |
-|------|-------|
-| Ticker | AVPT |
-| Listing | US-listed; ticker AVPT |
-| SEC CIK | 1777921 |
-| Sector | Software |
-| Industry | Enterprise software |
-| Headquarters | Jersey City, New Jersey |
-| Founded | 2010 |
-| Type | Public company |
+The economics of the business have shifted notably toward subscription-based SaaS models, which generate more predictable and stickier revenue than perpetual-license software or one-time implementation projects. This transition has been central to the company's strategy and growth narrative. The customer base is deliberately wide—covering thousands of enterprises and millions of end users—rather than dependent on a handful of massive accounts. That breadth reduces customer concentration risk. The salesforce reaches into enterprises of varying sizes, from mid-market companies to multinational Fortune 100 operations, with go-to-market strategies tailored to different buying patterns and budget cycles.
 
-</aside>
+Revenue expansion has come from both new customer acquisition and consumption growth from existing customers adopting more modules or protecting larger portions of their data estate. Sales and marketing spend has remained substantial, as is typical for software vendors competing for large enterprise deals, but the nature of the customer relationship—where switching costs are meaningful once a company integrates AvePoint's systems into mission-critical workflows—creates natural retention. The company also pursues acquisitive growth, bringing in complementary tools and customer bases to accelerate product capability and market reach.
 
-## What the company does
-
-AvePoint develops and sells software that helps organizations manage, govern, and protect critical data stored in cloud platforms, particularly within Microsoft 365 (including SharePoint, OneDrive, Teams, and Exchange). The platform addresses compliance requirements, data protection, and information governance challenges that enterprises face as they increasingly adopt cloud-based collaboration tools. The company's solution set encompasses backup and recovery, retention management, data governance, and security features designed to help organizations meet regulatory requirements and internal policies.
-
-## Revenue model and market positioning
-
-AvePoint operates on a subscription and perpetual license model, with revenues derived primarily from software subscriptions, professional services, and support contracts. The company targets mid-market and enterprise customers across various industries including financial services, healthcare, government, and technology sectors. Distribution occurs through both direct sales teams and partners.
-
-The company competes in the cloud data governance and backup market alongside vendors offering similar protection and compliance capabilities for cloud infrastructure. Its primary differentiation lies in deep integration with the Microsoft 365 ecosystem and comprehensive feature coverage around data lifecycle management.
-
-## Business strategy and recent developments
-
-AvePoint went public via [SPAC merger](/wiki/spac-merger/) in October 2021, listing on the NASDAQ. The company has pursued growth through both organic product development and strategic acquisitions of complementary technology. Key priorities include expanding its product suite, penetrating additional vertical markets, and growing its customer base among organizations increasingly dependent on cloud collaboration platforms.
-
-Product evolution has focused on expanding beyond traditional backup and recovery into broader governance capabilities, including data classification, retention automation, and eDiscovery features designed to help enterprises manage their cloud data environments comprehensively.
-
-## Financial considerations for investors
-
-The company's financial performance reflects the dynamics of enterprise software: recurring revenue from subscriptions, customer acquisition and retention costs, and the impact of sales cycles on quarterly results. Key metrics investors typically examine include annual recurring revenue (ARR), customer counts and dollar-based net retention, gross margins, and spending efficiency relative to growth.
-
-As with many enterprise software companies, understanding AvePoint's position requires examining [10-K](/wiki/10-k/) filings with the SEC to understand revenue growth rates, customer concentration, competitive threats, and the company's path to [profitability](/wiki/earnings-per-share/). The company's valuation has been subject to broader software sector cycles and investor sentiment around [SaaS](/wiki/software-as-a-service/) growth investments.
-
-## Research approach
-
-Investors and analysts researching AvePoint can review quarterly earnings reports, annual 10-K filings, and earnings calls with management for detailed discussion of financial results, market conditions, and strategic initiatives. The company files regular disclosures with the SEC, which provide insights into customer acquisition costs, product roadmap priorities, and competitive positioning.
-
-Understanding the company requires familiarity with the Microsoft 365 market, enterprise software purchasing patterns, and the regulatory compliance landscape that drives demand for data governance solutions.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Microsoft 365](/wiki/microsoft-365/) — the primary platform for AvePoint's solutions
-- [Software-as-a-service](/wiki/software-as-a-service/) — the delivery model
-- [Data governance](/wiki/data-governance/) — core business domain
-- [Enterprise software](/wiki/enterprise-software/) — market segment
-
-### Wider context
-
-- [Cloud computing](/wiki/cloud-computing/) — the broader infrastructure trend
-- [Cybersecurity](/wiki/cybersecurity/) — related protective function
-- [Business continuity](/wiki/business-continuity/) — related concern
-- [Public company](/wiki/public-company/) — corporate structure
-
-</div>
+The competitive landscape includes larger players and smaller point-solution vendors, but AvePoint's depth of integration with Microsoft 365 and the breadth of its platform—governance, backup, and modernization in one offering—distinguish it. The company faces ongoing pressure to innovate in data classification, AI-driven policy recommendations, and intelligent data lifecycle management as enterprises grapple with regulatory frameworks. Execution in product development, customer success, and efficient capital allocation remain the operational pillars that separate winners from losers in this space. Publicly traded on the [Nasdaq](/wiki/stock-exchange/) and subject to [10-K](/wiki/10-k/) disclosures, AvePoint operates with the transparency and compliance obligations that public-company status requires. The business model is capital-efficient compared to hardware vendors, though sustained R&D investment remains necessary to maintain product leadership.

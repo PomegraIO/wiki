@@ -1,69 +1,39 @@
 ---
 title: "AVAI BIO, INC. (AVAI)"
-description: "Avai Bio is a clinical-stage biotech company developing therapeutics for metabolic and immunological disorders through novel biological approaches."
+description: "Micro-cap biotechnology company developing cell-based therapies for diabetes and age-related diseases through partnership-driven development model."
 keywords:
-  - AVAI BIO
-  - AVAI
+  - avai bio
+  - cell-based therapies
   - biotechnology
-  - clinical-stage biotech
-  - metabolic disorders
+  - otcqb
+handwritten: true
 ---
 
-*[**Avai Bio**](/wiki/public-company/) ([**AVAI**](/wiki/stock/)) is a clinical-stage [biotechnology](/wiki/biotechnology/) company focused on discovering and developing [therapeutics](/wiki/pharmaceutical-drug-development/) for metabolic and immunological disorders through the study of cellular biology and protein mechanisms.*
+## What exactly is Avaí Bio and what does it do?
 
-<aside class="wiki-infobox">
+Avaí Bio (ticker AVAI) is a micro-cap biotechnology company trading on the OTCQB focused on cell-based therapies for diabetes, age-related diseases, and chronic metabolic conditions. The company integrates artificial intelligence tools for early disease detection and uses cellular biology to develop treatments. Rather than building every technology in-house, Avaí operates through a partnership model: it acquires or licenses genetically modified cell lines and related technologies from specialized partners, then collaborates on research, development, and eventual commercialization.
 
-**Key Facts**
+## How is the company currently funded and when will it make money?
 
-| Field | Value |
-|-------|-------|
-| Ticker | AVAI |
-| Listing | US-listed; ticker AVAI |
-| SEC CIK | 1740797 |
-| Sector | Healthcare |
-| Industry | Biotechnology |
-| Type | [Clinical-stage biopharmaceutical](/wiki/clinical-stage-biotech/) |
+Avaí Bio remains pre-revenue, operating at the development and partnership stage rather than from marketed products. The company funds operations through equity issuances, strategic partnerships, and licensing agreements with technology providers. Revenue generation would come later, through milestone payments from partners, royalty streams on commercialized therapies, and equity returns if partnered assets succeed in the market. For now, the primary metric investors watch is cash burn—the rate at which the company depletes its capital reserves while pursuing R&D and forging partnerships.
 
-</aside>
+## How did this company come about?
 
-## What the company does
+Avaí Bio was formerly Avant Technologies Inc., an IT consulting and software development firm providing full-stack development, database management, data integration, and cloud services. The company underwent a strategic pivot in February 2026, rebranding and redirecting its focus toward biotechnology and cell-based therapeutics. The shift reflects a change in business strategy toward higher-risk, higher-potential-reward opportunities in emerging life sciences rather than mature IT services.
 
-Avai Bio operates in the early and clinical stages of drug discovery and development. The company pursues research in cellular pathways and protein interactions relevant to metabolic dysfunction and immune-related conditions. Like other biotech firms at this stage, Avai advances lead compounds through preclinical studies and into human clinical trials, with the goal of identifying efficacious treatments that may eventually reach market approval.
+## What is the share structure and how small is this company?
 
-## Research focus and development
+At approximately $48.4 million in market capitalization with roughly 138.3 million shares outstanding, Avaí is a true micro-cap. The enormous share count is typical for early-stage biotech companies that raise capital through equity offerings to fund development without approaching profitability. Investors should understand that a company with 138 million shares requires tremendous therapeutic success and market adoption to move the stock price in any meaningful way.
 
-The company's pipeline centers on understanding and modulating biological pathways implicated in conditions ranging from obesity-related disorders to inflammatory and autoimmune diseases. Avai's approach emphasizes mechanistic understanding of cellular processes that drive disease progression. The company uses contemporary techniques in molecular and cellular biology to screen, validate, and optimize therapeutic candidates.
+## Why use partnerships instead of developing everything in-house?
 
-## How biotech development works
+Micro-cap biotechs like Avaí often lack the scale, capital, and expertise to develop multiple therapeutic programs independently. Partnering allows the company to leverage specialized cell technologies and expertise from partners while managing risk and capital expenditure. If a therapy succeeds, Avaí participates through equity stakes and royalties; if it fails, the financial blow falls partly on the partner. This arrangement lets a small company punch above its weight by working with cutting-edge science without bearing all the development and regulatory burden alone.
 
-Drug development at clinical-stage biotechs like Avai follows a defined regulatory pathway: compounds progress from laboratory research through [FDA](/wiki/food-and-drug-administration/) preclinical evaluation, [IND](/wiki/investigational-new-drug-application/) submission, and Phase I, II, and III [clinical trials](/wiki/clinical-trial/) before any chance of [NDA](/wiki/new-drug-application/) approval. Each stage requires significant capital investment, regulatory compliance, and years of time. Most programs fail or discontinue, making clinical-stage biotech inherently high-risk.
+## How does cell-based therapy differ from traditional drug development?
 
-## Capital requirements and funding
+Cell-based therapies use living cells—often genetically engineered to enhance safety or efficacy—rather than chemical compounds or antibodies. For diabetes and age-related conditions, these might include regenerative cell approaches, hormone-secreting engineered cells, or immune-modulating cell products. Cell therapies often require complex manufacturing, specialized shipping and storage, and novel regulatory frameworks. Development timelines are long, success rates are uncertain, and regulatory approval can take more than a decade. The field is crowded with both large pharma entrants and startup competitors pursuing similar targets.
 
-Like other early-stage therapeutics developers, Avai requires continuous capital to fund research, employ scientific talent, conduct trials, and maintain regulatory compliance. Funding typically comes from [equity](/wiki/stock/) issuances, [debt](/wiki/bond/), and occasionally partnerships with larger pharmaceutical firms. Cash burn—the rate at which operating expenses exceed revenue—is a critical metric for clinical-stage biotech investors, since these companies typically have no product revenue.
-
-## Where it sits in its industry
-
-Avai competes in a large and fragmented [biotechnology](/wiki/biotechnology/) sector populated by thousands of firms, ranging from single-program startups to diversified large-cap pharma. Most clinical-stage biotech companies remain privately funded until reaching proof-of-concept milestones, after which some pursue [IPO](/wiki/initial-public-offering/) or [SPAC](/wiki/special-purpose-acquisition-company/) mergers to access public markets. Avai's specific therapeutic areas—metabolic and immune disorders—are active development focuses for larger industry participants and numerous competitors, creating both opportunity and crowding.
-
-## How to research it
-
-Public biotech companies file annual [10-K](/wiki/10-k/) reports and quarterly [10-Q](/wiki/10-q/) filings with the [SEC](/wiki/securities-and-exchange-commission/). These documents detail pipeline programs, preclinical and clinical data, capital position, burn rate, and management discussion of strategy and risk. For clinical programs, also consult [ClinicalTrials.gov](https://clinicaltrials.gov), a public database of ongoing and historical human trials in the United States and abroad, where trial design, enrollment status, and preliminary results may be disclosed.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Biotechnology](/wiki/biotechnology/)
-- [Clinical trial](/wiki/clinical-trial/)
-- [Clinical-stage biotech](/wiki/clinical-stage-biotech/)
-- [Pharmaceutical drug development](/wiki/pharmaceutical-drug-development/)
-- [FDA approval process](/wiki/food-and-drug-administration/)
-
-### Wider context
-- [Stock](/wiki/stock/)
-- [Public company](/wiki/public-company/)
-- [Biotech equity investing](/wiki/biotech-equity-investing/)
-- [Risk in drug development](/wiki/drug-development-risk/)
-- [Sector rotation](/wiki/sector-rotation/)
-
-</div>
+Sources:
+- [Barchart AVAI Stock Quote](https://www.barchart.com/stocks/quotes/AVAI)
+- [Seeking Alpha AVAI Stock](https://seekingalpha.com/symbol/AVAI)
+- [Yahoo Finance AVAI](https://finance.yahoo.com/quote/AVAI/)

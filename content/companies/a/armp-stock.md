@@ -1,68 +1,18 @@
 ---
 title: "Armata Pharmaceuticals, Inc. (ARMP)"
-description: "Biopharmaceutical company developing bacteriophage therapies for infectious diseases and antimicrobial resistance."
+description: "Clinical-stage biotech developing bacteriophage-based therapies for antibiotic-resistant bacterial infections and serious microbial disease."
 keywords:
-  - Armata Pharmaceuticals
-  - ARMP
-  - biopharmaceutical
   - bacteriophage therapy
-  - infectious diseases
-  - antimicrobial resistance
+  - phage therapeutics
+  - antibiotic resistance
+  - clinical-stage biotech
+handwritten: true
 ---
 
-*[Armata Pharmaceuticals, Inc.](/wiki/public-company/) (**ARMP**) is a biopharmaceutical company focused on developing and commercializing bacteriophage-based therapies to treat serious bacterial infections and address antimicrobial resistance, a growing global health challenge.*
+**Armata Pharmaceuticals is a clinical-stage biopharmaceutical company developing bacteriophage-based therapies—engineered viruses that selectively attack and destroy pathogenic bacteria.** The company's platform targets antibiotic-resistant infections, a persistent clinical challenge that kills tens of thousands of patients annually in the United States and drives resistance in pathogens including _Pseudomonas aeruginosa_, _Staphylococcus aureus_, and other multidrug-resistant gram-negative organisms.
 
-<aside class="wiki-infobox">
+The company's lead programs operate in the space where conventional antibiotics have lost efficacy or carry unacceptable toxicity. Armata engineers bacteriophages—naturally occurring viruses that infect bacteria—to be more stable, reproducible, and therapeutically viable than wild-type phages. This engineering effort distinguishes its approach from earlier phage therapy experiments that relied on crude natural variants. Rather than synthesizing novel chemistry, Armata screens, selects, and modifies naturally evolved killing agents. The regulatory path remains novel; the FDA has limited precedent for phage drugs, creating both opportunity and procedural uncertainty.
 
-**Key Facts**
+Most of Armata's development portfolio targets serious infections in hospitalized patients or those with cystic fibrosis, where infection severity justifies accelerated approvals and narrow initial patient populations. These are lower-volume markets than community-acquired pneumonia, but the unmet need is acute. The company funds clinical trials, manufacturing infrastructure, and regulatory engagement through equity raises, grants from entities such as the National Institutes of Health and the Defense Advanced Research Projects Agency, and potential milestone revenue from partnerships. Because phage therapies operate on a different mechanism than antibiotics, a positive trial does not cannibalize conventional antibiotic sales; instead, phage approval expands the therapeutic arsenal for patients who have exhausted other options.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ARMP |
-| Listing | US-listed; ticker ARMP |
-| SEC CIK | 921114 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Type | [Public company](/wiki/public-company/) |
-
-</aside>
-
-## What the company does
-
-Armata Pharmaceuticals develops therapeutics based on bacteriophage—viruses that naturally target and kill bacteria. The company's approach treats bacterial infections by harnessing phage biology rather than relying on traditional antibiotics. This strategy addresses a critical problem in modern medicine: the rising prevalence of antibiotic-resistant bacteria, which limits treatment options for patients with serious infections. Armata's pipeline includes candidates for wound infections, cystic fibrosis-related lung infections, and other bacterial diseases where resistance to conventional drugs is problematic.
-
-## How it makes money
-
-Like other early-stage biopharmaceutical companies, Armata's revenue model centers on drug development and eventual commercialization. The company generates limited revenue from operations while incurring substantial research and development costs as it advances its phage-therapy candidates through clinical trials. Future revenue would depend on clinical success, regulatory approval, and market adoption of its therapies. The company may also pursue partnerships, licensing agreements, or milestone payments with larger pharmaceutical firms to fund ongoing development.
-
-## Scientific and regulatory landscape
-
-Bacteriophage therapy represents an emerging field that has attracted regulatory interest as antibiotic resistance becomes a public health priority. The U.S. Food and Drug Administration and similar authorities globally have begun establishing pathways for phage-based drugs. Armata's development program requires demonstrating both efficacy and safety in human trials, navigating manufacturing scale-up, and achieving approvals for specific indications. Success depends on clinical data, manufacturing capabilities, and the ability to differentiate phage therapies in a competitive landscape.
-
-## Where it sits in its industry
-
-Armata operates in a niche but growing segment of biotech focused on phage therapeutics and alternative approaches to infectious disease. Other companies and academic institutions are pursuing similar strategies, making this a space with multiple competitors but also validation of the therapeutic approach. Larger pharmaceutical companies have also begun exploring phage therapy, either through internal programs or acquisitions. Armata's position depends on advancing its proprietary candidates, protecting intellectual property, and building partnerships that accelerate clinical development and eventual commercialization.
-
-## How to research it
-
-Investors and researchers can review Armata's regulatory filings through the [SEC](/wiki/sec-filing/) via the CIK 921114. The company's [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings detail research progress, financial position, clinical trial results, and business strategy. Press releases announce clinical milestones, partnership agreements, and corporate developments. Scientific publications from Armata researchers and collaborators provide insight into the underlying phage therapy technology. Industry reports on antimicrobial resistance and the phage therapy market offer broader context for the company's competitive position.
-
----
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical](/wiki/public-company/)
-- [Clinical trial phase](/wiki/10-k/)
-- [FDA approval process](/wiki/sec-filing/)
-- [Antimicrobial resistance](/wiki/healthcare/)
-
-### Wider context
-
-- [Infectious disease therapeutics](/wiki/healthcare/)
-- [Antibiotic resistance](/wiki/sector/)
-- [Drug development and commercialization](/wiki/10-q/)
-- [Biotechnology sector](/wiki/stock-exchange/)
-
-</div>
+Execution risks are material. Manufacturing living biological agents at clinical and commercial scale requires mastery of cell culture logistics distinct from small-molecule chemistry or monoclonal antibody production. Regulatory authorities worldwide are still settling precedent on phage product characterization, stability criteria, and manufacturing controls. Clinical trials must demonstrate safety and efficacy in patient populations already exposed to multiple prior therapies, often complicating readout attribution. Competitive pressure exists from other resistance-fighting modalities—including other engineered biologics, novel antibiotics, and combination therapies—though the phage platform's mechanism remains relatively undercrowded.

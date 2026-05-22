@@ -1,56 +1,29 @@
 ---
 title: "Adeia Inc. (ADEA)"
-description: "Adeia is a technology solutions company that develops intellectual property, software, and services for media, entertainment, and connected device markets."
+description: "San Jose-based IP licensing company that monetizes patent portfolios across entertainment, semiconductors, and consumer electronics through licensing deals and litigation."
 keywords:
-  - Adeia
-  - ADEA
-  - technology solutions
-  - intellectual property
+  - intellectual property licensing
+  - patent monetization
+  - semiconductor patents
   - media technology
-  - entertainment software
+handwritten: true
 ---
 
-*[Adeia Inc.](/wiki/adea-stock/) is a **technology solutions company** that develops and licenses intellectual property, software, and services for media, entertainment, and connected device industries. The company operates as a [public corporation](/wiki/public-company/) in the digital media and technology sector.*
+Adeia is an intellectual property licensing company that sits at the intersection of media, semiconductors, and consumer electronics. The company operates as both a technology incubator and a patent monetization engine, combining ongoing R&D with portfolio management and licensing negotiations to extract value from its intellectual property assets. Based in San Jose, California, Adeia took its current name in 2024 after operating as Xperi Holding Corporation, a transition that signaled its strategic pivot toward pure-play IP licensing and away from broader semiconductor development.
 
-<aside class="wiki-infobox">
+The company's revenue model centers on licensing its patent portfolios to manufacturers and service providers across multiple industries. Rather than building products itself, Adeia licenses its technology and collects fees from companies that incorporate patented innovations into their offerings. This model requires continuous investment in R&D to maintain and expand the patent estate, alongside active licensing negotiations and, when necessary, litigation to enforce patent rights and secure compensation.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ADEA |
-| **Listing** | US-listed; ticker ADEA |
-| **SEC CIK** | 1803696 |
-| **Sector** | Information Technology |
-| **Industry** | Digital Media / Intellectual Property Technology |
-| **Type** | Public Corporation |
+Adeia's licensing footprint spans several distinct market segments:
 
-</aside>
+| Segment | Licensees | Revenue Driver |
+|---------|-----------|-----------------|
+| Streaming & Video | Multichannel TV providers, OTT platforms, streaming services | Licensing fees for video delivery and streaming technologies |
+| Consumer Electronics | TV manufacturers, streaming devices, game consoles | Patents covering connected media devices and smart TV functionality |
+| Semiconductor & Chipmakers | Semiconductor manufacturers, device makers | Licensing for semiconductor design and architecture patents |
+| Enterprise & Mobility | Mobile device makers, IoT manufacturers | Patents for mobile computing and connectivity technologies |
 
-## What the company does
+The company has secured multi-year licensing agreements with major technology firms including Microsoft and Google's Alphabet, creating more predictable revenue streams from blue-chip licensees. These arrangements provide both immediate cash flow and the credibility needed to negotiate with other device makers and content providers. Litigation remains part of Adeia's toolkit when negotiations stall, though the company has increasingly focused on settlement-based licensing deals that avoid protracted courtroom battles.
 
-Adeia develops technology solutions, intellectual property, and software platforms for media, entertainment, and connected device manufacturers. The company's offerings include digital rights management, cloud-based media services, entertainment platforms, and technology services for consumer electronics and streaming devices. Its intellectual property portfolio includes patents and proprietary technologies used in digital media, home entertainment systems, and connected devices.
+Adeia's business model thrives on the enduring value of its IP portfolio and the company's ability to identify new licensing opportunities in evolving technology markets. The streaming and connected-device boom has created fresh demand for media-related patents, while semiconductor patents retain value as chipmakers continue integrating patented features into their products. The company operates with minimal headcount relative to its scale, relying on licensing professionals and legal expertise rather than large engineering teams or manufacturing capacity.
 
-## How it makes money
-
-Adeia generates revenue through licensing of intellectual property, software subscriptions, and technology services to media companies, electronics manufacturers, and entertainment platforms. The company earns licensing fees from patents and proprietary technologies, recurring software subscription revenues, and service-related income. Revenue streams provide a combination of recurring and transaction-based income from diverse technology licensees and customers.
-
-## Where it sits in its industry
-
-Adeia operates in the digital media technology and intellectual property licensing sector, competing against established technology companies, software providers, and other intellectual property licensing businesses. The company differentiates itself through its intellectual property portfolio, software capabilities, and relationships with major media and entertainment companies. Success depends on the adoption and integration of its technologies into commercial products and platforms.
-
-## How to research it
-
-Investors researching Adeia can examine its [10-K](/wiki/10-k/) and [10-Q](/wiki/10-k/) SEC filings to understand intellectual property portfolio composition, licensing agreements, customer concentration, and revenue sources. Technology and media market analyses provide context for the company's product market opportunities. Intellectual property industry reports and digital media trends illuminate the value of the company's patent portfolio and software offerings.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Digital Media Technology](/wiki/digital-media-stocks/)
-- [Intellectual Property Licensing](/wiki/ip-licensing/)
-- [Entertainment Technology](/wiki/entertainment-tech/)
-
-### Wider context
-- [Information Technology Sector](/wiki/tech-sector/)
-- [Streaming and Connected Devices](/wiki/streaming-stocks/)
-- [Patent Technology](/wiki/patent-licensing/)
-
-</div>
+See also: [public-company](/wiki/public-company/), [10-k](/wiki/10-k/)

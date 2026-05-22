@@ -1,62 +1,31 @@
 ---
 title: "AMAZON COM INC (AMZN)"
-description: "Global e-commerce and cloud infrastructure leader offering retail, digital services, and computing solutions."
+description: "Global e-commerce and cloud computing leader; operates retail marketplace, digital streaming, and Amazon Web Services (AWS) cloud infrastructure."
 keywords:
-  - Amazon
-  - AMZN
   - e-commerce
   - cloud computing
-  - technology
+  - amazon web services
+  - retail technology
+  - digital infrastructure
+handwritten: true
 ---
 
-*[**Amazon.com, Inc.**](/wiki/public-company/) (ticker **AMZN**) is a diversified technology and e-commerce company that operates one of the world's largest online retail platforms, a dominant cloud computing service, and an expanding ecosystem of digital services.*
+## How did Amazon become what it is today?
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AMZN |
-| Listing | US-listed; ticker AMZN |
-| SEC CIK | 1018724 |
-| Sector | Technology |
-| Industry | E-commerce & Cloud Services |
-| Founded | 1994 |
-| Type | Public Company |
-</aside>
+Amazon was founded in 1994 as an online bookstore operating out of a garage in Seattle. Jeff Bezos spotted the explosive potential of the internet and chose books as the entry point—a category with millions of titles that no physical store could stock. The company went public in 1997 while still unprofitable, betting investors would trust its long-term vision. For years, Amazon burned cash to gain market share, earning skepticism from Wall Street but loyalty from customers who appreciated selection and convenience. By the mid-2000s, the company had become the dominant online retailer, but Bezos was already building the next pillar: Amazon Web Services (AWS), launched in 2006, which offered cloud computing and storage infrastructure to businesses. AWS proved transformative—a high-margin business that funded Amazon's continued retail expansion. By the 2010s, Amazon had woven together a sprawling ecosystem: e-commerce, cloud services, digital streaming (Prime Video), smart home devices, advertising, and grocery (Whole Foods acquisition in 2017). The company's relentless focus on efficiency, automation, and customer experience at any cost cemented it as both a retailer and a foundational infrastructure provider.
 
-## What the company does
+## Where does the money actually come from?
 
-Amazon operates three primary business segments that drive its revenue: online retail and third-party seller services; Amazon Web Services (AWS), a cloud computing platform; and subscription and advertising services. The retail division serves customers globally through websites, mobile applications, and fulfillment networks. AWS provides computing infrastructure, storage, databases, and analytics tools to enterprises, startups, and government agencies. The advertising segment includes sponsored product listings, display ads, and other promotional services on Amazon's properties.
+AWS generates the lion's share of profit, commanding roughly 30–35% of revenue but contributing the majority of operating income. The cloud division serves companies ranging from startups to Fortune 500 firms, offering compute, storage, databases, analytics, and AI tools. Retail accounts for the largest slice of revenue—the original marketplace, third-party seller services, and international expansion. Amazon also operates a high-growth advertising business, reaching billions of customers and becoming a serious rival to Google and Meta. Prime memberships generate recurring revenue and data, anchoring customer loyalty. Prime Video loses money by design, underwritten as a retention tool. Newer ventures like grocery delivery, healthcare (Amazon Pharmacy, Amazon Care), logistics, and satellites (Project Kuiper) are emerging vectors, though not yet material to earnings.
 
-## How it makes money
+## How does Amazon compete at its own game?
 
-The retail segment generates revenue from product sales—both from inventory Amazon purchases and resells, and from commissions on third-party seller transactions. Cloud services produce recurring subscription and usage-based revenue tied to computing capacity consumed. Advertising income comes from fees paid by brands and sellers to promote products and services on Amazon's platforms. Subscription services include the Prime membership program, which bundles shipping benefits with entertainment content and other perks.
+Amazon's competitive moat rests on scale and data. In retail, it controls logistics, warehousing, and delivery—owning the last-mile network rather than outsourcing like most rivals. Merchants list on Amazon's marketplace, and the company harvests data on what sells, then builds private-label products that compete directly with those sellers. For AWS, network effects lock in customers: migrating thousands of applications off AWS is painful and expensive once you're deep in the ecosystem. Pricing power is limited by competition (Microsoft Azure, Google Cloud), but Amazon's scale lets it optimize margins constantly. The advertising business benefits from knowing what customers search for and buy, creating targeting precision rivals can't match. Amazon reinvests heavily in automation and AI to drive down costs and improve delivery speed, forcing competitors to match or lose market share. The company also tolerates low or negative margins in new categories to acquire customers and learn, a luxury only the largest players can afford.
 
-## Competitive position
+## What's the biggest risk Amazon faces?
 
-Amazon is one of the world's largest retailers and a dominant player in cloud infrastructure alongside competitors like [Microsoft Azure](/wiki/msft-stock/) and Google Cloud. Its vertically integrated model—combining retail operations with fulfillment infrastructure and cloud services—creates economies of scale and customer lock-in. The company has built extensive logistics networks, seller partnerships, and customer data that serve as structural advantages. Retail competition remains intense from both traditional and digital rivals, but AWS's technical breadth and market penetration have created a durable competitive moat in enterprise cloud services.
+Regulatory scrutiny is acute. Antitrust investigators in the U.S., EU, UK, and elsewhere are probing whether Amazon unfairly favors its own products over third-party sellers, and whether AWS's dominance in cloud warrants restrictions. Labor pressure in warehouses has intensified, raising wage and benefit expectations across logistics. Retail margins remain razor-thin, vulnerable to economic slowdowns that crush discretionary spending. AWS faces increasingly ferocious competition as Microsoft, Google, and niche players carve out customers in AI, specialized workloads, and cost-sensitive segments. International expansion encounters local protectionism and regulatory friction. Advertising growth depends on continued user engagement and regulatory tolerance for data-driven targeting. Amazon's stock valuation has historically swung on sentiment and the company's willingness to prioritize growth over profit—shifts in investor appetite or forced capital discipline could reshape strategy.
 
-## Scale and reach
+## What should an investor or researcher know?
 
-Amazon serves customers across North America, Europe, Asia-Pacific, and other regions. Its fulfillment network spans thousands of facilities globally, enabling fast delivery to consumers in major markets. AWS operates data centers on multiple continents, serving enterprise customers worldwide. The company employs hundreds of thousands globally, making it one of the largest private employers in several countries.
-
-## How to research it
-
-Review Amazon's annual [10-K](/wiki/10-k/) filing with the Securities and Exchange Commission (SEC) for comprehensive financial disclosures, business segment breakdowns, and risk factors. Quarterly 10-Q filings provide updates on operational performance and balance sheet changes. The investor relations section of Amazon's website offers press releases, earnings call transcripts, and shareholder letters that outline management's strategic priorities. Industry reports on e-commerce and cloud computing growth provide context for evaluating Amazon's market position and competitive dynamics.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Amazon Web Services (AWS)](/wiki/aws-cloud/)
-- [E-commerce retail](/wiki/e-commerce/)
-- [Cloud computing infrastructure](/wiki/cloud-computing/)
-- [Public companies technology](/wiki/public-company/)
-
-### Wider context
-
-- [Stock exchange listings](/wiki/stock-exchange/)
-- [US public markets](/wiki/stock/)
-- [SEC filings and disclosure](/wiki/10-k/)
-- [Technology sector](/wiki/technology-stocks/)
-
-</div>
+Analyze AWS and retail separately; they are different businesses with different drivers. AWS growth typically runs 20–30% annually but faces rising competition; retail is mature and commoditized, with only modest growth offset by increased competition. Watch operating margins closely—AWS carries high margins, retail carries low ones, and the mix determines profitability. Amazon's [10-k](/wiki/10-k/) filing breaks down segment revenue and operating income; read it carefully rather than relying on headline numbers. Free cash flow and capital allocation matter more than accounting net income, since the company reinvests most profits. Prime membership, advertising, and logistics are value drivers that don't show up cleanly in historical financials but deserve investor attention. Understand that Amazon's valuation has always priced in decade-long growth; a shift in that narrative can shake the stock dramatically. Competitive dynamics in cloud and retail are worth monitoring quarterly. Regulatory outcomes—especially antitrust actions—could force operational or structural changes that would meaningfully alter the investment case.

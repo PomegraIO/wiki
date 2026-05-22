@@ -1,73 +1,33 @@
 ---
 title: "Alithya Group inc (ALYAF)"
-description: "Alithya Group inc is a Canadian digital transformation and IT consulting firm providing enterprise services to mid-market and large organizations across North America."
+description: "Montreal-based IT consulting and digital transformation services firm serving enterprise clients across North America in financial services, energy, and government sectors."
 keywords:
-  - Alithya Group
-  - ALYAF
-  - consulting
-  - IT services
   - digital transformation
-  - Canadian technology
+  - it consulting
+  - enterprise services
+  - cloud modernization
+  - business strategy
+  - consulting services
+handwritten: true
 ---
 
-*[**Alithya Group inc**](/wiki/public-company/) (ticker **ALYAF**) is a Canadian IT consulting and digital transformation services firm. The company provides managed IT services, application development, and strategic consulting to mid-market and large enterprise clients across North America, with a focus on the financial services, energy, and public sectors.*
+**Alithya Group is a North American digital consulting and services firm that helps enterprise clients modernize their technology platforms, adopt cloud solutions, and execute digital transformation strategies.** Founded in 1992 in Montreal, the company blends strategic advisory with hands-on technology delivery across a range of industries, from banking and insurance to energy and healthcare.
 
-<aside class="wiki-infobox">
+## The Core Business
 
-| Key Fact | Detail |
-|---|---|
-| **Ticker** | ALYAF |
-| **Listing** | US-listed; ticker ALYAF |
-| **SEC CIK** | 1734520 |
-| **Sector** | Information Technology |
-| **Industry** | IT Consulting & Services |
-| **Headquarters** | Montreal, Quebec, Canada |
-| **Founded** | 2001 |
-| **Type** | Public Company |
+Alithya operates across three integrated service areas: strategic consulting on digital transformation and business strategy; enterprise solutions implementation covering ERP, supply chain, CRM, and custom applications; and modern technology enablement including cloud infrastructure, data analytics, AI/machine learning, and cybersecurity. With over 3,900 employees across Canada, the United States, and select international markets, the firm serves mid-market and large organizations that need both expert guidance and technical horsepower to execute complex technology shifts.
 
-</aside>
+Revenue flows primarily from billable professional services—consulting hours, implementation projects, and managed services contracts. The company earns fees on time-and-materials or fixed-price bases depending on engagement scope. Proprietary tools like Alithya Rapid QA (automated testing), CASSI (nuclear plant analytics), and SIDER (medical records systems) provide higher-margin offerings beyond commodity consulting hours.
 
-## What the company does
+## Position in the Market
 
-Alithya Group operates as a full-service digital transformation and IT consulting firm. The company combines software engineering, IT infrastructure management, and business process transformation to help enterprise clients modernize their operations. Its service portfolio spans application development, cloud migration, cybersecurity, and strategic technology advisory.
+Alithya operates in a mature, competitive consulting landscape alongside global giants (Accenture, Deloitte, IBM) and smaller regional players. Its strength lies in deep relationships with Canadian enterprise clients and vertical expertise in regulated sectors. The firm achieved AWS Migration and Modernization Competency status in 2026, signaling capability in cloud modernization—a high-demand service area. Growth depends on client capital budgets, digital adoption cycles, and the firm's ability to attract and retain skilled technical staff in a tight labor market.
 
-The firm's client roster includes organizations in regulated industries such as banking, insurance, and energy—sectors where digital modernization and system reliability carry substantial stakes. Alithya's approach emphasizes end-to-end engagement, from initial strategy and architecture through implementation and ongoing management.
+## At a Glance
 
-## How it makes money
-
-Alithya generates revenue primarily through billable professional services. The firm staff augmentation and managed services—placing consultants and engineers at client sites or managing ongoing IT operations—provides recurring revenue streams. Project-based work, including system implementations and transformation initiatives, tends to be larger engagements but may be less predictable in timing.
-
-The company operates on a time-and-materials or fixed-price contract basis depending on engagement scope. Like other consulting firms, its profitability depends on maintaining high utilization rates among its professional staff while managing delivery costs and junior-to-senior staff ratios.
-
-## Where it sits in its industry
-
-Alithya competes in a crowded North American consulting market alongside larger global firms (Accenture, IBM, Deloitte) and smaller regional players. Its differentiation lies in deep expertise for Canadian clients and industry-specific solutions, particularly in financial services.
-
-The firm positions itself between pure managed service providers (which emphasize operational efficiency) and strategy-focused boutique firms. This middle market has faced pricing pressure and commoditization as cloud providers and offshore services expand. Alithya's Canadian base and focus on regulated sectors provide some insulation from low-cost offshore competition, though it must compete on specialized expertise and client relationships.
-
-The consulting industry has undergone significant consolidation; larger firms acquire boutiques to expand service lines and client access. Alithya has pursued organic growth and selective acquisitions to expand its service capabilities and geographic footprint.
-
-## How to research it
-
-SEC filings provide the primary official disclosure channel. The [10-K](/wiki/10-k/) annual report details revenue composition by service line and sector, staffing levels and utilization metrics, and competitive dynamics. Quarterly [10-Q](/wiki/10-q/) filings offer updates on backlog, contract wins, and margin trends.
-
-Key metrics to track include billable utilization rates (percentage of professional hours billed to clients), average bill rates by seniority level, and backlog visibility. Consulting firms' financial performance tends to correlate with enterprise IT spending cycles and client capital budgets, making macroeconomic sensitivity a relevant factor.
-
-Client concentration risk—whether revenue is overly dependent on a small number of clients—is material in consulting. Alithya's geographic concentration in Canada and sector focus on financial services also shape its market exposure.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [IBM](/wiki/ibm-stock/) — Global IT services and consulting giant
-- [Accenture](/wiki/acn-stock/) — Multinational professional services company
-- [CGI Group](/wiki/gib-stock/) — Canadian IT consulting and systems integration firm
-
-### Wider context
-
-- [Information Technology sector](/wiki/technology-sector/)
-- [Digital transformation strategies](/wiki/digital-transformation/)
-- [Consulting industry dynamics](/wiki/business-services/)
-- [Public company](/wiki/public-company/)
-
-</div>
+- Founded 1992 from Mouvement Desjardins spinoff; publicly traded on TSX as ALYA, OTC as ALYAF
+- Three service pillars: strategy, enterprise solutions, technology enablement
+- Serves financial services, energy, manufacturing, telecom, healthcare, government, and higher education
+- Over 3,900 employees; primary operations in Canada and the United States
+- Revenue model: billable hours (consulting, implementation, managed services) plus software products
+- Competitive positioning: mid-market consulting with Canadian base and sector expertise; faces pricing pressure from offshore rivals and cloud providers

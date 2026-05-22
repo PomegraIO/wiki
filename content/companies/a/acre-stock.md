@@ -1,66 +1,27 @@
 ---
 title: "Ares Commercial Real Estate Corp (ACRE)"
-description: "Commercial real estate finance company originating and managing commercial mortgage loans and other real estate assets."
+description: "ACRE is a commercial real estate finance company focused on lending, investing, and acquiring commercial properties and debt across office, retail, industrial, and multifamily sectors."
 keywords:
-  - Ares Commercial Real Estate
-  - ACRE
-  - REIT
-  - commercial real estate finance
-  - mortgage lending
-  - real estate debt
+  - commercial real estate
+  - cre lending
+  - real estate finance
+  - property lending
+  - cre debt
+handwritten: true
 ---
 
-*[Ares Commercial Real Estate Corp](https://pomegra.io/wiki/companies/a/acre-stock/) (ticker **ACRE**) is a [REIT](/wiki/reit/) (real estate investment trust) specializing in [commercial real estate finance](/wiki/commercial-real-estate-finance/). The company originates, manages, and holds [commercial mortgages](/wiki/commercial-mortgage/) and other real estate debt instruments, generating returns through interest income and fee-based activities.*
+## What does ACRE actually do?
 
-<aside class="wiki-infobox">
+Ares Commercial Real Estate Corp originates, purchases, and manages commercial real estate debt and equity. The firm acts as a lender to developers and property owners, providing construction loans, bridge financing, and long-term mortgages across office towers, retail centers, industrial warehouses, multifamily apartments, and hospitality assets. Beyond pure lending, ACRE also invests directly in real estate through acquisitions, partnerships, and structured credit products. This dual-track approach—both lending capital into deals and deploying equity—gives the firm exposure to the full breadth of commercial property cycles.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACRE |
-| **Listing** | US-listed; ticker ACRE |
-| **SEC CIK** | 1529377 |
-| **Sector** | Real Estate Finance |
-| **Industry** | Real Estate Investment Trust |
-| **Type** | REIT |
+## How does the capital structure work?
 
-</aside>
+ACRE operates as a [business-development-company](/wiki/business-development-company/), which shapes how it deploys capital and distributes returns. As a BDC, it borrows heavily (often using leverage of 0.8x to 1.2x equity) to amplify returns on its core business: originating loans to real estate sponsors and holding property. That leverage must be carefully managed, especially when credit cycles tighten or when [cap-rate](/wiki/cap-rate/) rises sharply, because refinancing risk can cascade across both debt and equity positions. The company raises equity periodically and relies on debt markets to fund its portfolio, then harvests spread income from lending margins and realized gains from exits.
 
-## What the company does
+## Where are the real risks?
 
-Ares operates as a [commercial real estate debt](/wiki/commercial-real-estate-debt/) investor. Rather than owning properties directly, the company originates and invests in [commercial mortgages](/wiki/commercial-mortgage/) secured by office buildings, retail centers, industrial facilities, hospitality properties, and other commercial real estate. It also invests in other real estate-backed securities and related instruments.
+Concentration in commercial real estate is the defining risk. ACRE's fortunes pivot entirely on how landlords and operators fare—when office vacancy spikes, multifamily oversupply emerges, or retail keeps contracting, the quality of ACRE's loan book and property portfolio degrades quickly. Rising [interest-rate-risk](/wiki/interest-rate-risk/) also cuts both ways: higher rates tighten borrower underwriting and capital, reducing loan origination volume, but they can also boost the spread ACRE earns on new lending. Portfolio liquidity can evaporate during a credit crunch; deals that seemed fine at origination can turn stressed if the borrower cannot refinance or if the underlying property fails to produce expected cash flow. Geographic and asset-class concentration further narrows the margin for error.
 
-## Commercial mortgage business model
+## How does the market value this?
 
-The company generates revenue through [interest income](/wiki/interest-income/) on mortgage loans, [origination fees](/wiki/origination-fee/) charged to borrowers, and [servicing fees](/wiki/servicing-fee/) on managed loans. Returns depend on the [spread](/wiki/spread/) between the cost of funding (through borrowing and equity capital) and the [yield](/wiki/yield/) on mortgage investments. Loan performance and [credit quality](/wiki/credit-quality/) of underlying properties directly impact profitability.
-
-## Portfolio composition and risk factors
-
-The quality of ACRE's returns hinges on borrower creditworthiness, property quality, market conditions, and loan-to-value ratios on originated mortgages. [Loan defaults](/wiki/loan-default/) and [foreclosure](/wiki/foreclosure/) scenarios generate losses. [Interest rate](/wiki/interest-rate/) movements affect both the cost of capital and property valuations, indirectly impacting borrower creditworthiness. Portfolio diversification across property types, geographic markets, and borrowers reduces concentration risk.
-
-## Capital structure and leverage
-
-Like most REITs, ACRE finances its mortgage portfolio through [debt](/wiki/debt-financing/) and [equity](/wiki/equity-financing/). Higher leverage magnifies returns but increases risk during downturns. [Debt covenants](/wiki/debt-covenants/) often restrict the company's leverage ratios. Access to capital markets and credit conditions directly influence the company's ability to grow the mortgage portfolio and refinance maturing liabilities.
-
-## How to research it
-
-Start with ACRE's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC's EDGAR database. Review portfolio composition by property type and geographic region, loan loss reserves, and non-performing assets. Study [debt structures](/wiki/debt-structure/), [interest coverage ratios](/wiki/interest-coverage-ratio/), and [liquidity](/wiki/liquidity/) positions. Compare [dividend yield](/wiki/dividend-yield/) and [net interest margin](/wiki/net-interest-margin/) against peer mortgage REITs and other real estate finance companies.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [REIT](/wiki/reit/)
-- [Commercial mortgage](/wiki/commercial-mortgage/)
-- [Real estate finance](/wiki/real-estate-finance/)
-- [Interest income](/wiki/interest-income/)
-- [Dividend](/wiki/dividend/)
-
-### Wider context
-
-- [Commercial real estate](/wiki/commercial-real-estate/)
-- [Real estate debt](/wiki/real-estate-debt/)
-- [Loan origination](/wiki/loan-origination/)
-- [Leverage](/wiki/leverage/)
-- [Public company](/wiki/public-company/)
-
-</div>
+ACRE's [dividend-yield](/wiki/dividend-yield/) and [book-value](/wiki/book-value-investing/) per share anchor the valuation, with buyers often keying off price-to-book multiples. The BDC structure promises regular distributions of income and realized gains, but distribution coverage depends on how many loans perform, how many borrowers successfully exit their positions, and whether ACRE can reinvest capital at attractive spreads. When CRE credit spreads blow out—signaling stress in the broader market—ACRE's equity typically reprices lower alongside its own [credit-spread](/wiki/credit-spread/) and expected asset losses. Conversely, when CRE is flush with capital and spreads compress, the firm trades closer to book value or even at a premium if management can sustain organic growth and distributions.

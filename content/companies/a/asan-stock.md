@@ -1,77 +1,34 @@
 ---
 title: "Asana, Inc. (ASAN)"
-description: "Asana is a work management platform for teams to organize, track, and manage complex projects and workflows."
+description: "Cloud-based work management platform enabling teams to organize, track, and collaborate on projects and workflows across distributed organizations."
 keywords:
-  - Asana
-  - ASAN
-  - work management
-  - project management
-  - SaaS
+  - project management software
+  - work management platform
+  - saas productivity
+  - team collaboration tools
+handwritten: true
 ---
-
-*[**Asana**](https://asana.com/) ([**ASAN**](/wiki/asan-stock/)) is a [**publicly traded**](/wiki/public-company/) software-as-a-service (SaaS) platform that helps teams plan, execute, and manage work at scale. The company operates in the enterprise productivity and [**work management**](/wiki/stock/) sector, competing with other collaboration and project-tracking tools.*
 
 <aside class="wiki-infobox">
 
-| Attribute | Value |
-| --- | --- |
-| Ticker | ASAN |
-| Listing | US-listed; ticker ASAN |
-| SEC CIK | 1477720 |
-| Sector | Technology |
-| Industry | Software/SaaS |
-| Headquarters | San Francisco, California |
-| Founded | 2008 |
-| Type | Public company |
+| Aspect | Detail |
+|--------|--------|
+| **Sector** | Software (SaaS) |
+| **Founded** | 2008 |
+| **Headquarters** | San Francisco, CA |
+| **Business** | Cloud-based work management and collaboration |
+| **Model** | Subscription (freemium + tiered) |
+| **Public Since** | 2020 (NASDAQ: ASAN) |
+| **CIK** | 1477720 |
 
 </aside>
 
-## What the company does
+**Asana sells software that sits between individual task management and full enterprise resource planning.** It's where teams orchestrate work—breaking down projects into tasks, assigning ownership, tracking progress, and coordinating dependencies across silos. The platform pitches as a "single source of truth" for team workflows, competing in the crowded space alongside [Jira](/wiki/jira/), Monday.com, Trello, ClickUp, and others in the work management category.
 
-Asana provides a digital work management platform designed to help teams coordinate tasks, projects, and workflows. The platform serves as a central workspace where team members can organize work, set dependencies, track progress, and communicate—consolidating functions that might otherwise be scattered across email, spreadsheets, and messaging apps. Its interface emphasizes visual project tracking through lists, boards, timelines (Gantt-style), and calendar views.
+The company was founded in 2008 by Dustin Moskovitz (a Facebook co-founder) and Justin Rosenstein (Facebook engineer). The core insight was that work doesn't fit neatly into email threads or spreadsheets—teams need a visual, hierarchical structure that captures project state and makes dependencies explicit. Asana's early positioning emphasized simplicity compared to older enterprise project management tools, marketing itself as accessible to teams without dedicated project managers. The platform went public in September 2020 through a direct listing at $27 per share.
 
-The company targets organizations across various industries—from marketing and creative services to software engineering and professional services—where managing interdependent work across distributed teams is a core operational requirement.
+Asana's business model relies on a freemium tier (limiting features and team size) that funnels users toward paid plans. Pricing scales by team size and feature richness, with enterprise deals including custom workflows, security, and support. Like most cloud [SaaS](/wiki/saas/) companies, Asana derives revenue primarily from annual or monthly subscriptions, targeting mid-market and enterprise buyers. The company has worked to expand internationally and deepen penetration in verticals like media, creative services, and IT operations.
 
-## How it makes money
+Since going public, Asana has faced the dynamics typical of public SaaS companies: investor pressure for efficient customer acquisition, gross margin expansion, and path to profitability. The market for work management is large but competitive, with Microsoft (via Teams), Google, and smaller private companies all vying for the same users. Asana's competitive advantage lies in network effects (teams that adopt it stay, and more teams mean more integrations) and workflow inertia, but switching costs are lower than true enterprise software. The company has pursued strategic acquisitions—notably Instagantt (Gantt chart software) in 2018 and Teamtaiga in 2021—to fill product gaps and accelerate roadmap delivery. Usage depends on team adoption; a tool sitting unused in an organization generates no value and no renewal revenue, which shapes the company's long-term customer retention dynamics.
 
-Asana operates on a subscription SaaS model, offering tiered pricing based on features and team size. The core revenue streams include:
-
-- **Per-seat licensing**: Monthly or annual charges for individual team members using the platform, with pricing tiers scaling from individual contributors to enterprise teams.
-- **Premium features**: Advanced functionality (portfolio management, timeline views, custom fields, advanced reporting) available at higher service tiers.
-- **Enterprise contracts**: Organizations can negotiate volume licensing and custom implementations, typically covering extended support and single sign-on integration.
-
-The business model emphasizes expansion within existing accounts—as organizations grow or adopt new use cases within Asana's ecosystem, per-seat and feature adoption increases.
-
-## Where it sits in its industry
-
-Asana competes in the work management and project collaboration space alongside platforms like [**Monday.com**](/wiki/mndy-stock/), Atlassian's Jira, Microsoft Project, and Smartsheet. Unlike messaging-focused tools ([**Slack**](/wiki/work-management/)) or document collaboration systems, Asana positions itself as a dedicated platform for orchestrating and tracking structured work.
-
-The company's differentiation rests on its unified interface (combining task management, dependency tracking, and timeline visualization), integration ecosystem, and focus on reducing friction between planning and execution. Enterprise adoption has been a growth lever, with Asana gradually moving upmarket from small teams to large Fortune 500 organizations managing thousands of projects.
-
-## How to research it
-
-Investors and researchers can access Asana's regulatory filings through the SEC:
-
-- **10-K annual reports** detail the company's business model, market opportunity, competitive dynamics, and financial performance.
-- **10-Q quarterly reports** provide interim financial results and updates on product development and customer acquisition.
-- **Earnings calls** (quarterly earnings calls with management) offer context on growth drivers, customer retention metrics, and product roadmap direction.
-
-Key metrics to monitor in public filings include subscription revenue growth, net retention rates (indicating expansion within existing customers), customer acquisition costs, and operating leverage progression. The company's ability to retain and expand within large enterprise accounts, while maintaining efficient go-to-market spending, are central to long-term profitability.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Monday.com](/wiki/mndy-stock/) — Work management competitor
-- [Atlassian](/wiki/team-stock/) — Broader software development platform
-- [Software-as-a-Service (SaaS)](/wiki/saas/) — Business model category
-- [Customer retention (net retention)](/wiki/net-retention/) — Key SaaS metric
-
-### Wider context
-
-- [Technology sector](/wiki/technology-stocks/) — Market classification
-- [Cloud computing](/wiki/cloud-computing/) — Infrastructure enabler
-- [Productivity software](/wiki/software-stocks/) — Broader industry
-- [Public company](/wiki/public-company/) — Corporate structure
-
-</div>
+Asana is used by companies ranging from tech startups to Fortune 500 firms, often starting as a department tool before spreading enterprise-wide or being swapped out as priorities shift. Publicly traded Asana is a bet on the premise that digital work management is durable and that Asana can defend its position through product quality, ease of use, and ecosystem depth. Like many SaaS companies, it trades on growth metrics (annual recurring revenue, [net retention](/wiki/net-retention/), customer expansion) as much as profitability, and its stock has reflected both the bull case (remote work durability, digital transformation tailwinds) and bear case (macro softness, slowing spend on tools, rising rates hitting unprofitable growth companies).

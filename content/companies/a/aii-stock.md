@@ -1,71 +1,24 @@
 ---
 title: "American Integrity Insurance Group, Inc. (AII)"
-description: "Florida-based property insurer specializing in homeowners coverage in high-risk coastal areas and underserved markets across the southeastern United States."
+description: "Tampa-based homeowners and specialty insurance provider offering residential property coverage to single-family and condominium owners across multiple states."
 keywords:
-  - American Integrity Insurance Group
-  - AII
-  - property insurance
   - homeowners insurance
-  - Florida insurance
-  - coastal insurance
+  - residential property insurance
+  - florida insurance
+  - specialty insurance
+  - dwelling coverage
+  - insurance carrier
+handwritten: true
 ---
 
-*American Integrity Insurance Group, Inc.* (**AII**) is a [property-casualty insurance](/wiki/property-casualty-insurance/) company focused on residential [homeowners insurance](/wiki/homeowners-insurance/) in Florida and select markets across the southeastern United States. The company specializes in insuring properties in coastal regions and areas with elevated risk profiles, serving customers who may face challenges obtaining coverage through standard markets.
+American Integrity Insurance Group is a publicly traded [stock](/wiki/stock/) insurer focused on personal residential property coverage, headquartered in Tampa, Florida. The company underwrites homeowners policies for single-family dwellings and condominiums, along with a range of specialty products including coverage for vacant properties, investment properties, manufactured homes, and commercial residential exposures. Founded in 2006, the company has grown to become a significant regional player, particularly in coastal and hurricane-exposed states where traditional carriers have contracted their appetite.
 
-<aside class="wiki-infobox">
+The business model centers on underwriting discipline and selective geographic deployment. Rather than pursuing volume across all markets, American Integrity targets segments where it believes it can achieve favorable risk-return profiles—primarily high-value single-family homes and niche specialty lines. Premium growth in recent years has accelerated as the company benefited from both market dislocation (competitors exiting certain states) and its own disciplined pricing philosophy. Revenue expansion from $204 million to $276 million reflects both earned premium growth and improved underwriting results, with earnings more than doubling year-over-year.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AII |
-| Listing | US-listed; traded on Nasdaq |
-| SEC CIK | 2007587 |
-| Sector | Financials |
-| Industry | Property & Casualty Insurance |
-| Headquarters | Tampa, Florida |
-| Type | [Public company](/wiki/public-company/) |
+> The company's willingness to write business in harder-to-serve markets reflects confidence in its underwriting models and pricing discipline.
 
-</aside>
+Profitability has improved materially as the business has matured. The combination of premium rate increases, favorable loss experience in certain segments, and operational leverage on expenses has compressed the combined ratio trend. The company operates through managing general agents and wholesale channels, which provides flexibility in market participation without the overhead of maintaining a broad distribution network. This structure allows rapid scaling or contraction based on market conditions and competitive positioning.
 
-## What the company does
+Competition in homeowners insurance remains intense, particularly in coastal states where capacity constraints and climate risk have reshaped the competitive landscape. American Integrity competes against both national carriers and state-run pools, with an emphasis on product pricing and underwriting selection rather than brand dominance. The company's relatively smaller size compared to diversified national insurers provides both advantages—lower geographic concentration pressure, more focused management—and challenges, including reinsurance cost and capital efficiency. Regulatory oversight of insurance rates and policy forms remains substantial across American Integrity's operating jurisdictions, affecting pricing flexibility and product design.
 
-American Integrity Insurance operates as a provider of homeowners insurance, specializing in properties in coastal and high-risk areas where traditional insurers have reduced their presence. The company writes policies primarily in Florida, which experiences elevated claims exposure from hurricanes, tropical storms, and other catastrophic weather events. In response to this exposure, American Integrity also operates in neighboring states including Alabama, Georgia, Louisiana, and South Carolina.
-
-The company's underwriting focuses on managing the inherent volatility of insuring properties in climates and geographies with significant natural disaster exposure. This requires disciplined [risk assessment](/wiki/risk-assessment-insurance/) practices and careful portfolio composition to protect [shareholders](/wiki/shareholder/).
-
-## How it makes money
-
-American Integrity generates revenue primarily through premiums paid by policyholders for homeowners coverage. The company's profitability depends on [underwriting discipline](/wiki/underwriting-discipline/) — the difference between premiums collected and claims paid out, together with operating expenses. In the property insurance industry, this is often measured as the [combined ratio](/wiki/combined-ratio/), where a ratio below 100 indicates underwriting profit.
-
-Additional revenue comes from investment returns on the [float](/wiki/insurance-float/) — the premiums collected but not yet paid out as claims. Like all insurers, American Integrity invests these reserves in [bonds](/wiki/bond/), equities, and other securities to generate income while maintaining liquidity to cover claim obligations.
-
-## Where it sits in its industry
-
-American Integrity occupies a specific niche within U.S. property insurance, focusing on underserved and high-risk residential markets. Florida's insurance market is heavily populated by both national carriers and smaller regional players, with some large national insurers reducing their exposure to coastal catastrophe risk. This creates opportunities for specialized carriers that can effectively price and manage exposure to weather-related claims.
-
-The company competes with both larger, diversified [financial services](/wiki/financial-services/) firms offering property insurance as part of broader portfolios and smaller regional insurers. Profitability in this segment is highly sensitive to catastrophic loss events — a single major hurricane can significantly impact annual earnings across the industry.
-
-American Integrity's strategy involves selective underwriting, risk mitigation partnerships, and diversification across multiple states to avoid excessive concentration in any single jurisdiction or hazard zone.
-
-## How to research it
-
-Start with the company's quarterly [10-Q](/wiki/10-q/) and annual [10-K](/wiki/10-k/) filings on the SEC website, which detail underwriting results, claims experience, reserves, and portfolio composition. These filings explain the company's exposure to specific catastrophic risks and how management adjusts pricing and underwriting in response to market conditions.
-
-Industry publications and analysis covering Florida's insurance market, property-casualty insurance trends, and catastrophe exposure provide context for understanding competitive pressures and regulatory developments. Rating agencies such as A.M. Best also publish assessments of insurance company financial strength and claims-paying ability.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Homeowners insurance](/wiki/homeowners-insurance/)
-- [Property-casualty insurance](/wiki/property-casualty-insurance/)
-- [Insurance float](/wiki/insurance-float/)
-- [Combined ratio](/wiki/combined-ratio/)
-
-### Wider context
-
-- [Financial services](/wiki/financial-services/)
-- [Public company](/wiki/public-company/)
-- [10-K](/wiki/10-k/)
-- [10-Q](/wiki/10-q/)
-
-</div>
+The company trades on the New York Stock Exchange under the ticker AII, providing liquidity for investors interested in exposure to specialty insurance and homeowners market dynamics during periods of elevated catastrophe risk and insurance capacity constraints.

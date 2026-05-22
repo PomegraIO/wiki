@@ -1,56 +1,30 @@
 ---
 title: "AMAROQ LTD. (AMRQF)"
-description: "Greenland-based oil and gas exploration company focused on advanced mineral resources and petroleum projects in the Arctic region."
+description: "Greenland-focused mining company developing the Nalunaq gold mine and exploring for gold, copper, nickel, and critical minerals across South and West Greenland."
 keywords:
-  - AMAROQ LTD.
-  - AMRQF
-  - oil and gas
-  - Greenland
-  - Arctic exploration
-  - mineral resources
+  - greenland mining
+  - gold production
+  - mineral exploration
+  - nalunaq mine
+  - critical minerals
+  - junior mining
+handwritten: true
 ---
 
-*[AMAROQ LTD.](/wiki/public-company/) (**AMRQF**) is an oil and gas exploration company headquartered in Greenland, focused on identifying and developing petroleum and mineral resources in the Arctic region. The company operates in the energy and natural resources sector, positioning itself to participate in the development of Greenland's emerging hydrocarbon and mineral resource base.*
+Amaroq Ltd. is a mineral development company headquartered in Toronto with operations and assets concentrated across Greenland. The company owns and operates the Nalunaq Gold Mine, its core asset currently in production ramp-up, and maintains an expanding portfolio of exploration licences targeting gold, base metals, and strategic mineral deposits in the Arctic territory.
 
-<aside class="wiki-infobox">
+## Nalunaq and Production Ramp
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AMRQF |
-| **Listing** | US-listed; ticker AMRQF |
-| **SEC CIK** | 2076631 |
-| **Sector** | Energy |
-| **Industry** | Oil & Gas Exploration |
-| **Type** | Public Company |
+The Nalunaq Gold Mine represents Amaroq's flagship generating asset. The company brought the mine into production and is executing a controlled ramp-up phase, with guidance for 2026 gold production in the 25,000 to 35,000 ounce range. Production growth depends on operational execution at the mine site and continued development of supporting infrastructure. An Impact Benefit Agreement with local Greenlandic stakeholders underpins the company's operating licence and community relations.
 
-</aside>
+## Broader Greenland Portfolio
 
-## What the company does
+Beyond Nalunaq, Amaroq controls mineral exploration rights across multiple geological belts in South and West Greenland. The Sava Copper Belt, Nanortalik Gold Belt, and Gardar Province Mineral Belt form the backbone of the exploration pipeline. The company is actively evaluating projects at Stendalen (copper-nickel sulphides) and within the Sava Belt, where early-stage exploration targets copper, nickel, rare earth elements, and other materials classified as critical for industrial and technological use.
 
-AMAROQ LTD. is primarily engaged in exploration activities targeting oil and gas deposits in Greenland and surrounding Arctic waters. The company holds exploration licenses and conducts geological and geophysical surveys to identify commercially viable petroleum resources. Greenland's vast Arctic territory contains substantial untapped hydrocarbon reserves, and AMAROQ positions itself to participate in this development through its exploration programs and partnerships.
+## Greenland as Exploration Terrain
 
-## How it makes money
+Greenland's vast, sparsely populated terrain offers large claim blocks with limited development history and significant remaining discovery potential. Mineral deposits remain under-explored compared to more developed jurisdictions. However, Greenland's extreme climate, limited infrastructure, and reliance on Arctic shipping introduce operational and logistical constraints. The company's success hinges on discovering or developing mineral bodies large and high-grade enough to justify remote-region production economics.
 
-The company generates revenue through exploration stage operations and potential future production activities. Like most exploration-stage energy firms, AMAROQ's financial performance depends on successful resource discovery, development of discovered reserves, and eventual production and [sale of oil and gas](/wiki/commodity-futures-trading-commission/). The company may also generate revenue through farm-down agreements or joint ventures with larger energy firms, allowing partners to fund development in exchange for equity stakes.
+Amaroq's strategic position rests on controlling exploration exposure to an under-tested region while generating near-term cash flow from Nalunaq. The company trades on multiple exchanges: AIM in London, TSX Venture in Canada, and as AMRQF on the US OTC market.
 
-## Arctic and Greenland development context
-
-Greenland is positioned at the forefront of Arctic resource development as climate change has made previously inaccessible resources economically viable to explore. The island's geological formations contain significant estimated reserves of oil, natural gas, and minerals. AMAROQ's focus on this region reflects the broader energy industry's interest in Arctic hydrocarbon development, though such projects face complex environmental, regulatory, and geopolitical considerations. The company's viability depends on successful exploration outcomes and favorable commodity price environments.
-
-## How to research it
-
-Investors interested in AMAROQ should begin with the company's [10-K](/wiki/10-k/) filings with the [Securities and Exchange Commission](/wiki/public-company/), which detail exploration programs, acreage holdings, financial condition, and management discussion of strategy and risks. Arctic exploration involves substantial capital requirements and long development timelines. The company's [10-Q](/wiki/10-k/) quarterly filings provide updates on exploration progress and financial results. Industry analyses of Greenland petroleum potential and Arctic energy development trends provide context for the company's strategic positioning.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Oil and gas exploration](/wiki/public-company/)
-- [Energy sector companies](/wiki/public-company/)
-- [Arctic resource development](/wiki/commodity-futures-trading-commission/)
-
-### Wider context
-- [Petroleum reserves](/wiki/commodity-futures-trading-commission/)
-- [Commodity prices](/wiki/commodity-futures-trading-commission/)
-- [Exploration stage companies](/wiki/public-company/)
-
-</div>
+See also: [10-K](/wiki/10-k/)

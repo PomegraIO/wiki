@@ -1,82 +1,37 @@
 ---
 title: "Aurelion Inc. (AURE)"
-description: "Aurelion Inc. is a public biotechnology company focused on regenerative medicine and cellular therapeutics, developing treatments through advanced proprietary technologies."
+description: "Hong Kong-based digital wealth and tokenized gold company providing blockchain-based asset management and real-world asset solutions for investors."
 keywords:
-  - Aurelion Inc.
-  - AURE
-  - biotechnology
-  - regenerative medicine
-  - cellular therapeutics
-  - public biotech
+  - tokenized gold
+  - digital wealth
+  - blockchain assets
+  - real-world assets
+  - wealth management
+  - tether gold
+handwritten: true
 ---
-
-*[Aurelion Inc.](/wiki/companies/a/aure-stock/) (ticker **AURE**) is a [public company](/wiki/public-company/) in the [biotechnology](/wiki/biotechnology-sector/) and regenerative medicine sector. The company develops cellular and molecular therapeutics focused on tissue regeneration and disease treatment.*
 
 <aside class="wiki-infobox">
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AURE |
-| Listing | US-listed; ticker AURE |
-| SEC CIK | 1765850 |
-| Sector | Healthcare |
-| Industry | Biotechnology |
-| Type | Public Company |
+**Aurelion Inc.**
+
+| Item | Value |
+|------|-------|
+| **Ticker** | AURE (NASDAQ) |
+| **SEC CIK** | 1765850 |
+| **Headquarters** | Hong Kong |
+| **Founded** | 2018 (as Prestige Wealth Inc.) |
+| **Rebranded** | November 2025 |
+| **Sector** | Digital Wealth, Real-World Assets |
+| **Primary Focus** | Tokenized gold, blockchain-based wealth management |
 
 </aside>
 
-## What the company does
+## Tokenized Gold Treasury and Real-World Assets
 
-Aurelion Inc. operates in the regenerative medicine space, developing therapeutics that harness cellular biology to repair and regenerate damaged tissues. The company's pipeline focuses on addressing unmet needs in orthopedic, cardiac, and neurological conditions where traditional pharmaceutical approaches have shown limited efficacy.
+Aurelion Inc. is a Hong Kong-based digital wealth platform specializing in blockchain-backed precious metals and real-world asset (RWA) custody. The firm positions itself as Nasdaq's first Tether Gold (XAU₮) treasury, providing investors a way to hold tokenized gold—a blockchain-represented version of physical gold—through a publicly listed [stock](/wiki/stock/) vehicle. Unlike traditional commodity funds that track spot prices, Aurelion's model links gold reserves to smart contracts and blockchain settlement, combining the tangible security of physical bullion with the operational efficiency and finality of distributed ledgers. This appeals to both traditional investors seeking inflation protection and digital-native participants who prefer blockchain-based settlement over conventional custody arrangements.
 
-The company employs proprietary platforms for cell sourcing, processing, and delivery, aiming to create off-the-shelf cellular products that can be deployed across multiple therapeutic applications. Its approach emphasizes the biological mechanisms of tissue repair rather than small-molecule or antibody-based interventions common in traditional pharma.
+## Wealth Management and AI-Driven Advisory
 
-## How it makes money
+Beyond gold treasury functions, Aurelion operates a wealth management arm powered by artificial intelligence and algorithmic portfolio optimization. The company serves a dual mandate: offering asset protection (via tokenized precious metals) alongside growth and income strategies (via AI-driven allocation). This positioning sits at an intersection often overlooked—it targets investors uncomfortable with pure crypto holdings yet seeking digital-age wealth solutions. The company's evolution from Prestige Wealth Inc. to Aurelion reflects industry-wide recognition that tokenization and blockchain infrastructure are reshaping how institutional and retail clients manage alternative assets, custody, and cross-border settlement.
 
-Aurelion generates revenue from development agreements, milestone payments, and [royalties](/wiki/royalty-agreement/) from collaborators and licensees who commercialize the company's technology. In earlier-stage development phases, the company relies primarily on funding from [equity](/wiki/equity/) offerings, research grants, and strategic partnerships with larger pharmaceutical and healthcare organizations.
-
-As product candidates progress toward regulatory approval, the revenue model is expected to transition toward product sales, though near-term monetization depends on successful clinical development and regulatory clearance from agencies such as the FDA.
-
-## Research and development pipeline
-
-The company maintains multiple programs across regenerative medicine indications. Development timelines for cell therapy candidates typically span several years from initiation through regulatory approval. Aurelion's progress depends on:
-
-- Successful completion of [clinical trials](/wiki/clinical-trial/) demonstrating safety and efficacy
-- Manufacturing scale-up and process optimization
-- Regulatory interactions and guidance from the FDA or international equivalents
-- Competitive positioning relative to other regenerative medicine approaches
-
-## Where it sits in its industry
-
-Aurelion competes in a growing but still-nascent regenerative medicine sector alongside larger biotechnology firms and specialized cell therapy companies. The space attracts investment from established pharmaceutical companies seeking to diversify away from traditional drug modalities, as well as venture-backed startups focused exclusively on cell and tissue engineering.
-
-The regulatory pathway for cellular therapeutics remains evolving, creating both opportunity and execution risk. Successful players will likely combine proprietary cell processing technology, clinical evidence, manufacturing expertise, and commercialization capabilities—areas where Aurelion is building competency.
-
-## How to research it
-
-Investors and researchers can access Aurelion's regulatory filings through the [SEC](/wiki/sec-regulator/)'s [EDGAR](/wiki/edgar/) database using its CIK 1765850. Key documents include:
-
-- Form [10-K](/wiki/10-k/) (annual report) describing business strategy, risks, and financial condition
-- Form 10-Q (quarterly reports) providing updates on development progress and financial results
-- Form 8-K (current reports) announcing material events, partnerships, or clinical milestones
-
-Company press releases, investor presentations, and clinical trial registries also provide current-period information on program status and regulatory interactions.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Biotechnology sector](/wiki/biotechnology-sector/)
-- [Cell therapy](/wiki/cell-therapy/)
-- [Regenerative medicine](/wiki/regenerative-medicine/)
-- [Clinical trial](/wiki/clinical-trial/)
-- [FDA approval process](/wiki/fda-approval-process/)
-- [Biotech stock](/wiki/biotech-stock/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [Equity offering](/wiki/equity-offering/)
-- [Securities and Exchange Commission](/wiki/sec-regulator/)
-- [10-K](/wiki/10-k/)
-- [Risk factors disclosure](/wiki/risk-factors-disclosure/)
-
-</div>

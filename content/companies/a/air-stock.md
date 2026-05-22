@@ -1,66 +1,22 @@
 ---
 title: "AAR CORP (AIR)"
-description: "Aerospace and defense company providing parts, components, and aftermarket services to commercial and military aircraft operators globally."
+description: "Aerospace parts supplier and logistics provider serving commercial and military aircraft operators, enabling flight hour utilization through inventory and component services."
 keywords:
-  - AAR CORP
-  - AIR
-  - aerospace
-  - defense
-  - aviation services
-  - parts distribution
+  - aerospace supplier
+  - aviation parts
+  - aftermarket services
+  - aircraft maintenance
+handwritten: true
 ---
 
-*[AAR CORP (AIR)](/wiki/air-stock/) is an industrial company serving the aerospace and defense sectors, providing aircraft components, materials management services, and aftermarket support to commercial operators, military forces, and cargo providers worldwide.*
+AAR Corp occupies the unglamorous but essential space between aircraft manufacturers and operators. While Boeing builds the plane, and airlines operate it, AAR keeps it airborne by managing the constant flow of replacement parts, refurbished components, and spare inventory that every carrier requires. The company supplies everything from hydraulic assemblies to cabin fixtures and manages complex supply chains that prevent costly fleet groundings.
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AIR |
-| Listing | US-listed; ticker AIR |
-| SEC CIK | 1750 |
-| Sector | Industrials |
-| Industry | Aerospace & Defense Services |
-| Headquarters | Chicago, Illinois |
-| Founded | 1923 |
-| Type | Public company |
-</aside>
+The business rests on two complementary operations. Component Repair and Return (CRR) handles the refurbishment and logistics of used aircraft parts—sourcing components from retired aircraft, overhauling them to certification standards, and delivering them where needed. Inventory and Logistics Services goes deeper, taking on the full burden of spare-parts management for customers: AAR stocks the parts, maintains the inventory, manages the capital, and guarantees availability. This second model locks in recurring revenue and customer stickiness because an airline cannot easily walk away once AAR is embedded in its supply chain.
 
-## What the company does
+> An airline grounded by a missing part bleeds money by the minute—AAR is the safety net that prevents that failure.
 
-AAR CORP operates in two primary business segments focused on aviation and aerospace. The company supplies parts, components, and assemblies for commercial aircraft, helicopter operators, and military platforms. It also provides materials management services, including managing spare parts inventories for airline operators and defense contractors. These services allow customers to reduce their capital requirements for spare parts while maintaining operational readiness.
+The aftermarket opportunity is durable. Commercial aviation undergoes constant maintenance; military platforms require uninterrupted support; cargo operators push utilization hard and need reliable parts availability. AAR benefits from long-term contracts with major carriers and the U.S. Defense Department, providing visibility into demand. The company's competitive moat stems from scale, inventory depth accumulated over decades, regulatory certifications, and the switching costs embedded in materials management relationships. Competitors exist—some in-house supplied by large carriers, some smaller regional players—but AAR's breadth and integration are difficult to replicate.
 
-The company serves a wide range of clients, from major commercial airlines and regional carriers to military branches worldwide. As a distributor and service provider, rather than a manufacturer of the aircraft themselves, AAR CORP occupies a supportive role in the broader aerospace supply chain.
+Capital intensity is real. The company ties substantial working capital into inventory it holds on behalf of customers, so profitability depends on pricing those services adequately and managing inventory turns. Commercial aviation cycles affect demand; the pandemic-era disruption highlighted both the vulnerability and the value of having established supply chains ready to scale back up. Normalized air travel patterns have restored AAR's revenue momentum, but investors should track customer utilization rates, contract wins, and inventory efficiency to gauge health.
 
-## How it makes money
-
-The company generates revenue through two distinct mechanisms. First, it sells aircraft parts, components, and materials directly to customers—both routine maintenance components and specialized assemblies. Second, it operates materials management contracts where it assumes responsibility for maintaining and managing spare parts inventory on behalf of its clients, taking on the working capital burden while providing availability guarantees.
-
-The materials management business model creates recurring revenue streams because operators depend on the service continuously. The parts sales business benefits from the underlying demand for aviation maintenance and the ongoing need for components as aircraft age.
-
-## Where it sits in its industry
-
-AAR CORP operates in a specialized segment of the aerospace supply chain focused on aftermarket services and component distribution rather than original equipment manufacturing. The company competes with other [aerospace and defense](/wiki/aerospace-defense/) distributors, in-house supplier networks operated by major airlines, and smaller regional parts suppliers.
-
-The aerospace aftermarket is characterized by high barriers to entry—including regulatory certifications, customer qualification requirements, and the capital intensity of parts inventory management. Established relationships with airlines and defense customers create stickiness that favors incumbent providers. AAR CORP's scale and diversified customer base provide some insulation from dependency on any single operator or platform.
-
-## How to research it
-
-Investors can examine AAR CORP's [10-K](/wiki/10-k/) annual reports filed with the SEC, which detail segment performance, customer concentration, contract terms, and competitive dynamics. The company's 10-Q quarterly reports provide updates on revenues, margins, and order backlog.
-
-Key metrics to track include segment revenue trends, gross margins on parts versus services, customer retention rates, and the company's working capital position—particularly inventory levels on behalf of managed customers. Earnings calls often discuss the health of the commercial aviation market, military spending trends, and integration of any acquisitions.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [10-K](/wiki/10-k/)
-- [SEC CIK](/wiki/sec-filing/)
-- [Aerospace and defense](/wiki/aerospace-defense/)
-
-### Wider context
-- [Industrial sector](/wiki/industrials/)
-- [Supply chain](/wiki/supply-chain/)
-- [Defense contracting](/wiki/defense-contracting/)
-- [Capital intensive business](/wiki/capital-intensive/)
-
-</div>
+See also: [/wiki/10-k/](/wiki/10-k/)

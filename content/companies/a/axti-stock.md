@@ -1,88 +1,20 @@
 ---
 title: "AXT INC (AXTI)"
-description: "Semiconductor manufacturer specializing in compound semiconductor substrates and photonic devices for telecom, industrial, and defense applications."
+description: "Specialty compound semiconductor wafer manufacturer supplying indium phosphide and gallium arsenide substrates for fiber optics, data centers, 5G, lidar, and RF applications."
 keywords:
-  - AXT INC
-  - AXTI
-  - semiconductor
   - compound semiconductor
-  - photonic devices
-  - indium phosphide
+  - indium phosphide wafers
+  - data center optical
+  - silicon photonics
+  - gallium arsenide
+  - semiconductor substrates
+handwritten: true
 ---
 
-*Headquartered in Fremont, California, **AXT INC** (ticker **AXTI**) is a [public company](/wiki/public-company/) focused on manufacturing compound semiconductor wafers, substrates, and photonic materials for the telecommunications, industrial, and defense markets.*
+**AXT Inc manufactures the crystalline wafers that light travels through.** Most semiconductor companies grab headlines by designing or building chips; AXT operates at the materials layer—crafting indium phosphide, gallium arsenide, and germanium substrates that become the physical foundation for optical transceivers, lidar sensors, RF amplifiers, and photonic integrated circuits. It is a supply-chain essential, rarely visible but quietly present wherever data centers move light through fiber, where autonomous vehicles need sensors, or where 5G infrastructure uses high-frequency switching.
 
-<aside class="wiki-infobox">
+Incorporated in 1986 as American Xtal Technology and rebranded to AXT in 2000, the company went public in 1998 and trades on Nasdaq under AXTI. It is headquartered in Fremont, California, at the center of Silicon Valley's materials-science ecosystem. The business remains focused: source raw materials, grow crystal boules in specialized furnaces, slice them into wafers, polish and finish to specification, and ship to device makers and photonic component OEMs. Vertically integrated to maintain quality and proprietary control, AXT operates manufacturing facilities and controls enough of the supply chain to weather demand swings while maintaining margin on specialty grades.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AXTI |
-| **Listing** | US-listed; ticker AXTI |
-| **SEC CIK** | 1051627 |
-| **Sector** | Technology |
-| **Industry** | Semiconductors & Equipment |
-| **Headquarters** | Fremont, California |
-| **Founded** | 1986 |
-| **Type** | Public corporation |
+The tailwind is data center optical interconnect. As hyperscale cloud providers build faster internal networks and move optics from inter-rack to on-rack switching, they pull forward demand for optical transceivers and photonic devices—all built on indium phosphide wafers. The shift from electrical to optical signaling inside data centers is structural, not cyclical. Concurrently, autonomous vehicle demand fuels lidar chip production; 5G deployment drives RF and photonic-integrated-circuit adoption. Q1 2026 revenue jumped 39% year-over-year to $26.9 million with gross margin swinging from negative to nearly 30%, signaling both demand acceleration and operational improvement. In April 2026, a $632.5 million capital raise underscored investor conviction: AXT is betting on sustained long-term demand by expanding indium phosphide capacity aggressively.
 
-</aside>
-
-## What the company does
-
-AXT manufactures and supplies specialty semiconductor materials and wafers used to build high-performance optoelectronic and photonic devices. The company's core products are indium phosphide (InP) wafers and related compound semiconductor substrates, which serve as the foundation for lasers, optical amplifiers, integrated circuits, and other components in fiber-optic telecommunications infrastructure. AXT also produces materials used in radio-frequency (RF) and power semiconductor applications.
-
-The company operates a vertically integrated business model, controlling aspects of material sourcing, crystal growth, and wafer processing. This allows AXT to maintain quality standards and intellectual property advantages in a capital-intensive market. The company serves original equipment manufacturers (OEMs) and semiconductor device makers primarily in North America, Europe, and Asia-Pacific regions.
-
-## How it makes money
-
-AXT generates revenue by selling semiconductor wafers, substrates, and blanks to device manufacturers. Revenue streams include:
-
-- **Compound semiconductor wafers** — primarily indium phosphide and gallium arsenide substrates sold by diameter and purity specification
-- **Specialty materials** — custom substrates and materials for RF, power semiconductor, and optoelectronic device applications
-- **Processing services** — value-added finishing, polishing, and preparation of wafers for customer specifications
-
-Pricing is typically contract-based, with long-term supply agreements common in the sector. Demand is driven by capacity utilization in telecom (fiber expansion, data center growth), defense spending, and emerging applications in industrial sensing and photonics.
-
-## Where it sits in its industry
-
-AXT operates in the compound semiconductor substrate space, a niche but strategic segment of the broader semiconductor supply chain. The [semiconductor](/wiki/semiconductor/) industry includes logic and memory chip designers, foundries, equipment makers, and material suppliers. AXT's position is upstream as a materials supplier, primarily to optoelectronic device manufacturers rather than selling to end consumers.
-
-Key competitive dynamics include:
-
-- **Specialized expertise** — compound semiconductor production requires different processes and expertise than silicon, creating barriers to entry
-- **Capacity constraints** — supply-demand imbalances in indium phosphide have historically created pricing power for suppliers during upcycles
-- **Customer concentration** — revenue typically depends on a handful of large device manufacturers, creating customer risk
-- **Technology evolution** — shifts toward new materials, wavelengths, or device architectures can disrupt demand
-
-AXT competes against other specialty material suppliers and integrated device makers that produce their own substrates in-house. The company's main competitive advantage is dedicated expertise in compound semiconductor production and long-standing customer relationships.
-
-## How to research it
-
-For detailed financial performance, capital structure, and operational metrics, consult AXT's regular [10-K](/wiki/10-k/) filings with the SEC (quarterly [10-Q](/wiki/10-q/) reports also available). These documents disclose customer concentration, manufacturing capacity, gross margins by product line, and forward guidance on demand.
-
-Key metrics to track:
-
-- **Wafer shipments and average selling price** — indicates demand trends and pricing power
-- **Gross margin** — reflects manufacturing efficiency and product mix
-- **Capital expenditures** — substrate capacity additions require significant upfront investment
-- **Customer concentration** — typically disclosed in the 10-K's "Customers" section
-
-The [stock](/wiki/stock/) price historically correlates with semiconductor demand cycles, telecom capex spending, and indium phosphide supply-demand balances. Industry conferences covering photonics and optoelectronics frequently feature discussions of substrate supply and demand outlooks.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Public company](/wiki/public-company/)
-- [Semiconductor](/wiki/semiconductor/)
-- [10-K](/wiki/10-k/)
-- [Stock](/wiki/stock/)
-
-### Wider context
-
-- [Technology sector](/wiki/technology-sector/)
-- [Supply chain risk](/wiki/supply-chain-risk/)
-- [Fiber optics](/wiki/fiber-optics/)
-- [Telecommunications infrastructure](/wiki/telecommunications-infrastructure/)
-
-</div>
+The risk is customer concentration—a handful of large device makers typically account for the majority of sales—and technology inflection. If device architectures shift away from indium phosphide or if competitors vertically integrate substrate production in-house, demand exposure sharpens. But for now, AXT sits at a critical materials chokepoint for infrastructure optically transforming itself.

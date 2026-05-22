@@ -1,58 +1,23 @@
 ---
 title: "Albertsons Companies, Inc. (ACI)"
-description: "One of the largest grocery retailers in North America operating supermarkets and pharmacies across multiple banners and regions."
+description: "Albertsons is a major U.S. grocery and pharmacy chain operating supermarkets across western and central states, generating revenue through retail food sales and prescription services."
 keywords:
-  - Albertsons
-  - ACI
-  - grocery retail
-  - supermarkets
-  - food retail
+  - grocery retailer
+  - supermarket chain
+  - pharmacy services
+  - retail food
+  - consumer staples
+handwritten: true
 ---
 
-*[Albertsons Companies, Inc.](/wiki/public-company/) (ticker **ACI**) is one of the largest food and drug retailers in North America. The company operates hundreds of supermarkets under multiple banners, providing groceries, household goods, pharmacy services, and general merchandise to millions of customers.*
+**Albertsons Companies is one of the largest grocery retailers in the United States,** operating supermarkets under the Albertsons and Safeway banners, along with Jewel-Osco locations and other banners, spread across the western and central regions of the country. The company makes money the way grocers do—through the margin between wholesale costs and retail prices, supplemented by pharmacy operations, fuel stations, and private-label products that carry higher margin than commodity name brands.
 
-<aside class="wiki-infobox">
+Grocery retail runs on thin margins and high volume. Store economics are dominated by rent, labor, supply chain costs, and shrinkage from spoilage and theft. Albertsons manages this through operational scale, store-level metrics, and supply chain infrastructure. Like all large grocers, it competes on price perception, convenience, loyalty program engagement, and the selection and quality of private-label offerings. Supplier promotional allowances and advertising revenue—manufacturers paying for shelf placement and promotional end-caps—represent steadier profit than groceries themselves, though this revenue is tied to market conditions and category health.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ACI |
-| Listing | US-listed; ticker ACI |
-| SEC CIK | 1646972 |
-| Sector | Retail |
-| Industry | Grocery & Food Retail |
-| Headquarters | Idaho, USA |
-| Founded | 1939 |
-| Type | Public corporation |
+Albertsons sits in a mature, consolidated grocery market alongside Kroger, Walmart, Target, and Amazon Fresh. The industry has shifted toward operational excellence in high-margin categories like organic and prepared foods, while competing on price in commodity staples. Albertsons has invested in digital capabilities, omnichannel fulfillment, and personalized pricing through its loyalty program. Pharmacy and fuel serve as semi-captive revenue streams that build store traffic and cross-selling, though pharmacy margins have compressed under competitive pricing and changing drug reimbursement dynamics.
 
-</aside>
+Profitability in grocery hinges on inventory turns, shrink control, labor scheduling efficiency, and supplier negotiating power. The company files [10-K](/wiki/10-k/) and quarterly reports with the SEC that detail segment performance, store counts by banner, comparable-store sales, and margin trends. The company trades as [a public security](/wiki/public-company/) on the NYSE.
 
-## What the company does
+Albertsons' competitive position rests on store footprint and omnichannel presence rather than product innovation or service differentiation. The sector faces structural headwinds from wage pressure, commodity inflation, and format disruption as e-commerce and smaller-format retailers reshape how people buy groceries. Pharmacy and fuel margins face ongoing pressure from competition and regulatory changes. Like other mature grocers, the stock reflects the business model's limited growth potential and operational focus on cash generation.
 
-Albertsons operates a network of supermarkets and pharmacies across the United States and Canada under various regional banners, each serving distinct geographic markets and customer bases. The company sells groceries, fresh produce, dairy, prepared foods, household goods, health and beauty items, and general merchandise. Albertsons also operates pharmacies offering prescription filling, vaccination services, and health consultations. The company competes on a mix of price, selection, convenience, and loyalty programs that drive repeat customer visits.
 
-## How it makes money
-
-Albertsons generates revenue primarily from product sales at its supermarket locations. Revenue streams include groceries (highest volume, lower margin), specialty categories such as organic or prepared foods (higher margins), pharmacy prescription sales (stable recurring revenue), and fuel (which drives store traffic). The company also earns revenue from advertising (in-store media and customer data), loyalty program fees, and vendor fees for shelf placement. Profitability depends on managing supply chain costs, labor, and shrinkage (theft and waste) while maintaining competitive pricing.
-
-## Where it sits in its industry
-
-Albertsons is one of the largest food retailers in North America, competing with national chains (Walmart, Kroger), regional players, and increasingly with e-commerce and discount grocers. The grocery retail sector faces structural pressure from rising labor costs, supply chain volatility, and competition from Amazon and specialty retailers. Albertsons differentiates through its regional multi-banner strategy, which allows customization for local markets, and through loyalty program data. The company faces ongoing challenges from rising wages, inventory management, and the shift toward online shopping and delivery.
-
-## How to research it
-
-Albertsons' [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings detail store counts by banner, geographic sales mix, comparable-store sales growth, and profitability by division. SEC documents outline supply chain management, labor costs, and competitive positioning. Investor presentations discuss loyalty program performance, digital initiatives, and margin expansion strategies. Consumer and retail industry publications track pricing competition, market share, and trends in grocery retail consolidation and innovation.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Retail sector](/wiki/retail/)
-- [Grocery retail](/wiki/grocery-retail/)
-
-### Wider context
-- [10-K](/wiki/10-k/) — Annual report filing
-- [10-Q](/wiki/10-q/) — Quarterly report filing
-- [Supply chain management](/wiki/supply-chain-management/)
-- [Retail competition](/wiki/retail-competition/)
-
-</div>

@@ -1,57 +1,24 @@
 ---
 title: "ADDENTAX GROUP CORP. (ATXG)"
-description: "ADDENTAX GROUP CORP. is a holding company providing tax resolution and financial advisory services to individuals and businesses."
+description: "China-based supply chain and logistics firm serving garment manufacturing and courier services sectors, trading over-the-counter."
 keywords:
-  - ADDENTAX GROUP CORP
-  - ATXG
-  - tax services
-  - financial advisory
-  - holding company
+  - supply chain consulting
+  - textile and apparel
+  - logistics services
+  - china operations
+  - otc stocks
+handwritten: true
 ---
 
-*[**ADDENTAX GROUP CORP.**](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1650101&type=10-K&dateb=&owner=exclude&count=100) (**ATXG**) is a publicly traded holding company engaged in providing tax resolution services, financial advisory services, and related business activities to individuals and businesses across the United States. The company operates through subsidiary entities that specialize in helping clients navigate complex tax situations and manage their financial affairs.*
+Addentax Group Corp. is a supply chain consulting and logistics operator based in Shenzhen, China. Founded in 2014, the company focuses primarily on the textile and garment manufacturing industry, offering services that span from production consulting to delivery and courier logistics across select Chinese provinces.
 
-<aside class="wiki-infobox">
+The company generates revenue through two core business segments:
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ATXG |
-| **Listing** | US-listed; ticker ATXG |
-| **SEC CIK** | 1650101 |
-| **Sector** | Financial Services |
-| **Industry** | Tax Advisory & Resolution Services |
+- **Garment Manufacturing**: Advises and partners with garment producers, selling to wholesalers predominantly in mainland China
+- **Logistics Services**: Runs delivery and courier operations serving several provinces, providing last-mile fulfillment for textile and related goods
 
-</aside>
+In the broader context of Chinese industrial services, Addentax is small—the kind of mid-market operator that rarely makes headlines but keeps supply chains moving. Addentax trades on the OTC markets under ticker ATXG and trades thinly compared to major exchanges. Like many small-cap firms operating in emerging markets and service sectors, it carries execution risk tied to China regulatory shifts, labor costs, and freight volatility.
 
-## What the company does
+The company filed regular SEC reports in its early years as a smaller reporting company, then as an emerging growth company, signaling typical startup-to-scale trajectory. Investors watching this stock are betting on China's continued focus on garment manufacturing efficiency and regional logistics needs, though trading liquidity and information flow remain limited.
 
-ADDENTAX GROUP CORP. operates as a diversified holding company that provides specialized tax and financial services. The company's primary business involves tax resolution and consulting services aimed at helping individuals and small-to-medium-sized businesses resolve tax disputes, manage compliance obligations, and optimize their tax positions. The company also engages in financial advisory activities and maintains interests in other complementary business operations.
-
-## How it makes money
-
-The company generates revenue primarily through fees charged for tax resolution services, consulting engagement fees, and advisory service arrangements. Revenue streams may include contingency-based fees (dependent on successful resolution outcomes), hourly billing for professional services, and retainer agreements with clients seeking ongoing advisory support. The company may also derive income from its various subsidiary operations and affiliated business interests.
-
-## Where it sits in its industry
-
-ADDENTAX GROUP CORP. operates in the competitive tax services and financial advisory sector, competing against both large established tax service firms and smaller specialized practitioners. The tax resolution industry includes national firms, regional practices, and individual practitioners offering similar services. The company's position depends on its reputation, track record of successful client outcomes, service quality, and the effectiveness of its marketing and client acquisition strategies.
-
-## How to research it
-
-Investors and researchers should consult the company's [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings with the [SEC](/wiki/sec-filing/) to understand its financial performance, business operations, and risks. These documents provide detailed financial statements, management discussion and analysis (MD&A), and risk factor disclosures. The SEC EDGAR database (using CIK 1650101) offers access to all official filings. Understanding the company's client acquisition costs, retention rates, revenue diversity across service lines, and competitive positioning helps assess its business fundamentals.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Financial advisory](/wiki/financial-advisor/)
-- [Tax services](/wiki/tax-deduction/)
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-
-### Wider context
-
-- [Financial services sector](/wiki/financial-services/)
-- [IRS compliance](/wiki/tax-compliance/)
-- [Business consulting](/wiki/business-advisory/)
-
-</div>
+Key considerations: ATXG's business model depends on China's garment sector remaining viable and its logistics corridors staying open. Investors should verify recent filings and liquidity before taking positions. The OTC market structure means wider bid-ask spreads and less oversight than major exchanges—typical trade-offs of small-cap, international exposure. Consult [10-K](/wiki/10-k/) filings with the SEC for detailed financial and operational disclosures.

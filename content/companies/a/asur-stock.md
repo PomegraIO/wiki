@@ -1,70 +1,36 @@
 ---
 title: "ASURE SOFTWARE INC (ASUR)"
-description: "Provider of cloud-based workforce management and human capital management software for mid-market and enterprise organizations."
+description: "Cloud-based HCM platform for small and mid-sized businesses, offering payroll, tax compliance, HR tools, and workforce management through SaaS subscriptions."
 keywords:
-  - ASURE SOFTWARE INC
-  - ASUR
-  - workforce management
+  - payroll software
   - human capital management
-  - HCM software
-  - payroll processing
+  - saas
+  - smb
+  - cloud-based hr
+  - workforce management
+handwritten: true
 ---
 
-*[ASURE SOFTWARE INC](/wiki/public-company/) (**ASUR**) is a [cloud-based](/wiki/cloud-computing/) software provider specializing in workforce management and human capital management solutions for mid-market and enterprise organizations. The company delivers payroll, HR, and benefits administration platforms designed to streamline labor operations and improve workforce productivity.*
+## What's in the Asure platform?
 
-<aside class="wiki-infobox">
+Asure Software is a [cloud-based](/wiki/cloud-computing/) Human Capital Management (HCM) provider serving small and mid-sized businesses. Its core offering is an integrated suite of payroll processing, tax filing, HR compliance, time and attendance tracking, recruiting, and benefits administration. The company wraps these capabilities into a [Software-as-a-Service](/wiki/saas/) platform where customers pay recurring subscription fees rather than managing payroll in-house or using disconnected point solutions.
 
-| Item | Value |
-|------|-------|
-| **Ticker** | ASUR |
-| **Listing** | US-listed; ticker ASUR |
-| **SEC CIK** | 884144 |
-| **Sector** | Technology |
-| **Industry** | Software—Business Applications |
-| **Headquarters** | Austin, Texas |
-| **Founded** | 1985 |
-| **Type** | Public company |
+## Who uses it, and why?
 
-</aside>
+Employers with 10 to 500 or so employees find payroll and tax compliance administratively heavy—calculating wages, managing garnishments, filing quarterly taxes, staying current on labor law changes. Asure targets companies that lack dedicated payroll departments and want both automation and guardrails. Beyond basic payroll, the platform layers in time tracking, applicant recruiting, and insurance administration, letting a small HR team consolidate vendors and reduce operational friction. The company has also launched AsureWorks, a managed service tier for organizations seeking more hands-on support.
 
-## What the company does
+## Where does the money come from?
 
-ASURE SOFTWARE operates as a pure-play software vendor in the human capital management space. Its primary offering is a suite of cloud-native applications that handle payroll processing, time tracking, HR workflows, benefits management, and employee self-service capabilities. The platform serves organizations from small businesses to enterprises, with particular strength in mid-market segments that need affordable, integrated solutions but cannot or prefer not to build custom systems in-house.
+Revenue is almost entirely recurring [SaaS](/wiki/saas-model/) subscription fees. Customers pay monthly or annually for access to payroll processing, tax filing, and HR modules. The 2025 business generated approximately $140 million in total revenue, with recurring revenue reaching over 80 percent of the total—a stable, predictable mix in a software business. Growth comes from both customer acquisition and expansion: pulling in new SMBs and getting existing customers to adopt more modules like recruiting, benefits, and time tracking.
 
-The company's architecture emphasizes API-first design and third-party integrations, allowing customers to connect payroll and HR data with their broader enterprise systems. This interoperability focus reflects market expectations that workforce software must fit into larger business infrastructure stacks rather than operate in isolation.
+## How is Asure positioned in its market?
 
-## How it makes money
+The HCM software market is crowded. Large enterprises use systems from vendors like [Workday](/wiki/wday-stock/) or SAP; larger mid-market firms deploy [ADP](/wiki/adp-stock/) or [Paychex](/wiki/payx-stock/). Asure competes in the underserved SMB segment where simplicity and affordability matter more than breadth. It plays against specialized payroll-only vendors, legacy on-premise systems, and newer SaaS entrants. The moat is network effects—more users generate more data, enabling better AI features—and switching costs, since payroll data and tax filings are sticky. Recent investments in AI workflows, particularly the Luna agent for automating employee management tasks, signal an attempt to move upstream in complexity and price.
 
-ASURE generates revenue primarily through subscription-based software licenses, where customers pay recurring fees—typically monthly or annually—based on the number of employees processed or active users. This recurring revenue model provides predictable, stable cash flows characteristic of mature [SaaS](/wiki/saas/) vendors. Additional revenue comes from implementation services, training, and consulting engagements when customers onboard or customize deployments.
+## What's the financial picture?
 
-Pricing is generally tiered by organizational size and feature complexity. Large enterprises with millions of payroll transactions annually pay at the high end; smaller customers using basic payroll and HR tracking pay less. The company also generates ancillary revenue from benefits administration services and payroll processing, where it acts as an intermediary between employers and insurers or tax authorities.
+The company operates profitably at the operating level, with Q1 2026 net income positive after prior-year losses. Management guides to 15-20 percent organic revenue growth and is investing in sales expansion alongside product development. With over 80 percent recurring revenue and predictable churn, the business resembles a textbook SaaS operator, though execution and churn rates remain critical watch items. The company is not a high-growth moonshot; it is a steady, disciplined player in a large and fragmented market.
 
-## Where it sits in its industry
+---
 
-The broader HCM software market contains both massive enterprise-focused competitors with diversified product portfolios and lean, specialized vendors focused on specific workflows. ASURE competes with larger, well-capitalized competitors like ADP, Workday, and Paychex, which all have deeper resources and broader feature sets. It also encounters competition from niche specialists and lower-cost alternatives, particularly in the mid-market where buyers weigh price, ease of implementation, and feature depth.
-
-ASURE's market position reflects its focus on the $10–$500M revenue range of mid-market enterprises—organizations large enough to need integrated systems but not so vast that they demand custom engineering or the full-feature suites offered by category leaders. The company competes on relative simplicity, implementation speed, and pricing.
-
-## How to research it
-
-Investors and stakeholders can consult ASURE's [10-K](/wiki/10-k/) annual report filed with the SEC for detailed financial statements, segment breakdowns, customer concentration, and management's assessment of competitive dynamics. Quarterly [10-Q](/wiki/10-q/) filings update results between annual periods. These documents describe product roadmap priorities, [churn](/wiki/saas-churn-rate/) trends, and explanations for revenue growth or contraction.
-
-Industry research from firms covering enterprise software, analyst reports on HCM software trends, and earnings calls with management provide additional perspective. The company's website and product documentation outline feature sets and target customer profiles, which help understand positioning relative to competitors.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Workday](/wiki/wday-stock/)
-- [Paychex](/wiki/payx-stock/)
-- [ADP](/wiki/adp-stock/)
-- [Paylocity](/wiki/pcty-stock/)
-
-### Wider context
-
-- [SaaS business model](/wiki/saas/)
-- [Mid-market software strategy](/wiki/mid-market/)
-- [Payroll processing](/wiki/payroll-processing/)
-- [Human capital management](/wiki/human-capital-management/)
-
-</div>
+See also: [ADP](/wiki/adp-stock/), [Workday](/wiki/wday-stock/), [Paychex](/wiki/payx-stock/)

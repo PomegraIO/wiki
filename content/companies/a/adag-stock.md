@@ -1,56 +1,33 @@
 ---
 title: "Adagene Inc. (ADAG)"
-description: "Adagene is a biopharmaceutical company developing antibody-based therapies for cancer using proprietary antibody engineering technologies and immunology platforms."
+description: "Development-stage biopharmaceutical company engineering next-generation antibodies for cancer immunotherapy using proprietary platform technologies."
 keywords:
-  - Adagene
-  - ADAG
-  - antibody therapy
-  - cancer immunotherapy
   - antibody engineering
+  - cancer immunotherapy
   - biopharmaceutical
+  - oncology therapeutics
+  - antibody therapeutics
+handwritten: true
 ---
 
-*[Adagene Inc.](/wiki/adag-stock/) is a **biopharmaceutical company** specializing in the development of antibody-based cancer therapies using proprietary antibody engineering and design technologies. The company operates as a [public corporation](/wiki/public-company/) focused on cancer immunotherapy.*
+**Adagene is a clinical-stage biopharmaceutical company developing engineered antibodies designed to fight cancer through optimized immune activation and tumor targeting.**
 
-<aside class="wiki-infobox">
+## The core technology
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ADAG |
-| **Listing** | US-listed; ticker ADAG |
-| **SEC CIK** | 1818838 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical / Antibody Therapeutics |
-| **Type** | Public Corporation |
+Adagene's competitive advantage rests on proprietary platforms for engineering antibodies with enhanced therapeutic properties. Rather than discovering antibodies through conventional screening, the company uses computational design and directed evolution to create antibodies with specific characteristics: better tumor binding, stronger immune cell engagement, reduced off-target toxicity. These engineering capabilities let Adagene optimize antibodies for cancer types where existing therapies have limitations or resistance patterns. The platforms span multiple modalities—monoclonal antibodies, bispecific antibodies, and engineered variants that extend serum half-life or improve tissue penetration.
 
-</aside>
+## Pipeline and development stage
 
-## What the company does
+Adagene's lead programs target high-incidence cancers including solid tumors and hematologic malignancies. The company typically advances candidates from in vitro engineering through preclinical validation, then into early-stage human trials (IND stage). Like most clinical-stage biotech, Adagene has not yet achieved regulatory approval or commercialization; revenue comes from research collaborations, milestone payments, and strategic partnerships rather than drug sales. The financial runway depends on capital raises and the pace at which candidate therapies advance through development.
 
-Adagene develops innovative antibody-based therapeutics for cancer treatment using proprietary antibody engineering platforms and immunology research. The company's approach focuses on designing antibodies with optimized characteristics for cancer targeting and immune activation. Its pipeline includes therapeutic candidates in preclinical and clinical development stages targeting various cancer types.
+## Competitive position and risks
 
-## How it makes money
+The antibody therapeutics space is crowded with established players (Roche, Amgen, Bristol Myers Squibb, Regeneron) with massive R&D budgets and approved products generating billions. Adagene's engineering platform offers differentiation, but success ultimately requires demonstrating clinical superiority—better efficacy, safety, or durability than existing treatments—in head-to-head trials. Most development-stage biotech compounds fail; only a fraction of clinical candidates become approved medicines. Capital intensity is high; a single failed program can shift the development timeline significantly.
 
-As a development-stage biopharmaceutical company, Adagene generates limited revenues from collaborations and partnerships with larger pharmaceutical companies. The company may receive funding through licensing agreements, milestone payments, and equity financing. Long-term revenue generation depends on successful completion of clinical trials, regulatory approval, and commercialization of antibody-based cancer therapies.
+## At a glance
 
-## Where it sits in its industry
-
-Adagene operates in the competitive cancer immunotherapy and antibody therapeutics sector, competing against established pharmaceutical companies, specialized biotech firms, and academic research institutions. The company differentiates itself through its proprietary antibody engineering technologies and research expertise. Success depends on demonstrating clinical efficacy and advancing candidates through development more efficiently than competitors.
-
-## How to research it
-
-Investors researching Adagene can examine its [10-K](/wiki/10-k/) and [10-Q](/wiki/10-k/) SEC filings to understand pipeline status, research programs, partnerships, and capital structure. Clinical trial databases provide information on ongoing development programs. Industry analyses of cancer immunotherapy trends, antibody-based therapeutics, and competitive landscape offer important context for evaluating the company's therapeutic positioning and market opportunity.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Cancer Immunotherapy](/wiki/immunotherapy-stocks/)
-- [Antibody Therapeutics](/wiki/antibody-stocks/)
-- [Biopharmaceutical Development](/wiki/biopharmaceutical-stocks/)
-
-### Wider context
-- [Oncology Treatment](/wiki/oncology-stocks/)
-- [Healthcare Sector](/wiki/healthcare-sector/)
-- [Biotech Investing](/wiki/biotech-stocks/)
-
-</div>
+- Development-stage biotech focused on engineered antibody therapeutics for cancer
+- Proprietary antibody engineering platforms designed to optimize tumor binding and immune activation
+- Pipeline in preclinical and early clinical stages; no approved products or meaningful product revenue
+- Dependent on equity financing, partnerships, and milestone payments to fund operations
+- Operates in highly competitive cancer immunotherapy market; clinical success uncertain

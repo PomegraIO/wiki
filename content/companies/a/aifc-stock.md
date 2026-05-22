@@ -1,64 +1,22 @@
 ---
 title: "AI Financial Corp (AIFC)"
-description: "US-listed financial services company providing consumer lending and wealth management products through digital and traditional channels."
+description: "AI Financial Corp (NASDAQ: AIFC) provides fintech infrastructure for digital asset trading, payments, and settlement with blockchain-powered solutions."
 keywords:
-  - AI Financial Corp
-  - AIFC
-  - financial services
-  - consumer lending
-  - wealth management
   - fintech
+  - blockchain
+  - digital assets
+  - cryptocurrency
+  - payment processing
+  - trading platform
+handwritten: true
 ---
 
-*[**AI Financial Corp**](/wiki/aifc-stock/) (**AIFC**) is a [US-listed](/wiki/public-company/) financial services firm that operates in consumer lending and [wealth management](/wiki/wealth-management/). The company provides financial products through both digital platforms and traditional distribution channels, serving retail customers across the United States.*
+AI Financial Corporation, trading on NASDAQ under the ticker AIFC, operates in the intersection of traditional finance and digital assets. The company rebranded from ALT5 Sigma Corporation in April 2026, adopting a name that reflects its strategic pivot toward artificial intelligence and financial infrastructure. It develops blockchain-powered technologies that enable tokenization, trading, clearing, settlement, and custody of digital assets, bridging the gap between cryptocurrency and legacy financial systems.
 
-<aside class="wiki-infobox">
+The company's product suite addresses real-world frictions in digital asset markets. ALT5 Prime serves as an electronic trading platform, while ALT5 Pay functions as a cryptocurrency payment gateway designed to simplify merchant adoption. StrataCarte rounds out the portfolio as a purpose-built payment solution for digital asset ecosystems. These tools collectively target the infrastructure gap that has long constrained crypto-to-fiat and fiat-to-crypto transactions at institutional and retail scales.
 
-| Attribute | Detail |
-|-----------|--------|
-| **Ticker** | AIFC |
-| **Listing** | US-listed; ticker AIFC |
-| **SEC CIK** | 862861 |
-| **Sector** | Financial Services |
-| **Industry** | Consumer Finance and Wealth Management |
-| **Type** | Public Corporation |
+> The company provides global payments, trading, and settlement infrastructure—essentially acting as a plumbing layer for a financial system that's still learning to move money across digital and traditional boundaries.
 
-</aside>
+AI Financial's business model sits squarely in fintech infrastructure rather than custody or direct consumer products. This positioning matters because settlement and payment infrastructure typically operate at lower margins but with high switching costs once deployed. The company faces competition from established payment processors modernizing their crypto offerings, larger exchanges building proprietary settlement systems, and purpose-built fintech startups with deep venture backing. Its challenge lies in convincing institutional and enterprise customers that its integrated approach—combining trading, settlement, and payment—outweighs the simplicity of single-purpose solutions.
 
-## What the company does
-
-AIFC operates across multiple segments of consumer financial services. The firm offers personal lending products, including installment loans and credit facilities to retail customers who seek flexible borrowing options. Beyond lending, AIFC provides wealth advisory services, helping individuals manage investment portfolios and financial planning needs. The company distributes these products both through proprietary digital channels and through traditional intermediary relationships, maintaining a diversified distribution strategy.
-
-## How it makes money
-
-The company generates revenue primarily through interest income on outstanding loans and credit facilities extended to consumers. Net interest margin—the spread between lending rates and funding costs—forms the core of its lending segment profitability. AIFC also earns fees from wealth management and advisory services, including asset management fees and transaction-based commissions. Operating leverage in the digital channel helps manage customer acquisition and servicing costs relative to revenues generated.
-
-## Capital structure and risk profile
-
-As a consumer finance company, AIFC carries inherent credit risk tied to borrower repayment performance. The firm must maintain adequate [capital ratios](/wiki/capital-adequacy/) and liquidity to absorb potential loan losses and meet regulatory requirements. Macroeconomic conditions, interest rate environments, and consumer employment levels all influence loan performance and the firm's financial health. Like other financial services providers, AIFC is subject to regulatory oversight and stress-testing requirements.
-
-## Competitive position
-
-The consumer lending and wealth advisory landscape includes large diversified banks, specialized consumer finance firms, and digital-native fintech competitors. AIFC competes on product breadth, servicing quality, and accessibility. Its dual channel strategy—digital and traditional—positions it differently from pure-play digital lenders and traditional brick-and-mortar wealth advisors. Scale, brand recognition, and regulatory compliance capability remain competitive differentiators in this fragmented market.
-
-## How to research it
-
-Start with AIFC's SEC filings to understand the business model and financial performance in detail. The [10-K](/wiki/10-k/) annual report provides a comprehensive overview of operations, risk factors, competitive dynamics, and financial results. Quarterly 10-Q filings track operational trends and help investors assess near-term performance. The company's investor relations website typically hosts earnings call transcripts, which offer management commentary on strategy and market conditions. Reviewing regulatory filings also exposes the firm's capital adequacy metrics, loan portfolio composition, and key risk disclosures required for financial institutions.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Consumer finance](/wiki/consumer-finance/)
-- [Wealth management](/wiki/wealth-management/)
-- [Personal lending](/wiki/personal-lending/)
-- [Financial services](/wiki/financial-services/)
-
-### Wider context
-
-- [Public company](/wiki/public-company/)
-- [Equity research](/wiki/equity-research/)
-- [Financial regulation](/wiki/financial-regulation/)
-- [Securities and Exchange Commission](/wiki/securities-and-exchange-commission/)
-
-</div>
+The timing of the rebranding reflects a broader market shift. Institutional adoption of digital assets has accelerated, regulatory clarity has improved in major jurisdictions, and central bank digital currencies are moving from concept to deployment. AI Financial's strategic bet is that comprehensive infrastructure—not just trading venues or payment channels—will become essential as digital assets mature from speculative instruments to systemic financial assets. Whether this thesis plays out depends on the pace of institutional adoption, regulatory evolution, and the company's ability to execute across a complex, multi-function product roadmap.

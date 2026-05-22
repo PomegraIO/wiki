@@ -1,62 +1,20 @@
 ---
-title: "AngloGold Ashanti PLC (AU)"
-description: "Global gold mining company with operations across Africa, the Americas, and Australia. One of the world's largest gold producers and a major employer in Africa."
+title: AngloGold Ashanti PLC (AU)
+description: Major integrated gold miner with operations across Africa and the Americas; one of the world's largest primary gold producers by volume.
 keywords:
-  - AngloGold Ashanti
-  - AU
   - gold mining
   - precious metals
-  - African mining
+  - mining operations
+  - commodity exposure
+handwritten: true
 ---
 
-*[**AngloGold Ashanti PLC**](/wiki/stock/) (ticker **AU**) is one of the world's largest [gold](/wiki/gold/) mining companies, headquartered in South Africa with operations spanning Africa, the Americas, and Australia. The company is primarily engaged in the exploration, mining, and processing of gold ore, with a strategic focus on high-quality, low-cost assets that provide stable long-term returns.*
+**AngloGold Ashanti stands among the world's premier primary gold producers, operating high-volume mines across Africa, South America, and North America.** The company emerged through the 2004 merger of AngloGold Limited (an offshoot of the Anglo American conglomerate) and Ashanti Goldfields, merging South African and West African mining heritage into a single integrated producer. Today it ranks consistently among the top five gold mining companies globally by annual production, with operations tuned to extract ore at competitive costs and established infrastructure spanning multiple continents.
 
-<aside class="wiki-infobox">
+The company's footprint centers on two geographically distinct regions. In West Africa, particularly Ghana, AngloGold operates some of the largest, longest-running mines in the world—operations with decades of production history and deep community roots. South Africa remains a second pillar, where the business inherited mines in the prolific Witwatersrand Basin and has maintained deep expertise in ultra-deep underground mining, a specialty few producers master. More recently, the company has expanded presence in the Americas, including operations in the United States, Colombia, and Argentina. This geographic spread reduces concentration risk: gold prices fluctuate with macroeconomic and geopolitical forces beyond any single producer's control, so multiple operating jurisdictions help spread that exposure. Each region brings distinct geological, regulatory, and labor conditions that AngloGold has spent decades learning to navigate.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AU |
-| Listing | US-listed; ticker AU |
-| SEC CIK | 1973832 |
-| Sector | Basic Materials |
-| Industry | Gold Mining |
-| Headquarters | South Africa |
-| Founded | 1944 |
-| Type | Public company |
+Gold mining itself is a high-volume, relatively low-margin business. AngloGold extracts ore, processes it through beneficiation (crushing, grinding, and chemical separation), and refines raw gold into market-deliverable product. The metric that defines success in this industry is cost per ounce produced. AngloGold's competitive position hinges on controlling all-in sustaining costs—mining, refining, transportation, and ongoing maintenance—relative to the prevailing gold price. The company publishes these metrics regularly and benchmarks itself against peers. Margins widen when gold prices rise or costs decline; they compress or turn negative if prices fall and fixed costs remain sticky. Because mining is capital-intensive (building a new mine takes billions of dollars and a decade or more), producers prioritize extracting maximum ore from existing assets before investing in greenfield mines. This lifecycle thinking shapes strategic decisions: spend to maintain and optimally operate existing mines, pursue smaller expansions when returns justify the outlay, and mothball or divest operations that no longer pencil out economically.
 
-</aside>
+Like all precious metals producers, AngloGold faces commodity-market volatility, regulatory change in key jurisdictions, fluctuating labor and energy costs, and the environmental and social obligations that modern mining demands. Gold mining consumes water, generates tailings and waste, affects local ecosystems, and intersects with indigenous land claims and community expectations. AngloGold has had to adapt disclosure and governance on environmental, social, and governance metrics as investor expectations have hardened and regulatory frameworks tightened across its operating jurisdictions. The company also navigates currency exposure—it reports in US dollars, operates in multiple currencies, and sees its cost structure shift with exchange rates (particularly the South African rand and Ghanaian cedi). Political and security risk varies by region; West African operations operate in a different regulatory and security environment than operations in developed markets. Over its history, AngloGold has pursued strategic M&A and divestiture to optimize its asset portfolio, shedding lower-margin or higher-risk assets and focusing on core, economic deposits while shifting investor positioning toward responsible mining, cost discipline, and shareholder returns.
 
-## What the company does
-
-AngloGold Ashanti operates a portfolio of gold mining operations designed to deliver reliable production at favorable costs. The company's mines are geographically diversified across emerging markets and developed regions, reducing concentration risk and providing access to stable, long-reserve-life assets. Its business model centers on extracting, processing, and selling gold to global markets. The company also generates byproduct metals including silver, copper, and uranium from its mining operations, though gold remains the primary revenue driver.
-
-## How it makes money
-
-AngloGold Ashanti's revenue comes from the sale of gold bullion and ore to refineries and direct purchasers. The company's profitability depends on the margin between gold prices and the all-in sustaining cost (AISC) of production—a metric that includes mining, processing, administration, and capital maintenance costs. By operating assets with naturally lower costs and continuously improving operational efficiency, the company aims to maintain positive margins across commodity price cycles. The company does not hedge its gold production, maintaining direct exposure to global gold prices. Minor revenue also comes from byproduct metals recovered during the mining process.
-
-## Where it sits in its industry
-
-AngloGold Ashanti ranks among the world's largest gold producers by output. The gold mining industry comprises both large, diversified producers and smaller specialist miners. AngloGold Ashanti competes on the basis of production scale, reserve quality, cost efficiency, and the longevity of its asset base. The company's multi-continent footprint distinguishes it from some regional competitors and provides exposure to both stable and emerging jurisdictions. Within the [precious metals](/wiki/precious-metals/) and commodities sectors, gold mining companies are correlated with macroeconomic conditions, real interest rates, and currency movements—factors that influence both production costs and the attractiveness of gold as a store of value.
-
-## Capital structure and governance
-
-AngloGold Ashanti is a public [stock](/wiki/public-company/) traded on US exchanges and other global markets. The company is structured as a holding entity for its mining subsidiaries and joint ventures. Its [board of directors](/wiki/board-of-directors/) oversees strategy, risk management, and compliance. The company is subject to securities regulation in the jurisdictions where it is listed and must file periodic [10-K](/wiki/10-k/) and 10-Q reports with the SEC. Its capital allocation typically balances dividends, debt reduction, and reinvestment in exploration and mine development.
-
-## How to research it
-
-AngloGold Ashanti's SEC filings, particularly the annual [10-K](/wiki/10-k/) and quarterly 10-Q reports, contain detailed operational, financial, and risk disclosures. The company's investor relations website publishes production results, reserve estimates, and management commentary on market conditions. Sector analysts cover gold mining companies through equity research that contextualizes production trends, cost trends, and valuation relative to peers. Understanding the gold mining industry requires familiarity with gold spot prices, mining cost structures, reserve replacement, and the geopolitical dynamics of key mining regions. Industry organizations and commodity trading platforms provide real-time and historical price data.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Gold](/wiki/gold/)
-- [Precious metals](/wiki/precious-metals/)
-- [Mining operations and reserves](/wiki/mining/)
-- [Commodity pricing](/wiki/commodity-price-hedging/)
-
-### Wider context
-- [Basic materials sector](/wiki/basic-materials/)
-- [Emerging markets investing](/wiki/emerging-markets/)
-- [Geopolitical risk investing](/wiki/geopolitical-risk/)
-
-</div>
+Research into AngloGold typically revolves around production guidance and cost metrics, movements in the gold [price](/wiki/stock-exchange/), and capital allocation strategy. The [10-K](/wiki/10-k/) filing provides detailed reserve and resource data, segment breakdowns by region, and cost structures that allow analysts to model economics for each operating area independently.

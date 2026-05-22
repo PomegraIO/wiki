@@ -1,55 +1,31 @@
 ---
 title: "Amber International Holding Ltd (AMBR)"
-description: "Amber International Holding Ltd is a fintech company providing payment processing and digital financial services to merchants and consumers globally."
+description: "Amber International Holding Ltd is a crypto-focused financial services platform providing institutional-grade market access and digital asset management solutions for institutions and high-net-worth investors."
 keywords:
-  - Amber International Holding Ltd
-  - AMBR
-  - fintech
-  - payment processing
-  - digital payments
+  - crypto financial services
+  - institutional clients
+  - digital assets
+  - wealth management
+  - amber group
+handwritten: true
 ---
 
-*[Amber International Holding Ltd](/wiki/public-company/) (**AMBR**) is a fintech company specializing in digital payment solutions and financial technology services. The company operates as a provider of payment processing platforms and related financial services serving merchants and consumers in multiple markets.*
+## What does Amber International actually do?
 
-<aside class="wiki-infobox">
+Amber International Holding Ltd (AMBR) is a crypto-focused financial services company that provides institutional-grade market access, execution infrastructure, and investment solutions for institutions and high-net-worth individuals managing digital assets. Operating under the brand "Amber Premium," the company offers professional tools for trading, managing, and investing in cryptocurrency and blockchain-based assets on behalf of institutional clients seeking enterprise-quality infrastructure.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AMBR |
-| Listing | US-listed; ticker AMBR |
-| SEC CIK | 1697818 |
-| Sector | Financial Services |
-| Industry | Financial Technology |
-| Type | Public Company |
+## How did the company arrive at its current business?
 
-</aside>
+The company underwent a dramatic transformation in 2025. Originally incorporated as iClick Interactive Asia Group Limited—a digital marketing and data analytics firm serving Asian clients—it completed a merger with Amber DWM Holding Limited in March 2025, the digital wealth management division of Amber Group, a crypto-native financial services firm. This merger essentially remade the company from a marketing analytics business into an institutional crypto services provider, representing a complete shift in business model, customer base, and geographic focus.
 
-## What the company does
+## Who uses these services?
 
-Amber International focuses on providing digital payment infrastructure and fintech solutions. The company builds platforms that enable merchants to accept payments across multiple channels and payment methods, combining traditional payment processing with modern digital financial services. This includes both consumer-facing tools and merchant-focused software.
+The platform caters to institutional investors, asset managers, and high-net-worth individuals seeking professional-grade tools and custody solutions for digital assets. These users need more sophisticated infrastructure than consumer crypto exchanges provide—reliable execution, deep liquidity, institutional custody safeguards, and regulatory compliance. Amber Premium serves this institutional segment rather than retail traders or consumers.
 
-## How it makes money
+## Where does the money come from?
 
-The company generates revenue primarily through transaction fees, subscription-based services, and platform usage charges. Merchants using the payment processing platform typically pay a percentage-based fee on transactions processed through the system, while premium merchant tiers may offer dedicated support and advanced features. Consumer-focused offerings may include fees for specific financial services or premium account features.
+Revenue generation likely flows from transaction fees on trades executed through the platform, management fees for assets under administration, and subscription charges for premium features and dedicated support. The company raised $25.5 million through a private placement in June 2025, backed by prominent crypto investors including Pantera Capital, Harvest Capital, Mile Green, and Choco Up, signaling institutional confidence in the business model and growth trajectory.
 
-## Competitive positioning
+## Where does it fit in the market?
 
-Amber operates in the competitive fintech and payments space, competing against established payment processors, digital payment platforms, and emerging fintech startups. Success in this space depends on transaction volume, platform reliability, customer acquisition costs, and the breadth of payment methods and geographic markets supported. The company's positioning reflects the ongoing consolidation and diversification trends in the payments industry.
-
-## How to research it
-
-For comprehensive information about Amber International's financial performance, strategic direction, and operational metrics, review the company's [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings with the [SEC](/wiki/sec-filing/). These documents detail revenue composition, customer concentration, expansion initiatives, and competitive risks. Press releases and investor presentations provide insight into strategic partnerships and market positioning.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Payment processors](/wiki/payment-processing-industry/)
-- [Fintech companies](/wiki/fintech/)
-- [Digital payments](/wiki/digital-payment-systems/)
-
-### Wider context
-- [Financial services](/wiki/financial-services/)
-- [Public company](/wiki/public-company/)
-- [SEC filing](/wiki/sec-filing/)
-
-</div>
+Amber International competes within the institutional crypto services sector alongside other platforms offering custody, trading infrastructure, and wealth management for digital assets. As the Nasdaq-listed entity (ticker AMBR), it maintains access to U.S. capital markets despite being a relatively young entrant in a fragmented space. The company's focus on institutional rather than retail segments aligns with a broader industry maturation toward professional-grade crypto infrastructure and greater institutional participation in digital assets.

@@ -1,60 +1,28 @@
 ---
 title: "ASR Nederland N.V./ADR (ARNNY)"
-description: "Dutch insurance conglomerate providing property, casualty, life, and disability insurance across the Netherlands and other European markets."
+description: "Dutch insurance company offering property, casualty, life, and health insurance across the Netherlands, Belgium, and Germany with a portfolio of established brands."
 keywords:
   - ASR Nederland
-  - ARNNY
   - Dutch insurance
-  - Achmea
   - property and casualty
+  - life insurance
+  - European insurance
+  - insurance conglomerate
+handwritten: true
 ---
 
-*[ASR Nederland N.V.](/wiki/public-company/) operates as a leading **ARNNY** insurance group headquartered in the Netherlands, providing a comprehensive range of insurance products including property and casualty, life, disability, and health insurance coverage to individuals and businesses.*
+ASR Nederland is one of the Netherlands' largest insurance conglomerates, offering a broad range of property and casualty, life, and health insurance products. The company operates across the Benelux region and Germany, serving retail customers, businesses, and corporate clients through a network of brands that includes some of Europe's oldest and most recognized insurance names. It's a traditional operator in a mature, regulated market—neither a growth story nor a dormant shell, but a steady, dividend-oriented insurer navigating consolidation and digital transformation.
 
-<aside class="wiki-infobox">
+The core business divides into three segments: insurance operations (the bulk of revenue), which include motor, property, and liability coverage; life insurance and pensions; and the consumer-facing health insurance arm. ASR derives income from [insurance premiums](/wiki/insurance-premium/), investment returns on its policy reserves, and fee-based services. Like most European insurers, the company faces persistent pressure from low interest rates, competitive premium markets, and regulatory capital requirements. Its strength lies in customer relationships, brand heritage, and a diversified portfolio of risks across geographies and product lines.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ARNNY |
-| Listing | US-listed; ticker ARNNY |
-| SEC CIK | 1719117 |
-| Sector | Financials |
-| Industry | Insurance |
-| Headquarters | Utrecht, Netherlands |
-| Founded | 1835 |
-| Type | Public company |
+Main products and brands include:
 
-</aside>
+- ASR Direct (online insurance)
+- Ziekenfondswerk (health insurance)
+- Reaal (general insurance, property, motor)
+- A-Kavel (property insurance)
+- Andelshagelslag (specialty and agricultural insurance)
 
-## What the company does
+The company has spent recent years integrating and simplifying its brand portfolio—a sign of consolidation activity common in mature European insurance. It sold non-core assets and folded some legacy brands into stronger franchises. ASR also invests in digital channels to reduce acquisition costs and improve customer retention, acknowledging the sector's shift away from traditional brokers toward online and direct sales.
 
-ASR Nederland is a diversified insurance operator with deep roots in the Dutch market dating back nearly two centuries. The company serves millions of customers across multiple insurance segments, bundling property and casualty coverage, life insurance, disability protection, and health insurance products. Its distribution channels include direct operations, partnerships with brokers, and relationships with affinity groups. The company maintains a significant presence in the Netherlands while also serving customers in other Western European markets.
-
-## How it makes money
-
-ASR Nederland generates revenue primarily through earned [premiums](/wiki/insurance-premium/) across its insurance segments. The company also earns investment income from managing substantial invested assets backing its insurance reserves and capital. Like other insurers, profitability depends on underwriting discipline—maintaining disciplined risk selection and pricing to ensure premiums exceed claims and operating costs—alongside returns from its investment portfolio. Reinsurance relationships help manage catastrophic risk exposure.
-
-## Where it sits in its industry
-
-The Dutch insurance market is historically concentrated among a handful of major players. ASR Nederland competes against other large-scale [insurance](/wiki/insurance/) operators serving the Dutch and Northern European regions. The company positions itself as a full-service provider addressing consumer and commercial insurance needs across multiple product lines, contrasting with more specialized competitors. Its longevity and [market share](/wiki/market-share/) in home markets reflect customer retention and brand recognition accumulated over generations, though it faces ongoing competitive and regulatory pressures typical of European insurance sectors.
-
-## How to research it
-
-Public disclosures are available through [SEC](/wiki/sec-enforcement-action/) filings under CIK 1719117, including the [10-K](/wiki/10-k/) annual report and 10-Q quarterly updates. These documents describe business segments, underwriting results, [loss ratios](/wiki/insurance-loss-ratio/), combined ratios, investment returns, reserve adequacy, regulatory capital metrics, and management discussion of market conditions. The company also publishes investor relations materials and may file reports with Dutch financial authorities. Understanding ASR's performance requires reviewing both its [operating metrics](/wiki/business-metrics/) specific to insurance (premiums written, claims paid, expense ratios) and its financial position (asset allocation, capital ratios, liquidity).
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Insurance](/wiki/insurance/)
-- [Property and casualty insurance](/wiki/property-casualty-insurance/)
-- [Life insurance](/wiki/life-insurance/)
-- [Reinsurance](/wiki/reinsurance/)
-
-### Wider context
-
-- [European financial markets](/wiki/european-stock-exchange/)
-- [Regulatory capital for insurers](/wiki/insurance-regulatory-capital/)
-- [Insurance underwriting cycle](/wiki/underwriting-cycle/)
-
-</div>
+ASR is listed on Euronext Amsterdam under ticker ASR, with an [American Depositary Receipt](/wiki/adr/) program (ARNNY) for US-based investors. The company returns cash to shareholders through consistent [dividends](/wiki/dividend/) backed by its insurance underwriting margin and investment book. Its appeal is primarily to income-focused investors comfortable with regulatory risk, interest-rate sensitivity, and the slow-growth realities of European insurance in the current era. Earnings and cash flow depend heavily on claims experience, investment returns, and the cost of [solvency](/wiki/solvency-ratio/) capital—all factors tracked in quarterly and annual [10-K](/wiki/10-k/) reports to shareholders and regulatory authorities.

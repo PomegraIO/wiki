@@ -1,57 +1,31 @@
 ---
 title: "AZZ INC (AZZ)"
-description: "AZZ INC is a specialty industrial manufacturer producing galvanizing and metal coatings for corrosion protection in infrastructure, construction, and utility sectors."
+description: "Industrial coatings and surface protection provider specializing in hot-dip galvanizing, spin coating, and specialized finishing across construction, manufacturing, and infrastructure markets."
 keywords:
-  - AZZ INC
-  - AZZ
   - galvanizing
   - metal coatings
-  - specialty manufacturing
-  - industrial coatings
+  - industrial finishing
+  - corrosion protection
+  - surface treatment
+handwritten: true
 ---
 
-*[AZZ INC](/wiki/azz-stock/), trading under ticker **AZZ**, is an industrial manufacturer specializing in protective coatings and galvanizing services. The company operates across two primary segments: the AZZ Galvanizing & Services segment, which provides hot-dip galvanizing, sherardizing, and ancillary coating services; and the Infrastructure Solutions segment, which manufactures and services electrical transmission and infrastructure products. Based in the United States, AZZ serves construction, infrastructure, utility, and industrial end-markets.*
+## What is AZZ's core business?
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| **Ticker** | AZZ |
-| **Listing** | US-listed; ticker AZZ |
-| **SEC CIK** | 8947 |
-| **Sector** | Industrials |
-| **Industry** | Metal Coatings & Galvanizing |
-| **Headquarters** | Fort Worth, Texas |
-| **Founded** | 1956 |
-| **Type** | Public Company |
-</aside>
+AZZ Inc. is an industrial coatings and surface finishing company that protects steel and metal structures from corrosion. The company operates primarily as the leading independent provider of hot-dip galvanizing and coil coating solutions in North America, serving customers across construction, manufacturing, utilities, and transportation sectors. Hot-dip galvanizing—the process of immersing steel in molten zinc to create a corrosion-resistant coating—forms the backbone of its metal finishing operations. Beyond galvanizing, AZZ offers complementary services including spin coating, powder coating, anodizing, and specialty plating for diverse industrial and commercial applications.
 
-## What the company does
+## Who are AZZ's main customers and markets?
 
-AZZ INC manufactures protective coatings and galvanizing solutions that extend the service life of steel and other metal products. The Galvanizing & Services segment operates hot-dip galvanizing plants across North America, treating steel with molten zinc to prevent rust and corrosion. This segment serves diverse customers in heavy fabrication, structural steel construction, and infrastructure, particularly in power transmission and renewable energy. The Infrastructure Solutions segment designs and manufactures electrical transmission hardware, including crossarms, poles, and related hardware for utility companies and the broader infrastructure market.
+AZZ serves a broad customer base spanning infrastructure projects, manufacturing operations, and construction firms that need long-term corrosion protection for steel structures. The company's end-markets include power transmission and distribution systems, building and bridge construction, transportation equipment, HVAC systems, and industrial machinery manufacturers. Customers range from large engineering firms and contractors to mid-size fabricators and original equipment manufacturers. The company's services are essential in applications where durability and corrosion resistance directly affect asset longevity—think electrical transmission towers, highway guardrails, and structural steel frameworks exposed to weather and harsh environments.
 
-## How it makes money
+## How does AZZ organize its business?
 
-AZZ generates revenue through two primary business models. The galvanizing operations charge customers by the pound or gallon for coating services, with pricing influenced by steel demand, energy costs, and zinc commodity prices. Infrastructure Solutions sells engineered products at negotiated prices with long-term utility customers, often involving standardized product lines and some customization. Both segments derive recurring revenue from ongoing maintenance and upgrades in infrastructure, which is capital-intensive and continuously renewed across North American utility and construction networks.
+AZZ operates through three primary segments. The Metal Coatings segment handles hot-dip galvanizing and related industrial finishing at facilities across North America. The Precoat Metals segment specializes in coil coating for customers who need pre-finished coils, delivering painted or coated material ready for fabrication. The Infrastructure Solutions segment addresses specialized demands in power utilities and related infrastructure, including coatings and related services for transmission and distribution equipment. This structure allows the company to serve different customer workflows—some need bare steel galvanized, others prefer pre-coated material, and some require integrated solutions for infrastructure projects.
 
-## Where it sits in its industry
+## What drives AZZ's financial performance?
 
-AZZ operates in the specialty industrial coatings sector, competing with regional and national coating service providers as well as integrated steel manufacturers that offer in-house galvanizing. The company's scale in hot-dip galvanizing—with multiple regional plants—gives it geographic reach and logistics advantages. In Infrastructure Solutions, AZZ competes with established suppliers of transmission hardware, where customer relationships and engineering capability are critical differentiators. The company benefits from long-term secular demand drivers in infrastructure renewal, electrical grid upgrades, and increasing emphasis on corrosion prevention standards.
+AZZ's revenue and profitability track closely with industrial production cycles and capital spending on infrastructure and commercial construction. When manufacturers build new facilities, utilities expand electrical systems, or municipalities invest in infrastructure, demand for metal finishing rises. Conversely, economic slowdowns reduce the flow of fabrication work through its facilities. The company operates on relatively stable margins based on processing volumes and the commodity zinc costs it must pass through to customers. Long-term tailwinds include aging infrastructure requiring replacement, global trends toward durable construction standards, and the simple fact that any steel structure exposed to weather eventually needs corrosion protection—a recurring necessity rather than a one-time purchase.
 
-## How to research it
+## How should investors research AZZ?
 
-Investors can review AZZ's filings on the [SEC's EDGAR database](/wiki/10-k/), including its annual [10-K](/wiki/10-k/) report (containing detailed segment performance, competitive positioning, and management discussion) and quarterly 10-Q filings. The company's earnings calls provide guidance on utilization rates, pricing trends, and capital allocation. Industry reports on infrastructure spending, utility capital expenditures, and steel construction trends provide context for AZZ's end-market demand. Historical zinc prices and steel construction activity are relevant to forecast galvanizing segment margins.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Galvanized Steel](/wiki/galvanized-steel/) — Core process AZZ uses for corrosion protection
-- [Infrastructure Solutions Industry](/wiki/infrastructure-solutions/) — Primary end-market for AZZ products
-- [Specialty Manufacturing](/wiki/specialty-manufacturing/) — Business model category
-
-### Wider context
-- [Industrials Sector](/wiki/industrials/) — Sector classification
-- [Metal Coatings](/wiki/metal-coatings/) — Competitive space
-- [Public Company](/wiki/public-company/) — Corporate structure
-- [10-K](/wiki/10-k/) — SEC reporting requirement
-
-</div>
+Start with AZZ's investor relations website and recent [10-K](/wiki/10-k/) filings to understand segment revenue mix, capacity utilization rates, and management's outlook on end-market demand. Quarterly earnings calls reveal management commentary on backlog, pricing power, and exposure to specific customer groups. Track industry metrics like construction spending, manufacturing output, and infrastructure investment levels to gauge future demand. Monitor raw material costs—zinc prices directly affect input costs—and watch for commentary on pricing and margin trends. Comparing AZZ to other specialty industrial services companies and metal finishing peers provides context on valuation and operational performance. Pay attention to customer concentration risk (large customers may account for significant portions of sales) and geographic exposure, since AZZ's strength is primarily North American.

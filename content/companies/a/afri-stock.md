@@ -1,66 +1,32 @@
 ---
 title: "Forafric Global PLC (AFRI)"
-description: "African financial services and investment company providing banking, lending, and financial services across sub-Saharan African markets."
+description: "North African agricultural commodities trader and grain processor handling wheat, durum, semolina, couscous, and pasta exports across 45+ countries."
 keywords:
-  - AFRI
-  - African financial services
-  - banking services
-  - emerging markets finance
-  - sub-Saharan Africa
+  - grain trading
+  - wheat milling
+  - couscous
+  - north africa
+  - commodity processing
+  - tria brand
+handwritten: true
 ---
 
-*Forafric Global PLC, trading under the ticker **AFRI**, is a financial services company operating across sub-Saharan African markets. The company provides banking services, lending products, and financial solutions to individuals, small businesses, and commercial customers in emerging African markets.*
+## What does Forafric actually do?
 
-<aside class="wiki-infobox">
+Forafric Global PLC is a Gibraltar-registered agricultural commodities company operating in North Africa, primarily across Morocco, Burkina Faso, and Mali. The company's core business centers on buying, storing, transporting, and processing wheat—both soft wheat and durum varieties—then selling the finished products globally. Beyond raw grain, Forafric produces flour, semolina, pasta, and couscous under its own brands, TRIA and MayMouna. Its distribution footprint reaches approximately 45 countries, positioning it as a significant grain processor and trader for export markets.
 
-| Key Fact | Value |
-|----------|-------|
-| Ticker | AFRI |
-| Listing | US-listed; ticker AFRI |
-| SEC CIK | 1903870 |
-| Sector | Financial services |
-| Industry | Banking and lending |
-| Geographic focus | Sub-Saharan Africa |
+## How does geography shape the operation?
 
-</aside>
+Forafric's location in the Sahel and Maghreb regions places it at a crossroads of grain production and consumption. Morocco provides a stable processing hub with access to European and Middle Eastern markets. Operations in Burkina Faso and Mali tap into West African grain supply and demand. This geographic mix lets the company source regionally competitive raw materials while leveraging proximity to both African consumption and export corridors. The company is not a primary producer—it buys commodity wheat and transforms it into higher-margin processed goods, capturing value in milling, grinding, and secondary processing rather than farming.
 
-## African financial services market
+## Where does revenue come from?
 
-Sub-Saharan African markets represent significant financial services opportunities characterized by large unbanked and underbanked populations, growing middle-class demographics, and increasing digitalization. However, these markets also present operational challenges including regulatory complexity, infrastructure limitations, currency instability, and macroeconomic volatility. Financial services companies operating in the region must be adept at managing these diverse operating environments.
+The company operates across three main segments: Soft Wheat, Durum Wheat, and Couscous & Pasta. Each represents a different end market and margin profile. Soft wheat and durum are commodity-heavy segments tied to global grain prices and regional supply. Couscous and pasta products command higher margins due to processing and branding. The company's own-brand products—TRIA and MayMouna—provide retail and foodservice channels separate from bulk commodity sales. Export sales dominate the revenue mix, with international markets accounting for the bulk of volume.
 
-## Banking and lending operations
+## What investment considerations matter most?
 
-Forafric provides banking services including deposit-taking, lending, and payment services to retail and commercial customers. The company's lending operations serve individual borrowers and small to medium-sized businesses seeking capital for business expansion or personal use. Like traditional banks, Forafric generates revenue from net interest income (interest earned on loans less interest paid on deposits) and fee income from services.
+Forafric is exposed to commodity grain price cycles, currency fluctuations across multiple African jurisdictions, and supply chain complexity in a region with real logistical and political risks. The company's value rests on processing efficiency, brand equity in its key markets, and the ability to convert low-margin commodity inputs into differentiated products. Investor focus typically centers on whether the company can maintain margins amid grain price volatility, how well its brands are embedded in key geographies, and its operational resilience in regions where infrastructure and governance vary. The stock reflects both the agricultural commodity cycle and the company's regional competitive position.
 
-## Market positioning and competitive landscape
+## Why is the company public?
 
-Forafric operates in African financial markets that include established multinational banks, local and regional financial institutions, and increasingly, mobile money and fintech providers. Competitive dynamics vary significantly by country and market. The company's success depends on building customer relationships, managing credit risk effectively, maintaining operational efficiency, and adapting to diverse regulatory environments across multiple countries.
-
-## Emerging market challenges
-
-Financial services companies in emerging markets face distinct challenges: currency fluctuations affecting dollar-denominated returns, macroeconomic volatility affecting customer credit quality, regulatory changes, and infrastructure constraints. Currency depreciation can be particularly significant for investors receiving returns in US dollars. Political instability, inflation, or economic downturns in specific markets can impair loan portfolios and deposit stability.
-
-## Digital financial services
-
-Digital financial inclusion—providing banking and payment services through mobile phones and internet platforms rather than physical branches—is transforming African financial services. Digital services can reach customers in remote areas and reduce transaction costs. Forafric may incorporate digital services into its operations to expand reach and improve efficiency.
-
-## How to research it
-
-Information about Forafric Global is available through SEC filings including the [10-K annual report](/wiki/10-k/) and [10-Q quarterly reports](/wiki/10-q/), which detail geographic operations, loan portfolios, deposit base, and financial performance by market. Additional research should examine macroeconomic conditions, regulatory changes, and currency trends across the specific African markets where the company operates.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Emerging market banking](/wiki/emerging-market-banking/)
-- [African financial services](/wiki/african-financial-services/)
-- [Net interest margin](/wiki/net-interest-margin/)
-- [Credit risk](/wiki/credit-risk/)
-
-### Wider context
-
-- [Financial services sector](/wiki/financial-services-sector/)
-- [Emerging markets](/wiki/emerging-markets/)
-- [Currency risk](/wiki/currency-risk/)
-
-</div>
+Forafric trades on Nasdaq, giving it access to capital markets outside Africa for growth and operations funding. A public listing enables the company to raise funds for plant upgrades, supply chain improvements, and potential acquisitions—key levers in a commodities processing business where scale and efficiency matter. Being listed also provides exit and liquidity paths for founders and early investors while offering public market participants exposure to an underrepresented corner of global agriculture: North African grain processing and regional food manufacturing.

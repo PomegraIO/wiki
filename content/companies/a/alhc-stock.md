@@ -1,59 +1,19 @@
 ---
 title: "Alignment Healthcare, Inc. (ALHC)"
-description: "Managed care services company providing network-based insurance plans and healthcare solutions for seniors and disabled populations."
+description: "Tech-enabled Medicare Advantage insurer serving seniors with customized health plans and integrated care coordination across five states."
 keywords:
-  - Alignment Healthcare
-  - ALHC
+  - medicare advantage
+  - health insurance
+  - senior healthcare
   - managed care
-  - Medicare
-  - healthcare insurance
-  - senior health
+handwritten: true
 ---
 
-*[Alignment Healthcare, Inc.](/wiki/alhc-stock/) (**ALHC**) is a [managed care](/wiki/managed-care/) services company operating integrated healthcare delivery and [insurance](/wiki/insurance/) networks primarily serving Medicare and Medicaid populations in the United States.*
+**Alignment Healthcare operates a consumer-centric Medicare Advantage platform designed around the specific needs of seniors rather than the back-office efficiency that defines legacy health insurers.** Founded in 2013 and based in Orange, California, the company built its entire approach on the conviction that older Americans deserve personalized healthcare delivery paired with modern technology infrastructure. The company's 2021 IPO brought its philosophy to public markets at a moment when Medicare Advantage enrollment was accelerating—seniors increasingly choosing privately managed alternatives to traditional Medicare. Alignment positioned itself not as another commodity insurer, but as a health plan that invests in relationships and care coordination rather than relying primarily on financial gatekeeping to control costs.
 
-<aside class="wiki-infobox">
+Medicare Advantage itself operates at the intersection of insurance and healthcare delivery. Rather than allowing seniors to seek care from any provider under traditional Medicare, Advantage plans coordinate services through managed networks of physicians, hospitals, and specialists, capturing savings through utilization management. Alignment's differentiation centers on a simple premise: when a company aligns its financial incentives with member health outcomes, it has reason to invest in preventive care, chronic disease management, and clinical infrastructure that commodity insurers ignore. The company operates through partnerships with local healthcare providers and uses proprietary technology called AVA to support care coordination, member engagement, and clinical decision-making. This tech layer allows the company to identify at-risk members, facilitate timely interventions, and create personalized outreach rather than treating members as undifferentiated insurance units.
 
-| Attribute | Value |
-|-----------|-------|
-| **Ticker** | ALHC |
-| **Listing** | US-listed; ticker ALHC |
-| **SEC CIK** | 1832466 |
-| **Sector** | Healthcare |
-| **Industry** | Health Insurance |
-| **Headquarters** | Irvine, California |
-| **Type** | Public Company |
+Revenue flows from capitated premiums paid by the Centers for Medicare & Medicaid Services—CMS pays Alignment a fixed monthly amount per enrolled member to cover their entire healthcare costs. This contrasts with traditional indemnity insurance, where insurers receive premiums and providers submit bills afterward. Under capitation, Alignment keeps any difference between the fixed payment and actual medical spending, creating true alignment between the company's profit and member health. The model encourages preventive investment but concentrates risk: if medical costs exceed expectations, Alignment's margins compress directly. The company currently operates across five states with 68 Medicare Advantage plan options spanning 45 counties, offering various designs from HMO to preferred provider arrangements, many with supplemental benefits like dental, vision, and fitness programs tailored to senior preferences. For 2026, the company introduced competitive Part B rebates, including new plan designs offering $185 rebates in certain California markets, reflecting the persistent competitive intensity in a space where UnitedHealth, Humana, Cigna, and regional plans compete aggressively during the annual open-enrollment window.
 
-</aside>
+The Medicare Advantage sector itself has become systemically important to the U.S. health insurance industry, absorbing an ever-growing share of the senior population and representing a structural shift in how seniors access care. However, the sector faces mounting regulatory scrutiny as CMS and Congress assess whether Advantage plans truly deliver better outcomes or primarily redistribute costs to members and providers. Alignment, like all Advantage carriers, operates within strict regulatory frameworks governing plan design, medical loss ratios, provider contracting transparency, and complaint resolution mechanisms. The company's growth depends on its ability to attract and retain members in the fiercely competitive annual enrollment cycle, maintain medical costs within capitated payment expectations, and build operational scale while remaining responsive to local markets. Investors evaluate Alignment on enrollment trends, medical loss ratios, premium adequacy relative to cost trend, and whether its tech-enabled, localized, and member-centric approach can sustain competitive differentiation as the sector consolidates and matures.
 
-## What the company does
-
-Alignment Healthcare operates a managed care model focused on seniors, disabled individuals, and other government-sponsored insurance beneficiaries. The company builds its own medical networks and partners with healthcare providers to deliver coordinated care. Unlike traditional insurers that focus primarily on risk pooling, Alignment operates an integrated model where it both delivers and manages care through owned and affiliated provider groups. This approach positions the company to manage medical costs directly rather than simply collecting premiums.
-
-## How it makes money
-
-The company earns [insurance premiums](/wiki/insurance-premium/) from government programs, principally Medicare Advantage plans and Medicaid managed care plans. Revenue depends on capitated payments from CMS and state Medicaid agencies, with costs determined by the medical utilization of its covered populations. The integrated delivery model allows Alignment to benefit from operational efficiencies when its providers deliver care more cost-effectively than the capitated payment rates.
-
-## Where it sits in its industry
-
-Alignment competes in the concentrated managed care insurance market against large established insurers such as UnitedHealth, Humana, and Cigna. Compared to these competitors, Alignment is smaller and more regionally focused, with particular strength in certain markets where it has built strong provider networks. The integrated model—where a health plan owns or controls provider assets—is a differentiated approach in an industry where traditional insurers typically outsource provider relationships. This model can reduce medical costs and create longer-term provider alignment but also concentrates operational risk and capital requirements.
-
-## How to research it
-
-Review the company's annual [10-K filing](/wiki/10-k/) with the SEC for details on member enrollment, medical loss ratios, premium rates by state and plan type, and capital structure. The 10-Q quarterly reports track changes in covered lives, utilization trends, and profitability. The company's investor relations website provides guidance on growth targets and strategic initiatives. Healthcare industry analysts cover managed care competitors, providing comparative context on valuations and competitive positioning.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Humana Inc. (HUM)](/wiki/hum-stock/)
-- [Cigna Group (CI)](/wiki/ci-stock/)
-- [UnitedHealth Group (UNH)](/wiki/unh-stock/)
-
-### Wider context
-- [Health insurance](/wiki/health-insurance/)
-- [Medicare Advantage](/wiki/medicare-advantage/)
-- [Managed care organization](/wiki/managed-care-organization/)
-- [Medical loss ratio](/wiki/medical-loss-ratio/)
-- [Capitated payment](/wiki/capitated-payment/)
-
-</div>

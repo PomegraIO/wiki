@@ -1,62 +1,18 @@
 ---
 title: "AUBURN NATIONAL BANCORPORATION, INC (AUBN)"
-description: "Regional bank holding company based in Alabama serving retail and commercial banking customers across the Southeast."
+description: "Regional bank holding company serving East Alabama with commercial, consumer, and agricultural lending since 1907."
 keywords:
-  - Auburn National Bancorporation
-  - AUBN
-  - regional bank
-  - banking
-  - Alabama
+  - regional banking
   - community bank
+  - eastern alabama
+  - commercial lending
+handwritten: true
 ---
 
-*Auburn National Bancorporation, Inc* (**AUBN**) is a regional bank holding company headquartered in Auburn, Alabama. The company operates as a traditional retail and commercial bank serving individual and business customers across the Southeast, with a foundation rooted in community banking practices.
+Auburn National Bancorporation has operated as a community-focused bank holding company since 1907, when it was founded to serve the Auburn, Alabama region. The company's main subsidiary, AuburnBank, provides a full range of retail and commercial banking services to individuals and small to mid-sized businesses across East Alabama. With roughly $1 billion in total assets and nearly $940 million in deposits, Auburn National occupies the niche of a small regional financial institution—larger than a local credit union but far smaller than regional or national banks.
 
-<aside class="wiki-infobox">
+The company generates revenue primarily through traditional banking channels: net interest income from its loan portfolio and deposits, fees on deposit accounts and services, and gains on loan sales. AuburnBank's lending focus spans commercial real estate financing, agricultural loans (important in the Alabama market), construction loans, equipment financing, and consumer mortgages and personal loans. On the deposit side, the bank offers the standard products—checking, savings, money market accounts, and certificates of deposit—alongside wealth management services for retail customers and cash management solutions for business clients. Online and mobile banking capabilities allow customers to manage accounts without visiting a physical branch, though the company maintains several brick-and-mortar locations in Auburn and surrounding communities.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AUBN |
-| Listing | US-listed; ticker AUBN |
-| SEC CIK | 750574 |
-| Sector | Financials |
-| Industry | Banking |
-| Headquarters | Auburn, Alabama |
-| Type | Bank Holding Company |
+As a [public company](/wiki/public-company/) listed on [NASDAQ](/wiki/stock-exchange/) under the ticker AUBN, Auburn National is subject to federal and state banking regulations, including capital adequacy requirements under [Basel III](/wiki/basel-iii/) frameworks and regular examination by banking supervisors. The company files an annual [10-K](/wiki/10-k/) with the SEC and reports quarterly earnings. Recent results from 2025 showed net earnings of $2.2 million in the third quarter—modest in absolute terms but consistent with the bank's mid-sized regional profile. Like all regional banks, Auburn National's performance depends on loan demand in its geography, the health of its borrowers, deposit competition from larger institutions, and changes in interest rates and credit conditions.
 
-</aside>
-
-## What the company does
-
-Auburn National Bancorporation operates a network of community banking offices providing deposit and lending services to individual and business customers. The company functions as a traditional [bank](/wiki/bank/) holding company, deriving its revenue from interest income on loans and investments, deposit fees, and other banking services. It maintains branches in multiple states with a primary presence in Alabama and the surrounding region.
-
-## How it makes money
-
-The bank generates revenue through the classic banking model: taking deposits and lending them out at higher interest rates. Net interest margin—the difference between what it pays depositors and receives from borrowers—is the primary driver of earnings. Additional income comes from fee sources such as deposit account maintenance, loan origination fees, and merchant services. Like other regional [banking](/wiki/banking/) operations, Auburn National depends on the credit quality of its loan portfolio and its ability to manage funding costs efficiently.
-
-## Competitive positioning in regional banking
-
-Auburn National operates in a highly consolidated banking industry dominated by large national institutions and increasingly sophisticated regional competitors. Community banks of its scale typically compete on relationship-based service, local decision-making speed, and specialized knowledge of their market. The bank's strength lies in its connection to the Auburn area and surrounding communities rather than scale advantages or nationwide branch networks. Regional banks face persistent pressure from digital banking, larger competitors' cost advantages, and economic cycles that affect their borrower base.
-
-## Corporate structure and governance
-
-As a public bank holding company, Auburn National maintains a [board of directors](/wiki/board-of-directors/) and is subject to regulatory oversight by the Federal Reserve and state banking authorities. The company must comply with [capital adequacy](/wiki/capital-adequacy/) requirements, [dividend](/wiki/dividend/) restrictions, and regular [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings. Like other regional banks, it operates under a dual regulatory framework combining federal and state supervision.
-
-## How to research it
-
-Start with Auburn National's [SEC filings](/wiki/10-k/), especially the annual [10-K](/wiki/10-k/) report, which describes the bank's business segments, lending practices, deposit base, and financial condition. The [10-Q](/wiki/10-q/) reports provide quarterly updates. Key metrics to examine include net interest margin, loan loss provisions, the efficiency ratio, and tier 1 capital ratios. Regulatory filings with the Federal Reserve and state banking authorities provide additional insight into examination findings and regulatory concerns. Peer comparisons with other regional banks of similar size can contextualize Auburn National's performance and competitive position.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Banking](/wiki/banking/)
-- [Regional bank](/wiki/regional-bank/)
-- [10-K](/wiki/10-k/)
-- [Capital adequacy](/wiki/capital-adequacy/)
-
-### Wider context
-- [Financial sector](/wiki/financial-sector/)
-- [Commercial banking](/wiki/commercial-banking/)
-- [Federal Reserve regulation](/wiki/federal-reserve-regulation/)
-
-</div>
+Auburn National competes directly with larger regional banks and national institutions offering digital banking, but retains advantages typical of community banks: local decision-making on credit, relationships with longtime customers and businesses, and a focus on the specific lending needs of East Alabama. The company is not a household name nationally and trades with relatively modest trading volume compared to megabanks, which limits institutional investor attention but also means less price volatility from broad market sentiment.

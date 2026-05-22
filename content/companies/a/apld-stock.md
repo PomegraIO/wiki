@@ -1,64 +1,30 @@
 ---
 title: "Applied Digital Corp. (APLD)"
-description: "Leading GPU infrastructure provider specializing in data center construction and high-performance computing solutions for AI and machine learning workloads."
+description: "Developer and operator of high-performance data centers purpose-built for AI and advanced computing workloads, serving enterprises and cloud providers."
 keywords:
-  - Applied Digital
-  - APLD
-  - GPU infrastructure
-  - data centers
-  - AI computing
+  - artificial intelligence infrastructure
+  - data center operator
   - high-performance computing
+  - ai compute hosting
+handwritten: true
 ---
 
-*[Applied Digital Corp.](https://www.applieddigital.com/) (**APLD**) is a data center and infrastructure provider focused on building and operating facilities tailored for GPU-intensive computing and artificial intelligence workloads. The company designs, builds, and manages advanced data centers that serve hyperscalers, AI companies, and enterprise clients requiring specialized computing environments.*
+Applied Digital Corporation designs, builds, and operates specialized data centers engineered for computationally intensive artificial intelligence and high-performance computing workloads. Based in New York and backed by substantial infrastructure investment, the company has evolved from its early cryptocurrency mining roots into what it terms "AI Superfactories"—purpose-built facilities capable of housing the world's most power-dense computing clusters. The company operates through multiple interconnected business segments, each serving different layers of the emerging AI infrastructure ecosystem, and has achieved remarkable growth as demand for dedicated AI compute capacity has surged faster than traditional hyperscalers can expand.
 
-<aside class="wiki-infobox">
+The transformation reflects a fundamental market insight: as artificial intelligence models grow larger and training demands become more specialized, generalist data centers built for conventional cloud workloads cannot efficiently serve the newest generation of AI applications. Applied Digital fills that gap by designing facilities from the ground up around power delivery, thermal management, and networking requirements that GPU-intensive computing demands. Revenue has grown dramatically as enterprise customers and cloud providers desperate for compute capacity seek dedicated hosts outside the constrained chip supply and overbooked capacity of major cloud providers.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | APLD |
-| **Listing** | US-listed; ticker APLD |
-| **SEC CIK** | 1144879 |
-| **Sector** | Information Technology |
-| **Industry** | Data Centers and Infrastructure |
-| **Headquarters** | New York, USA |
-| **Type** | Public company |
+Applied Digital's operating footprint spans North America, with a growing portfolio of completed and under-construction facilities. The company pursues a capital-intensive model: it invests heavily in real estate, power procurement, and infrastructure, then monetizes that capacity through long-term service contracts. This creates a predictable revenue base once facilities achieve operational status, though it also subjects the company to execution risk on large construction projects and exposure to shifts in customer demand or competitive dynamics as the landscape matures.
 
-</aside>
+## Operating Segments
 
-## What the company does
+Applied Digital organizes its business around three revenue streams, each serving distinct customer needs within the AI infrastructure value chain:
 
-Applied Digital constructs and operates modular, purpose-built data center facilities optimized for GPU computing and artificial intelligence applications. Rather than competing in the general-purpose data center market, the company targets the specialized demand for high-performance infrastructure. Its facilities are engineered for thermal efficiency, power delivery, and networking performance required by large language models, AI training, and other compute-intensive workloads. The company emphasizes rapid deployment and operational efficiency in its facility designs.
+| Segment | Focus | Customers |
+|---------|-------|-----------|
+| **Data Center Hosting** | Dedicated capacity for GPU clusters and specialized computing workloads | Enterprises, AI labs, research institutions |
+| **Cloud Services** | Managed cloud platforms and software solutions for AI workload deployment | Developers, cloud-native customers |
+| **HPC Hosting** | High-performance computing infrastructure for scientific computing and simulation | Government, academic, industrial research |
 
-## How it makes money
+The company has also announced a planned spin-out of its Cloud Services business into a combined entity (ChronoScale), with Applied Digital retaining majority ownership. This separation aims to allow each business to optimize for its distinct market dynamics and customer profiles—infrastructure operations versus software-enabled services—while maintaining consolidated returns.
 
-The company generates revenue primarily through long-term infrastructure service agreements with customers who require dedicated or quasi-dedicated data center capacity. These contracts typically provide stable, recurring revenue streams based on power consumption and facility utilization. Applied Digital charges for physical space, power delivery, cooling, networking, and other infrastructure services. The business model relies on high facility utilization rates and favorable pricing power in a market with significant capacity constraints for specialized GPU infrastructure.
-
-## Where it sits in its industry
-
-Applied Digital operates in a segment of the data center market distinct from traditional providers like [Equinix](/wiki/eqix-stock/) or Digital Realty. Traditional data center operators serve diverse customer bases with standardized facilities; Applied Digital focuses on the narrower but high-demand segment of GPU-centric AI infrastructure. This positions it alongside specialized competitors and in a market where demand from AI companies has significantly outpaced supply. The company benefits from the structural trend toward AI adoption and the shortage of purpose-built facilities tailored for this workload category.
-
-## Growth drivers and competitive position
-
-The expansion of generative AI, large language models, and machine learning training has created urgent demand for GPU capacity. Applied Digital's strategy centers on rapid facility deployment and customization for specific customer requirements. The company has emphasized geographic diversification and partnerships with utilities and real estate owners to accelerate facility buildouts. Its competitive advantage rests on execution speed, technical expertise in GPU-environment design, and long-term contractual relationships with major technology companies.
-
-## How to research it
-
-Start with the company's [10-K](/wiki/10-k/) filing with the [SEC](/wiki/sec/) (CIK 1144879) for detailed disclosures on customer concentration, facility economics, capital expenditure plans, and risk factors specific to the AI infrastructure market. The 10-K will show which customers represent significant portions of revenue and the terms of major service agreements. The [10-Q](/wiki/10-q/) quarterly reports track utilization rates, new facility announcements, and capital deployment. Investor presentations and earnings call transcripts provide management commentary on industry trends, capacity planning, and competitive positioning. Follow announcements regarding new facility openings and customer wins for operational updates.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Equinix](/wiki/eqix-stock/) — Traditional data center and interconnection provider
-- [Digital Realty](/wiki/dlr-stock/) — REIT-structured data center operator
-- [Nvidia](/wiki/nvda-stock/) — GPU manufacturer serving AI infrastructure demand
-- [AWS](/wiki/amzn-stock/) — Cloud infrastructure provider with data center operations
-
-### Wider context
-
-- [Data center economics](/wiki/data-center-reit/) — Sector fundamentals and valuation approaches
-- [Public company](/wiki/public-company/) — Structure and disclosure requirements
-- [10-K](/wiki/10-k/) — Annual SEC filing reference
-
-</div>
+Growth has been substantial and consistent across these segments, with recent quarterly revenues exceeding $100 million and year-over-year growth rates in excess of 200%. Much of this revenue remains contracted well into the future, providing visibility into the company's top line, though capital requirements for expansion remain steep and profitability remains subordinate to growth and capacity deployment.

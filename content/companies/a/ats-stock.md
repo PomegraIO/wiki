@@ -1,70 +1,29 @@
 ---
 title: "ATS Corp /ATS (ATS)"
-description: "Canadian-listed trading and connectivity technology provider specializing in capital markets infrastructure, electronic communication networks, and alternative trading systems."
+description: "Global manufacturing automation company designing and building custom factory systems for life sciences, food, transportation, and consumer products."
 keywords:
-  - ATS Corp
-  - ATS
-  - trading technology
-  - alternative trading system
-  - capital markets
-  - electronic communication network
+  - manufacturing automation
+  - factory systems
+  - industrial automation
+  - customs-built machinery
+  - automation systems integrator
+handwritten: true
 ---
 
-*[ATS Corp](/wiki/public-company/) (**ATS**) is a Canadian provider of trading technology and capital markets connectivity solutions. The company operates alternative trading systems, electronic communication networks, and market intelligence platforms that connect market participants for the trading of equities, derivatives, and other financial instruments.*
+ATS Corporation designs and builds custom automated manufacturing systems—the machinery that makes factories run. Think assembly lines, quality-control robots, packaging systems, and the integration work that ties it all together. Founded in 1978, the company has grown into a multinational operator with over 7,500 employees working across more than 65 manufacturing facilities and 85 offices worldwide.
 
-<aside class="wiki-infobox">
-| | |
-|---|---|
-| Ticker | ATS |
-| Listing | Canadian-listed; ticker ATS |
-| SEC CIK | 1394832 |
-| Sector | Information Technology / Financial Services |
-| Industry | Capital Markets Infrastructure & Trading Technology |
-| Headquarters | Toronto, Ontario, Canada |
-| Founded | 1997 |
-| Type | Public Company |
-</aside>
+The core business splits into customized projects and repeat-automation products. On the custom side, ATS teams work with customers to design and build systems tailored to specific manufacturing challenges. These aren't off-the-shelf solutions; they're engineered systems for companies in pharmaceuticals, food and beverage, automotive, consumer goods, energy, and specialized chemicals. The repeat business involves standardized automation platforms sold to known customers with recurring needs—higher-margin, more predictable work.
 
-## What the company does
+ATS also has an automation products division that manufactures and sells specialized equipment—like life sciences assembly tools and handling systems—designed by ATS engineers or developed with customers. This segment provides cash flow less dependent on long-term project cycles.
 
-ATS Corp operates critical infrastructure for capital markets participants across multiple asset classes. The company provides software, technology, and connectivity services that enable traders, brokers, dealers, and institutional investors to execute trades and analyze market data. Its platforms serve both equity and derivatives markets, facilitating order routing, execution, and price discovery.
+The company operates globally across North America, Europe, Asia, and Oceania, which means exposure to multiple end-markets and economic cycles. Customers are typically multinational manufacturers running high-volume production. A customer pause in capital spending hits ATS harder than a company selling consumables, since automation projects are discretionary capital investments that can be delayed or canceled.
 
-The company's core offerings include alternative trading systems (ATS) that compete with traditional exchanges, electronic communication networks for real-time market connectivity, and trading analytics and surveillance tools that help market participants monitor execution quality and manage regulatory compliance.
+Publicly listed on both the TSX and NYSE under ticker ATS, the company competes with other large systems integrators and automation specialists. The business is capital-intensive—it requires engineering talent, manufacturing capacity, and working capital to carry project inventory. Margins depend on project execution, design reuse, and the balance between high-margin custom work and lower-margin volume products.
 
-## How it makes money
+Industry tailwinds include manufacturing reshoring, automation adoption in emerging markets, and the need to replace aging factory equipment. Headwinds include economic downturns that defer capital investment, supply-chain disruptions affecting project timelines, and competition from both established automation firms and smaller regional specialists.
 
-ATS Corp generates revenue primarily through subscription and licensing fees for access to its trading platforms and data services. Participants pay for [connectivity](/wiki/electronic-communication-network/) to the company's networks, usage-based trading transaction fees, and recurring software maintenance and support agreements. The company also earns revenue from market data services, including real-time and historical pricing information sold to traders and institutions.
-
-Revenue is typically recurring and stable, as customers require continuous platform access and data feeds to conduct business in capital markets.
-
-## Where it sits in its industry
-
-ATS Corp competes in the capital markets technology and infrastructure sector alongside established exchanges, trading venues, and fintech providers. The company is a significant alternative trading system operator, serving as a venue where trades can be executed outside traditional exchange structures.
-
-In the Canadian context, ATS Corp is one of the primary providers of alternative trading infrastructure, complementing the activities of mainstream exchanges like the Toronto Stock Exchange. The company's technology enables market fragmentation, providing participants with multiple execution venues and improving overall market competition and price discovery.
-
-## How to research it
-
-To research ATS Corp's operations and financial performance, consult its SEC filings available through [EDGAR](/wiki/edgar-sec-database/), including annual [10-K](/wiki/10-k/) reports and quarterly 10-Q submissions. These documents provide detailed disclosures of the company's business segments, revenue sources, competitive dynamics, and regulatory considerations.
-
-Investors should review the company's investor relations materials for current information on strategy, market share trends, and guidance. Additionally, industry reports covering capital markets infrastructure, trading technology, and alternative trading systems provide context for understanding ATS Corp's competitive position and the broader trends affecting its markets.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Alternative trading system](/wiki/alternative-trading-system/)
-- [Electronic communication network](/wiki/electronic-communication-network/)
-- [Market maker](/wiki/broker/)
-- [Order routing](/wiki/dark-pools/)
-- [Market surveillance](/wiki/consolidated-audit-trail/)
-
-### Wider context
-
-- [Capital markets](/wiki/capital-asset-pricing-model/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [Equity trading](/wiki/stock/)
-- [Fintech](/wiki/algorithmic-trading/)
-- [Regulatory oversight](/wiki/sec-regulator/)
-
-</div>
+**Main service and product categories:**
+- Custom manufacturing systems design and build
+- Repeat-automation solutions for established customers
+- Automation products and components
+- System commissioning and after-sales service

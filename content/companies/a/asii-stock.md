@@ -1,64 +1,24 @@
 ---
 title: "Accredited Solutions, Inc. (ASII)"
-description: "Accredited Solutions is a financial services company providing staffing, consulting, and human capital solutions for the compliance, financial services, and professional services sectors."
+description: "Financial staffing and recruitment specialist placing accounting, audit, and finance professionals in temporary and permanent roles within professional services firms."
 keywords:
-  - Accredited Solutions
-  - ASII
   - staffing
+  - recruitment
+  - accounting
+  - finance
+  - professional services
   - human capital
-  - compliance
-  - financial services
+handwritten: true
 ---
 
-*[**Accredited Solutions, Inc.**](http://www.accreditedsolutions.com/) ([**ASII**](/wiki/stock/)) is a financial services staffing and consulting firm that specializes in providing temporary and permanent staffing solutions, as well as consulting services, to clients in the compliance, financial services, and professional services industries.*
+Accredited Solutions operates in the specialized staffing market, matching qualified accounting, audit, and finance professionals with firms that need either temporary coverage or permanent hires. The company generates revenue through two primary channels: temporary staffing placements, where it retains a fee from worker billing, and permanent placements, typically priced as a percentage of first-year salary. Clients range from large professional services firms to smaller regional accounting offices and corporate finance departments seeking qualified talent for peak seasons, project-based work, or permanent backfill.
 
-<aside class="wiki-infobox">
+Success in this business model depends on maintaining a deep bench of available candidates and staying attuned to what hiring managers actually need. Unlike broad-based staffing agencies, Accredited Solutions focuses on a defined segment where credentials carry weight—CPA status, audit experience, tax background, and specialized accounting software knowledge become the differentiators between a strong placement and a poor fit. Revenue therefore correlates with utilization (how many candidates are placed) and realization (placement duration and permanent placement stickiness).
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ASII |
-| **Listing** | US-listed; ticker ASII |
-| **SEC CIK** | 1464865 |
-| **Sector** | Staffing & Human Capital |
-| **Industry** | Professional Services Staffing |
-| **Type** | [Public Company](/wiki/public-company/) |
+> The real value in staffing is not just finding candidates, but finding the right match—someone who solves a firm's problem, not creates new ones.
 
-</aside>
+The company's competitive positioning rests on three critical elements: rigorous candidate screening and quality control, speed of fulfillment (firms in busy season cannot afford delays), and sustainable relationships with both clients and workers. Staffing is fundamentally relationship-driven, so growth typically comes through deep market penetration and brand strength in specific regions or niches rather than rapid national expansion. Seasonal peaks in tax and audit work create cyclical demand swings, with Q1 and Q4 representing the year's highest-value quarters. Ongoing margin pressure from wage inflation and commission competition with other specialized staffing shops remains a persistent headwind, though permanent placements offer higher lifetime value and better resilience than temporary work.
 
-## What the company does
+The market itself is highly fragmented, rewarding local brand strength and strong recruiter networks over national reach. Firms that build durable permanent placement pipelines tend to weather downturns more effectively than those relying primarily on temporary work. The business model is capital-light—no inventory, minimal fixed assets—but entirely dependent on talent acquisition and recruiter retention, making human capital the binding constraint on growth.
 
-Accredited Solutions operates as a staffing and professional services firm focused on the compliance, financial services, and professional services sectors. The company provides both temporary staffing and permanent placement services, connecting qualified professionals with employers who require specialized talent in regulated industries. Its service offerings include project-based staffing, permanent hire placements, and management consulting for clients navigating compliance and operational challenges.
-
-## How it makes money
-
-The company generates revenue through staffing placement fees and consulting engagements. Temporary staffing placements typically generate recurring revenue as clients maintain ongoing relationships with the firm for their variable staffing needs. Permanent placements generate fees based on a percentage of annual salary. Consulting services provide additional revenue streams from advisory engagements focused on compliance, risk management, and operational transformation in the financial services and professional services sectors.
-
-## Where it sits in its industry
-
-Accredited Solutions operates in the staffing and professional services industry, competing with larger generalist staffing firms as well as specialized boutique consultancies. The company's focus on compliance and financial services staffing represents a niche market segment where regulatory expertise and specialized knowledge create barriers to entry. Staffing firms in this space face competition based on talent quality, placement speed, and industry relationships.
-
-## Importance of regulatory compliance
-
-The company's positioning within regulated industries—particularly financial services and compliance—means that its clients operate under strict regulatory oversight. This creates consistent demand for temporary staffing to meet seasonal or project-driven needs without incurring permanent headcount, and consulting demand for firms navigating complex regulatory requirements and compliance transformations.
-
-## How to research it
-
-The firm files quarterly 10-Q reports and annual 10-K filings with the [SEC](/wiki/10-k/) detailing its financial performance, operational metrics, and forward guidance. Analysts should review staffing firm industry benchmarks, client concentration risk, utilization rates, and pricing trends. The company's SEC filings provide insight into revenue mix between temporary and permanent staffing, geographic and sector diversification, and management commentary on market conditions in its target sectors.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Professional Services Staffing](/wiki/staffing/)
-- [Human Capital Solutions](/wiki/human-capital/)
-- [Compliance Consulting](/wiki/compliance-consulting/)
-- [Financial Services Staffing](/wiki/financial-services-staffing/)
-
-### Wider context
-
-- [Public Company](/wiki/public-company/)
-- [Stock Exchange](/wiki/stock-exchange/)
-- [10-K](/wiki/10-k/)
-- [SEC CIK](/wiki/sec-cik/)
-
-</div>
+Related: [10-K](/wiki/10-k/), [Public Company](/wiki/public-company/)

@@ -1,60 +1,29 @@
 ---
 title: "Alarum Technologies Ltd. (ALAR)"
-description: "Alarum Technologies Ltd. is a software and technology company providing security and notification solutions across enterprise and consumer markets."
+description: "Israeli data collection and web intelligence company providing proxy services and data extraction tools for enterprise customers globally."
 keywords:
-  - Alarum Technologies
-  - ALAR
-  - software
-  - security technology
-  - notification systems
+  - data collection
+  - proxy services
+  - web scraping
+  - ip intelligence
+handwritten: true
 ---
 
-*[**Alarum Technologies Ltd.**](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001725332) (**ALAR**) is a [software company](/wiki/software-company/) focused on developing and marketing security and notification solutions. The company serves a broad range of enterprise and consumer customers through its portfolio of technology products.*
+Alarum Technologies Ltd. is an Israeli company built on one straightforward problem: how do you gather web data at scale without getting blocked? The company provides proxy services and data collection infrastructure, tools that let businesses—everything from ad tech and financial firms to AI training operations—pull information from the internet reliably. It went public in North America and operates across the U.S., Europe, Asia, and the Middle East, serving the practical needs of companies that need raw web intelligence.
 
-<aside class="wiki-infobox">
+The backbone of the business is residential proxy networks. These are proxies routed through actual residential internet connections rather than data center infrastructure, which makes them harder to detect and block. The company also runs rotating proxies that change the connection point for each request, datacenter proxies for simpler operations, and mobile proxies that mimic smartphone traffic. Beyond proxies, Alarum offers specialized data collection services—harvesting search engine results, social media data, and general web scraping—plus tools like a website unblocker and an AI data collector that helps customers feed large language models with training material. Different tools for different customers. Some need rotating residential IPs. Others need social data feeds. Still others need help training AI models.
 
-| Property | Value |
-|----------|-------|
-| Ticker | ALAR |
-| Listing | US-listed; trades under ticker ALAR |
-| SEC CIK | 1725332 |
-| Industry | Software & Technology |
-| Type | Public company |
+The customer base spans advertising networks and media companies looking to track competitor pricing or campaign performance, financial firms conducting market research, cybersecurity vendors collecting threat intelligence, and ecommerce businesses monitoring rivals. Educational institutions, recruitment platforms, and industrial firms round out the roster. The model is essentially consumption-based: data pulled, proxies used, services metered and billed.
 
-</aside>
+Alarum changed its name from Safe-T Group in early 2023, a signal that management wanted to pivot the company's identity around its growing data collection business rather than legacy cybersecurity products. It's a Tel Aviv-based operation with a structure required to navigate multiple regulatory jurisdictions—it files foreign issuer reports with the SEC, which means U.S. investors can follow its filings but the company isn't subject to all domestic regulations.
 
-## What the company does
+**Main offerings:**
+- Residential proxy networks (static and rotating)
+- Datacenter proxy services
+- Mobile proxies
+- Search engine results data collection
+- Social media data harvesting
+- Website unblocking tools
+- AI data collection services
 
-Alarum Technologies operates in the software and information technology sector, with core focus areas in security infrastructure and notification systems. The company develops technology solutions that enable organizations and individuals to monitor, alert, and respond to critical events across digital and physical infrastructure.
-
-Its product portfolio includes both software platforms and services that integrate with broader enterprise technology stacks. The company markets its capabilities to mid-market and enterprise customers that require reliable, scalable alert and notification infrastructure.
-
-## Market position
-
-Alarum competes within the broader technology sector, where it occupies a niche in security and notification solutions. The sector is characterized by rapid technological change, intense competition from both large technology conglomerates and specialized security software vendors, and ongoing demand for resilient, cloud-native infrastructure.
-
-The company's competitive positioning depends on its ability to innovate, maintain service reliability, achieve cost efficiency in operations, and attract and retain technical talent. Like other technology companies, Alarum faces pressure to balance growth investment with profitability, adapt to evolving customer requirements, and navigate regulatory oversight of data security practices.
-
-## How to research it
-
-For detailed, current financial and operational information about Alarum Technologies, review the company's [10-K annual report](/wiki/10-k/) filed with the [Securities and Exchange Commission](/wiki/sec/). The 10-K contains management's discussion of business strategy, risk factors, financial condition, and results of operations.
-
-The company also files [10-Q quarterly reports](/wiki/10-q/) with the SEC, which provide interim financial updates and material developments between annual filings. Both documents are publicly available through the [SEC's EDGAR database](/wiki/edgar/).
-
-Earnings calls and investor presentations, if held, offer management commentary on recent performance and forward-looking strategy. Press releases and investor relations materials (where available) provide updates on significant business developments, partnerships, or product launches.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Software company](/wiki/software-company/)
-- [Information technology sector](/wiki/technology-sector/)
-- [Cybersecurity](/wiki/cybersecurity/)
-- [Public company](/wiki/public-company/)
-
-### Wider context
-- [US securities regulations](/wiki/sec/)
-- [10-K filing](/wiki/10-k/)
-- [Technology investing](/wiki/technology-investing/)
-- [Software as a service](/wiki/saas/)
-
-</div>
+The company lives in the tension between utility (every enterprise needs data) and friction (governments and platforms increasingly restrict how much data can be grabbed). Whether as a pure infrastructure play or as a target for activist pressure over scraping ethics, Alarum's trajectory depends on how that balance evolves.

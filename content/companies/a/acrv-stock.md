@@ -1,66 +1,34 @@
 ---
 title: "Acrivon Therapeutics, Inc. (ACRV)"
-description: "Oncology-focused biopharmaceutical company developing cancer treatments and targeted therapeutic solutions."
+description: "A clinical-stage biotech harnessing precision phosphoproteomics to discover kinase inhibitors for oncology. Developing ACR-368 for endometrial and ovarian cancer."
 keywords:
-  - Acrivon Therapeutics
-  - ACRV
-  - biopharmaceutical
-  - oncology
-  - cancer treatment
-  - therapeutic drugs
+  - phosphoproteomics
+  - kinase inhibitor
+  - precision oncology
+  - clinical-stage biotech
+  - ap3 platform
+  - acr-368 cancer
+handwritten: true
 ---
 
-*[Acrivon Therapeutics, Inc.](https://pomegra.io/wiki/companies/a/acrv-stock/) (ticker **ACRV**) is a [public corporation](/wiki/public-company/) operating in the [biopharmaceutical](/wiki/biopharmaceutical/) sector with a focus on [oncology](/wiki/oncology/). The company develops [therapeutic](/wiki/therapeutic-drugs/) treatments targeting cancer and oncological diseases through [drug discovery](/wiki/drug-discovery/) and clinical development programs.*
+## What is the AP3 platform and why does it matter?
 
-<aside class="wiki-infobox">
+Acrivon's core asset is its proprietary Generative Phosphoproteomics AP3 (Acrivon Predictive Precision Proteomics) technology. The platform functions as a decryption tool for how drugs behave inside living cells—measuring which protein pathways a compound activates or suppresses in an unbiased manner, producing massive datasets that reveal both intended and off-target effects. Rather than guessing which patient populations will respond to a drug, the AP3 system identifies biomarkers and responder profiles upfront. The company has built a suite of analytical tools around the platform, including a proprietary data portal, kinase substrate predictors, and interactome mapping—essentially a growing library of relationships between drugs, their targets, and cellular outcomes.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ACRV |
-| **Listing** | US-listed; ticker ACRV |
-| **SEC CIK** | 1781174 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical |
-| **Type** | Public Corporation |
+## Where does the drug pipeline sit?
 
-</aside>
+ACR-368, a selective dual inhibitor of the checkpoint kinases CHK1 and CHK2, is Acrivon's lead candidate in clinical development. The drug targets tumors dependent on these signaling pathways, particularly endometrial and platinum-resistant ovarian cancers. Phase 2b data released in early 2026 showed a 39% overall response rate across the endometrial cohort, climbing to 44% in patients with two or fewer prior therapies. In serous endometrial subtypes (biomarker-positive patients), confirmed response rates reached 67%, suggesting the platform's ability to pinpoint high-probability patient populations. A planned Phase 3 trial is moving toward enrollment. ACR-2316, a dual WEE1 and PKMYT1 inhibitor, is earlier in its clinical arc, with initial data also disclosed in early 2026. ACR-6840, targeting CDK11 and enabled by the AP3 platform, represents the next development candidate entering the pipeline.
 
-## What the company does
+## How does the company finance its operations?
 
-Acrivon develops therapeutic treatments in oncology, the field addressing cancer and related malignancies. The company's focus may include [targeted therapies](/wiki/targeted-therapy/) that attack specific cancer cell mutations, [immunotherapies](/wiki/immunotherapy/) that leverage the immune system, or other oncological approaches. Drug candidates advance through [preclinical research](/wiki/preclinical-research/), [clinical trials](/wiki/clinical-trials/), and regulatory pathways toward potential [FDA approval](/wiki/fda-approval/).
+Acrivon is a clinical-stage enterprise, meaning it has no marketed drugs and generates no product revenue. The company relies on capital raised from public markets—it trades on the [stock exchange](/wiki/stock-exchange/) under ticker ACRV. As of late 2025, the company reported roughly $119 million in cash, cash equivalents, and investments, with that runway extending into mid-2027. The burn rate typical for clinical-stage biotechs is material; ongoing Phase 2b studies, regulatory preparation for Phase 3, and preclinical work on pipeline assets all consume substantial resources. Future financing milestones will hinge on clinical trial progress and investor appetite for precision oncology bets.
 
-## Oncology market and opportunity
+## Who invests in companies like this?
 
-Oncology represents one of the largest therapeutic markets due to the prevalence of cancer and the high cost of treatment. Successful cancer drugs often command premium pricing and achieve substantial revenue once approved. Patient populations suffering from specific cancer types provide well-defined markets for targeted therapies. Competitive success depends on clinical efficacy, safety profiles, and differentiation versus existing treatment options.
+Acrivon's shareholder base includes traditional biotech-focused mutual funds, hedge funds, and individual investors betting on the company's differentiated AP3 platform and oncology thesis. Like most clinical-stage biotechs, ACRV stock is volatile—swings driven by trial readouts, regulatory feedback, financing announcements, and broader sentiment toward early-stage therapeutics. Institutional investors in this space typically perform deep diligence on the science, management pedigree, and capital efficiency. The company's public [10-K](/wiki/10-k/) filing details burn rate, clinical progress, and intellectual property position; serious investors read these carefully.
 
-## Development pipeline and clinical strategy
+## What are the key risks?
 
-Acrivon's pipeline consists of candidates at various development stages targeting specific cancer indications. Early-stage candidates may target validated cancer mechanisms; late-stage candidates demonstrate clinical benefit in Phase III trials. Rapid advancement of promising candidates and strategic decisions regarding which indications to pursue determine the company's competitiveness and growth trajectory. Efficacy in difficult-to-treat cancers commands higher value.
+Clinical development is inherently uncertain. ACR-368 must prove efficacy and safety in larger Phase 3 populations; even positive Phase 2b data do not guarantee approval. Patent protection on the AP3 platform and drug candidates will determine competitive moat and exclusivity duration. Regulatory pathways in oncology can shift—breakthrough designations or accelerated approvals can compress timelines, but so can safety signals or efficacy gaps that emerge late in trials. Capital is a constant concern; equity dilution from future raises erodes per-share value unless clinical wins justify the added shares. Finally, Acrivon must recruit and retain deep expertise in phosphoproteomics, medicinal chemistry, and oncology development in a competitive talent market.
 
-## Regulatory pathway and approvals
-
-Oncology drugs follow [FDA approval](/wiki/fda-approval/) pathways that may include expedited review programs like [accelerated approval](/wiki/accelerated-approval/) or [breakthrough therapy designation](/wiki/breakthrough-therapy/), reflecting the serious nature of cancer. [Clinical trial](/wiki/clinical-trials/) designs focus on demonstrating improvement in [overall survival](/wiki/overall-survival/) or other meaningful endpoints. Approval decisions depend on trial data and regulatory assessment of benefit versus risk.
-
-## How to research it
-
-Review Acrivon's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC's EDGAR database. Evaluate the oncology pipeline by cancer type and development stage, studying clinical trial designs and efficacy data. Assess cash position and burn rate, critical for pre-revenue biopharmaceutical companies. Analyze competitive landscape and existing treatments for targeted cancer indications. Monitor regulatory developments and clinical trial progress. Compare against peer oncology biotech companies and evaluate management's oncology expertise and track record.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical](/wiki/biopharmaceutical/)
-- [Oncology](/wiki/oncology/)
-- [Drug development](/wiki/drug-development/)
-- [Clinical trials](/wiki/clinical-trials/)
-- [Targeted therapy](/wiki/targeted-therapy/)
-
-### Wider context
-
-- [Healthcare sector](/wiki/healthcare-sector/)
-- [Cancer treatment](/wiki/cancer-treatment/)
-- [FDA approval](/wiki/fda-approval/)
-- [Equity financing](/wiki/equity-financing/)
-- [Public company](/wiki/public-company/)
-
-</div>
+The company's thesis hinges on whether its unbiased, cell-based profiling approach delivers better patient selection and drug outcomes than conventional kinase-hunting. If clinical data continue to support this angle—and if ACR-368 advances to approval—the valuation and strategic relevance of the platform will rise sharply. If trials stumble, the stock will reflect disappointment quickly.

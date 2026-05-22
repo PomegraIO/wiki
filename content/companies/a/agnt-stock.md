@@ -1,50 +1,28 @@
 ---
 title: "eXp World Holdings, Inc. (AGNT)"
-description: "Real estate company operating a cloud-based brokerage platform connecting independent agents and brokers for residential real estate sales."
+description: "eXp World Holdings is a cloud-based real estate brokerage and technology platform transforming residential and commercial property transactions through virtual collaboration."
 keywords:
-  - eXp World Holdings
-  - AGNT
   - real estate brokerage
-  - agent network
+  - cloud computing
+  - technology platform
+  - property transactions
+  - virtual workplace
   - residential real estate
-  - cloud platform
+handwritten: true
 ---
 
-*[**eXp World Holdings, Inc.**](/wiki/public-company/) (**AGNT**) is a real estate company operating a cloud-based brokerage platform that serves independent real estate agents and brokers. The company facilitates residential real estate transactions and provides tools, support services, and a technology infrastructure to network participants.*
+## What problem does eXp actually solve?
 
-<aside class="wiki-infobox">
-**Ticker** | AGNT
-**Listing** | US-listed; ticker AGNT
-**SEC CIK** | 1495932
-**Sector** | Real Estate
-**Industry** | Real Estate Services & Brokerage
-**Type** | Public corporation
-</aside>
+Real estate brokerages have historically relied on physical office infrastructure, geographic territories, and face-to-face agent training. eXp flipped that model by building a fully cloud-based platform where agents work from anywhere, collaborate virtually, and access tools and training entirely online. This eliminates the need for massive overhead costs, regional licensing walls, and the geographic limitations that traditional franchises face.
 
-## What the company does
+## How does the business make money?
 
-eXp operates a residential real estate brokerage platform built on cloud-based technology, enabling independent agents and brokers to operate efficiently without traditional brick-and-mortar office infrastructure. The platform provides agents with transaction processing, back-office support, technology tools, marketing resources, and access to a collaborative network of other agents. Agents retain significant autonomy while benefiting from the platform's scale, support services, and network effects. The model contrasts with traditional brokerages by emphasizing remote work and agent independence.
+eXp earns commissions by taking a percentage of transaction proceeds when its agents close deals. The platform also collects revenue from agent services like marketing tools, transaction management, and professional development courses. Rather than owning property or managing physical locations, eXp captures a slice of every residential and commercial deal its network completes. The company has also expanded into ancillary services and revenue streams that plug into its agent ecosystem.
 
-## How it makes money
+## Why would an agent choose eXp over a traditional brokerage?
 
-The company generates revenue primarily through transaction fees and commissions on residential real estate sales. Agents retain a portion of commissions from deals they conduct; eXp captures a fee. The company also earns revenue from franchise fees charged to brokers and from ancillary services such as transaction support and technology licensing. Operating expenses include technology development and infrastructure, agent recruitment and support, marketing, and administrative overhead. Profitability depends on growing transaction volume, controlling agent acquisition costs, and scaling technology infrastructure efficiently.
+Agents on the eXp platform get lower commission splits compared to traditional franchises, but they avoid paying hefty desk fees, rent, or franchise charges. The virtual-first model appeals to agents seeking flexibility and geographic independence. eXp also gamifies achievement through virtual rewards, stock options, and a recruiting commission structure that lets top agents generate income by sponsoring others into the platform.
 
-## Where it sits in its industry
+## Where is this going?
 
-eXp competes in the residential real estate brokerage market against traditional brokerages (with physical offices), other technology-enabled platforms, and discount brokers. The company's cloud-first model and focus on agent independence represent a strategic differentiation from traditional regional brokerages. Competition remains intense, with pricing pressure from discount platforms and risk that major tech companies enter the market. Market share is partly determined by agent satisfaction, brand recognition, and the breadth of support services offered.
-
-## How to research it
-
-Investors should examine the company's [10-K annual report](/wiki/10-k/) and [10-Q quarterly filings](/wiki/10-q/) for transaction volumes, gross transaction value (GTV), agent count, and commission revenue. Industry data on residential real estate sales volumes, home prices, and transaction trends contextualize the company's revenue drivers. Real estate analyst reports and press releases track agent recruitment, churn, and expansion into adjacent services. The company's profitability and cash flow depend on transaction growth and operating leverage from technology scaling.
-
-<div class="wiki-seealso">
-### Closely related
-- [Real estate brokerage](/wiki/real-estate-brokerage/)
-- [Residential real estate](/wiki/residential-real-estate/)
-- [Technology platforms](/wiki/technology-platforms/)
-
-### Wider context
-- [Real estate sector](/wiki/real-estate-sector/)
-- [Digital disruption](/wiki/digital-disruption/)
-- [Stock](/wiki/stock/)
-</div>
+eXp has scaled from a small startup to a publicly traded company with thousands of agents worldwide. The residential real estate market remains fragmented, and cloud-based brokerage is still novel at scale. The company faces competition from traditional megabrokers and other tech-forward startups. Its growth depends on whether agents and customers believe a virtual-first experience is superior to regional, locally-rooted operations.

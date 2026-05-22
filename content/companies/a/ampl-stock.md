@@ -1,63 +1,19 @@
 ---
 title: "Amplitude, Inc. (AMPL)"
-description: "Digital analytics platform for product management and data-driven decision-making across web, mobile, and cross-platform applications."
+description: "Amplitude is a product analytics platform that helps companies understand user behavior and optimize digital experiences through event-based data insights."
 keywords:
-  - Amplitude
-  - AMPL
   - product analytics
   - digital analytics
-  - customer insights
-  - SaaS
+  - user behavior
+  - event tracking
+  - saas
+handwritten: true
 ---
 
-*[Amplitude, Inc.](/wiki/public-company/) is a publicly traded digital analytics company that provides product intelligence software for businesses managing customer experiences across digital platforms. Listed on the NASDAQ under ticker **AMPL**, the company operates in the [software-as-a-service (SaaS)](/wiki/saas/) analytics segment, competing alongside other product analytics vendors.*
+Amplitude's roots trace to 2012, when Spenser Skates and Jeff Berman founded the company to solve a problem they faced building their own products—they needed a better way to understand what users were actually doing with their applications. The founding insight was straightforward: rather than relying on aggregate statistics and page views, product teams needed granular, event-level data about user interactions. They built event-based analytics from the ground up, creating a platform that captured and correlated individual user actions into a coherent picture of behavior.
 
-<aside class="wiki-infobox">
+In its early years, Amplitude focused on gaining traction among mobile app developers, where the need for understanding user funnels and retention patterns was most acute. The platform allowed engineers and product managers to track sequences of events—a user signing up, completing onboarding, making a purchase, churning—and identify where the biggest drops occurred. This attracted a loyal following among startups and growth-focused companies, particularly in consumer mobile apps and web products where even small improvements in engagement could drive significant business outcomes. By the early 2020s, Amplitude had moved into [public-company](/wiki/public-company/) territory, going public in September 2021 through a traditional [stock](/wiki/stock/) offering.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AMPL |
-| Listing | US-listed; trades on NASDAQ under AMPL |
-| SEC CIK | 1866692 |
-| Sector | Information Technology |
-| Industry | Software & Internet Services—Analytics |
-| Headquarters | San Francisco, California |
-| Founded | 2012 |
-| Type | Public Company |
+As a public company, Amplitude broadened its platform ambitions beyond pure analytics. The company has pushed into deeper features: behavioral cohort building, experimentation orchestration, and integration with downstream tools for marketing automation and customer data platforms. The competition intensified from established vendors like Mixpanel and from major cloud platforms offering native analytics, forcing Amplitude to emphasize its breadth and enterprise reliability. The company now serves thousands of product teams across e-commerce, SaaS, financial services, and media, charging based on data volume and feature access. Its business model—recurring [subscription](/wiki/subscription-revenue-model/) revenue from feature-rich analytics—depends on customers finding ongoing value in the data they collect and the insights Amplitude reveals.
 
-</aside>
-
-## What the company does
-
-Amplitude develops a customer data platform and product analytics engine used by product managers, data analysts, and marketers to understand user behavior. The platform captures event-level data from digital properties—websites, mobile applications, and other software touchpoints—and transforms it into actionable insights. Customers use Amplitude to track feature adoption, identify friction in user journeys, understand cohort behaviors, and test product changes. The system synthesizes millions of events daily and supports behavioral cohorts, A/B testing, and funnel analysis workflows.
-
-## How it makes money
-
-The company operates on a [subscription revenue](/wiki/subscription-revenue-model/) model, with pricing typically tied to event volume processed monthly. Amplitude offers tiered service levels targeting different organizational sizes—from startups to large enterprises. Core revenue comes from hosting and maintaining the analytics platform, though the company also generates revenue from professional services and implementation support for larger customers. The platform-as-a-service architecture creates recurring revenue with expansion potential as customers scale usage.
-
-## Where it sits in its industry
-
-Amplitude occupies the product analytics segment of the broader business intelligence and analytics market. The company competes with established analytics platforms offering product-specific intelligence tools, as well as with broader data warehousing and business intelligence vendors that serve analytics use cases. Amplitude differentiates on ease of use for product teams and speed of insight generation, positioning itself between self-serve analytics platforms and enterprise data warehousing solutions. The rise of product-driven companies and the value of rapid experimentation has sustained demand for dedicated product analytics tools.
-
-## How to research it
-
-Comprehensive regulatory filings are available through the SEC's [EDGAR](/wiki/edgar/) system using the company's CIK 1866692. Annual [10-K](/wiki/10-k/) reports disclose business segments, revenue concentration, customer composition, and risk factors. Quarterly [10-Q](/wiki/10-q/) reports provide updates on financial performance and operational metrics. Investor presentations and earnings call transcripts offer management commentary on competitive dynamics and product roadmap priorities. Public customer case studies and industry analyst coverage from firms focused on enterprise software provide context on competitive positioning and product adoption trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [SaaS](/wiki/saas/) — The subscription software model underlying Amplitude's revenue structure
-- [Product management](/wiki/product-management/) — The core workflow Amplitude serves
-- [A/B testing](/wiki/ab-testing/) — A key feature within the platform
-- [Customer analytics](/wiki/customer-analytics/) — The broader category encompassing Amplitude's tools
-- [Cohort analysis](/wiki/cohort-analysis/) — An analytical technique central to the platform
-
-### Wider context
-
-- [Software equity investing](/wiki/software-equity-investing/) — Category analysis for SaaS companies
-- [NASDAQ stock exchange](/wiki/stock-exchange/) — Where AMPL trades
-- [Business intelligence](/wiki/business-intelligence/) — The broader market segment
-- [Data-driven decision-making](/wiki/data-driven-decision-making/) — The organizational practice enabled by the platform
-
-</div>
+The product analytics category itself evolved from a scrappy startup tool into an essential part of the modern data stack. Regulatory scrutiny around data collection and privacy regulations like [GDPR](/wiki/gdpr-regulation/) added complexity to deployment and forced platforms to mature their compliance postures. Amplitude's core proposition remains consistent: companies get better products by understanding user behavior at the event level. Whether that resonates broadly enough to sustain premium valuations in a competitive landscape with both open-source alternatives and entrenched big-data players continues to test the company's execution. Its ability to expand upmarket, defend its customer base against churn, and adapt to evolving data governance requirements will shape its trajectory over the coming years.

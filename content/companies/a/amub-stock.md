@@ -1,68 +1,20 @@
 ---
 title: "UBS AG (AMUB)"
-description: "Global financial services firm headquartered in Switzerland, offering wealth management, asset management, and investment banking to institutional and private clients."
+description: "Global Swiss banking and financial services powerhouse managing trillions in assets through wealth management, asset management, and investment banking divisions."
 keywords:
-  - UBS
-  - AMUB
-  - Swiss bank
+  - swiss banking
   - wealth management
-  - investment banking
+  - global investment bank
+  - financial services
+  - cross-border banking
+  - asset management
+handwritten: true
 ---
 
-*UBS AG is one of the world's largest **wealth management** and **investment banking** institutions, headquartered in Zurich, Switzerland, and traded internationally under ticker **AMUB**.*
+UBS AG is Switzerland's largest bank and one of the world's most significant financial institutions, headquartered in Zurich. The company operates across three main business divisions: wealth management for high-net-worth and ultra-high-net-worth clients, asset management serving institutional and individual investors, and investment banking providing capital markets and advisory services. With operations spanning more than fifty countries and serving millions of clients globally, UBS manages hundreds of billions in invested assets and maintains a central role in international capital markets and cross-border financial flows.
 
-<aside class="wiki-infobox">
+The bank's business model revolves around collecting client wealth and deploying it across capital markets while capturing fees and spreads at various stages. Wealth management generates substantial recurring revenue through advisory fees on assets under management, while asset management collects fees from mutual funds, separate accounts, and alternative investment products. The investment banking division generates transaction fees from mergers and acquisitions, underwriting, and trading services. This diversified revenue base has historically provided stability during market cycles, though it also exposes the bank to credit, market, and operational risks inherent in complex financial intermediation.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AMUB |
-| Listing | US-listed; OTC markets; ticker AMUB |
-| SEC CIK | 1114446 |
-| Sector | Financial Services |
-| Industry | Banking, Wealth Management, Asset Management |
-| Headquarters | Zurich, Switzerland |
-| Founded | 1862 (current entity formed through 1998 merger) |
-| Type | Public corporation |
+UBS has a storied history reaching back to the 19th century and has expanded through numerous major acquisitions, including Swiss Bank Corporation in 1998 and the government-assisted acquisition of troubled competitor Credit Suisse in 2023. The 2023 takeover represented a watershed moment, effectively consolidating Switzerland's two largest banks and drawing heavy central bank and government involvement to prevent systemic instability. This acquisition doubled UBS's deposit base and expanded its global footprint significantly while also bringing integration challenges and regulatory scrutiny.
 
-</aside>
-
-## What the company does
-
-UBS serves as a major global financial institution with three primary business divisions. Its wealth management division manages assets for high-net-worth individuals and families. Its asset management segment provides investment products and services to institutional and retail clients. Its investment banking operations advise on corporate mergers, acquisitions, capital markets transactions, and debt and equity offerings. Beyond these core divisions, UBS operates trading desks across currencies, commodities, fixed income, and equities.
-
-The firm maintains a significant presence across more than fifty countries, with substantial operations in the Americas, Europe, Asia-Pacific, and Switzerland. Its client base includes corporations, financial institutions, governments, and individuals with substantial investable assets.
-
-## How it makes money
-
-UBS generates revenue primarily through fee-based services rather than principal trading. Wealth management fees are assessed on assets under management and advisors. Asset management collects management and performance fees from investment products. Investment banking earns advisory, underwriting, and transaction fees. Interest income flows from client deposits and lending activities. The firm also realizes gains and losses from trading activities and investments held across its portfolio.
-
-Economic cycles, interest rate environments, and market volatility significantly affect revenue mix. Periods of market strength and rising asset values increase fees from the wealth and asset management divisions. Conversely, market downturns and lower transaction volumes reduce advisory and underwriting revenues.
-
-## Position in the global financial sector
-
-UBS ranks among the largest financial institutions globally by assets under management and by revenue. It competes with [peer firms](/wiki/stock/) including other universal banks and specialized wealth managers for institutional and private clients. Its Swiss domicile historically conveyed reputation for stability and discretion, though global regulatory frameworks have diminished traditional secrecy advantages.
-
-The firm operates within stringent capital, liquidity, and conduct regulations imposed by Swiss authorities, the Federal Reserve (as a foreign systemically important bank), and financial regulators across jurisdictions where it conducts business. Regulatory capital requirements, stress tests, and resolution planning represent ongoing operational constraints.
-
-## How to research it
-
-UBS files annual reports on [Form 20-F](/wiki/10-k/) with the SEC, detailing consolidated financial statements, business segment performance, risk exposures, and compliance matters. Quarterly financial updates appear in press releases and investor presentations. The firm's [10-K filing](/wiki/10-k/) contains detailed information on operations, risks, regulatory capital positions, and management discussion of financial performance.
-
-SEC filings are available through the [SEC's Electronic Data Gathering System (EDGAR)](/wiki/10-k/) under CIK 1114446. The firm's investor relations website provides earnings call transcripts, annual reports, and factsheets.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Credit Suisse](/wiki/stock/) — competing Swiss universal bank
-- [Banking sector](/wiki/stock/) — industry classification
-- [Wealth management](/wiki/stock/) — core business segment
-- [Investment banking](/wiki/stock/) — advisory and capital markets services
-
-### Wider context
-
-- [Global financial regulation](/wiki/stock/) — Basel III, Dodd-Frank frameworks
-- [Systemically important banks](/wiki/stock/) — regulatory designation
-- [Swiss economy](/wiki/stock/) — country context
-
-</div>
+Regulatory capital requirements under [Basel III](/wiki/basel-iii/) and considerations for [systemically important banks](/wiki/public-company/) shape the bank's operating strategy and profitability profile. As a globally systemic financial institution, UBS faces elevated capital charges, frequent regulatory examinations, and heightened living-will and resolution planning requirements. The bank's profitability depends on net interest margins, asset management fee levels, and market volatility—higher volatility typically drives trading revenue and advisory activity, while sustained low rates compress deposit margins. Geopolitical tensions, currency volatility, and regulatory shifts in major markets significantly influence UBS's earnings and strategic positioning across its diverse global operations.

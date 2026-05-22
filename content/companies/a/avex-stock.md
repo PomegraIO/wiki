@@ -1,61 +1,21 @@
 ---
 title: "AEVEX Corp. (AVEX)"
-description: "AEVEX Corp. is a technology and engineering services firm specializing in advanced aerospace and defense solutions for government and commercial clients."
+description: "Defense contractor designing and manufacturing autonomous unmanned systems and providing AI-enabled ISR solutions for U.S. military and government applications."
 keywords:
-  - AEVEX Corp
-  - AVEX
-  - aerospace and defense
-  - engineering services
-  - technology solutions
+  - defense technology
+  - unmanned systems
+  - uas
+  - military contractor
+  - autonomous systems
+handwritten: true
 ---
 
-*AEVEX Corp. (ticker **AVEX**) is a technology and engineering services company primarily focused on advanced aerospace and defense solutions. The company serves government agencies and commercial customers through specialized engineering, systems integration, and technology development services, positioning itself in the broader aerospace and defense sector.*
+**AEVEX Corp. is a defense technology contractor specializing in autonomous unmanned aerial systems (UAS) and AI-enabled intelligence, surveillance, and reconnaissance (ISR) solutions for the U.S. military and government.**
 
-<aside class="wiki-infobox">
+Based in Solana Beach, California, and founded in 2020, AEVEX operates across two principal business segments: Tactical Systems and Global Solutions. The Tactical Systems division focuses on designing and manufacturing battle-tested, modular, autonomous unmanned systems—chiefly unmanned aerial vehicles and unmanned surface vehicles—engineered as attritable platforms for high-risk missions. These systems emphasize modularity and autonomous operation, allowing military operators to deploy them in contested environments without relying on persistent communication links. The Global Solutions segment complements this hardware focus by offering customized mission solutions built around AI-enabled airborne ISR, combining unmanned platforms with advanced analytics to deliver actionable intelligence to warfighters and government agencies.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AVEX |
-| Listing | US-listed; ticker AVEX |
-| SEC CIK | 2096300 |
-| Sector | Aerospace & Defense |
-| Industry | Engineering & Technology Services |
-| Type | Public Company |
+AEVEX's business model reflects the expanding Pentagon budget allocation toward unmanned systems, particularly in the context of strategic competition and the ongoing shift toward drone-centric military strategy. The company's rapid revenue growth—publishing a 307 percent year-over-year increase in the first quarter of 2026—signals rising demand for attritable, autonomous systems that can operate with reduced human oversight. This acceleration comes as the U.S. military prioritizes force modernization in unmanned platforms, especially lower-cost, single-use or limited-reuse systems designed to saturate defenses rather than serve as expensive, irreplaceable assets.
 
-</aside>
+The company went public in April 2026 under ticker AVEX on the New York Stock Exchange, offering 16 million shares at a price range of $18 to $21 per share. Management provided 2026 full-year revenue guidance of $600 million to $620 million, indicating the company's trajectory toward becoming a meaningful player in the defense UAS sector. As a government contractor in the defense space, AEVEX operates under standard federal compliance and security clearance requirements, and its revenue is concentrated in U.S. government procurement channels rather than commercial or international civil markets.
 
-## What the company does
-
-AEVEX Corp. develops and delivers advanced technology solutions and engineering services, primarily serving the aerospace, defense, and government sectors. The company focuses on specialized technical capabilities including systems integration, product development, and engineering consulting. Its offerings span multiple domains within the defense and government market, where it serves as a technology partner to federal agencies and defense contractors.
-
-## Business model and revenue generation
-
-The company generates revenue through contracts with government agencies and aerospace/defense contractors for engineering services, technology development, systems integration, and consulting work. Government contracts represent a significant portion of revenue, typical for companies in this sector. Revenue recognition generally follows contract completion milestones and customer deliverables, a standard model for technology services and systems integration businesses.
-
-## Competitive positioning
-
-AEVEX competes in the specialized aerospace and defense services market alongside larger, established defense contractors and smaller boutique engineering firms. Success in this sector depends on technical expertise, security clearances, government relationships, customer retention, and the ability to meet specialized requirements. The company's positioning emphasizes specialized capabilities and technical depth rather than broad-based defense manufacturing.
-
-## Industry context
-
-The aerospace and defense sector encompasses both traditional defense contractors, space-related companies, and specialized engineering services providers. Government spending, policy priorities, and contract award processes significantly influence the industry. Competition, consolidation, and the shift toward technology-driven solutions have shaped the sector's evolution. Companies in this space must navigate regulatory requirements, security protocols, and the concentrated nature of government procurement.
-
-## How to research it
-
-Start with [SEC filings](/wiki/10-k/) via the SEC EDGAR database using CIK 2096300 to review annual reports (10-K), quarterly reports (10-Q), and other regulatory disclosures. These filings contain detailed financial statements, business descriptions, risk factors, and operational metrics. Financial databases and news archives provide market context and competitive analysis. Industry reports on aerospace and defense services offer sector perspective.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [10-K](/wiki/10-k/) — Annual SEC filing with financial statements and business details
-- [SEC filing](/wiki/sec-filing/) — Regulatory documents for publicly traded companies
-- [Government contractor](/wiki/government-contractor/) — Companies serving federal agencies
-
-### Wider context
-
-- [Aerospace and defense sector](/wiki/aerospace-and-defense-sector/) — Industry overview
-- [Engineering services](/wiki/engineering-services/) — Professional and technical services
-- [Defense spending](/wiki/defense-spending/) — Government procurement and budgeting
-
-</div>
+For researchers tracking the [stock](/wiki/stock/) or [public company](/wiki/public-company/) landscape, AEVEX represents a post-IPO defense technology entrant with significant revenue momentum and exposure to unmanned systems procurement—a subsector that has become strategically critical to U.S. defense spending priorities.

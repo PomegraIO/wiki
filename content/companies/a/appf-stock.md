@@ -1,66 +1,40 @@
 ---
 title: "APPFOLIO INC (APPF)"
-description: "Software company providing cloud-based property management and business management solutions for real estate, rental, and related industries."
+description: "Cloud-based software for real estate property managers and landlords; scales revenue through subscription and value-added services."
 keywords:
-  - APPFOLIO
-  - APPF
-  - software
-  - property management
-  - cloud-based
-  - SaaS
+  - real estate software
+  - property management saas
+  - cloud computing
+  - appfolio
+handwritten: true
 ---
-
-*[APPFOLIO INC](/wiki/public-company/) (ticker **APPF**) is a cloud-based software company that provides property management, accounting, and business management solutions to the real estate and property management industries.*
 
 <aside class="wiki-infobox">
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | APPF |
-| **Listing** | US-listed; ticker APPF |
-| **SEC CIK** | 1433195 |
-| **Sector** | Technology |
-| **Industry** | Software—Property Management & Business Management |
-| **Headquarters** | Santa Barbara, California |
-| **Founded** | 2006 |
-| **Type** | Public company |
+**APPFOLIO INC**
+
+- **Ticker:** APPF
+- **CIK:** 1433195
+- **Founded:** 2006
+- **Headquarters:** Santa Barbara, California
+- **Sector:** Software / SaaS
+- **Main Market:** Real estate property management
+- **Units Under Management:** 9.5M+ (growing)
+- **Revenue Growth:** 20% annual
+- **Operating Margin:** 26–28% non-GAAP
 
 </aside>
 
-## What the company does
+## The Platform
 
-AppFolio develops cloud-based software products for property management companies, rental property owners, and real estate firms. The platform is built as a suite of interconnected applications that handle core business operations across the property and real estate sector. The company's main product line includes property management software, accounting software for real estate professionals, and ancillary tools for tenant screening and reporting. The software is delivered as Software-as-a-Service (SaaS), meaning clients access it via the web rather than installing it locally.
+AppFolio develops and sells cloud-based software for property managers, landlords, and real estate operators. The company operates on a subscription model, charging customers recurring fees for access to its platform rather than selling one-time licenses. This structure aligns AppFolio's success with ongoing customer use, creating incentives for both product improvement and retention. The core platform handles the operational backbone of rental property businesses: tenant screening, rent collection, maintenance request tracking, lease management, financial reporting, and compliance documentation.
 
-## How it makes money
+Beyond the base software, AppFolio generates ancillary revenue from value-added services layered atop the core platform—payment processing, tenant screening, insurance referrals, and other compliance and financial tools. These add-on services typically carry higher margins than subscriptions and deepen customer dependency on the AppFolio ecosystem.
 
-AppFolio operates a subscription-based business model. Customers pay recurring fees—typically monthly or annually—for access to its software products. Different pricing tiers exist based on company size, number of properties managed, and product modules selected. The company also generates ancillary revenue through add-on services, such as tenant screening, credit checks, and reporting tools that integrate with the core platform. Revenue is recognized as customers maintain their subscriptions, creating a predictable, recurring revenue stream.
+## Scale and Switching Costs
 
-## Where it sits in its industry
+AppFolio operates in a fragmented market where many property managers still rely on spreadsheets or aging on-premise systems. The company has built substantial switching costs: once a property management operation standardizes on AppFolio's workflows, migrating to a competitor requires staff retraining, data migration, and operational disruption. As of early 2026, the platform manages over 9 million units—rent-paying properties and tenant relationships under its system—with growth continuing. This large and growing installed base creates predictable revenue expansion and pricing power.
 
-The property management software market is competitive. AppFolio competes against both established players and newer entrants in the cloud-based property management space. The company has positioned itself as a modern, scalable alternative to legacy desktop software. Its strength lies in its integrated suite of products—rather than requiring customers to piece together separate tools, AppFolio offers a unified platform. The cloud-first approach appeals to property managers seeking to reduce on-premise infrastructure costs and gain remote accessibility.
+The company positions itself as an industry standard, bundling formerly separate functions into one integrated platform. Professional property managers, mid-market operators, and some institutional landlords all use the software, though the most reliable customer base is professional management firms bound by operational consistency and regulatory compliance.
 
-## Capital structure and ownership
-
-The company is publicly traded on the [Nasdaq stock exchange](/wiki/stock-exchange/), giving it access to public markets for capital raises. Institutional investors, retail investors, and company insiders hold shares. As with most public SaaS companies, AppFolio's capital structure includes common stock and may include options and restricted stock units as compensation for employees.
-
-## How to research it
-
-The company files regular reports with the [Securities and Exchange Commission](/wiki/sec-regulator/). Its [10-K filing](/wiki/10-k/) provides an annual overview of business operations, risk factors, market position, and financial performance. Quarterly [10-Q filings](/wiki/10-q/) offer interim updates. These documents are available on the SEC's [EDGAR database](/wiki/sec-edgar/) and on AppFolio's investor relations website. Reviewing the [management discussion and analysis (MD&A)](/wiki/md-a/) section of these filings gives insight into how company leadership views its competitive position, market trends, and operational challenges.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Software-as-a-Service (SaaS)](/wiki/saas/)
-- [Real estate technology](/wiki/real-estate-tech/)
-- [Cloud computing infrastructure](/wiki/cloud-computing/)
-- [Recurring revenue models](/wiki/recurring-revenue/)
-
-### Wider context
-
-- [Technology sector](/wiki/technology-sector/)
-- [Commercial real estate](/wiki/commercial-real-estate/)
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-
-</div>
+See also: [10-K](/wiki/10-k/), [public company](/wiki/public-company/), [saas](/wiki/saas/)

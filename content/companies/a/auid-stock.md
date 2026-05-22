@@ -1,61 +1,20 @@
 ---
 title: "authID Inc. (AUID)"
-description: "Digital identity verification company providing biometric authentication and fraud prevention solutions for financial services and government."
+description: "Digital identity verification and biometric authentication company delivering solutions for customer onboarding, fraud prevention, and regulatory compliance in financial services."
 keywords:
-  - authID
-  - AUID
-  - digital identity
+  - digital identity verification
   - biometric authentication
-  - identity verification
+  - identity management
+  - know-your-customer
   - fraud prevention
+  - fintech
+handwritten: true
 ---
 
-*[authID Inc.](https://www.authid.ai/)* (**AUID**) is a digital identity company that develops biometric authentication and identity verification technologies. The company provides solutions for financial institutions, government agencies, and enterprises seeking to verify customer identity, prevent fraud, and streamline digital onboarding processes.
+**authID Inc. is a software company providing digital identity verification and biometric authentication solutions for financial institutions, payment processors, and regulated enterprises.** The firm operates within the identity-management and cybersecurity sectors, delivering cloud-based platforms that combine facial biometric analysis, document authentication, and behavioral indicators to verify customer identity during onboarding and ongoing transactions.
 
-<aside class="wiki-infobox">
+The company's technology automates the identity verification process by analyzing facial biometrics, validating identity documents, and checking applicant data against regulatory databases and risk models. This automation addresses a critical workflow bottleneck in financial services: the time and cost required to manually verify new customer identities while maintaining compliance with know-your-customer (KYC) and anti-money-laundering (AML) regulations. Rather than forcing financial institutions to choose between customer friction and operational cost, authID's platform aims to deliver speed, accuracy, and scalability in a single offering. For fintech companies and banks operating in competitive customer acquisition environments, removing identity verification delay from the onboarding flow can meaningfully improve conversion rates and reduce abandonment.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AUID |
-| **Listing** | US-listed; ticker AUID |
-| **SEC CIK** | 1534154 |
-| **Sector** | Technology / Financial Services |
-| **Industry** | Cybersecurity and Identity Verification |
-| **Type** | Public company |
+The addressable market extends across any regulated entity that onboards customers remotely and must verify identity: consumer and commercial banks, payment networks, cryptocurrency exchanges, government agencies, and large retailers operating in jurisdictions with strict identity requirements. Demand has remained elevated as digital payment adoption accelerates globally and regulatory pressure on financial crime detection intensifies. The company's revenue model typically relies on per-transaction licensing fees or subscription-based access to its platform, with additional revenue from implementation services and custom integrations.
 
-</aside>
-
-## What the company does
-
-authID develops and commercializes software platforms that perform real-time identity verification using biometric and behavioral analysis. The company's core technology processes facial recognition, liveness detection, and document authentication to confirm a person's identity during customer onboarding and ongoing account access scenarios. Its solutions operate in cloud-based and on-premise configurations.
-
-## Identity verification in financial services
-
-Banks and financial institutions face persistent pressure to balance customer convenience against regulatory compliance and fraud risk. authID's platform targets the friction point of identity verification—the process of confirming that a customer is who they claim to be. By automating this workflow through biometric matching against government-issued identification documents, the company positions itself within the broader fintech ecosystem that addresses regulatory requirements like [Know Your Customer (KYC)](/wiki/know-your-customer/) mandates.
-
-## Business model and revenue
-
-The company generates revenue through licensing arrangements with financial institutions, payment processors, and government agencies. Revenue typically comes from per-transaction fees, subscription licensing, or implementation and integration services. The recurring nature of transaction-based billing aligns revenue with customer transaction volumes.
-
-## Competitive context
-
-Digital identity verification has become increasingly competitive as major cloud platforms and security vendors have expanded into this space. Competitors include both specialized identity companies and large software firms entering the market. Success depends on technological performance (accuracy of biometric matching, false-positive rates), compliance certifications, enterprise customer relationships, and the ability to integrate into existing banking infrastructure.
-
-## Capital structure and development
-
-Like many technology-focused companies in fintech and cybersecurity, authID's path to profitability depends on scaling customer adoption faster than operating expense growth. The company's primary uses of capital center on research and development for its core platform, sales and marketing to expand its customer base, and operational infrastructure to support service delivery.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Know Your Customer (KYC)](/wiki/know-your-customer/)
-- [Biometric identification](/wiki/biometric-identification/)
-- [Cybersecurity stocks](/wiki/cybersecurity-stocks/)
-- [Financial services technology](/wiki/fintech-stocks/)
-
-### Wider context
-- [Fraud prevention and detection](/wiki/fraud-prevention/)
-- [Cloud computing infrastructure](/wiki/cloud-computing/)
-- [Digital transformation in banking](/wiki/digital-transformation-banking/)
-
-</div>
+Competition in digital identity verification has intensified as larger software vendors, cloud infrastructure providers, and specialized security firms have entered the space. Success depends on sustained technological advantage (biometric matching accuracy, low false-positive rates), enterprise customer relationships, integration simplicity with legacy banking systems, and ability to maintain compliance certifications across multiple regulatory jurisdictions. Like other fintech infrastructure providers, authID's path to profitability hinges on expanding customer adoption while controlling sales and development expenses and maintaining high gross margins on incremental transaction volume.

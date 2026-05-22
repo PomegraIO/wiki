@@ -1,65 +1,21 @@
 ---
 title: "AMERICAN STATES WATER CO (AWR)"
-description: "AMERICAN STATES WATER CO operates regulated water and wastewater utilities serving communities across the southwestern United States."
+description: "Regional water and wastewater utility serving over 1 million people across California, Hawaii, and New Mexico with regulated rate-base operations."
 keywords:
-  - American States Water
-  - AWR
   - water utility
-  - wastewater
+  - wastewater treatment
   - regulated utility
-  - public company
+  - essential services
+  - rate-base business
+handwritten: true
 ---
 
-*[AMERICAN STATES WATER CO](/wiki/awr-stock/) (**AWR**) is a regulated water and wastewater utility company that supplies and treats water and wastewater services to communities across the southwestern United States, operating through subsidiary utilities that serve residential, commercial, and industrial customers.*
+American States Water Company is a regional water and wastewater utility serving approximately 1.4 million people across California, Hawaii, and New Mexico. Unlike commodity businesses or industrial operators, AWR's revenue comes from a [regulated utility](/wiki/public-company/) model where rates are set by state public utility commissions to allow the company a fair return on its invested capital. This structure creates predictable cash flows and limited growth, but it also insulates the business from most competitive pressures—there is no cost-cutting competitor undercutting prices, no technology disruption, and no cyclical demand shock like you see in airlines or construction.
 
-<aside class="wiki-infobox">
+The company operates two main segments: water service and wastewater service. The water segment delivers drinking water to customers; the wastewater segment collects and treats sewage. Both are essential services with inelastic demand—people need water regardless of economic conditions, and wastewater must be treated by law. Roughly two-thirds of revenue comes from water service, with the remainder from wastewater. Within these segments, most customers are residential, though commercial and industrial accounts contribute material revenue. Rate-regulated utilities serve customers under franchise agreements and service area monopolies, meaning AWR does not face direct competition for customers within its territory. Rates are established through regulatory proceedings where the utility presents costs, capital needs, and a target return on equity to the state commission, which approves or adjusts the rates. This process takes months and involves negotiation, but once rates are set, they generally remain in effect for one to three years.
 
-| Key Fact | Value |
-|----------|-------|
-| **Ticker** | AWR |
-| **Listing** | US-listed; ticker AWR |
-| **SEC CIK** | 1056903 |
-| **Sector** | Utilities |
-| **Industry** | Water and Wastewater Management |
-| **Headquarters** | San Jose, California |
-| **Type** | Public Company |
+Capital investment is central to the water utility business. Pipes, treatment plants, pumping stations, and storage facilities require continuous maintenance, replacement, and expansion to meet growing demand and comply with increasingly stringent environmental and water quality standards. Federal and state regulations on drinking water quality, wastewater treatment, and energy efficiency drive significant capital spending. AWR's [10-K](/wiki/10-k/) filing discloses the company's utility plant assets and depreciation expense, giving insight into the asset base from which regulated returns are earned. The company finances these capital programs through a combination of cash from operations, debt, and equity issuance. Higher capital intensity means the business is moderately leveraged—utility companies typically operate with debt-to-capital ratios in the 40–55% range—and earnings growth is tied to approved rate increases and successful rate-base expansion rather than volume growth or operational leverage.
 
-</aside>
+Key operational concerns for water utilities include population growth (increases customer base), water scarcity and drought (affects supply costs and demand), regulatory changes (can increase compliance spending), and inflation in construction and labor costs. The [stock](/wiki/stock/) tends to be defensive, favored by income-focused investors seeking dividend stability and by those viewing utilities as inflation hedges when regulated returns track inflation. Earnings per share growth is typically modest—in the 3–7% range annually—but dividend yields are often solid and the payout ratio is typically sustainable. The company's financial performance is transparent in its regulatory filings, and analyst expectations around rate case outcomes drive stock movement more than operational surprises.
 
-## What the company does
-
-American States Water operates water and wastewater utility systems that deliver essential services to residential, commercial, agricultural, and industrial customers across the southwestern United States. The company's operations are geographically diversified, with subsidiaries managing regulated water and wastewater systems in California and other states. It also maintains contracted operations for water systems owned by public entities. As a [regulated utility](/wiki/public-company/), the company operates under the oversight of state public utility commissions that review rate structures, service standards, and capital investments.
-
-## How it makes money
-
-The company generates revenue primarily from rates charged to water and wastewater customers. Customer bills are structured under rate schedules approved by state utility regulators, which determine how costs are recovered and what returns on capital are allowed. Revenue comes from volumetric charges based on customer consumption, service charges, and specialty fees. The regulated model creates relative predictability in revenue, though it depends on regulatory approval of rate adjustments and the company's ability to demonstrate that rate increases are justified by costs and capital needs.
-
-## Market position and scale
-
-American States Water holds a significant position in water utility operations across the southwestern region, managing systems that serve tens of thousands of metered connections. As a [regulated utility](/wiki/public-company/), the company competes not through price but through operational efficiency, capital investment discipline, and regulatory relationships. The utility operates in an essential services sector with high barriers to entry due to regulatory requirements and infrastructure requirements, which characterizes the water utility industry alongside larger national water operators.
-
-## Capital structure and operations
-
-The company funds its operations and capital expansion through operating cash flow, debt issuance, and equity capital. Water and wastewater utilities are capital-intensive, requiring ongoing investment in system infrastructure, treatment facilities, and distribution networks. American States Water manages these needs through [utility commission](/wiki/public-company/)-approved rate structures that allow cost recovery and permitted returns. The regulated environment creates stable but constrained growth opportunities, as rates are determined by regulators and customer bases are limited by service territory boundaries.
-
-## How to research it
-
-Start with the company's annual [10-K](/wiki/10-k/) filing and quarterly [10-Q](/wiki/10-k/) filings with the SEC, which contain detailed information about operating metrics, service territories, regulatory proceedings, and capital investment plans. The 10-K covers water production volumes, customer counts, average rates, and regulatory commission interactions. Review the company's investor relations website for quarterly earnings calls, regulatory filings with state public utility commissions, and updates on rate case decisions. Watch for regulatory developments, as utility commission rate decisions directly affect the company's financial prospects and returns.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Regulated utility](/wiki/public-company/)
-- [Utility commission](/wiki/public-company/)
-- [10-K](/wiki/10-k/)
-- [Dividend](/wiki/dividend/)
-
-### Wider context
-
-- [Water and wastewater industry](/wiki/public-company/)
-- [Essential services infrastructure](/wiki/public-company/)
-- [Regulated markets](/wiki/public-company/)
-- [Dividend aristocrats](/wiki/dividend-aristocrats/)
-
-</div>
+Investors in water utilities are often attracted to the defensive nature of the business, the long-term secular tailwind of aging infrastructure replacement and tightening environmental rules, and the visibility of regulatory returns. The trade-off is limited upside relative to growth companies and vulnerability to changes in regulatory treatment, particularly if regulators shift to lower allowed returns or tighter cost approval. Understanding AWR therefore requires reading its recent rate case filings and regulatory decisions, tracking population and customer growth in its service areas, monitoring capital spending plans, and understanding the current allowed return on equity in each of its state jurisdictions.

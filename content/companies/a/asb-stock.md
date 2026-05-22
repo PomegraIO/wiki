@@ -1,58 +1,28 @@
 ---
 title: "ASSOCIATED BANC-CORP (ASB)"
-description: "Regional bank holding company providing retail and commercial banking services across the Midwest and Southwest United States."
+description: "Upper Midwest regional bank holding company operating retail and commercial banking franchises through subsidiary banks in Wisconsin and adjacent states."
 keywords:
-  - Associated Banc-Corp
-  - ASB
-  - banking
   - regional bank
-  - financial services
-  - Midwest banking
+  - midwest banking
+  - community bank
+  - commercial lending
+handwritten: true
 ---
 
-*[**Associated Banc-Corp**](/wiki/public-company/) (**ASB**) is a regional [**bank holding company**](/wiki/bank-holding-company/) that serves consumers and businesses through traditional and digital banking services across multiple states in the United States.*
+Associated Banc-Corp operates as a [**public company**](/wiki/public-company/) delivering retail and commercial banking through a network of subsidiary banks, the largest of which carries the Associated Bank name across Wisconsin, Minnesota, and Illinois. The platform is neither a megabank nor a speciality lender—it is a mid-sized regional institution competing on relationship depth, local decision-making, and understanding of agricultural and manufacturing economies in the upper Midwest.
 
-<aside class="wiki-infobox">
-| Property | Value |
-|----------|-------|
-| Ticker | ASB |
-| Listing | US-listed; traded on NASDAQ under ticker ASB |
-| SEC CIK | 7789 |
-| Sector | Financial Services |
-| Industry | Banking |
-| Type | Bank Holding Company |
-</aside>
+## The Revenue Model
 
-## What the company does
+The company's income comes primarily from net interest spreads—the difference between what it earns on loans and what it pays on deposits. Commercial real estate lending, agricultural credit, and small-business loans form the backbone of the loan portfolio. Deposit gathering through retail branches provides the funding base. Additional income flows from wealth management fees, deposit service charges, and loan origination fees, but the core business is simple: attract deposits, lend them out, pocket the spread, and manage credit risk carefully.
 
-Associated Banc-Corp operates through its subsidiary banks to provide a range of [**financial services**](/wiki/financial-services/) including deposit accounts, [**loans**](/wiki/loan/), investment services, and wealth management products. The company serves both individual customers and commercial clients, with particular focus on small-to-medium-sized businesses. Its service model combines traditional branch banking with digital banking capabilities designed to serve the evolving preferences of its customer base.
+The [**net interest margin**](/wiki/net-interest-margin/) compresses or expands depending on the [**interest-rate environment**](/wiki/interest-rate-risk/). When the [**Federal Reserve**](/wiki/federal-reserve/) pushes rates higher, borrowing costs for deposits rise, squeezing margins. When rates fall, customers refinance existing loans at lower rates, reducing yield. This makes regional banks highly sensitive to [**monetary policy**](/wiki/monetary-policy/) shifts and the shape of the [**yield curve**](/wiki/fixed-rate-mortgage/).
 
-## How it makes money
+## Capital and Regulatory Context
 
-The company generates revenue primarily through net interest income, which arises from the spread between interest earned on loans and investments and interest paid on deposits and borrowings. Additional revenue streams include [**fee-based services**](/wiki/fee-based-income/) such as service charges on deposit accounts, lending fees, advisory fees from wealth management operations, and insurance-related income. Like most [**regional banks**](/wiki/regional-bank/), Associated Banc-Corp's profitability depends on managing its [**net interest margin**](/wiki/net-interest-margin/) and controlling [**cost of funds**](/wiki/cost-of-funds/).
+As a federally regulated bank holding company with a [**CIK of 7789**](/wiki/10-k/), Associated files [**10-K reports**](/wiki/10-k/) disclosing loans by category, deposit funding sources, capital ratios, and credit losses. The company must maintain adequate [**capital**](/wiki/capital-structure-arbitrage/) to absorb loan losses and fund growth. Excess capital may be returned via [**dividends**](/wiki/dividend-yield/) or share buybacks, though boards typically prioritize maintaining a strong buffer in volatile economies.
 
-## Where it sits in its industry
+Credit risk is the defining challenge. Regional banks cannot diversify losses the way national platforms do. A recession in the Midwest or a severe agricultural downturn can impair many borrowers at once. The [**10-K**](/wiki/10-k/) discloses the composition of the loan portfolio, loss allowances, and problem loan trends—essential reading for anyone assessing whether management is pricing risk appropriately.
 
-Associated Banc-Corp is one of the larger regional banks in the United States, competing with other mid-sized financial institutions that serve regional markets. The regional banking sector faces ongoing consolidation pressures and competition from larger national banks with broader geographic presence and from digital-native financial service providers. Regional banks like Associated Banc-Corp traditionally compete on relationship banking, community presence, and faster decision-making compared to larger institutions.
+## Competitive Position
 
-## How to research it
-
-Investors and analysts examining Associated Banc-Corp should review its [**10-K**](/wiki/10-k/) annual filings with the [**SEC**](/wiki/sec/) for comprehensive information about business segments, financial performance, and risk factors. Quarterly [**10-Q**](/wiki/10-q/) reports provide timely updates on earnings, [**loan portfolios**](/wiki/loan-portfolio/), [**deposit trends**](/wiki/deposits/), and [**capital adequacy ratios**](/wiki/capital-adequacy-ratio/). Earnings call transcripts and investor presentations offer management commentary on competitive conditions and strategic priorities. Industry analysis from financial institutions research providers offers [**peer comparisons**](/wiki/peer-comparison/) with similarly-sized regional banks.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Banking](/wiki/banking/)
-- [Bank holding company](/wiki/bank-holding-company/)
-- [Regional bank](/wiki/regional-bank/)
-- [Net interest margin](/wiki/net-interest-margin/)
-- [Loan portfolio](/wiki/loan-portfolio/)
-
-### Wider context
-- [Financial services sector](/wiki/financial-services/)
-- [Commercial banking](/wiki/commercial-banking/)
-- [Consumer banking](/wiki/consumer-banking/)
-- [Banking regulation](/wiki/banking-regulation/)
-- [10-K](/wiki/10-k/)
-
-</div>
+Associated competes against larger regional banks with broader footprints, national banks offering lower-cost deposits through scale, and digital-native lenders bypassing branch infrastructure. The company survives by knowing its markets deeply, serving middle-market business owners who value fast approvals and personalized service, and maintaining community ties that national competitors do not develop easily. That said, margin compression from fintech competition and the natural consolidation of the regional banking sector pose persistent challenges to standalone mid-sized operators.

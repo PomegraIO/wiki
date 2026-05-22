@@ -1,63 +1,32 @@
 ---
 title: "Arcutis Biotherapeutics, Inc. (ARQT)"
-description: "Biopharmaceutical company developing treatments for inflammatory skin diseases, autoimmune disorders, and other conditions."
+description: "Late-stage biotech developer of topical treatments for immune-mediated skin diseases like psoriasis and atopic dermatitis."
 keywords:
-  - Arcutis Biotherapeutics
-  - ARQT
-  - biopharmaceutical
   - dermatology
-  - inflammatory skin diseases
+  - immunotherapy
+  - biotech
+  - topical treatments
+  - psoriasis
+  - atopic dermatitis
+handwritten: true
 ---
 
-*[Arcutis Biotherapeutics, Inc.](/wiki/arqt-stock/) (**ARQT**) is a [biopharmaceutical](/wiki/biopharmaceutical/) company focused on developing and commercializing small molecule drugs for inflammatory skin diseases, autoimmune disorders, and other conditions. The company operates within the [healthcare](/wiki/healthcare-sector/) and pharmaceutical sectors.*
+## What does Arcutis actually treat?
 
-<aside class="wiki-infobox">
+Arcutis is a late-stage biopharmaceutical company focusing on immune-mediated dermatological diseases—a field called immuno-dermatology. The company was founded in 2016 to address stubborn, hard-to-treat skin conditions where existing therapies fall short. Its development platform leverages advances in immunology and inflammation science to target diseases ranging from plaque psoriasis to atopic dermatitis to alopecia areata and vitiligo. The work sits at the intersection of dermatology and immunology, treating conditions that traditionally required systemic drugs or had limited options.
 
-| Key Fact | Details |
-|----------|---------|
-| **Ticker** | ARQT |
-| **Listing** | US-listed; traded under ticker ARQT |
-| **SEC CIK** | 1787306 |
-| **Sector** | Healthcare |
-| **Industry** | Biopharmaceutical |
-| **Type** | [Public company](/wiki/public-company/) |
+## What is ZORYVE and why does it matter?
 
-</aside>
+Arcutis' lead product is ZORYVE, a topical roflumilast cream already approved for plaque psoriasis and atopic dermatitis. Roflumilast is a phosphodiesterase 4 (PDE4) inhibitor—a mechanism that dampens inflammatory signaling in skin without requiring pills or injections. ZORYVE's significance lies in offering patients a non-systemic, localized option for conditions that often drive them toward biologic medications or immunosuppressants with broader side effects. As a topical, it avoids the systemic absorption issues that make some oral anti-inflammatories risky for long-term dermatology use.
 
-## What the company does
+## Where does the rest of the pipeline stand?
 
-Arcutis Biotherapeutics develops targeted, small-molecule therapies designed to address unmet medical needs in dermatology and immunology. The company's research and development efforts concentrate on inflammatory and immune-mediated skin diseases, including conditions such as psoriasis, atopic dermatitis, and other chronic inflammatory disorders. By focusing on small molecules rather than biologics, Arcutis pursues approaches intended to offer advantages in administration, cost, and accessibility compared to some alternative therapeutic modalities.
+Beyond ZORYVE, Arcutis is advancing multiple programs targeting different unmet needs. ARQ-154 is a topical foam formulation also using roflumilast, designed specifically for scalp and body psoriasis and seborrheic dermatitis. ARQ-255 is a selective JAK1 inhibitor in clinical development for alopecia areata, a condition with sparse approved treatments. ARQ-252, another JAK1-selective topical, targets hand eczema and vitiligo. ARQ-234, a CD200R fusion protein, represents a different mechanism for inflammatory skin disease. The pipeline reflects the company's strategy of building depth in topical and targeted systemic treatments for conditions where current options are inadequate.
 
-## How it makes money
+## How does Arcutis compete in dermatology?
 
-The company's primary business model centers on drug development and eventual commercialization of approved pharmaceuticals. Like other [biotech](/wiki/biotechnology-company/) firms in early-to-mid stage development, Arcutis generates minimal revenue from product sales during the development phase. Revenue historically derived from research collaborations, milestone payments, and other partnership arrangements. As clinical programs advance toward approval and market launch, the company expects revenue to shift toward product sales from marketed therapeutics. Until that point, operations depend on capital raised through equity offerings, debt financing, or other funding mechanisms.
+The dermatology biotech space has become crowded, but Arcutis' focus on immune-mediated skin diseases and topical delivery positions it alongside larger players developing JAK inhibitors and biologics for similar indications. The company acquired Ducentis BioTherapeutics to expand its platform. Arcutis must compete on efficacy, tolerability, and convenience—topical treatments that work without systemic exposure carry inherent appeal for patients seeking minimal side effects, but proof of clinical superiority and market uptake will determine its competitive standing as newer therapies emerge.
 
-## Clinical and regulatory progress
+## What drives investor interest and risk?
 
-Arcutis has conducted or continues clinical trials for its investigational compounds. Development candidates have addressed conditions including generalized pustular psoriasis, plaque psoriasis, atopic dermatitis, and other inflammatory skin conditions. The company's regulatory pathway and approval timeline depend on successful completion of required clinical trials, interactions with regulatory authorities such as the FDA, and demonstration of safety and efficacy in patient populations. Like all biopharmaceutical developers, Arcutis faces typical risks including trial failures, regulatory delays, and competitive pressures from other therapies in development or already marketed.
-
-## Where it sits in its industry
-
-The dermatology and immunology pharmaceutical markets attract significant competitive attention. Arcutis competes alongside established pharmaceutical corporations with large R&D budgets, other specialized biotech firms, and academic medical centers. The landscape includes companies pursuing similar indications through different molecular approaches (small molecules, biologics, and other modalities). Success depends on Arcutis' ability to differentiate its therapies through clinical efficacy, safety profiles, ease of use, manufacturing efficiency, and pricing competitiveness.
-
-## How to research it
-
-Investors and researchers can consult Arcutis' [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings with the [SEC](/wiki/sec/) for detailed financial, operational, and regulatory information. These documents, available through the SEC's [EDGAR](/wiki/edgar/) database, provide insight into the company's capital structure, burn rate, cash position, and progress on clinical programs. Conference call transcripts with analysts, investor presentations, and publications from medical and scientific journals covering the company's research contribute additional perspective on its pipeline, competitive standing, and industry trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Biopharmaceutical](/wiki/biopharmaceutical/)
-- [Dermatology market](/wiki/dermatology/)
-- [Atopic dermatitis](/wiki/atopic-dermatitis/)
-- [Psoriasis treatment](/wiki/psoriasis/)
-- [Clinical trials](/wiki/clinical-trial/)
-
-### Wider context
-- [Healthcare sector](/wiki/healthcare-sector/)
-- [Pharmaceutical industry](/wiki/pharmaceutical-industry/)
-- [Drug development lifecycle](/wiki/drug-development/)
-- [FDA approval process](/wiki/fda-approval/)
-- [Biotech valuation](/wiki/biotech-valuation/)
-
-</div>
+Arcutis is valued on its ability to successfully commercialize ZORYVE, expand its label indications, and advance pipeline candidates through clinical and regulatory milestones. Success depends on adequate reimbursement for a topical therapy in a market accustomed to generic solutions, clinical efficacy that justifies premium pricing, and Arcutis' capacity to execute manufacturing and commercial infrastructure. Biotech execution risk is high; any clinical setback, manufacturing issue, or competitive disadvantage can reshape the investment thesis quickly. The company trades on its clinical data, pipeline velocity, and management's ability to capture share in immune-mediated dermatology markets.

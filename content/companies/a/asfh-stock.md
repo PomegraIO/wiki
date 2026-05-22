@@ -1,54 +1,33 @@
 ---
 title: "ASIAFIN HOLDINGS CORP. (ASFH)"
-description: "ASFH is a financial services company engaged in securities trading and investment banking activities with operations across Asia."
+description: "Regional Asia-Pacific investment bank and securities trading firm, US-listed with focus on capital markets and advisory services for institutional clients."
 keywords:
-  - ASIAFIN HOLDINGS CORP
+  - ASIAFIN
   - ASFH
-  - financial services
-  - securities trading
   - investment banking
-  - Asia
+  - securities trading
+  - Asia-Pacific finance
+  - capital markets
+handwritten: true
 ---
 
-*ASIAFIN HOLDINGS CORP.* (**ASFH**) is a financial services company focused on securities trading, investment banking, and related operations serving clients across Asia-Pacific markets.
+## What business is ASIAFIN actually in?
 
-<aside class="wiki-infobox">
+ASIAFIN HOLDINGS CORP. is a financial services firm headquartered and operating across the Asia-Pacific region, with a US listing under ticker ASFH (CIK 1828748). The company operates as a regional investment bank and securities trader, handling capital markets activities, trading operations, and financial advisory services. Unlike the mega-banks with global reach, ASIAFIN is scaled and focused—a specialist participant in Asian capital markets serving institutional clients, corporate issuers, and sophisticated investors who need local market expertise and execution.
 
-| Property | Value |
-| --- | --- |
-| Ticker | ASFH |
-| Listing | US-listed; ticker ASFH |
-| SEC CIK | 1828748 |
-| Type | Financial services company |
+## Who actually uses these services?
 
-</aside>
+The company's client base consists primarily of institutional investors, multinational corporations seeking capital market access in Asia, and regional companies needing equity or debt financing. Investment institutions use ASIAFIN for trading execution and market access; corporate clients approach for underwriting when raising capital through securities offerings or for advisory work on mergers and restructurings. The business is relationship-driven and requires both technical market infrastructure and deep regional knowledge of how different Asian jurisdictions operate.
 
-## What the company does
+## How does it make money?
 
-ASIAFIN HOLDINGS CORP. operates as a financial services firm providing securities trading and investment banking services. The company's platform facilitates capital markets activities and financial advisory services, serving institutional and corporate clients primarily in the Asia-Pacific region.
+Revenue flows from traditional financial services channels. The largest bucket is trading commissions—fees earned when executing client trades in stocks, bonds, and derivatives. Underwriting fees come when ASIAFIN serves as a manager or participant in securities offerings (IPOs, bond issues, capital raises). Advisory work generates its own fee stream: M&A guidance, restructuring counsel, and other investment banking services. Some operations may also involve principal trading (taking positions for the firm's own account), though the magnitude and strategy vary by market environment.
 
-## How it makes money
+## What's the regulatory and competitive landscape?
 
-The company generates revenue through several traditional financial services channels: commissions and fees from securities trading, underwriting fees from capital raising activities, advisory fees for merger and acquisition guidance, and other investment banking services. Revenue models are typical of brokers and investment banks operating in regional markets.
+ASIAFIN operates within the SEC framework as a US-listed public company and must comply with exchange listing standards, SEC disclosure rules, and broker-dealer regulations. On the competitive side, the firm sits between global investment banks (JPMorgan, Goldman, Bank of America) which have greater resources but less regional focus, and smaller independent brokers scattered across individual markets. ASIAFIN's positioning—large enough to handle institutional business but nimble enough to move within Asian markets—is the strategic edge, though maintaining that balance requires execution, relationships, and regulatory acuity across multiple jurisdictions.
 
-## Where it sits in its industry
+## Where can you find the full picture?
 
-ASIAFIN competes in the regional financial services and investment banking sector, where participants range from large multinational investment banks to specialized regional brokers. The company's focus on Asia-Pacific operations positions it to serve growing capital markets in the region, though it faces competition from both global and established regional competitors.
+Review the company's [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings in the SEC database for revenue breakdowns, segment performance, risk disclosures, and management's view of competitive dynamics. These filings will detail which markets generate the most activity, which business lines are growing, and what regulatory or market risks loom. The form 20-F or any proxy statements provide additional governance and ownership context. For real-time trading activity, watch major Asia-Pacific exchanges to see if ASIAFIN is an active intermediary in your target markets.
 
-## How to research it
-
-For detailed financial performance, operational metrics, and corporate governance information, review ASIAFIN's SEC filings, including its [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings. These documents provide comprehensive disclosure on revenue composition, market segments, regulatory matters, and risk factors. The SEC filing database ([SEC Edgar](https://www.sec.gov/cgi-bin/browse-edgar)) is the authoritative source for all public company disclosures.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Investment banking](/wiki/investment-banking/) — The underwriting and advisory services ASIAFIN provides
-- [Securities trading](/wiki/securities-trading/) — Core operational activity
-
-### Wider context
-
-- [Financial services](/wiki/financial-services/) — The industry ASIAFIN operates within
-- [Asia-Pacific markets](/wiki/asia-pacific-financial-markets/) — Geographic focus and client base
-
-</div>

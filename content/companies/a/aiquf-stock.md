@@ -1,58 +1,21 @@
 ---
 title: "L AIR LIQUIDE SA /FI (AIQUF)"
-description: "French multinational industrial gases and engineering company producing oxygen, nitrogen, hydrogen, and providing cryogenic solutions and engineering services globally."
+description: "French industrial gas and engineering giant serving materials, chemicals, healthcare, and electronics sectors across 70+ countries with over a century of operations."
 keywords:
-  - L'Air Liquide
-  - AIQUF
   - industrial gases
-  - cryogenic solutions
-  - engineering services
+  - oxygen nitrogen hydrogen
+  - france multinational
+  - healthcare services
+  - engineering construction
+handwritten: true
 ---
 
-*[**L'Air Liquide SA**](/wiki/public-company/) (**AIQUF**) is a [French multinational](/wiki/public-company/) [industrial gases](/wiki/industrial-sector/) company that produces and distributes oxygen, nitrogen, hydrogen, and other specialty gases for industrial, medical, and research applications. The company also provides engineering services and cryogenic technology solutions to customers worldwide, operating across healthcare, manufacturing, chemicals, and energy sectors.*
+L'Air Liquide stands as one of the world's largest industrial gases suppliers, built on a foundation reaching back to 1902. Headquartered in Paris, the company occupies a pivotal position in global supply chains, delivering oxygen, nitrogen, hydrogen, argon, and specialty gases to industries that form the backbone of modern manufacturing. From steel mills and chemical plants to semiconductor fabs and hospitals, Air Liquide's products are embedded in processes most people never see but depend on every day.
 
-<aside class="wiki-infobox">
+The company operates through three main divisions: Gas & Services, Engineering & Construction, and other activities. Gas & Services splits further into large-scale industrial supply, merchant operations for mid-market customers, healthcare solutions, and electronics specialty materials. The industrial backbone serves materials, energy, and chemical sectors with on-site production and delivery networks. Healthcare adds a layer of recurring revenue through medical gases, home care services, and equipment for hospitals and patients. Engineering & Construction designs and builds the infrastructure that produces and distributes these gases—cryogenic plants, pipeline systems, and integrated energy solutions that lock customers into long-term relationships.
 
-| Key Fact | Detail |
-|----------|--------|
-| **Ticker** | AIQUF |
-| **Listing** | US-traded over-the-counter; ticker AIQUF |
-| **SEC CIK** | 1161167 |
-| **Sector** | Industrial & Chemicals |
-| **Industry** | Industrial Gases & Engineering |
-| **Headquarters** | Paris, France |
-| **Founded** | 1902 |
-| **Type** | Public Company |
+> Industrial gases may sound commoditized, but Air Liquide's scale and engineering capabilities create defensible positions in capital-intensive markets where switching costs are substantial.
 
-</aside>
+The company holds presence in over 70 countries and operates infrastructure that makes it difficult for competitors to displace. When a steelmaker installs an on-site oxygen generator or a refinery relies on Air Liquide's hydrogen supply, the switching costs become prohibitive. This allows Air Liquide to maintain stable margins across market cycles. The healthcare segment adds diversification and recurring demand, as home care services and medical gas distribution depend less on industrial cyclicality.
 
-## What the company does
-
-L'Air Liquide manufactures and delivers industrial gases and provides integrated engineering solutions. The company operates in three primary business lines: industrial gases (the core business), engineering and construction (large-scale projects), and healthcare solutions. Its gas production spans cryogenic distillation of air, steam methane reforming for hydrogen, and synthesis gas production. The company serves customers through on-site production facilities at customer locations, bulk delivery via truck and rail, and merchant gas distribution through retail channels.
-
-## How it makes money
-
-Revenue derives primarily from the sale of industrial gases—oxygen, nitrogen, argon, hydrogen, and specialty gases—sold on long-term, medium-term, and spot contracts. Engineering and construction work generates revenues from designing and building production facilities, gas separation plants, and integrated systems. Healthcare division revenues come from medical oxygen, other respiratory gases, and related healthcare services. The company earns margins through production efficiency, technical expertise, and long-term customer relationships that lock in stable demand.
-
-## Where it sits in its industry
-
-L'Air Liquide is one of the world's largest industrial gases producers, competing with other multinational chemical companies in a concentrated global market. The company maintains competitive advantages through extensive infrastructure, established customer relationships, technical expertise in cryogenic technology, and geographic diversification across Europe, the Americas, Asia-Pacific, and emerging markets. Capital intensity and regulatory barriers to entry protect established players from new competition.
-
-## How to research it
-
-Review the company's annual reports and quarterly filings with the [SEC](/wiki/sec-regulator/) under CIK 1161167 for detailed financial statements, risk factors, and management discussion. The [10-K](/wiki/10-k/) filing provides comprehensive information on business operations, capital expenditures, and strategic initiatives. Analyze the company's balance sheet for capital structure and cash flow generation capability, key metrics in capital-intensive industrial gas businesses. Compare margins and return on invested capital to assess operational efficiency relative to competitors.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Industrial sector](/wiki/industrial-sector/)
-- [Multinational enterprise](/wiki/multinational-enterprise/)
-- [Public company](/wiki/public-company/)
-- [Capital-intensive business](/wiki/capital-intensive-business/)
-
-### Wider context
-- [SEC filings and disclosure](/wiki/sec-regulator/)
-- [Global chemical industry](/wiki/chemical-industry/)
-- [Engineering and construction services](/wiki/engineering-construction/)
-
-</div>
+Challenges include exposure to commodity price fluctuations, energy costs that directly affect production, and geographical concentration in mature developed markets. The company also competes with [Linde](/wiki/stock/), which holds the largest market share globally. Yet Air Liquide's century-old network, engineering expertise, and presence in high-growth applications like hydrogen for energy transition and advanced materials for semiconductors position it to benefit from structural trends rather than suffer from cyclical headwinds alone. The [OTC](/wiki/stock/) ticker AIQUF represents the company's presence in U.S. markets, tracking operations controlled from Paris with roots in European industrial strength.

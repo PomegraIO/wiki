@@ -1,64 +1,33 @@
 ---
 title: "Aptorum Group Ltd (APM)"
-description: "Biopharmaceutical company focused on infectious disease research and drug development, with a portfolio targeting unmet medical needs."
+description: "London-based biopharmaceutical developer with a focus on infectious disease and oncology drug candidates pursuing regulatory approval."
 keywords:
-  - Aptorum Group Ltd
-  - APM
+  - aptorum group
   - biopharmaceutical
   - drug development
   - infectious disease
-  - biotech
+  - oncology
+  - london
+handwritten: true
 ---
 
-*[Aptorum Group Ltd](https://www.aptorumgroup.com/), trading as **APM**, is a biopharmaceutical company engaged in research and development of therapeutic treatments, with a strategic focus on infectious diseases and other areas of unmet medical need. The company operates primarily in the biotech sector, combining early-stage drug discovery with clinical development initiatives.*
+**Aptorum Group is a UK-headquartered biopharmaceutical company hunting for therapeutic openings in infectious disease, oncology, and related fields where approved treatments lag behind clinical need.** The company is tiny and privately funded through equity; it survives on the bet that one or more of its pipeline candidates will reach market or attract acquisition interest before cash runs out.
 
-<aside class="wiki-infobox">
+## Drug pipeline and development stage
 
-| Field | Value |
-|-------|-------|
-| Ticker | APM |
-| Listing | US-listed; ticker APM |
-| SEC CIK | 1734005 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Type | Public company |
+Aptorum maintains projects across several therapeutic areas. Most of its focus lands on infectious diseases and oncology indications—spaces where both orphan designations and large unmet demand coexist. The company screens existing approved drugs for new uses (repurposing), designs novel molecules, and partners with academic labs. Most programs sit in preclinical or early clinical phases; advancement through [10-k](/wiki/10-k/) filings and clinical trial databases reveals whether any candidates are moving toward regulatory submissions.
 
-</aside>
+## How it sustains operations
 
-## What the company does
+As a pre-revenue or minimal-revenue biotech, Aptorum funds research by raising equity capital. The company has no product sales to speak of, only cash burn. Survival depends on continued access to capital markets and the credibility of its pipeline narrative. Partnerships, licensing deals, or acquisition interest from larger pharma would reshape its economics overnight; absent those, it remains a high-risk, high-uncertainty equity position.
 
-Aptorum Group Ltd operates as a biopharmaceutical research and development enterprise. The company's business model centers on identifying and developing novel therapeutic candidates, primarily targeting infectious disease indications that represent significant unmet medical needs. This approach positions the company within the broader category of [public-company](/wiki/public-company/) biotech firms that pursue early-stage and clinical-stage drug development programs. The company's portfolio includes multiple therapeutic programs at various stages of development, from preclinical research through clinical evaluation.
+## At a glance
 
-## How it makes money
+- Headquarters: London, United Kingdom
+- Sector: Biopharmaceutical research and development
+- Pipeline focus: Infectious disease, oncology, gastroenterology
+- Business model: Drug discovery and development; no commercialized products
+- Funding: Equity-based; dependent on capital raises and cash preservation
+- Risk profile: Early-stage biotech with regulatory and scientific execution risk
 
-As an early-stage to mid-stage biopharmaceutical company, Aptorum's revenue model is largely dependent on advancement through its drug development pipeline and potential partnership or licensing arrangements. The company funds operations primarily through [capital-asset-pricing-model](/wiki/capital-asset-pricing-model/) considerations related to equity issuance and strategic financing activities rather than product commercialization at scale. Progress through clinical trials and regulatory approval processes drives valuation and represents critical near-term catalysts.
-
-## Focus on infectious disease
-
-The company's strategic emphasis on infectious disease targets a sector where regulatory pathways may offer expedited development timelines and significant market potential. Infectious disease therapeutics address persistent clinical gaps, particularly in emerging pathogens and antimicrobial resistance. This therapeutic area focus aligns Aptorum's development efforts with both commercial opportunity and public health priorities.
-
-## Research and development structure
-
-Aptorum maintains a lean operational structure typical of early-stage biotech companies, with core expertise concentrated in research, preclinical evaluation, and clinical program management. The company's pipeline candidates are monitored against standard biotech milestones: preclinical success, investigational new drug applications, and clinical trial progression. Understanding the company's progress requires reviewing regulatory filings and clinical trial disclosures.
-
-## How to research it
-
-Investors and researchers can track Aptorum's development progress through its [10-k](/wiki/10-k/) annual reports and [10-k](/wiki/10-k/) quarterly filings with the Securities and Exchange Commission, which provide detailed pipeline updates, clinical trial status, and financial position. The SEC's EDGAR database offers filings under CIK 1734005. Additionally, clinical trial information appears on [ClinicalTrials.gov](https://clinicaltrials.gov/), which lists active and completed studies. Biotech-focused research platforms and industry publications tracking infectious disease therapeutics provide context on competitive positioning and therapeutic area trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical](/wiki/biopharmaceutical/) companies
-- [Drug development](/wiki/drug-development/) pipeline
-- Clinical trial stages
-- [Infectious disease](/wiki/infectious-disease/) therapeutics
-
-### Wider context
-
-- [Healthcare sector](/wiki/healthcare-sector/) dynamics
-- [Biotech investing](/wiki/biotech-investing/) and risk
-- [10-K](/wiki/10-k/) SEC filings
-- Public company [stock](/wiki/stock/) fundamentals
-
-</div>
+Tracking Aptorum requires reading SEC filings under CIK 1734005, monitoring ClinicalTrials.gov for trial updates, and following press releases on partnership or clinical progress milestones.

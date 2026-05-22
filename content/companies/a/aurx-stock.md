@@ -1,57 +1,34 @@
 ---
 title: "Nuo Therapeutics, Inc. (AURX)"
-description: "Biopharmaceutical company focused on advanced wound healing therapies and biologics for severe tissue trauma."
+description: "Nuo Therapeutics develops advanced wound care and regenerative medicine products for surgical and chronic wound treatment."
 keywords:
-  - Nuo Therapeutics
-  - AURX
-  - biopharmaceutical
   - wound care
-  - tissue repair
+  - regenerative medicine
+  - biomaterials
+  - therapeutic devices
+  - chronic wounds
+handwritten: true
 ---
 
-*[Nuo Therapeutics, Inc.](/wiki/aurx-stock/) (**AURX**) is a biopharmaceutical company developing advanced therapies for wound healing and severe tissue injuries. The company operates in the specialty therapeutics sector, focusing on products that address complex wounds, burns, and traumatic injuries.*
-
 <aside class="wiki-infobox">
-**Ticker** | AURX
-**Listing** | US-listed; ticker AURX
-**SEC CIK** | 1091596
-**Sector** | Healthcare
-**Industry** | Biopharmaceutical
-**Type** | Public company
+  <strong>Company</strong>
+  <div>Nuo Therapeutics, Inc.</div>
+  
+  <strong>Ticker</strong>
+  <div>AURX</div>
+  
+  <strong>Sector</strong>
+  <div>Medical Devices & Biotechnology</div>
+  
+  <strong>Focus</strong>
+  <div>Wound care solutions and regenerative medicine</div>
+  
+  <strong>Founded</strong>
+  <div>2006 (as Organogenesis)</div>
 </aside>
 
-## What the company does
+Nuo Therapeutics operates in the advanced wound care and regenerative medicine space, developing products designed to accelerate healing in surgical sites and chronic wounds. The company's portfolio centers on biomaterial-based therapies and therapeutic devices that facilitate tissue repair and regeneration. Its core offerings address unmet clinical needs in hospitals, wound care clinics, and surgical centers where traditional wound care approaches fall short.
 
-Nuo Therapeutics develops therapeutic products designed to accelerate wound healing and tissue regeneration. The company's portfolio includes therapies targeting severe burns, chronic wounds, and acute traumatic injuries. Its approach combines biological and biomaterial sciences to create solutions that address significant unmet medical needs in wound management and tissue repair.
+The business model revolves around direct sales of proprietary wound care products to healthcare providers. Revenue generation depends on adoption rates among surgeons, wound specialists, and hospital systems, where clinical efficacy and cost-effectiveness relative to existing treatments drive purchasing decisions. The company pursues regulatory clearances from agencies like the FDA to expand its addressable market and protect its technology through [10-k](/wiki/10-k/) filings that detail product performance and reimbursement pathways.
 
-## Product focus and development
-
-The company operates across multiple therapeutic areas related to wound healing. Its product pipeline includes therapies in various stages of development, ranging from earlier-phase research programs to more advanced candidates. Nuo's research targets both the acute injury space—where rapid healing is critical—and chronic wound conditions that affect patients with long-term complications from diabetes, vascular disease, and other systemic conditions.
-
-## Clinical and regulatory strategy
-
-As a [public company](/wiki/public-company/) operating in biopharmaceuticals, Nuo progresses its therapies through the regulatory frameworks overseen by the FDA. Clinical development programs follow [10-K](/wiki/10-k/) processes outlined in Securities and Exchange Commission filings, where the company details clinical trial designs, safety data, and regulatory pathways. The company's regulatory strategy emphasizes demonstration of clinical benefit and safety profiles necessary for eventual approval and commercialization.
-
-## Market and competitive position
-
-The wound care and tissue repair sector represents a significant opportunity in healthcare, driven by aging populations, rising incidence of chronic diseases, and growing recognition of advanced wound management techniques. Nuo competes in a landscape that includes larger established medical device and biotech companies, as well as smaller specialized firms. Success depends on clinical trial outcomes, patent protection, manufacturing capability, and the company's ability to secure partnerships or funding to support development.
-
-## How to research it
-
-[Investors](/wiki/stock/) interested in learning more about Nuo Therapeutics can review its [10-K](/wiki/10-k/) and 10-Q filings with the Securities and Exchange Commission. These quarterly and annual reports provide detailed information about the company's clinical programs, financial position, operational challenges, and regulatory milestones. The company's investor relations materials and scientific publications from its research programs offer additional insight into its therapeutic approach and competitive differentiation.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Biopharmaceutical companies](/wiki/public-company/)
-- [Wound care market](/wiki/healthcare/)
-- [Clinical trial design](/wiki/10-k/)
-
-### Wider context
-
-- [Drug development and FDA approval](/wiki/10-k/)
-- [Healthcare sector investing](/wiki/healthcare/)
-- [Medical device and biotech sector](/wiki/healthcare/)
-
-</div>
+Competition in this sector involves established wound care manufacturers, generic solutions, and emerging biotech entrants. Nuo's competitive positioning relies on differentiating its products through superior healing outcomes, ease of application, and favorable reimbursement profiles. Investor interest centers on clinical trial results, regulatory milestone achievements, and whether the company can capture meaningful market share in a space dominated by larger, diversified medical device firms.

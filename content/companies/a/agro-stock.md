@@ -1,51 +1,31 @@
 ---
 title: "Adecoagro S.A. (AGRO)"
-description: "Agricultural company engaged in farming operations, sugar production, and land management in South America."
+description: "South American agricultural operator with land, cattle herds, and sugar-ethanol production across Argentina, Uruguay, and Bolivia."
 keywords:
-  - Adecoagro
-  - AGRO
   - agriculture
-  - sugar production
-  - farming operations
-  - land management
+  - south america
+  - cattle ranching
+  - sugar ethanol
+  - land holdings
+handwritten: true
 ---
 
-*[**Adecoagro S.A.**](/wiki/public-company/) (**AGRO**) is an agricultural and agribusiness company operating farming operations, sugar milling, and land management primarily in South America. The company is engaged in crop production, livestock raising, and value-added processing of agricultural commodities.*
+## Who owns and operates Adecoagro?
 
-<aside class="wiki-infobox">
-**Ticker** | AGRO
-**Listing** | US-listed; ticker AGRO
-**SEC CIK** | 1499505
-**Sector** | Consumer Staples
-**Industry** | Agriculture & Food Production
-**Headquarters** | South America
-**Type** | Public corporation
-</aside>
+Adecoagro is a public [stock](/wiki/stock/) company trading on U.S. over-the-counter markets and regional South American exchanges under ticker AGRO. The company holds substantial operations across three countries—Argentina, Uruguay, and Bolivia—and operates as a multi-asset agricultural enterprise combining land ownership, livestock operations, and commodity processing rather than specializing in a single product line.
 
-## What the company does
+## What business segments drive the company?
 
-Adecoagro operates diversified agricultural businesses across South America, including crop farming (grains, sugar cane), livestock operations (beef cattle), and sugar and ethanol processing and milling. The company manages substantial land holdings and converts raw agricultural commodities into higher-value processed products. Operations span multiple countries and climatic zones, providing geographic diversification. The company sells sugar, ethanol, beef, and grains to wholesale and export markets. Vertical integration from farming to processing provides operational leverage and margin expansion.
+The company operates through three main divisions. Land and cattle account for the bulk of operations: Adecoagro holds large tracts of agricultural land used for both crop production and cattle ranching, running one of the larger beef cattle herds in the region. A second segment focuses on sugar and ethanol production in Argentina, where the company operates a sugar mill and refines sugarcane into ethanol for the local fuel market. A smaller third segment includes crops like rice and grains across its holdings, which benefit from seasonal commodity price cycles but require less long-term capital than livestock operations.
 
-## How it makes money
+## How does the company generate cash?
 
-Revenue comes from the sale of agricultural products and processed commodities to domestic and international buyers. Crop revenues depend on production volumes, commodity prices, and yields. Sugar and ethanol sales generate revenue from milling operations and sales at wholesale prices. Livestock operations generate beef sales revenue. Profitability is sensitive to commodity prices, agricultural yields (affected by weather, pests, and farming practices), operating efficiency, and land values. The company may also earn income from land appreciation if properties appreciate over time.
+Revenue streams are tied to commodity prices and land productivity. Cattle sales and live animal exports generate cash from herds that take years to develop, making this segment capital-heavy but with more stable margins than grain trading alone. Sugar milling and ethanol refining depend on sugarcane harvest volumes and energy prices; crushing margins compress when feedstock costs spike relative to ethanol prices. Agricultural land leasing and crop output from owned or managed acreage expose the company to grain prices, though this segment is typically smaller. The company's [balance sheet](/wiki/balance-sheet/) carries substantial land holdings valued at cost, which serve as collateral and potential liquidity reserves.
 
-## Where it sits in its industry
+## What are the financial characteristics and risks?
 
-Adecoagro operates in competitive global agricultural and commodity markets, competing with other large diversified agribusinesses, specialized crop farmers, and livestock operators. The company's scale, geographic diversification, and vertical integration (from farming to processing) provide competitive advantages. However, the business remains exposed to commodity price volatility, weather risks, and input cost inflation. Market opportunities come from growing global demand for food and biofuels, though competition is intense globally.
+As an operator of natural-asset businesses, Adecoagro carries commodity price exposure across cattle, sugar, ethanol, and grains. Currency risk is material: the company operates in multiple countries with different economic conditions and reports earnings in U.S. dollars while transacting in Argentine pesos, Uruguayan pesos, and Bolivian bolivianos. South American regulatory, political, and inflation environments introduce volatility that domestic agricultural companies do not face. Land values fluctuate based on regional demand, currency shifts, and agricultural policy changes. The company's success depends on effective pasture and herd management, timely harvests, and favorable commodity spreads—particularly the crush margin between sugarcane input cost and ethanol output price.
 
-## How to research it
+## Why would an investor look at it?
 
-Investors should examine the company's [10-K annual report](/wiki/10-k/) and [10-Q quarterly filings](/wiki/10-q/) for production volumes, commodity prices realized, processing margins, and land holdings. Agricultural commodity price trends (corn, sugar, beef) and global supply-demand dynamics inform the business outlook. Industry reports on global agricultural production, farm economics, and commodity futures markets provide context. Analysis should include weather impacts on yields, input cost trends (fertilizer, fuel), and geopolitical factors affecting trade and export markets.
-
-<div class="wiki-seealso">
-### Closely related
-- [Agriculture and farming](/wiki/agriculture-and-farming/)
-- [Commodity markets](/wiki/commodity-markets/)
-- [Food production](/wiki/food-production/)
-
-### Wider context
-- [Consumer staples sector](/wiki/consumer-staples-sector/)
-- [Commodity exposure](/wiki/commodity-exposure/)
-- [Stock](/wiki/stock/)
-</div>
+Adecoagro appeals to investors seeking exposure to South American agricultural output and land holdings outside pure commodity speculation. Unlike grain traders or milling companies tied to single commodities, Adecoagro's land base and herd size provide some buffer against commodity price swings through operational leverage. The company's scale in Argentina and Uruguay positions it to benefit if agricultural exports rise or if regional currencies stabilize. Investors interested in emerging-market agricultural infrastructure and [public companies](/wiki/public-company/) with real land and herds rather than pure farming contracts may view it as a diversified regional play. The ADR structure allows U.S. investors to participate in South American agriculture without holding local-market equities.

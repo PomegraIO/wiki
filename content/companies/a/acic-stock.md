@@ -1,56 +1,32 @@
 ---
 title: "AMERICAN COASTAL INSURANCE Corp (ACIC)"
-description: "A specialty insurance company providing coastal property, marine, and weather-related coverage to residential and commercial customers."
+description: "A regional property and casualty insurer specializing in coastal homeowners and commercial property coverage in hurricane-prone markets."
 keywords:
-  - American Coastal Insurance
-  - ACIC
-  - property insurance
   - coastal insurance
+  - property and casualty
   - homeowners insurance
+  - underwriting
+  - reinsurance
+handwritten: true
 ---
 
-*[American Coastal Insurance Corp.](/wiki/public-company/) (ticker **ACIC**) is a specialty [property insurer](/wiki/property-insurance/) providing coastal property, marine, and weather-related [insurance](/wiki/insurance/) coverage. The company specializes in underwriting risks in coastal regions exposed to hurricanes, storms, and other natural hazards.*
+AMERICAN COASTAL INSURANCE Corp is a property and casualty insurer concentrated in coastal markets where hurricane and windstorm exposure limits the appetite of larger competitors. Rather than operating a nationwide portfolio balanced with inland risks, the company has chosen a focused strategy on residential and commercial properties in coastal zones, primarily along the Atlantic and Gulf seaboards. This specialization requires disciplined underwriting and precise pricing to remain profitable when catastrophic losses inevitably strike.
 
-<aside class="wiki-infobox">
+The fundamentals of the business are simple: collect premiums, pay claims and operating costs, and invest the difference. What makes coastal property insurance difficult is timing. A benign hurricane season yields strong underwriting profit and compounding returns on the investment portfolio. A major storm year can erase a decade of accumulated earnings in weeks. This volatility is why [reinsurance](/wiki/reinsurance/) exists—ACIC purchases protection that transfers the tail risk of a catastrophic event to specialty insurers and capital markets, capping the company's maximum loss and protecting its balance sheet.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ACIC |
-| Listing | US-listed; ticker ACIC |
-| SEC CIK | 1401521 |
-| Sector | Insurance |
-| Industry | Property & Casualty Insurance |
-| Type | Public corporation |
+Premium income grows through two channels: rate increases and policy count expansion. When claims experience justifies it, the company can push prices upward; when competition intensifies or underwriting results deteriorate, premium growth stalls. Policy retention—the percentage of customers who renew each year—is equally critical, since acquiring a new customer costs money while retaining an existing one is efficient.
 
-</aside>
+## Where ACIC's premium dollar comes from
 
-## What the company does
+| Line of Business | Characteristics |
+|---|---|
+| **Homeowners** | Primary exposure; single-family and multi-unit residential in coastal geographies |
+| **Commercial Property** | Secondary but growing; office, retail, and small industrial properties in selected markets |
+| **Wind/Hail** | Focused coverage for catastrophe peril; often sold as endorsements or standalone policies |
+| **Marine & Specialty** | Smaller segment; yacht, inland marine, and other niche coverages |
 
-American Coastal Insurance writes [property insurance](/wiki/property-insurance/) policies covering residential and commercial properties, primarily in coastal and hurricane-prone regions. The company underwrites homeowners insurance, condominium coverage, commercial property, and marine insurance. Its underwriting focuses on properties exposed to coastal hazards, including hurricane damage, wind, and flood. The company manages underwriting risk through selective risk acceptance, pricing to reflect peril exposure, and reinsurance arrangements that transfer large losses to reinsurers.
+Homeowners insurance dominates the revenue mix and represents the largest concentration of risk. The company underwrites policies selectively, using catastrophe modeling to estimate exposure and pricing to ensure adequate margin. Investment income supplements underwriting profit, with reserves deployed conservatively to preserve capital and liquidity for claim payments during loss seasons. The [10-k](/wiki/10-k/) filing reveals detailed breakdowns of premiums by state and coverage type, loss ratios, reserve adequacy, and reinsurance structures.
 
-## How it makes money
+Successful coastal insurers balance three competing pressures: the desire to grow and gain market share, the prudence required to avoid catastrophic underwriting losses, and the regulatory scrutiny that monitors solvency and claims-paying ability. ACIC's management must navigate these constantly, raising prices when necessary even if it means losing customers to state insurance pools or national competitors, and maintaining discipline during soft markets when competitive pressure tempts loosening underwriting standards. Investors should monitor quarterly filings for trends in policy count, loss ratios, and reserve development—early warning signals that underwriting assumptions are accurate or have begun to erode.
 
-American Coastal generates revenue from insurance premiums collected from policyholders. Profitability depends on the difference between premiums collected and claims paid, plus investment returns on reserves. The insurance underwriting model requires accurate pricing to generate profit: premiums must exceed expected claims and operating expenses. Additional revenue comes from investment income on reserves held for claims. In years with few natural disasters, underwriting is profitable; in catastrophic years, claims losses can exceed premiums, resulting in losses.
 
-## Where it sits in its industry
-
-American Coastal operates in the specialty property insurance market, competing with national insurers, regional carriers, and state-run insurer-of-last-resort programs (like state property insurance pools). The company faces unique challenges from increasing coastal property values, climate change impacts on storm frequency and severity, and reinsurance cost inflation. Coastal insurers must balance the desire to underwrite profitable business with exposure management and regulatory requirements. Competition comes from larger insurers that also underwrite coastal property, as well as state pool policies that provide coverage when private insurance is unavailable.
-
-## How to research it
-
-American Coastal's [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings detail policies in force, premiums by geography and coverage type, loss ratios, and investment portfolio composition. SEC documents outline reinsurance arrangements, catastrophe modeling, and exposure to major hurricanes or events. Investor presentations discuss underwriting discipline, pricing strategies, and capital management. Insurance industry publications track claims reserves, premium adequacy, and competitive dynamics in coastal property insurance.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Property insurance](/wiki/property-insurance/)
-- [Insurance sector](/wiki/insurance/)
-
-### Wider context
-- [10-K](/wiki/10-k/) — Annual report filing
-- [10-Q](/wiki/10-q/) — Quarterly report filing
-- [Reinsurance](/wiki/reinsurance/)
-- [Catastrophe insurance](/wiki/catastrophe-insurance/)
-
-</div>

@@ -1,61 +1,34 @@
 ---
 title: "Academy Sports & Outdoors, Inc. (ASO)"
-description: "Publicly traded sporting goods and outdoor equipment retailer with physical stores across the United States."
+description: "Sporting goods and outdoor retail chain operating across the US, selling athletic apparel, footwear, and recreational equipment with a regional footprint."
 keywords:
-  - Academy Sports & Outdoors
-  - ASO
-  - sporting goods retail
-  - athletic equipment
-  - outdoor retailer
+  - retail
+  - sporting goods
+  - outdoor equipment
+  - apparel
+  - regional retailer
+  - athletic wear
+handwritten: true
 ---
 
-*[**Academy Sports & Outdoors, Inc.**](/wiki/public-company/) (**ASO**) is a publicly traded [retailer](/wiki/retail-sector/) specializing in sporting goods, athletic apparel, and outdoor equipment. The company operates a network of physical stores across the United States, positioned as a value-oriented competitor in the recreational and fitness retail segment.*
-
 <aside class="wiki-infobox">
-
-| Attribute | Value |
-|-----------|-------|
-| **Ticker** | ASO |
-| **Listing** | US-listed; ticker ASO |
-| **SEC CIK** | 1817358 |
-| **Sector** | Consumer Discretionary |
-| **Industry** | Sporting Goods / Recreational Retail |
-| **Type** | Public company |
-
+<strong>Academy Sports & Outdoors, Inc.</strong><br>
+<small>Public (NASDAQ: ASO)</small><br>
+<small>CIK 1817358</small><br>
+<strong>Sector</strong><br>
+Specialty Retail<br>
+<strong>Core Business</strong><br>
+Sporting goods, footwear, apparel, outdoor recreation<br>
+<strong>Scale</strong><br>
+Multi-state regional retail chain<br>
+<strong>Landscape</strong><br>
+Competitive specialty retail segment
 </aside>
 
-## What the company does
+## The business
 
-Academy Sports & Outdoors operates a retail business focused on selling sporting goods, athletic apparel, footwear, and outdoor recreation equipment. Its stores cater to customers seeking equipment for team sports, individual fitness, hunting, fishing, and general outdoor activities. The company carries brand-name merchandise alongside private-label products, positioning itself in the mass-market sporting goods retail space.
+Academy Sports & Outdoors operates a network of physical retail stores across the United States, selling sporting goods, athletic apparel, footwear, and outdoor recreation equipment. The company targets customers seeking gear for team sports, fitness, hunting, fishing, and casual outdoor activities. Its merchandise includes both brand-name products and private-label offerings, positioning the company as a value-oriented competitor in the mass-market sporting goods space. Store locations drive revenue through direct merchandise sales, with profitability dependent on gross margins, inventory turnover, and store productivity.
 
-## How it makes money
+## Market dynamics
 
-Revenue derives primarily from the sale of merchandise across its store network. Like most traditional retailers, Academy Sports & Outdoors generates [revenue](/wiki/revenue/) through retail transactions—both in-store and potentially through other channels. The company's profitability depends on [gross margins](/wiki/gross-margin/) on merchandise sold, operational efficiency across store locations, and successful management of [inventory turnover](/wiki/inventory-turnover/).
-
-## Market position and competition
-
-The sporting goods retail landscape includes both national chains and digital-native competitors. Academy Sports & Outdoors competes on store availability, product selection, and price positioning. The retail sector has faced structural headwinds from e-commerce competition, consumer behavior shifts, and the cost of maintaining physical store networks.
-
-## Operational structure
-
-The company's business model centers on company-operated stores, with revenue and [profitability](/wiki/profitability/) tied to store productivity and merchandise mix. Like other specialty retailers, it faces exposure to consumer discretionary spending patterns and seasonal demand fluctuations—particularly around back-to-school periods and holiday seasons.
-
-## How to research it
-
-The [SEC filing](/wiki/10-k/) system provides official disclosures including the [10-K annual report](/wiki/10-k/) and 10-Q quarterly filings. These documents contain detailed information on store count, geographic concentration, competitive positioning, and financial performance. Investors and analysts can track trends in same-store sales, store productivity, [inventory levels](/wiki/inventory/), and capital expenditure plans through these filings.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Dick's Sporting Goods](/wiki/dks-stock/)
-- [Foot Locker](/wiki/fl-stock/)
-- [Dick's Sporting Goods](/wiki/dks-stock/)
-
-### Wider context
-- [Retail sector](/wiki/retail-sector/)
-- [Sporting goods industry](/wiki/sporting-goods-industry/)
-- [Brick-and-mortar retail](/wiki/brick-and-mortar-retail/)
-- [Consumer discretionary spending](/wiki/consumer-discretionary-spending/)
-- [Public company](/wiki/public-company/)
-
-</div>
+The sporting goods retail sector faces ongoing competition from national chains, online retailers, and direct-to-consumer brands. Academy competes on physical convenience, product assortment, and pricing. Like other traditional specialty retailers, the company navigates e-commerce headwinds, consumer discretionary spending cycles, and seasonal demand patterns tied to back-to-school and holiday shopping. Understanding the company's position requires reviewing [10-K](/wiki/10-k/) filings for store economics, geographic performance, and competitive strategy within a retail landscape that continues to evolve.

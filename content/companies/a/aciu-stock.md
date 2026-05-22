@@ -1,58 +1,34 @@
 ---
 title: "AC Immune SA (ACIU)"
-description: "A Swiss biopharmaceutical company developing immunotherapeutic treatments for neurodegenerative diseases including Alzheimer's disease."
+description: "AC Immune develops immunotherapies targeting neurodegeneration and neuroinflammation, with programs addressing Alzheimer's and Parkinson's disease pathology."
 keywords:
-  - AC Immune
-  - ACIU
-  - biopharmaceutical
-  - Alzheimer's disease
+  - neurodegenerative disease
   - immunotherapy
+  - alzheimer's disease
+  - parkinson's disease
+  - biotech development
+  - clinical trials
+handwritten: true
 ---
 
-*[AC Immune SA](/wiki/public-company/) (ticker **ACIU**) is a Swiss [biopharmaceutical](/wiki/biopharmaceutical/) company developing immunotherapeutic treatments for neurodegenerative diseases, particularly Alzheimer's disease and other neurological conditions. The company uses proprietary technology platforms to develop therapies targeting disease-causing proteins.*
+**AC Immune is a Swiss biopharmaceutical company focused on immunotherapy for neurodegenerative diseases.** The company develops vaccines and monoclonal antibodies designed to trigger immune responses against toxic protein aggregates implicated in Alzheimer's disease, Parkinson's disease, and other neurological conditions. Its scientific approach centers on activating the body's immune system to clear misfolded tau, alpha-synuclein, and other pathological proteins.
 
-<aside class="wiki-infobox">
+## Platform and Development Stage
 
-| Field | Value |
-|-------|-------|
-| Ticker | ACIU |
-| Listing | US-listed; ticker ACIU |
-| SEC CIK | 1651625 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Headquarters | Switzerland |
-| Founded | 2003 |
-| Type | Public corporation |
+AC Immune operates proprietary immunotherapy platforms that generate both active vaccines and passive antibody therapies. The company's candidates remain in clinical development; none have received regulatory approval. The pipeline includes programs targeting tau pathology, synucleinopathy, and associated neuroinflammation. As a clinical-stage biotech, AC Immune depends on partnerships with larger pharmaceutical companies, capital raises, and milestone payments to fund ongoing trials and operations.
 
-</aside>
+## Industry Position and Partnerships
 
-## What the company does
+The company competes in the crowded Alzheimer's and neurodegeneration therapeutic space, where multiple mechanisms and approaches vie for clinical and commercial success. AC Immune differentiates through its focus on immune-mediated protein clearance, though it faces competition from both established pharma companies and other biotech firms pursuing tau-targeting, amyloid-focused, and neuroinflammation strategies. Strategic collaborations with pharmaceutical partners help distribute development risk and provide funding for late-stage trials.
 
-AC Immune develops immunotherapies targeting misfolded proteins implicated in Alzheimer's disease and other neurodegenerative disorders. The company's technology platform creates vaccines and monoclonal antibodies designed to trigger immune responses against disease-causing protein aggregates. AC Immune's pipeline includes vaccine candidates, antibody therapies, and small-molecule compounds addressing different aspects of Alzheimer's pathology. The company operates through collaborations with pharmaceutical partners to advance clinical development and commercialization.
+## At a glance
 
-## How it makes money
+- **Stage:** Clinical development (Phase 2 and earlier trials)
+- **Key programs:** Tau-targeting vaccines, synuclein-targeting therapies, neuroinflammation candidates
+- **Revenue model:** Partnership milestones, royalties on partnered drugs; currently pre-commercial
+- **Listing:** NASDAQ-listed, ticker [ACIU](/wiki/aciu-stock/)
+- **Geography:** Swiss headquarters; development partnerships global
+- **Sector:** Biopharmaceutical / neurology
+- **Key metric to track:** Clinical trial progression, partnership announcements, cash runway
 
-AC Immune generates revenue through partnership agreements, milestone payments, and royalties on products developed through collaborations with larger pharmaceutical companies. The company has entered into strategic alliances with major pharma firms, sharing development costs and commercial potential. Early-stage biotech companies like AC Immune typically operate at a loss during development, funding R&D through partnerships, equity financing, and grants. Future revenue would come from successful drug approvals and royalty streams on marketed therapies.
-
-## Where it sits in its industry
-
-AC Immune competes in the Alzheimer's disease and neuroinflammation therapeutic space, an increasingly crowded market as dementia becomes a major healthcare priority globally. The company uses proprietary immunotherapy platforms to differentiate from competitors pursuing other drug mechanisms (small molecules, anti-amyloid monoclonals, tau-targeting agents). AC Immune faces competition from large pharmaceutical companies with significant Alzheimer's programs and other biotech firms developing novel mechanisms. Success requires demonstrating clinical efficacy in demanding neurodegenerative disease trials and securing pharmaceutical partnerships.
-
-## How to research it
-
-AC Immune's [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) filings detail partnership agreements, clinical trial progress, and cash runway. SEC documents outline collaboration terms, including upfront payments, milestones, and royalty structures. Investor presentations discuss trial data, regulatory interactions with health authorities, and the competitive landscape in Alzheimer's therapeutics. Clinical trial databases and medical literature provide information on trial design, patient enrollment, and efficacy and safety results.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Public company](/wiki/public-company/)
-- [Biopharmaceutical sector](/wiki/biopharmaceutical/)
-- [Neurological diseases](/wiki/neurological-diseases/)
-
-### Wider context
-- [10-K](/wiki/10-k/) — Annual report filing
-- [10-Q](/wiki/10-q/) — Quarterly report filing
-- [Drug development](/wiki/drug-development/)
-- [Immunotherapy](/wiki/immunotherapy/)
-
-</div>
+See also: [10-K](/wiki/10-k/), [Stock](/wiki/stock/), [Public company](/wiki/public-company/)

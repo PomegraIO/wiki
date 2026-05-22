@@ -1,77 +1,30 @@
 ---
 title: "AMERICAN WOODMARK CORP (AMWD)"
-description: "Kitchen and bath cabinetry manufacturer and distributor serving residential and commercial markets across North America."
+description: "Kitchen and bath cabinet manufacturer serving residential remodel, new construction, and specialty dealer channels with domestically assembled products."
 keywords:
-  - American Woodmark
-  - AMWD
-  - cabinetry
-  - home furnishings
-  - manufacturing
+  - cabinet manufacturer
+  - kitchen cabinetry
+  - home improvement
+  - residential construction
+  - woodmark
+  - appalachian materials
+handwritten: true
 ---
 
-*[**American Woodmark Corp**](/wiki/public-company/) (ticker **AMWD**) is a major manufacturer and distributor of kitchen and bath cabinetry and related building products in North America. The company operates across both the residential and light commercial sectors, serving home builders, contractors, and kitchen and bath remodelers through a diversified distribution network.*
+American Woodmark manufactures and distributes kitchen and bath cabinetry primarily for the residential market. Headquartered in Winchester, Virginia, the company operates manufacturing facilities across eight U.S. states and Mexico, positioning itself as a vertically integrated producer that sources hardwood materials from the Appalachian region and assembles most products domestically. The business has roots back to the early 1980s when a management team executed a buyout from Boise Cascade, taking a regional operation and building it into a publicly traded cabinet supplier.
 
-<aside class="wiki-infobox">
+The cabinet market divides along several channels, and American Woodmark serves each with different strategies. The company sells through direct relationships with home improvement retailers (particularly Home Depot and Lowe's), serves the remodeling and new construction trades through contractor networks, and maintains specialty dealer relationships for custom installations and higher-end segments. Revenue has ranged in the $1.7–$1.9 billion band, with product demand sensitive to housing starts, renovation activity, consumer confidence, and macroeconomic uncertainty around tariff policy and input costs.
 
-| Attribute | Value |
-|-----------|-------|
-| Ticker | AMWD |
-| Listing | US-listed; ticker AMWD |
-| SEC CIK | 794619 |
-| Sector | Consumer Discretionary |
-| Industry | Home Furnishings Manufacturing |
-| Headquarters | Mooresville, North Carolina |
-| Founded | 1980 |
-| Type | Public company |
+The business operates around two core product categories that together define most cash flow and operating leverage in the company.
 
-</aside>
+| Channel/Segment | Approximate Share | Primary Customers |
+|---|---|---|
+| Residential cabinetry (remodel, new construction, retail) | ~75% | Home Depot, Lowe's, builders, contractors |
+| Specialty and custom design services | ~9–10% | Design centers, higher-end dealers, kitchen studios |
+| Other (shipping, installation, aftermarket) | ~15–16% | Miscellaneous channels and direct sales |
 
-## What the company does
+The remodel and new construction channels remain the largest by far, with gross margins varying by customer type and product complexity. Retail-channel sales tend to carry lower margins than direct-to-builder or specialty dealer relationships. The company's service center network—nine locations across North America—handles logistics, service, and dealer support. Most raw material cost exposure centers on hardwood sourcing, lumber prices, and freight, making the business cyclical and vulnerable to commodity fluctuations and economic slowdowns. Recent quarters have seen softer demand as consumer uncertainty around tariff policy and rising interest rates dampened foot traffic with homeowners and builders alike.
 
-American Woodmark manufactures and distributes kitchen and bath cabinetry products sold to homebuilders, remodelers, and contractors. The company supplies both ready-to-assemble and assembled cabinetry, along with complementary products such as countertops and hardware. Its product range spans multiple price points and design aesthetics, from value-oriented to premium offerings, enabling it to serve diverse customer segments within the residential construction and remodeling markets.
+Publicly traded since 1986, American Woodmark competes directly with larger cabinet conglomerates and regional specialists. It has maintained mid-market positioning by emphasizing domestic manufacturing, Appalachian hardwood quality, and responsive service to both large-format retail partners and small-to-mid-size dealers. The stock trades on [Nasdaq](/wiki/stock-exchange/) and attracts investors interested in home improvement exposure and manufacturing equity. Operational execution—managing supply chain volatility, labor costs, and pricing power amid weak demand—drives near-term returns.
 
-The company operates manufacturing facilities and distribution centers across multiple U.S. regions, allowing it to serve regional and national builders efficiently. Its distribution model includes direct sales to production builders, sales to kitchen and bath retailers, and sales through independent remodeling contractors and dealers.
-
-## How it makes money
-
-Revenue derives primarily from the sale of cabinetry and related products to builders and remodelers. The company generates income through:
-
-- Sales to production homebuilders, who represent a significant portion of revenue
-- Sales to kitchen and bath specialty retailers and remodeling dealers
-- Direct and indirect sales to independent contractors and end consumers through remodeling channels
-
-Margins depend on product mix, manufacturing efficiency, raw material costs, and pricing power relative to competition. The business is cyclical, responding to trends in residential construction starts, housing permit activity, and home remodeling spending.
-
-## Where it sits in its industry
-
-American Woodmark competes in the North American cabinetry and home furnishings sector alongside other manufacturers and importers. The market includes both large national manufacturers and smaller regional competitors. Competitive dynamics involve pricing, product quality, design innovation, delivery reliability, and the ability to serve builders' specifications and timelines efficiently.
-
-The company's scale, manufacturing footprint, and relationships with major builders position it as a significant player in the residential cabinetry segment. Its ability to supply both large production builders and smaller remodeling channels provides diversification within the market.
-
-## How to research it
-
-Investors and analysts can research American Woodmark through:
-
-- [SEC filings](/wiki/10-k/), including [10-K annual reports](/wiki/10-k/) and [10-Q quarterly reports](/wiki/10-k/), which contain detailed operational and financial metrics
-- Quarterly earnings calls and investor presentations
-- Analyst reports from equity research firms covering housing and home furnishings
-- Industry data on residential construction starts, housing permits, and remodeling spending from government and private sources
-- Competitor filings and benchmarking analyses
-
-Key metrics to monitor include gross margin trends, order backlog, manufacturing capacity utilization, and performance relative to housing and construction activity cycles.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Kitchen and bath cabinetry industry](/wiki/home-furnishings-manufacturing/)
-- [Residential construction cycles](/wiki/residential-construction/)
-- [Home improvement spending](/wiki/consumer-discretionary/)
-
-### Wider context
-
-- [Housing market cycles](/wiki/housing-market-fundamentals/)
-- [Consumer discretionary stocks](/wiki/consumer-discretionary-sector/)
-- [Manufacturing and industrial stocks](/wiki/industrials-sector/)
-
-</div>
+See also: [10-K](/wiki/10-k/)

@@ -1,69 +1,34 @@
 ---
 title: "Agora, Inc. (API)"
-description: "Developer platform providing real-time engagement APIs for voice, video, chat, and interactive live streaming."
+description: "Real-time engagement platform-as-a-service enabling developers to embed voice, video, live streaming, chat, and conversational AI."
 keywords:
-  - Agora
-  - API
   - real-time communication
-  - software development
-  - communications technology
+  - platform-as-a-service
+  - conversational ai
+  - video infrastructure
+  - voice api
+  - live streaming
+handwritten: true
 ---
 
-*[**Agora, Inc.**](/wiki/stock/) (**API**) is a developer platform that provides [APIs](/wiki/api-definition/) and [software development kits](/wiki/sdk/) (SDKs) enabling real-time voice, video, chat, and interactive streaming experiences within applications. The company operates in the [prepackaged software](/wiki/public-company/) sector, serving enterprises and developers who need to embed communication capabilities into their platforms.*
+**Agora abstracts away the infrastructure burden of real-time communication, letting developers embed voice, video, and AI-powered conversation into apps without building the underlying systems.** Rather than recruiting a team to manage media servers, optimize bitrates, and route packets globally, developers call Agora's APIs and pay for usage. The company handles the plumbing—servers, transcoding, quality adaptation, geographic distribution—leaving builders to focus on user experience and product logic.
 
-<aside class="wiki-infobox">
+## The Platform Play
 
-| Label | Value |
-|-------|-------|
-| **Ticker** | API |
-| **Listing** | US-listed; ticker API (NASDAQ) |
-| **SEC CIK** | 1802883 |
-| **Sector** | Technology / Software |
-| **Industry** | Prepackaged Software |
-| **Headquarters** | Santa Clara, California |
-| **Founded** | 2013 |
-| **Type** | Public company |
+Agora sits squarely in the infrastructure layer, a vendor meant to disappear into applications. Developers across social platforms, gaming, education, telehealth, and enterprise software use Agora to power video calls, group streaming, and increasingly, conversational AI agents that operate in real-time. The company's core differentiation rests on sub-300-millisecond latency, global server distribution (with particular strength in Asia-Pacific), and developer-friendly SDKs for iOS, Android, web, Windows, and game engines like Unity and Unreal. Latency matters for real-time use cases: a 300ms delay is imperceptible; a 1-second delay breaks conversation. Agora competes with Twilio (broader communications, SMS-inclusive) and Sendbird (chat-centric), but occupies its own wedge focused on interactive media and now, conversational AI.
 
-</aside>
+## Revenue and Execution
 
-## What the company does
+The company operates a consumption-based model: customers pay per minute of video, per voice call, per AI token processed. This metering aligns Agora's incentives with developer adoption and end-user growth. The company reached positive GAAP profitability by Q4 2025, a milestone meaningful for infrastructure vendors that traditionally require heavy upfront capex and years of operating leverage. Its success hinges on winning developer mindshare, keeping latency and reliability visible, and capitalizing on the wave of AI-native applications that need real-time reasoning and conversation engines.
 
-Agora provides cloud-based APIs that let developers and enterprises embed real-time communication features directly into applications without building infrastructure from scratch. Its platform supports multiple communication modalities—voice calling, video conferencing, real-time chat, and live streaming—across diverse devices and operating systems including iOS, Android, web browsers, Windows, and game engines like Unity and Unreal.
+## At a glance
 
-The platform emphasizes low-latency delivery and reliability, serving use cases in social media, education, telehealth, gaming, financial services, and other sectors requiring instantaneous real-time interaction.
+- Real-time voice, video, chat, and interactive live-streaming APIs
+- Conversational AI engine and device kit for agentic applications
+- Usage-based pricing: revenue tied to platform consumption in minutes or tokens
+- Global infrastructure spanning Americas, Europe, and Asia-Pacific
+- Platform-as-a-service delivery with SDKs for web, mobile, and game engines
 
-## How it makes money
+---
 
-Agora operates a usage-based pricing model where customers pay according to the volume of communications flowing through its platform—measured by metrics like minutes of video/voice usage, message count, or concurrent users. This approach aligns revenue with customer utilization: growth in customer applications, active users, or engagement drives corresponding increases in consumption and billings.
-
-The company sells primarily to software developers and technology companies integrating communication features into their applications, rather than directly to end users.
-
-## Where it sits in its industry
-
-Agora competes in the real-time communication platform sector alongside Twilio (voice and messaging APIs) and Sendbird (chat and collaboration APIs). While Twilio has a broader communications focus spanning SMS, email, and voice, Agora concentrates on interactive real-time modalities.
-
-The company has differentiated itself on latency performance—claiming sub-300-millisecond end-to-end latency for video and voice—and on scale, supporting thousands of concurrent users in large group scenarios. Its geographic presence across Asia, Europe, and North America provides global infrastructure coverage important to latency-sensitive applications.
-
-## How to research it
-
-For a detailed view of the company's operations, revenue composition, and financial structure, consult its [10-K annual report](/wiki/10-k/) filed with the SEC. The form breaks down revenue by geography and customer segment, outlines the competitive landscape, describes technical infrastructure, and details risk factors.
-
-The company's investor relations site publishes earnings releases and shareholder presentations that track growth in user counts, average revenue per customer, and other operational metrics relevant to understanding platform traction.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Twilio (TWLO)](/wiki/twlo-stock/)
-- [Vonage (VG)](/wiki/vg-stock/)
-- [Bandwidth (BAND)](/wiki/band-stock/)
-- [Real-time communication](/wiki/real-time-communication/)
-
-### Wider context
-
-- [SaaS businesses](/wiki/saas-business-model/)
-- [Public company](/wiki/public-company/)
-- [Cloud infrastructure](/wiki/cloud-computing/)
-- [Software development](/wiki/software-development/)
-
-</div>
+**See also:** [Stock](/wiki/stock/), [Public company](/wiki/public-company/), [10-K](/wiki/10-k/)

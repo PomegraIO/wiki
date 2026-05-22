@@ -1,60 +1,29 @@
 ---
 title: "AUDIOEYE INC (AEYE)"
-description: "Digital accessibility software company providing tools and services to help organizations meet web and digital content accessibility standards."
+description: "Nasdaq-listed SaaS platform combining AI detection, expert audits, and automated fixes for digital accessibility and WCAG compliance."
 keywords:
-  - AEYE
-  - accessibility software
-  - web accessibility
-  - WCAG compliance
   - digital accessibility
+  - wcag compliance
+  - saas platform
+  - ai accessibility testing
+  - ada compliance
+handwritten: true
 ---
-
-*AudioEye Inc., trading as **AEYE**, is a digital accessibility software company focused on helping organizations make their digital properties—including websites and mobile applications—accessible to people with disabilities. The company operates at the intersection of software, compliance, and inclusive design.*
 
 <aside class="wiki-infobox">
 
-| Key Fact | Value |
-|----------|-------|
+**AudioEye Inc**
+
 | Ticker | AEYE |
-| Listing | US-listed; ticker AEYE |
-| SEC CIK | 1362190 |
-| Sector | Technology |
-| Industry | Software and digital services |
+| Sector | Software & Services |
+| Focus | Digital accessibility; WCAG compliance; AI-powered web accessibility testing and remediation |
+| Model | Subscription SaaS |
+| Customers | 131,000+ organizations including Samsung, Calvin Klein, Samsonite |
+| Key Offering | AI + expert audit + continuous monitoring + legal protection |
+| Patents | 25 US accessibility-focused patents |
 
 </aside>
 
-## The accessibility mandate
+AudioEye builds a unified [SaaS platform](/wiki/saas/) for digital accessibility—helping organizations detect, test, and fix web accessibility issues to meet WCAG standards and ADA compliance. The company layers AI-driven automation with expert auditing and continuous monitoring, covering the full lifecycle from development through deployment. Most vendors in the accessibility space focus on detection or remediation alone; AudioEye's model combines all three in one system, positioning itself as the end-to-end accessibility partner.
 
-Digital accessibility—the ability for people with disabilities to perceive, understand, navigate, and interact with digital content—is increasingly a legal and regulatory requirement. In the United States, the Americans with Disabilities Act (ADA) and the Web Content Accessibility Guidelines (WCAG) set standards for digital accessibility. Organizations face potential litigation and regulatory action if their digital properties are inaccessible, creating demand for accessibility solutions.
-
-## How AudioEye operates
-
-AudioEye provides both automated and human-powered accessibility solutions. The company uses software to identify accessibility issues on client websites, generates remediation recommendations, and helps organizations implement fixes. The service addresses issues such as missing alternative text for images, poor color contrast, keyboard navigation problems, and screen reader compatibility.
-
-## Market positioning
-
-The digital accessibility market includes competitors ranging from independent software tools to accessibility consulting firms to larger software providers incorporating accessibility features. AudioEye competes by offering integrated solutions that combine automated detection with human expertise, targeting mid-market to enterprise organizations across various industries.
-
-## Business model and customers
-
-AudioEye generates revenue through subscription fees for its platform and services. Customers span financial services, healthcare, retail, education, and government sectors—industries particularly focused on compliance and accessible customer experiences. The company also provides professional services related to accessibility audits and remediation.
-
-## Regulatory and market drivers
-
-Increasing litigation risk around website accessibility and growing awareness of disability inclusion have driven adoption of accessibility solutions. The market for these services is shaped by regulatory developments, corporate social responsibility initiatives, and the growing recognition of accessibility as a fundamental requirement for digital platforms serving diverse user populations.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Digital accessibility](/wiki/digital-accessibility/)
-- [Web accessibility standards](/wiki/web-accessibility-standards/)
-- [WCAG compliance](/wiki/wcag-compliance/)
-
-### Wider context
-
-- [Software as a service](/wiki/software-as-a-service/)
-- [Compliance software](/wiki/compliance-software/)
-- [Technology sector](/wiki/technology-sector/)
-
-</div>
+The business lands organizations ranging from Fortune 500 companies to mid-market enterprises, offering both self-service developer tools and white-glove compliance services. A recent acquisition of ADA Site Compliance broadened its consulting and audit capabilities. Revenue flows primarily through annual subscriptions tied to site complexity, customer size, and service tier, with legal liability protection bundled as a key differentiator. In competitive contrast to lighter-weight accessibility checkers, AudioEye emphasizes the depth of protection—fewer false positives, more thorough issue coverage—which resonates with risk-aware compliance teams focused on defensibility over mere checkbox compliance.

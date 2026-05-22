@@ -1,53 +1,28 @@
 ---
 title: "Awaysis Capital, Inc. (AWCA)"
-description: "Investment management firm providing financial advisory services and managing investment portfolios."
+description: "Real estate management and vacation rental operator focused on residential resort communities in travel destinations."
 keywords:
-  - Awaysis Capital
-  - AWCA
-  - investment management
-  - financial advisory
-  - asset management
+  - real estate
+  - hospitality
+  - vacation rentals
+  - resort management
+  - residential communities
+handwritten: true
 ---
 
-*[Awaysis Capital, Inc.](/wiki/companies/a/) (**AWCA**) is a [US-listed](/wiki/public-company/) [investment management](/wiki/asset-management/) and financial advisory firm.*
+Awaysis Capital operates a real estate platform that develops and manages residential vacation home communities in travel destinations. The company—formerly known as JV Group before rebranding in 2022—combines property acquisition, site redevelopment, sales operations, and ongoing management of rental communities under the Awaysis banner, primarily across the United States.
 
-<aside class="wiki-infobox">
+The business model centers on acquiring land and properties in vacation-oriented markets, redeveloping them into residential resort communities, then handling sales of individual units and managing the day-to-day operations as short-term rental properties. Awaysis handles the booking systems, guest services, and property maintenance that make vacation home communities run, essentially acting as an intermediary between property owners and travelers looking for extended stays or vacation accommodations.
 
-| Field | Value |
-| --- | --- |
-| Ticker | AWCA |
-| Listing | US-listed; ticker AWCA |
-| SEC CIK | 1021917 |
-| Type | Public company |
+Real estate development and hospitality management are capital-intensive operations. The company must manage property acquisition costs, redevelopment spending, and ongoing operational expenses across multiple locations. Revenue flows from property sales to individual owners, management fees charged to property owners, and booking commissions from rental activity. Profitability depends on development velocity, occupancy rates, management fee structures, and the local real estate markets where communities are located.
 
-</aside>
+Awaysis sits at the intersection of residential real estate and the vacation rental industry. Unlike traditional property developers who sell and exit, or traditional hospitality operators who own everything, this model sells ownership stakes while keeping management ongoing. That hybrid structure creates recurring revenue but also operational complexity—the company must maintain high service standards and occupancy rates to keep property owners satisfied and properties performing.
 
-## What the company does
+**Main business activities:**
+- Acquiring and redeveloping real estate in resort destinations
+- Selling individual residential units to investors and owner-occupants
+- Operating hospitality and property management for rental communities
+- Handling bookings, guest services, and maintenance operations
+- Generating revenue from sales, management fees, and booking activity
 
-Awaysis Capital provides investment management and financial advisory services. The firm focuses on managing portfolios for institutional and individual investors, leveraging market research and investment expertise to guide asset allocation and portfolio construction decisions.
-
-## How it makes money
-
-The firm generates revenue primarily through investment management fees charged to clients for managing their portfolios and providing ongoing financial advisory services. Like most [asset management](/wiki/asset-management/) firms, Awaysis Capital earns fees based on assets under management and advisory service agreements.
-
-## Market position
-
-Awaysis Capital operates in the competitive investment management and financial advisory sector. The company competes with larger, more established asset management firms while serving clients seeking specialized advisory services. The firm's business depends on investment performance, client retention, and the ability to attract new assets under management.
-
-## How to research it
-
-Investors can review Awaysis Capital's regulatory filings, including [10-K](/wiki/10-k/) and [10-Q](/wiki/10-k/) forms, filed with the [SEC](/wiki/sec-filings/) using the CIK number 1021917. These filings disclose the firm's business operations, financial performance, assets under management, and risk factors. Company websites and investor relations materials provide additional information on investment strategies and service offerings.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Asset management](/wiki/asset-management/)
-- [Investment advisory services](/wiki/investment-advisor/)
-- [Wealth management](/wiki/wealth-management/)
-
-### Wider context
-- [Financial services industry](/wiki/financial-services/)
-- [Public company](/wiki/public-company/)
-- [Capital markets](/wiki/capital-markets/)
-
-</div>
+The company is based in Miramar, Florida and files regularly with the SEC as a [public company](/wiki/public-company/), disclosing operations through [10-K](/wiki/10-k/) annual reports and quarterly filings.

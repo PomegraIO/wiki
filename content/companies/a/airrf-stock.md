@@ -1,58 +1,36 @@
 ---
 title: "Aurion Resources Ltd. (AIRRF)"
-description: "Canadian mineral exploration company focused on gold and base metals discovery in underexplored districts of Alaska, with assets in the Kuskokwim region."
+description: "Canadian precious metals exploration company with flagship gold projects in Finland, focused on early-stage discovery and joint venture development."
 keywords:
-  - Aurion Resources
-  - AIRRF
-  - mineral exploration
-  - Canadian gold exploration
-  - Alaska mining
-  - junior mining
+  - precious metals exploration
+  - gold mining
+  - finland
+  - exploration company
+handwritten: true
 ---
 
-*[**Aurion Resources Ltd.**](https://www.aurionresources.com) (**AIRRF**) is a Canadian mineral exploration company engaged in the discovery and development of [gold](/wiki/gold-stock/) and base metals properties in Alaska and other regions. The company operates through early and grassroots stage projects, focusing on districts with limited prior exploration activity.*
+**A well-funded Finnish exploration company hunting for gold and precious metals in the Lapland greenstone belt.** Aurion Resources brings together experienced geologists and explorers to develop early-stage mineral opportunities in northern Finland, partnering strategically with larger mining operators while maintaining direct control over key discoveries.
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AIRRF |
-| Listing | US-listed; ticker AIRRF |
-| SEC CIK | 1476573 |
-| Sector | Materials |
-| Industry | Precious metals exploration |
-| Type | Public exploration company |
-</aside>
+### The Risti Project and Beyond
 
-## What the company does
+Aurion's flagship asset is the Risti project, a 170-square-kilometer exploration license in Finland's Central Lapland Greenstone Belt, an established geological formation with known precious metals potential. The company also controls the Launi project, covering roughly 46 square kilometers in the same region. Both sit on ground that has attracted interest from major mining houses—a sign that Aurion's geologists have identified genuinely prospective targets rather than speculative positions.
 
-Aurion Resources is a pure-play exploration company without active mining operations. Its business model centers on acquiring prospective mineral licenses, conducting geological surveys and assay work, and systematically evaluating targets for economic mineralization. The company maintains a portfolio of exploration projects primarily in Alaska, with a geographic focus on the Kuskokwim region and other relatively under-explored districts. Work programs typically involve mapping, soil and rock sampling, and small-scale drilling to establish the presence and extent of mineral deposits.
+### The Partnership Model
 
-## Focus on early-stage exploration
+Rather than absorbing all exploration costs alone, Aurion structures deals that bring capital and operational expertise to its projects. It has active joint venture arrangements with B2Gold, Kinross Gold, and KoBold Metals, meaning Aurion can advance multiple projects simultaneously with shared financing. This approach reduces dilution to existing shareholders while funding exploration work that might otherwise proceed more slowly.
 
-Unlike intermediate or major mining companies that develop and operate mines, Aurion operates at the exploration phase, where capital requirements are lower but success rates are uncertain. The company's strategy emphasizes option agreements and joint-venture arrangements to spread acquisition costs and technical risk. This approach allows the company to maintain exposure to multiple projects while limiting upfront capital commitment on any single prospect. Early success at an exploration stage—such as an encouraging drill intersection or large-scale anomaly—can attract partnership interest or joint-venture funding from larger mining entities.
+### Operations and Strategy
 
-## Financing and capital structure
+Aurion's team conducts field work and geological assessment directly, positioning the company as a true operator rather than a passive permit holder. The company's geographic focus—a single region in Finland—allows deep geological knowledge and efficient logistics. Finland provides a stable regulatory environment and established mining infrastructure, reducing the permitting and political risks that plague exploration in other jurisdictions.
 
-As a junior exploration company, Aurion raises capital primarily through equity issuance rather than operating cash flow. Exploration companies typically fund operations via [private placements](/wiki/private-placement/) of common shares and warrants, or through strategic partnerships with larger mining firms. The company's ability to raise capital depends on market sentiment toward junior explorers, commodity prices, and the perceived prospectivity of its project pipeline.
+### At a glance
+- Trades on TSX Venture Exchange (TSX-V: AU) and OTC (OTCQX: AIRRF)
+- Focused on early-stage precious metals exploration in Finland
+- Two main projects in Lapland's greenstone belt
+- Joint ventures with major mining companies (B2Gold, Kinross, KoBold)
+- Enables exploration funding with minimal shareholder dilution
+- Subject to acquisition by Agnico Eagle announced in 2026
 
-## Where it sits in its industry
+---
 
-Aurion is one of many junior exploration companies competing for capital and quality project assets. The junior mining sector is characterized by high failure rates—most exploration projects never advance to the mine stage—but potential for outsized returns if a discovery is made and monetized. The company competes with other early-stage explorers for quality ground, skilled geologists, and investor capital. Success is not guaranteed and depends on geological luck, drilling results, and broader commodity market cycles.
-
-## How to research it
-
-Investors and analysts can monitor Aurion's progress through [SEC filings](/wiki/10-k/), including Form 10-K annual reports and Form 10-Q quarterly updates filed under CIK 1476573. These documents disclose exploration expenditures, property holdings, geological results, and management commentary. News releases from the company announcing drill results or property acquisitions are also key indicators of progress. For junior explorers, changes in management, dilution from equity raises, and burn rate (rate of cash consumption) should be tracked carefully, as they signal capital runway and execution capability.
-
-<div class="wiki-seealso">
-### Closely related
-- [Gold markets](/wiki/gold-stock/)
-- [Mineral exploration equity](/wiki/junior-mining/)
-- [Private placements](/wiki/private-placement/)
-- [Stock dilution](/wiki/dilution-cryptocurrency/)
-
-### Wider context
-- [Commodity cycles](/wiki/commodity-price-hedging/)
-- [Public companies](/wiki/public-company/)
-- [Mining industry sectors](/wiki/commodity-currency-pairs/)
-- [Capital raising in equities](/wiki/equity-offering/)
-</div>
+See also: [gold exploration](/wiki/gold-stock/), [TSX Venture Exchange](/wiki/stock-exchange/), [mineral properties](/wiki/10-k/)

@@ -1,74 +1,16 @@
 ---
 title: "American Heritage International Inc. (AHII)"
-description: "Public company engaged in heritage merchandise, collectibles licensing, and related brand operations."
+description: "E-cigarette manufacturer that pivoted to nicotine products under the American Heritage brand, operating as a micro-cap public company."
 keywords:
-  - American Heritage International
-  - AHII
-  - merchandise
-  - collectibles
-  - retail
+  - e-cigarette
+  - american heritage brand
+  - micro-cap
+  - otc trading
+handwritten: true
 ---
 
-*[**American Heritage International Inc.**](/wiki/public-company/) (ticker **AHII**) is a [US-listed public company](/wiki/stock/) involved in heritage merchandise, collectibles, and brand licensing operations.*
+American Heritage International Inc. emerged from Cumberland Hills Ltd., rebranding in 2013 with a specific focus on the emerging electronic cigarette market. Founded in 2010 and headquartered in Las Vegas, Nevada, the company positioned itself as a manufacturer and distributor of premium disposable e-cigarettes sold under the American Heritage and America's Original E-Cig brand names. This positioning reflected a bet on the rapid growth of the alternative nicotine sector during the early 2010s.
 
-<aside class="wiki-infobox">
+The company moved quickly to build inventory and distribution capacity. By early 2014, the operation was scaling production—initial inventory sold through at 20,800 units, followed by orders for 50,000 units in March and another 100,000-unit batch in April. This ramp suggested market reception existed for the product line. However, the operational trajectory encountered friction. In December 2014, the SEC imposed a temporary trading suspension that lasted through December 30, citing concerns about "potentially manipulative activity" connected to unsolicited promotional calls about the stock circulating on and before December 12. The disruption signaled both regulatory scrutiny and promotional pressures that would characterize the company's public life.
 
-| Field | Value |
-|-------|-------|
-| Ticker | AHII |
-| Listing | US-listed; ticker AHII |
-| SEC CIK | 1545236 |
-| Sector | Consumer Discretionary |
-| Industry | Specialty Retail & Merchandise |
-| Type | Public company |
-
-</aside>
-
-## What the company does
-
-American Heritage International operates within the heritage and collectibles merchandise space, licensing and distributing branded merchandise and collectible products. The company's business model centers on creating, marketing, and selling products tied to heritage brands, nostalgia, and collectible licensing agreements. This includes physical merchandise, branded goods, and related consumer products positioned in the specialty retail category.
-
-## Business model and revenue streams
-
-The company generates revenue primarily through:
-
-- Direct sales of heritage-branded merchandise and collectible products
-- Licensing agreements for use of brand assets and intellectual property
-- Wholesale distribution to retailers
-- E-commerce and direct-to-consumer channels
-
-This diversified approach allows the company to reach both retail and direct channels, though like many specialty retailers, it remains sensitive to consumer discretionary spending patterns and shifts in collector demand.
-
-## Market position
-
-American Heritage International operates in a fragmented specialty retail and collectibles licensing market. The collectibles merchandise sector includes numerous competitors ranging from large diversified retailers to niche specialists. The company's value proposition rests on curated brand partnerships and heritage licensing—positioning it as a middleman between established brands and consumer collectors. This segment is characterized by moderate barriers to entry but requires effective brand partnerships and supply chain management to compete.
-
-## Capital structure and financial considerations
-
-As a [publicly traded company](/wiki/public-company/), AHII is subject to SEC reporting requirements including quarterly 10-Q and annual [10-K](/wiki/10-k/) filings, which disclose operational performance, financial position, and risk factors. Investors can review these filings to understand the company's revenue trends, profitability, asset composition, and debt levels. The company's capital needs typical of specialty retail operations—inventory, distribution infrastructure, and working capital—shape its financial profile.
-
-## How to research it
-
-Detailed financial and operational information about American Heritage International is available through SEC filings:
-
-- Annual reports (Form [10-K](/wiki/10-k/)) provide comprehensive business descriptions, risk analysis, and audited financial statements
-- Quarterly reports (Form 10-Q) offer more frequent updates on business performance
-- Forms 8-K disclose material events between quarterly filings
-
-These documents are available through the SEC's EDGAR database and the company's investor relations website. Analysts may also track [earnings per share](/wiki/earnings-per-share/), [revenue](/wiki/10-k/) trends, and inventory management metrics to assess operational health in this consumer-discretionary segment.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Collectibles licensing](/wiki/10-k/) — Understanding heritage brand agreements
-- [Specialty retail](/wiki/public-company/) — Comparable business models
-- [E-commerce and direct-to-consumer](/wiki/public-company/) — Sales channel strategies
-
-### Wider context
-
-- [Consumer discretionary stocks](/wiki/public-company/) — Sector classification and cyclicality
-- [Stock exchange listing](/wiki/stock-exchange/) — US public market requirements
-- [SEC disclosure requirements](/wiki/10-k/) — Investor protection and transparency
-
-</div>
+Today, American Heritage trades on over-the-counter markets with minimal volume. Share prices have historically ranged from $0.0001 to $0.045, placing it firmly in micro-cap territory. The company occupies the broader universe of small-cap e-cigarette and alternative nicotine plays, most of which have faced intense regulatory headwinds, changing consumer preferences, and market consolidation. Without major product announcements or strategic pivots, it remains a dormant shell to many market observers—a relic of the e-cigarette wave that crested in the mid-2010s before the regulatory environment tightened.

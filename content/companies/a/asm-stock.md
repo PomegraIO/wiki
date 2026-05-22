@@ -1,68 +1,36 @@
 ---
 title: "AVINO SILVER & GOLD MINES LTD (ASM)"
-description: "Canadian mining company focused on silver and gold production in Mexico, operating through the Durango and San Gonzalo properties."
+description: "Canadian precious-metals miner operating silver, gold, and copper production in Durango, Mexico. Publicly traded on TSX and NYSE American."
 keywords:
-  - Avino Silver & Gold Mines
-  - ASM
   - silver mining
-  - gold mining
-  - Mexico mining
-  - junior miner
+  - precious metals
+  - durango mexico
+  - mining operations
+  - canadian miner
+handwritten: true
 ---
 
-*[**AVINO SILVER & GOLD MINES LTD**](https://www.avino.com) (**ASM**) is a Canadian [junior mining](/wiki/junior-mining-company/) company engaged in the acquisition, exploration, development, and production of [silver](/wiki/silver/) and [gold](/wiki/gold/) properties, with operations primarily in Mexico. The company conducts its mining activities in Durango state and maintains a focus on developing its mineral resources into economically viable operations.*
+Avino Silver & Gold Mines is a Vancouver-based precious-metals producer that extracts silver, gold, and copper from the Durango region of Mexico. The company has been in operation since 1968 and trades on both the TSX and NYSE American under the ticker ASM. This is not a speculative exploration story or a dormant shell—it's a working mine pulling ore from the ground and selling metal.
 
-<aside class="wiki-infobox">
+The core asset is the Avino mine in Durango state, an underground operation with decades of production history. The company digs ore, processes it, refines the metals, and sells them on commodity markets. The business model is straightforward: maintain operational efficiency, manage costs, and benefit from metal prices. Because output depends directly on gold, silver, and copper prices, Avino's profitability moves with commodity cycles. When precious metals are strong, the stock typically performs better.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | ASM |
-| **Listing** | US-listed; trades on OTCQB under ASM |
-| **SEC CIK** | 316888 |
-| **Sector** | Materials |
-| **Industry** | Precious Metals Mining |
-| **Headquarters** | Vancouver, British Columbia, Canada |
-| **Founded** | 1968 |
-| **Type** | Public company |
+Recent results have been solid. Avino reported record 2025 financial performance with over $92 million in revenue and a record $101.7 million cash balance at year-end. The stock ranked among the top 30 TSX performers over a three-year period by dividend-adjusted share price appreciation, and shares have gained substantially in the past year. These numbers reflect both operational improvements and favorable metal prices in recent markets.
 
-</aside>
+Avino generates revenue from three main products:
 
-## What the company does
+- **Silver** — historically the largest revenue contributor
+- **Gold** — extracted alongside silver from the same ore body  
+- **Copper** — a third metal stream from Durango operations
 
-Avino Silver & Gold Mines operates as a mineral producer with a portfolio focused on silver and gold extraction in Mexico. The company's primary asset base includes the Durango property in Durango state, a region with established mining infrastructure and a history of precious metals production. Through exploration and development activities, the company seeks to prove up reserves and bring projects toward production. The company also maintains exploration interests in San Gonzalo and other Mexican concessions.
+The company is neither a micro-cap explorer betting everything on an unproven deposit nor a mega-cap diversified miner. It occupies the mid-cap segment: established production, real cash flows, meaningful scale, and multi-decade track record. That also means it carries exposure to Mexican operating conditions—labor costs, permitting timelines, tax policy, and regional factors all matter. Currency fluctuations between the Canadian dollar, US dollar, and Mexican peso affect reported earnings and project economics.
 
-As a smaller-scale miner, Avino positions itself within the broader junior mining sector—companies that develop assets before larger miners acquire them, or pursue production directly if capital and ore grades support it.
+Investors treat Avino differently depending on their objectives. For those seeking direct precious-metals exposure, it offers an alternative to holding [mining ETFs](/wiki/mining-etf/) or commodity funds—you own shares in an actual producer. For traders, the stock has reasonable liquidity and volatility. For holders concerned about inflation or macroeconomic uncertainty, mining stocks often benefit when investors move toward hard assets and away from paper currencies.
 
-## How it makes money
+The mine is administratively supported from Vancouver and Mexico City, a typical structure for a Canadian junior or mid-cap miner with Latin American operations. Management juggles operational demands at the mine, capital allocation for development or exploration, balance-sheet maintenance, and shareholder communication. Any expansion plan competes with the ongoing cash demands of running a producing mine.
 
-Avino generates revenue through the sale of silver and gold from its mining operations. When properties reach production stage, the company benefits from commodity prices, operational efficiency, and the scale of mineral reserves accessible at reasonable cost. The company's profitability depends on metal prices, extraction costs, and the company's ability to maintain steady production from developed properties. Exploration and development work precedes revenue generation, making mine development timelines critical to financial performance.
+On commodities markets, Avino's revenue is subject to global supply-demand for silver, gold, and copper. Metal prices are set worldwide and can be volatile based on economic conditions, currency movements, industrial demand, and investment flows. The company has some ability to manage costs and production timing, but metal prices themselves remain outside management control.
 
-## Where it sits in its industry
+For researchers, the company files regular SEC reports as a foreign private issuer. The [10-K](/wiki/10-k/) annual report contains detailed operational data, reserve estimates, production numbers, and discussion of risks. Quarterly [10-Q](/wiki/10-q/) filings update interim results. Mining databases and technical reports may provide independent assessments of ore grades and reserve quality.
 
-As a junior mining company, Avino occupies a small segment within the global precious metals mining landscape. Unlike major integrated miners, junior miners typically operate single or multiple properties and depend on successful development and commodity markets rather than portfolio diversification. Avino's focus on silver and gold in Mexico places it within a competitive regional cohort of mid-sized producers and explorers. The company faces competition from larger integrated precious metals miners, other junior producers, and explorers pursuing similar properties in Mexico and elsewhere.
+In sum: Avino is a Canadian mining company with proven assets, steady production, and direct exposure to precious-metal prices. It's a legitimate operating business, not a shell or a pure exploration gamble. The mine works, the company generates cash, and the stock responds to both operational execution and broader commodity trends.
 
-Mexican mining conditions—including labor costs, permitting processes, and infrastructure—influence operational and financial outcomes for companies like Avino. Changes in Mexican mining policy, tax treatment, or regional security can affect all Mexico-based mineral producers.
-
-## How to research it
-
-Company filings with the U.S. Securities and Exchange Commission provide authoritative financial and operational disclosures. The company's Form [10-K](/wiki/10-k/) annual report details business segments, mining properties, reserves estimates, and management discussion of operations. Form [10-Q](/wiki/10-q/) quarterly reports track interim results, updates to development timelines, and exploration progress.
-
-Publicly available mining databases and technical reports may provide independent geological assessments of reserve grades, mineral tonnage, and resource estimates. Production data, metal prices, and cost structures are disclosed in periodic filings and often summarized in investor presentations.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Precious metals mining](/wiki/precious-metals-mining/)
-- [Exploration stage company](/wiki/exploration-stage-company/)
-- [Silver market](/wiki/silver/)
-- [Gold market](/wiki/gold/)
-
-### Wider context
-
-- [Commodity price risk](/wiki/commodity-price-risk/)
-- [Mining company risk](/wiki/mining-company-risk/)
-- [Emerging markets investment](/wiki/emerging-markets-investment/)
-- [Currency risk](/wiki/currency-risk/)
-
-</div>

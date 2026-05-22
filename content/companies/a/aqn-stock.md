@@ -1,61 +1,33 @@
 ---
 title: "ALGONQUIN POWER & UTILITIES CORP. (AQN)"
-description: "Canadian diversified utility company providing electricity, natural gas, and water services across North America with regulated utility and renewable power generation operations."
+description: "Canadian utility holding company balancing regulated power and water systems with renewable generation contracts across North America, delivering stable rate-regulated returns."
 keywords:
-  - Algonquin Power
-  - AQN
   - utilities
-  - regulated utility
-  - renewable energy
+  - regulated-power
   - infrastructure
+  - canadian-company
+  - dividend
+handwritten: true
 ---
 
-*[Algonquin Power & Utilities Corp.](/wiki/aqn-stock/) (**AQN**) is a [Canadian](/wiki/canada/) [utility company](/wiki/utilities/) that develops, owns, and operates regulated electricity, natural gas, and water systems alongside renewable power generation assets across North America. The company serves residential, commercial, and industrial customers through distinct operating segments focused on regulated utility services and contracted renewable generation.*
+**AQN runs regulated electricity, natural gas, and water utilities alongside contracted renewable power assets across northeastern North America.**
 
-<aside class="wiki-infobox">
+## The Core Business
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AQN |
-| **Listing** | US-listed; trades as AQN |
-| **SEC CIK** | 1174169 |
-| **Sector** | Utilities |
-| **Industry** | Electric Utilities & Renewable Energy |
-| **Headquarters** | Toronto, Ontario, Canada |
-| **Founded** | 1998 |
-| **Type** | [Public company](/wiki/public-company/) |
+Algonquin Power operates through distinct segments. Regulated utilities—electricity distribution, natural gas, and water systems—form the stable backbone, serving established customer bases under tariff frameworks set by regional regulatory commissions. These operations generate predictable monthly revenue tied to cost recovery and a regulated return on equity, supporting the dividend. Renewable generation (wind and solar) runs on long-term [power purchase agreements](/wiki/power-purchase-agreement/), providing another contracted revenue stream less tied to commodity swings. The portfolio spans utilities in New York, Pennsylvania, New Hampshire, Maine, and other Northeast jurisdictions, plus Canadian operations, creating geographic diversification across regulatory regimes.
 
-</aside>
+## Revenue and Returns
 
-## What the company does
+Utility rates are set by regulators to allow cost recovery plus a target [return on equity](/wiki/return-on-equity/), making earnings predictable but capped by the allowed rate of return. The renewable division earns fixed fees from power contracts rather than spot market exposure. Capital intensity is high—aging infrastructure demands continuous spending on grid upgrades, pipe replacement, and plant modernization. [Capital expenditure](/wiki/capex-budgeting/) management directly affects dividend sustainability, as utilities leverage debt to fund long-duration assets. Rating agencies monitor [leverage ratios](/wiki/debt-to-equity-ratio/) and interest coverage closely.
 
-Algonquin Power operates through multiple business lines. Its regulated utility segment manages local distribution of electricity and natural gas to end-use customers across various North American jurisdictions, generating stable revenue through rate-regulated tariffs. The company also owns and operates renewable power generation facilities, particularly wind and solar projects, which often operate under long-term [power purchase agreements](/wiki/power-purchase-agreement/) that provide contracted revenue streams. Additionally, the company holds interests in water treatment and distribution infrastructure. This diversified portfolio reflects the utility sector's mix of regulated and contracted revenue models.
+## Positioning and Challenges
 
-## How it makes money
+Algonquin is mid-sized by North American utility standards, competing on operational efficiency and regulatory relationships rather than scale. Renewable energy investments have grown its contracted portfolio, but exposure to rate decisions in each jurisdiction creates regulatory risk. Grid modernization requirements and decarbonization trends shape long-term capital allocation. The company must maintain access to [capital markets](/wiki/capital-markets/) to refinance and fund growth while defending dividend payouts.
 
-The regulated utility operations generate revenue through monthly customer charges for electricity, natural gas, and water delivery, with pricing overseen by regional regulatory commissions. These operations are characterized by predictable, recurring cash flows because regulators typically set rates to allow utilities to recover costs and earn a stipulated [return on equity](/wiki/return-on-equity/). The company's renewable power division earns revenue from long-term contracts with utilities, corporate buyers, and government entities who purchase the electricity generated. Fee-based services and ancillary operations contribute additional revenue streams. [Capital expenditure](/wiki/capex-budgeting/) in infrastructure maintenance and expansion is ongoing and significant given the nature of utility operations.
+## At a Glance
 
-## Where it sits in its industry
-
-Algonquin is a mid-sized North American utility with a geographic footprint spanning multiple U.S. states and Canadian provinces. In the competitive [utility sector](/wiki/utilities/), the company competes on the basis of operational efficiency, regulatory relationships, and ability to secure renewable generation contracts. The shift toward [renewable energy](/wiki/renewable-energy/) has increased the relevance of its wind and solar portfolio. Like peer utilities, it must navigate regulatory environments, grid modernization requirements, and capital markets access to fund infrastructure needs.
-
-## How to research it
-
-Investors and analysts research Algonquin through its [SEC filings](/wiki/10-k/), particularly [Form 10-K](/wiki/10-k/) annual reports and quarterly [10-Q](/wiki/10-q/) submissions, which disclose segment revenue, [operating expenses](/wiki/operating-expense/), regulatory developments, and capital plans. The company releases earnings reports quarterly with management commentary on operational performance and strategic initiatives. Regulatory filings in each jurisdiction where it operates provide insight into rate decisions and franchise terms. Industry groups tracking utility [regulation](/wiki/regulation-utilities/), [infrastructure investment](/wiki/infrastructure/), and renewable energy capacity provide broader context.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [AEP stock](/wiki/aep-stock/) — American Electric Power; large-cap [integrated utility](/wiki/utility-company/) with similar diversified operations
-- [NEE stock](/wiki/nee-stock/) — NextEra Energy; leading renewable power and utility operator
-- [Utilities sector](/wiki/utilities/) — Overview of regulated and unregulated utility businesses
-
-### Wider context
-
-- [Utility regulation](/wiki/regulation-utilities/) — How rate-setting and franchise oversight work
-- [Renewable energy](/wiki/renewable-energy/) — Wind, solar, and other contracted generation models
-- [Infrastructure investing](/wiki/infrastructure/) — Capital-intensive long-duration asset ownership
-- [Public utility commission](/wiki/public-utility-commission/) — Regulatory bodies that oversee rates and service
-
-</div>
+- Regulated electricity, natural gas, and water utilities plus renewable generation across North America
+- Revenue primarily from fixed regulatory tariffs and long-term power contracts
+- Dividend-paying model dependent on rate outcomes and capital efficiency
+- Mid-sized utility by continent-wide standards with multiple regulatory jurisdictions
+- Trades on [stock exchanges](/wiki/stock-exchange/) with public [10-K](/wiki/10-k/) [SEC](/wiki/10-k/) disclosures

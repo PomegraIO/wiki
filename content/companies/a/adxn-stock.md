@@ -1,66 +1,20 @@
 ---
 title: "Addex Therapeutics Ltd. (ADXN)"
-description: "Swiss pharmaceutical company developing small-molecule therapeutics for neurodegenerative and neuropsychiatric disorders using its allosteric modulation platform."
+description: "Swiss biotech pioneer in allosteric modulator drug discovery, trading on SIX and NASDAQ with a focus on neurological and neuropsychiatric disorders."
 keywords:
-  - Addex Therapeutics
-  - ADXN
-  - pharmaceutical
-  - neurodegeneration
-  - allosteric modulation
+  - allosteric modulators
+  - small molecule drugs
+  - cns disorders
+  - neurological treatment
+  - neurodevelopmental disorders
+  - precision medicine partnerships
+handwritten: true
 ---
 
-*The **Addex Therapeutics Ltd.** (**ADXN**) is a Swiss publicly traded biopharmaceutical company focused on developing allosteric modulators—drugs that fine-tune protein function—for neurological and psychiatric disorders.*
+Addex Therapeutics is a clinical-stage pharmaceutical company built on a singular technological foundation: allosteric modulation of GABA and glutamate receptors in the central nervous system. The company controls discovery and development platforms that identify small molecule drugs capable of modulating—rather than blocking or fully activating—their neurological targets, a distinction that matters because allosteric compounds can be exquisitely selective and often avoid the side effects that plague traditional orthosteric drugs (direct-binding molecules that occupy the primary site).
 
-<aside class="wiki-infobox">
-| Field | Detail |
-|-------|--------|
-| Ticker | ADXN |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 1574232 |
-| Sector | Healthcare |
-| Industry | Biopharmaceuticals |
-| Headquarters | Geneva, Switzerland |
-| Founded | 2002 |
-| Type | Public corporation |
-</aside>
+Founded in 2002 and headquartered in Geneva, Addex has grown not through acquisitions but through disciplined focus on one therapeutic chemistry: the allosteric modulator landscape. The company maintains a portfolio of programs in various stages of clinical development, each aimed at neurological or neuropsychiatric disorders where precision and tolerability are the limiting factors in existing treatment options. Its intellectual property position rests on deep know-how in screening, characterization, and optimization of allosteric compounds—work that requires years of biochemistry, not just compound libraries.
 
-## What the company does
+Partnership and capital flow represent the company's financial model. Addex has granted licenses to larger pharma partners, notably Janssen Pharmaceuticals (for mGlu2 PAM compounds in certain indications) and Indivior PLC (for GABAB PAM compounds in addiction and related CNS disorders). These agreements provide both upfront payments and milestone-driven revenue, reducing the company's need to fully fund development of every asset. Addex also invests in adjacent precision-medicine opportunities—in 2025 it led a CHF 2 million round in Stalicla, a neurodevelopmental disorder company—signaling confidence in the broader neurological market and willingness to diversify revenue streams beyond its core pipeline.
 
-Addex develops small-molecule drugs using allosteric modulation technology. This approach involves binding to sites on proteins that are different from the active site, allowing fine-tuning of protein activity rather than complete inhibition or activation. Allosteric modulators can offer advantages in safety and selectivity—by targeting specific protein conformations in specific tissues. Addex's pipeline focuses on neurological and psychiatric disorders including Parkinson's disease, depression, anxiety, and other conditions. The company develops candidates across multiple targets, attempting to identify those with the greatest clinical and commercial potential. Early-stage candidates are typically out-licensed to larger pharmaceutical partners for development and commercialization.
-
-## Business model and financing
-
-Addex operates as a clinical-stage biopharmaceutical company. The company generates limited operational revenue. Funding comes from equity financing, grant funding, and licensing deals with larger pharmaceutical companies. Pharmaceutical partners provide milestone payments and royalties on approved products. This model reduces the company's capital requirements relative to fully funding development alone, but success depends on attracting quality partnerships and external investors. The company's value is derived from intellectual property (patents on allosteric modulators and specific targets) and the potential of pipeline candidates.
-
-## Technology platform and intellectual property
-
-Addex's core intellectual property is its allosteric modulation platform—the scientific expertise and patent protection around identifying and optimizing allosteric modulators. Patents on specific compounds and uses provide protection against generic competition if products reach approval. Patent expiration timelines are critical to valuation; products losing patent protection face generic competition and margin compression. The company must continually generate new IP through R&D to maintain long-term value.
-
-## Clinical development and regulatory pathways
-
-Advancement of candidates through FDA approval involves preclinical studies, investigational new drug (IND) applications, and multiple phases of clinical trials. Timeline from preclinical work to approval typically spans 10 years or more. Failure rates are high; most candidates fail in clinical development. Positive clinical trial data is essential for partnerships and financing. Regulatory approval is never guaranteed. As an early-stage company, Addex candidates are in early clinical phases; advancing to pivotal trials and approval will take years and is uncertain.
-
-## Competitive context
-
-Allosteric modulation is one of many drug discovery approaches. Addex competes with large pharmaceutical companies developing drugs using various mechanisms, as well as other small biotech companies pursuing allosteric modulators or related approaches. Differentiation comes from target selection, scientific expertise, and clinical trial outcomes. Large pharma companies with more resources may develop competing drugs. Patent protection and first-mover advantage are important for maintaining competitive position.
-
-## Risks and considerations
-
-Like all biopharmaceutical companies, Addex faces scientific, regulatory, and commercial risks. Clinical failure is common; most candidates fail to achieve approval. Market adoption of approved drugs is uncertain and dependent on efficacy, safety, and pricing. Regulatory decisions may limit approved indications or impose restrictions. Patent challenges may reduce intellectual property value. Financing risks exist if capital markets restrict access to funding. Stock prices of development-stage biotech companies are volatile and depend heavily on clinical trial outcomes and partnership announcements.
-
-## How to research it
-
-Review the company's annual [10-K](/wiki/10-k/) and quarterly [10-Q](/wiki/10-q/) filings on the SEC EDGAR database. Assess cash position and runway—how long the company can operate with current resources. Monitor pipeline status and clinical trial progress. Read press releases announcing partnerships, trial results, or regulatory interactions. Follow scientific publications from Addex researchers. Track allosteric modulation technology developments and competitive landscape. Compare with other early-stage biotech companies and their clinical progress. Assess management experience in drug development and partnerships. Monitor regulatory documents, including IND applications and meeting minutes, which may be publicly disclosed.
-
-<div class="wiki-seealso">
-### Closely related
-- [Biopharmaceutical development](/wiki/biopharmaceutical-development/)
-- [Allosteric modulation](/wiki/allosteric-modulation/)
-- [Clinical trials](/wiki/clinical-trials/)
-- [Neurological disorders treatment](/wiki/neurological-disorders/)
-
-### Wider context
-- [Public company](/wiki/public-company/)
-- [Drug discovery and development](/wiki/drug-discovery/)
-- [Intellectual property in pharma](/wiki/ip-pharmaceuticals/)
-</div>
+The company trades on both the SIX Swiss Exchange and [NASDAQ](/wiki/stock-exchange/) under the single ticker ADXN, a dual listing that reflects both its Swiss domicile and its capital markets access. As a clinical-stage operator, Addex's value is entirely forward-looking: tied to the success of its pipeline, the strength of its IP, and the partnerships it cultivates with larger players who can take compounds into late-stage trials and commercialization. The allosteric modulator class remains unproven at scale in the market, but the scientific rationale is sound and the clinical-stage status leaves room for milestone achievements to drive investor narrative shifts.

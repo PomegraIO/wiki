@@ -1,66 +1,26 @@
 ---
 title: "Arcturus Therapeutics Holdings Inc. (ARCT)"
-description: "Biopharmaceutical company focused on RNA medicines and vaccines using self-amplifying RNA platform technology."
+description: "A biotech company developing RNA-based therapeutics for rare genetic diseases, cancer, and infectious diseases using proprietary self-amplifying RNA (saRNA) technology."
 keywords:
-  - Arcturus Therapeutics
-  - ARCT
-  - biopharmaceutical
-  - RNA medicine
-  - vaccine
-  - saRNA
+  - rna therapeutics
+  - rare genetic diseases
+  - self-amplifying rna
+  - clinical stage biotech
+handwritten: true
 ---
 
-*[**Arcturus Therapeutics Holdings Inc.**](https://arcturus.com) (**ARCT**) is a [publicly traded](/wiki/public-company/) biopharmaceutical company developing RNA-based medicines and vaccines. Based in San Diego, California, the company specializes in self-amplifying RNA (saRNA) technology as a platform for therapeutic applications, positioning itself in the growing field of RNA medicine innovation.*
+Arcturus Therapeutics is a clinical-stage biotechnology company built on a platform of self-amplifying RNA (saRNA) technology intended to treat patients with rare genetic disorders, certain cancers, and viral infections. The company's core innovation centers on synthetic RNA constructs designed to amplify therapeutic signals within cells, theoretically requiring lower doses than conventional RNA treatments while aiming to improve patient outcomes.
 
-<aside class="wiki-infobox">
+Founded to exploit the potential of RNA-based medicine beyond the messenger RNA vaccines that gained prominence in pandemic response, Arcturus has constructed a pipeline spanning multiple modalities. Its work targets monogenic diseases—conditions caused by a single gene defect—where the therapeutic logic is straightforward but the commercial challenges are steep: small patient populations, high development costs, and the need to demonstrate durable benefit in rare populations where conventional clinical trial metrics may prove difficult to establish.
 
-| Field | Value |
-|-------|-------|
-| Ticker | ARCT |
-| Listing | [US-listed](/wiki/stock-exchange/); [NASDAQ](/wiki/stock-exchange/) |
-| SEC CIK | 1768224 |
-| Sector | Healthcare |
-| Industry | Biopharmaceutical |
-| Headquarters | San Diego, California |
-| Founded | 2013 |
-| Type | [Public company](/wiki/public-company/) |
+The company operates across several therapeutic categories. Core programs include work in rare genetic disease, where treatments might address conditions like Duchenne muscular dystrophy or other single-gene disorders; oncology, where saRNA approaches seek to activate innate immune responses against cancer; and infectious disease, where RNA therapeutics can be designed to target viral sequences. These segments reflect both the diversity of potential RNA applications and the strategic challenge of competing in multiple markets simultaneously without the cash flow of a profitable core business.
 
-</aside>
+| Program Area | Development Stage | Clinical Focus |
+|---|---|---|
+| Rare Genetic Disease | Preclinical/Early Clinical | Monogenic disorders, neuromuscular disease |
+| Oncology | Preclinical | Immuno-oncology via saRNA activation |
+| Infectious Disease | Preclinical/Clinical | Viral therapeutics |
 
-## What the company does
+The saRNA platform is the company's principal differentiator. Rather than relying on one-time dosing of conventional mRNA, the self-amplifying architecture is intended to produce more durable therapeutic protein expression from fewer doses, potentially reducing manufacturing burden and improving pharmacoeconomics. Whether this translates to commercial advantage depends entirely on clinical proof—superior efficacy, better tolerability, or meaningful dose reduction compared to competitors' approaches. As of now, the pipeline remains largely in preclinical and early-stage clinical development, with no approved products generating revenue.
 
-Arcturus Therapeutics develops RNA medicines using proprietary self-amplifying RNA technology. The saRNA platform is designed to work with lower doses than conventional mRNA approaches, potentially improving safety and manufacturing efficiency. The company focuses on therapeutic areas including infectious diseases, oncology, and rare genetic disorders. Its pipeline includes vaccine candidates and therapeutic agents addressing unmet medical needs.
-
-## Research and development focus
-
-The company's primary technical differentiator lies in its self-amplifying RNA platform, which incorporates viral-like replication machinery to amplify therapeutic RNA inside cells. This approach aims to deliver therapeutic effects with reduced dosing requirements compared to non-amplifying mRNA platforms. Arcturus has partnerships with academic institutions and other pharmaceutical companies to advance its technology across multiple indications.
-
-## Market position
-
-Arcturus operates in the competitive RNA therapeutics landscape alongside larger companies and other biotechnology firms pursuing RNA-based approaches. As a smaller, development-stage company, it depends on continued funding, successful clinical trials, and eventual commercialization partnerships or regulatory approvals to reach profitability. The RNA medicine field has attracted significant investment and regulatory attention, with multiple platforms advancing through clinical development.
-
-## How to research it
-
-Investors and researchers can access the company's [SEC filings](/wiki/10-k/), including annual 10-K reports and quarterly 10-Q forms, through the SEC's EDGAR database using CIK 1768224. The company's investor relations website provides presentation materials, financial reports, and updates on pipeline progress. Regulatory developments, clinical trial results, and partnership announcements typically appear in SEC filings and company press releases.
-
-## Financial structure and capital
-
-As a development-stage biopharmaceutical company, Arcturus requires ongoing capital investment to fund research, development, and clinical trials. The company's financial model depends on successful clinical trial outcomes, regulatory approval pathways, and the ability to secure additional financing. Typical funding sources include equity offerings, strategic partnerships, and potential milestone payments from collaborators.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [RNA medicine](/wiki/rna-medicine/) — The therapeutic approach underlying Arcturus' platform
-- [Biopharmaceutical](/wiki/biopharmaceutical-company/) — Industry classification
-- [Clinical trial](/wiki/clinical-trial/) — Development pathway for Arcturus programs
-- [Vaccine development](/wiki/vaccine-development/) — Key therapeutic area
-
-### Wider context
-
-- [Pharmaceutical industry](/wiki/pharmaceutical-industry/) — Broader sector
-- [Biotech stock](/wiki/biotech-stock/) — Similar company classifications
-- [Drug development pipeline](/wiki/drug-development-pipeline/) — Standard biotech model
-- [SEC filings](/wiki/10-k/) — Regulatory disclosure requirements
-
-</div>
+Arcturus operates in the fiercely competitive RNA therapeutics space, where larger players like Moderna and BioNTech have both cash and pipeline depth, while smaller specialists focus on narrower targets. The company's path to value depends on clinical validation of its platform, successful advancement of lead programs to the clinic, and ultimately proof that saRNA offers advantages that justify its complexity and manufacturing requirements. Like all preclinical-stage biotechs, Arcturus faces perpetual capital demands, binary clinical outcomes, and the persistent risk that its platform thesis, however elegant in theory, may not translate to clinical benefit or commercial success.

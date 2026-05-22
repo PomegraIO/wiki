@@ -1,62 +1,34 @@
 ---
 title: "AUMOVIO SE (AMVIF)"
-description: "AUMOVIO SE is a technology and software company that develops AI-driven solutions for automotive and mobility sectors, listed on U.S. exchanges through ADR."
+description: "German automotive-technology company providing vehicle electronics, software-defined systems, and mobility solutions for autonomous and connected driving."
 keywords:
-  - AUMOVIO SE
-  - AMVIF
   - automotive technology
-  - artificial intelligence
-  - software
-  - ADR
+  - vehicle electronics
+  - software-defined vehicles
+  - autonomous driving
+  - mobility solutions
+  - automotive supplier
+handwritten: true
 ---
 
-*AUMOVIO SE (ticker **AMVIF**) is a European technology and software company focused on artificial intelligence and data analytics solutions for the automotive and mobility industries, trading in the United States as an American Depositary Receipt.*
+**AUMOVIO SE is a German automotive-technology supplier specializing in electronics, software systems, and integrated solutions that power the shift toward autonomous and software-defined vehicles.**
 
-<aside class="wiki-infobox">
-| Attribute | Details |
-|-----------|---------|
-| Ticker | AMVIF |
-| Listing | US-listed; ticker AMVIF |
-| SEC CIK | 2085236 |
-| Sector | Technology |
-| Industry | Software and AI Solutions |
-| Headquarters | Europe |
-| Type | Public Company |
-</aside>
+## Electronics and Systems Integration
 
-## What the company does
+AUMOVIO designs and manufactures the hardware and software that sits at the heart of modern vehicles—sensor systems for perception, display and cockpit electronics, braking and motion control systems, and the software architectures that allow vehicles to become software-defined machines. The company operates across passenger vehicles and commercial vehicle platforms, with roughly 82,000 employees and operations spanning 80 locations across 24 countries, centered on innovation out of Frankfurt am Main.
 
-AUMOVIO SE develops artificial intelligence and machine learning software platforms designed for the automotive and mobility sectors. The company's technology focuses on creating intelligent systems that enable connected vehicles, autonomous driving research, and fleet management solutions. Its software tools serve automakers, mobility service providers, and research institutions seeking to integrate AI capabilities into their operations.
+## Modular Solutions for the Autonomous Transition
 
-## How it makes money
+The company structures its offerings around the core shift reshaping the industry: vehicles as rolling computers that can be upgraded and enhanced via software. Its business segments focus on autonomous mobility (hardware-as-a-service partnerships, including a collaboration with Aurora for autonomous driving kits), vehicle network and electrical architectures, safety and motion control, user experience systems, and contract manufacturing for OEM partners. This modular, componentized approach allows automakers to adopt autonomous and software-defined capabilities incrementally rather than as all-or-nothing platform shifts.
 
-The company generates revenue through software licensing, platform subscriptions, and consulting services related to AI integration in automotive applications. Revenue streams include subscription fees from end-users, licensing agreements with automotive manufacturers, and technology development contracts with partners in the mobility ecosystem.
+## Market Position
 
-## Where it sits in its industry
+AUMOVIO was spun out of Continental AG and listed on the Frankfurt Stock Exchange in 2025, reflecting investor demand for pure-play exposure to the SDV (software-defined vehicle) trend. The automotive supplier universe remains capital-intensive and cyclical, but AUMOVIO's focus on the highest-margin, fastest-evolving segment of the stack—software, integration, and autonomous systems rather than commodity components—positions it to benefit from structural demand as legacy OEMs and new entrants alike race to electrify and automate their fleets.
 
-AUMOVIO operates in the intersection of automotive technology and artificial intelligence, a segment that has attracted significant interest as the industry moves toward electrification and autonomous systems. The company competes with both specialized automotive software vendors and larger technology firms that have entered the mobility space. Its European roots and focus on AI differentiate it from many established players in traditional automotive supply.
+## At a Glance
 
-## Capital structure and trading
-
-The company trades in the United States through American Depositary Receipts (ADRs) under the ticker AMVIF, allowing U.S. investors to own shares without direct access to European exchanges. This structure provides liquidity in U.S. markets while the underlying shares remain domiciled in European regulatory frameworks.
-
-## How to research it
-
-Investors should review the company's [/wiki/10-k/] and quarterly filings with the SEC under CIK 2085236, which detail its business model, technology development, customer concentration, and competitive positioning. Key metrics to examine include customer acquisition costs, retention rates in software subscriptions, research and development expenditures as a percentage of revenue, and the pace of new product releases. Understanding the company's technology partnerships and customer base composition reveals exposure to major automotive manufacturers and emerging mobility startups.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [/wiki/amvif-stock/](/wiki/amvif-stock/)
-- [/wiki/adr/](/wiki/adr/)
-- [/wiki/adr-trading/](/wiki/adr-trading/)
-
-### Wider context
-
-- [/wiki/automotive-technology/](/wiki/automotive-technology/)
-- [/wiki/software-licensing/](/wiki/software-licensing/)
-- [/wiki/public-company/](/wiki/public-company/)
-- [/wiki/10-k/](/wiki/10-k/)
-
-</div>
+- Frankfurt-headquartered German automotive-technology supplier, ~82,000 employees
+- Spun from Continental AG; listed on Frankfurt Stock Exchange (ticker: AMV0) in 2025
+- Core business: electronics, software architectures, and integrated systems for modern and autonomous vehicles
+- Revenue circa €18.5 billion (fiscal 2025); operates in 24 countries
+- Key focus: software-defined vehicle platforms, autonomous driving partnerships, electrical architectures, safety systems, and user experience solutions

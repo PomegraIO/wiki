@@ -1,52 +1,26 @@
 ---
 title: "Amphastar Pharmaceuticals, Inc. (AMPH)"
-description: "A specialty pharmaceutical company focused on critically needed injectable and infusion drugs, serving hospitals and healthcare providers."
+description: "A specialty pharmaceutical company focused on generic injectables and branded specialty drugs for critical care, infusion, oncology, and growth hormone markets."
 keywords:
-  - Amphastar Pharmaceuticals
-  - AMPH
   - specialty pharmaceuticals
-  - injectable drugs
-  - FDA-approved products
+  - generic injectables
+  - critical care drugs
+  - growth hormone
+  - pharmaceutical manufacturing
+handwritten: true
 ---
 
-*[Amphastar Pharmaceuticals, Inc.](/wiki/public-company/) (AMPH) is a specialty pharmaceutical company that develops, manufactures, and markets generic and proprietary injectable and infusion drugs. The company serves hospitals, clinics, and other healthcare providers across the United States, focusing on products for critical care, cardiology, neurology, and other therapeutic areas.*
+**Amphastar Pharmaceuticals manufactures and sells specialty pharmaceuticals, with a heavy focus on generic injectables for critical care and institutional markets.** Founded in 1996 and headquartered in Rancho Cucamonga, California, the company produces a range of products spanning injectable drugs, specialty medications, and devices used in hospitals, clinics, and by prescribers. Its portfolio spans critical-care injectables, oncology drugs, products for infusion therapy, and notably a line of recombinant human growth hormone products under the brand Symbiotropin—some of which were developed in-house while others came through acquisitions and partnerships.
 
-<aside class="wiki-infobox">
+The company operates across two primary business segments. Its API (active pharmaceutical ingredient) and injectable manufacturing covers a broad range of critical-care medications supplied to hospitals and institutional providers—drugs that are often at the sharp end of medical practice. Its specialty pharmaceutical division includes branded products and specialty compounds, including an established franchise in recombinant growth hormone therapy that serves endocrinologists and pediatric specialists. This dual structure reflects Amphastar's evolution from a contract manufacturer into a vertically integrated player with both commodity-generic and higher-margin branded offerings. The growth hormone franchise, in particular, commands pricing power and recurring demand from a loyal patient base.
 
-| **Field** | **Value** |
-|-----------|-----------|
-| Ticker | AMPH |
-| Listing | US-listed; Nasdaq |
-| SEC CIK | 1297184 |
-| Sector | Healthcare |
-| Industry | Specialty Pharmaceuticals |
-| Headquarters | Rancho Cucamonga, California |
-| Founded | 2002 |
-| Type | Public company |
+Amphastar's competitive position rests on manufacturing scale, regulatory expertise, and supply reliability. It operates manufacturing facilities across the United States and internationally, with quality systems and FDA-approved processes that serve as barriers to entry for competitors. The company supplies to major pharmacy benefit managers, wholesalers, hospital systems, and specialty pharmacies. Like other generic injectable manufacturers, Amphastar faces cyclical pricing pressures and occasional shortages that create both risks and opportunities; supply disruptions elsewhere in the market can temporarily lift its own pricing, while price wars among competitors can compress margins. The growth hormone segment provides a more stable cash stream, though it faces biosimilar competition and requires ongoing clinical and commercial investment.
 
-</aside>
+The firm sits between pure-play generics (which compete on price and volume) and innovative pharma (which holds patents and charges premium prices). This middle ground gives it exposure to both the efficient production demands of generics and the clinical specialization of branded drugs. Its injectable focus and institutional customer base mean revenue and profitability are tied to hospital utilization rates, reimbursement rates, and the competitive intensity of each market segment. Investors in AMPH are typically drawn to the combination of stable generic injectable cash flow and growth potential from the branded specialty franchise.
 
-## What the company does
+---
 
-Amphastar Pharmaceuticals develops and manufactures sterile injectable drugs, primarily serving hospital and acute-care settings. Its product portfolio includes both [generic](/wiki/generic-drug/) versions of established drugs and proprietary formulations. The company operates a registered manufacturing facility and distributes its products through both direct channels to hospitals and health systems and through pharmaceutical wholesalers. The therapeutic focus spans critical care medications, injectables used in cardiovascular procedures, anesthesia, and neurological treatments.
-
-## How it makes money
-
-The company generates revenue primarily from product sales of its injectable formulations. Revenue derives from two main channels: direct sales to large hospital systems and health networks, and wholesale distribution through major pharmaceutical distributors. A portion of revenue also comes from contract manufacturing arrangements where the company manufactures products for other pharmaceutical firms. Margins vary depending on the product mix—proprietary formulations typically command higher margins than generic products, which face more commodity-like pricing pressure from competing manufacturers.
-
-## Manufacturing and supply
-
-Amphastar operates or controls manufacturing facilities that produce injectable drug formulations under FDA regulation and cGMP (current good manufacturing practice) standards. Maintaining [FDA](/wiki/fda/) approval and compliance with manufacturing regulations is critical to the business, as any loss of manufacturing certification or supply disruption can directly impact revenue. The company sources active pharmaceutical ingredients and excipients from suppliers, making supply chain management an ongoing operational focus.
-
-## Where it sits in its industry
-
-The specialty injectable pharmaceutical space is competitive and fragmented, with players ranging from large, diversified pharmaceutical giants to smaller, focused manufacturers. Amphastar competes with larger companies that have more resources for R&D and marketing, as well as with other specialty injectable manufacturers on price, product quality, delivery reliability, and hospital relationships. The company's survival and growth depend on securing and maintaining formulary positions with major hospital networks, which often conduct competitive bidding for generic injectable drugs.
-
-## Regulatory and development
-
-As a manufacturer of [FDA](/wiki/fda/)-approved drugs, Amphastar must comply with stringent manufacturing, quality, and safety regulations. New product development involves obtaining FDA approval via [ANDA](/wiki/anda/) (Abbreviated New Drug Application) for generic drugs or NDA (New Drug Application) for proprietary formulations. The company faces ongoing patent and regulatory scrutiny and must maintain manufacturing approvals and compliance audits. Changes in healthcare reimbursement rates, hospital consolidation, and shifts in drug purchasing practices can materially affect the business.
-
-## How to research it
+**See also:** [10-K](/wiki/10-k/)
 
 For current financial information and filings, review Amphastar's periodic reports with the [SEC](/wiki/sec/), including its [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-q/) filings. The company's investor relations site typically provides earnings releases, presentations, and guidance. Industry analysis of the specialty pharmaceuticals and injectable drug market can provide context for competitive positioning. News coverage of hospital purchasing, FDA actions, and pharmaceutical supply chain developments may affect the stock and business outlook.
 

@@ -1,67 +1,38 @@
 ---
 title: "Angel Studios, Inc. (ANGX)"
-description: "Angel Studios is a content production and distribution company that finances and produces television and film projects, offering shares to retail investors."
+description: "Angel Studios is a values-driven film and television production and distribution company that crowdsources decisions to a global audience of paying members through its proprietary guild model."
 keywords:
-  - Angel Studios
-  - ANGX
-  - entertainment
-  - media production
-  - content distribution
-  - streaming
+  - angel studios
+  - audience-driven content
+  - film distribution
+  - guild model
+  - crowdsourced greenlight
+  - faith-based entertainment
+  - streaming alternative
+handwritten: true
 ---
 
-*Angel Studios, Inc. (**ANGX**) is a content production and distribution company that specializes in financing, developing, and producing television series and feature films. The company operates a unique model allowing retail investors to participate in film and television projects alongside institutional capital.*
+## How does Angel Studios differ from traditional studios?
 
-<aside class="wiki-infobox">
-| Item | Detail |
-|------|--------|
-| **Ticker** | ANGX |
-| **Listing** | US-listed; ticker ANGX |
-| **SEC CIK** | 1865200 |
-| **Sector** | Communication Services |
-| **Industry** | Entertainment & Media |
-| **Headquarters** | Provo, Utah |
-| **Type** | Public Company |
-</aside>
+Angel Studios operates on a fan-powered, audience-first model rather than relying on studio executives and gatekeepers to greenlight projects. The company's Angel Guild members—investors who pay approximately $12–$15 monthly—collectively vote on which completed films and television series Angel Studios will produce, distribute, or acquire. This inverts the traditional Hollywood model where executives greenlight scripts before production. Members have greenlighted notable successes including *Sound of Freedom*, which earned $250 million worldwide, and *His Only Son*, which grossed $13 million. The company positions itself as an alternative to mainstream studios, particularly for stories with values-driven and faith-based themes that the founders believe reflect a significant but underserved global audience.
 
-## What the company does
+## Who funds Angel Studios projects?
 
-Angel Studios operates as an independent content studio focused on producing and distributing scripted television series and feature films. The company's distinctive model centers on allowing individual investors to invest directly in specific film and television projects, enabling retail participation in entertainment financing traditionally reserved for studios, venture capital, and institutional investors.
+Angel Studios employs multiple funding mechanisms. The core recurring revenue comes from the Angel Guild subscription service, which has grown to over two million paying members spanning more than 150 countries. Guild members pay monthly fees that directly support production and distribution. The company also launched Angel Funding, a crowdfunding portal enabling individuals to invest in specific films through [Regulation A+](/wiki/stock/) securities offerings. This multi-layered funding approach means projects are financed not by traditional banks or hedge funds, but by audiences and fans who have already evaluated and approved the work. Subscription revenue from guild members accounted for roughly 77% of total revenue, making it the dominant income stream and distinguishing Angel Studios from companies that rely primarily on licensing fees or theatrical distribution.
 
-The company develops original content across various genres and formats, managing the full production pipeline from development and pre-production through post-production and distribution. Angel Studios also handles rights management and distributes its content across multiple platforms including streaming services, broadcast networks, and international markets.
+## What types of content does Angel Studios produce and distribute?
 
-## How it makes money
+Angel Studios focuses predominantly on faith-driven, family-friendly, and values-aligned narratives—stories that executives believe reflect audiences' hunger for content beyond what mainstream platforms emphasize. The studio produces original films and television series, acquires and distributes third-party content, and provides consulting services to filmmakers. Rather than chasing trending algorithms or mass-market demographics, the company targets a specific cultural segment seeking entertainment that aligns with particular worldviews. This niche focus is deliberate: the company was founded by brothers seeking films they could watch with their own families and built on the conviction that substantial global demand existed for entertainment reflecting their values, particularly stories positioned as faith-based or inspirational.
 
-Angel Studios generates revenue through several streams. Primary revenue comes from distribution agreements with streaming platforms, broadcast networks, and other media distributors who license the company's content. The company also earns money through international sales and licensing of its catalog.
+## Why does Angel Studios' guild membership model matter to investors?
 
-The investment model operates separately from core operations: individual investors fund specific projects directly, with returns dependent on the commercial success of each title. This structure creates a double-revenue mechanism where the studio finances projects through investor capital while also earning distribution revenues from licensing content globally.
+Guild membership is central to Angel Studios' financial model and reduces traditional market risk. Subscription revenue from members accounted for the majority of total revenue, making it the company's most predictable income stream. The company tracks average revenue per member and membership growth closely. When members vote to greenlight a project, they have already signaled demand—meaning the studio moves forward with validated audience interest rather than speculating on market appetite. This crowd-sourced validation is distinct from traditional studios, which greenlight projects based on executive judgment, comparable box office performance, or franchise relationships. Membership growth has expanded substantially, with the guild representing members from over 150 countries, suggesting the model captures demand that traditional streamers and studios underestimate or deliberately avoid.
 
-## Where it sits in its industry
+## How does Angel Studios compete with Netflix and legacy studios?
 
-Angel Studios occupies a niche in the entertainment landscape as an independent production studio competing against larger legacy studios and streaming platforms. Unlike traditional studios that self-finance or rely on institutional capital exclusively, Angel Studios distinguished itself by offering retail investors equity stakes in individual projects.
+Angel Studios operates in a position of structural advantage and disadvantage. The company lacks the content libraries, production budgets, and global reach of Netflix, Disney, or traditional studios. However, its direct-to-audience funding model circumvents the need for traditional gatekeepers, distribution leverage, or massive upfront production financing. Rather than competing on scale or franchise legacy, Angel Studios competes on the strength of committed, pre-validated audiences willing to subscribe and vote on content. Recent financial results showed revenue growth exceeding 250% year-over-year, suggesting the model captures underserved demand. As streaming platforms consolidate, theatrical revenue declines, and major studios face rising content costs, Angel's approach of letting paying audiences greenlight and fund projects offers an alternative template that diverges fundamentally from incumbent distribution strategies.
 
-The entertainment production sector remains highly competitive, with power concentrated among major studios owned by large media conglomerates and well-capitalized streaming platforms. Angel Studios' competitive positioning relies on its specialized content approach, investor-friendly transparency, and ability to tap retail capital markets as a funding alternative.
+## Further reading
 
-## How to research it
-
-For research, consult the company's filings with the Securities and Exchange Commission. The annual [10-K](/wiki/10-k/) filing provides comprehensive information on operations, financial performance, and business segments. Quarterly [10-Q](/wiki/10-k/) filings track ongoing performance and material developments. The company's investor relations website includes press releases, investor presentations, and corporate governance documents.
-
-Industry reports on entertainment production, streaming distribution, and media financing provide context for evaluating the company's position. Trade publications covering film and television production, as well as broader entertainment finance analysis, offer perspective on competitive dynamics and sector trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Entertainment & media companies](/wiki/entertainment-media/)
-- [Film and television production](/wiki/film-television-production/)
-- [Streaming services](/wiki/streaming-media/)
-- [Media rights and licensing](/wiki/media-licensing/)
-
-### Wider context
-
-- [Public company](/wiki/public-company/)
-- [Stock exchange](/wiki/stock-exchange/)
-- [Corporate entertainment financing](/wiki/entertainment-financing/)
-- [Retail investing](/wiki/retail-investing/)
-
-</div>
+- [Angel Studios official website](https://www.angel.com)
+- [Angel Studios on Wikipedia](https://en.wikipedia.org/wiki/Angel_Studios)

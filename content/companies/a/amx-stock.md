@@ -1,68 +1,25 @@
 ---
 title: "AMERICA MOVIL SAB DE CV/ (AMX)"
-description: "Mexican multinational telecommunications company providing mobile, fixed-line, and broadband services across Latin America with a focus on underserved markets."
+description: "Mexican telecommunications giant operating across Latin America and the Caribbean, offering wireless, wireline, and digital services to hundreds of millions of customers."
 keywords:
-  - AMERICA MOVIL
-  - AMX
-  - telecommunications
-  - Latin America
-  - wireless carrier
-  - emerging markets
+  - mexico telecom
+  - latin america mobile networks
+  - wireless operator
+  - fixed broadband
+  - emerging market carrier
+handwritten: true
 ---
 
-*[**AMERICA MOVIL SAB DE CV**](/wiki/public-company/) (ticker **AMX**) is a multinational telecommunications carrier headquartered in Mexico. The company operates mobile, fixed-line, and broadband networks across Latin America, with a particular focus on serving smaller and lower-income markets where incumbent operators have less presence. As one of the largest wireless operators in the region by customer base, AMERICA MOVIL owns and operates subsidiaries under various brands and serves tens of millions of subscribers.*
+America Movil is the dominant telecommunications operator across Mexico and a sprawling footprint spanning Latin America and the Caribbean. Controlled by the Slim family through a complex ownership structure, the company serves hundreds of millions of people across borders, primarily through wireless carriers—selling mobile plans, voice, and data to consumers and businesses. But today it runs an entire ecosystem: wireline networks for fixed-line telephone and broadband, cable television operations, and increasingly digital platforms stacked atop the core telecom backbone. The company is a [public company](/wiki/public-company/) listed in Mexico and trades as an [ADR](/wiki/adr/) on US exchanges.
 
-<aside class="wiki-infobox">
+The company's roots trace to Telmex, Mexico's state-owned telephone monopoly privatized in 1990. Carlos Slim acquired it through a consortium that became the foundation of his empire. Over the following decades, Slim and his team methodically acquired or built mobile carriers across Latin America—starting with Mexico's competitive wireless market, then expanding south: Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Colombia, Ecuador, Peru, Argentina, Chile, and the Caribbean islands. America Movil later became the listed vehicle for much of this portfolio, though the structure remained complex, with Telmex, Carso, and other entities holding overlapping pieces.
 
-| Field | Value |
-|-------|-------|
-| **Ticker** | AMX |
-| **Listing** | US-listed; ticker AMX |
-| **SEC CIK** | 1129137 |
-| **Sector** | Communication Services |
-| **Industry** | Wireless Telecommunications |
-| **Headquarters** | Mexico City, Mexico |
-| **Founded** | 2000 |
-| **Type** | [Public company](/wiki/public-company/) |
+> "We are not just a telecommunications company—we're the digital backbone of millions of lives across the region."
 
-</aside>
+This sentiment, echoed across investor presentations for years, captures the breadth of ambition that drove expansion during high-growth wireless adoption through the 2000s and 2010s. The wireless business remains the revenue engine and margin driver. Mobile penetration in developed markets has plateaued, but across Latin America, where incomes are lower and smartphone ownership continues climbing, carrier competition remains intense. Prepaid models dominate; many customers buy limited airtime and data rather than monthly contracts. This creates different economics than North American carriers—lower average revenue per user, higher churn, and brutal price wars in competitive markets. America Movil has typically competed on scale, brand, and distribution breadth.
 
-## What the company does
+Fixed-line and broadband operations provide diversity. Mexico's wireline market matured long ago, but the company maintains a large installed base of residential and business customers for telephone and internet services. In many Latin American markets, fixed broadband is growing as fiber and cable networks expand, offering higher margins than wireless. Cable television, bundled with broadband, remains significant in Mexico and the Caribbean. These bundled services reduce churn and increase customer lifetime value—a core strategy. Digital services and platforms represent the forward-facing narrative: fintech, e-commerce infrastructure, cloud services, and data analytics positioned as a "digital backbone" for the region beyond traditional telecom.
 
-AMERICA MOVIL operates integrated telecommunications infrastructure serving primarily Latin American markets. The company's core business includes wireless mobile services (the largest revenue segment), along with fixed-line voice, data connectivity, and broadband access. It maintains both wholly owned subsidiaries and significant minority stakes in other regional carriers, creating a diversified footprint across multiple countries and regulatory environments.
+The company's structure is famously opaque. Slim controls the operation through layers of cross-holdings and subsidiaries, an arrangement that provided tax and legal flexibility but also created minority-shareholder concerns and regulatory scrutiny. Currency and geopolitical risk cuts both ways: most revenues come from outside Mexico in weaker currencies, so when the Mexican peso or US dollar strengthens, reported results suffer from consolidation effects. Regional unrest—labor strikes, cartel violence affecting operations, political crises in smaller markets—can disrupt service and create liabilities. Conversely, wireless penetration in less-developed areas and growing data consumption provide structural tailwinds. Regulatory risk is ever-present; governments in Mexico, Colombia, Argentina, and elsewhere have demanded concessions, price caps, or infrastructure investments. Political instability in some markets (Venezuela, Argentina, Nicaragua) has forced writedowns and exits.
 
-The company targets emerging and underserved markets where it can deploy technology efficiently and serve price-conscious consumers. This business model emphasizes scale and operational efficiency rather than pursuing premium-segment pricing in developed markets.
-
-## How it makes money
-
-Revenue derives principally from wireless service subscriptions (monthly recurring fees), usage-based mobile charges, fixed-line telephony, and broadband data services. The company also generates returns from its portfolio of minority stakes in regional carriers, which provide both [dividend income](/wiki/dividend/) and occasional gains on equity dispositions.
-
-AMERICA MOVIL's profitability depends on subscriber volume, average revenue per user (ARPU), cost management, and capital intensity of network maintenance and expansion. Like other telecom carriers, the business requires ongoing [capital expenditure](/wiki/capex-budgeting/) to maintain network quality and deploy new technologies, which constraints [free cash flow](/wiki/cash-flow-statement/).
-
-## Where it sits in its industry
-
-AMERICA MOVIL is among the largest wireless operators in Latin America by subscriber count and operates in multiple national markets, which distinguishes it from pure single-country incumbents. Its market position is strongest in Mexico and Central America, where it holds substantial [market share](/wiki/market-share-estimate/). The company faces competition from other regional operators, established national carriers, and newer entrants in certain markets.
-
-The company's strategy emphasizes efficiency in lower-income markets and integration of its subsidiary network, which can create operational synergies but also complexity across regulatory jurisdictions. Its ownership structure—including significant stakes held by the Telmex group and other shareholders—reflects its evolution through successive reorganizations and consolidations.
-
-## How to research it
-
-Start with the company's [10-K](/wiki/10-k/) filing with the [SEC](/wiki/sec-regulator/), which details its business segments, competitive environment, regulatory exposures, and financial performance. The 10-K also discloses material risks including currency fluctuations (since most revenue is outside the US), regulatory changes in multiple countries, and competition.
-
-Earnings call transcripts and quarterly [10-Q](/wiki/10-k/) filings provide updates on subscriber metrics, ARPU trends, and management commentary on operational challenges. Industry analysts publish comparative analysis of Latin American telecom operators, which helps contextualize AMERICA MOVIL's performance relative to peers.
-
-Regulatory filings in individual country markets may provide additional color on local market dynamics and competitive pressures, though these are typically available only in Spanish.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Wireless Telecommunications](/wiki/wireless-telecommunications/) — Overview of the industry
-- [Emerging Markets](/wiki/emerging-markets/) — Region focus and economic dynamics
-- [Currency Risk](/wiki/currency-risk/) — Material to companies with non-USD revenue
-
-### Wider context
-- [Telecommunications Industry](/wiki/telecommunications-industry/) — Sector fundamentals
-- [International Business](/wiki/international-business/) — Multi-jurisdiction complexity
-- [Infrastructure Investing](/wiki/infrastructure-investing/) — Capital-intensive business model
-
-</div>
+The shareholder base is split between Slim family interests and institutional investors. While the Slim family controls roughly 17% directly, through Carso Global Telecom they control much more, meaning major strategic decisions often reflect family interests rather than minority wishes. Financially, the company collects enormous cash flows from its customer base—hundreds of millions of subscribers generating recurring revenue. Capex demands are steady but typically well below top-line growth, allowing for dividends and debt service. The company has used leverage to fund expansion and acquisitions, though debt levels have moderated as growth slowed. 5G deployment is underway in major markets, requiring significant capex but promising improved data speeds and monetization. The competitive and regulatory outlook remains complex, with ongoing consolidation among smaller carriers and fintech competitors nibbling at the telecom advantage, though the embedded customer relationship and network asset remain defensible moats.
