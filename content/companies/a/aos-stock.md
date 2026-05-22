@@ -47,12 +47,12 @@ Start with the company's annual [10-K](/wiki/10-k/) filing with the SEC, which d
 <div class="wiki-seealso">
 
 ### Closely related
-- [HVAC Equipment Manufacturers](/wiki/) — industry peers in thermal comfort equipment
+- HVAC Equipment Manufacturers — industry peers in thermal comfort equipment
 
 ### Wider context
-- [Industrials Sector](/wiki/) — broader sector classification
-- [Manufacturing](/wiki/) — core business model
-- [Building Codes & Standards](/wiki/) — regulatory drivers
-- [Commodity Exposure](/wiki/) — steel and copper price impact
+- Industrials Sector — broader sector classification
+- Manufacturing — core business model
+- Building Codes & Standards — regulatory drivers
+- Commodity Exposure — steel and copper price impact
 
 </div>

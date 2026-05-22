@@ -31,15 +31,15 @@ Amylyx Pharmaceuticals operates as a [clinical-stage biopharmaceutical company](
 
 ## Scientific and clinical focus
 
-The company's primary area of scientific focus is [neurodegenerative disease](/wiki/), with special attention to amyotrophic lateral sclerosis and conditions with similar mechanisms of cellular degeneration. Rather than treating symptoms alone, Amylyx pursues disease-modifying approaches—therapies intended to slow or alter the course of the underlying disease process. This represents a distinct strategy from purely symptomatic treatments and requires substantial clinical evidence from multi-phase trials before regulatory approval becomes possible.
+The company's primary area of scientific focus is neurodegenerative disease, with special attention to amyotrophic lateral sclerosis and conditions with similar mechanisms of cellular degeneration. Rather than treating symptoms alone, Amylyx pursues disease-modifying approaches—therapies intended to slow or alter the course of the underlying disease process. This represents a distinct strategy from purely symptomatic treatments and requires substantial clinical evidence from multi-phase trials before regulatory approval becomes possible.
 
 ## Development pathway and regulatory environment
 
-As a [clinical-stage company](/wiki/public-company/), Amylyx must navigate the regulatory approval pathway set by the [SEC](/wiki/sec-regulator/) and the Food and Drug Administration (FDA). The biopharmaceutical development process is capital-intensive, time-consuming, and carries substantial risk. Drug candidates must progress through [preclinical research](/wiki/) and multiple phases of clinical trials, demonstrating both safety and efficacy to human subjects. Each stage represents a significant financial investment with no guarantee of ultimate approval or commercial success.
+As a [clinical-stage company](/wiki/public-company/), Amylyx must navigate the regulatory approval pathway set by the [SEC](/wiki/sec-regulator/) and the Food and Drug Administration (FDA). The biopharmaceutical development process is capital-intensive, time-consuming, and carries substantial risk. Drug candidates must progress through preclinical research and multiple phases of clinical trials, demonstrating both safety and efficacy to human subjects. Each stage represents a significant financial investment with no guarantee of ultimate approval or commercial success.
 
 ## How it makes money
 
-Biopharmaceutical companies in the clinical stage typically do not yet generate revenue from approved medications. Instead, Amylyx has historically relied on capital raising—including [equity offerings](/wiki/initial-public-offering/) and other [financing](/wiki/) mechanisms—to fund its research operations. Potential future revenue depends entirely on successful development and regulatory approval of its therapeutic candidates, followed by commercialization and market adoption.
+Biopharmaceutical companies in the clinical stage typically do not yet generate revenue from approved medications. Instead, Amylyx has historically relied on capital raising—including [equity offerings](/wiki/initial-public-offering/) and other financing mechanisms—to fund its research operations. Potential future revenue depends entirely on successful development and regulatory approval of its therapeutic candidates, followed by commercialization and market adoption.
 
 ## Position in the industry
 
@@ -47,7 +47,7 @@ The biopharmaceutical sector is highly competitive, with numerous companies purs
 
 ## Investment characteristics and risks
 
-Investors in clinical-stage biopharmaceutical companies assume substantial risk. Unlike mature pharmaceutical companies with approved products generating predictable cash flows, Amylyx's future depends on speculative clinical outcomes. Key risks include development delays, failure to meet efficacy or safety endpoints in [clinical trials](/wiki/), unexpected adverse events, regulatory rejection, patent challenges, and the competitive landscape. The company's [stock price](/wiki/stock/) can fluctuate sharply based on clinical trial announcements and regulatory developments.
+Investors in clinical-stage biopharmaceutical companies assume substantial risk. Unlike mature pharmaceutical companies with approved products generating predictable cash flows, Amylyx's future depends on speculative clinical outcomes. Key risks include development delays, failure to meet efficacy or safety endpoints in clinical trials, unexpected adverse events, regulatory rejection, patent challenges, and the competitive landscape. The company's [stock price](/wiki/stock/) can fluctuate sharply based on clinical trial announcements and regulatory developments.
 
 ## How to research it
 
@@ -57,17 +57,17 @@ Prospective investors and stakeholders can review Amylyx's regulatory filings wi
 
 ### Closely related
 
-- [Clinical trial](/wiki/)
-- [Biopharmaceutical](/wiki/)
-- [Neurodegenerative disease](/wiki/)
-- [FDA approval process](/wiki/)
-- [Drug development](/wiki/)
+- Clinical trial
+- Biopharmaceutical
+- Neurodegenerative disease
+- FDA approval process
+- Drug development
 
 ### Wider context
 
 - [Public company](/wiki/public-company/)
 - [Stock market](/wiki/stock-exchange/)
 - [Equity offering](/wiki/initial-public-offering/)
-- [Pharmaceutical industry](/wiki/)
+- Pharmaceutical industry
 
 </div>
