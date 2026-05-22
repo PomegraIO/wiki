@@ -1,79 +1,18 @@
 ---
 title: "ProFrac Holding Corp. (ACDC)"
-description: "Oilfield services company providing hydraulic fracturing, pressure pumping, and associated services to oil and gas producers across major US unconventional basins."
+description: "Hydraulic fracturing services provider serving unconventional oil and gas wells across North America."
 keywords:
-  - ProFrac Holding
-  - ACDC
-  - oilfield services
   - hydraulic fracturing
+  - oilfield services
+  - well completion
   - pressure pumping
-  - unconventional oil and gas
+handwritten: true
 ---
 
-*ProFrac Holding Corp. (**ACDC**) is an oilfield services company providing hydraulic fracturing and pressure pumping services to oil and gas producers operating in unconventional resource plays. The company operates in the energy services sector, delivering completion services critical to unconventional oil and natural gas production.*
+**ProFrac Holding Corp. is a pressure pumping and hydraulic fracturing services company serving the oil and gas industry across North America.** The company operates in the upstream energy sector, where its core business is delivering well completion services—primarily hydraulic fracturing (fracking)—to exploration and production operators working unconventional reservoirs including shale formations and other tight-rock plays. These completions are capital-intensive operations that require specialized equipment, technical expertise, and mobile fleets; ProFrac provides these services to operators on a contract basis, typically billing by the job or under longer-term service agreements.
 
-<aside class="wiki-infobox">
-| Attribute | Detail |
-|-----------|--------|
-| **Ticker** | ACDC |
-| **Listing** | US-listed; NASDAQ |
-| **SEC CIK** | 1881487 |
-| **Sector** | Energy |
-| **Industry** | Oilfield Services |
-| **Headquarters** | Carmel, Indiana, United States |
-| **Type** | Public corporation |
-</aside>
+The business model centers on utilization of ProFrac's fleet of pressure pumping equipment and trained field personnel. Well completion work happens after a well is drilled but before it enters production; operators must fracture the rock formation to improve permeability and unlock economically viable flow rates. ProFrac's revenue depends on two main drivers: the number of active frac jobs executed and the pricing per service, which fluctuates with commodity prices (crude oil and natural gas) and industry activity levels. During periods of high drilling activity and favorable commodity prices, operators increase completions work and demand for services surges. During downturns, capital budgets tighten, drilling decelerates, and pressure pumping utilization and pricing compress sharply. This cyclicality is intrinsic to oilfield services as a sector.
 
-## What the company does
+The competitive landscape in pressure pumping includes larger, diversified oilfield services [conglomerates](/wiki/public-company/) as well as smaller, more focused regional players. ProFrac competes partly on fleet capacity and geographic reach, partly on operational efficiency and equipment reliability, and partly on customer relationships and the ability to execute complex, multi-stage completions. Scale matters because operators prefer working with service providers who can mobilize sufficient equipment to complete their wells on schedule. Technological innovation in pumping efficiency, equipment uptime, and cost reduction is another dimension of competition. The sector also sees consolidation and acquisition activity, with larger players sometimes expanding through purchase of smaller service companies to gain capacity or geographic presence.
 
-ProFrac Holding operates fleets of high-pressure pumping equipment used in hydraulic fracturing operations. Hydraulic fracturing, or fracking, is a completion technique that creates fractures in rock formations to enhance oil and gas production from unconventional reservoirs. The company provides pressure pumping services including moving proppant materials, delivering hydraulic fluid, and managing pressure and flow rates during fracturing operations.
-
-The company serves oil and gas producers operating major unconventional resource plays including the Permian Basin, Eagle Ford Shale, and other productive formations. Service delivery involves detailed engineering, equipment mobilization, operational execution, and safety management to execute complex completion programs.
-
-## Unconventional oil and gas context
-
-Unconventional resources including shale oil, tight gas, and other low-permeability formations require hydraulic fracturing to achieve economic production rates. Hydraulic fracturing has enabled significant expansion of US oil and natural gas production from these formations, driving development of oilfield services industries supporting completion operations.
-
-Pressure pumping is a capital-intensive service requiring large fleets of specialized equipment and skilled personnel. Service providers compete on equipment quality, operational efficiency, safety records, and customer relationships. Industry dynamics are influenced by crude oil prices, natural gas prices, producer capital spending levels, and drilling and completion activity volumes.
-
-## Fleet operations and service delivery
-
-ProFrac operates hydraulic fracturing equipment deployed to customer well sites. Equipment includes high-pressure pumping units, generators, blending equipment, and associated infrastructure. Operations require specialized technicians managing equipment performance, safety protocols, and coordination with customer operations.
-
-Service execution involves project planning, equipment logistics, real-time pressure and flow management during fracturing operations, and environmental compliance. Operational excellence, safety performance, and equipment reliability are critical competitive factors.
-
-## Market dynamics and economic sensitivity
-
-Pressure pumping services are highly sensitive to oil and natural gas prices, which drive producer spending on drilling and completion activities. High commodity prices encourage capital investment in new wells, increasing demand for completion services. Low commodity prices reduce producer spending, reducing service demand and utilization rates.
-
-Industry cycles affect capacity utilization, pricing power, and profitability. During strong pricing periods, service companies may struggle to secure sufficient equipment capacity. During weak periods, excess capacity creates price competition and margin pressure.
-
-## Competitive landscape
-
-The pressure pumping industry includes several large-scale service providers competing on equipment scale, geographic footprint, operational efficiency, and customer relationships. Consolidation has occurred in the industry, with smaller competitors being acquired by larger firms or exiting the business during downturns.
-
-ProFrac's competitive position depends on equipment availability, deployment flexibility, operational excellence, cost management, and long-term customer relationships. Capital requirements for equipment fleets create barriers to entry, limiting competition to well-capitalized firms.
-
-## How to research it
-
-Information about ProFrac Holding is available through SEC filings including the [10-K annual report](/wiki/10-k/) and [10-Q quarterly reports](/wiki/10-q/). These documents detail equipment fleet composition, customer base, service pricing, geographic operations, capital requirements, and financial performance.
-
-Industry reports track oilfield services industry trends, pressure pumping capacity, activity levels in major resource plays, and competitive dynamics. Updates on crude oil and natural gas prices provide context for understanding near-term service demand.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Stock](/wiki/stock/)
-- [Public company](/wiki/public-company/)
-- [10-K annual report](/wiki/10-k/)
-- [10-Q quarterly report](/wiki/10-q/)
-- [Oilfield services](/wiki/oilfield-services/)
-
-### Wider context
-- [NASDAQ stock exchange](/wiki/nasdaq-stock-exchange/)
-- [Energy sector](/wiki/energy-sector/)
-- [Oil and natural gas](/wiki/crude-oil/)
-- [Unconventional oil and gas](/wiki/unconventional-oil-and-gas/)
-- [Commodity prices and markets](/wiki/commodity-futures-trading-commission/)
-
-</div>
+ProFrac's financial performance is highly sensitive to commodity cycles and the level of capital expenditure by operators. During strong cycles, utilization can be high and pricing favorable, supporting strong margins and cash generation. During weak cycles, underutilized assets, pricing pressure, and losses are common. Capital allocation in this business revolves around fleet expansion (buying additional pumps and support equipment) when utilization is high and returns are attractive, and cost control or asset rationalization during downturns. Debt levels can rise during growth phases and must be managed carefully since cash flow volatility is substantial. Investors in pressure pumping services are exposed directly to upstream energy cycles and commodity price volatility, making timing and cyclical positioning critical considerations for understanding returns in this sector.

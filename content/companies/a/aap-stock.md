@@ -1,68 +1,18 @@
 ---
 title: "ADVANCE AUTO PARTS INC (AAP)"
-description: "Specialty retailer distributing automotive aftermarket parts, accessories, and maintenance products to professional technicians and DIY consumers."
+description: "National automotive aftermarket retailer founded in 1932, operating thousands of stores and distribution centers serving DIY and professional mechanics."
 keywords:
-  - Advance Auto Parts
-  - AAP stock
-  - automotive parts
-  - aftermarket parts
-  - auto accessories
-  - auto maintenance
+  - automotive parts retailer
+  - aftermarket supply
+  - diy automotive
+  - mechanic services
+handwritten: true
 ---
 
-*Advance Auto Parts Inc (ticker **AAP**) is a specialty retailer and distributor of automotive aftermarket parts, accessories, tools, and maintenance products serving both professional mechanics and do-it-yourself (DIY) vehicle owners and enthusiasts.*
+**Advance Auto Parts began as a single auto parts store opened by Rayford Woolworth in Raleigh, North Carolina in 1932**, born from a straightforward conviction: car owners and mechanics needed reliable access to replacement parts at reasonable prices. The early decades were local and careful, building reputation through service to neighborhood repair shops and backyard mechanics across the Southeast. The business spread regionally through franchise arrangements and word-of-mouth trust, growing quietly for four decades without the scale ambitions that would later define it.
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AAP |
-| Listing | US-listed; ticker AAP |
-| SEC CIK | 1158449 |
-| Sector | Consumer Discretionary |
-| Industry | Specialty Retail - Automotive |
-| Headquarters | United States |
-| Founded | 1932 |
-| Type | Public corporation |
-</aside>
+The transformation arrived in the 1980s and accelerated through the 1990s. Advance Auto Parts shed its regional identity and became a national competitor through aggressive acquisition and expansion. The company absorbed rivals, erected regional distribution networks, and modernized its supply chain to support the growth from hundreds to thousands of locations. By the early 2000s, it had become the largest automotive aftermarket retailer in the United States—competing directly with [AutoZone](/wiki/stock/) and O'Reilly Auto Parts. This period saw massive investment in logistics and inventory systems, driven by management's conviction that scale and convenience would dominate a fragmented industry. The company went [public](/wiki/public-company/), and investors bid it higher on the promise of continued consolidation and margin expansion.
 
-## What the company does
+The following decade brought a reckoning with market realities. E-commerce retailers and online ordering eroded the foot-traffic advantage that physical density once promised. Independent repair shops consolidated or closed, shrinking one customer base. Store productivity softened, same-store sales turned volatile, and the competitive edge of national scale proved less durable than expected. After 2015, management began a painful restructuring: closing underperforming locations, reorganizing formats, and attempting to compete more flexibly against both online-first rivals and institutional competitors with deeper pockets. The process involved significant write-downs and restructuring charges, leaving earnings lumpy and the stock vulnerable.
 
-Advance Auto Parts operates a network of retail stores and fulfillment centers distributing automotive parts and accessories. The company's inventory spans parts for routine maintenance (filters, fluids, batteries), repair (replacement components for mechanical systems), and enhancement (audio systems, exterior trim, performance modifications).
-
-The company serves both professional customers (independent mechanics and small repair shops) and DIY consumers who maintain and repair their own vehicles. Advance Auto Parts operates an omnichannel distribution model with physical retail locations, online ordering, delivery, and same-day pickup services. The company also manufactures certain private-label products under its own brands.
-
-## How it makes money
-
-Advance Auto Parts generates revenue from the sale of automotive parts, accessories, and services at retail markup. The company purchases inventory from manufacturers and wholesalers, stores it in warehouse and retail locations, and sells to customers at retail pricing. Profitability depends on inventory turnover, gross margin (retail price minus cost), and operating efficiency.
-
-Gross margins are affected by product mix (high-margin accessories versus lower-margin commodity items like batteries and oil), competitive pricing, and efficiency in promotional activities and clearance. Operating expenses include store labor, occupancy costs, supply chain and logistics, and marketing and advertising. Private-label products generate higher margins than branded products. Working capital is tied up in inventory, which must be managed to balance availability against carrying costs.
-
-## Where it sits in its industry
-
-Advance Auto Parts is a major national automotive aftermarket retailer, competing with AutoZone, O'Reilly Automotive, and NAPA (part of Genuine Parts Company). The industry includes large publicly traded retailers, regional specialists, and online pure-plays such as RockAuto and Amazon (which increasingly offers automotive parts).
-
-Industry dynamics include consolidation (larger players gaining cost and scale advantages), shift toward DIY and do-it-for-me segments, online retail penetration, and vehicle aging (older vehicles require more maintenance and parts). Competitive advantages for large retailers include store density and convenience, inventory depth and availability, supply chain efficiency, and brand recognition.
-
-## How to research it
-
-Investors should review Advance Auto Parts' 10-K annual report and 10-Q quarterly SEC filings for same-store sales trends, gross margins by category, inventory metrics, and capital allocation. Management discussion typically addresses store traffic trends, e-commerce penetration, competitive positioning, and inventory management strategies.
-
-Automotive industry data on vehicle population, average vehicle age, and maintenance spending trends provide context for demand. Trade publications covering automotive retail and aftermarket industries track competitive developments, retail trends, and market sizing. Market research firms publish consumer spending surveys on vehicle maintenance and DIY attitudes. Earnings call transcripts provide management perspective on comparable store sales, inventory levels, competitive pricing, and strategic initiatives.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Automotive Aftermarket](/wiki/automotive-aftermarket/)
-- [Automotive Retail](/wiki/automotive-retail/)
-- [Specialty Retail](/wiki/specialty-retail/)
-- [DIY Auto Maintenance](/wiki/diy-auto-maintenance/)
-
-### Wider context
-
-- [Retail Industry](/wiki/retail-industry/)
-- [Consumer Discretionary](/wiki/consumer-discretionary/)
-- [Omnichannel Retail](/wiki/omnichannel-retail/)
-- [Public Company](/wiki/public-company/)
-
-</div>
+Advance Auto Parts today operates through a network of company-owned and franchised locations supported by fulfillment and logistics infrastructure. Revenue comes from two customer types—DIY consumers buying parts for personal vehicle maintenance, and professional technicians and small shops stocking work inventory. The business competes on store density, inventory depth, pricing, and omnichannel convenience (online ordering, delivery, same-day pickup). Investors track comparable store sales, inventory turns, gross margins by category, and the company's positioning ahead of the long-term shift toward electric vehicles, which may require fewer maintenance parts and different service patterns. For financial detail, see the [10-K filing](/wiki/10-k/).

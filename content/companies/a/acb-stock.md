@@ -1,74 +1,18 @@
 ---
 title: "AURORA CANNABIS INC (ACB)"
-description: "Canadian cannabis producer cultivating, processing, and distributing cannabis products across medical and recreational markets in multiple countries."
+description: "Canadian cannabis producer with operations spanning cultivation, extraction, and global distribution; one of the largest licensed producers by capacity."
 keywords:
-  - Aurora Cannabis
-  - ACB
-  - cannabis producer
-  - medical cannabis
-  - recreational cannabis
-  - Canadian producer
+  - cannabis cultivation
+  - canadian producer
+  - regulated cannabis
+  - extraction and products
+handwritten: true
 ---
 
-*Aurora Cannabis Inc. (**ACB**) is a Canadian cannabis cultivation and production company engaged in the production, distribution, and sale of cannabis products. The company operates in the cannabis sector across both medical and recreational segments, with operations spanning multiple countries including Canada.*
+Aurora Cannabis began in 2013 as a vision to build a world-class cannabis producer. The company started from modest foundations but moved quickly into large-scale cultivation across Canada, acquiring multiple growing facilities and securing early licenses under the regulatory regime that emerged as provinces prepared for eventual legalization. By 2016, Aurora had established itself among Canada's [/wiki/public-company/](/wiki/public-company/) licensed producers and went public on the Toronto Venture Exchange, eventually listing on the [/wiki/stock-exchange/](/wiki/stock-exchange/) NASDAQ.
 
-<aside class="wiki-infobox">
-| Attribute | Detail |
-|-----------|--------|
-| **Ticker** | ACB |
-| **Listing** | US-listed; NASDAQ; also listed on Toronto Stock Exchange |
-| **SEC CIK** | 1683541 |
-| **Sector** | Consumer Discretionary |
-| **Industry** | Cannabis Production |
-| **Headquarters** | Edmonton, Alberta, Canada |
-| **Founded** | 2013 |
-| **Type** | Public corporation |
-</aside>
+The company's growth phase coincided with Canada's path toward legalization. As a first-mover with substantial capital and infrastructure, Aurora expanded aggressively—acquiring rival producers, opening new cultivation sites, and building production capacity that would support mass distribution once federal legalization arrived. Revenue accelerated sharply after legalization became law in October 2018. The company diversified beyond dried flower into concentrates, edibles, vape products, and accessories, developing premium brands and pursuing international market entry in jurisdictions with emerging legal cannabis sectors. At its peak valuation around 2018–2019, Aurora was among the highest-valued cannabis companies in North America, commanding a market cap that reflected investor enthusiasm for the emerging industry.
 
-## What the company does
+The period from 2019 onward tested the company's fundamentals against market reality. Legalization brought regulatory complexity, oversupply, and price compression in Canada's retail market. Consumer preferences shifted faster than anticipated; margin pressure mounted across the industry. Aurora faced internal challenges—executive departures, facility consolidations, and substantial asset writedowns—as actual results diverged from growth-at-all-costs projections that had justified earlier valuations. The company divested non-core assets, closed underperforming cultivation sites, and shifted from expansion toward the mundane work of managing costs and improving [/wiki/10-k/](/wiki/10-k/) profitability.
 
-Aurora Cannabis operates as a large-scale cannabis cultivator, utilizing indoor growing facilities and advanced cultivation techniques. The company produces cannabis in various forms including dried flower, oils, capsules, edibles, and topical products. Production facilities are engineered to meet regulatory requirements while optimizing yield and product quality.
-
-The company maintains operations across multiple jurisdictions to serve medical patients and recreational consumers. Aurora's product portfolio addresses various consumer preferences and medical needs, with products distributed through authorized retailers and medical channels in regulated markets.
-
-## Cannabis market segments
-
-Aurora serves both the medical and recreational cannabis markets. The medical segment addresses patients with conditions for which cannabis may provide therapeutic benefit, sold through healthcare providers and specialized medical cannabis retailers. The recreational segment targets adult consumers in jurisdictions where recreational cannabis is legal.
-
-The regulatory environment for cannabis varies significantly by jurisdiction, with different licensing requirements, product regulations, and distribution channels in Canada, European countries, and other markets where Aurora operates. Companies in this sector must navigate complex regulatory frameworks that continue to evolve.
-
-## Distribution and market access
-
-Aurora distributes its products through various channels depending on jurisdictional regulations. In Canada, distribution occurs through provincial retailers and online platforms operated by provincial cannabis boards. In medical markets, distribution includes direct pharmacy channels and specialized medical distributors. International markets present additional distribution considerations based on local regulatory frameworks.
-
-The company's market position depends on brand recognition, product quality, regulatory compliance, and relationships with retail partners and healthcare providers. Distribution agreements and retail access are critical components of commercial success.
-
-## Operating considerations and challenges
-
-Cannabis producers face distinct operational challenges including strict regulatory compliance requirements, complex supply chain management, quality assurance demands, and security obligations. Licensing requirements may restrict cultivation locations, require extensive facility inspections, and impose detailed record-keeping requirements.
-
-The cannabis industry remains subject to evolving regulatory frameworks that can affect licensing, product types, marketing restrictions, and tax implications. Companies must maintain ongoing compliance and adapt to regulatory changes in each jurisdiction where they operate.
-
-## How to research it
-
-Information about Aurora Cannabis is available through SEC filings, including the [10-K annual report](/wiki/10-k/) and [10-Q quarterly reports](/wiki/10-q/). These documents detail business operations, financial performance, regulatory compliance status, and risk factors affecting the company.
-
-The company also files reports with Canadian regulatory authorities, including the TSX (Toronto Stock Exchange), and those documents provide additional operational and financial details. Industry databases and research reports track cannabis sector developments, regulatory changes, and market trends.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Stock](/wiki/stock/)
-- [Public company](/wiki/public-company/)
-- [10-K annual report](/wiki/10-k/)
-- [10-Q quarterly report](/wiki/10-q/)
-- [Business operations](/wiki/operating-income/)
-
-### Wider context
-- [NASDAQ stock exchange](/wiki/nasdaq-stock-exchange/)
-- [Securities and Exchange Commission](/wiki/sec/)
-- [Regulatory compliance](/wiki/compliance/)
-- [International business](/wiki/foreign-direct-investment/)
-- [Manufacturing and production](/wiki/manufacturing/)
-
-</div>
+Today, Aurora operates as a mature cannabis producer navigating a mature market. The company holds significant cultivation capacity and owns recognized brands, yet profitability remains elusive relative to early hopes. Its [/wiki/stock/](/wiki/stock/) price reflects the sector's volatility: a company with real operational scale and legal market share, trading far below peak valuations as the gap between regulatory optimism and commoditized execution widened. Aurora's journey mirrors the cannabis sector broadly—from breakthrough legalization and gold-rush enthusiasm to the grinding reality of low-margin production in a competitive, oversupplied market where the financial payoff fell far short of the original vision.

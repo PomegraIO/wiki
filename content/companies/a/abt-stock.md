@@ -1,64 +1,34 @@
 ---
 title: "ABBOTT LABORATORIES (ABT)"
-description: "Abbott Laboratories is a diversified healthcare company producing pharmaceuticals, diagnostics, medical devices, and nutritional products for a global market."
+description: "A diversified healthcare company founded in 1888, Abbott manufactures pharmaceuticals, diagnostics, nutrition products, and medical devices with operations spanning all major world markets and a portfolio of iconic brands."
 keywords:
-  - Abbott Laboratories
-  - ABT
-  - pharmaceutical
-  - medical devices
+  - pharmaceuticals
   - diagnostics
-  - nutrition
-  - healthcare
+  - nutritional products
+  - medical devices
+  - healthcare multinational
+handwritten: true
 ---
 
-*[Abbott Laboratories](#) (ABT) is a diversified [healthcare](/wiki/healthcare/) company engaged in the discovery, development, manufacture, and distribution of pharmaceutical drugs, [diagnostic](/wiki/diagnostics/) tests, medical devices, and nutritional products. The company operates globally and serves healthcare providers, patients, and consumers across multiple therapeutic areas and customer segments.*
+**A sprawling healthcare conglomerate with roots in the 19th century, Abbott supplies drugs, blood tests, infant formula, and surgical equipment to hospitals, clinics, and households worldwide.** The company sits across four major operating territories and carries a legacy of acquisitions that reshaped modern medicine. Despite its age and scale, Abbott remains competitive in fast-changing segments like diagnostics and specialty care.
 
-<aside class="wiki-infobox">
+## Heritage and Breadth
 
-| Attribute         | Details |
-|-------------------|---------|
-| Ticker            | ABT |
-| Listing           | US-listed; ticker ABT |
-| SEC CIK           | 1800 |
-| Sector            | Healthcare |
-| Industry          | Pharmaceuticals & Medical Devices |
-| Headquarters      | Illinois, United States |
-| Founded           | 1888 |
-| Type              | Public corporation |
+Abbott traces to 1888 when pharmaceutical maker Wallace C. Abbott started manufacturing alkaloidal drugs in Chicago. Over decades it evolved into a full-service healthcare supplier: making oral medications, IV solutions, and injectable biologics; designing test equipment for labs and point-of-care settings; producing infant nutritionals under brands like Similac and PediaSure; and manufacturing life-support devices from stents to glucose monitors. The company's size—operating in roughly 160 countries—allows it to dominate certain niches while competing regionally in others. A [10-k](/wiki/10-k/) filing reveals revenue streams split roughly among pharmaceuticals, diagnostics, nutrition, and devices, with gross margins varying by segment.
 
-</aside>
+## Core Business Model
 
-## What the company does
+Abbott's reach spans both developed and emerging markets, a dual strategy that hedges regional growth cycles. In wealthier nations it sells branded medications and premium diagnostics; in developing economies it supplies basic nutritionals and affordable test kits. The diagnostics arm—strengthened by acquisitions—runs from blood-screening systems used in transfusion banks to rapid COVID tests deployed at scale during the pandemic. The nutrition business targets infants, athletes, and the elderly with fortified products sold through retail and clinical channels. Devices range from cardiac implants to point-of-care testing platforms, often commanding high margins and recurring revenue from consumables and servicing contracts.
 
-Abbott operates across four main business segments: pharmaceuticals, diagnostics, medical devices, and nutritional products. The pharmaceutical division develops treatments for cardiovascular disease, oncology, immunology, and other areas. The diagnostics segment provides laboratory testing systems and point-of-care diagnostic devices. The medical device division manufactures products for vascular intervention, structural heart disease, and other specialties. The nutritional segment markets vitamins, infant formula, and other supplements to consumers and healthcare systems.
+## Market Position and Challenges
 
-## How it makes money
+Abbott ranks among the top five diversified healthcare companies globally, but it does not dominate a single segment the way a pure-play drug maker or device specialist might. Its diversification is both shield and ceiling: resilience in downturns versus lower growth potential in any one therapy area. Patent expirations on key drugs have required continued investment in pipeline development and emerging markets. Regulatory pressures on device pricing and healthcare spending in developed countries persist. The company faces intense competition from specialized rivals and generic manufacturers. Supply-chain resilience and manufacturing cost control remain strategic priorities, particularly for products like infant formula where brand trust and quality assurance are non-negotiable.
 
-Abbott generates revenue through the sale of branded and generic pharmaceutical products, diagnostic equipment and reagents, medical devices for therapeutic and diagnostic use, and nutritional products sold through pharmacy, hospital, and consumer channels. The company distributes through direct sales forces, wholesalers, pharmacies, hospitals, and retail outlets globally. Pricing varies by therapeutic category, geography, and payer mix.
+## At a Glance
 
-## Scale and market position
-
-Abbott is one of the larger diversified healthcare companies globally, with operations in more than 160 countries. The company competes with integrated pharmaceutical firms, specialized device manufacturers, diagnostics leaders, and nutritional product companies across each of its business segments. Its scale and diversification provide both operational advantages and exposure to multiple product categories and markets.
-
-## Research and development
-
-Abbott maintains substantial research and development capabilities focused on bringing new therapies and diagnostics to market. The company invests in drug discovery, device innovation, and diagnostic technology. Development timelines vary widely—diagnostics and devices may reach market faster than novel pharmaceuticals, which face extended regulatory review periods.
-
-## How to research it
-
-Investors and stakeholders can access Abbott's [10-K](/wiki/10-k/) annual reports and [10-Q](/wiki/10-q/) quarterly filings through the SEC's EDGAR database. These documents provide detailed revenue breakdowns by segment and geography, pipeline information, R&D spending, manufacturing capacity, and regulatory compliance status. Earnings call transcripts and investor presentations offer additional perspective on business strategy and performance outlook.
-
-<div class="wiki-seealso">
-
-### Closely related
-- [Pharmaceutical company](/wiki/pharmaceutical-company/)
-- [Medical device manufacturer](/wiki/medical-device-manufacturer/)
-- [Diagnostic testing](/wiki/diagnostic-testing/)
-- [Healthcare sector](/wiki/healthcare-sector/)
-
-### Wider context
-- [Diversified healthcare strategy](/wiki/diversified-healthcare/)
-- [Drug development](/wiki/drug-development/)
-- [Pharmaceutical pricing](/wiki/pharmaceutical-pricing/)
-
-</div>
+- Founded 1888; headquartered Chicago; operates in approximately 160 countries with significant presence in North America, Europe, Asia, and emerging markets
+- Four reportable segments: pharmaceuticals (branded drugs and biologics), diagnostics (lab and point-of-care testing systems), nutritional products (infant formula, adult nutrition), and medical devices (implants, monitoring equipment)
+- Key brands: Humira (rheumatoid arthritis, inflammatory diseases), Synthroid (thyroid), Similac (infant formula), Xience (coronary stents), and i-STAT (portable lab analyzer)
+- Revenue diversified across geographies and product lines; pharmaceutical and diagnostics segments together represent roughly 75% of total revenue
+- Supply chain spans raw material sourcing, contract manufacturing, and internal production facilities across continents; subject to regulatory approval delays and pricing pressure in mature markets
+- Employs roughly 115,000 people globally; invests significantly in research, development, and manufacturing infrastructure to maintain competitive positioning in aging portfolios and new indication development

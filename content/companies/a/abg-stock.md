@@ -1,74 +1,20 @@
 ---
 title: "ASBURY AUTOMOTIVE GROUP INC (ABG)"
-description: "Automotive retailer operating a network of new and used car dealerships across the United States."
+description: "Regional auto dealer chain operating across multiple states; buys, sells, and services vehicles through franchised dealership locations."
 keywords:
-  - Asbury Automotive
-  - ABG
   - automotive retail
-  - car dealership
   - vehicle sales
-  - dealer group
+  - franchise dealerships
+  - car services
+handwritten: true
 ---
 
-*[Asbury Automotive Group Inc.](https://www.asburyautomotive.com/) **(ABG)** is a large publicly traded automotive retailer operating a network of franchised new and used car dealerships across the United States. The company also provides automotive financing, insurance, and service offerings through its dealership network.*
+Asbury Automotive Group is one of the largest automotive retailers in the United States. The company operates through a network of franchised dealerships spread across multiple states, handling the full spectrum of the car business: selling new and used vehicles, providing maintenance and repairs, and arranging financing. Think of them as the local car lot, but operating at a regional scale with multiple locations and a corporate structure behind the scenes.
 
-<aside class="wiki-infobox">
-| Key Fact | Details |
-|----------|---------|
-| Ticker | ABG |
-| Listing | US-listed; New York Stock Exchange |
-| SEC CIK | 1144980 |
-| Sector | Consumer Discretionary |
-| Industry | Automotive Retail |
-| Type | Public automotive retailer |
-</aside>
+The dealership model sits in the middle of the automotive supply chain. Asbury buys inventory from manufacturers and suppliers, marks it up for sale to consumers, and generates additional revenue streams from the service departments where they perform repairs and maintenance. They also earn money from finance and insurance products—extended warranties, gap insurance, and other add-ons sold alongside vehicle purchases. Vehicle sales make up the bulk of revenue, but the service and finance side provides steadier, less cyclical profit margins because it depends on the installed base of cars they've already sold.
 
-## What the company does
+The franchise dealership business is capital intensive. Asbury must maintain physical lots, service bays, inventory, and staff at each location. They're also tethered to manufacturer relationships and territorial rights that come with their franchises. This creates both a moat (you can't easily replicate the network) and a constraint (they can't simply close underperforming locations without hitting franchise agreements). Dealer operations are also tied closely to new-vehicle availability and consumer credit conditions. When manufacturers have supply issues or credit tightens, dealerships feel it immediately.
 
-Asbury operates franchised automotive dealerships selling new and used vehicles, representing brands such as BMW, Mercedes-Benz, Ford, Chevrolet, Honda, and others. The company generates revenue from: (1) vehicle sales (new and used car gross profit), (2) financing commissions (arranging vehicle loans), (3) insurance commissions, and (4) service and parts revenue from vehicle maintenance and repairs. The dealership model involves purchasing vehicles from manufacturers or used vehicle auctions and reselling them to consumers, along with ancillary financial services. Asbury's scale (operating many dealerships across multiple brands and geographies) provides competitive advantages in purchasing power, financing relationships, and operational efficiency.
+Asbury's regional presence gives them scale advantages in local advertising, technician hiring, and bulk purchasing from suppliers, but they're still regional operators—not national in the way that the vehicle manufacturers or some captive finance arms are. The company's earnings swing with new-vehicle demand, used-car prices, and the health of consumer credit. In strong economic periods with low interest rates and robust new-vehicle availability, dealership profits expand. In downturns or when credit freezes, earnings contract.
 
-## Dealership business model
-
-Franchised new car dealerships operate as independent retailers with exclusive territorial rights from manufacturers to sell specific brands. Dealerships purchase inventory from manufacturers at wholesale prices and sell to consumers at retail prices. The gross profit from vehicle sales depends on demand, inventory management, competitive pricing, and sales efficiency. Used vehicle operations involve acquiring vehicles from trade-ins, auctions, or direct purchases, and reselling them at higher prices. Used car margins are typically higher than new car margins. Service departments generate recurring revenue from maintenance and repairs, with higher margins than vehicle sales.
-
-## Revenue concentration and diversification
-
-Asbury's revenue is concentrated in vehicle sales, which depends on consumer vehicle demand and willingness to finance vehicle purchases through dealership financing relationships. Used vehicle sales are growing as a percentage of retail revenue, providing diversification from manufacturer-controlled new vehicle sales. Geographic diversification across multiple states reduces exposure to regional economic cycles. Operating dealerships across multiple brands (luxury, mainstream, truck brands) provides product diversification.
-
-## Economic sensitivity and vehicle demand
-
-The automotive industry is cyclical, with vehicle sales highly sensitive to consumer confidence, employment, interest rates, and financing availability. During economic downturns, vehicle sales decline as consumers defer purchases or lack access to financing. Rising interest rates increase vehicle loan costs, reducing demand. Supply constraints (chip shortages affecting manufacturing) can limit new vehicle availability, affecting inventory levels and pricing. Used vehicle demand and prices are influenced by new vehicle supply and consumer preferences.
-
-## Manufacturer relationships and franchise economics
-
-Asbury's franchise agreements with vehicle manufacturers dictate terms for vehicle allocation, pricing, and operations. Manufacturers control new vehicle supply and pricing, limiting dealer margins. Manufacturers require dealerships to meet service standards and may impose inventory requirements. Changing manufacturer relationships, reduced manufacturer support, or introduction of competing dealerships in a territory can affect profitability. Direct-to-consumer vehicle sales by manufacturers (Tesla, others) represent a potential long-term threat to the franchise dealership model.
-
-## Financing and credit risk
-
-Asbury arranges financing for customer vehicle purchases through partnerships with banks and finance companies, earning commissions. The company also purchases vehicle loans originated by franchisees, taking on credit risk. If financed customer defaults increase, the company's earnings are reduced through charge-offs. Financing volumes and terms are affected by credit availability and interest rates. The company's finance business adds earnings stability but introduces credit risk.
-
-## Service and parts operations
-
-Service departments perform vehicle maintenance and repairs, generating high-margin recurring revenue. Service demand depends on the size of the installed base of vehicles sold by dealerships, vehicle age, warranty terms, and consumer willingness to service at franchised dealerships (versus independent mechanics). Parts sales (both for repair and direct customer purchase) contribute margin. Service and parts typically generate higher profit margins than vehicle sales but represent a smaller percentage of total revenue.
-
-## Capital requirements and inventory
-
-Dealerships require significant working capital to finance vehicle inventory. Inventory turnover, measured in days, indicates efficiency—slower turnover ties up more capital. Economic downturns and demand declines can result in excess inventory that must be marked down. Capital expenditure for facilities, equipment, and technology is required to maintain competitive operations. The company's balance sheet reveals inventory levels and capital structure.
-
-## How to research it
-
-Start with Asbury's annual 10-K and quarterly 10-Q SEC filings, focusing on revenue by segment (vehicle sales, service and parts, financing), gross margins by category, and inventory levels. Same-store sales metrics (sales at dealerships open for comparable periods) indicate same-store performance. Geographic revenue breakdown shows concentration risk. Management discussion of manufacturer relationships, vehicle supply, and demand trends is critical. Industry publications covering automotive retail and economic reports on vehicle sales provide context. Analysis of the company's return on equity and working capital efficiency reveals operational performance relative to peers.
-
-<div class="wiki-seealso">
-### Closely related
-- [Automotive industry](/wiki/automotive-industry/) — vehicle manufacturing and sales
-- [Consumer discretionary](/wiki/consumer-discretionary/) — discretionary spending cycles
-- [Franchise model](/wiki/franchise-model/) — dealership relationships with manufacturers
-- [Vehicle financing](/wiki/vehicle-financing/) — automotive credit and loans
-
-### Wider context
-- [Economic cycles](/wiki/economic-cycles/) — recession impact on vehicle sales
-- [Interest rates](/wiki/interest-rates/) — effect on vehicle loan affordability
-- [Automotive supply chain](/wiki/automotive-supply-chain/) — manufacturing constraints
-- [10-K](/wiki/10-k/) — annual report for understanding dealership operations and margins
-</div>
+The investment case depends on where you sit in the economic cycle, how tight the new-vehicle supply is, and what used-vehicle prices are doing. See [10-K](/wiki/10-k/) filings for detailed segment breakdowns and capital allocation strategy.

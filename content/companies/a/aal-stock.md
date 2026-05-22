@@ -1,68 +1,19 @@
 ---
 title: "American Airlines Group Inc. (AAL)"
-description: "Major US airline operator providing domestic and international passenger and cargo transportation services."
+description: "Major U.S. passenger airline operator with extensive domestic and international networks; publicly traded parent company with SEC CIK 6201."
 keywords:
-  - American Airlines
-  - AAL stock
   - airline industry
-  - air transportation
-  - passenger services
-  - cargo services
+  - passenger transportation
+  - aviation
+  - commercial carrier
+  - capital-intensive business
+handwritten: true
 ---
 
-*American Airlines Group Inc. (ticker **AAL**) is one of the largest airline companies in the United States and globally, operating a vast network of domestic and international passenger and cargo flights serving millions of travelers annually.*
+**American Airlines Group Inc. is one of the largest passenger airlines in the United States, operating thousands of daily flights across domestic and international networks with a history spanning back to 1930.** The company's actual air operations run through American Airlines, Inc., a subsidiary of the publicly traded American Airlines Group holding company. Like all major U.S. carriers, AAL operates in a capital-intensive, cyclical industry heavily influenced by fuel prices, labor costs, demand for travel, and overall economic conditions. The airline industry's structural characteristics—high fixed costs, thin operating margins, regulatory constraints, and cyclical demand—shape every aspect of AAL's financial performance and stock behavior.
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AAL |
-| Listing | US-listed; ticker AAL |
-| SEC CIK | 6201 |
-| Sector | Industrials |
-| Industry | Air Transportation |
-| Headquarters | United States |
-| Founded | 1939 |
-| Type | Public corporation |
-</aside>
+The fundamental business model involves selling passenger seats at prices that fluctuate based on supply and demand, seasonality, and competitive pressure. Revenue comes from ticket sales across economy and premium cabin classes, cargo transportation (especially important during periods of elevated demand), and ancillary services including checked baggage fees, seat selection fees, and frequent flyer program sponsorships. The AAdvantage loyalty program is a significant revenue generator as customers redeem miles and the airline sells miles to credit card partners and travel partners. Operating expenses are dominated by fuel, which represents the single largest variable cost and source of margin volatility; labor, including pilots, flight attendants, and ground crews bound by union contracts; aircraft maintenance; airport and landing fees; and depreciation on a substantial fleet of modern and older aircraft. The business is inherently capital-intensive, requiring continuous investment in new aircraft, airport infrastructure, and technology systems to remain competitive. Profitability swings sharply with fuel prices, macroeconomic conditions affecting business and leisure travel, and competitive capacity decisions by rivals.
 
-## What the company does
+American Airlines emerged from a major consolidation when the legacy American Airlines merged with US Airways in 2013, creating the modern American Airlines Group and reducing the U.S. carrier count to three dominant players alongside Delta and United. The company operates major hub networks in Dallas, Charlotte, Chicago, and Phoenix, connecting high-traffic routes and feeding traffic to smaller cities through a hub-and-spoke model designed to maximize route density and network efficiency. The airline maintains one of the industry's largest fleets and has invested in fleet modernization with newer aircraft offering improved fuel efficiency. Integration and operational execution from the 2013 merger remain ongoing considerations, and management effectiveness in cost management, labor relations, and capital allocation directly impact shareholder returns.
 
-American Airlines operates an extensive route network connecting hundreds of destinations across the United States and internationally. The company provides regularly scheduled passenger air service, charter flights, and cargo transportation. Operations are organized around hub airports where the company concentrates flights to feed connecting passenger traffic, a model designed to maximize route density and network efficiency.
-
-American Airlines maintains a substantial aircraft fleet ranging from regional turboprops to wide-body international jets. The company offers differentiated service classes (economy, premium economy, business, first class) and operates a frequent flyer loyalty program that generates revenue through miles sales and partnerships.
-
-## How it makes money
-
-American Airlines generates revenue primarily from two sources: passenger ticket sales and cargo transportation. Passenger revenue is divided among cabin classes, with premium cabins commanding significantly higher fares per mile. Ancillary revenue comes from baggage fees, seat selection fees, frequent flyer program miles sales, and miscellaneous service charges.
-
-Operating expenses include labor (pilots, flight attendants, ground crews), fuel (the single largest operating expense and a major source of margin volatility), aircraft maintenance, airport and landing fees, and depreciation. The airline industry is capital-intensive and highly leveraged, with significant debt burden relative to operating cash flow typical of major carriers. Profitability is sensitive to fuel prices, passenger demand (which correlates with economic conditions), capacity utilization, and competitive pricing dynamics.
-
-## Where it sits in its industry
-
-American Airlines is one of the "Big Three" US carriers, alongside Delta Air Lines and United Airlines. These three carriers dominate US domestic and transatlantic routes, collectively controlling a large share of available seat-miles and airport capacity at major hubs.
-
-The airline industry is characterized by high fixed costs, cyclical demand, intense price competition on heavily traveled routes, and limited pricing power during downturns. Barriers to entry are substantial (regulatory licensing, capital requirements, fleet acquisition costs, route access). Profitability varies significantly with macroeconomic cycles—demand drops sharply in recessions, while capacity growth in recoveries can cap pricing power. Fuel costs and labor agreements represent major cost drivers and sources of earnings volatility.
-
-## How to research it
-
-Investors should review American Airlines' 10-K annual report and 10-Q quarterly SEC filings for financial performance, debt structure, capital allocation, and management discussion of operational metrics. Key metrics include available seat-miles (ASM), revenue passenger-kilometers (RPK), load factor (percentage of seats filled), and unit revenue (revenue per available seat-mile).
-
-Airlines publish detailed operational statistics and guidance on route capacity, fuel costs, and seasonal demand patterns. Trade publications covering the airline industry, investment bank research, and commentary on fuel markets, macroeconomic conditions, and competitive pricing provide ongoing perspective on industry dynamics. Understanding labor agreements, which have multi-year terms and represent significant fixed costs, is important to long-term profitability analysis.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Airline Industry](/wiki/airline-industry/)
-- [Air Transportation](/wiki/air-transportation/)
-- [Capacity Utilization](/wiki/capacity-utilization/)
-- [Fuel Costs](/wiki/fuel-costs/)
-
-### Wider context
-
-- [Transportation Sector](/wiki/transportation-sector/)
-- [Business Cycles](/wiki/business-cycles/)
-- [Debt Financing](/wiki/debt-financing/)
-- [Public Company](/wiki/public-company/)
-
-</div>
+Investors examining AAL stock should understand the airline sector's structural economics and recognize that airline equities are fundamentally volatile and highly sensitive to external shocks including fuel price spikes, recessions, geopolitical events affecting travel, operational disruptions, and crew labor disputes. The company files a [10-K](/wiki/10-k/) annually with the SEC (CIK 6201), disclosing detailed information about routes, fleet composition, debt structure, loan agreements, and labor contract obligations. Key operational metrics tracked by analysts include available seat-miles, load factor (the percentage of seats filled), revenue per available seat-mile, and fuel cost per gallon. Understanding AAL as an investment requires monitoring fuel prices, forward booking trends, competitive capacity announcements, the status of labor negotiations, and broader macroeconomic indicators of travel demand. The airline industry's cyclical nature means valuation metrics, leverage ratios, and cash flow metrics must be understood in the context of the business cycle and fuel price environment at any given time.

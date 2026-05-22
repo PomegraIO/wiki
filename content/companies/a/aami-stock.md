@@ -1,67 +1,18 @@
 ---
 title: "Acadian Asset Management Inc. (AAMI)"
-description: "Investment management company specializing in active quantitative and systematic investment strategies serving institutional and retail clients."
+description: "Acadian Asset Management is an investment firm specializing in quantitative and systematic strategies for institutional clients. Founded in the 1980s, the company employs data-driven approaches to global equities and multi-asset investing."
 keywords:
-  - Acadian Asset Management
-  - AAMI stock
-  - asset management
   - quantitative investing
-  - investment strategies
-  - institutional investors
+  - asset manager
+  - institutional investing
+  - equity strategies
+  - investment management
+  - sec 1748824
+handwritten: true
 ---
 
-*Acadian Asset Management Inc. (ticker **AAMI**) is an investment management firm focused on developing and deploying quantitative and systematic investment strategies for institutional and retail clients across equities, fixed income, and multi-asset classes.*
+Acadian Asset Management was founded in 1987 as an independent boutique investment firm built on the premise that rigorous quantitative analysis and systematic approaches could outperform traditional discretionary management. In its early decades, when emerging markets were less efficiently priced and institutional demand for quantitative strategies was nascent, the firm carved out a niche serving pension funds and endowments. The company's competitive edge rested on proprietary research models and a disciplined philosophy that treated markets as patterns waiting to be decoded—an approach that proved compelling during the long bull market of the 1990s and through the early 2000s.
 
-<aside class="wiki-infobox">
-| Field | Value |
-|-------|-------|
-| Ticker | AAMI |
-| Listing | US-listed; ticker AAMI |
-| SEC CIK | 1748824 |
-| Sector | Financial Services |
-| Industry | Investment Management |
-| Headquarters | United States |
-| Type | Public corporation |
-</aside>
+Over the past twenty years, Acadian expanded its product suite and geographic reach. The firm moved beyond its original emerging market focus to develop strategies across developed markets, fixed income, and [/wiki/absolute-return-fund/](/wiki/absolute-return-fund/) mandates. It built out technology infrastructure, hired quantitative scientists and data engineers, and cultivated institutional relationships across North America and Europe. The firm's assets under management grew through cycles of inflow and outflow, buffeted by the market dislocations of 2008, the quant crisis of 2007, and the long period of central-bank stimulus that followed. By the time Acadian went public, it had established itself as a credible mid-market player in a space increasingly dominated by scale.
 
-## What the company does
-
-Acadian Asset Management develops proprietary quantitative models and systematic investment approaches designed to identify mispricings, capture risk premiums, or generate alpha (returns above a benchmark). The company's strategies span equity market-neutral, long-short, global equities, fixed income, and multi-asset class approaches.
-
-Acadian serves institutional clients including pension funds, endowments, insurance companies, and wealth managers, as well as retail investors through mutual funds and other vehicles. The company's competitive strength lies in research capabilities, data science and technology infrastructure, and the track record of its portfolio managers and investment teams in executing quantitative strategies.
-
-## How it makes money
-
-Acadian generates revenue primarily through investment management fees charged as a percentage of assets under management (AUM). Fees are typically structured as a base management fee (often 1% or less of AUM annually) plus performance-based fees (typically 20% of outperformance above a benchmark or hurdle rate).
-
-Profitability depends on growing AUM through new client acquisition and asset inflows, retaining existing clients, and achieving strong relative performance. Performance fees amplify earnings during periods of outperformance but create earnings volatility. Operating expenses include compensation for investment professionals, technology and data costs, client service and marketing, and overhead. Leverage in AUM metrics means small percentage changes in assets under management create outsized profit swings.
-
-## Where it sits in its industry
-
-Acadian competes in the investment management industry alongside large diversified asset managers (BlackRock, Vanguard, Fidelity), specialized quantitative firms (Renaissance Technologies, Two Sigma, Citadel), and regional wealth managers. The industry is competitive, with success dependent on differentiated investment approaches, strong performance track records, client relationships, and ability to attract investment talent.
-
-Quantitative and systematic approaches have gained prominence as data, computing power, and academic research in factor investing have advanced. The space includes both pure-play quant shops and quant teams within larger asset managers. Consolidation through acquisition is common, with larger players acquiring specialized capabilities and talented teams.
-
-## How to research it
-
-Investors should review Acadian Asset Management's 10-K annual report and 10-Q quarterly SEC filings for assets under management, revenue by strategy and client type, and operating margins. Management discussion typically addresses net inflows/outflows, performance relative to benchmarks, and competitive positioning.
-
-Investment Management Association publications and industry databases provide benchmarking on fee structures, performance persistence, and competitive dynamics. Morningstar, Bloomberg, and other financial data providers track fund performance and fee levels for Acadian's publicly available strategies. Financial press and commentary often analyze quantitative investing trends, factor performance, and competitive dynamics among quant managers. Earnings call transcripts provide insight into strategy performance, client retention, and capital allocation priorities.
-
-<div class="wiki-seealso">
-
-### Closely related
-
-- [Asset Management](/wiki/asset-management/)
-- [Quantitative Investing](/wiki/quantitative-investing/)
-- [Investment Strategy](/wiki/investment-strategy/)
-- [Alpha](/wiki/alpha/)
-
-### Wider context
-
-- [Financial Services](/wiki/financial-services/)
-- [Institutional Investing](/wiki/institutional-investing/)
-- [Factor Investing](/wiki/factor-investing/)
-- [Public Company](/wiki/public-company/)
-
-</div>
+Today, Acadian operates in an investment management landscape transformed by several forces. Factor investing and quantitative approaches, once the province of specialists, are now table stakes at every large asset manager. Index investing has commoditized traditional active management, pressure on fees is relentless, and the barriers between traditional and alternative strategies have blurred. Acadian's relevance depends on demonstrating that its models and team deliver consistent [/wiki/alpha/](/wiki/alpha/) net of fees—a proposition that grows harder as machine learning, alternative data, and computational resources have become democratized. The firm continues to pursue institutional mandates and manage [/wiki/10-k/](/wiki/10-k/)-regulated public funds, but it does so in a world where differentiation is harder to achieve and hold onto than when it was founded.
