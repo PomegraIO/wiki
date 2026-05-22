@@ -23,3 +23,9 @@ __pycache__/
 /scripts/_gap_plan.json
 /scripts/_dedup_delete.txt
 /scripts/_swarm_prompts/
+/scripts/_proposer_briefs.json
+/scripts/_existing_slugs.txt
+/scripts/_proposals/
+/scripts/_proposer_prompts/
+/scripts/_locked_plan.json
+/scripts/_writer_prompts/
