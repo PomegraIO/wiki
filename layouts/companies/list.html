@@ -1,0 +1,169 @@
+{{ define "main" }}
+{{/* ── Build ticker listings from every company page under this section ──
+     Ticker is derived from the filename slug (`<ticker>-stock`), the name
+     from the title with its trailing "(TICKER)" stripped. Grouped A–Z by
+     the ticker's first character. */}}
+{{ $pages := .RegularPagesRecursive }}
+{{ $listings := slice }}
+{{ range $pages }}
+  {{ $ticker := upper (strings.TrimSuffix "-stock" .File.BaseFileName) }}
+  {{ $name := replaceRE `\s*\([^)]*\)\s*$` "" .Title }}
+  {{ $first := upper (substr $ticker 0 1) }}
+  {{ if not (in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" $first) }}{{ $first = "#" }}{{ end }}
+  {{ $listings = $listings | append (dict "ticker" $ticker "name" $name "url" .RelPermalink "first" $first) }}
+{{ end }}
+{{ $listings = sort $listings "ticker" }}
+
+{{/* Group into a dict keyed by first character */}}
+{{ $groups := dict }}
+{{ range $listings }}
+  {{ $k := .first }}
+  {{ $existing := index $groups $k }}
+  {{ if not $existing }}{{ $existing = slice }}{{ end }}
+  {{ $groups = merge $groups (dict $k (append . $existing)) }}
+{{ end }}
+{{ $alphabet := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "#" }}
+{{ $covered := 0 }}
+{{ range $alphabet }}{{ if index $groups . }}{{ $covered = add $covered 1 }}{{ end }}{{ end }}
+
+{{/* A short marquee sample — first ~48 tickers, looped in CSS */}}
+{{ $tape := first 48 $listings }}
+
+<article class="wiki-article xchg">
+
+  {{/* ── TICKER TAPE ── decorative marquee of real tickers */}}
+  <div class="xchg-tape" aria-hidden="true">
+    <div class="xchg-tape-track">
+      {{ range $tape }}<span class="xchg-tape-item"><b>{{ .ticker }}</b> {{ .name }}</span>{{ end }}
+      {{ range $tape }}<span class="xchg-tape-item"><b>{{ .ticker }}</b> {{ .name }}</span>{{ end }}
+    </div>
+  </div>
+
+  {{/* ── MASTHEAD ── */}}
+  <header class="xchg-masthead">
+    <div class="xchg-kicker">Pomegra Wiki — listed companies</div>
+    <h1 class="xchg-title">The Exchange</h1>
+    <p class="xchg-tagline">
+      Every company profiled in the wiki, listed by ticker. Each symbol opens a
+      plain-language, evergreen profile — what the company is, how it makes money,
+      and how to research it.
+    </p>
+
+    <div class="xchg-stats">
+      <div class="xchg-stat"><span class="xchg-stat-n">{{ lang.FormatNumber 0 (len $listings) }}</span><span class="xchg-stat-l">companies listed</span></div>
+      <div class="xchg-stat"><span class="xchg-stat-n">{{ $covered }}</span><span class="xchg-stat-l">letters trading</span></div>
+      <button type="button" class="xchg-random" id="xchgRandom">↗ Random listing</button>
+    </div>
+
+    <div class="xchg-searchbar">
+      <span class="xchg-search-icon" aria-hidden="true">⌕</span>
+      <input type="search" id="xchgSearch" class="xchg-search-input"
+             placeholder="Search ticker or company…" autocomplete="off"
+             aria-label="Search companies by ticker or name" />
+      <span class="xchg-search-count" id="xchgCount"></span>
+    </div>
+  </header>
+
+  {{/* ── STICKY A–Z RAIL ── */}}
+  <nav class="xchg-rail" aria-label="Jump to letter">
+    {{ range $alphabet }}
+      {{ $bucket := index $groups . }}
+      {{ if $bucket }}
+        <a href="#xchg-{{ . | urlize }}" class="xchg-rail-cell" data-letter="{{ . }}">{{ . }}<i>{{ len $bucket }}</i></a>
+      {{ else }}
+        <span class="xchg-rail-cell is-empty">{{ . }}<i>0</i></span>
+      {{ end }}
+    {{ end }}
+  </nav>
+
+  {{/* ── BOARD ── one block per letter, listings as ticker tickets */}}
+  <div class="xchg-board" id="xchgBoard">
+    {{ range $alphabet }}
+      {{ $letter := . }}
+      {{ $bucket := index $groups $letter }}
+      {{ if $bucket }}
+        <section class="xchg-block" id="xchg-{{ $letter | urlize }}" data-letter="{{ $letter }}">
+          <header class="xchg-block-h">
+            <span class="xchg-block-letter">{{ $letter }}</span>
+            <span class="xchg-block-rule"></span>
+            <span class="xchg-block-count">{{ len $bucket }}</span>
+          </header>
+          <div class="xchg-grid">
+            {{ range $bucket }}
+              <a class="xchg-ticket" href="{{ .url }}" data-t="{{ lower .ticker }}" data-n="{{ lower .name }}">
+                <span class="xchg-ticket-sym">{{ .ticker }}</span>
+                <span class="xchg-ticket-name">{{ .name }}</span>
+              </a>
+            {{ end }}
+          </div>
+        </section>
+      {{ end }}
+    {{ end }}
+    <p class="xchg-empty" id="xchgEmpty" hidden>No company matches <b id="xchgEmptyQ"></b>. Try a ticker like <kbd>AAPL</kbd> or a name like <kbd>Apple</kbd>.</p>
+  </div>
+</article>
+
+<script>
+(function () {
+  var input = document.getElementById('xchgSearch');
+  var board = document.getElementById('xchgBoard');
+  var count = document.getElementById('xchgCount');
+  var empty = document.getElementById('xchgEmpty');
+  var emptyQ = document.getElementById('xchgEmptyQ');
+  var rndBtn = document.getElementById('xchgRandom');
+  if (!input || !board) return;
+
+  var tickets = Array.prototype.slice.call(board.querySelectorAll('.xchg-ticket'));
+  var blocks = Array.prototype.slice.call(board.querySelectorAll('.xchg-block'));
+  var total = tickets.length;
+
+  function setCount(n) {
+    if (!count) return;
+    count.textContent = n === total ? (total.toLocaleString() + ' listed') : (n.toLocaleString() + ' of ' + total.toLocaleString());
+  }
+  setCount(total);
+
+  var t;
+  function apply(q) {
+    q = q.trim().toLowerCase();
+    var shown = 0;
+    if (!q) {
+      tickets.forEach(function (el) { el.hidden = false; });
+      blocks.forEach(function (b) { b.hidden = false; });
+      empty.hidden = true;
+      setCount(total);
+      return;
+    }
+    blocks.forEach(function (b) {
+      var any = false;
+      var cards = b.querySelectorAll('.xchg-ticket');
+      for (var i = 0; i < cards.length; i++) {
+        var el = cards[i];
+        var hit = el.getAttribute('data-t').indexOf(q) !== -1 || el.getAttribute('data-n').indexOf(q) !== -1;
+        el.hidden = !hit;
+        if (hit) { any = true; shown++; }
+      }
+      b.hidden = !any;
+    });
+    empty.hidden = shown !== 0;
+    if (shown === 0 && emptyQ) emptyQ.textContent = q;
+    setCount(shown);
+  }
+
+  input.addEventListener('input', function () {
+    clearTimeout(t);
+    t = setTimeout(function () { apply(input.value); }, 80);
+  });
+
+  if (rndBtn) {
+    rndBtn.addEventListener('click', function () {
+      var visible = tickets.filter(function (el) { return !el.hidden; });
+      if (!visible.length) return;
+      var pick = visible[Math.floor(Math.random() * visible.length)];
+      if (window.umami) { try { window.umami.track('random-company', { ticker: pick.querySelector('.xchg-ticket-sym').textContent }); } catch (e) {} }
+      window.location.href = pick.getAttribute('href');
+    });
+  }
+})();
+</script>
+{{ end }}

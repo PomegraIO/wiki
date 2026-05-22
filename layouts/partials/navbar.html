@@ -9,6 +9,7 @@
       <a href="{{ "/" | relURL }}" class="wiki-nav-link{{ if .IsHome }} is-active{{ end }}">Main page</a>
       <a href="{{ "/atlas/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/atlas/" }} is-active{{ end }}" title="Browse every category with featured entries">Atlas</a>
       <a href="{{ "/index-a-z/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/index-a-z/" }} is-active{{ end }}" title="Alphabetical index of every entry">Index</a>
+      <a href="{{ "/companies/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/companies/" }} is-active{{ end }}" title="The Exchange — every company profiled, by ticker">Companies</a>
       <a id="pom-random" href="#" class="wiki-nav-link" title="Open a random entry">Random</a>
       <a href="{{ "/about/" | relURL }}" class="wiki-nav-link{{ if eq .RelPermalink "/about/" }} is-active{{ end }}">About</a>
 
