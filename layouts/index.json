@@ -4,7 +4,7 @@
   {{- $entry := dict
     "t" .Title
     "d" (.Description | default "")
-    "u" .RelPermalink
+    "u" .Permalink
   -}}
   {{- $entries = $entries | append $entry -}}
 {{- end -}}
