@@ -4,16 +4,18 @@
 {{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
 {{ $totalEntries := len $entries }}
 
-{{/* Category counts, sorted descending */}}
+{{/* Category counts, sorted descending. "companies" is excluded — it is not
+     an editorial concept category; it has its own home at The Exchange. */}}
 {{ $cats := dict }}
 {{ range $entries }}
   {{ $s := .Section }}
-  {{ if $s }}
+  {{ if and $s (ne $s "companies") }}
     {{ $existing := index $cats $s | default 0 }}
     {{ $cats = merge $cats (dict $s (add $existing 1)) }}
   {{ end }}
 {{ end }}
 {{ $catCount := len $cats }}
+{{ $companyCount := len (where $entries "Section" "companies") }}
 
 {{/* Pre-counted total cross-link figure baked at build time. Hugo can't
      trivially compute this without re-parsing every body, so we expose
@@ -30,24 +32,32 @@
     <p class="wiki-home-tagline">{{ .Site.Params.tagline }} — markets, instruments, institutions, and the ideas that move them. Every entry is plain-language and densely cross-linked, so one click leads to the next.</p>
   </header>
 
-  {{/* STATS TILES ──────────────────────────────────────────────────────── */}}
-  <section class="wiki-home-stats" aria-label="Wiki statistics">
-    <div class="wiki-stat-tile">
-      <div class="wiki-stat-num">{{ lang.FormatNumber 0 $totalEntries }}</div>
-      <div class="wiki-stat-label">Entries</div>
-    </div>
-    <div class="wiki-stat-tile">
-      <div class="wiki-stat-num">{{ $catCount }}</div>
-      <div class="wiki-stat-label">Categories</div>
-    </div>
-    <div class="wiki-stat-tile">
-      <div class="wiki-stat-num">{{ lang.FormatNumber 0 $linkCount }}</div>
-      <div class="wiki-stat-label">Cross-links</div>
-    </div>
-    <div class="wiki-stat-tile">
-      <div class="wiki-stat-num">100%</div>
-      <div class="wiki-stat-label">Free &amp; open</div>
-    </div>
+  {{/* LAUNCH TILES — actionable entry points, not dead statistics ───────── */}}
+  <section class="wiki-home-launch" aria-label="Ways into the wiki">
+    <a class="wiki-launch-tile" href="{{ "/companies/" | relURL }}">
+      <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $companyCount }} listed</span>
+      <span class="wiki-launch-title">The Exchange</span>
+      <span class="wiki-launch-sub">Pull up any public company by its ticker.</span>
+      <span class="wiki-launch-go" aria-hidden="true">→</span>
+    </a>
+    <a class="wiki-launch-tile" href="{{ "/atlas/" | relURL }}">
+      <span class="wiki-launch-kicker">{{ $catCount }} categories</span>
+      <span class="wiki-launch-title">The Atlas</span>
+      <span class="wiki-launch-sub">Browse the whole map of finance by theme.</span>
+      <span class="wiki-launch-go" aria-hidden="true">→</span>
+    </a>
+    <a class="wiki-launch-tile" href="{{ "/index-a-z/" | relURL }}">
+      <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $totalEntries }} entries</span>
+      <span class="wiki-launch-title">A&ndash;Z Index</span>
+      <span class="wiki-launch-sub">Every entry, end to end, alphabetically.</span>
+      <span class="wiki-launch-go" aria-hidden="true">→</span>
+    </a>
+    <a class="wiki-launch-tile wiki-launch-tile--accent" href="#" id="pom-random-launch">
+      <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $linkCount }} links deep</span>
+      <span class="wiki-launch-title">Surprise me</span>
+      <span class="wiki-launch-sub">Drop into a random corner of the wiki.</span>
+      <span class="wiki-launch-go" aria-hidden="true">↗</span>
+    </a>
   </section>
 
   {{/* HERO ─────────────────────────────────────────────────────────────── */}}
@@ -164,15 +174,18 @@
 </div>
 
 <script>
-  // Random-entry link on the home page (mirrors the navbar's Random link)
+  // Random-entry links on the home page (mirror the navbar's Random link)
   (function() {
-    var link = document.getElementById('pom-random-home');
-    if (!link) return;
-    link.addEventListener('click', function(e) {
+    var ids = ['pom-random-home', 'pom-random-launch'];
+    function pickRandom(e) {
       e.preventDefault();
       fetch('{{ "index.json" | absURL }}')
         .then(function(r){ return r.json(); })
         .then(function(j){ if (j.length) window.location.href = j[Math.floor(Math.random()*j.length)].u; });
+    }
+    ids.forEach(function(id) {
+      var link = document.getElementById(id);
+      if (link) link.addEventListener('click', pickRandom);
     });
   })();
 </script>
