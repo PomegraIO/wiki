@@ -19,7 +19,7 @@ Orally delivered anti-fibrosis agents already exist on the market. Avalyn's rati
 
 ## Who funds and backs this company?
 
-The biotech is backed by Novo Nordisk, the Copenhagen-based global pharma giant, which invested early on. The company went public on the Nasdaq in April 2026, raising $300 million in an oversized IPO—a testament to investor appetite for late-stage respiratory drug development despite a crowded pulmonary fibrosis space.
+The biotech is backed by Novo Nordisk, the Copenhagen-based global pharma giant, which invested early on. The company went public on the [Nasdaq](/nasdaq/) in April 2026, raising $300 million in an oversized IPO—a testament to investor appetite for late-stage respiratory drug development despite a crowded pulmonary fibrosis space.
 
 ## What is in the pipeline?
 

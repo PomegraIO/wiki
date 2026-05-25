@@ -26,7 +26,7 @@ Beyond the core charging products, the company offers modular battery storage sy
 
 Ads-Tec's trajectory shifted sharply in 2025. After peaking at approximately €110 million in revenue in 2024, the company saw sales fall to around €32 million in 2025, reflecting reduced demand for its hardware products and a deliberate strategic reset. Management is repositioning the business away from pure hardware sales toward recurring service revenue (charging-as-a-service models), software licensing, and a large-scale battery storage project in Baden-Württemberg (Germany) targeted for completion in late 2029. This pivot signals recognition that hardware margin compression and cyclical project sales made the legacy model unsustainable, while the grid storage and digital energy management markets offer steadier, higher-margin potential.
 
-Like many [stock](/wiki/stock/) market debuts in the cleantech space, Ads-Tec faced headwinds from tighter capital markets and wavering customer capex after its NASDAQ listing. The company's future viability rests on execution of the new service and software strategy, successful deployment of flagship energy storage assets, and its ability to raise capital to fund operations through the transition period.
+Like many [stock](/wiki/stock/) market debuts in the cleantech space, Ads-Tec faced headwinds from tighter capital markets and wavering customer capex after its [NASDAQ](/nasdaq/) listing. The company's future viability rests on execution of the new service and software strategy, successful deployment of flagship energy storage assets, and its ability to raise capital to fund operations through the transition period.
 
 ## Research & Disclosure
 

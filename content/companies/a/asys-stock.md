@@ -24,7 +24,7 @@ The company competes against larger, diversified equipment suppliers like Applie
 
 - Public company; CIK 720500
 - Designs and manufactures thermal and CVD processing equipment
-- Primary market: semiconductor fabs and foundries globally
+- [Primary market](/primary-market/): semiconductor fabs and foundries globally
 - Secondary exposure to solar manufacturing and advanced materials
 - Equipment sales model with service and spare-parts aftermarket
 

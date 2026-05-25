@@ -15,7 +15,7 @@ The company's whole strategy right now is about proving Eastside has real scale.
 
 The core business logic is straightforward: drill more, map the mineralization better, and expand the known resource to the point where a major mining company wants to develop it, partner on it, or acquire the whole thing. The company has identified a McIntosh Zone with grades worth testing, and the Walker Lane Trend itself is a recognized geological hotspot for gold deposits. Revenue is nil; the money flows only outward, into exploration costs, salaries, and administrative overhead. Investors betting on A2 Gold are betting that discovery and development work at Eastside will eventually pay off—or that the property itself will catch a larger operator's eye.
 
-A2 Gold files a [10-K](/wiki/10-k/) with the SEC under CIK 1725603, disclosing exploration expenditures, properties held, and corporate structure. The [stock](/wiki/stock/) trades with thin liquidity typical of junior mining companies, and price volatility reflects not operational earnings but rather sentiment around exploration results, commodity prices, and broader capital flows into the precious metals space.
+A2 Gold files a [10-K](/wiki/10-k/) with the SEC under CIK 1725603, disclosing exploration expenditures, properties held, and corporate structure. The [stock](/wiki/stock/) trades with thin liquidity typical of junior mining companies, and price volatility reflects not operational earnings but rather sentiment around exploration results, commodity prices, and broader [capital flows](/capital-flows/) into the precious metals space.
 
 **Focus areas at Eastside:**
 - Reverse circulation drilling programs

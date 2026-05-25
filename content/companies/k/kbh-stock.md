@@ -20,7 +20,7 @@ KB Home operates primarily in two segments: homebuilding and financial services.
 
 The financial services segment, much smaller, provides loans and insurance products to buyers. It's not a separate lending business but a support arm: helping customers navigate mortgages and title insurance rounds out KB Home's service to the home buyer and reinforces the transaction.
 
-Revenue comes from home sale prices. Gross margins on home sales typically run 15-25% (varying widely by market, land cost, and housing cycle phase). Operating leverage is significant: fixed costs in land acquisition and design staff are spread across unit volume, so both upside and downside can be sharp in housing booms and busts.
+Revenue comes from home sale prices. Gross margins on home sales typically run 15-25% (varying widely by market, land cost, and housing cycle phase). Operating leverage is significant: fixed costs in land [acquisition](/acquisition/) and design staff are spread across unit volume, so both upside and downside can be sharp in housing booms and busts.
 
 ## Markets and geography
 
@@ -34,9 +34,9 @@ KB Home competes with national builders like Lennar, PulteGroup, and D.R. Horton
 
 The build-to-order model is defensible but not exclusive: other builders offer similar customization. KB Home's real advantages lie in execution—reliable delivery, quality, and a strong reputation with first-time buyers—plus its land position and market knowledge.
 
-Housing is inherently cyclical. Economic downturns, rising interest rates, and job losses reduce demand; low rates and strong employment boost it. KB Home's leverage to the cycle is high: a downturn that reduces home sales from 40,000 units to 25,000 can slash profit margins significantly. The 2008–2009 crisis devastated homebuilders; KB Home survived but saw earnings crater and eventually recovered as the recovery took hold.
+Housing is inherently cyclical. Economic downturns, rising [interest rates](/interest-rate/), and job losses reduce demand; low rates and strong employment boost it. KB Home's leverage to the cycle is high: a downturn that reduces home sales from 40,000 units to 25,000 can slash profit margins significantly. The 2008–2009 crisis devastated homebuilders; KB Home survived but saw earnings crater and eventually recovered as the recovery took hold.
 
-Input costs—especially lumber during 2021–2022—can squeeze margins unexpectedly. Labor availability and wage inflation are structural pressures in construction. Land availability and cost are localized but critical: a supply bottleneck in a key market can constrain KB Home's growth.
+Input costs—especially lumber during 2021–2022—can squeeze margins unexpectedly. Labor availability and wage [inflation](/inflation/) are structural pressures in construction. Land availability and cost are localized but critical: a supply bottleneck in a key market can constrain KB Home's growth.
 
 Mortgage rates are the ultimate determinant of housing affordability. A 5–6% rate environment is manageable for most buyers; rates above 7% typically trigger demand destruction, especially in higher price ranges.
 
@@ -44,9 +44,9 @@ Mortgage rates are the ultimate determinant of housing affordability. A 5–6% r
 
 KB Home has been [publicly traded](/wiki/public-company/) since 1962. Its [10-K](/wiki/10-k/) shows revenue in the $20–25 billion range in recent years (driven by home sales volume and average selling price) and net income in the $1–3 billion range, depending on cycle phase. The company carries meaningful debt to finance land acquisition and working capital.
 
-Free cash flow is volatile because it depends on the timing of land purchases, construction spending, and home deliveries. In a strong cycle, KB Home generates large cash inflows as homes are delivered; in a downturn, cash may be constrained.
+[Free cash flow](/free-cash-flow/) is volatile because it depends on the timing of land purchases, [construction spending](/construction-spending/), and home deliveries. In a strong cycle, KB Home generates large cash inflows as homes are delivered; in a downturn, cash may be constrained.
 
-The company returns capital to shareholders via dividends and share buybacks when cash position permits, though it cuts or suspends both during downturns to preserve liquidity.
+The company returns capital to shareholders via [dividends](/dividend/) and [share buybacks](/share-buyback/) when cash position permits, though it cuts or suspends both during downturns to preserve liquidity.
 
 ## What to watch
 

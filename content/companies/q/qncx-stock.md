@@ -25,13 +25,13 @@ The path from clinical development to product approval in rare disease is shorte
 
 ## Competitive Context
 
-The rare genetic disease space attracts both established pharmaceutical companies and specialized biotech startups. Large pharma companies have moved into rare disease through acquisition—buying clinical-stage programs or small companies outright. Specialized biotech firms compete on agility, focus, and founder expertise. In A-T specifically, a handful of private and public companies are advancing programs, though no single standard of care has yet emerged. This open landscape creates opportunity for a well-executed program but also means therapeutic trials are ongoing and competitive for patient enrollment.
+The rare genetic disease space attracts both established pharmaceutical companies and specialized biotech startups. Large pharma companies have moved into rare disease through [acquisition](/acquisition/)—buying clinical-stage programs or small companies outright. Specialized biotech firms compete on agility, focus, and founder expertise. In A-T specifically, a handful of private and public companies are advancing programs, though no single standard of care has yet emerged. This open landscape creates opportunity for a well-executed program but also means therapeutic trials are ongoing and competitive for patient enrollment.
 
 Gene therapy in particular has seen both successes and setbacks. Approved gene therapies (such as Zolgensma for spinal muscular atrophy and Luxturna for RPE65 mutation-associated retinal dystrophy) have demonstrated proof-of-concept and regulatory pathways. However, manufacturing at scale, durable efficacy in the target tissue, immune response management, and pricing remain ongoing challenges. Small-molecule approaches offer advantages in manufacturability and distribution but may not address the fundamental genetic defect; they instead modulate cellular responses to the deficit.
 
 ## Revenue and Business Model
 
-As a pre-revenue clinical-stage company, Quince has no product sales. Revenue in the near term will come only from partnerships, licensing, or success in advancing candidates toward regulatory approval and commercialization. The business model is typical for this stage: capital is deployed against R&D milestones, potential exits include acquisition by a larger company, partnership with a pharma firm, or an initial public offering if clinical progress and market conditions align.
+As a pre-revenue clinical-stage company, Quince has no product sales. Revenue in the near term will come only from partnerships, licensing, or success in advancing candidates toward regulatory approval and commercialization. The business model is typical for this stage: capital is deployed against R&D milestones, potential exits include acquisition by a larger company, partnership with a pharma firm, or an [initial public offering](/initial-public-offering/) if clinical progress and market conditions align.
 
 Potential acquirers would likely be companies with existing rare disease platforms, central nervous system expertise, or gene therapy capabilities. A successful Phase 2 or Phase 2b readout in A-T—showing biomarker improvement, clinical efficacy, or both—would likely trigger acquisition interest. Alternatively, Quince might license technology or programs to partners in exchange for royalties and milestone payments, allowing the company to extend its cash runway and benefit from partners' clinical expertise and commercial scale.
 
@@ -48,7 +48,7 @@ For A-T, the medical need is so acute and patient numbers so small that regulato
 
 ## What Matters for Investors and Researchers
 
-For equity holders, the key indicators are clinical progress (trial enrollment, safety, any efficacy readout), capital adequacy (runway to next major milestone), and partnership announcements. A deal with a pharma company would signal external validation and likely reduce execution risk.
+For equity holders, the key indicators are clinical progress (trial enrollment, safety, any efficacy readout), [capital adequacy](/capital-adequacy/) (runway to next major milestone), and partnership announcements. A deal with a pharma company would signal external validation and likely reduce execution risk.
 
 For researchers and patient advocates, Quince's publications, interactions with regulatory agencies, and trial design matter. The company's commitment to understanding disease biology and selecting patients most likely to benefit shapes the credibility of results. Gene therapy programs in particular must navigate immunogenicity and durability questions that early trials can only begin to address.
 

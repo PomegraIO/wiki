@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Natural Gas Services Group is a provider of compression equipment and services to oil and gas producers.**
+**[Natural Gas](/natural-gas/) Services Group is a provider of compression equipment and services to oil and gas producers.**
 
 NGS operates in a specialized corner of the oilfield services sector: it manufactures, rents, and services compressors and related machinery used by exploration and production companies to extract natural gas and manage well pressure. The business is built on a recurring revenue model anchored to a fleet of equipment in the field, combined with transactional sales and aftermarket service revenue.
 
@@ -30,11 +30,11 @@ NGS operates a network of service centers to maintain, repair, and upgrade equip
 NGS is a pure-play exposure to upstream capital discipline. When oil and gas companies expand production or drill new wells, they lease or purchase compression equipment. When they cut budgets and exit marginal properties, demand dries up. The business is sensitive to:
 
 - **Commodity prices**: Long-term beliefs about gas and oil economics drive operator spending on new wells and compression capacity.
-- **Debt and liquidity**: Operators facing tight balance sheets defer equipment leases or stretch out maintenance.
+- **Debt and liquidity**: Operators facing tight [balance sheets](/balance-sheet/) defer equipment leases or stretch out maintenance.
 - **Regulatory environment**: Methane regulation, emissions standards, or restrictions on fossil-fuel development can lower drilling intensity or favor certain types of equipment (e.g., electric compressors).
 - **Obsolescence and technology shifts**: Pressure to electrify and reduce carbon intensity could disrupt demand for traditional internal-combustion compressors.
 
-During peak drilling cycles, NGS's fleet runs near capacity, utilization rates climb, and pricing power improves. During downturns, idle equipment sits on the balance sheet, depreciation expense rises, and customers renegotiate lease terms or return units early.
+During peak drilling cycles, NGS's fleet runs near capacity, utilization rates climb, and pricing power improves. During downturns, idle equipment sits on the balance sheet, [depreciation](/depreciation/) expense rises, and customers renegotiate lease terms or return units early.
 
 ## Financial Structure
 
@@ -56,7 +56,7 @@ Investors view NGS through the lens of upstream E&P spending. Bullish cases rest
 Bearish cases highlight:
 
 - Rapid declines in utilization and price during commodity downturns
-- Stranded fleet capacity and asset impairment risk
+- Stranded fleet capacity and [asset impairment](/asset-impairment/) risk
 - Long-term pressure from renewable energy and electrification reducing demand for gas-powered equipment
 - Concentrated customer base vulnerable to consolidation or bankruptcies
 

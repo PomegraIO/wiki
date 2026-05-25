@@ -14,11 +14,11 @@ handwritten: true
 
 ## Drug Development Portfolio
 
-AEON's development strategy centers on dermatological and rare disease applications where regulatory pathways favor accelerated timelines and reimbursement models support meaningful pricing. Each program is selected for technical feasibility and commercial viability in patient populations where competing treatments are limited. The company balances organic discovery efforts with strategic licensing and asset acquisitions, building a portfolio designed to generate regulatory catalysts and de-risk the overall pipeline. Clinical-stage programs represent the core value driver, with progress measured against enrollment timelines, interim efficacy data, and pathway discussions with the FDA.
+AEON's development strategy centers on dermatological and rare disease applications where regulatory pathways favor accelerated timelines and reimbursement models support meaningful pricing. Each program is selected for technical feasibility and commercial viability in patient populations where competing treatments are limited. The company balances organic discovery efforts with strategic licensing and asset [acquisitions](/acquisition/), building a portfolio designed to generate regulatory catalysts and de-risk the overall pipeline. Clinical-stage programs represent the core value driver, with progress measured against enrollment timelines, interim efficacy data, and pathway discussions with the FDA.
 
 ## Capital and Commercial Model
 
-As a clinical-stage biotech, AEON depends on equity financing and capital markets access to fund development costs through late-stage trials and initial commercialization. The company pursues partnerships and licensing agreements to leverage external expertise and spread development risk. Revenue generation remains prospective, contingent on successful trial outcomes, regulatory approval, and market adoption—a process typically spanning multiple years. Shareholder returns depend on company execution in clinical programs, regulatory milestones, and eventually post-approval launch and sales scaling.
+As a clinical-stage biotech, AEON depends on [equity financing](/equity-financing/) and capital markets access to fund development costs through late-stage trials and initial commercialization. The company pursues partnerships and licensing agreements to leverage external expertise and spread development risk. Revenue generation remains prospective, contingent on successful trial outcomes, regulatory approval, and market adoption—a process typically spanning multiple years. Shareholder returns depend on company execution in clinical programs, regulatory milestones, and eventually post-approval launch and sales scaling.
 
 ## At a glance
 

@@ -33,7 +33,7 @@ However, the company faces significant competition from much larger global hosti
 
 Gigabit is a micro-cap listing with limited public visibility and liquidity. As a small, regional infrastructure operator, it is subject to:
 
-- **Market concentration risk**: Dependency on a handful of large customers for revenue stability.
+- **Market [concentration risk](/concentration-risk/)**: Dependency on a handful of large customers for revenue stability.
 - **Technology risk**: Rapid changes in cloud computing and hosting architecture can quickly render legacy infrastructure uncompetitive.
 - **Regulatory exposure**: Data protection and residency laws across multiple jurisdictions (Malaysia, Hong Kong, Japan, Taiwan) create compliance complexity.
 - **Capex intensity**: Data center operations require continuous capital investment to refresh equipment and meet redundancy standards.

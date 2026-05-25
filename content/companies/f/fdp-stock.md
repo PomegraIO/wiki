@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Fresh Del Monte Produce Inc. is a global grower, marketer, and distributor of fresh and prepared fruits and vegetables, with a focus on tropical and specialty products. The company operates across the entire supply chain—from field cultivation through distribution to retailers and foodservice operators—selling bananas, pineapples, melons, grapes, and prepared salads under the Del Monte and other brand names. It trades on the New York Stock Exchange under the ticker FDP.
+Fresh Del Monte Produce Inc. is a global grower, marketer, and distributor of fresh and prepared fruits and vegetables, with a focus on tropical and specialty products. The company operates across the entire supply chain—from field cultivation through distribution to retailers and foodservice operators—selling bananas, pineapples, melons, grapes, and prepared salads under the Del Monte and other brand names. It trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker FDP.
 
 <aside class="wiki-infobox">
 **FRESH DEL MONTE PRODUCE**
@@ -32,7 +32,7 @@ The company owns and operates substantial cultivation assets across Ecuador, Cos
 
 ## What drives revenue and profitability?
 
-The company's top line depends on volume sold multiplied by per-unit selling prices, which are largely set by commodity market conditions. Bananas and pineapples—the bulk of revenue—are commodities with global supply and highly competitive pricing, particularly in North American retail. Margins narrow when tropical fruit prices fall due to oversupply or strong harvests in competing regions like Colombia or Ecuador. Profitability is also sensitive to foreign exchange: the company earns most revenue in dollars but incurs significant costs in local currencies (Costa Rican colones, Ecuadorian sucres converted to dollars, etc.). A strong US dollar improves reported earnings; a weaker dollar works the opposite way.
+The company's top line depends on volume sold multiplied by per-unit selling prices, which are largely set by commodity market conditions. Bananas and pineapples—the bulk of revenue—are commodities with global supply and highly competitive pricing, particularly in North American retail. Margins narrow when tropical fruit prices fall due to oversupply or strong harvests in competing regions like Colombia or Ecuador. Profitability is also sensitive to foreign exchange: the company earns most revenue in dollars but incurs significant costs in local currencies (Costa Rican colones, Ecuadorian sucres converted to dollars, etc.). A strong [US dollar](/us-dollar/) improves reported earnings; a weaker dollar works the opposite way.
 
 The express meals segment, by contrast, operates with fresher supply chains and less commodity exposure. These products command premium pricing because they are value-added (washed, cut, packaged). This division is more profitable per unit but represents a smaller share of overall revenue—enough to diversify somewhat, but not enough to insulate the company if fresh produce commodity prices collapse.
 
@@ -48,7 +48,7 @@ Weather and climate are persistent threats. Tropical fruit production depends on
 
 The commodity nature of the core product limits pricing power. If global banana supply surges, Fresh Del Monte cannot easily maintain prices; it must either cut production or accept lower margins. This compresses profitability in boom-bust cycles inherent to agriculture.
 
-Labor availability and wage inflation matter. Harvesting and processing are labor-intensive, and regulatory pressure in key growing regions has increased wage costs over time. Automation can help but requires capital investment that squeezes near-term returns.
+Labor availability and wage [inflation](/inflation/) matter. Harvesting and processing are labor-intensive, and regulatory pressure in key growing regions has increased wage costs over time. Automation can help but requires capital investment that squeezes near-term returns.
 
 Regulatory scrutiny on pesticide use, water consumption, and labor practices is rising in producing countries and among major retailers demanding sustainability certifications. These compliance costs are real and increasing, with no direct revenue offset.
 
@@ -56,10 +56,10 @@ Currency risk persists: if the US dollar weakens against Central American curren
 
 ## How to research this company
 
-Start with the [10-K](/wiki/10-k/) filing, which details operating segments, geographic mix of sales, and commodity price exposure. Pay close attention to gross margin trends by segment: a widening margin in express meals paired with compression in fresh produce tells you where pricing power lies. Scan the "Risk Factors" section for specificity—a company acknowledging climate, labor, and currency risks honestly signals management awareness.
+Start with the [10-K](/wiki/10-k/) filing, which details operating segments, geographic mix of sales, and commodity price exposure. Pay close attention to gross margin trends by segment: a widening margin in express meals paired with compression in fresh produce tells you where pricing power lies. Scan the "Risk Factors" section for specificity—a company acknowledging climate, labor, and [currency risks](/currency-risk/) honestly signals management awareness.
 
 Watch commodity price trends for bananas and pineapples (USDA and FAO publish these), as they broadly correlate with the company's top line. Earnings calls often feature management commentary on crop sizes, regional supply conditions, and retailer demand, which help calibrate inventory and pricing outlook.
 
-Track the company's debt levels and cash flow from operations. With capital-intensive assets and commodity-price volatility, leverage matters: high debt in a down-pricing cycle can stress the balance sheet. Free cash flow tells you whether the business generates cash for reinvestment or requires ongoing equity injection.
+Track the company's debt levels and cash flow from operations. With capital-intensive assets and commodity-price volatility, leverage matters: high debt in a down-pricing cycle can stress the [balance sheet](/balance-sheet/). [Free cash flow](/free-cash-flow/) tells you whether the business generates cash for reinvestment or requires ongoing equity injection.
 
 Finally, compare Fresh Del Monte's returns on capital to peers—Chiquita and Dole—and to the cost of capital. If returns lag consistently, the vertical integration strategy may not be generating competitive advantage.

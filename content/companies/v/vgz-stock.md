@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vista Gold Corp. is a development-stage gold company with a singular focus: bringing the Mt Todd gold project in Australia's Northern Territory into production. Unlike established gold miners that generate cash from operating mines and pay dividends to shareholders, Vista Gold exists in an earlier state — a company whose value depends almost entirely on successfully developing one ore deposit into a profitable mine, a transition that requires capital, regulatory approval, and favorable commodity prices. It trades on the NASDAQ under the ticker VGZ.
+Vista Gold Corp. is a development-stage gold company with a singular focus: bringing the Mt Todd gold project in Australia's Northern Territory into production. Unlike established gold miners that generate cash from operating mines and pay [dividends](/dividend/) to shareholders, Vista Gold exists in an earlier state — a company whose value depends almost entirely on successfully developing one ore deposit into a profitable mine, a transition that requires capital, regulatory approval, and favorable commodity prices. It trades on the [NASDAQ](/nasdaq/) under the ticker VGZ.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Vista Gold Corp. is a development-stage gold company with a singular focus: brin
 
 Vista Gold was formed to develop the Mt Todd gold deposit, a known mineral resource in Australia's remote Top End that has been explored and refined over decades but has never been mined at scale. The company is, in essence, a single project seeking a path to production. This is a common structure in mining: a development-stage enterprise is built around one high-potential asset, and the company's entire worth rides on whether that deposit can be economically developed and brought to market. If Mt Todd succeeds, shareholders may see a significant payoff; if it fails, stalls, or is abandoned, the investment is at risk.
 
-Vista Gold has shifted its strategy and ownership over time. The company acquired Mt Todd from Newcrest Mining (which itself had inherited it through earlier acquisitions), and the project has been held, refined, and refined again through various permitting and feasibility phases. The gold market's strength in recent years, coupled with global supply constraints, has renewed industry interest in bringing new mines into production. For Vista Gold, this created an opportunity — but also, from the shareholder perspective, a bet on whether the company can navigate the years of work still required.
+Vista Gold has shifted its strategy and ownership over time. The company acquired Mt Todd from Newcrest Mining (which itself had inherited it through earlier [acquisitions](/acquisition/)), and the project has been held, refined, and refined again through various permitting and feasibility phases. The gold market's strength in recent years, coupled with global supply constraints, has renewed industry interest in bringing new mines into production. For Vista Gold, this created an opportunity — but also, from the shareholder perspective, a bet on whether the company can navigate the years of work still required.
 
 ## Mt Todd: the asset and the hurdles
 

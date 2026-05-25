@@ -30,7 +30,7 @@ China's insurance market has grown considerably over the past two decades as per
 
 ## The economics of insurance brokerage
 
-Insurance brokers earn revenue in two main ways: commissions on policies sold (typically a percentage of annual premiums) and fees for consulting or other services. For QDM, commission income is the primary driver. The profitability of a brokerage depends on the volume of policies it can place, the average commission rate it commands, and the cost of maintaining its sales force and operations.
+Insurance [brokers](/broker/) earn revenue in two main ways: commissions on policies sold (typically a percentage of annual premiums) and fees for consulting or other services. For QDM, commission income is the primary driver. The profitability of a brokerage depends on the volume of policies it can place, the average commission rate it commands, and the cost of maintaining its sales force and operations.
 
 Because the brokerage model is capital-light, gross margins are often attractive — the company does not pay to defend claims or manage policyholder reserves. However, operating costs, particularly personnel expenses and regulatory compliance, can eat heavily into margin. A broker's success or failure often comes down to whether it can sustain a productive, stable agent network at a reasonable cost.
 
@@ -44,7 +44,7 @@ Additionally, companies with substantial China exposure carry execution risk. Ch
 
 ## OTC trading and liquidity
 
-The fact that QDMI trades on the over-the-counter markets rather than a major exchange signals both the company's size and the limited institutional interest in it. [OTC markets](/wiki/otc-markets/) offer less liquidity, wider spreads, and less regulatory oversight than Nasdaq or the NYSE. Shareholders face real challenges if they need to exit a position quickly, and information quality and disclosure standards are often thinner than for exchange-listed companies.
+The fact that QDMI trades on the [over-the-counter markets](/over-the-counter-market/) rather than a major exchange signals both the company's size and the limited institutional interest in it. [OTC markets](/wiki/otc-markets/) offer less liquidity, wider spreads, and less regulatory oversight than [Nasdaq](/nasdaq/) or the NYSE. Shareholders face real challenges if they need to exit a position quickly, and information quality and disclosure standards are often thinner than for exchange-listed companies.
 
 For investors, the OTC listing also reflects limited analyst coverage — there is often no sell-side research on such stocks, making it difficult to understand what is happening in the business without direct access to filings and management.
 

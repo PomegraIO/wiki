@@ -17,7 +17,7 @@ Amrize operates approximately 1,000 sites and facilities across North America wi
 
 ## Business Structure
 
-The company operates through two segments: Building Materials (cement, aggregates, ready-mix concrete, and asphalt) and Building Envelope (roofing systems, wall assemblies, insulation, membranes, and protective coatings). This dual focus provides exposure to multiple construction cycles and customer bases—residential demand can offset commercial softness and vice versa. Both segments feed directly into construction pipelines sensitive to interest rates, housing starts, and commercial development activity.
+The company operates through two segments: Building Materials (cement, aggregates, ready-mix concrete, and asphalt) and Building Envelope (roofing systems, wall assemblies, insulation, membranes, and protective coatings). This dual focus provides exposure to multiple construction cycles and customer bases—residential demand can offset commercial softness and vice versa. Both segments feed directly into construction pipelines sensitive to [interest rates](/interest-rate/), housing starts, and commercial development activity.
 
 ## At a glance
 
@@ -25,4 +25,4 @@ The company operates through two segments: Building Materials (cement, aggregate
 - Second-largest commercial roofing operator in North America by sales
 - Two business segments: Building Materials and Building Envelope
 - Approximately 19,000 employees across 1,000+ facilities
-- Strong shareholder returns through dividends and repurchase programs
+- Strong shareholder returns through [dividends](/dividend/) and repurchase programs

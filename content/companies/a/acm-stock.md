@@ -23,7 +23,7 @@ AECOM's revenue splits across several service lines tied to different client nee
 | Environmental & Infrastructure | Water systems, energy, climate resilience, site remediation |
 | Management Services | Program delivery, project controls, owner's representation |
 
-The firm's scale and global reach give it advantages competing for major government contracts and complex international projects. Much of its work is in developed markets where infrastructure spending cycles, government budgets, and regulatory requirements drive long-term demand. Geographic diversification and diverse service lines buffer against downturns in any single sector, though public works spending remains the backbone.
+The firm's scale and global reach give it advantages competing for major government contracts and complex international projects. Much of its work is in developed markets where infrastructure spending cycles, government budgets, and regulatory requirements drive long-term demand. Geographic [diversification](/diversification/) and diverse service lines buffer against downturns in any single sector, though public works spending remains the backbone.
 
 AECOM's fortunes are tied to infrastructure spending trends and government budget cycles. In boom phases of public investment—highway expansions, transit systems, smart-grid deployments—demand for design and planning firms accelerates. During austerity periods, that work evaporates. The COVID-era infrastructure bill in the U.S. and comparable commitments abroad have kept the pipeline robust, but the firm's earnings are inherently cyclical and sensitive to political whims.
 

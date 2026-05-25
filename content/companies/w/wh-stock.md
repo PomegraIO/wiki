@@ -61,17 +61,17 @@ Wyndham's portfolio spans the budget-to-upscale spectrum:
 
 This breadth is deliberate. Budget travelers and road-weary business people have very different needs, but Wyndham can serve both under one corporate parent. Franchisees can choose which brand fits their market, and Wyndham benefits from cross-distribution (a customer can move up from Days Inn to a Baymont as their stay type changes).
 
-The portfolio is also a product of acquisition. Wyndham built itself through mergers—picking up Ramada, La Quinta, and others—creating a sprawling brand ecosystem. Managing dozens of brands with overlapping positioning and customer bases is a permanent optimization puzzle.
+The portfolio is also a product of acquisition. Wyndham built itself through [mergers](/merger/)—picking up Ramada, La Quinta, and others—creating a sprawling brand ecosystem. Managing dozens of brands with overlapping positioning and customer bases is a permanent optimization puzzle.
 
 ## What competitive pressures does Wyndham face?
 
-**Larger competitors** include Marriott (a true megacap), IHG, and Best Western. Marriott is vastly larger and owns more properties outright; it has deeper pockets for tech investment and brand building. IHG operates similarly to Wyndham but with a leaner portfolio. Marriott's Bonvoy program is the gold standard in loyalty, drawing big corporate contracts.
+**Larger competitors** include Marriott (a true megacap), IHG, and Best Western. Marriott is vastly larger and owns more properties outright; it has deeper pockets for tech investment and brand building. IHG operates similarly to Wyndham but with a leaner portfolio. Marriott's Bonvoy program is the [gold standard](/gold-standard/) in loyalty, drawing big corporate contracts.
 
 **Disintermediation:** Direct booking platforms (Airbnb, Booking.com, Expedia) and hotel operators' own websites have eroded the value of traditional distribution. A franchisee might bypass Wyndham's central reservation system and book customers directly. This threatens Wyndham's ability to charge distribution fees and control the customer relationship.
 
 **Franchisee concentration:** Large chains of hotels—or institutional groups with dozens of properties—have negotiating power. They can demand lower royalty rates or shift to a competing brand. Wyndham's fees are only sticky if the brand delivers demand and the system delivers value.
 
-**Economic sensitivity:** Recessions reduce travel, lower occupancy rates, and make franchisees reluctant to renovate or expand. During downturns, franchisee defaults can rise, hitting Wyndham's revenue.
+**Economic sensitivity:** [Recessions](/recession/) reduce travel, lower occupancy rates, and make franchisees reluctant to renovate or expand. During downturns, franchisee defaults can rise, hitting Wyndham's revenue.
 
 **Technology race:** Marriott and IHG have invested heavily in mobile apps, AI-driven personalization, and seamless check-in. Wyndham must keep pace or risk losing guests to more convenient competitors.
 
@@ -83,7 +83,7 @@ Very. Hotel revenue is discretionary—people travel less when economies contrac
 
 Corporate travel (a key driver) is vulnerable to economic cuts and shifting work norms (post-2020, remote work has reduced business travel). Leisure travel is less cyclical but still takes a hit in severe downturns.
 
-Real estate investment trusts and large chains that own multiple Wyndham properties may default on royalty payments or abandon underperforming locations. This creates credit risk and revenue volatility.
+[Real estate investment trusts](/real-estate-investment-trust/) and large chains that own multiple Wyndham properties may default on royalty payments or abandon underperforming locations. This creates [credit risk](/credit-risk/) and revenue volatility.
 
 Conversely, in growth phases, new property openings, renovations, and rising occupancy can drive explosive growth in franchise royalties.
 
@@ -94,8 +94,8 @@ Wyndham's [10-K](/wiki/10-k/) typically highlights:
 - **Franchise revenue concentration:** The top franchisees often represent 20-30% of system-wide revenue. Losing a major partner hurts.
 - **Net unit growth targets:** Management reports quarterly and annual net room additions (new franchises minus closures). This metric signals health and franchisee confidence.
 - **RevPAR (revenue per available room) trends:** Wyndham tracks system-wide RevPAR—a proxy for pricing power and demand. Declining RevPAR is a warning sign.
-- **Adjusted EBITDA and free cash flow:** High-margin models should generate cash; Wyndham discloses adjusted metrics to normalize non-recurring items.
-- **Debt levels:** As of its independence in 2018, Wyndham carried debt from the spin and acquisitions. Debt covenants and refinancing risk appear in debt schedules.
+- **Adjusted [EBITDA](/ebitda/) and [free cash flow](/free-cash-flow/):** High-margin models should generate cash; Wyndham discloses adjusted metrics to normalize non-recurring items.
+- **Debt levels:** As of its independence in 2018, Wyndham carried debt from the spin and [acquisitions](/acquisition/). Debt covenants and [refinancing risk](/refinancing-risk/) appear in debt schedules.
 - **Loyalty program economics:** Points liabilities (deferred revenue from unredeemed points) and loyalty member growth are tracked.
 - **Technology investments:** Wyndham discloses capex for systems, mobile apps, and distribution platforms.
 

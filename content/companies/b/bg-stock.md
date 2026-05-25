@@ -29,7 +29,7 @@ Bunge operates three main segments:
 
 **Agribusiness** is the company's largest and most volatile engine. Bunge sources soybeans, corn, wheat, and other crops directly from farmers or traders, then sells them into global markets or passes them to its own mills and processors. The unit also includes grain elevator networks in North America and South America, plus origination and trading of crop production from farm gate to export port. Margins here swing wildly with commodity prices and harvest cycles, but the sheer volume—millions of metric tons yearly—anchors cash flow.
 
-**Refined & Specialty Oils** converts crude vegetable oils (mostly soybean and palm) into edible oils for industrial and consumer use. This segment owns a network of crushing facilities and refineries across the Americas and Europe. Bunge both sells B2B to food manufacturers and sells retail through its own brands (Planters, Wesson, and others in the mayonnaise and salad oil categories). The refining margin—the difference between crude oil and refined product—is narrower and more stable than the agribusiness spread, offering a partial hedge.
+**Refined & Specialty Oils** converts crude vegetable oils (mostly soybean and palm) into edible oils for industrial and consumer use. This segment owns a network of crushing facilities and refineries across the Americas and Europe. Bunge both sells B2B to food manufacturers and sells retail through its own brands (Planters, Wesson, and others in the mayonnaise and salad oil categories). The refining margin—the difference between [crude oil](/crude-oil/) and refined product—is narrower and more stable than the agribusiness spread, offering a partial hedge.
 
 **Sugar, Bioenergy & Milling** runs ethanol plants (mostly in the United States), sugar production and refining (with a major footprint in Brazil, the world's largest sugar exporter), and grain milling. Brazil's sugar and ethanol operations are capital-intensive but return significant volumes, particularly to international buyers and domestic fuel blending mandates.
 
@@ -45,7 +45,7 @@ The scale is vast: Bunge typically handles over 100 million metric tons of crop 
 
 In global grain and oilseed trading, Bunge competes directly with [Archer Daniels Midland (ADM)](/wiki/adm-stock/) and Cargill (private). Cargill remains the largest, but Bunge and ADM are the public standards. Differentiation is subtle: relationships with suppliers (farmers, cooperatives, large landowners), cost structure of owned infrastructure, and presence in key ports and crushing centers.
 
-Bunge's moat is partly structural—once a farmer commits grain to Bunge's elevator, logistics favor repeated use. The same applies to refineries and ports; switching costs are high. But the moat is not durable: margins are thin, commodities are fungible, and any player with capital can build competing capacity. Bunge's real advantage is scale, geographic diversification, and operational efficiency at moving bulk commodities at narrow margins. It is defensible but not unassailable.
+Bunge's moat is partly structural—once a farmer commits grain to Bunge's elevator, logistics favor repeated use. The same applies to refineries and ports; switching costs are high. But the moat is not durable: margins are thin, commodities are fungible, and any player with capital can build competing capacity. Bunge's real advantage is scale, geographic [diversification](/diversification/), and operational efficiency at moving bulk commodities at narrow margins. It is defensible but not unassailable.
 
 The company benefits from secular tailwinds in animal feed demand (as emerging markets consume more protein), biofuel mandates (driving ethanol from corn), and global protein demand. But these tailwinds are cyclical too—droughts, crop surpluses, trade disruptions, and shifts in biofuel mandates can reverse them quickly.
 
@@ -59,7 +59,7 @@ Bunge does hedge, and treasury units manage some commodity exposure, but earning
 
 ## Risks and Headwinds
 
-**Weather and crop failure** remain the highest operational risks. A multiyear drought or pest outbreak in key growing regions (Argentina, the U.S. Midwest, Brazil) directly impairs margins.
+**Weather and crop failure** remain the highest [operational risks](/operational-risk/). A multiyear drought or pest outbreak in key growing regions (Argentina, the U.S. Midwest, Brazil) directly impairs margins.
 
 **Commodity price crashes** erode both agribusiness margins and crush spreads. A collapse in grain prices can also squeeze customer demand for refined oils and derivatives.
 
@@ -69,15 +69,15 @@ Bunge does hedge, and treasury units manage some commodity exposure, but earning
 
 **Oversupply of refining capacity** has depressed crushing margins globally and may persist unless demand (meat production, biofuel mandates) keeps pace with supply.
 
-**Currency risk**: Bunge earns substantially in Brazilian real and Argentine peso but has U.S. dollar debt and shareholder expectations in dollars. Depreciation of these currencies can erode translated results.
+**[Currency risk](/currency-risk/)**: Bunge earns substantially in Brazilian real and Argentine peso but has U.S. dollar debt and shareholder expectations in dollars. [Depreciation](/depreciation/) of these currencies can erode translated results.
 
 ## How to Research It
 
 The 10-K, filed annually on the SEC's EDGAR system, is essential reading. Focus on:
 
 - **Segment profit and crush spread trends** (agribusiness, refined & specialty oils) — these reveal the underlying profitability of each business.
-- **Debt and leverage ratios** — Bunge is capital-intensive and leveraged; debt trends matter for safety and financial flexibility.
-- **Farmer advance accounts and working capital** — agribusiness requires financing of farmer payments and inventory; changes here signal seasonal dynamics and credit risk.
+- **Debt and [leverage ratios](/leverage-ratio-forex/)** — Bunge is capital-intensive and leveraged; debt trends matter for safety and financial flexibility.
+- **Farmer advance accounts and working capital** — agribusiness requires financing of farmer payments and inventory; changes here signal seasonal dynamics and [credit risk](/credit-risk/).
 - **Shipping and logistics costs** — freight rates and logistics complexity are major cost drivers in a physically dispersed business.
 - **Commodity price assumptions** in guidance and risk disclosures.
 

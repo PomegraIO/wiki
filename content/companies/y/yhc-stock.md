@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-LQR House Inc. (ticker YHC, traded on NASDAQ) is a specialized digital platform and marketing services company focused on the alcoholic beverage market. Founded in 2021 and headquartered in Miami Beach, Florida, the company has positioned itself at the intersection of ecommerce and brand marketing, offering both direct consumer sales channels and performance-based promotional services to distilleries, wineries, and spirit brands seeking growth in an increasingly digital market.
+LQR House Inc. (ticker YHC, traded on [NASDAQ](/nasdaq/)) is a specialized digital platform and marketing services company focused on the alcoholic beverage market. Founded in 2021 and headquartered in Miami Beach, Florida, the company has positioned itself at the intersection of ecommerce and brand marketing, offering both direct consumer sales channels and performance-based promotional services to distilleries, wineries, and spirit brands seeking growth in an increasingly digital market.
 
 The core of LQR House's operation rests on two complementary business pillars: an owned ecommerce platform (CWSpirits.com, acquired in 2023) where consumers purchase wine and spirits directly, and a marketing services division that helps beverage brands reach and engage target audiences. This hybrid model creates a feedback loop—the company's marketing drives traffic to its platform, while platform data informs and validates the effectiveness of marketing campaigns.
 
@@ -32,13 +32,13 @@ The company measures marketing success using the same ecommerce data available o
 
 ## Strategic Positioning and Market Context
 
-LQR House operates in a segment of the beverage alcohol market that has undergone significant structural change in the past decade. The shift toward ecommerce adoption, direct-to-consumer sales, and performance-based digital marketing has created openings for intermediaries that can aggregate both distribution and marketing services. The company's 2023 acquisition of CWSpirits.com (originally founded in the late 1990s) gave it a rare asset—an established platform with customer depth and product inventory—that would be difficult to replicate organically.
+LQR House operates in a segment of the beverage alcohol market that has undergone significant structural change in the past decade. The shift toward ecommerce adoption, direct-to-consumer sales, and performance-based digital marketing has created openings for intermediaries that can aggregate both distribution and marketing services. The company's 2023 [acquisition](/acquisition/) of CWSpirits.com (originally founded in the late 1990s) gave it a rare asset—an established platform with customer depth and product inventory—that would be difficult to replicate organically.
 
 The company's influencer network and data analytics capabilities are designed to address a key challenge for spirits and wine brands: reaching consumers in a fragmented, digital-first landscape while navigating strict alcohol advertising regulations that vary by state and product category. By operating behind existing platforms and using lifestyle influencers rather than traditional paid advertising, LQR House positions itself as a compliance-conscious alternative to conventional spirits marketing.
 
 ## Challenges and Operational Realities
 
-LQR House remains a growth-stage company navigating significant headwinds. SEC filings indicate ongoing losses and what the company describes as "substantial doubt" regarding its ability to continue as a going concern without additional capital or a material improvement in operations. Product sales through the CWSpirits platform have declined materially (the company reports cost of revenue dropping from $2.6 million to $1.3 million year-over-year, reflecting lower transaction volume), suggesting the platform has not yet achieved the scale or customer stickiness that profitability requires.
+LQR House remains a growth-stage company navigating significant headwinds. SEC filings indicate ongoing losses and what the company describes as "substantial doubt" regarding its ability to continue as a [going concern](/going-concern/) without additional capital or a material improvement in operations. Product sales through the CWSpirits platform have declined materially (the company reports cost of revenue dropping from $2.6 million to $1.3 million year-over-year, reflecting lower transaction volume), suggesting the platform has not yet achieved the scale or customer stickiness that profitability requires.
 
 The company also operates joint ventures in multiple jurisdictions—Greater China, the Middle East, and South Dakota—but these remain nascent and represent execution risk rather than revenue certainty. International spirits markets carry distinct regulatory and competitive dynamics that differ sharply from the U.S. market where the company has developed its core capability.
 

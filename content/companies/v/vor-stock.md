@@ -26,7 +26,7 @@ Clinical results in 2024 offered genuine signals. In patients treated with trem-
 
 ## The Restructuring and Pivot
 
-By spring 2025, Vor had burned through much of its balance sheet without securing clear path to a pivotal readout. On May 8, 2025, the company announced a dramatic restructuring: suspension of all clinical and manufacturing operations, layoff of 95% of its workforce (154 employees), and a shift to exploring "strategic alternatives." The decision reflected not a failure of science but a collision between scientific complexity, slow enrollment, and capital constraints that plagued late-stage biotech development.
+By spring 2025, Vor had burned through much of its [balance sheet](/balance-sheet/) without securing clear path to a pivotal readout. On May 8, 2025, the company announced a dramatic restructuring: suspension of all clinical and manufacturing operations, layoff of 95% of its workforce (154 employees), and a shift to exploring "strategic alternatives." The decision reflected not a failure of science but a collision between scientific complexity, slow enrollment, and capital constraints that plagued late-stage biotech development.
 
 The oncology assets—trem-cel, VCAR33, and related intellectual property—were monetized or divested, signaling an explicit abandonment of the original thesis. Vor retained eight employees to evaluate its options.
 
@@ -38,7 +38,7 @@ The shift was pragmatic rather than ideological: telitacicept represents a matur
 
 ## Cash Runway and Funding Reality
 
-The company's balance sheet has been a persistent constraint. At the end of 2024, Vor held $91.9 million in cash and marketable securities, expected to fund operations into early 2026. Following the May 2025 restructure and the accompanying workforce reduction, that runway extended significantly. A June 2025 private placement of warrants raised $174.4 million net, and the company reported approximately $200.6 million in liquid assets as of June 30, 2025. With operating costs slashed by 95% of headcount, this amount provides a multiyear runway for a lean organization focused on development and partnering rather than manufacturing.
+The company's balance sheet has been a persistent constraint. At the end of 2024, Vor held $91.9 million in cash and marketable securities, expected to fund operations into early 2026. Following the May 2025 restructure and the accompanying workforce reduction, that runway extended significantly. A June 2025 [private placement](/private-placement/) of warrants raised $174.4 million net, and the company reported approximately $200.6 million in liquid assets as of June 30, 2025. With operating costs slashed by 95% of headcount, this amount provides a multiyear runway for a lean organization focused on development and partnering rather than manufacturing.
 
 ## Program Status and Development
 
@@ -58,5 +58,5 @@ The telitacicept license also underscores a durable reality in biotech: the most
 
 ## How to Research Vor Biopharma
 
-Vor's [10-K filing](/wiki/10-k/) with the SEC provides the most authoritative account of its pipeline, cash position, and restructuring. The June 2025 press releases detailing the RemeGen deal and Q2 2025 financial results are essential for understanding the strategic pivot. For context on the earlier oncology work, published clinical data on trem-cel appeared in peer-reviewed journals; the company also presented at major oncology conferences, though those early safety and efficacy results ultimately did not justify the capital intensity of large pivotal trials. Forward-looking, investors should watch enrollment in the telitacicept Phase 3 programs, regulatory updates in myasthenia gravis (a clear unmet need with strong FDA receptivity), and any additional licensing or acquisition announcements as Vor scales its development organization.
+Vor's [10-K filing](/wiki/10-k/) with the SEC provides the most authoritative account of its pipeline, cash position, and restructuring. The June 2025 press releases detailing the RemeGen deal and Q2 2025 financial results are essential for understanding the strategic pivot. For context on the earlier oncology work, published clinical data on trem-cel appeared in peer-reviewed journals; the company also presented at major oncology conferences, though those early safety and efficacy results ultimately did not justify the capital intensity of large pivotal trials. Forward-looking, investors should watch enrollment in the telitacicept Phase 3 programs, regulatory updates in myasthenia gravis (a clear unmet need with strong FDA receptivity), and any additional licensing or [acquisition](/acquisition/) announcements as Vor scales its development organization.
 

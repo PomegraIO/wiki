@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Zurn Elkay Water Solutions Corp is an infrastructure company focused on water management, safety, and control systems for buildings and industrial applications. Formed through the 2021 merger of Zurn Industries and Elkay Manufacturing, the company sits at the intersection of water access, health code compliance, and operational efficiency in the built environment. Its products span drinking-water stations and coolers, commercial plumbing systems, water quality and safety devices, and industrial flow control—all serving the practical reality that buildings need reliable, code-compliant water infrastructure and that water is both a resource and a potential risk.
+Zurn Elkay Water Solutions Corp is an infrastructure company focused on water management, safety, and control systems for buildings and industrial applications. Formed through the 2021 [merger](/merger/) of Zurn Industries and Elkay Manufacturing, the company sits at the intersection of water access, health code compliance, and operational efficiency in the built environment. Its products span drinking-water stations and coolers, commercial plumbing systems, water quality and safety devices, and industrial flow control—all serving the practical reality that buildings need reliable, code-compliant water infrastructure and that water is both a resource and a potential risk.
 
 ## A merger that makes intuitive sense
 
@@ -37,7 +37,7 @@ Revenue comes from both new construction—when architects and builders specify 
 
 Zurn Elkay generates income from product sales to distributors, contractors, and facilities managers. Margins tend to be decent on branded products and installed fixtures (people will pay for a known, code-compliant water cooler or safety station) but thinner on commodity components and replacement parts.
 
-The business is somewhat cyclical: new construction booms and busts with the broader economy, and commercial real estate development varies by region and sector. Renovation and retrofit work is more stable—buildings age and codes tighten—but it fluctuates with property owner spending confidence. There is a recurring element: water coolers, filters, and maintenance contracts generate repeat revenue.
+The business is somewhat cyclical: new construction booms and busts with the broader economy, and [commercial real estate](/commercial-real-estate/) development varies by region and sector. Renovation and retrofit work is more stable—buildings age and codes tighten—but it fluctuates with property owner spending confidence. There is a recurring element: water coolers, filters, and maintenance contracts generate repeat revenue.
 
 The company sells globally, with major exposure to North America (largest market) and secondary presence in Europe and Asia-Pacific. In the U.S., it touches hospitals, schools, data centers, offices, and manufacturing plants—any facility that needs to move, cool, or safeguard water.
 
@@ -55,7 +55,7 @@ The company faces indirect competition from private-label products, direct-to-co
 
 As a public company, Zurn Elkay files a [10-K](/wiki/10-k/) with the SEC and is subject to standard corporate governance. Its [CIK](/wiki/cik/) is 1439288. The company typically reports annual revenues in the low-to-mid billions (exact figures vary by year and reporting period) and operates multiple manufacturing facilities, primarily in North America, as well as distribution and service operations.
 
-Operating margins are moderate—the business is capital-intensive (manufacturing plants and inventory) and requires ongoing R&D to stay compliant with changing water and building codes. The company carries debt from the merger financing, which affects its balance sheet but is typical for integrated industrial companies.
+[Operating margins](/operating-margin/) are moderate—the business is capital-intensive (manufacturing plants and inventory) and requires ongoing R&D to stay compliant with changing water and building codes. The company carries debt from the merger financing, which affects its [balance sheet](/balance-sheet/) but is typical for integrated industrial companies.
 
 | Segment | Primary Products | Market Type | Customer Base |
 |---------|-----------------|-------------|---------------|
@@ -70,10 +70,10 @@ Zurn Elkay's growth depends on several factors. New commercial construction acti
 
 Water safety regulations tend to tighten over time (Legionella concerns, lead-free mandates, backflow requirements), which supports sales of compliance products and retrofit work but can also impose costly manufacturing changes or liabilities if regulatory standards shift.
 
-The company must manage cost inflation in materials and labor while resisting price pressure from competitors. Integration of Zurn and Elkay operations—consolidating supply chains, eliminating duplication, cross-selling effectively—remains a driver of profitability. Any stumble in integration or competitive loss of a key customer (e.g., a major water-cooler contract) can impact results.
+The company must manage cost [inflation](/inflation/) in materials and labor while resisting price pressure from competitors. Integration of Zurn and Elkay operations—consolidating supply chains, eliminating duplication, cross-selling effectively—remains a driver of profitability. Any stumble in integration or competitive loss of a key customer (e.g., a major water-cooler contract) can impact results.
 
 ## How to follow the business
 
 The [10-K](/wiki/10-k/) filing shows segment revenue, gross margins by product line, capital expenditure, and debt service. Quarterly earnings calls reveal customer wins, pricing trends, and management commentary on construction activity. Track commercial real estate development indicators (office vacancy, new construction starts) to anticipate top-line trends. Watch regulatory announcements—drinking water standards, lead rules, efficiency codes—for drivers of retrofit demand. Monitor competitor announcements and industry groups like the Plumbing Manufacturers Institute to sense market-wide pressure.
 
-Investor interest typically hinges on integration progress (margins expanding as redundancy is removed), market share gains from the merger, and whether the company can grow beyond its traditional bases into adjacent areas like smart water monitoring or sustainability consulting. The stock trades on NASDAQ, and fundamental analysis should focus on return on invested capital, cash conversion (does the business turn sales into cash?), and whether the business genuinely benefits from or is pressured by the long-term shift toward water scarcity and building efficiency.
+Investor interest typically hinges on integration progress (margins expanding as redundancy is removed), market share gains from the merger, and whether the company can grow beyond its traditional bases into adjacent areas like smart water monitoring or sustainability consulting. The stock trades on [NASDAQ](/nasdaq/), and fundamental analysis should focus on [return on invested capital](/return-on-invested-capital/), cash conversion (does the business turn sales into cash?), and whether the business genuinely benefits from or is pressured by the long-term shift toward water scarcity and building efficiency.

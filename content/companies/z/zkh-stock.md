@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ZKH Group Limited is a business-to-business platform operator that digitizes the maintenance, repair, and operations (MRO) supply chain in China. The company operates online marketplaces connecting industrial buyers—primarily small and medium enterprises (SMEs) and state-owned enterprises (SOEs)—with suppliers of spare parts, chemicals, manufacturing components, consumables, and general industrial equipment. Headquartered in Shanghai, ZKH trades on the New York Stock Exchange under the ticker ZKH.
+ZKH Group Limited is a business-to-business platform operator that digitizes the maintenance, repair, and operations (MRO) supply chain in China. The company operates online marketplaces connecting industrial buyers—primarily small and medium enterprises (SMEs) and state-owned enterprises (SOEs)—with suppliers of spare parts, chemicals, manufacturing components, consumables, and general industrial equipment. Headquartered in Shanghai, ZKH trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker ZKH.
 
 ## The Core Business
 
@@ -43,7 +43,7 @@ ZKH has invested in proprietary technology to distinguish itself in a crowded ma
 
 The platform's matching engine also handles fulfillment logistics optimization, payment processing, and real-time product recommendations drawn from supplier catalogs and historical purchase patterns. By positioning itself as a software-enabled supply-chain operator rather than a pure-play marketplace, ZKH aims to create stickiness through workflow integration and efficiency gains that make switching costly for customers already reliant on the platform for a growing share of their MRO spend.
 
-However, technology leadership in this space is incremental rather than defensible. Competitors can license or build similar AI capabilities, and the underlying advantage accrues to whoever best executes customer acquisition, product breadth, logistics speed, and pricing—factors where network effects play some role but network lock-in is weak compared to social platforms or payment systems.
+However, technology leadership in this space is incremental rather than defensible. Competitors can license or build similar AI capabilities, and the underlying advantage accrues to whoever best executes customer [acquisition](/acquisition/), product breadth, logistics speed, and pricing—factors where network effects play some role but network lock-in is weak compared to social platforms or payment systems.
 
 ## Pressures and Uncertainties
 

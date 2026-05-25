@@ -38,7 +38,7 @@ OCC's defensibility rests on switching costs, regulatory certifications, and eng
 
 ## Key indicators for investors and researchers
 
-The firm's SEC filings ([10-K](/wiki/10-k/)) will detail revenue by segment, gross margin trends, and the backlog of orders. Look for indicators of customer concentration (dependence on a few large contracts), government revenue proportion, and R&D spending levels (a sign of product innovation and competitiveness). Inventory turnover and days-sales-outstanding reveal the working-capital burden of project work. The balance sheet should show whether debt is manageable and cash reserves sufficient to weather cyclical downturns.
+The firm's SEC filings ([10-K](/wiki/10-k/)) will detail revenue by segment, gross margin trends, and the backlog of orders. Look for indicators of customer concentration (dependence on a few large contracts), government revenue proportion, and R&D spending levels (a sign of product innovation and competitiveness). [Inventory turnover](/inventory-turnover/) and days-sales-outstanding reveal the working-capital burden of project work. The [balance sheet](/balance-sheet/) should show whether debt is manageable and cash reserves sufficient to weather cyclical downturns.
 
 Government contracts are often public knowledge; news of a major defense contract can signal growth. Conversely, budget cuts to military or telecom infrastructure are real risks. Competitive wins and losses in bid processes, though hard to track directly, can appear in management commentary. Monitor gross margin—it's the most sensitive indicator of pricing power and input cost pressures in this business.
 

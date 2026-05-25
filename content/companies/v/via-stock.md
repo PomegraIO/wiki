@@ -32,11 +32,11 @@ Via occupies an unusual position in the transportation market. Transit agencies 
 
 Yet the market is not automatic. Transit agencies move slowly, procurement is complex and political, and there's genuine uncertainty about whether software alone can solve the underlying problem of underfunded public mobility. Some analysts argue that Via is not primarily a software company at all, but a transportation operator that happens to be re-branded in software language—more in the mold of a contractor than Salesforce or Adobe. The company's path to profitability remains contested; it is losing money, and aggressive growth has come at the cost of margin pressure.
 
-The competitive landscape includes RideCo, Optibus Technologies, and Swiftly, among others, each with their own approach to transit optimization. Via has sought to build scale through acquisition, adding Citymapper (a transit-planning app with ~50 million users) in 2023 and Downtowner in late 2025 to broaden its product portfolio and geographic reach.
+The competitive landscape includes RideCo, Optibus Technologies, and Swiftly, among others, each with their own approach to transit optimization. Via has sought to build scale through [acquisition](/acquisition/), adding Citymapper (a transit-planning app with ~50 million users) in 2023 and Downtowner in late 2025 to broaden its product portfolio and geographic reach.
 
 ## The IPO and What Comes Next
 
-Via [went public on the New York Stock Exchange](/wiki/stock-exchange/) in September 2025, raising roughly $493 million and entering the market at a valuation near $3.5 billion. The debut reflected cautious investor appetite for high-growth but unprofitable companies; the stock traded modestly below its IPO price in subsequent weeks. Management has guided toward adjusted EBITDA profitability by the end of 2026, a milestone many in the market will be watching closely.
+Via [went public on the New York Stock Exchange](/wiki/stock-exchange/) in September 2025, raising roughly $493 million and entering the market at a valuation near $3.5 billion. The debut reflected cautious investor appetite for high-growth but unprofitable companies; the stock traded modestly below its IPO price in subsequent weeks. Management has guided toward adjusted [EBITDA](/ebitda/) profitability by the end of 2026, a milestone many in the market will be watching closely.
 
 The company's [10-K filing](/wiki/10-k/) provides the full detail on contracts, revenue by segment, and the company's roadmap. Readers researching Via should focus on customer retention and net expansion rates (how much revenue comes from existing versus new customers), unit economics by service line, and whether the path to profitability holds.
 

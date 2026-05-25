@@ -27,13 +27,13 @@ handwritten: true
 
 ## A cyclical business grounded in housing and infrastructure
 
-Owens Corning rides the construction cycle. The core insulation and roofing businesses depend on new home construction, renovations, and repair activity. When housing starts climb, demand for insulation and shingles rises with them. When the cycle turns, these segments contract. The composites division adds some diversification—it serves wind energy, industrial pipes, transportation, and aerospace—but the company remains fundamentally tied to construction activity and economic confidence.
+Owens Corning rides the construction cycle. The core insulation and roofing businesses depend on new home construction, renovations, and repair activity. When housing starts climb, demand for insulation and shingles rises with them. When the cycle turns, these segments contract. The composites division adds some [diversification](/diversification/)—it serves wind energy, industrial pipes, transportation, and aerospace—but the company remains fundamentally tied to construction activity and economic confidence.
 
 The company maintains three operating segments: Roofing, Insulation, and Composites. Roofing generates roughly one-third of revenue and centers on asphalt shingles, which are commoditized by appearance and performance ratings. Insulation, another large segment, is built on fiberglass batts and blown-in products widely used in residential framing and commercial buildings. Composites, the smallest segment by revenue, produces fiberglass-reinforced materials and is the most exposed to industrial capital spending and energy transition trends (especially wind).
 
 ## History and legacy
 
-Owens Corning traces its origins to 1938, when it was spun off or separated from Owens-Illinois Glass Company. The company has long been identified with the "Pink Panther" mascot and pink fiberglass insulation, making it one of the few manufacturers whose product has achieved near-iconic status in the consumer mind. The fibrous glass insulation business became the foundation of the enterprise, and the Roofing and Composites segments were added over decades of acquisition and organic growth.
+Owens Corning traces its origins to 1938, when it was spun off or separated from Owens-Illinois Glass Company. The company has long been identified with the "Pink Panther" mascot and pink fiberglass insulation, making it one of the few manufacturers whose product has achieved near-iconic status in the consumer mind. The fibrous glass insulation business became the foundation of the enterprise, and the Roofing and Composites segments were added over decades of [acquisition](/acquisition/) and organic growth.
 
 The company went through a major restructuring in the late 1990s and early 2000s, emerging from bankruptcy in 2006 after years tied up in asbestos litigation (it had assumed some legacy liabilities). That exit was significant because it cleared much of the overhang that had constrained the stock. Since then, Owens Corning has been a relatively straightforward play on the construction cycle and energy infrastructure.
 
@@ -57,7 +57,7 @@ The composites business has slightly higher barriers to entry due to technical k
 
 ## Pressures and vulnerabilities
 
-The most obvious headwind is cyclicality. A recession or steep decline in housing starts cuts insulation and roofing demand fast. The company's leverage and interest-coverage metrics can come under pressure if the cycle turns sharply; this has happened before.
+The most obvious headwind is cyclicality. A [recession](/recession/) or steep decline in housing starts cuts insulation and roofing demand fast. The company's leverage and interest-coverage metrics can come under pressure if the cycle turns sharply; this has happened before.
 
 Raw-material costs—fiberglass, resin, asphalt—are volatile and often beyond the company's control. While Owens Corning can pass through costs partially via price increases, competition and customer pressure limit that power. A sharp rise in energy costs or resin prices can compress margins if the company cannot immediately raise prices.
 
@@ -69,7 +69,7 @@ Competition from lower-cost international producers (especially in composites) a
 
 ## Reading the company and tracking performance
 
-The [10-K](/wiki/10-k/) is the natural starting point. Owens Corning reports segment revenue, operating margins, and capital expenditure by division, making it straightforward to track how each business is performing.
+The [10-K](/wiki/10-k/) is the natural starting point. Owens Corning reports segment revenue, [operating margins](/operating-margin/), and capital expenditure by division, making it straightforward to track how each business is performing.
 
 Key metrics to watch: housing starts and building permits (published monthly by the U.S. Census Bureau) signal future demand for insulation and roofing. Residential remodeling activity is also important; even without new construction, homeowners replace roofs and add insulation. Orders for wind turbines indicate composites tailwinds. Resin and fiberglass prices (published by industry sources) hint at margin pressure or relief ahead.
 

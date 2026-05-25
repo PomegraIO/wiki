@@ -33,11 +33,11 @@ Clear's revenue comes primarily from two sources: CLEAR+ consumer memberships an
 | CLEAR+ Membership | Annual subscription for biometric airport and venue expedited security access | Travel volume recovery, membership expansion, price increases | Highly recurring | Consumer discretionary sensitivity |
 | CLEAR1 Platform | Per-transaction and per-user fees for enterprise identity verification in healthcare, government, and commercial sectors | Healthcare adoption, fraud reduction mandates, digital onboarding workflows | Multi-year contracts, recurring per-use fees | Sales cycle length, competitive displacement |
 
-In fiscal 2025, total revenue reached $900.78 million, a 16.9% increase year over year. Q1 2026 showed 19.7% revenue growth to $253 million, with bookings (a forward-looking metric) up 40.8%. The company guides to at least $440 million in free cash flow for 2026, signaling confidence in both scale and unit economics.
+In fiscal 2025, total revenue reached $900.78 million, a 16.9% increase year over year. Q1 2026 showed 19.7% revenue growth to $253 million, with bookings (a forward-looking metric) up 40.8%. The company guides to at least $440 million in [free cash flow](/free-cash-flow/) for 2026, signaling confidence in both scale and unit economics.
 
 ## Distinctive Position in a Crowded Market
 
-Clear's value proposition rests on two uncommon attributes. First, it owns a large installed base of biometric identity data—38 million enrolled members as of early 2026, across both CLEAR+ and CLEAR1. That scale gives the company powerful network effects: CLEAR1 is more useful when more venues and organizations recognize the credential, and network effects reduce the friction for new customer acquisition.
+Clear's value proposition rests on two uncommon attributes. First, it owns a large installed base of biometric identity data—38 million enrolled members as of early 2026, across both CLEAR+ and CLEAR1. That scale gives the company powerful network effects: CLEAR1 is more useful when more venues and organizations recognize the credential, and network effects reduce the friction for new customer [acquisition](/acquisition/).
 
 Second, Clear is one of the few private companies authorized by the Transportation Security Administration to enroll citizens in TSA PreCheck, a federal trusted traveler program. That designation, earned in 2023–2024, is valuable because it makes Clear an official government partner rather than just a private vendor. The credential carries weight: Clear can enroll passengers online, reduce the friction in background-check workflows, and position itself closer to government identity infrastructure.
 
@@ -67,5 +67,5 @@ The [10-K](/wiki/10-k/) filing discloses revenue by segment (membership vs. ente
 
 [Public Company](/wiki/public-company/) — Overview of listed-company governance and disclosure.
 
-[Stock Exchange](/wiki/stock-exchange/) — Clear is listed on the New York Stock Exchange under ticker YOU.
+[Stock Exchange](/wiki/stock-exchange/) — Clear is listed on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker YOU.
 

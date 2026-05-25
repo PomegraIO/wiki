@@ -58,8 +58,8 @@ Start with the [10-K](/wiki/10-k/), which lays out the business model, customer 
 - Revenue breakdown by product line (toner vs. ink) and geography (which markets contribute most).
 - Gross margin trend. Is it stable or eroding?
 - Customer concentration. Do a few large e-commerce partners (Amazon, eBay) represent most of revenue? If so, the company is vulnerable to changes in those relationships.
-- Operating expense ratio. Is the company spending heavily on marketing and fulfillment, or has it reached efficiency scale?
-- Inventory turnover. High inventory of cartridges is capital inefficient; the company wants to sell them quickly.
+- Operating [expense ratio](/expense-ratio/). Is the company spending heavily on marketing and fulfillment, or has it reached efficiency scale?
+- [Inventory turnover](/inventory-turnover/). High inventory of cartridges is capital inefficient; the company wants to sell them quickly.
 
 The SEC filings (CIK 1868395) will show these metrics clearly. The company's business is not complex; the question is whether the current price of the stock reflects the limited competitive moat and ongoing margin pressure inherent in the compatible cartridge business.
 

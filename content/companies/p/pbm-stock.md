@@ -32,7 +32,7 @@ Because Psyence is pre-revenue and early-stage, its financial situation is criti
 
 Psilocybin development is crowded at the early stage. Other private and public companies pursuing similar indications include Compass Pathways, Tryp Therapeutics, and various smaller startups and academic spin-outs. The intensity of competition will increase if early clinical data continues to support the approach and if regulatory pathways clarify further. However, the space is not yet saturated with FDA-approved psilocybin products, so first-mover or fast-follower advantages remain substantial.
 
-Most psychedelic biotech companies are pursuing partnership deals with larger pharmaceutical or specialty pharmaceutical firms. A major pharma company has greater resources to fund late-stage trials, navigate regulatory complexity, and commercialize an approved drug. For a company like Psyence, a partnership—whether a licensing agreement, a joint venture, or an acquisition by a larger player—is often the exit path. Few clinical-stage biotechs have the balance sheet to fund Phase 3 trials, an FDA approval process, and commercial launch independently.
+Most psychedelic biotech companies are pursuing partnership deals with larger pharmaceutical or specialty pharmaceutical firms. A major pharma company has greater resources to fund late-stage trials, navigate regulatory complexity, and commercialize an approved drug. For a company like Psyence, a partnership—whether a licensing agreement, a joint venture, or an [acquisition](/acquisition/) by a larger player—is often the exit path. Few clinical-stage biotechs have the [balance sheet](/balance-sheet/) to fund Phase 3 trials, an FDA approval process, and commercial launch independently.
 
 Regulatory uncertainty is significant. Psilocybin remains illegal in most jurisdictions, and the path to prescription-based legal therapy is not yet fully defined. If a leading program obtains FDA approval (even as a restricted, Schedule II prescription medication), it would validate the entire category and likely accelerate other programs. If early Phase 2 data disappoints, or if a major trial fails, it could dampen investor enthusiasm across the sector.
 
@@ -42,7 +42,7 @@ As a clinical-stage biotech with no revenue, Psyence's financial profile is defi
 
 - Cash and equivalents sufficient for 12–24 months of operations (common for pre-clinical companies)
 - A burn rate in the range of several million dollars per year (driven by small clinical trials, regulatory affairs, and overhead)
-- Significant intellectual property (patents on psilocybin formulations, delivery mechanisms, or combination therapies)
+- Significant intellectual property (patents on psilocybin formulations, [delivery mechanisms](/delivery-mechanisms/), or combination therapies)
 - A shareholder base that may include venture capital, strategic biotech investors, and public market investors if the company is publicly traded
 
 With no path to profitability visible before a licensing deal or approval, Psyence will likely need to raise more capital as it advances programs. Dilution to existing shareholders is a given. Investors are betting on the upside of a successful program, not on near-term earnings.
@@ -68,7 +68,7 @@ Look for:
 - The status of lead programs: what indication, what phase of development, expected trial completion dates.
 - Recent news on trial results, partnership announcements, or regulatory milestones.
 - Cash position and burn rate: is the company well-capitalized to execute its plan, or does near-term fundraising risk exist?
-- Patent expiration dates and competitive IP landscape for psilocybin indications.
+- Patent [expiration dates](/expiration-contracts/) and competitive IP landscape for psilocybin indications.
 - Management team credentials: do they have experience in psychedelic development or psychiatry biotech?
 
 Compare Psyence's progress against peer companies pursuing similar indications and regulatory pathways. If you are evaluating the company as an investment, focus on the credibility of early-stage clinical data, the quality of partnerships, and the company's capital efficiency. Clinical-stage biotech carries execution risk; a well-managed company with a clear pathway to partnership or approval is worth more than one with a longer runway but unclear prospects.

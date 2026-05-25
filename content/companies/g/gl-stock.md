@@ -33,7 +33,7 @@ The company reaches customers through a network of independent agents, direct ma
 
 **History and evolution**
 
-Globe Life's origins trace to 1900 in Nashville, Tennessee, when it began as Guaranty Income Life Insurance Company, selling life insurance to ordinary working people through agents. Over the decades it grew through acquisitions and brand expansion. Liberty National, one of its principal brands, was founded in 1900 as well and added to Globe's portfolio. American Income Life, acquired in 1962, became a major driver of the company's agent-based distribution. The company went public in 1957 and eventually consolidated its various operating entities under the Globe Life brand umbrella, though subsidiary brands remain distinct.
+Globe Life's origins trace to 1900 in Nashville, Tennessee, when it began as Guaranty Income Life Insurance Company, selling life insurance to ordinary working people through agents. Over the decades it grew through [acquisitions](/acquisition/) and brand expansion. Liberty National, one of its principal brands, was founded in 1900 as well and added to Globe's portfolio. American Income Life, acquired in 1962, became a major driver of the company's agent-based distribution. The company went public in 1957 and eventually consolidated its various operating entities under the Globe Life brand umbrella, though subsidiary brands remain distinct.
 
 The shift toward digital distribution and simplified underwriting practices reflects decades of adaptation to changing consumer preferences and regulatory environments. Unlike competitors who have pursued consolidation into mega-aggregators, Globe Life has remained focused on direct-response and independent agent channels, which permits more granular underwriting and customer targeting.
 
@@ -45,7 +45,7 @@ The company has not pursued the large-scale acquisitions or consolidation that h
 
 **Revenue drivers and profitability**
 
-Revenue is generated primarily through insurance premiums, driven by growth in policies in force, retention rates, and premium rate adjustments. Health insurance premiums are often the most volatile component, as underwriting standards on no-medical-exam products carry inherent claims uncertainty. Life insurance premiums, once written, tend to be stable and recurring. The company also derives income from investment portfolios held against future claim obligations, though interest rate swings and credit risk affect returns.
+Revenue is generated primarily through insurance premiums, driven by growth in policies in force, retention rates, and premium rate adjustments. Health insurance premiums are often the most volatile component, as underwriting standards on no-medical-exam products carry inherent claims uncertainty. Life insurance premiums, once written, tend to be stable and recurring. The company also derives income from investment portfolios held against future claim obligations, though [interest rate](/interest-rate/) swings and [credit risk](/credit-risk/) affect returns.
 
 Profitability depends on holding claims and expenses below premium intake. The company's cost structure is tied to agent commissions and employee expenses, which scale with distribution volume. No-exam underwriting keeps claims screening costs low but introduces higher loss ratios if mortality experience exceeds expectations. Regulatory and investment-driven pressures on reserving, capital requirements, and liability valuation regularly impact bottom-line results.
 
@@ -57,7 +57,7 @@ Regulatory changes, especially around data privacy, underwriting disclosure, and
 
 **Watching the company**
 
-Investors and observers should monitor [10-K](/wiki/10-k/) filings and quarterly earnings for several metrics: policies in force by segment, retention rates, loss ratios on new business, investment yields, and the adequacy of loss reserves relative to claims experience. Quarterly earnings calls often discuss distributor momentum, agent counts, and digital channel performance. The company's stock price has historically been somewhat sensitive to interest rate expectations, as reinvestment yields on the bond portfolio affect long-term profitability on long-tailed products.
+Investors and observers should monitor [10-K](/wiki/10-k/) filings and quarterly earnings for several metrics: policies in force by segment, retention rates, loss ratios on new business, investment yields, and the adequacy of loss reserves relative to claims experience. Quarterly earnings calls often discuss distributor momentum, agent counts, and digital channel performance. The company's stock price has historically been somewhat sensitive to interest rate expectations, as reinvestment yields on the [bond](/bond/) portfolio affect long-term profitability on long-tailed products.
 
 Key indicators to follow include the combined ratio (claims plus operating expenses divided by premiums earned), which reveals underwriting discipline; persistency trends, which signal customer satisfaction and retention; and capital ratios, which determine the company's ability to write new business and return capital. Tracking the company's independent agent recruiting and retention is valuable context, as that distribution channel remains essential to growth.
 

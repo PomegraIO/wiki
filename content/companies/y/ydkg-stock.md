@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Yueda Digital Holding is a cryptocurrency-focused treasury and digital-asset management company based in Beijing. The company was founded in 2005 and was known as AirMedia Group before taking the name AirNet Technology Inc. in 2019. In September 2025, it rebranded as Yueda Digital Holding to reflect a wholesale shift from its original business into Web3 infrastructure and digital-asset management. The company trades on the Nasdaq Capital Market under the ticker YDKG.
+Yueda Digital Holding is a cryptocurrency-focused treasury and digital-asset management company based in Beijing. The company was founded in 2005 and was known as AirMedia Group before taking the name AirNet Technology Inc. in 2019. In September 2025, it rebranded as Yueda Digital Holding to reflect a wholesale shift from its original business into Web3 infrastructure and digital-asset management. The company trades on the [Nasdaq](/nasdaq/) Capital Market under the ticker YDKG.
 
 ## From In-Flight Entertainment to Crypto
 
 For its first two decades, AirNet Technology operated out-of-home advertising networks and provided in-flight entertainment solutions for airlines. The company maintained in-flight connectivity systems, digital entertainment content, and advertising infrastructure on aircraft, primarily serving the Chinese aviation market. This business was stable but had limited growth prospects as aviation recovered unevenly and competition intensified.
 
-The rebranding as Yueda Digital Holding represents an abrupt departure from that legacy. Rather than gradually evolving its advertising business, the company effectively reinvented itself around cryptocurrency treasury management. In 2025, it completed a $180 million registered direct offering, with proceeds paid in Bitcoin and Ethereum, signaling total commitment to the shift.
+The rebranding as Yueda Digital Holding represents an abrupt departure from that legacy. Rather than gradually evolving its advertising business, the company effectively reinvented itself around cryptocurrency treasury management. In 2025, it completed a $180 million registered direct offering, with proceeds paid in [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), signaling total commitment to the shift.
 
 ## What Yueda Does Now
 
@@ -32,7 +32,7 @@ Second, as a treasury management company, Yueda's value is almost entirely depen
 
 Third, regulatory uncertainty around cryptocurrency custody, treasury management, and advisory services remains substantial, particularly for a China-based company. The company operates in a complex global environment where the rules around digital-asset holdings, yield strategies, and advisory services continue to evolve.
 
-Fourth, the reverse stock split executed in November 2025 (one hundred shares consolidated into one) is often a signal of distress or repositioning in the market, though it also simplified the cap table for the transition.
+Fourth, the [reverse stock split](/reverse-stock-split/) executed in November 2025 (one hundred shares consolidated into one) is often a signal of distress or repositioning in the market, though it also simplified the cap table for the transition.
 
 ## Research Notes
 

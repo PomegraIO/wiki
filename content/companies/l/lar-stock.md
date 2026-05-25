@@ -30,7 +30,7 @@ Caucharí-Olaroz is in a region where the resource base supports brine mining. L
 
 Lithium Argentina operates as a [public company](/wiki/public-company/), listed on the [stock](/wiki/stock/) exchanges. The company raised capital to advance the project and maintain operations. Like other junior mining firms, Lithium Argentina has experienced the cyclical nature of lithium markets and equity valuations. When battery demand was robust and lithium prices were climbing, investor appetite for junior producers was strong. As demand moderated and commodity prices softened, equity valuations compressed.
 
-The company has also navigated debt financing, equipment leasing, and strategic partnerships—typical levers for mining firms seeking to balance share dilution against capital needs. The 10-K, the annual report filed with the SEC, details the capital structure, debt covenants, and major agreements. For investors or researchers, the 10-K remains the primary source of operational and financial detail.
+The company has also navigated [debt financing](/debt-financing/), equipment leasing, and strategic partnerships—typical levers for mining firms seeking to balance [share dilution](/share-dilution/) against capital needs. The 10-K, the [annual report](/10-k/) filed with the SEC, details the capital structure, debt covenants, and major agreements. For investors or researchers, the 10-K remains the primary source of operational and financial detail.
 
 ## Competitive position
 
@@ -42,7 +42,7 @@ What distinguishes Lithium Argentina is not unique technology or a moat beyond t
 
 Execution risk is substantial. Mining projects frequently suffer delays and cost overruns. Caucharí-Olaroz is still not in commercial production, and the path to first production may extend further. Commodity risk is acute: if lithium prices fall sharply, the project economics worsen, and equity and debt financing become harder to secure. Regulatory risk in Argentina is real; provincial governments can change policies, environmental standards can tighten, and water-rights disputes can resurface.
 
-Market risk is also significant. Global lithium demand is tied to electric vehicle adoption, battery storage growth, and industrial demand. If EV sales decelerate or battery chemistry shifts away from lithium (a longer-term possibility), demand may not grow as expected. Finally, the sheer number of lithium projects now in development globally means that prices may remain pressured unless demand growth is brisk.
+[Market risk](/market-risk/) is also significant. Global lithium demand is tied to electric vehicle adoption, battery storage growth, and industrial demand. If EV sales decelerate or battery chemistry shifts away from lithium (a longer-term possibility), demand may not grow as expected. Finally, the sheer number of lithium projects now in development globally means that prices may remain pressured unless demand growth is brisk.
 
 ## Research considerations
 

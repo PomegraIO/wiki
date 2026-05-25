@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Alpha Pro Tech LTD is a technology services and software company that helps enterprises solve real problems: moving off legacy systems, integrating acquisitions, optimizing cloud deployments, and fixing broken IT operations. It's not flashy and doesn't build consumer-facing products. Instead, it works directly with corporate IT departments and C-suite executives on unglamorous but mission-critical work.
+Alpha Pro Tech LTD is a technology services and software company that helps enterprises solve real problems: moving off legacy systems, integrating [acquisitions](/acquisition/), optimizing cloud deployments, and fixing broken IT operations. It's not flashy and doesn't build consumer-facing products. Instead, it works directly with corporate IT departments and C-suite executives on unglamorous but mission-critical work.
 
 The company operates a two-pillar business. First, consulting and systems integration—teams of engineers who land at customer sites, assess existing technology, design transitions, and oversee implementation. Second, software licensing and managed services, where it sells proprietary tools and ongoing support contracts that lock in recurring quarterly revenue. The best contracts blend both: six-month engagements that turn into three-year managed-services deals. This mix keeps cash flowing steadily even when enterprise capex cycles weaken.
 
@@ -26,4 +26,4 @@ Revenue composition matters more than raw topline here. Professional services dr
 
 Investor focus falls on utilization rates (are engineers busy, or are they benchpressing between contracts?), contract backlog, and the health of renewal rates in the managed-services portfolio. Large deals don't happen often but carry outsized weight. Customer concentration is always a concern—lose one major account and quarterly revenue takes a visible hit. The company operates best when enterprise IT budgets grow; it struggles when those budgets freeze.
 
-For research, start with the [10-K](/wiki/10-k/) filed with the SEC under CIK 884269. Look for customer diversification, professional services margin trends, and subscription revenue growth. Analyst reports tend to cluster around the industry cyclicality question: how dependent is this revenue on enterprise spending cycles versus structural demand for modernization.
+For research, start with the [10-K](/wiki/10-k/) filed with the SEC under CIK 884269. Look for customer [diversification](/diversification/), professional services margin trends, and subscription revenue growth. Analyst reports tend to cluster around the industry cyclicality question: how dependent is this revenue on enterprise spending cycles versus structural demand for modernization.

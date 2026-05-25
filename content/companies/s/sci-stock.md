@@ -12,7 +12,7 @@ handwritten: true
 
 Service Corporation International is North America's dominant funeral and cemetery services operator, commanding roughly 15% of a fragmented, consolidating market. Founded in 1962, the company operates through its Dignity Memorial brand—a network of over 1,700 locations spanning funeral homes, cemeteries, and crematories across the United States and Canada. What distinguishes SCI from a typical service business is its preneed model: customers prepay for funeral and cemetery services years or decades before they are delivered, creating a substantial contractual revenue backlog that underpins stable earnings.
 
-The company is headquartered in Houston, Texas (CIK 89089; ticker SCI) and generated revenue in the range of $3-4 billion annually in recent years, with roughly 70% from funeral services and 30% from cemetery operations. SCI trades on the New York Stock Exchange and remains one of the few large, publicly traded names in an industry otherwise dominated by smaller regional operators and family-owned firms.
+The company is headquartered in Houston, Texas (CIK 89089; ticker SCI) and generated revenue in the range of $3-4 billion annually in recent years, with roughly 70% from funeral services and 30% from cemetery operations. SCI trades on the [New York Stock Exchange](/new-york-stock-exchange/) and remains one of the few large, publicly traded names in an industry otherwise dominated by smaller regional operators and family-owned firms.
 
 ## The Preneed Machine
 
@@ -26,13 +26,13 @@ The preneed backlog has grown steadily, exceeding $7 billion in recent years—a
 
 SCI's funeral business includes casket sales, embalming, facilities rental, and merchandise (urns, flowers, monuments). The cemetery segment includes burial plots, entombment crypts, monuments, and maintenance. Both segments benefit from SCI's scale: the company can negotiate favorable terms with suppliers and leverage centralized management for back-office functions.
 
-The company generates strong free cash flow, supported by:
+The company generates strong [free cash flow](/free-cash-flow/), supported by:
 - Upfront preneed collections (cash arrives before services are delivered)
 - Recurring "at-need" sales (families seeking services on short notice)
 - Relatively low capital intensity for funeral homes, though cemetery land development requires ongoing investment
 - The ability to raise prices modestly in a service people do not shop aggressively for
 
-At-need revenue—services sold to families immediately after a death—is less predictable but historically stable. Combined with preneed recognition, the two streams fund dividends and share buybacks, making SCI attractive to income-focused investors.
+At-need revenue—services sold to families immediately after a death—is less predictable but historically stable. Combined with preneed recognition, the two streams fund [dividends](/dividend/) and [share buybacks](/share-buyback/), making SCI attractive to income-focused investors.
 
 ## Industry Position and Consolidation
 
@@ -48,13 +48,13 @@ Preneed customers also have cancellation rights, particularly in early years. Th
 
 ## Strengths and Vulnerabilities
 
-SCI's competitive moat rests on scale, brand recognition (Dignity Memorial is widely known), geographic reach, and the financial stability that preneed contracts provide. The network effect of acquisitions—each acquired funeral home adds to SCI's purchasing power and operational leverage—has reinforced its position.
+SCI's competitive moat rests on scale, brand recognition (Dignity Memorial is widely known), geographic reach, and the financial stability that preneed contracts provide. The network effect of [acquisitions](/acquisition/)—each acquired funeral home adds to SCI's purchasing power and operational leverage—has reinforced its position.
 
-Vulnerabilities include demographic trends (aging boomer cohort eventually works through the system), cremation adoption (still rising), shifting consumer preferences toward simpler memorials, and the regulatory environment around preneed funds. Inflation also affects the business: older preneed contracts may have locked in prices that underestimated future input costs, squeezing margins on those services.
+Vulnerabilities include demographic trends (aging boomer cohort eventually works through the system), cremation adoption (still rising), shifting consumer preferences toward simpler memorials, and the regulatory environment around preneed funds. [Inflation](/inflation/) also affects the business: older preneed contracts may have locked in prices that underestimated future input costs, squeezing margins on those services.
 
 ## How to Research It
 
-Start with SCI's annual [10-K](/wiki/10-k/) filing, paying particular attention to the preneed backlog disclosure—usually found in segment reporting or notes to the financial statements. Look for trends in backlog dollars and the rate at which it is being recognized as revenue. Compare at-need volume to prior years (a proxy for actual deaths and family demand) and monitor cremation penetration rates.
+Start with SCI's annual [10-K](/wiki/10-k/) filing, paying particular attention to the preneed backlog disclosure—usually found in [segment reporting](/segment-reporting/) or notes to the financial statements. Look for trends in backlog dollars and the rate at which it is being recognized as revenue. Compare at-need volume to prior years (a proxy for actual deaths and family demand) and monitor cremation penetration rates.
 
 Peer comparisons are limited; Carriage Services (CSV) is a smaller public funeral operator, but SCI's scale makes direct comparison imperfect. Industry reports from funeral service associations provide context on market share and consolidation trends. Recent earnings calls often discuss pricing actions, backlog quality, and competitive dynamics in key markets.
 

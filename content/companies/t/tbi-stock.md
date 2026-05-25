@@ -54,21 +54,21 @@ The structural advantage lies in breadth and scale. TrueBlue operates across mul
 
 ## Risks and cyclicality
 
-Economic sensitivity is the primary risk. During recessions, unemployment rises, workers flood the platform seeking any available work (reducing bargaining power for TrueBlue), and employers freeze hiring. During booms, tight labor markets make worker acquisition harder and expensive. The company has limited pricing power when workers are scarce or when competitors are offering higher splits.
+Economic sensitivity is the primary risk. During [recessions](/recession/), unemployment rises, workers flood the platform seeking any available work (reducing bargaining power for TrueBlue), and employers freeze hiring. During booms, tight labor markets make worker [acquisition](/acquisition/) harder and expensive. The company has limited pricing power when workers are scarce or when competitors are offering higher splits.
 
 Regulatory risk is secondary but rising. Labor laws around gig economy workers, wage and hour compliance, classification of workers as employees versus contractors, and mandated benefits all pose threats. States like California have experimented with stricter gig-worker protections, and if those rules spread, TrueBlue's unit economics could compress—if it must provide benefits or pay higher fares, the margin per placement shrinks.
 
 Technology obsolescence is a constant. TrueBlue's competitive position depends on its app and platform being easier to use and faster to match than alternatives. Any entrant with better capital and better engineering could disrupt the niche. The barrier to entry is not technical but operational—building the network of workers and employers takes time and money. Still, a well-funded competitor with a better matching algorithm could chip away at market share.
 
-Customer concentration is another consideration. If PeopleScout loses a major enterprise RPO contract, revenue takes a visible hit. If PeopleManagement's largest SaaS customer churns, it signals broader adoption challenges. PeopleReady is more distributed (millions of small employers), so concentration risk is lower, but its cyclicality remains the dominant issue.
+Customer concentration is another consideration. If PeopleScout loses a major enterprise RPO contract, revenue takes a visible hit. If PeopleManagement's largest SaaS customer churns, it signals broader adoption challenges. PeopleReady is more distributed (millions of small employers), so [concentration risk](/concentration-risk/) is lower, but its cyclicality remains the dominant issue.
 
 ## Reading the financials
 
-To assess TrueBlue as a potential investment, start with the company's annual [10-K filing](/wiki/10-k/) (SEC CIK 768899), which breaks revenue by segment, details the contribution margin of each business, and lays out the company's debt and capital structure. Watch for gross margin trends by segment—declining PeopleReady gross margins signal increased worker attrition or pricing pressure, while declining PeopleManagement SaaS margins suggest churn or cost inflation.
+To assess TrueBlue as a potential investment, start with the company's annual [10-K filing](/wiki/10-k/) (SEC CIK 768899), which breaks revenue by segment, details the [contribution margin](/contribution-margin/) of each business, and lays out the company's debt and capital structure. Watch for gross margin trends by segment—declining PeopleReady gross margins signal increased worker attrition or pricing pressure, while declining PeopleManagement SaaS margins suggest churn or cost [inflation](/inflation/).
 
 Quarterly commentary from management is valuable. Pay attention to PeopleReady placement volumes and the spread per placement; they are the leading indicators of segment health. For PeopleManagement, track customer additions and retention rates. For PeopleScout, watch the conversion rate from sales pipeline to signed contracts and the average contract value.
 
-Monitor working capital, especially the time lag between when TrueBlue pays workers and when it collects payment from employers. If that gap widens, it signals either payment delays or higher volumes that are cash-accretive upfront but require funding. Also watch the company's debt levels and free cash flow generation—high debt combined with volatile earnings creates refinancing risk.
+Monitor working capital, especially the time lag between when TrueBlue pays workers and when it collects payment from employers. If that gap widens, it signals either payment delays or higher volumes that are cash-accretive upfront but require funding. Also watch the company's debt levels and [free cash flow](/free-cash-flow/) generation—high debt combined with volatile earnings creates [refinancing risk](/refinancing-risk/).
 
 Valuation should reflect the cyclical nature of the business. Even if earnings are strong in a given quarter, a recession two quarters ahead could significantly impact the next year's profit. Investors must weigh the recurring nature of PeopleManagement and PeopleScout revenue against the seasonal and cyclical swings of PeopleReady.
 

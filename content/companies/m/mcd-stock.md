@@ -16,7 +16,7 @@ The company serves roughly 70 million customers daily, a staggering throughput t
 
 ## The franchise-and-real-estate machine
 
-McDonald's corporate profit comes almost entirely from rents and fees paid by franchisees—a model that decouples the company from labor, commodity, and operational risk that franchisees bear. The company itself is lean: it runs distribution networks, sets quality standards, manages brand advertising (often shared across the system), and collects recurring rents. This structure explains why McDonald's can raise prices through franchisee pressures without directly swallowing food cost inflation.
+McDonald's corporate profit comes almost entirely from rents and fees paid by franchisees—a model that decouples the company from labor, commodity, and [operational risk](/operational-risk/) that franchisees bear. The company itself is lean: it runs distribution networks, sets quality standards, manages brand advertising (often shared across the system), and collects recurring rents. This structure explains why McDonald's can raise prices through franchisee pressures without directly swallowing food cost [inflation](/inflation/).
 
 The real-estate advantage runs deeper still. In urban and suburban markets, McDonald's owns properties outright or controls long-term leases, giving it leverage over franchisees who cannot easily relocate. When a property appreciates, McDonald's benefits. When a franchisee fails, the company retains the asset and can hire a new operator. This is not mere licensing; it is leveraged real-estate economics disguised as a restaurant company.
 
@@ -34,7 +34,7 @@ Yet the moat is not impenetrable. Regional chains in many countries—China's Di
 
 The company's financials break into three revenue streams. Company-operated restaurants—roughly 5% of locations—produce the highest margins per unit but also expose corporate to direct payroll and commodity risk. Franchised restaurants contribute rent (a percentage of sales or fixed lease payments) and service fees. International markets, where McDonald's owns more property directly, generate higher real-estate revenue; US franchises, often long-held by the same operators, pay modest fixed rents because they were negotiated decades ago. Any new franchise is priced far higher, creating a two-tier system where modern franchisees carry heavier burdens than historical ones.
 
-Corporate profit is highly stable because rent is contractual and relatively insensitive to economic cycles. Even when a recession reduces customer visits, franchisees must still pay rent. This inelasticity of revenue is a core strength—cash flow is predictable, enabling steady shareholder returns.
+Corporate profit is highly stable because rent is contractual and relatively insensitive to economic cycles. Even when a [recession](/recession/) reduces customer visits, franchisees must still pay rent. This inelasticity of revenue is a core strength—cash flow is predictable, enabling steady shareholder returns.
 
 ## Pressures and headwinds
 

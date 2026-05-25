@@ -25,7 +25,7 @@ Revenue streams are threefold: volume-based sales to large QSR chains (often und
 
 Lamb Weston is the industry leader by market share in North American frozen potatoes, facing no single dominant competitor of equivalent scale. Rivals (such as McCain Foods, a Canadian-controlled company with significant North American operations, and regional or smaller processors) operate in overlapping markets but Lamb Weston's footprint, processing capacity, and customer relationships position it as the category anchor.
 
-The company's customer base is highly concentrated—major QSR customers represent a meaningful fraction of revenue—which creates both stability and risk. Long-term supply agreements with major chains provide predictable volume and revenue, but concentration means large customers wield leverage in pricing negotiations, especially during cost inflation cycles.
+The company's customer base is highly concentrated—major QSR customers represent a meaningful fraction of revenue—which creates both stability and risk. Long-term supply agreements with major chains provide predictable volume and revenue, but concentration means large customers wield leverage in pricing negotiations, especially during cost [inflation](/inflation/) cycles.
 
 ## Market Dynamics and Pressures
 
@@ -39,9 +39,9 @@ Retail margins are structurally challenged by private-label competition and reta
 
 ## Financial Model and Reporting
 
-Lamb Weston, a public company, files annual [10-Ks](/wiki/10-k/) and quarterly reports with the SEC (CIK 1679273). Investors monitor gross margins (sensitive to commodity potato and energy costs), operating leverage (fixed processing capacity versus variable demand), free cash flow (capital-intensive processing), and management commentary on QSR trends and customer demand.
+Lamb Weston, a public company, files annual [10-Ks](/wiki/10-k/) and quarterly reports with the SEC (CIK 1679273). Investors monitor gross margins (sensitive to commodity potato and energy costs), operating leverage (fixed processing capacity versus variable demand), [free cash flow](/free-cash-flow/) (capital-intensive processing), and management commentary on QSR trends and customer demand.
 
-The company employs EBITDA-focused guidance and capital allocation toward dividends, share repurchases, and debt reduction. Debt levels are meaningful due to the capital intensity of processing infrastructure, so debt-to-EBITDA ratios and refinancing risk are data points worth tracking.
+The company employs EBITDA-focused guidance and capital allocation toward [dividends](/dividend/), share repurchases, and debt reduction. Debt levels are meaningful due to the capital intensity of processing infrastructure, so [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/) and [refinancing risk](/refinancing-risk/) are data points worth tracking.
 
 ## What to Watch
 

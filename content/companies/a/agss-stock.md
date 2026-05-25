@@ -35,7 +35,7 @@ Ameriguard operates a labor-intensive security staffing business, deploying unif
 
 ## Competitive landscape and challenges
 
-The US security services market is fragmented, divided between national consolidators and regional specialists. Ameriguard competes primarily on service quality, customer relationships, and the reliability of personnel deployment. Structural headwinds include thin operating margins, wage inflation pressure in labor markets, and customer churn—particularly as large national providers gain scale advantages in pricing and geographic reach. Success requires either differentiation in niche service lines (executive protection, specialized industries) or strong regional relationships that resist price competition.
+The US security services market is fragmented, divided between national consolidators and regional specialists. Ameriguard competes primarily on service quality, customer relationships, and the reliability of personnel deployment. Structural headwinds include thin [operating margins](/operating-margin/), wage [inflation](/inflation/) pressure in labor markets, and customer churn—particularly as large national providers gain scale advantages in pricing and geographic reach. Success requires either differentiation in niche service lines (executive protection, specialized industries) or strong regional relationships that resist price competition.
 
 ## Industry trajectory and labor dependency
 

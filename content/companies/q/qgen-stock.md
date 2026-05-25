@@ -26,13 +26,13 @@ However, the diagnostics market faces structural headwinds. Reimbursement pressu
 
 ## Capital Structure and Investor History
 
-Qiagen is a publicly traded company listed on the Nasdaq. The company's ownership changed hands in 2018 when Thermo Fisher Scientific attempted a hostile takeover at 39 euros per share—a bid that Qiagen ultimately rejected, choosing instead to remain independent. The company has pursued organic growth, modest acquisitions (such as smaller diagnostic firms and software companies for data integration), and shareholder returns through buybacks. Debt levels are moderate; the company has managed to fund operations and capital investments without excessive leverage, though interest rate cycles affect its refinancing costs.
+Qiagen is a publicly traded company listed on the [Nasdaq](/nasdaq/). The company's ownership changed hands in 2018 when Thermo Fisher Scientific attempted a [hostile takeover](/hostile-takeover/) at 39 euros per share—a bid that Qiagen ultimately rejected, choosing instead to remain independent. The company has pursued organic growth, modest [acquisitions](/acquisition/) (such as smaller diagnostic firms and software companies for data integration), and shareholder returns through buybacks. Debt levels are moderate; the company has managed to fund operations and capital investments without excessive leverage, though [interest rate](/interest-rate/) cycles affect its refinancing costs.
 
 ## Margins and Cash Generation
 
-Clinical diagnostics, particularly QuantiFERON, generate higher margins due to limited competition in TB testing outside endemic regions and the absence of aggressive price wars. Life Sciences consumables carry reasonable gross margins (typically 60–70% across sample prep products), but the operating margin is compressed by heavy sales, marketing, and R&D spending to retain market position and develop new assays. The company must continuously invest in new diagnostic targets to offset commoditization of older tests.
+Clinical diagnostics, particularly QuantiFERON, generate higher margins due to limited competition in TB testing outside endemic regions and the absence of aggressive price wars. Life Sciences consumables carry reasonable gross margins (typically 60–70% across sample prep products), but the [operating margin](/operating-margin/) is compressed by heavy sales, marketing, and R&D spending to retain market position and develop new assays. The company must continuously invest in new diagnostic targets to offset commoditization of older tests.
 
-Free cash flow is positive but cyclical, turning on the mix of high-margin diagnostics versus lower-margin Life Sciences volume. Capital expenditure for manufacturing capacity and R&D consumes a material share of operating cash flow, limiting the scope for dividends or aggressive share buybacks.
+[Free cash flow](/free-cash-flow/) is positive but cyclical, turning on the mix of high-margin diagnostics versus lower-margin Life Sciences volume. Capital expenditure for manufacturing capacity and R&D consumes a material share of operating cash flow, limiting the scope for [dividends](/dividend/) or aggressive [share buybacks](/share-buyback/).
 
 ## Regulatory and Strategic Considerations
 

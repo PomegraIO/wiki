@@ -32,11 +32,11 @@ The platform handles lifecycle services: business formation (LLCs, corporations,
 
 ## Origin and Journey to Public Markets
 
-Founded in 2001 by Brian Lee, Brian Liu, Edward Hartman, and Robert Shapiro, LegalZoom was the first company to bring LLC formation and will preparation online. The founders recognized that legal services had not been disrupted by technology despite their repetitive, commodity-like nature. Early growth was organic; the company solved a real problem at a fraction of traditional pricing, and word-of-mouth and search traffic drove customer acquisition.
+Founded in 2001 by Brian Lee, Brian Liu, Edward Hartman, and Robert Shapiro, LegalZoom was the first company to bring LLC formation and will preparation online. The founders recognized that legal services had not been disrupted by technology despite their repetitive, commodity-like nature. Early growth was organic; the company solved a real problem at a fraction of traditional pricing, and word-of-mouth and search traffic drove customer [acquisition](/acquisition/).
 
 For two decades, LegalZoom operated as a private company, expanding its service catalog and defending itself against regulatory attacks. State bar associations sued multiple times, claiming LegalZoom was practicing law without a license. The company fought back through legal teams and regulatory engagement, establishing that document preparation and filing logistics do not constitute unauthorized practice of law—a distinction that became critical to its defensibility. By the late 2010s, LegalZoom had served millions of customers, had consistent profitability in sight, and was ready for public markets.
 
-In June 2021, LegalZoom went public on the Nasdaq at $28 per share, raising roughly $550 million and valuing the company at approximately $5.4 billion. The IPO validated two decades of bootstrapping and positioned the company to invest in technology, geographic expansion, and new service lines.
+In June 2021, LegalZoom went public on the [Nasdaq](/nasdaq/) at $28 per share, raising roughly $550 million and valuing the company at approximately $5.4 billion. The IPO validated two decades of bootstrapping and positioned the company to invest in technology, geographic expansion, and new service lines.
 
 ## Revenue and Business Segments
 

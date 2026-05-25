@@ -27,7 +27,7 @@ handwritten: true
 
 ## The Business
 
-New Fortress Energy builds and operates integrated energy infrastructure linking gas supply to electricity generation across emerging economies. The company owns small-scale liquefaction facilities that convert natural gas into liquefied form, floating LNG terminals that receive and regasify shipments, and power plants that burn the gas to generate electricity. Rather than follow the traditional path of mega-scale LNG projects serving industrial customers or export markets, NFE targets countries with unreliable power grids or limited energy security—markets where energy scarcity is economically and politically painful enough to justify high prices.
+New Fortress Energy builds and operates integrated energy infrastructure linking gas supply to electricity generation across emerging economies. The company owns small-scale liquefaction facilities that convert [natural gas](/natural-gas/) into liquefied form, floating LNG terminals that receive and regasify shipments, and power plants that burn the gas to generate electricity. Rather than follow the traditional path of mega-scale LNG projects serving industrial customers or export markets, NFE targets countries with unreliable power grids or limited energy security—markets where energy scarcity is economically and politically painful enough to justify high prices.
 
 The business model stacks three profit sources: tolls from liquefaction, storage, and regasification services; power generation margins; and long-term contracts with government or utility off-takers. By controlling the chain from gas intake to grid injection, NFE captures value at each stage rather than competing in any single commodity market.
 
@@ -53,17 +53,17 @@ Despite the attractive market positioning, New Fortress carries material downsid
 
 **Execution Risk and Capital Intensity.** Each project takes years to develop, navigate local permitting, establish customer relationships, and finance. Cost overruns are common in emerging-market infrastructure. If a 200 MW power plant is supposed to cost $300 million and ends up at $450 million, it immediately reduces returns on the investment capital. The company has had to raise dilutive equity capital to fund growth, and there is no guarantee that newly commissioned assets will perform as contracted or achieve the contracted pricing when customers or governments face political or fiscal pressure.
 
-**Counterparty and Sovereign Risk.** NFE's customers are government-owned utilities or government-backed off-takers. If a country faces a fiscal crisis, an election, or a change in energy policy, the customer may default, renegotiate terms downward, or simply fail to pay on time. This is not theory: in 2020, during the pandemic, several customers delayed payments or sought contract renegotiation. Sophisticated energy investors price this risk explicitly; emerging-market governments do renege.
+**Counterparty and [Sovereign Risk](/sovereign-risk/).** NFE's customers are government-owned utilities or government-backed off-takers. If a country faces a fiscal crisis, an election, or a change in energy policy, the customer may default, renegotiate terms downward, or simply fail to pay on time. This is not theory: in 2020, during the pandemic, several customers delayed payments or sought contract renegotiation. Sophisticated energy investors price this risk explicitly; emerging-market governments do renege.
 
 **Commodity Leverage.** Though contracts are typically indexed to global LNG prices, NFE benefits when energy prices are high but suffers when they are low. During the 2023–2024 LNG market weakness, contract pricing fell, reducing both revenue and margin. The company is not a pure utility with stable cash flows; it is leveraged to energy prices and energy demand in unstable regions.
 
 **Debt Maturity and Financial Flexibility.** NFE carries substantial debt relative to its cash earnings. If capital markets freeze or if energy prices or utilization rates fall sharply, refinancing or debt service could become strained. Project finance is typically non-recourse (lenders look only to project cash flows), but corporate-level debt and guarantees can create stress if multiple projects underperform simultaneously.
 
-**Geopolitical and Regulatory Disruption.** Operations in countries such as Pakistan, where security conditions or political instability can escalate, carry explicit operational risk. Changes to export policy, LNG taxation, or environmental regulation in host countries can impair asset value or margin overnight.
+**Geopolitical and Regulatory Disruption.** Operations in countries such as Pakistan, where security conditions or political instability can escalate, carry explicit [operational risk](/operational-risk/). Changes to export policy, LNG taxation, or environmental regulation in host countries can impair asset value or margin overnight.
 
 ## Investment and Research
 
-[10-K](/wiki/10-k/) filings reveal contract details, asset depreciation schedules, and hedging posture. Pay close attention to the off-take contracts (what is the pricing formula? how long?), the debt maturity profile (when are refinancings due?), and utilization rates (are assets operating at nameplate capacity?). 
+[10-K](/wiki/10-k/) filings reveal contract details, asset [depreciation](/depreciation/) schedules, and hedging posture. Pay close attention to the off-take contracts (what is the pricing formula? how long?), the debt maturity profile (when are refinancings due?), and utilization rates (are assets operating at nameplate capacity?). 
 
 Quarterly earnings are volatile because they depend on energy prices, customer demand, and currency movements in emerging economies. A single bad quarter can trigger analyst downgrades if a major customer delays payment or a new asset starts poorly. Conversely, strong LNG prices and stable dispatch can generate outsized cash generation.
 

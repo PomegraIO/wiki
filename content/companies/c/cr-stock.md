@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Crane Co builds specialized equipment and systems that keep planes flying, payment systems running, and fluids moving through pipelines and industrial plants worldwide.** The company operates across three broad markets — fluid handling and transfer systems, aerospace and electronics products, and payment and merchandising technology — each with deep customer relationships, high switching costs, and exposure to different economic cycles. Traded on the New York Stock Exchange under the ticker CR, Crane is a textbook mid-cap diversified industrial: less famous than the giant conglomerates, but with valuable franchises in engineered products where scale, precision, and long-term customer partnerships matter more than trendy innovation.
+**Crane Co builds specialized equipment and systems that keep planes flying, payment systems running, and fluids moving through pipelines and industrial plants worldwide.** The company operates across three broad markets — fluid handling and transfer systems, aerospace and electronics products, and payment and merchandising technology — each with deep customer relationships, high switching costs, and exposure to different economic cycles. Traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker CR, Crane is a textbook mid-cap diversified industrial: less famous than the giant conglomerates, but with valuable franchises in engineered products where scale, precision, and long-term customer partnerships matter more than trendy innovation.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ handwritten: true
 
 ## From steam valves to engineered systems
 
-Crane's roots reach back to the nineteenth century, when it began as a maker of valves and pumps for industrial plumbing — the kind of infrastructure that supported the growth of American factories and cities. The company steadily built expertise in fluid handling, the core competency that remained central through the twentieth century and into the 2000s. Along the way it diversified into adjacent areas: aerospace applications grew out of the need to move fluids in aircraft; payment systems came through a series of acquisitions that transformed the company from pure manufacturing into a broader industrial platform. Unlike conglomerates built on acquisition sprees, Crane's three segments evolved partly organically and partly through strategic purchases that fit the company's existing engineering DNA.
+Crane's roots reach back to the nineteenth century, when it began as a maker of valves and pumps for industrial plumbing — the kind of infrastructure that supported the growth of American factories and cities. The company steadily built expertise in fluid handling, the core competency that remained central through the twentieth century and into the 2000s. Along the way it diversified into adjacent areas: aerospace applications grew out of the need to move fluids in aircraft; payment systems came through a series of [acquisitions](/acquisition/) that transformed the company from pure manufacturing into a broader industrial platform. Unlike conglomerates built on acquisition sprees, Crane's three segments evolved partly organically and partly through strategic purchases that fit the company's existing engineering DNA.
 
 ## What Crane sells
 
@@ -49,7 +49,7 @@ Crane is rarely the giant in any of its markets. In fluid handling, it competes 
 
 The most visible risk is secular decline in the Payment & Merchandising segment. Digital payment adoption, the rise of contactless and mobile wallets, and the shrinking role of cash in developed economies all work against traditional coin and bill handling systems. Management has been proactive — investing in new payment technologies and digital solutions — but the underlying trend is unmistakable. This segment is still profitable, but it is unlikely to be a growth driver, and it may face modest contraction.
 
-Fluid Handling and Aerospace both face cyclical exposure. A slowdown in oil and gas capital spending, a delay in refinery upgrades, or a downturn in commercial aircraft orders can compress volumes quickly. These risks are inherent to the industrial business and difficult to eliminate; Crane manages them through geographic diversification, customer diversification, and maintaining strong [balance-sheet](/wiki/balance-sheet/) strength to weather downturns.
+Fluid Handling and Aerospace both face cyclical exposure. A slowdown in oil and gas capital spending, a delay in refinery upgrades, or a downturn in commercial aircraft orders can compress volumes quickly. These risks are inherent to the industrial business and difficult to eliminate; Crane manages them through geographic [diversification](/diversification/), customer diversification, and maintaining strong [balance-sheet](/wiki/balance-sheet/) strength to weather downturns.
 
 Supply-chain resilience is a standing concern for any industrial manufacturer. Sourcing materials, managing component suppliers, and navigating geopolitical tensions all affect costs and delivery times. Crane has invested in supply-chain visibility and alternative sourcing, but disruptions can still occur.
 

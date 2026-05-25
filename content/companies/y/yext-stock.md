@@ -36,7 +36,7 @@ The value is particularly acute for large, distributed organizations. A national
 
 ## How did Yext get here?
 
-Yext was founded in 2006 by Howard Lerman as a solution to location data fragmentation. Early on, the problem was acute but smaller in scope—primarily around local search (Google Maps, Bing, Yahoo local). Lerman built a tool to syndicate a business's location data to all of these outlets. The company grew modestly through the 2000s as enterprises began to recognize that their branch-by-branch information scattered across the web could affect customer acquisition.
+Yext was founded in 2006 by Howard Lerman as a solution to location data fragmentation. Early on, the problem was acute but smaller in scope—primarily around local search (Google Maps, Bing, Yahoo local). Lerman built a tool to syndicate a business's location data to all of these outlets. The company grew modestly through the 2000s as enterprises began to recognize that their branch-by-branch information scattered across the web could affect customer [acquisition](/acquisition/).
 
 The platform expanded in phases. As Yext added more connectors and data types, the mission broadened from "just locations" to "all business information." The company went public in 2012 at $15 per share, betting that the problem of keeping business information accurate in a fragmented digital world would become central to corporate operations. For a decade, Yext's growth was steady but not spectacular—strong enough to sustain the public company, but not enough to attract venture capital-scale valuations.
 
@@ -56,7 +56,7 @@ The platform includes several modules:
 - **Reviews Management**: Aggregating reviews from multiple sources, routing review responses, and monitoring sentiment.
 - **Site Assistant** (launched more recently): An AI-powered chatbot that uses a brand's own information to answer customer questions, serving as a personalized alternative to generic search results.
 
-**Hearsay Compliance** (post-acquisition) is sold into financial services firms, wealth management platforms, and insurance companies. It helps monitor employee communications (email, social media, messaging apps) for regulatory violations, content governance, and compliance with FINRA, SEC, and insurance regulations. Pricing here is typically per-user, per-month, with a base fee for the platform plus user add-ons.
+**Hearsay Compliance** (post-acquisition) is sold into financial services firms, wealth management platforms, and insurance companies. It helps monitor employee communications (email, social media, messaging apps) for regulatory violations, content governance, and compliance with [FINRA](/finra/), SEC, and insurance regulations. Pricing here is typically per-user, per-month, with a base fee for the platform plus user add-ons.
 
 Revenue from Yext's own filing breaks out as:
 - **Subscription revenue** (majority): Recurring SaaS fees for platform access, tiered by location count and feature level.
@@ -82,7 +82,7 @@ Post-Hearsay, the company bundles these as **Enterprise SaaS revenue** and has b
 
 ## What are the pressures and risks?
 
-**Dependency on enterprise adoption**: Yext's business model requires large corporations to view business information management as a serious, budgeted expense. In a recession, when budgets tighten, less "strategic" SaaS spending gets cut. Yext is also competing for budget within marketing or compliance departments that have many other priorities. If a company believes it can manage this problem in-house or with cheaper tools, Yext loses a deal.
+**Dependency on enterprise adoption**: Yext's business model requires large corporations to view business information management as a serious, budgeted expense. In a [recession](/recession/), when budgets tighten, less "strategic" SaaS spending gets cut. Yext is also competing for budget within marketing or compliance departments that have many other priorities. If a company believes it can manage this problem in-house or with cheaper tools, Yext loses a deal.
 
 **Price competition from integrated platforms**: Salesforce, HubSpot, Adobe, and other all-in-one marketing platforms are adding listing management and location features to their suites. For customers who already use Salesforce, adding location management as a Salesforce module is cheaper than a separate Yext contract. This trend threatens Yext's pricing power for mid-market and smaller enterprise deals.
 
@@ -101,7 +101,7 @@ Start with the company's [10-K filing](/wiki/10-k/) (SEC CIK 1614178), which bre
 - **Net revenue retention (NRR)**: This shows whether existing customers are expanding their spend (NRR > 100%) or shrinking (NRR < 100%). For Yext, NRR has historically been strong (often in the 110–115% range), a sign of sticky products and upsell opportunities.
 - **Customer count and cohort economics**: How many enterprise customers does Yext have, and how much revenue does each generate on average? Are new cohorts of customers being acquired profitably?
 - **Churn rate**: Especially post-Hearsay acquisition, monitoring whether the combined company is losing customers due to integration issues is critical.
-- **Free cash flow and path to profitability**: Yext has historically run at a loss or thin margins as it invests in growth and integration. Investors want to see a clear path to positive operating leverage and cash generation.
+- **[Free cash flow](/free-cash-flow/) and path to profitability**: Yext has historically run at a loss or thin margins as it invests in growth and integration. Investors want to see a clear path to positive operating leverage and cash generation.
 - **Hearsay contribution**: How much revenue and profit is Hearsay contributing? Is it meeting the integration milestones and revenue synergy targets announced at acquisition time?
 
 The company's quarterly earnings calls provide color on competitive wins/losses, customer commentary on product adoption, and management's view of the macro environment.

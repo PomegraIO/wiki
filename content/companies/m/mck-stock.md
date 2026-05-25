@@ -39,7 +39,7 @@ McKesson's dominance in this space comes from its sheer infrastructure investmen
 
 Beyond pills and injections, McKesson also distributes medical and surgical supplies—everything from wound dressings to diagnostic equipment to supplies for operating rooms. This segment serves similar customers (hospitals, clinics, providers) and benefits from the same distribution infrastructure, but with different margins and demand patterns. Medical-surgical goods tend to have higher margins than generics, and the segment is less price-sensitive than pharmaceutical distribution.
 
-This diversification matters for McKesson's overall health. When generic drug prices collapse (a recurring dynamic in the industry), the medical-surgical business provides a counterweight. Conversely, if healthcare spending shifts toward outpatient and home-based care, medical supplies for those settings become more important.
+This [diversification](/diversification/) matters for McKesson's overall health. When generic drug prices collapse (a recurring dynamic in the industry), the medical-surgical business provides a counterweight. Conversely, if healthcare spending shifts toward outpatient and home-based care, medical supplies for those settings become more important.
 
 ## Specialty Pharma and Oncology Services
 
@@ -73,7 +73,7 @@ McKesson competes partly on service and reliability, but price competition in ph
 
 McKesson is a high-revenue, lower-margin business. The company turns over inventory rapidly—many times per year—which helps it generate cash despite thin per-unit margins. The business is also relatively predictable: pharmaceutical consumption doesn't spike and crater suddenly, and customer relationships are stable.
 
-This cash generation has historically supported a significant dividend, and the company has been a long-term shareholder return play for income-focused investors. The business is mature and not expected to grow revenues dramatically, but it provides steady cash payouts and occasional buybacks. For equity investors, McKesson is often viewed as a defensive healthcare holding rather than a growth story.
+This cash generation has historically supported a significant [dividend](/dividend/), and the company has been a long-term shareholder return play for income-focused investors. The business is mature and not expected to grow revenues dramatically, but it provides steady cash payouts and occasional buybacks. For equity investors, McKesson is often viewed as a defensive healthcare holding rather than a growth story.
 
 ## Challenges and Pressures
 

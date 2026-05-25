@@ -46,7 +46,7 @@ Haemonetics faces competition across its segments but holds strong positions in 
 
 The company's moat is typical of medical device companies: regulatory barriers (FDA clearances and CE marking), customer switching costs (staff training and workflow integration), and the consumables lock-in. However, these advantages are not unassailable. Competitors can design compatible consumables, regulatory approvals can be gained by rivals, and hospital group purchasing organizations drive price competition.
 
-Geographic diversification is a key strength. Haemonetics operates globally, with significant revenue from Europe, China, and other developed markets. This reduces dependence on any single regulatory or economic environment, though it also creates exposure to currency fluctuations and varying reimbursement regimes.
+Geographic [diversification](/diversification/) is a key strength. Haemonetics operates globally, with significant revenue from Europe, China, and other developed markets. This reduces dependence on any single regulatory or economic environment, though it also creates exposure to currency fluctuations and varying reimbursement regimes.
 
 ## The Plasma Donation Boom and Constraints
 
@@ -56,9 +56,9 @@ This growth, however, has faces constraints. Donor availability is limited in ma
 
 ## Financial and Operational Challenges
 
-Haemonetics has faced operational headwinds in recent years. Supply chain disruptions from the pandemic hurt manufacturing and cost inflation pressured margins. The company has worked to optimize its cost structure and streamline its manufacturing footprint, but execution risk remains.
+Haemonetics has faced operational headwinds in recent years. Supply chain disruptions from the pandemic hurt manufacturing and cost [inflation](/inflation/) pressured margins. The company has worked to optimize its cost structure and streamline its manufacturing footprint, but execution risk remains.
 
-Debt levels and capital allocation have been areas of investor scrutiny. The company has used debt and equity financing to fund acquisitions and operational needs. Generating strong free cash flow and maintaining disciplined capital allocation will be critical to sustaining shareholder returns.
+Debt levels and capital allocation have been areas of investor scrutiny. The company has used debt and [equity financing](/equity-financing/) to fund [acquisitions](/acquisition/) and operational needs. Generating strong [free cash flow](/free-cash-flow/) and maintaining disciplined capital allocation will be critical to sustaining shareholder returns.
 
 The broader healthcare environment also poses risks: reimbursement pressure (hospitals and plasma operators seek cost reduction), regulatory changes (especially around plasma collection), and the capital intensity of blood banking infrastructure (hospitals are cost-conscious and replacement cycles are long).
 

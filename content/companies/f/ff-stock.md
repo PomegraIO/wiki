@@ -29,7 +29,7 @@ handwritten: true
 
 FutureFuel Corp. operates as a diversified manufacturer of specialty fuels and performance chemicals, serving industrial, commercial, and aerospace markets. The company occupies a distinct position within the broader energy and chemical industry, having carved out a niche that blends traditional petrochemical production with growing demand for sustainable fuel solutions and high-performance additives. Rather than pursuing commodity-scale hydrocarbon refining, FutureFuel focuses on higher-margin specialty products where technical performance and regulatory alignment create sustainable competitive advantages.
 
-The company's fundamental business model rests on two primary revenue streams: specialty fuels (including biodiesel, jet fuel, and related products) and performance chemicals (additives, lubricants, and specialty organic compounds). This dual-revenue structure provides some insulation against commodity price swings in any single category, though the fuels business remains the larger contributor and is sensitive to crude oil pricing dynamics.
+The company's fundamental business model rests on two primary revenue streams: specialty fuels (including biodiesel, jet fuel, and related products) and performance chemicals (additives, lubricants, and specialty organic compounds). This dual-revenue structure provides some insulation against commodity price swings in any single category, though the fuels business remains the larger contributor and is sensitive to [crude oil](/crude-oil/) pricing dynamics.
 
 ## The Growth of Renewable Fuel Production
 
@@ -47,13 +47,13 @@ Aerospace and defense applications carry especially favorable economic character
 
 FutureFuel is neither a megacap integrated energy company nor a boutique specialty chemicals house; it is a mid-market operator dependent on operational execution and disciplined capital allocation. The company faces competition from larger petrochemical manufacturers, integrated renewable fuels producers, and specialized chemical makers in different segments. Its competitive moat derives principally from technical capability, regulatory certifications in aerospace and specialty markets, established customer relationships, and the capital intensity of producing to specification.
 
-The company has limited vertical integration—it typically sources raw materials at market prices and purchases or partners for distribution. This structure keeps capital requirements moderate but also means margins are exposed to feedstock inflation and transportation cost movements.
+The company has limited vertical integration—it typically sources raw materials at market prices and purchases or partners for distribution. This structure keeps capital requirements moderate but also means margins are exposed to feedstock [inflation](/inflation/) and transportation cost movements.
 
 ## Cyclical and Regulatory Risks
 
 The renewable fuels business faces significant policy headwinds. Congressional support for biodiesel tax credits has waxed and waned; changes to blending mandates, fuel economy standards, or electrification policy could reduce demand. A sharp decline in crude oil prices, sustained low petroleum-diesel margins, or tightening environmental regulations on biodiesel (e.g., stricter emissions criteria during production) would pressure this segment's profitability.
 
-The specialty chemicals segment is less directly policy-dependent but remains cyclical, tied to industrial activity and customer capex cycles. Recession, manufacturing slowdowns, or reductions in aerospace production directly affect demand for metalworking fluids and lubricant additives. Inventory adjustments by large customers can create lumpy quarterly revenue patterns.
+The specialty chemicals segment is less directly policy-dependent but remains cyclical, tied to industrial activity and customer capex cycles. [Recession](/recession/), manufacturing slowdowns, or reductions in aerospace production directly affect demand for metalworking fluids and lubricant additives. Inventory adjustments by large customers can create lumpy quarterly revenue patterns.
 
 ## How to Research FutureFuel
 

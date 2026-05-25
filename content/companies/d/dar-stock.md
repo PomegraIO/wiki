@@ -40,7 +40,7 @@ This joint venture insulates Darling from pure commodity pricing pressure on fat
 
 ## Geography and Scale
 
-Darling operates across three main regions. The U.S. and Canada business is mature and highly integrated, combining rendering, waste services, and a significant share of Diamond Green economics. Europe is a second pillar, with rendering facilities and protein meal markets tied to the region's strong livestock and aquaculture sectors. The Asia-Pacific footprint, while smaller, has grown through acquisitions and is increasingly important as livestock farming expands in China, Southeast Asia, and Oceania. Feed and pet food demand in those markets outpaces North American or European growth.
+Darling operates across three main regions. The U.S. and Canada business is mature and highly integrated, combining rendering, waste services, and a significant share of Diamond Green economics. Europe is a second pillar, with rendering facilities and protein meal markets tied to the region's strong livestock and aquaculture sectors. The Asia-Pacific footprint, while smaller, has grown through [acquisitions](/acquisition/) and is increasingly important as livestock farming expands in China, Southeast Asia, and Oceania. Feed and pet food demand in those markets outpaces North American or European growth.
 
 ## Competitive Moats and Pressures
 
@@ -52,13 +52,13 @@ The renewable diesel venture partly hedges commodity risk through blended econom
 
 ## Capital Returns and Growth Strategy
 
-Darling has deployed capital toward acquisitions—consolidating smaller renderers to build scale and geographic reach—as well as organic upgrades to rendering facility efficiency. The company has been disciplined about returning cash to shareholders through dividends and periodic buybacks, reflecting the mature-business, stable-cashflow nature of the core rendering business.
+Darling has deployed capital toward acquisitions—consolidating smaller renderers to build scale and geographic reach—as well as organic upgrades to rendering facility efficiency. The company has been disciplined about returning cash to shareholders through [dividends](/dividend/) and periodic buybacks, reflecting the mature-business, stable-cashflow nature of the core rendering business.
 
 Upstream of Diamond Green, Darling is investing in feedstock supply infrastructure—expanding grease collection networks and securing long-term feedstock agreements—to ensure the joint venture has feedstock volume and margin protection. This forward integration is capital-light relative to refining or food manufacturing, but it ties up balance-sheet room and competes with shareholder distributions.
 
 ## What to Watch
 
-**Renewable diesel margins and volumes.** Diamond Green's earnings swing with fuel prices and the blending credit; a collapse in the federal tax credit or a sharp fall in crude oil prices would pressure returns. Conversely, a tightening of renewable fuel mandates or expansion of state-level low-carbon fuel standards could unlock upside.
+**Renewable diesel margins and volumes.** Diamond Green's earnings swing with fuel prices and the blending credit; a collapse in the federal tax credit or a sharp fall in [crude oil](/crude-oil/) prices would pressure returns. Conversely, a tightening of renewable fuel mandates or expansion of state-level low-carbon fuel standards could unlock upside.
 
 **Feedstock competition.** As renewable diesel demand rises globally, Darling will face competition for rendered fats and used cooking oil from other producers, biofuel makers, and chemical companies. Securing feedstock under contract terms that protect margin is critical.
 

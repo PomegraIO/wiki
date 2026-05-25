@@ -28,7 +28,7 @@ The company sells primarily through direct relationships with surgeons and ambul
 
 ## Leadership and Experience
 
-Rob Ball, who took the CEO title in October 2020 and serves as Executive Chairman, brings over two decades of medical device experience. His career includes prior roles at Tornier (acquired by Wright Medical, now part of Stryker), DePuy (Johnson & Johnson), and Kinetikos Medical, all orthopedic companies. He was also Principal at Imascap SA, a software company focused on preoperative planning for shoulder surgery, until its 2017 acquisition by Wright Medical. Ball holds more than 30 issued or pending patents across orthopedic devices and planning tools. This background in shoulder surgery technology development across multiple major platforms positions him well to execute Shoulder Innovations' narrowly focused strategy.
+Rob Ball, who took the CEO title in October 2020 and serves as Executive Chairman, brings over two decades of medical device experience. His career includes prior roles at Tornier (acquired by Wright Medical, now part of Stryker), DePuy (Johnson & Johnson), and Kinetikos Medical, all orthopedic companies. He was also Principal at Imascap SA, a software company focused on preoperative planning for shoulder surgery, until its 2017 [acquisition](/acquisition/) by Wright Medical. Ball holds more than 30 issued or pending patents across orthopedic devices and planning tools. This background in shoulder surgery technology development across multiple major platforms positions him well to execute Shoulder Innovations' narrowly focused strategy.
 
 ## Competitive Position and Risks
 
@@ -50,6 +50,6 @@ Before its July 2025 IPO, the company generated approximately $31.6 million in r
 - Global shoulder replacement market valued ~$3 billion; projected to exceed $4.5 billion by 2030
 - Reverse shoulder arthroplasty represents ~70% of U.S. shoulder replacement volume
 - Competes with Stryker, J&J DePuy, Zimmer Biomet, and smaller specialists
-- Operates solely in shoulder implants; no product diversification outside the segment
+- Operates solely in shoulder implants; no product [diversification](/diversification/) outside the segment
 
 For investors and observers, the key to Shoulder Innovations' value proposition lies in whether a focused, specialized approach can maintain margins and gain share against diversified competitors in a growing surgical market. The company's unit growth before IPO suggests surgeon adoption is real, but long-term success depends on sustained innovation, physician education, and execution against much larger rivals with global scale.

@@ -25,7 +25,7 @@ Where QCR diverges from pure-play community banking is in its wealth-management 
 
 > The LIHTC lending operation has become a source of competitive advantage and a meaningful driver of fee and interest income.
 
-The LIHTC lending platform is the more distinctive piece. Low-Income Housing Tax Credits are federal subsidies for affordable-housing development; lenders that structure and syndicate these deals capture origination fees, ongoing management fees, and tax-credit related revenue streams. QCR has built expertise here through a dedicated team and can offer sponsors and developers access to debt and tax-credit capital tailored to affordable-housing projects. This business is less rate-sensitive than traditional lending, generates recurring fee revenue, and aligns with demand from institutional investors seeking tax-efficient charitable and ESG-oriented returns. It has become a significant and visible part of the company's earnings profile.
+The LIHTC lending platform is the more distinctive piece. Low-Income Housing Tax Credits are federal subsidies for affordable-housing development; lenders that structure and syndicate these deals capture origination fees, ongoing [management fees](/management-fee/), and tax-credit related revenue streams. QCR has built expertise here through a dedicated team and can offer sponsors and developers access to debt and tax-credit capital tailored to affordable-housing projects. This business is less rate-sensitive than traditional lending, generates recurring fee revenue, and aligns with demand from institutional investors seeking tax-efficient charitable and ESG-oriented returns. It has become a significant and visible part of the company's earnings profile.
 
 ## A Regional Profile
 
@@ -35,7 +35,7 @@ This regional focus is also a constraint. QCR cannot compete nationally on digit
 
 ## Capital, Credit, and Cyclicality
 
-As a bank holding company, QCR is regulated by the [Federal Reserve](/wiki/federal-reserve/) and subject to capital and liquidity requirements. The company maintains a solid capital base, though like all banks it benefits from higher interest rates (wider net-interest margin) and is pressured by lower rates and inverted [yield curves](/wiki/yield-curve/). The company's credit quality is tied to the economic health of its lending markets; recessions or local downturns would show up in non-performing loans and loan-loss provisions.
+As a bank holding company, QCR is regulated by the [Federal Reserve](/wiki/federal-reserve/) and subject to capital and liquidity requirements. The company maintains a solid capital base, though like all banks it benefits from higher [interest rates](/interest-rate/) (wider net-interest margin) and is pressured by lower rates and inverted [yield curves](/wiki/yield-curve/). The company's credit quality is tied to the economic health of its lending markets; [recessions](/recession/) or local downturns would show up in non-performing loans and loan-loss provisions.
 
 Interest-rate sensitive, a mid-cap regional player without exotic risk appetite, QCR trades on straightforward metrics: [return on equity](/wiki/return-on-equity/), [loan-to-deposit ratios](/wiki/loan-to-deposit-ratio/), and net-interest margin. Investors typically monitor [10-K filings](/wiki/10-k/) for trends in loan growth, deposit stability, efficiency ratios (how much of revenue goes to operating costs), and the outlook for credit quality. The LIHTC business provides some insulation from rate movements but is small enough not to eliminate sensitivity.
 

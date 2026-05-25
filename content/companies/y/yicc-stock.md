@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Yorkville International Capital Corp. is a newly public shell company, or special-purpose acquisition vehicle, chartered in the Cayman Islands and headquartered in Mountainside, New Jersey. Like other SPACs, it was formed as a capital-raising shell with no operating business of its own—its explicit purpose is to identify, acquire, and merge with an operating company or asset of strategic value to its investors and sponsors.
+Yorkville International Capital Corp. is a newly public shell company, or special-purpose [acquisition](/acquisition/) vehicle, chartered in the Cayman Islands and headquartered in Mountainside, New Jersey. Like other SPACs, it was formed as a capital-raising shell with no operating business of its own—its explicit purpose is to identify, acquire, and merge with an operating company or asset of strategic value to its investors and sponsors.
 
-The company completed a [public offering](/wiki/stock/) in 2026, raising capital specifically to fund its merger or acquisition search. Until such a combination occurs, Yorkville operates as a holding shell: liquid assets sit in trust, the board oversees the hunt for a target, and shareholders retain redemption rights, allowing them to exit if the terms of any proposed deal fail to satisfy their return expectations.
+The company completed a [public offering](/wiki/stock/) in 2026, raising capital specifically to fund its [merger](/merger/) or acquisition search. Until such a combination occurs, Yorkville operates as a holding shell: liquid assets sit in trust, the board oversees the hunt for a target, and shareholders retain [redemption rights](/redemption-rights-equity/), allowing them to exit if the terms of any proposed deal fail to satisfy their return expectations.
 
 ## Structure and Objectives
 
-SPAC structures like Yorkville's have become a common path for private companies and newly formed entities to reach public markets and raise capital without undergoing a traditional [10-K](/wiki/10-k/) filing and lengthy regulatory review associated with direct initial public offerings. The model concentrates deal risk and board discretion in the hands of the sponsors and management team—in Yorkville's case, a group of experienced capital formation professionals.
+SPAC structures like Yorkville's have become a common path for private companies and newly formed entities to reach public markets and raise capital without undergoing a traditional [10-K](/wiki/10-k/) filing and lengthy regulatory review associated with direct [initial public offerings](/initial-public-offering/). The model concentrates deal risk and board discretion in the hands of the sponsors and management team—in Yorkville's case, a group of experienced capital formation professionals.
 
 The company has committed, in its [prospectus](/wiki/prospectus/) and regulatory filings, to deploy capital within a defined window—typically two to three years from IPO—to announce or close a material acquisition. If no deal is struck and approved by shareholders within that frame, the company must liquidate and return capital to investors. This hard deadline creates discipline and urgency; it also ensures that capital does not sit idle indefinitely.
 

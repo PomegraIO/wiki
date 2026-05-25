@@ -15,7 +15,7 @@ Amarin is a biopharmaceutical company centered on cardiovascular medicine and me
 
 ## Where is the company based and how is it structured?
 
-Despite its ticker trading in the US and its operations rooted in the American market, Amarin is incorporated in the United Kingdom as a public limited company. The company operates a US-focused commercial infrastructure, particularly in cardiovascular marketing and sales. This transatlantic structure—UK incorporation paired with a predominantly American revenue base and investor base—reflects historical corporate evolution but can create complexity in regulatory and tax considerations relative to purely domesticated US firms. The company trades on the NASDAQ under the ticker AMRN.
+Despite its ticker trading in the US and its operations rooted in the American market, Amarin is incorporated in the United Kingdom as a public limited company. The company operates a US-focused commercial infrastructure, particularly in cardiovascular marketing and sales. This transatlantic structure—UK incorporation paired with a predominantly American revenue base and investor base—reflects historical corporate evolution but can create complexity in regulatory and tax considerations relative to purely domesticated US firms. The company trades on the [NASDAQ](/nasdaq/) under the ticker AMRN.
 
 ## How does the revenue model work?
 

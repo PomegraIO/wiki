@@ -22,9 +22,9 @@ Noble's fleet, as of mid-2025, includes 38 total units: 25 floating rigs (deepwa
 
 Noble traces its roots to 1921, when Lloyd Noble and Art Olson founded Noble-Olson Drilling in Ardmore, Oklahoma—a land-based rotary drilling contractor. Over a century, the company evolved from onshore work into offshore, becoming one of the industry's established players. That long track record meant experience in engineering, safety, and long-term customer relationships.
 
-By late 2022, Noble completed a transformative merger with Maersk Drilling, a subsidiary of the Danish shipping conglomerate A.P. Møller-Mærsk. This all-stock deal combined two legacies spanning over 150 years and created a single global entity with significantly broader fleet depth and customer reach. The merged company took the Noble name but inherited decades of operational expertise from both organizations.
+By late 2022, Noble completed a transformative [merger](/merger/) with Maersk Drilling, a subsidiary of the Danish shipping conglomerate A.P. Møller-Mærsk. This all-stock deal combined two legacies spanning over 150 years and created a single global entity with significantly broader fleet depth and customer reach. The merged company took the Noble name but inherited decades of operational expertise from both organizations.
 
-Then, in June 2024, Noble accelerated its consolidation drive by acquiring Diamond Offshore Drilling for approximately $1.6 billion in cash and stock. This brought additional floaters into the fleet at a time when deepwater demand was recovering. By autumn 2024, that acquisition had closed, effectively tripling Noble's scale relative to its pre-merger size and positioning it as a top-tier contractor.
+Then, in June 2024, Noble accelerated its consolidation drive by acquiring Diamond Offshore Drilling for approximately $1.6 billion in cash and stock. This brought additional floaters into the fleet at a time when deepwater demand was recovering. By autumn 2024, that [acquisition](/acquisition/) had closed, effectively tripling Noble's scale relative to its pre-merger size and positioning it as a top-tier contractor.
 
 ## The Revenue Engine: Utilization, Dayrates, and Backlog
 
@@ -46,7 +46,7 @@ That said, competitive intensity remains severe. When demand softens, customers 
 
 Noble faces several structural headwinds. First, the energy transition: as global energy companies gradually shift capital toward renewables and subsurface carbon management, the growth appetite for deepwater exploration and development may stagnate. Some major operators have already announced reductions in offshore spending or a shift toward lower-risk, nearer-term production projects.
 
-Second, the cyclical nature of the business. Offshore drilling is procyclical: it booms when oil prices are high and money flows freely, then collapses during downturns. Noble's debt levels and capital structure are designed to weather moderate cycles, but a severe contraction could strain the company's balance sheet, especially if it can't cut costs and capital spending proportionally.
+Second, the cyclical nature of the business. Offshore drilling is procyclical: it booms when oil prices are high and money flows freely, then collapses during downturns. Noble's debt levels and capital structure are designed to weather moderate cycles, but a severe contraction could strain the company's [balance sheet](/balance-sheet/), especially if it can't cut costs and capital spending proportionally.
 
 Third, oversupply risks. In early 2025, analysts noted potential oil market oversupply in 2026, which could delay offshore development greenfields and depress dayrates. Even within Noble's strong backlog, contract renewals and extensions in 2026 and beyond remain uncertain.
 

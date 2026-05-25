@@ -48,7 +48,7 @@ The competitive moat is minimal. Copper processing is not a high-technology busi
 
 ## Why the IPO Withdrew
 
-In 2025 and early 2026, Xinxu pursued a NASDAQ listing with an estimated raise of $16.5 million. The plan was typical for Chinese industrial companies seeking overseas capital: go public, use proceeds to expand capacity or enter new markets, improve profitability metrics, and offer shareholders a liquid exit. The IPO was withdrawn in May 2026, returning the company to private status. The reasons are not fully disclosed, but likely factors include: choppy market conditions for small-cap China-focused IPOs, difficulty meeting NASDAQ's profitability or revenue thresholds, or internal reassessment of the timing and expense involved.
+In 2025 and early 2026, Xinxu pursued a [NASDAQ](/nasdaq/) listing with an estimated raise of $16.5 million. The plan was typical for Chinese industrial companies seeking overseas capital: go public, use proceeds to expand capacity or enter new markets, improve profitability metrics, and offer shareholders a liquid exit. The IPO was withdrawn in May 2026, returning the company to private status. The reasons are not fully disclosed, but likely factors include: choppy market conditions for small-cap China-focused IPOs, difficulty meeting NASDAQ's profitability or revenue thresholds, or internal reassessment of the timing and expense involved.
 
 ## Pressures and Future Outlook
 

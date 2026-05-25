@@ -24,7 +24,7 @@ A pivotal restructuring came in 2003 when the company emerged as Celanese Corpor
 
 Celanese operates through two main divisions: the Acetyl Chain (producing acetic acid, acetic anhydride, and vinyl acetate monomers) and Engineered Materials (producing polyoxymethylene plastics and specialty polymers). These are not commodities—they are intermediate or finished chemical products that require technical expertise to manufacture and precise performance characteristics that customers depend on.
 
-Acetic acid, the company's flagship product, is used by manufacturers of photographic film, coatings, adhesives, paints, and plastics. Vinyl acetate monomer (VAM), another major output, is a building block for paints, adhesives, and films. These are high-volume chemicals sold to industrial customers under long-term supply contracts, often with pricing tied to crude oil and natural gas indices. Polyoxymethylene (POM) plastics are precision-engineered materials sold into automotive, consumer goods, and machinery applications—markets where a few extra degrees of thermal stability or a 10% improvement in stiffness can win a design win.
+Acetic acid, the company's flagship product, is used by manufacturers of photographic film, coatings, adhesives, paints, and plastics. Vinyl acetate monomer (VAM), another major output, is a building block for paints, adhesives, and films. These are high-volume chemicals sold to industrial customers under long-term supply contracts, often with pricing tied to [crude oil](/crude-oil/) and [natural gas](/natural-gas/) indices. Polyoxymethylene (POM) plastics are precision-engineered materials sold into automotive, consumer goods, and machinery applications—markets where a few extra degrees of thermal stability or a 10% improvement in stiffness can win a design win.
 
 The business model relies on scale and vertical integration. A portion of the acetyl chain output becomes feedstock for downstream operations, reducing transportation costs and creating margin capture across multiple stages. The company operates joint ventures and production alliances globally, particularly for serving Asian markets, where local manufacturing presence is essential for competitive positioning.
 
@@ -44,9 +44,9 @@ However, Celanese is not insulated from commodity dynamics. Acetic acid, despite
 
 ## Financial Structure and Capital Allocation
 
-The company carries moderate leverage, with net debt typically in the range of $2 billion to $3 billion, reflecting a balanced approach to capital allocation. In strong years, cash generation funds dividends and opportunistic share buybacks; in weaker years, the company focuses on debt reduction. The dividend, typically in the 2–3% yield range, has grown irregularly but reflects the company's profitability volatility.
+The company carries moderate leverage, with [net debt](/net-debt/) typically in the range of $2 billion to $3 billion, reflecting a balanced approach to capital allocation. In strong years, cash generation funds [dividends](/dividend/) and opportunistic [share buybacks](/share-buyback/); in weaker years, the company focuses on debt reduction. The dividend, typically in the 2–3% yield range, has grown irregularly but reflects the company's profitability volatility.
 
-Capital expenditure runs at roughly 3–4% of sales annually, directed toward capacity optimization, process efficiency, and expansion in higher-margin segments like specialty polymers. The company occasionally makes small acquisitions of niche chemical companies to add complementary products, though large-scale M&A is infrequent.
+Capital expenditure runs at roughly 3–4% of sales annually, directed toward capacity optimization, process efficiency, and expansion in higher-margin segments like specialty polymers. The company occasionally makes small [acquisitions](/acquisition/) of niche chemical companies to add complementary products, though large-scale M&A is infrequent.
 
 ## Risks and Headwinds
 
@@ -60,7 +60,7 @@ Regulatory risks exist around volatile organic compound (VOC) emissions from ace
 
 Investors should start with the [10-K filing](/wiki/10-k/) on the SEC's EDGAR database, where audited financial statements and management discussion of segment performance, cash flow, and capital expenditure plans are documented. Quarterly earnings calls, typically held in early morning hours, provide management's perspective on current market conditions and near-term demand signals.
 
-Key metrics to track include EBITDA and EBITDA margins (commonly reported by specialty chemical companies), debt-to-EBITDA leverage, free cash flow, and segment profitability. Trade journals covering chemical market conditions—such as Chemical Week, ICIS, and Platts—regularly report on acetic acid prices and polyol market dynamics, giving context to Celanese's pricing environment.
+Key metrics to track include [EBITDA](/ebitda/) and [EBITDA margins](/ebitda-margin/) (commonly reported by specialty chemical companies), debt-to-EBITDA leverage, [free cash flow](/free-cash-flow/), and segment profitability. Trade journals covering chemical market conditions—such as Chemical Week, ICIS, and Platts—regularly report on acetic acid prices and polyol market dynamics, giving context to Celanese's pricing environment.
 
 Peers for benchmarking include Eastman Chemical, Huntsman Corporation, and European players like INEOS and Clariant, though Celanese's focused product mix and integrated acetyl chain create a somewhat distinct profile. Celanese also overlaps with larger diversified chemical companies in certain segments, making a scan of DuPont and Dow financials useful for understanding broader market cycles.
 

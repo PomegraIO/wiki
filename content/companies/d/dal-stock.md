@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Delta Air Lines stands as one of the three largest carriers in the United States—a legacy network airline whose route system and operations span the country and extend globally. Founded in 1924 as a crop-dusting service in Louisiana, it evolved into a passenger carrier and has grown through a combination of organic expansion and transformative mergers into the massive, interconnected operation it is today.
+Delta Air Lines stands as one of the three largest carriers in the United States—a legacy network airline whose route system and operations span the country and extend globally. Founded in 1924 as a crop-dusting service in Louisiana, it evolved into a passenger carrier and has grown through a combination of organic expansion and transformative [mergers](/merger/) into the massive, interconnected operation it is today.
 
 ## The origins and consolidation
 
@@ -30,7 +30,7 @@ The airline's route network is dense across the continental United States, with 
 
 Airlines as a category operate on thin margins and face immense structural pressures. Fuel costs, which Delta cannot control, are an enormous line item; a sustained spike in oil prices can devastate profitability across the industry. Labor costs are equally critical: pilots, flight attendants, and ground crews are unionized at Delta, and labor contracts govern wages, work rules, and productivity. Renegotiating these agreements can be contentious and expensive.
 
-The industry is highly cyclical. Economic recessions trigger immediate drops in business and leisure travel, hammering load factors (the percentage of seats filled) and pricing power. Conversely, healthy consumer spending and corporate earnings lift demand quickly. Capacity discipline—the willingness of carriers to cut schedules or park aircraft during downturns rather than compete on ever-lower fares—has improved in recent years compared to the deregulation era, but competition remains intense.
+The industry is highly cyclical. Economic [recessions](/recession/) trigger immediate drops in business and leisure travel, hammering load factors (the percentage of seats filled) and pricing power. Conversely, healthy consumer spending and corporate earnings lift demand quickly. Capacity discipline—the willingness of carriers to cut schedules or park aircraft during downturns rather than compete on ever-lower fares—has improved in recent years compared to the deregulation era, but competition remains intense.
 
 Regulatory oversight is constant: the Federal Aviation Administration oversees safety, labor relations are governed by the Railway Labor Act, and Department of Transportation rules apply to scheduling and international slots. Changes to these rules, and limits on new airport capacity in congested hubs, directly shape Delta's operational options and competitive position.
 

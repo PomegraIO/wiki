@@ -28,7 +28,7 @@ Economic headwinds hit hard. Feed grain prices, milk prices, cattle futures—al
 
 As a small manufacturer in a capital-light industry (relative to autos or heavy machinery), Arts Way operates at a different margin profile than factory giants. Labor, raw materials, logistics, dealer networks—all are tighter, with less room for error. The company must move product steadily to keep the operation running, which means pricing discipline and cost control are survival factors, not merely targets.
 
-Growth has been episodic. Acquisitions of smaller brands or makers have expanded the lineup; organic growth has depended on farm economics and regional market share. The company has never been a major national player, which limits upside but also means it doesn't require enormous scale to be profitable at its target levels.
+Growth has been episodic. [Acquisitions](/acquisition/) of smaller brands or makers have expanded the lineup; organic growth has depended on farm economics and regional market share. The company has never been a major national player, which limits upside but also means it doesn't require enormous scale to be profitable at its target levels.
 
 ## The Farmer's Calculus
 

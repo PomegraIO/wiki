@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Aspen Aerogels manufactures specialized aerogel materials—ultra-lightweight, porous substances with exceptional insulating properties—for demanding applications where conventional insulation cannot compete. The company holds significant defensible positions in EV battery thermal management and industrial process insulation, but recent years have exposed the concentration risk of scaling rapidly around a single customer and a nascent market still finding its equilibrium.
+Aspen Aerogels manufactures specialized aerogel materials—ultra-lightweight, porous substances with exceptional insulating properties—for demanding applications where conventional insulation cannot compete. The company holds significant defensible positions in EV battery thermal management and industrial process insulation, but recent years have exposed the [concentration risk](/concentration-risk/) of scaling rapidly around a single customer and a nascent market still finding its equilibrium.
 
 ## The Core Technology
 
@@ -30,7 +30,7 @@ Until recently, Aspen maintained a state-of-the-art manufacturing facility in St
 
 ## Market and Headwinds
 
-Aspen Aerogels rode a wave of optimism about electrification and EV thermal management from 2022 through 2024, but the company is now navigating two distinct headwinds. First, the global EV market is undergoing a structural reset as adoption curves flatten and manufacturers reassess economics. Second, early-stage aerogel adoption in EVs has revealed that the market is still price-sensitive and subject to batch ordering cycles, making revenue highly volatile. The company reported a net loss of $389.6 million in 2025, driven by asset impairments and the operating losses incurred during the transition away from in-house production.
+Aspen Aerogels rode a wave of optimism about electrification and EV thermal management from 2022 through 2024, but the company is now navigating two distinct headwinds. First, the global EV market is undergoing a structural reset as adoption curves flatten and manufacturers reassess economics. Second, early-stage aerogel adoption in EVs has revealed that the market is still price-sensitive and subject to batch ordering cycles, making revenue highly volatile. The company reported a net loss of $389.6 million in 2025, driven by [asset impairments](/asset-impairment/) and the operating losses incurred during the transition away from in-house production.
 
 The strategic wager is that thermal barrier adoption in EVs and growth in industrial insulation markets for energy transition applications (offshore wind, renewable hydrogen, industrial decarbonization) will eventually reach volumes that justify the technology and margin profile. In the interim, Aspen is navigating acute customer concentration, commodity-like pricing pressure in some end markets, and the operational complexity of a supply-chain transition under tariff and margin pressure.
 

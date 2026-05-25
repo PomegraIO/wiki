@@ -19,7 +19,7 @@ Airbnb operates an asset-light marketplace where individual hosts list propertie
 
 Success depends on balancing two sides simultaneously: enough hosts must list properties to give guests variety and competitive pricing, while enough guests must use the platform to make hosting economically attractive. This network effect creates a moat—large platforms attract more participants of both types, making it harder for rivals to compete. Airbnb's brand recognition and first-mover scale in the short-term rental space have proven difficult to displace. The company earns additional revenue from service fees charged separately to guests and hosts, plus newer streams including long-term stays (30+ day rentals), Experiences (guided tours and activities led local guides), and adjacent services.
 
-Gross margins are exceptionally high (80%+) because the company does not operate lodging inventory. Revenue per booking and total volume—measured in nights booked and gross booking value (GBV), the total value of all rental transactions processed—are the primary operating metrics. During the pandemic, travel demand collapsed but recovered quickly once restrictions ended, demonstrating resilience in the leisure travel category. However, recession or discretionary spending weakness can pressure booking volume and average booking prices.
+Gross margins are exceptionally high (80%+) because the company does not operate lodging inventory. Revenue per booking and total volume—measured in nights booked and gross booking value (GBV), the total value of all rental transactions processed—are the primary operating metrics. During the pandemic, travel demand collapsed but recovered quickly once restrictions ended, demonstrating resilience in the leisure travel category. However, recession or [discretionary spending](/discretionary-spending/) weakness can pressure booking volume and average booking prices.
 
 ## Supply, regulation, and competitive pressures
 
@@ -29,7 +29,7 @@ Competition comes from several directions: other peer-to-peer platforms (VRBO, B
 
 ## Profitability and capital allocation
 
-After years of heavy spending on growth and regulation, Airbnb achieved consistent profitability and positive [free cash flow](/wiki/free-cash-flow/). The company began returning capital to shareholders via share buybacks and eventually initiated dividends. This shift reflects confidence in steady-state unit economics and reduced growth optionality. Host earnings vary by property type, location, seasonality, and local competition; some hosts rely on Airbnb as primary income while others rent part-time. Pricing power comes from peak-demand periods when travelers accept higher nightly rates.
+After years of heavy spending on growth and regulation, Airbnb achieved consistent profitability and positive [free cash flow](/wiki/free-cash-flow/). The company began returning capital to shareholders via [share buybacks](/share-buyback/) and eventually initiated [dividends](/dividend/). This shift reflects confidence in steady-state unit economics and reduced growth optionality. Host earnings vary by property type, location, seasonality, and local competition; some hosts rely on Airbnb as primary income while others rent part-time. Pricing power comes from peak-demand periods when travelers accept higher nightly rates.
 
 ## Trust and risk management
 
@@ -41,7 +41,7 @@ At a glance:
 - Revenue model: commission fees on gross booking value (typically 15-20% combined host + guest fees) plus service charges and emerging revenue streams (long-term stays, Experiences, services)
 - Strong [free cash flow](/wiki/free-cash-flow/) generation and capital returns to shareholders; profitability sensitive to booking volume, average daily rate (ADR), and commission mix
 - Regulatory headwinds in major metropolitan markets (NYC, Paris, Amsterdam, Barcelona) limit supply growth and increase compliance costs; geography and policy risk are material to long-term revenue trajectory
-- Guests are price-sensitive; hosts compete on property quality, location, and pricing; travel demand is discretionary and cyclical, sensitive to macro conditions and recessions
+- Guests are price-sensitive; hosts compete on property quality, location, and pricing; travel demand is discretionary and cyclical, sensitive to macro conditions and [recessions](/recession/)
 - Network effects and brand moat make the platform difficult to displace; competitive threats include other peer-to-peer platforms and traditional hospitality providers
 - Currency exposure from global operations; international bookings reported in multiple currencies create translation risk on consolidated US-dollar earnings
 - Host retention depends on earnings opportunity; guest retention depends on user experience, property quality, and competitive pricing; both sides require continuous investment

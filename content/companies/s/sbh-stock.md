@@ -66,7 +66,7 @@ Capital requirements are moderate: working capital to maintain inventory, store 
 
 Sally Beauty's growth potential hinges on a few variables. Store productivity growth or store count expansion in profitable markets could drive top-line growth, though opening new stores in an era of retail consolidation presents execution risk. BSG expansion by deepening relationships with salons or entering new professional categories could grow that channel.
 
-Cost management and operational efficiency are critical—improving inventory turns, labor productivity, and supply chain management directly flow to profitability. International expansion (Sally Beauty and BSG operate in multiple countries) offers growth if managed profitably.
+Cost management and operational efficiency are critical—improving inventory turns, [labor productivity](/labor-productivity/), and supply chain management directly flow to profitability. International expansion (Sally Beauty and BSG operate in multiple countries) offers growth if managed profitably.
 
 Headwinds are substantial. E-commerce penetration reduces traffic to physical stores and compresses pricing. Professional customers face margin pressure from competition and labor costs, which can suppress their spending on supplies. Manufacturer direct-sales models cut out intermediaries. Consolidation among salon operators could concentrate buyer power, increasing pricing pressure on distributors.
 

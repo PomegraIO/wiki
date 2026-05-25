@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Uni-Fuels is a Singapore-headquartered marine fuel supplier that brokers and trades bunker fuel for shipping companies, competing in a high-volume, thin-margin global market where it has grown rapidly since 2021 but struggles to achieve profitability.**
+**Uni-Fuels is a Singapore-headquartered marine fuel supplier that [brokers](/broker/) and trades bunker fuel for shipping companies, competing in a high-volume, thin-margin global market where it has grown rapidly since 2021 but struggles to achieve profitability.**
 
 ## At a glance
 
@@ -43,12 +43,12 @@ Operating expenses have climbed as Uni-Fuels scales—head count, compliance, cr
 
 ## Risks and dependencies
 
-Uni-Fuels faces several material headwinds. First, fuel supply volatility and price shocks can strain credit lines and collateral cushions; rapid moves in crude oil or refinery outages can widen or narrow margins unpredictably. Second, the shift toward alternative marine fuels (LNG, methanol, ammonia) could erode demand for conventional VLSFO and HSFO over time, though this is a multi-decade transition. Third, regulatory change—from IMO decarbonization rules to labor or tax policy—could reshape margins or operating costs. Fourth, concentrated counterparty risk: a few shipping lines or fuel suppliers represent outsized portions of volume, and credit defaults or supply disruptions could cascade.
+Uni-Fuels faces several material headwinds. First, fuel supply volatility and price shocks can strain credit lines and collateral cushions; rapid moves in [crude oil](/crude-oil/) or refinery outages can widen or narrow margins unpredictably. Second, the shift toward alternative marine fuels (LNG, methanol, ammonia) could erode demand for conventional VLSFO and HSFO over time, though this is a multi-decade transition. Third, regulatory change—from IMO decarbonization rules to labor or tax policy—could reshape margins or operating costs. Fourth, concentrated [counterparty risk](/counterparty-risk/): a few shipping lines or fuel suppliers represent outsized portions of volume, and credit defaults or supply disruptions could cascade.
 
 The company operates with minimal hard assets, relying instead on credit facilities and supplier relationships. If credit conditions tighten or suppliers demand cash terms, liquidity can become constrained. In a shipping downturn, lower trade volumes and vessel utilization would directly reduce fuel demand.
 
 ## How to research it
 
-Uni-Fuels files a [Form 20-F](/wiki/20-f/) (not a 10-K) with the SEC as a foreign private issuer. Annual reports are available on [EDGAR](/wiki/sec/) or via stockdata platforms. Key metrics to track: fuel volumes in metric tons (a proxy for market activity), gross margin (the spread per ton), operating costs, and leverage. Quarterly press releases often disclose port count expansions and regional volumes, which signal geographic ambition but not necessarily profitability. Listen for commentary on credit quality, fuel price spreads (HSFO–VLSFO, or regional variations), and competitive positioning. A sustainable shift to positive net income would require either a persistent margin recovery (difficult in such a competitive market) or dramatic operational leverage from fixed costs.
+Uni-Fuels files a [Form 20-F](/wiki/20-f/) (not a 10-K) with the SEC as a foreign private issuer. [Annual reports](/10-k/) are available on [EDGAR](/wiki/sec/) or via stockdata platforms. Key metrics to track: fuel volumes in metric tons (a proxy for market activity), gross margin (the spread per ton), operating costs, and leverage. Quarterly press releases often disclose port count expansions and regional volumes, which signal geographic ambition but not necessarily profitability. Listen for commentary on credit quality, fuel price spreads (HSFO–VLSFO, or regional variations), and competitive positioning. A sustainable shift to positive net income would require either a persistent margin recovery (difficult in such a competitive market) or dramatic operational leverage from fixed costs.
 
-The stock trades on NASDAQ under UFG and has attracted interest from value and growth investors alike, though the path to sustained profitability remains uncertain at current volumes and margins.
+The stock trades on [NASDAQ](/nasdaq/) under UFG and has attracted interest from value and growth investors alike, though the path to sustained profitability remains uncertain at current volumes and margins.

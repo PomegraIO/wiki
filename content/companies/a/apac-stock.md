@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-StoneBridge Acquisition II is a special-purpose acquisition company ([SPAC](/wiki/special-purpose-acquisition-company/)) formed to identify and consummate a [merger](/wiki/merger/) or business combination with an operating company. Incorporated in the Cayman Islands and trading on the Nasdaq under the ticker APAC, the company raised capital through its initial public offering in October 2025, providing a war chest for the sponsorship team to deploy toward its target acquisition.
+StoneBridge [Acquisition](/acquisition/) II is a special-purpose acquisition company ([SPAC](/wiki/special-purpose-acquisition-company/)) formed to identify and consummate a [merger](/wiki/merger/) or [business combination](/business-combination-purchase/) with an operating company. Incorporated in the Cayman Islands and trading on the [Nasdaq](/nasdaq/) under the ticker APAC, the company raised capital through its [initial public offering](/initial-public-offering/) in October 2025, providing a war chest for the sponsorship team to deploy toward its target acquisition.
 
 The company's investment mandate casts a wide net across geographies and sectors. StoneBridge intends to pursue transactions in Asia Pacific, Europe, the Middle East, and Africa—regions with emerging digital ecosystems and growth-stage opportunities. Its target verticals include electronic commerce, financial technology, software-as-a-service, renewable energy, mining, and information technology services. This geographic and sectoral breadth reflects a strategy common to many modern SPACs: to remain opportunistic rather than narrowly focused, giving sponsors flexibility as they scout for targets.
 

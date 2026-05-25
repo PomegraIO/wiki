@@ -17,15 +17,15 @@ Brookfield Corporation is a multinational alternative-asset manager headquartere
 
 The roots trace to 1899, when William Mackenzie and Frederick Stark Pearson founded what became the São Paulo Tramway, Light and Power Company, constructing and managing electricity and transport infrastructure in Brazil. That foundation—building and running essential infrastructure—would define the company's DNA for over a century.
 
-The modern chapter began in 1959, when brothers Peter and Edward Bronfman established Edper Investments, which grew into a North American conglomerate. In 1997, a merger between Edper Group and Brascan Ltd. created EdperBrascan Corporation, which later adopted the Brookfield name. That union of Edper's financial engineering with Brascan's operating heritage produced something novel: a company structured neither as a pure utility, nor as a typical conglomerate, but as a holding company capable of deploying permanent capital at scale across multiple asset classes.
+The modern chapter began in 1959, when brothers Peter and Edward Bronfman established Edper Investments, which grew into a North American conglomerate. In 1997, a [merger](/merger/) between Edper Group and Brascan Ltd. created EdperBrascan Corporation, which later adopted the Brookfield name. That union of Edper's financial engineering with Brascan's operating heritage produced something novel: a company structured neither as a pure utility, nor as a typical conglomerate, but as a holding company capable of deploying permanent capital at scale across multiple asset classes.
 
-Throughout the 2000s and 2010s, Brookfield systematized this model. It acquired power-generation assets, expanded into toll roads and airports, assembled a significant real-estate portfolio, and built an asset-management arm. The 2022 acquisition of Oaktree Capital (a $150+ billion credit specialist founded by Howard Marks) marked a decisive step: Brookfield transformed from a real-asset operator into a comprehensive alternative-asset manager, blending operating expertise, patient capital, and distressed-credit capabilities.
+Throughout the 2000s and 2010s, Brookfield systematized this model. It acquired power-generation assets, expanded into toll roads and airports, assembled a significant real-estate portfolio, and built an asset-management arm. The 2022 acquisition of Oaktree Capital (a $150+ billion credit specialist founded by [Howard Marks](/howard-marks/)) marked a decisive step: Brookfield transformed from a real-asset operator into a comprehensive alternative-asset manager, blending operating expertise, patient capital, and distressed-credit capabilities.
 
 ## The Business Today
 
 Brookfield now operates through seven primary segments: **Asset Management**, **Wealth Solutions**, **Renewable Power and Transition**, **Infrastructure**, **Private Equity**, **Real Estate**, and Corporate overhead.
 
-**Asset Management** oversees approximately $800+ billion in perpetual and third-party-raised capital. It sources investment opportunities, deploys capital from its own balance sheet, and sponsors fee-generating vehicles (closed-end funds, liquid strategies, perpetual accounts) that attract institutional and high-net-worth investors. Fee income scales as assets under management grow.
+**Asset Management** oversees approximately $800+ billion in perpetual and third-party-raised capital. It sources investment opportunities, deploys capital from its own [balance sheet](/balance-sheet/), and sponsors fee-generating vehicles ([closed-end funds](/closed-end-fund/), liquid strategies, perpetual accounts) that attract institutional and high-net-worth investors. Fee income scales as assets under management grow.
 
 **Renewable Power and Transition** owns and operates hydroelectric stations, wind farms, and utility-scale solar facilities, with a growing focus on distributed energy and decarbonization infrastructure. Brookfield has become a leading investor in the energy transition, with dedicated billions-dollar funds targeted at decarbonization themes.
 
@@ -39,9 +39,9 @@ A defining feature is the **perpetual capital model**—roughly $150+ billion of
 
 ## Revenue and Earnings Dynamics
 
-Revenue comes from three streams: operating cash flow from owned assets (power stations, toll roads, airports, rental properties), management fees from third-party capital under administration, and gains from selling or restructuring assets. Operating income from owned assets is relatively stable and yields steady returns to shareholders. Fee income expands as Brookfield raises and manages more third-party capital. Monetizations—selling mature assets or interests to third-party investors or exit partners—create periodic realized gains and recycle proceeds back into new opportunities.
+Revenue comes from three streams: operating cash flow from owned assets (power stations, toll roads, airports, rental properties), [management fees](/management-fee/) from third-party capital under administration, and gains from selling or restructuring assets. Operating income from owned assets is relatively stable and yields steady returns to shareholders. Fee income expands as Brookfield raises and manages more third-party capital. Monetizations—selling mature assets or interests to third-party investors or exit partners—create periodic realized gains and recycle proceeds back into new opportunities.
 
-In 2024–2025, Brookfield reported strong monetization volume ($75+ billion year-to-date in 2025), reflecting aggressive realization of value and redeployment into new acquisitions. This recycling engine allows Brookfield to compound capital at targeted rates exceeding 15% annually.
+In 2024–2025, Brookfield reported strong monetization volume ($75+ billion year-to-date in 2025), reflecting aggressive realization of value and redeployment into new [acquisitions](/acquisition/). This recycling engine allows Brookfield to compound capital at targeted rates exceeding 15% annually.
 
 ## Competitive Position and Moat
 
@@ -55,9 +55,9 @@ Finally, the **Oaktree integration** merges a $150+ billion global credit platfo
 
 ## Risks and Pressures
 
-**Interest-rate and refinancing risk** is material. Brookfield carries meaningful leverage across its portfolio; if funding costs rise sharply or credit markets tighten, refinancing older debt or funding new acquisitions becomes expensive. The company's long-dated assets help (they generate stable cash over decades), but leverage remains a structural risk.
+**Interest-rate and [refinancing risk](/refinancing-risk/)** is material. Brookfield carries meaningful leverage across its portfolio; if funding costs rise sharply or credit markets tighten, refinancing older debt or funding new acquisitions becomes expensive. The company's long-dated assets help (they generate stable cash over decades), but leverage remains a structural risk.
 
-**Inflation and cost-of-living cycles** can pressure the real-estate and hospitality segments if economic growth slows or demand softens. Office properties face particular headwinds as hybrid work persists, reducing corporate leasing demand in some markets.
+**[Inflation](/inflation/) and cost-of-living cycles** can pressure the real-estate and hospitality segments if economic growth slows or demand softens. Office properties face particular headwinds as hybrid work persists, reducing corporate leasing demand in some markets.
 
 **Transition risk** is a flip side of opportunity: the energy transition requires billions in new renewable and grid infrastructure, but policy shifts, subsidy changes, or technological disruption could alter return expectations. Brookfield is betting heavily on this sector.
 
@@ -75,6 +75,6 @@ Track **assets under administration** and **fee revenue**. As these grow, the co
 
 Study segment returns: Brookfield discloses or guides to targeted IRRs (internal rates of return) on new acquisitions by asset class. Over time, assess whether actual realized returns in a cohort match expectations—a signal of acquisition discipline and integration skill.
 
-Finally, monitor the **cost of capital**: debt refinancings, credit spreads on Brookfield's bonds, and the terms of new fund fundraising. In tightening credit conditions, Brookfield's scale and investment-grade ratings should insulate it, but persistently elevated rates reduce return targets company-wide.
+Finally, monitor the **cost of capital**: debt refinancings, [credit spreads](/credit-spread/) on Brookfield's [bonds](/bond/), and the terms of new fund fundraising. In tightening credit conditions, Brookfield's scale and investment-grade ratings should insulate it, but persistently elevated rates reduce return targets company-wide.
 
 For thematic investors, Brookfield is a primary vehicle for transition and decarbonization exposure: its renewable-power and transition segments have grown into multi-hundred-billion-dollar platforms. The [renewable-energy](/wiki/renewable-displacement/) and infrastructure thesis overlaps considerably with Brookfield's core positioning.

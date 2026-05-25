@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Bloom Energy Corp manufactures solid oxide fuel cells and related energy systems that produce power on-site at customer locations, bypassing the grid for critical loads and enabling a transition toward cleaner, more resilient energy infrastructure. The company's core product, marketed as the Bloom Energy Server (or "Bloom Box"), is a modular power plant that converts fuel — historically natural gas, but increasingly biogas and other fuels — into electricity through an electrochemical process. Unlike conventional power plants that rely on combustion and moving parts, solid oxide fuel cell technology is quieter, more efficient, and produces fewer emissions. Bloom sells primarily to data center operators, telecommunications firms, industrial manufacturers, and utilities seeking to improve reliability, lower operating costs, and meet sustainability commitments.
+Bloom Energy Corp manufactures solid oxide fuel cells and related energy systems that produce power on-site at customer locations, bypassing the grid for critical loads and enabling a transition toward cleaner, more resilient energy infrastructure. The company's core product, marketed as the Bloom Energy Server (or "Bloom Box"), is a modular power plant that converts fuel — historically [natural gas](/natural-gas/), but increasingly biogas and other fuels — into electricity through an electrochemical process. Unlike conventional power plants that rely on combustion and moving parts, solid oxide fuel cell technology is quieter, more efficient, and produces fewer emissions. Bloom sells primarily to data center operators, telecommunications firms, industrial manufacturers, and utilities seeking to improve reliability, lower operating costs, and meet sustainability commitments.
 
 <aside class="wiki-infobox">
 <table>
@@ -62,7 +62,7 @@ Bloom is not alone in the fuel cell space, though it is the largest U.S. manufac
 
 Bloom's advantages lie in proven efficiency, modularity, the long operating life of its fuel cell stacks, and partnerships with major customers and suppliers. The risks are significant too: the technology is capital-intensive, competition from battery storage and renewables is intensifying, and the hydrogen economy that Bloom is betting on remains largely speculative. A shift in energy policy—say, a sharp tax on natural gas or a massive buildout of transmission to move renewable power efficiently—could reshape Bloom's addressable market.
 
-The regulatory environment is a double-edged sword. Fuel cells are classified as clean generation in many jurisdictions, making them eligible for tax credits, renewable energy credits, and other incentives. The U.S. Inflation Reduction Act and similar policies globally have created tailwinds. But changes in policy, reduction of incentives, or stricter fuel standards could squeeze the business.
+The regulatory environment is a double-edged sword. Fuel cells are classified as clean generation in many jurisdictions, making them eligible for tax credits, renewable energy credits, and other incentives. The U.S. [Inflation](/inflation/) Reduction Act and similar policies globally have created tailwinds. But changes in policy, reduction of incentives, or stricter fuel standards could squeeze the business.
 
 ## Understanding Bloom's financials and future
 

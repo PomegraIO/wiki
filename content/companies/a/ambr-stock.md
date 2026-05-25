@@ -16,7 +16,7 @@ Amber International Holding Ltd (AMBR) is a crypto-focused financial services co
 
 ## How did the company arrive at its current business?
 
-The company underwent a dramatic transformation in 2025. Originally incorporated as iClick Interactive Asia Group Limited—a digital marketing and data analytics firm serving Asian clients—it completed a merger with Amber DWM Holding Limited in March 2025, the digital wealth management division of Amber Group, a crypto-native financial services firm. This merger essentially remade the company from a marketing analytics business into an institutional crypto services provider, representing a complete shift in business model, customer base, and geographic focus.
+The company underwent a dramatic transformation in 2025. Originally incorporated as iClick Interactive Asia Group Limited—a digital marketing and data analytics firm serving Asian clients—it completed a [merger](/merger/) with Amber DWM Holding Limited in March 2025, the digital wealth management division of Amber Group, a crypto-native financial services firm. This merger essentially remade the company from a marketing analytics business into an institutional crypto services provider, representing a complete shift in business model, customer base, and geographic focus.
 
 ## Who uses these services?
 
@@ -24,7 +24,7 @@ The platform caters to institutional investors, asset managers, and high-net-wor
 
 ## Where does the money come from?
 
-Revenue generation likely flows from transaction fees on trades executed through the platform, management fees for assets under administration, and subscription charges for premium features and dedicated support. The company raised $25.5 million through a private placement in June 2025, backed by prominent crypto investors including Pantera Capital, Harvest Capital, Mile Green, and Choco Up, signaling institutional confidence in the business model and growth trajectory.
+Revenue generation likely flows from transaction fees on trades executed through the platform, [management fees](/management-fee/) for assets under administration, and subscription charges for premium features and dedicated support. The company raised $25.5 million through a [private placement](/private-placement/) in June 2025, backed by prominent crypto investors including Pantera Capital, Harvest Capital, Mile Green, and Choco Up, signaling institutional confidence in the business model and growth trajectory.
 
 ## Where does it fit in the market?
 

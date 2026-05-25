@@ -26,7 +26,7 @@ Aris funds exploration through equity raised in the capital markets, since opera
 
 ## Geographic and commodity exposure
 
-Aris's portfolio spans multiple jurisdictions—Alaska, Canada, and South American countries—and focuses on gold and copper. Precious metals (gold, silver) and base metals (copper, zinc, lithium) drive investor interest in different cycles. Gold rallies during inflation scares and geopolitical stress; copper surges on economic optimism and manufacturing demand. Aris's stock price correlates with both commodity prices and exploration sector sentiment. A sharp rise in gold can spark a rerating of all junior gold explorers; conversely, a commodity crash freezes capital markets for juniors and forces consolidation.
+Aris's portfolio spans multiple jurisdictions—Alaska, Canada, and South American countries—and focuses on gold and copper. Precious metals (gold, silver) and base metals (copper, zinc, lithium) drive investor interest in different cycles. Gold rallies during [inflation](/inflation/) scares and geopolitical stress; copper surges on economic optimism and manufacturing demand. Aris's stock price correlates with both commodity prices and exploration sector sentiment. A sharp rise in gold can spark a rerating of all junior gold explorers; conversely, a commodity crash freezes capital markets for juniors and forces consolidation.
 
 ## Investors in exploration
 

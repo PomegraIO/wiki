@@ -19,7 +19,7 @@ The business works because container shipping is capital-intensive and cyclical.
 
 The story traces back to Dimitris Coustas, a Greek shipping entrepreneur who ventured into the business in the early 1960s. Coustas purchased his first vessel in 1963—a 3,600-ton general-purpose freighter—and gradually expanded his holdings through the 1970s and beyond. In 1972, he consolidated the business and renamed it Danaos Shipping. When his son, John Coustas, stepped in as Managing Director in 1987, the firm was already a meaningful player in the tanker and bulk shipping markets.
 
-The pivot to containerships happened gradually, but by 2006, when the company went public on the New York Stock Exchange under the ticker DAC, it was clear where the strategy was headed. Over the next two decades, Danaos systematically built and acquired container tonnage, gradually shifting away from tankers and dry bulk until containerships became the dominant part of the fleet. This focus paid off; container demand grew steadily as e-commerce and just-in-time supply chains expanded globally.
+The pivot to containerships happened gradually, but by 2006, when the company went public on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker DAC, it was clear where the strategy was headed. Over the next two decades, Danaos systematically built and acquired container tonnage, gradually shifting away from tankers and dry bulk until containerships became the dominant part of the fleet. This focus paid off; container demand grew steadily as e-commerce and just-in-time supply chains expanded globally.
 
 ## The model: fixing the cycle
 

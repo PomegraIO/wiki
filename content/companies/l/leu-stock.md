@@ -36,7 +36,7 @@ For decades, the company was essentially the only domestic source of enriched ur
 
 Centrus operates the American Centrifuge Plant in Pike County, Ohio, one of only a handful of commercial uranium enrichment facilities in the world. The company purchases natural uranium (mined abroad and domestically), enriches it to the 3–5% U-235 concentration used in most commercial reactors, and sells the finished fuel to [utilities](/wiki/stock/) and reactor operators. Revenue comes from per-kilogram enrichment fees plus occasional fuel sales. The business is recurring—every operating reactor needs steady fuel resupply—but it is also tied to reactor fleet utilization and the pace of decommissioning in mature markets.
 
-For many years, Centrus competed against cheaper Russian imports, a contest settled partly by geopolitics and partly by the strength of the US dollar. Sanctions, tariffs, and government buy-America policies have favored domestic fuel, making Centrus the natural choice for domestic nuclear stations. The company also exports LEU to allied nations under strict government licensing.
+For many years, Centrus competed against cheaper Russian imports, a contest settled partly by geopolitics and partly by the strength of the [US dollar](/us-dollar/). Sanctions, tariffs, and government buy-America policies have favored domestic fuel, making Centrus the natural choice for domestic nuclear stations. The company also exports LEU to allied nations under strict government licensing.
 
 ## A bet on advanced reactors
 
@@ -48,7 +48,7 @@ Regulatory support has been decisive. The federal government, eager to establish
 
 ## Financial pressures and leverage
 
-The capital intensity of enrichment and the volatility of fuel prices have made Centrus a leveraged player. The company has carried significant debt while investing in the Ohio plant and HALEU infrastructure. Operating margins are thin; scale matters, and downtime at the enrichment facility or a dip in reactor utilization can stress cash flow. The company is profitable but sensitive to commodity pricing and customer demand.
+The capital intensity of enrichment and the volatility of fuel prices have made Centrus a leveraged player. The company has carried significant debt while investing in the Ohio plant and HALEU infrastructure. [Operating margins](/operating-margin/) are thin; scale matters, and downtime at the enrichment facility or a dip in reactor utilization can stress cash flow. The company is profitable but sensitive to commodity pricing and customer demand.
 
 Centrus must also manage geopolitical headwinds. Russian and other foreign competitors remain cost leaders, and any relaxation in US policy toward Russian energy could undermine the domestic fuel premium that supports pricing. Conversely, any disruption to international supply—whether by sanction or incident—creates opportunity. The company has benefited from the post-2022 tightening of Russia relations, but that policy can shift.
 

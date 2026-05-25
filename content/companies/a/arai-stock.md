@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Arrive AI develops an autonomous last-mile delivery ecosystem centered on AI-powered smart mailboxes that enable secure package exchange by robots, drones, and people.** Headquartered in Fishers, Indiana, the company went public via SPAC merger and operates in the emerging intersection of robotics, logistics automation, and package infrastructure.
+**Arrive AI develops an autonomous last-mile delivery ecosystem centered on AI-powered smart mailboxes that enable secure package exchange by robots, drones, and people.** Headquartered in Fishers, Indiana, the company went public via SPAC [merger](/merger/) and operates in the emerging intersection of robotics, logistics automation, and package infrastructure.
 
 ## The Smart Mailbox Model
 

@@ -12,7 +12,7 @@ handwritten: true
 
 ## Who owns and operates Adecoagro?
 
-Adecoagro is a public [stock](/wiki/stock/) company trading on U.S. over-the-counter markets and regional South American exchanges under ticker AGRO. The company holds substantial operations across three countries—Argentina, Uruguay, and Bolivia—and operates as a multi-asset agricultural enterprise combining land ownership, livestock operations, and commodity processing rather than specializing in a single product line.
+Adecoagro is a public [stock](/wiki/stock/) company trading on U.S. [over-the-counter markets](/over-the-counter-market/) and regional South American exchanges under ticker AGRO. The company holds substantial operations across three countries—Argentina, Uruguay, and Bolivia—and operates as a multi-asset agricultural enterprise combining land ownership, livestock operations, and commodity processing rather than specializing in a single product line.
 
 ## What business segments drive the company?
 
@@ -24,7 +24,7 @@ Revenue streams are tied to commodity prices and land productivity. Cattle sales
 
 ## What are the financial characteristics and risks?
 
-As an operator of natural-asset businesses, Adecoagro carries commodity price exposure across cattle, sugar, ethanol, and grains. Currency risk is material: the company operates in multiple countries with different economic conditions and reports earnings in U.S. dollars while transacting in Argentine pesos, Uruguayan pesos, and Bolivian bolivianos. South American regulatory, political, and inflation environments introduce volatility that domestic agricultural companies do not face. Land values fluctuate based on regional demand, currency shifts, and agricultural policy changes. The company's success depends on effective pasture and herd management, timely harvests, and favorable commodity spreads—particularly the crush margin between sugarcane input cost and ethanol output price.
+As an operator of natural-asset businesses, Adecoagro carries commodity price exposure across cattle, sugar, ethanol, and grains. [Currency risk](/currency-risk/) is material: the company operates in multiple countries with different economic conditions and reports earnings in U.S. dollars while transacting in Argentine pesos, Uruguayan pesos, and Bolivian bolivianos. South American regulatory, political, and [inflation](/inflation/) environments introduce volatility that domestic agricultural companies do not face. Land values fluctuate based on regional demand, currency shifts, and agricultural policy changes. The company's success depends on effective pasture and herd management, timely harvests, and favorable commodity spreads—particularly the crush margin between sugarcane input cost and ethanol output price.
 
 ## Why would an investor look at it?
 

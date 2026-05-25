@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-ENI is one of Europe's oldest and largest integrated energy companies, and one of Italy's most significant industrial enterprises. Founded in the 1950s and now a global enterprise, ENI operates across the full spectrum of the energy business: exploring for and producing oil and natural gas, refining and marketing petroleum products, generating power, and increasingly investing in renewable energy and hydrogen. Its scale and geographic reach—with operations spanning from the North Sea and the Mediterranean to Africa, Russia, and Southeast Asia—make it a bellwether for European energy transition strategy and geopolitical energy supply.
+ENI is one of Europe's oldest and largest integrated energy companies, and one of Italy's most significant industrial enterprises. Founded in the 1950s and now a global enterprise, ENI operates across the full spectrum of the energy business: exploring for and producing oil and [natural gas](/natural-gas/), refining and marketing petroleum products, generating power, and increasingly investing in renewable energy and hydrogen. Its scale and geographic reach—with operations spanning from the North Sea and the Mediterranean to Africa, Russia, and Southeast Asia—make it a bellwether for European energy transition strategy and [geopolitical energy](/geopolitical-energy/) supply.
 
 ## A Half-Century of Italian Industrial Leadership
 
@@ -20,7 +20,7 @@ ENI was privatized in stages starting in the 1990s, transforming from a creature
 
 ## How the Business Works
 
-At its core, ENI remains an integrated oil and gas company. The exploration and production (E&P) arm hunts for crude oil and natural gas in dozens of concessions worldwide, with significant exposure to the North Sea, the Mediterranean, West Africa (particularly Nigeria), and Southeast Asia. Oil and gas production is the beating heart: these commodities are ENI's largest profit driver and the source of the cash that funds everything else.
+At its core, ENI remains an integrated oil and gas company. The exploration and production (E&P) arm hunts for [crude oil](/crude-oil/) and natural gas in dozens of concessions worldwide, with significant exposure to the North Sea, the Mediterranean, West Africa (particularly Nigeria), and Southeast Asia. Oil and gas production is the beating heart: these commodities are ENI's largest profit driver and the source of the cash that funds everything else.
 
 Downstream, ENI operates refineries in Italy and elsewhere, turning crude oil into gasoline, diesel, jet fuel, and other refined products. It sells these through its retail brands and supply contracts to industrial customers. This segment is typically lower-margin than E&P but provides geographic and commercial stability; refining buffers against pure upstream commodity swings.
 
@@ -48,9 +48,9 @@ Capital allocation is the proof point. Each year, ENI must decide how much cash 
 
 ## Cyclicality, Leverage, and Returns
 
-ENI's earnings are highly sensitive to oil and gas prices. When crude averages above $80 per barrel, the company generates substantial cash and can return capital to shareholders via dividends and share buybacks. When prices collapse below $40, free cash flow dries up, and the company must husband liquidity and may cut the dividend. This cyclicality is fundamental: no amount of renewable energy investment changes the fact that oil and gas price volatility drives the business.
+ENI's earnings are highly sensitive to oil and gas prices. When crude averages above $80 per barrel, the company generates substantial cash and can return capital to shareholders via [dividends](/dividend/) and [share buybacks](/share-buyback/). When prices collapse below $40, [free cash flow](/free-cash-flow/) dries up, and the company must husband liquidity and may cut the dividend. This cyclicality is fundamental: no amount of renewable energy investment changes the fact that oil and gas price volatility drives the business.
 
-The company typically carries moderate leverage (debt-to-equity ratios of 0.4 to 0.6), which is manageable for an oil major but leaves less cushion during price downturns than peers with fortress balance sheets. Dividend yield is a core attraction to income-oriented investors, but that yield depends on sustained cash generation at normalized commodity prices.
+The company typically carries moderate leverage ([debt-to-equity ratios](/debt-to-equity-ratio/) of 0.4 to 0.6), which is manageable for an oil major but leaves less cushion during price downturns than peers with fortress [balance sheets](/balance-sheet/). [Dividend yield](/dividend-yield/) is a core attraction to income-oriented investors, but that yield depends on sustained cash generation at normalized commodity prices.
 
 Return on capital has been mediocre for years, particularly when measured over commodity cycles. This is a common problem for oil majors: the industry requires massive capital outlays for exploration, field development, and infrastructure, and the returns are lumpy and risky. ENI is no exception. The company has undertaken major projects—deepwater fields in Angola, gas developments in Mozambique, Egyptian production—with mixed results, cost overruns, and schedule delays.
 
@@ -58,7 +58,7 @@ Return on capital has been mediocre for years, particularly when measured over c
 
 Beyond commodity price volatility, ENI faces several specific headwinds. Geological risk is real: exploration drilling often fails to find economically viable reserves, and major projects can underperform reserves estimates. Regulatory and political risk in operating countries is material; host governments can change terms, impose windfall taxes, or restrict operations. The energy transition creates earnings uncertainty: even if the company successfully shifts its portfolio, the transition away from fossil fuels will compress profitability in the medium term.
 
-Competitive pressure from larger integrated majors and from specialized renewable and gas utilities is increasing. ENI is large but not as large as Exxon Mobil or Saudi Aramco, and it must compete for capital, acquisitions, and partnerships against stronger and wealthier competitors. Currency exposure is another factor: ENI reports in euros but earns significant revenue in dollars; a weak dollar reduces reported earnings and cash generation.
+Competitive pressure from larger integrated majors and from specialized renewable and gas utilities is increasing. ENI is large but not as large as Exxon Mobil or Saudi Aramco, and it must compete for capital, [acquisitions](/acquisition/), and partnerships against stronger and wealthier competitors. Currency exposure is another factor: ENI reports in euros but earns significant revenue in dollars; a weak dollar reduces reported earnings and cash generation.
 
 The company's Italian roots, while historically an asset, complicate governance and strategic independence. Government shareholding, Italy's energy security concerns, and domestic labor politics all influence decision-making in ways that pure profit maximization might not dictate.
 

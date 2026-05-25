@@ -33,7 +33,7 @@ This positioning as a supplier rather than a branded consumer brand means FGI do
 
 ## Market and geography
 
-FGI's primary markets are Australia and New Zealand, where it has established distribution networks and manufacturing presence. Both markets experience cyclical demand tied to new residential construction and the renovation cycle; when housing starts or renovation investment picks up, demand for fixtures and fittings follows. The company also exports to select regional markets, though international exposure appears to be smaller than the home market.
+FGI's [primary markets](/primary-market/) are Australia and New Zealand, where it has established distribution networks and manufacturing presence. Both markets experience cyclical demand tied to new residential construction and the renovation cycle; when housing starts or renovation investment picks up, demand for fixtures and fittings follows. The company also exports to select regional markets, though international exposure appears to be smaller than the home market.
 
 The business is inherently tied to construction cycles and consumer spending on home improvement. In downturns, renovation budgets shrink and builders defer non-essential projects. In upswings, new housing, particularly multi-unit apartments and townhouses, can drive significant orders for bathrooms and kitchens in bulk. Australian and New Zealand property markets have experienced extended cycles of strong demand followed by periods of correction; FGI's earnings have moved with those shifts.
 
@@ -51,7 +51,7 @@ The mix between basic sanitaryware and higher-margin finished products like bath
 
 ## What could pressure FGI's earnings
 
-Several factors create risk. Construction downturns directly reduce demand for new fixtures. Import competition from Asia (where manufacturers have lower labor costs) exerts constant pressure on local players like FGI. Currency movements between the Australian dollar and the currencies of key export markets affect competitiveness. Supply-chain disruptions, particularly for raw materials and components, can hit margins if input costs spike and the company cannot pass them to customers.
+Several factors create risk. Construction downturns directly reduce demand for new fixtures. Import competition from Asia (where manufacturers have lower labor costs) exerts constant pressure on local players like FGI. Currency movements between the [Australian dollar](/australian-dollar/) and the currencies of key export markets affect competitiveness. Supply-chain disruptions, particularly for raw materials and components, can hit margins if input costs spike and the company cannot pass them to customers.
 
 Regulatory changes in building codes or water efficiency standards (which governments periodically tighten) can require product redesign and retooling, especially if new standards make existing inventory obsolete. On the competitive side, if larger multinational suppliers choose to invest more aggressively in the ANZ region, or if imported products gain retail shelf space, a smaller local manufacturer faces margin pressure.
 

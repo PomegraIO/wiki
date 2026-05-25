@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Hong Kong-based cryptocurrency miner and digital platform operator.** Abits Group straddles two businesses: bitcoin mining operations in the United States and support services for the Games Channel within China's Xinhua News App ecosystem. The company rebranded to Abits in November 2023 after operating under the Moxian name since its 2021 incorporation.
+**Hong Kong-based cryptocurrency miner and digital platform operator.** Abits Group straddles two businesses: [bitcoin](/bitcoin/) mining operations in the United States and support services for the Games Channel within China's Xinhua News App ecosystem. The company rebranded to Abits in November 2023 after operating under the Moxian name since its 2021 incorporation.
 
 ## Mining and Platform Services
 
@@ -27,7 +27,7 @@ Listed on [NASDAQ](/wiki/stock-exchange/) under [ABTS](/wiki/abts-stock/), the c
 - **Operations:** Bitcoin mining (US-based); Games Channel services (Xinhua platform)
 - **Founded:** 2021 as Moxian BVI Inc
 - **Rebranded:** November 2023 to Abits Group Inc
-- **Exchange:** NASDAQ
+- **Exchange:** [NASDAQ](/nasdaq/)
 - **Ticker:** ABTS
 - **SEC CIK:** 1864055
 - **CEO:** Conglin Deng

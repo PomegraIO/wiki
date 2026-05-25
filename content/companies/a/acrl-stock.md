@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Atacama Resources International is a mineral exploration and claim development company, not a producing mine operator.** The firm, headquartered in Orlando, Florida, holds exploration properties and mining claims in Canada, targeting multiple commodity types including gold, cobalt, lithium, rare earth metals, silver, nickel, graphite, and diamonds. Trading on over-the-counter markets rather than a major exchange, Atacama operates at the very early stage of mining—identifying geological prospects and assembling claim packages rather than extracting ore.
+**Atacama Resources International is a mineral exploration and claim development company, not a producing mine operator.** The firm, headquartered in Orlando, Florida, holds exploration properties and mining claims in Canada, targeting multiple commodity types including gold, cobalt, lithium, [rare earth metals](/rare-earth-metals/), silver, nickel, graphite, and diamonds. Trading on [over-the-counter markets](/over-the-counter-market/) rather than a major exchange, Atacama operates at the very early stage of mining—identifying geological prospects and assembling claim packages rather than extracting ore.
 
 The company was incorporated in 2013, originally as Arrakis Mining Research Inc., before rebranding to Atacama Resources International in January 2015. This name shift reflected a strategic reorientation, though the core business model remained constant: accumulating Canadian mineral claims and conducting exploration work to evaluate their potential. Like many junior exploration vehicles, Atacama functions with limited cash, relying on [equity](/wiki/equity-offering/) issuance to fund field work and claims administration.
 

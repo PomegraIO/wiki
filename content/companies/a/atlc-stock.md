@@ -20,7 +20,7 @@ The firm generates revenue through origination fees on loans it underwrites, int
 
 ## Who uses Atlanticus's lending platforms?
 
-The company's customer base consists of individuals seeking installment loans for personal needs: debt consolidation, home improvement, and major purchases. These borrowers typically have credit scores or financial profiles that fall outside the traditional prime lending market, making online platforms like Atlanticus's particularly valuable to them. The digital model eliminates branch friction and allows faster decisioning.
+The company's customer base consists of individuals seeking installment loans for personal needs: [debt consolidation](/debt-consolidation/), home improvement, and major purchases. These borrowers typically have credit scores or financial profiles that fall outside the traditional prime lending market, making online platforms like Atlanticus's particularly valuable to them. The digital model eliminates branch friction and allows faster decisioning.
 
 ## Why does Atlanticus exist in this market?
 
@@ -28,4 +28,4 @@ The traditional banking system leaves pockets of consumer demand underserved—b
 
 ## What risks affect Atlanticus?
 
-Consumer lending is sensitive to economic cycles; if unemployment rises or consumer confidence falls, loan defaults spike and originations slow. Interest rate movements affect both the cost of funding and borrower demand. Regulatory oversight of lending practices, truth-in-lending compliance, and state-level usury laws create compliance burdens. Competition from banks entering online lending, fintech startups, and other consumer finance companies pressures margins. Portfolio quality—the credit worthiness of borrowers—is always a concern, and if underwriting discipline slips, losses can mount quickly.
+Consumer lending is sensitive to economic cycles; if unemployment rises or consumer confidence falls, loan defaults spike and originations slow. [Interest rate](/interest-rate/) movements affect both the cost of funding and borrower demand. Regulatory oversight of lending practices, truth-in-lending compliance, and state-level usury laws create compliance burdens. Competition from banks entering online lending, fintech startups, and other consumer finance companies pressures margins. Portfolio quality—the credit worthiness of borrowers—is always a concern, and if underwriting discipline slips, losses can mount quickly.

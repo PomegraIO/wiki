@@ -20,7 +20,7 @@ The company's therapeutic focus gravitates toward regenerative medicine and cond
 
 Regencell was incorporated in Hong Kong and went public on the OTC Markets under ticker RGC. Details of its early formation and initial capitalization are sparse in public filings, reflecting typical small-cap opacity. The company began as a modest TCM research venture with connections to academic collaborators in both Hong Kong and mainland China. Over several years it accumulated patents on herbal extraction methods and accumulated preliminary data on botanical compounds.
 
-Until 2025, the stock was a microcap—thinly traded, rarely covered by analysts, and considered a speculative play on the broader interest in ethnobotany and Asian medicine. It had the hallmarks of an early-stage research company: small revenues, high cash burn, a long runway before clinical relevance, and share dilution from successive financing rounds. Most investors had never heard of it.
+Until 2025, the stock was a microcap—thinly traded, rarely covered by analysts, and considered a speculative play on the broader interest in ethnobotany and Asian medicine. It had the hallmarks of an early-stage research company: small revenues, high cash burn, a long runway before clinical relevance, and [share dilution](/share-dilution/) from successive financing rounds. Most investors had never heard of it.
 
 ## What triggered the 2025 spike?
 
@@ -46,7 +46,7 @@ The company also faces regulatory uncertainty. Different jurisdictions handle bo
 
 Intellectual property is another consideration. Patents on plant compounds and extraction methods can be litigious and are occasionally weak—competitors may develop similar preparations that fall outside the patent scope, or invalidation challenges may erode protection. Regencell must also contend with the reality that some of its botanical source material is ancient public knowledge, which limits patent defensibility relative to novel synthetic drugs.
 
-There is also market risk: if consumer sentiment shifts away from herbal medicine or if a competing herbal remedy from a better-capitalized firm reaches market first, Regencell's candidates may struggle. The company has no proven commercial footprint—it has not yet launched a single product into a major market.
+There is also [market risk](/market-risk/): if consumer sentiment shifts away from herbal medicine or if a competing herbal remedy from a better-capitalized firm reaches market first, Regencell's candidates may struggle. The company has no proven commercial footprint—it has not yet launched a single product into a major market.
 
 ## How do investors research this?
 
@@ -62,6 +62,6 @@ Finally, the 2025 spike itself merits skepticism. Extraordinary price moves in t
 
 Regencell represents a small but growing category: the publicly traded botanical pharmaceutical developer. Firms like it are neither consumer supplement companies (which operate with minimal regulation) nor traditional big pharma (which pursues synthetic drugs). They occupy a middle ground where science and tradition intersect, and where regulatory evolution may create opportunities or obstacles.
 
-The 2025 episode exemplifies both the opportunity and the risk in this category. Opportunity: as healthcare systems worldwide grapple with chronic disease and pharmaceutical costs, interest in time-tested herbal remedies with strong safety profiles is genuine. Risk: small companies with modest balance sheets, unproven lead products, and speculative valuations are precisely where retail momentum can drive prices far ahead of fundamentals.
+The 2025 episode exemplifies both the opportunity and the risk in this category. Opportunity: as healthcare systems worldwide grapple with chronic disease and pharmaceutical costs, interest in time-tested herbal remedies with strong safety profiles is genuine. Risk: small companies with modest [balance sheets](/balance-sheet/), unproven lead products, and speculative valuations are precisely where retail momentum can drive prices far ahead of fundamentals.
 
 Regencell's future depends on whether its herbal pipeline can generate Phase 2 or 3 data that convinces regulators and patients alike, whether it can extend its cash runway through partnership or financing, and whether larger firms or better-capitalized competitors do not eclipse its position. The 2025 spike should be treated as a signal of retail interest and potential market awareness, not as validation of imminent success. The real work—translating TCM compounds into regulated drugs—remains ahead.

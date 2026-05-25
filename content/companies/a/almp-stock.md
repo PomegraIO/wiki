@@ -13,7 +13,7 @@ handwritten: true
 
 **Almco is a regional plumbing and mechanical service contractor, built on skilled technicians and local market relationships.**
 
-The company handles both residential and commercial plumbing work across the upper Midwest—from emergency burst pipes to full system installations in commercial developments. Most of its work is service and maintenance rather than new construction, which creates steadier revenue but ties profits directly to labor productivity and material margins. Seasonal swings are pronounced, with winter emergency calls and summer cooling demands creating predictable peaks.
+The company handles both residential and commercial plumbing work across the upper Midwest—from emergency burst pipes to full system installations in commercial developments. Most of its work is service and maintenance rather than new construction, which creates steadier revenue but ties profits directly to [labor productivity](/labor-productivity/) and material margins. Seasonal swings are pronounced, with winter emergency calls and summer cooling demands creating predictable peaks.
 
 Service Structure
 

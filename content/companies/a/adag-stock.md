@@ -29,5 +29,5 @@ The antibody therapeutics space is crowded with established players (Roche, Amge
 - Development-stage biotech focused on engineered antibody therapeutics for cancer
 - Proprietary antibody engineering platforms designed to optimize tumor binding and immune activation
 - Pipeline in preclinical and early clinical stages; no approved products or meaningful product revenue
-- Dependent on equity financing, partnerships, and milestone payments to fund operations
+- Dependent on [equity financing](/equity-financing/), partnerships, and milestone payments to fund operations
 - Operates in highly competitive cancer immunotherapy market; clinical success uncertain

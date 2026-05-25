@@ -37,17 +37,17 @@ Today, Mattel operates in two primary segments: Infant, Toddler, and Preschool (
 - **Content and experiences** — revenue from streaming, theatrical releases, theme park attractions, and live experiences. This segment is nascent but directionally important.
 - **Digital and direct-to-consumer** — Mattel has expanded its own e-commerce and digital ecosystem to reduce dependence on traditional retail middlemen.
 
-The gross margins on toy sales are under pressure due to retail consolidation, inflation in raw materials and labor, and supply chain complexity. But licensing and content revenue often carry higher margins and less capital intensity. The strategic ambition is to shift the revenue mix toward IP monetization rather than pure toy manufacturing, using toys as one output of a broader brand and entertainment business.
+The gross margins on toy sales are under pressure due to retail consolidation, [inflation](/inflation/) in raw materials and labor, and supply chain complexity. But licensing and content revenue often carry higher margins and less capital intensity. The strategic ambition is to shift the revenue mix toward IP monetization rather than pure toy manufacturing, using toys as one output of a broader brand and entertainment business.
 
 ## Competitive Position and Headwinds
 
-Mattel's advantage lies in brand heritage and global reach. Barbie and Hot Wheels are recognized worldwide and carry emotional resonance accumulated over decades. American Girl has a devoted, somewhat aging collector base, and Fisher-Price benefits from parental trust that is hard to replicate. In collectibles and enthusiast markets, both Hot Wheels and Barbie dolls command premiums and secondary markets.
+Mattel's advantage lies in brand heritage and global reach. Barbie and Hot Wheels are recognized worldwide and carry emotional resonance accumulated over decades. American Girl has a devoted, somewhat aging collector base, and Fisher-Price benefits from parental trust that is hard to replicate. In collectibles and enthusiast markets, both Hot Wheels and Barbie dolls command premiums and [secondary markets](/secondary-market/).
 
 But risks are substantial. The toy industry is structurally challenged: birth rates in developed markets are declining, digital entertainment competes fiercely for children's time, and retail has consolidated into a handful of powerhouses (Walmart, Target, Amazon) that have pricing power. Mass-market toys face commodity pressure.
 
 Mattel's pivot toward entertainment and licensing is strategically sound but operationally difficult. The company must now compete in film and television production against studios and platforms with far deeper resources and experience. The Barbie film's success was exceptional and not guaranteed to repeat. American Girl's brand has aged; its collector base is aging too. Hot Wheels has been sustained through collaborations (with major car manufacturers and racing franchises) and collectibility but lacks a clear entertainment anchor as powerful as Barbie's recent film.
 
-The company also faces concentration risk: Barbie drives a disproportionate share of profits, and a single failed film or misstep in brand management could damage decades of value. Management has acknowledged this and is investing heavily in American Girl revitalization, Hot Wheels content, and other franchises, but these efforts are still in early stages.
+The company also faces [concentration risk](/concentration-risk/): Barbie drives a disproportionate share of profits, and a single failed film or misstep in brand management could damage decades of value. Management has acknowledged this and is investing heavily in American Girl revitalization, Hot Wheels content, and other franchises, but these efforts are still in early stages.
 
 ## What Investors and Researchers Track
 
@@ -56,7 +56,7 @@ Analysts monitor Mattel's key metrics closely:
 - **Gross margin trends** — whether the company can maintain or expand gross margins amid cost inflation and a shifting revenue mix toward licensing.
 - **Sales at constant currency** — Mattel has significant exposure to international currency fluctuations and retail destocking cycles.
 - **Licensing revenue growth** — the company reports this separately, and it is a leading indicator of the entertainment-first strategy.
-- **Cash generation and debt service** — Mattel carries significant debt and must generate free cash to fund both dividends and content investments.
+- **Cash generation and debt service** — Mattel carries significant debt and must generate free cash to fund both [dividends](/dividend/) and content investments.
 - **Retail inventory and sell-through** — large retailers report sell-through data, and elevated inventory signals demand weakness.
 
 The [10-K filing](/wiki/10-k/) details segment revenue, gross margins, and R&D (which includes content creation) and capital expenditure. Quarterly earnings calls discuss retail sell-through, international performance, and content pipeline. Analysts also pay attention to any major licensing or partnership announcements, which can signal success or difficulty in the entertainment pivot.

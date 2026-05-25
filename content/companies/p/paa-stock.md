@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Plains All American Pipeline is a master limited partnership focused on moving crude oil, natural gas liquids (NGLs), and refined petroleum products from production centers to refineries and distribution points. The company operates as a real asset-based infrastructure business—the backbone of North American petroleum logistics—earning stable cash flows from long-term contracts rather than commodity trading or speculation.
+Plains All American Pipeline is a master limited partnership focused on moving [crude oil](/crude-oil/), [natural gas](/natural-gas/) liquids (NGLs), and refined petroleum products from production centers to refineries and distribution points. The company operates as a real asset-based infrastructure business—the backbone of North American petroleum logistics—earning stable cash flows from long-term contracts rather than commodity trading or speculation.
 
 ## The core business
 
@@ -26,7 +26,7 @@ The company operates approximately 55,000 miles of pipeline (combining crude, re
 
 ## Master limited partnership structure
 
-PAA is a [master limited partnership](/wiki/mlp-stock/), a publicly traded partnership that passes profits to unitholders (owners of partnership units) rather than paying corporate income tax. The trade-off is that PAA must distribute nearly all operating cash flow to unitholders as quarterly distributions, meaning the company cannot easily retain earnings to fund growth or acquisitions. This structure appeals to income-focused investors (especially tax-advantaged accounts like 401k plans and IRAs) but limits PAA's financial flexibility relative to a traditional corporation.
+PAA is a [master limited partnership](/wiki/mlp-stock/), a publicly traded partnership that passes profits to unitholders (owners of partnership units) rather than paying [corporate income tax](/corporate-income-tax/). The trade-off is that PAA must distribute nearly all operating cash flow to unitholders as quarterly distributions, meaning the company cannot easily retain earnings to fund growth or [acquisitions](/acquisition/). This structure appeals to income-focused investors (especially tax-advantaged accounts like 401k plans and IRAs) but limits PAA's financial flexibility relative to a traditional corporation.
 
 The MLP framework also requires disciplined capital allocation. PAA funds growth and maintenance capex from operating cash, debt capacity, and strategic asset sales. During commodity downturns or growth slowdowns, an MLP can find itself squeezed between distribution commitments and the need to invest. Conversely, during strong cash-generation periods, distributions to unitholders can be generous.
 
@@ -46,7 +46,7 @@ PAA's cash generation depends on two variables: throughput (the volume of barrel
 
 Tariffs are not fully indexed to commodity prices, so PAA can weather a crude price slump better than exploration-focused oil and gas companies. A drop in crude from $100 to $50 per barrel doesn't immediately cut PAA's tariff revenue; contracts usually specify fixed or inflation-adjusted fees. However, a prolonged production downturn (such as operators cutting drilling budgets) eventually reduces total barrels moved and erodes cash flow.
 
-The company also faces operational costs: pipeline maintenance, labor, energy to run pumps, regulatory compliance, and general administration. Operating margins (operating cash flow divided by revenue) tend to be solid but not spectacular, typically in the 40–60% range depending on the cycle.
+The company also faces operational costs: pipeline maintenance, labor, energy to run pumps, regulatory compliance, and general administration. [Operating margins](/operating-margin/) (operating cash flow divided by revenue) tend to be solid but not spectacular, typically in the 40–60% range depending on the cycle.
 
 ## Risks and pressures
 
@@ -54,7 +54,7 @@ The company also faces operational costs: pipeline maintenance, labor, energy to
 
 **Regulatory and permitting risk.** Pipeline expansion in the U.S. faces increasing environmental and community opposition, and federal and state permitting timelines have lengthened. PAA's growth depends on building new systems or expanding existing ones; delays or denials slow revenue growth and require management to rethink capacity investments.
 
-**Volume concentration in Permian.** While Permian dominance is a strength today, it is also a single-basin bet. If Permian production growth slows—due to lower commodity prices, reduced drilling budgets, or regulatory constraints in Texas—PAA's revenue could stagnate. Diversification would help, but PAA's legacy infrastructure is anchored in the Permian, not in other shale or deepwater plays.
+**Volume concentration in Permian.** While Permian dominance is a strength today, it is also a single-basin bet. If Permian production growth slows—due to lower commodity prices, reduced drilling budgets, or regulatory constraints in Texas—PAA's revenue could stagnate. [Diversification](/diversification/) would help, but PAA's legacy infrastructure is anchored in the Permian, not in other shale or deepwater plays.
 
 **Refineries and shipping demand.** Downstream refinery closures or a shift in where refineries source crude (e.g., increased imports via ship instead of domestic pipeline) would reduce PAA volumes. This is not imminent, but is a structural question as refining margins and locations adjust.
 
@@ -62,7 +62,7 @@ The company also faces operational costs: pipeline maintenance, labor, energy to
 
 ## How to research it
 
-Read PAA's [10-K](/wiki/10-k/) filing with the SEC, particularly the "Business" and "Risk Factors" sections. The 10-K will detail each operating segment (crude gathering, NGL transportation, refined products), tariff structures, contract terms, and capital expenditure plans. Look for disclosure on contract length and shipper concentration—a few large customers mean higher revenue stability but concentration risk.
+Read PAA's [10-K](/wiki/10-k/) filing with the SEC, particularly the "Business" and "Risk Factors" sections. The 10-K will detail each operating segment (crude gathering, NGL transportation, refined products), tariff structures, contract terms, and capital expenditure plans. Look for disclosure on contract length and shipper concentration—a few large customers mean higher revenue stability but [concentration risk](/concentration-risk/).
 
 Watch quarterly earnings calls for management commentary on volumes, tariffs trends, and capex guidance. Peer comparison to other midstream MLPs (such as those in the energy infrastructure space) provides context for margins and distribution sustainability.
 

@@ -21,11 +21,11 @@ Passenger fares remain the dominant revenue source, with ancillaries (baggage, s
 
 ## Competitive landscape
 
-Azul competes directly with LATAM and Gol domestically, plus indirect competition from bus and car travel on shorter distances. The airline has weathered pandemic disruptions and debt restructuring but remains cyclically exposed to Brazil's economic health and globally exposed to fuel volatility. Market position is strong in secondary cities but vulnerable if larger competitors decide to increase frequency on regional routes or if economic slowdown reduces leisure traffic that forms a core segment.
+Azul competes directly with LATAM and Gol domestically, plus indirect competition from bus and car travel on shorter distances. The airline has weathered pandemic disruptions and [debt restructuring](/debt-restructuring/) but remains cyclically exposed to Brazil's economic health and globally exposed to fuel volatility. Market position is strong in secondary cities but vulnerable if larger competitors decide to increase frequency on regional routes or if economic slowdown reduces leisure traffic that forms a core segment.
 
 At a glance:
 - **Market position**: Largest regional network in Brazil; concentrated on smaller airports
-- **International exposure**: Growing US route footprint; currency hedging important
+- **International exposure**: Growing US route footprint; [currency hedging](/currency-hedging/) important
 - **Fleet mix**: Turboprops plus Airbus narrowbodies; right-sizing by route
 - **Revenue drivers**: Fares 70-75%, ancillaries and cargo 25-30%
-- **Key headwinds**: Currency volatility, fuel price, labor costs, competitive capacity
+- **Key headwinds**: [Currency volatility](/currency-volatility/), fuel price, labor costs, competitive capacity

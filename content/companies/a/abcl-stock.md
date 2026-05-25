@@ -20,7 +20,7 @@ handwritten: true
 **Model:** Platform licensing + partnership revenue  
 </aside>
 
-AbCellera is a Canadian biotechnology company that trades on NASDAQ and operates a discovery platform for accelerating antibody and protein therapeutic development. The firm combines single-cell analysis, synthetic biology, and machine learning to identify antibodies with desired properties—compounds that might otherwise take months or years to discover using traditional screening. Rather than pursuing a classic pipeline of internally developed drugs, AbCellera licenses its discovery capability to large pharmaceutical and biotech companies through partnership agreements that generate upfront fees, milestone payments, and eventual royalties. Partnerships with Eli Lilly, GSK, and Celsius Therapeutics demonstrate the business model's viability and offer commercial validation of the underlying technology.
+AbCellera is a Canadian biotechnology company that trades on [NASDAQ](/nasdaq/) and operates a discovery platform for accelerating antibody and protein therapeutic development. The firm combines single-cell analysis, synthetic biology, and machine learning to identify antibodies with desired properties—compounds that might otherwise take months or years to discover using traditional screening. Rather than pursuing a classic pipeline of internally developed drugs, AbCellera licenses its discovery capability to large pharmaceutical and biotech companies through partnership agreements that generate upfront fees, milestone payments, and eventual royalties. Partnerships with Eli Lilly, GSK, and Celsius Therapeutics demonstrate the business model's viability and offer commercial validation of the underlying technology.
 
 ## How it captures value
 

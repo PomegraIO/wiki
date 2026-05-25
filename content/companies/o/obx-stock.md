@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Gazelle Parent, Inc. exists as a purpose-built merger vehicle. The company itself is essentially a shell—created in 2024 to facilitate the combination of two cancer-focused biotech companies into a single operating entity. On closing, expected in the third quarter of 2026, Gazelle will be renamed Obsidian Therapeutics, Inc., with shares trading on Nasdaq under the ticker OBX.
+Gazelle Parent, Inc. exists as a purpose-built [merger](/merger/) vehicle. The company itself is essentially a shell—created in 2024 to facilitate the combination of two cancer-focused biotech companies into a single operating entity. On closing, expected in the third quarter of 2026, Gazelle will be renamed Obsidian Therapeutics, Inc., with shares trading on [Nasdaq](/nasdaq/) under the ticker OBX.
 
 The merger brings together [Obsidian Therapeutics](/wiki/public-company/), a private cell therapy developer, and Galera Therapeutics (GRTX), a publicly traded small-molecule biotech company. Obsidian's main program, OBX-115, is an engineered tumor-infiltrating lymphocyte (TIL) cell therapy—a form of adoptive cell therapy where immune cells extracted from a patient's own tumor are expanded and enhanced in the laboratory, then infused back to attack cancer.
 
@@ -23,10 +23,10 @@ Galera, meanwhile, develops small-molecule drugs targeting radiation-induced sid
 
 ## Capital and Ownership
 
-The merger drew an oversubscribed $350 million private placement from new investors. Upon closing, pre-merger Obsidian holders are expected to own roughly 53% of the combined company, pre-merger Galera shareholders about 2%, and the new investors about 45%. This ownership structure reflects Obsidian's larger valuation and the fresh capital infusion tied to the transaction.
+The merger drew an oversubscribed $350 million [private placement](/private-placement/) from new investors. Upon closing, pre-merger Obsidian holders are expected to own roughly 53% of the combined company, pre-merger Galera shareholders about 2%, and the new investors about 45%. This ownership structure reflects Obsidian's larger valuation and the fresh capital infusion tied to the transaction.
 
 ## What to Watch
 
-The merged entity's value will hinge almost entirely on OBX-115's path through Phase 2—interim data were to be presented at the 2026 ASCO meeting. Cell therapies can command substantial premiums if clinical results are strong, but manufacturing complexity and higher cost per treatment (relative to small molecules) create execution risk. Galera's small-molecule programs provide some diversification but remain earlier stage. The combined entity inherits Galera's public reporting obligations and will be subject to the typical scrutiny of a [Nasdaq](/wiki/stock-exchange/) biotech: quarterly filings, regulatory updates, clinical readouts, and equity raises if cash burns faster than anticipated.
+The merged entity's value will hinge almost entirely on OBX-115's path through Phase 2—interim data were to be presented at the 2026 ASCO meeting. Cell therapies can command substantial premiums if clinical results are strong, but manufacturing complexity and higher cost per treatment (relative to small molecules) create execution risk. Galera's small-molecule programs provide some [diversification](/diversification/) but remain earlier stage. The combined entity inherits Galera's public reporting obligations and will be subject to the typical scrutiny of a [Nasdaq](/wiki/stock-exchange/) biotech: quarterly filings, regulatory updates, clinical readouts, and equity raises if cash burns faster than anticipated.
 
 As a shell company in transition, Gazelle Parent carries no meaningful operations or revenue. Its worth is purely the sum of the two operating companies it will house. Reading the [10-K](/wiki/10-k/) and merger proxy will show the detailed financial position of both predecessors; clinical trial sites and patient enrollment numbers are often disclosed in [SEC](/wiki/sec/) filings and company press releases.

@@ -24,7 +24,7 @@ handwritten: true
 </ul>
 </aside>
 
-Yalla Group is a social networking and casual gaming company built specifically for users in the Middle East and North Africa. Unlike mainstream Western platforms that treat the region as secondary, Yalla built its product from the ground up for MENA audiences, with voice communication at its center and gaming as a social binding mechanism. The company went [public](/wiki/public-company/) on the NASDAQ in 2020 and has since built a suite of interconnected social and gaming applications that derive the vast majority of revenue from virtual gift purchases.
+Yalla Group is a social networking and casual gaming company built specifically for users in the Middle East and North Africa. Unlike mainstream Western platforms that treat the region as secondary, Yalla built its product from the ground up for MENA audiences, with voice communication at its center and gaming as a social binding mechanism. The company went [public](/wiki/public-company/) on the [NASDAQ](/nasdaq/) in 2020 and has since built a suite of interconnected social and gaming applications that derive the vast majority of revenue from virtual gift purchases.
 
 ## The Market Opportunity and Product Design
 
@@ -46,7 +46,7 @@ The challenge is scale and defensibility. Yalla has millions of engaged users, b
 
 ## Business Risks and Pressures
 
-**Monetization sustainability.** The virtual gift model depends on a small fraction of users spending small amounts repeatedly. If user spending habits shift or if economic downturns in MENA reduce discretionary spending on digital gifts, revenue could fall sharply. The company has limited diversification: advertising is still a small revenue stream.
+**Monetization sustainability.** The virtual gift model depends on a small fraction of users spending small amounts repeatedly. If user spending habits shift or if economic downturns in MENA reduce [discretionary spending](/discretionary-spending/) on digital gifts, revenue could fall sharply. The company has limited [diversification](/diversification/): advertising is still a small revenue stream.
 
 **User retention and engagement.** Gaming and social apps live or die by engagement. Casual games in particular can see rapid drop-offs as users move to the next novelty. Yalla must continually innovate its game catalog and social features to keep users returning. A slowing engagement trend would cascade into lower spending.
 
@@ -63,8 +63,8 @@ Yalla's [10-K](/wiki/10-k/) filing with the SEC provides the full picture. Inves
 - **Monthly active users (MAU) and quarterly trends.** Growth in the user base indicates market expansion; declining or stagnant MAU is a warning sign.
 - **Average revenue per paying user (ARPPU).** This metric reveals monetization health. Rising ARPPU suggests stronger spending per user; declining ARPPU may indicate economic pressure in the region or user fatigue with spending.
 - **Paying user ratio.** What fraction of MAU actually spend? This ratio is critical because the model depends on converting a small slice of the base into spenders. A declining paying user ratio even with flat or rising MAU is concerning.
-- **Customer acquisition cost (CAC) and lifetime value (LTV).** Yalla's history of organic, word-of-mouth growth kept CAC low. If the company needs to pay more for each user, profitability suffers unless LTV rises in tandem.
-- **Geographic concentration.** Yalla reports results by country. Dependence on a small number of markets is a risk; diversification across MENA reduces concentration risk.
+- **Customer [acquisition](/acquisition/) cost (CAC) and lifetime value (LTV).** Yalla's history of organic, word-of-mouth growth kept CAC low. If the company needs to pay more for each user, profitability suffers unless LTV rises in tandem.
+- **Geographic concentration.** Yalla reports results by country. Dependence on a small number of markets is a risk; diversification across MENA reduces [concentration risk](/concentration-risk/).
 
 ## Placing Yalla in Broader Contexts
 

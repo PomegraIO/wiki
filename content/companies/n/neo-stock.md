@@ -40,7 +40,7 @@ The company operates on a fee-per-test model. Reimbursement comes from insurance
 
 ## Competitive Position and Pressures
 
-NeoGenomics is not alone in the oncology testing space. Quest Diagnostics and LabCorp—two massive national clinical laboratory networks—both offer cancer genomics services, though often through specialized units or acquisitions. Ambry Genetics and Myriad Genetics are also major players in cancer genetic testing. The market is fragmented and competitive on price, turnaround time, and assay comprehensiveness.
+NeoGenomics is not alone in the oncology testing space. Quest Diagnostics and LabCorp—two massive national clinical laboratory networks—both offer cancer genomics services, though often through specialized units or [acquisitions](/acquisition/). Ambry Genetics and Myriad Genetics are also major players in cancer genetic testing. The market is fragmented and competitive on price, turnaround time, and assay comprehensiveness.
 
 NeoGenomics' strength lies in its focus. Unlike the generalist labs, it has deep expertise in hematologic (blood cancer) and solid tumor testing, long-standing relationships with oncology practices, and a track record in pharmaceutical research. The Genoptix acquisition gave the company a foothold in companion diagnostics—testing tied to specific drugs—which offers stickier revenue, since a pharma company backing a drug often needs rigorous, established testing protocols. Yet this also exposes the company to the risks of drug adoption; if a highly anticipated cancer drug fails in trials or faces regulatory rejection, the associated diagnostic tests may see no adoption at all.
 

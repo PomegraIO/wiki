@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Jianzhi Education Technology Group Co Ltd is a Beijing-based education technology company that delivers online learning platforms and IT solutions to educational institutions and individual learners in China.** Founded in 2011, the company trades on NASDAQ under the ticker JZ and operates primarily through two business segments: educational content services and information technology solutions.
+**Jianzhi Education Technology Group Co Ltd is a Beijing-based education technology company that delivers online learning platforms and IT solutions to educational institutions and individual learners in China.** Founded in 2011, the company trades on [NASDAQ](/nasdaq/) under the ticker JZ and operates primarily through two business segments: educational content services and information technology solutions.
 
 <aside class="wiki-infobox">
 **Key Facts**
@@ -52,11 +52,11 @@ The IT solutions segment operates in a highly commoditized field where pricing p
 
 **Competition and market saturation** present ongoing pressure. The online education market in China is crowded, and larger, better-funded competitors control disproportionate market share and user attention. Jianzhi's institutional focus is a strength but also limits total addressable market relative to consumer-facing platforms.
 
-**Concentration risk** exists in the institutional customer base. Loss of a major educational partner or slowdown in institutional spending could materially impact revenue. The company's reliance on a limited number of high-value institutional subscribers creates vulnerability to any single customer's budget decisions or consolidation.
+**[Concentration risk](/concentration-risk/)** exists in the institutional customer base. Loss of a major educational partner or slowdown in institutional spending could materially impact revenue. The company's reliance on a limited number of high-value institutional subscribers creates vulnerability to any single customer's budget decisions or consolidation.
 
 **Technology obsolescence** in IT services is a chronic challenge. Custom software and virtualization solutions face rapid commoditization, and the company must continuously invest in product refresh and new capabilities to remain competitive.
 
-**Currency and macroeconomic headwinds** in China could suppress discretionary spending on professional training and IT infrastructure investments.
+**Currency and macroeconomic headwinds** in China could suppress [discretionary spending](/discretionary-spending/) on professional training and IT infrastructure investments.
 
 ## How to Research It
 
@@ -64,7 +64,7 @@ Start with the company's [10-K](/wiki/10-k/) filings on the [SEC](/wiki/public-c
 
 Key metrics to track include subscription growth rates, customer retention (especially institutional partners), and the ratio of recurring revenue to total revenue. Watch for changes in platform usage, course enrollment, and average revenue per user across the B2B2C and direct channels.
 
-Monitor announcements of new institutional partnerships, educational content acquisitions, or technology partnerships. Also watch for any regulatory statements from Chinese authorities regarding online education, as policy shifts can have outsized impact on the company's growth trajectory and valuation.
+Monitor announcements of new institutional partnerships, educational content [acquisitions](/acquisition/), or technology partnerships. Also watch for any regulatory statements from Chinese authorities regarding online education, as policy shifts can have outsized impact on the company's growth trajectory and valuation.
 
 The company's ability to expand its customer base beyond China and to develop new revenue streams outside education technology will shape its longer-term narrative.
 

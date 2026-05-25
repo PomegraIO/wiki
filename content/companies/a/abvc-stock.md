@@ -11,7 +11,7 @@ handwritten: true
 
 ABVC BioPharma is a clinical-stage biopharmaceutical company chasing cancer treatments through its own research pipeline. The company develops small-molecule and other therapeutic modalities aimed at tackling oncology and related disease areas. Like most biotech outfits at this stage, it doesn't sell finished products yet—the entire model rests on advancing drug candidates through clinical trials and eventually licensing or commercializing them.
 
-The company's approach is portfolio-based, meaning they're developing multiple drug candidates targeting different cancer types and mechanisms. That diversification matters in biotech because any single program can fail, and a concentrated bet on one drug is a high-wire act. Spreading the risk across several shots on goal improves the odds that at least one advances meaningfully.
+The company's approach is portfolio-based, meaning they're developing multiple drug candidates targeting different cancer types and mechanisms. That [diversification](/diversification/) matters in biotech because any single program can fail, and a concentrated bet on one drug is a high-wire act. Spreading the risk across several shots on goal improves the odds that at least one advances meaningfully.
 
 Revenue today comes from capital markets—equity offerings and whatever strategic partnerships might materialize. Biotech companies at this stage often explore collaborations with larger pharmaceutical firms that see value in a specific drug candidate or platform. Until drugs reach the market, the cash burn is relentless. Runway depends on successful fundraising and careful cash management.
 

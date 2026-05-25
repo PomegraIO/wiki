@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Dr. Reddy's Laboratories is one of India's largest pharmaceutical companies and a rare Indian drugmaker with genuine global scale. Founded in 1984, the company has grown from a small generics manufacturer into a diversified player spanning generic oral and injectable drugs, active pharmaceutical ingredients (APIs), branded specialty pharmaceuticals, and an expanding biosimilars portfolio. Its American Depositary Receipts (ADRs) trade on NASDAQ under the ticker RDY, making it one of the few Indian pharma firms with direct US market access and a substantial US institutional shareholder base. For investors and analysts interested in the Indian pharmaceutical export story—particularly the generics and API supply chains that keep global drug costs manageable—Dr. Reddy's is both a bellwether and a window into the structural advantages and constraints of India's drug industry at scale.
+Dr. Reddy's Laboratories is one of India's largest pharmaceutical companies and a rare Indian drugmaker with genuine global scale. Founded in 1984, the company has grown from a small generics manufacturer into a diversified player spanning generic oral and injectable drugs, active pharmaceutical ingredients (APIs), branded specialty pharmaceuticals, and an expanding biosimilars portfolio. Its [American Depositary Receipts](/adr/) (ADRs) trade on [NASDAQ](/nasdaq/) under the ticker RDY, making it one of the few Indian pharma firms with direct US market access and a substantial US institutional shareholder base. For investors and analysts interested in the Indian pharmaceutical export story—particularly the generics and API supply chains that keep global drug costs manageable—Dr. Reddy's is both a bellwether and a window into the structural advantages and constraints of India's drug industry at scale.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ The early years were scrappy. The company built its own laboratories, recruited 
 
 Dr. Reddy's moved quickly into APIs—the active chemical compounds that form the core of any drug. This was strategic: rather than simply buy APIs from Chinese or other suppliers, the company would make its own, giving it control over quality, cost, and supply. The company also expanded into injectables, a higher-margin segment that required greater manufacturing discipline but offered better economics than bulk oral generics. By the late 1990s, Dr. Reddy's had built a significant export business, particularly to the United States, where generic drugs were increasingly favored by insurers and pharmacy benefit managers seeking lower costs.
 
-The company went public on the Bombay and National Stock Exchanges in 1995, then listed ADRs on NASDAQ in 1999, giving it access to US capital and a currency-diversified revenue stream. This was crucial: the company could now raise capital in dollars and reinvest in R&D, manufacturing capacity, and strategic acquisitions. In 2001, K. Anji Reddy stepped down as chairman, and the company entered a phase of more aggressive international expansion and portfolio buildout.
+The company went public on the Bombay and National Stock Exchanges in 1995, then listed ADRs on NASDAQ in 1999, giving it access to US capital and a currency-diversified revenue stream. This was crucial: the company could now raise capital in dollars and reinvest in R&D, manufacturing capacity, and strategic [acquisitions](/acquisition/). In 2001, K. Anji Reddy stepped down as chairman, and the company entered a phase of more aggressive international expansion and portfolio buildout.
 
 ## Building a global footprint (2010 onwards)
 
@@ -43,7 +43,7 @@ A key insight was that the US generic market, while price-competitive and struct
 
 The company also built a meaningful branded pharmaceutical presence, particularly in India, Russia, and other markets where brand loyalty and willingness to pay for marketed drugs is higher than in the pure-generic US market. This segment contributed higher margins than generics alone.
 
-By the mid-2010s, Dr. Reddy's was one of the top three Indian pharmaceutical exporters to the United States by volume, along with Cipla and others. It had manufacturing facilities across multiple countries, a strong balance sheet, and a track record of navigating FDA regulations and quality standards. The company was no longer a curiosity or a speculative play on India's growth—it was a recognizable, integrated pharmaceutical manufacturer that happened to be headquartered in Hyderabad rather than New Jersey.
+By the mid-2010s, Dr. Reddy's was one of the top three Indian pharmaceutical exporters to the United States by volume, along with Cipla and others. It had manufacturing facilities across multiple countries, a strong [balance sheet](/balance-sheet/), and a track record of navigating FDA regulations and quality standards. The company was no longer a curiosity or a speculative play on India's growth—it was a recognizable, integrated pharmaceutical manufacturer that happened to be headquartered in Hyderabad rather than New Jersey.
 
 ## The biosimilars and specialty pharma pivot
 
@@ -67,7 +67,7 @@ Dr. Reddy's revenue breaks into several distinct streams, each with different ma
 
 **Other services and segments** (including research and development services for third parties, contract manufacturing, and other smaller lines) round out the portfolio.
 
-The company generates revenue from most of the world's major markets, with the United States typically accounting for roughly 40-50% of sales, India for 10-15%, and the rest scattered across Europe, Russia, and other emerging markets. This geographic diversification means Dr. Reddy's is not entirely dependent on any single regulatory regime or market condition.
+The company generates revenue from most of the world's major markets, with the United States typically accounting for roughly 40-50% of sales, India for 10-15%, and the rest scattered across Europe, Russia, and other emerging markets. This geographic [diversification](/diversification/) means Dr. Reddy's is not entirely dependent on any single regulatory regime or market condition.
 
 ## What makes Dr. Reddy's distinctive—and what constrains it
 

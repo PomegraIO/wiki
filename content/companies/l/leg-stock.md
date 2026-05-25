@@ -43,19 +43,19 @@ Geographically, the company has historically been concentrated in North America,
 
 ## Economic sensitivities and risks
 
-The company's earnings are tightly coupled to cyclical consumer spending and housing activity. When home sales, residential construction, or furniture and mattress spending slow, Leggett & Platt's volumes contract. The Bedding and Furniture segments, which together represent a significant share of operating earnings, are particularly sensitive to consumer discretionary spending and household formation.
+The company's earnings are tightly coupled to cyclical consumer spending and housing activity. When home sales, residential construction, or furniture and mattress spending slow, Leggett & Platt's volumes contract. The Bedding and Furniture segments, which together represent a significant share of operating earnings, are particularly sensitive to consumer [discretionary spending](/discretionary-spending/) and household formation.
 
 Raw material costs—especially for steel, foam, and petroleum-based polymers—create earnings pressure when they spike. The company has some pricing power with large customers, but negotiations take time, and customers may resist price increases or seek alternative suppliers. Supply chain disruption, whether from transportation bottlenecks or supplier failures, directly affects the company's ability to fulfill orders.
 
 The Automotive segment carries additional risks. Vehicle production is cyclical, and a significant economic downturn can sharply reduce OEM demand. Light-vehicle production in North America has been volatile—swinging from over 17 million units annually before the pandemic to lows near 8 million. Leggett & Platt has scale in this market, but that scale doesn't insulate it from volume swings.
 
-Retail consolidation has also increased customer concentration risk. Leggett & Platt depends on a small number of major retailers for distribution in Bedding and Furniture, which means loss of shelf space or a shift to a competitor's product can materially impact sales. Similarly, a major customer bankruptcy or restructuring (as happened with Bed Bath & Beyond) can erase revenue quickly.
+Retail consolidation has also increased customer [concentration risk](/concentration-risk/). Leggett & Platt depends on a small number of major retailers for distribution in Bedding and Furniture, which means loss of shelf space or a shift to a competitor's product can materially impact sales. Similarly, a major customer bankruptcy or restructuring (as happened with Bed Bath & Beyond) can erase revenue quickly.
 
-International expansion efforts—while necessary to follow customers offshore and access labor savings—introduce currency risk, geopolitical complexity, and execution challenges. Operations in Mexico and Asia are subject to labor disputes, regulatory shifts, and the need for local expertise.
+International expansion efforts—while necessary to follow customers offshore and access labor savings—introduce [currency risk](/currency-risk/), geopolitical complexity, and execution challenges. Operations in Mexico and Asia are subject to labor disputes, regulatory shifts, and the need for local expertise.
 
 ## Financial structure and research orientation
 
-The company maintains a [balance sheet](/wiki/balance-sheet/) with meaningful leverage, reflecting its use of debt to fund acquisitions and capital expenditures. Leggett & Platt has been an active acquirer over its history, using strategic purchases to enter adjacent markets and gain capabilities—though integration execution and purchase price discipline have varied.
+The company maintains a [balance sheet](/wiki/balance-sheet/) with meaningful leverage, reflecting its use of debt to fund [acquisitions](/acquisition/) and capital expenditures. Leggett & Platt has been an active acquirer over its history, using strategic purchases to enter adjacent markets and gain capabilities—though integration execution and purchase price discipline have varied.
 
 The [10-K](/wiki/10-k/) is the essential starting point for understanding the business. Read the segment results tables carefully; they show which segments are growing and which are facing pressure. The company regularly discloses customer concentration (typically revealing that the largest few customers represent 15-25% of sales), raw material exposure, and capacity utilization.
 
@@ -68,7 +68,7 @@ Investors should track:
 - **Customer inventory levels** — retailers sometimes destocking can create sudden demand drops
 - **Debt levels and interest coverage** — the company uses leverage, and rising rates increase financial costs
 
-The company's dividend and capital allocation decisions reflect management's confidence in the durability of cash generation, though that confidence is sometimes tested when cycles turn sharply. Covenant compliance and [free cash flow](/wiki/free-cash-flow/) are the right metrics to assess financial health, not nominal earnings alone.
+The company's [dividend](/dividend/) and capital allocation decisions reflect management's confidence in the durability of cash generation, though that confidence is sometimes tested when cycles turn sharply. Covenant compliance and [free cash flow](/wiki/free-cash-flow/) are the right metrics to assess financial health, not nominal earnings alone.
 
 ---
 

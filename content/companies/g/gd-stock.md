@@ -30,11 +30,11 @@ This moat comes with downsides: profits depend on government budgets, political 
 
 ## Financials and returns
 
-General Dynamics is a cash-generative business. The company converts a significant portion of operating income to free cash flow, which it has historically returned to shareholders through dividends and buybacks. The return on equity is solid but not extraordinary for a large-cap: typically in the 12–15% range, reflecting the steady but not spectacular returns of capital-intensive manufacturing.
+General Dynamics is a cash-generative business. The company converts a significant portion of operating income to [free cash flow](/free-cash-flow/), which it has historically returned to shareholders through [dividends](/dividend/) and buybacks. The [return on equity](/return-on-equity/) is solid but not extraordinary for a large-cap: typically in the 12–15% range, reflecting the steady but not spectacular returns of capital-intensive manufacturing.
 
 The stock price has historically been driven more by earnings surprises and changes in defense spending forecasts than by industry innovations. The company's valuation tends to track multiples of defense contractors broadly: roughly 15–18 times forward earnings in normal times, widening or contracting with overall market sentiment and geopolitical risk appetite.
 
-Capital intensity is meaningful. Submarine and aircraft programs require massive upfront investment before revenue recognition, and the company must carry significant working capital and bid and performance bonds. The balance sheet is typically solid but not fortress-like; debt levels have risen with major program investments, though cash generation keeps leverage manageable.
+Capital intensity is meaningful. Submarine and aircraft programs require massive upfront investment before [revenue recognition](/revenue-recognition/), and the company must carry significant working capital and bid and performance [bonds](/bond/). The [balance sheet](/balance-sheet/) is typically solid but not fortress-like; debt levels have risen with major program investments, though cash generation keeps leverage manageable.
 
 ## Why it matters—and why it's complicated
 
@@ -44,7 +44,7 @@ The firm also sits at the intersection of industrial policy and commerce. Govern
 
 ## What to watch
 
-Investors tracking General Dynamics should monitor [10-K filings](/wiki/10-k/) for several metrics: **order backlog** (a proxy for future revenue visibility), **free cash flow conversion** (defense contractors are expected to generate cash), **contract vehicle mix** (fixed-price contracts carry more risk than cost-plus), and **segment profitability margins** (which signal pricing power and cost discipline).
+Investors tracking General Dynamics should monitor [10-K filings](/wiki/10-k/) for several metrics: **order backlog** (a proxy for future revenue visibility), **free [cash flow conversion](/cash-flow-conversion/)** (defense contractors are expected to generate cash), **contract vehicle mix** (fixed-price contracts carry more risk than cost-plus), and **segment profitability margins** (which signal pricing power and cost discipline).
 
 Geopolitical events and Congressional defense budgets are the primary drivers of sentiment. The renewal of the FMS (Foreign Military Sales) program with key allies can create years of revenue visibility. Conversely, program cancellations or major cost overruns (common in aerospace and shipbuilding) can surprise the market sharply. Track the company's win rates on new contracts and the health of major programs: Columbia-class submarines, F-16 upgrades, and Stryker production are key money-makers.
 

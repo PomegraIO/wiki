@@ -23,7 +23,7 @@ This long incubation in a diversified chemical giant gave the company a deep tec
 
 For much of its history as an independent entity, GrafTech operated as a traditional electrode manufacturer—sourcing raw materials and converting them into finished graphite electrodes for sale to steel mills. Petroleum needle coke, the critical input, is an ultra-refined byproduct of certain oil refining processes. Its supply is geographically concentrated and limited, creating a persistent input bottleneck and cost vulnerability for all graphite electrode producers.
 
-In 2010, GrafTech acquired Seadrift Coke LP, a petroleum needle coke producer based in Port Lavaca, Texas. This acquisition was transformational. By bringing needle coke production in-house, GrafTech became the only large-scale graphite electrode manufacturer with substantial vertical integration into its primary raw material. This move achieved multiple objectives at once: securing a reliable, proprietary feedstock; stabilizing input costs against commodity price shocks; and locking in margins across the value chain. Seadrift's high-purity, high-quality needle coke from specialized aromatic feedstock became the foundation of GrafTech's cost and quality leadership.
+In 2010, GrafTech acquired Seadrift Coke LP, a petroleum needle coke producer based in Port Lavaca, Texas. This [acquisition](/acquisition/) was transformational. By bringing needle coke production in-house, GrafTech became the only large-scale graphite electrode manufacturer with substantial vertical integration into its primary raw material. This move achieved multiple objectives at once: securing a reliable, proprietary feedstock; stabilizing input costs against commodity price shocks; and locking in margins across the value chain. Seadrift's high-purity, high-quality needle coke from specialized aromatic feedstock became the foundation of GrafTech's cost and quality leadership.
 
 ## The Business Today
 
@@ -35,7 +35,7 @@ Vertically integrated supply into Seadrift creates a durable structural advantag
 
 ## Current Market Pressures and Future Drivers
 
-In recent years, the global steel industry has faced headwinds from oversupply, cost inflation, and energy price uncertainty, dampening EAF steelmaking expansion and electrode demand. Pricing pressure has been acute, and many mills have extended maintenance cycles rather than expand capacity, reducing near-term electrode consumption.
+In recent years, the global steel industry has faced headwinds from oversupply, cost [inflation](/inflation/), and energy price uncertainty, dampening EAF steelmaking expansion and electrode demand. Pricing pressure has been acute, and many mills have extended maintenance cycles rather than expand capacity, reducing near-term electrode consumption.
 
 Yet several structural trends may reshape the industry's trajectory. Decarbonization of steel is a central focus for major steelmakers and their customers, particularly in Europe and North America. EAF steelmaking, when powered by renewable or low-carbon electricity, produces significantly lower emissions than blast-furnace routes. As regulatory and customer pressure for low-carbon steel intensifies, EAF capacity is expected to grow, driving long-term electrode demand expansion.
 
@@ -49,7 +49,7 @@ The company's capital intensity—maintaining world-class electrode and coke pro
 
 Competitive rivalry from Chinese graphite electrode producers, though limited by technical barriers and trade considerations, remains a persistent threat. Chinese competitors have made strides in UHP electrode production, though quality and consistency gaps persist. Technological leadership and cost structure are GrafTech's primary defenses.
 
-Geographic and customer concentration risk exists, though large steelmakers maintain multiple electrode suppliers for operational resilience. Still, a major customer cutback or shift to alternative suppliers can impact volumes meaningfully.
+Geographic and customer [concentration risk](/concentration-risk/) exists, though large steelmakers maintain multiple electrode suppliers for operational resilience. Still, a major customer cutback or shift to alternative suppliers can impact volumes meaningfully.
 
 ## How to Research This Company
 

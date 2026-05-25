@@ -22,4 +22,4 @@ At a glance
 - Revenue from loan origination commissions, financial partner fees, and SaaS licensing
 - Competitors include traditional banks, other fintech marketplaces, and direct lenders
 - Trades OTC; subject to regulatory risk inherent in Chinese financial technology
-- Platform model captures value but also carries concentration risk tied to lending cycles
+- Platform model captures value but also carries [concentration risk](/concentration-risk/) tied to lending cycles

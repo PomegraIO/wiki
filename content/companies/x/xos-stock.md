@@ -40,7 +40,7 @@ Traditional truck makers (Volvo, Daimler, Hino) are investing in electric powert
 
 **Capital constraints.** Without a capital raise, burn rate may force a difficult dilutive round or strategic sale. IPO exit is the baseline assumption, but market appetite for EV hardware has cooled.
 
-**Regulatory shifts.** Electric vehicle mandates accelerate adoption but also invite tariffs, rebates, and subsidy clawbacks. A change in federal EV tax credit rules (which benefit fleet buyers of certain vehicles) could reduce demand overnight.
+**Regulatory shifts.** Electric vehicle mandates accelerate adoption but also invite tariffs, rebates, and subsidy [clawbacks](/clawback/). A change in federal EV tax credit rules (which benefit fleet buyers of certain vehicles) could reduce demand overnight.
 
 At a glance:
 - Focused product line in underserved segment (last-mile and regional, not long-haul)
@@ -53,6 +53,6 @@ At a glance:
 
 ## How to research it
 
-The [10-K](/wiki/10-k/) filing is essential: look at the manufacturing capacity roadmap, backlog, cash burn rate, and vehicle gross margins. Investor decks often surface the unit economics and fleet acquisition strategy. Trade publications covering electric vehicles and fleet logistics (FleetOwner, Commercial Vehicle News) track adoption and competitive moves. SEC filings under Xos, Inc. (CIK 1819493) trace dilution and capital raises; PIPE investors and board composition signal confidence or desperation.
+The [10-K](/wiki/10-k/) filing is essential: look at the manufacturing capacity roadmap, backlog, cash burn rate, and vehicle gross margins. Investor decks often surface the unit economics and fleet [acquisition](/acquisition/) strategy. Trade publications covering electric vehicles and fleet logistics (FleetOwner, Commercial Vehicle News) track adoption and competitive moves. SEC filings under Xos, Inc. (CIK 1819493) trace dilution and capital raises; PIPE investors and board composition signal confidence or desperation.
 
 For fleet operators considering Xos, the test is a controlled pilot: one vehicle in service for 6–12 months, real maintenance and charging costs logged. The macro thesis (EV last-mile is inevitable) is sound; the micro thesis (Xos executes better than competitors and survives the next downturn) is speculative and demands direct due diligence.

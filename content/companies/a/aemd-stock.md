@@ -26,13 +26,13 @@ This positioning places Aethlon in a high-risk, high-reward category. Success wo
 
 The key to understanding Aethlon is recognizing that you are evaluating a technology platform bet, not an established business. There are no sales, no revenue, and no path to profitability until (or unless) the Hemopurifier receives regulatory approval and gains clinical traction. The company's value depends almost entirely on the probability-weighted outcome of its clinical trials and regulatory pathways.
 
-Typical metrics used to value operating companies—earnings, margins, cash flow, return on assets—are not applicable here. Instead, focus on: the strength of the clinical trial design and interim data, the clarity of the regulatory pathway, the competitive landscape in immunotherapeutic blood purification, the company's cash runway and burn rate, and the likelihood of dilutive financing rounds if trials extend or require additional funding.
+Typical metrics used to value operating companies—earnings, margins, cash flow, [return on assets](/return-on-assets/)—are not applicable here. Instead, focus on: the strength of the clinical trial design and interim data, the clarity of the regulatory pathway, the competitive landscape in immunotherapeutic blood purification, the company's cash runway and burn rate, and the likelihood of dilutive financing rounds if trials extend or require additional funding.
 
 The 52-week range (lows near $1.36, highs above $34) reflects the extreme volatility typical of clinical-stage biotech. Share price movements are driven by trial announcements, regulatory decisions, and speculative sentiment rather than financial performance. Investors should expect significant price swings based on news flow.
 
 ## What should you know before digging deeper?
 
-Aethlon Medical trades on the Nasdaq under ticker AEMD (CIK: 882291). The company files [10-K](/wiki/10-k/) annual reports and quarterly filings with the SEC; these contain the most authoritative information on trial status, regulatory progress, clinical data, and management discussion of risks and strategy.
+Aethlon Medical trades on the [Nasdaq](/nasdaq/) under ticker AEMD (CIK: 882291). The company files [10-K](/wiki/10-k/) annual reports and quarterly filings with the SEC; these contain the most authoritative information on trial status, regulatory progress, clinical data, and management discussion of risks and strategy.
 
 Verify the current clinical trial phase, enrollment status, and any recent regulatory communications directly from the company's investor relations materials or the SEC's EDGAR database. Biotech companies often issue press releases announcing trial milestones, enrollment achievements, or regulatory feedback—these are primary sources for tracking progress.
 

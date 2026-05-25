@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-QuoteMedia Inc (OTCQB: QMCI) is a small, specialized provider of financial market data, research information, and embedded software solutions for institutional clients. The company supplies real-time and delayed quotes, charting, news, analytics, and portfolio management tools to online brokerages, banks, clearing firms, financial websites, media outlets, and corporate investor relations departments.
+QuoteMedia Inc (OTCQB: QMCI) is a small, specialized provider of financial market data, research information, and embedded software solutions for institutional clients. The company supplies real-time and delayed quotes, charting, news, analytics, and portfolio management tools to online brokerages, banks, [clearing firms](/clearing-firm/), financial websites, media outlets, and corporate investor relations departments.
 
 Founded in 1992 and based in Fountain Hills, Arizona, QuoteMedia operates at the unglamorous but necessary intersection of financial information infrastructure. It is not a consumer-facing brand—most retail investors never encounter the company's name—but its data and widgets are woven into the platforms that millions of individual traders and investors use daily. That invisibility defines both QuoteMedia's market position and its limitations as a business.
 
@@ -26,7 +26,7 @@ Revenue comes in two flavors: recurring data subscriptions and services agreemen
 
 QuoteMedia sits in a narrowly defined but defensible niche. The financial data market is dominated by giants: Bloomberg and Reuters (both part of larger conglomerates) command the premium institutional segment with superb data quality and unmatched feature sets but at high cost. Real-time data licensing from exchanges and pricing data providers is expensive, and building a reliable, low-latency infrastructure requires sustained investment.
 
-QuoteMedia's advantage is not cost leadership—it is specificity and flexibility. Unlike the behemoths, which offer comprehensive but often inflexible suites, QuoteMedia can be deeply customized. A smaller online broker that cannot afford Bloomberg can buy exactly the data and tools it needs from QuoteMedia, integrated on its terms. The company has decades of client relationships and deep familiarity with what brokerages, banks, and financial media sites actually require. Its software is also lighter and faster to deploy than enterprise platforms.
+QuoteMedia's advantage is not cost leadership—it is specificity and flexibility. Unlike the behemoths, which offer comprehensive but often inflexible suites, QuoteMedia can be deeply customized. A smaller online [broker](/broker/) that cannot afford Bloomberg can buy exactly the data and tools it needs from QuoteMedia, integrated on its terms. The company has decades of client relationships and deep familiarity with what brokerages, banks, and financial media sites actually require. Its software is also lighter and faster to deploy than enterprise platforms.
 
 That said, the moat is modest. New competitors can in theory enter the space (building data aggregation and APIs is no longer exotic). Clients with sufficient scale can negotiate heavily or even build in-house. And the rise of free or low-cost financial data APIs (Yahoo Finance, IEX Cloud, etc.) has put pressure on premium data pricing across the industry.
 

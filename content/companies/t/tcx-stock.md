@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tucows is a company that has evolved from a consumer-facing internet portal into an infrastructure and services provider, operating across three distinct business arms: wholesale domain registration, a retail fiber and mobile operator, and enterprise telecom software. It is a modest but enduring player in markets where the core infrastructure is shifting — domains remain fundamental to the web, fiber deployment is accelerating, and telecom operators are increasingly dependent on software platforms to manage networks. The company's [ticker](/wiki/stock/) is TCX, listed on the NASDAQ, and its ability to balance a legacy wholesale business with two growth-oriented retail plays makes it a small-cap test case in how old-line internet businesses adapt when the ground beneath them changes.
+Tucows is a company that has evolved from a consumer-facing internet portal into an infrastructure and services provider, operating across three distinct business arms: wholesale domain registration, a retail fiber and mobile operator, and enterprise telecom software. It is a modest but enduring player in markets where the core infrastructure is shifting — domains remain fundamental to the web, fiber deployment is accelerating, and telecom operators are increasingly dependent on software platforms to manage networks. The company's [ticker](/wiki/stock/) is TCX, listed on the [NASDAQ](/nasdaq/), and its ability to balance a legacy wholesale business with two growth-oriented retail plays makes it a small-cap test case in how old-line internet businesses adapt when the ground beneath them changes.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ For years, that wholesale domain business was the bulk of Tucows' profit. It was
 
 ## Ting: fiber and mobile retail
 
-In 2009, Tucows started experimenting with building a direct-to-consumer internet service provider, first as MetroEthernet and then as Ting. Unlike the wholesale domain business, Ting involved capital expenditure, construction, operating costs, and customer acquisition — Tucows was now competing directly against incumbents like cable providers and larger telcos, not hiding in the plumbing.
+In 2009, Tucows started experimenting with building a direct-to-consumer internet service provider, first as MetroEthernet and then as Ting. Unlike the wholesale domain business, Ting involved capital expenditure, construction, operating costs, and customer [acquisition](/acquisition/) — Tucows was now competing directly against incumbents like cable providers and larger telcos, not hiding in the plumbing.
 
 Ting's strategy was to build fiber-optic networks to the home in selected markets, initially focusing on smaller cities and towns where the large incumbents had ignored. Fiber is expensive to deploy — trenching, installation, and the ongoing cost of maintaining the network — but once built, it is an asset. Ting positioned fiber as a superior offering: faster speeds than cable, symmetric uploads and downloads (important for remote work and video), and often at a lower cost than dominant local competitors.
 

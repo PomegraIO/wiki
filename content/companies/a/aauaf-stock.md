@@ -19,7 +19,7 @@ The company's flagship asset is the Ixtaca Gold-Silver Project located in Puebla
 
 ## Corporate Structure and Funding
 
-Almaden operates with a lean team, reflecting the typical structure of junior mining firms in the exploration phase. The company manages its balance sheet through periodic equity offerings and asset monetization—including past agreements like the Rock Creek Mill sale—to fund ongoing field work and administrative costs. Investors in exploration-stage mining typically accept higher risk in exchange for exposure to potential resource discoveries that could drive future revaluation.
+Almaden operates with a lean team, reflecting the typical structure of junior mining firms in the exploration phase. The company manages its [balance sheet](/balance-sheet/) through periodic equity offerings and asset monetization—including past agreements like the Rock Creek Mill sale—to fund ongoing field work and administrative costs. Investors in exploration-stage mining typically accept higher risk in exchange for exposure to potential resource discoveries that could drive future revaluation.
 
 ## Research and Regulatory Context
 

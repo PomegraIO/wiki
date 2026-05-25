@@ -31,7 +31,7 @@ International Flavors & Fragrances (IFF) is one of the world's largest creators 
 
 The business model is fundamentally B2B. IFF does not sell directly to consumers; instead, it supplies multinational food companies, beverage manufacturers, fragrance houses, cosmetics firms, and pharmaceutical makers. A packaged food manufacturer formulating a soft drink, a cosmetics company developing a shampoo, a perfumer creating a signature scent—all may rely on IFF's chemistry and flavor expertise. This means IFF's fortunes are tied to the spending patterns of large industrial and consumer goods corporations.
 
-IFF was originally founded in 1833 as a independent fragrance and flavor creator. For over 170 years it competed as a pure-play specialty chemicals firm. The pivotal transformation came with its 2018 merger with DuPont's Nutrition & Biosciences division, a major shift that roughly doubled the company's scale and added a substantial food-ingredients and health-solutions arm. That acquisition anchored IFF in functional food ingredients, probiotics, food safety, and natural ingredients—categories where it had previously had limited exposure. The merged entity retained the IFF name but became a more diversified specialty chemicals company.
+IFF was originally founded in 1833 as a independent fragrance and flavor creator. For over 170 years it competed as a pure-play specialty chemicals firm. The pivotal transformation came with its 2018 [merger](/merger/) with DuPont's Nutrition & Biosciences division, a major shift that roughly doubled the company's scale and added a substantial food-ingredients and health-solutions arm. That acquisition anchored IFF in functional food ingredients, probiotics, food safety, and natural ingredients—categories where it had previously had limited exposure. The merged entity retained the IFF name but became a more diversified specialty chemicals company.
 
 ## Revenue and Segments
 
@@ -44,7 +44,7 @@ IFF's revenue streams flow through four primary business segments, each serving 
 | **Nourish** (Health ingredients) | Probiotics, botanical extracts, natural food ingredients, food safety solutions, nutritional additives | Food manufacturers, ingredient makers, functional food brands | Faster-growing; driven by consumer demand for natural, health-conscious products |
 | **Beauty & Care** | Specialty ingredients for skin care, hair care, hygiene, and professional cleaning products | Personal care and cosmetics manufacturers | Moderate growth; linked to personal care and hygiene spending patterns |
 
-The Taste and Scent divisions remain IFF's traditional core, representing roughly half of combined sales. The DuPont Nutrition acquisition strengthened the Nourish segment, which includes high-growth categories like probiotics and microbiome health—a field attracting significant investment and consumer interest. Beauty & Care grew through organic development and small acquisitions.
+The Taste and Scent divisions remain IFF's traditional core, representing roughly half of combined sales. The DuPont Nutrition acquisition strengthened the Nourish segment, which includes high-growth categories like probiotics and microbiome health—a field attracting significant investment and consumer interest. Beauty & Care grew through organic development and small [acquisitions](/acquisition/).
 
 ## Competitive Positioning
 
@@ -60,7 +60,7 @@ IFF faces several structural headwinds. Raw material costs—including essential
 
 Consumer trends toward natural, sustainable, and "clean label" ingredients are steadily reshaping demand. IFF has adapted by investing in natural flavor molecules and botanical extracts (via the Nourish segment), but this transition is capital-intensive and not always more profitable than traditional synthetic chemistry.
 
-The Scent business carries cyclicality risk. Fragrance spending is a luxury good, and during downturns consumers defer or reduce purchases of premium perfumes and personal care goods. IFF's exposure to prestige fragrance houses means discretionary spending by affluent consumers indirectly affects its sales.
+The Scent business carries cyclicality risk. Fragrance spending is a luxury good, and during downturns consumers defer or reduce purchases of premium perfumes and personal care goods. IFF's exposure to prestige fragrance houses means [discretionary spending](/discretionary-spending/) by affluent consumers indirectly affects its sales.
 
 Integration of the DuPont Nutrition acquisition, while largely successful, required significant restructuring and realignment of manufacturing footprints. Cost-cutting and synergy realization took longer than initially projected, and some customer overlap required careful management to avoid conflicts. The company is still optimizing the combined footprint years after the deal.
 
@@ -68,9 +68,9 @@ Regulatory changes, particularly in flavoring compounds and food safety, can req
 
 ## How to Research It
 
-Start with IFF's annual [10-K](/wiki/10-k/) filing, which details segment revenue, gross margins by business, customer concentration (identifying major customers), and supply chain risks. Watch for management commentary on raw material inflation, pricing power, and customer destocking or acceleration trends.
+Start with IFF's annual [10-K](/wiki/10-k/) filing, which details segment revenue, gross margins by business, customer concentration (identifying major customers), and supply chain risks. Watch for management commentary on raw material [inflation](/inflation/), pricing power, and customer destocking or acceleration trends.
 
-Investors often track IFF's earnings, with focus on gross margin pressure (a leading indicator of raw material cost stress), segment growth rates (Nourish is growing faster than Scent or Taste), and free cash flow conversion. The company's ability to pass through raw material costs to customers is a key metric; in inflationary periods, IFF and peers face margin compression if customers resist price increases.
+Investors often track IFF's earnings, with focus on gross margin pressure (a leading indicator of raw material cost stress), segment growth rates (Nourish is growing faster than Scent or Taste), and free [cash flow conversion](/cash-flow-conversion/). The company's ability to pass through raw material costs to customers is a key metric; in inflationary periods, IFF and peers face margin compression if customers resist price increases.
 
 For forward outlook, monitor quarterly earnings calls for commentary on new product wins (IFF competes heavily on innovation), customer inventory levels, and demand signals from major food and beverage companies. IFF is a supplier's supplier: if food and beverage makers are pulling inventory, or if consumer demand for premium fragrances is cooling, IFF typically sees it within 6–12 months.
 

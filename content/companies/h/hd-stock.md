@@ -44,19 +44,19 @@ That said, Amazon and other digital-native players have gained share in smaller 
 
 ## The customer and the earnings engine
 
-Home Depot's customer base is broad but skews toward the aging American homeowner. As people age, they spend more on their homes. Older homes need maintenance. Real estate values create incentives for renovations. The company benefits from this demographic tailwind, but it also means Home Depot is sensitive to housing starts, existing home sales, and consumer confidence. When the economy weakens or interest rates spike, people delay renovations, and Home Depot feels the pain almost immediately.
+Home Depot's customer base is broad but skews toward the aging American homeowner. As people age, they spend more on their homes. Older homes need maintenance. Real estate values create incentives for renovations. The company benefits from this demographic tailwind, but it also means Home Depot is sensitive to housing starts, existing home sales, and consumer confidence. When the economy weakens or [interest rates](/interest-rate/) spike, people delay renovations, and Home Depot feels the pain almost immediately.
 
 Earnings depend heavily on traffic—the number of transactions per store—and basket size, or the average dollar amount per transaction. Comparable-store sales (sales from stores open for at least a year) are a key metric because they separate growth from new-store opening, and investors watch them closely. The company also tracks pro customer sales separately because the pro side is less sensitive to economic cycles and commands higher margins.
 
 ## The balance sheet and cash generation
 
-Home Depot is a highly profitable business that generates enormous amounts of cash. The company has turned that cash to good use: regular share buybacks, increasing dividends, and strategic acquisitions and investments. The balance sheet has evolved over time—the company took on debt to fund the growth from the 1990s through 2000s, then deployed buybacks and dividends heavily to return capital to shareholders. In recent years, it has balanced debt management with shareholder returns, so the capital structure remains stable.
+Home Depot is a highly profitable business that generates enormous amounts of cash. The company has turned that cash to good use: regular [share buybacks](/share-buyback/), increasing [dividends](/dividend/), and strategic [acquisitions](/acquisition/) and investments. The [balance sheet](/balance-sheet/) has evolved over time—the company took on debt to fund the growth from the 1990s through 2000s, then deployed buybacks and dividends heavily to return capital to shareholders. In recent years, it has balanced debt management with shareholder returns, so the capital structure remains stable.
 
-The [10-K](/wiki/10-k/) filing each year reveals the breakdown of revenue by product category and geography, details on store count and square footage, and the components of operating margin. These SEC disclosures are the gold standard for understanding where the money comes from and how much is left after operating expenses.
+The [10-K](/wiki/10-k/) filing each year reveals the breakdown of revenue by product category and geography, details on store count and square footage, and the components of [operating margin](/operating-margin/). These SEC disclosures are the [gold standard](/gold-standard/) for understanding where the money comes from and how much is left after operating expenses.
 
 ## The challenges ahead
 
-Home Depot is not without structural risks. Housing is cyclical, and the company is heavily exposed to swings in real estate values, mortgage rates, and consumer confidence. A prolonged recession or housing downturn would depress sales quickly. Wage inflation in retail has pressured margins, and the company competes constantly on price, which can squeeze profitability even as sales hold up.
+Home Depot is not without structural risks. Housing is cyclical, and the company is heavily exposed to swings in real estate values, mortgage rates, and consumer confidence. A prolonged [recession](/recession/) or housing downturn would depress sales quickly. Wage [inflation](/inflation/) in retail has pressured margins, and the company competes constantly on price, which can squeeze profitability even as sales hold up.
 
 The competitive intensity from Amazon and other digital retailers is real, especially in smaller items and more convenient delivery models. Home Depot must continue to innovate in online ordering, delivery logistics, and the in-store experience to stay ahead. The company is also exposed to international expansion risks; its Canadian and Mexican operations help diversify, but international retail is complicated, and margins tend to be lower.
 

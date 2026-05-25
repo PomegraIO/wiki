@@ -26,7 +26,7 @@ handwritten: true
 
 </aside>
 
-Horizon Quantum Holdings is a young quantum software company operating at the intersection of hardware abstraction and practical quantum computing. Rather than designing its own quantum processors, it has chosen to build software infrastructure—chiefly its Triple Alpha integrated development environment—designed to work across different quantum hardware types. The company debuted on the NASDAQ in May 2026 via merger with special-purpose acquisition company (SPAC) dMY Squared Technology Group, becoming one of the first publicly traded quantum software-focused firms rather than quantum hardware makers.
+Horizon Quantum Holdings is a young quantum software company operating at the intersection of hardware abstraction and practical quantum computing. Rather than designing its own quantum processors, it has chosen to build software infrastructure—chiefly its Triple Alpha integrated development environment—designed to work across different quantum hardware types. The company debuted on the [NASDAQ](/nasdaq/) in May 2026 via [merger](/merger/) with [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) dMY Squared Technology Group, becoming one of the first publicly traded quantum software-focused firms rather than quantum hardware makers.
 
 ## The Business: Software as Infrastructure
 

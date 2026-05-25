@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-YXT.com Group Holding Limited operates an enterprise cloud-based learning platform designed for corporate training and workforce development in China. The company went public on the NASDAQ in 2020 and is incorporated in the Cayman Islands with operations headquartered in Suzhou, in Jiangsu Province. Its business model centers on delivering digital corporate learning solutions through a SaaS-delivered system that bundles software tools with content libraries, targeting mid-market and large enterprises seeking to scale employee training.
+YXT.com Group Holding Limited operates an enterprise cloud-based learning platform designed for corporate training and workforce development in China. The company went public on the [NASDAQ](/nasdaq/) in 2020 and is incorporated in the Cayman Islands with operations headquartered in Suzhou, in Jiangsu Province. Its business model centers on delivering digital corporate learning solutions through a SaaS-delivered system that bundles software tools with content libraries, targeting mid-market and large enterprises seeking to scale employee training.
 
 The company traces its roots to Unicentury Group Holding Limited, which was founded in 2011. In May 2021, Unicentury rebranded to YXT.com Group Holding, adopting the simplified name to better represent its core platform and align with an expanded product vision that encompasses not just learning management but broader enterprise productivity and AI-augmented tools.
 

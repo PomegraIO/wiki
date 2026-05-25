@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Smart Digital Group Limited, trading under the ticker SDM on the Nasdaq Capital Market, is a digital marketing and event planning service provider headquartered in Zhuhai, Guangdong Province, China. The company was incorporated in 2022 and launched its [public company](/wiki/public-company/) listing in May 2025, marking an early stage of operations as a publicly traded enterprise.
+Smart Digital Group Limited, trading under the ticker SDM on the [Nasdaq](/nasdaq/) Capital Market, is a digital marketing and event planning service provider headquartered in Zhuhai, Guangdong Province, China. The company was incorporated in 2022 and launched its [public company](/wiki/public-company/) listing in May 2025, marking an early stage of operations as a publicly traded enterprise.
 
 ## The Business
 

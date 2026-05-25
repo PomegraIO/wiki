@@ -17,7 +17,7 @@ AIM ImmunoTech is a clinical-stage biotechnology company pursuing immunotherapie
 
 ## How does it fund its operations?
 
-As a [public company](/wiki/public-company/) trading on NASDAQ, AIM raises capital through periodic equity offerings and relies on cash reserves to fund research. The company has also pursued partnerships and licensing agreements with larger pharmaceutical entities to generate near-term revenue while core candidates advance through clinical trials. Like most biotech firms at clinical stages, AIM's financial model depends on external funding rounds tied to trial milestones rather than product sales.
+As a [public company](/wiki/public-company/) trading on [NASDAQ](/nasdaq/), AIM raises capital through periodic equity offerings and relies on cash reserves to fund research. The company has also pursued partnerships and licensing agreements with larger pharmaceutical entities to generate near-term revenue while core candidates advance through clinical trials. Like most biotech firms at clinical stages, AIM's financial model depends on external funding rounds tied to trial milestones rather than product sales.
 
 ## Where's the competitive advantage?
 
@@ -25,4 +25,4 @@ AIM's platform technology focusing on amino acid metabolism and immunomodulation
 
 ## What are the realistic pathways forward?
 
-For a clinical-stage biotech of AIM's scale and capitalization, realistic outcomes include advancing lead candidates through Phase II/III trials, securing strategic partnerships to co-develop programs, out-licensing technology platforms to larger firms, or reaching a merger or acquisition. Full commercialization of internally developed drugs depends on achieving statistically significant trial results and navigating regulatory approval—a multi-year, capital-intensive process. [SEC filings](/wiki/10-k/) detail the current pipeline status and developmental milestones.
+For a clinical-stage biotech of AIM's scale and capitalization, realistic outcomes include advancing lead candidates through Phase II/III trials, securing strategic partnerships to co-develop programs, out-licensing technology platforms to larger firms, or reaching a [merger](/merger/) or [acquisition](/acquisition/). Full commercialization of internally developed drugs depends on achieving statistically significant trial results and navigating regulatory approval—a multi-year, capital-intensive process. [SEC filings](/wiki/10-k/) detail the current pipeline status and developmental milestones.

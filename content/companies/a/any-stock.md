@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-**Sphere 3D is a Bitcoin mining company that owns and operates mining hardware across self-controlled facilities and hosted data center environments.** The operation focuses on managing the capital cycle of mining equipment—deploying next-generation miners as they become economically viable, then exiting older hardware when efficiency gains from newer models justify replacement. Revenue is denominated entirely in Bitcoin and fluctuates based on mining difficulty and network halving events.
+**Sphere 3D is a [Bitcoin](/bitcoin/) mining company that owns and operates mining hardware across self-controlled facilities and hosted data center environments.** The operation focuses on managing the capital cycle of mining equipment—deploying next-generation miners as they become economically viable, then exiting older hardware when efficiency gains from newer models justify replacement. Revenue is denominated entirely in Bitcoin and fluctuates based on mining difficulty and network halving events.
 
 ## Mining Fleet Management
 
-The company maintains an active strategy of fleet refreshing. In 2025, Sphere 3D cycled out aging miners and deployed approximately 2,300 units of newer equipment, improving the power efficiency of its overall fleet from 27.1 joules per terahash to below 19 joules per terahash. This metric—energy per unit of computational work—directly affects profitability: a more efficient fleet extracts more Bitcoin per dollar of electricity consumed. The company mines continuously against difficulty adjustments on the Bitcoin network, which rise and fall every 2,016 blocks in response to changes in total network hashrate.
+The company maintains an active strategy of fleet refreshing. In 2025, Sphere 3D cycled out aging miners and deployed approximately 2,300 units of newer equipment, improving the power efficiency of its overall fleet from 27.1 joules per terahash to below 19 joules per terahash. This metric—energy per unit of computational work—directly affects profitability: a more efficient fleet extracts more Bitcoin per dollar of electricity consumed. The company mines continuously against [difficulty adjustments](/difficulty-adjustment/) on the Bitcoin network, which rise and fall every 2,016 blocks in response to changes in total network hashrate.
 
 ## Operating Infrastructure
 

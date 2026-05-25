@@ -21,7 +21,7 @@ handwritten: true
   <div><strong>What it does</strong>: Full-service banking, asset management, advisory services</div>
 </aside>
 
-Bank of America is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. credit cycles, interest rate policy, and the structural health of the American financial system itself.
+[Bank of America](/bank-of-america/) is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. credit cycles, interest rate policy, and the structural health of the American financial system itself.
 
 ## The Business Architecture
 
@@ -29,7 +29,7 @@ BofA's core business splits into three main segments: Consumer Banking, Global W
 
 The bank's revenue engine is multifaceted. Net interest income (the spread between what it earns on loans and pays on deposits) remains substantial but faces structural pressure from rate cycles and deposit competition. Non-interest revenue comes from trading, advisory fees, commissions on asset management, and loan fees. Asset management is a recurring, high-margin business that has grown in importance; the firm oversees trillions in client assets.
 
-Like all large banks, BofA's earnings are deeply cyclical. Strong economies bring more loan growth, higher default rates are manageable, and trading volumes pick up. In downturns, charge-offs spike, credit spreads widen, and advisory activity dries up. This is not a company that smooths earnings; it rides the business cycle hard.
+Like all large banks, BofA's earnings are deeply cyclical. Strong economies bring more loan growth, higher default rates are manageable, and trading volumes pick up. In downturns, charge-offs spike, [credit spreads](/credit-spread/) widen, and advisory activity dries up. This is not a company that smooths earnings; it rides the business cycle hard.
 
 ## History and Scale
 
@@ -41,11 +41,11 @@ Today BofA employs more than 200,000 people and maintains a sprawling branch net
 
 Three forces dominate BofA's earnings trajectory: the [10-K](/wiki/10-k/) tells you this story most clearly.
 
-**Interest rates and the yield curve.** When the Federal Reserve raises rates, BofA's deposit base (which largely sits on non-interest-bearing or low-rate accounts) becomes more expensive to retain, but loans reprice upward and the net interest margin widens for a time. A flat or inverted yield curve hurts; the firm earns less on long-term loans while competing harder for deposits. The 2022–2023 rate cycle saw margin compression, then partial recovery.
+**Interest rates and the yield curve.** When the [Federal Reserve](/federal-reserve/) raises rates, BofA's deposit base (which largely sits on non-interest-bearing or low-rate accounts) becomes more expensive to retain, but loans reprice upward and the net interest margin widens for a time. A flat or inverted yield curve hurts; the firm earns less on long-term loans while competing harder for deposits. The 2022–2023 rate cycle saw margin compression, then partial recovery.
 
-**Credit quality.** Consumer loan delinquencies, charge-offs, and allowance for credit losses drive profitability in downturns. A rising unemployment rate usually precedes a spike in card and mortgage defaults. The bank's exposure to commercial real estate, especially office properties, carries meaningful risk as post-pandemic demand patterns shift.
+**Credit quality.** Consumer loan delinquencies, charge-offs, and allowance for credit losses drive profitability in downturns. A rising [unemployment rate](/unemployment-rate/) usually precedes a spike in card and mortgage defaults. The bank's exposure to [commercial real estate](/commercial-real-estate/), especially office properties, carries meaningful risk as post-pandemic demand patterns shift.
 
-**Capital markets activity.** Trading revenue, investment banking fees, and advisory work are highly sensitive to deal volume and market volatility. In quiet markets, this line item shrinks. In volatile, busy periods (M&A booms, initial public offerings, credit restructurings), it surges. The firm's large trading desk generates outsized revenue but also concentration risk.
+**Capital markets activity.** Trading revenue, investment banking fees, and advisory work are highly sensitive to deal volume and market volatility. In quiet markets, this line item shrinks. In volatile, busy periods (M&A booms, [initial public offerings](/initial-public-offering/), credit restructurings), it surges. The firm's large trading desk generates outsized revenue but also [concentration risk](/concentration-risk/).
 
 **Regulatory capital requirements.** Since Dodd-Frank and subsequent stress tests, BofA must hold minimum common equity ratios and undergo annual stress testing. These constraints limit dividend growth and buyback velocity. Management regularly discusses capital return plans in investor presentations; watch the [bank's disclosures](/wiki/public-company/) on stress test results and the Comprehensive Capital Analysis and Review (CCAR) outcomes.
 
@@ -61,7 +61,7 @@ Relative to peers, BofA's trading franchise is a strength; its mortgage servicin
 
 **Economic sensitivity.** A U.S. recession or credit crisis would quickly contract earnings. Consumer and commercial loan losses would spike. The stock would likely underperform as credit spreads widen.
 
-**Net interest margin compression.** If the Fed keeps rates low or the yield curve remains flat, NII (the core profit driver) will remain pressured. Deposit competition from money market funds and other alternatives could force higher rates paid to depositors.
+**Net interest margin compression.** If the Fed keeps rates low or the yield curve remains flat, NII (the core profit driver) will remain pressured. Deposit competition from [money market funds](/money-market-fund/) and other alternatives could force higher rates paid to depositors.
 
 **Commercial real estate exposure.** Office real estate is under structural stress as remote work reshapes demand. Some regional banks have blown up on office CRE; BofA's portfolio is diversified but not immune.
 
@@ -69,15 +69,15 @@ Relative to peers, BofA's trading franchise is a strength; its mortgage servicin
 
 **Regulatory complexity.** Dodd-Frank, ongoing stress tests, and potential future rule-making keep regulatory risk on the table. Tighter capital requirements could force slower capital returns or asset sales.
 
-**Geopolitical shocks.** The firm's global operations and trading desk expose it to currency volatility, emerging market crises, and sanctions-related disruptions.
+**Geopolitical shocks.** The firm's global operations and trading desk expose it to [currency volatility](/currency-volatility/), emerging market crises, and sanctions-related disruptions.
 
 ## How to Research It
 
 Start with BofA's annual [10-K](/wiki/10-k/) filed with the SEC. The business segment breakdown is detailed; read the net interest income discussion and the allowance for credit losses methodology closely. Quarterly earnings calls reveal management's tone on deposit flows, loan growth, and capital markets outlook. The investor relations website publishes stress test results, capital plans, and financial supplements that break down profitability by business line.
 
-Key metrics to track: net interest margin (NIM), cost of deposits, loan-to-deposit ratio, tier 1 capital ratio, tangible book value per share, return on equity, and credit metrics such as the ratio of nonperforming loans to total loans. Compare these to peers (JPMorgan Chase, Wells Fargo, Citigroup) to spot relative strength or weakness.
+Key metrics to track: net interest margin (NIM), cost of deposits, loan-to-deposit ratio, tier 1 capital ratio, [tangible book value per share](/tangible-book-value-per-share/), [return on equity](/return-on-equity/), and credit metrics such as the ratio of nonperforming loans to total loans. Compare these to peers (JPMorgan Chase, Wells Fargo, Citigroup) to spot relative strength or weakness.
 
-Watch Federal Reserve communications on rates and quantitative tightening; both are material to earnings. Large M&A or market volatility will shift trading and advisory revenue quarter to quarter, so seasonal patterns and market context matter. Insider filings and proxy statements reveal executive compensation philosophy and governance issues.
+Watch Federal Reserve communications on rates and [quantitative tightening](/quantitative-tightening/); both are material to earnings. Large M&A or market volatility will shift trading and advisory revenue quarter to quarter, so seasonal patterns and market context matter. Insider filings and proxy statements reveal executive compensation philosophy and governance issues.
 
 The best reads are the [10-K](/wiki/10-k/) and the quarterly earnings call transcript, both freely available on the SEC website or the bank's investor relations portal.
 

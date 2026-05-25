@@ -20,7 +20,7 @@ NovaBridge operates as a clinical-stage company with no approved products on the
 
 ## Revenue and Commercialization Model
 
-The company currently generates no revenue from product sales. NovaBridge operates on a development-stage model, funding operations through equity financing and, historically, collaboration arrangements. The strategic focus is on advancing clinical evidence and preparing for potential regulatory pathways leading to approval and eventual commercialization. The company has explored partnership opportunities and has indicated interest in accessing capital markets internationally, including a proposed dual listing on Nasdaq and the Hong Kong Stock Exchange.
+The company currently generates no revenue from product sales. NovaBridge operates on a development-stage model, funding operations through [equity financing](/equity-financing/) and, historically, collaboration arrangements. The strategic focus is on advancing clinical evidence and preparing for potential regulatory pathways leading to approval and eventual commercialization. The company has explored partnership opportunities and has indicated interest in accessing capital markets internationally, including a proposed [dual listing](/dual-listing/) on [Nasdaq](/nasdaq/) and the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/).
 
 ## Competitive Position and Technology
 

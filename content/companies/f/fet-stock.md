@@ -28,7 +28,7 @@ Recent years have brought intensifying pressure from the transition to lower-car
 
 ## Financial profile and how to understand the business
 
-Forum is a [public company](/wiki/public-company/) traded on the New York Stock Exchange under the ticker [FET](/wiki/fet-stock/). Like other industrial manufacturers dependent on oil and gas, its [10-K](/wiki/10-k/) filing reveals the degree to which cash flow and earnings swing with industry cycles. In upswings, the company generates strong margins as fixed costs spread across higher volume. In downturns, revenue can collapse faster than expenses decline, resulting in losses.
+Forum is a [public company](/wiki/public-company/) traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker [FET](/wiki/fet-stock/). Like other industrial manufacturers dependent on oil and gas, its [10-K](/wiki/10-k/) filing reveals the degree to which cash flow and earnings swing with industry cycles. In upswings, the company generates strong margins as fixed costs spread across higher volume. In downturns, revenue can collapse faster than expenses decline, resulting in losses.
 
 Investors watching the company should track a few key indicators. The global rig count is a leading indicator of demand for Forum's products—when operators add rigs, they buy new equipment. Oil price trends matter too, since they influence operator spending intentions. The company's inventory and backlog figures signal management's confidence in near-term demand. Gross margins, often reported by segment, reveal which product lines are performing and whether pricing is holding.
 
@@ -36,7 +36,7 @@ Forum's debt levels and [cash flow](/wiki/cash-flow-statement/) deserve scrutiny
 
 ## Historical context
 
-Forum Energy Technologies was formed through a 2014 merger of three specialized equipment manufacturers: Hanover Industries, Superior Energy Services, and Basic Energy Services, coming together to create a broader-based supplier of oilfield equipment. The combination aimed to create a company large enough to serve major customers globally while maintaining the technical expertise of smaller, specialized firms. Like many oil-service companies, Forum faced a brutal 2014-2016 downturn but emerged leaner and more focused. The pandemic era brought fresh challenges, but the subsequent rebound in oil prices and activity levels provided some relief, at least temporarily.
+Forum Energy Technologies was formed through a 2014 [merger](/merger/) of three specialized equipment manufacturers: Hanover Industries, Superior Energy Services, and Basic Energy Services, coming together to create a broader-based supplier of oilfield equipment. The combination aimed to create a company large enough to serve major customers globally while maintaining the technical expertise of smaller, specialized firms. Like many oil-service companies, Forum faced a brutal 2014-2016 downturn but emerged leaner and more focused. The pandemic era brought fresh challenges, but the subsequent rebound in oil prices and activity levels provided some relief, at least temporarily.
 
 Forum's history reflects the sector's volatility. Good cycles have allowed investment in new product lines and geographies. Severe downturns have forced asset sales, workforce reductions, and restructuring. The company survives by maintaining the technical edge and customer relationships that make it relevant in the next upswing.
 

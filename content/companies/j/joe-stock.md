@@ -30,7 +30,7 @@ The St. Joe Company occupies an unusual corner of American real estate: a large 
 
 St. Joe traces to 1936 when a set of timber and agricultural properties began consolidation under Alico, Inc. The company spent decades as a quiet, private holding: timber operations, cattle ranching, and land stewardship in sparsely populated North Florida. This model persisted for decades—the company was not primarily building neighborhoods or shopping centers but stewarding millions of acres with an eye toward eventual, leisurely monetization.
 
-The transformation accelerated after 2010, when the company rebranded to St. Joe Company and began aggressive (by its standards) real estate development. The Great Recession had depressed land values and cleared the field of competitors. St. Joe had the rare luxury of being well-capitalized and patient. It acquired additional parcels, zoned land for development, and launched master-planned communities targeting retirees and remote workers fleeing higher-cost coastal metros.
+The transformation accelerated after 2010, when the company rebranded to St. Joe Company and began aggressive (by its standards) real estate development. The Great [Recession](/recession/) had depressed land values and cleared the field of competitors. St. Joe had the rare luxury of being well-capitalized and patient. It acquired additional parcels, zoned land for development, and launched master-planned communities targeting retirees and remote workers fleeing higher-cost coastal metros.
 
 ## The Business Today: Four Revenue Streams
 
@@ -52,9 +52,9 @@ Regulation poses another constraint. Environmental permitting for large-scale de
 
 ## Financial Character and Valuation Lens
 
-St. Joe reports results in segments: Residential, Commercial, Hospitality, and other. The consolidated P&L is somewhat opaque because large portions are unrealized land appreciation or non-recurring gains. Investors typically study the company through a [real estate investment trust](/wiki/real-estate-investment-trust/) or land developer lens, examining net operating income on operating properties and tracking land sales and appreciation separately.
+St. Joe reports results in segments: Residential, Commercial, Hospitality, and other. The consolidated P&L is somewhat opaque because large portions are unrealized land appreciation or non-recurring gains. Investors typically study the company through a [real estate investment trust](/wiki/real-estate-investment-trust/) or land developer lens, examining [net operating income](/net-operating-income/) on operating properties and tracking land sales and appreciation separately.
 
-The company typically trades at a discount to its estimated net asset value—the sum of lands at estimated development value, property holdings at current market, and cash minus debt. This discount reflects the illiquidity of raw land, the time horizon required to realize value, and periodic investor skepticism about execution. During housing booms, the discount narrows; during downturns, it widens sharply.
+The company typically trades at a discount to its estimated [net asset value](/net-asset-value/)—the sum of lands at estimated development value, property holdings at current market, and cash minus debt. This discount reflects the illiquidity of raw land, the time horizon required to realize value, and periodic investor skepticism about execution. During housing booms, the discount narrows; during downturns, it widens sharply.
 
 Debt levels fluctuate with development activity. The company funds development with operating cash flows and borrowed capital. High debt during expansion cycles is typical; successful monetization should reduce leverage over time.
 
@@ -68,9 +68,9 @@ Debt levels fluctuate with development activity. The company funds development w
 
 **Hospitality performance:** The hotel portfolio is capital-intensive; watch for consistent occupancy, average daily rates (ADR), and profitability. Downturns hit hospitality hard.
 
-**Debt management:** Monitor leverage ratios and refinancing activity. Rising interest rates can pressure development returns and the company's cost of capital.
+**Debt management:** Monitor [leverage ratios](/leverage-ratio-forex/) and refinancing activity. Rising [interest rates](/interest-rate/) can pressure development returns and the company's cost of capital.
 
 **Regulatory and environmental developments:** Land-use law changes, permitting delays, or sea-level rise strategies can affect development timelines and costs.
 
-St. Joe's 10-K and earnings calls provide color on segment profitability, land sales, and forward pipeline. The business is long-term; patient capital is rewarded, and impatience is punished. The company's intrinsic value depends on (a) the eventual density of population in Northwest Florida, (b) its ability to capitalize on that growth, and (c) capital discipline during cycles.
+St. Joe's 10-K and earnings calls provide color on segment profitability, land sales, and forward pipeline. The business is long-term; patient capital is rewarded, and impatience is punished. The company's [intrinsic value](/intrinsic-value/) depends on (a) the eventual density of population in Northwest Florida, (b) its ability to capitalize on that growth, and (c) capital discipline during cycles.
 

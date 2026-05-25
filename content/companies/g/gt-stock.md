@@ -25,13 +25,13 @@ The **Original Equipment Segment** supplies tires to automakers as original equi
 
 The **Engineered Products and Other Segments** includes conveyor belts, hoses, seals, and specialty tires for aircraft, agriculture, and off-road applications. These products typically carry higher margins than commodity tires and serve industrial customers with recurring needs. The engineered products business benefits from Goodyear's materials science and manufacturing expertise.
 
-Profitability is driven by volume, product mix (higher-margin specialty and engineered goods improve the overall picture), operating leverage, and commodity input costs—particularly natural rubber, synthetic rubber, and petroleum products. Goodyear's margin profile compresses when rubber and oil prices spike, and expands when input costs decline. The company's ability to pass through input-cost inflation to customers has improved with brand strength, but pricing power remains constrained in competition.
+Profitability is driven by volume, product mix (higher-margin specialty and engineered goods improve the overall picture), operating leverage, and commodity input costs—particularly natural rubber, synthetic rubber, and petroleum products. Goodyear's margin profile compresses when rubber and oil prices spike, and expands when input costs decline. The company's ability to pass through input-cost [inflation](/inflation/) to customers has improved with brand strength, but pricing power remains constrained in competition.
 
 ## What sets Goodyear apart?
 
 Goodyear's primary moat is **brand heritage and global scale**. The Goodyear blimp itself is a marketing icon; the brand is synonymous with tire quality and innovation in much of the world. This historical brand strength translates into retail shelf space, consumer preference, and direct OEM relationships that newer or less-known competitors struggle to replicate.
 
-The company's second advantage is **manufacturing scale and diversification**. With manufacturing across multiple regions and ability to produce for different tire types and applications, Goodyear can serve global automakers and supply chains at a cost structure that smaller rivals cannot match. Its engineered products segment, while a smaller contributor to revenue, builds customer stickiness and leverages existing rubber and materials expertise.
+The company's second advantage is **manufacturing scale and [diversification](/diversification/)**. With manufacturing across multiple regions and ability to produce for different tire types and applications, Goodyear can serve global automakers and supply chains at a cost structure that smaller rivals cannot match. Its engineered products segment, while a smaller contributor to revenue, builds customer stickiness and leverages existing rubber and materials expertise.
 
 Goodyear has invested in **technology and sustainability** as competitive edges. The company has developed fuel-efficient tire designs, all-terrain and all-weather formulations, and run-flat tires—innovations that command price premiums in the replacement market. Sustainability initiatives, including recycled-material tires and circular economy positioning, appeal to environmentally conscious OEMs and consumers alike.
 
@@ -57,7 +57,7 @@ Start with the [10-K](/wiki/10-k/) annual report (SEC CIK 42582). The filing det
 
 Watch **automotive production forecasts** and new-vehicle sales trends in major markets (US, Europe, China)—these are leading indicators for both OEM and replacement-market demand. If production falls, Goodyear's near-term revenue outlook compresses.
 
-Track **commodity input prices**, especially natural rubber, synthetic rubber, and crude oil. Goodyear discloses commodity exposure in earnings calls; understand what percentage of COGS is hedged and what margin expansion or compression might flow from price moves.
+Track **commodity input prices**, especially natural rubber, synthetic rubber, and [crude oil](/crude-oil/). Goodyear discloses commodity exposure in earnings calls; understand what percentage of COGS is hedged and what margin expansion or compression might flow from price moves.
 
 Analyze **segment profitability** over time. Replacement-market and engineered-products margins reveal whether the company is successfully shifting toward higher-margin business. A rising share of revenue from specialty and engineered products suggests operational progress; flat or declining engineered-product mix may indicate pricing or volume weakness.
 

@@ -29,7 +29,7 @@ Aurion's team conducts field work and geological assessment directly, positionin
 - Two main projects in Lapland's greenstone belt
 - Joint ventures with major mining companies (B2Gold, Kinross, KoBold)
 - Enables exploration funding with minimal shareholder dilution
-- Subject to acquisition by Agnico Eagle announced in 2026
+- Subject to [acquisition](/acquisition/) by Agnico Eagle announced in 2026
 
 ---
 

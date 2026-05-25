@@ -16,7 +16,7 @@ Aecon Group is a Canadian construction and engineering company that specializes 
 
 ## How does a construction company make money on infrastructure?
 
-Aecon wins contracts through competitive bidding—the company estimates the cost to deliver a project and quotes a price to the client. If the company executes efficiently and comes in under that estimate, the difference is profit. If costs run over, margins compress or the project loses money. Revenue is recognized as work progresses, and profitability hinges on accurate cost estimation at bid time, disciplined project management, labor productivity, and supply chain execution. Large projects involve many subcontractors working under Aecon as the prime contractor, adding another layer of cost management. The company's success depends entirely on bid accuracy and operational discipline—one badly estimated or poorly executed project can offset the gains from several others.
+Aecon wins contracts through competitive bidding—the company estimates the cost to deliver a project and quotes a price to the client. If the company executes efficiently and comes in under that estimate, the difference is profit. If costs run over, margins compress or the project loses money. Revenue is recognized as work progresses, and profitability hinges on accurate cost estimation at bid time, disciplined project management, [labor productivity](/labor-productivity/), and supply chain execution. Large projects involve many subcontractors working under Aecon as the prime contractor, adding another layer of cost management. The company's success depends entirely on bid accuracy and operational discipline—one badly estimated or poorly executed project can offset the gains from several others.
 
 ## Why would government agencies or utilities choose Aecon over competitors?
 
@@ -24,7 +24,7 @@ Aecon competes in the Canadian heavy construction market against other large fir
 
 ## What makes Aecon's business risky or vulnerable?
 
-Construction work is inherently cyclical—demand depends on government budgets, infrastructure spending priorities, and private capital availability. Cost inflation on labor and materials can squeeze margins if a project was bid before prices spiked. Weather, regulatory changes, and schedule delays can turn profitable projects into loss-makers. Aecon's balance sheet carries leverage from large, long-duration projects that consume cash before payment arrives. The company is also exposed to political cycles; a shift in infrastructure funding priorities or a recession can dry up the bid pipeline. Competition from larger firms and smaller regional contractors creates pressure on margins.
+Construction work is inherently cyclical—demand depends on government budgets, infrastructure spending priorities, and private capital availability. Cost [inflation](/inflation/) on labor and materials can squeeze margins if a project was bid before prices spiked. Weather, regulatory changes, and schedule delays can turn profitable projects into loss-makers. Aecon's [balance sheet](/balance-sheet/) carries leverage from large, long-duration projects that consume cash before payment arrives. The company is also exposed to political cycles; a shift in infrastructure funding priorities or a [recession](/recession/) can dry up the bid pipeline. Competition from larger firms and smaller regional contractors creates pressure on margins.
 
 ## How would you assess Aecon as an investment?
 

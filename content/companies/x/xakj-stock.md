@@ -20,7 +20,7 @@ The company describes its mission as linking upstream suppliers and downstream r
 
 ## Scale and capital structure
 
-Xiao AI Technology trades over-the-counter (not on a major exchange), with approximately 2 billion shares outstanding and a micro-cap valuation around $18 million. Such scale indicates either an early-stage venture with minimal revenue, a dormant shell, or a company whose disclosed operations do not match its share count. The OTC trading status means minimal liquidity, wider bid-ask spreads, and lower regulatory scrutiny than Nasdaq or NYSE listings.
+Xiao AI Technology trades over-the-counter (not on a major exchange), with approximately 2 billion shares outstanding and a micro-cap valuation around $18 million. Such scale indicates either an early-stage venture with minimal revenue, a dormant shell, or a company whose disclosed operations do not match its share count. The OTC trading status means minimal liquidity, wider [bid-ask spreads](/bid-ask-spread/), and lower regulatory scrutiny than [Nasdaq](/nasdaq/) or NYSE listings.
 
 No analyst coverage exists. Institutional investors rarely touch micro-caps of this kind; trading is speculative, often retail-driven, and prone to pump-and-dump dynamics or pink-sheet volatility.
 
@@ -34,7 +34,7 @@ This company operates at the micro-cap, OTC-traded fringe. The probability of ac
 
 At a glance:
 - Over-the-counter micro-cap stock with ~2 billion shares outstanding
-- Estimated market cap around $18 million; minimal analyst coverage
+- Estimated [market cap](/market-capitalization/) around $18 million; minimal analyst coverage
 - Business described as prefabricated food supply chain and robotic restaurant services
 - Recently rebranded from SIPP International Industries (ticker SIPN) to Xiao AI Technology (XAKJ)
 - No visible institutional ownership or significant analyst following

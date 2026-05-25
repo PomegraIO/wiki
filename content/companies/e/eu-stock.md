@@ -19,7 +19,7 @@ The economics of in-situ recovery are compelling in high-grade, shallow deposits
 
 ## Growth and Positioning
 
-enCore assembled its project portfolio partly through acquisitions and partly by assembling claims and partnerships in the Powder River Basin of Wyoming, a region with both known uranium mineralization and prior production history. The company also holds interests in projects in other Western basins. Rather than operating many mines at once, the strategy is more surgical: identify and develop the most prospective, lowest-cost projects first, then scale production and geographic footprint as market conditions and permitting advance.
+enCore assembled its project portfolio partly through [acquisitions](/acquisition/) and partly by assembling claims and partnerships in the Powder River Basin of Wyoming, a region with both known uranium mineralization and prior production history. The company also holds interests in projects in other Western basins. Rather than operating many mines at once, the strategy is more surgical: identify and develop the most prospective, lowest-cost projects first, then scale production and geographic footprint as market conditions and permitting advance.
 
 A key strategic ingredient has been the shift in nuclear energy sentiment. After decades of relative dormancy, uranium demand has been reignited by recognition that nuclear power is essential to decarbonization goals, by agreement among many nations to expand nuclear capacity, and by outages and constraints at existing reactors that have tightened uranium supply. This tailwind has lifted the entire sector's visibility and de-risked the development timeline for new production.
 

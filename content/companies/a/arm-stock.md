@@ -15,7 +15,7 @@ The revenue model is straightforward: initial licensing fees when a partner firs
 
 What makes this defensible is the network effect and the switching cost. Chipmakers have invested years building toolchains, compilers, and development expertise around ARM. Switching to an entirely different architecture—Intel x86, MIPS, RISC-V—means retraining engineers, rewriting software, starting from scratch. ARM's dominance in mobile and now spreading into servers and edge computing creates a gravity well. The Arm Instruction Set Architecture is the de facto standard for power-efficient processors below server scale.
 
-The company went public on the London Stock Exchange in 1998, was acquired by SoftBank in 2016 for approximately USD 32 billion, and returned to public markets in 2023. Ownership remains global: SoftBank retains a meaningful stake, institutional investors hold shares widely, and the stock trades on Nasdaq as well as the London exchange.
+The company went public on the [London Stock Exchange](/london-stock-exchange/) in 1998, was acquired by SoftBank in 2016 for approximately USD 32 billion, and returned to public markets in 2023. Ownership remains global: SoftBank retains a meaningful stake, institutional investors hold shares widely, and the stock trades on [Nasdaq](/nasdaq/) as well as the London exchange.
 
 Revenue flows from two buckets:
 

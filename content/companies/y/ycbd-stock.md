@@ -36,11 +36,11 @@ Competition is intense and fragmented. Established players in wellness and suppl
 
 Human CBD products (tinctures, gummies, topicals) form the backbone of the business. The pet segment, while smaller, has gained traction as pet owners increasingly treat their animals' wellness. These products are not cheap—a bottle of CBD tincture can retail for $40–80—so the customer base skews toward wellness-conscious, higher-income consumers.
 
-Customer acquisition relies heavily on digital marketing, including search, social media, and influencer partnerships. This approach has allowed cbdMD to build brand awareness in a crowded field, but it requires ongoing spending to sustain. Customer lifetime value and repeat purchase rates are important metrics for judging the business's true health, though the company has not always disclosed these transparently.
+Customer [acquisition](/acquisition/) relies heavily on digital marketing, including search, social media, and influencer partnerships. This approach has allowed cbdMD to build brand awareness in a crowded field, but it requires ongoing spending to sustain. Customer lifetime value and repeat purchase rates are important metrics for judging the business's true health, though the company has not always disclosed these transparently.
 
 ## Financial structure and outlook
 
-cbdMD went [public](/wiki/stock/) via a SPAC merger in 2021. Like many pandemic-era SPAC deals, the post-merger trajectory has been challenging. The company has operated at a loss in some years, faced margin pressures from competition and rising marketing costs, and struggled with slower-than-expected top-line growth. Cash burn and path to profitability have been persistent concerns for investors.
+cbdMD went [public](/wiki/stock/) via a SPAC [merger](/merger/) in 2021. Like many pandemic-era SPAC deals, the post-merger trajectory has been challenging. The company has operated at a loss in some years, faced margin pressures from competition and rising marketing costs, and struggled with slower-than-expected top-line growth. Cash burn and path to profitability have been persistent concerns for investors.
 
 The business faces a fundamental question: is CBD a durable consumer trend or a cyclical fad? Believers point to the wellness category's long-term growth and the potential legitimacy of CBD once regulatory clarity arrives. Skeptics note that health claims remain unproven, that traditional wellness companies and pharmaceuticals have larger resources, and that many consumers have not adopted CBD into their regular routines.
 

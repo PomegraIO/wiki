@@ -27,7 +27,7 @@ Revenue across Aura's operations splits between gold (the dominant product) and 
 | Aranzazu | Zacatecas, Mexico | Gold, Silver | Primary operation |
 | Minosa (San Andrés) | Copán, Honduras | Gold | Primary operation |
 
-Understanding Aura requires thinking less about a single flagship mine and more about a network of cash-generating assets that collectively define its production profile and strategic value in [precious metals markets](/wiki/stock-exchange/). The company remains a [public company](/wiki/public-company/) operating across multiple jurisdictions, which introduces both geographic diversification and compliance complexity. Its valuation ultimately hinges on how efficiently it converts capital into gold oz at an all-in cost below prevailing spot prices—a metric that turns on both operational execution at individual mines and the company's ability to successfully transition Era Dorada from development to production.
+Understanding Aura requires thinking less about a single flagship mine and more about a network of cash-generating assets that collectively define its production profile and strategic value in [precious metals markets](/wiki/stock-exchange/). The company remains a [public company](/wiki/public-company/) operating across multiple jurisdictions, which introduces both geographic [diversification](/diversification/) and compliance complexity. Its valuation ultimately hinges on how efficiently it converts capital into gold oz at an all-in cost below prevailing spot prices—a metric that turns on both operational execution at individual mines and the company's ability to successfully transition Era Dorada from development to production.
 
 Sources:
 - [Aura Minerals Official Website](https://www.auraminerals.com/en/)

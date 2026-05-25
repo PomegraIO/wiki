@@ -12,7 +12,7 @@ handwritten: true
 
 ## Who actually runs Andersen Group?
 
-Andersen Group operates as a global professional services firm with roots tracing back to 2002. The company built itself on the heritage of the Arthur Andersen legacy, positioning itself as a successor firm in the tax and advisory space. Today, Andersen maintains a decentralized network of offices across multiple continents, including recent expansions into Ireland, New Zealand, Nigeria, and Uruguay through strategic acquisitions. This structure reflects a commitment to delivering region-specific expertise while maintaining unified service standards across its client base.
+Andersen Group operates as a global professional services firm with roots tracing back to 2002. The company built itself on the heritage of the Arthur Andersen legacy, positioning itself as a successor firm in the tax and advisory space. Today, Andersen maintains a decentralized network of offices across multiple continents, including recent expansions into Ireland, New Zealand, Nigeria, and Uruguay through strategic [acquisitions](/acquisition/). This structure reflects a commitment to delivering region-specific expertise while maintaining unified service standards across its client base.
 
 ## What services does the firm provide?
 

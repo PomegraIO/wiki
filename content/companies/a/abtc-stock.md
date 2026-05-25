@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-American Bitcoin Corp. (ABTC, SEC CIK 1755953) is a Delaware-incorporated blank-check company—a publicly traded shell entity with no current operations. The company was formed to serve as an acquisition or merger vehicle, with investors and management authorized to identify and combine with an operating business, particularly one in the cryptocurrency, [bitcoin](/wiki/bitcoin/), or blockchain sectors.
+American Bitcoin Corp. (ABTC, SEC CIK 1755953) is a Delaware-incorporated blank-check company—a publicly traded shell entity with no current operations. The company was formed to serve as an [acquisition](/acquisition/) or merger vehicle, with investors and management authorized to identify and combine with an operating business, particularly one in the cryptocurrency, [bitcoin](/wiki/bitcoin/), or blockchain sectors.
 
 Blank-check companies operate on a straightforward model. The entity raises capital through a public offering, then has a defined period to identify and execute a transaction with a target business. Until that merger or acquisition closes, the blank-check company is just a capital pool: no products, no revenue, no day-to-day operations. Shareholders hold stock in the acquisition opportunity itself, not in an established enterprise.
 
@@ -26,7 +26,7 @@ The ticker ABTC reflects the company's original strategic focus—digital assets
 | **Shareholder approval** | Merger vote required; redemption rights available to dissenters |
 | **Post-acquisition** | Target company becomes the operating subsidiary; blank-check entity becomes the public parent |
 
-For investors, blank-check vehicles carry distinct risks. Stock price typically tracks sector appetite and deal rumors rather than fundamentals. Shareholder meetings convene to vote on proposed mergers, and minority holders may exercise redemption rights to exit before the combination. Once a deal closes, the new operating company must file a [10-k](/wiki/10-k/) and become a conventional public corporation—subject to ongoing SEC reporting, audit requirements, and disclosure obligations.
+For investors, blank-check vehicles carry distinct risks. Stock price typically tracks sector appetite and deal rumors rather than fundamentals. Shareholder meetings convene to vote on proposed [mergers](/merger/), and minority holders may exercise [redemption rights](/redemption-rights-equity/) to exit before the combination. Once a deal closes, the new operating company must file a [10-k](/wiki/10-k/) and become a conventional public corporation—subject to ongoing SEC reporting, audit requirements, and disclosure obligations.
 
 ABTC exists in a space where traditional IPOs are slow or expensive for target companies, making blank-check vehicles an alternative capital-raising path. Investors must monitor deal announcements and shareholder materials to understand what business they are actually acquiring.
 

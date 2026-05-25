@@ -21,7 +21,7 @@ The firm competes in fragmented but capital-intensive markets—power grid moder
 
 ## Investment & Earnings Profile
 
-The business is cyclical, sensitive to industrial capex, power infrastructure spending, and grid investment cycles. Earnings are affected by raw material costs, supply chain constraints, and currency headwinds (particularly the Swiss franc). ABB trades on the Swiss exchange (ABBN) and lists as a US [ADR](/wiki/adr/) under ABBNY; the ADR is less liquid than the home listing. The company maintains a dividend and historically generates strong free cash flow.
+The business is cyclical, sensitive to industrial capex, power infrastructure spending, and grid investment cycles. Earnings are affected by raw material costs, supply chain constraints, and currency headwinds (particularly the [Swiss franc](/swiss-franc/)). ABB trades on the Swiss exchange (ABBN) and lists as a US [ADR](/wiki/adr/) under ABBNY; the ADR is less liquid than the home listing. The company maintains a [dividend](/dividend/) and historically generates strong [free cash flow](/free-cash-flow/).
 
 ## At a glance
 

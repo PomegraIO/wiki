@@ -28,4 +28,4 @@ Aptose operated independently through much of its clinical development phase, pu
 | Status (as of 2026) | Acquired by Hanmi Pharmaceutical |
 | Focus Area | Hematology / Oncology |
 
-The acquisition by Hanmi represented a common exit for clinical-stage biotech companies, allowing existing investors and stakeholders to realize value while moving the drug candidate forward under a larger, better-capitalized partner with regulatory and manufacturing expertise.
+The [acquisition](/acquisition/) by Hanmi represented a common exit for clinical-stage biotech companies, allowing existing investors and stakeholders to realize value while moving the drug candidate forward under a larger, better-capitalized partner with regulatory and manufacturing expertise.

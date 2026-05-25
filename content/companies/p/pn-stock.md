@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Skycorp Solar Group Ltd manufactures and distributes solar photovoltaic products and energy storage systems, with a secondary business in high-performance computing hardware. The company is headquartered in Ningbo, China and trades on the NASDAQ under the ticker PN.
+Skycorp Solar Group Ltd manufactures and distributes solar photovoltaic products and energy storage systems, with a secondary business in high-performance computing hardware. The company is headquartered in Ningbo, China and trades on the [NASDAQ](/nasdaq/) under the ticker PN.
 
 ## The Business
 
@@ -22,7 +22,7 @@ The second segment, high-performance computing (HPC), emerged as the company div
 
 Founded in 2011 by a team of returning overseas engineers, Skycorp began in the Ningbo High-Tech District during China's early push into solar manufacturing. The region became a hub for solar component suppliers as the country scaled renewable capacity. The company's early focus on cables and connectors—less glamorous than panels themselves but essential to system reliability—positioned it in a stable, recurring-revenue niche. These components have long product lifecycles and are consumables in solar system construction and maintenance.
 
-The addition of energy storage and HPC segments reflects strategic diversification. As solar panel prices collapsed over the past decade, margins on traditional PV components compressed. Hybrid inverters and battery storage systems offered better margins and aligned with the shift from simple solar generation to intelligent, dispatchable renewable systems. The HPC pivot is younger and smaller, appearing opportunistic in response to the GPU shortage and AI infrastructure buildout.
+The addition of energy storage and HPC segments reflects strategic [diversification](/diversification/). As solar panel prices collapsed over the past decade, margins on traditional PV components compressed. Hybrid inverters and battery storage systems offered better margins and aligned with the shift from simple solar generation to intelligent, dispatchable renewable systems. The HPC pivot is younger and smaller, appearing opportunistic in response to the GPU shortage and AI infrastructure buildout.
 
 ## The Market Position
 
@@ -32,10 +32,10 @@ Exposure to the broader solar industry introduces cyclicality and subsidy depend
 
 ## What to Watch
 
-For a sense of the business, review the company's 10-K filings with the SEC—investors will find segment revenue breakdowns, geographic distribution, and gross margins by product line. Pay attention to the ratio of solar to HPC revenue; a sustained shift toward HPC might signal distress in the solar core or aggressive diversification. Customer concentration risk is typical for small suppliers; a heavy reliance on one large distributor or integrator partner is worth monitoring.
+For a sense of the business, review the company's 10-K filings with the SEC—investors will find segment revenue breakdowns, geographic distribution, and gross margins by product line. Pay attention to the ratio of solar to HPC revenue; a sustained shift toward HPC might signal distress in the solar core or aggressive diversification. Customer [concentration risk](/concentration-risk/) is typical for small suppliers; a heavy reliance on one large distributor or integrator partner is worth monitoring.
 
-Gross margins on cables and connectors tend to move with competition and commodity costs; energy storage margins are higher but subject to battery price deflation. Compare year-over-year revenue growth in each segment against industry growth rates—stagnation in solar while peers grow is a red flag. Currency exposure to the renminbi affects profitability; hedging practices are disclosed in the financials.
+Gross margins on cables and connectors tend to move with competition and commodity costs; energy storage margins are higher but subject to battery price [deflation](/deflation/). Compare year-over-year revenue growth in each segment against industry growth rates—stagnation in solar while peers grow is a red flag. Currency exposure to the renminbi affects profitability; hedging practices are disclosed in the financials.
 
 The HPC business is nascent and should be evaluated separately. Does it have recurring revenue, or is it project-based? Is the company a genuine technology player or a reseller? These distinctions matter for valuation and durability.
 
-Skycorp is a microcap with modest public float, typical of small Chinese manufacturers listing on US exchanges. The stock will trade thinly, and news cycles are infrequent; patience and forensic reading of filings replace real-time analyst coverage.
+Skycorp is a microcap with modest [public float](/float/), typical of small Chinese manufacturers listing on US exchanges. The stock will trade thinly, and news cycles are infrequent; patience and forensic reading of filings replace real-time analyst coverage.

@@ -25,7 +25,7 @@ handwritten: true
 
 ## A Century of Acquisitions and Refocusing
 
-Griffon began as a small manufacturer nearly a century ago and has undergone substantial transformation through acquisitions and divestitures. The company expanded dramatically in the mid-2000s and 2010s, building two distinct operating segments. Over time, Griffon shed non-core assets and refined its portfolio to focus on two businesses with different but complementary economics: the Consumer and Professional Products segment (often called CPP), and the Home and Building Products segment (HBP). This two-platform structure reflects management's strategy to balance recurring renovation and maintenance demand against cyclical new-construction exposure.
+Griffon began as a small manufacturer nearly a century ago and has undergone substantial transformation through [acquisitions](/acquisition/) and [divestitures](/divestiture/). The company expanded dramatically in the mid-2000s and 2010s, building two distinct operating segments. Over time, Griffon shed non-core assets and refined its portfolio to focus on two businesses with different but complementary economics: the Consumer and Professional Products segment (often called CPP), and the Home and Building Products segment (HBP). This two-platform structure reflects management's strategy to balance recurring renovation and maintenance demand against cyclical new-construction exposure.
 
 ## Consumer and Professional Products: The Brand Portfolio
 
@@ -39,11 +39,11 @@ The HBP division is anchored by **Clopay**, one of North America's largest suppl
 
 Griffon's resilience hinges on the complementary nature of its divisions. Consumer tools and storage are defensive—people maintain properties in down cycles. Garage doors and roof coatings are more cyclical, tied to housing and construction. In a healthy housing market, HBP profits surge. In a downturn, CPP's steady-state demand provides ballast. Both segments operate at scale: they have real brand heritage, established customer relationships, and manufacturing or supply-chain efficiency. Neither is a commodity business, though pricing power varies by product line.
 
-The company pursues organic growth through market share gains, product innovation (lighter tools, smarter storage solutions, better-engineered doors), and geographic expansion. Acquisitions have been selective in recent years, focused on bolt-on purchases that complement existing brands or distribution networks rather than transformative deals. Management has also emphasized shareholder returns through dividends and opportunistic share buybacks, signaling confidence in the underlying business.
+The company pursues organic growth through market share gains, product innovation (lighter tools, smarter storage solutions, better-engineered doors), and geographic expansion. Acquisitions have been selective in recent years, focused on bolt-on purchases that complement existing brands or distribution networks rather than transformative deals. Management has also emphasized shareholder returns through [dividends](/dividend/) and opportunistic [share buybacks](/share-buyback/), signaling confidence in the underlying business.
 
 ## Capital Intensity and Cash Generation
 
-Griffon is moderately capital-intensive, with manufacturing footprints in multiple geographies and ongoing investment in equipment and facilities. The company generates substantial operating cash flow from both segments, which funds dividends, debt reduction, and reinvestment. The balance sheet has been managed conservatively relative to operating earnings, providing flexibility to weather downturns or pursue strategic investments. Working-capital management is critical given the need to maintain inventory of tools, doors, and components to serve retail and contractor channels.
+Griffon is moderately capital-intensive, with manufacturing footprints in multiple geographies and ongoing investment in equipment and facilities. The company generates substantial operating cash flow from both segments, which funds dividends, debt reduction, and reinvestment. The [balance sheet](/balance-sheet/) has been managed conservatively relative to operating earnings, providing flexibility to weather downturns or pursue strategic investments. Working-capital management is critical given the need to maintain inventory of tools, doors, and components to serve retail and contractor channels.
 
 ## Competitive Landscape and Strategic Positioning
 
@@ -51,7 +51,7 @@ In consumer tools and storage, Griffon competes against specialized players like
 
 ## What Could Go Wrong
 
-Griffon's earnings are sensitive to housing starts and residential renovation spending. A prolonged housing downturn or recession would pressure both segments, particularly HBP. Steel and resin prices can swing sharply, pinching margins if the company cannot pass costs to customers quickly. Retail consolidation and the shift toward e-commerce require continuous adaptation of sales and marketing strategy. Supply-chain disruptions, labor inflation, and logistical complexity in serving both consumer and professional channels add execution risk. The company's diversified structure provides some defensive value but does not eliminate economic sensitivity.
+Griffon's earnings are sensitive to housing starts and residential renovation spending. A prolonged housing downturn or [recession](/recession/) would pressure both segments, particularly HBP. Steel and resin prices can swing sharply, pinching margins if the company cannot pass costs to customers quickly. Retail consolidation and the shift toward e-commerce require continuous adaptation of sales and marketing strategy. Supply-chain disruptions, labor [inflation](/inflation/), and logistical complexity in serving both consumer and professional channels add execution risk. The company's diversified structure provides some defensive value but does not eliminate economic sensitivity.
 
 ## Researching Griffon
 

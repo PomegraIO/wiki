@@ -33,6 +33,6 @@ The business model is straightforward: companies and individuals participating i
 
 ## Cyclical Market and Regulatory Exposure
 
-BlockchAIn Digital Infrastructure occupies a sector tightly bound to cryptocurrency market conditions and blockchain adoption trends. During periods of strong digital asset activity and rising network participation, demand for infrastructure services accelerates. Conversely, downturns in cryptocurrency valuations typically reduce both client activity and new customer acquisition.
+BlockchAIn Digital Infrastructure occupies a sector tightly bound to cryptocurrency market conditions and blockchain adoption trends. During periods of strong digital asset activity and rising network participation, demand for infrastructure services accelerates. Conversely, downturns in cryptocurrency valuations typically reduce both client activity and new customer [acquisition](/acquisition/).
 
 The regulatory environment adds another layer of complexity. Different jurisdictions continue developing rules around cryptocurrency operations, mining, and digital asset custody. Compliance requirements, energy regulations, and banking restrictions on crypto-related businesses all affect AIB's customer base and operational costs. The company's success hinges on maintaining reliable infrastructure while navigating an evolving regulatory landscape where rules remain unsettled and subject to rapid change across the multiple countries where it operates or serves clients.

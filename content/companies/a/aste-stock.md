@@ -15,7 +15,7 @@ handwritten: true
 
 ## Equipment Across Four Core Categories
 
-Astec's product portfolio spans aggregates processing, asphalt production, concrete batching, and industrial heating. The company operates through hundreds of active SKUs sold under multiple brands: jaw and cone crushers, screens, and feeders for material extraction; asphalt plants ranging from relocatable stationary units to highly portable models; concrete batch plants sold through brands like CON-E-CO and RexCon; and industrial heating systems for asphalt and industrial applications. This diversification across the value chain—from crushing and screening raw materials to heating finished products—provides exposure to both new construction and maintenance work.
+Astec's product portfolio spans aggregates processing, asphalt production, concrete batching, and industrial heating. The company operates through hundreds of active SKUs sold under multiple brands: jaw and cone crushers, screens, and feeders for material extraction; asphalt plants ranging from relocatable stationary units to highly portable models; concrete batch plants sold through brands like CON-E-CO and RexCon; and industrial heating systems for asphalt and industrial applications. This [diversification](/diversification/) across the value chain—from crushing and screening raw materials to heating finished products—provides exposure to both new construction and maintenance work.
 
 ## Global Reach, Local Support
 

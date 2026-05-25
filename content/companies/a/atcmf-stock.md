@@ -15,7 +15,7 @@ The company's business model centers on early-to-intermediate stage exploration 
 
 ## Operational Footprint and Asset Strategy
 
-ATICO's projects span multiple Latin American jurisdictions, with particular emphasis on regions offering both geological prospectivity and reasonable regulatory frameworks for mining development. The company's geographic diversification reflects a deliberate strategy to manage country risk while maintaining exposure to prolific mineral belts. Project selection prioritizes copper—a commodity with persistent industrial and energy-transition demand—alongside gold and silver, which provide portfolio resilience and fund discretionary exploration activities.
+ATICO's projects span multiple Latin American jurisdictions, with particular emphasis on regions offering both geological prospectivity and reasonable regulatory frameworks for mining development. The company's geographic [diversification](/diversification/) reflects a deliberate strategy to manage [country risk](/country-risk/) while maintaining exposure to prolific mineral belts. Project selection prioritizes copper—a commodity with persistent industrial and energy-transition demand—alongside gold and silver, which provide portfolio resilience and fund discretionary exploration activities.
 
 | Asset Type | Development Stage | Primary Commodity | Geographic Region |
 |---|---|---|---|

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Apple Inc. designs consumer electronics and the software and services that run on them, and it does so at a scale no other hardware company has matched. It is regularly the most valuable [public company](/wiki/public-company/) in the world by [market capitalization](/wiki/market-capitalization/), and its shares (NASDAQ: AAPL) are among the most widely held on Earth — owned directly by tens of millions of individuals and indirectly by almost anyone with an index fund or a pension. Yet for all that scale, the business is conceptually simple: Apple sells premium devices to a loyal base of customers, then earns a second, recurring stream of money from the software, content, and services those customers use afterward.
+Apple Inc. designs consumer electronics and the software and services that run on them, and it does so at a scale no other hardware company has matched. It is regularly the most valuable [public company](/wiki/public-company/) in the world by [market capitalization](/wiki/market-capitalization/), and its shares ([NASDAQ](/nasdaq/): AAPL) are among the most widely held on Earth — owned directly by tens of millions of individuals and indirectly by almost anyone with an [index fund](/index-fund/) or a pension. Yet for all that scale, the business is conceptually simple: Apple sells premium devices to a loyal base of customers, then earns a second, recurring stream of money from the software, content, and services those customers use afterward.
 
 <aside class="wiki-infobox">
 <table>

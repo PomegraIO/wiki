@@ -22,7 +22,7 @@ handwritten: true
 
 ## The shell behind the quantum pitch
 
-Antiaging Quantum Living Inc. trades on the OTC pink sheets under ticker AAQL with little to show for its existence beyond SEC filings. The company nominally pursues antiaging research and "quantum science" applications—language that signals either fringe claims or pure promotional intent, depending on whom you ask. Unlike [public companies](/wiki/public-company/) listed on major exchanges, OTC shells face minimal regulatory oversight and disclosure requirements, making it nearly impossible to verify whether the firm has actual scientists, research facilities, or funded programs. A [10-K](/wiki/10-k/) filing reveals the truth, but many pink-sheet companies either file irregularly or report zero revenue and zero R&D spending.
+Antiaging Quantum Living Inc. trades on the [OTC pink](/otc-pink/) sheets under ticker AAQL with little to show for its existence beyond SEC filings. The company nominally pursues antiaging research and "quantum science" applications—language that signals either fringe claims or pure promotional intent, depending on whom you ask. Unlike [public companies](/wiki/public-company/) listed on major exchanges, OTC shells face minimal regulatory oversight and disclosure requirements, making it nearly impossible to verify whether the firm has actual scientists, research facilities, or funded programs. A [10-K](/wiki/10-k/) filing reveals the truth, but many pink-sheet companies either file irregularly or report zero revenue and zero R&D spending.
 
 ## Why it ends up on retail radars
 

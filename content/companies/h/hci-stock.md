@@ -33,27 +33,27 @@ HCI Group operates at an unusual intersection for an insurer: property insurance
 
 The core operation is HCI Insurance Company, a property casualty insurer licensed in Florida and a handful of other states. The business writes homeowners' insurance—policies that cover dwelling structures, personal property, and liability. In an industry dominated by titans like [State Farm](/wiki/state-farm-insurance/) and Allstate and by regional Florida specialists, HCI competes on agility and pricing discipline, concentrating underwriting risk in coastal and near-coastal properties where hurricanes matter most.
 
-Homeowners' insurance in Florida is intrinsically volatile. Catastrophe exposure is concentrated; a single hurricane season can wipe years of underwriting profit. The state's insurance market is also unusual: a state-backed insurer of last resort, Citizens Property Insurance, acts as a pricing and risk-management benchmark that private carriers must navigate. HCI's strategy has been to maintain disciplined underwriting, avoid excessive loss-ratio deterioration, and scale cautiously relative to its balance sheet rather than chase market share at the cost of safety.
+Homeowners' insurance in Florida is intrinsically volatile. Catastrophe exposure is concentrated; a single hurricane season can wipe years of underwriting profit. The state's insurance market is also unusual: a state-backed insurer of last resort, Citizens Property Insurance, acts as a pricing and risk-management benchmark that private carriers must navigate. HCI's strategy has been to maintain disciplined underwriting, avoid excessive loss-ratio deterioration, and scale cautiously relative to its [balance sheet](/balance-sheet/) rather than chase market share at the cost of safety.
 
-The insurance segment generates [10-K](/wiki/10-k/) revenue through earned premiums and investment income on the float—the customer payments held pending claims. Claims management and loss-adjustment expenses drive the underwriting expense ratio; operational leverage in premium volume can improve margins if underwriting discipline holds.
+The insurance segment generates [10-K](/wiki/10-k/) revenue through earned premiums and investment income on the float—the customer payments held pending claims. Claims management and loss-adjustment expenses drive the underwriting [expense ratio](/expense-ratio/); operational leverage in premium volume can improve margins if underwriting discipline holds.
 
 ## TypTap: The Tech Play
 
 In 2017, HCI established TypTap, an agent-focused digital distribution platform for insurance products. TypTap is positioning itself as an ecosystem for independent agents and small agencies, allowing them to bind homeowners' and other property policies through a cloud-based interface, to manage renewals, and increasingly to white-label branded experiences for their own customers.
 
-The TypTap business model is freemium to subscription-based, charging agents monthly fees for access and potentially taking a small commission on policies issued through the platform. Unlike the legacy insurance distribution chain, which relies on wholesale brokers and captive agent networks, TypTap targets the fragmented long-tail of independent agents who lack back-office technology and scale. It is a software-as-a-service play in an insurance context—revenue is recurring and not directly tied to underwriting risk—making it valuable to investors as a diversifier.
+The TypTap business model is freemium to subscription-based, charging agents monthly fees for access and potentially taking a small commission on policies issued through the platform. Unlike the legacy insurance distribution chain, which relies on wholesale [brokers](/broker/) and captive agent networks, TypTap targets the fragmented long-tail of independent agents who lack back-office technology and scale. It is a software-as-a-service play in an insurance context—revenue is recurring and not directly tied to underwriting risk—making it valuable to investors as a diversifier.
 
 However, TypTap is young and TypTap's adoption has been slower than early growth narratives promised. The platform's competitive position remains unproven against better-capitalized fintech competitors and against the entrenched distribution networks of major carriers.
 
 ## Real-Estate Ventures
 
-HCI also owns real property, primarily in Florida. These holdings are not central to the narrative but provide diversification and potential optionality; real-estate value can move independently of insurance underwriting cycles.
+HCI also owns real property, primarily in Florida. These holdings are not central to the narrative but provide [diversification](/diversification/) and potential optionality; real-estate value can move independently of insurance underwriting cycles.
 
 ## The Business Model and Risks
 
 HCI's insurance underwriting generates underwriting profit (or loss) on premiums minus claims and expenses, plus investment returns on float. Profitability depends on honest loss reserves, disciplined premium pricing, and the frequency and severity of storms and other losses.
 
-The dominant risk is catastrophic loss: a major hurricane or series of severe weather events concentrated in the areas HCI insures could exhaust capital rapidly and force retrenching or external capital raises. Florida's hurricane exposure is non-diversifiable at the state level, and HCI's concentration in coastal properties amplifies this tail risk. The company hedges some catastrophe risk through reinsurance contracts, but reinsurance is expensive and imperfect.
+The dominant risk is catastrophic loss: a major hurricane or series of severe weather events concentrated in the areas HCI insures could exhaust capital rapidly and force retrenching or external capital raises. Florida's hurricane exposure is non-diversifiable at the state level, and HCI's concentration in coastal properties amplifies this [tail risk](/tail-risk/). The company hedges some catastrophe risk through reinsurance contracts, but reinsurance is expensive and imperfect.
 
 A secondary risk is regulatory: Florida's insurance commissioner has broad authority to restrict rates, approve or deny policy forms, and oversee solvency. Rate suppression by regulators in a hard market (when losses are rising and premiums must keep pace) would directly compress margins.
 

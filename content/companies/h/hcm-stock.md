@@ -27,7 +27,7 @@ HUTCHMED (China) Ltd is a biopharmaceutical company engaged in the discovery, de
 
 ## The Company's Origin and Evolution
 
-HUTCHMED was founded in 2003 as a contract research organization before evolving into a fully integrated drug discovery and development enterprise. The company went public on Nasdaq in 2018, becoming one of the earlier pure-play China-based biopharmaceutical firms to list on a U.S. exchange. This move broadened its access to capital and marked a shift toward building an independent pipeline of proprietary therapeutics. Over subsequent years, the firm expanded its R&D footprint, established manufacturing capabilities, and began commercializing select therapies in Chinese and Asian markets.
+HUTCHMED was founded in 2003 as a contract research organization before evolving into a fully integrated drug discovery and development enterprise. The company went public on [Nasdaq](/nasdaq/) in 2018, becoming one of the earlier pure-play China-based biopharmaceutical firms to list on a U.S. exchange. This move broadened its access to capital and marked a shift toward building an independent pipeline of proprietary therapeutics. Over subsequent years, the firm expanded its R&D footprint, established manufacturing capabilities, and began commercializing select therapies in Chinese and Asian markets.
 
 ## Business Model and Revenue Streams
 
@@ -39,7 +39,7 @@ HUTCHMED competes in the crowded oncology space against multinational pharma gia
 
 ## Risk Factors and Pressures
 
-Drug development is inherently risky. HUTCHMED's pipeline compounds may fail in clinical trials, face regulatory rejection, or perform poorly in the market despite approval. The company derives revenue primarily from the Chinese market, creating geographic concentration risk; changes in China's drug pricing, reimbursement policies, or regulatory stance could materially affect revenue. Manufacturing and supply-chain disruptions—whether from logistics, geopolitical tensions, or regulatory actions—present operational hazards. Intellectual property protection and patent validity in China remain concerns relative to Western markets. Larger competitors with greater resources can move faster and more efficiently through development, and the company must manage cash burn carefully to reach profitability. Competition from other oncology drugs and from biosimilars and generics (as patents expire) will compress margins and limit market share.
+Drug development is inherently risky. HUTCHMED's pipeline compounds may fail in clinical trials, face regulatory rejection, or perform poorly in the market despite approval. The company derives revenue primarily from the Chinese market, creating geographic [concentration risk](/concentration-risk/); changes in China's drug pricing, reimbursement policies, or regulatory stance could materially affect revenue. Manufacturing and supply-chain disruptions—whether from logistics, geopolitical tensions, or regulatory actions—present operational hazards. Intellectual property protection and patent validity in China remain concerns relative to Western markets. Larger competitors with greater resources can move faster and more efficiently through development, and the company must manage cash burn carefully to reach profitability. Competition from other oncology drugs and from biosimilars and generics (as patents expire) will compress margins and limit market share.
 
 ## Research and Development
 

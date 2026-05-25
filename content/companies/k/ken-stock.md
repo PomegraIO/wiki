@@ -27,7 +27,7 @@ Kenon Holdings is a publicly traded holding company incorporated in Israel, oper
 
 ## How did Kenon come into being?
 
-Kenon emerged from a restructuring of Israeli operations in the early 2000s, eventually becoming the holding vehicle for a variety of industrial and infrastructure investments. The company went public on the NASDAQ, giving it access to capital markets and a liquid share listing for global investors. Its founding philosophy reflected a conviction that disciplined holding-company models—with patient capital and active but measured stewardship—could create shareholder value in fragmented, capital-intensive businesses.
+Kenon emerged from a restructuring of Israeli operations in the early 2000s, eventually becoming the holding vehicle for a variety of industrial and infrastructure investments. The company went public on the [NASDAQ](/nasdaq/), giving it access to capital markets and a liquid share listing for global investors. Its founding philosophy reflected a conviction that disciplined holding-company models—with patient capital and active but measured stewardship—could create shareholder value in fragmented, capital-intensive businesses.
 
 ## What is Kenon's flagship asset?
 
@@ -37,7 +37,7 @@ OPC Energy, Kenon's signature holding, is a substantial power generation player 
 
 Kenon's revenue streams are diverse and have shifted over time as the holding company has bought, built, and sold assets. Core earnings flow from:
 
-- **Power generation dividends and distributions** from OPC Energy and related assets
+- **Power generation [dividends](/dividend/) and distributions** from OPC Energy and related assets
 - **Operating gains** from managed subsidiaries before monetization
 - **Asset sales and stake monetization**, where Kenon exits positions after appreciation or after the business has reached maturity
 - **Management and strategic value add**, where Kenon's operational or financial expertise improves subsidiary performance
@@ -49,7 +49,7 @@ The company is not a pure passive holding company; it actively manages and somet
 Kenon operates in a concentrated, capital-intensive sector—Israeli and Eastern European infrastructure and energy—where scale, regulatory relationships, and execution discipline matter enormously. The company benefits from:
 
 - **Deep local expertise** in Israeli business and regulatory environments, giving it edge in deal sourcing and operations
-- **Diversification within a theme**, rather than riding a single asset; the portfolio approach reduces idiosyncratic risk
+- **[Diversification](/diversification/) within a theme**, rather than riding a single asset; the portfolio approach reduces [idiosyncratic risk](/idiosyncratic-risk/)
 - **Monetization discipline**, exiting positions when valuations are attractive or strategic fit diminishes, rather than holding indefinitely
 - **Leverage control**, which Kenon manages carefully to preserve financial flexibility across portfolio cycles
 
@@ -59,7 +59,7 @@ Like any holding company focused on capital-intensive infrastructure, Kenon conf
 
 - **Renewable energy transition in Israel**, which could affect long-term demand for thermal power generation and complicate the OPC Energy thesis
 - **Regulatory and political risk**, both in Israel and in markets where Kenon holds stakes; government policy on energy, taxes, and corporate transactions can shift rapidly
-- **Valuation and liquidity risk** on illiquid or privately held assets; not all stakes can be sold immediately or at fair-value prices in downturns
+- **Valuation and [liquidity risk](/liquidity-risk/)** on illiquid or privately held assets; not all stakes can be sold immediately or at fair-value prices in downturns
 - **Concentration of expertise**, where key decisions depend on individuals or small teams with deep operational knowledge
 - **Currency and geopolitical exposure**, given Kenon's Israeli domicile and Middle Eastern presence
 
@@ -77,6 +77,6 @@ Earnings calls often include detailed discussion of each major subsidiary's perf
 
 ## What is Kenon's investment style?
 
-Kenon embodies a **value and monetization approach** to portfolio construction. Rather than chasing growth at any cost, the company looks for mature, cash-generative assets trading at a discount to intrinsic value or held at a structural disadvantage relative to peers. Once acquired, Kenon works to improve operations, streamline capital structures, or position the asset for sale to a strategic buyer or later refinancing. The holding-company structure itself can create a valuation discount if the market prices the portfolio below the sum-of-the-parts, sometimes opening arbitrage-like opportunities for the company itself to repurchase shares at a discount.
+Kenon embodies a **value and monetization approach** to portfolio construction. Rather than chasing growth at any cost, the company looks for mature, cash-generative assets trading at a discount to [intrinsic value](/intrinsic-value/) or held at a structural disadvantage relative to peers. Once acquired, Kenon works to improve operations, streamline capital structures, or position the asset for sale to a strategic buyer or later refinancing. The holding-company structure itself can create a valuation discount if the market prices the portfolio below the sum-of-the-parts, sometimes opening arbitrage-like opportunities for the company itself to repurchase shares at a discount.
 
-This patient, asset-based approach contrasts with financial engineering or leveraged buyout firms, which typically impose aggressive timelines to flip assets. Kenon operates on longer cycles, accepting that some holdings may be held for many years, with returns driven by operational improvement and eventual liquidity events.
+This patient, asset-based approach contrasts with financial engineering or [leveraged buyout](/leveraged-buyout/) firms, which typically impose aggressive timelines to flip assets. Kenon operates on longer cycles, accepting that some holdings may be held for many years, with returns driven by operational improvement and eventual liquidity events.

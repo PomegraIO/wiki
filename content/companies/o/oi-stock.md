@@ -34,7 +34,7 @@ The production process is energy-intensive. Raw materials—silica sand, soda as
 
 O-I operates three primary reporting segments: **Preferred Packaging** (Americas), **Rigid Glass Packaging** (Europe), and **Asia Pacific**. The Americas segment—serving North American beverage and food makers—is the largest by volume and profit. Europe faces different dynamics: higher energy costs, stronger recycled-content mandates, and consolidation among breweries. Asia Pacific is smaller but growing, with emerging consumption of ready-to-drink beverages in developing economies.
 
-Within each region, revenue depends on volume (number of containers shipped) and price per unit. Pricing is negotiated at contract renewal and typically escalates modestly year-over-year, though raw material and energy costs can compress margins if not passed through. During 2020–2021, for example, recycled glass (cullet) costs spiked, and energy prices rose globally; O-I's ability to raise selling prices lagged cost inflation, pressuring profitability. Conversely, periods of industrial strength see volume growth and modest price gains.
+Within each region, revenue depends on volume (number of containers shipped) and price per unit. Pricing is negotiated at contract renewal and typically escalates modestly year-over-year, though raw material and energy costs can compress margins if not passed through. During 2020–2021, for example, recycled glass (cullet) costs spiked, and energy prices rose globally; O-I's ability to raise selling prices lagged cost [inflation](/inflation/), pressuring profitability. Conversely, periods of industrial strength see volume growth and modest price gains.
 
 ## Structural Advantages and Competitive Position
 
@@ -46,13 +46,13 @@ The company has invested in sustainability, including increasing the use of recy
 
 ## Cyclicality and Operating Leverage
 
-O-I is cyclical. Consumer demand for beer, wine, spirits, and packaged food rises and falls with economic cycles. During recessions, beverage consumption often holds up better than discretionary spending, but volume still typically declines. The capital structure of furnace operations means fixed costs are high; variable costs (raw materials, labor, energy) are moderate. Thus, volume swings hit the bottom line hard—operating leverage works both ways.
+O-I is cyclical. Consumer demand for beer, wine, spirits, and packaged food rises and falls with economic cycles. During [recessions](/recession/), beverage consumption often holds up better than [discretionary spending](/discretionary-spending/), but volume still typically declines. The capital structure of furnace operations means fixed costs are high; variable costs (raw materials, labor, energy) are moderate. Thus, volume swings hit the bottom line hard—operating leverage works both ways.
 
-Over a full business cycle, the company generates substantial free cash flow, though profitability and cash generation can swing dramatically in downturns. The 2008–2009 financial crisis and the 2020 pandemic both tested O-I's resilience; the company emerged with higher debt but remained solvent and continued to invest. Debt service is a standing obligation, and maintaining investment-grade credit quality has shaped capital allocation.
+Over a full [business cycle](/business-cycle/), the company generates substantial [free cash flow](/free-cash-flow/), though profitability and cash generation can swing dramatically in downturns. The 2008–2009 financial crisis and the 2020 pandemic both tested O-I's resilience; the company emerged with higher debt but remained solvent and continued to invest. Debt service is a standing obligation, and maintaining investment-grade credit quality has shaped capital allocation.
 
 ## Pressures and Risks
 
-**Energy costs** remain the largest variable headwind. A 10% rise in natural gas or electricity prices, absent price increases to customers, can be material to earnings. Energy inflation is volatile and geographically distributed (Europe is more exposed), and hedging is imperfect.
+**Energy costs** remain the largest variable headwind. A 10% rise in [natural gas](/natural-gas/) or electricity prices, absent price increases to customers, can be material to earnings. Energy inflation is volatile and geographically distributed (Europe is more exposed), and hedging is imperfect.
 
 **Commodity input prices** for sand, soda ash, and especially cullet fluctuate. Cullet markets are regional and thin; rapid spikes in scrap glass prices can crimp margins if supply contracts do not pass through all costs quickly.
 
@@ -68,16 +68,16 @@ Over a full business cycle, the company generates substantial free cash flow, th
 
 Key metrics to track in [10-K](/wiki/10-k/) filings and earnings reports include:
 
-- **Net sales and organic growth:** Year-over-year volume trends and price realization. Organic growth (excluding acquisitions or divestitures) reflects underlying business momentum.
+- **Net sales and organic growth:** Year-over-year volume trends and price realization. Organic growth (excluding [acquisitions](/acquisition/) or [divestitures](/divestiture/)) reflects underlying business momentum.
 - **Adjusted EBITDA and margins:** Adjusted figures strip out one-time items and offer a clearer view of operating performance. Margin trends—whether pricing or cost control is winning—matter.
 - **Free cash flow:** Capital intensity is high; the company reinvests heavily in furnaces and production lines. Free cash flow after capex is what funds debt service and shareholder returns.
-- **Debt levels and leverage ratios:** Debt-to-EBITDA is a key covenant and credit metric. Elevated leverage in downturns can constrain flexibility.
+- **Debt levels and [leverage ratios](/leverage-ratio-forex/):** Debt-to-EBITDA is a key covenant and credit metric. Elevated leverage in downturns can constrain flexibility.
 - **Capex as a percentage of revenue:** Furnace maintenance and replacement are non-discretionary; sustained underinvestment would weaken competitive position.
 
-Comparing O-I to [Ardagh Group](/wiki/ardgh-stock/) (OI's closest large rival) or reviewing peer multiples (enterprise value to EBITDA) gives context on valuation. The company trades on a blend of dividend yield, cash flow generation, and cyclical recovery expectations.
+Comparing O-I to [Ardagh Group](/wiki/ardgh-stock/) (OI's closest large rival) or reviewing peer multiples ([enterprise value](/enterprise-value/) to EBITDA) gives context on valuation. The company trades on a blend of [dividend yield](/dividend-yield/), cash flow generation, and cyclical recovery expectations.
 
 ## Where to Dig Deeper
 
 O-I's [10-K](/wiki/10-k/) is the core document—read the management discussion on segment performance, cost inflation, and customer relationships. Earnings calls with management offer color on order books, pricing trends, and capital plans. Industry publications covering the packaging, beverage, and sustainability sectors track regulatory shifts and competitive moves. Trade associations like the Glass Packaging Institute publish market data and advocacy positions relevant to the outlook.
 
-For a cyclical manufacturer like O-I, understanding the stage of the industrial cycle and consumer demand momentum is as important as the company's balance sheet. A glass maker thrives when volumes are rising and energy is stable; it survives downturns on scale, cash generation, and financial discipline. O-I's decades of operation and recent discipline on debt reduction suggest the company can weather cycles, but investors should remain alert to cost inflation, energy volatility, and competitive repricing.
+For a cyclical manufacturer like O-I, understanding the stage of the industrial cycle and consumer demand momentum is as important as the company's [balance sheet](/balance-sheet/). A glass maker thrives when volumes are rising and energy is stable; it survives downturns on scale, cash generation, and financial discipline. O-I's decades of operation and recent discipline on debt reduction suggest the company can weather cycles, but investors should remain alert to cost inflation, energy volatility, and competitive repricing.

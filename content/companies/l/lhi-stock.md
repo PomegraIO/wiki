@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Living Homeopathy International is a Hong Kong-based manufacturer and marketer of homeopathic remedies and alternative wellness products. Founded in 1994, the company sells branded products—homeopathic solutions, flower remedies, personal care items, and water filters—primarily to consumers in Hong Kong seeking non-pharmaceutical approaches to health and wellness. It went public on NASDAQ under the ticker LHI in late 2024, with a modest IPO targeting roughly $6 million in capital. As of its most recent fiscal period, the company earned approximately $8 million in annual revenue with a headcount of around 16 employees, making it a true micro-cap operation.
+Living Homeopathy International is a Hong Kong-based manufacturer and marketer of homeopathic remedies and alternative wellness products. Founded in 1994, the company sells branded products—homeopathic solutions, flower remedies, personal care items, and water filters—primarily to consumers in Hong Kong seeking non-pharmaceutical approaches to health and wellness. It went public on [NASDAQ](/nasdaq/) under the ticker LHI in late 2024, with a modest IPO targeting roughly $6 million in capital. As of its most recent fiscal period, the company earned approximately $8 million in annual revenue with a headcount of around 16 employees, making it a true micro-cap operation.
 
 ## The Business and What Drives Revenue
 
@@ -26,7 +26,7 @@ The homeopathic category itself is characterized by fierce consumer loyalty (use
 
 ## Why It Went Public and What Comes Next
 
-Living Homeopathy filed for a NASDAQ IPO seeking to raise capital for growth and operational scaling. The company's S-1 filings suggest ambitions to expand distribution, potentially enter new markets, and strengthen its manufacturing base. However, a $6 million raise on a few million dollars of revenue is a cautious go-public by design—the company needs cash without raising at a steep valuation, and the public market gives it currency for partnerships or acquisitions of complementary brands.
+Living Homeopathy filed for a NASDAQ IPO seeking to raise capital for growth and operational scaling. The company's S-1 filings suggest ambitions to expand distribution, potentially enter new markets, and strengthen its manufacturing base. However, a $6 million raise on a few million dollars of revenue is a cautious go-public by design—the company needs cash without raising at a steep valuation, and the public market gives it currency for partnerships or [acquisitions](/acquisition/) of complementary brands.
 
 The real risks are structural. The company must prove it can grow beyond Hong Kong without losing the local brand equity it has built. It also depends on continued consumer belief in homeopathy despite ongoing scientific skepticism and regulatory scrutiny in some jurisdictions. Homeopathic product labeling and efficacy claims face periodic regulatory challenges globally, which could affect its ability to operate or market products in new territories.
 

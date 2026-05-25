@@ -54,7 +54,7 @@ The gap between promising early-stage results and mature, revenue-generating use
 
 As a pure-play quantum hardware company, D-Wave faces an uncommon risk profile. Unlike software companies, it must design, manufacture, and support complex physical systems. Scaling production, maintaining quality, and managing supply-chain dependencies for specialized components creates operational friction. The customer base remains small and concentrated, meaning revenue can be lumpy and dependent on large individual deals.
 
-The company is also capital-intensive. Advancing quantum hardware requires continuous R&D investment, and the path to profitability is uncertain. D-Wave went public via SPAC merger in 2021, accessing equity capital to fund operations and growth, but traditional profitability metrics are years away.
+The company is also capital-intensive. Advancing quantum hardware requires continuous R&D investment, and the path to profitability is uncertain. D-Wave went public via SPAC [merger](/merger/) in 2021, accessing equity capital to fund operations and growth, but traditional profitability metrics are years away.
 
 ## Strengths and Positioning
 
@@ -66,7 +66,7 @@ The company has also cultivated a developer ecosystem and partnerships with ente
 
 The quantum computing industry remains speculative. Capital-intensive R&D, an uncertain path to widespread commercial viability, and the possibility that competing technologies prove superior all pose existential risks. Regulatory changes, trade tensions affecting semiconductor supply chains, and the emergence of stronger quantum error correction in rival approaches could rapidly shift competitive dynamics. For investors, the company is a long-term bet on both quantum computing's eventual maturity and D-Wave's specific technological approach prevailing.
 
-The company's dependence on a small number of large deals, combined with slow customer acquisition and long sales cycles, creates revenue visibility challenges typical of enterprise hardware vendors targeting new markets.
+The company's dependence on a small number of large deals, combined with slow customer [acquisition](/acquisition/) and long sales cycles, creates revenue visibility challenges typical of enterprise hardware vendors targeting new markets.
 
 ## Points to Watch
 

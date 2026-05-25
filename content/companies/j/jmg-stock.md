@@ -40,7 +40,7 @@ The company operates in a historically thin-margin business. Wholesale distribut
 
 ## A small public company
 
-JM Group's December 2025 initial public offering raised $15 million, pricing 3.75 million shares at $4 per share. At the time of writing, the company is a micro-cap with a market capitalization near $130 million and roughly 19.8 million shares outstanding. This size places it among the smallest companies on a major U.S. exchange, which means liquidity in the stock can be limited and the company operates with minimal research coverage.
+JM Group's December 2025 [initial public offering](/initial-public-offering/) raised $15 million, pricing 3.75 million shares at $4 per share. At the time of writing, the company is a micro-cap with a [market capitalization](/market-capitalization/) near $130 million and roughly 19.8 million shares outstanding. This size places it among the smallest companies on a major U.S. exchange, which means liquidity in the stock can be limited and the company operates with minimal research coverage.
 
 The newness of the listing also means limited public disclosure history. Investors have access to the registration statement filed with the SEC (CIK 2049717), which lays out the business model, risk factors, and financial snapshots from the offering prospectus. The company's [10-K annual filing](/wiki/10-k/) and quarterly filings will provide the deeper financial detail that studying any public company requires.
 
@@ -48,7 +48,7 @@ The newness of the listing also means limited public disclosure history. Investo
 
 As a small, newly public wholesale distributor, JM Group faces several straightforward pressures. Wholesale margins can compress quickly if customers have bargaining power or if there is a glut of competing suppliers. Any significant disruption to shipping—port closures, tariffs, or shipping rates spikes—flows directly to the bottom line. The company also faces the risk that major customers might move to competing suppliers or develop in-house sourcing capabilities, which would shrink the customer base.
 
-For a micro-cap, liquidity and the broader stock market's appetite for such small names can also matter. There is no guarantee that trading in JMG will remain active enough to make meaningful entry or exit from the position practical.
+For a micro-cap, liquidity and the broader [stock market](/stock-market/)'s appetite for such small names can also matter. There is no guarantee that trading in JMG will remain active enough to make meaningful entry or exit from the position practical.
 
 | Product Category | Nature of goods | Why it matters |
 |---|---|---|
@@ -60,4 +60,4 @@ For a micro-cap, liquidity and the broader stock market's appetite for such smal
 | School & art supplies | Stationery, art materials, office goods | Stable demand linked to school calendar |
 | Apparel & personal care | Clothing, hygiene products | Wide-margin category; brands own customer relationships |
 
-JM Group is best understood as a small specialized trader in a mature, competitive sector. It is not a growth story but rather a working-capital-driven wholesale business with earnings potential tied tightly to operational efficiency and supplier relationships. Anyone considering the stock should read the company's SEC filings carefully, pay close attention to customer concentration (a handful of large buyers can dominate a small wholesaler's revenue), and monitor the balance sheet and cash-conversion metrics that matter most in the distribution business.
+JM Group is best understood as a small specialized trader in a mature, competitive sector. It is not a growth story but rather a working-capital-driven wholesale business with earnings potential tied tightly to operational efficiency and supplier relationships. Anyone considering the stock should read the company's SEC filings carefully, pay close attention to customer concentration (a handful of large buyers can dominate a small wholesaler's revenue), and monitor the [balance sheet](/balance-sheet/) and cash-conversion metrics that matter most in the distribution business.

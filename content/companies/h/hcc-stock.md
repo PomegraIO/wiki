@@ -16,7 +16,7 @@ Warrior Met Coal operates a single integrated metallurgical coal mine complex in
 
 Based in Brookwood, Alabama, Warrior Met operates the Bulldog Mountain and Warrior mine complex in the Warrior Basin, an Appalachian coal field that has supplied the steel industry for over a century. The operation is vertically integrated from extraction through preparation (washing and blending) to export. Nearly all coal is sold on long-term and spot contracts to steel producers and trading firms in Europe, Asia, and North America.
 
-The company is strictly a coal play—no diversification into thermal coal (used for power), metallurgical by-products, or other minerals. This focus is intentional and reflects both the market's demand for consistency and the company's operational bet that premium metallurgical coal will remain essential to steelmaking despite electrification of other industries.
+The company is strictly a coal play—no [diversification](/diversification/) into thermal coal (used for power), metallurgical by-products, or other minerals. This focus is intentional and reflects both the market's demand for consistency and the company's operational bet that premium metallurgical coal will remain essential to steelmaking despite electrification of other industries.
 
 ## How Revenue Flows
 
@@ -28,7 +28,7 @@ Typical revenue drivers include:
 - **Volume**: Absolute tons produced and sold per year; constrained by mine geology and prepared-coal reserves, not demand (the company usually sells what it produces).
 - **Product mix**: Within metallurgical coal, "hard coking coal" (HCC)—the highest grade, most broadly suitable for steelmaking—commands premium prices; lower-grade "semi-soft" or blended coals sell at discounts.
 
-The company typically operates at or near nameplate capacity (around 7 million tons annually in recent years), with profitability and free cash flow highly sensitive to commodity prices. In strong steel-demand years, operating margins can be substantial; in downturns, negative margins and covenant pressure are risks.
+The company typically operates at or near nameplate capacity (around 7 million tons annually in recent years), with profitability and [free cash flow](/free-cash-flow/) highly sensitive to commodity prices. In strong steel-demand years, [operating margins](/operating-margin/) can be substantial; in downturns, negative margins and covenant pressure are risks.
 
 ## Competitive Position and Moat
 
@@ -48,7 +48,7 @@ Warrior Met faces multiple, overlapping headwinds:
 - **Secular decline of coal**: Even in metallurgical coal, long-term demand growth is near zero in developed economies. Climate policy, carbon pricing, and green-steel initiatives incentivize steelmakers to electrify production or capture and use metallurgical coal more efficiently.
 - **Geopolitical substitution**: Political tensions or tariffs could encourage steelmakers to source more from Australia or South Africa, bypassing US suppliers.
 - **Customer concentration**: A handful of large integrated steelmakers account for a significant share of sales. Loss of a major contract creates material risk.
-- **Mining operational risks**: Geological surprises, equipment failure, and workforce availability in remote locations are endemic to the industry. A prolonged production halt can breach debt covenants.
+- **Mining [operational risks](/operational-risk/)**: Geological surprises, equipment failure, and workforce availability in remote locations are endemic to the industry. A prolonged production halt can breach debt covenants.
 - **Capital intensity and leverage**: Warrior Met carries debt to fund operations and equipment replacement. Commodity downturns can rapidly erode equity value and trigger covenant violations or refinancing crises.
 
 ## Why and How to Research It
@@ -71,4 +71,4 @@ Given commodity exposure, a 10-year chart of coking coal prices and the stock's 
 
 ---
 
-Warrior Met Coal is a commodity play in its purest form: a single, geologically favored asset with limited downside protection in bear markets but real upside if the company executes at low cost during strong steel cycles. Its investment case rests on the assumption that premium metallurgical coal will remain an irreplaceable input to integrated steelmaking for the next 10–20 years, and that US-sourced supply offers sufficient logistical and regulatory advantage to justify paying for the commodity's inherent volatility. Success or failure hinges far more on coking coal prices than on management execution or industry position.
+Warrior Met Coal is a commodity play in its purest form: a single, geologically favored asset with limited downside protection in [bear markets](/bear-market/) but real upside if the company executes at low cost during strong steel cycles. Its investment case rests on the assumption that premium metallurgical coal will remain an irreplaceable input to integrated steelmaking for the next 10–20 years, and that US-sourced supply offers sufficient logistical and regulatory advantage to justify paying for the commodity's inherent volatility. Success or failure hinges far more on coking coal prices than on management execution or industry position.

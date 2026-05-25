@@ -43,7 +43,7 @@ The technical roadmap typically emphasizes expanded connectivity (integrating wi
 
 ## Regulatory and Compliance Context
 
-XChange operates in markets that are heavily regulated, which creates both risks and opportunities. The company must maintain compliance with SEC rules, FINRA requirements, international financial regulators, and the internal compliance rules of each exchange it connects. Regulatory changes—whether in trade reporting, market surveillance, or circuit breaker rules—force software vendors to continuously adapt their systems.
+XChange operates in markets that are heavily regulated, which creates both risks and opportunities. The company must maintain compliance with SEC rules, [FINRA](/finra/) requirements, international financial regulators, and the internal compliance rules of each exchange it connects. Regulatory changes—whether in [trade reporting](/trade-reporting/), [market surveillance](/market-surveillance/), or [circuit breaker](/circuit-breaker/) rules—force software vendors to continuously adapt their systems.
 
 This regulatory complexity is simultaneously a competitive advantage. Vendors who build compliance into their platforms from the ground up earn the trust of institutional clients and create switching costs through regulatory interconnection. The cost of regulatory non-compliance is so high that clients view their software vendors not as commodities but as essential partners in their own regulatory obligations.
 
@@ -51,13 +51,13 @@ This regulatory complexity is simultaneously a competitive advantage. Vendors wh
 
 Subscription revenue provides stability, but the business still carries meaningful cyclicality. When trading volumes decline or market participants reduce capital deployment, some clients may downsize or renegotiate contracts. Volatile markets with elevated fear and uncertainty often coincide with peak trading activity and thus peak platform usage—creating a partially offsetting dynamic where revenue can rise during market stress despite client worry.
 
-The company's financial engineering (capital structure, share buybacks, and dividend policy) matters because the business generates free cash flow after modest capital reinvestment, allowing management flexibility in how to return cash to shareholders. The balance between reinvestment and distributions shapes long-term growth prospects.
+The company's financial engineering (capital structure, [share buybacks](/share-buyback/), and [dividend](/dividend/) policy) matters because the business generates [free cash flow](/free-cash-flow/) after modest capital reinvestment, allowing management flexibility in how to return cash to shareholders. The balance between reinvestment and distributions shapes long-term growth prospects.
 
 ## Competitive Landscape
 
 XChange competes with both specialized financial software vendors and divisions of much larger diversified technology companies. Smaller, focused competitors may innovate faster in specific areas; larger integrated vendors can bundle financial software with complementary offerings (cloud services, data analytics, cybersecurity). The key competitive differentiation lies in performance, reliability, feature depth for specific use cases, and the ecosystem of integrations with other market infrastructure.
 
-Consolidation in the financial technology space creates both threats and opportunities. A vendor that loses a major client to an acquisition or merger faces revenue loss, but XChange's ability to integrate with diverse platforms (rather than replacing them entirely) positions it to serve the integration challenges that mega-mergers create.
+Consolidation in the financial technology space creates both threats and opportunities. A vendor that loses a major client to an [acquisition](/acquisition/) or [merger](/merger/) faces revenue loss, but XChange's ability to integrate with diverse platforms (rather than replacing them entirely) positions it to serve the integration challenges that mega-mergers create.
 
 ## Operational Execution
 

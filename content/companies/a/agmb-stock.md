@@ -19,7 +19,7 @@ The company advances clinical-stage candidates through various phases of testing
 
 ## How does Agomab fund its operations?
 
-As a pre-commercial biotech, the company has historically relied on equity markets and partnerships to sustain operations. Public market access through its Nasdaq listing allows it to raise capital while advancing long development timelines without immediate commercialization pressure. Cash management and burn rate are critical metrics for development-stage biotechs, since clinical programs consume significant resources and success is uncertain. The company must balance advancing its most promising assets while preserving runway.
+As a pre-commercial biotech, the company has historically relied on equity markets and partnerships to sustain operations. Public market access through its [Nasdaq](/nasdaq/) listing allows it to raise capital while advancing long development timelines without immediate commercialization pressure. Cash management and burn rate are critical metrics for development-stage biotechs, since clinical programs consume significant resources and success is uncertain. The company must balance advancing its most promising assets while preserving runway.
 
 ## What's the competitive advantage?
 

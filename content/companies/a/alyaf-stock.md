@@ -25,7 +25,7 @@ Alithya operates in a mature, competitive consulting landscape alongside global 
 
 ## At a Glance
 
-- Founded 1992 from Mouvement Desjardins spinoff; publicly traded on TSX as ALYA, OTC as ALYAF
+- Founded 1992 from Mouvement Desjardins [spinoff](/spinoff/); publicly traded on TSX as ALYA, OTC as ALYAF
 - Three service pillars: strategy, enterprise solutions, technology enablement
 - Serves financial services, energy, manufacturing, telecom, healthcare, government, and higher education
 - Over 3,900 employees; primary operations in Canada and the United States

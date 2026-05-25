@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**WisdomTree is an exchange-traded fund sponsor and asset manager built on the conviction that traditional market-cap weighting leaves money on the table.** Instead of owning stocks in proportion to their market value — the foundation of most index funds — WisdomTree constructs its indexes by weighting companies based on fundamental factors like dividends paid, earnings, and cash flow. This seemingly small methodological shift has become the company's defining edge: it spawned a product line of more than 200 exchange-traded products and drew nearly $100 billion in assets under management by the mid-2020s. The stock trades on the NYSE under ticker WT.
+**WisdomTree is an exchange-traded fund sponsor and asset manager built on the conviction that traditional market-cap weighting leaves money on the table.** Instead of owning stocks in proportion to their market value — the foundation of most index funds — WisdomTree constructs its indexes by weighting companies based on fundamental factors like [dividends](/dividend/) paid, earnings, and cash flow. This seemingly small methodological shift has become the company's defining edge: it spawned a product line of more than 200 exchange-traded products and drew nearly $100 billion in assets under management by the mid-2020s. The stock trades on the NYSE under ticker WT.
 
 <aside class="wiki-infobox">
 <table>
@@ -52,7 +52,7 @@ That said, the business remains vulnerable to the same pressures that affect the
 
 From a standing start in 2006, WisdomTree grew to $1.5 billion in assets within a year, then expanded steadily to $51 billion by 2015 and nearly $100 billion by 2024. Much of that growth came from the sheer expansion of the ETF industry itself — assets in ETFs globally have grown from hundreds of billions to nearly $15 trillion — but WisdomTree also gained market share as the fundamentally weighted strategy attracted interest from institutional investors and financial advisors.
 
-The company went public on the Nasdaq in 2011 under the ticker WETF, giving it access to capital and allowing the founders to partially exit. In 2022, WisdomTree transferred its listing to the NYSE and renamed the ticker to WT, a signal of ambition for a company that had grown beyond its pure-play dividend-ETF origins. By that time, the firm had expanded far beyond dividend equity products into a comprehensive suite covering emerging markets, fixed income, commodities, and eventually crypto-related ETPs — areas where fundamental weighting or other proprietary methodologies offered competitive angles.
+The company went public on the [Nasdaq](/nasdaq/) in 2011 under the ticker WETF, giving it access to capital and allowing the founders to partially exit. In 2022, WisdomTree transferred its listing to the NYSE and renamed the ticker to WT, a signal of ambition for a company that had grown beyond its pure-play dividend-ETF origins. By that time, the firm had expanded far beyond dividend equity products into a comprehensive suite covering emerging markets, fixed income, commodities, and eventually crypto-related ETPs — areas where fundamental weighting or other proprietary methodologies offered competitive angles.
 
 ## The case for and against the methodology
 

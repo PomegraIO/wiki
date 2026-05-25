@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-AMTD Digital Inc. is a Hong Kong-incorporated digital asset and financial technology company that went public in Hong Kong in July 2022. The company operates under the ticker HKD and was initially backed by Tiger Brokers, a fintech brokerage founded in mainland China that pivoted toward offshore services.
+AMTD Digital Inc. is a Hong Kong-incorporated digital asset and financial technology company that went public in Hong Kong in July 2022. The company operates under the ticker HKD and was initially backed by Tiger [Brokers](/broker/), a fintech brokerage founded in mainland China that pivoted toward offshore services.
 
 The core business centers on **SpiderNet**, a decentralized network infrastructure meant to support digital asset and blockchain applications. SpiderNet is positioned as a platform for connecting digital asset exchanges, custody providers, and institutional clients, with an emphasis on settlement finality and cross-border transaction routing. Beyond SpiderNet, AMTD offers brokerage and trading services, particularly in [stocks](/wiki/stock/) and digital assets, targeting both retail and institutional customers across Asia-Pacific. The company also invests in and incubates blockchain-related projects, functioning partly as a venture platform in the crypto and Web3 ecosystem.
 
@@ -40,7 +40,7 @@ Readers tracking AMTD should focus on:
 
 1. **Actual SpiderNet usage metrics** — In financial filings and announcements, look for evidence of live transaction volume, number of connected platforms, and institutional partnership growth. Vague promises without metrics are red flags.
 
-2. **Profitability timeline** — The company's 10-K filing (available via the SEC or the Hong Kong Stock Exchange) shows losses; watch for a credible path to breakeven and the cash runway before that point.
+2. **Profitability timeline** — The company's 10-K filing (available via the SEC or the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/)) shows losses; watch for a credible path to breakeven and the cash runway before that point.
 
 3. **Regulatory shifts in Hong Kong and Singapore** — Changes to digital asset licensing or restrictions can abruptly impact the addressable market.
 

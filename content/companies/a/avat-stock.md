@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Avalanche Treasury Corp operates in the niche intersection of asset custody and specialized treasury services, targeting institutions and high-net-worth clients seeking alternatives to mainstream custodians.**
+**Avalanche Treasury Corp operates in the niche intersection of asset custody and specialized treasury services, targeting institutions and high-net-worth clients seeking alternatives to mainstream [custodians](/custodian/).**
 
 ## The Custody and Administration Foundation
 
@@ -22,7 +22,7 @@ Beyond core custody, the company offers treasury management capabilities and liq
 
 ## Revenue and Fee Structure
 
-Like custodians generally, Avalanche Treasury generates revenue through a mix of custody fees (typically percentage-based on assets under administration), transaction charges, and service fees for specialized functions. Profitability depends on operational efficiency, client retention, and the ability to grow assets under management. Capital adequacy, operational resilience, and regulatory compliance remain critical competitive factors in an industry where client asset protection is paramount.
+Like custodians generally, Avalanche Treasury generates revenue through a mix of custody fees (typically percentage-based on assets under administration), transaction charges, and service fees for specialized functions. Profitability depends on operational efficiency, client retention, and the ability to grow assets under management. [Capital adequacy](/capital-adequacy/), operational resilience, and regulatory compliance remain critical competitive factors in an industry where client asset protection is paramount.
 
 ### At a glance
 

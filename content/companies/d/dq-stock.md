@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-DAQO NEW ENERGY CORP. is one of the world's largest polysilicon manufacturers, based in China and publicly listed on the Nasdaq. The company produces polysilicon, a core material used to make solar photovoltaic wafers and cells. Despite operating in a commodity industry, DAQO has maintained a position as one of the lowest-cost producers globally, a crucial advantage in an economic landscape where solar has become price-competitive power generation and where supply-chain resilience matters deeply.
+DAQO NEW ENERGY CORP. is one of the world's largest polysilicon manufacturers, based in China and publicly listed on the [Nasdaq](/nasdaq/). The company produces polysilicon, a core material used to make solar photovoltaic wafers and cells. Despite operating in a commodity industry, DAQO has maintained a position as one of the lowest-cost producers globally, a crucial advantage in an economic landscape where solar has become price-competitive power generation and where supply-chain resilience matters deeply.
 
 ## The Core Business
 
@@ -35,9 +35,9 @@ Separately, China's domestic overcapacity in polysilicon has periodically pressu
 
 ## Financial Profile and Capital Allocation
 
-DAQO's financial health reflects its position as a capital-efficient, cash-generative commodity producer. The company generates substantial free cash flow during high-price cycles and tightens capital expenditure when demand softens. Debt levels have varied with cycle; the company has typically maintained reasonable leverage but uses borrowing to fund capacity expansions when outlook improves.
+DAQO's financial health reflects its position as a capital-efficient, cash-generative commodity producer. The company generates substantial [free cash flow](/free-cash-flow/) during high-price cycles and tightens capital expenditure when demand softens. Debt levels have varied with cycle; the company has typically maintained reasonable leverage but uses borrowing to fund capacity expansions when outlook improves.
 
-Profitability has been cyclical. In years when polysilicon spot prices remained elevated (2020–2021, briefly in 2022), DAQO posted strong earnings. Conversely, when global solar capacity additions slowed or when supply expanded faster than demand, margins compressed. The company's dividend policy has been opportunistic—shareholder returns spike in high-margin years and shrink otherwise. Return on capital, averaged across cycles, has been reasonable but not spectacular for a commodity manufacturer.
+Profitability has been cyclical. In years when polysilicon spot prices remained elevated (2020–2021, briefly in 2022), DAQO posted strong earnings. Conversely, when global solar capacity additions slowed or when supply expanded faster than demand, margins compressed. The company's [dividend](/dividend/) policy has been opportunistic—shareholder returns spike in high-margin years and shrink otherwise. Return on capital, averaged across cycles, has been reasonable but not spectacular for a commodity manufacturer.
 
 ## Investment and Strategic Questions
 

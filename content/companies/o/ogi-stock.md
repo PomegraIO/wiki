@@ -26,7 +26,7 @@ Recreational cannabis sales rapidly outpaced medical volumes, and Organigram ada
 
 ## Building Scale and Vertically Integrating
 
-Through the late 2010s and into the 2020s, Organigram expanded its footprint through organic growth and selective acquisitions. The company added cultivation facilities, retail stores, and production capacity. A vertically integrated model—owning production, processing, and some retail operations—gave Organigram more control over brand presentation and margin capture. This model also reduced reliance on wholesale relationships and exposed the company to retail fluctuations.
+Through the late 2010s and into the 2020s, Organigram expanded its footprint through organic growth and selective [acquisitions](/acquisition/). The company added cultivation facilities, retail stores, and production capacity. A vertically integrated model—owning production, processing, and some retail operations—gave Organigram more control over brand presentation and margin capture. This model also reduced reliance on wholesale relationships and exposed the company to retail fluctuations.
 
 The company became known for a portfolio of brands that spanned consumer segments: premium flower under names targeting quality-conscious consumers, value-oriented products for price-sensitive buyers, and specialized formats such as edibles, oils, and topicals. This diversified approach helped mitigate the commoditization pressure that plagued pure-flower producers.
 

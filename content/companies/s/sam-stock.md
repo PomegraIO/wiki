@@ -34,7 +34,7 @@ The company sells through [wholesalers and distributors](/wiki/distribution-netw
 
 ## What Makes It Distinctive
 
-Boston Beer's competitive position rests on brand equity, innovation, and a portfolio approach. Samuel Adams carries heritage and trust built over decades. Truly has brand recognition in hard seltzers even as the category matures. Dogfish Head appeals to beer enthusiasts and has a cult following. This diversification protects the company from being wiped out if one category declines—a real risk in beverages, where consumer preferences can shift rapidly.
+Boston Beer's competitive position rests on brand equity, innovation, and a portfolio approach. Samuel Adams carries heritage and trust built over decades. Truly has brand recognition in hard seltzers even as the category matures. Dogfish Head appeals to beer enthusiasts and has a cult following. This [diversification](/diversification/) protects the company from being wiped out if one category declines—a real risk in beverages, where consumer preferences can shift rapidly.
 
 But the company faces structural pressures. It is smaller than the beer giants (Anheuser-Busch, Molson Coors) and lacks their economies of scale and access to capital. It competes with those giants in mainstream distribution, with thousands of regional craft brewers in craft beer, and with spirits companies and established hard seltzer makers in newer categories. Margins compress when categories become commoditized, and Boston Beer has limited control over retail shelf space—the bottleneck that decides which brands win.
 
@@ -42,7 +42,7 @@ But the company faces structural pressures. It is smaller than the beer giants (
 
 The hard seltzer boom has faded. Truly still leads its category, but the segment is no longer the growth engine it was a decade ago. Craft beer, the company's original home, has flattened as the number of breweries proliferated and large brewers acquired or copied craft-style offerings. Consumers are older on average (fewer young drinkers), regulations around alcohol advertising and distribution vary by jurisdiction, and environmental concerns about packaging add cost and complexity.
 
-The company's strategy centers on premiumization—pushing consumers toward higher-priced offerings with better margins—and controlled growth in emerging categories. But it must also defend existing brands against decline, manage debt from acquisitions and share buybacks, and maintain the organizational agility that smaller rivals possess. These pressures have shown in stock performance, which has been volatile compared to the larger beverage peers.
+The company's strategy centers on premiumization—pushing consumers toward higher-priced offerings with better margins—and controlled growth in emerging categories. But it must also defend existing brands against decline, manage debt from [acquisitions](/acquisition/) and [share buybacks](/share-buyback/), and maintain the organizational agility that smaller rivals possess. These pressures have shown in stock performance, which has been volatile compared to the larger beverage peers.
 
 ## Understanding Boston Beer as an Investment
 

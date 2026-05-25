@@ -20,13 +20,13 @@ handwritten: true
 - **Key minerals**: Attapulgite, bentonite, and other clay minerals mined or sourced domestically
 - **Geographic exposure**: Primarily North American markets; some export activity
 - **Business model**: Manufacturing and distribution; relies on mining operations and customer relationships
-- **Ticker**: [ODC](/wiki/stock/) on Nasdaq; CIK 0000074046
+- **Ticker**: [ODC](/wiki/stock/) on [Nasdaq](/nasdaq/); CIK 0000074046
 
 ## The core business
 
 Oil-Dri's revenue model rests on two complementary legs. The first and largest is cat litter—both branded products sold under the Oil-Dri brand name and contract manufacturing for retailers' private-label offerings. The retail channel reaches consumers through supermarkets, pet stores, and online retailers. Private-label work involves supplying major retailers with clay litter bearing their own brands, a lower-margin but high-volume business. Together, cat litter (in its various forms) accounts for the bulk of annual revenue.
 
-The second leg encompasses everything else the company can make from clay minerals: animal-health absorbents for veterinary and livestock applications, agricultural products (soil amendments, feed additives, and absorbents for poultry operations), and industrial absorbents for fluids purification, spill cleanup, and other applications. This segment has historically been smaller but provides diversification and premium pricing on specialized products. Over time, the company has made acquisitions and built capabilities to expand in this direction—for instance, growing its footprint in animal-health diagnostics and treatment products through bolt-on deals.
+The second leg encompasses everything else the company can make from clay minerals: animal-health absorbents for veterinary and livestock applications, agricultural products (soil amendments, feed additives, and absorbents for poultry operations), and industrial absorbents for fluids purification, spill cleanup, and other applications. This segment has historically been smaller but provides [diversification](/diversification/) and premium pricing on specialized products. Over time, the company has made [acquisitions](/acquisition/) and built capabilities to expand in this direction—for instance, growing its footprint in animal-health diagnostics and treatment products through bolt-on deals.
 
 ## The mineral foundation
 
@@ -44,7 +44,7 @@ Pricing is influenced by raw material costs (chiefly the clay minerals themselve
 
 ## Financial and operational characteristics
 
-As a [public company](/wiki/public-company/) traded on Nasdaq under the [ODC](/wiki/stock/) ticker, Oil-Dri files a [10-K](/wiki/10-k/) annually with the SEC (CIK 0000074046). The company has historically run profitably on a modest scale—not a growth dynamo, but a steady cash generator. Capital expenditure is a recurring need (plant maintenance, new processing lines, mining operations), so free cash flow available for dividends or debt reduction is a key metric to watch. The company carries debt to fund operations and acquisitions, but leverage has generally remained manageable.
+As a [public company](/wiki/public-company/) traded on Nasdaq under the [ODC](/wiki/stock/) ticker, Oil-Dri files a [10-K](/wiki/10-k/) annually with the SEC (CIK 0000074046). The company has historically run profitably on a modest scale—not a growth dynamo, but a steady cash generator. Capital expenditure is a recurring need (plant maintenance, new processing lines, mining operations), so [free cash flow](/free-cash-flow/) available for [dividends](/dividend/) or debt reduction is a key metric to watch. The company carries debt to fund operations and acquisitions, but leverage has generally remained manageable.
 
 Seasonality exists in both segments: cat-litter sales spike in fall and winter (when owners clean litter boxes more frequently and stock up), and agricultural products see strength in planting and harvest seasons. This rhythm shapes cash flow timing and purchasing patterns.
 
@@ -52,12 +52,12 @@ Seasonality exists in both segments: cat-litter sales spike in fall and winter (
 
 Over its eight-decade history, Oil-Dri has evolved from a single-product (cat litter) company into a diversified absorbent-products manufacturer. The strategy has been both organic—building new product lines in animal health and agriculture—and inorganic, acquiring complementary businesses. The company has attempted to move into higher-margin specialty applications while maintaining the steady cash generation from cat litter.
 
-However, ODC remains a niche player in a competitive industrial landscape. Unlike large conglomerates, it lacks the scale to dominate any single market, and its dependence on the pet-care retail channel means it is always somewhat at the mercy of large customer concentration risk. Strategic acquisitions and geographic expansion (including some international growth efforts) represent management's ongoing attempts to reduce that dependency and grow the base business.
+However, ODC remains a niche player in a competitive industrial landscape. Unlike large conglomerates, it lacks the scale to dominate any single market, and its dependence on the pet-care retail channel means it is always somewhat at the mercy of large customer [concentration risk](/concentration-risk/). Strategic acquisitions and geographic expansion (including some international growth efforts) represent management's ongoing attempts to reduce that dependency and grow the base business.
 
 ## How to research it
 
 For a detailed view of Oil-Dri's operations, financial position, and risks, start with the company's annual [10-K](/wiki/10-k/) filing with the SEC. Search for "Oil-Dri" on the SEC's [EDGAR system](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000074046&type=10-K&dateb=&owner=exclude&count=100) using CIK 0000074046. The 10-K will detail segment revenue, margins, customer concentration, mining operations, environmental obligations, and management's view of competitive pressures.
 
-For quarterly updates, review earnings calls and 10-Q filings. Look for trends in private-label versus branded cat-litter margins, adoption rates for specialty absorbents, and any significant customer wins or losses in the industrial segment. Track raw material costs (clay and energy prices) and processing efficiency metrics, which drive gross margins. Also note any strategic acquisitions or divestitures—they often signal management's evolving view of where growth and value lie.
+For quarterly updates, review earnings calls and 10-Q filings. Look for trends in private-label versus branded cat-litter margins, adoption rates for specialty absorbents, and any significant customer wins or losses in the industrial segment. Track raw material costs (clay and energy prices) and processing efficiency metrics, which drive gross margins. Also note any strategic acquisitions or [divestitures](/divestiture/)—they often signal management's evolving view of where growth and value lie.
 
 Competitive analysis can start by reviewing [stock](/wiki/stock/) movements against consumer discretionary trends (pet spending, in particular), commodity indices (clay and energy prices), and retailer earnings calls, which often discuss private-label sourcing and competition. Trade publications covering pet products and industrial minerals will offer perspective on market share shifts and new-product wins.

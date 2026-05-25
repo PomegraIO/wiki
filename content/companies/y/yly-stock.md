@@ -12,9 +12,9 @@ handwritten: true
 
 ## What is Zi Yun Dong Fang?
 
-Zi Yun Dong Fang Ltd, trading as YLY on the NASDAQ, is a Hong Kong-registered consulting and advisory services firm focused on cross-border investment and enterprise expansion. The company provides research, feasibility assessments, and operational support to facilitate business transactions and investments flowing between China, Southeast Asia, and beyond. Its core mission centers on removing friction for corporations navigating the complexities of regional expansion—whether a Chinese enterprise seeking to establish footholds in Vietnam and other Southeast Asian markets, or foreign companies evaluating or executing entry strategies into Asian economies.
+Zi Yun Dong Fang Ltd, trading as YLY on the [NASDAQ](/nasdaq/), is a Hong Kong-registered consulting and advisory services firm focused on cross-border investment and enterprise expansion. The company provides research, feasibility assessments, and operational support to facilitate business transactions and investments flowing between China, Southeast Asia, and beyond. Its core mission centers on removing friction for corporations navigating the complexities of regional expansion—whether a Chinese enterprise seeking to establish footholds in Vietnam and other Southeast Asian markets, or foreign companies evaluating or executing entry strategies into Asian economies.
 
-The company is young, having been established in 2021, and conducts all operations through its wholly-owned Hong Kong subsidiary, Ziyun Oriental. It went public on NASDAQ in 2024 via a modest initial public offering, raising approximately $8 million at a valuation that reflected investor appetite for emerging market advisory plays but acknowledged the company's very early stage of development.
+The company is young, having been established in 2021, and conducts all operations through its wholly-owned Hong Kong subsidiary, Ziyun Oriental. It went public on NASDAQ in 2024 via a modest [initial public offering](/initial-public-offering/), raising approximately $8 million at a valuation that reflected investor appetite for emerging market advisory plays but acknowledged the company's very early stage of development.
 
 ## How does Zi Yun Dong Fang make money?
 
@@ -32,11 +32,11 @@ The company competes implicitly with larger consulting firms on cost and regiona
 
 **Revenue concentration and volatility.** With only $2 million in annual revenue and a client base believed to be small and concentrated, the loss of a single large client could materially impact results. Advisory revenues are lumpy by nature; a lull in cross-border M&A or investment activity would directly suppress earnings.
 
-**Client acquisition and reputation.** Growth requires building a robust pipeline and brand in Southeast Asia. Any reputational misstep or failure to deliver on a major engagement could undermine the firm's fragile reputation and make new business generation harder.
+**Client [acquisition](/acquisition/) and reputation.** Growth requires building a robust pipeline and brand in Southeast Asia. Any reputational misstep or failure to deliver on a major engagement could undermine the firm's fragile reputation and make new business generation harder.
 
-**Market timing and external conditions.** Cross-border deal flow and investment sentiment are cyclical and sensitive to geopolitical and macroeconomic headwinds. Rising tensions between China and Southeast Asian nations, labor disputes, political instability, or a broad economic downturn would reduce demand for advisory services.
+**[Market timing](/market-timing/) and external conditions.** Cross-border deal flow and investment sentiment are cyclical and sensitive to geopolitical and macroeconomic headwinds. Rising tensions between China and Southeast Asian nations, labor disputes, political instability, or a broad economic downturn would reduce demand for advisory services.
 
-**Regulatory and legal risk.** Advisory services, especially those touching on government relations or foreign investment, can face regulatory scrutiny in multiple jurisdictions. Changes to foreign investment rules in Vietnam or restrictions on Chinese capital flows could constrain client activity.
+**Regulatory and legal risk.** Advisory services, especially those touching on government relations or foreign investment, can face regulatory scrutiny in multiple jurisdictions. Changes to foreign investment rules in Vietnam or restrictions on Chinese [capital flows](/capital-flows/) could constrain client activity.
 
 **Talent retention.** The firm's value resides largely in its people and their expertise. High staff turnover or departure of key advisors could seriously impair service quality and client relationships.
 
@@ -50,7 +50,7 @@ Next, review recent [10-Q filings](/wiki/public-company/) for quarterly updates 
 
 Look for press releases or earnings announcements discussing new client wins or service launches. Given the firm's tiny scale, any major engagement or geographic expansion is newsworthy.
 
-Research Vietnam's investment climate and the broader cross-border M&A and consulting market. Industry reports on Asia-Pacific deal flow, foreign direct investment trends, and China-ASEAN trade relations provide context for the company's addressable market and near-term demand environment.
+Research Vietnam's investment climate and the broader cross-border M&A and consulting market. Industry reports on Asia-Pacific deal flow, [foreign direct investment](/foreign-direct-investment/) trends, and China-ASEAN trade relations provide context for the company's addressable market and near-term demand environment.
 
 Finally, given the company's reliance on founder and management expertise, investor materials and SEC filings that disclose the background and experience of leadership and key personnel warrant close reading. For a boutique advisory firm with limited track record, the caliber and continuity of its leadership and client relationships are the business.
 

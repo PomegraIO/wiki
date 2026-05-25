@@ -31,7 +31,7 @@ As a fabless design company, Aeluma outsources manufacturing to foundries, elimi
 
 - Fabless designer of photonic and optoelectronic integrated circuits
 - Compound semiconductor materials (GaAs, InP) enable high-frequency and radiation-hardened performance
-- Three primary markets: aerospace/defense, telecommunications, datacom
+- Three [primary markets](/primary-market/): aerospace/defense, telecommunications, datacom
 - High-margin, application-specific solutions vs. commodity chip competition
 - Revenue concentrated in custom design and low-volume specialized production
 - R&D intensity and foundry partner dependencies define operational constraints

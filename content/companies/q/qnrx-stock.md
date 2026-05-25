@@ -36,7 +36,7 @@ Quoin's advantage rests on its scientific team's focus and credibility in skin b
 
 The core risk is clinical: trials must show the drug works safely in humans. Rare-disease trials can be small (sometimes fewer than 100 patients), but patient recruitment remains challenging, and a single failed trial is often fatal for a company at Quoin's stage. Regulatory approval is not guaranteed, and even positive data requires navigating FDA expectations around rare diseases, where trial designs may be unconventional.
 
-Financial risk is also substantial. The company must raise capital before running out of cash, and investor appetite for rare-disease biotech waxes and wanes with market sentiment. A downturn in biotech funding, slowing trial enrollment, or unexpected safety signals can force difficult restructuring or acquisition.
+Financial risk is also substantial. The company must raise capital before running out of cash, and investor appetite for rare-disease biotech waxes and wanes with market sentiment. A downturn in biotech funding, slowing trial enrollment, or unexpected safety signals can force difficult restructuring or [acquisition](/acquisition/).
 
 Commercial risk exists too: even if a drug is approved, the rare-disease market may be smaller or more fragmented than expected, limiting upside. Rare-disease pricing faces increasing scrutiny from payers and politicians concerned about budget impact.
 

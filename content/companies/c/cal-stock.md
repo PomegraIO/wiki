@@ -46,7 +46,7 @@ Second is wholesale concentration. A significant portion of branded revenue flow
 
 Third is supply chain and sourcing risk. Like all footwear manufacturers, Caleres depends on production capacity and suppliers in countries like Vietnam, China, and India. Labor costs, tariff changes, and logistics disruptions can squeeze margins or force price increases that weaken competitiveness.
 
-Fourth is brand relevance and age. Most of Caleres' portfolio brands skew toward older consumers (Naturalizer, Dr. Scholl's) or niche categories (KEDS). Acquiring and retaining younger consumers, who shop differently and have less brand loyalty, is an ongoing challenge. The company has invested in acquisitions (like Sam Edelman) to hedge this, but modern brand-building requires sustained marketing spend and product innovation.
+Fourth is brand relevance and age. Most of Caleres' portfolio brands skew toward older consumers (Naturalizer, Dr. Scholl's) or niche categories (KEDS). Acquiring and retaining younger consumers, who shop differently and have less brand loyalty, is an ongoing challenge. The company has invested in [acquisitions](/acquisition/) (like Sam Edelman) to hedge this, but modern brand-building requires sustained marketing spend and product innovation.
 
 Finally, there is execution risk around DTC transformation. The company has acknowledged the need to grow direct-to-consumer channels, but DTC requires different capabilities in marketing, logistics, and customer data. Traditional wholesale players often struggle with this transition.
 

@@ -25,4 +25,4 @@ Agents on the eXp platform get lower commission splits compared to traditional f
 
 ## Where is this going?
 
-eXp has scaled from a small startup to a publicly traded company with thousands of agents worldwide. The residential real estate market remains fragmented, and cloud-based brokerage is still novel at scale. The company faces competition from traditional megabrokers and other tech-forward startups. Its growth depends on whether agents and customers believe a virtual-first experience is superior to regional, locally-rooted operations.
+eXp has scaled from a small startup to a publicly traded company with thousands of agents worldwide. The [residential real estate](/residential-real-estate/) market remains fragmented, and cloud-based brokerage is still novel at scale. The company faces competition from traditional megabrokers and other tech-forward startups. Its growth depends on whether agents and customers believe a virtual-first experience is superior to regional, locally-rooted operations.

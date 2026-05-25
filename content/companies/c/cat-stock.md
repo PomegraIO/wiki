@@ -43,9 +43,9 @@ Caterpillar operates three main segments: Construction Industries, Resource Indu
 
 **Construction Industries** produces road and site development machinery—hydraulic excavators, motor graders, backhoes, wheel loaders, and related equipment used by contractors to prepare land, grade surfaces, and haul materials. This segment is the breadth of the product line most people recognize.
 
-**Resource Industries** builds larger-scale equipment for mining and quarrying: rope shovels, draglines, underground mining loaders, and integrated systems designed for customers extracting coal, copper, iron ore, and other minerals. These are engineering-intensive products with long project cycles and high customer switching costs once deployed.
+**Resource Industries** builds larger-scale equipment for mining and quarrying: rope shovels, draglines, underground mining loaders, and integrated systems designed for customers extracting coal, copper, [iron ore](/iron-ore/), and other minerals. These are engineering-intensive products with long project cycles and high customer switching costs once deployed.
 
-**Energy & Transportation** manufactures diesel and natural gas engines for marine, rail, and industrial applications, plus gas turbines for power generation, compression, and industrial heat recovery. This segment is particularly valuable because engines and turbines are used across industries and geographies, providing diversification and recurring service revenue.
+**Energy & Transportation** manufactures diesel and [natural gas](/natural-gas/) engines for marine, rail, and industrial applications, plus gas turbines for power generation, compression, and industrial heat recovery. This segment is particularly valuable because engines and turbines are used across industries and geographies, providing [diversification](/diversification/) and recurring service revenue.
 
 The dealer channel is central to Cat's model. Unlike many manufacturers that sell direct, Caterpillar distributes through a global network of independent dealers who maintain inventory, provide parts, and perform service. This network requires dealer capital and expertise but gives Caterpillar reach and proximity to customers in remote locations—critical for mining and construction companies. Dealers become locked-in partners, and customers depend on them for support, creating long-term relationships that sustain demand for parts and genuine services, which carry high margins.
 
@@ -61,7 +61,7 @@ The company does face competition from Komatsu (Japan), Volvo Construction Equip
 
 ## Business Cycles and Earnings Drivers
 
-Caterpillar's earnings are sensitive to economic cycles, particularly construction spending and commodity prices. When infrastructure investment surges or mining companies expand capacity, backlogs and prices rise. When recessions hit or commodity prices collapse, capital equipment spending plummets. This cyclicality is structural—infrastructure spending depends on government budgets and private investment, which swing sharply.
+Caterpillar's earnings are sensitive to economic cycles, particularly [construction spending](/construction-spending/) and commodity prices. When infrastructure investment surges or mining companies expand capacity, backlogs and prices rise. When [recessions](/recession/) hit or commodity prices collapse, capital equipment spending plummets. This cyclicality is structural—infrastructure spending depends on government budgets and private investment, which swing sharply.
 
 Parts and service revenue, however, is more stable. Customers who own Cat equipment must maintain and repair it regardless of the cycle, and they prefer genuine parts and trained technicians. This recurring revenue anchors earnings and cushions downturns but cannot offset a severe collapse in new equipment demand.
 
@@ -87,10 +87,10 @@ Foreign exchange is a secondary but meaningful driver. Caterpillar earns signifi
 
 Caterpillar files a [10-K](/wiki/10-k/) annually with the SEC (CIK 18230), which details segment revenue, margins, geographic exposure, and risks. The 10-K is the best starting point for understanding the business and recent performance.
 
-Key metrics to track include construction and mining equipment order backlogs (a leading indicator of revenue strength), parts and service revenue growth (a more stable, higher-margin contributor), and dealer inventory levels (a sign of health in the distribution channel). Management commentary on pricing power, wage inflation, and raw material costs indicates near-term margin direction.
+Key metrics to track include construction and mining equipment order backlogs (a leading indicator of revenue strength), parts and service revenue growth (a more stable, higher-margin contributor), and dealer inventory levels (a sign of health in the distribution channel). Management commentary on pricing power, wage [inflation](/inflation/), and raw material costs indicates near-term margin direction.
 
 Industry data on construction spending from the U.S. Census Bureau, global mining capex forecasts, and commodity prices (especially copper, coal, and oil) provide context for Caterpillar's demand environment. The company typically reports quarterly, and analysts focus on gross margin, equipment backlog, and guidance for the coming year.
 
 Geographic segment performance is worth monitoring—North America, Europe, and emerging markets (China, India, Southeast Asia) have different growth rates and margins. China in particular is a large market for Caterpillar, but also a source of geopolitical and competitive risk.
 
-Finally, capital allocation matters. Caterpillar returns cash through dividends and buybacks, and its dividend history is long. Acquisitions in adjacent industries—engines, power systems, automation—have been strategic moves to diversify and deepen moats. Understanding management's acquisitions and divestitures reveals priorities and confidence in core segments.
+Finally, capital allocation matters. Caterpillar returns cash through [dividends](/dividend/) and buybacks, and its dividend history is long. [Acquisitions](/acquisition/) in adjacent industries—engines, power systems, automation—have been strategic moves to diversify and deepen moats. Understanding management's acquisitions and [divestitures](/divestiture/) reveals priorities and confidence in core segments.

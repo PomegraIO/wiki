@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**ONE Gas moves natural gas to homes and businesses across three states, operating under the tight rules that govern regulated utility companies.**
+**ONE Gas moves [natural gas](/natural-gas/) to homes and businesses across three states, operating under the tight rules that govern regulated utility companies.**
 
 ## What the company is and does
 
@@ -18,17 +18,17 @@ ONE Gas is a regulated natural gas distribution utility serving approximately 2.
 
 ## How it started and what changed
 
-The company's roots trace to 1906 with the founding of Oklahoma Natural Gas Company, which evolved into ONEOK, Inc. over the decades as a diversified energy corporation. The current ONE Gas entity emerged from a strategic spin-off in 2014, when ONEOK separated its stable distribution business from its more dynamic midstream and energy businesses. That separation was deliberate: distribution utilities thrive on predictability and long-term capital investment, while midstream and trading operations require agility and exposure to commodity prices. ONE Gas, as the pure-play distribution company, operates with 100% of its assets under regulatory oversight—meaning rates and returns are set by state commissions rather than determined by market competition.
+The company's roots trace to 1906 with the founding of Oklahoma Natural Gas Company, which evolved into ONEOK, Inc. over the decades as a diversified energy corporation. The current ONE Gas entity emerged from a strategic [spin-off](/spin-off/) in 2014, when ONEOK separated its stable distribution business from its more dynamic midstream and energy businesses. That separation was deliberate: distribution utilities thrive on predictability and long-term capital investment, while midstream and trading operations require agility and exposure to commodity prices. ONE Gas, as the pure-play distribution company, operates with 100% of its assets under regulatory oversight—meaning rates and returns are set by state commissions rather than determined by market competition.
 
 ## The revenue engine: Rates and rate base
 
-ONE Gas makes money by owning regulated assets (pipelines, meters, compressors) and earning a state-approved return on that investment. When the company spends $800 million per year on infrastructure—new pipelines, system replacements, extensions to new neighborhoods—the total value of that invested capital becomes its rate base. The state utility commission then allows ONE Gas to earn a return (typically 9-10%) on that rate base, which flows through to shareholders as dividends and retained earnings. This creates a visible growth formula: more prudent capital investment leads to a larger rate base, which justifies higher rates and higher earnings.
+ONE Gas makes money by owning regulated assets (pipelines, meters, compressors) and earning a state-approved return on that investment. When the company spends $800 million per year on infrastructure—new pipelines, system replacements, extensions to new neighborhoods—the total value of that invested capital becomes its rate base. The state utility commission then allows ONE Gas to earn a return (typically 9-10%) on that rate base, which flows through to shareholders as [dividends](/dividend/) and [retained earnings](/retained-earnings/). This creates a visible growth formula: more prudent capital investment leads to a larger rate base, which justifies higher rates and higher earnings.
 
 Over 92% of ONE Gas's customer base is residential, which provides stability; home heating demand is seasonal and relatively inelastic, meaning households budget for natural gas regardless of short-term price swings. This contrasts sharply with industrial and wholesale customers, who can switch fuels or curtail use. The high residential concentration makes earnings predictable and less vulnerable to economic downturns.
 
 ## What makes it distinctive
 
-ONE Gas's main competitive advantage is the regulated utility model itself—a moat built not by technology or brand, but by government license and infrastructure duopoly. No competitor can simply string new pipes across Oklahoma City or Tulsa; existing utilities own those rights. The company also operates with outsized efficiency for its peers: operating margins typically run 22–24%, compared to 18–20% at Spire or 10% or less at Southwest Gas. That margin advantage reflects lean operations, stable labor relations, and a long operating history in its footprint.
+ONE Gas's main competitive advantage is the regulated utility model itself—a moat built not by technology or brand, but by government license and infrastructure duopoly. No competitor can simply string new pipes across Oklahoma City or Tulsa; existing utilities own those rights. The company also operates with outsized efficiency for its peers: [operating margins](/operating-margin/) typically run 22–24%, compared to 18–20% at Spire or 10% or less at Southwest Gas. That margin advantage reflects lean operations, stable labor relations, and a long operating history in its footprint.
 
 The three-state footprint is diversified enough to insulate from single-region downturns yet focused enough to maintain deep regulatory relationships and operational expertise. The company is included in the S&P MidCap 400 Index, confirming its standing as a substantial, actively traded public utility rather than a small-cap or illiquid name.
 
@@ -46,7 +46,7 @@ The second risk is earnings volatility from weather and customer usage. Warm win
 
 ## How to research it
 
-Start with the [10-K](/wiki/10-k/) annual filing to understand rate base detail, capital spending by state, regulatory proceedings, and full financial tables. The company's quarterly earnings calls often focus on regulatory docket progress—what rates are being sought, when decisions are expected, and how prior decisions have settled. Watch for rate case filings with each state commission; they typically occur every 2–3 years and are publicly available. The investor relations website publishes detailed segment data (Oklahoma, Kansas, Texas results) and financial guidance. For competitive context, compare ONE Gas's [return on equity](/wiki/equity-risk-premium/), operating margin, and dividend policy to peers like Spire, Northwest Natural, and Southwest Gas. Dividend yield and payout ratio (ONE Gas typically yields 3–4% and pays out 40–50% of earnings) indicate how the company balances shareholder returns with growth investment.
+Start with the [10-K](/wiki/10-k/) annual filing to understand rate base detail, capital spending by state, regulatory proceedings, and full financial tables. The company's quarterly earnings calls often focus on regulatory docket progress—what rates are being sought, when decisions are expected, and how prior decisions have settled. Watch for rate case filings with each state commission; they typically occur every 2–3 years and are publicly available. The investor relations website publishes detailed segment data (Oklahoma, Kansas, Texas results) and financial guidance. For competitive context, compare ONE Gas's [return on equity](/wiki/equity-risk-premium/), operating margin, and dividend policy to peers like Spire, Northwest Natural, and Southwest Gas. [Dividend yield](/dividend-yield/) and [payout ratio](/payout-ratio/) (ONE Gas typically yields 3–4% and pays out 40–50% of earnings) indicate how the company balances shareholder returns with growth investment.
 
 ---
 

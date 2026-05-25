@@ -35,9 +35,9 @@ The firm's reach spans roughly 70 countries. It works for utilities, municipalit
 
 Jacobs divides its work roughly into two sides. The core services layer provides engineering, design, and consulting: helping clients figure out what to build, how to build it, and navigating the regulatory and technical maze. This work is steady, lower risk, and modestly recurring. The second layer is delivery and execution: Jacobs functions as a program manager or managing contractor, taking responsibility for seeing a project through from conception to handover. This work is higher stakes, higher margin, but also higher risk and more capital intensive.
 
-Major revenue streams include power systems (both traditional and renewable), water and wastewater infrastructure, transportation networks, industrial and manufacturing facilities, and advanced technologies (semiconductors, data centers, life sciences manufacturing). Government work is significant, especially in defense and energy. Private industrial clients add diversification.
+Major revenue streams include power systems (both traditional and renewable), water and wastewater infrastructure, transportation networks, industrial and manufacturing facilities, and advanced technologies (semiconductors, data centers, life sciences manufacturing). Government work is significant, especially in defense and energy. Private industrial clients add [diversification](/diversification/).
 
-The business thrives on project-based contracts that stretch over months or years. It charges for labor hours, oversight, overhead, and often a management fee tied to schedule or cost performance. Repeat clients are common—a utility or a major manufacturer may engage Jacobs across multiple projects or as a standing technical resource.
+The business thrives on project-based contracts that stretch over months or years. It charges for labor hours, oversight, overhead, and often a [management fee](/management-fee/) tied to schedule or cost performance. Repeat clients are common—a utility or a major manufacturer may engage Jacobs across multiple projects or as a standing technical resource.
 
 ## Scale and Competitive Position
 
@@ -47,9 +47,9 @@ Competition for talent is intense. Engineering and project management profession
 
 ## What Drives Performance
 
-Jacobs' fortunes follow the capital spending cycles of its major customer segments. When governments fund infrastructure upgrades, when utilities invest in grid modernization or renewable buildout, when industrial clients expand or upgrade facilities, Jacobs benefits. Conversely, during recessions or periods of fiscal restraint, consulting and design work tends to hold up better than execution and delivery contracts.
+Jacobs' fortunes follow the capital spending cycles of its major customer segments. When governments fund infrastructure upgrades, when utilities invest in grid modernization or renewable buildout, when industrial clients expand or upgrade facilities, Jacobs benefits. Conversely, during [recessions](/recession/) or periods of fiscal restraint, consulting and design work tends to hold up better than execution and delivery contracts.
 
-The firm's margins depend heavily on execution discipline. A badly managed large contract can erase years of profit from smaller projects. The COVID-19 pandemic disrupted global supply chains and project schedules, testing that discipline. Like many project-heavy firms, Jacobs has had to recalibrate its cost structure and risk management in response to inflation, labor scarcity, and supply chain volatility.
+The firm's margins depend heavily on execution discipline. A badly managed large contract can erase years of profit from smaller projects. The COVID-19 pandemic disrupted global supply chains and project schedules, testing that discipline. Like many project-heavy firms, Jacobs has had to recalibrate its cost structure and risk management in response to [inflation](/inflation/), labor scarcity, and supply chain volatility.
 
 International exposure is both a strength and a complication. Jacobs operates in countries with differing regulatory frameworks, currency exposure, and political risk. Some markets are stable long-term platforms; others require careful navigation of contract law, payment risk, and geopolitical shifts.
 

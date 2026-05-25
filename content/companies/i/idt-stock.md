@@ -13,7 +13,7 @@ keywords:
 handwritten: true
 ---
 
-IDT Corporation is a diversified communications and payments company that has built a business around international connectivity and money movement — international long-distance calling, remittance services for immigrant communities, and cloud-based communications platforms for enterprises. The company operates primarily through a portfolio of separate business units serving distinct markets, with a history of creating shareholder value through strategic spin-offs and divestitures that have left it as a focused holding company with stakes in specialized operators.
+IDT Corporation is a diversified communications and payments company that has built a business around international connectivity and money movement — international long-distance calling, remittance services for immigrant communities, and cloud-based communications platforms for enterprises. The company operates primarily through a portfolio of separate business units serving distinct markets, with a history of creating shareholder value through strategic [spin-offs](/spin-off/) and [divestitures](/divestiture/) that have left it as a focused holding company with stakes in specialized operators.
 
 <aside class="wiki-infobox">
 <table>
@@ -69,15 +69,15 @@ The remittance business in particular benefits from the reality that immigrant c
 
 IDT faces structural headwinds in its legacy calling business. VoIP has commoditized voice, traditional carriers have dropped international rates to compete for immigrant customers, and newer platforms (Wise, Revolut, PayPal) now serve cross-border payment needs that once required a telecom operator. The company's core international calling franchise has shrunken as primary demand has evaporated.
 
-The remittance business remains more defensible. Competitors include companies like Remitly, MoneyGram, and Western Union, but also newer fintech players offering blockchain-based transfers and direct bank partnerships. The business is not a monopoly, but established players have brand trust and convenience, and transaction volumes are sticky. IDT's advantage lies in long-standing relationships with immigrant communities, customer acquisition channels, and access to the underlying telecom infrastructure for money settlement.
+The remittance business remains more defensible. Competitors include companies like Remitly, MoneyGram, and Western Union, but also newer fintech players offering blockchain-based transfers and direct bank partnerships. The business is not a monopoly, but established players have brand trust and convenience, and transaction volumes are sticky. IDT's advantage lies in long-standing relationships with immigrant communities, customer [acquisition](/acquisition/) channels, and access to the underlying telecom infrastructure for money settlement.
 
 Cloud communications are more crowded, with competitors ranging from Zoom and Microsoft Teams for larger enterprises to niche PBX vendors for SMBs. IDT's position here is tied to the fortunes of whichever cloud-communications asset the company is running (or holding a stake in) at any given time.
 
 ## The holding-company question
 
-The biggest structural question for an IDT investor is whether the holding-company model creates or destroys value. Holding companies can trade at a discount to the sum of their parts (called a "conglomerate discount") because investors struggle to understand the portfolio, see transaction costs from the structure, and worry about capital-allocation decisions made at the parent level. Alternatively, if management has a strong track record of identifying undervalued assets and reshaping them into winners, the structure can reward long-term holders.
+The biggest structural question for an IDT investor is whether the holding-company model creates or destroys value. Holding companies can trade at a discount to the sum of their parts (called a "[conglomerate discount](/conglomerate-discount/)") because investors struggle to understand the portfolio, see transaction costs from the structure, and worry about capital-allocation decisions made at the parent level. Alternatively, if management has a strong track record of identifying undervalued assets and reshaping them into winners, the structure can reward long-term holders.
 
-IDT's founders and early shareholders have seen enormous value creation through successful exits of various businesses, but recent performance has been more mixed. The company continues to explore strategic options — spin-offs, mergers, or other restructurings — but these moves inherently signal either that assets are misvalued within the holding company or that the structure itself is underperforming.
+IDT's founders and early shareholders have seen enormous value creation through successful exits of various businesses, but recent performance has been more mixed. The company continues to explore strategic options — spin-offs, [mergers](/merger/), or other restructurings — but these moves inherently signal either that assets are misvalued within the holding company or that the structure itself is underperforming.
 
 ## How to research IDT
 

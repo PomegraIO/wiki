@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Tamboran Resources is a development-stage natural-gas exploration and production company focused on unlocking natural-gas resources in Australia's Beetaloo Basin. The company holds exploration permits and prospective resources in Australia's Northern Territory, with ambitions to eventually export liquefied natural gas, though it remains years away from production. The business is highly capital-intensive, technologically challenging, and dependent on commodity prices, regulatory approval, and market demand for LNG—all factors that lend real uncertainty to its path forward.
+Tamboran Resources is a development-stage natural-gas exploration and production company focused on unlocking natural-gas resources in Australia's Beetaloo Basin. The company holds exploration permits and prospective resources in Australia's Northern Territory, with ambitions to eventually export liquefied [natural gas](/natural-gas/), though it remains years away from production. The business is highly capital-intensive, technologically challenging, and dependent on commodity prices, regulatory approval, and market demand for LNG—all factors that lend real uncertainty to its path forward.
 
 ## The Beetaloo Basin and Tamboran's Assets
 
@@ -48,7 +48,7 @@ The stock price is volatile, responsive to commodity-price moves, project news (
 
 ## How to Research Tamboran
 
-Start with the company's investor presentations and annual reports, which lay out resource estimates, exploration plans, and financial status. Pay close attention to quarterly cash-burn updates and appraisal well results—these reveal whether the company is making technical progress toward commerciality. Watch for announcements of partnerships, particularly with major energy companies or LNG operators, which would signal de-risking.
+Start with the company's investor presentations and [annual reports](/10-k/), which lay out resource estimates, exploration plans, and financial status. Pay close attention to quarterly cash-burn updates and appraisal well results—these reveal whether the company is making technical progress toward commerciality. Watch for announcements of partnerships, particularly with major energy companies or LNG operators, which would signal de-risking.
 
 Monitor commodity prices and global LNG market trends; a sustained collapse in LNG prices could alter project economics materially. Track regulatory news from the Northern Territory and Australian federal government, as permitting delays or rejections would be highly material to the company's timeline. Finally, read independent industry analysis on the Beetaloo's prospectivity and compare Tamboran's technical approach and acreage to that of competitors.
 

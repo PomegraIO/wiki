@@ -16,7 +16,7 @@ The company traces its roots to 1837, when John Deere invented the steel plow �
 
 **How the money flows**
 
-Deere segments its business into three main engines: Agriculture & Turf (the biggest, by far), Construction & Forestry, and Financial Services. Agriculture & Turf makes and sells tractors, combines, hay tools, lawn mowers, and precision agriculture gear — essentially, anything a farmer operates. Construction & Forestry supplies excavators, wheel loaders, skidders, and other machines for building and timber work. Financial Services exists to finance the sale of that hardware: customers buy a $300,000 tractor on credit, often arranging it through Deere's captive finance unit, which gets paid interest and assumes credit risk.
+Deere segments its business into three main engines: Agriculture & Turf (the biggest, by far), Construction & Forestry, and Financial Services. Agriculture & Turf makes and sells tractors, combines, hay tools, lawn mowers, and precision agriculture gear — essentially, anything a farmer operates. Construction & Forestry supplies excavators, wheel loaders, skidders, and other machines for building and timber work. Financial Services exists to finance the sale of that hardware: customers buy a $300,000 tractor on credit, often arranging it through Deere's captive finance unit, which gets paid interest and assumes [credit risk](/credit-risk/).
 
 The revenue split between these three is roughly 60% agriculture/turf, 15% construction/forestry, and 25% financial services. But that mix varies sharply with commodity cycles. When crop prices spike and farmers have cash, equipment sales boom and financing income swells. When prices collapse, farmers delay purchases, used equipment floods the market, and Deere's backlog and margins compress. The company is structurally cyclical.
 
@@ -30,13 +30,13 @@ But dominance is not invulnerability. The company faces pressure from rising lab
 
 **Pressures and risks**
 
-The farm sector is volatile. Deere's results swing hard with commodity cycles, interest rates, and geopolitical shocks. A drought in the Midwest or a trade war upends earnings. The company also faces regulatory pressure on emissions (tier engines, hybrid power), tariff exposure (it manufactures globally but exports from the U.S.), and the shift toward sustainable farming (which may eventually favor smaller, cheaper, electric machines over the company's traditional heavy iron). Used-equipment values matter too: if used Deere machines flood secondary markets, it depresses appetite for new purchases.
+The farm sector is volatile. Deere's results swing hard with commodity cycles, [interest rates](/interest-rate/), and geopolitical shocks. A drought in the Midwest or a [trade war](/trade-war/) upends earnings. The company also faces regulatory pressure on emissions (tier engines, hybrid power), tariff exposure (it manufactures globally but exports from the U.S.), and the shift toward sustainable farming (which may eventually favor smaller, cheaper, electric machines over the company's traditional heavy iron). Used-equipment values matter too: if used Deere machines flood [secondary markets](/secondary-market/), it depresses appetite for new purchases.
 
 The company is also exposed to interest rate risk in its captive finance business. It borrows short-term to fund longer-term installment contracts; rising rates compress the spread. Credit losses during downturns can be severe if farm incomes collapse.
 
 **What to watch**
 
-In the [10-K](/wiki/10-k/), focus on segment profitability (gross margin by division), the order backlog and pipeline, and delinquency rates in the finance portfolio. Watch commodity prices (corn, soybeans) as a leading indicator of farm income and willingness to invest in equipment. Deere's guidance on production and pricing power reveals how the company expects demand to evolve. Spare parts mix (as a percentage of total revenue) matters: higher parts sales signal sticky, repeat customers. In analyst calls, listen for color on dealer inventory levels and farmer cash flow sentiment.
+In the [10-K](/wiki/10-k/), focus on segment profitability (gross margin by division), the order backlog and pipeline, and [delinquency](/delinquency/) rates in the finance portfolio. Watch commodity prices (corn, soybeans) as a leading indicator of farm income and willingness to invest in equipment. Deere's guidance on production and pricing power reveals how the company expects demand to evolve. Spare parts mix (as a percentage of total revenue) matters: higher parts sales signal sticky, repeat customers. In analyst calls, listen for color on dealer inventory levels and farmer cash flow sentiment.
 
 **Main products and brands**
 

@@ -23,7 +23,7 @@ These were rare-disease patients, many orphaned by earlier drug development. PNH
 
 ## What ended the independent story?
 
-Biogen acquired Apellis for approximately $5.6 billion ($41 per share in cash) and completed the deal in 2026. The acquisition reflected Biogen's ambition to deepen its immunology footprint and expand into nephrology. For Apellis shareholders, the deal marked the end of an independent run; for patients and the market, it meant Apellis products would now be integrated into Biogen's rare-disease and ophthalmology commercial infrastructure, potentially accelerating uptake of SYFOVRE and expanding EMPAVELI's renal program under a larger organization's development budget.
+Biogen acquired Apellis for approximately $5.6 billion ($41 per share in cash) and completed the deal in 2026. The [acquisition](/acquisition/) reflected Biogen's ambition to deepen its immunology footprint and expand into nephrology. For Apellis shareholders, the deal marked the end of an independent run; for patients and the market, it meant Apellis products would now be integrated into Biogen's rare-disease and ophthalmology commercial infrastructure, potentially accelerating uptake of SYFOVRE and expanding EMPAVELI's renal program under a larger organization's development budget.
 
 ## Where does Apellis sit in its therapeutic class?
 

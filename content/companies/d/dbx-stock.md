@@ -37,7 +37,7 @@ This strategy faces headwinds. Teams increasingly favor integrated suites (Micro
 
 ## Scale and financials
 
-Dropbox serves hundreds of millions of registered users, though most are on the free tier. Paid user counts and average revenue per user (ARPU) drive the business. The company is profitable on a GAAP basis and generates substantial free cash flow. Revenue has grown low-to-mid single digits in recent years, reflecting maturity in developed markets and ongoing competition. International expansion and emerging markets are cited as growth levers, though adoption in many regions is constrained by local competitors and infrastructure differences.
+Dropbox serves hundreds of millions of registered users, though most are on the free tier. Paid user counts and average revenue per user (ARPU) drive the business. The company is profitable on a GAAP basis and generates substantial [free cash flow](/free-cash-flow/). Revenue has grown low-to-mid single digits in recent years, reflecting maturity in developed markets and ongoing competition. International expansion and emerging markets are cited as growth levers, though adoption in many regions is constrained by local competitors and infrastructure differences.
 
 Operating leverage is real: Dropbox reinvests heavily in product, engineering, and infrastructure, but the unit economics of adding storage users are favorable once signed up. The company has experimented with cost discipline (layoffs in 2023) to improve margins, signaling awareness that growth-at-all-costs is no longer the orthodoxy.
 

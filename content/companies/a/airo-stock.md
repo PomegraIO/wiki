@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-AIRO Group Holdings operates at the intersection of legacy military-industrial services and emerging aerospace technologies. Founded through a series of strategic acquisitions, the company has assembled four distinct but complementary business lines: a military pilot training operation, unmanned systems development, avionics manufacturing, and experimental electric vertical takeoff and landing (eVTOL) aircraft.
+AIRO Group Holdings operates at the intersection of legacy military-industrial services and emerging aerospace technologies. Founded through a series of strategic [acquisitions](/acquisition/), the company has assembled four distinct but complementary business lines: a military pilot training operation, unmanned systems development, avionics manufacturing, and experimental electric vertical takeoff and landing (eVTOL) aircraft.
 
 ## Revenue by Segment
 

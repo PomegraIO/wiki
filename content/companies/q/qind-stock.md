@@ -35,7 +35,7 @@ The competitive landscape for industrial services is fragmented, with large mult
 
 ## Exposure to Energy Markets
 
-The company's fortunes are tied to activity in oil and gas exploration, development, and infrastructure. During periods of high energy prices and capital investment, demand for inspection, quality assurance, and project support services typically rises. Conversely, downturns in commodity prices or reduced capital spending in energy constrain the company's revenue. This inherent cyclicality is a key risk for investors; the business has limited diversification beyond industrial services.
+The company's fortunes are tied to activity in oil and gas exploration, development, and infrastructure. During periods of high energy prices and capital investment, demand for inspection, quality assurance, and project support services typically rises. Conversely, downturns in commodity prices or reduced capital spending in energy constrain the company's revenue. This inherent cyclicality is a key risk for investors; the business has limited [diversification](/diversification/) beyond industrial services.
 
 ## Financial Reality
 
@@ -51,4 +51,4 @@ The company's ability to survive and grow depends on consistent contract executi
 
 Investors and analysts tracking this company should start with the [10-K](/wiki/10-k/) annual filing, which discloses segment revenue, major customers, debt structure, and risk factors. Compare year-over-year revenue trends to energy sector activity and capital spending indices. Watch for customer concentration—if revenue is dependent on a few large clients, that concentrates risk. Monitor the competitive landscape for signs of price pressure or contract losses. The company's ability to maintain margins in a soft market is a key indicator of operational health.
 
-Given the micro-cap profile and limited trading volume, investors should also be aware of liquidity constraints and wider bid-ask spreads, which increase transaction costs. For a speculative or opportunistic position, understanding the company's project pipeline and backlog—typically disclosed in quarterly earnings calls or filings—is more informative than price momentum alone.
+Given the micro-cap profile and limited trading volume, investors should also be aware of liquidity constraints and wider [bid-ask spreads](/bid-ask-spread/), which increase transaction costs. For a speculative or opportunistic position, understanding the company's project pipeline and backlog—typically disclosed in quarterly earnings calls or filings—is more informative than price momentum alone.

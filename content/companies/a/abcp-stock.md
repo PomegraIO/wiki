@@ -19,11 +19,11 @@ The company emerged from decades of insurance underwriting but has substantially
 
 ## What drives returns and valuation for AmBase shareholders?
 
-Returns depend on the composition and performance of the company's investment portfolio and subsidiary stakes. Asset allocation decisions—how capital is deployed across real estate, securities, and subsidiary investments—directly influence earnings. Interest rate movements affect investment income; economic cycles affect subsidiary performance; and real estate valuations affect the balance sheet. Unlike growth-stage companies valued on revenue multiples or operating leverage, AmBase shares track the intrinsic value of underlying assets and the quality of management's capital allocation decisions.
+Returns depend on the composition and performance of the company's investment portfolio and subsidiary stakes. [Asset allocation](/asset-allocation/) decisions—how capital is deployed across real estate, securities, and subsidiary investments—directly influence earnings. [Interest rate](/interest-rate/) movements affect investment income; economic cycles affect subsidiary performance; and real estate valuations affect the balance sheet. Unlike growth-stage companies valued on [revenue multiples](/revenue-multiple/) or operating leverage, AmBase shares track the [intrinsic value](/intrinsic-value/) of underlying assets and the quality of management's capital allocation decisions.
 
 ## How should investors research AmBase?
 
-The most informative sources are AmBase's [10-K](/wiki/10-k/) annual filing and quarterly 10-Q reports, which detail the composition of the investment portfolio, subsidiary holdings, and asset valuations. Balance sheet analysis is more revealing than income statement trends for understanding the company's true financial position. Investment portfolio schedules show what the company owns; management discussion sections explain strategy and outlook. SEC filings also reveal any material changes in holdings or significant asset sales or acquisitions that alter the portfolio mix over time.
+The most informative sources are AmBase's [10-K](/wiki/10-k/) annual filing and quarterly 10-Q reports, which detail the composition of the investment portfolio, subsidiary holdings, and asset valuations. Balance sheet analysis is more revealing than [income statement](/income-statement/) trends for understanding the company's true financial position. Investment portfolio schedules show what the company owns; management discussion sections explain strategy and outlook. SEC filings also reveal any material changes in holdings or significant asset sales or [acquisitions](/acquisition/) that alter the portfolio mix over time.
 
 <div class="wiki-seealso">
 ### Closely related

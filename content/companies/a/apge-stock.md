@@ -24,7 +24,7 @@ As of mid-2026, Apogee was advancing zumilokibart through Phase 2 development wi
 
 ## How is the company funded and what's its financial runway?
 
-Apogee completed a major capital raise in late 2025, bringing in $345 million in gross proceeds via a public offering. This funding provided cash, equivalents, and marketable securities totaling roughly $913 million as of September 2025, with expected runway extending into the second half of 2028. For clinical-stage biotech, this runway is substantial—it covers years of ongoing development costs, clinical trial expenses, regulatory submissions, and operational overhead without requiring additional equity or debt financing in the near term. However, biotech burn rates are volatile and milestone-dependent; accelerated timelines or larger-than-expected trial cohorts can deplete reserves faster than anticipated.
+Apogee completed a major capital raise in late 2025, bringing in $345 million in gross proceeds via a public offering. This funding provided cash, equivalents, and marketable securities totaling roughly $913 million as of September 2025, with expected runway extending into the second half of 2028. For clinical-stage biotech, this runway is substantial—it covers years of ongoing development costs, clinical trial expenses, regulatory submissions, and operational overhead without requiring additional equity or [debt financing](/debt-financing/) in the near term. However, biotech burn rates are volatile and milestone-dependent; accelerated timelines or larger-than-expected trial cohorts can deplete reserves faster than anticipated.
 
 ## How much revenue does the company generate?
 
@@ -32,7 +32,7 @@ Like nearly all clinical-stage biotechs, Apogee generates minimal to no revenue 
 
 ## Why is Apogee positioned the way it is?
 
-The company was formed to compete in large, well-studied disease areas where existing therapies have established safety and efficacy, but opportunity remains for novel mechanisms or improved profiles. Atopic dermatitis, in particular, has become crowded with options, making differentiation essential. Apogee's investors are betting that the science underlying zumilokibart's mechanism is compelling enough to earn market share or command premium pricing, or that the company will prove attractive as an acquisition target to a larger pharmaceutical firm seeking to accelerate its immunology portfolio. This dual-outcome model—clinical success + acquisition or IPO exit—is standard in venture-backed biotech.
+The company was formed to compete in large, well-studied disease areas where existing therapies have established safety and efficacy, but opportunity remains for novel mechanisms or improved profiles. Atopic dermatitis, in particular, has become crowded with options, making differentiation essential. Apogee's investors are betting that the science underlying zumilokibart's mechanism is compelling enough to earn market share or command premium pricing, or that the company will prove attractive as an [acquisition](/acquisition/) target to a larger pharmaceutical firm seeking to accelerate its immunology portfolio. This dual-outcome model—clinical success + acquisition or IPO exit—is standard in venture-backed biotech.
 
 ---
 

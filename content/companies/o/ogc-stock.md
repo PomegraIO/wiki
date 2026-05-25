@@ -22,7 +22,7 @@ The company has positioned itself as a geographically diversified precious metal
 
 **Macraes (New Zealand).** The Macraes mine in Otago is an established underground and open-pit operation with decades of mining history. New Zealand offers political and regulatory stability and strong environmental standards. Macraes has been a steady producer for the company and benefits from the country's pro-mining regulatory environment and skilled workforce.
 
-Together, these three assets give OceanaGold a genuinely global footprint—rare among mid-tier producers—and revenue diversification across three different gold and copper markets.
+Together, these three assets give OceanaGold a genuinely global footprint—rare among mid-tier producers—and revenue [diversification](/diversification/) across three different gold and copper markets.
 
 ## Revenue and business model
 
@@ -42,7 +42,7 @@ Competitive advantage in mining rests on a few levers: ore grades (quality of de
 
 **Regulatory and political risk.** Operating in the Philippines introduces additional geopolitical exposure beyond U.S. and New Zealand. Mining is capital-intensive and long-lived; sudden changes in permitting, environmental rules, or political opposition to mining can disrupt operations or require major remediation spending. Environmental litigation and community opposition are ongoing risks at any large-scale mine.
 
-**Capital intensity and cost inflation.** Mining is brutally capital-intensive. Maintaining and expanding production requires continuous investment in equipment, infrastructure, and technology. Labor, fuel, and material costs fluctuate with inflation and commodity prices (fuel especially). A period of rising costs during weak commodity prices is a profit squeeze.
+**Capital intensity and cost [inflation](/inflation/).** Mining is brutally capital-intensive. Maintaining and expanding production requires continuous investment in equipment, infrastructure, and technology. Labor, fuel, and material costs fluctuate with inflation and commodity prices (fuel especially). A period of rising costs during weak commodity prices is a profit squeeze.
 
 **Execution risk.** Multi-mine operations mean execution complexity. Operational incidents—accidents, environmental spills, processing failures—can halt production, trigger fines, and damage community relationships. Cost overruns on capital projects are common in mining.
 

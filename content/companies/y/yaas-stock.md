@@ -25,7 +25,7 @@ Youxin Technology is a modest software-as-a-service (SaaS) vendor based in China
 
 ## Business model and revenue streams
 
-The company generates revenue through software licensing and service subscriptions. Typical SaaS models at this scale include maintenance fees tied to user seats, annual renewals, and add-on modules that allow customers to expand functionality within their existing deployments. For a Chinese software vendor, customer concentration can be meaningful—a handful of large enterprise accounts may represent a significant portion of revenue. Recurring revenue from renewals is the steady engine; new customer acquisition costs are typically the largest drag on profitability in early-stage SaaS businesses.
+The company generates revenue through software licensing and service subscriptions. Typical SaaS models at this scale include maintenance fees tied to user seats, annual renewals, and add-on modules that allow customers to expand functionality within their existing deployments. For a Chinese software vendor, customer concentration can be meaningful—a handful of large enterprise accounts may represent a significant portion of revenue. Recurring revenue from renewals is the steady engine; new customer [acquisition](/acquisition/) costs are typically the largest drag on profitability in early-stage SaaS businesses.
 
 ## Competitive positioning
 

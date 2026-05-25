@@ -63,7 +63,7 @@ The company's [10-K](/wiki/10-k/) filings document the project budget, timeline 
 Start with the most recent [10-K](/wiki/10-k/) and quarterly 10-Q filings, available via the SEC EDGAR system using the CIK number. These documents detail the resource estimate, capital budget, regulatory status, and management's timeline assumptions. Pay close attention to:
 
 - **Permitting updates**: Official milestones (NEPA approval, state permits, local land-use decisions) are disclosed in earnings calls and press releases. Delays or reversals are material.
-- **Capital burn and runway**: Development-stage companies must regularly raise capital. Watch for equity offerings and their impact on share dilution.
+- **Capital burn and runway**: Development-stage companies must regularly raise capital. Watch for equity offerings and their impact on [share dilution](/share-dilution/).
 - **Lithium market conditions**: Commodity prices, demand trends, and competitor announcements shape the project's economics. Track lithium carbonate pricing and battery-industry volume forecasts.
 - **Management commentary**: Earnings calls and investor presentations reveal confidence levels and timeline expectations, though these can change quickly.
 

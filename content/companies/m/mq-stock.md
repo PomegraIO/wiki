@@ -54,7 +54,7 @@ The rise of ["buy now, pay later" and instant disbursement](/wiki/stock/) has be
 
 ## Strategic Pressures
 
-Marqeta went public in June 2021 at a time when fintech and embedded finance looked unstoppable. The IPO price and initial market cap reflected that bullishness. Subsequent volatility in fintech stocks, macroeconomic slowdowns, and consolidation in the gig economy created headwinds. Customer growth and transaction volumes have continued, but at a moderated pace compared to growth-stage private projections.
+Marqeta went public in June 2021 at a time when fintech and embedded finance looked unstoppable. The IPO price and initial [market cap](/market-capitalization/) reflected that bullishness. Subsequent volatility in fintech stocks, macroeconomic slowdowns, and consolidation in the gig economy created headwinds. Customer growth and transaction volumes have continued, but at a moderated pace compared to growth-stage private projections.
 
 The company has also faced the classic scale-up tension: it must balance investing in new features and compliance infrastructure against path to profitability. For much of its public history, it has been growing revenue faster than it has contained costs, which is typical for platform companies in market-building mode, but Wall Street has been less forgiving of that profile than it was in the 2020–2021 period.
 
@@ -64,6 +64,6 @@ Executive leadership changes and strategic pivots have occurred. Marqeta has exp
 
 Marqeta is a useful test case for whether a pure-play payment infrastructure business can thrive as a public company. Its customers—neobanks, gig platforms, payroll services—are themselves reshaping finance. If those categories accelerate, Marqeta benefits. If they stall or consolidate, Marqeta faces headwinds.
 
-The [10-K](/wiki/10-k/) offers a window into embedded finance adoption: how many active platforms use the service, transaction volume trends, and which verticals are growing fastest. Customer concentration (both the top 10 and the single largest customer) matters; Marqeta's independence depends on diversification.
+The [10-K](/wiki/10-k/) offers a window into embedded finance adoption: how many active platforms use the service, transaction volume trends, and which verticals are growing fastest. Customer concentration (both the top 10 and the single largest customer) matters; Marqeta's independence depends on [diversification](/diversification/).
 
 For investors, Marqeta is neither a pure infrastructure utility nor a high-growth fintech. It is infrastructure, but its customers are startups and venture-backed platforms with volatile growth patterns. That tension shapes valuations and makes Marqeta sensitive to both fintech cycles and broader economic sentiment toward embedded finance.

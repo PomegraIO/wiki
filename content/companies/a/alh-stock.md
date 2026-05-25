@@ -23,7 +23,7 @@ Commercial laundry is an essential service consumed continuously regardless of e
 
 ## What are the operational realities?
 
-Alliance manufactures equipment across multiple product lines with varying complexity and price points. Gross margins depend on product mix, manufacturing efficiency, and input costs for steel and components. Like other industrial equipment makers, the company faces cyclical demand tied to capital spending decisions by hospitality, healthcare, and real estate sectors. Accounts receivable can be substantial given the B2B nature of the business and customer base in developing markets. Distribution is critical—the company relies on a network of distributors and direct sales teams to reach end customers across geographies.
+Alliance manufactures equipment across multiple product lines with varying complexity and price points. Gross margins depend on product mix, manufacturing efficiency, and input costs for steel and components. Like other industrial equipment makers, the company faces cyclical demand tied to capital spending decisions by hospitality, healthcare, and real estate sectors. [Accounts receivable](/accounts-receivable/) can be substantial given the B2B nature of the business and customer base in developing markets. Distribution is critical—the company relies on a network of distributors and direct sales teams to reach end customers across geographies.
 
 ## Where does revenue really come from?
 
@@ -31,4 +31,4 @@ The majority of revenue typically stems from equipment sales (installed base gro
 
 ## What structural risks matter?
 
-Technology disruption is limited in this space—washing machines are relatively mature products. The real risks are competitive price pressure if new entrants emerge, customer consolidation (large laundromat chains or hotel groups gaining more leverage), and exposure to commercial real estate cycles. Supply chain disruptions can pinch margins if manufacturing is concentrated. Currency exposure matters given international operations. Financial risks include debt levels and working capital management, which can be found in the company's [10-K](/wiki/10-k/) filings.
+Technology disruption is limited in this space—washing machines are relatively mature products. The real risks are competitive price pressure if new entrants emerge, customer consolidation (large laundromat chains or hotel groups gaining more leverage), and exposure to [commercial real estate](/commercial-real-estate/) cycles. Supply chain disruptions can pinch margins if manufacturing is concentrated. Currency exposure matters given international operations. Financial risks include debt levels and working capital management, which can be found in the company's [10-K](/wiki/10-k/) filings.

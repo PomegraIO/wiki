@@ -45,7 +45,7 @@ What Gold Fields brings is operational scale, technical depth in ultra-deep mini
 
 ## Capital intensity and reinvestment
 
-Mining is a capital-intensive, declining-asset business. Ore grades typically fall over a mine's life. Major reserves must be replaced via exploration and development—a multi-year, uncertain process requiring tens of millions to billions in upfront spend before a single ounce ships. Gold Fields allocates significant capital annually to maintain and expand reserves, sustain production, and develop new prospects. In strong commodity cycles, cash generation can fund both dividends and growth capex; in downturns, capex is often cut to preserve cash.
+Mining is a capital-intensive, declining-asset business. Ore grades typically fall over a mine's life. Major reserves must be replaced via exploration and development—a multi-year, uncertain process requiring tens of millions to billions in upfront spend before a single ounce ships. Gold Fields allocates significant capital annually to maintain and expand reserves, sustain production, and develop new prospects. In strong commodity cycles, cash generation can fund both [dividends](/dividend/) and growth capex; in downturns, capex is often cut to preserve cash.
 
 The company carries material debt, typical for a major miner. Debt levels fluctuate with commodity prices and capital plans. During gold booms, excess cash flow can deleverage quickly; in slumps, debt can rise materially if production falls while interest costs remain fixed.
 
@@ -59,11 +59,11 @@ Environmental liabilities are embedded in the legacy of century-old mining. Tail
 
 Gold Fields' cash generation swings violently with the gold price. When spot gold rises from $1,800/oz to $2,100/oz, all else equal, operating leverage widens margins sharply. The reverse is equally brutal. Production also fluctuates year-to-year due to ore grade variation, processing plant downtime, labor action, and capital project ramp-ups. The company guides on annual production but surprises are common.
 
-Exploration success is uncertain. New ore bodies at depth are harder to find and evaluate. Failed exploration campaigns can force asset write-downs. Conversely, major discovery or acquisition of a high-grade operation can shift the earnings profile meaningfully—the company has made significant acquisitions in its history and may pursue bolt-on M&A.
+Exploration success is uncertain. New ore bodies at depth are harder to find and evaluate. Failed exploration campaigns can force asset write-downs. Conversely, major discovery or acquisition of a high-grade operation can shift the earnings profile meaningfully—the company has made significant [acquisitions](/acquisition/) in its history and may pursue bolt-on M&A.
 
 ## How to track this company
 
-The [10-K](/wiki/10-k/) filed annually with the SEC (via Form 20-F for foreign private issuers) contains detailed reserve and resource data, segment cash costs, capital plans, and risk factors. Key metrics to monitor: annual gold production (oz), all-in sustaining cost per ounce, net debt, reserve life (years of current reserves), and exploration results. Watch commodity prices: gold, copper, silver, and energy costs are the primary drivers of earnings volatility.
+The [10-K](/wiki/10-k/) filed annually with the SEC (via Form 20-F for foreign private issuers) contains detailed reserve and resource data, segment cash costs, capital plans, and risk factors. Key metrics to monitor: annual gold production (oz), all-in sustaining cost per ounce, [net debt](/net-debt/), reserve life (years of current reserves), and exploration results. Watch commodity prices: gold, copper, silver, and energy costs are the primary drivers of earnings volatility.
 
 Quarterly earnings calls with management reveal production trends, project status (particularly any new mine ramp-ups), and management's outlook on commodity cycles. Reserve statements in annual reports show whether the company is finding replacement ore—declining reserves are a red flag. Capital spending guidance signals management's confidence in future cycles.
 

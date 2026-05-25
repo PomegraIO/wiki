@@ -15,7 +15,7 @@ Ambitions Enterprise Management Co. L.L.C operates as an enterprise management a
 
 ## How does it generate revenue?
 
-The company's revenue comes from multiple streams tied to its management and investment activities. Primary sources include management fees collected for overseeing subsidiary operations, returns on strategic equity investments held across its portfolio, advisory income from managed entities, and realized capital gains from business dispositions or exits. The diversified revenue model allows the company to benefit from operational improvements in its holdings as well as value creation through strategic acquisitions and asset management decisions.
+The company's revenue comes from multiple streams tied to its management and investment activities. Primary sources include [management fees](/management-fee/) collected for overseeing subsidiary operations, returns on strategic equity investments held across its portfolio, advisory income from managed entities, and realized capital gains from business dispositions or exits. The diversified revenue model allows the company to benefit from operational improvements in its holdings as well as value creation through strategic [acquisitions](/acquisition/) and asset management decisions.
 
 ## What is its competitive position?
 

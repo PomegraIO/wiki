@@ -13,7 +13,7 @@ handwritten: true
 
 Village Farms International is a North American greenhouse grower with one foot in a traditional, capital-intensive agricultural business and the other in the more profitable — though heavily regulated — cannabis sector. The company operates large-scale controlled-environment greenhouses that produce fresh tomatoes, peppers, and cucumbers for supermarket chains across the United States and Canada, a business it has built over three decades. But since Canadian legalization, Village Farms has become better known for its ownership stake in Pure Sunfarms, a major licensed cannabis producer operating in British Columbia. It has also ventured into clean-energy infrastructure, creating a diversified but complex mix of revenue streams that require investors to understand produce economics, cannabis margins, and power-generation assets.
 
-The stock trades on NASDAQ under the ticker VFF, with its corporate listing under the CIK 1584549.
+The stock trades on [NASDAQ](/nasdaq/) under the ticker VFF, with its corporate listing under the CIK 1584549.
 
 ## The core greenhouse business
 
@@ -33,7 +33,7 @@ Village Farms does not own Pure Sunfarms outright; it is a major stakeholder, an
 
 A third and less visible part of the business is Village Farms' investment in renewable-energy ventures. The company has built and operates natural-gas and solar power facilities, often co-located with its greenhouse operations. These facilities generate power for the greenhouses themselves — reducing energy costs — and sell excess capacity to the grid. Over time, Village Farms has shifted focus toward solar and away from fossil-fuel generation.
 
-This segment is smaller than produce or cannabis, but it matters because greenhouse operations are extremely energy-intensive, and control over power supply is a way to improve margins and reduce operational risk. A major electricity shortage or price spike in a growing region can devastate greenhouse economics; owning generation capacity mitigates that risk.
+This segment is smaller than produce or cannabis, but it matters because greenhouse operations are extremely energy-intensive, and control over power supply is a way to improve margins and reduce [operational risk](/operational-risk/). A major electricity shortage or price spike in a growing region can devastate greenhouse economics; owning generation capacity mitigates that risk.
 
 ## The investment case and the risks
 
@@ -49,5 +49,5 @@ The stock's valuation depends heavily on assumptions about cannabis market norma
 
 - Fresh produce (tomatoes, peppers, cucumbers) for North American supermarkets
 - Licensed cannabis cultivation through Pure Sunfarms (Canadian market)
-- Power generation (natural gas, solar) for internal use and grid sales
+- Power generation ([natural gas](/natural-gas/), solar) for internal use and grid sales
 

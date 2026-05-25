@@ -35,7 +35,7 @@ handwritten: true
 
 MediaAlpha is an insurance-focused customer-acquisition technology platform that operates a real-time marketplace connecting insurance carriers, distributors, and agents with consumers actively comparing quotes. The company runs a programmatic bidding system that processes high-intent traffic across property and casualty (P&C), health, and life insurance verticals, earning fees based on qualified leads, calls, and clicks delivered to its advertising customers.
 
-The company is neither a carrier nor a broker itself; it is pure middleman infrastructure. Insurers pay to participate in MediaAlpha's marketplace for the opportunity to reach consumers in the moment of intent, when someone is actively shopping for coverage. That real-time, outcome-driven orientation—advertisers pay only for actual consumer referrals, not impressions—is the core of its operating model and the source of its competitive positioning in the digital insurance market.
+The company is neither a carrier nor a [broker](/broker/) itself; it is pure middleman infrastructure. Insurers pay to participate in MediaAlpha's marketplace for the opportunity to reach consumers in the moment of intent, when someone is actively shopping for coverage. That real-time, outcome-driven orientation—advertisers pay only for actual consumer referrals, not impressions—is the core of its operating model and the source of its competitive positioning in the digital insurance market.
 
 ## The Platform and Its Economics
 
@@ -61,7 +61,7 @@ The company is not venture-backed and has no permanent runway concerns; it went 
 
 ## Revenue Stability and Customer Concentration
 
-Insurance advertising spend is not recession-proof but is more stable than many marketing categories because insurance is a legal necessity (auto coverage is mandatory in most states) and an annual rite (renewals drive repeat shopping). However, the company does face advertiser concentration risk—a small number of large national carriers likely account for a material portion of spending. Loss or reduced spending from a major carrier would hurt revenue directly.
+Insurance advertising spend is not recession-proof but is more stable than many marketing categories because insurance is a legal necessity (auto coverage is mandatory in most states) and an annual rite (renewals drive repeat shopping). However, the company does face advertiser [concentration risk](/concentration-risk/)—a small number of large national carriers likely account for a material portion of spending. Loss or reduced spending from a major carrier would hurt revenue directly.
 
 The company also operates in a competitive environment where carriers and large independent agencies can shift budgets across lead sources. MediaAlpha must continuously justify its pricing relative to alternative channels (organic search, affiliate networks, direct digital initiatives by carriers themselves). Rising digital-marketing costs across all categories put pressure on advertiser budgets and can reduce the dollar amount insurers allocate to any single platform.
 
@@ -73,13 +73,13 @@ The insurance industry itself is under pressure from rising claims costs (especi
 
 ## Growth Drivers and Secular Trends
 
-Digital adoption in insurance customer acquisition remains below mature sectors like retail or financial services. Many regional and mid-sized carriers still rely on independent agents and legacy lead sources. As the industry digitizes and as major carriers allocate more budget toward measurable, performance-based channels, MediaAlpha stands to benefit as a trusted conduit. The shift from CPM (cost per impression) or CPC (cost per click) models toward CPA (cost per acquisition) and outcome-based pricing favors platforms like MediaAlpha that can prove conversion impact.
+Digital adoption in insurance customer [acquisition](/acquisition/) remains below mature sectors like retail or financial services. Many regional and mid-sized carriers still rely on independent agents and legacy lead sources. As the industry digitizes and as major carriers allocate more budget toward measurable, performance-based channels, MediaAlpha stands to benefit as a trusted conduit. The shift from CPM (cost per impression) or CPC (cost per click) models toward CPA (cost per acquisition) and outcome-based pricing favors platforms like MediaAlpha that can prove conversion impact.
 
 P&C insurance, in particular, has seen accelerating digital transformation post-pandemic. Consumers increasingly compare quotes online before contacting agents, creating pull-through for platforms like MediaAlpha's. Health insurance shopping, driven by open-enrollment cycles and the growth of short-term or individual policies, provides seasonal but consistent demand.
 
 ## Valuation and How to Research
 
-The company reports quarterly earnings under [/wiki/10-k/](/wiki/10-k/) filings with the SEC (CIK 1818383). Key metrics to watch include transaction value (total dollar volume processed through the platform), adjusted EBITDA and operating margin (which reveal operating leverage), and advertiser retention or growth rates (which signal pricing power and platform stickiness). Forward-looking quarters usually show whether insurance carriers are increasing or decreasing digital spending, a leading indicator of economic health in the insurance sector itself.
+The company reports quarterly earnings under [/wiki/10-k/](/wiki/10-k/) filings with the SEC (CIK 1818383). Key metrics to watch include transaction value (total dollar volume processed through the platform), adjusted [EBITDA](/ebitda/) and [operating margin](/operating-margin/) (which reveal operating leverage), and advertiser retention or growth rates (which signal pricing power and platform stickiness). Forward-looking quarters usually show whether insurance carriers are increasing or decreasing digital spending, a leading indicator of economic health in the insurance sector itself.
 
 One useful angle: compare MediaAlpha's [/wiki/public-company/](/wiki/public-company/) earnings to reported digital-marketing spending trends in insurance trade publications. If carriers are broadly reducing marketing spend, MediaAlpha will likely feel it regardless of its own competitive wins. Conversely, if the insurance industry is allocating more to digital and performance channels, MediaAlpha's growth may outpace the broader advertising market.
 

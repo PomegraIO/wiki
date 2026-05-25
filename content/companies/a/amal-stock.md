@@ -22,7 +22,7 @@ Amalgamated Financial's core business divides between traditional [community ban
 
 Credit Quality and Scale
 
-The company holds modest total assets (low double-digit billions) and maintains loan portfolios tilted toward real estate and small-business lending. Credit quality has historically tracked better than pure subprime peers but slightly worse than larger regional franchises, reflecting the customer base often composed of younger, lower-income, or union-affiliated borrowers with volatile employment. Net charge-offs remain manageable, though recession or labor-market weakness can pressure credit metrics. Capital ratios sit comfortably above regulatory minimums, supporting [dividend](/wiki/dividend/) capacity and modest buyback activity.
+The company holds modest total assets (low double-digit billions) and maintains loan portfolios tilted toward real estate and small-business lending. Credit quality has historically tracked better than pure subprime peers but slightly worse than larger regional franchises, reflecting the customer base often composed of younger, lower-income, or union-affiliated borrowers with volatile employment. Net charge-offs remain manageable, though [recession](/recession/) or labor-market weakness can pressure credit metrics. Capital ratios sit comfortably above regulatory minimums, supporting [dividend](/wiki/dividend/) capacity and modest buyback activity.
 
 At a Glance
 

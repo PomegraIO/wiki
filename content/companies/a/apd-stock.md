@@ -49,7 +49,7 @@ That said, APD remains tethered to industrial production. If global manufacturin
 
 ## Financial Character and Cash Generation
 
-Historically, APD is a stable, cash-generative business. Long-term contracts underpin recurring revenue; capital deployment is methodical (deploying capex against signed demand). The company typically carries moderate leverage and has a history of dividend growth. Profitability compresses during industrial downturns but recovers as volumes return. Return on invested capital has been solid for a capital-intensive business, though not spectacular—again, reflecting the quasi-utility nature of the industrial gas supply chain.
+Historically, APD is a stable, cash-generative business. Long-term contracts underpin recurring revenue; capital deployment is methodical (deploying capex against signed demand). The company typically carries moderate leverage and has a history of [dividend](/dividend/) growth. Profitability compresses during industrial downturns but recovers as volumes return. [Return on invested capital](/return-on-invested-capital/) has been solid for a capital-intensive business, though not spectacular—again, reflecting the quasi-utility nature of the industrial gas supply chain.
 
 ---
 

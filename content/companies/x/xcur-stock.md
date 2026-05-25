@@ -37,7 +37,7 @@ Exicure advanced a handful of SNA candidates into clinical development over its 
 
 ## Strategic Decline
 
-By the early 2020s, Exicure's cash position deteriorated and clinical momentum stalled. The company's market capitalization shrank, investor confidence waned, and the board eventually initiated a process to explore strategic alternatives, a euphemism for potential sale, merger, or liquidation. The company lacked the financial resources or clinical proof-of-concept required to attract development partners or continue funding large trials independently.
+By the early 2020s, Exicure's cash position deteriorated and clinical momentum stalled. The company's [market capitalization](/market-capitalization/) shrank, investor confidence waned, and the board eventually initiated a process to explore strategic alternatives, a euphemism for potential sale, [merger](/merger/), or [liquidation](/liquidation/). The company lacked the financial resources or clinical proof-of-concept required to attract development partners or continue funding large trials independently.
 
 ## Research and Filing
 

@@ -30,7 +30,7 @@ handwritten: true
 
 Oculis Holding is a biopharmaceutical company tackling eye diseases through topical drug candidates—therapies delivered as drops or surface treatments rather than injections or systemic medications. The company's strategy centers on diseases where the eye's anatomy and the bloodstream's barriers make traditional approaches inefficient or ineffective. Rather than competing in crowded markets with established therapies, Oculis targets conditions with meaningful unmet medical needs, especially in diabetic complications and dry eye disease.
 
-The company was established in 2017 and went public via a merger with a special-purpose acquisition company, listing on Nasdaq under the ticker OCS. It is incorporated in Switzerland and maintains operations with clinical focus in the United States market, where many of its trial participants reside.
+The company was established in 2017 and went public via a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/), listing on [Nasdaq](/nasdaq/) under the ticker OCS. It is incorporated in Switzerland and maintains operations with clinical focus in the United States market, where many of its trial participants reside.
 
 ## The Product Pipeline
 
@@ -48,9 +48,9 @@ A topical therapy that penetrates this barrier without injections would be trans
 
 ## The Business Model and Funding
 
-As a clinical-stage company, Oculis does not generate product revenue. It survives on capital raised from investors, including venture funding and public markets. As of March 31, 2025, the company held approximately $206 million in cash and short-term investments, providing estimated runway into early 2028. In February 2025, Oculis raised $100 million in a financing round, suggesting investor confidence in the pipeline, though capital adequacy in biotech is always contingent on clinical trial results.
+As a clinical-stage company, Oculis does not generate product revenue. It survives on capital raised from investors, including venture funding and public markets. As of March 31, 2025, the company held approximately $206 million in cash and short-term investments, providing estimated runway into early 2028. In February 2025, Oculis raised $100 million in a financing round, suggesting investor confidence in the pipeline, though [capital adequacy](/capital-adequacy/) in biotech is always contingent on clinical trial results.
 
-The typical biopharmaceutical model—burn cash on R&D, secure interim funding, advance to late-stage trials, and exit via acquisition or cash-generative approval—applies here. Oculis is mid-cycle in this arc, with programs in Phase 2b and Phase 3, putting them two to three years away from potential regulatory decisions if trials succeed.
+The typical biopharmaceutical model—burn cash on R&D, secure interim funding, advance to late-stage trials, and exit via [acquisition](/acquisition/) or cash-generative approval—applies here. Oculis is mid-cycle in this arc, with programs in Phase 2b and Phase 3, putting them two to three years away from potential regulatory decisions if trials succeed.
 
 ## Risks and Challenges
 

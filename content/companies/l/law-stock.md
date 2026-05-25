@@ -45,7 +45,7 @@ The legal-tech sector broadly is characterized by venture capital-backed compani
 
 ## Key metrics and what to watch
 
-Readers researching Disco should track: (1) customer concentration (what percentage of revenue comes from the top 10 clients); (2) net dollar retention (whether existing customers expand or contract spending); (3) the take-rate or per-document pricing relative to competitors; (4) cash flow generation and path to consistent profitability; (5) customer acquisition cost relative to lifetime value. The [10-K](/wiki/10-k/) filing will detail matters by customer, revenue by business segment (e-discovery vs. case management vs. other), and customer churn.
+Readers researching Disco should track: (1) customer concentration (what percentage of revenue comes from the top 10 clients); (2) net dollar retention (whether existing customers expand or contract spending); (3) the take-rate or per-document pricing relative to competitors; (4) cash flow generation and path to consistent profitability; (5) customer [acquisition](/acquisition/) cost relative to lifetime value. The [10-K](/wiki/10-k/) filing will detail matters by customer, revenue by business segment (e-discovery vs. case management vs. other), and customer churn.
 
 Watch also for integration trends: as corporate legal teams adopt more cloud-based workflows and law firms invest in legal operations infrastructure, Disco's ability to act as a hub in that ecosystem—playing well with email systems, contract databases, and billing platforms—will matter for retention and expansion.
 

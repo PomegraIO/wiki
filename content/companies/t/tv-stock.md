@@ -33,6 +33,6 @@ Content production is both a competitive advantage and a cost center. Televisa p
 - **Revenue sources:** Advertising (broadcast and cable), subscription fees (cable, satellite, TelevisaUnivision), content syndication and licensing
 - **Key markets:** Mexico (dominant position), United States (through TelevisaUnivision and Sky's presence), Latin America (content exports)
 - **Competitive position:** Structural dominance in Mexican media, but facing digital disruption and cord-cutting pressures
-- **Major risks:** Streaming competition, advertising headwinds, regulatory pressure on dominance, currency volatility (peso exposure)
-- **Key metrics to watch:** Mexican broadcast advertising trends, Sky subscriber growth and churn, TelevisaUnivision revenue and ratings, content production costs, free cash flow
-- **Research starting point:** [10-K filing](/wiki/10-k/) (SEC CIK 912892) for detailed segment reporting, Mexican regulatory filings with the IFT for competitive and ownership information
+- **Major risks:** Streaming competition, advertising headwinds, regulatory pressure on dominance, [currency volatility](/currency-volatility/) (peso exposure)
+- **Key metrics to watch:** Mexican broadcast advertising trends, Sky subscriber growth and churn, TelevisaUnivision revenue and ratings, content production costs, [free cash flow](/free-cash-flow/)
+- **Research starting point:** [10-K filing](/wiki/10-k/) (SEC CIK 912892) for detailed [segment reporting](/segment-reporting/), Mexican regulatory filings with the IFT for competitive and ownership information

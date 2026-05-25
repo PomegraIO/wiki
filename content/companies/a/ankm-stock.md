@@ -21,7 +21,7 @@ Unlike established players such as Mint or YNAB, Ankam operates as a micro-cap O
 
 ## How does Ankam make money?
 
-The company derives revenue primarily from user adoption of its mobile applications—through subscription tiers, in-app purchases, or advertising. Growth has been rapid at the micro-cap scale: fiscal 2025 revenue of $325,000 represented a 211% increase from $104,450 in the prior year. With four employees as of mid-2026, Ankam remains in early stages. The company also engages in strategic corporate investments and acquisitions, generating returns through subsidiary operations.
+The company derives revenue primarily from user adoption of its mobile applications—through subscription tiers, in-app purchases, or advertising. Growth has been rapid at the micro-cap scale: fiscal 2025 revenue of $325,000 represented a 211% increase from $104,450 in the prior year. With four employees as of mid-2026, Ankam remains in early stages. The company also engages in strategic corporate investments and [acquisitions](/acquisition/), generating returns through subsidiary operations.
 
 ## Why track this stock?
 

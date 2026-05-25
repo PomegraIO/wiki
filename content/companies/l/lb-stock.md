@@ -18,7 +18,7 @@ LandBridge's core asset is a portfolio of over 315,000 acres, predominantly in t
 
 The business model relies on three main revenue streams. Oil and gas royalties remain the largest contributor, generating income from the active development of the basin by major operators. Surface operations—primarily the production of brackish water used in hydraulic fracturing operations and the sale of aggregates and other composite materials—provide a secondary but growing income stream. Both of these are tied to the pace and profitability of regional oil and gas drilling. The third pillar is newer and reflects management's view that the company's land holdings can support uses beyond hydrocarbon extraction. Recent deals with PowerBridge and other infrastructure partners signal an intent to develop data centers, fiber networks, and potentially gas storage facilities on company-owned surfaces.
 
-This diversification matters. Royalty income is inherently cyclical and tied to energy prices and drilling activity. By developing alternative revenue streams from the same land base, LandBridge seeks to stabilize cash flows and unlock additional value from its acreage without cannibalizing core energy operations.
+This [diversification](/diversification/) matters. Royalty income is inherently cyclical and tied to energy prices and drilling activity. By developing alternative revenue streams from the same land base, LandBridge seeks to stabilize cash flows and unlock additional value from its acreage without cannibalizing core energy operations.
 
 | Revenue Stream | Primary Driver | Cyclicality | Growth Profile |
 |---|---|---|---|
@@ -30,7 +30,7 @@ This diversification matters. Royalty income is inherently cyclical and tied to 
 
 LandBridge operates in a fragmented landscape. Large energy companies own vast acreage but focus on drilling and production. Institutional mineral rights investors, like Southcrest Energy or Silent Energy, acquire smaller parcels or partial interests. LandBridge's distinctive edge lies in the size and geographic concentration of its holdings in an operating basin where capital is flowing, combined with management's willingness to monetize land through non-traditional means. The company controls acreage in areas with established infrastructure, which reduces operational friction and makes land available for multiple simultaneous uses.
 
-The strategy explicitly targets the energy transition narrative. As energy companies and governments invest in data centers, particularly those powered by adjacent natural gas production, LandBridge's West Texas location becomes valuable. The company frames itself not as a legacy energy asset but as a platform for the infrastructure needs of a power-intensive digital economy. This positioning is intentional: it allows LandBridge to appeal to investors concerned about long-term oil and gas demand while still capturing energy-driven cash flows.
+The strategy explicitly targets the energy transition narrative. As energy companies and governments invest in data centers, particularly those powered by adjacent [natural gas](/natural-gas/) production, LandBridge's West Texas location becomes valuable. The company frames itself not as a legacy energy asset but as a platform for the infrastructure needs of a power-intensive digital economy. This positioning is intentional: it allows LandBridge to appeal to investors concerned about long-term oil and gas demand while still capturing energy-driven cash flows.
 
 ## Financial Profile and Growth Trajectory
 
@@ -44,7 +44,7 @@ The fundamental risk is oil and gas price volatility. A sustained collapse in cr
 
 A second risk is competition for acreage and the commoditization of mineral rights. If large energy companies or institutional investors target the Delaware Basin at scale, competitive pressure on royalty rates and land premiums could squeeze returns. LandBridge's strategic positioning and existing relationships offer some moat, but no sustainable barrier prevents rivals from assembling similar portfolios.
 
-The infrastructure diversification strategy carries execution risk. Building data center campuses or fiber networks requires expertise and capital that differ markedly from land ownership. Permitting, interconnection, and customer acquisition timelines are long and subject to regulatory change. Initial partnerships are promising, but the company is unproven in these adjacent markets.
+The infrastructure diversification strategy carries execution risk. Building data center campuses or fiber networks requires expertise and capital that differ markedly from land ownership. Permitting, interconnection, and customer [acquisition](/acquisition/) timelines are long and subject to regulatory change. Initial partnerships are promising, but the company is unproven in these adjacent markets.
 
 Regulatory and tax risk, while not immediate, should not be ignored. Oil and gas operations on federal and state lands are subject to evolving environmental rules. Surface-disturbing activities, water extraction, and infrastructure development invite environmental scrutiny. Changes in tax treatment of royalty income or upstream operations could indirectly affect LandBridge's returns.
 

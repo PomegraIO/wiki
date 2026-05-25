@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-James Hardie Industries plc is the world's largest manufacturer of fiber-cement building products, a material that serves as a durable, cost-effective substitute for wood, asbestos, and other traditional siding and roofing materials. The company operates across three primary geographies—North America, Europe, and Asia-Pacific—and generates revenue primarily from residential construction repair and remodeling, new residential building, and commercial applications. Its business is tied to construction cycles and material preferences in its key markets, making it sensitive to housing demand, interest rates, and building code adoption.
+James Hardie Industries plc is the world's largest manufacturer of fiber-cement building products, a material that serves as a durable, cost-effective substitute for wood, asbestos, and other traditional siding and roofing materials. The company operates across three primary geographies—North America, Europe, and Asia-Pacific—and generates revenue primarily from residential construction repair and remodeling, new residential building, and commercial applications. Its business is tied to construction cycles and material preferences in its key markets, making it sensitive to housing demand, [interest rates](/interest-rate/), and building code adoption.
 
 The company's story is inseparable from asbestos litigation, a shadow that has shaped corporate structure, financial obligations, and strategic decisions for decades. This history informs how investors and regulators view the company today and should frame any serious analysis of its capital allocation and long-term sustainability.
 
@@ -24,7 +24,7 @@ In the 1980s and early 1990s, evidence accumulated linking asbestos exposure to 
 
 In 2001, James Hardie executed a dramatic corporate restructuring that proved highly controversial. The company isolated its asbestos liabilities in an Australian subsidiary while relocating its parent company domicile to the Netherlands, a move designed to shield the wider corporate group from liability claims and preserve capital for operating businesses. An independent statutory board, the James Hardie Medical Research and Compensation Foundation, was established to manage asbestos claims.
 
-This restructuring sparked significant political and public backlash in Australia. It was widely perceived as an attempt to evade moral and legal responsibility for compensation. In 2003, a New South Wales court found that the company had not set aside sufficient funds for future asbestos claims, forcing a partial reversal. The company eventually relocated its administrative headquarters to the United States and consolidated its primary listing on the New York Stock Exchange, though it remains incorporated under the laws of the Netherlands.
+This restructuring sparked significant political and public backlash in Australia. It was widely perceived as an attempt to evade moral and legal responsibility for compensation. In 2003, a New South Wales court found that the company had not set aside sufficient funds for future asbestos claims, forcing a partial reversal. The company eventually relocated its administrative headquarters to the United States and consolidated its primary listing on the [New York Stock Exchange](/new-york-stock-exchange/), though it remains incorporated under the laws of the Netherlands.
 
 The asbestos litigation saga exposed the company to sustained regulatory scrutiny, damaged its reputation in Australia, and created a class of stakeholders—asbestos claimants—whose interests sometimes conflicted with shareholders' interests. Yet it also clarified the company's capital structure and freed management to focus on the non-asbestos business.
 
@@ -54,13 +54,13 @@ The company's competitive moat is built on brand recognition (particularly Hardi
 
 Regulatory and legal risks persist. Although the asbestos litigation has been substantially resolved through the compensation framework, new claims can emerge, and regulatory changes in asbestos handling or legacy liability can affect financial obligations. Environmental regulations around manufacturing and waste disposal could increase operating costs.
 
-Supply chain disruptions, inflation in energy and raw materials, and tariffs can pressure margins. The company's exposure to cyclical housing markets in the United States and other regions creates cyclical earnings volatility. A severe recession or a prolonged decline in U.S. home prices could materially affect revenue and profitability.
+Supply chain disruptions, [inflation](/inflation/) in energy and raw materials, and tariffs can pressure margins. The company's exposure to cyclical housing markets in the United States and other regions creates cyclical earnings volatility. A severe [recession](/recession/) or a prolonged decline in U.S. home prices could materially affect revenue and profitability.
 
 ## Capital Allocation and Shareholder Returns
 
-James Hardie has typically returned capital to shareholders through dividends and share buybacks, particularly after the asbestos restructuring reduced uncertainty. The company has generally maintained a conservative capital structure, avoiding heavy leverage, though debt levels have fluctuated with acquisition activity and capital deployment.
+James Hardie has typically returned capital to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/), particularly after the asbestos restructuring reduced uncertainty. The company has generally maintained a conservative capital structure, avoiding heavy leverage, though debt levels have fluctuated with acquisition activity and capital deployment.
 
-In recent years, management has pursued selective acquisitions to expand product lines or geographic reach, along with organic capacity investments in high-growth markets like Asia-Pacific. The balance between growth investment, dividends, and buybacks reflects management's view of long-term growth prospects and required returns.
+In recent years, management has pursued selective [acquisitions](/acquisition/) to expand product lines or geographic reach, along with organic capacity investments in high-growth markets like Asia-Pacific. The balance between growth investment, dividends, and buybacks reflects management's view of long-term growth prospects and required returns.
 
 The company's tax domicile in the Netherlands and operations spanning multiple countries create opportunities and complexities around tax planning and regulatory compliance, particularly in light of evolving international tax rules.
 

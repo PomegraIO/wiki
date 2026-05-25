@@ -44,7 +44,7 @@ The professonal publishing side faces its own pressures. Traditional reference m
 
 K–12 contributes a substantial share of revenue and is relatively stable, benefiting from steady state and federal funding and the need to refresh materials every five to ten years. Higher education is larger in absolute dollars but faces contraction pressures as enrollments fluctuate and cost-consciousness rises. Professional publishing is smaller but often more profitable due to higher margins and the recurring nature of compliance-driven content purchases.
 
-The company shifted to a subscription and digital-first model beginning around 2015–2016, which changed the revenue recognition timing and dynamics. Rather than large one-time textbook adoption cycles, McGraw Hill now aims for recurring subscriber bases and predictable annual or multi-year contracts. This model creates smoother cash flows but requires continuous customer retention and feature investment.
+The company shifted to a subscription and digital-first model beginning around 2015–2016, which changed the [revenue recognition](/revenue-recognition/) timing and dynamics. Rather than large one-time textbook adoption cycles, McGraw Hill now aims for recurring subscriber bases and predictable annual or multi-year contracts. This model creates smoother cash flows but requires continuous customer retention and feature investment.
 
 Profitability depends on the company's ability to convert students and educators to paid digital platforms while managing costs in content development, platform engineering, and sales. The company faces margin pressure from the need to invest heavily in technology and product development while competing on price in a market that has come to view textbook costs as excessive.
 
@@ -52,7 +52,7 @@ Profitability depends on the company's ability to convert students and educators
 
 McGraw Hill operates in an environment shaped by education policy and regulation. State curriculum standards, adoption processes, and testing mandates all influence what schools buy and what content matters. The company must navigate varying state standards while building platforms that work across multiple jurisdictions—a complexity that creates competitive barriers but also operational overhead.
 
-The [10-K](/wiki/10-k/) disclosures reveal customer concentration risk; a few large school districts or adoption committees can account for meaningful portions of K–12 revenue. Loss of a major adoption contract can impact quarterly results, introducing lumpiness.
+The [10-K](/wiki/10-k/) disclosures reveal customer [concentration risk](/concentration-risk/); a few large school districts or adoption committees can account for meaningful portions of K–12 revenue. Loss of a major adoption contract can impact quarterly results, introducing lumpiness.
 
 ## How to research it
 

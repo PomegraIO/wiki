@@ -69,13 +69,13 @@ Regulatory risk cuts both ways. While decarbonization mandates create tailwinds 
 
 Supply chain risk is real. HVAC systems depend on metals, electronics, compressors, and other components sourced globally. Tariffs, regional conflicts, and localization requirements are raising costs and forcing manufacturers to invest in regional production. Trane has to navigate rising tariffs, the geopolitical exposure around Taiwan and semiconductors, and the need to build out manufacturing in multiple regions. This is an expensive transition that will weigh on margins for years.
 
-The industry also faces a "perfect storm" of rising labor costs, material inflation, and capacity constraints as demand for efficient equipment accelerates faster than supply can keep pace. Trane's ability to raise prices will be tested as competitors jostle for market share in a tightening supply environment.
+The industry also faces a "perfect storm" of rising labor costs, material [inflation](/inflation/), and capacity constraints as demand for efficient equipment accelerates faster than supply can keep pace. Trane's ability to raise prices will be tested as competitors jostle for market share in a tightening supply environment.
 
 ## How to research Trane as an investment
 
 Trane's [10-K filing](/wiki/10-k/) (SEC CIK 1466258) is the authoritative source for segment revenue, geographic exposure, and management's assessment of risks. The quarterly earnings releases and calls reveal the trajectory of commercial HVAC bookings and backlog, which are leading indicators of future revenue, and commentary on pricing power, cost inflation, and progress on efficiency products.
 
-A few metrics clarify the business: the ratio of bookings (orders) to current-quarter revenue indicates how much demand is in the pipeline; [operating margins](/wiki/operating-margin/) show pricing power and cost control; and the trajectory of free cash flow reveals how much of the profit the company can return to shareholders. The company's positioning in high-efficiency and decarbonization products should be assessed against actual adoption rates in key geographies and whether customers are willing to pay a premium for those features or whether they are being commoditized.
+A few metrics clarify the business: the ratio of bookings (orders) to current-quarter revenue indicates how much demand is in the pipeline; [operating margins](/wiki/operating-margin/) show pricing power and cost control; and the trajectory of [free cash flow](/free-cash-flow/) reveals how much of the profit the company can return to shareholders. The company's positioning in high-efficiency and decarbonization products should be assessed against actual adoption rates in key geographies and whether customers are willing to pay a premium for those features or whether they are being commoditized.
 
 Geographic exposure matters too. The Americas generate the bulk of revenue and are the most mature market, while EMEA and Asia Pacific offer growth but are smaller and face different competitive and regulatory landscapes. Any assessment should track whether Trane's global expansion is adding margin or diluting it.
 

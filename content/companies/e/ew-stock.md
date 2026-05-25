@@ -31,7 +31,7 @@ Growth in this segment is typically slower than TAVR but more defensive; it is d
 
 Edwards Lifesciences also treats aortic disease—primarily thoracic aortic aneurysm—using grafts and stent-graft systems deployed via catheter. These products serve a more niche population than TAVR but in a similarly underserved patient group: people with aortic pathology who are at high risk from traditional open surgery.
 
-The company's aortic portfolio has expanded through both organic innovation and acquisition. Smaller offerings address mitral valve disease, left atrial appendage closure (in stroke prevention), and tricuspid valve disease. None of these individually rival TAVR in scale, but collectively they represent meaningful diversification and give Edwards the chance to capture a broader share of the structural heart disease treatment landscape.
+The company's aortic portfolio has expanded through both organic innovation and acquisition. Smaller offerings address mitral valve disease, left atrial appendage closure (in stroke prevention), and tricuspid valve disease. None of these individually rival TAVR in scale, but collectively they represent meaningful [diversification](/diversification/) and give Edwards the chance to capture a broader share of the structural heart disease treatment landscape.
 
 ## Where is growth coming from and what does the international picture look like?
 
@@ -61,4 +61,4 @@ Look at clinical literature on TAVR outcomes and adoption trends in target geogr
 
 Monitor regulatory developments: FDA approvals for new indications or competing devices, international regulatory clearances, and reimbursement policy changes all affect the growth story. Industry conferences often feature presentations on adoption and clinical outcomes.
 
-Finally, understand the company's capital allocation strategy: how much is reinvested in R&D, what is returned to shareholders via dividends and buybacks, and what is spent on acquisitions to fill gaps in the portfolio.
+Finally, understand the company's capital allocation strategy: how much is reinvested in R&D, what is returned to shareholders via [dividends](/dividend/) and buybacks, and what is spent on [acquisitions](/acquisition/) to fill gaps in the portfolio.

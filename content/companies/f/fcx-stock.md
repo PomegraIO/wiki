@@ -27,7 +27,7 @@ Freeport-McMoRan is one of the world's largest copper producers, a distinction r
 
 ## The Core Business
 
-Freeport is not a diversified conglomerate dabbling in metals. It is fundamentally a copper company. Copper is its cash engine—a commodity essential to electrical transmission, renewable energy infrastructure, construction, and manufacturing. The company also extracts gold and molybdenum as byproducts and secondary operations, but copper drives the narrative and the balance sheet.
+Freeport is not a diversified conglomerate dabbling in metals. It is fundamentally a copper company. Copper is its cash engine—a commodity essential to electrical transmission, renewable energy infrastructure, construction, and manufacturing. The company also extracts gold and molybdenum as byproducts and secondary operations, but copper drives the narrative and the [balance sheet](/balance-sheet/).
 
 The Grasberg mine, located in the Papua region of Indonesia, is the cornerstone of Freeport's operations. Grasberg is not merely large; it is one of the most significant copper and gold deposits ever discovered. The ore body is vast, the concentration of copper is high relative to other mining operations, and the mine has sustained production for decades. When Freeport controls Grasberg, it controls a non-renewable asset of global importance. The mine produces copper, gold, and molybdenum in significant quantities, with copper accounting for the majority of revenue and value. The fact that Grasberg is underground—and that Freeport must continuously invest in shafts, ventilation, extraction infrastructure, and environmental management—makes this an exceptionally demanding operation.
 
@@ -35,7 +35,7 @@ Beyond Indonesia, Freeport also operates the Morenci mine in Arizona, a large op
 
 ## A Brief History of the Company
 
-The modern Freeport-McMoRan traces its origins to the merger of two companies in 1988: Freeport Minerals (which had developed the Grasberg property in the 1980s) and McMoRan Oil & Gas. At the time, the Grasberg mine was ramping up production and had not yet become the scale operation it is today. The merger created a company positioned to develop one of the world's richest ore bodies at a moment when improved mining technology and global copper demand were creating opportunity.
+The modern Freeport-McMoRan traces its origins to the [merger](/merger/) of two companies in 1988: Freeport Minerals (which had developed the Grasberg property in the 1980s) and McMoRan Oil & Gas. At the time, the Grasberg mine was ramping up production and had not yet become the scale operation it is today. The merger created a company positioned to develop one of the world's richest ore bodies at a moment when improved mining technology and global copper demand were creating opportunity.
 
 Over the following decades, Freeport methodically expanded Grasberg's capacity, navigated Indonesian regulatory and political changes, and became one of the top three copper producers globally. The company has weathered commodity downturns, major mining accidents (including fatalities that prompted operational reviews), geopolitical tensions with Indonesia, and the cyclical nature of metal prices. These experiences have shaped a management culture oriented toward long-term mining, not short-term trading.
 
@@ -59,7 +59,7 @@ Freeport's competitive disadvantages are equally real. Indonesia is a demanding 
 
 Copper prices are set globally and are notoriously volatile, moving with macroeconomic expectations, geopolitical events, and changes in industrial demand. Freeport is a price-taker; it cannot control the price at which it sells. Instead, it manages costs and production timing. When copper prices rise above the company's all-in sustaining cost (typically in the range of $1.00–$1.50 per pound in recent years, though this varies by operation and time period), the company generates strong cash flow. When prices fall below that level, profitability erodes rapidly.
 
-A key metric investors watch is free cash flow—the cash generated after capital expenditures. In high-price cycles, free cash flow can be enormous, supporting dividends, debt repayment, and share buybacks. In downturns, free cash flow shrinks or turns negative, forcing the company to draw on credit lines or reduce spending. This cyclicality means Freeport shareholders must think in commodity cycles, not annual returns.
+A key metric investors watch is [free cash flow](/free-cash-flow/)—the cash generated after capital expenditures. In high-price cycles, free cash flow can be enormous, supporting [dividends](/dividend/), debt repayment, and [share buybacks](/share-buyback/). In downturns, free cash flow shrinks or turns negative, forcing the company to draw on credit lines or reduce spending. This cyclicality means Freeport shareholders must think in commodity cycles, not annual returns.
 
 The transition to a lower-carbon economy presents both opportunity and risk. Copper is essential to renewable energy and electric vehicles—solar panels, wind turbines, and EV batteries all require large quantities of copper. This structural demand tailwind could support long-term copper prices. Conversely, if demand growth disappoints or if new recycling technologies reduce the need for primary copper, Freeport's production could face a secular headwind. The company is acutely aware of this dynamic and positions itself as a beneficiary of the energy transition.
 
@@ -75,7 +75,7 @@ The company has also faced labor disputes, environmental liabilities, and reputa
 
 Freeport's capital allocation reflects its cyclical nature. In years when copper prices are elevated and free cash flow is strong, the company typically increases dividends and may authorize share buybacks. When prices are weak, dividends are cut or suspended to preserve cash. This variability means Freeport is not a comforting income stock for risk-averse investors; it is a cyclical play best suited to investors who can tolerate volatility and who believe in long-term copper demand.
 
-The company carries debt to finance mine development and acquisitions. Debt levels are manageable in strong copper markets but become stressed in downturns. Freeport has shown discipline in managing leverage, but investors should monitor debt-to-EBITDA ratios and refinancing risks in their analysis.
+The company carries debt to finance mine development and [acquisitions](/acquisition/). Debt levels are manageable in strong copper markets but become stressed in downturns. Freeport has shown discipline in managing leverage, but investors should monitor [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/) and [refinancing risks](/refinancing-risk/) in their analysis.
 
 ## Understanding Freeport as an Investor
 

@@ -19,7 +19,7 @@ Pevifoscorvir sodium, a capsid assembly modulator, is the lead candidate in Phas
 
 Capital structure and burn
 
-Like nearly all development-stage biotech firms, Aligos burns cash monthly on R&D, clinical operations, and regulatory affairs. The company has raised capital through public markets (IPO in 2020) and private placements to fund operations. Equity investors are funding the R&D lab until—and only if—a product shows enough efficacy to justify commercialization and then eventual profitability. The company has no near-term revenue, so traditional metrics like P/E or dividend yield are meaningless; the story is all probability-weighted phase transitions and cash runway.
+Like nearly all development-stage biotech firms, Aligos burns cash monthly on R&D, clinical operations, and regulatory affairs. The company has raised capital through public markets (IPO in 2020) and [private placements](/private-placement/) to fund operations. Equity investors are funding the R&D lab until—and only if—a product shows enough efficacy to justify commercialization and then eventual profitability. The company has no near-term revenue, so traditional metrics like P/E or [dividend yield](/dividend-yield/) are meaningless; the story is all probability-weighted phase transitions and cash runway.
 
 At a glance
 

@@ -45,7 +45,7 @@ In practice, revenue is sticky where customers have invested in IR infrastructur
 
 ## Cyclical Exposure and the Structural Story
 
-IR's fortune rides on global industrial production. When manufacturing contracts—whether from trade slowdowns, recession, or sectoral downturns in oil and gas—IR's order books deteriorate rapidly. Conversely, upswings in capex or infrastructure stimulus create demand surges that can strain IR's supply chain.
+IR's fortune rides on global industrial production. When manufacturing contracts—whether from trade slowdowns, [recession](/recession/), or sectoral downturns in oil and gas—IR's order books deteriorate rapidly. Conversely, upswings in capex or infrastructure stimulus create demand surges that can strain IR's supply chain.
 
 The company's cost structure is heavily weighted toward manufacturing and engineering. It sources materials globally (steel, castings, electrical components), operates a distributed manufacturing footprint across North America, Europe, and Asia, and carries significant labor and facility expenses. Gross margins tend to move with volume and input costs, while operating leverage means small swings in revenue can create outsized swings in operating income.
 
@@ -71,16 +71,16 @@ Pricing power is limited by the maturity of the categories and global competitio
 
 **Technology and automation.** New entrants, especially from Asia, have improved the price-to-performance of industrial machinery. Larger customers sometimes backward-integrate or partner with emerging suppliers. IR must continually invest in R&D to stay ahead on efficiency, digitalization, and environmental compliance.
 
-**Debt and capital structure.** The 2020 reorganization left IR with a meaningful debt load. The company must service this while funding capex and R&D. Rising interest rates can pressure free cash flow and limit strategic flexibility.
+**Debt and capital structure.** The 2020 reorganization left IR with a meaningful debt load. The company must service this while funding capex and R&D. Rising [interest rates](/interest-rate/) can pressure [free cash flow](/free-cash-flow/) and limit strategic flexibility.
 
 ## What a Reader Would Research
 
 The [10-K](/wiki/10-k/) is essential. Focus on segment breakdowns, gross margin trends, order backlogs, and free cash flow generation. In recent filings, management has emphasized the mix shift toward higher-margin aftermarket and decentralized power; examine whether that narrative is supported by segment data.
 
-Key metrics to track: organic revenue growth, operating margin by segment, free cash flow conversion, and days sales outstanding. A useful proxy for near-term demand health is the company's order backlog and the trajectory of new bookings, both disclosed in investor calls and quarterly updates. For cyclical industrials, book-to-bill ratios (orders divided by revenue) signal forward-looking health; a rising ratio suggests recovery ahead.
+Key metrics to track: organic revenue growth, [operating margin](/operating-margin/) by segment, free [cash flow conversion](/cash-flow-conversion/), and [days sales outstanding](/days-sales-outstanding/). A useful proxy for near-term demand health is the company's order backlog and the trajectory of new bookings, both disclosed in investor calls and quarterly updates. For cyclical industrials, book-to-bill ratios (orders divided by revenue) signal forward-looking health; a rising ratio suggests recovery ahead.
 
 Watch the gross margin narrative carefully. IR has pricing power only where it can differentiate; in commodity compressor categories, margin expansion tends to be temporary and followed by competitive pressure or volume declines. The company's success in selling higher-value solutions and services will be visible in segment profitability.
 
-Also track capital allocation: IR's debt, share buybacks, and M&A activity. The company has historically used acquisitions to add capabilities and geographic reach; understanding the integration track record and strategic rationale behind major deals is important for assessing management quality.
+Also track capital allocation: IR's debt, [share buybacks](/share-buyback/), and M&A activity. The company has historically used [acquisitions](/acquisition/) to add capabilities and geographic reach; understanding the integration track record and strategic rationale behind major deals is important for assessing management quality.
 
 Lastly, follow energy and electrification trends. Regulatory shifts toward decarbonization, customer capex cycles in renewables and distributed power, and the pace of industrial electrification will shape IR's revenue mix over the next decade. Companies that miscalculate this transition face secular headwinds; those that adapt gain optionality.

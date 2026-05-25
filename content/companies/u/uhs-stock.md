@@ -38,7 +38,7 @@ The regulatory landscape is also fluid. Healthcare antitrust enforcement has bec
 
 ## Financial stability and capital structure
 
-UHS is a public company with investment-grade debt (or near it in recent years). Hospital operators typically carry meaningful leverage because they are cash generators and can service debt reliably. UHS has used debt to fund acquisitions and facility improvements, though rising interest rates have increased borrowing costs. The company must balance shareholder returns (dividends, buybacks) with the need to reinvest in aging facilities and technology—a tension that affects many mature operators.
+UHS is a public company with investment-grade debt (or near it in recent years). Hospital operators typically carry meaningful leverage because they are cash generators and can service debt reliably. UHS has used debt to fund [acquisitions](/acquisition/) and facility improvements, though rising [interest rates](/interest-rate/) have increased borrowing costs. The company must balance shareholder returns ([dividends](/dividend/), buybacks) with the need to reinvest in aging facilities and technology—a tension that affects many mature operators.
 
 ## Research and relevant metrics
 
@@ -48,10 +48,10 @@ Investors in healthcare providers focus on several metrics:
 - **Average length of stay (ALOS)**: Longer stays at higher-margin facilities boost revenue; changes in ALOS signal shifts in acuity or mix.
 - **Case mix index (CMI)**: A measure of how complex/severe patients are; higher CMI supports higher reimbursement under [Medicare](/wiki/medicare-personal/) DRG-based payment.
 - **Same-store growth**: Revenue growth at facilities open for a full year, stripping out acquisitions.
-- **Adjusted EBITDA and margins**: EBITDA is widely used in healthcare because of high depreciation; adjusted EBITDA excludes one-time items.
-- **Leverage ratios**: Debt-to-EBITDA tells you how much cushion the company has.
+- **Adjusted [EBITDA](/ebitda/) and margins**: EBITDA is widely used in healthcare because of high [depreciation](/depreciation/); adjusted EBITDA excludes one-time items.
+- **[Leverage ratios](/leverage-ratio-forex/)**: Debt-to-EBITDA tells you how much cushion the company has.
 
-The [10-K](/wiki/10-k/) filing details segment revenue and operating margins, facility count, payer mix by segment, and a detailed risk discussion covering regulatory, competitive, and reimbursement risks.
+The [10-K](/wiki/10-k/) filing details segment revenue and [operating margins](/operating-margin/), facility count, payer mix by segment, and a detailed risk discussion covering regulatory, competitive, and reimbursement risks.
 
 ## Where this matters
 

@@ -21,7 +21,7 @@ The company has structured its capital strategy through a $100 million Equity Li
 
 ## Competitive Position in Independent Film
 
-As an independent player in entertainment, American Picture House competes by offering project-specific financing and production expertise rather than the vertical integration of major studios. The company's focus on mid-budget independent content targets an underserved market segment between ultra-low-budget independent films and blockbuster studio productions. Success depends on script acquisition, talent attachment, distributor relationships, and the ability to navigate streaming platform demand cycles alongside theatrical market dynamics.
+As an independent player in entertainment, American Picture House competes by offering project-specific financing and production expertise rather than the vertical integration of major studios. The company's focus on mid-budget independent content targets an underserved market segment between ultra-low-budget independent films and blockbuster studio productions. Success depends on script [acquisition](/acquisition/), talent attachment, distributor relationships, and the ability to navigate streaming platform demand cycles alongside theatrical market dynamics.
 
 ## At a glance
 

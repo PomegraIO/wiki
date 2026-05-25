@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does AdvanSix actually make?
 
-AdvanSix is a chemicals manufacturer that emerged from Honeywell's 2016 spinoff of its Resins & Chemicals business. The company operates an integrated production system centered on nylon polymers and the chemical precursors that feed them. Its portfolio splits into four business lines: nylon solutions (Nylon 6 for fibers and engineered plastics), caprolactam (the raw material for those same resins), ammonium sulfate fertilizers, and a suite of intermediate chemicals including phenol, acetone, and specialty amines. The business is vertically integrated in a way that typical chemical suppliers are not—owning both the raw material production and downstream polymer making under one roof.
+AdvanSix is a chemicals manufacturer that emerged from Honeywell's 2016 [spinoff](/spinoff/) of its Resins & Chemicals business. The company operates an integrated production system centered on nylon polymers and the chemical precursors that feed them. Its portfolio splits into four business lines: nylon solutions (Nylon 6 for fibers and engineered plastics), caprolactam (the raw material for those same resins), ammonium sulfate fertilizers, and a suite of intermediate chemicals including phenol, acetone, and specialty amines. The business is vertically integrated in a way that typical chemical suppliers are not—owning both the raw material production and downstream polymer making under one roof.
 
 ## Where is most of its revenue?
 

@@ -40,15 +40,15 @@ The risk is fragmentation. Legence is still integrating many acquired brands and
 
 ## Business characteristics and cyclicality
 
-Legence's revenue is split between project-based work (design-build retrofits, new construction MEP) and service revenue (ongoing maintenance, facility optimization). The service revenue is more stable and recurring; the project business is lumpy and tied to capital spending cycles in commercial real estate and industry. When economic conditions tighten, companies often defer major retrofit projects, which can create revenue volatility. Maintenance and emergency repair work, however, tends to be less discretionary.
+Legence's revenue is split between project-based work (design-build retrofits, new construction MEP) and service revenue (ongoing maintenance, facility optimization). The service revenue is more stable and recurring; the project business is lumpy and tied to capital spending cycles in [commercial real estate](/commercial-real-estate/) and industry. When economic conditions tighten, companies often defer major retrofit projects, which can create revenue volatility. Maintenance and emergency repair work, however, tends to be less discretionary.
 
-Pricing is not transparent—the company works on a project-based or time-and-materials basis with large commercial customers, meaning contract size, margin, and renewal rates vary widely. Legence does not break out pricing metrics or discuss customer concentration in detail; major customers in a narrow sector (say, semiconductor fabrication) could create concentration risk.
+Pricing is not transparent—the company works on a project-based or time-and-materials basis with large commercial customers, meaning contract size, margin, and renewal rates vary widely. Legence does not break out pricing metrics or discuss customer concentration in detail; major customers in a narrow sector (say, semiconductor fabrication) could create [concentration risk](/concentration-risk/).
 
 ## Market tailwinds and headwinds
 
 Legence operates in an industry riding tailwinds from climate policy, corporate decarbonization commitments, and building code evolution toward efficiency. Governments and large corporations are increasingly mandating or incentivizing retrofit work, and energy costs have climbed in many regions, making efficiency projects economically attractive to building owners and operators.
 
-The headwind is labor. HVAC technicians, MEP installers, and experienced engineers are in short supply in the construction and mechanical services industry. Legence must compete for talent, invest in training, and manage wage inflation. Unlike software, the business cannot scale without bodies.
+The headwind is labor. HVAC technicians, MEP installers, and experienced engineers are in short supply in the construction and mechanical services industry. Legence must compete for talent, invest in training, and manage wage [inflation](/inflation/). Unlike software, the business cannot scale without bodies.
 
 ## How to research it
 

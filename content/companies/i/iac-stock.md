@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is IAC?
 
-IAC Inc. is a publicly traded holding company that owns and operates a diverse portfolio of digital media and commerce properties. Listed on the Nasdaq under ticker IAC, the company evolved from its roots as a broadcast media company into one of the internet era's most prolific builders and acquirers of digital brands and marketplaces.
+IAC Inc. is a publicly traded holding company that owns and operates a diverse portfolio of digital media and commerce properties. Listed on the [Nasdaq](/nasdaq/) under ticker IAC, the company evolved from its roots as a broadcast media company into one of the internet era's most prolific builders and acquirers of digital brands and marketplaces.
 
 The company operates primarily through four business segments: Dotdash Meredith (digital publishing), Angi Inc. (home services), Search and Monetization (search technology), and Emerging and Other ventures. This portfolio approach allows IAC to maintain exposure to multiple growing digital categories while each segment operates with operational autonomy.
 
@@ -46,9 +46,9 @@ The Search segment operates in a highly competitive area dominated by major tech
 
 ## What pressures does IAC face?
 
-Digital advertising, which funds much of Dotdash Meredith's operations, remains cyclical and vulnerable to macroeconomic slowdowns. Advertiser budgets contract during recessions, and competition for digital ad dollars is intense.
+Digital advertising, which funds much of Dotdash Meredith's operations, remains cyclical and vulnerable to macroeconomic slowdowns. Advertiser budgets contract during [recessions](/recession/), and competition for digital ad dollars is intense.
 
-The home services marketplace faces competition from regional specialists, general platforms, and direct consumer-to-contractor relationships. Professional contractor acquisition and retention require ongoing investment and differentiation.
+The home services marketplace faces competition from regional specialists, general platforms, and direct consumer-to-contractor relationships. Professional contractor [acquisition](/acquisition/) and retention require ongoing investment and differentiation.
 
 Search monetization operates in an environment where a handful of dominant platforms capture most search traffic and related advertising value. IAC's ability to carve out profitable search niches depends on maintaining specialized applications or partnerships.
 
@@ -60,7 +60,7 @@ IAC's [10-K filing](/wiki/10-k/) with the SEC provides detailed breakdowns of ea
 
 Tracking earnings releases and quarterly results alongside peer companies in publishing, home services, and search helps contextualize IAC's performance. Monitoring leadership changes, particularly moves by CEO and CFO, can signal strategic shifts or operational emphasis changes across segments.
 
-The company's investor relations website and regulatory filings track spin-offs and divestitures, which remain frequent. Understanding which properties IAC chooses to retain versus divest reveals management's view of long-term competitive positioning.
+The company's investor relations website and regulatory filings track [spin-offs](/spin-off/) and [divestitures](/divestiture/), which remain frequent. Understanding which properties IAC chooses to retain versus divest reveals management's view of long-term competitive positioning.
 
 Comparing IAC's [enterprise value](/wiki/enterprise-value/) to the sum of its parts—particularly the publicly traded valuations of former IAC spin-offs like Match Group, Vimeo, and Expedia—provides a framework for assessing whether the holding company structure is creating or destroying shareholder value.
 

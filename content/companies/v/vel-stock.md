@@ -17,9 +17,9 @@ Velocity operates in a mature but evolving industry where speed, convenience, an
 
 ## The business at its core
 
-Velocity originates mortgages for primary residences, rate-and-term refinances, and cash-out refinances. Revenue flows from origination fees (loan-level revenue per completed loan), servicing rights retained or sold, and gains on secondary-market sales. The company does not warehouse loans at scale; it funds loans through investor commitments and then sells into the secondary market—the standard model for non-bank mortgage originators. This capital-light approach means Velocity's balance sheet does not bloat with loan inventory, but it also means the company is highly dependent on capital-market access and investor appetite for mortgage-backed securities.
+Velocity originates mortgages for primary residences, rate-and-term refinances, and cash-out refinances. Revenue flows from origination fees (loan-level revenue per completed loan), servicing rights retained or sold, and gains on secondary-market sales. The company does not warehouse loans at scale; it funds loans through investor commitments and then sells into the [secondary market](/secondary-market/)—the standard model for non-bank mortgage originators. This capital-light approach means Velocity's [balance sheet](/balance-sheet/) does not bloat with loan inventory, but it also means the company is highly dependent on capital-market access and investor appetite for mortgage-backed securities.
 
-The company's origination model blends retail (direct-to-consumer, driven by digital marketing and partnerships with real-estate platforms) and wholesale (loans sourced through brokers and correspondent lenders). The wholesale channel brings diversity in loan sourcing but introduces competition on pricing and margin compression if rates or volumes turn unfavorable. The retail channel builds brand and is stickier, but customer acquisition is capital intensive.
+The company's origination model blends retail (direct-to-consumer, driven by digital marketing and partnerships with real-estate platforms) and wholesale (loans sourced through [brokers](/broker/) and correspondent lenders). The wholesale channel brings diversity in loan sourcing but introduces competition on pricing and margin compression if rates or volumes turn unfavorable. The retail channel builds brand and is stickier, but customer [acquisition](/acquisition/) is capital intensive.
 
 ## Technology and speed as positioning
 
@@ -39,7 +39,7 @@ Seasonality is pronounced: origination activity typically peaks in spring and ea
 
 ## Market dynamics and competitive pressure
 
-Velocity competes against a large field: mega-banks (Wells Fargo, Chase Mortgage) offering breadth and trust; national non-bank originators (United Wholesale Mortgage, better-capitalized and larger); fintech-forward names (Better, Lemonade) focused on ultra-low-friction experiences; and thousands of independent and regional mortgage shops. Scale, capital, brand, and operational efficiency all matter.
+Velocity competes against a large field: mega-banks ([Wells Fargo](/wells-fargo/), Chase Mortgage) offering breadth and trust; national non-bank originators (United Wholesale Mortgage, better-capitalized and larger); fintech-forward names (Better, Lemonade) focused on ultra-low-friction experiences; and thousands of independent and regional mortgage shops. Scale, capital, brand, and operational efficiency all matter.
 
 The mortgage origination market in recent years has been crowded and price-competitive. Rising rates have purged weak players but also reduced overall market size, concentrating volume among the larger and most efficient survivors. Velocity's size—large enough to matter but smaller than mega-players—leaves it vulnerable to margin compression if it competes primarily on price or customer acquisition cost.
 
@@ -47,19 +47,19 @@ The mortgage origination market in recent years has been crowded and price-compe
 
 **Rate sensitivity.** The biggest risk is a sustained low-rate environment's reversal. If rates stay elevated or rise further, origination volume could remain suppressed, and Velocity's revenue could face headwinds for an extended period. The company has diversified into purchase and refi segments, but these are not insulated from rate shocks.
 
-**Capital and funding constraints.** Velocity depends on steady capital-market access (investor commitments for loan sales). In a market dislocations or credit events, investor demand for mortgage-backed securities can evaporate, leaving an originator unable to fund new loans. This is an existential risk for non-banks with no retail deposit base.
+**Capital and funding constraints.** Velocity depends on steady capital-market access (investor commitments for loan sales). In a market dislocations or [credit events](/credit-event-sovereign/), investor demand for mortgage-backed securities can evaporate, leaving an originator unable to fund new loans. This is an existential risk for non-banks with no retail deposit base.
 
-**Loan quality and fraud.** Velocity sells most loans into the secondary market, transferring risk, but retains exposure through representations and warranties (reps and warrants) claims—if sold loans default due to underwriting errors or fraud, Velocity may face clawback claims or settlements. Operational controls and compliance are essential.
+**Loan quality and fraud.** Velocity sells most loans into the secondary market, transferring risk, but retains exposure through [representations and warranties](/representations-and-warranties/) (reps and warrants) claims—if sold loans default due to underwriting errors or fraud, Velocity may face [clawback](/clawback/) claims or settlements. Operational controls and compliance are essential.
 
 **Competition and commoditization.** The faster and more efficient the industry becomes at digital origination, the lower the competitive moat and the thinner the margin. Velocity's technology advantage is real but not durable if larger competitors or new entrants invest at similar levels.
 
-**Economic sensitivity.** Mortgage origination is pro-cyclical. A recession, job losses, or housing market contraction will reduce both purchase demand and refi appetite. Velocity has limited recession buffers compared to diversified financial institutions.
+**Economic sensitivity.** Mortgage origination is pro-cyclical. A [recession](/recession/), job losses, or housing market contraction will reduce both purchase demand and refi appetite. Velocity has limited recession buffers compared to diversified financial institutions.
 
 ## How to follow it
 
 Start with the [10-K](/wiki/10-k/) and quarterly 10-Qs: look for origination volume trends, average loan size, cost per loan, gain-on-sale margins, and pipeline (loans in process at quarter-end—a leading indicator of next quarter's volume). Watch also for changes in the wholesale vs. retail mix and commentary on investor appetite for their loans.
 
-Macro indicators matter enormously: the 30-year fixed-rate mortgage (published weekly by Freddie Mac or the MBA) is effectively leading indicator of next quarter's demand, and housing starts and existing home sales set the frame for purchase volumes.
+Macro indicators matter enormously: the 30-year [fixed-rate mortgage](/fixed-rate-mortgage-personal/) (published weekly by [Freddie Mac](/freddie-mac/) or the MBA) is effectively leading indicator of next quarter's demand, and housing starts and existing home sales set the frame for purchase volumes.
 
 Velocity's relative scale and market share in originations (reported in industry data from Mortgage Bankers Association, Ellie Mae) tell you whether the company is gaining or losing share amid consolidation.
 

@@ -27,6 +27,6 @@ Recent strategic emphasis has tilted toward aerospace and defense, where defense
 | Medical | ~18% | Surgical instruments, diagnostic equipment |
 | Vehicle | ~19% | Commercial automotive, powersports (softening) |
 
-The segmentation reflects Allient's deliberate strategy to reduce volatility by serving non-correlated demand cycles. Industrial customers buy during expansion phases; aerospace programs operate on decade-long timelines; medical demand tracks demographics; vehicle sales fluctuate with consumer cycles. This diversification has enabled the company to deliver consistent profitability even through periods when individual markets faced cyclical headwinds.
+The segmentation reflects Allient's deliberate strategy to reduce volatility by serving non-correlated demand cycles. Industrial customers buy during [expansion phases](/expansion-phase/); aerospace programs operate on decade-long timelines; medical demand tracks demographics; vehicle sales fluctuate with consumer cycles. This [diversification](/diversification/) has enabled the company to deliver consistent profitability even through periods when individual markets faced cyclical headwinds.
 
 Allient remains a [stock](/wiki/stock/) traded on [Nasdaq](/wiki/stock-exchange/) and files [10-K](/wiki/10-k/) disclosures with the SEC under CIK 0000046129. The company's financial reports detail segment performance, facility utilization, and engineering investments across its global manufacturing footprint.

@@ -41,17 +41,17 @@ Both divisions rely on holding working capital—paying workers before client in
 
 **Technology disruption** represents a longer-term risk. Direct-to-employer hiring platforms and gig economy services (Uber for labor) compete for low-skill and semi-skilled placements. More sophisticated employers use applicant tracking systems and in-house recruiting tools to bypass staffing firms for routine placements. GEE Group's value proposition depends on solving real hiring friction—finding specialized talent, managing compliance, handling payroll—but technology is steadily encroaching.
 
-**Economic cyclicality** is baked in. Manufacturing slowdowns, retail contractions, and broad recessions immediately reduce demand for temporary labor. Clients can cancel contracts with minimal notice, making revenue highly volatile in downturns.
+**Economic cyclicality** is baked in. Manufacturing slowdowns, retail contractions, and broad [recessions](/recession/) immediately reduce demand for temporary labor. Clients can cancel contracts with minimal notice, making revenue highly volatile in downturns.
 
 **Client concentration** can pose risk. If a few large clients represent a substantial portion of revenue, loss of one customer or a sharp reduction in their staffing needs creates a material revenue gap.
 
-**Wage inflation and compliance** tighten margins. Rising minimum wages, stricter labor law enforcement, and growing cost of providing benefits increase GEE Group's payroll burden, which cannot always be passed to clients without losing competitiveness.
+**Wage [inflation](/inflation/) and compliance** tighten margins. Rising minimum wages, stricter labor law enforcement, and growing cost of providing benefits increase GEE Group's payroll burden, which cannot always be passed to clients without losing competitiveness.
 
 ## Financial and operational context
 
-GEE Group typically reports operating margins in the single digits (often 2–6%), reflecting the low-margin nature of staffing. Asset turnover is high (receivables and payables move quickly), making cash management critical. The company relies on revolving credit lines to fund working capital gaps during growth phases or when client payment cycles extend.
+GEE Group typically reports [operating margins](/operating-margin/) in the single digits (often 2–6%), reflecting the low-margin nature of staffing. Asset turnover is high (receivables and payables move quickly), making cash management critical. The company relies on revolving credit lines to fund working capital gaps during growth phases or when client payment cycles extend.
 
-For investors evaluating the company, the [10-K](/wiki/10-k/) filing reveals the critical metrics: gross margin trend, revenue per employee (a proxy for recruiting productivity and pricing power), days sales outstanding (how quickly clients pay), client concentration, and geographic revenue mix. Seasonal patterns—stronger in manufacturing seasons, weaker in summer and winter holidays—create lumpy quarterly results.
+For investors evaluating the company, the [10-K](/wiki/10-k/) filing reveals the critical metrics: gross margin trend, revenue per employee (a proxy for recruiting productivity and pricing power), [days sales outstanding](/days-sales-outstanding/) (how quickly clients pay), client concentration, and geographic revenue mix. Seasonal patterns—stronger in manufacturing seasons, weaker in summer and winter holidays—create lumpy quarterly results.
 
 ## At a glance
 

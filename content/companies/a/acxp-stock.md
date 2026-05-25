@@ -20,7 +20,7 @@ The company's most advanced candidate is ibezapolstat, targeting an enzyme calle
 
 ## How is this company capitalized and where do dollars come from?
 
-Acurx went public via initial public offering on the NASDAQ under the ticker ACXP. Like most clinical-stage biotech firms, it burns cash funding research and development, clinical trials, regulatory interactions, and corporate overhead. Revenue is minimal—the company doesn't have approved drugs generating sales. Capital comes from its public equity, grant funding, potential collaborations, and debt markets. The company's financial runway and ability to reach clinical milestones are central concerns for shareholders.
+Acurx went public via [initial public offering](/initial-public-offering/) on the [NASDAQ](/nasdaq/) under the ticker ACXP. Like most clinical-stage biotech firms, it burns cash funding research and development, clinical trials, regulatory interactions, and corporate overhead. Revenue is minimal—the company doesn't have approved drugs generating sales. Capital comes from its public equity, grant funding, potential collaborations, and debt markets. The company's financial runway and ability to reach clinical milestones are central concerns for shareholders.
 
 ## Why does antibiotic development matter?
 
@@ -28,4 +28,4 @@ Antibiotic-resistant bacteria represent a mounting public-health threat. Infecti
 
 ## How does this fit into investing frameworks?
 
-Acurx is high-risk, high-upside biotech. If ibezapolstat succeeds in late-stage trials and wins approval, and if it achieves meaningful uptake, share value could appreciate substantially. Conversely, clinical trial failures, regulatory setbacks, or competitive entry can destroy shareholder value rapidly. The company's balance sheet and cash burn rate dictate how many quarters of runway it has before requiring additional financing—a dilutive event that can pressure stock price. Due diligence here requires examining trial data readouts, the patent landscape, clinical-trial timelines, and [10-K](/wiki/10-k/) assumptions.
+Acurx is high-risk, high-upside biotech. If ibezapolstat succeeds in late-stage trials and wins approval, and if it achieves meaningful uptake, share value could appreciate substantially. Conversely, clinical trial failures, regulatory setbacks, or competitive entry can destroy shareholder value rapidly. The company's [balance sheet](/balance-sheet/) and cash burn rate dictate how many quarters of runway it has before requiring additional financing—a dilutive event that can pressure stock price. Due diligence here requires examining trial data readouts, the patent landscape, clinical-trial timelines, and [10-K](/wiki/10-k/) assumptions.

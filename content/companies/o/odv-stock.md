@@ -18,7 +18,7 @@ Osisko traces its lineage to ventures in the Abitibi greenstone belt and Quebec,
 
 ## What Osisko does
 
-The company is, fundamentally, a holder and developer of mineral claims and concessions. Its principal asset is Cariboo—a substantial Au-Cu-Ag property in south-central British Columbia with a resource estimate that defines its upside case. Osisko's day-to-day work consists of drilling, geotechnical assessment, permitting engagement with provincial and federal regulators, and capital management. The firm operates as a junior in the sector: dependent on equity financing, subject to commodity price exposure, and oriented toward eventual sale, merger, or IPO-funded transition to an operating mine.
+The company is, fundamentally, a holder and developer of mineral claims and concessions. Its principal asset is Cariboo—a substantial Au-Cu-Ag property in south-central British Columbia with a resource estimate that defines its upside case. Osisko's day-to-day work consists of drilling, geotechnical assessment, permitting engagement with provincial and federal regulators, and capital management. The firm operates as a junior in the sector: dependent on [equity financing](/equity-financing/), subject to commodity price exposure, and oriented toward eventual sale, [merger](/merger/), or IPO-funded transition to an operating mine.
 
 ## The development-stage reality
 
@@ -30,7 +30,7 @@ The Cariboo asset is the company's center of gravity. Located in the Quesnel Tro
 
 ## Capital and continuity
 
-Osisko exists through financing cycles. It must raise capital at intervals to fund exploration and carry the organization. Share dilution, market sentiment shifts, and commodity-price stress all bear on the equity. The company's longevity depends on disciplined burn rates, successful milestones that attract farther rounds, and, ideally, partnerships or options with larger players that derisk the path forward.
+Osisko exists through financing cycles. It must raise capital at intervals to fund exploration and carry the organization. [Share dilution](/share-dilution/), market sentiment shifts, and commodity-price stress all bear on the equity. The company's longevity depends on disciplined burn rates, successful milestones that attract farther rounds, and, ideally, partnerships or options with larger players that derisk the path forward.
 
 The transition from "advanced exploration" to "constructing a mine" is the critical hinge. Many junior projects stall or are abandoned; a minority reach production. Osisko's success is measured not on gold poured, but on achieving such a decision and securing the capital to fund it.
 

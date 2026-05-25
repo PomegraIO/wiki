@@ -48,7 +48,7 @@ This is not a typical NIMBY dispute; it is a clash between legitimate resource d
 
 ## How to research Northern Dynasty
 
-Start with the company's filings at the SEC (CIK 1164771). The most recent annual report and MD&A will detail the status of permitting, the Sumitomo partnership terms, and the company's cash position and burn rate. Pay close attention to cash runway and how long current funding can sustain operations without new capital raises.
+Start with the company's filings at the SEC (CIK 1164771). The most recent [annual report](/10-k/) and MD&A will detail the status of permitting, the Sumitomo partnership terms, and the company's cash position and burn rate. Pay close attention to cash runway and how long current funding can sustain operations without new capital raises.
 
 Read recent court filings and press releases on the Section 404(c) litigation. The outcome will essentially determine whether the project can advance; a loss, even appealed, dramatically reduces NAK's value. Conversely, a win does not guarantee the project moves forward (state and local permits remain outstanding), but it removes the largest regulatory barrier.
 

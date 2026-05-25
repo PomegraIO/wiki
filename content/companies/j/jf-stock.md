@@ -32,7 +32,7 @@ The core product portfolio centers on casual menswear and branded apparel under 
 
 ## Operating Structure and Revenue Streams
 
-The company derives revenue from two primary segments: wholesale and retail. The wholesale division supplies department store chains, shopping malls, and independent retailers across Asia-Pacific. The retail division encompasses company-operated stores in Hong Kong and occasionally other markets, along with online channels. Revenue recognition depends on the delivery point of goods to end-users in wholesale or on purchase in company-owned stores.
+The company derives revenue from two primary segments: wholesale and retail. The wholesale division supplies department store chains, shopping malls, and independent retailers across Asia-Pacific. The retail division encompasses company-operated stores in Hong Kong and occasionally other markets, along with online channels. [Revenue recognition](/revenue-recognition/) depends on the delivery point of goods to end-users in wholesale or on purchase in company-owned stores.
 
 Wholesale inherently carries lower gross margins but requires less capital investment in store operations and inventory management. Retail generates higher margins but demands real estate commitments, staff payroll, and markdown risk as unsold inventory must eventually be cleared. The company has historically managed this trade-off, though like much of the apparel sector, it faces pressure from changing consumer behavior and e-commerce disruption.
 
@@ -44,11 +44,11 @@ Competition comes not only from traditional department store brands but increasi
 
 ## Financial and Operational Challenges
 
-Like many mid-tier apparel retailers, J & Friends faces cyclical headwinds. Inventory risk in casual menswear requires careful buying decisions; overstock leads to forced markdowns and margin erosion. The wholesale channel adds customer concentration risk—a major retailer pulling back orders can significantly impact quarterly results.
+Like many mid-tier apparel retailers, J & Friends faces cyclical headwinds. Inventory risk in casual menswear requires careful buying decisions; overstock leads to forced markdowns and margin erosion. The wholesale channel adds customer [concentration risk](/concentration-risk/)—a major retailer pulling back orders can significantly impact quarterly results.
 
 The company operates with typically thin margins common to apparel retail. Rent, labor, and freight represent substantial fixed costs that are hard to adjust quickly when sales disappoint. E-commerce fulfillment and logistics, increasingly expected by customers, add operational complexity.
 
-Regulatory and labor cost pressures in Hong Kong, combined with manufacturing cost inflation in China and Southeast Asia, squeeze profitability further. Currency fluctuations between the Hong Kong dollar (pegged to the US dollar) and costs incurred in other currencies add another layer of exposure.
+Regulatory and labor cost pressures in Hong Kong, combined with manufacturing cost [inflation](/inflation/) in China and Southeast Asia, squeeze profitability further. Currency fluctuations between the [Hong Kong dollar](/hong-kong-dollar/) (pegged to the [US dollar](/us-dollar/)) and costs incurred in other currencies add another layer of exposure.
 
 ## Ownership and Governance
 
@@ -56,9 +56,9 @@ J & Friends is a Hong Kong-listed company with ownership structure typical of fa
 
 ## Research and Monitoring
 
-Investors analyzing J & Friends should examine the quarterly wholesale order flow and department store health across its key markets. Retail comparable-store sales and markdown rates reveal whether the merchandise assortment resonates with consumers. Inventory turnover and days-inventory-outstanding track how efficiently stock is converting; deterioration signals demand softness or buying errors.
+Investors analyzing J & Friends should examine the quarterly wholesale order flow and department store health across its key markets. Retail comparable-store sales and markdown rates reveal whether the merchandise assortment resonates with consumers. [Inventory turnover](/inventory-turnover/) and days-inventory-outstanding track how efficiently stock is converting; deterioration signals demand softness or buying errors.
 
-Operating margin trends, particularly gross margin before selling expenses, show whether the company can hold pricing or is forced to mark down. The debt-to-capital ratio and cash generation (free cash flow) indicate whether the business generates cash to fund growth or requires capital injections to survive downturns. In apparel, working capital swings are significant—peak season requires heavy inventory financing before holiday sales collections arrive.
+[Operating margin](/operating-margin/) trends, particularly gross margin before selling expenses, show whether the company can hold pricing or is forced to mark down. The [debt-to-capital ratio](/debt-to-capital-ratio/) and cash generation ([free cash flow](/free-cash-flow/)) indicate whether the business generates cash to fund growth or requires capital injections to survive downturns. In apparel, working capital swings are significant—peak season requires heavy inventory financing before holiday sales collections arrive.
 
 Compare J & Friends to larger regional apparel players and to more specialized menswear or casual wear retailers to contextualize its competitive position. Monitor news of major wholesale customer changes or store closures, which can signal broader market trouble ahead.
 

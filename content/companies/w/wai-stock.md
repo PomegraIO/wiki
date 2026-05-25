@@ -38,12 +38,12 @@ Each segment faces different pressures. Strategic consulting is margin-sensitive
 
 ## Risks and Realities
 
-Consulting firms of this size face structural headwinds. Client concentration risk is high—loss of a single large client can materially impact revenue. Talent retention is difficult; experienced consultants are constantly recruited by larger firms. Regulatory uncertainty in China adds to business risk, especially given periodic shifts in policy affecting foreign business activities.
+Consulting firms of this size face structural headwinds. Client [concentration risk](/concentration-risk/) is high—loss of a single large client can materially impact revenue. Talent retention is difficult; experienced consultants are constantly recruited by larger firms. Regulatory uncertainty in China adds to business risk, especially given periodic shifts in policy affecting foreign business activities.
 
-The firm's small footprint also means limited financial resources to weather downturns or invest in technology and innovation. Consulting margins are reasonable when utilization is high, but utilization varies with the business cycle and client demand.
+The firm's small footprint also means limited financial resources to weather downturns or invest in technology and innovation. Consulting margins are reasonable when utilization is high, but utilization varies with the [business cycle](/business-cycle/) and client demand.
 
 ## How to Research It
 
 For investors or stakeholders researching Top KingWin, the [10-K](/wiki/10-k/) filing is the primary source of audited financial information and risk disclosure. Look for trends in revenue per employee, client retention rates, and geographic concentration of revenue. [Public company](/wiki/public-company/) filings also reveal related-party transactions and officer compensation, which are important indicators of governance quality at small firms. Because the consulting business is relationship-driven, continuity of key employees and client roster stability matter more at this scale than at larger, more diversified service providers.
 
-The company's modest market cap and trading volume mean information asymmetry can be high. Institutional research coverage is likely minimal, making direct engagement with management and independent due diligence more important than relying on sell-side consensus.
+The company's modest [market cap](/market-capitalization/) and trading volume mean information asymmetry can be high. Institutional research coverage is likely minimal, making direct engagement with management and independent due diligence more important than relying on sell-side consensus.

@@ -24,6 +24,6 @@ Aureus Greenway was incorporated in 2023 and went public on the [Nasdaq Capital 
 
 - **Business model:** Membership-plus-daily-fee golf country clubs in Florida
 - **Revenue streams:** Memberships, green fees, food/beverage, pro shop, equipment rentals, instruction
-- **Market capitalization:** Micro-cap; Nasdaq Capital Market
+- **[Market capitalization](/market-capitalization/):** Micro-cap; [Nasdaq](/nasdaq/) Capital Market
 - **Sector:** Leisure and hospitality / golf and recreation
 - **Competitive edge:** Established multi-course portfolio in a major golf state; integrated club experience

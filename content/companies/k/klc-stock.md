@@ -34,7 +34,7 @@ The scale is meaningful: the company is a substantial employer (tens of thousand
 
 **Backup care.** The Salary Finance backup childcare service (acquired along with the platform) generates incremental revenue; employers pay for the service on behalf of their workforce, providing occasional emergency childcare access.
 
-Operating margins are modest. Labor is the largest cost category; the sector is labor-intensive, wage pressure is ongoing (particularly post-pandemic), and teacher turnover is high. Food, facility rent or mortgage, and utilities are other major line items. Regulatory compliance and insurance (liability, workers' compensation) add to the cost structure.
+[Operating margins](/operating-margin/) are modest. Labor is the largest cost category; the sector is labor-intensive, wage pressure is ongoing (particularly post-pandemic), and teacher turnover is high. Food, facility rent or mortgage, and utilities are other major line items. Regulatory compliance and insurance (liability, workers' compensation) add to the cost structure.
 
 ## Competitive position and challenges
 
@@ -55,7 +55,7 @@ The childcare market is highly fragmented. No single operator dominates national
 When evaluating KinderCare, look for:
 
 - **Average enrollment and occupancy rates** by brand and region. These drive revenue; growing occupancy on a stable cost base improves margins.
-- **Tuition price changes** and the company's ability to pass through wage inflation to parents. If wage growth outpaces tuition price increases, margins compress.
+- **Tuition price changes** and the company's ability to pass through wage [inflation](/inflation/) to parents. If wage growth outpaces tuition price increases, margins compress.
 - **Center-level economics.** Not all centers are equally profitable. The company reports on newly opened, maturing, and mature center payback periods and returns. Struggling locations drag on corporate performance.
 - **Employer contract retention and wins.** A change in major employer contracts (renewal losses, volume reductions) signals shifts in corporate childcare demand or pricing power.
 - **Staff turnover and wage trends.** High turnover increases training costs and disrupts centers. Rising wage expenses pressure margins unless offset by tuition or subsidy increases.
@@ -68,7 +68,7 @@ The business faces structural headwinds. Birth rates in the US have declined, re
 
 Supply-side pressure from wages and labor availability is persistent. The sector cannot easily raise tuition above what families and employers will pay; salary expectations must rise to compete. This creates a profit squeeze for operators.
 
-Consolidation risk is real. As larger operators struggle with margin compression, they may divest underperforming assets, sell off entire brands, or face acquisition pressure. Smaller, niche competitors (nonprofit networks, religious organizations, employer-operated centers) maintain local footholds and price competitively, limiting KinderCare's ability to raise prices uniformly.
+Consolidation risk is real. As larger operators struggle with margin compression, they may divest underperforming assets, sell off entire brands, or face [acquisition](/acquisition/) pressure. Smaller, niche competitors (nonprofit networks, religious organizations, employer-operated centers) maintain local footholds and price competitively, limiting KinderCare's ability to raise prices uniformly.
 
 Reputational risk is elevated in an industry where quality and safety are paramount. Any significant incident or quality-related litigation could damage enrollment and public perception quickly.
 

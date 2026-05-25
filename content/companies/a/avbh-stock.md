@@ -14,15 +14,15 @@ handwritten: true
 
 ## Commercial Credit and Real Estate
 
-The bank's portfolio centers on commercial loans to privately held businesses and real estate lending to investors and developers operating in California. Commercial loans go to contractors, professional service firms, and small manufacturers seeking credit from a lender with local market knowledge. Real estate lending focuses on acquisition and development financing for residential and commercial properties, with underwriting adapted to California's real estate dynamics. This concentrated focus means credit quality depends directly on the health of businesses and property values in the bank's geographic markets.
+The bank's portfolio centers on commercial loans to privately held businesses and real estate lending to investors and developers operating in California. Commercial loans go to contractors, professional service firms, and small manufacturers seeking credit from a lender with local market knowledge. Real estate lending focuses on [acquisition](/acquisition/) and development financing for residential and commercial properties, with underwriting adapted to California's real estate dynamics. This concentrated focus means credit quality depends directly on the health of businesses and property values in the bank's geographic markets.
 
 ## Deposits and Balance Sheet Structure
 
-Funding comes primarily from customer deposits gathered in the Bay Area, supplemented by borrowings from Federal Home Loan Banks and other wholesale sources. The bank maintains modest scale—typical of regional institutions—with assets and equity that reflect its niche positioning. Capital adequacy and loan loss reserves are monitored by regulators to ensure the bank can absorb credit losses without threatening depositor safety. Interest income from the loan portfolio less deposit costs drives profitability, with loan quality and deposit competition being the primary profit drivers.
+Funding comes primarily from customer deposits gathered in the Bay Area, supplemented by borrowings from Federal Home Loan Banks and other wholesale sources. The bank maintains modest scale—typical of regional institutions—with assets and equity that reflect its niche positioning. [Capital adequacy](/capital-adequacy/) and loan loss reserves are monitored by regulators to ensure the bank can absorb credit losses without threatening depositor safety. Interest income from the loan portfolio less deposit costs drives profitability, with loan quality and deposit competition being the primary profit drivers.
 
 ## Position in a Consolidating Sector
 
-Avidbank operates in the regional banking segment, a category that has shrunk through decades of consolidation. The bank competes against larger national players and other community banks, competing on service quality and credit decisions rather than price or scale. Macroeconomic conditions, interest rate environments, and California-specific business cycles directly influence borrower health and the bank's earnings.
+Avidbank operates in the regional banking segment, a category that has shrunk through decades of consolidation. The bank competes against larger national players and other community banks, competing on service quality and credit decisions rather than price or scale. Macroeconomic conditions, [interest rate](/interest-rate/) environments, and California-specific [business cycles](/business-cycle/) directly influence borrower health and the bank's earnings.
 
 ## At a glance
 

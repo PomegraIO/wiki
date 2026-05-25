@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Neo-Concept International Group Holdings (NCI) is a Hong Kong-based apparel supply chain services company and retailer that went public on the Nasdaq Capital Market in April 2024. The company operates as an intermediary between fashion brands and factories, offering design, material sourcing, production management, and logistics services. It also owns and operates a small retail presence in the UK under the "les 100 ciels" brand.
+Neo-Concept International Group Holdings (NCI) is a Hong Kong-based apparel supply chain services company and retailer that went public on the [Nasdaq](/nasdaq/) Capital Market in April 2024. The company operates as an intermediary between fashion brands and factories, offering design, material sourcing, production management, and logistics services. It also owns and operates a small retail presence in the UK under the "les 100 ciels" brand.
 
 ## The Core Business
 
@@ -19,7 +19,7 @@ The company also operates a smaller direct-to-consumer segment through "les 100 
 
 ## Scale and Positioning
 
-NCI is decidedly small. At the time of its IPO in 2024, the company had 24 employees. The IPO itself raised roughly $9 million gross, later supplemented by a February 2026 secondary offering that raised approximately $8.1 million. The company emphasizes sustainability practices—recycled materials, cleaner production processes, and traceable sourcing—as a differentiator within the apparel supply chain, though scale limits the depth of such claims.
+NCI is decidedly small. At the time of its IPO in 2024, the company had 24 employees. The IPO itself raised roughly $9 million gross, later supplemented by a February 2026 [secondary offering](/secondary-offering/) that raised approximately $8.1 million. The company emphasizes sustainability practices—recycled materials, cleaner production processes, and traceable sourcing—as a differentiator within the apparel supply chain, though scale limits the depth of such claims.
 
 The firm positions itself as a "one-stop solution," handling multiple steps that clients might otherwise coordinate separately. This vertical integration within the supply chain is appealing to smaller and mid-sized brands seeking simplified procurement, though larger multinational clients often manage such relationships directly.
 
@@ -27,7 +27,7 @@ The firm positions itself as a "one-stop solution," handling multiple steps that
 
 The apparel supply chain is highly commoditized, with established competitors ranging from multinational trading houses to regional Hong Kong-based firms. NCI entered the public markets at an unfavorable time: it priced its IPO at $4 per share—the low end of the indicated range—in April 2024. Despite an initial surge of roughly 137% on the first day, the stock declined sharply. By February 2026, when the company conducted a secondary offering at $0.5454 per share, the valuation had collapsed to one-seventh of the IPO price.
 
-This sharp decline reflects both the challenging post-IPO environment for small-cap stocks and specific skepticism about NCI's competitive positioning and growth prospects. A company raising capital at pennies per share less than two years after a public offering signals serious questions from the market about business viability and differentiation. The apparel industry has also faced structural headwinds from slowdowns in consumer discretionary spending and shifts in sourcing patterns.
+This sharp decline reflects both the challenging post-IPO environment for small-cap stocks and specific skepticism about NCI's competitive positioning and growth prospects. A company raising capital at pennies per share less than two years after a public offering signals serious questions from the market about business viability and differentiation. The apparel industry has also faced structural headwinds from slowdowns in consumer [discretionary spending](/discretionary-spending/) and shifts in sourcing patterns.
 
 ## What to Watch
 

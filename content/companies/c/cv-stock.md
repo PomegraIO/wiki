@@ -31,7 +31,7 @@ Product development is ongoing—improvements to image quality, capsule durabili
 
 ## At a Glance
 
-- **Ticker & Exchange:** CV, typically traded on Nasdaq
+- **Ticker & Exchange:** CV, typically traded on [Nasdaq](/nasdaq/)
 - **Sector:** Medical devices, specifically diagnostic imaging
 - **Business Model:** Capsule endoscopy hardware and disposable capsules; recurring consumable revenue
 - **Primary Products:** PillCam and related capsule endoscopy systems

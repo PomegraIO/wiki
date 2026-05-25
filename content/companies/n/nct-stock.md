@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-Intercont is a small, newly public Cayman-incorporated shipping company founded in 2023 and headquartered in Hong Kong. The enterprise operates two primary business lines: maritime time chartering and vessel management, with an early-stage initiative to develop a seaborne pulp-manufacturing operation. It went public on the Nasdaq Capital Market in March 2025, raising about $10.5 million at $7 per share. Since then, it has faced [Nasdaq listing compliance challenges](/wiki/nasdaq-capital-market/) and executed a 25-for-1 reverse split in April 2026 to restore minimum bid price compliance.
+Intercont is a small, newly public Cayman-incorporated shipping company founded in 2023 and headquartered in Hong Kong. The enterprise operates two primary business lines: maritime time chartering and vessel management, with an early-stage initiative to develop a seaborne pulp-manufacturing operation. It went public on the [Nasdaq](/nasdaq/) Capital Market in March 2025, raising about $10.5 million at $7 per share. Since then, it has faced [Nasdaq listing compliance challenges](/wiki/nasdaq-capital-market/) and executed a 25-for-1 reverse split in April 2026 to restore minimum bid price compliance.
 
 ## The Core Shipping Business
 
@@ -44,16 +44,16 @@ Beyond shipping, Intercont has announced plans to diversify into green shippingâ
 
 ## Regulatory and Liquidity Challenges
 
-The company's path as a public entity has been strained. In December 2025, Nasdaq notified Intercont that its ordinary share price had fallen below the $1.00 minimum bid threshold for 30 consecutive trading days. To regain compliance, the company executed a 25-for-1 reverse split effective April 2, 2026. Post-reverse-split share prices remained well under $5, reflecting continued investor skepticism about the company's ability to grow revenue and achieve profitability. The capital markets have afforded the company little goodwill beyond the IPO window.
+The company's path as a public entity has been strained. In December 2025, Nasdaq notified Intercont that its ordinary share price had fallen below the $1.00 minimum bid threshold for 30 consecutive trading days. To regain compliance, the company executed a 25-for-1 reverse split effective April 2, 2026. Post-reverse-split share prices remained well under $5, reflecting continued investor skepticism about the company's ability to grow revenue and achieve profitability. The capital markets have afforded the company little [goodwill](/goodwill/) beyond the IPO window.
 
 ## Financial and Operational Position
 
 Public filings through 2025 show that Intercont remains pre-revenue or early-revenue in most operations. The seaborne pulping unit has not shipped commercial cargo. Vessel utilization in the time-charter business has been inconsistent, driven by seasonal volatility and cyclical shipping rates. The company holds minimal cash reserves relative to its ambitions, relying on operating cash flow and lease financing to support fleet expansion.
 
-Because Intercont is newly public and small, comprehensive financial metrics are limited; readers should consult the firm's [10-K filings](/wiki/10-k/) on the SEC EDGAR database (CIK 2,018,529) for unaudited interim results and the most current balance sheet and P&L data. Form 6-K filings capture periodic updates and management commentary.
+Because Intercont is newly public and small, comprehensive financial metrics are limited; readers should consult the firm's [10-K filings](/wiki/10-k/) on the SEC EDGAR database (CIK 2,018,529) for unaudited interim results and the most current [balance sheet](/balance-sheet/) and P&L data. Form 6-K filings capture periodic updates and management commentary.
 
 ## Research and Risk
 
 For investors or analysts evaluating Intercont, the core risk is execution: a startup shipping operator with an unproven factory-ship model, limited capital, and a thinly traded stock faces both operational and market-liquidity headwinds. The seaborne pulping concept is novel enough that early deployment will be closely watched, but no guarantee of profitability or market acceptance exists. Traditional shipping is cyclical and capital-intensive; Intercont's small size and capital structure offer no structural advantage in a downturn.
 
-Watch points include fleet utilization rates, the timing and economics of the seaborne pulping launch, any new vessel acquisitions or charters, and cash-burn rates relative to available liquidity. The company's ability to fund growth without dilutive equity offerings, to secure long-term charter contracts at profitable rates, and to execute the factory-ship model without major cost overruns will be central to long-term viability.
+Watch points include fleet utilization rates, the timing and economics of the seaborne pulping launch, any new vessel [acquisitions](/acquisition/) or charters, and cash-burn rates relative to available liquidity. The company's ability to fund growth without dilutive equity offerings, to secure long-term charter contracts at profitable rates, and to execute the factory-ship model without major cost overruns will be central to long-term viability.

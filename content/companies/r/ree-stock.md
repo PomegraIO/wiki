@@ -11,7 +11,7 @@ handwritten: true
 
 REE Automotive is an Israeli company developing a radically different approach to electric commercial vehicles. Instead of adapting existing truck and bus architectures to battery power, REE has engineered modular platforms from scratch around a central innovation: the "REEcorner," a by-wire corner module that integrates steering, suspension, propulsion, and braking into a single, swappable unit. This architecture aims to reduce component count, accelerate time-to-market for customers, and enable a single platform to support multiple vehicle classes—from light commercial vans to heavy-duty trucks and buses.
 
-The company is based in Modiin, Israel, and went public in 2021 via a merger with a special-purpose acquisition company (SPAC). It trades on the NASDAQ under the ticker REE. The firm's vision is to become a kind of "platform as a service" for commercial vehicle makers, providing the building blocks while allowing partners to integrate their own cabins, drivetrains variants, and branding—much like how different automakers can build on a shared chassis platform.
+The company is based in Modiin, Israel, and went public in 2021 via a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC). It trades on the [NASDAQ](/nasdaq/) under the ticker REE. The firm's vision is to become a kind of "platform as a service" for commercial vehicle makers, providing the building blocks while allowing partners to integrate their own cabins, drivetrains variants, and branding—much like how different automakers can build on a shared chassis platform.
 
 ## Why the REEcorner Matters
 
@@ -31,7 +31,7 @@ The addressable market is real: global demand for electric commercial vehicles i
 
 ## Capital Needs and Runway
 
-Since going public via SPAC in 2021, REE has raised capital through follow-on offerings and has access to the public debt markets, though borrowing costs depend on investor sentiment and the company's cash burn rate. To reach volume production, REE will likely need to raise additional capital—either through equity issuance, debt, or strategic partnerships that bring cash. The company's cash position and burn rate are disclosed quarterly in SEC filings; anyone considering investment should review these figures carefully, as a shortfall could force dilutive financing or a merger with a better-capitalized partner.
+Since going public via SPAC in 2021, REE has raised capital through [follow-on offerings](/follow-on-offering/) and has access to the [public debt](/public-debt/) markets, though borrowing costs depend on investor sentiment and the company's cash burn rate. To reach volume production, REE will likely need to raise additional capital—either through equity issuance, debt, or strategic partnerships that bring cash. The company's cash position and burn rate are disclosed quarterly in SEC filings; anyone considering investment should review these figures carefully, as a shortfall could force dilutive financing or a merger with a better-capitalized partner.
 
 ## Research and Due Diligence
 

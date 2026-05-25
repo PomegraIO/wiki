@@ -25,7 +25,7 @@ Acrivon is a clinical-stage enterprise, meaning it has no marketed drugs and gen
 
 ## Who invests in companies like this?
 
-Acrivon's shareholder base includes traditional biotech-focused mutual funds, hedge funds, and individual investors betting on the company's differentiated AP3 platform and oncology thesis. Like most clinical-stage biotechs, ACRV stock is volatile—swings driven by trial readouts, regulatory feedback, financing announcements, and broader sentiment toward early-stage therapeutics. Institutional investors in this space typically perform deep diligence on the science, management pedigree, and capital efficiency. The company's public [10-K](/wiki/10-k/) filing details burn rate, clinical progress, and intellectual property position; serious investors read these carefully.
+Acrivon's shareholder base includes traditional biotech-focused [mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/), and individual investors betting on the company's differentiated AP3 platform and oncology thesis. Like most clinical-stage biotechs, ACRV stock is volatile—swings driven by trial readouts, regulatory feedback, financing announcements, and broader sentiment toward early-stage therapeutics. Institutional investors in this space typically perform deep diligence on the science, management pedigree, and capital efficiency. The company's public [10-K](/wiki/10-k/) filing details burn rate, clinical progress, and intellectual property position; serious investors read these carefully.
 
 ## What are the key risks?
 

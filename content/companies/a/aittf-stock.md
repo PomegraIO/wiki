@@ -16,7 +16,7 @@ The firm operates as a vehicle for investors to participate in the identificatio
 
 Investment Strategy
 
-The company targets opportunities at the intersection of emerging technology and established industries, with particular emphasis on the medical and biomedical sectors. Its mandate centers on identifying undervalued assets or businesses that can leverage artificial intelligence, quantum computing, or similar innovations to achieve accelerated growth and competitive advantage. The capital pool structure allows Trenchant Technologies to approach such acquisitions with flexibility in timing and terms, aiming to complete a qualifying transaction that transforms the parent entity into an operating company.
+The company targets opportunities at the intersection of emerging technology and established industries, with particular emphasis on the medical and biomedical sectors. Its mandate centers on identifying undervalued assets or businesses that can leverage artificial intelligence, quantum computing, or similar innovations to achieve accelerated growth and competitive advantage. The capital pool structure allows Trenchant Technologies to approach such [acquisitions](/acquisition/) with flexibility in timing and terms, aiming to complete a qualifying transaction that transforms the parent entity into an operating company.
 
 Recent Activity and Status
 
@@ -25,7 +25,7 @@ In 2026, Trenchant Technologies entered into a share exchange agreement to acqui
 At a glance
 
 - Canadian capital pool company (CPC) established in 2016
-- Headquarters in Vancouver; dual listing on CSE and US OTC
+- Headquarters in Vancouver; [dual listing](/dual-listing/) on CSE and US OTC
 - Focus on AI, quantum computing, and technology-enabled business models
 - Targets medical and biomedical sector applications
 - Recently unwound acquisition of Limitless Quantum Computing Solutions (April 2026)

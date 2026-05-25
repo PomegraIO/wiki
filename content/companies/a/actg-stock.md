@@ -17,7 +17,7 @@ Acacia Research operates as a [public company](/wiki/public-company/) focused on
 
 ## How does the acquisition strategy work?
 
-Acacia takes an active management approach to its acquisitions rather than serving as a passive investor. The company maintains an operational team with deep expertise in manufacturing and industrial operations, allowing it to integrate acquired companies and drive performance improvements. This hands-on model means Acacia isn't simply buying companies and holding them—instead, it seeks opportunities where operational expertise and capital allocation can enhance returns. The firm focuses on opportunistic situations where market timing, distressed valuations, or underinvestment have created acquisition openings at attractive entry prices.
+Acacia takes an active management approach to its [acquisitions](/acquisition/) rather than serving as a passive investor. The company maintains an operational team with deep expertise in manufacturing and industrial operations, allowing it to integrate acquired companies and drive performance improvements. This hands-on model means Acacia isn't simply buying companies and holding them—instead, it seeks opportunities where operational expertise and capital allocation can enhance returns. The firm focuses on opportunistic situations where [market timing](/market-timing/), distressed valuations, or underinvestment have created acquisition openings at attractive entry prices.
 
 ## What kind of businesses does it own?
 
@@ -29,4 +29,4 @@ Acacia has a strategic relationship with Starboard Value, LP, which serves as th
 
 ## How would you research this company?
 
-Investors interested in Acacia should review its most recent [10-K](/wiki/10-k/) filing to understand current portfolio holdings, capital structure, and operational results. The 10-K provides the most complete picture of what subsidiaries the company owns, how returns are generated, and management's strategic direction for capital deployment. SEC filings also detail contingent liabilities, litigation, and risks associated with specific holdings. Acacia's investor relations materials typically discuss acquisition criteria and the rationale behind strategic holdings.
+Investors interested in Acacia should review its most recent [10-K](/wiki/10-k/) filing to understand current portfolio holdings, capital structure, and operational results. The 10-K provides the most complete picture of what subsidiaries the company owns, how returns are generated, and management's strategic direction for capital deployment. SEC filings also detail [contingent liabilities](/contingent-liabilities-government/), litigation, and risks associated with specific holdings. Acacia's investor relations materials typically discuss acquisition criteria and the rationale behind strategic holdings.

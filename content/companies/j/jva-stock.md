@@ -40,9 +40,9 @@ The company operates roasting facilities and has invested in equipment and autom
 
 ## How coffee commodity exposure shapes the business
 
-Coffee is a [commodity](/wiki/commodity/), traded globally in US dollars, with prices set by the [futures market](/wiki/commodity-futures-trading-commission/). JVA's input costs rise and fall with commodity coffee prices, a dynamic it must navigate through pricing power to customers (which is limited in competitive wholesale channels) and through hedging or inventory management.
+Coffee is a [commodity](/wiki/commodity/), traded globally in [US dollars](/us-dollar/), with prices set by the [futures market](/wiki/commodity-futures-trading-commission/). JVA's input costs rise and fall with commodity coffee prices, a dynamic it must navigate through pricing power to customers (which is limited in competitive wholesale channels) and through hedging or inventory management.
 
-When commodity coffee prices spike — driven by weather in Brazil or Colombia, currency moves, or shifts in global supply — JVA's gross margins get squeezed if it cannot immediately pass costs through to customers. Conversely, a sharp drop in green coffee costs can improve margins, but only if the company has already locked in customer pricing. This lag between input costs and customer pricing is a real operational risk for a low-margin wholesale business.
+When commodity coffee prices spike — driven by weather in Brazil or Colombia, currency moves, or shifts in global supply — JVA's gross margins get squeezed if it cannot immediately pass costs through to customers. Conversely, a sharp drop in green coffee costs can improve margins, but only if the company has already locked in customer pricing. This lag between input costs and customer pricing is a real [operational risk](/operational-risk/) for a low-margin wholesale business.
 
 The company also carries inventory risk. Roasted coffee does not keep forever — it degrades in flavor over weeks and months — so JVA must balance holding enough roasted stock to service customer orders quickly while not overstocking in a way that forces markdowns or waste.
 
@@ -52,7 +52,7 @@ Coffee Holding faces structural headwinds that frame its future. The coffee indu
 
 The rise of single-serve coffee pods and alternative brewing methods (cold brew concentrate, espresso capsules) has fragmented what was once a simpler market. Specialty coffee and third-wave roasting have also created a perception that mass-produced wholesale coffee is ordinary, even though JVA's products are often high quality. Marketing a wholesale-only brand is an uphill battle.
 
-Labor costs, energy (critical for roasting), and logistics also bear down on margins. A small wholesaler with limited scale cannot negotiate input costs as effectively as a Nestlé or a Starbucks can. Freight and shipping inflation hit harder for a company with thin margins. The business is not in secular decline, but it is not in a growth phase, either — it competes on execution and customer retention rather than market expansion.
+Labor costs, energy (critical for roasting), and logistics also bear down on margins. A small wholesaler with limited scale cannot negotiate input costs as effectively as a Nestlé or a Starbucks can. Freight and shipping [inflation](/inflation/) hit harder for a company with thin margins. The business is not in secular decline, but it is not in a growth phase, either — it competes on execution and customer retention rather than market expansion.
 
 ## What to watch in the 10-K
 
@@ -60,7 +60,7 @@ Anyone researching Coffee Holding should start with its [10-K filing](/wiki/10-k
 
 - **Gross margins and pricing dynamics.** How is the company managing the gap between commodity input costs and what it can charge customers? Margin compression over consecutive quarters is a warning sign.
 - **Customer concentration.** Is the company overly dependent on a handful of large retail partners? A loss of a major customer can crater revenue.
-- **Inventory turnover and aging.** Roasted coffee in inventory that sits too long is a liability. Track days of inventory and inventory levels relative to sales.
+- **[Inventory turnover](/inventory-turnover/) and aging.** Roasted coffee in inventory that sits too long is a liability. Track days of inventory and inventory levels relative to sales.
 - **Segment mix.** Private-label revenue versus branded revenue tells a story about customer pricing power and growth potential.
 - **Geographic exposure.** If most revenue is concentrated in a few regions, the company is vulnerable to local economic shifts or distributor consolidation.
 

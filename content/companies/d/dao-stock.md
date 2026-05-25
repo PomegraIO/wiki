@@ -28,7 +28,7 @@ Youdao operates in a hypercompetitive Chinese edtech sector. Major competitors i
 
 Unlike tutoring platforms that fell under regulatory restrictions in 2021 (prohibiting for-profit K-12 tutoring), Youdao's model as a software-first platform offering structured courses and devices has proven more flexible. The company is not classified primarily as a tutoring service but as an educational technology provider, which gave it regulatory cover while some competitors faced restrictions on profitability and growth.
 
-NetEase ownership provides advantages. NetEase's gaming and technology infrastructure, combined with its financial resources, support Youdao's product development and marketing. NetEase also feeds user traffic through its games and portals, reducing customer acquisition costs. However, Youdao operates as a legally distinct listed company (traded on the New York Stock Exchange under ticker DAO), not merely a subsidiary brand.
+NetEase ownership provides advantages. NetEase's gaming and technology infrastructure, combined with its financial resources, support Youdao's product development and marketing. NetEase also feeds user traffic through its games and portals, reducing customer [acquisition](/acquisition/) costs. However, Youdao operates as a legally distinct listed company (traded on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker DAO), not merely a subsidiary brand.
 
 ## Pressures and Risks
 

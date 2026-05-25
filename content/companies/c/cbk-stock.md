@@ -12,7 +12,7 @@ handwritten: true
 
 **Commercial Bancgroup operates a community bank serving the Southeast through traditional lending, deposits, and financial services.**
 
-Commercial Bancgroup, Inc. is a Tennessee-based bank holding company that operates Commercial Bank, a regional community bank with a presence across Kentucky, North Carolina, and Tennessee. The company was incorporated in 1975 and went public on the Nasdaq Capital Market in October 2025 under the ticker CBK, marking the bank's entry into the public markets after decades as a private institution.
+Commercial Bancgroup, Inc. is a Tennessee-based bank holding company that operates Commercial Bank, a regional community bank with a presence across Kentucky, North Carolina, and Tennessee. The company was incorporated in 1975 and went public on the [Nasdaq](/nasdaq/) Capital Market in October 2025 under the ticker CBK, marking the bank's entry into the public markets after decades as a private institution.
 
 ## The bank at its core
 
@@ -28,11 +28,11 @@ Commercial Bank's footprint in Kentucky, North Carolina, and Tennessee puts it s
 
 ## The competitive position
 
-As a smaller regional [bank holding company](/wiki/public-company/), Commercial Bancgroup faces competition from larger national [stock](/wiki/stock/) banks (JPMorgan Chase, Bank of America), superregional competitors, and an increasingly fragmented landscape of digital banks and fintech lenders. Its moat lies not in technology or brand scale but in embedded relationships, local presence, and understanding of its regional markets. Mortgage lending, a core product, faces both traditional competition and the wave of online lenders. Commercial's sustainability depends on retaining its deposit base and maintaining credit quality while slowly growing loan books in markets where it is known.
+As a smaller regional [bank holding company](/wiki/public-company/), Commercial Bancgroup faces competition from larger national [stock](/wiki/stock/) banks ([JPMorgan Chase](/jpmorgan-chase/), [Bank of America](/bank-of-america/)), superregional competitors, and an increasingly fragmented landscape of digital banks and fintech lenders. Its moat lies not in technology or brand scale but in embedded relationships, local presence, and understanding of its regional markets. Mortgage lending, a core product, faces both traditional competition and the wave of online lenders. Commercial's sustainability depends on retaining its deposit base and maintaining credit quality while slowly growing loan books in markets where it is known.
 
 ## What the public markets mean
 
-Going public in late 2025 provided liquidity to founders and early investors while offering Commercial a path to raise capital for growth. For a bank that has operated privately for fifty years, public markets bring regulatory scrutiny, quarterly earnings pressure, and the need to manage [shareholder](/wiki/public-company/) expectations. The initial IPO price of $24 per share reflected investor appetite for community banking exposure, though long-term performance will hinge on the company's ability to manage credit risk, grow deposits, and navigate inevitable economic cycles.
+Going public in late 2025 provided liquidity to founders and early investors while offering Commercial a path to raise capital for growth. For a bank that has operated privately for fifty years, public markets bring regulatory scrutiny, quarterly earnings pressure, and the need to manage [shareholder](/wiki/public-company/) expectations. The initial IPO price of $24 per share reflected investor appetite for community banking exposure, though long-term performance will hinge on the company's ability to manage [credit risk](/credit-risk/), grow deposits, and navigate inevitable economic cycles.
 
 ## At a glance
 

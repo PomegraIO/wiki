@@ -19,7 +19,7 @@ Super Hi operates what is essentially a scaled-service restaurant chain with mid
 
 Unit economics in international markets diverge materially from mainland China. Real estate, labor, and regulatory costs are substantially higher in Hong Kong and Singapore than in tier-2 Chinese cities. Average check sizes can be competitive, but tight margin structures require disciplined expansion. Super Hi operates roughly 50-100 restaurants depending on the reporting period, with the bulk concentrated in Hong Kong and Singapore where the brand has deepest penetration and the wealthiest customer bases.
 
-The customer base skews toward middle-to-upper-income diners: business meals, celebrations, and tourists seeking the Haidilao brand experience. Repeat visitation is strong in established markets, but acquisition costs and competitive intensity in Singapore and Hong Kong prevent the unit economics from rivaling profitable chains in lower-cost jurisdictions.
+The customer base skews toward middle-to-upper-income diners: business meals, celebrations, and tourists seeking the Haidilao brand experience. Repeat visitation is strong in established markets, but [acquisition](/acquisition/) costs and competitive intensity in Singapore and Hong Kong prevent the unit economics from rivaling profitable chains in lower-cost jurisdictions.
 
 ## Origin and Strategic Intent
 
@@ -45,8 +45,8 @@ Anyone researching Super Hi should focus on [same-store sales](/wiki/same-store-
 
 Cash flow is critical. Despite being smaller than the parent, Super Hi must fund international expansion while maintaining service standards. Debt levels, lease obligations, and capital intensity per restaurant determine whether growth is self-funding or requires dilutive equity raises.
 
-The parent company's performance and strategic decisions ripple through Super Hi—supply chain disruptions, brand positioning shifts, or dividend policy of the parent affect Super Hi's optionality. Watch regulatory filings and disclosures about related-party transactions and royalty payments to the parent for signs of economic tension.
+The parent company's performance and strategic decisions ripple through Super Hi—supply chain disruptions, brand positioning shifts, or [dividend](/dividend/) policy of the parent affect Super Hi's optionality. Watch regulatory filings and disclosures about related-party transactions and royalty payments to the parent for signs of economic tension.
 
-Currency exposure is non-trivial: Super Hi reports in Hong Kong dollars but operates across multiple Asian currencies. A strong Hong Kong dollar or significant CNY moves can impact reported results and profitability of non-HK operations.
+Currency exposure is non-trivial: Super Hi reports in [Hong Kong dollars](/hong-kong-dollar/) but operates across multiple Asian currencies. A strong Hong Kong dollar or significant CNY moves can impact reported results and profitability of non-HK operations.
 
 Lastly, execution on new market entry (Japan, North America) matters less for near-term results than it does for long-term optionality. These remain experiments, not yet meaningful revenue drivers, but they test whether the Haidilao model can translate to non-Chinese, lower-hot-pot-awareness populations.

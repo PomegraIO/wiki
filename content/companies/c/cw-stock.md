@@ -54,7 +54,7 @@ Several headwinds constrain the business:
 
 **Defense spending cycles:** U.S. defense budgets are inherently political and cyclical. A slowdown in military modernization, a shift away from platforms that use CW subsystems, or a severe budget squeeze can compress demand quickly. Curtiss-Wright is not exposed to the structural booms in unmanned systems the way pure drone makers are; it remains tied to traditional platform refresh cycles.
 
-**Integration risk in M&A:** Curtiss-Wright has grown substantially through acquisition—of companies like Esterline (2018) and Meggitt (in an ongoing 2022-2023 process). Integrating these deals, retaining talent, and realizing synergies are material operational challenges. Large acquisitions can mask underlying organic growth weakness.
+**Integration risk in M&A:** Curtiss-Wright has grown substantially through acquisition—of companies like Esterline (2018) and Meggitt (in an ongoing 2022-2023 process). Integrating these deals, retaining talent, and realizing synergies are material operational challenges. Large [acquisitions](/acquisition/) can mask underlying organic growth weakness.
 
 **Industrial segment exposure:** The Industrial segment is more cyclical and competitive than Aerospace & Defense. Energy prices, capital spending by oil operators, and power generation demand all matter. A prolonged energy downturn will pressure margins and cash flow here.
 
@@ -70,6 +70,6 @@ Analyst reports from aerospace/defense specialists often illuminate platform cyc
 
 Quarterly earnings calls reveal management's reading of near-term demand, integration progress, and cash deployment priorities. Listen for discussion of new platform wins, contract extensions, and industrial segment organic growth rates.
 
-Valuation commonly trades on multiples of EBITDA or free cash flow, with a typical peer set including TransDigm, Heico, Esterline's predecessors (now part of CW post-acquisition), and other specialized aerospace suppliers. Compare CW's multiples, margins, and return on capital to peers to assess relative value and execution quality.
+Valuation commonly trades on multiples of [EBITDA](/ebitda/) or [free cash flow](/free-cash-flow/), with a typical peer set including TransDigm, Heico, Esterline's predecessors (now part of CW post-acquisition), and other specialized aerospace suppliers. Compare CW's multiples, margins, and return on capital to peers to assess relative value and execution quality.
 
 Watch the health of major platform programs—F-35, Super Hornet, Chinook helicopter, Virginia-class submarine, etc.—since CW's fortunes track the modernization priorities of the U.S. military. Annual defense budget debates and platform procurement cycles matter for multi-year planning.

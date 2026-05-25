@@ -40,12 +40,12 @@ The competitive threat is not new entrants but rather market saturation and slow
 
 China's economic slowdown and declining birth cohorts have compressed hiring growth, particularly among SMEs. Unemployment has remained elevated in recent years, which can dampen employer spending on recruitment tools when companies become more selective about hiring. Regulatory scrutiny of data collection, algorithmic matching, and employment practices in China poses ongoing compliance and reputational risks.
 
-Concentration of revenue among a relatively small number of large corporate customers creates customer concentration risk, though the subscription model and large customer base partially mitigate this. Churn risk exists if employers view the platform as commoditized or if a more efficient competitor emerges.
+Concentration of revenue among a relatively small number of large corporate customers creates customer [concentration risk](/concentration-risk/), though the subscription model and large customer base partially mitigate this. Churn risk exists if employers view the platform as commoditized or if a more efficient competitor emerges.
 
 The company operates in a market where pricing power is limited by competition and customer sensitivity to cost. While margins are strong, revenue growth depends on absolute hiring activity and the company's ability to expand features and upsell, neither of which is guaranteed in a slow-growth labor market.
 
 ## How to research this company
 
-The [/wiki/10-k/](/wiki/10-k/) annual filing provides detailed segmentation of revenue by customer cohort, geographic concentration, and customer acquisition costs. Compare historical gross margins and customer lifetime value trends to assess margin sustainability. Track quarterly user growth metrics (monthly active users, employer accounts, candidate base) from earnings calls and investor presentations—these are leading indicators of platform momentum and competitive positioning.
+The [/wiki/10-k/](/wiki/10-k/) annual filing provides detailed segmentation of revenue by customer cohort, geographic concentration, and customer [acquisition](/acquisition/) costs. Compare historical gross margins and customer lifetime value trends to assess margin sustainability. Track quarterly user growth metrics (monthly active users, employer accounts, candidate base) from earnings calls and investor presentations—these are leading indicators of platform momentum and competitive positioning.
 
 Watch for changes in hiring behavior across major Chinese industries and regions, particularly tech and manufacturing, as Kanzhun's revenue is highly correlated with overall employment activity in these sectors. Assess the competitive landscape through user download and engagement data available on third-party research platforms, which often reveal category trends more quickly than quarterly earnings.

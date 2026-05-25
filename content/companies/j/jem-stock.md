@@ -14,7 +14,7 @@ handwritten: true
 
 707 Cayman Holdings Limited is a Hong Kong–based apparel and supply chain services company. It operates from San Po Kong and sells and manufactures clothing for international clients, with a business model split between direct product sales and supply chain management solutions for mid-sized apparel brands.
 
-The company is very young. It was incorporated in 2021 in the Cayman Islands but conducts all meaningful operations through its Hong Kong subsidiary. In June 2025, it went public on Nasdaq under ticker JEM, raising $10 million gross ($5.2 million net after fees and expenses) through a 2.5 million share offering priced at $4 per share.
+The company is very young. It was incorporated in 2021 in the Cayman Islands but conducts all meaningful operations through its Hong Kong subsidiary. In June 2025, it went public on [Nasdaq](/nasdaq/) under ticker JEM, raising $10 million gross ($5.2 million net after fees and expenses) through a 2.5 million share offering priced at $4 per share.
 
 ## What products does it offer?
 
@@ -28,13 +28,13 @@ The customer base consists of mid-sized brand owners and private-label apparel c
 
 ## Why go public so recently?
 
-The company's IPO prospectus stated it intended to use net proceeds for brand acquisitions, marketing and customer acquisition, team expansion, digital infrastructure development, and general working capital. Since the June 2025 IPO, the company has had less than one year to deploy capital, but it faces immediate execution pressure.
+The company's IPO prospectus stated it intended to use net proceeds for brand [acquisitions](/acquisition/), marketing and customer acquisition, team expansion, digital infrastructure development, and general working capital. Since the June 2025 IPO, the company has had less than one year to deploy capital, but it faces immediate execution pressure.
 
 ## What is the current state of the stock?
 
 707 Cayman Holdings received a notification from Nasdaq in October 2025 stating it no longer meets the exchange's continued listing requirement: the stock must maintain a minimum bid price of $1.00 per share. The company was given a 180-calendar-day grace period to regain compliance, setting an April 15, 2026 deadline.
 
-In response, the company announced a 20-for-1 share consolidation effective in April 2026 to mechanically boost the per-share price. This is a standard and often-used remedy, but it does not address the underlying reason for the price weakness: the stock has suffered steep losses since the IPO.
+In response, the company announced a 20-for-1 [share consolidation](/share-consolidation/) effective in April 2026 to mechanically boost the per-share price. This is a standard and often-used remedy, but it does not address the underlying reason for the price weakness: the stock has suffered steep losses since the IPO.
 
 ## What challenges does the company face?
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-TransAlta is a Canadian power generator navigating a deliberate shift away from coal-fired generation toward a lower-carbon mix of natural gas, hydroelectric, wind, and battery storage capacity. Headquartered in Calgary, the company has been a fixture of Alberta's electricity sector for over a century, but recent years have brought significant structural change as it responds to both regulatory pressure and the economics of fuel transition.
+TransAlta is a Canadian power generator navigating a deliberate shift away from coal-fired generation toward a lower-carbon mix of [natural gas](/natural-gas/), hydroelectric, wind, and battery storage capacity. Headquartered in Calgary, the company has been a fixture of Alberta's electricity sector for over a century, but recent years have brought significant structural change as it responds to both regulatory pressure and the economics of fuel transition.
 
 The company operates across two broad segments: power generation (the core business) and renewable energy growth. At its largest, TransAlta owned and operated a cluster of coal stations that supplied much of Alberta's baseload power. That portfolio is actively shrinking. The company has committed to retiring several major coal units and has redirected capital toward wind farms, gas-fired plants, and emerging battery storage projects, mostly in Canada but with some exposure to the U.S. market as well.
 
@@ -18,7 +18,7 @@ The company operates across two broad segments: power generation (the core busin
 
 TransAlta's historical strength was rooted in coal. The company ran multiple large coal stations across Alberta—Sundance, Keephills, and Genesee were among the major names—which produced reliable, dispatchable power and fed income to shareholders through long-term contracts and the Alberta deregulated market. Coal was cheap, abundant in Canada, and suited to baseload demand. But that era is ending. Provincial climate policy, national emissions standards, aging fleet economics, and shifting investor sentiment have all pushed TransAlta to accelerate the exit.
 
-The logic is straightforward: coal plants are being legislated toward retirement, maintenance costs climb as they age, and the return on invested capital declines even as carbon regulations tighten. Rather than fight it, TransAlta has accepted the inevitability and is moving deliberately. This is not a sudden pivot—it has unfolded over more than a decade—but it is a real one. The company has published explicit timelines for coal phase-out, signaling credibility to regulators and investors alike.
+The logic is straightforward: coal plants are being legislated toward retirement, maintenance costs climb as they age, and the [return on invested capital](/return-on-invested-capital/) declines even as carbon regulations tighten. Rather than fight it, TransAlta has accepted the inevitability and is moving deliberately. This is not a sudden pivot—it has unfolded over more than a decade—but it is a real one. The company has published explicit timelines for coal phase-out, signaling credibility to regulators and investors alike.
 
 ## The New Portfolio: Gas, Wind, Hydro, and Storage
 
@@ -30,7 +30,7 @@ This combination is neither accidental nor static. TransAlta is not simply passi
 
 TransAlta's revenue comes from two primary channels: energy market sales and long-term power purchase agreements (PPAs). In the Alberta deregulated market, the company sells power at spot prices or through bilateral contracts, which creates both opportunity and risk. A high-price period can boost earnings materially; a low-price environment squeezes returns. To manage this volatility, TransAlta pursues long-term PPAs—essentially locking in sales for years ahead—particularly for wind and gas assets. These contracts provide cash flow visibility and lower execution risk.
 
-The company also has exposure to congestion revenue in transmission, ancillary services, and grid management fees, though these are typically smaller components. Depreciation is a material non-cash charge due to the asset-heavy nature of power generation; understanding a utility's free cash flow requires careful attention to capital expenditure requirements and how aggressively it invests in growth versus replacement.
+The company also has exposure to congestion revenue in transmission, ancillary services, and grid [management fees](/management-fee/), though these are typically smaller components. [Depreciation](/depreciation/) is a material non-cash charge due to the asset-heavy nature of power generation; understanding a utility's [free cash flow](/free-cash-flow/) requires careful attention to capital expenditure requirements and how aggressively it invests in growth versus replacement.
 
 TransAlta's profitability is driven by the spread between the cost of fuel (or wind variability cost, in the case of wind farms) and the revenue received. A coal plant's fuel economics are relatively stable and predictable; a wind farm's "fuel" is free but generation is weather-dependent. These different risk profiles matter to investors trying to model earnings.
 
@@ -50,19 +50,19 @@ One thing to watch: the speed and cost of renewable buildout, particularly stora
 
 ## Risks and Structural Pressures
 
-The obvious risk is energy market price collapse. If wholesale power prices fall sharply—due to oversupply, recession, or a surge of low-cost renewable generation—TransAlta's uncontracted revenue will suffer. This is why PPAs are so important; they lock in returns but at lower rates than spot trading in a bull market might offer.
+The obvious risk is energy market price collapse. If wholesale power prices fall sharply—due to oversupply, [recession](/recession/), or a surge of low-cost renewable generation—TransAlta's uncontracted revenue will suffer. This is why PPAs are so important; they lock in returns but at lower rates than spot trading in a [bull market](/bull-market/) might offer.
 
 A second structural risk is regulatory change. While climate policy favors the shift away from coal, regulatory surprises in either direction—surprise price caps, forced grid support requirements at unfavorable rates, or shifts in renewable subsidy policy—could upend assumptions. Canadian policy is relatively stable compared to some U.S. states, but it is not immutable.
 
 Third is execution risk on the transition itself. Retiring coal assets, building new generation, integrating storage—all require operational discipline. Delays, cost overruns, or underperformance of new assets could erode value. TransAlta has a long track record as an operator, which mitigates this, but it is still a risk.
 
-Finally, there is refinancing risk if debt markets tighten or if credit spreads widen. A utility with high leverage that faces a wall of debt maturities in a tough credit environment can face distress. TransAlta's balance sheet is not distressed now, but it is something to monitor, particularly as capital spending ramps.
+Finally, there is [refinancing risk](/refinancing-risk/) if debt markets tighten or if [credit spreads](/credit-spread/) widen. A utility with high leverage that faces a wall of debt maturities in a tough credit environment can face distress. TransAlta's [balance sheet](/balance-sheet/) is not distressed now, but it is something to monitor, particularly as capital spending ramps.
 
 ## How to Research TransAlta
 
 Start with the annual [10-K](/wiki/10-k/) (filed in Canada as an annual report). Look for segments—how much revenue came from Alberta market sales versus contracted PPAs, and how much from wind, hydro, gas, and coal. Track the depreciation rate and capital expenditure against depreciation to see if the company is investing more than assets are declining (typical for a growth phase) or less (indicating slowing growth).
 
-Watch capacity retirements and additions. TransAlta usually publishes forward guidance on megawatts added and retired; these are leading indicators of future cash flows. Examine the PPA portfolio—what contracts are expiring, at what rates are new ones being signed, and what is the average contract life. Short-duration contracts create earnings volatility.
+Watch capacity retirements and additions. TransAlta usually publishes [forward guidance](/forward-guidance/) on megawatts added and retired; these are leading indicators of future cash flows. Examine the PPA portfolio—what contracts are expiring, at what rates are new ones being signed, and what is the average contract life. Short-duration contracts create earnings volatility.
 
 Monitor fuel costs and wholesale power prices in Alberta and neighboring markets. If natural gas spikes or coal prices rise, near-term earnings could improve; if power prices crash, contracted and uncontracted segments will both feel it. Conference call guidance on near-term price views and capital spending plans is essential.
 

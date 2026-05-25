@@ -23,7 +23,7 @@ Like most junior explorers, Silver Mountain depends entirely on equity issuance 
 
 ## Risk and Reward
 
-Investors in Silver Mountain accept total-loss risk in exchange for potential massive upside if exploration discovers an economic deposit that attracts partnership or acquisition by a major miner. Most junior mining projects fail to reach production; few shareholders ever see a dollar return. The investment thesis depends on geological merit, management execution, commodity prices remaining viable, and ability to secure funding for successive exploration phases—any of which can reverse fortunes.
+Investors in Silver Mountain accept total-loss risk in exchange for potential massive upside if exploration discovers an economic deposit that attracts partnership or [acquisition](/acquisition/) by a major miner. Most junior mining projects fail to reach production; few shareholders ever see a dollar return. The investment thesis depends on geological merit, management execution, commodity prices remaining viable, and ability to secure funding for successive exploration phases—any of which can reverse fortunes.
 
 ## At a glance
 

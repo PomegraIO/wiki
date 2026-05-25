@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Autozi is a Beijing-based automotive services and technology platform that fuses e-commerce, physical repair networks, and insurance services into an integrated stack.** Founded in 2010, the company went public and trades as AZI on NASDAQ, though a 50-for-1 share consolidation in December 2025 marked a compliance reset—the company needed to regain alignment with listing standards after extended challenges common to China-exposed tech companies.
+**Autozi is a Beijing-based automotive services and technology platform that fuses e-commerce, physical repair networks, and insurance services into an integrated stack.** Founded in 2010, the company went public and trades as AZI on [NASDAQ](/nasdaq/), though a 50-for-1 [share consolidation](/share-consolidation/) in December 2025 marked a compliance reset—the company needed to regain alignment with listing standards after extended challenges common to China-exposed tech companies.
 
 The core business sits in the Autozi Car Owner platform, a digital marketplace where customers buy new vehicles, auto parts, and accessories while accessing insurance-related services: claim handling, repair logistics, and insurance intermediation. Beyond transaction facilitation, the company operates a cloud-based supply chain platform targeting parts distributors and service networks, plus a SaaS toolkit for automotive retailers. Revenue flows from new vehicle sales, parts and accessories, and service commissions, creating a mix that looks simpler than it operates—coordinating online storefronts, managing physical service relationships, and mediating insurance claims requires managing two operating modes simultaneously.
 

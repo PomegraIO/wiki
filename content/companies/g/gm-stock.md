@@ -13,9 +13,9 @@ General Motors is one of the world's largest automobile manufacturers and a corn
 
 ## The Automaker's Evolution and Present Position
 
-Founded in 1908 by William C. Durant in Flint, Michigan, General Motors built its dominance through aggressive acquisition of competing manufacturers in the early 20th century, assembling Cadillac, Oldsmobile, Pontiac, and others into a consolidated empire. For much of the 1900s, GM was synonymous with American automotive strength—a household brand that defined middle-class mobility and suburban growth. At its peak, the company employed over 600,000 workers worldwide and held roughly 50% of the U.S. market share.
+Founded in 1908 by William C. Durant in Flint, Michigan, General Motors built its dominance through aggressive [acquisition](/acquisition/) of competing manufacturers in the early 20th century, assembling Cadillac, Oldsmobile, Pontiac, and others into a consolidated empire. For much of the 1900s, GM was synonymous with American automotive strength—a household brand that defined middle-class mobility and suburban growth. At its peak, the company employed over 600,000 workers worldwide and held roughly 50% of the U.S. market share.
 
-That dominance proved fragile. Rising Japanese competition from Toyota and Honda in the 1980s and 1990s exposed quality and efficiency gaps. The 2008 financial crisis delivered a catastrophic blow: GM's complex pension obligations, legacy labor costs, and exposure to subprime auto lending created an unsustainable balance sheet. The company filed for bankruptcy in 2009, the largest industrial Chapter 11 in U.S. history. A government-backed restructuring, funded by Treasury intervention and asset sales, allowed GM to emerge in 2010 with a smaller footprint but operational viability.
+That dominance proved fragile. Rising Japanese competition from Toyota and Honda in the 1980s and 1990s exposed quality and efficiency gaps. The 2008 financial crisis delivered a catastrophic blow: GM's complex [pension obligations](/pension-obligation/), legacy labor costs, and exposure to subprime auto lending created an unsustainable [balance sheet](/balance-sheet/). The company filed for bankruptcy in 2009, the largest industrial Chapter 11 in U.S. history. A government-backed restructuring, funded by Treasury intervention and asset sales, allowed GM to emerge in 2010 with a smaller footprint but operational viability.
 
 Today's GM is leaner but still massive. It remains the largest automaker by revenue in the United States and competes globally against Toyota, Volkswagen Group, and Chinese manufacturers like BYD. The company operates principal manufacturing facilities in Michigan, Tennessee, Ohio, and Mexico, plus engineering centers and assembly plants in Europe, China, and other regions. Yet the legacy of Detroit still shapes its cost structure, labor agreements, and cultural expectations in ways its Asian competitors avoided.
 
@@ -57,13 +57,13 @@ Investors and analysts commonly monitor [GM's 10-K](/wiki/10-k/) and quarterly e
 
 **Automotive gross margin:** The percentage of revenue remaining after production costs. In 2020-2022, GM's gross margin ranged from 15-20%. EV margins are lower; as the vehicle mix shifts toward EVs, aggregate margins will compress unless manufacturing efficiency improves dramatically.
 
-**Free cash flow:** Capital intensity is extreme. EV factories, battery R&D, and plant retooling require sustained CapEx. Free cash flow is the cash remaining after [capital expenditures](/wiki/capex-budgeting/); it determines GM's ability to invest, return cash to shareholders, and weather downturns. A prolonged period of negative or low free cash flow—common during manufacturing transitions—strains the balance sheet.
+**[Free cash flow](/free-cash-flow/):** Capital intensity is extreme. EV factories, battery R&D, and plant retooling require sustained CapEx. Free cash flow is the cash remaining after [capital expenditures](/wiki/capex-budgeting/); it determines GM's ability to invest, return cash to shareholders, and weather downturns. A prolonged period of negative or low free cash flow—common during manufacturing transitions—strains the balance sheet.
 
 **EV unit sales and mix:** How many EVs is GM selling, and at what price? Are volumes growing? Is the EV business profitable on a unit basis (i.e., covering allocated overhead)?
 
 **Inventory:** Dealer inventory (cars waiting for sale) and days-of-inventory outstanding indicate demand health. High inventory suggests weak sell-through; low inventory suggests strong demand or production constraints. After chip shortages, GM's inventory management is under scrutiny.
 
-**Leverage and debt maturity:** GM has substantial debt from the post-bankruptcy restructuring and ongoing financing operations. Debt-to-capital and interest coverage ratios matter for credit stability, especially if earnings weaken.
+**Leverage and debt maturity:** GM has substantial debt from the post-bankruptcy restructuring and ongoing financing operations. Debt-to-capital and [interest coverage ratios](/interest-coverage-ratio/) matter for credit stability, especially if earnings weaken.
 
 **UAW labor cost per vehicle:** Unit labor costs drive competitiveness. Has the company achieved productivity improvements to offset wage increases?
 
@@ -73,9 +73,9 @@ The magnitude of the EV transition cannot be overstated. It is not a margin-enha
 
 Geopolitical risk is rising. Tariffs on Chinese imports and critical materials, semiconductor supply-chain resilience, and labor relations in Mexico and Canada all influence GM's cost structure. Supply-chain fragmentation post-pandemic has made "just-in-time" manufacturing riskier.
 
-Additionally, the used-car market and dealer profitability interact with new-vehicle demand in subtle ways. If interest rates remain high, used-car prices may stay elevated, reducing trade-in values and making new vehicles less affordable. Dealer consolidation and direct-to-consumer sales models (championed by Tesla and legacy brands' digital strategies) pose a long-term threat to the dealer franchise model on which GM's distribution has relied for a century.
+Additionally, the used-car market and dealer profitability interact with new-vehicle demand in subtle ways. If [interest rates](/interest-rate/) remain high, used-car prices may stay elevated, reducing trade-in values and making new vehicles less affordable. Dealer consolidation and direct-to-consumer sales models (championed by Tesla and legacy brands' digital strategies) pose a long-term threat to the dealer franchise model on which GM's distribution has relied for a century.
 
-Finally, investor capital and credit availability matter. If EV demand softens, institutional investors may lose patience with the capex-heavy transition. Credit costs could rise, making refinancing expensive. A recession would pressure both earnings and the balance sheet.
+Finally, investor capital and credit availability matter. If EV demand softens, institutional investors may lose patience with the capex-heavy transition. Credit costs could rise, making refinancing expensive. A [recession](/recession/) would pressure both earnings and the balance sheet.
 
 ## Researching GM and the Auto Industry
 

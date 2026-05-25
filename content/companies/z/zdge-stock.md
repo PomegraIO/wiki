@@ -43,13 +43,13 @@ Operating system makers like Apple and Google pose a structural risk. Every feat
 
 Secondhand, the quality of user experience matters. If a user encounters broken content, poor categorization, spam, or slow load times, they will delete the app and not return. Content curation and platform health are non-trivial operational challenges at Zedge's scale.
 
-Advertising and subscription business models are also sensitive to economic cycles and advertiser sentiment. If digital ad spending contracts, CPMs fall, and subscription uptake drops, Zedge's top line contracts quickly. The business has limited diversification: it is entirely dependent on one app and one market.
+Advertising and subscription business models are also sensitive to economic cycles and advertiser sentiment. If digital ad spending contracts, CPMs fall, and subscription uptake drops, Zedge's top line contracts quickly. The business has limited [diversification](/diversification/): it is entirely dependent on one app and one market.
 
 ## How to Research It
 
 Anyone interested in Zedge should start with its [10-K](/wiki/10-k/), the annual report filed with the [SEC](/wiki/10-k/). The filing will detail revenue breakdown, user metrics (if disclosed), and key risks. Look for trends in subscription adoption versus one-off purchases, and note the composition of content licensing revenue (i.e., whether the company is making more or less on official licensed content versus user-generated).
 
-Key metrics to track: monthly active users, subscription churn rates, average revenue per user (ARPU), and CAC (customer acquisition cost) for the subscription business. If the company discloses them, these illuminate whether the business is growing, stalling, or shrinking. Also watch for changes in content partnerships, new OS customization features, and any shifts in the company's investment or product roadmap.
+Key metrics to track: monthly active users, subscription churn rates, average revenue per user (ARPU), and CAC (customer [acquisition](/acquisition/) cost) for the subscription business. If the company discloses them, these illuminate whether the business is growing, stalling, or shrinking. Also watch for changes in content partnerships, new OS customization features, and any shifts in the company's investment or product roadmap.
 
 The [stock](/wiki/stock/) itself is lightly traded and not widely followed by analysts, so information asymmetry is high. Patient value investors and small-cap enthusiasts sometimes find opportunity in overlooked names, but they need to do their own work rather than relying on Wall Street coverage.
 

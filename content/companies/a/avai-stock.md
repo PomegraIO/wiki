@@ -23,7 +23,7 @@ Avaí Bio was formerly Avant Technologies Inc., an IT consulting and software de
 
 ## What is the share structure and how small is this company?
 
-At approximately $48.4 million in market capitalization with roughly 138.3 million shares outstanding, Avaí is a true micro-cap. The enormous share count is typical for early-stage biotech companies that raise capital through equity offerings to fund development without approaching profitability. Investors should understand that a company with 138 million shares requires tremendous therapeutic success and market adoption to move the stock price in any meaningful way.
+At approximately $48.4 million in [market capitalization](/market-capitalization/) with roughly 138.3 million shares outstanding, Avaí is a true micro-cap. The enormous share count is typical for early-stage biotech companies that raise capital through equity offerings to fund development without approaching profitability. Investors should understand that a company with 138 million shares requires tremendous therapeutic success and market adoption to move the stock price in any meaningful way.
 
 ## Why use partnerships instead of developing everything in-house?
 

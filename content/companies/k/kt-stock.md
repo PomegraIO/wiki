@@ -55,7 +55,7 @@ KT faces structural headwinds that no amount of operational excellence can fully
 
 Competition remains intense. SKT is larger and more profitable; LGU+ is smaller but scrappy. All three operators have 5G networks and battle fiercely for market share through price cuts and bundled offers. When one carrier drops prices, the others follow, and profit pools shrink across the industry.
 
-Legacy costs are real. KT maintains vast infrastructure from the monopoly era—not all of it is heavily used. Pension obligations for long-tenured employees are substantial. The company is also expected to maintain rural and less profitable coverage that a pure market player might abandon. These obligations make KT less agile than a pure-play competitor.
+Legacy costs are real. KT maintains vast infrastructure from the monopoly era—not all of it is heavily used. [Pension obligations](/pension-obligation/) for long-tenured employees are substantial. The company is also expected to maintain rural and less profitable coverage that a pure market player might abandon. These obligations make KT less agile than a pure-play competitor.
 
 The enterprise IT and data center business is fragmented and global. KT is a strong regional player but lacks the scale or brand of cloud giants. Competing in this space requires continuous heavy investment in R&D, new product development, and global partnerships—capital-intensive moves that eat into near-term earnings.
 
@@ -63,14 +63,14 @@ Government regulation and industrial policy in Korea also create uncertainty. If
 
 ## How to Research KT
 
-KT files with the SEC as a foreign private issuer under the 1934 Exchange Act, and its [10-K](wiki/10-k/) annual reports are available on EDGAR. The 10-K details financial performance, segment breakdown, competitive landscape, and risk factors; it is the essential document for understanding KT's financial position and capital allocation.
+KT files with the SEC as a foreign private issuer under the 1934 Exchange Act, and its [10-K](wiki/10-k/) [annual reports](/10-k/) are available on EDGAR. The 10-K details financial performance, segment breakdown, competitive landscape, and risk factors; it is the essential document for understanding KT's financial position and capital allocation.
 
 Look closely at the mobile versus fixed-line revenue split and the trends in each. Mobile is large but fading; fixed-line is stable but mature; enterprise services is growing but from a smaller base. A reader should ask: Is KT successfully shifting the business mix toward higher-margin services, or is it caught in a slow-motion decline in its core market?
 
-Watch the Korean Won / US Dollar exchange rate if you are a foreign investor. KT earns much of its cash in Won; large currency swings can impact reported results for US investors.
+Watch the Korean Won / [US Dollar](/us-dollar/) exchange rate if you are a foreign investor. KT earns much of its cash in Won; large currency swings can impact reported results for US investors.
 
 Pay attention to competitive pricing announcements from KT and its rivals. Telecom is extremely transparent (all three carriers publish rates openly). If price competition is intensifying, margins are under pressure. Conversely, if carriers find pricing discipline, profitability can improve.
 
-Follow Korean government telecommunications policy. Regulatory changes—around spectrum allocation, merger rules, or universal service obligations—can shift the entire competitive field.
+Follow Korean government telecommunications policy. Regulatory changes—around spectrum allocation, [merger](/merger/) rules, or universal service obligations—can shift the entire competitive field.
 
 Lastly, evaluate management's execution on enterprise and IoT expansion. If KT can successfully pivot from a declining traditional telecom base into a growing, higher-margin services business, it solves the growth problem. If it cannot, KT will remain a cash-generating but low-growth incumbent.

@@ -26,9 +26,9 @@ The TASER device itself deserves mention as a brand moat. Despite criticism and 
 
 ## Risks and controversy
 
-Axon's business is inseparable from the politics of police funding and conduct. Activist pressure on law enforcement agencies—especially during periods of civil unrest—can suppress body camera adoption or create reputational friction. Changes in use-of-force policy or restrictions on conducted energy weapons could constrain the connected devices segment. Product liability and litigation over device injuries or failures, while manageable so far, pose latent tail risk.
+Axon's business is inseparable from the politics of police funding and conduct. Activist pressure on law enforcement agencies—especially during periods of civil unrest—can suppress body camera adoption or create reputational friction. Changes in use-of-force policy or restrictions on conducted energy weapons could constrain the connected devices segment. Product liability and litigation over device injuries or failures, while manageable so far, pose latent [tail risk](/tail-risk/).
 
-The company is also concentrated in the U.S. government customer base, meaning federal budget cuts or reallocation of public safety spending would hit revenue. International expansion has been gradual, limiting geographic diversification.
+The company is also concentrated in the U.S. government customer base, meaning federal budget cuts or reallocation of public safety spending would hit revenue. International expansion has been gradual, limiting geographic [diversification](/diversification/).
 
 ## Growth and valuation
 

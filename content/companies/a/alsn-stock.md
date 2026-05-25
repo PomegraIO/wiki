@@ -17,7 +17,7 @@ Allison sells automatic transmissions and related services primarily to truck ma
 
 ## Market position and competition
 
-Allison holds a commanding share of the North American heavy-duty transmission market and competes globally against ZF (German), Eaton's automated manual transmission division, and traditional manual transmission providers. The growth engine is electrification: as commercial fleets transition to electric heavy trucks, Allison is pivoting toward e-axles and integrated electric drivetrains. The company also benefits from aftermarket service revenue, which carries higher margins and stickier cash flows than original equipment sales. Geographic diversification spans North America, Europe, and Asia-Pacific markets where truck volumes and regulatory emissions pressure drive upgrades to modern transmission platforms.
+Allison holds a commanding share of the North American heavy-duty transmission market and competes globally against ZF (German), Eaton's automated manual transmission division, and traditional manual transmission providers. The growth engine is electrification: as commercial fleets transition to electric heavy trucks, Allison is pivoting toward e-axles and integrated electric drivetrains. The company also benefits from aftermarket service revenue, which carries higher margins and stickier cash flows than original equipment sales. Geographic [diversification](/diversification/) spans North America, Europe, and Asia-Pacific markets where truck volumes and regulatory emissions pressure drive upgrades to modern transmission platforms.
 
 At a glance:
 - Automatic transmissions for Class 6–8 trucks, transit buses, and defense vehicles

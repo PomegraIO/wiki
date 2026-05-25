@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Jayud Global Logistics Ltd. (NASDAQ: JYD) is a provider of integrated cross-border logistics and supply-chain services headquartered in China. The company operates as an end-to-end facilitator of international goods movement, handling everything from warehousing and customs clearance to final-mile delivery, primarily serving e-commerce merchants and businesses that trade across borders.
+Jayud Global Logistics Ltd. ([NASDAQ](/nasdaq/): JYD) is a provider of integrated cross-border logistics and supply-chain services headquartered in China. The company operates as an end-to-end facilitator of international goods movement, handling everything from warehousing and customs clearance to final-mile delivery, primarily serving e-commerce merchants and businesses that trade across borders.
 
 <aside class="wiki-infobox">
 <table>

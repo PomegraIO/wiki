@@ -28,7 +28,7 @@ handwritten: true
 
 Ryder System is one of the oldest and largest commercial transportation companies in the United States—a business built on leasing trucks and managing the operations around them. Founded in Miami in 1933, the company started with a single truck but evolved into a multi-billion-dollar enterprise serving everything from small contractors to Fortune 500 corporations. Think of Ryder as the backbone of logistics: when a company needs trucks but doesn't want to own and maintain them, Ryder steps in. The core business rests on three pillars: leasing and managing vehicle fleets, renting trucks short-term, and handling used vehicle sales from retired fleet equipment.
 
-The company operates in a decidedly unsexy but economically essential space. Every box delivered, every construction site supplied, every retail chain's inventory moved—Ryder's trucks are involved somewhere in that chain. Unlike glamorous tech companies, Ryder generates steady cash from long-term customer relationships, recurring lease payments, and the secondary market for millions of vehicles cycled through its operations annually.
+The company operates in a decidedly unsexy but economically essential space. Every box delivered, every construction site supplied, every retail chain's inventory moved—Ryder's trucks are involved somewhere in that chain. Unlike glamorous tech companies, Ryder generates steady cash from long-term customer relationships, recurring lease payments, and the [secondary market](/secondary-market/) for millions of vehicles cycled through its operations annually.
 
 ## How does Ryder make money?
 
@@ -50,17 +50,17 @@ That said, the business is not unassailable. Owner-operators and smaller fleets 
 
 ## What drives Ryder's earnings up and down?
 
-Because Ryder is intensely cyclical, economic cycles are everything. In a booming economy, trucking demand surges. Companies expand fleets, need more rental capacity, and used truck values climb—all of which pump Ryder's earnings. Conversely, in a recession, businesses shed trucks, return rentals, and used vehicle prices collapse. Ryder's earnings can swing 30–50% between cycle peaks and troughs.
+Because Ryder is intensely cyclical, economic cycles are everything. In a booming economy, trucking demand surges. Companies expand fleets, need more rental capacity, and used truck values climb—all of which pump Ryder's earnings. Conversely, in a [recession](/recession/), businesses shed trucks, return rentals, and used vehicle prices collapse. Ryder's earnings can swing 30–50% between cycle peaks and troughs.
 
 Used vehicle pricing deserves special attention because it can swing wildly and is hard to predict. A manufacturer production hiccup that tightens new truck supply can push used prices up sharply, boosting Ryder's earnings that quarter. Conversely, when there is suddenly excess supply or when manufacturer incentives flood the market with cheap new vehicles, used prices crater and Ryder takes a hit.
 
 Operating leverage matters too. Once Ryder deploys capital into a truck, the marginal cost of serving one more customer is relatively low—maintenance and fuel tracking happen at scale. So when revenue grows, margins expand rapidly. But the reverse is also true: fixed costs in maintenance facilities and support staff can't be cut instantly, so when demand drops, margins compress fast.
 
-Interest rates are a secondary but meaningful factor. Ryder finances its fleet through debt. When rates rise, financing costs increase, which pressures margins. And higher rates reduce business investment broadly, which weakens demand for Ryder's services.
+[Interest rates](/interest-rate/) are a secondary but meaningful factor. Ryder finances its fleet through debt. When rates rise, financing costs increase, which pressures margins. And higher rates reduce business investment broadly, which weakens demand for Ryder's services.
 
 ## Why would someone invest in Ryder?
 
-Investors buy Ryder for cash generation and cyclical leverage. The company generates substantial free cash flow from operations—the combination of steady lease payments and low incremental costs means cash pours in. In a strong cycle, Ryder rewards shareholders through dividends (the company has a long history of payouts) and share buybacks.
+Investors buy Ryder for cash generation and cyclical leverage. The company generates substantial [free cash flow](/free-cash-flow/) from operations—the combination of steady lease payments and low incremental costs means cash pours in. In a strong cycle, Ryder rewards shareholders through [dividends](/dividend/) (the company has a long history of payouts) and [share buybacks](/share-buyback/).
 
 For traders, Ryder offers pure play leverage to economic strength and logistics sector health. When manufacturing orders are surging and consumer spending is robust, Ryder tends to outperform. Value and deep-cycle investors may wait for downturns, buy Ryder's stock cheaply, and exit when the cycle recovers.
 

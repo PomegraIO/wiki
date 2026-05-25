@@ -40,7 +40,7 @@ The typical customer is not a small business. Zebra works with large retailers (
 
 Zebra was founded in 1982 by Jerry Swartz in Chicago as a manufacturer of bar-code label printers. The company went public in 1991. Through the 1990s and 2000s, it became the dominant brand in barcode printing and mobile data capture. The business was steady, profitable, and narrow—a specialist in warehouse and retail automation.
 
-Two major acquisitions reshaped Zebra in the 2010s. In 2014, Zebra acquired Xplore, a mobile computer maker, broadening its portfolio beyond printers. More transformatively, in 2018, Zebra paid approximately $4.6 billion for Xplore rival Motorola Solutions' enterprise mobility division. This deal added Motorola's mobile computers, mobile devices, and software platforms—a purchase that roughly doubled Zebra's size and shifted it from a hardware manufacturer toward a systems provider.
+Two major [acquisitions](/acquisition/) reshaped Zebra in the 2010s. In 2014, Zebra acquired Xplore, a mobile computer maker, broadening its portfolio beyond printers. More transformatively, in 2018, Zebra paid approximately $4.6 billion for Xplore rival Motorola Solutions' enterprise mobility division. This deal added Motorola's mobile computers, mobile devices, and software platforms—a purchase that roughly doubled Zebra's size and shifted it from a hardware manufacturer toward a systems provider.
 
 Today Zebra holds perhaps 30% to 40% of the global market for industrial barcode and mobile-computing solutions, with no single competitor commanding more than half its share. It remains the category leader, though regional and vertical-specific rivals exist.
 
@@ -58,9 +58,9 @@ Today Zebra holds perhaps 30% to 40% of the global market for industrial barcode
 
 ## Revenue and Growth Drivers
 
-Zebra's [10-K](/wiki/10-k/) shows revenue in the range of several billion dollars annually, with operating margins typically in the 15% to 25% range depending on the product mix and macro conditions.
+Zebra's [10-K](/wiki/10-k/) shows revenue in the range of several billion dollars annually, with [operating margins](/operating-margin/) typically in the 15% to 25% range depending on the product mix and macro conditions.
 
-Organic growth has historically been modest—2% to 5% annually—reflecting both market saturation in developed economies and the long lifecycle of purchased equipment. Growth accelerates during economic expansions and e-commerce booms, when retailers and logistics operators invest heavily in warehouse automation and visibility. Downturns or recessions slow spending.
+Organic growth has historically been modest—2% to 5% annually—reflecting both market saturation in developed economies and the long lifecycle of purchased equipment. Growth accelerates during economic expansions and e-commerce booms, when retailers and logistics operators invest heavily in warehouse automation and visibility. Downturns or [recessions](/recession/) slow spending.
 
 Inorganic growth through acquisition has been a Zebra strategy. The Motorola Solutions purchase was transformative. The company has since acquired smaller software and service providers to deepen its Savanna platform and vertical solutions.
 
@@ -74,7 +74,7 @@ The services and software segment is growing faster than hardware, which is typi
 
 **Competitive pressure from broad incumbents.** Apple, Samsung, and other device makers are increasingly targeting enterprise supply-chain use cases. They bring scale, brand, and capital. While their devices are not purpose-built for industrial use, improvements in ruggedness and battery life narrow the gap. Zebra has held its ground, but this is a structural threat.
 
-**Dependence on large customers.** A few major retailers and logistics providers account for a material fraction of revenue. Loss of a major contract or a customer shifting to a competitor would be painful. Customer concentration risk is real.
+**Dependence on large customers.** A few major retailers and logistics providers account for a material fraction of revenue. Loss of a major contract or a customer shifting to a competitor would be painful. Customer [concentration risk](/concentration-risk/) is real.
 
 **Integration execution.** Large acquisitions carry risk. Motorola's legacy systems, culture, and product lines had to be meshed with Zebra's. Missteps in integration or talent retention could erode value. The company appears to have managed this well, but integration is ongoing.
 
@@ -86,7 +86,7 @@ The services and software segment is growing faster than hardware, which is typi
 
 Start with the annual [10-K](/wiki/10-k/) filing, which breaks revenue by segment (hardware, software, services) and geography, discusses competitive dynamics, and outlines risks. Look at the capital expenditure and R&D spending to gauge investment priorities.
 
-Key metrics to track: gross margin trends (are customers paying a premium for Zebra solutions, or is pricing eroding?), services revenue growth (is the company successfully shifting toward higher-margin recurring revenue?), free cash flow (is the business generating cash to service debt or return to shareholders?), and customer retention metrics (subtle signs of competitive loss are visible in churn rates, which some companies disclose).
+Key metrics to track: gross margin trends (are customers paying a premium for Zebra solutions, or is pricing eroding?), services revenue growth (is the company successfully shifting toward higher-margin recurring revenue?), [free cash flow](/free-cash-flow/) (is the business generating cash to service debt or return to shareholders?), and customer retention metrics (subtle signs of competitive loss are visible in churn rates, which some companies disclose).
 
 Quarterly earnings calls reveal management commentary on demand trends, pricing environment, and product adoption. Listen for signals about enterprise capital-spending plans and whether Zebra is winning or losing share in key verticals like e-commerce fulfillment, healthcare, and manufacturing.
 

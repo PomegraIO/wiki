@@ -17,7 +17,7 @@ Ardelyx is a biopharmaceutical company that discovers, develops, and seeks to co
 
 ## How does the company make money?
 
-Currently, Ardelyx operates in the pre-revenue or early-revenue phase, relying on research funding, milestone payments from partnerships, and equity financing to fund operations. As the company advances candidates through clinical trials and eventually achieves regulatory approval, revenue would come from drug sales and potential licensing or co-promotion arrangements. The timeline for profitability depends on regulatory success and market adoption of approved therapeutics.
+Currently, Ardelyx operates in the pre-revenue or early-revenue phase, relying on research funding, milestone payments from partnerships, and [equity financing](/equity-financing/) to fund operations. As the company advances candidates through clinical trials and eventually achieves regulatory approval, revenue would come from drug sales and potential licensing or co-promotion arrangements. The timeline for profitability depends on regulatory success and market adoption of approved therapeutics.
 
 ## What is its competitive position?
 

@@ -32,7 +32,7 @@ For hosts, the appeal is straightforward: monetize an idle asset. A car that sit
 
 For customers, Zoomcar offers an alternative to traditional rental-car companies at locations like airports and train stations. Traditional rental franchises require physical locations, staff, and capital investment in inventory. A peer-to-peer model spreads that inventory risk — it comes from thousands of private owners. If a customer is in Bangalore or Pune looking for a short-term car, they can often find nearby options at competitive prices through Zoomcar rather than seeking out a Hertz or Avis counter.
 
-The business is asset-light in the sense that Zoomcar does not own the vehicles. But it does carry the operational and financial weight of orchestrating two-sided transactions: customer acquisition, host recruitment and support, payment processing, dispute resolution, insurance coordination, and platform infrastructure. This is not a simple advertising listing site; it is a service business masquerading as a technology company, which means cost of revenue can be high relative to gross transaction volume, especially in early-stage markets.
+The business is asset-light in the sense that Zoomcar does not own the vehicles. But it does carry the operational and financial weight of orchestrating two-sided transactions: customer [acquisition](/acquisition/), host recruitment and support, payment processing, dispute resolution, insurance coordination, and platform infrastructure. This is not a simple advertising listing site; it is a service business masquerading as a technology company, which means cost of revenue can be high relative to gross transaction volume, especially in early-stage markets.
 
 ## The India opportunity and the crowded landscape
 
@@ -42,7 +42,7 @@ Yet the market is crowded. Traditional rental companies such as Avis and Hertz o
 
 ## Path to profitability and the cash-burn reality
 
-Zoomcar became a [public company](/wiki/public-company/) in 2021 via a merger with a special-purpose acquisition company (SPAC), which allowed it to raise capital and trade on NASDAQ under the ticker ZCAR. Like many software-powered marketplaces, especially in nascent geographies, Zoomcar is pre-profitable and burning cash. The company has spent heavily on marketing to acquire customers and hosts, on operations to support transactions, and on technology infrastructure.
+Zoomcar became a [public company](/wiki/public-company/) in 2021 via a merger with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC), which allowed it to raise capital and trade on [NASDAQ](/nasdaq/) under the ticker ZCAR. Like many software-powered marketplaces, especially in nascent geographies, Zoomcar is pre-profitable and burning cash. The company has spent heavily on marketing to acquire customers and hosts, on operations to support transactions, and on technology infrastructure.
 
 The basic challenge is unit economics. For Zoomcar to succeed, each host and each customer must eventually become profitable to the platform — the lifetime value of their bookings and commissions must exceed the cost of acquiring and serving them. In early-stage markets, especially in emerging economies, these metrics can take years to achieve. Zoomcar is working through that process: expanding the size of its fleet (number of active host vehicles), growing the number of active renters, and trying to improve unit economics as the platform matures and spreads across more Indian cities.
 
@@ -50,7 +50,7 @@ Cash burn is not inherently a catastrophe for a young marketplace. The question 
 
 ## Risks and questions
 
-The most visible risk is capital. SPAC mergers provided a bucket of cash, but that capital is finite. If unit economics do not improve and growth does not accelerate, Zoomcar may need to raise additional capital at a lower valuation, diluting existing shareholders and extending the clock on profitability. Some peer-to-peer platforms have folded or been acquired when they could not achieve scale or raise follow-on funding.
+The most visible risk is capital. SPAC [mergers](/merger/) provided a bucket of cash, but that capital is finite. If unit economics do not improve and growth does not accelerate, Zoomcar may need to raise additional capital at a lower valuation, diluting existing shareholders and extending the clock on profitability. Some peer-to-peer platforms have folded or been acquired when they could not achieve scale or raise follow-on funding.
 
 A second risk is regulatory. Vehicle rental, insurance coordination, and passenger liability in India are governed by complex and evolving rules. Regulators may impose requirements that increase operational costs — licensing rules, insurance mandates, or safety standards — without clear notice or industry consensus. A platform that works well under one regulatory regime can face sudden friction under a new one.
 

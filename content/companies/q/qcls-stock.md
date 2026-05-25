@@ -17,7 +17,7 @@ The company appears to function as a shell or dormant holding entity. Its SEC fi
 
 ## Trading and Accessibility
 
-QCLS trades on the OTC Markets Group's systems—the informal, decentralized network for securities that do not meet the listing standards of major exchanges like NASDAQ or NYSE. OTC trading carries significantly higher risks than exchange-traded stocks: wide bid-ask spreads, minimal price discovery, low liquidity, and vulnerability to manipulation or abandonment. Investors in such securities have limited recourse to formal exchange oversight.
+QCLS trades on the OTC Markets Group's systems—the informal, decentralized network for securities that do not meet the listing standards of major exchanges like [NASDAQ](/nasdaq/) or NYSE. OTC trading carries significantly higher risks than exchange-traded stocks: wide [bid-ask spreads](/bid-ask-spread/), minimal [price discovery](/price-discovery/), low liquidity, and vulnerability to manipulation or abandonment. Investors in such securities have limited recourse to formal exchange oversight.
 
 ## Research Constraints
 

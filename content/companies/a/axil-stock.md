@@ -14,7 +14,7 @@ handwritten: true
 
 ### Core Product Lines
 
-Axil manufactures earplugs, earmuffs, wireless ear buds, and outdoor speakers under its AXIL brand, targeting consumers and professionals in hearing protection and audio enhancement. The company markets these products as engineered solutions for safeguarding hearing while enabling clear communication in demanding environments. Distribution spans sporting goods retailers, online channels, and direct-to-consumer platforms. The secondary hair and skin care segment, formerly the legacy Reviv3 Procare product line, provides portfolio diversification.
+Axil manufactures earplugs, earmuffs, wireless ear buds, and outdoor speakers under its AXIL brand, targeting consumers and professionals in hearing protection and audio enhancement. The company markets these products as engineered solutions for safeguarding hearing while enabling clear communication in demanding environments. Distribution spans sporting goods retailers, online channels, and direct-to-consumer platforms. The secondary hair and skin care segment, formerly the legacy Reviv3 Procare product line, provides portfolio [diversification](/diversification/).
 
 ### Operations and Scale
 

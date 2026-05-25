@@ -20,7 +20,7 @@ The Medical Devices segment drives most income through the sale of stent grafts,
 
 ## What's Artivion's competitive position in aortic surgery?
 
-Artivion competes in a specialized corner of the broader medical device industry, where competitors include other device makers and tissue banks. The company has built a long-standing partnership and supplier relationship with Endospan Ltd., a developer of endovascular solutions for aortic arch disease. In May 2026, Artivion completed its acquisition of Endospan, incorporating Endospan's FDA-approved NEXUS Aortic Arch System into Artivion's lineup and deepening its presence in the growing minimally invasive aortic repair market.
+Artivion competes in a specialized corner of the broader medical device industry, where competitors include other device makers and tissue banks. The company has built a long-standing partnership and supplier relationship with Endospan Ltd., a developer of endovascular solutions for aortic arch disease. In May 2026, Artivion completed its [acquisition](/acquisition/) of Endospan, incorporating Endospan's FDA-approved NEXUS Aortic Arch System into Artivion's lineup and deepening its presence in the growing minimally invasive aortic repair market.
 
 ## How does Artivion's scale compare to larger device makers?
 

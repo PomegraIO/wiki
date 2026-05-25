@@ -37,6 +37,6 @@ The company's competitive position rests on engineering depth and manufacturing 
 
 ## Capital and Growth
 
-Aether operates a disciplined capital framework, balancing reinvestment in manufacturing capabilities with cash return to shareholders. The company's divisions compete for internal capital based on return thresholds rather than strategic narrative, a discipline that filters out marginal opportunities. Management's approach to acquisitions focuses on adding operational capability or market access rather than financial engineering.
+Aether operates a disciplined capital framework, balancing reinvestment in manufacturing capabilities with cash return to shareholders. The company's divisions compete for internal capital based on return thresholds rather than strategic narrative, a discipline that filters out marginal opportunities. Management's approach to [acquisitions](/acquisition/) focuses on adding operational capability or market access rather than financial engineering.
 
 The company navigates cyclical demand across defense and aerospace, paired with steadier commercial industrial end-markets. Downturns in aerospace have historically created opportunities for smaller competitors to gain share on cost structure and flexibility. Aether's technical reputation and existing customer relationships have proven durable across cycle troughs.

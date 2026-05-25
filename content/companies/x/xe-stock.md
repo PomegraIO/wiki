@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-X-Energy designs and builds next-generation nuclear reactors and the specialized fuel they run on, positioning itself at the frontier of advanced reactor technology rather than the commodity power business that dominates conventional nuclear. The company—headquartered in Rockville, Maryland—went public on the Nasdaq in April 2026 under ticker XE, raising capital to move its lead product, the Xe-100 reactor, from prototype toward commercial deployment.
+X-Energy designs and builds next-generation nuclear reactors and the specialized fuel they run on, positioning itself at the frontier of advanced reactor technology rather than the commodity power business that dominates conventional nuclear. The company—headquartered in Rockville, Maryland—went public on the [Nasdaq](/nasdaq/) in April 2026 under ticker XE, raising capital to move its lead product, the Xe-100 reactor, from prototype toward commercial deployment.
 
 The core business rests on two integrated technology pillars: the Xe-100, an 80-megawatt small modular reactor using high-temperature gas-cooling, and TRISO-X, the company's proprietary fuel designed specifically for that reactor. This bundled approach is deliberate—controlling both the reactor design and fuel supply creates engineering coherence and supply-chain advantages competitors cannot easily replicate.
 
@@ -48,7 +48,7 @@ The Xe-100 occupies a distinct segment: larger than microreactors for remote pow
 
 Several headwinds merit attention. First, the company has never shipped a commercial reactor. Deployment timelines in nuclear consistently slip. If first-of-a-kind units experience delays or higher-than-projected costs, confidence and funding will falter. Second, TRISO-X fuel manufacturing is not yet scaled—the Category II license permits production, but the company must prove it can ramp to thousands of pebbles per year reliably and economically. A sustained production shortfall would stall reactor deployment.
 
-Third, the company depends on continued government subsidy and mandate. Federal support for advanced nuclear (the Inflation Reduction Act, production tax credits) could shrink under different administrations. Industrial customers also face regulatory uncertainty around new reactor siting and permitting. Fourth, if conventional renewables + storage continue to cheapen faster than small reactors, the thermal market advantage may erode. Finally, enriched uranium sourcing could become a bottleneck if demand surges and supply chains remain constrained.
+Third, the company depends on continued government subsidy and mandate. Federal support for advanced nuclear (the [Inflation](/inflation/) Reduction Act, production tax credits) could shrink under different administrations. Industrial customers also face regulatory uncertainty around new reactor siting and permitting. Fourth, if conventional renewables + storage continue to cheapen faster than small reactors, the thermal market advantage may erode. Finally, enriched uranium sourcing could become a bottleneck if demand surges and supply chains remain constrained.
 
 ## What to Watch
 

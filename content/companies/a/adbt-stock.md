@@ -17,7 +17,7 @@ Advasa Holdings operates as a diversified holding company managing a portfolio o
 
 ## How does it generate revenue?
 
-The company's revenue streams are intentionally segmented across its portfolio. Financial services operations generate fees and income from customer accounts or service agreements. Wellness and consumer goods divisions produce revenue through direct product sales and subscriptions. This diversification creates stability; if one segment faces headwinds, others may offset weakness. The exact revenue mix between segments varies, but the multipath approach means no single business failure can sink the whole enterprise.
+The company's revenue streams are intentionally segmented across its portfolio. Financial services operations generate fees and income from customer accounts or service agreements. Wellness and consumer goods divisions produce revenue through direct product sales and subscriptions. This [diversification](/diversification/) creates stability; if one segment faces headwinds, others may offset weakness. The exact revenue mix between segments varies, but the multipath approach means no single business failure can sink the whole enterprise.
 
 ## Why structure as a holding company instead of a single business?
 

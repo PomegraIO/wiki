@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-ACME United is a diversified industrial holding company that has built its business through a combination of organic growth and acquisition. The company operates across several distinct business segments, including specialty manufacturing, logistics services, and industrial equipment distribution. Unlike pure-play manufacturers, ACME positions itself as an operator of multiple mid-market businesses rather than a single integrated operation.
+ACME United is a diversified industrial holding company that has built its business through a combination of organic growth and [acquisition](/acquisition/). The company operates across several distinct business segments, including specialty manufacturing, logistics services, and industrial equipment distribution. Unlike pure-play manufacturers, ACME positions itself as an operator of multiple mid-market businesses rather than a single integrated operation.
 
 The company's portfolio spans manufacturing facilities focused on engineered components and specialty products, along with distribution and logistics arms that serve both its own operations and external commercial clients. This structure allows ACME to capture value at multiple points in industrial supply chains. Revenue flows from both product sales and service contracts, with customers ranging from Fortune 500 firms to regional industrial manufacturers.
 
@@ -25,4 +25,4 @@ The business model depends on economic cycles. Industrial equipment spending and
 - Industrial Equipment Sales & Service (equipment distribution with service support)
 - Back-office consolidation and shared services (capturing synergies across the portfolio)
 
-For researchers, ACME's [10-K](/wiki/10-k/) filings detail acquisition pipeline activity, integration success, and segment-level margins. The company's track record on acquisition integration and organic growth rates within acquired businesses reveal management quality. Balance sheet leverage and cash flow generation from acquired assets matter more here than headline revenue growth, since growth is often acquisition-driven rather than organic. Industry consolidation trends in small-cap industrial services provide context for ACME's strategic positioning and acquisition opportunities.
+For researchers, ACME's [10-K](/wiki/10-k/) filings detail acquisition pipeline activity, integration success, and segment-level margins. The company's track record on acquisition integration and organic growth rates within acquired businesses reveal management quality. [Balance sheet](/balance-sheet/) leverage and cash flow generation from acquired assets matter more here than headline revenue growth, since growth is often acquisition-driven rather than organic. Industry consolidation trends in small-cap industrial services provide context for ACME's strategic positioning and acquisition opportunities.

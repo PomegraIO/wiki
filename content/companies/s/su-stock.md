@@ -13,19 +13,19 @@ Suncor Energy is one of Canada's largest integrated energy producers, with opera
 
 ## Origin and Scale
 
-Suncor's modern form traces to 1979, when Sun Oil Company (a U.S. subsidiary of Britain's Sunoco) spun off its Canadian operations as Suncor Inc. The company merged with Petro-Canada in 2009, an acquisition that consolidated two of Canada's energy majors and brought Suncor control of Petro-Canada's national retail presence. Today, Suncor is the third-largest oil producer in Canada by volume and among the world's leading oil sands operators, with tens of thousands of employees across Canada and the United States.
+Suncor's modern form traces to 1979, when Sun Oil Company (a U.S. subsidiary of Britain's Sunoco) spun off its Canadian operations as Suncor Inc. The company merged with Petro-Canada in 2009, an [acquisition](/acquisition/) that consolidated two of Canada's energy majors and brought Suncor control of Petro-Canada's national retail presence. Today, Suncor is the third-largest oil producer in Canada by volume and among the world's leading oil sands operators, with tens of thousands of employees across Canada and the United States.
 
 ## Business Model
 
 Suncor's revenue derives from three primary segments:
 
-**Oil Sands:** The core operation, where Suncor mines and processes bitumen in the Fort McMurray region of northern Alberta. The company uses both open-pit mining (particularly at the Base Plant and Millennium mines) and in-situ bitumen extraction (using steam-assisted gravity drainage, or SAGD). Oil sands production is capital-intensive and long-lived; reserves can sustain decades of output. Raw bitumen is upgraded on-site into synthetic crude oil, which then feeds downstream operations or is sold on the market.
+**Oil Sands:** The core operation, where Suncor mines and processes bitumen in the Fort McMurray region of northern Alberta. The company uses both open-pit mining (particularly at the Base Plant and Millennium mines) and in-situ bitumen extraction (using steam-assisted gravity drainage, or SAGD). Oil sands production is capital-intensive and long-lived; reserves can sustain decades of output. Raw bitumen is upgraded on-site into synthetic [crude oil](/crude-oil/), which then feeds downstream operations or is sold on the market.
 
-**Conventional Oil & Gas:** Suncor operates conventional crude and natural gas assets in western Canada and offshore (including a stake in the Terra Nova platform off Newfoundland), a smaller but stable complement to oil sands output.
+**Conventional Oil & Gas:** Suncor operates conventional crude and [natural gas](/natural-gas/) assets in western Canada and offshore (including a stake in the Terra Nova platform off Newfoundland), a smaller but stable complement to oil sands output.
 
 **Refining & Marketing:** Suncor operates four refineries across Canada and the U.S. (in Ontario, Alberta, Colorado, and California), with combined throughput capacity exceeding 500,000 barrels per day. The Petro-Canada retail and convenience store network spans Canada and serves as a distribution channel for refined fuels and margins, tying refinery output directly to consumer demand.
 
-Revenue is highly exposed to crude oil prices; Suncor sells into global markets at prices set by benchmarks like West Texas Intermediate (WTI) and Brent crude. Refining margins—the spread between crude costs and refined product prices—create offsetting hedges during price swings, though the retail network is largely domestic and supplies fuel to Canadian consumers at local prices.
+Revenue is highly exposed to crude oil prices; Suncor sells into global markets at prices set by benchmarks like West Texas Intermediate (WTI) and [Brent crude](/brent-crude/). Refining margins—the spread between crude costs and refined product prices—create offsetting hedges during price swings, though the retail network is largely domestic and supplies fuel to Canadian consumers at local prices.
 
 ## Competitive Position and Challenges
 
@@ -37,7 +37,7 @@ Suncor is a scale player in a consolidated industry. Its competitive moat rests 
 
 **Capital Intensity:** Oil sands operations require massive upfront spending on mines, facilities, and upgrades; project timelines span years to decades. Once built, these assets become stranded if crude prices collapse or demand shifts.
 
-**Environmental Liability:** Oil sands extraction and refining carry environmental and remediation costs; tailings management and land reclamation add to the balance sheet risk.
+**[Environmental Liability](/environmental-liability/):** Oil sands extraction and refining carry environmental and remediation costs; tailings management and land reclamation add to the [balance sheet](/balance-sheet/) risk.
 
 Despite these headwinds, Suncor remains one of the lowest-cost oil sands producers globally on a per-barrel basis, which provides some cushion in low-price environments.
 
@@ -51,8 +51,8 @@ The integrated structure means Suncor has natural hedging: when crude prices spi
 
 Start with Suncor's [10-K](/wiki/10-k/) annual report (filed on EDGAR under CIK 311337) and quarterly earnings releases, which detail production volumes, costs, capital plans, and regional operations. Key sections include Management's Discussion & Analysis (MD&A) for insight into price sensitivity and cost trends, and the Risk Factors section for exposure to energy transition risk.
 
-Watch industry publications and equity research for developments in crude prices, Canadian regulatory policy (carbon tax, emissions caps), and Suncor's capital allocation decisions. The company's dividend history reflects its positioning as a cash-generative but cyclical business; dividend sustainability often signals management confidence or stress.
+Watch industry publications and equity research for developments in crude prices, Canadian regulatory policy (carbon tax, emissions caps), and Suncor's capital allocation decisions. The company's [dividend](/dividend/) history reflects its positioning as a cash-generative but cyclical business; dividend sustainability often signals management confidence or stress.
 
-Key metrics to track: oil production (barrels per day, often in thousands), realized crude selling price, all-in cash cost per barrel (including extraction, transport, and capital charges), refining margins, and free cash flow. Debt levels matter in low-price cycles; leverage ratios highlight refinancing risk if crude stays depressed.
+Key metrics to track: oil production (barrels per day, often in thousands), realized crude selling price, all-in cash cost per barrel (including extraction, transport, and capital charges), refining margins, and [free cash flow](/free-cash-flow/). Debt levels matter in low-price cycles; [leverage ratios](/leverage-ratio-forex/) highlight [refinancing risk](/refinancing-risk/) if crude stays depressed.
 
 Suncor's position in global oil sands production and its integrated downstream operations make it a bellwether for both Canadian oil policy and the energy transition narrative within legacy energy majors.

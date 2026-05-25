@@ -19,7 +19,7 @@ The company operates in the clinical development phase, having advanced programs
 
 ## What is ACHIEVE's business model?
 
-Like many clinical-stage biotech firms, ACHIEVE generates interest through licensing deals, partnership agreements, and potential milestone payments from collaborators or acquirers. The company's own therapeutic pipeline—its intellectual property and proprietary compounds—represents its core asset. Until products reach market approval and generate revenues, ACHIEVE relies on capital raises, debt facilities, and strategic partnerships to fund operations. The prospect of future commercialization and potential acquisition by larger pharmaceutical firms underpin the company's strategic approach.
+Like many clinical-stage biotech firms, ACHIEVE generates interest through licensing deals, partnership agreements, and potential milestone payments from collaborators or acquirers. The company's own therapeutic pipeline—its intellectual property and proprietary compounds—represents its core asset. Until products reach market approval and generate revenues, ACHIEVE relies on capital raises, debt facilities, and strategic partnerships to fund operations. The prospect of future commercialization and potential [acquisition](/acquisition/) by larger pharmaceutical firms underpin the company's strategic approach.
 
 ## How does ACHIEVE relate to broader industry trends?
 

@@ -15,7 +15,7 @@ The company emerged from a long history in the Pennsylvania gas business. It tra
 
 ## The business layers
 
-**Exploration & Production.** NFG produces natural gas and crude oil primarily from its acreage in the Marcellus and Utica shales. Production is substantial but volatile, tied to commodity prices and the company's capital spend decisions. Marcellus acreage is especially valuable because of its scale, low extraction costs, and proximity to demand centers in the Northeast and Mid-Atlantic. Like all E&P companies, NFG faces drilling and commodity-price risk, though its portfolio spans multiple zones and years, smoothing some volatility.
+**Exploration & Production.** NFG produces natural gas and [crude oil](/crude-oil/) primarily from its acreage in the Marcellus and Utica shales. Production is substantial but volatile, tied to commodity prices and the company's capital spend decisions. Marcellus acreage is especially valuable because of its scale, low extraction costs, and proximity to demand centers in the Northeast and Mid-Atlantic. Like all E&P companies, NFG faces drilling and commodity-price risk, though its portfolio spans multiple zones and years, smoothing some volatility.
 
 **Gathering.** The company operates gathering systems—the networks of pipes that collect raw gas from thousands of wells, compress it, and move it toward processing and transmission. This is a high-capital, moderate-return business, but essential to its own production and a source of recurring fee income from third-party producers operating on NFG land or in areas where the company owns gathering infrastructure.
 
@@ -41,9 +41,9 @@ Natural gas faces a structural challenge: it is a fossil fuel competing against 
 
 [Pipeline](/wiki/10-k/) permitting has become contentious. Large projects face environmental review, local opposition, and regulatory delays. NFG has faced pushback on expansion projects and must balance growth ambitions against the time and cost of the approval process. Any reduction in transmission capacity or delays in bringing new supplies to market directly crimp profitability.
 
-Commodity-price volatility affects the production side acutely. Sustained low gas prices make drilling uneconomic and force inventory write-downs. The company can trim spending and preserve cash, but sustained downturns test balance-sheet strength and the ability to fund dividends and debt service. The utility provides earnings stability, but it is not large enough to offset severe production downturns.
+Commodity-price volatility affects the production side acutely. Sustained low gas prices make drilling uneconomic and force inventory write-downs. The company can trim spending and preserve cash, but sustained downturns test balance-sheet strength and the ability to fund [dividends](/dividend/) and debt service. The utility provides earnings stability, but it is not large enough to offset severe production downturns.
 
-Financing and inflation risk loom. NFG is capital-intensive, particularly for gathering and pipeline expansion. Rising interest rates and construction costs can squeeze returns and force trade-offs in investment. The company must balance growth projects against the cost of capital and shareholder return expectations.
+Financing and [inflation risk](/inflation-risk/) loom. NFG is capital-intensive, particularly for gathering and pipeline expansion. Rising [interest rates](/interest-rate/) and construction costs can squeeze returns and force trade-offs in investment. The company must balance growth projects against the cost of capital and shareholder return expectations.
 
 ## Researching NFG
 
@@ -52,11 +52,11 @@ Start with the [10-K](/wiki/10-k/) and earnings calls. The 10-K breaks out segme
 - **Production volumes and realized prices.** What is the company producing, at what cost, and at what realized price (accounting for hedges)?
 - **Reserve replacement ratio.** Is the company replacing reserves through drilling, or is reserve life declining?
 - **Utility rate base and growth.** What is the regulated asset base earning returns, and what is the pace of new capital investment in the utility?
-- **Leverage and free cash flow.** How much debt does the company carry, and is it generating cash to fund dividends and debt reduction, or does it depend on equity raises?
+- **Leverage and [free cash flow](/free-cash-flow/).** How much debt does the company carry, and is it generating cash to fund dividends and debt reduction, or does it depend on equity raises?
 - **Transmission and storage utilization.** Are capacity fees stable, or are volumes declining?
-- **Capital allocation.** What is the dividend sustainability and payout ratio in different price scenarios?
+- **Capital allocation.** What is the dividend sustainability and [payout ratio](/payout-ratio/) in different price scenarios?
 
 Watch also for regulatory filings with state commissions and the Federal Energy Regulatory Commission. Pipeline expansion plans, rate-change proposals, and environmental or safety issues often surface there before earnings calls. Industry conferences and reports from [natural gas](/wiki/natural-gas/) analysts provide context on supply-demand dynamics, regional pricing, and competitive moves by rivals like Dominion Energy, UGI, or other Appalachian integrated players.
 
-NFG is a case study in integration—a company trying to thread the needle between commodity exposure and regulated utility returns, between growth and cash generation, between fossil-fuel headwinds and structural demand for gas in its core markets. Investors must weigh whether the diversification smooths volatility or merely spreads risk across a declining industry.
+NFG is a case study in integration—a company trying to thread the needle between commodity exposure and regulated utility returns, between growth and cash generation, between fossil-fuel headwinds and structural demand for gas in its core markets. Investors must weigh whether the [diversification](/diversification/) smooths volatility or merely spreads risk across a declining industry.
 

@@ -13,7 +13,7 @@ Yum! Brands is a holding company that owns and operates three of the world's lar
 
 ## The Franchise Model
 
-Unlike traditional restaurant companies that own and operate their own establishments, Yum collects royalties and other fees from franchisees who own and run the day-to-day operations of individual restaurants. Franchisees sign agreements to operate under Yum's brands, follow its systems, and pay a percentage of sales as rent, royalties, and advertising contributions. This structure means Yum operates with asset-light economics: it requires far less capital than a company running thousands of restaurants directly, and it shifts operational risk and labor costs onto franchise partners. The model generates high-margin, recurring revenue that is relatively stable across economic cycles—royalties keep flowing whether customer traffic is booming or merely steady.
+Unlike traditional restaurant companies that own and operate their own establishments, Yum collects royalties and other fees from franchisees who own and run the day-to-day operations of individual restaurants. Franchisees sign agreements to operate under Yum's brands, follow its systems, and pay a percentage of sales as rent, royalties, and advertising contributions. This structure means Yum operates with asset-light economics: it requires far less capital than a company running thousands of restaurants directly, and it shifts [operational risk](/operational-risk/) and labor costs onto franchise partners. The model generates high-margin, recurring revenue that is relatively stable across economic cycles—royalties keep flowing whether customer traffic is booming or merely steady.
 
 This approach has driven Yum's profitability. The company's actual number of company-operated restaurants is minimal; the bulk of its nearly 60,000 locations worldwide are franchised. Each brand runs according to standardized operations manuals, but franchisees shoulder the burden of hiring, training, food costs, rent, and local marketing. Yum's job is maintaining brand integrity, marketing the brands at scale, developing menus and operations systems, and collecting fees.
 
@@ -35,7 +35,7 @@ This approach has driven Yum's profitability. The company's actual number of com
 
 **Taco Bell**, with roughly 10,000 units, dominates the Mexican quick-service segment in the United States and is Yum's high-growth brand domestically. Positioned at the value end of the market, Taco Bell has benefited from aggressive unit growth and menu innovation, and it carries outsized profitability relative to its restaurant count due to strong unit economics.
 
-**The Habit Burger Grill**, acquired more recently (2023), brought a smaller but higher-end burger concept with approximately 400 locations. This acquisition signals Yum's intent to capture growth in the premium casual segment.
+**The Habit Burger Grill**, acquired more recently (2023), brought a smaller but higher-end burger concept with approximately 400 locations. This [acquisition](/acquisition/) signals Yum's intent to capture growth in the premium casual segment.
 
 Each brand maintains separate operations teams and marketing strategies, allowing Yum to compete across multiple market segments and formats. KFC skews toward developing markets where fried-chicken demand is strong and brand recognition runs deep; Taco Bell focuses on North America and expansion into new markets; The Habit brings sophistication and higher-average-unit-volumes to Yum's portfolio.
 
@@ -43,7 +43,7 @@ Each brand maintains separate operations teams and marketing strategies, allowin
 
 A defining feature of Yum's growth has been its aggressive international expansion. More than half of Yum's revenue comes from outside the United States, with China emerging as the most critical strategic market. China represents not only massive restaurant expansion opportunity but also higher average unit volumes and consumer spending as the middle class grows.
 
-KFC and Taco Bell both operate thousands of locations across China, with digital ordering and delivery deeply integrated. Yum has invested in local partnerships and digital capabilities to compete with homegrown rivals. This geographic diversification both supports growth (international markets still show robust restaurant development) and creates exposure to currency fluctuations and geopolitical risks.
+KFC and Taco Bell both operate thousands of locations across China, with digital ordering and delivery deeply integrated. Yum has invested in local partnerships and digital capabilities to compete with homegrown rivals. This geographic [diversification](/diversification/) both supports growth (international markets still show robust restaurant development) and creates exposure to currency fluctuations and geopolitical risks.
 
 ## Digital and Technology Innovation
 
@@ -58,7 +58,7 @@ These investments support Yum's strategic argument: it is not just collecting ro
 
 ## Earnings and Capital Returns
 
-The asset-light model produces strong free cash flow. Yum invests minimally in capital expenditures (franchisees build and maintain the restaurants) and instead generates royalty income that flows nearly straight to the bottom line. This cash is returned to shareholders through dividends and share buybacks, making Yum attractive to income-focused investors.
+The asset-light model produces strong [free cash flow](/free-cash-flow/). Yum invests minimally in capital expenditures (franchisees build and maintain the restaurants) and instead generates royalty income that flows nearly straight to the bottom line. This cash is returned to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/), making Yum attractive to income-focused investors.
 
 Growth comes primarily from unit expansion (opening new franchised restaurants), same-store sales growth (driving more revenue per existing restaurant), and pricing power (raising menu prices when costs rise). During inflationary periods, Yum has pricing flexibility because its brands occupy value tiers of the market—customers tolerate price increases for convenience and consistency, and franchisees absorb some margin pressure.
 

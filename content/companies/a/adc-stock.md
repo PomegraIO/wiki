@@ -11,7 +11,7 @@ handwritten: true
 
 Agree Realty Corporation operates at the intersection of retail real estate and finance, acquiring properties and leasing them to established consumer-facing brands under long-term net lease agreements. The company's portfolio spans all 50 states, with tenants including Walmart, 7-Eleven, Wawa, and collision repair operators. Rather than managing day-to-day operations, Agree Realty collects rent from creditworthy retailers, who shoulder maintenance and operating costs—a structural advantage that transforms property ownership into an income vehicle.
 
-The net lease model produces predictable cash flows by anchoring tenants to 10–20 year leases with rent escalations built in. This stability means the company's earnings don't hinge on retail's day-to-day performance; it hinges on tenant solvency. The REIT screens for operators with proven brands and strong balance sheets, reducing the risk that rents will vanish if a tenant stumbles. Dividends, often the primary return for REIT investors, flow from this steady rental stream.
+The net lease model produces predictable cash flows by anchoring tenants to 10–20 year leases with rent escalations built in. This stability means the company's earnings don't hinge on retail's day-to-day performance; it hinges on tenant solvency. The REIT screens for operators with proven brands and strong [balance sheets](/balance-sheet/), reducing the risk that rents will vanish if a tenant stumbles. [Dividends](/dividend/), often the primary return for REIT investors, flow from this steady rental stream.
 
 The company's revenue segments and sources reflect the breadth of its retail tenant base:
 

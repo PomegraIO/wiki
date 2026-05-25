@@ -11,7 +11,7 @@ handwritten: true
 
 ## What is So-Young, and what does it do?
 
-So-Young International Inc. (NASDAQ: SY) is a Beijing-based company at the center of China's medical aesthetics industry. Founded in 2013, So-Young began as a content community and online marketplace for cosmetic procedures, allowing consumers to research treatments, read reviews, and book appointments with clinics and practitioners. Today it operates as both a digital platform connecting beauty seekers with providers and, increasingly, as the direct operator of its own chain of aesthetic centers.
+So-Young International Inc. ([NASDAQ](/nasdaq/): SY) is a Beijing-based company at the center of China's medical aesthetics industry. Founded in 2013, So-Young began as a content community and online marketplace for cosmetic procedures, allowing consumers to research treatments, read reviews, and book appointments with clinics and practitioners. Today it operates as both a digital platform connecting beauty seekers with providers and, increasingly, as the direct operator of its own chain of aesthetic centers.
 
 <aside class="wiki-infobox">
 **Key Facts**
@@ -50,7 +50,7 @@ Each new location is designed to reach positive operating cash flow quickly, ind
 
 **Clinic expansion execution** poses execution risk. Opening and staffing 50+ new clinics and eventually thousands requires consistent capital, operational discipline, and local market expertise. Failed locations or underperforming clinics will drain capital and management attention. Scaling training and quality control across many sites is operationally complex.
 
-**Economic sensitivity** matters. Medical aesthetics is discretionary spending; during downturns or regional economic weakness, consumers defer treatments. China's economy has slowed in recent years, which could pressure demand and pricing.
+**Economic sensitivity** matters. Medical aesthetics is [discretionary spending](/discretionary-spending/); during downturns or regional economic weakness, consumers defer treatments. China's economy has slowed in recent years, which could pressure demand and pricing.
 
 **Profitability timing** is uncertain. The shift toward owned clinics is more capital-intensive than pure-marketplace revenue. The company must prove that clinic expansion can achieve the returns promised to investors and that the [10-K](/wiki/10-k/) reflects sustainable cash generation, not just topline growth.
 

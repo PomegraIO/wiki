@@ -16,7 +16,7 @@ Metropolitan Bank Holding Corp. operates Metropolitan Commercial Bank, a communi
 
 Metropolitan Commercial Bank traces its origins to 2001, when it was founded to fill a specific gap in New York's banking landscape: reliable, relationship-driven commercial banking for businesses and organizations that didn't fit the profile of megabank clients. Rather than competing for headline-dominating corporate deals, the bank built its practice around consistent, hands-on lending and deposit services for customers who valued accessibility and decision-making speed.
 
-Over two decades, the bank has carved out a sustainable niche. Its loan portfolio centers on commercial real estate, particularly small office and retail properties; working capital lines for service, manufacturing, and professional service firms; and specialty lending to nonprofits and tax-exempt organizations. Deposit relationships come not only from borrowing customers but also from organizations seeking dedicated treasury services, FDIC insurance coverage through multiple deposit tiers, and banking relationships that feel personal rather than algorithmic.
+Over two decades, the bank has carved out a sustainable niche. Its loan portfolio centers on [commercial real estate](/commercial-real-estate/), particularly small office and retail properties; working capital lines for service, manufacturing, and professional service firms; and specialty lending to nonprofits and tax-exempt organizations. Deposit relationships come not only from borrowing customers but also from organizations seeking dedicated treasury services, FDIC insurance coverage through multiple deposit tiers, and banking relationships that feel personal rather than algorithmic.
 
 The bank holds strong ties to the New York market but has gradually expanded its footprint to nearby regions. This geographic focus—rather than a costly national or digital-first expansion—has allowed Metropolitan to know its borrowers and maintain underwriting discipline without the compliance and operational overhead that comes with rapid geographic scaling.
 
@@ -30,7 +30,7 @@ Metropolitan's loan book is less geographically diversified than a national bank
 
 ## Competitive position and constraints
 
-Metropolitan faces structural headwinds common to small and mid-sized banks. It cannot match the deposit-gathering scale, technology investment, or brand recognition of JPMorgan Chase or Bank of America. It does not have the capital markets infrastructure to compete for underwriting or advisory fees. Its loan pricing power is limited when borrowers can shop rates across multiple providers.
+Metropolitan faces structural headwinds common to small and mid-sized banks. It cannot match the deposit-gathering scale, technology investment, or brand recognition of [JPMorgan Chase](/jpmorgan-chase/) or [Bank of America](/bank-of-america/). It does not have the capital markets infrastructure to compete for underwriting or advisory fees. Its loan pricing power is limited when borrowers can shop rates across multiple providers.
 
 What the bank does have is specialization and relationship advantage. Customers who value quick credit decisions, direct access to decision-makers, and tailored solutions find value in Metropolitan's model. Nonprofit lending—a relatively specialized domain—is an example where expertise and willing capital matter more than price.
 
@@ -38,9 +38,9 @@ The bank also operates with higher compliance overhead per dollar of assets than
 
 ## Risks and market position
 
-Like all commercial banks, Metropolitan faces interest rate sensitivity. A sustained low-rate environment compresses net interest margins and forces yield-seeking behavior that can erode credit quality. Rising rates, conversely, can pressure borrower capacity and asset values (especially for commercial real estate). The bank's concentration in NYC-area CRE and nonprofits adds geographic and sector risk that diversified national banks do not carry to the same degree.
+Like all commercial banks, Metropolitan faces [interest rate](/interest-rate/) sensitivity. A sustained low-rate environment compresses net interest margins and forces yield-seeking behavior that can erode credit quality. Rising rates, conversely, can pressure borrower capacity and asset values (especially for commercial real estate). The bank's concentration in NYC-area CRE and nonprofits adds geographic and sector risk that diversified national banks do not carry to the same degree.
 
-Deposit stability is a structural question. While the bank's focus on institution and organization deposits provides some stickiness, it also creates concentration risk—the loss of a few large depositors can materially impact the balance sheet. Retail deposit competition in New York, driven by high-rate offerings from online banks, has intensified in recent years.
+Deposit stability is a structural question. While the bank's focus on institution and organization deposits provides some stickiness, it also creates [concentration risk](/concentration-risk/)—the loss of a few large depositors can materially impact the [balance sheet](/balance-sheet/). Retail deposit competition in New York, driven by high-rate offerings from online banks, has intensified in recent years.
 
 The regulatory environment poses both constraint and moat. Compliance with banking regulations, FDIC examination scrutiny, and anti-money-laundering rules are costly, but they also deter easy competitive entry. Small banks that remain profitable in this environment generally do so by staying disciplined on credit and avoiding the temptation to reach for yield through lower credit standards.
 

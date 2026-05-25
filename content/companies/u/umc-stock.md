@@ -28,7 +28,7 @@ Pricing power is limited by the threat of customer defection. If UMC raises pric
 
 ## Scale and competitive position
 
-UMC operates dozens of fabs across Taiwan, Singapore, and China. Output capacity expanded significantly following the 2021 shortage as customers signed multi-year purchase commitments. However, excess capacity has returned as demand softened; the foundry industry typically runs at 70–85% utilization. UMC competes with Samsung's foundry arm, GlobalFoundries (a former AMD spinoff), and SMIC (China's leading foundry), as well as smaller regional players and captive fabs run by integrated device manufacturers. TSMC, despite its dominance in advanced nodes, also competes in mature segments; its higher cost structure makes it an unattractive partner for cost-conscious customers, but occasional price wars occur when TSMC seeks volume.
+UMC operates dozens of fabs across Taiwan, Singapore, and China. Output capacity expanded significantly following the 2021 shortage as customers signed multi-year purchase commitments. However, excess capacity has returned as demand softened; the foundry industry typically runs at 70–85% utilization. UMC competes with Samsung's foundry arm, GlobalFoundries (a former AMD [spinoff](/spinoff/)), and SMIC (China's leading foundry), as well as smaller regional players and captive fabs run by integrated device manufacturers. TSMC, despite its dominance in advanced nodes, also competes in mature segments; its higher cost structure makes it an unattractive partner for cost-conscious customers, but occasional price wars occur when TSMC seeks volume.
 
 ## Revenue composition and geographic risk
 
@@ -38,11 +38,11 @@ Most customers do not disclose their orders publicly, making UMC's revenue less 
 
 ## How to read UMC's financial filings
 
-UMC files a [10-K](/wiki/10-k/) annually with the US Securities and Exchange Commission (as a foreign private issuer); earnings calls and quarterly reports follow the same calendar as US firms. Key metrics to watch are:
+UMC files a [10-K](/wiki/10-k/) annually with the US [Securities and Exchange Commission](/securities-and-exchange-commission/) (as a foreign private issuer); earnings calls and quarterly reports follow the same calendar as US firms. Key metrics to watch are:
 
 - **Wafer starts and capacity utilization**: A foundry's monthly wafer fab utilization percentage signals demand strength. Starts above 90% suggest tight supply and potential pricing power; below 70% implies inventory buildup and risk of margin compression.
 - **Revenue per wafer (RPW) and gross margin**: These reflect both pricing (negotiated with customers) and operational efficiency. Improving RPW amid stable or rising volume indicates positive momentum; declining RPW suggests pricing pressure.
-- **Capital expenditure**: Large wafer fab investments signal management confidence in demand, but also lock in future depreciation and cash burn if revenue disappoints.
+- **Capital expenditure**: Large wafer fab investments signal management confidence in demand, but also lock in future [depreciation](/depreciation/) and cash burn if revenue disappoints.
 - **Inventory days and working capital**: High inventory can precede a demand reset.
 
 The company discloses operating segments by process technology and geography, allowing investors to gauge exposure to growth areas (e.g., automotive, IoT) versus decline (legacy consumer).
@@ -53,5 +53,5 @@ UMC's mature-node focus, while defensible today, creates ambiguity about the nex
 
 Environmental and energy costs are rising. Semiconductor fabs consume vast amounts of electricity and ultra-pure water; stricter regulations and higher power costs affect margins across the industry. UMC's older fabs may be less energy-efficient than new competitors' designs.
 
-The company's China exposure—both as a manufacturing location and market—remains politically sensitive. Taiwan's status in US-China relations, trade restrictions, and supply-chain diversification policies shape UMC's strategic options.
+The company's China exposure—both as a manufacturing location and market—remains politically sensitive. Taiwan's status in US-China relations, trade restrictions, and supply-chain [diversification](/diversification/) policies shape UMC's strategic options.
 

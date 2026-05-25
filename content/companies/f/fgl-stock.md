@@ -22,7 +22,7 @@ For the first few years of operation, FGL built experience executing solar proje
 
 On [October 23, 2024](/wiki/10-k/), Founder Group became a [public company](/wiki/public-company/) when its shares began trading on the [Nasdaq Capital Market](/wiki/stock-exchange/) under the ticker FGL. The IPO priced at $4.00 per share, raising approximately $4.9 million in gross proceeds. At that moment, the company had generated recent annual revenue near $5 million and posted modest losses—typical for a young contractor still scaling its operations.
 
-The Nasdaq listing put FGL on the radar of institutional investors and provided it with currency and capital-raising flexibility, though the company remained a micro-cap with a relatively small public float. Like many foreign issuers trading on U.S. markets, FGL files annual reports as [Form 20-F](/wiki/10-k/) with the SEC under CIK 1989930, disclosing its Malaysian operations to American investors.
+The [Nasdaq](/nasdaq/) listing put FGL on the radar of institutional investors and provided it with currency and capital-raising flexibility, though the company remained a micro-cap with a relatively small [public float](/float/). Like many foreign issuers trading on U.S. markets, FGL files annual reports as [Form 20-F](/wiki/10-k/) with the SEC under CIK 1989930, disclosing its Malaysian operations to American investors.
 
 ## The Present Business
 
@@ -44,7 +44,7 @@ In parallel, FGL has signed strategic partnerships to develop data center solar 
 
 ## Competitive Pressures and Execution Risks
 
-FGL faces real competitive headwinds. Global contractors and local competitors have entered Malaysia's solar EPC market, attracted by the same pipeline growth that drew FGL's attention. Larger, more established firms bring deeper balance sheets, international experience, and established supply chains—advantages that matter in executing multi-year, multi-megawatt projects.
+FGL faces real competitive headwinds. Global contractors and local competitors have entered Malaysia's solar EPC market, attracted by the same pipeline growth that drew FGL's attention. Larger, more established firms bring deeper [balance sheets](/balance-sheet/), international experience, and established supply chains—advantages that matter in executing multi-year, multi-megawatt projects.
 
 Execution risk is acute in any contractor business. Delays, cost overruns, equipment availability, and weather events can compress or even invert project margins. FGL's thin profitability to date suggests the company is still learning its cost structure and has not yet achieved scale or process efficiency.
 
@@ -52,8 +52,8 @@ Regulatory risk also exists. Malaysia's renewable energy policy—tendering pace
 
 ## How to Follow It
 
-The starting point is FGL's annual [Form 20-F](/wiki/10-k/) filing with the SEC, which discloses revenue by segment, detailed project backlog, customer concentration, and forward guidance. The company also announces material contracts via press releases, giving real-time signals about pipeline replenishment.
+The starting point is FGL's annual [Form 20-F](/wiki/10-k/) filing with the SEC, which discloses revenue by segment, detailed project backlog, customer concentration, and [forward guidance](/forward-guidance/). The company also announces material contracts via press releases, giving real-time signals about pipeline replenishment.
 
-Investors monitoring FGL should track several metrics: quarterly revenue and gross margins (particularly important for a contractor), days-sales-outstanding (a sign of customer payment discipline), backlog composition and expected revenue recognition, and headcount and SG&A costs (indicators of operational leverage as revenue scales). The company's compliance with Nasdaq listing standards—including minimum stock price and share float rules—is also worth monitoring; FGL faced compliance notices in 2025 and early 2026 and may face future listing challenges if its stock price weakens.
+Investors monitoring FGL should track several metrics: quarterly revenue and gross margins (particularly important for a contractor), days-sales-outstanding (a sign of customer payment discipline), backlog composition and expected [revenue recognition](/revenue-recognition/), and headcount and SG&A costs (indicators of operational leverage as revenue scales). The company's compliance with Nasdaq listing standards—including minimum stock price and share float rules—is also worth monitoring; FGL faced compliance notices in 2025 and early 2026 and may face future listing challenges if its stock price weakens.
 
 For those with specific interest in Malaysia's renewable energy sector, FGL provides a direct exposure to the EPC contracting side of solar deployment, distinct from project developers or module manufacturers. Its success or struggle will signal whether the country's solar acceleration can sustain margin-positive EPC work or whether competitive commoditization will prevail.

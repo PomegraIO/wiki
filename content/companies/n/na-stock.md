@@ -34,7 +34,7 @@ However, Nano Labs faces real competitive headwinds. Larger materials suppliers 
 
 ## What are the fundamental risks to this business?
 
-Market concentration is real. If one or two major customer programs (a pharmaceutical formulation, an aerospace supplier's qualification) represent a significant fraction of annual revenue, loss of that contract becomes existential. The company's customer disclosure in the [10-K](/wiki/10-k/) typically reveals concentration risk that investors should assess carefully.
+Market concentration is real. If one or two major customer programs (a pharmaceutical formulation, an aerospace supplier's qualification) represent a significant fraction of annual revenue, loss of that contract becomes existential. The company's customer disclosure in the [10-K](/wiki/10-k/) typically reveals [concentration risk](/concentration-risk/) that investors should assess carefully.
 
 Technological disruption is another angle. A competitor or customer developing a superior synthesis method, or an unexpected shift in application preferences (e.g., a pharmaceutical company pivoting away from nanoparticle delivery), can obsolete months of engineering work and customer qualification. The nanotechnology field itself is mature enough now that breakthroughs are still possible but less frequent and harder to capitalize on.
 
@@ -48,7 +48,7 @@ Finally, there is commoditization risk. Some nanomaterial categories (e.g., stan
 
 Start with the most recent [10-K](/wiki/10-k/) filing with the SEC (CIK 1872302). Look for customer concentration disclosures, segment breakdowns (which customer types and geographies contribute to revenue), and details on manufacturing capacity and capital expenditure plans. The MD&A section will explain management's view of current market conditions and growth drivers.
 
-Pay close attention to gross margin trends and how much gross profit is consumed by R&D and sales overhead. Nanotechnology companies typically carry high R&D spending as a percentage of revenue; if this expense ratio is rising faster than revenue, the company may be struggling to convert research into commercial wins.
+Pay close attention to gross margin trends and how much gross profit is consumed by R&D and sales overhead. Nanotechnology companies typically carry high R&D spending as a percentage of revenue; if this [expense ratio](/expense-ratio/) is rising faster than revenue, the company may be struggling to convert research into commercial wins.
 
 Look for intellectual property disclosures and patent filings. A growing patent portfolio can signal competitive moat; a static or shrinking one may suggest innovation is slowing or competitors are leapfrogging the technology.
 

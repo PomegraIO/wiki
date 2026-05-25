@@ -26,13 +26,13 @@ handwritten: true
 
 </aside>
 
-Organon is a mid-sized global pharmaceutical company formed in 2021 through a spinoff from Merck & Co. The company's singular strategic focus centers on three interlocking business areas: women's health, biosimilars, and a stable portfolio of established, branded medicines that generate reliable cash flows. This combination positions Organon as a specialty player in the global pharma landscape, distinct from both the megacap research-driven giants and pure-play biosimilars manufacturers.
+Organon is a mid-sized global pharmaceutical company formed in 2021 through a [spinoff](/spinoff/) from Merck & Co. The company's singular strategic focus centers on three interlocking business areas: women's health, biosimilars, and a stable portfolio of established, branded medicines that generate reliable cash flows. This combination positions Organon as a specialty player in the global pharma landscape, distinct from both the megacap research-driven giants and pure-play biosimilars manufacturers.
 
 ## The Spinoff and Founding Context
 
 Organon's creation reflected a deliberate corporate separation within Merck. In June 2021, Merck spun off a portfolio of products focused on women's health, biosimilars, and established therapeutic franchises into an independent, publicly traded entity. The parent company retained its core oncology, immunology, and vaccine businesses, allowing both entities to operate with sharper strategic focus. For Organon, independence meant building a business model centered on improving access to healthcare for women throughout their lives—a mission that shaped product selection and corporate priorities from inception.
 
-The company began trading on the New York Stock Exchange on June 3, 2021, inheriting an established brand presence in over 140 markets with an annual revenue base approaching $6.5 billion. This scale distinguished Organon from startups or boutique specialists; it entered the market as a functioning, profit-generating enterprise with existing manufacturing infrastructure, regulatory approvals, and commercial distribution networks.
+The company began trading on the [New York Stock Exchange](/new-york-stock-exchange/) on June 3, 2021, inheriting an established brand presence in over 140 markets with an annual revenue base approaching $6.5 billion. This scale distinguished Organon from startups or boutique specialists; it entered the market as a functioning, profit-generating enterprise with existing manufacturing infrastructure, regulatory approvals, and commercial distribution networks.
 
 ## The Three Business Pillars
 
@@ -44,13 +44,13 @@ The company began trading on the New York Stock Exchange on June 3, 2021, inheri
 
 ## Distribution and Scale
 
-Organon operates through established manufacturing and distribution infrastructure across developed and emerging markets. The company generates approximately 80% of revenue internationally, with significant presence in Latin America, Europe, and Asia. This geographic diversification insulates the business from dependence on any single market, though it also exposes earnings to currency fluctuations and varying regulatory environments. The company's size and established relationships with healthcare systems allow it to compete effectively in large-volume, price-sensitive markets where branded established medicines remain dominant.
+Organon operates through established manufacturing and distribution infrastructure across developed and emerging markets. The company generates approximately 80% of revenue internationally, with significant presence in Latin America, Europe, and Asia. This geographic [diversification](/diversification/) insulates the business from dependence on any single market, though it also exposes earnings to currency fluctuations and varying regulatory environments. The company's size and established relationships with healthcare systems allow it to compete effectively in large-volume, price-sensitive markets where branded established medicines remain dominant.
 
 ## Competitive Position and Pressures
 
 Organon operates in markets characterized by both structural advantages and persistent headwinds. In contraception, the company benefits from intellectual property, brand recognition, and deep healthcare provider relationships, but faces competition from both branded alternatives and generic/off-patent options. In established medicines, the primary threat is patent expiration and generic substitution—an inevitable cycle that compounds over time. Biosimilars positioning is more competitive, with many manufacturers pursuing similar opportunities; Organon's smaller scale relative to integrated pharma giants means less R&D spending and slower innovation cycles.
 
-The competitive landscape shifted meaningfully in April 2026, when Organon agreed to be acquired by Sun Pharmaceutical Industries in an all-cash transaction valued at $11.75 billion. This development signals industry consolidation and reflects broader pressures on mid-sized, non-diversified pharmaceutical companies. The acquisition agreement, pending regulatory and shareholder approval, would mark the end of Organon's independence and likely reshape its strategic priorities under new ownership.
+The competitive landscape shifted meaningfully in April 2026, when Organon agreed to be acquired by Sun Pharmaceutical Industries in an all-cash transaction valued at $11.75 billion. This development signals industry consolidation and reflects broader pressures on mid-sized, non-diversified pharmaceutical companies. The [acquisition](/acquisition/) agreement, pending regulatory and shareholder approval, would mark the end of Organon's independence and likely reshape its strategic priorities under new ownership.
 
 ## Financial Model and Risks
 

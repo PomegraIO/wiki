@@ -27,7 +27,7 @@ ON Semiconductor manufactures a broad portfolio of integrated circuits that sit 
 
 ## The Roots and Transformation
 
-The company emerged from a 1999 spinoff of Philips' semiconductor division and went public that same year. Philips had long been a diversified electronics conglomerate with deep semiconductor expertise, and the carved-out unit inherited a portfolio of analog and mixed-signal designs alongside manufacturing capability. For its first decade, ON was a solid but unremarkable maker of analog chips for consumer electronics. The 2008 financial crisis proved a turning point: the company weathered the downturn, consolidated its manufacturing footprint, and began deliberately shifting its end-market exposure toward automotive and industrial—segments with longer product lifecycles and stickier customer relationships than consumer devices.
+The company emerged from a 1999 [spinoff](/spinoff/) of Philips' semiconductor division and went public that same year. Philips had long been a diversified electronics conglomerate with deep semiconductor expertise, and the carved-out unit inherited a portfolio of analog and mixed-signal designs alongside manufacturing capability. For its first decade, ON was a solid but unremarkable maker of analog chips for consumer electronics. The 2008 financial crisis proved a turning point: the company weathered the downturn, consolidated its manufacturing footprint, and began deliberately shifting its end-market exposure toward automotive and industrial—segments with longer product lifecycles and stickier customer relationships than consumer devices.
 
 That strategic pivot set the trajectory for the next fifteen years. As vehicles electrified and industrial systems digitized, the demand for ON's power-management and signal-processing chips rose sharply. Major automotive OEMs—Tesla, traditional Detroit and German automakers, and Chinese EV makers—became anchors in its revenue base.
 
@@ -51,13 +51,13 @@ ON's fortunes are tightly bound to automotive electrification. Should EV adoptio
 
 The semiconductor industry runs in cycles. Periods of undersupply and pricing power alternate with gluts and ferocious price competition. ON is large enough to survive downturns but not insulated from them. Its hybrid manufacturing model also introduces execution risk: a stumble in managing capacity across owned fabs and contract partners can lead to missed shipments or cost overruns.
 
-Integration into so many automotive platforms and industrial systems does provide some recession resilience—demand for automotive components and power supplies in factories remains fairly sticky. But the company is not defensive in a downturn; it follows end-market cycles closely.
+Integration into so many automotive platforms and industrial systems does provide some [recession](/recession/) resilience—demand for automotive components and power supplies in factories remains fairly sticky. But the company is not defensive in a downturn; it follows end-market cycles closely.
 
 ## Following the Story
 
 The [10-K](/wiki/10-k/) is the right place to understand ON's segment performance and gross-margin trends by product category. Watch quarterly gross margins and backlog commentary; in a semiconductor downturn, backlogs evaporate first. The company reports fab utilization and inventory levels in earnings calls—these reveal pricing power and competitive pressure ahead of formal guidance.
 
-Supply-chain stability is worth monitoring directly. ON publishes reports on supply diversification and geopolitical risk mitigation; any major shift in Taiwan or China exposure will show up in investor updates. The transition to SiC and GaN is moving faster than many investors expect; tracking the ramp of these product lines relative to peers gives early signal of where the next margin expansion will come from.
+Supply-chain stability is worth monitoring directly. ON publishes reports on supply [diversification](/diversification/) and geopolitical risk mitigation; any major shift in Taiwan or China exposure will show up in investor updates. The transition to SiC and GaN is moving faster than many investors expect; tracking the ramp of these product lines relative to peers gives early signal of where the next margin expansion will come from.
 
 Major automotive OEM announcements about electrification roadmaps and supplier selection are material to ON's forward outlook. The company's position in Tesla, in Chinese automakers, and in the tier-one suppliers to legacy OEMs (Bosch, Denso, Continental) collectively determine its growth rate for the next five years.
 

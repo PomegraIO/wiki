@@ -26,9 +26,9 @@ Xylem is a multinational industrial company headquartered in New York that desig
 
 ## Origins and Evolution
 
-Xylem was born in 2011 as a spin-off from diversified conglomerate ITT Corporation. ITT had owned water and fluid-handling businesses for decades, but the parent company needed focus—a story repeated many times in private equity and activist circles. The separation created a pure-play water technology company with a strong foundation in pump engineering, water supply systems, and wastewater handling.
+Xylem was born in 2011 as a [spin-off](/spin-off/) from diversified conglomerate ITT Corporation. ITT had owned water and fluid-handling businesses for decades, but the parent company needed focus—a story repeated many times in private equity and activist circles. The separation created a pure-play water technology company with a strong foundation in pump engineering, water supply systems, and wastewater handling.
 
-For the first decade after the spin, Xylem built its portfolio through organic growth and targeted acquisitions. The company strengthened its position in wastewater treatment, added digital monitoring capabilities, and expanded into emerging markets. But the pivotal moment came in 2022 when Xylem announced its acquisition of Evoqua Water Technologies for roughly $8.3 billion in cash and stock.
+For the first decade after the spin, Xylem built its portfolio through organic growth and targeted [acquisitions](/acquisition/). The company strengthened its position in wastewater treatment, added digital monitoring capabilities, and expanded into emerging markets. But the pivotal moment came in 2022 when Xylem announced its acquisition of Evoqua Water Technologies for roughly $8.3 billion in cash and stock.
 
 The Evoqua deal was transformational. Evoqua brought industrial water treatment expertise, chemical dosing systems, and a portfolio of treatment technologies that Xylem previously accessed through partnerships or partially served. The combined entity dramatically enlarged Xylem's addressable market—suddenly the company could serve industrial customers needing complex treatment chemistry, not just municipal systems needing pumps and meters. It was a vertical integration play: water treatment itself became a core product line, not just an adjacent service.
 
@@ -56,7 +56,7 @@ The moat is moderate, not absolute. Xylem can lose individual deals to cheaper c
 
 The Evoqua integration occupies management focus. The company is working to realize promised synergies—consolidating back-office functions, cross-selling treatment chemistry to pump customers, and simplifying product lines. Integration risk is real. Large acquisitions often overpromise on cost cuts and cross-selling and undershoot on synergies. Success here depends on execution discipline and whether the customer bases and operational cultures actually fit.
 
-Broader industry headwinds are present. **Infrastructure cycles.** Governments set budgets for water infrastructure annually or in multi-year programs. Xylem's order flow depends on these political and fiscal cycles. A recession or austerity push can compress capital spending, depressing demand. **Margin pressure in treatment.** Specialty chemicals and treatment are competitive markets. Rising input costs, supply chain issues, and commoditization of certain consumables (resins, filters) can squeeze margins. **Rising labor and raw material costs.** Like all industrials, Xylem faces wage inflation, energy costs, and metal and polymer price swings.
+Broader industry headwinds are present. **Infrastructure cycles.** Governments set budgets for water infrastructure annually or in multi-year programs. Xylem's order flow depends on these political and fiscal cycles. A [recession](/recession/) or austerity push can compress capital spending, depressing demand. **Margin pressure in treatment.** Specialty chemicals and treatment are competitive markets. Rising input costs, supply chain issues, and commoditization of certain consumables (resins, filters) can squeeze margins. **Rising labor and raw material costs.** Like all industrials, Xylem faces wage [inflation](/inflation/), energy costs, and metal and polymer price swings.
 
 On the other hand, secular tailwinds support the business. **Water scarcity and climate stress.** Droughts, floods, and aging infrastructure are pushing governments and utilities to invest. Xylem positions itself as a partner in resilience and efficiency. **Industrial efficiency and ESG.** Large manufacturers are under pressure to reduce water use and improve discharge quality. Xylem's treatment and monitoring solutions address that. **Smart city adoption.** As cities deploy IoT sensors and data platforms, smart water metering and analytics fit the trend.
 
@@ -64,7 +64,7 @@ On the other hand, secular tailwinds support the business. **Water scarcity and 
 
 For equity holders, the key questions are straightforward. First: **Is the business growing?** Xylem's top-line growth depends on infrastructure spending and industrial activity. The company reports quarterly earnings and segment performance. Look at [10-k](/wiki/10-k/) filings and quarterly presentations to see trends in backlog, order rates, and geographic exposure—especially sensitivity to public sector budget cycles.
 
-Second: **Can it defend and grow margins?** Margins depend on manufacturing scale, product mix (higher-margin software and consumables versus lower-margin pumps), and input costs. Monitoring gross and operating margins over time reveals whether the company is improving efficiency or being squeezed by competition or commodity costs.
+Second: **Can it defend and grow margins?** Margins depend on manufacturing scale, product mix (higher-margin software and consumables versus lower-margin pumps), and input costs. Monitoring gross and [operating margins](/operating-margin/) over time reveals whether the company is improving efficiency or being squeezed by competition or commodity costs.
 
 Third: **Is the Evoqua integration working?** Watch for management commentary on synergy realization, customer retention, and operating leverage. Delayed or missed synergies would be a red flag.
 
@@ -72,5 +72,5 @@ Fourth: **What is the competitive moat worth?** Xylem's installed base in smart 
 
 A [public-company](/wiki/public-company/) focused on infrastructure has defensive qualities: water is essential, and aging infrastructure ensures demand. But it is not a growth stock by traditional measures, and it is exposed to public-sector budget cycles and industrial activity. [Dividend](/wiki/dividend/) investors may find the yield interesting if the company maintains capital discipline; capital allocation matters.
 
-The [stock-exchange](/wiki/stock-exchange/) price reflects the market's bet on infrastructure spending, Xylem's execution, and the broader industrial cycle. Like all industrial plays, it is sensitive to economic outlook, interest rates, and sector rotation between cyclicals and defensives.
+The [stock-exchange](/wiki/stock-exchange/) price reflects the market's bet on infrastructure spending, Xylem's execution, and the broader industrial cycle. Like all industrial plays, it is sensitive to economic outlook, [interest rates](/interest-rate/), and [sector rotation](/sector-rotation/) between cyclicals and defensives.
 

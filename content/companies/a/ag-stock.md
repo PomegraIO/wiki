@@ -15,7 +15,7 @@ First Majestic Silver Corp is a primary silver mining company headquartered in V
 
 ## The Core Business
 
-First Majestic's strategy centers on silver as a primary metal. The company's six operating Mexican mines—Séréndipack, San Dimas, La Encantada, La Parrilla, Herradura, and Del Toro—are structured to extract silver as the main product. Gold, zinc, and lead appear in the ore bodies and are extracted and sold separately, providing both diversification and operational flexibility. This approach to mining is relatively uncommon globally and has become a strategic positioning in the volatile precious metals market.
+First Majestic's strategy centers on silver as a primary metal. The company's six operating Mexican mines—Séréndipack, San Dimas, La Encantada, La Parrilla, Herradura, and Del Toro—are structured to extract silver as the main product. Gold, zinc, and lead appear in the ore bodies and are extracted and sold separately, providing both [diversification](/diversification/) and operational flexibility. This approach to mining is relatively uncommon globally and has become a strategic positioning in the volatile precious metals market.
 
 The company operates a downstream refinery business, allowing it to control certain value-added steps in the processing chain. This vertical integration, while modest compared to larger diversified miners, gives First Majestic some margin advantage and supply-chain transparency that pure mining operations may lack. Silver is sold as concentrate, refined bullion, and as contained metal in complex ore. The ability to process ore at company-controlled facilities provides operational leverage when commodity prices rise and cost discipline when they fall.
 
@@ -25,7 +25,7 @@ Mexico is central to First Majestic's story. The country hosts vast silver ore b
 
 ## How It Makes Money
 
-Revenue comes primarily from selling silver concentrates and refined silver to global markets. The London Bullion Market and commodity exchanges set silver prices, which fluctuate based on industrial demand, investment demand, currency effects, and monetary policy sentiment. When silver prices rise, First Majestic's revenues and margins expand materially. The reverse is also true: if silver prices decline, operating leverage works against the company.
+Revenue comes primarily from selling silver concentrates and refined silver to global markets. The London Bullion Market and commodity exchanges set silver prices, which fluctuate based on industrial demand, investment demand, currency effects, and [monetary policy](/monetary-policy/) sentiment. When silver prices rise, First Majestic's revenues and margins expand materially. The reverse is also true: if silver prices decline, operating leverage works against the company.
 
 Gold, zinc, lead, and copper by-products provide secondary revenue streams. In years or quarters of low silver prices, these by-products can meaningfully cushion profitability. Conversely, when silver is strong but gold is weak, the diversified output helps stabilize cash generation. This portfolio effect is a feature of First Majestic's asset base.
 
@@ -39,11 +39,11 @@ However, silver mining is fundamentally a commodity business. Competition for or
 
 ## Key Pressures and Risks
 
-Silver prices are volatile, driven by macroeconomic cycles, central bank policy, currency movements, and shifts in industrial versus investment demand. A sustained decline in silver prices squeezes margins and can render some mines uneconomic to operate. Even if the company operates on the low end of the cost curve, a prolonged bear market in silver creates pressure.
+Silver prices are volatile, driven by macroeconomic cycles, [central bank](/central-bank/) policy, currency movements, and shifts in industrial versus investment demand. A sustained decline in silver prices squeezes margins and can render some mines uneconomic to operate. Even if the company operates on the low end of the cost curve, a prolonged bear market in silver creates pressure.
 
 Mexican mining faces regulatory and political risk. Mining permits, environmental compliance, and labor relations are subject to the policies of the Mexican government and state authorities. Changes in mining taxes, environmental standards, or labor laws can materially increase costs or interrupt operations. Security in certain mining regions is also a consideration that can affect productivity.
 
-The company carries debt to fund operations and development. Mining is capital-intensive, and leverage amplifies both gains and losses as commodity prices cycle. Rising interest rates increase the cost of servicing debt and reduce financial flexibility.
+The company carries debt to fund operations and development. Mining is capital-intensive, and leverage amplifies both gains and losses as commodity prices cycle. Rising [interest rates](/interest-rate/) increase the cost of servicing debt and reduce financial flexibility.
 
 Commodity price cyclicality is inherent. Investors in First Majestic are implicitly taking a view on silver's medium-term direction. If silver enters a structural bear market, even a well-run, low-cost producer faces headwinds. Exploration risk also matters: the company must replenish ore reserves through exploration and development, but exploration is uncertain with no guarantee that new resources will be found or prove economic.
 
@@ -59,5 +59,5 @@ Review reserve and resource statements to assess how long the current mine portf
 
 Monitor Mexican mining and economic news. Tax changes, labor disputes, or security events in mining regions can move the stock significantly.
 
-Compare the company's all-in costs to peers and to the silver price to gauge margin sustainability. In bull markets, high leverage and low costs amplify upside. In bear markets, they amplify downside.
+Compare the company's all-in costs to peers and to the silver price to gauge margin sustainability. In [bull markets](/bull-market/), high leverage and low costs amplify upside. In [bear markets](/bear-market/), they amplify downside.
 

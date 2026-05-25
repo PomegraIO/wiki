@@ -29,11 +29,11 @@ The company also competes on the depth of its chemistry knowledge and applicatio
 
 ## History and origins
 
-Waters began in 1958 as a spinoff from a chemistry lab, founded by scientists who saw demand for better instruments to separate and analyze compounds. The company went public in the 1970s and spent decades building a reputation for reliability and innovation in chromatography. The shift toward mass spectrometry in the 1990s and 2000s — as drug makers demanded more precise molecular information — was a critical pivot. Waters invested heavily in MS technology and integration, merging it with LC to create the LC-MS platform that dominates the industry today. The company has grown through a combination of organic development, strategic acquisitions of smaller chemistry and software companies, and relentless focus on pharma and life sciences.
+Waters began in 1958 as a [spinoff](/spinoff/) from a chemistry lab, founded by scientists who saw demand for better instruments to separate and analyze compounds. The company went public in the 1970s and spent decades building a reputation for reliability and innovation in chromatography. The shift toward mass spectrometry in the 1990s and 2000s — as drug makers demanded more precise molecular information — was a critical pivot. Waters invested heavily in MS technology and integration, merging it with LC to create the LC-MS platform that dominates the industry today. The company has grown through a combination of organic development, strategic [acquisitions](/acquisition/) of smaller chemistry and software companies, and relentless focus on pharma and life sciences.
 
 ## Revenue and margins
 
-Waters generates roughly equal revenue from product sales and from service-and-consumables, with the latter showing steadier growth. Operating margins are strong — typically in the high twenties to low thirties — because consumables carry gross margins in the 60–70% range and require minimal manufacturing overhead once the chemistry is sorted. The company's free cash flow is healthy, and management typically returns capital through a modest dividend and share buybacks.
+Waters generates roughly equal revenue from product sales and from service-and-consumables, with the latter showing steadier growth. [Operating margins](/operating-margin/) are strong — typically in the high twenties to low thirties — because consumables carry gross margins in the 60–70% range and require minimal manufacturing overhead once the chemistry is sorted. The company's [free cash flow](/free-cash-flow/) is healthy, and management typically returns capital through a modest [dividend](/dividend/) and [share buybacks](/share-buyback/).
 
 Geographically, revenues split between North America (roughly half), Europe, and Asia, with China a growing but volatile market as regulations and spending shift.
 
@@ -49,7 +49,7 @@ Waters is a mid-large industrial company with operations across the United State
 
 ## At a glance
 
-- **Founded:** 1958; public since 1972 (NASDAQ: WAT)
+- **Founded:** 1958; public since 1972 ([NASDAQ](/nasdaq/): WAT)
 - **Sector:** Scientific instruments and laboratory consumables
 - **Core products:** Liquid chromatography, mass spectrometry, thermal analysis systems; replacement columns and reagents
 - **Revenue model:** High-price instruments sold infrequently; high-margin consumables and services recurring annually
@@ -62,6 +62,6 @@ Waters is a mid-large industrial company with operations across the United State
 
 Start with the [10-K filing](/wiki/10-k/) (SEC CIK 1000697), which breaks revenue by product line and geography and details the competitive and regulatory landscape. The quarterly earnings calls provide a useful check on: pharma R&D spending trends, growth of the recurring consumables revenue, pricing dynamics, and any commentary on China or other emerging markets.
 
-Key metrics to watch are the organic growth rate in consumables (steadier than instruments), the gross-margin trend (consumables carry much higher margins than products, so mix matters), and free-cash-flow generation (strong cash conversion supports the dividend and buybacks). The price-to-earnings ratio should be compared against both larger instrument makers and against historical averages, since pharmaceutical spending cycles drive multi-year performance arcs.
+Key metrics to watch are the organic growth rate in consumables (steadier than instruments), the gross-margin trend (consumables carry much higher margins than products, so mix matters), and free-cash-flow generation (strong cash conversion supports the dividend and buybacks). The [price-to-earnings ratio](/price-to-earnings-ratio/) should be compared against both larger instrument makers and against historical averages, since pharmaceutical spending cycles drive multi-year performance arcs.
 
 As with any individual security, Waters' share price is set by the [stock market](/wiki/public-company/) and fluctuates on sentiment, industry trends, and company execution. This is a map of how the business works and where its strengths and pressures sit — not investment advice.

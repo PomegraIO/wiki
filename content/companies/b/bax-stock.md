@@ -20,7 +20,7 @@ The company also has a contract manufacturing and reconstitution services busine
 
 ## Why Baxter exists and where it sits
 
-Baxter was founded in 1931 as Don Baxter's one-man plasma fractionation business during the Depression. It grew by acquiring smaller producers of IV solutions and blood products, eventually becoming a comprehensive hospital supplier. Over the decades it expanded into dialysis (a major acquisition in the 1990s), infusion pumps, and biosurgical materials. Today it competes against companies like Cardinal Health, Fresenius (German, large in dialysis), B. Braun, and specialized players in each segment.
+Baxter was founded in 1931 as Don Baxter's one-man plasma fractionation business during the Depression. It grew by acquiring smaller producers of IV solutions and blood products, eventually becoming a comprehensive hospital supplier. Over the decades it expanded into dialysis (a major [acquisition](/acquisition/) in the 1990s), infusion pumps, and biosurgical materials. Today it competes against companies like Cardinal Health, Fresenius (German, large in dialysis), B. Braun, and specialized players in each segment.
 
 Baxter's competitive moat is partly operational: hospitals depend on reliable supply chains for IV bags and dialysis solutions—these are not products you can easily switch on short notice. The company benefits from long-standing relationships and the cost of training clinicians on its equipment. However, the moat is moderate. Pricing is heavily influenced by healthcare payers (hospitals, insurance companies, Medicare), who constantly pressure manufacturers on cost. Generic IV solutions can be made by multiple suppliers. Dialysis, while specialized, faces consolidation and pricing scrutiny from large dialysis operators and government programs.
 
@@ -38,7 +38,7 @@ Pricing pressure is constant. Medicare and large hospital systems have enormous 
 
 Supply chain and manufacturing risk is real. Hospital products and dialysis solutions require reliable manufacturing and distribution; a major quality issue, plant outage, or supply disruption would be severely damaging. The company operates multiple plants but is vulnerable to concentration in key geographies or products.
 
-Dialysis is a mature market facing demographic headwinds (fewer new patients proportionally as dialysis becomes standard care) and intense price competition. Innovation in home dialysis or new therapies could disrupt the current model. Dialysis patient volume depends on healthcare spending and reimbursement; a significant policy shift or recession could reduce utilization.
+Dialysis is a mature market facing demographic headwinds (fewer new patients proportionally as dialysis becomes standard care) and intense price competition. Innovation in home dialysis or new therapies could disrupt the current model. Dialysis patient volume depends on healthcare spending and reimbursement; a significant policy shift or [recession](/recession/) could reduce utilization.
 
 Regulatory risk is modest but present. Medical device regulations, manufacturing standards, and pharmacopeial requirements (official standards for drugs and preparations) must be met constantly. A regulatory action or requirement to reformulate products could be expensive.
 

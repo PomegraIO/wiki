@@ -30,7 +30,7 @@ Regulatory risk is significant. Chinese authorities periodically tighten rules a
 
 Content moderation and accuracy are operational challenges. Medical information must be clinically sound and compliant with local standards. Misinformation or regulatory violations can result in content takedowns or platform restrictions. The company must also navigate competition from free or low-cost information sources online and from large technology platforms that are expanding healthcare categories.
 
-Physician engagement varies by geography and specialty, and customer acquisition can be costly. Physicians may have multiple information sources and limited time for new platforms, making retention important. Patient-facing content attracts large audiences but typically carries lower monetization compared to professional services.
+Physician engagement varies by geography and specialty, and customer [acquisition](/acquisition/) can be costly. Physicians may have multiple information sources and limited time for new platforms, making retention important. Patient-facing content attracts large audiences but typically carries lower monetization compared to professional services.
 
 ## How to Research Further
 

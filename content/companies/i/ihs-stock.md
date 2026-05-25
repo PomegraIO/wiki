@@ -40,7 +40,7 @@ The unit economics are favorable. Once a tower is built and operational, the inc
 
 ## Geographic Concentration and Risk
 
-Nigeria represents the bulk of IHS revenue and EBITDA—a concentration that is both strength and vulnerability. Nigeria's telecom market is one of Africa's largest, with hundreds of millions of mobile subscriptions and intense competition among carriers. The country's economic volatility, currency pressures, and political risk are real headwinds. Lease agreements often include naira-denominated rents; when the naira weakens, dollar revenue falls unless contracts include indexation. Supply chain costs for tower builds and maintenance are denominated in dollars, while revenue is local currency, creating a structural mismatch.
+Nigeria represents the bulk of IHS revenue and [EBITDA](/ebitda/)—a concentration that is both strength and vulnerability. Nigeria's telecom market is one of Africa's largest, with hundreds of millions of mobile subscriptions and intense competition among carriers. The country's economic volatility, currency pressures, and political risk are real headwinds. Lease agreements often include naira-denominated rents; when the naira weakens, dollar revenue falls unless contracts include indexation. Supply chain costs for tower builds and maintenance are denominated in dollars, while revenue is local currency, creating a structural mismatch.
 
 Beyond Nigeria, IHS holds smaller portfolios in other African countries, Latin America (particularly Mexico and Central America), and the Middle East. These diversify revenue but remain nascent relative to the core market. Expanding these regions requires capital, local partnerships, and the ability to navigate different regulatory environments. The company has demonstrated willingness to enter and develop new markets, but execution risk is inherent in unfamiliar regions.
 
@@ -52,9 +52,9 @@ IHS's moat is geographic incumbency and scale. Displacing thousands of sites onc
 
 ## Capital and Financial Structure
 
-IHS went public on Nasdaq in 2021 and has since been growing through both organic expansion and selective acquisitions. Like most tower operators, IHS uses leverage to fund growth—debt is appropriate for a business with long-duration, predictable cash flows. The capital intensity is moderate: new tower builds cost tens of thousands of dollars each, but with thousands of potential sites and strong returns on capital, the investment case is compelling if execution is sound.
+IHS went public on [Nasdaq](/nasdaq/) in 2021 and has since been growing through both organic expansion and selective [acquisitions](/acquisition/). Like most tower operators, IHS uses leverage to fund growth—debt is appropriate for a business with long-duration, predictable cash flows. The capital intensity is moderate: new tower builds cost tens of thousands of dollars each, but with thousands of potential sites and strong returns on capital, the investment case is compelling if execution is sound.
 
-The company is exposed to interest rate movements and refinancing risk. Rising rates increase the cost of new borrowing and make legacy debt repayment more onerous if it must be rolled. Currency volatility also affects both the cost of dollar-denominated debt and the naira value of revenue.
+The company is exposed to [interest rate](/interest-rate/) movements and [refinancing risk](/refinancing-risk/). Rising rates increase the cost of new borrowing and make legacy debt repayment more onerous if it must be rolled. [Currency volatility](/currency-volatility/) also affects both the cost of dollar-denominated debt and the naira value of revenue.
 
 ## Structural Trends
 
@@ -64,6 +64,6 @@ Power constraints in Africa present both a problem and an opportunity. Diesel-po
 
 ## How to Research It
 
-Start with the [10-K](/wiki/10-k/) filing (annual report to the SEC), which breaks down revenue by geography and tenant, details debt covenants, and describes risks. Peer comparison with American Tower, Crown Castle, and emerging-market infrastructure investors provides context. Monitor quarterly results for tenant additions, churn rates, and pricing trends—signs of market strength or weakness. Watch Nigeria macroeconomic indicators (currency, inflation, GDP growth) and telecom industry consolidation news. If considering an investment, scrutinize the leverage ratios, unencumbered asset value, and the terms of major lease contracts.
+Start with the [10-K](/wiki/10-k/) filing (annual report to the SEC), which breaks down revenue by geography and tenant, details debt covenants, and describes risks. Peer comparison with American Tower, Crown Castle, and emerging-market infrastructure investors provides context. Monitor quarterly results for tenant additions, churn rates, and pricing trends—signs of market strength or weakness. Watch Nigeria macroeconomic indicators (currency, [inflation](/inflation/), GDP growth) and telecom industry consolidation news. If considering an investment, scrutinize the [leverage ratios](/leverage-ratio-forex/), unencumbered asset value, and the terms of major lease contracts.
 
 The tower operator business model is straightforward, but IHS's returns depend on execution in a volatile emerging market and the company's ability to expand geographically and operationally while managing currency and political risk. The recurring revenue is appealing; the execution risks are material.

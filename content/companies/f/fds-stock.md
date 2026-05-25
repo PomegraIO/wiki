@@ -31,7 +31,7 @@ The business benefits from low churn. Once a portfolio manager has integrated Fa
 FactSet's main rival is **Bloomberg**, which dominates among large institutional buy-side firms and sell-side banks through its ubiquitous terminals (the "Agg" or Bloomberg terminal). However, Bloomberg's business model is also subscription-based, and pricing is notoriously high and opaque. FactSet has carved out a strong niche among:
 
 - Mid-market asset managers who find Bloomberg cost-prohibitive
-- Hedge funds with specialized analytical demands
+- [Hedge funds](/hedge-fund/) with specialized analytical demands
 - Buy-side research departments
 - Wealth management and advisory practices
 
@@ -41,19 +41,19 @@ FactSet's competitive strength rests on three pillars: breadth of data coverage,
 
 ## Financial characteristics
 
-The company operates with strong unit economics. Subscription revenue is recurring and predictable; retention is very high (over 90% annually). Operating leverage exists because adding a new data feed or enhancing a product module can serve thousands of existing clients with minimal incremental cost. Over the years, the company has improved its operating margin through scale and operational efficiency, even as it invests in product development and sales.
+The company operates with strong unit economics. Subscription revenue is recurring and predictable; retention is very high (over 90% annually). Operating leverage exists because adding a new data feed or enhancing a product module can serve thousands of existing clients with minimal incremental cost. Over the years, the company has improved its [operating margin](/operating-margin/) through scale and operational efficiency, even as it invests in product development and sales.
 
-FactSet is highly profitable and generates substantial [free cash flow](/wiki/cash-flow-statement/). The company invests in software development, cloud infrastructure, and M&A to expand its data and product capabilities. It has also been active in [returning capital](/wiki/capital-allocation/) to shareholders through dividends and buybacks.
+FactSet is highly profitable and generates substantial [free cash flow](/wiki/cash-flow-statement/). The company invests in software development, cloud infrastructure, and M&A to expand its data and product capabilities. It has also been active in [returning capital](/wiki/capital-allocation/) to shareholders through [dividends](/dividend/) and buybacks.
 
 ## Structural pressures and risks
 
 **Technology and disruption**: Younger financial software firms are building AI-powered research assistants and alternative data platforms. If a new entrant can deliver better-than-Bloomberg analysis at lower cost through machine learning, FactSet's defensibility erodes. The company has begun integrating AI features (generative AI for research summaries, predictive analytics), but execution risk remains.
 
-**Data vendor dependence**: FactSet doesn't generate all its own data; it licenses from exchanges, news providers, and alternative data vendors. If a key vendor becomes unavailable or raises prices sharply, it affects margins and product quality. Vendor relationships are generally long and stable, but concentration risk exists.
+**Data vendor dependence**: FactSet doesn't generate all its own data; it licenses from exchanges, news providers, and alternative data vendors. If a key vendor becomes unavailable or raises prices sharply, it affects margins and product quality. Vendor relationships are generally long and stable, but [concentration risk](/concentration-risk/) exists.
 
 **Regulatory and market structure changes**: A major shift in market regulation (e.g., trading rules, data dissemination standards) could disrupt the data landscape. Similarly, if sell-side banks consolidate further or dramatically reduce research spending, demand for research-focused products could shrink.
 
-**Competitive pricing pressure**: If Bloomberg loses market share or if open-source financial data tools become more viable, pricing power could erode. The company maintains margins partly because it has been able to raise prices in line with inflation and value-added features, but this is not unlimited.
+**Competitive pricing pressure**: If Bloomberg loses market share or if open-source financial data tools become more viable, pricing power could erode. The company maintains margins partly because it has been able to raise prices in line with [inflation](/inflation/) and value-added features, but this is not unlimited.
 
 **Customer concentration**: While FactSet serves thousands of firms, a large portion of revenue comes from major institutions. Loss of a mega-client would be material, though the customer base is diversified across geographies and strategies.
 
@@ -67,5 +67,5 @@ The [10-K](/wiki/10-k/) filed annually with the SEC details the business in gran
 - **R&D spending**: FactSet must continuously enhance its platform and add data. Monitor whether R&D spending is adequate for product leadership.
 - **M&A activity and integration**: The company regularly acquires smaller data vendors and analytics firms. Success depends on good integration and realization of expected synergies.
 
-The business sits at an interesting intersection: it is a [public company](/wiki/public-company/) trading on the Nasdaq (ticker [FDS](/wiki/fds-stock/)), but its clients are almost entirely other institutions. Understanding FactSet therefore requires thinking like a customer—would you pay this price for this product?—rather than relying on consumer metrics. Many professional investors view it as a stable, defensive [stock](/wiki/stock/), in that it has strong earnings and cash flow with modest growth; others see it as vulnerable to technological disruption.
+The business sits at an interesting intersection: it is a [public company](/wiki/public-company/) trading on the [Nasdaq](/nasdaq/) (ticker [FDS](/wiki/fds-stock/)), but its clients are almost entirely other institutions. Understanding FactSet therefore requires thinking like a customer—would you pay this price for this product?—rather than relying on consumer metrics. Many professional investors view it as a stable, defensive [stock](/wiki/stock/), in that it has strong earnings and cash flow with modest growth; others see it as vulnerable to technological disruption.
 

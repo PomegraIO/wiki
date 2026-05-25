@@ -40,13 +40,13 @@ The Chinese education technology space has experienced significant contraction a
 
 ## Revenue and Operations
 
-Scienjoy generates revenue primarily through end-user subscriptions for access to its platform and classes, supplemented by institutional licensing partnerships. Individual students typically pay monthly or annual subscription fees to access the live and recorded classroom library. Schools and tutoring institutions license the platform's technology for internal or client-facing use. This dual model—direct-to-consumer and business-to-institution—allows diversification across different customer acquisition channels, though both segments are affected by regulatory and economic shifts in the Chinese education sector.
+Scienjoy generates revenue primarily through end-user subscriptions for access to its platform and classes, supplemented by institutional licensing partnerships. Individual students typically pay monthly or annual subscription fees to access the live and recorded classroom library. Schools and tutoring institutions license the platform's technology for internal or client-facing use. This dual model—direct-to-consumer and business-to-institution—allows [diversification](/diversification/) across different customer [acquisition](/acquisition/) channels, though both segments are affected by regulatory and economic shifts in the Chinese education sector.
 
 The company's technology infrastructure supports synchronous live classes with chat, whiteboard, polling, and screen sharing—features essential for an interactive experience in a remote setting. Maintaining this technical platform requires ongoing investment in software development, servers, and customer support, creating a cost structure typical of software-as-a-service education providers.
 
 ## Challenges and Market Pressures
 
-Scienjoy faces headwinds from multiple directions. Regulatory tightening on for-profit education in China has capped market growth and forced business model adaptation. The company operates in a market where larger, better-capitalized competitors (including major tech firms with education divisions) can leverage stronger balance sheets and user networks. Economic sensitivity in China also affects discretionary spending on supplementary education, making the business cyclical.
+Scienjoy faces headwinds from multiple directions. Regulatory tightening on for-profit education in China has capped market growth and forced business model adaptation. The company operates in a market where larger, better-capitalized competitors (including major tech firms with education divisions) can leverage stronger [balance sheets](/balance-sheet/) and user networks. Economic sensitivity in China also affects [discretionary spending](/discretionary-spending/) on supplementary education, making the business cyclical.
 
 Profitability remains an open question for many education technology firms in this segment. User acquisition costs, technology infrastructure, and teacher compensation are persistent line-item pressures that require disciplined management to achieve sustainable margins. Scienjoy's ability to convert its user base into profitable, recurring revenue depends on retention, pricing power, and operational efficiency—all of which are tested when regulation and competition intensify simultaneously.
 
@@ -54,7 +54,7 @@ Profitability remains an open question for many education technology firms in th
 
 As a Nasdaq-listed company, Scienjoy is subject to U.S. securities regulations including quarterly earnings disclosures via the [10-K](/wiki/10-k/) and other SEC filings. These filings offer insight into user metrics, revenue breakdown, cash burn rates, and management's strategic commentary on market conditions and competitive threats. For investors or researchers, the [10-K](/wiki/10-k/) and accompanying management discussion provide the formal narrative of how Scienjoy's leadership interprets its market position and outlines business risks.
 
-The company's listing on Nasdaq, while providing access to U.S. capital markets, also means it must maintain compliance with higher governance and reporting standards than private peers, along with the volatility that comes with [public-company](/wiki/public-company/) scrutiny and smaller, thinly traded [stock](/wiki/stock/) movements.
+The company's listing on [Nasdaq](/nasdaq/), while providing access to U.S. capital markets, also means it must maintain compliance with higher governance and reporting standards than private peers, along with the volatility that comes with [public-company](/wiki/public-company/) scrutiny and smaller, thinly traded [stock](/wiki/stock/) movements.
 
 ## Technology and Product Direction
 

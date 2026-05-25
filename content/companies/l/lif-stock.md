@@ -25,7 +25,7 @@ handwritten: true
 
 </aside>
 
-Life360 is a mobile-first platform that turned family location-sharing into a subscription business and later expanded through the acquisition of Tile, the Bluetooth tracker manufacturer. The app lets family members see each other's real-time location on a private map, send instant notifications, and create virtual boundaries called "Places." Over time it evolved from a single app into a layered monetization model spanning subscriptions, hardware sales, and aggregated location data services.
+Life360 is a mobile-first platform that turned family location-sharing into a subscription business and later expanded through the [acquisition](/acquisition/) of Tile, the Bluetooth tracker manufacturer. The app lets family members see each other's real-time location on a private map, send instant notifications, and create virtual boundaries called "Places." Over time it evolved from a single app into a layered monetization model spanning subscriptions, hardware sales, and aggregated location data services.
 
 ## The Core Product and Market
 

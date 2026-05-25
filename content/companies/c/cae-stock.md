@@ -49,7 +49,7 @@ Third is the global training infrastructure. CAE doesn't just sell simulators; i
 
 CAE faces limited competition in the full-motion civil flight simulator market. The company's main rival in commercial aviation is Leonardo (formerly AgustaWestland), but each dominates different regional preferences and customer relationships. In military simulation, competition is more fragmented, with Boeing and other defense contractors offering specialized solutions in niche areas.
 
-Yet the company operates in an industry sensitive to airline capacity and defense spending cycles. Commercial aviation training volume rises and falls with fleet expansion, pilot hiring, and economic conditions. A prolonged recession or industry contraction can defer simulator purchases and reduce training throughput. Military budgets are politically influenced and subject to shifting priorities; a change in a major customer's procurement strategy can ripple through years of planning.
+Yet the company operates in an industry sensitive to airline capacity and defense spending cycles. Commercial aviation training volume rises and falls with fleet expansion, pilot hiring, and economic conditions. A prolonged [recession](/recession/) or industry contraction can defer simulator purchases and reduce training throughput. Military budgets are politically influenced and subject to shifting priorities; a change in a major customer's procurement strategy can ripple through years of planning.
 
 Regulation is another defining pressure. Changes in pilot training requirements (minimum flight hours, recurrent training mandates, or new proficiency standards) can suddenly increase or decrease demand. A major airline accident that triggers new training protocols might accelerate adoption of advanced simulation; conversely, regulatory rollback can reduce mandates.
 
@@ -63,7 +63,7 @@ Industry metrics worth tracking: airline pilot hiring trends (published by aviat
 
 Watch for backlog conversion—a large order book is only valuable if CAE successfully executes and ships on time. Execution risk on major government contracts is real, and past delays have affected investor confidence.
 
-The company's geographic exposure and customer concentration also matter. Dependence on any single airline or military customer introduces concentration risk; diversification across regions and segments provides stability.
+The company's geographic exposure and customer concentration also matter. Dependence on any single airline or military customer introduces [concentration risk](/concentration-risk/); [diversification](/diversification/) across regions and segments provides stability.
 
 ---
 

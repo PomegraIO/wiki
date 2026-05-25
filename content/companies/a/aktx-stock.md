@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Akari Therapeutics is an oncology-focused biotechnology company building a pipeline of antibody-drug conjugates (ADCs) around a novel RNA-splicing modulator payload.** The Boston-based company pivoted in 2024 through a merger with Peak Bio to focus on next-generation cancer therapeutics rather than its earlier work in autoimmune disease.
+**Akari Therapeutics is an oncology-focused biotechnology company building a pipeline of antibody-drug conjugates (ADCs) around a novel RNA-splicing modulator payload.** The Boston-based company pivoted in 2024 through a [merger](/merger/) with Peak Bio to focus on next-generation cancer therapeutics rather than its earlier work in autoimmune disease.
 
 ## The ADC Platform
 

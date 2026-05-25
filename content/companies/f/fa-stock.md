@@ -10,9 +10,9 @@ keywords:
 handwritten: true
 ---
 
-First Advantage is one of the largest global providers of employment background screening, identity verification, and compliance solutions. The company operates across the full employment lifecycle—from the critical screening that happens before someone is hired through ongoing monitoring and compliance checks after they join an organization—serving employers, contractors, tenants, and other workforce participants across dozens of industries and in multiple countries.
+First Advantage is one of the largest global providers of employment background screening, identity verification, and compliance solutions. The company operates across the [full employment](/full-employment/) lifecycle—from the critical screening that happens before someone is hired through ongoing monitoring and compliance checks after they join an organization—serving employers, contractors, tenants, and other workforce participants across dozens of industries and in multiple countries.
 
-Based in Atlanta, First Advantage operates two main business segments: the Americas (its larger operation covering North America) and International (serving other regions). The company went public in June 2021 on NASDAQ under the symbol FA, completing a significant expansion in October 2024 with the acquisition of Sterling Check Corp., a longtime competitor, in a $2.2 billion transaction. That deal fundamentally reshaped the industry landscape, consolidating two established platforms and creating a company with substantially greater scale and geographic reach.
+Based in Atlanta, First Advantage operates two main business segments: the Americas (its larger operation covering North America) and International (serving other regions). The company went public in June 2021 on [NASDAQ](/nasdaq/) under the symbol FA, completing a significant expansion in October 2024 with the acquisition of Sterling Check Corp., a longtime competitor, in a $2.2 billion transaction. That deal fundamentally reshaped the industry landscape, consolidating two established platforms and creating a company with substantially greater scale and geographic reach.
 
 ## How the business works
 
@@ -20,7 +20,7 @@ At its core, First Advantage does something apparently straightforward: it scree
 
 Pre-onboarding services—things employers buy before extending a job offer—include criminal history searches, drug and health screenings, employment and education verification, driver records, professional licenses and credentials, and international screening in jurisdictions where the company operates. The company also offers specialized products like FBI channeling (a streamlined federal fingerprinting process), extended workforce screening for contingent and gig workers, and biometric identity checks.
 
-Post-onboarding services are where ongoing risk management happens. These include continuous criminal records monitoring (watching for offenses after someone starts), ongoing drug screening, healthcare sanctions screening, motor vehicle record monitoring, social media screening, and global sanctions list checks. There's also a category the company calls "adjacent" products: fleet vehicle compliance, hiring tax credits and incentives, and investigative research.
+Post-onboarding services are where ongoing risk management happens. These include continuous criminal records monitoring (watching for offenses after someone starts), ongoing drug screening, healthcare [sanctions screening](/sanctions-screening/), motor vehicle record monitoring, social media screening, and global sanctions list checks. There's also a category the company calls "adjacent" products: fleet vehicle compliance, hiring tax credits and incentives, and investigative research.
 
 Revenue comes from two main sources: recurring subscriptions (especially for ongoing monitoring and compliance checks) and transactional fees (per-screen pricing for one-time background checks). The recurring stream matters strategically because it provides predictable cash flow; the transaction volume captures growth as employers hire and expand.
 
@@ -42,16 +42,16 @@ Profitability is tied to operating leverage. Screening platforms benefit from sc
 
 ## Pressures and challenges
 
-First Advantage faces several headwinds. Economic downturns hit hiring volumes, which directly impacts transaction-based revenue. A recession immediately reduces the number of people being screened. That said, post-onboarding services (monitoring and compliance) are more resilient because they're often contractual obligations, not discretionary.
+First Advantage faces several headwinds. Economic downturns hit hiring volumes, which directly impacts transaction-based revenue. A [recession](/recession/) immediately reduces the number of people being screened. That said, post-onboarding services (monitoring and compliance) are more resilient because they're often contractual obligations, not discretionary.
 
 Data privacy and regulation are also relevant. Background screening sits at the intersection of personal data, employment law, and human rights concerns. Laws like the FCRA in the United States and GDPR in Europe impose obligations on how data is collected, used, and retained. Regulators and lawmakers have raised scrutiny of algorithmic decision-making and bias in background screening—whether an AI model unfairly excludes certain demographic groups. First Advantage must invest in compliance, appeals processes, and bias auditing.
 
-Integration risk matters after large acquisitions like Sterling. Merging two platforms, customer bases, and engineering teams is complex and expensive. If integration stumbles, revenue synergies don't materialize and cost savings take longer.
+Integration risk matters after large [acquisitions](/acquisition/) like Sterling. Merging two platforms, customer bases, and engineering teams is complex and expensive. If integration stumbles, revenue synergies don't materialize and cost savings take longer.
 
 Competition from new technologies and market entrants is also worth watching. If a startup finds a way to automate screening or verify credentials more cheaply and faster, it could disrupt incumbent advantages.
 
 ## Researching the company
 
-The [10-K](/wiki/10-k/) is the place to start—it lays out the business in legal detail and discloses risk factors, customer concentration, revenue by geography and product, and acquisition-related charges. For ongoing news, the investor relations website and quarterly [10-Q](/wiki/10-k/) filings track progress on integration, customer wins, and market conditions. Key metrics to watch: revenue growth (especially organic vs. acquisition-driven), operating margins (which improve with scale), customer retention and attrition rates, and the pace at which the Sterling integration is generating promised synergies.
+The [10-K](/wiki/10-k/) is the place to start—it lays out the business in legal detail and discloses risk factors, customer concentration, revenue by geography and product, and acquisition-related charges. For ongoing news, the investor relations website and quarterly [10-Q](/wiki/10-k/) filings track progress on integration, customer wins, and market conditions. Key metrics to watch: revenue growth (especially organic vs. acquisition-driven), [operating margins](/operating-margin/) (which improve with scale), customer retention and attrition rates, and the pace at which the Sterling integration is generating promised synergies.
 
 First Advantage is a company built on data, regulation, and the simple fact that hiring is expensive for employers and they want to get it right. As workforces become more global and compliance more complex, the services it offers are unlikely to become less relevant.

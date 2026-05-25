@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Amentum emerged as a consolidated power in defense contracting through a series of transformative acquisitions that brought together legacy expertise in mission-critical government work.**
+**Amentum emerged as a consolidated power in defense contracting through a series of transformative [acquisitions](/acquisition/) that brought together legacy expertise in mission-critical government work.**
 
 The company's roots trace to operations supporting the U.S. government across engineering, facility management, and technical programs dating back decades. The modern Amentum took shape when it was spun out from Jacobs Engineering in 2022—a deliberate separation that allowed the federal services business to operate with singular focus on government customers. Rather than being a newly founded company, Amentum inherited established relationships with the Department of Defense, Department of Energy, and intelligence agencies, along with the security infrastructure and workforce required to operate in classified environments.
 

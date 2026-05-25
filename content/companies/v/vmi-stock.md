@@ -39,11 +39,11 @@ The company is not a technology play with pricing power from intellectual proper
 
 ## What risks threaten the business?
 
-The cyclicality of agriculture is real and unavoidable. A sustained commodity price downturn, severe drought reducing irrigation demand, or a sharp rise in interest rates making farm equipment purchases unattractive all hit earnings. Management cannot control grain prices or rainfall.
+The cyclicality of agriculture is real and unavoidable. A sustained commodity price downturn, severe drought reducing irrigation demand, or a sharp rise in [interest rates](/interest-rate/) making farm equipment purchases unattractive all hit earnings. Management cannot control grain prices or rainfall.
 
 On the infrastructure side, the risks are more moderate but still material. Public spending on grid modernization and transportation can fluctuate with political priorities and budget cycles. Telecom tower demand depends on network capex spending, which investors and carriers adjust as technology priorities shift.
 
-Valmont also faces concentration risk. Major customers—large utilities, large agricultural equipment dealers, large telecommunications firms—have negotiating leverage. Loss of a significant customer or margin pressure from a major buyer can hurt.
+Valmont also faces [concentration risk](/concentration-risk/). Major customers—large utilities, large agricultural equipment dealers, large telecommunications firms—have negotiating leverage. Loss of a significant customer or margin pressure from a major buyer can hurt.
 
 Internationally, Valmont has exposure to foreign markets and foreign currencies, adding complexity to supply chains and earnings translation. Agricultural markets in particular vary in irrigation adoption and economic viability.
 
@@ -57,4 +57,4 @@ For infrastructure, pay attention to public infrastructure spending announcement
 
 Valmont's [stock](/wiki/stock/) is followed by industrial and agricultural equipment analysts. Their reports often provide context on market cycles and competitive positioning. Compare Valmont's margins and return on capital to competitors like CNH Industrial (in farming equipment) and companies like AZZ, Koppers, or smaller infrastructure fabricators to understand relative competitive standing.
 
-The company trades on the [stock exchange](/wiki/stock-exchange/) with reasonable liquidity, and balance sheet strength—debt levels, cash flow conversion, capex intensity—should be part of any analysis. Valmont is not a high-growth story; it is a mature, dividend-paying industrial company competing in stable but cyclical end markets.
+The company trades on the [stock exchange](/wiki/stock-exchange/) with reasonable liquidity, and [balance sheet](/balance-sheet/) strength—debt levels, [cash flow conversion](/cash-flow-conversion/), capex intensity—should be part of any analysis. Valmont is not a high-growth story; it is a mature, dividend-paying industrial company competing in stable but cyclical end markets.

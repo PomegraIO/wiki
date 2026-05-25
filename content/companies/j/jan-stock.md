@@ -23,7 +23,7 @@ The company's communities serve different segments within the senior market. Ass
 
 Revenue flows primarily from per-resident monthly fees, which vary by geography, care level, and local market rates. A 100-bed assisted living community at full occupancy can generate annual fees in the $2–3 million range depending on local rates; memory care units typically charge 10–30% premiums over standard assisted living. Ancillary revenue comes from therapy services, respite care stays, and care coordination fees.
 
-Profitability is straightforward but labor-intensive. Operating margins hinge on three levers: occupancy (keeping beds filled), rate realization (actual fees charged relative to market rates), and cost containment (especially wage pressure on nursing staff, housekeeping, and dietary personnel). The sector has faced persistent wage inflation in recent years, as regional nursing shortages and competing employers make talent retention expensive. Food costs, utilities, and compliance (state licensing, health codes) add layers of fixed and semi-fixed operating expense.
+Profitability is straightforward but labor-intensive. [Operating margins](/operating-margin/) hinge on three levers: occupancy (keeping beds filled), rate realization (actual fees charged relative to market rates), and cost containment (especially wage pressure on nursing staff, housekeeping, and dietary personnel). The sector has faced persistent wage [inflation](/inflation/) in recent years, as regional nursing shortages and competing employers make talent retention expensive. Food costs, utilities, and compliance (state licensing, health codes) add layers of fixed and semi-fixed operating expense.
 
 ## Competitive and Regulatory Environment
 
@@ -45,9 +45,9 @@ Seasonal variation in occupancy is real but modest. Summer typically sees slight
 
 As a public company, Janus files [10-K](/wiki/10-k/) annual and 10-Q quarterly filings with the SEC under CIK 2100805. The 10-K discloses segment revenue, operating expenses, occupancy rates, and narrative discussion of market conditions and challenges. Key metrics to monitor: average occupancy rate per community, average daily rate (ADR) trends, labor costs as a percentage of revenue, and comparable community performance (same-store growth).
 
-The company's debt structure and [capital structure](/wiki/capital-structure/) appear in the balance sheet and management discussion. Investors should track debt-to-EBITDA and interest coverage to gauge financial flexibility.
+The company's debt structure and [capital structure](/wiki/capital-structure/) appear in the [balance sheet](/balance-sheet/) and management discussion. Investors should track debt-to-EBITDA and interest coverage to gauge financial flexibility.
 
-Earnings reports and guidance tend to reflect seasonal occupancy patterns and inflation in labor costs. Analyst calls often discuss regional performance, reimbursement changes, and acquisition or divestiture activity. Check the company's investor relations page for guidance and update language on occupancy and rate trends.
+Earnings reports and guidance tend to reflect seasonal occupancy patterns and inflation in labor costs. Analyst calls often discuss regional performance, reimbursement changes, and [acquisition](/acquisition/) or [divestiture](/divestiture/) activity. Check the company's investor relations page for guidance and update language on occupancy and rate trends.
 
 ---
 

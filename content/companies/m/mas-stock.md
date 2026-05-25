@@ -32,7 +32,7 @@ Distribution is the company's persistent challenge and advantage. Reaching homeo
 
 ## Revenue Composition and Cyclicality
 
-Like all home-improvement and building-products manufacturers, Masco is tied to housing starts, remodeling spending, and commercial construction activity. When new-home construction accelerates or homeowners renovate aggressively, demand for paint, faucets, and hardware rises. When interest rates climb, home sales decline, and remodeling budgets shrink, the company faces headwinds. This cyclicality is baked into the business model and is one reason Masco's earnings can swing sharply year to year.
+Like all home-improvement and building-products manufacturers, Masco is tied to housing starts, remodeling spending, and commercial construction activity. When new-home construction accelerates or homeowners renovate aggressively, demand for paint, faucets, and hardware rises. When [interest rates](/interest-rate/) climb, home sales decline, and remodeling budgets shrink, the company faces headwinds. This cyclicality is baked into the business model and is one reason Masco's earnings can swing sharply year to year.
 
 The company has two principal revenue streams: coatings (paint and stains for residential and commercial use) and home improvement products (faucets, showers, fixtures, cabinet hardware, and related items). A simplified breakdown looks like this:
 
@@ -57,4 +57,4 @@ Investors and analysts track Masco through its [10-K](/wiki/10-k/) annual report
 
 Key indicators to watch include new-home starts and the remodeling index (both forward-looking demand signals), [public-company](/wiki/public-company/) investment returns and total shareholder return relative to peers, and the composition of revenue between high-margin and commodity categories. Masco also discloses capital expenditure on product development and factory automation, which hints at its competitive positioning.
 
-The company trades on the New York Stock Exchange and is held by institutional investors, index funds, and long-term value investors drawn to its dividend history and position in an essential industry.
+The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) and is held by institutional investors, [index funds](/index-fund/), and long-term value investors drawn to its [dividend](/dividend/) history and position in an essential industry.

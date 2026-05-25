@@ -13,7 +13,7 @@ handwritten: true
 
 ## What business is Atlas Energy Solutions in?
 
-Atlas Energy Solutions manufactures and supplies proppants and other specialty materials used in hydraulic fracturing operations for the oil and natural gas industry. Proppants are granular substances—sand, ceramic, or engineered particles—injected into wellbores during fracturing to prop open fractures created by pressurized fluids, allowing hydrocarbons to flow to production wells. The company operates production facilities strategically positioned near major oil and gas basins in North America, where proximity to drilling activity reduces transportation costs and improves delivery logistics. AESI also provides related materials and technical support for well completion operations.
+Atlas Energy Solutions manufactures and supplies proppants and other specialty materials used in hydraulic fracturing operations for the oil and [natural gas](/natural-gas/) industry. Proppants are granular substances—sand, ceramic, or engineered particles—injected into wellbores during fracturing to prop open fractures created by pressurized fluids, allowing hydrocarbons to flow to production wells. The company operates production facilities strategically positioned near major oil and gas basins in North America, where proximity to drilling activity reduces transportation costs and improves delivery logistics. AESI also provides related materials and technical support for well completion operations.
 
 ## How does Atlas generate its revenue?
 

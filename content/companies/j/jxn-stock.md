@@ -11,7 +11,7 @@ handwritten: true
 
 Jackson Financial stands apart in the crowded annuity market as a pure-play distributor with a distinctive focus on retirement income—a segment that commands premium pricing in an aging population. Spun off from Prudential in September 2021, the company inherited a decades-old client base and deep distribution relationships but operates as a standalone entity focused on annuity sales and allied advisory services.
 
-The insurance annuity business has shed its unfashionable reputation in recent years, driven by two converters: ultra-low interest rates created demand for guaranteed income, and demographic shifts pushed baby boomers into retirement phase. Jackson recognized this inflection point and has built its model around capturing that demand through advisors, financial professionals, and wealth managers who counsel clients on how to architect sustainable retirement income streams.
+The insurance annuity business has shed its unfashionable reputation in recent years, driven by two converters: ultra-low [interest rates](/interest-rate/) created demand for guaranteed income, and demographic shifts pushed baby boomers into retirement phase. Jackson recognized this inflection point and has built its model around capturing that demand through advisors, financial professionals, and wealth managers who counsel clients on how to architect sustainable retirement income streams.
 
 ## Distribution Engine and Revenue Model
 
@@ -40,15 +40,15 @@ The company operates primarily through a single operating segment—the distribu
 | Advisory & administrative | Recurring fees for ongoing advice and account management | Assets under advisement, client engagement, service breadth |
 | Net investment income | Returns on corporate cash and limited direct investment holdings | Prevailing interest rates, market performance |
 
-Jackson's footprint spans roughly 800 financial advisors and platforms across its distribution network, representing a meaningful but manageable sales channel. Unlike a full-service broker, Jackson does not employ thousands of advisors; instead, it operates through partnerships, platforms, and recruiting of independent reps.
+Jackson's footprint spans roughly 800 financial advisors and platforms across its distribution network, representing a meaningful but manageable sales channel. Unlike a full-service [broker](/broker/), Jackson does not employ thousands of advisors; instead, it operates through partnerships, platforms, and recruiting of independent reps.
 
-Asset levels—measured in billions of dollars of assets under advisement and under management—have grown steadily, reflecting both organic client acquisition and the natural accumulation of assets in annuity contracts. The in-force book of business is a key asset; it generates recurring revenue with minimal new effort and provides a durable earnings foundation as long as client retention holds.
+Asset levels—measured in billions of dollars of assets under advisement and under management—have grown steadily, reflecting both organic client [acquisition](/acquisition/) and the natural accumulation of assets in annuity contracts. The in-force book of business is a key asset; it generates recurring revenue with minimal new effort and provides a durable earnings foundation as long as client retention holds.
 
 ## Risks and Structural Headwinds
 
-Jackson faces several material pressures. Product regulation remains in flux—the SEC has pushed for tighter suitability rules and higher disclosure standards for retail annuity sales, and future rule changes could compress margins or reduce addressable market. The DOL's fiduciary duty rules, when fully implemented, may accelerate the shift away from commission-based annuity sales toward fee-only advice, a transition that would favor fixed-fee advisory firms over commission-driven distributors.
+Jackson faces several material pressures. Product regulation remains in flux—the SEC has pushed for tighter suitability rules and higher disclosure standards for retail annuity sales, and future rule changes could compress margins or reduce addressable market. The DOL's [fiduciary duty](/fiduciary-duty/) rules, when fully implemented, may accelerate the shift away from commission-based annuity sales toward fee-only advice, a transition that would favor fixed-fee advisory firms over commission-driven distributors.
 
-The company also faces structural margin pressure. Carriers compete fiercely for distribution rights, often pricing Jackson out of economics to secure shelf space. Rising interest rates help product economics but can also increase client redemption risk and hedging costs for carriers, which they may pass back to distributors. Meanwhile, cost inflation in compliance, technology, and advisor retention remains relentless.
+The company also faces structural margin pressure. Carriers compete fiercely for distribution rights, often pricing Jackson out of economics to secure shelf space. Rising interest rates help product economics but can also increase client redemption risk and hedging costs for carriers, which they may pass back to distributors. Meanwhile, cost [inflation](/inflation/) in compliance, technology, and advisor retention remains relentless.
 
 Distribution concentration is a risk: if a handful of platforms or platforms account for a large share of new business, loss of a key relationship could disrupt growth. And while Jackson's capital-light model is an advantage, it also means the company is only as good as its carrier partnerships and advisor relationships—both of which require continuous investment and cultivation.
 

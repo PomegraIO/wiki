@@ -31,7 +31,7 @@ PagerDuty operates in a market where speed is survival. When a credit card proce
 
 The company was founded in 2009 by Alex Solomon and Andrew Miklas, early enough in the cloud infrastructure boom to catch the wave of enterprises moving to AWS and other public clouds, where monitoring became decoupled from the infrastructure itself. Traditional infrastructure teams used in-house tools and pagers; the shift to cloud meant a fragmentation of monitoring signals—logs from one vendor, metrics from another, APM data from a third—all needing to be unified and routed to human responders. PagerDuty emerged as a neutral platform to sit on top of that stack.
 
-The company went public in April 2019 at 27 dollars per share, just as DevOps and site reliability engineering were becoming mainstream priorities at large enterprises. The IPO valued PagerDuty at roughly a billion dollars; since then it has expanded both through organic growth and via acquisition (most notably the purchase of Rundeck in 2019, which added automation and runbook capabilities to the platform). The platform now integrates with hundreds of monitoring, ticketing, and communication tools, and processes trillions of alerts per year across a customer base that ranges from mid-market tech companies to Global 2000 enterprises.
+The company went public in April 2019 at 27 dollars per share, just as DevOps and site reliability engineering were becoming mainstream priorities at large enterprises. The IPO valued PagerDuty at roughly a billion dollars; since then it has expanded both through organic growth and via [acquisition](/acquisition/) (most notably the purchase of Rundeck in 2019, which added automation and runbook capabilities to the platform). The platform now integrates with hundreds of monitoring, ticketing, and communication tools, and processes trillions of alerts per year across a customer base that ranges from mid-market tech companies to Global 2000 enterprises.
 
 ## The revenue engine
 
@@ -47,7 +47,7 @@ The company's competitive advantage rests on depth of integration (hundreds of n
 
 ## Revenue concentration and customer dependencies
 
-Like many B2B SaaS companies, PagerDuty faces concentration risk: a small number of customers typically account for a large fraction of ARR. Loss of a major enterprise customer can create a visible headwind in quarterly results. The platform is non-negotiable for large DevOps shops, but customer churn can accelerate if the product falls behind on integrations, pricing rises faster than perceived value growth, or a competitor ships a game-changing feature. The company has also navigated the cyclical nature of enterprise software spending; during economic downturns, customers scrutinize SaaS renewals and sometimes consolidate tooling around larger platforms.
+Like many B2B SaaS companies, PagerDuty faces [concentration risk](/concentration-risk/): a small number of customers typically account for a large fraction of ARR. Loss of a major enterprise customer can create a visible headwind in quarterly results. The platform is non-negotiable for large DevOps shops, but customer churn can accelerate if the product falls behind on integrations, pricing rises faster than perceived value growth, or a competitor ships a game-changing feature. The company has also navigated the cyclical nature of enterprise software spending; during economic downturns, customers scrutinize SaaS renewals and sometimes consolidate tooling around larger platforms.
 
 ## Execution and market saturation risks
 

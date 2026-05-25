@@ -22,13 +22,13 @@ The company generates revenue primarily through transaction-based fees on insura
 
 A secondary revenue stream comes from SaaS subscriptions—charging insurance partners and service providers for platform access, analytics, and administrative tools. Data services and lead generation for service providers add incremental revenue, though these are typically smaller components.
 
-The business model is asset-light: SunCar does not underwrite insurance, perform repairs, or hold inventory. This keeps capital requirements modest and operating leverage high as volumes scale. The profitability of the model depends on achieving sufficient transaction volume and maintaining favorable take-rates while keeping user acquisition and support costs in check.
+The business model is asset-light: SunCar does not underwrite insurance, perform repairs, or hold inventory. This keeps capital requirements modest and operating leverage high as volumes scale. The profitability of the model depends on achieving sufficient transaction volume and maintaining favorable take-rates while keeping user [acquisition](/acquisition/) and support costs in check.
 
 ## Where does SunCar fit in China's insurance and automotive landscape?
 
 China's automotive insurance market is large and growing, dominated by state-owned and large national carriers but increasingly open to digital distribution channels. The regulatory environment has loosened restrictions on third-party insurance platforms in recent years, creating opportunities for intermediaries like SunCar. However, regulation remains stricter than in the West, and shifts in policy can materially affect platform business models.
 
-SunCar is one of several platforms competing for the role of digital intermediary in this space. Rivals include larger insurtech companies, traditional brokers moving online, and insurance carriers' own digital channels. The company's relative scale, brand, and network effects are distinguishing factors. SunCar's ability to retain insurers and service providers on the platform, and to drive repeat usage from drivers, determines its competitive standing.
+SunCar is one of several platforms competing for the role of digital intermediary in this space. Rivals include larger insurtech companies, traditional [brokers](/broker/) moving online, and insurance carriers' own digital channels. The company's relative scale, brand, and network effects are distinguishing factors. SunCar's ability to retain insurers and service providers on the platform, and to drive repeat usage from drivers, determines its competitive standing.
 
 The fragmented nature of China's automotive service sector—countless small and mid-sized shops rather than centralized chains—potentially favors a platform aggregating them into a single digital ecosystem. Conversely, it also means higher onboarding and retention costs for the platform operator.
 
@@ -48,7 +48,7 @@ The fragmented nature of China's automotive service sector—countless small and
 
 ## How to research SunCar
 
-Investors should start with the company's [10-K](/wiki/10-k/) filing with the SEC (CIK 1936804) to understand the business structure, revenue breakdown, customer composition, and competitive landscape disclosures. Pay close attention to the risk factors section, which will detail regulatory and market risks specific to China's insurance platform business.
+Investors should start with the company's [10-K](/wiki/10-k/) filing with the SEC (CIK 1936804) to understand the business structure, revenue breakdown, customer composition, and competitive landscape disclosures. Pay close attention to the risk factors section, which will detail regulatory and [market risks](/market-risk/) specific to China's insurance platform business.
 
 Monitor quarterly earnings calls and management guidance for trends in transaction volumes (measured in gross transaction value or number of transactions), take-rates, customer acquisition cost, and retention metrics. These operational KPIs often move ahead of reported revenue and can signal underlying momentum or stress.
 

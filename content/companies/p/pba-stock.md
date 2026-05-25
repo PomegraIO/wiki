@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pembina Pipeline Corporation is one of Canada's largest midstream energy infrastructure operators, responsible for moving crude oil, natural gas, and liquids across western North America and for processing, fractionating, and storing hydrocarbons at key facilities. The company operates nearly 2,000 kilometers of pipelines, multiple processing and fractionation plants, and storage terminals concentrated in Alberta, Saskatchewan, and British Columbia, with export reach into the northwestern United States. It is listed on the Toronto Stock Exchange (TSX: PBA) and trades on NASDAQ as an [American Depository Receipt](/wiki/american-depository-receipt-adr/) (NASDAQ: PBA). The underlying business is one of steady, predictable cash generation from long-term producer contracts rather than the commodity price bets that energy explorers face.
+Pembina Pipeline Corporation is one of Canada's largest midstream energy infrastructure operators, responsible for moving [crude oil](/crude-oil/), [natural gas](/natural-gas/), and liquids across western North America and for processing, fractionating, and storing hydrocarbons at key facilities. The company operates nearly 2,000 kilometers of pipelines, multiple processing and fractionation plants, and storage terminals concentrated in Alberta, Saskatchewan, and British Columbia, with export reach into the northwestern United States. It is listed on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX: PBA) and trades on [NASDAQ](/nasdaq/) as an [American Depository Receipt](/wiki/american-depository-receipt-adr/) (NASDAQ: PBA). The underlying business is one of steady, predictable cash generation from long-term producer contracts rather than the commodity price bets that energy explorers face.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ Pembina is neither an upstream producer (exploring for and drilling) nor a downs
 
 This fee-based model creates predictable, recurring [cash flow](/wiki/free-cash-flow/) and makes midstream businesses behave more like infrastructure utilities than cyclical commodity plays. A producer may cut spending when oil prices fall, but it still needs a path to market for existing wells and reserves, which means it still pays Pembina. When prices are high, producers ramp up volumes flowing through the pipes, and Pembina's throughput revenue grows without the company having to commit fresh capital to exploration or drilling.
 
-The stability of this revenue stream is the ballast that allows Pembina to maintain a high [dividend yield](/wiki/dividend-yield/) and predictable payout ratios. Investors seeking exposure to energy infrastructure rather than energy price bets are the core audience.
+The stability of this revenue stream is the ballast that allows Pembina to maintain a high [dividend yield](/wiki/dividend-yield/) and predictable [payout ratios](/payout-ratio/). Investors seeking exposure to energy infrastructure rather than energy price bets are the core audience.
 
 ## What Pembina owns and operates
 
@@ -57,7 +57,7 @@ The company has invested significantly in export-focused projects in recent year
 
 ## Capital allocation and dividend sustainability
 
-Pembina distributes a large percentage of its [free cash flow](/wiki/free-cash-flow/) to [equity holders](/wiki/shareholder/) via an inflation-linked [monthly dividend](/wiki/dividend/) (as of recent years, paid monthly rather than quarterly or annually). This high payout ratio reflects the utility-like nature of the business — steady, contractual cash is returned to shareholders rather than poured back into growth. Historically, the company has also maintained flexibility to fund growth investments, acquisitions, and debt reduction while supporting the dividend.
+Pembina distributes a large percentage of its [free cash flow](/wiki/free-cash-flow/) to [equity holders](/wiki/shareholder/) via an inflation-linked [monthly dividend](/wiki/dividend/) (as of recent years, paid monthly rather than quarterly or annually). This high payout ratio reflects the utility-like nature of the business — steady, contractual cash is returned to shareholders rather than poured back into growth. Historically, the company has also maintained flexibility to fund growth investments, [acquisitions](/acquisition/), and debt reduction while supporting the dividend.
 
 The sustainability of the dividend ultimately rests on the company's ability to renew customer contracts as they expire and to win new business as producers expand or shift their infrastructure needs. It also depends on the company's credit profile remaining solid enough to refinance debt at reasonable rates and to access capital markets for growth projects.
 
@@ -77,14 +77,14 @@ In the United States, Pembina's assets and export pipelines face state and feder
 
 **Regulatory and approval risk.** New projects require multi-year regulatory approval and are increasingly subject to delays, re-negotiations, or rejection on environmental or political grounds. Changes to rate regulation, royalty rates (which affect producer economics), or environmental standards can ripple through the business.
 
-**Debt and refinancing.** Midstream operators typically carry meaningful debt to fund capital projects. Pembina must refinance debt in a normal credit environment, and a significant rise in interest rates increases refinancing costs, which can pressure cash available for dividends or limit growth investment.
+**Debt and refinancing.** Midstream operators typically carry meaningful debt to fund capital projects. Pembina must refinance debt in a normal credit environment, and a significant rise in [interest rates](/interest-rate/) increases refinancing costs, which can pressure cash available for dividends or limit growth investment.
 
 **Energy transition and stranded assets.** The long-term decline of oil and gas demand in developed economies creates strategic uncertainty. Pipelines and processing infrastructure built to last 40+ years may face declining volumes if producers scale back output and shift capital to renewables or hydrogen. Pembina has begun exploring energy transition assets (carbon capture, hydrogen) but remains primarily exposed to hydrocarbon logistics.
 
 ## How to research Pembina Pipeline
 
-Start with the company's annual [10-K filing](/wiki/10-k/) filed with the US Securities and Exchange Commission (CIK 1546066), which provides a complete revenue breakdown by segment, customer concentration, contract terms, and risk disclosure. The company's annual report and regulatory filings with Canadian authorities offer additional detail on regulatory changes and capital plans.
+Start with the company's annual [10-K filing](/wiki/10-k/) filed with the US [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1546066), which provides a complete revenue breakdown by segment, customer concentration, contract terms, and risk disclosure. The company's annual report and regulatory filings with Canadian authorities offer additional detail on regulatory changes and capital plans.
 
-Key metrics to watch include [funds from operations](/wiki/operating-cash-flow/) (FFO) or distributable cash per [unit](/wiki/equity-unit/) (for comparison to the dividend payout), year-over-year throughput volumes on major pipeline systems, contract renewal success rates, and the company's [leverage ratio](/wiki/debt-to-ebitda-ratio/) (debt to EBITDA). Management discussion and analysis (MD&A) sections detail volume trends, pricing changes, and major project economics. Quarterly calls with analysts are where management provides updates on contract renewals, customer conversations, and expected capital deployment.
+Key metrics to watch include [funds from operations](/wiki/operating-cash-flow/) (FFO) or distributable cash per [unit](/wiki/equity-unit/) (for comparison to the dividend payout), year-over-year throughput volumes on major pipeline systems, contract renewal success rates, and the company's [leverage ratio](/wiki/debt-to-ebitda-ratio/) (debt to [EBITDA](/ebitda/)). Management discussion and analysis (MD&A) sections detail volume trends, pricing changes, and major project economics. Quarterly calls with analysts are where management provides updates on contract renewals, customer conversations, and expected capital deployment.
 
 As with any single holding, Pembina's shares and ADRs trade on public exchanges at market prices, and this overview is not a recommendation to buy or sell—only a description of the business, its positioning within energy infrastructure, and the key levers that drive cash generation and shareholder returns.

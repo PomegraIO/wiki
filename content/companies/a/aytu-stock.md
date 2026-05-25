@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Aytu BioPharma, Inc. (AYTU) is a specialty pharmaceutical company headquartered in Englewood, Colorado, focused on advancing novel medicines for complex central nervous system disorders. The company trades on the Nasdaq under the ticker AYTU and pursues a commercial-stage strategy centered on its flagship treatment for major depressive disorder and a portfolio of established prescription products.
+Aytu BioPharma, Inc. (AYTU) is a specialty pharmaceutical company headquartered in Englewood, Colorado, focused on advancing novel medicines for complex central nervous system disorders. The company trades on the [Nasdaq](/nasdaq/) under the ticker AYTU and pursues a commercial-stage strategy centered on its flagship treatment for major depressive disorder and a portfolio of established prescription products.
 
 ## The EXXUA Opportunity
 

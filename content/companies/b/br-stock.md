@@ -42,12 +42,12 @@ The segment has high incremental margins once development and infrastructure cos
 **Investor Communication Services revenue** is driven by:
 - Mutual fund and ETF proxy statements and annual reports (per-document)
 - Stockholder communication events (per-account, per-event)
-- Annual recurring services from transfer agents and corporate issuers
+- Annual recurring services from [transfer agents](/transfer-agent/) and corporate issuers
 - Regulatory submission services
 
-This segment has benefited from the growth of passively managed funds and ETFs (more shareholder communication events) and from increasing regulatory complexity (more compliance documents to produce and mail). However, it also faces long-term headwinds from digital-first communication and the shift to electronic delivery.
+This segment has benefited from the growth of [passively managed funds](/passively-managed-fund/) and ETFs (more shareholder communication events) and from increasing regulatory complexity (more compliance documents to produce and mail). However, it also faces long-term headwinds from digital-first communication and the shift to electronic delivery.
 
-Revenue growth is typically 5–8% annually, a modest pace that reflects mature markets, but this understates the underlying cash generation. The company has significant operating leverage: gross margins are 40–45%, and once you deduct just sales, general, and administrative costs, the company produces EBITDA margins of 35–40%. Free cash flow conversion is strong, with the company generating 80%+ of operating income as cash flow each year.
+Revenue growth is typically 5–8% annually, a modest pace that reflects mature markets, but this understates the underlying cash generation. The company has significant operating leverage: gross margins are 40–45%, and once you deduct just sales, general, and administrative costs, the company produces [EBITDA margins](/ebitda-margin/) of 35–40%. Free [cash flow conversion](/cash-flow-conversion/) is strong, with the company generating 80%+ of operating income as cash flow each year.
 
 ## Competitive Position and Moat
 
@@ -59,7 +59,7 @@ Key competitors include:
 - **nCino** and **Temenos** (in digital banking and onboarding)
 
 Broadridge's competitive advantages are:
-1. **Incumbency**: Deep integration with the DTCC, the Federal Reserve, and the OCC's settlement and regulatory infrastructure. New competitors cannot easily displace Broadridge at this layer.
+1. **Incumbency**: Deep integration with the DTCC, the [Federal Reserve](/federal-reserve/), and the OCC's settlement and regulatory infrastructure. New competitors cannot easily displace Broadridge at this layer.
 2. **Scale and specialization**: In wealth management, Broadridge serves a third or more of U.S. advisers. Competitors lack this depth of domain expertise in the advisor ecosystem.
 3. **Regulatory embedding**: Many regulatory workflows route through Broadridge's systems. This is not because they must, but because the company has invested heavily in compliance tooling and the costs of switching are prohibitive.
 4. **Network effects**: The more institutions use Broadridge, the more valuable it becomes as a hub for inter-firm communication and settlement.
@@ -68,11 +68,11 @@ The main risk to the moat is technology disruption. If cloud-native, API-first f
 
 ## Financial Characteristics and Capital Allocation
 
-Broadridge is a cash machine, but not a high-growth one. Over the past decade, revenue has grown at a steady 5–6% CAGR, while EBITDA has grown at 7–8% (due to margin expansion). The company generates billions of dollars in free cash flow each year—more than enough to fund its business, even with steady M&A.
+Broadridge is a cash machine, but not a high-growth one. Over the past decade, revenue has grown at a steady 5–6% CAGR, while EBITDA has grown at 7–8% (due to margin expansion). The company generates billions of dollars in [free cash flow](/free-cash-flow/) each year—more than enough to fund its business, even with steady M&A.
 
 Capital allocation:
 - **Dividends**: Broadridge has increased its dividend annually for many years, reflecting the board's confidence in stable, recurring cash flows. Yielding ~2–2.5%, the dividend is reliable but not lavish.
-- **Share buybacks**: The company has been a modest net repurchaser of its own stock, shrinking share count by 1–2% per year. This helps offset the dilution from equity compensation.
+- **[Share buybacks](/share-buyback/)**: The company has been a modest net repurchaser of its own stock, shrinking share count by 1–2% per year. This helps offset the dilution from [equity compensation](/equity-compensation/).
 - **Acquisitions**: Broadridge has acquired dozens of smaller fintech, compliance, and practice-management firms to bolt on new capabilities and customer bases. Recent deals have included Eidon (regulatory consulting) and various digital-engagement and compliance acquisitions. These are mostly bolt-on deals, not transformative.
 
 The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, giving management flexibility to grow through M&A or weather economic downturns.
@@ -81,14 +81,14 @@ The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, givin
 
 **Growth drivers:**
 - **Wealth management consolidation**: As independent advisers get acquired by larger platforms, Broadridge increases its footprint by winning the tech mandate of the acquirer.
-- **Regulatory expansion**: New compliance rules (cybersecurity, anti-money laundering, beneficial ownership disclosure) create incremental demand for Broadridge's compliance and reporting tools.
+- **Regulatory expansion**: New compliance rules (cybersecurity, [anti-money laundering](/anti-money-laundering/), [beneficial ownership disclosure](/beneficial-ownership-disclosure/)) create incremental demand for Broadridge's compliance and reporting tools.
 - **ETF proliferation**: Passively managed funds require continuous shareholder communication and proxy voting administration, fueling the Investor Communication Services segment.
 - **Digitalization**: As advisers and asset managers shift to digital client engagement, Broadridge's digital communication and account management tools see growing adoption.
 
 **Headwinds:**
 - **Market data commoditization**: As fintech firms offer open-source market data APIs and cloud-based analytics, Broadridge's proprietary data advantage erodes. This is a slow bleed, not a cliff.
 - **Electronic vs. physical mail**: Regulatory documents are increasingly electronic, reducing the per-account revenue from physical mail services. Broadridge has pivoted toward digital delivery, but margins are lower.
-- **In-house development by large banks**: JPMorgan, Goldman Sachs, and other megabanks have built in-house wealth platforms. They will never be customers, but they may become technology partners or even competitors if they license their systems to smaller institutions.
+- **In-house development by large banks**: JPMorgan, [Goldman Sachs](/goldman-sachs/), and other megabanks have built in-house wealth platforms. They will never be customers, but they may become technology partners or even competitors if they license their systems to smaller institutions.
 - **Regulatory scrutiny**: Broadridge's control over settlement workflows means antitrust regulators and industry oversight bodies scrutinize the company's pricing and interoperability. The SEC's market data rules, for example, periodically threaten to commoditize Broadridge's market information business.
 
 ## Risks and Pressures
@@ -108,7 +108,7 @@ The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, givin
 Start with Broadridge's [10-K](/wiki/10-k/), filed annually, which will clarify segment growth rates, customer concentration, and recent M&A. Pay attention to:
 
 - **Organic growth vs. M&A-driven growth**: If the company is growing only through acquisitions, that is a sign that organic growth is stalling.
-- **Customer concentration**: If the top 10 customers represent more than 25% of revenue, the company faces customer concentration risk.
+- **Customer concentration**: If the top 10 customers represent more than 25% of revenue, the company faces customer [concentration risk](/concentration-risk/).
 - **Retention rates**: Broadridge discloses annual retention rates for AdvisorCentral, usually 98%+. A decline would signal that competitive pressure is rising.
 
 Watch quarterly earnings calls for color on:

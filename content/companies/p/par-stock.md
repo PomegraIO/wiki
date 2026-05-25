@@ -33,7 +33,7 @@ In the 2010s, the industry started shifting toward cloud-based, software-as-a-se
 
 ## The modern platform and acquisition strategy
 
-PAR's major strategic move came with the acquisition of Punchh, a customer loyalty and engagement platform, and the earlier purchase of unitQ and Solink. These acquisitions filled out the product ecosystem and accelerated the shift toward software-as-a-service. The company has also invested in mobile and third-party integration, recognizing that restaurant operators now expect their POS to function as a hub connecting kitchen displays, delivery platforms, online ordering, and payment processors.
+PAR's major strategic move came with the acquisition of Punchh, a customer loyalty and engagement platform, and the earlier purchase of unitQ and Solink. These [acquisitions](/acquisition/) filled out the product ecosystem and accelerated the shift toward software-as-a-service. The company has also invested in mobile and third-party integration, recognizing that restaurant operators now expect their POS to function as a hub connecting kitchen displays, delivery platforms, online ordering, and payment processors.
 
 The current product portfolio centers on a few key systems:
 
@@ -65,7 +65,7 @@ The competitive landscape is also shaped by roll-up and consolidation. Apollo Gl
 
 ## Financial structure and pressures
 
-PAR is a public company (NASDAQ: PAR), which means its quarterly earnings reports, guidance updates, and investor presentations shape how the market perceives its progress toward the subscription transition.
+PAR is a public company ([NASDAQ](/nasdaq/): PAR), which means its quarterly earnings reports, guidance updates, and investor presentations shape how the market perceives its progress toward the subscription transition.
 
 The shift from license to SaaS creates near-term margin pressure. License-heavy revenue had high gross margins (80%+) with minimal ongoing delivery cost. SaaS subscriptions have lower upfront margins but more predictable cash flow and higher lifetime gross profit. During a transition, the company sees gross margin decline and operating income pressure—because it must simultaneously support legacy perpetual-license customers (sunk cost) while investing in cloud product development and sales.
 

@@ -38,7 +38,7 @@ The endpoint security and XDR market is crowded and consolidating. SentinelOne c
 
 What SentinelOne has built is a focused reputation for behavioral intelligence and hands-free threat isolation. The company has pursued a "lights-out" security narrative—the idea that AI and autonomous response can handle many threats without human analysts. This resonates with security teams stretched thin by talent shortages. However, autonomy also introduces risk: overly aggressive isolation can disrupt legitimate business operations, and mistakes can erode trust. The company has had to balance aggressive marketing around autonomy with careful product design to avoid false positives.
 
-SentinelOne went public via SPAC merger in February 2021, listing on the NYSE under the ticker S. The public markets gave the company capital to invest in R&D and go-to-market, but also exposed it to the standard pressures of public cybersecurity companies: expectations for rapid ARR growth, profitability timelines, and quarterly guidance.
+SentinelOne went public via SPAC [merger](/merger/) in February 2021, listing on the NYSE under the ticker S. The public markets gave the company capital to invest in R&D and go-to-market, but also exposed it to the standard pressures of public cybersecurity companies: expectations for rapid ARR growth, profitability timelines, and quarterly guidance.
 
 ## Growth Drivers and Headwinds
 
@@ -58,12 +58,12 @@ Investors monitoring SentinelOne should track several metrics and developments:
 
 **Customer Concentration**: Like most cloud vendors, SentinelOne discloses its largest customers. Excessive concentration introduces risk; loss of a major customer can disrupt guidance.
 
-**Profitability and Cash Flow**: SentinelOne was unprofitable for years post-IPO but has targeted profitability in recent periods. Watch the 10-K for trends in operating cash flow and free cash flow, as these matter more for sustainability than GAAP earnings (which can be distorted by stock-based compensation).
+**Profitability and Cash Flow**: SentinelOne was unprofitable for years post-IPO but has targeted profitability in recent periods. Watch the 10-K for trends in operating cash flow and [free cash flow](/free-cash-flow/), as these matter more for sustainability than GAAP earnings (which can be distorted by stock-based compensation).
 
 **Competitive Wins and Losses**: Quarterly earnings calls often reveal competitive dynamics. Wins against Crowdstrike, Palo Alto, or Microsoft are highlighted, as are unexpected losses.
 
 **Regulatory and Breach Events**: A material security incident affecting a customer could harm the company's reputation and sales process. Monitor [SEC filings](/wiki/10-k/) for material risk disclosures.
 
-**M&A and Product Expansion**: SentinelOne has made strategic acquisitions to add capabilities (e.g., managed services, cloud security). Watch for announcements of new modules or platforms as indicators of strategic direction.
+**M&A and Product Expansion**: SentinelOne has made strategic [acquisitions](/acquisition/) to add capabilities (e.g., managed services, cloud security). Watch for announcements of new modules or platforms as indicators of strategic direction.
 
 For detailed financial information, review the company's most recent [10-K filing](/wiki/10-k/) and quarterly [shareholder letters](/wiki/stock/).

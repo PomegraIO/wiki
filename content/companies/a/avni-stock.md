@@ -18,11 +18,11 @@ Down2Fish Charters serves the Greater Tampa Bay market, offering guided fishing 
 
 ## Market Position
 
-Arvana trades on OTC Pink Sheets, placing it well outside major exchanges. The company's market capitalization is minimal by institutional standards, making it illiquid and highly speculative. Like most [OTC pink sheets](/wiki/stock-exchange/) operators, Arvana faces limited analyst coverage and restricted access to conventional capital markets. Information flow is sparse—current financial filings and operational updates are infrequent, typical of micro-cap tourism businesses.
+Arvana trades on [OTC Pink](/otc-pink/) Sheets, placing it well outside major exchanges. The company's [market capitalization](/market-capitalization/) is minimal by institutional standards, making it illiquid and highly speculative. Like most [OTC pink sheets](/wiki/stock-exchange/) operators, Arvana faces limited analyst coverage and restricted access to conventional capital markets. Information flow is sparse—current financial filings and operational updates are infrequent, typical of micro-cap tourism businesses.
 
 ## Historical Context
 
-The company is a decades-old entity registered under SEC rules, though its recent operational focus (the fishing charter business) represents a more recent pivot. Historical trading data shows Arvana reached a high of $16 per share in 2005, then declined steadily over subsequent years, falling to single-digit penny-stock levels by the early 2010s. This trajectory reflects either changes in business model, market conditions, or management strategy. Currently trading near $0.23, the stock's historical volatility and long decline suggest a company either recovering from past difficulties or facing ongoing challenges common to micro-cap operators.
+The company is a decades-old entity registered under SEC rules, though its recent operational focus (the fishing charter business) represents a more recent pivot. Historical trading data shows Arvana reached a high of $16 per share in 2005, then declined steadily over subsequent years, falling to single-digit penny-stock levels by the early 2010s. This trajectory reflects either changes in business model, market conditions, or management strategy. Currently trading near $0.23, the stock's [historical volatility](/historical-volatility/) and long decline suggest a company either recovering from past difficulties or facing ongoing challenges common to micro-cap operators.
 
 ## Operational Reality
 

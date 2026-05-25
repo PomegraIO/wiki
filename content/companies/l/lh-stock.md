@@ -46,7 +46,7 @@ Reimbursement pressure is chronic. Medicare rates decline in real terms over tim
 
 ## Financial Profile
 
-LabCorp is a large, mature, cash-generative business. The clinical lab segment is highly automated and produces strong free cash flow. Covance contributes meaningful earnings and is less capital-intensive than it appears (many costs are variable, tied to clinical trial workload). The company has used free cash flow to fund dividends, share buybacks, and debt repayment. Leverage has typically been modest for a business of this scale.
+LabCorp is a large, mature, cash-generative business. The clinical lab segment is highly automated and produces strong [free cash flow](/free-cash-flow/). Covance contributes meaningful earnings and is less capital-intensive than it appears (many costs are variable, tied to clinical trial workload). The company has used free cash flow to fund [dividends](/dividend/), [share buybacks](/share-buyback/), and debt repayment. Leverage has typically been modest for a business of this scale.
 
 The company's valuation traditionally hinges on near-term earnings, volume trends, and reimbursement outlook. Investors monitor Medicare rate changes closely, quarterly volume metrics (especially tests per patient), and margins on Covance contracts. In economic downturns, lab volume can soften as routine screenings are deferred, but catastrophic testing (cancer, cardiac) often rises.
 
@@ -72,5 +72,5 @@ Key metrics to track: tests-per-requisition (a proxy for mix), organic growth in
 
 The company's dividend history and capital allocation stance (buyback pace, debt reduction) signal management confidence in the cash generation capacity of the business. A cut would be a red flag; consistent increases are reassuring.
 
-Investors should also monitor macro trends in healthcare spending, employment (which affects insurance-based testing), and pharmaceutical R&D budgets. LabCorp's earnings are not highly cyclical but not immune to recessions either.
+Investors should also monitor macro trends in healthcare spending, employment (which affects insurance-based testing), and pharmaceutical R&D budgets. LabCorp's earnings are not highly cyclical but not immune to [recessions](/recession/) either.
 

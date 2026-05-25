@@ -30,7 +30,7 @@ Lands' End is an American retailer of classic casual clothing and home goods, di
 
 The company began in 1963 as a small mail-order boat-equipment business in Chicago, growing into one of the earliest and largest catalog retailers of apparel in America. Lands' End built its reputation during the 1970s and 1980s by perfecting the catalog format: high-quality photography, detailed product descriptions, and a generous return policy that became legendary in retail. It was among the first major merchants to embrace e-commerce in the 1990s, translating its catalog expertise to the web while maintaining the same customer promise.
 
-Lands' End went public in 1986, becoming a publicly traded symbol of American catalog retail at the height of the direct-mail era. In 2002, the company was acquired by Sears, a move that tied its fortunes to a declining department-store operator. The acquisition proved strategically awkward: Sears' struggles in the 2000s and 2010s cast a shadow over Lands' End, even though the brand remained operationally sound. After Sears' bankruptcy in 2018, Lands' End was spun back out as an independent public company, regaining control of its own destiny.
+Lands' End went public in 1986, becoming a publicly traded symbol of American catalog retail at the height of the direct-mail era. In 2002, the company was acquired by Sears, a move that tied its fortunes to a declining department-store operator. The [acquisition](/acquisition/) proved strategically awkward: Sears' struggles in the 2000s and 2010s cast a shadow over Lands' End, even though the brand remained operationally sound. After Sears' bankruptcy in 2018, Lands' End was spun back out as an independent public company, regaining control of its own destiny.
 
 ## The Core Business: Basics That Sell
 
@@ -40,7 +40,7 @@ Revenue flows primarily from three sources: the e-commerce website (the largest 
 
 ## What Sets It Apart
 
-Lands' End's competitive advantage rests on a cluster of intangible assets: brand identity, customer loyalty, and operational knowledge built over six decades. The lifetime guarantee—which replaces any item that fails to satisfy, without time limit or condition—is almost unique in retail and a frequent reason customers cite for loyalty. This promise works because the company designs for durability: natural fibers, time-tested construction methods, and a wariness of synthetic shortcuts.
+Lands' End's competitive advantage rests on a cluster of [intangible assets](/intangible-assets/): brand identity, customer loyalty, and operational knowledge built over six decades. The lifetime guarantee—which replaces any item that fails to satisfy, without time limit or condition—is almost unique in retail and a frequent reason customers cite for loyalty. This promise works because the company designs for durability: natural fibers, time-tested construction methods, and a wariness of synthetic shortcuts.
 
 The catalog remains a differentiator in an increasingly digital landscape. While many retailers abandoned print, Lands' End kept refining it. The catalog drives traffic to the website, appeals to customers who prefer tactile shopping, and creates a tangible brand touchpoint. This dual-channel approach (print + digital) is unusual and gives the company a moat against pure-play digital competitors who lack that heritage asset.
 
@@ -62,7 +62,7 @@ The [10-K](/wiki/10-k/) filing reveals the structure of the business: segment br
 
 Customer acquisition metrics and repeat-purchase rates matter more than top-line revenue. A retailer with a shrinking but loyal base can be healthier than one with flat sales and rising churn. Look for gross margin trends: if the company is getting squeezed on product costs or forced to mark down inventory, that signals either supply-chain pressure or weak demand.
 
-Inventory turnover and cash conversion tell the story of execution. A retailer that ties up capital in unsold inventory for months is burning cash; one that moves product efficiently can reinvest or return cash to shareholders. The company's dividend history (if any) and share-buyback activity show confidence or caution in capital allocation.
+[Inventory turnover](/inventory-turnover/) and cash conversion tell the story of execution. A retailer that ties up capital in unsold inventory for months is burning cash; one that moves product efficiently can reinvest or return cash to shareholders. The company's [dividend](/dividend/) history (if any) and share-buyback activity show confidence or caution in capital allocation.
 
 Comparable-store sales (for the retail locations) and website traffic trends offer real-time signals, though be mindful that catalog customers and online shoppers may not be the same cohort, so lumping them together can obscure what is actually happening.
 

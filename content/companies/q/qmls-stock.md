@@ -11,7 +11,7 @@ handwritten: true
 
 QumulusAI is a cloud infrastructure provider focused on delivering GPU-powered compute capacity for artificial intelligence and high-performance computing workloads. The company bridges a gap in the market by offering faster deployment of NVIDIA-based GPU clusters than traditional hyperscalers, targeting enterprises, startups, and developers that need AI training and inference capacity on flexible timelines.
 
-The business is fairly young—founded in 2019 in Marietta, Georgia—and operates at a modest scale relative to the cloud computing industry. As of September 2025, the company reported $10 million in trailing annual revenue, a figure that reflects both its early stage and the capital intensity of the infrastructure business. The company was structured around a direct listing on the Nasdaq in 2025 under the ticker QMLS, making shares available to existing shareholders without a traditional IPO capital raise.
+The business is fairly young—founded in 2019 in Marietta, Georgia—and operates at a modest scale relative to the cloud computing industry. As of September 2025, the company reported $10 million in trailing annual revenue, a figure that reflects both its early stage and the capital intensity of the infrastructure business. The company was structured around a [direct listing](/direct-listing/) on the [Nasdaq](/nasdaq/) in 2025 under the ticker QMLS, making shares available to existing shareholders without a traditional IPO capital raise.
 
 ## How it operates
 

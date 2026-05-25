@@ -25,7 +25,7 @@ handwritten: true
 
 </aside>
 
-United Community Banks holds and operates a collection of community-focused banks across the Southeast under the United Community Bank brand. The company has grown through organic expansion and targeted acquisitions, establishing operations in Georgia, North Carolina, South Carolina, Tennessee, and Florida. As a regional [bank holding company](/wiki/public-company/), UCB competes by emphasizing relationship banking and local decision-making rather than the standardized service approach typical of megabanks.
+United Community Banks holds and operates a collection of community-focused banks across the Southeast under the United Community Bank brand. The company has grown through organic expansion and targeted [acquisitions](/acquisition/), establishing operations in Georgia, North Carolina, South Carolina, Tennessee, and Florida. As a regional [bank holding company](/wiki/public-company/), UCB competes by emphasizing relationship banking and local decision-making rather than the standardized service approach typical of megabanks.
 
 ## The Business Model
 
@@ -43,13 +43,13 @@ Each acquisition added new markets and customer bases. The integration challenge
 
 United Community Banks operates in a fragmented market where scale and efficiency increasingly matter. The company is smaller than major regional banks like [BB&T](/wiki/bbt-stock/) or larger banks, but larger than standalone community institutions. This middle position has advantages and risks. Local banking expertise and customer relationships can be sticky, but technology investment, regulatory compliance costs, and marketing expenses favor larger players.
 
-The low interest rate environment of recent years pressured net interest margins—the core revenue driver for banks—while competitive deposit gathering became costly. Rising rates offer a reprieve, allowing banks to increase loan yields, but also shift the interest rate risk profile. UCB's balance sheet and [capital adequacy](/wiki/capital-adequacy/) standards are subject to [10-K](/wiki/10-k/) disclosure and regulatory examination.
+The low interest rate environment of recent years pressured net interest margins—the core revenue driver for banks—while competitive deposit gathering became costly. Rising rates offer a reprieve, allowing banks to increase loan yields, but also shift the interest rate risk profile. UCB's [balance sheet](/balance-sheet/) and [capital adequacy](/wiki/capital-adequacy/) standards are subject to [10-K](/wiki/10-k/) disclosure and regulatory examination.
 
 ## Core Pressures and Considerations
 
-The banking sector faces cyclical interest rate risk: when [yield curves](/wiki/yield-curve/) flatten or invert, banks with short-duration deposit funding and longer-duration loan books face margin compression. Credit risk exposure depends on the health of borrowers in UCB's markets—real estate developers, small businesses, and consumers in the Southeast. Economic downturns or regional shocks (recession, real estate correction) would stress loan quality.
+The banking sector faces cyclical interest rate risk: when [yield curves](/wiki/yield-curve/) flatten or invert, banks with short-duration deposit funding and longer-duration loan books face margin compression. Credit risk exposure depends on the health of borrowers in UCB's markets—real estate developers, small businesses, and consumers in the Southeast. Economic downturns or regional shocks ([recession](/recession/), real estate correction) would stress loan quality.
 
-Regulatory capital requirements have been stricter since the 2008 financial crisis. Banks above certain size thresholds face enhanced scrutiny, stress testing, and capital buffer mandates. The [Federal Reserve](/wiki/federal-reserve/) and [FDIC](/wiki/fdic-regulator/) set standards that directly constrain dividends and share buybacks.
+Regulatory capital requirements have been stricter since the 2008 financial crisis. Banks above certain size thresholds face enhanced scrutiny, [stress testing](/stress-testing/), and capital buffer mandates. The [Federal Reserve](/wiki/federal-reserve/) and [FDIC](/wiki/fdic-regulator/) set standards that directly constrain [dividends](/dividend/) and [share buybacks](/share-buyback/).
 
 Technology disruption continues. Online-only banks and fintech lenders compete for deposits and borrowers. UCB's regional branches are a strength in relationship banking but carry fixed costs. Digital banking investments are table stakes, not differentiators.
 
@@ -57,5 +57,5 @@ Technology disruption continues. Online-only banks and fintech lenders compete f
 
 The [10-K filing](/wiki/10-k/) is the primary source for balance sheet detail, loan composition, profitability, and management discussion. Look for net interest margin trends, loan loss provisions relative to portfolio size, and deposit beta (the rate at which the bank must raise deposit rates to compete). Earnings calls and investor presentations discuss acquisitions, efficiency ratios, and strategic priorities. Regulatory filings with the [Federal Reserve](/wiki/federal-reserve/) include stress test results and capital plans.
 
-Industry peers and benchmarks help contextualize performance—compare UCB's return on equity, efficiency ratio, and loan-to-deposit ratio against similarly sized regional banks. Credit rating agencies rate banks' [credit risk](/wiki/credit-risk/), and those ratings influence funding costs and investor perception. Sector health depends on interest rates, employment, and real estate prices in its operating regions.
+Industry peers and benchmarks help contextualize performance—compare UCB's [return on equity](/return-on-equity/), efficiency ratio, and loan-to-deposit ratio against similarly sized regional banks. [Credit rating](/credit-rating/) agencies rate banks' [credit risk](/wiki/credit-risk/), and those ratings influence funding costs and investor perception. Sector health depends on [interest rates](/interest-rate/), employment, and real estate prices in its operating regions.
 

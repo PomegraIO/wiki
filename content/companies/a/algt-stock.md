@@ -15,7 +15,7 @@ Allegiant runs a deliberately lean operation: a single aircraft type (Airbus A32
 
 ## The economics of bare-bones flying
 
-The model trades amenities and service consistency for scale and efficiency. Allegiant owns most of its fleet rather than leasing, limiting variable costs and downside flexibility in downturns. Ancillary revenue often exceeds 30% of total revenue—unusual even in a competitive industry. Fuel hedging, labor costs, and maintenance reserve requirements all affect profitability, as does pressure from larger competitors entering low-fare segments.
+The model trades amenities and service consistency for scale and efficiency. Allegiant owns most of its fleet rather than leasing, limiting variable costs and downside flexibility in downturns. Ancillary revenue often exceeds 30% of total revenue—unusual even in a competitive industry. Fuel hedging, labor costs, and maintenance [reserve requirements](/reserve-requirements/) all affect profitability, as does pressure from larger competitors entering low-fare segments.
 
 ## Route and operational footprint
 

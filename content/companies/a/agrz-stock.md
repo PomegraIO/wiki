@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Agroz Inc. is a Malaysian agricultural technology company focused on controlled environment agriculture—specifically, designing, developing, building, and operating large-scale industrial vertical farms that grow leafy greens and vegetables in climate-controlled indoor environments. Founded in 2020 and headquartered in Petaling Jaya, the company listed on the NASDAQ Capital Market under ticker AGRZ in October 2025, making it the first Southeast Asian agtech company to complete an IPO on that exchange.
+Agroz Inc. is a Malaysian agricultural technology company focused on controlled environment agriculture—specifically, designing, developing, building, and operating large-scale industrial vertical farms that grow leafy greens and vegetables in climate-controlled indoor environments. Founded in 2020 and headquartered in Petaling Jaya, the company listed on the [NASDAQ](/nasdaq/) Capital Market under ticker AGRZ in October 2025, making it the first Southeast Asian agtech company to complete an IPO on that exchange.
 
 The company's core business is end-to-end: it controls facility design, construction, ongoing operations, and farm management. Its farms produce a range of pesticide-free crops cultivated in stacked, vertical systems—a model that emphasizes space efficiency, local supply chains, and reduced transportation. By concentrating production close to consumption markets, Agroz positions itself as a solution to food security, freshness, and supply continuity in regions where land and climate present barriers to traditional agriculture.
 

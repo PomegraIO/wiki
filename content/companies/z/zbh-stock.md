@@ -35,7 +35,7 @@ The geographic mix is important: reimbursement rates and surgical volumes vary s
 
 Zimmer Biomet operates in a market dominated by a handful of large companies. It competes directly against Stryker (roughly equal in size, perhaps slightly larger), J&J's DePuy Synthes division (part of a much larger company), and smaller regional players. The rivalry is fierce, turning on implant innovation, surgeon relationships, hospital contracts, pricing, and clinical evidence.
 
-The company's strengths include a broad product portfolio (it can sell a surgeon or hospital a full range of implants), scale in manufacturing and distribution, an installed base of surgeons trained on its systems, and substantial R&D investment. It has also made strategic acquisitions to fill product gaps and to enter higher-growth segments like robotics and digital surgery.
+The company's strengths include a broad product portfolio (it can sell a surgeon or hospital a full range of implants), scale in manufacturing and distribution, an installed base of surgeons trained on its systems, and substantial R&D investment. It has also made strategic [acquisitions](/acquisition/) to fill product gaps and to enter higher-growth segments like robotics and digital surgery.
 
 Weaknesses or vulnerabilities include persistent pricing pressure (hospitals and insurers negotiate hard), regulatory complexity across dozens of jurisdictions, and capital intensity (implant manufacturing requires precision tooling and quality systems). Supply chain disruptions can hurt, as can any product quality or safety issue that triggers recalls or litigation. The company faces ongoing patent expirations on older implant designs, which invites generic competition in some categories.
 
@@ -59,7 +59,7 @@ For investors and researchers, [Zimmer's 10-K](/wiki/10-k/) reveals the anatomy 
 
 - **Segment revenue**: Look at the split between knee, hip, spine, trauma, sports medicine, and robotics. Growth rates vary; knees and hips are mature but stable; robotics is smaller but faster-growing.
 - **Gross margin**: Historical gross margins are often in the 60–70% range on implants; any sustained decline signals pricing pressure or manufacturing trouble.
-- **Capex and R&D**: The company must invest heavily in both. R&D spending typically runs 5–8% of revenue. High capex relative to depreciation suggests new manufacturing capacity or automation.
+- **Capex and R&D**: The company must invest heavily in both. R&D spending typically runs 5–8% of revenue. High capex relative to [depreciation](/depreciation/) suggests new manufacturing capacity or automation.
 - **Working capital**: Changes in inventory and receivables can mask cash flow. Healthcare reimbursement delays in some countries can lock up cash.
 - **Debt levels**: Zimmer has used leverage to fund acquisitions. Watch debt-to-EBITDA to assess financial flexibility.
 - **Procedure volume and price realization**: Management commentary on volumes (hips, knees, spinal fusions placed) and realized price per unit gives insight into underlying demand and pricing power.

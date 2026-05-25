@@ -19,7 +19,7 @@ The company sells primarily to coke and steel producers, both in North America a
 
 ## How did Alpha Metallurgical Resources become what it is today?
 
-The company traces its current identity to a 2021 rebranding. What is now Alpha Metallurgical Resources operated previously under the name Contura Energy, Inc., trading under the ticker symbol CTRA. On February 1, 2021, Contura Energy adopted its current name, and four days later the New York Stock Exchange reflected the change by updating the ticker to AMR. This rebranding signaled a strategic focus on the higher-margin metallurgical coal segment and represented a shift in identity within an industry facing long-term headwinds from energy transition pressures. The renaming also followed operational consolidation and asset optimization within what had been a broader coal-focused enterprise.
+The company traces its current identity to a 2021 rebranding. What is now Alpha Metallurgical Resources operated previously under the name Contura Energy, Inc., trading under the ticker symbol CTRA. On February 1, 2021, Contura Energy adopted its current name, and four days later the [New York Stock Exchange](/new-york-stock-exchange/) reflected the change by updating the ticker to AMR. This rebranding signaled a strategic focus on the higher-margin metallurgical coal segment and represented a shift in identity within an industry facing long-term headwinds from energy transition pressures. The renaming also followed operational consolidation and asset optimization within what had been a broader coal-focused enterprise.
 
 ## What gives Alpha Metallurgical Resources a competitive advantage in met coal?
 
@@ -27,7 +27,7 @@ The company owns and operates assets in Central Appalachia, one of the world's l
 
 ## How does Alpha Metallurgical Resources fund itself?
 
-The company maintains what it describes as a "strong balance sheet," a position it emphasizes in investor communications alongside financial discipline. In a capital-intensive industry with commodity-linked revenues, balance sheet strength provides a buffer during price downturns and runway for growth investments. Alpha has signaled interest in "scalable organic growth" and value-accretive acquisitions, suggesting a strategy of expanding its asset base and operational footprint within metallurgical coal. Given the cyclicality of commodity markets and the declining long-term demand for coal globally, financial conservatism and liquidity management are likely central to management's operational philosophy.
+The company maintains what it describes as a "strong [balance sheet](/balance-sheet/)," a position it emphasizes in investor communications alongside financial discipline. In a capital-intensive industry with commodity-linked revenues, balance sheet strength provides a buffer during price downturns and runway for growth investments. Alpha has signaled interest in "scalable organic growth" and value-accretive [acquisitions](/acquisition/), suggesting a strategy of expanding its asset base and operational footprint within metallurgical coal. Given the cyclicality of commodity markets and the declining long-term demand for coal globally, financial conservatism and liquidity management are likely central to management's operational philosophy.
 
 ---
 

@@ -33,7 +33,7 @@ Gartner is the world's leading research and advisory company serving IT and busi
 
 Gartner was founded by Gideon Gartner in a Boston apartment and grew into an institution by publishing systematic research that IT leaders trusted. The company's approach was different from the start: rather than selling tools or services, it sold clarity about what tools and services actually worked. That model proved durable. By the 1990s and 2000s, Gartner had become the default reference point for understanding where enterprise technology was headed and how vendors stacked up.
 
-The company went public in 2011 and has grown largely through organic expansion and targeted acquisitions that deepened its advisory capabilities. Over the years it added research divisions covering vertical industries, bought firms specializing in supply chain, manufacturing, and human resources, and built a network of consulting practices that translate research into actionable strategy work for major clients. These moves transformed Gartner from a pure research boutique into a diversified advisory and events business serving the full scope of how enterprises run.
+The company went public in 2011 and has grown largely through organic expansion and targeted [acquisitions](/acquisition/) that deepened its advisory capabilities. Over the years it added research divisions covering vertical industries, bought firms specializing in supply chain, manufacturing, and human resources, and built a network of consulting practices that translate research into actionable strategy work for major clients. These moves transformed Gartner from a pure research boutique into a diversified advisory and events business serving the full scope of how enterprises run.
 
 ## How the Money Works
 
@@ -55,7 +55,7 @@ That said, Gartner faces structural headwinds. As enterprises build stronger int
 
 ## Scale and Revenue Drivers
 
-Gartner's revenue base is geographically concentrated, with the majority from North America, though European and Asia-Pacific operations are growing. The business scales well: adding an analyst to cover a new technology domain or expanding into a vertical market can generate revenue multiples on the incremental cost. Contract retention is high—clients renew at rates above 90% annually because switching costs are real and the subscriptions become embedded in how clients buy.
+Gartner's revenue base is geographically concentrated, with the majority from North America, though European and Asia-Pacific operations are growing. The business scales well: adding an analyst to cover a new technology domain or expanding into a vertical market can generate [revenue multiples](/revenue-multiple/) on the incremental cost. Contract retention is high—clients renew at rates above 90% annually because switching costs are real and the subscriptions become embedded in how clients buy.
 
 Yet subscription saturation and competition mean growth depends on expanding into new domains, selling additional services to existing clients, and raising prices carefully on an installed base. The consulting division has provided growth acceleration but also cyclicality tied to client IT spending, which moves with economic confidence. Events revenues are recovering post-pandemic but remain sensitive to travel budgets and large customer spending cycles.
 

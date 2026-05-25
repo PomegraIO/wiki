@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**NextNav holds FCC spectrum licenses and develops terrestrial positioning and navigation services as a backup and alternative to GPS.** The company trades on Nasdaq under the ticker NN and derives its business case from the vulnerability of GPS to jamming, spoofing, and indoor dead zones. Unlike satellite positioning, NextNav's terrestrial systems can provide altitude data and location information in urban canyons and indoors where GPS fails entirely—a capability with clear value for emergency services, precision agriculture, and location-based commerce.
+**NextNav holds FCC spectrum licenses and develops terrestrial positioning and navigation services as a backup and alternative to GPS.** The company trades on [Nasdaq](/nasdaq/) under the ticker NN and derives its business case from the vulnerability of GPS to jamming, spoofing, and indoor dead zones. Unlike satellite positioning, NextNav's terrestrial systems can provide altitude data and location information in urban canyons and indoors where GPS fails entirely—a capability with clear value for emergency services, precision agriculture, and location-based commerce.
 
 ## Spectrum Portfolio and Market Position
 
@@ -30,7 +30,7 @@ NextNav operates three main offerings. **Pinnacle** is an altitude-only service�
 
 NextNav is a pre-revenue growth company with enormous operating losses. In 2025, the company recorded $4.6 million in revenue against $74.8 million in operating expenses, yielding an operating loss of $70.2 million. Net losses were even larger at $189.3 million, driven by non-cash charges and financing costs. In the first quarter of 2026, revenue fell to $995,000 from $1.54 million a year earlier, signaling that even the minimal current income is contracting.
 
-The company burns capital rapidly. NextNav relies on equity financing, debt, and the promise of future spectrum-driven revenue to survive. Each quarter without material commercial traction raises the question of whether customers will ever materialize at the scale and price required to sustain the business. The company has negative equity and would need years of strong profitability to reverse it.
+The company burns capital rapidly. NextNav relies on [equity financing](/equity-financing/), debt, and the promise of future spectrum-driven revenue to survive. Each quarter without material commercial traction raises the question of whether customers will ever materialize at the scale and price required to sustain the business. The company has negative equity and would need years of strong profitability to reverse it.
 
 ## Market Opportunity and Risk
 

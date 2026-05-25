@@ -15,7 +15,7 @@ Avio designs and manufactures space propulsion systems, launch vehicles, and roc
 
 ## Where does Avio sit geographically and operationally?
 
-Founded in 1908 and reorganized through mergers into its modern form in 2003, Avio is an Italian company headquartered near Rome in Colleferro. It maintains ten production and engineering sites distributed across Italy, France, the United States, and French Guiana, with roughly 1,500 employees. This multinational footprint reflects both the complexity of modern aerospace manufacturing and Avio's role as a key supplier within the European space industrial base, serving as the primary contractor for major European launch vehicles.
+Founded in 1908 and reorganized through [mergers](/merger/) into its modern form in 2003, Avio is an Italian company headquartered near Rome in Colleferro. It maintains ten production and engineering sites distributed across Italy, France, the United States, and French Guiana, with roughly 1,500 employees. This multinational footprint reflects both the complexity of modern aerospace manufacturing and Avio's role as a key supplier within the European space industrial base, serving as the primary contractor for major European launch vehicles.
 
 ## How does Avio make money?
 

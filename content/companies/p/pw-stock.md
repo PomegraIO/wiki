@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Power REIT is a publicly traded [real estate investment trust](/wiki/real-estate-investment-trust/) with a deliberately diversified portfolio spanning three distinct asset classes: rail corridor real estate, ground leases for solar and wind installations, and controlled-environment agriculture (CEA) facilities—mainly greenhouses. Founded in 2010 and headquartered in Maryland, it is a small-capitalization REIT that has positioned itself to capture niche revenue streams in three growth-oriented sectors, though that diversification has also exposed it to sector-specific headwinds and execution risk.
+Power REIT is a publicly traded [real estate investment trust](/wiki/real-estate-investment-trust/) with a deliberately diversified portfolio spanning three distinct asset classes: rail corridor real estate, ground leases for solar and wind installations, and controlled-environment agriculture (CEA) facilities—mainly greenhouses. Founded in 2010 and headquartered in Maryland, it is a small-capitalization REIT that has positioned itself to capture niche revenue streams in three growth-oriented sectors, though that [diversification](/diversification/) has also exposed it to sector-specific headwinds and execution risk.
 
 ## The Core Thesis: Diversification Across Emerging Property Types
 
 Unlike the large [equity REITs](/wiki/equity-reit/) dominating the sector—office, retail, industrial, residential—Power REIT bet on underserved niches. The company owns or leases real property to operators in each segment, collecting rent or lease payments. The economic logic is sound: rail corridors, renewable energy sites, and indoor farming all require long-term access to physical land or structures; REITs are natural capital providers for these capital-intensive, land-dependent businesses.
 
-The diversification was meant to insulate the portfolio from any single sector's cyclicality. In practice, however, all three segments have proven sensitive to interest rates, construction cycles, and investor appetite for specific asset classes. The CEA segment in particular has proven volatile.
+The diversification was meant to insulate the portfolio from any single sector's cyclicality. In practice, however, all three segments have proven sensitive to [interest rates](/interest-rate/), construction cycles, and investor appetite for specific asset classes. The CEA segment in particular has proven volatile.
 
 ## Rail Properties
 
@@ -46,9 +46,9 @@ The portfolio generates [operating cash flows](/wiki/cash-flow-statement/) throu
 
 ## Pressures and Risks
 
-**Tenant credit risk.** A significant portion of revenue is concentrated among a small number of operators. If a major tenant (especially in the CEA segment) restructures or defaults, revenue and property valuations can suffer sharply.
+**Tenant [credit risk](/credit-risk/).** A significant portion of revenue is concentrated among a small number of operators. If a major tenant (especially in the CEA segment) restructures or defaults, revenue and property valuations can suffer sharply.
 
-**Interest rate sensitivity.** As a REIT with debt, rising rates increase borrowing costs. Moreover, higher discount rates lower the [present value](/wiki/discounted-cash-flow-valuation/) of future lease payments, pressuring property values and share price.
+**Interest rate sensitivity.** As a REIT with debt, rising rates increase borrowing costs. Moreover, higher [discount rates](/discount-rate/) lower the [present value](/wiki/discounted-cash-flow-valuation/) of future lease payments, pressuring property values and share price.
 
 **Sector cyclicality.** Rail, renewables, and CEA are all capital-intensive and cyclical. Periods of capital scarcity and economic slowdown reduce operator investment and profitability, increasing lease default risk.
 
@@ -58,14 +58,14 @@ The portfolio generates [operating cash flows](/wiki/cash-flow-statement/) throu
 
 ## Investor Considerations
 
-Power REIT appeals to investors seeking diversification across niche property types and those who believe in the long-term fundamentals of rail, renewables, and indoor agriculture. The dividend yield can be attractive, though sustainability depends on operating performance.
+Power REIT appeals to investors seeking diversification across niche property types and those who believe in the long-term fundamentals of rail, renewables, and indoor agriculture. The [dividend yield](/dividend-yield/) can be attractive, though sustainability depends on operating performance.
 
 Risks are material. The CEA segment's volatility and the portfolio's scale and tenant concentration mean that individual tenant losses or market shifts have outsized impact. The company's [10-K filings](/wiki/10-k/) with the SEC (CIK 1532619) detail these concentrations, lease terms, tenant credit profiles, and property valuations. Prospective investors should carefully examine:
 
 - The tenant roster and lease maturity schedule, noting the concentration in CEA
 - Recent lease non-renewals, defaults, or restructurings
-- The carrying value and fair value of properties, especially those in the CEA segment
+- The carrying value and [fair value](/fair-value/) of properties, especially those in the CEA segment
 - Management's repositioning strategy for underperforming or vacant assets
-- Debt levels and refinancing risk
+- Debt levels and [refinancing risk](/refinancing-risk/)
 
 Power REIT is a genuine small-capitalization operator, not a mega-REIT. It has chosen a contrarian path into sectors others avoid, which can create opportunity but also concentrates risk.

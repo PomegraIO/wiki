@@ -65,13 +65,13 @@ The consumption-based model, while theoretically aligned with cloud economics, i
 
 Competition from generalist AI—especially from OpenAI, Google (Gemini), and Microsoft (Copilot)—adds risk. If customers can build similar applications faster and cheaper using foundation models directly, C3.ai's value (pre-built, specialized applications; opinionated architecture) becomes easier to replicate. The company's pivot to generative AI and its launch of C3 Code address this head-on, but the threat is real.
 
-Concentration risk exists too. The company has historically relied on large customers and government contracts. Loss of one major customer or a slowdown in Federal spending would hurt results disproportionately.
+[Concentration risk](/concentration-risk/) exists too. The company has historically relied on large customers and government contracts. Loss of one major customer or a slowdown in Federal spending would hurt results disproportionately.
 
 ## How to Research C3.ai
 
 Start with the company's [10-K](/wiki/10-k/) filing (annual report to the SEC), which details revenue by segment, customer concentration, and margins. The filing is candid about risks and provides audited financial detail. SEC Form 10-Q (quarterly filings) gives you the pulse of near-term business health. Earnings call transcripts—available on the investor relations website or via transcript services—reveal management's strategy and how they navigate competition and customer feedback.
 
-Key metrics to track: subscription revenue growth (the core business), the ratio of new customer acquisition to churn (are they replacing lost deals?), Federal business growth (a major driver), and gross margins on subscription (a proxy for platform efficiency). Also watch the average contract value and usage velocity—if subscription contracts are growing in size but not activating faster, the consumption model isn't delivering.
+Key metrics to track: subscription revenue growth (the core business), the ratio of new customer [acquisition](/acquisition/) to churn (are they replacing lost deals?), Federal business growth (a major driver), and gross margins on subscription (a proxy for platform efficiency). Also watch the average contract value and usage velocity—if subscription contracts are growing in size but not activating faster, the consumption model isn't delivering.
 
 Analyst reports from firms covering enterprise software (like Gartner, Forrester, or independent equity research) provide external perspective on C3.ai's position relative to competitors and the broader AI/ML platform market. Be skeptical of hype, especially in AI; ask whether adoption is real or aspirational.
 

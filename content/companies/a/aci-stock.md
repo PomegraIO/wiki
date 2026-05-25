@@ -18,6 +18,6 @@ Albertsons sits in a mature, consolidated grocery market alongside Kroger, Walma
 
 Profitability in grocery hinges on inventory turns, shrink control, labor scheduling efficiency, and supplier negotiating power. The company files [10-K](/wiki/10-k/) and quarterly reports with the SEC that detail segment performance, store counts by banner, comparable-store sales, and margin trends. The company trades as [a public security](/wiki/public-company/) on the NYSE.
 
-Albertsons' competitive position rests on store footprint and omnichannel presence rather than product innovation or service differentiation. The sector faces structural headwinds from wage pressure, commodity inflation, and format disruption as e-commerce and smaller-format retailers reshape how people buy groceries. Pharmacy and fuel margins face ongoing pressure from competition and regulatory changes. Like other mature grocers, the stock reflects the business model's limited growth potential and operational focus on cash generation.
+Albertsons' competitive position rests on store footprint and omnichannel presence rather than product innovation or service differentiation. The sector faces structural headwinds from wage pressure, commodity [inflation](/inflation/), and format disruption as e-commerce and smaller-format retailers reshape how people buy groceries. Pharmacy and fuel margins face ongoing pressure from competition and regulatory changes. Like other mature grocers, the stock reflects the business model's limited growth potential and operational focus on cash generation.
 
 

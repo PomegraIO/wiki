@@ -21,9 +21,9 @@ The wholesale channel—sales to department stores, sporting goods retailers, an
 
 ## Scale, Cyclicality, and Structural Headwinds
 
-VFC operates at substantial scale, with annual revenue in the range of $10 billion to $12 billion historically, though the company has faced significant margin pressure and top-line challenges in recent years. The business is notoriously cyclical: apparel and footwear demand is sensitive to consumer confidence, discretionary spending, and fashion cycles. Winter is generally a stronger season, given the importance of outerwear and cold-weather gear. Wholesale customer concentration poses an ongoing risk; a handful of large retailers (Foot Locker, Dick's Sporting Goods, department store chains) represent material portions of wholesale revenue, and loss of shelf space or floor commitment can impact results immediately.
+VFC operates at substantial scale, with annual revenue in the range of $10 billion to $12 billion historically, though the company has faced significant margin pressure and top-line challenges in recent years. The business is notoriously cyclical: apparel and footwear demand is sensitive to consumer confidence, [discretionary spending](/discretionary-spending/), and fashion cycles. Winter is generally a stronger season, given the importance of outerwear and cold-weather gear. Wholesale customer concentration poses an ongoing risk; a handful of large retailers (Foot Locker, Dick's Sporting Goods, department store chains) represent material portions of wholesale revenue, and loss of shelf space or floor commitment can impact results immediately.
 
-The company has contended with several structural shifts over the past decade. The decline of traditional wholesale retail (especially department stores and sporting goods chains) has forced VFC to accelerate DTC investment and e-commerce buildout. Supply chain disruptions and inflation in labor and materials have compressed gross margins. Fashion cycles are brutal: brands that lose relevance with youth consumers (or older core audiences) can deteriorate quickly, and VFC's portfolio—particularly Vans and The North Face—depends on sustained cultural cachet.
+The company has contended with several structural shifts over the past decade. The decline of traditional wholesale retail (especially department stores and sporting goods chains) has forced VFC to accelerate DTC investment and e-commerce buildout. Supply chain disruptions and [inflation](/inflation/) in labor and materials have compressed gross margins. Fashion cycles are brutal: brands that lose relevance with youth consumers (or older core audiences) can deteriorate quickly, and VFC's portfolio—particularly Vans and The North Face—depends on sustained cultural cachet.
 
 ## Competitive Position and Moat
 
@@ -33,7 +33,7 @@ That said, the moat is not impenetrable. Athletic brands face intense competitio
 
 ## How Money Flows and Key Metrics to Watch
 
-Revenue comes through wholesale (orders placed by retailers), DTC sales (company-operated stores and digital channels), and licensing. Gross margin has historically ranged from 50% to 60%, but has deteriorated toward the lower end of that range due to wholesale channel mix shifts and cost inflation. Operating margin has similarly compressed. Free cash flow is central to the business case for equity investors and debt holders; it funds growth capex, dividends, and debt reduction.
+Revenue comes through wholesale (orders placed by retailers), DTC sales (company-operated stores and digital channels), and licensing. Gross margin has historically ranged from 50% to 60%, but has deteriorated toward the lower end of that range due to wholesale channel mix shifts and cost inflation. [Operating margin](/operating-margin/) has similarly compressed. [Free cash flow](/free-cash-flow/) is central to the business case for equity investors and debt holders; it funds growth capex, [dividends](/dividend/), and debt reduction.
 
 Key metrics to monitor in [10-K](/wiki/10-k/) filings:
 
@@ -42,7 +42,7 @@ Key metrics to monitor in [10-K](/wiki/10-k/) filings:
 - **Gross margin:** Sensitive to product mix (wholesale is typically lower margin than DTC), geographies, and cost inflation. Margin expansion signals pricing power or cost control.
 - **Inventory levels:** Excess inventory forces promotions, pressuring margin. Watch inventory turn and aging.
 - **Capital expenditures and store count:** Indicates investment intensity and growth ambitions in DTC.
-- **Debt levels and covenants:** VFC carries significant debt; leverage ratios and covenant headroom matter for financial flexibility.
+- **Debt levels and covenants:** VFC carries significant debt; [leverage ratios](/leverage-ratio-forex/) and covenant headroom matter for financial flexibility.
 
 The company has historically paid dividends and returned capital to shareholders through buybacks, though this has been constrained during periods of operational stress.
 
@@ -56,7 +56,7 @@ The company has historically paid dividends and returned capital to shareholders
 
 **Supply chain volatility:** VFC manufactures little; it primarily sources from contract manufacturers in Asia and other low-cost regions. Tariffs, shipping costs, and labor inflation directly impact profitability. Geopolitical disruption to supply chains poses ongoing risk.
 
-**Leverage:** VFC has used debt to fund acquisitions and returns to shareholders. High leverage limits financial flexibility and increases refinancing risk, particularly in a rising-rate environment.
+**Leverage:** VFC has used debt to fund [acquisitions](/acquisition/) and returns to shareholders. High leverage limits financial flexibility and increases [refinancing risk](/refinancing-risk/), particularly in a rising-rate environment.
 
 **Currency and international exposure:** With roughly half of revenue from outside North America, foreign exchange headwinds can materially impact reported results. Economic slowdown in key markets (Europe, China) directly affects sales and profitability.
 

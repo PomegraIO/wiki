@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-YD Bio Limited is a Taiwan-based biotechnology company pursuing precision diagnostics and regenerative therapeutics, with a concentrated focus on early cancer detection through DNA methylation analysis and therapeutic applications of stem cell exosomes. The company completed a reverse merger with Breeze Holdings Acquisition Corp. and began trading on the Nasdaq Global Market in August 2025 under the ticker YDES, marking its entry into U.S. public markets as a younger player in a crowded space.
+YD Bio Limited is a Taiwan-based biotechnology company pursuing precision diagnostics and regenerative therapeutics, with a concentrated focus on early cancer detection through DNA methylation analysis and therapeutic applications of stem cell exosomes. The company completed a [reverse merger](/reverse-merger/) with Breeze Holdings [Acquisition](/acquisition/) Corp. and began trading on the [Nasdaq](/nasdaq/) Global Market in August 2025 under the ticker YDES, marking its entry into U.S. public markets as a younger player in a crowded space.
 
 ## Origins and path to scale
 
 Founded in 2013, YD Bio spent its early years in the unglamorous work of contract manufacturing for clinical trials and consumer health supplements—a practical foundation that would later inform its strategy. Over time, the company gradually shifted toward higher-margin intellectual property, reorienting around detection and therapeutic platforms that sit at the intersection of molecular diagnostics and regenerative medicine.
 
-The company's Nasdaq listing at the end of summer 2025 came through a business combination structure rather than a traditional initial public offering, a common entry point for smaller biotech companies seeking capital. The transaction closed with an $11.5 million capital infusion, modest by public-markets standards but meaningful for a focused, pre-commercial platform play. That timing—listing just as 2026 opened—positioned YD Bio to announce a "robust clinical and commercial roadmap" with visibility into near-term milestones, a cadence valuable to investors tracking execution.
+The company's Nasdaq listing at the end of summer 2025 came through a [business combination](/business-combination-purchase/) structure rather than a traditional [initial public offering](/initial-public-offering/), a common entry point for smaller biotech companies seeking capital. The transaction closed with an $11.5 million capital infusion, modest by public-markets standards but meaningful for a focused, pre-commercial platform play. That timing—listing just as 2026 opened—positioned YD Bio to announce a "robust clinical and commercial roadmap" with visibility into near-term milestones, a cadence valuable to investors tracking execution.
 
 ## The cancer detection core
 
@@ -41,7 +41,7 @@ The exosome therapeutic arm is even earlier; it is a promising but speculative s
 
 ## Capital and execution risk
 
-At a $11.5 million raise and August 2025 listing, YD Bio enters a challenging capital environment for clinical-stage biotech. The company's public float is likely small, and its path to cash flow depends on hitting clinical and commercial milestones on a compressed timeline. Diagnostic validation studies can be resource-intensive; therapeutic development for eye disease is moving but slow. Burn rate, partner execution (particularly its dependence on EG BioMed's technology and support), and market adoption of new cancer tests will shape near-term viability.
+At a $11.5 million raise and August 2025 listing, YD Bio enters a challenging capital environment for clinical-stage biotech. The company's [public float](/float/) is likely small, and its path to cash flow depends on hitting clinical and commercial milestones on a compressed timeline. Diagnostic validation studies can be resource-intensive; therapeutic development for eye disease is moving but slow. Burn rate, partner execution (particularly its dependence on EG BioMed's technology and support), and market adoption of new cancer tests will shape near-term viability.
 
 The regulatory environment is also a variable: FDA review timelines for novel diagnostic platforms and regenerative medicine are unpredictable, and reimbursement by Medicare and insurers for new tests (even if validated) can lag clinical readiness by years.
 

@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-QMMM Holdings Limited emerged from Hong Kong's creative production ecosystem as a specialized provider of high-end digital media services and immersive technology. Operating through subsidiaries ManyMany Creations Limited and Quantum Matrix Limited, the company built a reputation serving multinational enterprises and premium brands seeking sophisticated visual content and virtual experiences. In July 2024, it became a public company through an initial public offering on the NASDAQ Capital Market.
+QMMM Holdings Limited emerged from Hong Kong's creative production ecosystem as a specialized provider of high-end digital media services and immersive technology. Operating through subsidiaries ManyMany Creations Limited and Quantum Matrix Limited, the company built a reputation serving multinational enterprises and premium brands seeking sophisticated visual content and virtual experiences. In July 2024, it became a public company through an [initial public offering](/initial-public-offering/) on the [NASDAQ](/nasdaq/) Capital Market.
 
 ## The Hong Kong Base and Industry Position
 
@@ -62,7 +62,7 @@ At the same time, competition is intense. Large multinational advertising and me
 
 For QMMM, the leverage lies in specialization and quality. Clients choosing a small, Hong Kong-based shop over a global holding company are seeking either specific expertise, cultural proximity, cost efficiency, or flexibility that larger organizations cannot match. The company's track record of over 500 commercial campaigns and a reputation for "top creativity, premium account servicing, and ever-advancing tech R&D" (in the company's own language) represents intangible asset.
 
-However, the business is inherently cyclical. Advertising spending contracts during recessions and economic uncertainty. Enterprise budgets for "nice-to-have" immersive experiences are the first items cut when companies tighten spending. The company is also vulnerable to changes in creative fashion—if virtual avatars or immersive technology fall out of favor with brands, or if in-house and self-service tools mature to the point where custom professional work is no longer justified, revenue can decline.
+However, the business is inherently cyclical. Advertising spending contracts during [recessions](/recession/) and economic uncertainty. Enterprise budgets for "nice-to-have" immersive experiences are the first items cut when companies tighten spending. The company is also vulnerable to changes in creative fashion—if virtual avatars or immersive technology fall out of favor with brands, or if in-house and self-service tools mature to the point where custom professional work is no longer justified, revenue can decline.
 
 ## The IPO and Capital Position
 

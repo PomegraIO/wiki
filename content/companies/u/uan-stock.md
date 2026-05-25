@@ -13,11 +13,11 @@ handwritten: true
 
 ## What is CVR Partners?
 
-CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of CVR Energy Company, though CVR Energy is itself a subsidiary of Berkshire Hathaway as of 2023. UAN trades on the NASDAQ exchange.
+CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of CVR Energy Company, though CVR Energy is itself a subsidiary of Berkshire Hathaway as of 2023. UAN trades on the [NASDAQ](/nasdaq/) exchange.
 
 ## Where does its cash come from?
 
-CVR Partners' revenue is straightforward: it manufactures ammonia and UAN (urea ammonium nitrate solution) and sells them to wholesale customers, primarily agricultural distributors, fertilizer dealers, and large-scale farming operations. The partnership operates a 1,035-ton-per-day ammonia plant that converts natural gas and atmospheric nitrogen into ammonia. That ammonia is then either sold directly or further processed into urea and UAN solution. UAN is the most common liquid nitrogen fertilizer sold in North America, and the partnership's terminal capacity gives it a meaningful position in the market.
+CVR Partners' revenue is straightforward: it manufactures ammonia and UAN (urea ammonium nitrate solution) and sells them to wholesale customers, primarily agricultural distributors, fertilizer dealers, and large-scale farming operations. The partnership operates a 1,035-ton-per-day ammonia plant that converts [natural gas](/natural-gas/) and atmospheric nitrogen into ammonia. That ammonia is then either sold directly or further processed into urea and UAN solution. UAN is the most common liquid nitrogen fertilizer sold in North America, and the partnership's terminal capacity gives it a meaningful position in the market.
 
 The actual customers are not individual farmers but the supply chain: distributors who resell to retailers, co-ops, and agricultural retailers that serve the end farmer. Pricing is tied to commodity agricultural chemical indices and global ammonia markets, so CVR Partners benefits when crop prices are high (boosting demand for fertilizer) and when global ammonia and natural gas spot prices move in its favor.
 
@@ -49,13 +49,13 @@ Competitors include major producers like CF Industries and Dyno Nobel, regional 
 
 **Environmental and regulatory risk** is low but not zero. Ammonia plants are regulated under the Clean Air Act and state regulations. Operations are subject to Occupational Safety and Health Administration (OSHA) rules and state environmental permits. A major regulatory tightening or permit denial could disrupt operations or force costly compliance investments.
 
-**Interest rate and refinancing risk** applies to the debt CVR Partners carries. As an MLP with limited retained earnings, it relies on capital markets for funding and refinancing maturities. A sharp rise in borrowing costs or a credit tightening could force deleveraging or cut distribution capacity.
+**[Interest rate](/interest-rate/) and [refinancing risk](/refinancing-risk/)** applies to the debt CVR Partners carries. As an MLP with limited [retained earnings](/retained-earnings/), it relies on capital markets for funding and refinancing maturities. A sharp rise in borrowing costs or a credit tightening could force deleveraging or cut distribution capacity.
 
 ## How to research it
 
 Start with the [10-K](/wiki/10-k/), filed annually by CVR Partners with the SEC. The 10-K details operations, capacity, cost structure, commodity price exposure, and hedging (if any). Pay close attention to the "Risk Factors" section and any discussion of natural gas sourcing and pricing. The quarterly 10-Q will update you on recent performance and any significant operational changes.
 
-Key metrics to track: ammonia production volumes and capacity utilization rates, realized prices (in dollars per ton for ammonia and per gallon for UAN), gross margins, natural gas spot prices (Henry Hub and firm contract rates CVR pays), and cash distributions. The partnership's investor relations page publishes a quarterly financial presentation that breaks down sales by product and customer mix.
+Key metrics to track: ammonia production volumes and [capacity utilization rates](/capacity-utilization-rate/), realized prices (in dollars per ton for ammonia and per gallon for UAN), gross margins, natural gas spot prices ([Henry Hub](/henry-hub/) and firm contract rates CVR pays), and cash distributions. The partnership's investor relations page publishes a quarterly financial presentation that breaks down sales by product and customer mix.
 
 Understand the agricultural cycle and crop prices: fertilizer demand is more robust when corn and soybean prices are high and farmers are planting more acres or increasing application rates. Monitor U.S. natural gas futures and international ammonia prices to gauge margin pressure.
 

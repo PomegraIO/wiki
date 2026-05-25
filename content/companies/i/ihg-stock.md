@@ -35,13 +35,13 @@ The story begins in the 1950s with the Holiday Inn concept—a revolutionary ide
 
 InterContinental Hotels, by contrast, represented the luxury end—grand properties in major cities and resort destinations, catering to business travelers and affluent vacationers. The two companies existed separately for much of the 20th century, each dominant in its tier.
 
-The consolidation began in the 1980s when InterContinental Hotels acquired the Holiday Inn system, uniting a luxury brand with a mass-market powerhouse. This was the beginning of IHG's portfolio strategy: managing multiple distinct brands, each targeting different customer segments and price points, under one corporate umbrella. Over subsequent decades, IHG expanded through acquisition and development—adding Crown Plaza for the upper-midscale segment, then Kimpton for the boutique-luxury niche.
+The consolidation began in the 1980s when InterContinental Hotels acquired the Holiday Inn system, uniting a luxury brand with a mass-market powerhouse. This was the beginning of IHG's portfolio strategy: managing multiple distinct brands, each targeting different customer segments and price points, under one corporate umbrella. Over subsequent decades, IHG expanded through [acquisition](/acquisition/) and development—adding Crown Plaza for the upper-midscale segment, then Kimpton for the boutique-luxury niche.
 
 ## Building a Franchise Empire
 
 The critical evolution came with IHG's transition toward asset-light operations. Rather than owning and operating the vast majority of its hotels, IHG shifted to a franchise and management agreement model. Franchisees—typically experienced hotel operators or real estate companies—own or lease the property and pay IHG an ongoing percentage of revenue, usually between 5 and 10 percent, in exchange for the brand, operational standards, central reservations system, and loyalty program.
 
-This model carries profound implications. It requires far less capital on IHG's balance sheet, reduces exposure to real estate cycles, and creates a more stable, recurring revenue stream. A franchisee bears the risk of property depreciation, maintenance capital expenditures, and local market downturns. IHG benefits from scale and consistency of revenue without being landlocked to underperforming properties.
+This model carries profound implications. It requires far less capital on IHG's [balance sheet](/balance-sheet/), reduces exposure to real estate cycles, and creates a more stable, recurring revenue stream. A franchisee bears the risk of property [depreciation](/depreciation/), maintenance capital expenditures, and local market downturns. IHG benefits from scale and consistency of revenue without being landlocked to underperforming properties.
 
 The approach accelerated in the 2010s and 2020s as IHG aggressively pursued this model, reducing its owned estate and licensing an ever-larger percentage of its base to franchisees. By the mid-2020s, well over 90 percent of IHG's hotel portfolio operated under franchise or management agreements, making it one of the purest asset-light operators in global hospitality.
 
@@ -53,7 +53,7 @@ IHG's six brands serve distinct positions in the market:
 
 **Holiday Inn** still anchors the midscale segment globally, appealing to value-conscious families and business travelers, ubiquitous in highway and suburban locations.
 
-**Crown Plaza** occupies the upper-midscale tier, positioned between Holiday Inn and InterContinental, targeting business travelers and upscale leisure guests in secondary and tertiary markets.
+**Crown Plaza** occupies the upper-midscale tier, positioned between Holiday Inn and InterContinental, targeting business travelers and upscale leisure guests in secondary and [tertiary markets](/tertiary-market/).
 
 **Holiday Inn Express**, a limited-service variant of Holiday Inn, serves the economy segment with clean, no-frills rooms at lower price points.
 
@@ -65,7 +65,7 @@ This segmentation is deliberate. Different guest needs map to different brands. 
 
 ## How Revenue Flows
 
-IHG generates income from several streams. Franchise fees are the largest—a percentage of gross room revenue paid by franchisees for the right to use the brand, its standards, and its central booking engine. Loyalty programs, under the IHG One Rewards banner, produce substantial revenue: fees from partner merchants, premium membership tiers, and ancillary services. Management fees on properties IHG operates directly (fewer in number but still present) contribute as well. Real estate sales—disposition of owned properties—provide occasional windfalls.
+IHG generates income from several streams. Franchise fees are the largest—a percentage of gross room revenue paid by franchisees for the right to use the brand, its standards, and its central booking engine. Loyalty programs, under the IHG One Rewards banner, produce substantial revenue: fees from partner merchants, premium membership tiers, and ancillary services. [Management fees](/management-fee/) on properties IHG operates directly (fewer in number but still present) contribute as well. Real estate sales—disposition of owned properties—provide occasional windfalls.
 
 The franchise model creates a high-margin, recurring revenue base with lower capital requirements than traditional hotel operation. Earnings scale faster than property growth because opening a new franchised hotel requires minimal incremental capital from IHG, while the franchisee absorbs construction and acquisition costs.
 
@@ -79,7 +79,7 @@ Operational execution matters intensely. Franchisees must maintain standards; po
 
 ## Structural Headwinds and Risks
 
-IHG faces exposure to travel cycles. Recessions reduce business and leisure travel, lowering occupancy rates and average daily rates. Franchisees suffer first; if enough default on franchise fees or exit agreements, IHG's revenue contracts sharply. The 2020 pandemic provided a stark reminder: lockdowns halted travel, and many properties closed temporarily or permanently.
+IHG faces exposure to travel cycles. [Recessions](/recession/) reduce business and leisure travel, lowering occupancy rates and average daily rates. Franchisees suffer first; if enough default on franchise fees or exit agreements, IHG's revenue contracts sharply. The 2020 pandemic provided a stark reminder: lockdowns halted travel, and many properties closed temporarily or permanently.
 
 New supply presents a constant risk. If franchisees over-build in a market—adding rooms faster than demand grows—occupancy and rates decline, pressuring franchise fees. IHG can enforce supply controls contractually but cannot prevent every excess.
 
@@ -97,6 +97,6 @@ Key performance indicators to watch include same-property revenue per available 
 
 IHG's leverage and liquidity matter because debt service must be covered by franchise fee cash flow. A near-zero owned real estate base means property sales cannot be relied upon for capital. Competitive positioning—market share by brand tier, franchisee satisfaction, loyalty program growth—shapes long-term resilience.
 
-The company trades on both the London Stock Exchange and NASDAQ, reflecting its global investor base and transatlantic operations. SEC filings, earnings transcripts, and equity research reports provide the foundation for understanding its financial trajectory and market position.
+The company trades on both the [London Stock Exchange](/london-stock-exchange/) and [NASDAQ](/nasdaq/), reflecting its global investor base and transatlantic operations. SEC filings, earnings transcripts, and equity research reports provide the foundation for understanding its financial trajectory and market position.
 
 InterContinental Hotels Group exemplifies a business model that proved transformative: building global brands, licensing them at scale, and capturing recurring revenue from franchisees rather than betting heavily on property ownership. The execution is capital-efficient and resilient to cycles, though not immune to them. Understanding that model—and how it differs from traditional real estate-heavy hotel operators—is essential to assessing the company's competitive standing and financial stability.

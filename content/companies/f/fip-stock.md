@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-FTAI Infrastructure Inc. (ticker FIP) is an owner-operator of physical transportation and energy infrastructure assets. The company was spun off from [Fortress Transportation & Infrastructure](/wiki/fortress-transportation-infrastructure/) in late 2023 and trades on the New York Stock Exchange. It owns and operates railroads, port and terminal facilities, and power generation assets across North America and beyond—a relatively stable, fee-generating portfolio suited for long-term institutional investors seeking durable infrastructure exposure with income.
+FTAI Infrastructure Inc. (ticker FIP) is an owner-operator of physical transportation and energy infrastructure assets. The company was spun off from [Fortress Transportation & Infrastructure](/wiki/fortress-transportation-infrastructure/) in late 2023 and trades on the [New York Stock Exchange](/new-york-stock-exchange/). It owns and operates railroads, port and terminal facilities, and power generation assets across North America and beyond—a relatively stable, fee-generating portfolio suited for long-term institutional investors seeking durable infrastructure exposure with income.
 
 ## The Fortress Origin and Business Split
 
 Fortress Transportation & Infrastructure Investors had assembled a sprawling collection of aviation-focused and infrastructure assets. As that conglomerate became unwieldy, the decision to separate the pure transportation infrastructure business—FIP—from aviation-leasing and other holdings was a natural corporate action. FIP emerged as a leaner, more focused operator with a clear thesis: own and manage pieces of the transportation backbone that move goods and people daily, benefiting from essential, recurring demand.
 
-The spin-off preserved Fortress's operational expertise while allowing FIP to pursue its own capital strategy and investor base without the drag of incompatible business units.
+The [spin-off](/spin-off/) preserved Fortress's operational expertise while allowing FIP to pursue its own capital strategy and investor base without the drag of incompatible business units.
 
 ## What It Owns: The Operating Portfolio
 
@@ -39,7 +39,7 @@ FIP generates revenue primarily from:
 - **Power sales** (either merchant electricity sales into the grid or contract rates from large customers)
 - **Management and other services** (maintenance contracts, yard services)
 
-Capital expenditure requirements vary by asset. A railroad needs regular track maintenance and rolling stock investment; a terminal must refresh equipment; a power plant faces fuel costs and eventual replacement capex. The company's challenge is to generate enough free cash flow to service debt (which is typically modest for asset-rich infrastructure firms) and distribute to shareholders via dividends, while keeping capex within sustainable bounds.
+Capital expenditure requirements vary by asset. A railroad needs regular track maintenance and rolling stock investment; a terminal must refresh equipment; a power plant faces fuel costs and eventual replacement capex. The company's challenge is to generate enough [free cash flow](/free-cash-flow/) to service debt (which is typically modest for asset-rich infrastructure firms) and distribute to shareholders via [dividends](/dividend/), while keeping capex within sustainable bounds.
 
 ## Competitive Position and Moat
 
@@ -49,15 +49,15 @@ The company faces steady competition from other operators, but pricing is often 
 
 ## Risks and Pressures
 
-**Economic Sensitivity.** Railroads and ports move stuff; recessions dry up cargo. FIP's business is not recession-proof, though it is typically slower to react than consumer-facing businesses. A sustained downturn in logistics volumes directly hits revenue.
+**Economic Sensitivity.** Railroads and ports move stuff; [recessions](/recession/) dry up cargo. FIP's business is not recession-proof, though it is typically slower to react than consumer-facing businesses. A sustained downturn in logistics volumes directly hits revenue.
 
 **Regulation.** Rail rates and terms are governed by the Surface Transportation Board; ports face environmental and labor regulations. Unfavorable regulatory shifts—tougher environmental rules, mandatory wage increases, stricter rate caps—squeeze margins. The political environment for infrastructure has been mixed; sympathy exists, but so does skepticism about rate practices.
 
-**Commodity and Fuel Costs.** Power generation is especially exposed. If natural gas or coal prices spike, margins compress unless long-term contracts have hedges built in. Oil prices affect shipping dynamics, which indirectly affect port volume.
+**Commodity and Fuel Costs.** Power generation is especially exposed. If [natural gas](/natural-gas/) or coal prices spike, margins compress unless long-term contracts have hedges built in. Oil prices affect shipping dynamics, which indirectly affect port volume.
 
 **Competition and Substitution.** Trucking remains the primary competitor to rail for freight. Automation and electric vehicles may reshape demand for traditional fuel. A major shipping line might bypass a port entirely if it finds a cheaper alternative route.
 
-**Leverage.** Fortress-originated companies often carry meaningful debt to finance asset purchases. While infrastructure typically supports debt well, a downturn or refinancing crisis could pressure the balance sheet.
+**Leverage.** Fortress-originated companies often carry meaningful debt to finance asset purchases. While infrastructure typically supports debt well, a downturn or refinancing crisis could pressure the [balance sheet](/balance-sheet/).
 
 **Technology Disruption.** Autonomous trucking, electric rail, and shipping route optimization could reduce volume or demand higher capex to stay competitive.
 
@@ -68,11 +68,11 @@ A reader following FIP should track:
 - **Operating metrics**: Rail car loadings, terminal throughput, power generation volumes—these precede earnings.
 - **Contract renewals and pricing**: Are legacy contracts being renegotiated at higher rates, or is FIP losing business to cheaper operators?
 - **Capex discipline**: Infrastructure firms often face pressure to underfund maintenance; watch the maintenance backlog and capex guidance.
-- **Leverage ratio**: Debt-to-EBITDA trends; refinancing risk.
+- **[Leverage ratio](/leverage-ratio-forex/)**: Debt-to-EBITDA trends; [refinancing risk](/refinancing-risk/).
 - **Regulatory environment**: Rate case outcomes, environmental enforcement, labor disputes.
 - **Dividend policy**: Whether FIP maintains its payout and at what percentage of free cash flow.
 
-The [10-K](/wiki/10-k/) filing will detail segment revenue, operating expense, depreciation, and capex for each business; look there for margin trends and one-time charges.
+The [10-K](/wiki/10-k/) filing will detail segment revenue, operating expense, [depreciation](/depreciation/), and capex for each business; look there for margin trends and one-time charges.
 
 ## A Stable Play, Not a Growth Story
 

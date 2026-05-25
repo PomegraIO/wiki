@@ -62,7 +62,7 @@ Ducommun operates through [10-K](/wiki/10-k/) filings, which reveal the company'
 
 ## Acquisitions and Portfolio Building
 
-Under CEO Stephen G. Oswald (appointed 2015), the company executed strategic acquisitions to expand electronics capabilities and aftermarket services, recognizing that sustainment of long-lived aircraft drives recurring, higher-margin revenue. The company has added specialized electronics and harness manufacturers, broadening its footprint in the avionics and power systems space.
+Under CEO Stephen G. Oswald (appointed 2015), the company executed strategic [acquisitions](/acquisition/) to expand electronics capabilities and aftermarket services, recognizing that sustainment of long-lived aircraft drives recurring, higher-margin revenue. The company has added specialized electronics and harness manufacturers, broadening its footprint in the avionics and power systems space.
 
 ## Key Risks
 

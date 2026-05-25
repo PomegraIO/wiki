@@ -34,7 +34,7 @@ Distribution operated through direct-to-consumer channels, including the company
 
 ## Market Position and Pressures
 
-The spirits market, particularly in craft and premium tiers where IBG competed, is crowded and low-margin. Large multinational beverage companies control distribution, shelf space, and brand budgets at scales a mid-cap producer cannot match. IBG's strength lay in direct sales to consumers willing to seek out specialty products online, but this channel has finite growth and is vulnerable to economic slowdowns that curtail discretionary spending on premium spirits.
+The spirits market, particularly in craft and premium tiers where IBG competed, is crowded and low-margin. Large multinational beverage companies control distribution, shelf space, and brand budgets at scales a mid-cap producer cannot match. IBG's strength lay in direct sales to consumers willing to seek out specialty products online, but this channel has finite growth and is vulnerable to economic slowdowns that curtail [discretionary spending](/discretionary-spending/) on premium spirits.
 
 The company also maintained relationships with larger partners—notably, a tie-in with Coca-Cola for some product lines—yet remained fundamentally limited by its size. Achieving meaningful market share in mainstream retail channels would require either sustained investment in brand marketing or acquisition of distribution rights, both capital-intensive paths that strain smaller public companies.
 
@@ -52,7 +52,7 @@ Oil and gas operations are highly capital-intensive and cyclical, tied directly 
 
 ## Execution Risk and Structure
 
-The merger and transition introduced substantial execution risk. Managing a two-continent, two-industry company is operationally complex. The separation of beverage operations into a subsidiary under a new parent company focused on energy operations could create tax inefficiencies and management complexity. The warrant issuance (3.8 million shares at $0.0001 per share exercise price) represents massive future dilution if exercised, potentially shifting voting control away from current shareholders.
+The [merger](/merger/) and transition introduced substantial execution risk. Managing a two-continent, two-industry company is operationally complex. The separation of beverage operations into a subsidiary under a new parent company focused on energy operations could create tax inefficiencies and management complexity. The warrant issuance (3.8 million shares at $0.0001 per share [exercise price](/exercise-price/)) represents massive future dilution if exercised, potentially shifting voting control away from current shareholders.
 
 More fundamentally, the company's credibility with energy investors is unproven. An inexperienced management team or a company carrying the legacy brand identity of a spirits maker may face skepticism from institutional energy investors accustomed to operating companies with deep sector expertise and track records.
 
@@ -60,6 +60,6 @@ More fundamentally, the company's credibility with energy investors is unproven.
 
 Start with the company's [10-K](/wiki/10-k/) filings on the SEC (CIK 1924482), particularly post-merger filings that detail BlockFuel's asset base, production volumes, and reserves estimates. Energy companies' quality is heavily determined by the caliber of their reserves and the per-barrel finding costs; these metrics appear in annual reports and investor presentations.
 
-Watch quarterly earnings for cash flow generation and capital spending discipline. Unlike consumer companies, energy firms are typically valued on production volumes, reserve replacements, and return on capital deployed in drilling. Track Oklahoma oil and natural gas prices and production trends to contextualize BlockFuel's performance. Finally, monitor any announcements regarding additional acreage acquisitions or M&A—the company's growth depends on its ability to assemble and consolidate leasehold positions at reasonable cost.
+Watch quarterly earnings for cash flow generation and capital spending discipline. Unlike consumer companies, energy firms are typically valued on production volumes, reserve replacements, and return on capital deployed in drilling. Track Oklahoma oil and [natural gas](/natural-gas/) prices and production trends to contextualize BlockFuel's performance. Finally, monitor any announcements regarding additional acreage [acquisitions](/acquisition/) or M&A—the company's growth depends on its ability to assemble and consolidate leasehold positions at reasonable cost.
 
 The beverage business, though now subsidiary, remains potentially valuable and may be carved out or sold if focus narrows further to energy. Investors should keep sight of both the legacy operations and the new energy focus to understand the full entity.

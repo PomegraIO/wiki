@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Xerox is an American document technology and managed services company, traced back to the 1960 invention of the plain-paper photocopier—a breakthrough that created an entire industry and gave the company its initial foothold as the dominant player in the space. But the world has moved away from print, and Xerox has spent the past two decades in a fitful transformation, trying to pivot from a pure hardware play into a software and services company while managing the inevitable shrinkage of its core copier and printer business. The company's shares trade on the NASDAQ under the ticker XRX.
+Xerox is an American document technology and managed services company, traced back to the 1960 invention of the plain-paper photocopier—a breakthrough that created an entire industry and gave the company its initial foothold as the dominant player in the space. But the world has moved away from print, and Xerox has spent the past two decades in a fitful transformation, trying to pivot from a pure hardware play into a software and services company while managing the inevitable shrinkage of its core copier and printer business. The company's shares trade on the [NASDAQ](/nasdaq/) under the ticker XRX.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,9 +38,9 @@ The company tried to adapt, pivoting over the years toward multifunction devices
 
 Since the early 2000s, Xerox has repeatedly tried to reinvent itself, with mixed results. In 2010, the company split into two: Xerox Holdings retained the document technology and services business, while Conduent took on the back-office processing and managed services business (Conduent later became a separate public company). The move was meant to allow Xerox to focus on its core, but it also meant giving up higher-growth business segments that could have offset the decline in print.
 
-The company has cycled through strategic pivots. Under John Visentin (CEO from 2010–2013), Xerox leaned into managed services and software. Under Ursula Burns and later John Visentin again (after a brief interim period), the company expanded through acquisitions: buying Global Imaging Systems for around $750 million in 2010 to build out its services footprint, and then pursuing larger deals that would move further away from hardware.
+The company has cycled through strategic pivots. Under John Visentin (CEO from 2010–2013), Xerox leaned into managed services and software. Under Ursula Burns and later John Visentin again (after a brief interim period), the company expanded through [acquisitions](/acquisition/): buying Global Imaging Systems for around $750 million in 2010 to build out its services footprint, and then pursuing larger deals that would move further away from hardware.
 
-The competitive pressure became acute by the late 2010s, as the installed base of printers in offices reached saturation and began to decline. Xerox's revenues contracted, margins compressed, and the stock suffered. In 2021, the company completed a significant transformational acquisition: it bought Lexmark, a competitor in printers and managed services, in an all-cash and stock deal valued around $1.5 billion. Lexmark brought complementary print and document management capabilities, a separate installed base of customers, and an existing managed-services business, but it also added significant debt to Xerox's balance sheet and required integration spending.
+The competitive pressure became acute by the late 2010s, as the installed base of printers in offices reached saturation and began to decline. Xerox's revenues contracted, margins compressed, and the stock suffered. In 2021, the company completed a significant transformational acquisition: it bought Lexmark, a competitor in printers and managed services, in an all-cash and stock deal valued around $1.5 billion. Lexmark brought complementary print and document management capabilities, a separate installed base of customers, and an existing managed-services business, but it also added significant debt to Xerox's [balance sheet](/balance-sheet/) and required integration spending.
 
 The Lexmark deal reflected a broader strategic choice: rather than slowly shrink with the print industry, Xerox wanted to consolidate with a peer and build a larger managed-services operation that could compete on scale. Whether this strategy will successfully offset the structural decline in print demand remains an open question for investors.
 
@@ -54,7 +54,7 @@ The business faces headwinds that are structural rather than cyclical. The volum
 
 ## Xerox's strategic and financial pressures
 
-Xerox operates under several constraints that shape its investment profile. The debt load increased materially after the Lexmark deal, and the company must generate sufficient free cash flow to service that debt while still investing in product development and maintaining or growing its services business. The strategy assumes that managed services growth can outpace the decline in equipment and supplies—a bet that has not yet decisively paid off.
+Xerox operates under several constraints that shape its investment profile. The debt load increased materially after the Lexmark deal, and the company must generate sufficient [free cash flow](/free-cash-flow/) to service that debt while still investing in product development and maintaining or growing its services business. The strategy assumes that managed services growth can outpace the decline in equipment and supplies—a bet that has not yet decisively paid off.
 
 The competitive landscape includes not just legacy rivals like Canon and Ricoh but also technology companies like HP (which competes in multifunction devices and print management) and cloud-services firms that are capturing document workflows and storage. Xerox cannot simply raise prices to offset volume declines; it must win on service, quality, and customer relationships.
 

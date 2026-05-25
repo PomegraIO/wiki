@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-New Concept Energy, Inc. is a small, publicly traded company with real-estate and energy-related assets. Trading on the [OTC Markets](/wiki/otc-markets/) under the ticker GBR, the company operates with a modest asset base and limited market capitalization, typical of a dormant or semi-active shell structure in the micro-cap category.
+New Concept Energy, Inc. is a small, publicly traded company with real-estate and energy-related assets. Trading on the [OTC Markets](/wiki/otc-markets/) under the ticker GBR, the company operates with a modest asset base and limited [market capitalization](/market-capitalization/), typical of a dormant or semi-active shell structure in the micro-cap category.
 
 ## What are the company's main business interests?
 
@@ -21,7 +21,7 @@ As a [public company](/wiki/public-company/), New Concept Energy files regulator
 
 ## What defines the company's risk profile?
 
-Micro-cap and OTC-listed companies carry elevated risks. New Concept Energy faces limited liquidity—trading volume and bid-ask spreads on OTC markets can be wide, making entry and exit difficult. Dormant or minimally active companies risk permanent loss of shareholder capital if assets are consumed or valuations decline. The company's small size and narrow asset base mean it lacks the financial scale to weather extended downturns or execute strategic pivots. There is also limited analyst coverage and institutional interest, leaving retail investors to rely on SEC filings and their own due diligence.
+Micro-cap and OTC-listed companies carry elevated risks. New Concept Energy faces limited liquidity—trading volume and [bid-ask spreads](/bid-ask-spread/) on OTC markets can be wide, making entry and exit difficult. Dormant or minimally active companies risk permanent loss of shareholder capital if assets are consumed or valuations decline. The company's small size and narrow asset base mean it lacks the financial scale to weather extended downturns or execute strategic pivots. There is also limited analyst coverage and institutional interest, leaving retail investors to rely on SEC filings and their own due diligence.
 
 ## How does the company fund operations?
 
@@ -29,7 +29,7 @@ With minimal revenue from active operations, New Concept Energy likely depends o
 
 ## Why would an investor research this company?
 
-Most investors encounter New Concept Energy through SEC filings or micro-cap screening strategies. The stock might appeal to value-hunting retail investors seeking deeply discounted assets, liquidation plays, or speculative turnarounds. However, the company offers no dividends, no clear path to growth, and high execution and market risk. Serious research requires reading the [10-K](/wiki/10-k/), understanding management's strategic intent (if any), assessing property valuations, and recognizing that liquidity and exit may prove difficult. For most portfolios, New Concept Energy represents a speculative, non-core holding at best.
+Most investors encounter New Concept Energy through SEC filings or micro-cap screening strategies. The stock might appeal to value-hunting retail investors seeking deeply discounted assets, [liquidation](/liquidation/) plays, or speculative turnarounds. However, the company offers no [dividends](/dividend/), no clear path to growth, and high execution and [market risk](/market-risk/). Serious research requires reading the [10-K](/wiki/10-k/), understanding management's strategic intent (if any), assessing property valuations, and recognizing that liquidity and exit may prove difficult. For most portfolios, New Concept Energy represents a speculative, non-core holding at best.
 
 ---
 

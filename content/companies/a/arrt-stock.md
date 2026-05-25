@@ -22,7 +22,7 @@ ARRT sits in the crowded middle of [consumer staples](/wiki/consumer-staples-sec
 
 ## Business drivers
 
-Margins depend on raw material costs, manufacturing utilization, and sales mix. Retailer consolidation pressures private-label pricing. Supply chain reliability and logistic efficiency determine competitive viability. [Capital allocation](/wiki/capital-allocation-activism/) choices—reinvestment, dividends, debt management—shape medium-term returns.
+Margins depend on raw material costs, manufacturing utilization, and sales mix. Retailer consolidation pressures private-label pricing. Supply chain reliability and logistic efficiency determine competitive viability. [Capital allocation](/wiki/capital-allocation-activism/) choices—reinvestment, [dividends](/dividend/), debt management—shape medium-term returns.
 
 ### At a glance
 

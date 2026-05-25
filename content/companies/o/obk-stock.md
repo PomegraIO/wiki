@@ -20,13 +20,13 @@ The retail side of Origin's book consists of conventional mortgages, consumer in
 
 ## Revenue and Operating Model
 
-Net interest income accounts for roughly 85 percent of total revenue. The remainder comes from card fees, service charges on deposit accounts, gains on securities sales, and miscellaneous banking services. This profit model is straightforward and vulnerable: when the Federal Reserve keeps rates low, deposit costs fall but loan yields fall faster, compressing margins. Conversely, a steeply inverted yield curve can trap the bank between expensive deposits and yields that don't cover funding costs. Origin must manage this dynamic through deposit mix optimization, careful loan pricing, and interest rate hedging.
+Net interest income accounts for roughly 85 percent of total revenue. The remainder comes from card fees, service charges on deposit accounts, gains on securities sales, and miscellaneous banking services. This profit model is straightforward and vulnerable: when the [Federal Reserve](/federal-reserve/) keeps rates low, deposit costs fall but loan yields fall faster, compressing margins. Conversely, a steeply inverted [yield curve](/yield-curve/) can trap the bank between expensive deposits and yields that don't cover funding costs. Origin must manage this dynamic through deposit mix optimization, careful loan pricing, and [interest rate hedging](/interest-rate-hedging/).
 
-The bank's loan portfolio reflects its regional focus and customer base. Commercial real estate lending (office buildings, retail properties, hospitality) and agricultural lending are meaningful portions. Residential mortgages and consumer loans round out the mix. Credit quality is typically dependent on regional employment, agricultural commodity cycles, and real estate pricing—all of which have their own volatility independent of macro interest rates.
+The bank's loan portfolio reflects its regional focus and customer base. [Commercial real estate](/commercial-real-estate/) lending (office buildings, retail properties, hospitality) and agricultural lending are meaningful portions. Residential mortgages and consumer loans round out the mix. Credit quality is typically dependent on regional employment, agricultural commodity cycles, and real estate pricing—all of which have their own volatility independent of macro [interest rates](/interest-rate/).
 
 ## Deposit Dependence and Competitive Position
 
-Origin's greatest strength is its deposit base, which covers substantially more of its funding needs than wholesale markets or borrowing facilities. This is particularly valuable during liquidity stress, when deposits become precious. However, it also reveals a market reality: Origin operates in smaller markets where it faces increasing competition from national banks (Bank of America, Wells Fargo), credit unions, and fintech-enabled savings products that offer no local branch but higher yields. Keeping deposits sticky requires either genuine relationship advantage or competitive pricing—often both—creating margin pressure.
+Origin's greatest strength is its deposit base, which covers substantially more of its funding needs than wholesale markets or borrowing facilities. This is particularly valuable during liquidity stress, when deposits become precious. However, it also reveals a market reality: Origin operates in smaller markets where it faces increasing competition from national banks ([Bank of America](/bank-of-america/), [Wells Fargo](/wells-fargo/)), credit unions, and fintech-enabled savings products that offer no local branch but higher yields. Keeping deposits sticky requires either genuine relationship advantage or competitive pricing—often both—creating margin pressure.
 
 The bank does not have a household brand, the scale of money-center banks, or their technology budgets. Its competitive moat, such as it exists, rests on execution: loan officers who know their communities, decision-making that is fast by Big Bank standards but still disciplined, and deposit accounts that older or relationship-focused customers prefer to remote alternatives. This moat is real but erosive.
 
@@ -34,7 +34,7 @@ The bank does not have a household brand, the scale of money-center banks, or th
 
 Origin typically earns low-to-mid double-digit returns on equity (ROE) in favorable rate environments. Loan growth tends to track regional GDP and population growth—modest in Louisiana and Mississippi relative to national trends—unless the bank extends its reach geographically or takes more risk. Asset quality has generally been acceptable, though the bank is exposed to credit losses if regional economic conditions deteriorate.
 
-The path to growth is constrained. Organic growth is limited by market size. Acquisitions of other regional or community banks offer a route to scale but often require careful integration and can be dilutive to shareholders if paid at inflated multiples. The alternative—taking more credit risk or lengthening duration—moves the bank toward greater volatility without necessarily matching returns of peers.
+The path to growth is constrained. Organic growth is limited by market size. [Acquisitions](/acquisition/) of other regional or community banks offer a route to scale but often require careful integration and can be dilutive to shareholders if paid at inflated multiples. The alternative—taking more [credit risk](/credit-risk/) or lengthening duration—moves the bank toward greater volatility without necessarily matching returns of peers.
 
 ## Key Financial Dimensions
 
@@ -52,11 +52,11 @@ The path to growth is constrained. Organic growth is limited by market size. Acq
 
 **Interest Rate Sensitivity.** A prolonged low-rate environment compresses NIM and erodes profitability. A sharp, unexpected rate rise can trigger duration losses on securities and mortgage portfolio runoff. Origin has less treasury sophistication than money-center banks and may be slower to adapt.
 
-**Credit Losses.** A recession, agricultural downturn, or commercial real estate correction in Louisiana or Mississippi can trigger loan losses. The bank's concentration in these geographies is both its franchise advantage and its risk.
+**Credit Losses.** A [recession](/recession/), agricultural downturn, or commercial real estate correction in Louisiana or Mississippi can trigger loan losses. The bank's concentration in these geographies is both its franchise advantage and its risk.
 
 **Deposit Competition.** Larger banks, credit unions, and yield-chasing savers moving to money-market funds or high-yield savings accounts can erode Origin's deposit base and raise funding costs.
 
-**Regulatory Capital and Compliance.** As a publicly traded bank, Origin faces ongoing stress testing, capital planning, and regulatory scrutiny. Regulatory changes (Dodd-Frank amendments, capital rules) can impose operational costs and limit flexibility.
+**Regulatory Capital and Compliance.** As a publicly traded bank, Origin faces ongoing [stress testing](/stress-testing/), capital planning, and regulatory scrutiny. Regulatory changes (Dodd-Frank amendments, capital rules) can impose operational costs and limit flexibility.
 
 **Technology and Digital Banking.** Origin invests in online and mobile banking, but its branch-centric model is inherently more costly than digital-first competitors. Falling behind in digital adoption could accelerate customer migration to larger or more tech-savvy banks.
 
@@ -70,6 +70,6 @@ Compare deposit growth to peers and note pricing pressure—widening rate spread
 
 Analyze the efficiency ratio (operating expenses divided by revenue). For a bank of Origin's size and market, 55–65% is reasonable; sustained ratios above 65% suggest operational drag. Watch for comments on technology spending and branch rationalization plans—these often precede margin improvement or customer friction.
 
-Finally, stress-test the balance sheet yourself: assume a 300-basis-point decline in rates and mark down the securities portfolio and mortgage prepayment assumptions. This reveals duration risk. Then assume a 10–15% rise in nonaccrual loans in the commercial real estate and agricultural books—a realistic scenario in a sharp recession—and estimate the impact on capital and profitability.
+Finally, stress-test the [balance sheet](/balance-sheet/) yourself: assume a 300-basis-point decline in rates and mark down the securities portfolio and mortgage prepayment assumptions. This reveals duration risk. Then assume a 10–15% rise in nonaccrual loans in the commercial real estate and agricultural books—a realistic scenario in a sharp recession—and estimate the impact on capital and profitability.
 
 Origin is a business simple enough to understand and risky enough to warrant careful scrutiny. Its future depends on maintaining deposits, managing credit quality through cycles, and resisting the urge to chase growth through riskier lending or acquisitions at expensive multiples.

@@ -10,21 +10,21 @@ keywords:
 handwritten: true
 ---
 
-CBIZ, Inc. is a professional services company serving businesses, organizations, and high-net-worth individuals across the United States. Unlike the larger, globally integrated "Big Four" accounting firms, CBIZ operates as a regional and mid-market specialist, providing accounting, tax, advisory, and insurance services to companies typically ranging from small operations to those generating hundreds of millions in revenue. The firm carries the ticker CBZ and trades on the New York Stock Exchange.
+CBIZ, Inc. is a professional services company serving businesses, organizations, and high-net-worth individuals across the United States. Unlike the larger, globally integrated "Big Four" accounting firms, CBIZ operates as a regional and mid-market specialist, providing accounting, tax, advisory, and insurance services to companies typically ranging from small operations to those generating hundreds of millions in revenue. The firm carries the ticker CBZ and trades on the [New York Stock Exchange](/new-york-stock-exchange/).
 
 ## The Business Core
 
 CBIZ breaks its operations into several revenue-generating segments. The largest is **accounting and tax services**, which includes audit, accounting compliance, and tax preparation for corporate and individual clients. This segment anchors the business: it generates recurring revenue through ongoing client relationships and creates natural cross-selling opportunities into advisory and other specialized services.
 
-The **advisory segment** covers consulting work—operational assessments, financial planning, merger integration, and valuation services. This segment is typically higher-margin but less predictable than recurring tax work, making it valuable for both revenue growth and client stickiness.
+The **advisory segment** covers consulting work—operational assessments, financial planning, [merger](/merger/) integration, and valuation services. This segment is typically higher-margin but less predictable than recurring tax work, making it valuable for both revenue growth and client stickiness.
 
-The **insurance services division** operates as a broker for property and casualty, employee benefits, and life insurance solutions. Rather than underwriting risk itself, CBIZ places client policies with carriers and earns commissions. This segment has grown through acquisitions and provides relatively high-margin revenue with reasonable recurring characteristics.
+The **insurance services division** operates as a [broker](/broker/) for property and casualty, employee benefits, and life insurance solutions. Rather than underwriting risk itself, CBIZ places client policies with carriers and earns commissions. This segment has grown through [acquisitions](/acquisition/) and provides relatively high-margin revenue with reasonable recurring characteristics.
 
 The **benefits consulting** practice advises clients on employee benefit design, administration, and compliance—areas where regulatory complexity creates ongoing demand and switching costs.
 
 ## History and Position
 
-CBIZ emerged from the 1998 merger of Kansas City-based CBIZ, LLP with Occupational Health Services, Inc., creating the name and structure that exists today. Over subsequent decades, the firm expanded through a combination of organic growth and strategic acquisitions, building out geographic coverage and service depth. The company went public on the New York Stock Exchange in 2001. Unlike accounting giants that pursued global reach and prestige-brand positioning, CBIZ carved a different niche: deep relationships and specialized expertise in mid-market geographies.
+CBIZ emerged from the 1998 merger of Kansas City-based CBIZ, LLP with Occupational Health Services, Inc., creating the name and structure that exists today. Over subsequent decades, the firm expanded through a combination of organic growth and strategic acquisitions, building out geographic coverage and service depth. The company went public on the New York [Stock Exchange](/stock-exchange/) in 2001. Unlike accounting giants that pursued global reach and prestige-brand positioning, CBIZ carved a different niche: deep relationships and specialized expertise in mid-market geographies.
 
 This positioning matters. The accounting services market is bifurcated. At the top, Big Four firms (Deloitte, EY, KPMG, PwC) serve large enterprises and complex multinational audit requirements. At the bottom, local practices and sole practitioners serve small businesses. CBIZ occupies a defensible middle: sophisticated enough to handle complex tax situations and acquisitions, local enough to nurture long-term client relationships and respond quickly. This space is populated by other regional firms—Grant Thornton, BDO, CliftonLarsonAllen, CohnReznick—but it remains fragmented and regional, giving established players advantages.
 

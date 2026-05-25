@@ -15,11 +15,11 @@ handwritten: true
 
 ## The Infrastructure Play
 
-Axe Compute's core growth engine is compute services. In April 2026, the company inked a three-year enterprise contract valued at approximately $260 million to deliver a dedicated cluster of 2,304 NVIDIA B300 graphics processors. This arrangement locks in predictable revenue and establishes Axe as a mid-tier player in the booming AI infrastructure space—positioned above boutique consultancies but below hyperscaler behemoths like AWS and Google Cloud. The company manages the deployment, configuration, and ongoing support of these GPUs, absorbing both the capital cost and operational risk of maintaining specialized hardware for clients who need guaranteed capacity without owning the equipment outright.
+Axe Compute's core growth engine is compute services. In April 2026, the company inked a three-year enterprise contract valued at approximately $260 million to deliver a dedicated cluster of 2,304 NVIDIA B300 graphics processors. This arrangement locks in predictable revenue and establishes Axe as a mid-tier player in the booming AI infrastructure space—positioned above boutique consultancies but below hyperscaler behemoths like AWS and Google Cloud. The company manages the deployment, configuration, and ongoing support of these GPUs, absorbing both the capital cost and [operational risk](/operational-risk/) of maintaining specialized hardware for clients who need guaranteed capacity without owning the equipment outright.
 
 ## Drug Discovery in the Background
 
-The legacy business, Drug Discovery Services, still contributes to the balance sheet but has faded to secondary importance. Originally built on AI-driven predictive oncology—matching patient tumors to therapeutic candidates—this segment remains operational though revenue-light. The 2026 pivot suggests management recognized that pure software-as-a-service drug discovery cannot compete with in-house development at major pharmas; instead, licensing compute power to enterprises running their own AI models proved a more defensible business model with faster cash conversion.
+The legacy business, Drug Discovery Services, still contributes to the [balance sheet](/balance-sheet/) but has faded to secondary importance. Originally built on AI-driven predictive oncology—matching patient tumors to therapeutic candidates—this segment remains operational though revenue-light. The 2026 pivot suggests management recognized that pure software-as-a-service drug discovery cannot compete with in-house development at major pharmas; instead, licensing compute power to enterprises running their own AI models proved a more defensible business model with faster cash conversion.
 
 ## At a Glance
 
@@ -27,5 +27,5 @@ The legacy business, Drug Discovery Services, still contributes to the balance s
 - **Rebranding:** Formerly Predictive Oncology; renamed December 2025
 - **Primary Revenue:** Enterprise GPU infrastructure contracts
 - **Largest Contract:** 36-month deal, ~$260M, 2,304 NVIDIA B300 GPUs
-- **Market Cap:** Approximately $27.5M (as of recent data)
+- **[Market Cap](/market-capitalization/):** Approximately $27.5M (as of recent data)
 - **Business Model:** Dedicated compute leasing + legacy drug discovery services

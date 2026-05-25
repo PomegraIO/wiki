@@ -12,7 +12,7 @@ handwritten: true
 
 ## What problem does reAlpha solve?
 
-The traditional home-buying process fragments across dozens of service providers—each taking fees. A buyer juggling agents, brokers, title companies, and escrow services pays fragmented commissions and endures clunky handoffs between systems. reAlpha consolidates these roles into a single AI-powered platform, eliminating redundant intermediaries and cutting costs while improving the user experience. The company positions its technology as a full-stack alternative to the commission structure that has defined residential real estate for decades.
+The traditional home-buying process fragments across dozens of service providers—each taking fees. A buyer juggling agents, [brokers](/broker/), title companies, and escrow services pays fragmented commissions and endures clunky handoffs between systems. reAlpha consolidates these roles into a single AI-powered platform, eliminating redundant intermediaries and cutting costs while improving the user experience. The company positions its technology as a full-stack alternative to the commission structure that has defined [residential real estate](/residential-real-estate/) for decades.
 
 ## Who actually uses it?
 
@@ -24,7 +24,7 @@ reAlpha operates at the intersection of proptech and fintech, applying machine l
 
 ## How should investors research it?
 
-[10-K](/wiki/10-k/) filings detail revenue segments (Homebuying Services and Technology Services), customer acquisition, and the unit economics of commission-free models. Monitor adoption metrics: active users, transaction volume, and average fees per transaction. Watch competitive dynamics as established brokerages and fintech entrants add AI-to-service capabilities. The company's reverse stock splits and capital raises often signal dilution and cash runway concerns; these structural changes deserve close reading.
+[10-K](/wiki/10-k/) filings detail revenue segments (Homebuying Services and Technology Services), customer [acquisition](/acquisition/), and the unit economics of commission-free models. Monitor adoption metrics: active users, transaction volume, and average fees per transaction. Watch competitive dynamics as established brokerages and fintech entrants add AI-to-service capabilities. The company's [reverse stock splits](/reverse-stock-split/) and capital raises often signal dilution and cash runway concerns; these structural changes deserve close reading.
 
 ## What stands out?
 

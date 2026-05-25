@@ -20,8 +20,8 @@ The core market consists of cryptocurrency miners seeking dedicated hardware for
 
 ## What was significant about the 2025 corporate restructuring?
 
-In May 2025, AGM Group's board approved a 50-for-1 share consolidation of its Class A ordinary shares—a major restructuring move that dramatically reduced the outstanding share count. Later that March, the company closed a $5.4 million offering of Class A ordinary shares with accompanying warrants, raising fresh capital. These actions signaled efforts to shore up the balance sheet and adjust the capital structure in response to market conditions.
+In May 2025, AGM Group's board approved a 50-for-1 [share consolidation](/share-consolidation/) of its Class A ordinary shares—a major restructuring move that dramatically reduced the outstanding share count. Later that March, the company closed a $5.4 million offering of Class A ordinary shares with accompanying warrants, raising fresh capital. These actions signaled efforts to shore up the [balance sheet](/balance-sheet/) and adjust the capital structure in response to market conditions.
 
 ## How stable is the stock and the company?
 
-AGM Group trades on a smaller NASDAQ venue (Capital Market tier), which typically indicates lower market capitalization and trading liquidity compared to large-cap [public companies](/wiki/public-company/). The company files regular Form 6-K reports with the SEC, the standard filing for foreign private issuers. Its reliance on crypto mining hardware demand means the business is cyclically sensitive to both hardware commoditization and the broader cryptocurrency market outlook.
+AGM Group trades on a smaller [NASDAQ](/nasdaq/) venue (Capital Market tier), which typically indicates lower [market capitalization](/market-capitalization/) and trading liquidity compared to large-cap [public companies](/wiki/public-company/). The company files regular Form 6-K reports with the SEC, the standard filing for foreign private issuers. Its reliance on crypto mining hardware demand means the business is cyclically sensitive to both hardware commoditization and the broader cryptocurrency market outlook.

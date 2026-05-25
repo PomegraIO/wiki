@@ -41,7 +41,7 @@ In 2025, the company launched "Yi Qi Ai Xue" (and another product branded "Yiqi 
 
 The company's earnings trajectory is volatile because it is in genuine transition. Q4 2025 showed improvement—gross margins stabilized in the mid-40s, net losses narrowed significantly, and customer retention exceeded 90%. But cumulative 2025 losses reached 154 million in absolute terms against only 106 million in total revenue, reflecting both the company's small scale and the cost of investing in new products during a strategic reorientation.
 
-The company's market capitalization has declined sharply; by mid-2026, it stood in the low tens of millions of dollars. Analyst sentiment is cautious, with consensus ratings leaning toward "sell." The stock trades well below its 2020 IPO peak, a pattern common to the entire Chinese EdTech sector following the 2021 policy shock.
+The company's [market capitalization](/market-capitalization/) has declined sharply; by mid-2026, it stood in the low tens of millions of dollars. Analyst sentiment is cautious, with consensus ratings leaning toward "sell." The stock trades well below its 2020 IPO peak, a pattern common to the entire Chinese EdTech sector following the 2021 policy shock.
 
 ## Competitive Context and Risks
 

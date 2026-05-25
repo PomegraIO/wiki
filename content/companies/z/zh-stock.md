@@ -14,7 +14,7 @@ handwritten: true
 
 Zhihu is a Chinese online platform built around questions and answers, often described as the Chinese equivalent of platforms like Quora. The name means "knowing" in classical Chinese. Founded in 2010 by Zhanghua Zhou, Liufeng Hu, and Yiming Chen, Zhihu evolved from a small community project into a major cultural and informational hub in China's internet ecosystem. The platform centers on user-generated content where people pose questions about everything from career advice to academic subjects, technology, current events, and personal matters, with other users providing answers and insights. Over time, Zhihu expanded beyond simple Q&A to include longer-form articles, livestreamed discussions, and communities around specific interests and professions.
 
-The company went public on the New York Stock Exchange in March 2021 under ticker ZH, with a [SEC CIK](/wiki/10-k/) of 1835724. It operates primarily through its mobile apps and website, generating the bulk of its user engagement and revenue from a subscriber base concentrated in China's urban, educated demographics.
+The company went public on the [New York Stock Exchange](/new-york-stock-exchange/) in March 2021 under ticker ZH, with a [SEC CIK](/wiki/10-k/) of 1835724. It operates primarily through its mobile apps and website, generating the bulk of its user engagement and revenue from a subscriber base concentrated in China's urban, educated demographics.
 
 ## How does Zhihu make money?
 

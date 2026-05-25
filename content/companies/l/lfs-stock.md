@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-LEIFRAS Co., Ltd. is a Japan-based company that operates across the intersection of sports instruction, physical education, and childcare-related services. Listed on the Tokyo Stock Exchange with ticker LFS and SEC reporting status through CIK 2030277, the company has built its business around providing professional instruction and operational support in markets where demand for specialized youth development services continues to grow.
+LEIFRAS Co., Ltd. is a Japan-based company that operates across the intersection of sports instruction, physical education, and childcare-related services. Listed on the [Tokyo Stock Exchange](/tokyo-stock-exchange/) with ticker LFS and SEC reporting status through CIK 2030277, the company has built its business around providing professional instruction and operational support in markets where demand for specialized youth development services continues to grow.
 
 The company's core work involves delivering sports coaching and physical education programming to schools, private institutions, and other organizations throughout Japan. Beyond direct instruction, LEIFRAS structures its offerings to include curriculum development, instructor training, and facility management services. This positions the company as both a service provider and, in some contexts, a systems operator—handling not just the delivery of classes but the backend infrastructure that schools and institutions need to run such programs effectively.
 

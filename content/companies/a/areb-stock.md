@@ -28,4 +28,4 @@ Like most independent apparel makers, American Rebel contends with inventory man
 - Seasonal retail dynamics apply
 - Success depends on inventory turn and brand stickiness
 
-The patriotic apparel niche has shown customer resilience during favorable political and cultural cycles, but remains susceptible to swings in consumer sentiment and retailer shelf space allocation. The company's smaller size and niche focus mean it lacks the diversification buffer of large conglomerates but allows focused brand building within its target market.
+The patriotic apparel niche has shown customer resilience during favorable political and cultural cycles, but remains susceptible to swings in consumer sentiment and retailer shelf space allocation. The company's smaller size and niche focus mean it lacks the [diversification](/diversification/) buffer of large conglomerates but allows focused brand building within its target market.

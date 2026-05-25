@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kingsoft Cloud Holdings Ltd is China's largest independent cloud infrastructure provider, offering computing, storage, networking, and enterprise solutions to a diverse base of customers ranging from gaming and entertainment companies to financial institutions and artificial intelligence developers. Unlike the hyperscale giants that dominate global cloud computing, Kingsoft Cloud competes by understanding the specific regulatory, latency, and performance needs of Chinese enterprises and by operating data centers across multiple Chinese regions and selected international locations. The company trades as KC on The NASDAQ Global Select Market and also on the Hong Kong Stock Exchange (code 3896), and its shares are traded as American Depositary Shares, each representing fifteen ordinary shares.
+Kingsoft Cloud Holdings Ltd is China's largest independent cloud infrastructure provider, offering computing, storage, networking, and enterprise solutions to a diverse base of customers ranging from gaming and entertainment companies to financial institutions and artificial intelligence developers. Unlike the hyperscale giants that dominate global cloud computing, Kingsoft Cloud competes by understanding the specific regulatory, latency, and performance needs of Chinese enterprises and by operating data centers across multiple Chinese regions and selected international locations. The company trades as KC on The [NASDAQ](/nasdaq/) Global Select Market and also on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) (code 3896), and its shares are traded as American Depositary Shares, each representing fifteen ordinary shares.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ Public cloud services, which represent roughly 60 percent of revenue, consist of
 
 The company's most significant recent strategic pivot has been the expansion of AI-specific offerings. By Q2 2024, AI computing workloads represented approximately 26 percent of public cloud revenue — a figure that has grown substantially quarter over quarter as more enterprises invest in large language models, model training, and inference. These high-performance workloads demand GPUs, custom networking, and low-latency interconnects, making them more complex to deliver but also higher-margin than commodity compute.
 
-Kingsoft Cloud does not pay dividends; instead, it reinvests substantially all earnings into infrastructure expansion, R&D, and competitive positioning within China's fast-moving cloud market.
+Kingsoft Cloud does not pay [dividends](/dividend/); instead, it reinvests substantially all earnings into infrastructure expansion, R&D, and competitive positioning within China's fast-moving cloud market.
 
 ## The competitive landscape and Kingsoft's position
 
@@ -53,7 +53,7 @@ The risk is scale. Alibaba and Tencent can subsidize cloud pricing with margins 
 
 For its first years as a public company, Kingsoft Cloud prioritized growth and market share over profitability, investing heavily in data centers and engineering. In Q4 2024, the company achieved a significant milestone: its first-ever non-GAAP operating profit. This marks a turning point in the company's financial narrative, demonstrating that the aggressive infrastructure buildout of prior years is beginning to translate into operating leverage.
 
-Gross margins have steadily improved — driven by the shift toward higher-margin AI and enterprise workloads and by the maturation of existing data centers. The company's balance sheet is healthy, with reasonable leverage and minimal liquidity concerns. The path forward hinges on whether Kingsoft can maintain growth while expanding operating profit — a balancing act that requires both protecting market share against Alibaba and Tencent while disciplining capital allocation.
+Gross margins have steadily improved — driven by the shift toward higher-margin AI and enterprise workloads and by the maturation of existing data centers. The company's [balance sheet](/balance-sheet/) is healthy, with reasonable leverage and minimal liquidity concerns. The path forward hinges on whether Kingsoft can maintain growth while expanding operating profit — a balancing act that requires both protecting market share against Alibaba and Tencent while disciplining capital allocation.
 
 ## The geopolitics of Chinese cloud
 

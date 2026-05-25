@@ -35,7 +35,7 @@ Beyond cigarettes, PM has invested heavily over the past decade in developing an
 
 PM operates in two main geographic segments: European Union and Canada, and International and Other. Developed markets (Western Europe, Japan, Australia, Canada) are mature and stable but face secular decline as smoking prevalence declines and regulations tighten. Emerging markets, particularly in Eastern Europe, Russia (until recent geopolitical disruption), the Middle East, and parts of Asia, have historically offered growth opportunities, though often with lower absolute margins and regulatory unpredictability. Currency fluctuations are a material headwind in a company with significant non-dollar revenues.
 
-Operating margins are typically in the 30-40% range, a reflection of the high-margin nature of the tobacco business. Capital intensity is relatively low—the company does not require major manufacturing infrastructure investment in every market, instead relying on a mix of owned facilities and contract manufacturers. Free cash flow is robust and has historically supported substantial dividends and share buybacks, making PM a popular holding for income-focused investors.
+[Operating margins](/operating-margin/) are typically in the 30-40% range, a reflection of the high-margin nature of the tobacco business. Capital intensity is relatively low—the company does not require major manufacturing infrastructure investment in every market, instead relying on a mix of owned facilities and contract manufacturers. [Free cash flow](/free-cash-flow/) is robust and has historically supported substantial [dividends](/dividend/) and [share buybacks](/share-buyback/), making PM a popular holding for income-focused investors.
 
 ## Competitive Position and Competitive Pressures
 
@@ -53,9 +53,9 @@ The regulatory environment is undoubtedly hostile to smoking, but it is also evo
 
 ## The Dividend and Capital Allocation
 
-PM is known for a generous and rising dividend, paid quarterly. The payout ratio is typically 80-90% of earnings, and the company has raised the dividend annually for decades. This capital return policy reflects the maturity of the business and the absence of major growth investments that would demand capital retention. For dividend investors, particularly those seeking income in a low-interest-rate environment, PM has been an attractive holding. Currency headwinds and tax changes can compress yields, but the commitment to the dividend is core to PM's investor positioning.
+PM is known for a generous and rising dividend, paid quarterly. The [payout ratio](/payout-ratio/) is typically 80-90% of earnings, and the company has raised the dividend annually for decades. This capital return policy reflects the maturity of the business and the absence of major growth investments that would demand capital retention. For dividend investors, particularly those seeking income in a low-interest-rate environment, PM has been an attractive holding. Currency headwinds and tax changes can compress yields, but the commitment to the dividend is core to PM's investor positioning.
 
-Beyond dividends, the company conducts regular share buybacks to offset dilution from employee stock plans and to return additional capital. Net debt levels are moderate and have historically remained within management's comfort range.
+Beyond dividends, the company conducts regular share buybacks to offset dilution from employee stock plans and to return additional capital. [Net debt](/net-debt/) levels are moderate and have historically remained within management's comfort range.
 
 ## Forward-Looking Dynamics
 

@@ -41,13 +41,13 @@ The company faces competition, but the market is largely divided by segment. In 
 
 ## History and Strategic Evolution
 
-FIS was formed in 1968 as a mortgage and title company and evolved through the 1990s and 2000s into a financial services software provider. The company's growth accelerated through acquisitions. In 2008, it acquired eFunds, a major payment processor. In 2015, FIS acquired SunGard's Financial Systems division—a transformational deal that made FIS the global leader in core banking software and significantly expanded its capital markets business. That acquisition also saddled FIS with debt but integrated what were previously separate ecosystems into a unified platform strategy.
+FIS was formed in 1968 as a mortgage and title company and evolved through the 1990s and 2000s into a financial services software provider. The company's growth accelerated through [acquisitions](/acquisition/). In 2008, it acquired eFunds, a major payment processor. In 2015, FIS acquired SunGard's Financial Systems division—a transformational deal that made FIS the global leader in core banking software and significantly expanded its capital markets business. That acquisition also saddled FIS with debt but integrated what were previously separate ecosystems into a unified platform strategy.
 
 The SunGard integration and subsequent platform consolidation took years and was rocky at times, with integration costs eating into margins. But by the early 2020s, FIS had largely unified its systems, moved clients toward cloud-based delivery, and begun reaping the benefits of operating as a single platform rather than a collection of acquired systems.
 
 ## Revenue Model and Profitability
 
-FIS is highly profitable by fintech standards. The business model is durable: customers pay subscription fees year after year regardless of economic conditions (banks and brokers need their systems to function), and transaction-based fees rise during periods of economic activity. This creates a combination of recurring base revenue plus variable upside.
+FIS is highly profitable by fintech standards. The business model is durable: customers pay subscription fees year after year regardless of economic conditions (banks and [brokers](/broker/) need their systems to function), and transaction-based fees rise during periods of economic activity. This creates a combination of recurring base revenue plus variable upside.
 
 However, FIS carries substantial debt from acquisitions, which moderates reported earnings. The company invests heavily in cloud infrastructure and product development to modernize its aging legacy systems and compete with newer, cloud-native rivals. Margins are respectable but under pressure from the cost of modernization and competition from AWS, Azure, and newer fintech platforms.
 
@@ -59,7 +59,7 @@ Second, regulatory risk is real and constant. Financial technology is heavily re
 
 Third, FIS is vulnerable to consolidation or disruption in its customer base. If regional banks continue to consolidate into mega-banks, FIS's customer count shrinks (even if deal size per customer rises). If large banks or fintech firms decide to build systems in-house or adopt open-source alternatives, FIS's stickiness erodes. The shift to cloud-based processing also favors newer competitors and pushes FIS into a more competitive environment against cloud providers and fintech platforms.
 
-Fourth, earnings are cyclical and tied to financial activity. During recessions or market downturns, trading volumes fall, M&A activity slows, and banks become more cost-conscious and less likely to upgrade systems—all headwinds for FIS.
+Fourth, earnings are cyclical and tied to financial activity. During [recessions](/recession/) or market downturns, trading volumes fall, M&A activity slows, and banks become more cost-conscious and less likely to upgrade systems—all headwinds for FIS.
 
 ## How to Research It
 

@@ -12,7 +12,7 @@ handwritten: true
 
 Lufax Holding Ltd operates one of China's largest online platforms connecting borrowers with lenders and investors seeking wealth management opportunities. Founded by Ant Group veterans and backed by substantial institutional capital, the company has built a market position in an underserved segment: accessible personal lending for small business owners and salaried professionals, paired with investment products for middle-class and affluent savers looking for yield beyond traditional bank deposits.
 
-The company went public on the New York Stock Exchange under the ticker LU in 2020, and also trades on the Hong Kong Stock Exchange. Its regulatory filings with the SEC reveal a business focused on technology infrastructure and origination, with a deliberately moderated appetite for credit risk after strategic pivots in recent years.
+The company went public on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker LU in 2020, and also trades on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/). Its regulatory filings with the SEC reveal a business focused on technology infrastructure and origination, with a deliberately moderated appetite for [credit risk](/credit-risk/) after strategic pivots in recent years.
 
 ## The Core Business
 
@@ -20,7 +20,7 @@ Lufax's marketplace connects three constituencies: borrowers seeking personal or
 
 Loan products address demand gaps in China's retail credit market. Small business owners and individual merchants often struggle to access bank loans at reasonable rates; salaried workers may find credit difficult to obtain quickly. Lufax's platform automates the underwriting and approval process, using proprietary data and behavioral analytics to assess credit quality, allowing real-time decisions where traditional banks might take weeks or decline outright.
 
-On the investment side, the platform attracts savers—both retail and institutional—seeking returns higher than bank deposits or government bonds. Lufax structures these investments through trust products, asset-backed securities, and direct loan note holdings, all regulated under Chinese financial supervision.
+On the investment side, the platform attracts savers—both retail and institutional—seeking returns higher than bank deposits or government [bonds](/bond/). Lufax structures these investments through trust products, asset-backed securities, and direct loan note holdings, all regulated under Chinese financial supervision.
 
 ## Revenue and Risk Model Evolution
 
@@ -38,17 +38,17 @@ The main competitors are other online lending platforms, digital banks, and trad
 
 ## Regulatory and Structural Challenges
 
-Lufax operates in a jurisdiction where fintech oversight is explicit and evolving. China's regulators—the Financial Stability and Development Committee, banking authorities, and provincial agencies—have repeatedly intervened in peer-to-peer lending and wealth management to manage systemic risk and consumer protection. Rules around investor guarantees, platform liability, and risk retention have tightened materially over the past five years.
+Lufax operates in a jurisdiction where fintech oversight is explicit and evolving. China's regulators—the Financial Stability and Development Committee, banking authorities, and provincial agencies—have repeatedly intervened in peer-to-peer lending and wealth management to manage [systemic risk](/systemic-risk/) and consumer protection. Rules around investor guarantees, platform liability, and risk retention have tightened materially over the past five years.
 
 For U.S. investors, Lufax presents the structural risk inherent in any China-listed company: the business operates under the jurisdiction of a sovereign government that has shown willingness to impose sudden operational restrictions, reshape business models for policy objectives, or block capital repatriation. Regulatory changes affecting fintech, lending, or data privacy could force further business restructuring.
 
-Additionally, the company's earnings quality depends on loan origination volume and funding-partner appetite. If Chinese banks tighten credit or exit the platform, Lufax's fees would contract. Loan performance trends also affect investor confidence: prolonged delinquencies or defaults in the underlying loan pools could damage the brand and investor base, even if Lufax itself bears less direct credit risk post-2024.
+Additionally, the company's [earnings quality](/earnings-quality/) depends on loan origination volume and funding-partner appetite. If Chinese banks tighten credit or exit the platform, Lufax's fees would contract. Loan performance trends also affect investor confidence: prolonged delinquencies or defaults in the underlying loan pools could damage the brand and investor base, even if Lufax itself bears less direct credit risk post-2024.
 
 ## Financial Structure and Scale
 
 Lufax operates at meaningful scale. Filings indicate billions of renminbi in loans facilitated annually and millions of active borrowers and investors on the platform. Revenue is measured in hundreds of millions of dollars annually, with operating leverage improving as the company scales servicing and technology infrastructure across a growing loan volume.
 
-The company's shift away from risk retention has made balance sheets simpler: fewer funded loans, lower provisions for credit losses, and lower capital requirements. This has improved reported profitability but sometimes at the cost of loan volume if investors or borrowers resist the new structure.
+The company's shift away from risk retention has made [balance sheets](/balance-sheet/) simpler: fewer funded loans, lower provisions for credit losses, and lower capital requirements. This has improved reported profitability but sometimes at the cost of loan volume if investors or borrowers resist the new structure.
 
 ## What Matters for Investors
 

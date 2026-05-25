@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Aptorum Group is a UK-headquartered biopharmaceutical company hunting for therapeutic openings in infectious disease, oncology, and related fields where approved treatments lag behind clinical need.** The company is tiny and privately funded through equity; it survives on the bet that one or more of its pipeline candidates will reach market or attract acquisition interest before cash runs out.
+**Aptorum Group is a UK-headquartered biopharmaceutical company hunting for therapeutic openings in infectious disease, oncology, and related fields where approved treatments lag behind clinical need.** The company is tiny and privately funded through equity; it survives on the bet that one or more of its pipeline candidates will reach market or attract [acquisition](/acquisition/) interest before cash runs out.
 
 ## Drug pipeline and development stage
 

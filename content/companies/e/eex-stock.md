@@ -40,9 +40,9 @@ Secondary revenue streams include registration fees from attendees (where charge
 
 ## What are the key business risks and cyclical sensitivities?
 
-Trade shows and conferences are economically cyclical. In recessions, corporate budgets for marketing and sponsorship often contract—companies delay discretionary spending, and smaller attendee counts undermine exhibitor confidence. The 2008 financial crisis and the 2020 pandemic both devastated the events industry temporarily. The return of in-person events is gradual; some customers never returned to the same spending levels, and hybrid or digital substitutes have captured some demand that once flowed exclusively to physical events.
+Trade shows and conferences are economically cyclical. In [recessions](/recession/), corporate budgets for marketing and sponsorship often contract—companies delay [discretionary spending](/discretionary-spending/), and smaller attendee counts undermine exhibitor confidence. The 2008 financial crisis and the 2020 pandemic both devastated the events industry temporarily. The return of in-person events is gradual; some customers never returned to the same spending levels, and hybrid or digital substitutes have captured some demand that once flowed exclusively to physical events.
 
-Pandemic risk remains a structural concern. A major disease outbreak can force events to be cancelled or virtual, immediately zeroing out revenue for that event cycle. Companies with diversified event portfolios and geographic spread can better absorb individual cancellations, but a global shock affects nearly all events simultaneously. This tail risk is difficult to fully hedge or insure.
+Pandemic risk remains a structural concern. A major disease outbreak can force events to be cancelled or virtual, immediately zeroing out revenue for that event cycle. Companies with diversified event portfolios and geographic spread can better absorb individual cancellations, but a global shock affects nearly all events simultaneously. This [tail risk](/tail-risk/) is difficult to fully hedge or insure.
 
 Digital and virtual competitors represent another threat. Virtual conferences and webinars can be cheaper, more accessible, and more flexible than traveling to a physical event. Some attendees and exhibitors have accepted virtual or hybrid formats and may not return to in-person attendance, structurally shifting demand. Emerald and peers have adapted by offering hybrid formats, but these typically generate lower revenue per event than pure in-person editions because exhibitor packages and sponsorship values decline.
 
@@ -52,7 +52,7 @@ Changes in business travel and corporate spending priorities can affect the indu
 
 ## How has Emerald's financial structure and growth trajectory evolved?
 
-Emerald was formed through a merger of Pratt Institute (a private events company) and Heritage Auction Galleries spin-off in 2017, then acquired and consolidated several other event operators and portfolios. This acquisition-driven strategy allowed rapid portfolio growth but required taking on debt to fund these deals. The company's [balance sheet](/wiki/balance-sheet/) carries meaningful [debt](/wiki/debt-to-equity-ratio/) incurred to acquire events and businesses.
+Emerald was formed through a [merger](/merger/) of Pratt Institute (a private events company) and Heritage Auction Galleries [spin-off](/spin-off/) in 2017, then acquired and consolidated several other event operators and portfolios. This acquisition-driven strategy allowed rapid portfolio growth but required taking on debt to fund these deals. The company's [balance sheet](/wiki/balance-sheet/) carries meaningful [debt](/wiki/debt-to-equity-ratio/) incurred to acquire events and businesses.
 
 Revenue is volatile, tied to event scheduling and economic conditions. A company with more events per year benefits from some averaging—an economic downturn affects most events at once, but events are staggered across seasons and regions, so weak quarters can be followed by strong ones. However, the cyclicality of the underlying economy and the lumpy nature of large trade shows mean that revenue and profitability can swing quarter to quarter.
 
@@ -72,6 +72,6 @@ Watch quarterly earnings reports for metrics including total revenue, event coun
 
 Key indicators also include debt levels and [interest coverage](/wiki/interest-coverage-ratio/)—Emerald's ability to service debt from operating cash flow. In strong periods, focus on whether management uses extra cash to reduce debt or increase shareholder returns; in weak periods, watch whether the company maintains expense discipline and manages covenant compliance on its credit facilities.
 
-Industry commentary and trade publications often report on major trade show attendance trends and exhibitor feedback, offering forward-looking signals on demand. Announcements of new event acquisitions or launches signal management's growth ambitions but also capital allocation and acquisition risk. Conversely, divestitures of underperforming events may signal disciplined portfolio management.
+Industry commentary and trade publications often report on major trade show attendance trends and exhibitor feedback, offering forward-looking signals on demand. Announcements of new event [acquisitions](/acquisition/) or launches signal management's growth ambitions but also capital allocation and acquisition risk. Conversely, [divestitures](/divestiture/) of underperforming events may signal disciplined portfolio management.
 
 Finally, keep an eye on broader economic indicators—employment, corporate profit levels, and business sentiment—as these cascade directly into corporate sponsorship and attendance decisions within weeks or months.

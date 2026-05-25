@@ -17,7 +17,7 @@ Aurinia is a biopharmaceutical company developing treatments for autoimmune dise
 
 ## How does the company operate commercially?
 
-Aurinia functions as a development-stage biopharmaceutical firm, meaning revenue generation depends entirely on obtaining regulatory approval and successfully commercializing its drug candidates. Prior to product approval, the company operates at a net loss, sustained by capital from [public-company](/wiki/public-company/) equity offerings, strategic partnerships, and periodic debt financing. Milestone payments from collaborations with larger pharmaceutical firms help fund operations. Once an approved drug reaches market, revenue flows from hospital systems, specialty pharmacies, and healthcare providers dispensing the medication to eligible patients.
+Aurinia functions as a development-stage biopharmaceutical firm, meaning revenue generation depends entirely on obtaining regulatory approval and successfully commercializing its drug candidates. Prior to product approval, the company operates at a net loss, sustained by capital from [public-company](/wiki/public-company/) equity offerings, strategic partnerships, and periodic [debt financing](/debt-financing/). Milestone payments from collaborations with larger pharmaceutical firms help fund operations. Once an approved drug reaches market, revenue flows from hospital systems, specialty pharmacies, and healthcare providers dispensing the medication to eligible patients.
 
 ## What do investors scrutinize most closely?
 

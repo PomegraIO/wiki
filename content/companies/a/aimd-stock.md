@@ -18,7 +18,7 @@ The AI Nose division develops electronic olfaction technology that translates od
 
 Path and Rebranding
 
-Ainos traces its lineage to Amarillo Biosciences (founded 1984), an interferon research outfit. Management renamed and repositioned the company in May 2021 to emphasize dual revenue opportunities and signal a pivot toward AI commercialization. The NASDAQ listing under AIMD reflects this strategic reset and broader investor focus on sensor technologies intersecting with health applications.
+Ainos traces its lineage to Amarillo Biosciences (founded 1984), an interferon research outfit. Management renamed and repositioned the company in May 2021 to emphasize dual revenue opportunities and signal a pivot toward AI commercialization. The [NASDAQ](/nasdaq/) listing under AIMD reflects this strategic reset and broader investor focus on sensor technologies intersecting with health applications.
 
 At a glance:
 - Electronic olfaction and industrial scent sensing

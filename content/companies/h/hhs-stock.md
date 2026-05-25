@@ -17,7 +17,7 @@ The business is fundamentally about translating customer data into profitable en
 
 Harte-Hanks grew from roots in direct marketing and print, tracing back decades as an operator in the direct-response space. Over time, it accumulated capabilities: customer databases, printing facilities, mail handling, and call-center staffing. The company went [public](/wiki/public-company/) and built a multi-unit structure, branching into international markets and adding software and data analytics layers. At its peak, it was a significant player in customer engagement outsourcing.
 
-That model held through the 2000s — a period when direct mail, phone calls, and physical fulfillment still anchored customer acquisition. But the economics of those channels have compressed steadily. Digital has taken share, printing margins have thinned, and labor costs in call centers have risen without corresponding pricing power.
+That model held through the 2000s — a period when direct mail, phone calls, and physical fulfillment still anchored customer [acquisition](/acquisition/). But the economics of those channels have compressed steadily. Digital has taken share, printing margins have thinned, and labor costs in call centers have risen without corresponding pricing power.
 
 ## How Revenue Flows
 
@@ -31,7 +31,7 @@ Invoicing flows from project fees, hourly labor billing in contact centers, and 
 
 ## Competitive and Market Pressures
 
-Harte-Hanks is squeezed from multiple sides. Direct mail as a channel competes with cheaper digital alternatives; clients that once spent millions on printed catalogs now test smaller volumes or skip print entirely. Call centers in the United States face wage inflation and worker retention challenges, while offshore and nearshore centers in lower-cost regions are competitive substitutes.
+Harte-Hanks is squeezed from multiple sides. Direct mail as a channel competes with cheaper digital alternatives; clients that once spent millions on printed catalogs now test smaller volumes or skip print entirely. Call centers in the United States face wage [inflation](/inflation/) and worker retention challenges, while offshore and nearshore centers in lower-cost regions are competitive substitutes.
 
 Larger, better-capitalized competitors — from management consultancies to integrated marketing platforms — have moved into customer experience and data segments. Specialized agencies focus narrowly on email or digital, avoiding the fixed-cost burden of print plants or 24/7 call centers.
 
@@ -41,7 +41,7 @@ The company's integration, once a moat, became a liability. Clients want flexibi
 
 The business has faced margin compression and revenue volatility. Client consolidation — large retailers and telecoms controlling significant budgets — gives buyers leverage on pricing. The fixed costs of operating facilities and paying full-time staff don't flex easily if volumes drop.
 
-Debt levels have periodically strained the balance sheet, limiting reinvestment in higher-margin technology and analytics. Restructuring initiatives have aimed to close or optimize facilities and reduce headcount, but execution risk is high and savings often lag the pace of revenue decline.
+Debt levels have periodically strained the [balance sheet](/balance-sheet/), limiting reinvestment in higher-margin technology and analytics. Restructuring initiatives have aimed to close or optimize facilities and reduce headcount, but execution risk is high and savings often lag the pace of revenue decline.
 
 ## What to Watch
 
@@ -56,7 +56,7 @@ Facility utilization and labor metrics in call centers are worth tracking: if he
 - Contact center operations sensitive to wage inflation and client budgets
 - Data and analytics segment small but strategically important
 - Profitability hinges on successful transition from fixed-cost legacy operations to higher-margin service mix
-- Major client concentration risk
+- Major client [concentration risk](/concentration-risk/)
 - Debt and restructuring costs historically a drag on earnings
 
 The company occupies an awkward middle ground: too legacy-heavy to be a growth story, but with enough customer-engagement capability to matter to enterprise clients in narrow verticals. Recovery depends on whether the data and analytics business can grow fast enough to offset the decline in print and call-center services, and whether the company can fund that transition without capital constraints.

@@ -31,7 +31,7 @@ ZTO moved nearly 18 billion parcels in 2023, a figure that underscores both the 
 
 ## Revenue and Margin Dynamics
 
-ZTO's revenue comes from per-parcel fees charged to e-commerce merchants and merchants' logistics partners. A typical fee in recent years has ranged from ¥2–3 per parcel at the hub level, though end-customer prices vary by destination and service tier. Pricing is set by supply and demand: when excess capacity floods the market (as happens during off-season or when new entrants launch aggressive pricing), margins compress. Conversely, during holiday surges or when mergers consolidate capacity, ZTO can raise prices. The [10-K](/wiki/10-k/) will show how much revenue ZTO derives from core express delivery versus ancillary services (international logistics, warehousing, cold-chain delivery).
+ZTO's revenue comes from per-parcel fees charged to e-commerce merchants and merchants' logistics partners. A typical fee in recent years has ranged from ¥2–3 per parcel at the hub level, though end-customer prices vary by destination and service tier. Pricing is set by supply and demand: when excess capacity floods the market (as happens during off-season or when new entrants launch aggressive pricing), margins compress. Conversely, during holiday surges or when [mergers](/merger/) consolidate capacity, ZTO can raise prices. The [10-K](/wiki/10-k/) will show how much revenue ZTO derives from core express delivery versus ancillary services (international logistics, warehousing, cold-chain delivery).
 
 Revenue growth is essentially tied to parcel volume growth in China, which in turn depends on e-commerce penetration and merchant adoption. That relationship is mostly saturated—Chinese e-commerce already exceeds 40% of total retail—so ZTO's growth now comes from market share shifts, higher-value parcels (fast delivery, cold-chain), and international expansion (more limited today).
 
@@ -71,4 +71,4 @@ At heart, ZTO is a logistics utility—a business that thrives during e-commerce
 - Revenue tied directly to parcel volume and per-parcel pricing; growth slowing as Chinese e-commerce matures
 - Intense domestic competition from S.F. Express, YTO, and others; pricing power weak and cyclical
 - Regulatory and labor-cost pressures emerging; limited international footprint as hedge
-- Valuation typically trades on parcel-volume growth and margin sustainability, not earnings multiple expansion
+- Valuation typically trades on parcel-volume growth and margin sustainability, not [earnings multiple](/earnings-multiple/) expansion

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Rafael Holdings is a holding company with a diversified portfolio centered on commercial real estate and early-stage pharmaceutical development. The company maintains a controlling stake in Cyclo Therapeutics, a clinical-stage biopharmaceutical firm focused on orphan disease treatments. While Rafael itself operates primarily as a passive holding structure, its value derives largely from these core asset classes and its subsidiary stake.
+Rafael Holdings is a holding company with a diversified portfolio centered on [commercial real estate](/commercial-real-estate/) and early-stage pharmaceutical development. The company maintains a controlling stake in Cyclo Therapeutics, a clinical-stage biopharmaceutical firm focused on orphan disease treatments. While Rafael itself operates primarily as a passive holding structure, its value derives largely from these core asset classes and its subsidiary stake.
 
 ## What is Rafael Holdings?
 
@@ -22,7 +22,7 @@ Rafael Holdings emerged from prior business reorganizations and consolidations. 
 
 ## What does the real estate portfolio consist of?
 
-Rafael's commercial real estate holdings represent a significant portion of the company's asset base. These properties are typically held for long-term appreciation and, in some cases, rental income generation. The portfolio composition can include office, industrial, or mixed-use properties. Real estate valuations fluctuate with market cycles and local economic conditions, making this segment sensitive to interest rates and commercial occupancy trends. Details on property locations, tenure, and estimated fair value appear in SEC filings. The company may use [like-kind exchange mechanics](/wiki/1031-like-kind-exchange/) to optimize the real estate allocation over time.
+Rafael's commercial real estate holdings represent a significant portion of the company's asset base. These properties are typically held for long-term appreciation and, in some cases, rental income generation. The portfolio composition can include office, industrial, or mixed-use properties. Real estate valuations fluctuate with market cycles and local economic conditions, making this segment sensitive to [interest rates](/interest-rate/) and commercial occupancy trends. Details on property locations, tenure, and estimated [fair value](/fair-value/) appear in SEC filings. The company may use [like-kind exchange mechanics](/wiki/1031-like-kind-exchange/) to optimize the real estate allocation over time.
 
 ## What is Cyclo Therapeutics and why is Rafael's stake important?
 
@@ -32,13 +32,13 @@ The clinical stage classification means Cyclo has not yet achieved FDA approval 
 
 ## How does clinical-stage pharmaceutical development affect Rafael's outlook?
 
-Rafael's exposure to Cyclo introduces concentrated clinical and regulatory risk. Drug development timelines are long—typically five to ten years from early clinical trials to approval—and outcomes are binary or near-binary at major decision points (such as Phase III trial success or FDA approval). A failed trial or rejected submission can materially impair Cyclo's valuation and, by extension, Rafael's net asset value. Conversely, successful trials, approvals, and commercialization could unlock substantial value.
+Rafael's exposure to Cyclo introduces concentrated clinical and regulatory risk. Drug development timelines are long—typically five to ten years from early clinical trials to approval—and outcomes are binary or near-binary at major decision points (such as Phase III trial success or FDA approval). A failed trial or rejected submission can materially impair Cyclo's valuation and, by extension, Rafael's [net asset value](/net-asset-value/). Conversely, successful trials, approvals, and commercialization could unlock substantial value.
 
 During development, Cyclo will likely burn cash to fund clinical operations. Rafael must decide whether to fund these needs through capital injections, debt issuance, or other financing. Dilution of Rafael's stake or use of holding company assets to backstop Cyclo are mechanisms that periodically surface in holding company structures.
 
 ## How is Rafael financed and what are its capital constraints?
 
-Rafael likely funds operations and capital allocation through cash flows from real estate, any dividends or distributions from Cyclo, and balance sheet liquidity. The company's financial flexibility depends on asset values, debt levels, and access to capital markets. Many holding companies maintain modest leverage to maximize returns on equity, though real estate holdings can support senior secured borrowing. Details on debt maturity, interest rates, and covenants appear in the 10-K and quarterly filings.
+Rafael likely funds operations and capital allocation through cash flows from real estate, any [dividends](/dividend/) or distributions from Cyclo, and [balance sheet](/balance-sheet/) liquidity. The company's financial flexibility depends on asset values, debt levels, and access to capital markets. Many holding companies maintain modest leverage to maximize returns on equity, though real estate holdings can support senior secured borrowing. Details on debt maturity, interest rates, and covenants appear in the 10-K and quarterly filings.
 
 The company has no recurring revenue stream (real estate yields some rental income, but Cyclo is not yet commercialized), so financial sustainability rests on asset conservation and judicious deployment of capital toward value-creating opportunities.
 
@@ -48,7 +48,7 @@ The company has no recurring revenue stream (real estate yields some rental inco
 
 **Real estate cyclicality**: Commercial real estate valuations and occupancy rates track economic cycles and interest rate environments. Rising rates can compress asset values and rental yield multiples.
 
-**Concentration risk**: A significant portion of Rafael's value is embedded in a single biotech subsidiary. Lack of diversification within the portfolio magnifies the impact of adverse developments.
+**[Concentration risk](/concentration-risk/)**: A significant portion of Rafael's value is embedded in a single biotech subsidiary. Lack of [diversification](/diversification/) within the portfolio magnifies the impact of adverse developments.
 
 **Liquidity and market access**: Both commercial real estate and clinical-stage biotech are illiquid. Rafael itself trades with limited volume, and the holding structure may impede rapid asset disposition.
 

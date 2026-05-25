@@ -35,7 +35,7 @@ The company's positioning reflects a shift in how the renewable energy industry 
 
 Zeo's technical focus includes both conventional geothermal development and investment in enhanced geothermal systems (EGS), sometimes called hot fractured rocks or engineered reservoirs. Conventional geothermal requires naturally occurring hot water or steam reservoirs accessible at economic depths; these exist in tectonically active regions (parts of the western U.S., Iceland, New Zealand, Japan). EGS aims to create or improve permeability in hot dry rock formations by hydraulic stimulation, potentially opening geothermal development to a much wider geographic footprint.
 
-The company's project portfolio likely spans site identification, permitting, construction, and operation of plants. Typical modern geothermal plants range from 10 to 50+ megawatts per site, with 30-year+ operational lifespans. The economic model relies on power purchase agreements (PPAs) with utilities or grid operators, offering long-term, contracted revenue streams—a feature that attracts institutional capital and debt financing.
+The company's project portfolio likely spans site identification, permitting, construction, and operation of plants. Typical modern geothermal plants range from 10 to 50+ megawatts per site, with 30-year+ operational lifespans. The economic model relies on power purchase agreements (PPAs) with utilities or grid operators, offering long-term, contracted revenue streams—a feature that attracts institutional capital and [debt financing](/debt-financing/).
 
 ## Revenue and Economics
 
@@ -61,7 +61,7 @@ Zeo's willingness to pursue EGS technology signals ambition beyond conventional 
 
 **Permitting and environmental sensitivity:** Geothermal projects involve ground disturbance, induced seismicity (minor, but controversial), and water use. Permitting timelines are long, and local opposition can delay or derail projects.
 
-**Capital intensity and financing:** Geothermal projects require substantial upfront capital, making the company sensitive to cost of debt and equity availability. Rising interest rates, credit market freezes, or investor reallocation away from renewables can impair project economics.
+**Capital intensity and financing:** Geothermal projects require substantial upfront capital, making the company sensitive to [cost of debt](/cost-of-debt/) and equity availability. Rising [interest rates](/interest-rate/), credit market freezes, or investor reallocation away from renewables can impair project economics.
 
 **Technology execution:** EGS technology, while promising, has a mixed track record globally. Cost and performance remain uncertain.
 

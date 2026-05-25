@@ -13,13 +13,13 @@ handwritten: true
 
 Quanex Building Products (NX) is a manufacturer of engineered components that enable the window, door, cabinet, and broader construction industries. The company designs and produces insulating glass spacers, vinyl extrusion profiles, window and door screens, cabinet components, and related products sold globally to original equipment manufacturers and contractors. Its core business sits squarely in the residential and light commercial building supply chain — the kind of unglamorous but essential industrial play that thrives when housing construction runs and stumbles when it contracts.
 
-The company's defining move came in August 2024 when it completed its acquisition of Tyman plc for approximately $1.1 billion in enterprise value. That deal transformed Quanex from a component specialist into a broader solutions platform, adding hardware, sealing products, and roof/wall/floor access systems to its existing slate of fenestration and cabinetry offerings. The post-acquisition company operates across North America and Europe with roughly $1.8 billion in trailing twelve-month revenue.
+The company's defining move came in August 2024 when it completed its acquisition of Tyman plc for approximately $1.1 billion in [enterprise value](/enterprise-value/). That deal transformed Quanex from a component specialist into a broader solutions platform, adding hardware, sealing products, and roof/wall/floor access systems to its existing slate of fenestration and cabinetry offerings. The post-acquisition company operates across North America and Europe with roughly $1.8 billion in trailing twelve-month revenue.
 
 ## Origin and Evolution
 
 Quanex traces its lineage to 1927, when Michigan Seamless Tube Company was founded in South Lyon, Michigan to produce specialized steel tubing for automotive and energy applications. The business evolved through decades of manufacturing and materials science innovation, eventually spinning out as a standalone public entity. The current iteration — Quanex Building Products — launched its [10-K](/wiki/10-k/) in 2008 following a reorganization that concentrated the company's focus on building components and engineered materials for residential construction.
 
-A turning point came with the development of proprietary warm-edge spacer technology — silicone-based IG (insulating glass) spacers that improve thermal performance and reduce the condensation-prone "cold edge" problem in modern windows. This innovation gave the company a foothold in a sticky market niche where large window manufacturers and OEMs depend on reliable, specialized suppliers. Over the 2010s and early 2020s, Quanex deepened its position in vinyl extrusion, screens, cabinet hardware, and European fenestration through organic investment and smaller acquisitions.
+A turning point came with the development of proprietary warm-edge spacer technology — silicone-based IG (insulating glass) spacers that improve thermal performance and reduce the condensation-prone "cold edge" problem in modern windows. This innovation gave the company a foothold in a sticky market niche where large window manufacturers and OEMs depend on reliable, specialized suppliers. Over the 2010s and early 2020s, Quanex deepened its position in vinyl extrusion, screens, cabinet hardware, and European fenestration through organic investment and smaller [acquisitions](/acquisition/).
 
 The Tyman acquisition represented a leap in strategic ambition. Founded in 1993, Tyman had built a large, diversified business in window hardware (locks, hinges, seals) and access systems. By combining the two companies, Quanex could offer OEM customers a far wider range of integrated fenestration and door solutions — moving from "just the spacer and screen" to "the spacer, the frame, the hardware, and the seal," all from one supplier. The deal closed after shareholder approval on both sides in mid-2024.
 
@@ -39,7 +39,7 @@ Quanex operates across three primary business lines after the Tyman integration:
 | EU Fenestration | Vinyl extrusion, IG spacers | European window manufacturers | EU housing cycles, renovation activity |
 | NA Cabinet Components | Door panels, hardware, components | Cabinetry makers | Kitchen/bath remodeling, new homes |
 
-Revenue flows primarily as **OEM component supply** — Quanex manufactures parts that window, door, and cabinet makers integrate into their products. Margins compress when raw material costs (vinyl resin, aluminum, steel) spike or when OEM consolidation gives large customers pricing leverage. The company's 2025 adjusted EBITDA margin sat around 14–15%, respectable for a cyclical industrial supplier but volatile year-to-year.
+Revenue flows primarily as **OEM component supply** — Quanex manufactures parts that window, door, and cabinet makers integrate into their products. Margins compress when raw material costs (vinyl resin, aluminum, steel) spike or when OEM consolidation gives large customers pricing leverage. The company's 2025 adjusted [EBITDA margin](/ebitda-margin/) sat around 14–15%, respectable for a cyclical industrial supplier but volatile year-to-year.
 
 ## Competitive Position and Distinctive Factors
 
@@ -53,9 +53,9 @@ That said, the company faces real competitive headwinds. Larger industrial congl
 
 Quanex's most acute risk is cyclicality tied to housing starts and residential construction. Single-family housing starts in the US typically run 1.0–1.2 million units annually (seasonally adjusted), and that number directly drives the demand for windows, doors, and cabinetry. When builders slow — due to high mortgage rates, affordability crises, or economic uncertainty — component suppliers face volume cliffs, often accompanied by aggressive customer destocking and brutal price competition.
 
-The company experienced this dynamic acutely in 2022–2023 as rising interest rates crimped housing demand. Conversely, in strong construction cycles, Quanex can benefit from pricing power and capacity utilization gains. The residential renovation and replacement market (homeowners replacing old windows) is less cyclical and more steady, but it also tends to be more competitive and lower-margin.
+The company experienced this dynamic acutely in 2022–2023 as rising [interest rates](/interest-rate/) crimped housing demand. Conversely, in strong construction cycles, Quanex can benefit from pricing power and capacity utilization gains. The residential renovation and replacement market (homeowners replacing old windows) is less cyclical and more steady, but it also tends to be more competitive and lower-margin.
 
-The Tyman acquisition added European exposure, which provides some geographic diversification but also increases exposure to EU construction cycles and currency translation risk. The UK market, in particular, has faced softness in recent years due to economic headwinds and high borrowing costs.
+The Tyman acquisition added European exposure, which provides some geographic [diversification](/diversification/) but also increases exposure to EU construction cycles and currency translation risk. The UK market, in particular, has faced softness in recent years due to economic headwinds and high borrowing costs.
 
 ## Operational Pressures
 
@@ -69,10 +69,10 @@ Tariffs and trade friction also affect the company. Quanex imports some raw mate
 
 Start with the company's most recent [10-K](/wiki/10-k/) filing with the SEC (CIK 1423221), which details segment performance, customer concentration, and capital allocation. Pay close attention to the Customer Concentration section — how much revenue depends on the top 5 or 10 OEM customers. A high concentration ratio signals leverage risk if a single customer shifts orders or demands aggressive terms.
 
-Watch quarterly earnings reports for trends in **net sales by segment**, **adjusted EBITDA margin**, and **backlog or order trends**. Guidance commentary is critical; if management signals softening housing demand ahead, earnings revisions typically follow within a quarter or two.
+Watch quarterly earnings reports for trends in **net sales by segment**, **adjusted [EBITDA](/ebitda/) margin**, and **backlog or order trends**. Guidance commentary is critical; if management signals softening housing demand ahead, earnings revisions typically follow within a quarter or two.
 
 Industry data points worth tracking include US housing starts (published monthly by the Census Bureau), pending home sales (which lead actual starts by several months), and mortgage rate trends. These are leading indicators of Quanex's end-market health.
 
-Quanex also trades on the NYSE under ticker NX. Institutional analyst coverage is moderate; firms like Citi, Goldman Sachs, and RBC Capital track the company and publish periodic research notes. Read the company's investor day presentations and strategy updates for insight into management's long-term vision post-Tyman.
+Quanex also trades on the NYSE under ticker NX. Institutional analyst coverage is moderate; firms like Citi, [Goldman Sachs](/goldman-sachs/), and RBC Capital track the company and publish periodic research notes. Read the company's investor day presentations and strategy updates for insight into management's long-term vision post-Tyman.
 
 Compare Quanex's multiples and margins to peers like Jeld-Wen (JELD), a larger but less specialized window and door manufacturer, and specialty suppliers like Gibraltar Industries (ROCK), which operates in a somewhat different product space. These comparisons help gauge whether the market is pricing in cyclical headwinds or undervaluing the company relative to growth prospects.

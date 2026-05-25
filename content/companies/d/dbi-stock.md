@@ -46,9 +46,9 @@ Inventory management is critical in footwear: seasonal demand patterns are prono
 
 ## Financial Structure and Investor Concerns
 
-The company carries debt from acquisitions and operations. Profitability depends heavily on same-store sales trends, brand strength, and supply-chain efficiency. During periods of consumer slowdown or when promotional selling is required to move inventory, margins compress and debt servicing becomes a focus.
+The company carries debt from [acquisitions](/acquisition/) and operations. Profitability depends heavily on same-store sales trends, brand strength, and supply-chain efficiency. During periods of consumer slowdown or when promotional selling is required to move inventory, margins compress and debt servicing becomes a focus.
 
-The company went public in 2017 via a spinoff from Dillard's (retail partner and partial owner). Dillard's has retained a significant ownership stake and board representation, creating a semi-controlled company dynamic that can create conflicts of interest for public shareholders and has historically made shareholder activism complicated.
+The company went public in 2017 via a [spinoff](/spinoff/) from Dillard's (retail partner and partial owner). Dillard's has retained a significant ownership stake and board representation, creating a semi-controlled company dynamic that can create conflicts of interest for public shareholders and has historically made shareholder activism complicated.
 
 Brick-and-mortar footwear retail is secular decline prone but not terminal; shoes are a staple category that must be touched and fitted, supporting store survival. However, the trend toward lower-traffic malls and higher rent in prime locations has forced closures and consolidation industry-wide. Designer Brands must balance reducing its store footprint with preserving brand visibility and market access.
 
@@ -56,8 +56,8 @@ Brick-and-mortar footwear retail is secular decline prone but not terminal; shoe
 
 Investors examine [DSW comparable sales](/wiki/comparable-sales/) trends—whether like-for-like stores are growing or shrinking. E-commerce growth matters separately, as it carries different margin profiles and logistics costs. Inventory levels and turns matter; rising inventory against flat sales signals demand weakness or overstocking.
 
-Brand performance metrics from wholesale distribution and brand stores (if reported separately) show whether the portfolio strategy is working. Supply chain cost inflation or currency headwinds affecting imported product are frequent headwinds. Margin expansion or contraction is closely watched, as retail is a volume business with limited pricing power.
+Brand performance metrics from wholesale distribution and brand stores (if reported separately) show whether the portfolio strategy is working. Supply chain cost [inflation](/inflation/) or currency headwinds affecting imported product are frequent headwinds. Margin expansion or contraction is closely watched, as retail is a volume business with limited pricing power.
 
 Look to the company's [10-K](/wiki/10-k/) for detail on store closure plans, real estate renegotiations, and debt maturity schedules. Public retail earnings calls often disclose planned store openings and closings, capital spend, and wholesale order trends several quarters ahead. Real estate transactions and brand licensing deals appear in SEC filings as material events.
 
-Consumer discretionary spending, foot traffic in shopping centers, and brand sentiment in fashion media all carry indirect signals of demand. The company's brand partnerships and third-party collaborations show strategic positioning and indicate whether designers and apparel brands see DSW as a key distribution partner.
+Consumer [discretionary spending](/discretionary-spending/), foot traffic in shopping centers, and brand sentiment in fashion media all carry indirect signals of demand. The company's brand partnerships and third-party collaborations show strategic positioning and indicate whether designers and apparel brands see DSW as a key distribution partner.

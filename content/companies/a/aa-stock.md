@@ -17,7 +17,7 @@ The company operates three distinct segments. Bauxite & Alumina captures ore fro
 
 ## The economic model
 
-Alcoa's earnings hinge on two linked spreads: the margin between bauxite cost and alumina price, and the margin between alumina cost and primary aluminum price. Both are commodity margins—the company has no proprietary products or brand premium. During upswings in global manufacturing and construction, aluminum prices rise faster than input costs, compressing the value chain and lifting margins at the smelter level. In downturns, prices collapse and utilization drops, cutting deeply into fixed-cost operations. The business generates substantial cash in expansions and burns cash during contractions. Debt is high relative to many industrials, making downside scenarios damaging to the balance sheet.
+Alcoa's earnings hinge on two linked spreads: the margin between bauxite cost and alumina price, and the margin between alumina cost and primary aluminum price. Both are commodity margins—the company has no proprietary products or brand premium. During upswings in global manufacturing and construction, aluminum prices rise faster than input costs, compressing the value chain and lifting margins at the smelter level. In downturns, prices collapse and utilization drops, cutting deeply into fixed-cost operations. The business generates substantial cash in expansions and burns cash during contractions. Debt is high relative to many industrials, making downside scenarios damaging to the [balance sheet](/balance-sheet/).
 
 ## Competitive landscape and moats
 
@@ -25,7 +25,7 @@ Alcoa ranks among the top three bauxite and alumina producers globally; in prima
 
 ## Key operational risks
 
-Energy costs are the dominant risk to profitability. A spike in electricity prices in Norway, Australia, or the US directly shrinks smelter margins; conversely, abundant hydroelectric supply in a recession can allow Alcoa to price aggressively and capture market share. Mining-permit disruptions in Guinea (which supplies bauxite to global refineries) can trigger supply shocks and force Alcoa to either curtail smelting or source ore at higher cost. Regulatory pressure on carbon emissions is rising—aluminum smelting is carbon-intensive—and low-carbon premium pricing is unproven at scale. A major downturn in aerospace or automotive (triggered by recession or a demand shock like COVID-style lockdowns) rapidly erodes utilization and profitability.
+Energy costs are the dominant risk to profitability. A spike in electricity prices in Norway, Australia, or the US directly shrinks smelter margins; conversely, abundant hydroelectric supply in a [recession](/recession/) can allow Alcoa to price aggressively and capture market share. Mining-permit disruptions in Guinea (which supplies bauxite to global refineries) can trigger supply shocks and force Alcoa to either curtail smelting or source ore at higher cost. Regulatory pressure on carbon emissions is rising—aluminum smelting is carbon-intensive—and low-carbon premium pricing is unproven at scale. A major downturn in aerospace or automotive (triggered by recession or a demand shock like COVID-style lockdowns) rapidly erodes utilization and profitability.
 
 ## At a glance
 

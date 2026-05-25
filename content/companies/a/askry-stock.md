@@ -17,6 +17,6 @@ Based in Danderyd, Sweden, the company operates across a footprint spanning Scan
 
 Revenue flows from volume: thousands of care homes, hospitals, and nursing services across multiple countries restocking supplies weekly. The economics are relatively stable given their role as an essential supplier to an aging and growing population across Europe. Asker's scale—operating in dozens of countries with a workforce numbering in the thousands—is a moat; a fragmented provider in one country can rarely compete with a multinational distributor that can consolidate purchasing, manage logistics, and maintain consistent quality across a continent.
 
-The company was brought public on Nasdaq Stockholm in late March 2025, having been previously held by investment firms and then recapitalized for the listing. Its American Depositary Receipt ticker, ASKRY, reflects the availability of the stock to U.S. investors, though the primary listing remains in Stockholm.
+The company was brought public on [Nasdaq](/nasdaq/) Stockholm in late March 2025, having been previously held by investment firms and then recapitalized for the listing. Its American Depositary Receipt ticker, ASKRY, reflects the availability of the stock to U.S. investors, though the primary listing remains in Stockholm.
 
 See also: [/wiki/adr/](/wiki/adr/), [/wiki/10-k/](/wiki/10-k/), [/wiki/stock-exchange/](/wiki/stock-exchange/)

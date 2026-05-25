@@ -13,7 +13,7 @@ handwritten: true
 
 **AtaiBeckley is a combined pharmaceutical developer focused on psychedelic-assisted treatments for psychiatric conditions.**
 
-The company emerged from the merger of Germany-based atai Life Sciences (founded 2018) and UK-based Beckley Psytech, completing a significant consolidation of the psychedelic medicine sector. The combined entity trades on Nasdaq under ticker ATAI and maintains a distributed footprint across Europe and North America.
+The company emerged from the [merger](/merger/) of Germany-based atai Life Sciences (founded 2018) and UK-based Beckley Psytech, completing a significant consolidation of the psychedelic medicine sector. The combined entity trades on [Nasdaq](/nasdaq/) under ticker ATAI and maintains a distributed footprint across Europe and North America.
 
 Pipeline and Clinical Development
 

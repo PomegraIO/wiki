@@ -17,7 +17,7 @@ Semiconductor test equipment sits at a critical chokepoint in chip production. E
 
 ## Market Dominance and Scale
 
-Advantest holds over 50% of the global automatic test equipment market, a position reinforced by its 2011 acquisition of Verigy (originally spun out from Agilent). This dominance reflects decades of engineering relationships with major chip manufacturers and a portfolio tuned to each technology node. The company also serves the measurement and inspection side with metrology and scanning electron microscope tools—complementary technologies that address yield analysis and process control in high-volume fabs.
+Advantest holds over 50% of the global automatic test equipment market, a position reinforced by its 2011 [acquisition](/acquisition/) of Verigy (originally spun out from Agilent). This dominance reflects decades of engineering relationships with major chip manufacturers and a portfolio tuned to each technology node. The company also serves the measurement and inspection side with metrology and scanning electron microscope tools—complementary technologies that address yield analysis and process control in high-volume fabs.
 
 ## At a Glance
 

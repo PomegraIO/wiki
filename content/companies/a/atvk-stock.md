@@ -12,11 +12,11 @@ handwritten: true
 
 ## What was Ameritek Ventures?
 
-The company operated for years as Ameritek Ventures, Inc., a shell-stage vehicle with sporadic business activity and no coherent operational focus. Like many micro-cap OTC entities, it existed primarily as a legal structure awaiting reinvestment or strategic direction, trading under ticker symbol ATVK on the OTC Pink Sheets.
+The company operated for years as Ameritek Ventures, Inc., a shell-stage vehicle with sporadic business activity and no coherent operational focus. Like many micro-cap OTC entities, it existed primarily as a legal structure awaiting reinvestment or strategic direction, trading under ticker symbol ATVK on the [OTC Pink](/otc-pink/) Sheets.
 
 ## Why the name change to Globaltek?
 
-In April 2026, Ameritek Ventures formally rebranded as Globaltek Ventures, Inc., signaling an attempted repositioning toward a diversified portfolio approach. The rebrand accompanied a 1-for-1,200 reverse stock split in January 2026, a classic micro-cap maneuver to reduce share count and restore trading credibility—though reversals rarely signal fundamental turnaround.
+In April 2026, Ameritek Ventures formally rebranded as Globaltek Ventures, Inc., signaling an attempted repositioning toward a diversified portfolio approach. The rebrand accompanied a 1-for-1,200 [reverse stock split](/reverse-stock-split/) in January 2026, a classic micro-cap maneuver to reduce share count and restore trading credibility—though reversals rarely signal fundamental turnaround.
 
 ## What does it hold now?
 
@@ -24,7 +24,7 @@ Globaltek has shifted its strategic focus toward three speculative sectors: soli
 
 ## What is its financial condition?
 
-The company reported a net loss of over $3 million for Q1 2026, or $0.33 per share. Management disclosed substantial doubt about its ability to continue as a going concern—standard language when a company is burning cash without clear path to profitability and lacks sufficient working capital. This flag appears routinely in [10-K](/wiki/10-k/) filings for pre-revenue or unprofitable shell entities.
+The company reported a net loss of over $3 million for Q1 2026, or $0.33 per share. Management disclosed substantial doubt about its ability to continue as a [going concern](/going-concern/)—standard language when a company is burning cash without clear path to profitability and lacks sufficient working capital. This flag appears routinely in [10-K](/wiki/10-k/) filings for pre-revenue or unprofitable shell entities.
 
 ## Why does it matter?
 

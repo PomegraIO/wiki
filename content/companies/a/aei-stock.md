@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Alset Inc. is a diversified [holding company](/wiki/stock/) headquartered in Bethesda, Maryland, trading on NASDAQ under the ticker AEI. Founded and led by CEO Chan Heng Fai, the company pursues an explicitly portfolio approach spanning physical infrastructure (sustainable residential developments) and digital-era businesses (blockchain, AI, and technology services). Its geographic footprint stretches across the United States, Singapore, Hong Kong, Australia, Taiwan, South Korea, and mainland China.
+Alset Inc. is a diversified [holding company](/wiki/stock/) headquartered in Bethesda, Maryland, trading on [NASDAQ](/nasdaq/) under the ticker AEI. Founded and led by CEO Chan Heng Fai, the company pursues an explicitly portfolio approach spanning physical infrastructure (sustainable residential developments) and digital-era businesses (blockchain, AI, and technology services). Its geographic footprint stretches across the United States, Singapore, Hong Kong, Australia, Taiwan, South Korea, and mainland China.
 
 The company's core historical strength lies in real estate development, particularly its "EHome" sustainable communities designed to integrate advanced technology with residential living. Beyond property, Alset has aggressively diversified into digital transformation services, biohealth product distribution, and more recently, emerging sectors including electric vehicle distribution and robotics. In 2024, it acquired a 41.5% stake in New Energy Asia Pacific, a company focused on taxi electrification in Hong Kong, reflecting management's bet on energy transition and new mobility.
 

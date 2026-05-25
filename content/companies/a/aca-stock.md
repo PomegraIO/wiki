@@ -20,7 +20,7 @@ Municipal water authorities and wastewater treatment plants need certified tanks
 
 ## How does the economics work?
 
-Revenue comes from manufacturing and selling engineered-to-order and stock tanks plus equipment. Pricing reflects design complexity, steel costs, labor content, and market competition. The company typically works on contract terms with customers, building to specification. Gross margins depend on production efficiency, labor productivity, and ability to absorb or pass through steel price swings. Working capital can fluctuate as large projects create lag between material purchases and cash collection.
+Revenue comes from manufacturing and selling engineered-to-order and stock tanks plus equipment. Pricing reflects design complexity, steel costs, labor content, and market competition. The company typically works on contract terms with customers, building to specification. Gross margins depend on production efficiency, [labor productivity](/labor-productivity/), and ability to absorb or pass through steel price swings. Working capital can fluctuate as large projects create lag between material purchases and cash collection.
 
 ## Where are the competitive pressures?
 
@@ -28,6 +28,6 @@ Arcosa competes with regional and international tank fabricators, some part of l
 
 ## How do you evaluate the thesis?
 
-Track order backlog and customer win rates to gauge market share. Monitor steel input costs and the company's pricing discipline—can they maintain margins as commodity input costs shift? Examine project execution: do large jobs hit timeline and cost targets? Look at working capital efficiency and cash conversion. Study public-company peers in industrial equipment and tank manufacturing. Review quarterly gross margins and operating leverage; if the company grows revenue without margin expansion, operational excellence is lacking. Assess geographic and end-market diversification to understand cyclical exposure.
+Track order backlog and customer win rates to gauge market share. Monitor steel input costs and the company's pricing discipline—can they maintain margins as commodity input costs shift? Examine project execution: do large jobs hit timeline and cost targets? Look at [working capital efficiency](/working-capital-efficiency/) and cash conversion. Study public-company peers in industrial equipment and tank manufacturing. Review quarterly gross margins and operating leverage; if the company grows revenue without margin expansion, operational excellence is lacking. Assess geographic and end-market [diversification](/diversification/) to understand cyclical exposure.
 
 See also: [10-K](/wiki/10-k/), [public-company](/wiki/public-company/)

@@ -32,9 +32,9 @@ Valaris does not own the wells or the hydrocarbons. Instead, it contracts rigs t
 
 ## History and Capital Structure
 
-Valaris took its present form in 2017 through the merger of Ensco International and Rowan Companies. Ensco, founded in 1975, was a pioneer in offshore drilling and had built a substantial rig fleet over decades. Rowan, similarly storied, brought complementary assets and market position. The merger created a leading global contractor, though it also loaded the combined entity with debt—a characteristic that would prove constraining through subsequent industry cycles.
+Valaris took its present form in 2017 through the [merger](/merger/) of Ensco International and Rowan Companies. Ensco, founded in 1975, was a pioneer in offshore drilling and had built a substantial rig fleet over decades. Rowan, similarly storied, brought complementary assets and market position. The merger created a leading global contractor, though it also loaded the combined entity with debt—a characteristic that would prove constraining through subsequent industry cycles.
 
-The company emerged from the brutal 2014–2020 downturn weakened by debt and underutilized assets. Crude's collapse in 2020, followed by sluggish recovery, left the rig market glutted and day rates suppressed. Valaris faced high leverage, minimal cash generation, and a need to divest or retire uncompetitive rigs. The balance sheet remained a drag on strategic flexibility through much of the early 2020s, limiting reinvestment and making shareholders vulnerable to further commodity shocks.
+The company emerged from the brutal 2014–2020 downturn weakened by debt and underutilized assets. Crude's collapse in 2020, followed by sluggish recovery, left the rig market glutted and day rates suppressed. Valaris faced high leverage, minimal cash generation, and a need to divest or retire uncompetitive rigs. The [balance sheet](/balance-sheet/) remained a drag on strategic flexibility through much of the early 2020s, limiting reinvestment and making shareholders vulnerable to further commodity shocks.
 
 ## Revenue and Margin Drivers
 
@@ -44,7 +44,7 @@ Valaris generates nearly all revenue from drilling day rates. In a tighter marke
 - **Average day rate** — price per day, negotiated rig-by-rig and sensitive to supply/demand
 - **Fleet composition** — mix of jack-ups, semis, and drillships, affecting average earning power
 
-Operating margins swing even more wildly. A rig costs roughly $5–10 million per year to operate (crew, maintenance, fuel, insurance), independent of utilization. In a strong market, a $400,000 day-rate rig earning 80% utilization generates $60+ million gross revenue and $40+ million operating profit annually; in a downturn, the same rig might earn only $10–20 million in revenue against similar fixed costs, producing breakeven or losses. This operating leverage means that small swings in day rates or utilization translate into outsized profit swings—and thus massive swings in stock price and enterprise value.
+[Operating margins](/operating-margin/) swing even more wildly. A rig costs roughly $5–10 million per year to operate (crew, maintenance, fuel, insurance), independent of utilization. In a strong market, a $400,000 day-rate rig earning 80% utilization generates $60+ million gross revenue and $40+ million operating profit annually; in a downturn, the same rig might earn only $10–20 million in revenue against similar fixed costs, producing breakeven or losses. This operating leverage means that small swings in day rates or utilization translate into outsized profit swings—and thus massive swings in stock price and [enterprise value](/enterprise-value/).
 
 ## Competitive Position and Industry Structure
 
@@ -54,15 +54,15 @@ Technological differentiation exists but is limited. A modern jack-up built to w
 
 ## Cyclicality and Downturn Exposure
 
-The offshore drilling market is among the most cyclical in energy services. A $50/bbl oil price may support minimal exploration activity; at $75+, capex budgets unlock and rig demand surges. The cycle typically spans 3–8 years: rising prices → operators drill more → rigs saturate, new builds added → oversupply and price collapse → rig stack, retirements, utilization recovery → eventual recovery and rate rebound. Valaris' earnings can swing from $500+ million EBITDA in a peak year to negative EBITDA or losses in a trough.
+The offshore drilling market is among the most cyclical in energy services. A $50/bbl oil price may support minimal exploration activity; at $75+, capex budgets unlock and rig demand surges. The cycle typically spans 3–8 years: rising prices → operators drill more → rigs saturate, new builds added → oversupply and price collapse → rig stack, retirements, utilization recovery → eventual recovery and rate rebound. Valaris' earnings can swing from $500+ million [EBITDA](/ebitda/) in a peak year to negative EBITDA or losses in a trough.
 
-The 2014–2020 downturn exposed Valaris' vulnerability. Oil crashed from $100+/bbl to $25; offshore capex plummeted; the rig fleet became severely oversupplied; and day rates fell by 70%+. The company burned cash, cut dividends, slashed guidance, and faced credit concerns. A 2020–2022 partial recovery, driven by OPEC cuts and demand rebound, lifted rates and utilization modestly, but chronic oversupply in the fleet and sluggish deepwater investment kept rates below cycle peaks. The company remains hostage to commodity swings and operator confidence.
+The 2014–2020 downturn exposed Valaris' vulnerability. Oil crashed from $100+/bbl to $25; offshore capex plummeted; the rig fleet became severely oversupplied; and day rates fell by 70%+. The company burned cash, cut [dividends](/dividend/), slashed guidance, and faced credit concerns. A 2020–2022 partial recovery, driven by OPEC cuts and demand rebound, lifted rates and utilization modestly, but chronic oversupply in the fleet and sluggish deepwater investment kept rates below cycle peaks. The company remains hostage to commodity swings and operator confidence.
 
 ## Financial Health and Capital Allocation
 
-Valaris emerged from the 2020 trough with elevated leverage (debt-to-EBITDA ratios in the 3x–5x range, depending on market conditions) and limited free cash flow. In downturns, the company is essentially in survival mode—generating enough cash to service debt and avoid covenant breaches, but not enough to invest, buy back shares, or pay dividends. In recovery periods, it prioritizes debt reduction, though slow deleveraging reflects the subdued underlying market.
+Valaris emerged from the 2020 trough with elevated leverage ([debt-to-EBITDA ratios](/debt-to-ebitda-ratio/) in the 3x–5x range, depending on market conditions) and limited [free cash flow](/free-cash-flow/). In downturns, the company is essentially in survival mode—generating enough cash to service debt and avoid covenant breaches, but not enough to invest, buy back shares, or pay dividends. In recovery periods, it prioritizes debt reduction, though slow deleveraging reflects the subdued underlying market.
 
-The company has pursued selective rig retirements and sales to reduce fleet drag, particularly older, uncompetitive units. Capital spending is minimal—maintenance capex keeps rigs in service, but new builds or acquisition of modern rigs is rare without a sustained price signal. Valaris has historically been a dividend payer, but suspensions or cuts are common during downturns. Shareholder returns remain cyclical and uncertain.
+The company has pursued selective rig retirements and sales to reduce fleet drag, particularly older, uncompetitive units. Capital spending is minimal—maintenance capex keeps rigs in service, but new builds or [acquisition](/acquisition/) of modern rigs is rare without a sustained price signal. Valaris has historically been a dividend payer, but suspensions or cuts are common during downturns. Shareholder returns remain cyclical and uncertain.
 
 ## Pressures and Risks
 
@@ -74,7 +74,7 @@ The company has pursued selective rig retirements and sales to reduce fleet drag
 
 **Energy transition risk** looms. Offshore drilling for oil is being gradually phased down in some regions; the UK, Denmark, and the EU are curtailing North Sea exploration. Long-term demand may gradually erode, though this plays out over decades and offshore supply is still essential to meet near-term oil demand.
 
-**Debt ceiling** limits strategic agility. High leverage constrains M&A, forces conservative capex, and leaves little room for error. A market downturn could trigger refinancing stress or covenant breaches.
+**[Debt ceiling](/debt-ceiling/)** limits strategic agility. High leverage constrains M&A, forces conservative capex, and leaves little room for error. A market downturn could trigger refinancing stress or covenant breaches.
 
 ## How to Research Valaris
 
@@ -82,7 +82,7 @@ Start with the [10-K](/wiki/10-k/) filing. Focus on fleet utilization, average d
 
 Examine debt maturity and covenant thresholds. Valaris' credit agreements typically include leverage and interest coverage covenants; breach risk rises during troughs. The balance sheet also shows historical rig retirements and capex—a proxy for management's view of fleet health and market durability.
 
-Study the customer base. Valaris serves Equinor, Shell, Chevron, BP, and others, but revenue concentration varies. A single major customer deferral can significantly impact guidance. Footnote disclosures on customer concentration are in the 10-K.
+Study the customer base. Valaris serves Equinor, Shell, Chevron, BP, and others, but revenue concentration varies. A single major customer deferral can significantly impact guidance. [Footnote disclosures](/footnote-disclosure/) on customer concentration are in the 10-K.
 
 Watch the earnings call for commentary on booking trends, competitive pricing, and offshore capex forecasts from major operators. Guidance on utilization and day rates—forward-looking and often vague—is critical but notoriously unreliable at inflection points. The offshore drilling market has a long lead time from oil price movement to rig booking; a spike in crude may take quarters to flow through to rig demand.
 

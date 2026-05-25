@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Rare Earths Americas is a mineral exploration company at an early stage of development, advancing a portfolio of heavy rare earth element properties in North America and South America. The company completed its initial public offering in May 2026 at $19 per share on the NYSEAMERICAN exchange, raising $63.3 million to fund its exploration and development activities.
+Rare Earths Americas is a mineral exploration company at an early stage of development, advancing a portfolio of heavy rare earth element properties in North America and South America. The company completed its [initial public offering](/initial-public-offering/) in May 2026 at $19 per share on the NYSEAMERICAN exchange, raising $63.3 million to fund its exploration and development activities.
 
 The business centers on identifying and developing deposits of rare earth elements, particularly through ionic clay deposits, which are sources of heavy rare earths (dysprosium, terbium, and other elements with high atomic numbers). These materials are essential for permanent magnets in wind turbines, electric vehicle motors, and defense applications—a strategic dependency that has driven renewed interest in domestic and near-shore rare earth production outside China, which historically controls much of global supply.
 
@@ -18,7 +18,7 @@ The business centers on identifying and developing deposits of rare earth elemen
 
 The company operates four primary projects. The Shiloh Project near Atlanta, Georgia represents its flagship domestic asset, positioned roughly 110 kilometers southwest of the city. In Brazil, REA holds three projects: the Alpha Project in Bahia State, the Constellation Project in the Poços de Caldas region of Minas Gerais, and the Homer Project in Goiás. Each is an early-stage exploration property; none has entered commercial production, and most exist in the permitting and development phase.
 
-The Brazilian ionic clay deposits are geologically analogous to successful deposits in Vietnam and other Southeast Asian countries, where ionic adsorption deposits have become a meaningful source of heavy rare earths. The choice of Brazil reflects both geology and geopolitics—a source outside Asia reduces supply-chain concentration risk for Western buyers.
+The Brazilian ionic clay deposits are geologically analogous to successful deposits in Vietnam and other Southeast Asian countries, where ionic adsorption deposits have become a meaningful source of heavy rare earths. The choice of Brazil reflects both geology and geopolitics—a source outside Asia reduces supply-chain [concentration risk](/concentration-risk/) for Western buyers.
 
 ## The Reality of Exploration Stage
 

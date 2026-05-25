@@ -42,7 +42,7 @@ Operating expenses are meaningful, reflecting the company's investment in data s
 
 The beauty and wellness market is vast but fragmented and intensely competitive. Oddity Tech competes against established mass-market brands (Estée Lauder, Coty), prestige beauty conglomerates (LVMH), and thousands of DTC and niche brands. Its advantage lies in its data and AI capabilities; its vulnerability is that AI-driven personalization and supply chain optimization are not proprietary moats—other well-capitalized competitors can replicate them.
 
-The company's choice to acquire existing brands rather than only build them from scratch is strategically sound for e-commerce: it avoids the long, expensive customer acquisition curves that plague pure startup brands. However, integrating acquisitions, maintaining brand identity while applying platform efficiencies, and avoiding the "corporate bureaucracy" feel that undermines DTC authenticity are persistent management challenges.
+The company's choice to acquire existing brands rather than only build them from scratch is strategically sound for e-commerce: it avoids the long, expensive customer acquisition curves that plague pure startup brands. However, integrating [acquisitions](/acquisition/), maintaining brand identity while applying platform efficiencies, and avoiding the "corporate bureaucracy" feel that undermines DTC authenticity are persistent management challenges.
 
 Oddity Tech benefits from the secular growth of online beauty shopping, the global prestige and accessibility of makeup and skincare, and rising consumer expectations for personalized, data-driven experiences. Headwinds include economic sensitivity (beauty is discretionary), shifting consumer preferences, and the risk that acquisitions underperform or that platform investments fail to deliver expected returns.
 
@@ -50,7 +50,7 @@ Oddity Tech benefits from the secular growth of online beauty shopping, the glob
 
 Execution risk is paramount. The company must prove that AI-driven personalization and operational efficiencies translate into sustainable unit economics across multiple brands—not just work for one flagship. Acquisition integration, particularly cultural fit and retention of creative talent, matters for brands that depend on authenticity and design.
 
-E-commerce beauty is also sensitive to shifts in consumer behavior. Changes in social media algorithms, influencer marketing dynamics, or beauty trends can dramatically affect brand desirability and customer acquisition costs. Supply chain disruptions, ingredient sourcing, and regulatory changes in cosmetics safety or claims substantiation add operational risk.
+E-commerce beauty is also sensitive to shifts in consumer behavior. Changes in social media algorithms, influencer marketing dynamics, or beauty trends can dramatically affect brand desirability and customer acquisition costs. Supply chain disruptions, ingredient sourcing, and regulatory changes in cosmetics safety or claims substantiation add [operational risk](/operational-risk/).
 
 Competition and commoditization are ever-present. As more brands adopt similar personalization technologies and direct-to-consumer channels, the differentiation that Oddity Tech relies on may erode, pushing the industry toward more price-sensitive, volume-driven competition.
 
@@ -66,5 +66,5 @@ Monitor broader e-commerce and beauty trends, including social media dynamics, i
 
 Understand the company's acquisition strategy and integration track record. Each brand acquisition is a bet on both the asset itself and the company's ability to apply its platform effectively; success or failure materially affects long-term value creation.
 
-Finally, consider the competitive and macroeconomic environment. Beauty and wellness e-commerce can be highly sensitive to consumer spending trends, and a recession or shift in discretionary spending patterns could pressure the entire sector.
+Finally, consider the competitive and macroeconomic environment. Beauty and wellness e-commerce can be highly sensitive to consumer spending trends, and a [recession](/recession/) or shift in [discretionary spending](/discretionary-spending/) patterns could pressure the entire sector.
 

@@ -12,7 +12,7 @@ handwritten: true
 
 OIO Group is a Singapore-incorporated [public company](/wiki/public-company/) that operates as a specialty automotive manufacturer and mobility platform builder. The company is focused on ultra-luxury and rare automotive marques, with its principal asset being De Tomaso, an iconic Italian automotive nameplate renowned for engineered, low-volume, hand-built vehicles targeting serious collectors and enthusiasts.
 
-The business emerged through a recapitalization. OIO Group (formerly ESGL Holdings Limited) completed a business combination with De Tomaso Automobili Holdings in early 2026, gaining control of the De Tomaso brand and its engineering infrastructure. The combination positioned the company as a holding vehicle for building and operating specialty automotive businesses with deep heritage and engineering rigor.
+The business emerged through a [recapitalization](/recapitalization/). OIO Group (formerly ESGL Holdings Limited) completed a [business combination](/business-combination-purchase/) with De Tomaso Automobili Holdings in early 2026, gaining control of the De Tomaso brand and its engineering infrastructure. The combination positioned the company as a holding vehicle for building and operating specialty automotive businesses with deep heritage and engineering rigor.
 
 De Tomaso itself traces back decades as a marque known for exotic, bespoke automobiles. The brand has historically appealed to collectors seeking rare, hand-crafted vehicles with distinctive engineering. Under OIO's ownership, the strategy centers on leveraging this heritage while expanding into carefully curated collector-focused programs and specialized platforms—rather than pursuing mass production.
 
@@ -40,5 +40,5 @@ A meaningful constraint on growth is the voluntary constraint on production itse
 
 Investors examining OIO should review the [10-K](/wiki/10-k/) for capital expenditure plans, unit pre-orders or production pipelines, and gross margin assumptions on low-volume production. Watch for quarterly earnings updates tracking vehicle unit sales, average transaction value, and cash burn. The Singapore listing brings some foreign private issuer considerations; review regulatory filings on the SEC EDGAR system under CIK 1957538 for the most current financial disclosures.
 
-Key metrics to track include orders-to-production conversion, working capital efficiency in pre-order models, and whether engineering partnerships are materializing as a secondary revenue stream.
+Key metrics to track include orders-to-production conversion, [working capital efficiency](/working-capital-efficiency/) in pre-order models, and whether engineering partnerships are materializing as a secondary revenue stream.
 

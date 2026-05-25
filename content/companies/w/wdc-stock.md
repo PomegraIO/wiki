@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Western Digital Corporation manufactures hard disk drives—the spinning magnetic platters that remain the largest-capacity, cheapest-per-gigabyte way to store data at scale. Though solid-state storage has displaced hard drives from consumer laptops and phones, the company dominates the markets where capacity, cost, and reliability matter most: cloud data centers, video surveillance systems, backup appliances, and the mechanical hard drives still used in desktop and enterprise computers. Western Digital is a [public company](/wiki/public-company/) (NASDAQ: WDC, SEC CIK 106040) and one of only two major independent HDD makers left in the world.
+Western Digital Corporation manufactures hard disk drives—the spinning magnetic platters that remain the largest-capacity, cheapest-per-gigabyte way to store data at scale. Though solid-state storage has displaced hard drives from consumer laptops and phones, the company dominates the markets where capacity, cost, and reliability matter most: cloud data centers, video surveillance systems, backup appliances, and the mechanical hard drives still used in desktop and enterprise computers. Western Digital is a [public company](/wiki/public-company/) ([NASDAQ](/nasdaq/): WDC, SEC CIK 106040) and one of only two major independent HDD makers left in the world.
 
 ## How Western Digital came to be
 
@@ -56,7 +56,7 @@ This dynamic has another consequence: Western Digital cannot exit a market easil
 
 ## The SanDisk integration and spin-off
 
-Western Digital's 2016 acquisition of SanDisk was strategically ambitious but operationally complex. NAND flash memory—the technology behind SSDs and USB drives—is a different beast: it is not mechanical, it scales manufacturing differently, it faces different competitors (SK Hynix, Samsung, Kioxia, Micron), and it is less cyclical because the technology roadmap is more certain (shrinking transistor sizes follows Moore's Law). SSDs have taken the lion's share of the PC market from HDDs, but enterprise data centers still rely heavily on spinning disks for cost-per-capacity.
+Western Digital's 2016 [acquisition](/acquisition/) of SanDisk was strategically ambitious but operationally complex. NAND flash memory—the technology behind SSDs and USB drives—is a different beast: it is not mechanical, it scales manufacturing differently, it faces different competitors (SK Hynix, Samsung, Kioxia, Micron), and it is less cyclical because the technology roadmap is more certain (shrinking transistor sizes follows Moore's Law). SSDs have taken the lion's share of the PC market from HDDs, but enterprise data centers still rely heavily on spinning disks for cost-per-capacity.
 
 Combining HDD and NAND into one company created conflict. HDD customers want WDC's HDD business to thrive; NAND customers have different needs and margins. The capital allocation decisions are different: HDD fabs have long lives and are sensitive to cyclical utilization, while NAND fabs need constant capex to stay on the technology curve. The organizational pressures diverged.
 

@@ -23,7 +23,7 @@ The company's software development and systems integration segment serves enterp
 
 ## Market Position and Dynamics
 
-APEX competes in a fragmented staffing and services sector against larger public firms, regional specialists, and increasingly, direct-hire and gig-economy platforms. The company's leverage depends on maintaining client relationships, securing contract renewals, and filling seats consistently. Earnings are sensitive to hiring cycles, technology spending volatility, and wage inflation; working capital requirements—particularly accounts receivable and payroll float—materially affect cash flow.
+APEX competes in a fragmented staffing and services sector against larger public firms, regional specialists, and increasingly, direct-hire and gig-economy platforms. The company's leverage depends on maintaining client relationships, securing contract renewals, and filling seats consistently. Earnings are sensitive to hiring cycles, technology spending volatility, and wage [inflation](/inflation/); working capital requirements—particularly [accounts receivable](/accounts-receivable/) and payroll float—materially affect cash flow.
 
 ## At a Glance
 

@@ -25,13 +25,13 @@ handwritten: true
 
 </aside>
 
-L3Harris Technologies is one of the largest defense contractors in the United States, operating across military communications, electronic warfare systems, space and intelligence-surveillance-reconnaissance platforms, and rocket propulsion. The company was formed through the 2019 merger of L3 Technologies and Harris Corporation, two established defense primes that combined their overlapping strengths into a formidable player in the defense industrial base.
+L3Harris Technologies is one of the largest defense contractors in the United States, operating across military communications, electronic warfare systems, space and intelligence-surveillance-reconnaissance platforms, and rocket propulsion. The company was formed through the 2019 [merger](/merger/) of L3 Technologies and Harris Corporation, two established defense primes that combined their overlapping strengths into a formidable player in the defense industrial base.
 
 ## A Merger Born from Logic
 
-The 2019 combination made practical sense. Harris had long been dominant in military communications and RF (radio frequency) systems—equipment that sits at the heart of every branch's communications infrastructure. L3, which had grown through acquisition since its 1997 founding from spun-off Lockheed Martin assets, held strong positions in electronic warfare, surveillance systems, and security solutions. Both companies had modest space divisions. By joining forces, L3Harris gained scale, reduced duplication, and created a business with balanced exposure across defense segments.
+The 2019 combination made practical sense. Harris had long been dominant in military communications and RF (radio frequency) systems—equipment that sits at the heart of every branch's communications infrastructure. L3, which had grown through [acquisition](/acquisition/) since its 1997 founding from spun-off Lockheed Martin assets, held strong positions in electronic warfare, surveillance systems, and security solutions. Both companies had modest space divisions. By joining forces, L3Harris gained scale, reduced duplication, and created a business with balanced exposure across defense segments.
 
-The merger closed in June 2019, and the combined entity adopted the LHX ticker on the New York Stock Exchange. The company is organized into four primary business segments: **Communications Systems**, **Integrated Mission Systems**, **Space and Airborne Systems**, and **Quantum Science**. This structure reflects where the company concentrates its engineering and manufacturing effort.
+The merger closed in June 2019, and the combined entity adopted the LHX ticker on the [New York Stock Exchange](/new-york-stock-exchange/). The company is organized into four primary business segments: **Communications Systems**, **Integrated Mission Systems**, **Space and Airborne Systems**, and **Quantum Science**. This structure reflects where the company concentrates its engineering and manufacturing effort.
 
 ## The Business Segments
 

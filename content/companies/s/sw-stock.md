@@ -15,7 +15,7 @@ handwritten: true
 
 Smurfit Westrock plc is one of the world's largest manufacturers of paper-based packaging and containerboard. The company was born in July 2024 from the combination of Smurfit Kappa and WestRock—two previously independent but complementary packaging giants—creating a producer with formidable scale across the developed and emerging markets. Operating in 40 countries with over 100,000 employees, the company serves a broad customer base in food and beverage, e-commerce, retail, automotive, and industrial sectors through highly integrated operations spanning from virgin and recycled fiber sourcing to finished corrugated containers and specialty packaging formats.
 
-The company trades on the New York Stock Exchange under the ticker SW (with a secondary listing on the London Stock Exchange as SWR) and is domiciled in Ireland, a structure reflecting Smurfit Kappa's legacy. The merger valued the combined entity at approximately $12.7 billion, with Smurfit Kappa shareholders holding roughly 50.4% and WestRock shareholders holding 49.6%.
+The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker SW (with a secondary listing on the [London Stock Exchange](/london-stock-exchange/) as SWR) and is domiciled in Ireland, a structure reflecting Smurfit Kappa's legacy. The [merger](/merger/) valued the combined entity at approximately $12.7 billion, with Smurfit Kappa shareholders holding roughly 50.4% and WestRock shareholders holding 49.6%.
 
 ## How does the business work?
 
@@ -40,9 +40,9 @@ Smurfit Westrock faces a durable but not unassailable competitive moat:
 
 **Scale and vertical integration** are formidable. Few competitors can match the company's footprint or fiber-to-box continuity. International Paper and DS Smith are the primary rivals, but neither commands Smurfit Westrock's geographic diversity or integrated mill base.
 
-**Market cyclicality** is a serious headwind. Corrugated packaging demand is tied to consumer goods consumption, e-commerce volumes, and manufacturing activity. A recession or a slowdown in e-commerce growth directly hits order volumes and pricing power. The containerboard market is also subject to supply-demand swings; an oversupply situation can force price concessions across the industry.
+**Market cyclicality** is a serious headwind. Corrugated packaging demand is tied to consumer goods consumption, e-commerce volumes, and manufacturing activity. A [recession](/recession/) or a slowdown in e-commerce growth directly hits order volumes and pricing power. The containerboard market is also subject to supply-demand swings; an oversupply situation can force price concessions across the industry.
 
-**Feedstock and energy costs** are volatile. Containerboard manufacturing is both fiber-intensive and energy-intensive. Spikes in natural gas, electricity, or recovered fiber prices directly compress margins if the company cannot pass costs through to customers quickly. Labor costs in developed markets (North America, Europe) also pressure margins in a labor-intensive converting operation.
+**Feedstock and energy costs** are volatile. Containerboard manufacturing is both fiber-intensive and energy-intensive. Spikes in [natural gas](/natural-gas/), electricity, or recovered fiber prices directly compress margins if the company cannot pass costs through to customers quickly. Labor costs in developed markets (North America, Europe) also pressure margins in a labor-intensive converting operation.
 
 **Technological and sustainability transition risks** loom. Customers increasingly demand reduced plastic usage and recycled content in packaging; while Smurfit Westrock has invested in sustainability credentials, competing fully on this front requires ongoing capital spend. Alternative packaging materials (biodegradable plastics, plant-based films) may eventually erode demand for traditional corrugated, though the timeframe remains uncertain.
 
@@ -54,8 +54,8 @@ Start with the company's [10-K](/wiki/10-k/) filing with the SEC, which details 
 
 Quarterly earnings calls are essential. Management provides real-time commentary on order trends, pricing dynamics, and synergy realization. Key metrics to track include:
 
-- **EBITDA and adjusted EBITDA**: Operating cash generation, which is the true driver of shareholder value.
-- **Free cash flow**: Capex is capital-intensive (often $1–1.5 billion annually), so free cash flow (operating cash flow minus capex) is more meaningful than net income for evaluating cash available for dividends or debt reduction.
+- **[EBITDA](/ebitda/) and adjusted EBITDA**: Operating cash generation, which is the true driver of shareholder value.
+- **[Free cash flow](/free-cash-flow/)**: Capex is capital-intensive (often $1–1.5 billion annually), so free cash flow (operating cash flow minus capex) is more meaningful than net income for evaluating cash available for [dividends](/dividend/) or debt reduction.
 - **Leverage (debt-to-EBITDA)**: Given the debt incurred to finance the merger, debt reduction is a priority. Track progress toward the company's stated leverage targets.
 - **Containerboard price indices**: Industry publications and company disclosures track containerboard pricing; rising prices signal pricing power and margin expansion.
 - **Synergy realization**: The company has guided to $400 million in run-rate synergies; investor confidence partly depends on hitting these targets on schedule.

@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-Yubo International Biotech Ltd (YBGJ, CIK 895464) is a privately-controlled biotechnology company headquartered in China that operates in the regenerative medicine and wellness space, primarily through stem-cell-related research and products. The company trades on over-the-counter (OTC) markets in the United States, which means it operates outside the main exchanges and faces substantially fewer regulatory and disclosure requirements than [publicly traded](/wiki/public-company/) firms on NASDAQ or the NYSE. This reduced visibility makes detailed information harder to come by, and investors should approach OTC biotech plays with particular caution.
+Yubo International Biotech Ltd (YBGJ, CIK 895464) is a privately-controlled biotechnology company headquartered in China that operates in the regenerative medicine and wellness space, primarily through stem-cell-related research and products. The company trades on over-the-counter (OTC) markets in the United States, which means it operates outside the main exchanges and faces substantially fewer regulatory and disclosure requirements than [publicly traded](/wiki/public-company/) firms on [NASDAQ](/nasdaq/) or the NYSE. This reduced visibility makes detailed information harder to come by, and investors should approach OTC biotech plays with particular caution.
 
 ## What is Yubo International's business focus?
 
 The company's stated focus is stem-cell science and wellness products, two areas that have attracted both serious research investment and speculative interest over the past two decades. Stem-cell therapy — the use of undifferentiated cells to repair or regenerate damaged tissues — remains largely experimental in most applications, though a small number of treatments have moved into clinical use. Wellness products, a broader category that can encompass nutritional supplements, beauty treatments, and anti-aging formulations, sit at the intersection of health claims and consumer goods marketing, where regulatory clarity varies widely across jurisdictions.
 
-China's regulatory environment for biotech and health products differs materially from that in the United States or Europe, offering both opportunities for rapid development and risks of lax standards. Companies operating in that space often pursue a dual strategy: developing or distributing products domestically in China while raising capital from foreign investors through U.S. OTC listings or private placements.
+China's regulatory environment for biotech and health products differs materially from that in the United States or Europe, offering both opportunities for rapid development and risks of lax standards. Companies operating in that space often pursue a dual strategy: developing or distributing products domestically in China while raising capital from foreign investors through U.S. OTC listings or [private placements](/private-placement/).
 
 ## How does Yubo make revenue?
 
@@ -29,7 +29,7 @@ This opacity is itself a risk signal. Investors in larger biotech firms can trac
 
 **Limited access to capital:** OTC-listed firms face barriers to raising money. They cannot easily do registered public offerings, and major institutional investors are often restricted by policy from owning OTC stocks. This leaves companies reliant on private placements, friends-and-family rounds, and dilutive financing — all of which increase the risk that existing shareholders' stakes will be heavily watered down.
 
-**Regulatory risk:** China's approach to biotech regulation has become more stringent in recent years, with tighter oversight of clinical claims and consumer health products. A company making stem-cell or anti-aging claims faces potential enforcement action if those claims are deemed unsubstantiated. The U.S. Securities and Exchange Commission and the FDA have also stepped up scrutiny of OTC Chinese biotech stocks, particularly those making aggressive medical claims to U.S. investors.
+**Regulatory risk:** China's approach to biotech regulation has become more stringent in recent years, with tighter oversight of clinical claims and consumer health products. A company making stem-cell or anti-aging claims faces potential enforcement action if those claims are deemed unsubstantiated. The U.S. [Securities and Exchange Commission](/securities-and-exchange-commission/) and the FDA have also stepped up scrutiny of OTC Chinese biotech stocks, particularly those making aggressive medical claims to U.S. investors.
 
 **Intellectual property questions:** Stem-cell research is a globally competitive field with significant patent activity. A small Chinese company's ability to own or license defensible IP in this space is unclear and would require examination of actual patent filings and research partnerships. Many biotech companies operating in Asia either license technology from larger Western firms or operate in regions where IP protection is weaker.
 
@@ -39,7 +39,7 @@ This opacity is itself a risk signal. Investors in larger biotech firms can trac
 
 Anyone considering an OTC biotech stock should demand transparency that these companies rarely provide. At a minimum, an investor would want to see:
 
-- **Audited financial statements** prepared under U.S. GAAP or IFRS, with clear revenue recognition and cost breakdowns.
+- **Audited financial statements** prepared under U.S. GAAP or IFRS, with clear [revenue recognition](/revenue-recognition/) and cost breakdowns.
 - **Clinical or preclinical data** if any product is sold or licensed as a medical treatment — not just marketing copy but actual published results or regulatory approvals.
 - **Management background** documented with verifiable credentials and prior track records.
 - **A clear cap table** showing who owns what percentage and what capital has been raised, when, and on what terms.

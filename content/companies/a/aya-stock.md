@@ -24,7 +24,7 @@ handwritten: true
 
 Aya Gold & Silver operates as a precious metals mining company with its operations anchored in Morocco, one of Africa's most mining-friendly jurisdictions. The company's flagship asset is the Zgounder mine, a rare silver-only operation that produces silver doré from a new processing facility. Located along the Anti-Atlas fault zone—a geologically rich but historically underexplored region—Aya is positioned as a systematic explorer using data-driven methods to identify and develop deposits where large-scale competition has been limited.
 
-The company began trading on the Nasdaq in May 2026, launching its U.S. public profile after earlier trading on the Toronto Stock Exchange. Aya's value proposition rests on two pillars: near-term silver production from Zgounder and medium-term expansion through its Boumadine polymetallic project, currently in feasibility study. Morocco itself offers operational advantages—access to renewable energy, strong mining infrastructure, and a stable regulatory environment for exploration and extraction.
+The company began trading on the [Nasdaq](/nasdaq/) in May 2026, launching its U.S. public profile after earlier trading on the [Toronto Stock Exchange](/toronto-stock-exchange/). Aya's value proposition rests on two pillars: near-term silver production from Zgounder and medium-term expansion through its Boumadine polymetallic project, currently in feasibility study. Morocco itself offers operational advantages—access to renewable energy, strong mining infrastructure, and a stable regulatory environment for exploration and extraction.
 
 ## Growth Along the Anti-Atlas
 

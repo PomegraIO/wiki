@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Wallbox N.V. designs and manufactures electric-vehicle charging hardware and software for residential and commercial customers across Europe, North America, and other markets. The company is based in Barcelona, Spain, and went public on the NASDAQ in July 2021 via a merger with Kandi Technologies' special-purpose acquisition company (SPAC). It sits in a fragmented, rapidly growing corner of the energy transition — the last-mile infrastructure that allows EV owners to charge at home or at work — but the path to profitability remains unproven, and the company continues to burn cash despite revenue growth.
+Wallbox N.V. designs and manufactures electric-vehicle charging hardware and software for residential and commercial customers across Europe, North America, and other markets. The company is based in Barcelona, Spain, and went public on the [NASDAQ](/nasdaq/) in July 2021 via a [merger](/merger/) with Kandi Technologies' [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC). It sits in a fragmented, rapidly growing corner of the energy transition — the last-mile infrastructure that allows EV owners to charge at home or at work — but the path to profitability remains unproven, and the company continues to burn cash despite revenue growth.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,13 +41,13 @@ The company's path out of this depends on achieving operating leverage: higher v
 
 ## Subsidy dependency and regulatory risk
 
-Wallbox's growth is tightly coupled to government subsidies. In Europe, the United States, and other developed markets, EV adoption has been driven by purchase incentives for the vehicle itself, but also by rebates and grants for installing chargers. Wallbox's addressable market shrinks when these subsidies end or phase down, and grows when new incentives roll out. The U.S. Inflation Reduction Act, for example, created a window for charger sales through tax credits and infrastructure funding that benefited the company, but government support can reverse or be redirected.
+Wallbox's growth is tightly coupled to government subsidies. In Europe, the United States, and other developed markets, EV adoption has been driven by purchase incentives for the vehicle itself, but also by rebates and grants for installing chargers. Wallbox's addressable market shrinks when these subsidies end or phase down, and grows when new incentives roll out. The U.S. [Inflation](/inflation/) Reduction Act, for example, created a window for charger sales through tax credits and infrastructure funding that benefited the company, but government support can reverse or be redirected.
 
 Regulatory changes also shape the market directly. Standards for charger design and safety vary by region and change over time. The shift from alternating current (AC) to direct current (DC) chargers, and the move toward higher-power charging, require continuous investment in new hardware designs. Wallbox has to monitor and adapt to these shifts across every market it serves, a coordination burden that a company with a larger portfolio of energy products might spread more easily.
 
 ## Revenue concentration and geographic exposure
 
-Wallbox derives a large share of revenue from Europe, particularly Spain and other Western European countries, where EV adoption and charging infrastructure investment have been strongest. Expansion into North America and other regions is a stated priority, but it requires building local teams, certifications, and distribution partnerships — a long and expensive process. The company is also exposed to the customer concentration risk typical of equipment suppliers: a small number of large installers, utilities, or fleet operators can account for outsized revenue shares, and losing one customer or contract can move the top line noticeably.
+Wallbox derives a large share of revenue from Europe, particularly Spain and other Western European countries, where EV adoption and charging infrastructure investment have been strongest. Expansion into North America and other regions is a stated priority, but it requires building local teams, certifications, and distribution partnerships — a long and expensive process. The company is also exposed to the customer [concentration risk](/concentration-risk/) typical of equipment suppliers: a small number of large installers, utilities, or fleet operators can account for outsized revenue shares, and losing one customer or contract can move the top line noticeably.
 
 ## How to research Wallbox
 

@@ -71,13 +71,13 @@ Revenue across J&J derives primarily from sales to healthcare systems, hospitals
 
 **Biosimilar Competition:** As patents on large-molecule drugs (biologics) expire, cheaper biosimilar alternatives enter the market. This dynamic is still unfolding but will compress pricing in immunology and oncology.
 
-**Acquisition Integration:** J&J has grown partly through acquisitions. Integrating acquired companies, retaining talent, and realizing synergies are difficult and risky. Failed M&A dilutes shareholder value.
+**Acquisition Integration:** J&J has grown partly through [acquisitions](/acquisition/). Integrating acquired companies, retaining talent, and realizing synergies are difficult and risky. Failed M&A dilutes shareholder value.
 
 **Medical Device Competition:** Device markets are fragmented, and competition from smaller, nimble competitors and well-funded startups is intense. Hospital consolidation and group purchasing organizations push for volume discounts, pressuring margins.
 
 ## How should you research Johnson & Johnson?
 
-Start with the annual report (10-K filing with the SEC), focusing on the pipeline of drugs in clinical trials, the revenue contribution and patent expiration dates of the largest medicines, and the margins by segment. Pay close attention to R&D spending as a percentage of sales and the company's acquisition activity. 
+Start with the annual report (10-K filing with the SEC), focusing on the pipeline of drugs in clinical trials, the revenue contribution and patent [expiration dates](/expiration-contracts/) of the largest medicines, and the margins by segment. Pay close attention to R&D spending as a percentage of sales and the company's acquisition activity. 
 
 Follow earnings calls quarterly to hear management discuss new approvals, trial results, and competitive dynamics. The company typically provides guidance on revenue and earnings growth and discusses near-term catalysts.
 
@@ -85,8 +85,8 @@ Review the pipeline disclosure. J&J regularly publishes a clinical pipeline summ
 
 Track [analyst consensus](/wiki/10-k/) on key products and upcoming approvals. A drug approval that comes earlier or later than expected can move the stock significantly.
 
-For long-term investors drawn to the [dividend-aristocrats](/wiki/dividend-aristocrats/) appeal, monitor the dividend payout ratio (earnings per share divided into dividends per share). A ratio above 60% may signal that future growth is constrained; below 40%, there is room for dividend growth.
+For long-term investors drawn to the [dividend-aristocrats](/wiki/dividend-aristocrats/) appeal, monitor the [dividend payout ratio](/dividend-payout-ratio/) ([earnings per share](/earnings-per-share/) divided into [dividends](/dividend/) per share). A ratio above 60% may signal that future growth is constrained; below 40%, there is room for dividend growth.
 
 Understand the business mix. With the consumer health spinoff, J&J is now a pure-play on pharmaceutical and device innovation. That means performance is more tightly tied to pipeline success and healthcare spending growth—less buffered by defensive consumer products.
 
-Finally, watch for major [spinoff](/wiki/spinoff/) announcements or structural changes. J&J has shown willingness to reorganize when market conditions or strategic thinking shift. Future divestitures or splits could reshape the investment thesis.
+Finally, watch for major [spinoff](/wiki/spinoff/) announcements or structural changes. J&J has shown willingness to reorganize when market conditions or strategic thinking shift. Future [divestitures](/divestiture/) or splits could reshape the investment thesis.

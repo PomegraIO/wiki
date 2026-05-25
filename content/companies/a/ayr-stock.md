@@ -16,7 +16,7 @@ Founded in 2004, Aircastle grew rapidly through the 2000s and 2010s, becoming a 
 
 > "As of September 30, 2019, Aircastle owns and managed 277 aircraft leased to 87 lessees located in 48 countries."
 
-The aircraft leasing business is cyclical and sensitive to airline profitability, fuel prices, and industry capacity needs. Aircastle navigated boom periods fueled by low-cost carrier expansion, the disruptions of recession, and technological shifts that increased demand for more fuel-efficient narrow-body jets over older wide-body fleets. The company faced residual value risk—the uncertainty of what leased aircraft would be worth when leases ended—and concentration risk from its exposure to a limited number of major airline lessees.
+The aircraft leasing business is cyclical and sensitive to airline profitability, fuel prices, and industry capacity needs. Aircastle navigated boom periods fueled by low-cost carrier expansion, the disruptions of [recession](/recession/), and technological shifts that increased demand for more fuel-efficient narrow-body jets over older wide-body fleets. The company faced residual value risk—the uncertainty of what leased aircraft would be worth when leases ended—and [concentration risk](/concentration-risk/) from its exposure to a limited number of major airline lessees.
 
 In November 2019, Aircastle agreed to be acquired by Japanese financial conglomerates Marubeni and Mizuho Leasing at $32 per share, valuing the company at $7.4 billion. The transaction closed on March 27, 2020, ending the company's nearly 14-year history as a publicly traded [NYSE](/wiki/stock-exchange/) company. As a private subsidiary of its Japanese owners, Aircastle continued aircraft leasing operations but withdrew from public capital markets.
 

@@ -23,7 +23,7 @@ The company structures its offerings around the core shift reshaping the industr
 
 ## Market Position
 
-AUMOVIO was spun out of Continental AG and listed on the Frankfurt Stock Exchange in 2025, reflecting investor demand for pure-play exposure to the SDV (software-defined vehicle) trend. The automotive supplier universe remains capital-intensive and cyclical, but AUMOVIO's focus on the highest-margin, fastest-evolving segment of the stack—software, integration, and autonomous systems rather than commodity components—positions it to benefit from structural demand as legacy OEMs and new entrants alike race to electrify and automate their fleets.
+AUMOVIO was spun out of Continental AG and listed on the Frankfurt [Stock Exchange](/stock-exchange/) in 2025, reflecting investor demand for pure-play exposure to the SDV (software-defined vehicle) trend. The automotive supplier universe remains capital-intensive and cyclical, but AUMOVIO's focus on the highest-margin, fastest-evolving segment of the stack—software, integration, and autonomous systems rather than commodity components—positions it to benefit from structural demand as legacy OEMs and new entrants alike race to electrify and automate their fleets.
 
 ## At a Glance
 
