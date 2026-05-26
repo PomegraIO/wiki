@@ -34,13 +34,13 @@ Zebra's core strength lies in industrial-grade hardware married to software that
 
 Revenue comes from three primary buckets. Hardware sales of scanners and computers remain the foundation: a warehouse operator purchasing dozens of barcode readers, a hospital outfit replacing patient-tracking terminals, a delivery fleet equipping drivers with rugged handhelds. Software and services subscriptions have grown steadily, including the Zebra Savanna cloud platform and mobile enterprise applications. Services cover support contracts, consulting, integration, and the increasingly important domain of data analytics on top of collected asset data.
 
-The typical customer is not a small business. Zebra works with large retailers (managing inventory across thousands of stores), global logistics providers (tracking shipments across continents), healthcare networks (controlling pharmaceutical and medical device flows), manufacturers (optimizing production lines), and government agencies. A new Walmart, Amazon fulfillment center, or hospital system purchase can be a seven-figure deal.
+The typical customer is not a small business. Zebra works with large retailers (managing inventory across thousands of stores), global logistics providers (tracking shipments across continents), healthcare networks (controlling pharmaceutical and medical device flows), manufacturers (optimizing production lines), and government agencies. A new [Walmart](/wmt-stock/), Amazon fulfillment center, or hospital system purchase can be a seven-figure deal.
 
 ## History and Market Position
 
 Zebra was founded in 1982 by Jerry Swartz in Chicago as a manufacturer of bar-code label printers. The company went public in 1991. Through the 1990s and 2000s, it became the dominant brand in barcode printing and mobile data capture. The business was steady, profitable, and narrow—a specialist in warehouse and retail automation.
 
-Two major [acquisitions](/acquisition/) reshaped Zebra in the 2010s. In 2014, Zebra acquired Xplore, a mobile computer maker, broadening its portfolio beyond printers. More transformatively, in 2018, Zebra paid approximately $4.6 billion for Xplore rival Motorola Solutions' enterprise mobility division. This deal added Motorola's mobile computers, mobile devices, and software platforms—a purchase that roughly doubled Zebra's size and shifted it from a hardware manufacturer toward a systems provider.
+Two major [acquisitions](/acquisition/) reshaped Zebra in the 2010s. In 2014, Zebra acquired Xplore, a mobile computer maker, broadening its portfolio beyond printers. More transformatively, in 2018, Zebra paid approximately $4.6 billion for Xplore rival [Motorola Solutions](/msi-stock/)' enterprise mobility division. This deal added Motorola's mobile computers, mobile devices, and software platforms—a purchase that roughly doubled Zebra's size and shifted it from a hardware manufacturer toward a systems provider.
 
 Today Zebra holds perhaps 30% to 40% of the global market for industrial barcode and mobile-computing solutions, with no single competitor commanding more than half its share. It remains the category leader, though regional and vertical-specific rivals exist.
 
@@ -72,7 +72,7 @@ The services and software segment is growing faster than hardware, which is typi
 
 **Technology obsolescence.** Mobile-computing standards evolve. Android and iOS have become standard in many enterprise settings, and Zebra's proprietary operating systems have given ground to these platforms. The company has adapted, but the shift reduces its control over the user experience and increases competition from broader mobile-device makers.
 
-**Competitive pressure from broad incumbents.** Apple, Samsung, and other device makers are increasingly targeting enterprise supply-chain use cases. They bring scale, brand, and capital. While their devices are not purpose-built for industrial use, improvements in ruggedness and battery life narrow the gap. Zebra has held its ground, but this is a structural threat.
+**Competitive pressure from broad incumbents.** [Apple](/aapl-stock/), Samsung, and other device makers are increasingly targeting enterprise supply-chain use cases. They bring scale, brand, and capital. While their devices are not purpose-built for industrial use, improvements in ruggedness and battery life narrow the gap. Zebra has held its ground, but this is a structural threat.
 
 **Dependence on large customers.** A few major retailers and logistics providers account for a material fraction of revenue. Loss of a major contract or a customer shifting to a competitor would be painful. Customer [concentration risk](/concentration-risk/) is real.
 
@@ -80,7 +80,7 @@ The services and software segment is growing faster than hardware, which is typi
 
 **Pricing pressure.** As mobile computing becomes more commoditized and software-as-a-service grows more common, customers expect cloud software to be cheap or bundled. Zebra must balance the desire to grow share with the risk of eroding margins.
 
-**Supply-chain dependencies.** Zebra relies on semiconductor and component suppliers, like all hardware makers. Chip shortages or logistics disruptions can delay shipments and disappoint customers.
+**Supply-chain dependencies.** Zebra relies [on semiconductor](/on-stock/) and component suppliers, like all hardware makers. Chip shortages or logistics disruptions can delay shipments and disappoint customers.
 
 ## How to Research Zebra
 

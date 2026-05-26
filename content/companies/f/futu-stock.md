@@ -31,7 +31,7 @@ This creates a power-law outcome: the biggest platforms have the lowest cost per
 
 The company publishes its revenue in three segments: brokerage (trading commissions, interest on cash and margin balances, fees for data and premium features); wealth management (fees for advisory and portfolio services to high-net-worth clients); and financial services (a catch-all including investment banking, cryptocurrency trading, and lending). Brokerage is the largest and fastest-growing segment, driven by trading volume and user growth.
 
-The unit economics of the brokerage business are interesting: Futu earns very little per transaction (commissions on most trades are zero), but it earns a spread on the overnight interest it pays on customer cash and what it earns on that cash in the money market. If a user keeps a thousand dollars on the platform, and Futu pays them nearly 0 percent while earning 5 percent elsewhere, the company captures that spread. Scaled across millions of users and billions of dollars in aggregate balances, that spread becomes material revenue. The company also makes money from the lending side: when a user borrows to buy stocks on margin, Futu charges an interest rate (ranging from low single digits to double digits, depending on the jurisdiction).
+The unit economics of the brokerage business are interesting: Futu earns very little per transaction (commissions on most trades are zero), but it earns a spread on the overnight interest it pays on customer cash and what it earns on that cash in the money market. If a user keeps a thousand dollars on the platform, and Futu pays them nearly 0 percent while earning 5 percent elsewhere, the company captures that spread. Scaled across millions of users and billions of dollars in aggregate balances, that spread becomes material revenue. The company also makes money from the lending side: when a user borrows to buy stocks on margin, Futu charges an [interest rate](/interest-rate/) (ranging from low single digits to double digits, depending on the jurisdiction).
 
 ## The competitive landscape and moat questions
 
@@ -43,7 +43,7 @@ The company's real moat is network effects: the larger the user base, the more v
 
 Futu's biggest long-term risk is regulatory. The company operates in Hong Kong (relatively stable) and has exposure to China (where policy can shift quickly and substantially). If China tightened capital-account rules or restricted outbound investment, demand for access to overseas markets would evaporate, and a significant portion of Futu's user base would lose its primary use case. Similarly, if leverage regulations tighten or margin lending becomes restricted, the company's lending revenue would decline.
 
-There is also concentration risk: if a small number of stocks or cryptocurrencies drive a disproportionate amount of trading volume, and those securities fall out of favour, revenue can decline sharply. The company has also been exposed to cryptocurrency volatility: its crypto-trading business is profitable in bull markets but volatile.
+There is also [concentration risk](/concentration-risk/): if a small number of stocks or cryptocurrencies drive a disproportionate amount of trading volume, and those securities fall out of favour, revenue can decline sharply. The company has also been exposed to cryptocurrency volatility: its crypto-trading business is profitable in [bull markets](/bull-market/) but volatile.
 
 ## How to research Futu Holdings
 

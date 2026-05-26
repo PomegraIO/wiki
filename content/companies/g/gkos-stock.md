@@ -61,7 +61,7 @@ From a clinical perspective, the shift is also favorable, because treating glauc
 
 Glaucoma affects millions of people worldwide, but the minimally invasive glaucoma surgery market is still relatively young and growing fast. Adoption varies by geography: the United States and Europe have embraced minimally invasive approaches more readily than other regions. The patient population is large, but the number of ophthalmologists trained in these new procedures is smaller, and training takes time.
 
-Glaukos faces competition from larger medical-device companies that have entered the space: Allergan (now part of AbbVie) makes the iStent, a small stent that provides another option for pressure reduction. Johnson & Johnson and others are developing competing devices. The market is not yet winner-take-all, but scale matters because it drives down costs, allows investment in physician education, and creates the installed base that training and support infrastructure follow.
+Glaukos faces competition from larger medical-device companies that have entered the space: Allergan (now part of [AbbVie](/abbv-stock/)) makes the iStent, a small stent that provides another option for pressure reduction. [Johnson & Johnson](/jnj-stock/) and others are developing competing devices. The market is not yet winner-take-all, but scale matters because it drives down costs, allows investment in physician education, and creates the installed base that training and support infrastructure follow.
 
 ## The business model and execution
 

@@ -32,7 +32,7 @@ The community banking sector in the United States has experienced significant co
 
 Alpine's value proposition centers on understanding local credit and community conditions that national banks may overlook or underserve. Colorado's economy—driven by technology, energy, tourism, and real estate—creates lending opportunities for a bank with embedded market knowledge. Competition comes from larger regional banks, national institutions offering digital-first products, and fintech lenders specializing in mortgages or small-business lending.
 
-The bank's profitability is sensitive to credit cycles, interest rate volatility, and operational efficiency. Rising rates can expand interest margins but may also increase loan defaults if borrowers face payment stress; falling rates compress margins and pressure net income. [Capital adequacy](/wiki/capital-adequacy/) and [loan loss reserves](/wiki/loan-loss-reserve/) are critical to weathering downturns, and regulatory [stress testing](/stress-testing/) ensures management has contingency plans for severe economic scenarios.
+The bank's profitability is sensitive to credit cycles, interest rate volatility, and operational efficiency. Rising rates can expand interest margins but may also increase loan defaults if borrowers face payment stress; falling rates compress margins and pressure net income. [Capital adequacy](/wiki/capital-adequacy/) and loan loss reserves are critical to weathering downturns, and regulatory [stress testing](/stress-testing/) ensures management has contingency plans for severe economic scenarios.
 
 ## Research and Valuation
 

@@ -33,11 +33,11 @@ Rockwool operates across several divisions and segments. The largest is Europe, 
 
 The company also divides its business by application. Building Insulation (for walls, roofs, and facades of buildings) is the core. Pipe Systems (insulation for industrial pipes and equipment) is a smaller but steady business. Stone Wool Solutions groups newer and more specialized products.
 
-Revenue is recurring in the sense that buildings always need maintenance and retrofit work, but it is also cyclical in the sense that new construction follows economic cycles. When the economy is strong and interest rates are low, construction activity rises, and so does insulation demand. When the economy slows, construction activity falls, and insulation demand falls with it. Rockwool's revenue and margins therefore rise and fall with the construction cycle, with some lag. Europe has been a relatively mature market, so growth there is modest; North America is newer and growing faster.
+Revenue is recurring in the sense that buildings always need maintenance and retrofit work, but it is also cyclical in the sense that new construction follows economic cycles. When the economy is strong and [interest rates](/interest-rate/) are low, construction activity rises, and so does insulation demand. When the economy slows, construction activity falls, and insulation demand falls with it. Rockwool's revenue and margins therefore rise and fall with the construction cycle, with some lag. Europe has been a relatively mature market, so growth there is modest; North America is newer and growing faster.
 
 ## The margin structure and what drives profitability
 
-Like most building materials companies, Rockwool operates on modest margins. Gross margins (revenue minus the cost of raw materials and manufacturing) are typically in the 40 percent to 50 percent range, which sounds healthy until you account for the operating expenses — selling, shipping, distribution, and overhead. Operating margins are often in the low-to-mid single digits, meaning the company makes only a few cents of profit for every dollar of sales.
+Like most building materials companies, Rockwool operates on modest margins. Gross margins (revenue minus the cost of raw materials and manufacturing) are typically in the 40 percent to 50 percent range, which sounds healthy until you account for the operating expenses — selling, shipping, distribution, and overhead. [Operating margins](/operating-margin/) are often in the low-to-mid single digits, meaning the company makes only a few cents of profit for every dollar of sales.
 
 This is not unusual for a commodity materials business. The customer base is price-sensitive, and switching costs are low. A contractor will choose the cheapest product that meets specification, or switch to a competitor if that competitor offers a better price. This limits pricing power.
 
@@ -55,7 +55,7 @@ Growth from these sources is likely to be gradual. The company is already large 
 
 ## Competitive landscape and risks
 
-Rockwool is not alone. It has competitors including Owens Corning (fiberglass, mainly), Kingspan (a diversified building materials company), and numerous smaller regional players. In stone wool specifically, Rockwool is the largest but not the only supplier. Others include Knauf Insulation and regional players.
+Rockwool is not alone. It has competitors including [Owens Corning](/oc-stock/) (fiberglass, mainly), Kingspan (a diversified building materials company), and numerous smaller regional players. In stone wool specifically, Rockwool is the largest but not the only supplier. Others include Knauf Insulation and regional players.
 
 The risks to Rockwool are several. First, cyclical. A slowdown in construction would hit revenue and margins. The company has some shelter from this in retrofit and renovation work, but new-build slowdowns still matter.
 

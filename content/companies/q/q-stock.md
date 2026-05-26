@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Qnity Electronics is a materials-first business serving the semiconductor and advanced electronics ecosystem. Born from DuPont de Nemours' Electronics segment and launched as an independent, publicly traded company in 2025, Qnity occupies the middle of the supply chain—not designing chips or building systems, but rather supplying the specialized chemicals, materials, and interconnect solutions that make next-generation semiconductors and devices possible.
+Qnity Electronics is a materials-first business serving the semiconductor and advanced electronics ecosystem. Born from [DuPont de Nemours](/dd-stock/)' Electronics segment and launched as an independent, publicly traded company in 2025, Qnity occupies the middle of the supply chain—not designing chips or building systems, but rather supplying the specialized chemicals, materials, and interconnect solutions that make next-generation semiconductors and devices possible.
 
 The company operates across two major technology domains: Semiconductor Technologies, which covers the foundational materials and processes that go into chip fabrication and advanced packaging, and Interconnect Solutions, a broader business serving assembly, displays, and the wiring and connection layers that bind electronics together. With roughly 10,000 employees, 40 manufacturing facilities, and 20 research labs spread globally, Qnity has inherited substantial scale and a deep technical footprint from its former parent.
 
@@ -45,9 +45,9 @@ Qnity's risks are asymmetrical to its growth drivers. On the upside, a sustained
 
 Cyclicality is the most immediate concern. Semiconductor fabs operate on multi-year capex supercycles, and when those cycles peak and revert, materials demand can contract sharply. Qnity saw this dynamic historically as part of DuPont; a slowdown in fab construction or chipmaking could hurt both segments.
 
-[Concentration risk](/concentration-risk/) exists on the customer side. The biggest fabs—TSMC, Samsung, Intel—wield significant negotiating power and can demand improved pricing or threaten to develop alternative materials in-house. A price war or a shift in the customer base would directly impact profitability.
+[Concentration risk](/concentration-risk/) exists on the customer side. The biggest fabs—TSMC, Samsung, [Intel](/intc-stock/)—wield significant negotiating power and can demand improved pricing or threaten to develop alternative materials in-house. A price war or a shift in the customer base would directly impact profitability.
 
-Geopolitical and regulatory risks are growing. Export controls on semiconductor equipment and materials, tensions around Taiwan and global chip supply security, and potential U.S. incentives (like CHIPS Act funding) that favor domestically produced materials could all reshape Qnity's cost structure and market access.
+Geopolitical and regulatory risks are growing. Export controls [on semiconductor](/on-stock/) equipment and materials, tensions around Taiwan and global chip supply security, and potential U.S. incentives (like CHIPS Act funding) that favor domestically produced materials could all reshape Qnity's cost structure and market access.
 
 Finally, there is the inherent execution risk of any recent IPO from a corporate [spinoff](/spinoff/). Qnity is still integrating its independent finance, supply chain, and strategic functions. Any stumbles in that transition could distract management or slow decision-making at a critical moment.
 
@@ -55,7 +55,7 @@ Finally, there is the inherent execution risk of any recent IPO from a corporate
 
 A reader investigating Qnity should begin with its [10-K](/wiki/10-k/) filing, which lays out the two segments in detail and provides a clear picture of customer concentration, gross margin by segment, and capex discipline. Key metrics to track include gross margin (a strong indicator of competitive power), segment-by-segment revenue growth (which differentiates semiconductor-driven upside from interconnect trends), and operating cash flow relative to capex (a sign of whether the business is generating true economic returns or burning cash to maintain share).
 
-Qnity trades on the NYSE under the ticker Q, and quarterly earnings calls offer direct insight into management's view of fab capex trends, adoption of advanced packaging, and customer sentiment. Watching announcements from the largest semiconductor customers—TSMC, Samsung, Intel, NVIDIA—for capex guidance and technology roadmap shifts will inform how robust Qnity's end markets likely are.
+Qnity trades on the NYSE under the ticker Q, and quarterly earnings calls offer direct insight into management's view of fab capex trends, adoption of advanced packaging, and customer sentiment. Watching announcements from the largest semiconductor customers—TSMC, Samsung, Intel, [NVIDIA](/nvda-stock/)—for capex guidance and technology roadmap shifts will inform how robust Qnity's end markets likely are.
 
 The Semiconductor Technologies segment is most sensitive to fab utilization and capex cycles, while Interconnect Solutions is more defensive and benefits from secular trends in miniaturization and system integration. A portfolio manager or engaged investor should model these segments separately and think through the different valuation multiples they might command during various points in the cycle.
 
@@ -66,4 +66,4 @@ The Semiconductor Technologies segment is most sensitive to fab utilization and 
 
 ---
 
-See also: [TSMC (2330)](/wiki/tsmc/), semiconductor capital spending, materials science and competitive advantage, cyclical industrials.
+See also: TSMC (2330), semiconductor capital spending, materials science and competitive advantage, cyclical industrials.

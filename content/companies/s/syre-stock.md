@@ -33,7 +33,7 @@ The company spent its early years building a scientific platform focused on unde
 
 ## The pipeline and the strategy
 
-Spyre's therapeutic programs target conditions where uncontrolled immune activation causes damage — including autoimmune diseases and inflammatory conditions that currently lack satisfactory treatments or where existing drugs carry substantial side effects. The company's approach emphasizes precision immunology: identifying the specific immune cells or molecules driving disease and intervening at that point, rather than attempting wholesale immune suppression.
+Spyre's therapeutic programs [target](/tgt-stock/) conditions where uncontrolled immune activation causes damage — including autoimmune diseases and inflammatory conditions that currently lack satisfactory treatments or where existing drugs carry substantial side effects. The company's approach emphasizes precision immunology: identifying the specific immune cells or molecules driving disease and intervening at that point, rather than attempting wholesale immune suppression.
 
 As of the company's most recent clinical updates, Spyre had multiple programs in clinical development, though specific stage and timeline data should be confirmed in the company's latest SEC filings. The nature of early-stage biotech means the pipeline is likely to shift — some programs will be abandoned as data emerges, others will be paused, and new candidates may emerge from the research phase. This is normal and expected; most experimental drugs fail before reaching patients.
 
@@ -41,7 +41,7 @@ The strategic value of the company lies in whether one or more of these programs
 
 ## The capital and cost structure
 
-Spyre is a capital-intensive business with no current revenue. The company must raise cash regularly to fund ongoing research, conduct clinical trials, maintain regulatory compliance, and cover operating expenses. Funding comes through two channels: equity capital raised from investors (including venture capital, strategic partners, and public markets via the company's NASDAQ listing) and, potentially, partnerships or licensing agreements with larger pharmaceutical companies that might fund Spyre's research in exchange for commercialization rights if a program succeeds.
+Spyre is a capital-intensive business with no current revenue. The company must raise cash regularly to fund ongoing research, conduct clinical trials, maintain regulatory compliance, and cover operating expenses. Funding comes through two channels: equity capital raised from investors (including venture capital, strategic partners, and public markets via the company's [NASDAQ](/nasdaq/) listing) and, potentially, partnerships or licensing agreements with larger pharmaceutical companies that might fund Spyre's research in exchange for commercialization rights if a program succeeds.
 
 The cost of developing a drug through FDA approval is substantial — typically several hundred million dollars by the time a therapy reaches the market. Small biotech companies like Spyre manage this by focusing resources on the most promising programs, partnering with larger companies to share development costs, and raising capital efficiently. A company's cash runway — how long its existing cash reserves can fund operations — is a critical metric for investors because it determines whether the company will need to raise additional capital, dilute existing shareholders, or else risk running out of money.
 

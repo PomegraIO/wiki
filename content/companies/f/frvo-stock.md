@@ -33,7 +33,7 @@ Fervo's idea is to crack the rock intentionally. You drill down to hot rock deep
 
 ## Why this matters
 
-Geothermal is different from other renewable energy sources. Wind and solar are intermittent—the sun does not shine at night, and the wind does not blow constantly. A geothermal plant runs 24 hours a day, seven days a week, regardless of weather. This is called "baseload" power. It is what power grids need to stay stable. Right now, grids mostly rely on coal, natural gas, and nuclear for baseload power. As fossil fuels phase out, power systems need a replacement, and geothermal could be it.
+Geothermal is different from other renewable energy sources. Wind and solar are intermittent—the sun does not shine at night, and the wind does not blow constantly. A geothermal plant runs 24 hours a day, seven days a week, regardless of weather. This is called "baseload" power. It is what power grids need to stay stable. Right now, grids mostly rely on coal, [natural gas](/natural-gas/), and nuclear for baseload power. As fossil fuels phase out, power systems need a replacement, and geothermal could be it.
 
 Geothermal also takes up far less land per unit of power than solar or wind, and it produces no carbon emissions during operation. The only downside has always been geographical: you need a place where the Earth is hot. If Fervo can crack that problem and make EGS work economically anywhere, it opens up geothermal as a source of clean baseload power for much of the world.
 
@@ -41,7 +41,7 @@ Geothermal also takes up far less land per unit of power than solar or wind, and
 
 Fervo built a first commercial plant at the Hawthorn, Nevada site in partnership with a local utility. The project involved drilling, fracturing, testing, and operating the plant. In the early to mid-2020s, Fervo was proving that the technology could work at commercial scale—that the plant could generate steady electricity, that the fracture system remained stable, that economics made sense. This was critical; until you have a working plant generating real revenue, you have only a promise.
 
-The company went public in 2023 via merger with a special-purpose acquisition company (SPAC), raising capital to fund additional projects and expansion. Fervo has development pipelines in several regions and partnerships with utilities and energy companies interested in building geothermal plants.
+The company went public in 2023 via [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC), raising capital to fund additional projects and expansion. Fervo has development pipelines in several regions and partnerships with utilities and energy companies interested in building geothermal plants.
 
 ## The business model
 

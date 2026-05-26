@@ -54,7 +54,7 @@ The geographic spread mitigates single-region risk — a production disruption i
 
 Newmont historically prioritized growth capital expenditure, allocating cash to reserve replacement and high-return mine development before returning to shareholders. The Goldcorp and Newcrest integrations absorbed significant capex. As integration stabilizes, the company has re-emphasized [dividends](/dividend/), dividends increases, and selective share repurchases.
 
-Gold mining is notably cyclical. During commodity booms, many producers have over-committed to expansion, only to face impairments when prices decline. Newmont has attempted to apply financial discipline — maintaining a target debt level, funding capital from operating cash flow, and adjusting dividends and buybacks to preserve [balance sheet](/balance-sheet/) strength rather than maintain [payout ratios](/payout-ratio/) through downturns. Actual execution varies by management and economic climate.
+Gold mining is notably cyclical. During commodity booms, many producers have over-committed to expansion, only to face impairments when prices decline. Newmont has attempted to apply financial discipline — maintaining a [target](/tgt-stock/) debt level, funding capital from operating cash flow, and adjusting dividends and buybacks to preserve [balance sheet](/balance-sheet/) strength rather than maintain [payout ratios](/payout-ratio/) through downturns. Actual execution varies by management and economic climate.
 
 ## Risks and Pressures
 

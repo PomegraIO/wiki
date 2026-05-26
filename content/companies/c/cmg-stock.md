@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Chipotle Mexican Grill is a restaurant chain. You go in, order a burrito or a bowl, tell them what ingredients you want, and they build it in front of you while you watch. That is the whole idea. The company has thousands of locations and serves hundreds of millions of customers a year. It is not the biggest restaurant company in the world — McDonald's and Starbucks are larger — but Chipotle is one of the most profitable and valuable. Understanding Chipotle means understanding something simple: why a straightforward idea — let customers watch their food get made, use good ingredients, charge a fair price — became so successful that it changed how restaurants operate.
+Chipotle Mexican Grill is a restaurant chain. You go in, order a burrito or a bowl, tell them what ingredients you want, and they build it in front of you while you watch. That is the whole idea. The company has thousands of locations and serves hundreds of millions of customers a year. It is not the biggest restaurant company in the world — McDonald's and [Starbucks](/sbux-stock/) are larger — but Chipotle is one of the most profitable and valuable. Understanding Chipotle means understanding something simple: why a straightforward idea — let customers watch their food get made, use good ingredients, charge a fair price — became so successful that it changed how restaurants operate.
 
 <aside class="wiki-infobox">
 <table>

@@ -27,7 +27,7 @@ These three legs—ads, subscriptions, and à la carte purchases—give the comp
 
 ## Competitive Position and Moat
 
-The smartphone personalization market is fragmented and crowded. Zedge competes against free wallpaper apps, other ringtone services, DIY approaches (users making their own content), and of course the official app stores and first-party customization options baked into iOS and Android themselves. Apple and Google have steadily added customization features to their operating systems, which directly competes with third-party services like Zedge.
+The smartphone personalization market is fragmented and crowded. Zedge competes against free wallpaper apps, other ringtone services, DIY approaches (users making their own content), and of course the official app stores and first-party customization options baked into iOS and Android themselves. [Apple](/aapl-stock/) and Google have steadily added customization features to their operating systems, which directly competes with third-party services like Zedge.
 
 What moat Zedge has is modest: brand recognition among a loyal user base, a large archive of aggregated content, and a simple user experience. Switching costs are low—a user can install a rival app or manually customize their phone. The company's durability depends more on habit and convenience than on any defensible competitive advantage. The business is not venture-scale, but neither is it frivolous; millions of users find enough value to keep coming back.
 

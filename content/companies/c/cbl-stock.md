@@ -56,7 +56,7 @@ The bankruptcy also reset tenant relationships; weaker tenants left, and remaini
 
 ## Comparative Context: The REIT Sector and Retail Decline
 
-CBL sits in the hardest-hit segment of the [commercial real estate](/commercial-real-estate/) market. Unlike [office REITs](/wiki/office-reit/) or [data center REITs](/wiki/data-center-reit/), which enjoyed tailwinds, or [apartment REITs](/wiki/multifamily-reit/) with strong demand, mall and [retail REITs](/retail-reit/) faced relentless pressure. Only REITs with premium assets in major metros or exceptional retail concepts (grocery-anchored, mixed-use, logistics-adjacent) achieved sustained value. CBL's secondary-market portfolio lacked those advantages, making its recovery a value story rather than a momentum one.
+CBL sits in the hardest-hit segment of the [commercial real estate](/commercial-real-estate/) market. Unlike [office REITs](/wiki/office-reit/) or [data center REITs](/wiki/data-center-reit/), which enjoyed tailwinds, or apartment REITs with strong demand, mall and [retail REITs](/retail-reit/) faced relentless pressure. Only REITs with premium assets in major metros or exceptional retail concepts (grocery-anchored, mixed-use, logistics-adjacent) achieved sustained value. CBL's secondary-market portfolio lacked those advantages, making its recovery a value story rather than a momentum one.
 
 The company competes with other regional mall REITs (now far fewer, after industry consolidation and bankruptcies) and increasingly with discount outlet operators and lifestyle centers that have captured the shoppers and retailers migrating from traditional malls.
 
@@ -86,8 +86,8 @@ The fundamental investment thesis is a value-based turnaround: a company with de
 
 ## Research and Due Diligence
 
-Analyzing CBL requires careful attention to the post-emergence financial footprint. Review the [10-K](/wiki/10-k/) annual report filed with the SEC (CIK 910612) for detailed property schedules, tenant concentration, lease maturity profiles, and capex guidance. Track [same-property net operating income](/wiki/same-property-noi/), occupancy rates, and rental rate change (on renewals and new leases) as forward indicators of value. Monitor tenant credit quality and announce closures by major retailers or bankruptcies in the portfolio.
+Analyzing CBL requires careful attention to the post-emergence financial footprint. Review the [10-K](/wiki/10-k/) annual report filed with the SEC (CIK 910612) for detailed property schedules, tenant concentration, lease maturity profiles, and capex guidance. Track same-property net operating income, occupancy rates, and rental rate change (on renewals and new leases) as forward indicators of value. Monitor tenant credit quality and announce closures by major retailers or bankruptcies in the portfolio.
 
 The company's [debt maturity schedule](/wiki/debt-maturity-structure/) is critical; watch refinancing announcements and any covenant pressure. Cash flow from operations relative to [debt service](/wiki/debt-maturity-structure/) gives insight into financial flexibility. Given the [REIT](/wiki/equity-reit/) structure, understand the distribution policy and coverage ratio for income investors seeking yield.
 
-Comparison metrics: track CBL's [price-to-funds-from-operations (P/FFO)](/wiki/price-to-funds-from-operations/) multiple relative to peers and the broader [REIT sector](/wiki/equity-reit/), FFO growth trajectory, and [net debt](/net-debt/) levels. Any meaningful property dispositions or portfolio rebalancing announcements should be evaluated for strategic intent versus distressed selling.
+Comparison metrics: track CBL's price-to-funds-from-operations (P/FFO) multiple relative to peers and the broader [REIT sector](/wiki/equity-reit/), FFO growth trajectory, and [net debt](/net-debt/) levels. Any meaningful property dispositions or portfolio rebalancing announcements should be evaluated for strategic intent versus distressed selling.

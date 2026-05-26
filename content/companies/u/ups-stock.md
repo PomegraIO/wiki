@@ -34,7 +34,7 @@ Freight forwarding and customs brokerage are other revenue streams. When a compa
 
 Finally, there is the returns and reverse-logistics business. As e-commerce has grown, so has the volume of returns—customers buying online and sending items back. UPS has built out infrastructure to accept, process, and resell returned items, earning fees in the process.
 
-The mix of these revenue streams means that UPS does not depend solely on volume—the company also earns from higher-margin services that require more sophistication and integration. That diversification partly insulates the business from pressure on ground-delivery pricing.
+The mix of these revenue streams means that UPS does not depend solely on volume—the company also earns from higher-margin services that require more sophistication and integration. That [diversification](/diversification/) partly insulates the business from pressure on ground-delivery pricing.
 
 ## Competition and the barriers to entry
 
@@ -66,7 +66,7 @@ Fourth, there is technological disruption on the horizon. Autonomous vehicles an
 
 ## Tracking the business
 
-Investors researching UPS should focus on a handful of metrics. First, the volume trends—how many packages is the company moving year over year? Volume growth is the engine of long-term returns. Second, the price realization: is the company able to raise rates faster than costs increase, or is pricing discipline slipping? Third, margin trends: are operating margins expanding or contracting? Fourth, the health of the supply-chain services business: is that higher-margin segment growing faster than traditional package delivery? Fifth, balance-sheet strength and capital allocation: UPS has historically returned substantial capital to shareholders through dividends and buybacks, and that shareholder-friendly policy is part of the investment case.
+Investors researching UPS should focus on a handful of metrics. First, the volume trends—how many packages is the company moving year over year? Volume growth is the engine of long-term returns. Second, the price realization: is the company able to raise rates faster than costs increase, or is pricing discipline slipping? Third, margin trends: are [operating margins](/operating-margin/) expanding or contracting? Fourth, the health of the supply-chain services business: is that higher-margin segment growing faster than traditional package delivery? Fifth, balance-sheet strength and capital allocation: UPS has historically returned substantial capital to shareholders through [dividends](/dividend/) and buybacks, and that shareholder-friendly policy is part of the investment case.
 
 The company's quarterly earnings calls provide detail on volume, pricing, and segment margins. The 10-K filing breaks out revenue by business segment and lays out the competitive position, the risks, and the capital requirements.
 

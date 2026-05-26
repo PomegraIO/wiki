@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-GE HealthCare Technologies is a medical-device manufacturer focused on machines hospitals use to see inside patients. Born in 2023 from the split of General Electric's healthcare unit, it serves the diagnostic imaging, ultrasound, and cancer radiation-therapy markets — global businesses where customers are hospitals, imaging centers, and cancer treatment facilities that depend on updating equipment on regular cycles.
+GE HealthCare Technologies is a medical-device manufacturer focused on machines hospitals use to see inside patients. Born in 2023 from the split of [General Electric](/ge-stock/)'s healthcare unit, it serves the diagnostic imaging, ultrasound, and cancer radiation-therapy markets — global businesses where customers are hospitals, imaging centers, and cancer treatment facilities that depend on updating equipment on regular cycles.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ These are not commodity purchases. A hospital board cannot swap imaging equipmen
 
 ## A legacy business in transition
 
-GE spun off its healthcare unit because the healthcare business and the industrial-powerhouse business had diverged. GE's industrial side sells jet engines, power-generation turbines, and locomotives — lumpy, long-cycle capital sales to energy and rail operators. Healthcare is steadier, recurring, and runs on entirely different rhythms and margins. The spinoff let GE HealthCare focus on the actual growth drivers of the healthcare market — an aging global population, expansion of diagnostic capacity in emerging markets, and the shift toward precision medicine and AI-assisted diagnostics.
+GE spun off its healthcare unit because the healthcare business and the industrial-powerhouse business had diverged. GE's industrial side sells jet engines, power-generation turbines, and locomotives — lumpy, long-cycle capital sales to energy and rail operators. Healthcare is steadier, recurring, and runs on entirely different rhythms and margins. The [spinoff](/spinoff/) let GE HealthCare focus on the actual growth drivers of the healthcare market — an aging global population, expansion of diagnostic capacity in emerging markets, and the shift toward precision medicine and AI-assisted diagnostics.
 
 The separation also carries inherited strengths. GE HealthCare inherited deep relationships with hospital systems that have bought GE imaging for decades. It has manufacturing footprints in the United States, Europe, and Asia. It has research and development teams with expertise in image processing, signal detection, and radiation therapy — technical moats that a startup cannot quickly replicate. But it also inherited the cost base and organizational culture of a large diversified manufacturer, which means GE HealthCare must navigate the tension between maintaining efficiency and investing in the innovation that keeps hospitals buying upgrades.
 
@@ -57,7 +57,7 @@ The company faces tariffs, local-content requirements, and fierce domestic compe
 
 ## Challenges and the path forward
 
-GE HealthCare must contend with multiple pressures. Healthcare budgets worldwide are under strain, and hospital systems are increasingly price-sensitive and demanding of evidence that new equipment improves patient outcomes or operational efficiency. Rising interest rates make capital purchases more expensive for hospitals. Supply-chain disruptions and inflationary pressure on component costs hit the manufacturer. And the transition from hardware-centric to software-and-services-centric business models requires investment in talent and platforms that do not produce revenue immediately.
+GE HealthCare must contend with multiple pressures. Healthcare budgets worldwide are under strain, and hospital systems are increasingly price-sensitive and demanding of evidence that new equipment improves patient outcomes or operational efficiency. Rising [interest rates](/interest-rate/) make capital purchases more expensive for hospitals. Supply-chain disruptions and inflationary pressure on component costs hit the manufacturer. And the transition from hardware-centric to software-and-services-centric business models requires investment in talent and platforms that do not produce revenue immediately.
 
 The regulatory environment around medical devices is also tightening. Cybersecurity standards are rising, especially as imaging machines become network-connected. Data-privacy rules, particularly in Europe and around healthcare records, constrain how the company can collect and use the vast quantity of imaging data that could power more accurate algorithms.
 

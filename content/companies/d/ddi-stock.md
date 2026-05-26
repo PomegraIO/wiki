@@ -24,13 +24,13 @@ handwritten: true
 
 DoubleDown Interactive is a Las Vegas-headquartered developer of casual, free-to-play mobile games, with a heavy emphasis on social-casino titles. The company's flagship product, DoubleDown Casino, remains its core revenue driver—a digital recreation of table games and slots distributed across iOS, Android, and web platforms. By offering gameplay without wagers on real money, DoubleDown sidesteps gambling regulation while capturing the casual gaming audience that enjoys the aesthetic and mechanics of casino games for entertainment alone.
 
-The company went public on [Nasdaq](/wiki/stock-exchange/) in 2015 (via a [reverse merger](/reverse-merger/) with a SPAC-like entity) and carries [CIK](/wiki/cik/) 1799567. Its business model centers on in-app purchases: players spend real money on virtual chips and bonus features, but never gamble on outcomes. This separation from actual gambling has allowed DoubleDown to build a global user base without the licensing complexities of live-money gaming operators.
+The company went public on [Nasdaq](/wiki/stock-exchange/) in 2015 (via a [reverse merger](/reverse-merger/) with a SPAC-like entity) and carries CIK 1799567. Its business model centers on in-app purchases: players spend real money on virtual chips and bonus features, but never gamble on outcomes. This separation from actual gambling has allowed DoubleDown to build a global user base without the licensing complexities of live-money gaming operators.
 
 ## The Mobile Gaming Landscape and DoubleDown's Position
 
 Mobile gaming has fragmented dramatically since the early 2010s. The space now encompasses narrative-driven RPGs, mid-core tactics games, hypercasuals, and social titles. DoubleDown occupies the social-casino niche—a small but stable corner where casual play, light progression mechanics, and the allure of casino aesthetics keep users engaged. Players download DoubleDown Casino to unwind and enjoy a familiar game experience without financial risk. The free-to-play model relies on monetizing a small percentage of active players through cosmetics, gameplay boosters, and cosmetic chips.
 
-This positioning differs markedly from live-money gaming stocks like [DraftKings](/wiki/dkng-stock/) or [Penn Entertainment](/wiki/penn-stock/), which operate sportsbooks and casinos. DoubleDown operates entirely in the entertainment and game-software space, answerable to different regulators and subject to fewer restrictions on marketing and distribution.
+This positioning differs markedly from live-money gaming stocks like [DraftKings](/wiki/dkng-stock/) or Penn Entertainment, which operate sportsbooks and casinos. DoubleDown operates entirely in the entertainment and game-software space, answerable to different regulators and subject to fewer restrictions on marketing and distribution.
 
 ## Revenue and Business Drivers
 
@@ -42,9 +42,9 @@ The COVID-19 period marked a notable inflection. Remote gameplay saw a surge in 
 
 ## Competitive Dynamics
 
-The mobile-casino space is populated with competitors ranging from small indie studios to large gaming publishers. **Playtika**, a publicly traded (via [Nasdaq](/nasdaq/) listing) social-casino pure-play, is DoubleDown's most direct competitor, with titles like Slotomania. **Scopely** (a mobile gaming publisher owned by Playtika since 2022) and **Caesars Entertainment** (which operates social-casino games alongside its real-money platform) are other notable players. Smaller operators and niche titles further fragment the market.
+The mobile-casino space is populated with competitors ranging from small indie studios to large gaming publishers. **Playtika**, a publicly traded (via [Nasdaq](/nasdaq/) listing) social-casino pure-play, is DoubleDown's most direct competitor, with titles like Slotomania. **Scopely** (a mobile gaming publisher owned by Playtika since 2022) and **[Caesars Entertainment](/czr-stock/)** (which operates social-casino games alongside its real-money platform) are other notable players. Smaller operators and niche titles further fragment the market.
 
-DoubleDown's advantages center on brand recognition (DoubleDown Casino is well-known in casual gaming circles), a long history (since 2011), and a loyal user base. The risks are equally clear: the category is crowded, mobile-game acquisition costs have risen, and player attention is difficult to maintain. A new game launch from a well-capitalized competitor, or a shift in mobile app store economics (Apple and Google control distribution), can quickly erode market share.
+DoubleDown's advantages center on brand recognition (DoubleDown Casino is well-known in casual gaming circles), a long history (since 2011), and a loyal user base. The risks are equally clear: the category is crowded, mobile-game acquisition costs have risen, and player attention is difficult to maintain. A new game launch from a well-capitalized competitor, or a shift in mobile app store economics ([Apple](/aapl-stock/) and Google control distribution), can quickly erode market share.
 
 ## Regulatory and Market Risks
 

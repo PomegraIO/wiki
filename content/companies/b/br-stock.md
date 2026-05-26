@@ -12,7 +12,7 @@ handwritten: true
 
 Broadridge Financial Solutions is a mission-critical infrastructure provider embedded in the backbone of the financial system. The company processes securities transactions, distributes market data, sends regulatory communications, and operates wealth management platforms that banks and asset managers cannot easily abandon. Founded as a division of ADP before going public in 2007, Broadridge has become one of the few companies whose software and networks are so essential to the plumbing of Wall Street that switching costs are extraordinarily high.
 
-The core insight: Broadridge is not a consumer brand, and it does not compete on flashy innovation. It succeeds because it is woven into operational workflows across thousands of institutions. When a broker executes a trade, when an asset manager rebalances a portfolio, or when a mutual fund distributes dividends, Broadridge's systems are usually touching the transaction. This structural position has allowed the company to build recurring revenue streams and build pricing power through lock-in effects rather than through raw technical superiority.
+The core insight: Broadridge is not a consumer brand, and it does not compete on flashy innovation. It succeeds because it is woven into operational workflows across thousands of institutions. When a [broker](/broker/) executes a trade, when an asset manager rebalances a portfolio, or when a [mutual fund](/mutual-fund/) distributes [dividends](/dividend/), Broadridge's systems are usually touching the transaction. This structural position has allowed the company to build recurring revenue streams and build pricing power through lock-in effects rather than through raw technical superiority.
 
 ## The Business Structure
 
@@ -55,7 +55,7 @@ Broadridge operates in a market characterized by few direct competitors and very
 
 Key competitors include:
 - **Fiserv** and **FIS** (in payments and back-office processing, broader but less specialized in wealth)
-- **SS&C Technologies** (in fund administration and compliance)
+- **[SS&C Technologies](/ssnc-stock/)** (in fund administration and compliance)
 - **nCino** and **Temenos** (in digital banking and onboarding)
 
 Broadridge's competitive advantages are:
@@ -68,12 +68,12 @@ The main risk to the moat is technology disruption. If cloud-native, API-first f
 
 ## Financial Characteristics and Capital Allocation
 
-Broadridge is a cash machine, but not a high-growth one. Over the past decade, revenue has grown at a steady 5–6% CAGR, while EBITDA has grown at 7–8% (due to margin expansion). The company generates billions of dollars in [free cash flow](/free-cash-flow/) each year—more than enough to fund its business, even with steady M&A.
+Broadridge is a cash machine, but not a high-growth one. Over the past decade, revenue has grown at a steady 5–6% CAGR, while [EBITDA](/ebitda/) has grown at 7–8% (due to margin expansion). The company generates billions of dollars in [free cash flow](/free-cash-flow/) each year—more than enough to fund its business, even with steady M&A.
 
 Capital allocation:
 - **Dividends**: Broadridge has increased its dividend annually for many years, reflecting the board's confidence in stable, recurring cash flows. Yielding ~2–2.5%, the dividend is reliable but not lavish.
 - **[Share buybacks](/share-buyback/)**: The company has been a modest net repurchaser of its own stock, shrinking share count by 1–2% per year. This helps offset the dilution from [equity compensation](/equity-compensation/).
-- **Acquisitions**: Broadridge has acquired dozens of smaller fintech, compliance, and practice-management firms to bolt on new capabilities and customer bases. Recent deals have included Eidon (regulatory consulting) and various digital-engagement and compliance acquisitions. These are mostly bolt-on deals, not transformative.
+- **[Acquisitions](/acquisition/)**: Broadridge has acquired dozens of smaller fintech, compliance, and practice-management firms to bolt on new capabilities and customer bases. Recent deals have included Eidon (regulatory consulting) and various digital-engagement and compliance acquisitions. These are mostly bolt-on deals, not transformative.
 
 The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, giving management flexibility to grow through M&A or weather economic downturns.
 
@@ -82,7 +82,7 @@ The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, givin
 **Growth drivers:**
 - **Wealth management consolidation**: As independent advisers get acquired by larger platforms, Broadridge increases its footprint by winning the tech mandate of the acquirer.
 - **Regulatory expansion**: New compliance rules (cybersecurity, [anti-money laundering](/anti-money-laundering/), [beneficial ownership disclosure](/beneficial-ownership-disclosure/)) create incremental demand for Broadridge's compliance and reporting tools.
-- **ETF proliferation**: Passively managed funds require continuous shareholder communication and proxy voting administration, fueling the Investor Communication Services segment.
+- **ETF proliferation**: Passively managed funds require continuous shareholder communication and [proxy voting](/proxy-voting/) administration, fueling the Investor Communication Services segment.
 - **Digitalization**: As advisers and asset managers shift to digital client engagement, Broadridge's digital communication and account management tools see growing adoption.
 
 **Headwinds:**
@@ -97,7 +97,7 @@ The company is not highly leveraged; debt-to-EBITDA is typically 2–2.5x, givin
 
 **Technology obsolescence**: Broadridge's core wealth and settlement platforms have long pedigrees. While the company invests in modernization (cloud migration, microservices), there is a risk that a greenfield competitor builds a superior architecture and wins new customers at lower total cost of ownership. This is a slow risk, not an immediate one, because customer switching costs are high.
 
-**Margin compression from wage inflation**: Broadridge is a service-intensive business. If the cost of engineering talent, compliance specialists, and customer support continues to rise faster than the company can raise prices, margins could compress. This is particularly acute in high-cost markets like New York, where much of Broadridge's work happens.
+**Margin compression from wage [inflation](/inflation/)**: Broadridge is a service-intensive business. If the cost of engineering talent, compliance specialists, and customer support continues to rise faster than the company can raise prices, margins could compress. This is particularly acute in high-cost markets like New York, where much of Broadridge's work happens.
 
 **Regulatory change**: The SEC or DTCC could mandate interoperability or open APIs, forcing Broadridge to commoditize services it now bundles. This is a slow risk, but a real one.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Lennox International makes the heating, ventilation, and air-conditioning systems you find in homes and office buildings. Walk into someone's house or a commercial building in North America or Europe, and there is a decent chance the system keeping it warm in winter and cool in summer came from Lennox. The company designs, manufactures, and sells furnaces, air conditioners, heat pumps, and ventilation equipment to contractors, builders, and property owners. Its shares trade on the NASDAQ under the ticker LII.
+Lennox International makes the heating, ventilation, and air-conditioning systems you find in homes and office buildings. Walk into someone's house or a commercial building in North America or Europe, and there is a decent chance the system keeping it warm in winter and cool in summer came from Lennox. The company designs, manufactures, and sells furnaces, air conditioners, heat pumps, and ventilation equipment to contractors, builders, and property owners. Its shares trade on the [NASDAQ](/nasdaq/) under the ticker LII.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ Here's the simple version: Every building needs heating in winter and cooling in
 
 The business serves two broad customer bases. **Residential** includes homeowners and the HVAC contractors who install systems in houses. **Commercial** includes property owners, building managers, and contractors who install systems in office buildings, schools, hotels, hospitals, and shopping centers. Each segment has different requirements — residential equipment tends to be smaller and simpler, while commercial systems are larger and more complex.
 
-Lennox manufactures furnaces (which burn natural gas or propane to generate heat), air conditioners (which use refrigerant and compressors to remove heat), heat pumps (which can both heat and cool), and ventilation equipment. The company also makes thermostats and building-automation controls that let customers manage their systems and improve energy efficiency.
+Lennox manufactures furnaces (which burn [natural gas](/natural-gas/) or propane to generate heat), air conditioners (which use refrigerant and compressors to remove heat), heat pumps (which can both heat and cool), and ventilation equipment. The company also makes thermostats and building-automation controls that let customers manage their systems and improve energy efficiency.
 
 ## The market Lennox serves
 
@@ -66,7 +66,7 @@ One important competitive dynamic: residential contractors often prefer simpler,
 
 **Price competition** in the residential market can be fierce, especially when the economy is weak and buyers are price-conscious. Because replacement demand is steady, a contractor or homeowner replacing a failed system isn't always loyal to a brand — they often choose the lowest-cost option that meets basic requirements.
 
-**Residential construction cycles** directly affect equipment demand. A housing recession reduces new-home construction, which reduces the number of new HVAC systems needed. Lennox is less vulnerable to this than a home builder, but it is not immune.
+**Residential construction cycles** directly affect equipment demand. A housing [recession](/recession/) reduces new-home construction, which reduces the number of new HVAC systems needed. Lennox is less vulnerable to this than a home builder, but it is not immune.
 
 **Climate and geography** matter: regions with extreme heat or cold need more HVAC capacity, while moderate climates need less. Regional variations in building codes, available fuel sources (natural gas vs. propane vs. electric), and customer preferences all complicate Lennox's product strategy.
 
@@ -78,6 +78,6 @@ One longer-term consideration: heat pumps are becoming more viable in colder cli
 
 Start with the annual 10-K filing (SEC CIK 0001069202), which breaks revenue by residential and commercial segments and provides context on market share and competitive dynamics. Quarterly earnings calls are essential — listen for commentary on order trends, backlog (a sign of near-term revenue), and margins by segment.
 
-Key numbers to track: revenue growth in residential versus commercial segments, gross margin trends, operating margin, and free cash flow. The company's return on invested capital shows whether it is earning strong returns on the capital deployed in manufacturing and distribution. Compare Lennox's valuation to peers and to its own history.
+Key numbers to track: revenue growth in residential versus commercial segments, gross margin trends, [operating margin](/operating-margin/), and [free cash flow](/free-cash-flow/). The company's [return on invested capital](/return-on-invested-capital/) shows whether it is earning strong returns on the capital deployed in manufacturing and distribution. Compare Lennox's valuation to peers and to its own history.
 
 Watch industry data on housing starts, commercial construction activity, and HVAC replacement rates — these move demand. Follow regulatory announcements about energy-efficiency standards, which affect product development costs and industry dynamics.

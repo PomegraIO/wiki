@@ -28,4 +28,4 @@ Exxon's scale and history lend it a fortress position in legacy businesses. Its 
 
 ---
 
-See also: [oil exploration](/wiki/commodity/) | [petrochemicals](/wiki/commodity/) | [energy sector](/wiki/public-company/) | [10-K filing](/wiki/10-k/)
+See also: oil exploration | petrochemicals | [energy sector](/wiki/public-company/) | [10-K filing](/wiki/10-k/)

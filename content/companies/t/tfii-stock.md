@@ -27,7 +27,7 @@ TFI International runs trucks and logistics across North America. It moves freig
 
 ## The story so far
 
-TFI started as a small trucking company in Toronto in 1962. For decades it was a regional player. Then in the 1990s and 2000s, it began to grow through acquisitions. It bought other trucking companies, package-delivery operators, and logistics providers, each one adding capacity and scale. The goal was to build a network that spanned the continent so that TFI could offer customers one-stop shipping.
+TFI started as a small trucking company in Toronto in 1962. For decades it was a regional player. Then in the 1990s and 2000s, it began to grow through [acquisitions](/acquisition/). It bought other trucking companies, package-delivery operators, and logistics providers, each one adding capacity and scale. The goal was to build a network that spanned the continent so that TFI could offer customers one-stop shipping.
 
 By the 2010s, TFI had assembled a patchwork of brands and operating companies — some focused on trucking, some on package delivery, some on warehousing and logistics. Each one operated with its own customers, its own drivers, and its own equipment. This meant TFI could handle different types of freight: a customer could use the same company to move a full truckload across the country, or a small package overnight, or a fragmented shipment shared with other customers' cargo.
 
@@ -69,12 +69,12 @@ Because trucking is a cyclical business, TFI's earnings swing with the economy a
 
 Fuel prices also matter. When diesel prices spike, TFI's costs rise immediately, but the company cannot always pass those costs to customers right away. This creates earnings volatility.
 
-Interest rates affect TFI indirectly. If borrowing costs rise and the economy cools, freight demand falls. If interest rates fall and the economy accelerates, demand strengthens.
+[Interest rates](/interest-rate/) affect TFI indirectly. If borrowing costs rise and the economy cools, freight demand falls. If interest rates fall and the economy accelerates, demand strengthens.
 
 ## Researching TFI
 
 To understand TFI, read the 10-K filing (SEC CIK 0001588823), which breaks out revenue and margin by operating segment (asset-based, non-asset, logistics, package delivery). Quarterly earnings calls discuss utilization rates (what percentage of trucks are moving cargo), pricing trends, and margin pressure.
 
-Watch the freight indexes like the Cass Freight Index or the DAT National Average Truck Rate — these are published by other data providers and give early signals of whether trucking demand is accelerating or weakening. Follow fuel prices, since they impact TFI's costs directly. And track TFI's capital spending and balance sheet: the company regularly refreshes its truck fleet, and that capital intensity affects free cash flow.
+Watch the freight indexes like the Cass Freight Index or the DAT National Average Truck Rate — these are published by other data providers and give early signals of whether trucking demand is accelerating or weakening. Follow fuel prices, since they impact TFI's costs directly. And track TFI's capital spending and [balance sheet](/balance-sheet/): the company regularly refreshes its truck fleet, and that capital intensity affects [free cash flow](/free-cash-flow/).
 
 TFI is best understood as a cyclical transportation company with modest pricing power, exposed to freight demand, fuel prices, and labor costs. The one-stop-shop strategy provides some stability, but economics remain fundamentally competitive.

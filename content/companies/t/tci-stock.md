@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Transcontinental Realty Investors is a [public company](/wiki/public-company/) engaged in acquiring, owning, and managing residential apartment communities and commercial property across the United States. The company operates under a unique structure: it is majority-controlled by interests within the Pillar/American Realty Investors group while remaining [publicly traded](/wiki/stock/), a relationship that creates both operating advantages and capital-allocation constraints.
+Transcontinental Realty Investors is a [public company](/wiki/public-company/) engaged in acquiring, owning, and managing residential apartment communities and commercial property across the United States. The company operates under a unique structure: it is majority-controlled by interests within the Pillar/[American Realty Investors](/arl-stock/) group while remaining [publicly traded](/wiki/stock/), a relationship that creates both operating advantages and capital-allocation constraints.
 
 The company trades on the [stock exchange](/wiki/stock-exchange/) under the ticker TCI and files with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 733590, disclosing its operations and ownership through standard regulatory filings including the annual [10-K](/wiki/10-k/).
 

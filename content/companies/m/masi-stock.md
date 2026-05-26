@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Masimo Corporation manufactures and sells non-invasive patient-monitoring devices — instruments that measure vital signs like oxygen saturation and carbon dioxide levels without cutting into the skin. These sensors have become standard equipment in hospitals, surgical suites, and increasingly in consumer wearables. The company's core business has been monitoring devices and the consumable sensors that go with them; its growth has come from expanding into new physiology measurements and into consumer health through partnerships like its technology in the Apple Watch. The company is based in Irvine, California, and operates globally, with revenue spread across hospitals and critical-care settings in developed markets and a growing presence in emerging regions.
+Masimo Corporation manufactures and sells non-invasive patient-monitoring devices — instruments that measure vital signs like oxygen saturation and carbon dioxide levels without cutting into the skin. These sensors have become standard equipment in hospitals, surgical suites, and increasingly in consumer wearables. The company's core business has been monitoring devices and the consumable sensors that go with them; its growth has come from expanding into new physiology measurements and into consumer health through partnerships like its technology in the [Apple](/aapl-stock/) Watch. The company is based in Irvine, California, and operates globally, with revenue spread across hospitals and critical-care settings in developed markets and a growing presence in emerging regions.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ The monitors evolved over the years to add more capability: besides oxygen satur
 
 Masimo's leap into consumer technology came through partnerships rather than direct consumer sales. The most visible is its relationship with Apple. Masimo's technology powers the blood-oxygen sensor in the Apple Watch — a non-invasive measurement that millions of people now wear daily. This consumer exposure has raised Masimo's profile but also creates a subtle tension: most of the company's profit still comes from selling to hospitals, where margins are built into a different price architecture and relationship than consumer electronics.
 
-The company has also pursued acquisitions to broaden its monitoring portfolio. It acquired Rad-97, expanding into capnography (end-tidal CO2 measurement). It built a patient-monitoring data platform called ConnectedCare to integrate with hospital IT systems. These moves stretched Masimo beyond pure devices into software and data services — a common trajectory for medical-device companies trying to build stickier customer relationships.
+The company has also pursued [acquisitions](/acquisition/) to broaden its monitoring portfolio. It acquired Rad-97, expanding into capnography (end-tidal CO2 measurement). It built a patient-monitoring data platform called ConnectedCare to integrate with hospital IT systems. These moves stretched Masimo beyond pure devices into software and data services — a common trajectory for medical-device companies trying to build stickier customer relationships.
 
 ## Profitability rooted in switching costs and installed base
 

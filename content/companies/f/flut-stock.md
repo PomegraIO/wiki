@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Flutter Entertainment is an operator of online gambling and sports betting platforms, headquartered in Dublin and listed on the London Stock Exchange. The company is global but concentrated in established English-speaking and European markets. Its portfolio includes Betfair (a betting exchange founded in 2000), FanDuel (a sports betting and iGaming operator in the United States), and Paddy Power and Sky Betting (brands dominant in the United Kingdom and Ireland). The business model is straightforward: the company provides platforms—branded websites and mobile apps—where customers place wagers on sports, casino games, and other events, and Flutter keeps a percentage of the money wagered as commission or margin.
+Flutter Entertainment is an operator of online gambling and sports betting platforms, headquartered in Dublin and listed on the [London Stock Exchange](/london-stock-exchange/). The company is global but concentrated in established English-speaking and European markets. Its portfolio includes Betfair (a betting exchange founded in 2000), FanDuel (a sports betting and iGaming operator in the United States), and Paddy Power and Sky Betting (brands dominant in the United Kingdom and Ireland). The business model is straightforward: the company provides platforms—branded websites and mobile apps—where customers place wagers on sports, casino games, and other events, and Flutter keeps a percentage of the money wagered as commission or margin.
 
 ## The betting exchange versus the sportsbook: two business models
 
@@ -23,7 +23,7 @@ The exchange model is lower risk—Betfair is largely indifferent to who wins an
 
 Betfair, the exchange, is dominant in the United Kingdom and Ireland but has never scaled meaningfully in the United States, where betting exchanges are less familiar and less regulated. Flutter's American exposure comes primarily through FanDuel, a traditional sportsbook brand that has become one of the largest sports betting operators in the U.S. market. With the legalization of sports betting across U.S. states beginning in 2018, FanDuel expanded rapidly, and the U.S. has become Flutter's largest single market by revenue.
 
-That concentration in the U.S. creates strategic tension. The U.S. sports betting market is extremely competitive—large operators like DraftKings, BetMGM (owned by MGM Resorts), and Caesars compete intensely for customers, spending heavily on customer acquisition. Margins are thin, and acquisition costs for a new sports bettor are steep because many states tax sportsbook operators at high effective rates. Flutter has invested billions to build FanDuel's position, and the market opportunity is real, but the profitability is lower than Betfair's established European operations.
+That concentration in the U.S. creates strategic tension. The U.S. sports betting market is extremely competitive—large operators like DraftKings, BetMGM (owned by MGM Resorts), and Caesars compete intensely for customers, spending heavily on customer [acquisition](/acquisition/). Margins are thin, and acquisition costs for a new sports bettor are steep because many states tax sportsbook operators at high effective rates. Flutter has invested billions to build FanDuel's position, and the market opportunity is real, but the profitability is lower than Betfair's established European operations.
 
 ## The iGaming segment and margin pressure
 
@@ -33,7 +33,7 @@ Beyond sports betting, Flutter operates casino and other gaming platforms—onli
 
 Revenue arrives in the form of gross gaming revenue (GGR)—the money Flutter keeps from all wagers placed on its platforms. For a sportsbook, GGR is the sum of losing bets minus winning bets paid out. For an exchange, GGR is the commission taken from matched bets. Costs are substantial: customer acquisition costs (spending on ads and promotions to attract new players), payment processing, technology and platform maintenance, regulatory and compliance costs, and corporate overhead. The difference between GGR and these costs is operating profit.
 
-For publicly traded operators, the metric that matters is adjusted EBITDA or normalized profit, which strips out one-time items and focuses on the underlying operation. Profitability varies dramatically by region: the United Kingdom and Ireland are mature, competitive markets where margins are pressed; emerging markets offer higher margins but carry regulatory and liquidity risk. The U.S. market is high-growth but currently unprofitable at the operating level because acquisition costs are so high.
+For publicly traded operators, the metric that matters is adjusted [EBITDA](/ebitda/) or normalized profit, which strips out one-time items and focuses on the underlying operation. Profitability varies dramatically by region: the United Kingdom and Ireland are mature, competitive markets where margins are pressed; emerging markets offer higher margins but carry regulatory and [liquidity risk](/liquidity-risk/). The U.S. market is high-growth but currently unprofitable at the operating level because acquisition costs are so high.
 
 ## Regulatory exposure and the risk landscape
 

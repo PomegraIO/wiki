@@ -37,7 +37,7 @@ The company also invests in research into Enhanced Geothermal Systems (EGS), whe
 
 ### What constrains the business?
 
-Geography is the fundamental constraint. Geothermal resources are not evenly distributed across the Earth. They cluster along tectonic plate boundaries and in volcanic regions—Iceland, New Zealand, the Philippines, East Africa, the Ring of Fire around the Pacific. The United States has significant geothermal potential in the West (Nevada, California, Oregon), but much of the rest of the country has little geothermal heat to tap. This geographic concentration limits how many plants Ormat can develop and where it can operate.
+Geography is the fundamental constraint. Geothermal resources are not evenly distributed across the Earth. They cluster along tectonic plate boundaries and in volcanic regions—Iceland, New Zealand, the Philippines, East Africa, the Ring of Fire around the Pacific. The United States has significant geothermal potential in the West (Nevada, California, Oregon), but much of the rest of the country has little geothermal heat to tap. This geographic [concentration limits](/concentration-limits/) how many plants Ormat can develop and where it can operate.
 
 Each plant also requires significant upfront capital investment and time to develop. Drilling deep wells is expensive, risky, and subject to regulatory permitting. A new geothermal plant typically requires 3–7 years from initial feasibility study to commercial operation, depending on local conditions and regulatory processes. Ormat must thus plan far ahead and execute efficiently to bring new capacity online.
 

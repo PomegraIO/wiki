@@ -51,12 +51,12 @@ The CRO business is ultimately dependent on how much its customers spend on deve
 
 Regulatory change is a constant risk. New rules around trial design, data privacy, site inspection, or patient protections can raise costs overnight and require ICON to invest in new capabilities to stay compliant. The push toward real-world evidence and novel trial designs also means the company must innovate constantly or risk losing ground to more agile competitors.
 
-Geopolitical risk is real as well. ICON runs trials in many countries, and sanctions, visa restrictions, or political instability in key markets can disrupt operations. China and India are huge sourcing markets for trial sites and patient populations, and any fracture in those relationships would hurt the company.
+Geopolitical risk is real as well. ICON runs trials in many countries, and sanctions, [visa](/v-stock/) restrictions, or political instability in key markets can disrupt operations. China and India are huge sourcing markets for trial sites and patient populations, and any fracture in those relationships would hurt the company.
 
 ## How a reader would research ICON
 
 Start with the 10-K (SEC CIK 0001060955), which lays out trial volume, customer concentration, segment profitability, and the backlog of future trials. Look for metrics like "trial initiation rate" and "patient enrollment pace" — these are the leading indicators of future revenue. The earnings calls matter because management gives commentary on the pharma pipeline, customer spending intentions, and new contract wins. Watch the gross margin trend: if it is falling, it usually signals increased competition or rising costs to win work.
 
-The price-to-earnings ratio and price-to-sales ratio reveal how the market values the earnings power of these contracts. Because trials have long duration and variable timing, the backlog — the value of work already contracted but not yet performed — is a key metric to understand. That backlog, expressed in dollars, is the most honest picture of future revenue.
+The [price-to-earnings ratio](/price-to-earnings-ratio/) and [price-to-sales ratio](/price-to-sales-ratio/) reveal how the market values the earnings power of these contracts. Because trials have long duration and variable timing, the backlog — the value of work already contracted but not yet performed — is a key metric to understand. That backlog, expressed in dollars, is the most honest picture of future revenue.
 
 An investor also benefits from tracking pharmaceutical industry news: when large drug approvals happen and which companies won the trials, which customer firms are cutting R&D, and whether CRO consolidation is accelerating. ICON's fortunes rise and fall with the health of the drug pipeline itself.

@@ -20,7 +20,7 @@ VirnetX traces its origins to intellectual property developed under government c
 
 ## The Litigation Engine
 
-The revenue stream flows almost entirely from patent licensing and litigation proceeds. VirnetX has sued or demanded licensing from Apple, Microsoft, Intel, Cisco, and other household names—often simultaneously, targeting multiple companies' versions of VPN clients, secure messaging, or encrypted data transmission features. Notable suits have included claims that Apple's FaceTime and iMessage infringe VirnetX patents, a case that drew significant attention to the company's litigious approach.
+The revenue stream flows almost entirely from patent licensing and litigation proceeds. VirnetX has sued or demanded licensing from [Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Intel](/intc-stock/), Cisco, and other household names—often simultaneously, targeting multiple companies' versions of VPN clients, secure messaging, or encrypted data transmission features. Notable suits have included claims that Apple's FaceTime and iMessage infringe VirnetX patents, a case that drew significant attention to the company's litigious approach.
 
 Settlements and jury awards have occasionally brought large cash infusions. A settlement with Apple in 2012 was reportedly in the tens of millions; other settlements with Cisco and others have added to the war chest. However, litigation is unpredictable and costly. Unfavorable rulings, appeal losses, or dismissals for lack of merit also punctuate the record. The business model depends on the legal system treating the company's patent claims as valid and infringed—a bet that grows riskier as patent law itself shifts and as courts become more skeptical of certain types of software patents.
 

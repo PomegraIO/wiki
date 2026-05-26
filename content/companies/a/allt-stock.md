@@ -26,9 +26,9 @@ handwritten: true
 
 ## The Network Security Play
 
-Allot is an Israeli software maker focused on telecommunications infrastructure security and intelligence. The company builds platforms that service providers and enterprises deploy to protect networks, manage traffic, and deliver [cybersecurity](/wiki/cybersecurity/) to millions of subscribers globally. Founded in 1996, Allot went public on [Nasdaq](/nasdaq/) in 2006 and now operates across two continents, serving over 500 service providers and more than 1,000 enterprises.
+Allot is an Israeli software maker focused on telecommunications infrastructure security and intelligence. The company builds platforms that service providers and enterprises deploy to protect networks, manage traffic, and deliver cybersecurity to millions of subscribers globally. Founded in 1996, Allot went public on [Nasdaq](/nasdaq/) in 2006 and now operates across two continents, serving over 500 service providers and more than 1,000 enterprises.
 
-The core product is the Allot Secure Management platform, a multi-layered security architecture including network security (NetworkSecure), home security (HomeSecure), DNS security (DNSecure), IoT security (IoTSecure), and endpoint protection. The company also delivers these capabilities as cloud-hosted managed services under Allot Secure 360—a [security-as-a-service](/wiki/saas-security-services/) model. AllotSmart provides network intelligence and analytics to help operators understand subscriber behavior and traffic patterns.
+The core product is the Allot Secure Management platform, a multi-layered security architecture including network security (NetworkSecure), home security (HomeSecure), DNS security (DNSecure), IoT security (IoTSecure), and endpoint protection. The company also delivers these capabilities as cloud-hosted managed services under Allot Secure 360—a security-as-a-service model. AllotSmart provides network intelligence and analytics to help operators understand subscriber behavior and traffic patterns.
 
 ## Building Competitive Depth
 

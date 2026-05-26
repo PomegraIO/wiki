@@ -60,7 +60,7 @@ At the same time, KKR faces structural headwinds. The private equity and credit 
 
 ## Investment approach and portfolio diversity
 
-Rather than a single playbook, KKR operates a portfolio of strategies tailored to different client risk appetites and time horizons. Classic leveraged buyouts still dominate by deal count but private equity capital has increasingly flowed into growth equity (minority stakes in rapidly scaling firms without a full buyout) and credit-focused strategies (where KKR acts as a lender rather than an owner). Infrastructure funds appeal to pension funds and sovereign wealth funds seeking stable, inflation-hedged returns over 20+ year horizons. The insurance business attracts capital that views insurance float as a permanent source of compounding returns—a philosophy influenced by Berkshire Hathaway's Buffett-inspired approach.
+Rather than a single playbook, KKR operates a portfolio of strategies tailored to different client risk appetites and time horizons. Classic leveraged buyouts still dominate by deal count but private equity capital has increasingly flowed into growth equity (minority stakes in rapidly scaling firms without a full buyout) and credit-focused strategies (where KKR acts as a lender rather than an owner). Infrastructure funds appeal to pension funds and sovereign wealth funds seeking stable, inflation-hedged returns over 20+ year horizons. The insurance business attracts capital that views insurance float as a permanent source of compounding returns—a philosophy influenced by [Berkshire Hathaway](/brk-b-stock/)'s Buffett-inspired approach.
 
 This breadth creates both opportunity and complexity: investors must diligence numerous sub-strategies, each with distinct risk/return profiles and liquidity terms.
 
@@ -82,7 +82,7 @@ Investors and analysts typically focus on three dimensions when evaluating KKR:
 
 **Earned fee income and carry realization** are the true earnings drivers. Management fees provide a baseline; carry is the upside. In quarterly earnings, watch for trends in realized carried interest, which can swing materially quarter to quarter.
 
-Reviewing KKR's [10-K](/wiki/10-k/) filings reveals the composition of AUM by strategy, geographic distribution, and net cash positions. Quarterly earnings calls detail new fundraising, deal activity, and management's outlook on market conditions. Competitor comparisons with Blackstone, Apollo Global Management, and Brookfield help calibrate valuations and growth expectations.
+Reviewing KKR's [10-K](/wiki/10-k/) filings reveals the composition of AUM by strategy, geographic distribution, and net cash positions. Quarterly earnings calls detail new fundraising, deal activity, and management's outlook on market conditions. Competitor comparisons with Blackstone, [Apollo Global Management](/apo-stock/), and Brookfield help calibrate valuations and growth expectations.
 
 Insurance metrics—loss ratios, combined ratios, and investment returns at Global Atlantic—are equally important for understanding the full earnings picture. A deterioration in underwriting results can offset gains from investment carry.
 

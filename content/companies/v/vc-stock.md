@@ -14,7 +14,7 @@ handwritten: true
 
 ## The Spin and Refocus
 
-Visteon emerged from Ford Motor Company in 2000 as a diversified automotive parts supplier, initially operating three main divisions: climate systems, interior systems, and electronics. For the first fifteen years, it competed as a broad-based supplier, but that model grew cramped. Between 2015 and 2016, the company executed a strategic retreat, divesting its climate operations and chassis businesses. The intent was surgical: focus entirely on cockpit electronics and vehicle software—precisely where the automotive industry's real transformation was accelerating toward autonomous driving, electrification, and software-defined vehicles.
+Visteon emerged from [Ford Motor](/f-stock/) Company in 2000 as a diversified automotive parts supplier, initially operating three main divisions: climate systems, interior systems, and electronics. For the first fifteen years, it competed as a broad-based supplier, but that model grew cramped. Between 2015 and 2016, the company executed a strategic retreat, divesting its climate operations and chassis businesses. The intent was surgical: focus entirely on cockpit electronics and vehicle software—precisely where the automotive industry's real transformation was accelerating toward autonomous driving, electrification, and software-defined vehicles.
 
 ## What It Makes
 
@@ -24,13 +24,13 @@ The company also produces telematics and over-the-air (OTA) update platforms, al
 
 ## Revenue Streams and Customers
 
-Visteon's sales come almost entirely from supplying these systems to original equipment manufacturers. Its major customers include Ford (its birthplace, but no longer a majority buyer), Volkswagen Group, General Motors, BMW, Daimler, Renault-Nissan, and others. A significant and growing piece involves the Chinese automotive industry, where the company has expanded to serve rising OEMs and EV manufacturers racing to build software-centric vehicles.
+Visteon's sales come almost entirely from supplying these systems to original equipment manufacturers. Its major customers include Ford (its birthplace, but no longer a majority buyer), Volkswagen Group, [General Motors](/gm-stock/), BMW, Daimler, Renault-Nissan, and others. A significant and growing piece involves the Chinese automotive industry, where the company has expanded to serve rising OEMs and EV manufacturers racing to build software-centric vehicles.
 
 The business model is project-based, tied to vehicle platforms. When an OEM launches a new generation of a car, Visteon usually has won a multi-year contract to supply that generation's cockpit systems. [Revenue recognition](/revenue-recognition/) follows production ramps—low at launch, building as volumes rise, then declining as the platform ages. This creates cyclical pressure tied to the broader auto industry's production capacity and consumer demand.
 
 ## Competitive Position and Strategic Challenges
 
-Visteon competes with a small field of similarly specialized suppliers: Harman (now Samsung), Continental, Denso, and a handful of emerging software-first competitors. Its advantage rests on long relationships with major OEMs, deep cockpit integration expertise, and proprietary software and algorithms embedded in its platforms. Its vulnerability mirrors the auto industry's uncertainty: traditional OEMs face margin pressure from EVs, legacy platforms earn lower returns, and the emergence of Tesla and Chinese EV makers (many with vertically integrated software) threatens the traditional supplier pecking order.
+Visteon competes with a small field of similarly specialized suppliers: Harman (now Samsung), Continental, Denso, and a handful of emerging software-first competitors. Its advantage rests on long relationships with major OEMs, deep cockpit integration expertise, and proprietary software and algorithms embedded in its platforms. Its vulnerability mirrors the auto industry's uncertainty: traditional OEMs face margin pressure from EVs, legacy platforms earn lower returns, and the emergence of [Tesla](/tsla-stock/) and Chinese EV makers (many with vertically integrated software) threatens the traditional supplier pecking order.
 
 The company has also invested in software depth to compete in autonomous driving architectures and vehicle connectivity layers—spaces where pure hardware supplier margins tend to compress as software dominates. Visteon has positioned itself as a "software-enabled" cockpit provider rather than a hardware manufacturer, but execution risk remains.
 

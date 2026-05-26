@@ -17,7 +17,7 @@ handwritten: true
 
 Janus Living's business centers on the management and operation of senior care communities. Rather than owning significant real estate (unlike traditional REITs), the company primarily operates facilities under management contracts or leases negotiated with property owners or owner-operators. This asset-light model defines much of its risk and profit profile: margins depend heavily on occupancy rates, average daily rates, and labor costs rather than property appreciation or long-term capital deployment.
 
-The company's communities serve different segments within the senior market. Assisted living communities target independent seniors who need some support with daily activities—medication management, meals, housekeeping. Memory care units focus on residents with dementia or Alzheimer's disease, featuring specialized staffing, secure environments, and programming designed for that population. Some locations also operate skilled nursing beds, which provide higher-acuity care and typically command higher daily rates, though they entail more intensive regulatory oversight and staffing requirements.
+The company's communities serve different segments within the senior market. Assisted living communities [target](/tgt-stock/) independent seniors who need some support with daily activities—medication management, meals, housekeeping. Memory care units focus on residents with dementia or Alzheimer's disease, featuring specialized staffing, secure environments, and programming designed for that population. Some locations also operate skilled nursing beds, which provide higher-acuity care and typically command higher daily rates, though they entail more intensive regulatory oversight and staffing requirements.
 
 ## Revenue Model and Profitability Drivers
 
@@ -45,7 +45,7 @@ Seasonal variation in occupancy is real but modest. Summer typically sees slight
 
 As a public company, Janus files [10-K](/wiki/10-k/) annual and 10-Q quarterly filings with the SEC under CIK 2100805. The 10-K discloses segment revenue, operating expenses, occupancy rates, and narrative discussion of market conditions and challenges. Key metrics to monitor: average occupancy rate per community, average daily rate (ADR) trends, labor costs as a percentage of revenue, and comparable community performance (same-store growth).
 
-The company's debt structure and [capital structure](/wiki/capital-structure/) appear in the [balance sheet](/balance-sheet/) and management discussion. Investors should track debt-to-EBITDA and interest coverage to gauge financial flexibility.
+The company's debt structure and capital structure appear in the [balance sheet](/balance-sheet/) and management discussion. Investors should track debt-to-EBITDA and interest coverage to gauge financial flexibility.
 
 Earnings reports and guidance tend to reflect seasonal occupancy patterns and inflation in labor costs. Analyst calls often discuss regional performance, reimbursement changes, and [acquisition](/acquisition/) or [divestiture](/divestiture/) activity. Check the company's investor relations page for guidance and update language on occupancy and rate trends.
 

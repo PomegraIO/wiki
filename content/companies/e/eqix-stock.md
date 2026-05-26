@@ -13,7 +13,7 @@ handwritten: true
 
 A data center is a building filled with computers, storage devices, and networking equipment. It needs electricity, cooling, backup power systems, physical security, and reliable internet connections. A company that wants to run its own servers could build and operate its own data center, but that is expensive and complicated. Equinix owns and operates data centers and rents space inside them to other companies.
 
-That simple idea — building shared facilities and renting them out — turns out to be essential infrastructure for modern business. Every website, every email system, every video stream, and every cloud service runs on servers sitting in a data center somewhere. Companies like Amazon, Microsoft, and Google operate their own data centers at massive scale. But thousands of smaller companies, financial firms, telecommunications providers, and internet services companies need data center space without wanting to own and operate the building themselves.
+That simple idea — building shared facilities and renting them out — turns out to be essential infrastructure for modern business. Every website, every email system, every video stream, and every cloud service runs on servers sitting in a data center somewhere. Companies like Amazon, [Microsoft](/msft-stock/), and Google operate their own data centers at massive scale. But thousands of smaller companies, financial firms, telecommunications providers, and internet services companies need data center space without wanting to own and operate the building themselves.
 
 Equinix has built a global network of these facilities. It owns more than two hundred data centers across nearly seventy cities on six continents. It is the largest owner of this type of infrastructure in the world.
 
@@ -73,7 +73,7 @@ Equinix faces several risks. The first is competition from hyperscalers — Amaz
 
 The second risk is technological obsolescence. The infrastructure that Equinix owns is long-lived — buildings and power systems last decades. But the way companies use data centers is changing. The shift to cloud services means fewer companies are operating their own servers. The shift to edge computing means more computation happens at the edge of networks, closer to users, rather than in centralized data centers. If these trends accelerate, demand for traditional colocation could decline.
 
-A third risk is capital intensity. Equinix must continually invest in buildings, power systems, and cooling to maintain and expand its footprint. This capital intensity limits how much cash the company can return to shareholders or deploy in acquisitions.
+A third risk is capital intensity. Equinix must continually invest in buildings, power systems, and cooling to maintain and expand its footprint. This capital intensity limits how much cash the company can return to shareholders or deploy in [acquisitions](/acquisition/).
 
 Regulatory risk is also present. Data centers consume significant power, and stricter environmental regulations could require more expensive cooling systems or renewable energy. Similarly, regulations around data localization and data sovereignty could require Equinix to operate data centers in specific countries, complicating the business.
 
@@ -85,6 +85,6 @@ Key metrics include revenue per megawatt, which shows how efficiently Equinix is
 
 Monitor utilization rates. If Equinix is adding capacity but utilization is declining, that is a warning sign. Conversely, if utilization is high and growing, that suggests strong demand.
 
-Watch the capital expenditure plans and return on invested capital. Equinix is capital intensive, so understanding whether new facilities are being deployed in attractive markets and generating acceptable returns is essential.
+Watch the capital expenditure plans and [return on invested capital](/return-on-invested-capital/). Equinix is capital intensive, so understanding whether new facilities are being deployed in attractive markets and generating acceptable returns is essential.
 
-Finally, understand the geographic diversification. Equinix operates in developed markets in North America, Europe, and Asia-Pacific. Growth in fast-growing regions like Singapore, Tokyo, and Dublin signals Equinix's ability to expand and capture growth opportunities.
+Finally, understand the geographic [diversification](/diversification/). Equinix operates in developed markets in North America, Europe, and Asia-Pacific. Growth in fast-growing regions like Singapore, Tokyo, and Dublin signals Equinix's ability to expand and capture growth opportunities.

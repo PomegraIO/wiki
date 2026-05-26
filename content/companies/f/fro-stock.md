@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Frontline operates a fleet of oil tankers — large cargo ships that transport crude oil and refined petroleum products across the world's oceans. The company does not extract, refine, or sell oil; it simply moves it. Frontline owns the ships, hires the crews, bears the fuel and maintenance costs, and contracts with oil companies and traders to carry their cargo for a fee. It is a capital-intensive, cyclical business that generates returns when freight rates are high and can struggle when shipping demand is weak.
+Frontline operates a fleet of oil tankers — large cargo ships that transport [crude oil](/crude-oil/) and refined petroleum products across the world's oceans. The company does not extract, refine, or sell oil; it simply moves it. Frontline owns the ships, hires the crews, bears the fuel and maintenance costs, and contracts with oil companies and traders to carry their cargo for a fee. It is a capital-intensive, cyclical business that generates returns when freight rates are high and can struggle when shipping demand is weak.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Frontline operates a fleet of oil tankers — large cargo ships that transport c
 
 Frontline's fleet is split into two main segments. The larger is crude oil tankers, which carry unrefined crude from oil fields to refineries. These ships are massive — supertankers displacing over 300,000 tons of water — and move the lowest-value cargo relative to size, so they operate on thin per-ton economics. The scale compensates: a single crude tanker can haul 2 million barrels of oil across the Pacific in a trip. Demand for crude-tanker services rises when oil production and global trade are both strong, and falls when oil demand softens or when crude flows from new pipelines make sea transport redundant on certain routes.
 
-The second segment is product tankers — smaller ships that carry refined products like gasoline, diesel, jet fuel, and heating oil. These vessels are more flexible; they can serve multiple routes and carry different cargoes, and the economics are better than crude tankers because refined products carry a higher value per unit of cargo. However, product-tanker demand is tied to refining capacity and consumer demand for fuels, which are less volatile than crude-oil shipments but also slower-growing in mature markets.
+The second segment is product tankers — smaller ships that carry refined products like gasoline, diesel, jet fuel, and [heating oil](/heating-oil/). These vessels are more flexible; they can serve multiple routes and carry different cargoes, and the economics are better than crude tankers because refined products carry a higher value per unit of cargo. However, product-tanker demand is tied to refining capacity and consumer demand for fuels, which are less volatile than crude-oil shipments but also slower-growing in mature markets.
 
 Each segment has its own supply and demand dynamics, but both are driven by the global shipping market: when oil is moving and freight rates are high, tanker returns are strong; when shipping demand weakens, rates collapse and the fleet generates minimal profit or runs at a loss.
 

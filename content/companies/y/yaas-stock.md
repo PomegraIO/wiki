@@ -29,7 +29,7 @@ The company generates revenue through software licensing and service subscriptio
 
 ## Competitive positioning
 
-Youxin operates in a competitive landscape crowded with both established players (such as SAP and Oracle's subsidiaries in Asia) and nimble domestic competitors. Small Chinese software firms often compete on price and localization rather than brand recognition. They may offer faster implementation cycles for domestic clients and better cultural alignment with local business processes. However, this positioning provides limited margin for error: a larger competitor with more resources, or a smaller but more focused rival, can erode market share quickly. The company faces ongoing pressure to invest in product development and customer success to retain and grow its installed base.
+Youxin operates in a competitive landscape crowded with both established players (such as SAP and [Oracle](/orcl-stock/)'s subsidiaries in Asia) and nimble domestic competitors. Small Chinese software firms often compete on price and localization rather than brand recognition. They may offer faster implementation cycles for domestic clients and better cultural alignment with local business processes. However, this positioning provides limited margin for error: a larger competitor with more resources, or a smaller but more focused rival, can erode market share quickly. The company faces ongoing pressure to invest in product development and customer success to retain and grow its installed base.
 
 ## Challenges and risk factors
 

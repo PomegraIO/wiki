@@ -43,7 +43,7 @@ SQM is a low-cost producer, which is an advantage in downturns—the company can
 
 Lithium is now the largest segment, but SQM also produces potassium nitrate, sodium nitrate, boron, and iodine, and it manufactures specialty plant nutrients. These serve distinct markets. Potassium nitrate is used in fertilizers and in specialty chemical applications. Iodine is critical to pharmaceuticals, disinfectants, and industrial processes. Boron compounds are used in glass, detergents, and agriculture.
 
-This diversification provides some stability: if lithium prices crash, iodine and potassium sales may sustain profitability. But it also means the company must operate multiple production and sales organisations, each serving different customers and facing distinct competitive dynamics.
+This [diversification](/diversification/) provides some stability: if lithium prices crash, iodine and potassium sales may sustain profitability. But it also means the company must operate multiple production and sales organisations, each serving different customers and facing distinct competitive dynamics.
 
 ## Integrated production and downstream exposure
 
@@ -61,7 +61,7 @@ Environmental activism has also increased pressure on mining. SQM faces scrutiny
 
 Mining and chemical production are capital intensive. SQM must continuously invest in new extraction capacity, processing plants, and equipment maintenance. When commodity prices are high, the company can self-fund expansion. When prices fall, capital expenditure must be curtailed, limiting the company's ability to expand capacity or reduce unit costs.
 
-The company's return on invested capital is therefore cyclical. In peak years, ROIC can be very high. In troughs, it can be negative. Long-term ROIC depends on buying into the cycle at the right time and managing disciplined capital allocation.
+The company's [return on invested capital](/return-on-invested-capital/) is therefore cyclical. In peak years, ROIC can be very high. In troughs, it can be negative. Long-term ROIC depends on buying into the cycle at the right time and managing disciplined capital allocation.
 
 ## Ownership and governance
 

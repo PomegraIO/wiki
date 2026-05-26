@@ -35,7 +35,7 @@ Domains remain the foundation of GoDaddy's business. There are roughly three hun
 
 What makes domain registration valuable is its recurring nature. A customer buys a domain for a year (or several years), and when the registration is about to expire, they renew. Most customers renew because switching to another registrar is cumbersome and the annual cost is small relative to the value of keeping their address on the web. This creates a high-margin, low-churn revenue stream: once GoDaddy wins a customer, the cost of servicing that customer from year to year is minimal, so renewal rates typically exceed ninety percent.
 
-The domain market itself has matured and is largely static — the overall number of registered domains does not grow quickly anymore. Growth for GoDaddy therefore depends on winning market share from competitors (like Namecheap or Tucows), not on the domain market expanding. The company has won share through acquisition (it has bought several rival registrars over the years) and by bundling additional services that make it convenient to stay within the GoDaddy ecosystem.
+The domain market itself has matured and is largely static — the overall number of registered domains does not grow quickly anymore. Growth for GoDaddy therefore depends on winning market share from competitors (like Namecheap or Tucows), not on the domain market expanding. The company has won share through [acquisition](/acquisition/) (it has bought several rival registrars over the years) and by bundling additional services that make it convenient to stay within the GoDaddy ecosystem.
 
 ## Web hosting and the bundle
 
@@ -53,11 +53,11 @@ The company therefore prioritizes keeping customers for as long as possible and 
 
 The domain registration market includes a long tail of smaller competitors, but GoDaddy's scale and brand awareness give it a durable advantage in customer acquisition. Switching costs are low in principle — moving a domain is technically feasible — but customers are often sticky because they have bundled services, stored credit cards, and established workflows within GoDaddy. The company has also used aggressive marketing (once famous for irreverent Super Bowl advertisements) to maintain top-of-mind awareness among small business owners.
 
-The web-hosting and small-business-tools market is more competitive, with both large companies (like Amazon Web Services and Microsoft Azure offering cloud services) and numerous smaller hosting providers fighting for customers. GoDaddy competes here not on sophistication or raw computing power but on ease of use and price — it sells to entrepreneurs and small businesses, not to engineers, so its hosting and tools must be genuinely simple.
+The web-hosting and small-business-tools market is more competitive, with both large companies (like Amazon Web Services and [Microsoft](/msft-stock/) Azure offering cloud services) and numerous smaller hosting providers fighting for customers. GoDaddy competes here not on sophistication or raw computing power but on ease of use and price — it sells to entrepreneurs and small businesses, not to engineers, so its hosting and tools must be genuinely simple.
 
 ## Ownership and capital allocation
 
-GoDaddy was founded by Bob Parsons and went public in 2015. It was taken private in 2021 by private-equity firm Thoma Bravo in a leveraged buyout. In 2023, it went public again. The company's capital strategy has historically been disciplined: it emphasizes free cash flow and has used cash to pay down debt, buy back stock when the price is attractive, and occasionally acquire smaller businesses in adjacent markets (like email marketing platforms or e-commerce tools) to bolt into the platform.
+GoDaddy was founded by Bob Parsons and went public in 2015. It was taken private in 2021 by private-equity firm Thoma Bravo in a [leveraged buyout](/leveraged-buyout/). In 2023, it went public again. The company's capital strategy has historically been disciplined: it emphasizes [free cash flow](/free-cash-flow/) and has used cash to pay down debt, buy back stock when the price is attractive, and occasionally acquire smaller businesses in adjacent markets (like email marketing platforms or e-commerce tools) to bolt into the platform.
 
 ## Secular trends and headwinds
 

@@ -17,4 +17,4 @@ Geographically, the company targets jurisdictions in the Americas where the geol
 
 The risk profile is steep. Most exploration projects fail to find economic ore bodies. Even successful discoveries take years to move from resource estimate to production. The stock is deeply cyclical—when gold prices are strong and junior mining sentiment is bullish, [capital flows](/capital-flows/) freely; when the opposite occurs, companies like this freeze programs and struggle to raise cash. Dilution is endemic as companies issue shares to fund operations. Only investors comfortable with the possibility of total loss should consider this sector.
 
-See also: [gold mining](/wiki/gold-mining/), [mining exploration](/wiki/mining-exploration/), [junior mining stocks](/wiki/junior-mining-stocks/)
+See also: gold mining, mining exploration, junior mining stocks

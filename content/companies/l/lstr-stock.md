@@ -50,7 +50,7 @@ Landstar's freight volumes are tied to economic activity. When manufacturers, re
 
 ## Pricing and competition
 
-Landstar competes on service quality and network reliability rather than pure price. The company targets customers who value consistent, dependable service over rock-bottom rates. Larger integrated carriers like YRC Worldwide or trucking divisions of logistics giants offer different value propositions — size, integrated services, one-stop shopping. Pure brokers and freight marketplaces compete on price and transactional efficiency. Landstar occupies a middle ground: bigger and more integrated than a pure broker, more specialized than a giant freight conglomerate.
+Landstar competes on service quality and network reliability rather than pure price. The company targets customers who value consistent, dependable service over rock-bottom rates. Larger integrated carriers like YRC Worldwide or trucking divisions of logistics giants offer different value propositions — size, integrated services, one-stop shopping. Pure [brokers](/broker/) and freight marketplaces compete on price and transactional efficiency. Landstar occupies a middle ground: bigger and more integrated than a pure broker, more specialized than a giant freight conglomerate.
 
 ## Operating metrics that matter
 

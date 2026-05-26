@@ -42,7 +42,7 @@ Fortinet has accelerated this mix by acquiring companies that complement FortiGa
 
 ## The competitive landscape and moats
 
-Fortinet competes against Cisco Meraki, Palo Alto Networks (which acquired Cato Networks and Cortex to broaden its platform), Check Point, Juniper (which owns SRX firewalls), and an alphabet soup of point-solution vendors focused on one aspect of security. The market has consolidated significantly: customers increasingly prefer a unified platform where firewalls, threat prevention, endpoint protection, and cloud security come from a single vendor, rather than piecing together tools from different companies.
+Fortinet competes against Cisco Meraki, [Palo Alto Networks](/panw-stock/) (which acquired Cato Networks and Cortex to broaden its platform), Check Point, Juniper (which owns SRX firewalls), and an [alphabet](/googl-stock/) soup of point-solution vendors focused on one aspect of security. The market has consolidated significantly: customers increasingly prefer a unified platform where firewalls, threat prevention, endpoint protection, and cloud security come from a single vendor, rather than piecing together tools from different companies.
 
 Fortinet's advantages are its hardware appliance heritage (FortiGate runs efficiently on custom silicon), its massive installed base (which means administrators are familiar with the management interface and security teams are trained on it), and the breadth of its product portfolio. The main risk is that Palo Alto Networks has superior brand recognition, deeper relationships with large enterprises, and a more integrated cloud-native architecture. Palo Alto also has more resources to acquire complementary companies and to invest in next-generation capabilities like AI-driven threat detection.
 
@@ -58,9 +58,9 @@ The shift toward zero-trust architecture (a security model that verifies every a
 
 ## Business model and margins
 
-Fortinet's gross margin (revenue minus cost of goods sold) is roughly 70 percent and has been stable as the product mix shifts toward subscriptions. Operating margin (profit after operating expenses) is lower because the company invests heavily in research and development to stay competitive. The company generally runs at relatively thin operating margins even during periods of strong revenue growth, which is typical of cloud-software companies that prioritize market share and feature parity over near-term profitability.
+Fortinet's gross margin (revenue minus cost of goods sold) is roughly 70 percent and has been stable as the product mix shifts toward subscriptions. Operating margin (profit after operating expenses) is lower because the company invests heavily in research and development to stay competitive. The company generally runs at relatively thin [operating margins](/operating-margin/) even during periods of strong revenue growth, which is typical of cloud-software companies that prioritize market share and feature parity over near-term profitability.
 
-Cash flow is another story. Because subscriptions are paid upfront for a year or more, Fortinet converts revenue into cash quickly. This allows the company to invest in organic growth and occasional acquisitions without relying on external financing.
+Cash flow is another story. Because subscriptions are paid upfront for a year or more, Fortinet converts revenue into cash quickly. This allows the company to invest in organic growth and occasional [acquisitions](/acquisition/) without relying on external financing.
 
 ## Investment dynamics and what to monitor
 

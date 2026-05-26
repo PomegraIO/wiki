@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-MYR Group Inc. is an electrical construction contractor serving utilities, renewable-energy developers, industrial manufacturers, and infrastructure clients across North America. The company designs, builds, and maintains electrical systems—from transmission lines and substation work to solar and wind installations, industrial plant electrification, and grid-modernisation projects. It operates as a publicly traded firm (NASDAQ: MYRG), competing in a fragmented market where reputation, safety record, skilled labour capacity, and project management are the primary forms of competitive advantage.
+MYR Group Inc. is an electrical construction contractor serving utilities, renewable-energy developers, industrial manufacturers, and infrastructure clients across North America. The company designs, builds, and maintains electrical systems—from transmission lines and substation work to solar and wind installations, industrial plant electrification, and grid-modernisation projects. It operates as a publicly traded firm ([NASDAQ](/nasdaq/): MYRG), competing in a fragmented market where reputation, safety record, skilled labour capacity, and project management are the primary forms of competitive advantage.
 
-The company's growth has tracked the long-term electrification of the US economy: renewable-energy buildout, aging grid modernisation, industrial facility upgrades, and the emerging adoption of electric vehicles. Electricity infrastructure spending has been rising for years, and recent federal support through the Inflation Reduction Act and Infrastructure Investment and Jobs Act has accelerated client confidence and project pipelines. For MYR Group, this translates into strong visibility on revenue, though cost pressures and labour scarcity remain persistent headwinds.
+The company's growth has tracked the long-term electrification of the US economy: renewable-energy buildout, aging grid modernisation, industrial facility upgrades, and the emerging adoption of electric vehicles. Electricity infrastructure spending has been rising for years, and recent federal support through the [Inflation](/inflation/) Reduction Act and Infrastructure Investment and [Jobs Act](/jobs-act/) has accelerated client confidence and project pipelines. For MYR Group, this translates into strong visibility on revenue, though cost pressures and labour scarcity remain persistent headwinds.
 
 ## How MYR Group builds its revenue and backlog
 
@@ -35,9 +35,9 @@ Seasonal patterns are mild. Electrical work continues year-round, though severe 
 
 The electrical-construction market is fragmented: national firms like MYR Group compete alongside dozens of large regional contractors and thousands of small local electricians. Differentiation hinges on safety culture, quality, union relationships, and the ability to manage large, geographically dispersed projects reliably. Utilities and large industrial clients favour established contractors with strong safety records and the capacity to mobilise crews rapidly.
 
-MYR Group has built scale through organic growth and selective acquisitions of regional competitors, consolidating labour capacity and project pipelines. The company's national footprint is an advantage: it can move crews between regions to follow project opportunities and serve clients with multi-state operations.
+MYR Group has built scale through organic growth and selective [acquisitions](/acquisition/) of regional competitors, consolidating labour capacity and project pipelines. The company's national footprint is an advantage: it can move crews between regions to follow project opportunities and serve clients with multi-state operations.
 
-Barriers to entry are moderate. Starting an electrical-contracting business requires craft credentials and licensing but not substantial capital. Growth, however, requires bonding capacity (contractors must post performance bonds to secure large contracts), a reputation for safety, and labour relationships—factors that take years to build. MYR Group's scale and backlog create a moat against new entrants but not against established rivals.
+Barriers to entry are moderate. Starting an electrical-contracting business requires craft credentials and licensing but not substantial capital. Growth, however, requires bonding capacity (contractors must post performance [bonds](/bond/) to secure large contracts), a reputation for safety, and labour relationships—factors that take years to build. MYR Group's scale and backlog create a moat against new entrants but not against established rivals.
 
 ## Structural tailwinds and risks
 
@@ -45,13 +45,13 @@ Federal infrastructure spending is a near-term tailwind. The Inflation Reduction
 
 Longer-term, the electrification of transportation, heating, and industrial processes is structural. Grid capacity must expand to support electric vehicles and heat pumps; manufacturing facilities must upgrade electrical infrastructure to integrate new processes. This demand is durable and not easily substitutable.
 
-Risks include a slowdown in capital spending if a recession reduces business and utility confidence, sustained labour scarcity that prevents wage and margin stabilisation, or disruption from the increasing adoption of modular, pre-fabricated electrical systems (which could reduce on-site labour intensity and margin). Geopolitical or commodity-price shocks that raise material costs also pose risk, though labour remains the primary cost lever.
+Risks include a slowdown in capital spending if a [recession](/recession/) reduces business and utility confidence, sustained labour scarcity that prevents wage and margin stabilisation, or disruption from the increasing adoption of modular, pre-fabricated electrical systems (which could reduce on-site labour intensity and margin). Geopolitical or commodity-price shocks that raise material costs also pose risk, though labour remains the primary cost lever.
 
 ## How to evaluate MYR Group as an equity
 
-Begin with the latest 10-K (CIK 0000700923) for segment revenue, gross and operating margin trends, backlog (in dollars, not just mentions), and management commentary on labour cost inflation and project execution. The quarterly earnings releases highlight backlog growth, which is a leading indicator of future revenue.
+Begin with the latest 10-K (CIK 0000700923) for segment revenue, gross and [operating margin](/operating-margin/) trends, backlog (in dollars, not just mentions), and management commentary on labour cost inflation and project execution. The quarterly earnings releases highlight backlog growth, which is a leading indicator of future revenue.
 
-Key metrics: gross-margin percentage and trend (revealing pricing power and cost absorption); backlog-to-quarterly-revenue ratio (showing forward visibility—typically 3–5 quarters for large contractors); return on contract cost and project-level profitability disclosure; days sales outstanding and working-capital intensity (construction companies often finance customer delays); and debt levels relative to cash generation (capital-intensive businesses can overextend).
+Key metrics: gross-margin percentage and trend (revealing pricing power and cost absorption); backlog-to-quarterly-revenue ratio (showing forward visibility—typically 3–5 quarters for large contractors); return on contract cost and project-level profitability disclosure; [days sales outstanding](/days-sales-outstanding/) and working-capital intensity (construction companies often finance customer delays); and debt levels relative to cash generation (capital-intensive businesses can overextend).
 
 Monitor electrical-construction indices and public utility commission spending trends; falling construction activity or utility CapEx cuts presage softer demand. Watch labour-cost inflation and union wage negotiations; these typically affect margins before appearing in public guidance.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Restoration Hardware, trading as RH, operates one of the most distinctive luxury home-furnishings businesses in North America. The company built its empire by marrying restoration sensibility—carefully curating and reimagining vintage design artifacts—with a contemporary brand identity and a relentless focus on the upper-income consumer. What began as a single showroom in 1980 selling vintage hardware and home restoration products has matured into a $20 billion-plus (by [market cap](/market-capitalization/)) powerhouse commanding an outsized share of the aspirational home market through a network of [Galleries](/wiki/retail-location-design/), a thriving e-commerce channel, and a luxury catalog business that feels more like a coffee-table art book than a traditional sales piece.
+Restoration Hardware, trading as RH, operates one of the most distinctive luxury home-furnishings businesses in North America. The company built its empire by marrying restoration sensibility—carefully curating and reimagining vintage design artifacts—with a contemporary brand identity and a relentless focus on the upper-income consumer. What began as a single showroom in 1980 selling vintage hardware and home restoration products has matured into a $20 billion-plus (by [market cap](/market-capitalization/)) powerhouse commanding an outsized share of the aspirational home market through a network of Galleries, a thriving e-commerce channel, and a luxury catalog business that feels more like a coffee-table art book than a traditional sales piece.
 
 <aside class="wiki-infobox">
 **Ticker:** RH  

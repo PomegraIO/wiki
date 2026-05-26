@@ -59,7 +59,7 @@ The company's real moat is not price but the combination of accuracy, reliabilit
 
 ## Scale and margins
 
-Mettler-Toledo generates revenue in the billions and operates with healthy operating margins, supported by the recurring nature of service contracts and the premium prices its precision products command. The company is capital-light relative to heavy industrial manufacturers — it does not own many factories, instead contracting with specialists — which means a large portion of the cash it generates can flow to shareholders or be reinvested in acquisitions and product development.
+Mettler-Toledo generates revenue in the billions and operates with healthy [operating margins](/operating-margin/), supported by the recurring nature of service contracts and the premium prices its precision products command. The company is capital-light relative to heavy industrial manufacturers — it does not own many factories, instead contracting with specialists — which means a large portion of the cash it generates can flow to shareholders or be reinvested in [acquisitions](/acquisition/) and product development.
 
 Acquisitions have been part of the growth strategy. Over the years the company has acquired smaller instrument makers and regional service businesses to expand its portfolio, add geographic reach, and consolidate fragmented corners of the market. This rollup strategy requires careful integration to preserve the acquired company's reputation and avoid disrupting customer relationships, but it is a proven formula for growth in specialist industrial businesses.
 
@@ -67,7 +67,7 @@ Acquisitions have been part of the growth strategy. Over the years the company h
 
 Mettler-Toledo's business is highly dependent on the health and investment spending of pharmaceutical and chemical manufacturers. A downturn in those industries translates quickly to deferred purchases and reduced demand for new equipment. The company is also exposed to currency fluctuations — a large portion of its revenue is earned outside the US, which means movements in the euro, yen, and other currencies can hit reported results even if the underlying business is steady.
 
-Regulatory changes pose a different risk. If governments were to ease or eliminate the testing and documentation requirements that currently mandate precision measurement, demand for Mettler-Toledo's core products would suffer. That scenario is unlikely in the near term — regulation has generally tightened, not eased — but it remains a structural tail risk for the business.
+Regulatory changes pose a different risk. If governments were to ease or eliminate the testing and documentation requirements that currently mandate precision measurement, demand for Mettler-Toledo's core products would suffer. That scenario is unlikely in the near term — regulation has generally tightened, not eased — but it remains a structural [tail risk](/tail-risk/) for the business.
 
 ## How to research Mettler-Toledo
 

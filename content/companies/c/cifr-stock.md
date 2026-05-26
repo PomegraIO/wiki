@@ -27,7 +27,7 @@ Cipher Digital operates as a digital-asset and blockchain infrastructure provide
 
 ## The inception and early growth
 
-Cipher Digital was founded in 2021, during a period of explosive growth in cryptocurrencies and institutional adoption of digital assets. The founding team recognised that as major cryptocurrency networks evolved toward newer consensus mechanisms (particularly proof-of-stake systems like Ethereum), there would be demand for professional services to operate validators, manage staking, and custody digital assets on behalf of large holders. The company set out to offer institutions a way to earn returns on crypto holdings by participating in network staking without managing the technical and operational complexity themselves.
+Cipher Digital was founded in 2021, during a period of explosive growth in cryptocurrencies and institutional adoption of digital assets. The founding team recognised that as major cryptocurrency networks evolved toward newer consensus mechanisms (particularly proof-of-stake systems like [Ethereum](/ethereum/)), there would be demand for professional services to operate validators, manage staking, and custody digital assets on behalf of large holders. The company set out to offer institutions a way to earn returns on crypto holdings by participating in network staking without managing the technical and operational complexity themselves.
 
 The crypto ecosystem had matured enough by 2021 that institutional capital was beginning to flow in, but the infrastructure for professional-grade services remained immature. Banks, pension funds, and insurance companies were curious about crypto exposure but lacked the in-house expertise to operate nodes, manage validators, or ensure compliance. Cipher positioned itself to bridge that gap.
 
@@ -37,7 +37,7 @@ Staking is a mechanism used in certain blockchain networks (including Ethereum, 
 
 Cipher operates validator infrastructure—the servers, software, and operational oversight—on behalf of clients. Clients deposit cryptocurrency with Cipher, which then handles staking and validator operation, earning rewards and passing a portion through to the client after deducting fees. Cipher also manages custody of the digital assets, which involves secure key management and storage. This custody role is crucial: institutional investors need confidence that their assets are protected against theft, loss, or technical failure.
 
-The company also serves enterprise clients—cryptocurrency exchanges, trading firms, and other institutions—seeking professional custody and settlement infrastructure. As the crypto industry has matured, the demand for professional-grade custody and operational services has grown substantially.
+The company also serves enterprise clients—[cryptocurrency exchanges](/cryptocurrency-exchange/), trading firms, and other institutions—seeking professional custody and settlement infrastructure. As the crypto industry has matured, the demand for professional-grade custody and operational services has grown substantially.
 
 ## Revenue model and unit economics
 
@@ -75,4 +75,4 @@ Watch assets under administration and the mix of revenue (staking fees, custody 
 
 Quarterly commentary on regulatory developments and competitive dynamics is crucial. Any indication that regulators are moving toward rules that restrict staking or custody services is material. Conversely, any clarity that reduces regulatory uncertainty is a positive.
 
-Understand the macro environment for cryptocurrency: prices, institutional adoption, and regulatory sentiment. Cipher's prospects are tethered to that broader trend. Short-term price swings in Bitcoin and Ethereum directly affect the value of assets under administration and thus Cipher's revenues.
+Understand the macro environment for cryptocurrency: prices, institutional adoption, and regulatory sentiment. Cipher's prospects are tethered to that broader trend. Short-term price swings in [Bitcoin](/bitcoin/) and Ethereum directly affect the value of assets under administration and thus Cipher's revenues.

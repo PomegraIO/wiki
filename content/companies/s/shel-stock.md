@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Shell plc is one of the world's largest energy companies, headquartered in The Hague in the Netherlands. The company explores for oil and natural gas, produces them from fields on land and beneath the ocean, refines crude oil into gasoline and other products, trades energy commodities, and operates retail fuel stations. In recent years, Shell has also begun investing in renewables and electricity. The company's shares trade on NYSE and Euronext under the ticker SHEL, and the ownership structure is a dual-listed company — shares listed in both New York and Amsterdam with economic parity.
+Shell plc is one of the world's largest energy companies, headquartered in The Hague in the Netherlands. The company explores for oil and [natural gas](/natural-gas/), produces them from fields on land and beneath the ocean, refines [crude oil](/crude-oil/) into gasoline and other products, trades energy commodities, and operates retail fuel stations. In recent years, Shell has also begun investing in renewables and electricity. The company's shares trade on NYSE and Euronext under the ticker SHEL, and the ownership structure is a dual-listed company — shares listed in both New York and Amsterdam with economic parity.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Through the 1960s and 1970s, Shell faced the same shocks as the rest of the ener
 
 ## The current portfolio and competitive position
 
-Today, Shell is one of seven supermajor oil companies — a group that includes ExxonMobil, Chevron, TotalEnergies, ConocoPhillips, Equinor, and BP. These are not the only large energy companies in the world, but they are the ones with enough capital, technology, and political reach to develop massive projects in remote or politically challenging locations. Shell's production comes from fields in Nigeria, the North Sea, Southeast Asia, the Middle East, the Gulf of Mexico, and Australia, among others. The company has thousands of producing wells and a portfolio that extends many years into the future.
+Today, Shell is one of seven supermajor oil companies — a group that includes ExxonMobil, [Chevron](/cvx-stock/), TotalEnergies, [ConocoPhillips](/cop-stock/), Equinor, and BP. These are not the only large energy companies in the world, but they are the ones with enough capital, technology, and political reach to develop massive projects in remote or politically challenging locations. Shell's production comes from fields in Nigeria, the North Sea, Southeast Asia, the Middle East, the Gulf of Mexico, and Australia, among others. The company has thousands of producing wells and a portfolio that extends many years into the future.
 
 Upstream oil and gas production is Shell's foundation and its largest profit generator. The company invests billions each year finding and developing fields, and a single large field can generate billions in profit over its lifetime if commodity prices are favorable. The success of Shell's upstream business depends on finding large fields, getting access to explore and produce in politically stable countries (or managing political risk where it exists), and capturing the full value when crude and gas prices are high.
 
@@ -61,7 +61,7 @@ Shell's profitability is tied directly to the price of crude oil and natural gas
 
 The downstream and trading businesses provide some stability because they are less directly linked to absolute commodity prices — they profit from price spreads and market inefficiencies. But they are also lower-margin on a percentage basis than upstream production during high-price periods.
 
-Shell's financial position is strong. The company generates massive amounts of cash during high-commodity-price periods and has returned cash to shareholders through dividends and share buybacks. Debt levels are manageable relative to cash generation. But the company faces pressure on two fronts: the medium-term risk that climate policy and the energy transition reduce demand for oil and gas, and the ongoing operational challenge of replacing production as existing fields deplete.
+Shell's financial position is strong. The company generates massive amounts of cash during high-commodity-price periods and has returned cash to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). Debt levels are manageable relative to cash generation. But the company faces pressure on two fronts: the medium-term risk that climate policy and the energy transition reduce demand for oil and gas, and the ongoing operational challenge of replacing production as existing fields deplete.
 
 ## Key risks and the long-term outlook
 

@@ -13,7 +13,7 @@ handwritten: true
 
 ### What does Repligen do?
 
-Repligen is a manufacturer of equipment and consumables used in the manufacturing of biologic drugs — medicines made by living cells, such as monoclonal antibodies, protein therapeutics, and cell therapies. The company does not make the drugs themselves. Instead, it makes the machines and the consumable components that pharmaceutical companies use to purify and concentrate proteins extracted from cell cultures. A biopharmaceutical manufacturer growing a drug candidate in large fermentation tanks needs to separate the target protein from the surrounding broth of other cellular material, water, and salts. That separation — filtration, chromatography, tangential flow filtration — is Repligen's domain. The company makes the equipment that performs these steps, and sells the consumable cartridges and membranes that customers replace after each batch run.
+Repligen is a manufacturer of equipment and consumables used in the manufacturing of biologic drugs — medicines made by living cells, such as monoclonal antibodies, protein therapeutics, and cell therapies. The company does not make the drugs themselves. Instead, it makes the machines and the consumable components that pharmaceutical companies use to purify and concentrate proteins extracted from cell cultures. A biopharmaceutical manufacturer growing a drug candidate in large fermentation tanks needs to separate the [target](/tgt-stock/) protein from the surrounding broth of other cellular material, water, and salts. That separation — filtration, chromatography, tangential flow filtration — is Repligen's domain. The company makes the equipment that performs these steps, and sells the consumable cartridges and membranes that customers replace after each batch run.
 
 ### Why this business matters
 
@@ -27,7 +27,7 @@ The consumables business is strategically valuable because it creates recurring 
 
 ### Scale and market position
 
-Repligen is a mid-sized supplier in a market dominated by larger industrial conglomerates. Danaher (through its Pall subsidiary) and Sartorius are larger players, both with broader product portfolios and deeper customer relationships. But Repligen has a strong franchise in filtration specifically and has grown faster than the market for years, suggesting that customers view its products as differentiated. The company has expanded partly through organic growth — improving its product lines and entering new geographies — and partly through acquisition, having acquired several smaller purification and manufacturing-software companies to broaden its suite of offerings and lock in customers at multiple points in their manufacturing process.
+Repligen is a mid-sized supplier in a market dominated by larger industrial conglomerates. Danaher (through its Pall subsidiary) and Sartorius are larger players, both with broader product portfolios and deeper customer relationships. But Repligen has a strong franchise in filtration specifically and has grown faster than the market for years, suggesting that customers view its products as differentiated. The company has expanded partly through organic growth — improving its product lines and entering new geographies — and partly through [acquisition](/acquisition/), having acquired several smaller purification and manufacturing-software companies to broaden its suite of offerings and lock in customers at multiple points in their manufacturing process.
 
 ### Why customers stick with Repligen
 

@@ -15,11 +15,11 @@ handwritten: true
 
 TE Connectivity manufactures **connectors and sensors** — the unglamorous components that enable everything from an aircraft engine to light up and transmit data, to a smartphone camera to sense motion, to a manufacturing plant to stay online. The company is one of the world's largest makers of these components and is present in almost every electrified, automated, or networked system on Earth. Its customers are OEMs — original equipment manufacturers — like automotive suppliers, telecommunications infrastructure companies, industrial automation firms, and consumer-electronics makers.
 
-To a general reader, TE is invisible. The company does not make products that consumers buy directly; instead, it supplies the electronic innards that go into products other companies sell. A Tesla Roadster contains dozens of TE connectors; a 5G tower contains TE networking components; a factory robot contains TE sensors. None of that appears on the bill of materials that reaches the consumer.
+To a general reader, TE is invisible. The company does not make products that consumers buy directly; instead, it supplies the electronic innards that go into products other companies sell. A [Tesla](/tsla-stock/) Roadster contains dozens of TE connectors; a 5G tower contains TE networking components; a factory robot contains TE sensors. None of that appears on the bill of materials that reaches the consumer.
 
 ## How TE organized itself after Tyco
 
-TE Connectivity began as a pure electronics-components business but spun off from Tyco International in 2006 as an independent company (originally called Tyco Electronics). The spin-off thesis was simple: a focused, unencumbered components maker could grow faster and more profitably than one strapped to a sprawling conglomerate. That wager has largely paid off.
+TE Connectivity began as a pure electronics-components business but spun off from Tyco International in 2006 as an independent company (originally called Tyco Electronics). The [spin-off](/spin-off/) thesis was simple: a focused, unencumbered components maker could grow faster and more profitably than one strapped to a sprawling conglomerate. That wager has largely paid off.
 
 The company is now organized into three segments: **Connectivity and Sensor Solutions** (the core business — connectors, antennas, interconnect systems), **Industrial Transportation Solutions** (specialized components for automotive, rail, and heavy equipment), and **Communications** (infrastructure components for telecom networks). The segmentation reflects customer types and application areas rather than product categories — a single connector might appear in any of the three segments depending on its end use.
 
@@ -35,7 +35,7 @@ TE makes money by selling thousands of different connectors, sensors, and relate
 
 ## What drives revenue and profitability
 
-TE's revenue depends on **how many vehicles, phones, routers, and other end products are manufactured worldwide**. Economic downturns reduce demand for these products, shrinking TE's orders. Recessions have historically been painful for component makers; in 2008-2009, TE's revenue fell sharply. More recently, supply-chain disruptions (chip shortages, factory lockdowns, shipping congestion) have created unpredictable demand patterns that make forecasting difficult.
+TE's revenue depends on **how many vehicles, phones, routers, and other end products are manufactured worldwide**. Economic downturns reduce demand for these products, shrinking TE's orders. [Recessions](/recession/) have historically been painful for component makers; in 2008-2009, TE's revenue fell sharply. More recently, supply-chain disruptions (chip shortages, factory lockdowns, shipping congestion) have created unpredictable demand patterns that make forecasting difficult.
 
 The business also depends on **technology transitions**. When an industry shifts to a new architecture or standard, demand for the old component type disappears and demand for the new type appears. TE has to anticipate these shifts, invest in R&D early, and be positioned to supply volume when the new standard takes off. Missing a major transition (or being too late) can be costly; winning early (and scaling production) is highly profitable.
 

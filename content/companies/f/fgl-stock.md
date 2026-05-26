@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Founder Group Limited is a Malaysian solar engineering, procurement, construction, and commissioning ([EPCC](/wiki/epc-contractor/)) provider focused on building photovoltaic facilities across Malaysia. The company operates as a pure-play contractor in the solar construction space, taking on projects ranging from utility-scale installations to commercial and industrial rooftop systems.
+Founder Group Limited is a Malaysian solar engineering, procurement, construction, and commissioning (EPCC) provider focused on building photovoltaic facilities across Malaysia. The company operates as a pure-play contractor in the solar construction space, taking on projects ranging from utility-scale installations to commercial and industrial rooftop systems.
 
 ## The Foundation
 

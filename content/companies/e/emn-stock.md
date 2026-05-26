@@ -27,7 +27,7 @@ Eastman Chemical Company manufactures specialty chemicals and advanced materials
 
 ## A century as a chemical innovator
 
-Eastman's roots trace to the Kodak Company's chemical division, founded in the 1920s in Kingsport, Tennessee, initially to supply materials for photographic film. When Kodak began exiting most of its chemical operations in the 1990s, Eastman was spun out as an independent company in 1994. That spin-off created a pure-play chemical manufacturer with an established customer base and deep manufacturing expertise. Over the past three decades, Eastman has acquired complementary businesses and expanded its reach into segments including performance polymers, coating materials, and specialty additives. The company's long tenure in the chemical industry has left it with process knowledge, customer relationships, and supply-chain integration that newer competitors cannot easily replicate.
+Eastman's roots trace to the Kodak Company's chemical division, founded in the 1920s in Kingsport, Tennessee, initially to supply materials for photographic film. When Kodak began exiting most of its chemical operations in the 1990s, Eastman was spun out as an independent company in 1994. That [spin-off](/spin-off/) created a pure-play chemical manufacturer with an established customer base and deep manufacturing expertise. Over the past three decades, Eastman has acquired complementary businesses and expanded its reach into segments including performance polymers, coating materials, and specialty additives. The company's long tenure in the chemical industry has left it with process knowledge, customer relationships, and supply-chain integration that newer competitors cannot easily replicate.
 
 ## How the business works
 
@@ -51,7 +51,7 @@ The company also benefits from geographic diversity and integrated manufacturing
 
 Eastman is a capital-intensive business. Chemical plants require significant upfront investment and maintenance, and capacity expansion is costly and time-consuming. The company generates steady cash flow, but a substantial portion goes toward maintaining and upgrading facilities. Unlike companies with less fixed-cost structures, Eastman's profitability is sensitive to capacity utilization — when demand softens and plants run below full capacity, margins compress sharply. Conversely, strong demand and full utilization can drive attractive returns on the invested capital.
 
-Margins in specialty chemicals are typically higher than in commodity chemicals, but Eastman still faces pressure from input-cost volatility. Many of its chemical feedstocks are petrochemical derivatives, so swings in oil and gas prices ripple through the cost of goods sold. Raw-material inflation squeezes margins until Eastman can raise prices to customers, a negotiation that may take quarters to complete.
+Margins in specialty chemicals are typically higher than in commodity chemicals, but Eastman still faces pressure from input-cost volatility. Many of its chemical feedstocks are petrochemical derivatives, so swings in oil and gas prices ripple through the cost of goods sold. Raw-material [inflation](/inflation/) squeezes margins until Eastman can raise prices to customers, a negotiation that may take quarters to complete.
 
 ## Pressures and risks
 
@@ -59,12 +59,12 @@ The company's dependence on industrial and consumer-goods manufacturing means it
 
 Environmental regulation also poses an ongoing challenge. Many of Eastman's products and manufacturing processes have faced scrutiny regarding environmental impact and worker safety. The company must continuously invest in compliance, process improvement, and new chemistries that meet tighter standards. Bans on certain chemical classes (such as phthalate plasticizers in some jurisdictions) create regulatory risk that can quickly make a revenue stream obsolete.
 
-Supply-chain concentration is another vulnerability. Certain feedstocks come from a limited number of suppliers, and disruptions in crude oil processing or shipping can cascade through Eastman's own production.
+Supply-chain concentration is another vulnerability. Certain feedstocks come from a limited number of suppliers, and disruptions in [crude oil](/crude-oil/) processing or shipping can cascade through Eastman's own production.
 
 ## How to research Eastman as an investment
 
-Start with Eastman's annual 10-K filing (SEC CIK 0000915389), which details the three business segments, their revenue trends, and the geography breakdown. Pay attention to segment-level operating margins, which reveal which businesses are most profitable and where margin pressure is appearing. The company's commentary on feedstock inflation, pricing actions, and production utilization in quarterly earnings calls is essential to understanding near-term profitability.
+Start with Eastman's annual 10-K filing (SEC CIK 0000915389), which details the three business segments, their revenue trends, and the geography breakdown. Pay attention to segment-level [operating margins](/operating-margin/), which reveal which businesses are most profitable and where margin pressure is appearing. The company's commentary on feedstock inflation, pricing actions, and production utilization in quarterly earnings calls is essential to understanding near-term profitability.
 
-Key metrics to watch include gross margin (which moves with raw-material costs and capacity utilization), free cash flow (which funds dividends and debt reduction), and the company's leverage ratio. Chemical manufacturers often carry moderate debt, and understanding how Eastman's balance sheet behaves through a cycle — whether it deleverages in strong years or remains highly leveraged — informs your view of dividend safety and financial flexibility.
+Key metrics to watch include gross margin (which moves with raw-material costs and capacity utilization), [free cash flow](/free-cash-flow/) (which funds [dividends](/dividend/) and debt reduction), and the company's [leverage ratio](/leverage-ratio-forex/). Chemical manufacturers often carry moderate debt, and understanding how Eastman's [balance sheet](/balance-sheet/) behaves through a cycle — whether it deleverages in strong years or remains highly leveraged — informs your view of dividend safety and financial flexibility.
 
-Finally, track the company's capital allocation: are earnings going toward dividends and share buybacks, or into capacity expansion? That signals management's confidence in future growth and their expectations for the business.
+Finally, track the company's capital allocation: are earnings going toward dividends and [share buybacks](/share-buyback/), or into capacity expansion? That signals management's confidence in future growth and their expectations for the business.

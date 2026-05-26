@@ -29,7 +29,7 @@ ON Semiconductor manufactures a broad portfolio of integrated circuits that sit 
 
 The company emerged from a 1999 [spinoff](/spinoff/) of Philips' semiconductor division and went public that same year. Philips had long been a diversified electronics conglomerate with deep semiconductor expertise, and the carved-out unit inherited a portfolio of analog and mixed-signal designs alongside manufacturing capability. For its first decade, ON was a solid but unremarkable maker of analog chips for consumer electronics. The 2008 financial crisis proved a turning point: the company weathered the downturn, consolidated its manufacturing footprint, and began deliberately shifting its end-market exposure toward automotive and industrial—segments with longer product lifecycles and stickier customer relationships than consumer devices.
 
-That strategic pivot set the trajectory for the next fifteen years. As vehicles electrified and industrial systems digitized, the demand for ON's power-management and signal-processing chips rose sharply. Major automotive OEMs—Tesla, traditional Detroit and German automakers, and Chinese EV makers—became anchors in its revenue base.
+That strategic pivot set the trajectory for the next fifteen years. As vehicles electrified and industrial systems digitized, the demand for ON's power-management and signal-processing chips rose sharply. Major automotive OEMs—[Tesla](/tsla-stock/), traditional Detroit and German automakers, and Chinese EV makers—became anchors in its revenue base.
 
 ## How the Business Works
 
@@ -37,7 +37,7 @@ ON divides its revenue among several major end markets. Automotive represents th
 
 The company designs its own semiconductors—power MOSFETs, analog signal processors, gate drivers, and integrated voltage regulators—but also manufactures through a network of fabs, both owned and operated by strategic partners. This hybrid model gives ON some of the capital advantages of fabless design houses while retaining vertical integration in critical process nodes. It's a deliberate choice, not a legacy liability: full ownership of certain manufacturing prevents supply chain disruptions for strategic products and allows the company to control cost at scale.
 
-Revenue comes from selling silicon in bulk to tier-one suppliers (the component manufacturers that feed into larger assembly) and to OEMs directly. Gross margins are healthy but not exceptional—the commodity nature of mature power semiconductors and intense competition from rivals like Texas Instruments, Infineon, and STMicroelectronics keep pricing under pressure. The company's differentiation rests on breadth of portfolio, supply reliability, and proven integration into customers' designs.
+Revenue comes from selling silicon in bulk to tier-one suppliers (the component manufacturers that feed into larger assembly) and to OEMs directly. Gross margins are healthy but not exceptional—the commodity nature of mature power semiconductors and intense competition from rivals like [Texas Instruments](/txn-stock/), Infineon, and STMicroelectronics keep pricing under pressure. The company's differentiation rests on breadth of portfolio, supply reliability, and proven integration into customers' designs.
 
 ## Scale and Competitive Position
 

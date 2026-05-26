@@ -38,7 +38,7 @@ The competitive advantage, in other words, is partly technological — Otis hold
 
 ## How does the business model work?
 
-Otis divides its revenue into two broad streams. **New equipment and installation** generates revenue when buildings are constructed or when existing systems are replaced entirely. This work is project-based, lumpy, and cyclical — tied to construction spending and real-estate cycles. A buyer (a building owner, contractor, or developer) solicits bids from multiple suppliers, and pricing is often competitive. Margins on new equipment are respectable but not exceptional.
+Otis divides its revenue into two broad streams. **New equipment and installation** generates revenue when buildings are constructed or when existing systems are replaced entirely. This work is project-based, lumpy, and cyclical — tied to [construction spending](/construction-spending/) and real-estate cycles. A buyer (a building owner, contractor, or developer) solicits bids from multiple suppliers, and pricing is often competitive. Margins on new equipment are respectable but not exceptional.
 
 **Service, maintenance, and modernization** is the steady, recurring part of the business. Once an elevator is installed, it needs regular maintenance, inspections, repairs, and modernization work. Otis holds a service contract with the building owner and conducts scheduled maintenance, troubleshoots breakdowns, and over time upgrades components as they age. These contracts renew annually and produce cash flow with high margins because Otis has a captive customer base and the costs of service delivery are largely predictable. Modernization — replacing key components without a complete teardown — extends the life of an existing system and commands better economics than new sales because the customer is not shopping around as aggressively.
 
@@ -54,7 +54,7 @@ Otis generates revenue across three broad geographies. **North America** is the 
 
 ## What are the main risks?
 
-**Construction cycles** drive new-equipment revenue, and downturns in commercial real estate reduce that stream. A global recession that stops office and residential construction would pressure results.
+**Construction cycles** drive new-equipment revenue, and downturns in [commercial real estate](/commercial-real-estate/) reduce that stream. A global [recession](/recession/) that stops office and residential construction would pressure results.
 
 **Competitive pricing** in new-equipment sales limits upside, particularly in price-sensitive markets like parts of Asia where local competitors undercut global suppliers.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Rexford Industrial Realty is a real estate investment trust (REIT) that owns and leases industrial and logistics properties across Southern California, positioned to benefit from the region's enduring role as the container gateway for U.S. imports and the fulfillment hub for commerce flowing to the rest of the country.*
+*Rexford Industrial Realty is a [real estate investment trust](/real-estate-investment-trust/) (REIT) that owns and leases industrial and logistics properties across Southern California, positioned to benefit from the region's enduring role as the container gateway for U.S. imports and the fulfillment hub for commerce flowing to the rest of the country.*
 
 Rexford does not manufacture anything or move goods itself. Instead, it owns the buildings where goods are stored, sorted, and staged for distribution. The company owns hundreds of properties across the Los Angeles, Inland Empire, and Long Beach regions — industrial warehouses, cross-dock facilities, and light-manufacturing spaces that range from small single-tenant buildings to large multi-tenant complexes. The properties are leased to logistics companies, third-party logistics providers (3PLs), e-commerce fulfillment operations, and manufacturers. Rexford's job is to maintain the buildings, manage tenant relationships, collect rent, and reinvest the cash flow into acquiring or developing new properties.
 
@@ -25,11 +25,11 @@ Historically, industrial real estate in Southern California was abundant and che
 
 ## The REIT business model and how it produces income
 
-A REIT is a corporate structure that allows the company to own real estate and distribute the vast majority of its taxable income to shareholders as dividends, without the corporation itself paying income tax (provided it meets certain requirements). Rexford buys a building for $10 million, leases it out at an annual rent of $500,000, and must distribute at least 90% of its taxable income to shareholders. That distribution is taxed at the shareholder level, not at the corporate level — the tax burden is shouldered by dividend recipients, not by the company.
+A REIT is a corporate structure that allows the company to own real estate and distribute the vast majority of its taxable income to shareholders as [dividends](/dividend/), without the corporation itself paying income tax (provided it meets certain requirements). Rexford buys a building for $10 million, leases it out at an annual rent of $500,000, and must distribute at least 90% of its taxable income to shareholders. That distribution is taxed at the shareholder level, not at the corporate level — the tax burden is shouldered by dividend recipients, not by the company.
 
-This structure works because real estate income is largely cash rent minus operating expenses and depreciation (which is a non-cash deduction). A building generating $500,000 in annual rent and $100,000 in operating costs might have taxable income of only $250,000 (after depreciation deductions) but actual cash flow of $400,000. The REIT structure allows Rexford to distribute most of that cash to shareholders while retaining enough capital to maintain the buildings and fund acquisitions.
+This structure works because real estate income is largely cash rent minus operating expenses and [depreciation](/depreciation/) (which is a non-cash deduction). A building generating $500,000 in annual rent and $100,000 in operating costs might have taxable income of only $250,000 (after depreciation deductions) but actual cash flow of $400,000. The REIT structure allows Rexford to distribute most of that cash to shareholders while retaining enough capital to maintain the buildings and fund [acquisitions](/acquisition/).
 
-Rexford's revenues come entirely from rental income — the cash tenants pay to use the company's buildings. Rexford's expenses are property taxes, maintenance and repairs, management fees, and financing costs (interest on debt). The difference, after those costs, is the cash available to distribute to shareholders as dividends.
+Rexford's revenues come entirely from rental income — the cash tenants pay to use the company's buildings. Rexford's expenses are property taxes, maintenance and repairs, [management fees](/management-fee/), and financing costs (interest on debt). The difference, after those costs, is the cash available to distribute to shareholders as dividends.
 
 ## The acquisition and development strategy
 
@@ -51,11 +51,11 @@ Location and tenant quality matter enormously. A building in a prime location ne
 
 The most obvious risk is a downturn in logistics demand. If the U.S. consumer stopped buying goods or if online shopping growth slowed, the demand for warehouse space would fall. Rents could decline, occupancy could slide, and Rexford's dividend would come under pressure. The company is particularly exposed to e-commerce growth because so much of its tenant base is 3PLs and fulfillment operations.
 
-Interest-rate risk is also material. REITs typically finance acquisitions with debt. When interest rates rise, the cost of that debt increases, which squeezes the spread between rental income and financing costs. Rexford has historically had access to debt at reasonable rates because its real estate is valuable collateral, but a severe rate shock could still compress profitability.
+[Interest-rate risk](/interest-rate-risk/) is also material. REITs typically finance acquisitions with debt. When [interest rates](/interest-rate/) rise, the cost of that debt increases, which squeezes the spread between rental income and financing costs. Rexford has historically had access to debt at reasonable rates because its real estate is valuable collateral, but a severe rate shock could still compress profitability.
 
 Rent growth has been extraordinary in recent years, driven by supply constraints and demand surges. That growth may not be sustainable. If supply increases (more developers build warehouses) or if demand slows, rent growth could slow or reverse. Rexford's long-term returns depend on continued rent growth; if rents plateau, the company's dividend growth will plateau as well.
 
-Concentration risk is subtler but real. Rexford owns only in Southern California. That focus is a strength because it lets the company develop deep local knowledge and relationships, but it also means economic shocks specific to California (e.g., a port strike, a shift in trade patterns, a severe recession in the region) are direct hits to the portfolio.
+[Concentration risk](/concentration-risk/) is subtler but real. Rexford owns only in Southern California. That focus is a strength because it lets the company develop deep local knowledge and relationships, but it also means economic shocks specific to California (e.g., a port strike, a shift in trade patterns, a severe [recession](/recession/) in the region) are direct hits to the portfolio.
 
 ## Tracking Rexford as an investment
 
@@ -63,6 +63,6 @@ The REIT's quarterly reports and 10-K filing (SEC CIK 0001571283) break out rent
 
 On earnings calls, listen for commentary on tenant demand, the competitive landscape (are other REITs or developers opening new buildings and increasing supply?), and acquisition activity (is Rexford finding good buildings to buy at prices that pencil out?). Rexford also discloses funds from operations (FFO), a non-GAAP metric that adjusts net income to show the cash available to distribute to shareholders; that metric and its year-over-year growth are central to evaluating REIT performance.
 
-Track rent growth metrics — what percentage did in-place rents rise on renewals versus new leases, and how does that compare to inflation or broader commercial real estate markets? Accelerating rent growth is a bullish signal; decelerating growth is a warning.
+Track rent growth metrics — what percentage did in-place rents rise on renewals versus new leases, and how does that compare to [inflation](/inflation/) or broader [commercial real estate](/commercial-real-estate/) markets? Accelerating rent growth is a bullish signal; decelerating growth is a warning.
 
-Finally, monitor the financing environment. If Rexford's cost of borrowing rises sharply or if access to debt tightens, the company's ability to fund acquisitions and maintain its dividend becomes constrained. The REIT's balance sheet is important not for profitability (REITs are not designed to be net-income profitable) but for solvency and financial flexibility.
+Finally, monitor the financing environment. If Rexford's cost of borrowing rises sharply or if access to debt tightens, the company's ability to fund acquisitions and maintain its dividend becomes constrained. The REIT's [balance sheet](/balance-sheet/) is important not for profitability (REITs are not designed to be net-income profitable) but for solvency and financial flexibility.

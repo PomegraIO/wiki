@@ -55,9 +55,9 @@ The company also spends on renovations and upgrades to keep properties fresh and
 
 ## Competition and market concentration
 
-MGM competes against other large casino operators, most notably Las Vegas Sands and Caesars Entertainment, in the major markets. The competition is based partly on property quality, location, brand, and amenities. A customer choosing where to stay and gamble is making a choice between similar properties, often based on brand loyalty, specific shows or restaurants, or offers and promotions.
+MGM competes against other large casino operators, most notably [Las Vegas Sands](/lvs-stock/) and [Caesars Entertainment](/czr-stock/), in the major markets. The competition is based partly on property quality, location, brand, and amenities. A customer choosing where to stay and gamble is making a choice between similar properties, often based on brand loyalty, specific shows or restaurants, or offers and promotions.
 
-The casino industry consolidates when competition becomes fierce. Mergers and acquisitions create larger, more powerful operators that can bundle properties and spread costs. MGM itself is the result of decades of consolidation and acquisitions. The industry has few players at the top and many smaller regional casinos below.
+The casino industry consolidates when competition becomes fierce. [Mergers](/merger/) and [acquisitions](/acquisition/) create larger, more powerful operators that can bundle properties and spread costs. MGM itself is the result of decades of consolidation and acquisitions. The industry has few players at the top and many smaller regional casinos below.
 
 ## Regulatory risk and the shifting landscape
 
@@ -67,10 +67,10 @@ MGM also faces pressure around responsible gambling. Casinos have faced criticis
 
 ## Understanding MGM as an investment
 
-MGM's profitability is highly sensitive to the health of discretionary consumer spending and travel. In a strong economy with confident consumers, MGM does well. In a recession, it struggles. This makes the stock cyclical — it tends to do well when the market thinks good times are ahead, and poorly when investors fear a downturn.
+MGM's profitability is highly sensitive to the health of discretionary consumer spending and travel. In a strong economy with confident consumers, MGM does well. In a [recession](/recession/), it struggles. This makes the stock cyclical — it tends to do well when the market thinks good times are ahead, and poorly when investors fear a downturn.
 
 Key metrics to watch are gaming revenue, non-gaming revenue, occupancy rates (how full the hotels are), and average daily rates (how much customers pay per room). These show whether demand is strong or weakening. The company's 10-K filing (SEC CIK 0000789570) breaks down revenue by property and geography, so you can see which markets are performing.
 
-Debt is also important: building and renovating casinos requires borrowing, and MGM carries substantial debt on its balance sheet. In a downturn, high debt combined with falling revenue can strain the company. Conversely, in strong times, MGM can pay down debt and distribute cash to shareholders.
+Debt is also important: building and renovating casinos requires borrowing, and MGM carries substantial debt on its [balance sheet](/balance-sheet/). In a downturn, high debt combined with falling revenue can strain the company. Conversely, in strong times, MGM can pay down debt and distribute cash to shareholders.
 
 The bottom line is that MGM is in a business that depends on customers choosing to come gamble. As long as Las Vegas and other gaming destinations remain popular, and as long as consumers have discretionary money to spend, MGM makes money. The risks are recession, shifts in consumer preferences away from gambling, and regulatory changes that curtail the business.

@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-AnaptysBio used to be a clinical-stage immunology company hunting for the next blockbuster antibody. After years burning cash on drug development, the company pivoted dramatically in early 2026: it spun off all its remaining biopharma operations into a separate public company called [First Tracks Biotherapeutics](/wiki/trax-stock/) and transformed itself into a royalty manager.
+AnaptysBio used to be a clinical-stage immunology company hunting for the next blockbuster antibody. After years burning cash on drug development, the company pivoted dramatically in early 2026: it spun off all its remaining biopharma operations into a separate public company called First Tracks Biotherapeutics and transformed itself into a royalty manager.
 
 The shift was fundamental. ANAB now exists to milk two partnerships rather than invent new medicines. On one side sits Jemperli, a drug licensed to GlaxoSmithKline for autoimmune and inflammatory indications. On the other is imsidolimab, an asset in a collaboration with Vanda that targets similar patient populations. The company's stated purpose is blunt: "Protect and return value" through the royalty streams flowing from these agreements.
 

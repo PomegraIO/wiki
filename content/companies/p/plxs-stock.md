@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does Plexus build and for whom?
 
-Plexus Corp (NASDAQ: PLXS) is a contract electronics manufacturer and design-services firm that builds complex electronic assemblies and systems for customers in medical devices, aerospace and defence, industrial equipment, communications, and computing markets. Unlike mass-market consumer-electronics contract manufacturers, Plexus specialises in longer-lifecycle, lower-volume, higher-complexity products where customers value engineering expertise, supply-chain stability, and regulatory compliance as much as price. The company operates manufacturing facilities across the United States, Mexico, Malaysia, and other regions, serving global original-equipment manufacturers (OEMs) who outsource assembly, testing, and sometimes product design.
+Plexus Corp ([NASDAQ](/nasdaq/): PLXS) is a contract electronics manufacturer and design-services firm that builds complex electronic assemblies and systems for customers in medical devices, aerospace and defence, industrial equipment, communications, and computing markets. Unlike mass-market consumer-electronics contract manufacturers, Plexus specialises in longer-lifecycle, lower-volume, higher-complexity products where customers value engineering expertise, supply-chain stability, and regulatory compliance as much as price. The company operates manufacturing facilities across the United States, Mexico, Malaysia, and other regions, serving global original-equipment manufacturers (OEMs) who outsource assembly, testing, and sometimes product design.
 
 ## How the EMS model works
 
@@ -27,13 +27,13 @@ Revenue comes from per-unit assembly and test fees, plus higher-margin engineeri
 
 Gross margins vary by customer, product complexity, and volume. High-volume, low-complexity products (such as standardised power supplies or networking boxes) carry margins of 8–15% because competition is fierce and customers demand price discounts. Specialised, lower-volume, higher-complexity medical and aerospace assemblies carry gross margins of 18–25% because of technical defensibility and the difficulty of switching suppliers.
 
-Operating leverage is material. Fixed costs—facilities, equipment depreciation, and engineering staff—are substantial. A 10% increase in revenue volume, if fixed costs hold flat, can translate to 20–30% increase in operating income. Conversely, volume declines immediately compress margins as factories absorb excess capacity.
+Operating leverage is material. Fixed costs—facilities, equipment [depreciation](/depreciation/), and engineering staff—are substantial. A 10% increase in revenue volume, if fixed costs hold flat, can translate to 20–30% increase in operating income. Conversely, volume declines immediately compress margins as factories absorb excess capacity.
 
 ## Cyclicality and customer concentration
 
-EMS firms are cyclical. Demand tracks equipment-capital spending by customers; during recessions, OEM customers defer new designs and production ramps, hitting EMS-provider volumes. The industry is also subject to customer concentration risk: if one or two large customers represent 40% of revenue and choose to bring manufacturing in-house or switch providers, revenue can fall sharply and overnight.
+EMS firms are cyclical. Demand tracks equipment-capital spending by customers; during [recessions](/recession/), OEM customers defer new designs and production ramps, hitting EMS-provider volumes. The industry is also subject to customer [concentration risk](/concentration-risk/): if one or two large customers represent 40% of revenue and choose to bring manufacturing in-house or switch providers, revenue can fall sharply and overnight.
 
-Plexus mitigates concentration by serving diverse verticals (medical, aerospace, industrial), which have uncorrelated cycle timings. A medical-device cycle downturn may coincide with aerospace strength. This diversification is a competitive advantage and a reason the company has remained stable through cycles that devastated pure consumer-electronics contract manufacturers.
+Plexus mitigates concentration by serving diverse verticals (medical, aerospace, industrial), which have uncorrelated cycle timings. A medical-device cycle downturn may coincide with aerospace strength. This [diversification](/diversification/) is a competitive advantage and a reason the company has remained stable through cycles that devastated pure consumer-electronics contract manufacturers.
 
 Supply-chain disruptions also matter. EMS firms depend on component availability and reliable freight. The semiconductor and logistics shocks of 2021–2023 created temporary bottlenecks and raised material costs, compressing margins industry-wide. Companies with long-term supplier relationships and geographic diversification (manufacturing in Asia, Mexico, and North America) weathered disruptions better than those concentrated in single regions.
 
@@ -53,15 +53,15 @@ The EMS market includes several global players: Foxconn (primarily consumer, but
 
 Commoditisation is a long-term threat. As technologies mature and product designs stabilise, assembly becomes more standardised and price-sensitive. What was a differentiated, high-margin service (assembling cutting-edge RF or signal-processing boards) eventually becomes a standardised task that lower-cost manufacturers can handle. Plexus must continuously innovate and move up the value chain (toward design and engineering services) to offset this drift.
 
-Technology transitions are cyclical but disruptive. When a new semiconductor node or assembly technology emerges, equipment becomes obsolete and must be replaced. Plexus must invest in new equipment at the right time—too early and it idles capital; too late and it loses customers to better-equipped competitors. Capital expenditure is typically 3–5% of revenue annually, a steady drag on free cash flow.
+Technology transitions are cyclical but disruptive. When a new semiconductor node or assembly technology emerges, equipment becomes obsolete and must be replaced. Plexus must invest in new equipment at the right time—too early and it idles capital; too late and it loses customers to better-equipped competitors. Capital expenditure is typically 3–5% of revenue annually, a steady drag on [free cash flow](/free-cash-flow/).
 
 Customer concentration and consolidation in OEM markets (e.g., medical-device consolidation through M&A) can reduce the number of large customers, increasing individual customer negotiating power and pricing pressure on Plexus.
 
 ## Evaluating Plexus as an investment
 
-Start with the 10-K (CIK 0000785786) for segment revenue (by customer vertical and geography), gross margin and operating margin trends, capital expenditure and free cash flow, customer concentration (largest customers as % of revenue), and management commentary on design-services growth and technology cycles ahead.
+Start with the 10-K (CIK 0000785786) for segment revenue (by customer vertical and geography), gross margin and [operating margin](/operating-margin/) trends, capital expenditure and free cash flow, customer concentration (largest customers as % of revenue), and management commentary on design-services growth and technology cycles ahead.
 
-**Key metrics**: Gross margin percentage and trend (reflecting pricing power and cost inflation); operating margin (revealing operating leverage and capex absorption); revenue per employee (EMS is labour-intensive; productivity matters); backlog (in months—typically 3–6 months; rising backlog signals demand strength); and customer retention and design-services revenue as a percentage of total (higher-margin, stickier business).
+**Key metrics**: Gross margin percentage and trend (reflecting pricing power and cost [inflation](/inflation/)); operating margin (revealing operating leverage and capex absorption); revenue per employee (EMS is labour-intensive; productivity matters); backlog (in months—typically 3–6 months; rising backlog signals demand strength); and customer retention and design-services revenue as a percentage of total (higher-margin, stickier business).
 
 **Watch for**: Announcements of customer wins (new medical-device OEM contracts) or losses; technology roadmap commentary on upcoming equipment investments; supply-chain comments (component shortages or logistics improvements); and quarterly updates on the mix of assembly versus higher-margin design work.
 

@@ -40,25 +40,25 @@ The strength of NNN's portfolio depends on the health of the businesses that occ
 
 The company's revenue is simply rent. Tenants pay NNN for the right to occupy the buildings. Because the tenants are responsible for taxes, insurance, and maintenance, NNN's costs are low — mostly consisting of staff to manage the properties and any overhead. That means a high percentage of the rent becomes profit.
 
-The company distributes most of that profit to shareholders in the form of a dividend. In fact, that is the core appeal of owning NNN stock: the reliable, recurring dividend income. Real estate investment trusts (REITs) are legally required to distribute at least 90 percent of their taxable income to shareholders as dividends. NNN typically does this and markets itself to income-seeking investors.
+The company distributes most of that profit to shareholders in the form of a dividend. In fact, that is the core appeal of owning NNN stock: the reliable, recurring dividend income. [Real estate investment trusts](/real-estate-investment-trust/) (REITs) are legally required to distribute at least 90 percent of their taxable income to shareholders as [dividends](/dividend/). NNN typically does this and markets itself to income-seeking investors.
 
 The second source of return is capital appreciation. If NNN buys a building for USD 2 million and the property appreciates to USD 3 million over a decade, the company can sell it and realize that gain. However, most of NNN's return to shareholders comes from the dividend rather than capital appreciation.
 
 ## How NNN invests and grows
 
-NNN grows by acquiring new properties. The company has investment teams that scout for buildings meeting its criteria — established, stable tenants; long lease terms; reasonable rental rates; good locations. When it identifies a building it wants to own, it buys it and either signs a new lease with the current tenant or finds a new tenant. Acquisitions require capital, which NNN raises by selling new shares to investors and by borrowing money. The borrowed money is called debt, and the ratio of debt to assets is important because it affects the company's financial stability and the returns to shareholders.
+NNN grows by acquiring new properties. The company has investment teams that scout for buildings meeting its criteria — established, stable tenants; long lease terms; reasonable rental rates; good locations. When it identifies a building it wants to own, it buys it and either signs a new lease with the current tenant or finds a new tenant. [Acquisitions](/acquisition/) require capital, which NNN raises by selling new shares to investors and by borrowing money. The borrowed money is called debt, and the ratio of debt to assets is important because it affects the company's financial stability and the returns to shareholders.
 
-The company also receives cash from rents and can use that cash to buy new properties (or to increase the dividend, or to pay down debt). In growing markets where cap rates (the annual rent divided by the property price) are attractive, NNN will acquire more properties and the portfolio will expand. In markets where prices are high and rents do not cover the cost of purchase, NNN may slow acquisitions and focus on managing the existing portfolio.
+The company also receives cash from rents and can use that cash to buy new properties (or to increase the dividend, or to pay down debt). In growing markets where [cap rates](/cap-rate/) (the annual rent divided by the property price) are attractive, NNN will acquire more properties and the portfolio will expand. In markets where prices are high and rents do not cover the cost of purchase, NNN may slow acquisitions and focus on managing the existing portfolio.
 
 ## Risks and challenges
 
 The biggest risk is that tenants fail to pay rent or go out of business. If a major tenant goes bankrupt — say a retail chain that occupies several of NNN's buildings — the company faces an immediate loss of rent and the cost and hassle of finding a new tenant. This risk is baked into every REIT; even though the properties have value, the rent stream is only as good as the tenants' ability to pay.
 
-Another risk is interest-rate exposure. If NNN borrowed money at low rates (say, 3 percent) and interest rates rise to 6 percent, refinancing becomes more expensive and the company's interest costs rise. Higher interest costs reduce the earnings available to shareholders.
+Another risk is interest-rate exposure. If NNN borrowed money at low rates (say, 3 percent) and [interest rates](/interest-rate/) rise to 6 percent, refinancing becomes more expensive and the company's interest costs rise. Higher interest costs reduce the earnings available to shareholders.
 
 A third risk is the long-term viability of the retail businesses NNN's tenants operate. E-commerce has shifted shopping away from physical stores, and that trend has not reversed. Drugstores, dollar stores, and grocery stores are more resilient than apparel retailers, and NNN has tilted its portfolio toward those categories. But the existential threat to retail remains. A world with far less physical shopping is a world where fewer buildings are needed for retail, and that could depress property values and rents over decades.
 
-Finally, there is the risk of recession. When the economy slows, retailers struggle, rents may not be paid on time, and tenants may default. NNN's dividend would come under pressure. This is not a risk unique to NNN — it is a general economic risk — but it is worth knowing that in a severe recession, REIT dividends are not immune to problems.
+Finally, there is the risk of [recession](/recession/). When the economy slows, retailers struggle, rents may not be paid on time, and tenants may default. NNN's dividend would come under pressure. This is not a risk unique to NNN — it is a general economic risk — but it is worth knowing that in a severe recession, REIT dividends are not immune to problems.
 
 ## How to research NNN
 

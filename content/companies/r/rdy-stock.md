@@ -71,7 +71,7 @@ The company generates revenue from most of the world's major markets, with the U
 
 ## What makes Dr. Reddy's distinctive—and what constrains it
 
-Dr. Reddy's sits in an odd middle ground in global pharmaceuticals. It is far too large and capable to be ignored, yet not so large that it competes head-to-head with Merck, Pfizer, or other megacap pharma companies that generate billions in R&D and can pursue breakthrough drugs. Instead, it exploits the gap between true generics makers (who are smaller, less integrated, or less geographically diverse) and integrated research-based companies.
+Dr. Reddy's sits in an odd middle ground in global pharmaceuticals. It is far too large and capable to be ignored, yet not so large that it competes head-to-head with Merck, [Pfizer](/pfe-stock/), or other megacap pharma companies that generate billions in R&D and can pursue breakthrough drugs. Instead, it exploits the gap between true generics makers (who are smaller, less integrated, or less geographically diverse) and integrated research-based companies.
 
 Its distinctive advantages are:
 
@@ -91,7 +91,7 @@ However, the company also faces real structural constraints:
 
 **Global supply chain complexity.** Dr. Reddy's operates in multiple countries and sources chemicals, intermediates, and equipment globally. Disruptions—whether from geopolitical tensions, regulatory changes (like India's stricter environmental rules for API manufacturing), or pandemic-related shutdowns—can hit profitability hard. The company is not immune to the same supply-chain shocks that have affected the broader pharma industry.
 
-**R&D intensity of biosimilars.** Biosimilars require more sophisticated manufacturing and regulatory knowledge than generics. While Dr. Reddy's is building capabilities, it is competing against much larger companies (Sandoz, Amgen, Roche) that have deeper pockets and longer track records. Succeeding in biosimilars requires sustained investment, and there is no guarantee that Dr. Reddy's will capture proportional market share.
+**R&D intensity of biosimilars.** Biosimilars require more sophisticated manufacturing and regulatory knowledge than generics. While Dr. Reddy's is building capabilities, it is competing against much larger companies (Sandoz, [Amgen](/amgn-stock/), Roche) that have deeper pockets and longer track records. Succeeding in biosimilars requires sustained investment, and there is no guarantee that Dr. Reddy's will capture proportional market share.
 
 **Patent and regulatory cliffs.** When major blockbuster drugs go off-patent, there is a rush to launch generic versions, and the first entrants win the most revenue. But as more competitors enter, the window of high profitability closes quickly. Dr. Reddy's has to be agile enough to spot which patents are expiring soon, invest in developing the generic before approval, and launch quickly—and then repeat this cycle constantly.
 

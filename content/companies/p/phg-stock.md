@@ -21,7 +21,7 @@ The foundation of Philips' business is the equipment it sells to hospitals and c
 
 The hospital market is durable because demand does not disappear. Every hospital needs imaging equipment; it wears out or becomes outdated and must be replaced. Every new hospital and every expanding clinic buys monitor systems. The installed base creates recurring opportunities: hospitals buy service contracts, buy consumables like sensors and electrodes, and upgrade to new models when their budgets allow. That recurring revenue makes medical equipment a higher-margin, more stable business than many consumer products.
 
-Philips competes in this space against General Electric, Siemens, Canon, and other industrial companies with strong health care divisions. Competition is fierce and based on imaging quality, reliability, regulatory approval, and service. A company that makes a superior ultrasound machine or cardiac monitor can win substantial market share and hold it for years. Philips has substantial installed bases in many developed countries and is pushing into higher-growth markets in Asia and emerging nations.
+Philips competes in this space against [General Electric](/ge-stock/), Siemens, Canon, and other industrial companies with strong health care divisions. Competition is fierce and based on imaging quality, reliability, regulatory approval, and service. A company that makes a superior ultrasound machine or cardiac monitor can win substantial market share and hold it for years. Philips has substantial installed bases in many developed countries and is pushing into higher-growth markets in Asia and emerging nations.
 
 ## Connected care and monitoring at home
 
@@ -45,7 +45,7 @@ Manufacturing vulnerabilities are a real risk for the company. Many electronic c
 
 ## The research and innovation challenge
 
-Health care technology is competitive and requires constant innovation. Hospitals want the latest imaging technology, the most reliable monitors, the best diagnostic accuracy. Philips invests heavily in research and development — new sensor designs, better image processing, new algorithms for remote monitoring and diagnostics. The company also pursues strategic acquisitions, buying smaller firms with specialized expertise or new technologies. These investments are essential for staying competitive but also constrain near-term profitability.
+Health care technology is competitive and requires constant innovation. Hospitals want the latest imaging technology, the most reliable monitors, the best diagnostic accuracy. Philips invests heavily in research and development — new sensor designs, better image processing, new algorithms for remote monitoring and diagnostics. The company also pursues strategic [acquisitions](/acquisition/), buying smaller firms with specialized expertise or new technologies. These investments are essential for staying competitive but also constrain near-term profitability.
 
 The regulatory environment for medical devices is stringent. Any new device or material must clear approval from agencies like the FDA in the United States and regulatory bodies in Europe and Asia. That process takes time and money. A promising technology that passes bench testing must survive clinical trials, regulatory review, and reimbursement negotiations before it generates revenue. The lag between R&D spending and commercial return can be years, which requires capital patience and confidence that the eventual payoff will be large.
 

@@ -41,7 +41,7 @@ Storage fees are the bedrock: steady, predictable revenue tied to the volume of 
 
 The gross margins on storage are high (often 60+ percent) because once the facility is built and staffed, the incremental cost to store one more box is minimal. The incremental cost to process a retrieval is also fairly low—it is mostly labour—so retrieval margins are also reasonable. The leverage comes from spreading fixed facility costs across many customers and many boxes.
 
-That said, the business requires capital investment. New facilities, equipment, climate control, security infrastructure, and technology all require spending. The company reinvests to maintain and expand its footprint, to upgrade security and compliance capabilities, and to build out digital and software offerings. Return on invested capital is important to track: a capital-intensive business can grow revenue without growing earnings if it cannot deploy capital efficiently.
+That said, the business requires capital investment. New facilities, equipment, climate control, security infrastructure, and technology all require spending. The company reinvests to maintain and expand its footprint, to upgrade security and compliance capabilities, and to build out digital and software offerings. [Return on invested capital](/return-on-invested-capital/) is important to track: a capital-intensive business can grow revenue without growing earnings if it cannot deploy capital efficiently.
 
 ## Pressures and risks
 
@@ -53,6 +53,6 @@ Technology disruption is a longer-term uncertainty. If the cost of storing digit
 
 ## How to track it
 
-Investors in Iron Mountain watch **same-store storage revenue growth** (how fast the volume of records stored in each facility is growing, adjusted for price changes), **organic growth** (growth that does not include acquisitions), and **adjusted operating margins** (a common metric to evaluate how efficiently Iron Mountain is converting storage fees into earnings). The company's 10-K filing (SEC CIK 0001020569) breaks revenue by segment (records management, data management, shredding) and by geography, which shows which parts of the business are expanding and which are contracting.
+Investors in Iron Mountain watch **same-store storage revenue growth** (how fast the volume of records stored in each facility is growing, adjusted for price changes), **organic growth** (growth that does not include [acquisitions](/acquisition/)), and **adjusted [operating margins](/operating-margin/)** (a common metric to evaluate how efficiently Iron Mountain is converting storage fees into earnings). The company's 10-K filing (SEC CIK 0001020569) breaks revenue by segment (records management, data management, shredding) and by geography, which shows which parts of the business are expanding and which are contracting.
 
-The capital structure also matters: Iron Mountain carries significant debt to fund facilities and acquisitions, so understanding the trajectory of leverage (debt relative to earnings) is important. The company returns cash to shareholders through both dividends (fairly large) and share buybacks, which is typical for a mature, cash-generative business.
+The capital structure also matters: Iron Mountain carries significant debt to fund facilities and acquisitions, so understanding the trajectory of leverage (debt relative to earnings) is important. The company returns cash to shareholders through both [dividends](/dividend/) (fairly large) and [share buybacks](/share-buyback/), which is typical for a mature, cash-generative business.

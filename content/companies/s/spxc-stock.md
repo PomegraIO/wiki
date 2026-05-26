@@ -29,9 +29,9 @@ SPX Technologies designs and manufactures specialized industrial equipment for p
 
 SPX's history stretches back to the early 1900s, when it began as a manufacturer of cooling towers — large structures that dissipate heat by passing hot water through fans and allowing it to evaporate. Cooling towers are essential to any facility that generates or processes heat: power plants use them to cool steam from turbines, refineries use them to shed waste heat, and data centers increasingly rely on them as computing density rises.
 
-Over a century the company expanded into other engineered products and acquired complementary businesses. By the time of its public listing, SPX had become a diversified industrial supplier. A series of acquisitions — some successful, others less so — added heating and cooling product lines, flow-control equipment, and specialty filtration. The company now organizes around three main segments: Cooling, which includes cooling towers and evaporative equipment; Power, which supplies cooling and filtration to utilities and power plants; and Flow Technology, which handles pumping and process equipment.
+Over a century the company expanded into other engineered products and acquired complementary businesses. By the time of its public listing, SPX had become a diversified industrial supplier. A series of [acquisitions](/acquisition/) — some successful, others less so — added heating and cooling product lines, flow-control equipment, and specialty filtration. The company now organizes around three main segments: Cooling, which includes cooling towers and evaporative equipment; Power, which supplies cooling and filtration to utilities and power plants; and Flow Technology, which handles pumping and process equipment.
 
-That diversification has been a double-edged sword. It has allowed SPX to serve a broader customer base and to cross-sell into existing relationships. But it has also made the company conceptually harder to understand, and it has required substantial management attention to integration after acquisitions.
+That [diversification](/diversification/) has been a double-edged sword. It has allowed SPX to serve a broader customer base and to cross-sell into existing relationships. But it has also made the company conceptually harder to understand, and it has required substantial management attention to integration after acquisitions.
 
 ## The economics of engineered equipment
 
@@ -45,11 +45,11 @@ Revenue is also lumpy because projects are discrete. A utility might place a lar
 
 The Cooling segment has a seasonal character: HVAC work in the commercial sector picks up in spring and summer as businesses prepare for warm weather, and new construction accelerates in those months. Power segment revenue is less seasonal because utilities and refineries maintain equipment year-round, but it is highly cyclical — dependent on capital spending at those customers, which rises in growth periods and declines in downturns.
 
-The industrial economy is also sensitive to commodity prices. Refineries and petrochemical plants cut capital spending when oil prices are low and demand is weak. Power utilities' spending depends on regulatory environment and electricity demand forecasts. That exposure means SPX's revenue can compress sharply in recessions, even though the underlying demand for cooling and heat exchange is basic.
+The industrial economy is also sensitive to commodity prices. Refineries and petrochemical plants cut capital spending when oil prices are low and demand is weak. Power utilities' spending depends on regulatory environment and electricity demand forecasts. That exposure means SPX's revenue can compress sharply in [recessions](/recession/), even though the underlying demand for cooling and heat exchange is basic.
 
 ## Key operational metrics and competitive positioning
 
-SPX competes primarily with large diversified industrial companies (Ingersoll Rand, Dover Corporation, Parker Hannifin) and with specialized rivals in cooling towers and heat exchangers. The firm's competitive position depends on:
+SPX competes primarily with large diversified industrial companies ([Ingersoll Rand](/ir-stock/), Dover Corporation, Parker Hannifin) and with specialized rivals in cooling towers and heat exchangers. The firm's competitive position depends on:
 
 **Engineering reputation**: A track record of solving complex thermal-management problems builds customer loyalty and supports premium pricing.
 
@@ -61,7 +61,7 @@ SPX competes primarily with large diversified industrial companies (Ingersoll Ra
 
 ## Capital structure and cash flow
 
-SPX operates with modest leverage — typical debt-to-equity ratios of 0.5–1.5x — and generates reasonable free cash flow that is allocated to maintenance capital (keeping plants and equipment running), growth initiatives, and shareholder returns (dividends and buybacks).
+SPX operates with modest leverage — typical [debt-to-equity ratios](/debt-to-equity-ratio/) of 0.5–1.5x — and generates reasonable [free cash flow](/free-cash-flow/) that is allocated to maintenance capital (keeping plants and equipment running), growth initiatives, and shareholder returns ([dividends](/dividend/) and buybacks).
 
 The business is not capital-intensive relative to some peers (e.g., utilities). Manufacturing equipment requires plants and tooling, but SPX does not own mines or build power plants. A significant portion of operating cash flow can flow through to shareholders if the company is not making major acquisitions.
 

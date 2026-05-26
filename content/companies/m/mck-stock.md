@@ -63,7 +63,7 @@ The episode illustrates a broader tension: a distributor that rigidly blocks eve
 
 ## Scale and Competitive Position
 
-McKesson's two main competitors in pharmaceutical distribution are Cardinal Health and AmerisourceBergen. Together, these three companies control the vast majority of pharmaceutical distribution in the United States. The market is highly consolidated, which creates both advantages and risks.
+McKesson's two main competitors in pharmaceutical distribution are [Cardinal Health](/cah-stock/) and AmerisourceBergen. Together, these three companies control the vast majority of pharmaceutical distribution in the United States. The market is highly consolidated, which creates both advantages and risks.
 
 The advantage is that high barriers to entry, regulatory complexity, and the capital intensity of the business insulate the incumbents from new competitors. Once you have a relationship with a hospital network or pharmacy chain, switching costs are high. The disadvantage is that the market is mature and low-growth. The total size of the pharmaceutical distribution market is largely determined by the total volume of drugs consumed, which grows slowly and is heavily influenced by generic penetration and price competition.
 

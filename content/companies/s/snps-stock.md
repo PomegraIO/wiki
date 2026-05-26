@@ -48,11 +48,11 @@ Services — consulting on design methodology, helping customers migrate to new 
 
 ## What makes Synopsys vulnerable?
 
-The most obvious threat is the emergence of open-source or low-cost alternatives. Over the past decade, several open-source EDA initiatives have gained traction — projects like OpenROAD and Magic aim to commoditize chip design in ways that Synopsys's pricing model does not. These projects are gaining adoption in academic research and in smaller design houses that cannot afford Synopsys's fees. However, the major semiconductor companies and foundries — TSMC, Samsung, Intel, Broadcom, Qualcomm — are locked in to Synopsys and view the cost of the tools as a minor fraction of the cost of a tape-out. For those customers, Synopsys remains indispensable.
+The most obvious threat is the emergence of open-source or low-cost alternatives. Over the past decade, several open-source EDA initiatives have gained traction — projects like OpenROAD and Magic aim to commoditize chip design in ways that Synopsys's pricing model does not. These projects are gaining adoption in academic research and in smaller design houses that cannot afford Synopsys's fees. However, the major semiconductor companies and foundries — TSMC, Samsung, [Intel](/intc-stock/), [Broadcom](/avgo-stock/), Qualcomm — are locked in to Synopsys and view the cost of the tools as a minor fraction of the cost of a tape-out. For those customers, Synopsys remains indispensable.
 
 A second risk is technological disruption. If a fundamentally new approach to chip design emerges — perhaps one that requires a different set of tools or a different workflow — Synopsys's historical dominance could become a liability rather than an asset. The company would have to abandon or radically retool decades of development. That is a non-trivial risk in an industry that has experienced several paradigm shifts: the move from hand layout to software-assisted design, the rise of hardware description languages, the move to smaller and smaller process nodes, and the emergence of chiplets and heterogeneous integration.
 
-A third pressure is consolidation and competition from larger players. Cadence Design Systems is Synopsys's closest competitor in some tool categories. Siemens acquired Mentor Graphics and has been integrating it into a portfolio that competes directly with Synopsys in digital design. AMD, Intel, and TSMC all have in-house design tools and research teams and periodically consider building or open-sourcing alternatives. If any of these large players decided to make EDA tools a strategic priority and invest heavily, Synopsys could face real competition.
+A third pressure is consolidation and competition from larger players. [Cadence Design Systems](/cdns-stock/) is Synopsys's closest competitor in some tool categories. Siemens acquired Mentor Graphics and has been integrating it into a portfolio that competes directly with Synopsys in digital design. AMD, Intel, and TSMC all have in-house design tools and research teams and periodically consider building or open-sourcing alternatives. If any of these large players decided to make EDA tools a strategic priority and invest heavily, Synopsys could face real competition.
 
 ## What should a reader look for in Synopsys's results?
 
@@ -62,7 +62,7 @@ A second watch point is the company's ability to land new tools with major custo
 
 A third indicator is the state of the open-source competition and how Synopsys is responding. The company has some experience with this: it open-sourced parts of its tool portfolio in earlier years. Understanding whether management views open-source as a threat or as an opportunity to build a larger ecosystem is important.
 
-Finally, watch the acquisition activity and integration progress. Synopsys has been on an acquisition binge for the past decade. The question is whether these acquisitions are being successfully integrated into a coherent platform that raises switching costs, or whether they are becoming a patchwork of bolt-on products that frustrate customers and create an opening for competitors.
+Finally, watch the acquisition activity and integration progress. Synopsys has been on an acquisition binge for the past decade. The question is whether these [acquisitions](/acquisition/) are being successfully integrated into a coherent platform that raises switching costs, or whether they are becoming a patchwork of bolt-on products that frustrate customers and create an opening for competitors.
 
 ## How to research Synopsys as an investment
 

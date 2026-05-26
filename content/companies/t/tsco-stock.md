@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tractor Supply is the biggest seller of farm, ranch, and pet supplies in the United States. The company (NASDAQ: TSCO) runs a chain of more than 2,000 stores in small towns and rural areas, selling everything from livestock feed to hand tools to work clothes to pet food. It is a company that shows up in every agricultural region of the country and has become a trusted, essential stop for anyone who works with land or animals.
+Tractor Supply is the biggest seller of farm, ranch, and pet supplies in the United States. The company ([NASDAQ](/nasdaq/): TSCO) runs a chain of more than 2,000 stores in small towns and rural areas, selling everything from livestock feed to hand tools to work clothes to pet food. It is a company that shows up in every agricultural region of the country and has become a trusted, essential stop for anyone who works with land or animals.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,11 +26,11 @@ Tractor Supply is the biggest seller of farm, ranch, and pet supplies in the Uni
 
 ## A store in every farming town
 
-Tractor Supply started in 1938 as a small feed and seed merchant in Chickasha, Oklahoma. For decades it grew slowly, mostly through acquisitions of other regional farm-supply chains. Then, in the 1990s and 2000s, the company figured out how to scale: build smaller, focused stores (not huge supermarkets) in towns of 10,000 to 100,000 people where farm operations and rural life are part of the local economy.
+Tractor Supply started in 1938 as a small feed and seed merchant in Chickasha, Oklahoma. For decades it grew slowly, mostly through [acquisitions](/acquisition/) of other regional farm-supply chains. Then, in the 1990s and 2000s, the company figured out how to scale: build smaller, focused stores (not huge supermarkets) in towns of 10,000 to 100,000 people where farm operations and rural life are part of the local economy.
 
 The stores themselves are straightforward. They are roughly 15,000 to 20,000 square feet — large enough to stock a serious range of goods, but not so massive that shopping feels overwhelming. The layout is clean. Prices are fair, not cheap but not premium. Staff tend to know the inventory and the products, which matters when a farmer comes in trying to solve a specific problem.
 
-This concept proved scalable. Tractor Supply opened hundreds of new stores across the 1990s and 2000s and continued that expansion into the 2010s and beyond. The company discovered that there were far more towns and rural communities with demand for farm supplies than there were competitors willing to serve them. Big-box retailers like Walmart focus on large metro areas. Specialized farm-equipment dealers exist but are sparse and often carry a narrower selection. Tractor Supply filled the gap.
+This concept proved scalable. Tractor Supply opened hundreds of new stores across the 1990s and 2000s and continued that expansion into the 2010s and beyond. The company discovered that there were far more towns and rural communities with demand for farm supplies than there were competitors willing to serve them. Big-box retailers like [Walmart](/wmt-stock/) focus on large metro areas. Specialized farm-equipment dealers exist but are sparse and often carry a narrower selection. Tractor Supply filled the gap.
 
 ## What the stores actually sell
 
@@ -50,7 +50,7 @@ The exact mix varies by store location. A location in cattle country stocks more
 
 Tractor Supply's strength lies partly in the reliability of its customer base. Farmers and ranchers need feed, fencing, and supplies year-round. A horse owner needs hay and supplements every month. A rural homeowner needs tools and materials for maintenance and repairs. Unlike discretionary retail, much of Tractor Supply's business is repeat-purchase necessity rather than one-time shopping.
 
-This regularity is valuable because it makes revenue predictable. The company knows that in spring and fall, sales of feed and seasonal supplies will spike. It knows that core items like work clothes, tools, and livestock feed will sell consistently. Bad years happen — droughts reduce livestock populations, recessions suppress home-improvement spending — but the baseline demand is stable.
+This regularity is valuable because it makes revenue predictable. The company knows that in spring and fall, sales of feed and seasonal supplies will spike. It knows that core items like work clothes, tools, and livestock feed will sell consistently. Bad years happen — droughts reduce livestock populations, [recessions](/recession/) suppress home-improvement spending — but the baseline demand is stable.
 
 Trust is equally important. Tractor Supply has become a known name across rural America. Farmers and ranchers have strong incentives to shop locally and to support a retailer they know. The company has cultivated that reputation by showing up reliably in communities, sponsoring local events, and developing a culture of straightforward customer service.
 
@@ -76,14 +76,14 @@ Rural consolidation is another longer-term headwind. As farms grow larger and fa
 
 Geographic saturation is also a limit. The company has stores in most viable rural and small-town markets. Growth from new stores is possible but increasingly depends on entering smaller towns or the suburban fringe, where the customer base is less dense and traffic may be lower than in established rural hubs.
 
-Economic sensitivity plays a role. During recessions, rural households may defer discretionary spending on tools, seasonal items, and pet supplies. Feed sales are stickier, but even there, a severe downturn can suppress livestock populations and thus feed demand.
+Economic sensitivity plays a role. During recessions, rural households may defer [discretionary spending](/discretionary-spending/) on tools, seasonal items, and pet supplies. Feed sales are stickier, but even there, a severe downturn can suppress livestock populations and thus feed demand.
 
 ## How to research Tractor Supply as an investment
 
-Start with the annual 10-K (SEC CIK 0000916365). It details store count by region, sales per square foot, inventory turnover, and the gross margin on major product categories. Quarterly earnings reports disclose same-store sales growth — the change in sales at locations open for the full periods being compared, which is the most meaningful metric of business health.
+Start with the annual 10-K (SEC CIK 0000916365). It details store count by region, sales per square foot, [inventory turnover](/inventory-turnover/), and the gross margin on major product categories. Quarterly earnings reports disclose same-store sales growth — the change in sales at locations open for the full periods being compared, which is the most meaningful metric of business health.
 
 Watch the store-opening and closing schedule in quarterly reports. Rapidly expanding store counts suggest the company sees room for growth; a slowdown may indicate market saturation. The company typically provides guidance on expected store openings and closings for the coming year.
 
 Pay attention to commentary on supply-chain performance, inventory levels, and pricing. In an inflationary environment, the company's ability to raise prices while holding volume is important. When supply chains are disrupted, stock-outs of key items can suppress sales.
 
-Compare same-store sales trends, operating margins, and return on invested capital to peer retailers in specialty retail (like Rural King, a smaller competitor, or Ace Hardware). As with any stock, past performance and trends do not guarantee future results.
+Compare same-store sales trends, [operating margins](/operating-margin/), and [return on invested capital](/return-on-invested-capital/) to peer retailers in specialty retail (like Rural King, a smaller competitor, or Ace Hardware). As with any stock, past performance and trends do not guarantee future results.

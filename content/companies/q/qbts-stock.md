@@ -24,7 +24,7 @@ handwritten: true
 </ul>
 </aside>
 
-D-Wave Quantum Inc. is the world's first and oldest quantum computing company actively commercializing quantum hardware. Unlike the superconducting gate-model quantum computers pursued by IBM, Google, and others, D-Wave specializes in quantum annealers—machines designed to solve specific categories of optimization problems using adiabatic quantum computation. This distinction shapes everything about the company: its market positioning, its target customers, and the range of problems it can practically address.
+D-Wave Quantum Inc. is the world's first and oldest quantum computing company actively commercializing quantum hardware. Unlike the superconducting gate-model quantum computers pursued by IBM, Google, and others, D-Wave specializes in quantum annealers—machines designed to solve specific categories of optimization problems using adiabatic quantum computation. This distinction shapes everything about the company: its market positioning, its [target](/tgt-stock/) customers, and the range of problems it can practically address.
 
 ## The Quantum Annealer Approach
 
@@ -60,7 +60,7 @@ The company is also capital-intensive. Advancing quantum hardware requires conti
 
 D-Wave's main strength is longevity and focus. Operating since 1999 in quantum computing, when it was purely academic and distant from commercialization, gave the company a head start in both hardware development and understanding customer needs. Its installed base and track record of delivering working systems, while modest in absolute terms, are unique in its category.
 
-The company has also cultivated a developer ecosystem and partnerships with enterprises that reduce switching costs and build in network effects around its platform. Strategic partnerships with companies like Accenture and Deloitte help bring D-Wave solutions into enterprise workflows.
+The company has also cultivated a developer ecosystem and partnerships with enterprises that reduce switching costs and build in network effects around its platform. Strategic partnerships with companies like [Accenture](/acn-stock/) and Deloitte help bring D-Wave solutions into enterprise workflows.
 
 ## Key Risks
 

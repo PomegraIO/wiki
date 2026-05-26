@@ -37,7 +37,7 @@ This creates a virtuous loop that traditional retailers cannot copy. They need h
 
 Costco does not aim to be the supermarket that has everything. A conventional supermarket carries 40,000–50,000 stock-keeping units (different products and sizes). Costco carries roughly 3,500–4,000 SKUs — about a tenth as many — and this is intentional. The company curates its selection ruthlessly. It stocks multiple milk brands, but it does not stock every variety of every brand. It carries meat, produce, and household goods, but in a stripped-down assortment that prioritizes volume and turns.
 
-This discipline has massive implications. Fewer SKUs means faster inventory turnover — goods move from dock to shelf to customer in days rather than weeks. That minimizes spoilage, keeps the warehouse lean, and reduces working-capital needs. It also simplifies logistics: instead of running a highly complex supply chain that manages tens of thousands of items, Costco runs a simpler, more predictable one. And fewer choices actually drive higher sales per item because the company can negotiate larger volumes with each supplier.
+This discipline has massive implications. Fewer SKUs means faster [inventory turnover](/inventory-turnover/) — goods move from dock to shelf to customer in days rather than weeks. That minimizes spoilage, keeps the warehouse lean, and reduces working-capital needs. It also simplifies logistics: instead of running a highly complex supply chain that manages tens of thousands of items, Costco runs a simpler, more predictable one. And fewer choices actually drive higher sales per item because the company can negotiate larger volumes with each supplier.
 
 The other consequence is that Costco's buying power is extraordinary. When Costco tells a dairy producer or a vitamin maker "we want to buy your entire output for the next three years at this price," most suppliers accept. The company can then pass those volume discounts directly to members. This is one reason Costco's prices are so hard to beat, and why it commands such loyalty from its customer base.
 
@@ -55,7 +55,7 @@ The logistics efficiency that powers Costco's model is not obvious to a casual v
 
 The company owns significant logistics infrastructure — a fleet of trucks and regional distribution centers — rather than outsourcing to third parties. This vertical integration gives Costco direct control over the speed and cost of delivery. Products move from supplier to warehouse to member with minimal waste.
 
-Costco also competes with its suppliers in interesting ways. The company will sometimes private-label a product if the supplier is unwilling to meet its price target. This creates a constant pressure on suppliers to keep costs down and to accept Costco's low-margin model. Suppliers know that if they refuse a Costco proposal, a private-label alternative might replace them.
+Costco also competes with its suppliers in interesting ways. The company will sometimes private-label a product if the supplier is unwilling to meet its price [target](/tgt-stock/). This creates a constant pressure on suppliers to keep costs down and to accept Costco's low-margin model. Suppliers know that if they refuse a Costco proposal, a private-label alternative might replace them.
 
 ## International expansion and complexity
 
@@ -65,7 +65,7 @@ International expansion is more complex than domestic because product preference
 
 ## Workforce, culture, and the price of integrity
 
-Costco's long-standing policy is to pay warehouse workers significantly above the minimum wage — much more than competitors like Walmart typically pay. The company keeps wages high, offers benefits including healthcare and retirement, and maintains relatively low employee turnover. This is expensive, and it contributes to Costco's lower merchandise margins. But management believes it is the right thing to do and that it drives efficiency: lower turnover means better-trained staff, less hiring cost, and higher productivity.
+Costco's long-standing policy is to pay warehouse workers significantly above the minimum wage — much more than competitors like [Walmart](/wmt-stock/) typically pay. The company keeps wages high, offers benefits including healthcare and retirement, and maintains relatively low employee turnover. This is expensive, and it contributes to Costco's lower merchandise margins. But management believes it is the right thing to do and that it drives efficiency: lower turnover means better-trained staff, less hiring cost, and higher productivity.
 
 This commitment to employee treatment is not just ethical posturing; it is baked into the financial model. Costco's wage level is high enough that it would be difficult for a competitor to undercut through lower labor cost alone. The company has created an expectation among members that Costco pays people well, and many members value that and are willing to renew their membership partly for that reason.
 
@@ -73,7 +73,7 @@ This commitment to employee treatment is not just ethical posturing; it is baked
 
 Costco is not without headwinds. The warehouse model requires enormous upfront investment in real estate, inventory, and logistics infrastructure. The company is capital-intensive, even if it is more efficient than many competitors. Growth depends on opening new warehouses in profitable locations, and the supply of good sites is finite.
 
-The low-margin model also means that Costco must operate at very high efficiency to remain profitable. A disruption to supply chains, a sudden rise in labor costs, or a significant inflation in the cost of real estate could squeeze margins. The membership-fee model also faces questions: will members continue to renew in a prolonged recession? Are there enough affluent households and small businesses in a given market to justify a warehouse in a new city?
+The low-margin model also means that Costco must operate at very high efficiency to remain profitable. A disruption to supply chains, a sudden rise in labor costs, or a significant [inflation](/inflation/) in the cost of real estate could squeeze margins. The membership-fee model also faces questions: will members continue to renew in a prolonged [recession](/recession/)? Are there enough affluent households and small businesses in a given market to justify a warehouse in a new city?
 
 Competition from e-commerce is a longer-term question. Online retailers have expanded rapidly into groceries and bulk goods. Costco has its own online presence and has been growing e-commerce delivery, but it is not yet clear whether digital ordering will be a major profit driver or simply a defensive necessity.
 
@@ -81,4 +81,4 @@ Competition from e-commerce is a longer-term question. Online retailers have exp
 
 Costco's annual 10-K filing (SEC CIK 0000909832) is the foundation for understanding the business. Pay particular attention to the comparable-store sales growth (the change in revenue at locations open for more than a year), which indicates whether the core business is accelerating or slowing. Also watch membership renewal rates by geography and by tier, since membership is the recurring-revenue engine. The quarterly earnings calls offer color on comparable pricing, inventory levels, and the company's outlook on membership fee increases.
 
-Key metrics include the membership fee increase cadence, comparable-store sales growth, merchandise margin (usually expressed as basis points), membership renewal rate, and free cash flow. These reveal whether the company is pricing power, managing inventory efficiently, keeping members happy, and generating cash to return to shareholders or reinvest in new locations.
+Key metrics include the membership fee increase cadence, comparable-store sales growth, merchandise margin (usually expressed as basis points), membership renewal rate, and [free cash flow](/free-cash-flow/). These reveal whether the company is pricing power, managing inventory efficiently, keeping members happy, and generating cash to return to shareholders or reinvest in new locations.

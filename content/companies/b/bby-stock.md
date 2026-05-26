@@ -42,7 +42,7 @@ Best Buy's core moat is **store presence combined with service capabilities**. A
 
 The company also maintains **strong supplier relationships** and **access to exclusive products and bundles**. Because it is still the largest physical electronics retailer in North America, vendors give it favorable terms, early access to new product lines, and bundling opportunities that enhance margin and drive store traffic.
 
-However, the moat is not impenetrable. **Amazon and direct-to-consumer brands** continue to erode margin and volume, especially in commoditized product lines where price is the primary lever. **Walmart and Target**, with their superior scale and mass-market positioning, can match or undercut on many electronics categories. Best Buy's survival depends on continued reinvention toward services and a shrinking, profitable store footprint rather than defense of the old big-box model.
+However, the moat is not impenetrable. **Amazon and direct-to-consumer brands** continue to erode margin and volume, especially in commoditized product lines where price is the primary lever. **[Walmart](/wmt-stock/) and [Target](/tgt-stock/)**, with their superior scale and mass-market positioning, can match or undercut on many electronics categories. Best Buy's survival depends on continued reinvention toward services and a shrinking, profitable store footprint rather than defense of the old big-box model.
 
 ## Financial Pressures and Risks
 

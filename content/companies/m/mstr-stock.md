@@ -12,7 +12,7 @@ handwritten: true
 
 MicroStrategy is a software company. It makes tools that help other companies turn piles of data into useful information. Think of it this way: if you run a business, you have tons of data — sales numbers, customer info, costs, everything. But raw data is useless. You need software that can organize it, find patterns, and show you what's actually happening. That is what MicroStrategy does.
 
-The company is also unusual because of what its leadership does with the money the business makes. Since 2020, MicroStrategy has bought Bitcoin — lots of it. The company holds Bitcoin on its balance sheet, which is rare for a large corporation. That move has made MicroStrategy famous among crypto enthusiasts, but it is just one part of the business.
+The company is also unusual because of what its leadership does with the money the business makes. Since 2020, MicroStrategy has bought [Bitcoin](/bitcoin/) — lots of it. The company holds Bitcoin on its [balance sheet](/balance-sheet/), which is rare for a large corporation. That move has made MicroStrategy famous among crypto enthusiasts, but it is just one part of the business.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,9 +40,9 @@ MicroStrategy was founded in 1989 by Sanjay Banerjee, Phong Ngo, and Michael Say
 
 For most of the 1990s and 2000s, MicroStrategy was a typical software company — growing, hiring, facing competition, signing big contracts. It was successful but not spectacular. The company made money and returned some of it to shareholders through buybacks, but growth was steady rather than explosive.
 
-In 2020, Michael Saylor made a strategic decision that changed the company's public image. He began buying Bitcoin using MicroStrategy's cash reserves and balance sheet. The idea, as Saylor explained it, was that Bitcoin was a better store of value than cash. Instead of holding dollars, which lose purchasing power over time due to inflation, the company would hold Bitcoin. By 2024, MicroStrategy had purchased hundreds of thousands of Bitcoin, making it one of the largest holders in the world.
+In 2020, Michael Saylor made a strategic decision that changed the company's public image. He began buying Bitcoin using MicroStrategy's cash reserves and balance sheet. The idea, as Saylor explained it, was that Bitcoin was a better store of value than cash. Instead of holding dollars, which lose purchasing power over time due to [inflation](/inflation/), the company would hold Bitcoin. By 2024, MicroStrategy had purchased hundreds of thousands of Bitcoin, making it one of the largest holders in the world.
 
-This move was controversial. Critics said the company should use its cash to invest in growth, pay dividends, or buy back shares at good prices. Supporters liked the idea of a major corporation betting on Bitcoin and saw it as a signal of confidence in digital assets. The stock became famous among crypto investors, and some people bought MicroStrategy shares not because they cared about business intelligence software but because they wanted exposure to Bitcoin without actually owning it directly.
+This move was controversial. Critics said the company should use its cash to invest in growth, pay [dividends](/dividend/), or buy back shares at good prices. Supporters liked the idea of a major corporation betting on Bitcoin and saw it as a signal of confidence in digital assets. The stock became famous among crypto investors, and some people bought MicroStrategy shares not because they cared about business intelligence software but because they wanted exposure to Bitcoin without actually owning it directly.
 
 ## The software stays profitable
 

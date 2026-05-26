@@ -12,7 +12,7 @@ handwritten: true
 
 Barings Corporate Investors is a [closed-end fund](/wiki/closed-end-fund/) that operates in the rarefied world of privately placed corporate debt. Rather than trading stocks on public exchanges or holding liquid public [bonds](/bond/), MCI seeks returns by investing directly in the debt securities of companies that cannot easily raise capital in open markets. The fund offers a specific appeal to investors willing to accept illiquidity in exchange for the higher yields that come from lending to businesses below investment grade.
 
-The fund's target investments are corporate debt instruments that would typically be labeled as speculative or non-investment-grade—securities issued by companies with weaker credit profiles, higher leverage, or both. These borrowers come to the private market because they cannot obtain credit at reasonable rates in public bond markets, or because their financing needs are too specialized or small for a public issuance. Barings, as the manager, packages these loans and debt investments into a vehicle that distributes income to shareholders quarterly.
+The fund's [target](/tgt-stock/) investments are corporate debt instruments that would typically be labeled as speculative or non-investment-grade—securities issued by companies with weaker credit profiles, higher leverage, or both. These borrowers come to the private market because they cannot obtain credit at reasonable rates in public bond markets, or because their financing needs are too specialized or small for a public issuance. Barings, as the manager, packages these loans and debt investments into a vehicle that distributes income to shareholders quarterly.
 
 **Why a closed-end fund structure matters**
 
@@ -32,7 +32,7 @@ A portfolio of private corporate debt concentrates risk in ways that public equi
 
 **Competitive landscape and risks**
 
-Barings is a global asset manager with deep credit expertise, but the closed-end fund space for corporate debt includes competitors like Ares Capital, Golding Capital Partners, and others pursuing similar strategies. The key differentiator is the manager's skill in sourcing deals, underwriting credit, and negotiating terms favorable to the fund. When defaults spike or illiquid positions take years to resolve, that skill becomes test. During stable credit environments, many such funds generate steady returns; during downturns, they can suffer acute losses.
+Barings is a global asset manager with deep credit expertise, but the closed-end fund space for corporate debt includes competitors like [Ares Capital](/arcc-stock/), Golding Capital Partners, and others pursuing similar strategies. The key differentiator is the manager's skill in sourcing deals, underwriting credit, and negotiating terms favorable to the fund. When defaults spike or illiquid positions take years to resolve, that skill becomes test. During stable credit environments, many such funds generate steady returns; during downturns, they can suffer acute losses.
 
 [Interest rate](/interest-rate/) risk presents another dimension. Because MCI holds fixed-income instruments, a rising-rate environment erodes the present value of its holdings. Floating-rate debt mitigates this, but many private placements are fixed-rate. [Refinancing risk](/refinancing-risk/) matters too; if a borrower must roll over maturing debt into a higher-rate environment, its ability to service existing obligations may deteriorate.
 

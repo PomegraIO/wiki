@@ -28,7 +28,7 @@ Beyond CLOUD, the company also operates a professional services arm that builds 
 
 ## Market Position and Competitive Reality
 
-Hong Kong's software and IT services sector is fragmented. Wellchange occupies a niche: it is small enough to be nimble, but it aims to serve clients who cannot afford or do not want the complexity of enterprise vendors like SAP, Oracle, or even some mid-market rivals. Its positioning as a cloud-first, subscription-first alternative to legacy on-premise ERP is sensible for customers in Asia seeking vendor lock-in reduction and lower upfront capital expenditure.
+Hong Kong's software and IT services sector is fragmented. Wellchange occupies a niche: it is small enough to be nimble, but it aims to serve clients who cannot afford or do not want the complexity of enterprise vendors like SAP, [Oracle](/orcl-stock/), or even some mid-market rivals. Its positioning as a cloud-first, subscription-first alternative to legacy on-premise ERP is sensible for customers in Asia seeking vendor lock-in reduction and lower upfront capital expenditure.
 
 The competitive pressure is real. Larger SaaS vendors have moved downmarket aggressively, and regional rivals in India, Singapore, and mainland China also offer low-cost alternatives. Wellchange's advantage—to the extent it has one—rests on localization for Hong Kong, cultural familiarity with Asia-Pacific clients, and the ability to custom-build integrations into legacy systems that many customers still rely on.
 

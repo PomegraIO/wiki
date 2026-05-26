@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Bristol Myers Squibb trades on the New York Stock Exchange under the ticker BMY and is one of the world's largest pharmaceutical manufacturers. The company is the product of a 2019 megamerger between Bristol-Myers Squibb (itself the result of numerous acquisitions) and Celgene Corporation, a deal that created a behemoth focused on oncology, immunology, cardiovascular disease, and cell therapy. Like all large pharma companies, Bristol Myers Squibb depends on a handful of blockbuster drugs that generate most of its revenue and profit, and its future is shadowed by patent expirations, regulatory hurdles, and the perpetual challenge of replacing drugs that lose exclusivity.
+Bristol Myers Squibb trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker BMY and is one of the world's largest pharmaceutical manufacturers. The company is the product of a 2019 megamerger between Bristol-Myers Squibb (itself the result of numerous [acquisitions](/acquisition/)) and Celgene Corporation, a deal that created a behemoth focused on oncology, immunology, cardiovascular disease, and cell therapy. Like all large pharma companies, Bristol Myers Squibb depends on a handful of blockbuster drugs that generate most of its revenue and profit, and its future is shadowed by patent expirations, regulatory hurdles, and the perpetual challenge of replacing drugs that lose exclusivity.
 
 > "Pharma is not a growth business — it is a patent-life business."
 
@@ -29,7 +29,7 @@ Bristol Myers Squibb trades on the New York Stock Exchange under the ticker BMY 
 
 ## The 2019 merger and what it created
 
-Bristol-Myers Squibb, the predecessor, was itself a creature of mergers and acquisitions. The company traces its roots to 1858, when the Bristol company was founded, and 1887, when the Myers company started. They merged in 1989 to form Bristol-Myers Squibb. Over the following decades the company acquired numerous other drug makers, each bringing new patents and products.
+Bristol-Myers Squibb, the predecessor, was itself a creature of [mergers](/merger/) and acquisitions. The company traces its roots to 1858, when the Bristol company was founded, and 1887, when the Myers company started. They merged in 1989 to form Bristol-Myers Squibb. Over the following decades the company acquired numerous other drug makers, each bringing new patents and products.
 
 By the 2010s, Bristol-Myers Squibb was a large but aging pharmaceutical company whose blockbuster drugs were beginning to face patent expiration, and whose pipeline of new drugs was deemed insufficient to replace them. Celgene, meanwhile, was a much younger company that had developed and commercialized several highly successful cancer drugs, most notably thalidomide-derived immunomodulatory compounds used to treat multiple myeloma and other blood cancers. Celgene was valued at roughly 90 billion dollars when Bristol-Myers Squibb agreed to buy it in 2019 for about 74 billion dollars in cash and stock.
 
@@ -53,7 +53,7 @@ Oncology — cancer treatment — is the most profitable part of Bristol Myers S
 
 Bristol Myers Squibb inherited a strong oncology franchise from the Celgene merger. The company's cancer drugs include immunotherapies (drugs that harness the patient's own immune system to attack cancer), targeted therapies (drugs designed to hit specific genetic mutations in cancer cells), and traditional chemotherapies. The company is investing heavily in cell therapy — a cutting-edge approach where doctors remove a patient's immune cells, engineer them to recognize and kill cancer cells, and infuse them back — and in combination therapies, where multiple drugs are used together to achieve better results than either alone.
 
-The oncology market is enormous and growing, because global cancer rates are rising as populations age, and because the range of treatable cancers is expanding as new drug classes succeed. However, the market is also intensely competitive, with other large pharma companies (Roche, Pfizer, Merck, AbbVie) investing heavily, and with smaller biotechnology companies developing innovative new approaches. Maintaining a leadership position requires continuous investment and a successful string of new drug approvals.
+The oncology market is enormous and growing, because global cancer rates are rising as populations age, and because the range of treatable cancers is expanding as new drug classes succeed. However, the market is also intensely competitive, with other large pharma companies (Roche, [Pfizer](/pfe-stock/), Merck, [AbbVie](/abbv-stock/)) investing heavily, and with smaller biotechnology companies developing innovative new approaches. Maintaining a leadership position requires continuous investment and a successful string of new drug approvals.
 
 ## Patent cliffs and the pipeline problem
 
@@ -87,4 +87,4 @@ The pipeline is disclosed in the company's quarterly earnings calls and in prese
 
 Key metrics include the ratio of revenue from recently approved drugs (the last 3-5 years) to revenue from older drugs — a company with many recently launched drugs is in a better position than one relying on aging blockbusters. Also track gross margins on drugs as they age — newer drugs command higher prices, so margin profile indicates pricing power.
 
-Finally, read what the company says about patent expiration dates. Know which major drugs are losing exclusivity in the next five to ten years, and whether the company has credible replacements. If the company has a large patent cliff with no promising pipeline, risk is elevated.
+Finally, read what the company says about patent [expiration dates](/expiration-contracts/). Know which major drugs are losing exclusivity in the next five to ten years, and whether the company has credible replacements. If the company has a large patent cliff with no promising pipeline, risk is elevated.

@@ -31,7 +31,7 @@ Revenue also depends on which agricultural commodities are cheap or expensive at
 
 ## Geographic and product diversity
 
-Ingredion operates across multiple regions, with substantial revenues from North America, Europe, and emerging markets in South America, Asia, and Africa. The geographic spread provides some hedging: a slowdown in one region may be offset by growth in another. Emerging markets, where food consumption is growing faster than in developed countries, offer higher growth potential but also higher political and currency risks.
+Ingredion operates across multiple regions, with substantial revenues from North America, Europe, and emerging markets in South America, Asia, and Africa. The geographic spread provides some hedging: a slowdown in one region may be offset by growth in another. Emerging markets, where food consumption is growing faster than in developed countries, offer higher growth potential but also higher political and [currency risks](/currency-risk/).
 
 Within each geography, the company produces starches, sweeteners (derived from corn syrup and glucose), and functional ingredients including fiber, gums, and proteins. It sells primarily to large food and beverage manufacturers, with a customer base that includes household names in packaged foods, snacks, beverages, and condiments. No single customer accounts for a dominant share of revenue, reducing dependence on any one relationship.
 
@@ -45,13 +45,13 @@ The company invests in research and development to create products that are not 
 
 Ingredion's earnings are sensitive to commodity prices, particularly corn. When corn is cheap, the company's raw-material costs decline, and margins can expand if the company can hold pricing with customers. When corn is expensive, the company's costs rise; if customers resist price increases, margins are squeezed. The company manages this volatility partly through scale and long-term contracts with customers, but some commodity-price exposure remains built into the business.
 
-The company also faces exposure to currency fluctuations, since it operates in many countries and has revenues and costs in local currencies. A dollar appreciation can depress earnings when translated back to U.S. dollars, whereas depreciation can support them.
+The company also faces exposure to currency fluctuations, since it operates in many countries and has revenues and costs in local currencies. A dollar appreciation can depress earnings when translated back to U.S. dollars, whereas [depreciation](/depreciation/) can support them.
 
 ## Capital structure and cash allocation
 
-Ingredion is a mature, cash-generative business. It does not require the heavy ongoing capital investment that mining or heavy manufacturing might demand, but it does reinvest in equipment, facilities, and R&D to maintain competitiveness. The company has historically carried debt and paid a dividend, returning surplus cash to shareholders while preserving balance-sheet strength.
+Ingredion is a mature, cash-generative business. It does not require the heavy ongoing capital investment that mining or heavy manufacturing might demand, but it does reinvest in equipment, facilities, and R&D to maintain competitiveness. The company has historically carried debt and paid a [dividend](/dividend/), returning surplus cash to shareholders while preserving balance-sheet strength.
 
-The company's credit rating and debt levels are relevant because they affect the cost of capital and the flexibility to invest in growth or return capital during downturns. A leveraged balance sheet leaves less room for maneuver in a commodity downturn; a strong balance sheet provides resilience.
+The company's [credit rating](/credit-rating/) and debt levels are relevant because they affect the cost of capital and the flexibility to invest in growth or return capital during downturns. A leveraged [balance sheet](/balance-sheet/) leaves less room for maneuver in a commodity downturn; a strong balance sheet provides resilience.
 
 ## The path forward and what to research
 

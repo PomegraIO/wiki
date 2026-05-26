@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Southwest Airlines operates one of the largest domestic networks in the United States, moving millions of passengers yearly on short- and medium-haul routes flown by a single aircraft type — the Boeing 737. The airline is built on a simple model: maximise the use of planes and people, keep costs low, and charge less than legacy carriers while still turning a profit. It remains the only major U.S. airline that does not charge passengers to check a bag or to change a reservation, a deliberate choice that has shaped both its customer base and its cost structure.
+Southwest Airlines operates one of the largest domestic networks in the United States, moving millions of passengers yearly on short- and medium-haul routes flown by a single aircraft type — the [Boeing](/ba-stock/) 737. The airline is built on a simple model: maximise the use of planes and people, keep costs low, and charge less than legacy carriers while still turning a profit. It remains the only major U.S. airline that does not charge passengers to check a bag or to change a reservation, a deliberate choice that has shaped both its customer base and its cost structure.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ That velocity, repeated across thousands of planes, is where margin lives. An ai
 
 ## Revenue sources and the pricing equation
 
-Southwest's revenue comes almost entirely from passenger tickets. The airline does not have a significant cargo operation, does not sell frequent-flyer miles to banks at meaningful scale the way legacy carriers do, and does not charge for checked bags. That last point is strategic. In the early days of low-cost aviation, competitors began charging a fee for the first checked bag; most customers pay it, and it boosted industry-wide margins. Southwest chose not to, betting that the goodwill and increased volume would offset the lost fee revenue. That choice has held through decades, partly because changing it would be a visible departure from the company's brand.
+Southwest's revenue comes almost entirely from passenger tickets. The airline does not have a significant cargo operation, does not sell frequent-flyer miles to banks at meaningful scale the way legacy carriers do, and does not charge for checked bags. That last point is strategic. In the early days of low-cost aviation, competitors began charging a fee for the first checked bag; most customers pay it, and it boosted industry-wide margins. Southwest chose not to, betting that the [goodwill](/goodwill/) and increased volume would offset the lost fee revenue. That choice has held through decades, partly because changing it would be a visible departure from the company's brand.
 
 Pricing itself is managed in realtime. Southwest uses revenue-management systems to adjust fares based on demand, time of booking, and load factor, just like any airline. On peak routes and dates, fares rise. On off-peak and competitive routes, they fall. The airline is willing to fly full or nearly full at a lower price rather than half-empty at a higher price, which reflects its cost advantage: even at bargain fares, the per-seat profit can be positive.
 
@@ -51,7 +51,7 @@ The consistency is the real moat. Southwest has not had a major operational cris
 
 ## Pressures and risks
 
-Airlines are cyclical businesses, highly sensitive to fuel prices, economic downturns, and external shocks. Southwest is no exception. A recession that keeps business travelers grounded or causes leisure passengers to drive instead of fly will hit bookings and fares. Rising fuel costs immediately pressure margins on any unhedged exposure. And contagious disease, as the pandemic showed, can destroy half a year's revenue overnight.
+Airlines are cyclical businesses, highly sensitive to fuel prices, economic downturns, and external shocks. Southwest is no exception. A [recession](/recession/) that keeps business travelers grounded or causes leisure passengers to drive instead of fly will hit bookings and fares. Rising fuel costs immediately pressure margins on any unhedged exposure. And contagious disease, as the pandemic showed, can destroy half a year's revenue overnight.
 
 A second pressure is capital intensity. Planes wear out and must be replaced, airports demand new gates and infrastructure investments, and the industry-wide shift toward larger, more-efficient aircraft means Southwest will need to spend heavily to refresh its fleet. That spending competes with shareholder returns for the airline's cash flow.
 

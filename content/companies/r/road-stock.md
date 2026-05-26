@@ -56,7 +56,7 @@ Construction Partners must balance winning work with protecting margins. In boom
 
 ## Customer concentration and backlog
 
-Government entities award contracts regularly, so Construction Partners has a broad customer base rather than a few large customers. That diversification reduces the risk that a single customer relationship becomes distressed or terminates abruptly. However, the company's revenues and margins depend on the overall level of infrastructure spending in the Southeast and the company's share of that pool. In years when government budgets are tight or states defer projects, the company's revenue growth slows.
+Government entities award contracts regularly, so Construction Partners has a broad customer base rather than a few large customers. That [diversification](/diversification/) reduces the risk that a single customer relationship becomes distressed or terminates abruptly. However, the company's revenues and margins depend on the overall level of infrastructure spending in the Southeast and the company's share of that pool. In years when government budgets are tight or states defer projects, the company's revenue growth slows.
 
 The backlog—the value of contracts awarded but not yet completed—is a key metric for forecasting near-term revenue. A contractor with a large backlog has visibility into future work and revenue, whereas one with a thin backlog faces uncertainty. Construction Partners' backlog is disclosed in earnings reports and provides a window into management's view of demand for the coming quarters.
 

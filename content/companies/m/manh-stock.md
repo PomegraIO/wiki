@@ -19,7 +19,7 @@ The business is neither a manufacturer nor a traditional retailer; it is a speci
 
 Manhattan Associates was founded in 1990 by Kevin Bhaya and Eddie Capel, both with deep experience in warehouse management systems. The company spent its first decades serving the internal IT shops of large distribution centers and retailers, selling licensed software that ran on customer premises. The model was straightforward: develop software, license it, collect maintenance fees, and consult on implementations.
 
-The shift to cloud-based delivery—where Manhattan hosts the software and customers access it via the internet—required rebuilding the product from the ground up, but the strategic payoff was significant. Cloud delivery reduced the customer's upfront capital outlay, accelerated deployments, and allowed Manhattan to serve customers of various sizes more cost-effectively. The company has since emerged as one of the leading cloud-based supply-chain software vendors, with a customer base that includes major retailers like Target and Gap, global e-commerce fulfillment networks, and multinational manufacturers.
+The shift to cloud-based delivery—where Manhattan hosts the software and customers access it via the internet—required rebuilding the product from the ground up, but the strategic payoff was significant. Cloud delivery reduced the customer's upfront capital outlay, accelerated deployments, and allowed Manhattan to serve customers of various sizes more cost-effectively. The company has since emerged as one of the leading cloud-based supply-chain software vendors, with a customer base that includes major retailers like [Target](/tgt-stock/) and Gap, global e-commerce fulfillment networks, and multinational manufacturers.
 
 ## What the software does and why it matters
 
@@ -41,13 +41,13 @@ However, the revenue model requires Manhattan to deliver continuous value. Custo
 
 Manhattan's largest customers are major retailers and logistics operators with multi-billion-dollar supply chains. A handful of large customers often represent a meaningful portion of total revenue. This concentration creates both opportunity and risk: a large customer relationship is highly valuable and durable once established, but the loss of a major customer would be material. The company manages this by expanding within existing accounts—selling additional modules, capturing more of the customer's supply chain (warehousing, transportation, order management), and moving up in usage and spend.
 
-The cloud shift and the digitization of logistics have expanded the serviceable market. Smaller and mid-sized retailers and third-party logistics providers now use cloud-based supply-chain software, whereas historically such tools were only affordable for large enterprises. This has created a broader customer acquisition opportunity, though it has also attracted more competitors.
+The cloud shift and the digitization of logistics have expanded the serviceable market. Smaller and mid-sized retailers and third-party logistics providers now use cloud-based supply-chain software, whereas historically such tools were only affordable for large enterprises. This has created a broader customer [acquisition](/acquisition/) opportunity, though it has also attracted more competitors.
 
 ## Key investment considerations and risks
 
 Manhattan's growth depends on adoption of cloud-based supply-chain platforms, which remains robust but will eventually plateau as penetration increases. The company's ability to retain and expand customer relationships depends on the software delivering measurable operational improvement—a miss can trigger churn or reduced spending. Integration complexity is also a risk factor: supply chains involve numerous legacy systems, and deploying Manhattan often requires complex data migration and custom configurations. Failed or over-budget implementations can damage customer relationships and increase churn.
 
-Competition from both large enterprise-software vendors (Oracle, SAP) and specialized competitors keeps pricing pressure constant. Yet the stickiness of supply-chain software—the operational difficulty of switching—provides some defense. Customers will tolerate modest price increases if the alternative is operational risk.
+Competition from both large enterprise-software vendors ([Oracle](/orcl-stock/), SAP) and specialized competitors keeps pricing pressure constant. Yet the stickiness of supply-chain software—the operational difficulty of switching—provides some defense. Customers will tolerate modest price increases if the alternative is [operational risk](/operational-risk/).
 
 ## How to research Manhattan Associates
 

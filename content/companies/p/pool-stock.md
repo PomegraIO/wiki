@@ -15,7 +15,7 @@ POOL Corp sits at a boring but profitable intersection: it is the enormous middl
 
 ## The business — scale through consolidation
 
-POOL Corp went public in 1993 and trades on NASDAQ under ticker POOL. It is headquartered in Covington, Louisiana, a location chosen long ago for river access and Central American-facing commerce but now somewhat removed from the company's main theatre. What defines the company is not geography but rather the breadth and density of its distribution network. POOL owns and operates dozens of regional distribution centres, each stocked with inventory of thousands of SKUs — pumps, filters, chlorine, test kits, brushes, heaters, safety equipment, and everything else a pool contractor or service technician might need on a Tuesday morning.
+POOL Corp went public in 1993 and trades on [NASDAQ](/nasdaq/) under ticker POOL. It is headquartered in Covington, Louisiana, a location chosen long ago for river access and Central American-facing commerce but now somewhat removed from the company's main theatre. What defines the company is not geography but rather the breadth and density of its distribution network. POOL owns and operates dozens of regional distribution centres, each stocked with inventory of thousands of SKUs — pumps, filters, chlorine, test kits, brushes, heaters, safety equipment, and everything else a pool contractor or service technician might need on a Tuesday morning.
 
 The value to customers is straightforward: instead of sourcing from ten different suppliers and waiting for shipments, a contractor can walk into a POOL location, buy everything needed for a job, and leave. This convenience is worth paying for — not by much, but enough to be sustainable. The company earns the spread between what it pays for goods and what it charges retailers and contractors, plus ancillary revenue from delivery services, contractor programmes, and financing arrangements.
 
@@ -25,7 +25,7 @@ The distribution industry tends toward consolidation. Larger players can cover m
 
 The pool industry is not uniform year-round. New pool construction peaks in late spring and summer, creating a surge in demand for equipment during the warmer months. Service and chemical sales are steadier but still tick up in summer when pools open after winter closure. Winter is the industry's trough — fewer pools are being built, fewer are actively used, and demand drops. POOL Corp's results reflect this sharply: revenue and earnings are front-loaded toward Q2 and Q3, and the winter months are comparatively lean.
 
-Beyond the seasonal cycle, the business is shaped by residential construction booms and busts. When housing construction is strong and homebuilders are adding pools as a standard or premium feature, POOL's volumes surge. When the housing market cools, pool construction often cools faster — pools are discretionary, and developers pare them back quickly to cut costs. The 2008 recession devastated the pool industry; the post-pandemic boom of 2020–2023 lifted it dramatically. POOL's own growth and profitability swing with these longer cycles.
+Beyond the seasonal cycle, the business is shaped by residential construction booms and busts. When housing construction is strong and homebuilders are adding pools as a standard or premium feature, POOL's volumes surge. When the housing market cools, pool construction often cools faster — pools are discretionary, and developers pare them back quickly to cut costs. The 2008 [recession](/recession/) devastated the pool industry; the post-pandemic boom of 2020–2023 lifted it dramatically. POOL's own growth and profitability swing with these longer cycles.
 
 ## How POOL makes money — segments and margins
 
@@ -47,15 +47,15 @@ The company has invested heavily in digital tools and supply-chain visibility, a
 
 ## Pressures and what changes the story
 
-Inflation and supply-chain disruption directly affect POOL. In 2021–2023, manufacturers raised prices due to input costs and logistics bottlenecks; POOL passed much of these increases through to its customers, supporting its margins. But if price increases outpace customer willingness to pay, or if competition forces POOL to absorb costs, margin pressure emerges.
+[Inflation](/inflation/) and supply-chain disruption directly affect POOL. In 2021–2023, manufacturers raised prices due to input costs and logistics bottlenecks; POOL passed much of these increases through to its customers, supporting its margins. But if price increases outpace customer willingness to pay, or if competition forces POOL to absorb costs, margin pressure emerges.
 
-E-commerce and direct-to-consumer sales from manufacturers represent a slow-motion threat. If pool equipment makers began selling directly to homeowners online, bypassing distributors entirely, POOL's role could shrink. This has not happened broadly yet — most pool installers and service professionals still prefer the convenience of a local distributor — but it remains a tail risk.
+E-commerce and direct-to-consumer sales from manufacturers represent a slow-motion threat. If pool equipment makers began selling directly to homeowners online, bypassing distributors entirely, POOL's role could shrink. This has not happened broadly yet — most pool installers and service professionals still prefer the convenience of a local distributor — but it remains a [tail risk](/tail-risk/).
 
 Tariffs on imports also matter. Much pool equipment is manufactured overseas or uses imported components. Trade tariffs raise costs; whether POOL can pass all of these through to customers depends on competitive intensity and customer tolerance.
 
 ## Following POOL as a business
 
-POOL's quarterly results are straightforward to read. Watch gross margins — rising suggests pricing power and good inventory management; falling suggests inflation, pressure to discount, or an unfavourable mix shift. Watch segment revenue by type — contractors' equipment upgrades versus consumable chemicals tell you about the health of the construction cycle. The 10-K (SEC CIK 0000945841) itemizes the distribution network, lists acquisitions and their strategic rationale, and details the risks the company tracks most closely.
+POOL's quarterly results are straightforward to read. Watch gross margins — rising suggests pricing power and good inventory management; falling suggests inflation, pressure to discount, or an unfavourable mix shift. Watch segment revenue by type — contractors' equipment upgrades versus consumable chemicals tell you about the health of the construction cycle. The 10-K (SEC CIK 0000945841) itemizes the distribution network, lists [acquisitions](/acquisition/) and their strategic rationale, and details the risks the company tracks most closely.
 
 Industry data on new pool construction and existing-pool maintenance also frame the story. When housing starts weaken, POOL's results tend to follow within a quarter or two. Conversations with contractors and pool service companies offer ground truth on whether POOL's pricing is holding and whether volumes are moving. The company itself rarely surprises much — POOL is a mature, well-managed distributor. The surprises come from the construction cycle, not from management execution.
 

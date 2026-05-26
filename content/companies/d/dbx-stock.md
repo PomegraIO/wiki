@@ -29,7 +29,7 @@ The company has historically reported gross margins in the 75–80% range, typic
 
 ## The competitive position
 
-Dropbox arrived early in cloud storage (2008–2009) when syncing files across devices was novel and unreliable. By the time larger tech companies (Google Drive, Microsoft OneDrive, Amazon S3, Apple iCloud) launched competing offerings, Dropbox had cultivated deep user habits and favorable word-of-mouth. Its advantage was user experience: simpler, more reliable syncing and better cross-platform compatibility than early rivals.
+Dropbox arrived early in cloud storage (2008–2009) when syncing files across devices was novel and unreliable. By the time larger tech companies (Google Drive, [Microsoft](/msft-stock/) OneDrive, Amazon S3, [Apple](/aapl-stock/) iCloud) launched competing offerings, Dropbox had cultivated deep user habits and favorable word-of-mouth. Its advantage was user experience: simpler, more reliable syncing and better cross-platform compatibility than early rivals.
 
 That moat has eroded. OneDrive comes bundled with Windows and Office subscriptions. Google Drive is free with a Google account and integrates tightly with Google Workspace. Apple iCloud handles backups natively. For pure storage capacity at a competitive price, Dropbox struggles to differentiate against entrenched rivals. The company has responded by bundling complementary services (Dropbox Sign, Dropbox Backup, Dropbox Passwords) and pushing into team collaboration (Dropbox Spaces, shared task management), moving from a pure storage play toward a broader "digital workspace" positioning.
 

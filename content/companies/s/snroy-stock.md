@@ -57,7 +57,7 @@ Expansion into China and Southeast Asia has been more recent but significant. Th
 
 ## Competitive position and concentration risk
 
-Sanrio competes in the broader character-licensing space against The Walt Disney Company, Warner Bros., LEGO (owned by Kirkbi), Universal/NBCUniversal, and other IP holders. Disney's portfolio is vastly larger and its marketing budget immensely bigger. But Sanrio's characters are differentiated: they occupy a space that is cuter, less corporate, and less mainstream-dominant than Disney's. That differentiation has been Sanrio's protection: it appeals to a customer segment that is specifically looking for the aesthetic and emotional resonance that Sanrio characters offer.
+Sanrio competes in the broader character-licensing space against The [Walt Disney](/dis-stock/) Company, Warner Bros., LEGO (owned by Kirkbi), Universal/NBCUniversal, and other IP holders. Disney's portfolio is vastly larger and its marketing budget immensely bigger. But Sanrio's characters are differentiated: they occupy a space that is cuter, less corporate, and less mainstream-dominant than Disney's. That differentiation has been Sanrio's protection: it appeals to a customer segment that is specifically looking for the aesthetic and emotional resonance that Sanrio characters offer.
 
 A material risk is that character popularity can fade. Hello Kitty has maintained remarkable durability for over 50 years, but all brands are eventually vulnerable to generational shifts or changing taste. The company's mitigation is a diverse character portfolio and continuous creation of new characters that might resonate with younger demographics. But there is no guarantee that Sanrio's next breakout character will match Hello Kitty's longevity or market penetration.
 
@@ -65,7 +65,7 @@ The company is also concentrated in Asia for manufacturing and development, and 
 
 ## How to research Sanrio
 
-Start with the company's annual report (SEC CIK 0001584273) to understand revenue breakdown by geography, licensing category, and retail operations. The quarterly earnings releases show licensing revenue trends, retail store performance, and the company's outlook for new character launches and entertainment content.
+Start with the company's [annual report](/10-k/) (SEC CIK 0001584273) to understand revenue breakdown by geography, licensing category, and retail operations. The quarterly earnings releases show licensing revenue trends, retail store performance, and the company's outlook for new character launches and entertainment content.
 
 Watch for trends in licensing partner growth, the health of major retail relationships, and cultural momentum around the character portfolio. Character licensing is a form of opinion: a brand's value is reflected in how much a retail partner will pay to feature it. Rising licensing fees and expanding numbers of licensees signal strengthening IP; declining partner interest or narrowing shelf space signals the reverse.
 

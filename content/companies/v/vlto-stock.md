@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Veralto is a diagnostics and measurement company that provides instruments, software, and consumables used in clinical laboratories, research institutions, and industrial settings to detect, measure, and characterize biological and chemical samples. The company was created in 2023 as a spin-off from Fortive Corporation, a diversified industrial conglomerate, and emerged as a focused pure-play in the fast-growing diagnostics and life-sciences space. Veralto's portfolio includes analyzer instruments that process blood and bodily fluids for hospitals, specialty diagnostics equipment used in research and clinical settings, and a suite of software solutions that integrate diagnostic data into laboratory workflows.
+Veralto is a diagnostics and measurement company that provides instruments, software, and consumables used in clinical laboratories, research institutions, and industrial settings to detect, measure, and characterize biological and chemical samples. The company was created in 2023 as a [spin-off](/spin-off/) from Fortive Corporation, a diversified industrial conglomerate, and emerged as a focused pure-play in the fast-growing diagnostics and life-sciences space. Veralto's portfolio includes analyzer instruments that process blood and bodily fluids for hospitals, specialty diagnostics equipment used in research and clinical settings, and a suite of software solutions that integrate diagnostic data into laboratory workflows.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Veralto is a diagnostics and measurement company that provides instruments, soft
 
 Before Veralto became an independent company, its businesses were nested within Fortive, an industrial-software-and-measurement conglomerate that Fortive itself spun out of Danaher Corporation in 2015. Within Fortive, diagnostics-focused divisions accumulated over two decades — companies acquired and incubated that made diagnostic analyzers, laboratory instruments, quality-control systems, and measurement software.
 
-These businesses thrived within Fortive's operating model, which emphasized operational excellence, continuous improvement, and organic growth through product innovation and bolt-on acquisitions. Fortive invested in upgrading manufacturing efficiency, integrating software into traditionally hardware-heavy businesses, and expanding geographically. By the late 2010s, the diagnostics and life-sciences portfolio represented one of Fortive's most attractive growth segments, with exposure to the secular expansion of diagnostic testing, precision medicine, and life-sciences research spending.
+These businesses thrived within Fortive's operating model, which emphasized operational excellence, continuous improvement, and organic growth through product innovation and bolt-on [acquisitions](/acquisition/). Fortive invested in upgrading manufacturing efficiency, integrating software into traditionally hardware-heavy businesses, and expanding geographically. By the late 2010s, the diagnostics and life-sciences portfolio represented one of Fortive's most attractive growth segments, with exposure to the secular expansion of diagnostic testing, precision medicine, and life-sciences research spending.
 
 However, Fortive is fundamentally an industrial-software and manufacturing conglomerate, with businesses ranging from electrical distribution to professional instrumentation to water and environmental testing. The diagnostics portfolio did not fit neatly into that identity and competed internally with other priorities. In 2022, Fortive announced plans to separate the diagnostics business into an independent public company, reasoning that a focused diagnostics company would have more flexibility to invest in innovation, make acquisitions, and communicate a clearer story to investors.
 
@@ -42,7 +42,7 @@ In October 2023, Fortive distributed its diagnostics and life-sciences businesse
 
 **Software and connectivity**: Laboratory information systems (LIS) and data-management software that integrate diagnostic results, help laboratorians track samples, and feed test results into hospital electronic health records (EHRs).
 
-The spinoff was complex because Fortive's infrastructure — finance, HR, IT, supply chain — had to be replicated for Veralto as a standalone company. But the fundamental businesses being transferred were already running and profitable.
+The [spinoff](/spinoff/) was complex because Fortive's infrastructure — finance, HR, IT, supply chain — had to be replicated for Veralto as a standalone company. But the fundamental businesses being transferred were already running and profitable.
 
 ## The diagnostic instrument market and Veralto's position
 
@@ -72,6 +72,6 @@ Competitively, Veralto must establish itself as a committed investor in diagnost
 
 The annual 10-K filing (SEC CIK 0001967680) will detail revenue by diagnostic platform and geographic region. As a newly independent company, Veralto's first full-year financials will also disribe the stand-alone cost structure — shared services still being provided by Fortive, and the areas where Veralto is building independent capabilities.
 
-Key metrics: organic growth by platform (core chemistry, specialty diagnostics, molecular), the ratio of recurring reagent and service revenue to total (higher is better and more predictable), gross margins on reagents versus analyzers, and backlog or order trends. The company's capital allocation strategy — how it balances investment in research and development, dividends, and acquisitions — will indicate management's conviction about future growth.
+Key metrics: organic growth by platform (core chemistry, specialty diagnostics, molecular), the ratio of recurring reagent and service revenue to total (higher is better and more predictable), gross margins on reagents versus analyzers, and backlog or order trends. The company's capital allocation strategy — how it balances investment in research and development, [dividends](/dividend/), and acquisitions — will indicate management's conviction about future growth.
 
 Investors also watch diagnostic testing volume trends (available from industry reports and healthcare utilization data) and the pace of adoption of molecular and specialty diagnostic tests, which indicate whether Veralto's higher-growth platforms are accelerating.

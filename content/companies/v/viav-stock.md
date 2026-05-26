@@ -13,7 +13,7 @@ handwritten: true
 
 What does VIAVI make, and who buys it?
 
-VIAVI Solutions manufactures equipment and software that telecommunications companies and network operators use to test, monitor, and optimize their networks. A telecom company like AT&T or Verizon runs cables through cities and buildings, installs towers, and operates millions of devices. To keep that network working, the operator needs to test it, find problems, and fix them. VIAVI makes the instruments and software tools that do that testing and monitoring. Its customers are the telecom operators themselves, the companies that build and install network infrastructure, and the equipment manufacturers that supply them. The stock trades on NASDAQ as VIAV.
+VIAVI Solutions manufactures equipment and software that telecommunications companies and network operators use to test, monitor, and optimize their networks. A telecom company like AT&T or Verizon runs cables through cities and buildings, installs towers, and operates millions of devices. To keep that network working, the operator needs to test it, find problems, and fix them. VIAVI makes the instruments and software tools that do that testing and monitoring. Its customers are the telecom operators themselves, the companies that build and install network infrastructure, and the equipment manufacturers that supply them. The stock trades on [NASDAQ](/nasdaq/) as VIAV.
 
 <aside class="wiki-infobox">
 <table>
@@ -79,4 +79,4 @@ Read the 10-K (SEC CIK 0000912093) to understand the revenue split between Netwo
 
 Watch quarterly earnings calls for trends: Are operators spending more or less on network testing? How is the shift to software and cloud adoption progressing? What is the churn rate on Service Enablement subscriptions? Are gross margins stable or compressing?
 
-Key metrics: gross margin by segment (software should be higher than hardware), revenue growth rate and backlog growth, major customer concentration, and research and development spending as a percentage of revenue. Free cash flow and debt levels are also worth monitoring, as the company has taken on debt for acquisitions and growth initiatives.
+Key metrics: gross margin by segment (software should be higher than hardware), revenue growth rate and backlog growth, major customer concentration, and research and development spending as a percentage of revenue. [Free cash flow](/free-cash-flow/) and debt levels are also worth monitoring, as the company has taken on debt for [acquisitions](/acquisition/) and growth initiatives.

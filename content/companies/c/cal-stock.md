@@ -24,7 +24,7 @@ In 2022, the company changed its name from Brown Shoe to Caleres—a deliberate 
 
 ## How does Caleres make money?
 
-The company's business breaks into two distinct halves. Famous Footwear is the larger and more visible piece—a chain of discount footwear stores that stock a broad range of shoes from major brands (Nike, Adidas, Skechers, New Balance, and others) alongside Caleres' own branded products. Famous Footwear operates hundreds of stores across North America, both in strip centers and enclosed malls, and has built an e-commerce presence as a critical part of the channel. The retail business is volume-driven and margin-conscious; success depends on traffic, conversion, and managing inventory turn in a fast-moving category.
+The company's business breaks into two distinct halves. Famous Footwear is the larger and more visible piece—a chain of discount footwear stores that stock a broad range of shoes from major brands ([Nike](/nke-stock/), Adidas, Skechers, New Balance, and others) alongside Caleres' own branded products. Famous Footwear operates hundreds of stores across North America, both in strip centers and enclosed malls, and has built an e-commerce presence as a critical part of the channel. The retail business is volume-driven and margin-conscious; success depends on traffic, conversion, and managing inventory turn in a fast-moving category.
 
 The branded business is structurally different. Brands like Naturalizer and KEDS are sold through department stores, specialty retailers, and online marketplaces, as well as through some direct channels. Dr. Scholl's, in particular, is a value-oriented name with significant distribution in mass channels. These brands are less real estate dependent and can scale without heavy capital investment in physical footprint, though they face wholesale pricing pressure and retailer consolidation. Some brands are primarily wholesale-only; others have their own DTC (direct-to-consumer) sites or pop-up presence, which has grown in importance as retailers have consolidated.
 
@@ -56,7 +56,7 @@ Start with the [10-K](/wiki/10-k/), paying close attention to the segment-level 
 
 Watch inventory levels relative to sales and gross margins. Footwear retail is sensitive to inventory timing; heavy markdowns to clear obsolete stock compress profitability. [Accounts receivable](/wiki/accounts-receivable/) turns are worth monitoring for the wholesale business, as extended payment terms or retailer distress can hide cash flow problems.
 
-The competitive environment is critical. Track major retailer commentary on footwear demand (e.g., earnings calls from Macy's, Dick's Sporting Goods, Foot Locker), as these are partial barometers of Caleres' wholesale partners. Consumer preference shifts toward athleisure and direct brands like Crocs, On Running, or Hoka are real headwinds.
+The competitive environment is critical. Track major retailer commentary on footwear demand (e.g., earnings calls from Macy's, [Dick's Sporting Goods](/dks-stock/), Foot Locker), as these are partial barometers of Caleres' wholesale partners. Consumer preference shifts toward athleisure and direct brands like Crocs, On Running, or Hoka are real headwinds.
 
 DTC channel expansion and profitability is a core strategic narrative. Look for evidence that the company is building brand awareness and customer loyalty outside wholesale, and that margins are improving in these channels. If DTC growth is real, it can partially offset wholesale headwinds.
 

@@ -51,15 +51,15 @@ Most Nutanix revenue comes from subscription licenses for the core platform and 
 
 ## The competitive landscape
 
-Nutanix competes against multiple categories of vendors. It competes against traditional virtualization software makers (like VMware, now owned by Broadcom) who are moving toward software-centric models. It competes against public cloud providers (Amazon, Microsoft, Google) who argue that customers should rent computing infrastructure rather than buy it. And it competes against a long tail of smaller HCI and storage vendors.
+Nutanix competes against multiple categories of vendors. It competes against traditional virtualization software makers (like VMware, now owned by [Broadcom](/avgo-stock/)) who are moving toward software-centric models. It competes against public cloud providers (Amazon, [Microsoft](/msft-stock/), Google) who argue that customers should rent computing infrastructure rather than buy it. And it competes against a long tail of smaller HCI and storage vendors.
 
 The company's most durable advantage is its community of customers and partners who have standardized on the platform. That switching cost — the time and money required to move to a competitor — is real, which gives Nutanix some defensiveness against new competitors. But the company is not dominant in any single market segment, and customers can mix and match solutions from different vendors, so competitive intensity remains high.
 
 ## Revenue model and growth dynamics
 
-Nutanix's transition to subscriptions means that revenue grows through two mechanisms: new customer acquisitions and expansion revenue from existing customers (who buy more licenses, upgrade to premium versions, or add new products). The company tracks these carefully through metrics like annual recurring revenue (ARR), net dollar retention (how much revenue comes back from existing customers year to year), and subscription margin (the gross margin on subscription revenue alone, excluding services).
+Nutanix's transition to subscriptions means that revenue grows through two mechanisms: new customer [acquisitions](/acquisition/) and expansion revenue from existing customers (who buy more licenses, upgrade to premium versions, or add new products). The company tracks these carefully through metrics like annual recurring revenue (ARR), net dollar retention (how much revenue comes back from existing customers year to year), and subscription margin (the gross margin on subscription revenue alone, excluding services).
 
-The shift toward subscriptions also meant that Nutanix had to accept slower upfront revenue recognition. Selling a customer a three-year subscription at ten thousand dollars per year meant only recognizing about three thousand dollars in the first quarter, rather than recognizing the full amount upfront. This flattened growth rates in near-term financial results even as underlying business momentum remained strong. Wall Street had to relearn how to interpret Nutanix's financial statements.
+The shift toward subscriptions also meant that Nutanix had to accept slower upfront [revenue recognition](/revenue-recognition/). Selling a customer a three-year subscription at ten thousand dollars per year meant only recognizing about three thousand dollars in the first quarter, rather than recognizing the full amount upfront. This flattened growth rates in near-term financial results even as underlying business momentum remained strong. Wall Street had to relearn how to interpret Nutanix's financial statements.
 
 ## The public-cloud tension
 
@@ -69,7 +69,7 @@ The company has tried to address this by making its platform cloud-compatible an
 
 ## Capital and structure
 
-Nutanix is a publicly traded software company that invests heavily in research and development, sales, and marketing. The company does not yet generate high free cash flow because it is still investing to grow the subscription base. Like many software companies, Nutanix's path to profitability is not primarily about cutting costs but about growing revenue faster than operating expenses.
+Nutanix is a publicly traded software company that invests heavily in research and development, sales, and marketing. The company does not yet generate high [free cash flow](/free-cash-flow/) because it is still investing to grow the subscription base. Like many software companies, Nutanix's path to profitability is not primarily about cutting costs but about growing revenue faster than operating expenses.
 
 The company has made several acquisitions to fill gaps in its platform (particularly around security and disaster recovery) and to accelerate growth in new markets. These acquisitions are typical for enterprise software companies but carry execution risk.
 
@@ -77,6 +77,6 @@ The company has made several acquisitions to fill gaps in its platform (particul
 
 To research Nutanix, start with the 10-K filing (SEC CIK 0001618732), which breaks revenue into subscription and services and discusses the geographic and customer-segment mix. Quarterly earnings calls focus on annual recurring revenue, net dollar retention, subscription margins, and customer acquisition cost.
 
-Key metrics are the growth rate of annual recurring revenue (which indicates how fast the underlying business is growing), net dollar retention above one hundred percent (which indicates that existing customers are expanding their spend faster than the company loses them), and free cash flow conversion (what percentage of profit translates into cash in the bank). Watch also for commentary on the competitive environment and on how much revenue is still coming from the legacy appliance business versus the higher-margin subscription business.
+Key metrics are the growth rate of annual recurring revenue (which indicates how fast the underlying business is growing), net dollar retention above one hundred percent (which indicates that existing customers are expanding their spend faster than the company loses them), and free [cash flow conversion](/cash-flow-conversion/) (what percentage of profit translates into cash in the bank). Watch also for commentary on the competitive environment and on how much revenue is still coming from the legacy appliance business versus the higher-margin subscription business.
 
 Nutanix is best understood as a software company transitioning from hardware, in a market where on-premises infrastructure faces long-term secular headwinds from public cloud growth, but where the company has carved out a defensible niche in hybrid and multi-cloud management.

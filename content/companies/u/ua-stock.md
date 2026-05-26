@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Under Armour is a public athletic apparel company that designs, manufactures, and distributes performance gear for sports, fitness, and casual wear.** Founded in 1996 by Kevin Plank, a former University of Maryland football player, the company has grown into a global brand competing alongside Nike and Adidas in the highly competitive athletic wear market. Under Armour trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker UA and is headquartered in Baltimore, Maryland.
+**Under Armour is a public athletic apparel company that designs, manufactures, and distributes performance gear for sports, fitness, and casual wear.** Founded in 1996 by Kevin Plank, a former University of Maryland football player, the company has grown into a global brand competing alongside [Nike](/nke-stock/) and Adidas in the highly competitive athletic wear market. Under Armour trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker UA and is headquartered in Baltimore, Maryland.
 
 ## The origin and early momentum
 

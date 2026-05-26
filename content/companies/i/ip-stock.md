@@ -61,6 +61,6 @@ Track monthly containerboard prices and volumes from industry sources like RISI,
 
 The company's [dividend](/dividend/) has historically been supported through cycles, but watch the [payout ratio](/payout-ratio/) in downturns; if it exceeds sustainable cash flow, trouble may be coming. Management credibility often hinges on whether they cut capex aggressively in downturns (a sign of discipline) or delay, burning cash (a red flag).
 
-Comparable companies for valuation include [WestRock](/wiki/wrd-stock/) and, internationally, Smurfit WestRock and Mondi. Use EV/[EBITDA](/ebitda/) on trough earnings to avoid cyclical distortion, and compare return on invested capital over a full cycle (5–7 years) to assess capital allocation skill.
+Comparable companies for valuation include WestRock and, internationally, [Smurfit WestRock](/sw-stock/) and Mondi. Use EV/[EBITDA](/ebitda/) on trough earnings to avoid cyclical distortion, and compare return on invested capital over a full cycle (5–7 years) to assess capital allocation skill.
 
 International Paper's long history and recent modernization make it a barometer for global industrial health, consumer spending, and logistics. For commodity investors, it represents pure exposure to packaging cycles without the complexity of integrated forest ownership or significant ancillary businesses.

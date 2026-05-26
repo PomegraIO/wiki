@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Jiangsu Hengrui Pharmaceuticals is one of China's largest research-and-development-driven drug makers, headquartered in Lianyungang and listed on both Chinese exchanges and in the United States via American Depositary Receipts (JHPCY on the NASDAQ). The company has built its reputation on oncology — developing treatments for solid tumours and haematological malignancies — and has expanded into immunology, cardiovascular medicine, and other therapeutic areas. Unlike many Chinese pharmaceutical manufacturers that compete primarily on generic drugs and cost, Hengrui has invested heavily in original drug discovery and innovative therapies, earning genuine intellectual property and patent protection in its core areas.
+Jiangsu Hengrui Pharmaceuticals is one of China's largest research-and-development-driven drug makers, headquartered in Lianyungang and listed on both Chinese exchanges and in the United States via [American Depositary Receipts](/adr/) (JHPCY on the [NASDAQ](/nasdaq/)). The company has built its reputation on oncology — developing treatments for solid tumours and haematological malignancies — and has expanded into immunology, cardiovascular medicine, and other therapeutic areas. Unlike many Chinese pharmaceutical manufacturers that compete primarily on generic drugs and cost, Hengrui has invested heavily in original drug discovery and innovative therapies, earning genuine intellectual property and patent protection in its core areas.
 
 ## A builder of cancer medicines
 
@@ -37,7 +37,7 @@ What distinguishes Hengrui is its **commitment to original drug discovery** — 
 
 The downside is that this approach is expensive and inherently uncertain. Drug development can take 10 to 15 years and cost hundreds of millions of dollars per molecule, with no guarantee of approval or commercial success. Hengrui's profitability and stock performance therefore swing on the outcomes of development programs that are years away from approval — a source of volatility that shorter-horizon investors dislike.
 
-Hengrui is also structurally exposed to **China's healthcare system and government policy**. The company makes most of its money in China, where the government is an enormous buyer through public hospital systems and group procurement. Any shift in government pricing policy, inclusion or exclusion of drugs from reimbursement lists, or changes to the regulatory approval pathway ripple immediately through revenue. International expansion offers partial diversification, but it remains a long-term play.
+Hengrui is also structurally exposed to **China's healthcare system and government policy**. The company makes most of its money in China, where the government is an enormous buyer through public hospital systems and group procurement. Any shift in government pricing policy, inclusion or exclusion of drugs from reimbursement lists, or changes to the regulatory approval pathway ripple immediately through revenue. International expansion offers partial [diversification](/diversification/), but it remains a long-term play.
 
 ## Manufacturing and supply
 
@@ -45,7 +45,7 @@ Like other Chinese pharmaceutical makers, Hengrui operates its own manufacturing
 
 ## Reading Hengrui's financials and research
 
-Investors studying Hengrui should begin with the company's annual report and SEC filings (CIK 0002071868), which detail drug portfolio composition, development-stage programs, and regulatory approvals by geography. The company files form 20-F annually, providing comparable financial disclosure to U.S.-listed companies.
+Investors studying Hengrui should begin with the company's [annual report](/10-k/) and SEC filings (CIK 0002071868), which detail drug portfolio composition, development-stage programs, and regulatory approvals by geography. The company files form 20-F annually, providing comparable financial disclosure to U.S.-listed companies.
 
 Key metrics to track:
 

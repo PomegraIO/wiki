@@ -36,19 +36,19 @@ This segment sells annuities — insurance products that trade cash today for gu
 
 This segment is the earnings engine. Annuities carry higher margins than group insurance, and the business is large — MetLife holds billions of dollars in annuity reserves and is one of the largest pension de-risking providers in America. When a large pension plan wants to shed the risk of supporting retirees, MetLife often bids to assume those liabilities.
 
-The profitability of annuities hinges on longevity assumptions and interest rates. MetLife models how long retirees will live; if actual lifespan exceeds the model, claims are larger and profit shrinks. Conversely, if mortality is better than expected (more people die earlier), profits rise. This is morbid arithmetic, but real: a company that underestimates lifespan on a large block of annuities faces a structural loss on that block.
+The profitability of annuities hinges on longevity assumptions and [interest rates](/interest-rate/). MetLife models how long retirees will live; if actual lifespan exceeds the model, claims are larger and profit shrinks. Conversely, if mortality is better than expected (more people die earlier), profits rise. This is morbid arithmetic, but real: a company that underestimates lifespan on a large block of annuities faces a structural loss on that block.
 
-Interest rates matter because MetLife invests the premiums in bonds and other fixed-income assets. When rates are high, new investments pay high returns, and annuity margins improve. When rates fall, new money earns less, squeezing margins on new sales.
+Interest rates matter because MetLife invests the premiums in [bonds](/bond/) and other fixed-income assets. When rates are high, new investments pay high returns, and annuity margins improve. When rates fall, new money earns less, squeezing margins on new sales.
 
 ## Asia
 
-MetLife operates in multiple Asian markets — Japan, South Korea, Hong Kong, Vietnam, and others — selling life insurance, disability insurance, and savings products. Asia is a growth region: rising middle-class incomes, improving life expectancy, and thin insurance penetration mean that demand for insurance is growing faster than in mature markets like the US.
+MetLife operates in multiple Asian markets — Japan, South Korea, Hong Kong, Vietnam, and others — selling life insurance, [disability insurance](/disability-insurance-personal/), and savings products. Asia is a growth region: rising middle-class incomes, improving life expectancy, and thin insurance penetration mean that demand for insurance is growing faster than in mature markets like the US.
 
-Asian operations are profitable when the company wins market share and operates efficiently, but they carry regulatory risk (different countries impose different rules and reserve requirements) and market risk (insurance demand can swing sharply in a financial crisis). MetLife's Asian business is a growth play, not yet a top contributor to earnings, but likely to become more important over time.
+Asian operations are profitable when the company wins market share and operates efficiently, but they carry regulatory risk (different countries impose different rules and [reserve requirements](/reserve-requirements/)) and [market risk](/market-risk/) (insurance demand can swing sharply in a financial crisis). MetLife's Asian business is a growth play, not yet a top contributor to earnings, but likely to become more important over time.
 
 ## Property & Casualty Insurance
 
-MetLife owns a significant property-casualty insurance business through subsidiaries, selling homeowner and auto insurance. This segment is highly competitive and cyclical: when price competition intensifies and claims are heavy, underwriting profit is thin. When pricing discipline holds and claims are light, profit can be strong. Catastrophic events — major hurricanes, floods, or wide-scale auto losses — can swing the segment's annual profit sharply negative.
+MetLife owns a significant property-casualty insurance business through subsidiaries, selling homeowner and [auto insurance](/auto-insurance/). This segment is highly competitive and cyclical: when price competition intensifies and claims are heavy, underwriting profit is thin. When pricing discipline holds and claims are light, profit can be strong. Catastrophic events — major hurricanes, floods, or wide-scale auto losses — can swing the segment's annual profit sharply negative.
 
 Property-casualty insurers manage this through pricing sophistication and reinsurance. MetLife uses detailed actuarial models to price policies, trying to charge each customer enough to cover expected claims. It also buys reinsurance to cap its exposure to catastrophic events, trading some profit for stability.
 
@@ -62,7 +62,7 @@ The company is also active in asset management, running investment portfolios fo
 
 Insurance is highly capital-intensive and regulated. Regulators set reserve requirements (insurance companies must hold enough capital to cover potential claims) and enforce solvency rules. A major unexpected loss can threaten solvency if reserves are insufficient. MetLife manages this through conservative underwriting and excess capital, but stress events — a pandemic that drives up life-insurance claims, a catastrophic year for property damage — test those reserves.
 
-There is also competitive pressure. Insurance distribution has been shifting online and toward direct-to-consumer channels, eroding broker relationships that MetLife historically relied on. Customers can now comparison-shop easily, which compresses margins on commoditised products like term life and auto insurance.
+There is also competitive pressure. Insurance distribution has been shifting online and toward direct-to-consumer channels, eroding [broker](/broker/) relationships that MetLife historically relied on. Customers can now comparison-shop easily, which compresses margins on commoditised products like term life and auto insurance.
 
 Regulatory risk is ever-present. Governments change rules around reserve requirements, minimum capital ratios, and product design. A significant rule change can alter the profitability of an entire segment.
 
@@ -74,4 +74,4 @@ Watch for commentary on longevity trends and interest-rate assumptions. If manag
 
 Quarterly earnings calls reveal management's stance on pricing in each segment and any emerging claims experience. In years with significant catastrophic losses, management will discuss how the company absorbed them and what adjustments are being made.
 
-Finally, track capital ratios and the dividend. Insurance companies are valued partly on their capital efficiency — how much earnings they generate relative to the equity required to support the business. A strong capital position and a growing dividend signal confidence in underwriting and claims experience.
+Finally, track capital ratios and the [dividend](/dividend/). Insurance companies are valued partly on their capital efficiency — how much earnings they generate relative to the equity required to support the business. A strong capital position and a growing dividend signal confidence in underwriting and claims experience.

@@ -13,7 +13,7 @@ handwritten: true
 
 ## What's in the Asure platform?
 
-Asure Software is a [cloud-based](/wiki/cloud-computing/) Human Capital Management (HCM) provider serving small and mid-sized businesses. Its core offering is an integrated suite of payroll processing, tax filing, HR compliance, time and attendance tracking, recruiting, and benefits administration. The company wraps these capabilities into a [Software-as-a-Service](/wiki/saas/) platform where customers pay recurring subscription fees rather than managing payroll in-house or using disconnected point solutions.
+Asure Software is a cloud-based Human Capital Management (HCM) provider serving small and mid-sized businesses. Its core offering is an integrated suite of payroll processing, tax filing, HR compliance, time and attendance tracking, recruiting, and benefits administration. The company wraps these capabilities into a Software-as-a-Service platform where customers pay recurring subscription fees rather than managing payroll in-house or using disconnected point solutions.
 
 ## Who uses it, and why?
 
@@ -21,7 +21,7 @@ Employers with 10 to 500 or so employees find payroll and tax compliance adminis
 
 ## Where does the money come from?
 
-Revenue is almost entirely recurring [SaaS](/wiki/saas-model/) subscription fees. Customers pay monthly or annually for access to payroll processing, tax filing, and HR modules. The 2025 business generated approximately $140 million in total revenue, with recurring revenue reaching over 80 percent of the total—a stable, predictable mix in a software business. Growth comes from both customer [acquisition](/acquisition/) and expansion: pulling in new SMBs and getting existing customers to adopt more modules like recruiting, benefits, and time tracking.
+Revenue is almost entirely recurring SaaS subscription fees. Customers pay monthly or annually for access to payroll processing, tax filing, and HR modules. The 2025 business generated approximately $140 million in total revenue, with recurring revenue reaching over 80 percent of the total—a stable, predictable mix in a software business. Growth comes from both customer [acquisition](/acquisition/) and expansion: pulling in new SMBs and getting existing customers to adopt more modules like recruiting, benefits, and time tracking.
 
 ## How is Asure positioned in its market?
 

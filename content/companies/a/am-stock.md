@@ -53,7 +53,7 @@ Antero's revenue model is almost entirely fee-based or volume-committed contract
 
 ## What makes Antero worth owning?
 
-Midstream energy companies appeal to income investors because they generate stable, contractual cash flows and often distribute a large portion of earnings to shareholders. Antero operates as a [limited partnership](/wiki/limited-partnership-mlp/) (MLP structure), which historically has meant tax-advantaged distributions and high yields. The Appalachian gas business has grown as shale production ramped; Antero benefited from building out infrastructure to serve that growth. As long as producers need to move gas, Antero collects fees. The company has also expanded eastward and outward, adding customers and volumes organically. For conservative investors seeking recurring income from tangible assets, a stable midstream operator can fit a portfolio.
+Midstream energy companies appeal to income investors because they generate stable, contractual cash flows and often distribute a large portion of earnings to shareholders. Antero operates as a limited partnership (MLP structure), which historically has meant tax-advantaged distributions and high yields. The Appalachian gas business has grown as shale production ramped; Antero benefited from building out infrastructure to serve that growth. As long as producers need to move gas, Antero collects fees. The company has also expanded eastward and outward, adding customers and volumes organically. For conservative investors seeking recurring income from tangible assets, a stable midstream operator can fit a portfolio.
 
 ## What could go wrong?
 

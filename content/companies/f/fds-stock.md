@@ -43,7 +43,7 @@ FactSet's competitive strength rests on three pillars: breadth of data coverage,
 
 The company operates with strong unit economics. Subscription revenue is recurring and predictable; retention is very high (over 90% annually). Operating leverage exists because adding a new data feed or enhancing a product module can serve thousands of existing clients with minimal incremental cost. Over the years, the company has improved its [operating margin](/operating-margin/) through scale and operational efficiency, even as it invests in product development and sales.
 
-FactSet is highly profitable and generates substantial [free cash flow](/wiki/cash-flow-statement/). The company invests in software development, cloud infrastructure, and M&A to expand its data and product capabilities. It has also been active in [returning capital](/wiki/capital-allocation/) to shareholders through [dividends](/dividend/) and buybacks.
+FactSet is highly profitable and generates substantial [free cash flow](/wiki/cash-flow-statement/). The company invests in software development, cloud infrastructure, and M&A to expand its data and product capabilities. It has also been active in returning capital to shareholders through [dividends](/dividend/) and buybacks.
 
 ## Structural pressures and risks
 

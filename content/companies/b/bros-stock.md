@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Dutch Bros is a coffee-and-beverage company that has grown from a local Oregon operation into a continent-wide chain of drive-through kiosks and cafes. The company's pitch is simple: high-quality specialty coffee, customizable drinks, fast service through a drive-through model, and an irreverent brand personality that explicitly positions itself as different from Starbucks. That positioning has resonated with younger customers, and the company has been opening locations at an aggressive pace, leveraging the lower real-estate cost and higher-speed service of the drive-through format to expand faster and cheaper than traditional sit-down cafes could. The story of Dutch Bros is a story of retail growth and the challenge of maintaining product quality and brand identity while scaling rapidly across a large geography.
+Dutch Bros is a coffee-and-beverage company that has grown from a local Oregon operation into a continent-wide chain of drive-through kiosks and cafes. The company's pitch is simple: high-quality specialty coffee, customizable drinks, fast service through a drive-through model, and an irreverent brand personality that explicitly positions itself as different from [Starbucks](/sbux-stock/). That positioning has resonated with younger customers, and the company has been opening locations at an aggressive pace, leveraging the lower real-estate cost and higher-speed service of the drive-through format to expand faster and cheaper than traditional sit-down cafes could. The story of Dutch Bros is a story of retail growth and the challenge of maintaining product quality and brand identity while scaling rapidly across a large geography.
 
 <aside class="wiki-infobox">
 <table>
@@ -65,9 +65,9 @@ Specialty coffee drinks have better gross margins than standard coffee beverages
 
 Dutch Bros went public in late 2021, raising capital for aggressive expansion. The company has targeted opening hundreds of new locations per year, particularly in underserved markets in the Midwest and East Coast. That pace of expansion is capital-intensive and operationally demanding: the company must recruit and train managers for each new location, maintain supply chains across a growing geographic footprint, and ensure that quality does not degrade.
 
-The path to profitability for a rapidly expanding chain is not linear. Early in the expansion phase, the company is opening locations faster than old locations mature and generate returns, which can suppress profits despite growing revenue. Only as the location base stabilizes does profitability rise. Dutch Bros has faced pressure to prove it can expand at a sustainable pace while protecting margins and brand quality.
+The path to profitability for a rapidly expanding chain is not linear. Early in the [expansion phase](/expansion-phase/), the company is opening locations faster than old locations mature and generate returns, which can suppress profits despite growing revenue. Only as the location base stabilizes does profitability rise. Dutch Bros has faced pressure to prove it can expand at a sustainable pace while protecting margins and brand quality.
 
-Customer acquisition cost (how much the company spends to attract a new customer) and frequency (how often customers return) are the key metrics. If Dutch Bros can make the brand sticky enough that customers return frequently, and if it can expand the footprint efficiently, the long-term unit economics should work. If expansion becomes capital-intensive and customer frequency lags, profitability will be harder to achieve.
+Customer [acquisition](/acquisition/) cost (how much the company spends to attract a new customer) and frequency (how often customers return) are the key metrics. If Dutch Bros can make the brand sticky enough that customers return frequently, and if it can expand the footprint efficiently, the long-term unit economics should work. If expansion becomes capital-intensive and customer frequency lags, profitability will be harder to achieve.
 
 ## Understanding Dutch Bros as an investment
 

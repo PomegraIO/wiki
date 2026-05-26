@@ -27,7 +27,7 @@ Workday was founded in 2005 by David Duffield and Aneel Bhusri, both veterans of
 
 ## Why legacy software became vulnerable
 
-Before cloud-based alternatives, HR and finance departments relied on installed software systems like SAP, Oracle, and PeopleSoft to manage payroll, benefits, financial planning, and workforce analytics. These systems were powerful but monolithic: they required armies of consultants to implement, took years to deploy, ran on expensive on-premises hardware, and were brittle to update. A company that needed to change its payroll process or add a new expense category often faced a six-month, million-dollar consulting project. Vendors had little incentive to innovate quickly because customers were locked in by switching costs and because the base of existing customers was so profitable that new features could follow slowly.
+Before cloud-based alternatives, HR and finance departments relied on installed software systems like SAP, [Oracle](/orcl-stock/), and PeopleSoft to manage payroll, benefits, financial planning, and workforce analytics. These systems were powerful but monolithic: they required armies of consultants to implement, took years to deploy, ran on expensive on-premises hardware, and were brittle to update. A company that needed to change its payroll process or add a new expense category often faced a six-month, million-dollar consulting project. Vendors had little incentive to innovate quickly because customers were locked in by switching costs and because the base of existing customers was so profitable that new features could follow slowly.
 
 Workday's insight was that cloud architecture allowed a fundamentally different approach. Customer data lives on Workday's servers, accessed through a web browser. Workday updates the software continuously—not in big, disruptive releases every three years, but constantly. Customers get new features, fixes, and compliance updates automatically. There is no installation project; you sign up and your data is live within weeks. When Workday adds payroll processing in Germany or a new benefits regulation in Texas, all customers using that feature are upgraded instantly.
 
@@ -57,7 +57,7 @@ Customer retention is exceptionally high because once a company has moved its pa
 
 ## Growth drivers and pressures
 
-Revenue growth has historically come from two sources: new customer acquisition and expansion within existing customers (adding new modules, new geographies, more employee records). The subscription model means growth is compounding—retain your customer base, add new customers, and expand into existing ones, and revenue grows without having to replace departing customers.
+Revenue growth has historically come from two sources: new customer [acquisition](/acquisition/) and expansion within existing customers (adding new modules, new geographies, more employee records). The subscription model means growth is compounding—retain your customer base, add new customers, and expand into existing ones, and revenue grows without having to replace departing customers.
 
 The company operates in an industry with modest growth—HR software adoption is not expanding at double-digit rates indefinitely—so margin expansion and cost discipline are increasingly important. Like many software companies, Workday faces pressure to maintain discipline on operating costs while investing in research and development for new products.
 

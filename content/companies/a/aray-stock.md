@@ -25,4 +25,4 @@ Competition is substantial. Traditional manufacturers like Siemens and Varian (n
 
 The investment thesis hinges on several moving parts: the pace of cancer treatment center expansion and equipment replacement cycles, the strength of hospital capital budgets, the durability of ACCURAY's clinical advantages, and whether larger competitors can replicate or surpass its technology. Oncology equipment markets are mature but growing in absolute terms as cancer incidence rises globally. Success requires sustained clinical evidence, competitive pricing, and the discipline to manage costs while funding R&D.
 
-See also: [Medical device sector](/wiki/medical-device-sector/), [10-K](/wiki/10-k/), [public company](/wiki/public-company/).
+See also: Medical device sector, [10-K](/wiki/10-k/), [public company](/wiki/public-company/).

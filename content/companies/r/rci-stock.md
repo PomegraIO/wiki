@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Rogers Communications is Canada's largest wireless carrier and a leading provider of broadband internet and television services. It operates under a [dual-class structure](/dual-class-structure/), with the Rogers family holding supervisory voting control through special shares. The company serves consumer, business, and wholesale customers across the country, competing directly with [Telus](/wiki/telus-stock/) and Bell Canada on wireless and fixed-line fronts. Its media segment owns Sportsnet, Blue Jays Sports, and various television properties, creating a vertically integrated media and telecom platform that is distinctive in Canadian markets.
+Rogers Communications is Canada's largest wireless carrier and a leading provider of broadband internet and television services. It operates under a [dual-class structure](/dual-class-structure/), with the Rogers family holding supervisory voting control through special shares. The company serves consumer, business, and wholesale customers across the country, competing directly with Telus and Bell Canada on wireless and fixed-line fronts. Its media segment owns Sportsnet, Blue Jays Sports, and various television properties, creating a vertically integrated media and telecom platform that is distinctive in Canadian markets.
 
 ## The Shaw Merger and Scale
 

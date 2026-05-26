@@ -33,19 +33,19 @@ The lease contracts with the operating companies are long-term, often 15 or 20 y
 
 ## Why the REIT structure exists
 
-A real estate investment trust is a legal structure that allows investors to own real estate without owning an operating company. The REIT owns the property and collects rent; the operator runs the business, manages customers, and bears the operational risk and opportunity. Separating property ownership from operations creates a more stable cash flow stream for the owner. Instead of dealing with operational volatility, staffing costs, and the cyclical nature of customer demand, the REIT collects contractual rent.
+A [real estate investment trust](/real-estate-investment-trust/) is a legal structure that allows investors to own real estate without owning an operating company. The REIT owns the property and collects rent; the operator runs the business, manages customers, and bears the [operational risk](/operational-risk/) and opportunity. Separating property ownership from operations creates a more stable cash flow stream for the owner. Instead of dealing with operational volatility, staffing costs, and the cyclical nature of customer demand, the REIT collects contractual rent.
 
 For GLPI, this structure makes sense. Gaming is operationally complex and cyclical. Venue managers need to constantly tune pricing, marketing, staffing, and offerings to compete for customer spending. A REIT strips that away. GLPI's job is to maintain the property in good condition, collect rent on time, and refinance debt as needed. The casino operators' job is to run profitable casinos. GLPI is more stable, but it forgoes the upside from owning a really well-run property. That is the trade-off.
 
 ## How the economics work
 
-GLPI's revenue is almost entirely lease rent from its tenants. The costs are property maintenance, property taxes, insurance, and debt service (assuming GLPI has borrowed money to acquire properties). The margin between rent collected and costs paid is the cash flow available to shareholders through dividends or reinvestment.
+GLPI's revenue is almost entirely lease rent from its tenants. The costs are property maintenance, property taxes, insurance, and debt service (assuming GLPI has borrowed money to acquire properties). The margin between rent collected and costs paid is the cash flow available to shareholders through [dividends](/dividend/) or reinvestment.
 
-The key metric is how much rent the portfolio generates relative to the debt GLPI took on to acquire it. A property that generates a steady lease payment of 5 million dollars a year, financed with debt costing 3 million dollars, leaves 2 million dollars annually for the equity holder. The spread between rent and debt cost determines GLPI's returns. When properties are leased at high cap rates (rent-to-property-value ratios), and when GLPI can refinance debt at low rates, the spread is attractive. When either side of that equation moves against GLPI — if cap rates compress (property values rise faster than rent) or if refinancing costs rise — returns tighten.
+The key metric is how much rent the portfolio generates relative to the debt GLPI took on to acquire it. A property that generates a steady lease payment of 5 million dollars a year, financed with debt costing 3 million dollars, leaves 2 million dollars annually for the equity holder. The spread between rent and debt cost determines GLPI's returns. When properties are leased at high [cap rates](/cap-rate/) (rent-to-property-value ratios), and when GLPI can refinance debt at low rates, the spread is attractive. When either side of that equation moves against GLPI — if cap rates compress (property values rise faster than rent) or if refinancing costs rise — returns tighten.
 
 ## Portfolio and tenant concentration
 
-GLPI leases its properties to several large gaming operators. The largest tenant historically has been Caesars Entertainment, which operates many of GLPI's biggest properties. Concentration in a single tenant creates risk: if that tenant struggles or defaults on rent, GLPI's cash flow suffers directly. GLPI has worked to diversify its tenant base over time, signing leases with multiple operators, but concentration remains a structural reality of the business.
+GLPI leases its properties to several large gaming operators. The largest tenant historically has been [Caesars Entertainment](/czr-stock/), which operates many of GLPI's biggest properties. Concentration in a single tenant creates risk: if that tenant struggles or defaults on rent, GLPI's cash flow suffers directly. GLPI has worked to diversify its tenant base over time, signing leases with multiple operators, but concentration remains a structural reality of the business.
 
 The geographic diversity of properties is an advantage. Gaming demand and regulation differ by state. A property in Las Vegas operates in a different regulatory and competitive environment than a regional casino in Pennsylvania or Illinois. This diversity provides some insulation against region-specific downturns.
 
@@ -55,15 +55,15 @@ The genius of the REIT structure is that GLPI's rent is largely protected from o
 
 ## Gaming industry cycles and demand trends
 
-Gaming and hospitality are cyclical. During recessions, consumer spending on discretionary entertainment declines. During booms, it expands. GLPI's cash flow follows that cycle, even though the REIT structure buffers some of the volatility by contractualizing rent. A sustained downturn that threatens operator profitability can create default risk. Conversely, a healthy economy and strong consumer confidence translate to higher property revenues and, potentially, higher rent for GLPI.
+Gaming and hospitality are cyclical. During [recessions](/recession/), consumer spending on discretionary entertainment declines. During booms, it expands. GLPI's cash flow follows that cycle, even though the REIT structure buffers some of the volatility by contractualizing rent. A sustained downturn that threatens operator profitability can create default risk. Conversely, a healthy economy and strong consumer confidence translate to higher property revenues and, potentially, higher rent for GLPI.
 
 Trends in gaming and entertainment matter. The legalization of sports betting in many states created a new revenue source for casinos, which generally benefited operators and by extension, property values and rent potential. The growth of online gaming, if unregulated, could cannibalize physical-casino revenue. Demographic shifts in entertainment preferences — younger consumers gambling less than previous generations — could pressure demand. These long-term trends affect the durability of GLPI's cash flows.
 
 ## Capital structure and refinancing risk
 
-GLPI financed its property acquisitions through a combination of equity and debt. Debt provides leverage — the ability to own more properties with a given amount of shareholder equity — which amplifies returns. But it also creates obligations: GLPI must refinance maturing debt, and refinancing at higher rates compresses the spread between rent collected and debt cost.
+GLPI financed its property [acquisitions](/acquisition/) through a combination of equity and debt. Debt provides leverage — the ability to own more properties with a given amount of shareholder equity — which amplifies returns. But it also creates obligations: GLPI must refinance maturing debt, and refinancing at higher rates compresses the spread between rent collected and debt cost.
 
-In periods of rising interest rates, REITs like GLPI face headwinds on refinancing. If GLPI took out a loan in 2015 at 3 percent to buy a property, and now (five or ten years later) must refinance that loan at 6 percent, the gap narrows. This is a structural exposure to interest-rate risk.
+In periods of rising [interest rates](/interest-rate/), REITs like GLPI face headwinds on refinancing. If GLPI took out a loan in 2015 at 3 percent to buy a property, and now (five or ten years later) must refinance that loan at 6 percent, the gap narrows. This is a structural exposure to [interest-rate risk](/interest-rate-risk/).
 
 ## Dividend and REIT regulation
 

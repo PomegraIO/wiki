@@ -34,7 +34,7 @@ That vertical integration gives Smithfield control over quality and cost at each
 
 ## Pork segment: commodity production with branded upside
 
-The core pork business is exposed to commodity prices. The price of lean hogs (the raw input) is set in futures markets and rises and falls with supply and demand. When hog supplies tighten and prices spike, Smithfield's input costs rise faster than it can pass through to retail customers, squeezing margins. When hog supplies are abundant and prices fall, margins expand — unless feed costs (corn and soybeans) also decline, which they often do but not in lockstep.
+The core pork business is exposed to commodity prices. The price of [lean hogs](/lean-hogs/) (the raw input) is set in futures markets and rises and falls with supply and demand. When hog supplies tighten and prices spike, Smithfield's input costs rise faster than it can pass through to retail customers, squeezing margins. When hog supplies are abundant and prices fall, margins expand — unless feed costs (corn and soybeans) also decline, which they often do but not in lockstep.
 
 Smithfield's strategy is to manage that commodity exposure through scale and through shifting sales toward higher-margin branded products. Fresh pork (commodity cuts sold under private label to retailers) is a low-margin business; branded bacon and ham (sold under the Smithfield and other proprietary brands) carry higher margins. By investing in brands, marketing, and convenience products (packaged sliced bacon, pre-seasoned cuts), Smithfield captures a larger slice of the final price that consumers pay.
 
@@ -42,7 +42,7 @@ Retail customers — supermarket chains — also have enormous bargaining power.
 
 ## International expansion and complexity
 
-Smithfield operates substantial pork operations in Mexico, Europe (through acquisitions), and Asia, and it sells pork globally. International exposure introduces currency risk, regulatory complexity, and exposure to disease outbreaks.
+Smithfield operates substantial pork operations in Mexico, Europe (through [acquisitions](/acquisition/)), and Asia, and it sells pork globally. International exposure introduces [currency risk](/currency-risk/), regulatory complexity, and exposure to disease outbreaks.
 
 The 2013 acquisition by WH Group — a Chinese conglomerate — raised geopolitical questions about foreign ownership of a critical U.S. food business. Those concerns prompted scrutiny from U.S. regulators and persistent questions about whether China was securing food supplies for its own population through the Smithfield acquisition. The company has navigated that carefully, maintaining operations in the United States while also serving Chinese demand.
 
@@ -62,7 +62,7 @@ The 2018–2020 global ASF epidemic was a major shock to pork supplies worldwide
 
 ## Labor and operational complexity
 
-Slaughter and processing plants are labour-intensive. Smithfield employs tens of thousands of workers in the United States and globally. Labor costs rise with wage inflation and tight labour markets. The company also faces periodic challenges around working conditions, immigration status of workers, and unionization efforts.
+Slaughter and processing plants are labour-intensive. Smithfield employs tens of thousands of workers in the United States and globally. Labor costs rise with wage [inflation](/inflation/) and tight labour markets. The company also faces periodic challenges around working conditions, immigration status of workers, and unionization efforts.
 
 The COVID-19 pandemic highlighted those vulnerabilities; facility closures and worker absences disrupted production and exposed concentrated risks in the company's supply chain.
 

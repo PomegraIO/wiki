@@ -61,7 +61,7 @@ The company's capital allocation has historically been to fund expansions, servi
 
 ## How to research Braskem
 
-Start with the 10-K filing (SEC CIK 1071438) to understand the company's [segment breakdown](/wiki/segment-breakdown/) — the company reports results by region (Brazil, United States, Mexico/others) and by product line. Compare those segmented margins across cycles to understand which regions and products carry the highest profitability. Watch for commentary on feedstock costs and contract pricing with large customers.
+Start with the 10-K filing (SEC CIK 1071438) to understand the company's segment breakdown — the company reports results by region (Brazil, United States, Mexico/others) and by product line. Compare those segmented margins across cycles to understand which regions and products carry the highest profitability. Watch for commentary on feedstock costs and contract pricing with large customers.
 
 Braskem's [price-to-earnings ratio](/wiki/price-to-earnings-ratio/) tends to be low compared to less cyclical industrials, reflecting the commodity nature of the business. A useful metric is the [enterprise value](/enterprise-value/) relative to [EBITDA](/ebitda/): in a [normalized earnings](/normalized-earnings/) environment, petrochemical producers in Braskem's peer group trade at 5–8x EBITDA, so a significant discount might suggest either distress or opportunity.
 

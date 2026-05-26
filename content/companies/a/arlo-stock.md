@@ -24,7 +24,7 @@ handwritten: true
 
 ## The business of home video
 
-Arlo operates in the consumer-facing home security camera market, selling battery-powered wireless cameras, wired models, and video doorbell devices to homeowners. Its primary revenue driver is not hardware sales but the recurring subscription fees charged for cloud video storage and AI services—motion detection, person alerts, package detection, and historical footage access. The company maintains its own cloud infrastructure and proprietary AI models rather than licensing third-party services, which creates defensible margins and direct customer relationships. Arlo's cameras integrate with popular smart home ecosystems including Amazon Alexa, Google Home, and Apple HomeKit, positioning them as a third-party option rather than a platform owner.
+Arlo operates in the consumer-facing home security camera market, selling battery-powered wireless cameras, wired models, and video doorbell devices to homeowners. Its primary revenue driver is not hardware sales but the recurring subscription fees charged for cloud video storage and AI services—motion detection, person alerts, package detection, and historical footage access. The company maintains its own cloud infrastructure and proprietary AI models rather than licensing third-party services, which creates defensible margins and direct customer relationships. Arlo's cameras integrate with popular smart home ecosystems including Amazon Alexa, Google Home, and [Apple](/aapl-stock/) HomeKit, positioning them as a third-party option rather than a platform owner.
 
 ## Market position and challenges
 

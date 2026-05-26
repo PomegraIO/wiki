@@ -20,7 +20,7 @@ The Xe-100 is a pebble-bed high-temperature gas-cooled reactor. Its design pushe
 
 The reactor operates at lower pressure and lower power density than an LWR, which simplifies cooling and intrinsically limits accident scenarios. The pebble-bed design allows continuous fuel loading and removal without a reactor shutdown, and individual pebbles are designed to withstand extreme temperatures without failure—a passive safety feature that appeals to industrial customers and regulators alike.
 
-X-Energy is targeting first commercial deployments in the 2030s. The company has signed a letter of intent with Talen Energy to evaluate three or more four-unit Xe-100 installations in Pennsylvania, signaling serious commercial interest beyond government validation.
+X-Energy is targeting first commercial deployments in the 2030s. The company has signed a letter of intent with [Talen Energy](/tln-stock/) to evaluate three or more four-unit Xe-100 installations in Pennsylvania, signaling serious commercial interest beyond government validation.
 
 ## TRISO-X Fuel
 

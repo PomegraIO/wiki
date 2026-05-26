@@ -61,7 +61,7 @@ One of the most distinctive things about Apple is how little of it is a factory.
 
 That flexibility has limits. Apple remains exposed to supply-chain shocks — pandemic shutdowns, shipping disruptions, semiconductor shortages, and the geopolitical tension around Taiwan and China have all rippled through its results. In recent years the company has worked to diversify assembly toward India and Vietnam to reduce its concentration in any single country, a slow and expensive process given the scale involved.
 
-The most important shift in Apple's hardware strategy has been moving to its own silicon. Starting with the chips that power the iPhone and culminating in the M-series processors that replaced Intel inside the Mac, Apple now designs the brains of its most important products in-house. Controlling the chip lets Apple tune performance and battery life in ways rivals relying on off-the-shelf parts cannot, and it deepens the integration between hardware and software that defines the company's products.
+The most important shift in Apple's hardware strategy has been moving to its own silicon. Starting with the chips that power the iPhone and culminating in the M-series processors that replaced [Intel](/intc-stock/) inside the Mac, Apple now designs the brains of its most important products in-house. Controlling the chip lets Apple tune performance and battery life in ways rivals relying on off-the-shelf parts cannot, and it deepens the integration between hardware and software that defines the company's products.
 
 ## What Apple does with its cash
 

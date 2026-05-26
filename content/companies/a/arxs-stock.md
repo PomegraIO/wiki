@@ -18,7 +18,7 @@ Arxis manufactures engineered electronic and mechanical components for specializ
 
 ## Who are the real customers?
 
-The company's customer base spans [defense contractors](/wiki/defense-contractors/), commercial aerospace manufacturers, medical technology companies, semiconductor testing equipment makers, analytical instrument firms, and specialized industrial automation providers. These are sectors where reliability, precision, and design engineering matter more than unit cost. A precision bearing in a satellite has vastly different requirements than one in a consumer appliance. Arxis serves the former category, where customers will pay premium pricing for proven performance and regulatory certification. Revenue concentration in defense and aerospace means business visibility follows government appropriations cycles and platform production schedules, not consumer demand.
+The company's customer base spans defense contractors, commercial aerospace manufacturers, medical technology companies, semiconductor testing equipment makers, analytical instrument firms, and specialized industrial automation providers. These are sectors where reliability, precision, and design engineering matter more than unit cost. A precision bearing in a satellite has vastly different requirements than one in a consumer appliance. Arxis serves the former category, where customers will pay premium pricing for proven performance and regulatory certification. Revenue concentration in defense and aerospace means business visibility follows government appropriations cycles and platform production schedules, not consumer demand.
 
 ## Where does the money come from?
 

@@ -67,7 +67,7 @@ The portfolio is also a product of acquisition. Wyndham built itself through [me
 
 **Larger competitors** include Marriott (a true megacap), IHG, and Best Western. Marriott is vastly larger and owns more properties outright; it has deeper pockets for tech investment and brand building. IHG operates similarly to Wyndham but with a leaner portfolio. Marriott's Bonvoy program is the [gold standard](/gold-standard/) in loyalty, drawing big corporate contracts.
 
-**Disintermediation:** Direct booking platforms (Airbnb, Booking.com, Expedia) and hotel operators' own websites have eroded the value of traditional distribution. A franchisee might bypass Wyndham's central reservation system and book customers directly. This threatens Wyndham's ability to charge distribution fees and control the customer relationship.
+**Disintermediation:** Direct booking platforms ([Airbnb](/abnb-stock/), Booking.com, Expedia) and hotel operators' own websites have eroded the value of traditional distribution. A franchisee might bypass Wyndham's central reservation system and book customers directly. This threatens Wyndham's ability to charge distribution fees and control the customer relationship.
 
 **Franchisee concentration:** Large chains of hotels—or institutional groups with dozens of properties—have negotiating power. They can demand lower royalty rates or shift to a competing brand. Wyndham's fees are only sticky if the brand delivers demand and the system delivers value.
 

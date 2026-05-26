@@ -20,7 +20,7 @@ Unlike private schools or higher education, childcare is highly local. A KinderC
 
 ## Origin and scale
 
-KinderCare was founded in 1969 and grew for decades as a major independent childcare operator. It was acquired by Apollo Global Management (later Apollo Education Group) in 2014 and went public again in 2019, trading under the ticker KLC. The company serves approximately 200,000 children daily across its portfolio, including roughly 2,400 KinderCare-branded centers in the US, plus operations under the Tutor Time and Kindersmith brands. Beyond center-based care, KinderCare owns Salary Finance, a financial wellness platform, and Donee, a backup care network.
+KinderCare was founded in 1969 and grew for decades as a major independent childcare operator. It was acquired by [Apollo Global Management](/apo-stock/) (later Apollo Education Group) in 2014 and went public again in 2019, trading under the ticker KLC. The company serves approximately 200,000 children daily across its portfolio, including roughly 2,400 KinderCare-branded centers in the US, plus operations under the Tutor Time and Kindersmith brands. Beyond center-based care, KinderCare owns Salary Finance, a financial wellness platform, and Donee, a backup care network.
 
 The scale is meaningful: the company is a substantial employer (tens of thousands of staff) and a fixture in early-education policy discussions. Its [10-K](/wiki/10-k/) filings detail the complexity of a multi-brand, geographically distributed service business.
 

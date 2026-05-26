@@ -37,7 +37,7 @@ Celcuity's platform uses living cells derived directly from a patient's tumour. 
 
 Celcuity's primary offering is a test marketed as CELsigna. A sample — typically a biopsy or fluid aspirate — is collected from the patient and sent to Celcuity's laboratory. Technicians isolate the living cancer cells, grow them, and then expose them to a standardised panel of anticancer drugs. The assay measures which drugs most strongly suppress tumour growth. Results are returned to the treating physician as a ranked report, usually within one to two weeks.
 
-The test is sold primarily to hospital systems, cancer centres, and occasionally directly to insurers who may recommend it for specific patient cohorts. Coverage from major insurers varies by region and changes periodically, making insurance reimbursement a moving target. Patients may encounter the test through their oncologist's recommendation, though uptake is limited by the need for the physician to know about it, perceive value in it, and have insurance coverage in place.
+The test is sold primarily to hospital systems, cancer centres, and occasionally directly to insurers who may recommend it for specific patient cohorts. Coverage from major insurers varies by region and changes periodically, making insurance reimbursement a moving [target](/tgt-stock/). Patients may encounter the test through their oncologist's recommendation, though uptake is limited by the need for the physician to know about it, perceive value in it, and have insurance coverage in place.
 
 The revenue model is transactional: Celcuity earns money each time a test is performed. The amount varies depending on the payer — some insurers reimburse more than others — but the company has worked to establish laboratory-developed test billing codes and insurance contracts. Volume growth and successful payor negotiations are thus central to the business.
 
@@ -55,7 +55,7 @@ Celcuity faces several headwinds. First, awareness is limited. Many oncologists 
 
 Second, insurance coverage is uneven. Major insurers have gradually expanded coverage for certain precision oncology tests, but reimbursement rates and coverage policies vary. A test that is covered in one state may not be in another, and coverage can change. This creates unpredictable revenue and requires sustained payor relations work.
 
-Third, competition is real. Large diagnostic companies including Quest Diagnostics and LabCorp have entered the precision oncology space, as have genomics-focused firms. Government and academic laboratories also offer similar testing. Celcuity must establish that its cell-based approach offers clear enough advantages to justify adoption over cheaper or simpler alternatives.
+Third, competition is real. Large diagnostic companies including [Quest Diagnostics](/dgx-stock/) and LabCorp have entered the precision oncology space, as have genomics-focused firms. Government and academic laboratories also offer similar testing. Celcuity must establish that its cell-based approach offers clear enough advantages to justify adoption over cheaper or simpler alternatives.
 
 Fourth, clinical validation is ongoing. While the company has generated supportive data, broader, randomised trials showing that patients whose treatment is guided by the CELsigna test have materially better outcomes than those treated without it would accelerate adoption. Such trials are expensive and take years to complete.
 

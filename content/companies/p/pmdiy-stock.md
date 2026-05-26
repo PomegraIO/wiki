@@ -45,7 +45,7 @@ The cloud shift gave Pro Medicus an opening with health systems that wanted to r
 
 Pro Medicus makes money primarily through software licensing and ongoing maintenance revenue. A hospital system pays an upfront license fee for the right to use the imaging software, then pays annual maintenance and support fees that typically run 15–20% of the license cost. This annuity-like revenue stream is highly predictable and grows as the company adds customers and expands into existing customer organizations.
 
-The company also generates revenue through implementation services—helping hospitals migrate existing images to the new system and integrate with their electronic medical records (EMR) systems. This professional services revenue is lower margin than pure software but valuable for customer acquisition and stickiness.
+The company also generates revenue through implementation services—helping hospitals migrate existing images to the new system and integrate with their electronic medical records (EMR) systems. This professional services revenue is lower margin than pure software but valuable for customer [acquisition](/acquisition/) and stickiness.
 
 Pro Medicus is not the only player in diagnostic imaging software. Competitors include large diversified healthcare IT vendors like Philips, GE Healthcare, and Canon; smaller specialized companies like eRAD; and legacy market leaders defending installed bases. But Pro Medicus has several advantages: a clean, modern cloud platform without legacy systems to maintain; rapid innovation—the company regularly releases new features and improvements; pricing that competes effectively against larger incumbents; and a strong track record of customer satisfaction and retention.
 

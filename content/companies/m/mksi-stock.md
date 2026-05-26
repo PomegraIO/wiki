@@ -30,7 +30,7 @@ Here is the thing: making chips, manufacturing pharmaceuticals, or refining mate
 
 ## Where MKS equipment goes
 
-The semiconductor industry is MKS's biggest customer. Chip makers like Intel, Samsung, and TSMC spend billions on fabrication plants (fabs), and a huge chunk of that goes to equipment that processes silicon wafers. Many of those tools have MKS sensors and control systems inside them. When you are etching circuits into silicon or depositing thin films, you need vacuum chambers with precise gas flow and pressure. MKS makes the instruments that monitor and control all of that. As chip technology advances and circuits get smaller, the demands on vacuum and gas control get tighter — which means MKS's products become more critical and more expensive.
+The semiconductor industry is MKS's biggest customer. Chip makers like [Intel](/intc-stock/), Samsung, and TSMC spend billions on fabrication plants (fabs), and a huge chunk of that goes to equipment that processes silicon wafers. Many of those tools have MKS sensors and control systems inside them. When you are etching circuits into silicon or depositing thin films, you need vacuum chambers with precise gas flow and pressure. MKS makes the instruments that monitor and control all of that. As chip technology advances and circuits get smaller, the demands on vacuum and gas control get tighter — which means MKS's products become more critical and more expensive.
 
 Beyond semiconductors, pharmaceutical and biotech manufacturers use MKS equipment in their production facilities. Chemical plants use it. Research labs use it. Solar-panel manufacturers use it. Any industrial process that involves gases under pressure or vacuum probably has MKS equipment somewhere.
 

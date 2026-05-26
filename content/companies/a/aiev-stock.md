@@ -12,7 +12,7 @@ handwritten: true
 
 Thunder Power Holdings is an electric vehicle manufacturer that brought its product lineup public after a [reverse merger](/reverse-merger/) with Feutune Light [Acquisition](/acquisition/) Corporation on [Nasdaq](/nasdaq/) in June 2024. The Taiwan-based company designs and builds premium passenger electric vehicles, with proprietary technologies embedded across its [stock](/wiki/stock/) platform.
 
-The company's immediate product focus spans four categories: a coupe model, a compact city car, long-range sedans, and long-range SUVs. Its primary target markets are in Asia and Europe, though management has indicated interest in U.S. distribution channels as part of long-term growth strategy.
+The company's immediate product focus spans four categories: a coupe model, a compact city car, long-range sedans, and long-range SUVs. Its primary [target](/tgt-stock/) markets are in Asia and Europe, though management has indicated interest in U.S. distribution channels as part of long-term growth strategy.
 
 Beyond its core EV business, Thunder Power is aggressively pursuing vertical integration and [diversification](/diversification/) into clean energy infrastructure. The company has been evaluating and acquiring solar power plants and engineering, procurement, and construction (EPC) solar providers—particularly in southern Taiwan. This clean energy pivot is part of a stated strategy to build a broader renewable energy portfolio and reduce reliance on a single product line.
 

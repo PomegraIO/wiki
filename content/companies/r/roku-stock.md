@@ -13,7 +13,7 @@ handwritten: true
 
 What does Roku do?
 
-Roku is a streaming-entertainment platform. The company gives away a free software interface that sits on top of televisions (as a built-in system, a small device connected to the TV, or through licensing to TV manufacturers) and lets viewers watch streaming video services like Netflix, Disney+, YouTube, and hundreds of others on a single unified device. Roku does not create content—it licenses content from third parties or provides free, ad-supported content from partners. What Roku does own is the interface, the operating system, the distribution platform, and the relationship with millions of viewers.
+Roku is a streaming-entertainment platform. The company gives away a free software interface that sits on top of televisions (as a built-in system, a small device connected to the TV, or through licensing to TV manufacturers) and lets viewers watch streaming video services like [Netflix](/nflx-stock/), Disney+, YouTube, and hundreds of others on a single unified device. Roku does not create content—it licenses content from third parties or provides free, ad-supported content from partners. What Roku does own is the interface, the operating system, the distribution platform, and the relationship with millions of viewers.
 
 How does Roku make money?
 
@@ -21,7 +21,7 @@ Roku's revenue comes from three sources. The first is platform revenue: fees tha
 
 Who are Roku's competitors?
 
-Roku competes against several incumbents. Amazon FireTV has scale and is bundled with Amazon Prime, giving it distribution advantage. Apple TV is tightly integrated with the Apple ecosystem and offers a premium experience. Samsung and LG televisions increasingly come with their own smart-TV operating systems built in, reducing the need for a separate device. Google's Android TV and Google TV systems operate similarly to Roku on some TVs. The fragmentation is real: a viewer might have a Roku on one TV and a FireTV on another. Roku's advantage is that it has won the largest installed base—more households have at least one Roku device than any other platform—and it has built a reputation for being affordable and straightforward.
+Roku competes against several incumbents. Amazon FireTV has scale and is bundled with Amazon Prime, giving it distribution advantage. [Apple](/aapl-stock/) TV is tightly integrated with the Apple ecosystem and offers a premium experience. Samsung and LG televisions increasingly come with their own smart-TV operating systems built in, reducing the need for a separate device. Google's Android TV and Google TV systems operate similarly to Roku on some TVs. The fragmentation is real: a viewer might have a Roku on one TV and a FireTV on another. Roku's advantage is that it has won the largest installed base—more households have at least one Roku device than any other platform—and it has built a reputation for being affordable and straightforward.
 
 What is Roku's installed base, and why does it matter?
 
@@ -41,7 +41,7 @@ Content platforms negotiate with Roku for placement and terms individually. A la
 
 What does Roku's financial picture look like?
 
-Roku has been growing revenue as the installed base expanded, but profitability has been elusive. The company spends heavily on product development, on acquiring users (subsidizing devices to get people onto the platform), and on content acquisition to keep the platform attractive. For much of its history, Roku has operated at a loss or with thin margins because growth spending outweighs the revenue-generating activity. The advertising segment has been more profitable than the platform segment, but advertising revenue is cyclical and sensitive to the overall economy. Roku is trying to shift toward more recurring, predictable platform revenue rather than advertising, but that transition is ongoing.
+Roku has been growing revenue as the installed base expanded, but profitability has been elusive. The company spends heavily on product development, on acquiring users (subsidizing devices to get people onto the platform), and on content [acquisition](/acquisition/) to keep the platform attractive. For much of its history, Roku has operated at a loss or with thin margins because growth spending outweighs the revenue-generating activity. The advertising segment has been more profitable than the platform segment, but advertising revenue is cyclical and sensitive to the overall economy. Roku is trying to shift toward more recurring, predictable platform revenue rather than advertising, but that transition is ongoing.
 
 What should an investor watch?
 

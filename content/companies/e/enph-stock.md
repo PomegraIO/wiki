@@ -41,17 +41,17 @@ Enphase's revenue depends on the volume of solar installations and Enphase's mar
 
 On the growth side: Solar adoption in the United States is accelerating. Government incentives (particularly the Investment Tax Credit, which offers a 30 percent rebate on solar installation costs) make solar attractive. Electricity prices are rising, which makes solar more economically appealing. Battery storage adoption is slower but also growing. These tailwinds suggest Enphase can grow for years.
 
-On the headwinds side: Solar market competition is increasing, particularly from Chinese manufacturers that can produce at lower cost. Some large installers are backward-integrating (Sunrun, Vivint Solar, and others are installing their own systems and may develop or source their own inverters). Supply-chain problems have periodically constrained Enphase's ability to fill orders. And the possibility of tariffs on Chinese imports, of changes to solar incentives, or of a recession could slow adoption.
+On the headwinds side: Solar market competition is increasing, particularly from Chinese manufacturers that can produce at lower cost. Some large installers are backward-integrating (Sunrun, Vivint Solar, and others are installing their own systems and may develop or source their own inverters). Supply-chain problems have periodically constrained Enphase's ability to fill orders. And the possibility of tariffs on Chinese imports, of changes to solar incentives, or of a [recession](/recession/) could slow adoption.
 
 ## Profitability and margins
 
-Enphase reached profitability in the mid-2010s and has maintained it, though margins have compressed. Gross margins are in the 40 percent to 50 percent range, reflecting competition and the need for R&D investment. Operating margins are typically in the low double digits after accounting for selling, general, and administrative expenses.
+Enphase reached profitability in the mid-2010s and has maintained it, though margins have compressed. Gross margins are in the 40 percent to 50 percent range, reflecting competition and the need for R&D investment. [Operating margins](/operating-margin/) are typically in the low double digits after accounting for selling, general, and administrative expenses.
 
 The company has managed profitability partly by disciplining inventory and capital expenditures. Unlike solar manufacturers (which require massive foundries), Enphase is largely a fabless designer and integrator — it designs the products and contracts manufacturing to partners. This keeps capital requirements modest and gives the company flexibility to scale production up or down.
 
 ## Competition and technology
 
-Enphase faces competition from SMA, ABB, Fronius, and others in inverters. In batteries, the competitive field includes Tesla Powerwall (sold through installers), LG Chem, and others. None of these competitors is dominant everywhere, but all have pockets of strength.
+Enphase faces competition from SMA, ABB, Fronius, and others in inverters. In batteries, the competitive field includes [Tesla](/tsla-stock/) Powerwall (sold through installers), LG Chem, and others. None of these competitors is dominant everywhere, but all have pockets of strength.
 
 Enphase's defensibility rests on its installer relationships, the quality of its microinverter designs, and the software platform that ties the system together. Switching an inverter after installation is expensive and disruptive, so once an installer has standardized on Enphase, they tend to stick. The company invests in making the software better — new features for monitoring, control, and optimization — to strengthen that stickiness.
 

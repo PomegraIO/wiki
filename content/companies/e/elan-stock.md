@@ -41,9 +41,9 @@ One significant regulatory headwind is the push to reduce antibiotic use in live
 
 ## The Elanco Spinoff and Its Legacy
 
-Elanco was part of Eli Lilly, one of the world's largest pharmaceutical companies, until 2018. Eli Lilly spun off Elanco to focus on human drugs and to unlock shareholder value by separating a smaller, distinct business. The spinoff gave Elanco independence to pursue strategy specific to animal health, but it also removed the financial backing of a major pharmaceutical company. Elanco had to immediately prove it could operate and invest independently.
+Elanco was part of Eli Lilly, one of the world's largest pharmaceutical companies, until 2018. Eli Lilly spun off Elanco to focus on human drugs and to unlock shareholder value by separating a smaller, distinct business. The [spinoff](/spinoff/) gave Elanco independence to pursue strategy specific to animal health, but it also removed the financial backing of a major pharmaceutical company. Elanco had to immediately prove it could operate and invest independently.
 
-The early years as a public company were uneven. The company made acquisitions to consolidate the fragmented animal-health space, including the acquisition of a large dose of companion-animal products and brands. Acquisitions are expensive and carry integration risk, but the theory is sound: a consolidated animal-health company can invest in research, distribution, and marketing more efficiently than fragmented competitors can. Elanco is attempting to build a model similar to what Pfizer and Merck have done in human pharmaceuticals — a large, diversified portfolio of established products that generates steady cash flow to fund R&D for new treatments.
+The early years as a public company were uneven. The company made [acquisitions](/acquisition/) to consolidate the fragmented animal-health space, including the acquisition of a large dose of companion-animal products and brands. Acquisitions are expensive and carry integration risk, but the theory is sound: a consolidated animal-health company can invest in research, distribution, and marketing more efficiently than fragmented competitors can. Elanco is attempting to build a model similar to what [Pfizer](/pfe-stock/) and Merck have done in human pharmaceuticals — a large, diversified portfolio of established products that generates steady cash flow to fund R&D for new treatments.
 
 ## The Core Challenge: Bridging Two Worlds
 
@@ -59,6 +59,6 @@ Companion Animal has newer, more innovative products with strong growth, while F
 
 ## How to Research Elanco as an Investment
 
-Elanco's 10-K (SEC CIK 0001739104) breaks revenue by segment and by product category and outlines pipeline developments. The company reports results in both absolute dollars and on a comparable basis after acquisitions, divestitures, and foreign-exchange impacts.
+Elanco's 10-K (SEC CIK 0001739104) breaks revenue by segment and by product category and outlines pipeline developments. The company reports results in both absolute dollars and on a comparable basis after acquisitions, [divestitures](/divestiture/), and foreign-exchange impacts.
 
 Key metrics include revenue growth by segment, gross margins, research-and-development spending as a percentage of revenue, and cash flow. Watch for pipeline updates — new products in development or under regulatory review. Monitor regulatory commentary around antibiotic restrictions, which affect Farm Animal revenue and margins. For context, track veterinary market growth overall and commodity livestock prices, which indirectly influence Farm Animal sales. The company's ability to grow Companion Animal faster than Farm Animal declines is a proxy for strategic execution.

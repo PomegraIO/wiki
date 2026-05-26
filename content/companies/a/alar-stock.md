@@ -26,4 +26,4 @@ Alarum changed its name from Safe-T Group in early 2023, a signal that managemen
 - Website unblocking tools
 - AI data collection services
 
-The company lives in the tension between utility (every enterprise needs data) and friction (governments and platforms increasingly restrict how much data can be grabbed). Whether as a pure infrastructure play or as a target for activist pressure over scraping ethics, Alarum's trajectory depends on how that balance evolves.
+The company lives in the tension between utility (every enterprise needs data) and friction (governments and platforms increasingly restrict how much data can be grabbed). Whether as a pure infrastructure play or as a [target](/tgt-stock/) for activist pressure over scraping ethics, Alarum's trajectory depends on how that balance evolves.

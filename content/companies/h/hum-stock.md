@@ -53,7 +53,7 @@ Humana's exposure to these policy variables is one of the core risks of owning t
 
 ## The Anthem precedent and competitive strength
 
-Humana faces competition from UnitedHealth Group (UNH), Anthem, Cigna, and regional players. UnitedHealth is larger and more diversified, with a substantial pharmacy-benefits business (OptumRx) and health-care provider operations (Optum Health) that give it leverage Humana lacks. Anthem is a major commercial and Medicaid player. But Humana is the dominant player in Medicare Advantage—it has the scale, the brand recognition among beneficiaries, and the infrastructure built explicitly for that segment.
+Humana faces competition from [UnitedHealth](/unh-stock/) Group (UNH), Anthem, [Cigna](/ci-stock/), and regional players. UnitedHealth is larger and more diversified, with a substantial pharmacy-benefits business (OptumRx) and health-care provider operations (Optum Health) that give it leverage Humana lacks. Anthem is a major commercial and Medicaid player. But Humana is the dominant player in Medicare Advantage—it has the scale, the brand recognition among beneficiaries, and the infrastructure built explicitly for that segment.
 
 The company is also tempered by its history. Humana has experienced underwriting losses and severe stock declines before (most recently in 2022 after aggressive membership growth and underestimation of medical costs in 2021 and 2022), which has made management more cautious. The company now focuses on profitable growth rather than membership growth at any cost.
 

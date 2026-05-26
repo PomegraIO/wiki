@@ -24,7 +24,7 @@ Artivion competes in a specialized corner of the broader medical device industry
 
 ## How does Artivion's scale compare to larger device makers?
 
-Artivion operates with over 1,250 employees and a global footprint across more than 100 countries. While smaller than diversified giants like Medtronic or Boston Scientific, the company occupies a focused niche in cardiac and aortic surgery. Its targeted product mix—rather than breadth across dozens of specialties—reflects a strategy of depth in one high-stakes surgical domain.
+Artivion operates with over 1,250 employees and a global footprint across more than 100 countries. While smaller than diversified giants like Medtronic or [Boston Scientific](/bsx-stock/), the company occupies a focused niche in cardiac and aortic surgery. Its targeted product mix—rather than breadth across dozens of specialties—reflects a strategy of depth in one high-stakes surgical domain.
 
 ## What drives demand for these products?
 

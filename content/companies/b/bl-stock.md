@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BlackLine Inc. solves a pervasive and expensive problem for every large accounting department: the monthly financial close. That process — the week or more of overtime, spreadsheets, and manual reconciliation required to prepare financial statements for publication — consumes enormous labor and generates errors despite the effort invested. BlackLine built a cloud-based software platform designed to replace the Excel-driven chaos with automation, real-time visibility, and control. The company went public in 2016 under the ticker BL on [NASDAQ](/nasdaq/) and serves more than 4,400 customers ranging from household names like Coca-Cola and Netflix to mid-market enterprises wrestling with the same fundamental problem: how to close the books faster, with fewer people, and with higher confidence.
+BlackLine Inc. solves a pervasive and expensive problem for every large accounting department: the monthly financial close. That process — the week or more of overtime, spreadsheets, and manual reconciliation required to prepare financial statements for publication — consumes enormous labor and generates errors despite the effort invested. BlackLine built a cloud-based software platform designed to replace the Excel-driven chaos with automation, real-time visibility, and control. The company went public in 2016 under the ticker BL on [NASDAQ](/nasdaq/) and serves more than 4,400 customers ranging from household names like Coca-Cola and [Netflix](/nflx-stock/) to mid-market enterprises wrestling with the same fundamental problem: how to close the books faster, with fewer people, and with higher confidence.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ To understand BlackLine's business, it helps to understand what the financial cl
 
 That delay matters for two reasons. First, it is expensive — large companies may employ dozens of accountants full-time on the close process, many of them working long hours during the close window. Second, it delays the business's access to its own financial results. If the close takes three weeks, management has neither detailed profitability data nor detailed cash flow visibility in time to make month-end decisions. For large, complex organizations, that information lag can be strategically costly.
 
-Traditional close processes relied heavily on manual spreadsheet work: teams would extract data from accounting systems like SAP, Oracle, or NetSuite into Excel, then perform reconciliations, create consolidation adjustments, and build financial statement templates, often by hand. This approach is labor-intensive, error-prone, and difficult to audit. A single misplaced formula or a data transfer error can ripple through the entire close.
+Traditional close processes relied heavily on manual spreadsheet work: teams would extract data from accounting systems like SAP, [Oracle](/orcl-stock/), or NetSuite into Excel, then perform reconciliations, create consolidation adjustments, and build financial statement templates, often by hand. This approach is labor-intensive, error-prone, and difficult to audit. A single misplaced formula or a data transfer error can ripple through the entire close.
 
 BlackLine's platform automates most of those steps. It connects directly to the customer's ERP system and other financial applications, pulls transactions automatically, performs matching and reconciliation with rule-based logic, flags exceptions for human review, and generates the consolidation and close outputs without manual spreadsheet manipulation. Customers report that BlackLine can reduce the time spent on the close, shrink the number of people required, and dramatically improve the auditability and quality of the work.
 
@@ -55,7 +55,7 @@ Customers typically pay based on the number of users or the scope of functionali
 
 ## Competitive position and moats
 
-Financial close automation is a real need, but it is not uncontested. The market includes both specialized vendors like Anaplan (now owned by Salesforce) and large ERP vendors like SAP, Oracle, and Microsoft that have invested in close and consolidation features within their own suites. BlackLine's position rests on several factors.
+Financial close automation is a real need, but it is not uncontested. The market includes both specialized vendors like Anaplan (now owned by [Salesforce](/crm-stock/)) and large ERP vendors like SAP, Oracle, and [Microsoft](/msft-stock/) that have invested in close and consolidation features within their own suites. BlackLine's position rests on several factors.
 
 First, it is **ERP-agnostic**. Unlike SAP or Oracle, BlackLine does not require customers to be locked into a particular ERP; instead, it sits on top and integrates with whatever system the customer is already using. For large enterprises with complex system landscapes, this flexibility is valuable. Many companies have historical reasons for running Oracle in one division and SAP in another, and they have no appetite to rip out and replace their ERP. BlackLine works with that reality.
 

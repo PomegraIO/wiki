@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Equinor is an oil and gas company. It started as a Norwegian government agency in the 1970s. Now it is publicly traded, though Norway still owns a lot of it. The company drills for oil and natural gas, mostly offshore, and sells what it finds. The biggest operations are in the North Sea near Norway, but Equinor also works in Angola, Brazil, and other places. In recent years the company has started building wind farms and other renewable energy projects. The stock trades on the NYSE under the ticker EQNR. For investors, Equinor is a way to get exposure to energy production and to see how an old-school oil company is trying to become a renewable energy company.
+Equinor is an oil and gas company. It started as a Norwegian government agency in the 1970s. Now it is publicly traded, though Norway still owns a lot of it. The company drills for oil and [natural gas](/natural-gas/), mostly offshore, and sells what it finds. The biggest operations are in the North Sea near Norway, but Equinor also works in Angola, Brazil, and other places. In recent years the company has started building wind farms and other renewable energy projects. The stock trades on the NYSE under the ticker EQNR. For investors, Equinor is a way to get exposure to energy production and to see how an old-school oil company is trying to become a renewable energy company.
 
 <aside class="wiki-infobox">
 <table>
@@ -85,7 +85,7 @@ Climate policy is tightening. Governments are setting rules that limit fossil fu
 
 ## Understanding the Investment
 
-Reading Equinor requires understanding both the oil and gas business and the renewable energy business. The annual report breaks down revenue by geography and business segment. Quarterly reports show production numbers (barrels of oil, cubic meters of gas) and realized prices.
+Reading Equinor requires understanding both the oil and gas business and the renewable energy business. The [annual report](/10-k/) breaks down revenue by geography and business segment. Quarterly reports show production numbers (barrels of oil, cubic meters of gas) and realized prices.
 
 Key things to watch: production volumes from the main fields, realized prices (what the company actually sells oil and gas for, which may differ from global spot prices due to timing and contracts), capital spending (how much the company is investing in new projects versus maintaining existing ones), and cash flow from operations.
 
@@ -93,8 +93,8 @@ Also watch the renewable energy segment. How much is the company producing? How 
 
 Look at the 10-K filing (SEC CIK 0001140625) for detailed information on reserves, production costs, and planned spending. The quarterly earnings calls reveal management's view of oil prices, upcoming projects, and risks.
 
-Equinor is a good investment for someone who wants exposure to oil and gas production and believes that energy demand will remain strong for decades. It is a less good investment for someone who believes that oil and gas are about to be phased out quickly. The company pays a dividend, which is significant and stable. The stock price moves with oil prices — when oil is expensive, the stock tends to go up; when oil is cheap, the stock goes down. Investors need to be comfortable with that volatility.
+Equinor is a good investment for someone who wants exposure to oil and gas production and believes that energy demand will remain strong for decades. It is a less good investment for someone who believes that oil and gas are about to be phased out quickly. The company pays a [dividend](/dividend/), which is significant and stable. The stock price moves with oil prices — when oil is expensive, the stock tends to go up; when oil is cheap, the stock goes down. Investors need to be comfortable with that volatility.
 
 ---
 
-**See also:** Royal Dutch Shell, TotalEnergies, ConocoPhillips, oil and gas industry, energy transition, renewable energy
+**See also:** Royal Dutch Shell, TotalEnergies, [ConocoPhillips](/cop-stock/), oil and gas industry, energy transition, renewable energy

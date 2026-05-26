@@ -25,7 +25,7 @@ handwritten: true
 </table>
 </aside>
 
-Enbridge Inc. is the backbone of North American energy logistics — the company that owns and operates the largest network of crude-oil, natural-gas, and liquids pipelines on the continent. The business is straightforward in concept but monumental in scale: oil extracted from the Bakken, the Canadian oil sands, and the Gulf of Mexico flows through Enbridge pipes to refineries and export terminals. Natural gas from production fields moves through Enbridge compression and distribution systems to power plants, factories, and homes. The company operates roughly 30,000 kilometres of pipelines (more than 18,000 miles) and handles approximately one-quarter of all crude oil traded in the United States. It is a linchpin of energy infrastructure in North America.
+Enbridge Inc. is the backbone of North American energy logistics — the company that owns and operates the largest network of crude-oil, natural-gas, and liquids pipelines on the continent. The business is straightforward in concept but monumental in scale: oil extracted from the Bakken, the Canadian oil sands, and the Gulf of Mexico flows through Enbridge pipes to refineries and export terminals. [Natural gas](/natural-gas/) from production fields moves through Enbridge compression and distribution systems to power plants, factories, and homes. The company operates roughly 30,000 kilometres of pipelines (more than 18,000 miles) and handles approximately one-quarter of all [crude oil](/crude-oil/) traded in the United States. It is a linchpin of energy infrastructure in North America.
 
 As a business, Enbridge is a utility in the fullest sense: it owns hard assets with decades-long lives, collects tolling fees from the shippers whose products flow through its pipes, generates massive cash flow with minimal capital reinvestment, and returns most of that cash to shareholders. The returns are predictable, long-lived, and steady — not exciting, but reliable. That is the appeal, and also the constraint.
 
@@ -41,9 +41,9 @@ Enbridge's primary asset is its pipeline network, which spans Canada from coast 
 
 **Distribution arms** — Enbridge owns and operates natural gas distribution businesses (Enbridge Gas, Enbridge US Gas Distributors) that deliver gas directly to millions of residential and commercial customers in eastern Canada and the northern U.S.
 
-The revenue model is fixed-toll based. Shippers pay a per-barrel or per-unit-volume tariff to move their commodity from origin to destination. For much of Enbridge's network, those tolls are regulated — set by Canada's National Energy Board or the U.S. Federal Energy Regulatory Commission — which means rates rise with inflation and the company's cost of capital, but do not respond to market dynamics or the company's operating efficiency.
+The revenue model is fixed-toll based. Shippers pay a per-barrel or per-unit-volume tariff to move their commodity from origin to destination. For much of Enbridge's network, those tolls are regulated — set by Canada's National Energy Board or the U.S. Federal Energy Regulatory Commission — which means rates rise with [inflation](/inflation/) and the company's cost of capital, but do not respond to market dynamics or the company's operating efficiency.
 
-This is the critical feature of the business: tolls and revenues are almost entirely decoupled from commodity prices. Enbridge does not care whether crude oil costs $30 or $100 per barrel; it collects the same toll either way. That insulation from price is the reason the stock and the dividend have been stable even through oil-price collapses.
+This is the critical feature of the business: tolls and revenues are almost entirely decoupled from commodity prices. Enbridge does not care whether crude oil costs $30 or $100 per barrel; it collects the same toll either way. That insulation from price is the reason the stock and the [dividend](/dividend/) have been stable even through oil-price collapses.
 
 ## A slow-growth, high-cash-return profile
 
@@ -67,13 +67,13 @@ Recognizing the long-term headwinds in fossil-fuel logistics, Enbridge has start
 
 Enbridge has also expanded into midstream services — gathering crude at production sites, processing it, and moving it onward — which creates more integrated relationships with oil producers and slightly higher margins than pure transportation.
 
-These diversifications are prudent positioning for the long term, but they do not materially change the company's profile today. Enbridge remains, above all, a North American pipeline transporter earning regulated and market-based tolls on the movement of crude oil and natural gas.
+These [diversifications](/diversification/) are prudent positioning for the long term, but they do not materially change the company's profile today. Enbridge remains, above all, a North American pipeline transporter earning regulated and market-based tolls on the movement of crude oil and natural gas.
 
 ## Capital structure and returns to shareholders
 
-Enbridge has historically carried substantial debt — the assets support it, and the regulated cash flows can service leverage comfortably — which amplifies the return to equity holders. The company has issued debt across Canadian and U.S. markets and maintains investment-grade credit ratings, allowing it to refinance at reasonable rates.
+Enbridge has historically carried substantial debt — the assets support it, and the regulated cash flows can service leverage comfortably — which amplifies the return to equity holders. The company has issued debt across Canadian and U.S. markets and maintains investment-grade [credit ratings](/credit-rating/), allowing it to refinance at reasonable rates.
 
-The dividend is the core investor proposition. With a yield often in the 5 to 7 percent range, Enbridge attracts income-focused investors: retirees, pension funds, income-oriented mutual funds. The consistency of the dividend, and management's track record of raising it annually, makes it a pillar of Canadian investor portfolios.
+The dividend is the core investor proposition. With a yield often in the 5 to 7 percent range, Enbridge attracts income-focused investors: retirees, pension funds, income-oriented [mutual funds](/mutual-fund/). The consistency of the dividend, and management's track record of raising it annually, makes it a pillar of Canadian investor portfolios.
 
 ## Researching Enbridge: what to watch
 
@@ -81,6 +81,6 @@ Anyone assessing Enbridge should start with the annual 20-F filing (filed with t
 
 On quarterly calls, listen for discussions of line utilization (is the network running at capacity or are there slack volumes?), near-term regulatory events (is a major expansion being reviewed?), and comments on commodity volumes (are oil and gas producers flowing more or less through Enbridge's system?). Watch the trend in the dividend: if growth slows or halts, it signals trouble ahead.
 
-The key metrics are: utilization of the pipeline network (ideally stable or rising), growth in distribution customer numbers (for the natural-gas distribution business), and return on capital employed (is Enbridge deploying shareholder money productively?). Track regulatory milestones for any major projects, and monitor commodity production trends in key regions — if North American oil production falls sharply, volumes through Enbridge's pipes will follow.
+The key metrics are: utilization of the pipeline network (ideally stable or rising), growth in distribution customer numbers (for the natural-gas distribution business), and [return on capital employed](/return-on-capital-employed/) (is Enbridge deploying shareholder money productively?). Track regulatory milestones for any major projects, and monitor commodity production trends in key regions — if North American oil production falls sharply, volumes through Enbridge's pipes will follow.
 
 Enbridge is a defensive, slow-growth, cash-return story. It is not a capital-appreciation play. Its appeal is to investors seeking predictable income and modest growth, comfortable with the structural headwinds facing fossil-fuel infrastructure and willing to hold through the energy transition.

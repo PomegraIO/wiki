@@ -73,7 +73,7 @@ Monitor the management discussion and analysis (MD&A) section for commentary on 
 
 Quarterly earnings calls are valuable for forward-looking guidance on commissioning schedules, pipeline progression, and capital deployment. Track major customer wins and PPA price realizations—if the company is signing long-term contracts at premium prices, it signals strong market demand and negotiating power.
 
-For macroeconomic context, monitor renewable energy subsidies, grid capacity constraints, battery cost trends (often tracked via BloombergNEF and other energy research firms), and interest rate movements, all of which directly affect project returns and financing costs. Peer comparisons with other renewable developers (NextEra Energy Resources, EDF Renewables, Orsted, and others) can illuminate T1 Energy's relative efficiency and growth trajectory.
+For macroeconomic context, monitor renewable energy subsidies, grid capacity constraints, battery cost trends (often tracked via BloombergNEF and other energy research firms), and interest rate movements, all of which directly affect project returns and financing costs. Peer comparisons with other renewable developers ([NextEra Energy](/nee-stock/) Resources, EDF Renewables, Orsted, and others) can illuminate T1 Energy's relative efficiency and growth trajectory.
 
 The energy transition is structural, but execution risk is high. T1 Energy's ability to scale reliably, manage costs, and secure long-term contracted cash flows will ultimately determine investor returns.
 

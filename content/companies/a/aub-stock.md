@@ -11,7 +11,7 @@ handwritten: true
 
 ## Who is Atlantic Union Bankshares?
 
-Atlantic Union Bankshares is a [bank holding company](/wiki/public-company/) headquartered in Richmond, Virginia, with roots tracing back to 1902. The company operates Atlantic Union Bank across roughly 129 branches spanning Virginia, Maryland, and North Carolina. Unlike some larger regional holding companies that operate under a single consolidated brand, Atlantic Union maintains the legacy approach of preserving local bank names and identities while consolidating capital, risk management, and compliance functions at the parent level. This structure allows local markets to see familiar banking relationships while gaining the backing of a larger, better-capitalized institution.
+Atlantic [Union Bankshares](/unb-stock/) is a [bank holding company](/wiki/public-company/) headquartered in Richmond, Virginia, with roots tracing back to 1902. The company operates Atlantic Union Bank across roughly 129 branches spanning Virginia, Maryland, and North Carolina. Unlike some larger regional holding companies that operate under a single consolidated brand, Atlantic Union maintains the legacy approach of preserving local bank names and identities while consolidating capital, risk management, and compliance functions at the parent level. This structure allows local markets to see familiar banking relationships while gaining the backing of a larger, better-capitalized institution.
 
 ## What services does the bank provide to its customers?
 

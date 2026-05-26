@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Embraer is a Brazilian aircraft manufacturer that designs and builds commercial jets for regional routes, a niche that sits between the large-cabin aircraft made by Boeing and Airbus and the smaller turboprops that serve thin routes. The company emerged from a government-owned enterprise into a major international aerospace supplier, and it remains one of only two significant producers of aircraft in the 70- to 150-seat segment. Its competitor is Bombardier of Canada; together they control the market for the aircraft that connect regional cities and feed traffic into major hubs.
+Embraer is a Brazilian aircraft manufacturer that designs and builds commercial jets for regional routes, a niche that sits between the large-cabin aircraft made by [Boeing](/ba-stock/) and Airbus and the smaller turboprops that serve thin routes. The company emerged from a government-owned enterprise into a major international aerospace supplier, and it remains one of only two significant producers of aircraft in the 70- to 150-seat segment. Its competitor is Bombardier of Canada; together they control the market for the aircraft that connect regional cities and feed traffic into major hubs.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,7 +55,7 @@ The Brazilian government has historically been an investor and supporter, and Em
 
 ## Cyclicality and exposure to aviation demand
 
-Embraer's fortunes move with the aviation cycle. When airlines are profitable and expanding networks, they order new aircraft; when a recession hits or fuel prices spike, orders dry up. The company also has lumpy, project-based revenue — a large order can transform a year, and the absence of that order transforms the next.
+Embraer's fortunes move with the aviation cycle. When airlines are profitable and expanding networks, they order new aircraft; when a [recession](/recession/) hits or fuel prices spike, orders dry up. The company also has lumpy, project-based revenue — a large order can transform a year, and the absence of that order transforms the next.
 
 The regional-jet market is mature, which means growth comes primarily from replacement of aging aircraft and from market-share shifts between Embraer and Bombardier. It is not a segment that will double in size over a decade. That steadiness is valuable in some ways — the business is less volatile than large-aircraft manufacturing — but it also means growth is limited. Embraer has been attempting to enter adjacent markets and to develop turboprop and business-jet programs to diversify beyond regional jets, with mixed success.
 

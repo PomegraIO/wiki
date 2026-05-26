@@ -23,7 +23,7 @@ Profit comes from winning contracts at a bid price lower than the cost to execut
 
 ## Revenue and visibility
 
-Sterling's revenue is contract revenue. A large project might be worth several hundred million dollars but executed over multiple years. Each year Sterling books the portion of work completed and invoices the customer. As it completes projects, revenue recognition stops for that project; the company must continuously win new work to grow or maintain revenue.
+Sterling's revenue is contract revenue. A large project might be worth several hundred million dollars but executed over multiple years. Each year Sterling books the portion of work completed and invoices the customer. As it completes projects, [revenue recognition](/revenue-recognition/) stops for that project; the company must continuously win new work to grow or maintain revenue.
 
 This creates both visibility and uncertainty. A contract backlog (the dollar value of signed work not yet completed) provides months to quarters of forward revenue visibility. But new work depends on winning bids in competition with other contractors. A slowdown in customer spending, a loss of major bids, or contract cancellations can cause revenue to fall sharply.
 
@@ -35,13 +35,13 @@ Conversely, when work slows or large projects wind down, equipment sits idle and
 
 ## The customer base
 
-Most of Sterling's revenue comes from government agencies — departments of transportation, water authorities, and utilities. Government customers are relatively reliable payers but are subject to budget cycles and political pressure. A drought or recession can cut water-agency budgets; a change in administration can shift infrastructure priorities.
+Most of Sterling's revenue comes from government agencies — departments of transportation, water authorities, and utilities. Government customers are relatively reliable payers but are subject to budget cycles and political pressure. A drought or [recession](/recession/) can cut water-agency budgets; a change in administration can shift infrastructure priorities.
 
-Private utilities — companies that deliver electricity, water, or natural gas — are another customer class. They have predictable capital budgets for system upgrades and maintenance and are more insulated from political cycles than government agencies. Yet they also face regulatory scrutiny and cost-control pressure, which can affect spending.
+Private utilities — companies that deliver electricity, water, or [natural gas](/natural-gas/) — are another customer class. They have predictable capital budgets for system upgrades and maintenance and are more insulated from political cycles than government agencies. Yet they also face regulatory scrutiny and cost-control pressure, which can affect spending.
 
 ## Material costs and inflation
 
-Steel, concrete, fuel, and labor are major cost components. Material prices are often volatile, particularly during periods of inflation or supply disruption. Steel and concrete are commodities; when prices spike, a contractor's margins narrow unless contracts allow for price escalation clauses. Most do, but with a lag — Sterling might bid at one price and see material costs spike before it can invoke an escalation and recover margin.
+Steel, concrete, fuel, and labor are major cost components. Material prices are often volatile, particularly during periods of [inflation](/inflation/) or supply disruption. Steel and concrete are commodities; when prices spike, a contractor's margins narrow unless contracts allow for price escalation clauses. Most do, but with a lag — Sterling might bid at one price and see material costs spike before it can invoke an escalation and recover margin.
 
 Labor is sticky. Skilled heavy-equipment operators and ironworkers are in limited supply, and in tight labor markets, wage pressure is severe. Transporting workers to distant job sites and retaining them once there adds cost and logistical friction.
 

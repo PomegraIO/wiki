@@ -27,13 +27,13 @@ HP Inc. designs and sells personal computers, printers, and related equipment to
 
 ## What does HP actually do?
 
-HP operates two largely independent hardware businesses. The **Personal Systems division** manufactures desktop computers, laptops, and workstations sold under the Pavilion, Envy, and ProDesk brands, primarily to consumers and businesses. This segment competes directly against Dell, Lenovo, Apple, Asus, and a long roster of rivals fighting for share in a stubbornly flat or shrinking PC market.
+HP operates two largely independent hardware businesses. The **Personal Systems division** manufactures desktop computers, laptops, and workstations sold under the Pavilion, Envy, and ProDesk brands, primarily to consumers and businesses. This segment competes directly against Dell, Lenovo, [Apple](/aapl-stock/), Asus, and a long roster of rivals fighting for share in a stubbornly flat or shrinking PC market.
 
 The **Printing division** is more varied: it makes printers (inkjet, LaserJet, and OfficeJet lines) and plotters, sells printing hardware to enterprises and small offices, and operates a high-margin supplies business. A customer who buys an HP printer then buys HP ink cartridges, toner, and paper — a recurring revenue stream that, despite strong competition from third-party cartridge makers and refill services, still underpins the division's profitability.
 
 ## Why did HP spin off from Hewlett-Packard?
 
-HP Inc. separated from the original Hewlett-Packard in 2015 because the parent company had grown too large and unfocused. Hewlett-Packard had diversified into enterprise servers, data centers, networking equipment, and software — businesses that required entirely different sales models, customer relationships, and capital strategies than consumer and commercial PCs and printers. The split created two companies: HP Inc. (PCs and printers, the consumer-facing business) and Hewlett Packard Enterprise (servers, storage, and services).
+HP Inc. separated from the original Hewlett-Packard in 2015 because the parent company had grown too large and unfocused. Hewlett-Packard had diversified into enterprise servers, data centers, networking equipment, and software — businesses that required entirely different sales models, customer relationships, and capital strategies than consumer and commercial PCs and printers. The split created two companies: HP Inc. (PCs and printers, the consumer-facing business) and [Hewlett Packard Enterprise](/hpe-stock/) (servers, storage, and services).
 
 The theory was sound — separate the slow-growth, cash-rich consumer business from the faster-moving enterprise infrastructure business so each could be managed according to its own economics and growth profile. For HP Inc., this meant accepting that it was a mature-market operator competing on cost, efficiency, and customer loyalty rather than on innovation or growth.
 
@@ -67,9 +67,9 @@ That said, printing faces legitimate long-term pressure. Digitization of documen
 
 ## How does HP fund itself?
 
-HP generates substantial free cash flow because it is a mature, low-growth business with disciplined capital expenditure. The company spends less on research and development than a true technology innovator and less on capital equipment than a business in rapid expansion. That has allowed HP to return capital to shareholders through share buybacks and modest dividends, which it has done consistently.
+HP generates substantial [free cash flow](/free-cash-flow/) because it is a mature, low-growth business with disciplined capital expenditure. The company spends less on research and development than a true technology innovator and less on capital equipment than a business in rapid expansion. That has allowed HP to return capital to shareholders through [share buybacks](/share-buyback/) and modest [dividends](/dividend/), which it has done consistently.
 
-The balance-sheet position is generally solid, though HP does carry moderate debt — a legacy of private-equity influence and the spin-off structure. The company's cash generation is reliable enough to service that debt and still return cash to shareholders, which is the hallmark of a mature, cash-generative business.
+The balance-sheet position is generally solid, though HP does carry moderate debt — a legacy of private-equity influence and the [spin-off](/spin-off/) structure. The company's cash generation is reliable enough to service that debt and still return cash to shareholders, which is the hallmark of a mature, cash-generative business.
 
 ## What should a reader watch?
 

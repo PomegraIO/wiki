@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-POSCO is the second-largest steelmaker in the world by output and has been the backbone of South Korean heavy industry for more than five decades. It was founded as Pohang Iron and Steel Company in 1968 and grew to dominate Korean steelmaking, supplying the ships, automobiles, buildings, and consumer goods that made South Korea a manufacturing powerhouse. Today the company sells steel across the globe, operates integrated mills that control everything from raw iron ore to finished steel coil, and has evolved into a holding company with interests beyond steel — energy, chemical, real-estate development, and infrastructure.
+POSCO is the second-largest steelmaker in the world by output and has been the backbone of South Korean heavy industry for more than five decades. It was founded as Pohang Iron and Steel Company in 1968 and grew to dominate Korean steelmaking, supplying the ships, automobiles, buildings, and consumer goods that made South Korea a manufacturing powerhouse. Today the company sells steel across the globe, operates integrated mills that control everything from raw [iron ore](/iron-ore/) to finished steel coil, and has evolved into a holding company with interests beyond steel — energy, chemical, real-estate development, and infrastructure.
 
 The company's footprint tells a story of South Korea's industrialization. It built its first mills at Pohang, on the east coast, then expanded to Gwangyang on the south coast. As South Korea shifted from labor-intensive manufacturing toward automation and quality, POSCO invested in technology and environmental controls. The company became known for operational excellence and the ability to produce high-quality steel for demanding applications — automotive body steel, shipbuilding plate, construction sections.
 
@@ -35,7 +35,7 @@ That strategic shift — from a company dependent on domestic demand to a global
 
 In 2022, POSCO announced a restructuring that created POSCO Holdings as a parent company. The steel business operates as a subsidiary, but the holding company also encompasses other businesses: energy, rare-earth refining, chemicals, real-estate development, and engineering services. The restructuring reflected a belief that the steelmaking industry was mature and that the company needed to diversify to achieve growth and improve returns on capital.
 
-That diversification is partly strategic — some of those businesses feed into steelmaking (the chemicals made for processes, the energy to run the mills) — and partly a search for higher-margin, less cyclical profits. Steelmaking will remain the company's core, but management is trying to be less dependent on the cyclical nature of steel prices.
+That [diversification](/diversification/) is partly strategic — some of those businesses feed into steelmaking (the chemicals made for processes, the energy to run the mills) — and partly a search for higher-margin, less cyclical profits. Steelmaking will remain the company's core, but management is trying to be less dependent on the cyclical nature of steel prices.
 
 ## Competition and pressures
 
@@ -45,6 +45,6 @@ The company's competitive advantages lie in operational excellence, technology, 
 
 ## The investment case
 
-POSCO is best understood as a bulk-commodity producer with a quality and technology overlay. Its returns depend on global steel-market conditions, which are beyond management's control, and on the company's ability to manage costs, develop premium products, and deploy capital wisely. An investor examining POSCO should read the company's 10-K equivalent (filed with the Korean stock exchange and available in English) to understand revenue breakdown by product and geography, the size of owned ore and coal resources, capital expenditure plans, and the company's decarbonization roadmap.
+POSCO is best understood as a bulk-commodity producer with a quality and technology overlay. Its returns depend on global steel-market conditions, which are beyond management's control, and on the company's ability to manage costs, develop premium products, and deploy capital wisely. An investor examining POSCO should read the company's 10-K equivalent (filed with the Korean [stock exchange](/stock-exchange/) and available in English) to understand revenue breakdown by product and geography, the size of owned ore and coal resources, capital expenditure plans, and the company's decarbonization roadmap.
 
 The quarterly earnings releases highlight product margins, sales volume by grade, and any shifts in the competitive or regulatory environment. Watching the company is partly about watching global steel demand — is construction booming in China, are auto makers increasing production? — and partly about the company's own execution on technology, costs, and environmental transition. POSCO's long-term prospects depend on whether premium steels and diversification into non-steel businesses can sustain returns as the steelmaking industry comes under increasing pressure from commodity-cost competition and environmental constraints.

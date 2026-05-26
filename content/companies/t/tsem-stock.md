@@ -25,7 +25,7 @@ Tower took a different path. Rather than chasing the leading edge, the company o
 
 ## The geographic and technical advantage
 
-Tower operates two main fabrication plants: a large facility in Migdal Haemek, Israel, and a plant in Arizona acquired from Intel in 2023 (a major strategic move that doubled the company's manufacturing capacity). The Israel facility is the heritage plant and operates at a high level of technical sophistication; it is where the company develops new processes and trains engineers. The Arizona plant—a more modern fab that Intel built to leading-edge standards—gives Tower capacity for higher-volume orders and a foothold in the United States.
+Tower operates two main fabrication plants: a large facility in Migdal Haemek, Israel, and a plant in Arizona acquired from [Intel](/intc-stock/) in 2023 (a major strategic move that doubled the company's manufacturing capacity). The Israel facility is the heritage plant and operates at a high level of technical sophistication; it is where the company develops new processes and trains engineers. The Arizona plant—a more modern fab that Intel built to leading-edge standards—gives Tower capacity for higher-volume orders and a foothold in the United States.
 
 The company has become important to Israel's technology cluster, and the government has supported semiconductor manufacturing in the region through incentives and grants. Tower is the largest pure-play semiconductor manufacturer in Israel, a country with a deep design and engineering culture. Recruiting and retaining world-class process engineers is possible because of the ecosystem; competitors in other regions sometimes struggle to find comparable talent.
 
@@ -45,11 +45,11 @@ Tower's revenue comes almost entirely from foundry services: charges to manufact
 
 Profitability depends on fab utilization. If a fab is running at 80 percent capacity, the company is efficient; at 50 percent, fixed costs become a burden. Tower has historically managed utilization well by maintaining a diverse customer base and avoiding concentration on any single product or market. But demand cycles do occur: when semiconductor demand slows, customers reduce orders, and fab utilization drops.
 
-The Arizona acquisition brings additional capacity but also requires high utilization to be profitable. Tower has indicated that the Arizona fab will initially focus on higher-volume specialty applications (some of them transferred from Israel to reduce costs) and certain advanced processes.
+The Arizona [acquisition](/acquisition/) brings additional capacity but also requires high utilization to be profitable. Tower has indicated that the Arizona fab will initially focus on higher-volume specialty applications (some of them transferred from Israel to reduce costs) and certain advanced processes.
 
 ## Challenges and headwinds
 
-Tower faces substantial capital requirements. Running two large fabs requires constant investment to maintain competitiveness, introduce new processes, and manage depreciation. This limits free cash flow compared to fabless companies.
+Tower faces substantial capital requirements. Running two large fabs requires constant investment to maintain competitiveness, introduce new processes, and manage [depreciation](/depreciation/). This limits [free cash flow](/free-cash-flow/) compared to fabless companies.
 
 Competition from larger foundries is constant. TSMC and Samsung, despite their focus on cutting-edge logic, also operate mature-node capacity and sometimes undercut specialty foundries on price to fill their fabs. A large customer with sufficient volume might achieve better pricing from a mega-foundry than from Tower.
 

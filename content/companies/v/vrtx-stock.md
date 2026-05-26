@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is Vertex, and why does it matter?
 
-Vertex Pharmaceuticals is a research-driven pharmaceutical company headquartered in Boston that discovers and develops drugs to treat serious diseases caused by defects in proteins or ion channels. The company has built a formidable franchise around cystic fibrosis, a genetic disorder affecting the lungs and digestive system, and has more recently expanded into viral infections, pain, and other areas where understanding protein structure and function offers an edge. Vertex's stock trades on the NASDAQ under the ticker VRTX and is held by institutional investors, wealth managers, and individual shareholders who bet on the company's ability to bring new drugs to market and sustain a profitable portfolio.
+Vertex Pharmaceuticals is a research-driven pharmaceutical company headquartered in Boston that discovers and develops drugs to treat serious diseases caused by defects in proteins or ion channels. The company has built a formidable franchise around cystic fibrosis, a genetic disorder affecting the lungs and digestive system, and has more recently expanded into viral infections, pain, and other areas where understanding protein structure and function offers an edge. Vertex's stock trades on the [NASDAQ](/nasdaq/) under the ticker VRTX and is held by institutional investors, wealth managers, and individual shareholders who bet on the company's ability to bring new drugs to market and sustain a profitable portfolio.
 
 ## How did Vertex become dominant in cystic fibrosis?
 
@@ -38,7 +38,7 @@ One is to pursue next-generation therapies for cystic fibrosis itself — new fo
 
 A second approach is to apply the same protein-folding science to other genetic diseases where defective proteins are the root cause. Vertex has programs in pain, viral infection, and other areas.
 
-The company has also pursued acquisitions and partnerships to enter new therapeutic areas. It is not a pure-play research engine generating all its own programs; it also buys drugs in mid-stage development and companies with promising pipelines.
+The company has also pursued [acquisitions](/acquisition/) and partnerships to enter new therapeutic areas. It is not a pure-play research engine generating all its own programs; it also buys drugs in mid-stage development and companies with promising pipelines.
 
 ## What are the structural risks?
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Valhi, Inc. is a holding company that sits at the apex of a layered, privately-held family empire. The Delaware corporation serves as a publicly-traded vehicle for assets largely controlled by the Simmons and Contran family groups, with the commanding stake and strategic voting power concentrated among a small number of individuals. The company's main asset is a controlling interest in [Kronos Worldwide](/wiki/kronos-worldwide/), one of the world's largest independent producers of titanium-dioxide pigment—a crucial industrial material used to add brightness and opacity to paints, coatings, plastics, and other products. Beyond Kronos, Valhi holds smaller operating businesses in component manufacturing and real estate.
+Valhi, Inc. is a holding company that sits at the apex of a layered, privately-held family empire. The Delaware corporation serves as a publicly-traded vehicle for assets largely controlled by the Simmons and Contran family groups, with the commanding stake and strategic voting power concentrated among a small number of individuals. The company's main asset is a controlling interest in Kronos Worldwide, one of the world's largest independent producers of titanium-dioxide pigment—a crucial industrial material used to add brightness and opacity to paints, coatings, plastics, and other products. Beyond Kronos, Valhi holds smaller operating businesses in component manufacturing and real estate.
 
 ## The Holding Company Structure
 
@@ -24,7 +24,7 @@ The Contran Corporation, a private holding company, is the principal shareholder
 
 Kronos Worldwide is the engine. Titanium-dioxide pigment is a commodity-like product sold into highly competitive global markets, with production concentrated in a handful of large, integrated players. The pigment industry is cyclical—demand rises and falls with industrial production, construction, and coatings spending. Kronos operates mines, processing plants, and a global sales network. Margins compress in downturns and expand during peaks, making the business sensitive to economic cycles and raw material cost swings.
 
-The titanium-dioxide market is not without defensibility. Large-scale production requires significant capital, technical expertise, and environmental compliance infrastructure. Established players like Kronos, Tronox, and DuPont de Nemours have entrenched positions. However, competition is real, supply is global, and pricing power is limited. A producer's profitability often hinges on cost structure, operational efficiency, and luck with commodity cycles.
+The titanium-dioxide market is not without defensibility. Large-scale production requires significant capital, technical expertise, and environmental compliance infrastructure. Established players like Kronos, Tronox, and [DuPont de Nemours](/dd-stock/) have entrenched positions. However, competition is real, supply is global, and pricing power is limited. A producer's profitability often hinges on cost structure, operational efficiency, and luck with commodity cycles.
 
 Valhi's control of Kronos gives it stability and steady dividend income when markets are strong, but also exposure to downturns in industrial activity. Investors in VHI are, in effect, making a leveraged bet on Kronos' fortunes, filtered through Valhi's board and capital allocation.
 

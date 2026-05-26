@@ -25,7 +25,7 @@ The footbed technology is the entire product story. Birkenstock does not chase t
 
 Manufacturing has been a competitive quiet advantage. Birkenstock owns or controls production facilities across Europe (Germany, Spain) and partnerships in Asia (India), allowing some vertical control over costs, quality, and speed. The sandals are labour-intensive to make—the contoured footbeds require precision moulding and assembly—so Birkenstock's willingness to manufacture in Europe at higher labor costs than competitors speaks to its positioning. The German heritage is part of the marketing story, and the company leans on it.
 
-Distribution discipline is obsessive. Unlike most footwear companies, Birkenstock does not sell through mass-market channels like Target or general athletic retailers. The retail partnerships are selective, curated to maintain positioning as a luxury-casual brand. This scarcity bolsters pricing power and brand perception. It also means Birkenstock competes primarily on brand, design, and retail experience rather than on availability or price.
+Distribution discipline is obsessive. Unlike most footwear companies, Birkenstock does not sell through mass-market channels like [Target](/tgt-stock/) or general athletic retailers. The retail partnerships are selective, curated to maintain positioning as a luxury-casual brand. This scarcity bolsters pricing power and brand perception. It also means Birkenstock competes primarily on brand, design, and retail experience rather than on availability or price.
 
 ## The competitive position
 

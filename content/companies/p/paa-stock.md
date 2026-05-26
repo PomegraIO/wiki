@@ -26,7 +26,7 @@ The company operates approximately 55,000 miles of pipeline (combining crude, re
 
 ## Master limited partnership structure
 
-PAA is a [master limited partnership](/wiki/mlp-stock/), a publicly traded partnership that passes profits to unitholders (owners of partnership units) rather than paying [corporate income tax](/corporate-income-tax/). The trade-off is that PAA must distribute nearly all operating cash flow to unitholders as quarterly distributions, meaning the company cannot easily retain earnings to fund growth or [acquisitions](/acquisition/). This structure appeals to income-focused investors (especially tax-advantaged accounts like 401k plans and IRAs) but limits PAA's financial flexibility relative to a traditional corporation.
+PAA is a master limited partnership, a publicly traded partnership that passes profits to unitholders (owners of partnership units) rather than paying [corporate income tax](/corporate-income-tax/). The trade-off is that PAA must distribute nearly all operating cash flow to unitholders as quarterly distributions, meaning the company cannot easily retain earnings to fund growth or [acquisitions](/acquisition/). This structure appeals to income-focused investors (especially tax-advantaged accounts like 401k plans and IRAs) but limits PAA's financial flexibility relative to a traditional corporation.
 
 The MLP framework also requires disciplined capital allocation. PAA funds growth and maintenance capex from operating cash, debt capacity, and strategic asset sales. During commodity downturns or growth slowdowns, an MLP can find itself squeezed between distribution commitments and the need to invest. Conversely, during strong cash-generation periods, distributions to unitholders can be generous.
 

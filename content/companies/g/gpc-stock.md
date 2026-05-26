@@ -32,7 +32,7 @@ For the next four decades, GPC grew by opening more distribution centers in near
 
 ## The consolidation era: buying the competition
 
-Beginning in the 1960s and accelerating through the 1980s and 1990s, Genuine Parts pursued a deliberate consolidation strategy. The automotive-parts aftermarket was fragmented; thousands of independent distributors existed, many of them small and undercapitalized. GPC had a proven model and access to capital, so it bought dozens of regional competitors—outright acquisitions that absorbed their inventory, customer relationships, and distribution networks into GPC's umbrella.
+Beginning in the 1960s and accelerating through the 1980s and 1990s, Genuine Parts pursued a deliberate consolidation strategy. The automotive-parts aftermarket was fragmented; thousands of independent distributors existed, many of them small and undercapitalized. GPC had a proven model and access to capital, so it bought dozens of regional competitors—outright [acquisitions](/acquisition/) that absorbed their inventory, customer relationships, and distribution networks into GPC's umbrella.
 
 This strategy had several effects. First, it eliminated duplicative warehouses and logistics routes, improving efficiency. Second, it expanded GPC's geographic reach far beyond the Southeast; by the 1990s, GPC operated coast to coast. Third, it raised barriers to entry: a new competitor would need to build hundreds of distribution centers to match GPC's reach, a capital-intensive and slow process.
 
@@ -68,6 +68,6 @@ The structural long-term risk is electric-vehicle adoption. EVs have far fewer m
 
 ## How to research Genuine Parts
 
-Start with the annual 10-K (SEC CIK 0000040987), which segments revenue and gross margin by the three main business lines and provides geographic breakdowns. Watch quarterly calls for color on shop traffic, inventory health, and digital-channel adoption. Key metrics include revenue growth by segment, gross-margin trends (which reflect pricing, product mix, and competitive pressure), inventory turns, and free cash flow (affected by working-capital swings and capital expenditure on distribution centers).
+Start with the annual 10-K (SEC CIK 0000040987), which segments revenue and gross margin by the three main business lines and provides geographic breakdowns. Watch quarterly calls for color on shop traffic, inventory health, and digital-channel adoption. Key metrics include revenue growth by segment, gross-margin trends (which reflect pricing, product mix, and competitive pressure), inventory turns, and [free cash flow](/free-cash-flow/) (affected by working-capital swings and capital expenditure on distribution centers).
 
 Track automotive-repair trends and new-car sales; both affect the demand for replacement parts. Watch for news on EV adoption and what it means for traditional parts demand. Monitor discussions about automation and supply-chain technology—as GPC invests in fulfillment automation, it is betting that it can cut costs faster than competitors, which would improve margins. The business is steady and capital-intensive, but competitive, which means the margin story is as important as the volume story.

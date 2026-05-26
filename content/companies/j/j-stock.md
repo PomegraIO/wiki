@@ -41,7 +41,7 @@ The business thrives on project-based contracts that stretch over months or year
 
 ## Scale and Competitive Position
 
-Jacobs is a megacontractor by headcount and revenue, but the engineering services space is fragmented. It competes with firms of similar global reach such as [Kiewit](/wiki/kiewit/), Bechtel, and SNC-Lavalin, as well as larger pure design consultancies and regional engineering houses. The advantage Jacobs holds is its breadth—the ability to handle the same client's power needs, industrial expansion, and transportation modernization under one roof, reducing coordination friction. The disadvantage is the same: breadth can dilute deep expertise in any single sector.
+Jacobs is a megacontractor by headcount and revenue, but the engineering services space is fragmented. It competes with firms of similar global reach such as Kiewit, Bechtel, and SNC-Lavalin, as well as larger pure design consultancies and regional engineering houses. The advantage Jacobs holds is its breadth—the ability to handle the same client's power needs, industrial expansion, and transportation modernization under one roof, reducing coordination friction. The disadvantage is the same: breadth can dilute deep expertise in any single sector.
 
 Competition for talent is intense. Engineering and project management professionals are in short supply in many markets, and Jacobs must compete for them with both larger industrials and smaller specialized boutiques. The firm's scale helps it absorb project risk and weather downturns, but it also carries overhead that smaller competitors can avoid.
 

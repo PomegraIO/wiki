@@ -28,7 +28,7 @@ Gross margins remain a key competitive advantage. Outset has guided for non-GAAP
 
 ## The Insourcing Thesis: Why Dialysis Is Moving
 
-Historically, kidney replacement therapy in the United States has been centralized: large dialysis chains like DaVita and Fresenius Medical Care operate thousands of clinics, bill insurers for treatments, and control the patient experience. Outset's strategy hinges on reversing that trend. The "insourcing" movement—shifting dialysis back into hospitals, health systems, and eventually homes—creates demand for systems that are simpler to operate and cheaper to maintain than legacy alternatives.
+Historically, kidney replacement therapy in the United States has been centralized: large dialysis chains like DaVita and [Fresenius Medical Care](/fms-stock/) operate thousands of clinics, bill insurers for treatments, and control the patient experience. Outset's strategy hinges on reversing that trend. The "insourcing" movement—shifting dialysis back into hospitals, health systems, and eventually homes—creates demand for systems that are simpler to operate and cheaper to maintain than legacy alternatives.
 
 Three factors drive this shift. First, home dialysis and in-hospital dialysis appeal to integrated health systems seeking to diversify revenue and reduce dependency on large dialysis chains. Second, patients often prefer treatment at home, where they have greater autonomy and can sometimes extend treatment duration for better clinical outcomes. Third, outcome data increasingly supports dialysis intensification and home-based modalities; data presented at Kidney Week 2025 showed that one insourced Tablo program at a large Florida hospital achieved a 94% reduction in serious cardiac or respiratory events over five years.
 
@@ -46,7 +46,7 @@ This segmentation underscores Outset's transition from a device company to a rec
 
 ## Challenges in a Concentrated Market
 
-Outset competes against entrenched rivals. Fresenius Medical Care and DaVita together control roughly 70% of the U.S. dialysis market and have vast dialysis center networks, established relationships with health systems and payers, and scale advantages in manufacturing and distribution. Baxter International, a diversified medical device company, also sells hemodialysis systems. These competitors have decades of installed base and switching costs that favor incumbents.
+Outset competes against entrenched rivals. Fresenius Medical Care and DaVita together control roughly 70% of the U.S. dialysis market and have vast dialysis center networks, established relationships with health systems and payers, and scale advantages in manufacturing and distribution. [Baxter International](/bax-stock/), a diversified medical device company, also sells hemodialysis systems. These competitors have decades of installed base and switching costs that favor incumbents.
 
 Outset's path to scale depends on execution at several levels: continued product innovation (expanded indications, enhanced features), retention and expansion within existing accounts, and geographic and demographic expansion. The company has also faced operational headwinds, including supply chain delays and competitive pricing pressure in certain markets. Net cash burn has improved markedly—2025 operating cash outflow was below $50 million, compared to $116 million in 2024—but the company remains pre-cash-flow-positive and dependent on execution against its growth plan.
 

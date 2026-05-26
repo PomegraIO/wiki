@@ -32,7 +32,7 @@ The company typically operates at or near nameplate capacity (around 7 million t
 
 ## Competitive Position and Moat
 
-Warrior Met does not dominate the global coking coal market—larger Australian producers (such as BHP, Rio Tinto, and Glencore) are the clear incumbents. However, the company's geographic and geological position provides a form of protection:
+Warrior Met does not dominate the global coking coal market—larger Australian producers (such as BHP, [Rio Tinto](/rtntf-stock/), and Glencore) are the clear incumbents. However, the company's geographic and geological position provides a form of protection:
 
 - **Supply proximity**: US and European steelmakers can source Warrior Met coal domestically or regionally, reducing freight costs and geopolitical risk relative to Australian imports.
 - **Coal quality**: The Warrior Basin yields naturally low-sulfur, low-ash coal that requires less preparation. This reduces buyers' processing costs and appeals to steel mills operating in jurisdictions with strict emissions standards (EU, Japan).

@@ -53,7 +53,7 @@ Protection Products include voltage surge protectors, electrostatic discharge su
 
 ## The competitive landscape
 
-Semtech competes against larger semiconductor companies—Texas Instruments, Analog Devices, Microchip Technology—that make similar products, plus smaller specialist competitors. Texas Instruments and Analog Devices are much larger and have deeper resources. Semtech's strategy is to win in specific niches where a focused product and deep application expertise matter more than sheer scale.
+Semtech competes against larger semiconductor companies—[Texas Instruments](/txn-stock/), [Analog Devices](/adi-stock/), [Microchip Technology](/mchp-stock/)—that make similar products, plus smaller specialist competitors. Texas Instruments and Analog Devices are much larger and have deeper resources. Semtech's strategy is to win in specific niches where a focused product and deep application expertise matter more than sheer scale.
 
 In IoT and LoRaWAN, Semtech has genuine leverage. The wireless standard is open, but Semtech developed it and controls the reference designs and much of the software ecosystem, which gives it an advantage in adoption. That said, competitors are always trying to build competing IoT protocols and chips, so Semtech cannot be complacent.
 
@@ -61,7 +61,7 @@ In signal processing and analog interface, Semtech is one player among many, and
 
 ## The money and the margins
 
-Semtech is fabless, which means it has no manufacturing plants but still carries inventory and working-capital costs. The gross margin (after paying TSMC to manufacture and paying for logistics and test) is typically in the 50 to 60 percent range—high, but not enormous. Operating expenses for design, sales, and support chew another 25 to 35 percent of revenue, leaving a small to modest operating margin.
+Semtech is fabless, which means it has no manufacturing plants but still carries inventory and working-capital costs. The gross margin (after paying TSMC to manufacture and paying for logistics and test) is typically in the 50 to 60 percent range—high, but not enormous. Operating expenses for design, sales, and support chew another 25 to 35 percent of revenue, leaving a small to modest [operating margin](/operating-margin/).
 
 The business is not capital-intensive, but it is cash-hungry in a different way: new products require upfront engineering investment, and there is no guarantee of return. A team might spend eighteen months designing a new transceiver chip, only to find that competitors released something better, or that the market moved on. This is the risk every semiconductor company carries.
 

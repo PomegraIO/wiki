@@ -38,7 +38,7 @@ Vera Bradley is a mid-sized specialty retailer built on a distinctive design aes
 
 Vera Bradley began in 1998 as a single handbag designed to solve a practical problem—the founder's frustration at carrying around a plain, generic duffel bag. The original quilted cotton tote, decorated with a colorful, all-over floral pattern, struck a nerve with a specific customer segment: women seeking functional accessories that didn't sacrifice aesthetic appeal. Over the next decade, the brand expanded into luggage, wallets, organizers, and eventually home goods (bedding, throws, wall art), all animated by the same design vocabulary of bold prints on quilted cotton.
 
-What gave Vera Bradley staying power through the 2000s and 2010s was a clear target customer and a defensible (if narrow) niche. The brand became especially popular with college students, travelers, and middle-income women aged 25 to 55. A printed cotton bag with reinforced handles, designed to hold a lot, felt both stylish and practical—a rare combination in fashion retail.
+What gave Vera Bradley staying power through the 2000s and 2010s was a clear [target](/tgt-stock/) customer and a defensible (if narrow) niche. The brand became especially popular with college students, travelers, and middle-income women aged 25 to 55. A printed cotton bag with reinforced handles, designed to hold a lot, felt both stylish and practical—a rare combination in fashion retail.
 
 ## The Business Today
 

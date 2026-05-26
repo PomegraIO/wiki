@@ -33,7 +33,7 @@ The company operates across several product lines. Transformer products make up 
 
 Forgent generates revenue through product sales, with individual orders often substantial because the equipment tends to be specialized and built for specific installations. A large industrial facility or utility upgrade might order hundreds of thousands of dollars' worth of transformers and control systems. The company also provides engineering design services, custom configurations, and sometimes extended support or maintenance contracts.
 
-The business is fundamentally project-based. Customers issue requests for quotation, Forgent engineers design a solution, manufactures it, ships it, and installs or integrates it. Revenue recognition happens as orders are fulfilled, so quarterly results can reflect the lumpy timing of when major projects complete. This means that steady profitability matters more than growth rates — the question is whether Forgent can reliably win contracts and deliver them profitably, not whether revenue accelerates quarter after quarter.
+The business is fundamentally project-based. Customers issue requests for quotation, Forgent engineers design a solution, manufactures it, ships it, and installs or integrates it. [Revenue recognition](/revenue-recognition/) happens as orders are fulfilled, so quarterly results can reflect the lumpy timing of when major projects complete. This means that steady profitability matters more than growth rates — the question is whether Forgent can reliably win contracts and deliver them profitably, not whether revenue accelerates quarter after quarter.
 
 ## Competition and positioning
 

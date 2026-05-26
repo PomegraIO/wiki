@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Houlihan Lokey is a publicly traded investment banking and financial advisory firm focused on mergers and acquisitions, restructuring advice, and valuations for corporate clients, private equity sponsors, and distressed debtors. Unlike the global universal banks, Houlihan Lokey operates as a specialist boutique — one of the largest independent advisory firms in the world by deal count, if not by overall assets under management.
+Houlihan Lokey is a publicly traded investment banking and financial advisory firm focused on [mergers](/merger/) and [acquisitions](/acquisition/), restructuring advice, and valuations for corporate clients, private equity sponsors, and distressed debtors. Unlike the global universal banks, Houlihan Lokey operates as a specialist boutique — one of the largest independent advisory firms in the world by deal count, if not by overall assets under management.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ The client base ranges from Fortune 500 companies and multinational conglomerate
 
 ## Why does independence matter in this business?
 
-The large universal banks — JPMorgan, Goldman Sachs, Morgan Stanley, others — all run advisory businesses alongside trading desks, prime brokerage, and asset management. That breadth gives them scale and resources, but it also creates conflicts. If a bank has a trading position in a company's debt, or if it stands to profit more from one outcome than another, that shapes the advice.
+The large universal banks — JPMorgan, [Goldman Sachs](/goldman-sachs/), [Morgan Stanley](/morgan-stanley/), others — all run advisory businesses alongside trading desks, prime brokerage, and asset management. That breadth gives them scale and resources, but it also creates conflicts. If a bank has a trading position in a company's debt, or if it stands to profit more from one outcome than another, that shapes the advice.
 
 Houlihan Lokey's independence is its calling card. When the firm advises a seller or a debtor, it has no competing financial interest in the deal. When it renders a fairness opinion — a formal judgment that a price is reasonable — clients know it comes from a firm that will not benefit from the transaction closing or failing. That credibility is especially valuable in restructuring, where boards and creditors committees are legally responsible for seeking independent judgments, and where conflicts of interest can expose advisors to liability.
 
@@ -44,7 +44,7 @@ Advisors at the firm also have explicit incentives aligned with clients' interes
 
 Houlihan Lokey's earnings are volatile because transaction fees are lumpy. A large M&A assignment or a major restructuring engagement can generate millions of dollars in a single year; the absence of one pushes revenue down. The firm has some cushion from retainer work — ongoing advice for which it receives steady monthly fees — and from the Valuations business, where boutique work (litigation support, estate planning, intellectual property) is less exposed to deal cycles. But over a full market cycle, the amount of M&A activity and the pace of corporate distress are the drivers.
 
-The restructuring business is countercyclical: it tends to spike when the broader economy is weak and companies are struggling. The M&A line, by contrast, rises sharply in bull markets when private equity is flushed with capital and corporate buyers are bullish about growth. That divergence gives the firm some natural hedging, but it does not eliminate volatility. In years when both deal flows are weak, the firm's profitability can compress.
+The restructuring business is countercyclical: it tends to spike when the broader economy is weak and companies are struggling. The M&A line, by contrast, rises sharply in [bull markets](/bull-market/) when private equity is flushed with capital and corporate buyers are bullish about growth. That divergence gives the firm some natural hedging, but it does not eliminate volatility. In years when both deal flows are weak, the firm's profitability can compress.
 
 Historically Houlihan Lokey has managed this by running a variable cost structure. Advisors are well compensated, often through bonus pools tied to deal flow and profitability, which means the firm can flex headcount and compensation downward when revenue declines. That keeps losses manageable, but it also means the firm's operating leverage works in both directions.
 
@@ -70,4 +70,4 @@ Start with the annual 10-K filing (SEC CIK 0001302215), which breaks revenue by 
 
 Watch the trends in compensation as a percentage of revenue. When deal flow is strong, the firm's bonus pools expand and the margin shrinks; when it is weak, bonuses compress and margins improve. Investors who buy Houlihan Lokey are betting on deal flow — either near-term strength or, if the stock is cheap, a cyclical rebound.
 
-The firm's balance sheet is simple: it has limited assets and limited liabilities. Cash flow reflects deal timing. In a year with several large assignments, cash generation is strong; in a slow year, it is weak. That makes the stock a play on both the investment banking cycle and on management's ability to shift costs and maintain a lean cost structure when revenue declines.
+The firm's [balance sheet](/balance-sheet/) is simple: it has limited assets and limited liabilities. Cash flow reflects deal timing. In a year with several large assignments, cash generation is strong; in a slow year, it is weak. That makes the stock a play on both the investment banking cycle and on management's ability to shift costs and maintain a lean cost structure when revenue declines.

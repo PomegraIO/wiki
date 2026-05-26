@@ -28,7 +28,7 @@ Clearwater Analytics is a software-as-a-service (SaaS) company that serves a spe
 
 ## The messy problem Clearwater solves
 
-Imagine you run a pension fund with 50 billion dollars in investments spread across hundreds of holdings: stocks, bonds, real estate, private equity, hedge funds, international securities. You need to know, every month or quarter, exactly how much money you have, where it is, whether it's making or losing money, and how it compares to your benchmark or your peers. You need to produce reports for your board and your regulators. You need to monitor risk. You probably own pieces of investments managed by dozens of different fund managers and custodians, each sending data in different formats, on different schedules, with different account structures and terminology.
+Imagine you run a pension fund with 50 billion dollars in investments spread across hundreds of holdings: stocks, [bonds](/bond/), real estate, private equity, [hedge funds](/hedge-fund/), international securities. You need to know, every month or quarter, exactly how much money you have, where it is, whether it's making or losing money, and how it compares to your benchmark or your peers. You need to produce reports for your board and your regulators. You need to monitor risk. You probably own pieces of investments managed by dozens of different fund managers and [custodians](/custodian/), each sending data in different formats, on different schedules, with different account structures and terminology.
 
 That data-aggregation, reconciliation, and analysis problem is the one Clearwater Analytics solves. The company built a platform that connects to all these different data sources—custodians, fund managers, trading systems—pulls in the raw data, reconciles it (because the same investment might be recorded slightly differently in two different systems), and produces standardized, aggregated reports and analytics. The platform handles the messy plumbing so that the investment team can focus on strategy.
 
@@ -46,7 +46,7 @@ Revenue comes from subscription fees charged to asset-owner clients, typically b
 
 Gross margins on subscription SaaS can be very high—the marginal cost of serving one additional client, once the platform is built, is small. Most of Clearwater's costs go into maintaining the platform, integrating new data sources, adding analytics features, and selling to new customers. This margin structure is typical of successful SaaS companies and explains why investors value them.
 
-Growth comes from two sources. Land-and-expand growth: winning new customer segments or adding new asset classes that existing customers want to track on the platform. And new-customer acquisition: signing up asset owners who previously used competitor products or spreadsheets.
+Growth comes from two sources. Land-and-expand growth: winning new customer segments or adding new asset classes that existing customers want to track on the platform. And new-customer [acquisition](/acquisition/): signing up asset owners who previously used competitor products or spreadsheets.
 
 ## Competitive position and moat
 
@@ -54,11 +54,11 @@ Clearwater competes against legacy financial software vendors (firms that built 
 
 The moat is partly switching costs—once a large investor has years of historical data on Clearwater and has trained their staff on the system, moving to a competitor is painful. It's also data moat: the more clients Clearwater serves, the more it learns about industry standard practices, regulatory requirements, and data formats, which it can then embed in the platform to serve all clients better.
 
-Competition from larger software vendors (like Blackrock's Aladdin platform) is real, but those systems serve a different use case—they are portfolio construction and trading tools, not analytics and reporting. Clearwater's positioning as the narrowly focused analytics specialist serves asset owners well.
+Competition from larger software vendors (like [Blackrock](/blk-stock/)'s Aladdin platform) is real, but those systems serve a different use case—they are portfolio construction and trading tools, not analytics and reporting. Clearwater's positioning as the narrowly focused analytics specialist serves asset owners well.
 
 ## Risks and challenges
 
-The platform business depends on continued spending by large institutional investors on technology and data infrastructure. A severe recession that cuts institutional spending could hurt growth. Competition from larger vendors with bigger resources is an ongoing risk—if a vendor like Bloomberg or a larger software company decided to prioritize this market segment, they could outspend Clearwater.
+The platform business depends on continued spending by large institutional investors on technology and data infrastructure. A severe [recession](/recession/) that cuts institutional spending could hurt growth. Competition from larger vendors with bigger resources is an ongoing risk—if a vendor like Bloomberg or a larger software company decided to prioritize this market segment, they could outspend Clearwater.
 
 Regulatory changes could affect the platform's value proposition. If reporting requirements change, Clearwater would need to update the system quickly to remain valuable. Cybersecurity and data privacy are critical in a business that handles sensitive investment information and client data; any major breach would damage trust.
 
@@ -70,4 +70,4 @@ Begin with the most recent 10-K filing (SEC CIK 0001866368), which provides a de
 
 The quarterly earnings calls reveal management commentary on customer additions, retention rates, and expansion revenue from existing clients—all key metrics for assessing SaaS health. Watch for the net revenue retention rate, which shows whether existing customers are expanding spending or shrinking; high retention and expansion is a sign of a durable business.
 
-Compare Clearwater's gross and operating margins to other SaaS companies to assess operating leverage and profitability trends. As with any investment, the stock price is set by the market, and understanding the business is separate from deciding whether the stock is a good buy.
+Compare Clearwater's gross and [operating margins](/operating-margin/) to other SaaS companies to assess operating leverage and profitability trends. As with any investment, the stock price is set by the market, and understanding the business is separate from deciding whether the stock is a good buy.

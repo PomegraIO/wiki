@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Brixmor Property Group owns shopping centers. Not malls in the sense of the massive indoor structures that once dominated the American landscape, but rather the strip centers and open-air shopping plazas scattered across suburbs and towns where people park their cars, buy groceries, pick up dry cleaning, and visit restaurants and service businesses. The company owns hundreds of these properties and leases space to tenants. The tenants pay rent. Brixmor collects that rent and, if things go well, the property appreciates. If Brixmor can sell at a profit or refinance at better rates, it does. The company is structured as a Real Estate Investment Trust, which means it passes most of its income to shareholders in the form of dividends and is taxed differently than a normal corporation.
+Brixmor Property Group owns shopping centers. Not malls in the sense of the massive indoor structures that once dominated the American landscape, but rather the strip centers and open-air shopping plazas scattered across suburbs and towns where people park their cars, buy groceries, pick up dry cleaning, and visit restaurants and service businesses. The company owns hundreds of these properties and leases space to tenants. The tenants pay rent. Brixmor collects that rent and, if things go well, the property appreciates. If Brixmor can sell at a profit or refinance at better rates, it does. The company is structured as a [Real Estate Investment Trust](/real-estate-investment-trust/), which means it passes most of its income to shareholders in the form of [dividends](/dividend/) and is taxed differently than a normal corporation.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,13 +37,13 @@ The shift has been more subtle than pure extinction. Brixmor's tenants have chan
 
 Brixmor's core revenue is rent from tenants. The company signs leases with retailers, restaurants, service providers, and other operators, collects monthly rent, and keeps the difference between rent received and operating costs as income. Operating costs include property taxes, maintenance, insurance, common-area upkeep, and the expense of running the business.
 
-Like all REITs, Brixmor is required by law to distribute at least ninety percent of its taxable income to shareholders in the form of dividends. This makes Brixmor attractive to income-focused investors, especially older investors looking for steady cash flow. The trade-off is that the company cannot retain much capital to reinvest in growth, and it must access the debt or equity markets to fund acquisitions or major renovations.
+Like all REITs, Brixmor is required by law to distribute at least ninety percent of its taxable income to shareholders in the form of dividends. This makes Brixmor attractive to income-focused investors, especially older investors looking for steady cash flow. The trade-off is that the company cannot retain much capital to reinvest in growth, and it must access the debt or equity markets to fund [acquisitions](/acquisition/) or major renovations.
 
-Brixmor also makes money from capital appreciation. If a property increases in value because of neighborhood growth or because interest rates fall and property valuations rise, Brixmor can sell the property at a profit. The company manages a constant portfolio of acquisitions and dispositions — buying centers in strong markets and selling properties that have appreciated or in markets where growth has slowed.
+Brixmor also makes money from capital appreciation. If a property increases in value because of neighborhood growth or because [interest rates](/interest-rate/) fall and property valuations rise, Brixmor can sell the property at a profit. The company manages a constant portfolio of acquisitions and dispositions — buying centers in strong markets and selling properties that have appreciated or in markets where growth has slowed.
 
 ## The tenant mix and the anchor problem
 
-Brixmor's properties typically have an anchor tenant — a large tenant that draws traffic — usually a grocery store. Big grocers like Kroger, Albertsons, or regional grocery chains are powerful draws because customers need groceries regularly. The grocery anchor is so important that if it closes, the whole center can deteriorate: customers have no reason to visit, and other tenants suffer.
+Brixmor's properties typically have an anchor tenant — a large tenant that draws traffic — usually a grocery store. Big grocers like [Kroger](/kr-stock/), Albertsons, or regional grocery chains are powerful draws because customers need groceries regularly. The grocery anchor is so important that if it closes, the whole center can deteriorate: customers have no reason to visit, and other tenants suffer.
 
 Around the anchor, Brixmor rents to smaller tenants. These might be a fast-casual restaurant like Chipotle or Panera, a pharmacy like CVS or Walgreens, a fitness studio, a medical office, a salon, a bank branch. The mix varies by property and by market. Brixmor benefits when a center has a strong mix of essential services and popular retailers that drive consistent traffic.
 
@@ -53,11 +53,11 @@ The vulnerability is when anchor tenants close. If a grocery store shuts down or
 
 Brixmor's business is sensitive to interest rates and economic cycles. When interest rates are low, property valuations are higher, making acquisition targets more expensive. When rates are high, valuations are lower, making acquisitions cheaper but also reducing the value of existing properties. Because Brixmor funds acquisitions with debt, changes in interest rates directly affect the cost of borrowing and the economics of new purchases.
 
-Economic weakness is bad for retailers: sales suffer, and some retailers fail or struggle to pay rent. Brixmor's income can suffer in recessions. During the pandemic, as lockdowns forced some retailers to close temporarily, Brixmor collected less rent and had to deal with retailer requests for relief. Brixmor also benefits when the economy is strong and consumer spending is robust.
+Economic weakness is bad for retailers: sales suffer, and some retailers fail or struggle to pay rent. Brixmor's income can suffer in [recessions](/recession/). During the pandemic, as lockdowns forced some retailers to close temporarily, Brixmor collected less rent and had to deal with retailer requests for relief. Brixmor also benefits when the economy is strong and consumer spending is robust.
 
 ## Competitive dynamics and market saturation
 
-Brixmor competes with other shopping-center REITs for attractive properties and for tenants. Other large players like Regency Centers and Whitestone REIT own similar strip-center portfolios and pursue similar strategies. Competition on price and terms is fierce when buying properties, which can erode Brixmor's ability to generate returns.
+Brixmor competes with other shopping-center REITs for attractive properties and for tenants. Other large players like [Regency Centers](/reg-stock/) and Whitestone REIT own similar strip-center portfolios and pursue similar strategies. Competition on price and terms is fierce when buying properties, which can erode Brixmor's ability to generate returns.
 
 The market for strip shopping centers is also mature in most of the United States: available properties for acquisition are limited, and Brixmor's growth depends on finding attractive acquisition targets or on expanding in new markets. The company is also competing against the secular shift in consumer behavior toward experiential and service-based spending, which favors some retail (restaurants, fitness, salons) and disadvantages others (clothing, home goods).
 

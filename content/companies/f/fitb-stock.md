@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Fifth Third Bancorp is one of the largest banks in the United States, controlled by a sprawling network of branch offices, retail customers, and commercial relationships concentrated in the Midwest and beyond. The company's name hints at its history: it is the product of mergers, most importantly the 1998 combination of Fifth National Bank and Third National Bank, two Cincinnati-based institutions. Today, with total assets in the hundreds of billions, Fifth Third operates as a universal bank—it takes deposits from individuals and businesses, lends to them, provides wealth management, and engages in investment banking and capital markets. It is not as dominant as the largest money-centre banks like JPMorgan Chase, nor is it a niche player; Fifth Third occupies the crowded middle ground of large regional and mid-tier national banks.
+Fifth Third Bancorp is one of the largest banks in the United States, controlled by a sprawling network of branch offices, retail customers, and commercial relationships concentrated in the Midwest and beyond. The company's name hints at its history: it is the product of [mergers](/merger/), most importantly the 1998 combination of Fifth National Bank and Third National Bank, two Cincinnati-based institutions. Today, with total assets in the hundreds of billions, Fifth Third operates as a universal bank—it takes deposits from individuals and businesses, lends to them, provides wealth management, and engages in investment banking and capital markets. It is not as dominant as the largest money-centre banks like [JPMorgan Chase](/jpmorgan-chase/), nor is it a niche player; Fifth Third occupies the crowded middle ground of large regional and mid-tier national banks.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,15 +33,15 @@ Through the 1990s and 2000s, Fifth Third continued to grow by acquisition. It bo
 
 ## The crisis and its aftermath
 
-The 2008 financial crisis tested Fifth Third severely. The bank had exposure to real estate lending, and when property values collapsed and defaults soared, Fifth Third's capital eroded. The company had to raise cash through a series of dilutive equity offerings, and it took a massive government investment—$3.45 billion in Troubled Asset Relief Program funds, later repaid—to shore up its balance sheet. Some of its largest rivals failed or were forced into emergency mergers. Fifth Third survived, but the experience left the company more conservative about risk.
+The 2008 financial crisis tested Fifth Third severely. The bank had exposure to real estate lending, and when property values collapsed and defaults soared, Fifth Third's capital eroded. The company had to raise cash through a series of dilutive equity offerings, and it took a massive government investment—$3.45 billion in Troubled Asset Relief Program funds, later repaid—to shore up its [balance sheet](/balance-sheet/). Some of its largest rivals failed or were forced into emergency mergers. Fifth Third survived, but the experience left the company more conservative about risk.
 
-Through the recovery that followed, Fifth Third gradually rebuilt its capital and returned to profitability. The bank paid back the government assistance and resumed dividends to shareholders. By the mid-2010s, the worst was clearly behind the industry and Fifth Third in particular.
+Through the recovery that followed, Fifth Third gradually rebuilt its capital and returned to profitability. The bank paid back the government assistance and resumed [dividends](/dividend/) to shareholders. By the mid-2010s, the worst was clearly behind the industry and Fifth Third in particular.
 
 ## What Fifth Third does today
 
 Fifth Third operates in three main business segments. The first is **Community Banking**, which includes traditional retail banking—checking accounts, savings accounts, credit cards—and small-business lending across the company's branch network. This segment is the largest by customer count and branch presence but operates on thin margins, as retail banking is intensely competitive and customers have many choices.
 
-The second is **Corporate and Investment Banking**, which serves large companies and government entities with loans, treasury services, foreign exchange, and investment banking advice. This business is higher-margin than retail banking but also more cyclical; demand for lending and investment-banking services fluctuates with the macroeconomic environment and with the appetite of large corporations for mergers, acquisitions, and debt refinancing.
+The second is **Corporate and Investment Banking**, which serves large companies and government entities with loans, treasury services, foreign exchange, and investment banking advice. This business is higher-margin than retail banking but also more cyclical; demand for lending and investment-banking services fluctuates with the macroeconomic environment and with the appetite of large corporations for mergers, [acquisitions](/acquisition/), and debt refinancing.
 
 The third is **Wealth and Asset Management**, which manages money and provides financial advice to high-net-worth individuals and institutional clients. This segment has been a focus of growth strategy in recent years because wealth management, especially if managed well, can be sticky (clients stay for years) and generates recurring, relatively stable revenue.
 
@@ -53,11 +53,11 @@ Fifth Third has cultivated a large, reasonably stable deposit base across its op
 
 ## Profitability and competition
 
-Fifth Third is a profitable bank with returns on equity in line with its peers. The company benefits from a diversified mix of businesses (the three segments serve different customers and earn money different ways), which limits the impact of downturns in any single segment. When loan demand is weak, investment banking or wealth management might be strong. When interest rates are flat, the bank can pivot to fee income.
+Fifth Third is a profitable bank with returns on equity in line with its peers. The company benefits from a diversified mix of businesses (the three segments serve different customers and earn money different ways), which limits the impact of downturns in any single segment. When loan demand is weak, investment banking or wealth management might be strong. When [interest rates](/interest-rate/) are flat, the bank can pivot to fee income.
 
-But Fifth Third, like all regional banks, faces structural headwinds. Interest rates are set by the Federal Reserve, not by banks, which limits pricing power. Competition from larger, more efficient banks erodes margins. Technology companies and fintech upstarts are taking shares of payments, lending, and wealth management. And the pace of branch closures is accelerating industry-wide as customers conduct more banking digitally.
+But Fifth Third, like all regional banks, faces structural headwinds. Interest rates are set by the [Federal Reserve](/federal-reserve/), not by banks, which limits pricing power. Competition from larger, more efficient banks erodes margins. Technology companies and fintech upstarts are taking shares of payments, lending, and wealth management. And the pace of branch closures is accelerating industry-wide as customers conduct more banking digitally.
 
-The bank's commercial lending is a particular competitive arena. Fifth Third and banks like it compete against larger banks with more capital and prestige, against smaller community banks with deeper local relationships, and against non-bank lenders who are unconstrained by banking regulations. In that competition, Fifth Third's advantage is scale and diversification; its weakness is that it is neither large enough to compete on pure capital and sophistication nor small enough to be nimble.
+The bank's commercial lending is a particular competitive arena. Fifth Third and banks like it compete against larger banks with more capital and prestige, against smaller community banks with deeper local relationships, and against non-bank lenders who are unconstrained by banking regulations. In that competition, Fifth Third's advantage is scale and [diversification](/diversification/); its weakness is that it is neither large enough to compete on pure capital and sophistication nor small enough to be nimble.
 
 ## Capital and shareholder returns
 
@@ -67,7 +67,7 @@ Fifth Third's capital levels have been strong since the crisis; the company runs
 
 ## Risks and the changing landscape
 
-Fifth Third's core risk is a deep recession in the United States. If unemployment rises sharply and default rates on loans spike, the bank's earnings could collapse. The company also faces pressure from slower deposit growth and from competition for deposits from money market funds and other alternatives that currently offer higher yields.
+Fifth Third's core risk is a deep [recession](/recession/) in the United States. If unemployment rises sharply and [default rates](/default-rate/) on loans spike, the bank's earnings could collapse. The company also faces pressure from slower deposit growth and from competition for deposits from [money market funds](/money-market-fund/) and other alternatives that currently offer higher yields.
 
 A second structural risk is continued erosion of the branch network. If customer preferences continue to shift decisively toward digital banking, Fifth Third's Midwest-heavy branch footprint becomes increasingly expensive to maintain. The company is closing branches and redeploying, but the pace of change may outrun the pace of adaptation.
 
@@ -75,4 +75,4 @@ The longer-term opportunity for Fifth Third is in wealth management and fee-base
 
 ## How to research Fifth Third
 
-Start with the company's latest 10-K filing (SEC CIK 0000035527) to understand the size and composition of the loan portfolio, deposit growth, and how profits are distributed across the three segments. The quarterly earnings calls clarify trends in loan demand, deposit rates, and loan-loss provisions. Watch the net interest margin (the spread between what the bank earns on loans and pays on deposits)—this single number encapsulates much of the health of the business. Monitor regulatory capital ratios, which indicate how much cushion the bank has and what room it has for growth or shareholder returns. For competitive context, compare Fifth Third's metrics (return on equity, net interest margin, efficiency ratio) to peer banks and to the broader industry.
+Start with the company's latest 10-K filing (SEC CIK 0000035527) to understand the size and composition of the loan portfolio, deposit growth, and how profits are distributed across the three segments. The quarterly earnings calls clarify trends in loan demand, deposit rates, and loan-loss provisions. Watch the net interest margin (the spread between what the bank earns on loans and pays on deposits)—this single number encapsulates much of the health of the business. Monitor regulatory capital ratios, which indicate how much cushion the bank has and what room it has for growth or shareholder returns. For competitive context, compare Fifth Third's metrics ([return on equity](/return-on-equity/), net interest margin, efficiency ratio) to peer banks and to the broader industry.

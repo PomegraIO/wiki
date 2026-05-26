@@ -36,11 +36,11 @@ The addressable market is enormous. Billions of Americans make bill payments eve
 
 ## How It Differs
 
-Unlike consumer-facing fintech companies that target individuals with flashy apps, Paymentus is a B2B utility. Its customers are not the people making payments—they are the organizations receiving them. This means the business is not driven by viral growth or brand appeal but by solving operational problems for large, risk-averse institutions. The trade-off is that such customers are less likely to churn and have longer contract lifespans. Payment processing is not discretionary; it is essential infrastructure.
+Unlike consumer-facing fintech companies that [target](/tgt-stock/) individuals with flashy apps, Paymentus is a B2B utility. Its customers are not the people making payments—they are the organizations receiving them. This means the business is not driven by viral growth or brand appeal but by solving operational problems for large, risk-averse institutions. The trade-off is that such customers are less likely to churn and have longer contract lifespans. Payment processing is not discretionary; it is essential infrastructure.
 
 The company also competes differently than neobanks or lending platforms. It does not take [credit risk](/credit-risk/), hold customer deposits, or extend loans. It is a processor and clearinghouse. That simplicity is a strength: lower regulatory burden than a bank, no credit losses, and revenue that scales linearly with payment volume.
 
-Competitors include REPAY Holdings, which targets similar billers; Fiserv and FIS, which are much larger payments ecosystems serving banks and enterprises; and ACI Worldwide, a legacy payments network. Paymentus distinguishes itself through cloud-native architecture, APIs that modern billers can integrate quickly, and a focus on managing the "last-mile" of payment collection where legacy systems often fail.
+Competitors include REPAY Holdings, which targets similar billers; Fiserv and FIS, which are much larger payments ecosystems serving banks and enterprises; and [ACI Worldwide](/aciw-stock/), a legacy payments network. Paymentus distinguishes itself through cloud-native architecture, APIs that modern billers can integrate quickly, and a focus on managing the "last-mile" of payment collection where legacy systems often fail.
 
 ## The Economics
 

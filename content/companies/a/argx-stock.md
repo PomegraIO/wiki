@@ -17,7 +17,7 @@ ARGENX is a global immunology company focused on severe autoimmune diseases wher
 
 ## How does the FcRn blocking mechanism work?
 
-The neonatal Fc receptor (FcRn) is a cellular pathway that recycles immunoglobulin (antibody) proteins back into circulation, extending their lifespan. By blocking this pathway, Vyvgart reduces circulating antibody levels—particularly the autoimmune antibodies causing disease—without requiring a broad immune shutdown. This targeted approach has established argenx as the dominant player in the FcRn space. The company's strategy extends beyond FcRn: other pipeline candidates target complement (empasiprubart for motor neuropathy), neuromuscular junction signaling (adimanebart), and inflammatory pathways like IgA and IL-6.
+The neonatal Fc receptor (FcRn) is a cellular pathway that recycles immunoglobulin (antibody) proteins back into circulation, extending their lifespan. By blocking this pathway, Vyvgart reduces circulating antibody levels—particularly the autoimmune antibodies causing disease—without requiring a broad immune shutdown. This targeted approach has established argenx as the dominant player in the FcRn space. The company's strategy extends beyond FcRn: other pipeline candidates [target](/tgt-stock/) complement (empasiprubart for motor neuropathy), neuromuscular junction signaling (adimanebart), and inflammatory pathways like IgA and IL-6.
 
 ## What commercial milestones has argenx reached?
 

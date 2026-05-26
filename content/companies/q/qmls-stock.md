@@ -17,7 +17,7 @@ The business is fairly young—founded in 2019 in Marietta, Georgia—and operat
 
 QumulusAI's infrastructure strategy mixes colocation arrangements with owned power assets. The company runs GPU clusters across colocation data centers in Marietta, Georgia and Kansas City, Missouri, while also owning grid capacity in Watonga and Tulsa, Oklahoma, plus a facility scheduled in Denton, Texas. This hybrid model—borrowing space in existing centers while controlling power-intensive assets—aims to reduce the months typically required to activate new compute capacity. The company claims it can deploy new GPU clusters in roughly 90 days, compared to much longer timelines for building greenfield data centers.
 
-Revenue flows from three channels. The primary business is compute-as-a-service, renting NVIDIA GPU clusters by the hour or through reserved capacity. A second revenue stream comes from hosting third-party cryptocurrency miners (a business the company has de-emphasized in favor of AI infrastructure). The third, and growing piece, is direct sales to enterprise customers seeking custom AI workloads and high-performance computing.
+Revenue flows from three channels. The primary business is compute-as-a-service, renting [NVIDIA](/nvda-stock/) GPU clusters by the hour or through reserved capacity. A second revenue stream comes from hosting third-party cryptocurrency miners (a business the company has de-emphasized in favor of AI infrastructure). The third, and growing piece, is direct sales to enterprise customers seeking custom AI workloads and high-performance computing.
 
 > "We differentiating by activating new GPU capacity in about 90 days using a mix of colocation sites and owned power-intensive assets."
 

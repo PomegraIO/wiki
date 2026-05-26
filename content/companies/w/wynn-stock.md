@@ -57,7 +57,7 @@ For Wynn, Macau went from a high-growth goldmine to an unpredictable mess. The c
 
 Las Vegas has about a dozen major casino resorts, all competing for the same tourists and the same regional gambling customers. Wynn has some of the most expensive real estate on the Strip and a reputation for quality. That matters. But you cannot charge infinite room rates or expect infinite willingness to gamble just because the marble is nice. Demand is not infinitely elastic.
 
-The Las Vegas market grows when there are economic tailwinds (more discretionary spending, more tourism) and contracts when there are headwinds (recessions, travel restrictions, changing consumer preferences). Wynn is one of the better operators, but it is still subject to these cycles. The formula has not changed much in twenty years: build something beautiful, keep it full, extract profit.
+The Las Vegas market grows when there are economic tailwinds (more [discretionary spending](/discretionary-spending/), more tourism) and contracts when there are headwinds ([recessions](/recession/), travel restrictions, changing consumer preferences). Wynn is one of the better operators, but it is still subject to these cycles. The formula has not changed much in twenty years: build something beautiful, keep it full, extract profit.
 
 ## Capital intensity and debt
 
@@ -75,6 +75,6 @@ The online channel will not kill Las Vegas casinos anytime soon. The experience 
 
 Read the 10-K (SEC CIK 0001174922) to understand the split between Las Vegas and Macau revenue, and to see how much capital the company is committing to new builds or refreshes. Watch quarterly earnings for commentary on Las Vegas table gaming volume, room occupancy, the Macau regulatory environment, and any expansion plans.
 
-Key metrics: gaming revenue per available room tells you how efficiently the resort is converting guests into gamblers. Room occupancy and average daily rate show whether pricing power is holding. Free cash flow, adjusted for debt service, reveals how much capital the company can truly deploy without financial stress.
+Key metrics: gaming revenue per available room tells you how efficiently the resort is converting guests into gamblers. Room occupancy and average daily rate show whether pricing power is holding. [Free cash flow](/free-cash-flow/), adjusted for debt service, reveals how much capital the company can truly deploy without financial stress.
 
 Wynn is ultimately a legacy Las Vegas operator in a mature market, with meaningful exposure to Macau that has become less predictable over time. The stock trades on the company's ability to keep the casinos full, manage capital carefully, and adapt to regulatory and competitive changes. There is no growth silver bullet here — the money comes from execution.

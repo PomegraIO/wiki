@@ -40,7 +40,7 @@ Equillium's therapeutic pipeline targets multiple autoimmune conditions, with a 
 | Phase 1 | Safety and dosage in small volunteer cohorts | 1–2 years | IND Clearance |
 | Phase 2 | Preliminary efficacy and side-effect monitoring | 2–3 years | IND Authority |
 | Phase 3 | Large-scale efficacy confirmation and monitoring | 2–3 years | BLA/NDA Readiness |
-| FDA Review | Assessment by the [FDA](/wiki/sec-regulator/) | 1–2 years (standard) | Approval or Rejection |
+| FDA Review | Assessment by the FDA | 1–2 years (standard) | Approval or Rejection |
 
 Equillium's specific candidates and their developmental stages—whether in Phase 1, Phase 2, or transitioning between phases—determine how quickly the company can potentially reach commercialization and revenue-generating approval.
 

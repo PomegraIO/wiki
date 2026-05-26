@@ -67,7 +67,7 @@ Interest rates affect housing affordability, mortgage rates, and consumer willin
 
 Supply chain disruption and wage [inflation](/inflation/) remain ongoing pressures. Tariffs on plywood, hardwood, hardware components, or finished goods raise cost of goods sold and compress margins. Labor shortages in manufacturing and logistics drive wage inflation faster than prices can be raised in competitive segments.
 
-A prolonged housing [recession](/recession/) or extended period of weak remodeling could invite consolidation pressure. A larger home products company (Masco, Mohawk Industries, or others) or a private equity sponsor could view a weakened MasterBrand valuation as acquisition-worthy, particularly if management needs shareholder return certainty.
+A prolonged housing [recession](/recession/) or extended period of weak remodeling could invite consolidation pressure. A larger home products company (Masco, [Mohawk Industries](/mhk-stock/), or others) or a private equity sponsor could view a weakened MasterBrand valuation as acquisition-worthy, particularly if management needs shareholder return certainty.
 
 Finally, the company faces structural headwinds from direct-to-consumer, online, and modular cabinetry entrants, though these remain niche. As remodeling budgets tighten, consumers increasingly consider lower-cost, modular, flat-pack, and simplified options that bypass traditional dealers.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Weatherford International is a multinational provider of equipment and services to oil and gas exploration and production companies. The company manufactures and supplies drilling tools, well-completion systems, and production-optimization equipment used in offshore and land-based oil and gas operations across every inhabited continent. It operates in one of the most cyclical industries in the world, where revenues and capital spending swing wildly with crude oil prices.
+Weatherford International is a multinational provider of equipment and services to oil and gas exploration and production companies. The company manufactures and supplies drilling tools, well-completion systems, and production-optimization equipment used in offshore and land-based oil and gas operations across every inhabited continent. It operates in one of the most cyclical industries in the world, where revenues and capital spending swing wildly with [crude oil](/crude-oil/) prices.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Weatherford International is a multinational provider of equipment and services 
 
 ## Weatherford's evolution in the oilfield-services landscape
 
-Weatherford was founded in Fort Worth, Texas, in 1941 as an oilfield-services company and spent decades as a regional player in the American oil patch. The company expanded internationally in the 1970s and 1980s as North American production declined but exploration offshore and in emerging markets accelerated. By the 1990s and 2000s, Weatherford had grown into a global player through a combination of organic growth and acquisitions. The company acquired numerous regional specialists and competitors, building scale and geographic reach. In 2007, Weatherford relocated its domicile to Dublin as part of a tax-efficiency strategy, a move common among large oilfield-services firms.
+Weatherford was founded in Fort Worth, Texas, in 1941 as an oilfield-services company and spent decades as a regional player in the American oil patch. The company expanded internationally in the 1970s and 1980s as North American production declined but exploration offshore and in emerging markets accelerated. By the 1990s and 2000s, Weatherford had grown into a global player through a combination of organic growth and [acquisitions](/acquisition/). The company acquired numerous regional specialists and competitors, building scale and geographic reach. In 2007, Weatherford relocated its domicile to Dublin as part of a tax-efficiency strategy, a move common among large oilfield-services firms.
 
 Weatherford has also endured the cyclical brutality of the sector. The financial crisis of 2008 crushed oil prices and energy spending, forcing layoffs and write-downs. The 2014-2016 crash in crude oil—when prices fell from over $100 per barrel to $25—nearly broke the company. Weatherford filed for Chapter 11 bankruptcy in 2015, emerged in 2016, and has since stabilized. The experience left the company leaner and more focused, but also a cautionary tale about cyclicality in oilfield services.
 
@@ -55,7 +55,7 @@ The lag between oil-price changes and spending changes creates additional volati
 
 ## Competitive positioning and operational challenges
 
-Weatherford competes against two categories of competitors: large, diversified oilfield-services giants (Schlumberger, Baker Hughes, Halliburton) that have scale and integrated service offerings, and regional specialists and smaller vendors that focus on specific geographies or product lines. The large giants have more financial stability and customer breadth, but Weatherford's independent status lets it operate with different incentives and sometimes win business on price or specialized expertise.
+Weatherford competes against two categories of competitors: large, diversified oilfield-services giants (Schlumberger, [Baker Hughes](/bkr-stock/), [Halliburton](/hal-stock/)) that have scale and integrated service offerings, and regional specialists and smaller vendors that focus on specific geographies or product lines. The large giants have more financial stability and customer breadth, but Weatherford's independent status lets it operate with different incentives and sometimes win business on price or specialized expertise.
 
 Weatherford's operational landscape is complex. The company operates manufacturing facilities, service centres, and offices across the world. It must maintain equipment and parts inventory in strategic locations so that operators can get equipment quickly when they need it. Logistics and supply-chain efficiency matter enormously in oilfield services; an operator that has to wait weeks for a critical replacement part may choose a competitor next time.
 
@@ -69,10 +69,10 @@ The longer-term risk is the energy transition. As the world pursues decarbonizat
 
 ## Understanding Weatherford's financial health and outlook
 
-Investors researching Weatherford should start with its annual 10-K (SEC CIK 0001603923), paying close attention to debt levels, liquidity, and covenant compliance. After bankruptcy, the company emerged with a cleaner balance sheet, but leverage still matters given earnings volatility. Review segment-level revenue and operating profit to understand which business lines are performing and which are under pressure.
+Investors researching Weatherford should start with its annual 10-K (SEC CIK 0001603923), paying close attention to debt levels, liquidity, and covenant compliance. After bankruptcy, the company emerged with a cleaner [balance sheet](/balance-sheet/), but leverage still matters given earnings volatility. Review segment-level revenue and operating profit to understand which business lines are performing and which are under pressure.
 
 Quarterly earnings calls should focus on backlog (future contracted revenue), customer commentary on capital spending plans, and the company's narrative on oil-price sensitivity. Understanding management's expectations for operator capital spending in the next 12-24 months is crucial to forecasting demand.
 
 Watch utilization of manufacturing capacity and service-centre headcount. In downturns, companies often maintain excess capacity and staff to avoid the cost of rehiring, but that inflates the cost structure when business is weak. Conversely, if Weatherford is running at very high utilization, the company may lack flexibility to handle growth.
 
-Finally, monitor the company's free cash flow and capital discipline. Oilfield-services companies need to fund working capital and equipment replacement through the cycle. Strong cash generation and reinvestment in the right assets position Weatherford to survive downturns and capitalize on recovery. Weak cash conversion or poor capital allocation is a warning sign.
+Finally, monitor the company's [free cash flow](/free-cash-flow/) and capital discipline. Oilfield-services companies need to fund working capital and equipment replacement through the cycle. Strong cash generation and reinvestment in the right assets position Weatherford to survive downturns and capitalize on recovery. Weak cash conversion or poor capital allocation is a warning sign.

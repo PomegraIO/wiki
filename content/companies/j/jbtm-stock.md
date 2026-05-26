@@ -31,7 +31,7 @@ JBT Corporation traces its roots to food-processing equipment manufacturing in t
 
 Marel, by contrast, was a smaller Icelandic company founded in the 1980s, focused on automated systems for poultry and fish processing. It was scrappier, more internationally oriented, and had strong footholds in Europe and Asia where it competed on automation and efficiency.
 
-In 2017, the two companies merged to form JBT MAREL, creating a single global powerhouse in food-processing equipment. The merger made strategic sense: JBT brought North American scale and heritage, Marel brought European and Asian distribution and a tighter focus on automation. Together they could offer broader product ranges to large customers and consolidate manufacturing and R&D spending.
+In 2017, the two companies merged to form JBT MAREL, creating a single global powerhouse in food-processing equipment. The [merger](/merger/) made strategic sense: JBT brought North American scale and heritage, Marel brought European and Asian distribution and a tighter focus on automation. Together they could offer broader product ranges to large customers and consolidate manufacturing and R&D spending.
 
 ## What the company makes and who needs it
 
@@ -69,6 +69,6 @@ Energy and environment regulations are tightening. Modern processing equipment m
 
 Start with the annual 10-K filing (SEC CIK 0001433660), which breaks revenue by product line and geography and details the customer concentration and backlog. Quarterly earnings calls reveal new orders, facility expansions planned by large customers, and management's outlook on capital spending in the meat industry.
 
-Key metrics: the ratio of equipment sales to service revenue (higher service revenue is steadier), backlog and order trends (early indicators of demand), and gross and operating margins by segment. Watch for commentary on automation product adoption and pricing power—as processors adopt more robotics, does JBT MAREL capture more value? Are margins expanding or compressing?
+Key metrics: the ratio of equipment sales to service revenue (higher service revenue is steadier), backlog and order trends (early indicators of demand), and gross and [operating margins](/operating-margin/) by segment. Watch for commentary on automation product adoption and pricing power—as processors adopt more robotics, does JBT MAREL capture more value? Are margins expanding or compressing?
 
 The straightforward case is that JBT MAREL is a critical supplier to an essential industry, with high switching costs, durable customer relationships, and strong positions in automation that align with the industry's biggest pressures. The business is cyclical, not defensive, but the moats are real.

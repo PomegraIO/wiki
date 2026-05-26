@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-AAR Corp occupies the unglamorous but essential space between aircraft manufacturers and operators. While Boeing builds the plane, and airlines operate it, AAR keeps it airborne by managing the constant flow of replacement parts, refurbished components, and spare inventory that every carrier requires. The company supplies everything from hydraulic assemblies to cabin fixtures and manages complex supply chains that prevent costly fleet groundings.
+AAR Corp occupies the unglamorous but essential space between aircraft manufacturers and operators. While [Boeing](/ba-stock/) builds the plane, and airlines operate it, AAR keeps it airborne by managing the constant flow of replacement parts, refurbished components, and spare inventory that every carrier requires. The company supplies everything from hydraulic assemblies to cabin fixtures and manages complex supply chains that prevent costly fleet groundings.
 
 The business rests on two complementary operations. Component Repair and Return (CRR) handles the refurbishment and logistics of used aircraft parts—sourcing components from retired aircraft, overhauling them to certification standards, and delivering them where needed. Inventory and Logistics Services goes deeper, taking on the full burden of spare-parts management for customers: AAR stocks the parts, maintains the inventory, manages the capital, and guarantees availability. This second model locks in recurring revenue and customer stickiness because an airline cannot easily walk away once AAR is embedded in its supply chain.
 

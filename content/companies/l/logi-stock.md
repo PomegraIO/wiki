@@ -29,7 +29,7 @@ Logitech makes the mouse on your desk. It makes the keyboard you are typing on r
 
 Logitech began in 1981 in Fremont, California, founded by two engineers, Daniel Borel and Pierluigi Zappacosta, and a businessman, Joël Pessis. They saw an opportunity: the mouse was becoming a standard input device, but most mice at the time were uncomfortable and unreliable. Logitech's insight was that they could design better mice and build them at a cost that kept the price competitive. The first Logitech mouse was a 3-button serial mouse that users found more comfortable than rivals, and it worked.
 
-The company was small for a long time. Through the 1980s and into the 1990s, while computer makers like Apple and Dell captured the headlines, Logitech was quietly becoming the default supplier of mice and keyboards to the masses. The company moved its headquarters to Switzerland in the mid-1980s, giving it a foothold between Europe and California. It expanded its product line beyond mice to include keyboards, webcams, and headsets, always with the same philosophy: comfort, reliability, and good value.
+The company was small for a long time. Through the 1980s and into the 1990s, while computer makers like [Apple](/aapl-stock/) and Dell captured the headlines, Logitech was quietly becoming the default supplier of mice and keyboards to the masses. The company moved its headquarters to Switzerland in the mid-1980s, giving it a foothold between Europe and California. It expanded its product line beyond mice to include keyboards, webcams, and headsets, always with the same philosophy: comfort, reliability, and good value.
 
 The 2000s brought scale. As personal computers proliferated and offices equipped every desk with a mouse and keyboard, Logitech became the standard. The company went public, built a global supply chain, and acquired smaller competitors to fill gaps in its product lines. By 2020, the company had also become a force in the gaming peripherals space, in webcams for remote work, and in audio products for creators.
 
@@ -37,7 +37,7 @@ The 2000s brought scale. As personal computers proliferated and offices equipped
 
 Logitech makes money from hardware. It designs input devices, manufactures them (mostly through contract manufacturers in Asia), and sells them to consumers through retail channels, to businesses through corporate accounts, and directly through its website. The company serves several market segments, and each has distinct economics.
 
-Consumer mice and keyboards are sold through retailers like Best Buy and Amazon, often at price points between 20 and 80 dollars depending on the model. Logitech's ability to deliver a quality product at a fair price, year after year, is what has made it the market leader. The consumer business is large volume and moderate margin.
+Consumer mice and keyboards are sold through retailers like [Best Buy](/bby-stock/) and Amazon, often at price points between 20 and 80 dollars depending on the model. Logitech's ability to deliver a quality product at a fair price, year after year, is what has made it the market leader. The consumer business is large volume and moderate margin.
 
 The gaming segment sells premium mice, keyboards, and headsets to gamers and esports teams. These products are more expensive — sometimes reaching into triple digits — and carry higher margins because the buyer is more willing to pay for performance and customisation. Logitech acquired brands like SteelSeries competitors and built out this category significantly.
 
@@ -59,7 +59,7 @@ The peripheral market is mature and highly competitive. Logitech faces competiti
 
 The transition to wireless peripherals and gaming has helped Logitech grow, but the basic mouse and keyboard business is not growing fast. The company is dependent on replacement cycles and new users, not on upgrades or new categories. A slowdown in PC shipments or the adoption of new input methods — touchscreens, voice control, gesture recognition — could hurt demand.
 
-Supply-chain disruptions have also hurt the company. Peripherals are cheap enough that shipping costs matter, and lockdowns in Asia have periodically constrained production. The business is also sensitive to consumer spending; during recessions, people stop upgrading their peripherals.
+Supply-chain disruptions have also hurt the company. Peripherals are cheap enough that shipping costs matter, and lockdowns in Asia have periodically constrained production. The business is also sensitive to consumer spending; during [recessions](/recession/), people stop upgrading their peripherals.
 
 ## How to research Logitech
 

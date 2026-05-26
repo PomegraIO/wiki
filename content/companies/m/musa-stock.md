@@ -45,7 +45,7 @@ The app also generates valuable data. Murphy USA learns where customers live, ho
 
 Murphy USA owns or leases over 1,600 locations across the United States, with particular concentration in the South, Southwest, and Midwest. Real estate matters enormously in retail — a station on a high-traffic corner at the intersection of two major routes is far more valuable than one on a dead-end road.
 
-The company uses data analytics to identify optimal site locations, and it negotiates leases or acquisitions carefully. Some locations are owned; others are leased long-term. Ownership ties up capital but provides stability and upside if property values appreciate. Leases reduce capital requirements but create ongoing rent obligations.
+The company uses data analytics to identify optimal site locations, and it negotiates leases or [acquisitions](/acquisition/) carefully. Some locations are owned; others are leased long-term. Ownership ties up capital but provides stability and upside if property values appreciate. Leases reduce capital requirements but create ongoing rent obligations.
 
 The site base is largely mature — Murphy USA has not been aggressively opening new stations. Instead, the company focuses on optimizing existing locations through store remodels (upgrading the convenience-store experience), expanding merchandise, and improving operational efficiency. That capital discipline reflects the reality that real estate returns are modest and growth from opening entirely new stations is slow in a mature market.
 
@@ -53,13 +53,13 @@ The site base is largely mature — Murphy USA has not been aggressively opening
 
 Murphy USA's profitability is acutely sensitive to crude-oil and wholesale-fuel prices. When crude spikes, the price at the pump rises quickly, and the company's fuel margin can compress as customers defer purchases or fill elsewhere. Conversely, a sharp crude decline can expand margins if the company lags competitors in dropping its pump price.
 
-The company has some hedging tools — futures contracts and supply-chain management can offset price swings — but perfect hedging is expensive and not always available. Investors in Murphy USA are implicitly betting on fuel-price stability or taking a view on whether current levels are high or low by historical standards.
+The company has some hedging tools — [futures contracts](/futures-contract/) and supply-chain management can offset price swings — but perfect hedging is expensive and not always available. Investors in Murphy USA are implicitly betting on fuel-price stability or taking a view on whether current levels are high or low by historical standards.
 
 The broader risk is a structural decline in fuel consumption. As vehicle fuel efficiency improves and electric vehicles gain market share, the total gallons sold at retail pumps shrink. Over a decade or two, that secular headwind erodes fuel-margin dollars. Murphy USA's counter to that is to wring more profit from convenience-store operations and to position as a non-fuel destination — a place to grab coffee or lunch, not just fuel. Some companies have experimented with broader merchandising or mobile payment services to reduce dependence on fuel.
 
 ## Competition and market structure
 
-Murphy USA competes with other independent fuel retailers (Casey's, Loves Travel Stops, smaller regional chains) and with gas stations operated by integrated oil companies (Shell, BP, ExxonMobil) and large retailers (Costco, Walmart, regional grocery chains with fuel programs).
+Murphy USA competes with other independent fuel retailers (Casey's, Loves Travel Stops, smaller regional chains) and with gas stations operated by integrated oil companies (Shell, BP, ExxonMobil) and large retailers (Costco, [Walmart](/wmt-stock/), regional grocery chains with fuel programs).
 
 The integrated oil companies have advantages in supply (they own refineries), brand recognition, and large cash reserves. But they are not as nimble on pricing or loyalty programs; their gas stations are often owned or operated by franchisees with limited incentive to invest in cutting-edge convenience-store experiences.
 

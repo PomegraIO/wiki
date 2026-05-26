@@ -11,23 +11,23 @@ keywords:
 handwritten: true
 ---
 
-SanDisk was founded in 1988 and grew into one of the world's largest manufacturers and innovators of flash-memory storage. The company developed technology and products ranging from memory cards for cameras and phones to solid-state drives (SSDs) for computers, and built a business serving consumer electronics makers, data centers, and end customers. In 2016, Western Digital acquired SanDisk for over $19 billion, making it one of the largest storage acquisitions in history. As of now, SanDisk operates as a division of Western Digital but maintains a distinct brand presence in the market.
+SanDisk was founded in 1988 and grew into one of the world's largest manufacturers and innovators of flash-memory storage. The company developed technology and products ranging from memory cards for cameras and phones to solid-state drives (SSDs) for computers, and built a business serving consumer electronics makers, data centers, and end customers. In 2016, [Western Digital](/wdc-stock/) acquired SanDisk for over $19 billion, making it one of the largest storage [acquisitions](/acquisition/) in history. As of now, SanDisk operates as a division of Western Digital but maintains a distinct brand presence in the market.
 
 The story of SanDisk is the story of flash memory's rise from novelty to ubiquity. In the 1990s, as digital cameras and portable music players emerged, flash memory evolved from a laboratory curiosity into a critical component of consumer electronics. SanDisk identified this shift early and built a company on the back of it.
 
 ## The founding and the emergence of flash
 
-SanDisk was co-founded by Eli Harari and Shoji Ariizumi in Santa Clara, California. Harari was an electrical engineer who had worked on semiconductor memory; Ariizumi was a Japanese businessman with experience in the memory sector. Their insight was simple but prescient: flash memory would become the dominant form of non-volatile storage in mobile and portable devices, and they could build a major company by designing, manufacturing, and selling flash products.
+SanDisk was co-founded by Eli Harari and Shoji Ariizumi in Santa Clara, California. Harari was an electrical engineer who had worked [on semiconductor](/on-stock/) memory; Ariizumi was a Japanese businessman with experience in the memory sector. Their insight was simple but prescient: flash memory would become the dominant form of non-volatile storage in mobile and portable devices, and they could build a major company by designing, manufacturing, and selling flash products.
 
 The first products were memory cards — initially PCMCIA cards, then the more familiar CompactFlash and Secure Digital (SD) cards that became standard in digital cameras in the 1990s and 2000s. These cards were simple to understand: a digital camera needed somewhere to store photos, and a flash memory card was the solution. SanDisk's cards worked reliably, and the company executed well on manufacturing, supply chain, and customer relationships with camera makers.
 
-The memory-card business was profitable but ultimately limited. Camera shipments would eventually plateau, and the category would mature and commoditize. But the category was a beachhead. It established SanDisk as a trusted brand in storage, built relationships with major OEM partners (Canon, Nikon, Sony), and generated cash to fund expansion into adjacent markets.
+The memory-card business was profitable but ultimately limited. Camera shipments would eventually plateau, and the category would mature and commoditize. But the category was a beachhead. It established SanDisk as a trusted brand in storage, built relationships with major OEM partners (Canon, Nikon, [Sony](/sony-stock/)), and generated cash to fund expansion into adjacent markets.
 
 ## The transition to enterprise and SSDs
 
 In the 2000s, as notebook computers became ubiquitous and power consumption emerged as a concern, solid-state drives (SSDs) began to replace spinning hard drives in laptop computers. SSDs use flash memory instead of spinning platters to store data, making them faster, more durable, and less power-hungry. The tradeoff was cost: SSDs were more expensive per gigabyte than hard drives.
 
-SanDisk recognized the opportunity early and built an SSD business. The company invested in SSD design, worked with computer OEMs (Dell, HP, Lenovo, Apple) to integrate SSDs into laptops, and marketed directly to consumers through retail channels. SSDs are still more expensive than hard drives, but as flash memory prices fell and consumers came to value speed and reliability, SSDs captured an increasingly large share of the portable computer market.
+SanDisk recognized the opportunity early and built an SSD business. The company invested in SSD design, worked with computer OEMs (Dell, HP, Lenovo, [Apple](/aapl-stock/)) to integrate SSDs into laptops, and marketed directly to consumers through retail channels. SSDs are still more expensive than hard drives, but as flash memory prices fell and consumers came to value speed and reliability, SSDs captured an increasingly large share of the portable computer market.
 
 SanDisk also recognized that data centers and enterprises would eventually adopt SSDs at scale. A data center that can replace mechanical hard drives with SSDs can reduce power consumption, improve performance, and reduce cooling costs. This became a major focus — selling high-reliability SSDs designed for servers and storage systems to cloud providers, financial firms, and other data-intensive enterprises. The enterprise SSD business commanded higher prices and margins than consumer SSDs because reliability and performance specifications were more stringent.
 
@@ -39,7 +39,7 @@ The USB flash drive market was eventually commoditized and margins compressed, b
 
 ## Vertical integration and the NAND push
 
-By the mid-2000s, SanDisk recognized that to remain a leading player in flash, it needed to control its own NAND flash production. NAND is the raw semiconductor material that makes up flash memory. Most NAND at the time was made by a handful of manufacturers (Intel, Micron, Samsung, and others). SanDisk depended on buying NAND from these suppliers and then assembling it into finished products like SSDs and memory cards.
+By the mid-2000s, SanDisk recognized that to remain a leading player in flash, it needed to control its own NAND flash production. NAND is the raw semiconductor material that makes up flash memory. Most NAND at the time was made by a handful of manufacturers ([Intel](/intc-stock/), Micron, Samsung, and others). SanDisk depended on buying NAND from these suppliers and then assembling it into finished products like SSDs and memory cards.
 
 To secure supply and improve margins, SanDisk pursued a strategy of vertical integration. The company built or acquired NAND fab partnerships. In 2006, SanDisk entered into a joint venture with Toshiba to build NAND flash fabs, giving it a stake in manufacturing at the foundational level. This was a massive capital commitment — fabrication plants cost billions of dollars — but it secured supply and gave SanDisk leverage over its NAND partners.
 
@@ -47,7 +47,7 @@ That vertical integration strategy paid off in the 2000s and 2010s as demand for
 
 ## The acquisition and Western Digital integration
 
-SanDisk's growth trajectory and market position made it an attractive acquisition target. In 2016, Western Digital — a long-time hard-drive manufacturer facing the same secular shift toward SSDs as the rest of the industry — acquired SanDisk for $19 billion. The deal combined Western Digital's hard-drive business with SanDisk's flash expertise and NAND production, creating an integrated storage company.
+SanDisk's growth trajectory and market position made it an attractive acquisition [target](/tgt-stock/). In 2016, Western Digital — a long-time hard-drive manufacturer facing the same secular shift toward SSDs as the rest of the industry — acquired SanDisk for $19 billion. The deal combined Western Digital's hard-drive business with SanDisk's flash expertise and NAND production, creating an integrated storage company.
 
 The integration was complex. Western Digital had to absorb SanDisk's engineering teams, manufacturing relationships, and product lines, while managing the cultural difference between a hard-drive legacy company and a flash-focused innovator. Over time, Western Digital has consolidated manufacturing, eliminated duplicate product lines, and leveraged its sales channels to distribute SanDisk products more broadly.
 

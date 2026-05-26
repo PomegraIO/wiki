@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-Omnicom Group is one of the world's largest advertising and marketing-communications holding companies, a sprawling federation of creative shops, media-buying networks, and digital specialists that help corporations and consumer brands reach audiences and manage their reputations. Founded in 1986 through a merger and grown through dozens of acquisitions since, the company operates through hundreds of agencies in dozens of countries, staffed by creatives, media planners, strategists, and account managers. Omnicom owns some of the advertising industry's most storied brand names—BBDO, DDB, TBWA, and others—each with its own heritage and client roster.
+Omnicom Group is one of the world's largest advertising and marketing-communications holding companies, a sprawling federation of creative shops, media-buying networks, and digital specialists that help corporations and consumer brands reach audiences and manage their reputations. Founded in 1986 through a [merger](/merger/) and grown through dozens of [acquisitions](/acquisition/) since, the company operates through hundreds of agencies in dozens of countries, staffed by creatives, media planners, strategists, and account managers. Omnicom owns some of the advertising industry's most storied brand names—BBDO, DDB, TBWA, and others—each with its own heritage and client roster.
 
 ## What Omnicom actually does
 
@@ -46,7 +46,7 @@ Omnicom's overall margin is moderate, typically in the mid-teens or low-twenties
 
 The margin varies by service. Creative services and strategic consulting carry higher margins—unique thinking and a strong brand (like BBDO's prestige) command premium fees. Commodity media buying and customer-service operations carry lower margins because they are harder to differentiate and easier to automate. Omnicom's push into digital and performance marketing is partly a margin play: the company can offer data-driven, measurable results, which justifies higher fees than traditional brand advertising.
 
-A significant share of revenue comes from a relatively small number of large multinational clients—Procter & Gamble, Unilever, Coca-Cola, and similar companies—which creates concentration risk. If a major client cuts its marketing budget or moves its business to a competitor, Omnicom's revenue drops. Conversely, winning a large new account (or expanding scope with an existing one) can materially move the needle.
+A significant share of revenue comes from a relatively small number of large multinational clients—[Procter & Gamble](/pg-stock/), [Unilever](/ul-stock/), Coca-Cola, and similar companies—which creates [concentration risk](/concentration-risk/). If a major client cuts its marketing budget or moves its business to a competitor, Omnicom's revenue drops. Conversely, winning a large new account (or expanding scope with an existing one) can materially move the needle.
 
 ## The structural shifts remaking advertising
 
@@ -58,7 +58,7 @@ The shift has also accelerated the consolidation of buyer power. Advertisers inc
 
 ## Reading the business
 
-Omnicom's 10-K (SEC CIK 0000029989) breaks revenue by service line (creative, media, precision marketing, corporate communications) and by client industry and geography, revealing where growth is coming from. Watch the organic revenue growth rate—whether the company is growing from new business wins and deeper client relationships, or shrinking and relying on acquisitions to offset declines. Margins (operating margin, especially) reveal pricing power and the company's ability to absorb wage inflation and cost pressures. Employee utilization and headcount trends show whether the company is operating efficiently or carrying excess capacity.
+Omnicom's 10-K (SEC CIK 0000029989) breaks revenue by service line (creative, media, precision marketing, corporate communications) and by client industry and geography, revealing where growth is coming from. Watch the organic revenue growth rate—whether the company is growing from new business wins and deeper client relationships, or shrinking and relying on acquisitions to offset declines. Margins ([operating margin](/operating-margin/), especially) reveal pricing power and the company's ability to absorb wage [inflation](/inflation/) and cost pressures. Employee utilization and headcount trends show whether the company is operating efficiently or carrying excess capacity.
 
 Client concentration metrics matter: any disclosure of a major client loss or consolidation is material. Similarly, watch for wins in high-growth categories like digital transformation or healthcare marketing, which signal whether Omnicom is successfully repositioning toward higher-margin services. Debt levels indicate how much cash the company is deploying for acquisitions; Omnicom has historically grown partly through buying smaller agencies, so the capital allocation story is part of the investment case. Finally, commentary on pricing, competitive intensity, and client budgets in earnings calls reveals near-term momentum. The industry is durable—companies will always need to market themselves—but the shape of that market is changing; Omnicom's ability to navigate that change shapes its long-term returns.
 

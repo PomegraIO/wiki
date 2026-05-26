@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BIO-TECHNE Corp makes things scientists can't do their jobs without. The company manufactures proteins, antibodies, enzymes, and other laboratory reagents—the raw materials and tools used in research labs and medical testing worldwide. Its stock trades on NASDAQ under the ticker TECH, and while most investors have never heard of it, the company supplies products used in countless discoveries and diagnostic tests every single day.
+BIO-TECHNE Corp makes things scientists can't do their jobs without. The company manufactures proteins, antibodies, enzymes, and other laboratory reagents—the raw materials and tools used in research labs and medical testing worldwide. Its stock trades on [NASDAQ](/nasdaq/) under the ticker TECH, and while most investors have never heard of it, the company supplies products used in countless discoveries and diagnostic tests every single day.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ BIO-TECHNE Corp makes things scientists can't do their jobs without. The company
 
 Think of BIO-TECHNE as a supplier to scientists. When a researcher at a university hospital wants to study a specific protein, or when a diagnostic lab needs antibodies to detect a disease marker, they often buy those materials from companies like BIO-TECHNE. The company manufactures and sells these reagents through catalogs and direct sales. These products are not glamorous or visible to the public, but they are absolutely essential to how modern biology and medicine work.
 
-The company started in 1982 and spent decades as a smaller player in the research-tools space. Over time, particularly through acquisitions beginning in the 1990s and 2000s, BIO-TECHNE built up a portfolio of brands and product lines that together serve different niches within the life sciences market. The strategy was straightforward: buy established reagent suppliers, integrate them into the company, and cross-sell the product portfolios to expand the customer base.
+The company started in 1982 and spent decades as a smaller player in the research-tools space. Over time, particularly through [acquisitions](/acquisition/) beginning in the 1990s and 2000s, BIO-TECHNE built up a portfolio of brands and product lines that together serve different niches within the life sciences market. The strategy was straightforward: buy established reagent suppliers, integrate them into the company, and cross-sell the product portfolios to expand the customer base.
 
 ## The business: breadth through acquisition
 
@@ -53,7 +53,7 @@ The company competes against other reagent suppliers, some larger (like Thermo F
 
 ## What could go wrong
 
-The business depends on continued spending on research and diagnostics. A prolonged recession that cuts research budgets or postpones diagnostic spending would hit BIO-TECHNE. Scientific advances that shift researchers away from the company's existing product categories—for instance, the rise of newer techniques that replace older methods—could erode demand for legacy products.
+The business depends on continued spending on research and diagnostics. A prolonged [recession](/recession/) that cuts research budgets or postpones diagnostic spending would hit BIO-TECHNE. Scientific advances that shift researchers away from the company's existing product categories—for instance, the rise of newer techniques that replace older methods—could erode demand for legacy products.
 
 Consolidation in the life-sciences supply industry is an ongoing risk. Larger players like Thermo Fisher have acquired numerous reagent suppliers over the years, and BIO-TECHNE itself grew partly through acquisition. If a much larger competitor acquired BIO-TECHNE, investors would lose an independent company. Conversely, if BIO-TECHNE acquired too aggressively and overpaid, it could destroy shareholder value.
 
@@ -65,4 +65,4 @@ Start with the most recent 10-K annual filing (SEC CIK 0000842023). The filing b
 
 Look at the trajectory of gross margins over time—higher margins suggest pricing power and efficient manufacturing, while declining margins might signal competitive pressure or rising input costs. Watch for acquisitions; BIO-TECHNE's growth strategy has historically relied on buying smaller companies and integrating them, so management's comments on M&A pipeline and acquisition plans matter.
 
-Like all publicly traded companies, BIO-TECHNE shares trade on a stock exchange at prices set by supply and demand. Studying the business tells you how the company creates value, not whether its stock price is right.
+Like all publicly traded companies, BIO-TECHNE shares trade on a [stock exchange](/stock-exchange/) at prices set by supply and demand. Studying the business tells you how the company creates value, not whether its stock price is right.

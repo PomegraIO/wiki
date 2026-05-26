@@ -17,7 +17,7 @@ Textron manufactures a broad portfolio of products across four main segments. Th
 
 Why such a sprawling mix of businesses?
 
-Textron is a conglomerate. It was assembled over decades through acquisitions and organic growth. The logic of the portfolio is that each business serves a different market with durable demand. Aircraft sales may be cyclical—commercial air travel surges in boom times and contracts in downturns—but that is true of many capital-intensive businesses. By owning both civilian and defense aircraft, Textron diversifies the cycle. When commercial aviation is weak, defense spending may be strong, and vice versa.
+Textron is a conglomerate. It was assembled over decades through [acquisitions](/acquisition/) and organic growth. The logic of the portfolio is that each business serves a different market with durable demand. Aircraft sales may be cyclical—commercial air travel surges in boom times and contracts in downturns—but that is true of many capital-intensive businesses. By owning both civilian and defense aircraft, Textron diversifies the cycle. When commercial aviation is weak, defense spending may be strong, and vice versa.
 
 That said, conglomerates have gone out of favor in recent years. Some investors argue that a focused company is more efficient and better managed. Textron might trade at a lower valuation than the sum of its parts—meaning if you broke it up and sold each division separately, you would get more aggregate market value. The company's leadership counters that the portfolio provides stability and allows the company to invest counter-cyclically, building capacity when the market is weak.
 
@@ -33,7 +33,7 @@ General aviation is cyclical. When the economy is strong and capital is cheap, i
 
 Where does defense spending matter most?
 
-Defense revenue comes from multiple sources. Bell supplies helicopters to the U.S. Army, Navy, and foreign defense customers. Textron Airland supplies military aircraft including transport aircraft and next-generation tiltrotor vehicles. Textron Systems makes drones and associated systems for the Pentagon. All told, defense work probably represents forty to fifty percent of company revenue. This diversification protects against commercial cycles. But it also creates exposure to changes in defense budgets and geopolitical shifts. A reduction in Middle East operations, for example, or a shift away from rotorcraft, could meaningfully impact Bell's order book.
+Defense revenue comes from multiple sources. Bell supplies helicopters to the U.S. Army, Navy, and foreign defense customers. Textron Airland supplies military aircraft including transport aircraft and next-generation tiltrotor vehicles. Textron Systems makes drones and associated systems for the Pentagon. All told, defense work probably represents forty to fifty percent of company revenue. This [diversification](/diversification/) protects against commercial cycles. But it also creates exposure to changes in defense budgets and geopolitical shifts. A reduction in Middle East operations, for example, or a shift away from rotorcraft, could meaningfully impact Bell's order book.
 
 How do margins vary by segment?
 
@@ -45,17 +45,17 @@ In aerospace and defense, backlog is a key metric. It represents firm orders tha
 
 What are the main risks?
 
-Commercial aerospace cycles. When airlines cut orders for large aircraft, aerospace suppliers feel the effect. Textron is not a major supplier to large commercial aircraft manufacturers like Boeing, so the impact is indirect, but it still reverberates through the supply chain and affects equipment demand.
+Commercial aerospace cycles. When airlines cut orders for large aircraft, aerospace suppliers feel the effect. Textron is not a major supplier to large commercial aircraft manufacturers like [Boeing](/ba-stock/), so the impact is indirect, but it still reverberates through the supply chain and affects equipment demand.
 
 Defense budget changes. A shift in Pentagon priorities away from rotorcraft or toward different platforms could hurt Bell. Regulatory changes around export of military technology could limit international sales. And a major conflict or geopolitical realignment could have outsized effects.
 
 Production challenges. Aerospace manufacturing is complex. Quality problems, supply-chain disruptions, or manufacturing inefficiencies can eat into margins and damage reputation. Bell and Cessna have both had to deal with production ramps that did not go smoothly.
 
-Competition. In military helicopters, Bell competes primarily against Sikorsky (a Lockheed Martin unit). In general aviation, Textron competes against Piper and other smaller aircraft makers, but Cessna's dominant market position limits that threat. In unmanned aircraft, competition is growing.
+Competition. In military helicopters, Bell competes primarily against Sikorsky (a [Lockheed Martin](/lmt-stock/) unit). In general aviation, Textron competes against Piper and other smaller aircraft makers, but Cessna's dominant market position limits that threat. In unmanned aircraft, competition is growing.
 
 How to research Textron as an investment
 
-Start with the 10-K and segment reporting. Understand the backlog for each major business line and the trends. Is Bell's helicopter backlog growing or shrinking? What is the outlook for Cessna? Textron usually breaks down revenue by segment, so you can see which businesses are growing and which are stagnant.
+Start with the 10-K and [segment reporting](/segment-reporting/). Understand the backlog for each major business line and the trends. Is Bell's helicopter backlog growing or shrinking? What is the outlook for Cessna? Textron usually breaks down revenue by segment, so you can see which businesses are growing and which are stagnant.
 
 Follow earnings calls. Management will discuss demand trends, pricing, and any production challenges. Listen for commentary on defense budgets and commercial aviation cycles. Competitive wins and losses in major contracts get mentioned.
 

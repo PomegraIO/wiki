@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Magna International is one of the world's largest suppliers of parts and systems to automobile manufacturers. The company (NYSE: MGA) designs and manufactures components ranging from seating and power trains to entire vehicle platforms, selling primarily to major car makers like Ford, General Motors, Volkswagen, and BMW. It is a contract manufacturer and engineer that stands between raw materials and the assembly plants where cars are built, capturing margin on its specialized technical and manufacturing capabilities.
+Magna International is one of the world's largest suppliers of parts and systems to automobile manufacturers. The company (NYSE: MGA) designs and manufactures components ranging from seating and power trains to entire vehicle platforms, selling primarily to major car makers like Ford, [General Motors](/gm-stock/), Volkswagen, and BMW. It is a contract manufacturer and engineer that stands between raw materials and the assembly plants where cars are built, capturing margin on its specialized technical and manufacturing capabilities.
 
 <aside class="wiki-infobox">
 <table>
@@ -60,15 +60,15 @@ Magna operates on relatively thin margins by industrial standards. Gross margins
 
 That said, the sheer scale of Magna's operation — tens of billions of dollars in annual revenue — means modest margins still generate substantial profits. The business is also capital-intensive; manufacturing plants, equipment, tooling for new products, and R&D require ongoing investment.
 
-Magna funds expansion and shareholder returns (dividend and share buybacks) from operating cash flow. The company also carries debt, which is typical for manufacturers of this scale, and management faces the continual challenge of balancing growth investment, debt reduction, and shareholder returns.
+Magna funds expansion and shareholder returns ([dividend](/dividend/) and [share buybacks](/share-buyback/)) from operating cash flow. The company also carries debt, which is typical for manufacturers of this scale, and management faces the continual challenge of balancing growth investment, debt reduction, and shareholder returns.
 
 ## Exposure to industry structure and cycle
 
-Magna is entirely dependent on the automotive industry. When car sales fall, suppliers suffer. A global recession that suppresses vehicle demand directly hits Magna's revenue and profit. The company has no meaningful revenue outside automotive, so there is no diversification buffer.
+Magna is entirely dependent on the automotive industry. When car sales fall, suppliers suffer. A global [recession](/recession/) that suppresses vehicle demand directly hits Magna's revenue and profit. The company has no meaningful revenue outside automotive, so there is no [diversification](/diversification/) buffer.
 
 The industry is also in structural transition. Traditional internal-combustion vehicle suppliers face uncertainty as electrification accelerates. Magna has invested heavily to position itself in electric powertrains, but if the transition is faster or slower than expected, or if competitors gain advantage, Magna's market share and margins could suffer.
 
-Concentration risk is also real. A handful of major car makers (Ford, GM, Volkswagen, Toyota, BMW, Mercedes, Geely-Volvo) account for a large portion of Magna's revenues. The loss of a major contract would be serious, though Magna's portfolio across multiple customers provides some protection.
+[Concentration risk](/concentration-risk/) is also real. A handful of major car makers (Ford, GM, Volkswagen, Toyota, BMW, Mercedes, Geely-Volvo) account for a large portion of Magna's revenues. The loss of a major contract would be serious, though Magna's portfolio across multiple customers provides some protection.
 
 ## How to research Magna as an investment
 
@@ -76,8 +76,8 @@ Start with the annual 10-K (SEC CIK 0000749098) to understand revenue by custome
 
 Quarterly earnings reports discuss same-day demand from car makers (useful for forecasting near-term volumes), commentary on pricing and cost pressures, and capital expenditure plans. Watch for updates on new contracts won and contract renewals — these are the lifeblood of supplier growth.
 
-Pay attention to margin trends. If operating margins are falling persistently despite stable or growing revenue, it may signal that the company is losing pricing power or that costs are rising faster than efficiency improvements can offset.
+Pay attention to margin trends. If [operating margins](/operating-margin/) are falling persistently despite stable or growing revenue, it may signal that the company is losing pricing power or that costs are rising faster than efficiency improvements can offset.
 
 Review Magna's progress on electrification and next-generation platforms. The company's ability to win contracts on electric-vehicle platforms and autonomous-system components is critical to long-term growth. Industry publications and auto-industry analysts often track which suppliers are winning which EV contracts.
 
-Compare Magna's financial metrics and growth to peer suppliers like Aptiv, Borgwarner, and others to gauge relative valuation and business health. As with any single security, nothing here constitutes investment advice.
+Compare Magna's financial metrics and growth to peer suppliers like Aptiv, Borgwarner, and others to gauge [relative valuation](/relative-valuation/) and business health. As with any single security, nothing here constitutes investment advice.

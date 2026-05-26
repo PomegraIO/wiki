@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-"Scale matters less than margin." That observation frames the modern automotive business better than most executives would admit. Stellantis, the world's fourth-largest automaker by volume, was born from a merger in 2021 between Fiat Chrysler and the PSA Group (Peugeot, Citroën, Opel, and others) partly because neither company could compete on sheer scale against Toyota, Volkswagen, or General Motors, but both could win if the combination let them rationalize costs, share engineering, and capture higher margins on the vehicles they chose to make.
+"Scale matters less than margin." That observation frames the modern automotive business better than most executives would admit. Stellantis, the world's fourth-largest automaker by volume, was born from a [merger](/merger/) in 2021 between Fiat Chrysler and the PSA Group (Peugeot, Citroën, Opel, and others) partly because neither company could compete on sheer scale against Toyota, Volkswagen, or [General Motors](/gm-stock/), but both could win if the combination let them rationalize costs, share engineering, and capture higher margins on the vehicles they chose to make.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ The 2021 merger created Stellantis, a company with real geographic diversity (ro
 
 ## How automotive margins work
 
-Car manufacturers make money in tight bands. A car costs thousands of dollars to design and engineer once; the cost of producing the second identical car is less than the first because shared tools and processes scale. But car factories are expensive, inflexible beasts that lose money if they sit idle, which gives the industry a drive to maximize volume regardless of price. That desperation to fill capacity has hollowed out margins: many carmakers average 3-5% operating margins despite revenues in tens of billions.
+Car manufacturers make money in tight bands. A car costs thousands of dollars to design and engineer once; the cost of producing the second identical car is less than the first because shared tools and processes scale. But car factories are expensive, inflexible beasts that lose money if they sit idle, which gives the industry a drive to maximize volume regardless of price. That desperation to fill capacity has hollowed out margins: many carmakers average 3-5% [operating margins](/operating-margin/) despite revenues in tens of billions.
 
 Stellantis operates through a portfolio of brands positioned at different price points and price-volumes. Jeep and Ram command premium pricing in profitable segments — especially full-size trucks and SUVs — where buyers are willing to pay for capability and brand. Peugeot, Citroën, Opel, and others compete in mass-market European segments where margin is thin and efficiency is everything. That mix is intentional: the high-margin North American trucks and SUVs finance the cash-burning development of electric vehicles and fund lower-margin business elsewhere.
 
@@ -65,7 +65,7 @@ If Stellantis successfully consolidates engineering and platforms, it can lower 
 
 ## Competition and market share
 
-Stellantis competes against Tesla in electric vehicles, against Volkswagen and Hyundai in mainstream segments, against Toyota and Honda in reliability perception, and against Lucid and Rivian in premium segments. In trucks and full-size SUVs, it faces Ford and General Motors, both of which have strong footprints in the same profitable categories. The competitive pressure is intense and price-based; the path to profit is through cost discipline and differentiation on features and brand.
+Stellantis competes against [Tesla](/tsla-stock/) in electric vehicles, against Volkswagen and Hyundai in mainstream segments, against Toyota and Honda in reliability perception, and against Lucid and Rivian in premium segments. In trucks and full-size SUVs, it faces Ford and General Motors, both of which have strong footprints in the same profitable categories. The competitive pressure is intense and price-based; the path to profit is through cost discipline and differentiation on features and brand.
 
 The consolidation trend in autos continues: there are far fewer independent carmakers than there were 20 years ago. Stellantis' formation was part of that trend, and further consolidation may come. Yet Stellantis is now large enough that it is more likely to be a consolidator than consolidated, assuming management can prove the merger's synergies.
 

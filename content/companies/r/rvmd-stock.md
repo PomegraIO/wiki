@@ -45,7 +45,7 @@ Revolution Medicines' timeline for bringing a drug to market is measured in year
 
 ## The capital puzzle and the execution challenge
 
-Revolution Medicines, like all clinical-stage biotechs, faces a capital puzzle: it has no product revenue, only burn—the ongoing cash consumption required to run research, clinical trials, and regulatory interactions. The company has raised capital through multiple rounds of venture funding and, after going public on the NASDAQ in 2018, through public equity offerings and occasional debt financing.
+Revolution Medicines, like all clinical-stage biotechs, faces a capital puzzle: it has no product revenue, only burn—the ongoing cash consumption required to run research, clinical trials, and regulatory interactions. The company has raised capital through multiple rounds of venture funding and, after going public on the [NASDAQ](/nasdaq/) in 2018, through public equity offerings and occasional [debt financing](/debt-financing/).
 
 The critical metrics for a company at Revolution's stage are the cash on hand and the quarterly burn rate. These determine how long the company can fund operations before it must raise more capital or achieve a meaningful milestone—such as positive clinical data—that validates the science and attracts new investors.
 

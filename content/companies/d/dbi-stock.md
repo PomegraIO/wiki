@@ -22,7 +22,7 @@ handwritten: true
 - SEC CIK: 1319947
 </aside>
 
-Designer Brands is a vertically integrated footwear and accessories retailer built around [DSW Designer Shoe Warehouse](/wiki/dsw-designer-shoe-warehouse/), the largest U.S. specialty shoe retailer. The company owns and operates its own branded stores while also controlling several apparel and footwear brands sold under its house labels—a structure that gives it direct control over both the wholesale and retail channels of its business.
+Designer Brands is a vertically integrated footwear and accessories retailer built around DSW Designer Shoe Warehouse, the largest U.S. specialty shoe retailer. The company owns and operates its own branded stores while also controlling several apparel and footwear brands sold under its house labels—a structure that gives it direct control over both the wholesale and retail channels of its business.
 
 ## The DSW Foundation
 
@@ -54,7 +54,7 @@ Brick-and-mortar footwear retail is secular decline prone but not terminal; shoe
 
 ## Watching the Business
 
-Investors examine [DSW comparable sales](/wiki/comparable-sales/) trends—whether like-for-like stores are growing or shrinking. E-commerce growth matters separately, as it carries different margin profiles and logistics costs. Inventory levels and turns matter; rising inventory against flat sales signals demand weakness or overstocking.
+Investors examine DSW comparable sales trends—whether like-for-like stores are growing or shrinking. E-commerce growth matters separately, as it carries different margin profiles and logistics costs. Inventory levels and turns matter; rising inventory against flat sales signals demand weakness or overstocking.
 
 Brand performance metrics from wholesale distribution and brand stores (if reported separately) show whether the portfolio strategy is working. Supply chain cost [inflation](/inflation/) or currency headwinds affecting imported product are frequent headwinds. Margin expansion or contraction is closely watched, as retail is a volume business with limited pricing power.
 

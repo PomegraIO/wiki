@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BorgWarner supplies critical powertrain components to virtually every major automaker on Earth. The company is what the industry calls a tier-one supplier — it sells directly to original equipment manufacturers, not to consumers. A BorgWarner turbocharger spins on an engine made by General Motors, Volkswagen, Ford, or Honda; its transmission technologies transfer power from engine to wheels in millions of vehicles annually. For nearly a century the company has existed in the unglamorous, vital space between raw component makers and the brand-name automakers customers recognize.
+BorgWarner supplies critical powertrain components to virtually every major automaker on Earth. The company is what the industry calls a tier-one supplier — it sells directly to original equipment manufacturers, not to consumers. A BorgWarner turbocharger spins on an engine made by [General Motors](/gm-stock/), Volkswagen, Ford, or Honda; its transmission technologies transfer power from engine to wheels in millions of vehicles annually. For nearly a century the company has existed in the unglamorous, vital space between raw component makers and the brand-name automakers customers recognize.
 
 <aside class="wiki-infobox">
 <table>
@@ -59,9 +59,9 @@ The automakers themselves are navigating this transition unevenly. Some are movi
 
 ## The margin question
 
-Automotive-supplier margins are structurally thin — typically single-digit operating margins. BorgWarner must manage costs ruthlessly to remain profitable. The company competes primarily on engineering capability, quality, delivery, and cost efficiency, not on brand or pricing power.
+Automotive-supplier margins are structurally thin — typically single-digit [operating margins](/operating-margin/). BorgWarner must manage costs ruthlessly to remain profitable. The company competes primarily on engineering capability, quality, delivery, and cost efficiency, not on brand or pricing power.
 
-Capital intensity is substantial. Modern manufacturing requires significant investment in tooling and facilities. When volume declines — as it has during recession or inventory adjustments — those fixed costs remain, and margins compress sharply.
+Capital intensity is substantial. Modern manufacturing requires significant investment in tooling and facilities. When volume declines — as it has during [recession](/recession/) or inventory adjustments — those fixed costs remain, and margins compress sharply.
 
 In a mature internal-combustion market, BorgWarner can sustain its business and return cash to shareholders, but growth is limited. In a fast-electrifying market, it must invest aggressively in new capabilities, which limits near-term profitability. Managing that transition while satisfying current shareholders is an ongoing tension.
 

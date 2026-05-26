@@ -55,7 +55,7 @@ The company's chief advantages are breadth of product range, engineering capabil
 
 ## How to research Pentair
 
-Start with the annual 10-K filing (SEC CIK 0000077360), which details revenue by segment and describes the competitive landscape and risks in each market. Watch the company's quarterly earnings calls for commentary on organic growth (growth from existing businesses) versus acquisition-driven growth, and for signs of margin improvement or compression. The capital allocation story matters too — how much cash is the company investing in acquisitions versus returning to shareholders? Are the recent acquisitions earning adequate returns, or are they diluting results?
+Start with the annual 10-K filing (SEC CIK 0000077360), which details revenue by segment and describes the competitive landscape and risks in each market. Watch the company's quarterly earnings calls for commentary on organic growth (growth from existing businesses) versus acquisition-driven growth, and for signs of margin improvement or compression. The capital allocation story matters too — how much cash is the company investing in [acquisitions](/acquisition/) versus returning to shareholders? Are the recent acquisitions earning adequate returns, or are they diluting results?
 
 For sector context, track trends in data center buildout and cloud infrastructure spending, which drive demand for thermal management products. Monitor commentary on water treatment and infrastructure investment, which shapes the Water segment's trajectory. The company's ability to maintain pricing power in competitive markets, and to integrate acquisitions successfully, are the key operational questions worth following over time.
 

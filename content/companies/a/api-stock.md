@@ -15,7 +15,7 @@ handwritten: true
 
 ## The Platform Play
 
-Agora sits squarely in the infrastructure layer, a vendor meant to disappear into applications. Developers across social platforms, gaming, education, telehealth, and enterprise software use Agora to power video calls, group streaming, and increasingly, conversational AI agents that operate in real-time. The company's core differentiation rests on sub-300-millisecond latency, global server distribution (with particular strength in Asia-Pacific), and developer-friendly SDKs for iOS, Android, web, Windows, and game engines like Unity and Unreal. Latency matters for real-time use cases: a 300ms delay is imperceptible; a 1-second delay breaks conversation. Agora competes with Twilio (broader communications, SMS-inclusive) and Sendbird (chat-centric), but occupies its own wedge focused on interactive media and now, conversational AI.
+Agora sits squarely in the infrastructure layer, a vendor meant to disappear into applications. Developers across social platforms, gaming, education, telehealth, and enterprise software use Agora to power video calls, group streaming, and increasingly, conversational AI agents that operate in real-time. The company's core differentiation rests on sub-300-millisecond latency, global server distribution (with particular strength in Asia-Pacific), and developer-friendly SDKs for iOS, Android, web, Windows, and game engines like Unity and Unreal. Latency matters for real-time use cases: a 300ms delay is imperceptible; a 1-second delay breaks conversation. Agora competes with [Twilio](/twlo-stock/) (broader communications, SMS-inclusive) and Sendbird (chat-centric), but occupies its own wedge focused on interactive media and now, conversational AI.
 
 ## Revenue and Execution
 

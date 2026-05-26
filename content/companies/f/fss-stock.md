@@ -24,7 +24,7 @@ handwritten: true
 
 ## A century of outdoor warning and industrial control
 
-Federal Signal Corporation (NASDAQ: FSS) manufactures outdoor electromechanical sirens and increasingly, digital emergency-notification platforms sold to municipalities, public utilities, school districts, and industrial facilities for disaster warning, weather alerts, and industrial signalling. The company traces its roots to 1901 as a maker of mechanical horns and traffic signals; today it operates two main segments: Emergency Notification Systems (ENS) and Integrated Signalling Products.
+Federal Signal Corporation ([NASDAQ](/nasdaq/): FSS) manufactures outdoor electromechanical sirens and increasingly, digital emergency-notification platforms sold to municipalities, public utilities, school districts, and industrial facilities for disaster warning, weather alerts, and industrial signalling. The company traces its roots to 1901 as a maker of mechanical horns and traffic signals; today it operates two main segments: Emergency Notification Systems (ENS) and Integrated Signalling Products.
 
 The core legacy product is the outdoor siren—a large, pole-mounted or wall-mounted device that produces tones and voice messages to alert citizens to tornadoes, hurricanes, flooding, industrial emergencies, or air-raid situations. For over a century, municipalities in Tornado Alley, coastal storm zones, and nuclear-plant perimeters have relied on Federal Signal sirens as the first and most reliable alert mechanism. The installed base is vast: tens of thousands of sirens operating in town squares, industrial parks, and utility substations across North America.
 
@@ -48,7 +48,7 @@ The shift toward integrated, web-connected notification platforms is expanding a
 
 Capital spending by municipalities is cyclical, driven by budget cycles, natural disasters, and FEMA grant funding. After a major hurricane or tornado, FEMA hazard-mitigation grants flow to affected municipalities, funding siren system upgrades and new installations. This creates lumpy revenue: years with large grant awards see strong capital sales; dry years see lower volume.
 
-Federal, state, and local government budgets are the primary variable. Recessions can defer municipal capital spending. Conversely, disaster years trigger spending. The pandemic (2020–2021) disrupted supply chains and delayed installations; the aftermath saw pent-up demand. More recently, federal infrastructure funding and a renewed focus on climate resilience have supported municipal capital budgets.
+Federal, state, and local government budgets are the primary variable. [Recessions](/recession/) can defer municipal capital spending. Conversely, disaster years trigger spending. The pandemic (2020–2021) disrupted supply chains and delayed installations; the aftermath saw pent-up demand. More recently, federal infrastructure funding and a renewed focus on climate resilience have supported municipal capital budgets.
 
 Nuclear-plant operators are a stable customer base: regulatory requirements around emergency-notification systems ensure steady replacement and upgrade cycles regardless of economic conditions. However, nuclear output globally has been stagnant, limiting growth from this segment.
 
@@ -64,9 +64,9 @@ Urban undergrounding initiatives (moving overhead power and communications under
 
 ## Reading Federal Signal's financials
 
-Start with the 10-K (CIK 0000277509) for revenue by segment (ENS vs. Integrated Signalling), gross and operating margins, backlog (a forward indicator of capital sales), recurring (SaaS) revenue as a percentage of total, and customer concentration (large municipal contracts can swing results).
+Start with the 10-K (CIK 0000277509) for revenue by segment (ENS vs. Integrated Signalling), gross and [operating margins](/operating-margin/), backlog (a forward indicator of capital sales), recurring (SaaS) revenue as a percentage of total, and customer concentration (large municipal contracts can swing results).
 
-Key metrics: Recurring revenue growth (fastest-growing, highest-margin segment); backlog in dollars (shows near-term revenue visibility); capital expenditure and free cash flow (stable, low-growth businesses often return cash via buybacks); and customer concentration among top-10 customers (large contracts mean lumpy revenue).
+Key metrics: Recurring revenue growth (fastest-growing, highest-margin segment); backlog in dollars (shows near-term revenue visibility); capital expenditure and [free cash flow](/free-cash-flow/) (stable, low-growth businesses often return cash via buybacks); and customer concentration among top-10 customers (large contracts mean lumpy revenue).
 
 Monitor: Federal grant announcements (FEMA mitigation funding, infrastructure bills) affecting municipal budgets; significant customer wins or losses (large siren contracts); and commentary on software-platform adoption rates and pricing.
 

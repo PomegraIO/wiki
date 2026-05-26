@@ -21,7 +21,7 @@ The business is concentrated in two regions. Africa forms the bulk of activity, 
 
 ## The competitive and structural context
 
-This is not a unique idea—similar platforms exist in India (Jiomart, Udaan), Southeast Asia (Grab Mart, Shopee), and elsewhere. What distinguishes RedCloud, in theory, is focus and timing. In many African markets, formal e-commerce infrastructure (reliable payment gateways, logistics, last-mile delivery) is less mature than in Asia, which means the barrier to entry is lower but so is the addressable market. RedCloud's advantage lies in early-mover status in a few specific geographies and relationships with large FMCG brands (Unilever, Nestlé, SABMiller, etc.) who use the platform to push inventory downstream.
+This is not a unique idea—similar platforms exist in India (Jiomart, Udaan), Southeast Asia (Grab Mart, Shopee), and elsewhere. What distinguishes RedCloud, in theory, is focus and timing. In many African markets, formal e-commerce infrastructure (reliable payment gateways, logistics, last-mile delivery) is less mature than in Asia, which means the barrier to entry is lower but so is the addressable market. RedCloud's advantage lies in early-mover status in a few specific geographies and relationships with large FMCG brands ([Unilever](/ul-stock/), Nestlé, SABMiller, etc.) who use the platform to push inventory downstream.
 
 However, the business faces structural headwinds. Small retailers often operate on thin margins and limited working capital, so adoption requires either credit provision (expensive to scale) or sufficient price savings to justify switching from established informal networks. Additionally, the market attracts well-capitalized competitors (Shoprite, digital arms of global trade groups) who can subsidize customer [acquisition](/acquisition/) and undercut fees. Success depends on achieving scale and stickiness in a few geographies before capital runs dry or competitors move in.
 
@@ -43,4 +43,4 @@ The company's [10-K](/wiki/10-k/) and quarterly earnings will reveal the traject
 
 Also monitor geographic expansion: is the company deepening penetration in existing markets or spreading too thin across new ones? Brand partnerships are a bellwether—large consumer goods companies vote with their wallets and will migrate traffic and inventory to the most reliable and well-integrated platform. Any loss of major customer relationships should be read as a warning sign.
 
-Finally, pay attention to competitive moves. If Shopify, Amazon, or regional giants begin offering similar services natively, the window for an independent B2B commerce platform shrinks significantly.
+Finally, pay attention to competitive moves. If [Shopify](/shop-stock/), Amazon, or regional giants begin offering similar services natively, the window for an independent B2B commerce platform shrinks significantly.

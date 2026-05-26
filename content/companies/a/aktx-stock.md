@@ -19,11 +19,11 @@ Akari's proprietary payload, PH1, is derived from a Thailanstatin analog—a nat
 
 ## Lead Programs
 
-AKTX-101, the lead candidate, targets TROP2, a surface antigen abundant on many solid tumors. Preclinical data shows stronger tumor-killing potency and favorable tolerability compared to existing TROP2-directed ADCs. Akari is conducting IND-enabling studies with a goal to begin first-in-human dosing by mid-2027. AKTX-102, unveiled in January 2026, targets CEACAM5, a historically difficult-to-address oncology target, and leverages the same payload technology.
+AKTX-101, the lead candidate, targets TROP2, a surface antigen abundant on many solid tumors. Preclinical data shows stronger tumor-killing potency and favorable tolerability compared to existing TROP2-directed ADCs. Akari is conducting IND-enabling studies with a goal to begin first-in-human dosing by mid-2027. AKTX-102, unveiled in January 2026, targets CEACAM5, a historically difficult-to-address oncology [target](/tgt-stock/), and leverages the same payload technology.
 
 ## At a glance
 
-- **Focus:** Oncology via next-generation ADC therapeutics
+- **Focus:** Oncology via next-generation [ADC therapeutics](/adct-stock/)
 - **Lead asset:** AKTX-101 (TROP2-targeting ADC with PH1 payload)
 - **Stage:** IND-enabling; Phase 1 expected mid-2027
 - **Differentiation:** RNA spliceosome-targeting payload, immune-stimulating mechanism

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*On Holding AG is an athletic company focused on running shoes and apparel. It was founded in 2010 in Switzerland — making it young compared to established players like Nike and Adidas — and has built a following among serious runners by emphasizing innovation in shoe design and selling primarily through its own channels rather than through wholesale retail.*
+*On Holding AG is an athletic company focused on running shoes and apparel. It was founded in 2010 in Switzerland — making it young compared to established players like [Nike](/nke-stock/) and Adidas — and has built a following among serious runners by emphasizing innovation in shoe design and selling primarily through its own channels rather than through wholesale retail.*
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ On's business model centers on direct-to-consumer sales, where the company owns 
 
 Wholesale sales are lower-margin. When On sells to a retailer, it typically earns 40 to 50 percent of the final retail price. The retailer then marks it up and sells to the customer. This is profitable but less rewarding than direct sales, which is why On has resisted becoming too dependent on wholesale despite its growth potential. The company also sells apparel and accessories, which expand the average customer purchase but typically at lower margins than premium shoes.
 
-Growth in e-commerce revenue has been a strategic priority. Online sales have minimal physical-store overhead and can reach customers anywhere, but they require investments in web infrastructure, paid digital marketing, and logistics. International expansion — particularly in Europe and Asia — represents significant opportunity but also requires local marketing and customer acquisition.
+Growth in e-commerce revenue has been a strategic priority. Online sales have minimal physical-store overhead and can reach customers anywhere, but they require investments in web infrastructure, paid digital marketing, and logistics. International expansion — particularly in Europe and Asia — represents significant opportunity but also requires local marketing and customer [acquisition](/acquisition/).
 
 ## Competing in a branded market
 

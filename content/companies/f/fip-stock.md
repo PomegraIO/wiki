@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-FTAI Infrastructure Inc. (ticker FIP) is an owner-operator of physical transportation and energy infrastructure assets. The company was spun off from [Fortress Transportation & Infrastructure](/wiki/fortress-transportation-infrastructure/) in late 2023 and trades on the [New York Stock Exchange](/new-york-stock-exchange/). It owns and operates railroads, port and terminal facilities, and power generation assets across North America and beyond—a relatively stable, fee-generating portfolio suited for long-term institutional investors seeking durable infrastructure exposure with income.
+FTAI Infrastructure Inc. (ticker FIP) is an owner-operator of physical transportation and energy infrastructure assets. The company was spun off from Fortress Transportation & Infrastructure in late 2023 and trades on the [New York Stock Exchange](/new-york-stock-exchange/). It owns and operates railroads, port and terminal facilities, and power generation assets across North America and beyond—a relatively stable, fee-generating portfolio suited for long-term institutional investors seeking durable infrastructure exposure with income.
 
 ## The Fortress Origin and Business Split
 

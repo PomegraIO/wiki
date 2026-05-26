@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Powell Industries makes the big metal boxes and equipment that move and control electricity through industrial plants, refineries, utilities, and data centers. If you've ever seen a large metal cabinet at a power station or inside an industrial facility with lots of circuit breakers, switches, and wiring inside, that was probably made by a company like Powell. The business is straightforward: Powell designs and manufactures custom and semi-custom electrical control systems and switchgear, sells them to customers who need to distribute and manage electrical power in their operations, and then services those systems for years afterward.
+Powell Industries makes the big metal boxes and equipment that move and control electricity through industrial plants, refineries, utilities, and data centers. If you've ever seen a large metal cabinet at a power station or inside an industrial facility with lots of [circuit breakers](/circuit-breaker/), switches, and wiring inside, that was probably made by a company like Powell. The business is straightforward: Powell designs and manufactures custom and semi-custom electrical control systems and switchgear, sells them to customers who need to distribute and manage electrical power in their operations, and then services those systems for years afterward.
 
 ## What Powell makes
 
@@ -46,7 +46,7 @@ Powell's job is to manage the tension between one-off custom work and enough sta
 
 Powell's business is project-based and lumpy. Large orders come in periodically; the company manufactures and delivers; revenue is recognized upon completion. Because projects take months to complete, the company carries a backlog of work already ordered but not yet delivered. That backlog is useful information—it provides visibility into future revenue.
 
-In recent periods, Powell's backlog has been strong and growing, suggesting healthy demand in its served markets. Data center buildout and liquefied natural gas infrastructure investment are driving demand. But backlog can also reverse quickly if customers cancel projects or delay them.
+In recent periods, Powell's backlog has been strong and growing, suggesting healthy demand in its served markets. Data center buildout and liquefied [natural gas](/natural-gas/) infrastructure investment are driving demand. But backlog can also reverse quickly if customers cancel projects or delay them.
 
 Watch quarterly backlog trends. Growing backlog signals confidence that the company will have work to do. Shrinking or flat backlog suggests customers are becoming cautious. Backlog conversion—the rate at which orders transform into shipped products and recognized revenue—is also important, as it reflects manufacturing efficiency and execution.
 
@@ -54,13 +54,13 @@ Watch quarterly backlog trends. Growing backlog signals confidence that the comp
 
 Powell's business requires capital in several ways. The company needs manufacturing facilities, equipment, and tooling to build custom electrical systems. It carries inventory of components and subassemblies. It finances customer projects in progress before revenue is recognized and payment is received. Service and retrofit work requires spare parts inventory and field service staff.
 
-All of this means the company is relatively capital-intensive. The measure of whether that capital is being used well is return on invested capital—the operating profit the company generates relative to the amount of capital tied up in the business. A company with high ROIC is using capital efficiently; one with low ROIC is not. For Powell, watch this metric over several years to see whether the company is becoming more or less efficient as it grows.
+All of this means the company is relatively capital-intensive. The measure of whether that capital is being used well is [return on invested capital](/return-on-invested-capital/)—the operating profit the company generates relative to the amount of capital tied up in the business. A company with high ROIC is using capital efficiently; one with low ROIC is not. For Powell, watch this metric over several years to see whether the company is becoming more or less efficient as it grows.
 
 ## The dependency on industrial cycles
 
 Powell's profitability swings with industrial cycles. When oil prices are high and refineries are investing, when construction is booming, when utilities are upgrading infrastructure, Powell's order flow is strong. When those industries contract, order flow dries up. The company is exposed to energy prices, industrial capex sentiment, and infrastructure investment cycles.
 
-One way to hedge that is diversification—Powell serves multiple industries and geographies—but the company remains cyclical. It is not a recession-resistant business like a utility or a consumer staple. During downturns, expect margins to contract and order flow to weaken.
+One way to hedge that is [diversification](/diversification/)—Powell serves multiple industries and geographies—but the company remains cyclical. It is not a recession-resistant business like a utility or a consumer staple. During downturns, expect margins to contract and order flow to weaken.
 
 ## What to pay attention to
 

@@ -68,7 +68,7 @@ Yalla's [10-K](/wiki/10-k/) filing with the SEC provides the full picture. Inves
 
 ## Placing Yalla in Broader Contexts
 
-Yalla is part of the broader wave of localized social and gaming platforms serving regions underserved by Western tech giants. Companies like [Viber](/wiki/viber-stock/) (owned by Rakuten) and regional competitors in Southeast Asia and South Asia have followed similar playbooks: optimize for local language, bandwidth, and cultural preferences, then monetize through virtual goods or services. Yalla's success in MENA demonstrates that there is real value to be captured in regional differentiation, at least for a time.
+Yalla is part of the broader wave of localized social and gaming platforms serving regions underserved by Western tech giants. Companies like Viber (owned by Rakuten) and regional competitors in Southeast Asia and South Asia have followed similar playbooks: optimize for local language, bandwidth, and cultural preferences, then monetize through virtual goods or services. Yalla's success in MENA demonstrates that there is real value to be captured in regional differentiation, at least for a time.
 
 The company also sits at the intersection of two secular trends: the shift toward voice and real-time social interaction (as seen in platforms like Discord and Clubhouse) and the growth of casual gaming as a social activity rather than a competitive pursuit. Yalla bet on both trends holding in its region, and that bet has paid off.
 

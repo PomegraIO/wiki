@@ -46,13 +46,13 @@ This capital intensity is structural. A railroad cannot simply "fix" its network
 
 ## The regulatory environment and environmental pressure
 
-Railroads are regulated by the Surface Transportation Board, which oversees pricing, mergers, and service disputes. Norfolk Southern does not have complete pricing freedom; the STB has authority over "captive" shippers — customers who have limited alternative transportation options and might otherwise be exploited by monopoly pricing. This regulatory cap on pricing power is real, though enforcement varies.
+Railroads are regulated by the Surface Transportation Board, which oversees pricing, [mergers](/merger/), and service disputes. Norfolk Southern does not have complete pricing freedom; the STB has authority over "captive" shippers — customers who have limited alternative transportation options and might otherwise be exploited by monopoly pricing. This regulatory cap on pricing power is real, though enforcement varies.
 
 Environmental regulation is also a growing factor. Modern diesel locomotives emit significantly less pollution than older ones, but the rail industry is slowly facing pressure to reduce emissions. Electrification of rail corridors is discussed regularly but remains expensive and limited to passenger rail in the United States. Norfolk Southern's freight fleet remains diesel-powered, and the company's emissions profile is a topic in shareholder discussions and environmental advocacy.
 
 ## Cyclicality and the coal headwind
 
-Norfolk Southern is economically sensitive. When industrial production slows, manufacturing plants reduce output, automotive assembly lines downshift, and freight traffic falls. Coal, which has historically been a stable and profitable segment, is in secular decline as power generation shifts from coal to natural gas and renewables. This is a structural headwind that Norfolk Southern cannot wish away. The company is adapting by investing in intermodal and other growing segments, but coal volumes are expected to continue declining.
+Norfolk Southern is economically sensitive. When industrial production slows, manufacturing plants reduce output, automotive assembly lines downshift, and freight traffic falls. Coal, which has historically been a stable and profitable segment, is in secular decline as power generation shifts from coal to [natural gas](/natural-gas/) and renewables. This is a structural headwind that Norfolk Southern cannot wish away. The company is adapting by investing in intermodal and other growing segments, but coal volumes are expected to continue declining.
 
 ## How to research Norfolk Southern
 
@@ -60,6 +60,6 @@ Start with the most recent 10-K filing, which breaks revenue down by commodity a
 
 Watch the earnings calls for commentary on volume trends by segment, pricing power in each market, and any material disruptions to service. Capital expenditure plans matter too; railroads that are investing heavily in new equipment and infrastructure upgrades are positioning for growth, while those that are cutting capex may be under stress.
 
-Compare Norfolk Southern's operating ratio to competitors like CSX, another eastern railroad, and to western roads like Union Pacific. This peer comparison reveals whether NSC is gaining or losing operational efficiency. Also track fuel surcharges and any changes in pricing; railroads pass fuel costs through to shippers via surcharges, but if those cannot fully offset fuel price increases, margins get squeezed.
+Compare Norfolk Southern's operating ratio to competitors like CSX, another eastern railroad, and to western roads like [Union Pacific](/unp-stock/). This peer comparison reveals whether NSC is gaining or losing operational efficiency. Also track fuel surcharges and any changes in pricing; railroads pass fuel costs through to shippers via surcharges, but if those cannot fully offset fuel price increases, margins get squeezed.
 
 Finally, follow the coal market. Coal volumes and coal pricing are visible in company commentary and in public data on power-generation trends. Declining coal volumes are bad for all railroads with coal exposure, but the magnitude of that decline and the pace at which railroads can offset it with growth in other segments determines the company's outlook.

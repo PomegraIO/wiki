@@ -36,7 +36,7 @@ Data centers are capital-intensive assets with long payback periods. GDS uses a 
 
 ## What is GDS's competitive moat?
 
-GDS does not own scarce natural resources, but it does own or control long-term rights to high-value real estate in China's tier-1 cities, where new data center development is capital-intensive and often constrained by local zoning or power allocation. Long-term customer contracts create switching costs and visibility. The company's track record in designing and operating facilities at scale, plus relationships with hyperscale customers, constitute a network effect of sorts. However, the moat is not impenetrable—larger global data center operators (such as Digital Realty, Equinix, or NTT Global) have begun entering or expanding in Asia, and any significant slowdown in cloud spending or loosening of geographic concentration among customers could erode GDS's advantages.
+GDS does not own scarce natural resources, but it does own or control long-term rights to high-value real estate in China's tier-1 cities, where new data center development is capital-intensive and often constrained by local zoning or power allocation. Long-term customer contracts create switching costs and visibility. The company's track record in designing and operating facilities at scale, plus relationships with hyperscale customers, constitute a network effect of sorts. However, the moat is not impenetrable—larger global data center operators (such as [Digital Realty](/dlr-stock/), Equinix, or NTT Global) have begun entering or expanding in Asia, and any significant slowdown in cloud spending or loosening of geographic concentration among customers could erode GDS's advantages.
 
 ## Why would an investor research this company?
 

@@ -31,9 +31,9 @@ Nuvalent also has programs in other kinase-driven cancers and is exploring oppor
 
 ## Financing and runway
 
-As a clinical-stage biotech, Nuvalent depends on external funding. The company raised capital at its inception, has done secondary offerings, and manages its burn rate to extend runway. Most clinical-stage oncology biotechs in Nuvalent's position have 18–36 months of cash on hand after the most recent fundraise, designed to carry them through key clinical milestones that might justify the next funding round or attract partnerships.
+As a clinical-stage biotech, Nuvalent depends on external funding. The company raised capital at its inception, has done [secondary offerings](/secondary-offering/), and manages its burn rate to extend runway. Most clinical-stage oncology biotechs in Nuvalent's position have 18–36 months of cash on hand after the most recent fundraise, designed to carry them through key clinical milestones that might justify the next funding round or attract partnerships.
 
-The path to value creation is typically one of: (1) clinical data that is sufficiently compelling that a larger pharmaceutical company acquires Nuvalent to gain the drug candidate and development expertise, (2) an initial public offering and subsequent progression toward approval and commercialization, or (3) a partnership or licensing deal with an existing cancer drug developer. Nuvalent went public in 2021 and now trades as a public company; it thus must execute against public market expectations for cash burn and data generation.
+The path to value creation is typically one of: (1) clinical data that is sufficiently compelling that a larger pharmaceutical company acquires Nuvalent to gain the drug candidate and development expertise, (2) an [initial public offering](/initial-public-offering/) and subsequent progression toward approval and commercialization, or (3) a partnership or licensing deal with an existing cancer drug developer. Nuvalent went public in 2021 and now trades as a public company; it thus must execute against public market expectations for cash burn and data generation.
 
 ## Risks and uncertainties
 

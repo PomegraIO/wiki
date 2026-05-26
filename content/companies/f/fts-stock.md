@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Fortis Inc. owns and operates power plants and utility networks across Canada and the United States. The company generates electricity, distributes it through wires and cables to customers' homes and businesses, and also delivers natural gas through pipelines. It is a regulated utility, which means government agencies approve how much it can charge, but also guarantee it a stable, predictable return on the infrastructure it builds.*
+*Fortis Inc. owns and operates power plants and utility networks across Canada and the United States. The company generates electricity, distributes it through wires and cables to customers' homes and businesses, and also delivers [natural gas](/natural-gas/) through pipelines. It is a regulated utility, which means government agencies approve how much it can charge, but also guarantee it a stable, predictable return on the infrastructure it builds.*
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ Most businesses try to earn a profit by charging whatever the market will bear. 
 
 This system has two effects. On one side, Fortis cannot charge whatever it wants. If it tries to gouge customers, regulators will not approve the rate increase. On the other side, Fortis gets a guarantee: if it builds a power plant for two billion dollars, regulators will set rates high enough that the company earns an allowed return on that investment. The customer pays, but the utility's return is predictable and stable.
 
-This stability is attractive to investors who want steady income rather than wild fluctuations. A pension fund can count on Fortis paying a reliable dividend year after year because the cash flows are locked in by regulation.
+This stability is attractive to investors who want steady income rather than wild fluctuations. A pension fund can count on Fortis paying a reliable [dividend](/dividend/) year after year because the cash flows are locked in by regulation.
 
 ## Making money in a regulated world
 
@@ -71,14 +71,14 @@ Regulated utilities are not risk-free, though people often think they are.
 
 **Regulatory risk** is the biggest. If regulators decide the profit margin is too high and cut the allowed return, Fortis's earnings fall. Canada and the U.S. are both democracies with elected governments, so regulatory policy can shift. A government could theoretically decide to lower allowed utility returns significantly, which would hurt Fortis shareholders.
 
-**Interest rate risk** matters because utilities finance their infrastructure with debt. When interest rates are high, the cost of borrowing money to build a new power plant goes up, which reduces the profit from that investment. Conversely, when rates fall, utilities benefit because they can refinance old debt at lower cost.
+**Interest rate risk** matters because utilities finance their infrastructure with debt. When [interest rates](/interest-rate/) are high, the cost of borrowing money to build a new power plant goes up, which reduces the profit from that investment. Conversely, when rates fall, utilities benefit because they can refinance old debt at lower cost.
 
 **Commodity risk** hits the natural gas business. If the price of natural gas rises, Fortis has to buy it at higher cost. Regulators will eventually allow the company to pass the higher cost through to customers, but there is usually a lag. That lag eats into margins.
 
-**Operational risk** is the day-to-day risk that something goes wrong — a dam fails, a pipeline ruptures, or a power plant breaks. These are catastrophic events. Fortis insures itself, but insurance is not perfect, and a major disaster could be very expensive.
+**[Operational risk](/operational-risk/)** is the day-to-day risk that something goes wrong — a dam fails, a pipeline ruptures, or a power plant breaks. These are catastrophic events. Fortis insures itself, but insurance is not perfect, and a major disaster could be very expensive.
 
 ## How to research Fortis
 
 Anyone studying Fortis should start with the annual 10-K filing (SEC CIK 0001666175) to understand which regulatory jurisdictions the company operates in, what the approved return is in each region, and what the company's rate base looks like. The quarterly earnings calls reveal management commentary on regulatory proceedings, infrastructure investment plans, and how the company is positioning for the energy transition.
 
-Key metrics include the regulated return on equity (the profit margin the regulator allows), debt-to-assets ratio (how much leverage the company carries), and dividend yield (what investors get paid). Also track the size of the rate base and the pace of capital investment — these indicate whether the company can keep growing even though its revenues are constrained.
+Key metrics include the regulated [return on equity](/return-on-equity/) (the profit margin the regulator allows), [debt-to-assets ratio](/debt-to-assets-ratio/) (how much leverage the company carries), and [dividend yield](/dividend-yield/) (what investors get paid). Also track the size of the rate base and the pace of capital investment — these indicate whether the company can keep growing even though its revenues are constrained.

@@ -34,7 +34,7 @@ The company's origin lies in the petroleum industry. M.W. Kellogg was founded in
 
 In 1998, Kellogg merged with Brown & Root, an older Houston-based engineering and construction company that had already built a substantial practice in military and government infrastructure work. The [merger](/merger/) created Kellogg Brown & Root, a diversified heavyweight with one foot in commercial energy and another in defense and government contracting. The combined entity grew rapidly, undertaking major construction projects, managing military facilities, and performing complex engineering work for federal agencies.
 
-KBR's trajectory changed significantly in 2006, when parent company Halliburton spun it off as a separate [public company](/wiki/public-company/). This separation reflected Halliburton's strategic focus on oilfield services and KBR's pivot toward a more government-centric business model. Once independent, KBR accelerated investment in its [10-K](/wiki/10-k/) and technology divisions serving the Intelligence Community and Department of Defense, even as it maintained its legacy licensing and energy engineering business.
+KBR's trajectory changed significantly in 2006, when parent company [Halliburton](/hal-stock/) spun it off as a separate [public company](/wiki/public-company/). This separation reflected Halliburton's strategic focus on oilfield services and KBR's pivot toward a more government-centric business model. Once independent, KBR accelerated investment in its [10-K](/wiki/10-k/) and technology divisions serving the Intelligence Community and Department of Defense, even as it maintained its legacy licensing and energy engineering business.
 
 ## Two distinct revenue engines
 

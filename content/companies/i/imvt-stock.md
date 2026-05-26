@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Immunovant is a clinical-stage biopharmaceutical company that has wagered its future on a specific scientific bet: that selectively reducing the population of B cells—white blood cells involved in autoimmune attack—can treat several serious autoimmune diseases without catastrophically weakening the patient's overall immune system. The company's stock trades on NASDAQ under the ticker IMVT. It is an early-stage bet on an emerging therapeutic approach, which means the company has little near-term revenue and carries genuine clinical and commercial risk.
+Immunovant is a clinical-stage biopharmaceutical company that has wagered its future on a specific scientific bet: that selectively reducing the population of B cells—white blood cells involved in autoimmune attack—can treat several serious autoimmune diseases without catastrophically weakening the patient's overall immune system. The company's stock trades on [NASDAQ](/nasdaq/) under the ticker IMVT. It is an early-stage bet on an emerging therapeutic approach, which means the company has little near-term revenue and carries genuine clinical and commercial risk.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ The path to approval is long. Even a drug that works in an early trial often fai
 
 If IMVT-1401 does win approval, the company would face another challenge: the market for autoimmune therapies is crowded and competitive. Large, established pharmaceutical companies have autoimmune franchises and the resources to compete on price, distribution, and clinical support. Immunovant would be the newcomer in a mature market. The value of an approval depends not just on the science working but on whether the company can convince doctors to prescribe it, whether payers will cover it, and whether patients will tolerate it.
 
-The company's cash runway is finite. Without successful clinical outcomes and a path to revenue, Immunovant will need to raise additional capital through equity offerings or partnerships. Raising capital at an early-stage biotech is possible but expensive; investors typically demand a lower stock price than early investors paid, which can dilute existing shareholders. Alternatively, a biotech company in Immunovant's position might seek a partnership or acquisition from a larger pharmaceutical company that sees value in the program and has resources to fund its completion.
+The company's cash runway is finite. Without successful clinical outcomes and a path to revenue, Immunovant will need to raise additional capital through equity offerings or partnerships. Raising capital at an early-stage biotech is possible but expensive; investors typically demand a lower stock price than early investors paid, which can dilute existing shareholders. Alternatively, a biotech company in Immunovant's position might seek a partnership or [acquisition](/acquisition/) from a larger pharmaceutical company that sees value in the program and has resources to fund its completion.
 
 On the upside, if the science works and the drug reaches patients, the market opportunity is substantial. Myasthenia gravis alone affects hundreds of thousands of people worldwide, and a new, effective treatment with a favorable safety profile could capture significant market share. The commercial potential of even one approved autoimmune drug can be billions of dollars per year. That potential is why Immunovant's stock exists and why investors participate—they believe in the upside, despite the substantial probability of failure.
 

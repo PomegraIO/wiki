@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Telekomunikasi Indonesia, commonly known as Telkom, is Indonesia's largest telecommunications company and the backbone of the nation's telecom infrastructure. The company operates the fixed-line telephone network, mobile cellular services, internet and data networks, and digital platforms across an archipelago of over 17,000 islands and more than 270 million people. Telkom's shares trade on the Indonesia Stock Exchange and are also available to international investors through American depositary receipts (ADRs) on NASDAQ under the ticker TLK.
+Telekomunikasi Indonesia, commonly known as Telkom, is Indonesia's largest telecommunications company and the backbone of the nation's telecom infrastructure. The company operates the fixed-line telephone network, mobile cellular services, internet and data networks, and digital platforms across an archipelago of over 17,000 islands and more than 270 million people. Telkom's shares trade on the Indonesia [Stock Exchange](/stock-exchange/) and are also available to international investors through [American depositary receipts](/adr/) (ADRs) on [NASDAQ](/nasdaq/) under the ticker TLK.
 
 <aside class="wiki-infobox">
 <table>
@@ -69,7 +69,7 @@ Against these advantages, Telkom faces structural challenges. As a state-owned e
 
 Telkom generates revenue across fixed, mobile, and digital segments, with fixed-line providing stability and digital representing the growth opportunity. The company's profitability is healthy but comes under pressure from intense competition in mobile services and pricing pressures in consumer broadband.
 
-Capital intensity is high. Maintaining and upgrading the nationwide network requires continuous investment in fiber deployment, data centers, and technology infrastructure. Telkom's ability to generate strong free cash flow and return capital to shareholders depends on balancing growth investment with operational efficiency.
+Capital intensity is high. Maintaining and upgrading the nationwide network requires continuous investment in fiber deployment, data centers, and technology infrastructure. Telkom's ability to generate strong [free cash flow](/free-cash-flow/) and return capital to shareholders depends on balancing growth investment with operational efficiency.
 
 ## Key risks and considerations
 
@@ -81,6 +81,6 @@ Technology disruption could erode traditional telecom revenues — though this i
 
 ## How to research Telkom as an investment
 
-Start with Telkom's annual report (SEC CIK 0001001807 for ADR investors), which details revenue by segment, customer metrics (mobile subscribers, broadband penetration), and capital expenditure plans. Quarterly earnings releases are essential — track trends in mobile subscriber growth, fixed-line broadband revenue, ARPU trends in each segment, and management's commentary on regulatory developments and competitive dynamics.
+Start with Telkom's [annual report](/10-k/) (SEC CIK 0001001807 for ADR investors), which details revenue by segment, customer metrics (mobile subscribers, broadband penetration), and capital expenditure plans. Quarterly earnings releases are essential — track trends in mobile subscriber growth, fixed-line broadband revenue, ARPU trends in each segment, and management's commentary on regulatory developments and competitive dynamics.
 
-Key metrics: total revenue by segment, mobile subscriber counts, broadband ARPU and penetration, free cash flow, dividend policy, and debt levels. Compare Telkom's valuation multiples to other emerging-market telecom operators and to its own historical range. Follow Indonesia's macroeconomic indicators and regulatory announcements that could affect the telecom sector.
+Key metrics: total revenue by segment, mobile subscriber counts, broadband ARPU and penetration, free cash flow, [dividend](/dividend/) policy, and debt levels. Compare Telkom's valuation multiples to other emerging-market telecom operators and to its own historical range. Follow Indonesia's macroeconomic indicators and regulatory announcements that could affect the telecom sector.

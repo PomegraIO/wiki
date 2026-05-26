@@ -34,13 +34,13 @@ Private-label represents a meaningful chunk of the business. A supermarket chain
 
 ## Competitive position and scale
 
-Coffee Holding is genuinely small in an industry dominated by global giants. Nestlé's Nespresso, Starbucks, and massive commodity traders like Olam and Marfrig dwarf it in revenue and brand reach. Yet the company operates in a genuine niche — the distributed, regional wholesale channel that neither the mass-market giants nor the third-wave artisanal roasters fully serve. It maintains relationships with major retail chains and regional foodservice distributors, which is not an easy position to lose if you execute consistently.
+Coffee Holding is genuinely small in an industry dominated by global giants. Nestlé's Nespresso, [Starbucks](/sbux-stock/), and massive commodity traders like Olam and Marfrig dwarf it in revenue and brand reach. Yet the company operates in a genuine niche — the distributed, regional wholesale channel that neither the mass-market giants nor the third-wave artisanal roasters fully serve. It maintains relationships with major retail chains and regional foodservice distributors, which is not an easy position to lose if you execute consistently.
 
 The company operates roasting facilities and has invested in equipment and automation over the years, but remains modestly capitalized. Unlike a Starbucks, which owns stores and brand equity globally, JVA's value is largely in its customer relationships, its roasting expertise, and its operational efficiency. Competitors are real — larger regional roasters, Starbucks' own wholesale arm (which can undercut price or bundle with store partnerships), and new craft roasters entering the market. But the wholesale commodity end of coffee is not as glamorous or volatile as retail consumer brands, so it attracts less attention from new entrants.
 
 ## How coffee commodity exposure shapes the business
 
-Coffee is a [commodity](/wiki/commodity/), traded globally in [US dollars](/us-dollar/), with prices set by the [futures market](/wiki/commodity-futures-trading-commission/). JVA's input costs rise and fall with commodity coffee prices, a dynamic it must navigate through pricing power to customers (which is limited in competitive wholesale channels) and through hedging or inventory management.
+Coffee is a commodity, traded globally in [US dollars](/us-dollar/), with prices set by the [futures market](/wiki/commodity-futures-trading-commission/). JVA's input costs rise and fall with commodity coffee prices, a dynamic it must navigate through pricing power to customers (which is limited in competitive wholesale channels) and through hedging or inventory management.
 
 When commodity coffee prices spike — driven by weather in Brazil or Colombia, currency moves, or shifts in global supply — JVA's gross margins get squeezed if it cannot immediately pass costs through to customers. Conversely, a sharp drop in green coffee costs can improve margins, but only if the company has already locked in customer pricing. This lag between input costs and customer pricing is a real [operational risk](/operational-risk/) for a low-margin wholesale business.
 

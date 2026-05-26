@@ -59,7 +59,7 @@ Shimadzu also has strength in Asia. The company is Japanese and has deep ties in
 
 Shimadzu will never be as high-growth or as profitable-looking as a software company, because equipment manufacturing is capital-intensive and margins are real but not spectacular. Building an X-ray machine is expensive. Shipping it worldwide is expensive. Servicing it for twenty years is labor-intensive. The company makes money because its machines are good and last a long time, but the returns on capital are solid, not phenomenal.
 
-That stability is an advantage in bad economic times. When a recession hits and companies tighten budgets, they postpone buying new lab equipment. But the equipment they already have still needs maintenance and still works—so service revenue is more durable than new equipment sales. Shimadzu, like other instrument makers, benefits from that built-in base of recurring business.
+That stability is an advantage in bad economic times. When a [recession](/recession/) hits and companies tighten budgets, they postpone buying new lab equipment. But the equipment they already have still needs maintenance and still works—so service revenue is more durable than new equipment sales. Shimadzu, like other instrument makers, benefits from that built-in base of recurring business.
 
 The company is also exposed to pharmaceutical and industrial spending. When drug companies cut research budgets or manufacturing slows, demand for analytical equipment falls. When those industries are strong, demand rises. This means Shimadzu's growth moves with broader economic cycles.
 

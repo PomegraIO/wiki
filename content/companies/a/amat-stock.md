@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Applied Materials is the largest supplier of process equipment used in semiconductor and display manufacturing worldwide, occupying a linchpin role in the global chip supply chain.** Founded in 1967, the company built its fortune on the insight that becoming the most advanced wafer-process equipment maker—rather than trying to make the chips themselves—meant working with every major chipmaker in every generation of technology. Today, the company sells to TSMC, Samsung, Intel, and China's semiconductor fabs, shipping tools that deposit thin films, etch silicon, and measure defects across fabrication lines.
+**Applied Materials is the largest supplier of process equipment used in semiconductor and display manufacturing worldwide, occupying a linchpin role in the global chip supply chain.** Founded in 1967, the company built its fortune on the insight that becoming the most advanced wafer-process equipment maker—rather than trying to make the chips themselves—meant working with every major chipmaker in every generation of technology. Today, the company sells to TSMC, Samsung, [Intel](/intc-stock/), and China's semiconductor fabs, shipping tools that deposit thin films, etch silicon, and measure defects across fabrication lines.
 
 ## The Process Equipment Moat
 

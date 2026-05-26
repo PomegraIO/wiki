@@ -35,7 +35,7 @@ The merger, closed in 2022, reunited two legacy media powerhouses that had opera
 
 The combined company inherited substantial debt from both predecessors. At formation, pro forma leverage (debt-to-EBITDA) approached or exceeded 5x, well above the comfort zone for media companies facing secular headwinds in linear television. The merged entity's interest expense became a major operating cost, and [refinancing risk](/refinancing-risk/) emerged as debt matured in a higher-rate environment.
 
-The mounting debt, combined with the company's own struggles in streaming profitability (Max burned cash for years while competing with [Netflix](/wiki/public-company/) and others), created pressure to generate cash and reduce leverage quickly. This constraint shaped strategic decisions: the company became more aggressive about licensing content to rivals (notably, licensing HBO content to Netflix and Amazon Prime), divested certain assets, and eventually announced plans for a structural separation.
+The mounting debt, combined with the company's own struggles in streaming profitability (Max burned cash for years while competing with [Netflix](/wiki/public-company/) and others), created pressure to generate cash and reduce leverage quickly. This constraint shaped strategic decisions: the company became more aggressive about licensing content to rivals (notably, licensing HBO content to [Netflix](/nflx-stock/) and Amazon Prime), divested certain assets, and eventually announced plans for a structural separation.
 
 ## What is the planned separation strategy?
 

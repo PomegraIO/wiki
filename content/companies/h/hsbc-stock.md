@@ -13,7 +13,7 @@ handwritten: true
 
 > "A bank is a financial arrangement where you give them your money and they pretend it belongs to them."
 
-A joke, but not far from the truth. HSBC is a universal bank — it takes deposits from individuals and corporations, lends money, trades securities, advises on mergers and acquisitions, manages wealth for the very rich, and clears payments between currencies and countries. It does all of these things at a scale that strains comprehension: HSBC serves more than 60 million customers across roughly 60 countries, holding hundreds of billions of dollars in deposits and managing trillions in assets under administration.
+A joke, but not far from the truth. HSBC is a universal bank — it takes deposits from individuals and corporations, lends money, trades securities, advises on [mergers](/merger/) and [acquisitions](/acquisition/), manages wealth for the very rich, and clears payments between currencies and countries. It does all of these things at a scale that strains comprehension: HSBC serves more than 60 million customers across roughly 60 countries, holding hundreds of billions of dollars in deposits and managing trillions in assets under administration.
 
 The weight of this scale and complexity is visible in every aspect of the business. HSBC cannot move quickly. It cannot abandon a geography without triggering a decade of regulatory unwinding. It cannot fail without destabilising the global financial system. This is a bank that exists not because it is lean or innovative, but because it is too big to fail and because the plumbing of global finance depends on institutions like it.
 
@@ -39,7 +39,7 @@ HSBC is now organised around five main segments. The largest is **Asia-Pacific**
 
 The fourth and fifth are more complex: **commercial banking** (loans and services to mid-market and large companies across the bank's footprint) and **global banking and markets** (investment banking, trading, capital markets services, and payments clearing). These are high-margin but volatile — they swing with market conditions, client risk appetite, and the level of fee-based business.
 
-The revenue picture is that HSBC is a deposit-taking, lending business supplemented by significant fee income from advisory, wealth management, trading, and payments. Interest margins — the spread between what the bank pays on deposits and what it earns on loans — are the bulk of profit. Everything else (fees, trading, insurance) is gravy, but it is also variable. When interest rates are high, HSBC makes more money from lending; when interest rates are low, the margins compress and the bank must rely more on fees and trading income.
+The revenue picture is that HSBC is a deposit-taking, lending business supplemented by significant fee income from advisory, wealth management, trading, and payments. Interest margins — the spread between what the bank pays on deposits and what it earns on loans — are the bulk of profit. Everything else (fees, trading, insurance) is gravy, but it is also variable. When [interest rates](/interest-rate/) are high, HSBC makes more money from lending; when interest rates are low, the margins compress and the bank must rely more on fees and trading income.
 
 ## The Achilles' heel: compliance and legacy issues
 
@@ -53,7 +53,7 @@ The cost of compliance is extraordinary. The bank now employs thousands of peopl
 
 HSBC is not a growth company. The bank operates in mature markets with slow nominal growth, and it is not gaining market share in most of them. Revenue has been essentially flat for a decade; the bank is trying to grow by investing in Asia and pushing the wealth-management business, but these are incremental. The investment thesis for HSBC is not growth but relative value and earnings stability.
 
-The bank generates very strong operating cash flow and has regularly returned capital to shareholders through dividends and buybacks. But HSBC must hold enormous quantities of capital to satisfy regulators — enough to absorb losses in a severe recession. How much capital that is, and how much can be returned to shareholders, depends on the regulatory environment and on the bank's own risk assessments.
+The bank generates very strong operating cash flow and has regularly returned capital to shareholders through [dividends](/dividend/) and buybacks. But HSBC must hold enormous quantities of capital to satisfy regulators — enough to absorb losses in a severe [recession](/recession/). How much capital that is, and how much can be returned to shareholders, depends on the regulatory environment and on the bank's own risk assessments.
 
 One structural issue is deposit dynamics in the UK and Asia. In ultra-low interest-rate environments, customers hunt for yield and migrate deposits away from no-yield accounts. In high-rate environments like the one that prevailed in 2023–2025, deposit costs for banks rise and compete with loan yields. HSBC must navigate this carefully — losing deposits while rates are high is particularly dangerous because it forces the bank to fund itself in the market at expensive rates.
 

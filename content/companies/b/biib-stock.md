@@ -47,7 +47,7 @@ The Alzheimer's bet is larger. Biogen and its partner Eli Lilly co-developed Adu
 
 Biogen invests heavily in research and development, typically spending 20–25% of revenue in this area. The company has a handful of drugs in mid-to-late-stage clinical trials and a broader pipeline of earlier-stage candidates. Success in drug development is probabilistic — only a small fraction of drugs that enter clinical trials ultimately reach patients — so Biogen must balance investment in its current revenue drivers with funding for next-generation therapies.
 
-The company has also pursued acquisitions and partnerships to in-license drugs from smaller biotech companies, a common strategy to strengthen the pipeline. These deals can be expensive; a successful asset in mid-stage testing can cost hundreds of millions of dollars, and Biogen's balance sheet and cash generation historically supported this approach. However, the company's recent focus has shifted toward capital discipline and returning cash to shareholders through dividends and buybacks, rather than pursuing aggressive M&A.
+The company has also pursued [acquisitions](/acquisition/) and partnerships to in-license drugs from smaller biotech companies, a common strategy to strengthen the pipeline. These deals can be expensive; a successful asset in mid-stage testing can cost hundreds of millions of dollars, and Biogen's [balance sheet](/balance-sheet/) and cash generation historically supported this approach. However, the company's recent focus has shifted toward capital discipline and returning cash to shareholders through [dividends](/dividend/) and buybacks, rather than pursuing aggressive M&A.
 
 ## The patent cliff and margin pressure
 

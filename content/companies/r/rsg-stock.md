@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Republic Services collects and disposes of garbage and recycling. It is the second-largest waste-management company in America by revenue, operating collection routes and transfer stations and landfills across the country. This is unglamorous, essential work. People and businesses have to get rid of their trash every single week, come recession or prosperity, and someone needs the equipment, the routes, and the landfill capacity to handle it. Republic Services owns that infrastructure.
+Republic Services collects and disposes of garbage and recycling. It is the second-largest waste-management company in America by revenue, operating collection routes and transfer stations and landfills across the country. This is unglamorous, essential work. People and businesses have to get rid of their trash every single week, come [recession](/recession/) or prosperity, and someone needs the equipment, the routes, and the landfill capacity to handle it. Republic Services owns that infrastructure.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Republic Services collects and disposes of garbage and recycling. It is the seco
 
 ## The consolidation story
 
-Waste management in America used to be a fragmented industry — thousands of small, regional haulers run by local families. Republic Services is a roll-up story. It started as a smaller regional player and spent the 1990s and 2000s acquiring competitors and smaller waste companies, each time absorbing their routes and infrastructure into a larger network.
+[Waste management](/wm-stock/) in America used to be a fragmented industry — thousands of small, regional haulers run by local families. Republic Services is a roll-up story. It started as a smaller regional player and spent the 1990s and 2000s acquiring competitors and smaller waste companies, each time absorbing their routes and infrastructure into a larger network.
 
 This consolidation made economic sense. A large operator can negotiate better rates with landfills, buy equipment in bulk, optimize collection routes across a wider area, and share administrative overhead across more customers. By the 2010s, the industry had consolidated into a handful of large public players: Waste Management (WM, the biggest), Republic Services, and a few others. The consolid­ators have largely saturated the U.S. market — there are not many meaningful independent waste companies left to buy.
 
@@ -63,6 +63,6 @@ Regulatory risk exists on two fronts. Landfill regulations and environmental sta
 
 ## How to research the company
 
-The starting point is the annual 10-K (SEC CIK 0001060391), which breaks out revenue by service type, regional exposure, and landfill volumes. The quarterly earnings calls are where management walks through collection pricing, volume trends, and margins. Watch the same-store growth (organic growth in the existing business, excluding acquisitions) and the margin trajectory.
+The starting point is the annual 10-K (SEC CIK 0001060391), which breaks out revenue by service type, regional exposure, and landfill volumes. The quarterly earnings calls are where management walks through collection pricing, volume trends, and margins. Watch the same-store growth (organic growth in the existing business, excluding [acquisitions](/acquisition/)) and the margin trajectory.
 
-Key metrics are the volume of waste collected (or hauls per customer), pricing per haul, and the contribution margin from each service line. Investors also track the company's capital expenditure and free cash flow, because this is a cash-generative business with a predictable capex need. The share price generally reflects expectations for steady dividend growth rather than rapid revenue expansion — the market values this as a steady, essential utility rather than a growth story.
+Key metrics are the volume of waste collected (or hauls per customer), pricing per haul, and the [contribution margin](/contribution-margin/) from each service line. Investors also track the company's capital expenditure and [free cash flow](/free-cash-flow/), because this is a cash-generative business with a predictable capex need. The share price generally reflects expectations for steady [dividend](/dividend/) growth rather than rapid revenue expansion — the market values this as a steady, essential utility rather than a growth story.

@@ -25,7 +25,7 @@ IonQ's approach uses individual ions (charged atoms) held in a vacuum chamber by
 
 Quantum computers are not faster at all problems. They are potentially faster at specific narrow categories: certain optimization problems (routing, resource allocation, financial modeling), drug discovery and molecular simulation, machine learning, and database search. IonQ's sales strategy focuses on enterprises in pharmaceuticals, materials science, finance, and optimization-heavy industries that believe quantum computers might offer an edge.
 
-The company does not sell hardware directly as a product; instead, it licenses access through cloud APIs and partnerships. Major cloud providers like Amazon, Microsoft, and others have integrated IonQ's systems into their quantum-computing offerings, allowing customers to run algorithms on IonQ hardware remotely. This model avoids the capital intensity of selling expensive quantum machines directly, but it also means IonQ's value depends entirely on whether end customers find meaningful commercial use for its systems.
+The company does not sell hardware directly as a product; instead, it licenses access through cloud APIs and partnerships. Major cloud providers like Amazon, [Microsoft](/msft-stock/), and others have integrated IonQ's systems into their quantum-computing offerings, allowing customers to run algorithms on IonQ hardware remotely. This model avoids the capital intensity of selling expensive quantum machines directly, but it also means IonQ's value depends entirely on whether end customers find meaningful commercial use for its systems.
 
 ## What makes IonQ competitive, and where are the risks?
 

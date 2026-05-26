@@ -37,13 +37,13 @@ The business is simple. Money flows in from interest and fees. Money flows out a
 
 ## The credit card market and margins
 
-The credit card market is divided into segments. Prime customers have high credit scores, low debt, and strong histories of paying on time. They get low interest rates (maybe 15 to 18 percent annually). Banks do not make much money on them because the default risk is low and competition among banks to serve them is fierce.
+The credit card market is divided into segments. Prime customers have high credit scores, low debt, and strong histories of paying on time. They get low [interest rates](/interest-rate/) (maybe 15 to 18 percent annually). Banks do not make much money on them because the default risk is low and competition among banks to serve them is fierce.
 
 Non-prime customers — people with lower credit scores, higher debt, or weaker payment histories — get higher interest rates (maybe 25 to 29 percent annually). Banks make more money on each dollar lent, because they are charging more to cover the higher default risk.
 
 Capital One targets non-prime customers. It is willing to lend to people the biggest banks will not touch, in exchange for higher rates. This is not charity. Capital One expects some customers to default, and it prices accordingly.
 
-The metric that captures this is the net interest margin — the difference between what the bank earns on its loans (the interest rate) and what it pays on deposits and borrows in the wholesale market. Capital One's margins are wider than a prime-focused card issuer like American Express because it lends to riskier people at higher rates.
+The metric that captures this is the net interest margin — the difference between what the bank earns on its loans (the interest rate) and what it pays on deposits and borrows in the wholesale market. Capital One's margins are wider than a prime-focused card issuer like [American Express](/axp-stock/) because it lends to riskier people at higher rates.
 
 ## Credit losses and the risk model
 
@@ -51,7 +51,7 @@ Credit losses are the reason not everyone wants to lend to non-prime customers. 
 
 The company has to predict, in advance, how many customers will not pay, and how much it will lose from them. This is modeled as a charge-off rate — the percentage of the portfolio that is written off as uncollectible — and the company sets aside reserves for expected losses. If losses turn out higher than expected, the company has to take a charge that reduces earnings. If losses are lower, it releases reserves and earnings are boosted.
 
-This makes Capital One's earnings volatile. In good economic times, when unemployment is low and people are spending freely, credit losses can be surprisingly mild. In recessions, they spike. The company also faces model risk — if its model of which customers will default turns out to be wrong, it can misprice risk across its entire portfolio.
+This makes Capital One's earnings volatile. In good economic times, when unemployment is low and people are spending freely, credit losses can be surprisingly mild. In [recessions](/recession/), they spike. The company also faces [model risk](/model-risk/) — if its model of which customers will default turns out to be wrong, it can misprice risk across its entire portfolio.
 
 ## How the numbers work
 
@@ -71,7 +71,7 @@ Capital One was created in 1988 as a division of a Virginia bank. It spun out an
 
 This expansion into traditional banking was strategic. It gave Capital One a large source of cheap deposits (people's savings accounts) that it could use to fund lending, which is much cheaper than borrowing in wholesale markets. A traditional bank funded by deposits has a different economics than a pure card issuer that borrows money wholesale.
 
-However, this also made Capital One subject to more regulation. Traditional banks are overseen by the Federal Reserve and other regulators, and they have to maintain minimum capital ratios, undergo stress tests, and follow rules around how much they can lend. A pure card issuer is less regulated.
+However, this also made Capital One subject to more regulation. Traditional banks are overseen by the [Federal Reserve](/federal-reserve/) and other regulators, and they have to maintain minimum capital ratios, undergo stress tests, and follow rules around how much they can lend. A pure card issuer is less regulated.
 
 ## Pressure and risk
 
@@ -79,13 +79,13 @@ Capital One faces multiple pressures. Interest rates set by the Federal Reserve 
 
 Regulatory scrutiny is another risk. There have been periods when regulators have pushed banks to tighten lending to subprime borrowers, concerned about predatory lending or about economic instability. Capital One's core business is subprime, so any regulatory crackdown hits the company directly. In 2019, Capital One suffered a major data breach exposing information on millions of customers, which increased regulatory pressure and customer-service challenges.
 
-Economic recession is an existential risk for a consumer lender. In a recession, unemployment rises, people lose income, and default rates spike. Capital One can lose billions of dollars in a severe recession. The company has stress-tested itself against various economic scenarios, but stress tests are backward-looking; an unprecedented crisis could be worse.
+Economic recession is an existential risk for a consumer lender. In a recession, unemployment rises, people lose income, and [default rates](/default-rate/) spike. Capital One can lose billions of dollars in a severe recession. The company has stress-tested itself against various economic scenarios, but stress tests are backward-looking; an unprecedented crisis could be worse.
 
 Competition is also intense. Fintech companies have entered consumer lending, using data science and mobile apps to compete with traditional banks. Credit unions and large banks are also competing for customers.
 
 ## How to research Capital One
 
-The company's annual 10-K filing (SEC CIK 0000927628) contains detailed disclosures about its loan portfolio, charge-off rates, and loss reserves. Read the section on credit exposure carefully — it should break down loans by credit score band, by geography, by age, and by how recently they were originated. Pay attention to trends in charge-off rates and delinquency rates (the percentage of customers who are late on payments).
+The company's annual 10-K filing (SEC CIK 0000927628) contains detailed disclosures about its loan portfolio, charge-off rates, and loss reserves. Read the section on credit exposure carefully — it should break down loans by credit score band, by geography, by age, and by how recently they were originated. Pay attention to trends in charge-off rates and [delinquency](/delinquency/) rates (the percentage of customers who are late on payments).
 
 Watch the net interest margin. This is the spread between what the company earns on loans and what it pays on deposits. A widening margin is good for earnings; a narrowing margin is pressure.
 

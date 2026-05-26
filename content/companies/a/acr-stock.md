@@ -11,7 +11,7 @@ handwritten: true
 
 ## What exactly does ACRES invest in?
 
-ACRES Commercial Realty is a mortgage [REIT](/wiki/reit/) centered on originating, holding, and managing [commercial real estate](/commercial-real-estate/) debt. Rather than owning property directly, the firm extends credit across the CRE spectrum—floating-rate first mortgage loans, mezzanine financing, preferred equity stakes, and senior debt positions. Its portfolio touches multifamily, student housing, hospitality, office, and industrial assets across major U.S. markets, typically targeting middle-market opportunities where pricing and structure justify the complexity of direct credit management.
+ACRES Commercial Realty is a mortgage REIT centered on originating, holding, and managing [commercial real estate](/commercial-real-estate/) debt. Rather than owning property directly, the firm extends credit across the CRE spectrum—floating-rate first mortgage loans, mezzanine financing, preferred equity stakes, and senior debt positions. Its portfolio touches multifamily, student housing, hospitality, office, and industrial assets across major U.S. markets, typically targeting middle-market opportunities where pricing and structure justify the complexity of direct credit management.
 
 ## Who actually runs the company?
 
@@ -27,4 +27,4 @@ Scale and sentiment matter. ACRES trades as a micro-cap in the REIT universe, me
 
 ## How does the capital structure work?
 
-Like other [mortgage REITs](/mortgage-reit/), ACRES funds its loan portfolio through a mix of equity, preferred shares, and debt. The mortgage REIT structure itself mandates a high [dividend](/wiki/dividend/) [payout ratio](/payout-ratio/)—typically 90% or more of taxable income must flow to shareholders, which constrains retained capital for loan growth and loss buffers. The company's micro-cap stature also means less investor demand and potentially higher borrowing costs than mega-cap peers. Understanding the [leverage](/wiki/leverage/) ratios and debt maturity profile proves critical to evaluating default risk when economic conditions tighten and borrowers face stress.
+Like other [mortgage REITs](/mortgage-reit/), ACRES funds its loan portfolio through a mix of equity, preferred shares, and debt. The mortgage REIT structure itself mandates a high [dividend](/wiki/dividend/) [payout ratio](/payout-ratio/)—typically 90% or more of taxable income must flow to shareholders, which constrains retained capital for loan growth and loss buffers. The company's micro-cap stature also means less investor demand and potentially higher borrowing costs than mega-cap peers. Understanding the leverage ratios and debt maturity profile proves critical to evaluating default risk when economic conditions tighten and borrowers face stress.

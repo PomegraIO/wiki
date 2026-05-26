@@ -80,14 +80,14 @@ Additionally, Ciena's own business is capital-intensive. The company operates ma
 
 ## Capital allocation
 
-Ciena has historically invested significant cash back into the business through research and development. The company also occasionally acquires smaller technology firms to acquire capabilities or technology. Ciena bought Acacia Communications to expand its optical technology portfolio. Like most high-tech companies, Ciena also returns cash to shareholders through buybacks and dividends, though the company is not as mature as to return massive sums.
+Ciena has historically invested significant cash back into the business through research and development. The company also occasionally acquires smaller technology firms to acquire capabilities or technology. Ciena bought Acacia Communications to expand its optical technology portfolio. Like most high-tech companies, Ciena also returns cash to shareholders through buybacks and [dividends](/dividend/), though the company is not as mature as to return massive sums.
 
 ## How to research Ciena as an investment
 
 Start with the annual 10-K (SEC CIK 0000936395). Look at the breakdown of revenue by customer and geography. Check who the top customers are and what percentage of revenue they represent. Read the risk factors — there will be discussion of carrier spending cycles and technology risks.
 
-The quarterly earnings call is important because Ciena management provides forward guidance and commentary on the order pipeline. Pipeline visibility matters for this business — if management sounds confident about upcoming quarters, that is a positive signal. If the pipeline is weak, it is a warning.
+The quarterly earnings call is important because Ciena management provides [forward guidance](/forward-guidance/) and commentary on the order pipeline. Pipeline visibility matters for this business — if management sounds confident about upcoming quarters, that is a positive signal. If the pipeline is weak, it is a warning.
 
-Key metrics to watch include revenue growth, gross margin (showing whether the company can maintain pricing power), research and development spending as a percentage of revenue (showing the company's commitment to staying ahead technologically), and free cash flow. Also watch for any commentary on specific customers — the loss of a major carrier or a delay in a big order is material.
+Key metrics to watch include revenue growth, gross margin (showing whether the company can maintain pricing power), research and development spending as a percentage of revenue (showing the company's commitment to staying ahead technologically), and [free cash flow](/free-cash-flow/). Also watch for any commentary on specific customers — the loss of a major carrier or a delay in a big order is material.
 
 Ciena is fundamentally a supplier of essential but invisible infrastructure. It is not a consumer-facing company, and it is not a growth stock in the high-multiple sense. But it is a durable, profitable business with recurring revenue from carriers that depend on its technology. Understanding it requires attention to both the long-term secular growth in data traffic and the near-term cyclicality of carrier spending.

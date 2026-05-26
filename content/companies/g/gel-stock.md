@@ -32,7 +32,7 @@ Regulatory change poses another layer of risk. Environmental reviews for pipelin
 
 ## Position in the Industry
 
-Genesis occupies a middle position in the energy midstream sector. It is smaller and more specialized than integrated giants like Enterprise Products or Kinder Morgan, both of which operate vast diversified pipeline networks. Genesis's focus on offshore systems gives it distinctive expertise but also concentrates exposure to Gulf of Mexico economics. The soda ash and marine segments are niche assets that do not fit easily into peer-group comparisons, which is both a differentiation and a complication for valuation.
+Genesis occupies a middle position in the energy midstream sector. It is smaller and more specialized than integrated giants like Enterprise Products or [Kinder Morgan](/kmi-stock/), both of which operate vast diversified pipeline networks. Genesis's focus on offshore systems gives it distinctive expertise but also concentrates exposure to Gulf of Mexico economics. The soda ash and marine segments are niche assets that do not fit easily into peer-group comparisons, which is both a differentiation and a complication for valuation.
 
 The company's MLP structure affects its competitive and financial profile. MLPs can retain less earnings for growth because they must distribute cash; this limits their ability to fund major [acquisitions](/acquisition/) or expansions without issuing new units. Conversely, the pass-through tax structure appeals to institutional investors—pension funds, insurance companies, and tax-exempt entities—who value the cash distributions and are less sensitive to entity-level tax drag.
 

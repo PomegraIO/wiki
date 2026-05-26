@@ -29,5 +29,5 @@ ASIAFIN operates within the SEC framework as a US-listed public company and must
 
 ## Where can you find the full picture?
 
-Review the company's [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings in the SEC database for revenue breakdowns, segment performance, risk disclosures, and management's view of competitive dynamics. These filings will detail which markets generate the most activity, which business lines are growing, and what regulatory or [market risks](/market-risk/) loom. The form 20-F or any proxy statements provide additional governance and ownership context. For real-time trading activity, watch major Asia-Pacific exchanges to see if ASIAFIN is an active intermediary in your target markets.
+Review the company's [10-K](/wiki/10-k/) annual report and 10-Q quarterly filings in the SEC database for revenue breakdowns, segment performance, risk disclosures, and management's view of competitive dynamics. These filings will detail which markets generate the most activity, which business lines are growing, and what regulatory or [market risks](/market-risk/) loom. The form 20-F or any proxy statements provide additional governance and ownership context. For real-time trading activity, watch major Asia-Pacific exchanges to see if ASIAFIN is an active intermediary in your [target](/tgt-stock/) markets.
 

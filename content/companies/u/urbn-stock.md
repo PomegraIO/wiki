@@ -34,7 +34,7 @@ Revenue is split between apparel and footwear sales and home goods and related m
 
 ## The physical store paradox
 
-Urban Outfitters is a creature of the mall and city street, with more than a thousand stores globally at any given time. The physical store is central to the brand experience and customer acquisition, especially for younger customers who are drawn into stores by browsing, discovering unexpected items, and the curated in-store environment. Yet stores are expensive to operate: rent, labor, utilities, shrinkage, and inventory carrying costs all bite into margin. The company has worked for years to right-size its store fleet, closing underperforming locations and investing in high-productivity locations. During periods when foot traffic was weak or e-commerce was eating share, store closures accelerated; when traffic recovered, the company stabilized the store base.
+Urban Outfitters is a creature of the mall and city street, with more than a thousand stores globally at any given time. The physical store is central to the brand experience and customer [acquisition](/acquisition/), especially for younger customers who are drawn into stores by browsing, discovering unexpected items, and the curated in-store environment. Yet stores are expensive to operate: rent, labor, utilities, shrinkage, and inventory carrying costs all bite into margin. The company has worked for years to right-size its store fleet, closing underperforming locations and investing in high-productivity locations. During periods when foot traffic was weak or e-commerce was eating share, store closures accelerated; when traffic recovered, the company stabilized the store base.
 
 ## Inventory and assortment
 
@@ -50,11 +50,11 @@ Digital channels — the company's website and mobile app — now account for a 
 
 ## Margin structure and profitability
 
-Like most specialty retail, Urban Outfitters operates on thin gross margins — typically in the low-to-mid 40s as a percentage of sales, before occupancy and labor costs. Merchandise margins are set by the difference between the cost paid to vendors and the retail price, and that gap is compressed by a mix of full-price sales and markdown clearance. Operating margins are much lower, as the company must cover store rent, employee wages, distribution, marketing, and corporate overhead from what is left after merchandise costs and occupancy. Small changes in traffic, conversion, or average transaction value ripple significantly into profitability.
+Like most specialty retail, Urban Outfitters operates on thin gross margins — typically in the low-to-mid 40s as a percentage of sales, before occupancy and labor costs. Merchandise margins are set by the difference between the cost paid to vendors and the retail price, and that gap is compressed by a mix of full-price sales and markdown clearance. [Operating margins](/operating-margin/) are much lower, as the company must cover store rent, employee wages, distribution, marketing, and corporate overhead from what is left after merchandise costs and occupancy. Small changes in traffic, conversion, or average transaction value ripple significantly into profitability.
 
 ## Exposure and risk
 
-Urban Outfitters is exposed to consumer discretionary spending — if a recession occurs or unemployment rises, customers postpone fashion and home-décor purchases. The company is also exposed to inventory risk, as fashion retail is inherently unpredictable. Tenant exposure is significant; store leases run for years, so store closures are not cost-free and shifting to smaller formats or different locations can take time. Competition from e-commerce specialists, fast-fashion retailers, and department stores is intense and ongoing. Brand loyalty helps, but it is not unbreakable.
+Urban Outfitters is exposed to consumer [discretionary spending](/discretionary-spending/) — if a [recession](/recession/) occurs or unemployment rises, customers postpone fashion and home-décor purchases. The company is also exposed to inventory risk, as fashion retail is inherently unpredictable. Tenant exposure is significant; store leases run for years, so store closures are not cost-free and shifting to smaller formats or different locations can take time. Competition from e-commerce specialists, fast-fashion retailers, and department stores is intense and ongoing. Brand loyalty helps, but it is not unbreakable.
 
 ## Researching Urban Outfitters
 

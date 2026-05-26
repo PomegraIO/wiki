@@ -13,7 +13,7 @@ handwritten: true
 
 Carvana disrupted the used-car market in the United States by asking a simple question: why do people have to visit a dealership lot to buy a car? Dealerships have existed for a century because they were the only practical way to bring buyers and sellers together and handle the logistics of inspection, financing, and delivery. Carvana wagered that the internet, logistics technology, and consumer comfort with online retail could break that dependence. The company built an online platform where customers browse thousands of used cars, research specifications and history, arrange financing, and buy a vehicle entirely digitally. Carvana then handles inspection, refurbishment, delivery, and returns. The result is a company that has grown from nothing in 2012 to one of the largest used-car retailers in the country.
 
-The stock trades on the NASDAQ under the ticker CVNA. Carvana is backed by Driveaway (formerly Drayton venture partners), which owns most of the shares. The company went through a difficult financial period in 2022 and 2023, nearly ran out of cash, cut costs sharply, and recently moved back toward profitability. The arc of the company tells a story about how digital disruption can begin with promise, collide with reality, and then begin again with humbled expectations.
+The stock trades on the [NASDAQ](/nasdaq/) under the ticker CVNA. Carvana is backed by Driveaway (formerly Drayton venture partners), which owns most of the shares. The company went through a difficult financial period in 2022 and 2023, nearly ran out of cash, cut costs sharply, and recently moved back toward profitability. The arc of the company tells a story about how digital disruption can begin with promise, collide with reality, and then begin again with humbled expectations.
 
 ## The founding idea and early growth
 
@@ -39,7 +39,7 @@ The capital requirements for this business are substantial. Carvana must:
 - Operate data infrastructure and logistics platforms.
 - Deliver cars to customers' homes or facilitate pickup.
 - Manage collections and financing operations.
-- Run advertising to drive customer acquisition.
+- Run advertising to drive customer [acquisition](/acquisition/).
 
 All of this requires cash and capital, and for years Carvana was willing to spend aggressively to grow market share. The company expanded from a handful of markets to operating in dozens of cities and states. It opened massive facilities where cars were inventoried, reconditioned, and staged for delivery. It invested heavily in technology and marketing.
 
@@ -49,7 +49,7 @@ For several years, growth masked the underlying economics. Carvana was acquiring
 
 But around 2020 and 2021, cracks began to show. The company was spending more than it was earning. Growth did not automatically lead to profitability. In fact, the harder Carvana grew, the more cash it burned. The company had built a network of expensive facilities and was committed to national delivery, which requires massive logistics infrastructure. Customer acquisition costs were rising. Returns and warranty claims were eating into margins.
 
-By 2022, as interest rates rose and venture funding dried up, Carvana hit a wall. The company was cash-constrained and burning through reserves. It had taken on debt to fund expansion and now faced refinancing challenges. The stock, which had traded above three hundred dollars per share in 2021, crashed to single digits. The company laid off thousands of employees, shuttered facilities, and cut costs ruthlessly.
+By 2022, as [interest rates](/interest-rate/) rose and venture funding dried up, Carvana hit a wall. The company was cash-constrained and burning through reserves. It had taken on debt to fund expansion and now faced refinancing challenges. The stock, which had traded above three hundred dollars per share in 2021, crashed to single digits. The company laid off thousands of employees, shuttered facilities, and cut costs ruthlessly.
 
 For a period in 2023, it looked like Carvana might fail. The company was weeks away from running out of cash. The market lost confidence. But the company negotiated additional financing, restructured debt, and continued aggressive cost-cutting. It was a near-death experience that forced management to rebuild the business on a foundation of actual economics rather than growth at any cost.
 
@@ -63,7 +63,7 @@ Recent results show the company is approaching breakeven. Some quarters have bee
 
 ## Competition and market reality
 
-Carvana is not the only online used-car retailer. Competitors like Vroom, Shift, and others have launched similar platforms. More importantly, traditional used-car dealerships and mega-retailers like CarMax have built their own e-commerce and delivery capabilities. Amazon has even launched a used-car shopping tool. The disruption Carvana pioneered is now being replicated by players with deeper pockets, established brands, and existing scale.
+Carvana is not the only online used-car retailer. Competitors like Vroom, Shift, and others have launched similar platforms. More importantly, traditional used-car dealerships and mega-retailers like [CarMax](/kmx-stock/) have built their own e-commerce and delivery capabilities. Amazon has even launched a used-car shopping tool. The disruption Carvana pioneered is now being replicated by players with deeper pockets, established brands, and existing scale.
 
 Carvana's advantage, if it has one, is that it was early and has built brand recognition. Consumers know the Carvana name. The company has served hundreds of thousands of customers. But that brand advantage is not unassailable. As competitors improve their digital experiences and delivery capabilities, Carvana's edge narrows.
 

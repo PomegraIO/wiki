@@ -54,7 +54,7 @@ DaVita's revenue comes primarily from dialysis treatments delivered. The company
 
 Gross margins on dialysis are strong — typically 40–50 percent — because the bundled Medicare rate is set to cover the direct cost of treatment (nursing, technician labor, supplies, equipment) plus a reasonable profit margin. The company's leverage comes from operational efficiency: managing labor, supply costs, and equipment efficiently reduces per-treatment cost and expands margins. Corporate overhead is spread across thousands of treatments, creating operating leverage.
 
-Operating margins depend on how tightly the company manages the business and what proportion of patients are on Medicare (higher margin) versus Medicaid or uninsured (lower margin, or write-offs).
+[Operating margins](/operating-margin/) depend on how tightly the company manages the business and what proportion of patients are on Medicare (higher margin) versus Medicaid or uninsured (lower margin, or write-offs).
 
 ## The Medicare rate is the lynchpin
 
@@ -92,4 +92,4 @@ Monitor operating margins, particularly any changes driven by labor costs, suppl
 
 Watch for clinical quality metrics — hospitalization rates, mortality, transplant waitlisting — as indicators of competitive position and potential reimbursement impacts.
 
-Finally, track the company's capital expenditure, debt levels, and cash distributions to shareholders. Dialysis is a stable cash-generation business, and how the company uses that cash (reinvestment, debt reduction, dividends, buybacks) reflects management's view of the business's stability and the investment opportunities available.
+Finally, track the company's capital expenditure, debt levels, and cash distributions to shareholders. Dialysis is a stable cash-generation business, and how the company uses that cash (reinvestment, debt reduction, [dividends](/dividend/), buybacks) reflects management's view of the business's stability and the investment opportunities available.

@@ -39,7 +39,7 @@ Martin Marietta also operates a small concrete products business and sells downs
 
 ## The cyclical rhythm
 
-Aggregates demand is tightly tied to two things: construction activity (housing, commercial, and industrial building) and infrastructure spending (roads, bridges, airports). Both are procyclical—they slow in recessions and accelerate in expansions. During the 2008 financial crisis, aggregates demand collapsed as construction halted. During the post-2020 recovery, especially after the 2021 infrastructure bill, demand surged.
+Aggregates demand is tightly tied to two things: construction activity (housing, commercial, and industrial building) and infrastructure spending (roads, bridges, airports). Both are procyclical—they slow in [recessions](/recession/) and accelerate in expansions. During the 2008 financial crisis, aggregates demand collapsed as construction halted. During the post-2020 recovery, especially after the 2021 infrastructure bill, demand surged.
 
 This cyclicality is baked into the business model. An aggregates producer cannot easily pivot to a different product or market. What it can do is cut costs and capital spending during downturns and invest aggressively when demand is strong. Martin Marietta has become skilled at this dance—adjusting production, managing costs, and storing cash during booms to weather busts.
 
@@ -55,7 +55,7 @@ However, there is no true pricing power. Aggregates are sold on price, reliabili
 
 ## Capital structure and returns
 
-Martin Marietta is a capital-intensive business—maintaining quarries, buying equipment, and investing in transportation infrastructure requires ongoing investment. The company generates substantial free cash flow during economic expansions, which it has historically used to pay down debt, fund acquisitions, and return capital to shareholders through dividends and buybacks. During downturns, it guards cash and reduces capital spending.
+Martin Marietta is a capital-intensive business—maintaining quarries, buying equipment, and investing in transportation infrastructure requires ongoing investment. The company generates substantial [free cash flow](/free-cash-flow/) during economic expansions, which it has historically used to pay down debt, fund [acquisitions](/acquisition/), and return capital to shareholders through [dividends](/dividend/) and buybacks. During downturns, it guards cash and reduces capital spending.
 
 Returns on capital have historically been reasonable but not spectacular—the business generates returns above its cost of capital, but the margin is moderate because competition limits pricing power.
 
@@ -69,4 +69,4 @@ The real risks are macroeconomic: a severe recession would slow construction and
 
 ## How to research Martin Marietta
 
-Start with the annual 10-K (SEC CIK 0000916076), which breaks revenue by end-market (infrastructure, residential, commercial, industrial) and geography. Quarterly earnings calls discuss volumes, pricing, and cost trends. Key metrics: production volume and pricing per ton (indicating demand and pricing power), operating margin, free cash flow, and debt levels. Martin Marietta's valuation typically reflects near-term volume visibility and long-term confidence in construction and infrastructure demand.
+Start with the annual 10-K (SEC CIK 0000916076), which breaks revenue by end-market (infrastructure, residential, commercial, industrial) and geography. Quarterly earnings calls discuss volumes, pricing, and cost trends. Key metrics: production volume and pricing per ton (indicating demand and pricing power), [operating margin](/operating-margin/), free cash flow, and debt levels. Martin Marietta's valuation typically reflects near-term volume visibility and long-term confidence in construction and infrastructure demand.

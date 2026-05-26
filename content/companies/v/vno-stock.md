@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Vornado Realty Trust is a real estate investment trust that owns and operates a diversified portfolio of commercial properties, primarily in office and retail sectors, concentrated in high-value markets including New York, Washington D.C., San Francisco, and Chicago.*
+*Vornado Realty Trust is a [real estate investment trust](/real-estate-investment-trust/) that owns and operates a diversified portfolio of commercial properties, primarily in office and retail sectors, concentrated in high-value markets including New York, Washington D.C., San Francisco, and Chicago.*
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ The appeal of a REIT to investors is that it must pay out most of its income to 
 
 ## Capital requirements and leverage
 
-Because real estate itself is expensive and cannot grow from retained earnings, REITs typically finance acquisitions and property improvements with debt. Vornado finances a significant portion of its portfolio with borrowings, which magnifies returns when properties appreciate but also creates vulnerability if interest rates spike or rents fall. Higher debt service costs eat directly into the cash available for dividends. The REIT's ability to refinance its debt as mortgages mature depends on whether lenders are willing to lend on the security of the properties and whether interest rates are reasonable.
+Because real estate itself is expensive and cannot grow from [retained earnings](/retained-earnings/), REITs typically finance [acquisitions](/acquisition/) and property improvements with debt. Vornado finances a significant portion of its portfolio with borrowings, which magnifies returns when properties appreciate but also creates vulnerability if [interest rates](/interest-rate/) spike or rents fall. Higher debt service costs eat directly into the cash available for [dividends](/dividend/). The REIT's ability to refinance its debt as mortgages mature depends on whether lenders are willing to lend on the security of the properties and whether interest rates are reasonable.
 
 ## Office and retail pressures
 

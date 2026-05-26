@@ -31,9 +31,9 @@ HPE is a company shaped by the shift from on-premises data centres owned and ope
 
 The largest part of HPE's business is servers—the machines that sit in data centre racks and do the computational work for enterprises and cloud providers. HPE sells servers across a range of performance levels and price points, from dense, power-efficient units for web-scale workloads to high-memory systems designed for databases and analytics. The competition is relentless: customers are sophisticated, they compare specifications carefully, and switching costs are low if a new vendor offers better price or performance.
 
-HPE's position in servers is strong but not dominant. The company competes against Dell EMC (which acquired EMC and is partially spun out), Lenovo, and increasingly against custom-designed silicon from the largest cloud providers themselves. Large cloud companies like Amazon, Google, and Microsoft have begun designing their own processors and server platforms optimized for their specific workloads, which sidelines traditional suppliers like HPE for some volume. HPE counter-positions itself as a diversified, open supplier that can integrate with any processor architecture and offer a full stack of hardware and software—a value proposition that matters for enterprises but matters less for cloud providers that control their entire infrastructure end to end.
+HPE's position in servers is strong but not dominant. The company competes against Dell EMC (which acquired EMC and is partially spun out), Lenovo, and increasingly against custom-designed silicon from the largest cloud providers themselves. Large cloud companies like Amazon, Google, and [Microsoft](/msft-stock/) have begun designing their own processors and server platforms optimized for their specific workloads, which sidelines traditional suppliers like HPE for some volume. HPE counter-positions itself as a diversified, open supplier that can integrate with any processor architecture and offer a full stack of hardware and software—a value proposition that matters for enterprises but matters less for cloud providers that control their entire infrastructure end to end.
 
-Pricing power in servers is limited. The installed base is large, customers are price-sensitive, and the path to newer technology is continuous. HPE must invest continually to keep its designs competitive, and processor improvements from Intel, AMD, and ARM-compatible makers drive performance upgrades the industry expects every few years.
+Pricing power in servers is limited. The installed base is large, customers are price-sensitive, and the path to newer technology is continuous. HPE must invest continually to keep its designs competitive, and processor improvements from [Intel](/intc-stock/), AMD, and ARM-compatible makers drive performance upgrades the industry expects every few years.
 
 ## Storage and data management
 
@@ -57,9 +57,9 @@ That fragmentation works both ways. Smaller, more focused vendors can move faste
 
 ## Profitability and capital allocation
 
-HPE operates in a low-margin, high-volume business. Gross margins on hardware are typically in the 30-40% range, which is respectable but not exceptional. The company must invest heavily in research and development to keep its products competitive, and it faces pressure from competitors, price-sensitive customers, and the relentless march of Moore's Law. Operating margins are moderate, meaning the company is not spectacularly profitable but is stable and generates reasonable cash flow.
+HPE operates in a low-margin, high-volume business. Gross margins on hardware are typically in the 30-40% range, which is respectable but not exceptional. The company must invest heavily in research and development to keep its products competitive, and it faces pressure from competitors, price-sensitive customers, and the relentless march of Moore's Law. [Operating margins](/operating-margin/) are moderate, meaning the company is not spectacularly profitable but is stable and generates reasonable cash flow.
 
-The company has historically returned cash to shareholders through dividends and buybacks, consistent with a mature technology company. Capital expenditure is modest relative to revenue because HPE is not capital-intensive in the way a miner or manufacturer would be—it designs products and contracts much of the manufacturing out.
+The company has historically returned cash to shareholders through [dividends](/dividend/) and buybacks, consistent with a mature technology company. Capital expenditure is modest relative to revenue because HPE is not capital-intensive in the way a miner or manufacturer would be—it designs products and contracts much of the manufacturing out.
 
 ## Risks and the road ahead
 

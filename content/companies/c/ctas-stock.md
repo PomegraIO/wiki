@@ -54,11 +54,11 @@ Cintas also knows an enormous amount about business customers — what sizes the
 
 Cintas's stock has been one of the best performers in the market over the past thirty years. The reason is simple: the business generates steady, growing profits that the company reinvests or returns to shareholders. There are no blockbuster new products, no exciting turnarounds, no venture bets. Just a company that adds customers every year, raises prices slowly, and improves its margins by getting more efficient.
 
-The company has taken on debt to buy other uniform-rental businesses — particularly in 2017 when it bought G&K Services, a large competitor — which added customers and scale. But those acquisitions fit the mold of Cintas's existing business. The company does not venture far from what it knows.
+The company has taken on debt to buy other uniform-rental businesses — particularly in 2017 when it bought G&K Services, a large competitor — which added customers and scale. But those [acquisitions](/acquisition/) fit the mold of Cintas's existing business. The company does not venture far from what it knows.
 
 ## What could go wrong
 
-The obvious pressure is that labour costs go up. Cintas runs laundries and owns trucks, and both require workers. Wage inflation directly hits the bottom line. The company can raise prices to customers, but only so much before some businesses start washing their own uniforms again or looking for an alternative.
+The obvious pressure is that labour costs go up. Cintas runs laundries and owns trucks, and both require workers. Wage [inflation](/inflation/) directly hits the bottom line. The company can raise prices to customers, but only so much before some businesses start washing their own uniforms again or looking for an alternative.
 
 The second risk is that big customers — large hospital chains, restaurant chains — build their own laundries or switch to a competitor that offers a better price. If a customer large enough, that customer leaving can dent the quarter. But the lock-in is strong enough that this does not happen often.
 
@@ -68,6 +68,6 @@ A deeper structural question is whether demand for uniform rental grows as fast 
 
 Start with the annual 10-K (SEC CIK 0000723254). It breaks out the revenue by segment — uniform rental, facility services, safety products — and discusses how the company is doing in each. The company's investor calls are useful because management talks about customer retention rates (how many customers stick around year to year) and pricing power (how much it can raise prices).
 
-A few numbers frame the business. The price-to-earnings ratio is usually higher than the market average because the business is so stable and predictable. The operating margin (profit as a percentage of revenue) shows how efficient the company's operations are, and it has generally trended upward over time. And the percentage of revenue that is recurring (from existing contracts that roll forward every month) is very high — which is why the business is so stable and predictable.
+A few numbers frame the business. The [price-to-earnings ratio](/price-to-earnings-ratio/) is usually higher than the market average because the business is so stable and predictable. The [operating margin](/operating-margin/) (profit as a percentage of revenue) shows how efficient the company's operations are, and it has generally trended upward over time. And the percentage of revenue that is recurring (from existing contracts that roll forward every month) is very high — which is why the business is so stable and predictable.
 
 As always, nothing here is investment advice. Cintas is a business worth understanding because it is a textbook example of how recurring revenue, scale, and operational discipline compound into enormous shareholder value over decades.

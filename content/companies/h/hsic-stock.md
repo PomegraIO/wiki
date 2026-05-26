@@ -46,7 +46,7 @@ The third is practice software and services. This is a higher-margin segment. He
 
 Henry Schein operates at a scale that gives it unique advantages. It purchases tens of millions of gloves, millions of filling materials, and thousands of units of expensive equipment annually, which means it can negotiate aggressively with manufacturers and achieve lower per-unit costs than a smaller distributor. Those cost advantages are partly passed on to customers (to remain competitive and lock them in) and partly retained as margin.
 
-The company also operates internationally, with significant operations in Europe, Australia, and elsewhere. This brings complexity — regulations, customs, different product preferences, and local competitors — but also diversification. A slowdown in the U.S. dental market is offset by growth elsewhere.
+The company also operates internationally, with significant operations in Europe, Australia, and elsewhere. This brings complexity — regulations, customs, different product preferences, and local competitors — but also [diversification](/diversification/). A slowdown in the U.S. dental market is offset by growth elsewhere.
 
 ## Competitive structure and risks
 
@@ -66,4 +66,4 @@ On earnings calls, listen for commentary on pricing dynamics, customer concentra
 
 Track the software segment separately. If Henry Schein can grow software revenue as a percentage of total revenue, margins will expand and customer lock-in will strengthen. Conversely, if software growth stalls, the company is vulnerable to price competition on consumables.
 
-Finally, monitor international expansion and acquisition strategy. Henry Schein has grown partly by acquiring smaller regional distributors; tracking announced acquisitions and integration success indicates whether management is deploying cash effectively or overpaying for growth.
+Finally, monitor international expansion and acquisition strategy. Henry Schein has grown partly by acquiring smaller regional distributors; tracking announced [acquisitions](/acquisition/) and integration success indicates whether management is deploying cash effectively or overpaying for growth.

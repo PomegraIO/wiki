@@ -19,7 +19,7 @@ Silver Mountain's assets consist of early-stage exploration projects holding cla
 
 ## Capital and Financing
 
-Like most junior explorers, Silver Mountain depends entirely on equity issuance and investor capital to fund operations—there is no cash flow from mining. The company has raised successive rounds of financing, with each new offering diluting existing shareholders. Trading occurs on the OTC markets under the AGMRF ticker, where [bid-ask spreads](/wiki/bid-ask-spread/) are typically wide and [trading volume](/wiki/trading-volume/) varies widely. The stock is illiquid and speculative; prices respond to exploration news, [commodity cycles](/wiki/commodity-price/), and broader market sentiment toward junior miners.
+Like most junior explorers, Silver Mountain depends entirely on equity issuance and investor capital to fund operations—there is no cash flow from mining. The company has raised successive rounds of financing, with each new offering diluting existing shareholders. Trading occurs on the OTC markets under the AGMRF ticker, where [bid-ask spreads](/wiki/bid-ask-spread/) are typically wide and trading volume varies widely. The stock is illiquid and speculative; prices respond to exploration news, commodity cycles, and broader market sentiment toward junior miners.
 
 ## Risk and Reward
 

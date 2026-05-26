@@ -22,7 +22,7 @@ McLaren's three revenue streams are distinct in character and economic contribut
 | Immigration Advisory   | Individuals & corporations | Visa scheme navigation, strategy |
 | ESG Consulting         | Corporate clients | Governance, reporting, training |
 
-Immigration advisory accounts for the majority of revenue, reflecting both the complexity of Hong Kong's visa environment and the scarcity of specialized knowledge. The two other segments are complementary: recruitment and ESG consulting serve similar corporate customer bases, allowing the firm to deepen client relationships beyond one service line.
+Immigration advisory accounts for the majority of revenue, reflecting both the complexity of Hong Kong's [visa](/v-stock/) environment and the scarcity of specialized knowledge. The two other segments are complementary: recruitment and ESG consulting serve similar corporate customer bases, allowing the firm to deepen client relationships beyond one service line.
 
 The company's financial scale is modest. For the 12 months ended June 30, 2025, McLaren reported approximately $2 million in revenue. This small revenue base reflects both the newness of the venture and the boutique nature of the Hong Kong consulting market. Profitability and growth metrics are not yet public.
 

@@ -26,7 +26,7 @@ BioMarin is a biopharmaceutical company that discovers and develops medicines fo
 
 ## A portfolio built on unmet need
 
-BioMarin's flagship products target diseases so rare that many physicians may see only a handful of patients in a lifetime. Voxzogo, for example, addresses hypophosphatemic rickets, a genetic disorder of bone mineralization affecting fewer than 100,000 people worldwide. Kuvan targets phenylketonuria (PKU), a metabolic condition that causes intellectual disability if untreated. Kallista and Aldurazyme address lysosomal storage disorders, where the body cannot properly break down certain molecules and they accumulate in tissues, causing progressive damage. Vonvendi and Alnylam's Givlaari round out a portfolio of medications for bleeding disorders and porphyria.
+BioMarin's flagship products [target](/tgt-stock/) diseases so rare that many physicians may see only a handful of patients in a lifetime. Voxzogo, for example, addresses hypophosphatemic rickets, a genetic disorder of bone mineralization affecting fewer than 100,000 people worldwide. Kuvan targets phenylketonuria (PKU), a metabolic condition that causes intellectual disability if untreated. Kallista and Aldurazyme address lysosomal storage disorders, where the body cannot properly break down certain molecules and they accumulate in tissues, causing progressive damage. Vonvendi and Alnylam's Givlaari round out a portfolio of medications for bleeding disorders and porphyria.
 
 What these disparate diseases share is economic invisibility. The addressable patient population for any single BioMarin drug is tiny — often measured in thousands rather than millions. The total revenue from a successful rare-disease medication might be a tenth or a twentieth of what a blockbuster hypertension or diabetes drug earns. For large pharmaceutical companies with massive manufacturing and marketing infrastructure, investing billions to develop a medicine for a few thousand patients makes little financial sense. That structural gap is BioMarin's opportunity: the company can profitably serve a population that larger competitors rationally abandon.
 
@@ -44,7 +44,7 @@ This pivot carries risk. Gene therapies are novel, manufacturing is unproven at 
 
 ## The acquisition strategy and scale
 
-As BioMarin has grown, it has pursued strategic acquisitions to add new disease areas and products. These deals are usually smaller than acquisitions in mainstream pharma because the target companies are themselves small — often founded by academic researchers who had identified a genetic cause of disease and wanted to develop a medicine. An acquisition for a few hundred million dollars can bolt a new franchise onto BioMarin's portfolio, diversifying revenue and extending the runway of growth.
+As BioMarin has grown, it has pursued strategic [acquisitions](/acquisition/) to add new disease areas and products. These deals are usually smaller than acquisitions in mainstream pharma because the target companies are themselves small — often founded by academic researchers who had identified a genetic cause of disease and wanted to develop a medicine. An acquisition for a few hundred million dollars can bolt a new franchise onto BioMarin's portfolio, diversifying revenue and extending the runway of growth.
 
 The company also enters into licensing arrangements with academic institutions and smaller biotech firms, sharing development costs and revenue upside. This model lets BioMarin access promising science without building every programme in-house.
 

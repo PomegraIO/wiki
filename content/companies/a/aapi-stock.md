@@ -12,7 +12,7 @@ handwritten: true
 
 ## What happened to Apple iSports Group?
 
-Apple iSports Group, Inc. once operated in the event management and ticketing space but has since become a dormant shell with no meaningful business operations. The company went through periods of inactivity and restructuring, and today exists primarily as a non-operating entity. Its SEC filings reveal minimal assets, no revenue generation, and effectively no ongoing business activities, making it a classic example of a publicly traded company that has ceased to function as an operating business.
+[Apple](/aapl-stock/) iSports Group, Inc. once operated in the event management and ticketing space but has since become a dormant shell with no meaningful business operations. The company went through periods of inactivity and restructuring, and today exists primarily as a non-operating entity. Its SEC filings reveal minimal assets, no revenue generation, and effectively no ongoing business activities, making it a classic example of a publicly traded company that has ceased to function as an operating business.
 
 ## Why does it still trade?
 

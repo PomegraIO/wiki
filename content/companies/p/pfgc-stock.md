@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Performance Food Group operates in an unglamorous but essential corner of the economy: the movement of food from producers to every restaurant kitchen, school cafeteria, hotel, and institutional dining room across North America. The company is one of the largest food-service distributors in the region, competing with similar mega-distributors like US Foods and Sysco to supply the food that feeds tens of millions of Americans daily. The business is decided not by celebrity or marketing but by execution — keeping a vast logistics network running smoothly, managing relationships with thousands of food producers and growers, and reliably delivering to thousands of customers on time and in good condition.
+Performance Food Group operates in an unglamorous but essential corner of the economy: the movement of food from producers to every restaurant kitchen, school cafeteria, hotel, and institutional dining room across North America. The company is one of the largest food-service distributors in the region, competing with similar mega-distributors like [US Foods](/usfd-stock/) and Sysco to supply the food that feeds tens of millions of Americans daily. The business is decided not by celebrity or marketing but by execution — keeping a vast logistics network running smoothly, managing relationships with thousands of food producers and growers, and reliably delivering to thousands of customers on time and in good condition.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Performance Food Group operates in an unglamorous but essential corner of the ec
 
 Performance Food Group was founded in 1988 in Richmond, Virginia, but the company as it exists today is the result of a decades-long consolidation strategy. Through the 2000s and 2010s, the company acquired dozens of regional and local food-service distributors, each with its own warehouse, sales force, and customer base. Rather than operating them as separate brands, Performance Food integrated them, realising economies of scale in purchasing and logistics.
 
-The most significant acquisition was US Foods' Virginia and Kentucky operations in 2007, a deal that made Performance Food a major regional player. More recent acquisitions in the 2010s expanded the company into specialty products, international foods, and services to specific customer segments. By the early 2020s, Performance Food Group had grown into one of the three largest food-service distributors in North America, with a network of warehouses, distribution centres, and sales operations serving tens of thousands of customers.
+The most significant acquisition was US Foods' Virginia and Kentucky operations in 2007, a deal that made Performance Food a major regional player. More recent [acquisitions](/acquisition/) in the 2010s expanded the company into specialty products, international foods, and services to specific customer segments. By the early 2020s, Performance Food Group had grown into one of the three largest food-service distributors in North America, with a network of warehouses, distribution centres, and sales operations serving tens of thousands of customers.
 
 ## What the business actually does
 
@@ -41,7 +41,7 @@ Performance Food also increasingly offers services beyond pure distribution. The
 
 ## The economics of food service distribution
 
-The food-service distribution business operates on thin margins. Restaurants and large institutional customers are price-sensitive and often have leverage over suppliers. Performance Food must compete on price, service (reliability, frequency, flexibility), and product quality. Gross margins on wholesale food products typically run 10 to 15 percent, with the company's operating margin remaining in the low-single digits.
+The food-service distribution business operates on thin margins. Restaurants and large institutional customers are price-sensitive and often have leverage over suppliers. Performance Food must compete on price, service (reliability, frequency, flexibility), and product quality. Gross margins on wholesale food products typically run 10 to 15 percent, with the company's [operating margin](/operating-margin/) remaining in the low-single digits.
 
 The business is capital-intensive. The company must own or lease warehouses, invest in inventory management systems and technology, maintain a fleet of trucks, and employ thousands of logistics workers. However, once the infrastructure is in place, incremental volume is profitable because much of the cost is fixed.
 
@@ -55,7 +55,7 @@ The company's moat, if it has one, is based on three things. First is the breadt
 
 The business is sensitive to economic cycles. When consumers stop eating out, restaurants close, and sales to restaurants decline. Institutional food service (schools, hospitals, prisons) is more stable but still subject to budget cuts and changing policies. The pandemic highlighted this vulnerability; as restaurants closed for extended periods, Performance Food's sales to restaurants dropped sharply.
 
-Food inflation, labour shortages, and fuel costs are ongoing pressures. The company's ability to pass through rising costs to customers is limited by competition. Rising labour costs in logistics and warehousing eat into margins. Fuel-price spikes directly affect the company's ability to run trucks profitably.
+Food [inflation](/inflation/), labour shortages, and fuel costs are ongoing pressures. The company's ability to pass through rising costs to customers is limited by competition. Rising labour costs in logistics and warehousing eat into margins. Fuel-price spikes directly affect the company's ability to run trucks profitably.
 
 ## How to research Performance Food Group
 

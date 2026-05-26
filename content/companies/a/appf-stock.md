@@ -37,4 +37,4 @@ AppFolio operates in a fragmented market where many property managers still rely
 
 The company positions itself as an industry standard, bundling formerly separate functions into one integrated platform. Professional property managers, mid-market operators, and some institutional landlords all use the software, though the most reliable customer base is professional management firms bound by operational consistency and regulatory compliance.
 
-See also: [10-K](/wiki/10-k/), [public company](/wiki/public-company/), [saas](/wiki/saas/)
+See also: [10-K](/wiki/10-k/), [public company](/wiki/public-company/), saas

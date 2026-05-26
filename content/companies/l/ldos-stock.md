@@ -27,7 +27,7 @@ The health and engineering services division serves the VA, the Department of De
 
 ## The contract landscape and competition
 
-The universe of large defense contractors is small. The biggest names—Lockheed Martin, Boeing, Raytheon—are far larger than Leidos, but Leidos occupies a strong middle-tier position. It is large enough to handle big programs but small enough to be nimble on specialized work that the giants do not bother with or that customers prefer to hand to a contractor with fewer competing interests.
+The universe of large defense contractors is small. The biggest names—[Lockheed Martin](/lmt-stock/), [Boeing](/ba-stock/), Raytheon—are far larger than Leidos, but Leidos occupies a strong middle-tier position. It is large enough to handle big programs but small enough to be nimble on specialized work that the giants do not bother with or that customers prefer to hand to a contractor with fewer competing interests.
 
 Most contract wins come through competitive bids against other firms. Pricing matters, but the primary factors are past performance, technical capability, and security clearance depth. A company that delivers on schedule, within budget, and with quality work earns the right to bid again—and the government is often slow to switch contractors even if another bidder is cheaper.
 
@@ -39,7 +39,7 @@ The appeal of defense contracting to investors is predictability. Major governme
 
 The downside is growth. Leidos cannot grow faster than the government's budget for defense, intelligence, and related civilian services. That budget does increase most years, but not dramatically. So Leidos growth is typically mid-single-digit at best, not the ten-plus percent that venture-backed tech companies pursue. The company makes money steadily and returns capital to shareholders, but it is not a growth story.
 
-Margins are solid but not extraordinary. The government is a careful buyer; it negotiates hard. Typical operating margins are in the low double digits. Profitability is high, but not spectacular. The real edge Leidos has is the installed base of contracts and the friction in switching contractors—not a technological moat or a brand that consumers recognize.
+Margins are solid but not extraordinary. The government is a careful buyer; it negotiates hard. Typical [operating margins](/operating-margin/) are in the low double digits. Profitability is high, but not spectacular. The real edge Leidos has is the installed base of contracts and the friction in switching contractors—not a technological moat or a brand that consumers recognize.
 
 ## The structural risks
 
@@ -49,7 +49,7 @@ A more existential risk is politics. A change in administration, a scandal invol
 
 There is also the regulatory environment. Foreign ownership restrictions, export control changes, and conflict-of-interest rules can all affect which work a company can pursue or which personnel can access classified programs. A security breach or compliance failure can be catastrophic.
 
-Lastly, Leidos faces the usual corporate risks: key employee departures, integration challenges from acquisitions, and the need to maintain a highly skilled workforce in a competitive labor market. Retaining engineers and security-cleared personnel is perpetually challenging.
+Lastly, Leidos faces the usual corporate risks: key employee departures, integration challenges from [acquisitions](/acquisition/), and the need to maintain a highly skilled workforce in a competitive labor market. Retaining engineers and security-cleared personnel is perpetually challenging.
 
 ## How to research Leidos as an investment
 

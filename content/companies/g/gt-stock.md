@@ -45,7 +45,7 @@ The company faces countervailing pressures, however. The tire industry is fundam
 
 **Technology disruption** from electrification poses a medium-term risk. Electric vehicles are heavier (due to battery weight) and often require specialized tires, creating an opportunity, but they also wear tires differently and may demand fewer replacements over a vehicle's lifetime, reducing the replacement market.
 
-**Consolidated retail and pricing pressure** from direct-to-consumer online tire retailers, big-box retailers (Costco, Walmart, Amazon), and private-label tire brands have fragmented the traditional tire retail channel. Goodyear must compete on brand, service, and price against well-capitalized competitors with lower cost structures.
+**Consolidated retail and pricing pressure** from direct-to-consumer online tire retailers, big-box retailers (Costco, [Walmart](/wmt-stock/), Amazon), and private-label tire brands have fragmented the traditional tire retail channel. Goodyear must compete on brand, service, and price against well-capitalized competitors with lower cost structures.
 
 **Debt burden** has been a recurring issue. The company carries significant leverage, which limits financial flexibility in downturns and constrains capital allocation. Capital-intensive manufacturing and periodic restructuring have contributed to debt levels.
 

@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does Arcutis actually treat?
 
-Arcutis is a late-stage biopharmaceutical company focusing on immune-mediated dermatological diseases—a field called immuno-dermatology. The company was founded in 2016 to address stubborn, hard-to-treat skin conditions where existing therapies fall short. Its development platform leverages advances in immunology and inflammation science to target diseases ranging from plaque psoriasis to atopic dermatitis to alopecia areata and vitiligo. The work sits at the intersection of dermatology and immunology, treating conditions that traditionally required systemic drugs or had limited options.
+Arcutis is a late-stage biopharmaceutical company focusing on immune-mediated dermatological diseases—a field called immuno-dermatology. The company was founded in 2016 to address stubborn, hard-to-treat skin conditions where existing therapies fall short. Its development platform leverages advances in immunology and inflammation science to [target](/tgt-stock/) diseases ranging from plaque psoriasis to atopic dermatitis to alopecia areata and vitiligo. The work sits at the intersection of dermatology and immunology, treating conditions that traditionally required systemic drugs or had limited options.
 
 ## What is ZORYVE and why does it matter?
 

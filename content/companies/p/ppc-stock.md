@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pilgrims Pride is a vertically integrated poultry company that breeds, raises, processes, and sells chicken and chicken products to food service, retail, and foodservice customers across North America. It operates one of the largest poultry operations in the continent, with farms, feed mills, hatcheries, and processing facilities that take chicks from incubation through live production and then through processing into fresh and prepared chicken products. Shares trade on the NASDAQ under the ticker PPC.
+Pilgrims Pride is a vertically integrated poultry company that breeds, raises, processes, and sells chicken and chicken products to food service, retail, and foodservice customers across North America. It operates one of the largest poultry operations in the continent, with farms, feed mills, hatcheries, and processing facilities that take chicks from incubation through live production and then through processing into fresh and prepared chicken products. Shares trade on the [NASDAQ](/nasdaq/) under the ticker PPC.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,9 +30,9 @@ Pilgrims Pride is a vertically integrated poultry company that breeds, raises, p
 
 Pilgrims Pride was founded in 1968 by Lonnie "Bo" Pilgrim in Pittsburg, Texas, initially as a poultry hatchery and feed mill. Pilgrim recognised that poultry farming was shifting from small, dispersed farms to larger, more efficient integrated operations. He began consolidating and vertically integrating — owning not just the hatchery but also contracting and supporting farms, feed mills, and eventually processing facilities.
 
-Through the 1970s and 1980s, the company grew by acquisition and internal expansion, building a regional powerhouse in Texas and Oklahoma. In 1990, Pilgrims Pride went public, trading on the NASDAQ. The 1990s and 2000s saw further expansion, including entry into Mexico, where the company built a second large poultry operation to serve Mexican and North American markets.
+Through the 1970s and 1980s, the company grew by [acquisition](/acquisition/) and internal expansion, building a regional powerhouse in Texas and Oklahoma. In 1990, Pilgrims Pride went public, trading on the NASDAQ. The 1990s and 2000s saw further expansion, including entry into Mexico, where the company built a second large poultry operation to serve Mexican and North American markets.
 
-The company's trajectory reflects a broader consolidation in the poultry industry. In the 1960s and 1970s, chicken production was still dominated by many small and mid-sized regional producers. By the 2000s, a handful of large integrated companies — including Tyson Foods, Perdue, and Pilgrims Pride — had come to dominate the market, capturing most of the volume and profit. Pilgrims Pride established itself as one of the "Big Three" in North America.
+The company's trajectory reflects a broader consolidation in the poultry industry. In the 1960s and 1970s, chicken production was still dominated by many small and mid-sized regional producers. By the 2000s, a handful of large integrated companies — including [Tyson Foods](/tsn-stock/), Perdue, and Pilgrims Pride — had come to dominate the market, capturing most of the volume and profit. Pilgrims Pride established itself as one of the "Big Three" in North America.
 
 ## Vertical integration: from chick to processed product
 
@@ -48,9 +48,9 @@ However, vertical integration also creates capital intensity and operational com
 
 Pilgrims Pride's revenue comes from selling chicken products at wholesale to three main customer segments. Foodservice operators — restaurants, fast-casual chains, institutional cafeterias — buy bulk quantities of breasts, thighs, processed products. Retail customers (supermarket chains and warehouse clubs) buy packaged fresh or frozen whole birds and parts for consumers. Food processors and manufacturers buy chicken protein as an ingredient in prepared foods.
 
-Margins are typically thin in poultry — usually 3 to 7 percent operating margin — because chicken is a commodity product. Competing on price is intense, and customers can switch suppliers readily. Profitability depends on operational efficiency, feed-cost management, and the ability to pass through cost increases to customers.
+Margins are typically thin in poultry — usually 3 to 7 percent [operating margin](/operating-margin/) — because chicken is a commodity product. Competing on price is intense, and customers can switch suppliers readily. Profitability depends on operational efficiency, feed-cost management, and the ability to pass through cost increases to customers.
 
-The largest pressure is feed cost. Pilgrims Pride consumes vast quantities of corn and soybean meal, which are commodity crops subject to weather, global supply, and seasonal fluctuations. A drought in the US Corn Belt or surging global demand for soy can raise feed costs significantly, squeezing margins unless the company can raise selling prices faster.
+The largest pressure is feed cost. Pilgrims Pride consumes vast quantities of corn and [soybean meal](/soybean-meal/), which are commodity crops subject to weather, global supply, and seasonal fluctuations. A drought in the US Corn Belt or surging global demand for soy can raise feed costs significantly, squeezing margins unless the company can raise selling prices faster.
 
 Disease is another real risk. Avian influenza periodically sweeps through poultry operations, causing widespread bird mortality and forcing culls. The company maintains biosecurity protocols, but outbreaks are beyond full control. When avian flu affects the broader industry, it can reduce total supply and raise prices, but Pilgrims Pride is not immune to the risk.
 

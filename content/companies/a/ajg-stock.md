@@ -18,7 +18,7 @@ Scale matters in this business. Larger brokers command better relationships with
 
 Revenue flows from commissions (a percentage of premiums placed, typically 10-25% depending on the line of business) and from fees for consulting services. Commission-based revenue ties directly to the premiums customers buy and the volume of business brokered. The economics favor organic renewal—once a client relationship forms, retention rates tend to be high because switching brokers disrupts operations and requires due diligence. Consulting and risk management services add steadier, less cyclical revenue streams and strengthen the overall value proposition.
 
-Competitors in broking range from global giants (Aon, Willis Towers Watson) to thousands of smaller regional firms. Gallagher competes on size, service quality, technology platforms, and talent. Scale advantages are real but not insurmountable—a highly specialized or regionally embedded competitor can still win client relationships through superior service or product expertise.
+Competitors in broking range from global giants (Aon, [Willis Towers Watson](/wtw-stock/)) to thousands of smaller regional firms. Gallagher competes on size, service quality, technology platforms, and talent. Scale advantages are real but not insurmountable—a highly specialized or regionally embedded competitor can still win client relationships through superior service or product expertise.
 
 ## Revenue by Business Segment
 

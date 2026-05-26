@@ -26,7 +26,7 @@ However, the diagnostics market faces structural headwinds. Reimbursement pressu
 
 ## Capital Structure and Investor History
 
-Qiagen is a publicly traded company listed on the [Nasdaq](/nasdaq/). The company's ownership changed hands in 2018 when Thermo Fisher Scientific attempted a [hostile takeover](/hostile-takeover/) at 39 euros per share—a bid that Qiagen ultimately rejected, choosing instead to remain independent. The company has pursued organic growth, modest [acquisitions](/acquisition/) (such as smaller diagnostic firms and software companies for data integration), and shareholder returns through buybacks. Debt levels are moderate; the company has managed to fund operations and capital investments without excessive leverage, though [interest rate](/interest-rate/) cycles affect its refinancing costs.
+Qiagen is a publicly traded company listed on the [Nasdaq](/nasdaq/). The company's ownership changed hands in 2018 when [Thermo Fisher Scientific](/tmo-stock/) attempted a [hostile takeover](/hostile-takeover/) at 39 euros per share—a bid that Qiagen ultimately rejected, choosing instead to remain independent. The company has pursued organic growth, modest [acquisitions](/acquisition/) (such as smaller diagnostic firms and software companies for data integration), and shareholder returns through buybacks. Debt levels are moderate; the company has managed to fund operations and capital investments without excessive leverage, though [interest rate](/interest-rate/) cycles affect its refinancing costs.
 
 ## Margins and Cash Generation
 

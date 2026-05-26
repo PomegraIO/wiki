@@ -28,7 +28,7 @@ The company went public in 2022 via a [SPAC](/wiki/stock/), raising capital to i
 
 ## Competitive Position and Moats
 
-Redwire operates in a concentrated market. Large defense contractors like Lockheed Martin, Boeing, and Northrop Grumman build their own spacecraft components or control major suppliers; smaller pure-play competitors like Moog and smaller regional shops focus on narrow product niches. Redwire's advantage lies in three areas:
+Redwire operates in a concentrated market. Large defense contractors like [Lockheed Martin](/lmt-stock/), [Boeing](/ba-stock/), and Northrop Grumman build their own spacecraft components or control major suppliers; smaller pure-play competitors like Moog and smaller regional shops focus on narrow product niches. Redwire's advantage lies in three areas:
 
 **Established supply relationships.** Redwire has been embedded in the supply chain for decades through predecessor companies. When a spacecraft manufacturer selects a solar array provider or a power distribution vendor, switching costs are high; requalification takes years and is expensive. Redwire has this moat with multiple programs.
 

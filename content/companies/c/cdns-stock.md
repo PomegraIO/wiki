@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Cadence Design Systems is a supplier of software and hardware tools used by engineers to design and verify integrated circuits and systems. The company's software runs on the computers of chip designers, allowing them to simulate how circuits will behave before they are manufactured. The stock trades on the NASDAQ under the ticker CDNS. For most of the public, Cadence is invisible — its tools are used by companies like Apple, Qualcomm, and Samsung, which make the chips that power phones, computers, and everything else with silicon in it. Without Cadence's software, modern chip design would be much slower and far more expensive. The company has built a dominant position in a specialized but essential market.
+Cadence Design Systems is a supplier of software and hardware tools used by engineers to design and verify integrated circuits and systems. The company's software runs on the computers of chip designers, allowing them to simulate how circuits will behave before they are manufactured. The stock trades on the [NASDAQ](/nasdaq/) under the ticker CDNS. For most of the public, Cadence is invisible — its tools are used by companies like [Apple](/aapl-stock/), Qualcomm, and Samsung, which make the chips that power phones, computers, and everything else with silicon in it. Without Cadence's software, modern chip design would be much slower and far more expensive. The company has built a dominant position in a specialized but essential market.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Revenue comes from three main buckets: Design Enablement (tools for circuit simu
 
 The subscription model is attractive to Cadence because it creates recurring revenue and predictable cash flow. A customer signs a multi-year agreement and pays annually. If the customer is happy and dependent on the tool (which most are — switching to a competitor's tools requires retraining and process change), they renew. This gives Cadence visibility into future revenue and reduces the volatility that comes from large, one-time license sales.
 
-Customers are concentrated. The top semiconductor companies — TSMC, Samsung, Intel, Qualcomm, Apple, and others — are the biggest users of Cadence tools. These are well-capitalized, profitable companies that need tools and will pay high prices because the tools save them far more money than they cost. A single design mistake discovered late in the process can cost billions; Cadence's tools prevent this, paying for themselves many times over. Customers are not price-sensitive.
+Customers are concentrated. The top semiconductor companies — TSMC, Samsung, [Intel](/intc-stock/), Qualcomm, Apple, and others — are the biggest users of Cadence tools. These are well-capitalized, profitable companies that need tools and will pay high prices because the tools save them far more money than they cost. A single design mistake discovered late in the process can cost billions; Cadence's tools prevent this, paying for themselves many times over. Customers are not price-sensitive.
 
 ## The Competitive Landscape
 
@@ -63,7 +63,7 @@ Cadence's competitive moat is built on several things: installed base and custom
 
 Cadence has grown steadily over the past decade, driven by the transition to subscription revenues, price increases (the company raises prices regularly because customers have few alternatives), and the general growth in semiconductor design activity. The semiconductor industry has grown, and the share of that growth driven by software tools has grown faster. More designs are being created, designs are more complex, and the tools have become more essential.
 
-Profitability is strong. The company generates substantial free cash flow from operations. Much of the revenue is recurring (subscription revenue), which drops to the bottom line at high margins once the initial software development is paid for. The company invests heavily in R&D to stay competitive, but does not spend heavily on capital equipment or manufacturing. The result is a software-like margin profile — gross margins are very high (above 80%), and operating margins are healthy even before accounting for the sales and marketing spending required to maintain the customer base.
+Profitability is strong. The company generates substantial [free cash flow](/free-cash-flow/) from operations. Much of the revenue is recurring (subscription revenue), which drops to the bottom line at high margins once the initial software development is paid for. The company invests heavily in R&D to stay competitive, but does not spend heavily on capital equipment or manufacturing. The result is a software-like margin profile — gross margins are very high (above 80%), and [operating margins](/operating-margin/) are healthy even before accounting for the sales and marketing spending required to maintain the customer base.
 
 ## Risks and Pressures
 
@@ -71,7 +71,7 @@ Profitability is strong. The company generates substantial free cash flow from o
 
 **Customers vertically integrating.** A very large chip company like Apple or Intel might decide to build its own design tools to reduce costs or gain competitive advantage. This would reduce demand from that customer. In practice, this rarely happens because the cost of developing world-class tools is enormous and the company's core business (designing chips, not building tools) is where the value is. Still, some large customers have built some of their own tools.
 
-**Softness in semiconductor spending.** Cadence's revenue depends on customers' willingness to design new chips. During recessions or chip gluts, design activity can slow. Companies cut back on new projects and delay transitions to new processes. This would hit Cadence's revenue. Most customers renew maintenance on existing tools because the cost to drop them is high, but new tool purchases and projects would be deferred.
+**Softness in semiconductor spending.** Cadence's revenue depends on customers' willingness to design new chips. During [recessions](/recession/) or chip gluts, design activity can slow. Companies cut back on new projects and delay transitions to new processes. This would hit Cadence's revenue. Most customers renew maintenance on existing tools because the cost to drop them is high, but new tool purchases and projects would be deferred.
 
 **Geopolitical risk.** Many of Cadence's customers are in Asia (South Korea, Taiwan) or have significant operations there. Escalating U.S.-China tensions, Taiwan tensions, or trade restrictions could disrupt the business. Some customers are also in export-controlled categories, and new regulations could limit what Cadence can sell to whom.
 
@@ -79,13 +79,13 @@ Profitability is strong. The company generates substantial free cash flow from o
 
 ## Understanding Cadence as an Investor
 
-Reading Cadence requires understanding the software business, the semiconductor industry, and the design process. The annual report breaks down revenue by product segment and by major customer. SEC filings and earnings calls reveal trends in subscription revenue (the key metric), customer concentration, and R&D spending.
+Reading Cadence requires understanding the software business, the semiconductor industry, and the design process. The [annual report](/10-k/) breaks down revenue by product segment and by major customer. SEC filings and earnings calls reveal trends in subscription revenue (the key metric), customer concentration, and R&D spending.
 
 Key metrics: subscription revenue as a percentage of total revenue (higher is better and more predictable), customer retention rate (how many customers renew their subscriptions), gross margins (which should remain stable or increase), and free cash flow (which reveals how much cash the business is generating). Compare these to Synopsys and Mentor Graphics to understand competitive performance.
 
 Watch for new product launches, partnerships with semiconductor manufacturers, and investment in emerging areas like AI-driven design. Large customers (TSMC, Samsung, Intel) are mentioned by name in earnings calls; listen for any commentary on their spending plans, which are leading indicators of chip design activity.
 
-Cadence is a high-quality business with recurring revenue, strong margins, and limited competition. It is less volatile than semiconductor companies but more exposed to technology cycles than typical software companies. The company pays no dividend, preferring to reinvest in R&D and return capital through buybacks. It is an appropriate investment for those seeking exposure to semiconductor design, the foundational layer below chip manufacturing, or software businesses with strong pricing power.
+Cadence is a high-quality business with recurring revenue, strong margins, and limited competition. It is less volatile than semiconductor companies but more exposed to technology cycles than typical software companies. The company pays no [dividend](/dividend/), preferring to reinvest in R&D and return capital through buybacks. It is an appropriate investment for those seeking exposure to semiconductor design, the foundational layer below chip manufacturing, or software businesses with strong pricing power.
 
 ---
 

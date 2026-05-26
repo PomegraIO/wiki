@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Northrop Grumman is the product of a history of mergers and consolidations that reflects the contraction and consolidation of the American defense industry over the past forty years. What exists today as a single entity called Northrop Grumman is the combination of the original Northrop Corporation (founded in 1939), the Grumman Aircraft company (founded in 1930), and dozens of other aerospace and defense firms that were absorbed along the way. That history of consolidation is not incidental — it shapes everything about the company's size, capabilities, and strategic position.
+Northrop Grumman is the product of a history of [mergers](/merger/) and consolidations that reflects the contraction and consolidation of the American defense industry over the past forty years. What exists today as a single entity called Northrop Grumman is the combination of the original Northrop Corporation (founded in 1939), the Grumman Aircraft company (founded in 1930), and dozens of other aerospace and defense firms that were absorbed along the way. That history of consolidation is not incidental — it shapes everything about the company's size, capabilities, and strategic position.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,9 +36,9 @@ Throughout the Cold War, both companies thrived as defense contractors. Northrop
 
 ## The consolidation wave and modern formation (1990s-2000s)
 
-The end of the Cold War marked the beginning of the end for the fragmented defense landscape. With the Soviet Union dissolved and the defense budget in decline, the U.S. government could no longer sustain competition between dozens of weapons programs and contractors. There was excess capacity in defense manufacturing, and the solution was consolidation. Beginning in the early 1990s, a wave of mergers swept through the industry. Northrop and Grumman merged in 1994 to create Northrop Grumman. Lockheed acquired General Dynamics' Fort Worth division to concentrate fighter development. Boeing acquired McDonnell Douglas. Raytheon absorbed Hughes Aircraft. By the early 2000s, what had been dozens of independent contractors was now a handful of mega-primes: Lockheed Martin, Boeing, Raytheon (now Raytheon Technologies), General Dynamics, and Northrop Grumman.
+The end of the Cold War marked the beginning of the end for the fragmented defense landscape. With the Soviet Union dissolved and the defense budget in decline, the U.S. government could no longer sustain competition between dozens of weapons programs and contractors. There was excess capacity in defense manufacturing, and the solution was consolidation. Beginning in the early 1990s, a wave of mergers swept through the industry. Northrop and Grumman merged in 1994 to create Northrop Grumman. Lockheed acquired [General Dynamics](/gd-stock/)' Fort Worth division to concentrate fighter development. [Boeing](/ba-stock/) acquired McDonnell Douglas. Raytheon absorbed Hughes Aircraft. By the early 2000s, what had been dozens of independent contractors was now a handful of mega-primes: [Lockheed Martin](/lmt-stock/), Boeing, Raytheon (now Raytheon Technologies), General Dynamics, and Northrop Grumman.
 
-Northrop Grumman's 1994 merger made it instantly one of the largest, and the company grew further through acquisitions. It acquired Vought Aircraft Systems, TRW's space and defense division, and Orbital ATK, each acquisition expanding the company's portfolio into satellites, missiles, sensors, and space systems. By the 2010s, Northrop Grumman had become a sprawling conglomerate with capabilities across fixed-wing aircraft, rotorcraft, unmanned systems, missile systems, space systems, cybersecurity, and command-and-control electronics.
+Northrop Grumman's 1994 merger made it instantly one of the largest, and the company grew further through [acquisitions](/acquisition/). It acquired Vought Aircraft Systems, TRW's space and defense division, and Orbital ATK, each acquisition expanding the company's portfolio into satellites, missiles, sensors, and space systems. By the 2010s, Northrop Grumman had become a sprawling conglomerate with capabilities across fixed-wing aircraft, rotorcraft, unmanned systems, missile systems, space systems, cybersecurity, and command-and-control electronics.
 
 ## The business model and revenue sources
 
@@ -72,9 +72,9 @@ Northrop's main growth strategies are thus: (1) winning new programs in emerging
 
 ## Profitability and capital allocation
 
-Defense contracting is not a high-margin business. Gross margins are typically 25–35%, and operating margins are often in the low teens. This is because government contracts include significant competitive pressure despite the consolidated market, and the customer (the Department of Defense) negotiates aggressively on price. Additionally, fixed-price development contracts carry risk of loss if costs overrun.
+Defense contracting is not a high-margin business. Gross margins are typically 25–35%, and [operating margins](/operating-margin/) are often in the low teens. This is because government contracts include significant competitive pressure despite the consolidated market, and the customer (the Department of Defense) negotiates aggressively on price. Additionally, fixed-price development contracts carry risk of loss if costs overrun.
 
-Northrop has historically returned capital to shareholders through dividends and periodic buybacks, and has maintained a solid investment-grade credit rating. The company invests significantly in organic research and development, though much of this is government-funded, not company-funded. Like other defense contractors, Northrop also invests in facilities, test ranges, and manufacturing infrastructure.
+Northrop has historically returned capital to shareholders through [dividends](/dividend/) and periodic buybacks, and has maintained a solid investment-grade [credit rating](/credit-rating/). The company invests significantly in organic research and development, though much of this is government-funded, not company-funded. Like other defense contractors, Northrop also invests in facilities, test ranges, and manufacturing infrastructure.
 
 ## Risks and pressures
 
@@ -88,6 +88,6 @@ Finally, technological disruption is a long-term concern. The company must conti
 
 Start with the annual 10-K (SEC CIK 0001133421), which details the company's major programs, revenue by segment, and government customer concentration. The quarterly earnings calls provide color on program status, production rates, and competitive wins or losses. The investor presentation provides strategic context.
 
-Key metrics to watch include organic revenue growth (indicating whether the company is winning new programs or losing share), operating margin (indicating whether the company is managing costs effectively), free cash flow (showing cash generation relative to capital investment), and the book-to-bill ratio (orders relative to revenue, showing visibility into future growth).
+Key metrics to watch include organic revenue growth (indicating whether the company is winning new programs or losing share), operating margin (indicating whether the company is managing costs effectively), [free cash flow](/free-cash-flow/) (showing cash generation relative to capital investment), and the book-to-bill ratio (orders relative to revenue, showing visibility into future growth).
 
 Northrop Grumman is fundamentally a government contractor — a company whose fortunes are tied to U.S. military strategy and budget decisions. It is a durable, profitable enterprise with a protected market position, but it is not a growth stock. Understanding it requires attention to geopolitical and budgetary factors external to the company itself.

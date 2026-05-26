@@ -47,7 +47,7 @@ This business model has some of the characteristics of software—you sell a pla
 
 ## The competitive question and the moat
 
-Competitors have tried to build robotic surgery systems for decades. The major medical-device companies—Johnson & Johnson, Medtronic, Stryker—have all invested in robotic surgery. But despite those efforts and billions spent on development, Intuitive Surgical has maintained its dominance in the US market. There are a few reasons why.
+Competitors have tried to build robotic surgery systems for decades. The major medical-device companies—[Johnson & Johnson](/jnj-stock/), Medtronic, Stryker—have all invested in robotic surgery. But despite those efforts and billions spent on development, Intuitive Surgical has maintained its dominance in the US market. There are a few reasons why.
 
 First, Intuitive had a head start of more than twenty years. That lead allowed the company to develop a deep library of software, to refine the mechanical design across multiple generations of the system, and to build up a user base and training infrastructure. Surgeons trained on da Vinci prefer da Vinci. Hospitals with da Vinci systems are reluctant to rip out and replace them with a new competitor's system unless the competitor offers a compelling advantage. Competitive switching costs are high.
 

@@ -19,7 +19,7 @@ Moog Inc. is a precision manufacturer that makes motion-control systems for airc
 
 Moog's most profitable and defensible business is aircraft flight controls. When an aircraft is designed, the manufacturer specifies actuators and control systems, and that choice typically locks in the supplier for the entire production run and beyond. Switching to a new supplier mid-stream would require re-certification by aviation regulators, re-testing, and years of validation — a process so expensive that it rarely happens. Once Moog's actuators are certified on a particular aircraft type, the company has a de-facto monopoly on replacement parts and upgrades for as long as that aircraft flies. Many commercial aircraft operate for twenty, thirty, or more years, which means Moog can earn aftermarket revenue for decades from a single design win.
 
-The market for new commercial aircraft is dominated by Boeing and Airbus, and those manufacturers are Moog's primary customers. But militaries around the world buy aircraft, and defense contractors often design their own platforms, which creates additional demand. Moog supplies flight-control systems to most major military aircraft in service globally, from fighters to cargo planes to helicopters.
+The market for new commercial aircraft is dominated by [Boeing](/ba-stock/) and Airbus, and those manufacturers are Moog's primary customers. But militaries around the world buy aircraft, and defense contractors often design their own platforms, which creates additional demand. Moog supplies flight-control systems to most major military aircraft in service globally, from fighters to cargo planes to helicopters.
 
 ## Aftermarket and the installed base
 
@@ -39,7 +39,7 @@ The aerospace industry moves in cycles. Commercial aircraft orders rise when the
 
 Defense spending, by contrast, is less cyclical in the traditional sense — it responds more to geopolitics than to economic conditions. But it is subject to long procurement cycles. A military program might take years from conception to first delivery, meaning demand can be hard to forecast. A major contract win or cancellation can reshape the outlook for years.
 
-Moog has exposure to both cycles, which provides some diversification. But in a severe defense downturn coupled with a commercial aerospace recession, the company is not immune to trouble.
+Moog has exposure to both cycles, which provides some [diversification](/diversification/). But in a severe defense downturn coupled with a commercial aerospace [recession](/recession/), the company is not immune to trouble.
 
 ## Engineering complexity and certification barriers
 
@@ -51,11 +51,11 @@ The complexity and criticality of the products also mean that customers are high
 
 Moog sources materials and components globally, including metals, electronics, and subassemblies. Aerospace-grade materials are subject to strict specifications and traceability requirements. The company must maintain sophisticated supply chains and quality-control systems to meet regulatory demands.
 
-Like all industrial manufacturers, Moog has exposure to commodity prices and supply disruptions. But the high value of its products means that material cost is typically a modest fraction of selling price, which gives the company pricing power to pass through at least some of the impact of raw-material inflation.
+Like all industrial manufacturers, Moog has exposure to commodity prices and supply disruptions. But the high value of its products means that material cost is typically a modest fraction of selling price, which gives the company pricing power to pass through at least some of the impact of raw-material [inflation](/inflation/).
 
 ## The balance sheet and capital returns
 
-Moog is a cash-generative business, particularly once major development programs mature and begin producing recurring aftermarket revenue. The company has historically returned cash to shareholders through dividends and buybacks, a signal of confidence in the durability of the underlying business.
+Moog is a cash-generative business, particularly once major development programs mature and begin producing recurring aftermarket revenue. The company has historically returned cash to shareholders through [dividends](/dividend/) and buybacks, a signal of confidence in the durability of the underlying business.
 
 Defense and aerospace projects often require significant upfront R&D and investment, so capital intensity varies. But in mature programs, the business model is quite attractive — stable, recurring revenue with limited reinvestment requirements.
 

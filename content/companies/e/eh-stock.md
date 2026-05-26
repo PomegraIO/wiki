@@ -34,4 +34,4 @@ The company exemplifies the long-horizon, capital-intensive model of transportat
 
 ---
 
-**See also:** [10-K](/wiki/10-k/), [public company](/wiki/public-company/), [capital-intensive](/wiki/capital-intensive/), [nasdaq](/wiki/nasdaq/)
+**See also:** [10-K](/wiki/10-k/), [public company](/wiki/public-company/), capital-intensive, [nasdaq](/wiki/nasdaq/)

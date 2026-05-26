@@ -49,7 +49,7 @@ Recognising that the core generic business faces structural margin pressure, Tev
 
 ## Debt and financial stress
 
-Teva has historically carried substantial debt to finance acquisitions and manufacturing expansion. High debt levels leave little room for error if market conditions deteriorate. A downturn in healthcare spending, a major generic drug facing an unexpected price war, or disruption in the supply chain could strain Teva's ability to service its debt and invest in new capacity. The company's financial flexibility depends on maintaining reasonable profitability and cash generation, which in turn depends on sustaining volume and managing costs tightly.
+Teva has historically carried substantial debt to finance [acquisitions](/acquisition/) and manufacturing expansion. High debt levels leave little room for error if market conditions deteriorate. A downturn in healthcare spending, a major generic drug facing an unexpected price war, or disruption in the supply chain could strain Teva's ability to service its debt and invest in new capacity. The company's financial flexibility depends on maintaining reasonable profitability and cash generation, which in turn depends on sustaining volume and managing costs tightly.
 
 ## How to research Teva
 

@@ -26,7 +26,7 @@ handwritten: true
 
 ## A Deep-Rooted American Aerospace Supplier
 
-Ducommun is one of the oldest continuously operating businesses in America and among the last pure-play manufacturers of engineered parts for the aerospace and defense industries. The company operates two primary segments—Electronics and Structures—supplying mission-critical components to airframe manufacturers, defense primes, and space contractors. Its parts are found on nearly every major commercial aircraft (Boeing 737 and 787; Airbus A320, A220, and A380) and military platforms (F/A-18, F-35 Joint Strike Fighter, Apache, Chinook, Black Hawk helicopters, C-17, and missile systems), making it essential to the industry's supply chain.
+Ducommun is one of the oldest continuously operating businesses in America and among the last pure-play manufacturers of engineered parts for the aerospace and defense industries. The company operates two primary segments—Electronics and Structures—supplying mission-critical components to airframe manufacturers, defense primes, and space contractors. Its parts are found on nearly every major commercial aircraft ([Boeing](/ba-stock/) 737 and 787; Airbus A320, A220, and A380) and military platforms (F/A-18, F-35 Joint Strike Fighter, Apache, Chinook, Black Hawk helicopters, C-17, and missile systems), making it essential to the industry's supply chain.
 
 ## From Gold Rush Hardware to Aerospace Precision
 
@@ -38,7 +38,7 @@ By 1942, it formalized this aerospace commitment by becoming Ducommun Metals & S
 
 Ducommun manufactures two categories of mission-critical parts:
 
-**Structures Segment** (roughly half of revenue) produces engineered metallic and composite aerostructures: fuselage skins, flight control surfaces (rudders, elevators, ailerons), wing components, empennage assemblies, interior panels, and heat management systems. These are precision-fabricated from aluminum, titanium, composites, and other advanced materials to exacting tolerance and weight specifications. The company uses advanced machining, composite layup, welding, and assembly processes. Major customers include Boeing, Airbus, Lockheed Martin, and Northrop Grumman.
+**Structures Segment** (roughly half of revenue) produces engineered metallic and composite aerostructures: fuselage skins, flight control surfaces (rudders, elevators, ailerons), wing components, empennage assemblies, interior panels, and heat management systems. These are precision-fabricated from aluminum, titanium, composites, and other advanced materials to exacting tolerance and weight specifications. The company uses advanced machining, composite layup, welding, and assembly processes. Major customers include Boeing, Airbus, [Lockheed Martin](/lmt-stock/), and Northrop Grumman.
 
 **Electronics Segment** (the other half) supplies high-reliability cable and wire harnesses, connector systems, electronic assemblies, power distribution systems, and harsh-environment electronics for flight-critical applications. These products must perform flawlessly in extreme temperatures, vibration, and electromagnetic environments. Ducommun builds custom harness assemblies and integrated electronic units for avionics, propulsion systems, landing gear, and flight control systems.
 

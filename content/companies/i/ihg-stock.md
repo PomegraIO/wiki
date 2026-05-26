@@ -61,7 +61,7 @@ IHG's six brands serve distinct positions in the market:
 
 **Indigo** and other smaller brands round out the portfolio, filling niches like extended-stay and mid-range markets.
 
-This segmentation is deliberate. Different guest needs map to different brands. A corporate account might book Holiday Inn Express for routine travel while reserving InterContinental for high-level client entertainment. Franchise partners choose brands aligned with their property type, market positioning, and target customer base.
+This segmentation is deliberate. Different guest needs map to different brands. A corporate account might book Holiday Inn Express for routine travel while reserving InterContinental for high-level client entertainment. Franchise partners choose brands aligned with their property type, market positioning, and [target](/tgt-stock/) customer base.
 
 ## How Revenue Flows
 
@@ -71,7 +71,7 @@ The franchise model creates a high-margin, recurring revenue base with lower cap
 
 ## Competitive Dynamics and Pressures
 
-IHG competes with other global hotel operators, most notably Marriott International and Hilton Worldwide Holdings. Marriott is larger by room count and operates more owned properties; Hilton has pursued a similar asset-light strategy. The competitive levers are brand prestige, scale of the loyalty program, efficiency of central reservations and yield management systems, and relationships with major franchisees and franchisee financing partners.
+IHG competes with other global hotel operators, most notably Marriott International and [Hilton Worldwide](/hlt-stock/) Holdings. Marriott is larger by room count and operates more owned properties; Hilton has pursued a similar asset-light strategy. The competitive levers are brand prestige, scale of the loyalty program, efficiency of central reservations and yield management systems, and relationships with major franchisees and franchisee financing partners.
 
 The loyalty program is a critical asset. IHG One Rewards creates switching costs for guests and generates data on customer behavior and preferences. Program members book preferentially through IHG channels, and premium members spend more. This deepens relationships and increases lifetime value.
 
@@ -85,7 +85,7 @@ New supply presents a constant risk. If franchisees over-build in a market—add
 
 Labor costs in hospitality are rising in developed markets, squeezing property-level margins and making franchisee economics tighter. Regulatory costs—minimum wage increases, health and safety mandates—vary by jurisdiction but broadly trend upward.
 
-Technological disruption via new booking channels and short-term rental platforms like Airbnb creates competition for travel dollars, particularly in leisure and budget segments. These platforms bypass traditional hoteliers entirely, capturing direct customer relationships.
+Technological disruption via new booking channels and short-term rental platforms like [Airbnb](/abnb-stock/) creates competition for travel dollars, particularly in leisure and budget segments. These platforms bypass traditional hoteliers entirely, capturing direct customer relationships.
 
 Dependence on third-party franchisees introduces principal-agent tensions. Franchisees optimize locally; they may underinvest in brand maintenance if property economics are weak, or they may breach system standards, damaging brand equity.
 

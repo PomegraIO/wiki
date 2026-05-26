@@ -14,7 +14,7 @@ handwritten: true
 
 What does Palo Alto Networks actually do?
 
-Palo Alto Networks is an enterprise cybersecurity company. It makes software and hardware that corporations, government agencies, and other organizations use to defend their networks and data from cyberattacks. The company was founded in 2005 by Nir Zuk, an Israeli security engineer, and went public in 2012. Today it is one of the largest stand-alone cybersecurity vendors in the world, competing with companies like CrowdStrike, Fortinet, and a security division of Cisco. Palo Alto's customers range from mid-market companies to the largest enterprises and include government agencies and critical infrastructure operators.
+Palo Alto Networks is an enterprise cybersecurity company. It makes software and hardware that corporations, government agencies, and other organizations use to defend their networks and data from cyberattacks. The company was founded in 2005 by Nir Zuk, an Israeli security engineer, and went public in 2012. Today it is one of the largest stand-alone cybersecurity vendors in the world, competing with companies like [CrowdStrike](/crwd-stock/), [Fortinet](/ftnt-stock/), and a security division of Cisco. Palo Alto's customers range from mid-market companies to the largest enterprises and include government agencies and critical infrastructure operators.
 
 The company's business model is subscription-based. Customers pay annual or multi-year fees for software licenses or managed services. Once installed, these products integrate deeply into a customer's infrastructure, making them sticky — switching to a competitor is costly and disruptive. That stickiness and the recurring nature of the revenue are why enterprise software companies like Palo Alto trade at premium valuations.
 
@@ -28,7 +28,7 @@ The product organization has evolved from a best-of-breed model — each tool do
 
 How does the company make money?
 
-Palo Alto generates revenue in two ways: subscription licenses and managed services. A customer typically buys a multi-year subscription to a specific product (a network firewall, cloud-security software, endpoint protection, etc.). The fee is paid annually or upfront, and the company records that as annual recurring revenue (ARR). The actual cash may come in upfront, but the company recognizes revenue ratably over the term, so a three-year contract worth 300,000 dollars shows up as 100,000 dollars of revenue per year on the income statement.
+Palo Alto generates revenue in two ways: subscription licenses and managed services. A customer typically buys a multi-year subscription to a specific product (a network firewall, cloud-security software, endpoint protection, etc.). The fee is paid annually or upfront, and the company records that as annual recurring revenue (ARR). The actual cash may come in upfront, but the company recognizes revenue ratably over the term, so a three-year contract worth 300,000 dollars shows up as 100,000 dollars of revenue per year on the [income statement](/income-statement/).
 
 Managed services are a smaller business. Palo Alto operates security operations centers (SOCs) for large customers who do not have the expertise or scale to monitor their own networks. The company's security analysts watch the customer's network 24/7, spot threats, and respond. This is a higher-touch, higher-margin business than pure software, but it is labor-intensive.
 
@@ -48,13 +48,13 @@ The security market is fragmented and increasingly competitive. New entrants wit
 
 Customer concentration is a risk. The company's largest customers generate disproportionate revenue, so if a major customer leaves or reduces spending, revenue takes a hit. Additionally, customers increasingly expect security vendors to work together and interoperate — they do not want to buy every security tool from a single vendor. That interoperability requirement limits Palo Alto's ability to lock in customers and charge premium prices.
 
-The company's acquisition strategy has also created integration challenges. Merging multiple acquired companies into a cohesive product platform and organizational structure is genuinely hard. Failed integrations, duplicate capabilities, and organizational confusion can result in slower innovation, higher costs, and customer dissatisfaction. Some of the company's acquisitions have been phenomenally successful; others have been integrative challenges.
+The company's acquisition strategy has also created integration challenges. Merging multiple acquired companies into a cohesive product platform and organizational structure is genuinely hard. Failed integrations, duplicate capabilities, and organizational confusion can result in slower innovation, higher costs, and customer dissatisfaction. Some of the company's [acquisitions](/acquisition/) have been phenomenally successful; others have been integrative challenges.
 
 Sales and marketing costs are high. Palo Alto spends a very large percentage of revenue on sales, marketing, and customer success teams to land deals, expand within accounts, and retain customers. That spend has been necessary to fuel growth, but it compresses near-term profitability.
 
 Is the company growing and profitable?
 
-Palo Alto is a growth company that only recently became profitable. For much of its public-company history, the company prioritized growth over profitability, investing heavily in sales and R&D. In recent years, as the company has matured and achieved massive scale, it has begun managing toward profitability. The company now reports both GAAP profit (following standard accounting rules) and adjusted EBITDA (which adds back stock-based compensation and other non-cash items).
+Palo Alto is a growth company that only recently became profitable. For much of its public-company history, the company prioritized growth over profitability, investing heavily in sales and R&D. In recent years, as the company has matured and achieved massive scale, it has begun managing toward profitability. The company now reports both GAAP profit (following standard accounting rules) and adjusted [EBITDA](/ebitda/) (which adds back stock-based compensation and other non-cash items).
 
 Annual recurring revenue (ARR) is the most important metric for the business because it indicates forward revenue that is highly likely to be realized. The company has a history of growing ARR by 25 to 35 percent per year, though that growth has moderated as the company has become larger. Revenue growth and customer expansion remain the primary drivers of shareholder returns, more so than current profitability.
 

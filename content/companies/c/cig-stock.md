@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Energy Company of Minas Gerais — known as CEMIG by its Portuguese acronym Companhia Energética de Minas Gerais — is Brazil's fourth-largest electricity company by revenue and operates across the full spectrum of the power business: generating electricity, transmitting it across the state, and distributing it to end consumers. The company is approximately half-owned by the Brazilian state of Minas Gerais and trades on the New York Stock Exchange as CIG, making it one of the few major Brazilian utilities accessible to international investors.
+The Energy Company of Minas Gerais — known as CEMIG by its Portuguese acronym Companhia Energética de Minas Gerais — is Brazil's fourth-largest electricity company by revenue and operates across the full spectrum of the power business: generating electricity, transmitting it across the state, and distributing it to end consumers. The company is approximately half-owned by the Brazilian state of Minas Gerais and trades on the [New York Stock Exchange](/new-york-stock-exchange/) as CIG, making it one of the few major Brazilian utilities accessible to international investors.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ The company's structure evolved over time. Unlike some state-owned utilities tha
 
 CEMIG is vertically integrated, meaning it controls the full chain from power plant to wall socket. This structure is typical of large utilities in developing markets but has become less common in developed countries, where deregulation has split these functions.
 
-On the **generation** side, CEMIG operates approximately 50 power plants with a combined capacity of around 6,000 megawatts. The vast majority are hydroelectric facilities, capturing the flow of rivers like the Paranaíba and the Grande. This heavy hydroelectric exposure aligns CEMIG with Brazil's broader energy infrastructure, as hydropower accounts for roughly 60% of Brazil's electricity supply. CEMIG also operates some smaller thermal and natural gas plants to fill gaps during dry seasons when hydroelectric output declines.
+On the **generation** side, CEMIG operates approximately 50 power plants with a combined capacity of around 6,000 megawatts. The vast majority are hydroelectric facilities, capturing the flow of rivers like the Paranaíba and the Grande. This heavy hydroelectric exposure aligns CEMIG with Brazil's broader energy infrastructure, as hydropower accounts for roughly 60% of Brazil's electricity supply. CEMIG also operates some smaller thermal and [natural gas](/natural-gas/) plants to fill gaps during dry seasons when hydroelectric output declines.
 
 The **transmission** segment moves large quantities of power from generation sites to distribution substations. This is less visible to the public but critical infrastructure: high-voltage lines cross the state, connecting CEMIG's dams and other generation assets to the load centers where electricity is actually used.
 
@@ -46,7 +46,7 @@ The **distribution** division sells electricity directly to millions of retail a
 
 ## Revenue drivers and business model
 
-CEMIG's revenue comes from selling electricity to end customers (residential, commercial, and industrial) at rates typically set by Brazil's energy regulator. The regulator approves rate structures that allow utilities to earn a reasonable return on their capital while keeping prices affordable. This regulatory framework creates predictable revenue but limits pricing flexibility — CEMIG cannot simply raise prices if commodity costs or interest rates rise; it must petition the regulator and justify the increase.
+CEMIG's revenue comes from selling electricity to end customers (residential, commercial, and industrial) at rates typically set by Brazil's energy regulator. The regulator approves rate structures that allow utilities to earn a reasonable return on their capital while keeping prices affordable. This regulatory framework creates predictable revenue but limits pricing flexibility — CEMIG cannot simply raise prices if commodity costs or [interest rates](/interest-rate/) rise; it must petition the regulator and justify the increase.
 
 The company also has wholesale power sales through Brazil's energy auction system, in which utilities bid to supply power to distribution companies and large industrial users. Competition in these auctions is fierce, so margins are thin.
 
@@ -62,12 +62,12 @@ Environmental regulation also matters. CEMIG's hydroelectric dams require enviro
 
 ## Ownership and dividend policy
 
-The state of Minas Gerais owns roughly 51% of CEMIG. The remaining shares trade publicly on the B3 (São Paulo Stock Exchange), the New York Stock Exchange, and the Madrid Stock Exchange. This mixed ownership creates tension: state government often wants the company to keep rates low for political reasons, while private shareholders expect reasonable returns. Dividend payouts are a key point of negotiation.
+The state of Minas Gerais owns roughly 51% of CEMIG. The remaining shares trade publicly on the B3 (São Paulo [Stock Exchange](/stock-exchange/)), the New York Stock Exchange, and the Madrid Stock Exchange. This mixed ownership creates tension: state government often wants the company to keep rates low for political reasons, while private shareholders expect reasonable returns. Dividend payouts are a key point of negotiation.
 
-CEMIG has historically paid dividends to shareholders, though the level varies with regulatory decisions and political pressure. The dividend yield depends on the stock price and the company's profitability, both of which fluctuate with rainfall, regulatory changes, and broader Brazilian economic conditions.
+CEMIG has historically paid [dividends](/dividend/) to shareholders, though the level varies with regulatory decisions and political pressure. The [dividend yield](/dividend-yield/) depends on the stock price and the company's profitability, both of which fluctuate with rainfall, regulatory changes, and broader Brazilian economic conditions.
 
 ## Investment considerations and research
 
-CEMIG's enterprise value and dividend attractiveness are highly sensitive to regulatory outcomes and hydroelectric rainfall. Investors researching the company should focus on the trend in average tariffs approved by regulators, the company's debt levels (utilities carry heavy debt to finance infrastructure), and management's capital expenditure plans. The 10-K filing (SEC CIK 0001157557) discloses these factors in English and provides data on generation output, customer counts, and segment profitability.
+CEMIG's [enterprise value](/enterprise-value/) and dividend attractiveness are highly sensitive to regulatory outcomes and hydroelectric rainfall. Investors researching the company should focus on the trend in average tariffs approved by regulators, the company's debt levels (utilities carry heavy debt to finance infrastructure), and management's capital expenditure plans. The 10-K filing (SEC CIK 0001157557) discloses these factors in English and provides data on generation output, customer counts, and segment profitability.
 
-The company's exposure to Brazilian political and economic cycles is also material. Currency fluctuations affect the value of the dollar-denominated dividend when paid to international shareholders. Interest-rate movements affect both CEMIG's cost of borrowing and the discount rate that investors use to value the company's future cash flows.
+The company's exposure to Brazilian political and economic cycles is also material. Currency fluctuations affect the value of the dollar-denominated dividend when paid to international shareholders. Interest-rate movements affect both CEMIG's cost of borrowing and the [discount rate](/discount-rate/) that investors use to value the company's future cash flows.

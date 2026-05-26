@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-InterDigital, Inc. (NASDAQ: IDCC) operates in an unglamorous but profitable corner of the technology industry: patent licensing. The company owns a portfolio of more than 50,000 patents spanning mobile telecommunications standards, wireless protocols (5G, WiFi), video compression, imaging, and connected-device technologies. Rather than manufacturing devices, InterDigital licenses these patents to handset makers, equipment manufacturers, and network operators who build and sell the products. The licensing model is a licensing-revenue engine—recurring royalties on billions of devices produced annually, with minimal ongoing expense once a license agreement is signed and litigation resolved.
+InterDigital, Inc. ([NASDAQ](/nasdaq/): IDCC) operates in an unglamorous but profitable corner of the technology industry: patent licensing. The company owns a portfolio of more than 50,000 patents spanning mobile telecommunications standards, wireless protocols (5G, WiFi), video compression, imaging, and connected-device technologies. Rather than manufacturing devices, InterDigital licenses these patents to handset makers, equipment manufacturers, and network operators who build and sell the products. The licensing model is a licensing-revenue engine—recurring royalties on billions of devices produced annually, with minimal ongoing expense once a license agreement is signed and litigation resolved.
 
 The business is essentially this: InterDigital holds patents in technologies that became industry standards (3G, 4G, 5G, WiFi, video codecs). Device makers cannot design and manufacture modern phones without infringing these patents. They therefore negotiate licenses with InterDigital (often after years of litigation) and pay per-unit royalties. The royalty rates vary but typically range from 0.5% to 3% of retail price, translating to US$0.50 to several dollars per device.
 
@@ -27,7 +27,7 @@ Operating costs are low. The company maintains a patent portfolio (legal and tec
 
 InterDigital's competitive position rests entirely on patent portfolio depth and enforceability. The company owns patents critical to 5G standards (stewarded by standardisation bodies like 3GPP), which gives it negotiating leverage: manufacturers who fail to license risk exclusion from standards or costly infringement suits. The portfolio is aged and valuable. The company acquired or invested in patents from companies like VocalTec, Technicolor, and others, diversifying beyond pure 5G into video and imaging.
 
-Litigation is endemic to the industry. Manufacturers often dispute royalty rates or patent validity, leading to court battles lasting years. InterDigital has litigated against Samsung, Huawei, Apple, Nokia, and others, with settlements typically in the US$100–500 million range. Each settlement negotiates both a rate for future devices and a lump-sum payment for historical sales. Litigation costs are substantial—legal fees, expert witnesses, and management time—but the high royalty base makes settlements valuable enough to justify the fight.
+Litigation is endemic to the industry. Manufacturers often dispute royalty rates or patent validity, leading to court battles lasting years. InterDigital has litigated against Samsung, Huawei, [Apple](/aapl-stock/), Nokia, and others, with settlements typically in the US$100–500 million range. Each settlement negotiates both a rate for future devices and a lump-sum payment for historical sales. Litigation costs are substantial—legal fees, expert witnesses, and management time—but the high royalty base makes settlements valuable enough to justify the fight.
 
 The enforceability of SEPs (essential patents) is legally contested globally. Standards-setting organisations require members to license SEPs at "fair, reasonable, and non-discriminatory" (FRAND) rates, which in practice means courts often cap what patent holders can collect. This legal uncertainty is a structural risk: if courts cap SEP royalty rates globally (as happened in parts of Europe), InterDigital's revenue could fall sharply.
 
@@ -43,7 +43,7 @@ Non-smartphone device categories—IoT, automotive, imaging sensors—present gr
 
 Technology commoditisation is the existential risk. If a patent portfolio loses relevance (because technology transitions away from it, or because competitors develop non-infringing alternatives), royalty streams evaporate. InterDigital faces this gradually: 3G is fading, 4G will eventually be legacy, and 5G will mature. The company must consistently innovate and acquire patents in emerging standards to maintain value.
 
-Litigation and regulatory uncertainty compound this. A major court ruling against SEP licensing could slash valuations across the industry. The European Union and China have investigated SEP-licensing practices; regulatory changes could cap rates or force licensing on terms unfavourable to patent holders.
+Litigation and regulatory uncertainty compound this. A major court ruling against SEP licensing could slash valuations across the industry. The European Union and China have investigated SEP-licensing practices; regulatory changes could [cap rates](/cap-rate/) or force licensing on terms unfavourable to patent holders.
 
 Geopolitical risk is real. US-China tensions could reduce licensing volume if Chinese manufacturers are sanctioned or if reciprocal restrictions limit US-based patent holders' access to Chinese markets. Huawei, once a major licensee, has been restricted from certain US technologies; if restrictions deepen, InterDigital's China exposure shrinks.
 
@@ -51,9 +51,9 @@ Finally, royalty rates are under perpetual pressure. Manufacturers have consolid
 
 ## Evaluating InterDigital as an equity
 
-The 10-K (CIK 0001405495) details revenue by license type and major licensee, litigation status and contingent liabilities, patent portfolio composition and age, and R&D spending on new-patent development.
+The 10-K (CIK 0001405495) details revenue by license type and major licensee, litigation status and [contingent liabilities](/contingent-liabilities-government/), patent portfolio composition and age, and R&D spending on new-patent development.
 
-Key metrics: licensing revenue and growth (core to valuation); litigation settlement amounts and timing (episodic but material to annual earnings); gross and operating margins (stability reveals pricing power and cost control); patent portfolio metrics (number of essential patents in active standards, measured in technical literature); and free cash flow (low capex and R&D mean strong conversion of operating income to cash).
+Key metrics: licensing revenue and growth (core to valuation); litigation settlement amounts and timing (episodic but material to annual earnings); gross and [operating margins](/operating-margin/) (stability reveals pricing power and cost control); patent portfolio metrics (number of essential patents in active standards, measured in technical literature); and [free cash flow](/free-cash-flow/) (low capex and R&D mean strong conversion of operating income to cash).
 
 Monitor announcements of new license agreements (revealing rate negotiation outcomes and customer wins), litigation settlements (impact to earnings), and standardisation body participation (insight into early-stage patent relevance in emerging technologies).
 

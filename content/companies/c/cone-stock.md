@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Compass Sub North is a regional quick-service restaurant operator centred on submarine sandwiches and casual fare, with locations concentrated in the northeastern United States. The company trades on the NASDAQ under the ticker CONE and represents a smaller, more local foothold in the casual quick-service space — distinct from the national submarine-sandwich mega-chains by virtue of its regional focus, smaller unit count, and emphasis on local unit profitability over explosive growth.
+Compass Sub North is a regional quick-service restaurant operator centred on submarine sandwiches and casual fare, with locations concentrated in the northeastern United States. The company trades on the [NASDAQ](/nasdaq/) under the ticker CONE and represents a smaller, more local foothold in the casual quick-service space — distinct from the national submarine-sandwich mega-chains by virtue of its regional focus, smaller unit count, and emphasis on local unit profitability over explosive growth.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ By the 2000s, Compass Sub North had established a mature operating footprint —
 
 The quick-service format meant labour efficiency was critical. Sandwich-making is repetitive and can be systematized — experienced crew can prepare customized orders at speed, minimizing wait times and maximizing customer throughput. This efficiency translates into reasonable per-unit profitability, even in smaller markets where traffic might be lower than in a major metropolitan area.
 
-Food costs — largely driven by bread, meat, cheese, and vegetables — are typically managed through supplier relationships and careful inventory turnover. Because submarine sandwiches are made to order, spoilage is minimized compared to a format where food is pre-prepared. This helped Compass Sub North maintain stable cost structures despite commodity price fluctuations in bread, meat, and dairy.
+Food costs — largely driven by bread, meat, cheese, and vegetables — are typically managed through supplier relationships and careful [inventory turnover](/inventory-turnover/). Because submarine sandwiches are made to order, spoilage is minimized compared to a format where food is pre-prepared. This helped Compass Sub North maintain stable cost structures despite commodity price fluctuations in bread, meat, and dairy.
 
 ## The challenges of regional scale in a national market
 
@@ -61,10 +61,10 @@ For a regional operator like Compass Sub North, these forces have meant that mai
 
 Today, Compass Sub North remains a publicly traded regional operator. The company's financial profile is shaped by its regional footprint, its mix of company-operated and franchised units, and the mature, largely stable submarine-sandwich category in which it competes.
 
-Growth options for the company are threefold: expand within existing northeastern markets, extend into adjacent geographic regions, or pursue acquisitions of complementary restaurant concepts to diversify the portfolio. Any expansion comes with the risk that new markets may not support unit profitability at the level the company has achieved in its core regions, or that the company lacks the operational scale to compete effectively against national brands with superior purchasing power and advertising reach.
+[Growth options](/growth-option/) for the company are threefold: expand within existing northeastern markets, extend into adjacent geographic regions, or pursue [acquisitions](/acquisition/) of complementary restaurant concepts to diversify the portfolio. Any expansion comes with the risk that new markets may not support unit profitability at the level the company has achieved in its core regions, or that the company lacks the operational scale to compete effectively against national brands with superior purchasing power and advertising reach.
 
 ## How to research Compass Sub North
 
-Start with the company's 10-K filing (SEC CIK 0002103884), which reveals the split between company-operated and franchised revenue, the gross profit margins on each, and the geographic and concept composition of the restaurant base. Watch for trends in comparable-store sales — growth in like-for-like units indicates the company is gaining traffic and transaction value, while flat or declining comps suggest headwinds.
+Start with the company's 10-K filing (SEC CIK 0002103884), which reveals the split between company-operated and franchised revenue, the [gross profit margins](/gross-profit-margin/) on each, and the geographic and concept composition of the restaurant base. Watch for trends in comparable-store sales — growth in like-for-like units indicates the company is gaining traffic and transaction value, while flat or declining comps suggest headwinds.
 
 The earnings calls provide colour on labour cost trends, any changes to menu pricing, capital plans for new unit openings, and commentary on competitive positioning. Understanding Compass Sub North requires recognizing it as a regional operator optimizing for profitability rather than national growth — a strategy that creates a different risk and return profile than a high-growth franchisor would offer.

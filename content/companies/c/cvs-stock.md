@@ -39,7 +39,7 @@ The more important move was CVS's entry into pharmacy benefits management (PBM),
 
 PBMs are controversial because they extract value by controlling access to drugs and negotiating prices, while the actual work — dispensing the medication — is done by pharmacies (often independent operators) who receive minimal reimbursement. PBMs argue that they negotiate better prices for insurers and employers, saving the healthcare system money. Critics argue that PBMs are unnecessary middlemen who increase costs by taking margins while negotiating with both sides against the middle, and that vertical integration between a PBM and a pharmacy chain creates perverse incentives.
 
-CVS's PBM business, Caremark, is one of the three largest in the United States (alongside Express Scripts and OptumRx, which is part of UnitedHealth). Caremark negotiates on behalf of insurance companies, large employers, and government programmes (Medicare Part D, Medicaid) for pharmacy benefits covering hundreds of millions of people. The business is high-margin because it involves little direct cost — Caremark does not manufacture drugs, only negotiates their price and processes claims. This generates steady, growing revenue.
+CVS's PBM business, Caremark, is one of the three largest in the United States (alongside Express Scripts and OptumRx, which is part of [UnitedHealth](/unh-stock/)). Caremark negotiates on behalf of insurance companies, large employers, and government programmes (Medicare Part D, Medicaid) for pharmacy benefits covering hundreds of millions of people. The business is high-margin because it involves little direct cost — Caremark does not manufacture drugs, only negotiates their price and processes claims. This generates steady, growing revenue.
 
 ## The Aetna acquisition and vertical integration
 
@@ -71,7 +71,7 @@ The broader question is whether vertical integration in healthcare is beneficial
 
 ## Challenges and competitive pressures
 
-CVS faces competition on multiple fronts. Walgreens remains a major competitor in retail pharmacy. Amazon has begun entering pharmacy and healthcare, and while it is still small, it represents an existential threat because Amazon can leverage its logistics network and customer trust to undercut prices. Walmart operates a large pharmacy business and also has logistics advantages.
+CVS faces competition on multiple fronts. Walgreens remains a major competitor in retail pharmacy. Amazon has begun entering pharmacy and healthcare, and while it is still small, it represents an existential threat because Amazon can leverage its logistics network and customer trust to undercut prices. [Walmart](/wmt-stock/) operates a large pharmacy business and also has logistics advantages.
 
 In the insurance space, UnitedHealth is larger, and a host of regional and employer-sponsored health plans compete for business. The government regulates health insurance closely, and any significant change in policy around drug pricing, insurance coverage, or the PBM business could reshape the competitive landscape and CVS's profitability.
 

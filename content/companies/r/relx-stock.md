@@ -43,7 +43,7 @@ RELX earns revenue in two ways: **subscriptions** (annual or multi-year contract
 
 The Exhibitions business carries lower margins (typically 30 to 40 percent) because running an event requires venue rentals, staffing, logistics, and travel — real costs that don't scale as well as digital information products. However, exhibitions are also highly profitable in absolute terms and generate large amounts of cash.
 
-Overall, RELX operates a **high-margin, recurring-revenue model**. The company has significant pricing power because customers depend on the data and view the cost as essential. During recession, customers may reduce the number of users or subscriptions, but they rarely cancel entirely because the product is embedded in their workflow.
+Overall, RELX operates a **high-margin, recurring-revenue model**. The company has significant pricing power because customers depend on the data and view the cost as essential. During [recession](/recession/), customers may reduce the number of users or subscriptions, but they rarely cancel entirely because the product is embedded in their workflow.
 
 ## Competitive landscape and risk
 
@@ -53,11 +53,11 @@ The clearer structural risk is **digital disruption and open access**. In academ
 
 ## Understanding RELX as a business
 
-RELX is best studied as a **high-quality recurring-revenue business** selling to professional markets. Investors should read the annual report (London-listed, so filed with Companies House and on RELX's investor relations site) and focus on:
+RELX is best studied as a **high-quality recurring-revenue business** selling to professional markets. Investors should read the [annual report](/10-k/) (London-listed, so filed with Companies House and on RELX's investor relations site) and focus on:
 
 - **Organic growth rates by segment** — especially Risk and Scientific, where margins are high and growth is the highest. Legal and Exhibitions are more mature.
 - **Customer retention and churn** — because the model is subscription-based, low churn is the engine of growth.
 - **Pricing power** — how much RELX can raise prices for existing products without losing customers. In mature markets this is tightly constrained; in emerging markets or new products, there is more room.
 - **Progress on digital transformation** — how much revenue now comes from cloud-based software versus legacy print and transactional models.
 
-RELX's stock reflects the value of a mature, global information oligopoly with pricing power, sticky customers, and high cash generation. The company is neither a growth stock nor a cheap one, but a durable franchise trading on its ability to raise prices in line with inflation and to transition its business toward higher-margin digital products before legacy revenues erode.
+RELX's stock reflects the value of a mature, global information oligopoly with pricing power, sticky customers, and high cash generation. The company is neither a growth stock nor a cheap one, but a durable franchise trading on its ability to raise prices in line with [inflation](/inflation/) and to transition its business toward higher-margin digital products before legacy revenues erode.

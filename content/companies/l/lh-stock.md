@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-LABCORP is one of the two largest clinical laboratory networks in the United States, operating thousands of patient service centers where Americans go for routine blood work, drug screening, and diagnostic testing. The company processes tens of millions of laboratory specimens annually, partnering with physicians, hospitals, employers, and pharmaceutical manufacturers. It sits at the backbone of American healthcare and drug development, invisible to most patients but essential to the system.
+LABCORP is one of the two largest clinical laboratory networks in the United States, operating thousands of patient service centers where Americans go for routine blood work, drug screening, and diagnostic testing. The company processes tens of millions of laboratory specimens annually, partnering with physicians, hospitals, employers, and pharmaceutical manufacturers. It sits at the backbone of [American healthcare](/ahr-stock/) and drug development, invisible to most patients but essential to the system.
 
 ## The Core Business
 
@@ -30,7 +30,7 @@ Data solutions revenue is nascent but expanding—it is less clear what the long
 
 ## Competitive Position and Moat
 
-LabCorp and Quest Diagnostics are the dominant duopoly in U.S. clinical lab testing. Together they handle roughly 80% of routine lab volumes nationally. This concentration confers network effects and switching cost moats: a hospital system, insurance company, or large physician group will consolidate lab orders with one partner to negotiate volume discounts, integrate IT systems, and simplify operations. A rival would have to offer substantially better service or economics to flip that arrangement.
+LabCorp and [Quest Diagnostics](/dgx-stock/) are the dominant duopoly in U.S. clinical lab testing. Together they handle roughly 80% of routine lab volumes nationally. This concentration confers network effects and switching cost moats: a hospital system, insurance company, or large physician group will consolidate lab orders with one partner to negotiate volume discounts, integrate IT systems, and simplify operations. A rival would have to offer substantially better service or economics to flip that arrangement.
 
 Covance competes in a less concentrated market—there are multiple contract research organizations (CROs) globally. However, LabCorp's scale and integrated platform (ability to cross-sell clinical labs and data services to the same customer) provide a competitive edge.
 

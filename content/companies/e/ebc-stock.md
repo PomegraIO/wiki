@@ -21,7 +21,7 @@ The mutual form conferred certain advantages. Without the pressure to generate r
 
 In 2021, Eastern Bank underwent a mutual-to-[stock](/wiki/stock/) conversion, creating Eastern Bankshares as a newly public holding company. This was not a forced restructuring or a sign of distress; rather, it reflected management's judgment that public markets would provide capital-raising capacity for growth and strategic flexibility that a mutual structure could no longer easily accommodate.
 
-The conversion issued shares to existing depositors and members, giving them equity ownership in the new entity. The IPO raised proceeds that strengthened the [balance sheet](/balance-sheet/) and created a more efficient capital structure. Once public, Eastern Bankshares became subject to SEC reporting requirements and the governance and regulatory oversight that comes with being a public company traded on NASDAQ under the ticker EBC.
+The conversion issued shares to existing depositors and members, giving them equity ownership in the new entity. The IPO raised proceeds that strengthened the [balance sheet](/balance-sheet/) and created a more efficient capital structure. Once public, Eastern Bankshares became subject to SEC reporting requirements and the governance and regulatory oversight that comes with being a public company traded on [NASDAQ](/nasdaq/) under the ticker EBC.
 
 ## Business lines and earning model
 
@@ -51,7 +51,7 @@ Investors in regional banks monitor a handful of core metrics: net interest marg
 
 Like all regional banks, profitability is sensitive to [interest rate](/interest-rate/) levels and the [yield curve](/wiki/bond-yield-curve-risk/). Rising rates can improve net interest margins in the near term, but they also depress loan demand and increase [refinancing risk](/refinancing-risk/) on the existing portfolio. Inverted [yield curves](/yield-curve/) pressurize margins directly and signal recessionary risk, which weakens credit quality.
 
-The conversion to stock form created liquidity for long-term depositors who held ownership stakes in the mutual, and it opened the institution to capital markets funding. However, it also introduced shareholder return expectations and quarterly earnings cycles that mutuals do not face. Management must balance growth investments, dividend sustainability, and regulatory capital requirements in a way that satisfies public investors.
+The conversion to stock form created liquidity for long-term depositors who held ownership stakes in the mutual, and it opened the institution to capital markets funding. However, it also introduced shareholder return expectations and quarterly earnings cycles that mutuals do not face. Management must balance growth investments, [dividend](/dividend/) sustainability, and regulatory capital requirements in a way that satisfies public investors.
 
 ## Ongoing evolution
 

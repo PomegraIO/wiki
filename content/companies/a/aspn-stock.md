@@ -22,7 +22,7 @@ Aerogels are networks of air suspended in silica or other solid matrices, creati
 | **Thermal Barrier (PyroThin)** | EV battery packs | $306.8M | $168.9M | Concentrated (GM majority) |
 | **Energy Industrial** | Industrial insulation, LNG | $145.9M | $102.2M | Stable but modest growth |
 
-The dramatic collapse in Thermal Barrier revenue—from $306.8 million in 2024 to $168.9 million in 2025—reflects both customer inventory corrections and a broader softening in EV demand assumptions. General Motors represents the overwhelming majority of thermal barrier sales, creating a single-customer dependency that has intensified as the broader EV market recalibrates. The Energy Industrial segment provides more diversified revenue but operates at smaller absolute scale.
+The dramatic collapse in Thermal Barrier revenue—from $306.8 million in 2024 to $168.9 million in 2025—reflects both customer inventory corrections and a broader softening in EV demand assumptions. [General Motors](/gm-stock/) represents the overwhelming majority of thermal barrier sales, creating a single-customer dependency that has intensified as the broader EV market recalibrates. The Energy Industrial segment provides more diversified revenue but operates at smaller absolute scale.
 
 ## Manufacturing Footprint and Cost Structure Pivot
 

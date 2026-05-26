@@ -38,7 +38,7 @@ DoorDash generates revenue from four primary sources. The largest is the commiss
 
 The commission and delivery fee structure creates an economic paradox. If DoorDash raises its commission, restaurants grow unhappy and might reduce participation or drop out entirely, tightening supply. If it raises delivery fees, customers might order less frequently or defect to competitors. The company is constantly balancing these levers. In competitive markets where multiple delivery services operate, restaurants and customers have choices, which limits pricing power. In markets where DoorDash has overwhelming share, the company has more freedom to raise prices, but that invites competitors or regulatory scrutiny.
 
-The unit economics of a single delivery are opaque to the public. The company must cover the driver's cost (wages or subsidy), the overhead of the logistics network, customer acquisition, marketing, and the cost of customer support and complaints. Margins on a single order are likely thin; the business model depends on scale and the hope that fixed costs will be spread across millions of deliveries.
+The unit economics of a single delivery are opaque to the public. The company must cover the driver's cost (wages or subsidy), the overhead of the logistics network, customer [acquisition](/acquisition/), marketing, and the cost of customer support and complaints. Margins on a single order are likely thin; the business model depends on scale and the hope that fixed costs will be spread across millions of deliveries.
 
 ## The driver question — employment or independence?
 
@@ -58,7 +58,7 @@ Barriers to entry exist but are not absolute. A well-funded competitor could bui
 
 ## The path to profitability
 
-DoorDash achieved quarterly profitability in recent years, a milestone the market celebrated as validation of the business model. But profitability is fragile. It depends on achieving scale (spreading fixed costs), on maintaining pricing power (commissions and delivery fees), and on keeping driver supply sufficient that the company does not have to subsidize rates. A recession that suppresses demand, new regulations that increase labor costs, or new competition that forces discounting could erode profitability quickly.
+DoorDash achieved quarterly profitability in recent years, a milestone the market celebrated as validation of the business model. But profitability is fragile. It depends on achieving scale (spreading fixed costs), on maintaining pricing power (commissions and delivery fees), and on keeping driver supply sufficient that the company does not have to subsidize rates. A [recession](/recession/) that suppresses demand, new regulations that increase labor costs, or new competition that forces discounting could erode profitability quickly.
 
 ## How to research DoorDash
 

@@ -31,7 +31,7 @@ Case started in 1842 in Racine, Wisconsin, making threshing machines for grain f
 
 In 1999 they merged to form CNH. The reason was straightforward: the farm-equipment industry was consolidating, and a combined company could compete better against John Deere, the market leader. By combining the two, CNH got geographic reach, a broader product line, and enough scale to invest in manufacturing efficiency and new technology.
 
-The merger brought together Case's strong position in North America with New Holland's strengths in Europe and some international markets. It was a classic consolidation play: same industry, similar customers, complementary geographies, and the hope that overhead savings would fund innovation.
+The [merger](/merger/) brought together Case's strong position in North America with New Holland's strengths in Europe and some international markets. It was a classic consolidation play: same industry, similar customers, complementary geographies, and the hope that overhead savings would fund innovation.
 
 ## What CNH makes and sells
 
@@ -49,7 +49,7 @@ When a farmer needs a new tractor, they go to a CNH dealer (or a John Deere deal
 
 But CNH stays in the picture through parts and service — the dealer buys parts from CNH at wholesale, sells them to the farmer at retail, and both CNH and the dealer make money. Financing also keeps CNH and the farmer connected; as long as there is a loan outstanding, the finance company is in the relationship.
 
-This is not a high-growth business. Farming is not expanding — if anything, there are fewer but larger farms in developed countries, so total tractor-unit sales are slowly declining or flat. But the installed base of equipment in use is enormous, and parts demand is steady. Construction equipment cycles with the economy — building booms drive demand, recessions crater it — so that part of the business is lumpy.
+This is not a high-growth business. Farming is not expanding — if anything, there are fewer but larger farms in developed countries, so total tractor-unit sales are slowly declining or flat. But the installed base of equipment in use is enormous, and parts demand is steady. Construction equipment cycles with the economy — building booms drive demand, [recessions](/recession/) crater it — so that part of the business is lumpy.
 
 ## Why the business is competitive
 
@@ -61,11 +61,11 @@ CNH's advantages are strong brands (Case and New Holland are trusted names), a w
 
 ## Farm cycles and equipment demand
 
-Farm machinery sales are driven by two big forces: commodity prices and interest rates. When grain prices are high, farmers make more profit per acre and are more willing to invest in new equipment. When grain prices are low, farmers are more cautious with capex, even if a new tractor would improve their productivity. Similarly, when interest rates are high, borrowing money to buy a tractor becomes expensive, so demand drops. When rates are low, farmers borrow more readily.
+Farm machinery sales are driven by two big forces: commodity prices and [interest rates](/interest-rate/). When grain prices are high, farmers make more profit per acre and are more willing to invest in new equipment. When grain prices are low, farmers are more cautious with capex, even if a new tractor would improve their productivity. Similarly, when interest rates are high, borrowing money to buy a tractor becomes expensive, so demand drops. When rates are low, farmers borrow more readily.
 
 This means CNH's revenue is cyclical and can be volatile. A good farm year drives strong equipment sales; a weak year (low prices, high rates) can hurt badly. The company tries to manage this through its finance subsidiary and by offering incentives, but they cannot fully insulate themselves from the agricultural cycle.
 
-Construction equipment demand follows a similar but different pattern — it is driven by whether builders are investing in new projects, which depends on economic growth, interest rates, and the health of commercial real estate. This is also cyclical and difficult to predict.
+Construction equipment demand follows a similar but different pattern — it is driven by whether builders are investing in new projects, which depends on economic growth, interest rates, and the health of [commercial real estate](/commercial-real-estate/). This is also cyclical and difficult to predict.
 
 ## How to research CNH
 

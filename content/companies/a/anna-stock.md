@@ -18,4 +18,4 @@ AleAnna's competitive positioning rests on serving Europe's energy infrastructur
 
 Operations span onshore gas production, biogas processing, power generation from renewable sources, and supply contracts with industrial and utility customers. The regulatory landscape includes traditional oil and gas permitting as well as emerging renewable energy standards and carbon compliance frameworks. Recent market conditions and the SPAC route to public capital suggest the company is positioned as a mid-stage infrastructure play rather than an established [dividend](/dividend/) payer.
 
-Investors should consult the company's [10-K](/wiki/10-k/) filings and [SEC](/wiki/sec-regulator/) disclosures for detailed financial and operational data.
+Investors should consult the company's [10-K](/wiki/10-k/) filings and SEC disclosures for detailed financial and operational data.

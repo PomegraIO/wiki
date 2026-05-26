@@ -19,7 +19,7 @@ handwritten: true
 
 LyondellBasell is a global chemicals manufacturer built from the combination of several older chemical and refining companies. It makes polyolefins — primarily polyethylene and polypropylene — which are plastics used in packaging, automotive, consumer goods, and countless industrial applications. It also produces intermediate chemicals used downstream by other manufacturers, and refined petroleum products (gasoline and diesel).
 
-The business is fundamentally about scale and cost management. LYB operates large, capital-intensive production complexes that convert cheap raw materials (crude oil, natural gas) into higher-value products that are still, by chemical-industry standards, relatively commoditized. The company's competitive advantage rests on having large efficient plants, access to cheap feedstock, and operational discipline to minimize costs and maximize uptime.
+The business is fundamentally about scale and cost management. LYB operates large, capital-intensive production complexes that convert cheap raw materials ([crude oil](/crude-oil/), [natural gas](/natural-gas/)) into higher-value products that are still, by chemical-industry standards, relatively commoditized. The company's competitive advantage rests on having large efficient plants, access to cheap feedstock, and operational discipline to minimize costs and maximize uptime.
 
 ## How a commodity chemicals company makes money
 
@@ -43,19 +43,19 @@ The company depends on access to cheap crude oil and natural gas. Much of its fe
 
 Natural gas is particularly important because it is both a feedstock (used to make chemical intermediates) and a fuel (used to run the plants). In regions like Europe where natural gas prices spiked, chemical production became uneconomical and some plants were idled. LYB is thus exposed to geopolitical and energy-market shocks that affect energy availability and prices.
 
-The company has pursued some diversification through recycled-plastics processing. Used plastics are a lower-cost, more renewable feedstock than virgin crude oil, and processing them into new plastic is increasingly an option. LYB has invested in chemical recycling technology that breaks down used plastic back into its molecular components, which can be reformatted into virgin plastic. This is a bet that recycled feedstock will eventually compete with crude oil on cost.
+The company has pursued some [diversification](/diversification/) through recycled-plastics processing. Used plastics are a lower-cost, more renewable feedstock than virgin crude oil, and processing them into new plastic is increasingly an option. LYB has invested in chemical recycling technology that breaks down used plastic back into its molecular components, which can be reformatted into virgin plastic. This is a bet that recycled feedstock will eventually compete with crude oil on cost.
 
 ## Demand exposure
 
 LyondellBasell's products go into packaging (a massive end market), automotive, consumer goods, pipes, and industrial applications. Packaging demand is driven by retail consumption and e-commerce, which are relatively stable. Automotive demand is cyclical and tied to vehicle production. Industrial demand is sensitive to manufacturing activity globally.
 
-A global slowdown in manufacturing and trade, a recession, or a decline in consumer spending hits polyolefin demand quickly. Because the company's costs are mostly fixed (plants don't shut down easily), a sharp decline in volume can turn a profitable company into a loss-making one almost instantly.
+A global slowdown in manufacturing and trade, a [recession](/recession/), or a decline in consumer spending hits polyolefin demand quickly. Because the company's costs are mostly fixed (plants don't shut down easily), a sharp decline in volume can turn a profitable company into a loss-making one almost instantly.
 
 ## Capital intensity and debt
 
-Building and maintaining LYB's production assets requires enormous capital expenditure. The company carries significant debt to finance those assets. In years when margins are high and cash flow is strong, the company can service debt comfortably and invest in maintenance and efficiency upgrades. In weak years, debt service becomes a constraint on dividends and growth investment.
+Building and maintaining LYB's production assets requires enormous capital expenditure. The company carries significant debt to finance those assets. In years when margins are high and cash flow is strong, the company can service debt comfortably and invest in maintenance and efficiency upgrades. In weak years, debt service becomes a constraint on [dividends](/dividend/) and growth investment.
 
-The company's ability to deleverage depends on sustained profitability. A prolonged period of weak spreads and low utilization can stress the balance sheet and limit financial flexibility.
+The company's ability to deleverage depends on sustained profitability. A prolonged period of weak spreads and low utilization can stress the [balance sheet](/balance-sheet/) and limit financial flexibility.
 
 ## Regulatory and energy transitions
 

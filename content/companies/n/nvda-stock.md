@@ -56,7 +56,7 @@ NVIDIA's most durable advantage is the moat it has built around CUDA and the bro
 
 This is a classic case of network effects applied to semiconductor design. The value of a GPU architecture does not lie in the transistors alone but in the software written for it and the knowledge locked into the ecosystem. NVIDIA's early lead in gaming and deep learning compounds over time because each new engineer who learns the system makes the next engineer's choice easier.
 
-Competitors do exist. AMD's MI300 and MI250 accelerators are respectable products on paper. Intel dabbles in discrete GPUs. But none have the installed base, the software libraries, the community support, or the unqualified performance in the benchmarks that matter most. NVIDIA has maintained close relationships with the largest AI labs and cloud providers, ensuring that its new chips are optimized for the workloads that define the cutting edge.
+Competitors do exist. AMD's MI300 and MI250 accelerators are respectable products on paper. [Intel](/intc-stock/) dabbles in discrete GPUs. But none have the installed base, the software libraries, the community support, or the unqualified performance in the benchmarks that matter most. NVIDIA has maintained close relationships with the largest AI labs and cloud providers, ensuring that its new chips are optimized for the workloads that define the cutting edge.
 
 ## Manufacturing and supply
 
@@ -74,9 +74,9 @@ One challenge NVIDIA faces is an unusual one for a chipmaker: demand sometimes o
 
 The bull case for NVIDIA rests on the assumption that AI will continue requiring ever-larger amounts of compute and that NVIDIA will retain architectural dominance. Both are reasonable but not guaranteed. If models reach a plateau in size, demand for new chips could decelerate sharply. If competitors catch up in software and performance—as AMD is slowly but persistently attempting—price competition could erode margins.
 
-A second risk is concentration among customers. The majority of NVIDIA's data center revenue comes from a handful of hyperscalers—Microsoft, Google, Meta, OpenAI through its partnerships. If any of these customers decided to invest heavily in custom silicon designed in-house, NVIDIA's revenues could suffer materially.
+A second risk is concentration among customers. The majority of NVIDIA's data center revenue comes from a handful of hyperscalers—[Microsoft](/msft-stock/), Google, Meta, OpenAI through its partnerships. If any of these customers decided to invest heavily in custom silicon designed in-house, NVIDIA's revenues could suffer materially.
 
-Regulation and export controls add a third layer of uncertainty. The US has imposed restrictions on the sale of advanced NVIDIA chips to China, cutting off a historically important market. Larger restrictions on semiconductor exports, driven by geopolitical tensions, could further constrain demand.
+Regulation and export controls add a third layer of uncertainty. The US has imposed restrictions on the sale of advanced NVIDIA chips to China, cutting off a historically important market. Larger restrictions [on semiconductor](/on-stock/) exports, driven by geopolitical tensions, could further constrain demand.
 
 ## How to research NVIDIA
 

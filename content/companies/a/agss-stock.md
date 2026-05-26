@@ -41,4 +41,4 @@ The US security services market is fragmented, divided between national consolid
 
 Like most security staffing firms, Ameriguard is highly sensitive to labor availability and cost. Turnover in the security workforce is traditionally high, raising recruitment and training expenses. The company's growth and profitability are also cyclical, reflecting overall economic activity and property development. Consolidation trends favor larger players, though geographic fragmentation has preserved room for smaller, locally-entrenched competitors in select markets.
 
-See also: [contract security sector](/wiki/business-services-sector/), [staffing and labor services](/wiki/employment-services/)
+See also: contract security sector, staffing and labor services

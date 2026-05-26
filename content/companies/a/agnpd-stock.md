@@ -19,4 +19,4 @@ As a clinical-stage entity, Algernon burns cash continuously. Research and devel
 
 The path from here to profitability, if it exists, is long and uncertain. Drug candidates must clear preclinical work, file Investigational New Drug applications, complete Phase I, II, and III trials, secure FDA approval, and then successfully commercialize. Any major setback—a trial failure, a safety signal, manufacturing issues—can devastate share price. Conversely, successful Phase II data or an unexpected partnership announcement can send valuations soaring. For stakeholders, Algernon represents a bet on its management's ability to navigate this gauntlet and, ultimately, deliver a transformative therapy to market.
 
-Related: [10-K](/wiki/10-k/), [biopharmaceutical company](/wiki/biopharmaceutical/), [clinical development](/wiki/clinical-trial-phases/)
+Related: [10-K](/wiki/10-k/), biopharmaceutical company, clinical development

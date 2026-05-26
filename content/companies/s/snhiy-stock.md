@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Sany Heavy Industries is a Chinese multinational manufacturer and exporter of heavy equipment — the machines that build infrastructure worldwide. Founded as a state-owned enterprise in Changsha, it has evolved into a diversified equipment maker producing cranes, excavators, concrete pumps, drilling rigs, and road-paving machinery. The company's American Depositary Receipts (SNHIY) trade over-the-counter, giving international investors exposure to a business that operates across Asia, Europe, the Middle East, and Africa. For decades Sany was largely known to construction professionals; it has since become a significant player in global infrastructure and a case study in how Chinese manufacturing has scaled outward.
+Sany Heavy Industries is a Chinese multinational manufacturer and exporter of heavy equipment — the machines that build infrastructure worldwide. Founded as a state-owned enterprise in Changsha, it has evolved into a diversified equipment maker producing cranes, excavators, concrete pumps, drilling rigs, and road-paving machinery. The company's [American Depositary Receipts](/adr/) (SNHIY) trade over-the-counter, giving international investors exposure to a business that operates across Asia, Europe, the Middle East, and Africa. For decades Sany was largely known to construction professionals; it has since become a significant player in global infrastructure and a case study in how Chinese manufacturing has scaled outward.
 
 <aside class="wiki-infobox">
 <table>
@@ -73,13 +73,13 @@ The customer base is highly fragmented. Sany does not sell to end consumers; it 
 
 **Currency and emerging-market exposure.** Much of Sany's revenue comes from developing countries and is earned in local currencies. Currency fluctuations — particularly a strong yuan — can reduce translated revenues and profitability. Economic crises in emerging markets (currency crashes, credit crunches) directly impact equipment demand and the ability of customers to finance purchases.
 
-**Political and reputational risk.** Sany operates in sensitive geographies — Myanmar, certain Middle Eastern countries — where political instability and sanctions can disrupt business. The company's Chinese ownership has also made it a target in some Western markets where there is skepticism of Chinese manufacturing and investment.
+**Political and reputational risk.** Sany operates in sensitive geographies — Myanmar, certain Middle Eastern countries — where political instability and sanctions can disrupt business. The company's Chinese ownership has also made it a [target](/tgt-stock/) in some Western markets where there is skepticism of Chinese manufacturing and investment.
 
 ## Researching Sany
 
-Start with Sany's annual report and SEC filings, particularly the 20-F form filed with the SEC (CIK 0002098326), which provides detailed segment breakdowns, geographic revenue, and forward-looking risk factors. The report discusses demand trends in key markets, supply chain dynamics, and competitive pressures. Quarterly earnings releases and investor presentations give color on near-term momentum.
+Start with Sany's [annual report](/10-k/) and SEC filings, particularly the 20-F form filed with the SEC (CIK 0002098326), which provides detailed segment breakdowns, geographic revenue, and forward-looking risk factors. The report discusses demand trends in key markets, supply chain dynamics, and competitive pressures. Quarterly earnings releases and investor presentations give color on near-term momentum.
 
-Key metrics to track: revenue by segment and geography, gross and operating margins, order backlog (a leading indicator of future revenue), return on equity, and cash flow. Compare these to peers like Caterpillar, Komatsu, and Volvo. Watch movements in construction spending indices in key markets (China, India, Southeast Asia) as leading indicators of demand.
+Key metrics to track: revenue by segment and geography, gross and [operating margins](/operating-margin/), order backlog (a leading indicator of future revenue), [return on equity](/return-on-equity/), and cash flow. Compare these to peers like [Caterpillar](/cat-stock/), Komatsu, and Volvo. Watch movements in [construction spending](/construction-spending/) indices in key markets (China, India, Southeast Asia) as leading indicators of demand.
 
 Currency movements matter significantly to a Chinese exporter — a stronger yuan reduces competitiveness on price in international markets. Monitor yuan movements and the company's hedging practices in SEC filings. Watch for tariff changes, particularly from the U.S. and the European Union, which could materially impact export margins.
 

@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-The premise is straightforward. Sprott buys silver bars. Stores them in vaults. Issues shares to investors. Each share represents a claim on some quantity of that physical silver. You own the share, you own a portion of the metal, nothing more. No dividends. No operations. Just a trust that holds silver and adjusts the share count as investors buy and sell.
+The premise is straightforward. Sprott buys silver bars. Stores them in vaults. Issues shares to investors. Each share represents a claim on some quantity of that physical silver. You own the share, you own a portion of the metal, nothing more. No [dividends](/dividend/). No operations. Just a trust that holds silver and adjusts the share count as investors buy and sell.
 
 Why would anyone own this instead of buying silver directly?
 
 The straightforward answer is convenience. A silver bar costs a few hundred dollars. To own it properly, you need secure storage—a safe deposit box costs money and requires trips to a bank, or you pay for a private vault, which is expensive. Insurance adds another layer of cost. Sprott handles all of this. You buy shares on an exchange. Shares trade throughout the day like any stock. You can sell in minutes. No fumbling with physical storage or insurance paperwork.
 
-Pricing and costs matter. The trust charges a management fee—currently around 0.4 percent per year on assets under management. If the price of silver is flat, you lose 0.4 percent to fees. That is not trivial. An investor buying physical silver and self-storing it avoids that fee but incurs storage and insurance costs that are often comparable.
+Pricing and costs matter. The trust charges a [management fee](/management-fee/)—currently around 0.4 percent per year on assets under management. If the price of silver is flat, you lose 0.4 percent to fees. That is not trivial. An investor buying physical silver and self-storing it avoids that fee but incurs storage and insurance costs that are often comparable.
 
 How does the fund maintain purity?
 
-Sprott maintains a fixed trust structure. As investors buy shares, the trust buys more silver. As investors redeem, the trust sells silver or pays out metal. The net effect is that the trust holds physical bars equal to roughly the share count times the net asset value per share. Regular audits by third parties verify that the silver is actually there, in the quantity claimed, and of the purity stated.
+Sprott maintains a fixed trust structure. As investors buy shares, the trust buys more silver. As investors redeem, the trust sells silver or pays out metal. The net effect is that the trust holds physical bars equal to roughly the share count times the [net asset value](/net-asset-value/) per share. Regular audits by third parties verify that the silver is actually there, in the quantity claimed, and of the purity stated.
 
 This matters because not all silver claimed to exist is where someone says it is. Fractional-reserve schemes, where one ounce of "allocated" silver is pledged to multiple owners, are a historical problem in commodity markets. Sprott's structure avoids that. You own a slice of actual bars.
 
@@ -31,21 +31,21 @@ The price of silver is the main driver. When the silver price rises, the trust's
 
 A premium occurs when investors are willing to pay slightly more for shares than the underlying silver is worth, usually during periods when silver is rising sharply and demand for the fund surges. A discount occurs when demand is weak or when the fund is contracting. These gaps are typically small but can matter to an active trader.
 
-The silver price itself is set globally on exchanges in London and New York, influenced by industrial demand, investment demand, currency movements, and real interest rates. A strong dollar tends to depress silver prices because silver priced in dollars becomes more expensive for foreign buyers. Rising real interest rates make non-yielding assets like silver less appealing. Central bank policy, inflation expectations, and geopolitical risk all ripple through silver prices.
+The silver price itself is set globally on exchanges in London and New York, influenced by industrial demand, investment demand, currency movements, and [real interest rates](/real-interest-rate/). A strong dollar tends to depress silver prices because silver priced in dollars becomes more expensive for foreign buyers. Rising real [interest rates](/interest-rate/) make non-yielding assets like silver less appealing. [Central bank](/central-bank/) policy, [inflation](/inflation/) expectations, and geopolitical risk all ripple through silver prices.
 
 Who holds the silver?
 
-Sprott uses established precious-metals vaults, primarily Brinks and similar firms with deep experience and insurance capabilities. The trust pays storage and insurance fees, which are built into the management-fee expense. Vaults are insured and audited. The structure is not perfect—nothing involving third-party custody ever is—but it is the standard in the industry. A true believer in silver who absolutely refuses any counterparty risk would buy physical bars and hold them personally, accepting the storage burden as the price of full control.
+Sprott uses established precious-metals vaults, primarily Brinks and similar firms with deep experience and insurance capabilities. The trust pays storage and insurance fees, which are built into the management-fee expense. Vaults are insured and audited. The structure is not perfect—nothing involving third-party custody ever is—but it is the standard in the industry. A true believer in silver who absolutely refuses any [counterparty risk](/counterparty-risk/) would buy physical bars and hold them personally, accepting the storage burden as the price of full control.
 
 How does PSLV differ from other silver exposure?
 
 There are other ways to own silver. You can buy physical bars or coins directly. You can own mining stocks, which offer leveraged exposure to silver prices but add company-specific risk. You can trade silver futures for extreme leverage. You can own a diversified precious-metals ETF that holds gold, silver, and other metals. You can own shares in Sprott Inc., the parent company, which owns Sprott Physical Silver Trust but also manages other trusts and funds.
 
-PSLV is the simplest pure play—just silver, no leverage, no mining company execution risk, no diversification with other metals. For investors who want to bet on silver alone, it offers direct exposure with the convenience of electronic trading.
+PSLV is the simplest pure play—just silver, no leverage, no mining company execution risk, no [diversification](/diversification/) with other metals. For investors who want to bet on silver alone, it offers direct exposure with the convenience of electronic trading.
 
 What is the investor base?
 
-Retail investors make up some of the holder base, but so do institutions—hedge funds, pension funds, and asset allocators using it as a tactical position in silver. Some investors use it as a hedge against inflation or currency devaluation. Others view silver as an industrial metal undervalued relative to gold. The investor base fluctuates with sentiment toward precious metals broadly.
+Retail investors make up some of the holder base, but so do institutions—[hedge funds](/hedge-fund/), pension funds, and asset allocators using it as a tactical position in silver. Some investors use it as a hedge against inflation or currency devaluation. Others view silver as an industrial metal undervalued relative to gold. The investor base fluctuates with sentiment toward precious metals broadly.
 
 When does silver demand pick up?
 

@@ -45,7 +45,7 @@ The flip side is that growth is limited. The tissue market in developed countrie
 
 ## Competitive position and the brand moat
 
-Kimberly-Clark faces competition from a few large, capable rivals: Procter & Gamble (which makes Charmin tissue and Pampers diapers), Essity (a Swedish company with SCA tissue and TENA incontinence products), and various smaller or regional competitors and private-label products. Despite this competition, Kimberly-Clark holds a remarkable market position, particularly in facial tissue and premium diapers.
+Kimberly-Clark faces competition from a few large, capable rivals: [Procter & Gamble](/pg-stock/) (which makes Charmin tissue and Pampers diapers), Essity (a Swedish company with SCA tissue and TENA incontinence products), and various smaller or regional competitors and private-label products. Despite this competition, Kimberly-Clark holds a remarkable market position, particularly in facial tissue and premium diapers.
 
 The strength of the Kleenex brand is almost impossible to overstate. For generations, consumers have used the brand name as a verb — "do you have a Kleenex?" — in much the same way they ask for a Band-Aid or a Xerox copy. This perceptual dominance is the result of a century of marketing, consistent product quality, and the sheer reach of distribution. Huggies diapers are similarly strong, particularly in the premium diaper segment, where parents often see Huggies as synonymous with reliability and dryness. This brand power gives Kimberly-Clark pricing flexibility that competitors with generic or lesser-known brands do not enjoy.
 
@@ -69,7 +69,7 @@ Within categories, the company has sought to diversify beyond the flagships. Hea
 
 Kimberly-Clark has historically been a steady, if unspectacular, generator of cash flow and shareholder returns. The company invests in capital-intensive manufacturing facilities, efficiency projects, and brand building, but not so much capital as to prevent high [free cash flow](/wiki/free-cash-flow/) generation. That cash flow has supported a rising [dividend](/wiki/dividend/) for decades — Kimberly-Clark is a "Dividend Aristocrat," having increased its dividend for over 50 years running. The company also returns capital through share repurchases, though the scale of buybacks fluctuates with capital-allocation priorities and financial conditions.
 
-The [return on invested capital](/wiki/return-on-capital/) is solid but not exceptional. Kimberly-Clark earns a reasonable [return on equity](/wiki/return-on-equity/) relative to its cost of capital, meaning capital is deployed productively. However, the business is not a high-return-on-capital compounder in the mode of a software company or a very high-margin branded consumer good. It is a steady, mature business that generates cash reliably and returns much of it to shareholders.
+The return on invested capital is solid but not exceptional. Kimberly-Clark earns a reasonable [return on equity](/wiki/return-on-equity/) relative to its cost of capital, meaning capital is deployed productively. However, the business is not a high-return-on-capital compounder in the mode of a software company or a very high-margin branded consumer good. It is a steady, mature business that generates cash reliably and returns much of it to shareholders.
 
 ## Headwinds and the sustainability question
 

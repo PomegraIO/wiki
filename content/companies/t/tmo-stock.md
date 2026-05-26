@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Thermo Fisher Scientific is one of the world's largest suppliers of equipment, reagents, software, and services used in research, diagnostics, and manufacturing across the life sciences. The company operates through a vast portfolio of brands and product lines, some acquired wholesale and others built organically, that together serve research institutions, clinical laboratories, biopharmaceutical manufacturers, and hospitals. It trades on NASDAQ under the ticker TMO and is valued by the market not as a commodity producer but as a mission-critical vendor to an industry that cannot operate without its products and services.
+Thermo Fisher Scientific is one of the world's largest suppliers of equipment, reagents, software, and services used in research, diagnostics, and manufacturing across the life sciences. The company operates through a vast portfolio of brands and product lines, some acquired wholesale and others built organically, that together serve research institutions, clinical laboratories, biopharmaceutical manufacturers, and hospitals. It trades on [NASDAQ](/nasdaq/) under the ticker TMO and is valued by the market not as a commodity producer but as a mission-critical vendor to an industry that cannot operate without its products and services.
 
 <aside class="wiki-infobox">
 <table>
@@ -49,7 +49,7 @@ Thermo Fisher's operating model also benefits from economies of scale in distrib
 
 ## What are the risks?
 
-Thermo Fisher is heavily dependent on customer spending in life sciences research and clinical diagnostics. During economic downturns, universities and private research institutions defer equipment purchases and reduce consumables spending. That cyclicality is real but historically modest compared to other industrial businesses, because even during recessions, hospitals must run their diagnostic labs and pharmaceutical companies must continue drug development. Still, a severe recession would dent growth.
+Thermo Fisher is heavily dependent on customer spending in life sciences research and clinical diagnostics. During economic downturns, universities and private research institutions defer equipment purchases and reduce consumables spending. That cyclicality is real but historically modest compared to other industrial businesses, because even during [recessions](/recession/), hospitals must run their diagnostic labs and pharmaceutical companies must continue drug development. Still, a severe recession would dent growth.
 
 A second risk is competition. Danaher, Waters Corporation, and other large analytical-instrument makers compete in overlapping segments. In reagents and consumables, the barriers to entry are high but not infinitely high — a company with enough capital and technical talent can develop competitive products in particular niches. Thermo Fisher's sheer scale and broad portfolio give it protection, but nothing here is permanent.
 
@@ -57,7 +57,7 @@ A third risk is regulatory change. Clinical diagnostics are heavily regulated by
 
 ## What should an investor watch?
 
-Start with the annual 10-K (SEC CIK 0000097745), which breaks revenue and profitability down by segment. The company's management calls focus heavily on recurring revenue, organic growth (growth from existing products and services excluding acquisitions), and the trajectory of gross margins, all of which are more meaningful than absolute earnings given the company's growth-through-acquisition strategy.
+Start with the annual 10-K (SEC CIK 0000097745), which breaks revenue and profitability down by segment. The company's management calls focus heavily on recurring revenue, organic growth (growth from existing products and services excluding [acquisitions](/acquisition/)), and the trajectory of gross margins, all of which are more meaningful than absolute earnings given the company's growth-through-acquisition strategy.
 
 Watch the growth rate of the Life Sciences Solutions segment and the trajectory of contract manufacturing revenue. These are the areas where Thermo Fisher is steering for future growth — away from declining academic research spending and toward the fast-growing outsourced-manufacturing and specialty-services markets that serve biopharmaceutical companies. If those segments are accelerating, the company is executing its strategy. If they are slowing, management may need to recalibrate.
 

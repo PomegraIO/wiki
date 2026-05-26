@@ -31,7 +31,7 @@ CACI is a defence and intelligence contractor that has built its business around
 
 CACI was founded in 1962 by a group of engineers in Arlington, Virginia, at the height of the Cold War. The company began by providing technical and analytical support to military and defence agencies, and it has remained focused on government intelligence and defence work ever since. The company's survival and growth through the past six decades reflects a single fact: it has remained exceptionally good at something most private companies never learn—operating inside the security apparatus of the U.S. government, understanding procurement rules that change slowly if at all, and maintaining relationships with government agencies that value predictability and security over disruption.
 
-CACI went public in 1968 and has been publicly traded for more than fifty years. Unlike many defence contractors that have diversified widely (Lockheed Martin into space, Northrop Grumman into aeronautics), CACI has stayed narrow: IT services, systems integration, and labour services to defence and intelligence.
+CACI went public in 1968 and has been publicly traded for more than fifty years. Unlike many defence contractors that have diversified widely ([Lockheed Martin](/lmt-stock/) into space, Northrop Grumman into aeronautics), CACI has stayed narrow: IT services, systems integration, and labour services to defence and intelligence.
 
 ## How CACI makes money
 
@@ -51,13 +51,13 @@ CACI also benefits from being one of a handful of large prime contractors (rathe
 
 ## Growth and acquisition strategy
 
-CACI has grown partly organically—by expanding services within existing customer relationships—but also through acquisition. The company has acquired smaller IT services firms, specialist contractors, and companies with valuable customer relationships, integrating them into the CACI portfolio. Acquisitions have broadened the company's technical capabilities and deepened its presence within the defence and intelligence communities.
+CACI has grown partly organically—by expanding services within existing customer relationships—but also through acquisition. The company has acquired smaller IT services firms, specialist contractors, and companies with valuable customer relationships, integrating them into the CACI portfolio. [Acquisitions](/acquisition/) have broadened the company's technical capabilities and deepened its presence within the defence and intelligence communities.
 
 The largest acquisition in the company's history was the purchase of J2 Technologies in 2008, which substantially expanded CACI's IT services business and customer base. Other notable acquisitions have included Northrop Grumman's IT Solutions subsidiary (2014), which added several thousand employees and further entrenched CACI as a large, diversified defence services provider.
 
 ## Competition and consolidation
 
-CACI competes against other defence contractors—Booz Allen Hamilton (privately held but very large), Leidos, Huntington Ingalls, and others. However, competition is often asymmetrical. In many government programmes, CACI is the incumbent with deep customer relationships, so it competes on the basis of cost and performance against smaller, less-established rivals. The defence contracting industry is only moderately consolidated; there are dozens of significant players, but a handful of large ones (including CACI) win a substantial share of the largest contracts.
+CACI competes against other defence contractors—[Booz Allen Hamilton](/bah-stock/) (privately held but very large), Leidos, Huntington Ingalls, and others. However, competition is often asymmetrical. In many government programmes, CACI is the incumbent with deep customer relationships, so it competes on the basis of cost and performance against smaller, less-established rivals. The defence contracting industry is only moderately consolidated; there are dozens of significant players, but a handful of large ones (including CACI) win a substantial share of the largest contracts.
 
 The regulatory environment is stable in CACI's favour. The government values long-term relationships with contractors it trusts, and the classified nature of much of the work creates barriers to new entrants. A startup cannot easily break into classified defence work without years of investment in clearances and credentials.
 
@@ -71,4 +71,4 @@ The government also periodically audits contractor performance and pricing, and 
 
 CACI's annual 10-K (SEC CIK 0000016058) breaks down revenue by customer and contract type and discloses major customers and contract values. The company's quarterly earnings calls provide colour on contract wins, mix shifts between contract types, and organic growth trends. Watch for commentary on customer budgets and any changes in spending patterns that might signal shifts in government priorities.
 
-Key metrics include the backlog (the value of future work already contracted but not yet performed), which indicates revenue visibility; organic growth rate (revenue from existing customers and organically won new work, excluding acquisitions); and operating margins in each segment. As a defence contractor, CACI is subject to the same geopolitical and budgetary pressures as the broader industry, and it is best understood as a leveraged play on U.S. government defence and intelligence spending.
+Key metrics include the backlog (the value of future work already contracted but not yet performed), which indicates revenue visibility; organic growth rate (revenue from existing customers and organically won new work, excluding acquisitions); and [operating margins](/operating-margin/) in each segment. As a defence contractor, CACI is subject to the same geopolitical and budgetary pressures as the broader industry, and it is best understood as a leveraged play on U.S. government defence and intelligence spending.

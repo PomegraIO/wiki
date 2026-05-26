@@ -51,6 +51,6 @@ For investors assessing Quest, the key metrics are volume (number of tests perfo
 
 Monitor hospital consolidation and the pace at which large health systems are bringing testing in-house. Also watch regulatory developments — changes to clinical laboratory regulations, reimbursement policy, or standards for test validation all affect the business directly.
 
-Finally, track the competitive landscape. Is LabCorp gaining or losing share? Are specialty laboratory companies growing and taking share in higher-margin testing categories? And how is quest responding to those trends through acquisitions, new product development, and operational efficiency?
+Finally, track the competitive landscape. Is LabCorp gaining or losing share? Are specialty laboratory companies growing and taking share in higher-margin testing categories? And how is quest responding to those trends through [acquisitions](/acquisition/), new product development, and operational efficiency?
 
 The 10-K filing (SEC CIK 0001022079) provides detailed segment information, customer concentration data, and discussion of reimbursement risks. The company's long-term value depends on whether it can maintain volume and margins in the face of structural headwinds from hospital consolidation and reimbursement pressure, and whether it can successfully grow in higher-margin, more specialized testing categories.

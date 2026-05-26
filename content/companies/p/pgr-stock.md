@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Progressive Corporation, incorporated and headquartered in Ohio, is one of the largest auto insurers in the United States by premium volume, standing behind only State Farm and Berkshire Hathaway's Geico. Like all insurance companies, Progressive makes money by collecting premiums from customers and paying out less in claims than it collects — a simple formula that depends on accurately predicting risk and pricing for it. What sets Progressive apart is its history and culture: founded in 1956 as an underwriter of high-risk drivers whom legacy insurers considered too dangerous to cover at a profit, Progressive built a business on the proposition that no driver is too risky if you price correctly and manage claims efficiently.
+The Progressive Corporation, incorporated and headquartered in Ohio, is one of the largest auto insurers in the United States by premium volume, standing behind only State Farm and [Berkshire Hathaway](/brk-b-stock/)'s Geico. Like all insurance companies, Progressive makes money by collecting premiums from customers and paying out less in claims than it collects — a simple formula that depends on accurately predicting risk and pricing for it. What sets Progressive apart is its history and culture: founded in 1956 as an underwriter of high-risk drivers whom legacy insurers considered too dangerous to cover at a profit, Progressive built a business on the proposition that no driver is too risky if you price correctly and manage claims efficiently.
 
 ## From high-risk specialist to mass-market insurer
 
@@ -19,7 +19,7 @@ Progressive began in 1956 as a small regional auto insurer in Ohio, focusing on 
 
 Throughout the 1970s and 1980s, Progressive remained a small regional player, but under the leadership of Peter Lewis (chairman from 1970 to 2000) and then Glenn Renwick, the company gradually refined its underwriting model, invested in better claims management, and expanded distribution. In the 1990s, Progressive began to transform itself from a high-risk specialist into a more mainstream auto insurer by starting to write "standard" drivers as well — people with good records — while still maintaining a presence in the high-risk segment.
 
-The company was also an early adopter of direct distribution, selling insurance directly to customers via telephone and later via the internet, rather than through insurance brokers. This reduced the company's distribution costs compared to competitors that relied on broker networks.
+The company was also an early adopter of direct distribution, selling insurance directly to customers via telephone and later via the internet, rather than through insurance [brokers](/broker/). This reduced the company's distribution costs compared to competitors that relied on broker networks.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ Over time, Progressive became known in the insurance industry as a company with 
 
 ## The business of auto insurance
 
-Auto insurance is a straightforward business in concept: a customer pays a premium, agrees to certain coverage limits and deductibles, and in exchange the insurance company pays for damages to the customer's car or injuries caused by the customer's driving. From the insurer's perspective, the business is about aggregating many premiums, holding them in reserve (plus investment income), and paying out claims and operating expenses. If the insurer collects more in premiums than it pays in claims and overhead, it is profitable; if not, it loses money.
+[Auto insurance](/auto-insurance/) is a straightforward business in concept: a customer pays a premium, agrees to certain coverage limits and deductibles, and in exchange the insurance company pays for damages to the customer's car or injuries caused by the customer's driving. From the insurer's perspective, the business is about aggregating many premiums, holding them in reserve (plus investment income), and paying out claims and operating expenses. If the insurer collects more in premiums than it pays in claims and overhead, it is profitable; if not, it loses money.
 
 The key metric is the loss ratio — claims paid divided by premiums collected. If the loss ratio is 70 percent, the insurer keeps 30 cents of every premium dollar (before overhead). If it is 100 percent, the insurer breaks even on claims. A loss ratio above 100 means the insurer is losing money on underwriting. Most auto insurers run loss ratios in the 70 to 85 percent range over time, with variation based on economic conditions and the frequency and severity of accidents.
 
@@ -65,7 +65,7 @@ However, insurance is ultimately exposed to catastrophic loss. A major natural d
 
 ## Competition and pricing
 
-Progressive competes against dozens of auto insurance companies, but the largest competitors are State Farm (a mutual company, not public), Geico (owned by Berkshire Hathaway), Allstate, and several others. The market is hypercompetitive on price — customers can compare quotes across multiple insurers in minutes online — and price is a major driver of customer acquisition and retention.
+Progressive competes against dozens of auto insurance companies, but the largest competitors are State Farm (a mutual company, not public), Geico (owned by Berkshire Hathaway), Allstate, and several others. The market is hypercompetitive on price — customers can compare quotes across multiple insurers in minutes online — and price is a major driver of customer [acquisition](/acquisition/) and retention.
 
 Incumbent insurers have criticized Progressive for being willing to take on riskier business and for using telematics and behavioral data in ways they consider aggressive. Some states have begun to regulate the use of telematics data and of factors like credit score in pricing, which could reduce Progressive's competitive advantage if the company's edge derives from using information that others are barred from using.
 
@@ -75,7 +75,7 @@ The advent of autonomous vehicles is a potential long-term threat to the auto in
 
 The company's annual 10-K filing (SEC CIK 0000080661) breaks down the business by line (auto insurance is the vast majority, but the company also writes home and small-business insurance), by state, and by customer group. Read the detailed discussion of underwriting results and loss ratios.
 
-Key metrics to track include the combined ratio — the loss ratio plus the expense ratio (operating costs divided by premiums). A combined ratio below 100 means the company is profitable on underwriting; above 100 means it is losing money. Also watch the rate of customer acquisition (new customers written), retention (percentage of customers who renew), and the growth in premium per customer (whether existing customers increase coverage or switch to lower-cost plans).
+Key metrics to track include the combined ratio — the loss ratio plus the [expense ratio](/expense-ratio/) (operating costs divided by premiums). A combined ratio below 100 means the company is profitable on underwriting; above 100 means it is losing money. Also watch the rate of customer acquisition (new customers written), retention (percentage of customers who renew), and the growth in premium per customer (whether existing customers increase coverage or switch to lower-cost plans).
 
 Pay attention to trends in claim frequency (are more accidents happening?) and claim severity (are accidents costing more to repair?). These are influenced by economic conditions, weather, and the aging of the driving population. Also read management's commentary on competition, pricing, and regulatory risk.
 

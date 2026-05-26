@@ -13,7 +13,7 @@ handwritten: true
 
 > "A utility is the closest thing to a natural monopoly in modern capitalism — one company owns the poles and wires, and everyone in the region plugs in."
 
-Evergy Inc. is a regional electric utility serving 3.6 million customers across Missouri and Kansas. The company generates electricity from coal, natural gas, nuclear power, and renewable sources; transmits that power over long-distance lines; and distributes it through local poles and wires to homes, businesses, and farms. Founded in 2018 through the merger of Westar Energy and Kansas City Power & Light Company, Evergy operates as a regulated monopoly — the state Public Utility Commissions in Missouri and Kansas grant Evergy the exclusive right to serve its territory in exchange for price regulation and an obligation to serve all customers reliably.
+Evergy Inc. is a regional electric utility serving 3.6 million customers across Missouri and Kansas. The company generates electricity from coal, [natural gas](/natural-gas/), nuclear power, and renewable sources; transmits that power over long-distance lines; and distributes it through local poles and wires to homes, businesses, and farms. Founded in 2018 through the [merger](/merger/) of Westar Energy and Kansas City Power & Light Company, Evergy operates as a regulated monopoly — the state Public Utility Commissions in Missouri and Kansas grant Evergy the exclusive right to serve its territory in exchange for price regulation and an obligation to serve all customers reliably.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,7 +55,7 @@ Evergy operates across all three levels of the electricity system. The company o
 
 ## Revenue stability and operating characteristics
 
-Evergy's revenue is largely stable because electricity demand is stable. Most customers use electricity regardless of economic conditions — they need to light their homes, cool in summer, and heat in winter. Demand fluctuates with weather (hotter summers drive more air conditioning) and with economic conditions (recessions reduce industrial demand), but the variation is modest compared with many other industries.
+Evergy's revenue is largely stable because electricity demand is stable. Most customers use electricity regardless of economic conditions — they need to light their homes, cool in summer, and heat in winter. Demand fluctuates with weather (hotter summers drive more air conditioning) and with economic conditions ([recessions](/recession/) reduce industrial demand), but the variation is modest compared with many other industries.
 
 Evergy also earns revenue through a "fixed charge" — a base monthly fee every customer pays, separate from usage-based charges. This ensures the utility collects baseline revenue even if a customer uses less electricity. The combination of stable demand and fixed fees creates reliable, predictable cash flow, which is why utilities are considered lower-risk investments.
 
@@ -75,7 +75,7 @@ Utilities are capital-intensive. Evergy invests billions of dollars annually in 
 
 This capital intensity is actually a feature, not a bug, under the regulatory model. The more Evergy invests, the larger its rate base, and the more profit it earns. Regulators encourage utilities to invest in reliability, decarbonization, and modernization. Evergy funds these investments partly through cash flow and partly through debt and equity issuance.
 
-The company maintains investment-grade credit ratings, which allows it to borrow cheaply. Maintaining that credit quality is a priority because the cost of capital directly affects the economics of long-lived infrastructure investments.
+The company maintains investment-grade [credit ratings](/credit-rating/), which allows it to borrow cheaply. Maintaining that credit quality is a priority because the cost of capital directly affects the economics of long-lived infrastructure investments.
 
 ## Risks and pressures
 
@@ -91,4 +91,4 @@ The company maintains investment-grade credit ratings, which allows it to borrow
 
 ## The investor case
 
-Evergy is a classic utility investment — stable, dividend-paying, low-growth, and defensive. The company pays a dividend that comes from regulated operating cash flow, and the business model is designed to deliver steady returns regardless of economic conditions. For conservative investors seeking income and stability, utilities like Evergy are a core holding. For investors seeking growth, they are less interesting — the company's earnings are capped by regulation, and opportunities for disruption or innovation are limited by the monopoly model itself.
+Evergy is a classic utility investment — stable, dividend-paying, low-growth, and defensive. The company pays a [dividend](/dividend/) that comes from regulated operating cash flow, and the business model is designed to deliver steady returns regardless of economic conditions. For conservative investors seeking income and stability, utilities like Evergy are a core holding. For investors seeking growth, they are less interesting — the company's earnings are capped by regulation, and opportunities for disruption or innovation are limited by the monopoly model itself.

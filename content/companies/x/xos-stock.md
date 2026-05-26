@@ -26,7 +26,7 @@ Operating burn is severe. Xos is pre-positive-cash-flow: R&D, homologation (cert
 
 ## Where it sits in the EV truck landscape
 
-Xos is one of a handful of pure-play EV truck startups alongside Nikola, Workhorse, and Lion Electric (Hydro-Québec backed, more established in Canada). Unlike Tesla Semi—a 80,000 lbs long-haul beast—or Rivian's luxury adventure angle, Xos targets the quotidian bread-and-butter of urban logistics, where electrification matters most for cost per mile and regulatory compliance. The insight is sound (cities want zero-emission trucks); execution is unproven at scale.
+Xos is one of a handful of pure-play EV truck startups alongside Nikola, Workhorse, and Lion Electric (Hydro-Québec backed, more established in Canada). Unlike [Tesla](/tsla-stock/) Semi—a 80,000 lbs long-haul beast—or Rivian's luxury adventure angle, Xos targets the quotidian bread-and-butter of urban logistics, where electrification matters most for cost per mile and regulatory compliance. The insight is sound (cities want zero-emission trucks); execution is unproven at scale.
 
 Traditional truck makers (Volvo, Daimler, Hino) are investing in electric powertrains too, but they move slowly and prioritize profitable segments first. Xos has a window to own the last-mile and regional niche, but only if it can deliver reliable vehicles on budget and time, a notoriously hard problem in hardware.
 

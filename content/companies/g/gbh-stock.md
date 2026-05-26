@@ -27,7 +27,7 @@ Profitability in this segment depends heavily on data center utilization, custom
 
 In the crowded global hosting market, Gigabit occupies a regional niche rather than competing globally. Its strength lies in localized service delivery—24/7 support in regional time zones and languages, familiarity with local regulatory requirements, and proximity to customer infrastructure. This is difficult for global mega-scale providers to replicate cost-effectively in every market.
 
-However, the company faces significant competition from much larger global hosting providers (Amazon Web Services, Microsoft Azure, Google Cloud) that offer comparable services at scale, plus established regional players in each market. A small company's survival typically depends on superior customer service, niche specialization, or cost advantage in specific segments—often banking or government sectors where local presence and data residency matter.
+However, the company faces significant competition from much larger global hosting providers (Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud) that offer comparable services at scale, plus established regional players in each market. A small company's survival typically depends on superior customer service, niche specialization, or cost advantage in specific segments—often banking or government sectors where local presence and data residency matter.
 
 ## Considerations for Investors
 

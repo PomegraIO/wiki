@@ -37,7 +37,7 @@ The stock reflected this position. BlackBerry became a billion-dollar company by
 
 ## The iPhone Moment
 
-What happened next was not a gradual erosion but a sudden, catastrophic reversal. When Apple released the iPhone in 2007, followed by the AppStore model and eventually Android, the ground shifted beneath BlackBerry's feet. The iPhone had no physical keyboard, ran on a larger screen, and was designed for consumers first and enterprises second. Yet within a few years, it became the device that professionals wanted. The app ecosystem made the iPhone indispensable in ways that BlackBerry, with its closed platform, could never match.
+What happened next was not a gradual erosion but a sudden, catastrophic reversal. When [Apple](/aapl-stock/) released the iPhone in 2007, followed by the AppStore model and eventually Android, the ground shifted beneath BlackBerry's feet. The iPhone had no physical keyboard, ran on a larger screen, and was designed for consumers first and enterprises second. Yet within a few years, it became the device that professionals wanted. The app ecosystem made the iPhone indispensable in ways that BlackBerry, with its closed platform, could never match.
 
 RIM's response was characteristically slow and defensive. The company had two operating systems (BlackBerry OS and QNX) competing internally. Leadership appeared to believe that its secure messaging and keyboard-first philosophy would prove sticky enough to survive the tsunami. Executives spoke publicly about the superiority of their approach even as market share collapsed from 50% globally to single digits in less than five years. By 2010, it became clear the company had badly misjudged consumer sentiment and enterprise priorities.
 
@@ -55,7 +55,7 @@ Starting in the mid-2010s, BlackBerry began repositioning itself as a software a
 
 This second act has been neither dramatic nor glamorous, but it has been durable. BlackBerry generates revenue from software licenses, managed security services, legacy device support, and royalties. Its customer base is not the flashy growth demographic but rather corporations, government agencies, and utilities where security pedigree and regulatory compliance matter more than cool. A bank or hospital that has never migrated away from BlackBerry systems has sunk considerable capital and training into them; ripping them out costs money, and BlackBerry's presence reassures regulators.
 
-The company's market position is narrow but defensible. It does not compete directly with Microsoft, Google, or Apple in the consumer smartphone market. Instead, it occupies niches—enterprise device management, automotive security (through QNX), and the long tail of organizations still running legacy BlackBerry infrastructure. Its revenues have stabilized at hundreds of millions annually, well below RIM's peak, but the business is profitable and generates cash.
+The company's market position is narrow but defensible. It does not compete directly with [Microsoft](/msft-stock/), Google, or Apple in the consumer smartphone market. Instead, it occupies niches—enterprise device management, automotive security (through QNX), and the long tail of organizations still running legacy BlackBerry infrastructure. Its revenues have stabilized at hundreds of millions annually, well below RIM's peak, but the business is profitable and generates cash.
 
 ## Legacy and Staying Power
 

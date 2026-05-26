@@ -21,4 +21,4 @@ Today, Atmus competes in a filtration market fragmented by specialized players a
 
 The company's strategic positioning depends on engineering execution, operational efficiency, and maintaining customer relationships in markets where switching costs are meaningful but price competition remains intense. Supply chain resilience and manufacturing flexibility have become increasingly important competitive factors, particularly for customers operating globally.
 
-**See also:** [10-K](/wiki/10-k/) filings, [automotive suppliers](/wiki/automotive-suppliers/), [aerospace components](/wiki/aerospace-components/)
+**See also:** [10-K](/wiki/10-k/) filings, automotive suppliers, aerospace components

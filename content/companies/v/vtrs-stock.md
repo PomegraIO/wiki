@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Viatris Inc. manufactures and sells generic drugs, biosimilar medications, and branded specialty pharmaceuticals across more than 165 countries. The company was formed in 2020 through the merger of Mylan N.V. (a leading generic drugmaker) and Upjohn, the spin-off of Pfizer's older, off-patent pharmaceutical business. Viatris is headquartered in Pittsburgh, Pennsylvania, and operates one of the world's largest portfolios of generic and biosimilar drugs — a business model built on delivering affordable medications to patients and health systems worldwide, often at prices far below the originator drugs they replace.
+Viatris Inc. manufactures and sells generic drugs, biosimilar medications, and branded specialty pharmaceuticals across more than 165 countries. The company was formed in 2020 through the [merger](/merger/) of Mylan N.V. (a leading generic drugmaker) and Upjohn, the [spin-off](/spin-off/) of [Pfizer](/pfe-stock/)'s older, off-patent pharmaceutical business. Viatris is headquartered in Pittsburgh, Pennsylvania, and operates one of the world's largest portfolios of generic and biosimilar drugs — a business model built on delivering affordable medications to patients and health systems worldwide, often at prices far below the originator drugs they replace.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ Viatris's portfolio spans both worlds. It manufactures thousands of generic pill
 
 ## Why did Mylan and Upjohn merge?
 
-The deal reflected a reordering of the global pharmaceutical industry. Mylan had spent the 2000s and 2010s pursuing aggressive growth through acquisition — buying hundreds of generic drug products and businesses across the United States, Europe, and emerging markets. It had become a powerhouse in generics but faced a ceiling: consolidation in the pharmacy benefits and insurance industry meant buyers (hospitals, health insurers) had more negotiating leverage, pushing prices down.
+The deal reflected a reordering of the global pharmaceutical industry. Mylan had spent the 2000s and 2010s pursuing aggressive growth through [acquisition](/acquisition/) — buying hundreds of generic drug products and businesses across the United States, Europe, and emerging markets. It had become a powerhouse in generics but faced a ceiling: consolidation in the pharmacy benefits and insurance industry meant buyers (hospitals, health insurers) had more negotiating leverage, pushing prices down.
 
 Upjohn was a drag on Pfizer. Pfizer, a research-driven maker of blockbuster drugs, inherited Upjohn in the 2009 Wyeth merger and spent years deciding what to do with the older, non-innovative part of the portfolio. By 2020, Pfizer's leadership chose to spin out Upjohn and merge it with Mylan, creating a pure-play generic and off-patent pharmaceutical company with scale, scope, and the cash generation to fund biosimilar development.
 
@@ -67,7 +67,7 @@ On the liability side: those markets are more volatile. Currency fluctuations ca
 
 The fundamental economics of the generic business are brutal. A drug's price in a market is set by three forces: the originator brand's pricing, the number of competitors making the generic, and the buyer's (insurers, hospitals, governments) willingness to pay. Once five or ten companies are selling the same generic, prices collapse to near the marginal cost of production. In some markets, the lowest-cost producer wins most of the volume; in others, buyers split purchases among multiple suppliers.
 
-This means Viatris must constantly chase volume and cut costs to maintain profitability. The company does this through manufacturing efficiency, geographic diversification (selling the same drug in many countries at different prices), and continuous optimization of its product mix. But it also means there is a ceiling on growth rates and profitability in any mature generic market.
+This means Viatris must constantly chase volume and cut costs to maintain profitability. The company does this through manufacturing efficiency, geographic [diversification](/diversification/) (selling the same drug in many countries at different prices), and continuous optimization of its product mix. But it also means there is a ceiling on growth rates and profitability in any mature generic market.
 
 ## Biosimilars: the future, or another commodity trap?
 

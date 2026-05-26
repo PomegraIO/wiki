@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**American Express built the prestige card market and remains a dominant player in premium payments and merchant services.** The company operates a closed-loop network (it both issues cards and acquires merchants) unlike Visa or Mastercard, which means it controls the entire transaction flow. This integrated model has historically delivered higher margins and deeper customer relationships, though it also requires larger capital expenditures to support both sides of the ecosystem.
+**American Express built the prestige card market and remains a dominant player in premium payments and merchant services.** The company operates a closed-loop network (it both issues cards and acquires merchants) unlike [Visa](/v-stock/) or [Mastercard](/ma-stock/), which means it controls the entire transaction flow. This integrated model has historically delivered higher margins and deeper customer relationships, though it also requires larger capital expenditures to support both sides of the ecosystem.
 
 ## What it does
 
@@ -26,9 +26,9 @@ Card members are typically higher-income than the average credit card holder; Am
 
 ## Competitive position and moats
 
-Amex operates in a duopoly network environment alongside [visa-stock](/wiki/visa-stock/) and Mastercard, with smaller players like Discover in certain markets. Its competitive edges are brand prestige (especially in premium segments), deep relationships with affluent consumers and multinational corporations, and network effects in merchant acquiring (where scale drives down costs). The closed-loop model once seemed limiting—fewer merchants accept Amex than Visa—but digital payments and e-commerce have narrowed that gap, and Amex's premium positioning actually benefits from its stricter merchant standards and lower fraud rates.
+Amex operates in a duopoly network environment alongside visa-stock and Mastercard, with smaller players like Discover in certain markets. Its competitive edges are brand prestige (especially in premium segments), deep relationships with affluent consumers and multinational corporations, and network effects in merchant acquiring (where scale drives down costs). The closed-loop model once seemed limiting—fewer merchants accept Amex than Visa—but digital payments and e-commerce have narrowed that gap, and Amex's premium positioning actually benefits from its stricter merchant standards and lower fraud rates.
 
-Pressure comes from fintech disruption, embedded finance, cryptocurrency payment projects, and buy-now-pay-later startups that chip away at small transactions. Newer competitors also target corporate expense management, which Amex has long dominated. However, Amex's brand and entrenched relationships provide durable moats; switching costs for corporate customers are real, and high-net-worth consumers show strong loyalty to premium cards.
+Pressure comes from fintech disruption, embedded finance, cryptocurrency payment projects, and buy-now-pay-later startups that chip away at small transactions. Newer competitors also [target](/tgt-stock/) corporate expense management, which Amex has long dominated. However, Amex's brand and entrenched relationships provide durable moats; switching costs for corporate customers are real, and high-net-worth consumers show strong loyalty to premium cards.
 
 ## Profitability and capital structure
 

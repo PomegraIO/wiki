@@ -41,13 +41,13 @@ The second drug is Opzelura (ruxolitinib cream). It is the same active chemical 
 
 Pemazyre (pemigatinib) is a drug for a rare cancer called cholangiocarcinoma. Cholangio is a cancer of the bile ducts, a system inside the liver, and it is often deadly because it is usually caught late. Pemazyre targets a specific mutation that drives some of these cancers forward. Again, it does not cure the disease, but it slows it down for months or years.
 
-The company also sells Calquence (acalabrutinib), a drug acquired through acquisition, which treats chronic lymphocytic leukaemia. And it is working on new drugs for other cancers and inflammatory diseases, though most of these are in early or mid-stage testing and will not make money for years.
+The company also sells Calquence (acalabrutinib), a drug acquired through [acquisition](/acquisition/), which treats chronic lymphocytic leukaemia. And it is working on new drugs for other cancers and inflammatory diseases, though most of these are in early or mid-stage testing and will not make money for years.
 
 ## How the money works
 
 For patients in the United States who have insurance, the insurance company pays the bulk of the cost of the drug, and the patient pays a copay — typically a few hundred to a few thousand dollars out of pocket. The company gets paid by the insurance company. In other countries with government healthcare systems like Canada or the United Kingdom, the government negotiates a price and buys the drug in bulk. In very poor countries, Incyte often does not sell the drug at all, or it sells it at a steep discount, because the market is not large enough to matter to the company.
 
-The gross profit margin on these drugs is extremely high — often 80 percent or more — because the company has already spent all the money to develop and test the drug, and making more pills is cheap. Manufacturing and shipping a month's supply of Jakafi costs far less than one thousand dollars. The company charges thousands of dollars per month because the patient is willing to pay it (through insurance) and because there are no competitors offering a better alternative.
+The [gross profit margin](/gross-profit-margin/) on these drugs is extremely high — often 80 percent or more — because the company has already spent all the money to develop and test the drug, and making more pills is cheap. Manufacturing and shipping a month's supply of Jakafi costs far less than one thousand dollars. The company charges thousands of dollars per month because the patient is willing to pay it (through insurance) and because there are no competitors offering a better alternative.
 
 That high margin is what makes the biopharmaceutical business so attractive to investors. One successful drug can support an entire company, and the profits from one drug can fund research into five or ten new drugs.
 
@@ -65,7 +65,7 @@ The company also tries to extend the life of existing patents by testing them in
 
 ## How to research Incyte
 
-Start with the company's annual 10-K filing (SEC CIK 0000879169), which lists all the drugs it sells, their recent revenue, and which ones are still in clinical trials. The quarterly earnings calls break down drug-by-drug sales and give updates on new drugs in testing. Watch the patent expiration dates for Jakafi and other major drugs — you can look these up in SEC filings or in the FDA's approval letters.
+Start with the company's annual 10-K filing (SEC CIK 0000879169), which lists all the drugs it sells, their recent revenue, and which ones are still in clinical trials. The quarterly earnings calls break down drug-by-drug sales and give updates on new drugs in testing. Watch the patent [expiration dates](/expiration-contracts/) for Jakafi and other major drugs — you can look these up in SEC filings or in the FDA's approval letters.
 
 Track clinical trial results for new drugs. When Incyte announces that a new drug failed a trial, the stock usually falls. When it announces a success, the stock rises. The details of the trial — how many patients improved, whether side effects were manageable — are published in medical journals and in SEC filings.
 

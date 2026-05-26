@@ -26,7 +26,7 @@ handwritten: true
 
 </aside>
 
-Organon is a mid-sized global pharmaceutical company formed in 2021 through a [spinoff](/spinoff/) from Merck & Co. The company's singular strategic focus centers on three interlocking business areas: women's health, biosimilars, and a stable portfolio of established, branded medicines that generate reliable cash flows. This combination positions Organon as a specialty player in the global pharma landscape, distinct from both the megacap research-driven giants and pure-play biosimilars manufacturers.
+Organon is a mid-sized global pharmaceutical company formed in 2021 through a [spinoff](/spinoff/) from [Merck &](/mrk-stock/) Co. The company's singular strategic focus centers on three interlocking business areas: women's health, biosimilars, and a stable portfolio of established, branded medicines that generate reliable cash flows. This combination positions Organon as a specialty player in the global pharma landscape, distinct from both the megacap research-driven giants and pure-play biosimilars manufacturers.
 
 ## The Spinoff and Founding Context
 
@@ -40,7 +40,7 @@ The company began trading on the [New York Stock Exchange](/new-york-stock-excha
 
 **Established Medicines** form the financial backbone, accounting for approximately 64% of revenue. These are approved, branded products across therapeutic areas including cardiovascular disease, respiratory conditions, dermatology, and neurology. The portfolio includes franchise stalwarts with recognizable names. Revenue from this segment is typically predictable and recurring, though products in this category face ongoing generic competition and face patent expiration over time. This reliance on mature products creates a cash generation engine but also signals a need for new product development to offset erosion.
 
-**Biosimilars** are the emerging growth vector, representing roughly 8% of revenue. Organon has built a portfolio including RENFLEXIS (infliximab-abda) and BRENZYS (etanercept) in immunology, and ONTRUZANT (trastuzumab-dttb) in oncology. The company acquired U.S. commercial rights to TOFIDENCE (tocilizumab biosimilar) from Biogen, signaling intent to expand this portfolio. Biosimilars offer margin potential and reduce dependence on legacy products, though competition in this segment intensifies as more biosimilars reach market maturity.
+**Biosimilars** are the emerging growth vector, representing roughly 8% of revenue. Organon has built a portfolio including RENFLEXIS (infliximab-abda) and BRENZYS (etanercept) in immunology, and ONTRUZANT (trastuzumab-dttb) in oncology. The company acquired U.S. commercial rights to TOFIDENCE (tocilizumab biosimilar) from [Biogen](/biib-stock/), signaling intent to expand this portfolio. Biosimilars offer margin potential and reduce dependence on legacy products, though competition in this segment intensifies as more biosimilars reach market maturity.
 
 ## Distribution and Scale
 

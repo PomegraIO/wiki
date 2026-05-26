@@ -55,13 +55,13 @@ Professional services and implementation also contribute revenue. Installing and
 
 ## Competitive position and market dynamics
 
-PAR competes in a fragmented market. Legacy vendors like NCR (which owns Aloha, a dominant on-premise POS) and Oracle MICROS serve entrenched customer bases. Cloud-native competitors like Toast (a venture-backed pure-cloud POS startup) have gained share among independent and smaller-chain operators. Toast has been a particularly aggressive competitor, raising venture capital and building word-of-mouth reputation for ease of use and modern product design.
+PAR competes in a fragmented market. Legacy vendors like NCR (which owns Aloha, a dominant on-premise POS) and [Oracle](/orcl-stock/) MICROS serve entrenched customer bases. Cloud-native competitors like Toast (a venture-backed pure-cloud POS startup) have gained share among independent and smaller-chain operators. Toast has been a particularly aggressive competitor, raising venture capital and building word-of-mouth reputation for ease of use and modern product design.
 
 PAR's advantage is its presence with large enterprise chains. Major operators like Outback Steakhouse, Cracker Barrel, and numerous QSR (quick-service restaurant) chains run on PAR systems. That installed base creates switching costs—training staff, integrating with suppliers, rebuilding workflows. Loyalty program data is also sticky; a chain with years of customer purchase history in its PAR loyalty system is reluctant to migrate.
 
 Its disadvantage is legacy architecture and perception. Cloud-native vendors have simpler, more modern UX. Some large chains have begun replacing PAR POS terminals with Toast or other newer platforms, particularly as they open new restaurants or remodel. PAR's product team has been modernizing—cloud versions, mobile-first design—but perception lags reality.
 
-The competitive landscape is also shaped by roll-up and consolidation. Apollo Global Management (a private-equity firm) owns significant stakes in PAR and other software vendors, sometimes creating tension between portfolio companies. Payment processors and platform companies (Stripe, Square, Toast itself) are also building deeper integrations with restaurant operations, potentially narrowing PAR's territory.
+The competitive landscape is also shaped by roll-up and consolidation. [Apollo Global Management](/apo-stock/) (a private-equity firm) owns significant stakes in PAR and other software vendors, sometimes creating tension between portfolio companies. Payment processors and platform companies (Stripe, Square, Toast itself) are also building deeper integrations with restaurant operations, potentially narrowing PAR's territory.
 
 ## Financial structure and pressures
 

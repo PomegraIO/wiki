@@ -28,7 +28,7 @@ Over 92% of ONE Gas's customer base is residential, which provides stability; ho
 
 ## What makes it distinctive
 
-ONE Gas's main competitive advantage is the regulated utility model itself—a moat built not by technology or brand, but by government license and infrastructure duopoly. No competitor can simply string new pipes across Oklahoma City or Tulsa; existing utilities own those rights. The company also operates with outsized efficiency for its peers: [operating margins](/operating-margin/) typically run 22–24%, compared to 18–20% at Spire or 10% or less at Southwest Gas. That margin advantage reflects lean operations, stable labor relations, and a long operating history in its footprint.
+ONE Gas's main competitive advantage is the regulated utility model itself—a moat built not by technology or brand, but by government license and infrastructure duopoly. No competitor can simply string new pipes across Oklahoma City or Tulsa; existing utilities own those rights. The company also operates with outsized efficiency for its peers: [operating margins](/operating-margin/) typically run 22–24%, compared to 18–20% at Spire or 10% or less at [Southwest Gas](/swx-stock/). That margin advantage reflects lean operations, stable labor relations, and a long operating history in its footprint.
 
 The three-state footprint is diversified enough to insulate from single-region downturns yet focused enough to maintain deep regulatory relationships and operational expertise. The company is included in the S&P MidCap 400 Index, confirming its standing as a substantial, actively traded public utility rather than a small-cap or illiquid name.
 

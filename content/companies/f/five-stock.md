@@ -33,7 +33,7 @@ The concept found an audience among younger customers who had grown up shopping 
 
 ## Business structure and category mix
 
-Five Below operates as a pure-play retailer: it does not manufacture the goods it sells. Instead, it buys merchandise from hundreds of suppliers — toy manufacturers, sporting-goods companies, home-décor brands, and others — and resells them in stores at marked-up prices. The buying and merchandising function is the core of the business. Buyers identify trending categories and products that resonate with the target customer, negotiate prices with suppliers, and decide what volume to stock.
+Five Below operates as a pure-play retailer: it does not manufacture the goods it sells. Instead, it buys merchandise from hundreds of suppliers — toy manufacturers, sporting-goods companies, home-décor brands, and others — and resells them in stores at marked-up prices. The buying and merchandising function is the core of the business. Buyers identify trending categories and products that resonate with the [target](/tgt-stock/) customer, negotiate prices with suppliers, and decide what volume to stock.
 
 The company organizes its merchandise into several broad categories, each managed somewhat independently:
 
@@ -63,11 +63,11 @@ The company has also pushed to increase the age range of its customer base, orig
 
 Five Below operates on relatively thin merchandising margins, typical of discount retail. The path to profitability is high [inventory turnover](/inventory-turnover/) and scale — more customers through the door, more merchandise sold per square foot, lower fixed costs spread across higher sales. The company does not use heavy discounting or loyalty programs; instead, it relies on the brand and the store experience to bring customers in and on the frequency of their visits.
 
-Most customers find Five Below through word-of-mouth, local marketing, and social media rather than national advertising. This has historically kept customer acquisition costs low compared to other retailers. But as the company has matured and expanded into new markets, it has had to increase marketing spending.
+Most customers find Five Below through word-of-mouth, local marketing, and social media rather than national advertising. This has historically kept customer [acquisition](/acquisition/) costs low compared to other retailers. But as the company has matured and expanded into new markets, it has had to increase marketing spending.
 
 ## Competitive context and headwinds
 
-Five Below competes against multiple types of retailers: traditional toy sellers (now mostly online), discount chains like TJ Maxx and Ross Dress for Less, fast-fashion retailers like Urban Outfitters, sporting-goods chains, and increasingly against Amazon and other online discounters. None of them replicates Five Below's exact positioning, but all of them compete for the same customer's discretionary spending.
+Five Below competes against multiple types of retailers: traditional toy sellers (now mostly online), discount chains like TJ Maxx and Ross Dress for Less, fast-fashion retailers like [Urban Outfitters](/urbn-stock/), sporting-goods chains, and increasingly against Amazon and other online discounters. None of them replicates Five Below's exact positioning, but all of them compete for the same customer's [discretionary spending](/discretionary-spending/).
 
 The company's growth has historically outpaced the retail sector because its target customer is resilient through economic cycles and because Five Below can expand into new geographic markets. But growth eventually slows as the company matures and saturation sets in. The question for Five Below's future is whether the shift toward older customers and lifestyle merchandising can sustain growth, or whether the core teenage customer will remain the growth engine.
 

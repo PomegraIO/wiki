@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is a mortgage REIT and why does Armour exist?
 
-Armour Residential is a mortgage [real estate investment trust](/real-estate-investment-trust/)—a financial firm that buys mortgage-backed securities (MBS) and finances them through borrowed money. The company borrows at short-term rates, invests the proceeds in longer-term agency MBS (mortgage securities guaranteed by Fannie Mae, Freddie Mac, or Ginnie Mae), and pockets the spread. This is a legal arbitrage if the [yield curve](/yield-curve/) cooperates; it's a financial squeeze if rates invert or borrowing costs spike. Armour was founded in 2008 and went public in 2011, offering investors a way to gain leverage-amplified exposure to mortgage securities without owning the bonds directly.
+Armour Residential is a mortgage [real estate investment trust](/real-estate-investment-trust/)—a financial firm that buys mortgage-backed securities (MBS) and finances them through borrowed money. The company borrows at short-term rates, invests the proceeds in longer-term agency MBS (mortgage securities guaranteed by [Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), or Ginnie Mae), and pockets the spread. This is a legal arbitrage if the [yield curve](/yield-curve/) cooperates; it's a financial squeeze if rates invert or borrowing costs spike. Armour was founded in 2008 and went public in 2011, offering investors a way to gain leverage-amplified exposure to mortgage securities without owning the [bonds](/bond/) directly.
 
 ## How does Armour make money in practice?
 
@@ -24,7 +24,7 @@ The profit model is simple in concept, complex in execution. Armour buys MBS yie
 
 ## What makes mortgage REITs a dividend play?
 
-For income-seeking investors, [mortgage REITs](/mortgage-reit/) like Armour can generate yields far above [Treasury bonds](/treasury-bond/) or dividend stocks—often in the 10 to 15 percent range—thanks to leverage and the compounding spread. [Dividends](/wiki/dividend-yield/) from mortgage REITs qualify for ordinary income tax, not preferential capital gains treatment. Payouts fluctuate with the interest-rate environment and prepayment speeds; they are not stable like utility dividends. Many investors view mortgage REITs as tactical allocation for rising-rate environments (when carries widen) rather than core holdings. A position in Armour or its peers requires tolerance for mark-to-market volatility and acceptance that high yield comes with high risk of principal fluctuation.
+For income-seeking investors, [mortgage REITs](/mortgage-reit/) like Armour can generate yields far above [Treasury bonds](/treasury-bond/) or dividend stocks—often in the 10 to 15 percent range—thanks to leverage and the compounding spread. [Dividends](/wiki/dividend-yield/) from mortgage REITs qualify for ordinary income tax, not preferential capital gains treatment. Payouts fluctuate with the interest-rate environment and prepayment speeds; they are not stable like utility [dividends](/dividend/). Many investors view mortgage REITs as tactical allocation for rising-rate environments (when carries widen) rather than core holdings. A position in Armour or its peers requires tolerance for mark-to-market volatility and acceptance that high yield comes with high risk of principal fluctuation.
 
 ## Where does Armour sit among mortgage REITs?
 

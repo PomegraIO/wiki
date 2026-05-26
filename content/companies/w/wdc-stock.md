@@ -34,7 +34,7 @@ But the all-in-one strategy proved unstable. In 2024, Western Digital announced 
 
 ## The hard drive market today
 
-Western Digital serves two major markets. **Cloud and enterprise** is the largest: hyperscalers like Amazon, Google, Microsoft, and Meta need massive storage farms to run their data centers, train AI models, and archive the ever-growing flood of data produced by their services. These customers buy hard drives in the millions of units per year, spec'ing drives specifically for 24/7 operation in data-center racks, and they are ruthlessly price-sensitive and focused on cost per gigabyte.
+Western Digital serves two major markets. **Cloud and enterprise** is the largest: hyperscalers like Amazon, Google, [Microsoft](/msft-stock/), and Meta need massive storage farms to run their data centers, train AI models, and archive the ever-growing flood of data produced by their services. These customers buy hard drives in the millions of units per year, spec'ing drives specifically for 24/7 operation in data-center racks, and they are ruthlessly price-sensitive and focused on cost per gigabyte.
 
 The **client** segment covers PCs, gaming consoles, external drives, and surveillance systems. This segment is smaller in unit volume but often carries higher margins because the drives are customized for each application—gaming performance, laptop reliability, or surveillance durability—and customers are less able to shop purely on price.
 
@@ -64,7 +64,7 @@ By 2024, Western Digital concluded that separation made more sense. The company 
 
 ## Competitive position and the durability question
 
-Western Digital competes directly with Seagate Technology, which holds roughly equal market share in HDDs. The two companies together account for the vast majority of world HDD production. There is no third major independent competitor; everyone else has exited the HDD market.
+Western Digital competes directly with [Seagate Technology](/stx-stock/), which holds roughly equal market share in HDDs. The two companies together account for the vast majority of world HDD production. There is no third major independent competitor; everyone else has exited the HDD market.
 
 That sounds like a duopoly, and in some ways it is. But the duopoly is not stable. Chinese manufacturers (particularly Huawei's subsidiary and state-backed firms) have begun producing HDDs for their own markets and may expand. More importantly, the total HDD market is slowly shrinking: SSDs continue to displace HDDs in more applications, and cloud providers increasingly build custom storage solutions using specialized controllers and racks. Neither trend kills the HDD business—cloud data centers will still need low-cost high-capacity storage for decades—but both act as headwinds on volume and price.
 

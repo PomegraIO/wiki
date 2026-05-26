@@ -47,7 +47,7 @@ Third is the global training infrastructure. CAE doesn't just sell simulators; i
 
 ## Industry Position and Pressures
 
-CAE faces limited competition in the full-motion civil flight simulator market. The company's main rival in commercial aviation is Leonardo (formerly AgustaWestland), but each dominates different regional preferences and customer relationships. In military simulation, competition is more fragmented, with Boeing and other defense contractors offering specialized solutions in niche areas.
+CAE faces limited competition in the full-motion civil flight simulator market. The company's main rival in commercial aviation is Leonardo (formerly AgustaWestland), but each dominates different regional preferences and customer relationships. In military simulation, competition is more fragmented, with [Boeing](/ba-stock/) and other defense contractors offering specialized solutions in niche areas.
 
 Yet the company operates in an industry sensitive to airline capacity and defense spending cycles. Commercial aviation training volume rises and falls with fleet expansion, pilot hiring, and economic conditions. A prolonged [recession](/recession/) or industry contraction can defer simulator purchases and reduce training throughput. Military budgets are politically influenced and subject to shifting priorities; a change in a major customer's procurement strategy can ripple through years of planning.
 
@@ -67,4 +67,4 @@ The company's geographic exposure and customer concentration also matter. Depend
 
 ---
 
-**See also:** [/wiki/public-company/](/wiki/public-company/), [/wiki/stock-exchange/](/wiki/stock-exchange/), [/wiki/aerospace/](/wiki/aerospace/) (if available in allowlist)
+**See also:** [/wiki/public-company/](/wiki/public-company/), [/wiki/stock-exchange/](/wiki/stock-exchange/), /wiki/aerospace/ (if available in allowlist)

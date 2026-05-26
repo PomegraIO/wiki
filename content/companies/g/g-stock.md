@@ -12,7 +12,7 @@ handwritten: true
 
 Genpact is a multinational business process management and information technology services firm headquartered in New York, with substantial operations in India and across other global markets. It operates as a pure-play services provider, handling enterprise operations across finance and accounting, supply chain, procurement, customer experience, and other back-office and IT functions. The company bridges the gap between pure outsourcing and full in-house operations—functioning as an extended workforce for large corporations navigating digital transformation and cost optimization.
 
-The business originates from General Electric's captive captive process-outsourcing arm, launched in the late 1990s. GE spun it out as a standalone public company in 2006, listing on the [New York Stock Exchange](/new-york-stock-exchange/). That heritage shapes its identity: Genpact came of age serving one of the world's most process-conscious manufacturers, instilling a culture of operational rigor and continuous improvement. Over the following two decades, it shed its exclusive GE ties and built a broad multinational client base across financial services, pharmaceuticals, technology, energy, and consumer goods.
+The business originates from [General Electric](/ge-stock/)'s captive captive process-outsourcing arm, launched in the late 1990s. GE spun it out as a standalone public company in 2006, listing on the [New York Stock Exchange](/new-york-stock-exchange/). That heritage shapes its identity: Genpact came of age serving one of the world's most process-conscious manufacturers, instilling a culture of operational rigor and continuous improvement. Over the following two decades, it shed its exclusive GE ties and built a broad multinational client base across financial services, pharmaceuticals, technology, energy, and consumer goods.
 
 ## The business model and revenue streams
 
@@ -24,7 +24,7 @@ The company operates on a global delivery model. Its largest workforce sits in I
 
 ## Where it stands in a shifting landscape
 
-The business process outsourcing industry has matured over thirty years from a cost-play into something more nuanced. Genpact competes against larger players like Accenture and IBM in high-value transformation work, against pure-play BPO specialists like Concentrix and Alorica in routine operations, and against the in-house departments of clients themselves. Its niche is mid-market and enterprise clients wanting to shed operational burden but still needing credible, accountable vendor relationships—not the cutting-edge consulting of the big systems integrators, not the ultra-low-cost commodity services, but reliable middle ground.
+The business process outsourcing industry has matured over thirty years from a cost-play into something more nuanced. Genpact competes against larger players like [Accenture](/acn-stock/) and IBM in high-value transformation work, against pure-play BPO specialists like Concentrix and Alorica in routine operations, and against the in-house departments of clients themselves. Its niche is mid-market and enterprise clients wanting to shed operational burden but still needing credible, accountable vendor relationships—not the cutting-edge consulting of the big systems integrators, not the ultra-low-cost commodity services, but reliable middle ground.
 
 It has invested significantly in automation, cloud platforms, and data analytics tooling—not as a core product offering, but as a way to run client operations more efficiently and allow reskilling of staff toward higher-value work. Artificial intelligence and robotic process automation are reshaping the industry; Genpact has rolled out generic and client-specific RPA solutions to reduce headcount needs in repetitive processes. The outcome is higher throughput per employee, but also fewer total workers needed for a given volume of work. This mismatch between client demand for automation and Genpact's dependence on billable labor is a long-standing tension in the industry.
 
@@ -34,7 +34,7 @@ The structural headwinds are substantial. Wage inflation in India and other offs
 
 Client concentration is measurable: the top customers account for a material portion of total revenue, meaning loss of a major contract can be painful. Execution risk on large transformations is always present; failing to deliver a promised system implementation or process redesign damages reputation and client retention.
 
-Geopolitical headwinds matter too. Dependence on India exposes the company to Indian regulation, data residency rules, and visa policy; any tightening of H-1B visa caps or restrictions on offshore data movement would constrain growth. Competition for talent is fierce, particularly for mid-level engineers and process experts; high turnover in the Indian workforce has been a chronic challenge across the BPO sector.
+Geopolitical headwinds matter too. Dependence on India exposes the company to Indian regulation, data residency rules, and [visa](/v-stock/) policy; any tightening of H-1B visa caps or restrictions on offshore data movement would constrain growth. Competition for talent is fierce, particularly for mid-level engineers and process experts; high turnover in the Indian workforce has been a chronic challenge across the BPO sector.
 
 ## The investment angle
 

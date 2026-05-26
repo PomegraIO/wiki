@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is CVR Partners?
 
-CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of CVR Energy Company, though CVR Energy is itself a subsidiary of Berkshire Hathaway as of 2023. UAN trades on the [NASDAQ](/nasdaq/) exchange.
+CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of CVR Energy Company, though CVR Energy is itself a subsidiary of [Berkshire Hathaway](/brk-b-stock/) as of 2023. UAN trades on the [NASDAQ](/nasdaq/) exchange.
 
 ## Where does its cash come from?
 
@@ -37,7 +37,7 @@ The ammonia and nitrogen fertilizer business is capital-intensive and commodity-
 
 **Feedstock access** is the third pillar. Natural gas is the primary raw material and input cost driver. CVR Partners buys gas at market prices; it does not have long-term fixed contracts. When natural gas is cheap, margins are wide. When natural gas spikes (as in 2021–2022), margins compress sharply. The partnership has no hedging program at scale, so it absorbs commodity volatility directly.
 
-Competitors include major producers like CF Industries and Dyno Nobel, regional players in Canada, and the ammonia capacity of CVR Energy's fertilizer operations (which CVR Partners does not own). Global overcapacity in ammonia is a chronic risk: if producers in the Middle East, Russia, or other regions can make ammonia cheaper (due to lower feedstock costs), imports can flood the North American market and depress prices for all domestic producers.
+Competitors include major producers like [CF Industries](/cf-stock/) and Dyno Nobel, regional players in Canada, and the ammonia capacity of CVR Energy's fertilizer operations (which CVR Partners does not own). Global overcapacity in ammonia is a chronic risk: if producers in the Middle East, Russia, or other regions can make ammonia cheaper (due to lower feedstock costs), imports can flood the North American market and depress prices for all domestic producers.
 
 ## What are the key risks?
 

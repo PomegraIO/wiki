@@ -34,7 +34,7 @@ This model creates a fundamentally different risk and return profile from unregu
 
 ## Revenue and Operations
 
-Entergy Arkansas generates revenue primarily through electricity sales to residential, commercial, and industrial customers. Residential customers—homes, apartments, and small businesses—form the largest customer base and typically pay higher [per-kilowatt-hour rates](/wiki/accounting/). Commercial and industrial customers, which may represent substantial consumption, often negotiate lower rates given their volume. The utility also serves government entities and large industrial users such as wood products facilities and manufacturing plants in its territory.
+Entergy Arkansas generates revenue primarily through electricity sales to residential, commercial, and industrial customers. Residential customers—homes, apartments, and small businesses—form the largest customer base and typically pay higher per-kilowatt-hour rates. Commercial and industrial customers, which may represent substantial consumption, often negotiate lower rates given their volume. The utility also serves government entities and large industrial users such as wood products facilities and manufacturing plants in its territory.
 
 The company's costs are dominated by fuel and purchased power (the cost to generate or buy electricity), operations and maintenance, and depreciation. Unlike utilities in renewable-heavy regions, Entergy Arkansas historically relied heavily on [natural gas](/natural-gas/) generation and [coal](/wiki/coal/), with nuclear power from shared facilities operated by Entergy Corporation also contributing to its power supply. The company owns and operates generation facilities and has interests in transmission and distribution infrastructure that carries power to customers.
 
@@ -46,7 +46,7 @@ The appeal of these bonds, particularly in a regulated utility context, is stead
 
 ## Industry Dynamics and Competitive Pressures
 
-Entergy Arkansas exists in a utility sector undergoing significant change. The transition away from fossil fuels, the rising cost of power plant maintenance, and regulatory shifts are reshaping the economics of traditional utilities. The company faces pressure to invest in [renewable energy](/wiki/sustainability/), upgrade the grid to accommodate distributed generation (such as rooftop solar), and meet efficiency and emissions reduction targets set by state and federal policy.
+Entergy Arkansas exists in a utility sector undergoing significant change. The transition away from fossil fuels, the rising cost of power plant maintenance, and regulatory shifts are reshaping the economics of traditional utilities. The company faces pressure to invest in renewable energy, upgrade the grid to accommodate distributed generation (such as rooftop solar), and meet efficiency and emissions reduction targets set by state and federal policy.
 
 The rise of renewable energy and battery storage is also changing the generational mix utilities rely on. As wind and solar become cheaper, utilities must retire older fossil fuel plants and invest heavily in new infrastructure. For Entergy Arkansas, this means significant [capital expenditures](/wiki/capex-budgeting/) on grid modernization and new generation capacity. These investments are recoverable if the APSC agrees they are prudent and necessary—a favorable process, but one with uncertainty and potential delays.
 

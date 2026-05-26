@@ -33,7 +33,7 @@ The company does not charge per-request like older CDNs; instead, it uses monthl
 
 ## Competitive Position and What Drives Adoption
 
-Cloudflare faces competition from older CDN players (Akamai, Fastly) and cloud giants (AWS CloudFront, Google Cloud CDN, Microsoft Azure) who offer similar capabilities embedded in their broader ecosystems. Yet Cloudflare has carved out sustained demand by being genuinely easier to deploy than Akamai's legacy systems, cheaper at scale than hyperscaler equivalents, and more specialized than general-cloud offerings.
+Cloudflare faces competition from older CDN players (Akamai, Fastly) and cloud giants (AWS CloudFront, Google Cloud CDN, [Microsoft](/msft-stock/) Azure) who offer similar capabilities embedded in their broader ecosystems. Yet Cloudflare has carved out sustained demand by being genuinely easier to deploy than Akamai's legacy systems, cheaper at scale than hyperscaler equivalents, and more specialized than general-cloud offerings.
 
 The technical moat is real but not unassailable. Cloudflare's distributed edge footprint—network presence in hundreds of data centers worldwide—is expensive to replicate and creates genuine performance advantage. The security product (especially DDoS mitigation, which requires absorbing multi-terabit attacks in real time) benefits from scale: the more traffic Cloudflare touches, the better its threat detection algorithms become, and the harder it is for competitors to match protection quality without similar volume. WAF and bot-detection are somewhat easier to replicate, and Cloudflare faces pressure from specialized security vendors and from cloud-native SIEM/WAF startups.
 

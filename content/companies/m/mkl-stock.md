@@ -31,23 +31,23 @@ Start with the insurance side. Markel writes specialty coverages. This means ins
 
 Markel also owns subsidiaries in adjacent insurance lines and related businesses. Markel Ventures is a wholly owned subsidiary that acquires small to mid-sized businesses in non-insurance sectors—food flavourings, distribution, manufacturing. These have nothing to do with insurance but generate cash and diversify earnings.
 
-The investment side is critical. An insurance company collects premiums and pays claims. But there is a lag—sometimes months, sometimes years. That float, as it is called, must be invested. Most insurance companies invest conservatively in bonds and short-term securities. Markel invests in equities, bonds, real estate, and controlled companies, and it does so with a longer time horizon and higher active oversight than most insurers.
+The investment side is critical. An insurance company collects premiums and pays claims. But there is a lag—sometimes months, sometimes years. That float, as it is called, must be invested. Most insurance companies invest conservatively in [bonds](/bond/) and short-term securities. Markel invests in equities, bonds, real estate, and controlled companies, and it does so with a longer time horizon and higher active oversight than most insurers.
 
 ## The underwriting discipline advantage
 
-Insurance companies make money two ways: underwriting profit (premiums exceed claims) and investment returns. In competitive markets, insurers often underwrite at a loss, betting that investment returns will cover it. Markel's philosophy is to underwrite profitably. This means turning down business that does not offer adequate pricing, which means accepting lower premium volume and lower return on assets than competitors. In good years, this looks conservative. Over twenty-year cycles, this discipline compounds.
+Insurance companies make money two ways: underwriting profit (premiums exceed claims) and investment returns. In competitive markets, insurers often underwrite at a loss, betting that investment returns will cover it. Markel's philosophy is to underwrite profitably. This means turning down business that does not offer adequate pricing, which means accepting lower premium volume and lower [return on assets](/return-on-assets/) than competitors. In good years, this looks conservative. Over twenty-year cycles, this discipline compounds.
 
 Underwriting discipline in specialty insurance requires deep expertise. A claims adjustment for a complex product liability dispute in construction might take years to settle. Markel needs underwriters who understand the risks involved, who can model tail scenarios, and who can say no to a client rather than underprice the risk. This expertise is an asset competitors cannot easily replicate.
 
 ## The Berkshire comparison
 
-Markel operates on principles similar to Berkshire Hathaway: collect premiums with underwriting discipline, invest the float in equities you understand, and hold for the long term. Markel is smaller than Berkshire, and its float is smaller, but the playbook is similar. Like Berkshire, Markel sometimes buys whole companies, deploying the balance sheet to acquire businesses that fit its criteria. The company has done this selectively, and the results have been mixed, but the optionality is there.
+Markel operates on principles similar to [Berkshire Hathaway](/brk-b-stock/): collect premiums with underwriting discipline, invest the float in equities you understand, and hold for the long term. Markel is smaller than Berkshire, and its float is smaller, but the playbook is similar. Like Berkshire, Markel sometimes buys whole companies, deploying the [balance sheet](/balance-sheet/) to acquire businesses that fit its criteria. The company has done this selectively, and the results have been mixed, but the optionality is there.
 
 ## Cyclicality and underwriting competition
 
 Insurance is cyclical. In soft markets, when excess capacity exists and pricing is weak, insurers undercut each other and margins compress. In hard markets, when losses mount and capacity exits, pricing firms and insurers make money. Markel's underwriting discipline looks like wisdom in hard markets and like business-declining conservatism in soft markets. This means Markel's combined ratio (claims and expenses as a percentage of premiums) can look unfavourable in booming years and favourable in years when the industry suffers.
 
-Specialty insurance is less commoditised than standard lines, which should support pricing discipline. But consolidation in the industry and the entry of large capital pools (hedge funds, private equity) into insurance have intensified competition. New entrants sometimes underprice to gain market share, pressuring legacy operators.
+Specialty insurance is less commoditised than standard lines, which should support pricing discipline. But consolidation in the industry and the entry of large capital pools ([hedge funds](/hedge-fund/), private equity) into insurance have intensified competition. New entrants sometimes underprice to gain market share, pressuring legacy operators.
 
 ## What moves the needle
 
@@ -55,11 +55,11 @@ For Markel, key metrics are the combined ratio (lower is better; under 100 is un
 
 The casualty insurance business is long-tail: a claim from 2010 might not settle until 2020. Markel has to estimate reserves for claims that have occurred but not yet been paid. Estimation error is expensive. A significant adverse reserve development (meaning claims are worse than estimated) can wipe out years of underwriting discipline. The company closely watches reserve adequacy and discloses reserve movements in quarterly filings.
 
-The investment portfolio is also material. An insurer's investment performance is often the difference between a good year and a mediocre one, especially if underwriting is tight. Markel's equity-heavy portfolio performs well in bull markets and suffers more in bear markets than peers with bond-heavy portfolios.
+The investment portfolio is also material. An insurer's investment performance is often the difference between a good year and a mediocre one, especially if underwriting is tight. Markel's equity-heavy portfolio performs well in [bull markets](/bull-market/) and suffers more in [bear markets](/bear-market/) than peers with bond-heavy portfolios.
 
 ## Markel Ventures and diversification
 
-The acquisition of small manufacturing and service businesses through Markel Ventures is a diversification bet. These businesses are not insurance and do not move in tandem with insurance cycles. They are also cash generators, which provides funds to deploy elsewhere. But they add complexity, require hands-on management, and can suffer in recessions. This is a longer-term play than pure insurance.
+The [acquisition](/acquisition/) of small manufacturing and service businesses through Markel Ventures is a [diversification](/diversification/) bet. These businesses are not insurance and do not move in tandem with insurance cycles. They are also cash generators, which provides funds to deploy elsewhere. But they add complexity, require hands-on management, and can suffer in [recessions](/recession/). This is a longer-term play than pure insurance.
 
 ## The realistic view
 

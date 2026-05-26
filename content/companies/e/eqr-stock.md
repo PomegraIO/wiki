@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Equity Residential is a company that buys and runs apartment buildings. It owns thousands of buildings across major cities in America and collects rent from the people who live in them. The business is simple in concept: own buildings, rent them out, collect steady income. That straightforward idea has made it one of the biggest names in residential real estate and a reliable source of cash for investors who own shares.
+Equity Residential is a company that buys and runs apartment buildings. It owns thousands of buildings across major cities in America and collects rent from the people who live in them. The business is simple in concept: own buildings, rent them out, collect steady income. That straightforward idea has made it one of the biggest names in [residential real estate](/residential-real-estate/) and a reliable source of cash for investors who own shares.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,19 +41,19 @@ What makes apartment ownership valuable is that it creates real estate assets th
 
 ## A REIT, not a regular company
 
-Equity Residential is structured as a REIT, a real estate investment trust. That is a special type of company designed by tax law to own and operate real estate. The deal with REITs is simple: if a company owns real estate and pays out most of its taxable income to shareholders as dividends, then the company itself does not pay income tax. Only the shareholders do. This structure makes real estate ownership attractive to investors who want regular income without double taxation.
+Equity Residential is structured as a REIT, a [real estate investment trust](/real-estate-investment-trust/). That is a special type of company designed by tax law to own and operate real estate. The deal with REITs is simple: if a company owns real estate and pays out most of its taxable income to shareholders as [dividends](/dividend/), then the company itself does not pay income tax. Only the shareholders do. This structure makes real estate ownership attractive to investors who want regular income without double taxation.
 
 Because Equity Residential is a REIT, its shareholders expect a strong dividend. That means the company does not reinvest all its cash into building an empire. Instead it sends a meaningful slice back to investors every quarter. That makes the stock appealing to people who want steady payouts, like retirees. It also means growth is slower than it might be if the company could keep and reinvest all profits. That is the tradeoff: REITs offer better immediate income at the cost of slower capital growth.
 
 ## Urban demand and supply
 
-The fortunes of apartment landlords depend on the same forces that move all real estate: how many people want to live in a city, how many apartments already exist there, and whether new construction is adding more supply or if the market is tight. When a city is booming, jobs are plentiful, and people move in faster than new buildings go up, then rents climb and landlords do well. When construction floods a market with new units, or when a recession causes people to move away or double up, then rents stagnate and landlords struggle.
+The fortunes of apartment landlords depend on the same forces that move all real estate: how many people want to live in a city, how many apartments already exist there, and whether new construction is adding more supply or if the market is tight. When a city is booming, jobs are plentiful, and people move in faster than new buildings go up, then rents climb and landlords do well. When construction floods a market with new units, or when a [recession](/recession/) causes people to move away or double up, then rents stagnate and landlords struggle.
 
-Equity Residential has exposure to these cycles. It owns properties in cities that attract talent — tech hubs, financial centers, educated metros. Those tend to be resilient, but they are not immune. The company also benefits when interest rates are low and real estate is attractive to investors. When rates rise sharply, both the value of existing buildings and the appetite to buy new ones can fall, putting pressure on share prices.
+Equity Residential has exposure to these cycles. It owns properties in cities that attract talent — tech hubs, financial centers, educated metros. Those tend to be resilient, but they are not immune. The company also benefits when [interest rates](/interest-rate/) are low and real estate is attractive to investors. When rates rise sharply, both the value of existing buildings and the appetite to buy new ones can fall, putting pressure on share prices.
 
 ## Competition and scale
 
-Equity Residential is one of several large apartment landlords. Competitors include Apartment Investment and Management Company (AIR), AvalonBay Communities, and others. There is no monopoly here. The business is fragmented — many small landlords own single buildings or small portfolios. But among the giants, scale matters because it brings efficiency. A large landlord can negotiate better prices from vendors, spread management costs across many properties, and access cheaper debt because lenders trust it more. That is one reason Equity Residential has been able to stay on top.
+Equity Residential is one of several large apartment landlords. Competitors include Apartment Investment and Management Company (AIR), [AvalonBay Communities](/avb-stock/), and others. There is no monopoly here. The business is fragmented — many small landlords own single buildings or small portfolios. But among the giants, scale matters because it brings efficiency. A large landlord can negotiate better prices from vendors, spread management costs across many properties, and access cheaper debt because lenders trust it more. That is one reason Equity Residential has been able to stay on top.
 
 ## How to research Equity Residential
 

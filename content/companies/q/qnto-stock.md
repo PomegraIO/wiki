@@ -41,9 +41,9 @@ The limitation is clear: without a large commercial lending operation, the bank 
 
 ## Capital and Earnings
 
-Like all [public companies](/wiki/public-company/), Quaint Oak must file a [10-K](/wiki/10-k/) annually with the SEC (CIK 1391933) detailing assets, liabilities, earnings, and risk. Reading the 10-K reveals the true profitability picture: net interest margin, non-performing loans (NPL ratios), [loan-to-deposit ratios](/wiki/loan-to-deposit-ratio/), and the quality of title and insurance underwriting.
+Like all [public companies](/wiki/public-company/), Quaint Oak must file a [10-K](/wiki/10-k/) annually with the SEC (CIK 1391933) detailing assets, liabilities, earnings, and risk. Reading the 10-K reveals the true profitability picture: net interest margin, non-performing loans (NPL ratios), loan-to-deposit ratios, and the quality of title and insurance underwriting.
 
-[Earnings per share](/earnings-per-share/) and [return on assets](/wiki/return-on-assets-roa/) (ROA) are the key metrics for small-bank investors. Typical community banks operate at ROA between 0.5% and 1.5%; Quaint Oak's specific performance depends on market conditions, management execution, and the health of its loan portfolio. The 10-K also details how much capital the bank holds in excess of regulatory minimums, a buffer against losses.
+[Earnings per share](/earnings-per-share/) and return on assets (ROA) are the key metrics for small-bank investors. Typical community banks operate at ROA between 0.5% and 1.5%; Quaint Oak's specific performance depends on market conditions, management execution, and the health of its loan portfolio. The 10-K also details how much capital the bank holds in excess of regulatory minimums, a buffer against losses.
 
 ## What to Watch
 

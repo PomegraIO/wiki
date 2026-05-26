@@ -48,7 +48,7 @@ BSG competes directly with other professional beauty distributors and, increasin
 
 ## The competitive landscape and market pressures
 
-Sally Beauty operates in a fragmented market where suppliers include major beauty manufacturers (L'Oréal, Estée Lauder, Coty, Unilever), direct-to-consumer brands, and online-first retailers. Professionals increasingly shop across multiple channels: independent distributors, manufacturer websites, Amazon, and Sally Beauty itself.
+Sally Beauty operates in a fragmented market where suppliers include major beauty manufacturers (L'Oréal, Estée Lauder, Coty, [Unilever](/ul-stock/)), direct-to-consumer brands, and online-first retailers. Professionals increasingly shop across multiple channels: independent distributors, manufacturer websites, Amazon, and Sally Beauty itself.
 
 Key competitive pressures include pricing pressure from Amazon and other e-commerce players; increasing direct-to-consumer sales by major manufacturers reducing intermediary demand; and the rise of smaller, niche professional beauty brands that bypass traditional distribution. Salon professionals have many sourcing options, and loyalty to any single distributor is conditional on price, selection, and service.
 

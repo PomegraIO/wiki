@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-Element Solutions Inc manufactures specialty chemicals and process technologies used in electronics manufacturing, industrial finishing, and other industrial processes. The company changed its name from Platform Specialty Chemicals in 2019 and trades on the New York Stock Exchange under the symbol ESI. What Element Solutions does is unglamorous but fundamental: it supplies the chemical inputs—wet chemistry, advanced materials, solvents, pastes, adhesives, and treatments—that manufacturers need to turn raw materials into finished electronics and industrial products.
+Element Solutions Inc manufactures specialty chemicals and process technologies used in electronics manufacturing, industrial finishing, and other industrial processes. The company changed its name from Platform Specialty Chemicals in 2019 and trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the symbol ESI. What Element Solutions does is unglamorous but fundamental: it supplies the chemical inputs—wet chemistry, advanced materials, solvents, pastes, adhesives, and treatments—that manufacturers need to turn raw materials into finished electronics and industrial products.
 
 ## Origins and consolidation
 
-Element Solutions emerged from the specialty chemicals consolidation wave of the 2000s and 2010s, when large chemical companies divested from lower-margin, less-strategically-important lines of business. The company traces its roots to a combination of acquisitions and mergers spanning several decades, with roots in printed circuit board (PCB) chemistry and semiconductor packaging materials. What became Platform Specialty Chemicals grew by acquiring smaller, focused specialty chemical companies—each serving a specific niche (PCB chemistry, metal finishing, adhesives) and bringing complementary customers and geographies into one larger player.
+Element Solutions emerged from the specialty chemicals consolidation wave of the 2000s and 2010s, when large chemical companies divested from lower-margin, less-strategically-important lines of business. The company traces its roots to a combination of [acquisitions](/acquisition/) and [mergers](/merger/) spanning several decades, with roots in printed circuit board (PCB) chemistry and semiconductor packaging materials. What became Platform Specialty Chemicals grew by acquiring smaller, focused specialty chemical companies—each serving a specific niche (PCB chemistry, metal finishing, adhesives) and bringing complementary customers and geographies into one larger player.
 
 By the time it rebranded as Element Solutions in 2019, the company had already consolidated multiple operating divisions and manufacturing footprints. The rebranding signaled a pivot toward a more unified market identity rather than a collection of legacy specialist brands. It also reflected a shift in strategy: instead of being a passive conglomerate of chemicals businesses, Element Solutions began integrating them, sharing manufacturing know-how, and selling solutions rather than individual products.
 
@@ -32,7 +32,7 @@ Both of these applications have high switching costs: a PCB or semiconductor man
 
 The Industrial & Specialty segment supplies specialty chemicals for surface finishing, metal treatment, and other industrial applications. This includes electroplating chemicals, corrosion inhibitors, cleaners, and coatings for automotive, aerospace, general industrial manufacturing, and oil and gas applications.
 
-This segment is less defensible than Electronics because many of its products are more commodity-like and customers are more willing to switch suppliers on price. However, it provides diversification away from the electronics cycle and supplies Element Solutions with a geographic footprint and customer base in regions and industries not served by the Electronics segment.
+This segment is less defensible than Electronics because many of its products are more commodity-like and customers are more willing to switch suppliers on price. However, it provides [diversification](/diversification/) away from the electronics cycle and supplies Element Solutions with a geographic footprint and customer base in regions and industries not served by the Electronics segment.
 
 ## The manufacturing footprint and cost structure
 
@@ -56,6 +56,6 @@ At the same time, electronics manufacturing is cyclical—demand weakens during 
 
 ## What to watch
 
-Track the company's revenue split between Electronics and Industrial & Specialty; a growing Electronics mix suggests favorable positioning. Watch gross margins, especially any signs of raw material cost inflation or customer pricing pressure. Monitor customer concentration—Element Solutions serves major manufacturers, so loss of a large customer would hurt. And listen for management commentary on capital expenditure plans, as the company must continuously invest in manufacturing to maintain quality and capacity.
+Track the company's revenue split between Electronics and Industrial & Specialty; a growing Electronics mix suggests favorable positioning. Watch gross margins, especially any signs of raw material cost [inflation](/inflation/) or customer pricing pressure. Monitor customer concentration—Element Solutions serves major manufacturers, so loss of a large customer would hurt. And listen for management commentary on capital expenditure plans, as the company must continuously invest in manufacturing to maintain quality and capacity.
 
-Key financial metrics include return on invested capital (a measure of how efficiently the company uses capital), free cash flow (which funds dividends and buybacks), and the ratio of net debt to operating cash flow (which signals financial flexibility).
+Key financial metrics include [return on invested capital](/return-on-invested-capital/) (a measure of how efficiently the company uses capital), [free cash flow](/free-cash-flow/) (which funds [dividends](/dividend/) and buybacks), and the ratio of [net debt](/net-debt/) to operating cash flow (which signals financial flexibility).

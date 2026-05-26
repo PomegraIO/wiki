@@ -28,13 +28,13 @@ Old Republic International is a diversified insurance company that sells liabili
 
 Old Republic divides its business into three primary lines of insurance, each serving a distinct customer need.
 
-**The General Liability segment** writes protection against bodily-injury and property-damage claims arising from business operations. A contractor's worker injures a customer; a store's product causes harm; a professional's advice leads to financial loss. General liability insurance shields the business owner from the financial ruin that a single lawsuit can cause. Old Republic competes in this space alongside much larger insurers, winning by being faster to underwrite and more flexible on pricing than the megacaps, and by building long-term relationships with agencies and brokers who place business.
+**The General Liability segment** writes protection against bodily-injury and property-damage claims arising from business operations. A contractor's worker injures a customer; a store's product causes harm; a professional's advice leads to financial loss. General liability insurance shields the business owner from the financial ruin that a single lawsuit can cause. Old Republic competes in this space alongside much larger insurers, winning by being faster to underwrite and more flexible on pricing than the megacaps, and by building long-term relationships with agencies and [brokers](/broker/) who place business.
 
 **Workers' Compensation** is the largest by premium volume. Every state in the U.S. mandates that employers carry this insurance to cover medical treatment and lost-wage benefits for employees injured on the job. It is a highly regulated line—premium rates are set by state-mandated tables—but execution still matters enormously. Claims management is the lever: companies that settle claims quickly and fairly, that invest in injury prevention and return-to-work programmes, and that manage the clinical and litigation side of large claims can underwrite profitably where others lose money. Old Republic has built a reputation for competent claims handling that allows it to attract business at profitable rates.
 
 **The Commercial Automobile segment** covers liability and physical damage on company-owned vehicles—delivery fleets, contractors' trucks, and service vehicles. Like general liability, it is a competitive space dominated by larger insurers, but Old Republic has found a niche by serving smaller fleets where a big insurer's underwriting process is too slow or inflexible.
 
-Beyond these three, Old Republic maintains smaller operations in excess and surplus lines (specialty coverage where standard insurers cannot quote), surety bonds (financial guarantees), and run-off operations (managing claims from business lines it has exited).
+Beyond these three, Old Republic maintains smaller operations in excess and surplus lines (specialty coverage where standard insurers cannot quote), surety [bonds](/bond/) (financial guarantees), and run-off operations (managing claims from business lines it has exited).
 
 ## The economics of the insurance business
 
@@ -50,7 +50,7 @@ Old Republic's competitive advantage rests on discipline in these cycles. The co
 
 Insurance companies are fundamentally capital businesses: the larger the float they control, the more investment income they can earn and the more premiums they can support. Old Republic operates with meaningful leverage—it borrows against its capital base—to extend its float and increase the return on shareholder equity. This leverage is safe only if underwriting is sound. If losses spike, leverage becomes dangerous.
 
-The company returns capital to shareholders through dividends. As premiums and float grow over time, Old Republic has increased the dividend steadily, which appeals to income-focused investors. The dividend also forces discipline: if the company cannot underwrite profitably and generate cash, the dividend becomes unsustainable.
+The company returns capital to shareholders through [dividends](/dividend/). As premiums and float grow over time, Old Republic has increased the dividend steadily, which appeals to income-focused investors. The dividend also forces discipline: if the company cannot underwrite profitably and generate cash, the dividend becomes unsustainable.
 
 ## Competitive positioning and scale
 
@@ -60,13 +60,13 @@ The real competitive threat comes from insurers that can underwrite more accurat
 
 ## Pressures and trends
 
-Old Republic faces headwinds that affect the entire insurance industry. Social inflation—the tendency of settlements and jury awards to grow faster than headline inflation—erodes underwriting margins in liability lines. Health-care costs, which drive workers' compensation expenses, remain volatile. Catastrophic weather events increase insured losses, and climate change is expanding the frequency and severity of those events.
+Old Republic faces headwinds that affect the entire insurance industry. Social [inflation](/inflation/)—the tendency of settlements and jury awards to grow faster than [headline inflation](/headline-inflation/)—erodes underwriting margins in liability lines. Health-care costs, which drive workers' compensation expenses, remain volatile. Catastrophic weather events increase insured losses, and climate change is expanding the frequency and severity of those events.
 
 Consolidated brokerage houses—firms that place insurance across hundreds of carriers—have increasing negotiating power, which squeezes rates and forces Old Republic to be more disciplined about what business it will accept.
 
 ## How to research Old Republic
 
-Investors should begin with the 10-K (SEC CIK 0000074260), which details premiums written and earned by segment, loss ratios, expense ratios, and the composition of the investment portfolio. Watch the combined ratio—claims plus expenses as a percentage of premiums earned. A ratio below 100 means underwriting profit; above 100 means loss. Pay attention to trends: is the combined ratio widening (claims rising faster than premiums) or improving?
+Investors should begin with the 10-K (SEC CIK 0000074260), which details premiums written and earned by segment, loss ratios, [expense ratios](/expense-ratio/), and the composition of the investment portfolio. Watch the combined ratio—claims plus expenses as a percentage of premiums earned. A ratio below 100 means underwriting profit; above 100 means loss. Pay attention to trends: is the combined ratio widening (claims rising faster than premiums) or improving?
 
 Quarterly earnings calls reveal what management thinks about the competitive environment and whether the company is adjusting underwriting discipline in response to soft pricing. Compare Old Republic's pricing trends against commentary from larger peers; if Old Republic is cutting more aggressively, it suggests distress.
 

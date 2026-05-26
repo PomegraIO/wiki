@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Axe Compute pivoted from oncology research into enterprise GPU infrastructure, securing a $260M multi-year contract to deploy NVIDIA's latest accelerators.** The company, which rebranded from Predictive Oncology in late 2025, now operates dual business segments: one supplying dedicated GPU clusters for large-scale AI workloads, the other continuing legacy drug discovery services. This shift reflects the broader market realignment toward infrastructure-heavy AI deployment, where raw compute capacity commands premium contracts from corporations scaling their machine learning operations.
+**Axe Compute pivoted from oncology research into enterprise GPU infrastructure, securing a $260M multi-year contract to deploy [NVIDIA](/nvda-stock/)'s latest accelerators.** The company, which rebranded from Predictive Oncology in late 2025, now operates dual business segments: one supplying dedicated GPU clusters for large-scale AI workloads, the other continuing legacy drug discovery services. This shift reflects the broader market realignment toward infrastructure-heavy AI deployment, where raw compute capacity commands premium contracts from corporations scaling their machine learning operations.
 
 ## The Infrastructure Play
 

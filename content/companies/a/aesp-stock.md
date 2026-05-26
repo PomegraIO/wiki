@@ -23,7 +23,7 @@ handwritten: true
 
 </aside>
 
-Aeon [Acquisition](/acquisition/) I Corp. is a special purpose acquisition company (SPAC)—a shell corporation formed to raise capital and find an operating business to merge with. The company itself has no business operations, no revenue, and no products. Its sole function is to seek out a suitable target company and facilitate its acquisition, at which point Aeon's shareholders would own a stake in that target's actual business.
+Aeon [Acquisition](/acquisition/) I Corp. is a special purpose acquisition company (SPAC)—a shell corporation formed to raise capital and find an operating business to merge with. The company itself has no business operations, no revenue, and no products. Its sole function is to seek out a suitable [target](/tgt-stock/) company and facilitate its acquisition, at which point Aeon's shareholders would own a stake in that target's actual business.
 
 SPACs have become a standard alternative pathway for private businesses to access public markets. Rather than going through a traditional [initial public offering](/initial-public-offering/), a company can merge with a SPAC that has already raised capital and listed on an exchange. Aeon follows this model: investors contribute capital at formation, the company lists publicly, and the sponsor team begins searching for acquisition targets. Once a deal is identified and negotiated, it must be approved by shareholders before closing.
 

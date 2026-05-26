@@ -13,7 +13,7 @@ handwritten: true
 
 > "We own the land forever, but we can sell what comes out of it."
 
-Texas Pacific Land is a land-holding company with a deceptively simple business: the company owns roughly 880,000 acres of real estate across West Texas and leases the mineral rights — the right to extract oil, natural gas, and other minerals — to oil-and-gas companies. TPL keeps the surface of the land, often leasing it for ranching or other uses, while the oil and gas operators drill underneath and pay TPL royalties on everything they produce. The company also owns and operates pipelines, water-handling infrastructure, and other assets that support energy production on its land.
+Texas Pacific Land is a land-holding company with a deceptively simple business: the company owns roughly 880,000 acres of real estate across West Texas and leases the mineral rights — the right to extract oil, [natural gas](/natural-gas/), and other minerals — to oil-and-gas companies. TPL keeps the surface of the land, often leasing it for ranching or other uses, while the oil and gas operators drill underneath and pay TPL royalties on everything they produce. The company also owns and operates pipelines, water-handling infrastructure, and other assets that support energy production on its land.
 
 The appeal of this model is perpetual income. Once an oil well is drilled and starts producing, TPL receives a percentage of the revenue for decades, with minimal additional effort or capital expenditure. The revenue is recurring and predictable until the well depletes. The land itself appreciates in value as energy development increases. And unlike an operating company that must manage drilling, production, and environmental liabilities, TPL is a landlord: others do the hard operational work and TPL collects the lease payments and royalties.
 
@@ -25,7 +25,7 @@ The Permian's shale formations — Spraberry, Wolfcamp, and others — hold vast
 
 ## How money flows
 
-TPL's largest revenue source is royalty income. When an oil-and-gas company produces oil or gas from a well on TPL's land, TPL receives a percentage of the revenue — typically 15 to 25% of the gross value of the hydrocarbons sold, depending on the lease terms negotiated. This creates a simple, high-margin business: no capital investment, no operating risk, and no environmental liability (all with the operator). The royalty scales directly with commodity prices; when oil is at $100 a barrel, TPL's royalties are higher; when oil is at $50, they are lower.
+TPL's largest revenue source is royalty income. When an oil-and-gas company produces oil or gas from a well on TPL's land, TPL receives a percentage of the revenue — typically 15 to 25% of the gross value of the hydrocarbons sold, depending on the lease terms negotiated. This creates a simple, high-margin business: no capital investment, no operating risk, and no [environmental liability](/environmental-liability/) (all with the operator). The royalty scales directly with commodity prices; when oil is at $100 a barrel, TPL's royalties are higher; when oil is at $50, they are lower.
 
 Water handling is a second revenue stream. Oil and gas production generates enormous volumes of saltwater that must be treated and disposed of. TPL owns and operates saltwater-disposal systems and water infrastructure on its land, charging operators for the service. This is a lower-margin business than royalties but is more stable and less volatile because the fees are negotiated and do not fluctuate with commodity prices.
 
@@ -41,7 +41,7 @@ This leverage is both strength and risk. In a rising-price environment, TPL's ea
 
 TPL's competitive advantage is simple: it owns the land, and you cannot create new land above prolific oil-and-gas formations. Once an operator has signed a lease with TPL and is producing, the operator has little incentive to leave; it has sunk capital into drilling and infrastructure and will continue to operate for years or decades. This creates long-term, predictable revenue streams that are difficult for competitors to disrupt.
 
-TPL's acreage also benefits from a first-mover advantage in the Permian. The company has owned much of its land for many decades; newer entrants to the land-holding business have limited acreage in prime positions. The large operators — Exxon, Chevron, Pioneer — have done substantial work to acquire acreage packages in the Permian, but even they have gaps that TPL fills.
+TPL's acreage also benefits from a first-mover advantage in the Permian. The company has owned much of its land for many decades; newer entrants to the land-holding business have limited acreage in prime positions. The large operators — Exxon, [Chevron](/cvx-stock/), Pioneer — have done substantial work to acquire acreage packages in the Permian, but even they have gaps that TPL fills.
 
 ## Risks and the transition to renewables
 

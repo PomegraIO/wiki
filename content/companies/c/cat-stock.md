@@ -63,7 +63,7 @@ The company does face competition from Komatsu (Japan), Volvo Construction Equip
 
 Caterpillar's earnings are sensitive to economic cycles, particularly [construction spending](/construction-spending/) and commodity prices. When infrastructure investment surges or mining companies expand capacity, backlogs and prices rise. When [recessions](/recession/) hit or commodity prices collapse, capital equipment spending plummets. This cyclicality is structural—infrastructure spending depends on government budgets and private investment, which swing sharply.
 
-Parts and service revenue, however, is more stable. Customers who own Cat equipment must maintain and repair it regardless of the cycle, and they prefer genuine parts and trained technicians. This recurring revenue anchors earnings and cushions downturns but cannot offset a severe collapse in new equipment demand.
+Parts and service revenue, however, is more stable. Customers who own Cat equipment must maintain and repair it regardless of the cycle, and they prefer [genuine parts](/gpc-stock/) and trained technicians. This recurring revenue anchors earnings and cushions downturns but cannot offset a severe collapse in new equipment demand.
 
 Equipment financing is another lever. By financing customer purchases, Caterpillar can support demand during weak cycles and earn net interest income. However, when customers default, credit losses rise, and financing portfolios can become a drag during recessions.
 

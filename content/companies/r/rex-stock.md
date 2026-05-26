@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-REX American Resources is a renewable fuels company centered on ethanol production. Operating primarily through ownership stakes in efficient ethanol plants across the Midwest, REX generates revenue from ethanol sales alongside a portfolio of co-products including distillers grains and corn oil. The company also pursues carbon-capture initiatives aligned with shifting energy and environmental regulations.
+REX [American Resources](/arec-stock/) is a renewable fuels company centered on ethanol production. Operating primarily through ownership stakes in efficient ethanol plants across the Midwest, REX generates revenue from ethanol sales alongside a portfolio of co-products including distillers grains and corn oil. The company also pursues carbon-capture initiatives aligned with shifting energy and environmental regulations.
 
 ## The Ethanol Business Model
 
@@ -48,7 +48,7 @@ Broader energy markets pose a longer-term question. If electric vehicles acceler
 
 Start with the [10-K](/wiki/10-k/), which details the company's stakes in partner plants, margin sensitivity to commodity prices, and strategic initiatives. Focus on plant-level production volumes, capacity utilization, and the spread between feedstock costs and output prices—the core driver of economic value.
 
-Monitor ethanol and corn futures prices, which trade on [CBOT](/wiki/cbot/). Track distillers grains and corn oil prices to understand co-product margin contribution. Follow renewable fuel policy developments and the status of the Renewable Fuel Standard, which determines the baseline demand floor for ethanol.
+Monitor ethanol and corn futures prices, which trade on CBOT. Track distillers grains and corn oil prices to understand co-product margin contribution. Follow renewable fuel policy developments and the status of the Renewable Fuel Standard, which determines the baseline demand floor for ethanol.
 
 Evaluate capital allocation over time: how much cash is being deployed into new plant stakes versus returned to shareholders, and whether the company is building capabilities in carbon capture or remaining purely passive. Assess the quality and efficiency of partner plants, as this directly influences returns on REX's equity stakes.
 

@@ -38,7 +38,7 @@ The platform operates at scale: billions of transactions per year flowing throug
 
 ## Competitive Position
 
-Marqeta entered a market historically dominated by card networks (Visa, Mastercard) and established processors who had consolidated over decades. The company's advantage was timing and architecture. By building cloud-native from the ground up, Marqeta could offer what legacy systems could not: speed, flexibility, and programmatic control. You could spin up a new card product and deploy it without hardware or regulatory committees.
+Marqeta entered a market historically dominated by card networks ([Visa](/v-stock/), [Mastercard](/ma-stock/)) and established processors who had consolidated over decades. The company's advantage was timing and architecture. By building cloud-native from the ground up, Marqeta could offer what legacy systems could not: speed, flexibility, and programmatic control. You could spin up a new card product and deploy it without hardware or regulatory committees.
 
 Competitors include [traditional processors](/wiki/stock-exchange/), newer fintechs building card-as-a-service layers, and the card networks themselves, which have begun building API offerings in response to Marqeta's disruption. That last point matters: Visa and Mastercard have both launched developer platforms and opened their networks to easier integration, which is partly an acknowledgment that the old way was too slow.
 

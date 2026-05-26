@@ -55,7 +55,7 @@ The company's fiscal results reflect this mix: productivity is a cash cow; cloud
 
 Microsoft is rarely the first mover. It follows: Office came after WordPerfect and Lotus; Azure after AWS; Copilot after ChatGPT. The pattern is patience, then integration—build it into the existing installed base and outcompete through distribution and bundling. This has worked repeatedly and generates durable competitive advantages because customers are locked into the entire stack, not just one product.
 
-The risk is that a more focused competitor—a cloud-native company, an AI-first startup, an established rival like Salesforce or SAP—innovates faster and captures a segment before Microsoft's integration machine kicks in. So far this has not happened in any material way. Smaller challengers exist in every segment, but none has dislodged Microsoft from a position where the installed base actively protects its margins.
+The risk is that a more focused competitor—a cloud-native company, an AI-first startup, an established rival like [Salesforce](/crm-stock/) or SAP—innovates faster and captures a segment before Microsoft's integration machine kicks in. So far this has not happened in any material way. Smaller challengers exist in every segment, but none has dislodged Microsoft from a position where the installed base actively protects its margins.
 
 The other risk is China and geopolitical fracture. A significant portion of Microsoft's revenue comes from China and from customers who operate across regions. Restrictions on technology exports, or Chinese government directives to adopt domestic alternatives, could constrain growth.
 

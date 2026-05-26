@@ -29,7 +29,7 @@ Trading volumes fluctuate with market conditions, volatility regimes, and client
 
 Regulatory burden is rising. Post-2008 Dodd-Frank rules, European [MiFID II](/mifid-ii/) requirements, and emerging digital asset oversight create compliance cost and legal exposure. XCHG must obtain and maintain licenses across multiple jurisdictions, submit to audits, and adapt rapidly when rules change. A major regulatory action could impair operations or force [divestitures](/divestiture/).
 
-Competition from consolidated exchanges intensifies; the industry trend toward concentration works against smaller platforms. XCHG may face pressure to merge or be acquired, or to shrink as clients consolidate onto fewer venues. Technology disruption poses a milder but real risk: decentralized exchanges and blockchain-based settlement systems are early and immature, but could eventually disintermediate traditional clearing. Finally, operational and cyber risk is non-negligible; market infrastructure is a target for both criminal actors and state adversaries.
+Competition from consolidated exchanges intensifies; the industry trend toward concentration works against smaller platforms. XCHG may face pressure to merge or be acquired, or to shrink as clients consolidate onto fewer venues. Technology disruption poses a milder but real risk: decentralized exchanges and blockchain-based settlement systems are early and immature, but could eventually disintermediate traditional clearing. Finally, operational and cyber risk is non-negligible; market infrastructure is a [target](/tgt-stock/) for both criminal actors and state adversaries.
 
 ## What to research
 

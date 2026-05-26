@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Rivian is a venture-backed automotive manufacturer building electric trucks and SUVs. The company was founded in 2009 by Robert Scaringe, an engineer who set out to create electric vehicles that were genuinely useful for adventure and outdoor work, not merely efficient commuter cars. Unlike Tesla, which started with sports cars and sedans, Rivian entered the market with the R1T (an electric pickup truck) and the R1S (an electric three-row SUV)—vehicles designed to appeal to the adventure-minded and those who live outside dense cities.
+Rivian is a venture-backed automotive manufacturer building electric trucks and SUVs. The company was founded in 2009 by Robert Scaringe, an engineer who set out to create electric vehicles that were genuinely useful for adventure and outdoor work, not merely efficient commuter cars. Unlike [Tesla](/tsla-stock/), which started with sports cars and sedans, Rivian entered the market with the R1T (an electric pickup truck) and the R1S (an electric three-row SUV)—vehicles designed to appeal to the adventure-minded and those who live outside dense cities.
 
-The company's fundamental bet is that there is a substantial market of affluent buyers who want electric trucks not because they care about emissions but because they enjoy using them. These customers want range for long drives to trailheads, a level ride height and cargo capability similar to traditional trucks, and the confidence that they can charge reliably in remote areas. This is a narrower market than the mass-market trucks that Ford and General Motors build, but it is one where Rivian can command premium prices and avoid head-to-head competition on volume.
+The company's fundamental bet is that there is a substantial market of affluent buyers who want electric trucks not because they care about emissions but because they enjoy using them. These customers want range for long drives to trailheads, a level ride height and cargo capability similar to traditional trucks, and the confidence that they can charge reliably in remote areas. This is a narrower market than the mass-market trucks that Ford and [General Motors](/gm-stock/) build, but it is one where Rivian can command premium prices and avoid head-to-head competition on volume.
 
 <aside class="wiki-infobox">
 <table>

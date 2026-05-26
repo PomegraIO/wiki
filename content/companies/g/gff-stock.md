@@ -47,7 +47,7 @@ Griffon is moderately capital-intensive, with manufacturing footprints in multip
 
 ## Competitive Landscape and Strategic Positioning
 
-In consumer tools and storage, Griffon competes against specialized players like Stanley Black & Decker and regional brands, as well as against private-label and imported alternatives. Differentiation comes from brand trust, product quality, and distribution depth. In garage doors, Clopay faces competition from Wayne-Dalton, Amarr, and other manufacturers, but the market is relatively consolidated and pricing is anchored to material costs (steel) and labor. Roof coatings are fragmented, with Griffon competing on performance and application efficiency. None of these markets are hyper-competitive commodity traps, but none offer pricing power independent of input costs and housing demand.
+In consumer tools and storage, Griffon competes against specialized players like [Stanley Black & Decker](/swk-stock/) and regional brands, as well as against private-label and imported alternatives. Differentiation comes from brand trust, product quality, and distribution depth. In garage doors, Clopay faces competition from Wayne-Dalton, Amarr, and other manufacturers, but the market is relatively consolidated and pricing is anchored to material costs (steel) and labor. Roof coatings are fragmented, with Griffon competing on performance and application efficiency. None of these markets are hyper-competitive commodity traps, but none offer pricing power independent of input costs and housing demand.
 
 ## What Could Go Wrong
 

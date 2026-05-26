@@ -31,7 +31,7 @@ The breakthrough at Zillow was recognizing that property data, once put online a
 
 The insight was powerful and the outcome was transformative. Suddenly a home buyer could search by neighborhood, price, square footage, and schools without making an appointment with an agent. They could browse thousands of homes in an afternoon instead of looking at ten in a weekend. They could see what the seller was probably paying and what the agent was probably making. Zillow in 2006 did for home shopping what eBay did for collectibles: it decentralized information that had previously been locked behind professional gatekeepers.
 
-That information advantage is still Zillow's core asset. When you look for a home on Zillow, you are not looking at a live catalog that Zillow maintains; you are looking at a portal powered by real estate data that flows in from thousands of brokers and the public records office. But Zillow's interface, its search tools, and its estimate of market value are the reasons you go there instead than to ten different brokerage websites.
+That information advantage is still Zillow's core asset. When you look for a home on Zillow, you are not looking at a live catalog that Zillow maintains; you are looking at a portal powered by real estate data that flows in from thousands of [brokers](/broker/) and the public records office. But Zillow's interface, its search tools, and its estimate of market value are the reasons you go there instead than to ten different brokerage websites.
 
 ## How Zillow makes money
 
@@ -47,7 +47,7 @@ The third stream, and the most controversial, is **homes transactions**. Startin
 
 Zillow operates in the middle of a complex ecosystem. At one end are home sellers and renters who want exposure. At the other end are buyers and tenants. In the middle are agents, brokers, appraisers, inspectors, lenders, and others who make money facilitating the transaction. Zillow's role is to connect buyers and sellers, and to give agents a channel to reach buyers directly.
 
-This position gives Zillow leverage. If Zillow's audience is large enough, agents cannot afford to ignore it; they have to pay to be visible there. But it also makes Zillow a target for disruption. If a new technology or platform can offer a better search experience, lower commissions, or a simpler path to buying a home, people will move. Over the past decade, Zillow has faced competition from a changing set of rivals: other listing sites like Redfin and Realtor.com, Google's property search, and increasingly, agents and brokers who are building their own online presence.
+This position gives Zillow leverage. If Zillow's audience is large enough, agents cannot afford to ignore it; they have to pay to be visible there. But it also makes Zillow a [target](/tgt-stock/) for disruption. If a new technology or platform can offer a better search experience, lower commissions, or a simpler path to buying a home, people will move. Over the past decade, Zillow has faced competition from a changing set of rivals: other listing sites like Redfin and Realtor.com, Google's property search, and increasingly, agents and brokers who are building their own online presence.
 
 Zillow's defense is scale. The network effects of a large audience attract more agents and more listings, which draws more buyers, which justifies more agents spending money on advertising. The company has also diversified beyond listings: Zillow now shows mortgage rates, provides closing-cost estimates, helps people find agents, and offers tools for renters. Each of these is intended to increase the value of a Zillow visit and deepen the habit of returning.
 
@@ -59,7 +59,7 @@ The company's response has been to expand into services and tools that agents ne
 
 ## Challenges and what matters going forward
 
-Zillow's most serious long-term challenge is that it depends on real-estate transaction volume. When home sales slow — because of high mortgage rates, economic recession, or demographic shifts — Zillow's advertising revenue slows with it. The company has no control over when people buy homes; all it can do is capture a larger share of the transaction whenever one happens. This makes the business sensitive to cycles and to interest rates.
+Zillow's most serious long-term challenge is that it depends on real-estate transaction volume. When home sales slow — because of high mortgage rates, economic [recession](/recession/), or demographic shifts — Zillow's advertising revenue slows with it. The company has no control over when people buy homes; all it can do is capture a larger share of the transaction whenever one happens. This makes the business sensitive to cycles and to [interest rates](/interest-rate/).
 
 A second challenge is the changing role of agents. As some companies offer to buy homes directly, and others charge flat commissions instead of a percentage, the traditional agent-based model is under pressure. If that model collapses and real-estate transactions become more of a retail process, Zillow's business — which depends on agents paying for visibility — would have to shift dramatically. The company is hedging this by investing in tools and experiences that serve buyers directly, but those are not yet core to the revenue model.
 

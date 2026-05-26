@@ -32,9 +32,9 @@ That said, the moat is modest. New competitors can in theory enter the space (bu
 
 ## Scale and Industry Dynamics
 
-QuoteMedia is tiny by any institutional measure. With roughly 115 employees and modest annual revenue (in the low tens of millions), it operates at a scale far below Bloomberg, Refinitiv, or even specialized competitors like FactSet or S&P Global Market Intelligence. Small size can be an advantage (agility, low overhead, customer intimacy) or a constraint (limited R&D budget, no proprietary data beyond aggregation, vulnerability to customer concentration).
+QuoteMedia is tiny by any institutional measure. With roughly 115 employees and modest annual revenue (in the low tens of millions), it operates at a scale far below Bloomberg, Refinitiv, or even specialized competitors like FactSet or [S&P Global](/spgi-stock/) Market Intelligence. Small size can be an advantage (agility, low overhead, customer intimacy) or a constraint (limited R&D budget, no proprietary data beyond aggregation, vulnerability to customer concentration).
 
-The financial data industry is also in flux. Regulatory pressure on data pricing, the unbundling of services, and the migration of trading and analysis to retail-accessible platforms have eroded traditional margins. Simultaneously, new demand has emerged from fintech startups, robo-advisors, and corporate-investor-relations software vendors. QuoteMedia has adapted by expanding its product range and target markets, but scale remains a limiting factor.
+The financial data industry is also in flux. Regulatory pressure on data pricing, the unbundling of services, and the migration of trading and analysis to retail-accessible platforms have eroded traditional margins. Simultaneously, new demand has emerged from fintech startups, robo-advisors, and corporate-investor-relations software vendors. QuoteMedia has adapted by expanding its product range and [target](/tgt-stock/) markets, but scale remains a limiting factor.
 
 ## Risks and Pressures
 
@@ -56,6 +56,6 @@ QuoteMedia's future hinges on three factors: maintaining or growing its installe
 
 ## See Also
 
-- [Stock market data](/wiki/stock-market-data/) (the core input)
+- Stock market data (the core input)
 - [Public company](/wiki/public-company/) (the regulatory framework)
 - [10-K](/wiki/10-k/) (the essential filing for understanding QuoteMedia's operations and risks)

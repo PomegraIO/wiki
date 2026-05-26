@@ -37,7 +37,7 @@ One distinctive feature of the power-conversion business is the importance of el
 
 Nextpower organizes its operations into manufacturing and product development, component sourcing, and customer support. The company does not own all its manufacturing; it contracts with specialized manufacturers in Asia and elsewhere to build the hardware to Nextpower's design and specifications. This asset-light approach keeps capital requirements lower and gives flexibility to adjust production volume as demand fluctuates.
 
-Gross margins on power-conversion hardware typically run in the 30 to 45 percent range, depending on product type and volume. Utility-scale inverters carry higher margins because they are custom-engineered for large projects and less commoditized than residential units. Operating margins depend on how efficiently Nextpower spreads its research, engineering, customer support, and overhead costs across the revenue base. A larger company with the same product line would have higher margins. Nextpower's scale is smaller, so margins are leaner, but that also means the company is more exposed to revenue fluctuations and less able to absorb cost shocks.
+Gross margins on power-conversion hardware typically run in the 30 to 45 percent range, depending on product type and volume. Utility-scale inverters carry higher margins because they are custom-engineered for large projects and less commoditized than residential units. [Operating margins](/operating-margin/) depend on how efficiently Nextpower spreads its research, engineering, customer support, and overhead costs across the revenue base. A larger company with the same product line would have higher margins. Nextpower's scale is smaller, so margins are leaner, but that also means the company is more exposed to revenue fluctuations and less able to absorb cost shocks.
 
 **What are the risks?**
 
@@ -45,9 +45,9 @@ The renewable-energy market is heavily shaped by government policy. Tax credits,
 
 A second risk is technology obsolescence. Power-conversion technology is mature and well-understood, so a dramatic breakthrough is unlikely, but incremental improvements in efficiency, costs, and integration happen constantly. If Nextpower fails to keep pace with innovation or if competitors develop superior technology, market share could erode. The company must invest heavily in research and development to avoid falling behind.
 
-A third is supply-chain concentration and cost inflation. Nextpower depends on semiconductor components and specialized materials for its equipment. Supply disruptions or cost inflation in those components directly compress margins. The company has limited ability to raise prices if input costs spike, because customers can switch to competitors.
+A third is supply-chain concentration and cost [inflation](/inflation/). Nextpower depends [on semiconductor](/on-stock/) components and specialized materials for its equipment. Supply disruptions or cost inflation in those components directly compress margins. The company has limited ability to raise prices if input costs spike, because customers can switch to competitors.
 
-Finally, Nextpower operates in a capital-intensive ecosystem. Solar farms, batteries, and grid modernization all require large upfront capital investments by utilities, businesses, and governments. In times of economic weakness or high interest rates, those investment budgets contract, reducing demand for Nextpower's equipment. The business is therefore cyclical, sensitive to both energy-transition momentum and the broader economy.
+Finally, Nextpower operates in a capital-intensive ecosystem. Solar farms, batteries, and grid modernization all require large upfront capital investments by utilities, businesses, and governments. In times of economic weakness or high [interest rates](/interest-rate/), those investment budgets contract, reducing demand for Nextpower's equipment. The business is therefore cyclical, sensitive to both energy-transition momentum and the broader economy.
 
 **How to research the company**
 

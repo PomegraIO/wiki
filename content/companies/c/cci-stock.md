@@ -27,7 +27,7 @@ Crown Castle leases space on its towers under contracts that typically run 5 to 
 
 The profit model is attractive. Once a tower is built and placed in a customer location, it generates revenue for decades with minimal ongoing investment. Maintenance costs are modest compared to the lease fees. The company does not manufacture anything, employ vast labor forces, or carry inventory risk. The business is almost pure cash generation.
 
-Typically, Crown Castle runs operating margins above 50 percent on tower revenue. In other words, of every dollar a carrier pays in lease fees, Crown Castle keeps more than 50 cents after operating costs. Capital expenditures are modest — mostly the cost of deploying new small cells, fiber, and the occasional new tower build. The result is that the company generates substantial free cash flow, much of which it distributes to shareholders as dividends or uses for acquisitions.
+Typically, Crown Castle runs [operating margins](/operating-margin/) above 50 percent on tower revenue. In other words, of every dollar a carrier pays in lease fees, Crown Castle keeps more than 50 cents after operating costs. Capital expenditures are modest — mostly the cost of deploying new small cells, fiber, and the occasional new tower build. The result is that the company generates substantial [free cash flow](/free-cash-flow/), much of which it distributes to shareholders as [dividends](/dividend/) or uses for [acquisitions](/acquisition/).
 
 ## Dependency on carrier capital spending
 
@@ -43,13 +43,13 @@ Fiber is nonetheless strategically important: as wireless carriers increasingly 
 
 ## The REIT structure and cash distribution
 
-Crown Castle is structured as a Real Estate Investment Trust (REIT). REITs are required by law to distribute most of their taxable income to shareholders as dividends. In return, the REIT does not pay corporate-level income tax. This structure makes Crown Castle effectively a pass-through for cash flow to shareholders. The company's primary financial discipline is generating free cash flow and dividing it between growth investment and shareholder payout. Over time, Crown Castle has steadily increased its dividend, rewarding long-term holders.
+Crown Castle is structured as a [Real Estate Investment Trust](/real-estate-investment-trust/) (REIT). REITs are required by law to distribute most of their taxable income to shareholders as dividends. In return, the REIT does not pay corporate-level income tax. This structure makes Crown Castle effectively a pass-through for cash flow to shareholders. The company's primary financial discipline is generating free cash flow and dividing it between growth investment and shareholder payout. Over time, Crown Castle has steadily increased its dividend, rewarding long-term holders.
 
 The REIT structure also creates an incentive to be disciplined about capital deployment. Because the company must pay out most of its cash, it cannot easily hoard proceeds or pursue empire-building acquisitions. Acquisitions must be demonstrably accretive to cash flow and dividend.
 
 ## Risks and regulatory exposure
 
-Crown Castle's exposure to wireless carriers creates concentration risk. If a major tenant reduced its network spending significantly or went bankrupt, Crown Castle would lose a large revenue stream and incur costs relocating or seeking new tenants. The company has diversification — multiple carriers, multiple geographies — but significant carrier disruption is a real tail risk.
+Crown Castle's exposure to wireless carriers creates [concentration risk](/concentration-risk/). If a major tenant reduced its network spending significantly or went bankrupt, Crown Castle would lose a large revenue stream and incur costs relocating or seeking new tenants. The company has [diversification](/diversification/) — multiple carriers, multiple geographies — but significant carrier disruption is a real [tail risk](/tail-risk/).
 
 Regulatory risk exists on several fronts. Zoning and local approval can slow or block new tower builds. Radiation and health concerns, though scientifically unfounded, occasionally drive local opposition to new deployments. Changes to how carriers are regulated could affect their network-investment incentives.
 
@@ -61,8 +61,8 @@ Start with the 10-K filing (SEC CIK 0001051470). Focus on tower occupancy rates 
 
 Review the fiber acquisition activity and profitability. Understand what Crown Castle is paying for fiber assets, the timeline to profitability, and integration progress. A fiber buildout that burns cash for too long weakens the dividend-growth story.
 
-Check dividend sustainability. Crown Castle must generate sufficient free cash flow to fund capex, repay debt if applicable, and grow the dividend. Watch the payout ratio (dividend divided by free cash flow); if it creeps above 100 percent, the dividend is no longer covered by true cash generation.
+Check dividend sustainability. Crown Castle must generate sufficient free cash flow to fund capex, repay debt if applicable, and grow the dividend. Watch the [payout ratio](/payout-ratio/) (dividend divided by free cash flow); if it creeps above 100 percent, the dividend is no longer covered by true cash generation.
 
-Look at leverage on the balance sheet. Tower companies often carry debt to fund acquisitions. Excessive debt can force dividend cuts if earnings weaken or refinancing becomes expensive.
+Look at leverage on the [balance sheet](/balance-sheet/). Tower companies often carry debt to fund acquisitions. Excessive debt can force dividend cuts if earnings weaken or refinancing becomes expensive.
 
 Crown Castle shares are traded on an exchange at market-set prices. The investment case is steady cash generation from a quasi-monopoly asset base with modest growth and strong shareholder returns. Nothing here is advice — only a framework for understanding the business model and evaluating the risks and opportunities.

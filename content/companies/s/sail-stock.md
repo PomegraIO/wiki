@@ -55,11 +55,11 @@ The company's revenue comes primarily from software subscriptions and maintenanc
 
 The gross margins on the software subscription are high — the cost to serve an additional customer is low once the product is built — but the sales cycle is long and the purchase price is large. Selling to a bank or a government agency means weeks or months of negotiation, proof-of-concept projects, and approval through multiple layers of IT leadership. This makes the business capital-intensive in sales and marketing relative to the revenue it brings in each quarter.
 
-Competition in identity governance comes from established software companies with large installed bases. Microsoft, Okta, and other security vendors have identity features, though their platforms are usually broader and less specialized than SailPoint. Pure-play competitors exist but are smaller. SailPoint's advantage rests on depth: it has spent twenty years building products focused on a narrower problem and has become the default for large organizations that treat identity governance as a first-class problem rather than a module within a broader suite.
+Competition in identity governance comes from established software companies with large installed bases. [Microsoft](/msft-stock/), [Okta](/okta-stock/), and other security vendors have identity features, though their platforms are usually broader and less specialized than SailPoint. Pure-play competitors exist but are smaller. SailPoint's advantage rests on depth: it has spent twenty years building products focused on a narrower problem and has become the default for large organizations that treat identity governance as a first-class problem rather than a module within a broader suite.
 
 ## Growth, headwinds, and the strategic question
 
-SailPoint went public in 2017 and was taken private again in 2024 when Thoma Bravo acquired the company. The arc of the public company — profitability, slowing growth, acquisition — is typical for mature enterprise software firms that have reached the frontier of their addressable market.
+SailPoint went public in 2017 and was taken private again in 2024 when Thoma Bravo acquired the company. The arc of the public company — profitability, slowing growth, [acquisition](/acquisition/) — is typical for mature enterprise software firms that have reached the frontier of their addressable market.
 
 The underlying business dynamics remain solid. Cloud migration is a persistent wind at the company's back because it forces organizations to rethink access management in cloud environments. Regulatory pressure in financial services and healthcare keeps demanding better auditing and control. And the sheer sprawl of modern IT environments means that the problem SailPoint solves is not going away.
 

@@ -12,7 +12,7 @@ handwritten: true
 
 Grocery Outlet Holding Corp. is a discount grocery retailer operating through a network of independently owned-and-operated stores that purchase goods from company-controlled distribution hubs. The model is unusual in American grocery—rather than operating a traditional chain with hired managers and centralized control, Grocery Outlet functions as part-franchisor, part-wholesaler, where entrepreneurial store owners buy and manage their own operations while the company oversees product sourcing, inventory [acquisition](/acquisition/), and hub logistics.
 
-The chain has roots in Northern California as a small regional operator but has grown into a national discount grocery platform, competing in the intense low-price segment against Walmart, traditional supermarkets, and other value retailers. Grocery Outlet's appeal lies in its treasure-hunt merchandising approach and willingness to carry discontinued items, overstocks, and closeout goods alongside regular inventory—offering shoppers the thrill of finding brand-name products at steep discounts.
+The chain has roots in Northern California as a small regional operator but has grown into a national discount grocery platform, competing in the intense low-price segment against [Walmart](/wmt-stock/), traditional supermarkets, and other value retailers. Grocery Outlet's appeal lies in its treasure-hunt merchandising approach and willingness to carry discontinued items, overstocks, and closeout goods alongside regular inventory—offering shoppers the thrill of finding brand-name products at steep discounts.
 
 ## The Hub-and-Spoke Engine
 
@@ -38,7 +38,7 @@ The trade-off is margin stability. Grocery Outlet's gross margins depend on sour
 
 ## Industry Position and Competition
 
-Grocery Outlet occupies a unique niche: too small and idiosyncratic to compete head-to-head with Walmart's price infrastructure or Amazon's logistics, but distinct enough from Trader Joe's or Whole Foods that direct feature comparison is difficult. The company competes across multiple vectors: against Walmart for price-conscious shoppers, against traditional supermarkets (Kroger, Albertsons) in store density and selection, against discount chains like Aldi and Lidl on format and pricing, and against retailers like TJ Maxx in the treasure-hunt merchandising experience.
+Grocery Outlet occupies a unique niche: too small and idiosyncratic to compete head-to-head with Walmart's price infrastructure or Amazon's logistics, but distinct enough from Trader Joe's or Whole Foods that direct feature comparison is difficult. The company competes across multiple vectors: against Walmart for price-conscious shoppers, against traditional supermarkets ([Kroger](/kr-stock/), Albertsons) in store density and selection, against discount chains like Aldi and Lidl on format and pricing, and against retailers like TJ Maxx in the treasure-hunt merchandising experience.
 
 Grocery Outlet's largest competitor in its niche is probably the traditional regional or independent grocer offering small-format, local-focused shopping. However, those independents often lack Grocery Outlet's scale in sourcing closeout goods, making price comparison difficult. The company's ability to aggregate buying power across thousands of small stores gives it negotiating leverage few true independents can match.
 

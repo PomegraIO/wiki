@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Trimble Inc. makes positioning and measurement technology. It sits at the intersection of hardware and software in industries that have historically been slow to digitise — construction, agriculture, surveying, and field service. The company's core strength is translating GPS and other satellite signals into actionable decisions for operators on job sites: a contractor's excavator knows the exact grade it needs to cut; a farmer's tractor steers itself to within centimetres of the previous pass; a surveyor measures property lines without putting a crew in the field. Trimble (NASDAQ: TRMB) has been publicly traded since 1987 and is a major player in what has come to be called the Internet of Things for heavy machinery.
+Trimble Inc. makes positioning and measurement technology. It sits at the intersection of hardware and software in industries that have historically been slow to digitise — construction, agriculture, surveying, and field service. The company's core strength is translating GPS and other satellite signals into actionable decisions for operators on job sites: a contractor's excavator knows the exact grade it needs to cut; a farmer's tractor steers itself to within centimetres of the previous pass; a surveyor measures property lines without putting a crew in the field. Trimble ([NASDAQ](/nasdaq/): TRMB) has been publicly traded since 1987 and is a major player in what has come to be called the Internet of Things for heavy machinery.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,9 +29,9 @@ Trimble Inc. makes positioning and measurement technology. It sits at the inters
 
 Trimble started in 1978 as a maker of GPS receivers for surveying — a niche market where the ability to pinpoint location on Earth had obvious value. GPS was still primarily a military system at that time, but its civilian use was opening up, and Trimble saw the opportunity to build better receivers and sell them to land surveyors and civil engineers who needed precise measurements. For decades the company remained known chiefly as a hardware manufacturer: boxes that received satellite signals and turned them into coordinates.
 
-The real shift came as the company realised that a receiver alone was not enough. The real value lay in the software and systems built on top of that position data. A contractor did not simply need to know *where* a blade was; they needed a complete system that took the target grade from a design file, compared it to the blade's actual position in real time, and fed back steering corrections. A farmer did not just need a GPS mark on a field; they needed a system that managed planting patterns, tracked variable-rate application, and recorded yields at harvest. These were software plays that happened to require a GPS receiver as a foundation.
+The real shift came as the company realised that a receiver alone was not enough. The real value lay in the software and systems built on top of that position data. A contractor did not simply need to know *where* a blade was; they needed a complete system that took the [target](/tgt-stock/) grade from a design file, compared it to the blade's actual position in real time, and fed back steering corrections. A farmer did not just need a GPS mark on a field; they needed a system that managed planting patterns, tracked variable-rate application, and recorded yields at harvest. These were software plays that happened to require a GPS receiver as a foundation.
 
-Over the past two decades Trimble has deliberately shifted from being a hardware company to being a software and services company that bundles hardware. Its major acquisitions — Agribusiness, Construction, Geospatial — each came with an installed base of software users. The company now earns a significant and growing portion of revenue from subscriptions and recurring service fees, a revenue stream that is much stickier and more profitable than a one-time hardware sale.
+Over the past two decades Trimble has deliberately shifted from being a hardware company to being a software and services company that bundles hardware. Its major [acquisitions](/acquisition/) — Agribusiness, Construction, Geospatial — each came with an installed base of software users. The company now earns a significant and growing portion of revenue from subscriptions and recurring service fees, a revenue stream that is much stickier and more profitable than a one-time hardware sale.
 
 ## How Trimble divides its business
 
@@ -59,7 +59,7 @@ The challenge is that this transition requires operating discipline. Customer ac
 
 ## Key risks and what to watch
 
-Trimble's largest risk is economic: if construction activity or farming investment slows, capital equipment spending drops, and Trimble's hardware sales suffer. The company's revenue is exposed to both residential and infrastructure building cycles, which are notoriously cyclical and sensitive to interest rates. Agriculture is more counter-cyclical (farmers invest in efficiency when margins are tight), but it is also exposed to commodity prices and weather.
+Trimble's largest risk is economic: if construction activity or farming investment slows, capital equipment spending drops, and Trimble's hardware sales suffer. The company's revenue is exposed to both residential and infrastructure building cycles, which are notoriously cyclical and sensitive to [interest rates](/interest-rate/). Agriculture is more counter-cyclical (farmers invest in efficiency when margins are tight), but it is also exposed to commodity prices and weather.
 
 A second risk is competition from larger tech companies. Systems like John Deere's (which has built its own positioning and analytics capabilities) and startups in the precision-agriculture space are chipping away at Trimble's traditional strength. The company must keep innovating and keep its software sticky enough that switching is genuinely expensive.
 

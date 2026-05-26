@@ -33,9 +33,9 @@ In the mid-to-late 1980s, as universities and corporations began building local-
 
 ## The growth accelerator and the dot-com bubble
 
-Much of Cisco's explosive growth in the 1990s was genuine: the internet was scaling, and enterprise customers needed Cisco's routers and switches to manage that growth. But some of it was fueled by excess. During the dot-com bubble, Cisco's valuation reached almost unimaginable heights. The company was priced as if it would grow 50% per year forever. It was trading at dozens of times revenue, a multiple that implied near-perfect execution and no serious competition forever.
+Much of Cisco's explosive growth in the 1990s was genuine: the internet was scaling, and enterprise customers needed Cisco's routers and switches to manage that growth. But some of it was fueled by excess. During the [dot-com bubble](/dot-com-bubble/), Cisco's valuation reached almost unimaginable heights. The company was priced as if it would grow 50% per year forever. It was trading at dozens of times revenue, a multiple that implied near-perfect execution and no serious competition forever.
 
-Cisco pursued an aggressive acquisition strategy in the late 1990s and early 2000s, buying dozens of smaller companies at inflated prices. The strategy was to build a one-stop-shop for enterprise networking. The company expanded into optical networking (buying Cerent for $7 billion in 1999), security, wireless, and software. Some of those acquisitions worked out; many did not.
+Cisco pursued an aggressive acquisition strategy in the late 1990s and early 2000s, buying dozens of smaller companies at inflated prices. The strategy was to build a one-stop-shop for enterprise networking. The company expanded into optical networking (buying Cerent for $7 billion in 1999), security, wireless, and software. Some of those [acquisitions](/acquisition/) worked out; many did not.
 
 ## The plateau and the lesson
 
@@ -61,7 +61,7 @@ This strategy made business sense. Software is higher-margin and more predictabl
 
 When COVID-19 forced companies and schools into remote work and online learning, Webex demand exploded. Cisco's video-conferencing platform suddenly became mission-critical. Overnight, Webex was relevant and growing. It was the kind of tailwind that a struggling business desperately needs.
 
-But Webex's growth eventually slowed as the emergency demand subsided and as competitors (notably Zoom and Microsoft Teams) entrenched. Cisco made a massive restructuring in 2023, cutting thousands of jobs and consolidating its product portfolio. The company acknowledged that it had been chasing too many markets and needed to focus. The announcement of the restructuring triggered a sharp stock decline.
+But Webex's growth eventually slowed as the emergency demand subsided and as competitors (notably Zoom and [Microsoft](/msft-stock/) Teams) entrenched. Cisco made a massive restructuring in 2023, cutting thousands of jobs and consolidating its product portfolio. The company acknowledged that it had been chasing too many markets and needed to focus. The announcement of the restructuring triggered a sharp stock decline.
 
 ## The current shape of the business
 
@@ -71,7 +71,7 @@ The company is also pushing "intent-based networking," which aims to automate ne
 
 ## The investment case and the transition trap
 
-Cisco's business is profitable and generates significant free cash flow. The company returns capital to shareholders through buybacks and dividends. But the fundamental question that has hung over Cisco for nearly two decades is whether a hardware company can successfully become a software company. It is easy to say; it is much harder to do.
+Cisco's business is profitable and generates significant [free cash flow](/free-cash-flow/). The company returns capital to shareholders through buybacks and [dividends](/dividend/). But the fundamental question that has hung over Cisco for nearly two decades is whether a hardware company can successfully become a software company. It is easy to say; it is much harder to do.
 
 The company is competing with pure-software and pure-security players that have much higher growth rates, even if Cisco's businesses are larger. It is fighting against open-source alternatives and disaggregated networking (where customers piece together solutions from multiple vendors instead of buying everything from one company). And it is managing a slow decline in its most profitable legacy business while trying to accelerate growth in new segments.
 

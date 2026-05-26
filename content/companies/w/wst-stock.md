@@ -28,9 +28,9 @@ West Pharmaceutical is an overlooked company that sits at the intersection of ph
 
 ## The history and evolution of a components maker
 
-West Pharmaceutical began in 1923 in rural Pennsylvania as a small rubber-products maker. Over a century, it evolved into a specialized global manufacturer of components for pharmaceutical companies. The company was acquired by Pfizer in 2017 for a substantial premium (acknowledging the strength of its business), and Pfizer subsequently spun it back out as an independent publicly traded company in 2018, signaling confidence in its standalone viability and the desire to let shareholders benefit directly from its growth.
+West Pharmaceutical began in 1923 in rural Pennsylvania as a small rubber-products maker. Over a century, it evolved into a specialized global manufacturer of components for pharmaceutical companies. The company was acquired by [Pfizer](/pfe-stock/) in 2017 for a substantial premium (acknowledging the strength of its business), and Pfizer subsequently spun it back out as an independent publicly traded company in 2018, signaling confidence in its standalone viability and the desire to let shareholders benefit directly from its growth.
 
-The rationale for the spin was strategic clarity: West had become a different kind of business from the drugs Pfizer makes. While Pfizer's money comes from selling finished medicines, West's money comes from selling the components and delivery systems that those medicines are packaged in or delivered through. The businesses have different cycles, different competitive dynamics, and different growth drivers. As a standalone company, West could raise capital, pursue acquisitions, and set strategy without being constrained by Pfizer's priorities.
+The rationale for the spin was strategic clarity: West had become a different kind of business from the drugs Pfizer makes. While Pfizer's money comes from selling finished medicines, West's money comes from selling the components and delivery systems that those medicines are packaged in or delivered through. The businesses have different cycles, different competitive dynamics, and different growth drivers. As a standalone company, West could raise capital, pursue [acquisitions](/acquisition/), and set strategy without being constrained by Pfizer's priorities.
 
 ## The rubber stopper and glass vial business
 
@@ -63,7 +63,7 @@ The COVID-19 pandemic created an unprecedented surge in demand for vials, stoppe
 
 ## Geographic exposure and manufacturing footprint
 
-West manufactures in multiple geographies: the United States, Europe, and Asia. This diversification helps insulate the company from regional disruptions but also creates complexity. The company is exposed to movements in currency exchange rates and in labor and energy costs. A significant strengthening of the US dollar makes West's exports cheaper for foreign buyers but hurts reported revenues; the opposite helps revenues but hurts the purchasing power of overseas earnings.
+West manufactures in multiple geographies: the United States, Europe, and Asia. This [diversification](/diversification/) helps insulate the company from regional disruptions but also creates complexity. The company is exposed to movements in currency exchange rates and in labor and energy costs. A significant strengthening of the [US dollar](/us-dollar/) makes West's exports cheaper for foreign buyers but hurts reported revenues; the opposite helps revenues but hurts the purchasing power of overseas earnings.
 
 Manufacturing of pharmaceutical components is heavily regulated. West must operate clean rooms, maintain quality certifications, and comply with strict validation requirements. The cost of this infrastructure is high, but it creates barriers to entry for competitors. A new player would have to build equivalent capabilities, which is capital-intensive and time-consuming.
 
@@ -81,5 +81,5 @@ The company also invests in manufacturing technology and process improvements, w
 
 Start with the annual 10-K filing (SEC CIK 0000105770) to understand the composition of revenue: what percentage comes from stoppers versus vials versus syringes, and what the growth rates are in each category. Look at gross margin trends and what management says about pricing power and cost pressures.
 
-Key metrics include organic revenue growth (organic excludes acquisitions and tells you if the core business is expanding), gross margin (the first line of defense against inflation and competition), and free cash flow (pharmaceutical components is a low-capital-intensity business if manufacturing is stable, but capital can spike if new capacity is needed). Monitor also the commentary on vaccine and biologic trends, since those are the fastest-growing end-markets, and any mention of pricing pressure from large customers, which would be a red flag.
+Key metrics include organic revenue growth (organic excludes acquisitions and tells you if the core business is expanding), gross margin (the first line of defense against [inflation](/inflation/) and competition), and [free cash flow](/free-cash-flow/) (pharmaceutical components is a low-capital-intensity business if manufacturing is stable, but capital can spike if new capacity is needed). Monitor also the commentary on vaccine and biologic trends, since those are the fastest-growing end-markets, and any mention of pricing pressure from large customers, which would be a red flag.
 

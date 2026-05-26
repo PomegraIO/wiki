@@ -51,11 +51,11 @@ Snap-on sells across North America (roughly 50% of revenue), Europe, and Asia-Pa
 
 The largest single customer segment is independent automotive repair shops, which typically employ a handful of technicians and service a mix of makes and models. These shops buy tools and diagnostic equipment outright or on credit, and Snap-on's direct sales model is built around serving them. A secondary segment is franchised dealerships, which are increasingly required to use manufacturer-specified tools and diagnostics but still purchase many items from third parties like Snap-on. Fleet maintenance operations for large companies and government entities are another meaningful segment, often buying in bulk.
 
-This diversity matters. Snap-on is not dependent on a single customer segment or geography. If automotive sales slow in North America, the company still earns from fleet operators, dealerships, and international markets. If one region enters recession, others may remain stable.
+This diversity matters. Snap-on is not dependent on a single customer segment or geography. If automotive sales slow in North America, the company still earns from fleet operators, dealerships, and international markets. If one region enters [recession](/recession/), others may remain stable.
 
 ## Recurring revenue and the software shift
 
-Historically, Snap-on's revenue was heavily transactional — a shop buys a socket set, pays once, and keeps it for years. That long replacement cycle meant growth had to come from new customer acquisition or geographic expansion. Starting in the 2000s, the company moved deliberately toward recurring revenue.
+Historically, Snap-on's revenue was heavily transactional — a shop buys a socket set, pays once, and keeps it for years. That long replacement cycle meant growth had to come from new customer [acquisition](/acquisition/) or geographic expansion. Starting in the 2000s, the company moved deliberately toward recurring revenue.
 
 Diagnostic software subscriptions are the first pillar: a shop that buys a scan tool today will pay annually for software updates and access to the latest vehicle models. This creates predictable, high-margin cash flow. The second pillar is cloud-based shop-management software, where the subscription model is explicit — the shop pays monthly for access to scheduling, invoicing, and inventory systems.
 
@@ -67,10 +67,10 @@ Snap-on competes on quality, relationships, and ecosystem. Cheaper tool brands e
 
 The real competitive pressure comes from below: online tool retailers, private-label offerings from major auto-parts chains, and international manufacturers making adequate tools at lower cost. Snap-on defends through brand loyalty, the direct-sales relationship, and the switching costs of its ecosystem — once a shop is embedded in Snap-on's software and has invested in its tools, moving to a different vendor is friction-filled.
 
-Upward pressure on labor costs, supply-chain inflation, and currency exposure (Snap-on manufactures in multiple countries and sells globally) are ongoing headwinds. The company must invest continuously in new tools, expanding software capabilities, and digital marketing to offset any loss of relationships to competitors.
+Upward pressure on labor costs, supply-chain [inflation](/inflation/), and currency exposure (Snap-on manufactures in multiple countries and sells globally) are ongoing headwinds. The company must invest continuously in new tools, expanding software capabilities, and digital marketing to offset any loss of relationships to competitors.
 
 ## Capital allocation and dividend history
 
-Snap-on is a mature, profitable business that generates substantial free cash flow. The company reinvests in product development, manufacturing, and software capabilities, but much of the cash is returned to shareholders via dividends and buybacks. It has a long history of increasing its dividend annually, which has made the stock attractive to income-focused investors.
+Snap-on is a mature, profitable business that generates substantial [free cash flow](/free-cash-flow/). The company reinvests in product development, manufacturing, and software capabilities, but much of the cash is returned to shareholders via [dividends](/dividend/) and buybacks. It has a long history of increasing its dividend annually, which has made the stock attractive to income-focused investors.
 
-For a reader researching Snap-on, the company files a Form 10-K with the Securities and Exchange Commission (SEC CIK 0000091440) annually. The 10-K breaks revenue by segment, discusses competitive positioning, and details the company's transformation toward recurring revenue. Earnings calls reveal trends in tool demand, diagnostic adoption, and software subscriber growth — the leading indicators of Snap-on's mid-term health.
+For a reader researching Snap-on, the company files a Form 10-K with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0000091440) annually. The 10-K breaks revenue by segment, discusses competitive positioning, and details the company's transformation toward recurring revenue. Earnings calls reveal trends in tool demand, diagnostic adoption, and software subscriber growth — the leading indicators of Snap-on's mid-term health.

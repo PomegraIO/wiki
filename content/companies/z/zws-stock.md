@@ -53,7 +53,7 @@ The company faces indirect competition from private-label products, direct-to-co
 
 ## Financial structure and operational scale
 
-As a public company, Zurn Elkay files a [10-K](/wiki/10-k/) with the SEC and is subject to standard corporate governance. Its [CIK](/wiki/cik/) is 1439288. The company typically reports annual revenues in the low-to-mid billions (exact figures vary by year and reporting period) and operates multiple manufacturing facilities, primarily in North America, as well as distribution and service operations.
+As a public company, Zurn Elkay files a [10-K](/wiki/10-k/) with the SEC and is subject to standard corporate governance. Its CIK is 1439288. The company typically reports annual revenues in the low-to-mid billions (exact figures vary by year and reporting period) and operates multiple manufacturing facilities, primarily in North America, as well as distribution and service operations.
 
 [Operating margins](/operating-margin/) are moderate—the business is capital-intensive (manufacturing plants and inventory) and requires ongoing R&D to stay compliant with changing water and building codes. The company carries debt from the merger financing, which affects its [balance sheet](/balance-sheet/) but is typical for integrated industrial companies.
 

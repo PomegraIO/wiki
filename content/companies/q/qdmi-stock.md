@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-QDM International Inc. is a micro-cap insurance broker focused on the Asia-Pacific region, with operations centered in China. The company facilitates the placement and sale of property, casualty, and life insurance products through a network of agents and direct channels, serving both corporate clients and individual consumers. Trading on the [over-the-counter](/wiki/otc-markets/) markets under the ticker QDMI, the company is thinly traded and operates at a scale that keeps it largely invisible to mainstream equity investors.
+QDM International Inc. is a micro-cap insurance broker focused on the Asia-Pacific region, with operations centered in China. The company facilitates the placement and sale of property, casualty, and life insurance products through a network of agents and direct channels, serving both corporate clients and individual consumers. Trading on the over-the-counter markets under the ticker QDMI, the company is thinly traded and operates at a scale that keeps it largely invisible to mainstream equity investors.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ Additionally, companies with substantial China exposure carry execution risk. Ch
 
 ## OTC trading and liquidity
 
-The fact that QDMI trades on the [over-the-counter markets](/over-the-counter-market/) rather than a major exchange signals both the company's size and the limited institutional interest in it. [OTC markets](/wiki/otc-markets/) offer less liquidity, wider spreads, and less regulatory oversight than [Nasdaq](/nasdaq/) or the NYSE. Shareholders face real challenges if they need to exit a position quickly, and information quality and disclosure standards are often thinner than for exchange-listed companies.
+The fact that QDMI trades on the [over-the-counter markets](/over-the-counter-market/) rather than a major exchange signals both the company's size and the limited institutional interest in it. OTC markets offer less liquidity, wider spreads, and less regulatory oversight than [Nasdaq](/nasdaq/) or the NYSE. Shareholders face real challenges if they need to exit a position quickly, and information quality and disclosure standards are often thinner than for exchange-listed companies.
 
 For investors, the OTC listing also reflects limited analyst coverage — there is often no sell-side research on such stocks, making it difficult to understand what is happening in the business without direct access to filings and management.
 

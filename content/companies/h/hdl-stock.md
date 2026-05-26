@@ -41,7 +41,7 @@ Risks are multifaceted. Labor costs in Hong Kong have risen sharply, squeezing m
 
 ## Research and Key Metrics
 
-Anyone researching Super Hi should focus on [same-store sales](/wiki/same-store-sales/) trends in Hong Kong versus Singapore—the two pillars of the business. Reported by location and market in quarterly earnings releases and [10-K](/wiki/10-k/) filings (via its Hong Kong listing on the HKEx). Unit-level margins matter more than absolute profitability because they predict capacity for new openings.
+Anyone researching Super Hi should focus on same-store sales trends in Hong Kong versus Singapore—the two pillars of the business. Reported by location and market in quarterly earnings releases and [10-K](/wiki/10-k/) filings (via its Hong Kong listing on the HKEx). Unit-level margins matter more than absolute profitability because they predict capacity for new openings.
 
 Cash flow is critical. Despite being smaller than the parent, Super Hi must fund international expansion while maintaining service standards. Debt levels, lease obligations, and capital intensity per restaurant determine whether growth is self-funding or requires dilutive equity raises.
 

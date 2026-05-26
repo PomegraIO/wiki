@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Genmab is a publicly traded Danish biopharmaceutical company specializing in the discovery and development of monoclonal antibodies — protein therapeutics engineered to attack specific disease targets. The company (NASDAQ: GMAB) was founded on a distinctive antibody-engineering platform and has grown into a diversified developer of cancer treatments, inflammatory drugs, and other therapies, with a business model split between wholly owned products and revenue-sharing partnerships with larger pharmaceutical partners.
+Genmab is a publicly traded Danish biopharmaceutical company specializing in the discovery and development of monoclonal antibodies — protein therapeutics engineered to attack specific disease targets. The company ([NASDAQ](/nasdaq/): GMAB) was founded on a distinctive antibody-engineering platform and has grown into a diversified developer of cancer treatments, inflammatory drugs, and other therapies, with a business model split between wholly owned products and revenue-sharing partnerships with larger pharmaceutical partners.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ Throughout the early 2000s, Genmab built out its antibody-discovery and engineer
 
 For the first decade, Genmab was almost pure platform — a discovery engine that other companies licensed. But the vision always included the possibility of developing drugs entirely in-house. In 2009, the company took a major step by acquiring Medarex, a fellow antibody specialist, for roughly $650 million. The acquisition was Genmab's largest bet to date and brought with it several pipeline assets and a track record of clinical development. More importantly, it signaled that Genmab saw itself as an emerging product company, not merely a supplier of technology.
 
-The timing proved prescient. In 2013, Genmab's tislelizumab (developed in collaboration with Celgene) advanced into clinical trials for lymphoma. In 2014, daratumumab — developed wholly in-house but licensed to Janssen, a subsidiary of Johnson & Johnson — received FDA approval for multiple myeloma, a serious blood cancer. Daratumumab became a blockbuster, eventually achieving annual sales in the billions of dollars. For Genmab, it represented proof of concept: the platform worked, and drugs born from it could succeed in the clinic and the market.
+The timing proved prescient. In 2013, Genmab's tislelizumab (developed in collaboration with Celgene) advanced into clinical trials for lymphoma. In 2014, daratumumab — developed wholly in-house but licensed to Janssen, a subsidiary of [Johnson & Johnson](/jnj-stock/) — received FDA approval for multiple myeloma, a serious blood cancer. Daratumumab became a blockbuster, eventually achieving annual sales in the billions of dollars. For Genmab, it represented proof of concept: the platform worked, and drugs born from it could succeed in the clinic and the market.
 
 ## The portfolio takes shape
 
@@ -44,7 +44,7 @@ Over the following decade, Genmab transitioned from a platform-dependent company
 
 The growth of revenue from product sales and milestone payments from partners has been dramatic. Where Genmab once lived almost entirely off grants and royalties, it now combines high-margin royalty streams from licensed drugs with increasing revenue from its own marketed products. This dual model insulates the company from the revenue cliff that a single-drug dependence would create, and it positions Genmab to capture more upside if its own pipeline drugs succeed.
 
-Notably, Genmab has also pursued strategic acquisitions to expand its reach. In 2018, the company acquired AbGenomics for its automated antibody-discovery techniques. In 2021, it acquired Herlev Hospital's cancer cell-therapy operation in Denmark, broadening its footprint into cell therapies alongside its traditional antibody focus.
+Notably, Genmab has also pursued strategic [acquisitions](/acquisition/) to expand its reach. In 2018, the company acquired AbGenomics for its automated antibody-discovery techniques. In 2021, it acquired Herlev Hospital's cancer cell-therapy operation in Denmark, broadening its footprint into cell therapies alongside its traditional antibody focus.
 
 ## How the company makes money now
 
@@ -62,7 +62,7 @@ Biopharmaceutical companies live with clinical risk. Every drug in Genmab's pipe
 
 Regulatory risk is equally real. Approval from the FDA or the European Medicines Agency is not guaranteed, even for drugs that have shown promising early data. A clinical hold, a request for additional studies, or an outright rejection can halt progress and consume years and hundreds of millions of dollars.
 
-Competition in monoclonal antibodies and bispecific antibodies has intensified markedly. Genmab is no longer alone in this space; large pharma companies and other biotech firms have built robust antibody-discovery programs. Differentiation increasingly depends on the quality and novelty of the antibody designs and the target selection — getting the right antibody against the right disease at the right moment.
+Competition in monoclonal antibodies and bispecific antibodies has intensified markedly. Genmab is no longer alone in this space; large pharma companies and other biotech firms have built robust antibody-discovery programs. Differentiation increasingly depends on the quality and novelty of the antibody designs and the [target](/tgt-stock/) selection — getting the right antibody against the right disease at the right moment.
 
 Patent cliffs are another long-term concern. Drugs approved a decade or more ago will eventually lose patent protection, allowing generic (or biosimilar) versions to enter the market at much lower prices. Daratumumab faces this reality; ensuring that newer drugs in the portfolio reach peak sales before patent exclusivity expires is central to long-term value creation.
 
@@ -80,4 +80,4 @@ Quarterly earnings reports and pipeline updates should be reviewed for any clini
 
 Search for recent clinical trial publications and presentations at medical conferences (like the American Society of Hematology) where Genmab often presents data on its oncology programs. These peer-reviewed or scientifically reviewed presentations offer far more detail than company-issued press releases and provide a window into the strength of efficacy and safety data.
 
-Peer companies like Amgen, Regeneron, and other antibody-focused biotech firms provide context for relative valuation and the stage of maturity of their programs. As with any single security, nothing here constitutes investment advice.
+Peer companies like [Amgen](/amgn-stock/), Regeneron, and other antibody-focused biotech firms provide context for [relative valuation](/relative-valuation/) and the stage of maturity of their programs. As with any single security, nothing here constitutes investment advice.

@@ -28,11 +28,11 @@ Lumentum is an American manufacturer of photonic and optical components — the 
 
 ## The company and its pedigree
 
-Lumentum emerged in 2015 as a spinoff from Oclaro (itself a descendant of JDS Uniphase, one of the giants of the 1990s optical-component boom). When Oclaro separated into two units — Lumentum and Oclaro proper — it was recapitalised as a pure-play photonics and optical-components supplier. The lineage matters: the company inherited decades of engineering experience, manufacturing expertise, and customer relationships in optical networking from its predecessors.
+Lumentum emerged in 2015 as a [spinoff](/spinoff/) from Oclaro (itself a descendant of JDS Uniphase, one of the giants of the 1990s optical-component boom). When Oclaro separated into two units — Lumentum and Oclaro proper — it was recapitalised as a pure-play photonics and optical-components supplier. The lineage matters: the company inherited decades of engineering experience, manufacturing expertise, and customer relationships in optical networking from its predecessors.
 
 The business has two primary engines. The first is optical communications — transceiver modules and components that form the backbone of fibre-optic networks. These are the devices that turn electrical pulses from a router or switch into pulses of light, send them down a fibre-optic cable, and convert them back to electrical signals at the far end. As data-centre traffic has exploded over the past decade, demand for these components has scaled accordingly. Cloud providers, telecom carriers, and enterprise networks all depend on optical interconnect at speeds measured in terabits per second.
 
-The second engine, much smaller initially, is 3D sensing — laser modules, cameras, and accompanying silicon that power depth sensing in smartphones, robots, and augmented-reality devices. Apple's Face ID and Animoji, and the LiDAR systems in recent iPhones and iPad Pros, depend on this technology. So do robotic arms that need to see and grasp objects, and autonomous vehicles that map their surroundings in three dimensions. This segment grew from near-zero a decade ago into a meaningful and higher-margin part of the business.
+The second engine, much smaller initially, is 3D sensing — laser modules, cameras, and accompanying silicon that power depth sensing in smartphones, robots, and augmented-reality devices. [Apple](/aapl-stock/)'s Face ID and Animoji, and the LiDAR systems in recent iPhones and iPad Pros, depend on this technology. So do robotic arms that need to see and grasp objects, and autonomous vehicles that map their surroundings in three dimensions. This segment grew from near-zero a decade ago into a meaningful and higher-margin part of the business.
 
 ## The optical-component business and why it matters
 
@@ -54,7 +54,7 @@ Over time, other device makers adopted 3D sensing: other smartphone makers, tabl
 
 ## Competition and technology moats
 
-Optical-component manufacturing is capital intensive and requires deep expertise. Lumentum competes against other American and Asian suppliers: Broadcom (via its Avago heritage), II-VI Incorporated, and various smaller players and Asia-based competitors. The competitive dynamics depend on the product segment.
+Optical-component manufacturing is capital intensive and requires deep expertise. Lumentum competes against other American and Asian suppliers: [Broadcom](/avgo-stock/) (via its Avago heritage), II-VI Incorporated, and various smaller players and Asia-based competitors. The competitive dynamics depend on the product segment.
 
 In transceivers and optical communications, competition is fierce and partly commoditised. Price, power consumption, and on-time delivery are the table stakes. Lumentum's advantages lie in manufacturing scale, long customer relationships, and engineering capability to support new standards as they emerge. But none of these is unassailable; competitors can and do match capabilities and prices.
 
@@ -68,6 +68,6 @@ The 3D sensing market has been disappointing relative to some early expectations
 
 ## Research pointers
 
-Start with Lumentum's quarterly earnings reports and 10-K filing (SEC CIK 0001633978). The company breaks out revenue by segment (optical communications, 3D sensing, other), which reveals the split and the growth rates of each. Watch the gross-margin trend: are transceivers getting cheaper, or is the company holding price? Monitor customer concentration: large customers are disclosed, and if a single customer (like Apple) represents a growing share of revenue, that concentration risk matters.
+Start with Lumentum's quarterly earnings reports and 10-K filing (SEC CIK 0001633978). The company breaks out revenue by segment (optical communications, 3D sensing, other), which reveals the split and the growth rates of each. Watch the gross-margin trend: are transceivers getting cheaper, or is the company holding price? Monitor customer concentration: large customers are disclosed, and if a single customer (like Apple) represents a growing share of revenue, that [concentration risk](/concentration-risk/) matters.
 
 In the broader context, track industry standards for optical transceivers (40G, 100G, 400G, and beyond) and watch for announcements of new standards. Each transition creates an opportunity to win new design wins, but also a transition risk if competitors move faster to qualify at the new speeds. Finally, follow news about 3D-sensing adoption outside smartphones — in robotics, automotive, and industrial applications — as these are the growth vectors Lumentum is betting on.

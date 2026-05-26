@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vaxcyte is a vaccine development company working on new vaccines against infectious diseases, especially ones caused by bacteria that are becoming hard to treat with antibiotics. The company is in the early-to-mid stage of drug development, not yet selling a product, but has promising work underway in the laboratory and in clinical trials. Shares trade on the NASDAQ under ticker PCVX.
+Vaxcyte is a vaccine development company working on new vaccines against infectious diseases, especially ones caused by bacteria that are becoming hard to treat with antibiotics. The company is in the early-to-mid stage of drug development, not yet selling a product, but has promising work underway in the laboratory and in clinical trials. Shares trade on the [NASDAQ](/nasdaq/) under ticker PCVX.
 
 <aside class="wiki-infobox">
 <table>
@@ -64,6 +64,6 @@ Vaxcyte stock is inherently risky. The company is pre-revenue and entirely depen
 
 If the trials go well and the vaccine is approved and reaches the market, the opportunity is large. But success also requires getting products approved, manufacturing at scale, reaching healthcare providers and patients, and competing against other players with bigger resources. Vaxcyte itself may choose to partner with a larger company instead of going it alone, which could cap upside but reduce risk.
 
-For someone following the company, the biggest events to watch are trial results, partnerships or licensing announcements with larger vaccine or pharma companies, and any regulatory milestones from the FDA or international bodies. The balance sheet also matters — when the company will run out of cash and whether it needs to raise more money (which dilutes existing shareholders).
+For someone following the company, the biggest events to watch are trial results, partnerships or licensing announcements with larger vaccine or pharma companies, and any regulatory milestones from the FDA or international bodies. The [balance sheet](/balance-sheet/) also matters — when the company will run out of cash and whether it needs to raise more money (which dilutes existing shareholders).
 
 Vaxcyte represents a bet on the idea that there is a need for better vaccines against drug-resistant bacteria, that the company's scientific approach is sound, and that it can navigate the long, expensive journey from promising laboratory work to an approved and commercially successful medicine.

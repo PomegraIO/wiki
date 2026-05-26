@@ -38,7 +38,7 @@ This model has profound implications. Unlike a competitive business where return
 
 Entergy owns a significant nuclear fleet — several large nuclear plants that provide baseload power at low operating cost but high capital cost and long lead times for maintenance and upgrades. Nuclear power is carbon-free at the point of generation and runs 24/7, making it valuable when demand is high and when the grid is constrained. But nuclear plants are capital-intensive, heavily regulated by the Nuclear Regulatory Commission, and require decades of operation to recover their investment.
 
-The company also operates natural-gas generation plants, which are less capital-intensive than nuclear and can be ramped up and down to match demand. Gas plants are more flexible but have higher operating costs per megawatt-hour. Entergy owns some older coal plants but has been retiring them as natural gas, renewables, and regulatory pressure have made coal uneconomical.
+The company also operates natural-gas generation plants, which are less capital-intensive than nuclear and can be ramped up and down to match demand. Gas plants are more flexible but have higher operating costs per megawatt-hour. Entergy owns some older coal plants but has been retiring them as [natural gas](/natural-gas/), renewables, and regulatory pressure have made coal uneconomical.
 
 In recent years, Entergy has added renewable generation — wind and solar — both to meet customer demand and renewable energy mandates and to position itself for a low-carbon future. Renewable generation has zero fuel cost once built, but solar and wind are intermittent and require either storage or backup generation to maintain grid reliability.
 
@@ -54,7 +54,7 @@ Entergy also operates natural-gas distribution and supply businesses, serving cu
 
 ## The Dividend and Capital Return Strategy
 
-Regulated utilities typically pay high dividends because their stable, predictable earnings allow them to distribute a large portion of cash to shareholders. Entergy has a long history of paying dividends and raising them gradually over time, making the stock attractive to income-focused investors. The dividend is supported by the regulated earnings stream — as long as the company continues to earn its allowed return, it can continue to pay and grow the dividend.
+Regulated utilities typically pay high [dividends](/dividend/) because their stable, predictable earnings allow them to distribute a large portion of cash to shareholders. Entergy has a long history of paying dividends and raising them gradually over time, making the stock attractive to income-focused investors. The dividend is supported by the regulated earnings stream — as long as the company continues to earn its allowed return, it can continue to pay and grow the dividend.
 
 This dividend is not a discretionary choice by management but is essentially built into the investment case. An investor buying Entergy stock is buying future dividend streams from a regulated business with predictable returns. The share price reflects this income stream; if Entergy cut the dividend, the share price would fall as income-seeking investors sold.
 
@@ -72,4 +72,4 @@ Begin with the company's annual 10-K filing (SEC CIK 0000065984), which details 
 
 Study the company's dividend coverage — ensure that operating cash flow and earnings are sufficient to support the dividend with room for capital investment. Monitor the regulatory environment in each of the four states: are there pending rate cases, demands for renewable energy, pressure to retire nuclear or coal plants, or calls for lowering allowed returns? Watch capital expenditure plans, as large spending indicates confidence in growth but also means capital will need to be raised, potentially through debt or equity.
 
-Key metrics include return on equity (which should approximate the regulator's allowed return), dividend yield, and the ratio of dividend to earnings. Track generation mix (what percentage of power comes from nuclear, gas, renewables, and other sources) and any commentary on planned retirements or additions of generation capacity. These give a sense of how Entergy is positioning for a low-carbon energy future and what capital intensity lies ahead.
+Key metrics include [return on equity](/return-on-equity/) (which should approximate the regulator's allowed return), [dividend yield](/dividend-yield/), and the ratio of dividend to earnings. Track generation mix (what percentage of power comes from nuclear, gas, renewables, and other sources) and any commentary on planned retirements or additions of generation capacity. These give a sense of how Entergy is positioning for a low-carbon energy future and what capital intensity lies ahead.

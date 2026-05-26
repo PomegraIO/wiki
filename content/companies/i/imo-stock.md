@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Imperial Oil Limited is an integrated oil and gas company headquartered in Calgary, Canada. It is less a single operator than a chain: oil sands production feeds crude into pipelines, which deliver to refineries, which process crude into gasoline, diesel, and chemicals for markets across North America. The company is roughly two-thirds controlled by Exxon Mobil, which owns it as a subsidiary enterprise, while public shareholders own the remainder.
+Imperial Oil Limited is an integrated oil and gas company headquartered in Calgary, Canada. It is less a single operator than a chain: oil sands production feeds crude into pipelines, which deliver to refineries, which process crude into gasoline, diesel, and chemicals for markets across North America. The company is roughly two-thirds controlled by [Exxon Mobil](/xom-stock/), which owns it as a subsidiary enterprise, while public shareholders own the remainder.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ Imperial Oil traces its roots to 1880, when John D. Rockefeller's Standard Oil e
 
 The company's heartland is the Canadian oil sands — bituminous crude that is too viscous to flow without heating and chemical extraction. The Cold Lake oil sands project, northeast of Edmonton, is Imperial's flagship production asset. It uses steam injection and other techniques to thin the bitumen and bring it to the surface, then upgrades the crude into synthetic light oil that can move through pipelines. This is not high-margin, high-return work; it is capital intensive, operates at modest returns, and competes on execution and cost control rather than technological breakthroughs.
 
-From the oil sands, crude moves through pipelines — many of which Imperial owns or has stake in — to refineries. Imperial operates refining capacity in several Canadian locations, including a major complex in Strathcona, and in the United States (Baton Rouge, Louisiana). These refineries consume the crude Imperial produces and also source from other suppliers, converting crude into finished products: gasoline, diesel, heating oil, and feedstocks for chemical production. The refining business, like oil-sands production, is a high-volume, modest-margin operation that profits from efficient processing and reliable operations.
+From the oil sands, crude moves through pipelines — many of which Imperial owns or has stake in — to refineries. Imperial operates refining capacity in several Canadian locations, including a major complex in Strathcona, and in the United States (Baton Rouge, Louisiana). These refineries consume the crude Imperial produces and also source from other suppliers, converting crude into finished products: gasoline, diesel, [heating oil](/heating-oil/), and feedstocks for chemical production. The refining business, like oil-sands production, is a high-volume, modest-margin operation that profits from efficient processing and reliable operations.
 
 ## The split between upstream and downstream
 
@@ -46,7 +46,7 @@ Refining is the other pillar. Imperial's Canadian refineries turn Canadian crude
 
 ## The chemical business
 
-Beyond fuels, Imperial operates in chemicals. The Strathcona complex produces olefins (ethylene and propylene) and other chemical feedstocks derived from crude and gas. This segment competes in industrial chemicals on cost and scale. Margins are higher than in fuel refining but more volatile, depending on global supply-demand and pricing in petrochemical markets. The chemical business is a secondary profit driver compared to fuels, but it adds diversification.
+Beyond fuels, Imperial operates in chemicals. The Strathcona complex produces olefins (ethylene and propylene) and other chemical feedstocks derived from crude and gas. This segment competes in industrial chemicals on cost and scale. Margins are higher than in fuel refining but more volatile, depending on global supply-demand and pricing in petrochemical markets. The chemical business is a secondary profit driver compared to fuels, but it adds [diversification](/diversification/).
 
 ## Exxon's ownership and strategy
 
@@ -56,12 +56,12 @@ In recent years, this has meant measured capital investment. Imperial has not la
 
 ## Commodity exposure and regulatory risk
 
-Imperial's earnings are directly exposed to crude oil prices and refined-product spreads. Crude is a global commodity, and Imperial has no influence over the price. Refined-product margins are set by competitive markets across North America. The company manages costs and seeks to run assets efficiently, but pricing power is limited.
+Imperial's earnings are directly exposed to [crude oil](/crude-oil/) prices and refined-product spreads. Crude is a global commodity, and Imperial has no influence over the price. Refined-product margins are set by competitive markets across North America. The company manages costs and seeks to run assets efficiently, but pricing power is limited.
 
 Regulatory risk is substantial. Canada's government has implemented carbon pricing, which increases operating costs (particularly for energy-intensive oil-sands production). Environmental regulations around emissions, water quality, and land reclamation add compliance costs and capital requirements. The Canadian government has also imposed restrictions on emissions intensity for new oil-sands projects, limiting expansion. Globally, pressure to decarbonise is rising, and Imperial, like all fossil-fuel producers, faces long-term headwinds as transportation and power generation shift toward electricity and renewable energy.
 
 ## Research and moving forward
 
-Start with Imperial's annual report and 10-K (SEC CIK 0000049938), which details production volumes, costs, refining capacity, and capital plans. The reports also break down reserves and resource estimates, critical for understanding the long-term production profile. Watch quarterly earnings for production trends, refining margins, and capital discipline. Monitor crude oil prices and refined-product spreads; these are published by energy-data providers like IEA and Bloomberg and are early signals of near-term earnings pressure or relief.
+Start with Imperial's [annual report](/10-k/) and 10-K (SEC CIK 0000049938), which details production volumes, costs, refining capacity, and capital plans. The reports also break down reserves and resource estimates, critical for understanding the long-term production profile. Watch quarterly earnings for production trends, refining margins, and capital discipline. Monitor crude oil prices and refined-product spreads; these are published by energy-data providers like IEA and Bloomberg and are early signals of near-term earnings pressure or relief.
 
 Pay attention to Imperial's energy-transition investments — hydrogen, carbon capture, renewable power — as these will increasingly shape the company's medium-term strategy and regulatory standing. Also track environmental regulations in Canada and the US, particularly carbon pricing and emissions-intensity rules, as these raise Imperial's cost of production and shrink returns on existing assets. Finally, note that Imperial operates within Exxon's strategic orbit; major strategic shifts are likely to be set in Houston, not Calgary.

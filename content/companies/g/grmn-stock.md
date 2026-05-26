@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Garmin is a hardware company of a precise and old-fashioned kind. It designs GPS navigation devices, aviation systems, marine electronics, and wearables (smartwatches, fitness trackers), manufactures them through partners, and sells them at prices that reflect the company's focus on utility and reliability rather than fashion. Founded in 1989 by Min Kao and Gary Burrell, Garmin trades on NASDAQ under the ticker GRMN and is one of the few consumer electronics companies that has sustained a durable business by committing to excellence in a single class of products rather than chasing whatever is trendy.
+Garmin is a hardware company of a precise and old-fashioned kind. It designs GPS navigation devices, aviation systems, marine electronics, and wearables (smartwatches, fitness trackers), manufactures them through partners, and sells them at prices that reflect the company's focus on utility and reliability rather than fashion. Founded in 1989 by Min Kao and Gary Burrell, Garmin trades on [NASDAQ](/nasdaq/) under the ticker GRMN and is one of the few consumer electronics companies that has sustained a durable business by committing to excellence in a single class of products rather than chasing whatever is trendy.
 
 ## The GPS moat that keeps expanding
 
@@ -39,13 +39,13 @@ Each segment operates in its own market with its own competition, but all share 
 
 Garmin's financial profile reflects its positioning. The company operates at relatively high gross margins — typically in the 55 to 60 percent range — because it sells premium-priced products for niche use cases. Aviation and Marine margins are particularly strong. The Fitness segment carries lower margins because the market is more competitive, but even there, Garmin's focus on the serious athlete (rather than the casual fitness tracker buyer) allows for better pricing than a mass-market competitor would achieve.
 
-Operating margins have been in the low-to-mid 20 percent range in recent years, healthy by any standard. The company generates strong free cash flow, returns money to shareholders through buybacks and modest dividends, and invests in product development and new categories.
+[Operating margins](/operating-margin/) have been in the low-to-mid 20 percent range in recent years, healthy by any standard. The company generates strong [free cash flow](/free-cash-flow/), returns money to shareholders through buybacks and modest [dividends](/dividend/), and invests in product development and new categories.
 
 ## What the company does well and faces
 
-Garmin's strength is relentless focus on the user experience for its specific target audiences. The company invests heavily in software, algorithms, and user-interface design. It builds most of its own silicon and firmware, giving it deep control over performance and reliability. The company also maintains a robust supply chain despite being heavily dependent on manufacturing partners in Asia.
+Garmin's strength is relentless focus on the user experience for its specific [target](/tgt-stock/) audiences. The company invests heavily in software, algorithms, and user-interface design. It builds most of its own silicon and firmware, giving it deep control over performance and reliability. The company also maintains a robust supply chain despite being heavily dependent on manufacturing partners in Asia.
 
-The core risk is disruption from larger technology companies. Apple, Google, and Samsung all make wearables and can leverage enormous resources to compete in any market they choose. Apple's watch has become more capable and is marketed (implicitly) as superior to purpose-built sports watches. Google's Android ecosystem includes many navigation and mapping options. These companies can afford to accept lower margins in pursuit of market share, which creates pricing pressure.
+The core risk is disruption from larger technology companies. [Apple](/aapl-stock/), Google, and Samsung all make wearables and can leverage enormous resources to compete in any market they choose. Apple's watch has become more capable and is marketed (implicitly) as superior to purpose-built sports watches. Google's Android ecosystem includes many navigation and mapping options. These companies can afford to accept lower margins in pursuit of market share, which creates pricing pressure.
 
 The smartphone's ubiquity remains a structural threat to the aftermarket automotive navigation business; fewer people buy standalone GPS units when their phone handles navigation. Garmin has adapted by shifting toward the OEM business (supplying to carmakers) and by emphasizing use cases where a phone is insufficient, but the overall market for navigation devices has contracted.
 

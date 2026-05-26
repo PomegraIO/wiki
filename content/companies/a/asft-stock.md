@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Appsoft Technologies is a mobile software publisher whose core business centers on developing and distributing games and utility applications for Apple's iOS platform. The company operates an extensive catalog of titles—over 400 apps total—rather than focusing on a single flagship product. This portfolio strategy provides revenue [diversification](/diversification/) across casual games, puzzle games, lifestyle apps, and utility software, all distributed exclusively through the Apple App Store.
+Appsoft Technologies is a mobile software publisher whose core business centers on developing and distributing games and utility applications for [Apple](/aapl-stock/)'s iOS platform. The company operates an extensive catalog of titles—over 400 apps total—rather than focusing on a single flagship product. This portfolio strategy provides revenue [diversification](/diversification/) across casual games, puzzle games, lifestyle apps, and utility software, all distributed exclusively through the Apple App Store.
 
 The company was formed in Nevada in March 2015 and went public as a small-cap equity. Its entire distribution and customer interface runs through Apple's ecosystem, making the company's fortunes inseparable from app store economics: discovery algorithms, advertising rates, user preference cycles, and Apple's platform policies. Because AppSoft operates at the tail end of the mobile app market rather than as a blockbuster creator, it lives on volume and longevity rather than individual hit titles.
 

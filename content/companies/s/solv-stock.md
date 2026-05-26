@@ -50,11 +50,11 @@ This strategy requires ongoing acquisition of new product lines and continuous i
 
 Solventum was spun out from 3M as a completely separate public company, taking with it the healthcare and software businesses that 3M had accumulated. The separation is recent enough that the true economics are still becoming clear, but the thesis is straightforward: as an independent company, Solventum can focus on healthcare rather than spreading capital and management attention across 3M's broader portfolio (adhesives, electronics, industrial). The company can also move faster on M&A and product development decisions specific to healthcare.
 
-The downside of independence is the loss of 3M's scale and financial wherewithal. 3M was massive and could absorb short-term setbacks; Solventum is smaller and has less balance-sheet capacity to invest in large acquisitions or to weather extended downturns.
+The downside of independence is the loss of 3M's scale and financial wherewithal. 3M was massive and could absorb short-term setbacks; Solventum is smaller and has less balance-sheet capacity to invest in large [acquisitions](/acquisition/) or to weather extended downturns.
 
 ## Customer concentration and competitive dynamics
 
-HCS customers are concentrated: hospitals buy through group purchasing organizations, and dental practices are fragmented but their purchasing power per practice is modest. This concentration gives hospital systems pricing leverage, but it also means Solventum has deep, long-term relationships with key accounts. The competitive landscape is mixed: Sterilucent competes in sterilization, Henry Schein competes in dental distribution, and smaller regional competitors fight for share in specific product categories. Solventum's advantages are breadth of portfolio, brand recognition among practitioners, and the software layer that creates stickiness.
+HCS customers are concentrated: hospitals buy through group purchasing organizations, and dental practices are fragmented but their purchasing power per practice is modest. This concentration gives hospital systems pricing leverage, but it also means Solventum has deep, long-term relationships with key accounts. The competitive landscape is mixed: Sterilucent competes in sterilization, [Henry Schein](/hsic-stock/) competes in dental distribution, and smaller regional competitors fight for share in specific product categories. Solventum's advantages are breadth of portfolio, brand recognition among practitioners, and the software layer that creates stickiness.
 
 HIS competes against companies like Epic, Cerner, and Allscripts in healthcare IT—much larger and better-capitalized competitors. Solventum's HIS division is smaller and more focused on niche workflows, which is both a constraint and a strategy. The competitive edge is specialization and depth of feature in specific use cases rather than trying to be the system of record for everything.
 
@@ -68,7 +68,7 @@ The dental business is more insulated from reimbursement pressure because much d
 
 ## Capital intensity and cash generation
 
-HCS is moderately capital-intensive: Solventum owns manufacturing facilities and must invest in inventory and distribution. HIS is software, which is less capital-intensive but requires continuous R&D spending. Together, the businesses are cash-generative but not exceptionally so. The growth strategy relies on acquisition to add new products, which requires the balance sheet to support deal-making.
+HCS is moderately capital-intensive: Solventum owns manufacturing facilities and must invest in inventory and distribution. HIS is software, which is less capital-intensive but requires continuous R&D spending. Together, the businesses are cash-generative but not exceptionally so. The growth strategy relies on acquisition to add new products, which requires the [balance sheet](/balance-sheet/) to support deal-making.
 
 ## How to research Solventum
 

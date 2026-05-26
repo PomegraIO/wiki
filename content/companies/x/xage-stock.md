@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Longevity Health Holdings—operating under the ticker XAGE on the [OTC Markets](/wiki/otc-markets/) after trading on [Nasdaq](/wiki/nasdaq-stock-exchange/)—is a small-scale healthcare company betting that the future of longevity lies in understanding and reversing the cellular damage that drives aging. Unlike pharmaceutical giants targeting individual diseases, Longevity frames its mission more broadly: helping people live longer and healthier through a combination of regenerative skincare, cutting-edge diagnostic tests, and emerging plasma-derived therapeutics.
+Longevity Health Holdings—operating under the ticker XAGE on the OTC Markets after trading on [Nasdaq](/nasdaq/)—is a small-scale healthcare company betting that the future of longevity lies in understanding and reversing the cellular damage that drives aging. Unlike pharmaceutical giants targeting individual diseases, Longevity frames its mission more broadly: helping people live longer and healthier through a combination of regenerative skincare, cutting-edge diagnostic tests, and emerging plasma-derived therapeutics.
 
 The company's origin reflects a common path in biotech: a platform technology looking for its commercial purpose. What began as Carmell Therapeutics—focused on allogeneic plasma-derived growth factors as a bone and soft tissue treatment—has evolved, through successive [acquisitions](/acquisition/) and rebranding, into a portfolio company spanning consumer beauty, clinical diagnostics, and plasma collection operations. This pivot from specialized biotech to multi-channel health longevity is the heart of what Longevity is trying to become.
 
@@ -29,7 +29,7 @@ This layering of platforms (secretomes and exosomes) within the same company sug
 
 ## The Pivot to Diagnostics: 20/20 BioLabs
 
-In mid-2025, Longevity announced an acquisition of 20/20 BioLabs, a diagnostics company whose flagship product is OneTest™—a multi-cancer early detection (MCED) blood test capable of identifying over a dozen tumor types from a single blood draw, priced below $200. A blinded study by the U.S. National Cancer Institute found that OneTest™ detected many cancer types at earlier stages than competing MCEDs, a competitive advantage in a nascent but rapidly growing market.
+In mid-2025, Longevity announced an acquisition of [20/20 BioLabs](/aidx-stock/), a diagnostics company whose flagship product is OneTest™—a multi-cancer early detection (MCED) blood test capable of identifying over a dozen tumor types from a single blood draw, priced below $200. A blinded study by the U.S. National Cancer Institute found that OneTest™ detected many cancer types at earlier stages than competing MCEDs, a competitive advantage in a nascent but rapidly growing market.
 
 > The merger positions diagnostics as a core pillar—moving Longevity from "beauty and wellness" into early disease detection, the most capital-intensive and regulated segment of its portfolio.
 
@@ -45,7 +45,7 @@ On the surface, this looks like vertical integration—controlling supply of a c
 
 ## Capital and Scale Challenges
 
-The company's path has been one of rapid acquisition and integration. In 2023, it merged with Alpha Healthcare Acquisition Corp. III (a [special-purpose acquisition company](/wiki/spac-special-purpose-acquisition-company/), or SPAC) to go public under the CTCX ticker. It then rebranded to XAGE in early 2025, signaling a shift from the Carmell Therapeutics identity to a broader longevity platform narrative. By 2025, the company faced stock price pressure and conducted a 1-for-30 [reverse stock split](/wiki/reverse-stock-split/) to maintain [Nasdaq](/wiki/nasdaq-stock-exchange/) listing compliance.
+The company's path has been one of rapid acquisition and integration. In 2023, it merged with Alpha Healthcare Acquisition Corp. III (a [special-purpose acquisition company](/special-purpose-acquisition-company/), or SPAC) to go public under the CTCX ticker. It then rebranded to XAGE in early 2025, signaling a shift from the Carmell Therapeutics identity to a broader longevity platform narrative. By 2025, the company faced stock price pressure and conducted a 1-for-30 [reverse stock split](/wiki/reverse-stock-split/) to maintain Nasdaq listing compliance.
 
 Revenue scaled from approximately $3–4 million to anticipated $7–8 million in 2025, a meaningful but still small absolute scale. The company has relied on equity offerings to fund operations and acquisitions; in May 2025, it raised $1.96 million through an at-the-market equity offering. Each capital raise dilutes existing shareholders and signals that the company is not yet cash-flow positive from operations.
 

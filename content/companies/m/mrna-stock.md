@@ -53,7 +53,7 @@ Moderna is pursuing mRNA vaccines for respiratory viruses — influenza, respira
 
 The company is also exploring mRNA therapies for cancer. The concept is personalized cancer vaccines: a patient's tumor is sequenced, and an mRNA vaccine is designed to teach the patient's immune system to recognize and attack that specific tumor. Early-stage data have been promising, but the complexity of development, manufacturing, and individualization is substantial. A personalized therapy requires custom manufacturing for each patient, which is far more complex than manufacturing a vaccine for millions of people.
 
-Other pipeline programs target heart disease, cystic fibrosis, and other conditions where mRNA might enable new treatments. Most of these programs are still in early-stage development.
+Other pipeline programs [target](/tgt-stock/) heart disease, cystic fibrosis, and other conditions where mRNA might enable new treatments. Most of these programs are still in early-stage development.
 
 ## Manufacturing, scale, and commercialization
 
@@ -63,7 +63,7 @@ Moderna owns much of its manufacturing, which is unusual for a biotech company (
 
 ## Competition and technology risk
 
-Moderna is not alone in mRNA therapeutics. BioNTech (a German company that partnered with Pfizer for the COVID vaccine) is a direct competitor. Numerous smaller biotech companies and academic groups are pursuing mRNA approaches. The technology is no longer proprietary to Moderna — multiple organizations have demonstrated that mRNA can be synthesized, delivered, and made to work therapeutically.
+Moderna is not alone in mRNA therapeutics. BioNTech (a German company that partnered with [Pfizer](/pfe-stock/) for the COVID vaccine) is a direct competitor. Numerous smaller biotech companies and academic groups are pursuing mRNA approaches. The technology is no longer proprietary to Moderna — multiple organizations have demonstrated that mRNA can be synthesized, delivered, and made to work therapeutically.
 
 That said, Moderna holds a substantial patent portfolio and has first-mover advantage in the field. The company's years of research and development, manufacturing experience, and substantial cash reserves provide competitive advantages. However, competitors with better science, faster execution, or superior clinical efficacy could take market share.
 

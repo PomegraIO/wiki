@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Suzano S.A. is a Brazilian pulp and paper company headquartered in São Paulo. It is one of the world's largest producers of eucalyptus pulp, a raw material used to manufacture tissue, printing paper, and specialty products sold globally. The company operates extensive plantations and production mills in Brazil and is listed on the NASDAQ and B3 (Brazil's stock exchange). Suzano exemplifies the pattern of a family-founded business that grew into an industrial multinational while retaining deep roots in its home country.
+Suzano S.A. is a Brazilian pulp and paper company headquartered in São Paulo. It is one of the world's largest producers of eucalyptus pulp, a raw material used to manufacture tissue, printing paper, and specialty products sold globally. The company operates extensive plantations and production mills in Brazil and is listed on the [NASDAQ](/nasdaq/) and B3 (Brazil's [stock exchange](/stock-exchange/)). Suzano exemplifies the pattern of a family-founded business that grew into an industrial multinational while retaining deep roots in its home country.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ This transition required substantial capital investment. Suzano invested in mode
 
 By the early 2000s, Suzano had become one of Brazil's largest industrial exporters. Eucalyptus pulp is a commodity — sold on global markets at globally set prices — but Brazil's climate, labor costs, and favorable land economics gave Suzano and a handful of other Brazilian producers a structural cost advantage. Suzano used this advantage to grow, and in 2004 the company went public on the Brazilian stock exchange. The company continued investing in mill capacity and forestry land, positioning itself to capture market share as global demand for pulp and tissue grew.
 
-In 2018, Suzano merged with Fibria, another major Brazilian pulp company, creating a combined entity of enormous scale. The merger made Suzano one of the world's two or three largest eucalyptus-pulp producers, rivaled only by Sappi (South Africa) and a few other large players. The merger also consolidated Suzano's competitive position; the combined company had lower unit costs and greater economies of scale in everything from harvesting logistics to port operations and shipping.
+In 2018, Suzano merged with Fibria, another major Brazilian pulp company, creating a combined entity of enormous scale. The [merger](/merger/) made Suzano one of the world's two or three largest eucalyptus-pulp producers, rivaled only by Sappi (South Africa) and a few other large players. The merger also consolidated Suzano's competitive position; the combined company had lower unit costs and greater economies of scale in everything from harvesting logistics to port operations and shipping.
 
 ## The Modern Business: Vertically Integrated Commodity Production
 
@@ -49,7 +49,7 @@ This cost structure is shaped by Suzano's ownership of forests. A competitor tha
 
 ## The Commodity Trap and the Drive for Differentiation
 
-One challenge inherent to the pulp business is that commodities are cyclical. Pulp prices rise when global demand is strong and supply is tight; they fall when there is overcapacity or a recession reduces paper and tissue consumption. Suzano's earnings therefore fluctuate with these cycles, and the company cannot simply raise prices when costs rise because commodity prices are set by the market.
+One challenge inherent to the pulp business is that commodities are cyclical. Pulp prices rise when global demand is strong and supply is tight; they fall when there is overcapacity or a [recession](/recession/) reduces paper and tissue consumption. Suzano's earnings therefore fluctuate with these cycles, and the company cannot simply raise prices when costs rise because commodity prices are set by the market.
 
 Suzano has worked to diversify away from pure commodity pulp by developing specialty pulps with higher margins — pulps for tissue that is softer, stronger, or more absorbent, for example — and by growing its tissue segment, where the company has more control over pricing because it sells branded or retailer-branded consumer products rather than undifferentiated commodity inputs. But the company remains fundamentally a pulp producer, so commodity cycles still drive its profitability.
 

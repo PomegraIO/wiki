@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kinsale Capital Group is an insurance company that operates in a specific corner of a massive industry: specialty and niche commercial insurance. Rather than competing on brand and scale like the industry giants, Kinsale pursues a strategy of careful underwriting and selective risk—writing policies for small and mid-sized businesses in categories where the company believes it has genuine expertise. The stock trades on NASDAQ under the ticker KNSL.
+Kinsale Capital Group is an insurance company that operates in a specific corner of a massive industry: specialty and niche commercial insurance. Rather than competing on brand and scale like the industry giants, Kinsale pursues a strategy of careful underwriting and selective risk—writing policies for small and mid-sized businesses in categories where the company believes it has genuine expertise. The stock trades on [NASDAQ](/nasdaq/) under the ticker KNSL.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,9 +47,9 @@ Growth comes from acquiring new business—selling policies to new customers and
 
 ## Underwriting results and investment income
 
-The two sources of income for an insurance company are underwriting profit (premiums minus claims and expenses) and investment returns. In a year where claims are heavy or when interest rates are low, underwriting profitability matters more. When investment returns are strong, they can offset weaker underwriting.
+The two sources of income for an insurance company are underwriting profit (premiums minus claims and expenses) and investment returns. In a year where claims are heavy or when [interest rates](/interest-rate/) are low, underwriting profitability matters more. When investment returns are strong, they can offset weaker underwriting.
 
-Kinsale publishes its underwriting results quarterly: the premiums it collected, the claims it paid, the acquisition costs, and the resulting underwriting profit or loss. The company's track record on underwriting discipline—whether it tends to have underwriting profits or losses—is central to assessing its business quality. An insurer that consistently underprices and loses money on its core business is not a good business, regardless of investment returns. Conversely, a company that consistently underprices for a while but then improves discipline has demonstrated management quality.
+Kinsale publishes its underwriting results quarterly: the premiums it collected, the claims it paid, the [acquisition](/acquisition/) costs, and the resulting underwriting profit or loss. The company's track record on underwriting discipline—whether it tends to have underwriting profits or losses—is central to assessing its business quality. An insurer that consistently underprices and loses money on its core business is not a good business, regardless of investment returns. Conversely, a company that consistently underprices for a while but then improves discipline has demonstrated management quality.
 
 ## Risks and pressures
 
@@ -57,7 +57,7 @@ The insurance industry is cyclical. In years when claims are light and investmen
 
 Kinsale is exposed to the risks inherent to the segments it covers. If construction activity declines sharply, construction-related premiums and claims both decline. Real-estate slowdowns, manufacturing disruptions, and other industry-specific shocks can affect the company's business.
 
-Interest rates affect insurance companies in two ways. Low rates reduce investment returns on the company's portfolio. High rates increase the value of bonds the company owns but may reduce underwriting opportunities as businesses cut back on discretionary risk management spending. Rate competition is always present; Kinsale cannot protect itself from competitors who decide to price aggressively to grow market share, even if that pricing is unprofitable.
+Interest rates affect insurance companies in two ways. Low rates reduce investment returns on the company's portfolio. High rates increase the value of [bonds](/bond/) the company owns but may reduce underwriting opportunities as businesses cut back on discretionary risk management spending. Rate competition is always present; Kinsale cannot protect itself from competitors who decide to price aggressively to grow market share, even if that pricing is unprofitable.
 
 Regulatory changes can also affect profitability. State regulators govern insurance rates and policy terms, and they can impose requirements or restrictions that reduce insurers' flexibility or profitability.
 

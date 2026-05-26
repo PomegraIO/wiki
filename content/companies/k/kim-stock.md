@@ -43,7 +43,7 @@ The [income statement](/income-statement/) for a REIT also includes non-cash cha
 
 ## The portfolio and where rent comes from
 
-Kimco's properties span multiple categories, each with distinct cash-flow characteristics and risks. Grocery-anchored centers—still the flagship—offer the steadiest rent because their anchors have proven resilient through downturns. Drugstore anchors (CVS, Walgreens) offer similar stability, though these anchors have been rationalizing their store counts in recent years. Discount and value retailers (Dollar General, TJ Maxx) have become increasingly important as their categories have grown. The company also has built a meaningful mixed-use platform combining retail with residential apartments and office space, which diversifies revenue and can command higher rents in desirable locations.
+Kimco's properties span multiple categories, each with distinct cash-flow characteristics and risks. Grocery-anchored centers—still the flagship—offer the steadiest rent because their anchors have proven resilient through downturns. Drugstore anchors (CVS, Walgreens) offer similar stability, though these anchors have been rationalizing their store counts in recent years. Discount and value retailers ([Dollar General](/dg-stock/), TJ Maxx) have become increasingly important as their categories have grown. The company also has built a meaningful mixed-use platform combining retail with residential apartments and office space, which diversifies revenue and can command higher rents in desirable locations.
 
 | Asset Type | Anchor Examples | Revenue Stability | Growth Potential |
 |---|---|---|---|
@@ -65,7 +65,7 @@ Tenant defaults and lease rollovers carry real execution risk. If Kimco cannot r
 
 ## How Kimco fits into its industry
 
-Among [retail REITs](/wiki/retail-reit/), Kimco is the larger, more diversified player, often compared to competitors such as Regency Centers (which focuses on grocery-anchored centers with a complementary footprint) and Retail Opportunity Investments Corp (ROIC). The distinction lies partly in portfolio quality and geography and partly in scale and cost of capital. Larger REITs have greater access to debt and equity markets, which matters in competitive acquisitions and in maintaining financial flexibility.
+Among [retail REITs](/wiki/retail-reit/), Kimco is the larger, more diversified player, often compared to competitors such as [Regency Centers](/reg-stock/) (which focuses on grocery-anchored centers with a complementary footprint) and Retail Opportunity Investments Corp (ROIC). The distinction lies partly in portfolio quality and geography and partly in scale and cost of capital. Larger REITs have greater access to debt and equity markets, which matters in competitive acquisitions and in maintaining financial flexibility.
 
 Kimco's focus on necessity-driven retail in strong demographic markets has put it ahead of REITs overly exposed to discretionary shopping, fashion retail, or struggling malls. The company's willingness to pivot toward mixed-use development and away from pure commodity retail also suggests management sees and is acting on the structural decline of traditional shopping centers. That adaptation separates the surviving REITs from those still waiting for mall traffic to rebound.
 

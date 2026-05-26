@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Microchip Technology is a semiconductor company that designs and manufactures the small, specialized chips that run everything from car door locks to industrial robots to smartphone chargers. Unlike the famous chipmakers that grab headlines — Intel, AMD, NVIDIA — Microchip works in the background, selling microcontrollers and analog chips to engineers and manufacturers who build the products people buy. The company is one of the largest independent semiconductor companies in the world, meaning it does not rely on a single dominant product or customer the way some chipmakers do.
+Microchip Technology is a semiconductor company that designs and manufactures the small, specialized chips that run everything from car door locks to industrial robots to smartphone chargers. Unlike the famous chipmakers that grab headlines — [Intel](/intc-stock/), AMD, [NVIDIA](/nvda-stock/) — Microchip works in the background, selling microcontrollers and analog chips to engineers and manufacturers who build the products people buy. The company is one of the largest independent semiconductor companies in the world, meaning it does not rely on a single dominant product or customer the way some chipmakers do.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ Microchip Technology is a semiconductor company that designs and manufactures th
 
 Microchip was founded in 1989 as a startup in Arizona focused on making microcontrollers — the small, simple programmable chips that control devices. The company's early strategy was to offer reliable, straightforward microcontrollers at competitive prices, serving customers who did not need the latest cutting-edge performance but needed rock-solid reliability and predictable supply.
 
-Through the 1990s and 2000s, Microchip pursued aggressive growth through acquisition. The company bought design teams, product lines, and established customer bases from competitors and struggling chipmakers. Each acquisition added new capabilities: analog mixed-signal technologies, wireless solutions, memory products, and power-management chips. Rather than trying to invent everything from scratch, Microchip identified talented engineering teams and acquired them. This approach meant that Microchip grew by absorbing proven expertise rather than betting on internal development alone.
+Through the 1990s and 2000s, Microchip pursued aggressive growth through [acquisition](/acquisition/). The company bought design teams, product lines, and established customer bases from competitors and struggling chipmakers. Each acquisition added new capabilities: analog mixed-signal technologies, wireless solutions, memory products, and power-management chips. Rather than trying to invent everything from scratch, Microchip identified talented engineering teams and acquired them. This approach meant that Microchip grew by absorbing proven expertise rather than betting on internal development alone.
 
 The result is a company that looks like a portfolio of specialised chip businesses operating under one umbrella. A smartphone charger might use a Microchip power-management chip. A car's climate control system might run on a Microchip microcontroller. An industrial sensor might use a Microchip analog chip to convert real-world signals into digital data. Microchip's strength lies not in doing one thing brilliantly but in doing many things well and serving the sprawling ecosystem of engineers who need reliable components.
 
@@ -48,7 +48,7 @@ Industrial and IoT applications add another major revenue stream. Every connecte
 
 ## Competitive positioning and moats
 
-Microchip faces competition from larger, more famous chipmakers like Texas Instruments and NXP, as well as from smaller, more specialized competitors. The competitive dynamics differ by product. In microcontrollers, Microchip holds a strong position built on decades of relationships with engineers and OEMs. Switching from a Microchip microcontroller to a competitor requires redesigning circuits and rewriting software; that friction protects Microchip's installed base.
+Microchip faces competition from larger, more famous chipmakers like [Texas Instruments](/txn-stock/) and NXP, as well as from smaller, more specialized competitors. The competitive dynamics differ by product. In microcontrollers, Microchip holds a strong position built on decades of relationships with engineers and OEMs. Switching from a Microchip microcontroller to a competitor requires redesigning circuits and rewriting software; that friction protects Microchip's installed base.
 
 Microchip's real advantage is breadth and a reputation for reliability. Engineers reach for Microchip not because it has the newest, fastest chips — it often does not — but because the company offers a wide range of proven, dependable components backed by good documentation and technical support. For the applications Microchip serves, reliability and compatibility matter more than raw performance. A microcontroller powering an automotive brake system needs to work, predictably, for the life of the car. Microchip's reputation for meeting that standard is a durable moat.
 
@@ -64,6 +64,6 @@ Manufacturing capacity is a capital-intensive business. Microchip must balance o
 
 Start with the annual 10-K (SEC CIK 0000827054), which details revenue by product segment and geographical region. The automotive segment is critical to monitor — watch for trends in electric vehicle adoption and any commentary from major automotive suppliers about chip demand.
 
-Key metrics: gross margin (which tracks pricing power and manufacturing efficiency), operating margin (which reflects the company's operating leverage), and inventory levels (high inventory can signal coming demand weakness). The company's customer concentration matters too; if a few large customers represent a large slice of revenue, any customer loss could hurt.
+Key metrics: gross margin (which tracks pricing power and manufacturing efficiency), [operating margin](/operating-margin/) (which reflects the company's operating leverage), and inventory levels (high inventory can signal coming demand weakness). The company's customer concentration matters too; if a few large customers represent a large slice of revenue, any customer loss could hurt.
 
 Microchip is fundamentally a company riding secular trends. Connected devices, smart vehicles, industrial automation — all these trends drive demand for microcontrollers and analog chips. The company's challenge is to keep its manufacturing pipeline efficient, to maintain its reliability reputation, and to navigate the cyclical nature of semiconductor and automotive demand.

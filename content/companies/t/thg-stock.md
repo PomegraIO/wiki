@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Hanover is a property-and-casualty insurance company that writes homeowners, commercial, and specialty insurance policies for individuals and small-to-medium businesses across the United States. The company is sold primarily through independent insurance agents rather than directly to consumers, and it operates on a regional, pragmatic model focused on underwriting discipline and controlled growth. Shares trade on the New York Stock Exchange under ticker THG.
+Hanover is a property-and-casualty insurance company that writes homeowners, commercial, and specialty insurance policies for individuals and small-to-medium businesses across the United States. The company is sold primarily through independent insurance agents rather than directly to consumers, and it operates on a regional, pragmatic model focused on underwriting discipline and controlled growth. Shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker THG.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ Hanover earns money by collecting premiums from policyholders and investing thos
 
 Hanover's primary customer segments are homeowners (individuals buying insurance for their houses), commercial customers (small and medium-sized businesses buying property, liability, and workers compensation insurance), and specialty lines (niche segments such as farm insurance, personal umbrella policies, or professional liability).
 
-The company does not deal directly with customers. Instead, it sells through a network of independent insurance agents — brokers and agencies that represent Hanover alongside policies from competitor insurers. This distribution model means Hanover does not own the customer relationship; the agent does. Agents can drop Hanover and switch volume to a competitor if they perceive better commission, support, or underwriting appetite. Hanover must continuously earn its way into the agent's product mix through competitive pricing, low claims processing friction, and willingness to insure customers the agent wants to insure.
+The company does not deal directly with customers. Instead, it sells through a network of independent insurance agents — [brokers](/broker/) and agencies that represent Hanover alongside policies from competitor insurers. This distribution model means Hanover does not own the customer relationship; the agent does. Agents can drop Hanover and switch volume to a competitor if they perceive better commission, support, or underwriting appetite. Hanover must continuously earn its way into the agent's product mix through competitive pricing, low claims processing friction, and willingness to insure customers the agent wants to insure.
 
 ## Underwriting discipline as a competitive edge
 
@@ -46,17 +46,17 @@ The company monitors geographical exposure carefully. Hanover avoids concentrati
 
 ## The investment side of insurance economics
 
-Insurance companies are also investment companies. Premiums are collected months or years before claims are paid. Hanover invests those "float" (the pool of premiums not yet used for claims) in bonds, stocks, and other securities, earning investment income.
+Insurance companies are also investment companies. Premiums are collected months or years before claims are paid. Hanover invests those "float" (the pool of premiums not yet used for claims) in [bonds](/bond/), stocks, and other securities, earning investment income.
 
-For Hanover, investment income is a meaningful source of earnings. In periods when interest rates are high, the yields on fixed-income securities are attractive, and investment income can be substantial. When rates are low, investment income shrinks, pressuring overall profitability even if underwriting is sound. Interest rate changes thus flow directly through to earnings.
+For Hanover, investment income is a meaningful source of earnings. In periods when [interest rates](/interest-rate/) are high, the yields on fixed-income securities are attractive, and investment income can be substantial. When rates are low, investment income shrinks, pressuring overall profitability even if underwriting is sound. Interest rate changes thus flow directly through to earnings.
 
-The investment portfolio is typically weighted toward fixed-income securities — corporate bonds, government bonds, mortgage-backed securities — because the company must be able to pay claims on short notice. A large portfolio of illiquid or volatile stocks would create risk that claims could not be met.
+The investment portfolio is typically weighted toward fixed-income securities — [corporate bonds](/corporate-bond/), government bonds, mortgage-backed securities — because the company must be able to pay claims on short notice. A large portfolio of illiquid or volatile stocks would create risk that claims could not be met.
 
 ## How the business environment affects results
 
 Hanover's profitability depends on several factors beyond the company's control. Natural disasters and severe weather drive unexpected claim volume. If a major hurricane makes landfall in an area where Hanover has substantial exposure, claims could spike and erode profitability for the year.
 
-Economic conditions affect both premiums and claims. In a recession, fewer people buy new homes, the volume of homeowners insurance sales declines, and commercial businesses may reduce coverage. Conversely, inflation increases the cost to repair homes and businesses, raising the severity of claims even if frequency does not change.
+Economic conditions affect both premiums and claims. In a [recession](/recession/), fewer people buy new homes, the volume of [homeowners insurance](/homeowners-insurance/) sales declines, and commercial businesses may reduce coverage. Conversely, [inflation](/inflation/) increases the cost to repair homes and businesses, raising the severity of claims even if frequency does not change.
 
 Labour and supply costs affect claims severity. If materials become scarce or contractors become expensive, repairing storm damage or fire damage costs more, and Hanover's claims expenses rise.
 
@@ -72,7 +72,7 @@ Hanover's financial strength and capital position are important. Insurance regul
 
 ## Reading the insurer
 
-For investors and analysts, the key metrics are premium volume, loss ratios, expense ratios, combined ratios (a measure of underwriting profitability), and the trajectory of claims costs. Strong underwriting discipline shows up as stable or improving loss ratios even as competitors struggle. Quarterly earnings also reveal investment income, which depends on interest rates and portfolio performance.
+For investors and analysts, the key metrics are premium volume, loss ratios, [expense ratios](/expense-ratio/), combined ratios (a measure of underwriting profitability), and the trajectory of claims costs. Strong underwriting discipline shows up as stable or improving loss ratios even as competitors struggle. Quarterly earnings also reveal investment income, which depends on interest rates and portfolio performance.
 
 Shareholders should monitor catastrophe exposure and management's willingness to exit unprofitable lines or geographies. A management team that shrinks premium but improves underwriting is building long-term value, even if short-term growth looks weak.
 

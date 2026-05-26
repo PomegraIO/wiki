@@ -56,7 +56,7 @@ There is also the threat of price competition. As the CGM market matures and gro
 
 ## Capital returns and reinvestment
 
-DexCom reinvests most of its earnings into R&D and international expansion. The company has not historically paid dividends or done large buybacks; instead, it grows by reinvesting and acquiring smaller companies or technologies that strengthen its position. This is consistent with a growth-stage medical-device company that sees significant runway ahead. Shareholders are betting that this reinvestment will compound over years and deliver returns through share price appreciation rather than dividends.
+DexCom reinvests most of its earnings into R&D and international expansion. The company has not historically paid [dividends](/dividend/) or done large buybacks; instead, it grows by reinvesting and acquiring smaller companies or technologies that strengthen its position. This is consistent with a growth-stage medical-device company that sees significant runway ahead. Shareholders are betting that this reinvestment will compound over years and deliver returns through share price appreciation rather than dividends.
 
 ## Understanding DexCom's value
 

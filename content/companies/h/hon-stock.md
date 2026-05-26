@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Honeywell International is a large diversified manufacturer. It makes things you don't see but your building, your airplane, or your factory probably uses: thermostats and controls that manage heating and cooling, sensors that detect what's in the air, materials that help refine oil, and flight-safety systems. The company sells most of what it makes to other businesses, not to consumers. Its shares (NASDAQ: HON) are held by pension funds, index funds, and long-term investors who view it as a reliable, profitable business that has existed for over a century.
+Honeywell International is a large diversified manufacturer. It makes things you don't see but your building, your airplane, or your factory probably uses: thermostats and controls that manage heating and cooling, sensors that detect what's in the air, materials that help refine oil, and flight-safety systems. The company sells most of what it makes to other businesses, not to consumers. Its shares ([NASDAQ](/nasdaq/): HON) are held by pension funds, [index funds](/index-fund/), and long-term investors who view it as a reliable, profitable business that has existed for over a century.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Honeywell International is a large diversified manufacturer. It makes things you
 
 ## A long history of doing one thing well, then many things
 
-Honeywell began in 1906 as a merger of several heating-control companies. At the time, keeping a building at a steady temperature was hard. Thermostats were finicky, and boilers needed constant adjustment. Honeywell made the thermostat that could sense temperature and automatically adjust heat — a simple idea that became essential infrastructure in homes and offices everywhere. That core business, precision control, became the foundation of the company.
+Honeywell began in 1906 as a [merger](/merger/) of several heating-control companies. At the time, keeping a building at a steady temperature was hard. Thermostats were finicky, and boilers needed constant adjustment. Honeywell made the thermostat that could sense temperature and automatically adjust heat — a simple idea that became essential infrastructure in homes and offices everywhere. That core business, precision control, became the foundation of the company.
 
 Over the twentieth century, Honeywell expanded into related territory. It began making controls for airplanes. It made sensors that could detect smoke, pressure, and chemicals. It diversified into chemicals and materials used in refrigeration and energy production. In the 1980s and 1990s, it acquired dozens of companies and reorganized itself multiple times. The company became a sprawling conglomerate — the kind that many investors found hard to understand because it did so many different things in different industries.
 
@@ -41,7 +41,7 @@ The second is **Aerospace Systems**, which makes parts, controls, and safety sys
 
 The third is **Performance Materials and Technologies**, which makes chemicals, catalysts, and specialized materials used by refineries, chemical plants, and energy companies. This is the most cyclical division; it rises when oil prices are high and energy companies are spending, and it falls during downturns. The margins are high, but earnings are volatile.
 
-The fourth, and newest as a focused unit, is **Safety and Productivity Solutions**, which includes sensors, software, and equipment for industrial safety, gas detection, and workplace productivity. This is a fragmented market where Honeywell has built scale through acquisitions.
+The fourth, and newest as a focused unit, is **Safety and Productivity Solutions**, which includes sensors, software, and equipment for industrial safety, gas detection, and workplace productivity. This is a fragmented market where Honeywell has built scale through [acquisitions](/acquisition/).
 
 ## How Honeywell makes money
 
@@ -49,7 +49,7 @@ Most of Honeywell's revenue is recurring. Building automation customers pay subs
 
 The company is also increasingly software-driven. Building Technologies now includes a large software business that monitors buildings remotely and offers energy-optimization services. Aerospace includes avionics — computerized flight and navigation systems. This shift matters because software is higher-margin than hardware manufacturing, and it creates lock-in: once a customer has built their building or airplane around Honeywell's software, switching is difficult.
 
-Honeywell's profit margins vary by division. Aerospace is very high-margin because demand is inelastic and competition is limited. Building automation has solid margins because customers are locked in to maintenance and subscriptions. Performance materials are subject to cyclical commodity dynamics, so margins compress when energy demand falls. Overall, the company has learned to manage the portfolio: it uses profits from high-margin businesses to invest in growth in lower-margin ones, and it returns cash to shareholders through dividends and buybacks.
+Honeywell's profit margins vary by division. Aerospace is very high-margin because demand is inelastic and competition is limited. Building automation has solid margins because customers are locked in to maintenance and subscriptions. Performance materials are subject to cyclical commodity dynamics, so margins compress when energy demand falls. Overall, the company has learned to manage the portfolio: it uses profits from high-margin businesses to invest in growth in lower-margin ones, and it returns cash to shareholders through [dividends](/dividend/) and buybacks.
 
 ## What sets Honeywell apart
 
@@ -69,4 +69,4 @@ The shift to software also creates competitive risk. Honeywell's building-automa
 
 Start with the annual 10-K filing (SEC CIK 0000773840). It breaks down revenue and operating profit by division, so you can see which parts are growing and which are cyclical. Watch the quarterly earnings calls for commentary on order backlogs in aerospace, pricing trends in building automation, and the health of the energy sector (which affects Performance Materials). Look at the company's capital-allocation strategy: Does management continue to grow the dividend and buy back stock? Are they investing in research, or cutting costs?
 
-Pay attention to what management says about competition, particularly in software. Honeywell's CEO and CFO will discuss how the company is winning in building technologies and whether new competitors are taking share. Finally, watch the broader industrial sector. Honeywell tends to move with the economic cycle and with commodity prices, so understanding the environment — energy prices, airline order flows, construction spending — helps predict how the company will perform.
+Pay attention to what management says about competition, particularly in software. Honeywell's CEO and CFO will discuss how the company is winning in building technologies and whether new competitors are taking share. Finally, watch the broader industrial sector. Honeywell tends to move with the economic cycle and with commodity prices, so understanding the environment — energy prices, airline order flows, [construction spending](/construction-spending/) — helps predict how the company will perform.

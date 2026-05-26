@@ -17,7 +17,7 @@ Tetra Tech is an engineering and consulting company that designs infrastructure,
 
 Tetra Tech was founded in 1966 as a small consulting firm in Pasadena, California, focused initially on water resource consulting and environmental engineering. Through the 1970s and 1980s, the firm grew by advising government agencies on water-treatment design, dam operations, and the emerging field of environmental impact assessment. The business was niche but defensible: governments needed expert advice on water and environment, and regulatory agencies required studies and designs before major projects could proceed.
 
-The turning point came with the expansion of environmental regulation in the United States and globally. The Clean Water Act, Superfund (the program to remediate contaminated sites), and the Resource Conservation and Recovery Act created billions of dollars in demand for firms that could assess contamination, design remediation, and advise on compliance. Tetra Tech built capabilities in each of these areas and grew through acquisitions of smaller regional environmental consultancies.
+The turning point came with the expansion of environmental regulation in the United States and globally. The Clean Water Act, Superfund (the program to remediate contaminated sites), and the Resource Conservation and Recovery Act created billions of dollars in demand for firms that could assess contamination, design remediation, and advise on compliance. Tetra Tech built capabilities in each of these areas and grew through [acquisitions](/acquisition/) of smaller regional environmental consultancies.
 
 From the 1990s onward, the company expanded internationally, particularly into developing-market infrastructure where water scarcity and poor sanitation were immediate problems. It also began to serve private clients, particularly mining and energy companies that generate environmental liabilities and need to manage them. By the early 2000s, Tetra Tech had evolved from a niche consultant into a diversified engineer and advisor on water, environment, and sustainability—still substantially smaller than Fluor, Bechtel, or other engineering megacaps, but with deeper expertise in a focused domain.
 
@@ -35,19 +35,19 @@ Private-sector clients—mining companies, oil and gas operators, utilities, and
 
 Tetra Tech's competitive advantage rests on several factors. First, reputation and long-term relationships: governments and utilities have worked with the firm for decades and know it delivers. The firm has also invested heavily in technical expertise—hydrogeologists, water engineers, environmental scientists, climate modelers—that competitors cannot easily replicate. Third, the company has a geographic and functional diversity that lets it win large, complex projects that span multiple countries or disciplines; a mining company needing remediation, water management, and climate risk assessment is more likely to hire Tetra Tech than to stitch together multiple specialists.
 
-The barrier to entry is real but not insurmountable. Any large consulting firm—McKinsey, Bain, Accenture—could theoretically hire environmental experts and bid on water projects. But Tetra Tech has deeper domain expertise and institutional knowledge, and switching costs in long-term government and utility relationships are high.
+The barrier to entry is real but not insurmountable. Any large consulting firm—McKinsey, Bain, [Accenture](/acn-stock/)—could theoretically hire environmental experts and bid on water projects. But Tetra Tech has deeper domain expertise and institutional knowledge, and switching costs in long-term government and utility relationships are high.
 
 ## Growth drivers and market tailwinds
 
 Water stress is a global megatrend. The United Nations, World Bank, and IMF have all flagged water security as a critical infrastructure challenge; many regions face both scarcity and quality issues. Investment in water infrastructure, particularly in emerging markets, is likely to remain elevated for decades.
 
-Climate adaptation and resilience spending is accelerating. Governments are investing in flood control, stormwater management, and water conservation as climate change drives more extreme precipitation and drought. The Inflation Reduction Act in the U.S. includes billions in climate adaptation funding; the European Union is allocating capital to water and nature restoration. This spending is structural, not cyclical.
+Climate adaptation and resilience spending is accelerating. Governments are investing in flood control, stormwater management, and water conservation as climate change drives more extreme precipitation and drought. The [Inflation](/inflation/) Reduction Act in the U.S. includes billions in climate adaptation funding; the European Union is allocating capital to water and nature restoration. This spending is structural, not cyclical.
 
 Finally, corporate environmental, social, and governance (ESG) demands are driving private-sector spending on environmental assessments, remediation, and climate risk management. This trend is nascent but growing.
 
 ## Risks and vulnerabilities
 
-Tetra Tech is exposed to government spending cycles. A shift in political priorities or a recession that constrains public budgets can reduce consulting spending even as the long-term trends remain favorable. The company is also dependent on winning competitive bids; a major loss in a large contract or a region where the firm has deep ties could pressure margins.
+Tetra Tech is exposed to government spending cycles. A shift in political priorities or a [recession](/recession/) that constrains public budgets can reduce consulting spending even as the long-term trends remain favorable. The company is also dependent on winning competitive bids; a major loss in a large contract or a region where the firm has deep ties could pressure margins.
 
 Execution risk is real. Large, multi-year international projects can encounter delays, cost overruns, or complexity that compresses margins. The company manages this through experience and disciplined project controls, but projects are inherently uncertain.
 
@@ -57,6 +57,6 @@ Start with the 10-K filing (SEC CIK 0000831641) to understand the revenue mix by
 
 Pay attention to gross margins and operating leverage. As the company grows, do fixed costs (like infrastructure and management) leverage effectively? Are higher-margin contracts being won?
 
-On the earnings call, listen for color on the competitive environment, win rates on major bids, and the health of the project pipeline. Track international revenue as a percentage of the total; geographic diversification reduces exposure to any single country's economic cycle. Watch for any commentary on client financial health, particularly for overseas projects; if a development bank or utility client faces fiscal stress, it may delay projects.
+On the earnings call, listen for color on the competitive environment, win rates on major bids, and the health of the project pipeline. Track international revenue as a percentage of the total; geographic [diversification](/diversification/) reduces exposure to any single country's economic cycle. Watch for any commentary on client financial health, particularly for overseas projects; if a development bank or utility client faces fiscal stress, it may delay projects.
 
 The company benefits from a wave of climate investment and water-infrastructure modernization that is likely to persist for years. Understanding what portion of revenue comes from durable, long-term trends versus cyclical consulting work is key to assessing the durability of the business.

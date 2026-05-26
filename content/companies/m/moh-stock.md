@@ -49,7 +49,7 @@ The health insurance marketplace (the exchange plans sold via the Affordable Car
 
 ### Competitive positioning and scale
 
-Molina is one of four large national managed-care companies, alongside UnitedHealth, Anthem, and Centene. UnitedHealth is vastly larger and more diversified; Anthem is large and also diversified; Centene is comparable in size and also heavily focused on Medicaid. Within the managed-care space, Molina competes primarily on state-by-state Medicaid contract wins, on the quality metrics that states and the federal government now mandate, and on the company's reputation for managing networks efficiently.
+Molina is one of four large national managed-care companies, alongside [UnitedHealth](/unh-stock/), Anthem, and Centene. UnitedHealth is vastly larger and more diversified; Anthem is large and also diversified; Centene is comparable in size and also heavily focused on Medicaid. Within the managed-care space, Molina competes primarily on state-by-state Medicaid contract wins, on the quality metrics that states and the federal government now mandate, and on the company's reputation for managing networks efficiently.
 
 The company's competitive strength lies in its track record of winning and renewing state Medicaid contracts, its local presence in key states, and its organizational capability in cost management. The risks include reliance on Medicaid (vulnerable to disenrollment and rate pressure), sensitivity to state budget cycles, and competition from larger, more diversified rivals that can subsidize lower margins in certain markets.
 
@@ -57,6 +57,6 @@ The company's competitive strength lies in its track record of winning and renew
 
 Molina's profitability swings with enrollment, medical-loss ratios, and administrative efficiency. The company reports quarterly earnings organized by segment (Medicaid, Medicare, marketplace) with enrollment, premium per member per month (PMPM), and medical loss ratio by segment. The annual 10-K (SEC CIK 0001179929) details state-by-state enrollment, contract renewals, and rate trends.
 
-Key metrics for investors: total medical enrollment (trend up or down), medical loss ratios by segment (tight means profitable, wide means losses), administrative cost ratio (lower is better), and state contract renewals (wins or losses). The company's debt levels and capital return (dividends and buybacks) signal how confident management is in sustainable profitability.
+Key metrics for investors: total medical enrollment (trend up or down), medical loss ratios by segment (tight means profitable, wide means losses), administrative cost ratio (lower is better), and state contract renewals (wins or losses). The company's debt levels and capital return ([dividends](/dividend/) and buybacks) signal how confident management is in sustainable profitability.
 
 Molina's future depends on whether it can maintain scale in Medicaid despite enrollment volatility, whether Medicare Advantage remains a profitable growth segment, and whether the company can differentiate itself on quality and cost management in an increasingly competitive field. The business is fundamental to healthcare delivery but operates in a low-margin, government-regulated space where small changes in policy or state budgets can materially affect results.

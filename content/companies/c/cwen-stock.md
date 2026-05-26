@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Clearway Energy — trading as CWEN on the stock exchange — is an independent power producer specialising in renewable energy. It owns solar farms and wind farms across the United States, generating electricity and selling it under long-term contracts. The company is structured to generate stable, predictable cash flow from its operating assets rather than to bet on rapid growth or technology change.*
+*Clearway Energy — trading as CWEN on the [stock exchange](/stock-exchange/) — is an independent power producer specialising in renewable energy. It owns solar farms and wind farms across the United States, generating electricity and selling it under long-term contracts. The company is structured to generate stable, predictable cash flow from its operating assets rather than to bet on rapid growth or technology change.*
 
 ## The solar generation business
 
@@ -35,15 +35,15 @@ Not all of Clearway's generation is under contract. Some facilities sell power i
 
 ## Ownership and capital structure
 
-Clearway was spun out from NRG Energy (a power company) in 2016 as a standalone company focused on operating lower-risk, renewable, contracted assets. The company has grown partly by buying existing renewable projects from other developers and owners, and partly by developing new ones. Growth is capital-intensive — each megawatt of new solar or wind capacity costs millions in construction and equipment.
+Clearway was spun out from [NRG Energy](/nrg-stock/) (a power company) in 2016 as a standalone company focused on operating lower-risk, renewable, contracted assets. The company has grown partly by buying existing renewable projects from other developers and owners, and partly by developing new ones. Growth is capital-intensive — each megawatt of new solar or wind capacity costs millions in construction and equipment.
 
-The company funds growth through a mix of cash from operations, debt (secured borrowings against the cash flows of its assets), and equity. It is structured as a corporation, not a REIT, so it retains earnings and reinvests rather than being forced to distribute 90 percent of taxable income like a REIT. This gives management more flexibility in timing new projects and acquisitions.
+The company funds growth through a mix of cash from operations, debt (secured borrowings against the cash flows of its assets), and equity. It is structured as a corporation, not a REIT, so it retains earnings and reinvests rather than being forced to distribute 90 percent of taxable income like a REIT. This gives management more flexibility in timing new projects and [acquisitions](/acquisition/).
 
 ## Return on capital and risk profile
 
 The return on capital — what Clearway earns on the money it invests in new projects — is moderate and determined largely by the term of the power purchase agreement. If a solar project is built for $100 million and will earn $8 million per year in operating cash flow for 20 years, the return is modest but stable. As the PPA ages, the project becomes less valuable (fewer years of cash left), which is why Clearway focuses on adding new projects with long-term contracts ahead of it.
 
-The risks are accordingly modest but real. Construction risk comes during build-out — delays or cost overruns can reduce returns. Operational risk includes unexpected outages or maintenance costs that eat into margins. Regulatory risk includes changes to power market rules, grid operators' dispatch rules, or the tax credits that make projects economical. Weather risk is implicit — an unusually windy or sunny year boosts generation, but a dry or calm year reduces it, though long-term contracts often protect against this via take-or-pay provisions.
+The risks are accordingly modest but real. Construction risk comes during build-out — delays or cost overruns can reduce returns. [Operational risk](/operational-risk/) includes unexpected outages or maintenance costs that eat into margins. Regulatory risk includes changes to power market rules, grid operators' dispatch rules, or the tax credits that make projects economical. Weather risk is implicit — an unusually windy or sunny year boosts generation, but a dry or calm year reduces it, though long-term contracts often protect against this via take-or-pay provisions.
 
 The energy transition creates both opportunity and risk. If renewable energy becomes cheaper relative to fossil fuels, PPAs that locked in high prices may be seen as above-market, creating opportunities to refinance at lower rates. If carbon pricing or grid-reliability rules change in ways that favour renewables, demand for long-term contracts rises. Conversely, if renewable technology becomes vastly cheaper, existing projects could face pressure to renegotiate prices.
 
@@ -55,6 +55,6 @@ Clearway's economics depend significantly on US federal support for renewable en
 
 Investors studying Clearway should begin with its annual 10-K (CIK 0001567683) and quarterly reports, which detail the portfolio of generation facilities by technology and state, along with the contract book — how much revenue is locked in by long-term agreement and for how many years. The reports also break down cash available for distribution, which is the key metric for valuing an infrastructure company.
 
-Key metrics include generation volume (megawatt-hours produced), average selling price (revenue per MWh across all sales), and adjusted EBITDA (earnings before tax, depreciation, and interest — a standard measure of cash-generation capacity). The PPA book detail shows what fraction of revenue is contracted, what price, and for how many years — that is the predictability component. Debt levels and interest coverage indicate financial stability and how much cash flows to equity holders after debt service.
+Key metrics include generation volume (megawatt-hours produced), average selling price (revenue per MWh across all sales), and adjusted [EBITDA](/ebitda/) (earnings before tax, [depreciation](/depreciation/), and interest — a standard measure of cash-generation capacity). The PPA book detail shows what fraction of revenue is contracted, what price, and for how many years — that is the predictability component. Debt levels and interest coverage indicate financial stability and how much cash flows to equity holders after debt service.
 
 Clearway is a pure-play renewable power asset operator: low-growth, stable cash flow, minimal commodity exposure (because PPAs lock in prices), and dependent on continuing policy support for renewable energy. It suits investors seeking predictable, inflation-linked income from infrastructure assets.

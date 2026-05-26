@@ -46,9 +46,9 @@ The portfolio expansion reflects the company's effort to participate in a evolvi
 
 ## Capital structure and cash flow
 
-Primo is not highly leveraged historically but has carried a modest amount of debt to fund acquisitions and to support working capital (the company must finance inventory and receivables before cash is collected). The business generates relatively strong cash flow because the water-cooler segment produces recurring revenue with low variable costs once the delivery network is in place.
+Primo is not highly leveraged historically but has carried a modest amount of debt to fund [acquisitions](/acquisition/) and to support working capital (the company must finance inventory and receivables before cash is collected). The business generates relatively strong cash flow because the water-cooler segment produces recurring revenue with low variable costs once the delivery network is in place.
 
-The company's capital allocation has historically balanced reinvestment in the business (building out delivery networks, acquiring complementary brands) with modest shareholder returns (dividends and limited share repurchases). Because the water business is relatively stable and lower-growth compared to technology or biotech, investors in Primo typically expect a steady, dividend-paying business rather than rapid growth.
+The company's capital allocation has historically balanced reinvestment in the business (building out delivery networks, acquiring complementary brands) with modest shareholder returns ([dividends](/dividend/) and limited share repurchases). Because the water business is relatively stable and lower-growth compared to technology or biotech, investors in Primo typically expect a steady, dividend-paying business rather than rapid growth.
 
 ## How to research Primo Brands
 

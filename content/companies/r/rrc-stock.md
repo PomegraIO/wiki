@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does Range Resources do?
 
-Range Resources finds, extracts, and sells natural gas and oil from underground reserves. The company operates primarily in the Appalachian Basin, a vast geological formation stretching across Pennsylvania, Ohio, and West Virginia that holds one of the world's largest known natural gas reserves. Range drills wells, develops the infrastructure to process and transport the gas, and sells it to utilities, power plants, and industrial users. The company is often called an "upstream" energy company because it operates at the beginning of the energy supply chain — finding and extracting raw materials rather than refining them or selling them to consumers. Revenues depend directly on commodity prices; when natural gas and oil prices rise, so do Range's profits. When prices fall, so do profits, sometimes sharply.
+Range Resources finds, extracts, and sells [natural gas](/natural-gas/) and oil from underground reserves. The company operates primarily in the Appalachian Basin, a vast geological formation stretching across Pennsylvania, Ohio, and West Virginia that holds one of the world's largest known natural gas reserves. Range drills wells, develops the infrastructure to process and transport the gas, and sells it to utilities, power plants, and industrial users. The company is often called an "upstream" energy company because it operates at the beginning of the energy supply chain — finding and extracting raw materials rather than refining them or selling them to consumers. Revenues depend directly on commodity prices; when natural gas and oil prices rise, so do Range's profits. When prices fall, so do profits, sometimes sharply.
 
 ## The Marcellus and Utica shales
 
@@ -29,13 +29,13 @@ The cost structure includes finding and development capital (drilling new wells)
 
 ## A regional commodity play
 
-What distinguishes Range from some other large energy companies is its focus. Range is primarily a natural gas producer in a specific region, not a diversified energy giant. Competitors like ExxonMobil or Chevron have operations in oil and gas across the world, renewable energy investments, and refining businesses. Range has core competency in Appalachian gas development but is much less geographically diversified. This focus is an advantage in operational expertise but a disadvantage in commodity price risk — if natural gas prices fall globally, Range has nowhere else to turn, whereas a diversified company might offset weakness in one commodity or region with strength in another.
+What distinguishes Range from some other large energy companies is its focus. Range is primarily a natural gas producer in a specific region, not a diversified energy giant. Competitors like ExxonMobil or [Chevron](/cvx-stock/) have operations in oil and gas across the world, renewable energy investments, and refining businesses. Range has core competency in Appalachian gas development but is much less geographically diversified. This focus is an advantage in operational expertise but a disadvantage in commodity price risk — if natural gas prices fall globally, Range has nowhere else to turn, whereas a diversified company might offset weakness in one commodity or region with strength in another.
 
 ## Capital intensity and cash flow
 
 Like all upstream energy companies, Range is capital-intensive. Maintaining production requires continuous drilling of replacement wells because existing wells deplete. In a downturn, when commodity prices are low, Range still must spend capital to maintain its production base, otherwise the company will shrink rapidly and struggle to survive the cycle. This creates a challenging dynamic in poor pricing environments: the company might generate little or no cash flow, yet must spend heavily on capital to avoid production collapse.
 
-During good price environments, Range can generate strong cash flow and must decide whether to return it to shareholders through dividends and buybacks, reinvest in growth, pay down debt, or build cash reserves. The company has historically been an aggressive growth investor during booms, drilling as much as it could to build production. That strategy can work if commodity prices stay strong, but it leaves the company vulnerable if prices collapse — which they regularly do in energy markets.
+During good price environments, Range can generate strong cash flow and must decide whether to return it to shareholders through [dividends](/dividend/) and buybacks, reinvest in growth, pay down debt, or build cash reserves. The company has historically been an aggressive growth investor during booms, drilling as much as it could to build production. That strategy can work if commodity prices stay strong, but it leaves the company vulnerable if prices collapse — which they regularly do in energy markets.
 
 ## The natural gas market
 

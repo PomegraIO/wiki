@@ -50,13 +50,13 @@ Reimbursement is critical: without insurance coverage, volume is very low. Nater
 
 ## Competition and the platform advantage
 
-Natera competes with other prenatal testing companies (Illumina's NIPT product, among others) and with emerging oncology players offering ctDNA tests. The competition in prenatal testing is fierce because the market is mature and many players have entered. In oncology, Natera is not alone—companies like Guardant Health and Foundation Medicine also offer ctDNA tests—but Natera has the advantage of moving early and achieving scale.
+Natera competes with other prenatal testing companies (Illumina's NIPT product, among others) and with emerging oncology players offering ctDNA tests. The competition in prenatal testing is fierce because the market is mature and many players have entered. In oncology, Natera is not alone—companies like [Guardant Health](/gh-stock/) and Foundation Medicine also offer ctDNA tests—but Natera has the advantage of moving early and achieving scale.
 
 The platform advantage is real: the core capability is the ability to process and interpret cell-free DNA, and that applies across multiple indications. A company that is good at enriching and sequencing cfDNA and interpreting the results can apply that skill to prenatal, oncology, and transplant. Natera's moat, if it exists, is in the breadth of its test menu and the scale of its laboratory operations, which allow it to absorb costs across multiple revenue streams.
 
 ## Financial trajectory and path to profitability
 
-Natera has a long history of investing ahead of revenue, running operating losses as it builds out its laboratory, expands reimbursement, and launches new test indications. The company is heavily dependent on its ability to raise capital—either through equity offerings or via credit—to fund the gap between cash burn and revenue. In bull markets, this is manageable; in downturns, growth-stage biotechnology companies can face pressure.
+Natera has a long history of investing ahead of revenue, running operating losses as it builds out its laboratory, expands reimbursement, and launches new test indications. The company is heavily dependent on its ability to raise capital—either through equity offerings or via credit—to fund the gap between cash burn and revenue. In [bull markets](/bull-market/), this is manageable; in downturns, growth-stage biotechnology companies can face pressure.
 
 The company's path to profitability depends on volume growth: if volume scales fast enough, the high gross margins on tests will eventually cover the fixed costs of the laboratory and the company becomes profitable. This has been the long-term goal since the company's founding, and Natera has moved progressively closer to breakeven in recent years as revenue has grown. Achieving and sustaining profitability is the critical inflection point for the business.
 

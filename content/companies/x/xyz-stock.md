@@ -43,7 +43,7 @@ This is a differentiator in fintech: most traditional payment processors avoid c
 
 Square's original edge was horizontal integration — the same company offering POS, payroll, lending, and cash management to small merchants, versus Stripe (whose core is payment APIs), Toast (restaurant-specific POS), or Guidepoint (loans). That vertical bundling creates switching costs and increases lifetime value per merchant.
 
-Against PayPal and traditional acquirers, Square has always emphasized smaller merchants and underserved segments (cash businesses, gig workers via Cash App) rather than competing head-to-head for Fortune 500 volume. As Square matured and added enterprise features, it moved upmarket, but smaller-business penetration remains a core strength.
+Against [PayPal](/pypl-stock/) and traditional acquirers, Square has always emphasized smaller merchants and underserved segments (cash businesses, gig workers via Cash App) rather than competing head-to-head for Fortune 500 volume. As Square matured and added enterprise features, it moved upmarket, but smaller-business penetration remains a core strength.
 
 The tension is real: fintech BNPL and consumer payments are crowded. Stripe, Toast, and others have built similar ecosystems. Block's edge is less about being the only option and more about the breadth of its offering, the loyalty of early adopters, and (still) the technical quality of its products. Whether that's enough against better-capitalized competitors and the weight of its Afterpay carry remains an open question.
 

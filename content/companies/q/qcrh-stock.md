@@ -37,7 +37,7 @@ This regional focus is also a constraint. QCR cannot compete nationally on digit
 
 As a bank holding company, QCR is regulated by the [Federal Reserve](/wiki/federal-reserve/) and subject to capital and liquidity requirements. The company maintains a solid capital base, though like all banks it benefits from higher [interest rates](/interest-rate/) (wider net-interest margin) and is pressured by lower rates and inverted [yield curves](/wiki/yield-curve/). The company's credit quality is tied to the economic health of its lending markets; [recessions](/recession/) or local downturns would show up in non-performing loans and loan-loss provisions.
 
-Interest-rate sensitive, a mid-cap regional player without exotic risk appetite, QCR trades on straightforward metrics: [return on equity](/wiki/return-on-equity/), [loan-to-deposit ratios](/wiki/loan-to-deposit-ratio/), and net-interest margin. Investors typically monitor [10-K filings](/wiki/10-k/) for trends in loan growth, deposit stability, efficiency ratios (how much of revenue goes to operating costs), and the outlook for credit quality. The LIHTC business provides some insulation from rate movements but is small enough not to eliminate sensitivity.
+Interest-rate sensitive, a mid-cap regional player without exotic risk appetite, QCR trades on straightforward metrics: [return on equity](/wiki/return-on-equity/), loan-to-deposit ratios, and net-interest margin. Investors typically monitor [10-K filings](/wiki/10-k/) for trends in loan growth, deposit stability, efficiency ratios (how much of revenue goes to operating costs), and the outlook for credit quality. The LIHTC business provides some insulation from rate movements but is small enough not to eliminate sensitivity.
 
 ## How to Research It
 

@@ -15,7 +15,7 @@ handwritten: true
 
 Atlassian builds software tools that help teams, particularly software-development teams, organize work and collaborate. Its flagship product is Jira, a tool that tracks software bugs, features, and tasks. Confluence is a wiki and document-collaboration platform. Trello is a simpler, visual task-management tool. Bitbucket is a code repository. Together, these products serve millions of users across millions of organizations, from small startups to Fortune 500 companies.
 
-The company was founded in 2002 in Sydney, Australia, by Mike Cannon-Brookes and Scott Farquhar, two computer-science graduates who started by building tools they themselves needed. Jira began as a bug-tracking system; Confluence came later as a place to document team knowledge. For years Atlassian was a quiet, profitable company that sold almost exclusively through a direct-sales model and grew without taking venture capital. The company went public on the NASDAQ in 2015 at a valuation that seemed extravagant to many; the stock has since split multiple times and risen sharply, proving the skeptics wrong.
+The company was founded in 2002 in Sydney, Australia, by Mike Cannon-Brookes and Scott Farquhar, two computer-science graduates who started by building tools they themselves needed. Jira began as a bug-tracking system; Confluence came later as a place to document team knowledge. For years Atlassian was a quiet, profitable company that sold almost exclusively through a direct-sales model and grew without taking venture capital. The company went public on the [NASDAQ](/nasdaq/) in 2015 at a valuation that seemed extravagant to many; the stock has since split multiple times and risen sharply, proving the skeptics wrong.
 
 <aside class="wiki-infobox">
 <table>
@@ -46,7 +46,7 @@ The business has the hallmarks of a successful software-as-a-service company. Su
 
 ## Where has Atlassian expanded?
 
-In recent years, Atlassian has made two types of moves: acquisitions and organic product development.
+In recent years, Atlassian has made two types of moves: [acquisitions](/acquisition/) and organic product development.
 
 Acquisitions have brought new products into the fold. The company bought Trello (a visual task-management tool), StatusPage (infrastructure monitoring and incident communication), Opsgenie (incident-alerting software), and Jira Service Management (help-desk and IT-service-management software). Each of these serves a different persona or use case — Trello for non-technical teams and product managers, Opsgenie for DevOps and operations, Jira Service Management for IT and customer support — and allows Atlassian to sell into new use cases and departments within existing customers.
 
@@ -58,7 +58,7 @@ The core tension is growth versus profitability. Atlassian is no longer a high-g
 
 A second tension is between the existing installed base and new geographies. The company is strong in North America, Europe, and Australia; it is far smaller in Asia-Pacific, where software-development markets are growing fastest. Building presence there requires investment and time.
 
-Third is the competition from both direct rivals and from large technology companies. Microsoft, Google, and Amazon all have development tools and could bundle them with cloud services to pressure Atlassian's pricing. So far, that has not happened at scale, but it is a long-term risk.
+Third is the competition from both direct rivals and from large technology companies. [Microsoft](/msft-stock/), Google, and Amazon all have development tools and could bundle them with cloud services to pressure Atlassian's pricing. So far, that has not happened at scale, but it is a long-term risk.
 
 ## What should an investor understand about Atlassian?
 

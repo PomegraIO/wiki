@@ -27,4 +27,4 @@ The company's technology foundation rests on cloud infrastructure, machine learn
 
 Growth depends on deepening penetration in core verticals and capturing emerging applications—climate resilience simulation in construction, digital twins in manufacturing, and AI-assisted design workflows across all disciplines. Competition persists from free or low-cost alternatives (open-source tools, parametric CAD engines, game engines with free tiers), especially at entry levels, though Autodesk's brand strength, switching costs, and professional-grade feature depth have insulated its market position. The company's longer-term success hinges on executing the subscription transition without alienating legacy customers while proving that cloud-native tools deliver genuine collaboration gains and lower total project costs—a promise that remains partially unproven at enterprise scale.
 
-See also: [10-K](/wiki/10-k/) filings, [software-as-a-service](/wiki/software-as-a-service/) economics, [public company](/wiki/public-company/) structures.
+See also: [10-K](/wiki/10-k/) filings, software-as-a-service economics, [public company](/wiki/public-company/) structures.

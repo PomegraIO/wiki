@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TIM S.A. is Brazil's principal second-place wireless carrier, delivering mobile, fixed-line, internet, and data services to more than 60 million customers across the country. The company trades on the New York Stock Exchange as TIMB and maintains a listing on Brazil's B3 exchange under the symbol TIMS3. Telecom Italia, the Italian telecommunications group, owns a controlling stake, while public investors hold the remaining equity through free float.
+TIM S.A. is Brazil's principal second-place wireless carrier, delivering mobile, fixed-line, internet, and data services to more than 60 million customers across the country. The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) as TIMB and maintains a listing on Brazil's B3 exchange under the symbol TIMS3. Telecom Italia, the Italian telecommunications group, owns a controlling stake, while public investors hold the remaining equity through free float.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ TIM S.A. is Brazil's principal second-place wireless carrier, delivering mobile,
 
 ## A mobile market compressed by competition
 
-Brazil's wireless industry is one of the most competitive in the world. Three major operators—Vivo, Claro, and TIM—dominate the landscape, with TIM consistently holding second place. The sector is capital-intensive, requiring constant investment in spectrum acquisition and network modernisation to remain relevant. TIM operates under perpetual pressure to defend its market position through technology parity, brand loyalty, and cost management. Unit growth in mobile subscribers is slow; competition revolves around customer retention and share-of-wallet rather than expanding the total addressable market.
+Brazil's wireless industry is one of the most competitive in the world. Three major operators—Vivo, Claro, and TIM—dominate the landscape, with TIM consistently holding second place. The sector is capital-intensive, requiring constant investment in spectrum [acquisition](/acquisition/) and network modernisation to remain relevant. TIM operates under perpetual pressure to defend its market position through technology parity, brand loyalty, and cost management. Unit growth in mobile subscribers is slow; competition revolves around customer retention and share-of-wallet rather than expanding the total addressable market.
 
 ## The three-pillar strategy
 
@@ -44,12 +44,12 @@ The company competes on network availability more than on leading-edge performan
 
 Like all telecoms, TIM is bounded by the physics of radio spectrum and the costs of maintaining or upgrading infrastructure. Brazil's regulators control spectrum auctions, which determine the frequencies and total capacity available to each operator and shape the competitive dynamics for the coming decade. Licensing fees are substantial; so are site maintenance, backhaul, and energy costs. Margins are compressed by intense price competition in the consumer segment and held up only by higher-margin B2B contracts and broadband bundles.
 
-Currency exposure is structural. TIM reports earnings in Brazilian Real, a volatile currency; USD debt service creates recurring foreign-exchange headwinds. Macroeconomic slowdowns in Brazil ripple through the customer base, especially lower-income subscribers who reduce data spending during recessions.
+Currency exposure is structural. TIM reports earnings in Brazilian Real, a volatile currency; USD debt service creates recurring foreign-exchange headwinds. Macroeconomic slowdowns in Brazil ripple through the customer base, especially lower-income subscribers who reduce data spending during [recessions](/recession/).
 
 ## Ownership and strategic tension
 
-The relationship between Telecom Italia and TIM Brasil is not seamless. TIM Italien is itself under pressure in Europe and has used TIM Brasil dividends to fund its home-country turnaround, creating an occasional mismatch between what TIM Brasil's operations could support and what the parent company extracts. Investment decisions sometimes reflect Italian strategic needs rather than Brazilian market opportunity.
+The relationship between Telecom Italia and TIM Brasil is not seamless. TIM Italien is itself under pressure in Europe and has used TIM Brasil [dividends](/dividend/) to fund its home-country turnaround, creating an occasional mismatch between what TIM Brasil's operations could support and what the parent company extracts. Investment decisions sometimes reflect Italian strategic needs rather than Brazilian market opportunity.
 
 ## How investors research TIM
 
-Start with the annual 10-K filing (SEC CIK 0001826168), which discloses TIM's segment revenue, customer churn rates, and capital expenditure plans. Quarterly earnings calls include colour on network investment pacing, B2B win rates, and pricing environment. Watch the trajectory of customer additions in mobile against the rate of customer defection; net adds or churn is the clearest signal of competitive position. Monitor the Brazilian real exchange rate, which affects reported dollar earnings for USD bond holders. Spectrum auction announcements and the terms of new licenses are material; they reset the competitive and financial landscape for years ahead.
+Start with the annual 10-K filing (SEC CIK 0001826168), which discloses TIM's segment revenue, customer churn rates, and capital expenditure plans. Quarterly earnings calls include colour on network investment pacing, B2B win rates, and pricing environment. Watch the trajectory of customer additions in mobile against the rate of customer defection; net adds or churn is the clearest signal of competitive position. Monitor the Brazilian [real exchange rate](/real-exchange-rate/), which affects reported dollar earnings for USD [bond](/bond/) holders. Spectrum auction announcements and the terms of new licenses are material; they reset the competitive and financial landscape for years ahead.

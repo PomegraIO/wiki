@@ -40,7 +40,7 @@ The costs are mining and processing. The company pays people to work the mines, 
 
 ## Gold and copper are not the same business
 
-Gold and copper are different in important ways. Gold is a precious metal used mostly for jewelry and as a store of value. When people worry about the economy or inflation, they buy gold, and the price goes up. When the economy is booming and people feel safe, they buy less gold, and the price can fall.
+Gold and copper are different in important ways. Gold is a precious metal used mostly for jewelry and as a store of value. When people worry about the economy or [inflation](/inflation/), they buy gold, and the price goes up. When the economy is booming and people feel safe, they buy less gold, and the price can fall.
 
 Copper is an industrial metal used to build buildings, cars, power lines, and computers. When the economy is growing and people are building and buying things, copper demand rises and prices go up. When the economy slows, copper demand falls and prices fall with it. Copper is more tied to economic growth than gold is.
 

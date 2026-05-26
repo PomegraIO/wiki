@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Riot Platforms — trading as RIOT on the stock exchange — began in 2017 as Riot Blockchain, a company founded to participate in the cryptocurrency boom. It pivoted several times through the tumultuous blockchain era but settled in 2021–2022 into its current form: a pure-play bitcoin mining operation, operating sprawling data centres filled with specialised computing hardware that performs the energy-intensive work of validating bitcoin transactions and generating new bitcoin as a reward.*
+*Riot Platforms — trading as RIOT on the [stock exchange](/stock-exchange/) — began in 2017 as Riot Blockchain, a company founded to participate in the cryptocurrency boom. It pivoted several times through the tumultuous blockchain era but settled in 2021–2022 into its current form: a pure-play [bitcoin](/bitcoin/) mining operation, operating sprawling data centres filled with specialised computing hardware that performs the energy-intensive work of validating bitcoin transactions and generating new bitcoin as a reward.*
 
 ## From diversified blockchain to pure mining focus
 
@@ -31,15 +31,15 @@ Riot's revenue is simply bitcoin — the company mines some quantity of bitcoin 
 
 ## Costs and the economics of the operation
 
-Operating costs are dominated by electricity. A bitcoin ASIC might cost $5,000 and consume 1 kilowatt continuously. Over a multi-year useful life, the electricity cost dwarfs the hardware cost. Riot's profitability depends on two things: the bitcoin price (higher is better) and the cost of electricity (lower is better). In locations where electricity is cheap — thanks to hydropower, natural gas, or industrial surplus capacity — mining is profitable. In places where electricity is expensive, it is not.
+Operating costs are dominated by electricity. A bitcoin ASIC might cost $5,000 and consume 1 kilowatt continuously. Over a multi-year useful life, the electricity cost dwarfs the hardware cost. Riot's profitability depends on two things: the bitcoin price (higher is better) and the cost of electricity (lower is better). In locations where electricity is cheap — thanks to hydropower, [natural gas](/natural-gas/), or industrial surplus capacity — mining is profitable. In places where electricity is expensive, it is not.
 
 Riot has pursued electricity arbitrage aggressively, locating facilities in regions with cheap power or negotiating power contracts with industrial-scale pricing. The company has also explored renewable power sources and sustainable mining narratives, partly because Bitcoin's energy consumption draws regulatory and environmental scrutiny.
 
-Other operating costs include labour (technicians to maintain hardware), facility maintenance, property taxes, and depreciation of the ASIC machines themselves. ASICs have a useful life of roughly 3–5 years before they become obsolete (newer models are faster), so the company must continuously reinvest to keep its fleet competitive. If mining profitability falls, Riot must decide whether to upgrade ASICs or shut down older machines, which affects both operating costs and capital requirements.
+Other operating costs include labour (technicians to maintain hardware), facility maintenance, property taxes, and [depreciation](/depreciation/) of the ASIC machines themselves. ASICs have a useful life of roughly 3–5 years before they become obsolete (newer models are faster), so the company must continuously reinvest to keep its fleet competitive. If mining profitability falls, Riot must decide whether to upgrade ASICs or shut down older machines, which affects both operating costs and capital requirements.
 
 ## Network difficulty and the arms race
 
-Bitcoin's total network hashrate — the combined computational power of all miners — adjusts upward as new miners join and add capacity, and downward if miners exit. This mechanism, called difficulty adjustment, keeps the average time to solve each block at roughly ten minutes regardless of network size. As Riot adds capacity, it does not get richer per unit of hardware; instead, the difficulty of the mining puzzle increases, requiring more hardware to earn the same bitcoin reward. This creates a perpetual arms race: miners must continually upgrade to newer, more-efficient hardware to maintain earnings.
+Bitcoin's total network hashrate — the combined computational power of all miners — adjusts upward as new miners join and add capacity, and downward if miners exit. This mechanism, called [difficulty adjustment](/difficulty-adjustment/), keeps the average time to solve each block at roughly ten minutes regardless of network size. As Riot adds capacity, it does not get richer per unit of hardware; instead, the difficulty of the mining puzzle increases, requiring more hardware to earn the same bitcoin reward. This creates a perpetual arms race: miners must continually upgrade to newer, more-efficient hardware to maintain earnings.
 
 This dynamic makes mining a capital-intensive business disguised as a software or algorithm play. Success depends on cheap electricity and capital to fund hardware refreshes, not on breakthrough innovation. It also means that mining profitability compresses toward zero in a competitive equilibrium — only the operators with the cheapest electricity can make consistent profits over time.
 
@@ -47,11 +47,11 @@ This dynamic makes mining a capital-intensive business disguised as a software o
 
 Riot's business is directly exposed to bitcoin price volatility. When bitcoin is $60,000, mining a block worth 6 bitcoin generates $360,000 in revenue (before electricity costs). When bitcoin falls to $20,000, the same mining generates $120,000. This leverage can be dramatic. A 50 percent drop in bitcoin price cuts mining revenue in half, potentially turning a profitable operation into a loss-making one.
 
-Riot mitigates this risk partly through hedging (selling forward bitcoin expected to be mined) and partly through holding bitcoin on its balance sheet (betting that price will recover). But the core exposure remains: Riot profits when bitcoin prices are strong and loses money when they are weak, all else equal.
+Riot mitigates this risk partly through hedging (selling forward bitcoin expected to be mined) and partly through holding bitcoin on its [balance sheet](/balance-sheet/) (betting that price will recover). But the core exposure remains: Riot profits when bitcoin prices are strong and loses money when they are weak, all else equal.
 
 ## Capital-intensity and financing
 
-Mining operations require substantial upfront capital to build or acquire facilities and purchase hardware. Riot has raised capital through equity offerings, debt financing, and operational cash flow. During profitable periods, it reinvests cash into capacity expansion. During unprofitable periods, it faces choices: shut down uneconomical machines (losing potential recovery if prices rise), cut capacity and take writedowns on hardware, or continue running at a loss betting that prices recover.
+Mining operations require substantial upfront capital to build or acquire facilities and purchase hardware. Riot has raised capital through equity offerings, [debt financing](/debt-financing/), and operational cash flow. During profitable periods, it reinvests cash into capacity expansion. During unprofitable periods, it faces choices: shut down uneconomical machines (losing potential recovery if prices rise), cut capacity and take writedowns on hardware, or continue running at a loss betting that prices recover.
 
 The company's capital structure has been stressed during downturns. High debt levels make it harder to survive prolonged periods of low bitcoin prices or elevated electricity costs. This is a structural risk of the business.
 

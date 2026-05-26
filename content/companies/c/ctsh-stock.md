@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Cognizant Technology Solutions provides information-technology services, digital consulting, and business process outsourcing to enterprises worldwide.* Founded in 1994 as a small offshore IT services company, Cognizant has grown into one of the largest global IT services firms, competing with peers like Accenture, IBM's services division, and others in a fragmented but consolidating industry.
+*Cognizant Technology Solutions provides information-technology services, digital consulting, and business process outsourcing to enterprises worldwide.* Founded in 1994 as a small offshore IT services company, Cognizant has grown into one of the largest global IT services firms, competing with peers like [Accenture](/acn-stock/), IBM's services division, and others in a fragmented but consolidating industry.
 
 ## The offshore services origin story
 
@@ -21,7 +21,7 @@ This model was not original; it capitalised on a trend that a handful of pioneer
 
 ## From offshore labour arbitrage to digital transformation consulting
 
-The offshore services business in its pure form had a straightforward economics: clients paid Cognizant to supply engineers at rates substantially lower than they would pay for local staff, and Cognizant captured the spread. The model was vulnerable to several pressures: wage inflation in India as demand for IT talent rose, currency movements (when the rupee strengthened against the dollar, margins compressed), and the risk that automation or new tools could reduce the need for large offshore engineering teams altogether.
+The offshore services business in its pure form had a straightforward economics: clients paid Cognizant to supply engineers at rates substantially lower than they would pay for local staff, and Cognizant captured the spread. The model was vulnerable to several pressures: wage [inflation](/inflation/) in India as demand for IT talent rose, currency movements (when the rupee strengthened against the dollar, margins compressed), and the risk that automation or new tools could reduce the need for large offshore engineering teams altogether.
 
 By the 2010s, Cognizant and its peers began shifting from pure labour-arbitrage contracts toward higher-value services—digital strategy, cloud migration, API design, data analytics, and business transformation work. These services carry higher margins because they demand more expertise and judgment, and they are less commoditised. A company that simply needs developers can find them globally at competitive rates; a company that needs help redesigning its entire customer-service operation around mobile apps and cloud infrastructure needs a trusted partner with deep domain knowledge—and will pay a premium for that.
 
@@ -37,7 +37,7 @@ Contracts with clients are typically multi-year engagements, often on a time-and
 
 Cognizant is enormous—it has tens of thousands of employees worldwide, with large delivery centres in India, the Philippines, Mexico, Poland, and elsewhere. This scale brings efficiency in training, project logistics, and recruitment, but it also creates management complexity and cultural challenges. A company the size of Cognizant must retain and develop talent while keeping labour costs competitive; attrition rates in the industry are notoriously high, especially among junior engineers who accumulate experience and then move to in-house corporate roles or startups.
 
-The company is also concentrated among a handful of large clients. The top customers typically represent 20–30% of revenue, which creates risk: if a major client leaves or reduces spending, it takes time to backfill that revenue with new work. Diversification—both by client and by geography and industry vertical—is a constant strategic objective.
+The company is also concentrated among a handful of large clients. The top customers typically represent 20–30% of revenue, which creates risk: if a major client leaves or reduces spending, it takes time to backfill that revenue with new work. [Diversification](/diversification/)—both by client and by geography and industry vertical—is a constant strategic objective.
 
 ## The technology headwind and opportunity
 

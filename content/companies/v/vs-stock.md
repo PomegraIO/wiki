@@ -38,7 +38,7 @@ Regulatory complexity around prize drawings and gambling-adjacent mechanics crea
 
 ## Financial Profile and Research
 
-As a micro-cap public company, Versus Systems files regular [10-K](/wiki/10-k/) and [10-Q](/wiki/10-q/) reports with the [SEC](/wiki/sec-filings/) (CIK 1701963). Key metrics to watch include monthly recurring revenue (MRR) from retained customers, average revenue per contract, and customer churn rates. The company's [balance sheet](/balance-sheet/) and cash runway are relevant given the pre-profitability stage of many SaaS vendors; understanding burn rate and time-to-profitability is essential for equity holders.
+As a micro-cap public company, Versus Systems files regular [10-K](/wiki/10-k/) and 10-Q reports with the SEC (CIK 1701963). Key metrics to watch include monthly recurring revenue (MRR) from retained customers, average revenue per contract, and customer churn rates. The company's [balance sheet](/balance-sheet/) and cash runway are relevant given the pre-profitability stage of many SaaS vendors; understanding burn rate and time-to-profitability is essential for equity holders.
 
 The stock trades on [NASDAQ](/wiki/nasdaq/) under the ticker VS. Given the small [market cap](/market-capitalization/) and limited analyst coverage typical of micro-caps, investors should rely on direct regulatory filings and company guidance rather than consensus estimates. The company's ability to win multi-year renewals with existing customers and expand within established accounts will signal whether its technology is sticky enough to justify its valuation.
 

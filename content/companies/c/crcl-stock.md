@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Circle Internet Group is a San Francisco-based fintech company building stablecoins (cryptocurrencies pegged to the value of traditional currencies like the U.S. dollar) and payment infrastructure on public blockchains. The company occupies a niche at the intersection of traditional finance and cryptocurrency, operating within a regulatory environment that is still taking shape and facing technology adoption challenges that have long frustrated the crypto sector.*
+*Circle Internet Group is a San Francisco-based fintech company building [stablecoins](/stablecoin/) (cryptocurrencies pegged to the value of traditional currencies like the U.S. dollar) and payment infrastructure on [public blockchains](/public-blockchain/). The company occupies a niche at the intersection of traditional finance and cryptocurrency, operating within a regulatory environment that is still taking shape and facing technology adoption challenges that have long frustrated the crypto sector.*
 
 <aside class="wiki-infobox">
 <table>
@@ -30,11 +30,11 @@ handwritten: true
 
 Circle's history is a miniature of the entire cryptocurrency sector: multiple pivots, rebirths, venture capital pouring in, regulatory pressure, and a core business model that keeps shifting as the technology and the market mature.
 
-The company was founded in 2013 in Boston as a bitcoin wallet and peer-to-peer payment app. That product—send money to friends over the internet using bitcoin as the settlement layer—never achieved mainstream adoption. Bitcoin was too volatile, too slow, and too irrelevant to most people's lives to serve as a practical payment tool. Circle eventually pivoted to serving the emerging cryptocurrency exchange and trading industry, becoming a provider of infrastructure and liquidity services to crypto trading platforms. That made sense: if people were going to trade bitcoin and other cryptocurrencies, they needed a reliable way to move money on and off exchanges, and Circle built that plumbing.
+The company was founded in 2013 in Boston as a [bitcoin](/bitcoin/) wallet and peer-to-peer payment app. That product—send money to friends over the internet using bitcoin as the settlement layer—never achieved mainstream adoption. Bitcoin was too volatile, too slow, and too irrelevant to most people's lives to serve as a practical payment tool. Circle eventually pivoted to serving the emerging [cryptocurrency exchange](/cryptocurrency-exchange/) and trading industry, becoming a provider of infrastructure and liquidity services to crypto trading platforms. That made sense: if people were going to trade bitcoin and other cryptocurrencies, they needed a reliable way to move money on and off exchanges, and Circle built that plumbing.
 
-Then came a series of setbacks that nearly killed the company. The 2017-2018 cryptocurrency bubble and crash sent venture capital fleeing the sector. Regulatory pressure mounted. Several large crypto lending and exchange companies failed or faced enforcement action, which spoked investors about counterparty risk in the entire sector. Circle was left as a smaller player in a suddenly less-fashionable market, burning through cash.
+Then came a series of setbacks that nearly killed the company. The 2017-2018 cryptocurrency bubble and crash sent venture capital fleeing the sector. Regulatory pressure mounted. Several large crypto lending and exchange companies failed or faced enforcement action, which spoked investors about [counterparty risk](/counterparty-risk/) in the entire sector. Circle was left as a smaller player in a suddenly less-fashionable market, burning through cash.
 
-The company's survival and eventual return came through USDC, a stablecoin the company launched in partnership with Coinbase and others in 2018. A stablecoin is a cryptocurrency that is pegged to a real asset (in USDC's case, U.S. dollars held in banks) and therefore has a fixed value rather than the wild price swings of bitcoin or ethereum. The appeal is that a stablecoin functions as cryptocurrency—it can move across the internet instantly, can be held in a digital wallet, and exists on a public blockchain—but with price stability, making it actually useful for commerce and business.
+The company's survival and eventual return came through USDC, a stablecoin the company launched in partnership with Coinbase and others in 2018. A stablecoin is a cryptocurrency that is pegged to a real asset (in USDC's case, U.S. dollars held in banks) and therefore has a fixed value rather than the wild price swings of bitcoin or [ethereum](/ethereum/). The appeal is that a stablecoin functions as cryptocurrency—it can move across the internet instantly, can be held in a digital wallet, and exists on a public blockchain—but with price stability, making it actually useful for commerce and business.
 
 ## What USDC is and why it matters to Circle
 
@@ -58,7 +58,7 @@ The path to profitability likely depends on two things: scale (billions and bill
 
 ## Investors and risks
 
-Circle went public via a merger with a SPAC in 2021 and is thus a publicly traded company now, though still not profitable and still burning cash. That burn rate and the path to profitability are key metrics to watch. So is regulatory activity: any sudden change in U.S. or global regulation could materially affect the company's business model or licensing.
+Circle went public via a [merger](/merger/) with a SPAC in 2021 and is thus a publicly traded company now, though still not profitable and still burning cash. That burn rate and the path to profitability are key metrics to watch. So is regulatory activity: any sudden change in U.S. or global regulation could materially affect the company's business model or licensing.
 
 The deeper question is whether blockchain-based stablecoins will become a major component of the global financial system or whether they will remain a niche financial-services tool used primarily by crypto traders and some institutional players. That outcome depends on whether developers build compelling applications, whether traditional finance adopts blockchain as a settlement layer, and whether regulators permit and support the ecosystem. Circle's share price moves on news in all three of these domains.
 

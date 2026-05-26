@@ -17,7 +17,7 @@ The company specializes in molecular testing platforms that address hereditary a
 
 ## Business Model and Operations
 
-20/20 Biolabs generates revenue through test fees paid by healthcare providers, insurance carriers, and patients. The company's services target ophthalmologists, optometrists, and genetic counselors seeking molecular confirmation of vision-related conditions. Like other laboratory testing firms, the business depends on volume, pricing power, reimbursement rates, and operational efficiency in sample processing and result reporting. The company faces competition from larger diagnostic firms and hospital-based laboratories.
+20/20 Biolabs generates revenue through test fees paid by healthcare providers, insurance carriers, and patients. The company's services [target](/tgt-stock/) ophthalmologists, optometrists, and genetic counselors seeking molecular confirmation of vision-related conditions. Like other laboratory testing firms, the business depends on volume, pricing power, reimbursement rates, and operational efficiency in sample processing and result reporting. The company faces competition from larger diagnostic firms and hospital-based laboratories.
 
 ## Market Position
 

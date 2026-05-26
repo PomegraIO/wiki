@@ -11,7 +11,7 @@ handwritten: true
 
 ## What kind of company is this?
 
-Apple Hospitality REIT is a publicly traded [real estate investment trust](/real-estate-investment-trust/) that owns and operates hotels across the United States. Unlike traditional hotel chains that manage properties, Apple Hospitality acquires the physical real estate—the buildings—and collects rental income from third-party operators who run the day-to-day business. Most of its properties operate under major brands like Marriott, Hilton, IHG, and Wyndham, which handle the guest experience while Apple Hospitality owns the asset. As a [REIT](/wiki/reit/), it distributes most of its taxable income to shareholders as [dividends](/wiki/dividend/).
+[Apple](/aapl-stock/) Hospitality REIT is a publicly traded [real estate investment trust](/real-estate-investment-trust/) that owns and operates hotels across the United States. Unlike traditional hotel chains that manage properties, Apple Hospitality acquires the physical real estate—the buildings—and collects rental income from third-party operators who run the day-to-day business. Most of its properties operate under major brands like Marriott, Hilton, IHG, and Wyndham, which handle the guest experience while Apple Hospitality owns the asset. As a REIT, it distributes most of its taxable income to shareholders as [dividends](/wiki/dividend/).
 
 ## Where does the money come from?
 
@@ -23,7 +23,7 @@ REITs like Apple Hospitality offer income investors several advantages. They pay
 
 ## How does it compete?
 
-Apple Hospitality competes against other [hotel REITs](/hotel-reit/) (like Park Hotels & Resorts or Chatham Lodging Trust), traditional hotel chains that own properties, and private hotel operators. Success depends on acquiring quality properties at favorable prices, maintaining strong relationships with brand operators, and keeping properties in high-demand locations. Brand affiliation matters enormously—a Marriott property typically maintains higher occupancy and rates than an independent hotel, but the brand charges franchise fees that reduce the owner's net margin. The company's scale is smaller than mega-REITs like Welk Resorts Trust, but it maintains significant independent presence in key markets.
+Apple Hospitality competes against other [hotel REITs](/hotel-reit/) (like [Park Hotels & Resorts](/pk-stock/) or Chatham Lodging Trust), traditional hotel chains that own properties, and private hotel operators. Success depends on acquiring quality properties at favorable prices, maintaining strong relationships with brand operators, and keeping properties in high-demand locations. Brand affiliation matters enormously—a Marriott property typically maintains higher occupancy and rates than an independent hotel, but the brand charges franchise fees that reduce the owner's net margin. The company's scale is smaller than mega-REITs like Welk Resorts Trust, but it maintains significant independent presence in key markets.
 
 ## What's the risk profile?
 

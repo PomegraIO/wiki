@@ -26,7 +26,7 @@ Impact BioMedical is a small biotechnology company focused on discovering and pa
 
 ## The business: licensing plant-derived compounds
 
-Impact BioMedical's core platforms are derived from polyphenols, naturally occurring plant chemicals. The flagship technology is **Linebacker**, a family of small-molecule compounds derived from myricetin (a flavonoid) that are designed to target inflammatory pathways. The company has designated potential clinical applications in solid-tumor oncology, inflammatory disorders, and neurological conditions, though to date no formal trials have advanced Linebacker into human testing.
+Impact BioMedical's core platforms are derived from polyphenols, naturally occurring plant chemicals. The flagship technology is **Linebacker**, a family of small-molecule compounds derived from myricetin (a flavonoid) that are designed to [target](/tgt-stock/) inflammatory pathways. The company has designated potential clinical applications in solid-tumor oncology, inflammatory disorders, and neurological conditions, though to date no formal trials have advanced Linebacker into human testing.
 
 The second major platform, **Equivir**, is a proprietary blend of polyphenols claimed to have antiviral properties. The company intends to launch Equivir first as an over-the-counter health supplement in the United States, a regulatory pathway that requires no clinical efficacy data—only safety documentation and adherence to label claims permitted under dietary-supplement law. Equivir has been licensed to a third party under terms the company disclosed in its March 2022 agreement.
 
@@ -42,7 +42,7 @@ The Equivir supplement launch, if it occurs, would bypass this barrier: suppleme
 
 Impact BioMedical went public in September 2024 at $3.00 per share, raising $4.5 million in gross proceeds. This is a seed-stage capital raise for a company with unproven technology, no clinical track record, and no approved drugs or commercialized products. The company has no manufacturing capability of its own and must rely on contract partners for any future development or production.
 
-The core risk is that none of its polyphenol platforms will prove sufficiently safe, effective, or commercially viable to justify partner investment or consumer adoption. Even if one does, the path from licensing deal to revenue is years-long and uncertain. The company's [cash position](/wiki/cash-and-cash-equivalents/) was thin immediately after the IPO, and operating losses are to be expected for years if development proceeds at all.
+The core risk is that none of its polyphenol platforms will prove sufficiently safe, effective, or commercially viable to justify partner investment or consumer adoption. Even if one does, the path from licensing deal to revenue is years-long and uncertain. The company's cash position was thin immediately after the IPO, and operating losses are to be expected for years if development proceeds at all.
 
 Unlike companies with established drugs, revenue, or a clear path to profitability, Impact BioMedical is entirely dependent on the appeal of its intellectual property to potential partners and the luck of compound selection and clinical outcomes. This is the economic stage at which many biotech companies begin, but the bar for success is steep: most venture-backed biotech compounds never reach market.
 

@@ -38,7 +38,7 @@ The speed came at a cost: VinFast's early vehicles were not widely praised for e
 
 VinFast sells battery electric vehicles through its own dealerships in Vietnam, Europe, and the United States. Its main models are the Lux (sedans and SUVs) and the newer Vf (a mass-market line targeting more price-sensitive customers). The company also makes electric buses, electric scooters, and batteries. In terms of revenue, passenger vehicles are the focus; buses and two-wheelers are secondary. Geographically, Vietnam remains the largest market in terms of unit volume, but the company is chasing growth in North America and Western Europe — markets where EV adoption is fastest and where premium pricing might offset poor volumes.
 
-The underlying problem is that VinFast has never achieved unit volumes large enough to justify its cost structure. It is much smaller than BYD, Tesla, or even Nio, yet it maintains standalone design teams, engineering, manufacturing, and distribution in multiple countries. That overhead per vehicle sold is brutal, which is why the [10-K](/wiki/10-k/) filings show operating losses measured in billions of dollars annually.
+The underlying problem is that VinFast has never achieved unit volumes large enough to justify its cost structure. It is much smaller than BYD, [Tesla](/tsla-stock/), or even Nio, yet it maintains standalone design teams, engineering, manufacturing, and distribution in multiple countries. That overhead per vehicle sold is brutal, which is why the [10-K](/wiki/10-k/) filings show operating losses measured in billions of dollars annually.
 
 ## What is the capital situation?
 

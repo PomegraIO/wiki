@@ -14,7 +14,7 @@ SeaStar Medical Holding Corp is a clinical-stage medical-device and immunotherap
 
 ## What is the company's main technology?
 
-SeaStar's Selective Cytopheretic Device is an extracorporeal (outside the body) filtration system intended to reduce hyperinflammatory markers in blood. The device uses proprietary absorption technology to selectively extract pathological inflammatory molecules—particularly thought to be effective against cytokine-mediated conditions. Unlike broad immunosuppression, the SCD's design aims to target specific inflammatory mediators while preserving beneficial immune function.
+SeaStar's Selective Cytopheretic Device is an extracorporeal (outside the body) filtration system intended to reduce hyperinflammatory markers in blood. The device uses proprietary absorption technology to selectively extract pathological inflammatory molecules—particularly thought to be effective against cytokine-mediated conditions. Unlike broad immunosuppression, the SCD's design aims to [target](/tgt-stock/) specific inflammatory mediators while preserving beneficial immune function.
 
 The technology addresses a clinical gap: many severe hyperinflammatory conditions lack effective pharmacological treatments, and existing options often carry significant side effects. The SCD approach represents a potentially gentler, more targeted intervention for acute inflammatory crises.
 

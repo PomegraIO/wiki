@@ -61,29 +61,29 @@ The diversity of the portfolio matters because it means that no single type of c
 
 Reinsurance is a capital-intensive business. RenaissanceRe must hold substantial capital — shareholder equity — to be credible to customers (they need to know the reinsurer can actually pay claims) and to meet regulatory requirements. The company uses that capital as the foundation to write reinsurance contracts.
 
-The returns RenaissanceRe earns depend on two things: the premiums it collects relative to claims paid out, and the investment returns it earns on its capital in the meantime. In a good underwriting year (few catastrophes, high premiums), the company can earn returns on equity of 20% or more. In a bad year (major catastrophes), returns can be negative. But across the cycle, if management does its job well, the long-term return on equity should be solid — typically in the mid-teens if the company is well-run.
+The returns RenaissanceRe earns depend on two things: the premiums it collects relative to claims paid out, and the investment returns it earns on its capital in the meantime. In a good underwriting year (few catastrophes, high premiums), the company can earn returns on equity of 20% or more. In a bad year (major catastrophes), returns can be negative. But across the cycle, if management does its job well, the long-term [return on equity](/return-on-equity/) should be solid — typically in the mid-teens if the company is well-run.
 
-The company manages its capital actively: after catastrophe years when capital is depleted, it may raise new capital from investors. In quiet years with excess capital, it returns capital to shareholders through dividends and buybacks. This discipline has been important to RenaissanceRe's track record.
+The company manages its capital actively: after catastrophe years when capital is depleted, it may raise new capital from investors. In quiet years with excess capital, it returns capital to shareholders through [dividends](/dividend/) and buybacks. This discipline has been important to RenaissanceRe's track record.
 
 ## The competitive landscape and market pressures
 
-RenaissanceRe competes with other reinsurers (Munich Re, Swiss Re, Everest Re, Axis, XL Capital, and many others), traditional insurers' reinsurance subsidiaries, and increasingly with investment funds and hedge funds that want to take catastrophe risk for returns. The market is competitive but also concentrated — the largest players have advantages in capital, diversification, and distribution.
+RenaissanceRe competes with other reinsurers (Munich Re, Swiss Re, Everest Re, Axis, XL Capital, and many others), traditional insurers' reinsurance subsidiaries, and increasingly with investment funds and [hedge funds](/hedge-fund/) that want to take catastrophe risk for returns. The market is competitive but also concentrated — the largest players have advantages in capital, [diversification](/diversification/), and distribution.
 
 Pricing is the main competitive tool. All reinsurers use similar catastrophe models to estimate risk, so they tend to converge on pricing. But there is always some company willing to take risk at lower prices, which can compress margins. RenaissanceRe has largely stayed disciplined, refusing to write business at inadequate prices, which sometimes means writing less and booking lower revenue in soft markets.
 
-There is also secular pressure from investment capital. Insurance-linked securities and catastrophe bonds allow investors to take catastrophe risk directly, bypassing reinsurers. These have become more sophisticated and abundant, providing alternative capacity. RenaissanceRe has adapted by offering insurance-linked securities products of its own and by emphasising the value-add of underwriting expertise and client relationships.
+There is also secular pressure from investment capital. Insurance-linked securities and catastrophe [bonds](/bond/) allow investors to take catastrophe risk directly, bypassing reinsurers. These have become more sophisticated and abundant, providing alternative capacity. RenaissanceRe has adapted by offering insurance-linked securities products of its own and by emphasising the value-add of underwriting expertise and client relationships.
 
 ## What matters for RenaissanceRe's future
 
 The most important variable is the frequency and severity of large catastrophes. This is fundamentally unpredictable — the best actuaries can say is that, historically, major hurricanes and earthquakes occur at a certain average rate, but any given year can be quiet or catastrophic. Climate change may be shifting the distribution of risks, which is something the company must monitor closely.
 
-The second variable is interest rates. When rates are high, the investment income earned on capital is higher, which boosts returns. When rates are very low, returns are compressed. The company is ultimately fighting gravity — you cannot earn 20% returns unless catastrophes are frequent or if investment returns augment underwriting returns.
+The second variable is [interest rates](/interest-rate/). When rates are high, the investment income earned on capital is higher, which boosts returns. When rates are very low, returns are compressed. The company is ultimately fighting gravity — you cannot earn 20% returns unless catastrophes are frequent or if investment returns augment underwriting returns.
 
 Third is market pricing and competition. In soft markets (lots of capital, few catastrophes), pricing is low and returns are poor. RenaissanceRe has shown discipline in these periods, but the competitive pressure is real.
 
 ## How to research RenaissanceRe
 
-Start with the annual report (SEC CIK 0000913144), which breaks out the company's underwriting results by geography and line of business. Look for the loss ratio (claims paid relative to premiums) — a lower ratio is better; above 100% means underwriting losses. Look also for combined ratio (loss ratio plus expenses) — below 100% is profitable underwriting.
+Start with the [annual report](/10-k/) (SEC CIK 0000913144), which breaks out the company's underwriting results by geography and line of business. Look for the loss ratio (claims paid relative to premiums) — a lower ratio is better; above 100% means underwriting losses. Look also for combined ratio (loss ratio plus expenses) — below 100% is profitable underwriting.
 
 Watch the investment portfolio. Reinsurers hold large portfolios of bonds and other investments. The quality of that portfolio, the duration, and the credit quality matter. In a rising-rate environment, bond portfolios can be worth less, which impacts book value.
 

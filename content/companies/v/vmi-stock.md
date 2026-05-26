@@ -55,6 +55,6 @@ Watch the irrigation segment closely—it is where earnings surprise most often 
 
 For infrastructure, pay attention to public infrastructure spending announcements and utility capex guidance. Annual earnings calls reveal management's view of the supply-demand balance and pricing environment in utility and telecom.
 
-Valmont's [stock](/wiki/stock/) is followed by industrial and agricultural equipment analysts. Their reports often provide context on market cycles and competitive positioning. Compare Valmont's margins and return on capital to competitors like CNH Industrial (in farming equipment) and companies like AZZ, Koppers, or smaller infrastructure fabricators to understand relative competitive standing.
+Valmont's [stock](/wiki/stock/) is followed by industrial and agricultural equipment analysts. Their reports often provide context on market cycles and competitive positioning. Compare Valmont's margins and return on capital to competitors like [CNH Industrial](/cnh-stock/) (in farming equipment) and companies like AZZ, Koppers, or smaller infrastructure fabricators to understand relative competitive standing.
 
 The company trades on the [stock exchange](/wiki/stock-exchange/) with reasonable liquidity, and [balance sheet](/balance-sheet/) strength—debt levels, [cash flow conversion](/cash-flow-conversion/), capex intensity—should be part of any analysis. Valmont is not a high-growth story; it is a mature, dividend-paying industrial company competing in stable but cyclical end markets.

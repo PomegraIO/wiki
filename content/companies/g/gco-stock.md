@@ -35,7 +35,7 @@ The internet arrived, and that confidence began to erode.
 
 ## The retail problem Genesco has not solved
 
-Today, Genesco's core challenge is structural rather than cyclical: footwear, once a category that required you to visit a store and try things on, is now something most people buy online. Competitors—Amazon, Zappos, GOAT, StockX, and pure-play DTC brands from Nike and Adidas—eliminated the friction that made specialty stores sticky. A teenager can now see what Journeys has in stock without leaving her house and often find the same shoe cheaper elsewhere with free returns.
+Today, Genesco's core challenge is structural rather than cyclical: footwear, once a category that required you to visit a store and try things on, is now something most people buy online. Competitors—Amazon, Zappos, GOAT, StockX, and pure-play DTC brands from [Nike](/nke-stock/) and Adidas—eliminated the friction that made specialty stores sticky. A teenager can now see what Journeys has in stock without leaving her house and often find the same shoe cheaper elsewhere with free returns.
 
 The company has not gone away; it has shrunk and shifted. Journeys still operates hundreds of stores, most in malls, and maintains a meaningful online business. Schuh does the same in the UK and Europe. Johnston & Murphy caters to an older, less price-sensitive demographic that values heritage and fit, and still draws customers to physical locations. The wholesale division—selling branded shoes and branded collaborations through department stores and independents—remains a source of volume, though with thinner margins and shrinking retail partner counts as those traditional wholesalers have themselves contracted.
 
@@ -51,7 +51,7 @@ This is the hallmark of a cash cow in the classic sense: not a growth engine, bu
 
 ## The competitive position: squeezed between brands and platforms
 
-Genesco's position in the market is becoming increasingly narrow. At the low end, it competes against discount chains (Dick's Sporting Goods, Famous Footwear, TJ Maxx's shoe offerings) and online platforms (Amazon, Zappos, Shein) on price and convenience. At the high end, it competes against full-price DTC websites (Nike.com, Adidas.com) and luxury specialists on brand prestige and product quality. In the middle—where Journeys and Schuh live—it competes on selection, in-store experience, and brand relationships that have slowly weakened as e-commerce has eroded the need to visit a store.
+Genesco's position in the market is becoming increasingly narrow. At the low end, it competes against discount chains ([Dick's Sporting Goods](/dks-stock/), Famous Footwear, TJ Maxx's shoe offerings) and online platforms (Amazon, Zappos, Shein) on price and convenience. At the high end, it competes against full-price DTC websites (Nike.com, Adidas.com) and luxury specialists on brand prestige and product quality. In the middle—where Journeys and Schuh live—it competes on selection, in-store experience, and brand relationships that have slowly weakened as e-commerce has eroded the need to visit a store.
 
 The one genuine moat Genesco retains is the Journeys brand itself, which has real resonance among younger consumers as a destination for youth-oriented footwear and apparel collaborations. Journeys has a social media presence and a history of exclusive drops and partnerships that keeps it relevant in sneaker and fashion circles. Schuh has similar cache in Europe. Johnston & Murphy owns a heritage position among professionals and is genuinely differentiated on craftsmanship in a segment where most shoes are indistinguishable. But none of these moats is durable enough to protect the company from slower overall footwear retail growth or from the shift toward DTC and online that has benefited pure-play e-commerce operators far more than multichannel retailers.
 
@@ -67,7 +67,7 @@ Genesco faces several specific, material risks:
 
 **Wholesale partner consolidation.** Genesco's wholesale division relies on department stores and independent retailers that are themselves consolidating or shifting to private-label products. A further wave of wholesale partner closures or a shift away from branded footwear in favor of cheaper imports could pressure this channel.
 
-**Economic sensitivity.** Footwear purchases, while necessary, have a discretionary component—consumers can delay new shoes, buy fewer pairs, or shift to cheaper options in a downturn. Genesco's target customer, the trend-conscious middle-tier consumer, may be more cyclical than the ultra-premium (who have fewer price-sensitive buyers) or the discount tier (where customers are already price-minimizing).
+**Economic sensitivity.** Footwear purchases, while necessary, have a discretionary component—consumers can delay new shoes, buy fewer pairs, or shift to cheaper options in a downturn. Genesco's [target](/tgt-stock/) customer, the trend-conscious middle-tier consumer, may be more cyclical than the ultra-premium (who have fewer price-sensitive buyers) or the discount tier (where customers are already price-minimizing).
 
 ## How to research Genesco
 

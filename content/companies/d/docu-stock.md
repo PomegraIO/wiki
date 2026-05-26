@@ -48,23 +48,23 @@ The company's earliest customers were small law firms and real-estate companies,
 
 ## Competition and platform building
 
-DocuSign is not alone in e-signature. Competitors include Adobe Sign (part of Adobe's broader document suite), HelloSign (acquired by Dropbox), and others. But DocuSign has been the market leader for more than a decade, and that leadership brings advantages. Customers have built workflows around DocuSign, integrations are widespread, and the platform is considered the default choice in the market.
+DocuSign is not alone in e-signature. Competitors include [Adobe](/adbe-stock/) Sign (part of Adobe's broader document suite), HelloSign (acquired by Dropbox), and others. But DocuSign has been the market leader for more than a decade, and that leadership brings advantages. Customers have built workflows around DocuSign, integrations are widespread, and the platform is considered the default choice in the market.
 
-The real competitive threat is not from direct e-signature competitors but from broader document and workflow platforms. Microsoft Word, Google Docs, and others might eventually embed signing natively. Adobe already bundles signing into its suite. These bundled offerings do not need to match DocuSign's full feature set—they just need to be "good enough" for typical customers. If that happens, DocuSign faces pressure to shift upmarket toward complex agreement management or to compete on price and bundling.
+The real competitive threat is not from direct e-signature competitors but from broader document and workflow platforms. [Microsoft](/msft-stock/) Word, Google Docs, and others might eventually embed signing natively. Adobe already bundles signing into its suite. These bundled offerings do not need to match DocuSign's full feature set—they just need to be "good enough" for typical customers. If that happens, DocuSign faces pressure to shift upmarket toward complex agreement management or to compete on price and bundling.
 
-To maintain its position, DocuSign has acquired adjacent capabilities and integrated them into the platform. The Seal acquisition brought contract-intelligence software. Integrations with Salesforce, Microsoft, and other enterprise platforms make it easy for companies to route documents for signature from within tools they already use. These moves aim to make DocuSign sticky and harder to replace.
+To maintain its position, DocuSign has acquired adjacent capabilities and integrated them into the platform. The Seal [acquisition](/acquisition/) brought contract-intelligence software. Integrations with [Salesforce](/crm-stock/), Microsoft, and other enterprise platforms make it easy for companies to route documents for signature from within tools they already use. These moves aim to make DocuSign sticky and harder to replace.
 
 ## The economics and margins
 
-DocuSign's business is software, so once the platform is built, the cost to serve an additional customer is nearly zero. This means the company can operate at very high gross margins—often 75% or higher. Operating margins are lower because the company invests heavily in sales, marketing, and R&D, but the company can be profitable at a much lower revenue level than a traditional services business could.
+DocuSign's business is software, so once the platform is built, the cost to serve an additional customer is nearly zero. This means the company can operate at very high gross margins—often 75% or higher. [Operating margins](/operating-margin/) are lower because the company invests heavily in sales, marketing, and R&D, but the company can be profitable at a much lower revenue level than a traditional services business could.
 
-The company is also exposed to customer concentration. If a few very large customers account for a significant percentage of revenue and one of them churns, it can create a noticeable dent. Customer concentration risk is typical for enterprise software companies and usually decreases as the customer base grows.
+The company is also exposed to customer concentration. If a few very large customers account for a significant percentage of revenue and one of them churns, it can create a noticeable dent. Customer [concentration risk](/concentration-risk/) is typical for enterprise software companies and usually decreases as the customer base grows.
 
 ## Challenges and the market
 
 DocuSign faces real headwinds. The company operates in a competitive market where large incumbents have started competing seriously. Many of DocuSign's early customers signed up for the convenience of e-signature but do not use the full agreement-management platform, which limits upsell opportunities. And like all software companies, DocuSign is vulnerable to building features customers do not care about or failing to keep pace with changing needs.
 
-The broader economic cycle also affects the company. During recessions, companies reduce discretionary spending on new software tools and focus on cutting costs. DocuSign can survive such periods because its software reduces costs, but growth slows.
+The broader economic cycle also affects the company. During [recessions](/recession/), companies reduce [discretionary spending](/discretionary-spending/) on new software tools and focus on cutting costs. DocuSign can survive such periods because its software reduces costs, but growth slows.
 
 ## How to understand DocuSign as an investment
 

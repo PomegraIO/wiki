@@ -18,4 +18,4 @@ Today, American Tungsten & Antimony operates at the intersection of geopolitical
 
 ---
 
-**See also:** [antimony](/wiki/antimony/), [critical minerals](/wiki/critical-minerals/)
+**See also:** [antimony](/wiki/antimony/), critical minerals

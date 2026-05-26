@@ -55,11 +55,11 @@ L3Harris's largest customer is the U.S. Department of Defense. The company gener
 
 International military sales (often through foreign military sales, or FMS, arrangements) represent a meaningful share. Allied nations—particularly those in NATO and the Indo-Pacific—buy L3Harris comms and EW systems. This is politically regulated; foreign military sales require State Department approval and are sensitive to diplomatic relationships, but they are an important diversifier.
 
-The company also serves civilian customers: [commercial airlines](/wiki/commercial-aviation/) buy avionics upgrades, and law enforcement agencies purchase communications equipment. However, the company's identity and profit margins are anchored in U.S. national security work.
+The company also serves civilian customers: commercial airlines buy avionics upgrades, and law enforcement agencies purchase communications equipment. However, the company's identity and profit margins are anchored in U.S. national security work.
 
 ## Competitive Positioning and Risks
 
-L3Harris operates in a concentrated market. The U.S. defense industrial base consists of a handful of primes—Lockheed Martin, Boeing, Northrop Grumman, General Dynamics, and Raytheon Technologies are the others in the large-cap tier. L3Harris, while sizable, has smaller total revenue than each of the "Big 5" and must compete on specialization and technical depth rather than breadth.
+L3Harris operates in a concentrated market. The U.S. defense industrial base consists of a handful of primes—Lockheed Martin, [Boeing](/ba-stock/), Northrop Grumman, [General Dynamics](/gd-stock/), and Raytheon Technologies are the others in the large-cap tier. L3Harris, while sizable, has smaller total revenue than each of the "Big 5" and must compete on specialization and technical depth rather than breadth.
 
 On communications and EW, L3Harris has entrenched positions. Those franchises have high switching costs and institutional customer relationships that span decades. A military branch cannot easily swap out communications architecture or EW suites mid-fleet-life. This is a moat.
 

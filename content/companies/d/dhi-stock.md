@@ -23,7 +23,7 @@ Horton builds different types of homes for different buyers. Some are starter ho
 
 ## Land, labour, and the cycle
 
-The homebuilding business is intensely cyclic. Interest rates matter enormously. When mortgage rates are low, more people can afford to buy. When rates rise, demand drops sharply. During the 2008 financial crisis, homebuilding collapsed because mortgage credit froze and home prices crashed. In the years that followed, there was strong demand because people who deferred buying rushed into the market. Then in 2021 and 2022, an unexpected boom occurred when pandemic-driven remote work made people eager to leave cities and buy homes in suburbs and smaller towns. Prices surged. Then inflation pushed mortgage rates higher in 2023 and demand cooled again.
+The homebuilding business is intensely cyclic. [Interest rates](/interest-rate/) matter enormously. When mortgage rates are low, more people can afford to buy. When rates rise, demand drops sharply. During the 2008 financial crisis, homebuilding collapsed because mortgage credit froze and home prices crashed. In the years that followed, there was strong demand because people who deferred buying rushed into the market. Then in 2021 and 2022, an unexpected boom occurred when pandemic-driven remote work made people eager to leave cities and buy homes in suburbs and smaller towns. Prices surged. Then [inflation](/inflation/) pushed mortgage rates higher in 2023 and demand cooled again.
 
 Horton has to navigate this cycle. In good times, the company buys more land, starts more projects, and hires more contractors. In downturns, it slows spending and waits. The goal is to have enough work underway to stay profitable but not so much inventory that homes do not sell and costs pile up.
 
@@ -45,7 +45,7 @@ Horton manages this by varying the number of homes it starts based on demand sig
 
 Building homes requires money upfront. Horton has to pay for land, finance construction, and wait months to collect the sale price. The company funds this with debt and equity. High interest rates make construction financing more expensive, which either shrinks profits or has to be passed on to homebuyers in higher prices. Low rates make it cheaper to finance, freeing up cash for more projects or returned to shareholders.
 
-Horton also manages its balance sheet carefully. The company tries to keep debt at levels that allow it to weather downturns. When the market turns, a builder can run short of cash quickly if sales drop and inventory builds. Too much debt, and a sudden downturn can force fire sales or, in extreme cases, insolvency. That is what happened to many builders in 2008.
+Horton also manages its [balance sheet](/balance-sheet/) carefully. The company tries to keep debt at levels that allow it to weather downturns. When the market turns, a builder can run short of cash quickly if sales drop and inventory builds. Too much debt, and a sudden downturn can force fire sales or, in extreme cases, insolvency. That is what happened to many builders in 2008.
 
 ## What shapes demand and the outlook
 

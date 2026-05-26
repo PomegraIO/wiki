@@ -30,7 +30,7 @@ The company went public in 2023 and since then has been building a profitable, g
 
 ## Why data protection matters more than it used to
 
-The scale of data modern enterprises manage is staggering — terabytes, petabytes, sometimes exabytes. A decade ago, a company might have housed most of its operational data in a primary datacenter with a backup facility nearby. Today that same company might run applications on Amazon Web Services, store data in Microsoft Azure, manage Salesforce instances in the cloud, keep on-premises infrastructure for legacy systems, and orchestrate everything with orchestration platforms like Kubernetes.
+The scale of data modern enterprises manage is staggering — terabytes, petabytes, sometimes exabytes. A decade ago, a company might have housed most of its operational data in a primary datacenter with a backup facility nearby. Today that same company might run applications on Amazon Web Services, store data in [Microsoft](/msft-stock/) Azure, manage [Salesforce](/crm-stock/) instances in the cloud, keep on-premises infrastructure for legacy systems, and orchestrate everything with orchestration platforms like Kubernetes.
 
 A ransomware attack, a disgruntled insider, a natural disaster, or simply a developer mistake can corrupt or delete critical data in minutes. Recovery — getting the data back quickly enough that the business does not grind to a halt — is not a luxury, it is a competitive necessity. Rubrik's argument is that the old point-in-time backup model, where you snapshot data once a day and hope yesterday's copy is good enough, no longer serves that reality.
 

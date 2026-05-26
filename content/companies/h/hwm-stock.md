@@ -15,7 +15,7 @@ Aircraft engines are extraordinary machines. They operate at temperatures that a
 
 Howmet Aerospace makes many of the components that go into these engines. It makes turbine blades, casings, fasteners, and other critical parts. It also makes structural components for aircraft fuselages and landing gear. These are not consumer products or commodities. They are specialized, engineering-intensive parts that only a handful of companies in the world can manufacture to the standards required by the aerospace industry.
 
-The business is consolidated and durable. Howmet supplies Rolls-Royce, General Electric, Pratt and Whitney, and the commercial aircraft manufacturers (Boeing and Airbus). These are longstanding, sticky relationships. Once a supplier is qualified for a particular engine model or aircraft, switching to a competitor is so expensive and disruptive that it almost never happens. This gives Howmet and its competitors a remarkable degree of pricing power and customer loyalty.
+The business is consolidated and durable. Howmet supplies Rolls-Royce, [General Electric](/ge-stock/), Pratt and Whitney, and the commercial aircraft manufacturers ([Boeing](/ba-stock/) and Airbus). These are longstanding, sticky relationships. Once a supplier is qualified for a particular engine model or aircraft, switching to a competitor is so expensive and disruptive that it almost never happens. This gives Howmet and its competitors a remarkable degree of pricing power and customer loyalty.
 
 <aside class="wiki-infobox">
 <table>
@@ -57,7 +57,7 @@ The long-term contract model creates a stable, predictable business for supplier
 
 Pricing in aerospace supply contracts typically follows a "learning curve." Early in a program, when volumes are low and the manufacturer is still optimizing the manufacturing process, costs are high. As production ramps and the company learns how to make the part more efficiently, costs fall. The contract typically specifies that prices will decline along a predetermined learning curve. Suppliers like Howmet must continuously improve efficiency to maintain margins as prices decline.
 
-Howmet competes against a few other large suppliers like Precision Castparts (now owned by Berkshire Hathaway) and GE Aviation's subsidiary businesses, as well as specialized competitors in particular product categories. The market is consolidated — only a handful of suppliers have the technical capability, scale, and financial resources to serve the largest programs. This consolidation creates high barriers to entry and supports profitability for the surviving competitors.
+Howmet competes against a few other large suppliers like Precision Castparts (now owned by [Berkshire Hathaway](/brk-b-stock/)) and GE Aviation's subsidiary businesses, as well as specialized competitors in particular product categories. The market is consolidated — only a handful of suppliers have the technical capability, scale, and financial resources to serve the largest programs. This consolidation creates high barriers to entry and supports profitability for the surviving competitors.
 
 ## Revenue streams and segments
 
@@ -67,13 +67,13 @@ The Aftermarket segment is particularly valuable because it represents recurring
 
 ## Risks and dependencies
 
-Howmet's single largest risk is its dependence on commercial aviation. The company derives a large portion of revenue from components for commercial aircraft engines. When commercial aviation is strong, Howmet does well. When a recession or external shock (like the pandemic-driven airline collapse in 2020) reduces flying, demand for new aircraft falls, and Howmet's revenue declines sharply.
+Howmet's single largest risk is its dependence on commercial aviation. The company derives a large portion of revenue from components for commercial aircraft engines. When commercial aviation is strong, Howmet does well. When a [recession](/recession/) or external shock (like the pandemic-driven airline collapse in 2020) reduces flying, demand for new aircraft falls, and Howmet's revenue declines sharply.
 
-The military and defense business provides some diversification and stability, but Howmet's exposure to commercial aviation is material.
+The military and defense business provides some [diversification](/diversification/) and stability, but Howmet's exposure to commercial aviation is material.
 
 A second risk is technology and product transition. If aircraft manufacturers shift to new engine designs or switch to suppliers with newer technology, Howmet might lose business on particular programs. The company must continue to invest in research and development to maintain its technical leadership and win new programs.
 
-Labor costs and supply-chain reliability are operational risks. Howmet relies on specialized labor to manufacture complex aerospace components, and tight labor markets can push up wages. Similarly, specialized materials and supplies are critical, and supply disruptions can constrain production.
+Labor costs and supply-chain reliability are [operational risks](/operational-risk/). Howmet relies on specialized labor to manufacture complex aerospace components, and tight labor markets can push up wages. Similarly, specialized materials and supplies are critical, and supply disruptions can constrain production.
 
 Finally, there is regulatory risk. Changes to aviation safety standards or environmental requirements could necessitate expensive investments in new manufacturing capability or modifications to existing processes.
 
@@ -85,6 +85,6 @@ Key metrics include the backlog, which represents future committed revenue. A he
 
 Monitor the commercial aviation cycle through commentary on airline fleet growth, aircraft orders, and production rates. Track defense and military spending separately, as these markets move independently from commercial aviation.
 
-Understand the capital requirements and return on invested capital. Aerospace manufacturing is capital intensive, and investments in new tooling, facilities, and machinery are required to support program production. Management should be delivering acceptable returns on these investments.
+Understand the capital requirements and [return on invested capital](/return-on-invested-capital/). Aerospace manufacturing is capital intensive, and investments in new tooling, facilities, and machinery are required to support program production. Management should be delivering acceptable returns on these investments.
 
-Finally, pay attention to customer concentration. If one customer (one aircraft manufacturer or engine maker) represents more than a quarter of revenue, concentration risk is material, and any loss of business with that customer would significantly impact results.
+Finally, pay attention to customer concentration. If one customer (one aircraft manufacturer or engine maker) represents more than a quarter of revenue, [concentration risk](/concentration-risk/) is material, and any loss of business with that customer would significantly impact results.

@@ -34,7 +34,7 @@ The company is capital-intensive. It must continuously invest in maintenance, up
 
 ## Competitive Position
 
-ArcelorMittal is the scale leader, which confers significant advantages in cost and negotiating power with customers, but also makes it a target for anti-trust scrutiny in major markets. Its closest competitors are China's Baosteel and Ansteel, China's CNPC, and smaller regional players like NLMK (Russia), Nippon Steel (Japan), and Tenaris (tubes). In Europe and North America, ArcelorMittal is often the only integrated mill competitor, giving it pricing power in some segments but also regulatory risk.
+ArcelorMittal is the scale leader, which confers significant advantages in cost and negotiating power with customers, but also makes it a [target](/tgt-stock/) for anti-trust scrutiny in major markets. Its closest competitors are China's Baosteel and Ansteel, China's CNPC, and smaller regional players like NLMK (Russia), Nippon Steel (Japan), and Tenaris (tubes). In Europe and North America, ArcelorMittal is often the only integrated mill competitor, giving it pricing power in some segments but also regulatory risk.
 
 A structural headwind is overcapacity in global steel, especially from low-cost Chinese producers that have driven down international prices in periods of slack demand. The company must compete on cost, quality, and scale, and has consolidated mills and capacity in downturns to manage this. Tariffs, trade disputes, and regional protectionism (especially US steel tariffs under various administrations) also affect pricing and export opportunities.
 

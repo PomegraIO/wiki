@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Woori Financial Group is a major Korean financial services conglomerate that operates one of South Korea's leading universal banking platforms. Built through decades of consolidation and institutional banking legacy, it provides retail and corporate banking, credit cards, insurance, securities, and asset management to customers across Korea and select international markets. The holding company is structured to capture the full financial services value chain—from deposits and lending to payment processing and wealth management—competing fiercely with Kookmin Bank and KB Financial on its home turf and adapting to secular shifts in Korean consumer banking and digital transformation.
+Woori Financial Group is a major Korean financial services conglomerate that operates one of South Korea's leading universal banking platforms. Built through decades of consolidation and institutional banking legacy, it provides retail and corporate banking, credit cards, insurance, securities, and asset management to customers across Korea and select international markets. The holding company is structured to capture the full financial services value chain—from deposits and lending to payment processing and wealth management—competing fiercely with Kookmin Bank and [KB Financial](/kb-stock/) on its home turf and adapting to secular shifts in Korean consumer banking and digital transformation.
 
 <aside class="wiki-infobox">
 

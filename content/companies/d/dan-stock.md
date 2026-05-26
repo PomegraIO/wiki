@@ -22,7 +22,7 @@ Commercial vehicle and off-highway markets provide ballast. Trucks, construction
 
 ## Revenue and segments
 
-Dana's revenue originates in three broad buckets: sales to original equipment manufacturers (OEMs) building passenger cars and light trucks; commercial-vehicle and off-highway segments (Class 6–8 trucks, construction, agriculture); and aftermarket parts and service. The largest portion flows from passenger-vehicle OEMs, making Dana's fortunes tightly tied to global light-vehicle production and platform wins at manufacturers like Ford, GM, Stellantis, Volkswagen, and Tesla. Commercial and off-highway revenue is less cyclical and commands higher margins due to durability requirements and less price competition.
+Dana's revenue originates in three broad buckets: sales to original equipment manufacturers (OEMs) building passenger cars and light trucks; commercial-vehicle and off-highway segments (Class 6–8 trucks, construction, agriculture); and aftermarket parts and service. The largest portion flows from passenger-vehicle OEMs, making Dana's fortunes tightly tied to global light-vehicle production and platform wins at manufacturers like Ford, GM, [Stellantis](/stla-stock/), Volkswagen, and [Tesla](/tsla-stock/). Commercial and off-highway revenue is less cyclical and commands higher margins due to durability requirements and less price competition.
 
 Revenue is heavily weighted to North America and Western Europe, where the company operates major manufacturing and engineering centers. China exposure exists but is limited by tariffs, local competition, and the dominance of domestic suppliers in Chinese OEM supply chains. International expansion remains a growth lever but a secondary focus.
 

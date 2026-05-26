@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Oscar Health is a health insurance company. It buys risk — agreeing to pay medical bills for its members — and sells that risk back to employers, families, and individuals. It is smaller than the giant carriers (UnitedHealth, Anthem, Aetna), and it operates without the long institutional history that shapes most health insurers. Instead, it was built from the ground up to compete on technology and data, trying to run what the old insurance companies run, but faster and cheaper.
+Oscar Health is a health insurance company. It buys risk — agreeing to pay medical bills for its members — and sells that risk back to employers, families, and individuals. It is smaller than the giant carriers ([UnitedHealth](/unh-stock/), Anthem, Aetna), and it operates without the long institutional history that shapes most health insurers. Instead, it was built from the ground up to compete on technology and data, trying to run what the old insurance companies run, but faster and cheaper.
 
 The company sells insurance across three markets. The largest is the individual and family market, covering people who buy their own insurance, often with subsidies from the Affordable Care Act. The second is small-group coverage, where Oscar sells to employers with fewer than 50 workers. The third is Medicare Advantage, the private insurance alternative to traditional Medicare for people over 65. Like all health insurers, Oscar's money comes from premiums charged to members and employers, and it succeeds when the claims it pays out are smaller than what it took in.
 
@@ -45,7 +45,7 @@ Oscar's insurance business operates across three segments. The individual and fa
 
 The second segment is small-group insurance. This is a market that sits between the ACA individual market and large-employer insurance, often less competitive and less visible. Oscar has pushed into it because it offers a chance to grow without being entirely dependent on individual insurance.
 
-The third is Medicare Advantage. Oscar entered this market later (around 2020), and it is where the company has room to grow. Older people are increasingly moving from traditional Medicare into Medicare Advantage plans offered by private insurers like Oscar, Humana, and UnitedHealth. These plans restrict the choice of doctor and hospital more than traditional Medicare does, but they often include benefits traditional Medicare does not (like dental or vision), so many older people find them appealing. The economic model is different from individual insurance — Medicare Advantage insurers get a fixed payment from the government per member, so the focus is on managing costs and keeping members healthy.
+The third is Medicare Advantage. Oscar entered this market later (around 2020), and it is where the company has room to grow. Older people are increasingly moving from traditional Medicare into Medicare Advantage plans offered by private insurers like Oscar, [Humana](/hum-stock/), and UnitedHealth. These plans restrict the choice of doctor and hospital more than traditional Medicare does, but they often include benefits traditional Medicare does not (like dental or vision), so many older people find them appealing. The economic model is different from individual insurance — Medicare Advantage insurers get a fixed payment from the government per member, so the focus is on managing costs and keeping members healthy.
 
 ## What makes Oscar different
 
@@ -61,7 +61,7 @@ The largest risk to Oscar is regulatory and macro. If Congress changes the ACA, 
 
 The second structural challenge is profitability. It is hard to run a health insurance company profitably at Oscar's scale against competitors the size of UnitedHealth, because large scale lets bigger companies achieve economies that smaller competitors cannot. Oscar is trying to overcome that gap with technology and operational excellence, but it is not clear this gap can be closed. Some of the most successful health insurance entrants have been software-first companies that never actually took risk themselves — they sold technology or data to traditional carriers. Oscar chose the harder path: taking full risk and trying to run better.
 
-The third challenge is growth without profitability becoming unsustainable. If Oscar cannot reach a stable, positive operating margin before its capital dries up (or before it can no longer borrow easily), it faces pressure to make hard choices: raise prices, cut costs, or sell or merge. The company has not resolved this equation.
+The third challenge is growth without profitability becoming unsustainable. If Oscar cannot reach a stable, positive [operating margin](/operating-margin/) before its capital dries up (or before it can no longer borrow easily), it faces pressure to make hard choices: raise prices, cut costs, or sell or merge. The company has not resolved this equation.
 
 ## How to track Oscar
 

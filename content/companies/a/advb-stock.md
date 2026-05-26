@@ -15,7 +15,7 @@ The company generates revenue through direct sales of imaging equipment to healt
 
 The core tension for the company centers on scale—it lacks the distribution reach and manufacturing footprint of multinational competitors, but maintains technical advantages in specific diagnostic applications. Market adoption depends partly on clinical evidence supporting its systems' accuracy and cost-effectiveness relative to alternatives, and partly on sales infrastructure to reach decision-makers in hospital purchasing departments.
 
-Key business drivers include adoption rates among target hospital networks, frequency of capital replacement cycles, and the company's ability to expand service agreements within existing customer bases. Headwinds include pricing pressure from larger competitors, regulatory changes affecting equipment approvals or reimbursement, and the concentration of purchasing power in large health systems.
+Key business drivers include adoption rates among [target](/tgt-stock/) hospital networks, frequency of capital replacement cycles, and the company's ability to expand service agreements within existing customer bases. Headwinds include pricing pressure from larger competitors, regulatory changes affecting equipment approvals or reimbursement, and the concentration of purchasing power in large health systems.
 
 Main product categories:
 - Imaging diagnostic systems for specialized medical applications

@@ -17,7 +17,7 @@ Watts Water Technologies manufactures products that manage water flow and qualit
 
 The Residential segment serves the single-family home market. When a home is built or renovated, the plumbing and HVAC systems require dozens of Watts components: pressure regulators ensure that incoming water does not damage fixtures and pipes, thermal expansion tanks prevent damage from heated water, strainers protect appliances from sediment, and backflow preventers guard against cross-contamination. Watts products are installed in the rough-in stage, before walls are closed, and they are rarely visible once the home is complete.
 
-Demand in this segment moves with housing construction and renovation activity. During housing booms, new-home construction drives orders; during downturns, construction collapses and demand falls. Renovation activity is somewhat steadier — homeowners undertake repairs and upgrades even during recessions — but it is still discretionary spending. The Residential segment is therefore cyclical and tied to macroeconomic health and interest rates.
+Demand in this segment moves with housing construction and renovation activity. During housing booms, new-home construction drives orders; during downturns, construction collapses and demand falls. Renovation activity is somewhat steadier — homeowners undertake repairs and upgrades even during [recessions](/recession/) — but it is still [discretionary spending](/discretionary-spending/). The Residential segment is therefore cyclical and tied to macroeconomic health and [interest rates](/interest-rate/).
 
 The competitive landscape is fragmented. There are no dominant suppliers with overwhelming market share; instead, a handful of larger players like Watts compete against numerous smaller manufacturers and private-label suppliers. Watts competes on brand recognition, product reliability, and the relationships its sales force has built with distributors and contractors. Price matters, but so does having products in stock when a contractor needs them.
 
@@ -55,14 +55,14 @@ The capital intensity of the business is moderate. Manufacturing facilities requ
 
 ## Acquisitions and portfolio management
 
-Watts has been an active acquirer, buying smaller manufacturers and product lines that fit within its three segments. These acquisitions allow the company to add complementary products, enter new geographies, or acquire technologies and customer relationships. The integration of acquisitions is a key execution risk; buying a company is easier than making it operationally efficient within a larger organization.
+Watts has been an active acquirer, buying smaller manufacturers and product lines that fit within its three segments. These [acquisitions](/acquisition/) allow the company to add complementary products, enter new geographies, or acquire technologies and customer relationships. The integration of acquisitions is a key execution risk; buying a company is easier than making it operationally efficient within a larger organization.
 
 Some acquisitions have been in adjacent markets or in international geographies where Watts wanted to build scale. Others have been in specialized products — for example, acquisitions of companies focused on drinking-water testing or industrial filtration. The goal is to diversify the product portfolio and reduce exposure to any single end market or geography.
 
 ## How to research Watts
 
-The 10-K filing breaks down revenue by the three segments and by geography, which shows the exposure to each market. Gross margin trends indicate whether the company is improving manufacturing efficiency or losing pricing power. Operating margins show whether the company is controlling costs relative to sales.
+The 10-K filing breaks down revenue by the three segments and by geography, which shows the exposure to each market. Gross margin trends indicate whether the company is improving manufacturing efficiency or losing pricing power. [Operating margins](/operating-margin/) show whether the company is controlling costs relative to sales.
 
-The quarterly earnings call reveals order trends and customer commentary. Management commentary on backlog, lead times, and pricing power is useful for assessing near-term demand and competitive dynamics. Watch for announcements of acquisitions or divestitures, which signal how management is reshaping the portfolio.
+The quarterly earnings call reveals order trends and customer commentary. Management commentary on backlog, lead times, and pricing power is useful for assessing near-term demand and competitive dynamics. Watch for announcements of acquisitions or [divestitures](/divestiture/), which signal how management is reshaping the portfolio.
 
-Key metrics to track are revenue growth by segment, gross margin trends, free cash flow, and the debt-to-equity ratio. Acquisitions funded with debt can impact financial flexibility. Pay attention also to guidance for the coming quarters, as changes in guidance can signal whether management sees demand strengthening or weakening in each segment.
+Key metrics to track are revenue growth by segment, gross margin trends, [free cash flow](/free-cash-flow/), and the [debt-to-equity ratio](/debt-to-equity-ratio/). Acquisitions funded with debt can impact financial flexibility. Pay attention also to guidance for the coming quarters, as changes in guidance can signal whether management sees demand strengthening or weakening in each segment.

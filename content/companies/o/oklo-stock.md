@@ -42,7 +42,7 @@ The cost structure of manufacturing reactors at scale is unknown because it has 
 
 Oklo operates in an industry heavily shaped by regulation. The NRC must approve any reactor design for construction and operation, a process that involves hundreds of safety reviews, engineering analyses, and public comment periods. This is not a barrier specific to Oklo; all nuclear vendors face it. But it means the path from company founding to first commercial unit is measured in decades, not years, and costs can balloon if regulators identify problems.
 
-The commercial landscape is also unsettled. Conventional nuclear power has struggled economically in recent years because of competition from cheap natural gas and the dramatic fall in renewable energy costs. Smaller reactors have been discussed as a solution to nuclear's economics for decades, yet few have been built. The FirstEnergy Davis-Besse plant closure and others have signaled that big reactors are aging out. But the move to small reactors is still largely theoretical, and Oklo is betting that a technical and regulatory pathway exists where it did not before.
+The commercial landscape is also unsettled. Conventional nuclear power has struggled economically in recent years because of competition from cheap [natural gas](/natural-gas/) and the dramatic fall in renewable energy costs. Smaller reactors have been discussed as a solution to nuclear's economics for decades, yet few have been built. The FirstEnergy Davis-Besse plant closure and others have signaled that big reactors are aging out. But the move to small reactors is still largely theoretical, and Oklo is betting that a technical and regulatory pathway exists where it did not before.
 
 ## The investment and the risks
 

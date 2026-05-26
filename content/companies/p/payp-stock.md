@@ -33,7 +33,7 @@ PayPay's founders saw this not as a barrier but as an opportunity. Japan had the
 
 ## The early blitz and path to dominance
 
-PayPay's first few years were marked by aggressive customer acquisition subsidies. The company offered cash-back incentives and bonuses to early adopters, spending enormous sums to build volume and demonstrate the platform's utility. This strategy worked: PayPay became the most recognized mobile-payments app in Japan and signed up hundreds of thousands of merchants in a remarkably short time. By 2020, it had become the clear category leader.
+PayPay's first few years were marked by aggressive customer [acquisition](/acquisition/) subsidies. The company offered cash-back incentives and bonuses to early adopters, spending enormous sums to build volume and demonstrate the platform's utility. This strategy worked: PayPay became the most recognized mobile-payments app in Japan and signed up hundreds of thousands of merchants in a remarkably short time. By 2020, it had become the clear category leader.
 
 The business model underlying PayPay is typical of digital-payments platforms. Revenue comes from transaction fees charged to merchants (a small percentage of each payment) and from fintech products layered on top of the core payments infrastructure. In the early years, the company prioritized growth and market share over profitability, accepting losses as the cost of establishing dominance. By the early 2020s, with market leadership secure, the focus shifted toward building a path to profitability through improved unit economics and ecosystem expansion.
 

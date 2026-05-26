@@ -27,9 +27,9 @@ The third category is Aerospace, a smaller but high-margin segment where GATX le
 
 ## The economics of equipment leasing
 
-GATX makes money on the spread between equipment cost and cumulative lease revenue. If GATX buys a railcar for $300,000 and leases it for $8,000 per year, the gross rent in the first five years is $40,000, only a fraction of the cost. But GATX finances the railcar with debt (keeping equity returns strong) and expects to lease it for ten, fifteen, or twenty years as it cycles through different operators and routes. Over a twenty-year life, the same car generates $160,000 in gross rent. After operating costs (maintenance, insurance, depreciation), GATX's net return on the $300,000 investment is positive, and if the lease rates cover debt service with room to spare, the return on equity can be attractive.
+GATX makes money on the spread between equipment cost and cumulative lease revenue. If GATX buys a railcar for $300,000 and leases it for $8,000 per year, the gross rent in the first five years is $40,000, only a fraction of the cost. But GATX finances the railcar with debt (keeping equity returns strong) and expects to lease it for ten, fifteen, or twenty years as it cycles through different operators and routes. Over a twenty-year life, the same car generates $160,000 in gross rent. After operating costs (maintenance, insurance, [depreciation](/depreciation/)), GATX's net return on the $300,000 investment is positive, and if the lease rates cover debt service with room to spare, the [return on equity](/return-on-equity/) can be attractive.
 
-The catch is that equipment gets old and expensive to maintain. After fifteen or twenty years, a railcar requires more frequent repairs, becomes harder to place with lessees, and eventually must be scrapped. GATX must therefore constantly refresh its fleet, buying new equipment and retiring old. This capital intensity is the defining characteristic of GATX's business: it requires steady, large capital expenditure to maintain and grow the fleet. GATX finances this with a mix of retained earnings, borrowing, and occasional equity issuance.
+The catch is that equipment gets old and expensive to maintain. After fifteen or twenty years, a railcar requires more frequent repairs, becomes harder to place with lessees, and eventually must be scrapped. GATX must therefore constantly refresh its fleet, buying new equipment and retiring old. This capital intensity is the defining characteristic of GATX's business: it requires steady, large capital expenditure to maintain and grow the fleet. GATX finances this with a mix of [retained earnings](/retained-earnings/), borrowing, and occasional equity issuance.
 
 ## Lease rates and utilization
 
@@ -39,13 +39,13 @@ Utilization is the percentage of GATX's fleet that is actively leased out and ge
 
 ## Economic sensitivity and risks
 
-GATX is a capital-intensive, cyclical business tied to industrial activity and freight volumes. In recessions, manufacturers produce less, retailers order less inventory, and freight volumes plummet. Lower volumes mean fewer leases and lower utilization rates. Simultaneously, shipping companies—GATX's customers—often cut spending and delay orders when revenues decline. GATX's earnings are therefore correlated with the broader industrial and logistics cycle.
+GATX is a capital-intensive, cyclical business tied to industrial activity and freight volumes. In [recessions](/recession/), manufacturers produce less, retailers order less inventory, and freight volumes plummet. Lower volumes mean fewer leases and lower utilization rates. Simultaneously, shipping companies—GATX's customers—often cut spending and delay orders when revenues decline. GATX's earnings are therefore correlated with the broader industrial and logistics cycle.
 
 A second risk is technology disruption. Container shipping has changed less than most industries, but automation, new routing algorithms, and modal shifts (truck versus rail, for instance) can change the composition of freight and the equipment needed. GATX has to stay ahead of these trends and avoid over-investing in equipment that becomes obsolete.
 
 Competition from other lessors and from equipment manufacturers is constant. If a shipping line decides to own equipment directly instead of leasing, GATX loses a customer. If competitors offer better rates or terms, GATX must match them or lose business. Specialization in high-value niches (like aerospace or chemical tankers) provides some insulation, but commodity segments are competitive.
 
-Interest rates are another lever. GATX finances with debt, and when interest rates rise, the cost of carrying debt increases. If GATX cannot pass these higher costs to lessees through higher lease rates, margins compress. This is a key reason why GATX's returns fluctuate with the interest-rate cycle.
+[Interest rates](/interest-rate/) are another lever. GATX finances with debt, and when interest rates rise, the cost of carrying debt increases. If GATX cannot pass these higher costs to lessees through higher lease rates, margins compress. This is a key reason why GATX's returns fluctuate with the interest-rate cycle.
 
 ## How to understand GATX
 

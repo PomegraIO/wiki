@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-UMH Properties ([NASDAQ](/nasdaq/): UMH) is a [real estate investment trust](/wiki/reit/) that owns and leases land to residents living in manufactured-housing communities—often called mobile-home parks. The company operates dozens of communities spread across the Northeast and Midwest, from New Jersey down through Pennsylvania, Ohio, and into neighboring states. It makes money in two ways: collecting monthly rent from the residents who lease the land where their homes sit, and, in many of its communities, buying and selling the manufactured homes themselves. This dual revenue model—land rent plus home sales—is what separates UMH from some of its competitors and gives the business a different rhythm and set of economics.
+UMH Properties ([NASDAQ](/nasdaq/): UMH) is a real estate investment trust that owns and leases land to residents living in manufactured-housing communities—often called mobile-home parks. The company operates dozens of communities spread across the Northeast and Midwest, from New Jersey down through Pennsylvania, Ohio, and into neighboring states. It makes money in two ways: collecting monthly rent from the residents who lease the land where their homes sit, and, in many of its communities, buying and selling the manufactured homes themselves. This dual revenue model—land rent plus home sales—is what separates UMH from some of its competitors and gives the business a different rhythm and set of economics.
 
 <aside class="wiki-infobox">
 <table>

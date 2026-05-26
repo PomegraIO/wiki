@@ -35,11 +35,11 @@ A royalty is slightly different. Instead of buying the metal at a fixed price, T
 
 ## Building a portfolio across the world
 
-Triple Flag was founded in 2016 by metal-industry veterans from Wheaton Precious Metals and other streaming companies. The timing was strategic: the gold and silver mining industry had just taken a hit during the 2015 commodity downturn, and many junior miners needed cash. Triple Flag raised capital and started buying streaming contracts and royalties, gradually building a portfolio.
+Triple Flag was founded in 2016 by metal-industry veterans from [Wheaton Precious Metals](/wpm-stock/) and other streaming companies. The timing was strategic: the gold and silver mining industry had just taken a hit during the 2015 commodity downturn, and many junior miners needed cash. Triple Flag raised capital and started buying streaming contracts and royalties, gradually building a portfolio.
 
 Today the company holds the rights to gold, silver, and other metals from 237 separate mining assets. These include 17 active streaming contracts (meaning Triple Flag is already buying metal from those mines) and 220 royalty agreements spread across 31 mines currently producing metal and 206 that are still in development or exploration. The geographic spread is intentional: assets sit in the United States, Canada, Mexico, Peru, Colombia, Australia, South Africa, Mongolia, Côte d'Ivoire, and other mining jurisdictions. This diversity protects Triple Flag from being hammered by a single country's political or regulatory shock.
 
-The company lists on both the Toronto Stock Exchange and the New York Stock Exchange, making it accessible to North American investors and ensuring good trading liquidity.
+The company lists on both the [Toronto Stock Exchange](/toronto-stock-exchange/) and the [New York Stock Exchange](/new-york-stock-exchange/), making it accessible to North American investors and ensuring good trading liquidity.
 
 ## How the money flows in
 
@@ -51,7 +51,7 @@ The streaming prices that Triple Flag negotiated are typically well below the hi
 
 ## The risks that matter
 
-The biggest risk is obvious: if precious metals prices fall sharply, Triple Flag's margins compress. A severe prolonged downturn in gold or silver could turn streaming contracts into money losers. The company hedges this risk through the diversification of its portfolio and the fact that many of its streaming prices are deeply discounted to historical norms, but the risk never disappears.
+The biggest risk is obvious: if precious metals prices fall sharply, Triple Flag's margins compress. A severe prolonged downturn in gold or silver could turn streaming contracts into money losers. The company hedges this risk through the [diversification](/diversification/) of its portfolio and the fact that many of its streaming prices are deeply discounted to historical norms, but the risk never disappears.
 
 A second risk is mine operation. If a mine that Triple Flag has a streaming contract with shuts down — due to an accident, environmental issue, legal battle, or simply the ore running out — Triple Flag stops receiving metal. The company is not responsible for running the mine, but it is exposed to the mine operator's operational competence and luck. A major production disruption across several assets would hurt revenue.
 
@@ -67,6 +67,6 @@ The company has also invested in developing mines that have not yet shipped meta
 
 ## Understanding Triple Flag as an investment
 
-Triple Flag's cash flows are highly correlated with gold and silver prices. When metal prices rise, Triple Flag's margins widen and profits flow. When they fall, margins compress. The company does not control commodity prices, but it benefits from a structural shift toward higher metals demand (inflation hedging, technological use) and does not face the operational risks of being a mine operator itself.
+Triple Flag's cash flows are highly correlated with gold and silver prices. When metal prices rise, Triple Flag's margins widen and profits flow. When they fall, margins compress. The company does not control commodity prices, but it benefits from a structural shift toward higher metals demand ([inflation hedging](/inflation-hedging/), technological use) and does not face the [operational risks](/operational-risk/) of being a mine operator itself.
 
 The key numbers to follow are the company's cash flow per gold-equivalent ounce sold, the average streaming prices across the portfolio, the number of ounces delivered each quarter, and the company's capital-allocation discipline (how much it spends on new assets relative to cash flows). The 10-K filing (SEC CIK 0001829726) provides these metrics and breaks down the portfolio by mine and geography.

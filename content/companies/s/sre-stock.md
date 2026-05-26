@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Sempra Energy owns the pipes and wires that carry natural gas and electricity to millions of homes and businesses in the western United States and Mexico. It is a utility company, which means it operates in a heavily regulated industry where profits are constrained, growth is stable and slow, and the business is built on the assumption that people will always need heat and light. Sempra makes money by building infrastructure, maintaining it reliably, and collecting fees from customers for the privilege of using that infrastructure. It is not exciting, but it is essential.
+Sempra Energy owns the pipes and wires that carry [natural gas](/natural-gas/) and electricity to millions of homes and businesses in the western United States and Mexico. It is a utility company, which means it operates in a heavily regulated industry where profits are constrained, growth is stable and slow, and the business is built on the assumption that people will always need heat and light. Sempra makes money by building infrastructure, maintaining it reliably, and collecting fees from customers for the privilege of using that infrastructure. It is not exciting, but it is essential.
 
 ## What Sempra actually does — in plain words
 
@@ -29,11 +29,11 @@ The second major division is Sempra Infrastructure, which owns pipelines and exp
 
 ## Regulation: The framework and the constraint
 
-Sempra's business is tightly regulated. A public utilities commission in each state where Sempra operates sets rates that Sempra is allowed to charge customers. Those rates are supposed to allow the company to recover its costs and earn a "reasonable return." What counts as reasonable is the subject of endless negotiation between regulators, the company, and consumer advocates. Typically, utilities are allowed to earn a return on equity of about eight to ten percent — far less than the stock market averages historically, but more than risk-free bonds.
+Sempra's business is tightly regulated. A public utilities commission in each state where Sempra operates sets rates that Sempra is allowed to charge customers. Those rates are supposed to allow the company to recover its costs and earn a "reasonable return." What counts as reasonable is the subject of endless negotiation between regulators, the company, and consumer advocates. Typically, utilities are allowed to earn a [return on equity](/return-on-equity/) of about eight to ten percent — far less than the [stock market](/stock-market/) averages historically, but more than risk-free [bonds](/bond/).
 
 That regulatory framework has consequences. Sempra cannot simply raise prices to boost profit. It cannot abandon unprofitable services or high-risk businesses. It must maintain service to every customer, even in low-density areas where service is expensive. And it must prove to regulators that any new investments are justified by customer need and prudent cost control.
 
-On the other hand, regulation also provides stability. Sempra's revenue is predictable because rates are set in advance. The company does not face the kind of catastrophic competition that strikes other industries. Regulators generally approve rate increases every few years to keep pace with inflation and to fund new infrastructure. That predictability attracts investors who value steady, reliable returns over high growth.
+On the other hand, regulation also provides stability. Sempra's revenue is predictable because rates are set in advance. The company does not face the kind of catastrophic competition that strikes other industries. Regulators generally approve rate increases every few years to keep pace with [inflation](/inflation/) and to fund new infrastructure. That predictability attracts investors who value steady, reliable returns over high growth.
 
 ## The energy transition as backdrop
 
@@ -45,7 +45,7 @@ The company is also positioned to benefit from the energy transition in some way
 
 ## Understanding Sempra's financials
 
-Sempra's annual report (SEC CIK 0001032208) reveals the underlying economics of a regulated utility. Look at the composition of revenue: how much comes from California operations, how much from Mexico, how much from LNG exports? Watch the regulated earnings, which come from the approved return on invested capital. Monitor capital expenditure, which indicates how much the company is investing in new infrastructure and whether it expects to grow the asset base.
+Sempra's [annual report](/10-k/) (SEC CIK 0001032208) reveals the underlying economics of a regulated utility. Look at the composition of revenue: how much comes from California operations, how much from Mexico, how much from LNG exports? Watch the regulated earnings, which come from the approved [return on invested capital](/return-on-invested-capital/). Monitor capital expenditure, which indicates how much the company is investing in new infrastructure and whether it expects to grow the asset base.
 
 Pay attention to regulatory proceedings. When a state utilities commission meets to set new rates, that is where Sempra's profit for the next few years is determined. Read the earnings calls for updates on recent regulatory decisions, pending rate cases, and management's expectations for future approvals.
 

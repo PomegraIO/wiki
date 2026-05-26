@@ -50,7 +50,7 @@ The company monitors order flow, customer backlog, and booking rates carefully. 
 
 ## Capital Allocation and Valuation
 
-Parker has returned to shareholders through regular dividends and opportunistic buybacks. The dividend was raised consistently for decades until 2022, when the company paused amid uncertainty. Buybacks have been cyclical, accelerating when the stock falls and decelerating when capital is scarce. Management has stated a goal of reaching mid-20-percent [return on invested capital](/return-on-invested-capital/) through organic improvement and acquisition, a plausible but not certain target.
+Parker has returned to shareholders through regular dividends and opportunistic buybacks. The dividend was raised consistently for decades until 2022, when the company paused amid uncertainty. Buybacks have been cyclical, accelerating when the stock falls and decelerating when capital is scarce. Management has stated a goal of reaching mid-20-percent [return on invested capital](/return-on-invested-capital/) through organic improvement and acquisition, a plausible but not certain [target](/tgt-stock/).
 
 The stock has historically traded at a modest premium to broad industrials—a 12 to 16 times [earnings per share](/wiki/earnings-per-share/) multiple in normal years—reflecting the quality of its market position and cash generation but constrained by cyclicality. Valuation can compress quickly in downturns when near-term earnings fall, and can expand in recovery years when visibility improves and backlog grows.
 

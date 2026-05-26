@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Viper Energy finds and produces crude oil, natural gas, and natural gas liquids (NGLs) from oil and gas fields in the Permian Basin, one of the most productive petroleum regions in the world. The company owns mineral interests and leasehold positions in Texas and New Mexico, contracts with other operators to develop those interests, and captures the revenue from any oil and gas that is produced. Its shares trade on the NASDAQ under the ticker VNOM.
+Viper Energy finds and produces [crude oil](/crude-oil/), [natural gas](/natural-gas/), and natural gas liquids (NGLs) from oil and gas fields in the Permian Basin, one of the most productive petroleum regions in the world. The company owns mineral interests and leasehold positions in Texas and New Mexico, contracts with other operators to develop those interests, and captures the revenue from any oil and gas that is produced. Its shares trade on the [NASDAQ](/nasdaq/) under the ticker VNOM.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Viper Energy finds and produces crude oil, natural gas, and natural gas liquids 
 
 ## Drilling for income: Viper's business model
 
-Viper Energy operates in an unusual position within the oil and gas industry. The company does not drill wells itself. Instead, it owns mineral rights and leasehold interests in oil and gas fields — the right to receive revenue (royalties) when other operators drill wells on that land and produce oil and gas. This is a mineral interest company or royalty company model, quite different from an integrated oil major like ExxonMobil or Chevron.
+Viper Energy operates in an unusual position within the oil and gas industry. The company does not drill wells itself. Instead, it owns mineral rights and leasehold interests in oil and gas fields — the right to receive revenue (royalties) when other operators drill wells on that land and produce oil and gas. This is a mineral interest company or royalty company model, quite different from an integrated oil major like ExxonMobil or [Chevron](/cvx-stock/).
 
-Here's how it works: Viper owns a lease or a mineral interest in a piece of land in the Permian Basin. An oil and gas operator comes along, pays a signing bonus to lease that land, and agrees to drill wells and produce oil and gas. As that operator extracts resources, Viper receives a percentage of the revenue — a royalty. Viper collects that royalty income without the capital expense of drilling or operating the wells. It also does not bear the full operational risk — the operator manages the wells, handles environmental compliance, and assumes the risk if a well fails to produce.
+Here's how it works: Viper owns a lease or a mineral interest in a piece of land in the Permian Basin. An oil and gas operator comes along, pays a signing bonus to lease that land, and agrees to drill wells and produce oil and gas. As that operator extracts resources, Viper receives a percentage of the revenue — a royalty. Viper collects that royalty income without the capital expense of drilling or operating the wells. It also does not bear the full [operational risk](/operational-risk/) — the operator manages the wells, handles environmental compliance, and assumes the risk if a well fails to produce.
 
 Viper's advantage: it receives revenue from production without the massive capital investment that an operator must make to drill and complete wells. Disadvantage: Viper is passive. It collects royalties only when another company produces, and it has no control over the pace of drilling or production.
 
@@ -38,7 +38,7 @@ Viper's advantage: it receives revenue from production without the massive capit
 
 The Permian Basin, straddling the Texas-New Mexico border, is one of the world's largest and most productive oil and gas fields. It has produced oil for over a century and contains multiple geological layers with oil and gas resources. Modern technology — hydraulic fracturing and horizontal drilling — made previously uneconomic resources producible, turning the Permian into the center of U.S. oil production growth.
 
-Viper's acreage is concentrated in the Permian, giving the company significant exposure to one of the most active drilling regions. The advantage is clear: the Permian has been extensively proven, has robust infrastructure, and attracts major operators who drill frequently. The disadvantage is concentration risk — if energy prices collapse or drilling activity slows, Viper's entire business shrinks.
+Viper's acreage is concentrated in the Permian, giving the company significant exposure to one of the most active drilling regions. The advantage is clear: the Permian has been extensively proven, has robust infrastructure, and attracts major operators who drill frequently. The disadvantage is [concentration risk](/concentration-risk/) — if energy prices collapse or drilling activity slows, Viper's entire business shrinks.
 
 ## How Viper generates returns
 
@@ -48,7 +48,7 @@ Volume depends on how aggressively operators drill and produce. When energy pric
 
 Price is set by global markets and is utterly beyond Viper's control. Oil prices and natural gas prices fluctuate based on global supply and demand, geopolitical events, macroeconomic conditions, and seasonal factors. In years when prices are high, Viper's royalty income surges. In years when prices are low, it plummets.
 
-This volatility means Viper's earnings and cash flow are extremely sensitive to commodity prices. A 20% drop in oil prices can dramatically reduce cash available to pay dividends or invest. A 20% increase in prices has the opposite effect. This is fundamentally different from a utility or a consumer-goods company, where earnings are more stable.
+This volatility means Viper's earnings and cash flow are extremely sensitive to commodity prices. A 20% drop in oil prices can dramatically reduce cash available to pay [dividends](/dividend/) or invest. A 20% increase in prices has the opposite effect. This is fundamentally different from a utility or a consumer-goods company, where earnings are more stable.
 
 ## The operational footprint and scale
 
@@ -60,7 +60,7 @@ The company's business is largely passive on an operational basis, but it is not
 
 Because Viper generates high cash flow in good years (when commodity prices are elevated), the company can return significant capital to shareholders. Viper historically paid dividends and has sometimes repurchased shares. In down years, when commodity prices collapse, the company must decide whether to cut the dividend or preserve it and reduce growth investment.
 
-The dividend policy is central to understanding Viper as an investment. The company often markets itself partly on the basis of a high dividend yield in years when cash flow is strong. But that yield is not stable or guaranteed — it expands when commodity prices are high and contracts when they are low.
+The dividend policy is central to understanding Viper as an investment. The company often markets itself partly on the basis of a high [dividend yield](/dividend-yield/) in years when cash flow is strong. But that yield is not stable or guaranteed — it expands when commodity prices are high and contracts when they are low.
 
 ## Risks and competitive dynamics
 
@@ -82,6 +82,6 @@ Viper and other oil and gas producers face a long-term structural question: as t
 
 Start with Viper's 10-K filing (SEC CIK 0002074176), which details the company's mineral and leasehold interests, production volumes and revenue by property, and management's assessment of future development. Quarterly reports detail recent production volumes and royalty rates.
 
-Critical metrics: royalty volume (barrels and cubic feet), realized prices (what Viper actually receives for its oil and gas after transportation and quality adjustments), free cash flow, and dividend policy. Compare Viper's valuation to other mineral interest and royalty companies and to integrated oil companies. Track energy commodity prices (WTI crude oil price and natural gas prices) as a leading indicator of cash flow.
+Critical metrics: royalty volume (barrels and cubic feet), realized prices (what Viper actually receives for its oil and gas after transportation and quality adjustments), [free cash flow](/free-cash-flow/), and dividend policy. Compare Viper's valuation to other mineral interest and royalty companies and to integrated oil companies. Track energy commodity prices ([WTI crude](/wti-crude/) oil price and natural gas prices) as a leading indicator of cash flow.
 
-Follow regulatory announcements affecting oil and gas production in the Permian, news on drilling activity from major operators working Viper's acreage, and any material changes to Viper's property interests through acquisition or divestment.
+Follow regulatory announcements affecting oil and gas production in the Permian, news on drilling activity from major operators working Viper's acreage, and any material changes to Viper's property interests through [acquisition](/acquisition/) or divestment.

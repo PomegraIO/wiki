@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Fox Corporation operates a network of broadcast, cable, and satellite television properties in the United States and selected international markets. Its largest and most visible asset is the Fox broadcast network, the home of sports, news, and entertainment programming; beyond that sit cable channels including Fox News, Fox Business, and sports-focused networks. The company generates revenue from advertising sold against its programming and from fees paid by distributors (cable, satellite, and streaming providers) who carry its channels. Fox is a publicly traded company (NASDAQ: FOXA, FOXB) and is headquartered in New York.
+Fox Corporation operates a network of broadcast, cable, and satellite television properties in the United States and selected international markets. Its largest and most visible asset is the Fox broadcast network, the home of sports, news, and entertainment programming; beyond that sit cable channels including Fox News, Fox Business, and sports-focused networks. The company generates revenue from advertising sold against its programming and from fees paid by distributors (cable, satellite, and streaming providers) who carry its channels. Fox is a publicly traded company ([NASDAQ](/nasdaq/): FOXA, FOXB) and is headquartered in New York.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,13 +38,13 @@ The **broadcast network** transmits programming over the air in the United State
 
 ## Revenue model: advertising and distribution fees
 
-Advertising remains the dominant revenue source. A 30-second spot during a popular prime-time show, a sporting event, or a cable news block commands substantial price because the audience is large and valuable. Luxury and financial-services advertisers pay premium rates for cable news and business programming because the audience demographics are attractive. Advertiser demand fluctuates with the business cycle — recessions reduce advertising spending, while economic expansions increase it.
+Advertising remains the dominant revenue source. A 30-second spot during a popular prime-time show, a sporting event, or a cable news block commands substantial price because the audience is large and valuable. Luxury and financial-services advertisers pay premium rates for cable news and business programming because the audience demographics are attractive. Advertiser demand fluctuates with the [business cycle](/business-cycle/) — [recessions](/recession/) reduce advertising spending, while economic expansions increase it.
 
-Distribution fees — the per-subscriber payments from cable, satellite, and streaming providers — have become increasingly important over the past decade. Every cable subscriber in the United States who receives Fox News pays a small portion of their cable bill to Fox. As cable cord-cutting accelerates and subscribers shift to streaming, these fees come under pressure. Streaming services like Netflix or Disney+ that do not carry Fox channels do not pay Fox a fee, and services that do (like Hulu or Fubo) negotiate aggressively on rates.
+Distribution fees — the per-subscriber payments from cable, satellite, and streaming providers — have become increasingly important over the past decade. Every cable subscriber in the United States who receives Fox News pays a small portion of their cable bill to Fox. As cable cord-cutting accelerates and subscribers shift to streaming, these fees come under pressure. Streaming services like [Netflix](/nflx-stock/) or Disney+ that do not carry Fox channels do not pay Fox a fee, and services that do (like Hulu or Fubo) negotiate aggressively on rates.
 
 ## Competition and market position
 
-The broadcast television market is mature. Fox competes against NBC, ABC, and CBS (owned by Paramount Global) for viewers, advertising dollars, and content. Cable news sees competition from CNN (owned by Warner Bros. Discovery) and MSNBC (NBC/Comcast), but Fox News dominates cable news viewership and commands price-setting power with both advertisers and distributors because of its audience size.
+The broadcast television market is mature. Fox competes against NBC, ABC, and CBS (owned by Paramount Global) for viewers, advertising dollars, and content. Cable news sees competition from CNN (owned by [Warner Bros. Discovery](/wbd-stock/)) and MSNBC (NBC/[Comcast](/cmcsa-stock/)), but Fox News dominates cable news viewership and commands price-setting power with both advertisers and distributors because of its audience size.
 
 The deeper structural threat is cord-cutting. Linear television — sitting down to watch a broadcast or cable channel at a set time — is in secular decline as viewers shift to on-demand streaming. This dynamic undercuts both the broadcast business (fewer people watching at scheduled times) and cable networks (fewer cable subscribers means fewer distribution-fee dollars). Fox has moved into streaming (owning a stake in Hulu and operating some streaming services internationally) to hedge this risk, but the economics of streaming are less attractive than traditional television: streaming relies heavily on subscription revenue rather than advertising, and competition for subscribers is fierce.
 
@@ -64,7 +64,7 @@ Growth is constrained. The U.S. broadcast television market is mature; the cable
 
 **Cord-cutting and viewership decline**: the structural trend of viewers abandoning linear television to streaming services is inexorable. This shrinks both the addressable advertising market and the distribution-fee revenue base.
 
-**Content-rights inflation**: the cost of securing exclusive sports and entertainment programming rights is rising faster than Fox's pricing power, pressuring margins.
+**Content-rights [inflation](/inflation/)**: the cost of securing exclusive sports and entertainment programming rights is rising faster than Fox's pricing power, pressuring margins.
 
 **Regulatory exposure**: the broadcast business operates under FCC regulations (ownership limits, public-interest obligations, rules on political advertising) that can change. Fox News has faced libel claims and regulatory scrutiny over editorial practices and political influence.
 

@@ -34,4 +34,4 @@ AGNC's management attempts to mitigate this via [interest-rate hedging](/wiki/in
 
 ---
 
-**See also:** [mortgage-backed-security](/wiki/mortgage-backed-security/), [mortgage-reit](/wiki/mortgage-reit/), [net-interest-margin](/wiki/net-interest-margin/), [fnma-stock](/wiki/fnma-stock/)
+**See also:** [mortgage-backed-security](/wiki/mortgage-backed-security/), [mortgage-reit](/wiki/mortgage-reit/), net-interest-margin, [fnma-stock](/wiki/fnma-stock/)

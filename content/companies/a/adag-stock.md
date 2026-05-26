@@ -18,11 +18,11 @@ Adagene's competitive advantage rests on proprietary platforms for engineering a
 
 ## Pipeline and development stage
 
-Adagene's lead programs target high-incidence cancers including solid tumors and hematologic malignancies. The company typically advances candidates from in vitro engineering through preclinical validation, then into early-stage human trials (IND stage). Like most clinical-stage biotech, Adagene has not yet achieved regulatory approval or commercialization; revenue comes from research collaborations, milestone payments, and strategic partnerships rather than drug sales. The financial runway depends on capital raises and the pace at which candidate therapies advance through development.
+Adagene's lead programs [target](/tgt-stock/) high-incidence cancers including solid tumors and hematologic malignancies. The company typically advances candidates from in vitro engineering through preclinical validation, then into early-stage human trials (IND stage). Like most clinical-stage biotech, Adagene has not yet achieved regulatory approval or commercialization; revenue comes from research collaborations, milestone payments, and strategic partnerships rather than drug sales. The financial runway depends on capital raises and the pace at which candidate therapies advance through development.
 
 ## Competitive position and risks
 
-The antibody therapeutics space is crowded with established players (Roche, Amgen, Bristol Myers Squibb, Regeneron) with massive R&D budgets and approved products generating billions. Adagene's engineering platform offers differentiation, but success ultimately requires demonstrating clinical superiority—better efficacy, safety, or durability than existing treatments—in head-to-head trials. Most development-stage biotech compounds fail; only a fraction of clinical candidates become approved medicines. Capital intensity is high; a single failed program can shift the development timeline significantly.
+The antibody therapeutics space is crowded with established players (Roche, [Amgen](/amgn-stock/), [Bristol Myers Squibb](/bmy-stock/), Regeneron) with massive R&D budgets and approved products generating billions. Adagene's engineering platform offers differentiation, but success ultimately requires demonstrating clinical superiority—better efficacy, safety, or durability than existing treatments—in head-to-head trials. Most development-stage biotech compounds fail; only a fraction of clinical candidates become approved medicines. Capital intensity is high; a single failed program can shift the development timeline significantly.
 
 ## At a glance
 

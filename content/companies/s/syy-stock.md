@@ -58,22 +58,22 @@ The company also invests in value-added services: it provides recipes and menu p
 
 Sysco's largest vulnerability is its dependence on restaurants and institutions to thrive. During the COVID-19 pandemic, when restaurants were forced to close or operate at reduced capacity, Sysco's volumes collapsed and the company suffered significant losses. The company later benefited from a sharp rebound as restaurants reopened and pent-up demand for dining out surged, but the episode illustrated how a broad industry shock can quickly destroy the business.
 
-Labor is another pressure. Sysco is a logistics company, and labor costs (warehouse workers, truck drivers, administrative staff) are significant. The company faces ongoing wage inflation and driver shortages, which put pressure on margins unless the company can raise prices.
+Labor is another pressure. Sysco is a logistics company, and labor costs (warehouse workers, truck drivers, administrative staff) are significant. The company faces ongoing wage [inflation](/inflation/) and driver shortages, which put pressure on margins unless the company can raise prices.
 
 Technology has also created new competitive dynamics. Online grocery services, meal-kit delivery, and direct-to-consumer food companies have chipped away at the traditional restaurant supply chain. Some large restaurant chains have experimented with buying directly from suppliers or working with multiple distributors, reducing their reliance on any single one.
 
-Sysco's largest competitor is US Foods, which is roughly half Sysco's size but competes aggressively in the same market. Regional and specialty distributors also compete on service and product focus. Sysco's size is an asset—it can offer lower prices, wider selection, and better service than most rivals—but not an absolute protection.
+Sysco's largest competitor is [US Foods](/usfd-stock/), which is roughly half Sysco's size but competes aggressively in the same market. Regional and specialty distributors also compete on service and product focus. Sysco's size is an asset—it can offer lower prices, wider selection, and better service than most rivals—but not an absolute protection.
 
 ## The nature of the business
 
-Food distribution is a mature, stable, low-growth business. Sysco's sales grow modestly in line with inflation and the health of the restaurant and institutional food industries. When people eat out, Sysco thrives. When they stay home, Sysco shrinks. The company cannot create new demand for foodservice; it can only capture market share from competitors or consolidate the industry through acquisition.
+Food distribution is a mature, stable, low-growth business. Sysco's sales grow modestly in line with inflation and the health of the restaurant and institutional food industries. When people eat out, Sysco thrives. When they stay home, Sysco shrinks. The company cannot create new demand for foodservice; it can only capture market share from competitors or consolidate the industry through [acquisition](/acquisition/).
 
 Capital intensity is moderate. Sysco invests heavily in distribution centers, refrigerated trucks, and logistics technology, but not at the scale required for energy infrastructure or manufacturing. Returns on capital are steady but not exceptional—typical for a mature logistics business.
 
 ## Researching Sysco
 
-The 10-K filing (SEC CIK 0000096021) breaks results into two main segments: U.S. Foodservice and International. Within each, watch for volume trends (are customers ordering more or less food), pricing power (is Sysco able to raise prices or does it have to compete on cost), and operating margin (is the company expanding or shrinking profitability despite revenue growth).
+The 10-K filing (SEC CIK 0000096021) breaks results into two main segments: U.S. Foodservice and International. Within each, watch for volume trends (are customers ordering more or less food), pricing power (is Sysco able to raise prices or does it have to compete on cost), and [operating margin](/operating-margin/) (is the company expanding or shrinking profitability despite revenue growth).
 
-The earnings calls reveal important dynamics: commentary on pricing, labor-cost inflation, the health of the restaurant industry, and any changes to the competitive landscape. Pay attention to whether Sysco is gaining or losing market share to competitors and how the company is managing its pricing in the face of input-cost inflation or deflation.
+The earnings calls reveal important dynamics: commentary on pricing, labor-cost inflation, the health of the restaurant industry, and any changes to the competitive landscape. Pay attention to whether Sysco is gaining or losing market share to competitors and how the company is managing its pricing in the face of input-cost inflation or [deflation](/deflation/).
 
-The most useful metric for Sysco is free cash flow. The business does not require innovation or growth capital in the way a technology company does; it generates steady, predictable cash flow that the company returns to shareholders via dividends and buybacks. For investors, Sysco is a reliable, mature business that works well in a portfolio when you want steady income and modest price appreciation, not explosive growth.
+The most useful metric for Sysco is [free cash flow](/free-cash-flow/). The business does not require innovation or growth capital in the way a technology company does; it generates steady, predictable cash flow that the company returns to shareholders via [dividends](/dividend/) and buybacks. For investors, Sysco is a reliable, mature business that works well in a portfolio when you want steady income and modest price appreciation, not explosive growth.

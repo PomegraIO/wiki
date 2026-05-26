@@ -42,7 +42,7 @@ That vision crystallized on April 29, 2025, when QXO completed a landmark acquis
 
 Building products distribution is a sprawling, geographically dispersed business. QXO distributes roofing membranes and asphalt shingles for residential applications, metal roofing systems, commercial waterproofing solutions, fire protection systems, siding materials from brands like James Hardie and CertainTeed, and other complementary products. The addressable market in North America is estimated at roughly $800 billion annually, yet remains highly fragmented with thousands of local and regional players. Consolidation has long been viewed as inevitable but proved difficult to execute at scale—until now.
 
-QXO's stated target is to become the tech-enabled leader in this fragmented landscape. Beacon had begun building its own digital capabilities through the Beacon PRO+ platform, offering online ordering, mobile tracking, and streamlined invoicing. Under QXO's ownership and access to capital, these digital tools are intended to scale rapidly and integrate into a broader ecosystem connecting order management, logistics, customer relationship systems, and financial settlement into one unified platform. The company has publicly set an ambitious goal: $50 billion in annual revenues within the next decade through a combination of accretive [acquisitions](/acquisition/) and organic growth.
+QXO's stated [target](/tgt-stock/) is to become the tech-enabled leader in this fragmented landscape. Beacon had begun building its own digital capabilities through the Beacon PRO+ platform, offering online ordering, mobile tracking, and streamlined invoicing. Under QXO's ownership and access to capital, these digital tools are intended to scale rapidly and integrate into a broader ecosystem connecting order management, logistics, customer relationship systems, and financial settlement into one unified platform. The company has publicly set an ambitious goal: $50 billion in annual revenues within the next decade through a combination of accretive [acquisitions](/acquisition/) and organic growth.
 
 ## The Competitive Position and Risks
 
@@ -58,4 +58,4 @@ QXO represents a bet that the building products distribution industry is ripe fo
 
 ## See also
 
-[Beacon Roofing Supply](/wiki/beacon-roofing-supply/) · [Building materials distribution](/wiki/building-materials-distribution/) · [Brad Jacobs](/wiki/brad-jacobs/) · [XPO Logistics](/wiki/xpo-logistics-stock/)
+Beacon Roofing Supply · Building materials distribution · Brad Jacobs · XPO Logistics

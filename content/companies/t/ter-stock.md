@@ -28,7 +28,7 @@ handwritten: true
 
 Semiconductor manufacturing is a multi-step process: wafers of silicon move through dozens of photolithography, etching, and deposition stages, each one printing and building layers of circuitry. At the end of that gauntlet, every chip must be tested to confirm it works. A test system is a specialised, often-room-sized machine that applies electrical signals to a chip, measures the responses, and compares them against specifications. If a chip fails, it is marked and removed from the good-parts stream.
 
-Teradyne designs and builds these test systems. The company also builds "handlers" — equipment that picks up individual chips, positions them in the test socket, and moves them along — and robotic automation for chip packaging and assembly. It sells software that engineers use to define test routines and analyse results. The company serves the entire semiconductor value chain: integrated device manufacturers like Intel and Samsung that design and fabricate their own chips, pure-play foundries like Taiwan Semiconductor Manufacturing Company, memory producers like Micron, and fabless design companies that outsource manufacturing.
+Teradyne designs and builds these test systems. The company also builds "handlers" — equipment that picks up individual chips, positions them in the test socket, and moves them along — and robotic automation for chip packaging and assembly. It sells software that engineers use to define test routines and analyse results. The company serves the entire semiconductor value chain: integrated device manufacturers like [Intel](/intc-stock/) and Samsung that design and fabricate their own chips, pure-play foundries like Taiwan Semiconductor Manufacturing Company, memory producers like Micron, and fabless design companies that outsource manufacturing.
 
 Testing is a unglamorous but mission-critical stage. If defective chips slip through and make it to customers, the reputation damage and warranty costs are severe. Yield — the percentage of chips that pass test — directly determines manufacturing profitability. A test system that is faster, more accurate, or more flexible can save a chipmaker millions of dollars by catching defects early and reducing scrap.
 
@@ -50,7 +50,7 @@ The company also benefits from the consolidation of chipmaking. As pure-play fou
 
 ## Cyclicality and customer concentration
 
-Teradyne's revenue is heavily exposed to semiconductor capital spending cycles. In the late 1990s, the dot-com bubble drove frenzied fab construction and equipment spending; the crash that followed devastated the industry. The 2008 financial crisis did similar damage. Every boom in semiconductor production is followed by a bust as new capacity comes online, prices compress, and demand normalises.
+Teradyne's revenue is heavily exposed to semiconductor capital spending cycles. In the late 1990s, the [dot-com bubble](/dot-com-bubble/) drove frenzied fab construction and equipment spending; the crash that followed devastated the industry. The 2008 financial crisis did similar damage. Every boom in semiconductor production is followed by a bust as new capacity comes online, prices compress, and demand normalises.
 
 Customer concentration adds to the risk. Taiwan Semiconductor Manufacturing Company, Samsung, Intel, and a handful of other mega-customers likely account for a substantial fraction of Teradyne's bookings. A single customer's decision to pull back capex, or to shift purchases to a competing vendor, materially affects the company's results.
 

@@ -33,9 +33,9 @@ The franchise is the key asset. A water utility cannot simply pop up in a city; 
 
 ## The structure: regulated returns and fixed revenue
 
-Essential Utilities operates in a regulatory framework common to all water utilities. The firm proposes a rate schedule to the state Public Utilities Commission (or equivalent body), lays out its costs — operating expenses, maintenance, capital investments, a reasonable return on equity — and negotiates a rate increase with regulators. Customers then pay that rate, and the utility collects a allowed return.
+Essential Utilities operates in a regulatory framework common to all water utilities. The firm proposes a rate schedule to the state Public Utilities Commission (or equivalent body), lays out its costs — operating expenses, maintenance, capital investments, a reasonable [return on equity](/return-on-equity/) — and negotiates a rate increase with regulators. Customers then pay that rate, and the utility collects a allowed return.
 
-This is not a high-return business. Utilities earn perhaps 9–10% on equity, which is not dramatically higher than investors can get from government bonds and lower than what a technology company might earn. But the return is steady, regulated (so there is no surprise downward), and backed by a literal necessity. People have to drink water and dispose of wastewater regardless of economic conditions. In a recession, a water utility's revenue barely moves. That stability is worth a premium to the right investor.
+This is not a high-return business. Utilities earn perhaps 9–10% on equity, which is not dramatically higher than investors can get from government [bonds](/bond/) and lower than what a technology company might earn. But the return is steady, regulated (so there is no surprise downward), and backed by a literal necessity. People have to drink water and dispose of wastewater regardless of economic conditions. In a [recession](/recession/), a water utility's revenue barely moves. That stability is worth a premium to the right investor.
 
 The regulatory model also means that operational efficiency directly benefits investors. If Essential Utilities reduces operating costs by investing in better leak-detection technology or consolidating back-office functions, regulators allow the company to pocket part of the savings before moving rates down. That incentivizes continuous improvement.
 
@@ -57,7 +57,7 @@ That capital intensity is also a story element. Many water systems across the Un
 
 The primary risk is regulatory. If a state government becomes hostile to rate increases — either because of political pressure or because regulators decide water utilities should not earn their historical returns — Essential Utilities' earnings can stagnate. The company has little ability to pass through unexpected cost increases if regulators deny requests. That is different from a competitive business where pricing power is automatic; here it must be negotiated.
 
-The second risk is capital intensity. Growth through acquisition or organic replacement of aging pipe requires steady funding. If debt markets seize up or if the company's credit rating falls, access to capital becomes expensive. That would force a slowdown in the acquisition strategy or necessitate equity issuance at an unattractive price.
+The second risk is capital intensity. Growth through acquisition or organic replacement of aging pipe requires steady funding. If debt markets seize up or if the company's [credit rating](/credit-rating/) falls, access to capital becomes expensive. That would force a slowdown in the acquisition strategy or necessitate equity issuance at an unattractive price.
 
 Operational challenges such as major treatment-plant failures, water-quality issues, or weather events (flooding, drought) also loom. Water systems are essential and heavily regulated; a major breach of drinking-water standards can trigger enforcement action and rate reductions.
 
@@ -65,6 +65,6 @@ Operational challenges such as major treatment-plant failures, water-quality iss
 
 Start with the 10-K (SEC CIK 0000078128). It details each state regulatory jurisdiction, recent and pending rate cases, and capital spending plans. The earnings call reveals management commentary on rate-case outcomes and the acquisition pipeline. Watch the allowed return on equity that regulators grant — that is the most important metric for valuation.
 
-Track the progress of major acquisitions. Each one comes with integration risks and temporary margin pressure before synergies are realized. Monitor the debt-to-equity ratio; too much leverage constrains financial flexibility.
+Track the progress of major [acquisitions](/acquisition/). Each one comes with integration risks and temporary margin pressure before synergies are realized. Monitor the [debt-to-equity ratio](/debt-to-equity-ratio/); too much leverage constrains financial flexibility.
 
 For longer-term bets, follow state-level water-quality regulations and infrastructure-spending sentiment. Policy changes are rare and slow, but they reshape the incentive structure for utilities over years.

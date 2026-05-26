@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Advantest builds machines that test semiconductors. Every computer chip, phone processor, and graphics card that reaches a customer has been run through testing equipment made by companies like Advantest. The chips are manufactured by others — TSMC, Samsung, Intel — but Advantest's machines are the gatekeepers that catch defects before the chips ship. It is a profitable, unglamorous, capital-intensive business that thrives when semiconductor demand is strong and withers when the industry contracts.
+Advantest builds machines that test semiconductors. Every computer chip, phone processor, and graphics card that reaches a customer has been run through testing equipment made by companies like Advantest. The chips are manufactured by others — TSMC, Samsung, [Intel](/intc-stock/) — but Advantest's machines are the gatekeepers that catch defects before the chips ship. It is a profitable, unglamorous, capital-intensive business that thrives when semiconductor demand is strong and withers when the industry contracts.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ The company sells into three main end-markets: memory testing (DRAM and flash, s
 
 A typical ATE system contains thousands of individual test channels, each capable of sending and receiving electrical signals to and from a chip under test. The sophistication required is immense: as process nodes shrink and clock speeds climb, the precision required to accurately measure voltage and timing margins becomes extreme. A test that needs to measure a signal arriving within a picosecond — a trillionth of a second — requires engineering of extraordinary rigor. This is why semiconductor manufacturers rely on equipment from established suppliers rather than building testers in-house: the cost and complexity are prohibitive for all but the absolute largest chipmakers.
 
-Advantest's gross margins are healthy, typically in the 40 to 50 percent range. The company invests heavily in research and development to support new chip architectures and process nodes. Operating margins have varied widely depending on the industry cycle — margins of 25 to 30 percent in strong years, but negative or near-zero in weak years when revenue falls while fixed costs remain. Cash flow is lumpy for the same reason: good years generate substantial free cash flow; bad years generate operating losses.
+Advantest's gross margins are healthy, typically in the 40 to 50 percent range. The company invests heavily in research and development to support new chip architectures and process nodes. [Operating margins](/operating-margin/) have varied widely depending on the industry cycle — margins of 25 to 30 percent in strong years, but negative or near-zero in weak years when revenue falls while fixed costs remain. Cash flow is lumpy for the same reason: good years generate substantial [free cash flow](/free-cash-flow/); bad years generate operating losses.
 
 ## Distinctiveness and competition
 
@@ -66,7 +66,7 @@ Third, the emergence of in-house test capabilities at very large customers. Sams
 
 ## How to research Advantest
 
-Advantest's annual report and earnings calls are the primary documents. The annual report (10-K equivalent; Advantest is a Japanese company and files with the SEC as an ADR) contains detailed breakdowns by end-market segment and geography. The earnings calls often include discussion of capital spending plans from major chipmakers, which gives forward-looking color on demand. Watch the quarterly order backlog, the average selling price per machine, and the mix between memory and logic testing.
+Advantest's [annual report](/10-k/) and earnings calls are the primary documents. The annual report (10-K equivalent; Advantest is a Japanese company and files with the SEC as an ADR) contains detailed breakdowns by end-market segment and geography. The earnings calls often include discussion of capital spending plans from major chipmakers, which gives forward-looking color on demand. Watch the quarterly order backlog, the average selling price per machine, and the mix between memory and logic testing.
 
 Key metrics to track: gross margin (which reflects the company's pricing power and manufacturing efficiency), operating margin (which shows how much of revenue drops to the bottom line after R&D and overhead), and the ratio of orders to sales (a high ratio suggests strong future demand, while a declining ratio is a warning sign). Advantest's stock trades thinly in the U.S. market but is heavily watched by semiconductor-equipment analysts. Reading their research reports is often more informative than company disclosures because they place Advantest's performance in the context of the broader industry cycle.
 

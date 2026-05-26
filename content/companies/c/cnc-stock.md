@@ -27,7 +27,7 @@ Medicare Advantage is different. It is a federal program for seniors age 65 and 
 
 Medicaid beneficiaries are financially vulnerable, meaning they have lower healthcare costs on average than the general population — more preventable disease, fewer expensive elective procedures. That creates an opportunity for an insurer that can deliver efficient, coordinated care. Centene earns significant margins on Medicaid because it has built capabilities in primary-care coordination, disease management, and utilization review that reduce unnecessary spending.
 
-The downside is political. Medicaid is a program for the poor, which makes it a persistent target for budget cuts and regulatory restrictions. States may reduce payment rates during fiscal stress. Congress may change eligibility rules or benefit design. Centene has minimal pricing power — it accepts what the government offers or loses the contract. That means Centene must operate with real efficiency and with the ability to adjust its cost base quickly if payment rates fall.
+The downside is political. Medicaid is a program for the poor, which makes it a persistent [target](/tgt-stock/) for budget cuts and regulatory restrictions. States may reduce payment rates during fiscal stress. Congress may change eligibility rules or benefit design. Centene has minimal pricing power — it accepts what the government offers or loses the contract. That means Centene must operate with real efficiency and with the ability to adjust its cost base quickly if payment rates fall.
 
 ## What about the broader business?
 
@@ -41,7 +41,7 @@ The transition risk is material. In 2020, most US states paused Medicaid disenro
 
 Payment pressure is constant. States, under pressure to balance budgets, routinely cut or hold flat the rates they pay to managed-care organizations. If a rate cut is steep enough, it can turn a profitable plan unprofitable or force Centene to exit the market. Conversely, if a state needs to expand coverage, payment rates may improve. That unpredictability is structural to the Medicaid business.
 
-Medical-cost inflation is another pressure. If the cost of providing care rises faster than payment rates increase, margins compress. Centene can mitigate this through aggressive care management and negotiating lower prices from providers, but there are limits. A severe disease outbreak, a shift in the population's health status, or rapid inflation in provider costs can quickly erode margins.
+Medical-cost [inflation](/inflation/) is another pressure. If the cost of providing care rises faster than payment rates increase, margins compress. Centene can mitigate this through aggressive care management and negotiating lower prices from providers, but there are limits. A severe disease outbreak, a shift in the population's health status, or rapid inflation in provider costs can quickly erode margins.
 
 Regulatory risk is significant. Medicaid rules around benefit design, provider payment, and eligibility change frequently and can be expensive to implement. Fraud investigations and compliance failures can result in large penalties. And Medicaid is a political program — a change in administration or congressional priorities can alter the entire landscape.
 
@@ -51,9 +51,9 @@ Centene's financial statements show the characteristics of a high-volume, low-ma
 
 Working capital is a key consideration. Centene must pay providers before it receives payment from governments, meaning it carries a significant lag. Efficient working-capital management is critical to cash flow.
 
-Debt is another material factor. Insurance companies often carry debt to fund acquisitions or to smooth losses in unprofitable quarters. Centene has made acquisitions to build scale and geographic breadth, funded partly with debt. The sustainability of that debt depends on the company's ability to maintain and grow margins.
+Debt is another material factor. Insurance companies often carry debt to fund [acquisitions](/acquisition/) or to smooth losses in unprofitable quarters. Centene has made acquisitions to build scale and geographic breadth, funded partly with debt. The sustainability of that debt depends on the company's ability to maintain and grow margins.
 
-Centene is also a dividend-paying stock, returning capital to shareholders. The sustainability of that dividend depends on durable profitability, which in turn depends on the health of the Medicaid program and Centene's ability to manage costs efficiently.
+Centene is also a dividend-paying stock, returning capital to shareholders. The sustainability of that [dividend](/dividend/) depends on durable profitability, which in turn depends on the health of the Medicaid program and Centene's ability to manage costs efficiently.
 
 ## How would a researcher approach this company?
 

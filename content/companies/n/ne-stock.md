@@ -32,7 +32,7 @@ Noble's financial performance hinges on three metrics: how many rigs are working
 
 Dayrates for premium deepwater drillships were in the $400,000-plus range as of early 2025, reflecting strong demand in core regions like Brazil and the U.S. Gulf of Mexico. However, rates for less-favored asset classes and geographies showed weakness, signaling uneven market conditions. A typical rig might generate $800 million to $900 million in annual revenue when fully booked and operating; Noble's consolidated quarterly revenue in Q1 2025 was $832 million, implying a blended utilization well below full capacity.
 
-Backlog—the dollar value of future contracted work—is a key bellwether. As of mid-2025, Noble reported approximately $7.5 billion in backlog, up from prior-year levels, reflecting steady contract awards and renewals. Major customers include major integrated oil companies (Shell, BP, Chevron, Equinor) and independent explorers, each with long-term drilling programs. That backlog provides some insulation from short-term demand shocks, but it remains below all-time highs and heavily weighted toward the next two years.
+Backlog—the dollar value of future contracted work—is a key bellwether. As of mid-2025, Noble reported approximately $7.5 billion in backlog, up from prior-year levels, reflecting steady contract awards and renewals. Major customers include major integrated oil companies (Shell, BP, [Chevron](/cvx-stock/), Equinor) and independent explorers, each with long-term drilling programs. That backlog provides some insulation from short-term demand shocks, but it remains below all-time highs and heavily weighted toward the next two years.
 
 ## The Competitive Landscape and Fleet Strategy
 

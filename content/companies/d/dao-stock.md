@@ -24,7 +24,7 @@ The dictionary business, though mature, remains a brand anchor. Free access to t
 
 ## Scale, Competition, and Market Position
 
-Youdao operates in a hypercompetitive Chinese edtech sector. Major competitors include **TAL Education** (Tal Education Group), **New Oriental Education** (which pivoted toward tutoring after China's K-12 tutoring bans), and numerous regional players. Youdao's position is neither dominant nor marginal—it competes on content depth and AI integration rather than market share dominance.
+Youdao operates in a hypercompetitive Chinese edtech sector. Major competitors include **[TAL Education](/tal-stock/)** (Tal Education Group), **New Oriental Education** (which pivoted toward tutoring after China's K-12 tutoring bans), and numerous regional players. Youdao's position is neither dominant nor marginal—it competes on content depth and AI integration rather than market share dominance.
 
 Unlike tutoring platforms that fell under regulatory restrictions in 2021 (prohibiting for-profit K-12 tutoring), Youdao's model as a software-first platform offering structured courses and devices has proven more flexible. The company is not classified primarily as a tutoring service but as an educational technology provider, which gave it regulatory cover while some competitors faced restrictions on profitability and growth.
 

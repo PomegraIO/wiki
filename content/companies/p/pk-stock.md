@@ -40,7 +40,7 @@ The company funds operations, debt service, and common [dividends](/dividend/) f
 
 ## The market and competitive position
 
-The lodging REIT sector is concentrated among a handful of major operators. [Xenia Hotels](/wiki/xhh-stock/), Chatham Lodging, [Apple Hospitality REIT](/wiki/aple-stock/), and others compete for the same trophy assets—Class A properties in prime locations with strong brand affiliations. Capital availability, [balance sheet](/balance-sheet/) strength, and relationships with operator and broker networks determine competitive advantage.
+The lodging REIT sector is concentrated among a handful of major operators. Xenia Hotels, Chatham Lodging, [Apple Hospitality REIT](/wiki/aple-stock/), and others compete for the same trophy assets—Class A properties in prime locations with strong brand affiliations. Capital availability, [balance sheet](/balance-sheet/) strength, and relationships with operator and [broker](/broker/) networks determine competitive advantage.
 
 Park's positioning sits in the upper-mid tier of hotel REITs by asset count and portfolio quality. Its emphasis on full-service, branded properties in strong markets differentiates it from lower-tier operators focused on [secondary markets](/secondary-market/) or budget conversions. That said, it is considerably smaller than diversified giants like RLJ Lodging Trust or Host Hotels, which own hundreds of properties and wield greater negotiating leverage with operators and lenders. Park competes primarily on asset quality, market selection, and operational execution—its ability to identify and acquire assets at reasonable prices and to renegotiate lease terms when operators face pressure or transitions occur.
 
@@ -48,7 +48,7 @@ The company's property portfolio has been shaped by acquisition and dispositions
 
 ## Risks and pressures
 
-Like all lodging REITs, Park faces cyclical revenue risk. A prolonged slowdown in business travel, a [recession](/recession/), or pandemic-style disruption directly hits occupancy and rate assumptions that underpin property valuations and lease economics. The company also faces operator risk: if a tenant hotel underperforms or the operator itself enters distress, Park may face extended negotiations or lease renegotiations that reduce near-term cash flows. Operator bankruptcy or default is an acute tail risk, particularly during crises.
+Like all lodging REITs, Park faces cyclical revenue risk. A prolonged slowdown in business travel, a [recession](/recession/), or pandemic-style disruption directly hits occupancy and rate assumptions that underpin property valuations and lease economics. The company also faces operator risk: if a tenant hotel underperforms or the operator itself enters distress, Park may face extended negotiations or lease renegotiations that reduce near-term cash flows. Operator bankruptcy or default is an acute [tail risk](/tail-risk/), particularly during crises.
 
 Leverage is another watch point. Hotel REITs typically carry modest to moderate debt to finance property [acquisitions](/acquisition/) and capital improvements. Park's debt structure, maturity ladder, and covenant terms determine its financial flexibility during downturns. High leverage in a weak lodging market can force asset sales at depressed valuations or limit dividend growth.
 

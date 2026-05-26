@@ -48,7 +48,7 @@ The unit economics are attractive for software. Once the platform is built and o
 
 ## Competitive position and the moat
 
-Veeva is the dominant player in cloud software for life sciences, with a large installed base of pharma and biotech customers. Competitors exist — Oracle and Salesforce both offer life-sciences solutions, and traditional enterprise-software vendors have added life-sciences functionality — but none matches Veeva's focus, depth of compliance expertise, or installed base in this vertical.
+Veeva is the dominant player in cloud software for life sciences, with a large installed base of pharma and biotech customers. Competitors exist — [Oracle](/orcl-stock/) and [Salesforce](/crm-stock/) both offer life-sciences solutions, and traditional enterprise-software vendors have added life-sciences functionality — but none matches Veeva's focus, depth of compliance expertise, or installed base in this vertical.
 
 The competitive advantage stems from three sources. First, regulatory domain expertise: Veeva's engineers and product teams understand FDA, EMA, and other regulatory regimes deeply and can anticipate how regulatory changes will affect software features. Second, network effects: as Veeva becomes standard across the industry, suppliers and service providers (contract manufacturers, clinical-trial organizations, consulting firms) also integrate with Vault, making it even more central to the ecosystem. Third, switching costs: a company managing critical drug submissions and regulatory compliance through Vault cannot afford to migrate that data and those workflows to a competing platform without enormous friction and risk.
 
@@ -60,7 +60,7 @@ The industry secular trend is favorable: drug development is becoming more compl
 
 ## Risks and challenges
 
-**Competition from larger vendors**: Oracle, Salesforce, and Microsoft can bundle life-sciences software with broader enterprise offerings and pursue customers aggressively. They may not have Veeva's domain expertise, but their scale and existing relationships with pharma companies are real competitive assets.
+**Competition from larger vendors**: Oracle, Salesforce, and [Microsoft](/msft-stock/) can bundle life-sciences software with broader enterprise offerings and pursue customers aggressively. They may not have Veeva's domain expertise, but their scale and existing relationships with pharma companies are real competitive assets.
 
 **Customer concentration**: a significant portion of Veeva's revenue comes from a small number of very large pharmaceutical companies. The loss of a single megacustomer or a negotiated price reduction from a large account is material to the business.
 

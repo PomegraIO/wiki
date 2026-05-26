@@ -26,7 +26,7 @@ The company also licenses its technology and data to research institutions and h
 
 Tempus' core asset is its database—now many millions of patients' worth of genomic, imaging, and outcome data linked together. Building that database required partnerships with hospitals and labs, regulatory navigations, and years of accumulation. The database is not easy to replicate: competitors would have to negotiate similar partnerships, build equivalent technology, and wait years to accumulate comparable data. This is a classic "data moat"—the larger and more rich the dataset, the more valuable the AI trained on it becomes, and the harder it is for competitors to catch up.
 
-Tempus competes against other health AI companies, against traditional genomic testing laboratories, and against the internal R&D and data analytics efforts of large healthcare systems and pharmaceutical companies. Larger competitors like Guardant Health and Invitae offer genomic testing. Some hospitals have built their own AI teams and analytics. Insurance companies use their own claims data for decision support. Tempus' edge is in integrating diverse data types—genetics, imaging, clinical—and in the machine learning models trained on that integrated data.
+Tempus competes against other health AI companies, against traditional genomic testing laboratories, and against the internal R&D and data analytics efforts of large healthcare systems and pharmaceutical companies. Larger competitors like [Guardant Health](/gh-stock/) and Invitae offer genomic testing. Some hospitals have built their own AI teams and analytics. Insurance companies use their own claims data for decision support. Tempus' edge is in integrating diverse data types—genetics, imaging, clinical—and in the machine learning models trained on that integrated data.
 
 ## Clinical evidence and adoption
 
@@ -54,7 +54,7 @@ Challenges include proving that recommendations improve outcomes at scale, navig
 
 ## How to research Tempus
 
-Tempus' SEC filings, particularly the S-1 registration statement and quarterly 10-Q reports (CIK 0001717115), describe the business model, revenue by segment, customer acquisition, and management's view of risks. The company's investor presentations highlight traction metrics: number of patient records in the database, number of provider organizations using the platform, percentage of new cancer diagnoses in the United States that flow through Tempus' systems.
+Tempus' SEC filings, particularly the S-1 registration statement and quarterly 10-Q reports (CIK 0001717115), describe the business model, revenue by segment, customer [acquisition](/acquisition/), and management's view of risks. The company's investor presentations highlight traction metrics: number of patient records in the database, number of provider organizations using the platform, percentage of new cancer diagnoses in the United States that flow through Tempus' systems.
 
 Published clinical evidence about the utility of Tempus' recommendations and real-world outcome studies are important to track. Healthcare conferences and peer-reviewed publications will show whether the company's claims about improving outcomes are borne out. Insurance reimbursement announcements from major carriers (Medicare, United, Anthem) signal growing acceptance and revenue predictability.
 

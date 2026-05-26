@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vibra Energia is a Brazilian energy company that buys, sells, and distributes fuel, natural gas, and related energy products across Brazil and the wider Latin American region. The company operates both as a distributor—moving energy products from producers to end customers—and as a trader, buying and selling energy commodities to manage supply and margin. It is one of Brazil's largest independent energy distributors and sits in the middle of the Latin American energy supply chain.
+Vibra Energia is a Brazilian energy company that buys, sells, and distributes fuel, [natural gas](/natural-gas/), and related energy products across Brazil and the wider Latin American region. The company operates both as a distributor—moving energy products from producers to end customers—and as a trader, buying and selling energy commodities to manage supply and margin. It is one of Brazil's largest independent energy distributors and sits in the middle of the Latin American energy supply chain.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,11 +27,11 @@ Vibra Energia is a Brazilian energy company that buys, sells, and distributes fu
 
 ## A distributor in Latin America's energy landscape
 
-Vibra Energia was created in 2019 through a merger of two Brazilian energy distributors, Neoenergy and Ultragaz. That combination created a larger, more integrated energy player with reach across multiple segments and geographies. The merger made economic sense because Brazil's energy market is huge—a country of over 200 million people with large industrial sectors and widespread automobile use. Energy distribution is an essential service, and consolidation creates scale and operational efficiencies.
+Vibra Energia was created in 2019 through a [merger](/merger/) of two Brazilian energy distributors, Neoenergy and Ultragaz. That combination created a larger, more integrated energy player with reach across multiple segments and geographies. The merger made economic sense because Brazil's energy market is huge—a country of over 200 million people with large industrial sectors and widespread automobile use. Energy distribution is an essential service, and consolidation creates scale and operational efficiencies.
 
 Brazil's energy mix is distinct from developed countries. While fossil fuels remain the primary source, hydropower provides a large share of electricity. Natural gas comes from both domestic production and imports, with import infrastructure connecting to neighboring countries. Vibra sits in this ecosystem as a critical middleman: it takes energy products from the suppliers and moves them to retailers, industries, and other end users.
 
-The company operates in a regulated environment but with different rules and price dynamics than utilities in developed countries. Brazil's fuel prices are influenced by both local supply and demand and by global crude oil prices. Currency movements—the Brazilian real relative to the US dollar—matter enormously because many energy commodities are priced in dollars globally, and a weaker real makes imports more expensive.
+The company operates in a regulated environment but with different rules and price dynamics than utilities in developed countries. Brazil's fuel prices are influenced by both local supply and demand and by global [crude oil](/crude-oil/) prices. Currency movements—the Brazilian real relative to the [US dollar](/us-dollar/)—matter enormously because many energy commodities are priced in dollars globally, and a weaker real makes imports more expensive.
 
 ## What Vibra does, segment by segment
 
@@ -67,7 +67,7 @@ The Liquids Distribution segment, in particular, is competitive but sticky. Once
 
 ## Brazil, politics, and macro risks
 
-Brazil is a geographically large, economically important country but faces political and macro uncertainty that affects business. Currency devaluation is a chronic issue: the real has weakened significantly against the dollar over the past decade. Inflation has periodically spiked, though it has moderated in recent years. Interest rates in Brazil are substantially higher than in developed countries, which increases the cost of capital for the company.
+Brazil is a geographically large, economically important country but faces political and macro uncertainty that affects business. Currency devaluation is a chronic issue: the real has weakened significantly against the dollar over the past decade. [Inflation](/inflation/) has periodically spiked, though it has moderated in recent years. [Interest rates](/interest-rate/) in Brazil are substantially higher than in developed countries, which increases the cost of capital for the company.
 
 Political risk is also real. Changes in government, shifts in regulatory philosophy (price controls on fuel, subsidy policies, import restrictions), and corruption or corruption investigations can disrupt business conditions abruptly. Environmental regulations around fossil fuels could tighten, reducing demand for traditional fuel distribution.
 
@@ -77,10 +77,10 @@ The broader energy transition also poses a long-term risk. As vehicle electrific
 
 Investors researching Vibra should start with its 10-K (SEC CIK 0001000377) and pay close attention to segment-level profitability and margin trends. Watch the company's leverage and debt covenants, which matter in a high-interest-rate environment like Brazil's.
 
-Track crude oil prices and the Brazilian real exchange rate; both drive Vibra's operating environment. High crude prices and a weak real compress margins, while low crude and a strong real expand them.
+Track crude oil prices and the Brazilian [real exchange rate](/real-exchange-rate/); both drive Vibra's operating environment. High crude prices and a weak real compress margins, while low crude and a strong real expand them.
 
 In earnings calls, listen carefully to management commentary on fuel price controls, regulatory changes, and competitive dynamics. Any indication of stricter price controls or regulatory restrictions is a red flag. Conversely, clarity that price controls are being relaxed or phased out is a positive.
 
-Monitor the company's working capital and cash conversion cycle. Fuel distribution is capital intensive in terms of working capital—the company must finance inventory while waiting to collect from customers. Deterioration in the cash conversion cycle signals trouble, while improvement indicates operational efficiency gains or favourable pricing dynamics.
+Monitor the company's working capital and [cash conversion cycle](/cash-conversion-cycle/). Fuel distribution is capital intensive in terms of working capital—the company must finance inventory while waiting to collect from customers. Deterioration in the cash conversion cycle signals trouble, while improvement indicates operational efficiency gains or favourable pricing dynamics.
 
 Finally, understand the macro outlook for Brazil: inflation trends, interest rates, and currency expectations. A country with high and rising inflation makes business planning difficult and erodes real returns on capital. A country with stable macro conditions allows companies like Vibra to plan and invest with more confidence.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Trip.com Group is an online travel company headquartered in Shanghai that owns and operates a family of travel platforms across Asia and beyond — from the flagship Trip.com site to regional brands like Ctrip, Skyscanner, and Qunar. It books flights, hotels, trains, car rentals, and vacation packages for hundreds of millions of travelers annually, earning revenue chiefly through commissions on bookings and take-rates charged to suppliers. The company is listed on NASDAQ under the ticker TCOM and is the largest independent online travel agency in China and one of Asia's major travel marketplaces.*
+*Trip.com Group is an online travel company headquartered in Shanghai that owns and operates a family of travel platforms across Asia and beyond — from the flagship Trip.com site to regional brands like Ctrip, Skyscanner, and Qunar. It books flights, hotels, trains, car rentals, and vacation packages for hundreds of millions of travelers annually, earning revenue chiefly through commissions on bookings and take-rates charged to suppliers. The company is listed on [NASDAQ](/nasdaq/) under the ticker TCOM and is the largest independent online travel agency in China and one of Asia's major travel marketplaces.*
 
 <aside class="wiki-infobox">
 <table>
@@ -52,7 +52,7 @@ International expansion is both an opportunity and a proving ground. Trip.com's 
 
 Trip.com's fortunes track China's travel cycles closely. In 2020–2021, the pandemic and subsequent Chinese lockdowns devastated bookings, forcing the company to cut costs and pivot toward domestic travel. When China reopened in late 2022 and into 2023, pent-up demand flooded back — both Chinese travelers going abroad and international visitors returning to China. That recovery drove a surge in bookings and revenue.
 
-However, China's tourism market carries idiosyncratic risks. Government travel restrictions, zero-Covid-style controls, or regional lockdowns can instantly halt travel. Geopolitical tensions, visa restrictions, and regulatory changes in key destination countries (especially for Chinese outbound tourism) affect demand. And within China, economic cycles matter: consumer confidence and disposable income drive leisure travel, while business travel depends on corporate spending. Trip.com has no control over these macroeconomic forces and is highly exposed to them.
+However, China's tourism market carries [idiosyncratic risks](/idiosyncratic-risk/). Government travel restrictions, zero-Covid-style controls, or regional lockdowns can instantly halt travel. Geopolitical tensions, [visa](/v-stock/) restrictions, and regulatory changes in key destination countries (especially for Chinese outbound tourism) affect demand. And within China, economic cycles matter: consumer confidence and disposable income drive leisure travel, while business travel depends on corporate spending. Trip.com has no control over these macroeconomic forces and is highly exposed to them.
 
 ## Technology and supply chain as competitive moats
 
@@ -64,10 +64,10 @@ That said, none of these moats is unassailable. Technology can be replicated, an
 
 Trip.com faces persistent regulatory uncertainty in China. The government has increasingly scrutinised tech companies on data privacy, monopoly conduct, and national security grounds. Travel data — customer movements, preferences, international itineraries — has political salience, and Trip.com could face demands to share it or restrictions on how it uses it. Additionally, any tightening of Chinese foreign-exchange controls could impede payments to international suppliers or dividend repatriation to overseas shareholders.
 
-Currency risk is real for a China-headquartered company that does substantial international business and pays dividends in US dollars. A sustained depreciation of the Chinese yuan against the dollar would reduce the translated value of international earnings and compress financial metrics.
+[Currency risk](/currency-risk/) is real for a China-headquartered company that does substantial international business and pays [dividends](/dividend/) in [US dollars](/us-dollar/). A sustained [depreciation](/depreciation/) of the Chinese yuan against the dollar would reduce the translated value of international earnings and compress financial metrics.
 
 ## Understanding Trip.com's health and trajectory
 
-An investor should begin with Trip.com's quarterly and annual reports (SEC CIK 0001269238), paying close attention to the breakdown of bookings by geography (domestic China, international inbound, China outbound) and the trend in commission rates and operating margins. Key metrics include the growth rate in transaction volume, the size and engagement of the mobile user base, and the health of repeat bookings versus new users.
+An investor should begin with Trip.com's quarterly and [annual reports](/10-k/) (SEC CIK 0001269238), paying close attention to the breakdown of bookings by geography (domestic China, international inbound, China outbound) and the trend in commission rates and [operating margins](/operating-margin/). Key metrics include the growth rate in transaction volume, the size and engagement of the mobile user base, and the health of repeat bookings versus new users.
 
 Monitor commentary on supply-chain negotiations, especially with major hotel chains and airlines. If commissions are under pressure, operating leverage will suffer. Also watch for updates on international expansion and any regulatory actions or guidance from Chinese authorities. Finally, stay attuned to Chinese consumer confidence and travel trends — when Chinese travelers pull back on vacation bookings or international trips, Trip.com's growth slows markedly.

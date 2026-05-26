@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Haleon is a manufacturer of over-the-counter health and personal-care products — pain relievers, oral-care ranges, cough remedies, digestive aids, and hygiene items sold under household brand names. It was created in 2022 from the combination of GlaxoSmithKline's consumer health division and Pfizer's consumer-health portfolio, and it operates across more than 100 countries with a deep stable of trusted brands.*
+*Haleon is a manufacturer of over-the-counter health and personal-care products — pain relievers, oral-care ranges, cough remedies, digestive aids, and hygiene items sold under household brand names. It was created in 2022 from the combination of GlaxoSmithKline's consumer health division and [Pfizer](/pfe-stock/)'s consumer-health portfolio, and it operates across more than 100 countries with a deep stable of trusted brands.*
 
 | Asset | What it does | Strategic role |
 |---|---|---|
@@ -31,7 +31,7 @@ This brand loyalty translates into pricing power and distribution advantage. Ret
 
 ## The economics of consumer health
 
-Haleon's profit comes from the gap between manufacturing cost and retail price. The company operates manufacturing plants in multiple countries, buys raw materials (active pharmaceutical ingredients, flavourings, packaging), and produces finished goods that it then ships to distributors and retailers. Gross margins on OTC products are typically strong — 50 to 70 percent — because the products are largely formulated and do not require complex ongoing clinical trials. Operating margins reflect the cost of sales, distribution, advertising and marketing (necessary to maintain brand awareness), and corporate overhead.
+Haleon's profit comes from the gap between manufacturing cost and retail price. The company operates manufacturing plants in multiple countries, buys raw materials (active pharmaceutical ingredients, flavourings, packaging), and produces finished goods that it then ships to distributors and retailers. Gross margins on OTC products are typically strong — 50 to 70 percent — because the products are largely formulated and do not require complex ongoing clinical trials. [Operating margins](/operating-margin/) reflect the cost of sales, distribution, advertising and marketing (necessary to maintain brand awareness), and corporate overhead.
 
 The business is heavily dependent on retail shelf space and distribution reach. Haleon must maintain relationships with major retailers — supermarkets, pharmacies, discount chains — and win placement in both mainstream and premium positions. Retailers themselves are consolidating globally; a few large chains control a significant share of distribution in most developed markets. This concentration gives large retailers negotiating power over pricing and promotional support, pressuring suppliers like Haleon.
 
@@ -53,6 +53,6 @@ Start with Haleon's 10-K filing (SEC CIK 0001900304) and focus on revenue trends
 
 Review the portfolio rotation: which brands are growing and which are declining, and is Haleon's mix shift (away from maturing products, into growth categories) succeeding or lagging? Look for information on product recalls, manufacturing challenges, or supply-chain disruptions — OTC health products have high brand trust, and a serious quality issue can damage market position.
 
-On the balance sheet, track inventory levels and account receivables. Retailers have powerful negotiating leverage and often push payment terms; watch whether Haleon's working capital needs are growing or shrinking relative to revenue.
+On the [balance sheet](/balance-sheet/), track inventory levels and account receivables. Retailers have powerful negotiating leverage and often push payment terms; watch whether Haleon's working capital needs are growing or shrinking relative to revenue.
 
 The equity is best viewed as exposure to stable, modest-growth consumer-health franchises with pricing power and predictable demand. Like any public security, shares trade at market prices reflecting investor expectations, and nothing here is investment guidance — only a map of how the business operates and where its competitive advantages and vulnerabilities lie.

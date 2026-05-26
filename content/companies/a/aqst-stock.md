@@ -15,7 +15,7 @@ Aquestive Therapeutics is a specialty pharmaceutical company focused on developi
 
 ## Who uses these products?
 
-The company's marketed products target patients with epilepsy, opioid use disorder, and other serious conditions where rapid drug delivery or improved absorption matters. AQST's most prominent asset is Libervant (diazepam), an FDA-approved dissolvable formulation for acute seizure clusters, which competes with traditional rectal and intramuscular diazepam delivery. Another product, Suboxone (buprenorphine/naloxone), leverages a dissolvable film format for opioid use disorder treatment—a significant market as addiction treatment expands. The company has also been involved in pain and psychiatric indications through partnered or acquired programs.
+The company's marketed products [target](/tgt-stock/) patients with epilepsy, opioid use disorder, and other serious conditions where rapid drug delivery or improved absorption matters. AQST's most prominent asset is Libervant (diazepam), an FDA-approved dissolvable formulation for acute seizure clusters, which competes with traditional rectal and intramuscular diazepam delivery. Another product, Suboxone (buprenorphine/naloxone), leverages a dissolvable film format for opioid use disorder treatment—a significant market as addiction treatment expands. The company has also been involved in pain and psychiatric indications through partnered or acquired programs.
 
 ## How does the business model work?
 

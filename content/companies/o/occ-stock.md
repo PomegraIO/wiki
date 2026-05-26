@@ -22,7 +22,7 @@ The cabling industry is capital-intensive but not particularly technology-cuttin
 
 ## Size and scale within the sector
 
-OCC is a small-cap company—substantially smaller than diversified industrial firms like [TE Connectivity](/wiki/te-connectivity/) or [Amphenol](/wiki/amphenol/), which also make cables but at massive scale across consumer, telecom, and industrial markets. OCC's focus on high-reliability, engineered solutions keeps it in a narrower market, with less exposure to commodity price pressures but also limited upside from volume scaling. The company's revenue typically runs in the range of $100–150 million annually, making it a genuine boutique operator in its niches.
+OCC is a small-cap company—substantially smaller than diversified industrial firms like [TE Connectivity](/tel-stock/) or Amphenol, which also make cables but at massive scale across consumer, telecom, and industrial markets. OCC's focus on high-reliability, engineered solutions keeps it in a narrower market, with less exposure to commodity price pressures but also limited upside from volume scaling. The company's revenue typically runs in the range of $100–150 million annually, making it a genuine boutique operator in its niches.
 
 ## Competitive and market pressures
 

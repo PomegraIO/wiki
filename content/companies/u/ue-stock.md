@@ -28,7 +28,7 @@ handwritten: true
 
 ## Origins in the Vornado Portfolio
 
-Urban Edge Properties exists as a distinct company thanks to a strategic separation. In January 2015, Vornado Realty Trust completed a tax-free [spin-off](/spin-off/) of its retail shopping center business, creating UE as an independent publicly traded REIT. Vornado shareholders received one UE share for every two shares held. This separation allowed Vornado to refocus on its core office and high-end retail holdings in New York and Washington D.C., while Urban Edge took control of a broad portfolio of neighborhood shopping centers positioned in secondary and tertiary urban markets across the Northeast.
+Urban Edge Properties exists as a distinct company thanks to a strategic separation. In January 2015, [Vornado Realty](/vno-stock/) Trust completed a tax-free [spin-off](/spin-off/) of its retail shopping center business, creating UE as an independent publicly traded REIT. Vornado shareholders received one UE share for every two shares held. This separation allowed Vornado to refocus on its core office and high-end retail holdings in New York and Washington D.C., while Urban Edge took control of a broad portfolio of neighborhood shopping centers positioned in secondary and tertiary urban markets across the Northeast.
 
 The spin-off transferred approximately 79 strip shopping centers, three enclosed malls, and one warehouse park to the new entity, along with a cash contribution of $225 million. This portfolio gave UE an immediate foundation in 15 million square feet of retail space concentrated in New Jersey, New York, Pennsylvania, and Puerto Rico—markets with high barriers to entry and strong underlying demographics.
 

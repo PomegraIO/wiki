@@ -13,7 +13,7 @@ handwritten: true
 
 > "A refinery is a captured commodity processor — it profits from the crack spread, the margin between the cost of crude oil and the price of finished fuel."
 
-HF Sinclair owns and operates oil refineries along with related logistics, marketing, and distribution operations. The company is not an oil producer — it does not drill wells or explore for reserves. Instead, it buys crude oil (and other feedstocks), processes it into gasoline, diesel, jet fuel, and chemical products, and sells those finished goods to distributors, retailers, and large industrial customers. In this sense, the company is a commodity processor: it captures the economic value embedded in the difference between the price of crude oil and the price of the products made from it.
+HF Sinclair owns and operates oil refineries along with related logistics, marketing, and distribution operations. The company is not an oil producer — it does not drill wells or explore for reserves. Instead, it buys [crude oil](/crude-oil/) (and other feedstocks), processes it into gasoline, diesel, jet fuel, and chemical products, and sells those finished goods to distributors, retailers, and large industrial customers. In this sense, the company is a commodity processor: it captures the economic value embedded in the difference between the price of crude oil and the price of the products made from it.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ HF Sinclair owns and operates oil refineries along with related logistics, marke
 
 ## What the company actually does
 
-HF Sinclair operates a portfolio of refineries with combined processing capacity measured in hundreds of thousands of barrels per day. A barrel of crude oil entering a refinery is separated — through distillation, chemical conversion, and blending — into dozens of products: gasoline, diesel, heating oil, jet fuel, lubricants, and petrochemicals used as feedstocks for plastics and other materials.
+HF Sinclair operates a portfolio of refineries with combined processing capacity measured in hundreds of thousands of barrels per day. A barrel of crude oil entering a refinery is separated — through distillation, chemical conversion, and blending — into dozens of products: gasoline, diesel, [heating oil](/heating-oil/), jet fuel, lubricants, and petrochemicals used as feedstocks for plastics and other materials.
 
 Refining is a capital-intensive, technically complex business. A modern refinery is a vast industrial complex with equipment worth hundreds of millions or billions of dollars, operated continuously, running feedstock through distillation towers, reactors, and separation units. The company must manage feedstock logistics — getting crude oil from producers or terminals into the refinery — and product logistics — moving finished products to depots, distribution terminals, and customers. It must manage environmental compliance, worker safety, equipment maintenance, and the reliability of operations around the clock.
 
@@ -49,11 +49,11 @@ This means HF Sinclair's profitability is cyclical and correlated with commodity
 
 The refining business is capital-intensive and must be managed for long-term returns, not short-term fluctuations. A refinery built in the 1980s has likely paid down its capital cost through decades of operation, but new refineries cost billions to build and generate returns over thirty years or more. Maintenance capital is ongoing — equipment fails, environmental rules tighten, efficiency improvements are required.
 
-The company returns cash to shareholders primarily through dividends and share buybacks, the standard model for mature energy infrastructure. Strong cash generation in high-crack-spread years funds distributions and debt management.
+The company returns cash to shareholders primarily through [dividends](/dividend/) and [share buybacks](/share-buyback/), the standard model for mature energy infrastructure. Strong cash generation in high-crack-spread years funds distributions and debt management.
 
-Expansion is selective. Building a new refinery is impractical in most of the developed world due to environmental permitting complexity and the long construction timeline. Instead, capacity growth comes from debottlenecking existing facilities — engineering improvements that increase throughput without major new construction. Acquisitions are a path to growth, consolidating assets from other operators.
+Expansion is selective. Building a new refinery is impractical in most of the developed world due to environmental permitting complexity and the long construction timeline. Instead, capacity growth comes from debottlenecking existing facilities — engineering improvements that increase throughput without major new construction. [Acquisitions](/acquisition/) are a path to growth, consolidating assets from other operators.
 
-The company is exposed to capital intensity in capital markets as well. Rising interest rates increase the cost of capital and can reduce the present value of long-lived refining assets. The energy transition — the move toward renewable and electric transportation — creates long-term headwinds. As vehicles electrify, demand for gasoline and diesel declines over decades, which threatens the demand case for refineries and their capacity utilization.
+The company is exposed to capital intensity in capital markets as well. Rising [interest rates](/interest-rate/) increase the cost of capital and can reduce the present value of long-lived refining assets. The energy transition — the move toward renewable and electric transportation — creates long-term headwinds. As vehicles electrify, demand for gasoline and diesel declines over decades, which threatens the demand case for refineries and their capacity utilization.
 
 ## Competitive environment and structural challenges
 

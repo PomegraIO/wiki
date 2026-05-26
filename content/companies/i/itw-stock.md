@@ -13,7 +13,7 @@ handwritten: true
 
 Illinois Tool Works is a big industrial company that most people have never heard of. It does not make cars or phones or anything a consumer buys directly. Instead, it makes thousands of different parts and systems that go into other people's products: fasteners that hold airplanes together, welding equipment for factories, food-safety systems for restaurants, components for industrial machinery. It operates across seven major segments and employs tens of thousands of people across the US and dozens of other countries.
 
-The company was founded in 1912 in Chicago by three men who saw an opportunity to improve the way fasteners were made. It was a small tool shop then. A hundred years later it became one of the largest industrial manufacturers on Earth. The stock trades on the New York Stock Exchange under the ticker ITW.
+The company was founded in 1912 in Chicago by three men who saw an opportunity to improve the way fasteners were made. It was a small tool shop then. A hundred years later it became one of the largest industrial manufacturers on Earth. The stock trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker ITW.
 
 ## Start small, fix real problems
 
@@ -23,7 +23,7 @@ The founders developed the screw, patented it, started selling it, and made a pr
 
 In the decades that followed, the company expanded its fastener business, then gradually moved into related products: tools, equipment, components, and systems. It stayed focused on industrial and commercial customers who had specific needs. A construction company needs the right tools to build faster. A factory needs equipment that does not break down. A food-service company needs machinery that keeps food safe. Illinois Tool Works made products for these customers.
 
-The company grew partly by inventing new products and partly by acquiring other companies that solved related problems. Most of those acquisitions were small or mid-sized — specialty manufacturers with strong positions in their own niches. The company would buy them, leave the management mostly alone, and let them keep doing what they did well. This was unusual at the time. Many industrial companies would buy a competitor and consolidate it, closing redundant facilities and cutting costs. Illinois Tool Works did the opposite. It kept the small units as separate businesses, letting them stay focused on their own customers and problems.
+The company grew partly by inventing new products and partly by acquiring other companies that solved related problems. Most of those [acquisitions](/acquisition/) were small or mid-sized — specialty manufacturers with strong positions in their own niches. The company would buy them, leave the management mostly alone, and let them keep doing what they did well. This was unusual at the time. Many industrial companies would buy a competitor and consolidate it, closing redundant facilities and cutting costs. Illinois Tool Works did the opposite. It kept the small units as separate businesses, letting them stay focused on their own customers and problems.
 
 ## Seven different businesses inside one company
 
@@ -39,11 +39,11 @@ The Test and Measurement segment makes test equipment and sensors used to check 
 
 The Welding segment makes welding equipment and consumables used in factories, construction, shipyards, and skilled-trade work. Its products include machines that fuse metals and the wires and gases needed to do the job. The welding business is a mature, steady cash generator.
 
-The Polymers and Fluids segment makes adhesives, sealants, fluids, and polymers used in assembly and manufacturing. A car factory might use sealant from this segment to bond panels together.
+The Polymers and Fluids segment makes adhesives, sealants, fluids, and polymers used in assembly and manufacturing. A car factory might use sealant from this segment to [bond](/bond/) panels together.
 
 The Construction Products segment makes fasteners, anchors, and other components for construction. It supplies builders and contractors with the hardware they need to assemble buildings.
 
-No single segment is the whole company. The largest might be three to four times the size of the smallest. This diversification means if one industry falters — say, car manufacturing slows down — the company still has five other segments producing cash and profit.
+No single segment is the whole company. The largest might be three to four times the size of the smallest. This [diversification](/diversification/) means if one industry falters — say, car manufacturing slows down — the company still has five other segments producing cash and profit.
 
 ## The secret: focus and efficiency
 

@@ -33,7 +33,7 @@ Suncor is a scale player in a consolidated industry. Its competitive moat rests 
 
 **Commodity Exposure:** Oil prices dictate profitability; downturns in crude can swing Suncor from highly profitable to cash-flow-challenged quickly.
 
-**Energy Transition Risk:** Oil sands production, by volume and carbon intensity, faces regulatory pressure and investment scrutiny as governments and investors target decarbonization. Canada's carbon pricing regime and potential future tightening create operating cost pressures.
+**Energy Transition Risk:** Oil sands production, by volume and carbon intensity, faces regulatory pressure and investment scrutiny as governments and investors [target](/tgt-stock/) decarbonization. Canada's carbon pricing regime and potential future tightening create operating cost pressures.
 
 **Capital Intensity:** Oil sands operations require massive upfront spending on mines, facilities, and upgrades; project timelines span years to decades. Once built, these assets become stranded if crude prices collapse or demand shifts.
 

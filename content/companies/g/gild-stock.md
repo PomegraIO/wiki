@@ -61,7 +61,7 @@ A second pressure is the question of how aggressively Gilead prices its medicine
 
 Gilead's future depends on whether it can sustain revenue and profit as its legacy antivirals mature and as it builds new franchises in cell therapy, immunology, and oncology. The company is investing billions in research and development, but biotech is inherently uncertain—drugs fail in trials, clinical candidates prove toxic or ineffective, and competitors may reach the market first with better solutions.
 
-One strategic question is whether Gilead will make transformational acquisitions (as it did with Pharmasset) or try to build internally. Large acquisitions carry integration risk but can rapidly add pipeline assets. Internal development is slower but preserves culture and avoids the overpayment that often characterises biotech M&A.
+One strategic question is whether Gilead will make transformational [acquisitions](/acquisition/) (as it did with Pharmasset) or try to build internally. Large acquisitions carry integration risk but can rapidly add pipeline assets. Internal development is slower but preserves culture and avoids the overpayment that often characterises biotech M&A.
 
 A second question is how Gilead will navigate the shift toward prevention in HIV. If prevention regimens (like long-acting injectable cabotegravir and rilpivirine) become the standard of care, the revenue will be enormous but the patient population treated for active infection will shrink, changing the economics of the existing franchise.
 

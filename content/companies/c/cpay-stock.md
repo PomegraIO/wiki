@@ -19,11 +19,11 @@ The company is a creature of the working-capital problem. Large organizations in
 
 ## The payment card business
 
-When a Corpay cardholder swipes a card at a restaurant or a hotel, several things happen. The merchant processes the transaction. The card network (Visa, Mastercard) routes the transaction and takes a small fee. Corpay, as the card issuer, records the transaction and bills the business customer. The business then reimburses the employee or reconciles the card spending against company accounts.
+When a Corpay cardholder swipes a card at a restaurant or a hotel, several things happen. The merchant processes the transaction. The card network ([Visa](/v-stock/), [Mastercard](/ma-stock/)) routes the transaction and takes a small fee. Corpay, as the card issuer, records the transaction and bills the business customer. The business then reimburses the employee or reconciles the card spending against company accounts.
 
 Corpay's economics in this business are interchange. Merchants pay a percentage of the transaction value (2 to 4 percent, typically) to the card network and the issuing bank. Corpay does not set these interchange rates — Visa and Mastercard do — but Corpay captures a share of interchange as a processor and card issuer. The company also charges annual fees on cards and, in some cases, usage fees. A customer with thousands of employees using Corpay cards and high annual spending generates meaningful revenue.
 
-The appeal to customers is straightforward: a company card reduces the friction of employee reimbursement. An employee doesn't float personal cash for a meal or a client gift and wait for reimbursement; the company card is billed directly. This improves employee experience and accelerates what's called the "cash conversion cycle" — the time between when a company pays for something and when it collects cash from customers.
+The appeal to customers is straightforward: a company card reduces the friction of employee reimbursement. An employee doesn't float personal cash for a meal or a client gift and wait for reimbursement; the company card is billed directly. This improves employee experience and accelerates what's called the "[cash conversion cycle](/cash-conversion-cycle/)" — the time between when a company pays for something and when it collects cash from customers.
 
 ## Attached software and services
 
@@ -51,21 +51,21 @@ The company's revenue is geographically diverse. It operates globally, with expo
 
 Corpay's business is dependent on card usage and transaction volumes. A decline in business travel, a shift to digital payments that bypass corporate cards, or a shift in how companies manage employee spending could pressure revenue.
 
-Regulation is another risk. The payment-card industry is heavily regulated by central banks and payment networks. Changes in interchange rates, network rules, or regulations governing card issuers could affect the company's economics. The company is also subject to data-security and privacy regulations, compliance with which requires ongoing investment.
+Regulation is another risk. The payment-card industry is heavily regulated by [central banks](/central-bank/) and payment networks. Changes in interchange rates, network rules, or regulations governing card issuers could affect the company's economics. The company is also subject to data-security and privacy regulations, compliance with which requires ongoing investment.
 
 Competition is significant. Banks issue corporate cards directly; fintech companies have built competing expense-management platforms; and payment networks themselves are expanding their services. Corpay must innovate and maintain customer relationships to hold market share.
 
-Fraud and credit risk are inherent. If a cardholder loses their card or spends fraudulently, Corpay might bear some loss (though typically merchants and networks share fraud risk). Large customer defaults also matter — if a major corporate customer goes bankrupt, the company takes a hit.
+Fraud and [credit risk](/credit-risk/) are inherent. If a cardholder loses their card or spends fraudulently, Corpay might bear some loss (though typically merchants and networks share fraud risk). Large customer defaults also matter — if a major corporate customer goes bankrupt, the company takes a hit.
 
 ## Capital and growth
 
-Corpay generates substantial free cash flow from its recurring revenue base and operating leverage. The company has reinvested that cash into acquisitions of adjacent businesses (acquiring other payment-services or software companies to expand its platform) and into organic growth through sales and product investment.
+Corpay generates substantial [free cash flow](/free-cash-flow/) from its recurring revenue base and operating leverage. The company has reinvested that cash into [acquisitions](/acquisition/) of adjacent businesses (acquiring other payment-services or software companies to expand its platform) and into organic growth through sales and product investment.
 
 Acquisitions have been a significant part of the company's growth strategy. The company has periodically acquired competitors, complementary software companies, or vertical-specific payment processors to broaden its service offering and customer base. The success of these acquisitions depends on integrating them well and retaining customers.
 
 ## How money flows
 
-A customer pays Corpay a subscription fee for the expense-management platform and per-transaction fees or annual fees on corporate cards. Each month, those payments arrive and generate revenue. A portion of that revenue covers Corpay's costs: software development, customer support, marketing, and payments processing. The remainder is operating profit that Corpay returns to shareholders via dividends or buybacks, or reinvests in growth.
+A customer pays Corpay a subscription fee for the expense-management platform and per-transaction fees or annual fees on corporate cards. Each month, those payments arrive and generate revenue. A portion of that revenue covers Corpay's costs: software development, customer support, marketing, and payments processing. The remainder is operating profit that Corpay returns to shareholders via [dividends](/dividend/) or buybacks, or reinvests in growth.
 
 The company does not manufacture cards or run its own payment networks — it partners with Visa, Mastercard, and traditional banks that issue the underlying payment instruments. This asset-light model lets Corpay focus on the software and customer experience rather than the infrastructure.
 

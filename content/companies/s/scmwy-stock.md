@@ -65,7 +65,7 @@ Broadband remains a strong business because it is a utility without an obvious s
 
 ## Capital allocation and dividend dependence
 
-Swisscom is a mature business that generates more cash than it needs to invest in maintaining and upgrading its networks. For years, the company has returned most of that excess cash to shareholders through dividends, making Swisscom a favorite of income investors seeking stable returns. The dividend typically yields 4 to 5 percent, high by global standards but reasonable for a mature utility with low growth.
+Swisscom is a mature business that generates more cash than it needs to invest in maintaining and upgrading its networks. For years, the company has returned most of that excess cash to shareholders through [dividends](/dividend/), making Swisscom a favorite of income investors seeking stable returns. The dividend typically yields 4 to 5 percent, high by global standards but reasonable for a mature utility with low growth.
 
 The company also invests in cost reduction. Recent years have seen rationalization of operations — consolidating data centers, automating customer service, merging back-office functions — that have improved margins and offset some of the pricing pressure from competition.
 
@@ -81,10 +81,10 @@ Capital intensity is rising as Swisscom must invest in newer network technologie
 
 ## Tracking the business
 
-Watch for quarterly customer metrics: how many mobile subscribers is Swisscom gaining or losing, and to what degree is competitive defection accelerating? Monitor fixed-line broadband trends, which are less competitive than mobile but still under pressure. Track the company's margin trends; if cost inflation is outpacing revenue growth, that signals trouble ahead.
+Watch for quarterly customer metrics: how many mobile subscribers is Swisscom gaining or losing, and to what degree is competitive defection accelerating? Monitor fixed-line broadband trends, which are less competitive than mobile but still under pressure. Track the company's margin trends; if cost [inflation](/inflation/) is outpacing revenue growth, that signals trouble ahead.
 
 ## How to research Swisscom
 
-Start with the company's annual report or 10-K filing (SEC CIK 0001069336), which provides segment revenue, customer counts, EBITDA, and capex levels. The company's quarterly results announcements contain useful color on competitive trends and customer churn.
+Start with the company's [annual report](/10-k/) or 10-K filing (SEC CIK 0001069336), which provides segment revenue, customer counts, [EBITDA](/ebitda/), and capex levels. The company's quarterly results announcements contain useful color on competitive trends and customer churn.
 
-Compare Swisscom's operating margins and growth rates to other Western European telecom operators to understand whether the company is outperforming or underperforming its peers. Watch for any announcements of major strategic shifts — divestitures, acquisitions, or large new investments — that might signal management's view on the company's future opportunities.
+Compare Swisscom's [operating margins](/operating-margin/) and growth rates to other Western European telecom operators to understand whether the company is outperforming or underperforming its peers. Watch for any announcements of major strategic shifts — [divestitures](/divestiture/), [acquisitions](/acquisition/), or large new investments — that might signal management's view on the company's future opportunities.

@@ -28,7 +28,7 @@ handwritten: true
 
 J & Friends Holdings Ltd operates as an apparel and fashion retailer headquartered in Hong Kong, with a focus on menswear and casual wear across Greater China. The company runs a dual-channel model—wholesale distribution to department stores and specialty retailers, paired with a direct-to-consumer retail presence through its own stores and e-commerce platforms. This hybrid approach has historically allowed the company to reach both wholesale accounts and end consumers, though the balance between channels has shifted over its operating history.
 
-The core product portfolio centers on casual menswear and branded apparel under house labels that target middle-market consumers in Hong Kong and mainland China. The merchandise mix includes t-shirts, trousers, outerwear, and accessories, with pricing positioned between fast-fashion and premium contemporary brands.
+The core product portfolio centers on casual menswear and branded apparel under house labels that [target](/tgt-stock/) middle-market consumers in Hong Kong and mainland China. The merchandise mix includes t-shirts, trousers, outerwear, and accessories, with pricing positioned between fast-fashion and premium contemporary brands.
 
 ## Operating Structure and Revenue Streams
 

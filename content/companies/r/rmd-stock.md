@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*ResMed is a San Diego-based manufacturer of medical devices and cloud-based software for managing chronic diseases, particularly in respiratory, sleep, and out-of-hospital care settings. Its product portfolio spans hardware (CPAP machines for sleep apnea, ventilators, monitors) and software platforms that allow physicians and hospitals to track patients remotely and adjust treatment in real time. Listed on NASDAQ as RMD, ResMed serves millions of patients globally and is one of the few large medical-devices companies with both hardware and software as equally important profit drivers.*
+*ResMed is a San Diego-based manufacturer of medical devices and cloud-based software for managing chronic diseases, particularly in respiratory, sleep, and out-of-hospital care settings. Its product portfolio spans hardware (CPAP machines for sleep apnea, ventilators, monitors) and software platforms that allow physicians and hospitals to track patients remotely and adjust treatment in real time. Listed on [NASDAQ](/nasdaq/) as RMD, ResMed serves millions of patients globally and is one of the few large medical-devices companies with both hardware and software as equally important profit drivers.*
 
 <aside class="wiki-infobox">
 <table>
@@ -62,7 +62,7 @@ ResMed has been explicit about this transition. Management aims to grow software
 
 1. Win customer adoption of its software platforms, competing against entrenched hospital IT systems and other digital-health startups.
 2. Demonstrate that its software improves patient outcomes or reduces costs enough to justify licensing fees.
-3. Integrate acquisitions successfully and retain their customer bases.
+3. Integrate [acquisitions](/acquisition/) successfully and retain their customer bases.
 
 Hardware remains important because it is the entry point — a hospital that buys ResMed ventilators is more likely to adopt ResMed's monitoring and management software — but the story increasingly rests on software traction and cross-selling.
 
@@ -80,6 +80,6 @@ The sleep-apnea market is mature in developed countries — penetration is high,
 
 ## Understanding ResMed's trajectory
 
-An investor should begin with the company's 10-K (SEC CIK 0000943819) to understand the breakdown of revenue by segment (cloud & connected care, respiratory & monitoring, software subscriptions) and to track how the mix is shifting. Watch the margins: software segments are higher-margin than hardware, so a successful mix shift should expand overall operating margins.
+An investor should begin with the company's 10-K (SEC CIK 0000943819) to understand the breakdown of revenue by segment (cloud & connected care, respiratory & monitoring, software subscriptions) and to track how the mix is shifting. Watch the margins: software segments are higher-margin than hardware, so a successful mix shift should expand overall [operating margins](/operating-margin/).
 
 Monitor customer acquisition and retention for cloud platforms: is ResMed winning new hospital and clinic customers? Are existing device customers adopting software modules? Look at the rate of acquisition integration — ResMed has made several significant acquisitions, and each one must be successfully integrated to justify the price paid. Finally, stay alert to regulatory changes in key markets, especially Medicare reimbursement policy for out-of-hospital services, and to competitive dynamics in the software market, where new entrants appear frequently and innovation moves fast.

@@ -21,7 +21,7 @@ The bitcoin gift card platform worked but remained small and had structural limi
 
 ## The Core Business Today
 
-Fold's flagship product is a Visa debit card (powered by partner payment processors) that loads from a linked bank account and automatically converts a percentage of every dollar spent into bitcoin, which lands in the user's account within a few days. Merchants see a normal Visa transaction; Fold captures the transaction fees that Visa and its network partners collect, keeps a spread on the BTC conversion, and fronts the bitcoin from its reserves. The user gets bitcoin; Fold gets a merchant fee and a buy-sell spread on the bitcoin conversion.
+Fold's flagship product is a [Visa](/v-stock/) debit card (powered by partner payment processors) that loads from a linked bank account and automatically converts a percentage of every dollar spent into bitcoin, which lands in the user's account within a few days. Merchants see a normal Visa transaction; Fold captures the transaction fees that Visa and its network partners collect, keeps a spread on the BTC conversion, and fronts the bitcoin from its reserves. The user gets bitcoin; Fold gets a merchant fee and a buy-sell spread on the bitcoin conversion.
 
 The second arm is the mobile app, which packages the card, holds the bitcoin balance, and handles the user experience—checking rewards earned, tracking spending, and managing the wallet interface. The app is straightforward by design; Fold is not trying to be a full-featured trading platform or a complex DeFi interface. It is a way to hold bitcoin that you earned through ordinary commerce.
 
@@ -33,7 +33,7 @@ Fold's primary revenue comes from interchange fees captured from the Visa networ
 
 Fold also benefits from holding bitcoin on its balance sheet. Every bitcoin held appreciates or depreciates based on the market price of BTC. In a [bull market](/bull-market/) for bitcoin, this creates a tailwind to the [income statement](/income-statement/); in a downturn, it becomes a headwind. This makes Fold's profitability tightly coupled to bitcoin's price, which is very different from traditional fintech companies.
 
-The business does not yet have the scale of established debit card networks. Fold's user growth, spending volume, and bitcoin reserves are all substantially smaller than a card issuer owned by a major bank or fintech like Square or PayPal. Unit economics improve dramatically with scale—each new active cardholder is leveraging existing infrastructure, payment processing relationships, and operational overhead that are largely fixed costs.
+The business does not yet have the scale of established debit card networks. Fold's user growth, spending volume, and bitcoin reserves are all substantially smaller than a card issuer owned by a major bank or fintech like Square or [PayPal](/pypl-stock/). Unit economics improve dramatically with scale—each new active cardholder is leveraging existing infrastructure, payment processing relationships, and operational overhead that are largely fixed costs.
 
 ## How Fold Fits in Crypto's Evolution
 
@@ -49,7 +49,7 @@ Fold faces several meaningful risks. The first is regulatory. Bitcoin is legal i
 
 Second, Fold is operationally bound to bitcoin's price. While this is also a lever for upside, volatility cuts both ways. In a period when bitcoin falls sharply, the value of Fold's balance sheet declines, and users may become discouraged by watching their rewards decline in fiat terms. The company has built systems to hedge or manage this risk, but a sustained [bear market](/bear-market/) in bitcoin would stress both the balance sheet and growth.
 
-Third, the unit economics depend on payment network fees and the bitcoin spread. If Visa and Mastercard reduce interchange fees (which they have been pressured to do in some markets), or if bitcoin spreads compress as the market matures, Fold's per-transaction profitability declines. Offsetting this would require either enormous scale or a shift to higher-margin services, neither of which is guaranteed.
+Third, the unit economics depend on payment network fees and the bitcoin spread. If Visa and [Mastercard](/ma-stock/) reduce interchange fees (which they have been pressured to do in some markets), or if bitcoin spreads compress as the market matures, Fold's per-transaction profitability declines. Offsetting this would require either enormous scale or a shift to higher-margin services, neither of which is guaranteed.
 
 Fourth, Fold depends on continued growth in its user base and engagement to reach meaningful scale. If bitcoin adoption slows or sentiment turns sharply negative, the market for a bitcoin rewards card shrinks. Network effects are weaker than in traditional payments (you do not need to use Fold because everyone you know does), so user growth relies on organic interest in bitcoin and personal finance habits.
 

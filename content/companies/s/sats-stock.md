@@ -53,10 +53,10 @@ The regulatory environment around satellite broadband is evolving, with governme
 
 Read EchoStar's 10-K (SEC CIK 0001415404) and focus on three areas. First, satellite-TV subscriber trends: the year-over-year loss rate, average revenue per user, and programming cost as a percentage of revenue. A steepening subscriber loss or a margin squeeze from rising programming costs signals structural deterioration.
 
-Second, review the balance sheet and capital expenditure guidance. A satellite company must invest continuously in new spacecraft and ground equipment. If capital outlays are rising while revenue falls, the business is burning cash to stay competitive — unsustainable long-term.
+Second, review the [balance sheet](/balance-sheet/) and capital expenditure guidance. A satellite company must invest continuously in new spacecraft and ground equipment. If capital outlays are rising while revenue falls, the business is burning cash to stay competitive — unsustainable long-term.
 
 Third, examine spectrum-related revenue and lease agreements. These one-time and recurring revenues are critical to offsetting subscriber declines; understand the duration and scale of these deals and whether they are growing or shrinking.
 
-Watch quarterly earnings calls for colour on broadband-service subscriber acquisition and churn — this is the growth bet. Understand management's timeframe for achieving profitability in broadband and what cash burn is acceptable during the buildout phase.
+Watch quarterly earnings calls for colour on broadband-service subscriber [acquisition](/acquisition/) and churn — this is the growth bet. Understand management's timeframe for achieving profitability in broadband and what cash burn is acceptable during the buildout phase.
 
 Like all public securities, EchoStar shares trade on an exchange at market-set prices. Nothing here is a recommendation — only a sketch of the business model, its cash-generation mechanics, and the long-term risks posed by a shrinking legacy business that must be offset by successfully scaling new ventures.

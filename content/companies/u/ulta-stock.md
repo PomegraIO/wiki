@@ -49,7 +49,7 @@ But Ulta also faces real competitive pressures. Department stores still exist an
 
 ## The challenges ahead
 
-Ulta's business is vulnerable to slowdowns in consumer spending, especially in the prestige category, which tends to suffer first when times are tight. The company also depends on traffic to physical stores, which means real-estate costs matter, and any recession that cuts mall traffic or changes how people shop hurts profitability directly.
+Ulta's business is vulnerable to slowdowns in consumer spending, especially in the prestige category, which tends to suffer first when times are tight. The company also depends on traffic to physical stores, which means real-estate costs matter, and any [recession](/recession/) that cuts mall traffic or changes how people shop hurts profitability directly.
 
 The bigger structural question is whether Ulta's store-centric model holds up as more customers shift to online shopping and direct-to-consumer channels. Brands increasingly want to own the customer relationship and sell directly, which means Ulta becomes a secondary channel. The company has responded by building its e-commerce capabilities and brand partnerships, but it is not clear whether that is enough to maintain dominance as the industry evolves.
 

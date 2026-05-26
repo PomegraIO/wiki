@@ -30,7 +30,7 @@ Geely's path to automobiles was circuitous. The company began in 1986 as a refri
 
 These early Geely vehicles were not competitive on global markets; they were low-cost machines for a domestic audience that had few alternatives and limited spending power. But they gave Geely manufacturing experience, a supply chain, and a growing brand at home. Through the 2000s, as China's middle class expanded and vehicle sales boomed, Geely grew alongside the market. The company was one of many emerging Chinese automakers, competing with state-owned giants like SAIC and JAC, and at that stage, none seemed destined for international relevance.
 
-The turning point came not through organic growth but through acquisition. In 2010, Geely purchased Volvo Cars from Ford, a transaction that shocked the auto industry. A little-known Chinese manufacturer had just bought one of Europe's oldest car brands, known for engineering quality and safety. The deal was unconventional: Volvo had been losing money under Ford, and many questioned whether Geely could run a premium brand or whether the purchase was merely an ambitious gamble by an upstart.
+The turning point came not through organic growth but through [acquisition](/acquisition/). In 2010, Geely purchased Volvo Cars from Ford, a transaction that shocked the auto industry. A little-known Chinese manufacturer had just bought one of Europe's oldest car brands, known for engineering quality and safety. The deal was unconventional: Volvo had been losing money under Ford, and many questioned whether Geely could run a premium brand or whether the purchase was merely an ambitious gamble by an upstart.
 
 ## Building a house of brands
 
@@ -38,7 +38,7 @@ The Volvo acquisition proved transformative. Rather than merging Volvo into Geel
 
 This spawned a broader strategy. Geely itself continued to build cars for Chinese customers, moving upmarket over time from budget vehicles to mid-range sedans and SUVs. In parallel, Geely held major stakes in Volvo Cars (which makes mid-premium sedans and crossovers) and co-owned Polestar, a performance and electric-vehicle brand born from Volvo's technology. Li also acquired London Taxi Company and later rebranded it as the London Electric Vehicle Company, producing electric cabs.
 
-Each brand serves a different market and price point. Geely competes in China against BYD, Li Auto, and others in the mid-market; Volvo competes globally against BMW, Audi, and Mercedes-Benz in the premium segment; Polestar targets younger buyers and the electric-vehicle enthusiast. The portfolio gives Geely exposure to segments ranging from affordable Chinese cars to luxury European vehicles.
+Each brand serves a different market and price point. Geely competes in China against BYD, [Li Auto](/li-stock/), and others in the mid-market; Volvo competes globally against BMW, Audi, and Mercedes-Benz in the premium segment; Polestar targets younger buyers and the electric-vehicle enthusiast. The portfolio gives Geely exposure to segments ranging from affordable Chinese cars to luxury European vehicles.
 
 ## How Geely makes money: volume at home, premium abroad
 
@@ -52,7 +52,7 @@ Revenue scales with vehicle sales, which depend on economic conditions, competit
 
 Like every automaker, Geely is transitioning toward electric vehicles. The Geely brand has begun rolling out battery-electric models and plug-in hybrids aimed at the Chinese market, where electric-car adoption is fastest and government incentives have been strongest. Volvo has committed to becoming fully electric within a decade. Polestar is exclusively electric. The group is betting that this transition will not disrupt its market position; instead, it hopes to leverage manufacturing scale and technological progress to compete in electric vehicles as it did in traditional cars.
 
-This transition is capital-intensive and uncertain. Electric-car margins are compressed as the industry is young, competition is fierce, and battery costs remain substantial. But the group's diversification across price points and geographies gives it more runway than a single-brand automaker would have.
+This transition is capital-intensive and uncertain. Electric-car margins are compressed as the industry is young, competition is fierce, and battery costs remain substantial. But the group's [diversification](/diversification/) across price points and geographies gives it more runway than a single-brand automaker would have.
 
 ## Challenges and regulatory headwinds
 

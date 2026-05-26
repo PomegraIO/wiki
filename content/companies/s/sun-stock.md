@@ -62,6 +62,6 @@ The convenience-store business offers some insulation from fuel-volume risk. As 
 
 Start by looking at Sunoco's 10-K (SEC CIK 0001552275) to understand the mix of wholesale versus retail revenue, the geographic footprint, and the lease structure of the stores. Watch the quarterly distribution per unit — this is what investors in the partnership are paid. If distributions are growing, that signals the company is capturing value; if they are flat or declining, it signals either volume pressure or margin compression.
 
-Track fuel volumes — the gallons Sunoco sells wholesale and retail — as the primary health metric. Gross margins per gallon tell you whether Sunoco is defending pricing or losing to competitors. Compare Sunoco's dividend yield to other energy and utility companies; the partnership structure and tax treatment affect how to evaluate the return.
+Track fuel volumes — the gallons Sunoco sells wholesale and retail — as the primary health metric. Gross margins per gallon tell you whether Sunoco is defending pricing or losing to competitors. Compare Sunoco's [dividend yield](/dividend-yield/) to other energy and utility companies; the partnership structure and tax treatment affect how to evaluate the return.
 
 Finally, read Sunoco's commentary on electrification risk and the company's long-term strategy. How is management thinking about the transition away from internal-combustion vehicles? Are they investing in convenience-store services and margin expansion to offset fuel-volume risk? That strategic clarity matters for long-term investors.

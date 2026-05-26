@@ -31,7 +31,7 @@ Hudbay's earnings move sharply with commodity prices—copper, zinc, and gold pr
 
 ## Competitive context and scale
 
-Hudbay operates at a mid-tier scale—larger than junior explorers, smaller than integrated giants like Rio Tinto or Glencore. Mid-tier peers include companies like Pan American Silver, Agnico Eagle, and Wheaton Precious Metals, each with distinct geographic or metals focus. Competitive advantage comes from low-cost operations, exploration success, operational execution, and capital discipline. The industry is consolidation-prone; larger players can absorb volatility and fund expansions more easily, while smaller producers can be acquisition targets. Hudbay occupies a space where M&A activity is a persistent backdrop.
+Hudbay operates at a mid-tier scale—larger than junior explorers, smaller than integrated giants like [Rio Tinto](/rtntf-stock/) or Glencore. Mid-tier peers include companies like [Pan American Silver](/paas-stock/), Agnico Eagle, and [Wheaton Precious Metals](/wpm-stock/), each with distinct geographic or metals focus. Competitive advantage comes from low-cost operations, exploration success, operational execution, and capital discipline. The industry is consolidation-prone; larger players can absorb volatility and fund expansions more easily, while smaller producers can be acquisition targets. Hudbay occupies a space where M&A activity is a persistent backdrop.
 
 ## What to watch
 

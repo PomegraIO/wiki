@@ -11,7 +11,7 @@ handwritten: true
 
 ## What's the therapeutic focus?
 
-Agomab Therapeutics is a clinical-stage biopharmaceutical company developing monoclonal antibody therapies targeting neurological and inflammatory diseases. The company's programs are grounded in a proprietary antibody platform designed to create therapeutics with specific functional properties that conventional methods struggle to achieve. The focus on the nervous system and neuroimmune space reflects a strategic decision to target areas with significant unmet medical need and where antibody-based approaches show particular promise.
+Agomab Therapeutics is a clinical-stage biopharmaceutical company developing monoclonal antibody therapies targeting neurological and inflammatory diseases. The company's programs are grounded in a proprietary antibody platform designed to create therapeutics with specific functional properties that conventional methods struggle to achieve. The focus on the nervous system and neuroimmune space reflects a strategic decision to [target](/tgt-stock/) areas with significant unmet medical need and where antibody-based approaches show particular promise.
 
 ## Where is the pipeline in development?
 

@@ -15,7 +15,7 @@ handwritten: true
 
 Microchip-Enabled Sensing Platform
 
-Autonomix's core technology integrates catheter-delivered microchip arrays capable of detecting peripheral neural electrical activity with spatial resolution sufficient to map disease-relevant nerve pathways. Rather than applying blanket neuromodulation, the system enables physicians to identify and target the specific neural circuits contributing to a patient's condition. This precision-targeting approach differentiates the company from established pain management competitors like Boston Scientific and Abbott, which predominantly deploy broader stimulation techniques. The intellectual property portfolio encompasses over 80 issued patents and 39 pending applications, including recent European Patent Office grants for cardiac tissue treatment.
+Autonomix's core technology integrates catheter-delivered microchip arrays capable of detecting peripheral neural electrical activity with spatial resolution sufficient to map disease-relevant nerve pathways. Rather than applying blanket neuromodulation, the system enables physicians to identify and [target](/tgt-stock/) the specific neural circuits contributing to a patient's condition. This precision-targeting approach differentiates the company from established pain management competitors like [Boston Scientific](/bsx-stock/) and Abbott, which predominantly deploy broader stimulation techniques. The intellectual property portfolio encompasses over 80 issued patents and 39 pending applications, including recent European Patent Office grants for cardiac tissue treatment.
 
 Pancreatic Cancer and Chronic Pain
 

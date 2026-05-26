@@ -13,7 +13,7 @@ handwritten: true
 
 > Cummins is not about the engine in your truck. Cummins is about powering the world in an era when petroleum is being phased out.
 
-This is the essential framing for understanding why Cummins matters and why its prospects are both formidable and uncertain. The company manufactures engines — primarily diesel, but increasingly natural gas and electric — that power medium-duty and heavy-duty trucks, buses, construction equipment, generators, and ships. The company has held a dominant share of the heavy-truck engine market for decades, but that position is now hostage to the industry's transformation. Electric vehicles are eventually coming to trucking, and Cummins is betting it will lead that transition rather than be destroyed by it.
+This is the essential framing for understanding why Cummins matters and why its prospects are both formidable and uncertain. The company manufactures engines — primarily diesel, but increasingly [natural gas](/natural-gas/) and electric — that power medium-duty and heavy-duty trucks, buses, construction equipment, generators, and ships. The company has held a dominant share of the heavy-truck engine market for decades, but that position is now hostage to the industry's transformation. Electric vehicles are eventually coming to trucking, and Cummins is betting it will lead that transition rather than be destroyed by it.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ Cummins has been in the engine business since 1919. The company's diesel engines
 
 The business has been exceedingly profitable because of that market position and because diesel engines have been the default power source for any vehicle that needed to work all day, haul heavy loads, or operate for years without major maintenance. Diesel fuel, while increasingly taxed and regulated, was economical and energy-dense. Cummins' profit margins on engines were strong because the company had few real competitors and customers had few alternatives.
 
-All of that is now in transition. Regulators in the United States and Europe are tightening emissions standards for nitrogen oxides and particulates. California and several European countries have announced phase-out dates for sales of new diesel engines. Battery-electric technology is advancing faster than expected, and the cost curve is favorable for electric trucks in certain duty cycles (urban delivery, medium-range routes where refueling infrastructure is available). Even liquified natural gas, which Cummins has invested heavily in, may be a halfway measure: it is cleaner than diesel but still a hydrocarbon and subject to the same existential pressure as crude oil.
+All of that is now in transition. Regulators in the United States and Europe are tightening emissions standards for nitrogen oxides and particulates. California and several European countries have announced phase-out dates for sales of new diesel engines. Battery-electric technology is advancing faster than expected, and the cost curve is favorable for electric trucks in certain duty cycles (urban delivery, medium-range routes where refueling infrastructure is available). Even liquified natural gas, which Cummins has invested heavily in, may be a halfway measure: it is cleaner than diesel but still a hydrocarbon and subject to the same existential pressure as [crude oil](/crude-oil/).
 
 ## The Cummins portfolio: breadth and dependence
 
@@ -51,13 +51,13 @@ The company has acquired startups and partnerships to accelerate its knowledge: 
 
 ## Margins and competitive position
 
-Cummins has historically earned strong operating margins in its core diesel business because market share and brand loyalty insulate it from competition. Navistar has its own engines, but they are niche. Volvo (which owns Mack Trucks) makes engines, but many customers prefer the Cummins aftermarket ecosystem. Mercedes-Benz, Scania, and MAN dominate heavy trucking in Europe, but Cummins has a presence in the Americas.
+Cummins has historically earned strong [operating margins](/operating-margin/) in its core diesel business because market share and brand loyalty insulate it from competition. Navistar has its own engines, but they are niche. Volvo (which owns Mack Trucks) makes engines, but many customers prefer the Cummins aftermarket ecosystem. Mercedes-Benz, Scania, and MAN dominate heavy trucking in Europe, but Cummins has a presence in the Americas.
 
 As the market transitions, margins are under pressure. Regulators are forcing costly emissions-control systems onto diesel engines. Customers are more price-sensitive as they contemplate switching to or investing in electric alternatives. The aftermarket, where margins have been highest, could shrink as electric trucks require less maintenance and fewer replacement parts.
 
 ## Financial and strategic pressures
 
-Cummins' dividend policy has been central to its investor appeal — the company is known for reliable, steadily growing distributions. Maintaining that dividend while investing billions in electrification and managing a secular decline in diesel demand is a challenge. The company is walking a fine line: invest too little in electrification and risk obsolescence; invest too heavily and earnings per share could suffer, forcing a dividend cut.
+Cummins' [dividend](/dividend/) policy has been central to its investor appeal — the company is known for reliable, steadily growing distributions. Maintaining that dividend while investing billions in electrification and managing a secular decline in diesel demand is a challenge. The company is walking a fine line: invest too little in electrification and risk obsolescence; invest too heavily and [earnings per share](/earnings-per-share/) could suffer, forcing a dividend cut.
 
 The company's capital-allocation strategy will be watched closely. Is Cummins acquiring the right partners and companies? Are the internal R&D investments producing products customers actually want? Are the major truck manufacturers committing to Cummins's new powertrains, or are they hedging by developing alternatives in-house or acquiring startups that might compete with Cummins?
 

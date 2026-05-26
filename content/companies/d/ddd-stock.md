@@ -97,4 +97,4 @@ Understanding the business requires reading the annual [10-K filing](/wiki/10-k/
 
 ---
 
-**See also:** [Stratasys (SSYS)](/wiki/ssys-stock/) — a direct competitor in industrial 3D printing; [HP (HPQ)](/wiki/hpq-stock/) — entered the additive manufacturing market with polymer jetting; [Stock exchange (NASDAQ)](/wiki/stock-exchange/)
+**See also:** Stratasys (SSYS) — a direct competitor in industrial 3D printing; [HP (HPQ)](/wiki/hpq-stock/) — entered the additive manufacturing market with polymer jetting; [Stock exchange (NASDAQ)](/wiki/stock-exchange/)

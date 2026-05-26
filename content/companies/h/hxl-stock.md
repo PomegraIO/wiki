@@ -14,7 +14,7 @@ handwritten: true
 
 *Hexcel transformed from a raw-materials supplier into one of the world's largest makers of advanced composites over 75 years, riding waves of technological change in aerospace from subsonic to supersonic to composite-primary aircraft.*
 
-Hexcel Corporation manufactures composite materials and related systems used primarily in aerospace and defence, with smaller exposure to industrial and sporting-goods applications. The company was founded in 1948 as a family business making honeycomb structures for aircraft, and through organic growth and strategic acquisitions has become a global supplier to airplane makers, defence contractors, and space companies. Its modern business is largely about supplying composite materials to Boeing, Airbus, and other aircraft manufacturers, supporting both military and commercial programs.
+Hexcel Corporation manufactures composite materials and related systems used primarily in aerospace and defence, with smaller exposure to industrial and sporting-goods applications. The company was founded in 1948 as a family business making honeycomb structures for aircraft, and through organic growth and strategic [acquisitions](/acquisition/) has become a global supplier to airplane makers, defence contractors, and space companies. Its modern business is largely about supplying composite materials to [Boeing](/ba-stock/), Airbus, and other aircraft manufacturers, supporting both military and commercial programs.
 
 ## The founding era: honeycomb innovation (1948–1970s)
 
@@ -40,7 +40,7 @@ Hexcel's current business is organized around composite materials for multiple m
 
 **Prepreg and resin systems** — these are engineered materials combining carbon or glass fibers with resin in a partially cured state, ready for vacuum bagging, autoclave curing, and layup by aircraft manufacturers. Prepreg is a high-margin, high-value product because it is engineered to specific customer requirements and difficult to source from multiple suppliers.
 
-**Adhesives and specialty systems** — structural adhesives used to bond composite panels, honeycomb cores, and metal fittings; damping materials to reduce vibration; and surface finishes. These products are often specified in aerospace design and qualify customers lock into Hexcel's products through testing and certification.
+**Adhesives and specialty systems** — structural adhesives used to [bond](/bond/) composite panels, honeycomb cores, and metal fittings; damping materials to reduce vibration; and surface finishes. These products are often specified in aerospace design and qualify customers lock into Hexcel's products through testing and certification.
 
 **Honeycomb core materials** — still a significant product line, particularly for interior panels, radomes, and non-primary structure in both commercial and military aircraft.
 
@@ -48,7 +48,7 @@ Hexcel's current business is organized around composite materials for multiple m
 
 Hexcel is heavily exposed to commercial aircraft production rates. The 787 and 777X are the two largest revenue drivers, and swings in their monthly production rates ripple directly through Hexcel's business. The COVID-19 pandemic in 2020-2021 caused Boeing to slash 787 production rates, which created a sharp revenue decline for Hexcel and excess capacity in Hexcel's production facilities. Recovery has been gradual, and Hexcel has had to manage plant idling, workforce adjustments, and capital expenditure conservatively until demand stabilized.
 
-Defence and space programs provide some diversification but are not enough to offset a major commercial aircraft downturn. Military programs like the F-35 and various helicopter programs have long development cycles and are less volatile than commercial programs, but they also grow more slowly.
+Defence and space programs provide some [diversification](/diversification/) but are not enough to offset a major commercial aircraft downturn. Military programs like the F-35 and various helicopter programs have long development cycles and are less volatile than commercial programs, but they also grow more slowly.
 
 ## Manufacturing and cost structure
 
@@ -60,6 +60,6 @@ Capital intensity is moderate compared to some industrials but significant relat
 
 A reader evaluating Hexcel should start with the 10-K (SEC CIK 0000717605), which discloses revenue by market segment and customer concentration. Watch for Boeing and Airbus production-rate guidance and monthly data (available publicly from the manufacturers) as a leading indicator of Hexcel demand. Earnings calls should illuminate capacity utilization, pricing negotiations with customers, and the health of defence and space programs.
 
-Key metrics include gross margin trends (watch for raw-material cost absorption or customer pricing gains), operating leverage (revenue growth should expand margins if the company manages costs), and cash generation. The balance sheet matters: does Hexcel have the financial flexibility to invest in new capacity if a major program ramps, or is it financially constrained?
+Key metrics include gross margin trends (watch for raw-material cost absorption or customer pricing gains), operating leverage (revenue growth should expand margins if the company manages costs), and cash generation. The [balance sheet](/balance-sheet/) matters: does Hexcel have the financial flexibility to invest in new capacity if a major program ramps, or is it financially constrained?
 
 Track technological developments in the industry — next-generation aircraft materials (thermoplastic composites, hybrid structures) may displace some traditional prepreg demand. Monitor competitive positioning relative to rivals like Solvay and Arkema in resin systems, and Toray in carbon fiber. Finally, watch regulatory and environmental developments: as aerospace pushes toward sustainability and carbon-neutral manufacturing, composite suppliers may face pressure to prove their products' environmental footprint, and investments in recyclable or bio-based composites may become necessary.

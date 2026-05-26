@@ -30,9 +30,9 @@ Motorola Solutions is the lineal descendant of Motorola Inc., the pioneer of rad
 
 Motorola Inc. was founded in 1928 as a manufacturer of car radios. Over the following decades, it evolved into one of the most important names in electronics: it pioneered two-way radio, radios for police and fire departments, transistors, semiconductors, and mobile phones. By the 1990s and 2000s, Motorola had become a sprawling conglomerate, competing in everything from semiconductors to cellular phones.
 
-The turn of the 21st century broke Motorola's dominance in mobile phones. Apple's iPhone and the shift to smartphones based on Google's Android operating system displaced Motorola from the consumer market. The company, having defined mobile communications, lost the next chapter. In 2011, Motorola Inc. split into two companies: Motorola Mobility, which continued in smartphones and consumer electronics (later acquired by Google, then sold to Lenovo), and Motorola Solutions, which took the enterprise communications and public-safety business.
+The turn of the 21st century broke Motorola's dominance in mobile phones. [Apple](/aapl-stock/)'s iPhone and the shift to smartphones based on Google's Android operating system displaced Motorola from the consumer market. The company, having defined mobile communications, lost the next chapter. In 2011, Motorola Inc. split into two companies: Motorola Mobility, which continued in smartphones and consumer electronics (later acquired by Google, then sold to Lenovo), and Motorola Solutions, which took the enterprise communications and public-safety business.
 
-Motorola Solutions inherited a powerful legacy and a stable, recurring business. Two-way radio systems for public safety have been in use for decades and are not going away. The shift forced by the spinoff was clarifying: the company could stop competing in consumer electronics (where it had lost) and double down on professional communications, where it had deep expertise and strong moat.
+Motorola Solutions inherited a powerful legacy and a stable, recurring business. Two-way radio systems for public safety have been in use for decades and are not going away. The shift forced by the [spinoff](/spinoff/) was clarifying: the company could stop competing in consumer electronics (where it had lost) and double down on professional communications, where it had deep expertise and strong moat.
 
 ## The core business: professional two-way radio
 
@@ -54,7 +54,7 @@ Cloud-based command-centre software is the newest push. Instead of managing a ra
 
 ## Market structure and competitive position
 
-Motorola Solutions has strong market share in North American public safety. Police departments and fire departments are familiar with Motorola equipment and tend to stick with it. But competition exists. Harris Corporation (now L3Harris, after merger) is a major competitor in radio communications. Cisco and other software companies compete in dispatch and command-centre software. Nokia networks, Hytera, and other Asian manufacturers compete globally, particularly in non-safety markets and in regions where Motorola's dominance is weaker.
+Motorola Solutions has strong market share in North American public safety. Police departments and fire departments are familiar with Motorola equipment and tend to stick with it. But competition exists. Harris Corporation (now L3Harris, after [merger](/merger/)) is a major competitor in radio communications. Cisco and other software companies compete in dispatch and command-centre software. Nokia networks, Hytera, and other Asian manufacturers compete globally, particularly in non-safety markets and in regions where Motorola's dominance is weaker.
 
 The US public-safety market is relatively mature. Agencies have radio systems in place and are mostly replacing and upgrading rather than building from scratch. Growth is incremental. International markets offer more growth potential, but Motorola's penetration varies by region.
 

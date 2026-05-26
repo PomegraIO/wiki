@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-CenterPoint Energy owns and operates essential utility networks that deliver natural gas and electricity to millions of households and businesses across the United States. Like other regulated utilities, it earns its living not from the energy commodities themselves but from operating the pipes, wires, and infrastructure that move those commodities to where people use them. This infrastructure-based model generates steady, predictable revenue and keeps the company shielded from the volatility that energy producers face.
+CenterPoint Energy owns and operates essential utility networks that deliver [natural gas](/natural-gas/) and electricity to millions of households and businesses across the United States. Like other regulated utilities, it earns its living not from the energy commodities themselves but from operating the pipes, wires, and infrastructure that move those commodities to where people use them. This infrastructure-based model generates steady, predictable revenue and keeps the company shielded from the volatility that energy producers face.
 
 <aside class="wiki-infobox">
 <table>
@@ -46,7 +46,7 @@ The company also faces regulatory scrutiny on customer service quality, reliabil
 
 ## Capital-intensive model and dividend sustainability
 
-Utilities are capital hogs. Maintaining and upgrading thousands of miles of gas pipes and electrical lines requires continuous spending. CenterPoint generates substantial operating cash flow — enough to fund that reinvestment and return some cash to shareholders as dividends. Because the business is predictable and capital needs are well understood, the company can sustain a dividend that grows modestly over time. Investors in CenterPoint shares often buy them for that dividend income, which appeals to retirees and conservative portfolios seeking yield with low volatility.
+Utilities are capital hogs. Maintaining and upgrading thousands of miles of gas pipes and electrical lines requires continuous spending. CenterPoint generates substantial operating cash flow — enough to fund that reinvestment and return some cash to shareholders as [dividends](/dividend/). Because the business is predictable and capital needs are well understood, the company can sustain a dividend that grows modestly over time. Investors in CenterPoint shares often buy them for that dividend income, which appeals to retirees and conservative portfolios seeking yield with low volatility.
 
 Debt is a constant part of the capital structure; utilities borrow heavily because their cash flows are predictable enough to service large amounts of debt reliably. This leverage amplifies returns to equity holders when regulated returns are adequate, but it also means downturns in regulatory treatment or earnings can squeeze the dividend if not managed carefully.
 
@@ -62,4 +62,4 @@ Longer term, the decline of gas distribution as a revenue source (if electrifica
 
 Investors in CenterPoint tend to evaluate it via yield (the dividend divided by the stock price), regulatory risk (watch for rate case approvals and denials in Texas, Indiana, and Louisiana), and the company's capital spending outlook. The annual 10-K filing (SEC CIK 0001130310) details segment performance, regulatory developments, and capital expenditure plans for years ahead. Earnings calls expose management's view of spending needs and any risk to the dividend.
 
-Key metrics include the regulated return on equity that the company earns (a function of rate case outcomes), the dividend payout ratio (how much of earnings goes to shareholders versus reinvestment), and the trend in customer additions across service territories. Unlike a growth company, CenterPoint is best understood as a provider of essential, low-risk, low-return-on-equity infrastructure that can sustain modest dividend growth if regulators cooperate and capital discipline holds.
+Key metrics include the regulated [return on equity](/return-on-equity/) that the company earns (a function of rate case outcomes), the [dividend payout ratio](/dividend-payout-ratio/) (how much of earnings goes to shareholders versus reinvestment), and the trend in customer additions across service territories. Unlike a growth company, CenterPoint is best understood as a provider of essential, low-risk, low-return-on-equity infrastructure that can sustain modest dividend growth if regulators cooperate and capital discipline holds.

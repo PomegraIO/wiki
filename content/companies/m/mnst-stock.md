@@ -39,7 +39,7 @@ Competitors vary by region. Red Bull remains strong globally. Celsius has gained
 
 ## Growth drivers and headwinds
 
-Growth comes from two sources: volume expansion (more cans sold worldwide) and pricing (higher price per unit). Volume growth comes from geographic expansion (growing Monster in new countries), category expansion (introducing new Monster products and sub-brands), and taking share from competitors. Pricing growth is driven by inflation, category premiumization (moving upmarket within energy drinks), and strong brand power that allows price increases without losing volume.
+Growth comes from two sources: volume expansion (more cans sold worldwide) and pricing (higher price per unit). Volume growth comes from geographic expansion (growing Monster in new countries), category expansion (introducing new Monster products and sub-brands), and taking share from competitors. Pricing growth is driven by [inflation](/inflation/), category premiumization (moving upmarket within energy drinks), and strong brand power that allows price increases without losing volume.
 
 The risks are also dual. Public health pressure against energy drinks in some markets (regulators in some countries have restricted marketing to youth) could slow adoption. Saturation in the core North American market could slow volume growth. A shift toward healthier beverages or fewer energy-drink consumers (if caffeine-consumption trends shift) would directly threaten the category. And competition from Celsius and private-label products could compress margins if price wars intensify.
 

@@ -42,7 +42,7 @@ The company does not break down revenue by exact segment in a clean, standard wa
 
 ## The Structural Challenge
 
-Gap Inc. faces a structural retail problem: it operates in the middle, a zone where competition is fierce and customer loyalty weak. Fast-fashion retailers (Zara, H&M, Shein) move faster and undercut on price. Premium brands (Lululemon, Nike) own higher margins and lifestyle cachet. E-commerce-native players and resale platforms have fractured the wholesale model. Meanwhile, department stores and traditional shopping malls—historically major channels for Gap—have contracted, forcing the company to invest heavily in its own store experience and direct channels.
+Gap Inc. faces a structural retail problem: it operates in the middle, a zone where competition is fierce and customer loyalty weak. Fast-fashion retailers (Zara, H&M, Shein) move faster and undercut on price. Premium brands (Lululemon, [Nike](/nke-stock/)) own higher margins and lifestyle cachet. E-commerce-native players and resale platforms have fractured the wholesale model. Meanwhile, department stores and traditional shopping malls—historically major channels for Gap—have contracted, forcing the company to invest heavily in its own store experience and direct channels.
 
 The COVID-19 pandemic amplified these strains. Store closures and supply-chain breakdowns hit inventory and cash position hard. E-commerce pulled forward years of digital adoption in weeks. The recovery has been uneven: the company has had to close underperforming locations, accelerate omnichannel integration, and contend with persistent [inflation](/inflation/) in labor and freight costs.
 

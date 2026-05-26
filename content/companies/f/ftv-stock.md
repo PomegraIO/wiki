@@ -40,7 +40,7 @@ Fortive organizes itself around four business segments, each serving distinct cu
 
 ## Recurring revenue and the shift toward software
 
-Like many industrial companies, Fortive is pursuing a strategic shift: away from pure hardware sales (which are lumpy and transactional) and toward recurring software, service contracts, and software-as-a-service. A customer who buys a monitoring system once is a one-time transaction; a customer who subscribes to cloud-based analytics, receives software updates, and pays for technical support is a repeating revenue stream. The company has made several acquisitions to build software capabilities and to deepen relationships with installed bases of customers.
+Like many industrial companies, Fortive is pursuing a strategic shift: away from pure hardware sales (which are lumpy and transactional) and toward recurring software, service contracts, and software-as-a-service. A customer who buys a monitoring system once is a one-time transaction; a customer who subscribes to cloud-based analytics, receives software updates, and pays for technical support is a repeating revenue stream. The company has made several [acquisitions](/acquisition/) to build software capabilities and to deepen relationships with installed bases of customers.
 
 This shift is economically important because recurring revenue is worth more to shareholders than transactional revenue. A dollar of subscription revenue with high margins, low customer churn, and predictable growth deserves a higher valuation multiple than a dollar of equipment sales. Fortive's strategy reflects this: acquiring software companies, bundling software with hardware, and increasing the proportion of recurring contracts relative to one-off sales.
 
@@ -52,9 +52,9 @@ The risk of this model is that acquisitions can fail to deliver expected cost sa
 
 ## Exposure and the industrial cycle
 
-Fortive's exposure to the industrial cycle varies by segment. Condition monitoring and environmental remediation are less cyclical because they support maintenance, compliance, and safety — spending that continues even in downturns. Precision Technologies and Advanced Manufacturing Solutions are more sensitive to manufacturing capex and equipment refresh cycles. Overall, the company is moderately cyclical: in severe recessions, industrial customers pull back spending, but the presence of a large recurring base means the damage is not catastrophic.
+Fortive's exposure to the industrial cycle varies by segment. Condition monitoring and environmental remediation are less cyclical because they support maintenance, compliance, and safety — spending that continues even in downturns. Precision Technologies and Advanced Manufacturing Solutions are more sensitive to manufacturing capex and equipment refresh cycles. Overall, the company is moderately cyclical: in severe [recessions](/recession/), industrial customers pull back spending, but the presence of a large recurring base means the damage is not catastrophic.
 
-The company also carries geopolitical and supply-chain risk. It manufactures and sources from multiple countries and is exposed to tariffs, logistics disruptions, and shifts in customer demand between regions. Recent supply-chain volatility has tested operational flexibility, and management has had to navigate inflation in labor and materials.
+The company also carries geopolitical and supply-chain risk. It manufactures and sources from multiple countries and is exposed to tariffs, logistics disruptions, and shifts in customer demand between regions. Recent supply-chain volatility has tested operational flexibility, and management has had to navigate [inflation](/inflation/) in labor and materials.
 
 ## Understanding Fortive as an investment
 

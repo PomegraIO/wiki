@@ -40,7 +40,7 @@ The portfolio is intentionally deep. Rather than one product per category, Shark
 
 ## How does it make money?
 
-SharkNinja sells finished goods. When a consumer buys a Shark vacuum or a Ninja air fryer, the company captures revenue. It does not collect recurring subscription fees or service charges; it earns at the point of sale. Revenue comes through three main channels: traditional brick-and-mortar retail (Walmart, Target, Kohl's, and over 170 other retailers globally), e-commerce and direct-to-consumer platforms (including the company's own websites), and distributors and international partners.
+SharkNinja sells finished goods. When a consumer buys a Shark vacuum or a Ninja air fryer, the company captures revenue. It does not collect recurring subscription fees or service charges; it earns at the point of sale. Revenue comes through three main channels: traditional brick-and-mortar retail ([Walmart](/wmt-stock/), [Target](/tgt-stock/), Kohl's, and over 170 other retailers globally), e-commerce and direct-to-consumer platforms (including the company's own websites), and distributors and international partners.
 
 The geography is broadening. North America remains the largest market, but the company is pressing into Latin America, the Middle East, Europe, and Asia. This geographic mix limits risk from any one market's slowdown and exposes the company to different seasonal patterns (vacuuming and cleaning pressure peaks at different times in different regions).
 

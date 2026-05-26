@@ -22,22 +22,22 @@ The firm sits between pure-play generics (which compete on price and volume) and
 
 **See also:** [10-K](/wiki/10-k/)
 
-For current financial information and filings, review Amphastar's periodic reports with the [SEC](/wiki/sec/), including its [10-K](/wiki/10-k/) annual report and quarterly [10-Q](/wiki/10-q/) filings. The company's investor relations site typically provides earnings releases, presentations, and guidance. Industry analysis of the specialty pharmaceuticals and injectable drug market can provide context for competitive positioning. News coverage of hospital purchasing, FDA actions, and pharmaceutical supply chain developments may affect the stock and business outlook.
+For current financial information and filings, review Amphastar's periodic reports with the SEC, including its [10-K](/wiki/10-k/) annual report and quarterly 10-Q filings. The company's investor relations site typically provides earnings releases, presentations, and guidance. Industry analysis of the specialty pharmaceuticals and injectable drug market can provide context for competitive positioning. News coverage of hospital purchasing, FDA actions, and pharmaceutical supply chain developments may affect the stock and business outlook.
 
 <div class="wiki-seealso">
 
 ### Closely related
 
-- [Generic drug](/wiki/generic-drug/)
-- [Pharmaceutical company](/wiki/pharmaceutical-company/)
-- [FDA approval process](/wiki/fda-approval-process/)
+- Generic drug
+- Pharmaceutical company
+- FDA approval process
 - [Healthcare REITs](/wiki/healthcare-reit/)
 
 ### Wider context
 
-- [Healthcare sector](/wiki/healthcare-sector/)
-- [Specialty pharmaceuticals](/wiki/specialty-pharmaceuticals/)
-- [Prescription drug pricing](/wiki/prescription-drug-pricing/)
-- [Biotech and pharma investing](/wiki/biotech-and-pharma-investing/)
+- Healthcare sector
+- Specialty pharmaceuticals
+- Prescription drug pricing
+- Biotech and pharma investing
 
 </div>

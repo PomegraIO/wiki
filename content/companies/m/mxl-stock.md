@@ -40,7 +40,7 @@ MaxLinear's chips now serve three broad markets. The first is broadband access �
 
 The second is video and content delivery. Even though the original set-top-box business has declined, video remains central to how MaxLinear defines its role. The company designs chips for video streaming, compression, and delivery — technology used in streaming devices, video-distribution networks, and the boxes that deliver IPTV (television over internet protocol).
 
-The third, and increasingly important, is data-center networking. Companies like Amazon, Microsoft, and Google need chips that connect servers at the speed and efficiency required for cloud computing and artificial intelligence workloads. MaxLinear's data-center networking chips reduce latency and power consumption in these environments, and as cloud computing scales, demand grows. This segment was substantially enlarged by the Exablaze acquisition.
+The third, and increasingly important, is data-center networking. Companies like Amazon, [Microsoft](/msft-stock/), and Google need chips that connect servers at the speed and efficiency required for cloud computing and artificial intelligence workloads. MaxLinear's data-center networking chips reduce latency and power consumption in these environments, and as cloud computing scales, demand grows. This segment was substantially enlarged by the Exablaze acquisition.
 
 ## How MaxLinear makes money and where the margins are
 
@@ -52,9 +52,9 @@ The company operates with decent margins because the engineering is proprietary 
 
 ## Competitive landscape and scale advantages
 
-MaxLinear competes against larger semiconductor companies. Broadcom, for instance, is much larger and designs chips across a wider range of networking categories. Intel was historically a player in broadband and networking. However, MaxLinear's competitive advantage is focus — the company has spent years optimizing its designs for the specific needs of broadband access and data-center switching. A large generalist semiconductor company may not prioritize MaxLinear's specific markets the same way.
+MaxLinear competes against larger semiconductor companies. [Broadcom](/avgo-stock/), for instance, is much larger and designs chips across a wider range of networking categories. [Intel](/intc-stock/) was historically a player in broadband and networking. However, MaxLinear's competitive advantage is focus — the company has spent years optimizing its designs for the specific needs of broadband access and data-center switching. A large generalist semiconductor company may not prioritize MaxLinear's specific markets the same way.
 
-Scale matters in chip design. The larger your addressable market, the more engineers you can afford to hire and the more you can invest in R&D. MaxLinear's acquisitions have been partly about scale — broadening the market it serves so that revenue is large enough to justify major engineering investments. Exablaze, for instance, gave MaxLinear entry into a data-center market worth billions, where the company could invest meaningfully in competing.
+Scale matters in chip design. The larger your addressable market, the more engineers you can afford to hire and the more you can invest in R&D. MaxLinear's [acquisitions](/acquisition/) have been partly about scale — broadening the market it serves so that revenue is large enough to justify major engineering investments. Exablaze, for instance, gave MaxLinear entry into a data-center market worth billions, where the company could invest meaningfully in competing.
 
 ## Risks and the path ahead
 

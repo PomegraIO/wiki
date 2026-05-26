@@ -30,7 +30,7 @@ Silicon Labs sells microcontrollers and wireless radios—the small semiconducto
 
 Silicon Labs began in 1996 as a design-focused semiconductor company, competing in mixed-signal and analog chips—the circuits that bridge the digital world and the physical world by translating real-world signals (temperature, light, motion) into digital data. The company grew by serving niche markets with specialized expertise: automotive engineers needed silicon for high-reliability analog and the first microcontrollers that could fit in engine bays; industrial equipment makers needed robust wireless for remote sensors; consumer electronics companies needed Bluetooth and proprietary wireless protocols to make cordless keyboards, headsets, and eventually smart-home devices.
 
-Over the past decade, as the Internet of Things became a real market opportunity rather than a buzzword, Silicon Labs shifted increasingly toward wireless connectivity and IoT. A series of acquisitions—including Telegesis (a Zigbee specialist), Qualcomm's Bluetooth low-energy business, and most notably Thread Group (the makers of the Thread wireless standard)—expanded the company's portfolio and gave it a position across the leading wireless protocols for IoT.
+Over the past decade, as the Internet of Things became a real market opportunity rather than a buzzword, Silicon Labs shifted increasingly toward wireless connectivity and IoT. A series of [acquisitions](/acquisition/)—including Telegesis (a Zigbee specialist), Qualcomm's Bluetooth low-energy business, and most notably Thread Group (the makers of the Thread wireless standard)—expanded the company's portfolio and gave it a position across the leading wireless protocols for IoT.
 
 ## What Silicon Labs actually sells and who uses it
 
@@ -42,7 +42,7 @@ The revenue comes from design wins: when an appliance maker or IoT device compan
 
 Silicon Labs is a significant player in two major wireless standards: Bluetooth (especially Bluetooth Low Energy, the version optimized for batteries) and Thread, a newer standard backed by a consortium including Google, Amazon, and others for low-power home and building automation. The company also supports Zigbee, another established IoT wireless protocol. These are not protocols that Silicon Labs invented; they are industry standards. But the company's value is in designing chips that implement these standards efficiently and reliably, and in providing the software libraries and development tools that let customers build devices quickly.
 
-The competitive landscape includes larger chipmakers like Nordic Semiconductor (dominant in Bluetooth IoT), Texas Instruments (a sprawling analog and mixed-signal giant), Qualcomm, and others. Silicon Labs' advantage is depth in IoT wireless, a strong developer community, and a reputation for reliability and energy efficiency. The disadvantage is size: any of the larger players could choose to prioritize IoT and outspend Silicon Labs in R&D.
+The competitive landscape includes larger chipmakers like Nordic Semiconductor (dominant in Bluetooth IoT), [Texas Instruments](/txn-stock/) (a sprawling analog and mixed-signal giant), Qualcomm, and others. Silicon Labs' advantage is depth in IoT wireless, a strong developer community, and a reputation for reliability and energy efficiency. The disadvantage is size: any of the larger players could choose to prioritize IoT and outspend Silicon Labs in R&D.
 
 ## Market dynamics and growth drivers
 

@@ -39,7 +39,7 @@ The company's debt burden is substantial, service territory sprawls across diffi
 
 ## Research and Context
 
-Anyone researching PG&E should begin with the company's [10-K filing](/wiki/10-k/) and quarterly earnings releases, which detail capital expenditures, wildfire-mitigation spending, and debt levels. The Public Utilities Commission's regulatory filings and decisions set rate allowances and safety mandates; these are freely available and essential reading. Industry peers like Duke Energy and American Electric Power provide context on how other large utilities are managing similar climate and regulatory headwinds.
+Anyone researching PG&E should begin with the company's [10-K filing](/wiki/10-k/) and quarterly earnings releases, which detail capital expenditures, wildfire-mitigation spending, and debt levels. The Public Utilities Commission's regulatory filings and decisions set rate allowances and safety mandates; these are freely available and essential reading. Industry peers like [Duke Energy](/duk-stock/) and [American Electric Power](/aep-stock/) provide context on how other large utilities are managing similar climate and regulatory headwinds.
 
 The bankruptcy itself—In re: Pacific Gas and Electric Company—is an extensive public record including plan disclosures, creditor documents, and court rulings, a window into how the regulatory and financial system processes extreme utility stress. The company's response to the 2019 crisis and the ongoing results of that response—measured in grid hardening, reduced ignition events, and financial recovery—are genuine tests of whether the business model can endure.
 

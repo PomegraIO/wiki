@@ -16,7 +16,7 @@ Shipping is a capital-intensive, low-margin business. A modern dry bulk carrier 
 
 ## Fleet and Business Positioning
 
-SAFE Bulkers maintains a fleet of dry bulk vessels: primarily Panamax and Kamsarmax vessels, with some post-Panamax tonnage. These sizes (roughly 50,000–100,000 deadweight tons) are workhorse ships in the dry bulk trade, serving the middle segment between smaller Handysize vessels and the massive Capesize ships used for iron ore and coal. The company emphasizes newer builds with modern engines and ballast water treatment systems, which lowers bunker costs and keeps the fleet compliant with evolving international maritime regulations—notably the IMO 2020 sulfur cap and upcoming decarbonization rules.
+SAFE Bulkers maintains a fleet of dry bulk vessels: primarily Panamax and Kamsarmax vessels, with some post-Panamax tonnage. These sizes (roughly 50,000–100,000 deadweight tons) are workhorse ships in the dry bulk trade, serving the middle segment between smaller Handysize vessels and the massive Capesize ships used for [iron ore](/iron-ore/) and coal. The company emphasizes newer builds with modern engines and ballast water treatment systems, which lowers bunker costs and keeps the fleet compliant with evolving international maritime regulations—notably the IMO 2020 sulfur cap and upcoming decarbonization rules.
 
 Fleet age and efficiency matter deeply in shipping. Newer vessels command higher rates because they consume less fuel and meet stricter emissions rules; older tonnage falls behind during downturns and can become stranded. SAFE Bulkers' capital allocation strategy has revolved around ordering and acquiring modern ships, then gradually disposing of older units, keeping the fleet relatively young relative to the global average. This requires continuous capital discipline, since scrapping at the right time and building at the right price can swing returns across entire cycles.
 
@@ -38,7 +38,7 @@ Dry bulk shipping is notoriously volatile, and SAFE Bulkers is a direct play on 
 
 **Market cycle risk.** A sharp slowdown in global commodity demand (triggered by [recession](/recession/), industrial contraction, or geopolitical disruption) can collapse freight rates overnight, turning profits into losses. This is the dominant risk; shipping booms are typically unsustainable and inevitably correct.
 
-**Fuel and operating cost inflation.** Bunker prices, wage growth, and regulatory compliance costs (emissions equipment, scrubbers, ballast treatments) squeeze margins. SAFE Bulkers cannot fully pass these costs to customers during rate downturns.
+**Fuel and operating cost [inflation](/inflation/).** Bunker prices, wage growth, and regulatory compliance costs (emissions equipment, scrubbers, ballast treatments) squeeze margins. SAFE Bulkers cannot fully pass these costs to customers during rate downturns.
 
 **Fleet supply imbalance.** If shipyards deliver too many new vessels, supply exceeds demand and rates fall structurally. If demand surges and fewer new ships are ordered, supply becomes tight and rates soar. The lag between order and delivery (typically 2–3 years) creates cyclical mismatches.
 

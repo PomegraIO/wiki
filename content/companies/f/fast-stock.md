@@ -48,7 +48,7 @@ Fastenal also makes money from services. Some customers use Fastenal's logistics
 
 ## What makes Fastenal durable
 
-The simplest explanation for Fastenal's durability is that every manufacturing and construction company, every hospital, every infrastructure maintenance department, needs fasteners and supplies. There is no way around it. Demand is recurring and counter-cyclical to some extent — in recessions, when companies stop building, they still have to maintain what they already own. That means Fastenal's business does not boom like construction does in good times, but it also does not crash like construction does in bad times.
+The simplest explanation for Fastenal's durability is that every manufacturing and construction company, every hospital, every infrastructure maintenance department, needs fasteners and supplies. There is no way around it. Demand is recurring and counter-cyclical to some extent — in [recessions](/recession/), when companies stop building, they still have to maintain what they already own. That means Fastenal's business does not boom like construction does in good times, but it also does not crash like construction does in bad times.
 
 A second source of durability is the branch network itself. Building and maintaining thousands of locations across the country requires capital and operational expertise. Competitors can copy products or prices, but they cannot quickly replicate a network of knowledgeable branch managers with deep customer relationships. This network is a moat.
 
@@ -64,6 +64,6 @@ E-commerce is another competitive pressure. Online sellers and large retailers h
 
 ## How to research Fastenal
 
-Start with the annual 10-K (SEC CIK 0000815556), which breaks out revenue by segment and geography, and discusses the key metrics Fastenal management monitors. Pay attention to same-store sales growth — this tells you whether existing branches are growing or shrinking. Watch the trajectory of inventory days and accounts receivable days; both signal operational health and working capital management.
+Start with the annual 10-K (SEC CIK 0000815556), which breaks out revenue by segment and geography, and discusses the key metrics Fastenal management monitors. Pay attention to same-store sales growth — this tells you whether existing branches are growing or shrinking. Watch the trajectory of inventory days and [accounts receivable](/accounts-receivable/) days; both signal operational health and working capital management.
 
 Key metrics: branch count and headcount (does Fastenal have the network to serve growth?), comparable store sales (is organic growth happening?), gross margin (is pricing or mix holding up?), and operating leverage (as the company gets larger, does profit grow faster than revenue?). The company's scale and operational consistency make it a stable, predictable business, but the growth opportunities are modest. For an investor, Fastenal is best understood as a stable, reasonably profitable business with modest growth and reliable cash generation, not as a company chasing explosive expansion.

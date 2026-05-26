@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Hamilton Insurance Group is a Bermuda-domiciled insurer that underwrites property, casualty, and specialty insurance lines. Operating through subsidiary companies, the group markets itself on disciplined underwriting standards and an ability to write risks in segments where conventional carriers either cannot or will not participate. The company serves a global customer base through a mixture of direct insurance operations and [reinsurance](/wiki/reinsurance/) relationships, offering underwriting capacity in market niches that demand expertise and capital flexibility.
+Hamilton Insurance Group is a Bermuda-domiciled insurer that underwrites property, casualty, and specialty insurance lines. Operating through subsidiary companies, the group markets itself on disciplined underwriting standards and an ability to write risks in segments where conventional carriers either cannot or will not participate. The company serves a global customer base through a mixture of direct insurance operations and reinsurance relationships, offering underwriting capacity in market niches that demand expertise and capital flexibility.
 
 <aside class="wiki-infobox">
 | Field | Detail |
@@ -31,7 +31,7 @@ The company generates income through two mechanisms. Premium revenue comes from 
 
 ## Competitive Position and Strategy
 
-Hamilton occupies a different niche than megacap, mass-market carriers like [Berkshire Hathaway](/wiki/brk-a-stock/), State Street, or Allstate. Instead of competing on brand reach and volume pricing, Hamilton emphasizes speed of decision-making, risk selection, and the ability to enter or exit underwriting lines quickly. This flexibility matters because the property-casualty insurance market is cyclical: periods of intense competition and poor pricing alternate with favorable market conditions. Carriers locked into large, slow distribution networks often find themselves unable to pivot; Bermuda-based carriers with lean infrastructure can redeploy capital to attractive opportunities faster.
+Hamilton occupies a different niche than megacap, mass-market carriers like [Berkshire Hathaway](/brk-b-stock/), [State Street](/stt-stock/), or Allstate. Instead of competing on brand reach and volume pricing, Hamilton emphasizes speed of decision-making, risk selection, and the ability to enter or exit underwriting lines quickly. This flexibility matters because the property-casualty insurance market is cyclical: periods of intense competition and poor pricing alternate with favorable market conditions. Carriers locked into large, slow distribution networks often find themselves unable to pivot; Bermuda-based carriers with lean infrastructure can redeploy capital to attractive opportunities faster.
 
 Bermuda itself—an island that has become a hub for insurance and reinsurance—offers regulatory familiarity, a skilled workforce, and an infrastructure built around risk capital. Bermuda insurers benefit from time-zone positioning (trading and claims adjustment span U.S., European, and Asian hours) and regulatory frameworks designed to support the industry. Hamilton's Bermuda base signals to customers and counterparties that the company understands sophisticated risk, complies with international solvency standards, and maintains significant capital buffers.
 
@@ -45,7 +45,7 @@ Hamilton's brand rests on the claim that its underwriting standards remain consi
 
 For all insurers, adequacy of loss reserves determines whether the company has earned its stated profit or whether future claim development will erode it. Reserves must cover all incurred losses—those already known and those incurred but not yet reported. Overestimate reserves and earnings look conservative but weak; underestimate and the company faces adverse development later.
 
-Hamilton's [balance sheet](/balance-sheet/) must support both current operations and the potential for large catastrophic events. Natural disasters—hurricanes, earthquakes, floods—can generate billions in industry-wide losses, and any single insurer can take a significant hit. The company maintains capital adequate to survive such stress scenarios, a discipline enforced by regulators and rating agencies. [Securities and Exchange Commission](/wiki/sec/) filings (the 10-K especially) detail reserve balances, prior-year development, and the company's modeling of [tail risks](/tail-risk/).
+Hamilton's [balance sheet](/balance-sheet/) must support both current operations and the potential for large catastrophic events. Natural disasters—hurricanes, earthquakes, floods—can generate billions in industry-wide losses, and any single insurer can take a significant hit. The company maintains capital adequate to survive such stress scenarios, a discipline enforced by regulators and rating agencies. Securities and Exchange Commission filings (the 10-K especially) detail reserve balances, prior-year development, and the company's modeling of [tail risks](/tail-risk/).
 
 ## Competitive Pressures
 

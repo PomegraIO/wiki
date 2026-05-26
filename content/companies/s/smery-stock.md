@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Siemens Energy is a company that builds the machines that generate and move electricity around the world. It makes gas turbines that power electricity plants, steam turbines, electrical generators, transformers, and the control systems that manage electrical grids. The company was spun out of the larger Siemens conglomerate in 2020 to focus purely on energy infrastructure, and it serves utility companies, power plants, and industrial customers on every continent. Its shares trade on the NASDAQ as an American depositary receipt under the ticker SMERY, and the company remains partially owned by Siemens itself, which was the parent.
+Siemens Energy is a company that builds the machines that generate and move electricity around the world. It makes gas turbines that power electricity plants, steam turbines, electrical generators, transformers, and the control systems that manage electrical grids. The company was spun out of the larger Siemens conglomerate in 2020 to focus purely on energy infrastructure, and it serves utility companies, power plants, and industrial customers on every continent. Its shares trade on the [NASDAQ](/nasdaq/) as an [American depositary receipt](/adr/) under the ticker SMERY, and the company remains partially owned by Siemens itself, which was the parent.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Siemens Energy is a company that builds the machines that generate and move elec
 
 ## What the company actually does
 
-Think of Siemens Energy as the company that makes the industrial powerhouses sitting at power plants and substations. When a utility company needs to build a natural-gas power plant, it buys a large gas turbine from Siemens Energy (or a competitor like General Electric). That turbine burns fuel and spins a shaft, which drives a generator that produces electricity. Siemens Energy also makes the generator, the cooling systems, and the control systems that manage the turbine's operation.
+Think of Siemens Energy as the company that makes the industrial powerhouses sitting at power plants and substations. When a utility company needs to build a natural-gas power plant, it buys a large gas turbine from Siemens Energy (or a competitor like [General Electric](/ge-stock/)). That turbine burns fuel and spins a shaft, which drives a generator that produces electricity. Siemens Energy also makes the generator, the cooling systems, and the control systems that manage the turbine's operation.
 
 When a renewable-energy developer builds a wind or solar farm, Siemens Energy sells the power inverters that convert DC electricity from solar panels or AC from wind turbines into the form needed for the grid. The company also makes electrical transformers that step voltage up and down as electricity moves from power plants to homes and businesses. It builds and maintains high-voltage transmission equipment that carries power over long distances. In essence, Siemens Energy sits everywhere electricity is generated, converted, or transported at an industrial scale.
 
@@ -39,7 +39,7 @@ Siemens Energy generates revenue from two primary sources. The first is equipmen
 
 The second revenue stream is ongoing service and maintenance. Once Siemens Energy equipment is installed at a customer site, it requires regular maintenance, repairs, upgrades, and spare parts over its lifespan—often decades. Utilities and power plants contract with Siemens Energy to maintain their turbines and electrical infrastructure, and these service contracts generate recurring, high-margin revenue. From the company's perspective, service revenue is more predictable than equipment sales because it comes from a base of installed equipment already in operation.
 
-The profit profile is important: equipment sales carry lower margins because they involve manufacturing and logistics costs, while service and spare-parts revenue carries much higher margins. This means that Siemens Energy's earnings quality depends not just on how many new turbines it sells, but on how effectively it builds long-term service relationships with customers.
+The profit profile is important: equipment sales carry lower margins because they involve manufacturing and logistics costs, while service and spare-parts revenue carries much higher margins. This means that Siemens Energy's [earnings quality](/earnings-quality/) depends not just on how many new turbines it sells, but on how effectively it builds long-term service relationships with customers.
 
 ## The transition from fossil fuels to renewables
 
@@ -65,11 +65,11 @@ The company also carries legacy pension and environmental liabilities from its h
 
 Supply-chain risks are real. Siemens Energy depends on specialty manufacturing partners and material inputs, and disruptions in semiconductor supply, rare-earth metals, or shipping can ripple through projects. The geopolitical environment is also important: if trade tensions between Western countries and China intensify, supply chains could face friction.
 
-Finally, Siemens Energy's fortunes are heavily influenced by utility capital spending, which is cyclical and sensitive to interest rates and economic outlooks. A recession that causes utilities to defer spending can quickly depress the company's order book.
+Finally, Siemens Energy's fortunes are heavily influenced by utility capital spending, which is cyclical and sensitive to [interest rates](/interest-rate/) and economic outlooks. A [recession](/recession/) that causes utilities to defer spending can quickly depress the company's order book.
 
 ## How to research Siemens Energy as an investment
 
-Anyone studying Siemens Energy should begin with the company's annual report and SEC filings (CIK 0001830056), which detail revenue by business segment and geographic region. Pay close attention to the order book—the backlog of future revenue from contracts already signed. A growing order book indicates strong future demand; a shrinking order book is a warning sign.
+Anyone studying Siemens Energy should begin with the company's [annual report](/10-k/) and SEC filings (CIK 0001830056), which detail revenue by business segment and geographic region. Pay close attention to the order book—the backlog of future revenue from contracts already signed. A growing order book indicates strong future demand; a shrinking order book is a warning sign.
 
 Monitor the company's margin trends, particularly the gross margin on equipment versus service revenue. Service margins should be higher and more stable. If equipment margins are compressing relative to historical levels, that signals competitive pricing pressure in the company's core business.
 

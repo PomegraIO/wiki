@@ -55,7 +55,7 @@ The second is the breadth of the Now Platform. An organization shopping for an a
 
 The third is the talent and ecosystem that have grown around ServiceNow. The company certifies professionals and developers, creating a labor pool skilled in building on the platform. Customers can hire ServiceNow experts from consulting firms or freelance markets. That ecosystem is hard to replicate and makes it easier for a customer to find help implementing new workflows, reducing the perceived risk of expansion into new use cases.
 
-The competitive landscape includes established players like SAP and Oracle, which own much of the enterprise software market but have historically focused on finance and supply-chain management rather than the broader operating model that ServiceNow targets. Newer, specialized competitors exist in individual verticals — Workday in human resources, for instance — but few competitors have built a general-purpose platform that spans IT, HR, customer service, and operations. That breadth is a sustainable advantage.
+The competitive landscape includes established players like SAP and [Oracle](/orcl-stock/), which own much of the enterprise software market but have historically focused on finance and supply-chain management rather than the broader operating model that ServiceNow targets. Newer, specialized competitors exist in individual verticals — [Workday](/wday-stock/) in human resources, for instance — but few competitors have built a general-purpose platform that spans IT, HR, customer service, and operations. That breadth is a sustainable advantage.
 
 ## The challenges ahead
 
@@ -73,6 +73,6 @@ Anyone studying ServiceNow should begin with the annual 10-K filing (SEC CIK 000
 
 Key metrics to track include the dollar-based net retention rate — essentially how much revenue the company is expanding from existing customers, expressed as a percentage of prior-year revenue. A rate above 120 percent means the company is growing within its installed base faster than existing customers are slowing or canceling. This metric is particularly important for ServiceNow because it shows whether customers are actually moving the platform into new domains.
 
-The company's operating margin and free cash flow also matter. ServiceNow is now mature enough that investors expect not just growth but also profitability. Understanding whether the company is investing aggressively for future growth or harvesting profits tells much about management's confidence in the platform's trajectory.
+The company's [operating margin](/operating-margin/) and [free cash flow](/free-cash-flow/) also matter. ServiceNow is now mature enough that investors expect not just growth but also profitability. Understanding whether the company is investing aggressively for future growth or harvesting profits tells much about management's confidence in the platform's trajectory.
 
 Finally, watch the commentary on the Now Platform and low-code development trends. The company is betting that organizations will increasingly want to customize their own workflows rather than rely entirely on consulting firms to build them. If customers embrace this direction, ServiceNow's position strengthens. If they do not, the company's moat against specialized competitors shrinks.

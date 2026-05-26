@@ -28,4 +28,4 @@ Competitive survival depends on cost leadership, supply-chain agility, product r
 
 Success in this business requires maintaining production efficiency at scale, securing long-term feedstock contracts, and retaining major customer confidence. As battery demand accelerates with electrification, ABAT must compete against both larger incumbents with entrenched supply chains and nimble competitors with novel chemistries or manufacturing breakthroughs.
 
-To evaluate ABAT, review its [10-K](/wiki/10-k/) to understand revenue by customer and end-market segment, capital intensity, manufacturing capacity utilization, supply-chain concentration, and raw material procurement strategy. Quarterly [10-Q](/wiki/10-q/) filings track orders, pricing trends, and competitive positioning within the fast-moving battery sector.
+To evaluate ABAT, review its [10-K](/wiki/10-k/) to understand revenue by customer and end-market segment, capital intensity, manufacturing capacity utilization, supply-chain concentration, and raw material procurement strategy. Quarterly 10-Q filings track orders, pricing trends, and competitive positioning within the fast-moving battery sector.

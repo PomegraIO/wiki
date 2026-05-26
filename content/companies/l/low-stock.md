@@ -14,13 +14,13 @@ handwritten: true
 
 > "Home improvement is not about selling lumber. It is about the homeowner who looks at her kitchen and decides she can wait no longer."
 
-Lowe's Companies Inc. (NYSE: LOW) operates a network of roughly 2,300 home-improvement stores across North America, selling everything from two-by-fours and drywall to power tools, fixtures, appliances, paint, landscaping supplies, and seasonal merchandise to homeowners, contractors, and businesses. It is the second-largest player in the North American home-improvement retail market by revenue, trailing only The Home Depot. The business is both simple and contingent: people buy home-improvement goods because they own homes (and homes age and require upkeep), because they undertake renovation projects (driven by personal taste, life events, property value concerns), and because they maintain yards and gardens. The bigger the housing stock, the older it is, and the higher the prevailing homeowner wealth and confidence, the better Lowe's sells.
+Lowe's Companies Inc. (NYSE: LOW) operates a network of roughly 2,300 home-improvement stores across North America, selling everything from two-by-fours and drywall to power tools, fixtures, appliances, paint, landscaping supplies, and seasonal merchandise to homeowners, contractors, and businesses. It is the second-largest player in the North American home-improvement retail market by revenue, trailing only The [Home Depot](/hd-stock/). The business is both simple and contingent: people buy home-improvement goods because they own homes (and homes age and require upkeep), because they undertake renovation projects (driven by personal taste, life events, property value concerns), and because they maintain yards and gardens. The bigger the housing stock, the older it is, and the higher the prevailing homeowner wealth and confidence, the better Lowe's sells.
 
 ## The history and market position
 
 Lowe's traces its roots to 1921 as a small hardware store in North Carolina. It grew into a regional chain through the latter half of the twentieth century, then experienced rapid expansion starting in the 1990s, eventually becoming the nation's second-largest home-improvement retailer (Home Depot had already captured the lead). By the early 2000s, Lowe's and Home Depot had consolidated the home-improvement market, with smaller regional players and traditional hardware stores declining or disappearing.
 
-The business model is straightforward: purchase home-improvement goods from manufacturers and distributors, operate large-format warehouse-style stores, and sell to the public. The supply chain is capital-intensive — Lowe's owns or operates regional distribution centers — but the retail model itself is not exotic. Margins come from reasonable markups on goods, from high inventory turnover in high-demand categories like lumber and plywood, and from the breadth of selection that keeps customers buying under one roof.
+The business model is straightforward: purchase home-improvement goods from manufacturers and distributors, operate large-format warehouse-style stores, and sell to the public. The supply chain is capital-intensive — Lowe's owns or operates regional distribution centers — but the retail model itself is not exotic. Margins come from reasonable markups on goods, from high [inventory turnover](/inventory-turnover/) in high-demand categories like lumber and plywood, and from the breadth of selection that keeps customers buying under one roof.
 
 Lowe's headquarters relocated from the Southeast to Charlotte, North Carolina, in the 1990s and has remained there. The company maintains a substantial corporate organization managing purchasing, store operations, supply chain, and finance across the footprint.
 
@@ -28,7 +28,7 @@ Lowe's headquarters relocated from the Southeast to Charlotte, North Carolina, i
 
 Lowe's divides its sales between two broad customer groups: homeowners and professional contractors. Homeowners account for a larger share of store traffic but typically spend less per trip; contractors are fewer in number but buy larger quantities and make repeat visits. The split varies by store and region, but historically homeowners have contributed roughly 60 to 70 percent of sales, with contractors making up the balance.
 
-Serving contractors changed Lowe's strategy materially. Contractors are price-sensitive, value reliability and breadth of supply, and often manage multiple job sites simultaneously. Lowe's invested in dedicated contractor checkouts, contractor-focused product selection in some stores, and contractor account programs. Home Depot traditionally had a slight edge with the contractor base, but Lowe's narrowed the gap over time. That diversification has provided some insulation from homeowner-spending swings: when homeowners retrench, contractors may still be building or renovating.
+Serving contractors changed Lowe's strategy materially. Contractors are price-sensitive, value reliability and breadth of supply, and often manage multiple job sites simultaneously. Lowe's invested in dedicated contractor checkouts, contractor-focused product selection in some stores, and contractor account programs. Home Depot traditionally had a slight edge with the contractor base, but Lowe's narrowed the gap over time. That [diversification](/diversification/) has provided some insulation from homeowner-spending swings: when homeowners retrench, contractors may still be building or renovating.
 
 Seasonal variation is pronounced. Spring and summer are peak seasons (landscaping, deck building, exterior painting), with Q2 and Q3 typically the strongest sales and earnings quarters. Winter is slower (though holiday shopping and indoor projects provide some offset). A harsh winter, early spring, or delayed housing season can materially impact quarterly results.
 
@@ -58,17 +58,17 @@ Lowe's' omnichannel strategy — the ability of customers to browse online, chec
 
 ## Capital allocation and returns to shareholders
 
-Lowe's generates substantial free cash flow from operations, which it has historically returned to shareholders through dividends and share buybacks. The company has been disciplined about not over-investing in capital expenditure and has returned meaningful capital through buyback programs over the past two decades.
+Lowe's generates substantial [free cash flow](/free-cash-flow/) from operations, which it has historically returned to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). The company has been disciplined about not over-investing in capital expenditure and has returned meaningful capital through buyback programs over the past two decades.
 
 The dividend has grown steadily and is modest in yield but growing, reflecting the company's confidence in its cash generation. A significant portion of shareholder returns has come from buybacks, which reduce share count and support earnings-per-share growth independent of the underlying business growth.
 
-During periods of weakness (recessions, margin compression), Lowe's has sometimes suspended or slowed buybacks and focused on preserving cash. That flexibility is important: the company has the balance-sheet strength to weather downturns, and management has shown willingness to prioritize financial stability over near-term shareholder returns in stressed environments.
+During periods of weakness ([recessions](/recession/), margin compression), Lowe's has sometimes suspended or slowed buybacks and focused on preserving cash. That flexibility is important: the company has the balance-sheet strength to weather downturns, and management has shown willingness to prioritize financial stability over near-term shareholder returns in stressed environments.
 
 ## Risks and future questions
 
 Lowe's faces several structural headwinds. E-commerce and the rise of Amazon as a source of tools and home goods has eroded market share in some categories, particularly smaller items where delivery is economical. The shift online also reduces the role of in-store advice and browsing, which is still a meaningful part of the home-improvement purchase experience.
 
-Labor and supply-chain costs remain elevated relative to pre-pandemic levels, and wage inflation in retail remains a headwind. Automation — self-checkout, robo-stocking, supply-chain robots — can help, but the pace of deployment and the capital required are substantial.
+Labor and supply-chain costs remain elevated relative to pre-pandemic levels, and wage [inflation](/inflation/) in retail remains a headwind. Automation — self-checkout, robo-stocking, supply-chain robots — can help, but the pace of deployment and the capital required are substantial.
 
 Macroeconomic sensitivity is real: discretionary home-improvement spending falls in recessions. Mortgage rates and housing affordability also matter: if mortgage rates remain high and fewer people are buying homes, the addressable market for contractors shrinks, and homeowner spending may decline as wealth and confidence fall.
 

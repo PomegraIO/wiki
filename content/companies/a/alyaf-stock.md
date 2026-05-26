@@ -21,7 +21,7 @@ Revenue flows primarily from billable professional services—consulting hours, 
 
 ## Position in the Market
 
-Alithya operates in a mature, competitive consulting landscape alongside global giants (Accenture, Deloitte, IBM) and smaller regional players. Its strength lies in deep relationships with Canadian enterprise clients and vertical expertise in regulated sectors. The firm achieved AWS Migration and Modernization Competency status in 2026, signaling capability in cloud modernization—a high-demand service area. Growth depends on client capital budgets, digital adoption cycles, and the firm's ability to attract and retain skilled technical staff in a tight labor market.
+Alithya operates in a mature, competitive consulting landscape alongside global giants ([Accenture](/acn-stock/), Deloitte, IBM) and smaller regional players. Its strength lies in deep relationships with Canadian enterprise clients and vertical expertise in regulated sectors. The firm achieved AWS Migration and Modernization Competency status in 2026, signaling capability in cloud modernization—a high-demand service area. Growth depends on client capital budgets, digital adoption cycles, and the firm's ability to attract and retain skilled technical staff in a tight labor market.
 
 ## At a Glance
 

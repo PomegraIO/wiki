@@ -17,7 +17,7 @@ Aurion's flagship asset is the Risti project, a 170-square-kilometer exploration
 
 ### The Partnership Model
 
-Rather than absorbing all exploration costs alone, Aurion structures deals that bring capital and operational expertise to its projects. It has active joint venture arrangements with B2Gold, Kinross Gold, and KoBold Metals, meaning Aurion can advance multiple projects simultaneously with shared financing. This approach reduces dilution to existing shareholders while funding exploration work that might otherwise proceed more slowly.
+Rather than absorbing all exploration costs alone, Aurion structures deals that bring capital and operational expertise to its projects. It has active joint venture arrangements with B2Gold, [Kinross Gold](/kgc-stock/), and KoBold Metals, meaning Aurion can advance multiple projects simultaneously with shared financing. This approach reduces dilution to existing shareholders while funding exploration work that might otherwise proceed more slowly.
 
 ### Operations and Strategy
 
@@ -33,4 +33,4 @@ Aurion's team conducts field work and geological assessment directly, positionin
 
 ---
 
-See also: [gold exploration](/wiki/gold-stock/), [TSX Venture Exchange](/wiki/stock-exchange/), [mineral properties](/wiki/10-k/)
+See also: gold exploration, [TSX Venture Exchange](/wiki/stock-exchange/), [mineral properties](/wiki/10-k/)

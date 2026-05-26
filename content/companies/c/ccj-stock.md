@@ -51,7 +51,7 @@ Cameco makes money by selling uranium concentrate and finished fuel conversion p
 
 Operating a uranium mine is capital-intensive. Cameco maintains and develops its mining assets continually, decommissions old capacity where necessary, and invests in exploration to extend the life of its reserves. The company has taken a disciplined approach to capital allocation: when uranium prices were weak for a decade, it resisted the temptation to cut exploration or sale off production assets at distressed prices. That patience has paid off. As prices recovered, Cameco had the asset base and the capacity to benefit immediately.
 
-The company also manages significant contingent liabilities around environmental remediation and decommissioning, typical for mining operations. Uranium mining involves tailings management and long-term environmental monitoring, costs the company must provision for. These are real obligations, but they are well-understood and factor into how investors should model the business.
+The company also manages significant [contingent liabilities](/contingent-liabilities-government/) around environmental remediation and decommissioning, typical for mining operations. Uranium mining involves tailings management and long-term environmental monitoring, costs the company must provision for. These are real obligations, but they are well-understood and factor into how investors should model the business.
 
 ## Risks and the secular outlook
 

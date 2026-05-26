@@ -25,7 +25,7 @@ handwritten: true
 
 </aside>
 
-Kimball Electronics is a contract manufacturer of electronic components and assemblies, built to serve industries where precision, supply-chain reliability, and regulatory compliance can make or break a customer's product. Based in Jasper, Indiana, the company has spent over six decades evolving from a regional assembly shop into a multinational provider of [electronics manufacturing services](/wiki/electronics-manufacturing-services/) (EMS) to automotive suppliers, medical device makers, and industrial equipment manufacturers. It is a company not widely known to consumers but essential to the infrastructure of products they depend on.
+Kimball Electronics is a contract manufacturer of electronic components and assemblies, built to serve industries where precision, supply-chain reliability, and regulatory compliance can make or break a customer's product. Based in Jasper, Indiana, the company has spent over six decades evolving from a regional assembly shop into a multinational provider of electronics manufacturing services (EMS) to automotive suppliers, medical device makers, and industrial equipment manufacturers. It is a company not widely known to consumers but essential to the infrastructure of products they depend on.
 
 ## The Business Model
 

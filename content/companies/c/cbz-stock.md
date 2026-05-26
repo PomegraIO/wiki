@@ -48,7 +48,7 @@ The consolidation of the accounting profession itself is another long-term press
 
 ## How to Understand the Business
 
-CBIZ's [10-K](/wiki/10-k/) filing reveals the composition and growth of each service line, client concentration, and utilization metrics. Watch for organic growth in billable hours per employee and [revenue](/wiki/revenue/) per billable person. When insurance acquisitions occur, review the transaction economics and client retention outcomes over subsequent years.
+CBIZ's [10-K](/wiki/10-k/) filing reveals the composition and growth of each service line, client concentration, and utilization metrics. Watch for organic growth in billable hours per employee and revenue per billable person. When insurance acquisitions occur, review the transaction economics and client retention outcomes over subsequent years.
 
 The metric of client retention matters significantly. A healthy professional services firm should maintain or grow its installed base of recurring audit and tax clients. A firm losing clients is either facing competitive pressure or experiencing service quality problems—both red flags. Look to quarterly earnings calls and 10-K disclosures on client additions and departures.
 

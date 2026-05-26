@@ -19,7 +19,7 @@ Lineage was founded in 2008, at the depth of the financial crisis, by Kevin Curr
 
 Lineage began buying facilities — small, often older cold-storage operations that had been family-owned or regional. The company would acquire a facility, upgrade the equipment and controls, integrate it into the management platform, and look for the next acquisition. This strategy worked because there were hundreds of independently owned cold-storage warehouses in North America with aging equipment and limited access to capital. A buyer with enough capital and operational expertise could improve margins and service levels faster than the fragmented competitors.
 
-By the mid-2010s, Lineage had assembled a substantial network across North America through dozens of acquisitions. The company had become the dominant player in the U.S. cold-storage market by far, and the acquisitions had stabilized at a higher level of scale and capability than the small operators that had preceded it.
+By the mid-2010s, Lineage had assembled a substantial network across North America through dozens of [acquisitions](/acquisition/). The company had become the dominant player in the U.S. cold-storage market by far, and the acquisitions had stabilized at a higher level of scale and capability than the small operators that had preceded it.
 
 ## Geographic expansion and international growth (2015–2019)
 
@@ -37,7 +37,7 @@ Lineage owns or operates temperature-controlled facilities — warehouses that m
 
 Gross margins are determined by the utilization rate of the facilities and the price Lineage can charge per unit of space. A full warehouse is highly profitable; an empty or underutilized warehouse is a drag on returns. Utilization therefore matters enormously. The company's pricing power depends on supply and demand for cold-storage capacity in a given market. In tight markets with high utilization, Lineage can raise rates; in slack markets, it must compete on service and reliability.
 
-Operating costs include labor (workers to manage inventory and coordinate shipments), energy (keeping facilities at the right temperature is expensive), maintenance, and the cost of debt used to finance the real estate. Energy is often the single largest operating expense for a temperature-controlled facility, so energy prices and efficiency matter significantly.
+Operating costs include labor (workers to manage inventory and coordinate shipments), energy (keeping facilities at the right temperature is expensive), maintenance, and the [cost of debt](/cost-of-debt/) used to finance the real estate. Energy is often the single largest operating expense for a temperature-controlled facility, so energy prices and efficiency matter significantly.
 
 ## The shift to automation and modernization
 
@@ -49,7 +49,7 @@ However, automation requires significant capital. A modern automated warehouse c
 
 ## Market dynamics and customer concentration
 
-Lineage's customers are food producers, frozen-food companies, retailers (particularly large chains like Costco and Walmart), and food distributors. Lineage serves as the buffer between production and consumption, storing products until they are needed for sale or export. This function is essential to the food supply chain.
+Lineage's customers are food producers, frozen-food companies, retailers (particularly large chains like Costco and [Walmart](/wmt-stock/)), and food distributors. Lineage serves as the buffer between production and consumption, storing products until they are needed for sale or export. This function is essential to the food supply chain.
 
 The largest customers (major food producers and retailers) have some bargaining power, as they represent large volumes and could theoretically build their own facilities or switch to competitors. But there are very few large cold-storage operators, so customer switching is not trivial. Once a customer has integrated its supply chain with Lineage's network and management systems, switching is disruptive and expensive.
 
@@ -63,9 +63,9 @@ This megatrend is multi-decade and is unlikely to reverse. Food demand grows wit
 
 ## Capital structure and growth strategy
 
-Lineage was taken private in a leveraged buyout in 2016, moving from public to private ownership. The company subsequently returned to the public markets with an IPO in 2023, going public at a premium valuation that reflected the quality of the business and expectations for continued growth.
+Lineage was taken private in a [leveraged buyout](/leveraged-buyout/) in 2016, moving from public to private ownership. The company subsequently returned to the public markets with an IPO in 2023, going public at a premium valuation that reflected the quality of the business and expectations for continued growth.
 
-As a public company, Lineage has continued its strategy of selective acquisitions in international markets and in under-served segments. The company also invests heavily in facility upgrades and automation. Growth funding comes from a combination of retained earnings, debt financing, and equity. The balance-sheet leverage is a relevant consideration — a highly leveraged company is vulnerable if revenues decline sharply or if interest rates rise significantly.
+As a public company, Lineage has continued its strategy of selective acquisitions in international markets and in under-served segments. The company also invests heavily in facility upgrades and automation. Growth funding comes from a combination of [retained earnings](/retained-earnings/), [debt financing](/debt-financing/), and equity. The balance-sheet leverage is a relevant consideration — a highly leveraged company is vulnerable if revenues decline sharply or if [interest rates](/interest-rate/) rise significantly.
 
 ## How to research Lineage
 

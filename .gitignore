@@ -29,3 +29,7 @@ __pycache__/
 /scripts/_proposer_prompts/
 /scripts/_locked_plan.json
 /scripts/_writer_prompts/
+scripts/_sec_tickers.json
+scripts/_companies_plan.json
+scripts/_company_allowlist.txt
+scripts/_company_batches/

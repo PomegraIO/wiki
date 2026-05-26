@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is QuinStreet?
 
-QuinStreet operates a portfolio of online marketplaces and lead-generation platforms where consumers actively seek quotes and information about insurance, financial products, and home services. Rather than selling products directly, the company acts as a digital middleman between advertisers (insurance companies, mortgage lenders, auto insurers, and service providers) and consumers in a research or buying phase. Advertisers pay per qualified lead delivered or per completed quote, making QuinStreet fundamentally a [performance-marketing](/wiki/performance-marketing/) business driven by the willingness of suppliers to bid for high-intent customers.
+QuinStreet operates a portfolio of online marketplaces and lead-generation platforms where consumers actively seek quotes and information about insurance, financial products, and home services. Rather than selling products directly, the company acts as a digital middleman between advertisers (insurance companies, mortgage lenders, auto insurers, and service providers) and consumers in a research or buying phase. Advertisers pay per qualified lead delivered or per completed quote, making QuinStreet fundamentally a performance-marketing business driven by the willingness of suppliers to bid for high-intent customers.
 
 ## Where did QuinStreet come from?
 

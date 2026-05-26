@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BrightSpring Health Services runs more than seven hundred health-care facilities across the United States, mostly nursing homes and assisted-living communities where it cares for elderly and disabled residents. The company also operates rehabilitation centers and other long-term-care settings. Its stock (NASDAQ: BTSG) trades publicly, and the company generates revenue from two main sources: residents and their families pay directly, and government programs like Medicare and Medicaid pay for care. It is not a glamorous business — health care for older people is unglamorous, repetitive, and often exhausting — but it is essential, growing, and more predictable than it looks from the outside.
+BrightSpring Health Services runs more than seven hundred health-care facilities across the United States, mostly nursing homes and assisted-living communities where it cares for elderly and disabled residents. The company also operates rehabilitation centers and other long-term-care settings. Its stock ([NASDAQ](/nasdaq/): BTSG) trades publicly, and the company generates revenue from two main sources: residents and their families pay directly, and government programs like Medicare and Medicaid pay for care. It is not a glamorous business — health care for older people is unglamorous, repetitive, and often exhausting — but it is essential, growing, and more predictable than it looks from the outside.
 
 <aside class="wiki-infobox">
 <table>
@@ -69,4 +69,4 @@ Start with the 10-K (SEC CIK 0001865782), which details revenue by segment (nurs
 
 Watch the quarterly earnings reports for trends: is occupancy rising or falling, are per-patient revenues holding steady or declining, is labor cost rising faster than the company expected, and what is management saying about state Medicaid policy or federal Medicare changes. The company's debt level matters because the industry is capital-intensive and many operators are levered. Listen for commentary on any litigation or regulatory issues.
 
-A few key metrics: operating margin (which is typically thin in senior care), occupancy percentage, revenue per occupied bed, and labor cost as a percentage of revenue all tell the story of whether BrightSpring is managing its business successfully or struggling.
+A few key metrics: [operating margin](/operating-margin/) (which is typically thin in senior care), occupancy percentage, revenue per occupied bed, and labor cost as a percentage of revenue all tell the story of whether BrightSpring is managing its business successfully or struggling.

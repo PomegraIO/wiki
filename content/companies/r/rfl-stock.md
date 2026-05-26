@@ -14,7 +14,7 @@ Rafael Holdings is a holding company with a diversified portfolio centered on [c
 
 ## What is Rafael Holdings?
 
-Rafael Holdings (ticker RFL) is a Delaware corporation that functions as an investment and holding vehicle. The company does not operate an integrated business line of its own; rather, it holds material stakes in operating entities and real property. This structure places it in the category of [holding companies](/wiki/holding-company/) and [special purpose acquisition vehicles](/wiki/spac/) cousins, though Rafael predates the modern SPAC wave. The firm manages its portfolio with an orientation toward capital preservation and opportunistic growth in both commercial real estate and late-stage clinical development.
+Rafael Holdings (ticker RFL) is a Delaware corporation that functions as an investment and holding vehicle. The company does not operate an integrated business line of its own; rather, it holds material stakes in operating entities and real property. This structure places it in the category of holding companies and special purpose acquisition vehicles cousins, though Rafael predates the modern SPAC wave. The firm manages its portfolio with an orientation toward capital preservation and opportunistic growth in both commercial real estate and late-stage clinical development.
 
 ## Who controls the company and what is its ownership structure?
 
@@ -26,7 +26,7 @@ Rafael's commercial real estate holdings represent a significant portion of the 
 
 ## What is Cyclo Therapeutics and why is Rafael's stake important?
 
-Cyclo Therapeutics is Rafael's primary pharmaceutical asset. As a clinical-stage biotech company, Cyclo is developing treatments for orphan diseases, particularly focusing on Niemann-Pick disease Type C and other rare lysosomal storage disorders. Orphan drugs target small patient populations, which means smaller addressable markets but often higher per-patient pricing and regulatory incentives (such as FDA fast-track designation). Rafael's controlling ownership of Cyclo positions the holding company to benefit if the subsidiary's drug candidates advance through clinical trials and eventually reach commercialization.
+Cyclo Therapeutics is Rafael's primary pharmaceutical asset. As a clinical-stage biotech company, Cyclo is developing treatments for orphan diseases, particularly focusing on Niemann-Pick disease Type C and other rare lysosomal storage disorders. Orphan drugs [target](/tgt-stock/) small patient populations, which means smaller addressable markets but often higher per-patient pricing and regulatory incentives (such as FDA fast-track designation). Rafael's controlling ownership of Cyclo positions the holding company to benefit if the subsidiary's drug candidates advance through clinical trials and eventually reach commercialization.
 
 The clinical stage classification means Cyclo has not yet achieved FDA approval for its lead candidates, placing the subsidiary in the high-risk phase of development. Success depends on trial outcomes, regulatory approval, and, critically, adequate funding to complete trials. Rafael's ability to inject capital into Cyclo becomes a key lever for maintaining the stake and supporting development timelines.
 

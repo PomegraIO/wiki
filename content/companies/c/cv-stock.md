@@ -21,7 +21,7 @@ CapsoVision was founded as a university spin-out and went public around 2012. Th
 
 Revenue flows from capsule system sales (the hardware) and from disposable capsules themselves—a recurring component, since each procedure consumes one capsule. This creates some predictability in demand from existing installed bases of customers. Customers include hospitals, gastroenterology practices, and surgery centers. The addressable market is global, though adoption varies by region and reimbursement environment.
 
-Competition comes from established endoscopy device makers (Medtronic, Boston Scientific, Olympus) who offer both traditional fiber-optic systems and are developing competing capsule technologies. CapsoVision's competitive position relies on differentiation in image quality, battery life, ease of use, and clinical outcomes—factors that drive physician and patient adoption in a conservative medical device sector.
+Competition comes from established endoscopy device makers (Medtronic, [Boston Scientific](/bsx-stock/), Olympus) who offer both traditional fiber-optic systems and are developing competing capsule technologies. CapsoVision's competitive position relies on differentiation in image quality, battery life, ease of use, and clinical outcomes—factors that drive physician and patient adoption in a conservative medical device sector.
 
 ## Challenges and Realities
 

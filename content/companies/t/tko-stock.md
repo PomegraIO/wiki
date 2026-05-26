@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-TKO Group Holdings, Inc. is a sports entertainment and media company headquartered in New York that owns and operates the Ultimate Fighting Championship (UFC), World Wrestling Entertainment (WWE), and other combat sports properties. The company was formed in September 2023 through a merger between Endeavor's Zuffa, which owned the UFC, and WWE, creating a combined entity that reaches more than one billion households across 210 countries and territories. TKO is structured as a partnership between Endeavor, which owns approximately 59 percent, and other shareholders holding the remaining stake. The combined enterprise organises more than 500 live events annually and commands the attention of a vast global audience spanning multiple generations and geographies.
+TKO Group Holdings, Inc. is a sports entertainment and media company headquartered in New York that owns and operates the Ultimate Fighting Championship (UFC), World Wrestling Entertainment (WWE), and other combat sports properties. The company was formed in September 2023 through a [merger](/merger/) between Endeavor's Zuffa, which owned the UFC, and WWE, creating a combined entity that reaches more than one billion households across 210 countries and territories. TKO is structured as a partnership between Endeavor, which owns approximately 59 percent, and other shareholders holding the remaining stake. The combined enterprise organises more than 500 live events annually and commands the attention of a vast global audience spanning multiple generations and geographies.
 
 <aside class="wiki-infobox">
 <table>

@@ -39,11 +39,11 @@ Sun Life's revenue comes from three sources. Premiums on life and health policie
 
 Underwriting profit (premiums minus claims and operating costs) is the core discipline. A life insurance company must price accurately to cover claims it cannot predict with perfect certainty. If a company misprices risk — charges too little relative to the claims it will face — profits evaporate. Conversely, if a company prices conservatively and claims turn out lower than expected, profit exceeds forecasts. Sun Life's scale and history provide actuarial experience and data to price more accurately than smaller rivals.
 
-Investment income is less stable than underwriting profit but material. A decline in interest rates or stock-market weakness reduces the return on invested premiums, directly pressuring earnings. Conversely, higher rates and strong equity returns boost investment income. Insurance companies are therefore inherently exposed to financial-market conditions.
+Investment income is less stable than underwriting profit but material. A decline in [interest rates](/interest-rate/) or stock-market weakness reduces the return on invested premiums, directly pressuring earnings. Conversely, higher rates and strong equity returns boost investment income. Insurance companies are therefore inherently exposed to financial-market conditions.
 
 ## Scale, geography, and diversification
 
-Sun Life's presence across multiple countries and product lines is a strength and a complexity. The company earns premiums in Canadian dollars, U.S. dollars, Asian currencies, and European currencies; each region has different economic cycles, mortality and morbidity patterns, and regulatory regimes. A recession in one region can be offset by growth in another. But managing operations across so many jurisdictions, with different claim experiences and investment environments, requires sophisticated risk management and organizational infrastructure.
+Sun Life's presence across multiple countries and product lines is a strength and a complexity. The company earns premiums in [Canadian dollars](/canadian-dollar/), U.S. dollars, Asian currencies, and European currencies; each region has different economic cycles, mortality and morbidity patterns, and regulatory regimes. A [recession](/recession/) in one region can be offset by growth in another. But managing operations across so many jurisdictions, with different claim experiences and investment environments, requires sophisticated risk management and organizational infrastructure.
 
 The company has significant exposure to Asia-Pacific, a region of rising wealth and growing insurance penetration. As incomes rise, individuals purchase more life and health insurance. Employers expand benefits as they compete for talent. Sun Life's expansion in this region over the past two decades has positioned it to capture that growth, though operating in emerging markets carries execution risk and regulatory uncertainty.
 
@@ -51,23 +51,23 @@ Within developed markets, Sun Life's employee-benefits business is stable but fa
 
 ## Capital, profitability, and payout
 
-Insurance companies generate strong cash flow because they collect premiums upfront and often pay claims years later (for life insurance) or manage claims over time (for health insurance). Sun Life's capital position is therefore central to its profitability and dividend capacity. The company must hold enough capital to cover unexpected claim spikes or investment-market weakness (regulators require this); excess capital above these requirements can be distributed as dividends or used for acquisitions.
+Insurance companies generate strong cash flow because they collect premiums upfront and often pay claims years later (for life insurance) or manage claims over time (for health insurance). Sun Life's capital position is therefore central to its profitability and dividend capacity. The company must hold enough capital to cover unexpected claim spikes or investment-market weakness (regulators require this); excess capital above these requirements can be distributed as [dividends](/dividend/) or used for [acquisitions](/acquisition/).
 
-The company has historically maintained a strong capital position and returned capital to shareholders through dividends and buybacks. Profitability depends on underwriting discipline, investment returns, and operational efficiency. In periods of rising interest rates, insurance companies benefit because their investment returns improve while the reserves they hold become smaller (due to higher discount rates). In periods of falling rates, the reverse occurs.
+The company has historically maintained a strong capital position and returned capital to shareholders through dividends and buybacks. Profitability depends on underwriting discipline, investment returns, and operational efficiency. In periods of rising interest rates, insurance companies benefit because their investment returns improve while the reserves they hold become smaller (due to higher [discount rates](/discount-rate/)). In periods of falling rates, the reverse occurs.
 
 ## Risks: claims, markets, and regulation
 
-The primary operational risk is unexpected claims. Mortality rates typically follow long-term trends, but sudden increases (from pandemics, accidents, or demographic shifts) can pressure profitability unexpectedly. Health-insurance claims depend on medical cost inflation, utilization rates, and the overall health of the insured population. If medical costs accelerate faster than Sun Life can raise premiums, underwriting margins shrink.
+The primary [operational risk](/operational-risk/) is unexpected claims. Mortality rates typically follow long-term trends, but sudden increases (from pandemics, accidents, or demographic shifts) can pressure profitability unexpectedly. Health-insurance claims depend on medical cost [inflation](/inflation/), utilization rates, and the overall health of the insured population. If medical costs accelerate faster than Sun Life can raise premiums, underwriting margins shrink.
 
-Investment risk is substantial. Sun Life holds bonds, equities, real estate, and other assets that fluctuate in value. If equities decline sharply, investment income and the market value of the company's portfolio fall. If interest rates rise unexpectedly, the value of long-term bonds Sun Life holds declines.
+Investment risk is substantial. Sun Life holds [bonds](/bond/), equities, real estate, and other assets that fluctuate in value. If equities decline sharply, investment income and the market value of the company's portfolio fall. If interest rates rise unexpectedly, the value of long-term bonds Sun Life holds declines.
 
 Regulation is increasingly restrictive. Regulators set minimum capital requirements, solvency rules, and conduct standards. Regulatory changes can require Sun Life to hold more capital (reducing what can be paid to shareholders) or constrain how it operates (reducing profitability).
 
 ## How to research Sun Life as an investor
 
-Start with the 10-K filing (SEC CIK 0001097362). Understand the composition of revenue: what percentage comes from each business unit and each geography. Look for trends in premiums, claims, and investment income. Rising claims as a percentage of premiums signal underwriting pressure; falling investment income signals either market weakness or poor asset allocation.
+Start with the 10-K filing (SEC CIK 0001097362). Understand the composition of revenue: what percentage comes from each business unit and each geography. Look for trends in premiums, claims, and investment income. Rising claims as a percentage of premiums signal underwriting pressure; falling investment income signals either market weakness or poor [asset allocation](/asset-allocation/).
 
-Review the capital ratios and regulatory capital requirements. A company with excess capital above minimums has flexibility; one running tight has constraints. Watch the dividend payout ratio (dividend divided by earnings); if it exceeds 50 to 60 percent, there is limited room for growth or adversity.
+Review the capital ratios and regulatory capital requirements. A company with excess capital above minimums has flexibility; one running tight has constraints. Watch the [dividend payout ratio](/dividend-payout-ratio/) (dividend divided by earnings); if it exceeds 50 to 60 percent, there is limited room for growth or adversity.
 
 On the quarterly calls, listen for commentary on medical-cost trends, mortality experience, and investment returns. Understand management's outlook on each business unit: are they seeing growth, margin pressure, or competitive challenges.
 

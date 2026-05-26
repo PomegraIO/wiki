@@ -60,11 +60,11 @@ Sonic's two-part model provides some insulation: franchise dealerships deliver m
 
 ## Competition and market position
 
-Sonic competes against other large chains (AutoNation, Lithia Motors, GroupOne) in the franchise dealer space, but also against independent dealers who have operated profitably for decades without joining a chain. In used cars, EchoPark faces a different competitive field: thousands of independent used-car lots, other retailer-branded chains, and increasingly online platforms that marry digital shopping with mobile delivery.
+Sonic competes against other large chains (AutoNation, [Lithia Motors](/lad-stock/), GroupOne) in the franchise dealer space, but also against independent dealers who have operated profitably for decades without joining a chain. In used cars, EchoPark faces a different competitive field: thousands of independent used-car lots, other retailer-branded chains, and increasingly online platforms that marry digital shopping with mobile delivery.
 
 The franchise system itself imposes constraints that are both protective and limiting. A dealer cannot sell a manufacturer's vehicles outside its assigned territory without violating the franchise agreement. That protection shields dealers from brand-new-vehicle price wars, but it also means dealers cannot easily expand into new geographies or brands — each new location or brand requires a separate franchise agreement with the manufacturer.
 
-One emerging competitive pressure is the rise of direct-to-consumer sales by manufacturers. Tesla has always sold its vehicles directly. Other manufacturers, especially those pushing electric vehicles, have expressed interest in direct sales or online-first models. If that trend accelerates, it could reshape the value of traditional franchises, though state franchise laws still provide dealerships significant protection.
+One emerging competitive pressure is the rise of direct-to-consumer sales by manufacturers. [Tesla](/tsla-stock/) has always sold its vehicles directly. Other manufacturers, especially those pushing electric vehicles, have expressed interest in direct sales or online-first models. If that trend accelerates, it could reshape the value of traditional franchises, though state franchise laws still provide dealerships significant protection.
 
 For EchoPark, the competitive advantage lies in brand recognition, location density, inventory quality, and finance partnerships. It can be displaced by a new entrant with capital or by any dealer that offers a similar customer experience at lower cost or higher convenience.
 

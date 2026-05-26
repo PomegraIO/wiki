@@ -34,7 +34,7 @@ The key to understanding VeriSign is that it is a monopoly by contract, not by a
 
 VeriSign's business is remarkably simple. The company does not need to sell anything, court customers, or negotiate big contracts. Registrars must use VeriSign's registry or lose access to .com and .net domains entirely. Demand is stable: there are hundreds of millions of active .com domains at any given time, and new ones are registered continuously. When a domain renews—and most do, year after year—VeriSign collects its fee again.
 
-This generates enormous operating leverage. The company's costs are mostly fixed: running the servers, maintaining the database, and staffing the operations. Each new domain added after the infrastructure is in place contributes almost pure profit. Margins are consequently very high—operating margins in the range of 40–50 percent are not unusual for VeriSign. Few businesses have such low marginal costs.
+This generates enormous operating leverage. The company's costs are mostly fixed: running the servers, maintaining the database, and staffing the operations. Each new domain added after the infrastructure is in place contributes almost pure profit. Margins are consequently very high—[operating margins](/operating-margin/) in the range of 40–50 percent are not unusual for VeriSign. Few businesses have such low marginal costs.
 
 Revenue grows slowly but predictably. The total number of .com domains has plateaued in recent years (there are only so many memorable domains, and competition from newer top-level domains like .io and .co has slowed growth). But renewal revenue is stable because domain owners keep renewing; a 2006 .com domain is almost certainly still being renewed today. Some years VeriSign grows from net new domain registrations; some years growth is flat. But because the base is so large and costs are so fixed, flat revenue still generates healthy earnings.
 
@@ -46,17 +46,17 @@ In practice, this is unlikely. VeriSign has run the registry reliably for decade
 
 ## Diversification beyond .com: limited
 
-VeriSign also operates registries for other top-level domains (.tv, .name, and others) and provides managed domain name system (DNS) services to companies that need reliable internet infrastructure. These businesses are real but immaterial compared to .com and .net. The company makes most of its money from two domains, which is a form of concentration risk but also a sign of stability—two customers that will renew indefinitely.
+VeriSign also operates registries for other top-level domains (.tv, .name, and others) and provides managed domain name system (DNS) services to companies that need reliable internet infrastructure. These businesses are real but immaterial compared to .com and .net. The company makes most of its money from two domains, which is a form of [concentration risk](/concentration-risk/) but also a sign of stability—two customers that will renew indefinitely.
 
 ## Growth expectations and capital allocation
 
-VeriSign does not grow fast. The .com and .net registries are mature, and newer top-level domains have captured some growth that might have gone to .com. The company generates massive free cash flow but does not reinvest heavily in the business (there is limited need to). Instead, VeriSign has returned cash to shareholders through dividends and buybacks, which boosts the stock price and per-share earnings even when the underlying business is flat.
+VeriSign does not grow fast. The .com and .net registries are mature, and newer top-level domains have captured some growth that might have gone to .com. The company generates massive [free cash flow](/free-cash-flow/) but does not reinvest heavily in the business (there is limited need to). Instead, VeriSign has returned cash to shareholders through [dividends](/dividend/) and buybacks, which boosts the stock price and per-share earnings even when the underlying business is flat.
 
-Investors in VeriSign are buying a low-growth, high-margin, highly predictable business that will keep generating cash and returning it. The stock does not move much on earnings surprises because there are no surprises; it moves on changes to regulatory risk or interest rates (which affect how much investors will pay for a stable cash flow).
+Investors in VeriSign are buying a low-growth, high-margin, highly predictable business that will keep generating cash and returning it. The stock does not move much on earnings surprises because there are no surprises; it moves on changes to regulatory risk or [interest rates](/interest-rate/) (which affect how much investors will pay for a stable cash flow).
 
 ## Real risks, and what to watch
 
-The main risk is regulatory or political pressure to increase competition in the .com space or to cap price increases below what VeriSign wants. The second risk is that new domain extensions continue to siphon registrations away from .com, though this has slowed. The third is that ICANN or the U.S. government decides to move the .com registry to a new operator, though this is genuinely unlikely because of the operational risk.
+The main risk is regulatory or political pressure to increase competition in the .com space or to cap price increases below what VeriSign wants. The second risk is that new domain extensions continue to siphon registrations away from .com, though this has slowed. The third is that ICANN or the U.S. government decides to move the .com registry to a new operator, though this is genuinely unlikely because of the [operational risk](/operational-risk/).
 
 For a business with so little growth, VeriSign trades on two things: the sustainability of its near-monopoly and the cash it returns to shareholders. Both are durable, which is why the stock is held mostly by conservative investors seeking steady returns.
 

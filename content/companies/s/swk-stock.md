@@ -36,7 +36,7 @@ Stanley Black & Decker's competitive advantage comes from scale, manufacturing e
 
 Most of Stanley Black & Decker's revenue comes from four rough buckets: power tools for consumers and professionals, hand tools, industrial fastening systems, and outdoor products.
 
-**Consumer and professional power tools** are the flagship business. A consumer buys a drill at Home Depot or Amazon because they need to hang shelves. A contractor buys heavier-duty versions because she runs a carpentry business and uses a drill every day. A roofing company buys cordless impact drivers by the dozen because they speed up fastening. These products are designed in North America, manufactured at scale (either in company plants or by contract manufacturers), and sold through retail partners (Home Depot, Lowe's, Amazon), directly to professionals, or through specialty distributors.
+**Consumer and professional power tools** are the flagship business. A consumer buys a drill at [Home Depot](/hd-stock/) or Amazon because they need to hang shelves. A contractor buys heavier-duty versions because she runs a carpentry business and uses a drill every day. A roofing company buys cordless impact drivers by the dozen because they speed up fastening. These products are designed in North America, manufactured at scale (either in company plants or by contract manufacturers), and sold through retail partners (Home Depot, Lowe's, Amazon), directly to professionals, or through specialty distributors.
 
 Power-tool margins are compressed. The market is competitive. Brands like Makita, DeWalt (actually owned by Stanley Black & Decker), Milwaukee, and Bosch all fight for shelf space and contractor loyalty. Price sensitivity is real — a contractor who can buy the same cordless drill from two makers will pick the cheaper one if the tools are equally reliable. So the company has to compete on quality, battery life, ergonomics, and availability, not just on price.
 
@@ -48,7 +48,7 @@ Power-tool margins are compressed. The market is competitive. Brands like Makita
 
 ## Why the margins matter, and what squeezes them
 
-When you make physical products, the largest costs are materials, manufacturing labour, and logistics. A drill might cost the company $40 to buy the motor, battery pack, plastic housing, and other parts. Add labour (the worker on the assembly line), utilities, and depreciation of the factory, and the cost is maybe $60. Sell it to a retailer for $80 and keep $20 as gross profit. That $20 covers shipping, warranty claims, engineering, sales staff, the corporate office, and profit.
+When you make physical products, the largest costs are materials, manufacturing labour, and logistics. A drill might cost the company $40 to buy the motor, battery pack, plastic housing, and other parts. Add labour (the worker on the assembly line), utilities, and [depreciation](/depreciation/) of the factory, and the cost is maybe $60. Sell it to a retailer for $80 and keep $20 as gross profit. That $20 covers shipping, warranty claims, engineering, sales staff, the corporate office, and profit.
 
 That math breaks down fast. If the motor you use gets more expensive because copper prices spike, your cost goes from $40 to $45. You can't always raise the price to the retailer, because the retailer will push back or switch to a competitor's product. So your gross margin shrinks from 25% to 12.5%. Over thousands of units, that is a massive swing in profitability.
 
@@ -58,7 +58,7 @@ Competition from overseas manufacturers — especially from China — has been r
 
 ## The balance sheet and what happens with cash
 
-Stanley Black & Decker generates billions of dollars in operating cash flow each year. Like most large industrial companies, it returns some of that to shareholders through dividends and share buybacks. It also reinvests in factories, product development, and acquisitions.
+Stanley Black & Decker generates billions of dollars in operating cash flow each year. Like most large industrial companies, it returns some of that to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). It also reinvests in factories, product development, and [acquisitions](/acquisition/).
 
 The company carries debt, as most large manufacturers do. That debt is used to fund expansion and also to return capital to shareholders. As long as the company generates strong cash flow and the business remains profitable, the debt is manageable. If sales decline sharply or margins compress, debt levels become more concerning.
 

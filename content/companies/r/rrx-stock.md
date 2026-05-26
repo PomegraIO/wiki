@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Regal Rexnord Corporation is an industrial manufacturer of bearings, gearboxes, motors, and other power-transmission components that go inside machinery — factories, mills, turbines, conveyors, pumps. It sells to almost every industry that moves things: food and beverage processors, automotive plants, mining, chemical, water treatment, oil and gas, renewables. The company (NASDAQ: RRX) is the product of a long series of acquisitions that have consolidated a fragmented industry into one of the world's largest suppliers of motion-control and power-transmission equipment. It is a decidedly unglamorous business, but one with deep roots in industrial production.
+Regal Rexnord Corporation is an industrial manufacturer of bearings, gearboxes, motors, and other power-transmission components that go inside machinery — factories, mills, turbines, conveyors, pumps. It sells to almost every industry that moves things: food and beverage processors, automotive plants, mining, chemical, water treatment, oil and gas, renewables. The company ([NASDAQ](/nasdaq/): RRX) is the product of a long series of [acquisitions](/acquisition/) that have consolidated a fragmented industry into one of the world's largest suppliers of motion-control and power-transmission equipment. It is a decidedly unglamorous business, but one with deep roots in industrial production.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,11 +27,11 @@ Regal Rexnord Corporation is an industrial manufacturer of bearings, gearboxes, 
 
 ## A century of making motors and bearings
 
-Regal's roots run to 1906 when a Wisconsin entrepreneur started making electric motors in Racine. The company that would become Regal Beloit flourished in the industrial heartland of the early twentieth century, selling motors to factories and machinery builders across America. For most of the twentieth century it remained a regional, then national, manufacturer of motors and related equipment — not the household name that General Electric was, but deeply embedded in industrial supply chains.
+Regal's roots run to 1906 when a Wisconsin entrepreneur started making electric motors in Racine. The company that would become Regal Beloit flourished in the industrial heartland of the early twentieth century, selling motors to factories and machinery builders across America. For most of the twentieth century it remained a regional, then national, manufacturer of motors and related equipment — not the household name that [General Electric](/ge-stock/) was, but deeply embedded in industrial supply chains.
 
 The turning point came in the 1990s and 2000s when Regal and a competitor called Rexnord began a period of aggressive acquisition. Both companies realised that the industrial-equipment market was fragmented — thousands of small suppliers made bearings, gearboxes, motors, couplings, and other components, each with narrow product ranges and local customer bases. A consolidator could buy dozens of these suppliers, integrate them, strip out redundant overhead, and offer customers a broader product range and better service. Regal and Rexnord pursued this strategy relentlessly, each swallowing competitors and bolt-on acquisitions. Regal acquired Electrolux's motor business, a major bearings maker, and a string of smaller specialists. Rexnord bought gearbox companies, coupling makers, and conveyor specialists.
 
-In 2024, the two companies merged, creating Regal Rexnord — a behemoth that sells tens of billions of dollars' worth of motion-control and power-transmission equipment annually. The merger was the culmination of a decades-long consolidation story: two large roll-ups joining into one even larger player.
+In 2024, the two companies merged, creating Regal Rexnord — a behemoth that sells tens of billions of dollars' worth of motion-control and power-transmission equipment annually. The [merger](/merger/) was the culmination of a decades-long consolidation story: two large roll-ups joining into one even larger player.
 
 ## The business: components, not finished goods
 
@@ -49,7 +49,7 @@ The barrier to entry is capital and distribution. You cannot launch a major bear
 
 ## Segments and exposure to economic cycles
 
-Regal Rexnord's revenue comes from a broad mix of end markets, which is both a strength and a weakness. The breadth means that when one industry slows (say, construction equipment), others may still be buying (food and beverage, which is defensive). But it also means the company is exposed to the full swing of industrial capital spending — when recessions hit and businesses cut capex, machinery orders crater, and Regal's sales decline.
+Regal Rexnord's revenue comes from a broad mix of end markets, which is both a strength and a weakness. The breadth means that when one industry slows (say, construction equipment), others may still be buying (food and beverage, which is defensive). But it also means the company is exposed to the full swing of industrial capital spending — when [recessions](/recession/) hit and businesses cut capex, machinery orders crater, and Regal's sales decline.
 
 The company has particularly strong exposure to electrification and renewable energy: wind turbines, electric-vehicle production, grid modernisation. These are growth markets that offer stability relative to old-line industrial cycles. Food and beverage is another ballast — it is relatively defensive because factories always need to maintain and upgrade their lines. Automotive is larger but more cyclical, exposed to both production volume and the shift toward electric powertrains, which may use fewer motors and gearboxes than combustion engines.
 

@@ -47,7 +47,7 @@ Revenue growth has been strong because the underlying market is growing: every c
 
 ## What makes JFrog defensible?
 
-JFrog operates in a competitive space. Large infrastructure providers like AWS, Google Cloud, and Microsoft Azure all offer artifact repository services as part of their broader platforms. Open-source alternatives exist for teams that want to self-host without paying. So why do customers choose JFrog?
+JFrog operates in a competitive space. Large infrastructure providers like AWS, Google Cloud, and [Microsoft](/msft-stock/) Azure all offer artifact repository services as part of their broader platforms. Open-source alternatives exist for teams that want to self-host without paying. So why do customers choose JFrog?
 
 The primary reason is platform independence. JFrog works across AWS, Azure, Google Cloud, and on-premise systems, so a company is not locked into any single cloud vendor. That flexibility is valuable to large enterprises that use multiple clouds or want optionality about where to host their infrastructure. JFrog's tools are also purpose-built for the artifact and release management problem, which means they tend to be more feature-rich and easier to use than the general-purpose tools offered by cloud vendors.
 
@@ -69,6 +69,6 @@ Finally, the software supply chain is becoming an area of regulatory interest an
 
 Begin with the 10-K (SEC CIK 0001800667), which breaks revenue by customer segment and geography, and details customer retention and expansion metrics. Look for net retention rate — a measure of whether existing customers are increasing their spending or decreasing it. In the SaaS world, a net retention above 100% means customers are spending more each year, a sign of strong product fit and land-and-expand success. Below 100% signals churn or contraction.
 
-Watch the company's gross margin and operating margin trends. SaaS companies can be unprofitable when growing fast, but margins should be improving as the company scales. If costs are growing faster than revenue, that is a red flag. Also review the customer acquisition cost and the payback period — how long it takes for the revenue from a new customer to cover the cost of acquiring them.
+Watch the company's gross margin and [operating margin](/operating-margin/) trends. SaaS companies can be unprofitable when growing fast, but margins should be improving as the company scales. If costs are growing faster than revenue, that is a red flag. Also review the customer [acquisition](/acquisition/) cost and the payback period — how long it takes for the revenue from a new customer to cover the cost of acquiring them.
 
 The earnings calls are where management discusses pipeline, competitive dynamics, and new product releases. Pay attention to whether customers are consolidating around fewer tools or whether JFrog is winning wallet share. Follow announcements from competitors and from cloud vendors; if AWS announces a major upgrade to its own artifact repository, that is material information for JFrog's competitive position.

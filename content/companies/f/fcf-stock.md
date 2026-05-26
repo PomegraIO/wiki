@@ -18,7 +18,7 @@ The company's business is fundamentally straightforward — the traditional bank
 
 First Commonwealth operates what amounts to a modest footprint by modern banking standards. It maintains a branch network primarily across three states, concentrated in areas where community banking relationships matter. The company's strategy has never been to build a national empire; instead, it focuses on being the reliable local option for people and businesses that value personal relationships with their banker and understanding of local market conditions.
 
-The bank's target customer is typically a small-to-mid-sized business, a professional, or a family seeking straightforward banking without the digital alienation that comes with megabanks. In many of its markets, First Commonwealth still competes as a genuine alternative to the national franchises by offering responsiveness and flexibility that larger institutions struggle to match at scale.
+The bank's [target](/tgt-stock/) customer is typically a small-to-mid-sized business, a professional, or a family seeking straightforward banking without the digital alienation that comes with megabanks. In many of its markets, First Commonwealth still competes as a genuine alternative to the national franchises by offering responsiveness and flexibility that larger institutions struggle to match at scale.
 
 ## The dual pressures: rate sensitivity and competition
 

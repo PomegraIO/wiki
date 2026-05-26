@@ -61,7 +61,7 @@ The tradeoff: Weyerhaeuser has less financial flexibility than a C corporation. 
 
 **Forest and climate risks.** Wildfires, disease, pest outbreaks (such as bark beetles), and changing precipitation patterns can damage timber stands, increase management costs, and disrupt harvests. Climate change is already accelerating fire seasons in the U.S. West. Timber REITs are vulnerable to environmental volatility in ways that industrial companies are not.
 
-**Competition and market structure.** Other timber REITs—such as [Potlatch Deltic](/wiki/pdt-stock/) (now merged with Weyerhaeuser), Pope Resources, and Plum Creek (now Potlatch)—compete for log sales and real-estate opportunities. Vertically integrated timber companies in Asia and South America, as well as government-owned forests in Canada and Scandinavia, supply competing logs.
+**Competition and market structure.** Other timber REITs—such as Potlatch Deltic (now merged with Weyerhaeuser), Pope Resources, and Plum Creek (now Potlatch)—compete for log sales and real-estate opportunities. Vertically integrated timber companies in Asia and South America, as well as government-owned forests in Canada and Scandinavia, supply competing logs.
 
 **Regulatory and tax risk.** Changes to REIT tax rules, environmental regulation (clean water, endangered species, fire management mandates), and conservation easement incentives could alter Weyerhaeuser's economics. Timber harvesting has become more politically contentious in some regions.
 

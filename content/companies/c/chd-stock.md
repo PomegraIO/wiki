@@ -27,7 +27,7 @@ Church & Dwight makes stuff you buy at the grocery store. Laundry detergent. Deo
 
 ## Where the Money Comes From
 
-Church & Dwight doesn't invent products very often. What it does is take a core ingredient — like baking soda — and put it into new forms that people will buy repeatedly. Baking soda for cleaning. Baking soda for deodorant. Baking soda in laundry detergent. The company makes money by selling these products to retailers like Walmart and Target, who sell them to you. You buy them, use them up, and buy them again. That repeat buying is the whole point.
+Church & Dwight doesn't invent products very often. What it does is take a core ingredient — like baking soda — and put it into new forms that people will buy repeatedly. Baking soda for cleaning. Baking soda for deodorant. Baking soda in laundry detergent. The company makes money by selling these products to retailers like [Walmart](/wmt-stock/) and [Target](/tgt-stock/), who sell them to you. You buy them, use them up, and buy them again. That repeat buying is the whole point.
 
 Most of the company's money comes from selling to big retailers who control shelf space. Walmart and Amazon matter hugely. This means the company must negotiate constantly over price, manage supply so products are always stocked, and spend money on marketing and promotions to get your attention in a crowded aisle. It's not glamorous, but it works.
 
@@ -39,7 +39,7 @@ OxiClean is similar. Most of what OxiClean does is bleach, an old ingredient. Bu
 
 ## Competing on Shelves and in Marketing
 
-Church & Dwight competes against companies like Procter & Gamble (which makes Tide detergent, Crest toothpaste, and dozens of others) and Clorox (which makes Clorox bleach and other cleaning products). These competitors are often bigger and richer. The way Church & Dwight stays relevant is by finding niches where its brands are strongest — like baking soda in cleaning — and defending those spots relentlessly. It spends a lot on advertising and in-store promotions. You see Arm & Hammer ads on TV and coupons in the store because the company is fighting to keep shelf space and customer loyalty.
+Church & Dwight competes against companies like [Procter & Gamble](/pg-stock/) (which makes Tide detergent, Crest toothpaste, and dozens of others) and Clorox (which makes Clorox bleach and other cleaning products). These competitors are often bigger and richer. The way Church & Dwight stays relevant is by finding niches where its brands are strongest — like baking soda in cleaning — and defending those spots relentlessly. It spends a lot on advertising and in-store promotions. You see Arm & Hammer ads on TV and coupons in the store because the company is fighting to keep shelf space and customer loyalty.
 
 E-commerce and direct-to-consumer shopping have changed the game. You can now buy these products online and skip the store. Church & Dwight must manage both channels: keeping products on physical store shelves and also making sure they're available and discoverable online through Amazon and the company's own website.
 
@@ -47,13 +47,13 @@ E-commerce and direct-to-consumer shopping have changed the game. You can now bu
 
 A consumer-staples company like this doesn't grow by inventing revolutionary products. It grows through several paths. One is making existing products slightly better and charging more — like upgrading to a premium deodorant formula. Another is expanding into new categories where the brand can stretch. Arm & Hammer started as pure baking soda but has moved into laundry detergent, shampoo, and many other categories. Each new product carries the trusted brand name, making it easier to convince retailers and customers to try it.
 
-The company also grows by acquiring smaller brands. Buying OxiClean added an entirely new line of products under an established name. This is often faster than building a new brand from nothing, though acquisitions carry risk — the purchase price can be too high, or the brand might not integrate well into the company's operations.
+The company also grows by acquiring smaller brands. Buying OxiClean added an entirely new line of products under an established name. This is often faster than building a new brand from nothing, though [acquisitions](/acquisition/) carry risk — the purchase price can be too high, or the brand might not integrate well into the company's operations.
 
 ## Cash Flow and Shareholder Returns
 
 Because the business is stable and cash-generating, Church & Dwight returns a lot of money to shareholders. The company pays a dividend — a regular cash payout to people who own shares. It also buys back shares, which shrinks the number of shares outstanding over time. For a long-term investor, this capital return is part of the total return alongside any stock-price appreciation.
 
-The company's balance sheet is straightforward: it doesn't require huge factories or equipment, so capital spending is not enormous. The money comes in from retail sales, flows out to pay for ingredients and manufacturing and marketing and dividends, and the leftover is profit. In good economic times when people spend freely, the business does well. In recessions, people still buy laundry detergent and deodorant — essential items don't disappear — so the business is somewhat protected from economy-wide downturns.
+The company's [balance sheet](/balance-sheet/) is straightforward: it doesn't require huge factories or equipment, so capital spending is not enormous. The money comes in from retail sales, flows out to pay for ingredients and manufacturing and marketing and [dividends](/dividend/), and the leftover is profit. In good economic times when people spend freely, the business does well. In [recessions](/recession/), people still buy laundry detergent and deodorant — essential items don't disappear — so the business is somewhat protected from economy-wide downturns.
 
 ## What Could Go Wrong
 

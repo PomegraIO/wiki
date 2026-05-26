@@ -39,7 +39,7 @@ Realty Income's scale—among the largest net lease operators in the market—pr
 
 The company faces structural and cyclical headwinds. Retail property values have depended on tenants maintaining profitability in an environment of rising labor costs, inventory management pressures, and competitive online channels. Office space suffers from oversupply in some markets and evolving tenant preferences. Industrial properties benefit from e-commerce and logistics demand but face commodity-like competition on pricing. [Inflation](/inflation/), rising [interest rates](/interest-rate/), and tenant credit stress all bear directly on occupancy, renewal rates, and the residual value of properties at lease expiration.
 
-Realty Income's diversification reduces idiosyncratic sector risk but does not eliminate the cyclical sensitivity of net lease valuations to cap rates and property fundamentals.
+Realty Income's diversification reduces idiosyncratic sector risk but does not eliminate the cyclical sensitivity of net lease valuations to [cap rates](/cap-rate/) and property fundamentals.
 
 ## How to Research It
 

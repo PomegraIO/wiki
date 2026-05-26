@@ -82,7 +82,7 @@ Start with the [10-K](/wiki/10-k/) filing. Focus on fleet utilization, average d
 
 Examine debt maturity and covenant thresholds. Valaris' credit agreements typically include leverage and interest coverage covenants; breach risk rises during troughs. The balance sheet also shows historical rig retirements and capex—a proxy for management's view of fleet health and market durability.
 
-Study the customer base. Valaris serves Equinor, Shell, Chevron, BP, and others, but revenue concentration varies. A single major customer deferral can significantly impact guidance. [Footnote disclosures](/footnote-disclosure/) on customer concentration are in the 10-K.
+Study the customer base. Valaris serves Equinor, Shell, [Chevron](/cvx-stock/), BP, and others, but revenue concentration varies. A single major customer deferral can significantly impact guidance. [Footnote disclosures](/footnote-disclosure/) on customer concentration are in the 10-K.
 
 Watch the earnings call for commentary on booking trends, competitive pricing, and offshore capex forecasts from major operators. Guidance on utilization and day rates—forward-looking and often vague—is critical but notoriously unreliable at inflection points. The offshore drilling market has a long lead time from oil price movement to rig booking; a spike in crude may take quarters to flow through to rig demand.
 

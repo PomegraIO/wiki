@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-eBay is a website where strangers buy and sell things to each other. You list an item for sale, take photos, set a price or let people bid, and when it sells, eBay takes a cut. A buyer can then message the seller, pay through eBay's system, and arrange for the item to ship. The company does not own the goods, does not run warehouses, and does not ship packages itself — instead, it takes about five to fifteen percent of every sale and handles disputes when deals go wrong. It is one of the oldest internet companies still operating, and it remains one of the largest e-commerce platforms in the world. The stock trades on NASDAQ under EBAY.
+eBay is a website where strangers buy and sell things to each other. You list an item for sale, take photos, set a price or let people bid, and when it sells, eBay takes a cut. A buyer can then message the seller, pay through eBay's system, and arrange for the item to ship. The company does not own the goods, does not run warehouses, and does not ship packages itself — instead, it takes about five to fifteen percent of every sale and handles disputes when deals go wrong. It is one of the oldest internet companies still operating, and it remains one of the largest e-commerce platforms in the world. The stock trades on [NASDAQ](/nasdaq/) under EBAY.
 
 <aside class="wiki-infobox">
 <table>

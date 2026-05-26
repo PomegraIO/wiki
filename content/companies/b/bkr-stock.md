@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Baker Hughes is a Houston-based company that manufactures and operates equipment used across the oil and gas industry. It is not an oil producer like ExxonMobil or Shell; rather, it is the supplier of the tools those companies use to find and extract petroleum and natural gas. From drill bits that cut through rock thousands of feet underground to processing equipment that separates oil from water and sand, Baker Hughes provides the hardware, software, and field services that keep global energy production flowing.
+Baker Hughes is a Houston-based company that manufactures and operates equipment used across the oil and gas industry. It is not an oil producer like ExxonMobil or Shell; rather, it is the supplier of the tools those companies use to find and extract petroleum and [natural gas](/natural-gas/). From drill bits that cut through rock thousands of feet underground to processing equipment that separates oil from water and sand, Baker Hughes provides the hardware, software, and field services that keep global energy production flowing.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Baker Hughes is a Houston-based company that manufactures and operates equipment
 
 ## A company born from merger and refocused through crisis
 
-Baker Hughes traces its origins to 1907, when Howard Hughes Senior and Walter Sharp founded a drill-bit company in Houston. For decades, Baker Hughes was a venerable driller's supplier. In 2017, it merged with GE Oil and Gas, the oil-and-gas division that General Electric had acquired years earlier. The combination created one of the world's largest oilfield-services companies by integrating drilling expertise from the old Baker Hughes with turbomachinery, production equipment, and a broad digital platform from GE.
+Baker Hughes traces its origins to 1907, when [Howard Hughes](/hhh-stock/) Senior and Walter Sharp founded a drill-bit company in Houston. For decades, Baker Hughes was a venerable driller's supplier. In 2017, it merged with GE Oil and Gas, the oil-and-gas division that [General Electric](/ge-stock/) had acquired years earlier. The combination created one of the world's largest oilfield-services companies by integrating drilling expertise from the old Baker Hughes with turbomachinery, production equipment, and a broad digital platform from GE.
 
-The merged entity inherited GE's industrial discipline, manufacturing scale, and ambition to lead the digital and energy-transition narrative. It also inherited GE's baggage: a massive cost structure, complexity, and the need to integrate two very different cultures. The oil-price crash of 2016 hit immediately after the merger closed, forcing painful restructuring. The company laid off thousands of workers, sold assets, and pivoted toward higher-margin services and technology rather than pure commodity equipment.
+The merged entity inherited GE's industrial discipline, manufacturing scale, and ambition to lead the digital and energy-transition narrative. It also inherited GE's baggage: a massive cost structure, complexity, and the need to integrate two very different cultures. The oil-price crash of 2016 hit immediately after the [merger](/merger/) closed, forcing painful restructuring. The company laid off thousands of workers, sold assets, and pivoted toward higher-margin services and technology rather than pure commodity equipment.
 
 The strategic turn has been slow but consistent: move away from low-margin, high-volume products (commodity drill bits, for example) and toward integrated solutions, digital services, and offerings tied to customer outcomes rather than transaction prices. This is challenging because the oil-and-gas industry buys on price, and margins matter acutely. But it is also the direction that all oilfield-services companies are being pushed: consolidation and competition are pushing pure manufacturers toward service and software models.
 
@@ -66,7 +66,7 @@ Oilfield services are capital-efficient in the sense that Baker Hughes does not 
 
 Gross margins vary widely by segment. Commodity drilling products carry low double-digit gross margins; specialised completion systems and digital services carry higher margins, in the 30-40 percent range. The company has been pushing toward higher-margin offerings, but the transition is slow, and commodity business remains the bulk of revenue.
 
-Customers are oil and gas producers (small, medium, and large), drilling contractors, and offshore operators. Large customers have significant bargaining power and demand competitive pricing. Competition comes from Schlumberger, Halliburton, Weatherford, and a host of smaller, regional suppliers. Schlumberger and Halliburton are larger and more diversified in some ways, which means Baker Hughes must compete on technology, service quality, and customer relationships.
+Customers are oil and gas producers (small, medium, and large), drilling contractors, and offshore operators. Large customers have significant bargaining power and demand competitive pricing. Competition comes from Schlumberger, [Halliburton](/hal-stock/), Weatherford, and a host of smaller, regional suppliers. Schlumberger and Halliburton are larger and more diversified in some ways, which means Baker Hughes must compete on technology, service quality, and customer relationships.
 
 ## Cyclicality and the energy transition
 
@@ -80,4 +80,4 @@ Baker Hughes has begun positioning for energy transition: investing in carbon ca
 
 Start with Baker Hughes' 10-K and quarterly earnings reports (SEC CIK 0001701605). The company breaks out revenues by segment (drilling, completions, production, turbomachinery), which shows where growth and margins are. Watch the segment margins and the overall gross-margin trend; margin expansion indicates success in moving toward higher-value offerings, while compression suggests pricing pressure and commodity drag.
 
-Monitor oil and gas capital expenditure forecasts, as these drive Baker Hughes' top-line opportunity. Trade publications and energy analysts publish CapEx indices. Also track customer concentration; large customers disclosed in the 10-K represent concentration risk. Finally, follow the company's progress in digital and software services: are subscriptions and software revenue growing as a percentage of the total? Are customers adopting the company's cloud platforms? Success or failure here will shape the company's long-term margin profile and defensibility.
+Monitor oil and gas capital expenditure forecasts, as these drive Baker Hughes' top-line opportunity. Trade publications and energy analysts publish CapEx indices. Also track customer concentration; large customers disclosed in the 10-K represent [concentration risk](/concentration-risk/). Finally, follow the company's progress in digital and software services: are subscriptions and software revenue growing as a percentage of the total? Are customers adopting the company's cloud platforms? Success or failure here will shape the company's long-term margin profile and defensibility.

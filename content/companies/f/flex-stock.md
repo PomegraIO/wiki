@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Flex is the factory behind many of the technology products people rely on every day, though the brand never appears on them. The company manufactures electronics, assembles components into finished products, and designs hardware for some of the world's largest tech companies — Apple, Hewlett Packard, Cisco, and many others. It is one of the largest electronics manufacturers in the world measured by revenue, a player that most consumers have never heard of but that sits at the center of global supply chains.
+Flex is the factory behind many of the technology products people rely on every day, though the brand never appears on them. The company manufactures electronics, assembles components into finished products, and designs hardware for some of the world's largest tech companies — [Apple](/aapl-stock/), Hewlett Packard, Cisco, and many others. It is one of the largest electronics manufacturers in the world measured by revenue, a player that most consumers have never heard of but that sits at the center of global supply chains.
 
 <aside class="wiki-infobox">
 <table>
@@ -51,11 +51,11 @@ Major customers also have leverage over pricing and terms. A customer that repre
 
 Manufacturing electronics requires significant capital investment in factories, assembly equipment, testing equipment, and working capital to hold inventory and finance customer orders. Flex has hundreds of facilities around the world, from small assembly operations to large integrated plants. Maintaining and upgrading that infrastructure, while keeping costs low enough to compete on price, is a constant challenge. The company has to invest for future growth while generating returns on what it has already built.
 
-That capital intensity also exposes Flex to cyclical downturns. When demand for electronics weakens — as happens in recessions or when major customers hit rough patches — Flex's factories often run below capacity, and the fixed costs of those facilities hit profitability. The company can try to exit unprofitable contracts or close inefficient facilities, but those actions take time and carry restructuring costs.
+That capital intensity also exposes Flex to cyclical downturns. When demand for electronics weakens — as happens in [recessions](/recession/) or when major customers hit rough patches — Flex's factories often run below capacity, and the fixed costs of those facilities hit profitability. The company can try to exit unprofitable contracts or close inefficient facilities, but those actions take time and carry restructuring costs.
 
 ## Geographic exposure and manufacturing shifts
 
-Flex's factories are distributed globally — in Asia, North America, Europe, Mexico, and elsewhere. That geographic spread gives the company some resilience; if one region faces labor unrest, natural disaster, or geopolitical risk, manufacturing can shift elsewhere. But it also means Flex is exposed to the same supply-chain and geopolitical risks its customers face. Trade tensions, labor-cost inflation, semiconductor shortages, shipping disruptions — all of these ripple through Flex's business.
+Flex's factories are distributed globally — in Asia, North America, Europe, Mexico, and elsewhere. That geographic spread gives the company some resilience; if one region faces labor unrest, natural disaster, or geopolitical risk, manufacturing can shift elsewhere. But it also means Flex is exposed to the same supply-chain and geopolitical risks its customers face. Trade tensions, labor-cost [inflation](/inflation/), semiconductor shortages, shipping disruptions — all of these ripple through Flex's business.
 
 The direction of manufacturing is another risk. As labor costs have risen in China and Southeast Asia, some manufacturing is returning to Mexico, Eastern Europe, and even the United States. That shift could work in Flex's favor if it has factories positioned well, or against it if competitors build better capacity in the right places. The company is also exposed to the long-term structural decline of certain types of electronics manufacturing as products consolidate, move into software, or shift toward services.
 

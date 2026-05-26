@@ -36,7 +36,7 @@ Under current CEO Eric Mendelson (son of the founder), the company has executed 
 
 ## Competitive Position and Headwinds
 
-HEICO occupies a privileged position in aerospace MRO, but the market is not without competition and pressures. The major aircraft OEMs—Boeing, Airbus, and their supply chains—have incentives to capture higher-margin aftermarket revenue themselves. Some OEMs have invested in their own aftermarket distribution, though regulatory and cost barriers limit how much they can cannibalize the PMA market. Airlines will also support lower-cost alternatives when they perceive equivalent quality and risk.
+HEICO occupies a privileged position in aerospace MRO, but the market is not without competition and pressures. The major aircraft OEMs—[Boeing](/ba-stock/), Airbus, and their supply chains—have incentives to capture higher-margin aftermarket revenue themselves. Some OEMs have invested in their own aftermarket distribution, though regulatory and cost barriers limit how much they can cannibalize the PMA market. Airlines will also support lower-cost alternatives when they perceive equivalent quality and risk.
 
 The company's exposure to commercial aviation creates cyclical sensitivity. During prolonged airline fleet downturns (such as 2020–2021), utilization drops, MRO spending declines, and HEICO's revenues contract. Defense spending is less cyclical but subject to political and geopolitical shifts. A major reduction in U.S. defense budgets or a shift in platform priorities (e.g., away from large transport aircraft or legacy helicopter platforms) could pressure the avionics and electronics segment.
 

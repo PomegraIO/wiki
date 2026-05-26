@@ -36,7 +36,7 @@ This [diversification](/diversification/) strategy reflects management's recogni
 
 ## Competitive Dynamics and Concentration
 
-Huntington Ingalls has a near-monopoly on U.S. carrier building; it is the only yard certified and equipped to construct nuclear carriers. General Dynamics (Electric Boat division) is the only other yards building Virginia-class submarines. This duopoly structure creates a ceiling on competition but also creates a floor: neither company can easily lose major contracts without threatening decades of expertise and industrial capacity. The Navy is locked into a long-term relationship with both builders.
+Huntington Ingalls has a near-monopoly on U.S. carrier building; it is the only yard certified and equipped to construct nuclear carriers. [General Dynamics](/gd-stock/) (Electric Boat division) is the only other yards building Virginia-class submarines. This duopoly structure creates a ceiling on competition but also creates a floor: neither company can easily lose major contracts without threatening decades of expertise and industrial capacity. The Navy is locked into a long-term relationship with both builders.
 
 That said, competition exists on margins and execution. The Navy competes programs against one another, pressures costs, and can shift volumes between shipyards if performance falters. General Dynamics has occasionally competed for parts of the carrier work or vice versa, though the economics of nuclear carrier construction are so specialized that true competition is limited. Political dynamics matter too; members of Congress from competing districts lobby for contract awards, affecting allocation and schedule.
 

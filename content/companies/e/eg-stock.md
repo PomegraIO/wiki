@@ -16,7 +16,7 @@ Everest Group is a major global reinsurer and insurance company, domiciled in Be
 
 Everest Group operates fundamentally as a risk-taker and risk-distributor. On the reinsurance side, it accepts risk from primary insurers (and other reinsurers) who need to transfer or lay off portions of their underwriting exposure. These primary insurers buy reinsurance to protect themselves against unexpected losses—whether from hurricanes, earthquakes, windstorms, or other covered perils. Everest absorbs some or all of that risk in exchange for a premium, earning underwriting profit when claims come in below the premium collected.
 
-The insurance segment functions more like a traditional insurer, selling commercial property and casualty policies directly to business customers and other insureds. Everest wrote this business historically through its insurance subsidiaries, focusing on workers' compensation, commercial auto, surety bonds, and other commercial lines. The insurance services segment is smaller and includes managing claims and other administrative services for clients.
+The insurance segment functions more like a traditional insurer, selling commercial property and casualty policies directly to business customers and other insureds. Everest wrote this business historically through its insurance subsidiaries, focusing on workers' compensation, commercial auto, surety [bonds](/bond/), and other commercial lines. The insurance services segment is smaller and includes managing claims and other administrative services for clients.
 
 Revenue comes primarily from insurance premiums (both reinsurance and insurance underwriting), net of claims paid out and commissions. Alongside underwriting income, Everest generates substantial net investment income from its investment portfolio—a critical revenue source for reinsurers, since they hold policyholders' premiums before claims must be paid. This float is invested conservatively to generate returns that can significantly amplify earnings in favorable years.
 
@@ -30,7 +30,7 @@ The company has positioned itself not merely as a capital provider but as a spec
 
 ## What competitive advantages does Everest hold?
 
-Everest's primary moat rests on its franchise—the trust that brokers, primary insurers, and other counterparties place in its ability to pay claims and to provide thoughtful, differentiated underwriting. Reinsurers live or die by their reputation for fair dealing, financial strength, and claims-paying ability. Everest has maintained an A+ rating from Standard & Poor's (or equivalent) for decades, cementing its position as a safe, high-quality underwriting partner.
+Everest's primary moat rests on its franchise—the trust that [brokers](/broker/), primary insurers, and other counterparties place in its ability to pay claims and to provide thoughtful, differentiated underwriting. Reinsurers live or die by their reputation for fair dealing, financial strength, and claims-paying ability. Everest has maintained an A+ rating from Standard & Poor's (or equivalent) for decades, cementing its position as a safe, high-quality underwriting partner.
 
 Second, Everest has accumulated deep underwriting expertise in certain specialty niches—including excess of loss, professional indemnity, management liability, and property catastrophe. Accumulated loss experience and analytics give the company an informational advantage in pricing these risks relative to less specialized competitors. The company has also invested in data analytics and modeling to refine risk selection and pricing.
 

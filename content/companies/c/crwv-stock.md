@@ -14,9 +14,9 @@ CoreWeave is a cloud-infrastructure company built to serve a narrow but crucial 
 
 ## What does CoreWeave actually do?
 
-CoreWeave provides cloud-based GPU compute through a software layer — customers connect via API, request instances configured with one or more GPUs (typically NVIDIA's flagship chips), run their workloads, and pay per hour of compute consumed. The company has built a network of data centres, initially in North America, each outfitted with bulk GPU hardware, networking capable of handling the high-bandwidth requirements of large-model training, and the software plumbing that parcels out resources to customers.
+CoreWeave provides cloud-based GPU compute through a software layer — customers connect via API, request instances configured with one or more GPUs (typically [NVIDIA](/nvda-stock/)'s flagship chips), run their workloads, and pay per hour of compute consumed. The company has built a network of data centres, initially in North America, each outfitted with bulk GPU hardware, networking capable of handling the high-bandwidth requirements of large-model training, and the software plumbing that parcels out resources to customers.
 
-The business is capital-intensive in a specific way: it requires heavy upfront spending on data-centre construction and hardware acquisition, but once those assets are built, the marginal cost of leasing additional capacity is low. This structure — high fixed costs, low variable costs — means unit economics improve sharply as utilisation rises. A data centre running at 95 per cent capacity is far more profitable than one at 60 per cent, which creates strong incentives to fill capacity and strong penalties for idle hardware.
+The business is capital-intensive in a specific way: it requires heavy upfront spending on data-centre construction and hardware [acquisition](/acquisition/), but once those assets are built, the marginal cost of leasing additional capacity is low. This structure — high fixed costs, low variable costs — means unit economics improve sharply as utilisation rises. A data centre running at 95 per cent capacity is far more profitable than one at 60 per cent, which creates strong incentives to fill capacity and strong penalties for idle hardware.
 
 ## Why does GPU capacity matter so much right now?
 

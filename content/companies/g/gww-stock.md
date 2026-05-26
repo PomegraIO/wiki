@@ -34,7 +34,7 @@ The Grainger model works because **supply-chain efficiency matters to a busy bus
 
 Grainger captures that willingness to pay for **convenience and speed** rather than for the absolute lowest price. The company has built a brand and a network such that for many businesses, Grainger is the default. Call a branch, place an order, pick it up or have it shipped. For businesses, MRO supplies are low-consideration purchases — they have to be bought, they are not novel, the customer does not want to think about it. Grainger removes the need to think.
 
-This makes Grainger not a retailer in the traditional sense (where brand and design drive customer choice) but a **supply-chain operator**. The company's strength lies in inventory management (stocking the right items in the right locations), distribution logistics, and relationships with small and medium-sized businesses that lack their own procurement departments. A very large manufacturer like Ford or Boeing will have its own supply-chain department and will negotiate directly with suppliers; a small machine shop will buy from Grainger.
+This makes Grainger not a retailer in the traditional sense (where brand and design drive customer choice) but a **supply-chain operator**. The company's strength lies in inventory management (stocking the right items in the right locations), distribution logistics, and relationships with small and medium-sized businesses that lack their own procurement departments. A very large manufacturer like Ford or [Boeing](/ba-stock/) will have its own supply-chain department and will negotiate directly with suppliers; a small machine shop will buy from Grainger.
 
 ## The branches and the digital shift
 
@@ -52,9 +52,9 @@ The transition is ongoing. The company still earns a substantial portion of reve
 
 ## Profitability and the working-capital cycle
 
-Grainger's **gross margin** is typically 35 to 42 percent — the difference between what it pays wholesalers and what it charges businesses. That is healthy for a distributor but requires high inventory turnover to achieve; if the company stocks items that don't sell, it eats into margins.
+Grainger's **gross margin** is typically 35 to 42 percent — the difference between what it pays wholesalers and what it charges businesses. That is healthy for a distributor but requires high [inventory turnover](/inventory-turnover/) to achieve; if the company stocks items that don't sell, it eats into margins.
 
-**Operating margin** (after paying for the branch network, logistics, customer service, and administration) is typically 7 to 10 percent of revenue — solid but not spectacular. The company is not a high-margin business; it is a volume business that succeeds by moving millions of items through efficient logistics.
+**[Operating margin](/operating-margin/)** (after paying for the branch network, logistics, customer service, and administration) is typically 7 to 10 percent of revenue — solid but not spectacular. The company is not a high-margin business; it is a volume business that succeeds by moving millions of items through efficient logistics.
 
 Working capital is notably important. Grainger must finance inventory for months before it sells; large customers take 30 to 60 days to pay. This means Grainger finances its customers' operations and its suppliers' products, tying up substantial cash. In a growth period, working capital can absorb all operating cash flow; in a contraction, inventory clearance frees up cash. This is one reason Grainger's cash-flow cycle matters as much as earnings.
 

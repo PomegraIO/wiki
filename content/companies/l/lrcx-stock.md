@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Lam Research manufactures the machines that carve intricate patterns into silicon wafers during the fabrication of computer chips. These are not generic tools; they are highly specialized instruments that embody decades of physics, engineering, and process innovation. The company sits at a critical choke point in the global semiconductor supply chain — without equipment like Lam's, fabs cannot produce the chips that power everything from phones to data centres to military systems. Its customers are the world's largest chipmakers: Samsung, TSMC, Intel, Micron, and SK Hynix.
+Lam Research manufactures the machines that carve intricate patterns into silicon wafers during the fabrication of computer chips. These are not generic tools; they are highly specialized instruments that embody decades of physics, engineering, and process innovation. The company sits at a critical choke point in the global semiconductor supply chain — without equipment like Lam's, fabs cannot produce the chips that power everything from phones to data centres to military systems. Its customers are the world's largest chipmakers: Samsung, TSMC, [Intel](/intc-stock/), Micron, and SK Hynix.
 
 Lam is sometimes called a semiconductor-equipment play, a term that misses the reality. It is closer to a infrastructure business. Chipmakers cannot build fabs without capital equipment; they refresh that equipment every few years as process nodes shrink and yields improve. The result is a recurring, lumpy stream of orders that follows the semiconductor cycle — boom and bust tied to demand for chips themselves. In boom years, foundries expand capacity and Lam's backlog swells; in downturns, they cut spending and Lam's revenue compresses. Because the equipment is extremely capital-intensive and sold only to a handful of large customers, Lam's fortunes are tightly bound to the health of the overall chip industry.
 
@@ -29,7 +29,7 @@ The semiconductor capital-equipment industry is not forgiving to weak competitor
 
 Lam dominates etch so thoroughly that it serves essentially all of the world's advanced foundries. Its margin on equipment is strong — typically in the mid-40s percent before accounting for share-based compensation and R&D. But the business is cyclical. When chipmakers are confident about future demand, they order aggressively and Lam's backlog can reach $20 billion or more. When demand softens, orders dry up. Revenue swings can be violent: the company has experienced multiple cycles where a banner year for growth was followed by a severe contraction.
 
-The cycle is exogenous — Lam does not control it. It is driven by broader industry events: memory-chip oversupply, changes in smartphone demand, recessions, geopolitical disruption (like the China export restrictions that have tightened in recent years), and the rhythm of new technology nodes rolling into production. Investors in Lam are not buying a predictable, stable business; they are betting on when the next cycle will turn and how high the company can grow when it does.
+The cycle is exogenous — Lam does not control it. It is driven by broader industry events: memory-chip oversupply, changes in smartphone demand, [recessions](/recession/), geopolitical disruption (like the China export restrictions that have tightened in recent years), and the rhythm of new technology nodes rolling into production. Investors in Lam are not buying a predictable, stable business; they are betting on when the next cycle will turn and how high the company can grow when it does.
 
 ## Execution and the technical moat
 
@@ -45,7 +45,7 @@ Lam's long-term narrative depends on several secular tailwinds offsetting the cy
 
 The second is **capacity intensity**. New applications — artificial intelligence, automotive chips, edge computing — require millions of wafers produced every year. To feed that demand, the world needs more fabs, and more equipment per fab. A single data-centre AI chip may require as many manufacturing steps as a smartphone chip, and each step needs an etch tool. As AI inference spreads, the number of advanced chips being manufactured grows.
 
-The third is **geographic concentration risk** and geopolitical response. The world's most advanced chip manufacturing is concentrated in Taiwan (TSMC), South Korea (Samsung, SK Hynix), and a handful of other locations. Governments in the United States and Europe are now subsidising new fabs to reduce this concentration — the CHIPS Act in the US, billions in European subsidies. Every new fab built in a new geography buys Lam equipment. This is a multi-year programme that should provide a revenue boost in the coming decade, though timing is uncertain.
+The third is **geographic [concentration risk](/concentration-risk/)** and geopolitical response. The world's most advanced chip manufacturing is concentrated in Taiwan (TSMC), South Korea (Samsung, SK Hynix), and a handful of other locations. Governments in the United States and Europe are now subsidising new fabs to reduce this concentration — the CHIPS Act in the US, billions in European subsidies. Every new fab built in a new geography buys Lam equipment. This is a multi-year programme that should provide a revenue boost in the coming decade, though timing is uncertain.
 
 ## Risks and pressures
 

@@ -49,7 +49,7 @@ A third segment focuses on products for non-residential construction and industr
 
 ## The integration and acquisition strategy
 
-Hubbell has grown partly through organic product development and marketing, but also through acquisition. The company has purchased complementary manufacturers and brands over the years, bringing them under the Hubbell umbrella while often keeping the original brand and distribution channels. This approach has let Hubbell widen its product portfolio and geographic reach. The risks of that strategy are familiar: integrating acquired operations, managing redundant cost structures, and retaining key talent. Successful acquirers in industrial manufacturing do this repeatedly and well; unsuccessful ones destroy value.
+Hubbell has grown partly through organic product development and marketing, but also through [acquisition](/acquisition/). The company has purchased complementary manufacturers and brands over the years, bringing them under the Hubbell umbrella while often keeping the original brand and distribution channels. This approach has let Hubbell widen its product portfolio and geographic reach. The risks of that strategy are familiar: integrating acquired operations, managing redundant cost structures, and retaining key talent. Successful acquirers in industrial manufacturing do this repeatedly and well; unsuccessful ones destroy value.
 
 ## Margins, competition, and cyclicality
 
@@ -61,6 +61,6 @@ Cyclicality is a meaningful consideration. The utility segment is relatively sta
 
 Start with the annual 10-K (SEC CIK 0000048898) and review the segment revenue breakdown—what percentage comes from utilities versus construction versus industrial? Watch the gross-margin trends: are they stable, improving (suggesting a shift to higher-value products), or deteriorating (suggesting pricing pressure or an unfavourable product mix)?
 
-Quarterly earnings releases provide color on order backlogs (a forward indicator of future revenue, especially in the utility business), pricing actions (are customers accepting price increases, or is volume declining?), and segment performance. Monitor the company's capital-allocation strategy: Is Hubbell investing in manufacturing efficiency? Is it acquiring complementary businesses? How much cash is it returning to shareholders via dividends and buybacks?
+Quarterly earnings releases provide color on order backlogs (a forward indicator of future revenue, especially in the utility business), pricing actions (are customers accepting price increases, or is volume declining?), and segment performance. Monitor the company's capital-allocation strategy: Is Hubbell investing in manufacturing efficiency? Is it acquiring complementary businesses? How much cash is it returning to shareholders via [dividends](/dividend/) and buybacks?
 
 Finally, keep an eye on regulatory and infrastructure trends. Major regulatory shifts around grid modernisation or utility spending can move the utility segment for years. Similarly, commercial real-estate and industrial capex cycles affect the construction and industrial segments. News about utility grid investments, data-centre buildouts, or factory modernisation often presages demand for Hubbell products down the line.

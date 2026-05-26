@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vistra is one of the largest power-generation and power-retail businesses in the United States, operating an expanding portfolio of generation plants that run on coal, natural gas, nuclear, and renewables, then selling the electricity they produce into wholesale markets and directly to corporate and retail customers. It sits at the intersection of two distinct businesses — the equipment that makes power, and the commercial machinery of buying and selling it — and derives resilience from that mix.
+Vistra is one of the largest power-generation and power-retail businesses in the United States, operating an expanding portfolio of generation plants that run on coal, [natural gas](/natural-gas/), nuclear, and renewables, then selling the electricity they produce into wholesale markets and directly to corporate and retail customers. It sits at the intersection of two distinct businesses — the equipment that makes power, and the commercial machinery of buying and selling it — and derives resilience from that mix.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Vistra is one of the largest power-generation and power-retail businesses in the
 
 ## The making of a modern power company
 
-Vistra's story is one of consolidation and emergence from predecessors. The company traces its lineage through several mergers and acquisitions, most significantly the 2016 combination of Dynegy and Energy Future Holdings, both major power producers and retailers in their own right, each with deep roots in the American electricity market going back decades. That merger created a company with both generation capacity and direct retail relationships — the ability to produce power and sell it to customers rather than simply generating on contract or licensing to others.
+Vistra's story is one of consolidation and emergence from predecessors. The company traces its lineage through several [mergers](/merger/) and [acquisitions](/acquisition/), most significantly the 2016 combination of Dynegy and Energy Future Holdings, both major power producers and retailers in their own right, each with deep roots in the American electricity market going back decades. That merger created a company with both generation capacity and direct retail relationships — the ability to produce power and sell it to customers rather than simply generating on contract or licensing to others.
 
 The consolidation impulse reflected a real truth about electricity generation in the modern era: a survivor in the business needs both. A pure generation company can find itself at the mercy of wholesale electricity prices set by commodity markets. A pure retail company dependent on wholesale purchases faces margin compression if it cannot secure a reliable supply of its own power at reasonable cost. Vistra, by combining the two, created optionality — it could generate power when it was economic, sell into the wholesale market when prices were favorable, or lock in supply by running its plants to fulfill long-term retail contracts.
 

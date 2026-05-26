@@ -29,7 +29,7 @@ The American plate runs on commodity proteins, and Tyson Foods operates at the c
 
 John Tyson started with a small chicken hatchery operation in rural Arkansas in 1935. The company remained regional for decades, raising chickens and distributing them to local markets. The turning point came in the 1960s when Tyson began to vertically integrate—controlling not just processing but animal feed, breeding, and logistics alongside it. This model of owning the entire chain from breeding through slaughterhouse to distribution became the template for modern meat production and proved extraordinarily efficient.
 
-Tyson expanded rapidly through the 1970s and 1980s into pork and beef, and through a series of major acquisitions—Conway, Hillshire Brands, Federico, Heisenberg—became the dominant player in American meat. The company's size and vertical control gave it advantages competitors could not match: lower cost of production, the ability to manage volatile commodity prices by controlling the input side, and the market share to command shelf space in every grocery chain.
+Tyson expanded rapidly through the 1970s and 1980s into pork and beef, and through a series of major [acquisitions](/acquisition/)—Conway, Hillshire Brands, Federico, Heisenberg—became the dominant player in American meat. The company's size and vertical control gave it advantages competitors could not match: lower cost of production, the ability to manage volatile commodity prices by controlling the input side, and the market share to command shelf space in every grocery chain.
 
 ## The three pillars: beef, pork, chicken
 
@@ -39,7 +39,7 @@ Tyson organises its business into distinct segments that reflect the different a
 
 **Pork** sits between chicken and beef in both the timeline (pigs take four to six months) and in margin dynamics. Pork is sold fresh and processed (bacon, sausage, ham) to both retail and foodservice customers. Pork is also a swing commodity globally, especially against Chinese demand, making this segment susceptible to currency and trade flows.
 
-**Beef** is the smallest segment by volume but commands significant scale. Tyson operates feedlots, slaughterhouses, and branded beef programs. Beef economics are driven by the live cattle market, which is itself a commodity tied to corn and forage prices, and by retail demand for premium cuts and ground beef.
+**Beef** is the smallest segment by volume but commands significant scale. Tyson operates feedlots, slaughterhouses, and branded beef programs. Beef economics are driven by the [live cattle](/live-cattle/) market, which is itself a commodity tied to corn and forage prices, and by retail demand for premium cuts and ground beef.
 
 Across all three, the company also operates a prepared foods division that manufactures items under branded and private labels—marinades, seasoned meats, meal kits—which carry higher margins than commodity cuts.
 
@@ -51,7 +51,7 @@ The downside is capital intensity. Modern meat processing requires continuous in
 
 ## Commodity exposure and margin squeeze
 
-Tyson's earnings are fundamentally exposed to commodity prices on both sides of the equation. Feed costs—primarily corn and soybeans—are the largest variable cost. Meat prices, especially live animal prices, drive revenue. When feed costs rise faster than meat prices fall, margins compress. The company manages this partly through forward contracts and hedging, and partly through customer contracts that pass through some commodity risk, but perfect hedging is impossible in a multi-month operation.
+Tyson's earnings are fundamentally exposed to commodity prices on both sides of the equation. Feed costs—primarily corn and soybeans—are the largest variable cost. Meat prices, especially live animal prices, drive revenue. When feed costs rise faster than meat prices fall, margins compress. The company manages this partly through [forward contracts](/forward-contract/) and hedging, and partly through customer contracts that pass through some commodity risk, but perfect hedging is impossible in a multi-month operation.
 
 The regulatory environment is another pressure. Animal welfare, environmental regulations on water and waste, antibiotic use, and food safety standards all add cost and complexity. Labour costs in meat processing are substantial and have risen as the pool of low-wage workers tightens. These costs are difficult to pass entirely to customers, especially when selling commodity proteins to price-sensitive retailers.
 

@@ -43,7 +43,7 @@ IDT's core operations today center on three broad areas, though the precise stru
 
 **Fintech and remittance services** are now central to the investment case. IDT owns and operates remittance platforms, most notably **Net2Phone** (which IDT has spun off and recombined with other assets multiple times) and stakes in fintech operators that facilitate money movement into developing markets. These platforms charge a percentage of each transaction or a flat fee per transfer. The business benefits from secular growth in international remittance flows — families in the developing world receiving money from diaspora workers in developed countries — which has grown steadily as migration has increased. Remittance services are recurring, high-margin, and less commodity-like than voice; a customer choosing a remittance provider often does so based on trust, speed, and exchange-rate transparency.
 
-**Cloud communications** have become increasingly material. IDT subsidiary [Net2Phone](/wiki/net2phone-stock/) (or related cloud-based operations) serves enterprises with unified-communications platforms and cloud PBX systems — replacements for traditional on-site phone equipment. These solutions appeal to small and mid-size businesses that do not want the capital expense and maintenance burden of legacy phone systems.
+**Cloud communications** have become increasingly material. IDT subsidiary Net2Phone (or related cloud-based operations) serves enterprises with unified-communications platforms and cloud PBX systems — replacements for traditional on-site phone equipment. These solutions appeal to small and mid-size businesses that do not want the capital expense and maintenance burden of legacy phone systems.
 
 ## Spin-offs and financial engineering
 
@@ -67,11 +67,11 @@ The remittance business in particular benefits from the reality that immigrant c
 
 ## Competitive pressures and market shifts
 
-IDT faces structural headwinds in its legacy calling business. VoIP has commoditized voice, traditional carriers have dropped international rates to compete for immigrant customers, and newer platforms (Wise, Revolut, PayPal) now serve cross-border payment needs that once required a telecom operator. The company's core international calling franchise has shrunken as primary demand has evaporated.
+IDT faces structural headwinds in its legacy calling business. VoIP has commoditized voice, traditional carriers have dropped international rates to compete for immigrant customers, and newer platforms (Wise, Revolut, [PayPal](/pypl-stock/)) now serve cross-border payment needs that once required a telecom operator. The company's core international calling franchise has shrunken as primary demand has evaporated.
 
-The remittance business remains more defensible. Competitors include companies like Remitly, MoneyGram, and Western Union, but also newer fintech players offering blockchain-based transfers and direct bank partnerships. The business is not a monopoly, but established players have brand trust and convenience, and transaction volumes are sticky. IDT's advantage lies in long-standing relationships with immigrant communities, customer [acquisition](/acquisition/) channels, and access to the underlying telecom infrastructure for money settlement.
+The remittance business remains more defensible. Competitors include companies like Remitly, MoneyGram, and [Western Union](/wu-stock/), but also newer fintech players offering blockchain-based transfers and direct bank partnerships. The business is not a monopoly, but established players have brand trust and convenience, and transaction volumes are sticky. IDT's advantage lies in long-standing relationships with immigrant communities, customer [acquisition](/acquisition/) channels, and access to the underlying telecom infrastructure for money settlement.
 
-Cloud communications are more crowded, with competitors ranging from Zoom and Microsoft Teams for larger enterprises to niche PBX vendors for SMBs. IDT's position here is tied to the fortunes of whichever cloud-communications asset the company is running (or holding a stake in) at any given time.
+Cloud communications are more crowded, with competitors ranging from Zoom and [Microsoft](/msft-stock/) Teams for larger enterprises to niche PBX vendors for SMBs. IDT's position here is tied to the fortunes of whichever cloud-communications asset the company is running (or holding a stake in) at any given time.
 
 ## The holding-company question
 

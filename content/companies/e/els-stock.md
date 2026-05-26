@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Equity Lifestyle Properties is a real estate company that owns and operates manufactured-housing communities and recreational-vehicle parks across North America. Its customers lease the land beneath their own homes and vehicles — a model that generates stable, long-lived recurring revenue and has made ELS one of the larger and more durable players in essential residential real estate.*
+*Equity Lifestyle Properties is a real estate company that owns and operates manufactured-housing communities and recreational-vehicle parks across North America. Its customers lease the land beneath their own homes and vehicles — a model that generates stable, long-lived recurring revenue and has made ELS one of the larger and more durable players in essential [residential real estate](/residential-real-estate/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ handwritten: true
 
 Equity Lifestyle Properties traces its origins to 1968, founded as a owner and operator of mobile-home parks in an era when the manufactured-housing industry was still finding its place in American residential real estate. For decades it remained a regional consolidator, buying independent parks in fragmented markets and bringing them under professional management. Through the 1980s and 1990s, the company methodically expanded, acquiring parks and building operational expertise across states.
 
-The strategic shift came in the early 2000s when ELS went public and began using public-market capital to accelerate what had been a steady acquisition strategy. That access to capital transformed the company's scale. Over the following two decades, ELS became the largest operator of manufactured-housing communities in the United States and one of the largest RV park operators, through a combination of acquisitions — sometimes buying platforms of multiple parks at once — and greenfield development. By the 2020s, the company operated hundreds of communities across North America, housing tens of thousands of residents.
+The strategic shift came in the early 2000s when ELS went public and began using public-market capital to accelerate what had been a steady acquisition strategy. That access to capital transformed the company's scale. Over the following two decades, ELS became the largest operator of manufactured-housing communities in the United States and one of the largest RV park operators, through a combination of [acquisitions](/acquisition/) — sometimes buying platforms of multiple parks at once — and greenfield development. By the 2020s, the company operated hundreds of communities across North America, housing tens of thousands of residents.
 
-The business model proved durable and recession-resistant. During the 2008 financial crisis, when traditional real estate and housing markets convulsed, manufactured-housing communities proved more defensive because they served price-conscious residents for whom affordability was critical. That resilience, combined with the stable cash flows ELS generated, attracted capital-markets attention and eventually led to the company's conversion to a real estate investment trust structure.
+The business model proved durable and recession-resistant. During the 2008 financial crisis, when traditional real estate and housing markets convulsed, manufactured-housing communities proved more defensive because they served price-conscious residents for whom affordability was critical. That resilience, combined with the stable cash flows ELS generated, attracted capital-markets attention and eventually led to the company's conversion to a [real estate investment trust](/real-estate-investment-trust/) structure.
 
 ## How ELS makes money and sustains it
 
@@ -54,7 +54,7 @@ The principal risk for ELS is rent growth. The company raises rents annually, bu
 
 A second pressure is demographic. The core ELS resident is typically over 55 years old, often retired, and living on a fixed income. As that cohort ages, attrition rises simply because residents move to senior care or pass away. The company mitigates this through capital investment to attract younger families and working-age residents, but the underlying demographic tailwind is not what it was.
 
-Capital intensity is a third challenge. ELS is a real estate business, and maintaining hundreds of properties with utilities, roads, and infrastructure requires ongoing investment. The company typically has higher capital expenditure as a percentage of revenue than many other real estate or infrastructure businesses, which limits the amount of free cash flow available for dividends or debt reduction despite strong operating cash flow.
+Capital intensity is a third challenge. ELS is a real estate business, and maintaining hundreds of properties with utilities, roads, and infrastructure requires ongoing investment. The company typically has higher capital expenditure as a percentage of revenue than many other real estate or infrastructure businesses, which limits the amount of [free cash flow](/free-cash-flow/) available for [dividends](/dividend/) or debt reduction despite strong operating cash flow.
 
 ## How to research ELS as an investment
 

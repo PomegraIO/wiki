@@ -39,7 +39,7 @@ Ensign does not build new facilities from scratch. Instead, it buys existing nur
 
 Once Ensign buys a facility, it applies its operating template. The company is known for moving in experienced managers, streamlining staff, renegotiating supply contracts (because Ensign now buys supplies across dozens of facilities at once and has better leverage), and sometimes making capital investments to upgrade the building or add services. If it works, occupancy and margins improve. The facility goes from marginally profitable or unprofitable to solidly profitable.
 
-Ensign then repeats. It buys another struggling facility, applies the same formula, and eventually sells it or keeps it in the portfolio. The company's earnings growth has historically come more from acquisitions and operational improvement than from organic growth in the facilities it already owns.
+Ensign then repeats. It buys another struggling facility, applies the same formula, and eventually sells it or keeps it in the portfolio. The company's earnings growth has historically come more from [acquisitions](/acquisition/) and operational improvement than from organic growth in the facilities it already owns.
 
 ## The People Problem
 
@@ -61,7 +61,7 @@ The reputational risk is real as well. The nursing-home industry has come under 
 
 Ensign's business is surprisingly stable once you understand it. Nursing-home demand is not going away; the population is aging, and most people eventually need some form of institutional care. Prices are regulated, so margins are predictable. The company generates steady cash flow and uses that to fund acquisitions.
 
-The downside is that nursing homes are not a high-margin business. Operating margins are typically in the mid-to-high single digits — profitable, but not spectacular. That limits how big Ensign's stock can grow unless it takes on leverage or improves margins through efficiency, which it has done.
+The downside is that nursing homes are not a high-margin business. [Operating margins](/operating-margin/) are typically in the mid-to-high single digits — profitable, but not spectacular. That limits how big Ensign's stock can grow unless it takes on leverage or improves margins through efficiency, which it has done.
 
 The industry is fragmented; there are thousands of independent nursing homes and several mid-sized chains, but no dominant mega-operator. Ensign's strategy of rolling up smaller facilities and running them on a tighter cost structure makes economic sense, and the company has executed this well.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Contemporary Amperex Technology Co., Limited (CATL) is a Chinese company that makes rechargeable batteries for electric cars and large-scale energy storage systems. The batteries it produces are crucial to modern electric vehicles. Better batteries mean longer driving range, faster charging, and lower cost. Worse batteries mean the opposite. CATL is the single largest battery maker in the world, supplying major car companies including Tesla, BMW, Volkswagen, and many others. If you drive an electric car, the battery inside it was very likely made by CATL or one of its Chinese competitors. The business is strategically important because whoever controls battery manufacturing controls a large slice of the value in electric vehicles.
+Contemporary Amperex Technology Co., Limited (CATL) is a Chinese company that makes rechargeable batteries for electric cars and large-scale energy storage systems. The batteries it produces are crucial to modern electric vehicles. Better batteries mean longer driving range, faster charging, and lower cost. Worse batteries mean the opposite. CATL is the single largest battery maker in the world, supplying major car companies including [Tesla](/tsla-stock/), BMW, Volkswagen, and many others. If you drive an electric car, the battery inside it was very likely made by CATL or one of its Chinese competitors. The business is strategically important because whoever controls battery manufacturing controls a large slice of the value in electric vehicles.
 
 <aside class="wiki-infobox">
 <table>
@@ -59,7 +59,7 @@ If lithium becomes scarce or expensive, CATL's margins get squeezed — it canno
 
 CATL makes different types of batteries for different purposes. Lithium iron phosphate (LFP) batteries are cheaper and safer but have slightly lower energy density (meaning they store less energy per pound). Nickel-cobalt batteries are more expensive but pack more energy per pound, which is useful for cars that need long range or high performance. There are also sodium-ion batteries, which are emerging as a lower-cost alternative for certain applications.
 
-Car makers choose the chemistry based on their target price and performance. A luxury car maker that wants 400-mile range and $100,000 prices will choose nickel-based chemistry. A maker of affordable commuter cars priced at $30,000 might choose LFP. CATL produces all of these, allowing it to serve the entire market.
+Car makers choose the chemistry based on their [target](/tgt-stock/) price and performance. A luxury car maker that wants 400-mile range and $100,000 prices will choose nickel-based chemistry. A maker of affordable commuter cars priced at $30,000 might choose LFP. CATL produces all of these, allowing it to serve the entire market.
 
 ## The global push and the tariff wall
 
@@ -81,6 +81,6 @@ At the same time, CATL has real technological strength and cost advantages that 
 
 ## How to research CATL as an investment
 
-CATL's annual report (SEC CIK 0002070829 via the American Depositary Receipt structure) shows revenue by application (automotive batteries, stationary storage, etc.) and by region. Watch the utilization rate of CATL's factories — high utilization means the company is running efficiently; low utilization suggests demand weakness or excess capacity.
+CATL's [annual report](/10-k/) (SEC CIK 0002070829 via the [American Depositary Receipt](/adr/) structure) shows revenue by application (automotive batteries, stationary storage, etc.) and by region. Watch the utilization rate of CATL's factories — high utilization means the company is running efficiently; low utilization suggests demand weakness or excess capacity.
 
 Key metrics include gross margin on battery cells, new capacity announcements (indicating the company is betting on future growth), and market share in major car-maker programs. Listen to the earnings calls for color on pricing pressure, mining-input costs, and pipeline of contracts with new customers. The battery market is moving fast, and what looked secure a year ago can be disrupted quickly if a competitor launches a better chemistry or a car maker shifts suppliers.

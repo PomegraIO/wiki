@@ -27,9 +27,9 @@ Lockheed Martin stands at the centre of the global military-industrial ecosystem
 
 ## The Cold War inheritance
 
-Lockheed Martin's lineage traces back to two giants of the mid-twentieth century. Lockheed Corporation, founded in 1912, built the P-38 Lightning fighters of World War II and went on to pioneer supersonic aircraft, the SR-71 Blackbird, and the Space Shuttle. Martin Marietta, which emerged from the 1961 merger of the Glenn L. Martin Company and American-Marietta, built the Pershing missile, spacecraft, and launch vehicles. Both were creatures of the Cold War, bred in an era when military spending was vast and stable, and when winning a major contract could sustain a company for decades.
+Lockheed Martin's lineage traces back to two giants of the mid-twentieth century. Lockheed Corporation, founded in 1912, built the P-38 Lightning fighters of World War II and went on to pioneer supersonic aircraft, the SR-71 Blackbird, and the Space Shuttle. Martin Marietta, which emerged from the 1961 [merger](/merger/) of the Glenn L. Martin Company and American-Marietta, built the Pershing missile, spacecraft, and launch vehicles. Both were creatures of the Cold War, bred in an era when military spending was vast and stable, and when winning a major contract could sustain a company for decades.
 
-In 1995, during a period of post-Cold War consolidation across the defence industry, Lockheed and Martin Marietta merged to form Lockheed Martin. The new entity immediately inherited an enormous backlog of programmes — some inherited, some won in open competition — and a culture deeply rooted in government relationships and engineering excellence. The merger proved durable, and Lockheed Martin became the clear leader in a field of survivors: by the early 2000s, a handful of companies (Lockheed Martin, Boeing, Raytheon, General Dynamics, and Northrop Grumman) had consolidated the entire US defence sector into an oligopoly that has only tightened since.
+In 1995, during a period of post-Cold War consolidation across the defence industry, Lockheed and Martin Marietta merged to form Lockheed Martin. The new entity immediately inherited an enormous backlog of programmes — some inherited, some won in open competition — and a culture deeply rooted in government relationships and engineering excellence. The merger proved durable, and Lockheed Martin became the clear leader in a field of survivors: by the early 2000s, a handful of companies (Lockheed Martin, [Boeing](/ba-stock/), Raytheon, [General Dynamics](/gd-stock/), and Northrop Grumman) had consolidated the entire US defence sector into an oligopoly that has only tightened since.
 
 ## What Lockheed Martin does
 
@@ -91,7 +91,7 @@ The company faces several real headwinds.
 
 ## How to research Lockheed Martin
 
-The company's annual 10-K filing (SEC CIK 0000936468) breaks down revenue by segment and by customer, and discloses the major programmes and their status. Because the largest customer is the US Department of Defense, the company's earnings are tied to the Pentagon's budget, which is set by Congress — reading the annual appropriations bills and the Pentagon's budget request is as important as reading the company's own statements.
+The company's annual 10-K filing (SEC CIK 0000936468) breaks down revenue by segment and by customer, and discloses the major programmes and their status. Because the largest customer is the US Department of Defense, the company's earnings are tied to the Pentagon's budget, which is set by Congress — reading the annual [appropriations bills](/appropriations-bill/) and the Pentagon's budget request is as important as reading the company's own statements.
 
 Key metrics include backlog (the value of orders already signed), which indicates the durability of future revenue, and the mix of revenue between development and production, which indicates whether major programmes are ramping into maturity or facing cost growth. The quarterly earnings calls, while heavily redacted for security reasons, usually touch on programme status and customer sentiment.
 

@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Stryker Corporation (NYSE: SYK) is one of the world's leading manufacturers of medical devices and equipment, operating across orthopedic implants and instruments (knee replacements, hip replacements, trauma plates), surgical and endoscopy equipment (video cameras for minimally invasive surgery), and hospital beds and related furniture systems. The company is a textbook example of consolidation and disciplined acquisitive growth in the medical-device industry: it started as a small manufacturer of orthopedic implants in Michigan in the 1940s and, over seven decades, accumulated a global portfolio through hundreds of acquisitions, each one adding capability, geography, or scale. Today Stryker is one of the "Big Three" orthopedic-implant manufacturers worldwide, alongside Zimmer Biomet and DePuy Synthes (part of Johnson & Johnson), and a meaningful player across the broader medical-device ecosystem.
+Stryker Corporation (NYSE: SYK) is one of the world's leading manufacturers of medical devices and equipment, operating across orthopedic implants and instruments (knee replacements, hip replacements, trauma plates), surgical and endoscopy equipment (video cameras for minimally invasive surgery), and hospital beds and related furniture systems. The company is a textbook example of consolidation and disciplined acquisitive growth in the medical-device industry: it started as a small manufacturer of orthopedic implants in Michigan in the 1940s and, over seven decades, accumulated a global portfolio through hundreds of [acquisitions](/acquisition/), each one adding capability, geography, or scale. Today Stryker is one of the "Big Three" orthopedic-implant manufacturers worldwide, alongside [Zimmer Biomet](/zbh-stock/) and DePuy Synthes (part of [Johnson & Johnson](/jnj-stock/)), and a meaningful player across the broader medical-device ecosystem.
 
 ## The founding and early focus on orthopedics
 
@@ -52,7 +52,7 @@ Stryker operates manufacturing facilities across the United States, Europe, and 
 
 The company invests heavily in manufacturing automation and quality systems. Medical devices face stringent regulatory oversight (FDA approval in the United States, CE marks in Europe), and manufacturing must be consistent and auditable. Stryker has built manufacturing capabilities that few competitors can match, which again creates a competitive moat.
 
-Supply-chain disruptions, however, have exposed some vulnerabilities. During the pandemic, Stryker, like other medical-device manufacturers, faced shortages of components and challenges in moving goods across borders. The company has since invested in redundancy and geographic diversification of its supply chain.
+Supply-chain disruptions, however, have exposed some vulnerabilities. During the pandemic, Stryker, like other medical-device manufacturers, faced shortages of components and challenges in moving goods across borders. The company has since invested in redundancy and geographic [diversification](/diversification/) of its supply chain.
 
 ## Growth drivers and the future
 
@@ -66,9 +66,9 @@ Despite being a mega-cap company (market value in the tens of billions), Stryker
 
 ## Capital and returns to shareholders
 
-Stryker generates strong free cash flow, which it returns to shareholders through dividends and share buybacks. The company has raised its dividend annually for decades (a dividend aristocrat) and repurchases shares opportunistically. The company also invests in acquisitions when attractive targets arise.
+Stryker generates strong [free cash flow](/free-cash-flow/), which it returns to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). The company has raised its dividend annually for decades (a dividend aristocrat) and repurchases shares opportunistically. The company also invests in acquisitions when attractive targets arise.
 
-The balance sheet is solid, with investment-grade debt ratings. This allows Stryker to finance acquisitions and returning capital simultaneously.
+The [balance sheet](/balance-sheet/) is solid, with investment-grade debt ratings. This allows Stryker to finance acquisitions and returning capital simultaneously.
 
 ## Regulatory considerations and risks
 

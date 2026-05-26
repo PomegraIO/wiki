@@ -41,7 +41,7 @@ Revenue is primarily hardware sales, though the company has explored recurring r
 
 ## Market Position and Competition
 
-Zepp operates in a crowded wearables market dominated by Apple (with the Apple Watch), Garmin, Fitbit (now owned by Google), and Samsung. In terms of global smartwatch unit shipments, Zepp ranks as a secondary player but holds meaningful share in Asia, particularly China, where brand loyalty to domestic producers and price sensitivity favor its products. The company also distributes through e-commerce channels heavily, reducing reliance on traditional retail.
+Zepp operates in a crowded wearables market dominated by [Apple](/aapl-stock/) (with the Apple Watch), Garmin, Fitbit (now owned by Google), and Samsung. In terms of global smartwatch unit shipments, Zepp ranks as a secondary player but holds meaningful share in Asia, particularly China, where brand loyalty to domestic producers and price sensitivity favor its products. The company also distributes through e-commerce channels heavily, reducing reliance on traditional retail.
 
 The Amazfit brand has built a reputation for solid hardware engineering and battery life—a technical differentiator versus some competitors. However, it lacks the ecosystem lock-in that Apple enjoys and the niche positioning (outdoor sports) that Garmin commands. Competing on price and feature-per-dollar is a sustainable but lower-margin strategy, requiring manufacturing discipline and scale.
 

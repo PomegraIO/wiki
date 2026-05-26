@@ -41,7 +41,7 @@ The company also invested heavily in owned-and-operated retail, opening concept 
 
 ## The Direct-to-Consumer Advantage
 
-A cornerstone of YETI's strategy has been the balance between direct-to-consumer (DTC) sales and wholesale distribution. The DTC channel—primarily e-commerce through yeti.com—commands higher margins and builds direct customer relationships, reducing dependence on retail partners. Wholesale through Dick's Sporting Goods, REI, Cabela's, and specialty outdoor retailers provides volume and brand visibility. This dual model has proven resilient: when one channel faced pressure, the other could compensate.
+A cornerstone of YETI's strategy has been the balance between direct-to-consumer (DTC) sales and wholesale distribution. The DTC channel—primarily e-commerce through yeti.com—commands higher margins and builds direct customer relationships, reducing dependence on retail partners. Wholesale through [Dick's Sporting Goods](/dks-stock/), REI, Cabela's, and specialty outdoor retailers provides volume and brand visibility. This dual model has proven resilient: when one channel faced pressure, the other could compensate.
 
 The COVID-19 pandemic tested and vindicated this model. During lockdowns, e-commerce surged as consumers upgraded home goods and outdoor gear for backyard entertaining and staycations. YETI's DTC channel flourished while maintaining supply-chain relationships that eventually filled wholesale shelves again. The company's supply-chain sophistication—managing roto-molding production, overseas manufacturing partnerships, and domestic distribution—gave it flexibility that many retailers lacked.
 

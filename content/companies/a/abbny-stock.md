@@ -17,7 +17,7 @@ ABB manufactures and deploys equipment and software for power transmission, dist
 
 ## Market Position
 
-The firm competes in fragmented but capital-intensive markets—power grid modernization, factory automation, and electrification. Rivals include [Siemens](/wiki/siemens-stock/), Schneider Electric, and Eaton. ABB's competitive edge rests on long-standing engineering reputation, an integrated portfolio (able to bundle complementary systems), and relationships with grid operators and industrial OEMs. It has divested lower-margin or non-core units in recent years, focusing on higher-return automation and electrification segments.
+The firm competes in fragmented but capital-intensive markets—power grid modernization, factory automation, and electrification. Rivals include Siemens, Schneider Electric, and Eaton. ABB's competitive edge rests on long-standing engineering reputation, an integrated portfolio (able to bundle complementary systems), and relationships with grid operators and industrial OEMs. It has divested lower-margin or non-core units in recent years, focusing on higher-return automation and electrification segments.
 
 ## Investment & Earnings Profile
 

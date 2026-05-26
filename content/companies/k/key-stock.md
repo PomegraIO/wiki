@@ -18,7 +18,7 @@ KeyBank traces its lineage to 1849 when the Ohio Life Insurance and Trust Compan
 
 The modern KeyCorp took shape through the series of consolidations and name changes common to regional banking over recent decades. The strategic combination created a unified brand under the "KeyBank" name, positioning the institution as a coherent retail and commercial force. The company's long operating history in industrial and agricultural regions of the Midwest embedded it in the financing patterns of those economies: factory expansion, equipment purchases, working capital for manufacturers and food processors, small-business growth tied to local conditions.
 
-Throughout the 1990s and 2000s, like many regional banks, KeyCorp expanded through acquisition and geographic reach. The bank absorbed smaller institutions and branch networks, extending presence into markets where customers and businesses were relocating or where market share could be consolidated. This period saw regional banking consolidate nationally—smaller institutions could not compete on technology cost or capital efficiency, so acquisition became the path for survival and growth. KeyCorp participated in this trend, though it retained the regional character and decision-making structures that distinguish regional from super-regional and money-center banks.
+Throughout the 1990s and 2000s, like many regional banks, KeyCorp expanded through [acquisition](/acquisition/) and geographic reach. The bank absorbed smaller institutions and branch networks, extending presence into markets where customers and businesses were relocating or where market share could be consolidated. This period saw regional banking consolidate nationally—smaller institutions could not compete on technology cost or capital efficiency, so acquisition became the path for survival and growth. KeyCorp participated in this trend, though it retained the regional character and decision-making structures that distinguish regional from super-regional and money-center banks.
 
 ## The Business Today
 
@@ -38,7 +38,7 @@ KeyCorp operates within powerful structural headwinds that affect all regional a
 
 **Deposit competition and funding costs.** Consumers and businesses increasingly move deposits to money-market funds and digital banks offering higher yields. To retain deposits, KeyBank must raise rates, but doing so compresses net interest margin. During periods of stress, deposit flight can force rapid asset sales or refinancing at unfavorable terms—the experience of regional bank failures in early 2023 illustrated this vividly.
 
-**Credit risk.** Consumer and commercial lending [default rates](/default-rate/) rise during recessions. KeyBank must maintain capital and loan-loss reserves sufficient to absorb those defaults, which reduces profits in downturns. The cyclicality of the commercial portfolio is particularly acute: a mild recession can double or triple charge-offs.
+**[Credit risk](/credit-risk/).** Consumer and commercial lending [default rates](/default-rate/) rise during [recessions](/recession/). KeyBank must maintain capital and loan-loss reserves sufficient to absorb those defaults, which reduces profits in downturns. The cyclicality of the commercial portfolio is particularly acute: a mild recession can double or triple charge-offs.
 
 **Regulatory burden.** As a systemically important financial institution, KeyCorp faces substantial capital requirements ([Basel III](/wiki/basel-iii/) and comparable rules), regular stress testing, and compliance costs. These standards exist for macroprudential safety but require substantial capital that could otherwise be returned to shareholders, damping returns.
 
@@ -50,7 +50,7 @@ KeyCorp operates within powerful structural headwinds that affect all regional a
 
 Investors researching KeyCorp begin with the company's [10-K](/wiki/10-k/) annual report, which details operating segments, loan composition, loan-loss provisions, deposit base, net interest margin, and capital ratios. The 10-K's risk factors section candidly discusses interest-rate sensitivity, deposit competition, and credit concentrations.
 
-Quarterly earnings calls and earnings releases highlight quarterly net interest margin trends, loan growth or contraction, credit quality (nonperforming loan trends), and capital returns (dividends and [share buybacks](/share-buyback/)). Watch for deterioration in credit quality—rising nonperforming loans and loan-loss provision increases often precede market downturns and are early signals of stress.
+Quarterly earnings calls and earnings releases highlight quarterly net interest margin trends, loan growth or contraction, credit quality (nonperforming loan trends), and capital returns ([dividends](/dividend/) and [share buybacks](/share-buyback/)). Watch for deterioration in credit quality—rising nonperforming loans and loan-loss provision increases often precede market downturns and are early signals of stress.
 
 Key metrics for regional bank analysis:
 

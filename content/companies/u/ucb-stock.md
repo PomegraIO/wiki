@@ -29,7 +29,7 @@ United Community Banks holds and operates a collection of community-focused bank
 
 ## The Business Model
 
-United Community Bank's operations are structured around traditional banking: accepting customer deposits, making loans, and providing fee-based services. The company generates revenue from [net interest income](/wiki/net-interest-income/) (the spread between deposit rates and loan rates) and from fees on services including wealth management, trust administration, and merchant processing. The regional network allows the company to serve both consumer and small-to-medium-sized business customers, with decision-making authority kept at the local branch level rather than centralized in a distant headquarters.
+United Community Bank's operations are structured around traditional banking: accepting customer deposits, making loans, and providing fee-based services. The company generates revenue from net interest income (the spread between deposit rates and loan rates) and from fees on services including wealth management, trust administration, and merchant processing. The regional network allows the company to serve both consumer and small-to-medium-sized business customers, with decision-making authority kept at the local branch level rather than centralized in a distant headquarters.
 
 The bank's loan portfolio emphasizes real estate lending, including both residential mortgages and commercial properties, alongside consumer and business loans. Mortgage servicing and investment advisory services add revenue streams. UCB's deposit base consists primarily of customer checking and savings accounts, with balances from individuals, families, and local businesses.
 
@@ -37,7 +37,7 @@ The bank's loan portfolio emphasizes real estate lending, including both residen
 
 The company operates through a multi-state network of branches, with concentration in Georgia where it began. The expansion into the Carolinas, Tennessee, and Florida happened through a combination of acquiring smaller regional and community banks and opening new branches. This acquisition strategy has been consistent with the broader regional banking sector, where scale matters for cost management and regulatory compliance but community connection remains a differentiator.
 
-Each acquisition added new markets and customer bases. The integration challenges typical of [bank mergers](/wiki/banking-consolidation-trends/) — harmonizing systems, retaining customers and staff, achieving cost synergies — are ongoing for a company still managing growth through combination. Competitive pressure comes from larger regional banks and national chains pursuing the same markets.
+Each acquisition added new markets and customer bases. The integration challenges typical of bank [mergers](/merger/) — harmonizing systems, retaining customers and staff, achieving cost synergies — are ongoing for a company still managing growth through combination. Competitive pressure comes from larger regional banks and national chains pursuing the same markets.
 
 ## Competitive Position and Industry Context
 

@@ -69,12 +69,12 @@ Over a full [business cycle](/business-cycle/), the company generates substantia
 Key metrics to track in [10-K](/wiki/10-k/) filings and earnings reports include:
 
 - **Net sales and organic growth:** Year-over-year volume trends and price realization. Organic growth (excluding [acquisitions](/acquisition/) or [divestitures](/divestiture/)) reflects underlying business momentum.
-- **Adjusted EBITDA and margins:** Adjusted figures strip out one-time items and offer a clearer view of operating performance. Margin trends—whether pricing or cost control is winning—matter.
+- **Adjusted [EBITDA](/ebitda/) and margins:** Adjusted figures strip out one-time items and offer a clearer view of operating performance. Margin trends—whether pricing or cost control is winning—matter.
 - **Free cash flow:** Capital intensity is high; the company reinvests heavily in furnaces and production lines. Free cash flow after capex is what funds debt service and shareholder returns.
 - **Debt levels and [leverage ratios](/leverage-ratio-forex/):** Debt-to-EBITDA is a key covenant and credit metric. Elevated leverage in downturns can constrain flexibility.
 - **Capex as a percentage of revenue:** Furnace maintenance and replacement are non-discretionary; sustained underinvestment would weaken competitive position.
 
-Comparing O-I to [Ardagh Group](/wiki/ardgh-stock/) (OI's closest large rival) or reviewing peer multiples ([enterprise value](/enterprise-value/) to EBITDA) gives context on valuation. The company trades on a blend of [dividend yield](/dividend-yield/), cash flow generation, and cyclical recovery expectations.
+Comparing O-I to Ardagh Group (OI's closest large rival) or reviewing peer multiples ([enterprise value](/enterprise-value/) to EBITDA) gives context on valuation. The company trades on a blend of [dividend yield](/dividend-yield/), cash flow generation, and cyclical recovery expectations.
 
 ## Where to Dig Deeper
 

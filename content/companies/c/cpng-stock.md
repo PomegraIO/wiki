@@ -35,7 +35,7 @@ The company has expanded into advertising, logistics services for third-party br
 
 Monitor take-rates and average order values. Take-rates depend on the category mix — groceries have different margins than apparel — and on competitive intensity. As Coupang tries to move upstream into higher-value categories, the take-rate story matters to profitability.
 
-Watch the trajectory of fulfillment costs as a percentage of revenue. Every year the company has pursued efficiency gains: better sorting, automation, routing optimization. Whether those improvements can continue to offset wage inflation and service expansions is an operational question that shows up in margins.
+Watch the trajectory of fulfillment costs as a percentage of revenue. Every year the company has pursued efficiency gains: better sorting, automation, routing optimization. Whether those improvements can continue to offset wage [inflation](/inflation/) and service expansions is an operational question that shows up in margins.
 
 Advertising growth is the bright spot. Coupang's seller base is growing (more sellers = more advertising demand), and the platform has raised advertising prices. This revenue stream is stickier and higher-margin than transaction fees; a shift toward advertising revenues would be structurally positive for the company.
 

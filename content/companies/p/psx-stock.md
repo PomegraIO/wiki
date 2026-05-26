@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Phillips 66 is a downstream energy company. It does not drill for oil; instead, it buys crude oil at the wellhead or on the open market and turns it into gasoline, diesel, jet fuel, heating oil, and petrochemicals that other manufacturers use as feedstock. It also operates a midstream business that gathers, processes, and ships natural gas liquids — the hydrocarbons extracted alongside natural gas. The company was spun out from ConocoPhillips in 2012 and has been a publicly traded company ever since, operating under the ticker PSX on the New York Stock Exchange.
+Phillips 66 is a downstream energy company. It does not drill for oil; instead, it buys [crude oil](/crude-oil/) at the wellhead or on the open market and turns it into gasoline, diesel, jet fuel, [heating oil](/heating-oil/), and petrochemicals that other manufacturers use as feedstock. It also operates a midstream business that gathers, processes, and ships [natural gas](/natural-gas/) liquids — the hydrocarbons extracted alongside natural gas. The company was spun out from [ConocoPhillips](/cop-stock/) in 2012 and has been a publicly traded company ever since, operating under the ticker PSX on the [New York Stock Exchange](/new-york-stock-exchange/).
 
 The business model is straightforward in concept: buy crude oil cheap, refine it into more-valuable products, and sell those products at a profit. The trick is that the margin between crude oil price and finished product prices fluctuates constantly based on supply and demand. When crude oil is plentiful and refined products are scarce, margins are fat. When crude is scarce or refined products glut, margins evaporate. Phillips 66's earnings swing with the refining margin cycle.
 
@@ -23,7 +23,7 @@ In the 1960s and 1970s, as oil markets became more global and more volatile, Phi
 
 In 2002, Conoco and Phillips merged, creating ConocoPhillips. The combined company was huge — a fully integrated energy company with exploration and production assets, refining operations, and midstream infrastructure. But in 2012, the company was split. ConocoPhillips remained as the upstream exploration and production business, focused on finding and producing oil and gas. Phillips 66 was spun out as the downstream and midstream business, focused on refining and moving energy products.
 
-The spinoff made sense strategically. An upstream producer wants to maximize oil and gas production and manage exploration risk. A downstream refiner wants to buy crude oil cheap, process it into finished products, and optimize margins. These are fundamentally different businesses with different economics and different management imperatives. By separating, each company could focus on what it did best.
+The [spinoff](/spinoff/) made sense strategically. An upstream producer wants to maximize oil and gas production and manage exploration risk. A downstream refiner wants to buy crude oil cheap, process it into finished products, and optimize margins. These are fundamentally different businesses with different economics and different management imperatives. By separating, each company could focus on what it did best.
 
 ## How refineries work and why margins matter
 
@@ -45,7 +45,7 @@ Refinery margins are highly cyclical. In years when crude oil is plentiful (say,
 
 The cycle also depends on global refining capacity. A new refinery opening in Asia or the Middle East can export refined products around the world, flooding certain markets and suppressing margins. Conversely, if old refineries close and are not replaced, tight refined product supply supports margins.
 
-Geopolitical shocks also matter. A Middle East conflict that disrupts crude supplies will spike crude prices and narrow refining margins. A trade war that restricts the flow of refined products across borders can also reshape margins. Hurricanes in the Gulf of Mexico have shut down refining capacity and spiked margins for competitors' surviving refineries.
+Geopolitical shocks also matter. A Middle East conflict that disrupts crude supplies will spike crude prices and narrow refining margins. A [trade war](/trade-war/) that restricts the flow of refined products across borders can also reshape margins. Hurricanes in the Gulf of Mexico have shut down refining capacity and spiked margins for competitors' surviving refineries.
 
 Phillips 66's profitability therefore depends partly on operational excellence (how efficiently it runs its refineries and midstream assets) and partly on luck (where the refining margin cycle lands during any given year). Management cannot control the cycle, but it can manage costs, invest in efficient equipment, and make smart acquisition and divestment decisions to position the company well.
 
@@ -53,11 +53,11 @@ Phillips 66's profitability therefore depends partly on operational excellence (
 
 Phillips 66 also operates a petrochemicals business that takes products from its refineries and further processes them into chemicals used in plastics, fabrics, coatings, and other industrial applications. This adds a second layer of value. Instead of just selling gasoline, the company might sell some of that gasoline's components as chemical feedstock for twice the margin.
 
-The petrochemical business is also cyclical and margin-dependent, but it adds diversification and allows the company to capture more value from its crude oil input. A pound of crude oil that becomes petrochemical feedstock might yield more profit than a pound that becomes gasoline, especially if petrochemical margins are wide.
+The petrochemical business is also cyclical and margin-dependent, but it adds [diversification](/diversification/) and allows the company to capture more value from its crude oil input. A pound of crude oil that becomes petrochemical feedstock might yield more profit than a pound that becomes gasoline, especially if petrochemical margins are wide.
 
 ## Returning cash and managing capital
 
-Phillips 66 generates significant free cash flow from its operations. When refining margins are strong, the cash flow is enormous. The company has a capital allocation strategy that prioritizes returning cash to shareholders. It pays a substantial dividend and has authorized share buyback programs. During profitable years, a large portion of cash flow goes back to shareholders.
+Phillips 66 generates significant [free cash flow](/free-cash-flow/) from its operations. When refining margins are strong, the cash flow is enormous. The company has a capital allocation strategy that prioritizes returning cash to shareholders. It pays a substantial [dividend](/dividend/) and has authorized [share buyback](/share-buyback/) programs. During profitable years, a large portion of cash flow goes back to shareholders.
 
 The company also invests in its business — building or upgrading refineries to handle new crude types, expanding pipeline capacity, and acquiring smaller midstream operators that expand its footprint. But because the refining business is not especially capital-intensive (it is not like building a new oil field from scratch), the company can return substantial cash and still reinvest in the business.
 
@@ -73,4 +73,4 @@ The company does have an advantage in that petrochemicals have longer durability
 
 ## The straightforward business
 
-Phillips 66 is not mysterious. It buys crude oil, turns it into gasoline and diesel and petrochemicals, and sells them at a profit. Its earnings depend on how wide the refining margin is, how efficiently it runs its assets, and what investments it makes in upgrades and acquisitions. The company does this well and returns cash to shareholders. The risk is that long-term oil demand is declining and will continue to decline, which will eventually reduce the earnings power of the business. Until that happens — and it may take decades — Phillips 66 will continue to capture refining margins and print cash, as it has for years.
+Phillips 66 is not mysterious. It buys crude oil, turns it into gasoline and diesel and petrochemicals, and sells them at a profit. Its earnings depend on how wide the refining margin is, how efficiently it runs its assets, and what investments it makes in upgrades and [acquisitions](/acquisition/). The company does this well and returns cash to shareholders. The risk is that long-term oil demand is declining and will continue to decline, which will eventually reduce the earnings power of the business. Until that happens — and it may take decades — Phillips 66 will continue to capture refining margins and print cash, as it has for years.

@@ -31,7 +31,7 @@ Manufacturing economics are brutal. Variable costs for materials, labor, and log
 
 GM has committed publicly to an all-electric future, pledging to end internal combustion engine vehicle production by 2035 in many markets. This is a business-model rewrite, not an incremental shift. Electric vehicles require fundamentally different engineering (no transmission, no engine blocks, battery-centric design), new supply chains for battery materials (lithium, cobalt, nickel), and retooling of assembly plants designed for traditional manufacturing. The capital requirements are enormous: billions in R&D, factory modernization, and battery cell partnerships.
 
-The company has formed joint ventures and partnerships to secure battery supply. A partnership with LG Energy Solution manufactures lithium-ion cells in North America. GM is also investing in vertical integration, building its own Ultium battery platform to reduce per-unit costs and secure supply as competition for raw materials intensifies. The company announced the Chevrolet Blazer EV and Equinox EV to compete at volume price points, plus the GMC Hummer EV and Cadillac Lyriq to attack premium segments—mirroring Tesla's vertical market coverage.
+The company has formed joint ventures and partnerships to secure battery supply. A partnership with LG Energy Solution manufactures lithium-ion cells in North America. GM is also investing in vertical integration, building its own Ultium battery platform to reduce per-unit costs and secure supply as competition for raw materials intensifies. The company announced the Chevrolet Blazer EV and Equinox EV to compete at volume price points, plus the GMC Hummer EV and Cadillac Lyriq to attack premium segments—mirroring [Tesla](/tsla-stock/)'s vertical market coverage.
 
 Yet this transition carries existential risk. EVs have lower gross margins than traditional vehicles (battery costs are the largest variable expense). Demand is geographically uneven and sensitive to incentives and gas prices. Competitors, including [Tesla](/wiki/stock/) and nascent Chinese EV makers, are proving that auto manufacturing can be restructured for EV production at lower unit costs. Legacy automakers like GM face a dual challenge: funding the EV transition while incumbent ICE assets still generate cash—a classic innovator's dilemma. Many analysts debate whether traditional OEMs can match Tesla's manufacturing discipline or be displaced by purpose-built EV competitors.
 
@@ -49,7 +49,7 @@ GM's competitive moat is fragile. It possesses strong brand equity (Chevrolet is
 
 **Labor costs:** GM's UAW agreements, while renegotiated in 2023, remain costly relative to non-union EV competitors or foreign suppliers. Wage rates, pension obligations, and work rules are substantially higher than at Tesla Fremont or Giga Berlin.
 
-Domestically, GM competes on market share with Ford, Stellantis (formerly Fiat Chrysler), Tesla, and imports. In trucks and large SUVs, GM's product lineup is competitive and profitable. In EVs and compact crossovers, the competitive landscape is more crowded.
+Domestically, GM competes on market share with Ford, [Stellantis](/stla-stock/) (formerly Fiat Chrysler), Tesla, and imports. In trucks and large SUVs, GM's product lineup is competitive and profitable. In EVs and compact crossovers, the competitive landscape is more crowded.
 
 ## Financial and Operational Metrics to Watch
 

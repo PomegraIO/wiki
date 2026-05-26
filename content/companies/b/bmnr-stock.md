@@ -32,7 +32,7 @@ Immersion cooling is not new — the concept has existed since the 1980s — but
 
 Immersion cooling offered a solution. By submerging the equipment in a dielectric fluid — a liquid that conducts heat well but does not conduct electricity, so it will not short the circuits — cooling becomes far more efficient. Heat transfers directly from the hot silicon to the liquid, rather than relying on the much slower process of convection (air carrying away heat). The liquid then circulates to a heat exchanger where it is cooled and returned. The result is dramatically lower cooling costs and the ability to run higher-performance equipment more densely.
 
-Bitmine's founders recognized this opportunity and built a company around immersion cooling systems and the specialized fluids required. Early customers were cryptocurrency miners, who operated servers at the edge of computational limits and were desperate for any efficiency gain that would reduce cooling costs and increase hash rates. Miners' economics are razor-thin — a reduction in electrical cost per computation unit translates directly to profitability — so they were willing to adopt novel cooling technologies if the math worked.
+Bitmine's founders recognized this opportunity and built a company around immersion cooling systems and the specialized fluids required. Early customers were cryptocurrency miners, who operated servers at the edge of computational limits and were desperate for any efficiency gain that would reduce cooling costs and increase [hash rates](/hash-rate/). Miners' economics are razor-thin — a reduction in electrical cost per computation unit translates directly to profitability — so they were willing to adopt novel cooling technologies if the math worked.
 
 ## The cryptocurrency mining boom and early revenue
 
@@ -42,7 +42,7 @@ The 2018 cryptocurrency crash wiped out much of that demand overnight. Mining op
 
 ## Pivot to data center infrastructure
 
-The challenge forced a strategic pivot. Bitmine recognized that while cryptocurrency mining was a perfect early customer — highly motivated by cost savings and willing to adopt novel solutions — the market was too cyclical to build a sustainable business around. The longer-term opportunity was hyperscale data centers: facilities operated by cloud providers like Amazon, Microsoft, and Google that serve millions of users and require enormous amounts of computing capacity.
+The challenge forced a strategic pivot. Bitmine recognized that while cryptocurrency mining was a perfect early customer — highly motivated by cost savings and willing to adopt novel solutions — the market was too cyclical to build a sustainable business around. The longer-term opportunity was hyperscale data centers: facilities operated by cloud providers like Amazon, [Microsoft](/msft-stock/), and Google that serve millions of users and require enormous amounts of computing capacity.
 
 Hyperscale data centers face the same cooling problem that mining facilities do: as computing density increases, air cooling becomes inefficient. But the scale is vastly larger, the capital commitments are substantial, and the decision cycles are much longer. A hyperscale operator is not going to rip out an entire cooling architecture based on a startup's promise. It will run pilots, test reliability over months or years, and only then commit to a full deployment. This is a harder sell but a far more stable business once won.
 
@@ -60,7 +60,7 @@ Bitmine's fortunes have been tied to two drivers: the cryptocurrency cycle and t
 
 The data center opportunity is genuine and durable, but it is also competitive. Established cooling providers, including major industrial companies, have entered the immersion cooling space. Liquid cooling (a close cousin using water or coolant instead of dielectric fluid) is also gaining adoption. Bitmine must prove its technology's reliability and cost-effectiveness at scale, which requires years of operational data and customer testimonials.
 
-The company's path from startup to public company has been unconventional. Bitmine went public via reverse merger with a blank-check company (a SPAC precursor), which is a faster route to public markets than a traditional IPO but also carries risks and skepticism from investors. The company has been loss-making and has required additional capital raises, which dilutes existing shareholders.
+The company's path from startup to public company has been unconventional. Bitmine went public via [reverse merger](/reverse-merger/) with a blank-check company (a SPAC precursor), which is a faster route to public markets than a traditional IPO but also carries risks and skepticism from investors. The company has been loss-making and has required additional capital raises, which dilutes existing shareholders.
 
 ## The long game: thermal management as critical infrastructure
 

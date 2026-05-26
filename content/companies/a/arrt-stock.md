@@ -18,7 +18,7 @@ The company's lineup spans household and personal care categories—cleaners, de
 
 ## Market position and competition
 
-ARRT sits in the crowded middle of [consumer staples](/wiki/consumer-staples-sector/), competing against multinational conglomerates (Procter & Gamble, Henkel, Reckitt) on one side and regional specialists on the other. Differentiation rests on manufacturing flexibility, customer service to smaller distributors, and cost-efficient production rather than brand prestige or global reach. The sector tolerates limited pricing power but rewards operational discipline.
+ARRT sits in the crowded middle of consumer staples, competing against multinational conglomerates ([Procter & Gamble](/pg-stock/), Henkel, Reckitt) on one side and regional specialists on the other. Differentiation rests on manufacturing flexibility, customer service to smaller distributors, and cost-efficient production rather than brand prestige or global reach. The sector tolerates limited pricing power but rewards operational discipline.
 
 ## Business drivers
 

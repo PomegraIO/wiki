@@ -82,4 +82,4 @@ ORIX's [10-K](/wiki/10-k/) filing with the SEC is the definitive source on busin
 
 Equity research from Japanese brokerage houses often provides sector-specific color that Western-focused analysts miss. The [Tokyo Stock Exchange](/tokyo-stock-exchange/) listing offers high liquidity and currency-hedged exposure for international investors, while the [American depositary receipt](/adr/) (IX on NYSE) provides dollar-denominated trading.
 
-ORIX's management commentary around capital allocation—[share buybacks](/share-buyback/), dividend increases, M&A—signals conviction about [intrinsic value](/intrinsic-value/) relative to market price. The company historically has been disciplined about returning excess capital, a practice worth tracking.
+ORIX's management commentary around capital allocation—[share buybacks](/share-buyback/), [dividend](/dividend/) increases, M&A—signals conviction about [intrinsic value](/intrinsic-value/) relative to market price. The company historically has been disciplined about returning excess capital, a practice worth tracking.

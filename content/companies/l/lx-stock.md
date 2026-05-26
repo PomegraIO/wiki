@@ -83,4 +83,4 @@ Finally, assess the strength of Lexin's institutional relationships. Revenue con
 ---
 
 **Related:**  
-[/wiki/public-company/](/wiki/public-company/) | [/wiki/stock-exchange/](/wiki/stock-exchange/) | [/wiki/fintech](/wiki/fintech/)
+[/wiki/public-company/](/wiki/public-company/) | [/wiki/stock-exchange/](/wiki/stock-exchange/) | /wiki/fintech

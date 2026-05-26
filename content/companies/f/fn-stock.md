@@ -15,7 +15,7 @@ handwritten: true
 ## At a glance
 
 - **Core business:** Pluggable optical transceivers, hybrid and advanced packaging, subsystem modules
-- **Customers:** Hyperscalers (Meta, Amazon, Google, Microsoft) and networking equipment makers (Cisco, Arista, Nvidia)
+- **Customers:** Hyperscalers (Meta, Amazon, Google, [Microsoft](/msft-stock/)) and networking equipment makers (Cisco, Arista, [Nvidia](/nvda-stock/))
 - **Revenue character:** Capital-intensive manufacturing; gross margins typically 12–15%; contract-heavy with long-term customer relationships
 - **Scale:** Roughly $1 billion annual revenue; manufacturer of tens of millions of modules annually
 - **Key risk:** Concentration in a handful of large customers; exposure to data center capex cycles and margin compression from competition
@@ -40,7 +40,7 @@ The manufacturing footprint is also a hedge. By spreading production across Mexi
 
 ## Margins and the commodity risk
 
-Fabrinet's gross margins have historically floated in the 12–15% range, lower than fabless semiconductor peers but higher than a pure-contract-manufacturer might achieve. The difference reflects the design content and precision engineering in modules that move data at hundreds of gigabits per second; customers will pay a premium for products that work reliably at scale. But optical transceivers are not inherently unique. Competitors exist — both vertically integrated chipmakers (Intel, Xilinx) that make some of their own modules, and other contract manufacturers (such as Jaco Electronics and various regional suppliers) that compete on cost. If customers ever choose to vertically integrate or consolidate suppliers for price reasons, margins could compress.
+Fabrinet's gross margins have historically floated in the 12–15% range, lower than fabless semiconductor peers but higher than a pure-contract-manufacturer might achieve. The difference reflects the design content and precision engineering in modules that move data at hundreds of gigabits per second; customers will pay a premium for products that work reliably at scale. But optical transceivers are not inherently unique. Competitors exist — both vertically integrated chipmakers ([Intel](/intc-stock/), Xilinx) that make some of their own modules, and other contract manufacturers (such as Jaco Electronics and various regional suppliers) that compete on cost. If customers ever choose to vertically integrate or consolidate suppliers for price reasons, margins could compress.
 
 One protective factor is speed: Fabrinet's ability to move quickly through new product designs and ramp production faster than larger, more bureaucratic competitors gives it pricing power in high-growth phases. During AI-driven surges in demand, customers often favor suppliers that can deliver volume on short notice, even at a modest premium.
 
@@ -48,7 +48,7 @@ One protective factor is speed: Fabrinet's ability to move quickly through new p
 
 Fabrinet is caught in a classic equipment-supplier cycle. When hyperscalers and network vendors are on a growth spree (as they were in 2023–2024 with the AI capex boom), Fabrinet's revenues surge and utilization climbs. When those same companies pause to digest their investments or to wait for chip supplies to stabilize, Fabrinet's order books flatten. The company's earnings can swing 30–50% year over year depending on the phase of the cycle.
 
-The current environment — heavy AI investment and continued buildout of training infrastructure — is favorable. But structural headwinds exist. Pluggable transceiver modules are becoming commoditized as volumes rise. Larger integrated companies (Broadcom, Marvell, Nvidia) are increasingly making their own optical modules rather than buying from suppliers. And the rise of chiplets and modular architecture could eventually shift more design and assembly work in-house at major OEMs. Fabrinet's long-term value rests on staying ahead of this trend by deepening technical differentiation rather than competing on cost alone.
+The current environment — heavy AI investment and continued buildout of training infrastructure — is favorable. But structural headwinds exist. Pluggable transceiver modules are becoming commoditized as volumes rise. Larger integrated companies ([Broadcom](/avgo-stock/), Marvell, Nvidia) are increasingly making their own optical modules rather than buying from suppliers. And the rise of chiplets and modular architecture could eventually shift more design and assembly work in-house at major OEMs. Fabrinet's long-term value rests on staying ahead of this trend by deepening technical differentiation rather than competing on cost alone.
 
 ## Governance and capital allocation
 

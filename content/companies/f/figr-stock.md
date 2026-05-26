@@ -49,7 +49,7 @@ Transportation is a structural cost issue. Prefabricated panels are large and re
 
 ## Competitive environment and differentiation
 
-Figure competes against other prefabrication manufacturers, custom builders who assemble components on-site, and the status quo inertia of traditional stick-frame building. The major homebuilders (Lennar, D.R. Horton, KB Home) are the largest customers, and they have leverage in negotiations. Some of these builders have also begun integrating prefabrication in-house, manufacturing panels for their own projects, which removes them as paying customers for Figure.
+Figure competes against other prefabrication manufacturers, custom builders who assemble components on-site, and the status quo inertia of traditional stick-frame building. The major homebuilders (Lennar, D.R. Horton, [KB Home](/kbh-stock/)) are the largest customers, and they have leverage in negotiations. Some of these builders have also begun integrating prefabrication in-house, manufacturing panels for their own projects, which removes them as paying customers for Figure.
 
 What sets Figure apart is its focus on making prefabrication viable for mainstream homebuilding rather than just for niche markets. The company has invested in facilities and processes to produce panels at costs and quality levels that compete with on-site framing, not just on premium projects. Adopting prefabrication industry-wide would require not just the products but also ecosystem changes—training contractors, adjusting lending standards, and changing building codes in some regions to accommodate the new approach. Figure's success depends on those changes accelerating.
 

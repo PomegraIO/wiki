@@ -28,7 +28,7 @@ Edison International is a holding company whose largest asset is Southern Califo
 
 ## The regulated utility core business
 
-Southern California Edison generates revenue by delivering electricity and natural gas to customers. The company owns power-generation assets (natural-gas plants, nuclear reactors, renewable energy) but the majority of its revenue comes from the regulated wires and pipes business — the distribution and transmission of energy to end users. Customers pay rates that are set and approved by the California Public Utilities Commission; Edison cannot simply raise prices to improve profit margins. Instead, the utility negotiates with regulators every few years on what rates are fair and necessary to sustain safe, reliable service and to earn a reasonable return on the capital the company has invested in infrastructure.
+Southern California Edison generates revenue by delivering electricity and [natural gas](/natural-gas/) to customers. The company owns power-generation assets (natural-gas plants, nuclear reactors, renewable energy) but the majority of its revenue comes from the regulated wires and pipes business — the distribution and transmission of energy to end users. Customers pay rates that are set and approved by the California Public Utilities Commission; Edison cannot simply raise prices to improve profit margins. Instead, the utility negotiates with regulators every few years on what rates are fair and necessary to sustain safe, reliable service and to earn a reasonable return on the capital the company has invested in infrastructure.
 
 This regulatory framework creates a distinctive business model. The utility invests in long-lived infrastructure (transmission lines, distribution networks, underground cables, pipeline networks). It receives permission from regulators to recover the cost of that capital and to earn a fixed or regulated return on it — typically 10 percent or slightly higher. The investor's return is therefore linked to the rate base (the amount of capital the utility is permitted to earn a return on) and the allowed return rate. Utilities grow earnings not primarily by raising prices (rates are set by regulators, not markets) but by investing more capital in infrastructure — each dollar of investment approved by regulators becomes part of the rate base and generates steady returns.
 
@@ -44,7 +44,7 @@ This process is predictable but not guaranteed: the CPUC could disallow certain 
 
 The utility business is capital-intensive: Edison must continuously reinvest in aging infrastructure, upgrade the network to handle new demand, integrate renewable energy, harden infrastructure against wildfire risk, and transition away from aging natural-gas generation toward cleaner sources. The company's annual capital expenditure (capex) is in the billions. Each dollar of capex that is approved as part of the rate base generates a steady stream of regulated returns.
 
-The growth pathway for a utility like Edison is thus: invest more capital in infrastructure that regulators approve → add that capital to the rate base → earn the allowed return on the new rate base → use the cash flow from operations to pay dividends and fund the next round of capex. Over decades, steady capex spending and regulatory approval of capital recovery creates steady dividend growth and earnings growth.
+The growth pathway for a utility like Edison is thus: invest more capital in infrastructure that regulators approve → add that capital to the rate base → earn the allowed return on the new rate base → use the cash flow from operations to pay [dividends](/dividend/) and fund the next round of capex. Over decades, steady capex spending and regulatory approval of capital recovery creates steady dividend growth and earnings growth.
 
 ## Non-utility businesses and diversification
 
@@ -64,7 +64,7 @@ Revenue is stable because customer count and consumption patterns are relatively
 
 ## Dividend and capital returns
 
-Utilities like Edison are known for paying steady, growing dividends to shareholders. The combination of stable, regulated cash flow, capital structure permitting debt financing, and a shareholder-friendly regulatory environment supports consistent dividend payments. The dividend yield is typically moderate (2–3 percent), and the growth comes from steady capex-driven rate-base growth and inflation adjustments built into regulatory frameworks.
+Utilities like Edison are known for paying steady, growing dividends to shareholders. The combination of stable, regulated cash flow, capital structure permitting [debt financing](/debt-financing/), and a shareholder-friendly regulatory environment supports consistent dividend payments. The [dividend yield](/dividend-yield/) is typically moderate (2–3 percent), and the growth comes from steady capex-driven rate-base growth and [inflation](/inflation/) adjustments built into regulatory frameworks.
 
 ## Risks and regulatory pressures
 
@@ -72,9 +72,9 @@ Utilities like Edison are known for paying steady, growing dividends to sharehol
 
 **Wildfire liability**: California utilities have faced enormous liability for damage caused by downed power lines igniting wildfires. Edison has invested heavily in undergrounding, vegetation management, and fire-prevention systems, but catastrophic wildfire risk remains.
 
-**Transition costs**: the shift to renewables and away from natural-gas generation requires substantial capex and involves stranded assets (retiring plants before full depreciation). Regulators may not fully compensate utilities for all transition costs.
+**Transition costs**: the shift to renewables and away from natural-gas generation requires substantial capex and involves stranded assets (retiring plants before full [depreciation](/depreciation/)). Regulators may not fully compensate utilities for all transition costs.
 
-**Interest rates and financing**: utilities fund capex with a mix of debt and equity. Rising interest rates increase the cost of new debt, which can pressure returns and dividend growth if regulators do not approve offsetting rate increases.
+**[Interest rates](/interest-rate/) and financing**: utilities fund capex with a mix of debt and equity. Rising interest rates increase the cost of new debt, which can pressure returns and dividend growth if regulators do not approve offsetting rate increases.
 
 **Demand trends**: electrification of transportation (electric vehicles) and heating (heat pumps) will increase electricity demand. However, efficiency improvements and rooftop solar reduce demand. The net long-term trajectory matters for rate-base growth.
 
@@ -84,6 +84,6 @@ Start with the 10-K filing (SEC CIK 0000827052), paying special attention to the
 
 Track annual capex plans and capital-expenditure trends — are capex levels increasing or flattening? Is the company investing more in renewables, grid hardening, or transmission upgrades? The composition of capex reveals the company's growth trajectory and alignment with regulatory priorities.
 
-Watch allowed return on equity (the regulators approve a specific return rate — typically 9–11%); changes to this rate are material to returns. Monitor debt levels and the company's credit rating — utilities finance capex with debt, so refinancing risk and credit conditions matter.
+Watch allowed [return on equity](/return-on-equity/) (the regulators approve a specific return rate — typically 9–11%); changes to this rate are material to returns. Monitor debt levels and the company's [credit rating](/credit-rating/) — utilities finance capex with debt, so [refinancing risk](/refinancing-risk/) and credit conditions matter.
 
 Finally, follow California energy-policy developments: climate targets, renewable-energy mandates, wildfire-prevention requirements, and other regulatory changes will shape Edison's capex requirements and revenue opportunity for years to come.

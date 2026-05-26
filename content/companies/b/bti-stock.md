@@ -15,7 +15,7 @@ British American Tobacco is one of the world's largest manufacturers of tobacco 
 
 ## Cigarettes and combustible tobacco: the core business
 
-Combustible cigarettes remain the largest part of BAT's business by revenue, though this is declining as a share of the total. The company makes global brands like Dunhill, Pall Mall, Lucky Strike, and Kent, along with numerous regional brands tailored to local markets. Cigarettes generate significant gross margins — once a pack is manufactured, the margin is often 70 percent or higher before overhead allocation — because the manufacturing process is straightforward and the products are highly differentiated by brand and marketing.
+Combustible cigarettes remain the largest part of BAT's business by revenue, though this is declining as a share of the total. The company makes global brands like Dunhill, Pall Mall, Lucky Strike, and Kent, along with numerous regional brands tailored to local markets. Cigarettes generate significant gross margins — once a pack is manufactured, the margin is often 70 percent or higher before [overhead allocation](/overhead-allocation/) — because the manufacturing process is straightforward and the products are highly differentiated by brand and marketing.
 
 BAT's cigarette brands have roughly a century of history in some cases and enjoy brand recognition and consumer loyalty in markets globally. Pall Mall and Dunhill are particularly strong in Europe; Pall Mall is also a major brand in the United States. Lucky Strike has a cult following. These brand franchises are valuable because smokers develop strong preferences and are often reluctant to switch, even when competitors offer similar products at lower prices. This brand power is the primary moat BAT relies on in combustibles.
 
@@ -52,13 +52,13 @@ Rolling tobacco (loose tobacco rolled by the user into cigarette papers) is a ni
 
 A crucial part of BAT's business is its substantial market share in emerging economies, particularly in Eastern Europe, Asia, Africa, and Latin America. These markets have higher smoking rates, less stringent regulation, and lower prices — which supports higher volume growth and sometimes higher margins than developed markets offer. BAT's brand recognition and distribution networks in these regions are strong and give it a structural advantage relative to competitors.
 
-However, emerging markets also entail currency risk. BAT generates a large portion of revenue outside the United Kingdom, and currency fluctuations — particularly sterling appreciation — can reduce reported revenue and earnings when translated back into pounds sterling. Additionally, some emerging markets have unstable political or regulatory environments that can disrupt business.
+However, emerging markets also entail [currency risk](/currency-risk/). BAT generates a large portion of revenue outside the United Kingdom, and currency fluctuations — particularly sterling appreciation — can reduce reported revenue and earnings when translated back into pounds sterling. Additionally, some emerging markets have unstable political or regulatory environments that can disrupt business.
 
 ## Capital allocation and the dividend
 
-BAT is known for paying a very high dividend yield relative to other large companies — in the range of 8 to 9 percent in recent years, among the highest in the global equity market. This reflects the fact that the company generates substantial free cash flow but has limited growth opportunities internally, so it returns capital aggressively to shareholders.
+BAT is known for paying a very high [dividend yield](/dividend-yield/) relative to other large companies — in the range of 8 to 9 percent in recent years, among the highest in the global equity market. This reflects the fact that the company generates substantial [free cash flow](/free-cash-flow/) but has limited growth opportunities internally, so it returns capital aggressively to shareholders.
 
-The high dividend is attractive to income-focused investors but also reflects the structural decline of the business. The company cannot reinvest capital profitably in cigarettes (a declining business) and has not yet proven it can build a scaled, profitable alternative-nicotine business. So rather than hold cash or invest in expensive acquisitions, management returns cash to shareholders. This is rational but also a signal that management views the future as constrained.
+The high [dividend](/dividend/) is attractive to income-focused investors but also reflects the structural decline of the business. The company cannot reinvest capital profitably in cigarettes (a declining business) and has not yet proven it can build a scaled, profitable alternative-nicotine business. So rather than hold cash or invest in expensive [acquisitions](/acquisition/), management returns cash to shareholders. This is rational but also a signal that management views the future as constrained.
 
 ## Regulatory and existential risks
 
@@ -70,6 +70,6 @@ A related risk is the failure of reduced-risk products to scale. If vaping and o
 
 ## How to research BAT as an investment
 
-BAT files annual reports and 10-K filings with the SEC (CIK 0001303523) that break revenue by segment (combustibles, reduced-risk, cigars) and by geography. Pay attention to the volume and revenue trends in each segment. The quarterly reports show market-share data and pricing trends, which indicate how well the company is maintaining margins despite volume declines.
+BAT files [annual reports](/10-k/) and 10-K filings with the SEC (CIK 0001303523) that break revenue by segment (combustibles, reduced-risk, cigars) and by geography. Pay attention to the volume and revenue trends in each segment. The quarterly reports show market-share data and pricing trends, which indicate how well the company is maintaining margins despite volume declines.
 
 Key metrics include the dividend yield (which may be unsustainable if free cash flow declines sharply), the gross-margin trend in reduced-risk products (whether the company is building a profitable alternative business), market share in key markets (particularly the United States, where Vuse is competing fiercely), and regulatory developments (plain-packaging laws, flavor bans, restrictions on nicotine-delivery products). Also track the company's cash generation and capital spending on reduced-risk products — this shows management's confidence in the transformation strategy.

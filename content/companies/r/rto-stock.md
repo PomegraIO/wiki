@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Rentokil Initial started as a pest control company and grew into a global provider of essential services to businesses: getting rid of rats and insects, keeping bathrooms clean and stocked, managing workplace health and safety. The company is headquartered in the UK and operates across Europe, North America, Asia, and Australia. Its shares (NASDAQ: RTO) trade on the American exchange, and the business model is refreshingly simple — customers sign annual contracts, pay monthly, and Rentokil shows up. No glamour, no disruption narrative. Just a reliable stream of recurring revenue from tens of thousands of customers who need these services every single month.
+Rentokil Initial started as a pest control company and grew into a global provider of essential services to businesses: getting rid of rats and insects, keeping bathrooms clean and stocked, managing workplace health and safety. The company is headquartered in the UK and operates across Europe, North America, Asia, and Australia. Its shares ([NASDAQ](/nasdaq/): RTO) trade on the American exchange, and the business model is refreshingly simple — customers sign annual contracts, pay monthly, and Rentokil shows up. No glamour, no disruption narrative. Just a reliable stream of recurring revenue from tens of thousands of customers who need these services every single month.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,11 +39,11 @@ The magic of the model is the word "recurring." Rentokil doesn't rely on custome
 
 Recurring revenue means predictability. Rentokil's management can forecast the coming quarter with reasonable confidence because a large percentage of revenue is already under contract. Customers do churn — they move away, go out of business, switch to a competitor — but in a large base of thousands of customers across multiple markets, the churn rate is stable and relatively low. That predictability is worth a lot to investors because it reduces earnings surprises and makes the business safer.
 
-Recurring revenue also allows for compound growth through a simple mechanism: acquire a customer base, keep it for years, and harvest the cash it generates. Then use that cash to buy the next customer base. This is exactly what Rentokil has done. The company has been a serial acquirer, buying pest control and hygiene businesses across different countries and then integrating them into its network. A local pest control operator in Spain might have excellent relationships and deep market knowledge but lack the scale, the systems, or the capital to expand. Rentokil buys it, keeps the best people, fixes the operational systems, introduces its other service lines (hygiene, health and safety), and immediately improves profitability.
+Recurring revenue also allows for compound growth through a simple mechanism: acquire a customer base, keep it for years, and harvest the cash it generates. Then use that cash to buy the next customer base. This is exactly what Rentokil has done. The company has been a serial acquirer, buying pest control and hygiene businesses across different countries and then integrating them into its network. A local pest control operator in Spain might have excellent relationships and [deep market](/deep-market/) knowledge but lack the scale, the systems, or the capital to expand. Rentokil buys it, keeps the best people, fixes the operational systems, introduces its other service lines (hygiene, health and safety), and immediately improves profitability.
 
 ## Growth through acquisition
 
-Rentokil's history is a long march of bolt-on acquisitions, particularly in North America and Northern Europe. The company merged with Initial Services in 1996, combining the UK's two leading pest control names. From there, it expanded methodically into new geographies and complementary services. In recent years, the company made a big strategic bet on the Americas, buying several regional pest control operators and investing in building out its hygiene and health and safety presence in the US and Canada.
+Rentokil's history is a long march of bolt-on [acquisitions](/acquisition/), particularly in North America and Northern Europe. The company merged with Initial Services in 1996, combining the UK's two leading pest control names. From there, it expanded methodically into new geographies and complementary services. In recent years, the company made a big strategic bet on the Americas, buying several regional pest control operators and investing in building out its hygiene and health and safety presence in the US and Canada.
 
 These acquisitions are not exotic. They are small to mid-sized regional players with good reputations and recurring customer bases. Rentokil's acquisition strategy is straightforward: identify a market where pest control and hygiene services are fragmented (many local providers, no real consolidator), buy the best operator in that market, integrate it into the Rentokil system, and use the combined platform to offer all three service lines (pest, hygiene, H&S) where previously there was only pest control. The new customer base gets access to hygiene and H&S services, which they might not have thought to buy separately.
 
@@ -56,7 +56,7 @@ The company benefits from genuine scale advantages. A large Rentokil operation c
 - Cross-sell new services to existing customers at low cost.
 - Weather bad quarters in one geography by relying on strength elsewhere.
 
-These are not flashy advantages, but they are real and they compound over time. A small regional pest control business might have 10% operating margins. Once absorbed into Rentokil and optimized, it might reach 20–25%. That gap is where value is created.
+These are not flashy advantages, but they are real and they compound over time. A small regional pest control business might have 10% [operating margins](/operating-margin/). Once absorbed into Rentokil and optimized, it might reach 20–25%. That gap is where value is created.
 
 ## Geographic exposure and currency
 
@@ -74,14 +74,14 @@ The business is not vulnerable to disruption in the way a software company or a 
 
 Gross margins in pest control and hygiene are reasonably stable because pricing is sticky (customers are locked into annual contracts) and input costs (chemicals, vehicles, labor) are well understood. Operating margins depend on how efficiently the company manages its labor force and overhead. Rentokil has consistently improved margins as it integrates acquired businesses, but the company's margin expansion has natural limits; there is only so much efficiency to extract.
 
-Because the business is capital-light (technicians, vans, chemicals — not factories), Rentokil converts operating profit into free cash flow quite effectively. That cash funds the acquisition strategy and increasingly, dividend payments to shareholders. The company has returned to paying a dividend in recent years after suspending it during the pandemic.
+Because the business is capital-light (technicians, vans, chemicals — not factories), Rentokil converts operating profit into [free cash flow](/free-cash-flow/) quite effectively. That cash funds the acquisition strategy and increasingly, dividend payments to shareholders. The company has returned to paying a dividend in recent years after suspending it during the pandemic.
 
 ## Risks and what to watch
 
 The main risks are:
 - **Labor availability.** The company relies on hiring and retaining skilled technicians. Wage pressures and labor shortages in tight markets can erode margins.
 - **Acquisition integration.** If the company makes a large acquisition and botches the integration, it could destroy value. So far, Rentokil's track record is solid, but every acquirer eventually makes a mistake.
-- **Economic sensitivity.** Pest control and hygiene are defensive services (customers cut them in downturns more rarely than other services), but they are not recession-proof. A severe economic contraction that hits commercial real estate or restaurants would pressure Rentokil's revenues.
+- **Economic sensitivity.** Pest control and hygiene are defensive services (customers cut them in downturns more rarely than other services), but they are not recession-proof. A severe economic contraction that hits [commercial real estate](/commercial-real-estate/) or restaurants would pressure Rentokil's revenues.
 - **Regulatory changes.** New rules around chemical use or workplace health and safety could increase costs.
 
-To research Rentokil, start with the annual report and the SEC filings (CIK 0000930157). Watch the organic growth rate (growth from existing business, excluding acquisitions) and compare it to the total growth to gauge the acquisition cadence. Pay attention to margins and margins expansion, which signal how well the company is integrating new acquisitions. Follow the commentary on pricing — whether customers are accepting price increases, which implies pricing power. And track the company's capital deployment: how much cash is going to acquisitions, how much to dividends, and how much to debt reduction. These choices reveal management's confidence in the business and how it sees future opportunities.
+To research Rentokil, start with the [annual report](/10-k/) and the SEC filings (CIK 0000930157). Watch the organic growth rate (growth from existing business, excluding acquisitions) and compare it to the total growth to gauge the acquisition cadence. Pay attention to margins and margins expansion, which signal how well the company is integrating new acquisitions. Follow the commentary on pricing — whether customers are accepting price increases, which implies pricing power. And track the company's capital deployment: how much cash is going to acquisitions, how much to [dividends](/dividend/), and how much to debt reduction. These choices reveal management's confidence in the business and how it sees future opportunities.

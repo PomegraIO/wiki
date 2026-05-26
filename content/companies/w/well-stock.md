@@ -13,7 +13,7 @@ handwritten: true
 
 > Welltower is betting that as millions of baby boomers age, the healthcare and housing infrastructure to serve them will be owned and operated by large, professional landlords rather than by scattered family-owned businesses.
 
-Welltower was founded in 1979 as Nationwide Health Properties, a company that bought medical office buildings and leased them to doctors and surgical practices. It has transformed itself twice since then. In the 2000s, it shifted focus toward senior-living properties — independent living communities, assisted-living facilities, and skilled nursing homes. Today it owns some of the nation's largest and most-profitable senior-living operators as tenants, receiving rents from their operations. It is structured as a real-estate investment trust (REIT), which means it must distribute most of its taxable income to shareholders in the form of dividends. That structure has made Welltower a preferred vehicle for income-oriented investors.
+Welltower was founded in 1979 as Nationwide Health Properties, a company that bought medical office buildings and leased them to doctors and surgical practices. It has transformed itself twice since then. In the 2000s, it shifted focus toward senior-living properties — independent living communities, assisted-living facilities, and skilled nursing homes. Today it owns some of the nation's largest and most-profitable senior-living operators as tenants, receiving rents from their operations. It is structured as a real-estate investment trust (REIT), which means it must distribute most of its taxable income to shareholders in the form of [dividends](/dividend/). That structure has made Welltower a preferred vehicle for income-oriented investors.
 
 ## What Welltower owns
 
@@ -27,7 +27,7 @@ A smaller slice of the portfolio consists of long-term care facilities — skill
 
 The core thesis behind Welltower's business is demographic: as baby boomers age, millions of them will eventually move into senior-living facilities or require healthcare services in medical-office settings. Capital will be required to build and modernize this infrastructure, and Welltower believes it is better positioned than fragmented, family-owned operators to own and finance that capital. If Welltower can acquire properties at attractive yields, operate them profitably (or rent them to competent operators), and finance them with reasonable debt, the company can deliver stable returns to shareholders while taking a percentage of the value created by growth in the senior population.
 
-This thesis rests on several assumptions. The first is that the senior-living and medical-office markets will remain attractive from a real-estate investment perspective — that is, that capitalization rates (the ratio of net operating income to property value) will remain high enough to deliver acceptable returns on deployed capital. The second is that the operators that manage these properties will remain profitable, which depends on occupancy rates, pricing power, and staffing costs. The third is that Welltower can continue to acquire properties at reasonable multiples of earnings. All three have been true over much of the past two decades, though conditions have tightened.
+This thesis rests on several assumptions. The first is that the senior-living and medical-office markets will remain attractive from a real-estate investment perspective — that is, that capitalization rates (the ratio of [net operating income](/net-operating-income/) to property value) will remain high enough to deliver acceptable returns on deployed capital. The second is that the operators that manage these properties will remain profitable, which depends on occupancy rates, pricing power, and staffing costs. The third is that Welltower can continue to acquire properties at reasonable multiples of earnings. All three have been true over much of the past two decades, though conditions have tightened.
 
 ## Why this is risky
 
@@ -35,7 +35,7 @@ Senior-living is operationally complex. A skilled nursing home or assisted-livin
 
 Medical-office buildings are considered more stable but face their own risks. The telehealth revolution has reduced the demand for physical clinical space for some services. Health systems increasingly own their own outpatient clinics rather than leasing independent buildings. Consolidation among healthcare providers means fewer, larger operators who have more negotiating power and can demand lower rents or favorable lease terms.
 
-The company also faces interest-rate risk as a heavy borrower. Welltower finances much of its property acquisitions with debt, and when interest rates rise, both the cost of that debt and the capitalization rates that investors demand for real-estate investments tend to rise. That can compress valuations. During periods of rising rates or economic slowdown, real-estate investment trusts often underperform.
+The company also faces [interest-rate risk](/interest-rate-risk/) as a heavy borrower. Welltower finances much of its property [acquisitions](/acquisition/) with debt, and when [interest rates](/interest-rate/) rise, both the cost of that debt and the capitalization rates that investors demand for real-estate investments tend to rise. That can compress valuations. During periods of rising rates or economic slowdown, real-estate investment trusts often underperform.
 
 ## How Welltower actually makes money
 
@@ -51,7 +51,7 @@ The company has also faced scrutiny over the quality and safety of some faciliti
 
 ## Capital structure and dividend considerations
 
-Welltower finances itself with a combination of equity and debt. The debt supports acquisitions and provides leverage, which amplifies returns in favorable environments. But leverage also magnifies losses during downturns, and high debt levels limit flexibility. The company maintains investment-grade credit ratings and has access to capital markets, which is important for a REIT that must regularly raise capital.
+Welltower finances itself with a combination of equity and debt. The debt supports acquisitions and provides leverage, which amplifies returns in favorable environments. But leverage also magnifies losses during downturns, and high debt levels limit flexibility. The company maintains investment-grade [credit ratings](/credit-rating/) and has access to capital markets, which is important for a REIT that must regularly raise capital.
 
 The dividend is a key part of the investment proposition. Welltower pays a substantial dividend, supported by cash flow from property operations and rents. For income-focused investors, particularly retirees seeking cash yield, Welltower has been an attractive holding. However, the dividend is also subject to the health of the underlying operators and the real-estate values of the portfolio. In poor operating environments, the dividend can be threatened.
 

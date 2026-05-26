@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Karman Holdings manufactures specialty glass and advanced material products for automotive, aerospace, and industrial applications. Not ordinary glass — engineered, high-performance substrates designed to solve specific technical problems. Windshields that bend around curves without cracking. Transparent armor for military vehicles. Insulating materials for spacecraft. Protective layers in medical devices. The company (NASDAQ: KRMN) is a supplier to engineers and designers who need materials that glass commodity producers do not make or will not sell in the volumes or specifications these customers require.
+Karman Holdings manufactures specialty glass and advanced material products for automotive, aerospace, and industrial applications. Not ordinary glass — engineered, high-performance substrates designed to solve specific technical problems. Windshields that bend around curves without cracking. Transparent armor for military vehicles. Insulating materials for spacecraft. Protective layers in medical devices. The company ([NASDAQ](/nasdaq/): KRMN) is a supplier to engineers and designers who need materials that glass commodity producers do not make or will not sell in the volumes or specifications these customers require.
 
 The business is characterized by close customer partnerships, custom development, long qualification cycles, and relatively high margins once a product is qualified and in production. Karman does not compete on price alone — it competes on the ability to engineer a material solution to a customer's problem, prove it works, navigate the lengthy approval process automotive and aerospace demand, and then manufacture it consistently. Few companies can do this at scale, which is the foundation of Karman's competitive position.
 
@@ -46,7 +46,7 @@ Barriers to entry are moderately high. Manufacturing specialty glass requires si
 
 Karman's revenues are exposed to the auto and aerospace cycles. When automakers are selling well and planning new model launches, they invest in new glazing materials and qualifying new suppliers. When the market contracts, capital spending on new model development slows and Karman's revenue can decline. Similarly, aerospace is lumpy and project-driven: a major aircraft program launch or upgrade can drive years of demand, but gaps between programs can create revenue troughs.
 
-The medical devices and industrial segments provide some diversification, but they are smaller parts of Karman's business. A downturn in automotive or aerospace therefore affects the company materially.
+The medical devices and industrial segments provide some [diversification](/diversification/), but they are smaller parts of Karman's business. A downturn in automotive or aerospace therefore affects the company materially.
 
 ## Current pressures and future considerations
 

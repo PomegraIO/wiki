@@ -28,7 +28,7 @@ The company must maintain occupancy rates that justify its cost of capital; capi
 
 ## Competition and Market Position
 
-Macerich competes with other mall REITs—notably Simon Property Group (the largest and most dominant in the sector) and Unibail-Rodamco-Westfield—as well as with private mall operators and non-mall retail formats (outdoor centers, power centers, e-commerce platforms). The shift to online shopping has permanently reduced demand for retail square footage; the winners have been properties in strong demographic markets with defensible anchors and location advantages that e-commerce cannot replicate.
+Macerich competes with other mall REITs—notably [Simon Property](/spg-stock/) Group (the largest and most dominant in the sector) and Unibail-Rodamco-Westfield—as well as with private mall operators and non-mall retail formats (outdoor centers, power centers, e-commerce platforms). The shift to online shopping has permanently reduced demand for retail square footage; the winners have been properties in strong demographic markets with defensible anchors and location advantages that e-commerce cannot replicate.
 
 Macerich's edge, if one exists, is twofold: its geographic concentration in coastal and growth markets where land is scarce and new construction is difficult, and its operational focus on tenant experience and property quality. Properties in Orange County, Las Vegas, Phoenix, and South Florida benefit from population growth, tourism, and affluent customer bases. These characteristics do not make the REIT immune to [recession](/recession/) or structural retail decline, but they do provide some resilience compared to malls in [secondary markets](/secondary-market/) or regions with weaker demographics.
 

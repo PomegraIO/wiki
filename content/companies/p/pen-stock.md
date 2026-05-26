@@ -55,7 +55,7 @@ The company is relatively young and still growing the installed base of hospital
 
 ## Competitive pressures and risks
 
-Penumbra operates in a competitive market. Larger medical-device companies — Johnson & Johnson, Stryker, Boston Scientific, Medtronic — all have stroke and vascular intervention divisions and compete aggressively on product performance, pricing, relationships with hospitals, and breadth of portfolio.
+Penumbra operates in a competitive market. Larger medical-device companies — [Johnson & Johnson](/jnj-stock/), Stryker, [Boston Scientific](/bsx-stock/), Medtronic — all have stroke and vascular intervention divisions and compete aggressively on product performance, pricing, relationships with hospitals, and breadth of portfolio.
 
 Regulatory risk is real. Penumbra's devices must meet FDA standards and, in other countries, meet European and regional approval pathways. Clinical trials demonstrating safety and efficacy are essential to winning approval and hospital adoption. Any significant safety issue could damage the company's reputation and slow adoption.
 
@@ -75,4 +75,4 @@ Monitor clinical outcomes data and competitive clinical trials. When a major stu
 
 Watch reimbursement changes — both Medicare fee adjustments and broader policy shifts affecting stroke intervention or vascular procedures.
 
-Finally, track the company's pipeline: announced new products, clinical trials in progress, geographic expansion plans, and any acquisitions that might broaden the product portfolio or market reach. Penumbra's future depends on its ability to maintain clinical leadership and expand its installed base of users and hospitals.
+Finally, track the company's pipeline: announced new products, clinical trials in progress, geographic expansion plans, and any [acquisitions](/acquisition/) that might broaden the product portfolio or market reach. Penumbra's future depends on its ability to maintain clinical leadership and expand its installed base of users and hospitals.

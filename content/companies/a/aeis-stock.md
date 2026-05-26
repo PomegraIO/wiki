@@ -23,7 +23,7 @@ The company became known for power supplies and control systems integrated into 
 
 ## Semiconductor equipment emergence
 
-AEIS expanded its product portfolio to include RF (radio frequency) generators, plasma power supplies, and precision control systems used in semiconductor fabrication equipment. These components are essential for deposition, etch, and ion implantation processes used in advanced chip manufacturing. Semiconductor equipment suppliers like ASML, Tokyo Electron, and others integrate AEIS subsystems into their own equipment sold to wafer fabs. This B2B-to-B2B model ties AEIS revenue closely to semiconductor industry capital spending cycles—volatile but lucrative when fabs are expanding capacity for new process nodes.
+AEIS expanded its product portfolio to include RF (radio frequency) generators, plasma power supplies, and precision control systems used in semiconductor fabrication equipment. These components are essential for deposition, etch, and ion implantation processes used in advanced chip manufacturing. Semiconductor equipment suppliers like [ASML](/asml-stock/), Tokyo Electron, and others integrate AEIS subsystems into their own equipment sold to wafer fabs. This B2B-to-B2B model ties AEIS revenue closely to semiconductor industry capital spending cycles—volatile but lucrative when fabs are expanding capacity for new process nodes.
 
 ## Present state and capital intensity
 

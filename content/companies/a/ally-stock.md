@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Ally Financial is the successor to GMAC, the [captive finance company](/captive-finance-company/) General Motors created in 1919 to finance car purchases when no traditional bank would.** Today it operates as a digital financial-services platform spanning automotive lending, online deposit banking, insurance, and middle-market commercial finance—but automotive lending and deposits remain its core.
+**Ally Financial is the successor to GMAC, the [captive finance company](/captive-finance-company/) [General Motors](/gm-stock/) created in 1919 to finance car purchases when no traditional bank would.** Today it operates as a digital financial-services platform spanning automotive lending, online deposit banking, insurance, and middle-market commercial finance—but automotive lending and deposits remain its core.
 
 ## Automotive Financing Engine
 

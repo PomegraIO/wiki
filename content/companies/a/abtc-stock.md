@@ -12,7 +12,7 @@ handwritten: true
 
 American Bitcoin Corp. (ABTC, SEC CIK 1755953) is a Delaware-incorporated blank-check company—a publicly traded shell entity with no current operations. The company was formed to serve as an [acquisition](/acquisition/) or merger vehicle, with investors and management authorized to identify and combine with an operating business, particularly one in the cryptocurrency, [bitcoin](/wiki/bitcoin/), or blockchain sectors.
 
-Blank-check companies operate on a straightforward model. The entity raises capital through a public offering, then has a defined period to identify and execute a transaction with a target business. Until that merger or acquisition closes, the blank-check company is just a capital pool: no products, no revenue, no day-to-day operations. Shareholders hold stock in the acquisition opportunity itself, not in an established enterprise.
+Blank-check companies operate on a straightforward model. The entity raises capital through a public offering, then has a defined period to identify and execute a transaction with a [target](/tgt-stock/) business. Until that merger or acquisition closes, the blank-check company is just a capital pool: no products, no revenue, no day-to-day operations. Shareholders hold stock in the acquisition opportunity itself, not in an established enterprise.
 
 The ticker ABTC reflects the company's original strategic focus—digital assets and cryptocurrency. That focus shapes which targets management pursues, though the eventual business depends entirely on the deal that closes. If no qualifying transaction occurs within the charter window, the company must either liquidate or attempt to extend its deadline.
 

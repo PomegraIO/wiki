@@ -59,7 +59,7 @@ Display-material demand moves with consumer electronics cycles. When smartphone 
 
 Lytus competes against larger companies like Japan's Nitto Denko, South Korea's Samsung Display Materials (part of the Samsung conglomerate), and China-based producers that have been investing in display-materials capacity. The competitive set is global and consists of companies with deeper pockets and larger scale. Lytus's advantage is technical expertise in certain material categories, relationships with major customers, and agility in customizing products for specific applications. But those advantages are hard to defend against sustained investment by larger players.
 
-Customer concentration is also a structural risk. The display-materials industry serves a relatively small set of large OEMs and module makers. If a single major customer loses share, moves to a competing supplier, or exits a market entirely, the impact on Lytus's revenue can be material. Diversification across geographies and end-market segments helps mitigate this, but the risk is real.
+Customer concentration is also a structural risk. The display-materials industry serves a relatively small set of large OEMs and module makers. If a single major customer loses share, moves to a competing supplier, or exits a market entirely, the impact on Lytus's revenue can be material. [Diversification](/diversification/) across geographies and end-market segments helps mitigate this, but the risk is real.
 
 ## Investing in Lytus
 

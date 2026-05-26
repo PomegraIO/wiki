@@ -46,7 +46,7 @@ The genius of Roper's strategy is that it does not rely on any single product li
 
 ## The acquisition machine
 
-Roper's real product is, at its core, capital allocation. The company buys niche leaders—often privately held or mid-market companies—for prices that reflect their current earnings, then applies operational improvements and organic growth. Some acquisitions are massive ($3 billion or more); others are smaller bolt-ons that add a product line or customer base to an existing portfolio company. Over the company's history, it has executed hundreds of these deals, and the discipline of acquisition discipline—knowing which niches to enter, which management teams to retain, when to say no—is what separates Roper from failed conglomerates.
+Roper's real product is, at its core, capital allocation. The company buys niche leaders—often privately held or mid-market companies—for prices that reflect their current earnings, then applies operational improvements and organic growth. Some [acquisitions](/acquisition/) are massive ($3 billion or more); others are smaller bolt-ons that add a product line or customer base to an existing portfolio company. Over the company's history, it has executed hundreds of these deals, and the discipline of acquisition discipline—knowing which niches to enter, which management teams to retain, when to say no—is what separates Roper from failed conglomerates.
 
 The disciplined approach shows in the numbers: Roper has historically achieved returns on invested capital well above the cost of capital, meaning acquisitions create value rather than destroy it. That is rare among conglomerates, many of which overpay and see returns erode.
 
@@ -62,6 +62,6 @@ The disciplined approach shows in the numbers: Roper has historically achieved r
 
 ## How to research Roper
 
-Start with the annual 10-K filing (SEC CIK 0000882835), which breaks revenue and operating margin by the four segments. The segment data is the key to understanding which parts of the portfolio are growing, which are cash cows, and which are under pressure. Quarterly earnings calls are where management discusses recent acquisitions and operational improvements—listen for commentary on organic growth, pricing, and acquisition activity.
+Start with the annual 10-K filing (SEC CIK 0000882835), which breaks revenue and [operating margin](/operating-margin/) by the four segments. The segment data is the key to understanding which parts of the portfolio are growing, which are cash cows, and which are under pressure. Quarterly earnings calls are where management discusses recent acquisitions and operational improvements—listen for commentary on organic growth, pricing, and acquisition activity.
 
-Key metrics to track: organic growth (revenue growth excluding acquisitions), operating margin by segment, free cash flow (which funds acquisitions), and the return on invested capital from recent M&A. Roper's valuation typically reflects the quality of its acquisitions and the durability of its cash flows relative to other industrial conglomerates.
+Key metrics to track: organic growth (revenue growth excluding acquisitions), operating margin by segment, [free cash flow](/free-cash-flow/) (which funds acquisitions), and the [return on invested capital](/return-on-invested-capital/) from recent M&A. Roper's valuation typically reflects the quality of its acquisitions and the durability of its cash flows relative to other industrial conglomerates.

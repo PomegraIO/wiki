@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CSL Limited is a Melbourne-based biopharmaceutical company that manufactures medicines extracted from human blood plasma. It operates across more than 60 countries and supplies blood plasma derivatives to hospitals, clinics, and patients worldwide. The company is regularly among the top-valued pharmaceutical firms by market capitalization, a position earned through decades of focus on a single critical niche: taking donated plasma and turning it into therapies that save lives for patients with no alternatives.
+CSL Limited is a Melbourne-based biopharmaceutical company that manufactures medicines extracted from human blood plasma. It operates across more than 60 countries and supplies blood plasma derivatives to hospitals, clinics, and patients worldwide. The company is regularly among the top-valued pharmaceutical firms by [market capitalization](/market-capitalization/), a position earned through decades of focus on a single critical niche: taking donated plasma and turning it into therapies that save lives for patients with no alternatives.
 
 <aside class="wiki-infobox">
 <table>
@@ -59,7 +59,7 @@ The company has also faced patent expirations and generic or biosimilar competit
 
 ## Innovation and life-cycle management
 
-CSL invests heavily in research and development to extend its position. The company works on next-generation therapies derived from plasma, particularly for rare immune conditions, and on improving manufacturing yields and shelf-life. It also pursues acquisitions of smaller biotech firms with novel plasma-derived or immunology-focused assets, a pattern evident in purchases of companies like Wieslab and Plasmion.
+CSL invests heavily in research and development to extend its position. The company works on next-generation therapies derived from plasma, particularly for rare immune conditions, and on improving manufacturing yields and shelf-life. It also pursues [acquisitions](/acquisition/) of smaller biotech firms with novel plasma-derived or immunology-focused assets, a pattern evident in purchases of companies like Wieslab and Plasmion.
 
 However, CSL's growth is ultimately constrained by its business model. It cannot invent new sources of plasma, only harvest existing supply more efficiently. Its upside depends on driving adoption among patients who have few alternatives, expanding into new geographies, and capturing value from emerging therapies in rare disease and primary immunodeficiency. The company is also investing in recombinant and synthetic alternatives to plasma-derived therapies — not to cannibalise its own business, but to participate in the market if plasma-derived products become obsolete.
 

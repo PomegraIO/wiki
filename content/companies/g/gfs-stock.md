@@ -29,7 +29,7 @@ GlobalFoundries manufactures computer chips for other companies — it does not 
 
 ## A newer player in an ancient industry
 
-GlobalFoundries was created in 2009 when Advanced Micro Devices (AMD) spun off its manufacturing operations into a separate company — a move that let AMD focus on chip design while exiting the capital-intensive, low-margin manufacturing business. The new company was given a portfolio of several older fabrication plants and contracted to manufacture AMD's chips.
+GlobalFoundries was created in 2009 when [Advanced Micro Devices](/amd-stock/) (AMD) spun off its manufacturing operations into a separate company — a move that let AMD focus on chip design while exiting the capital-intensive, low-margin manufacturing business. The new company was given a portfolio of several older fabrication plants and contracted to manufacture AMD's chips.
 
 For the first decade, GlobalFoundries was a smaller player in a market dominated by Taiwan Semiconductor Manufacturing Company (TSMC) and South Korea's Samsung. It focused on less advanced nodes — the 28-nanometer and 14-nanometer technologies that require billions in capex but not the hundreds of billions that leading-edge 3-nanometer manufacturing demands. It also remained heavily dependent on AMD as a customer, a relationship that created both revenue stability and strategic risk.
 
@@ -47,7 +47,7 @@ Demand is volatile. A fabless chip designer might place an order for fifty thous
 
 GlobalFoundries' customer base is dominated by a small number of large fabless designers. Advanced Micro Devices remains a significant customer, as does Qualcomm. Several large customers design chips for automotive, industrial, and telecommunications applications — less cyclical than smartphones but lower volume. The company also manufactures for some Chinese-owned chip designers. No single customer typically accounts for more than around 25 percent of revenue, but the concentration is real.
 
-This creates a perpetual strategic tension. GlobalFoundries needs to diversify away from any single customer to reduce risk. But most of the highest-volume, most profitable chips are designed by the biggest fabless companies — AMD, Qualcomm, Broadcom — and winning share from them means competing on price, which compresses margins. The foundry market is also increasingly dominated by TSMC, which has enormous scale advantages, superior technology, and long-standing relationships with the biggest customers. GlobalFoundries is the third-largest foundry globally by capacity, but TSMC's lead is vast.
+This creates a perpetual strategic tension. GlobalFoundries needs to diversify away from any single customer to reduce risk. But most of the highest-volume, most profitable chips are designed by the biggest fabless companies — AMD, Qualcomm, [Broadcom](/avgo-stock/) — and winning share from them means competing on price, which compresses margins. The foundry market is also increasingly dominated by TSMC, which has enormous scale advantages, superior technology, and long-standing relationships with the biggest customers. GlobalFoundries is the third-largest foundry globally by capacity, but TSMC's lead is vast.
 
 ## The United States capacity play and government backing
 

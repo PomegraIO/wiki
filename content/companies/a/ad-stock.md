@@ -23,7 +23,7 @@ The interconnection business is particularly valuable in ARRAY DIGITAL's portfol
 
 Revenue flows from three main channels. Colocation fees are recurring, charged per rack, cabinet, or power unit, and scale with customer growth in processing and storage demand. Managed services contracts generate higher margins by bundling labor and expertise with physical infrastructure. Interconnection and cross-connect services—the ports and cables linking one customer's equipment to another's or to cloud providers—represent a growing revenue segment that is both sticky and difficult to replicate at scale.
 
-Unlike hyperscaler data centers built and operated in-house by Amazon, Microsoft, and Google, ARRAY DIGITAL operates on a neutral-host, multi-tenant model. This independence is a core selling point: customers concerned about vendor lock-in or needing flexibility across multiple cloud platforms can place workloads with a carrier-neutral provider. The company also serves smaller and mid-market firms that cannot justify building private data centers and need operational expertise beyond their internal capabilities.
+Unlike hyperscaler data centers built and operated in-house by Amazon, [Microsoft](/msft-stock/), and Google, ARRAY DIGITAL operates on a neutral-host, multi-tenant model. This independence is a core selling point: customers concerned about vendor lock-in or needing flexibility across multiple cloud platforms can place workloads with a carrier-neutral provider. The company also serves smaller and mid-market firms that cannot justify building private data centers and need operational expertise beyond their internal capabilities.
 
 ## Market Positioning
 
@@ -45,7 +45,7 @@ Customer concentration and churn pose ongoing risks. Large customers—hyperscal
 
 Structural drivers for data center growth remain intact: cloud adoption, video streaming, IoT proliferation, and business data intensity have sustained growth in computing infrastructure demand over two decades. Growth rates vary significantly by region and segment: mature markets (major U.S. metros) see slower expansion; emerging markets and international regions offer higher growth with different regulatory and competitive profiles.
 
-ARRAY DIGITAL's strategy typically focuses on balanced scale and specialization. Some operators have become hyperscaler-focused landlords; others specialize in edge computing (small, distributed facilities near end users); still others target specific industries. ARRAY DIGITAL positions itself as a carrier-neutral, multi-tenant provider with geographic reach and operational depth.
+ARRAY DIGITAL's strategy typically focuses on balanced scale and specialization. Some operators have become hyperscaler-focused landlords; others specialize in edge computing (small, distributed facilities near end users); still others [target](/tgt-stock/) specific industries. ARRAY DIGITAL positions itself as a carrier-neutral, multi-tenant provider with geographic reach and operational depth.
 
 Profitability depends on managing capital intensity through disciplined expansion, maintaining high utilization rates, and leveraging operational expertise to reduce costs per megawatt and per cabinet. Operators that invest in automation, predictive maintenance, and energy efficiency create durable competitive advantages.
 

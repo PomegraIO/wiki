@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Globus Medical designs and manufactures medical devices for spine surgery — the implants, instruments, and biologics that orthopedic surgeons use when repairing or fusing vertebrae to relieve pain, correct deformity, or stabilize the spine after injury. The company was founded in 2003 and has grown through organic product development and selective acquisitions into a diversified device company with a portfolio spanning spinal fusion implants, motion-preservation devices, navigation systems, robotics-assisted surgery platforms, and biologic products derived from bone and tissue. Globus competes in an industry where hospitals and surgeons are conservative about switching vendors, where regulatory approval is slow and expensive, and where the demand is driven by an aging population seeking spine surgery to maintain quality of life.
+Globus Medical designs and manufactures medical devices for spine surgery — the implants, instruments, and biologics that orthopedic surgeons use when repairing or fusing vertebrae to relieve pain, correct deformity, or stabilize the spine after injury. The company was founded in 2003 and has grown through organic product development and selective [acquisitions](/acquisition/) into a diversified device company with a portfolio spanning spinal fusion implants, motion-preservation devices, navigation systems, robotics-assisted surgery platforms, and biologic products derived from bone and tissue. Globus competes in an industry where hospitals and surgeons are conservative about switching vendors, where regulatory approval is slow and expensive, and where the demand is driven by an aging population seeking spine surgery to maintain quality of life.
 
 ## The spine-surgery market and why it matters
 
@@ -41,7 +41,7 @@ Medical-device manufacturing is tightly regulated. The U.S. FDA requires clinica
 
 This regulatory moat creates durable advantages for established vendors: once a surgeon has spent years using Globus implants and instruments, switching to a competitor involves relearning a new system, possibly retraining staff, and the risk of unfamiliar outcomes. Hospitals also value continuity of supply and support, which favors larger, established vendors over new entrants.
 
-Globus competes against much larger players like Medtronic, Johnson & Johnson's DePuy Synthes, Stryker, and NuVasive, as well as other mid-cap device companies and private startups. Globus's competitive position is one of a challenger with strong product development, a focus on surgeon partnerships and education, and a willingness to invest in cutting-edge technologies like robotics and advanced biologics.
+Globus competes against much larger players like Medtronic, [Johnson & Johnson](/jnj-stock/)'s DePuy Synthes, Stryker, and NuVasive, as well as other mid-cap device companies and private startups. Globus's competitive position is one of a challenger with strong product development, a focus on surgeon partnerships and education, and a willingness to invest in cutting-edge technologies like robotics and advanced biologics.
 
 The company's ability to compete depends on continuous innovation — bringing new products to market faster than rivals, improving surgical outcomes, and creating surgeon preference through superior design and support. It also depends on managing costs: as hospitals consolidate and pressure suppliers on pricing, manufacturers must maintain margins while delivering innovation.
 
@@ -65,7 +65,7 @@ Globus's 10-K (SEC CIK 0001237831) breaks revenue down by product line and by ge
 
 **R&D spending as a percentage of revenue.** This indicates the company's commitment to innovation and the pipeline of future products.
 
-**Acquisition integration and amortization charges.** These reduce reported earnings and reflect past acquisition spending; they are important to adjust for when evaluating underlying profitability.
+**Acquisition integration and [amortization](/amortization/) charges.** These reduce reported earnings and reflect past acquisition spending; they are important to adjust for when evaluating underlying profitability.
 
 **Surgeon adoption and customer concentration.** Globus discloses the percentage of procedures it serves and the customer concentration; heavy concentration in a few large hospital systems creates risk if those customers shift volume to competitors.
 
