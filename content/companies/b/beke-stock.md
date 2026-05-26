@@ -1,0 +1,36 @@
+---
+title: "KE Holdings Inc. (BEKE)"
+description: "KE Holdings operates an online real-estate platform in China that connects property buyers, sellers, and renters — a marketplace business built on network effects and local market knowledge."
+keywords:
+  - real estate platform
+  - property marketplace
+  - china real estate
+  - network effects
+  - transaction volume
+  - housing market
+handwritten: true
+---
+
+KE Holdings, known in China by its Lianjia brand, is one of the largest real-estate transaction platforms in the world by transaction volume. The company operates a marketplace where people buy, sell, and rent residential properties in China. It generates revenue by taking a commission on transactions, advertising, and financial services related to property transactions. For most of its existence, KE Holdings has been a private company owned primarily by Hillhouse Capital and its founder Zhang Xiaolong, but it went public on the New York Stock Exchange in 2021 under the ticker BEKE.
+
+The business is fundamentally simple: make it easier for people to find properties and for properties to find people. In the absence of a centralised marketplace, buying or selling a property in China is a fragmented affair — potential buyers must contact many local brokers, property inspections are decentralised, and information asymmetry between buyers and sellers is high. KE Holdings solved this by creating an online platform, recruiting property agents into its network, and standardising the transaction process. Today, Lianjia is so dominant in China's residential real-estate market that properties listed on its platform sell faster and for more money than properties not listed, which gives the platform pricing power and a natural moat.
+
+The Chinese residential real-estate market is enormous. Hundreds of millions of people own or rent homes, and hundreds of billions of dollars change hands yearly as people buy, sell, and relocate. Even capturing a small percentage of this as a transaction commission translates into substantial revenue. KE Holdings processes somewhere in the region of hundreds of billions of dollars in property transactions annually, across dozens of Chinese cities.
+
+Revenue comes primarily from commission on sales transactions — typically three percent of the sale price, split between the buyer's broker and the seller's broker. For a one-million-yuan property (roughly one hundred and fifty thousand US dollars at typical exchange rates), that would yield about three hundred thousand yuan in commission, enough to cover the transaction costs and leave a significant profit. The company also earns revenue from rental listings, advertising, and mortgage-related services. Mortgage facilitation is particularly important because most property purchases in China involve bank financing, and KE Holdings can direct buyers toward lenders and earn a fee for arranging the loan.
+
+The key to profitability in real-estate transaction marketplaces is network effects. The larger the Lianjia platform, the more properties it has listed, and the more people are searching it. The more people are searching, the more valuable it is for property owners to list, which attracts more listings, which attracts more searchers. This virtuous cycle has made Lianjia the dominant network in China's residential market in many major cities. Competing platforms like Beike Zhaofang and Anjuke exist, but they have far smaller networks and thus lower transaction volumes.
+
+A second moat is information standardisation. Lianjia collects detailed information about properties — photos, floor plans, history of previous sales, neighbourhood comparisons — and organises it in a standardised format. This makes it far easier for buyers to compare properties and for brokers to value them. Once a buyer or broker is accustomed to the standardised format, switching to a competitor's platform with a different format is inconvenient. This switching cost, multiplied across millions of users, gives Lianjia durable competitive advantage.
+
+The business has evolved as Chinese real-estate policy has changed. In the early years, property prices were rising steadily, volumes were growing, and brokers made good money bringing properties to market. After 2015, the Chinese government began implementing restrictions on property ownership and lending, with the explicit goal of preventing real-estate speculation and cooling overheated property markets. These restrictions have gone through multiple cycles — relaxed in some cities during downturns, tightened again in upturns — and have created uncertainty for market participants.
+
+The volatility of Chinese property policy is a major risk to KE Holdings. If the government implements restrictions that reduce transaction volumes, or if it enforces price controls that reduce the commission merchants are willing to pay, KE Holdings' revenue and profits will fall. In 2022 and early 2023, new restrictions on speculation and financial leverage in property transactions reduced trading volumes, and KE Holdings' stock fell significantly.
+
+Profitability is also challenged by the cost structure of operating a real-estate marketplace. Unlike a software platform that can scale without adding people, a real-estate marketplace requires thousands of agents on the ground in each city. These agents show properties, conduct negotiations, and handle the logistical details of transactions. They must be recruited, trained, and compensated. This makes the business more expensive to operate than a purely digital marketplace, and it makes margins more sensitive to labour costs.
+
+KE Holdings is also exposed to the health of the Chinese residential market generally. The Chinese real-estate sector is crucial to the Chinese economy — construction and property-related industries account for roughly thirty percent of economic activity. A prolonged downturn in property prices, transaction volumes, or population growth in major cities would reduce the size of the addressable market and KE Holdings' revenue.
+
+The company has tried to diversify beyond residential property transactions. It has invested in used-car marketplaces, real-estate financing, and other adjacent businesses, but residential property remains the core. International expansion has also been discussed but has not materialised at scale — the Chinese real-estate market is large enough that expansion has been less urgent than deepening the domestic business.
+
+To research KE Holdings, begin with the annual 10-K filing (SEC CIK 0001809587), which breaks down revenue by service type and geography within China. Watch the transaction volume — the number of property sales processed on the platform quarterly — which is the leading indicator of future revenue. Monitor Chinese property policy announcements, which can directly affect transaction volumes. Track the gross margin — whether the company is able to maintain pricing power on commission rates or whether competition is forcing commissions downward. And watch the operating margin — whether the company can grow without proportionally increasing its cost base of agents and customer support.
