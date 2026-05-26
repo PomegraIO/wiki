@@ -1,6 +1,8 @@
 ---
-title: "Atlas"
-description: "A category-by-category atlas of the Pomegra Wiki — every editorial section, with the entries you'll most likely want to read first."
+title: "Browse"
+description: "Browse the Pomegra Wiki by topic — every editorial category, with a short description, a few entries to start with, and a link to read the whole category one page at a time."
 layout: atlas
 weight: 997
+aliases:
+  - /index-a-z/
 ---

@@ -1720,3 +1720,238 @@ img { max-width: 100%; height: auto; }
 
 /* `hidden` must win over the flex/grid display set above (filter relies on it) */
 .xchg-ticket[hidden], .xchg-block[hidden] { display: none !important; }
+
+/* ══════════════════════════════════════════════════════════════════════
+   HOME — section header row + category-card affordance
+   ══════════════════════════════════════════════════════════════════════ */
+.wiki-home-section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.wiki-home-section-all {
+  font-family: var(--pom-font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  color: var(--pom-accent);
+  white-space: nowrap;
+}
+.wiki-catcard { position: relative; }
+.wiki-catcard-go {
+  position: absolute;
+  right: 0.9rem;
+  bottom: 0.85rem;
+  font-size: 1rem;
+  color: var(--pom-mist);
+  transition: transform 0.18s ease, color 0.18s ease;
+}
+.wiki-catcard:hover .wiki-catcard-go {
+  color: var(--pom-accent);
+  transform: translateX(3px);
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   BROWSE (Atlas) — card header is now a link
+   ══════════════════════════════════════════════════════════════════════ */
+.wiki-atlas-card-h { text-decoration: none !important; border: 0 !important; }
+.wiki-atlas-card-h:hover .wiki-atlas-card-title { color: var(--pom-accent); }
+.wiki-atlas-card-more { align-self: flex-start; }
+
+/* ══════════════════════════════════════════════════════════════════════
+   CATEGORY PAGE — /equity/, /derivatives/, … paginated, human-readable
+   Each entry shows its title plus a one-line description, so a reader gets
+   context rather than a bare wall of links.
+   ══════════════════════════════════════════════════════════════════════ */
+.wiki-cat {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.4rem 2rem 3rem;
+}
+.wiki-cat-masthead {
+  border-bottom: 1px solid var(--pom-rule-firm);
+  padding-bottom: 1.3rem;
+  margin-bottom: 1.6rem;
+}
+.wiki-cat-crumbs {
+  font-family: var(--pom-font-mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.04em;
+  color: var(--pom-mist);
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.wiki-cat-crumbs a { color: var(--pom-accent); }
+.wiki-cat-head {
+  display: flex;
+  align-items: center;
+  gap: 1.3rem;
+}
+.wiki-cat-art {
+  width: 96px;
+  height: 96px;
+  flex: 0 0 96px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid var(--pom-rule);
+}
+.wiki-cat-kicker {
+  font-family: var(--pom-font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--pom-accent);
+  margin-bottom: 0.25rem;
+}
+.wiki-cat-title {
+  font-family: var(--pom-font-display);
+  font-size: 2.1rem;
+  font-weight: 600;
+  letter-spacing: -0.022em;
+  line-height: 1.1;
+  margin: 0 0 0.45rem;
+  color: var(--pom-ink);
+}
+.wiki-cat-blurb {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--pom-graphite);
+  margin: 0;
+  max-width: 60ch;
+}
+.wiki-cat-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.2rem;
+  flex-wrap: wrap;
+}
+.wiki-cat-random {
+  font-family: var(--pom-font-mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--pom-accent);
+  background: var(--pom-card);
+  border: 1px solid var(--pom-rule);
+  border-radius: 7px;
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.wiki-cat-random:hover { border-color: var(--pom-accent); color: var(--pom-accent-hi); }
+.wiki-cat-pagemeta {
+  font-family: var(--pom-font-mono);
+  font-size: 0.74rem;
+  color: var(--pom-mist);
+}
+
+/* Entry list — two columns on wide screens, one on mobile */
+.wiki-cat-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 2rem !important;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem 1.4rem;
+}
+.wiki-cat-item { margin: 0 !important; padding: 0 !important; break-inside: avoid; }
+.wiki-cat-item::before { display: none !important; }
+.wiki-cat-item-link {
+  display: block;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  text-decoration: none !important;
+  transition: background 0.13s ease, border-color 0.13s ease;
+}
+.wiki-cat-item-link:hover {
+  background: var(--pom-card);
+  border-color: var(--pom-rule);
+}
+.wiki-cat-item-title {
+  display: block;
+  font-family: var(--pom-font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--pom-ink);
+  line-height: 1.25;
+}
+.wiki-cat-item-link:hover .wiki-cat-item-title { color: var(--pom-accent); }
+.wiki-cat-item-desc {
+  display: block;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--pom-graphite);
+  margin-top: 0.18rem;
+  /* Clamp to two lines so rows stay even */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+@media (max-width: 720px) {
+  .wiki-cat { padding: 1.2rem 1.2rem 2.4rem; }
+  .wiki-cat-list { grid-template-columns: 1fr; }
+  .wiki-cat-head { gap: 1rem; }
+  .wiki-cat-art { width: 64px; height: 64px; flex-basis: 64px; }
+  .wiki-cat-title { font-size: 1.6rem; }
+}
+
+/* ── Pagination ── */
+.wiki-pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin: 0 0 2rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--pom-rule);
+}
+.wiki-pager-nums { display: flex; gap: 0.3rem; align-items: center; }
+.wiki-pager-num,
+.wiki-pager-step {
+  font-family: var(--pom-font-mono);
+  font-size: 0.82rem;
+  font-weight: 600;
+  min-width: 2.1rem;
+  padding: 0.42rem 0.6rem;
+  text-align: center;
+  border: 1px solid var(--pom-rule);
+  border-radius: 7px;
+  color: var(--pom-ink-soft);
+  text-decoration: none !important;
+  transition: border-color 0.13s ease, color 0.13s ease, background 0.13s ease;
+}
+.wiki-pager-num:hover,
+.wiki-pager-step:hover { border-color: var(--pom-accent); color: var(--pom-accent); }
+.wiki-pager-num.is-current {
+  background: var(--pom-accent);
+  border-color: var(--pom-accent);
+  color: #fff;
+}
+.wiki-pager-step.is-disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+.wiki-pager-gap {
+  font-family: var(--pom-font-mono);
+  color: var(--pom-mist);
+  padding: 0 0.2rem;
+}
+
+.wiki-cat-foot {
+  font-size: 0.92rem;
+  color: var(--pom-graphite);
+  text-align: center;
+  margin: 0;
+}
+.wiki-cat-foot a { color: var(--pom-accent); }

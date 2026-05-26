@@ -1,11 +1,11 @@
 {{ define "main" }}
 {{/* All non-system pages — used for counts, sampling, featured entry, etc. */}}
-{{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" }}
+{{ $skip := slice "About Pomegra Wiki" "A–Z index" "Pomegra Wiki" "Atlas" "The Exchange" }}
 {{ $entries := where .Site.RegularPages "Title" "not in" $skip }}
 {{ $totalEntries := len $entries }}
 
-{{/* Category counts, sorted descending. "companies" is excluded — it is not
-     an editorial concept category; it has its own home at The Exchange. */}}
+{{/* Category counts. "companies" is excluded — it has its own home at The
+     Exchange and is not an editorial concept category. */}}
 {{ $cats := dict }}
 {{ range $entries }}
   {{ $s := .Section }}
@@ -16,11 +16,13 @@
 {{ end }}
 {{ $catCount := len $cats }}
 {{ $companyCount := len (where $entries "Section" "companies") }}
-
-{{/* Pre-counted total cross-link figure baked at build time. Hugo can't
-     trivially compute this without re-parsing every body, so we expose
-     it via a top-level site param (see hugo.toml). */}}
 {{ $linkCount := default 10553 site.Params.linkCount }}
+
+{{/* Editorial label + blurb, single source of truth in data/categories.toml. */}}
+{{ $catMeta := dict }}
+{{ range hugo.Data.categories.category }}
+  {{ $catMeta = merge $catMeta (dict .slug (dict "label" .label "blurb" .blurb)) }}
+{{ end }}
 
 {{/* Featured entry — pin to stock-market */}}
 {{ $featured := index (where .Site.RegularPages "Title" "Stock market") 0 }}
@@ -32,25 +34,25 @@
     <p class="wiki-home-tagline">{{ .Site.Params.tagline }} — markets, instruments, institutions, and the ideas that move them. Every entry is plain-language and densely cross-linked, so one click leads to the next.</p>
   </header>
 
-  {{/* LAUNCH TILES — actionable entry points, not dead statistics ───────── */}}
+  {{/* LAUNCH TILES — the four ways into the wiki ─────────────────────────── */}}
   <section class="wiki-home-launch" aria-label="Ways into the wiki">
+    <a class="wiki-launch-tile" href="{{ "/atlas/" | relURL }}">
+      <span class="wiki-launch-kicker">{{ $catCount }} categories</span>
+      <span class="wiki-launch-title">Browse by topic</span>
+      <span class="wiki-launch-sub">Pick a category and read through it, a page at a time.</span>
+      <span class="wiki-launch-go" aria-hidden="true">→</span>
+    </a>
     <a class="wiki-launch-tile" href="{{ "/companies/" | relURL }}">
       <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $companyCount }} listed</span>
       <span class="wiki-launch-title">The Exchange</span>
       <span class="wiki-launch-sub">Pull up any public company by its ticker.</span>
       <span class="wiki-launch-go" aria-hidden="true">→</span>
     </a>
-    <a class="wiki-launch-tile" href="{{ "/atlas/" | relURL }}">
-      <span class="wiki-launch-kicker">{{ $catCount }} categories</span>
-      <span class="wiki-launch-title">The Atlas</span>
-      <span class="wiki-launch-sub">Browse the whole map of finance by theme.</span>
-      <span class="wiki-launch-go" aria-hidden="true">→</span>
-    </a>
-    <a class="wiki-launch-tile" href="{{ "/index-a-z/" | relURL }}">
+    <a class="wiki-launch-tile" href="#" id="pom-search-launch">
       <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $totalEntries }} entries</span>
-      <span class="wiki-launch-title">A&ndash;Z Index</span>
-      <span class="wiki-launch-sub">Every entry, end to end, alphabetically.</span>
-      <span class="wiki-launch-go" aria-hidden="true">→</span>
+      <span class="wiki-launch-title">Search</span>
+      <span class="wiki-launch-sub">Know the term? Jump straight to it.</span>
+      <span class="wiki-launch-go" aria-hidden="true">⌕</span>
     </a>
     <a class="wiki-launch-tile wiki-launch-tile--accent" href="#" id="pom-random-launch">
       <span class="wiki-launch-kicker">{{ lang.FormatNumber 0 $linkCount }} links deep</span>
@@ -86,86 +88,34 @@
     </aside>
   </section>
 
-  {{/* CATEGORIES ───────────────────────────────────────────────────────── */}}
-  <h2 class="wiki-home-section-h">Browse by category</h2>
-  <p class="wiki-home-section-sub">Twenty-seven editorial categories, from the instruments traded in markets to the people who built modern finance. Pick any one to start exploring.</p>
+  {{/* CATEGORIES — compact cards, each opening its own paginated page ────── */}}
+  <div class="wiki-home-section-head">
+    <h2 class="wiki-home-section-h">Browse by category</h2>
+    <a class="wiki-home-section-all" href="{{ "/atlas/" | relURL }}">See the full map →</a>
+  </div>
+  <p class="wiki-home-section-sub">{{ $catCount }} editorial categories, from the instruments traded in markets to the people who built modern finance. Each opens its own page — pick one and read straight through.</p>
 
   <section class="wiki-home-catgrid">
-    {{ $catBlurbs := dict
-      "equity"             "Stock and shareholder-equity instruments — share classes, voting rights, buybacks, employee equity."
-      "fixed-income"       "Treasury securities, corporate bonds, structured credit, money-market instruments, credit ratings."
-      "derivatives"        "Options, futures, forwards, swaps — and the Greeks and pricing models that price them."
-      "funds"              "Every flavour of pooled vehicle: ETFs, mutual funds, hedge funds, PE, sovereign-wealth, endowments."
-      "forex"              "Currency pairs, exchange-rate regimes, FX derivatives, intervention, the major reserve currencies."
-      "commodities"        "Metals, energy, agriculture and livestock — the futures curve, contango, storage, indices."
-      "macro"              "Macroeconomic concepts that move markets: output, prices, employment, the business cycle."
-      "monetary"           "Central banking, monetary policy and money-supply mechanics — rates, QE, aggregates, currencies."
-      "fiscal"             "Government finance — budgets, debt, sovereign default, taxes at the sovereign level."
-      "ratios"             "Valuation, profitability, liquidity, solvency, efficiency, market-risk ratios — when each helps and when it lies."
-      "accounting"         "The three financial statements, GAAP/IFRS, key line items, the analytical bridges between statements."
-      "strategies"         "Value, growth, momentum, factor, quantitative — and tactical practices like rebalancing and tax-loss harvesting."
-      "risk"               "Types of risk, measurement (VaR, CVaR, expected shortfall), stress testing, hedging."
-      "behavioral"         "Cognitive biases, prospect theory, mental accounting, market-sentiment phenomena."
-      "history"            "Crises, bubbles, panics, structural shifts — from tulip mania to the COVID crash."
-      "people"             "Famous investors, economists, and financial thinkers — focused on their ideas and influence."
-      "regulation"         "Securities laws, regulators, regulatory frameworks — Dodd-Frank, MiFID, Basel, KYC."
-      "corporate"          "M&A, takeover defences, leveraged buyouts, governance, dividend and buyback policy."
-      "personal-finance"   "Household-level money management — saving, budgeting, retirement vehicles, insurance, credit."
-      "taxes"              "Investor-facing tax concepts: capital gains, qualified dividends, cost basis, tax-advantaged structures."
-      "real-estate"        "Real-estate as asset class and as financing — REITs, mortgages, real-estate metrics."
-      "trading"            "Order types, execution, market microstructure, settlement and clearing, intraday phenomena."
-      "crypto"             "Major chains, consensus mechanisms, on-chain instruments, DeFi primitives, custody, exchanges."
-      "technical-analysis" "Chart-based analysis — candles, support/resistance, patterns, indicators, oscillators."
-      "institutions"       "Major financial firms, exchanges, clearing utilities, indices providers, rating agencies."
-      "valuation"          "DCF, multiples, residual income, real options — the methods and their inputs."
-      "markets"            "Market structure and venue mechanics — primary vs secondary, exchanges, dark pools, indices."
-    }}
     {{ range $cat, $n := $cats }}
-      {{ $label := humanize $cat }}
-      {{ if eq $cat "fixed-income" }}{{ $label = "Fixed income" }}{{ end }}
-      {{ if eq $cat "real-estate" }}{{ $label = "Real estate" }}{{ end }}
-      {{ if eq $cat "technical-analysis" }}{{ $label = "Technical analysis" }}{{ end }}
-      {{ if eq $cat "personal-finance" }}{{ $label = "Personal finance" }}{{ end }}
-      <a class="wiki-catcard" href="#cat-{{ $cat }}">
+      {{ $m := index $catMeta $cat }}
+      {{ $label := $cat | humanize }}
+      {{ $blurb := "" }}
+      {{ with $m }}{{ $label = .label }}{{ $blurb = .blurb }}{{ end }}
+      <a class="wiki-catcard" href="{{ printf "/%s/" $cat | relURL }}">
         <img class="wiki-catcard-art" src="{{ printf "/svg/%s.svg" $cat | relURL }}" alt="" />
         <div class="wiki-catcard-body">
           <div class="wiki-catcard-count">{{ $n }} entries</div>
           <div class="wiki-catcard-title">{{ $label }}</div>
-          <p class="wiki-catcard-blurb">{{ index $catBlurbs $cat | default "" }}</p>
+          <p class="wiki-catcard-blurb">{{ $blurb }}</p>
         </div>
+        <span class="wiki-catcard-go" aria-hidden="true">→</span>
       </a>
-    {{ end }}
-  </section>
-
-  {{/* DEEP CATEGORY LISTS — anchor targets from the cards above ───────── */}}
-  <section class="wiki-home-deep">
-    {{ range $cat, $n := $cats }}
-      {{ $label := humanize $cat }}
-      {{ if eq $cat "fixed-income" }}{{ $label = "Fixed income" }}{{ end }}
-      {{ if eq $cat "real-estate" }}{{ $label = "Real estate" }}{{ end }}
-      {{ if eq $cat "technical-analysis" }}{{ $label = "Technical analysis" }}{{ end }}
-      {{ if eq $cat "personal-finance" }}{{ $label = "Personal finance" }}{{ end }}
-      {{ $catPages := sort (where $.Site.RegularPages "Section" $cat) "Title" }}
-      <section class="wiki-home-cat" id="cat-{{ $cat }}">
-        <header class="wiki-home-cat-h">
-          <h3>{{ $label }}</h3>
-          <span class="wiki-home-cat-count">{{ $n }}</span>
-        </header>
-        <ul class="wiki-home-cat-list">
-          {{ range first 24 $catPages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
-        {{ if gt $n 24 }}
-          <div class="wiki-home-cat-more">+{{ sub $n 24 }} more entries in this category</div>
-        {{ end }}
-      </section>
     {{ end }}
   </section>
 
   <section class="wiki-home-howto">
     <h2 class="wiki-home-section-h">How to use this wiki</h2>
-    <p>This is a reading wiki, not a textbook. Click any link to follow the thread you're curious about — every entry was written assuming you might arrive cold. Use the <a href="{{ "/index-a-z/" | relURL }}">A–Z index</a> to browse all entries, the search box to find a specific term, or the <strong>Random</strong> button up top to discover something new.</p>
+    <p>This is a reading wiki, not a textbook. Click any link to follow the thread you're curious about — every entry was written assuming you might arrive cold. <a href="{{ "/atlas/" | relURL }}">Browse a category</a> to read through a topic, use the search box to find a specific term, or hit <strong>Random</strong> up top to discover something new.</p>
     <p>For long-form learning paths, see the sibling project <a href="{{ .Site.Params.learnURL }}">Pomegra Learn</a> — a 30-book curriculum that takes the same ground in chapter form.</p>
   </section>
 
@@ -174,18 +124,33 @@
 </div>
 
 <script>
-  // Random-entry links on the home page (mirror the navbar's Random link)
+  // Random-entry links on the home page (mirror the navbar's Random link).
+  // Reuse the search index if search already loaded it; otherwise fetch once.
   (function() {
-    var ids = ['pom-random-home', 'pom-random-launch'];
+    function go(index) {
+      if (!index || !index.length) return;
+      var pick = index[Math.floor(Math.random() * index.length)];
+      window.location.href = pick.u;
+      try { if (window.umami) window.umami.track('random-article', { to: pick.u }); } catch (_) {}
+    }
     function pickRandom(e) {
       e.preventDefault();
-      fetch('{{ "index.json" | absURL }}')
+      if (window.__pomIndex) { go(window.__pomIndex); return; }
+      fetch('{{ partial "absolute-url.html" "/index.json" }}')
         .then(function(r){ return r.json(); })
-        .then(function(j){ if (j.length) window.location.href = j[Math.floor(Math.random()*j.length)].u; });
+        .then(function(j){ window.__pomIndex = j; go(j); })
+        .catch(function(){});
     }
-    ids.forEach(function(id) {
+    ['pom-random-home', 'pom-random-launch'].forEach(function(id) {
       var link = document.getElementById(id);
       if (link) link.addEventListener('click', pickRandom);
+    });
+    // Search tile focuses the navbar search box.
+    var searchLaunch = document.getElementById('pom-search-launch');
+    if (searchLaunch) searchLaunch.addEventListener('click', function(e) {
+      e.preventDefault();
+      var input = document.getElementById('pom-search-input');
+      if (input) { input.focus(); input.scrollIntoView({ block: 'center' }); }
     });
   })();
 </script>

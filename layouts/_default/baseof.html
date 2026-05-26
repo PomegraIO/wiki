@@ -217,7 +217,7 @@
       function ensureIndex(cb) {
         if (INDEX || loading) { cb && INDEX && cb(); return; }
         loading = true;
-        fetch('{{ "/index.json" | relURL }}')
+        fetch('{{ partial "absolute-url.html" "/index.json" }}')
           .then(function(r) { return r.json(); })
           .then(function(j) { INDEX = j; window.__pomIndex = j; loading = false; cb && cb(); })
           .catch(function() { loading = false; });
@@ -253,7 +253,7 @@
           try { if (window.umami) window.umami.track('random-article', { to: pick.u }); } catch (_) {}
         }
         if (window.__pomIndex) { go(window.__pomIndex); return; }
-        fetch('{{ "/index.json" | relURL }}')
+        fetch('{{ partial "absolute-url.html" "/index.json" }}')
           .then(function(r) { return r.json(); })
           .then(function(j) { window.__pomIndex = j; go(j); })
           .catch(function() {});

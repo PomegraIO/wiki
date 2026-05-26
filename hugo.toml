@@ -30,6 +30,12 @@ canonifyURLs = true
 buildDrafts = false
 buildFuture  = false
 
+# Category (section) pages paginate at 60 entries/page — enough to scan in one
+# screen-scroll, few enough that the page stays light. /equity/ → /equity/page/2/.
+[pagination]
+  pagerSize = 60
+  path = 'page'
+
 # Pretty URLs: /stock/ instead of /stock.html
 uglyURLs = false
 
