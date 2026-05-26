@@ -1,0 +1,40 @@
+---
+title: "Medline Inc. (MDLN)"
+description: "Medline Industries is a privately held, family-owned manufacturer and distributor of medical devices, surgical supplies, and healthcare consumables serving hospitals, clinics, and medical facilities globally."
+keywords:
+  - medical devices
+  - healthcare supplies
+  - surgical supplies
+  - healthcare distribution
+  - medical consumables
+  - hospital supplies
+handwritten: true
+---
+
+**What is Medline and what does it do?**
+
+Medline Inc. (NASDAQ: MDLN) manufactures and distributes medical devices, surgical supplies, and consumable products used in hospitals, clinics, surgery centers, and other healthcare facilities around the world. A surgeon reaching for sterile gloves during an operation is likely using a Medline product. A nursing home restocking its supply closet with wound dressing, incontinence products, and other consumables is filling carts with Medline items. A hospital's operating room using surgical drapes, instruments, and specialty equipment almost certainly includes Medline components. The company is one of the largest private healthcare-supply companies in the world and has been family-owned and operated since its founding in 1966. Unlike most large healthcare suppliers, which went public decades ago, Medline remained private through most of its history, answering to no public shareholders and driven by the same family leadership across generations.
+
+**Why is Medline significant despite being (mostly) private?**
+
+For most of Medline's existence, being private meant the company operated almost entirely out of the spotlight. Investors who owned stakes in major public hospital operators knew about those publicly listed companies, could study their earnings calls, and formed expectations about the healthcare supply chain based on the supply companies they could see — Cardinal Health, McKesson, Henry Schein, and others. But Medline, often the largest supplier in any given region, simply did not appear in those indexes or in investor briefings because its financials were not public. That changed in April 2024, when the family completed an initial public offering and Medline began trading on the NASDAQ. The IPO valued the company at roughly twenty billion dollars and made public a company that had, for six decades, accumulated hundreds of manufacturing facilities and distribution centers across the United States and globally.
+
+**How does Medline make money?**
+
+Medline's revenue comes from selling medical supplies and devices to institutional customers — hospitals, surgery centers, clinics, nursing homes, and home-health providers. The company manufactures some products in-house (sutures, surgical drapes, examination gloves, bandages, specialty wound-care products, patient-handling equipment) and distributes others manufactured by partners. The business splits roughly into two categories: single-use consumables that must be replaced constantly (gloves, gauze, syringes, dressings) and durable or semi-durable devices (wheelchairs, examination tables, surgical instruments, infusion pumps). The consumables business is the larger and steadier revenue stream; hospitals and clinics do not reduce their glove or dressing purchases when budgets tighten. The devices business is somewhat more variable because a hospital considering a new surgical suite or equipment refresh can defer that decision if capital is tight.
+
+Revenue growth comes from volume — more hospitals, clinics, and health systems becoming Medline customers or existing customers purchasing more — and from price increases when possible. The company negotiates supply contracts with large hospital systems, often winning multi-year deals at fixed prices, which protects the customer from price inflation but locks Medline into that price for years. During periods of commodity-cost inflation (such as for raw materials in gloves or cotton goods), Medline can be squeezed. Conversely, when material costs fall, the company benefits. Managing this dynamic — buying inventory to hedge against future price increases, locking in manufacturing costs, and negotiating contracts that provide some pass-through of cost inflation — is a core operational discipline.
+
+**What makes Medline competitive and what are its risks?**
+
+The medical supply industry has several structural characteristics that favor large, established players. Hospitals and health systems prefer suppliers that can deliver a broad range of products (one contract, one vendor) rather than juggling dozens of niche suppliers. Medline's scale — presence in nearly every region, a manufacturing footprint of hundreds of locations, and a product range spanning thousands of items — means a hospital can buy most of its routine supplies through one supplier. Switching to a competitor means retraining staff, disrupting supply chains, and accepting the risk that the new supplier will not be as reliable. That stickiness is a competitive moat.
+
+The company also owns manufacturing. Unlike pure distributors, Medline makes many of the products it sells, which gives it control over quality, cost, and supply security. During the pandemic, when personal protective equipment became scarce globally, Medline was able to increase its own manufacturing faster than competitors who relied entirely on external suppliers. That ability to scale internal supply is valuable.
+
+The risks are significant. Healthcare is heavily regulated, and regulatory changes can impose new costs or restrict what products can be sold and how they must be labeled. Pricing pressure from large hospital systems and healthcare purchasers is relentless; as hospital consolidation continues and a few large systems control ever-larger shares of beds and purchasing power, their negotiating leverage grows. Healthcare sustainability efforts increasingly push hospitals to reduce waste, which can mean lower volumes of consumable supplies. Medicare and Medicaid reimbursement changes can affect how much hospitals spend on supplies overall. And competition from other large suppliers remains intense — Cardinal Health, Henry Schein, and regional distributors all compete for the same contracts.
+
+Medline's family ownership, which was historically an advantage in maintaining long-term thinking, now presents a complexity: the company went public but remains majority-controlled by the founding family. That structure can protect against short-term pressure but also means public shareholders have limited influence over strategy and capital allocation.
+
+**How would you research Medline as an investment?**
+
+Anyone studying Medline should begin with the company's most recent 10-K filing (SEC CIK 0002046386), which will detail the revenue breakdown by product category and customer type, the geographic spread of manufacturing and distribution, and the company's largest customers and suppliers. The quarterly earnings releases and investor calls are where management discusses pricing trends, volume growth by segment, margin pressures from cost inflation, and any significant contract wins or losses. Key metrics to track include gross margin (which reveals whether the company can pass through cost inflation to customers), operating leverage (whether revenue growth is translating into earnings growth or being absorbed by costs), and customer concentration (what percent of revenue comes from the largest hospital systems). Like most manufacturers with commodity-exposed operations, Medline is sensitive to raw-material costs, so monitoring cotton, plastics, and petroleum prices is relevant context. The company's leverage ratio and free-cash-flow generation matter because large, long-lived supply contracts require capital investment in distribution infrastructure and inventory management. For a business built on stickiness and scale, the company's ability to sign and renew large hospital system contracts is the leading indicator of health.
