@@ -74,4 +74,4 @@ For investors evaluating Neptune, the [10-K](/wiki/10-k/) annual report filed wi
 
 ---
 
-**See also:** [Managing general agent](/wiki/mga-definition/), [Private flood insurance](/wiki/private-flood-insurance/), [NFIP](/wiki/nfip/), [Lloyd's of London](/wiki/lloyds-of-london/), [Insurtech](/wiki/insurtech/)
+**See also:** Managing general agent, Private flood insurance, NFIP, Lloyd's of London, Insurtech

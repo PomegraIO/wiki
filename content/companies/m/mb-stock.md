@@ -29,4 +29,4 @@ For investors researching the company, the [10-K](/wiki/10-k/) reveals segment b
 
 ---
 
-See also: [Agricultural commodity](/wiki/agricultural-commodity/), [Food & beverage processing](/wiki/food-beverage-processing/), [Supply chain optimization](/wiki/supply-chain-optimization/), [Commodity price risk](/wiki/commodity-price-risk/)
+See also: Agricultural commodity, Food & beverage processing, Supply chain optimization, Commodity price risk

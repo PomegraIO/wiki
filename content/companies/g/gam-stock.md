@@ -9,13 +9,13 @@ keywords:
 handwritten: true
 ---
 
-General American Investors Company Inc. traces its lineage to the 1920s when the American investment trust movement was creating new vehicles for public stock investing. Founded in 1927—a period when retail access to professionally managed [diversification](/diversification/) was novel—GAM has endured nearly a century of market upheaval: the [Great Depression](/great-depression/), postwar booms, stagflation, tech bubbles, financial crises, and radical monetary experiments. That durability itself is noteworthy in a fund industry where many peers have been absorbed or liquidated.
+General American Investors Company Inc. traces its lineage to the 1920s when the American investment trust movement was creating new vehicles for public stock investing. Founded in 1927—a period when retail access to professionally managed [diversification](/diversification/) was novel—GAM has endured nearly a century of market upheaval: the [Great Depression](/great-depression/), postwar booms, [stagflation](/stagflation/), tech bubbles, financial crises, and radical monetary experiments. That durability itself is noteworthy in a fund industry where many peers have been absorbed or liquidated.
 
 ## The business and structure
 
 GAM operates as a [closed-end fund](/wiki/closed-end-fund/), a peculiar animal in modern finance. Unlike open-end [mutual funds](/mutual-fund/), closed-end funds issue a fixed number of shares traded on an exchange (GAM on the NYSE), and their price can diverge from their underlying [net asset value](/net-asset-value/) (NAV). This structure allows the fund to maintain a stable portfolio and employ modest leverage without the friction of daily investor redemptions. It is a simpler, less expensive wrapper than a typical mutual fund.
 
-The fund invests primarily in [common stocks](/common-stock/) of established American corporations, with a deliberate tilt toward dividend-paying and lower-volatility equities. GAM is not a growth fund hunting moonshots; rather, it courts quality and income, a posture that has shaped its identity since inception.
+The fund invests primarily in [common stocks](/common-stock/) of established American corporations, with a deliberate tilt toward dividend-paying and lower-volatility equities. GAM is not a [growth fund](/growth-fund/) hunting moonshots; rather, it courts quality and income, a posture that has shaped its identity since inception.
 
 ## Capital and longevity
 
@@ -25,7 +25,7 @@ As a [publicly traded](/wiki/public-company/) [closed-end fund](/wiki/closed-end
 
 ## How it earns money
 
-Revenue flows from two sources: investment gains and dividends collected from holdings. The fund distributes investment income (chiefly dividends from its stock positions) to shareholders regularly, and capital gains are typically distributed once annually. From the shareholder's standpoint, this income stream provides yield, especially in periods when bond returns are meager.
+Revenue flows from two sources: investment gains and [dividends](/dividend/) collected from holdings. The fund distributes investment income (chiefly dividends from its stock positions) to shareholders regularly, and capital gains are typically distributed once annually. From the shareholder's standpoint, this income stream provides yield, especially in periods when [bond](/bond/) returns are meager.
 
 For the fund itself, internal economics revolve around the fee structure embedded in its annual operating [expense ratio](/expense-ratio/). GAM charges a [management fee](/management-fee/) for oversight and administrative costs, which is extracted from assets before income is distributed. Like all closed-end funds, this fee is a permanent drag on returns; investors bear it whether the market rises or falls.
 

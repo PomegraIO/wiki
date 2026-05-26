@@ -24,7 +24,7 @@ handwritten: true
 
 </aside>
 
-Intercont is a small, newly public Cayman-incorporated shipping company founded in 2023 and headquartered in Hong Kong. The enterprise operates two primary business lines: maritime time chartering and vessel management, with an early-stage initiative to develop a seaborne pulp-manufacturing operation. It went public on the [Nasdaq](/nasdaq/) Capital Market in March 2025, raising about $10.5 million at $7 per share. Since then, it has faced [Nasdaq listing compliance challenges](/wiki/nasdaq-capital-market/) and executed a 25-for-1 reverse split in April 2026 to restore minimum bid price compliance.
+Intercont is a small, newly public Cayman-incorporated shipping company founded in 2023 and headquartered in Hong Kong. The enterprise operates two primary business lines: maritime time chartering and vessel management, with an early-stage initiative to develop a seaborne pulp-manufacturing operation. It went public on the [Nasdaq](/nasdaq/) Capital Market in March 2025, raising about $10.5 million at $7 per share. Since then, it has faced Nasdaq listing compliance challenges and executed a 25-for-1 reverse split in April 2026 to restore minimum bid price compliance.
 
 ## The Core Shipping Business
 

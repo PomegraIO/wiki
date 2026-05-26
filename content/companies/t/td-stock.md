@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Toronto Dominion Bank (TD) stands as one of North America's largest financial institutions, rooted in a merger that reshaped Canadian banking in 1955. The combination of the Dominion Bank and the Toronto-Dominion Bank created a powerhouse that grew to rival peers on both sides of the border. Today, TD operates across a network spanning Canada, the United States, and select international markets, with a diversified business spanning consumer banking, commercial lending, wealth management, and capital markets. The company's public shares trade on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker TD.
+Toronto Dominion Bank (TD) stands as one of North America's largest financial institutions, rooted in a [merger](/merger/) that reshaped Canadian banking in 1955. The combination of the Dominion Bank and the Toronto-Dominion Bank created a powerhouse that grew to rival peers on both sides of the border. Today, TD operates across a network spanning Canada, the United States, and select international markets, with a diversified business spanning consumer banking, commercial lending, wealth management, and capital markets. The company's public shares trade on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker TD.
 
 ## The merger that built an empire
 
@@ -47,13 +47,13 @@ Third, TD's U.S. retail banking division, while large, has been a source of oper
 
 Fourth, competition is fierce. Online-only banks ([Charles Schwab](/charles-schwab/), Marcus, Ally) have eroded TD's pricing power in deposits and mortgages. Fintechs have carved out niches in payments, lending, and wealth management. Large U.S. mega-banks (JPMorgan, [Bank of America](/bank-of-america/), [Wells Fargo](/wells-fargo/)) have more capital and better access to investment banking revenues. Regional banks have local networks. TD, straddling the middle, must constantly reinvent to remain relevant.
 
-Finally, credit risk—always present in banking—looms larger in uncertain economic cycles. Mortgage defaults, small-business loan losses, and corporate credit downgrades can quickly erode earnings. TD's [diversification](/diversification/) across retail, commercial, and capital markets mitigates single-product risk, but systemic recessions test all banks.
+Finally, [credit risk](/credit-risk/)—always present in banking—looms larger in uncertain economic cycles. Mortgage defaults, small-business loan losses, and corporate credit downgrades can quickly erode earnings. TD's [diversification](/diversification/) across retail, commercial, and capital markets mitigates single-product risk, but systemic [recessions](/recession/) test all banks.
 
 ## How to research it
 
 Start with TD's annual [10-K](/wiki/10-k/) filing with the SEC (filed by the U.S. subsidiary) and its annual report filed in Canada, which together provide segment breakdowns, capital ratios, loan portfolios, and risk disclosures. Pay close attention to net interest margin trends, loan loss provisions, and deposit growth rates—these are the drivers of banking profitability and stability.
 
-Watch regulatory capital ratios (Common Equity Tier 1, or CET1). TD and peer banks are required to hold capital above regulatory minimums; how much buffer they maintain signals confidence in earnings durability and appetite for dividends or buybacks. Analyst reports from the major investment banks dissect guidance and offer comparable valuations across North American peers.
+Watch regulatory capital ratios (Common Equity Tier 1, or CET1). TD and peer banks are required to hold capital above regulatory minimums; how much buffer they maintain signals confidence in earnings durability and appetite for [dividends](/dividend/) or buybacks. Analyst reports from the major investment banks dissect guidance and offer comparable valuations across North American peers.
 
 For a bank, the fundamentals center on profitability (return on equity and net interest income), safety (loan quality and capital), and growth (deposit growth, lending volume, and market share). TD's valuation typically trades at a modest premium to smaller Canadian peers but at a discount to large U.S. money-center banks, reflecting its solid but not exceptional competitive position. [Dividend yield](/dividend-yield/), often in the 3–4% range, attracts income investors and reflects the mature, lower-growth profile of North American retail banking.
 

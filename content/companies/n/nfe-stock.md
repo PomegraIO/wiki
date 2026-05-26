@@ -73,4 +73,4 @@ The [stock](/wiki/stock/) price reflects both the operational performance of exi
 
 ---
 
-**See also:** [LNG](/wiki/lng-stock/), emerging-market energy risk, [leverage](/wiki/debt-to-equity-ratio/) and [debt sustainability](/wiki/debt-to-ebitda-ratio/).
+**See also:** LNG, emerging-market energy risk, [leverage](/wiki/debt-to-equity-ratio/) and [debt sustainability](/wiki/debt-to-ebitda-ratio/).

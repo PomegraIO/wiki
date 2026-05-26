@@ -20,7 +20,7 @@ handwritten: true
 - **CIK:** 1992243
 - **Founded:** 2019
 - **Headquarters:** Austin, Texas
-- **Sector:** [Renewable Energy](/wiki/utilities-sector/), Energy Storage
+- **Sector:** Renewable Energy, Energy Storage
 - **What it does:** Develops, finances, builds, and operates utility-scale solar and battery storage projects globally
 
 </aside>

@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-New Concept Energy, Inc. is a small, publicly traded company with real-estate and energy-related assets. Trading on the [OTC Markets](/wiki/otc-markets/) under the ticker GBR, the company operates with a modest asset base and limited [market capitalization](/market-capitalization/), typical of a dormant or semi-active shell structure in the micro-cap category.
+New Concept Energy, Inc. is a small, publicly traded company with real-estate and energy-related assets. Trading on the OTC Markets under the ticker GBR, the company operates with a modest asset base and limited [market capitalization](/market-capitalization/), typical of a dormant or semi-active shell structure in the micro-cap category.
 
 ## What are the company's main business interests?
 
@@ -33,4 +33,4 @@ Most investors encounter New Concept Energy through SEC filings or micro-cap scr
 
 ---
 
-**See also:** [OTC Markets](/wiki/otc-markets/), [10-K](/wiki/10-k/), [Public Company](/wiki/public-company/), [Micro-cap](/wiki/micro-cap/) stocks.
+**See also:** OTC Markets, [10-K](/wiki/10-k/), [Public Company](/wiki/public-company/), Micro-cap stocks.

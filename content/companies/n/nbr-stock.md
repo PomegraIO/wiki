@@ -46,4 +46,4 @@ The primary leading indicator is the [10-K](/wiki/10-k/) filing and quarterly ea
 
 Sector developments matter too. US onshore drilling is tied to shale economics and oil price thresholds; international operations depend on geopolitical stability and national oil company spending plans. A sharp fall in oil prices would immediately pressure rates and utilization, while a sustained rally could drive multiple years of good cash generation.
 
-See also: [Public company](/wiki/public-company/), [Stock exchange](/wiki/stock-exchange/), [Contract](/wiki/contract/).
+See also: [Public company](/wiki/public-company/), [Stock exchange](/wiki/stock-exchange/), Contract.

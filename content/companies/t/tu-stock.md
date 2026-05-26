@@ -50,4 +50,4 @@ Watch earnings calls for management commentary on pricing trends, 5G build timel
 
 ---
 
-**Key companies in telecom**: [Bell Canada](/wiki/bce-stock/), [Rogers Communications](/wiki/rci-stock/)
+**Key companies in telecom**: Bell Canada, [Rogers Communications](/wiki/rci-stock/)

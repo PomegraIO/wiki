@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Genesis Energy LP is a [master limited partnership](/wiki/mlp-stock/) focused on moving and processing energy products, chemicals, and other commodities across North America and on coastal waters. The company operates three main business segments: offshore pipeline systems in the Gulf of Mexico, a soda ash and sulfur chemical production and processing business, and a fleet of marine transportation vessels. As a [MLP](/wiki/mlp-stock/), Genesis distributes substantially all of its cash flow to unit holders, a structure that appeals to income-focused investors but also subjects the company to specific federal tax and regulatory requirements.
+Genesis Energy LP is a master limited partnership focused on moving and processing energy products, chemicals, and other commodities across North America and on coastal waters. The company operates three main business segments: offshore pipeline systems in the Gulf of Mexico, a soda ash and sulfur chemical production and processing business, and a fleet of marine transportation vessels. As a MLP, Genesis distributes substantially all of its cash flow to unit holders, a structure that appeals to income-focused investors but also subjects the company to specific federal tax and regulatory requirements.
 
 ## The Business Across Three Segments
 
@@ -24,7 +24,7 @@ The marine transportation fleet operates oil tankers, product tankers, and speci
 
 As a [public company](/wiki/public-company/), Genesis reports quarterly earnings tied to volumes moved, rates charged, and costs incurred. The offshore pipeline segment generates revenue through contracted capacities, throughput fees, and tariffs that are often indexed to [inflation](/inflation/) or benchmarked against crude prices. Soda ash revenue comes from sales volume and market price; when demand weakens or imports surge, margin compresses. Marine transportation charges per barrel moved or per day chartered depend on market conditions and utilization.
 
-Capital intensity is high. Pipelines require ongoing maintenance and integrity programs; vessels need dry-dock overhauls and regulatory compliance spending. Genesis must reinvest continuously to maintain assets and preserve market position. This creates tension between maintaining the high distributions that attract [MLP](/wiki/mlp-stock/) investors and funding growth or resilience projects.
+Capital intensity is high. Pipelines require ongoing maintenance and integrity programs; vessels need dry-dock overhauls and regulatory compliance spending. Genesis must reinvest continuously to maintain assets and preserve market position. This creates tension between maintaining the high distributions that attract MLP investors and funding growth or resilience projects.
 
 The business is exposed to several distinct risks. Gulf of Mexico production, while recovered from the 2010 Deepwater Horizon disaster, remains subject to hurricanes and geological uncertainties. Refineries and petrochemical plants—major customers—face their own transition pressures as global energy demand patterns shift. The soda ash business risks margin compression from overcapacity or shifts in demand toward synthetic alternatives. Marine transportation is sensitive to fuel costs and global shipping dynamics, including competing routes and alternative modal choices for shippers.
 
@@ -34,7 +34,7 @@ Regulatory change poses another layer of risk. Environmental reviews for pipelin
 
 Genesis occupies a middle position in the energy midstream sector. It is smaller and more specialized than integrated giants like Enterprise Products or Kinder Morgan, both of which operate vast diversified pipeline networks. Genesis's focus on offshore systems gives it distinctive expertise but also concentrates exposure to Gulf of Mexico economics. The soda ash and marine segments are niche assets that do not fit easily into peer-group comparisons, which is both a differentiation and a complication for valuation.
 
-The company's [MLP](/wiki/mlp-stock/) structure affects its competitive and financial profile. MLPs can retain less earnings for growth because they must distribute cash; this limits their ability to fund major [acquisitions](/acquisition/) or expansions without issuing new units. Conversely, the pass-through tax structure appeals to institutional investors—pension funds, insurance companies, and tax-exempt entities—who value the cash distributions and are less sensitive to entity-level tax drag.
+The company's MLP structure affects its competitive and financial profile. MLPs can retain less earnings for growth because they must distribute cash; this limits their ability to fund major [acquisitions](/acquisition/) or expansions without issuing new units. Conversely, the pass-through tax structure appeals to institutional investors—pension funds, insurance companies, and tax-exempt entities—who value the cash distributions and are less sensitive to entity-level tax drag.
 
 ## What to Watch
 

@@ -58,7 +58,7 @@ Emerging markets (India, Brazil, Middle East) offer growth but at lower margins 
 
 Start with the [10-K](/wiki/10-k/), filed annually with the SEC, which breaks out company-operated vs. franchised restaurants, rent revenue, and geographic segment detail. The company reports franchisee profitability only in aggregate ("average unit volumes"), but it is instructive: you can estimate franchisee margin by dividing reported franchisee earnings (in footnotes) by unit count.
 
-Watch [same-store sales](/wiki/same-store-sales/) (a metric the company reports quarterly) to gauge whether the franchise base is thriving or treading water. A decline two quarters running is a warning sign that franchisees are struggling and may lobby for lower rents.
+Watch same-store sales (a metric the company reports quarterly) to gauge whether the franchise base is thriving or treading water. A decline two quarters running is a warning sign that franchisees are struggling and may lobby for lower rents.
 
 Monitor commodity prices—beef, wheat, and cooking oil futures—and watch earnings calls for mentions of "menu price increases" and "franchisee profitability." These are early signals that the company is choosing between absorbing costs itself (bad for margins) or passing them to franchisees (good for corporate, risky for operator retention).
 

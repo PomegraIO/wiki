@@ -33,7 +33,7 @@ The residential cabinetry industry is driven by two primary demand engines. New 
 
 ## Portfolio of brands and channels
 
-MasterBrand operates through a carefully structured portfolio of national and regional brands, each targeting specific customer segments and distribution channels. [KraftMaid](/wiki/kraftmaid/), acquired from Masco in 2016, is the premier semi-custom cabinet brand in North America, commanding premium pricing through design flexibility, quality, and brand prestige. The brand serves builders, designers, kitchen and bath dealers, and the broader new construction segment.
+MasterBrand operates through a carefully structured portfolio of national and regional brands, each targeting specific customer segments and distribution channels. KraftMaid, acquired from Masco in 2016, is the premier semi-custom cabinet brand in North America, commanding premium pricing through design flexibility, quality, and brand prestige. The brand serves builders, designers, kitchen and bath dealers, and the broader new construction segment.
 
 Mastercraft-branded cabinets (including Schrock, Shiloh, and others) serve the stock and value segments, competing on cost and availability in home centers. Regional and specialty brands provide additional depth in niche markets and geographic strongholds. This multi-brand architecture allows MasterBrand to serve price-sensitive consumers without diluting the prestige of premium brands, and to maintain separate dealer and retail relationships without conflict.
 
@@ -43,7 +43,7 @@ The [spinoff](/spinoff/) from Fortune Brands in 2023 separated cabinetry from ho
 
 MasterBrand's business is acutely cyclical, tracking new home construction, existing-home sales volume, and residential remodeling spending with tight correlation. Housing starts directly predict builder demand 6-12 months forward. Existing-home sales and home price appreciation drive discretionary remodeling budgets. When mortgage rates are low and home equity is growing, cabinet demand is robust. When rates spike or home values stagnate, remodeling budgets shrink and cabinet orders decline sharply.
 
-Gross margins typically fall in the low-to-mid 30s, benefiting from manufacturing scale, procurement leverage with raw material suppliers, and favorable product mix. Semi-custom and custom segments carry gross margins in the high 30s to low 40s, while stock cabinets run in the high 20s to low 30s. Operating leverage is pronounced: as volume drops in downturns, fixed manufacturing costs, overhead, and logistics networks compress EBITDA and [free cash flow](/free-cash-flow/) sharply. Conversely, during upturns, incremental volume flows through to bottom-line earnings at a multiplied rate.
+Gross margins typically fall in the low-to-mid 30s, benefiting from manufacturing scale, procurement leverage with raw material suppliers, and favorable product mix. Semi-custom and custom segments carry gross margins in the high 30s to low 40s, while stock cabinets run in the high 20s to low 30s. Operating leverage is pronounced: as volume drops in downturns, fixed manufacturing costs, overhead, and logistics networks compress [EBITDA](/ebitda/) and [free cash flow](/free-cash-flow/) sharply. Conversely, during upturns, incremental volume flows through to bottom-line earnings at a multiplied rate.
 
 Price realization and input cost management are critical to profitability. Wood (hardwood, plywood, medium-density fiberboard), hardware (hinges, handles), and labor are material cost drivers. When lumber prices spike or labor costs escalate (as they did during 2021-2023), MasterBrand has demonstrated pricing power in semi-custom and custom channels, where design and customization justify price increases. In stock channels and against lower-cost imported alternatives, pricing discipline is harder to maintain.
 
@@ -53,7 +53,7 @@ MasterBrand's competitive position rests on several legs. Cost leadership throug
 
 Yet the industry is fragmented and competitive. Regional players remain viable in local markets. Imported lower-cost cabinetry from Asia competes directly on price in stock and semi-custom segments. DIY-oriented entrants offering modular, flat-pack, or shipped-to-consumer options attack the low-price segment. A homeowner willing to consider stock over semi-custom, or to shop imported alternatives, introduces price pressure that scale alone cannot fully offset.
 
-The semi-custom segment, where [KraftMaid](/wiki/kraftmaid/) competes, offers a stronger defensible position than stock. Design flexibility, quality consistency, delivery reliability, and designer relationships create switching costs and reduce commoditization. Custom cabinetry, driven by architects, interior designers, and high-end builders, depends more on brand trust, craftsmanship reputation, and service than on price or cost advantage.
+The semi-custom segment, where KraftMaid competes, offers a stronger defensible position than stock. Design flexibility, quality consistency, delivery reliability, and designer relationships create switching costs and reduce commoditization. Custom cabinetry, driven by architects, interior designers, and high-end builders, depends more on brand trust, craftsmanship reputation, and service than on price or cost advantage.
 
 ## Capital intensity and cash dynamics
 
