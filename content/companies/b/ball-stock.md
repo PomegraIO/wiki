@@ -1,0 +1,44 @@
+---
+title: "Ball Corporation (BALL)"
+description: "Ball Corporation is a global manufacturer of metal and plastic containers used for food, beverage, and household products — a packaging company focused on sustainable, recyclable rigid containers and closures."
+keywords:
+  - metal packaging
+  - beverage containers
+  - aluminum cans
+  - sustainable packaging
+  - industrial manufacturing
+handwritten: true
+---
+
+<aside class="wiki-infobox">
+<table>
+<tr><th>Ticker</th><td>BALL (NYSE)</td></tr>
+<tr><th>Founded</th><td>1880, Muncie, Indiana</td></tr>
+<tr><th>Founder</th><td>Frank Ball, Edmund Ball, George Ball, Lucius Ball</td></tr>
+<tr><th>Sector</th><td>Packaging (metal, plastic, glass)</td></tr>
+<tr><th>Core product</th><td>Aluminum and steel cans, plastic bottles</td></tr>
+<tr><th>End markets</th><td>Beverages, food, household chemicals</td></tr>
+<tr><th>Strength</th><td>Vertical integration, recycling infrastructure</td></tr>
+<tr><th>SEC CIK</th><td>0000009389</td></tr>
+</table>
+</aside>
+
+Ball Corporation manufactures rigid metal containers — principally aluminum and steel cans — and plastic bottles used to package beverages, food, and household products. The company is one of the largest packaging manufacturers in the world and has evolved from a small tin-can business in the Midwest into a global supplier serving beverage makers, food producers, and chemical companies across North America, Europe, and Asia. Ball's competitive strength rests on scale (the company operates dozens of manufacturing plants across continents), vertical integration (it owns recycling facilities and has direct relationships with raw-material suppliers), and an increasingly sophisticated pitch around sustainability and the circular economy.
+
+Ball's history stretches back to 1880 when the Ball brothers began making metal cans in Muncie, Indiana. The canning industry was booming — as urbanisation and transportation networks grew, packaged goods became central to commerce. Ball's early advantage was manufacturing efficiency; the company invested in machinery that let it make cans faster and cheaper than rivals. By the early 20th century, Ball was one of the largest can makers in America. The company diversified over time, making glass jars, then plastic containers, and acquiring competitors and related manufacturers to expand its geographic footprint and product range. A series of transformative acquisitions in the late 1990s and 2000s — including the purchase of Schmalbach-Lubeca (a European can manufacturer) and Rexam (a massive global packaging company) — made Ball one of the very few truly global packaging players.
+
+The core business is straightforward: a beverage brand like Coca-Cola or a craft brewery needs cans or bottles to hold its product. Ball manufactures those containers at scale. The company negotiates a price per unit with the customer (often a large, sophisticated buyer like a major brewery or soft-drink bottler), then manufactures and delivers the containers. Revenue is driven by volume — how many cans or bottles the company ships — and by the price per unit, which fluctuates based on raw-material costs, supply-demand balance, and competitive dynamics. A beer maker might order millions of cans; Ball manufactures them on dedicated production lines, which run 24/7 to minimize downtime and cost. The business is capital-intensive (a can-making line is expensive) and labour-intensive (the company operates factories across the world, employing thousands).
+
+Ball's revenue breaks down into two main segments: beverage containers (the dominant segment) and food and aerosol containers (smaller but still substantial). Within beverage containers, aluminum cans account for the largest share, followed by plastic bottles and steel cans. Aluminum cans dominate in beer, energy drinks, and soft drinks because they are lightweight, recyclable, and consumers are familiar with them. Plastic bottles dominate in bottled water and juice. Steel cans are niche but durable for certain applications. The geographic split is roughly 40% North America, 40% Europe, and 20% rest of world, reflecting Ball's investment in expanding globally.
+
+The financial model is relatively simple but has important nuances. Gross margins are dependent on raw-material costs — aluminum and steel prices fluctuate with global commodity markets. When aluminum is expensive, Ball's input costs rise, and the company either absorbs the cost or passes it on to customers via price increases. Large customers often have pass-through clauses in their contracts, meaning if aluminum spikes, the price Ball charges them also rises; smaller customers may not have those protections, so Ball absorbs cost swings. This makes the business sensitive to commodity cycles. In periods of falling metal prices, Ball's margins can expand; in periods of rising prices, margins compress unless the company can quickly raise prices to customers.
+
+Operating leverage is another key dynamic. Ball's manufacturing plants are large, expensive, and designed to run continuously. If a plant is running at 85% capacity, fixed costs are spread across more units and margin expands. If capacity utilization drops to 60%, margin contracts sharply. This creates a strong incentive to chase volume and win market share, because bringing a plant from 70% to 80% capacity can meaningfully improve profitability. It also creates vulnerability during downturns — if beverage consumption declines (as happened during COVID lockdowns, initially), Ball's plants suddenly have excess capacity, and profit can evaporate even if the company maintains its cost structure.
+
+A critical evolution in Ball's business is sustainability and recycling. Aluminum is infinitely recyclable — melting down a used can to make a new one uses about 5% of the energy required to make virgin aluminum. Governments worldwide are imposing regulations on packaging waste and pushing for higher recycling rates. Ball has invested heavily in recycling infrastructure, owns recycling plants, and is positioning itself as the preferred packaging partner for brands that want to make sustainability claims. This is both a marketing strategy and a genuine supply-side advantage: owning recycling capacity gives Ball supply security for recycled aluminum, which can be cheaper and more energy-efficient than virgin metal. Some beverage makers are now willing to pay a premium for recycled-content cans, and Ball's recycling infrastructure is an asset competitors cannot easily replicate.
+
+The competitive landscape includes two other large global packaging manufacturers, Ardagh Group and Crown Holdings, along with many regional and specialty players. Competition is fierce on price and service, and customers like Coca-Cola leverage their buying power to demand low prices and high service levels. Differentiation is limited — a can made by Ball is functionally identical to one made by Ardagh or Crown — so competition often comes down to price, reliability of supply, and geographic footprint. Ball's scale gives it advantages in cost and distribution, but it does not protect the company from price pressure or from the risk that a large customer will backward-integrate or switch suppliers.
+
+The biggest pressure on Ball's business is the shift toward alternatives. Some beverage companies are experimenting with glass, paper-based, or refillable containers. Plastic is under attack from environmental concerns and regulatory scrutiny. Energy drinks and premium beverages are shifting toward cans, while soft drinks are holding steady or declining in consumption in developed markets. A long-term decline in soda consumption would pressure demand for soft-drink cans. Conversely, the growth of hard seltzers and craft beverages — which historically come in cans — has been a tailwind. The company is also exposed to broader economic downturns, in which beverage consumption can soften and customers may reduce orders.
+
+To research Ball, start with the 10-K (SEC CIK 0000009389), which breaks revenue by geography and customer type. Watch for exposure to any single customer — large beverage makers like Coca-Cola or Anheuser-Busch account for meaningful slices of revenue. The company's disclosures about raw-material pass-through clauses matter, because they determine how much commodity-price volatility flows through to profit. Monitor gross margins and capacity utilization in earnings calls; these are leading indicators of pricing power and volume trends. The company's capital-spending plans and M&A activity reveal management's confidence in growth. Finally, track the recycling business and sustainability initiatives — these are becoming competitive differentiators and could ultimately be sources of pricing power or margin expansion if brands are willing to pay for sustainability.

@@ -1,0 +1,33 @@
+---
+title: "Vicor Corporation (VICR)"
+description: "Vicor designs and manufactures power conversion and management devices used in data centers, telecommunications, military systems, and electric vehicles, with expertise in high-density power delivery."
+keywords:
+  - power conversion
+  - power management
+  - data center power
+  - semiconductor power
+  - power modules
+  - electrical infrastructure
+  - AI infrastructure
+handwritten: true
+---
+
+Vicor sits in the plumbing layer of modern electronics. The company makes power converters and power management modules—dense, efficient devices that take electricity from a source and convert it to the precise voltage and current needed by downstream equipment. Data-center operators, telecommunications companies, military contractors, and electric-vehicle makers buy Vicor modules to distribute power reliably through their systems. The business is capital-intensive, requires deep expertise in magnetics and power electronics, and has found strong tailwinds in recent years as cloud computing, artificial intelligence infrastructure, and electrification have all driven demand for efficient, space-saving power solutions.
+
+Vicor's core business is the design and manufacture of modular power converters. A typical module is roughly the size of a thick paperback book and converts AC wall power (or a DC intermediate bus) into the specific voltages needed by servers, routers, battery-management systems, or military equipment. The modules are rated by input voltage, output voltage, power capacity, and density—how much power can be delivered per cubic inch. Density matters because it translates to space and cooling efficiency in systems where every inch counts. A data-center operator can pack more compute per rack if the power modules are smaller and more efficient. That efficiency advantage is what justifies paying a premium to Vicor over commodity power-supply manufacturers.
+
+Vicor operates in a market segmented by application and geography. Data centers (particularly hyperscalers like Amazon and Microsoft building out cloud and AI infrastructure) are the largest customer segment and represent the highest-growth opportunity. Telecommunications infrastructure (cell-tower power supplies, network equipment) is a mature, stable segment. Military and aerospace applications are smaller but high-margin and long-contract, creating revenue predictability. Electric vehicles and automotive systems are an emerging segment that many in the industry see as transformational. Battery management in electric vehicles requires efficient power conversion across multiple voltage domains, and Vicor is positioned to capture share as EV production scales.
+
+The architecture of modern data centers has pushed power-delivery challenges upstream. Historical designs used large, centralized power supplies at the rack level. Modern designs—particularly those serving AI clusters with high per-unit power consumption—require distributed, modular power solutions that can be placed closer to the actual compute loads. That shift plays directly to Vicor's strengths. Efficiency also matters more than ever: a large data center consuming megawatts of power can justify spending more on power modules if those modules shave even a few percentage points off overall system power loss, because that saving compounds across thousands of devices and millions of kilowatt-hours per year.
+
+Competitors are diverse. Large industrial-power manufacturers like Eaton and Schneider Electric compete in the power-management space but typically at larger scale. Semiconductor companies like Texas Instruments and Analog Devices make power-management chips but not integrated modules. Boutique competitors like Artesyn (now part of Advanced Energy) and GE's power-conversion business compete directly. Chinese manufacturers have entered the market and undercut on price in commodity segments, but Vicor's focus on high-density, high-efficiency modules has insulated the company somewhat from pure price competition. The barrier to entry is technical expertise and manufacturing capability—not a moat, but a meaningful hurdle.
+
+Vicor's financials are tied closely to capital-expenditure cycles in data centers and telecom. When hyperscalers are building out capacity aggressively (as has been the case during the cloud-computing and AI infrastructure buildout), demand for power modules spikes. When capex cycles cool, Vicor's revenue can dip. The company is not immune to semiconductor-industry cyclicality either—power electronics depend on semiconductor manufacturing, and any disruption in chip supply affects Vicor's ability to build products.
+
+Margins vary by segment and product. High-reliability applications (military, aerospace) command strong pricing and margins. Data-center power modules compete more aggressively on price but benefit from high volume. The company carries inventory risk: if a customer forecasts demand that does not materialize, Vicor is stuck with unsold modules. That happened during COVID-related supply shortages and subsequent corrections, making inventory management critical to profitability.
+
+The recent pivot toward AI infrastructure has been a structural tailwind. AI clusters consume more power per unit of compute than traditional workloads, requiring denser, more sophisticated power distribution. Vicor's expertise in high-density power conversion positions it well to capture that demand. However, the company is also dependent on the continued investment trajectory of cloud and AI infrastructure—if spending slows, growth slows with it.
+
+Vicor operates facilities in the US, Europe, and Asia, with manufacturing in multiple locations to manage supply-chain risk. The company does contract with partners for manufacturing as well, balancing owned capacity against flexibility. Supply-chain concentration in semiconductors and magnetics creates exposure to broader industry disruptions.
+
+For research, start with the 10-K (SEC CIK 0000751978) and track revenue by segment—data-center power, telecom, military, automotive. Watch gross margins as an indicator of pricing power and manufacturing efficiency. Monitor the backlog and any color on customer demand in the coming quarters. Data-center power growth is the most material trend to follow; if hyperscalers are pulling back on capex, that will flow through quickly to Vicor's revenue. The quarterly calls reveal more color on customer concentration and forward bookings. Nothing here constitutes investment advice; power-conversion companies are exposed to capital-equipment cycles and customer demand patterns that shift with macroeconomic conditions and technology adoption.
