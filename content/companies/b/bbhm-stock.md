@@ -1,0 +1,29 @@
+---
+title: "BBH Select Mid Cap ETF (BBHM)"
+description: "BBHM is an exchange-traded fund focused on mid-size US companies with strong fundamentals and balance sheets, offering exposure to the segment of the market between mega-cap leaders and smaller, more volatile companies."
+keywords:
+  - mid-cap stocks
+  - company size
+  - ETF
+  - US equities
+  - fundamental quality
+handwritten: true
+---
+
+The middle of the stock market is often overlooked. Investors tend to fixate on the very largest companies — the mega-cap names that dominate the news and drive major indices — or they hunt for small speculative bets that might run from pennies to dollars overnight. The middle, occupied by mid-size publicly traded companies with market capitalizations in the tens of billions of dollars, receives less attention despite being one of the most interesting segments of the market.
+
+The BBH Select Mid Cap ETF (ticker: BBHM) is built for investors who recognize that opportunity. It holds shares of several hundred mid-cap US companies that exhibit strong business fundamentals: reliable profitability, conservative balance sheets, and the ability to generate cash without burning through capital. Mid-cap stocks have historically occupied a sweet spot — larger and more stable than small caps, yet with more room to grow than the mega-cap giants. BBHM targets the most financially sound segment of this middle tier, applying the same quality-focused filtering philosophy that defines its larger-cap sibling, BBHL.
+
+The appeal of mid-caps is rooted in economic reality. A company with a market capitalization of, say, thirty billion dollars is not tiny, but it also typically commands less analyst attention and less ownership by massive institutional index funds than a three-trillion-dollar behemoth. This can create genuine inefficiency — the market sometimes misprice mid-cap securities simply because fewer eyes are watching. It can also create opportunity: a well-run mid-cap company that grows into its potential can deliver returns that would be impossible for a mega-cap whose growth is constrained by sheer size.
+
+Mid-cap stocks are also less stable than large-caps. Their earnings can be volatile, their competitive moats can be shakier, and a single bad quarter or failed product launch can cause the stock to move sharply. This volatility is both a risk and an attraction. It is a risk because it means uncertainty — you must tolerate larger short-term swings in your investment. It is an attraction because the market compensates for that risk over the long term with higher average returns. An investor willing to sit through a twenty or thirty percent drawdown is likely to end up richer than one who insists on the stability of blue-chip names alone.
+
+BBHM addresses this tension by focusing on the highest-quality mid-cap companies — those that have proven they can generate strong returns on invested capital despite operating at a smaller scale. The filtering process eliminates the more speculative end of the mid-cap spectrum and creates a portfolio of companies that are growing but also economically sound. This makes mid-cap exposure more accessible to investors who are not comfortable with the inherent volatility of typical mid-cap indices but still want the growth potential the segment offers.
+
+The universe of mid-cap companies is diverse. It includes regional banks, specialty manufacturers, niche software firms, healthcare service providers, retail companies, and a host of others. Unlike the mega-cap world, where a few technology firms dominate, mid-caps are spread across many sectors. This breadth means that mid-cap returns are less driven by the fate of a handful of giant companies and more reflective of broad-based economic health. When the broader economy expands, mid-caps often expand with it. When the economy contracts, mid-caps often contract too, sometimes more sharply. But over full market cycles, mid-cap returns have historically matched or exceeded the returns of larger companies, despite their higher volatility.
+
+The cost structure of BBHM is important. The fund charges an expense ratio comparable to other quality-filtered index funds, well below the two to three percent typical of actively managed mid-cap funds. This cost discipline matters because mid-cap active managers frequently underperform their benchmarks net of fees. By offering quality-filtered mid-cap exposure at a low cost, BBHM captures the benefit of the selection philosophy without the drag of expensive active management.
+
+Owning BBHM is a statement about where growth lives in the market. It says that the investor believes some of the most profitable future gains will come not from the mega-cap names that have already grown to their present scale, but from companies operating at a more intermediate size where there is still room to expand, consolidate, and increase profitability. It is a bet on the thesis that quality matters — that companies with strong balance sheets and proven profitability are safer and more rewarding holdings than their weaker competitors, even at mid-cap scale where that strength is still being tested by market cycles.
+
+For investors building diversified portfolios, BBHM offers a way to layer mid-cap exposure into the equity allocation without taking on the full volatility of a traditional broad mid-cap index. It is a middle ground: not the rock-solid safety of mega-cap blue chips, but not the wild speculation of penny stocks either. It is the market's actual middle, filtered for the companies that are proving they have the cash generation and balance-sheet discipline to last through cycles and thrive.

@@ -1,0 +1,26 @@
+---
+title: "Franklin Crypto Trust (EZPZ)"
+description: "Franklin Crypto Trust is a holding vehicle for cryptocurrency assets, allowing shareholders to gain exposure to digital currencies through traditional equity structure rather than direct crypto custody."
+keywords:
+  - cryptocurrency portfolio
+  - multi-asset crypto
+  - franklin templeton
+  - crypto trust
+  - digital asset holding
+---
+
+> "A fund whose only job is to own crypto on behalf of people who do not want to own the infrastructure."
+
+Franklin Crypto Trust holds a portfolio of cryptocurrencies and maintains that portfolio in professional custody on behalf of its shareholders. The fund is sponsored by Franklin Templeton, a large traditional asset manager that entered the cryptocurrency market by building custodial infrastructure and trust vehicles to serve institutional clients and retail investors who wanted digital asset exposure without operating their own wallets or exchanges. The trust converts cryptocurrency ownership into equity shares that trade on traditional stock exchanges, settling through conventional clearing systems.
+
+The fund's charter typically permits it to hold Bitcoin, Ethereum, and potentially other cryptocurrencies selected by Franklin Templeton's investment committee. The mix of assets is managed to a stated allocation. Unlike single-asset trusts that hold only one cryptocurrency, the Franklin trust offers diversification across multiple digital assets in a single position. That diversification reduces the idiosyncratic risk of betting on any single token's success and gives Franklin some flexibility to rebalance as markets move.
+
+Franklin Templeton brought significant operational and regulatory pedigree to the cryptocurrency trust space. The company already operated large custodial operations for traditional assets, managed billions in client assets, and had established relationships with regulators. When Franklin entered crypto holdings, it brought that institutional infrastructure to bear. The fund publishes regular audit reports and net asset value disclosures. It maintains custody relationships with specialized digital-asset custodians, often using multi-signature vaults and other advanced security practices developed in the crypto industry itself.
+
+The primary benefit to shareholders is accessibility. Owning Bitcoin and Ethereum directly means navigating cryptocurrency exchanges, setting up accounts, managing authentication and private keys, understanding custody options, and handling the operational complexity that surrounds digital assets. For institutional investors and large portfolios, this is manageable but still a burden. For retail investors, it is often a barrier. The Franklin trust removes that burden. An investor with a brokerage account can buy shares as they would any equity security. The shares settle through conventional clearing. Franklin handles everything else. The cost is the fund's expense ratio, which accumulates over time.
+
+The fund's performance is driven entirely by the prices of the underlying cryptocurrencies it holds. When Bitcoin and Ethereum rise, the fund's shares rise. When they fall, the shares fall. The fund does not generate yield, dividends, or interest. The only significant fees are the ongoing expense ratio. The shares should trade very close to the fund's net asset value — the underlying crypto holdings per share — because any meaningful divergence would create an arbitrage opportunity that market participants would exploit. Temporary small premiums and discounts can occur, but they tend to correct quickly.
+
+Risks to consider include the operational and regulatory risks that Franklin faces as custodian and as a registered investment company. If Franklin encountered serious legal or operational problems, the trust's status could be affected. There is also concentration risk if the fund holds a large fraction of its assets in one or two cryptocurrencies. The fund's success also depends on continued adoption and price appreciation of the cryptocurrencies it holds. If Bitcoin and Ethereum stagnate or decline, the fund's value declines with them. And because these are digital assets without the traditional business fundamentals of operating companies, the price action depends more on sentiment, adoption trends, and macroeconomic factors than on earnings or cash flow.
+
+For someone researching the Franklin Crypto Trust, the starting points are the fund's prospectus and audit reports, which detail the asset holdings, allocation strategy, and fee structure. Track the net asset value disclosures over time to see how the underlying cryptocurrency positions have moved. Compare the share price to the net asset value to gauge whether a premium or discount has emerged. Research the current state of Bitcoin and Ethereum adoption, which are the primary drivers of fund performance. And be clear that this is a bet on cryptocurrency price appreciation, not on a profitable business or a traditional asset class with earnings and cash flow.

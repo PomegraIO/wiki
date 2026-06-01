@@ -1,0 +1,27 @@
+---
+title: "Global X S&P 500 Catholic Values ETF (CATH)"
+description: "An S&P 500-tracking ETF that applies Catholic social teaching as a values filter, excluding companies involved in contraception, abortion, weapons, gambling, and those with material labor or human-rights concerns."
+keywords:
+  - values investing
+  - Catholic principles
+  - S&P 500 filter
+  - ethical screening
+  - socially responsible investing
+handwritten: true
+---
+
+*The **Global X S&P 500 Catholic Values ETF (CATH)** answers a practical question: what does an S&P 500 portfolio look like if you remove companies whose practices conflict with Catholic teaching? The answer is a fund of roughly 350 to 400 large-cap US stocks — not radically different from the broad index, but with notable gaps.*
+
+The screening criteria are explicit and rooted in the US Conference of Catholic Bishops' Socially Responsible Investment Guidelines. Companies are excluded if they manufacture weapons or defence systems, operate casinos or gambling enterprises, produce tobacco or alcohol beverages, are involved in abortion or contraception services or products, or have documented material violations of labor standards or human rights. A company with involvement in fossil fuels stays in the fund unless it also carries a human-rights or labour issue. A pharmaceutical company passes unless it produces contraceptives. A financial services firm is included unless it funds abortion. The screening is rules-based and published, which means the exclusion list is knowable and reproducible.
+
+The practical outcome is a portfolio that looks familiar. The mega-cap technology holdings — Apple, Microsoft, Nvidia, Meta, Alphabet — mostly sail through. Consumer names like Procter and Gamble, Coca-Cola, and Costco clear the bar. Financial services companies and healthcare names without controversial products remain in the fund. The exclusions matter and create real gaps: Boeing and Lockheed Martin are gone entirely because of defence manufacturing. Energy companies with poor labour records miss the cut. Consumer staples companies in alcohol and tobacco are out. The largest impact is in sectors like weapons, fossil fuels with human-rights problems, and legal gambling — entire industries or large chunks of sectors vanish.
+
+Yet because the bulk of S&P 500 value and earnings comes from technology, healthcare without contraceptives, financial services, and consumer names, the portfolio retains most of the index's economic weight. The exclusions are material but they are not the entire market. This creates an interesting pattern: CATH and a plain S&P 500 fund typically have significant overlap in their largest holdings and sector tilts, but with meaningful differences in their tail holdings and their exposure to defence, energy, and sin stocks.
+
+Global X executes the fund as a standard exchange-traded fund, holding actual stocks and trading them throughout the day. The expense ratio is modest for a screened product — higher than a plain index ETF but competitive with other values-based or ESG-focused equity funds. Dividends flow through as normal, and the fund's yield typically clusters near the broader index's yield because many of the same dividend-paying companies remain. Liquidity is strong; the fund trades with tight spreads and has substantial assets under management.
+
+The screening process itself is not mechanical. While the criteria are published and the exclusions are defensible, applications at the margin require human judgment. A company transitioning away from a controversial business may remain excluded for a period, then be re-evaluated. A company with a subsidiary in a problematic business faces a decision: is that material enough to exclude the whole company? The manager makes these calls, which introduces discretion alongside the rules. This is a feature for those who trust the manager's judgment and want evolving assessment as companies change; it is a drawback for those who want mechanical, predictable screening with no manager judgment.
+
+The trade-off is clear. CATH delivers US large-cap equity exposure minus the holdings the investor finds ethically objectionable, but it does not deliver any performance advantage from that choice. Returns depend on how the broader market values the excluded sectors versus the included ones. In periods when defence stocks surge or energy companies soar on geopolitical tensions, CATH lags because those sectors are gone. In periods when defensive mega-cap tech dominates, CATH may keep pace or slightly outperform because it holds many of the same names. Over full market cycles, no consistent return premium or penalty has emerged — you are not rewarded for virtue, nor punished, but instead experience market returns minus whatever the excluded companies would have contributed.
+
+For a reader evaluating CATH, the comparison is straightforward. Obtain the list of excluded companies and sectors from Global X. Plot CATH's performance against a plain S&P 500 fund over several years, noting periods when the gap widens or narrows. Ask yourself: do I feel genuine discomfort owning the excluded companies? Or am I primarily interested in diversified returns? If your answer is the former, CATH delivers the alignment you seek. If it is the latter, a lower-cost S&P 500 index fund is the better choice.

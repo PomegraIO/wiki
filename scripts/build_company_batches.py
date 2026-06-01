@@ -102,14 +102,18 @@ def tier_for(rank: int) -> tuple[str, str]:
             "A thin business honestly has less to say — do not pad it.")
 
 
-def load_sec() -> list[dict]:
-    d = json.load(open(SEC, encoding="utf-8"))
+def load_sec(source: str = SEC) -> list[dict]:
+    d = json.load(open(source, encoding="utf-8"))
     out = []
     for v in d.values():
         t = str(v["ticker"]).strip()
-        if t:
-            out.append({"ticker": t, "cik": str(v["cik_str"]).zfill(10),
-                        "name": v["title"].strip(), "slug": slugify_ticker(t)})
+        if not t:
+            continue
+        cik_raw = str(v.get("cik_str", "")).strip()
+        cik = cik_raw.zfill(10) if cik_raw and cik_raw not in ("0", "0000000000") else ""
+        out.append({"ticker": t, "cik": cik,
+                    "name": v["title"].strip(), "slug": slugify_ticker(t),
+                    "is_etf": bool(v.get("is_etf", False))})
     return out
 
 
@@ -124,14 +128,24 @@ def all_slugs_on_disk() -> list[str]:
                    if not os.path.basename(p).startswith("_")})
 
 
-def build_plan(n: int) -> list[dict]:
+ETF_DEPTH = (
+    "~500–900 words — profile the FUND, not a company. A broad, flagship or "
+    "strategy-defining fund can run longer; a narrow single-stock or "
+    "leveraged/inverse product honestly has little to say — keep it tight and "
+    "specific to what THIS fund tracks. Never pad, never invent holdings or returns."
+)
+
+
+def build_plan(n: int, source: str = SEC) -> list[dict]:
     have, seen, plan = existing_slugs(), set(), []
-    for r in load_sec():
+    for r in load_sec(source):
         if r["slug"] in have or r["slug"] in seen:
             continue
         seen.add(r["slug"])
         rank = len(plan)
         tier, tier_desc = tier_for(rank)
+        if r.get("is_etf"):
+            tier, tier_desc = "etf", ETF_DEPTH
         letter = first_letter(r["slug"])
         plan.append({**r, "rank": rank,
                      "dir": f"{REPO_ROOT}/content/companies/{letter}",
@@ -145,13 +159,28 @@ def build_plan(n: int) -> list[dict]:
 def prompt_for(batch_no: int, rows: list[dict]) -> str:
     assignments = []
     for r in rows:
+        kind = ("Exchange-traded product (ETF/ETN) — profile it as a FUND, not an "
+                "operating company") if r.get("is_etf") else "Operating company"
+        cik_line = f"\n- **SEC CIK:** {r['cik']}" if r.get("cik") else ""
         assignments.append(
             f"""### {r['name']} ({r['ticker']})
 - **File to create:** `{r['dir']}/{r['slug']}.md`
-- **SEC CIK:** {r['cik']}
+- **Type:** {kind}{cik_line}
 - **Depth:** {r['tier_desc']}
 - **Shape to use:** {r['shape']}""")
     assignments_str = "\n\n".join(assignments)
+    has_etf = any(r.get("is_etf") for r in rows)
+    etf_block = (
+        "\n\n# Fund ingredients (for any assignment marked ETF/ETN — NOT the company set)\n"
+        "What the fund is and what it tracks or holds (the index, theme, sector, or "
+        "single underlying) · its objective and strategy · the issuer/sponsor and "
+        "structure (plain ETF vs leveraged/inverse/ETN, and the daily-reset mechanics "
+        "if leveraged) · costs and how it trades (expense ratio qualitatively, liquidity) "
+        "· the real risks (tracking error, volatility decay for leveraged/inverse, "
+        "concentration) · who it is for and how a reader would research it (the "
+        "prospectus/fact sheet, the underlying index). Do NOT write about 'segments', "
+        "'how it makes money', or a 10-K — a fund has none of those."
+    ) if has_etf else ""
     return f"""You are a financial writer creating evergreen company profiles for the
 Pomegra Wiki (a reader-friendly encyclopedia at https://pomegra.io/wiki/).
 Write {len(rows)} company profiles — one file each, exactly as assigned below.
@@ -198,7 +227,7 @@ profiles, and this batch versus the others, do not converge on one shape.
 What it is and its sector (early) · origin / history · how it makes money
 (segments, what's recurring) · what makes it distinctive (moat, competition) ·
 pressures and risks · how a reader would research it (10-K, what to watch).
-Arrange however the company and the chosen shape call for.
+Arrange however the company and the chosen shape call for.{etf_block}
 
 # Cross-links — DO NOT ADD ANY
 Write plain prose with NO markdown links at all. The orchestrator runs
@@ -222,29 +251,39 @@ reply with the list of file paths you created.
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--n", type=int, default=1000)
+    ap.add_argument("--source", default=SEC,
+                    help="ticker universe JSON (default company_tickers; "
+                         "use _sec_tickers_expanded.json for the ETF wave)")
+    ap.add_argument("--batch-dir", default=BATCH_DIR,
+                    help="output dir for bNNN.md prompts (use a SEPARATE dir to "
+                         "run a wave alongside another without clobbering it)")
+    ap.add_argument("--plan", default=PLAN)
+    ap.add_argument("--allow", default=ALLOW)
     args = ap.parse_args()
 
-    plan = build_plan(args.n)
-    json.dump(plan, open(PLAN, "w", encoding="utf-8"), indent=2)
+    batch_dir = args.batch_dir
+
+    plan = build_plan(args.n, args.source)
+    json.dump(plan, open(args.plan, "w", encoding="utf-8"), indent=2)
 
     allow = all_slugs_on_disk()
     planned = sorted(r["slug"] for r in plan)
     full = sorted(set(allow) | set(planned))   # include slugs that WILL exist
-    open(ALLOW, "w", encoding="utf-8").write("\n".join(full) + "\n")
+    open(args.allow, "w", encoding="utf-8").write("\n".join(full) + "\n")
 
-    os.makedirs(BATCH_DIR, exist_ok=True)
-    for old in glob.glob(os.path.join(BATCH_DIR, "*.md")):
+    os.makedirs(batch_dir, exist_ok=True)
+    for old in glob.glob(os.path.join(batch_dir, "*.md")):
         os.remove(old)
     batches = [plan[i:i + PER_BATCH] for i in range(0, len(plan), PER_BATCH)]
     for i, rows in enumerate(batches):
-        open(os.path.join(BATCH_DIR, f"b{i:03d}.md"), "w", encoding="utf-8").write(
+        open(os.path.join(batch_dir, f"b{i:03d}.md"), "w", encoding="utf-8").write(
             prompt_for(i, rows))
 
     print(f"planned companies: {len(plan)}")
-    print(f"batches of {PER_BATCH}: {len(batches)}  -> {BATCH_DIR}/bNNN.md")
-    print(f"allowlist slugs:   {len(full)}  -> {ALLOW}")
-    print(f"tier split: major={sum(1 for r in plan if r['tier']=='major')}, "
-          f"ordinary={sum(1 for r in plan if r['tier']=='ordinary')}")
+    print(f"batches of {PER_BATCH}: {len(batches)}  -> {batch_dir}/bNNN.md")
+    print(f"allowlist slugs:   {len(full)}  -> {args.allow}")
+    from collections import Counter
+    print(f"tier split: {dict(Counter(r['tier'] for r in plan))}")
     print(f"batch 000 covers: " + ", ".join(r['ticker'] for r in batches[0]))
     return 0
 

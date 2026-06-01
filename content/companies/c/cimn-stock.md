@@ -1,0 +1,35 @@
+---
+title: "Chimera Investment Corp (CIMN)"
+description: "A mortgage REIT earning income from residential mortgage assets financed with borrowed capital, with returns driven by interest-rate spreads and credit management."
+keywords:
+  - mortgage REIT
+  - residential mortgages
+  - mortgage-backed securities
+  - capital structure
+  - net interest margin
+handwritten: true
+---
+
+**The core trade.** Chimera buys mortgages and mortgage-backed securities, funds them with debt, and captures the spread. The spread has been the whole story for nearly two decades. In 2010–2021, the spread was fat and credit was calm. The company printed money. Since 2022, the spread has compressed and volatility has spiked. Results have suffered. The model has not changed; the environment has.
+
+**Portfolio construction.** The company holds roughly 35% agency RMBS (government-backed, minimal credit risk, thin yields of 4–5%), 55% securitized whole loans (mortgages the company originates or acquires and bundles for sale, yields of 6–7%), 5% non-agency RMBS (higher risk, higher yield), and 5% mortgages held for sale. This mix reflects a strategic tilt: away from pure portfolio investing (buy and hold mortgage bonds) and toward origination and securitization (generate fees from the mortgage-making process itself). The HomeXpress acquisition in 2025 turbocharges this shift. The company now has a captive originator feeding its securitization machine, turning what was a pure passive investment strategy into an active manufacturing business.
+
+**Leverage and its costs.** Chimera funds 80–85% of assets with debt, keeping 15–20% equity. That 5-to-7x leverage ratio amplifies returns on the spread. A 100 basis point spread on a 5x levered book becomes a 5% return on equity. But this math works both ways. A 50 basis point spread becomes 2.5%; a 0 basis point spread generates losses. When rates rose from 2021–2023 and spreads compressed, the return profile deteriorated faster than headline earnings suggested. The company tightened leverage, reduced non-agency exposure, and defended the dividend. Smart moves in hindsight; expensive in real time.
+
+**Interest-rate risk management.** The company uses interest-rate swaps, swaptions, and caps to hedge some of its duration risk. These are not free; hedging costs 20–50 basis points in a normal environment and more in stressed markets. A company with perfect hedges would be flat on rates; Chimera is never flat. It takes a view. In 2020–2021, when rates were near zero, the company positioned for higher rates (paid fixed on swaps to capture upside). That bet paid off when rates rose. Since then, the company has been more defensive, hedging to limit the downside if rates spike again. The hedging book is always a work in progress and always imperfect.
+
+**Prepayment speeds as a margin variable.** When rates fall, borrowers refinance at lower rates. Chimera's high-yielding mortgages get paid off and replaced with low-yielding ones. This is an invisible tax on the spread. When rates rise, prepayment slows and mortgages stay on the books longer, preserving the high yield. So counterintuitively, rising rates are good for Chimera (they widen the spread and slow prepayment) while falling rates are bad (they compress the spread and accelerate prepayment). This dynamic means Chimera's returns are somewhat hedged by rising-rate scenarios—a feature for income investors but a drag on upside if rates fall.
+
+**Credit quality and realized losses.** Agency mortgages have zero credit risk; Fannie Mae is on the hook. Non-agency mortgages do not. The company holds a mix of both. In its non-agency and whole-loan portfolios, Chimera sets aside reserves for expected credit losses and monitors loan performance quarterly. In a recession, default rates rise and those reserves get depleted. Chimera has weathered several rate cycles and two recessions since its founding; credit losses have been manageable but real. A severe downturn would test the company's credit reserves and could force asset sales at unfavorable prices.
+
+**The origination shift and what it means.** For its first decade, Chimera was a portfolio REIT: buy mortgages, hold them, collect the spread. Starting in 2020, it began acquiring origination platforms (dealers, loan officers, technology). The HomeXpress deal accelerated this. Now the company originates mortgages (especially non-QM loans for self-employed and non-traditional borrowers), securitizes them, and holds some, sells some. This generates origination fees, gain-on-sale revenue, and servicing income. It also introduces operational complexity and expenses that pure portfolio investing does not require. The mortgage business is labor-intensive. Chimera is learning to manage it.
+
+**Funding sources and stability.** Chimera funds with three buckets: term debt (bonds issued in the capital markets, fixed and floating), repo (short-term secured borrowing rolled daily), and warehouse lines (short-term funding for mortgages in the origination pipeline). Term debt is stable but expensive when rates are high; repo is cheap but can freeze in a crisis; warehouse lines are transitory. The company maintains access to all three. In stress scenarios (like late 2008 or March 2020), repo markets can seize and warehouse lines can be drawn down quickly. Chimera would be forced to liquidate assets or raise capital on unfavorable terms. Risk management here means maintaining enough liquidity buffers and relationships with multiple funding sources.
+
+**Dividend sustainability in a narrowing spread world.** The company is required to distribute 90%+ of taxable income, so the dividend tracks earnings directly. In 2010–2021, earnings were strong and the dividend was fat. Since 2022, spreads have narrowed and so has the dividend. Further compression would force a cut. This is not a discretionary decision; it is a mechanical consequence of the underlying economics. Investors treating Chimera as a "safe dividend stock" are misunderstanding the model.
+
+**What has changed and what has not.** The rate environment changed dramatically starting in 2022. Spreads compressed. The company's book value per share declined sharply. But the fundamental model is intact: earn the spread, manage the risks, distribute the profits. The HomeXpress acquisition adds a new dimension (origination) to the model, but it does not replace the core carry trade. Chimera is still a spread-play REIT; it is just a more complex one now.
+
+---
+
+*Chimera Investment Corp profits from the margin between mortgage yields and funding costs. The business is sensitive to interest rates, prepayment speeds, and credit conditions. It is not a bond-proxy; it is a levered financial bet.*

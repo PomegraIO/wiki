@@ -1,0 +1,51 @@
+---
+title: "Federal Home Loan Mortgage Corp (FMCCT)"
+description: "FMCCT is a preferred share in Freddie Mac, representing a subordinated equity claim on the government-backed mortgage machine that processes trillions in home loans across the United States."
+keywords:
+  - freddie mac
+  - preferred shares
+  - government-sponsored enterprise
+  - mortgage market
+  - housing finance
+  - preferred equity
+handwritten: true
+---
+
+The American mortgage market is built on a deceptively simple idea: the same person who originates a home loan does not have to hold it for thirty years. Instead, they can sell the mortgage to someone else, recover their capital immediately, and make another loan. This ability to offload risk is what makes housing credit abundant and affordable. But the system requires a buyer for those mortgages — an entity large, stable, and trusted enough to take them on and to park them on its balance sheet or to package them into securities for resale. That entity is Freddie Mac, a government-sponsored enterprise that has been the backbone of the secondary mortgage market since 1970. FMCCT is a preferred share in Freddie Mac, a perpetual claim on the company's profits and capital structure that sits between debt holders and common shareholders.
+
+<aside class="wiki-infobox">
+<table>
+<tr><th>Ticker</th><td>FMCCT (Nasdaq)</td></tr>
+<tr><th>Parent company</th><td>Federal Home Loan Mortgage Corp (Freddie Mac)</td></tr>
+<tr><th>Security type</th><td>Non-cumulative Preferred Stock</td></tr>
+<tr><th>Par value</th><td>$25.00</td></tr>
+<tr><th>Business</th><td>Secondary mortgage market infrastructure</td></tr>
+<tr><th>Founded</th><td>1970</td></tr>
+<tr><th>Conservatorship status</th><td>In conservatorship since 2008</td></tr>
+<tr><th>SEC CIK</th><td>0001026214</td></tr>
+</table>
+</aside>
+
+Freddie Mac was not created by the free market. It was chartered by Congress in 1970 as an answer to a specific problem: the American mortgage market was fragmented and vulnerable. Local banks and savings-and-loan associations held their own mortgages, which meant their entire balance sheet was tied up in illiquid thirty-year loans. When capital was tight, they stopped lending. When interest rates spiked, their portfolios of old mortgages earning low rates became worth less, and some institutions failed. Congress believed that if a single, stable, large entity could step in to buy those mortgages, the market would be more resilient, credit would be more available, and housing would be more affordable.
+
+That entity was Freddie Mac. The mission is public: to support a reliable supply of mortgage funding in all economic conditions. The mechanism is also straightforward: Freddie Mac buys mortgages from lenders, guarantees them against credit default, and sells them to investors in the form of mortgage-backed securities. The lender recovers their capital, Freddie Mac earns a guarantee fee and interest spread, the investor gets a steady stream of mortgage payments, and the homeowner gets to borrow at lower rates because the credit risk has been transferred to a large, stable institution.
+
+The scale is enormous. Freddie Mac and its sister entity, Fannie Mae, together guarantee over seventy percent of all mortgages in the United States. That represents more than five trillion dollars in outstanding obligations. In the abstract, this is a power bestowed by Congress and backed by the implicit — sometimes explicit — backing of the government. Freddie Mac and Fannie Mae are "too big to fail" institutions. The government cannot allow them to actually default, because the collapse would send shockwaves through global credit markets. That implicit guarantee is both Freddie Mac's strength and the reason the government has taken such a paternalistic interest in the company's affairs.
+
+For most of Freddie Mac's history, between 1970 and 2008, the company operated as a quasi-private entity. It had shareholders, it paid dividends, it bought back stock, and it reported earnings like a normal corporation. But in 2008, when the housing market collapsed and mortgage defaults soared, Freddie Mac's losses became so severe that the company's equity capital was wiped out. The Federal Housing Finance Agency stepped in and placed Freddie Mac into conservatorship, a status that persists today. In conservatorship, the government — represented by federal conservators — has operational and strategic control of the company. The conservators decide how much capital to hold, what dividends to pay, how the company should behave in the mortgage market. Shareholders are subordinate to the conservators' judgment.
+
+This status transformed the investment case for anyone holding Freddie Mac shares, whether common or preferred. The company generates enormous cash flow — it is profitable in virtually any environment — but that cash flow is not reliably distributed to shareholders. The common stock, in particular, has been effectively nationalized: no dividend has been paid on common shares since 2008, and Treasury has captured the vast majority of Freddie Mac's earnings. Preferred shares have fared better, typically still receiving their stated dividend, but even that is a privilege granted by the conservators and could be revoked if capital becomes tight.
+
+FMCCT is a Non-Cumulative Preferred Stock, issued in 2010 during the early conservatorship period. It represents a fractional claim on Freddie Mac's capital, with a stated par value of $25 per share and a fixed dividend rate set at issuance. The term "non-cumulative" is critical: it means if Freddie Mac skips a dividend payment, that payment is lost forever and does not accumulate as a debt owed to the shareholder. This is less protective than cumulative preferred, where skipped payments must eventually be made. For the holder of FMCCT, the security is essentially a perpetual floating claim on whatever profits Freddie Mac generates, with no legal right to capital repayment (the par value is a liquidation preference, but Freddie Mac is not liquidating) and no maturity date.
+
+The dividend policy that determines FMCCT's annual income is set by the conservators. They look at Freddie Mac's capital buffer, its earnings, and their assessment of whether the company needs to retain earnings to maintain safety and soundness. So far, preferred dividends have been paid consistently. But that is a policy choice, not a contractual obligation. If regulators decided Freddie Mac needed to preserve more capital, or if another housing crisis emerged, preferred dividends could be suspended. The holder of FMCCT has no contractual remedy and no ability to force payment.
+
+Yet for investors seeking income with some subordinated equity characteristics, FMCCT and other Freddie Mac preferred shares offer genuine yield. The fixed dividend rate for series issued in 2010 and 2011 is typically 5.0% to 5.5% per annum. That is substantially higher than Treasury bonds and higher than most corporate bonds. For investors in a low-interest-rate environment, the yield can be attractive. The catch is that the yield is available only as long as the conservators allow it, and the conservators' incentives are not perfectly aligned with shareholders' interests. The conservators want a stable housing finance system; shareholders want dividend income and eventual capital appreciation. Those are not always the same.
+
+The broader question about Freddie Mac and its preferred shares is what happens when — or if — the company eventually exits conservatorship. The Federal Housing Finance Agency has announced intentions to exit conservatorship and return the company to private operation, but the timeline is undefined and the mechanism is contested. Some restructuring proposals would write down existing preferred and common shares as part of a recapitalization. Others would require the company to raise new capital at dilutive terms to existing shareholders. The common view among legal and financial experts is that common shareholders stand to suffer significant losses, while preferred shareholders might recover some portion of their investment but should not expect to exit unscathed.
+
+For an investor considering FMCCT, the key considerations are: (1) Is the dividend rate sufficient compensation for the risk that it could be suspended or reduced? (2) Can you accept a holding period that might extend indefinitely, with no maturity date and no way to force redemption? (3) How would you react if, as part of a conservatorship exit, Freddie Mac's dividend policy changed materially or your preferred terms were modified? These are uncomfortable questions without clear answers, which is why preferred shares in government-sponsored enterprises under conservatorship carry a risk premium that many investors find unacceptable.
+
+The business that generates Freddie Mac's earnings is, by contrast, quite stable. The company takes in guarantee fees from lenders for every mortgage it buys and guarantees, collects interest on its investment portfolio of mortgage-backed securities and mortgages, and pays out claims when borrowers default (though in normal times defaults are a small percentage of the loan book). In the decades before conservatorship, Freddie Mac was consistently profitable. In conservatorship, it remains profitable, generating tens of billions in annual earnings. The risk to preferred shareholders is not that Freddie Mac is failing — it is not — but that the distribution policy is no longer set by shareholders and remains at the discretion of regulators.
+
+Understanding FMCCT, then, requires understanding both the company that stands behind it and the political and legal cage that surrounds it. Freddie Mac is essential infrastructure. It will not fail. But the terms on which preferred shareholders participate in its earnings remain uncertain and subject to the conservators' judgment. That uncertainty is reflected in the price and yield of shares like FMCCT and is the appropriate tax for the risk.

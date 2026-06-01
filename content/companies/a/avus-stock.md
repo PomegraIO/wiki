@@ -1,0 +1,28 @@
+---
+title: "Avantis U.S. Equity ETF (AVUS)"
+description: "AVUS is a U.S. large- and mid-cap equity ETF with a value tilt, combining broad American stock exposure with a quantitative emphasis on cheaper valuations."
+keywords:
+  - large-cap ETF
+  - value investing
+  - U.S. equities
+  - American Century
+  - factor strategy
+  - mid-cap stocks
+handwritten: true
+---
+
+The Avantis U.S. Equity ETF (AVUS) is an exchange-traded fund holding large and mid-sized U.S. companies, weighted toward those trading at attractive valuations relative to their earnings and assets. It represents a conviction about how markets work: that cheaper stocks, all else equal, deliver better long-term returns than expensive ones, and that a disciplined, systematic approach to capturing that advantage beats trying to time the market or pick individual winners.
+
+The fund holds roughly 1,200 stocks across all major sectors of the American economy. The portfolio includes every household name in the S&P 500 — the 500 largest U.S. companies — plus a meaningful slice of mid-cap companies that have graduated beyond small-cap ranks but are not yet in the S&P 500's top tier. American Century, the fund sponsor, manages AVUS by applying a quantitative value screen to this universe, identifying companies trading at discount prices relative to their profitability, book value, or sales. The effect is that AVUS is never perfectly aligned with the S&P 500's weights; some expensive, high-flying tech companies are underweighted relative to their market size, while cheaper industrial, financial, and energy companies are overweighted.
+
+This value tilt is not a dramatic bet or a radical departure from the broad market. AVUS still owns all the same companies as a passive S&P 500 fund; it just holds them in a different proportion. The top 10 holdings account for roughly 20% of the portfolio, so AVUS is highly concentrated in mega-cap stocks but less so than a pure market-weight fund would be. That concentration still means economic growth, innovation, and the broader trends shaping America get captured, but with a slight countercyclical edge: when the market is euphoric about growth stocks and bids their prices to the sky, AVUS's tilting toward value creates a cushion against the worst downturns when sentiment reverses.
+
+The fund's performance over time depends on whether the value factor actually delivers. In decades when value stocks outperform — roughly the 1990s and the 2000s — AVUS beats a passive index fund by a meaningful margin. In periods when growth stocks dominate — like much of the 2010s and the early 2020s — AVUS lags behind a simple S&P 500 index. Over very long periods, academic research suggests value has offered a premium, though that premium is not guaranteed and may be shrinking as investors and algorithms become more sophisticated at hunting it.
+
+AVUS trades on NASDAQ with excellent liquidity; millions of shares move daily, making the bid-ask spread tight and buying or selling straightforward for investors of any size. The expense ratio is approximately 0.20% per year, a modest cost that reflects the ongoing portfolio analysis and rebalancing required to maintain the value tilt. This fee is well below what an active stock manager would charge, and comparable to other factor-tilted index funds. The fund reinvests dividends unless an investor directs otherwise, compounding returns automatically over time.
+
+Rebalancing happens quarterly, when American Century reorders the portfolio to restore the value characteristics. In practical terms, this means buying stocks that have become cheaper and selling those that have appreciated above their value thresholds. It is an automatic, mechanical process with no forecasting or market timing involved; the fund simply restores its preferred characteristics on schedule. This discipline has both strengths and weaknesses: it ensures the fund does not drift from its mandate, but it also means AVUS will be selling the recent winners and buying the recent losers, a contrarian stance that works well historically but underperforms when one market segment truly separates from the rest.
+
+AVUS suits investors seeking U.S. stock exposure without the extremes of a mega-cap concentration bet, and who believe that cheaper stocks deserve a place in their portfolio. It appeals to those uncomfortable with individual stock picking but interested in capturing the value premium that a century of market history suggests is real. Because the fund owns large and mid-cap companies, it is less volatile than a small-cap fund but less stable than holding Treasury bonds; it is a proper equity holding meant for accounts with a time horizon of at least several years.
+
+Anyone studying AVUS should consult the fund's prospectus and quarterly fact sheet on American Century's website, which detail the exact methodology, holdings, and performance benchmarks. The fund's value metrics — the average price-to-earnings ratio, price-to-book, and price-to-sales across the portfolio — show how aggressively the value tilt is running at any moment. Comparing AVUS's performance against the S&P 500 Index Fund and against the Russell 1000 Value Index (a dedicated value benchmark) reveals whether the factor overlay is adding value relative to its cost. Tracking the fund's sector weightings over time indicates whether it is still positioned toward the market segments likely to benefit from a value approach or whether it has drifted. For long-term holders, an annual review of the largest positions and a spot check of whether they remain undervalued compared to broader market multiples keeps the fund's promise of value exposure transparent and honest.

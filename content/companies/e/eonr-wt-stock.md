@@ -1,0 +1,34 @@
+---
+title: "EON Resources Inc. (EONR-WT)"
+description: "EON Resources acquires and operates oil and natural gas properties in the Permian Basin, including the Grayburg-Jackson and South Justis fields. A small independent producer exposed to oil price cycles and subsurface risk."
+keywords:
+  - oil and gas
+  - Permian Basin
+  - energy production
+  - upstream energy
+  - field operations
+  - commodity price exposure
+handwritten: true
+---
+
+**Founding and early operations.** EON Resources Inc. was founded in 2017 as HNR Acquisition Corp., a blank-check vehicle, and rebranded to EON Resources in September 2024. The company operates as an independent oil and natural gas producer focused on the Permian Basin — specifically the New Mexico shelf, one of the most mature and stable producing regions in the play.
+
+**First acquisition: Grayburg-Jackson Field.** In November 2023, EON closed its initial material acquisition: the Grayburg-Jackson Field in Eddy County, New Mexico, on the Northwest Shelf of the Permian. The field spans approximately 13,700 contiguous acres and includes 342 producing wells, 207 water injection wells, and one water source well. Grayburg-Jackson is a waterflood operation, meaning the company injects treated water into the formation to maintain pressure and displace oil toward production wells — a standard enhanced-recovery method in mature fields that improves ultimate recovery rates but requires significant capital and operational discipline.
+
+**Operational focus and development strategy.** The company's strategy centers on what is called "low-risk, high-return drilling and workover activity" — familiar geologic formations with proven reserves, using known drilling and completion techniques. Rather than drilling in untested territory, EON works within known produces zones in mature fields, targeting incremental recovery. In 2024, the company conducted acid-treatment interventions on 13 wells at Grayburg-Jackson, which increased combined production by approximately 40 barrels of oil per day. Additionally, the company reactivated 27 idle wells, returning them to the sales line. A third workover rig was deployed in July 2024 to accelerate recompletions.
+
+**Reserve assessment and near-term drilling plans.** In February 2025, EON announced completion of a preliminary engineering assessment of the lower San Andres formation at Grayburg-Jackson, identifying an additional estimated 20 million barrels of oil and 16 billion cubic feet of natural gas below the current primary producing interval. The assessment identified 50 potential well locations targeting that deeper zone. At an estimated cost of approximately $3.7 million per well and projected production of 300 to 400 barrels of oil per day per well, the company indicated plans to commence drilling in the first quarter of 2026.
+
+**Second acquisition: South Justis Field.** In June 2025, EON closed a second acquisition: the South Justis Field in Lea County, New Mexico, covering approximately 5,360 contiguous acres with 208 producing and injection wells. The addition broadens the company's core-area position and provides a second operating focus alongside Grayburg-Jackson.
+
+**Revenue model and cost structure.** EON's revenue derives entirely from the sale of crude oil and natural gas at prevailing market prices. Oil production is the dominant cash generator; natural gas is material but secondary. Operating costs include field labor, equipment maintenance, facility costs, and water handling and disposal. Capital expenditures are driven by drilling, well workover, infrastructure upkeep, and wastewater management. As a small independent with shallow-shelf production, the company enjoys relatively low drilling costs compared to offshore or deep-basin operators, but it bears full capital risk if wells underperform assumptions.
+
+**Exposure to oil-price cycles.** The fundamental business risk is commodity exposure. Oil and natural gas prices are set by global supply and demand, geopolitics, inventory dynamics, and macroeconomic conditions — not by company fundamentals. A barrel of oil produced at $40 per barrel (when crude is at $60) generates $20 per barrel in gross profit; the same barrel at $80 crude nets $40 per barrel. Over a two-year period, a 50 percent decline in crude prices can halve EON's cash flow without any change in the company's operational performance. Conversely, a sharp price spike, while raising immediate cash flow, tempts overinvestment and leaves the company vulnerable when prices revert.
+
+**Geologic and operational risk.** Despite the "low-risk" framing, drilling is probabilistic. Wells can underperform type-well assumptions due to unforeseen subsurface heterogeneity, seal failure, or mechanical issues. Waterflood performance depends on maintaining pressure support and managing water-disposal liabilities. Regulatory changes — environmental rules governing produced-water disposal, air emissions, or methane venting — can impose incremental costs without warning.
+
+**Liquidity and balance sheet.** EON is a newly public company with modest asset base and limited independent cash generation history. The company has pursued debt financing to fund acquisitions and operations, indicating reliance on capital markets for expansion. Any sustained decline in crude prices, combined with difficulty accessing debt markets, could constrain the company's ability to execute planned drilling or finance operations.
+
+**Research approach.** Investors analyzing EON Resources should begin with the company's annual report and 10-K filing (SEC CIK 0001842556), which discloses proved and probable reserves, reserve-replacement ratios, and per-unit cash operating costs. Quarterly 10-Q filings report production volumes, realized prices, operating margins, and capital spending. Watch for changes in reserve estimates, which signal whether wells are performing above or below expectations. Operator commentary on well productivity, drilling costs, and development timeline drives near-term expectations.
+
+External factors are equally important: track crude-oil futures prices and natural-gas forwards to model the cash-flow range, monitor regulatory developments affecting Permian operations, and assess broader demand signals from refining margins and strategic petroleum reserve dynamics. For geologically focused analysts, reviewing the company's assessment methodology for the San Andres lower-zone drilling program — auditing well-cost assumptions, decline-rate assumptions, and volumetric risk — is essential to evaluating whether the announced development plan will generate returns consistent with management guidance.

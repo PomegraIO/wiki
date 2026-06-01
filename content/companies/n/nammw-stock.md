@@ -1,0 +1,28 @@
+---
+title: "Namib Minerals (NAMMW)"
+description: "NAMMW is the warrant for Namib Minerals, an African mining company producing gold in Zimbabwe and developing copper-cobalt assets in the Democratic Republic of Congo. Trades on Nasdaq following a 2025 SPAC merger."
+keywords:
+  - African mining
+  - gold production
+  - battery metals
+  - copper cobalt
+  - warrant leverage
+  - mining jurisdictions
+handwritten: true
+---
+
+A gold mining company operating in Zimbabwe and holding exploration permits in the DRC. Namib Minerals came public via SPAC merger in June 2025, trading on Nasdaq under NAMM (common) and NAMMW (warrants). The warrant trades at an exercise price of eleven dollars fifty cents. This profile focuses on the warrant's economics and how to value NAMMW relative to the underlying stock.
+
+**The mining unit economics.** Namib's revenue comes from gold sales — the primary product from operating mines in Zimbabwe. In fiscal 2025, the company produced roughly twenty-five thousand ounces of gold and generated eighty-two point six million dollars in revenue. Adjusted EBITDA was twenty-nine million dollars, a margin of roughly thirty-five percent. That gross-level margin reflects the commodity nature of gold extraction: once the ore is out of the ground and refined, the sale price is set by global markets. What matters is cost of extraction and refining. Namib's costs are relatively low in the Zimbabwe portfolio because the company acquired mines with established infrastructure, then focused on operational improvement rather than greenfield development.
+
+The battery metals strategy is where future unit economics shift. The DRC's Haut Katanga and Lualaba provinces hold vast copper and cobalt reserves. Namib has been granted thirteen exploration permits covering two hundred five square kilometers in areas adjacent to Ivanhoe Mines and Zijin Mining's Kamoa-Kakula complex. The thesis is straightforward: battery metals (copper, cobalt, nickel) face supply constraints as electric-vehicle demand accelerates globally. If Namib can develop its DRC permits into producing mines, the upside in both commodity price and production volume could be substantial. But exploration is capital-intensive and carries geological, political, and permitting risk that gold mining — already producing — does not.
+
+**Warrant leverage and deal mechanics.** NAMMW represents the public warrant component of the Hennessy Capital-SIM Acquisition merger vehicle that brought Namib public. The warrant gives holders the right to buy one common share at eleven dollars fifty cents. If the common trades above strike, the warrant is worth something; if it stays below, the warrant expires worthless on its maturity date. The leverage works both ways. A fifty-cent move in the stock could move the warrant by several times that, depending on proximity to strike and time to expiration. The warrant is a leveraged bet on Namib's ability to execute on two fronts: continue profitable gold mining in Zimbabwe while advancing copper-cobalt development in the DRC.
+
+**The unit economics of exploring versus producing.** Gold mining is a generating business. Revenue pays operating costs, debt service, taxes, and distributions. Exploration, by contrast, is a capital sink. Developing the DRC permits requires drilling, feasibility studies, environmental permitting, and infrastructure investment — all before a single pound of copper or cobalt sells. The company's cash flow from Zimbabwe gold funds some of that, but meaningful development in the DRC likely requires additional capital raise or debt. If capital markets sour on mining equities, NAMMW warrant holders may face dilution: the warrant's intrinsic value becomes proportionally smaller if new shares are issued to fund exploration. The timeline matters. If DRC production is five to seven years away, the warrant may expire before value is realized. The longer-dated the warrant, the more patient you can be.
+
+**On African mining risk.** Both Zimbabwe and the DRC carry political, regulatory, and currency risk that Western miners do not. Zimbabwe has a history of contract modifications and foreign-exchange instability. The DRC is rich in minerals but fragile in governance. Any major shift in those jurisdictions — a change in mining law, a currency crisis, a shift in ownership control — could materially change the economics. Some warrant buyers will see that risk as priced in. Others will view it as tail risk that the market underestimates. The warrant's embedded leverage amplifies that bet.
+
+**Tracking NAMMW's value.** Watch the gold price first — it is the immediate cash driver and shows whether Zimbabwe operations are generating profit or loss. Check quarterly earnings calls for color on DRC development progress: permits awarded, drilling results, capital spending plans. Monitor the warrant's implied volatility relative to the common stock. If NAMMW trades at a large discount to intrinsic value, the market may be doubting the DRC thesis or worried about jurisdiction risk. If it trades at a premium, the market is pricing in meaningful upside.
+
+SEC filings are available under CIK 0002026514. The annual 10-K will detail mine-by-mine production, costs, and reserve estimates. Watch for any announcements of new permits, drilling results, or feasibility studies in the DRC. A successful exploration play becomes a production play only after a reserve estimate is published and capital is committed to building the mine. The warrant's value depends on both events occurring before the warrant expires.

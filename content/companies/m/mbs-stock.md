@@ -1,0 +1,24 @@
+---
+title: "Angel Oak Mortgage-Backed Securities ETF (MBS)"
+description: "MBS is an exchange-traded fund tracking agency mortgage-backed securities—the debt obligations backed by pools of American home loans and guaranteed by Fannie Mae, Freddie Mac, or Ginnie Mae."
+keywords:
+  - mortgage-backed securities
+  - fixed income
+  - mortgage bonds
+  - agency MBS
+  - prepayment risk
+  - securitization
+handwritten: true
+---
+
+When a homeowner takes out a mortgage, the lender rarely holds that loan for thirty years. Instead, the lender packages the mortgage with hundreds or thousands of others, sells the bundle to an investment bank, and that bank then carves it into securities sold to investors worldwide. The resulting instrument is a mortgage-backed security, and the mortgage-backed-securities market is one of the deepest and most important fixed-income markets on Earth. The Angel Oak Mortgage-Backed Securities ETF, trading under the ticker MBS, offers investors a low-cost, liquid entry point to this market without having to purchase individual mortgage pools or navigate the wholesale market where institutions typically trade.
+
+The fund holds agency mortgage-backed securities—those explicitly or implicitly guaranteed by one of three government-sponsored enterprises: Fannie Mae, Freddie Mac, or Ginnie Mae. This guarantee is the critical feature. It means that even if homeowners default en masse, the investor still receives the promised principal and interest, because the agencies stand behind the obligation. This mutes credit risk to near-zero, leaving the investor to contend with interest-rate risk and a peculiar feature called prepayment risk, which is the defining characteristic of mortgage-backed-securities investing.
+
+A mortgage-backed security is a stream of cash flows: the principal and interest that homeowners pay each month flows through to the investor. But homeowners have an embedded option: when interest rates fall, they can refinance at a lower rate, repaying the original loan early. From the investor's perspective, this is terrible. When rates fall, bonds normally appreciate—a thirty-year mortgage at 5 percent is worth more when new mortgages require 3 percent. But with mortgage-backed securities, falling rates trigger refinancing, the investor gets principal back just when reinvestment rates have plummeted, and the capital gain evaporates. This is negative convexity: the price appreciation of a mortgage-backed security is capped, but the price depreciation is not. Conversely, when rates rise, homeowners hold their mortgages longer, extending the investor's duration and magnifying losses. This unequal payoff structure is why mortgage-backed securities yield more than Treasuries of the same stated maturity—the extra yield compensates for the prepayment risk.
+
+The MBS ETF operates as a straightforward index tracker, holding a broadly diversified portfolio of agency mortgage-backed securities and tracking an index such as the Bloomberg US Mortgage-Backed Securities Index or a similar benchmark. The expense ratio is among the lowest in fixed income, well under 0.1 percent annually, because passive index funds have minimal operating costs. The fund is highly liquid, trading millions of shares daily on the NASDAQ, so an investor can enter or exit at prices very close to the underlying net asset value. Monthly distributions flow from the coupon payments on the underlying mortgages.
+
+Interest-rate expectations drive everything. When the Federal Reserve signals rising rates, mortgage-backed-securities prices fall as both the yield-based valuation and the effective duration adjust. When rates are expected to decline, mortgage-backed securities can appreciate, though prepayment may cap that gain. The health of the housing market also matters: in severe downturns, mortgage delinquencies can rise, though the government guarantee protects against actual credit loss. Refinancing activity, mortgage origination volumes, and housing starts all influence the supply and composition of mortgage pools, which indirectly affects the fund.
+
+The MBS ETF is designed for investors seeking a stable, income-oriented fixed-income anchor with lower interest-rate risk than long-duration Treasuries and without corporate credit risk. It is common in conservative portfolios, pension funds, and endowments. It is unsuitable for investors who cannot tolerate interest-rate volatility or who plan to sell during periods of rising rates, when mortgage-backed securities can underperform. To research this fund deeply, investors should begin with the fund's prospectus and the index methodology document, which explain the selection criteria and mechanics of the underlying index. Monitoring the Federal Reserve's interest-rate stance and housing data—mortgage applications, originations, and refinancing activity—provides crucial context for expected performance.

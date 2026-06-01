@@ -1,0 +1,36 @@
+---
+title: "Federal Home Loan Mortgage Corp (FMCKO)"
+description: "Freddie Mac is a government-sponsored mortgage securitizer that channels capital into U.S. housing by buying mortgages from lenders, guaranteeing them, and selling securities backed by those loans to global investors."
+keywords:
+  - mortgage securitization
+  - government-sponsored enterprise
+  - mortgage guarantee
+  - housing finance infrastructure
+  - mortgage-backed securities
+  - preferred stock
+handwritten: true
+---
+
+## What does Freddie Mac actually do?
+
+Freddie Mac buys mortgages. That is the irreducible core of the business. When a homeowner borrows money to buy a house from a local bank or mortgage company, Freddie Mac appears as a buyer on the secondary market — it purchases the mortgage from that originating lender for a price slightly below par (what the homeowner owes). The lender immediately has its cash back and can use it to originate new mortgages. Freddie Mac then securitizes those mortgages: it pools them together, typically into groups of hundreds or thousands, and issues securities backed by the cash flows from those underlying loans. Investors — pension funds, insurance companies, foreign banks, individuals — buy those securities in pursuit of steady income. The homeowner keeps sending mortgage payments to Freddie Mac (or its servicer), but now that money flows to the security holders rather than the originating bank. Freddie Mac sits in the middle, guaranteeing that the investors will be paid even if borrowers default, taking a fee for that guarantee, and profiting from the spread between what it pays for mortgages and what those mortgages earn.
+
+## How is it a government company?
+
+Freddie Mac was chartered by Congress in 1970 as a stockholder-owned corporation with an implicit government guarantee. That charter was the entire apparatus: the company was meant to function as a private enterprise, but with a theoretical backstop from the U.S. government if something went catastrophically wrong. The theory broke down during the 2008 financial crisis. When housing prices collapsed and mortgage defaults surged, the private capital that Freddie Mac relied on vanished overnight and the company faced insolvency. In September 2008, the Federal Housing Finance Agency placed both Freddie Mac and Fannie Mae into conservatorship — a legal status meaning the government took control, injected capital, and has managed the company since then, directing it to keep buying mortgages to stabilize the housing market. Fifteen years later, Freddie Mac is still in conservatorship. The government claims it has been repaid and the company is now operating profitably again, but officially Freddie Mac remains under government control. The company pays dividends to the Treasury on the government's preferred stock holdings, but whether and when it will be released back to private ownership, broken up, merged with Fannie Mae, or reformed entirely remains an unresolved policy question.
+
+## What makes the money?
+
+The fundamental earning mechanism is the spread between what Freddie Mac pays for mortgages and what it collects from the security holders and servicers. A homeowner's mortgage might carry a 4% interest rate, but Freddie Mac buys it from the originating bank for 99.5% of face value and sells securities to investors promising them a 3.5% return. That 0.5% discount at purchase plus the 0.5% spread between mortgage income and investor payout — minus the cost to service the loans, the cost to fund the mortgage purchase, and expected credit losses — constitutes the company's profit margin per dollar of mortgages held or securitized. The margins are thin because mortgages are commodities and competition is fierce. Freddie Mac also earns guarantee fees (typically 0.2% to 0.5% annually of the outstanding balance) paid by the investment trusts in exchange for the government guarantee backing. And it earns interest income from the portfolio of mortgage-backed securities it holds rather than sells, though that portfolio is carefully managed to avoid interest-rate risk.
+
+## How big is the mortgage market it operates in?
+
+Freddie Mac and Fannie Mae together guarantee or own roughly half of all residential mortgages outstanding in the United States — a portfolio of more than two trillion dollars. Freddie Mac is the smaller of the two GSEs, with a market share of roughly 20% to 25% of all mortgages nationwide, but that still represents hundreds of billions of dollars. The size fluctuates with origination volume and with the pace of loan payoffs and refinancings. In years of heavy mortgage origination (low rates, strong home sales) the portfolio grows; in quiet years it shrinks. Freddie Mac's market position is stable because lenders prefer to sell mortgages to the GSEs (rather than hold them or sell to private investors) in order to access the government guarantee and lower funding costs.
+
+## What is the biggest risk?
+
+A severe housing downturn would force massive credit losses. When homeowners default on mortgages, Freddie Mac absorbs the loss. In the 2008 crisis, defaults were catastrophic and Freddie Mac's capital was wiped out, requiring government rescue. The company has more capital now, but a repeat of that scenario — or even a less severe but still deep housing recession — would test its balance sheet. The second critical risk is regulatory and political: if Congress or the administration decides to reform the GSE model (by dissolving Freddie Mac and Fannie Mae, heavily restricting them, or changing their charter) the business could be fundamentally reshaped or eliminated. A third risk is interest-rate volatility: Freddie Mac manages an enormous asset-liability mismatch, funding long-term fixed-rate mortgages with shorter-term debt, and swings in rates can create earnings volatility or mark-to-market losses.
+
+## What should an investor watch?
+
+For preferred stockholders, the primary metric is the company's capital ratio — the amount of equity capital relative to the risk-weighted assets it holds. A strong capital ratio means the company can absorb credit losses without cutting the preferred dividend. Track the net interest margin (the spread between mortgage income and funding costs) because it determines profitability. Monitor mortgage default rates and loan-performance statistics; early deterioration is a warning sign. And watch the political environment: any announcements about conservatorship reform, congressional hearings, or regulatory changes affecting the GSEs can materially affect the company's long-term value and dividend safety. The 10-K filing and quarterly earnings reports to the SEC (CIK 0001026214) provide the core data. Preferred-stock investors are particularly sensitive to the capital position and earnings trajectory because the preferred dividend sits behind debt in the capital structure and is the first claim on earnings to be suspended if capital becomes stressed.

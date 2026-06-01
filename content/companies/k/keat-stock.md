@@ -1,0 +1,28 @@
+---
+title: "Keating Active ETF (KEAT)"
+description: "An active, non-transparent ETF managed by Keating Capital Partners, designed for investors betting on manager skill to uncover undervalued securities and outperform passive indices."
+keywords:
+  - active ETF
+  - active management
+  - stock picking
+  - non-transparent ETF
+  - alpha generation
+  - Keating Capital
+handwritten: true
+---
+
+The Keating Active ETF (KEAT) is a bet on active stock-picking skill. Unlike passive index funds that hold preset baskets of securities, KEAT's managers at Keating Capital Partners make discretionary decisions about which stocks to buy and sell, when to trade, and how much to hold in cash. The fund trades on exchange like any ETF — offering daily liquidity and transparent pricing — but the underlying holdings are not disclosed in real time. This non-transparency is intentional: the rationale is that daily disclosure would let competitors and market participants front-run the manager's trades, diminishing any edge.
+
+Structure and access. KEAT issues shares that track the fund's net asset value plus intraday supply and demand. Investors buy and sell on exchange throughout the day at quoted prices. The fund rebalances and executes trades as the manager sees fit, without constraint to an index or predetermined methodology. Holdings are disclosed quarterly or semiannually with a lag, giving investors a sense of the strategy without unveiling every move in real time. This is a meaningful departure from the transparent ETF universe where holdings update daily and index rules are rigid.
+
+The thesis. The pitch is elemental: skilled managers can identify mispriced securities the market has overlooked and capture that value before broader recognition or revaluation. Value can come from deep research on small-cap companies trading below intrinsic value, from contrarian timing on beaten-down sectors, from overlooked balance-sheet strength, or from catalysts management believes will unlock stock appreciation. The fund's returns depend entirely on whether Keating's team delivers. Outperformance is not automatic; it requires both skill and luck. A manager might have great conviction but be wrong on timing; a great pick can take years to pay off.
+
+Costs and performance. Active management is not cheap. KEAT carries an expense ratio materially higher than a passive index ETF — because paying managers, analysts, and researchers demands capital. That fee is justified only if the managers beat the index net of costs. If KEAT returns 12 percent while the S&P 500 returns 10 percent, the fees likely were worth it. If KEAT returns 8 percent while the market returns 10 percent, the fee was a headwind. The first question any investor must ask is: do the managers have a track record of beating their benchmark by a margin that covers their fee?
+
+Liquidity and the trading edge. KEAT trades on exchange like a stock, enabling intraday buying and selling without waiting for day-end pricing or redemption lags. For traders or tactical allocators, this is convenient. For long-term passive holders, the daily repricing is irrelevant — they should ignore intraday prices and hold. The bid-ask spread depends on daily trading volume and the liquidity of the underlying portfolio. If the fund grows, spreads tighten; if it shrinks, they widen.
+
+Manager risk and style drift. An active fund's biggest risk is manager-specific. If the individuals running the fund leave — retirement, poaching by competitors, internal disputes — performance often falters because returns depended on their judgment and processes. Additionally, strategies can drift subtly over time. A manager hired to run a small-cap value strategy might, in pursuit of returns, gradually load up on growth stocks if growth has outperformed, abandoning the stated thesis without explicit announcement. Read the prospectus carefully and track portfolio holdings quarterly to assess whether the actual portfolio matches the stated investment objective.
+
+Research and due diligence. Start with the prospectus, which outlines the investment objective, constraints, and fee structure. Study the fund's performance history net of fees against its stated benchmark — the S&P 500, Russell 2000, or another relevant index — over at least three to five years. One good year is noise; sustained outperformance over a full market cycle is evidence. Examine the management team: How long have they worked together? What is their investment philosophy? What markets or securities do they know deepest? Review quarterly or semiannual holdings disclosed with lag to assess whether the portfolio aligns with the stated strategy. Finally, compare KEAT's returns and risk profile to other active ETFs with similar mandates to gauge whether this manager's edge is real or if competitors are delivering better results more cheaply.
+
+Suitable investors. KEAT suits investors who believe skilled active managers can generate excess returns in their market and who are willing to pay elevated fees for that bet. It suits those seeking differentiation from a broad passive portfolio or those with conviction in Keating's particular investment philosophy. It does not suit passive buy-and-hold investors seeking the lowest-cost exposure, nor does it suit those uncomfortable with manager risk or expecting certainty of outperformance. Do not buy multiple active ETFs with different managers hoping the gains will compound; the math does not work that way.

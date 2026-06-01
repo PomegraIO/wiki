@@ -1,0 +1,42 @@
+---
+title: "Rithm Capital Corp. (RITM-PD)"
+description: "RITM-PD is a reset-rate preferred share of Rithm Capital, a mortgage investment and servicing company. The reset mechanism adjusts the dividend periodically based on market rates, giving investors both income and price volatility compared to fixed-rate preferred shares."
+keywords:
+  - reset preferred shares
+  - dividend adjustment
+  - mortgage REIT
+  - Rithm Capital
+  - variable income
+  - preferred equity
+handwritten: true
+---
+
+Rithm Capital is a company that makes money from mortgages. The company buys mortgage-backed securities, owns mortgage servicing businesses that collect payments from homeowners, and manages credit investments. RITM-PD is a reset-rate preferred share issued by Rithm Capital.
+
+What does reset-rate mean? When you buy a typical preferred share, the dividend stays the same forever. You get, say, 7 percent a year, and you keep getting 7 percent until the company redeems the share or goes bankrupt. With a reset-rate preferred, the dividend rate changes every few years. It resets based on what new preferred shares of the same rank would pay in the market. If interest rates go up, the reset rate goes up too, and your dividend rises. If rates fall, your dividend falls.
+
+This matters because it affects what your share is worth. A fixed-rate preferred at 5 percent is worth less if new preferred shares are paying 8 percent — you are stuck with the old lower rate, so the price of your share falls to create yield parity with the new ones. A reset-rate preferred, by contrast, will eventually pay the new market rate when it resets, so the price is less likely to fall far. You trade that price stability for uncertainty about future income. You do not know what your dividend will be two years from now.
+
+Rithm Capital started in 2013 as New Residential Investment Corp., a company that did one thing: buy residential mortgages and mortgage-backed securities for the balance sheet and collect the interest income. External managers at Fortress Investment Group ran the company on a day-to-day basis. The company paid Fortress a management fee and the stock price was determined by how well those managers deployed capital. This worked for a decade, but in 2022 Rithm internalized — it fired the external managers, brought management in-house, and renamed itself to Rithm Capital Corp. to signal a broader mandate.
+
+Why internalize? Management fees paid to Fortress were a drag on shareholder returns. Once the company was large enough, it could hire its own team cheaper than paying an external sponsor. The savings were estimated at around $60-65 million per year, meaningful money. More importantly, internalization freed the company to build multiple business lines rather than just buying and holding securities. A mortgage manager working for a sponsor like Fortress is optimized to hit the sponsor's return targets and lock in sponsor fees. An internal management team can reinvest profits into new services, tighter integration between different parts of the business, and strategic bets the sponsor would not fund.
+
+After internalization, Rithm built out NewRez, a mortgage origination and servicing platform. If you refinance your home or get a new mortgage, the lender (which might be a bank or another mortgage company) sells that loan into the secondary market. NewRez buys some of these loans, services them (collects your monthly payment, manages escrow, handles delinquencies), and earns fees. The company also owns Shellpoint Mortgage Servicing and other servicing platforms. This vertical integration matters. Rithm now sits at three points in the mortgage supply chain: it buys securities, it originates and services loans, and it manages capital for outside investors.
+
+Downstream from Rithm are the investors who buy its securities and whose loans it services. Banks, pension funds, insurance companies, and foreign governments own mortgage-backed securities that Rithm manages or originates. The company's Asset Management division is growing — it manages capital that does not come from Rithm's own balance sheet but from outside clients who pay management fees. This is less capital-intensive and more scalable than just investing your own money.
+
+Upstream are the originators who feed loans to the system. Banks and mortgage companies create the loans. The better the loan origination market is, the more assets Rithm has to buy and the more the servicing platform can grow. In a weak economic environment where fewer people are buying homes and fewer are refinancing, origination volumes collapse. Rithm's servicing business becomes more valuable in bad times (because it is steady and recurring) but origination margins shrink because there are fewer loans to compete for.
+
+The mortgage market itself depends on things Rithm cannot control. Interest rates set by the Federal Reserve determine whether people want to refinance. Economic growth determines home sales. Credit spreads in the financial markets determine how much Rithm can borrow to finance its portfolio. Government policy around mortgage lending (like the rules Fannie Mae and Freddie Mac set for loan origination) shapes the entire supply chain downstream.
+
+What makes Rithm different from other mortgage investors? The integrated platform. A pure investor in mortgage securities has to buy on the open market and take whatever spreads the market gives them. A pure servicer earns fees on assets it does not own and takes no credit risk. Rithm does both. It can originate loans, bundle them, sell some to investors, keep some on its balance sheet, and service all of them. It can negotiate with servicers or originators because it does large volume across the system. This vertical integration is not unique — banks do it all the time. But for a pure-play mortgage platform, it is distinctive. Other public mortgage REITs are mostly pure balance-sheet investors. Rithm is part operator.
+
+The main risk is interest-rate sensitivity. When rates rise, the value of mortgage-backed securities on Rithm's balance sheet falls — mortgages paying 3 percent are worth less when new mortgages pay 6 percent. Refinancing slows, so the servicing platform originates fewer loans and earns lower volumes. When rates fall, the opposite happens: prepayments accelerate as homeowners refinance, loans pay off early, and Rithm has to reinvest capital at lower yields.
+
+Economic recessions are dangerous too. Mortgage defaults rise when unemployment rises and home values fall. Rithm's non-agency mortgage securities (mortgages not backed by Fannie or Freddie) carry credit risk — defaults reduce the value of those securities. Even agency securities can suffer if the company was short on cash and had to sell into a declining market.
+
+Regulation is an underestimated risk. The Consumer Financial Protection Bureau and state regulators oversee mortgage servicing. Lawsuits around fair lending, servicing practices, and foreclosure procedures happen frequently in the mortgage industry. The use of artificial intelligence to underwrite mortgages or detect fraud is increasingly scrutinized. Rising compliance costs eat into servicing margins.
+
+Finally, there is access to capital. Rithm funds its portfolio partly with deposits and borrowing, partly with preferred and common equity. If the market for preferred shares deteriorates and Rithm cannot raise capital cheaply, it has to sell assets or reduce the balance sheet. The reset rate on RITM-PD will move up if rates rise, making new preferred shares harder to sell.
+
+To research Rithm Capital and understand RITM-PD specifically, start with the company's 10-K (SEC CIK 0001556593), which lists all preferred share classes, their terms, and their dividend rates. Read the risk factors section carefully — the company must disclose interest-rate risk, credit risk, and liquidity risk. Look at the quarterly earnings call transcript to hear what management says about the origination environment, mortgage spreads, and defaults. Track the company's tangible book value, the net interest margin on the portfolio, and the origination volumes. Watch to see when the company exercises its option to redeem the preferred shares — that tells you whether it is confident about future earnings and wants to refinance at lower costs. If the company ever suspends a preferred dividend, that is a red flag that earnings are under severe pressure.

@@ -1,0 +1,25 @@
+---
+title: "GraniteShares 2x Long PLTR Daily ETF (PTIR)"
+description: "A leveraged ETF that seeks to deliver twice the daily return of Palantir Technologies. Designed for tactical trading with daily rebalancing; carries volatility decay risk in extended holding periods."
+keywords:
+  - leveraged etf
+  - palantir
+  - daily reset
+  - inverse leverage
+  - volatility decay
+handwritten: true
+---
+
+PTIR is a leveraged exchange-traded fund sponsored by GraniteShares that tracks a single underlying: Palantir Technologies (PLTR), the data-intelligence and government-services company. The fund seeks to deliver twice the daily return of PLTR — meaning if Palantir shares rise 1% in a single trading day, PTIR is designed to rise 2%. The cost of that amplification is both structural and behavioral: the fund uses derivatives to maintain its leverage, which generates daily reset mechanics and internal costs, and leverage creates a mathematical drag called volatility decay that erodes returns over longer holding periods. PTIR is not built for buy-and-hold investing; it is a tactical instrument meant to be used by traders and hedgers looking for near-term price movements in a single stock.
+
+The mechanics of leverage are the key to understanding both the appeal and the danger. PTIR does not simply buy Palantir shares two-to-one. Instead, it uses a combination of synthetic instruments — swaps and options, primarily — to achieve its daily leverage. Each day, the fund resets its positions to maintain the target 2x leverage ratio, meaning the portfolio is algorithmically rebalanced at the close to stay locked to that multiple. This daily reset is what allows the fund to cleanly track twice the daily return on any given trading day.
+
+The problem emerges as soon as holding periods lengthen beyond a single day. Consider a scenario: PLTR rises 10% one day, then falls 10% the next. A buy-and-hold investor in the stock breaks even over the two days. But PTIR, which is leveraged 2x, rises 20% on day one, then falls 20% on day two — and 20% of a higher base is a larger absolute loss than 20% of the original base, so the investor is underwater. This phenomenon, called volatility decay or the compounding drag, is inherent to any leveraged fund that resets daily. The longer the holding period and the more volatile the underlying, the worse the decay. In a sideways market with sharp intraday swings, a leveraged fund can bleed value to this effect alone, independent of whether the stock eventually recovers.
+
+The expense ratio matters, though less dramatically than the reset mechanics. GraniteShares charges a modest annual fee on PTIR's assets, reflecting the cost of maintaining the leveraged positions and executing daily rebalancing. That fee compounds over time and works against longer-term holders, though for a trader planning a holding period of days or weeks, it is usually secondary to the volatility-decay risk.
+
+Who would use PTIR? Typically, traders who have a strong short-term bullish view on Palantir and want to express that view with magnified daily sensitivity. A hedge fund or active trader might use PTIR to gain concentrated exposure without committing as much capital as buying Palantir shares outright, or to tactically amplify a position for a known catalyst — an earnings announcement, a major contract win, a geopolitical event — that they believe will move the stock decisively in one direction within days. The fund is highly liquid, trading on major exchanges just like a stock, so large positions can be entered and exited without moving the market significantly.
+
+PTIR carries risks beyond volatility decay. Single-stock leveraged ETFs are concentrated bets: PLTR's own business and competitive position drive the entire outcome. The liquidity of the underlying fund (the derivatives and financing PTIR holds) is another consideration; in a market stress or liquidity crunch, these synthetic positions could widen in cost or become difficult to maintain. And the simplest risk is behavioral: the amplified daily sensitivity can trigger emotional overshooting, where a trader buys PTIR at the top of a rally and sells at the bottom of a drawdown, crystallizing losses that would have been far smaller in the underlying stock.
+
+Anyone considering PTIR should understand that this is a derivative instrument, not a way to own Palantir for the long term. The prospectus and fact sheet, available from GraniteShares, lay out the full mechanics, fees, and risks. A key metric to watch is the "decay ratio" — how much return PTIR has given up relative to twice the daily return of PLTR since inception, which shows the cumulative effect of reset mechanics and volatility. For a tactical trader with a clear, time-bound thesis and discipline to exit, PTIR can be an efficient tool. For buy-and-hold investors, the mathematics of leverage and daily reset make it a costly way to own Palantir stock.

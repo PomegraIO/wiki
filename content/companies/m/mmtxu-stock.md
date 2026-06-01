@@ -1,0 +1,27 @@
+---
+title: "Miluna Acquisition Corp. (MMTXU)"
+description: "Miluna Acquisition Corp. is a Cayman Islands blank-check company formed to merge with or acquire growth-focused businesses. Priced at $10 per unit in October 2025 IPO, raising $60 million."
+keywords:
+  - SPAC
+  - blank-check company
+  - growth acquisition
+  - Cayman Islands
+  - merger vehicle
+handwritten: true
+---
+
+Miluna Acquisition Corp. is a blank-check company registered in the Cayman Islands and formed for the purpose of identifying and merging with or acquiring a growth-focused business. The company launched its initial public offering in October 2025, pricing 6 million units at $10.00 per unit and raising $60 million in gross proceeds. Each unit includes one ordinary share and one redeemable warrant. The units began trading on Nasdaq under the symbol MMTXU on October 23, 2025. Like all SPACs, Miluna is a financial vehicle without operating assets, products, or revenue — it exists as a shell waiting to absorb or merge with a real business.
+
+The capital structure of a SPAC shapes how it behaves across economic cycles. Miluna's $60 million raised represents a modest-sized blank-check offering. To put it in context, the largest SPACs raised $500 million or more in the mid-2020s, while many smaller ones were in the $50 million to $150 million range. A smaller fund means Miluna's sponsors are hunting for targets in the small-to-mid-cap space, or for particular geographies or sectors where transaction multiples are compressed. This affects the cyclical profile: smaller SPACs tend to be more nimble during downturns (smaller check to deploy, faster to complete), but they also have less flexibility if an ideal target requires more capital than the trust can deploy.
+
+The warrant structure is standard. Each warrant is exercisable into one ordinary share at a fixed strike price, typically $11.50, and the warrant has a fixed expiration date. Warrants create leverage for the SPAC story: if the merged company's stock trades well above the strike, warrant holders capture outsized gains. But if the merged company underperforms or the market turns, the warrant expires out of the money and becomes worthless. In a prolonged bull market, warrant demand is voracious and warrant prices can far exceed their intrinsic value as investors bid up the leverage. In a bear market, warrant demand evaporates; holders face illiquidity and the prospect of expiration without ever being in the money.
+
+The fact that Miluna is a "growth-focused" SPAC (not, say, fintech-focused or healthcare-focused) suggests the sponsors are keeping their options open and hunting broadly for companies with expansion upside. That breadth comes with a tradeoff. The more specific the SPAC's stated investment thesis, the easier it is for investors to have conviction in the sponsor team's expertise. A fintech SPAC with a fintech-veteran sponsor team sends a signal: these guys know the space, and if they find a target, they'll vet it well. A generic "growth" SPAC sends a weaker signal and may attract a less focused shareholder base. That matters in a downturn, because when share prices fall and redemption votes arrive, specialized SPACs with insider credibility often face lower redemption rates than generalist ones.
+
+Miluna announced that unit holders could elect to separately trade the ordinary shares and warrants commencing December 15, 2025. Once that separation occurs, the shares trade under the symbol MMTX and the warrants under MMTXW. The economics are then cleaner: you own shares as a bet on the SPAC finding a good merger target, and you own warrants as a bet on the merged company's equity rising significantly above the strike price.
+
+The cyclical arc of a SPAC like Miluna plays out across the calendar. In the formation and IPO phase (where Miluna was in October 2025), capital is plentiful and investors are optimistic about deal flow. In the hunting phase (months 1–12 after IPO), the sponsor team negotiates with potential targets. A strong market environment and rising equity valuations make targets more willing to consider a SPAC merger, because the public market path is attractive. When a deal is announced, public shareholders vote on the merger agreement, and the redemption rate signals confidence. Then comes the merger closing, and the SPAC disappears into the merged company — a newly public business begins trading on its own merits, stripped of SPAC mythology.
+
+If the merged company hits growth targets and the broader equity market is cooperative, early SPAC investors who held through can see strong returns. If the merged company stumbles or the market turns hostile to growth stocks, they face losses. The cyclical stress is highest during the transition: when a SPAC merger closes during a market downswing, the merged company's stock often falls sharply, catching investors who were optimistic during the IPO. And for SPACs that miss their merger deadline during a sustained downturn, or that are forced to close a marginal deal because time is running out, the returns are often poor.
+
+For Miluna, the next major event is the announcement and negotiation of a merger target. Investors in MMTXU units and subsequent shareholders in the separated shares and warrants are betting the sponsor team finds a compelling acquisition, negotiates reasonable terms, and executes the integration in an economy that remains hospitable to growth companies. That is a multi-part bet on both the sponsor's skill and the economic cycle.
